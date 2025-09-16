@@ -218,46 +218,73 @@ Confirming **email addresses is a common practice, especially during account set
 
 ---
 
-## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+## Additional insights
+
+### Additional insight 1
+
+If referencing the user's sign-in provider, some Veterans struggle to remember which credentials they use, which can cause confusion.
+
+- [04/12/2023 Deferred Identity Proofing Round 1: Usability - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8f3127aa839f6a14936c3fb94ff5e207abc472bf/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md)
 
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
+1. **Recommendation:** Include clear deadlines, risks, or benefits of email verification in the alerts and emails to provide users clear direction on what needs to happen and why.
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+   - Supporting evidence: Key finding 1
 
-## Product User and Business Outcomes
+2. **Recommendation:** Swap from use of verification to confirmation to match identity standards.
 
-*Explain how findings and recommendations align with the product's goals.*
+   - Supporting evidence: Key finding 2
 
-> [!NOTE] 
-> Refer back to your Product Outline. 
+3. **Recommendation:** Only use modals to communicate email verification when it is a user triggered action, such as adding or updating their email address.
 
-### Desired User Outcome 
-This research supports our desired user outcome by....
+   - Supporting evidence: Key finding 3
+
+4. **Recommendation:** Consider including a checkbox to confirm the user has read the modal prior to allowing them to close it.
+
+   - Supporting evidence: Key finding 3
+
+5. **Recommendation:** For initial launch, or annual renewal, consider use of emails, alerts, and interstitials to communicate the action.
+
+   - Supporting evidence: Key finding 3
+
+6. **Recommendation:** Ensure that the user can easily swap between devices to confirm their email address, and that there is no requirement to stay on a single device.
+
+   - Supporting evidence: Key finding 4
+
+
+## Product user and business outcomes
+
+The objective of this initiative is to improve the accuracy and completeness of contact information within VA.gov user profiles by building a contact email verification process. The goal is to ensure that VA Profile/VA Notify/VA.gov Profile are able to support sending timely and critical communications from the VA to verified email addresses, leading to improved engagement and reduced errors in delivery.
+
+[Initiative Brief - Email Verification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity-personalization/profile/contact-information/email-verification/initiative-brief.md)
+
+### Desired user outcome 
+This research supports our desired user outcome by ensuring the content and process are not frustrating or confusing for our users, and match VA standards.
  
-### Desired Business Outcome
-This research supports our desired business outcome by....
+### Desired business outcome
+This research supports our desired business outcome by ensuring more users interact with the email verification process to reduce silent failures.
 
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+- Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+  - Key Result 3: 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-### KPI 1
-This research supports measurement of this KPI by....
+- Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
+
+  - Key Result 2: We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
 
 
-## Next Steps
+### KPI 1.3 and 2.2
+
+This research supports measurement of these KPIs by ensuring that if an email is unable to be sent that users are notified in their profile. As well as increase accuracy of emails on file by prompting users regularly to update.
+
+
+
+## Next steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
 
@@ -270,184 +297,57 @@ This research supports measurement of this KPI by....
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity-personalization/profile/contact-information/email-verification)
 
-### Tools used for Synthesis
+  - [Initiative Brief - Email Verification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity-personalization/profile/contact-information/email-verification/initiative-brief.md#L5-L13)
+
+  - [Email Verification (mobile) Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity-personalization/profile/contact-information/email-verification/mobile/product-brief.md)
+
+- Research plan: None
+
+- Conversation guide: None
+
+- Interview transcripts: None
+
+### Tools used for synthesis
 
 *List tools or techniques used, e.g., Mural, affinity mapping.*  
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+_None_
 
+### Other supporting documents
 
-### Other supporting documents created
+- Figma files: [Existing ID.me and Login.gov designs](https://www.figma.com/design/kjhHcpanHjaEGPcT7Oe5uC/User-flows-for-modern-CSP-account-creation?node-id=0-1\&t=FlNGkr73TK8fhKYE-1)
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- Website documentation: [Confirm your ID.me email address](https://help.id.me/hc/en-us/articles/202673934-Confirm-your-ID-me-email-address)
 
+- Product documentation: [User flows for creating a new Login.gov and ID.me account on VA.gov and VA mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/c4bb620c917c48668d19247dd313f919f2a94ba3/products/identity/sign-in-transition/account-creation-user-flows-for-logingov-and-idme.md)
+
+- Slack Canvas: [Identity Team's view on the use of "verify"](https://dsva.slack.com/docs/T03FECE8V/F09F0KK6YQJ)
 
 ### Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- [U.S. Web Design System (USWDS) | Modals](https://designsystem.digital.gov/components/modal/)
 
-### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
+- [12/07/2023 Email Content Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/va-notify/research/Email%20Content%20Research%20Findings.md)
 
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
+- [08/2023 \[2023-04-Household Information Section Usability\] Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-04-Household%20information%20section%20usability/research-findings.md#hypotheses-and-conclusions)
 
-#### Recruitment criteria
+- [05/31/2023 Proactive CSP migration research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/94976c2516081519456125273fe2e39954778017/products/identity/Research/2023-04%20Proactive%20CSP%20Migration/2023-04%20Proactive%20CSP%20Migration%20research%20findings.md)
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- [04/12/2023 Deferred Identity Proofing Round 1: Usability - Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8f3127aa839f6a14936c3fb94ff5e207abc472bf/products/login.gov-adoption/research/2023-03-Deferred-Identity-Proofing-Round-1-Usability/research%20findings.md)
 
-#### Demographics 
+- [10/17/2022 Profile Editing Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/353919145808779aaed1a3d7c7a5b827c5778db1/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/findings-summary.md#profile-editing-research-findings)
 
-We talked to **x participants.**
+- [9/29/22 Profile Editing Research - Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/353919145808779aaed1a3d7c7a5b827c5778db1/products/identity-personalization/profile/Research/2022-09-profile-editing-evaluation/topline-summary.md)
 
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+- [July 30, 2020 Disability Compensation Notifications Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/va-notify/research/notifications-research-report.md#disability-compensation-notifications-research-report)
 
 
-Gender:
-* Male: x 
-* Female: x 
+#### Not relevant, but shows in Co-pilot search
 
+- [2024 Q4 quantitative data findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity/Research/Ongoing%20-%20quantitative%20data/2024%20Q4%20quantitative%20data%20findings.md): Noting there is a finding here about an increase in confirmation email errors in relation to identity, but it’s due to MHV migration slowing down the system. This was almost a year ago.
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
-
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
-
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-#### Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-   
-_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
-
-
-### Recruitment of underserved groups in [Study name]
-
-**Final # of participants:** --  
-**# of AT users:** --  
-**# of no shows:** --
-
-#### General
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Age 55-64+ | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Cognitive Disability | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile user | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Rural | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| No degree | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Other than honorable | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Immigrant origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Women | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Expat (living abroad) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### Race
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Black or African American | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hispanic, Latino, or Spanish origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Biracial | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Asian | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native Hawaiian or other Pacific Islander | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| First Nations (Canada) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native, American Indian or Alaska Native | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### LGBTQ+
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Gay, lesbian, or bisexual | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Transgender | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Nonbinary, gender fluid, gender queer, Two-Spirit | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### Assistive Tech (AT)
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Beginner AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Desktop Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Magnification/Zoom | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Speech Input Tech (Siri, Dragon) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hearing Aids | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Sighted Keyboard | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Captions | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Switch Device | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+[Conversation Guide for VA-MCT Logon Research, October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/479cc4a33514a922e71cd3b944ccdd703be289de/products/identity/login/ds-logon/research/user_session_notes/07_notes.md): Noting that confirmation emails are mentioned in this research, they’re in relation to 2FA, not confirming the email address.
