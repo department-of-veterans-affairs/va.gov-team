@@ -132,7 +132,15 @@ Representative responses:
 
 <br>
 
-> I would like the medications that are discontinued and not current active ones to be archived so that they are no longer on my medications list. Also logging out is hard because the system area where I can log out doesn't work. I have to just close my browser to get out of the VA app. Thank you.
+> In Upcoming Appointments it would be nice to mention the clinic, or care giver that one is seeing and not just the place. Often these appointments are made months in advance and can get confusing with multiple appointments being made.
+
+<br>
+
+> It would be nice if in the appointments, I could see what the appt if for. Like, Optometry. Labs. Ortho. Dental. Etc. Get it?  
+
+<br>
+
+> Myhealthevet has a lot more info. If I want to know who my provider is I can only get that info on my health vet.
 
 <br>
 
