@@ -27,7 +27,7 @@ My goal today is to understand your experience with implementing Siteminder, and
 
 ## First Task: Previous Implementation Experience
 
-- Were you with the VA when ________ implemented IBM IVSA ?
+- Were you with the VA when ________ implemented IBM SVA ?
   - If yes – What do you recall about that time? Did you work with IAM?
   - If no – is there any documentation or knowledge about that implementation that was shared with you when you started?
 - Have you worked with the ICAM team before?
