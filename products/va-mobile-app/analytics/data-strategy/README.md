@@ -5,7 +5,7 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 ## Metric Definition
 **[Defining the Most Important Metrics for the VAHB Mobile App](./measurement-framework.md)**
 - To capture the overal health of the Mobile app, we're interested in telling 2 stories:
-     - A story about the user’s experience ([experiential metrics](./data-strategy/measurement-framework.md#experiential-metrics))
+     - A story about the user’s experience ([experiential metrics]([./data-strategy/measurement-framework.md#experiential-metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#experiential-metrics))
      - A story about the platform’s health ([platform metrics](./data-strategy/measurement-framework.md#platform-metrics))
  
 **[Metrics Data Dictionary](./Mobile%20-%20Metrics%20Data%20Dictionary.pdf)**
