@@ -244,7 +244,7 @@ Users reported issues with usability on key features such as messaging. While ot
 
 <br>
 
-### General/other feedback (2)
+#### General/other feedback (2)
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. During this reporting period only 2 received responses fell into this category.
 
 Responses:
