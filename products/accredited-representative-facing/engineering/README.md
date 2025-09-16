@@ -19,10 +19,6 @@ To reach out to ARF engineers on Slack, message @arfeng
 
 To tag engineers on GitHub PRs as `Reviewers`, please use: [benefits-accredited-rep-facing-engineers](https://github.com/orgs/department-of-veterans-affairs/teams/benefits-accredited-rep-facing-engineers)
 
-## Engineering Agreements
-
-Learn about our engineering working style and agreements: [ARF Engineering Agreements](/teams/vso/teams/accredited-representative-facing/process/engineering-agreements.md).
-
 ## Onboarding Documentation
 
 For new team members, please review the onboarding documentation to get started with our engineering processes, tools, and best practices. You can find the onboarding guide here: [Onboarding Documentation](docs/arf-engineer-onboarding.md)
