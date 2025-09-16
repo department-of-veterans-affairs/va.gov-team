@@ -278,7 +278,7 @@ Note on Accessibility: Due to prototype limitations, this study did not include 
 4. Key payment information must be surfaced and easy to retain.
 5. Digital statements and documents are a core need for users.
 6. Separation of current and resolved debt is beneficial for clarity.
-7. Users want a clear, centralized way to manage their bills.
+7. Users want a clear, centralized way to manage their debt and bills.
 
 
 
@@ -443,7 +443,7 @@ The remaining participants (2 out of 5) were content with having the resolved an
   > _"'Closed' or some type of other wording that says it's been paid." - P10_
 
 
-### Finding 7: Users want a clear, centralized way to manage their bills.
+### Finding 7: Users want a clear, centralized way to manage their debt and bills.
 
 The overall structure of the Payments page is clear to the majority of participants (9 out of 12). A small group (3 of 12), all of whom were not receiving benefits in their real life, were confused by the section of payments made to them.
 
