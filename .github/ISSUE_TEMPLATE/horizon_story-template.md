@@ -10,6 +10,9 @@ assignees: ''
 ## Description
 -
 
+## Context
+-
+
 ## User story
 
 -As a Horizon team member, I want... so that...
@@ -27,6 +30,7 @@ assignees: ''
 - 
 
 ## Acceptance criteria
-- [ ] blank
+
 - [ ] QA review
+- [ ] UX review of implementation
 - [ ] A11y review
