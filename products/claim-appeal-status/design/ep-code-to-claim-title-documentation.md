@@ -50,9 +50,10 @@ Last updated: [September 15, 2025]
 - Should never show to Veterans or other claimants
 - Correction VA needs to make
 - If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication
-**NOTE:** Pension Management Center (PMC), Decision Review Operations Center (DROC)
 
-| EP Code | Claim Label | Reasoning | New Claim Title |
+_**NOTE:** Pension Management Center (PMC), Decision Review Operations Center (DROC)_
+
+| EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
 | 960CRRC | Corporate Record Rating Correction | Correction VA needs to make | NONE |
 | 960CRRCPMC | PMC - Corporate Record Rating Correction | Correction VA needs to make | NONE |
@@ -61,44 +62,51 @@ Last updated: [September 15, 2025]
 | 960AERPMC | PMC - Administrative Error Rating | Correction VA needs to make | NONE |
 | 960AENR | Administrative Error Non-Rating | Correction VA needs to make | NONE |
 | 960AENRPMC | PMC - Administrative Error Non-Rating | Correction VA needs to make | NONE |
+
 ## EP 290 - Filtered Out (Some)
 *Filtered out for both mobile and VA.gov*
 - Should never show to Veterans or other claimants
 - VA process: adjudicative decisions
 - Cleared upon a favorable or unfavorable substitution determination
-**NOTE:** LGY is Loan Guaranty the VA Home Loan program, which helps Veterans buy, build, or refinance a home with favorable terms
 
-| EP Code | Claim Label | Reasoning | New Claim Title |
+_**NOTE:** LGY is Loan Guaranty the VA Home Loan program, which helps Veterans buy, build, or refinance a home with favorable terms_
+
+| EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
 | 290HEF73R | Healthcare Eligibility - 731 Review | Identify and clarify health records from VHA to specialty | NONE |
 | 290LGYDES | Pre-Discharge LGY Determination - IDES | Filtered: work done outside VBMS | NONE |
 | 290LGYEDD | LGY Determination - BDD | Filtered: work done outside VBMS | NONE |
+
 ## General Filtered Out
 *Filtered out for both mobile and VA.gov*
 - Should never show to Veterans or other claimants
 - VA process or corrections
-**NOTE:** FID is the VA Fiduciary the Department of Veterans Affairs program that appoints individuals to manage the VA benefits of veterans and other beneficiaries who are deemed unable to manage their own finances
-Office of General Counsel (OGC)
 
-| EP Code | Claim Label | Reasoning | New Claim Title |
+_**NOTE:** FID is the VA Fiduciary, the Department of Veterans Affairs program that appoints individuals to manage the VA benefits of veterans and other beneficiaries who are deemed unable to manage their own finances; OGC is Office of General Counsel_
+
+| EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
 | 020BSCFID | FID - Incompetency Review - S/C | Examiner submits a Supervised Direct Pay review for service-connected beneficiary | NONE |
 | 020BPFID | FID - Incompetency Review - Pension | Examiner submits a Supervised Direct Pay review for pension beneficiary | NONE |
 | 130YR100PMC | PMC - 100 - Year Review | VA initiated: Eligibility verification for beneficiaries age 100 or older | NONE |
-| 400ORR | OGC Reasonableness Review| Office of General Counsel (OGC) review of attorney or agent fee reasonableness | NONE |
+| 400ORR | OGC Reasonableness Review | Office of General Counsel (OGC) review of attorney or agent fee reasonableness | NONE |
 | 930CLQENR | Correction of Local Quality Error - Non-Rating | Correction of VA error | NONE |
+
 ## EP 290 - Eligibility Determinations (Other)
 *Used for adjudicative decisions involving non-standard VA benefits, elections, waivers, fiduciary issues, and other payment-related matters*
-| EP Code | Claim Label | Reasoning | New Claim Title |
+
+| EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
 | 290SCPMC | PMC - Substitution of Claimant (290) | Substitution request for deceased claimant because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
 | 290SCR | Substitution of Claimant - Rating | Substitution of claimant request with and without a disability rating because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
 | 290SCNR | Substitution of Claimant - Non-Rating | Substitution of a claimant request with and without a disability rating because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
+
 ## Other 'null'
-*Other 'null' states not in above categories*
-| EP Code | Claim Label | Reasoning | New Claim Title |
+*Other previously 'null' states not in the above categories*
+
+| EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
-| 130SDDI | In Service Death Dependency Issue | Survivor and dependant compensation. A Veteran filed a disability claim, died, and the VA learned of the death before finishing the claim. "concurrent in-service death claim" | Claim for compensation to a surviving dependent |
+| 130ISDDI | In Service Death Dependency Issue | Survivor and dependant compensation. A Veteran filed a disability claim, died, and the VA learned of the death before finishing the claim. "concurrent in-service death claim" | Claim for compensation to a surviving dependent |
 | 330DVRPMC | PMC - Dependency Verification Review | VBA-initiated dependent status check (8-year check) | Automatic dependency verification review |
 | 130DV0537PMC | PMC - Dependency Verification - 0537 | VBA-initiated marital relationship status check (8-year check) | Automatic marital status verification review |
 | 290DVPMC | PMC - Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Request for debt review |
