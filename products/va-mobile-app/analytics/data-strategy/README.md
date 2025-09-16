@@ -45,4 +45,4 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
      - An editbale version of the designs can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=1178-2795&t=HoJTu9cAZHt6l8iz-0).
 - Documentation of existing reports and data visualization brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
 - Next steps: build out in PowerBI
-- Considerations: to reduce dashboard load time, consider opportunities to optimize data queries
+- Considerations: to reduce dashboard load time, consider opportunities to optimize data queries such as running queries at a set frequency (i.e. weekly) and limiting content in each query to what is relevant to the output
