@@ -257,6 +257,26 @@ Users reported issues with usability on key features such as messaging. While ot
 ### Pain points
 In addition to those noted in the primary themes above the following user pain points were shared this month in reviews.
 
+**Travel pay issues (15)**
+
+Users were frustrated trying to find travel pay in the app after VA marketed the feature recently. One user requested the ability to submit community care travel claims. A few users desired more status information about travel claims.
+
+> You have no way on this app to apply for travel pay or see travel pay information
+
+<br> 
+
+> The new Travel Reimbursement is not allowing me to do anything. Same as before. 
+
+<br>
+
+> Wish there was a link to check Travel claims status. Currently, the link only appears when filing a claim and then disappears. Thank you.
+
+<br> 
+
+> You did not add CITC appointments and travel. You have no one available to process your claims on travel when appts are not in a VA facility. This app should be more friendly with ability to apply for travel pay as well for ALL  BA approved appts but it is not.
+
+<br>
+
 **Lack of support for app users (7)**
 
 Many users requested help directly in their reviews or noted the difficulty they've had when seeking help while using the app.
@@ -340,17 +360,6 @@ A few users reported incorrect information displaying in the system.
 
 <br>
 
-
-**Travel pay issues (2)**
-
-> The new Travel Reimbursement is not allowing me to do anything. Same as before. 
-
-<br>
-
-> Wish there was a link to check Travel claims status. Currently, the link only appears when filing a claim and then disappears. Thank you.
-
-<br> 
-
 **Veteran status card unavailable (2)**
 
 Two users had difficulty accessing or loading their Veteran status cards.
@@ -375,152 +384,246 @@ Two users had difficulty accessing or loading their Veteran status cards.
 
 
 ## Feature specific feedback
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Navigation | # | # |
-| Login | # | # |
-| Disability rating | # | # |
-| Claims | # | # |
-| Letters and documents | # | # |
-| Profile | # | # |
-| Payments | # | # |
-| Travel Pay | # | # |
-| Messaging | # | # |
-| Prescriptions | # | # |
+| Feature | # of ratings |
+|--|--|
+| Navigation| 8 |
+| Login | 9 |
+| Disability rating | 0 |
+| Claims | 4 |
+| Letters and documents | 0 |
+| Profile | 5 |
+| Payments | 6 |
+| Travel Pay | 20 |
+| Messaging | # |
+| Prescriptions | # |
 
 
 ### Navigation
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Navigation | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Navigation | 8 |
+
+Most comments around navigation this month were related to issues finding or accessing desired features by users. Individuals struggled to find travel pay, messages, and navigate around the app in general.
 
 Representative responses:
 
-> Quote.
+> I have lost the messages link on the homepage. I used it twice, but now it has disappeared. Can someone please help me thank you.
 
 <br>
 
-> Quote.
+> It’s geared towards younger Vets in my opinion, baby boomers have hard times navigating around. Just saying 
 
 <br>
+
+> There is no way to get to secure messages, no index indicating messages.
+
+<br>
+
+> This is such a drastic improvement from jusr a year ago. The addition of travel claims is light years better than the bsss system. After years of being unable to make or get travel claims approved, I'm optimistic that things are going the right direction. Beyond that the UI is simple and intuitive. I think seeing our rate and pay on the landing page is a net positive and reassures us we're okay. All in all, great job. Now, don't let the government $#@% it up.
+
+<br>
+
+> "Where is the mileage benefits page Nowhere to be found on this app"
+
+<br> 
+
+> Where the heck is the messages?!?!?
+
+<br>
+
+> You can't do anything with your app I think it need to better help a veteran if it's was easier to navigate I think this app is a waste of time
+
+<br>
+
 
 ### Login
-| Feature | average rating | # of ratings |
-|--|--|--|
-|Login | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+|Login | 9 |
+
+Some positive sentiment around login was received this month with a few users enjoying the biometric login features of the app. Other users had some security concerns with credential service providers, or staying signed in to the app. Sign out was specifically mentioned also by 2 users, one noting difficulty finding the logout button and another saying logout didn't work for them.
 
 Representative responses:
 
-> Quote.
+> Impressive web page. I enjoy the updating of facial recognition. I have been with the VA since 1972.
+Thank you,"
 
 <br>
 
-> Quote.
+> Google recaptcha is used for login.gov On computer I block google.com so logon is impossible. On iPhone I have no way  to block google so I can log in. Why is the government allowing google to track me on VA and Social security websites? My health and finances should not be handed off to data pirates that refuse to follow laws such as HIPPA
+
+<br>
+
+> I want to be able to use Face ID to log in. I have it checked but never gets set.
+
+<br>
+
+> I would like the medications that are discontinued and not current active ones to be archived so that they are no longer on my medications list. Also logging out is hard because the system area where I can log out doesn't work. I have to just close my browser to get out of the VA app. Thank you
+
+<br>
+
+> Once logged in and you sign out and leave the app, and go to sign in again through login.gov...it automatically signs you in without having to input your password. That is a big nono for security purposes...and needs to be rectified. If the phone was stolen, all of the veterans' information would be compromised. I will be uninstalling the app until this issue is resolved. 
+
+<br>
+
+> Since changing the sign in methods for my health y vet cannot use the system I have called put on hold for life time with no results
+
+<br>
+
+> Sure would wish…..facial recognition on my iPad or mobile phone would work instead of the old password technical identification for the VA portal.
+
+<br>
+
+> The sign-out should be on the main page. I had to go through all the links to locate.  Also could not locate mileage reimbursement. I did see it the other day after a Dr visit.
 
 <br>
 
 ### Disability rating
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Disability rating | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Disability rating | 0 |
 
-Representative responses:
+We received no reviews that specifically mentioned disability rating this month.
 
-> Quote.
 
-<br>
-
-> Quote.
-
-<br>
 
 ### Claims
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Claims | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Claims | 4 |
+
+Four reviews this month mentioned claims specifically. Users were unsure or desired the ability to submit claims from the app and others had needed more regarding claim status or application information. 
 
 Representative responses:
 
-> Quote.
+> Simplify travel claim submissions.I don't see how I can submit anything with this app
 
 <br>
 
-> Quote.
+> Should show better info, like more accurate claim status. Also, being able to submit claims via the app would be nice.
+
+<br>
+
+> My claim is still on step 2. I retire in less than a month and have had no contact from the VA. So files a BDD claim but looks like you will miss that timeline. Is this the kind of service I should expect next month once I am a veteran?
+
+<br>
+
+> Maybe add a section to check applications. So if a veteran applies for clothing allowance or something like that, they can track the application. 
 
 <br>
 
 ### Letters and documents
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Letters and documents | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Letters and documents | 0 |
 
-Representative responses:
+We received no reviews that specifically mentioned letters and documents this month.
 
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
 
 ### Profile
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Profile | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Profile | 5 |
+
+Five users specifically mentioned their profile information or veteran status card this month in reviews. Issues were being reported related to incorrect information being displayed or the veteran status card being unavailable. 
 
 Representative responses:
 
-> Quote.
+> My date of birth is incorrect and my date of service is incorrect on the app called the number listed to correct it. The personnel on the phone had no knowledge of the app. Referred me to call [location] personal center.  [location] advised it’s a VA issue.
 
 <br>
 
-> Quote.
+> The app has me registered with [location] VA, the VA hospital i use is ][location]
+
+<br>
+
+> Whatever the Veterans Status Card is, it cannot be reached in my case. I've called every number available and nobody can help.
+
+<br>
+
+> What’s wrong with my military status card??????
+
+<br>
+
+> I would like to receive information or verification of my “priority group”, which is 5, in written form and if I can get corrections on medical charges that were applied to a different “priority group” rating ?
 
 <br>
 
 ### Payments
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Payments | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Payments | 6 |
+
+Six users wrote regarding payments in their reviews this month. Issues regarding payments included desiring a breakdown of payments by category, limited access to historical payment information, or corrections needed regarding payments received. 
 
 Representative responses:
 
-> Quote.
+> It would be beneficial to be able to pay copays from the app.
 
 <br>
 
-> Quote.
+> I am not sure why it only shows up until December of 2022 as far as record of payments for disability compensation it makes no sense at all.
+
+<br>
+
+> I’ve been waiting 4 months to get my disability back  my pay increase approved for [date]. I can not find any documentation explaining why the delay in my missed pay.  My pay increase went through, but only for the past 4 months.  I’m still struggling with debts that occurred from medical expenses not covered by insurance. -lease help.
+
+<br>
+
+> Under Benefit payments, it would be helpful for a breakdown of payments for each category such as disability, dependent(s), aid & attendance, etc.
+
+<br>
+
+> I would like to receive information or verification of my “priority group”, which is 5, in written form and if I can get corrections on medical charges that were applied to a different “priority group” rating ?
+
+<br>
+
+> I’ve been married for 42yrs. And I only get paid as single!!this is unacceptable!
 
 <br>
 
 ### Travel Pay
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Travel Pay | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Travel Pay | 20 |
+
+Travel pay was the most talked about feature in this months reviews. Users were frustrating trying to locate or access travel pay. For those users who reported success (2 reviews) completing the travel pay submissions they were please with its ease of use. Users also desired a way to see statuses of travel pay processing or payouts. 
 
 Representative responses:
 
-> Quote.
+> I cannot file a claim with VA.gov for mileage reimbursement when I have to travel to the nearest VA facility.  Please help. Help!!!!!!
 
 <br>
 
-> Quote.
+> I get an email that says I can file mileage for appointments on line with VA mobile app.  I can’t find it in the app?  Confused.  Mileage is a joke if you use Community Care.
+
+<br>
+
+> It said we will be able to put our transportation on an app but I'm not been able to find it. It would be handy to be able to put it on there and scan any documents that would be able to go on with it.
+
+<br>
+
+> I’m hearing and seeing information from VA that this app can make travel claims however, in the App Store where it talks about it, doesn’t actually do that it this app. I looked to see if there is another app for this but there is not. Why are we putting information like this if it’s not available yet. Please put some information out saying there is a delay of this app addition or removal of all the information out there until it’s finally in this app. Thank you. 
+
+<br>
+
+> Just recently found out about this app, downloaded it to my phone.  Then submitted a travel claim, very very easy.  The VA gets an attaboy for this.  Thanks for supporting the veterans the way you do.
+
+<br>
+
+> Lost travel info submitted can not find anything that lets me see status.
+
+<br>
+
+> Real easy to refill my prescriptions & file for travel reimbursement all in one place !!! 1,000% satisfied
 
 <br>
 
 ### Messaging
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Messaging | # | # |
+| Feature | # of ratings |
+|--|--|
+| Messaging | # |
+
 1-2 sentences summarizing the sentiment of the area.
 
 Representative responses:
