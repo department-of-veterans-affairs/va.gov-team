@@ -74,8 +74,8 @@ _**NOTE:** LGY is Loan Guaranty the VA Home Loan program, which helps Veterans b
 | EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
 | 290HE7131R | Healthcare Eligibility - 731 Review | Identify and clarify health records from VHA to specialty | NONE |
-| 290LGYDES | Pre-Discharge LGY Determination - IDES | Filtered: work done outside VBMS | NONE |
-| 290LGYEDD | LGY Determination - BDD | Filtered: work done outside VBMS | NONE |
+| 290LGYIDES | Pre-Discharge LGY Determination - IDES | Filtered: work done outside VBMS | NONE |
+| 290LGYBDD | LGY Determination - BDD | Filtered: work done outside VBMS | NONE |
 
 ## General Filtered Out
 *Filtered out for both mobile and VA.gov*
@@ -86,8 +86,8 @@ _**NOTE:** FID is the VA Fiduciary, the Department of Veterans Affairs program t
 
 | EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
-| 020BSCFID | FID - Incompetency Review - S/C | Examiner submits a Supervised Direct Pay review for service-connected beneficiary | NONE |
-| 020BPFID | FID - Incompetency Review - Pension | Examiner submits a Supervised Direct Pay review for pension beneficiary | NONE |
+| 020IRSCFID | FID – Incompetency Review – S/C | Examiner submits a Supervised Direct Pay review for service-connected beneficiary | NONE |
+| 120IRPFID | FID – Incompetency Review - Pension | Examiner submits a Supervised Direct Pay review for pension beneficiary | NONE |
 | 130YR100PMC | PMC - 100 - Year Review | VA initiated: Eligibility verification for beneficiaries age 100 or older | NONE |
 | 400ORR | OGC Reasonableness Review | Office of General Counsel (OGC) review of attorney or agent fee reasonableness | NONE |
 | 930CLQENR | Correction of Local Quality Error - Non-Rating | Correction of VA error | NONE |
