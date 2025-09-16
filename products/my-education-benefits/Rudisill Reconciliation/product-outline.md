@@ -8,13 +8,13 @@ Streamlining the Veteran experience by creating a simple and accessible tool for
 
 ## Problem Statement
 
-Education benefits can be hard to navigate for our Veteran population due to the variety of their circumstances; this can become more complicated when legislation changes and provides different criteria for eligibility. With the impact of Rudisill, Veterans need clear guidance and streamlined, accessible tools to help them maximize the education benefits they are entitled to. 
+Education benefits can be hard to navigate for our Veteran population due to the variation of their circumstances; this can become more complicated when legislation changes and provides different criteria for eligibility. With the impact of Rudisill, Veterans need clear guidance and streamlined, accessible tools to help them maximize the education benefits they are entitled to. 
  
 ## Desired User Outcomes
 
 - Veterans should be able to allocate their remaining qualifying days of service to maximize their benefit outcomes according to their education goals.
-    - For example: a Veteran who relinquished their MGIB benefit (to use their PGIB benefits) and qualifies for both MGIB and PGIB education benefits under Rudisill should be able to distribute their qualifying days of service to gain entitlement under both.
-- Veterans should easily understand the outcome of their allocation and that decisions made within the Dual Benefit Eligibility Tool will impact their existing benefits. 
+    - For example: a Veteran who relinquished their MGIB benefit (to use their PGIB benefits) and now qualifies for both MGIB and PGIB under Rudisill; should be able to distribute their qualifying days of service to gain entitlement under both.
+- Veterans should easily understand the outcome and impact of the allocation made within the Dual Benefit Eligibility Tool, and that it will impact their existing benefits. 
 
 
 ## Undesired User Outcomes
@@ -29,8 +29,8 @@ Education benefits can be hard to navigate for our Veteran population due to the
    
 ## Undesired Business Outcomes
 
-- Users accept the recommendation or customize their allocations in a way that does not meet their education goals.
-  - Business logic will be well considered to ensure we providing the best recommendation for users and provide users with a simple way to make their own allocation, when the recommendation is not the best fit for the user.
+- Users accept the recommendation or customize their allocation in a way that does not meet their education goals.
+  - Business logic will be well considered to ensure we providing the best recommendation for users and provide users with a simple way to make their own allocation, when the recommendation is not the best fit for them.
 
 ---
 ## Measuring Success
@@ -63,14 +63,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 The following assumptions have been made when creating our solution:
 
-- Veterans have familiarity with terms related to education eligibility and entitlment (e.g. months of entitlment, qualifying days of service, benefit level, kicker).
+- Veterans have some familiarity with terms related to education eligibility and entitlment (e.g. months of entitlment, qualifying days of service, benefit level, kicker).
 - Some Veterans who use the tool may not have an in-depth understanding of their benefits 
    - Veterans can understand from using the tool, the relationship between their qualifying days of service and their benefit outcome.
 - Some Veterans who use the tool may have an in-depth understanding of their benefits (considered super users).
 
 ## Solution Approach
 
-- We've developed our solution as a tool that will live on the 'Manage your benefits' section of VA.gov's Education and training page since the tool is meant to help Veterans make changes to their benefits.
+- We've developed our solution as a tool that will live on the 'Manage your benefits' section of VA.gov's 'Education and training' page since the tool is meant to help Veterans make changes to their benefits.
 
 - We have developed a solution that:
   - Presents information we have on file for the user to them, to build their trust in the tool
@@ -82,11 +82,11 @@ The following assumptions have been made when creating our solution:
 
 ### Supporting research
    
-- We plan to do user testing with Veterans to validate the solution's
+- We plan to do user testing with Veterans to validate that the solution's
     - Information heirarchy and organization helps simplify the allocation process
     - Language is clear for users 
-    - Recommendation provided to users is easily understood
-    - Alternative paths (customized allocation) is intuitive and simple for users to find and use 
+    - Recommendation is easily understood by users
+    - Alternative paths (customized allocation) is intuitive and easy for users to find and use 
 
 --- 
 
