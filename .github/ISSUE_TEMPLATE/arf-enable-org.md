@@ -15,9 +15,8 @@ This is the documentation describing how to [enable online submission of a 21-22
 
 ### Acceptance Criteria/Conditions of Satisfaction
 <!-- Specify criteria for ticket completion -->
-- Veterans can view [ org name ] VSORs in Appoint a Rep with online submission enabled and successfully submit a digital 21-22 request to ARP
-- Representatives of [ org name ] will be able to have online submissions for 21-22 through Appoint a Representative enabled
-- Representatives of [ org name ] will be able to receive online submissions through Representation Requests in ARP
+- Veterans have the ability to submit online 21-22 requests in Appoint a Rep, for [org name] and affiliated representatives.
+- [org name] representatives can receive and accept/decline online 21-22 requests in ARP.
   
 
 
