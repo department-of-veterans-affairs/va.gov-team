@@ -529,7 +529,7 @@ We received no reviews that specifically mentioned disability rating this month.
 |--|--|
 | Claims | 4 |
 
-Four reviews this month mentioned claims specifically. Users were unsure or desired the ability to submit claims from the app and others had needed more regarding claim status or application information. 
+Four reviews this month mentioned claims specifically. Some users desired the ability to submit claims from the app and others had needed more information regarding claim status or application information. 
 
 Representative responses:
 
