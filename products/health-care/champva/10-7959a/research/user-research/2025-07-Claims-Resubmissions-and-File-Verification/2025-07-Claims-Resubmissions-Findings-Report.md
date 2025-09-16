@@ -1,5 +1,3 @@
-Current work in progress
-
 ---
 title: "Resubmissions and File Verification Research Findings"
 product: "CHAMPVA Claims (VA Form 10-7959a)"
@@ -159,9 +157,6 @@ Each participant saw the introduction page to the 10-7959a forms, completed form
 
 
 ## Hypotheses and Conclusions
-> [!TIP]
-> Place true or false statements in bold for easier scanability
->  **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
 
 - **H1:** Users will understand they need to return to the digital form to resubmit a claim.
   - **Likely False**  
@@ -169,13 +164,14 @@ Each participant saw the introduction page to the 10-7959a forms, completed form
 
 - **H2:** Users will understand that the information required to resubmit the claim can be found in the claim letter.
   - **Likely True**
-  - 10 of 12 participants understood that the letter meant they needed to resubmit the claim and understood what the missing information was. 8 of 12 were able to find the PDI number in the letter.
+  - 10 of 12 participants understood that the letter meant they needed to resubmit the claim and understood what the missing information was. 8 of 12 were able to find the PDI number in the letter during the resubmission task, either on their own or after reading the help text on the page.
  
 - **H3:** Users will question the need to re-enter beneficiary and/or sponsor information when resubmitting the claim.
   - **Likely True**
   - 8 of 12 participants commented specifically about being asked to fill out sponsor and beneficiary information. 5 of 12 expected that information to be known or prefilled upon resubmission.
 
 - **H4:** Users understand the types of documents needed for resubmission.
+  - **Mostly True**
   - 10 of 14 participants were able to find the information on the intro page prior to entering the first claim. 9 of 14 were comfortable with the requirements listed on the upload page, though 4 of 14 said they would need to check their documentation for all the details.
 
 - **H5:** Users will not understand the specific information needed on each document without prompting.
@@ -191,34 +187,25 @@ Each participant saw the introduction page to the 10-7959a forms, completed form
   - No participants asked what was being used to verify their information, but 3 of 14 commented that they didn’t know how the verification worked.
 
 - **H8:** Users may be confused about how to resolve the error messages they see or how to bypass an error.
+  - **More Information Needed**
+  - LLM verification was not working for this study, so all participants were presented with a generic message that said verification could not be completed. They did not receive error messaging specific to issues with the file they were uploading in the resubmission task. See Key Finding 6 for more details on users' expectations for error messages.
 
 - **H9:** Users will understand that file verification takes time and will be willing to wait until verification is completed.
-  - **Not Enough Information**
+  - **Maybe True**
   - LLM verification was not working, so the error message they saw came up right away. Since participants did not experience a delay, most participants did not mention it. Of the 14 participants, only 1 stated that the 1-2 minute delay mentioned in the alert would lengthen the form time.
 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Many participants (9 of 14) reported that the initial claim and resubmission claim flows were "easy" or "very easy."
+2. Most participants (10 of 14) understood what supporting documents were required for a claim, either based on the information on the Introduction page or the information on the Document Upload page.
+3. The majority of participants (11 of 12) wanted to resubmit their claim online, but were unsure if they could do so.
+4. Most participants (8 of 12) knew to look in the sendback letter for the PDI number when resubmitting their claim, but entering it correctly proved more difficult.
+5. Most participants (8 of 12) commented on having to resubmit or re-enter information from the original claim in the resubmission flow.
+6. 9 of 14 participants liked the idea of file verification prior to or after attempting to upload a file to their claim, even when they received an error message.
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
 ### Finding 1
 Brief description  
