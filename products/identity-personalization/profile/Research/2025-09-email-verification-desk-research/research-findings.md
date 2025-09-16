@@ -82,20 +82,20 @@ Desk research of existing VA research documentation.
 
 ## Key findings
 
-1. When implementing policy changes, teams have found that users need **benefits and risks of opting in/out clearly and concisely provided.** In addition, VA Notify has researched and documented best practices for email content to help with any additional standards.
+1. When implementing policy changes, teams have found that users need **benefits and risks of opting in/out clearly and concisely provided.** VA Notify also offers best practices for email content to support clear communication.
 
 2. Identity recommends we **swap from email verification to email confirmation**. Which makes the experience seem easier to users, and matches existing VA standards.
 
-3. Findings from VA.gov teams match USWDS standards and recommendations. In addition, it was a common theme that users are quick to dismiss modals without reading them. Due to this, **other migration strategies have focused on multiple touchpoints with users, such as email campaigns, alerts, interstitials, and modals.**
+3. VA.gov team findings align with USWDS guidance. Since **users often dismiss modals, teams use multiple touchpoints such as emails, alerts, interstitials, and modals to reach them.**
 
-4. Confirming **email addresses is a common practice, especially during account set up.** When doing so, Veterans might swap between devices.
+4. **Email confirmation is common during account setup**, and Veterans may switch devices during the process.
 
 
 ## Details of findings 
 
 ### Finding 1
 
-When implementing policy changes, teams have found that users need **benefits and risks of opting in/out clearly and concisely provided.** In addition, VA Notify has researched and documented best practices for email content to help with any additional standards. Content standards include:
+When implementing policy changes, teams have found that users need **benefits and risks of opting in/out clearly and concisely provided.** VA Notify also offers best practices for email content to support clear communication. Content standards include:
 
 - If a policy change is required, a deadline with clear risks should be provided. If the policy is optional users need to know the clear benefits to convince them to make the change.
 
@@ -135,7 +135,7 @@ Identity recommends we **swap from email verification to email confirmation**. W
 
 ### Finding 3
 
-Findings from VA.gov teams match USWDS standards and recommendations. In addition, it was a common theme that users are quick to dismiss modals without reading them. Due to this, **other migration strategies have focused on multiple touchpoints with users, such as email campaigns, alerts, interstitials, and modals.**
+VA.gov team findings align with USWDS guidance. Since **users often dismiss modals, teams use multiple touchpoints such as emails, alerts, interstitials, and modals to reach them.**
 
 - **From USWDS:** Modals should appear as a result of an action made by the user, and should not surprise the user through automatically displaying. The exception being modals triggered due to consequences from user inactivity, or information that is required to be displayed (such as accepting cookies).
 
@@ -158,7 +158,7 @@ Findings from VA.gov teams match USWDS standards and recommendations. In additio
 
 ### Finding 4
 
-Confirming **email addresses is a common practice, especially during account set up.** When doing so, Veterans might swap between devices.
+**Email confirmation is common during account setup**, and Veterans may switch devices during the process.
 
 - For example, it would be common for a Veteran to set up an account from their desktop or laptop, but confirm their email address on their phone.
 
