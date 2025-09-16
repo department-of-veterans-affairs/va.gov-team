@@ -76,6 +76,7 @@ These pages are the starting point for all the other scheduling flows. Users are
 | 1a | [Choose a type of sleep care](./schedule-flow/all--choose-a-type-of-sleep-care.md) |
 | 1b | [Choose a type of eye care](./schedule-flow/all--choose-a-type-of-eye-care.md) |
 | 1c | [Choose a type of audiology care](./schedule-flow/all--choose-a-type-of-audiology-care.md) |
+| 1d | [Choose a type of mental health care](./schedule-flow/all--choose-a-type-of-mental-health-care.md)
 | 2 | [Choose VA or CC facility](./schedule-flow/all--choose-va-or-cc-facility.md) |
 
 ### Direct schedule VA appointments
