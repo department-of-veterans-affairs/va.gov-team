@@ -58,12 +58,42 @@ Alex Seelig, 3.21.2025
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- **Reduced time on Household section | Baseline | Target | Link to data source (e.g. GA, Domo)**
-- - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
+
+#### Objective: Reduce time spent and bounce rates on Household section pages
+- Results #1: Reduction of time spent by 10%
+- Results #2: Reduction of bounce rates by 10%
+
+|Spouse | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Spouse page views| 35,923 | N/A | N/A|
+|Spouse page Avg time per session| 1m 22s | 1m 15s | TBD|
+|Spouse page Bounce rate| 1.24% | 1.12% | TBD|
+
+|Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Dependents page views| 84,285 | N/A | N/A|
+|Dependents page Avg time per session| 1m 33s | 1m 23s | TBD|
+|Dependents page Bounce rate| 1.37% | 1.23% | TBD|
+
+|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
+|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
+
+|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page Avg time per session| 47s | TBD | TBD|
+|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
+
+|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
+|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
 ---
 
