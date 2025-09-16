@@ -3,7 +3,7 @@ Every other Tuesday at 10:35am ET
 
 ## **09/16/25**
 
-**Attendees:** Anne R., Cindy Carr, Eileen Cook, Rachel P., Renata, Jamie, Ballard M., Premal, Amanda, Angela P., Angela C.
+**Attendees:** Anne R., Cindy Carr, Eileen Cook, Rachel P., Renata, Jamie, Ballard M., Premal, Amanda, Angela P., Angela C., Elizabeth Lightfritz
 
 **Agenda**
 Discuss rollout plan for lauching the 1010d OHI merged form
@@ -15,7 +15,7 @@ Discuss rollout plan for lauching the 1010d OHI merged form
 * There were no questions about the Staged Launch from the partners
 
 * We just had Staging Review for the 1010d/OHI merged form and are cleaning up issues found during that
-* Spot checking submissions for roll out: Liz Lightfritz would know who to spot check. She will follow up after the call with 2 people from her team that can help with that
+* Spot checking submissions for roll out: Elizabeth Lightfritz would know who to spot check. She will follow up after the call with 2 people from her team that can help with that
 * IVC to send the partners a recorded walkthrough of the 1010d/OHI
 * IVC discusses benefits of the OHI merge: It will reduce duplicate HI cards and reduce redundant questions between the applications and OHI and limit duplicate OHI form from being submitted. They are further iterations coming shortly that will better clarify that they are submitting the OHI cert with the application to further prevent duplicate OHI submissions
 ## **07/22/25**
