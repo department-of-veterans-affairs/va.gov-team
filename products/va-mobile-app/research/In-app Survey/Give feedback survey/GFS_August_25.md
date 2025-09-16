@@ -178,11 +178,6 @@ Requests for improved or new functionality in the app are also common. These ran
 <br>
 
 
-#### Bugs/errors (19 responses)
-
-Users reported believed bugs in regard to the following issues.
-
-
 
 #### Navigation or findability (16 responses)
 
@@ -264,6 +259,32 @@ Responses:
 
 ### Pain points
 In addition to those noted in the primary themes above the following user pain points were shared this month in reviews.
+
+**Bugs/errors (19 responses)**
+
+Users reported believed bugs in regard to the following issues such as appointments not loading, travel reimbursement not working, unavailability of prescriptions, and the Veteran status card not being available.
+
+Representative responses:
+
+> Major problem VIA text. It tells me I have an appointment but no location info via app shows wrong location
+
+<br>
+
+> The new Travel Reimbursement is not allowing me to do anything. Same as before.
+
+<br>
+
+> Well the other day I was able to reorder my medication, but today it will not let me see the list of my prescription and the status of my prescription. So on one hand your app works then next day it doesn't .
+
+<br> 
+
+> Whatever the Veterans Status Card is, it cannot be reached in my case. I've called every number available and nobody can help.
+
+<br>
+
+> It stopped loading my appointments. I have the text messages in the email still telling me about my appointments, but it doesn’t give details for what appointments are actually scheduled or which provider I’m going to see. I’ve been relying on my health VA in order to find out this information since they’ve changed it, however and using this little app, it is extremely difficult to find it if it even shows up most times a simple says I don’t have appointment which is incorrect.
+
+<br>
 
 **Travel pay issues (15)**
 
