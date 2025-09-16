@@ -1,26 +1,12 @@
 ## Updating the content
 
-### Product: Create the ticket
-
-1. Create a new ticket for the app store updates.
-2. Include content for the "What's New" section of the app stores.
-3. If content changes are needed for the app store images themselves, include the necessary updates.
-4. Request screenshots from engineering in the following sizes:
-
-   - **iPhone**: 360 x 760 px (iOS Simulator or device using a 6.5” device such as iPhone 13 or 14)
-   - **iPad**: 1040 x 1504 px (iOS Simulator or device using iPad Pro 12.9”)
-   - **Android**: 180 x 380 px (Android Emulator or device using Pixel 4)
-
-     - Make sure the corners are **not** rounded. Taking a screenshot using the camera icon in Android Emulator will result in rounded corners. To bypass this:
-
-       - Go to View > Tool Windows > Logcat
-       - In the panel that pops up, click the camera icon in the left toolbar to take a screenshot without rounded corners
-
-       ![Screenshot of Android emulator](/img/app-store/android-emulator.png)
-
-   - Engineering should then add the screenshots to [Google Drive](https://drive.google.com/drive/folders/1RdW9zwKs6savg8Eg96M556unwV_9fz8y) so that the designer can access them and the link should be added to the ticket.
-
-5. Assign the ticket to a designer (typically Brea does the app store image updates)
+The new upload app images to app stores process has been streamlined to make the process easier and complete and navigate.  If a new image is required, steps need to happen in this order:
+1. Data is added to [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) as a block of code in the current file.  (Eplination of usage below)
+2. If the screen does not have a function built to access it in [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts), a function will need to be created for detox to locate the screen.
+3. When a PR is created and it detects changes to [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts), [screenshot_e2e.yml](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/workflows/screenshot_e2e.yml) will automatically run creating the screenshots.
+4. Once they are created, framed and updated, they will be copied to the folders where they are to go for the App stores.
+5. These will be committed to your PR so they me be reviewed.
+6. Once approved and merged, These screenshot updated will be pushed to the store on the next release of the app.
 
 ## Updating App Store Images
 
@@ -39,40 +25,40 @@ Explanation of files:
 └── setup.ts
 ```
 
-#### **screenshot_data.ts**
+#### [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
 
 ---
 
 This file is the core of the update. The image names, devices and description is pulled from here to create the screenshots. When this file is modified and checked into a PR, A workflow will trigger, build the new images and add them to the PR.
 
-#### **screenshot_utils.ts**
+#### [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts)
 
 ---
 
-This file holds the setup functions that detox will run when it gathers the screenshots. They are named by screen and are added in `screenshot_data.ts`.
+This file holds the setup functions that detox will run when it gathers the screenshots. They are named by screen and are added in [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts).
 
-#### **screenshot_e2e.ts**
-
----
-
-This file is what detox runs when it grabs the images from the simulators. This file calls in data from `screenshot_data` to make grab the correct device type. It also calls in the functions from `screenshot_utils.ts` to access the correct screens.
-
-### `.github/workflows/screenshot_e2e.yml`
+#### [screenshot_e2e.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot.e2e.ts)
 
 ---
 
-This is the new action that triggers when `screenshot_data.ts` is updated. This will
+This file is what detox runs when it grabs the images from the simulators. This file calls in data from [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) to make grab the correct device type. It also calls in the functions from [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts) to access the correct screens.
+
+### [.github/workflows/screenshot_e2e.yml](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/workflows/screenshot_e2e.yml)
+
+---
+
+This is the new action that triggers when [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) is updated. This will
 
 - Run detox on ios
 - Run detox on ipad
 - Run detos on android
 
-After detox runs and gathers all the images `move_screenshots.sh` is run. This moves all the screenshots from there current folder `VAMobile/artifacts` to `.github/scripts/app-store-images/fastlane/screenshots/en-US`. Once they are moved `process_images.sh` is run. This will:
+After detox runs and gathers all the images [move_screenshots.sh](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/scripts/app-store-images/move_screenshots.sh) is run. This moves all the screenshots from there current folder `VAMobile/artifacts` to `.github/scripts/app-store-images/fastlane/screenshots/en-US`. Once they are moved [process_images.sh](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/scripts/app-store-images/process_images.sh) is run. This will:
 
 - Resize all images to the proper screenshot size for the device.
 - Use `Fastlane FrameIt` to frame all the images with the correct device frames.
 - Apply the VA blue gradient to all images
-- Apply the description text from `screenshot_data.ts` to the image in the VA chosen font.
+- Apply the description text from [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) to the image in the VA chosen font.
 - Resize the images to their final size
 - Move the images from `.github/scripts/app-store-images/fastlane/screenshots/en-US` to `.github/scripts/app-store-images/framed-images`.
 
@@ -101,7 +87,7 @@ def upload_app_store
 
 ```
 
-## Exceprt of `screenshot_utils.ts`
+## Excerpt of [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts)
 
 ```javascript
 import { by, element, expect, waitFor } from 'detox'
@@ -147,7 +133,7 @@ const utils = {
   },
 ```
 
-## Excerpt of `screenshot_data.ts`
+## Excerpt of [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
 
 ```javascript
 export interface ScreenshotData {
@@ -184,7 +170,7 @@ export const screenshotData: ScreenshotData[] = [
     ...
 ```
 
-## Explination of data block
+## Explination of data block in [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
 
 ```javascript
 {
@@ -199,7 +185,6 @@ export const screenshotData: ScreenshotData[] = [
     setupFunction: ['goHome', 'skipUpdate'], // Functions that are to be executed.
   },
 ```
-
 
 ## Product: Publish the content
 
