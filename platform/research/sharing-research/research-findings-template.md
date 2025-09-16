@@ -370,7 +370,7 @@ _Complete the [VA recruitment checker for marginalized Veteran groups](https://d
 >    - Start a new Github Copilot chat
 >    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
 >    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table and paste it into this report below by clicking the copy icon in the Copilot chat 
+>    - Copy the resulting markdown table and paste it into this report below after clicking the copy icon in the Copilot chat 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
