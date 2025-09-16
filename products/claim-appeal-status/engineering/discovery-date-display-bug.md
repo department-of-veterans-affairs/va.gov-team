@@ -98,31 +98,96 @@ There is no consistent timezone handling pattern across VA.gov applications. Dif
 ### 1. User's Local Timezone
 Applications that detect and use the user's browser timezone:
 - **MHV Medical Records**: Uses `Intl.DateTimeFormat().resolvedOptions().timeZone` to detect user's timezone
+  - File: `src/applications/mhv-medical-records/util/helpers.js:393-397`
+  - Code:
+  ```javascript
+  const timeZonePart = new Intl.DateTimeFormat('en-US', {
+    timeZoneName: 'short',
+  })
+    .formatToParts(date)
+    .find(part => part.type === 'timeZoneName')?.value;
+  ```
 - **MHV Secure Messaging**: Uses `moment.tz.guess()` for timezone detection
-- **Platform utility `formatDateLong`**: Uses `parseISO()` which automatically converts UTC to browser's local timezone
-- **Travel-pay**: Uses `utcToZonedTime()` without specifying timezone (defaults to local)
-- **Personalization/Dashboard**: Detects user's timezone for displaying dates
+  - File: `src/applications/mhv-secure-messaging/util/helpers.js:106,121`
+  - Code: `const timeZone = moment.tz.guess();`
+- **Note**: Many applications that display dates in user's local timezone use the platform utility `formatDateLong`, which internally uses `parseISO()` to convert UTC timestamps to the browser's local timezone
 
 ### 2. Fixed Eastern Time
 Applications that always display in Eastern Time:
 - **Ask-VA**: Explicitly converts all dates to `'America/New_York'` and appends "E.T." suffix
+  - File: `src/applications/ask-va/config/helpers.jsx:742-745`
+  - Code:
+  ```javascript
+  return formatInTimeZone(
+    utcDate,
+    'America/New_York',
+    "MMM. d, yyyy 'at' h:mm aaaa 'E.T'",
+  ```
 - **Appeals**: Falls back to `'America/New_York'` when timezone detection fails
 
-### 3. Entity-Specific Timezone
-Applications that use the timezone of the related entity:
-- **VAOS (Appointments)**: Uses `formatInTimeZone(appointmentDate, appointment.timezone, ...)` - displays in the facility's timezone
+### 3. Facility-Specific Timezone
+Applications that use the timezone of the VA facility:
+- **VAOS (Appointments)**: Uses facility-specific timezones based on facility ID
+  - File: `src/applications/vaos/services/appointment/transformers.js:82`
+  - Code: `getTimezoneByFacilityId(appt.locationId);`
+  - File: `src/applications/vaos/utils/timezone.js:68-71`
+  - Code:
+  ```javascript
+  export function getTimezoneByFacilityId(id) {
+    if (!id) return null;
+    // Maps facility IDs to IANA timezones like 'America/Chicago', 'America/New_York', etc.
+  }
+  ```
 - **Check-in**: Uses `utcToZonedTime(startTime, appointmentToFile.timezone)` - uses appointment's timezone
+  - File: `src/applications/check-in/travel-claim/pages/complete/TravelClaimSuccessAlert.jsx:32-36`
+  - Code:
+  ```javascript
+  date: utcToZonedTime(
+    appointmentToFile.startTime,
+    appointmentToFile.timezone,
+  ),
+  ```
 
 ### 4. Conditional Logic
 Applications with complex rules:
 - **Events**: If user is in US, uses their local timezone; otherwise uses event's timezone or defaults to Eastern Time
+  - File: `src/applications/static-pages/events/components/Results/index.js:12-16,38-40`
+  - Code:
+  ```javascript
+  const getUserTimeZone = () => Intl.DateTimeFormat().resolvedOptions().timeZone;
+  const isUserInUS = () => {
+    const userTimeZone = getUserTimeZone();
+    return userTimeZone.startsWith('America/');
+  };
+  // Later in component:
+  const userTimeZone = getUserTimeZone();
+  const useUserTimeZone = isUserInUS();
+  ```
 
 ### 5. No Timezone Handling (Date-Only)
 Applications receiving date-only strings without timezone information:
 - **Claims-status**: Currently receives date-only strings from Lighthouse API, cannot perform timezone conversion
 - **Personalization/Dashboard (claims display)**: Works around date-only limitation with `replaceDashesWithSlashes` helper
+  - File: `src/applications/personalization/dashboard/utils/date-formatting/helpers.js:7-9`
+  - Code:
+  ```javascript
+  export const replaceDashesWithSlashes = date => {
+    return date.replace(/-/g, '/');
+  };
+  ```
+  - Usage: `src/applications/personalization/dashboard/utils/getStatusContents.jsx:57`
+  - Code: `new Date(replaceDashesWithSlashes(details.lastSocDate))`
+  - Note: This workaround is needed because JavaScript's `new Date()` interprets "2025-08-16" as UTC but "2025/08/16" as local time
 
-This inconsistency across VA.gov reinforces that there is no single "correct" approach - the appropriate timezone handling depends on the specific use case and legal requirements of each application.
+### Platform Standard
+The VA.gov platform provides a `formatDateLong` utility (src/platform/utilities/date) that handles date formatting for both timestamps and date-only strings. When given full ISO 8601 timestamps, it converts from UTC to the user's local timezone for display. For example, "2025-08-16T02:18:00.000Z" (2:18 AM UTC on August 16) would display as "August 15, 2025" for a user in EDT because 2:18 AM UTC is 10:18 PM EDT the previous day. This utility is used by multiple applications across VA.gov, suggesting the platform's intended pattern is to display dates in the user's local timezone when timestamp data is available.
+
+However, when given date-only strings like "2025-08-16" (which is what Claims Status Tool receives from Lighthouse), no timezone conversion occurs - the date displays as "August 16, 2025" regardless of the user's timezone. Claims Status Tool uses this utility but cannot benefit from its timezone conversion capability.
+
+Despite the platform utility's preference for local timezone display, the inconsistency across VA.gov applications reflects legitimate business needs. Ask-VA uses Eastern Time for consistency across support channels, VAOS uses facility timezone to match physical appointment locations, and Claims Status is limited by the API's date-only format.
+
+### VA Design System Guidance
+The [VA Design System](https://design.va.gov/content-style-guide/dates-and-numbers#times-and-time-zones) specifies that office hours should "always use the time zone ET" while user progress/saved work should "show hours in their local time zone." However, evidence submissions don't clearly fit either category - they are formal submissions with legal deadline implications. This gap in design guidance may contribute to the inconsistent timezone patterns observed across VA.gov applications.
 
 ## Where This Bug Impacts Veterans
 
