@@ -14,19 +14,6 @@ Feedback includes 100 total responses, each with rating ranging from not at all 
 | = Not set | 2% | 2 |
 
 
-## General/other feedback (2)
-Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. During this reporting period only 2 received responses fell into this category.
-
-Responses:
-
-> I don’t know if this is the appropriate place, but I just left Acadian Hearing Services and was treated like a king. VA is getting their money’s worth with this company. 
-
-<br>
-
-> My claim is still on step 2. I retire in less than a month and have had no contact from the VA. So files a BDD claim but looks like you will miss that timeline. Is this the kind of service I should expect next month once I am a veteran?
-
-<br> 
-
 ### Summary of overall feedback
 During the month of August we received a range of responses reflecting a mixed user experience with the application, highlighting both positive aspects and areas needing significant improvement. Many users express satisfaction with the app's core functionalities, such as refilling prescriptions, filing travel claims, and general ease of use when features work as intended. The appreciation for improved access to VA services and the general positive sentiment from some users suggest a good foundation for the application.
 
@@ -253,6 +240,19 @@ Users reported issues with usability on key features such as messaging. While ot
 > Real easy to refill my prescriptions & file for travel reimbursement all in one place !!! 1,000% satisfied
 
 <br>
+
+### General/other feedback (2)
+Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. During this reporting period only 2 received responses fell into this category.
+
+Responses:
+
+> I don’t know if this is the appropriate place, but I just left Acadian Hearing Services and was treated like a king. VA is getting their money’s worth with this company. 
+
+<br>
+
+> My claim is still on step 2. I retire in less than a month and have had no contact from the VA. So files a BDD claim but looks like you will miss that timeline. Is this the kind of service I should expect next month once I am a veteran?
+
+<br> 
 
 ### Pain points
 In addition to those noted in the primary themes above the following user pain points were shared this month in reviews.
