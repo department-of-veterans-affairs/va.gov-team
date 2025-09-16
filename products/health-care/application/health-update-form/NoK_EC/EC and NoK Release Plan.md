@@ -119,7 +119,7 @@ Errors | 0 errors| TBD| TBD|
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
-     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
+     - [Google Analytics - EC/NOK page views, times, bounce rate](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/2WPX-DusRIGerZ50hBBSNg)
 - Who is monitoring the dashboard(s)?:
      - Product Manager - Alexandria Parker, Heather Justice
      - Data Analyst - Luis Simauchi
