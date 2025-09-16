@@ -1,95 +1,43 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
+title: "[Email verification desk] Research Findings"
+product: "VA.gov Contact Email Verification"
 team: "Team Name"
+team: "Authenticated Experience Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-09-15"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Janelle Finnerty"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Identify and evaluate existing research on email verification to inform the new contact email address verification feature on VA.gov."
 methodology:
-  - "Method 1"
-  - "Method 2"
-devices_used:
-    desktop: X
-    tablet: X
-    smartphone: X
-    assistive_technology: X
-participants_total: X
-demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
-  age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
-  education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
-  location:
-    urban: X
-    rural: X
-    unknown: X
-  race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
-  disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+  - "Desk research"
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - "Users need benefits and risks of opting in/out to be clearly and concisely provided, especially during policy changes."
+  - "Recommendation to swap from 'email verification' to 'email confirmation' for improved user perception and alignment with VA standards."
+  - "Users are quick to dismiss modals; modals should be user-triggered and not auto-displayed, aligning with USWDS standards."
+  - "Email confirmation is a common practice, especially during account setup, and users may swap devices during this process."
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Include clear deadlines, risks, or benefits of email verification in alerts and emails."
+  - "Switch from use of 'verification' to 'confirmation' for user clarity."
+  - "Only use modals for email confirmation when triggered by the user."
+  - "Consider a checkbox to confirm the user has read the modal before allowing it to close."
+  - "Use emails, alerts, and interstitials for launch and renewal communications."
+  - "Ensure users can easily swap between devices during the confirmation process."
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Objective 1, Key Result 3: 100% of transactions via digital experiences are processed correctly or users are notified of an error."
+  - "Objective 2, Key Result 2: Reduce total error rates in platforms by 50% compared to Q4 2024, toward a goal less than 1% per endpoint."
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Reduce confusion and frustration by providing a clear, user-friendly email confirmation process that meets VA standards."
+  business: "Improve contact information accuracy and reduce silent failures by increasing user engagement with email confirmation."
 opportunity_areas:
   - "Unmet need 1"
   - "Research gap 1"
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
-underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "User testing on modal content and interaction patterns for accessibility and clarity."
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "Review of related VA.gov research findings and USWDS documentation"
 synthesis_tools_used:
-  - "Mural"
-  - "Affinity Mapping"
+  - "Word"
 
 ---
 
