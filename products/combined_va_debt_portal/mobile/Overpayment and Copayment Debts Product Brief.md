@@ -109,7 +109,9 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/09/2025| At this current time, data is not available to describe a type of payment.| This type of data will be implemented across web and mobile in future iterations and includes details such as "partial payment" and "received via ACH". |
 |9/10/2025| Mobile designs will include the Notice of rights and responsibilities for overpayments and copayments. | This notice is regulatory-related and needs to be included in the detail/overview pages. The FM team does not own the content. |
 |9/15/2025| We got the approval from Michelle to remove the Feedback-to-Vet label during UX refinement. | During our UX refinement, Michelle reviewed and approved the content feedback that we received on the updated prototype, as well as told us to move forward with the following tickets: [850](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/850), [853](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/853), [852](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/852), and [849](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/849). |
-
+|9/15/2025| Mobile designs do not need to include a note on eductional debts, since receivable ID went live on 9/15. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757953910434839?thread_ts=1757707662.279659&cid=CPE4AJ6Q0). |
+|9/16/2025| Veterans with 500 errors see the same error messages as 404 errors. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758044068158549). |
+|9/16/2025| Engineers can investigate Spike monitoring outside of Sentry. | During refinement Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label. |
 
 ## Reference Materials
 
