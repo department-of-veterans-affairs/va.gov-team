@@ -260,7 +260,7 @@ A few users reported incorrect information displaying in the system.
 
 <br>
 
-**Not able to find/make Travel reimbursements (2)**
+**Travel pay issues (2)**
 
 > The new Travel Reimbursement is not allowing me to do anything. Same as before. 
 
@@ -272,6 +272,8 @@ A few users reported incorrect information displaying in the system.
 
 **Veteran status card unavailable (2)**
 
+Two users had difficulty accessing or loading their Veteran status cards.
+
 > Whatever the Veterans Status Card is, it cannot be reached in my case. I've called every number available and nobody can help.
 
 <br>
@@ -280,13 +282,70 @@ A few users reported incorrect information displaying in the system.
 
 <br>
 
-#### Navigation or findability (16 responses)
+#### Navigation or findability (16 responses)/
+
+Users noted difficulty locating needed features or information within the app, especially for new users or for new features like travel pay. 
+
+> You can't do anything with your app I think it need to better help a veteran if it's was easier to navigate I think this app is a waste of time.
+
+<br>
+
+> There is no way to get to secure messages, no index indicating messages.
+
+<br>
+
+> Provide the link to the travel pay page. I can't navigate to it now.
+
+<br>
+
+> Sometimes I can't find what i need, so I have to call on the phone and it takes a long time to get some answers 
+
+<br>
+
+> I have lost the messages link on the homepage. I used it twice, but now it has disappeared. Can someone please help me thank you.
+
+<br>
 
 
 #### General app sentiment (13 responses)
 
+Many users simply shared their rating of the app overall in this survey response. Positive reviews shared their approval of the ease of use, simplicity, and conveience. While neutral or negative reviews asked for additional functions, reported issues with reliability, or desired in-app support.
+
+> You are doing an excellent job with this app, thanks!
+
+<br>
+
+> Real easy to refill my prescriptions & file for travel reimbursement all in one place !!! 1,000% satisfied
+
+<br>
+
+> There has never been a "help" button, or phone number Grrr!
+
+<br>
+
+> All positive except i am not able to allow notifications. The app tells me it isn't working right now.
+
+<br>
 
 #### Usability (8 responses)
+
+Users reported issues with usability on key features such as messaging. While other users report the app's UI being simple and intuitive.
+
+> I got a secure message from Occupational Therapy at the [location] hospital. BUT, I cannot message this person back. It's been an absolute comedy of errors, and not on my part. If a person secures messaging me, I should automatically be able to simply message them back. Your system does not work like that. Thank You
+
+<br>
+
+> This is such a drastic improvement from jusr a year ago. The addition of travel claims is light years better than the bsss system. After years of being unable to make or get travel claims approved, I'm optimistic that things are going the right direction. Beyond that the UI is simple and intuitive. I think seeing our rate and pay on the landing page is a net positive and reassures us we're okay. All in all, great job. Now, don't let the government $#@% it up.
+
+<br> 
+
+> Little confusing at first but was able to get through. Thanks
+
+<br>
+
+> Real easy to refill my prescriptions & file for travel reimbursement all in one place !!! 1,000% satisfied
+
+<br>
 
 
 ### User pain points
