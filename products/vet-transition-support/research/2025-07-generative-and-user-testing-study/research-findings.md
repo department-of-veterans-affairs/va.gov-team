@@ -51,14 +51,11 @@ This was a mixed-methods study combining generative research with usability test
 
 ## Hypotheses and Conclusions
 
-- **TSMs need a comprehensive tracking system for transition tasks and deadlines:** **Maybe True**
-  - While TSMs use various organizational strategies, most rely on the existing TAP checklist as their source of truth. Having any organized strategy (not necessarily comprehensive) correlates with easier transitions.
+- **TSMs need support organizing transition tasks and processes throughout the process:** **True**
+  - While TSMs use various organizational strategies, most rely on the existing TAP checklist as their source of truth. Having any organized strategy (not necessarily comprehensive) correlates with easier transitions. Our product needs to support multiple styles of organization, accessibility needs, and technological fluency. 
 
 - **The current goals-based approach effectively filters benefits to show relevant results:** **Likely False**
   - There was surprisingly little relationship between goals participants selected and benefits they actually explored. 21 of 28 participants chose "Understand my benefits" suggesting they want broad results rather than filtered ones.
-
-- **Participants can easily save and return to their benefit results:** **Definitely False**
-  - 68% of participants thought they would need to retake the questionnaire to see results again. Only 25% noticed the save link functionality.
 
 - **The current product provides adequate support for taking action on benefits:** **Likely False**
   - Participants consistently requested easier access to human support and clearer pathways for getting help with benefits questions beyond technical support.
