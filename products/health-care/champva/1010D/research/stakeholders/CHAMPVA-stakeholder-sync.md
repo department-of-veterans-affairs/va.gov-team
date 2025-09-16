@@ -1,6 +1,25 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## **09/16/25**
+
+**Attendees:** Anne R., Cindy Carr, Eileen Cook, Rachel P., Renata, Jamie, Ballard M., Premal, Amanda, Angela P., Angela C.
+
+**Agenda**
+Discuss rollout plan for lauching the 1010d OHI merged form
+
+* Renata reviewed the rollout plan with partners: we are keeping the 1010d standalone (without the fully integrated OHI form live during the launch of the merged 1010d/OHI form in. We will roll out the merged form in stages starting with having it available to 25% of users starting on 9/29/25. We will increase it to 50%, 75% and 100% after that. This will take a week to get to 100% launched. We will continue to monitor for issues after that. 
+* [Link to the form on the staging site](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-champva-form-10-10d/introduction)
+
+     \
+Save in Progress: for 60 days users will still have access to the old form to complete if they have started it already.After 60 days it will direct them to complete the new merged form
+
+* No were no questions about the Staged Launch from the partners \
+
+* We just had Staging Review for the 1010d/OHI merged form and are cleaning up issues found during that
+* Spot checking submissions for roll out: Liz Lightfritz would know who to spot check. She will follow up after the call with 2 people from her team that can help with that
+* IVC to send the partners a recorded walkthrough of the 1010d/OHI
+* IVC discusses benefits of the OHI merge: It will reduce duplicate HI cards and reduce redundant questions between the applications and OHI and limit duplicate OHI form from being submitted. They are further iterations coming shortly that will better clarify that they are submitting the OHI cert with the application to further prevent duplicate OHI submissions
 ## **07/22/25**
 
 **Attendees:** Anne R., Cindy Carr, Eileen Cook, Mike M., Rachel P., Renata, Jamie, Andrea, Ballard M., Premal, Amanda, Angela P., Angela C.
