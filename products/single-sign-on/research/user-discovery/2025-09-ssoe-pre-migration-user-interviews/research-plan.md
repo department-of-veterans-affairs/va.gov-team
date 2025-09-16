@@ -19,9 +19,9 @@ This research will inform user type personas for application owners, application
 
 **Research questions**
 
-1. What have partners experienced when implementing IBM IVSA and how have those experiences shaped their expectations of the Okta migration? 
+1. What have partners experienced when implementing IBM SVA and how have those experiences shaped their expectations of the Okta migration? 
 2. How well do partners understand the scope, process, and implications of migrating to Okta? 
-3. What concerns, barriers, and risks do partners perceive in the migration from IBM IVSA to Okta? 
+3. What concerns, barriers, and risks do partners perceive in the migration from IBM SVA to Okta? 
 4. What expectations and requirements do partners have to ensure a smooth and successful migration? 
 
 **Hypothesis**
