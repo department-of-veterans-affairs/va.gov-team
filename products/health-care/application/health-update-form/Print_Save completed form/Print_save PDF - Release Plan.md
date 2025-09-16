@@ -35,7 +35,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: **9/10/2025 - 9/23/2025**
+- Desired date range: **9/TBD/2025 - 9/TBD/2025**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Successful link access and actions (printing/saving)
