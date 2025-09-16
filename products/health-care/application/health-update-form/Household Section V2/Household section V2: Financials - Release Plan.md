@@ -38,10 +38,31 @@ Before enabling your feature toggle in production, you'll need to:
 - Desired date range: **9/TBD/2025 - 9/TBD/2025**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - TBD
-- Links to the dashboard(s) showing "success criteria" metrics:
-  - TBD
-- Who is monitoring the dashboard(s)?: Heather Justice - PM, Derrick Ellerbie - Engineer
+     - Links to the dashboard(s) showing "success criteria" metrics:
+          - [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
+     - Who is monitoring the dashboard(s)?: Heather Justice - PM, Derrick Ellerbie - Engineer
+
+#### Objective: Reduce time spent and bounce rates on Household section pages
+- Results #1: Reduction of time spent by 10%
+- Results #2: Reduction of bounce rates by 10%
+
+|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
+|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
+
+|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page Avg time per session| 47s | TBD | TBD|
+|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
+
+|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|---| --- | --- | ---|
+|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
+|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
 ### Stage A: Canary
 - We will begin testing at 25% of users (see below)
@@ -104,8 +125,29 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### 1-week results
 
-- Data source
-  - TBD
+- [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
+
+#### Objective: Reduce time spent and bounce rates on Household section pages
+- Results #1: Reduction of time spent by 10%
+- Results #2: Reduction of bounce rates by 10%
+
+|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-week post launch|
+|---| --- | --- | ---|
+|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
+|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
+
+|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-week post launch|
+|---| --- | --- | ---|
+|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page Avg time per session| 47s | TBD | TBD|
+|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
+
+|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-week post launch|
+|---| --- | --- | ---|
+|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
+|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
 - Number of unique users: [FILL_IN]
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
@@ -114,9 +156,29 @@ Before enabling your feature toggle in production, you'll need to:
 - If yes, what: [FILL_IN]
 
 ### 1-month results
+- [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
 
-- Data source
-  - TBD
+#### Objective: Reduce time spent and bounce rates on Household section pages
+- Results #1: Reduction of time spent by 10%
+- Results #2: Reduction of bounce rates by 10%
+
+|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-month post launch|
+|---| --- | --- | ---|
+|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
+|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
+
+|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-month post launch|
+|---| --- | --- | ---|
+|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page Avg time per session| 47s | TBD | TBD|
+|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
+
+|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-month post launch|
+|---| --- | --- | ---|
+|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
+|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
 - Number of unique users: [FILL_IN]
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
