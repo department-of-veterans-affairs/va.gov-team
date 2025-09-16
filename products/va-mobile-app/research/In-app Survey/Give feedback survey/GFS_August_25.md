@@ -394,8 +394,9 @@ Two users had difficulty accessing or loading their Veteran status cards.
 | Profile | 5 |
 | Payments | 6 |
 | Travel Pay | 20 |
-| Messaging | # |
-| Prescriptions | # |
+| Messaging | 13 |
+| Prescriptions | 5 |
+| Appointments | 17 |
 
 
 ### Navigation
@@ -423,7 +424,7 @@ Representative responses:
 
 <br>
 
-> "Where is the mileage benefits page Nowhere to be found on this app"
+> Where is the mileage benefits page Nowhere to be found on this app
 
 <br> 
 
@@ -435,6 +436,10 @@ Representative responses:
 
 <br>
 
+#### Feature enhancements
+1. **In-app support or chat feature:** The addition of a live chat feature would aid users to getting support when they need it and could likely improve issues related to navigating the app, opening support tickets when users experience discrepancies, or helping users understand what may be available currently in the app.
+
+2. **In-app search feature:** Users occassionally mention difficulty finding content or features from within the apps organizational structure. Providing a chat or search feature directly in the app would help users be able to easily locate needed content from the homescreen. 
 
 ### Login
 | Feature | # of ratings |
@@ -478,6 +483,9 @@ Thank you,"
 
 <br>
 
+#### Feature enhancements
+1. **Biometric login improvements:** Identify source of inconsistent biometric utilization for improved reliability of this desired app feature. 
+
 ### Disability rating
 | Feature | # of ratings |
 |--|--|
@@ -511,6 +519,9 @@ Representative responses:
 > Maybe add a section to check applications. So if a veteran applies for clothing allowance or something like that, they can track the application. 
 
 <br>
+
+#### Feature enhancements
+1. **Claim submissions:** Consider future claim submissions direct from the app.
 
 ### Letters and documents
 | Feature | # of ratings |
@@ -582,6 +593,9 @@ Representative responses:
 
 <br>
 
+#### Feature enhancements
+1. **Support ticket submission:** Provide in-app access to open support tickets to report errors or get questions answered.
+
 ### Travel Pay
 | Feature | # of ratings |
 |--|--|
@@ -619,48 +633,125 @@ Representative responses:
 
 <br>
 
+#### Feature enhancements
+1. **Community care travel submissions:** Veterans an apply for travel pay reimbursements also for community care appointments which may not be reflected in the app appointments section.
+2. **Direct link to travel pay:** Provide direct link to all travel pay claims:** Users have difficulty finding travel pays and often desire the ability to go directly there or see more detailed information about the claim than what the app provides.
+
 ### Messaging
 | Feature | # of ratings |
 |--|--|
-| Messaging | # |
+| Messaging | 13 |
 
-1-2 sentences summarizing the sentiment of the area.
+Users commented mostly on issues with messaging in their specific responses. Mostly related to not being able to find their desired receipients in their list options. Additional issues were related to messages saving to drafts by default,not being able to respond to received messages, the messaging area not being found, and historical message access. 
 
 Representative responses:
 
-> Quote.
+> The time that messages remain visible needs to be extended. The current time is strangely extremely brief.  I would calculate it to be only 3-4 months. In the VA system it takes months to schedule exams, treatments, tests, etc. 
+For instance I discovered a problem in September that wasn’t diagnosed until June. It’s currently being treated. 
+So where do I find copies of all my correspondence related to my current condition?"
 
 <br>
 
-> Quote.
+> The messaging part of my app is no longer working and I am unable to get any messages from my provider. I receive an email that says they sent a message but I can’t see it. Please help.  This is the same if I logon through the computer, I still cannot see any messages.
 
 <br>
+
+> There is no way to get to secure messages, no index indicating messages
+
+<br>
+
+> I got a secure message from Occupational Therapy at the [location] hospital. BUT, I cannot message this person back. It's been an absolute comedy of errors, and not on my part. If a person secures messaging me, I should automatically be able to simply message them back. Your system does not work like that. Thank You
+
+<br>
+
+> I have lost the messages link on the homepage. I used it twice, but now it has disappeared. Can someone please help me thank you.
+
+<br>
+
+> I live in [location] but I can no longer message my provider because the [location] VA hospital is not an option on the care system drop down tab.
+
+<br>
+
 
 ### Prescriptions
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Prescriptions | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Prescriptions | 5 |
+
+Five responses pertained to prescriptions this month. Other than general satisfaction with this feature availability in the app, users reported a desire to hide discontinued medications from their active medication list, see the status of a prescription that's been ordered, and one veteran had difficulty placing orders. 
 
 Representative responses:
 
-> Quote.
+> I would like the medications that are discontinued and not current active ones to be archived so that they are no longer on my medications list. Also logging out is hard because the system area where I can log out doesn't work. I have to just close my browser to get out of the VA app. Thank you
 
 <br>
 
-> Quote.
+> I would like to see a section in the app so that I can check on the status of a  Prescription that has been ordered.  
+Thank you. 
 
 <br>
 
-### Feature Enhancements
-1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
-
-Representative responses:
-
-> Quote.
+> The app isn’t working correctly. I cannot order medication past 11 that they show me that need to be refilled. I have to look at my other ones. Please fix it.
 
 <br>
 
-> Quote.
+> Real easy to refill my prescriptions & file for travel reimbursement all in one place !!! 1,000% satisfied
 
 <br>
+
+> As an old combat veteran, (80), I have seen so many changes. I am deaf from shooting,artillery,combat,and helicopters. My first hearing aids were received at the VA located at [Tower][Year].
+Now at 2025, it is easy to get my medications, text my primary-special physicians. The face recognition is great for ease of use.Thank you for the upgrades for old grunts.
+
+<br>
+
+#### Feature enhancements
+1. **Remove discontinued medications from active medication list:** Seeing discontinued medications under the active medication list may be confusing for Veterans.
+
+### Appointments
+| Feature | # of ratings |
+|--|--|
+| Appointments | 17 |
+
+Appointments was another frequently mentioned app feature in reviews this month. Users often mentioned the desire for more content or information related to their appointment, requested the ability to make appointments in the app, and reported issues with appointments being incorrect on occassion.
+
+Representative responeses:
+
+> A while ago the app used to show what type of appointment you have and for a while now it just says the date and time so it’s really hard to figure out what type of service you are having. 
+Can it please be added back. 
+
+<br>
+
+> All of my appointments do not tell me what my appointments are for.  I see many doctors and I never can tell who I am suppose to see.  I get location of appointment but that is not enough for me to discern what it’s for.  Can you please fix that.  Thanks.
+
+<br>
+
+> In an appointment entry there is a “Reason” field - that is never used. Why not use it to show in what department your appointment is. Like “Lab”, “Primary Dr”, “Men Health” or “Pain Clinic”. Should be able to glean info of scheduler entering the appt, since they are looking at where/who you’re appt is being made to see.
+
+<br>
+
+> It stopped loading my appointments. I have the text messages in the email still telling me about my appointments, but it doesn’t give details for what appointments are actually scheduled or which provider I’m going to see. I’ve been relying on my health VA in order to find out this information since they’ve changed it, however and using this little app, it is extremely difficult to find it if it even shows up most times a simple says I don’t have appointment which is incorrect
+
+<br>
+
+> It would be nice to be able to see your records and schedule appointments all in the same app.
+
+<br>
+
+> Notifying patient/client of an appointment or a reminder of an appointment is great.  Major problem VIA text. It tells me I have an appointment but no location info via app shows wrong location.
+
+<br>
+
+> There is no easy way to determine when a Community Consult is going to expire or whether it is active. It creates a lot of challenges when trying to schedule appointments. With specialists visits may be only on an annual or biannual basis and no way of knowing when the approval expired.  Would like to see a listing of those community consults, status (active/ inactive) and expiration dates in the Health section of the app. 
+
+<br>
+
+#### Feature enhancements
+1. **Appointment scheduling from the app:** Users often desire the ability to directly schedule appointments from the app.
+2. **Appointment detail consistency:** Users often mention the lack of specific content related to appointments on the app such as provider name, appointment reason, or location details.
+
+
+
+
+
+
+
