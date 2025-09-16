@@ -6,7 +6,7 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 **[Defining the Most Important Metrics for the VAHB Mobile App](./measurement-framework.md)**
 - To capture the overal health of the Mobile app, we're interested in telling 2 stories:
      - A story about the user’s experience ([experiential metrics](./measurement-framework.md#experiential-metrics))
-     - A story about the platform’s health ([platform metrics](./data-strategy/measurement-framework.md#platform-metrics))
+     - A story about the platform’s health ([platform metrics](./measurement-framework.md#platform-metrics))
  
 **[Metrics Data Dictionary](./Mobile%20-%20Metrics%20Data%20Dictionary.pdf)**
 - We built an initial data dictionary for the metrics in the measurement framework, prioritizing metrics that most often need clarification.
