@@ -1,4 +1,4 @@
-## Sep 2, 2025 Meeting - Kickoff | MFS & IIR | Vet Status Eligibility Logic Updates
+## Sep 2 & Sep 9, 2025 Meeting - Kickoff | MFS & IIR | Vet Status Eligibility Logic Updates
 
 This kickoff meeting is to prepare for a handoff of the Vet Status work. We should align on: 1) scope of work 2) how we want to do the handoff 3) what each team needs to prepare 4) what kind of support there should be post handoff.
 
