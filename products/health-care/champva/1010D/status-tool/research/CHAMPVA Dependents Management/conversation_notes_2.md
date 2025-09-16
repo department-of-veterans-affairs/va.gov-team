@@ -1,8 +1,7 @@
-# Conversation Guide for CHAMPVA Dependents Management Discovery SME Interview
+# Conversation Guide for CHAMPVA Dependents Management Discovery SME Interview 2
 Moderators: Alyssa, Amanda
 
 Participant: Lawrence R. (IVC, Policy)
-
 
 ## Questions
 
@@ -30,7 +29,7 @@ CHAMPVA is payor of last resort, secondary to any primary insurance. CHAMPVA is 
   
 **3. As I mentioned earlier, we'd love your help understanding case by case what information we can share with different types of dependents. To structure our conversation, I've made these two tables of all the different cases we'd like to learn about. [Share screen] I'm going to take notes in each box as we chat.**
 
-Mural activity. Additional notes in Mural (Alyssa) 
+Mural activity.   [notes in Mural table] (Alyssa) 
 
 They are never calling about info on application. Just calling about a status. 
   
@@ -40,36 +39,33 @@ They are never calling about info on application. Just calling about a status.
       - **Or a child under the age of 18?** 
       - **What if the daughter, spouse, or minor child was the applicant?**   
 
-    Can never release names, DOB, or SSN for verification. Caller needs to provide in order to release information. Caller must provide this for each person requesting info for. 
+    Can never release names, DOB, or SSN for verification to caller. Caller needs to provide in order to release information for each beneficiary. 
 
-    A friend can also call in for an application status and able to release app status if can verify person's PII.
+    A friend can also call in for an application status and able to release app status if can verify person's PII, using 3 data point rule.
 
 **5. What about if it's a spouse calling?** Can share missing info
     **- If they are calling about their own application, how do you decide what you are allowed to share with them?**
       **- Can they know any of the Veteran's information that wasn't already in their application?**
+      [notes in Mural table]
     **- If they are calling about another dependent's application (i.e. their child who filled out a separate application), how do you decide what you are allowed to share with them?**
+      [notes in Mural table]
 
     Veteran does not need to know if spouse, or child has applied. They can apply without notifying Veteran. Ex: Veteran and spouse get divorced and spouse wants to enroll child only, does not need Veteran to be notified.
     
     Even in online portal, all verification rules apply. 
 
 **6. What if it's a child over 18 calling?**
-
+  [notes in Mural table]
 **7. What if it's a child under 18 calling?**
-
+  [notes in Mural table]
 **8. Do you have any documentation for these guidelines? Would you be able to share them with me?**
-  Will get back to us on documentation can share that states these rules. Congress sets ChampVA law, policy interprets the law, judges if there are a lawsuit can interpret law further. 
+  Will get back to us on documentation can share that outlines these rules. Congress sets ChampVA law, policy interprets the law, judges if there is a lawsuit can interpret law further and may cause IVC policy to adjust rules. 
   
 **9. Who makes these guidelines?**
     - What laws or policies inform the guidelines?
     - Is there any room to change these guidelines based on insights from user research?
-
-    
-**10. If only one beneficiary is missing information, can the other beneficiaries on the application be marked as complete/eligible? Or does the entire application go back to the end of the queue?** Keith Parker with IVC and group: VHA 16 IVC Family & Foreign Policy, VHA16IVCFamily&ForeignPolicy@va.gov
+Keith Parker with IVC and policy group: VHA 16 IVC Family & Foreign Policy, VHA16IVCFamily&ForeignPolicy@va.gov
+**10. If only one beneficiary is missing information, can the other beneficiaries on the application be marked as complete/eligible? Or does the entire application go back to the end of the queue?** Each person/beneficiary is processed independently
 
 **11. If you could wave a magic wand and change anything about this process, what would it be?**
 For CVA, anyone that is eligible for CHAMPVA, they are eligible for CH35 education assistance. It would be great if once approved for CH35, it would also automatically update CHAMPVA.
-
-**12. Before we wrap up, do you have any questions for me?**
-
-Thanks so much for your time! 
