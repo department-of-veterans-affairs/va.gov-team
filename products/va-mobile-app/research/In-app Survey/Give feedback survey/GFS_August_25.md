@@ -147,7 +147,7 @@ Representative responses:
 
 #### Functionality lacking (19 responses)
 
-Requests for improved or new functionality in the app or also common. These range from requests such as application statuses, to additional claim application submissions. Creating new appointments, or making payments. Additionally reports of things not functioning properly popped up in regards to messaging list options (not providing accurate location or provider options), login biometrics not working despite checked, and travel pay being marketed yet unavailable for a short period of time this month while development teams resolved found issues.
+Requests for improved or new functionality in the app are also common. These range from requests such as application statuses, to additional claim application submissions. Creating new appointments, or making payments. Additionally reports of things not functioning properly popped up in regards to messaging list options (not providing accurate location or provider options), login biometrics not working despite checked, and travel pay being marketed yet unavailable for a short period of time this month while development teams resolved found issues.
 
 > Maybe add a section to check applications. So if a veteran applies for clothing allowance or something like that, they can track the application. 
 
