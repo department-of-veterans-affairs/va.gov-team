@@ -189,9 +189,10 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 
 ## Task 2: Start a statement
-Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+Pretend that you need to submit a statement in support of a new disability claim for yourself via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app?
 
-[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and read aloud any thoughts or questions you have regarding the content. > Move forward vai the button  'Start a new statement', Read through the screen 'What would you like to do?' and let me know which option you would choose for this scenario 'Start a statement in support of a claim. Claim being a new claim.' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
+*Allow the user to navigate to and through the form on their own without guiding them through the happy path. 
+Happy path: [Select 'Go to forms' > Click the button 'Start a statement' > Read the text on this page and read aloud any thoughts or questions you have regarding the content. > Move forward vai the button  'Start a new statement', Read through the screen 'What would you like to do?' and let me know which option you would choose for this scenario 'Start a statement in support of a claim. Claim being a new claim.' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
@@ -205,10 +206,7 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
-Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
-
-- Supply form entry data for participant to enter as they go through the form.
-- Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
+Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -223,17 +221,11 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Does the user express thoughts of frustration while completing the form? Y/N
     - If Y, what did they experience when expressing the frustration?
 
-### Questions for testing participant: 
-
-Other than the SSN error, Did you encounter any issues using your [screen reader/assistive tech/device]? 
-
-What did you find difficult about doing this task?
-
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
-Pretend you need to step away from the form for an extended period of time, you can leave the form now.
+Pretend you need to step away from the form for an extended period of time, you can leave the form now. 
 
-[Click 'Done' to exit the form]
+Happy path: [Click 'Done' to exit the form]
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -245,7 +237,7 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 
 ## Task 5: Continue completing the started form and submit
-Pretend you are ready to come back to your previous form to complete it. Please locate the form and bring it up to complete. I have some updated information to supply you here to allow you to complete this form.
+Pretend you are ready to come back to your previous form to complete & submit it. Please locate the form and bring it up to complete.
 
 - Supply acceptable social security number to correct error and allow the user to advance in the form fields.
 
