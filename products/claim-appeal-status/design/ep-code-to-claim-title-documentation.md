@@ -73,7 +73,7 @@ _**NOTE:** LGY is Loan Guaranty the VA Home Loan program, which helps Veterans b
 
 | EP Code | Claim Label | Logic + Background | Plain Language Title |
 |---------|-------------|-----------|---------------------|
-| 290HEF73R | Healthcare Eligibility - 731 Review | Identify and clarify health records from VHA to specialty | NONE |
+| 290HE7131R | Healthcare Eligibility - 731 Review | Identify and clarify health records from VHA to specialty | NONE |
 | 290LGYDES | Pre-Discharge LGY Determination - IDES | Filtered: work done outside VBMS | NONE |
 | 290LGYEDD | LGY Determination - BDD | Filtered: work done outside VBMS | NONE |
 
