@@ -187,102 +187,9 @@ Requests for improved or new functionality in the app or also common. These rang
 
 Users reported believed bugs in regard to the following issues.
 
-**Appointment details incorrect (2)**
-
-> It stopped loading my appointments. I have the text messages in the email still telling me about my appointments, but it doesn’t give details for what appointments are actually scheduled or which provider I’m going to see. I’ve been relying on my health VA in order to find out this information since they’ve changed it, however and using this little app, it is extremely difficult to find it if it even shows up most times a simple says I don’t have appointment which is **incorrect.**
-
-<br>
-
-> Notifying patient/client of an appointment or a reminder of an appointment is great. Major problem VIA text. It tells me I have an appointment but no location info via **app shows wrong location**
-
-<br>
-
-**Login/Logout not working properly (3)**
-
-> I would like the medications that are discontinued and not current active ones to be archived so that they are no longer on my medications list. Also logging out is hard because the system area where I can log out **doesn't work**. I have to just close my browser to get out of the VA app. Thank you
-
-<br>
-
-> Once logged in and you sign out and leave the app, and go to sign in again through login.gov...it automatically signs you in without having to input your password. That is a big nono for security purposes...and needs to be rectified. If the phone was stolen, all of the veterans' information would be compromised. I will be uninstalling the app until this issue is resolved. 
-
-<br> 
-
-> Sure would wish…..facial recognition on my iPad or mobile phone would work instead of the old password technical identification for the VA portal.
-
-<br>
-
-**Information incorrect in system (5)**
-A few users reported incorrect information displaying in the system.
-
-> I’ve been married for 42yrs. And I only get paid as single!!this is unacceptable!
-
-<br>
-
-> I’ve been waiting 4 months to get my disability back  my pay increase approved for [date]. I can not find any documentation explaining why the delay in my missed pay.  My pay increase went through, but only for the past 4 months.  I’m still struggling with debts that occurred from medical expenses not covered by insurance. -lease help.
-
-<br> 
-
-> My date of birth is incorrect and my date of service is incorrect on the app called the number listed to correct it. The personnel on the phone had no knowledge of the app. Referred me to call [location] personal center.  [location] advised it’s a VA issue.
-
-<br>
-
-> The app has me registered with [location] VA, the VA hospital i use is ][location]
-
-<br>
-
-**Medication refill problems (2)**
-
-> The app isn’t working correctly. I cannot order medication past 11 that they show me that need to be refilled. I have to look at my other ones. Please fix it.
-
-<br>
-
-> Well the other day I was able to reorder my medication, but today it will not let me see the list of my prescription and the status of my prescription. So on one hand your app works then next day it doesn't 
-
-<br>
 
 
-
-**Messaging issues (4)**
-
-> Suddenly, none of my providers are available in messaging. I have providers I haven't seen in 30 years or some Ive never seen but none of my current
-
-<br>
-
-> The messaging part of my app is no longer working and I am unable to get any messages from my provider. I receive an email that says they sent a message but I can’t see it. Please help.  This is the same if I logon through the computer, I still cannot see any messages.
-
-<br>
-
-> The only issue I have is that when I want to create a new message it asks me to choose a Care System. There are six listed in the drop-down but NONE of them are the Care System I use. I use the [location]. Someone needs to update the App.
-
-<br>
-
-> Up until today the app has been wonderful once I punched through all the changes. My Primary (wonderful team!) is located in [location]. In the past 2 weeks I've had appts in [location] and now I have no ability to contact my primary (Gold Team). Everything is gone.
-
-<br>
-
-**Travel pay issues (2)**
-
-> The new Travel Reimbursement is not allowing me to do anything. Same as before. 
-
-<br>
-
-> Wish there was a link to check Travel claims status. Currently, the link only appears when filing a claim and then disappears. Thank you.
-
-<br> 
-
-**Veteran status card unavailable (2)**
-
-Two users had difficulty accessing or loading their Veteran status cards.
-
-> Whatever the Veterans Status Card is, it cannot be reached in my case. I've called every number available and nobody can help.
-
-<br>
-
-> What’s wrong with my military status card??????
-
-<br>
-
-#### Navigation or findability (16 responses)/
+#### Navigation or findability (16 responses)
 
 Users noted difficulty locating needed features or information within the app, especially for new users or for new features like travel pay. 
 
@@ -347,15 +254,125 @@ Users reported issues with usability on key features such as messaging. While ot
 
 <br>
 
+### Pain points
+In addition to those noted in the primary themes above the following user pain points were shared this month in reviews.
 
-### User pain points
+**Lack of support for app users (7)**
 
-1. 
+Many users requested help directly in their reviews or noted the difficulty they've had when seeking help while using the app.
 
-#### Pain point title
-Brief sentence explaining pain point, noting scale of that pain point (# of reviews related to this pain point).
+> Sometimes I can't find what i need, so I have to call on the phone and it takes a long time to get some answers 
 
-Recommendation: 1-2 sentences of recommendations that could improve this pain point.
+<br>
+
+> There has never been a "help" button, or phone number Grrr!
+
+<br>
+
+> This app is designed to talk to no one. Once you do talk to some one they have an attitude.
+
+<br>
+
+> I cannot file a claim with VA.gov for mileage reimbursement when I have to travel to the nearest VA facility.  Please help. Help!!!!!!
+
+<br>
+
+**Information incorrect in system (5)**
+A few users reported incorrect information displaying in the system.
+
+> I’ve been married for 42yrs. And I only get paid as single!!this is unacceptable!
+
+<br>
+
+> I’ve been waiting 4 months to get my disability back  my pay increase approved for [date]. I can not find any documentation explaining why the delay in my missed pay.  My pay increase went through, but only for the past 4 months.  I’m still struggling with debts that occurred from medical expenses not covered by insurance. -lease help.
+
+<br> 
+
+> My date of birth is incorrect and my date of service is incorrect on the app called the number listed to correct it. The personnel on the phone had no knowledge of the app. Referred me to call [location] personal center.  [location] advised it’s a VA issue.
+
+<br>
+
+> The app has me registered with [location] VA, the VA hospital i use is ][location]
+
+<br>
+
+**Messaging issues (4)**
+
+> Suddenly, none of my providers are available in messaging. I have providers I haven't seen in 30 years or some Ive never seen but none of my current
+
+<br>
+
+> The messaging part of my app is no longer working and I am unable to get any messages from my provider. I receive an email that says they sent a message but I can’t see it. Please help.  This is the same if I logon through the computer, I still cannot see any messages.
+
+<br>
+
+> The only issue I have is that when I want to create a new message it asks me to choose a Care System. There are six listed in the drop-down but NONE of them are the Care System I use. I use the [location]. Someone needs to update the App.
+
+<br>
+
+> Up until today the app has been wonderful once I punched through all the changes. My Primary (wonderful team!) is located in [location]. In the past 2 weeks I've had appts in [location] and now I have no ability to contact my primary (Gold Team). Everything is gone.
+
+<br>
+
+**Login/Logout not working properly (3)**
+
+> I would like the medications that are discontinued and not current active ones to be archived so that they are no longer on my medications list. Also logging out is hard because the system area where I can log out **doesn't work**. I have to just close my browser to get out of the VA app. Thank you
+
+<br>
+
+> Once logged in and you sign out and leave the app, and go to sign in again through login.gov...it automatically signs you in without having to input your password. That is a big nono for security purposes...and needs to be rectified. If the phone was stolen, all of the veterans' information would be compromised. I will be uninstalling the app until this issue is resolved. 
+
+<br> 
+
+> Sure would wish…..facial recognition on my iPad or mobile phone would work instead of the old password technical identification for the VA portal.
+
+<br>
+
+
+
+**Medication refill problems (2)**
+
+> The app isn’t working correctly. I cannot order medication past 11 that they show me that need to be refilled. I have to look at my other ones. Please fix it.
+
+<br>
+
+> Well the other day I was able to reorder my medication, but today it will not let me see the list of my prescription and the status of my prescription. So on one hand your app works then next day it doesn't 
+
+<br>
+
+
+**Travel pay issues (2)**
+
+> The new Travel Reimbursement is not allowing me to do anything. Same as before. 
+
+<br>
+
+> Wish there was a link to check Travel claims status. Currently, the link only appears when filing a claim and then disappears. Thank you.
+
+<br> 
+
+**Veteran status card unavailable (2)**
+
+Two users had difficulty accessing or loading their Veteran status cards.
+
+> Whatever the Veterans Status Card is, it cannot be reached in my case. I've called every number available and nobody can help.
+
+<br>
+
+> What’s wrong with my military status card??????
+
+<br>
+
+**Appointment details incorrect (2)**
+
+> It stopped loading my appointments. I have the text messages in the email still telling me about my appointments, but it doesn’t give details for what appointments are actually scheduled or which provider I’m going to see. I’ve been relying on my health VA in order to find out this information since they’ve changed it, however and using this little app, it is extremely difficult to find it if it even shows up most times a simple says I don’t have appointment which is **incorrect.**
+
+<br>
+
+> Notifying patient/client of an appointment or a reminder of an appointment is great. Major problem VIA text. It tells me I have an appointment but no location info via **app shows wrong location**
+
+<br>
+
 
 ## Feature specific feedback
 | Feature | average rating | # of ratings |
