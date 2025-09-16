@@ -28,6 +28,7 @@
 - Tim or Jacob can provide the packetIDs to the MAS folks, they can review, and provide it to IBM if needed to review for potential automation issues.
 
 MAS POCs:
+- Alanna Fields, OBI Program Analyst
 - Molly Mccabe, OBI Progam Analyst
 - Jacob Shepard, OBI Progam Analyst
 - Timothy Wagner, OBI Progam Analyst
