@@ -2,9 +2,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Discover Your Benefits, VES Veteran Transition Experience Team**
 
-**Date:** 08/01/2025
+**Date:** Study conducted July-August 2025
 
 **Contacts:** VES Veteran Transition Experience Team
+Researcher: Anna Higgins, anna.higgins@va.gov, anna.higgins@adhocteam.us
+Designer: Jessica Woodin, jessica.woodin@va.gov, jwoodin@ironarchtech.com
 
 **Jump to:**
 
@@ -51,13 +53,16 @@ This was a mixed-methods study combining generative research with usability test
 
 ## Hypotheses and Conclusions
 
-- **TSMs need support organizing transition tasks and processes throughout the process:** **True**
-  - While TSMs use various organizational strategies, most rely on the existing TAP checklist as their source of truth. Having any organized strategy (not necessarily comprehensive) correlates with easier transitions. Our product needs to support multiple styles of organization, accessibility needs, and technological fluency. 
+- **TSMs need support organizing transition tasks and processes throughout transition to ensure they can quickly and easily apply for VA benefits as soon as they are eligible for them:** **True**
+  - While TSMs use various organizational strategies, most rely on the existing TAP checklist as their source of truth. Having any organized strategy (rather than any specific strategy) correlates with easier transitions. Our product needs to support multiple styles of organization, accessibility needs, and technological fluency. 
 
-- **The current goals-based approach effectively filters benefits to show relevant results:** **Likely False**
-  - There was surprisingly little relationship between goals participants selected and benefits they actually explored. 21 of 28 participants chose "Understand my benefits" suggesting they want broad results rather than filtered ones.
+- **Usability pain points, especially on the results page, are making the tool less effective supporting TSMs:** **True**
+  - We discovered pain points with filters, sorting of results, saving the URL, and an alert banner that makes it hard to read important information underneath it.
 
-- **The current product provides adequate support for taking action on benefits:** **Likely False**
+- **There is a strong relationship between the goals users choose in the questionnaire and the benefits they explore via the results page:** **Likely False**
+  - There was surprisingly little relationship between goals participants selected and benefits they actually explored. 21 of 28 participants chose "Understand my benefits" suggesting they want broad results rather than filtered ones. Participants who chose specific goals often ended up exploring unrelated benefits.
+
+- **Some users need more help discovering and applying for benefits than the tool provides:** **True**
   - Participants consistently requested easier access to human support and clearer pathways for getting help with benefits questions beyond technical support.
 
 ## Key Findings
@@ -101,8 +106,14 @@ The current method for saving results is not meeting user needs or expectations.
 
 TSMs employ various strategies for managing transition, and success correlates with having any organized approach.
 
-- _Supporting data: "Having a hands on, proactive management style during transition is highly correlated with having an easy to somewhat easy transition experience"_
-- _Supporting data: "While digital first participants were most likely to have an easier transition, what matters most is that participants had an organizational strategy, whether paper first, digital first, or hybrid"_
+- _Supporting data:
+- Having a hands on, proactive management style during transition is highly correlated with having an easy to somewhat easy transition experience
+- While digital first participants were most likely to have an easier transition, what matters most is that participants had an organizational strategy, whether paper first, digital first, or hybrid
+- The majority use the checklist they receive in TAP as the source of truth for transition tasks
+- A majority of participants, but not all, get guidance on transition management from trusted friends and mentors in addition to official support
+- A little more than half worked with VSOs during transition, which did not correlate with ease or difficulty of transition experience
+Many participants get support and information on transition on social media, including LinkedIn, Facebook, YouTube, and Reddit
+
 
 **Finding 4: Product Value and Gap-Filling**
 
@@ -191,7 +202,7 @@ Participants across all groups identified significant knowledge gaps that hinder
 6. **Maintain Unauthenticated Access:** Preserve the unauthenticated tool option while developing authenticated features
    - _Supporting evidence: Tool valuable for Veterans without existing VA relationships; concerns about making unwanted account changes_
 
-7. **Develop Authenticated Integration Roadmap:** Prioritize integration with MyVA for personalized data pull, persistent results, and enhanced functionality
+7. **Develop Authenticated Integration Roadmap:** Long term, prioritize integration with MyVA for personalized data pull, persistent results, and enhanced functionality
    - _Supporting evidence: Overwhelming sentiment for authentication integration; expectations for automated data integration and dashboard-like experience_
 
 8. **Address Critical Knowledge Gaps Through Proactive Outreach:** Develop proactive communication strategies to inform TSMs about time-sensitive benefits, medical documentation requirements, and transition timelines
@@ -220,20 +231,16 @@ Participants across all groups identified significant knowledge gaps that hinder
 
 ## Next Steps
 
-- **Immediate (1-2 months):** Prototype enhanced filter designs for A/B testing; improve save button visibility and add email option
-- **Short-term (3-6 months):** Implement multiple save modalities; make help resources more prominent; address length of service and disability compensation display issues; begin authenticated integration planning
+- **Immediate (1-2 months):** Prototype enhanced filter designs for A/B testing; improve save button visibility and possibly add email option, address length of service question
+- **Short-term (3-6 months):** Make help resources more prominent; ; begin authenticated integration planning
 - **Long-term (6+ months):** Pursue MyVA authentication integration; explore AskVA integration; develop personalized dashboard features
 
 ## Further research needed
 
-- **Usability testing with assistive technology users** to ensure accessibility for the 75% of participants with cognitive disabilities and other accessibility needs
-- **Research with spouses, family members, and other user types** to understand broader support ecosystem needs
-- **A/B testing of filter vs. goals approaches** to validate recommended design changes
-- **Follow-up study on save functionality effectiveness** after implementing recommended improvements
+- **Usability testing with assistive technology users** to ensure accessibility 
+- **Testing filter vs. goals approaches** to validate recommended design changes
 - **Research with underrepresented groups** including Veterans with less than honorable discharges, shorter service lengths, and younger TSMs
-- **Authenticated vs. unauthenticated experience testing** to optimize the balance between personalization and accessibility
 - **Further research needed on transition knowledge delivery methods** to determine most effective ways to provide time-sensitive information and proactive benefit awareness
-- **Research with military spouses and family members** to understand their transition support needs and develop appropriate resources
 
 ## Appendix
 
