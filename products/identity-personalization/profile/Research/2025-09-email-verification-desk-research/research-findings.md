@@ -234,12 +234,12 @@ This research supports measurement of these KPIs by ensuring that if an email is
 
 ## Next steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+Next steps are to update the designs to reflect the recommendations, and determine if research is needed.
 
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+None
 
 
 ## Appendix
@@ -259,8 +259,8 @@ This research supports measurement of these KPIs by ensuring that if an email is
 
 ### Tools used for synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
-  
+Microsoft Word
+
 ### Pages and applications used
 
 _None_
