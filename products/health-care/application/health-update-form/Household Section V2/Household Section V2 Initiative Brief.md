@@ -67,31 +67,31 @@ Alex Seelig, 3.21.2025
 
 |Spouse | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Spouse page views| 35,923 | N/A | N/A|
+|Spouse page views| 4,490 | N/A | N/A|
 |Spouse page Avg time per session| 1m 22s | 1m 15s | TBD|
 |Spouse page Bounce rate| 1.24% | 1.12% | TBD|
 
 |Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Dependents page views| 84,285 | N/A | N/A|
+|Dependents page views| 10,536 | N/A | N/A|
 |Dependents page Avg time per session| 1m 33s | 1m 23s | TBD|
 |Dependents page Bounce rate| 1.37% | 1.23% | TBD|
 
 |Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page views| 6,533 | N/A | N/A|
 |Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
 |Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
 
 |Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page views| 3,431 | N/A | N/A|
 |Spouse income page Avg time per session| 47s | TBD | TBD|
 |Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
 
 |Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles views| 4,604 | N/A | N/A|
 |Deductibles page Avg time per session| 1m 01s | 57s | TBD|
 |Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
