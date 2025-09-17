@@ -119,11 +119,11 @@ Let’s start with a few questions...
 
 ## Task 0: Share screen
 
-I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
+I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your whole screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 15 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
-We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
+We can help guide you through sharing your screen when you're ready if you'd like assistance. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
 1. Make sure that the Zoom application has focus
 2. Navigate to the screen share button (may need to tap on mobile device to display the menu at the bottom, may have to scroll over to see menu options).
 3. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
@@ -179,38 +179,54 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.56.1.QA (2903)]
 
-I'd like you to take a look at this screen, and sign in. This will happen automatically once you select sign in. So you don’t need to type anything.
+I'd like you to take a look at this screen, and sign in. This will happen automatically once you select sign in.
 
-As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen. 
+**For screen magnifier participants.**
+[Confirm you're seeing what they are seeing by asking them] "What are you seeing on your screen now?
+Are you seeing the participants screen magnified at all? 
+If not, ask the participant to check their settings on their device by navigating to...
+1. Settings
+2. Accessibility
+3. Zoom
+4. Show while mirroring toggle on
 
-[Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
+[Confirm you're seeing what they are seeing by asking them] "What are you seeing on your screen now?
 
-[When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
+[When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a test environment with artifical testing data displayed only. 
+
+Please stop here so I can give you the next instruction.
 
 
 ## Task 2: Start a statement
-Pretend that you need to submit a statement in support of a new disability claim for yourself via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app?
+As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything.
+
+Today I'd like you to pretend that you need to submit a statement in support of a new disability claim for yourself using the VA Health & Benefits Mobile App. 
+
+You may begin.
 
 *Allow the user to navigate to and through the form on their own without guiding them through the happy path. 
-Happy path: [Select 'Go to forms' > Click the button 'Start a statement' > Read the text on this page and read aloud any thoughts or questions you have regarding the content. > Move forward vai the button  'Start a new statement', Read through the screen 'What would you like to do?' and let me know which option you would choose for this scenario 'Start a statement in support of a claim. Claim being a new claim.' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
-Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
 ### Watch for:
-- In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
     - If Y, where do they go instead?
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
     - If Y, what do they find confusing?
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
-Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me. 
+As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
+
+**For screen reader participants:**
+[Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What are you seeing on your screen now? 
+
+Thank you.
+
+You may continue on with the form.
 
 ### Watch for:
-- In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
     - If Y, what field do they encounter errors on?
       - What triggered the error specifically?
@@ -223,9 +239,8 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
-Pretend you need to step away from the form for an extended period of time, you can leave the form now. 
+At this point, I'm going to have you pretend that you need to step away from the form for an extended period of time, you can leave the form now and go back to the homepage of the mobile app. 
 
-Happy path: [Click 'Done' to exit the form]
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -237,11 +252,9 @@ Happy path: [Click 'Done' to exit the form]
 
 
 ## Task 5: Continue completing the started form and submit
-Pretend you are ready to come back to your previous form to complete & submit it. Please locate the form and bring it up to complete.
+Now, pretend you are ready to come back to your previous form to complete & submit it. 
 
-- Supply acceptable social security number to correct error and allow the user to advance in the form fields.
-
-[From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
+Please locate the form and bring it up to complete.
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -253,15 +266,16 @@ Pretend you are ready to come back to your previous form to complete & submit it
 
 ### Questions for testing participant: 
 
-What type of issues, if any, did you encounter during this task? [screen reader/assistive tech/device]? 
+- How was your experience filling out the form from the mobile app using your [screen reader/assistive tech/device]? 
 
-What did you find challenging about navigation during this task?
+- What worked well for you?
+
+- What was unclear for you?
 
  
 ### Task 6: View submitted form
-Now that you have completed the form, navigate back to the general forms location in the app.
+Now that you have completed the form, please go back to the app.
 
-[Select 'Done' to exit the confirmation page, Go to 'Forms']
 
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
