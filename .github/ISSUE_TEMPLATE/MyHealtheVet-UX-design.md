@@ -32,7 +32,8 @@ _Examples of things to do in this ticket, e.g. look at X, Y, design system compo
 - [ ] Item 3
 
 ## Acceptance criteria
-- [ ] UX review by @fmccaf1 
+- [ ] UX review by @fmccaf1
+- [ ] Content review (if needed)
 - [ ] Accessibility review (if needed)
 - [ ] Incorporated feedback from stakeholders
 - [ ] Created follow-on tickets for _______________ (if needed) 
