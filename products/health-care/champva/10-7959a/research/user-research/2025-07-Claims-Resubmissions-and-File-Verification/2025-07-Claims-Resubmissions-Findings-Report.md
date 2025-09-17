@@ -402,18 +402,35 @@ Participant expectations varied widely when considering how long it would take t
 ## Product User and Business Outcomes
 
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+
+- Veterans can complete and submit a CHAMPVA claim or claim resubmission within the online form
+  
+- Veterans spend less time and effort filling out the forms
+  
+- Veteran satisfaction increased with application experience
+
  
 ### Desired Business Outcome
-This research supports our desired business outcome by....
+
+- Reduce amount of time spent processing paper forms
+
+- Replace outdated and legacy DAPER system with PEGA for document upload and management
 
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+Baseline KPI Values
+number of PDF downloads
+processing time for paper forms
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+Objective: Measure number of people filing claims online through CHAMPVA
+
+Key result: Increase number of beneficiaries who file CHAMPVA claims
+Key result: Increase number of people who obtain approvals for claims filed
+Objective: Reduce time from submission to notification
+
+Key result: Measure number of application completed in single session
+Key result: Reduce processing time for applications
 
 ### KPI 1
 This research supports measurement of this KPI by....
@@ -432,23 +449,24 @@ This research supports measurement of this KPI by....
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Product Outline]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/product-outline-10-7959a.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/2025-07-Research-Plan-Claims-Resubmissions-and-File-Verification.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/2025-07-Conversation-Guide-Claims-Resubmissions-and-File-Verification.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/Transcripts)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753976084535/5cb0785028445d5ff4840cce88fce033f50e1817)
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Staging environment](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/introduction)
 
 
 ### Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- [Work in Progress Resubmission Flow](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=4578-61533)
+- [Work in Progress File Verification Figma](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=4843-38523)
 
 
 ### Secondary research
