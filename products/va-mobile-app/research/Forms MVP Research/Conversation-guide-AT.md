@@ -50,7 +50,7 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App, ending with a quick 10 question survey. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
+Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
 
 Before we start, I want to go over a few things:
 
@@ -294,17 +294,6 @@ Now that you have completed the form, please go back to the app.
     
 
 
-### SuS for testing participants:
-Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. 
-I can now share a URL with you for our 10-question survey. 
-
-How would you prefer to receive the URL? 
-I could dictate it to you, put it in the Zoom chat, email it to you, or (for smartphone only) text it to you.
-
-[Moderator supply the following link to Qualitrix SuS in the preferred delivery method] (SuS Link)(https://ows.io/qs/kanch3g3)
-
-Please select the link and take the survey.
-
 ### Deleting the testing app:
 Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
 
@@ -328,8 +317,6 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 (hint: to switch browser windows the user can select the three lines III in the bottom left corner of their lower nav. menu)
 
 ## Thank You and Closing - 3 minutes
-
-**How did you find this process overall?**
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*
