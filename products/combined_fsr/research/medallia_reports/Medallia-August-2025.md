@@ -2,7 +2,7 @@
 
 ## *Data time span: August 1 \- 31, 2025*
 
-Surveys received = 579
+Responses (Surveys) received = 579
 
 # **Standard Medallia Survey Data on [VA.gov](http://VA.gov)** 
 
