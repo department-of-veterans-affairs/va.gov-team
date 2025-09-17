@@ -488,9 +488,48 @@ _Complete the demographic info below using information from the Perigean recruit
 
 [Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
 
+| Category                                                                       | Target % | Target # | # in Study | Target Achieved? | Notes                                                      |
+|--------------------------------------------------------------------------------|----------|----------|------------|------------------|------------------------------------------------------------|
+| **All participants**                                                           | n/a      | n/a      | 18         | n/a              |                                                            |
+| **Assistive Tech (AT) users**                                                  | n/a      | n/a      | 3          | n/a              |                                                            |
+| **No-show participants**                                                       | n/a      | n/a      | 4          | n/a              |                                                            |
+| **Age 55-64+**                                                                 | 50%      | 9        | 6          | **No**           |                                                            |
+| **Cognitive Disability**                                                       | 50%      | 9        | 1          | **No**           |                                                            |
+| **Mobile user**                                                                | 50%      | 9        | 6          | **No**           |                                                            |
+| **Rural**                                                                      | 25%      | 5        | 4          | **No**           |                                                            |
+| **No degree**                                                                  | 25%      | 5        | 6          | **Yes**          |                                                            |
+| **Other than honorable**                                                       | n/a      | n/a      | 0          | n/a              | Not included                                               |
+| **Immigrant origin**                                                           | n/a      | n/a      | 0          | n/a              | Not included                                               |
+| **Women**                                                                      | 10%      | 2        | 9          | **Yes**          |                                                            |
+| **Expat (living abroad)**                                                      | n/a      | n/a      | 0          | n/a              | Not included                                               |
+| **Black or African American**                                                  | 15%      | 3        | 3          | **Yes**          |                                                            |
+| **Hispanic, Latino, or Spanish origin**                                        | 12%      | 3        | 1          | **No**           |                                                            |
+| **Biracial**                                                                   | 3.9%     | 1        | 0          | **No**           |                                                            |
+| **Asian**                                                                      | 2.7%     | 1        | 1          | **Yes**          |                                                            |
+| **Native Hawaiian or other Pacific Islander**                                  | .3%      | 1        | 0          | **No**           |                                                            |
+| **First Nations (Canada)**                                                     | n/a      | 1        | 0          | **No**           |                                                            |
+| **Native, American Indian or Alaska Native**                                   | 1.6%     | 1        | 1          | **Yes**          |                                                            |
+| **Gay, lesbian, or bisexual**                                                  | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
+| **Transgender**                                                                | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
+| **Nonbinary, gender fluid, gender queer, Two-Spirit, other**                   | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
+| **Beginner AT User**                                                           | 50%      | 2        | 1          | **No**           |                                                            |
+| **Experienced AT User**                                                        | 50%      | 2        | 2          | **Yes**          |                                                            |
+| **Desktop Screen Reader (SR)**                                                 | 20%      | 1        | 3          | **Yes**          |                                                            |
+| **Mobile Screen Reader (SR)**                                                  | 20%      | 1        | 0          | **No**           |                                                            |
+| **Magnification/Zoom**                                                         | 20%      | 1        | 0          | **No**           |                                                            |
+| **Speech Input Tech (Siri, Dragon)**                                           | 20%      | 1        | 0          | **No**           |                                                            |
+| **Hearing Aids**                                                               | 20%      | 1        | 0          | **No**           |                                                            |
+| **Sighted Keyboard**                                                           | 10%      | 1        | 0          | **No**           |                                                            |
+| **Captions**                                                                   | n/a      | 1        | 0          | **No**           |                                                            |
+| **Switch Device**                                                              | n/a      | 1        | 0          | **No**           |                                                            |
+| **Braille Reader**                                                             | n/a      | 1        | 0          | **No**           |                                                            |
+
+---
+
 #### Recruitment criteria
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+
 
 #### Demographics 
 
