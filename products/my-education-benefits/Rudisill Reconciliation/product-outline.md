@@ -1,14 +1,14 @@
 
-# Rudisill Recondiliation - Dual Benefit Eligibility Tool Product Outline
+# Rudisill Reconciliation - Dual Benefit Eligibility Tool Product Outline
 ---
 
 ## Overview
 
-Streamlining the Veteran experience by creating a simple and accessible tool for Veterans, impacted by legistlation changes, to maximize their education benefits.
+Streamlining the Veteran experience by creating a simple and accessible tool for Veterans, impacted by legislation changes, to maximize their education benefits.
 
 ## Problem Statement
 
-Education benefits can be hard to navigate for our Veteran population due to the variation of their circumstances; this can become more complicated when legislation changes and provides different criteria for eligibility. With the impact of Rudisill, Veterans need clear guidance and streamlined, accessible tools to help them maximize the education benefits they are entitled to. 
+Education benefits can be hard to navigate for our Veteran population due to the variation of their circumstances; this can become more complicated when legislation changes impact eligibility criteria. To support Veterans with the impact of Rudisill, clear guidance and a streamlined, accessible tool should be developed to help Veterans maximize the education benefits they are entitled to. 
  
 ## Desired User Outcomes
 
