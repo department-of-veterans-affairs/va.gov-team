@@ -27,8 +27,8 @@ This document provides a snapshot in time of how certain test user information c
 
 ### Contact:
 
-* Catherine Woodhouse (contractor)  
-* Process link:
+*  Contact/Process [Link](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB/SitePages/Development-and-Testing-Support.aspx)
+*  Select the Request Test Data button and fill out the form at the link above.
 
 ### User Values
 
