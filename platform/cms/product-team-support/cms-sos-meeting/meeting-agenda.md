@@ -4,9 +4,10 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 ### Running Agenda
 
 09/18/2025
-* Welcome and quick intros
+* Welcome and stage setting
   * Discuss meeting purpose
   * Ensure invitee list is correct
 * Discussion Topics 
   * Scheduling a Meet & Greet for the teams
-  * 
+  * Agenda doc location
+    
