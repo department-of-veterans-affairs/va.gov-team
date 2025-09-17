@@ -48,7 +48,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 |Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Dependents page views| 84,285 | N/A | N/A|
+|Dependents page views| 10,536 | N/A | N/A|
 |Dependents page Avg time per session| 1m 33s | 1m 23s | TBD|
 |Dependents page Bounce rate| 1.37% | 1.23% | TBD|
 
@@ -61,7 +61,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 39 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 88 users per day)
 
 #### Results
 
@@ -78,7 +78,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 78 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 176 users per day)
 
 #### Results
 
@@ -98,7 +98,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 157 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 352 users per day)
 
 #### Results
 
