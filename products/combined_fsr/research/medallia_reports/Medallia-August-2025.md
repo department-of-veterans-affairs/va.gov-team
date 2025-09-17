@@ -2,6 +2,8 @@
 
 ## *Data time span: August 1 \- 31, 2025*
 
+Surveys received = 579
+
 # **Standard Medallia Survey Data on [VA.gov](http://VA.gov)** 
 
 Veterans currently submit regular feedback about their [VA.gov](http://VA.gov) experience while visiting the site through [two different surveys.](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingContactCenterData-WhattoDoWiththeData) 
