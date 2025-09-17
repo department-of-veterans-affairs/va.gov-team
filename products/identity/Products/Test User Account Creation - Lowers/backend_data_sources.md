@@ -459,15 +459,19 @@ This document provides a snapshot in time of how certain test user information c
 "fax\_number": null  
   },
 
-## Unknown source
+## MHV Data
+### Contact/Process:
+- An issue can be creating following the example ticket [here](https://github.com/department-of-veterans-affairs/mhv-platform/issues/102). Add the description by creating a new issue and add some details.
 
+### User Values
 * "va\_patient": true,  
 * "active\_mhv\_ids": \[  
   * "23002356",  
   * "28123035"  
+
+## Unknown source
+
 * "is\_cerner\_patient": false,  
 * "cerner\_id": null,  
 * "cerner\_facility\_ids": \[  
 *   "687"
-
-## 
