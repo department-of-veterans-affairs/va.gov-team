@@ -8,6 +8,7 @@ Scope: This evaluation focuses exclusively on the VTE product. The design system
 Note: We carried out this evaluation before our July/August research study. Questions from the evaluation and research insights were incorporated into the study, and many of the issues have been addressed through design changes or added to the product road map.
 
 The research plan, insights, and data for the July/August research study can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/research/2025-07-generative-and-user-testing-study) in the study folder in GitHub.  
+
 ---
 
 ## **Evaluation Framework**
