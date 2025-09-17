@@ -31,15 +31,12 @@
     - Kristen McConnell (UX)
     - Stephen Barrs (Eng)
 - Product Manager
-    - [Lori Pusey](https://dsva.slack.com/team/U035BMZ07PD)
-- Delivery Manager
-    - [Alex Parker](https://dsva.slack.com/team/U066D61DAEQ)
+    - [Mike Marinos](https://dsva.slack.com/team/U06MARP8NM7)
 - Full Stack Engineers
   - [Lee DeLarm](https://dsva.slack.com/archives/D05B37XJF8C)
   - [Bill Tran](https://dsva.slack.com/team/U08BFMHL9MF)
   - [Carlos Felix](https://dsva.slack.com/archives/D08E0TM332B)
   - [Phil DeFraties](https://dsva.slack.com/team/U089MDZ98BZ)
-  - [Devin McCurdy (temporary)](https://dsva.slack.com/team/U06HX72KD7Y)
 - Front End Engineers
   - [John Woolschlager](https://dsva.slack.com/team/U03LZEZCYAV)  
 - Back End Engineers                 
