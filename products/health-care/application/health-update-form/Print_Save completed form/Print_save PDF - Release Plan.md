@@ -35,7 +35,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: **9/TBD/2025 - 9/TBD/2025**
+- Desired date range: **9/22/2025 - 9/25/2025**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - Successful link access and actions (printing/saving)
@@ -53,8 +53,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 39 users per day)
+- Length of time: 1 Day - 9/22/2025
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 9 users per day)
 
 #### Results
 
@@ -70,8 +70,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 78 users per day)
+- Length of time: 1 day - 9/23/2025
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 19 users per day)
 
 #### Results
 
@@ -90,8 +90,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 157 users per day)
+- Length of time: 9/24/2026
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 37 users per day)
 
 #### Results
 
