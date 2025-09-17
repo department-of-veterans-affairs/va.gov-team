@@ -65,7 +65,7 @@ The following assumptions have been made when creating our solution:
 
 - Veterans have some familiarity with terms related to education eligibility and entitlment (e.g. months of entitlment, qualifying days of service, benefit level, kicker).
 - Some Veterans who use the tool may not have an in-depth understanding of their benefits 
-   - Veterans can understand from using the tool, the relationship between their qualifying days of service and their benefit outcome.
+   - Veterans, will understand by using the tool, the relationship between their qualifying days of service and their benefit outcome.
 - Some Veterans who use the tool may have an in-depth understanding of their benefits (considered super users).
 
 ## Solution Approach
