@@ -19,7 +19,7 @@ Follow these step-by-step instructions to create an ID.me account for developmen
 
    <img width="1080" height="651" alt="verify_identity" src="https://github.com/user-attachments/assets/42c314b9-9f3b-43b8-9661-b161b08b5845" />
     
-5. ID.me will then ask to verify your identity via identity documents - no analysis will be performed and you do not need to submit actual identification. Select option #2 **Upload photos of your license of state ID**. 
+5. ID.me will then ask to verify your identity via identity documents - no analysis will be performed and you do not need to submit actual identification. Select option #2 **Upload photos (do not use a real ID)**. 
 
     <img width="1077" height="894" alt="verify_identity_documents" src="https://github.com/user-attachments/assets/0bfd826f-ff44-4173-8a94-177d86810957" />
 6. ID.me will request to send a link to your phone to upload the documents from; accept this request then click on the **Upload form (testing only)** link at the bottom of the followup page to be taken to the ID.me lowers identify verification page.
