@@ -25,7 +25,7 @@ For mental health care, users are shown the sub-type care page before choosing t
 <!--Goals for this feature, and how we track them through analytics-->
 
 - We have a UAT planned to understand Veterans mental model around mental health care and how they classify sub-types of mental health care
-- Goal 2
+- We will also search user feedback from Medallia to track how Veterans are liking this update
 
 **Events tracked**
 <!-- Descriptions of events tracked on this page to meet those goals -->
