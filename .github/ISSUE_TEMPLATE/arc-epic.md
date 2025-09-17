@@ -1,6 +1,6 @@
 ---
-name: ARM Epic
-about: Epics for the ARM team
+name: ARC Epic
+about: Epics for the ARC team
 title: 'ARM Research/Design/Development:'
 labels: accredited-representation-management-team
 assignees: ''
@@ -25,5 +25,7 @@ _Include links to product documentation, Figma design files, Mural boards, etc._
 ---
 
 #### How to configure this issue
-1. Label with practice area (`ux`, `backend`, `frontend`)
+1. Label with practice area (`engineering`, `backend`, `frontend`, `ux`)
 2. Associate with the proper product
+3. Associate with the correct AR team
+4. [Optional] Attach a parent ticket (Is this part of a super epic?)
