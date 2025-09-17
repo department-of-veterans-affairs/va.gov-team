@@ -1,9 +1,10 @@
 ---
 name: ARC Epic
 about: Epics for the ARC team
-title: 'ARM Research/Design/Development:'
-labels: accredited-representation-management-team
+title: 'ARC Research/Design/Development:'
+labels: ar-crew
 assignees: ''
+type: Epic
 
 ---
 
