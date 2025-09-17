@@ -46,7 +46,7 @@ This is a real screenshot from a user in which this Example Scenario was created
    - See: [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
    - [Slack thread (awaiting Lighthouse Response)](https://dsva.slack.com/archives/C063D0M76HX/p1758124770901769)
 
-4. **Should We Implement UX Improvements While Awaiting the API Fix?**
+4. **Should We Implement UX Improvements While Awaiting the Policy and Lighthouse question answers?**
    - Would removing the local date from the upload notification reduce confusion?
    - Would showing both UTC and local times in upload notification reduce confusion?
    - Should we add disclaimers to the Documents Filed and Recent Activity sections?
