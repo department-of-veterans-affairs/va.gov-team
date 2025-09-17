@@ -18,8 +18,8 @@ _What background/context has led to this work?  What problem are we trying to so
 
 ---
 #### How to configure this issue
-1. Label with practice area (`engineering`, `backend`, `frontend`, `ux`)
+1. Label with practice area (`engineering`, `backend`, `frontend`, `ux`, 'research', 'design', 'content')
 2. Associate with the proper product
 3. Associate with the correct AR team
 4. [Optional] Attach a parent ticket (what body of work is this a part of?)
-5. [Optioanl] Add an estimate
+5. [Optional] Add an estimate
