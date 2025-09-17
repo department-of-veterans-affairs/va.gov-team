@@ -273,7 +273,7 @@ Please locate the form and bring it up to complete.
 - What was unclear for you?
 
  
-### Task 6: View submitted form
+## Task 6: View submitted form
 Now that you have completed the form, please go back to the app.
 
 
