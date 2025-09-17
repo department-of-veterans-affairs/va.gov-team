@@ -48,19 +48,19 @@ Before enabling your feature toggle in production, you'll need to:
 
 |Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Veteran income page views| 52,260 | N/A | N/A|
+|Veteran income page views| 6,533 | N/A | N/A|
 |Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
 |Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
 
 |Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Spouse income page views| 27,451 | N/A | N/A|
+|Spouse income page views| 3,431 | N/A | N/A|
 |Spouse income page Avg time per session| 47s | TBD | TBD|
 |Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
 
 |Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
-|Deductibles views| 36,832 | N/A | N/A|
+|Deductibles views| 4,604 | N/A | N/A|
 |Deductibles page Avg time per session| 1m 01s | 57s | TBD|
 |Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
 
@@ -72,7 +72,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 39 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 54 users per day)
 
 #### Results
 
@@ -89,7 +89,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 78 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 108 users per day)
 
 #### Results
 
@@ -109,7 +109,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 157 users per day)
+- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 218 users per day)
 
 #### Results
 
