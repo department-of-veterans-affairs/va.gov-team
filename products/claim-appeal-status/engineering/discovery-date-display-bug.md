@@ -33,6 +33,7 @@ This is a real screenshot from a user in which this Example Scenario was created
    - What timezone defines the legal deadline for evidence submission (UTC, ET, or local)?
    - How should dates be displayed to ensure veterans understand deadline compliance?
    - See: [What are the VA.gov Deadline Rules?](#what-are-the-vagov-deadline-rules)
+   - [Slack thread (awaiting Policy response)](https://dsva.slack.com/archives/C04KHCT3ZMY/p1757971411069799?thread_ts=1757086065.011539&cid=C04KHCT3ZMY)
 
 2. **What is the Platform Standard for Timezone Display?**
    - Given the different timezone patterns currently in use across VA.gov (as documented above), which pattern is most appropriate for claims data: user's local time, Eastern Time, or UTC?
@@ -43,6 +44,7 @@ This is a real screenshot from a user in which this Example Scenario was created
    - Are there any technical constraints preventing this?
    - What is the timeline for implementing this change?
    - See: [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
+   - [Slack thread (awaiting Lighthouse Response)](https://dsva.slack.com/archives/C063D0M76HX/p1758124770901769)
 
 4. **Should We Implement UX Improvements While Awaiting the API Fix?**
    - Would removing the local date from the upload notification reduce confusion?
