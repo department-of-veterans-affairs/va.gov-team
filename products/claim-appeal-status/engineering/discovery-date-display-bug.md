@@ -345,7 +345,6 @@ Add a `va-additional-info` component near the "Documents Filed" and "Recent Acti
 ```jsx
 <va-additional-info
   trigger="About document dates"
-  disable-analytics
 >
   <p>
     Dates shown are based on UTC time. If you uploaded documents in the evening (after 7 PM ET), they will show the next day's date.
