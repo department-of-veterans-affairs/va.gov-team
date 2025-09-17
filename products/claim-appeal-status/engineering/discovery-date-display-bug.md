@@ -1,8 +1,8 @@
 # Discovery: Document Upload Date Display Bug
 
 ## Issues:
-- [[CST] [BUG] Evening file submissions display next day as submission date #117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
 - [[CST] [Bug] Document Upload Receipts appearing in the future (Date/time discrepancy) #119384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119384)
+- [[CST] [BUG] Evening file submissions display next day as submission date #117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
@@ -245,48 +245,77 @@ The solution requires updating the Lighthouse Benefits Claims API to return comp
 - Change to: `"uploadDate": "2025-08-16T02:18:00.000Z"`
 
 ### Benefits of This Approach
-- Frontend can display correct date in user's timezone
+- Enables consistent timezone display across all systems
 - Preserves time information for future features
 - Follows industry standards (GitHub, AWS, Stripe, etc.)
 - No information loss
 - Enables relative time displays (e.g., "2 hours ago")
+
+### Recommended Display Approach (Industry Best Practice)
+Based on federal precedent (IRS e-filing) and legal filing systems, **display all dates in Eastern Time (ET)** with clear timezone labels.
+
+#### Problems with Alternative Approaches
+
+**Local Time Display:**
+- **VPN Gaming**: Veteran in Philippines (UTC+8) misses deadline. Uses VPN to appear in Hawaii (UTC-10), gaining 18 hours to submit "on time"
+- **Travel Confusion**: Veteran submits at 11 PM from California. Later views from Virginia - same submission shows different dates (11 PM PST = 2 AM EST next day)
+- **DST Ambiguity**: During "fall back," 1:00-1:59 AM occurs twice. A 1:30 AM submission creates legal ambiguity - which occurrence counts?
+
+**UTC Display:**
+- **Non-intuitive**: California Veteran submits at 10 PM PST (6 AM UTC next day). Sees "Received: [tomorrow's date]" despite it being "today" locally
+- **Complex Deadlines**: Midnight UTC = 8 PM EDT / 7 PM EST / 4 PM PST. Veterans shouldn't need conversion charts for deadlines
+
+#### Why ET Display Works
+- Single source of truth: "All deadlines are midnight ET"
+- Matches VA headquarters business operations
+- Follows federal precedent (IRS e-filing uses ET)
+- Use "ET" notation (automatically handles EDT/EST transitions)
+- Aligns with VA Design System guidance for office hours
 
 ### Potential Cross-Application Impact
 
 Currently, applications receiving date-only strings from Lighthouse. If Lighthouse returns ISO 8601 timestamps:
 
 - Applications would receive full timestamp information (e.g., "2025-08-16T02:18:00.000Z")
-- Dates could be displayed in the user's local timezone
-- **personalization/dashboard** (displays claim dates on My VA page) would be affected
-- Testing would be required to ensure applications handle the date display change correctly
+- All claim dates should be displayed in Eastern Time with "ET" label for consistency
+- **personalization/dashboard** (displays claim dates on My VA page) would need updates
+- Testing would be required to ensure all applications display dates consistently in ET
 
-### Frontend Implementation with Timestamps
+### Frontend Implementation for ET Display
 
-Once Lighthouse returns proper timestamps, the frontend can correctly display dates using existing platform utilities. The frontend cannot currently fix this issue because it only receives date strings with no time information.
+Once Lighthouse returns proper timestamps, the frontend should display all claim-related dates in Eastern Time for consistency.
 
 **Frontend Implementation** (`src/applications/claims-status/utils/helpers.js`):
 ```javascript
-import { format, parseISO } from 'date-fns';
-import { formatDateLong } from 'platform/utilities/date';
+import { parseISO } from 'date-fns';
+import { formatInTimeZone } from 'date-fns-tz';
 
-// Enhanced formatter that shows time if available in ISO 8601 format
-export const formatDateWithTime = dateString => {
+// Formatter that displays dates in Eastern Time with clear labeling
+export const formatDateWithTimeET = dateString => {
   if (!dateString) return 'Invalid date';
 
-  const dateOnly = formatDateLong(dateString);
-  const dateTime = parseISO(dateString);
-  const timeStr = format(dateTime, 'h:mm a');
-  return `${dateOnly} at ${timeStr}`;
+  try {
+    const date = parseISO(dateString);
+    // Format in Eastern Time (automatically handles EDT/EST)
+    return formatInTimeZone(
+      date,
+      'America/New_York',
+      "MMMM d, yyyy 'at' h:mm a 'ET'"
+    );
+  } catch {
+    // Fallback for date-only strings
+    return formatDateLong(dateString);
+  }
 };
 ```
 
-This centralized function is now used in `DocumentsFiled.jsx` and `RecentActivity.jsx` to display dates with times when available.
+This approach ensures all Veterans see the same date/time regardless of their location, preventing confusion about deadlines.
 
 ## Brainstorm of Possible UX Improvements While Awaiting API Fix
 
 While we work with the Lighthouse API team to implement the fix (returning full timestamps), we can make immediate UX improvements to reduce confusion:
 
-### Upload Alert Enhancement
+### Remove Date from Upload Alert
 
 **Current Alert:**
 ```
@@ -296,41 +325,9 @@ While we work with the Lighthouse API team to implement the fix (returning full 
 
 <img width="666" height="279" alt="Screenshot 2025-09-15 at 8 08 39 AM" src="https://github.com/user-attachments/assets/68fc2c0e-31f3-45f2-9e62-19632595460e" />
 
-**Option A: Remove Date from Alert**
+**Updated Alert:**
 ```
 "We successfully received your file upload"
-```
-
-**Option B: Show UTC and Local Time Comparison**
-Help users understand why dates may appear different by showing both timezones:
-```
-"We received your file upload on August 16, 2025 at 2:18 AM UTC (August 15, 2025 at 10:18 PM EDT)"
-```
-
-**Implementation for Option B** (`src/applications/claims-status/actions/index.js`):
-```javascript
-import { format } from 'date-fns-tz';
-import { formatDateLong } from 'platform/utilities/date';
-
-const now = new Date();
-
-// Format UTC using toLocaleString (simple, no extra dependencies)
-const utcDateTime = now.toLocaleString('en-US', {
-  timeZone: 'UTC',
-  month: 'long',
-  day: 'numeric',
-  year: 'numeric',
-  hour: 'numeric',
-  minute: '2-digit',
-  hour12: true,
-});
-
-// Format local using platform standard + date-fns-tz for timezone
-const localDate = formatDateLong(now);
-const localTime = format(now, 'h:mm a zzz'); // zzz gives timezone abbreviation
-
-const title = `We received your file upload on ${utcDateTime} UTC (${localDate} at ${localTime})`;
-// Result: "We received your file upload on August 16, 2025 at 2:18 AM UTC (August 15, 2025 at 10:18 PM PDT)"
 ```
 
 ### Documents Filed / Recent Activity Disclaimers
