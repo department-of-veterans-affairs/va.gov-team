@@ -384,13 +384,17 @@ Participant expectations varied widely when considering how long it would take t
 2. **Provide more detail to users for file verification messaging:** Improve the content in the alert message on the page to let users know what information is being verified. Update the content in the error messages to let users know specifically what is wrong and what they need to correct, or if they cannot correct it (verification is not working).
    - _Supporting evidence: Key Finding 6_ 
 3. **Make the PDI number easier to enter:** hough participants found the PDI fairly easily once they knew it was on the letter, making it more prominent and indicating it is needed for resubmission would help users locate it when entering a resubmission online. Making the PDI number shorter would help with entry. 
-   - _Supporting evidence: Key Finding 4, Additional Finding 1_
+   - _Supporting evidence: Key Finding 4, Additional Insight 1_
 4. **Require less information for resubmissions:** Users’ mental models expect that providing a reference number like the PDI number will pull in information they’ve already provided. Participants commented specifically on having to enter the sponsor and beneficiary information again after entering the PDI number, with the feeling this information should already be known.
-    - _Supporting evidence: Key Finding 5, Additional Finding 3_
+    - _Supporting evidence: Key Finding 5, Additional Insight 3_
 5. **Clearly communicate all of the required information before the user enters the claim form:** Users should ideally understand these requirements before leaving their healthcare appointment. Content can be added to different touch points after enrollment: welcome packets, additional email communications, and the CHAMPVA application confirmation page.
    - _Supporting evidence: Key Finding 2_
+6. **Update or add content to reflect current timelines:** Added transparency will help users set expectations as to when they can get reimbursed for their claim, whether it is for a new claim or a resubmission. Adding content and confirming that we have the more accurate timeline projections on the Introduction and Confirmation pages as well as in email notifications can better help reinforce communications with users.
+   - _Supporting evidence: Additional Insight 4_
+7. **Soften the tone of the sendback letter:** Adding more context about how users can get this information from their providers or insurance companies will show that CHAMPVA wants to help users resolve their claims.
+   - _Supporting evidence: Additional Insight 1_
 6. **Provide a way for users to check the status of their claims online:** Users expected to be able to check claims status online, and some expected to be able to correct errors within the claim online after submission. Providing a status and an easier way to see what information is missing would help with resubmissions. 
-   - _Supporting evidence: Additional Finding 2_
+   - _Supporting evidence: Additional Insight 2_
 
 
 ### A11y Recommendations
@@ -404,10 +408,17 @@ Participant expectations varied widely when considering how long it would take t
 ### Desired User Outcome 
 
 - Veterans can complete and submit a CHAMPVA claim or claim resubmission within the online form
+  - This research supports this desired user outcome by demonstrating that all participants who filed an initial claim (14 of 14), and all those who saw the sendback letter and resubmission flow (12 of 14) were able to successfully file a resubmission online.
+
   
 - Veterans spend less time and effort filling out the forms
+  - This research supports this desired user outcome by identifying areas in the initial claim and claim resubmission flows that can be removed for optimal flow and reduce time and effort filling out the forms.
+  - Moreover, many users (8 of 14) stated that they preferred having the file verification in the claims form, to ensure accurate and timely submission of their claims. 
   
 - Veteran satisfaction increased with application experience
+  - This research supports this desired outcome by showing that most users (9 of 14) found the updated CHAMPVA claims form "easy" or "very easy" (see Key Finding 1). Furthermore, users provided targeted feedback on the UI, content, file verification and user flows that can be incorporated into the MVP as well as post-MVP improvements of the user experience.
+  - Most users (11 of 12) also expected to be able to file a resubmission for a claim online. Providing this online resubmission experience is in line with users' mental models and should increase satisfaction with the application experience.
+
 
  
 ### Desired Business Outcome
@@ -419,32 +430,31 @@ Participant expectations varied widely when considering how long it would take t
 
 ## Key Performance Indicators
 
-Baseline KPI Values
-number of PDF downloads
-processing time for paper forms
+### KPI 1: Measure number of people filing claims online through CHAMPVA
+  
+  - Key result: Increase number of beneficiaries who file CHAMPVA claims
+  - Key result: Increase number of people who obtain approvals for claims filed
+    
+This research supports measurement of this KPI by....
 
-Objective: Measure number of people filing claims online through CHAMPVA
+### KPI 2: Reduce time from submission to notification
 
-Key result: Increase number of beneficiaries who file CHAMPVA claims
-Key result: Increase number of people who obtain approvals for claims filed
-Objective: Reduce time from submission to notification
-
-Key result: Measure number of application completed in single session
-Key result: Reduce processing time for applications
-
-### KPI 1
+  - Key result: Measure number of application completed in single session
+  - Key result: Reduce processing time for applications
+    
 This research supports measurement of this KPI by....
 
 
-## Next Steps
+## Next Steps 
 
-*Outline immediate actions based on findings, including owners if applicable.*  
-
+1. Identify fast-follows and post-MVP improvements for the claim resubmission process.
+2. Iterate on and improve file verification messaging for post-MVP release.
+3. Implement UX/UI/content changes identified in this study to other IVC forms, where applicable.
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
+- We recommend conducting further research on LLM file verification. The LLM was not working when this study was conducted, so we were unable to gauge participants' reactions to the document-specific errors they might encounter.
+- The resubmissions flow was modified at the request of our stakeholders after this study concluded, removing some of the screens where redundant information was being requested. Given participants' reactions to having to fill out this information during hte study, it would be advisable to retest the shortened flow at some point in the future. 
 
 ## Appendix
 
