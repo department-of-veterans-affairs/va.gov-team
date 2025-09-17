@@ -1,6 +1,6 @@
 # **Veteran Transition Experience \- Heuristic Evaluation Report**
 
-## **Executive Summary**
+## **Summary**
 
 This evaluation creates a baseline of information about the usability of the Veteran Transition Experience (VTE) product. The purpose is to evaluate design decisions by how well they meet user needs and provide data-driven insights for product improvements.  
 Scope: This evaluation focuses exclusively on the VTE product. The design system, VA.gov, and help processes are out of scope.
