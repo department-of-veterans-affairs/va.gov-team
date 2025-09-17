@@ -1,7 +1,7 @@
 # Research Plan: MHV Coordinators and Production Test Accounts (PTAs) for Healthcare Workflow Training
 
 ## Background
-This research aims to understand how My HealtheVet (MHV) coordinators and call center representatives currently utilize Production Test Accounts (PTAs) for training and troubleshooting issues, specifically focusing on two key workflows: 1. Veterans refilling prescriptions and 2. secure messaging between providers and Veterans. The study will provide further insights to inform the potential solution of a demo mode to meet the needs of this use case.  This round of research will NOT include testing end-to-end testing scenarios for feature development.
+This research aims to understand how My HealtheVet (MHV) coordinators and call center representatives currently utilize Production Test Accounts (PTAs) for training and troubleshooting issues, specifically focusing on two key workflows: 1. Veterans refilling prescriptions and 2. secure messaging between providers and Veterans. This round of research will NOT include testing end-to-end testing scenarios for feature development.
 
 ## Primary Research Objective
 The study will provide insights to inform the potential solution of a demo mode to meet the needs of this use case to train Veters and troubleshoot/replicate issues. 
@@ -9,22 +9,17 @@ The study will provide insights to inform the potential solution of a demo mode 
 ## Research Questions
 
 ### Primary Research Questions
-1. **Current Usage Patterns**: How are MHV coordinators currently using Production Test Accounts (PTAs) for prescription refill and secure messaging training and troubleshooting?
+1. **Current Usage Patterns**: How are MHV coordinators and call center representatives currently using Production Test Accounts (PTAs) for prescription refill and secure messaging training and troubleshooting? How do coordinators and call center representatives use PTAs for training on prescription refills and secure messaging?
 
-2. **Training Effectiveness**: What aspects of PTA-supported training are most and least effective for Veterans across both prescription refill and secure messaging workflows?
-
-3. **Troubleshooting Applications**: In what specific troubleshooting scenarios do MHV coordinators and call center reps rely on Production Test Accounts for prescription refill and secure messaging issues?
-
-4. **Understanind Workflows**: How do coordinators and call center representatives use PTAs for training on prescription refills and secure messaging?
-
-5. **Workaround**: Are there any workarounds that coordinators/call center representatives can utilize?
+2.  **Workflow Integration**: How do Production Test Accounts fit into MHV coordinators' existing training workflows for prescription refills and secure messaging?
    
-### Secondary Research Questions
-5. **Workflow Integration**: How do Production Test Accounts fit into MHV coordinators' existing training workflows for prescription refills and secure messaging?
+4.  **Pain Points**: What are the pain points and successes MHV coordinators and call center representatives experience when using Production Test Accounts for these use cases?
+   
+5. **Training**: What aspects of PTA-supported training are most and least effective for Veterans across both prescription refill and secure messaging workflows? 
 
-6. **User Experience**: What are the pain points and successes MHV coordinators experience when using Production Test Accounts for these use cases?
+6. **Troubleshooting Applications**: In what specific troubleshooting scenarios do MHV coordinators and call center reps rely on Production Test Accounts for prescription refill and secure messaging issues?
 
-7. **Time Constraints**: How much time do MHV coordinators spend using Production Test Accounts for prescription refill and secure messaging training versus other methods?
+7. **Workarounds**: Are there any workarounds that coordinators/call center representatives can utilize?
 
 ## Hypotheses
 
