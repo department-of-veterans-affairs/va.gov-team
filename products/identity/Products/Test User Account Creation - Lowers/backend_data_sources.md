@@ -7,10 +7,11 @@ This document provides a snapshot in time of how certain test user information c
 
 ## MPI
 
-### Contact:
-
-* Damien DeAntonio (contractor), Jerry Wharton  
-* Process link:
+### Contact/Process:
+* Details on how to make user data requests for lower environments (DEV, iDEV, SQA/Stage1A, PreProd) can be found [here](https://dvagov.sharepoint.com/sites/oitiam/SitePages/VA-MPI-Special-Data-Requests.aspx).
+* Requestor completes the [request form](https://dvagov.sharepoint.com/sites/oitiam/Pages/VAMPI/IAM%20Data%20Request%20Fillable%20Form.docx) and submits the form to IAMIntegrationProjectManagers@va.gov  
+* The supporting iPM will review the request form and work with the requestor for completeness, if necessary, before the iPM forwards the request to the appropriate IAM POCs for processing.  
+* The appointed IAM resource will provide the requested data.
 
 ### User Values
 
