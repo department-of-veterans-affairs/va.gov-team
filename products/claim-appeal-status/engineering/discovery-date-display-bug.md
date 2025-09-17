@@ -35,23 +35,23 @@ This is a real screenshot from a user in which this Example Scenario was created
    - See: [What are the VA.gov Deadline Rules?](#what-are-the-vagov-deadline-rules)
    - [Slack thread (awaiting Policy response)](https://dsva.slack.com/archives/C04KHCT3ZMY/p1757971411069799?thread_ts=1757086065.011539&cid=C04KHCT3ZMY)
 
-2. **What is the Platform Standard for Timezone Display?**
-   - Given the different timezone patterns currently in use across VA.gov (as documented above), which pattern is most appropriate for claims data: user's local time, Eastern Time, or UTC?
-   - See: [What are the Timezone Handling Patterns Across VA.gov?](#what-are-the-timezone-handling-patterns-across-vagov)
-
-3. **Can Lighthouse Return ISO 8601 Timestamps?**
+2. **Can Lighthouse Return ISO 8601 Timestamps?**
    - Is the Lighthouse team able to modify their API to return full timestamps?
    - Are there any technical constraints preventing this?
    - What is the timeline for implementing this change?
    - See: [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
    - [Slack thread (awaiting Lighthouse Response)](https://dsva.slack.com/archives/C063D0M76HX/p1758124770901769)
 
-4. **Should We Implement UX Improvements While Awaiting the Policy and Lighthouse question answers?**
+3. **Should We Implement UX Improvements While Awaiting the Policy and Lighthouse question answers?**
    - Would removing the local date from the upload notification reduce confusion?
-   - Would showing both UTC and local times in upload notification reduce confusion?
    - Should we add disclaimers to the Documents Filed and Recent Activity sections?
    - How can we best communicate the timezone issue to veterans without causing more confusion?
    - See: [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
+
+4. **What is the Platform Standard for Timezone Display?**
+   - Given the different timezone patterns currently in use across VA.gov (as documented above), which pattern is most appropriate for claims data: user's local time, Eastern Time, or UTC?
+   - See: [What are the Timezone Handling Patterns Across VA.gov?](#what-are-the-timezone-handling-patterns-across-vagov)
+
 
 ## Root Cause Analysis
 
