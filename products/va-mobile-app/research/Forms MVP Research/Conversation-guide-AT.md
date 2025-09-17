@@ -163,7 +163,7 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 2. Open the email and click on "Get started"
 3. It may require you to sign in again to authorize the install.
-4. Go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+4. Go to your Google play store > Go to your profile icon in the top right > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
 5. Receive a note "You are now a developer"
 6. Scroll up and press General, click on "Developer options"
 7. Toggle the "interal app sharing"
