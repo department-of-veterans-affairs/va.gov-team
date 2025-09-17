@@ -12,7 +12,7 @@
 - [What are the Timezone Handling Patterns Across VA.gov?](#what-are-the-timezone-handling-patterns-across-vagov)
 - [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
 - [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
-- [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
+- [Brainstorm of Possible UX Improvements](#brainstorm-of-possible-ux-improvements)
 - [Appendix A: Detailed Technical Flow](#appendix-a-detailed-technical-flow)
 - [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
 
@@ -42,11 +42,11 @@ This is a real screenshot from a user in which this Example Scenario was created
    - See: [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
    - [Slack thread (awaiting Lighthouse Response)](https://dsva.slack.com/archives/C063D0M76HX/p1758124770901769)
 
-3. **Should We Implement UX Improvements While Awaiting the Policy and Lighthouse question answers?**
+3. **Should We Implement UX Improvements While Awaiting Answers from Policy and Lighthouse?**
    - Would removing the local date from the upload notification reduce confusion?
    - Should we add disclaimers to the Documents Filed and Recent Activity sections?
    - How can we best communicate the timezone issue to veterans without causing more confusion?
-   - See: [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
+   - See: [Brainstorm of Possible UX Improvements](#brainstorm-of-possible-ux-improvements)
 
 4. **What is the Platform Standard for Timezone Display?**
    - Given the different timezone patterns currently in use across VA.gov (as documented above), which pattern is most appropriate for claims data: user's local time, Eastern Time, or UTC?
@@ -313,7 +313,7 @@ export const formatDateWithTimeET = dateString => {
 
 This approach ensures all Veterans see the same date/time regardless of their location, preventing confusion about deadlines.
 
-## Brainstorm of Possible UX Improvements While Awaiting API Fix
+## Brainstorm of Possible UX Improvements
 
 While we work with the Lighthouse API team to implement the fix (returning full timestamps), we can make immediate UX improvements to reduce confusion:
 
