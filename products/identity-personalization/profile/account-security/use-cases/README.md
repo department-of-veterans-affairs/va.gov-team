@@ -7,7 +7,7 @@
 - Test Rail QA
 
 ## Current experience
-- If the user is not LOA3, or has a blocked account, the only thing they can access in profile is the Account security section. Within Account security, they can access multifactor authentication and a link to their sign in service.
+If the user is not LOA3, or has a blocked account, the only thing they can access in profile is the Account security section. Within Account security, they can access multifactor authentication and a link to their sign in service.
 
 ## Common use cases
 ### User logs in with LOA1 account
