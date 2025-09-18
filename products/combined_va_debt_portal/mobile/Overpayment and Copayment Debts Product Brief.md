@@ -73,11 +73,15 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * Pay.va.gov is using pay.gov in the background, to ensure that Veterans are submitting a payment for a specific debt.    
 * For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.
 * There are only 6 months of copayment statements that are currently displayed in the debt portal.
-* Copayment Statements are issued on the first of the month.  
+* Copayment Statements are issued on the first of the month.
+* Copays balance will updated monthly because the FM team is reliant on monthly statement data. This will potentially change as the FM team switches to a new API for balance information by the end of November 2025. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
+* Overpayments that have been paid on pay.va.gov are updated as soon as the Debt Management Center processes the Veteran's payment and updates their system. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
+* The FM team is working to allow Veterans to process a payment for Overpayments and Copayments within VA.gov and not leave the website. Overpayments will be changing to pay.gov first, then copayments. Current plan for the FM team as of September 18, 2025. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
 * The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).    
 * [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+ 
 
 ## Solution Approach
 
@@ -113,6 +117,9 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/16/2025| Veterans with 500 errors see the same error messages as 404 errors. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758044068158549). |
 |9/16/2025| Engineers can investigate Spike monitoring outside of Sentry. | During refinement Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label. |
 |9/17/2025| VBA diary codes 681 & 682 will surface the following action links: Pay your balance, request financial help, or dispute this bill. | This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757445252670279) thread, but Denise will continue to review this as future iterations it would be beneficial to surface the link for the FSR form. |
+|9/17/2025| The mobile MVP of overpay/copay will include One Thing Per Page. | The FM Team is planning to launch One Thing Per Page by 10/8 (pending staging review) and plans for the feature flag to be fully enabled by the end of Oct. 2025. This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread. |
+|9/17/2025| TBD if mobile MVP will include the Payment history for Copays. | The Financial Management team is pushing hard on this effort but does not have a date for that just yet. [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread for reference. |
+
 
 ## Reference Materials
 
