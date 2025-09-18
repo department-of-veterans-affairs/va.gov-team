@@ -1,6 +1,6 @@
 # Profile use case documentation
 
-**Last updated: June 2025**
+**Last updated: September 2025**
 
 These links go to the most recent use case documentation for each product in VA.gov Profile:
 
