@@ -79,7 +79,10 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * The FM team is working to allow Veterans to process a payment for Overpayments and Copayments within VA.gov and not leave the website. Overpayments will be changing to pay.gov first, then copayments. Current plan for the FM team as of September 18, 2025. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
-* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).    
+* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).
+* As of 9/18/2025, the FM team will be making these additional changes to copays:
+  * Payment History - Vista MVP: update balance information to move away from monthly statement data. This is only for Vista stations (Cerner/Oracle stations will follow later).
+  * Pay.gov Integration for copays - Integrate pay.gov into the experience so Veterans can process a payment for a copay directly from the web experience.   
 * [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
  
 
