@@ -391,6 +391,14 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   Source: [David Reis 7/21/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNH858fe365bc6e4ebebb90736d7)
 </details>
 
+<details>
+<summary>Does an address change in 0538 push to VA Profile?</summary>
+
+  - No. The address is only used to process the 0538 (to locate the veteran record) and any changes do NOT propogate to VA Profile. As a FYI, any changes that do propogate to VA Profile should happen within seconds.
+
+  Source: Mindy Hope (via email) 8/4/23
+</details>
+
 ## APIs
 <details>
 <summary>What is the API that pulls in list of active and inactive dependents on the "View My Dependents" Page?</summary>
