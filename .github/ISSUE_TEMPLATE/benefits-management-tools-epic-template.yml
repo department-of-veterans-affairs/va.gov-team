@@ -6,14 +6,14 @@ assignees: []
 
 body:
   - type: dropdown
-    id: product
+    id: feature
     attributes:
-      label: Product
-      description: Select the product this Epic belongs to.
+      label: Feature
+      description: Select the feature this Epic belongs to.
       options:
-        - benefits-management-tools
-        - claims-and-appeals
-        - va-platform
+        - document-status
+        - evidence-requests
+        - decision-letter-notifications
         - other
     validations:
       required: true
