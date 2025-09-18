@@ -575,20 +575,29 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability
+* Biracial
+* Native Hawaiian or other Pacific Islander
+* First Nations (Canada)
+* Mobile Screen Reader (SR)
+* Magnification/Zoom
+* Speech Input Tech (Siri, Dragon)
+* Hearing Aids
+* Sighted Keyboard
+* Captions
+* Switch Device
+* Braille Reader
 
-_[insert screenshot of completed recruitment checker]_
 
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 <img width="850" height="594" alt="CHAMPVA Claims Resubmission Study recruitment checker" src="https://github.com/user-attachments/assets/5542d6ea-9285-4bd6-a092-221880ff4939" />
 
-<details>
-  <summary>A more accessible version of the table in the above image</summary>
-   
-_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+
+
+#### A more accessible version of the table in the above image
+
+### Recruitment of underserved groups in [Study name]
+
 # Participant Demographics Table
 
 | Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 | p13 | p14 | p15 | p16 | p17 | p18 |
