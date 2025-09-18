@@ -175,11 +175,25 @@ body:
     validations:
       required: false
 
-  # ---------- Optional metadata ----------
+  # ---------- Sizing and Priority ----------
+  - type: dropdown
+    id: sizing
+    attributes:
+      label: Sizing (for capacity planning)
+      description: Select a size estimate for this issue.
+      options:
+        - XS (very small, < 1 day)
+        - S (small, 1–2 days)
+        - M (medium, ~3–5 days)
+        - L (large, ~1–2 weeks)
+        - XL (very large, 2+ weeks / needs breaking down)
+    validations:
+      required: false
+
   - type: dropdown
     id: priority
     attributes:
-      label: Priority (optional)
+      label: Priority
       options:
         - P0 – Critical
         - P1 – High
