@@ -589,42 +589,50 @@ _[insert screenshot of completed recruitment checker]_
   <summary>A more accessible version of the table in the above image</summary>
    
 _[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
-| Category                                                                       | Target % | Target # | # in Study | Target Achieved? | Notes                                                      |
-|--------------------------------------------------------------------------------|----------|----------|------------|------------------|------------------------------------------------------------|
-| **All participants**                                                           | n/a      | n/a      | 18         | n/a              |                                                            |
-| **Assistive Tech (AT) users**                                                  | n/a      | n/a      | 3          | n/a              |                                                            |
-| **No-show participants**                                                       | n/a      | n/a      | 4          | n/a              |                                                            |
-| **Age 55-64+**                                                                 | 50%      | 9        | 6          | **No**           |                                                            |
-| **Cognitive Disability**                                                       | 50%      | 9        | 1          | **No**           |                                                            |
-| **Mobile user**                                                                | 50%      | 9        | 6          | **No**           |                                                            |
-| **Rural**                                                                      | 25%      | 5        | 4          | **No**           |                                                            |
-| **No degree**                                                                  | 25%      | 5        | 6          | **Yes**          |                                                            |
-| **Other than honorable**                                                       | n/a      | n/a      | 0          | n/a              | Not included                                               |
-| **Immigrant origin**                                                           | n/a      | n/a      | 0          | n/a              | Not included                                               |
-| **Women**                                                                      | 10%      | 2        | 9          | **Yes**          |                                                            |
-| **Expat (living abroad)**                                                      | n/a      | n/a      | 0          | n/a              | Not included                                               |
-| **Black or African American**                                                  | 15%      | 3        | 3          | **Yes**          |                                                            |
-| **Hispanic, Latino, or Spanish origin**                                        | 12%      | 3        | 1          | **No**           |                                                            |
-| **Biracial**                                                                   | 3.9%     | 1        | 0          | **No**           |                                                            |
-| **Asian**                                                                      | 2.7%     | 1        | 1          | **Yes**          |                                                            |
-| **Native Hawaiian or other Pacific Islander**                                  | .3%      | 1        | 0          | **No**           |                                                            |
-| **First Nations (Canada)**                                                     | n/a      | 1        | 0          | **No**           |                                                            |
-| **Native, American Indian or Alaska Native**                                   | 1.6%     | 1        | 1          | **Yes**          |                                                            |
-| **Gay, lesbian, or bisexual**                                                  | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
-| **Transgender**                                                                | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
-| **Nonbinary, gender fluid, gender queer, Two-Spirit, other**                   | n/a      | 1        | n/a        | n/a              | Not recruited                                              |
-| **Beginner AT User**                                                           | 50%      | 2        | 1          | **No**           |                                                            |
-| **Experienced AT User**                                                        | 50%      | 2        | 2          | **Yes**          |                                                            |
-| **Desktop Screen Reader (SR)**                                                 | 20%      | 1        | 3          | **Yes**          |                                                            |
-| **Mobile Screen Reader (SR)**                                                  | 20%      | 1        | 0          | **No**           |                                                            |
-| **Magnification/Zoom**                                                         | 20%      | 1        | 0          | **No**           |                                                            |
-| **Speech Input Tech (Siri, Dragon)**                                           | 20%      | 1        | 0          | **No**           |                                                            |
-| **Hearing Aids**                                                               | 20%      | 1        | 0          | **No**           |                                                            |
-| **Sighted Keyboard**                                                           | 10%      | 1        | 0          | **No**           |                                                            |
-| **Captions**                                                                   | n/a      | 1        | 0          | **No**           |                                                            |
-| **Switch Device**                                                              | n/a      | 1        | 0          | **No**           |                                                            |
-| **Braille Reader**                                                             | n/a      | 1        | 0          | **No**           |                                                            |
+# Participant Demographics Table
 
+| Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 | p13 | p14 | p15 | p16 | p17 | p18 |
+|---------|----------|----------|------------|-----------------|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| **All participants** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 18 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **Assistive Tech (AT) users** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 3 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **No-show participants** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 4 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **General Demographics** | | | | | | | | | | | | | | | | | | | | | | |
+| Age 55-64+ | 50% | 9 | 6 | no | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Cognitive Disability | 50% | 9 | 1 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | N | 0 |
+| Mobile user | 50% | 9 | 6 | no | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | N | 1 | 0 | 0 | N | 0 |
+| Rural | 25% | 5 | 4 | no | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 | 0 | 0 | N | N |
+| No degree | 25% | 5 | 6 | yes | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Other than honorable | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Immigrant origin | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Women | 10% | 2 | 9 | yes | 1 | 1 | 0 | 1 | 1 | 1 | N | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Expat (living abroad) | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Race/Ethnicity** | | | | | | | | | | | | | | | | | | | | | | |
+| Black or African American | 15% | 3 | 3 | yes | 0 | 1 | 0 | 0 | 0 | 0 | N | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hispanic, Latino, or Spanish origin | 12% | 3 | 1 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| Biracial | 3.9% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | 2.7% | 1 | 1 | yes | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native Hawaiian or other Pacific Islander | 0.3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | 1.6% | 1 | 1 | yes | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 |
+| **LGBTQ+** | | | | | | | | | | | | | | | | | | | | | | |
+| Gay, lesbian, or bisexual | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Transgender | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Assistive Technology (AT)** | | | | | | | | | | | | | | | | | | | | | | |
+| Beginner AT User | 50% | 2 | 1 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Experienced AT User | 50% | 2 | 2 | yes | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Desktop Screen Reader (SR) | 20% | 1 | 3 | yes | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Mobile Screen Reader (SR) | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N |
+| Magnification/Zoom | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Speech Input Tech (Siri, Dragon) | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hearing Aids | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Sighted Keyboard | 10% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Captions | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Switch Device | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Braille Reader | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 ---
 
 
