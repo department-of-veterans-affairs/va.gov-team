@@ -4,6 +4,7 @@ about: General issues for the ARC team
 title: ''
 labels: ar-crew
 assignees: ''
+type: Task
 
 ---
 
