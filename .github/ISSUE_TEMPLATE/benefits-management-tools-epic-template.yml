@@ -184,7 +184,7 @@ body:
     attributes:
       value: |
         ---
-        ✅ **Reminder:** Please apply the correct **Team label** after selecting your team above:  
+        ✅ **Reminder:** Please apply the correct Team **label** after selecting your team above:  
         - `bmt-team-1` → Mavericks  
         - `bmt-team-2` → Bee’s Knees  
         - `bmt-team-3` → Phoenix  
