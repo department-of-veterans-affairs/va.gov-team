@@ -521,9 +521,9 @@ This research does not include the perspectives of the following marginalized Ve
 * Nonbinary, gender fluid, gender queer...
 
 
-![Table of Underserved Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderservedVeterans.png "Table")
+![Table of Underserved Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderServedVeterans.png "Table")
 
-[Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderservedVeterans.png)
+[Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderServedVeterans.png)
 
 <details>
   <summary>A more accessible version of the table in the above image</summary>
