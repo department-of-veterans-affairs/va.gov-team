@@ -1,4 +1,4 @@
-# Account security: LOA 1, user views and completes tasks
+# Account security: LOA1, user views and completes tasks
 **Last updated: September 2025**
 
 If users have not yet verfied their identity, they can still add 2-factor authentication to their account and find a link to their sign in service (eg. ID.me or Login.gov) to change or manage their sign in information. 
