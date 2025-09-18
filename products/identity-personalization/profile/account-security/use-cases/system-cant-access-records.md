@@ -1,14 +1,13 @@
 # Account security: VA.gov can’t access records
-**Last updated:** April 22, 2024
+**Last updated: September 2025**
 
-For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the account security section, we will show an error if we are having issues connecting to the backend / accessing records. If we are having issues connecting to the backend, there’s no action a user can take to correct this.
+For LOA3 ID.me/Login.gov users who sign in, go to the profile, and click into the Account security page, we will show an error if we are having issues connecting to the backend / accessing records. If we are having issues connecting to the backend, there’s no action a user can take to correct this.
 
 ## UX
-* An LOA3 user goes to the account security section section of the profile. If we are having issues connecting to the backend (eg. backend is down), we will show an error that explains we can’t access records at the moment, and to check back later.
-* Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert)  from the VA design system.
+* An LOA3 user goes to the Account security section of the profile. If we are having issues connecting to the backend (eg. backend is down), we will show an error that explains we can’t access records at the moment, and to check back later.
+* Uses the [warning alert component](https://design.va.gov/components/alert#warning-alert) from the VA design system.
 * The sign-in and account setup sections of the page still display.
-* [Desktop mockup](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-346&mode=design&t=EjU8iLKh728VGBef-11) 
-* [Mobile mockup](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-61&mode=design&t=CFSATz6fDxCW8ldl-11)
+* [Design mockup](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?node-id=613-11645&t=vEzOY6Vc44fxJdc2-1) 
 
 ## Codes
 N/A
