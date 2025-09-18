@@ -496,77 +496,78 @@ _If you had specific criteria that you recruited for, use this space to explain 
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **14 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 5 
+* Caregivers: 0 
+* Family members of a Veteran: 5  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 4 
+* Female: 10 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: N/A 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: N/A 
+* Gay, lesbian, or bisexual: N/A 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 8 
+* Tablet: 0 
+* Smart phone: 6 
+* Assistive Technology: 2
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 4
+* 45-54: 3
+* 55-64: 3
+* 65+: 3
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 4
+* Master's degree: 0
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 9
+* Rural: 4
+* Unknown: 1
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 6
+* Black: 3
+* Hispanic: 1
+* Biracial: 0
+* Asian: 1
+* Native: 1
+* Prefer not to answer: 2
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 1
+* AT beginner: 1
+* AT advanced user: 1
+* Desktop screen reader: 3
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 #### Underserved groups we haven’t talked to 
