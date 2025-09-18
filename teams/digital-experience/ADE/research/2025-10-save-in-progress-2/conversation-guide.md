@@ -94,6 +94,8 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 - [If having **difficulty moving windows around** or opening the prototype, you could request control of the participant’s screen and mouse in Zoom: `<Name>’s screen tab > Request remote control`. Then you can move/resize browser (but not zoom windows/buttons) and type into browser bar. The participant may need to minimize the zoom video view, and drag the zoom buttons to the bottom of the screen so out of the way.]
 
+- [If **can't see an iPhone's magnified screen**, ask participant to go into their phone and do `Settings > Accessibility > Show while Mirroring`]
+
 # Warm-up Questions - 5 minutes
 
 Let’s start with a few questions... 
