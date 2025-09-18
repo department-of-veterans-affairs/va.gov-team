@@ -1,7 +1,7 @@
 name: Epic
 description: Use this template to create an Epic (large feature or initiative)
 title: "[Benefits Management Tools] [Feature] [Epic Title]"
-labels: ["Epic"] ["benefits-management-tools"]
+labels: ["Epic", "benefits-management-tools"]
 assignees: []
 
 body:
@@ -24,9 +24,9 @@ body:
       label: Team
       description: Include **both** the product-recognizable and friendly team names where applicable.
       options:
-        - bmt-team-1 (Bee’s Knees)
-        - bmt-team-2 (Mavericks)
-        - bmt-team-3 (Phoenix)
+        - "bmt-team-1 (Bee’s Knees)"
+        - "bmt-team-2 (Mavericks)"
+        - "bmt-team-3 (Phoenix)"
         - other
     validations:
       required: true
@@ -93,7 +93,7 @@ body:
       label: Design & Content Needs
       description: |
         List any design/content requirements (plain-language review, error copy, wireframes, a11y considerations).
-        If none, enter “None.”
+        If none, enter "None."
       placeholder: |
         - Plain language review for titles and error states
         - Wireframes for [page/flow]
