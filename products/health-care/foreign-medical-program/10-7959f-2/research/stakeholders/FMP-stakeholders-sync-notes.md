@@ -25,10 +25,14 @@ Discuss questions uncovered in Jessica's FMP claims design discovery:
 1. A Veteran who has never filed an FMP claim before **and** does not have direct deposit on file and currently receives paper checks from VBA
   -    Happy path is VA.gov and not FSC/CEP (future state)
   -    For the time being:
-    -  Stop the user from filing a claim online...yet
-    - Direct them to set up direct deposit in VA Profile
-    - Users **do not** need to be instructed to wait 30 days to file their claim online. With the current backlog of claims, the claim will not be touched or processed before FSC does another monthly data pull for bank accounts.
-    - This flow **does** need to indicate to users that adding direct deposite would change their preference for all entitlement payments for VBA benefits as well (no more paper checks)         
+
+        -  Stop the user from filing a claim online...yet
+
+        - Direct them to set up direct deposit in VA Profile
+        
+        - Users **do not** need to be instructed to wait 30 days to file their claim online. With the current backlog of claims, the claim will not be touched or processed before FSC does another monthly data pull for bank accounts.
+        
+        - This flow **does** need to indicate to users that adding direct deposite would change their preference for all entitlement payments for VBA benefits as well (no more paper checks)         
 2. A Veteran who has filed a FMP claim before who did it by paper, and they have a separate bank account for their FMP checks as from their VBA direct deposit
   - Andy notes this should be a very small group of users - VA Direct Deposit consolidation started in April 2024, starting with the GI Bill, but expending to other VA benefits, and it should be 1 bank account for all VA payments
   - Premal notes because of how FSC currently works, if you update direct deposit via FSC, it won't update anywhere else. So, how do we verify it's the same bank account in VBA/VA Profile and FSC?
