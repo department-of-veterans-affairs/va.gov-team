@@ -163,6 +163,18 @@ body:
     validations:
       required: false
 
+    - type: input
+    id: epic-link
+    attributes:
+      label: Related Epic
+      description: |
+        If this issue belongs to an Epic, paste the link or Epic number here.  
+        Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/123456  
+        Or simply: #123456
+      placeholder: "Paste Epic link or reference (e.g., #123456)"
+    validations:
+      required: false
+      
   # ---------- Optional metadata ----------
   - type: dropdown
     id: priority
