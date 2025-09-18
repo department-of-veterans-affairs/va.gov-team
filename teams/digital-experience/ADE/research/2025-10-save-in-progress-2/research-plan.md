@@ -61,9 +61,12 @@ Findings and recommendations from this research will **inform design guidance an
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
+1. Telling Veterans about auto saving after the first form page is a time when they are receptive and likely to remember.
 1. With the new design, Veterans will be able to stop and resume filling out a form.
-1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
-1. Authenticated users who start a form from the form intro page will get to the first page of the form quicker without any confusion.
+1. All Veterans (including screen magnifier and screen reader users) will find the accordion controls on the left side easy to use.
+
+
+~~1. Authenticated users who start a form from the form intro page will get to the first page of the form quicker without any confusion.~~
 
 ---
   
