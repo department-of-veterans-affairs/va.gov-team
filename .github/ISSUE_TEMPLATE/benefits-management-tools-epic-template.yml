@@ -22,14 +22,9 @@ body:
   - type: input
     id: feature-other
     attributes:
-      label: Specify Feature (if Other)
-      description: If you selected "other" above, please specify the feature name.
+      label: Specify Feature (if "Other")
+      description: If you selected "other" above, specify the feature name. Leave blank otherwise.
       placeholder: "Enter feature name…"
-    validations:
-      required: true
-    if:
-      field: feature
-      equals: other
 
   - type: dropdown
     id: team
@@ -46,14 +41,9 @@ body:
   - type: input
     id: team-other
     attributes:
-      label: Specify Team (if Other)
-      description: If you selected "other" above, please specify the team name.
+      label: Specify Team (if "Other")
+      description: If you selected "other" above, specify the team name. Leave blank otherwise.
       placeholder: "Enter team name…"
-    validations:
-      required: true
-    if:
-      field: team
-      equals: other
 
   - type: textarea
     id: epic-summary
