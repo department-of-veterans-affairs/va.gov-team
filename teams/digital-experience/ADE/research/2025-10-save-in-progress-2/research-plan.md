@@ -34,6 +34,7 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 1. See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
 1. See if Veterans can stop filling out a form, get signed out, and then resume filling out a form.
 1. See if moving the accordion controls to the left side affects usability.
+
 ~~1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.~~
   
 ### Outcome
