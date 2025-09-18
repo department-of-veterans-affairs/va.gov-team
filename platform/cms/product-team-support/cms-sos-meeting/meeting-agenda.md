@@ -13,4 +13,5 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
   * Vet Center launch
   * Homepage or CLP?
   * Related links component
+  * Promo images
     
