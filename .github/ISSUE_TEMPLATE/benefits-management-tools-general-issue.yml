@@ -1,15 +1,15 @@
 name: Benefits Management Tools General Issue
 description: Create a new issue (Task, Bug, Enhancement, Question, Design, or Accessibility)
 title: "[Issue Type] [Short descriptive title]"
-labels: ["benefits-management-tools", "issue"]   # <-- always applied
+labels: ["benefits-management-tools", "issue"]
 assignees: []
 
 body:
-    - type: dropdown
+  - type: dropdown
     id: feature
     attributes:
       label: Feature
-      description: Select the feature this Epic belongs to.
+      description: Select the feature this issue belongs to.
       options:
         - document-status
         - evidence-requests
@@ -29,7 +29,7 @@ body:
     id: team
     attributes:
       label: Team
-      description: Select the team this Epic belongs to.
+      description: Select the team this issue belongs to.
       options:
         - "bmt-team-1 (Mavericks)"
         - "bmt-team-2 (Bee’s Knees)"
@@ -44,7 +44,7 @@ body:
       label: Specify Team (if "Other")
       description: If you selected "other" above, specify the team name. Leave blank otherwise.
       placeholder: Enter team name…
-      
+
   - type: dropdown
     id: issue-type
     attributes:
@@ -163,7 +163,7 @@ body:
     validations:
       required: false
 
-    - type: input
+  - type: input
     id: epic-link
     attributes:
       label: Related Epic
@@ -174,7 +174,7 @@ body:
       placeholder: "Paste Epic link or reference (e.g., #123456)"
     validations:
       required: false
-      
+
   # ---------- Optional metadata ----------
   - type: dropdown
     id: priority
@@ -192,4 +192,4 @@ body:
     attributes:
       value: |
         ---
-        ✅ **Reminder:** Apply any applicable labels prior to submitting (e.g., team, issue, priority labels).
+        ✅ **Reminder:** Apply any applicable labels prior to submitting (e.g., team, issue-type, priority).
