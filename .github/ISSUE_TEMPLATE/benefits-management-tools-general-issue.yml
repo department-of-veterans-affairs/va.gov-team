@@ -179,7 +179,7 @@ body:
   - type: dropdown
     id: sizing
     attributes:
-      label: Sizing (for capacity planning)
+      label: Sizing Estimate (for capacity planning)
       description: Select a size estimate for this issue.
       options:
         - XS (very small, < 1 day)
