@@ -1,12 +1,13 @@
-# Account security: User views and completes tasks
-**Last updated:** April 22, 2024
+# Account security: LOA3 user views and completes tasks
 
-- Once users have verfied their identity, users can add multifactor authentication to their account and find a link to their sign in service (eg. ID.me) to manage their sign in information.
+**Last updated: September 2025**
+
+Once users have verfied their identity, users can add multifactor authentication to their account and find a link to their sign in service (eg. ID.me or Login.gov) to manage their sign in information.
 
 ## UX
 ### Link to sign in service
 - The user will see a section with information on how to change their sign in information for their sign in service of choice. 
-- The link will bring the user to the website where they manage their account (either Login.gov,DS Logon, MyHealtheVet, or ID.me).
+- The link will bring the user to the website where they manage their account (either Login.gov or ID.me).
 - [Desktop mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-274&mode=design&t=EjU8iLKh728VGBef-11)
 - [Mobile mock-up](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0-17&mode=design&t=EjU8iLKh728VGBef-11)
 
