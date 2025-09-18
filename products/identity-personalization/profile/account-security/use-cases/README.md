@@ -12,7 +12,7 @@
 ## Common use cases
 ### User logs in with LOA1 account
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- [User views and completes tasks - LOA1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/complete-tasks-loa1.md)
+- [LOA1: User views and completes tasks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/complete-tasks-loa1.md)
 
 ### User logs in with LOA3 account
 - [User views and completes tasks: add multifactor authentication, view terms and conditions, or find a link to their sign in service (eg. ID.me) to manage their sign in information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/complete-tasks-loa3.md) 
