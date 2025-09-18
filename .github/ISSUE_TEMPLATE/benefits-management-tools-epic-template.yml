@@ -31,8 +31,8 @@ body:
     attributes:
       label: Team
       options:
-        - "bmt-team-1 (Bee’s Knees)"
-        - "bmt-team-2 (Mavericks)"
+        - "bmt-team-1 (Mavericks)"
+        - "bmt-team-2 (Bee’s Knees)"
         - "bmt-team-3 (Phoenix)"
         - other
     validations:
