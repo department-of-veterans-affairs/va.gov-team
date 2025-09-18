@@ -303,7 +303,7 @@ We asked users if they could redesign the resubmission flow, what the experience
 
 Because the LLM file verification was not working at the time of testing, users did not see a customized error message prompting them to provide the correct document for their claim. 
 
-[Add screenshots of the error message we tested with vs. the error message we wanted]
+[Link to the error messaging we intended to test in this study](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=5949-100095&p=f&t=jtUxpK9fyUp92FfB-0)
 
 - 7 of 14 participants said they would attempt to reupload the document if they received an error because they wouldn’t want the claim rejected
 - 7 of 14 participants didn’t feel like the error message they received was specific enough to help them understand what to fix
@@ -438,8 +438,6 @@ Participant expectations varied widely when considering how long it would take t
 - Reduce amount of time spent processing paper forms
   - This study supports this outcome by creating a more efficient initial claim process. Participants who had submitted paper claims stated that they preferred the online claim form. Also, users stated they would prefer a way to resubmit claims online.
 
-- Replace outdated and legacy DAPER system with PEGA for document upload and management
-  - 
 
 ## Key Performance Indicators
 
