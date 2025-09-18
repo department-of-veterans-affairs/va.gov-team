@@ -34,6 +34,7 @@ body:
         - "bmt-team-1 (Mavericks)"
         - "bmt-team-2 (Bee’s Knees)"
         - "bmt-team-3 (Phoenix)"
+        - "Decision Reviews"
         - other
     validations:
       required: true
