@@ -112,6 +112,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/15/2025| Mobile designs do not need to include a note on eductional debts, since receivable ID went live on 9/15. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757953910434839?thread_ts=1757707662.279659&cid=CPE4AJ6Q0). |
 |9/16/2025| Veterans with 500 errors see the same error messages as 404 errors. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758044068158549). |
 |9/16/2025| Engineers can investigate Spike monitoring outside of Sentry. | During refinement Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label. |
+|9/17/2025| VBA diary codes 681 & 682 will surface the following action links: Pay your balance, request financial help, or dispute this bill. | This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757445252670279) thread, but Denise will continue to review this as future iterations it would be beneficial to surface the link for the FSR form. |
 
 ## Reference Materials
 
