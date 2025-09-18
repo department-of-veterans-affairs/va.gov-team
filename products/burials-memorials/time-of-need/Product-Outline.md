@@ -97,12 +97,13 @@ Baseline KPI values:
 Initiative briefs and links: TBD
 
 **Launch Strategy**  
-Launch details: TBD  
+Launch details: 10,25, 50, 100% users.  Exact date unknown but the quarter we are aiming for is FY27Q1  
 Public awareness strategy and outreach plans needed  
 Release Plan Link: Available Release Plan Template
 
 **Launch Dates**  
 Target, Actual, and Impact Review Dates: TBD
+
 
 ## Solution Narrative
 
