@@ -52,7 +52,7 @@ body:
   - type: textarea
     id: value-statement
     attributes:
-      label: Value Statement (if applicable)
+      label: Value Statement 
       description: Prefer a Veteran/claimant-centered story.
       placeholder: |
         As a Veteran/claimant
