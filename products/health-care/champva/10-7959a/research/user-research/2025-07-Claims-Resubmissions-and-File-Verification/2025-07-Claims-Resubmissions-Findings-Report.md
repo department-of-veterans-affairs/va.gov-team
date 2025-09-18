@@ -591,12 +591,13 @@ _List all groups in red from the spreadsheet_
 
 <img width="850" height="594" alt="CHAMPVA Claims Resubmission Study recruitment checker" src="https://github.com/user-attachments/assets/5542d6ea-9285-4bd6-a092-221880ff4939" />
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image][Claims-Resubmissions-and-File-Verification-VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/Claims-Resubmissions-and-File-Verification-VA-recruitment-checker.md))
 
 
 #### A more accessible version of the table in the above image
 
-### Recruitment of underserved groups in [Study name]
+### Recruitment of underserved groups in CHAMPVA Claims Resubmissions and File Verification
+
 
 # Participant Demographics Table
 
