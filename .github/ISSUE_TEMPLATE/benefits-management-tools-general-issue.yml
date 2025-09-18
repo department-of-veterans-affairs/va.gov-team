@@ -168,8 +168,8 @@ body:
     attributes:
       label: Related Epic
       description: |
-        If this issue belongs to an Epic, paste the link or Epic number here.  
-        Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/123456  
+        If this issue belongs to an Epic, paste the link or Epic number here.
+        Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/123456
         Or simply: #123456
       placeholder: "Paste Epic link or reference (e.g., #123456)"
     validations:
@@ -206,26 +206,24 @@ body:
     attributes:
       value: |
         ---
-        ✅ **Reminder:**  
+        ✅ **Reminder:**
 
-        **Team Labels**  
-        Please apply the correct **Team label** after selecting your team above:  
-        - `bmt-team-1` → Mavericks  
-        - `bmt-team-2` → Bee’s Knees  
-        - `bmt-team-3` → Phoenix  
-        - Or another team label if applicable  
+        **Team Labels**
+        Please apply the correct **Team label** after selecting your team above:
+        - `bmt-team-1` → Mavericks
+        - `bmt-team-2` → Bee’s Knees
+        - `bmt-team-3` → Phoenix
+        - Or another team label if applicable
 
-        **Issue Type**  
-        Make sure you select the right **Issue Type** in the dropdown above:  
-        - **Task** → Work to be done, implementation steps  
-        - **Bug** → Defect, error, or unexpected behavior  
-        - **Enhancement** → Improvement or optimization to existing functionality  
-        - **Question** → Clarification or decision needed  
-        - **Design** → UX/UI design, mockups, prototypes, content changes  
-        - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)  
+        **Issue Type**
+        Make sure you select the right **Issue Type** in the dropdown above:
+        - **Task** → Work to be done, implementation steps
+        - **Bug** → Defect, error, or unexpected behavior
+        - **Enhancement** → Improvement or optimization to existing functionality
+        - **Question** → Clarification or decision needed
+        - **Design** → UX/UI design, mockups, prototypes, content changes
+        - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)
 
-        **Issue Labels**  
-        Apply any **additional labels** that may be relevant (e.g., issue type, priority, etc.).  
-        This helps keep issues organized and ensures visibility across the Benefits Management Tools portfolio.  
-
-        🗂️ This ensures issues are filtered, tracked, and reported correctly across the Benefits Management Tools portfolio.
+        **Issue Labels**
+        Apply any additional labels that may be relevant (e.g., issue type, priority).
+        This helps keep issues organized and ensures visibility across the Benefits Management Tools portfolio.
