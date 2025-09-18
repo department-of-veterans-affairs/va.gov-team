@@ -1,0 +1,143 @@
+name: Benefits Management Tools General Issue
+description: Create a new issue (Task, Bug, Enhancement, Question, Design, or Accessibility)
+title: "[Issue Type] [Short descriptive title]"
+labels: ["benefits-management-tools", "issue"]   # <-- always applied
+assignees: []
+
+body:
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Select the type of issue you are creating.
+      options:
+        - Task
+        - Bug
+        - Enhancement
+        - Question
+        - Design
+        - Accessibility
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: Provide a short, descriptive summary of the issue.
+      placeholder: "Short summary of the issue…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description / Context
+      description: |
+        Provide details about the issue. Use the guidance below based on the Issue Type you selected.
+      placeholder: |
+        For **Bug**:
+        1) Steps to reproduce…
+        2) Expected behavior…
+        3) Actual behavior…
+        4) Environment (URL, browser, device)…
+
+        For **Task / Enhancement / Other**:
+        - Background/context…
+        - What needs to be achieved (outcomes, not implementation)…
+        - Risks/dependencies…
+
+        For **Question**:
+        - What decision or clarification is needed?
+        - Options considered (if any)…
+    validations:
+      required: true
+
+  # ---------- Design work ----------
+  - type: textarea
+    id: design-details
+    attributes:
+      label: Design Details (if applicable)
+      description: Complete this section for Design issues (or if design updates are required).
+      placeholder: |
+        Problem to solve:
+        Users affected / scenarios:
+        Success criteria:
+        Deliverables (wireframes, mockups, prototypes, content updates):
+        Figma link(s):
+        Reviewers / stakeholders:
+        Accessibility considerations:
+    validations:
+      required: false
+
+  # ---------- Accessibility work ----------
+  - type: checkboxes
+    id: a11y-scope
+    attributes:
+      label: Accessibility Scope (if applicable)
+      description: Select the types of a11y work in scope.
+      options:
+        - label: Keyboard navigation & focus order
+        - label: Screen reader support (NVDA/JAWS/VoiceOver/TalkBack)
+        - label: Color and contrast
+        - label: Semantics/landmarks/roles
+        - label: Forms, labels, and error messaging
+        - label: Motion/animation & prefers-reduced-motion
+        - label: Reflow/zoom/responsive behavior
+        - label: Other (describe below)
+    validations:
+      required: false
+
+  - type: textarea
+    id: a11y-details
+    attributes:
+      label: Accessibility Details (if applicable)
+    validations:
+      required: false
+
+  # ---------- Acceptance Criteria ----------
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria / Definition of Done
+      description: Define what “done” means for this issue. Use bullets or checkboxes.
+      placeholder: |
+        - [ ] Outcome 1 met
+        - [ ] Outcome 2 met
+        - [ ] Verified by reviewer(s)
+    validations:
+      required: false
+
+  # ---------- Links & resources ----------
+  - type: textarea
+    id: resources
+    attributes:
+      label: Links & Resources
+      description: Add any relevant links (design files, specs, logs, PRs, documentation).
+      placeholder: |
+        - Figma:
+        - Related issues/PRs:
+        - Monitoring/logs:
+        - Docs:
+    validations:
+      required: false
+
+  # ---------- Optional metadata ----------
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority (optional)
+      options:
+        - P0 – Critical
+        - P1 – High
+        - P2 – Medium
+        - P3 – Low
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ✅ **Reminder:** Apply any applicable labels prior to submitting (e.g., team and issue labels).
