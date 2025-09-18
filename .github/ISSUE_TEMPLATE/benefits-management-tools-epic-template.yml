@@ -1,11 +1,12 @@
 name: Benefits Management Tools Epic
-description: Use this template to create an Epic (large feature or initiative)
+description: Use this template to create an Epic (large feature or initiative) for Benefits Management Tools
 title: "[Benefits Management Tools] [Feature] [Epic Title]"
 labels: ["Epic", "benefits-management-tools"]
 assignees: []
+type: Epic
 
 body:
-  - type: dropdown
+    - type: dropdown
     id: feature
     attributes:
       label: Feature
@@ -18,14 +19,26 @@ body:
     validations:
       required: true
 
+  - type: input
+    id: feature-other
+    attributes:
+      label: Specify Feature (if Other)
+      description: If you selected "other" above, please specify the feature name.
+      placeholder: "Enter feature name…"
+    validations:
+      required: true
+    if:
+      field: feature
+      equals: other
+
   - type: dropdown
     id: team
     attributes:
       label: Team
       description: Include **both** the product-recognizable and friendly team names where applicable.
       options:
-        - "bmt-team-1 (Bee’s Knees)"
-        - "bmt-team-2 (Mavericks)"
+        - "bmt-team-1 (Mavericks)"
+        - "bmt-team-2 (Bee’s Knees)"
         - "bmt-team-3 (Phoenix)"
         - other
     validations:
