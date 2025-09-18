@@ -13,17 +13,17 @@ research_goals:
   - "Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation."
   - "Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated usability testing"
+  - "Semi-structured interviews"
 devices_used:
     desktop: 8
     tablet: 0
     smartphone: 6
     assistive_technology: 2
-participants_total: 15
+participants_total: 14
 demographics:
   veterans: 4
-  dependents: 11
+  dependents: 10
   age:
     "25-34": 1
     "35-44": 4
@@ -32,60 +32,76 @@ demographics:
     "65+": 3
     unknown: 1
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 3
+    some_college: 4
+    associates: 3
+    bachelors: 4
+    masters: 0
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 9
+    rural: 4
+    unknown: 1
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 6
+    black: 3
+    hispanic: 1
+    biracial: 0
+    asian: 1
+    native: 1
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 1
+    AT_beginner: 1
+    AT_advanced: 2
+    screen_reader_desktop: 3
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - Many participants (9 of 14) reported that the initial claim and resubmission claim flows were "easy" or "very easy."
+  - Most participants (10 of 14) understood what supporting documents were required for a claim, either based on the information on the Introduction page or the information on the Document Upload page.
+  - Most participants (10 of 14) understood what supporting documents were required for a claim, either based on the information on the Introduction page or the information on the Document Upload page.
+  - The majority of participants (11 of 12) wanted to resubmit their claim online, but were unsure if they could do so.
+  - Most participants (8 of 12) knew to look in the sendback letter for the PDI number when resubmitting their claim, but entering it correctly proved more difficult.
+  - Most participants (8 of 12) commented on having to resubmit or re-enter information from the original claim in the resubmission flow.
+  - 9 of 14 participants liked the idea of file verification prior to or after attempting to upload a file to their claim, even when they received an error message.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - Clarify that resubmissions can be submitted online
+  - Provide more detail to users for file verification messaging
+  - Make the PDI number easier to enter
+  - Require less information for resubmissions
+  - Clearly communicate all of the required information before the user enters the claim form
+  - Update or add content to reflect current timelines
+  - Soften the tone of the sendback letter
+  - Provide a way for users to check the status of their claims online
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - Measure number of people filing claims online through CHAMPVA
+  - Reduce time from submission to notification
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
-opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  user: Veterans can complete and submit a CHAMPVA claim or claim resubmission within the online form, Veterans spend less time and effort filling out the forms, Veteran satisfaction increased with application experience
+  business: Reduce amount of time spent processing paper forms, Replace outdated and legacy DAPER system with PEGA for document upload and management
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - LLM file verification for document-specific errors
+  - Resubmission flow usability testing
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - Cognitive disability
+  - Biracial
+  - Native Hawaiian or other Pacific Islander
+  - First Nations (Canada)
+  - Mobile Screen Reader (SR)
+  - Magnification/Zoom
+  - Speech Input Tech (Siri, Dragon)
+  - Hearing Aids
+  - Sighted Keyboard
+  - Captions
+  - Switch Device
+  - Braille Reader
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - Sendback letter content audit
 synthesis_tools_used:
   - "Mural"
   - "Affinity Mapping"
