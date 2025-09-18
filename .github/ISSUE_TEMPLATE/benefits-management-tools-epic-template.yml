@@ -6,7 +6,7 @@ assignees: []
 type: Epic
 
 body:
-    - type: dropdown
+  - type: dropdown
     id: feature
     attributes:
       label: Feature
@@ -35,21 +35,25 @@ body:
     id: team
     attributes:
       label: Team
-      description: Include **both** the product-recognizable and friendly team names where applicable.
       options:
-        - "bmt-team-1 (Mavericks)"
-        - "bmt-team-2 (Bee’s Knees)"
+        - "bmt-team-1 (Bee’s Knees)"
+        - "bmt-team-2 (Mavericks)"
         - "bmt-team-3 (Phoenix)"
         - other
     validations:
       required: true
 
   - type: input
-    id: additional-labels
+    id: team-other
     attributes:
-      label: Additional labels (optional)
-      description: Comma-separated labels like roadmap, performance, design.
-      placeholder: "roadmap, performance, design"
+      label: Specify Team (if Other)
+      description: If you selected "other" above, please specify the team name.
+      placeholder: "Enter team name…"
+    validations:
+      required: true
+    if:
+      field: team
+      equals: other
 
   - type: textarea
     id: epic-summary
@@ -65,7 +69,7 @@ body:
   - type: textarea
     id: value-statement
     attributes:
-      label: Value Statement 
+      label: Value Statement (if applicable)
       description: Prefer a Veteran/claimant-centered story.
       placeholder: |
         As a Veteran/claimant
@@ -81,7 +85,11 @@ body:
       description: |
         Clearly describe the problem this work addresses. Why does it matter?
         What’s broken, confusing, or misleading today?
-      placeholder: "Problem statement…"
+      placeholder: |
+        Example format:
+        - Current behavior: …
+        - Why it matters: …
+        - Desired outcome: …
     validations:
       required: true
 
@@ -90,7 +98,7 @@ body:
     attributes:
       label: Goals
       description: |
-        Define what success looks like (the **what/why**, not the how).
+        Define what success looks like (the what/why, not the how).
         Focus on Veteran/claimant outcomes and clarity/usability/accuracy improvements.
         Tip: Use bullets.
       placeholder: |
