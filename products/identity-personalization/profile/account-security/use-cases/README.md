@@ -2,8 +2,8 @@
 
 **Last updated: September 2025**
 
-- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753459771642/6c6889e40ac249724ef1b9968f6b0ba7c57a05ad?wid=149-1753459813526&outline=open)
-- [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=918-3504&t=XpeLUcvcZmicphy6-1)
+- [User flow]()
+- [Figma files](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?node-id=613-7850&t=vEzOY6Vc44fxJdc2-1)
 - Test Rail QA
 
 ## Current experience
@@ -21,19 +21,17 @@
 - [User has a blocked account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 ## Edge cases
-
-### Flags
-There are no flags associated with this feature, but an account can be blocked based on flags we get from the backend. More details are available in the [blocked account use case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md).
-
 ### Validation
 There are no validation use cases for this feature.
 
-### System
+### Flags
+- LOA1 user information above.
+- Blocked account user information above.
+
+### Errors
 - [Something has gone wrong and VA.gov can’t match user information with our records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/system-cant-match-user-information.md)
 - [Something has gone wrong and MPI could not connect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/account-security/use-cases/system-cant-access-records.md)
-
-## Flow diagrams
-- [High-level flow](https://www.figma.com/file/05k2PTmuDVgBj2HnzUZayg/Profile---Account-Security?type=design&node-id=0%3A1&mode=design&t=iNSbLjANTt9uOIhh-1)
+- [System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
 ---
 
