@@ -5,6 +5,46 @@ labels: ["benefits-management-tools", "issue"]   # <-- always applied
 assignees: []
 
 body:
+    - type: dropdown
+    id: feature
+    attributes:
+      label: Feature
+      description: Select the feature this Epic belongs to.
+      options:
+        - document-status
+        - evidence-requests
+        - decision-letter-notifications
+        - other
+    validations:
+      required: true
+
+  - type: input
+    id: feature-other
+    attributes:
+      label: Specify Feature (if "Other")
+      description: If you selected "other" above, specify the feature name. Leave blank otherwise.
+      placeholder: Enter feature name…
+
+  - type: dropdown
+    id: team
+    attributes:
+      label: Team
+      description: Select the team this Epic belongs to.
+      options:
+        - "bmt-team-1 (Mavericks)"
+        - "bmt-team-2 (Bee’s Knees)"
+        - "bmt-team-3 (Phoenix)"
+        - other
+    validations:
+      required: true
+
+  - type: input
+    id: team-other
+    attributes:
+      label: Specify Team (if "Other")
+      description: If you selected "other" above, specify the team name. Leave blank otherwise.
+      placeholder: Enter team name…
+      
   - type: dropdown
     id: issue-type
     attributes:
@@ -140,4 +180,4 @@ body:
     attributes:
       value: |
         ---
-        ✅ **Reminder:** Apply any applicable labels prior to submitting (e.g., team and issue labels).
+        ✅ **Reminder:** Apply any applicable labels prior to submitting (e.g., team, issue, priority labels).
