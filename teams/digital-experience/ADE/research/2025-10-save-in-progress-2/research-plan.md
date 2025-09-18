@@ -32,9 +32,9 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 ### Goals
 
 1. See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
-1. See if Veterans can stop and resume filling out a form.  
+1. See if Veterans can stop filling out a form, get signed out, and then resume filling out a form.
 1. See if moving the accordion controls to the left side affects usability.
-1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.
+~~1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.~~
   
 ### Outcome
 
@@ -47,16 +47,17 @@ Findings and recommendations from this research will **inform design guidance an
 1. What reactions/feedback do Veterans have upon encountering the interstitial page after clicking "Continue"?
 1. Do Veterans think that their form data is being saved? If so, how confident are they?
 
-#### Research goal 2: See if Veterans can stop and resume filling out a form.  
+#### Research goal 2: See if Veterans can stop filling out a form, get signed out, and then resume filling out a form.  
 1. Do Veterans use the "Finish later" button to stop filling out a form?
-1. Are Veterans able to resume filling out a form that they previously started? If so, how?
 1. What feedback do Veterans have on the revised "Finish later" page? 
+1. Are Veterans able to resume filling out a form that they previously started? If so, how?
+1. Do users realize that they have to sign in before resuming the form?
 
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
 1. Are Veterans able to open and close accordions with controls on the left side? 
 
-#### Research goal 4: See if the removal of the duplicate form intro page for authenticated users reduces confusion.
-1. Do Veterans have any issues navigating to the first page of the form? 
+~~#### Research goal 4: See if the removal of the duplicate form intro page for authenticated users reduces confusion.~~
+~~1. Do Veterans have any issues navigating to the first page of the form?~~
 
 ### Hypotheses
 
