@@ -108,8 +108,7 @@ body:
       description: Technical details, function names, logic notes, or pseudocode if helpful.
       placeholder: |
         // add notes or pseudocode here
-        // remove section if not needed
-    validations:
+     validations:
       required: false
 
   - type: textarea
