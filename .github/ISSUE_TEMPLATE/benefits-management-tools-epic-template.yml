@@ -179,3 +179,15 @@ body:
         - Appendix/Docs: …
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ✅ **Reminder:** Please apply the correct **Team label** after selecting your team above:  
+        - `bmt-team-1` → Mavericks  
+        - `bmt-team-2` → Bee’s Knees  
+        - `bmt-team-3` → Phoenix  
+        - Or another team label if applicable  
+
+        This ensures issues are filtered correctly across the Benefits Management Tools portfolio.
