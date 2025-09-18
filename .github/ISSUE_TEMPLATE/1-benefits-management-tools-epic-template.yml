@@ -1,0 +1,173 @@
+name: Epic
+about: Use this template to create an Epic (large feature or initiative)
+title: "[Benefits Management Tools] [Feature] [Epic Title]"
+labels: ["Epic"] ["benefits-management-tools"]
+assignees: ""
+
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      description: Select the product this Epic belongs to.
+      options:
+        - benefits-management-tools
+        - claims-and-appeals
+        - va-platform
+        - other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: team
+    attributes:
+      label: Team
+      description: Include **both** the product-recognizable and friendly team names where applicable.
+      options:
+        - bmt-team-1 (Bee’s Knees)
+        - bmt-team-2 (Mavericks)
+        - bmt-team-3 (Phoenix)
+        - other
+    validations:
+      required: true
+
+  - type: input
+    id: additional-labels
+    attributes:
+      label: Additional labels (optional)
+      description: Comma-separated labels like roadmap, performance, design.
+      placeholder: "roadmap, performance, design"
+
+  - type: textarea
+    id: epic-summary
+    attributes:
+      label: Epic Summary
+      description: |
+        Provide a concise 2–3 sentence overview of the purpose and intended outcome.
+        Avoid technical details; this should be understandable to non-technical stakeholders.
+      placeholder: "Short overview of the epic's purpose and outcome…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: value-statement
+    attributes:
+      label: Value Statement (if applicable)
+      description: Prefer a Veteran/claimant-centered story.
+      placeholder: |
+        As a Veteran/claimant
+        I want …
+        So that …
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: |
+        Clearly describe the problem this work addresses. Why does it matter?
+        What’s broken, confusing, or misleading today?
+      placeholder: "Problem statement…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: Goals
+      description: |
+        Define what success looks like (the **what/why**, not the how).
+        Focus on Veteran/claimant outcomes and clarity/usability/accuracy improvements.
+        Tip: Use bullets.
+      placeholder: |
+        - Outcome 1…
+        - Outcome 2…
+        - Outcome 3…
+    validations:
+      required: true
+
+  - type: textarea
+    id: design-content
+    attributes:
+      label: Design & Content Needs
+      description: |
+        List any design/content requirements (plain-language review, error copy, wireframes, a11y considerations).
+        If none, enter “None.”
+      placeholder: |
+        - Plain language review for titles and error states
+        - Wireframes for [page/flow]
+        - A11y focus order / roles review
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation-notes
+    attributes:
+      label: Implementation Notes (optional)
+      description: Technical details, function names, logic notes, or pseudocode if helpful.
+      placeholder: |
+        // add notes or pseudocode here
+        // remove section if not needed
+    validations:
+      required: false
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: Break the epic into clear, actionable, testable steps. Use a checklist.
+      placeholder: |
+        - [ ] Audit current logic across placements
+        - [ ] Add fallback for null claim types
+        - [ ] Refactor `generateClaimTitle`
+        - [ ] Add tests for overrides and fallbacks
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: definition-of-done
+    attributes:
+      label: Definition of Done
+      description: Check all that apply; add more in the text area below if needed.
+      options:
+        - label: Problem is well-documented and agreed upon
+        - label: Content/design reviewed and approved
+        - label: Build and test completed successfully
+        - label: Accessibility review completed
+        - label: Verified on staging
+        - label: Approved for production release
+    validations:
+      required: true
+
+  - type: textarea
+    id: dod-notes
+    attributes:
+      label: DoD Notes (optional)
+      description: Add any additional or team-specific acceptance criteria.
+      placeholder: "Additional acceptance criteria…"
+
+  - type: textarea
+    id: open-questions
+    attributes:
+      label: Open Questions
+      description: Unresolved decisions, risks, or dependencies needing clarification.
+      placeholder: |
+        - Should we use `claimTypeCode` as fallback or primary source?
+        - Any labels that should always be suppressed?
+        - Is there an authoritative EP code → claim type mapping?
+    validations:
+      required: false
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links & Resources
+      description: Dashboards, design files, PRs, background docs, appendices, related issues.
+      placeholder: |
+        - Datadog dashboard: …
+        - Figma: …
+        - Related PRs: …
+        - Appendix/Docs: …
+    validations:
+      required: false
