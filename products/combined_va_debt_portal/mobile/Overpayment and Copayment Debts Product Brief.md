@@ -84,7 +84,8 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * As of 9/18/2025, the FM team will be making these additional changes to copays:
   * Payment History - Vista MVP: update balance information to move away from monthly statement data. This is only for Vista stations (Cerner/Oracle stations will follow later).
   * Pay.gov Integration for copays - Integrate pay.gov into the experience so Veterans can process a payment for a copay directly from the web experience.  
-* [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+* During the FM // MFS sync (9/19/2025) the FM informed MFS that they are targeting to have the new Copay API developed. This will provide Copay data to be update on a 24 hour bases (occurs nightly). MFS team will need to work with FM team to make sure that mobile app aligns on messages. 
+*  [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
  
 
 ## Solution Approach
