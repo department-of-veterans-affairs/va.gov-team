@@ -15,4 +15,5 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
     * Homepage or CLP?
     * Related links component
     * Promo images
+  * Drupal 11 Upgrade - must be completed by June 2026
     
