@@ -5,15 +5,13 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### POC
 1. What is the name of your product(s)/system(s)?
-  - Product to review
   - Chapter 36, Personalized Career Planning and Guidance, PCPG
 2. Describe its purpose in a few sentences.
-  - Product to review
   - Offers free educational and career guidance, planning, and resources to Veterans and their dependents who are eligible for a VA education benefit.
 3. If you represent multiple products, please describe the relationship between them, if there is any.
-  - Product to answer
+  - No relevant relationship between products
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
-  - Product to answer
+  - IIR expects to own and interate on the Chapter 36 form through 2026. Project scope may vary depending on stakeholder needs.
 
 #### AWS Resources
 1. List AWS services used.
