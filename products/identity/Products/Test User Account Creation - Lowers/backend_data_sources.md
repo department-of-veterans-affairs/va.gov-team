@@ -97,8 +97,7 @@ This document provides a snapshot in time of how certain test user information c
 
 ### Contact:
 
-* Lighthouse, nameTBD  
-* Process link:
+* Lighthouse, send an email to api@va.gov asking for modifications to be made to a given account for these attributes.
 
 ### User Values
 
@@ -297,8 +296,8 @@ This document provides a snapshot in time of how certain test user information c
 
 ### Contact:
 
-* unknown  
-* Process link:
+*  Contact/Process [Link](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB/SitePages/Development-and-Testing-Support.aspx)
+*  Select the Request Test Data button and fill out the form at the link above.
 
 ### User Values
 
