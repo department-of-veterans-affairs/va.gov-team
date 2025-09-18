@@ -38,7 +38,7 @@
 | **Critical Path Items** | VA Notify data retention validation, Benefits Intake API testing |
 
 #### Why 4-7 Sprints for Low Volume?
-- Integration complexity with 3 external systems (VA Notify, Benefits Intake, VBMS)
+- Integration complexity with external systems (VA Notify, Lighthouse, VBMS)
 - 6 distinct email templates requiring individual handling, testing, and error handling
 - High reliability requirements (each failure is significant at low volume)
 - Building as reference implementation for other teams to follow
@@ -53,34 +53,26 @@
 
 ## Key Assumptions
 
-### Technical Assumptions
-
 1. **PDF can be text/markdown-based** - No pixel-perfect email HTML/CSS rendering required
 2. **Benefits Intake API works as documented** - No undocumented quirks or special handling
-3. **VA Notify retains data for 7 days** - Per UK.gov docs, needs validation with VA Notify team
-4. **No accessibility requirements** - PDFs don't need Section 508 compliance
-5. **Staging environment sufficient** - Can adequately test the full flow before production
-
-### Process Assumptions
-
-1. **No scope creep** - Requirements remain as documented
-2. **Single developer** - Working at 70% capacity (30% for meetings, reviews, support)
-3. **No backfill needed** - Only handling go-forward emails
-4. **Standard PR review cycles** - No extended review delays
-5. **Stakeholder availability** - For demos and approvals at phase gates
+3. **No accessibility requirements** - PDFs don't need Section 508 compliance
+4. **Staging environment sufficient** - Can adequately test the full flow before production
+5. **No backfill needed** - Only handling go-forward emails
+6. **Standard PR review cycles** - No extended review delays
+7. **Stakeholder availability** - For demos and approvals at phase gates
 
 ## Technical Unknowns and Risks
 
 ### ✅ Validated via POC
 
-- VA Notify's `get_notification` API successfully returns email content
-- All 6 email templates can be retrieved with consistent structure
+- Resposne provided by VA Notify when we use the `send_email` method successfully returns generated email content
+  - All 6 email templates can be retrieved with consistent structure
 - Personalization fields are redacted but reconstructable
 - Notification status updates work as expected
 - API authentication using existing keys successful
 
-### ⚠️ Critical Unknowns
-#### 1. PDF Generation Requirements (MEDIUM RISK)
+### ⚠️ Unknowns
+#### PDF Generation Requirements (MEDIUM RISK)
 
 - **Impact**: +0.5-1 sprint risk
 - **Issue**: Unclear how closely PDF must match email design
@@ -89,21 +81,6 @@
   - Special character handling requirements
   - Font/styling requirements from stakeholders
 - **Action**: Get sample approved by stakeholders early
-
-## Out of Scope
-
-The following items are explicitly NOT included in this LOE:
-
-- ❌ Admin UI for manual PDF regeneration
-- ❌ Backfilling historical failure emails (before implementation date)
-- ❌ Generalizing for all VA.gov teams (only Decision Reviews in scope)
-- ❌ Performance optimization beyond MVP needs
-- ❌ Section 508 accessibility compliance for PDFs
-- ❌ Direct VBMS integration (using Benefits Intake API instead)
-- ❌ Processing emails older than 7 days
-- ❌ Real-time PDF generation (batch processing only)
-- ❌ Email template management or updates
-- ❌ Veteran-facing features or notifications
 
 ## External Dependencies
 
@@ -136,19 +113,19 @@ Leverage existing `vets-api` infrastructure with minimal new components, process
 ### Technical Details
 
 - Using as much of the existing infrastructure in `vets-api` as possible, e.g.:
-  -  `DecisionReviews::FailureNotificationEmailJob` 
+  -  `DecisionReviews::FailureNotificationEmailJob`
+    -  We'll update the job to capture the content of the email sent and store it in our existing audit table, `DecisionReviewNotificationAuditLog`.
   - Custom notification callback classes `DecisionReviews::FormNotificationCallback` and `DecisionReviews::EvidenceNotificationCallback` that validate the delivery status of emails
   - `DecisionReviewNotificationAuditLog` table which tracks delivery status of emails and includes a reference ID that would allow us to locate the original `AppealSubmission`/`SavedClaim` (for Decision Review form uploads), `AppealSubmissionUpload` (for evidence uploads), or`SecondaryAppealForm` (4142s submitted via the Supplemental Claim flow) record for which we sent the failure notification email
-    - We will need to update this table with new columns to support tracking the creation and upload of the PDF to VBMS
-  - `VaNotify::Service` , which wraps UK.gov's open source `notifications-ruby-client` gem's `Notifications::Client`
-    - [notifications-ruby-client gem docs](https://docs.notifications.service.gov.uk/ruby.html) 
+    - We will need to update this table with new columns to support creation and tracking of the upload of the PDF to VBMS
+  - `VaNotify::Service` , which wraps UK.gov's open source [notifications-ruby-client gem's](https://docs.notifications.service.gov.uk/ruby.html) `Notifications::Client`
     - ~~Although not explicitly exposed in `VaNotify::Service`, POC code below demonstrates that we can use the underlying `Notifications::Client` and existing API key to access the  `get_notification` method, which provides data for one message.~~ We received some [additional guidance from the VANotify team](https://dsva.slack.com/archives/C010R6AUPHT/p1757536769497629?thread_ts=1757513765.094709&cid=C010R6AUPHT) and realized that we can use the response from sending the email. **Critically, this response provides the key data needed for this feature, and also represents no change in our current usage of the API**:
       - **the subject line and content of the email that was sent** **and the date the email was sent**
         - the personalisation fields are redacted, but we can recreate those easily with a database lookup
           - Notably: first name and submission attempt timestamps for all submissions, and filenames for evidence uploads
 - We will create the following new service classes and Sidekiq jobs in `vets-api` to facilitate generating PDF copies of delivered failure notification emails and uploading them to a Veteran's eFolder:
   - `DecisionReviews::NotificationEmailToPdfService` 
-    - Given a notification ID, will fetch message data from VA Notify and generate a PDF version of the email
+    - Given email content and required metadata fields, will generate PDF
   - `DecisionReviews::UploadFailureNotificationEmailPdfJob` 
     - A Sidekiq job that we will schedule to run after our daily `DecisionReviews::FailureNotificationEmailJob` 
     - Will query `DecisionReviewNotificationAuditLog` to identify successfully delivered emails that we have not yet created a PDF for/uploaded to LH Benefits Intake API
@@ -164,107 +141,114 @@ Leverage existing `vets-api` infrastructure with minimal new components, process
 
     ```mermaid
     sequenceDiagram
-        participant Veteran
-        participant vets-api
-        participant VA Notify
-        participant Email Provider
-        participant PDF Generator
-        participant Benefits Intake
-        participant VBMS
-        
-        Note over vets-api: Daily at midnight
-        vets-api->>VA Notify: Send failure notification
-        VA Notify->>Email Provider: Deliver email
-        Email Provider->>Veteran: Email delivered
-        
-        Note over vets-api: Next day (within 7-day window)
-        vets-api->>vets-api: Query for delivered emails
-        loop For each delivered email
-            vets-api->>VA Notify: Get notification details
-            VA Notify-->>vets-api: Return email content
-            vets-api->>PDF Generator: Generate PDF
-            PDF Generator-->>vets-api: PDF created
-            vets-api->>Benefits Intake: Upload PDF
-            Benefits Intake-->>vets-api: Upload confirmed
-            Benefits Intake->>VBMS: Process to eFolder
-        end
-        
-        Note over vets-api: Status polling
-        vets-api->>Benefits Intake: Check status
-        Benefits Intake-->>vets-api: VBMS confirmed
+    participant Veteran
+    participant vets-api
+    participant VA Notify
+    participant Email Provider
+    participant PDF Generator
+    participant Benefits Intake
+    participant VBMS
+    
+    Note over vets-api: Daily at midnight
+    vets-api->>VA Notify: Send failure notification
+    VA Notify-->>vets-api: Response with full email content
+    vets-api->>vets-api: Create audit log (status: 'pending')<br/>Store email content
+    VA Notify->>Email Provider: Deliver email
+    Email Provider->>Veteran: Email delivered
+    Email Provider-->>VA Notify: Delivery confirmation
+    VA Notify-->>vets-api: Callback with delivery status
+    vets-api->>vets-api: Update audit log (status: 'delivered')
+    
+    Note over vets-api: Next day (no time pressure)
+    vets-api->>vets-api: Query for delivered emails without PDFs
+    loop For each delivered email
+        vets-api->>vets-api: Retrieve stored email content from audit log
+        vets-api->>PDF Generator: Generate PDF
+        PDF Generator-->>vets-api: PDF created
+        vets-api->>Benefits Intake: Upload PDF
+        Benefits Intake-->>vets-api: Upload confirmed
+        Benefits Intake->>VBMS: Process to eFolder
+    end
+    
+    Note over vets-api: Status polling
+    vets-api->>Benefits Intake: Check status
+    Benefits Intake-->>vets-api: VBMS confirmed
+    vets-api->>vets-api: Update audit log (status: 'vbms_confirmed')
     ```
 
   - With more technical detail (adapted from the [asynchronous sending diagram from VA Notify's docs](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/va_notify/README.md), showing proposed functionality)
 
     ```mermaid
     sequenceDiagram          
-        box vets-api
-        participant DecisionReviewsCustomNotificationCallbacks
-        participant DecisionReviewsFailureNotificationEmailJob
-        participant VANotify module
-        participant DecisionReviewNotificationAuditLog
-        participant UploadCopiesOfFailureNotificationEmailsJob
-        participant NotificationEmailToPdfService
-        participant LH Benefits Intake Service
+    box vets-api
+    participant DecisionReviewsCustomNotificationCallbacks
+    participant DecisionReviewsFailureNotificationEmailJob
+    participant VANotify module
+    participant DecisionReviewNotificationAuditLog
+    participant UploadCopiesOfFailureNotificationEmailsJob
+    participant NotificationEmailToPdfService
+    participant LH Benefits Intake Service
+    
+    end
+    box notification-api
+    participant VANotify API (outside of vets-api)
+    end      
+    box External Services
+    participant Relevant third party delivery service
+    end
+    participant Recipient
+
+    
+    Note over DecisionReviewsFailureNotificationEmailJob: Existing: Runs daily at midnight
+    Note over DecisionReviewNotificationAuditLog: Existing: Table - UPDATED to store<br/>email content at send time
+    Note over UploadCopiesOfFailureNotificationEmailsJob: NEW
+    Note over NotificationEmailToPdfService: NEW: Creates PDF from stored content
+    Note over LH Benefits Intake Service: Existing, widely used in<br/> vets-api to upload docs to VBMS
+
+    %% Original notification flow - UPDATED
+    DecisionReviewsFailureNotificationEmailJob->>+VANotify module: VaNotify::Service <br/> (synchronous call) <br/> Required params: recipient, template_id, personalisation, api_key <br/> Optional params: callback_metadata
+    
+    VANotify module->>+VANotify API (outside of vets-api): Create notification request
+    VANotify API (outside of vets-api)-->>-VANotify module: 201 successfully created with unique `notification_id` <br/> Response includes full email body and subject
+    
+    VANotify module->>VANotify module: VANotify::Notification record created
+    
+    Note over DecisionReviewNotificationAuditLog: NEW: Create with email content immediately
+    VANotify module->>DecisionReviewNotificationAuditLog: Create audit record with:<br/>- notification_id<br/>- email_content (from response.body)<br/>- email_subject<br/>- delivery_status: 'pending'
+    
+    VANotify module-->>-DecisionReviewsFailureNotificationEmailJob: Response containing message body and `notification_id`
+
+    %% Delivery flow
+    VANotify API (outside of vets-api)->>+Relevant third party delivery service: Request notification send
+    Relevant third party delivery service->>Recipient: Attempt notification delivery
+    Relevant third party delivery service-->>+VANotify API (outside of vets-api): Updated delivery status <br/> (delivered, permanent-failure, etc)
+    
+    VANotify API (outside of vets-api)-->>+VANotify module: Delivery status callback <br/> (if callbacks are configured for API key/service) <br/> VANotify::DefaultCallback will increment relevant StatsD metrics
+    VANotify module->>VANotify module: VANotify::Notification record updated
+
+    VANotify module-->>-DecisionReviewsCustomNotificationCallbacks: Custom callback classes called <br/> DecisionReviews::FormNotificationCallback,<br/> DecisionReviews::EvidenceNotificationCallback
+    
+    Note over DecisionReviewNotificationAuditLog: UPDATED: Find and update existing record
+    DecisionReviewsCustomNotificationCallbacks->>DecisionReviewNotificationAuditLog: Update existing audit record:<br/>- delivery_status: 'delivered'<br/>- delivered_at: timestamp
+
+    rect rgb(191, 223, 255)
+        %% PDF generation flow (next day)    
+        Note over UploadCopiesOfFailureNotificationEmailsJob: NEW: Set to run daily, shortly after<br/> DecisionReviews::FailureNotificationEmailJob
+        Note over DecisionReviewNotificationAuditLog: Email content already stored,<br/>no external API calls needed
+        UploadCopiesOfFailureNotificationEmailsJob->>DecisionReviewNotificationAuditLog: Query for records where:<br/>- delivery_status = 'delivered'<br/>- email_pdf_status = 'not_generated'
         
+        loop For each delivered email without PDF
+            UploadCopiesOfFailureNotificationEmailsJob->>NotificationEmailToPdfService: generate_pdf_from_audit_log(audit_log_record)
+            Note over NotificationEmailToPdfService: Uses stored email_content<br/>No VA Notify API call needed
+            NotificationEmailToPdfService->>NotificationEmailToPdfService: Generate PDF with stored content<br/>and submission data
+            NotificationEmailToPdfService->>LH Benefits Intake Service: Upload PDF
+            Note over NotificationEmailToPdfService: Status polling handled by<br/>separate StatusUpdaterJob
+            LH Benefits Intake Service-->>NotificationEmailToPdfService: Initial upload confirmation
+            NotificationEmailToPdfService-->>UploadCopiesOfFailureNotificationEmailsJob: PDF generated and uploaded
+            Note over DecisionReviewNotificationAuditLog: Separate StatusUpdaterJob<br/>(not shown) polls Benefits Intake<br/>and updates to 'vbms_upload_confirmed'
+            UploadCopiesOfFailureNotificationEmailsJob->>DecisionReviewNotificationAuditLog: Update record:<br/>- email_pdf_status: 'upload_pending'<br/>- benefits_intake_uuid<br/>- pdf_generated_at
         end
-        box notification-api
-        participant VANotify API (outside of vets-api)
-        end      
-        box External Services
-        participant Relevant third party delivery service
-        end
-        participant Recipient
-    
-        
-        Note over DecisionReviewsFailureNotificationEmailJob: Existing: Runs daily at midnight
-        Note over DecisionReviewNotificationAuditLog: Existing: Table for storing notification delivery statuses
-        Note over UploadCopiesOfFailureNotificationEmailsJob: NEW
-        Note over NotificationEmailToPdfService: NEW: Creates a PDF version of the email sent
-        Note over LH Benefits Intake Service: Existing, widely used in<br/> vets-api to upload docs to VBMS
-    
-        %% Original notification flow
-        DecisionReviewsFailureNotificationEmailJob->>+VANotify module: VaNotify::Service <br/> (synchronous call) <br/> Required params: recipient, template_id, personalisation, api_key <br/> Optional params: callback_metadata
-        
-        VANotify module->>+VANotify API (outside of vets-api): Create notification request
-        VANotify API (outside of vets-api)-->>-VANotify module: 201 successfully created with unique `notification_id` <br/> (after basic validation)
-        
-        VANotify module->>VANotify module: VANotify::Notification record created
-        VANotify module->>DecisionReviewNotificationAuditLog: Create audit record with notification_id
-        
-        VANotify module-->>-DecisionReviewsFailureNotificationEmailJob: Response containing message body and `notification_id`
-    
-        %% Delivery flow
-        VANotify API (outside of vets-api)->>+Relevant third party delivery service: Request notification send
-        Relevant third party delivery service->>Recipient: Attempt notification delivery
-        Relevant third party delivery service-->>+VANotify API (outside of vets-api): Updated delivery status <br/> (delivered, permanent-failure, etc)
-        
-        VANotify API (outside of vets-api)-->>+VANotify module: Delivery status callback <br/> (if callbacks are configured for API key/service) <br/> VANotify::DefaultCallback will increment relevant StatsD metrics
-        VANotify module->>VANotify module: VANotify::Notification record updated
-    
-        VANotify module-->>-DecisionReviewsCustomNotificationCallbacks: Custom callback classes called <br/> DecisionReviews::FormNotificationCallback,<br/> DecisionReviews::EvidenceNotificationCallback
-        DecisionReviewsCustomNotificationCallbacks->>DecisionReviewNotificationAuditLog: Update audit record with delivery status
-    
-        rect rgb(191, 223, 255)
-            %% PDF generation flow (next day)    
-            Note over UploadCopiesOfFailureNotificationEmailsJob: NEW: Set to run daily, shortly after<br/> DecisionReviews::FailureNotificationEmailJob
-            Note over DecisionReviewNotificationAuditLog: Add columns to existing table to support<br/> tracking PDF generation/upload status
-            UploadCopiesOfFailureNotificationEmailsJob->>DecisionReviewNotificationAuditLog: Query for delivered emails without PDF upload
-            
-            loop For each email sent that we haven't created a PDF for/uploaded
-                UploadCopiesOfFailureNotificationEmailsJob->>NotificationEmailToPdfService: generate_pdf_from_notification
-                Note over NotificationEmailToPdfService: The get_notification method is provided<br/> by the underlying notifications-ruby-client<br/> used by the VANotify module in vets-api 
-                NotificationEmailToPdfService->>VANotify API (outside of vets-api): Retrieve notification details
-                NotificationEmailToPdfService->>NotificationEmailToPdfService: Generate PDF with submission data
-                NotificationEmailToPdfService->>LH Benefits Intake Service: Upload PDF
-                Note over NotificationEmailToPdfService: We'll need add polling for the<br/>status of these PDF uploads as well
-                LH Benefits Intake Service-->>NotificationEmailToPdfService: Initial upload confirmation
-                NotificationEmailToPdfService-->>UploadCopiesOfFailureNotificationEmailsJob: PDF generated and uploaded
-                Note over DecisionReviewNotificationAuditLog: Not shown - add'l DecisionReviews::StatusUpdaterJob<br/> updates to track status of email PDF upload to VBMS
-                UploadCopiesOfFailureNotificationEmailsJob->>DecisionReviewNotificationAuditLog: Update PDF generation status
-            end
-        end
-    
+    end
     ```
 
 ## Estimated Timelines 
@@ -276,14 +260,11 @@ Leverage existing `vets-api` infrastructure with minimal new components, process
 ```ruby
 # something like the following
 class DecisionReviews::NotificationEmailToPdfService 
-  def generate_pdf_from_notification(notification_id:, lookup_data: {})
-    # 1. Retrieve notification using VA Notify client
-    notification = fetch_notification_details(notification_id)
+  def generate_pdf_from_email_content(email_content:, lookup_data: {})    
+    # 1. Reconstruct full content using lookup_data for redacted fields
+    content = reconstruct_full_content(email_content, lookup_data)
     
-    # 2. Reconstruct full content using lookup_data for redacted fields
-    content = reconstruct_full_content(notification, lookup_data)
-    
-    # 3. Generate PDF with metadata
+    # 2. Generate PDF with metadata
     generate_pdf_with_metadata(content, notification)
   end
 end
@@ -291,18 +272,14 @@ end
 
 - Implement feature flag for toggling PDF generation functionality on/off 
 
-- Implement fetching of notification data
-
 - Implement HTML-to-PDF conversion for email content, making sure to include required metadata (email address, send date, template version)
 
 - Goals
 
   - Demo E2E flow: 
 
-    1. Sending a failure notification email 
-
-    2. Triggering the PDF generation code from the notification callback on successful delivery
-    3. Generating the PDF copy of the failure notification email with the required metadata
+    1. Sending a failure notification email, triggering the PDF generation code directly from the failure notification email job
+    2. Generating the PDF copy of the failure notification email with the required metadata
 
   - Sample of the most common failure notification email and the corresponding PDF copy, to be shared with the enablement team and stakeholders for review
 
@@ -312,16 +289,12 @@ end
 
 - Create `DecisionReviews::UploadFailureNotificationEmailPdfJob` 
 
-- Updates to `DecisionReviewNotificationAuditLog` 
-
-  - Determine schema updates needed 
-
+- Implement storing of email content from email sending response (updates to `DecisionReviewNotificationAuditLog`)
 - Goals:
 
   - Demo E2E flow: 
 
-    1. Sending a failure notification email 
-
+    1. Sending a failure notification email **and creating a new `DecisionReviewNotificationAuditLog` record with `status: "pending"`. Also store email content in this record** 
     2. Triggering ~~the PDF generation code~~ **update of the`DecisionReviewNotificationAuditLog` record**  from the notification callback on successful delivery, **to indicate that we need to generate a PDF and upload it to VBMS for this email**
     3. **Running the new `DecisionReviews::UploadFailureNotificationEmailPdfJob` , which calls the  `DecisionReviews::NotificationEmailToPdfService` to generate the PDF and `BenefitsIntake::Service` to upload the PDF**
     4. Updating the`DecisionReviewNotificationAuditLog` record to indicate that the PDF was generated and submitted to LH Benefits Intake API successfully 
@@ -332,6 +305,7 @@ end
 ##### Phase 3: Status Polling and Logging/Monitoring Updates (~1-2 sprints)
 
 - Add error handling and stress test retry logic
+- Determine cleanup strategy for edge case (in case callback never fires for email notifications, resulting in orphaned "pending" `DecisionReviewNotificationAuditLog` records
 - Implement audit logging
 - Coordinate with enablement team on any reporting required for this feature 
 
