@@ -130,6 +130,21 @@ Callbacks provide status updates per notification sent, so your team can track i
 - Provide a webhook URL in the `callback_url` field of your request to VA Notify
 - Validate the signature in the headers: `x-enp-signature`
 
+### Delivery Status Reasons
+*Temporary failure*
+- Retryable - Notification is unable to be processed at this time. Replay the request to VA Notify.
+
+*Permanent failure*
+- Undeliverable - Phone number is invalid
+- Undeliverable - Individual unreachable
+- Undeliverable - Individual or carrier has blocked the request
+- Undeliverable - Preferences declined in VA Profile
+- Undeliverable - No VA Profile contact information
+- Undeliverable - No VA Profile found in MPI
+- Undeliverable - Identifier not found in MPI
+- Undeliverable - Individual is deceased
+- Undeliverable - Unable to deliver
+
 #### Callback URL Validation
 1. Collect `x-enp-signature` value
 2. Collet all parameters in the json response (will have all fields from the sample below
