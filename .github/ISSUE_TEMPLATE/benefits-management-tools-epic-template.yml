@@ -106,9 +106,7 @@ body:
     attributes:
       label: Implementation Notes (optional)
       description: Technical details, function names, logic notes, or pseudocode if helpful.
-      placeholder: |
-        // add notes or pseudocode here
-     validations:
+    validations:
       required: false
 
   - type: textarea
