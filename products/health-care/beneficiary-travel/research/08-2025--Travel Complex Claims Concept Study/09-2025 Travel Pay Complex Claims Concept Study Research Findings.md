@@ -248,9 +248,9 @@ Our goals were to:
 3. Participants who have filed for travel pay in the past, either using simple mileage only claims (SMOC) or the Beneficiary Travel Self Service System (BTSSS) portal, provided anecdotes about their experience, both positive and negative.
    - 7 out of 13 participants had filed for travel reimbursement online in the past, while 1 participant said that they filed years ago, when it was a paper process. 5 out of 13 participants had never submitted for reimbursement.
 
-   - We believe that their experience with these systems influenced how they viewed the prototypes we presented. [QUOTE HERE]
+   - We believe that their experience with these systems influenced how they viewed the prototypes we presented. 5 of 13 participants referenced maps when mileage was being calculated.
 
-     > Placeholder Quote
+     > "On BTSSS there is a map that shows 3 different routes for me. And I am not seeing a map so I would guess I would need to put in how many miles. Oh okay, it is automatically calculated, got it." - P10
 
    - People who used the mobile app to submit for mileage only had very positive things to report.
 
@@ -331,9 +331,6 @@ Our goals were to:
 - [Copmlex claims data flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741361955111/d59ae58f89f39d741e0da30de2f60d3d279ac343)
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
 
 #### Recruitment criteria
 Must haves:
@@ -353,77 +350,79 @@ Must haves:
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **13 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 13
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 10 
+* Female: 2
+* Prefer to self describe: 1 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: Unknown 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: Unknown
+* Gay, lesbian, or bisexual: Unknown, although one participant referenced a same sex spouse in conversation  
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 8 
+* Tablet: 0 
+* Smart phone: 5 
+* Assistive Technology: Unknown
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 0
+* 45-54: 2
+* 55-64: 4
+* 65+: 6
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 5
+* Bachelor's degree: 1
+* Master's degree: 3
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 5
+* Rural: 8
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 10
+* Black: 1
+* Hispanic: 0
+* Biracial: 0
+* Asian: 1
+* Native: 0
+* Prefer to self describe: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: Unknown, although one participant referenced a TBI in conversation  
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: Unknown, although one participant referenced a phone with advanced magnification provided by VA
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 #### Underserved groups we haven’t talked to 
@@ -432,9 +431,11 @@ _[Complete the VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive disability 
+* Immigrant origin  
+* Expat
+* Are Black or African American; Hispanic, Lation, or Spanish origin; Biracial; Native Hawaiian or other Pacific Islander; First Nations; Native, American Indian, or Alaska Native
+* LGBTQ
 
 _[insert screenshot of completed recruitment checker]_
 
