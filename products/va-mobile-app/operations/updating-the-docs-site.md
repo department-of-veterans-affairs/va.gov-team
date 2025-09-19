@@ -5,7 +5,7 @@ For people who do not want to maintain and troubleshoot setup on your local mach
 
 # Setting up to update the VA Mobile doc site
 
-_These instructions are for people who are comfortable with maintaining and troubleshooting setup on their local machine. If that's not you, skip straight to instructions for [how to update the doc site with codespaces.](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20doc%20site/how%20to%20update#updating-the-site-using-codespaces)_
+_These instructions are for people who are comfortable with maintaining and troubleshooting setup on their local machine. If that's not you, skip straight to instructions for [how to update the doc site with codespaces.](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/SetUp/DevelopmentSetUpProcess/#prerequisites)_
 
 Before you can update the [VA Mobile documentation website](https://department-of-veterans-affairs.github.io/va-mobile-app/), you first need to download and set up a few different tools. You only need to do this once. Feel free to buddy up with someone for help with the initial setup!
 
@@ -157,7 +157,7 @@ To set up Docusaurus, you will need to do two things.
 
 # How to update the VA Mobile doc site 
 
-_If you are comfortable with maintaining and troubleshooting setup on your local machine, feel free to skip down to the section with [instructions for editing the doc site locally](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20doc%20site/how%20to%20update#updating-the-site-from-your-local-machine). If you're looking for a simpler option, use the codespaces workflow here at the top._
+_If you are comfortable with maintaining and troubleshooting setup on your local machine, feel free to skip down to the section with [instructions for editing the doc site locally](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/SetUp/DevelopmentSetUpProcess/#prerequisites). If you're looking for a simpler option, use the codespaces workflow here at the top._
 
 
 ## Updating the site using codespaces
@@ -228,7 +228,7 @@ Finally, you'll tap the green "Sync" button (that has replaced the green commit 
 
 ### 6. PR things
 
-Skip down to the shared documentation section about [how to create and merge a pull request with your changes](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20doc%20site/how%20to%20update#create-a-pull-request), and follow those instructions. 
+Skip down to the shared documentation section about [how to create and merge a pull request with your changes](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/SetUp/DevelopmentSetUpProcess/#pull-requests), and follow those instructions. 
 
 Get ready for those instructions by pulling up the mobile app repo home in your browser: [https://github.com/department-of-veterans-affairs/va-mobile-app](https://github.com/department-of-veterans-affairs/va-mobile-app).
 
@@ -393,6 +393,5 @@ Your branch will then begin deploying to the doc site and will be live once the 
 
 ### Further reading
 
-* [How to use GitHub Desktop and Sublime text to make pull requests](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Making%20Changes/) (General - not specific to Doc site) 
 * More info on [how to navigate files and folders in Terminal/Command Line](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-Terminal/Command Line.html).
 * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)

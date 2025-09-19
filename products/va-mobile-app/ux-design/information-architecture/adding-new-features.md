@@ -16,7 +16,7 @@ All features in the VA mobile app should have a <span style="text-decoration:und
 **2. If it’s a feature, what type of feature is it (hierarchically speaking)?**
 *(AKA, How to decide whether something is a global app feature or a category feature)*
 * **Category features:** Features that are specific to a single category. 
-     * **Where:** Their primary placement is within a category (Benefits, Health, Payments). Appears on the [category landing screen](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Templates/ScreenTypes#category-landing-screen), in the descendant navigation.
+     * **Where:** Their primary placement is within a category (Benefits, Health, Payments). Appears on the category landing screen, in the descendant navigation.
 *  **Global features:** Features that apply to and/or need to be accessible from more than one category (ex: search, help, cart). 
      * **Where:** Their primary placement should be at a higher level in the [app’s navigation model hierarchy](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Templates/NavigationModel) (ex: bottom navigation/tab bar or top navigation bar). Transition depends on placement: tab bar placement transition is top-level peer, top bar transition is subtask.
 

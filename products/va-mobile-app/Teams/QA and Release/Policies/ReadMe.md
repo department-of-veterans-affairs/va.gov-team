@@ -1,5 +1,5 @@
 # VA-Mobile Quality Acceptance (QA) Processes
-[Document everything.](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/#document-everything)
+[Document everything.](https://department-of-veterans-affairs.github.io/va-mobile-app)
 
 Better yet, OVER-document. If it is more complex than a tsdoc or API doc, add an .md file to the docs site. Assume you will never touch this again. Make everything abundantly clear as to how it works… There are few things worse than looking at something complicated with no or almost no documentation… Taking two hours to remember your own work is a sure-fire way to realize how hard it would be for people without your memories to grok a thing. Be kind to future-you and all your coworkers.
 
@@ -76,7 +76,7 @@ Teams should be assigning their QA agent as soon as the ticket is created so tha
 - There are 3 QA resources with 3 overlapping points each per Sprint unless an issue comes up
 - QA testing work is split equally across testing resources
 - Tickets are tested against the [RC script](https://dsvavsp.testrail.io/index.php?/suites/view/92) (a high-level script) in TestRail
-- The RC testing process can be found [here](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/Release%20Testing/)
+- The RC testing process can be found [here](https://department-of-veterans-affairs.github.io/va-mobile-app/development/QA/QA%20process/ReleaseTesting)
 - Writing the RC cases for a new feature usually:
     - happens during Step 2 of a project
     - are reviewed during Test Plan Review
@@ -240,7 +240,7 @@ QA has to sign off on the ticket prior to merging branches into develop (develop
 - [Existing Bug Handling Process doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/features/Bug%20Managment.md)
 
 
-## [QA Testing Tools and Their Purpose](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/Resources)
+## [QA Testing Tools and Their Purpose](https://department-of-veterans-affairs.github.io/va-mobile-app/development/QA/)
 
 | Tool | Purpose | How is it accessed | 
 | ---- | ------- | ------------------ |
@@ -253,6 +253,7 @@ QA has to sign off on the ticket prior to merging branches into develop (develop
 | Detox | Automated end to end testing | Reach out to your Mobile Team's QA agent | 
 
 ## Other topics to consider including: 
+
  * Team member bio / links to how they work best (Therese's doc)
  * Link to our mission, vision, goals
  * Document OKR / KPIs

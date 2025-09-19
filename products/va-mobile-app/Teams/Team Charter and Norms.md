@@ -139,7 +139,7 @@ Zoom/Huddle: use for setting up meetings for internal stakeholders only (or as a
 #### Labels to use:
 
 - Discipline(s) (_ux_, _content_, _front-end_, _back-end_, _qa_)
-- For bugs, add the _bug_ tag and [applicable severity tag](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA#issue-severity)
+- For bugs, add the _bug_ tag and [applicable severity tag](https://department-of-veterans-affairs.github.io/va-mobile-app/api/#/paths/~1v0~1vet_verification_status/get)
 
 #### Epics should include:
 
