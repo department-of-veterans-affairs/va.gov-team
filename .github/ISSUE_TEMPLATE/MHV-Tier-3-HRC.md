@@ -10,9 +10,11 @@ projects:
 
 # Description
 <!-- A brief description of the bug -->
+- Device:
+- Browser:
+- OS: 
 
-*HRC ticket number(s):*
-
+**HRC ticket number(s):**
 - [HRC](URL)
 
 
@@ -30,12 +32,8 @@ projects:
 ### Screenshots
 <!-- Attach any relevant screenshots -->
 
-
-## Severity
-- [ ] Critical - System outage
-- [ ] High - Customer work stoppage
-- [ ] Medium - Resolution when resources are available/Workaround is available
-- [ ] Low - Convenience vs function
+### Troubleshooting Steps Performed
+- 
 
 ## Acceptance Criteria
 - [ ] Identified the cause of the issue
