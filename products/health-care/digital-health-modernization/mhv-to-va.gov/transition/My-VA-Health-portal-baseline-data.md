@@ -1,5 +1,9 @@
 # My VA Health (OH) portal baseline metrics
-Prior to integration
+Metrics and UX analysis prior to data integration with OH EHR and transitioning My VA Health (OH) users to My HealtheVet on VA.gov. 
+
+By: Sara Sterkenburg
+
+## On this page
 
 
 ## Who can access the My VA Health portal? 
@@ -21,12 +25,12 @@ There are two ways for users with Oracle Health facilities to access this portal
 * **Method B** - Use direct link (probably bookmarked) to My VA Health -> Authenticate via USiP sign-in -> land on My VA Health
 
 ### Method A data notes:
+**Data retrieval method**: GA4 link analysis
 
 <img width="806" height="505" alt="image (49)" src="https://github.com/user-attachments/assets/b5c0e881-7ead-44a2-9b49-8b59afce9db0" />
 <img width="798" height="520" alt="image (50)" src="https://github.com/user-attachments/assets/99066ed3-b19f-4002-bb98-3156cc7b9957" />
 
-
-* Between January-April 2025, about 50% of My VA Health portal users got there from a link on the My VA (on VA.gov) page
+* Based on GA4 data between January-April 2025, about 50% of My VA Health portal users got there from a link on the My VA (on VA.gov) page
   * This alert was **removed** from the My VA page per our instruction - I think in July
   * Background to that decision: Milestone 2 tactics (June 2025) surrounding the sunsetting of MHV Classic were to eliminate confusing "dual-portal" messaging alerts from VA.gov unauthenticate pages so that we wouldn't have to deal communicating how to access 3 different portals. More background on that decision [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
   * Open question: _should we bring it back & consider implementing an update to this alert as an additional tactic for the upcoming transition? Curious about helpdesk feedback from OH users if we have access to it._
@@ -37,3 +41,40 @@ There are two ways for users with Oracle Health facilities to access this portal
   * In July, a link was added to the MHV on VA.gov landing page to hopefully solve for this. But looking at the data, users are not utilizing this link (which is not among top 10 links).
     * This is surprising an potentially indicates that the current link solution on the main My HealtheVet landing page is not visually "loud" enough for users to notice.
  
+## Method B data notes: 
+**Data retrieval method**: Log data on number of total hits to the USiP sign-in proxy page for My VA Health (OH) portal, provided by Identity team on 9/19/2025. [Slack thread here](https://dsva.slack.com/archives/CSFV4QTKN/p1758292182032149). 
+
+* 0.52% of all total authentications on VA.gov come in via this method
+* **January 2025 - present**
+  * 757k successful logins over ~9 months (average ~84k/month) 
+* **June 2025-present**
+  * 275k successful logins over ~3 months (average ~91.5k/month)
+* Values since June are about an 8% increase compared to whole year
+  * These are averages, so that increase does not seem super statistically significant to me (compared with the 40% increase in traffic for Method A).
+  * This method does NOT seem to be impacted by the sunsetting of Classic (which makes sense)
+* While the data focus for this transition is around _successful logins_ via Method B, Patrick Bateman investigated a high frequency of unsuccessful logins via this method in May 2025, and determined that ~9k in a 15-day period were not succeeding. Some thoughts about how to handle that in FE UX are included in section below. 
+
+
+## Design / Sensemaking questions around planned tactics to address Method A & B users:
+
+### Method A
+Prediction: 
+ * Due to the nature of expandable components (like the blue info alert planned for this transition) being more challenging for Veterans to understand / requiring expansion in order to reveal a link to the My VA Health portal, the amount of users who see this tactic + continue to access My VA Health should decrease dramatically
+ * However, that is not necessarily _good_. It could indicate sensemaking problems, which are included under "Notes." 
+
+Notes:
+  * These users have been conditioned to look for yellow alerts that have "My VA Health" in the heading text.
+  * Will they understand that the new expandable blue info alerts that no longer have "My VA Health" in the heading text are for them & are a replacement for the yellow alerts?
+  * Carnetta raised something interesting in the OCC call this week, that many people call in and complain that they used to go to [X] facility 10 years ago that they're now being bombarded with information about & they do not care. Is there business value in figuring out if it's feasible to in  only display these things to folks who have had an appt at one of these OH facilities within [Y] period of time?
+* Since we can't employ any tactics on the My VA Health portal directly, I am concerned about getting this wrong. I realize we are piloting with a small audience & can learn from them over time / adjust, but just wondering if this is worth a quick study to better understand?
+
+### Method B
+Prediction: 
+ * We can predict that the post-authentication interstitial page planned for these users will be viewed ~84-91k times/month
+ * Over time, users should get "used to" VA.gov and might learn that they do not need to use the `patientportal.myhealth.va.gov` URL anymore, but many will likely continue to use their existing bookmarks. Thus, this portal will need to have a 301 redirect to `va.gov/my-health` at time of sunset.
+
+Notes:
+ * We need to make sure that the 9k users with the My VA Health (OH) portal URL who should NOT be routed to My VA Health don't see this interstitial.
+ * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
+
+## Questions
