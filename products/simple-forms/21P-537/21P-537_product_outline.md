@@ -7,9 +7,7 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+*As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-537 - Marital Status Questionnnaire - is on the list of those 11 forms. Currently, surviving spouses of deceased Veterans who receive Dependency and Indemnity Compensation (DIC) receive a letter from the VA about once every 8 years*
  
 ## Desired User Outcomes
 
