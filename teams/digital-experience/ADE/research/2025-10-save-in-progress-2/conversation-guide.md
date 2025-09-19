@@ -256,7 +256,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 
 ### Watch for:
 - [Anything re saving info entered]
-- [See if go back to previous page to remember what they were doing]
+- [Any feedback on the form fields]
 
 [If see "can't submit your request" alert, say:] Don't worry! It's not working because this is a prototype, not a real form.
 
