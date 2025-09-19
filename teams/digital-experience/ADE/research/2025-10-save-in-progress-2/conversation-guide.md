@@ -96,6 +96,10 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 - [If **can't see an iPhone's magnified screen**, ask participant to go into their phone and do `Settings > Accessibility > Show while Mirroring`]
 
+- [If “**Uncaught runtime errors**”, close with “X” (label “dismiss”) in top right corner, leave site if prompted. 
+  - Check my browser window to see if codespace shut down. 
+  - If so, restart it. Then have them click on the Apple button to resume/start over.]
+
 # Warm-up Questions - 5 minutes
 
 Let’s start with a few questions... 
@@ -203,6 +207,9 @@ OK, let's pretend that you just [searched/whatever they say] and you landed on a
 
 Please share any **thoughts, reactions, or questions** you have about the current page.
 
+### Watch for:
+- [Any comments about this page looking like the page before? Y / N]
+
 [**Start your request**]
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
@@ -213,62 +220,37 @@ Please fill out this form to request your own military records, but I want you t
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
-- [Notice "We'll save your application on every change"? Y / N]
+~~- [Notice "We'll save your application on every change"? Y / N]~~
 
 [Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
 
-## Task 3: (After enter SSN, before Continue) Short break in filling out form
-Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're in the middle of filling out?
+## Task 4: Take a break in filling out form (after enter phone number, before email address) 
+Say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
 
-- [leave open in browser / close browser / Finish later button / __________________]
+- [leave open in browser / close browser / Finish later button / Sign out __________________]
 
+- [If didn't sign out or close browser] 
+  - In 30 minutes, your session will time out and you will be signed out. 
+  - To simulate that, could you please sign out now? 
+  - [Or ask to click on the Grapes button -- to Unauth VA.gov]
+  
+- What do you think will happen to the information you entered?
+  
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
   - [Noticed "Your records request has been saved"? Y / N]
 
+## Task 5: Resume filling out form [from unauth VA.gov]
+OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
 
+- [Record how resume:]
+  - Sign in --> My VA --> form card --> Continue your request
+  - Search/nav to unauth form intro (Grapes button) --> Sign in --> auth form intro --> Continue your request
 
-## Task 4: Resume filling out form
-OK, now let's say that you're back from answering the door. Please resume filling out the form that you were working on. 
-
-- [Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
-
-- [If needed, tell what to click to go to **Unauth (Lemon) / Auth (Apple) / My VA (Mango)**]
+- [If needed, tell what to click to go to **Unauth intro (Lemon) / Auth intro (Apple) / My VA (Mango)**]
 
 - [Can also get to My VA from header link and from Chris dropdown menu]
-
-[If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
-
-### Watch for:
-- 
-
-
-
-
-## Task 5: (After specify records, after Continue) Long break in filling out form
-Say that you're hungry and need to take a break to make a snack/lunch/dinner. What will you do with the form that you're filling out?
-
-- [leave open in browser / close browser / Finish later button / __________________]
-
-- *[If "leave open in browser"*, ASK:]
-     - What if you were filling out this form in a public place, such as a library?
-     - If you leave the browser open and go away, you'll be signed out after 30 minutes. What do you think will happen to the information you entered? 
-
-### Watch for:
-- [Anything re saving info entered]
-- [Anything re the "Finish later" button]
-  - [Noticed "Your records request has been saved"? Y / N]
-
-*[If see “Uncaught runtime errors”, close with “X” (label “dismiss”) in top right corner, Leave site if prompted. Check my browser window to see if codespace shut down. If so, restart it.
-Then have them click on the Apple button to resume/start over.]*
-
-## Task 6: Resume filling out form 
-OK, pretend that you just finished your snack/lunch/dinner. Now you want to get back to the form you were filling out. How would you do that?
-
-[Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
-
-- [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
