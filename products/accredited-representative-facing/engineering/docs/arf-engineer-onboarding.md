@@ -15,14 +15,17 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 
 ## Deeper Technical Discovery
 
+📌 TODO: Create guidance for when documents should go in the non-public repo.
+
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
-- [ ] **Explore** [Tech specs -these are in the non-public repo-](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/accredited-representative-facing)
+- [ ] **Explore** [Tech specs -non-public repo-](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/accredited-representative-facing)
+- [ ] **Explore** [Tech specs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/tech-specs)
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
-- [ ] **Explore** [Exercising BGS's POA request APIs - an example of how to test backend systems, not required](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/exercising_BGS_POA_request_apis.md). 
+
 
 ## Zenhub
 
-//TODO: Add the currently prioritized epics.
+📌 TODO: Add the currently prioritized epics.
 
 Below are the essential ARF engineering epics. 
 
