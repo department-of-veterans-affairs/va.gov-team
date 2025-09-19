@@ -220,12 +220,14 @@ Please fill out this form to request your own military records, but I want you t
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
+- Feedback on form fields
+
 ~~- [Notice "We'll save your application on every change"? Y / N]~~
 
 [Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
 
 ## Task 4: Take a break in filling out form (after enter phone number, before email address) 
-Say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
+Let's say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / Sign out __________________]
 
@@ -245,8 +247,8 @@ Say that you're hungry and need to take a break to eat a snack/lunch/dinner. Wha
 OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
 
 - [Record how resume:]
-  - Sign in --> My VA --> form card --> Continue your request
-  - Search/nav to unauth form intro (Grapes button) --> Sign in --> auth form intro --> Continue your request
+  - Sign in --> My VA (Mango) --> form card --> Continue your request
+  - Search/nav to unauth form intro (click on Grapes) --> Sign in --> auth form intro --> Continue your request
 
 - [If needed, tell what to click to go to **Unauth intro (Lemon) / Auth intro (Apple) / My VA (Mango)**]
 
