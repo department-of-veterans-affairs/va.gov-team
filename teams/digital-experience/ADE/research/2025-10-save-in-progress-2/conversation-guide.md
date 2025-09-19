@@ -193,13 +193,13 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apple** button at the top of the page [to auth intro page and Task 2]
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apple** button at the top of the page [to auth intro page and Task 2].
 
 ### Path 1B: Participant finds form before signing in
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Lemon** button at the top of the page [to unauth intro page].
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Lemon** button at the top of the page [to unauth intro page and Task 2].
 
 [**Sign in to start your request**]
 
@@ -221,6 +221,7 @@ Please fill out this form to request your own military records, but I want you t
 
 ### Watch for:
 - Feedback on form fields
+- Feedback on interstitial page about saving
 
 ~~- [Notice "We'll save your application on every change"? Y / N]~~
 
@@ -241,6 +242,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
+- [Feedback on the "Finish later" page?]
   - [Noticed "Your records request has been saved"? Y / N]
 
 ## Task 5: Resume filling out form [from unauth VA.gov]
@@ -250,15 +252,15 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
   - Sign in --> My VA (Mango) --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Grapes) --> Sign in --> auth form intro --> Continue your request
 
-- [If needed, tell what to click to go to **Unauth intro (Lemon) / Auth intro (Apple) / My VA (Mango)**]
-
-- [Can also get to My VA from header link and from Chris dropdown menu]
+  - [If needed: **Unauth intro (Lemon) / Auth intro (Apple) / My VA (Mango)**]
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
+- [Realize that they have to sign in before returning to the form?]
 - [Anything re saving info entered]
 - [Any feedback on the form fields]
+- [Any difficulty using the accordion controls? Y / N]
 
 [If see "can't submit your request" alert, say:] Don't worry! It's not working because this is a prototype, not a real form.
 
@@ -269,15 +271,14 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 1. What was *unclear or did not work well* for you?
      - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
-1. What kinds of online forms have you filled out before?
-     1. health care / education / other government form / online purchase /  _________________? 
-     1. How does the process of filling them out compare to the VA form you just filled out? 
 
-1. When do you expect the information that you enter into an online form to be saved?
+1. When did you expect the information you entered into this VA  form to be saved?
 
      1. [After every field / page / Finish later / Continue button / only after submitting?]
+     1. How do you know? 
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
+     1. [Did they remember what the interstitial page said? Y / N]
 
 1. If you had a magic wand and could change *anything* about *how we save your information* before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
