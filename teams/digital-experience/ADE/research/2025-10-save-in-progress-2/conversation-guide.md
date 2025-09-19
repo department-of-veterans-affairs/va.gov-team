@@ -220,8 +220,10 @@ Please fill out this form to request your own military records, but I want you t
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
-- Feedback on form fields
-- Feedback on interstitial page about saving
+- [Feedback on form fields]
+- [Feedback on interstitial page about saving]
+- [Click on links on the interstitial page? My VA / form intro page]
+  - [If so, ASK] What did you expect? What did you find?
 
 ~~- [Notice "We'll save your application on every change"? Y / N]~~
 

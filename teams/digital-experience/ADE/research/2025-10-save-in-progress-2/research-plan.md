@@ -40,6 +40,7 @@ Findings and recommendations from this research will **inform design guidance an
 #### Research goal 1: See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
 1. What reactions/feedback do Veterans have upon encountering the interstitial page after clicking "Continue"?
 1. Do Veterans think that their form data is being saved? If so, how confident are they?
+1. Do Veterans click on either of the links on the interstitial page (that go to My VA or the form intro page)?
 1. Do Veterans remember later what the interstitial page said?
 
 #### Research goal 2: See if Veterans can stop filling out a form, get signed out, and then resume filling out a form.  
