@@ -2,19 +2,15 @@
 # Research Plan for 2025-10 Save in Progress -- 2nd round of usability testing
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
-	
 Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study indicated that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
 
-This research is being planned to get user feedback on a revised design that hopefully communicates more effectively to Veterans that the information they enter into forms will be saved automatically. The new design adds an [interstitial page (in Figure 1 below)](#user-content-figure-1-shows-the-new-interstitial-page) about saving that appears after the user first clicks the Continue button, which should happen after they've started filling out the form and during a natural pause in their work.
+This research is being planned to get user feedback on a revised design that hopefully communicates more effectively to Veterans that the information they enter into forms will be saved automatically. The new design adds an [interstitial page (in Figure 1 below)](#user-content-figure-1-shows-the-new-interstitial-page) about saving that appears after the user first clicks the Continue button on the first page of form fields, which is after they've started filling out the form and during a natural pause (between form pages) in their work.
 
 ### Figure 1 shows the new interstitial page
 
-<img src="./images/FILENAME.png" width="50%" height="50%" alt="write a description here">
+<img src="./images/FILENAME.png" width="50%" height="50%" alt="The new interstitial page...">
 
 <!--INSERT SCREENSHOT WHEN DESIGN IS READY-->
-
-</details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
@@ -34,13 +30,10 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 1. See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
 1. See if Veterans can stop filling out a form, get signed out, and then resume filling out a form.
 1. See if moving the accordion controls to the left side affects usability.
-
-~~1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.~~
   
 ### Outcome
 
 Findings and recommendations from this research will **inform design guidance and documentation  for the "save in progress" feature** (i.e., a documented pattern in the VA Design System) for authenticated users filling out forms on VA.gov. 
-
 
 ### Research questions
 
@@ -58,9 +51,6 @@ Findings and recommendations from this research will **inform design guidance an
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
 1. Are Veterans able to open and close accordions with controls on the left side? (especially people using a screen magnifier)
 
-~~#### Research goal 4: See if the removal of the duplicate form intro page for authenticated users reduces confusion.~~
-~~1. Do Veterans have any issues navigating to the first page of the form?~~
-
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
@@ -69,10 +59,6 @@ Findings and recommendations from this research will **inform design guidance an
 1. All Veterans (including screen magnifier and screen reader users) will find the accordion controls on the left side easy to use.
 
 
-~~1. Authenticated users who start a form from the form intro page will get to the first page of the form quicker without any confusion.~~
-
----
-  
 ## Methodology  🛠️
 We will conduct **remote moderated usability testing** to observe research participants filling out an online form. The participants will be logged in so that the information they enter will be automatically saved before the form is submitted. We will be using a **GitHub Codespace** that is accessible to screen readers and screen magnifiers. 
 
