@@ -16,13 +16,13 @@ body:
     validations:  
       required: true  
 
-  - type: input  
-    id: octo-de-product-owner  
-    attributes:  
-      label: "OCTO-DE Product Owner"  
-      description: "Enter the name of your OCTO-DE Product Owner."  
-    validations:  
-      required: true  
+  - type: input
+    id: octo-de-product-owner
+    attributes:
+      label: "OCTO Product Owner"
+      description: "Enter the name of your OCTO Product Owner."
+    validations:
+      required: true
 
   - type: dropdown  
     id: va-business-owner  
@@ -49,15 +49,26 @@ body:
   - type: dropdown  
     id: crew  
     attributes:  
-      label: "Crew"  
-      description: "Select the crew your team belongs to."  
+      label: "Crew or Pod"  
+      description: "Select the crew or pod your team belongs to."  
       options:  
-        - "Sitewide"  
-        - "Account Experience"  
-        - "Health Tools"  
-        - "Benefit Tools"  
-        - "Lighthouse API"  
-        - "Platform"
+        - "BAM - Education"
+        - "BAM - Memorials"
+        - "Benefits - Accredited Reps Crew"
+        - "Benefits - Cross-Benefits Crew"
+        - "Benefits - Disability Benefits Crew"
+        - "Benefits - Lifestage Benefits Crew"
+        - "DE - Identity"
+        - "DE - Content, IA, and Editor Experience"
+        - "DE - Core Veteran Experiences"
+        - "DE - Platform Services and Governance"
+        - "DE - Veteran-Facing Platforms"
+        - "Health - Clinical Decision Support (CDS)"
+        - "Health - MHV on VA.gov Patient Portal"
+        - "Health - Unified Appointment Experience"
+        - "Health - VA Health Applications"
+        - "Health - VEText Notifications & Misc"
+        - "Lighthouse API"
         - "Other (Specify below)"
     validations:  
       required: true  
@@ -169,4 +180,4 @@ body:
     attributes:  
       label: "Platform Checklist (For Platform Use Only)"  
       options:  
-        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)."  
+        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)."
