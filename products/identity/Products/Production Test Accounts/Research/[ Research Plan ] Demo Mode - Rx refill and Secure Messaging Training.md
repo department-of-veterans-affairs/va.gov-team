@@ -1,4 +1,4 @@
-# Research Plan: MHV Coordinators and Production Test Accounts (PTAs) for Healthcare Workflow Training
+# Research Plan: MHV Coordinators and Call Center Representative - Production Test Accounts (PTAs) for Healthcare Workflow Training and Troubleshooting
 
 ## Background
 This research aims to understand how My HealtheVet (MHV) coordinators and call center representatives currently utilize Production Test Accounts (PTAs) for training and troubleshooting issues, specifically focusing on two key workflows: 1. Veterans refilling prescriptions and 2. secure messaging between providers and Veterans. This round of research will NOT include testing end-to-end testing scenarios for feature development.
