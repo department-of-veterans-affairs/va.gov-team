@@ -50,4 +50,4 @@ Tool | Access | Purpose
 
 
 ### External Dependencies
-The mobile app relies on many external systems in order to retrieve and process data. When any of these systems encounter issues, the mobile app is directly impacted. To see a list of external depenencies, view the [upstream services map](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services/).
+The mobile app relies on many external systems in order to retrieve and process data. When any of these systems encounter issues, the mobile app is directly impacted. To see a list of external depenencies, view the [upstream services map](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services).

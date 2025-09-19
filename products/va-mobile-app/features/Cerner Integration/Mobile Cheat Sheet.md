@@ -46,4 +46,4 @@ Will the data be available in the existing endpoints?
     2. Mobile will need development time to integrate with the new service(s).  Understanding if there will be Cerner specific APIs ( i.e will there be a service to call for VISTA vs. Cerner) and determine how that will factor in UX design. 
     3. We will need to determine how we will want to handle old versions of the app (include new Cerner data or not)
 
-Mobile Service Map:   [https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services)
+Mobile Service Map:   [https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services)

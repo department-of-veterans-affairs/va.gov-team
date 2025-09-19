@@ -6,7 +6,7 @@ The primary duity of the Release Coordinator is to make sure all boxes are check
 
 ### Duties
 
-- Understand the [release calendar](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Releases/)
+- Understand the [release calendar](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/Releases/)
 - Ensure completion of [the release issue](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/10749)
 - Manage the release coordination slack thread ([example](https://dsva.slack.com/archives/C018V2JCWRJ/p1745388755233689))
 - Confirm all relevent issues have been added to the release milestone ([example](https://github.com/department-of-veterans-affairs/va-mobile-app/milestone/17?closed=1))
