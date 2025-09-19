@@ -58,6 +58,11 @@ There are two ways for users with Oracle Health facilities to access this portal
 ## Design / Sensemaking questions around planned tactics to address Method A & B users:
 
 ### Method A
+Planned tactic: 
+* Update existing yellow warning alert banners on tool pages to blue expandable alerts
+  * These alerts will default to a collapsed state at the start of any sign-in session and will need to be expanded manually by users. In order to see the link to the My VA Health portal, users must expand the component.
+* Update existing link text on My HealtheVet on VA.gov landing page to a new solution (TBD - Florence has an upcoming ticket for this) 
+
 Prediction: 
  * Due to the nature of expandable components (like the blue info alert planned for this transition) being more challenging for Veterans to understand / requiring expansion in order to reveal a link to the My VA Health portal, the amount of users who see this tactic + continue to access My VA Health should decrease dramatically
  * However, that is not necessarily _good_. It could indicate sensemaking problems, which are included under "Notes." 
@@ -69,12 +74,18 @@ Notes:
 * Since we can't employ any tactics on the My VA Health portal directly, I am concerned about getting this wrong. I realize we are piloting with a small audience & can learn from them over time / adjust, but just wondering if this is worth a quick study to better understand?
 
 ### Method B
+Planned tactic: 
+* Introduce a new interstitial page into the post-authentication routing flow for these users.
+* Prior to getting to My VA Health (OH portal), they'll hit this page, which will explain that they no longer need the portal & can stay on My HealtheVet on VA.gov instead. The primary call to action on the page is a hyperlink to My HealtheVet.
+* An additional secondary link (lower on the page) will still offer them a route to the My VA Health (OH) portal if they wish to opt out of My HealtheVet for now.
+
 Prediction: 
  * We can predict that the post-authentication interstitial page planned for these users will be viewed ~84-91k times/month
  * Over time, users should get "used to" VA.gov and might learn that they do not need to use the `patientportal.myhealth.va.gov` URL anymore, but many will likely continue to use their existing bookmarks. Thus, this portal will need to have a 301 redirect to `va.gov/my-health` at time of sunset.
 
 Notes:
+ * Users may "opt out" and continue to My VA Health (OH) portal, but change their minds once there and want a way to get to My HealtheVet on VA.gov. Since we are learning that fixes to the UI on My VA Health are a non-starter at this time, it will not really be possible to impact this space & it could be frustrating for users. 
  * We need to make sure that the 9k users with the My VA Health (OH) portal URL who should NOT be routed to My VA Health don't see this interstitial.
- * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
+   * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
 
 ## Questions
