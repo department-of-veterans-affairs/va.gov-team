@@ -1,22 +1,22 @@
 ---
 name: MHV Tier 3 SNOW Issue Template
 about: Issue template for the My HealtheVet development team for further investigation from Tier 3 issues originating in ServiceNow (staff-facing)
-title: 'Clinician - '
+title: 'SM/Admin - '
 labels: MHV-Tier-3, MHV-Secure-Messaging, Liferay/SM Clinician Portal
 assignees: ''
 projects: ["department-of-veterans-affairs/1776"]
 
 ---
 
-## Description
+# Description
 <!-- A brief description of the bug -->
 
-*Original ServiceNow ticket number(s) and link(s):*
+*ServiceNow ticket number(s):*
 
 - [INC#](URL)
 
 
-### Steps to Reproduce
+## Steps to Reproduce
 1. 
 2. 
 3. 
@@ -27,18 +27,21 @@ projects: ["department-of-veterans-affairs/1776"]
 ### Actual Behavior
 <!-- What actually happened -->
 
-### Severity
+### Screenshots
+<!-- Attach any relevant screenshots -->
+
+
+## Severity
 - [ ] Critical - System outage
 - [ ] High - Customer work stoppage
 - [ ] Medium - Resolution when resources are available/Workaround is available
 - [ ] Low - Convenience vs function
 
-### Screenshots
-<!-- Attach any relevant screenshots -->
-
 ## Acceptance Criteria
 - [ ] Identified the cause of the issue
-- [ ] Implemented a fix
-- [ ] Tested the fix
+- [ ] Issue is resolved
+
+## Definition of Done
+- [ ] Meets acceptance criteria
 - [ ] Notified MHV Tier 3 Support of resolution
 
