@@ -9,7 +9,7 @@
 * Currently, we have been using Google Analytics (GA) definition of an active user, which counts any user logging any app event with the app in the foreground of their device. This will include people who experience a log-in failure and get no further. If we rely on this definition, we will be overcounting users.
 * It also appears that our event tracking for log-in success is not triggered when a user logs in with biometrics. If investigation shows this to be true, relying on on app events for log-in success will be under counting.
 * Some supporting data may live in our API call logs or those from the SIS team; Greta is currently getting up to speed on Datadog and what's possible there.
-* [VA Mobile Docs Auth Diagrams](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/Architecture/Auth%20Diagrams/) is the best diagram of what we're trying to understand around this problem area and does not include what app events/pages are involved or specific API calls.
+* [VA Mobile Docs Auth Diagrams](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Auth%20Diagrams) is the best diagram of what we're trying to understand around this problem area and does not include what app events/pages are involved or specific API calls.
 * Our documentation also lacks updates for SIS (only covers IAM).
 
 This all affects our ability to accurate count users who are actually encountering log in issues as well as a reliable definition of an engaged user to evaluate specific beahviors against. 
@@ -99,5 +99,5 @@ Based on the figures below, it is estimated that our current log-in tracking in 
 * What do we need to learn before moving forward?
 
 ## Important Links
-* [VA Mobile Docs Auth Diagrams](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/Architecture/Auth%20Diagrams/)
+* [VA Mobile Docs Auth Diagrams](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Auth%20Diagrams)
 * [Mural](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1683549939459/7c483ce1fab59d45a89cb420d42d0e0294289b23?sender=u955e947bb617e3eae45a5638)

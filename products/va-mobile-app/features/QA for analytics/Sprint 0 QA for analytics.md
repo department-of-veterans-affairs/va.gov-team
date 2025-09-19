@@ -126,4 +126,4 @@ What metrics can we watch to see if our efforts are reaching the desired outcome
 
 * [Enable analytics testing in staging #6363](https://app.zenhub.com/workspaces/va-mobile-60f1a34998bc75000f2a489f/issues/gh/department-of-veterans-affairs/va-mobile-app/6363)
     * This ticket was spun up before the team realized the need for a Sprint 0 before moving forward given the need to perform a true spike in determining the best technical approach and impacts on QA resources.
-* [Documentation on debugging in Firebase](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/App%20metrics/Firebase/#debugview)
+* [Documentation on debugging in Firebase](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/Metrics/Firebase)

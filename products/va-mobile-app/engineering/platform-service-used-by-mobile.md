@@ -22,7 +22,7 @@ best practices such as versioning and hosted business logic.
 
 ## DataDog
 
-**Purpose**: [How the mobile team uses DataDog](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/DataDog/)
+**Purpose**: [How the mobile team uses DataDog](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/DataDog)
 
 **Comments**: No scaling issues identified at this time. Some headaches getting access though.
 
@@ -48,13 +48,13 @@ are no usage guidelines or expectations documented. Probably something we need t
 
 ## Sentry
 
-**Purpose**: [How the mobile team uses Sentry](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/Sentry)
+**Purpose**: [How the mobile team uses Sentry](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/Sentry)
 
 **Comments**: Sentry has general scaling issues not related to mobile specifically. Access is a bit of a pain.
 
 ## TestRail
 
-**Purpose**: [How the mobile team uses TestRail](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/Resources#testrail)
+**Purpose**: [How the mobile team uses TestRail](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/SetUp/DevelopmentSetUpProcess/QA%20resources/#testrail)
 
 **Comments**: We were asked to share accounts for this. Most of the team was able to navigate around 
 that in a batch request, but since then we’ve been asked to share logins

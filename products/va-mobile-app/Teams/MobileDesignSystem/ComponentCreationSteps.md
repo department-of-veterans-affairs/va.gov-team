@@ -2,7 +2,7 @@ The Mobile Design System team has established a set of standard steps for creati
 
 Resources:
 - [Component Master List](https://docs.google.com/spreadsheets/d/1_EAH2LWSzwF8Om7o4LAYJf6gT9UWENANYpF7SZy3j8w/edit?usp=sharing)
-- [Mobile DS Documentation](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Intro)
+- [Mobile DS Documentation](https://design.va.gov)
 
 
 ## Component creation Steps:
@@ -202,7 +202,7 @@ After the component is built in Storybook and reviewed by UX and Accessibility, 
    - [ ] Publish component
 - [ ] Update doc site
    - [ ] Update Storybook and Figma links in [Component Name] documentation in Design System section
-   - [ ] Remove [Component Name] documentation from [Flagship section](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Components/Overview)
+   - [ ] Remove [Component Name] documentation from [Flagship section](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Intro)
      
 
 ____________________________________________________________________________________

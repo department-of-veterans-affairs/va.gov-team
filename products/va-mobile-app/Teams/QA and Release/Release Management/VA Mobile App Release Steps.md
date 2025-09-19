@@ -10,7 +10,7 @@
 ## Documents: 
 - [Github Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/releases)
 - [Sprint and Release Calendar through EOY 2023](https://docs.google.com/spreadsheets/d/14jYcB3zhib3T9jyQjNpsfPLkAAqhLdAhXBPUQtsodgI/edit#gid=604215796)
-- [Incident Response documentation](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Incident%20Response/)
+- [Incident Response documentation](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Incident%20Response)
 - Past release tickets for example purposes
      [1.40.0](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/4669), 1.39.0, 1.36.0
 - Can find others by searching in Slack with keywords Release or specific number

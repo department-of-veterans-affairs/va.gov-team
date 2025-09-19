@@ -23,27 +23,6 @@ These resources explain the key elements of the VA mobile app, including the app
 
 
 ### [VA Mobile Doc site](https://department-of-veterans-affairs.github.io/va-mobile-app/)
-* [**App navigation model & screentypes**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Templates/Overview) 
-* [**Information architecture**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Information-Architecture)
-    * Principles, app taxonomy & sitemap, and guidance on adding new items/features to the VA mobile app.
-* [**Content style guide**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Flagship%20design%20library/Content/content-style-guide)
-    * [VA.gov content style guide](https://design.va.gov/content-style-guide/)
-    * [VA content and plain language best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)
-* [**Mobile Design System**](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Intro)
-    * [For designers](https://department-of-veterans-affairs.github.io/va-mobile-app/design/About/designers)
-    * [Foundation](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Foundation/)
-    * [Components](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Components/Alerts%20and%20progress/Alert)
-* [**A11y in Native Mobile: Overview**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/)
-    * [Accessibility Checklist for UX Designers](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/a11y-checklist-ux-designers)
-    * [Accessibility Testing Plan](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/testing-plan)
-    * [Native mobile app accessibility resources](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/resources)
-* [**Research**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Research/)
-    * You can view our [research repo in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux) (if you don’t have Github access reach out to Tim Wright)
-    * [VA Mobile Feedback Hub](https://feedback-hub-e659c24714b9.herokuapp.com/) scrapes data from Reddit, Google Play Store reviews, and Apple App Store reviews and makes it searchable
-    * [Conducting remote research w pre release production app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/ux/research-operations/research-pre-release-prod-app-build-how-to.md)
-* [**Misc UX Resources**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Resources) Design & Research (How we use Figma, Balsamiq, Mural, where files live, etc)  
-* [**How the VA mobile app design team works**](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/How-We-Work/)
-    * Includes links to how we work with others, designing the UI, Figma information, etc.
 
 
 ### VA Mobile App Figma Project

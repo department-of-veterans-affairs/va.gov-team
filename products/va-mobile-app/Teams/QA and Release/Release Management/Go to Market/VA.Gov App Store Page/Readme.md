@@ -16,7 +16,7 @@
  
 
 ## How to update 
-- Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Updating%20the%20App%20Stores)
+- Follow steps here to get new images [Updating the app stores Va Mobile Docs ](https://department-of-veterans-affairs.github.io/va-mobile-app/)
 - Currently used [Va.Gov App Store iPhone Images ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Images%20In%20Use)
 - Currently used [Va.gov App Description Word Doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/Teams/QA%20and%20Release/Release%20Management/Go%20to%20Market/VA.Gov%20App%20Store%20Page/Current%20App%20Description)
 - Content to update App description (see Github)

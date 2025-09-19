@@ -6,7 +6,7 @@ Action Items:
 
 **Mobile**
 - Share all of the raw data that we know about a single appt (info that is shared and not shared with the front-end)
-- Documentation link shared in meeting https://department-of-veterans-affairs.github.io/va-mobile-app/api/#operation/getAppointments
+- Documentation link shared in meeting https://department-of-veterans-affairs.github.io/va-mobile-app/api/#/paths/~1v0~1appointments/get
 
 **CIE**
 - Provide example responses for demographics fetch and patch, as well as appointment check in

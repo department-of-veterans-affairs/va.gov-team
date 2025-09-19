@@ -11,12 +11,7 @@
 
 ### Monthly app store reviews
 
-*Brea wrote an excellent “how to” guide for completing app store reviews; it is located on the [Doc site](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Research/montly-reviews). What we’ve included here is information supplemental to that guide.*
-
-  
-#### Tagging reviews:
-    
-*   We added a definition for each of the tags as part of the work with the AI Tech Lab. You can find the definitions [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/reporting/App-Stores-Reviews/Tag%20Definitions); they are also linked from the top of the table in the Primary Tag List tab at the end of the [App Store Reviews 2024 - VA Health and Benefits](https://docs.google.com/spreadsheets/d/1Lj65hvWUkdTpmpvsObOOD2hjG8CHAiQ7z0mCeowabh0/edit?usp=sharing) tabs.
+*Brea wrote an excellent “how to” guide for completing app store reviews; it is located on the [Doc site](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/Metrics/Monthly%20app%20store%20reviews). What we’ve included here is information supplemental to that guide.*
     
 *   As you tag reviews, pay special attention to ones that may be bugs and pass on any relevant information to QA. These tend to be tagged “performance” or “login”. This process may need to change as the algorithm becomes more accurate and the tagging process is less hands-on.
     
@@ -66,10 +61,6 @@
 *   All research associated with VA.gov is posted to the [VA.gov Research Repository in Github](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2) (including links to native mobile app study findings)
     
 *   VA.gov is currently conducting a pilot to evaluate moving the research repo into the tool EnjoyHQ. They are also inviting other teams to add research and make it more of a VA-wide repository. To get access EnjoyHQ reach out to Shane Strassberg, the OCTO Research-Ops Lead, or ask in the #enjoyhq channel in DSVA Slack.
-    
-*   There is detailed information about analyzing app store review in this document, but the key place to start is Brea’s thorough guide on the [Doc site](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/UX/Foundations/Research/montly-reviews)
-
-  
 
 ## Conducting new research on the native mobile app at VA
 
@@ -78,4 +69,4 @@
   
 *   We work with VA.gov for Veteran research because they have a contract with a company called Perigean to handle all aspects of recruiting participants. You can learn all about the process for conducting research with VA.gov on the [VA Platform website](https://depo-platform-documentation.scrollhelp.site/research-design/).
     
-*   Here are some resources specific to conducting research on the mobile app: [Conducting research using a pre-prod app build](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/research-operations) and [Helpful tips for running an accessible research session](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/Accessibility/a11y-research-session-help/)
+*   Here are some resources specific to conducting research on the mobile app: [Conducting research using a pre-prod app build](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/ux/research-operations) and [Helpful tips for running an accessible research session](https://department-of-veterans-affairs.github.io/va-mobile-app/development/QA/QA%20process/Accessibility%20Testing%20Plan)
