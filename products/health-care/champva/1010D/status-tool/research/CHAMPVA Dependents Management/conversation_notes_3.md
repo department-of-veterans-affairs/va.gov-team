@@ -39,4 +39,4 @@ Participant: Luke L. (IVC, Contact Center Deputy Chief CHAMPVA), Nohelia P. (con
 - backlog of school certificates for several semesters back
 - hold times are still one hour+, most calls are for status, OHI updates, and school certs AND OHI updates are a majority of these calls
 
-[shared 4 Knowledgebase Management articles on call center processes]
+Shared 7 Knowledgebase Management articles on call center processes. [Link to files in Sharepoint.](https://dvagov.sharepoint.com/:f:/r/sites/vaivc/Shared%20Documents/Forms%20Modernization/10-10D%20(Champ%20VA%20application)/Design/Dependents%20Management%20SME%20Resources?csf=1&web=1&e=asE3Rk)
