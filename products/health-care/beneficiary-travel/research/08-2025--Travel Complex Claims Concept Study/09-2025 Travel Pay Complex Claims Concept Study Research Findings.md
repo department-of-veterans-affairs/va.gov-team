@@ -164,7 +164,7 @@ Our goals were to:
 ## Details of Findings 
 
 ### Finding 1: All participants (13 out of 13) successfully navigated both design concepts and generally provided positive feedback.
-At the end of each version, participants were asked to rate the ease of use on a scale of 1 to 10 (1 being the easiest). 12 out of 13 participants ranked both prototypes between a 1 and 3 and confirmed that they understood what was being asked of them. One participant ranked Version B as a 4, due to concerns about accessibility and noted that the pages at the beginning were not 508 compliant. This participant ranked Version A as a 3, due to it having fewer steps than Version B.     
+* At the end of each version, participants were asked to rate the ease of use on a scale of 1 to 10 (1 being the easiest). 12 out of 13 participants ranked both prototypes between a 1 and 3 and confirmed that they understood what was being asked of them. One participant ranked Version B as a 4, due to concerns about accessibility and noted that the pages at the beginning were not 508 compliant. This participant ranked Version A as a 3, due to it having fewer steps than Version B.     
 > “The flow is excellent. The usability of this is really solid. The backbone is good.” - P10, after reviewing Version B first
 
 > “I would say it was a 1. It seemed extremely, you know, self-explanatory, and it's, you know, easy enough to go from screen to screen, whereas with the BTSSS, you know, we're not… we're not going from screen to screen.” - P9, after reviewing Version A first
@@ -172,18 +172,91 @@ At the end of each version, participants were asked to rate the ease of use on a
 > “I have a tough time identifying anything that was confusing. I thought… It was effective.” - P12, after reviewing both versions   
 
 ### Finding 2: Overall, participants (7 out of 13) expressed a preference for Version B, and specifically preferred seeing the expense categories. 
-Although there was an extra step in Version B, 7 out of 13 participants stated that they preferred it over Version A. Those who liked version B said they appreciated the list of expense categories they could choose from. A few (2 of 13) specifically mentioned the upload categories and acknowledged the additional prompt to upload receipts by expense category would help them remember to upload all their evidence. Those who preferred A (4 out of 13) noted it was less busy and had fewer steps. 2 out of 13 participants had no preference and found both versions to be similarly easy. 
+* Although there was an extra step in Version B, 7 out of 13 participants stated that they preferred it over Version A. Those who liked version B said they appreciated the list of expense categories they could choose from. A few (2 of 13) specifically mentioned the upload categories and acknowledged the additional prompt to upload receipts by expense category would help them remember to upload all their evidence. Those who preferred A (4 out of 13) noted it was less busy and had fewer steps. 2 out of 13 participants had no preference and found both versions to be similarly easy. 
 
 > "The first one (Version B) enumerated tolls and parking and that helped to keep that square to where I didn't have to remember anything." - P10
 
 > "Well, I liked the idea where I was able to … take, like, vehicle, toll, and parking. So, when I went here to look at my review, it reminded me of those 3 things that I had submitted for my reimbursement." - P7
 
 > "I think initially I did prefer A, but as soon as I saw there was more to this one, and it was organized differently, but I think that's just because I was already trying to compare it against what I just saw, but, you know. I'm thinking that this is a little bit tighter organized. I think it's better." - P3
- 
-## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+### Finding 3: Most (10 of 13) Participants voiced concerns about gathering and uploading receipts. 
+* The greatest area for concern was around collecting and uploading receipts for the different expense types, especially tolls. Participants noted that they often did not have physical receipts after using toll roads and would have an additional step that would require them to locate and download a toll receipt before they would be able to successfully submit for reimbursement.
+
+> "Just uploading those receipts could be a little bit… again, even the toll receipt, as I shared with you, about everybody going ticketless, I don't know how you're going to...you don't get a ticket, you don't even get a receipt when you go through the toll." - P7
+
+* Participants also expressed concerns about the process to digitally capture receipts through scanning or taking a picture and the corresponding file types. One participant with low vision also expressed concerns about accessibility. Another participant commented that it would be frustrating to have to convert HEIC files (the default iOS phone file type, which is not an accepted file type), and another participant was concerned that the file size limit was too small.   
+
+> “So you're at this, you know, you have to take a picture, scan it, and send it to your phone, and go from there. So I, on my phone, and my wife helped me with this, she'll take the…because I can't see very well with the small screen, even though I have a large cell phone." - P7
+
+> "You know, the pictures are on my phone, but my phone, the files are HEIC, they don't accept that, so I gotta email it or convert the file to something, something to get it on…a lot of frickin' stuff it's asking for, you know? Unless there's an app, and you can do it on your phone, and upload attachments and whatever there." - P11
+
+> "They tend to have really large file sizes, and I do get this error message when I try to, you know, upload something that is larger file size, and then I have to try and figure out how to convert it. [...] Sometimes you get that error message saying, nope, this file is. It's too big. Got it, okay. I have no idea what makes a file big versus what doesn't." - P13
+
+### Finding 4: Most participants (9 of 13) reported some confusion with the wording and content related to mileage and their total payment.
+* Some participants reported confusion about the term “mileage,” if it included gas, and if a gas receipt was required.
+
+> "I guess you don’t get paid for gas. I’ve never filled out a form. I guess I better get a receipt from the convenience store or wherever I’ve filled up, to get a receipt for gas.” - P1
+
+> “What does gas ‘mileage’ mean? I think it's very confusing.” - P3
+
+* In addition, there was a lack of clarity around what “estimated” meant, and if it accounted for the deductible.
+
+> “I’m wondering about that ‘estimated’ word.” - P8
+
+> “They don't show the $6 deductible. It says ‘Total estimated.’ Maybe [that accounts for] the deductible." - P14
+
+### Finding 5: Participants expressed a desire for continued communication and visibility about their claim post-submission.
+* Many participants expressed that they would save the confirmation number displayed on the page.   
+
+> “I would take a picture of this because I lose paper. So that if I don’t get my reimbursement in the timeframe, I can call and reference this number to find out what’s going on. I do this once a week, so I submit multiple appointments when I log in.” - P13
+
+> “The only thing is unless I take a screen shot, I don’t know if I would get an email or text message with that confirmation number. Otherwise I would take my screen shot to have it.” - P9
+
+> “[I see a] confirmation number. If you are smart, you are going to take this and print and hold it until you have to find out what happened. If it's past 5-7 business days they are gonna ask you for this confirmation number to verify this. It is smart to either print it or put it into PDF and put it on your computer until you see reimbursement come from the bank.” - P7
+
+* Many participants also expressed that they expected VA would email them a confirmation that their claim had been received.   
+
+> “It'd be cool if it sent you a receipt, like a submission receipt. You’d get pinged back with an email that your submission was received. That’d be cool because you could reference that. It’d tell you it was submitted successfully.” - P11
+
+> “[After submission, VA will] probably send me an email with the information on this screen.” - P12
+
+> “The confirmation number… I want to be able to copy it, or print the page, or save it as a .pdf, or send it to my email. Although I know it all comes back to the confirmation number, I would like multiple ways to take it off the page. Instead of thinking, ‘God, did I save that webpage?’” - P8
+
+* Participants wanted to have visibility into the status of their claim. One participant expected to see a link to a dashboard with their claim status[es] on the confirmation page.   
+
+> “I assume that there would be some kind of BTSSS-type dashboard that I can go into later and see all my travel claims and check on status. I’m assuming so… or there should be. It’s very useful in BTSSS. I probably had 15-20 claims in one month, so it’s good to have that dashboard.” - P9
+
+* Participants wanted to be able to contact claims-specific support at VA in case they needed help. Additionally, they wanted the phone number to connect to a specific department or office that could help them with their issue.   
+
+> “If I need help with this particular claim I would think I need to call my specific travel center. If I get a hold of big VA they will shrug their shoulders and say get a hold of the local office… Make sure it is a good contact number otherwise you're gonna get complaints about it.” - P9
+
+> “If I need help contacting the VA, here is the phone number. That should be on every page.” - P3
+
+
+## Additional Insights
+1. The prototype simulated a file upload and populated the receipt metadata (i.e. date, amount, etc.) in order to save time during the study. With some participants, we probed how they imagined the data was populated: did they expect the fields to be automatically filled by the system or manually input by the user? The responses from participants were mixed; some thought that they would need to populate the fields themselves, while others expected that the fields would be populated for them after they uploaded their receipt.   
+* 8 out of 13 participants expressed that they expected at least some of the metadata would be automatically populated; however, it’s possible the prototype design was a big influence in this factor as it seemed to autopopulate and could have influenced their perception.
+
+2. Some participants (3 of 13) expressed concerns about submitting claims for appointments that do not appear in their past appointment list, like community care appointments.
+> “So the only thing that’s not on here that I was expecting to see is, what if my appointment’s not listed here? The ‘click to add appointment’ button. In the travel system, I have to manually enter them and then add the confirmation that I have been. So not seeing that on the first page like I do normally, I would wonder if I would not get reimbursed for community care visits.” - P13
+
+> "If your community care appointments are not in the system, you can’t get reimbursed. It is so hard and you almost give up because it just isn’t worth the stress to try to get what you are entitled to." - P7
+
+> "Those appointments don’t show. I have to create the appointment as a missing appointment. So I just recreated the appointment as if I never created it and then wrote a note explaining the situation. I certainly wasn’t going to go through the VA appeal process. It seemed too complicated; just file a new claim, let them figure it out." - P9
+
+3. Participants who have filed for travel pay in the past, either using simple mileage only claims (SMOC) or the Beneficiary Travel Self Service System (BTSSS) portal, provided anecdotes about their experience, both positive and negative.
+* 7 out of 13 participants had filed for travel reimbursement online in the past, while 1 participant said that they filed years ago, when it was a paper process. 5 out of 13 participants had never submitted for reimbursement.
+
+* We believe that their experience with these systems influenced how they viewed the prototypes we presented. [QUOTE HERE]
+
+> Placeholder
+
+* People who used the mobile app to submit for mileage only had very positive things to report.
+
+> “Now with the app on the phone, it says, you go past appointments, you click it on the phone, and it showed that app, we just hit it and it took care of the filing for mileage, so that…That doesn’t get any easier.” - P14
+
+* One participant reported using the app to file for mileage on a trip, and then filed a separate claim on the same trip in BTSSS for the tolls. The second claim was initially denied and the participant called to have it reviewed again. 
 
 ## Recommendations
 
