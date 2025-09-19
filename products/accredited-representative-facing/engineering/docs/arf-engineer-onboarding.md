@@ -16,7 +16,7 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 ## Deeper Technical Discovery
 
 - [ ] **Explore** [ADRs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/engineering/ADRs)
-- [ ] -**Explore** [Tech specs *these are in the non-public repo*](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/accredited-representative-facing)
+- [ ] **Explore** [Tech specs -these are in the non-public repo-](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/accredited-representative-facing)
 facing/engineering/ADRs/arp-architecture-intent-meeting.md) is a key one to spend time with!
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
 - [ ] **Explore** [Exercising BGS's POA request APIs - an example of how to test backend systems, not required](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/docs/exercising_BGS_POA_request_apis.md). 
