@@ -3,6 +3,11 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 ### Running Agenda
 
+10/02/2025
+* Laura's questions section:
+  * Sandbox homepage?
+  * No search homepage?
+
 09/18/2025
 * Welcome and stage setting
   * Discuss meeting purpose
