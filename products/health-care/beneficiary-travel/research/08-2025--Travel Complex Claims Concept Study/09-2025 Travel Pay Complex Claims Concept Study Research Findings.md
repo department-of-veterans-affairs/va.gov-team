@@ -144,54 +144,42 @@ Our goals were to:
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
+- **Hypothesis Statement:** [We hypothesize that participants will prefer option B, where the expense categories are listed separately]  
+  - **Likely True** - 7 out of 13 participants said they preferred B, while 2 said that A and B were the same to them. Although this model added an extra step of identifying expense categories, participants said they preferred it because it prompted them to upload all of their required receipts, and helped ensure that they wouldn’t omit any receipts necessary to get reimbursement. 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
+1. All participants (13 of 13) successfully navigated both prototypes and provided positive feedback.
+* Most appreciated guidance about how to prepare ahead of time, as well as the clear steps presented at the top of the flow. Several referenced these steps as they progressed, using them to track their place in the process.
+2. Overall, more participants (7 of 13) expressed a preference for Version B, and specifically noted that the receipts organized by category were helpful. 
+* While 4 out 13 participants liked Version A, the streamlined prototype with fewer steps, the majority of participants preferred being individually prompted for receipts for each expense category they indicated—even if it required additional steps.
+3. Most (10 of 13) participants voiced concerns about gathering and uploading receipts.
+* Some participants expressed difficulty in finding and uploading receipts, with toll receipts posing a particular challenge. File size and format limitations were also a concern (e.g. questions about accepting HEIC files).
+4. Most (9 of 13) participants reported some confusion about content, especially related to mileage and their total estimated payment.
+* Participants were unclear about certain terminology and requirements, including whether mileage calculations include gas, whether receipts are required for mileage, the meaning of their "estimated” payment, and how deductibles are applied or included in that payment.
+5. Participants had clear preferences for continued communication and visibility about their claim post-submission.
+* Participants appreciated seeing a confirmation number after submission, and expected that VA would email them a confirmation after submission. They also expected a dashboard to track their claim status and a phone number to communicate with VA if they ran into issues. 
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
+### Finding 1: All participants (13 out of 13) successfully navigated both design concepts and generally provided positive feedback.
+At the end of each version, participants were asked to rate the ease of use on a scale of 1 to 10 (1 being the easiest). 12 out of 13 participants ranked both prototypes between a 1 and 3 and confirmed that they understood what was being asked of them. One participant ranked Version B as a 4, due to concerns about accessibility and noted that the pages at the beginning were not 508 compliant. This participant ranked Version A as a 3, due to it having fewer steps than Version B.     
+> “The flow is excellent. The usability of this is really solid. The backbone is good.” - P10, after reviewing Version B first
 
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+> “I would say it was a 1. It seemed extremely, you know, self-explanatory, and it's, you know, easy enough to go from screen to screen, whereas with the BTSSS, you know, we're not… we're not going from screen to screen.” - P9, after reviewing Version A first
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+> “I have a tough time identifying anything that was confusing. I thought… It was effective.” - P12, after reviewing both versions   
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+### Finding 2: Overall, participants (7 out of 13) expressed a preference for Version B, and specifically preferred seeing the expense categories. 
+Although there was an extra step in Version B, 7 out of 13 participants stated that they preferred it over Version A. Those who liked version B said they appreciated the list of expense categories they could choose from. A few (2 of 13) specifically mentioned the upload categories and acknowledged the additional prompt to upload receipts by expense category would help them remember to upload all their evidence. Those who preferred A (4 out of 13) noted it was less busy and had fewer steps. 2 out of 13 participants had no preference and found both versions to be similarly easy. 
 
----
+> "The first one (Version B) enumerated tolls and parking and that helped to keep that square to where I didn't have to remember anything." - P10
 
+> "Well, I liked the idea where I was able to … take, like, vehicle, toll, and parking. So, when I went here to look at my review, it reminded me of those 3 things that I had submitted for my reimbursement." - P7
+
+> "I think initially I did prefer A, but as soon as I saw there was more to this one, and it was organized differently, but I think that's just because I was already trying to compare it against what I just saw, but, you know. I'm thinking that this is a little bit tighter organized. I think it's better." - P3
+ 
 ## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
