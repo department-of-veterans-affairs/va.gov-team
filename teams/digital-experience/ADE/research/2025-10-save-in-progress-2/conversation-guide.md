@@ -19,7 +19,7 @@
   1. See "Setting up your codespace", and a browser tab w/command window
   1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
   1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
-  1. Open standalone browser window with prototype: **https://bit.ly/4lXVLTV** (https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false) and test it
+  1. Open standalone browser window with prototype: **https://bit.ly/TBD** (~~https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false~~) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Slack Perigean notetaker a link to the notes doc in GitHub
 - Post p# and "observer instructions" in #feedback-backchannel
@@ -135,7 +135,8 @@ Let’s start with a few questions...
     - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / none / __________*
 
 1. Have you ever filled out a VA form online before? 
-   - If so, can you tell me about your most recent experience? How did it go?
+   - If so, can you tell me about your most recent experience? 
+   - How did it go?
 
 
 # User Tasks
@@ -159,10 +160,10 @@ We can help guide you through this if you need help. Please say what you're doin
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/4lXVLTV** -- after 4 is the lower case letter "L"
+I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/TBD** 
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
-- Alex’s backup codespace: https://bit.ly/3Z3Xc9j
+- Backup codespace: https://bit.ly/TBD
 
 Did you get the link? 
 
@@ -173,24 +174,38 @@ Please click the (green) "Continue" button.
 
 **You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
+## Task 1: Find Form to fill out
+[start on unauthenticated VA.gov page]
 
-## Task 1: Form intro page
-[start on unauthenticated form intro page]
+I'd like you to fill out a VA form to request your own military records. How would you start? 
 
-I'd like you to take a look at this page, and then use it to get your military records.
+Please **talk aloud** about what you're thinking BEFORE clicking on anything. 
 
-Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, or questions** you have about the current web page.
+**[need to facilitate the 2 paths in the beginning flow]**
+
+### Path 1A: Participant signs in before finding form
+
+[If p says that they'd sign in, let them click --> Sign in --> My VA]
+
+### Path 1B: Participants finds form before signing in
+
+
+
+
+
+
+
+**(If can’t see zoomed screen)** Is your screen zoomed in? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
+
+## Task 2: Start your request from Auth Intro Page
+
+Please share any **thoughts, reactions, or questions** you have about the current web page.
 
 [Sign in to start your request > Start your request; *must use enter, not space*]
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
 
-### Watch for:
-- [Notice "You can save this request" light blue alert? Y / N]
-
-**(If can’t see zoomed screen)** Is your screen zoomed in? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
-
-## Task 2: Fill out form [never reload the page]
+## Task 3: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
@@ -230,19 +245,13 @@ OK, now let's say that you're back from answering the door. Please resume fillin
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
-- [Anything re saving info entered]
-- [See if go back to previous page to remember what they were doing]
-- [Anything re the progress bar? Steps vs. screens?]
-- [Anything re error messages? If so:
-  - Do they know what the error means?
-  - Do they know how to resolve the error?
-  - How do they want to find out about errors?] 
+- 
 
 
 
 
 ## Task 5: (After specify records, after Continue) Long break in filling out form
-Say that you're really hungry and need to take a longer break to make a snack/lunch/dinner. What will you do with the form that you're filling out?
+Say that you're hungry and need to take a break to make a snack/lunch/dinner. What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
 
@@ -258,7 +267,7 @@ Say that you're really hungry and need to take a longer break to make a snack/lu
 *[If see “Uncaught runtime errors”, close with “X” (label “dismiss”) in top right corner, Leave site if prompted. Check my browser window to see if codespace shut down. If so, restart it.
 Then have them click on the Apple button to resume/start over.]*
 
-## Task 6: Resume filling out form (again)
+## Task 6: Resume filling out form 
 OK, pretend that you just finished your snack/lunch/dinner. Now you want to get back to the form you were filling out. How would you do that?
 
 [Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
@@ -270,11 +279,6 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
 ### Watch for:
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
-- [Anything re the progress bar? Steps vs. screens?]
-- [Anything re error messages? If so:
-  - Do they know what the error means?
-  - Do they know how to resolve the error?
-  - How do they want to find out about errors?] 
 
 [If see "can't submit your request" alert, say:] Don't worry! It's not working because this is a prototype, not a real form.
 
