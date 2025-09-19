@@ -2,6 +2,19 @@
 Prior to integration
 
 
+## Who can access the My VA Health portal? 
+* Only users who received care at 1 or more of the following facilities (which utilize the Oracle Health EHR system) can get to the My VA Health portal. This patient-facing portal is the current front-end user experience for these facilities, but VA is working to transition users over to the My HealtheVet on VA.gov experience and phase out the My VA Health portal by 2027. 
+
+OH Facilities that use the My VA Health patient portal: 
+| Facility name | Facility location |facility_id |
+|-----|------|-------|
+| Chalmers P. Wylie Veterans Outpatient Clinic | Columbus OH | VHA_757 |
+| VA Roseburg Healthcare System | Roseburg OR | VHA_653 | 
+| Jonathan M. Wainwright Memorial VA Medical Center | Walla Walla OR | VHA_687 |
+| White City VA Medical Center | White City OR | VHA_692 |
+| Mann-Grandstaff Department of Veterans Affairs Medical Center | Spokane WA | VHA_668 |
+| Captain James A. Lovell Federal Health Care Center | North Chicago IL | VHA_556 |
+
 ## Methods to accessing the My VA Health (OH) portal
 There are two ways for users with Oracle Health facilities to access this portal: 
 * **Method A** - Sign into VA.gov -> Go to My HealhteVet -> click on a My VA Health link from a My HealtheVet page -> land on My VA Health
