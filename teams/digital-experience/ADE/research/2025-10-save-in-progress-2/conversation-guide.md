@@ -181,43 +181,39 @@ I'd like you to fill out a VA form to request your own military records. How wou
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything. 
 
-**[need to facilitate the 2 paths in the beginning flow]**
+**(If using screen magnifier but can’t see zoomed screen over Zoom)** Is your screen magnified? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
 
 ### Path 1A: Participant signs in before finding form
 
-[If p says that they'd sign in, let them click --> Sign in --> My VA]
+[If p says that they'd sign in, let them click --> **Sign in** --> My VA]
 
-### Path 1B: Participants finds form before signing in
+[What do they want to do next?]
 
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apple** button at the top of the page [to auth intro page and Task 2]
 
+### Path 1B: Participant finds form before signing in
 
+[What do they want to do next?]
 
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Lemon** button at the top of the page [to unauth intro page].
 
+[**Sign in to start your request**]
 
+## Task 2: Start your request [from Auth Intro Page]
 
-**(If can’t see zoomed screen)** Is your screen zoomed in? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
+Please share any **thoughts, reactions, or questions** you have about the current page.
 
-## Task 2: Start your request from Auth Intro Page
-
-Please share any **thoughts, reactions, or questions** you have about the current web page.
-
-[Sign in to start your request > Start your request; *must use enter, not space*]
+[**Start your request**]
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
 
 ## Task 3: Fill out form [never reload the page]
-Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
+Please fill out this form to request your own military records, but I want you to make up fake details so you don't share your personal information with me. 
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
 - [Notice "We'll save your application on every change"? Y / N]
-- [Anything re the progress bar? Steps vs. screens?]
-- [Anything re error messages? If so:
-  - Do they know what the error means?
-  - Do they know how to resolve the error?
-  - How do they want to find out about errors?] 
-- [Any issues w/field validation on VA file number?]
 
 [Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
 
