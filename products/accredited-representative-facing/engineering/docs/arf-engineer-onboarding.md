@@ -23,15 +23,9 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 - [ ] **Explore** [ARF Engineering Canvases](https://dsva.slack.com/docs/T03FECE8V/F06HU14UKQC)
 
 
-## Zenhub
+## GitHub Issues
 
 📌 TODO: Add the currently prioritized epics.
-
-Below are the essential ARF engineering epics. 
-
-- [ ] [Accept/Deny Power of Attorney Requests](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/78472)
-- [ ] [ARF Authentication](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/75746)
-- [ ] [ARF Digital 21a](https://app.zenhub.com/workspaces/accredited-representative-facing-team-65453a97a9cc36069a2ad1d6/issues/gh/department-of-veterans-affairs/va.gov-team/83627)
 
 ## DSVA Slack Channels
 
