@@ -153,7 +153,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 |UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|--|--|
 |UX: Investigate, identify and work with stakeholders on ways to improve the Marital Status question on the FSR, to cover all situations/scenarios referenced in the Medallia reports.| QP7 |--|--|--|
-|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|--|--|
+|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|9/22/25|Completed|
 |ENG: Complete all remaining One Thing Per Page work and book Staging Review.| QP2 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
