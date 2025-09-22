@@ -1,7 +1,11 @@
 # IA Design for Appointments
-**STATUS: In Progress**
 
 **Team:** Appointments
+Last updated: Sept 22, 2025
+
+**Change log**
+* September 15, 2025: Appointments will introduce an "interstitial" page concept into the scheduling flow, so that Veterans understand upfront not to use this tool for scheduling emergency care. Currently, the scheduling flow has an empty directory at /appointments/schedule and we will take that URL so that it is no longer empty. The interstitial will be the "top" of the scheduling flow. 
+
 
 **On this page:**
 - [Page structure](#map)
