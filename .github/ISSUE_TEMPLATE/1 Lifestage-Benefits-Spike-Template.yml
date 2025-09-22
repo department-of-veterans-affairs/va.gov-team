@@ -1,7 +1,7 @@
 
 name: Lifestage Benefits Team Spike Template
 description: Spikes for Lifestage Benefits Team 
-labels: ["lifestage LSS", "dependents-benefits", "pension", "Burial",  "Income & Asset"]
+labels: ["needs-refinement"]
 projects: 
 - department-of-veterans-affairs/1237
 type: Spike
