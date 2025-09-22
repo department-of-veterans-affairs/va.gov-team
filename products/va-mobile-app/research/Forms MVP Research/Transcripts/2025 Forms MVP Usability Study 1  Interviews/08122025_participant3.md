@@ -91,18 +91,54 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> iPhone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> iOS
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Safari
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
+
+> Yes
+
+<br>
+
    - If so, can you tell me about your most recent experience? How did it go?
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+
+> Yes
+
+<br>
+
+   - If so, can you tell me what you use the mobile app primarily for? 
+
+> Uses to checkin upon arrival at facility, travel reimbursements, and to check secure messaging between self and providers.
+
+<br>
+
+- How has your experience been so far?
+
+> It’s actually pretty good.
+
+<br>
 
 
 # User Tasks
@@ -121,6 +157,8 @@ We can help guide you through this if you need help. Please say what you're doin
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
+**Participant noted being unable to see themself or me upon sharing screen.**
+
 ## Task 00: Open prototype
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
@@ -131,6 +169,10 @@ N - I will now share in the zoom chat the URL: that takes you to download the te
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
+
+> Yes
+
+<br>
 
 - *If “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)*
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
@@ -164,6 +206,17 @@ Instructions to access prototype (must access from your mobile device):
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
+**Downloaded prior to study, no noted difficulties**
+
+Got a “ready to test screen” that required a Redeem code. The participant asked about it and was told it would be provided during the testing session. This was not experienced by the previous participant. It was noted by the developer following the call that this was due to the participant not having also clicked on the step 2 button in the instructions.
+
+Tried number inside link as redeem code, but participant had difficulty with his keyboard allowing him to enter a lowercase, and then experienced some delay/freezing from the device as he was entering the code.
+
+Had to click step 2 “view in testflight” and “install” , got the already have app installed modal and clicked “install”.
+
+Launched the testing app
+
+
 
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
@@ -180,7 +233,17 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
+
+**No problems. User was experiencing window overlap with the app blocking a portion of the screen.**
 
 
 ## Task 2: Start a statement
@@ -198,6 +261,15 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
     - If Y, what do they find confusing?
 
+Screen: “Submit a statement to support a claim”
+
+**No comments**
+
+Screen: “What would you like to do?:
+
+> I have new evidence to submit for an open claim. Well, it could be any of these, couldn’t it.
+
+<br>
 
 ## Task 3: Fill out the form [never back out or reload the page]
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
@@ -205,16 +277,29 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
+**Phone suggests Names to prefill fields in 1 click (inherit benefit of iOS)**
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+
+> No
+
+<br>
+
     - If Y, what field do they encounter errors on?
       - What triggered the error specifically?
       - Does the user understand how to correct the error? 
+
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+> No
+
+<br>
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
+
 - Does the user express thoughts of frustration while completing the form? Y/N
     - If Y, what did they experience when expressing the frustration?
 
@@ -232,10 +317,23 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+**Upon instruction to leave the form user scrolled down, asked for support to leave screen**.
+
     - Did they mention any previous experience or confusion?
+
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
+
+**Scrolled up and down, asked for help.**
+
 - Does the user express doubt that their work will be saved? Y/N
+
+**No**
+
+**Noticed “Form updated successfully’ overlap overlapped with the area on the screen that the user needed to click on to “Continue form”, user had to scroll to see that it was there.**
+
+**User also was in dark mode which changed the view of the app but not the web view as they were working through the prototype.**
 
 ### Questions for testing participant: 
 
@@ -243,6 +341,9 @@ Did you encounter any issues using your [screen reader/assistive tech/device]?
 
 Was any part hard to navigate or understand?
 
+> No
+
+<br>
 
 ## Task 5: Continue completing the started form and submit
 Pretend you are ready to come back to your previous form to complete it. Please locate the form and bring it up to complete. I have some updated information to supply you here to allow you to complete this form.
@@ -251,25 +352,53 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 [From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
+**User did not open collapse components to preview data entered prior to submission.**
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Continue their form
+
     - Did they mention any previous experience or confusion?
+
+No
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+Yes
+
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
+
+Yes
+
     - If no, what prohibited them from submitting the initial form?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No, not really. Only, submitting on the phone is a little harder typing. But other than that, not too bad.
+
+<br>
+
 Was any part hard to navigate or understand?
 
+> No
+
+<br>
+
 Did you find navigation particularly challenging in any way?
+
+> No
+
+<br>
 
 If Y, why?
 
 Did you find any labels particularly confusing on the form?
+
+**No, participant noted the first screen looked at where it told us purpose of the form. A few of the options sounded a like.**
 
 If Y, what labels specifically and how might they be improved for clarity?
  
@@ -281,23 +410,49 @@ Now that you have completed the form, navigate back to the general forms locatio
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> It was stated directly on the screen when the form was submitted.
+
+<br>
+
 - What does this status mean to you? 
 
+> Currently in progress, probably being looked at by somebody. Or it could be routed to somebody.
+
+<br>
+
 - What would you expect to see if you needed to check on your submission later?
+
+> Probably a different status, or, at least I would hope that it would walk me through where it’s at right now. Being reviewed by intake, being reviewed by case manager. Something like that. To kind of show me that it is moving, rather than just in progress. Because that could mean anything.
+
+<br>
+
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user express confidence that they have completed and submitted their form?
+
+Yes
     - If no, what is confusing to them and why?
-- DOes the user understand the status of the form?
+- Does the user understand the status of the form?
+
+Yes
+
     - If not, what do confusion do they express when interpretting the form status?
-    - 
+    
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -305,6 +460,8 @@ Now that you've completed the tasks above you can exit the VA testing app and re
 [Moderator copy/paste link to Qualitrix SuS into the chat] (SuS Link)(https://dj540s05.optimalworkshop.com/questions/vhbappformsmvp)
 
 Please select the link and take the survey.
+
+**Participant completed the survey.**
 
 ### Deleting the testing app:
 Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
@@ -332,9 +489,23 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> It’s pretty… like I said earlier, it’s pretty easy to navigate. But I can see where a lot of people could get confused and find it cumbersome to use.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> First page with specific questions with purpose of the form was confusing.
+
+<br>
+
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
