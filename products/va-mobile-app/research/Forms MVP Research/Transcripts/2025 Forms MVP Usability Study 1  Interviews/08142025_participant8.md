@@ -91,18 +91,52 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> Smartphone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> iOS
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Safari
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
+
+> Yes
+
+<br>
+
    - If so, can you tell me about your most recent experience? How did it go?
+
+> Actually I just completed VR&E form online. It was ok, it was pretty easy. It was a lot shorter than I though. Pretty standard with all the forms. Is that considered a form? I don’t even know.
+
+<br>
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
+
+> Yes
+
+<br>
+
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+
+> I wish if I had a refill remaining I could click in it and start a message to my provider. Instead I have to go back to find my provider and create message to remember which medication it is. I have a lot of medications so its hard to remember which one. I do refill meds multiple times every few months. It just gets tiring, I don’t want to do it, and then I forget. I guess its just decent for what it is.”
+
+<br>
 
 
 # User Tasks
@@ -180,7 +214,17 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
+
+Sign in, no problem. User scrolled down on screen once landing on the homescreen.
 
 
 ## Task 2: Start a statement
@@ -192,11 +236,27 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Expect to find forms like these “Is it already a thing I started? If so, I would click on claims. If its a brand new one I would think I would start on claims.”
+
     - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+
+Yes
+
     - If Y, where do they go instead?
+
+Claims, could not find it.
+
+Advised to click on ‘Go to my forms’ from homescreen> ‘Start statement’ Github page received is pretty tiny, had to zoom in to read.
+
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
+
     - If Y, what do they find confusing?
+
+> Right now, this confuses me. That it’s for a new claim I haven’t submitted. Typically if you select to submit a statement its because you are giving information to the examiner to support your claim. Doing this is like being proactive. I don’t really know what I’m looking at. That’s just me.
+
+<br>
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
@@ -205,24 +265,72 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
+
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Screen 'Submit a statement in support of a claim'.
+
+> Well now I kind of get it, I’ve already started the claim. Now its telling me I’m going to need this to submit a statement. Too many pages to go to.
+
+<br>
     - Did they mention any previous experience or confusion?
+
+> I’ve been working on an active claim I have, and I filed it on May. If I already started that claim I would rather it tell me what that claim is here. I have two claims for disability, it would be easier to know which.
+
+<br>
+
+> Ok that kind of sucks. If you want to submit more than one statement for the same claim you’ll need to use a new form. That’s just me. I just think that’s a lot of work because its the mobile app and if my statement has to be long I don’t want to type so much. It’s easier on my computer than it would be on the app.
+
+<br>
+
+Screen 'What would you like to do here?'
+
+User would select option ‘I want to provide context or details about a claim.’
+
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+
+Yes
     - If Y, what field do they encounter errors on?
+
+Use typed fast on her phone. SSN: it was hard to tell how many numbers they had entered. 
+
       - What triggered the error specifically?
-      - Does the user understand how to correct the error? 
+
+      - Does the user understand how to correct the error?
+ 
+When received the error tried to count numbers entered.
+
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+Frustrated typing on her phone. 
+
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
 - Does the user express thoughts of frustration while completing the form? Y/N
+
+Yes
+
     - If Y, what did they experience when expressing the frustration?
+
+> Because i’m already signed into the app I wish that it would populate everything like it does online. Like when I filled out the VR&E it said something like we’ve prefilled all of your info. I’m assuming this statement is only coming from me, what is annoying is that I have to enter everything and its so different from the website.
+
+<br>
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> Issue was one-page I couldn’t really read after it said start my statement screen 1.
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> Because i’m already signed into the app I wish that it would populate everything like it does online. Like when I filled out the VR&E it said something like we’ve prefilled all of your info. I’m assuming this statement is only coming from me, what is annoying is that I have to enter everything and its so different from the website.
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -232,16 +340,43 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
     - Did they mention any previous experience or confusion?
+
+> To pull up form, I didn’t even read the continue form I was trying to click on statement in support. 
+
+<br>
+
 - Does the user select anything other than Done to leave the form? Y/N
+
+Yes
     - If yes, what does the user do?
+
+Selected finish my application later link.
+
 - Does the user express doubt that their work will be saved? Y/N
+
+No
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+Had a typo spelling address court, caught and corrected. Mistyped name while typing in address
+
+> I don’t like that home phone number. It makes me what to read the whole thing and correct it. It makes me what to put the parentheses in there and correct it. It’s like ok did I type enough? The social automatically put the dashes after, but this one is like hold on I got to check on that again.
+
+<br>
+
+> Especially if its like a statement. I don’t want to get anything wrong. Or if they call me about it. I don’t want to miss it.
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 5: Continue completing the started form and submit
@@ -253,17 +388,40 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+> Oh I can’t see it, I would expect I could click on those dots. Just to make sure again, I entered the right number because on a claim I dont’ want any reason it could be delayed. Its like ok I got to start the review process over for months because I entered the social wrong or whatever.
+
+<br>
     - Did they mention any previous experience or confusion?
+
+> I forget if there is a limit in the statement or character count. What if its a really really long one like to establish nexis or something can I just upload from my phone and then view it here? I like to write a lot.
+
+<br>
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+Yes
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
+
+Yes
     - If no, what prohibited them from submitting the initial form?
+
+> The statements really matter, whether its like here I’m submitting new medical records or hey heres a nexis letter or you know just a file. Otherwise I have to go to my computer and submit it which defeats the mobile app process. I do everything on my phone, for the most part.
+
+<br>
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+Experienced typos and started over. Engaged auto correct to continue typing. User had to correct a lot of typos.
+
 Was any part hard to navigate or understand?
+
+> This box is a little confusing. Yeah its submitted but its started on the 14th and then it says its in progress. Because I finished it I would hope and assume that it goes all the way not in the checklist again. Since there’s a confirmation number it would have been checked in. The second sentence tells me you gotta keep checking the app or get an email that it went through which would be so inefficient.
+
+<br>
 
 Did you find navigation particularly challenging in any way?
 
@@ -281,9 +439,15 @@ Now that you have completed the form, navigate back to the general forms locatio
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+
+
 - What does this status mean to you? 
 
 - What would you expect to see if you needed to check on your submission later?
+
+> I expect the form is fully submitted but the next step is someone reviewing it or it landing in the hands of a reviewer.
+
+<br>
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
