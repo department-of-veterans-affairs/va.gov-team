@@ -91,19 +91,49 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> Smartphone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> iOS
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Internet explorer
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?
+
+**Used the app, doesn’t remember if there is forms on there or not.**
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+   - If so, can you tell me what you use the mobile app primarily for? 
 
+**Use it today for,
+
+Apt reminders
+Medication refills
+Messages back and forth with providers
+Proving benefits**
+
+- How has your experience been so far?
+
+> Good
+
+<br>
 
 # User Tasks
 
@@ -126,6 +156,12 @@ We can help guide you through this if you need help. Please say what you're doin
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
+
+> Yes
+
+<br>
+
+Had downloaded testing app prior to the session
 
 N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2726, build version 2.56.0
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
@@ -176,15 +212,36 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 [When they get to the homepage:] Any data you are seeing here or throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
 
+** Was already logged in, reported no difficulties with login. Skipped initial log in task.
+
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+**Confirmed no difficulties with that section.**
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
+
 
 
 ## Task 2: Start a statement
-Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+Pretend that you need to submit a statement in support of a claim via a form submission with the VA. 
+
+Where would you expect to find forms like these in the VA mobile app? 
+
+> Go to my forms.
+
+<br>
+
+What would you expect this section to be called?
+
+> Go to my forms.
+
+<br>
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
@@ -198,9 +255,27 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
     - If Y, what do they find confusing?
 
+Screen: “Submit a statement to support a claim”
+
+> Everything is pretty much standard for the VA.
+
+<br>
+
+Screen: “What would you like to do?”
+
+> I have new evidence to submit for an open claim.
+
+<br>
+
 
 ## Task 3: Fill out the form [never back out or reload the page]
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
+
+**Noticed “Date of Birth” produces errors while the user is entering each portion of the date (i.e. Month, day)**
+
+SSN error response: 
+
+**Couldn’t tell if it was enough numbers. Had to count them.**
 
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
@@ -222,7 +297,15 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -230,18 +313,37 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 [Click 'Done' to exit the form]
 
+**User could not find where to go to leave the form mid-form. Had to be prompted to “Done”.**
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User could not find how to leave form
+
     - Did they mention any previous experience or confusion?
+    
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
+
+User scrolled up and down looking for a way to leave the form.
+
 - Does the user express doubt that their work will be saved? Y/N
+
+No
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> NO
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 5: Continue completing the started form and submit
@@ -251,53 +353,117 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 [From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
+**Notes:**
+The previous invalid SSN was still retained in the form when continuing back to it, but was not shown with the error (would validation have caught error if user had kept the previous entry and pressed “Continue” prompting the user to reenter the error?).
+
+iPhones may remember address typically typed on the device and offer a single click entry to the field. (inherit phone feature that improves form entry)
+
+User had a spelling error when typing in the email that they did not correct and moved forward with.
+
+User used predictive swiping motion to type free text sentence. (another inherit phone feature that may improve form entry for users from a mobile device, although they did have to correct when the intended word “test” was captured instead as tree.
+
+
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+**User was able to quickly find and select “Continue form”.**
+
     - Did they mention any previous experience or confusion?
+**NO**
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+**Yes**
     - If no, what do they mention that is confusing?
+
 - Is the user able to complete the started form? Y/N
+
+**Yes**
     - If no, what prohibited them from submitting the initial form?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 Did you find navigation particularly challenging in any way?
 
 If Y, why?
 
+> NO
+
+<br>
+
+
 Did you find any labels particularly confusing on the form?
+
+> No
+
+<br>
 
 If Y, what labels specifically and how might they be improved for clarity?
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
 
+**They clicked on the link button “Go back to VA.gov homepage” towards the bottom of the confirmation screen.**
+
 [Select 'Done' to exit the confirmation page, Go to 'Forms']
 
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> Because it tells me so.
+
+<br>
+
 - What does this status mean to you? 
 
+> It’s in like the mail, going to a place, and then somebody will review it.
+
+<br>
+
 - What would you expect to see if you needed to check on your submission later?
+
+> An email or text notification that there is a status update on your claim. A notification of some sort.
+
+<br>
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user express confidence that they have completed and submitted their form?
+
+Yes
     - If no, what is confusing to them and why?
-- DOes the user understand the status of the form?
+- Does the user understand the status of the form?
+
+Yes
     - If not, what do confusion do they express when interpretting the form status?
-    - 
+    
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -332,9 +498,22 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> Fine.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> No
+
+<br>
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
