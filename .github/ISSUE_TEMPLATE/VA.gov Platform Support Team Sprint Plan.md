@@ -41,3 +41,13 @@ TBD
 <i>Operational Efficiencies</i>
 
 - N/A This Sprint
+
+## Support Ticket Work
+
+- Quantity of Tickets:
+- Average Ticket Close Time:
+- Average Ticket Satisfaction Score: 
+
+## Incidents
+
+- 
