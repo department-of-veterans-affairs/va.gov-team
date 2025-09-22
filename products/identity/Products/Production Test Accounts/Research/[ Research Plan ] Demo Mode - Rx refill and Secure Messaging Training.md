@@ -13,26 +13,23 @@ The study will provide insights to inform the potential solution of a demo mode 
 
 2.  **Workflow Integration**: How do Production Test Accounts fit into MHV coordinators' existing training workflows for prescription refills and secure messaging?
    
-4.  **Pain Points**: What are the pain points and successes MHV coordinators and call center representatives experience when using Production Test Accounts for these use cases?
+4.  **Workarounds**: Since usage of PTAs do not indicate that all MHV coordinators use them regularly, are there workarounds that coordinators/call center representatives can utilize?
    
-5. **Training**: What aspects of PTA-supported training are most and least effective for Veterans across both prescription refill and secure messaging workflows? 
+5.  **Pain Points**: What are the pain points and successes MHV coordinators and call center representatives experience when using Production Test Accounts for these use cases?
 
 6. **Troubleshooting Applications**: In what specific troubleshooting scenarios do MHV coordinators and call center reps rely on Production Test Accounts for prescription refill and secure messaging issues?
 
-7. **Workarounds**: Are there any workarounds that coordinators/call center representatives can utilize?
 
 ## Hypotheses
 
 ### Primary Hypotheses
 **H1**: MHV coordinators use production test accounts to train on standardized, repeatable aspects of both workflows (e.g., navigation, form completion, message composition).
 
-**H2**: Call center representatives utilize PTAs to replicate the issues a Veteran is excperiencing in order to help them problem solve unique issues. 
+**H2**: When issues are escalated through the call center, Tier 2 and Tier 3 representatives utilize PTAs to replicate the issues a Veteran is excperiencing in order to help them problem solve unique issues. 
 
-**H3**: MHV coordinators and call center representatives view Production Test Accounts as a necessary tool in their day to day jobs.
+**H3**: MHV coordinators and call center representatives view Production Test Accounts as a necessary tool in their day to day jobs for troubleshooting complex issues Veterans encounter.
 
 **H4**: Secure messaging and prescription refill training is complex and requires hands on demonstration.
-
-**H5**: MHV coordinators and call center representatives have no other tools at their disposal for troubleshooting complex issues Veterans encounter.
 
 **H6**: Leveraging in PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.
 
@@ -44,13 +41,13 @@ The study will provide insights to inform the potential solution of a demo mode 
 
 **Methods**:
 - Moderated interviews with observation sessions (45-60 minutes each)
-- Target participants: At least 3 MHV coordinators and at least 3 call center representatives
+- Target participants: At least 3 MHV coordinators who use PTAs and 3 who don't and at least 3 call center representatives who use PTAs and 3 who don't.
 
 **Key Areas of Investigation**:
-- Current Production Test Account usage patterns and frequency for both workflows
-- Specific training scenarios where Production Test Accounts are employed for prescription refills and secure messaging
-- Coordinator and call center representative-developed best practices and workarounds for each workflow
-- Integration with other training tools and methods
+- Current Production Test Account usage patterns and frequency for both workflows.
+- Specific training scenarios where Production Test Accounts are employed for prescription refills and secure messaging.
+- MHV Coordinator and call center representative-developed best practices and workarounds for each workflow.
+- Integration with other training tools and methods.
 
 ## Timeline
 - **1 Sprint**: Participant recruitment, scheduling, and completion of moderated interviews with observation sessions
@@ -58,8 +55,8 @@ The study will provide insights to inform the potential solution of a demo mode 
 ## Constraints and Considerations
 - Focus limited to prescription refill and secure messaging workflows only
 - Excludes end-to-end workflow testing for both use cases
-- Does not include Veteran direct feedback (coordinator and call-center perspective only)
+- Does not include Veteran direct feedback (MHV coordinator and call-center perspective only)
 - Maintains focus on training and troubleshooting applications specifically
 - Secure messaging scope limited to basic send/receive functionality, excluding advanced features
 
-This research plan provides a focused foundation for understanding current PTA usage across two key healthcare workflows while setting the stage for more comprehensive research in subsequent phases.
+This research plan provides a focused foundation for understanding current PTA usage across two key workflows in order to determine the scope and impact that the deprecation of PTAs will have on MHV coordinators and call center representatives' ability to train and assist Veterans with troubleshooting.
