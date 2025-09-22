@@ -83,7 +83,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Launch Dates
 - *Target Launch Date*
-  - Staging Deadline: **Aug 05 2025**
+  - Staging Deadline: **Aug 26, 2025**
 - *Actual Launch Date* 
   - ~ Nov 2025 (Depending on business approval)
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
