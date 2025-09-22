@@ -1,5 +1,4 @@
-
-#21P-537 Form Digitization
+# 21P-537 Form Digitization
 
 ---
 
@@ -7,52 +6,33 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
-*As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-537 - Marital Status Questionnnaire - is on the list of those 11 forms. Currently, surviving spouses of deceased Veterans who receive Dependency and Indemnity Compensation (DIC) receive a letter from the VA about once every 8 years*
- 
+*As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-537 - Marital Status Questionnaire - is on the list of those 11 forms. Every year, about 1,900 surviving spouses of deceased Veterans who receive Dependency and Indemnity Compensation (DIC) receive a letter with the form in the mail asking them to complete the form and mail it back in the enclosed envelope within 60 days. Each surviving spouse receiving DIC benefits is mailed this letter approximately once every 8 years. The current process is entirely paper based, and dependent on physical mail. Currently, there is no option to submit this form electronically.*
+
 ## Desired User Outcomes
 
 *Why would a user want to use this?*
-- Surviving spouses who receive Dependency and Indemnity Compensation (DIC) have a legal requirement to periodically verify their marital status. Currently, they receive a paper form about once every eight years and must return it within 60 days to avoid benefit reductions. Users would want to use a digital version of Form 21P-0537 because it:
-  - Protects their benefits: Timely completion ensures uninterrupted DIC payments.
-  - Saves effort: Digital submission avoids mailing delays, lost forms, and handwriting errors.
-  - Provides clarity: The form explains that remarriage or changes in marital status can affect benefits. A digitized form can offer plain-language guidance and built-in validation (e.g., date pickers, required fields).
-  - Offers flexibility: Instead of only mailing back the paper form, users could submit online from anywhere, with options to save progress, receive confirmations, and get reminders.
-  - Reduces stress: Knowing the form was received electronically gives peace of mind, especially for elderly or widowed spouses managing complex benefits.
-    
- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-- By digitizing VA Form 21P-0537, surviving spouses will gain new capabilities:
-  - Submit the form online quickly and securely
-    - Users won’t have to rely solely on paper mail.
-    - They’ll receive instant confirmation that the VA received their submission.
-  - Avoid unnecessary interruptions or overpayments
-    - Completing the form digitally lowers the risk of missing deadlines or mailing errors that could cause benefit suspension or overpayment debts
-  - Easily update personal information
-    - Users can update their marital status, addresses, and other details in real time.
-    - The system can flag missing or conflicting information before submission, reducing back-and-forth with VA staff.
-  - Access support resources in context
-    - A digital workflow can link to VA’s marriage recognition rules, FAQs, or support lines, which are harder to surface in a static letter.
-  - Track and manage their benefits proactively
-    - Instead of waiting for a once-every-8-years letter, users could view their current dependency/marital status record online and update it as life events occur.
+- Digital submission avoids mailing delays and potentially reduces lost forms
+- Offers flexibility: Instead of only mailing back the paper form, users could submit online from anywhere, with options to save progress, and receive confirmations
+- This could give assistive technology users an option to complete the form without assistance, by leveraging an accessible, online version
+
+*With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+By digitizing VA Form 21P-0537, surviving spouses will gain new capabilities:
+- Submit the form online quickly and securely
+  - Users won't have to rely solely on paper mail
+  - They'll receive confirmation that the VA received their submission
+- Avoid unnecessary interruptions or overpayments
+  - Completing the form digitally lowers the risk of missing deadlines or mailing errors that could cause benefit suspension or overpayment debts
+- Access support resources in context
+  - A digital workflow can link to additional supporting documentation, FAQs, or support lines, which are harder to surface in a static letter
 
 ## Undesired User Outcomes
-If the problem is not solved (form remains paper-based and not digitized):
-- Benefit interruption risk
-  - Surviving spouses may miss the 60-day return deadline due to mail delays, lost letters, or confusion, leading to suspension or termination of Dependency and Indemnity Compensation (DIC)
 
-- Increased anxiety and burden
-  - Users must keep track of rare (once every 8 years) mail requests, which can be confusing, especially for elderly or grieving spouses.
-  - Fear of making mistakes on the form or not knowing if it was received adds stress.
+### Users may be unaware of the digital form submission option
+Currently, the letter that DIC beneficiaries receive provides specific instructions to return the form that is provided in the attached envelope within 60 days. Our analysis of online form downloads for the 21P-0537 form suggested that there were 0 downloads of the PDF form which is available on the VA Find-a-Form application from July, 2024 to August, 2025. This might suggest that unless claimants are specifically made aware that there is an electronic submission option, they would not go to the Find-a-form application and discover the electronic form.
 
-- Accessibility and equity barriers
-  - Users with disabilities, limited mobility, rural addresses, or unreliable mail service face higher burdens in returning forms.
-  - Paper-only intake may exclude those who could more easily respond online.
-
-- Lack of transparency
-  - Users have no way to confirm that the VA received their form until benefits are impacted.
-  - Errors (e.g., handwriting, incomplete fields) can cause delays or denials without timely feedback.
-
-- Limited ability to self-manage
-  - Users cannot proactively update their marital status outside the VA’s infrequent verification cycle, leaving them uncertain about whether VA’s records are accurate.
+### The digital form submission is more time consuming than the paper option
+For beneficiaries who have not remarried since the death of the Veteran, the form requires filling out only 6 fields, which could take only 1-2 minutes. Leveraging an online version could be more time consuming than completing the paper form for some users.
 
 ## Desired Business Outcomes
 
