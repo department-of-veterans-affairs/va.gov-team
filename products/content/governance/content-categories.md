@@ -14,7 +14,7 @@
 
 Basic information Veterans and other beneficiaries need to quickly and easily discover, apply for, track, and manage VA benefits.
 
-**Home:** Modernized VA.gov benefit hubs
+**Identified strategic home:** Modernized VA.gov benefit hubs
 
 #### 1.1.2 Supplemental benefit and service content
 
@@ -22,7 +22,7 @@ Supplemental information to empower Veterans and other beneficiaries to fully un
 
 - How-to type content
 
-**Home:** Modernized VA.gov resources and support section
+**Identified strategic home:** Modernized VA.gov resources and support section
 
 #### 1.1.3 Location-specific benefit and service content
 
