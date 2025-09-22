@@ -1,1 +1,192 @@
-<mxfile host="Electron" modified="2022-04-20T21:19:37.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36" etag="3eWRDtKVq0SUYndtdjoI" version="13.9.9" type="device" pages="2"><diagram id="0kmzMJJzeJOMZ-HE_vw-" name="container-diagram">7VrrV6M6EP9r+lEPj9LWjy20rnt112u967n3iydACrFA2JC+9q/fSQgtCFar9do91qMtmcljMo9fZiIt046X5wyl4RX1cdQyNH/ZMp2WYei61oEvQVnllJ5oCULAiK86bQhj8gsroqaoM+LjrNKRUxpxklaJHk0S7PEKDTFGF9VuExpVV01RgGuEsYeiOvWO+DxUu7C0Df0LJkHI1xtWnBgVnRUhC5FPFyWSOWyZNqOU50/x0saRUF6hl3zc6AnuWjCGE/6SAVf398sbs313fvP171S//PawuNVOlDHmKJqpDSth+arQAKOzxMdiEq1lDhYh4XicIk9wF2BzoIU8jqClw6OPslD2FY26hEroOWYcL0skJfE5pjHmbAVdCq5m5UNWRVtpc7ExRsc8O+11c3JYsoXZVn2R8oFgPf1GTfCgNLWD1qwGrXUiWHYwobDVsvo6P2e0YJxk0r370EHvpcsNE54C8f2jPwSBtGEyJ4wmMagtE3uiGSdJAE92iL0pfF8kotcyxYzgBCyhFoe95Ovns9UsCTrnVXNlnNEptmlEGVASmmAhKomiRyQUkSCBZoQnYgZhPwIx0lfkmPi+WKTRO6r+s28HAf6pWXERq+4hbf3sVDfrHvJuDtKpOciTptOU0ft3Y/HpeaAuYfa9284DJWO2R+sJX1OArXf2FO66tg7lrRGvNYT7HozpTK/SwP71L/s5+GvEv+P5f5eDvWPke+jNrOutXdebftagNzjMdlYcdR/EYQtSR7DLEA5VzB6dx+1vKFba+TG8HZ/cDQfji9thwb1dpUVkgDoQScA1Cxb2wgR8OFA7YRh5/Ou4YDs48xhJOaFJzr9mdC6TBNiCtCadiCwhFMHlk4BwJIieCkAiAnAySzwxAcQGX8mUQgQihvhAiZhnTpDQHHbh0xVJhJBOQ1y6wWlA57kwEXJxVD0A3A36WkoHhlUC6BI/p/lkviZZ+SipGxglT4qcslEJ0C2nNGF5fCED27aImK+sw4p4lY7GczBnlr1ShVJjVOjPR4XU5QB500AO24JrLcPsWYPBSFOxVKJP5E8T6CHmFTGn1cATRnZ7/Z7TAw64Phr6hCuxRNNBHIle3cHmyC6stD7CwVhlPoYpkBtVe0xQlOFW1xG/5iClRCA9TGwJ02unwhK2Jv+EiW1JbKJ160RdtIoZqsQmWtdqmlJvWPsxzWggNk7ZsLb2SEjL2RP8tevw17Xq8NdpgD9x5GjlH31nNISmAsTXgmP/+uIVwHgzc1cSIUbweYNIlK1b15AzBgxnLwHNF2Jkjok3w/HtZCY6r2X+9ChoHFHwiIIHiYKm9mEo+LLc2qzl1n42R5BgeRGd+QdaBX1cAm9oTQn8exU+7cMvfEzh88+qzex+SN1jf7m4Lh+UOx3u+X3AJYpdKLpBjIT6eEsRJBfRLsC5A4byEw0O5pWsW2YZWAgKGaE3l4JS1rWO2H0ieGOOJqJqmiAvv2pCaRpBeIiZsk9zzEckmSoUkoddX94OGyOIEsO+9qfDgX197/Tsf+6X+sN5gLSXZAe9Y3ZwzA4+PjswrT+3RrqkN99v+/8XlJZKowx7MybukTiOU8qQVKiHPHm3JC+NshDJDhIwAF4xX2CcfFYA3Y6EZ0ckPCLhxyOhZVin5h+FhBusE87lInCLJ6DOWSUops7gSXBbQ6mTA9aYU4Yb8KkELI3QswFdgTsdFIsATdwsLUDjQEGobW0FIYBzqWpvBbmgL7HgGSRyc9i6dAtCtSTaCajaZs9xrEeVkrELcNWQyrS7I1urI1UNTvYPEvsO/XcE132gSr2CN/V6Kaq3zxpQRdu9hH9TQuWBdxOPyAJwQdl0EtHFG9OrEWIB4nhzHy0vp7dWq6oulXlUmiddoruUTVZjGa/fQ3+STOqNpWjjfc7xv3XH/OsA8q+GSvTg76nrb3zNEfZOvPhQ39Q5sLvWV51vm3cjJa/0hqk5/A0=</diagram><diagram id="PdkEBCP_D8CU_x1jGga0" name="CHIP-Component-Diagram">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.4" pages="2">
+  <diagram id="0kmzMJJzeJOMZ-HE_vw-" name="container-diagram">
+    <mxGraphModel dx="1140" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M__xR34WGRJQp1LNjwT0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="100" width="639.87" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="M__xR34WGRJQp1LNjwT0-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;AWS Accounts hosting Check In Experience&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="221.3" y="50" width="419.13" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M__xR34WGRJQp1LNjwT0-6" value="Check In Experience AWS Accounts" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="110.87" y="100" width="630" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DkMpgCzYrqBKFtOevZLB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="130.87" y="140" width="190" height="285" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="VETS-WEBSITE" c4Type="Container" c4Technology="reactJS" c4Description="Provides all of the digital check in functionality to Veterans via web browser at va.gov" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="M__xR34WGRJQp1LNjwT0-31">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="140.87" y="175" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="VETS-API" c4Type="Container" c4Technology="Ruby / Rails / Postgres" c4Description="Provides digital check in functionality via RESTful API" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="M__xR34WGRJQp1LNjwT0-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="140.87" y="305" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="DkMpgCzYrqBKFtOevZLB-3" value="dsvagovcloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="130.87" y="140" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DkMpgCzYrqBKFtOevZLB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="340.8" y="140" width="370" height="285" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="CHIP API" c4Type="Container" c4Technology="AWS Lambdas/nodeJS" c4Description="API Integration layer used by both Veteran and Staff facing applications" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,PdkEBCP_D8CU_x1jGga0" id="M__xR34WGRJQp1LNjwT0-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="350.87" y="175" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="LoROTA API" c4Type="Container" c4Technology="AWS Lambdas/nodeJS" c4Description="Provides secure temporary cache to share data between applications" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="M__xR34WGRJQp1LNjwT0-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="525.37" y="175" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Technology="DynamoDB" c4Description="LoROTA Data Store" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="M__xR34WGRJQp1LNjwT0-45">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
+            <mxGeometry x="530.87" y="310" width="149" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="clinician workflow API" c4Type="Container" c4Technology="AWS Fargate / Ruby" c4Description="API used to provide clinic list functionality" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,PdkEBCP_D8CU_x1jGga0" id="DkMpgCzYrqBKFtOevZLB-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="350.87" y="305" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="DkMpgCzYrqBKFtOevZLB-5" value="vaec-cms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="340.8" y="140" width="370" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PdkEBCP_D8CU_x1jGga0" name="CHIP-Component-Diagram">
+    <mxGraphModel dx="1085" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="bq_Tjl5DXfXFqc5ah46k-0" />
+        <mxCell id="bq_Tjl5DXfXFqc5ah46k-1" parent="bq_Tjl5DXfXFqc5ah46k-0" />
+        <mxCell id="qF7ay8xb9gY_R86L2vVn-1" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="bq_Tjl5DXfXFqc5ah46k-1">
+          <mxGeometry x="50" y="40" width="770" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="qF7ay8xb9gY_R86L2vVn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+          <mxGeometry x="250" y="60" width="250" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="qF7ay8xb9gY_R86L2vVn-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Component Diagram for Check In Experience - CHIP&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+          <mxGeometry width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qF7ay8xb9gY_R86L2vVn-4" value="Check In integration Point (CHIP)&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+          <mxGeometry x="250" y="70" width="250.38" height="20" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="VETS-API" c4Type="Container" c4Technology="Ruby / Rails / Postgres" c4Description="Provides digital check in functionality via RESTful API" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="610" y="395" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="LoROTA API" c4Type="Container" c4Technology="AWS Lambdas/nodeJS" c4Description="Provides secure temporary cache to share data between applications" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="11" y="460" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-7">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-5" target="qF7ay8xb9gY_R86L2vVn-13">
+            <mxGeometry x="-0.4021" y="11" width="160" relative="1" as="geometry">
+              <mxPoint x="397" y="486" as="sourcePoint" />
+              <mxPoint x="700" y="490" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-8">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-12" target="qF7ay8xb9gY_R86L2vVn-6">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="100" y="750" as="sourcePoint" />
+              <mxPoint x="807" y="440" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Twilio" c4Type="Software System" c4Description="3rd Party SMS provider" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="11" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="initiateCheckIn" c4Type="Component" c4Technology="NodeJS Lambda" c4Description="Receives data from VeText, validates, sends payload to LoROTA and sends SMS to Veteran&#xa;&#xa;POST /initiate-checkin" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="270" y="100" width="208" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-11">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-10" target="qF7ay8xb9gY_R86L2vVn-9">
+            <mxGeometry x="0.526" y="-11" width="160" relative="1" as="geometry">
+              <mxPoint x="290" y="440" as="sourcePoint" />
+              <mxPoint x="100" y="540" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="refreshAppointments" c4Type="Component" c4Technology="NodeJS Lambda" c4Description="Provides functionality to fetch the latest appointment data from VistA and send to Lorota&#xa;&#xa;POST /refresh-appointments/{UUID}" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="270" y="420" width="208" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="token" c4Type="Component" c4Technology="NodeJS Lambda" c4Description="Authenticates application API KEY and returns an Access Token&#xa;&#xa;POST /token " label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="270" y="260" width="208" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="checkIn" c4Type="Component" c4Technology="NodeJS Lambda" c4Description="Provides endpoint and functionality to check a Veteran in to an appointment&#xa;&#xa;POST /actions/check-in/{UUID}" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry x="270" y="580" width="208" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="VA On-Prem API and Datastore" c4Type="Software System" c4Description="Provides functionality for accessing legacy VistA systems and SMS management" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="qF7ay8xb9gY_R86L2vVn-1">
+            <mxGeometry y="100" width="182" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-16">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1.005;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-15" target="qF7ay8xb9gY_R86L2vVn-13">
+            <mxGeometry x="-0.5386" y="3" width="160" relative="1" as="geometry">
+              <mxPoint x="300" y="380" as="sourcePoint" />
+              <mxPoint x="460" y="380" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-17">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=0.963;entryY=0;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.006;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-10" target="qF7ay8xb9gY_R86L2vVn-6">
+            <mxGeometry x="0.4591" y="14" width="160" relative="1" as="geometry">
+              <mxPoint x="300" y="470" as="sourcePoint" />
+              <mxPoint x="460" y="470" as="targetPoint" />
+              <mxPoint y="1" as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-18">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-5" target="qF7ay8xb9gY_R86L2vVn-12">
+            <mxGeometry x="-0.3724" y="-6" width="160" relative="1" as="geometry">
+              <mxPoint x="300" y="470" as="sourcePoint" />
+              <mxPoint x="460" y="470" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-19">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-15" target="qF7ay8xb9gY_R86L2vVn-10">
+            <mxGeometry x="-0.3558" width="160" relative="1" as="geometry">
+              <mxPoint x="438" y="670" as="sourcePoint" />
+              <mxPoint x="550" y="680" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="https" c4Description="POST" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="qF7ay8xb9gY_R86L2vVn-20">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qF7ay8xb9gY_R86L2vVn-1" source="qF7ay8xb9gY_R86L2vVn-5" target="qF7ay8xb9gY_R86L2vVn-14">
+            <mxGeometry x="-0.2648" y="4" width="160" relative="1" as="geometry">
+              <mxPoint x="580" y="395" as="sourcePoint" />
+              <mxPoint x="462" y="460" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
