@@ -125,7 +125,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/17/2025| The mobile MVP of overpay/copay will include One Thing Per Page. | The FM Team is planning to launch One Thing Per Page by 10/8 (pending staging review) and plans for the feature flag to be fully enabled by the end of Oct. 2025. This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread. |
 |9/17/2025| TBD if mobile MVP will include the Payment history for Copays. | The Financial Management team is pushing hard on this effort but does not have a date for that just yet. [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread for reference. |
 |9/18/2025| We will not include No History alert for MVP.| For Copayments the MFS engineers found code for this and Tom confirmed in [this](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758214709665539?thread_ts=1756484262.963509&cid=CPE4AJ6Q0) Slack message that we do not need to include this alert. |
-
+|9/22/2025| MFS will include the "It may take up to 4 business days for payments to reflect on your account" messaging under Current debts.| This decision aligns with the content that is on VA.gov and the decision is tracked in this [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758204820816849?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) thread. |
 
 
 ## Reference Materials
