@@ -166,6 +166,27 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 18 [9/24/25 - 10/7/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|--|
+|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|--|
+|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|--|--|
+|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
+|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
+|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (x, x, and x).| QP1 |--|--|--|
+|ENG: Complete all 8 pts of ADE feedback for OTPP launch.| QP2 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (09/23/25)
+ - [X] VA PO & COR sent the Sprint Goals (09/23/25)
+ - [ ] VA PO approved the Sprint Goals (09/XX/25)
+ - [ ] VA COR approved the Sprint Goals (09/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
 ---
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
