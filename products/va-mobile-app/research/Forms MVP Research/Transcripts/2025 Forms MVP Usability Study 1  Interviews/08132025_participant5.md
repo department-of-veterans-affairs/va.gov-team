@@ -288,6 +288,8 @@ Screen "What do you want to do here?"
 
 <br>
 
+
+
 ## Task 3: Fill out the form [never back out or reload the page]
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
 
@@ -317,16 +319,31 @@ Entering all 1s in the field
 
   
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+No
+
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
+
 - Does the user express thoughts of frustration while completing the form? Y/N
+
+No
+
     - If Y, what did they experience when expressing the frustration?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> Nope, actually so far I haven’t had any fat finger issues so.
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -337,15 +354,35 @@ Pretend you need to step away from the form for an extended period of time, you 
 ### Watch for:
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
+
+No
+
 - Does the user select anything other than Done to leave the form? Y/N
+
+Yes
     - If yes, what does the user do?
+
+User selected “Finish my application later” link under form field on page.
+
 - Does the user express doubt that their work will be saved? Y/N
+
+No
+
+User did not dismiss the toast message. Scrolled around it.
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 5: Continue completing the started form and submit
@@ -357,23 +394,68 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User went from the ‘active’ tab to ‘complete’ tab to find the started form, then back to the ‘active’ tab.
+
     - Did they mention any previous experience or confusion?
+
+> I’m not seeing anything active, or calling up what I had just done. Continue, uh, continue form.
+
+<br>
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+Yes
     - If no, what do they mention that is confusing?
+
 - Is the user able to complete the started form? Y/N
-    - If no, what prohibited them from submitting the initial form?
+
+Yes
+
+When prompted to select United States in the Country, the user first checked the box for “I live on a United States military base outside of the U.S.” then caught himself, unchecked that box and navigated down to the country field to select “United States.”
+
+User asked if the phone number field required dashes. Noted that it doesn’t say one or the other.
+
+User made a typo when entering email. Caught himself, backed up and corrected before continuing.
+
+User misspelled test when entering it into this field, twice in a row due to hitting the a instead of s button on his phone (likely due to size of keypad).
+
+> Oh geez, this is not fun on a tiny screen by the way. iPad would have been a lot easier.
+
+<br>
+
+User did not expand any content at first just previewed full length of page then went back up to the top to open the areas to review his content before continuing on.
+
+User scrolled through submission page back and forth a few times.
+
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> That little thing was blocking my view. (regarding toast message received upon returning to app forms page after form completion)
+
+<br>
+
 Was any part hard to navigate or understand?
 
+> No
+
+<br>
+
 Did you find navigation particularly challenging in any way?
+
+> No, This looks like a typical VA form.
+
+<br>
 
 If Y, why?
 
 Did you find any labels particularly confusing on the form?
+
+> No
+
+<br>
 
 If Y, what labels specifically and how might they be improved for clarity?
  
@@ -382,26 +464,59 @@ Now that you have completed the form, navigate back to the general forms locatio
 
 [Select 'Done' to exit the confirmation page, Go to 'Forms']
 
+
+
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+User noted they know their form was submitted from this Forms page in the app because of the text “Submitted on August 13, 2025” and status “in progress”.
+
 - What does this status mean to you? 
+
+> The it’s in progress, it’s waiting to be evaluated I assume.
+
+<br>
 
 - What would you expect to see if you needed to check on your submission later?
 
+> Expect to see the status.
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Scrolled up and down on the page several times, paused onscreen over “Go back to Va.gov homepage” link area then stated.
+
     - Did they mention any previous experience or confusion?
+
+> Oh goodness, I don’t know where we started from for that. Was that the ‘Done’ thing or the ‘Va.gov homepage’.
+
+<br> 
+
 - Does the user express confidence that they have completed and submitted their form?
+
+Yes
+
     - If no, what is confusing to them and why?
-- DOes the user understand the status of the form?
-    - If not, what do confusion do they express when interpretting the form status?
-    - 
+- Does the user understand the status of the form?
+
+Yes
+
+  
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -410,8 +525,12 @@ Now that you've completed the tasks above you can exit the VA testing app and re
 
 Please select the link and take the survey.
 
+This participant was unable to open the SuS survey link. They attempted to refresh, I attempted to generate a new link and share but the user only got a white screen.
+
 ### Deleting the testing app:
 Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
+
+User had some difficulty navigating between apps and back to their homescreen on their phone.
 
 **iOS users:** 
 If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
@@ -436,9 +555,22 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> Um, other than trying to do it on this little phone, it was um, it was just fine. Like I said, I’m not somebody who normally does everything on the phone, usually if it’s an iOS app I’ll use my iPad, or just go to my computer.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> No
+
+<br>
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
