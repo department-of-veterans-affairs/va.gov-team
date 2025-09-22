@@ -83,43 +83,53 @@ By solving this problem, VA will gain new capabilities that go beyond the paper-
 ---
 
 ## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+- We assume that we will be able to make users aware of the availability of the electronic form option once the electronic form flow is deployed into production. This could include the VA updating the letter to point surviving spouses to the electronic option
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.*
+*What are you going to build now, and why have you decided to start there?*
 
-### Supporting research
+We are going to build an electronic version of the form which encompasses all fields currently captured on the paper form. We likely will not be able to facilitate an update of the paper letter before the initial launch, but we intend to work towards this during the period of enhancements after the initial form launch.
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+*What have you explicitly decided to not include in this initial set of functionality, and why?*
 
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+We have decided not to create a dependency between electronic form findability (i.e. updating the letter) and the launch of the form, because the VA has a goal of releasing the MVP of this form by 11/11/2025.
 
-- Initiative | [Link to Initiative Brief](#)
+*How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
---- 
+We may have to iterate on form findability to uncover solutions to make users aware that there is an electronic submission option.
+
+*Does your solution include the VA Health and Benefits mobile application? Explain why or why not.*
+
+No - this is an electronic form option on VA.gov.
+
+### Supporting Research
+
+We are not aware of any user research.
+
+*If this work is **not supported by existing user research**, will this work include user research?*
+
+We do intend to do usability testing once the form is in production.
+
+*If this work **will include user research**, please briefly state what you hope to learn from that research.*
+
+We hope to uncover ways to make the electronic form more findable, and also easier to complete.
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+*How are Veterans and others using this product going to know it exists?*
+
+We will launch the MVP of the form before 11/11/2025, and it may be unlikely that users who receive a letter in the mail are aware of the electronic option until the letter is updated or we uncover other ways to make users aware of the electronic option.
+
+*What marketing, outreach, or communications are necessary for this product to be successful?*
+
+See above.
 
 ## Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+- **Target Launch Date:** 11/3/2025
+- **Actual Launch Date:** TBD
+- **Impact Evaluation Date:** TBD
+  - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
 
 ---
 
@@ -156,7 +166,7 @@ By solving this problem, VA will gain new capabilities that go beyond the paper-
 <details>
  
  - DEPO Lead: 
- - PM: 
+ - PM: Michael Collier
  - Engineering:
  - Research/Design: 
  
