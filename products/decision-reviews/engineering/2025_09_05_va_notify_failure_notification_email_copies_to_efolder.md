@@ -98,7 +98,7 @@ The team can begin development immediately while validating assumptions in paral
 
 ## MVP Implementation User Stories
 
-1. **As a system**, I can generate PDF versions of successfully delivered failure notification emails that include all must-have metadata
+1. **As a system**, I can generate PDF versions of ~~successfully delivered~~ all failure notification emails, whether delivered successfully or not, that include all must-have metadata
 2. **As a system**, I can submit generated PDFs to the Lighthouse Benefits Intake API for routing to VBMS
 3. **As a system**, I can track the status of PDFs from upload through VBMS confirmation
 4. **As an engineer**, I can monitor and be alerted when PDF generation or upload fails
@@ -123,12 +123,12 @@ Leverage existing `vets-api` infrastructure with minimal new components, process
       - **the subject line and content of the email that was sent** **and the date the email was sent**
         - the personalisation fields are redacted, but we can recreate those easily with a database lookup
           - Notably: first name and submission attempt timestamps for all submissions, and filenames for evidence uploads
-- We will create the following new service classes and Sidekiq jobs in `vets-api` to facilitate generating PDF copies of delivered failure notification emails and uploading them to a Veteran's eFolder:
+- We will create the following new service classes and Sidekiq jobs in `vets-api` to facilitate generating PDF copies of failure notification emails and uploading them to a Veteran's eFolder:
   - `DecisionReviews::NotificationEmailToPdfService` 
     - Given email content and required metadata fields, will generate PDF
   - `DecisionReviews::UploadFailureNotificationEmailPdfJob` 
     - A Sidekiq job that we will schedule to run after our daily `DecisionReviews::FailureNotificationEmailJob` 
-    - Will query `DecisionReviewNotificationAuditLog` to identify successfully delivered emails that we have not yet created a PDF for/uploaded to LH Benefits Intake API
+    - Will query `DecisionReviewNotificationAuditLog` to identify emails that we have not yet created a PDF for/uploaded to LH Benefits Intake API
     - Will invoke `DecisionReviews::NotificationEmailToPdfService`  to generate a PDF and use `BenefitsIntake::Service` to upload the PDF
   - `DecisionReviews::FailureNotificationEmailPdfStatusUpdaterJob` 
     - Similar to our existing `DecisionReviews::SavedClaimStatusUpdaterJob`, a Sidekiq job that we will schedule to run regularly that polls for the status of failure notification email PDFs uploaded via the LH Benefits Intake Service
