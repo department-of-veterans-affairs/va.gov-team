@@ -31,7 +31,25 @@ Information Veterans and other beneficiaries need to access care and other servi
 - VA benefit offices
 - VA national cemeteries
 
+**Home:** Modernized VA.gov facility locator and facility websites
+
 ### 1.2 Outreach, news, and event content
+
+#### 1.2.1 Outreach materials
+
+Outreach materials designed for VA partners to give to Veterans (not for Veterans to access directly)
+
+**Home:** These currently have several homes (modernized VA.gov outreach library, Choose.va.gov outreach library, and a duplicative outreach materials in Discover.va.gov. We need to choose the one that makes the most sense strategically and retire the others.
+
+#### 1.2.2 News
+
+News articles for various VA audiences
+
+**Home:** News.va.gov
+
+#### 1.2.3 Event content
+
+TBD
 
 ### 1.3 Health content
 
@@ -40,6 +58,8 @@ Information that Veterans and other beneficiaries need to understand and manage 
 - In-depth information and tools for specific health care services and treatments (such as tools connected to the MOVE or Whole Health programs)
 - Patient education information (such as information about specific conditions like PTSD, TBI, or hypertension)
 - Clinical trial information (such as available VA clinical trials for specific conditions)
+
+**Home:** This content currently lives in multiple homes. 
 
 ## 2. Content primarily for people who directly advocate and support Veterans and other beneficiaries in accessing and managing their benefits
 
@@ -66,9 +86,13 @@ Information that Veterans and other beneficiaries need to understand and manage 
 
 ### 2.4 VSO content
 
+**Home:** va.gov/representative (likely moving to representative.va.gov)
+
 ### 2.5 School certifying officials
 
-### 2.6 Contractors and businesses that do business with VA
+### 2.6 Housing professionals (real estate professionals, appraisers/SARs, lenders, servicers)
+
+### 2.7 Contractors and businesses that do business with VA
 
 ## 3.1 Content primarily for people and organizations that track VA's progress and issues
 
