@@ -178,16 +178,17 @@ body:
 
   # ---------- Sizing and Priority ----------
   - type: dropdown
-    id: sizing
+    id: estimate
     attributes:
-      label: Sizing Estimate (for capacity planning)
-      description: Select a size estimate for this issue.
+      label: Estimate (Story Points)
+      description: Select an effort estimate for this issue.
       options:
-        - XS (very small, < 1 day)
-        - S (small, 1–2 days)
-        - M (medium, ~3–5 days)
-        - L (large, ~1–2 weeks)
-        - XL (very large, 2+ weeks / needs breaking down)
+        - 1 – Very minuscule, less than a day
+        - 2 – Small, ~1 day
+        - 3 – Medium sized, a couple of days
+        - 5 – Bigger effort, about a week
+        - 8 – Likely about a full sprint
+        - 13 – Big effort, multiple sprints (consider breaking down)
     validations:
       required: false
 
@@ -195,14 +196,14 @@ body:
     id: priority
     attributes:
       label: Priority
+      description: Select the priority level for this issue.
       options:
-        - P0 – Critical
-        - P1 – High
-        - P2 – Medium
-        - P3 – Low
+        - Lowest
+        - Medium
+        - Highest
+        - Pinned
     validations:
       required: false
-
   - type: markdown
     attributes:
       value: |
