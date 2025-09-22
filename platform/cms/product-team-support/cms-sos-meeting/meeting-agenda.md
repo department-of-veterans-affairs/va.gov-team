@@ -4,6 +4,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 ### Running Agenda
 
 10/02/2025
+* [Guidance on seeking support from the Platform CMS Team](https://dsva.slack.com/docs/T03FECE8V/F09GWJK37PB)
 * Laura's questions section:
   * [Homepage fallback](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12292) needed anymore?
   * Sandbox homepage?
