@@ -174,7 +174,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|--|--|
 |UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
 |UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
-|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (x, x, and x).| QP1 |--|--|--|
+|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|--|--|
 |ENG: Complete all 8 pts of ADE feedback for OTPP launch.| QP2 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
