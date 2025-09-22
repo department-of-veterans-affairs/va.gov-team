@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+We will create a digital version of VA Form 21P-537 (Marital Status Questionnaire) that allows surviving spouses receiving DIC benefits to complete and submit their annual marital status verification online instead of relying solely on the current paper-based mail process.
 
 ## Problem Statement
 *As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-537 - Marital Status Questionnaire - is on the list of those 11 forms. Every year, about 1,900 surviving spouses of deceased Veterans who receive Dependency and Indemnity Compensation (DIC) receive a letter with the form in the mail asking them to complete the form and mail it back in the enclosed envelope within 60 days. Each surviving spouse receiving DIC benefits is mailed this letter approximately once every 8 years. The current process is entirely paper based, and dependent on physical mail. Currently, there is no option to submit this form electronically.*
