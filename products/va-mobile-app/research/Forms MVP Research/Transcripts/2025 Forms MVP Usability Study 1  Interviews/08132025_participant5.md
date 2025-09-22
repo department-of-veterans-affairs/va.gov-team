@@ -54,7 +54,7 @@ Today we're going to talk about filling out forms from the VA mobile app. I'm go
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 120 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -91,18 +91,51 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> Smartphone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> iOS
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Safari
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
+
+> Yes
+
+<br>
+
    - If so, can you tell me about your most recent experience? How did it go?
+
+> I didn’t have any trouble with it.
+
+<br>
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
+
+> I did once in the past.
+
+<br>
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+
+> It was too much of a hassle trying to do it on a small phone screen. I prefer doing it on a computer where I can actually type and not fight with a virtual keyboard.
+
+<br>
 
 
 # User Tasks
@@ -121,9 +154,27 @@ We can help guide you through this if you need help. Please say what you're doin
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
+Difficulty sharing screen on zoom 
+
+> I rarely use Zoom on a phone, I usually do it on a computer so I am not familiar. -
+> I’ll be honest, I really don’t know where that is at on the iOS version of zoom.
+
+<br>
+
+(Menu was on the top not the bottom for this user).
+
+> Ok, so let’s see if this will even install.
+
+<br>
+
+
 ## Task 00: Open prototype
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
+
+> Yes
+
+<br>
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
@@ -180,11 +231,26 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
 
+Asked about sign in technology now with ID.me or Login.gov
+
+> It’s such a hassle because other government sites are going strictly to Login.gov so its hard to keep them all straight.
+
+<br>
 
 ## Task 2: Start a statement
 Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+
+> Hopefully, there is something labeled forms.
+
+<br>
+
+Zoomed in on codespace screen to read and find button.
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
@@ -192,12 +258,35 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Find an area labeled forms.
+
     - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+
+Selected "Go to my forms"
+
     - If Y, where do they go instead?
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
+
+No
     - If Y, what do they find confusing?
 
+Screen "Submit a statement in support of a claim"
+
+> No I, don’t really have any real questions.
+
+<br>
+
+Screen "What do you want to do here?"
+
+> Is this to be doing a new claim or doing something existing?
+
+<br>
+
+> Ok, it’s not 100% of what a new claim would be other than, I’m guessing maybe the one at the top of the screen right now?” Would choose option ‘I have evidence to submit for an open claim’. - I don’t see anything crystal clear about a claim.
+
+<br>
 
 ## Task 3: Fill out the form [never back out or reload the page]
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
@@ -209,9 +298,24 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
-    - If Y, what field do they encounter errors on?
-      - What triggered the error specifically?
-      - Does the user understand how to correct the error? 
+
+Yes
+
+- If Y, what field do they encounter errors on?
+
+SSN intentional error
+
+ - What triggered the error specifically?
+
+Entering all 1s in the field
+
+- Does the user understand how to correct the error? 
+
+> Nope, what didn’t it like… Required, entered. Hold on, let me just count 9 1s it would be easier. I just miscounted the number of 1s.
+
+<br>
+
+  
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
