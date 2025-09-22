@@ -176,7 +176,7 @@ body:
     validations:
       required: false
 
-   # ---------- Estimation and Priority ----------
+  # ---------- Estimation and Priority ----------
   - type: dropdown
     id: estimate
     attributes:
@@ -213,6 +213,10 @@ body:
         - Pinned
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
         ---
         ✅ **Reminder:**
 
