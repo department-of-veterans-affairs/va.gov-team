@@ -4,9 +4,15 @@ Metrics and UX analysis prior to data integration with OH EHR and transitioning 
 By: Sara Sterkenburg
 
 ## On this page
+**On this page:**
+- [Who can access the My VA Health (OH) portal?](#access)
+- [Methods to accessing the My VA Health (OH) portal](#methods)
+- [Method A - Baseline data](#a)
+- [Method B - Baseline data](#b)
+- [Design / Sensemaking questions around planned tactics to address Method A & B users](#sensemaking)
+- [Questions](#questions)
 
-
-## Who can access the My VA Health portal? 
+## <a name="access">Who can access the My VA Health (OH) portal?</a>
 * Only users who received care at 1 or more of the following facilities (which utilize the Oracle Health EHR system) can get to the My VA Health portal. This patient-facing portal is the current front-end user experience for these facilities, but VA is working to transition users over to the My HealtheVet on VA.gov experience and phase out the My VA Health portal by 2027. 
 
 OH Facilities that use the My VA Health patient portal: 
@@ -19,12 +25,12 @@ OH Facilities that use the My VA Health patient portal:
 | Mann-Grandstaff Department of Veterans Affairs Medical Center | Spokane WA | VHA_668 |
 | Captain James A. Lovell Federal Health Care Center | North Chicago IL | VHA_556 |
 
-## Methods to accessing the My VA Health (OH) portal
+## <a name="methods">Methods to accessing the My VA Health (OH) portal</a>
 There are two ways for users with Oracle Health facilities to access this portal: 
 * **Method A** - Sign into VA.gov -> Go to My HealhteVet -> click on a My VA Health link from a My HealtheVet page -> land on My VA Health
 * **Method B** - Use direct link (probably bookmarked) to My VA Health -> Authenticate via USiP sign-in -> land on My VA Health
 
-### Method A data notes:
+## <a name="a">Method A data notes</a>
 **Data retrieval method**: GA4 link analysis
 
 <img width="806" height="505" alt="image (49)" src="https://github.com/user-attachments/assets/b5c0e881-7ead-44a2-9b49-8b59afce9db0" />
@@ -41,7 +47,7 @@ There are two ways for users with Oracle Health facilities to access this portal
   * In July, a link was added to the MHV on VA.gov landing page to hopefully solve for this. But looking at the data, users are not utilizing this link (which is not among top 10 links).
     * This is surprising an potentially indicates that the current link solution on the main My HealtheVet landing page is not visually "loud" enough for users to notice.
  
-## Method B data notes: 
+## <a name="b">Method B data notes</a>
 **Data retrieval method**: Log data on number of total hits to the USiP sign-in proxy page for My VA Health (OH) portal, provided by Identity team on 9/19/2025. [Slack thread here](https://dsva.slack.com/archives/CSFV4QTKN/p1758292182032149). 
 
 * 0.52% of all total authentications on VA.gov come in via this method
@@ -55,7 +61,7 @@ There are two ways for users with Oracle Health facilities to access this portal
 * While the data focus for this transition is around _successful logins_ via Method B, Patrick Bateman investigated a high frequency of unsuccessful logins via this method in May 2025, and determined that ~9k in a 15-day period were not succeeding. Some thoughts about how to handle that in FE UX are included in section below. 
 
 
-## Design / Sensemaking questions around planned tactics to address Method A & B users:
+## <a name="sensemaking">Design / Sensemaking questions around planned tactics to address Method A & B users</a>
 
 ### Method A
 Planned tactic: 
@@ -88,4 +94,4 @@ Notes:
  * We need to make sure that the 9k users with the My VA Health (OH) portal URL who should NOT be routed to My VA Health don't see this interstitial.
    * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
 
-## Questions
+## <a name="questions>Questions</a>
