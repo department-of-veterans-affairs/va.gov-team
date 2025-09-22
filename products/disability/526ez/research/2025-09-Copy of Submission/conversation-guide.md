@@ -174,7 +174,7 @@ Go ahead and click on ”Submit Application.“
 
 ### **First Task \- Goal 1: Gather feedback on the overall content of the page. (5 minutes)**
 
-Okay first, we would like you to review the content on this page. As you review what is on this page, please share everything that you are thinking out loud with us so that we can understand your impressions of the page. This might look like, “I am seeing this box here and it is making me think X.” This might feel funny, but it is a great way for us to gather your feedback. 
+Okay first, we would like to ask you to read through this page and share your thoughts aloud with us as you do. This might look like, “I am seeing this box here and it is making me think X,” or "I read this paragraph and it's telling me to do Y."  This might feel funny, but it is a great way for us to gather your feedback and know if this page is working as we intended. 
 
 I just want to reiterate: In this session we are testing this demo page, not you. We want to hear exactly what you think so please don’t worry that you are going to hurt our feelings.
 
