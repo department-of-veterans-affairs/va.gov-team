@@ -151,7 +151,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 17 [9/10/25 - 9/23/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|--|--|
+|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|09/16/25|Completed|
 |UX: Investigate, identify and work with stakeholders on ways to improve the Marital Status question on the FSR, to cover all situations/scenarios referenced in the Medallia reports.| QP7 |--|--|--|
 |ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|9/22/25|Completed|
 |ENG: Complete all remaining One Thing Per Page work and book Staging Review.| QP2 |--|--|--|
