@@ -675,20 +675,3 @@ Mobile app already displays `displayTitle` directly, so minimal changes needed:
 2. **Testing**: Centralized logic easier to test comprehensively
 3. **Documentation**: Single location for title mapping documentation
 4. **Future-proof**: Backend can evolve without frontend changes
-
-### Success Metrics
-
-1. **User Experience**
-   - 0% of claims showing incorrect "Disability Compensation" default
-   - 100% consistency between web and mobile titles
-   - Specific pension types preserved in all contexts
-
-2. **Technical**
-   - Reduce frontend complexity by 75+ override arrays
-   - Single backend service for all title generation
-   - Test coverage increased to 100% for title logic
-
-3. **Maintenance**
-   - Title updates require changes in 1 file instead of 3+ files
-   - New claim types supported without frontend deployments
-   - Reduced bug reports related to claim titles
