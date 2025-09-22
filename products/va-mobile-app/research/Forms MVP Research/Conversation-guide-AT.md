@@ -251,6 +251,7 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 
 
+
 ## Task 5: Continue completing the started form and submit
 Now, pretend you are ready to come back to your previous form to complete & submit it. 
 
@@ -317,6 +318,10 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 (hint: to switch browser windows the user can select the three lines III in the bottom left corner of their lower nav. menu)
 
 ## Thank You and Closing - 3 minutes
+
+How was this process overall for you?
+
+Was there anything you would change about this process?
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*
