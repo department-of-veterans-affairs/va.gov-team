@@ -91,19 +91,50 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> Smartphone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> iOS
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Safari
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
+
+Recently did travel pay reimbursement with the app, “Super easy, it was awesome…”
+
    - If so, can you tell me about your most recent experience? How did it go?
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
 
+> Yes
+
+   - If so, can you tell me what you use the mobile app primarily for?
+
+> My VA claim My health Appointments, put in my iphone calendar but don’t write down the locate so I reference the app to see what building number or what room number. That is really helpful.
+
+<br>
+
+How has your experience been so far?
+
+> The stuff that is there is good, its not bad at all. - Wish it had: to access certain things, like making appointments. I don’t know if it’s not showing a doctor and I have to call and look for that. In general, it would be like I’m able to send a message to my primary care but for example if I have dental I can’t leave them a message I have to call on the phone. It would be nice to have, to alleviate the phone, because you have to go through the whole process of like connecting through the main lines and they connect you. I just want the capability to send them a direct message. I’m not asking for someone to answer the phone, but just the ability to send a message.
+
+<br>
 
 # User Tasks
 
@@ -124,6 +155,11 @@ We can help guide you through this if you need help. Please say what you're doin
 ## Task 00: Open prototype
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
+
+> Yes
+
+<br>
+
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
@@ -180,11 +216,29 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> Login, no problems. 
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> Got an error message to update once in and when clicked update now it took her to the full version not the test flight. Ignore the update.
+
+<br>
 
 
 ## Task 2: Start a statement
-Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? 
+
+> Benefits
+
+<br>
+
+What would you expect this section to be called?
+
+> Claims
+
+<br>
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
@@ -194,9 +248,17 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+
+Yes
+
     - If Y, where do they go instead?
+
+Would go to ‘Benefits’ Clicked on Benefits but I directed her back tot the homepage, scrolled down, directed her to click ‘Go to my forms’
+
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
     - If Y, what do they find confusing?
+
+No
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
@@ -205,24 +267,57 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
+Screen "Submit a statement in support of a claim"
+User had no comment
+
+Screen "What would you like to do here?"
+
+> I want to provide context or details about a claim. OR I want to submit new evidence in support of an existing claim
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+User wasn't clear on which option she should choose for screen "what would you like to do here?"
     - Did they mention any previous experience or confusion?
+User wasn't sure what claim this was related to?
+
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+
+Yes
     - If Y, what field do they encounter errors on?
+
+SSN
       - What triggered the error specifically?
+Invalid number of all 1s
       - Does the user understand how to correct the error? 
+
+User tried to add an additional number, thought she did not put enough numbers into the SSN field.
+
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+No
+
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
 - Does the user express thoughts of frustration while completing the form? Y/N
+
+No
     - If Y, what did they experience when expressing the frustration?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> That was confusing, what type of, because of knowing which type of form. When you say statement in support of a claim, that part was confusing a little bit.
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -234,14 +329,30 @@ Pretend you need to step away from the form for an extended period of time, you 
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user select anything other than Done to leave the form? Y/N
+
+Yes
+
     - If yes, what does the user do?
+    
+User asked about ‘finish this application later’ Clicked that, wasn’t sure how to return to the app main page from here. 
+
+> Maybe click Done I don’t, I don’t know.
+
+<br>
+
 - Does the user express doubt that their work will be saved? Y/N
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+Difficulty leaving form.
 
 
 ## Task 5: Continue completing the started form and submit
@@ -251,25 +362,52 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 [From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
+User expanded each section to review data entered before entering full name for statement of truth.
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User dismissed the toast after a while to find ‘Continue form’, previously the toast blocked the entire section. She noticed it only after attempting to scroll.
+
     - Did they mention any previous experience or confusion?
+    
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+Yes
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
+
+Yes. 
     - If no, what prohibited them from submitting the initial form?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
+
 Was any part hard to navigate or understand?
 
+> No
+
+<br>
+
 Did you find navigation particularly challenging in any way?
+
+> No, cause it’s similar to the online. Where you do, like on my computer, its very like the same thing and I’ve done it online before which is why it was very familiar to me.
+
+<br>
 
 If Y, why?
 
 Did you find any labels particularly confusing on the form?
+
+> No
+
+<br>
 
 If Y, what labels specifically and how might they be improved for clarity?
  
@@ -278,26 +416,54 @@ Now that you have completed the form, navigate back to the general forms locatio
 
 [Select 'Done' to exit the confirmation page, Go to 'Forms']
 
+Navigating back to the app, found the Done button.
+
+Looked first under ‘Benefits’ and then ‘Claims’, had to redirect her back to the home screen ‘Go to my forms’
+
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> I would click on complete, but it says I don’t have any completed forms so its not complete.
+
+<br>
+
 - What does this status mean to you? 
+
+> Well I see it’s in progress but, I guess it’s confusing to me, meaning, when it’s saying complete does that mean I completed the form or they completed seeing it. That is a little confusing to me because I just submitted it. You know what I mean.” 17:25 “Instead of saying in progress it could say submitted or something. In progress is kind of vague. It could mean that I didn’t finish it but I did finish it, so that would be a little bit of confusion for me.
+
+<br>
 
 - What would you expect to see if you needed to check on your submission later?
 
+> I would expect to see submitted, or not in progress, something to say it was submitted. Then go to ‘Complete’ part and it is showing it as completed.
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+She expected the submitted form to be visible under claims.
     - Did they mention any previous experience or confusion?
 - Does the user express confidence that they have completed and submitted their form?
+Yes, but they were concerned that the form was not under the completed tab because they completed the submission.
     - If no, what is confusing to them and why?
 - DOes the user understand the status of the form?
+No
     - If not, what do confusion do they express when interpretting the form status?
-    - 
+See comment above under "What does this status mean to you?"
+
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> Status
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -332,9 +498,22 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> Good.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> No. I know that, I will say that my dad, like he’s older and I’ve helped him with his stuff. I just think for older people this might be trickier, like in general this is great. This used to be such a frustrating process and I appreciate you continuing to improve this process. This is great.
+
+<br>
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
