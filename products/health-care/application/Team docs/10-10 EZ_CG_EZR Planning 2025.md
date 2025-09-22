@@ -18,7 +18,7 @@
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
-- [ ] **SPRINT GOAL** [#118997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118997) - [BE] Remediate in-progress emails issue
+- [x] **SPRINT GOAL** [#118997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118997) - [BE] Remediate in-progress emails issue
 
 ## 
 ### 10-10CG
@@ -28,7 +28,7 @@
 ## 
 ### 10-10EZR
 #### Obj: EZR [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
-- [ ] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch - **_Carry over due to bug fix & additional QA_**
+- [x] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch - **_Carry over due to bug fix & additional QA_**
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over to Sprint 3 due to Eng availability, bug fix & additional QA_**
