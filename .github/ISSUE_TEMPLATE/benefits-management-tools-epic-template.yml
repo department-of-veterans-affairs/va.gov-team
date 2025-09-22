@@ -153,8 +153,8 @@ body:
     id: dod-notes
     attributes:
       label: DoD Notes (optional)
-      description: Add any additional or team-specific acceptance criteria.
-      placeholder: "Additional acceptance criteria…"
+    validations:
+      required: false
 
   - type: textarea
     id: open-questions
@@ -178,6 +178,19 @@ body:
         - Figma: …
         - Related PRs: …
         - Appendix/Docs: …
+    validations:
+      required: false
+
+  # ---------- Related Super Epic ----------
+  - type: input
+    id: super-epic-link
+    attributes:
+      label: Related Super Epic
+      description: |
+        If this Epic rolls up under a Super Epic, paste the link or number here.  
+        Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/123456  
+        Or simply: #123456
+      placeholder: "Paste Super Epic link or reference (e.g., #123456)"
     validations:
       required: false
 
