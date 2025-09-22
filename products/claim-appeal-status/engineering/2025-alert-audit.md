@@ -5,10 +5,7 @@ Last Updated: 9-22-25
 - Issue: [[CST Alert Improv] Audit CST Alerts #119651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119651)
 - Epic: [CST Alerts Alignment and Improvements #119389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119389)
 
-## Overview
-This document provides a comprehensive audit of all VA alerts used in the Claims Status application.
-
-### Verification Steps
+## Verification Steps
 
 For each alert, include:
 
@@ -46,9 +43,9 @@ For each alert, include:
 
 **Testing Note**: Comment out trigger conditions with `true` to always show alerts for screenshots - this is intentional for verification, not a deviation.
 
-### Claims List Page
+## Claims List Page
 
-#### Claims Unavailable Alert
+### Claims Unavailable Alert
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsUnavailable.jsx](../../components/ClaimsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:154](../../containers/YourClaimsPageV2.jsx)
@@ -99,7 +96,7 @@ For each alert, include:
   - Using legacy USWDS `usa-alert` CSS classes instead of modern `<va-alert>` web component
   - No ARIA role for dynamic alert (should have `role="alert"` if appearing after API failure)
 
-#### Appeals Unavailable Alert
+### Appeals Unavailable Alert
 - Location:
   - Component: [src/applications/claims-status/components/AppealsUnavailable.jsx](../../components/AppealsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:161](../../containers/YourClaimsPageV2.jsx)
@@ -132,7 +129,7 @@ For each alert, include:
   - No ARIA role for dynamic alert (should have `role="alert"` if appearing after API failure)
   - Typo: "in a hour" should be "in an hour"
 
-#### Claims & Appeals Unavailable Alert
+### Claims & Appeals Unavailable Alert
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsAppealsUnavailable.jsx](../../components/ClaimsAppealsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:150](../../containers/YourClaimsPageV2.jsx)
@@ -171,7 +168,7 @@ For each alert, include:
   - No ARIA role for dynamic alert (should have `role="alert"` if appearing after API failure)
   - Typo: "in a hour" should be "in an hour"
 
-#### No Claims Alert
+### No Claims Alert
 - Location:
   - Component: [src/applications/claims-status/components/NoClaims.jsx](../../components/NoClaims.jsx)
   - Your claims list (empty state): [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:219](../../containers/YourClaimsPageV2.jsx)
@@ -197,7 +194,7 @@ For each alert, include:
 - Deviations from Design System:
   - Using legacy USWDS `usa-alert` CSS classes instead of modern `<va-alert>` web component
 
-#### Claims List Item - Requested Evidence Alert
+### Claims List Item - Requested Evidence Alert
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsListItem.jsx:103-111](../../components/ClaimsListItem.jsx)
   - Your claims list (individual claim cards): [/your-claims](/your-claims) - [ClaimsListItem.jsx](../../components/ClaimsListItem.jsx)
@@ -222,60 +219,60 @@ For each alert, include:
 - Deviations from Design System:
   - None (Uses modern `<va-alert>` web component with slim variant appropriately)
 
-### Claim Details - Status Tab
+## Claim Details - Status Tab
 
-#### What We Are Doing Alert
+### What We Are Doing Alert
 - Location: "What We Are Doing" section
 - File: `src/applications/claims-status/components/claim-status-tab/WhatWeAreDoing.jsx:64-71`
 - Type: `<va-alert>` (optional alert)
 - CSS Class: `optional-alert vads-u-padding-bottom--1`
 - Trigger: Based on claim processing status
 
-#### Recent Activity - Third Party Request Alert
+### Recent Activity - Third Party Request Alert
 - Location: Recent Activity section
 - File: `src/applications/claims-status/components/claim-status-tab/RecentActivity.jsx:210-232`
 - Type: `<va-alert>` (optional alert)
 - CSS Class: `optional-alert vads-u-padding-bottom--1`
 - Trigger: When third-party evidence is requested
 
-#### Closed Claim Alert
+### Closed Claim Alert
 - Location: Top of status tab when claim is closed
 - File: `src/applications/claims-status/components/claim-status-tab/ClosedClaimAlert.jsx:18-49`
 - Type: `<va-alert status="info">`
 - CSS Class: `vads-u-margin-bottom--4`
 - Trigger: When claim status is closed/complete
 
-#### Phase Back Warning
+### Phase Back Warning
 - Location: Claim phase display when phase moves backward
 - File: `src/applications/claims-status/components/PhaseBackWarning.jsx:5-13`
 - Type: Legacy USWDS alert
 - CSS Classes: `usa-alert usa-alert-warning claims-alert phase-back-alert`
 - Trigger: When claim phase number decreases
 
-#### Ask VA To Decide Alert
+### Ask VA To Decide Alert
 - Location: Status tab when claim is ready for decision
 - File: `src/applications/claims-status/components/AskVAToDecide.jsx:6-24`
 - Type: Legacy USWDS alert
 - CSS Classes: `usa-alert usa-alert-info background-color-only claims-alert-status alert-with-details`
 - Trigger: When all evidence is submitted and user can request decision
 
-### Claim Details - Files Tab
+## Claim Details - Files Tab
 
-#### Files Needed Alert
+### Files Needed Alert
 - Location: Top of Files tab when evidence is required
 - File: `src/applications/claims-status/components/claim-files-tab/FilesNeeded.jsx:53-80`
 - Type: `<va-alert status="warning">`
 - CSS Class: `primary-alert vads-u-margin-bottom--2`
 - Trigger: When VA requires evidence from the user
 
-#### Files Optional Alert
+### Files Optional Alert
 - Location: Files tab when additional evidence could help
 - File: `src/applications/claims-status/components/claim-files-tab/FilesOptional.jsx:35-55`
 - Type: `<va-alert status="info">`
 - CSS Class: `optional-alert vads-u-margin-bottom--2`
 - Trigger: When user can submit optional supporting evidence
 
-#### Standard 5103 Notice Alert
+### Standard 5103 Notice Alert
 - Location: Files tab (may not be currently active)
 - File: `src/applications/claims-status/components/claim-files-tab/Standard5103Alert.jsx:10-34`
 - Type: `<va-alert status="warning">`
@@ -283,37 +280,37 @@ For each alert, include:
 - Trigger: When standard 5103 evidence notice applies
 - Note: Code comment indicates this may not be currently used
 
-#### Past Deadline Alert
+### Past Deadline Alert
 - Location: Document request detail pages (accessed from Files tab)
 - File: `src/applications/claims-status/components/claim-document-request-pages/DefaultPage.jsx:93-99`
 - Type: `<va-alert status="warning">`
 - CSS Class: `vads-u-margin-top--4`
 - Trigger: When viewing a document request past its deadline
 
-### Claim Details - Overview Tab
+## Claim Details - Overview Tab
 
-#### Adding Details Alert
+### Adding Details Alert
 - Location: Claim detail pages when data is still loading
 - File: `src/applications/claims-status/components/AddingDetails.jsx:5-17`
 - Type: `<va-alert status="info" slim>`
 - Trigger: When claim details are incomplete or still being processed
 
-#### Claim Phase Stepper Alert
+### Claim Phase Stepper Alert
 - Location: Claim phase stepper component
 - File: `src/applications/claims-status/components/claim-overview-tab/ClaimPhaseStepper.jsx:87-94`
 - Type: `<va-alert>` (optional alert)
 - CSS Class: `optional-alert vads-u-padding-bottom--1`
 - Trigger: Conditional based on claim phase and status
 
-### System-wide Components
+## System-wide Components
 
-#### Work In Progress (WIP) Alert
+### Work In Progress (WIP) Alert
 - Location: Decision letters section when feature is unavailable
 - File: `src/applications/claims-status/components/WIP.jsx:4-14`
 - Type: `<va-alert status="warning">`
 - Trigger: When decision letter download feature is disabled/unavailable
 
-#### Generic Notification Component
+### Generic Notification Component
 - Location: Various locations throughout the application
 - File: `src/applications/claims-status/components/Notification.jsx:25-36`
 - Type: `<VaAlert>` React component
@@ -325,15 +322,15 @@ For each alert, include:
   - Customizable title and body content
 - Trigger: Various user actions and system responses
 
-#### STEM Denied Details (Alert-styled)
+### STEM Denied Details (Alert-styled)
 - Location: STEM scholarship denial page
 - File: `src/applications/claims-status/components/StemDeniedDetails.jsx`
 - Type: Custom div with alert-like styling (not a true alert component)
 - CSS Class: `vads-u-background-color--primary-alt-lightest`
 
-### Appeals Section
+## Appeals Section
 
-#### Appeals Alert List
+### Appeals Alert List
 - Location: Appeals detail pages
 - File: `src/applications/claims-status/components/appeals-v2/AlertsList.jsx`
 - Type: Container for multiple legacy USWDS alerts
@@ -353,13 +350,13 @@ For each alert, include:
   - `evidentiaryPeriod` - Evidence submission period
   - `amaPostDecision` - Post-decision options
 
-#### Individual Appeal Alert Component
+### Individual Appeal Alert Component
 - Location: Within appeals alert list
 - File: `src/applications/claims-status/components/appeals-v2/Alert.jsx:14-18`
 - Type: Legacy USWDS alert
 - CSS Classes: Dynamic based on alert type (warning/info)
 
-#### Missing Events Alert
+### Missing Events Alert
 - Location: Past events section in appeals
 - File: `src/applications/claims-status/components/appeals-v2/PastEventsSection.jsx` and `Expander.jsx`
 - Type: Legacy `usa-alert usa-alert-warning`
