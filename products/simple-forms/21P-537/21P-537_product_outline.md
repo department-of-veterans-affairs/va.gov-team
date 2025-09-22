@@ -37,50 +37,48 @@ For beneficiaries who have not remarried since the death of the Veteran, the for
 ## Desired Business Outcomes
 
 *Why would your business want this to exist?*
+
 The digitization of Form 21P-0537 form directly supports the VA's mandate to ensure accurate, timely, and efficient administration of Dependency and Indemnity Compensation (DIC). Specifically, digitization of Form 21P-0537 enables the business to:
 - Increase operational efficiencies: Current processes require paper handling, and manual data entry, all of which consume staff time and increase the risk of errors. If adopted by users, an electronic form option could reduce operational overhead for the VA.
-- Align with VA’s digital transformation goals: This supports the agency’s broader mandate to optimize benefits intake and provide modern, user-friendly services.
+- Align with VA's digital transformation goals: This supports the agency's broader mandate to optimize benefits intake and provide modern, user-friendly services.
 
 *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-By solving this problem, VA will gain new capabilities that go beyond the paper-based process:
-1. With digital data capture, the VA can more reliably automate processing
 
+By solving this problem, VA will gain new capabilities that go beyond the paper-based process:
+
+1. With digital data capture, the VA can more reliably automate processing
 2. Scale more easily to meet the 11/11/2025 digitization goal. Lessons learned from digitizing this form can be applied to the other forms, creating repeatable patterns and technical efficiencies.
-  
+
 ## Undesired Business Outcomes
 - If users don't adopt the form, the VA could incur the cost of development and maintenance of the electronic form without a corresponding increase in operational efficiencies from form use.
 
----
 ## Measuring Success
-
 
 ### Key Performance Indicators (KPIs)
 
-KPIs
-1. Digital Submission Adoption Rate
-- % of VA Form 21P-0537 submissions completed digitally vs. paper.
-- Tracks whether users prefer and successfully adopt the digital option.
+1. **Digital Submission Adoption Rate**
+   - % of VA Form 21P-0537 submissions completed digitally vs. paper
+   - Tracks whether users prefer and successfully adopt the digital option
 
-2. On-Time Response Rate
-- % of users who return the form within 60 days.
-- Directly tied to preventing undesired user outcome (loss of DIC benefits).
+2. **On-Time Response Rate**
+   - % of users who return the form within 60 days
+   - Directly tied to preventing undesired user outcome (loss of DIC benefits)
 
-3. Processing Time (Cycle Time)
-- Average time from user submission → marital status update in VBMS.
-- Critical for business efficiency and reducing backlog.
+3. **Processing Time (Cycle Time)**
+   - Average time from user submission → marital status update in VBMS
+   - Critical for business efficiency and reducing backlog
 
+### Objectives and Key Results (OKRs)
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-Ensure surviving spouses can easily, quickly, and confidently verify their marital status online so that Dependency and Indemnity Compensation (DIC) benefits are protected without interruption, while reducing the burden of paper processes.
+*What are the measurable targets you're aiming for that delivers value for Veterans?*
 
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+**Objective:** Improve form submission experience and processing efficiency for DIC beneficiaries
 
-- Objective:
-  - Key result 1: Increase digital adoption of Form 21P-0537 to at least 25% of submissions by 1/31/2026.
-    - Value to Veterans: More survivors can complete the form electronically, avoiding mail delays and uncertainty.
-  - Key result 2: Reduce average processing time (submission → VBMS update) by 30%
+- **Key Result 1:** Increase digital adoption of Form 21P-0537 to at least 25% of submissions by 1/31/2026
+  - *Value to Veterans:* More survivors can complete the form electronically, avoiding mail delays and uncertainty
+
+- **Key Result 2:** Reduce average processing time (submission → VBMS update) by 30%
+  - *Value to Veterans:* Faster processing reduces uncertainty and ensures timely benefit continuation
 
 ---
 
