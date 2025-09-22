@@ -1,7 +1,7 @@
 name: Benefits Management Tools General Issue
 description: Create a new issue (Task, Bug, Enhancement, Question, Design, or Accessibility)
 title: "[Issue Type] [Short descriptive title]"
-labels: ["benefits-management-tools", "issue"]
+labels: ["benefits-management-tools", "issue", "product-backlog"]
 assignees: []
 
 body:
