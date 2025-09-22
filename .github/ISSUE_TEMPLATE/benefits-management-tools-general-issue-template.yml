@@ -176,11 +176,11 @@ body:
     validations:
       required: false
 
-  # ---------- Sizing and Priority ----------
+   # ---------- Estimation and Priority ----------
   - type: dropdown
     id: estimate
     attributes:
-      label: Estimate (Story Points)
+      label: Estimate
       description: Select an effort estimate for this issue.
       options:
         - 1 – Very minuscule, less than a day
@@ -189,6 +189,15 @@ body:
         - 5 – Bigger effort, about a week
         - 8 – Likely about a full sprint
         - 13 – Big effort, multiple sprints (consider breaking down)
+    validations:
+      required: false
+
+  - type: input
+    id: points
+    attributes:
+      label: Points
+      description: Enter a numeric value for story points if needed.
+      placeholder: "e.g., 3"
     validations:
       required: false
 
@@ -204,9 +213,6 @@ body:
         - Pinned
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
         ---
         ✅ **Reminder:**
 
