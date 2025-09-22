@@ -8,13 +8,15 @@
 - Family members (spouses, dependents, survivors)
 - Family caregivers (not always family members)
 
+**Identified strategic home for this content:** Modernized VA.gov
+
 ### 1.1 Benefit and service content
 
 #### 1.1.1 Core benefit content
 
 Basic information Veterans and other beneficiaries need to quickly and easily discover, apply for, track, and manage VA benefits.
 
-**Identified strategic home:** Modernized VA.gov benefit hubs
+**Identified strategic home for this content:** Modernized VA.gov (benefit hubs)
 
 #### 1.1.2 Supplemental benefit and service content
 
@@ -22,7 +24,7 @@ Supplemental information to empower Veterans and other beneficiaries to fully un
 
 - How-to type content
 
-**Identified strategic home:** Modernized VA.gov resources and support section
+**Identified strategic home for this content:** Modernized VA.gov (resources and support section)
 
 #### 1.1.3 Location-specific benefit and service content
 
@@ -31,7 +33,7 @@ Information Veterans and other beneficiaries need to access care and other servi
 - VA benefit offices
 - VA national cemeteries
 
-**Home:** Modernized VA.gov facility locator and facility websites
+**Modernized strategic home for this content:** Modernized VA.gov (facility locator and facility websites)
 
 ### 1.2 Outreach, news, and event content
 
@@ -39,7 +41,7 @@ Information Veterans and other beneficiaries need to access care and other servi
 
 Outreach materials designed for VA partners to give to Veterans (not for Veterans to access directly)
 
-**Home:** These currently have several homes (modernized VA.gov outreach library, Choose.va.gov outreach library, and a duplicative outreach materials in Discover.va.gov. We need to choose the one that makes the most sense strategically and retire the others.
+**Modernizated strategic home for this content:** These currently have several homes (modernized VA.gov outreach library, Choose.va.gov outreach library, and duplicative outreach materials in Discover.va.gov. We need to choose the one that makes the most sense strategically and retire / redirect the others.
 
 #### 1.2.2 News
 
