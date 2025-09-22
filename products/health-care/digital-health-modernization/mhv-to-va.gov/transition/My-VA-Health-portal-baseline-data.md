@@ -94,4 +94,4 @@ Notes:
  * We need to make sure that the 9k users with the My VA Health (OH) portal URL who should NOT be routed to My VA Health don't see this interstitial.
    * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
 
-## <a name="questions>Questions</a>
+## <a name="questions">Questions</a>
