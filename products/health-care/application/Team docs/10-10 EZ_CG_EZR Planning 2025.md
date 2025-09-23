@@ -12,6 +12,7 @@
 - Update EZ File upload to accept & convert .heic files
 - Update EZ PDF “Provide Support” question response on the generated PDF
 - Update EZ confirmation page to remove “mail” reference for handbook
+- Create production form flow for CHAMPVA Claims 107959a
 
 - Knowledge-sharing with Brandon
 
@@ -54,7 +55,9 @@
 ## 
 ### FMP - Claims
 #### Obj: [Improvements]
+- [ ] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
 - [ ] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
+
 
 ##
 ### IVC
