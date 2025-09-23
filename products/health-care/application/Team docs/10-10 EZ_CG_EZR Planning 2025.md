@@ -9,7 +9,6 @@
 - Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch delaying investigation)
 - Knowledge-sharing with Brandon
 - Complete EZR Print/Save PDF Launch
-- Update EZ File upload to accept & convert .heic files
 - Review EZR Confirmation Flow/V2 release plans
 - Update EZ PDF “Provide Support” question response on the generated PDF
 - Update EZ confirmation page to remove “mail” reference for handbook
@@ -59,10 +58,10 @@
 - [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- Investigate cause of Intro page looping feedback (from Medallia)
-- Determine resolution for in-progress email issue, confirming if resolution should be platform-wide
-- Re-launch EC/NOK
-- Complete QA on Household V2, preparing for launch
+- [ ] Investigate cause of Intro page looping feedback (from Medallia)
+- [x] Determine resolution for in-progress email issue, confirming if resolution should be platform-wide
+- [x] Re-launch EC/NOK
+- [ ] Complete QA on Household V2, preparing for launch
 
 
 ##
@@ -88,23 +87,23 @@
 - [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
 
 #### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog - **_Carry over to Sprint 3 due to attention turned to EC/NOK bug fix_**
+- [x] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog - **_Carry over to Sprint 3 due to attention turned to EC/NOK bug fix_**
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- [ ] **Stretch** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
+- [x] **Stretch** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
 
 #### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **Stretch** [#113982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
+- [x] **Stretch** [#113982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
 
 ## 
 ### FMP - Claims
 #### Obj: [Improvements]
-- [ ] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
+- [x] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
 
 ##
 ### IVC
 #### Obj: [RUM Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98945)
-- [ ] **Stretch** [#115604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115604) - [Eng] 10-10d CHAMPVA - Hide PII in RUM dashboard
+- [x] **Stretch** [#115604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115604) - [Eng] 10-10d CHAMPVA - Hide PII in RUM dashboard
 - [ ] **Stretch** [#116731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116731) - [Eng] 10-7959c OHI - Hide PII in RUM dashboard
 - [ ] **Stretch** [#116567](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116567) - [Eng] 10-7959a CHAMPVA Claims - Hide PII in RUM dashboard
 - [ ] **Stretch** [#116734](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116734) - [Eng] 10-7959f-1 FMP - Hide PII in RUM dashboard
