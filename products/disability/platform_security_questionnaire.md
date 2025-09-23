@@ -24,7 +24,7 @@ VFS team: Disability Benefits Crew (DBC)
 - If you represent multiple products, please describe the relationship between them, if there is any.
    - the Form 526ez submission flow invokes the Contention Classification API and Employee Experience features, to supplement the user-provided form data. The Contention Classification API and Employee Experience features are not relied on production systems other than the Form 526ez submission flow.
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
-  - Ongoing with regular enhancements. The contract runs through ~March 2028.
+  - Ongoing with regular enhancements. The contract runs through ~March 2028, with additional option periods. 
 
 ### AWS Resources
 - List AWS services used
@@ -32,9 +32,15 @@ VFS team: Disability Benefits Crew (DBC)
    - AWS EKS, as used by VFS ArgoCD (our team's backend work is deployed through apps vets-api and contention-classification-api)
    - AWS S3
 - Describe named instances of each service used
+   -  Settings.form0781_remediation (not regularly used)
+     - S3: dsva-vagov-[dev/staging/sandbox/prod]-evidence-remediation
+   - Settings.form526_backup (not regularly used)
+     - S3: dsva-vagov-[dev/staging/sandbox/prod]-claims-and-appeals
+   - Settings.evss.s3 (used by vets-api, where user uploads live)
+     - S3: dsva-vetsgov-[dev/staging/sandbox/prod]-evss 
    -  S3: dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api
 - Which of your resources handle PII? List the types of PII
-   - these is potential for PII in form submissions on the Form 526ez and ancillary forms; and potential for PII in the files uploaded to S3.
+   - there is potential for PII in form submissions on the Form 526ez and ancillary forms; and potential for PII in the files uploaded to S3.
 - Do you utilize any other cloud resources beyond VA.gov?
    - VA Datadog (vagov.ddog-gov.com), VA GitHub (github.com/department-of-veterans-affairs), DSVA Slack, VFS ArgoCD.
 
@@ -83,9 +89,13 @@ VFS team: Disability Benefits Crew (DBC)
   - Conditions: Lisa Chung
   - Employee Experience: Mark Chae
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS).
-  - not certain, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
+  - not certain, this is handled by the platform tema, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
 - Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
+  - The va.gov cert is signed by  Sectigo Limited, and I know there are other self-signed VA certs on the backends between systems
+  - This is all handled by platform, we do not have involvment in cert managment 
 - List the types of PII shared (in each direction) with this connection
+  - We have PII that we strore and pass from vets-api DB to Lighthouse for claim/evidence/ancillary form submissions
+  - We have PII that we store and pass to AWS (filenames, medical records/evidence) S3
 - Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
   - No, our team does not directly maintain MOUs, ISAs, or IAAs for these connections. These external system connections are facilitated through platform-provided APIs (Lighthouse) and shared services like the Identity VFS team.
 
