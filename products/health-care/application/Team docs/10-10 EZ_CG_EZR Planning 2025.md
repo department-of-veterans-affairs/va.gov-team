@@ -7,13 +7,12 @@
 
 ### Sprint Goal summary
 - Implement EZ Intro page looping fix
-- Complete Launch of EZR Print/Save PDF
-- Update EZR RUM logs to avoid PII
+- Complete EZR Print/Save PDF Launch
+- Review EZR Confirmation Flow/V2 release plans
 - Update EZ File upload to accept & convert .heic files
 - Update EZ PDF “Provide Support” question response on the generated PDF
 - Update EZ confirmation page to remove “mail” reference for handbook
-- Create production form flow for CHAMPVA Claims 107959a
-
+- Create CHAMPVA Claims 107959a production form flow
 - Knowledge-sharing with Brandon
 
 ##
@@ -40,14 +39,14 @@
 
 ## 
 ### 10-10EZR
+#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
+
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
 
 #### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM logs to eliminate PII
-
-#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
+- [ ] **Stretch** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM logs to eliminate PII
 
 #### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **Stretch** [#120215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120215) - [BE, FE] Determine effort for the options
@@ -56,7 +55,7 @@
 ### FMP - Claims
 #### Obj: [Improvements]
 - [ ] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
-- [ ] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
+- [ ] **IVC SPRINT PLANNING** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Finish direct deposit info
 
 
 ##
