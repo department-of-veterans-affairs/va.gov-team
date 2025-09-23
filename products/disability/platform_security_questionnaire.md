@@ -92,9 +92,9 @@ VFS team: Disability Benefits Crew (DBC)
   - not certain, this is handled by the platform team, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
 - Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
   - The va.gov cert is signed by  Sectigo Limited, and I know there are other self-signed VA certs on the backends between systems
-  - This is all handled by platform, we do not have involvment in cert managment 
+  - This is all handled by platform, we do not have involvement in cert management 
 - List the types of PII shared (in each direction) with this connection
-  - We have PII that we strore and pass from vets-api DB to Lighthouse for claim/evidence/ancillary form submissions
+  - We have PII that we store and pass from vets-api DB to Lighthouse for claim/evidence/ancillary form submissions
   - We have PII that we store and pass to AWS (filenames, medical records/evidence) S3
 - Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
   - No, our team does not directly maintain MOUs, ISAs, or IAAs for these connections. These external system connections are facilitated through platform-provided APIs (Lighthouse) and shared services like the Identity VFS team.
