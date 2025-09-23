@@ -6,14 +6,15 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch)
+- Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch delaying investigation)
+- Knowledge-sharing with Brandon
 - Complete EZR Print/Save PDF Launch
-- Review EZR Confirmation Flow/V2 release plans
 - Update EZ File upload to accept & convert .heic files
+- Review EZR Confirmation Flow/V2 release plans
 - Update EZ PDF “Provide Support” question response on the generated PDF
 - Update EZ confirmation page to remove “mail” reference for handbook
 - Create CHAMPVA Claims 107959a production form flow
-- Knowledge-sharing with Brandon
+
 
 ##
 ###  Team Objective
@@ -23,14 +24,10 @@
 ### 10-10EZ
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping 
+- [ ] **SPRINT GOAL-Carried** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
 - [ ] **SPRINT GOAL** [#119891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119891) - [BE] Update file upload to accept & convert .heic files
 - [ ] **SPRINT GOAL** [#118678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118678) - [BE] Update generated PDF Provide Support question to look for “Yes” on any Spouse or Dependents 
 - [ ] **SPRINT GOAL** [#117368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117368) - [FE] Update Confirmation page to remove “mail” reference
-- [ ] **Stretch** [#120203](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120203) - [FE] Explore latest version of file upload component
-
-#### Obj: EZ Form Statuses
-- [ ] **Stretch** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on MyVA form statuses onboarding
 
 ## 
 ### 10-10CG
@@ -44,12 +41,6 @@
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
-
-#### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- [ ] **Stretch** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM logs to eliminate PII
-
-#### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **Stretch** [#120215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120215) - [BE, FE] Determine effort for the options
 
 ## 
 ### FMP - Claims
