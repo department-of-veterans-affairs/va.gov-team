@@ -175,7 +175,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
 |UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
 |ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|--|--|
-|ENG: Complete all 8 pts of ADE feedback for OTPP launch.| QP2 |--|--|--|
+|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|--|--|
+|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/23/25)
