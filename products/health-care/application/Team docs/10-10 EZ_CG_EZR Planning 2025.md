@@ -6,7 +6,6 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- Implement EZ Intro page looping fix
 - Complete EZR Print/Save PDF Launch
 - Review EZR Confirmation Flow/V2 release plans
 - Update EZ File upload to accept & convert .heic files
