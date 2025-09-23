@@ -35,4 +35,5 @@ _Examples of things to do in this ticket, e.g. look at X, Y, design system compo
 - [ ] Content review (if needed)
 - [ ] Accessibility review (if needed)
 - [ ] Incorporated feedback from stakeholders
-- [ ] Created follow-on tickets for _______________ (if needed) 
+- [ ] Created follow-on tickets for _______________ (if needed)
+- [ ] Document change: why change is needed, what you learned as part of discovery, and how any decisions were made
