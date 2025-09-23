@@ -624,7 +624,7 @@ Mobile app already displays `displayTitle` directly, so minimal changes needed:
 
 ### Migration Strategy
 
-#### Phase 1: Backend Deployment + Automatic Mobile Update (Week 1-2)
+#### Phase 1: Backend Deployment + Automatic Mobile Update
 1. Implement `TitleGenerator` service with all 75+ mappings
 2. Add new fields to both web and mobile endpoints
 3. Deploy backend changes
@@ -633,29 +633,18 @@ Mobile app already displays `displayTitle` directly, so minimal changes needed:
    - All mobile users get consistent, accurate titles automatically
    - Serves as early validation of new title logic
 
-#### Phase 2: Web Frontend Rollout (Week 3-4)
+#### Phase 2: Web Frontend Rollout
 1. Deploy web frontend changes behind feature flag
 2. Monitor with 10% rollout initially on VA.gov
 3. Gradually increase to 100% over 1 week
 4. Keep legacy logic as fallback for web only
 5. **Mobile continues displaying new titles throughout this phase**
 
-#### Phase 3: Cleanup & Monitoring (Week 5-6)
+#### Phase 3: Cleanup & Monitoring
 1. Remove web feature flags
 2. **Both platforms now displaying identical titles**
 3. Monitor for any issues across both platforms
 4. Plan deprecation of legacy logic (6-month timeline)
-
-#### Platform Impact Timeline
-
-| Week | Web (VA.gov) | Mobile App |
-|------|--------------|------------|
-| 1-2 | Uses legacy logic | **Automatically gets new titles** |
-| 3 | 10% see new titles | All users see new titles |
-| 4 | 100% see new titles | All users see new titles |
-| 5-6 | Feature flag removed | No changes needed |
-
-**Note**: Mobile benefits first without requiring app store deployment, providing early validation of the backend changes before web rollout.
 
 ### Benefits of This Solution
 
