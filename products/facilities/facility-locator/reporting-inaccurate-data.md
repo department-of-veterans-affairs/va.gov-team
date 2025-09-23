@@ -22,6 +22,9 @@ Jump to:
 | NCA - national cemeteries | name and website from NCA XML - all other data from CDW XML file |
 | NCA - state cemeteries | NCA XML file |
 | Community care providers and pharmacies (usually non-VA facilities)	| PPMS 
+| Community care urgent care locations | identified as POS 17 and 20 |
+| Community care emergency care locations | aligned with the following NUCC specialty codes: <ul><li> 261QE0002X (Ambulatory Health Care Facilities - Clinic/Center - Emergency Care) </li><li> 282N00000X (Hospitals -General Acute Care Hospital) </li><li> 282NC0060X (Hospitals - General Acute Care Hospital - Critical Access) </li><li> 282NC2000X (Hospitals - General Acute Care Hospital - Children) </li><li> 282NR1301X (Hospitals -General Acute Care Hospital - Rural) </li><li> 282NW0100X (Hospitals - General Acute Care Hospital - Women)</li></ul>
+
 
 ## VHA Medical Centers and Clinics
 |	Change needed | Process
