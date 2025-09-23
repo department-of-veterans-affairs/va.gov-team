@@ -6,6 +6,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch)
 - Complete EZR Print/Save PDF Launch
 - Review EZR Confirmation Flow/V2 release plans
 - Update EZ File upload to accept & convert .heic files
@@ -22,7 +23,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
+- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping 
 - [ ] **SPRINT GOAL** [#119891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119891) - [BE] Update file upload to accept & convert .heic files
 - [ ] **SPRINT GOAL** [#118678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118678) - [BE] Update generated PDF Provide Support question to look for “Yes” on any Spouse or Dependents 
 - [ ] **SPRINT GOAL** [#117368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117368) - [FE] Update Confirmation page to remove “mail” reference
@@ -73,7 +74,7 @@
 
 ---
 ## 📆 Sprint 3 (Sept 10 - Sept 23) 
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 - Investigate cause of Intro page looping feedback (from Medallia)
