@@ -1,6 +1,7 @@
 # Decision: Use standalone VA.gov form components with synchronous save-as-you-go
 
 Status: Proposed
+Date: Sept 23, 2025
 
 ## Context
 Travel Pay's Simple, Mileage-Only Claims (SMOC) and Complex Claims (upcoming) forms require different effort in terms of user input. SMOC forms take less than a minute and can easily be restarted as the only inputs are radio buttons. Complex claims require creating new expenses,
