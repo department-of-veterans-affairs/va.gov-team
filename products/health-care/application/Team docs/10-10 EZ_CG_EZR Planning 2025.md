@@ -1,6 +1,74 @@
  # 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
 - Current Sprint first
 
+---
+## 📆 Sprint 4 (Sept 24 - Oct 7) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- Complete Launch of EZR Print/Save PDF
+- Update EZR RUM logs to avoid PII
+- Update EZ File upload to accept & convert .heic files
+- Update EZ PDF “Provide Support” question response on the generated PDF
+- Update EZ confirmation page to remove “mail” reference for handbook
+- Implement EZ Intro page looping fix
+- Knowledge-sharing with Brandon
+
+##
+###  Team Objective
+- [ ] **SPRINT GOAL** [#120222](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120222) - [Team] KT sessions with Brandon
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
+- [ ] **SPRINT GOAL** [#119891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119891) - [BE] Update file upload to accept & convert .heic files
+- [ ] **TBD** [#118678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118678) - [BE] Update generated PDF Provide Support question to look for “Yes” on any Spouse or Dependents 
+- [ ] **SPRINT GOAL** [#117368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117368) - [FE] Update Confirmation page to remove “mail” reference
+- [ ] **Stretch** [#120203](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120203) - [FE] Explore latest version of file upload component
+
+#### Obj: EZ Form Statuses
+- [ ] **Stretch** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on MyVA form statuses onboarding
+
+## 
+### 10-10CG
+
+#### No scheduled work this sprint
+
+## 
+### 10-10EZR
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
+
+
+#### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM logs to eliminate PII
+
+#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
+
+#### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] **Stretch** [#120215](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120215) - [BE, FE] Determine effort for the options
+
+## 
+### FMP - Claims
+#### Obj: [Improvements]
+- [ ] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
+
+##
+### IVC
+#### Obj: [RUM Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98945)
+- [ ] **Stretch** [#115604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115604) - [Eng] 10-10d CHAMPVA - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116731) - [Eng] 10-7959c OHI - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116567](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116567) - [Eng] 10-7959a CHAMPVA Claims - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116734](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116734) - [Eng] 10-7959f-1 FMP - Hide PII in RUM dashboard
+
+
+##
+### Team PTO
+- Matt: 9/25
+- Brandon: 9/26
 
 ---
 ## 📆 Sprint 3 (Sept 10 - Sept 23) 
