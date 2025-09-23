@@ -4,7 +4,7 @@ _This document is intended to record the intentional discrepancies between the d
 
 ## 21-686c Add or Remove Dependents
 - Pension income-related questions
-   - A full feature outline is here
+   - A full feature outline is [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/pension_income_questions.md)
    - Pension and Fiduciary Services requested that VA.gov add these questions to the dependent addition flows on the 686c form, so RBPS can determine whether the claim to add a dependent should be off-ramped or auto-processed
  
 ## 21-674 Request Approval for School-Aged Child
