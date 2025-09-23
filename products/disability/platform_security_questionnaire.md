@@ -89,7 +89,7 @@ VFS team: Disability Benefits Crew (DBC)
   - Conditions: Lisa Chung
   - Employee Experience: Mark Chae
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS).
-  - not certain, this is handled by the platform tema, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
+  - not certain, this is handled by the platform team, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
 - Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
   - The va.gov cert is signed by  Sectigo Limited, and I know there are other self-signed VA certs on the backends between systems
   - This is all handled by platform, we do not have involvment in cert managment 
