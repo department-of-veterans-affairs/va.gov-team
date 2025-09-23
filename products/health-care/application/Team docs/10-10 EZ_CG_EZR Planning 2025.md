@@ -6,13 +6,13 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch delaying investigation)
-- Knowledge-sharing with Brandon
-- Complete EZR Print/Save PDF Launch
-- Review EZR Confirmation Flow/V2 release plans
-- Update EZ PDF “Provide Support” question response on the generated PDF
-- Update EZ confirmation page to remove “mail” reference for handbook
-- Create CHAMPVA Claims 107959a production form flow
+- [ ] Investigate Intro page looping [CARRIED OVER - due to bug fixes from ECNOK Launch delaying investigation)
+- [ ] Knowledge-sharing with Brandon
+- [ ] Complete EZR Print/Save PDF Launch
+- [ ] Review EZR Confirmation Flow/V2 release plans
+- [ ] Update EZ PDF “Provide Support” question response on the generated PDF
+- [ ] Update EZ confirmation page to remove “mail” reference for handbook
+- [ ] Create CHAMPVA Claims 107959a production form flow
 
 
 ##
