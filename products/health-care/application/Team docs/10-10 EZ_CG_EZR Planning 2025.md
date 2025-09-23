@@ -26,7 +26,7 @@
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
 - [ ] **SPRINT GOAL** [#119891](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119891) - [BE] Update file upload to accept & convert .heic files
-- [ ] **TBD** [#118678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118678) - [BE] Update generated PDF Provide Support question to look for “Yes” on any Spouse or Dependents 
+- [ ] **SPRINT GOAL** [#118678](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118678) - [BE] Update generated PDF Provide Support question to look for “Yes” on any Spouse or Dependents 
 - [ ] **SPRINT GOAL** [#117368](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117368) - [FE] Update Confirmation page to remove “mail” reference
 - [ ] **Stretch** [#120203](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120203) - [FE] Explore latest version of file upload component
 
