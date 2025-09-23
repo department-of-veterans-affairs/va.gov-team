@@ -660,7 +660,7 @@ Mobile app already displays `displayTitle` directly, so minimal changes needed:
 ### Benefits of This Solution
 
 #### Immediate Benefits
-1. **✅ Solves all 4 critical issues**:
+1. ** Solves all 4 critical issues**:
    - Null claimType problem: Backend provides proper titles
    - Death claim inconsistency: Unified across platforms
    - Platform inconsistency: Same titles everywhere
