@@ -98,4 +98,4 @@ In the event of an incident during release or post-release monitoring period:
 
 ## Resources
 * [Release Plan](../document-status/release-plan.md)
-* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/b0b97824dad1c3f66cd3ffee962f6584280b318e/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md) [DRAFT]
+* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md)
