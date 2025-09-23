@@ -6,12 +6,13 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- Implement EZ Intro page looping fix
 - Complete Launch of EZR Print/Save PDF
 - Update EZR RUM logs to avoid PII
 - Update EZ File upload to accept & convert .heic files
 - Update EZ PDF “Provide Support” question response on the generated PDF
 - Update EZ confirmation page to remove “mail” reference for handbook
-- Implement EZ Intro page looping fix
+
 - Knowledge-sharing with Brandon
 
 ##
@@ -40,7 +41,6 @@
 ### 10-10EZR
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
-
 
 #### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM logs to eliminate PII
