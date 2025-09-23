@@ -47,7 +47,7 @@
 - Require reviewers to document *how* they tested in PR comments.  
 - Begin pairing more intentionally, particularly on PR reviews.
 - Add a **staging review swim lane** in the kanban board.
-- Add automated reviewers (Claude, Copilot) across all PRs for early feedback.
+- Add automated reviewers (i.e. Copilot) across all PRs for early feedback.
 - Share our new processes with the broader team
 
 **Phase 2 (Short-term: 3–6 weeks)**  
