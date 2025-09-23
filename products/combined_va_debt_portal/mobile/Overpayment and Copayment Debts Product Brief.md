@@ -136,6 +136,7 @@ This information was collected from [research findings](https://github.com/depar
 |9/23/2025| Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.| Not currently technically feasible.|
 |9/23/2025| Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app.| Research needed: will PII always block adding letters? Research needed: what is allowed to be written?|
 |9/23/2025| Payment history for copays.|The FM team hopes to release this by EOY and will then work to include updates to mobile designs.|
+|9/23/2025| Notification of an overpayment debt or copayment bill.|Research needed and will want to have the new Copayment API implemented so that data is updated within a 24-hour period.|
 
 ## Reference Materials
 
