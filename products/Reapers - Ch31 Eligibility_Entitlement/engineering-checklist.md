@@ -9,34 +9,34 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 ## Engineering Checklist
 
 - Product description
-    + Brief overview of motivation for the change from an engineering & security point of view
-    + Link to Collaboration Cycle Request issue
+    + Allow veterans to apply with confidence for ch31 benefits by pulling information from authorative sources on eligibility and displaying benefit information. 
+    + [Link to Collaboration Cycle Request issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118500)
 - UX design description
-    + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
+    + Wireframes - https://www.figma.com/design/PSBJqTnGhWaC9orrGziVz5/Ch31-RES?node-id=51-15746&p=f&t=f2UbvgJmE8csvv8h-0
+    + Already conducted design intent and recieved feedback on adjustments. 
 - Frontend changes
-    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code?
-    + Identify any new design system components needed or changes to current components
-    + Does this update change shared code?
-    + Describe any product analytics being gathered.  How will errors in the FE system be detected?
+    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? **No significant code changes, will create a new page to display veteran specific eligibility and benefits for chapter 31 utilizing an api call to RES, a connection between RES and Va.gov already exists. **
+    + Identify any new design system components needed or changes to current components - **NA**
+    + Does this update change shared code? - **NA**
+    + Describe any product analytics being gathered.  How will errors in the FE system be detected? **NA**
 - Backend changes
-    + Does the project introduce any new or unusual infrastructure dependencies?
-    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`)
-    + Do you need to poll any APIs for status?  How is API success or failure determined?
-    + Are you handling all failure and error cases while in custody of your users's data?
-    + Does this update change shared code?
-    + What information will be captured in logs or metrics?
-    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses?
-    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism?
+    + Does the project introduce any new or unusual infrastructure dependencies? **NA**
+    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`) **No new API, utilizing existing connection between RES and Va.gov**
+    + Do you need to poll any APIs for status?  How is API success or failure determined? **Yes, but either reaching information or not with error handling on frontend**
+    + Are you handling all failure and error cases while in custody of your users's data? **Yes**
+    + Does this update change shared code? **No**
+    + What information will be captured in logs or metrics?**N/A**
+    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? **No**
+    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? **No**
 - Internal API changes
     + List new or modified APIs in `vets-api`
-    + Are you deprecating or removing any APIs?
-    + Do you have API documentation?
-    + Describe expected call patterns
-    + Are there new endpoints or services that require rate limiting or throttling?
-    + Are there any third party integrations, and how are they vetted?
-    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?)
-    + Is schema validation enforced (ex: using the vets-json-schema repo)?
+    + Are you deprecating or removing any APIs? **No**
+    + Do you have API documentation? **Yes**
+    + Describe expected call patterns 
+    + Are there new endpoints or services that require rate limiting or throttling? **No**
+    + Are there any third party integrations, and how are they vetted? **No**
+    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) **No**
+    + Is schema validation enforced (ex: using the vets-json-schema repo)? 
 - External API changes
     + List new or modified APIs for upstream or external systems
     + Describe expected call patterns
