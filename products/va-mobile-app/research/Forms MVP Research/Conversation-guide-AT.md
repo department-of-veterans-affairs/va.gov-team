@@ -182,7 +182,7 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 I'd like you to take a look at this screen, and sign in. This will happen automatically once you select sign in.
 
 **For screen magnifier participants.**
-[Confirm you're seeing what they are seeing by asking them] "What are you seeing on your screen now?
+[Confirm you're seeing what they are seeing by asking them] "What is on your screen now?
 Are you seeing the participants screen magnified at all? 
 If not, ask the participant to check their settings on their device by navigating to...
 1. Settings
@@ -353,7 +353,9 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-
+9/12/2025 - PO Ryan Thurlwell
+9/12/2025 - OCTO Shane Strassberg
+9/22/2025 - ADE Cindy Merrill
 
 # Emergency Exit 🚨
 
