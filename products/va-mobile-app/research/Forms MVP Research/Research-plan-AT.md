@@ -103,17 +103,18 @@ Provide a link to any materials you need to run your study, including any materi
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide-AT.md) 
 - [Link to prototype for iOS users](https://testflight.apple.com/join/RrO0Cw2q)
+
 - *Instructions to access prototype for iOS users(must access from your mobile device):
   1. Use the link provided to install test flight on your mobile device.
   2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
   3. Under App Informaton at the bottom of the screen, select "Previous builds"
-  4. Select the VA Health and Benefits mobile app version: 2.56.1
-  5. Select 'Install' button next to correct build number 2903 (may have to select Load more builds to find version).
+  4. Select the VA Health and Benefits mobile app version: 2.59.1
+  5. Select 'Install' button next to correct build number 3031 (may have to select Load more builds to find version).
   6. It can take a few minutes to download.
   7. Once downloaded select "next".
   8. Select "start testing from the Share feedback screen.
   9. In order to test the prototype our developer needs to launch codespace during your session. Please ping researcher developer Ken Li to run codespace during your prototype (slack K_li).
-- [Link to prototype for Android users](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)
+
 - *Instructions to access prototype for Android users (must be accessed from your mobile device):
 1. Once you select the link above you will enter your email to receive the invite for the prototype.
 2. Open the email and click on "Get started"
