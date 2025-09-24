@@ -138,8 +138,8 @@ Did you previously receive the link and instructions to download the testing ver
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
 N - I can now share the URL: that takes you to download the testing app, How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or (for smartphone only) text it to you.
-**[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)**  
-**[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2903, build version 2.56.1
+**[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)**  Build #3031 version 2.59.1
+**[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2850 build version 2.59.0
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -153,8 +153,8 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 1. Use the link provided to install test flight on your mobile device.
 2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
 3. Under App Informaton at the bottom of the screen, select "Previous builds"
-4. Select the VA Health and Benefits mobile app version: 2.56.1
-5. Select 'Install' button next to correct build number 2903 (may have to select Load more builds to find version).
+4. Select the VA Health and Benefits mobile app version:2.59.1
+5. Select 'Install' button next to correct build number 3031 (may have to select Load more builds to find version).
 6. It can take a few minutes to download.
 7. Once downloaded select "next".
 8. Select "start testing" from the Share feedback screen.
@@ -177,7 +177,7 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 
 
 ## Task 1: Login to the VA Health and Benefits mobile app
-[start on the VA Health and Benefits mobile app version: 2.56.1.QA (2903)]
+[start on the VA Health and Benefits mobile app version: 2.59.1 (3031) for iOS]
 
 I'd like you to take a look at this screen, and sign in.
 
