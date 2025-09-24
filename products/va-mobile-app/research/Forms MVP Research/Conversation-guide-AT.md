@@ -352,7 +352,7 @@ Please locate your previous form and continue on.
 
 - What would make this process feel familiar to you?
 
-- If you had to take breaks, where would be natural stopping points?
+- If you had to take breaks, where would there be natural stopping points?
 
  
 ## Task 6: View submitted form
