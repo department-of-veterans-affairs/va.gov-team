@@ -32,7 +32,7 @@ Pages that fall in the "Manage your health care section" including:
 |--------|-------|-------|
 
 ## Changes needed by December 2025
-Because the My VA transition experience will only be visible to OH users at the Columbus, OH facility at this time, we do not recommend changing the content strategy allowing all OH users of the My VA Health portal at this time. 
+Because the My VA transition experience will only be visible to OH users at the Columbus, OH facility at this time, **we do not recommend changing the content strategy** allowing all OH users of the My VA Health portal at this time. 
 
 Drupal pages cannot accommodate conditional logic for a subset of users, even when signed in, so anything like that would have to be handled via React widgets which are complicated and time consuming to implement. 
 
