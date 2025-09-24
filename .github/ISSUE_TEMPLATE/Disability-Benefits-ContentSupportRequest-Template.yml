@@ -34,12 +34,17 @@ body:
     required: true
 - type: input
   attributes:
-    label: Product Manager
+    label: Product manager
   validations:
     required: true
 - type: input
   attributes:
     label: Designer(s)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: VA design lead
   validations:
     required: true
 - type: markdown

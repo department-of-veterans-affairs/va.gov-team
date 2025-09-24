@@ -52,6 +52,8 @@ POC:
 - List repos used by your team, provide links
 	- Our team has made edits to the [fwdproxy](https://github.com/department-of-veterans-affairs/vsp-platform-fwdproxy) to add downstream connections within VA's intranet
 	- A VA tool [pdf2image_llm_processor](https://github.com/department-of-veterans-affairs/pdf2image_llm_processor/tree/dev) to act as middleware to upload PDF files to VA-GPT for analysis
+ 	- We have made edits to [content-build](https://github.com/department-of-veterans-affairs/content-build) to create new forms and edit urls as needed
+  	- We have also made edits to [vsp-platform-revproxy](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy) to handle redirects to forms. 
 
 - Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
 	- vets-api: Kyle Brost

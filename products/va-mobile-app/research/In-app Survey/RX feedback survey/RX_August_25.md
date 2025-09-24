@@ -28,7 +28,7 @@ The survey results reveal a high-level of user satisfaction with the service wit
 | = Very satisfied | 64.34% | 157 |
 | = Satisfied | 20.08% | 49 |
 
-The survey results reveal a high-level of user satisfaction with the service with over 84% of responses rating their experience as positive. The significant majority of postive reviews (136) related more to user overall app experience due to ease of use, conveience, and functionality. 32 positive reviews specifically related to prescriptions often due to the service itself being both quick, easy, and conveient through the mobile app. 
+The survey results reveal a high-level of user satisfaction with the service with over 84% of responses rating their experience as positive. The significant majority of postive reviews (136) related more to user overall app experience due to ease of use, convenience, and functionality. 32 positive reviews specifically related to prescriptions often due to the service itself being both quick, easy, and convenient through the mobile app. 
 
 Representative responses:
 

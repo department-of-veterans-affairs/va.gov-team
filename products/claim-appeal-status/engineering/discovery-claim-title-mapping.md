@@ -1,73 +1,64 @@
-# Discovery: Claim Title Mapping Implementation Refactoring
+# Discovery: Claim Title Mapping
 
-Issue: [#117659](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117659)
+## Links
+- Issue: [#119472 [CST] Validate refactoring approach for web and mobile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119472)
 
-- [Problem Statement](#problem-statement)
-- [Current Implementation Analysis](#current-implementation-analysis)
-  - [Request Flow with File References](#request-flow-with-file-references)
-  - [Core Function: `generateClaimTitle()`](#core-function-generateclaimtitle)
-  - [Components Using Title Generation](#components-using-title-generation)
-  - [Claim Type Mappings](#claim-type-mappings)
-  - [Processing Logic](#processing-logic)
-  - [The Null ClaimType Problem](#the-null-claimtype-problem)
-  - [Example 1: Compensation Claim Card Title](#example-1-compensation-claim-card-title)
-  - [Example 2: Dependency Claim Browser Tab Title](#example-2-dependency-claim-browser-tab-title)
-  - [Example 3: Misidentified Debt Validation Claim](#example-3-misidentified-debt-validation-claim)
-- [Technical Limitations](#technical-limitations)
-  - [Testing Coverage Gaps](#testing-coverage-gaps)
-  - [Maintainability Issues](#maintainability-issues)
-  - [Performance Concerns](#performance-concerns)
-  - [Semantic Accuracy Issues](#semantic-accuracy-issues)
-- [Solution Evaluation](#solution-evaluation)
-  - [Evaluation Framework](#evaluation-framework)
-  - [Option 1: JavaScript Map with Strategy Pattern](#option-1-javascript-map-with-strategy-pattern)
-  - [Option 2: Configuration Object with Composition](#option-2-configuration-object-with-composition)
-  - [Option 3: Hybrid Approach (Recommended)](#option-3-hybrid-approach-recommended)
-  - [Comparison Matrix](#comparison-matrix)
-  - [Recommendation: Option 3 - Hybrid Approach](#recommendation-option-3---hybrid-approach)
-    - [Why This Is The Right Choice:](#why-this-is-the-right-choice)
-    - [Implementation Roadmap:](#implementation-roadmap)
-    - [Success Metrics:](#success-metrics)
-    - [Risk Mitigation Strategies:](#risk-mitigation-strategies)
-  - [Why Not The Other Options?](#why-not-the-other-options)
-  - [Final Thoughts](#final-thoughts)
+## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Data Flow Architecture](#data-flow-architecture)
+- [Implementation by System](#implementation-by-system)
+- [Cross-System Comparison](#cross-system-comparison)
+- [Known Issues and Impact](#known-issues-and-impact)
+- [Proposed Solution](#proposed-solution)
 
-## Problem Statement
+## Executive Summary
 
-The Claims Status Tool's claim title generation functionality transforms technical claim codes into claim titles. This discovery document evaluates refactoring this critical claim title generation to improve testability, maintainability, and reliability.
+The VA's claim title mapping system transforms claim data from Lighthouse Benefits Claims API into human-readable titles that veterans see when tracking their benefits claims. This critical functionality operates across three distinct platforms: VA.gov website (vets-website repo), VA: Health and Benefits mobile app (va-mobile-app repo), and the VA.gov and mobile backend (vets-api repo).
 
-The current claim title generation implementation in `generateClaimTitle()` has grown organically over time, resulting in complex nested logic that is difficult to test, maintain, and extend.
+The system primarily relies on the `claimType` field (e.g., "Compensation", "Dependency", "Pension") provided by the Lighthouse API to generate claim title content. However, VA.gov's website implementation adds a secondary layer of granularity by using `claimTypeCode` values to override titles for specific claim categories. The mobile app exclusively uses the `claimType` field and never references `claimTypeCode`.
 
-## Current Implementation Analysis
+### Key Findings
+- Inconsistent user experience between web and mobile platforms
+- No single source of truth for claim title generation logic
+- Primary uses `claimType` for claim titles
+- VA.gov uses 75 different `claimTypeCode` to generate more accurate titles while Mobile app does not use `claimTypeCode` at all
+- Claims that have a null `claimType` display inaccurately as "Disability Compensation" on VA.gov while they result in a blank title on Mobile
+- Pension claim titles lose specificity in breadcrumb and document placement - all types show as generic "pension claim"
 
-### Request Flow with File References
+## Data Flow Architecture
 
-1. User loads Claims Status Tool
+### Lighthouse to UI Journey
 
-   - User navigates to `/track-claims` on VA.gov
-   - React app mounts
+```
+1. Lighthouse API
+   └── Provides: claimType, claimTypeCode
 
-2. Frontend initiates API request ([vets-website/src/applications/claims-status/actions/index.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/actions/index.js))
+2. VA.gov and mobile backend (vets-api)
+   ├── Web: /v0/benefits_claims
+   │   └── Transforms: "Death" → "expenses related to death or burial"
+   │
+   └── Mobile: /v0/claims-and-appeals-overview
+       └── Sets: displayTitle = claimType
 
-   ```javascript
-   return apiRequest('/benefits_claims'); // Calls vets-api endpoint
-   ```
+3. Frontend (Title Generation)
+   ├── VA.gov Website (vets-website)
+   │   ├── Uses claimType primarily for title
+   │   ├── Applies claimTypeCode overrides (75 codes)
+   │   └── Adds placement specific formatting
+   │
+   └── VA: Health and Benefits mobile app (va-mobile-app)
+       └── Displays displayTitle as-is (no claimTypeCode logic)
+```
 
-3. vets-api controller receives and forwards request ([vets-api/app/controllers/v0/benefits_claims_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/benefits_claims_controller.rb))
+## Implementation by System
 
-   - benefits_claims_controller calls service layer
+### Lighthouse API
 
-4. vets-api service layer calls Lighthouse ([vets-api/lib/lighthouse/benefits_claims/service.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/service.rb#L32-L36))
+#### Overview
+Lighthouse Benefits Claims API provides the source data for all claim information, including the critical fields used for title generation ([API Documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)).
 
-   ```ruby
-   def get_claims(lighthouse_client_id = nil, lighthouse_rsa_key_path = nil, options = {})
-     claims = config.get("#{@icn}/claims", lighthouse_client_id, lighthouse_rsa_key_path, options).body
-     # Endpoint: /services/claims/v2/veterans/{icn}/claims
-   end
-   ```
-
-5. Lighthouse returns claimTypeCode, claimType and other claim data ([API Documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current))
-   - Example 200 response from `/services/claims/v2/veterans/{veteranId}/claims`:
+#### API Response
+Example response from `/services/claims/v2/veterans/{veteranId}/claims`:
 
 ```json
 {
@@ -98,715 +89,578 @@ The current claim title generation implementation in `generateClaimTitle()` has 
 }
 ```
 
-6. vets-api transforms a singular claimType ([vets-api/app/controllers/v0/benefits_claims_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/benefits_claims_controller.rb#L13-L15))
+#### Key Fields for Title Generation
+- **`claimType`**: Primary field for title generation (e.g., "Compensation", "Dependency", "Pension")
+  - Used by both VA.gov and Mobile platforms
+  - Can be null, causing display issues
+- **`claimTypeCode`**: Technical code for specific claim subcategories (e.g., "400PREDSCHRG", "130DPNDCY")
+  - Used only by VA.gov for override logic
+  - Ignored by Mobile app
+- **`claimDate`**: Used for formatting document titles (e.g., "March 15, 2024")
 
-   ```ruby
-   CLAIM_TYPE_LANGUAGE_MAP = {
-     'Death' => 'expenses related to death or burial'
-   }.freeze
-   ```
+### VA.gov and mobile backend (vets-api)
 
-   - Transforms "Death" claimType to 'expenses related to death or burial'
-   - Passes all other claimType and claimTypeCode unchanged to frontend
+#### Constants and Mappings
+**Location**: `lib/lighthouse/benefits_claims/constants.rb`
 
-7. Frontend generates claim titles ([vets-website/src/applications/claims-status/utils/helpers.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/helpers.js#L1173-L1223))
+```ruby
+module BenefitsClaims
+  module Constants
+    # Only one transformation exists - Death claims
+    CLAIM_TYPE_LANGUAGE_MAP = {
+      'Death' => 'expenses related to death or burial'
+    }.freeze
+  end
+end
+```
 
-   ```javascript
-   export const generateClaimTitle = (claim, placement, tab) => {
-     // Transforms claimType and claimTypeCode into claim titles
-     // 123 claim codes mapped to claim titles
-   };
-   ```
+#### Web Endpoint (`/v0/benefits_claims`)
 
-8. UI displays claim title to user
-   - Components render the transformed title
-   - User never sees a claimTypeCode like "400PREDSCHRG"
+##### File References
+- **Controller**: `app/controllers/v0/benefits_claims_controller.rb`
 
-### Core Function: `generateClaimTitle()`
+##### Implementation Details
+The controller applies the Death transformation in both index and show actions:
 
-Location: `src/applications/claims-status/utils/helpers.js`
+```ruby
+# app/controllers/v0/benefits_claims_controller.rb
+def update_claim_type_language(claim)
+  language_map = BenefitsClaims::Constants::CLAIM_TYPE_LANGUAGE_MAP
+  if language_map.key?(claim.dig('attributes', 'claimType'))
+    claim['attributes']['claimType'] = language_map[claim['attributes']['claimType']]
+  end
+  # Note: claimTypeCode passes through unchanged for frontend override logic
+end
+```
+
+#### Mobile Endpoint (`/v0/claims-and-appeals-overview`)
+
+##### File References
+- **Controller**: `modules/mobile/app/controllers/mobile/v0/claims_and_appeals_controller.rb`
+- **Adapter**: `modules/mobile/app/models/mobile/v0/adapters/claims_overview.rb`
+
+##### Implementation Details
+The mobile adapter sets `display_title` directly from `claimType` with no transformations:
+
+```ruby
+# modules/mobile/app/models/mobile/v0/adapters/claims_overview.rb
+def parse_claim(entry)
+  attributes = entry['attributes']
+  # Key difference: display_title is just claimType with no transformation
+  display_title: attributes['claimType'],  # Direct copy, no transformation
+  claim_type_code: attributes['claimTypeCode'],  # Passed but never used
+end
+
+# Appeals combine program area + appeal type
+def get_appeals_display_title(type, program_area)
+  # Examples: "disability compensation appeal" or "supplemental claim for pension"
+  if type == 'appeal' || type == 'legacyAppeal'
+    "#{program_area_text} #{appeal_display_text}".lstrip
+  else
+    "#{appeal_display_text} for #{program_area_text}"
+  end
+end
+```
+
+### VA.gov Website (vets-website)
+
+#### Architecture
+Complex client-side title generation with placement-specific formatting
+
+#### Title Generation Flow
+**Location**: `src/applications/claims-status/utils/helpers.js`
+**Function**: `generateClaimTitle(claim, placement, tab)`
+
+1. **Extract and transform `claimType`** using `getClaimType()` helper:
+   - If `claimType` is "Death" → transform to "expenses related to death or burial"
+   - If `claimType` is null → default to "Disability Compensation"
+   - Otherwise → return claimType as-is
 
 ```javascript
-export const generateClaimTitle = (claim, placement, tab) => {
-  // This will default to 'disability compensation'
-  const claimType = getClaimType(claim).toLowerCase();
-  const isRequestToAddOrRemoveDependent = addOrRemoveDependentClaimTypeCodes.includes(
-    claim?.attributes?.claimTypeCode,
-  );
-  // Determine which word should follow the tab name.
-  // "Files for...", "Status of...", "Details of...", "Overview of..."
+export function getClaimType(claim) {
+  if (claim?.attributes?.claimType) {
+    const { claimType } = claim.attributes;
+    return claimType === 'Death'
+      ? 'expenses related to death or burial'
+      : claimType;
+  }
+  return 'Disability Compensation';
+}
+```
+
+2. **Check `claimTypeCode` overrides** against 6 arrays (75 codes total)
+
+3. **Generate base title** based on override results:
+   - If dependency override → "Request to add or remove a dependent"
+   - If pension override → specific pension claim title
+   - Otherwise → "Claim for {claimType}"
+
+4. **Apply placement specific formatting** (see table below)
+
+#### Placement-Based Formatting
+The same claim displays differently based on where it appears:
+
+| Placement | Format Pattern | Example Output |
+|-----------|---------------|----------------|
+| `default` (card) | `{base title}` | "Claim for compensation" |
+| `detail` (heading) | `{base title}` | "Claim for compensation" |
+| `breadcrumb` | `{tab} of your {base title}` | "Status of your compensation claim" |
+| `document` (browser tab) | `{tab} of {date} {base title}` | "Status Of March 15, 2024 Compensation Claim" |
+
+#### ClaimTypeCode Override Categories (75 codes total)
+| Category | Code Count | Title | Breadcrumb | Document |
+|----------|------------|-------|-------------|----------|
+| Add/Remove Dependent | 47 | "Request to add or remove a dependent" | "{tab} of your request to add or remove a dependent" | "{Tab} Of {Date} Request to Add or Remove a Dependent" |
+| Veterans Pension | 3 | "Claim for Veterans Pension" | "{tab} of your pension claim" | "{Tab} Of {Date} Pension Claim" |
+| Survivors Pension | 5 | "Claim for Survivors Pension" | "{tab} of your pension claim" | "{Tab} Of {Date} Pension Claim" |
+| DIC | 3 | "Claim for Dependency and Indemnity Compensation" | "{tab} of your pension claim" | "{Tab} Of {Date} Pension Claim" |
+| Other Pension | 17 | "Claim for pension" | "{tab} of your pension claim" | "{Tab} Of {Date} Pension Claim" |
+
+**Note on Pension Title Inconsistency:** While the main title (detail/list view) correctly differentiates between Veterans Pension, Survivors Pension, DIC, and generic pension claims, the breadcrumb and document titles incorrectly collapse all pension types to just "pension claim". This happens because the code uses a generic `baseClaimTitle` of "pension claim" for all pension-related claims in these placements, losing the specificity that veterans need to distinguish between different types of pension benefits.
+
+### VA: Health and Benefits mobile app (va-mobile-app)
+
+#### Architecture
+Passive display of `claimType`-based titles only
+
+#### Title Generation Flow
+**Location**: `src/screens/BenefitsScreen/ClaimsScreen/ClaimsAndAppealsListView/ClaimsAndAppealsListView.tsx`
+**Function**: Uses `capitalizeWord()` on `displayTitle`
+
+1. **Receive `displayTitle`** from backend (which equals `claimType`)
+2. **Apply single transformation**: `capitalizeWord()` function
+3. **Display in UI** - same title for all views
+
+```typescript
+// List View - uses displayTitle (which = claimType)
+const textLines = [{
+  text: capitalizeWord(attributes.displayTitle),
+  variant: 'MobileBodyBold'
+}]
+```
+
+#### Single Context Display
+Mobile app uses consistent title display across all views, appropriate for mobile navigation patterns:
+- **Unified format**: Same title in list and detail views
+- **No breadcrumbs needed**: Mobile uses back navigation instead
+- **No document titles**: Mobile apps don't have browser tabs
+
+This simplified approach aligns with mobile UX best practices where consistency and simplicity are prioritized.
+
+#### Functional Gap: No ClaimTypeCode Override Support
+The mobile app receives `claimTypeCode` in the API response but does not use it for title generation. This results in less specific titles for certain claim types compared to VA.gov.
+
+**Impact**: Dependency claims and pension subcategories show generic titles rather than the specialized ones seen on VA.gov.
+
+**Example**: A claim with code "130DPNDCY" displays as "Dependency" on mobile rather than "Request to add or remove a dependent" as shown on VA.gov.
+
+## Cross-System Comparison
+
+### How Each System Handles ClaimType vs ClaimTypeCode
+
+This table shows how claims display in the list/default view on each platform:
+
+| Lighthouse Data | VA.gov Website | Mobile App |
+|-----------------|----------------|------------|
+| claimType = "Compensation"<br>claimTypeCode = "020SUPP" | "Claim for compensation" | "Compensation" |
+| claimType = "Dependency"<br>claimTypeCode = "130DPNDCY" | "Request to add or remove a dependent"<br>(uses claimTypeCode override) | "Dependency"<br>(ignores claimTypeCode) |
+| claimType = "Pension"<br>claimTypeCode = "020VETPEN" | "Claim for Veterans Pension"<br>(uses claimTypeCode override) | "Pension" |
+| claimType = "Pension"<br>claimTypeCode = "020SURPEN" | "Claim for Survivors Pension"<br>(uses claimTypeCode override) | "Pension" |
+| claimType = "Death"<br>claimTypeCode = any | "Claim for expenses related to death or burial"<br>(backend transforms) | "Death"<br>(no transformation) |
+| claimType = null<br>claimTypeCode = "290DV" | "Claim for disability compensation"<br>(incorrect default) | Empty/null<br>(no fallback) |
+
+**Note**: VA.gov has additional placement-based variations (breadcrumb, document title) not shown in this table.
+
+## Known Issues and Impact
+
+### Critical Issues
+
+#### 1. The Null ClaimType Problem
+
+#### Issue
+When Lighthouse returns `claimType: null`, the primary data source is missing
+
+#### System Behaviors
+- **VA.gov**: Falls back to "Disability Compensation" default
+- **Mobile**: Shows empty or null (no fallback)
+- **Root cause**: These claims lack the primary `claimType` field
+
+#### Affected Claims (all have `claimType: null`)
+| Code | Actual Purpose | VA.gov Shows | Mobile Shows |
+|------|---------------|--------------|--------------|
+| 290DV | Debt Validation | "Claim for disability compensation" ❌ | Empty/null ❌ |
+| 290DVPMC | PMC - Debt Validation | "Claim for disability compensation" ❌ | Empty/null ❌ |
+| 130ISDDI | In Service Death Dependency | "Claim for disability compensation" ❌ | Empty/null ❌ |
+| 330DVRPMC | Dependency Verification | "Claim for disability compensation" ❌ | Empty/null ❌ |
+
+#### Impact
+Veterans see incorrect or missing claim titles because the primary data field is null
+
+#### 2. Death Claim Inconsistency
+
+#### Issue
+The `claimType: "Death"` value displays differently across platforms due to backend processing differences
+
+| System | Processing | Display Text |
+|--------|-----------|--------------|
+| VA.gov | Backend transforms at `/v0/benefits_claims` | "Claim for expenses related to death or burial" |
+| Mobile | No backend transformation at `/v0/claims-and-appeals-overview` | "Death" |
+
+#### Impact
+Confusing experience for beneficiaries filing death-related claims
+
+#### 3. Platform Inconsistency for ClaimTypeCode Overrides
+
+#### Issue
+Claims with `claimTypeCode` overrides display different titles on web vs mobile since mobile ignores these codes
+
+#### Examples
+| Claim Data | VA.gov Display | Mobile Display |
+|------------|---------------|----------------|
+| claimType: "Dependency"<br>claimTypeCode: "130DPNDCY" | "Request to add or remove a dependent" | "Dependency" |
+| claimType: "Pension"<br>claimTypeCode: "020VETPEN" | "Claim for Veterans Pension" | "Pension" |
+
+#### Impact
+Veterans switching between platforms see different descriptions for the same claim, reducing clarity about their claim type
+
+#### 4. Pension Title Loss of Specificity
+
+#### Issue
+Pension claim titles lose their specific type information in breadcrumb and document placements
+
+#### System Behavior
+- **List/Detail views**: Correctly show "Claim for Veterans Pension", "Claim for Survivors Pension", or "Claim for Dependency and Indemnity Compensation"
+- **Breadcrumb**: All collapse to "{tab} of your pension claim"
+- **Document title**: All collapse to "{Tab} Of {Date} Pension Claim"
+
+#### Example
+- Veterans Pension claim with code "020VETPEN":
+  - List view: "Claim for Veterans Pension" ✓
+  - Breadcrumb: "Status of your pension claim" (loses "Veterans" specificity)
+  - Document: "Status Of March 15, 2024 Pension Claim" (loses "Veterans" specificity)
+
+#### Impact
+Veterans cannot distinguish between different types of pension claims when viewing breadcrumbs or browser tabs, potentially causing confusion for those managing multiple pension-related claims
+
+### Maintenance Challenges
+
+#### Distributed Logic
+- **No single source of truth**: Title generation logic spread across 3 repositories
+- **75 `claimTypeCode` overrides** exist only in VA.gov frontend JavaScript
+- **Backend transformations** inconsistent between web and mobile endpoints
+
+#### Testing Gaps
+- **Minimal test coverage**: Only ~16 tests for entire title generation system
+- **Complex test matrix needed**: 75 override codes × 4 placement contexts × multiple platforms
+- **Risk**: Title changes can break without detection
+
+## Proposed Solution
+
+### Overview
+Centralize claim title generation logic in the backend (vets-api) by providing two new fields that both frontends can consume directly, eliminating the need for complex client-side transformations and ensuring consistency across all platforms.
+
+### New Backend Fields
+
+#### 1. `displayTitle`
+- **Purpose**: Primary human-readable title for the claim
+- **Usage**: List views, detail headers, and primary display contexts
+- **Examples**:
+  - "Claim for compensation"
+  - "Request to add or remove a dependent"
+  - "Claim for Veterans Pension"
+  - "Claim for expenses related to death or burial"
+
+#### 2. `claimTypeBase`
+- **Purpose**: Base claim type for placement-specific formatting
+- **Usage**: Breadcrumbs and document titles
+- **Requirements**: Must be specific, not generic
+- **Examples**:
+  - "compensation claim"
+  - "request to add or remove a dependent"
+  - "veterans pension claim" (not just "pension claim")
+  - "survivors pension claim" (not just "pension claim")
+  - "dependency and indemnity compensation claim"
+
+### Backend Implementation Changes
+
+#### 1. Create Centralized Title Mapping Service
+**New file**: `lib/lighthouse/benefits_claims/title_generator.rb`
+
+```ruby
+# frozen_string_literal: true
+
+module BenefitsClaims
+  class TitleGenerator
+    # Title configuration for specific claim type codes
+    Title = Struct.new(:display_title, :claim_type_base, keyword_init: true)
+
+    # Dependency claims (47 codes from addOrRemoveDependentClaimTypeCodes)
+    DEPENDENCY_TITLE = Title.new(
+      display_title: 'Request to add or remove a dependent',
+      claim_type_base: 'request to add or remove a dependent'
+    ).freeze
+
+    DEPENDENCY_CODES = %w[
+      130DPNDCYAUT 130DPNAUTREJ 130SCHATTAUT 130SCHAUTREJ 130ADOD2D
+      130ADSD2D 130DAD2D 130DARD2D 130PDARD2D 130PSARD2D 130SAD2D
+      130SARD2D 130DPNDCY 130DCY674 130DCY686 130DPV0538 130DRASDP
+      130DPNEBNADJ 130DPEBNAJRE 130SCHATTEBN 130PDA 130PDAE 130PSA
+      130PSAE 130DPNPMCAUT 130DPMCAUREJ 130SCPMAUREJ 130DV0538PMC
+      130DPNDCYPMC 130DCY674PMC 130DCY686PMC 130DRASDPMC 130PDAPMC
+      130PDAEPMC 130PSAPMC 130PSAEPMC 130SD2DPMC 130AD2DPMC 130DD2DPMC
+      130D2DPMC 130ARD2DPMC 130ADOD2DPMC 130ADSD2DPMC 130DAD2DPMC
+      130DARD2DPMC 130PDARD2DPM 130PSARD2DPM 130SARD2DPMC
+    ].freeze
+
+    # Pension subcategory mappings
+    VETERANS_PENSION_CODES = %w[180AILP 180ORGPENPMC 180ORGPEN].freeze
+    SURVIVORS_PENSION_CODES = %w[190ORGDPN 190ORGDPNPMC 190AID 140ISD 687NRPMC].freeze
+    DIC_CODES = %w[290DICEDPMC 020SMDICPMC 020IRDICPMC].freeze
+
+    # Build comprehensive code mapping
+    CLAIM_TYPE_CODE_MAPPING = {}.tap do |mapping|
+      # Add dependency codes
+      DEPENDENCY_CODES.each { |code| mapping[code] = DEPENDENCY_TITLE }
+
+      # Add veterans pension codes
+      VETERANS_PENSION_CODES.each do |code|
+        mapping[code] = Title.new(
+          display_title: 'Claim for Veterans Pension',
+          claim_type_base: 'veterans pension claim'
+        )
+      end
+
+      # Add survivors pension codes
+      SURVIVORS_PENSION_CODES.each do |code|
+        mapping[code] = Title.new(
+          display_title: 'Claim for Survivors Pension',
+          claim_type_base: 'survivors pension claim'
+        )
+      end
+
+      # Add DIC codes
+      DIC_CODES.each do |code|
+        mapping[code] = Title.new(
+          display_title: 'Claim for Dependency and Indemnity Compensation',
+          claim_type_base: 'dependency and indemnity compensation claim'
+        )
+      end
+
+      # Add generic pension codes (remaining from pensionClaimTypeCodes)
+      %w[
+        150ELECPMC 150INCNWPMC 150INCPMC 120INCPMC 150NWTHPMC
+        120SUPHCDPMC 120ILCP7PMC 120SMPPMC 150MERPMC 120ASMP
+        120ARP 150AIA 600APCDP 600PCDPPM 696MROCPMC
+      ].each do |code|
+        mapping[code] = Title.new(
+          display_title: 'Claim for pension',
+          claim_type_base: 'pension claim'
+        )
+      end
+
+      # Add null claimType cases
+      mapping['290DV'] = Title.new(
+        display_title: 'Debt Validation',
+        claim_type_base: 'debt validation'
+      )
+      mapping['290DVPMC'] = Title.new(
+        display_title: 'PMC - Debt Validation',
+        claim_type_base: 'debt validation'
+      )
+      mapping['130ISDDI'] = Title.new(
+        display_title: 'In Service Death Dependency',
+        claim_type_base: 'in service death dependency'
+      )
+      mapping['330DVRPMC'] = Title.new(
+        display_title: 'Dependency Verification',
+        claim_type_base: 'dependency verification'
+      )
+    end.freeze
+
+    # Special case transformations
+    CLAIM_TYPE_SPECIAL_CASES = {
+      'Death' => Title.new(
+        display_title: 'Claim for expenses related to death or burial',
+        claim_type_base: 'expenses related to death or burial claim'
+      )
+    }.freeze
+
+    class << self
+      def generate_titles(claim_type, claim_type_code)
+        # Priority 1: Check for specific claim type code override
+        if claim_type_code && (title = CLAIM_TYPE_CODE_MAPPING[claim_type_code])
+          return title.to_h
+        end
+
+        # Priority 2: Check for special case transformations
+        if claim_type && (title = CLAIM_TYPE_SPECIAL_CASES[claim_type])
+          return title.to_h
+        end
+
+        # Priority 3: Generate default title for any claimType
+        if claim_type.present?
+          claim_type_lower = claim_type.downcase
+          return {
+            display_title: "Claim for #{claim_type_lower}",
+            claim_type_base: "#{claim_type_lower} claim"
+          }
+        end
+
+        # Priority 4: Return nil for missing data (triggers frontend fallback)
+        { display_title: nil, claim_type_base: nil }
+      end
+    end
+  end
+end
+```
+
+#### 2. Update Web Endpoint Controller
+**File**: `app/controllers/v0/benefits_claims_controller.rb`
+
+```ruby
+def update_claim_titles(claim)
+  claim_type = claim.dig('attributes', 'claimType')
+  claim_type_code = claim.dig('attributes', 'claimTypeCode')
+
+  titles = BenefitsClaims::TitleGenerator.generate_titles(claim_type, claim_type_code)
+
+  claim['attributes']['displayTitle'] = titles[:display_title]
+  claim['attributes']['claimTypeBase'] = titles[:claim_type_base]
+end
+```
+
+#### 3. Update Mobile Endpoint Adapter
+**File**: `modules/mobile/app/models/mobile/v0/adapters/claims_overview.rb`
+
+```ruby
+def parse_claim(entry)
+  attributes = entry['attributes']
+  claim_type = attributes['claimType']
+  claim_type_code = attributes['claimTypeCode']
+
+  titles = BenefitsClaims::TitleGenerator.generate_titles(claim_type, claim_type_code)
+
+  {
+    # ... existing fields
+    display_title: titles[:display_title],
+    claim_type_base: titles[:claim_type_base],
+    claim_type_code: claim_type_code
+  }
+end
+```
+
+#### 4. Update Mobile Model and Serializer
+**File**: `modules/mobile/app/models/mobile/v0/claim_overview.rb`
+
+```ruby
+attribute :display_title, Types::String
+attribute :claim_type_base, Types::String  # Add new attribute
+```
+
+**File**: `modules/mobile/app/serializers/mobile/v0/claim_overview_serializer.rb`
+
+```ruby
+attributes :subtype, :completed, :date_filed, :updated_at, :display_title,
+           :claim_type_base, :decision_letter_sent, :phase, :documents_needed,
+           :development_letter_sent, :claim_type_code
+```
+
+### Frontend Implementation Changes
+
+#### VA.gov Website (vets-website)
+
+**File**: `src/applications/claims-status/utils/helpers.js`
+
+```javascript
+// New helper function to use backend-provided titles
+const generateDisplayTitle = (claim, placement, tab) => {
+  const { displayTitle, claimTypeBase } = claim?.attributes || {};
+
+  // Return null if new fields aren't available (triggers fallback)
+  if (!displayTitle || !claimTypeBase) {
+    return null;
+  }
+
   const tabPrefix = `${tab} ${tab === 'Files' ? 'for' : 'of'}`;
-  // Use the following to (somewhat) cut down on repetition in the switch below.
-  const addOrRemoveDependentClaimTitle = 'request to add or remove a dependent';
-  const baseClaimTitle = isRequestToAddOrRemoveDependent
-    ? addOrRemoveDependentClaimTitle
-    : `${claimType} claim`;
-  const renderTitle = () => {
-    if (isRequestToAddOrRemoveDependent) {
-      return sentenceCase(addOrRemoveDependentClaimTitle);
-    }
 
-    if (isPensionClaim(claim?.attributes?.claimTypeCode)) {
-      const { claimTypeCode } = claim.attributes;
-      if (survivorsPensionClaimTypeCodes.includes(claimTypeCode)) {
-        return 'Claim for Survivors Pension';
-      }
-      if (DICClaimTypeCodes.includes(claimTypeCode)) {
-        return 'Claim for Dependency and Indemnity Compensation';
-      }
-      if (veteransPensionClaimTypeCodes.includes(claimTypeCode)) {
-        return 'Claim for Veterans Pension';
-      }
-      return 'Claim for pension';
-    }
-    return `Claim for ${claimType}`;
-  };
-
-  // This switch may not scale well; it might be better to create a map of the strings instead.
-  // For examples of output given different parameters, see the unit tests.
   switch (placement) {
     case 'detail':
-      return renderTitle();
+    case undefined: // list view
+      return displayTitle;
     case 'breadcrumb':
       if (claimAvailable(claim)) {
-        return `${tabPrefix} your ${baseClaimTitle}`;
+        return `${tabPrefix} your ${claimTypeBase}`;
       }
-      // Default message if claim fails to load.
       return `${tabPrefix} your claim`;
     case 'document':
       if (claimAvailable(claim)) {
         const formattedDate = buildDateFormatter()(claim.attributes.claimDate);
-        return titleCase(`${tabPrefix} ${formattedDate} ${baseClaimTitle}`);
+        return titleCase(`${tabPrefix} ${formattedDate} ${claimTypeBase}`);
       }
-      // Default message if claim fails to load.
       return `${tabPrefix} Your Claim`;
     default:
-      return renderTitle();
-  }
-};
-```
-
-Parameters:
-
-- `claim`: claim object with claimType, claimTypeCode, claimDate
-- `placement`: where title will be displayed
-  - default: Card title on claims list page
-  - 'document': Browser tab title
-  - 'breadcrumb': Breadcrumb navigation on claim detail pages
-  - 'detail': Main heading
-- `tab`: Current page/section name ('Status', 'Files', 'Details', or 'Overview') - used to create contextual titles like "Files for..." or "Status of..."
-
-Logic Flow:
-
-1. Get base claim type (fallback to 'disability compensation')
-2. Check against 6 hardcoded arrays for special cases
-3. Apply placement-specific formatting
-4. Return formatted title
-
-### Components Using Title Generation
-
-Changes to `generateClaimTitle` affect these 4 user-facing pages:
-
-1. `ClaimsListItem.jsx` - Card titles in list view
-
-   - URL: `/track-claims`
-   - User sees: Card heading - "Claim for compensation"
-
-2. `ClaimDetailLayout.jsx` - Detail page heading and breadcrumbs
-
-   - URL: `/track-claims/:id/status` (and other tabs)
-   - User sees:
-     - Browser tab title (`'document'`) - "Status Of March 15, 2024 Claim For Compensation"
-     - Breadcrumb navigation (`'breadcrumb'`) - "Status of your compensation claim"
-     - Main page heading (`'detail'`) - "Claim for compensation"
-
-3. `DocumentRequestPage.jsx` - Document request page titles
-
-   - URL: `/track-claims/:id/document-request/:docId`
-   - User sees:
-     - Browser tab title (`'document'`) - "Files for March 15, 2024 Request to add or remove a dependent"
-     - Page heading (`'detail'`) - "Request to add or remove a dependent"
-
-4. `Standard5103NoticePage.jsx` - 5103 notice page titles
-   - URL: `/track-claims/:id/standard-5103-notice`
-   - User sees: Page heading (`'detail'`) - "Claim for disability compensation"
-
-### Claim Type Mappings
-
-The frontend maintains 123 claim codes across 6 arrays:
-
-| Array                                  | Count | Purpose                 | Example Codes                |
-| -------------------------------------- | ----- | ----------------------- | ---------------------------- |
-| `disabilityCompensationClaimTypeCodes` | 37    | 8-phase claim process   | '010INITMORE8', '020NEW'     |
-| `addOrRemoveDependentClaimTypeCodes`   | 47    | Dependent changes       | '130DPNDCYAUT', '130DPNDCY'  |
-| `pensionClaimTypeCodes`                | 28    | Pension claims (parent) | '190ORGDPN', '180ORGPEN'     |
-| `survivorsPensionClaimTypeCodes`       | 5     | Subset of pension       | '190ORGDPN', '140ISD'        |
-| `DICClaimTypeCodes`                    | 3     | Subset of pension       | '290DICEDPMC', '020SMDICPMC' |
-| `veteransPensionClaimTypeCodes`        | 3     | Subset of pension       | '180AILP', '180ORGPEN'       |
-
-### Processing Logic
-
-When a claim arrives from the API:
-
-```
-Step 1: Get claimType (via getClaimType function)
-   - If claimType is null/undefined → "Disability Compensation" ⚠️
-   - If claimType = "Death" → "expenses related to death or burial"
-   - Otherwise → use claimType as-is
-
-Step 2: Check claimTypeCode against arrays (via renderTitle function)
-   a. If in Add/Remove Dependent array (47 codes) → "Request to add or remove a dependent"
-   b. If in Pension arrays (28 codes total):
-      - Survivors (5) → "Claim for Survivors Pension"
-      - DIC (3) → "Claim for Dependency and Indemnity Compensation"
-      - Veterans (3) → "Claim for Veterans Pension"
-      - Other pension codes → "Claim for pension"
-   c. Otherwise → "Claim for {claimType from Step 1}"
-```
-
-### The Null ClaimType Problem
-
-These claims get defaulted to "Disability Compensation" in Step 1 when they arrive with `claimType: null`, causing them to display incorrectly:
-
-| Code         | Claim Label                          | Category                 |
-| ------------ | ------------------------------------ | ------------------------ |
-| 130ISDDI     | In Service Death Dependency Issue   | Survivor compensation    |
-| 330DVRPMC    | PMC - Dependency Verification Review| Automated verification   |
-| 130DV0537PMC | PMC - Dependency Verification - 0537| Automated verification   |
-| 290DVPMC     | PMC - Debt Validation               | Debt review              |
-| 290DV        | Debt Validation                     | Debt review              |
-
-This causes debt reviews, dependency verifications, and survivor claims to incorrectly display as "Claim for disability compensation."
-
-### Example 1: Compensation Claim Card Title
-
-Here's how a claim card title is generated when displaying a claim with code "020SUPP" (most common claimType code) in the claims list:
-
-1. ClaimsListItem component renders ([src/applications/claims-status/components/ClaimsListItem.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/ClaimsListItem.jsx))
-
-   ```javascript
-   // Component receives claim object from API:
-   // { claimTypeCode: "020SUPP", claimType: "Compensation", ... }
-   const title = generateClaimTitle(claim); // No placement param = default card view
-   ```
-
-2. generateClaimTitle called ([src/applications/claims-status/utils/helpers.js#L1173](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/helpers.js#L1173))
-
-   ```javascript
-   export const generateClaimTitle = (claim, placement, tab) => {
-     // placement is undefined, so defaults to card view
-   ```
-
-3. getClaimType extracts base type ([src/applications/claims-status/utils/helpers.js#L1166](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/helpers.js#L1166))
-
-   ```javascript
-   const claimType = getClaimType(claim).toLowerCase();
-   // Returns: "compensation" → "compensation"
-   ```
-
-4. Check against dependency array ([src/applications/claims-status/constants.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/constants.js))
-
-   ```javascript
-   if (addOrRemoveDependentClaimTypeCodes.includes(claimTypeCode))
-   // "020SUPP" not in array, continues
-   ```
-
-5. Check if pension claim
-
-   ```javascript
-   const isPensionClaim = pensionClaimTypeCodes.includes(claimTypeCode);
-   // "020SUPP" not in pension array, returns false
-   ```
-
-6. renderTitle function builds title
-
-   ```javascript
-   function renderTitle() {
-     // Not dependent claim, not pension
-     return `Claim for ${claimType}`; // "Claim for compensation"
-   }
-   ```
-
-7. Switch on placement (hits default case)
-
-   ```javascript
-   switch (placement) {
-     default:
-       // Card view
-       return renderTitle(); // Returns: "Claim for compensation"
-   }
-   ```
-
-8. ClaimsListItem displays title in claims list card
-   ```jsx
-   <h3 className="claims-list-item-header">
-     {title} // "Claim for compensation"
-   </h3>
-   ```
-   User sees this as the card heading on the "Your claims and appeals" page at `/track-claims`
-
-Result: Technical code "020SUPP" → Card heading shows "Claim for compensation" on claims list page
-
-### Example 2: Dependency Claim Browser Tab Title
-
-Here's how a document (browser tab) title is generated for a Dependency claim with code "130DPEBNAJRE" (quite common as well):
-
-1. ClaimDetailLayout component renders ([src/applications/claims-status/containers/ClaimDetailLayout.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/containers/ClaimDetailLayout.jsx))
-
-   ```javascript
-   // Component receives claim object from API:
-   // { claimTypeCode: "130DPEBNAJRE", claimType: "Dependency", claimDate: "2024-03-15" }
-   const docTitle = generateClaimTitle(claim, 'document', 'Status');
-   ```
-
-2. generateClaimTitle called with document placement ([src/applications/claims-status/utils/helpers.js#L1173](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/helpers.js#L1173))
-
-   ```javascript
-   export const generateClaimTitle = (claim, placement, tab) => {
-     // placement = 'document', tab = 'Status'
-   ```
-
-3. getClaimType extracts base type
-
-   ```javascript
-   const claimType = getClaimType(claim).toLowerCase();
-   // Returns: "dependency" → "dependency"
-   ```
-
-4. Check for add/remove dependent
-
-   ```javascript
-   const isAddOrRemoveDependent = addOrRemoveDependentClaimTypeCodes.includes(
-     '130DPEBNAJRE',
-   );
-   // "130DPEBNAJRE" IS in dependency array, returns true
-   ```
-
-5. Build base claim title
-
-   ```javascript
-   const baseClaimTitle = isAddOrRemoveDependent
-     ? 'request to add or remove a dependent'
-     : `${claimType} claim`;
-   // Returns: "request to add or remove a dependent"
-   ```
-
-6. renderTitle with sentenceCase for dependent claims
-
-   ```javascript
-   function renderTitle() {
-     if (isAddOrRemoveDependent) {
-       return sentenceCase(baseClaimTitle);
-       // Returns: "Request to add or remove a dependent"
-     }
-   }
-   ```
-
-7. Switch on placement (document case hit)
-
-   ```javascript
-   switch (placement) {
-     case 'document':
-       const tabPrefix = `${tab} ${tab === 'Files' ? 'for' : 'of'}`;
-       // "Status of"
-       const formattedDate = buildDateFormatter()(claim.attributes.claimDate);
-       // "2024-03-15" → "March 15, 2024"
-       return titleCase(`${tabPrefix} ${formattedDate} ${renderTitle()}`);
-     // "Status of March 15, 2024 Request to add or remove a dependent"
-     // titleCase → "Status Of March 15, 2024 Request To Add Or Remove A Dependent"
-   }
-   ```
-
-8. Document title set in browser
-   ```javascript
-   document.title = docTitle;
-   // Browser tab shows: "Status Of March 15, 2024 Request To Add Or Remove A Dependent | VA.gov"
-   ```
-
-Result: Technical code "130DPEBNAJRE" → Browser tab shows "Status Of March 15, 2024 Request To Add Or Remove A Dependent"
-
-### Example 3: Misidentified Debt Validation Claim
-
-Here's how a detail page heading is generated when the claim has a null claim type (code "290DV" - actually represents "Debt Validation"):
-
-1. ClaimDetailLayout component renders ([src/applications/claims-status/containers/ClaimDetailLayout.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/containers/ClaimDetailLayout.jsx))
-
-   ```javascript
-   // Component receives claim object from API:
-   // { claimTypeCode: "290DV", claimType: null, ... }
-   const heading = generateClaimTitle(claim, 'detail');
-   ```
-
-2. generateClaimTitle called with detail placement
-
-   ```javascript
-   export const generateClaimTitle = (claim, placement, tab) => {
-     // placement = 'detail', tab = undefined
-   ```
-
-3. getClaimType handles null claim type
-
-   ```javascript
-   export function getClaimType(claim) {
-     if (claim?.attributes?.claimType) {
-       const { claimType } = claim.attributes;
-       // claimType is null, so condition fails
-     }
-     return 'Disability Compensation'; // Fallback to default
-   }
-   // Returns: "Disability Compensation"
-   ```
-
-4. Check against dependency array
-
-   ```javascript
-   const claimType = getClaimType(claim).toLowerCase();
-   // "disability compensation" → "disability compensation"
-   const isAddOrRemoveDependent = addOrRemoveDependentClaimTypeCodes.includes(
-     '290DV',
-   );
-   // "290DV" not in dependency array, returns false
-   ```
-
-5. Check if pension claim
-
-   ```javascript
-   const isPensionClaim = pensionClaimTypeCodes.includes('290DV');
-   // "290DV" not in pension array, returns false
-   ```
-
-6. renderTitle builds default title
-
-   ```javascript
-   function renderTitle() {
-     // Not dependent, not pension, uses default
-     return `Claim for ${claimType}`;
-     // Returns: "Claim for disability compensation"
-   }
-   ```
-
-7. Switch on placement (detail case)
-
-   ```javascript
-   switch (placement) {
-     case 'detail':
-       return renderTitle();
-     // Returns: "Claim for disability compensation"
-   }
-   ```
-
-8. Detail page displays heading
-   ```jsx
-   <h1 className="claim-detail-heading">
-     {heading} // "Claim for disability compensation"
-   </h1>
-   ```
-   User sees this as the main heading on the claim detail page across all tabs (Status, Files, Overview, etc.)
-
-Result:
-
-- Actual: Technical code "290DV" with null claimType → Detail page heading shows "Claim for disability compensation"
-- Expected: Should show "Request for debt review" or similar appropriate title
-- Impact: Debt Validation claims are mislabeled as disability compensation claims
-
----
-
-## Technical Limitations
-
-### Testing Coverage Gaps
-
-Current test coverage creates significant regression risk:
-
-- Required test cases: 106 codes × 4 placements × 4 tabs = 1,696+ combinations
-- Actual coverage: 16 tests for `generateClaimTitle` function (~1% coverage)
-- Risk: Undetected UI changes affecting millions of veterans
-- Impact: No regression safety net for claim title modifications
-
-### Maintainability Issues
-
-Adding or modifying claim types requires coordinated changes across 4-6 locations:
-
-1. Constants arrays (6 separate arrays)
-2. Function logic (8-10 conditional branches)
-3. Test updates (manual verification required)
-4. String literals scattered throughout (~15 hardcoded strings)
-
-Key pain points:
-- No single source of truth for code-to-title mappings
-- 5 separate `.includes()` array searches per title generation
-- Mixed responsibilities (formatting + business logic)
-
-### Performance Concerns
-
-Each title generation executes 5 linear searches across 106 total codes:
-
-- `addOrRemoveDependentClaimTypeCodes.includes()` - 45 codes
-- `isPensionClaim()` → `pensionClaimTypeCodes.includes()` - 26 codes
-- `survivorsPensionClaimTypeCodes.includes()` - 5 codes
-- `DICClaimTypeCodes.includes()` - 3 codes
-- `veteransPensionClaimTypeCodes.includes()` - 3 codes
-
-While current performance is acceptable, this O(n) approach doesn't scale efficiently.
-
-### Semantic Accuracy Issues
-
-The `claimType: null` default creates misrepresentation for 5+ known claim types:
-
-| Code | Actual Purpose | Displayed As |
-|------|---------------|--------------|
-| 290DV | Debt Validation | "Claim for disability compensation" |
-| 290DVPMC | PMC - Debt Validation | "Claim for disability compensation" |
-| 130ISDDI | In Service Death Dependency | "Claim for disability compensation" |
-
-Technical gaps:
-- No null claimType detection or monitoring
-- Silent fallback without alerting
-- No telemetry on production frequency
-
-Business impact:
-- Veterans see incorrect claim descriptions
-- Support burden from confused users
-- Potential compliance issues with misrepresented claim types
-
----
-
-## Solution Evaluation
-
-### Evaluation Framework
-
-Evaluating solutions for this critical veteran-facing system requires balancing multiple concerns:
-
-1. Technical Excellence: Performance, scalability, maintainability
-2. Developer Experience: How easily can the team work with this code?
-3. Risk Management: Migration complexity, potential for regression
-4. Business Value: Time to market, future extensibility
-5. Operational Excellence: Monitoring, debugging, performance visibility
-
-Each solution will be evaluated against these criteria with particular focus on the VA.gov context: a high-traffic government service where reliability and accessibility are paramount.
-
-### Option 1: JavaScript Map with Strategy Pattern
-
-Transform the current implementation into a Map-based lookup with strategy pattern for formatting logic.
-
-```javascript
-// Configuration as data
-const CLAIM_TYPE_MAP = new Map([
-  ['130DPNDCYAUT', 'Request to add or remove a dependent'],
-  ['190ORGDPN', 'Claim for Survivors Pension'],
-  ['290DV', 'Request for debt review'],
-  // ... all 106 mappings
-]);
-
-// Strategy pattern for placement formatting
-const formatStrategies = {
-  detail: (title) => title,
-  breadcrumb: (title, tab) => `${tab} ${tab === 'Files' ? 'for' : 'of'} your ${title.toLowerCase()}`,
-  document: (title, tab, date) => titleCase(`${tab} ${tab === 'Files' ? 'for' : 'of'} ${date} ${title.toLowerCase()}`),
-  default: (title) => title
-};
-
-export const generateClaimTitle = (claim, placement = 'default', tab) => {
-  const title = CLAIM_TYPE_MAP.get(claim?.attributes?.claimTypeCode) ||
-                getDefaultTitle(claim);
-  return formatStrategies[placement](title, tab, claim?.attributes?.claimDate);
-};
-```
-
-Pros:
-- O(1) lookup performance with Map (faster than object for 100+ entries)
-- Clear separation of data and behavior
-- Strategy pattern enables easy addition of new placements
-- Type-safe with TypeScript support
-
-Cons:
-- Map not directly JSON-serializable (requires conversion)
-- Slightly more complex than plain objects
-- Team less familiar with Map usage
-
-Migration Risk: Low-Medium
-- Can implement alongside existing code
-- Easy rollback if issues arise
-
-### Option 2: Configuration Object with Composition
-
-Use plain JavaScript objects with composable formatting functions.
-
-```javascript
-// Simple object configuration
-const CLAIM_TITLES = {
-  '130DPNDCYAUT': 'Request to add or remove a dependent',
-  '190ORGDPN': 'Claim for Survivors Pension',
-  '290DV': 'Request for debt review',
-  // ... all mappings
-};
-
-// Composable formatters
-const formatters = {
-  withTab: (title, tab) => `${tab} ${tab === 'Files' ? 'for' : 'of'} ${title}`,
-  withDate: (title, date) => `${formatDate(date)} ${title}`,
-  withOwnership: (title) => `your ${title.toLowerCase()}`,
-  titleCase: (title) => titleCase(title)
-};
-
-// Compose formatters based on placement
-const placementFormatters = {
-  detail: (title) => title,
-  breadcrumb: (title, tab) =>
-    compose(formatters.withTab, formatters.withOwnership)(title, tab),
-  document: (title, tab, date) =>
-    compose(formatters.titleCase, formatters.withDate, formatters.withTab)(title, tab, date)
-};
-```
-
-Pros:
-- JSON-compatible (works with existing tooling)
-- Familiar object syntax for team
-- Composable functions promote reusability
-- Aligns with VA.gov patterns in other apps
-
-Cons:
-- O(n) lookup in worst case (though V8 optimizes)
-- Requires discipline to maintain composition patterns
-
-Migration Risk: Low
-- Most similar to current patterns
-- Incremental migration possible
-
-### Option 3: Hybrid Approach (Recommended)
-
-Combine the best aspects: Map for performance, simple configuration objects, and progressive enhancement path.
-
-```javascript
-// Phase 1: Extract configuration
-const CLAIM_TYPE_CONFIG = {
-  // Dependency claims
-  '130DPNDCYAUT': 'Request to add or remove a dependent',
-  '130DPNAUTREJ': 'Request to add or remove a dependent',
-
-  // Pension claims
-  '190ORGDPN': 'Claim for Survivors Pension',
-  '180ORGPEN': 'Claim for Veterans Pension',
-
-  // Debt claims (currently showing as disability)
-  '290DV': 'Request for debt review',
-  '290DVPMC': 'Request for debt review',
-
-  // ... all 106 mappings
-};
-
-// Phase 2: Convert to Map for performance (if needed)
-const claimTypeMap = new Map(Object.entries(CLAIM_TYPE_CONFIG));
-
-// Phase 3: Simple, testable formatting
-const formatTitle = (baseTitle, placement, tab, date) => {
-  switch (placement) {
-    case 'detail':
-      return baseTitle;
-    case 'breadcrumb':
-      return `${tab} ${tab === 'Files' ? 'for' : 'of'} your ${baseTitle.toLowerCase()}`;
-    case 'document':
-      const formattedDate = date ? formatDate(date) : '';
-      return titleCase(`${tab} ${tab === 'Files' ? 'for' : 'of'} ${formattedDate} ${baseTitle.toLowerCase()}`);
-    default:
-      return baseTitle;
+      return displayTitle;
   }
 };
 
-// Clean, simple API
-export const generateClaimTitle = (claim, placement = 'default', tab) => {
-  const claimCode = claim?.attributes?.claimTypeCode;
-  const title = CLAIM_TYPE_CONFIG[claimCode] || getDefaultTitle(claim);
+// Update main function to check for new fields first
+export function generateClaimTitle(claim, placement, tab = 'Status') {
+  // Try new backend-provided titles first
+  const backendTitle = generateDisplayTitle(claim, placement, tab);
+  if (backendTitle !== null) {
+    return backendTitle;
+  }
 
-  return formatTitle(title, placement, tab, claim?.attributes?.claimDate);
-};
+  // Fall back to legacy logic for backward compatibility
+  // ... existing generateClaimTitle logic
+}
 ```
 
-Why This Approach Works:
+#### Mobile App (va-mobile-app)
 
-1. Progressive Enhancement: Start with objects, migrate to Map if performance requires
-2. Familiarity: Uses patterns the team knows (objects, switch statements)
-3. Testability: Each piece is independently testable
-4. Performance: O(1) lookups with option to optimize further
-5. Maintainability: Single source of truth for all claim titles
+Mobile app already displays `displayTitle` directly, so minimal changes needed:
+- Ensure `claimTypeBase` is available in the data model for future use
+- No immediate changes to display logic required
 
-### Comparison Matrix
+### Migration Strategy
 
-| Criteria | Option 1: Map + Strategy | Option 2: Object + Composition | Option 3: Hybrid (Recommended) |
-|----------|-------------------------|-------------------------------|--------------------------------|
-| Performance | O(1) lookups, excellent | O(1)* with V8 optimization | O(1) lookups |
-| Maintainability | Good separation | Very good, familiar | Excellent |
-| Testability | Good | Good | Excellent |
-| Migration Risk | Medium | Low | Low |
-| Team Learning Curve | Medium (Map usage) | Low | Low |
-| Extensibility | Good | Good | Good |
-| JSON Compatibility | Requires conversion | Native | Native initially |
-| Code Complexity | Medium | Low-Medium | Low |
-| VA.gov Alignment | Partial | Strong | Strong |
+#### Phase 1: Backend Deployment + Automatic Mobile Update
+1. Implement `TitleGenerator` service with all 75+ mappings
+2. Add new fields to both web and mobile endpoints
+3. Deploy backend changes
+4. **Mobile app immediately receives improved titles** (no app update required)
+   - Mobile already consumes `display_title` field directly
+   - All mobile users get consistent, accurate titles automatically
+   - Serves as early validation of new title logic
 
-*V8 optimizes object property access to near O(1) for objects with stable shapes
+#### Phase 2: Web Frontend Rollout
+1. Deploy web frontend changes behind feature flag
+2. Monitor with 10% rollout initially on VA.gov
+3. Gradually increase to 100% over 1 week
+4. Keep legacy logic as fallback for web only
+5. **Mobile continues displaying new titles throughout this phase**
 
-### Recommendation: Option 3 - Hybrid Approach
+#### Phase 3: Cleanup & Monitoring
+1. Remove web feature flags
+2. **Both platforms now displaying identical titles**
+3. Monitor for any issues across both platforms
+4. Plan deprecation of legacy logic (6-month timeline)
 
-Option 3 provides the optimal balance for the VA.gov context:
+### Benefits of This Solution
 
-#### Why This Is The Right Choice:
+#### Immediate Benefits
+1. ** Solves all 4 critical issues**:
+   - Null claimType problem: Backend provides proper titles
+   - Death claim inconsistency: Unified across platforms
+   - Platform inconsistency: Same titles everywhere
+   - Pension specificity: Preserved with specific `claimTypeBase` values
 
-1. Risk Mitigation: Progressive enhancement allows us to start simple and optimize if needed
-2. Team Velocity: Familiar patterns mean the team can implement quickly without extensive training
-3. Production Safety: Feature flag rollout ensures zero-downtime migration
-4. Measurable Impact: Clear metrics for success (test coverage, performance, accuracy)
+2. **Consistency**: Single source of truth for all platforms
+3. **Maintainability**: Title changes require only backend updates
+4. **Performance**: Reduces frontend bundle size by ~2KB
 
-#### Implementation Roadmap:
-
-Phase 1: Foundation
-- Create configuration object with all 106 mappings
-- Build compatibility layer
-- Write comprehensive tests
-
-Phase 2: Validation
-- Deploy behind feature flag
-- A/B test with 5% traffic
-- Monitor for discrepancies
-- Validate performance metrics
-
-Phase 3: Rollout
-- Gradual rollout: 5% → 25% → 50% → 100%
-- Monitor error rates and performance
-- Gather team feedback
-
-Phase 4: Optimization
-- Remove legacy code
-- Consider Map conversion if performance requires
-- Add telemetry for null claimType detection
-
-#### Success Metrics:
-
-- Test Coverage: 100% of claim code/placement combinations
-- Performance: p95 < 5ms for title generation
-- Accuracy: Zero misrepresented claim titles
-- Developer Experience: 50% reduction in time to add new claim types
-- Operational: Automated alerts for null claimType occurrences
-
-#### Risk Mitigation Strategies:
-
-1. Parallel Implementation: New and old code run side-by-side
-2. Comprehensive Testing: Every combination tested before production
-3. Gradual Rollout: Feature flags enable instant rollback
-4. Monitoring: Real-time alerts for any discrepancies
-
-### Why Not The Other Options?
-
-Option 1 (Map + Strategy): While technically elegant, introduces unfamiliar patterns without proportional benefit for this use case.
-
-Option 2 (Object + Composition): Good choice, but composition pattern might be over-engineering for simple formatting needs.
-
-### Final Thoughts
-
-The hybrid approach respects the existing codebase patterns while providing a clear path to improvement. It prioritizes:
-
-- Simplicity over cleverness
-- Incremental improvement over big-bang refactoring
-- Team familiarity over architectural purity
-- Measurable outcomes over theoretical benefits
-
-This solution balances technical excellence with practical constraints, focuses on outcomes that matter to veterans, and ensures the team can maintain and extend the solution confidently.
+#### Long-term Benefits
+1. **Scalability**: New claim types automatically work on all platforms
+2. **Testing**: Centralized logic easier to test comprehensively
+3. **Documentation**: Single location for title mapping documentation
+4. **Future-proof**: Backend can evolve without frontend changes

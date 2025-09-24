@@ -57,9 +57,14 @@ Currently, there is no way for family members, authorized organizations or perso
 - Open form metrics
 - Error analysis
 
-Dashboard/report links: TBD  
-Limit of 5-6 KPIs: TBD  
-Baseline KPI values: TBD (coordinate with MBMS for existing data)
+Dashboard/report links: TBD   
+Baseline KPI values: 
+
+- Percentage of ToN requests submitted via self-service (initial: 50%, target: 70%+)
+- Reduction in call center volume for ToN submissions (initial: 20%+, target: 40%+ reduction)
+- User satisfaction rating (target: 4+ out of 5)
+- Successful form submission rate (target: 95%)
+- Average submission time (target: <15 minutes)
 
 ## Objectives and Key Results (OKRs)
 
@@ -92,12 +97,13 @@ Baseline KPI values: TBD (coordinate with MBMS for existing data)
 Initiative briefs and links: TBD
 
 **Launch Strategy**  
-Launch details: TBD  
+Launch details: 10,25, 50, 100% users.  Exact date unknown but the quarter we are aiming for is FY27Q1  
 Public awareness strategy and outreach plans needed  
 Release Plan Link: Available Release Plan Template
 
 **Launch Dates**  
 Target, Actual, and Impact Review Dates: TBD
+
 
 ## Solution Narrative
 

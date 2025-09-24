@@ -29,6 +29,10 @@ This initiative focuses on improving the veteran experience by displaying health
 
 **What is the problem and who is affected?**
 Veterans updating their health records through the 10-10EZR form currently have limited visibility into their form status outside of the form's introduction page. Unlike the 10-10EZ healthcare application which displays some status information on MyVA, the 10-10EZR health update form statuses are not shown on commonly accessed personalized pages. This creates a gap in veteran experience where health record updates may be forgotten or delayed due to lack of visibility.
+- Current VES statuses of Veterans who can access EZR (this is outside of statuses/attributes required by MHV to log into the my-health space)
+     - 'enrolled'
+     - 'pending_mt'
+     - 'pending_other'
 
 **Why do you think the problem is occurring?**
 - Health update form statuses are not visible on the form introduction page

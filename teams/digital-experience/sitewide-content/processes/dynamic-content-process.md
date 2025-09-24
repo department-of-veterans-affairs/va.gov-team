@@ -79,8 +79,9 @@ Follow the [platform developer docs](https://depo-platform-documentation.scrollh
 5. Provide the widget type value to Content and IA for input into Drupal
 
 ## Notes for testing react widgets
-* For general testing, ensure the widget code has been deployed to production before testing with Content and IA.
-* If your widget is controlled by a feature toggle, when Content and IA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
+* For general testing, ensure the widget code is deployed to production before testing with Content and IA team.
+* For testing in the staging environment, engineering needs to turn the toggle off before Content and IA can publish the page in the production environment. It takes about a day for staging to catch up with production.
+* If your widget is controlled by a feature toggle, when Content and IA is ready for testing, you'll need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing won't work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
 
 ## Search engine options for staged rollouts
 1. Determine whether there is a risk of harm if users find your product via search engine (like Google), but can't access it.

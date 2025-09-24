@@ -127,20 +127,18 @@ synthesis_tools_used:
 
 **Office of the CTO - Digital Experience (OCTO-DE), Mobile App Debt Portal: Overpayments and Copayments, Mobile Feature Support**
 
-**Date:** 09-11-2025
+**Date:** 09-22-2025
 
 **Contacts:** 
 - Emily DeWan - Researcher
 - Natasha Huckleberry - Designer
 - Thomas Michaud - Designer
 - Natalie Gibbons - Product Manager
+- Michelle Middaugh - Product Owner
 
-<!-----
 
-**[Link to Research Readout](link-here)**  
-*Add a link to your research readout deck, if available.*
+**[Link to Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/research-findings_PDF-presentation.pdf)**  
 
------>
 
 
 

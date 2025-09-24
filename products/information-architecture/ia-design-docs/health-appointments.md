@@ -1,7 +1,11 @@
 # IA Design for Appointments
-**STATUS: In Progress**
 
 **Team:** Appointments
+Last updated: Sept 22, 2025
+
+**Change log**
+* September 15, 2025: Appointments will introduce an "interstitial" page concept into the scheduling flow, so that Veterans understand upfront not to use this tool for scheduling emergency care. Currently, the scheduling flow has an empty directory at /appointments/schedule and we will take that URL so that it is no longer empty. The interstitial will be the "top" of the scheduling flow. 
+
 
 **On this page:**
 - [Page structure](#map)
@@ -32,11 +36,12 @@ Page | URL | Breadcrumb | Notes
 |6. Upcoming and canceled appointments detail pages | https://va.gov/my-health/appointments/[ID] | < Back to appointments  | 
 |7. Past appointments detail pages | https://va.gov/my-health/appointments/past/[ID] | < Back to past appointments |
 |8. Pending appointments detail pages | https://va.gov/my-health/appointments/pending/[Request-ID] | < Back to pending appointments |
-|9. Root scheduling URL | https://va.gov/my-health/appointments/schedule/[H1-related-title] | VA.gov Home > My HealtheVet > Appointments > Schedule > [H1 Page Title] |
+|9. Root scheduling URL (interstitial page) | https://va.gov/my-health/appointments/schedule/ | VA.gov Home > My HealtheVet > Appointments > Schedule |
 
 **Scheduling Flow URLS**
-| Flow                                                   | Internal name                           | H1 Page Title                                  | Current URL                                                                                                           | New URL                                                                       |
-| ------------------------------------------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Flow        | Internal name    | H1 Page Title       | Old URL    | New URL         |
+| ----------- | ---------------- | ------------------- | --------------- | -------------- |
+|Interstitial (entry point ot scheduling flow) | Interstitial | Do not use for scheduling emergency care | N/A |  https://va.gov/my-health/appointments/schedule|
 | All                                                    | Type of care                            | Choose the type of care you need               | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment                                         | https://va.gov/my-health/appointments/schedule/type-of-care                   |
 | VA direct schedule<br><br>VA request<br><br>CC request | Choose sleep care                       | Choose the type of sleep care you need         | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-sleep-care                       | https://va.gov/my-health/appointments/schedule/sleep-care                     |
 | VA direct schedule<br><br>VA request<br><br>CC request | Choose eye care                         | Choose the type of eye care you need           | https://va.gov/health-care/schedule-view-va-appointments/appointments/new-appointment/choose-eye-care                         | https://va.gov/my-health/appointments/schedule/eye-care                       |

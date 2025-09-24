@@ -48,7 +48,7 @@ Leading indicators (quant)
     * Profile - 2,225,605 views (Oct 1st - Oct 31st 22)
 * **KR**: <span style="text-decoration:underline;">Amount of Secure Messages sent</span> stays consistent
     * We want to track if the number of Secure Messages sent changes drastically because we are changing how the button works.  We want to ensure less messages aren’t sent because the button is harder to find/use
-    * [137,085 in Sept 22](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Dashboard/)
+    * [137,085 in Sept 22](https://department-of-veterans-affairs.github.io/va-mobile-app/gettingStarted/Metrics/Dashboards/)
     * 155,852 in Oct 22
 
 * **KR**: <span style="text-decoration:underline;">Amount of updates to Direct Deposit</span> stays consistent

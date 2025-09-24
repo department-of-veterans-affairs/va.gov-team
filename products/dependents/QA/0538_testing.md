@@ -27,6 +27,22 @@
 - VA.gov will provide the UUIDs to Timothy Wagner or Jacob Shepard so they can get it processed and placed into PreProd Centralized Mail Portal and provide PacketIDs.
 - Tim or Jacob can provide the packetIDs to the MAS folks, they can review, and provide it to IBM if needed to review for potential automation issues.
 
+## Test Accounts (provided by MAS)
+Long Last Name
+- FAUSTO FEATHERSTONEHAUGHING File #: 700011825
+- NINE MACGILLYCUDDYBROGANS File #: 747494599
+- ICHAEL VANDERMEERHOLLENSTEN File #: 718945680
+
+Long First Name
+- ALEXANDRIABELLA SHARDA SEIDENBECKER File #: 666305612
+- MAXIMILIANA VASHTI BLAKEBOROUGH File #: 666295701
+- CHRISTOPHERSON VET VBARNONE File #: 666202404 - also has long email address
+
+Long Addresses
+- STEWART JOSIAH FLINCHBAUGH File #: 666148361 ( also has long email address)
+- SHERMAN NORBERTO ABRAHAMIAN File #: 666144279
+
+
 MAS POCs:
 - Alanna Fields, OBI Program Analyst
 - Molly Mccabe, OBI Progam Analyst

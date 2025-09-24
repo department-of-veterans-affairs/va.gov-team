@@ -151,9 +151,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 17 [9/10/25 - 9/23/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|--|--|
+|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|09/16/25|Completed|
 |UX: Investigate, identify and work with stakeholders on ways to improve the Marital Status question on the FSR, to cover all situations/scenarios referenced in the Medallia reports.| QP7 |--|--|--|
-|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|--|--|
+|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|9/22/25|Completed|
 |ENG: Complete all remaining One Thing Per Page work and book Staging Review.| QP2 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
@@ -161,6 +161,28 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA PO & COR sent the Sprint Goals (09/08/25)
  - [X] VA PO approved the Sprint Goals (09/15/25)
  - [X] VA COR approved the Sprint Goals (09/15/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+## Sprint Goals - Sprint: 18 [9/24/25 - 10/7/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|--|
+|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|--|
+|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|--|--|
+|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
+|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
+|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|--|--|
+|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|--|--|
+|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (09/23/25)
+ - [X] VA PO & COR sent the Sprint Goals (09/23/25)
+ - [X] VA PO approved the Sprint Goals (09/24/25)
+ - [X] VA COR approved the Sprint Goals (09/24/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart

@@ -13,8 +13,8 @@
 
 ## Relevant documentation
 
-- [Mobile on-call procedure](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/OnCallProcedure)
-- [How mobile uses DataDog](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/DataDog)
-- [Accessing mobile Logs](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/Logs)
-- [How mobile uses sentry](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Monitoring/Sentry)
-- [Upstream services map and contact information](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services/)
+- [Mobile on-call procedure](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/OnCallProcedure)
+- [How mobile uses DataDog](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/DataDog)
+- [Accessing mobile Logs](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/Logs)
+- [How mobile uses sentry](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Monitoring/Sentry)
+- [Upstream services map and contact information](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services/)

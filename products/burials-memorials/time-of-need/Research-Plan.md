@@ -112,7 +112,7 @@ Where will you be holding the research sessions?
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+- [Link to prototype]([url goes here](https://www.figma.com/proto/uwD8YNp1g3W6XHR5Bn9sjF/Time-of-Need-Lite---Baseline-Prototypes?node-id=0-1&t=6jLfEjCubkyMprI2-1))
 
 ## Recruitment 🎯	
 

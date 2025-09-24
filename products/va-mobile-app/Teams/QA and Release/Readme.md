@@ -4,7 +4,7 @@ Quality Assurance, Accessibility, and Release Management (DevOps)
 
 
 ## QA Documentation 
-Documentation can be found both within this QA and Release Github Folder and also on [QA page of the mobile documentation site](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/).
+Documentation can be found both within this QA and Release Github Folder and also on [QA page of the mobile documentation site](https://department-of-veterans-affairs.github.io/va-mobile-app/development/QA/).
 
 ## Mobile QA Overview
 In April of 2023, we recorded an 'overview of Mobile QA' presentation [(presentation slides as PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/files/11348079/PDF.Mobile.app.release.process.QA.pdf) with some VA stakeholders. Video clips for each (rough) topic include:

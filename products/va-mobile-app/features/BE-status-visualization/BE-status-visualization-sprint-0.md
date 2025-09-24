@@ -10,7 +10,7 @@
 
 ### Desired Outcomes ###
 
-* We would like to further develop the mobile BE test suite software to include a publicly available website that would visualize the status of each endpoint and clearly show if an upstream service as a whole is down or a specific endpoint. It can look similar to the following upstream services map ([Upstream Service Map](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services/#upstream-service-map) ) but each node can be color coded with green/red/yellow to show their status. This would allow other non-BE team members to quickly determine on their own if the issue is upstream and can save BE team members time by not having to look into it. Even if BE is still asked to look into it, it would be a quicker resource to use than datadog. Datadog has a complex login process and requires many clicks to get to the dashboard with the necessary information. Even when that dashboard is reached, it can be intimidating to non-technical users.
+* We would like to further develop the mobile BE test suite software to include a publicly available website that would visualize the status of each endpoint and clearly show if an upstream service as a whole is down or a specific endpoint. It can look similar to the following upstream services map ([Upstream Service Map](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services) ) but each node can be color coded with green/red/yellow to show their status. This would allow other non-BE team members to quickly determine on their own if the issue is upstream and can save BE team members time by not having to look into it. Even if BE is still asked to look into it, it would be a quicker resource to use than datadog. Datadog has a complex login process and requires many clicks to get to the dashboard with the necessary information. Even when that dashboard is reached, it can be intimidating to non-technical users.
 
 ## Assumptions and Level of Confidence
 
@@ -64,4 +64,4 @@
 
 ## Important Links
 
-* [Upstream Service Map](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services/#upstream-service-map)
+* [Upstream Service Map](https://department-of-veterans-affairs.github.io/va-mobile-app/development/BackEnd/Architecture/Services)

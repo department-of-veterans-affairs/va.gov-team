@@ -73,11 +73,20 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * Pay.va.gov is using pay.gov in the background, to ensure that Veterans are submitting a payment for a specific debt.    
 * For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.
 * There are only 6 months of copayment statements that are currently displayed in the debt portal.
-* Copayment Statements are issued on the first of the month.  
-* According to the Financial Management Team, Veterans can have a lot of copayment debts.    
+* Copayment Statements are issued on the first of the month.
+* Copays balance will updated monthly because the FM team is reliant on monthly statement data. This will potentially change as the FM team switches to a new API for balance information by the end of November 2025. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
+* Overpayments that have been paid on pay.va.gov are updated as soon as the Debt Management Center processes the Veteran's payment and updates their system. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
+* The FM team is working to allow Veterans to process a payment for Overpayments and Copayments within VA.gov and not leave the website. Overpayments will be changing to pay.gov first, then copayments. Current plan for the FM team as of September 18, 2025. Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758143040792019?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) for reference.
+* According to the Financial Management Team, Veterans can have a lot of copayment debts. The FM team estimates anywhere from 0 to ~300 copays per year.
+* Veterans are estimated to have anywhere from 0 to 30 overpayments. According to the FM team, currently there are 677, 117 Veteran accounts with overpayment debts + 69,058 Non-Veteran accounts (i.e. beneficiaries). Each account could potentially have more than one overpayment but the number isn't as high as the copay side.     
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
-* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).    
-* [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).
+* As of 9/18/2025, the FM team will be making these additional changes to copays:
+  * Payment History - Vista MVP: update balance information to move away from monthly statement data. This is only for Vista stations (Cerner/Oracle stations will follow later).
+  * Pay.gov Integration for copays - Integrate pay.gov into the experience so Veterans can process a payment for a copay directly from the web experience.  
+* During the FM // MFS sync (9/19/2025) the FM informed MFS that they are targeting to have the new Copay API developed. This will provide Copay data to be update on a 24 hour bases (occurs nightly). MFS team will need to work with FM team to make sure that mobile app aligns on messages. 
+*  [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+ 
 
 ## Solution Approach
 
@@ -85,7 +94,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 
 ## Decision Log
 
-| Date | Decision | Notes|
+| Date | Decision | Note|
 | --- | --- | --- | 
 |5/7/2025| Demand Letters will not be part of this effort. |Demand Letters are not even included on VA.gov, but something the Financial Management team is working on. No timeline was provided.|
 |5/8/2025| Once the new Lighthouse API for Copayment Debts is built, the old API will not be deprecated.| The Financial Management team said they may reduce the data of the previous API, but will continue to use it if data that isn't available on the new one (example the statements).|
@@ -109,7 +118,25 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/09/2025| At this current time, data is not available to describe a type of payment.| This type of data will be implemented across web and mobile in future iterations and includes details such as "partial payment" and "received via ACH". |
 |9/10/2025| Mobile designs will include the Notice of rights and responsibilities for overpayments and copayments. | This notice is regulatory-related and needs to be included in the detail/overview pages. The FM team does not own the content. |
 |9/15/2025| We got the approval from Michelle to remove the Feedback-to-Vet label during UX refinement. | During our UX refinement, Michelle reviewed and approved the content feedback that we received on the updated prototype, as well as told us to move forward with the following tickets: [850](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/850), [853](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/853), [852](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/852), and [849](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/849). |
+|9/15/2025| Mobile designs do not need to include a note on eductional debts, since receivable ID went live on 9/15. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757953910434839?thread_ts=1757707662.279659&cid=CPE4AJ6Q0). |
+|9/16/2025| Veterans with 500 errors see the same error messages as 404 errors. | This was confirmed in a Slack [thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758044068158549). |
+|9/16/2025| Engineers can investigate Spike monitoring outside of Sentry. | During refinement Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label. |
+|9/17/2025| VBA diary codes 681 & 682 will surface the following action links: Pay your balance, request financial help, or dispute this bill. | This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1757445252670279) thread, but Denise will continue to review this as future iterations it would be beneficial to surface the link for the FSR form. |
+|9/17/2025| The mobile MVP of overpay/copay will include One Thing Per Page. | The FM Team is planning to launch One Thing Per Page by 10/8 (pending staging review) and plans for the feature flag to be fully enabled by the end of Oct. 2025. This was confirmed in a [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread. |
+|9/17/2025| The mobile MVP will not include the Payment history for Copays. | The Financial Management team is pushing hard on this effort but does not have a date for that just yet. [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758144950625129?thread_ts=1757687041.799969&cid=CPE4AJ6Q0) thread for reference. |
+|9/18/2025| We will not include No History alert for MVP.| For Copayments the MFS engineers found code for this and Tom confirmed in [this](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758214709665539?thread_ts=1756484262.963509&cid=CPE4AJ6Q0) Slack message that we do not need to include this alert. |
+|9/22/2025| MFS will include the "It may take up to 4 business days for payments to reflect on your account" messaging under Current debts.| This decision aligns with the content that is on VA.gov and the decision is tracked in this [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758204820816849?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) thread. |
 
+## Features to consider for v2
+This information was collected from [research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/research-findings.md), as well as working with the FM team to understand what is currently implemented when MFS plans to release MVP. 
+| Date |Recommendation | Note|
+| --- | --- | --- |
+|9/23/2025| Provide a space for users to view resolved debt, and remove resolved debt from the current list of outstanding debts and bills.| Not currently technically feasible.|
+|9/23/2025| Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from generic explanation.| Research needed on what is technically feasible.|
+|9/23/2025| Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.| Not currently technically feasible.|
+|9/23/2025| Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app.| Research needed: will PII always block adding letters? Research needed: what is allowed to be written?|
+|9/23/2025| Payment history for copays.|The FM team hopes to release this by EOY and will then work to include updates to mobile designs.|
+|9/23/2025| Notification of an overpayment debt or copayment bill.|Research needed and will want to have the new Copayment API implemented so that data is updated within a 24-hour period.|
 
 ## Reference Materials
 

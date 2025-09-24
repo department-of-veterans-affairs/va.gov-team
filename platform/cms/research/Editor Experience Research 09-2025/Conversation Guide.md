@@ -78,49 +78,54 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 Please share your name, role, and where you’re calling in from.
-How long have you been at the VA?
-How long have you worked with Drupal?
-What does a typical workday look like for you?
-What kinds of responsibilities do you have outside of Drupal?
-How do you dedicate time for Drupal activities?
-What do you wish you had more time for?
-How do you learn about the content you need to update?
+- How long have you been at the VA?
+- How long have you worked with Drupal?
+- What does a typical workday look like for you?
+- What kinds of responsibilities do you have outside of Drupal?
+- How do you dedicate time for Drupal activities?
+- What do you wish you had more time for?
+- How do you learn about the content you need to update?
 # Training, Onboarding, and Learning Preferences [10 minutes]
-How do you learn best?
-How do you usually learn a new technology or system?
-How did you first learn to use Drupal?
-Did you review any training materials before starting?
-Can you tell me about your experience with the training materials?
-What would help new editors ramp up faster?
-What makes training feel useful or relevant for you?
-What helps you remember how to complete tasks after training?
-What did you wish you knew before starting with Drupal?
+- How do you learn best?
+- How do you usually learn a new technology or system?
+- How did you first learn to use Drupal?
+- Did you review any training materials before starting?
+- Can you tell me about your experience with the training materials?
+- What would help new editors ramp up faster?
+- What makes training feel useful or relevant for you?
+- What helps you remember how to complete tasks after training?
+- What did you wish you knew before starting with Drupal?
+
 # Drupal Use and Pain Points [20 minutes]
 ### (Screen share the tasks and live sites)
-What do you do in Drupal most often?
-Which tasks take the most time?
-Which tasks cause the most errors or rework?
-What do you struggle with most in Drupal? (If no struggle) What tasks do you think other Editors might struggle with the most?
-[Screen share] (skip if no struggle with task) Let’s pretend you need to complete this task? Can you show me how you would get to the right page and how you would complete the task?
-What would make this task easier or faster?
-[!Note]
+- What do you do in Drupal most often?
+- Which tasks take the most time?
+- Which tasks cause the most errors or rework?
+- What do you struggle with most in Drupal? (If no struggle) What tasks do you think other Editors might struggle with the most?
+[Screen share]
+- (skip if no struggle with task) Let’s pretend you need to complete this task? Can you show me how you would get to the right page and how you would complete the task?
+- What would make this task easier or faster?
+- [Have participant keep sharing screen] How would you ensure your content is accessible here?
+- [Have participant keep sharing screen] How important is fixing broken links in your day-to-day?
+- [Navigate to live site] When you look at your site, what parts do you wish you could change?
+
 ### Things to watch for
 Does the participant know how to navigate the platform?
-[Have participant keep sharing screen] How would you ensure your content is accessible here?
-[Have participant keep sharing screen] How important is fixing broken links in your day-to-day?
-[Navigate to live site] When you look at your site, what parts do you wish you could change?
 
 # Support Resources and Materials [15 minutes]
-Show us what you might do when you get stuck in Drupal?
-What resources do you typically turn to (knowledge base, peers, supervisors, trial-and-error)?
-How would you organize the resources by how often you use them? (Card sort)
-For more experienced Editors: How do you typically provide support to other Editors
-What challenges do you face when searching for or navigating support resources?
-How would you organize the resources by how helpful they are? (Card sort)
+- Show us what you might do when you get stuck in Drupal?
+- Are you aware of a help desk for Drupal CMS?
+- (if not aware of helpdesk) What might a helpdesk look like?
+- What resources do you typically turn to (knowledge base, peers, supervisors, trial-and-error)?
+- How would you organize the resources by how often you use them? (Card sort)
+- (For more experienced Editors) How do you typically provide support to other Editors
+- What challenges do you face when searching for or navigating support resources?
+- How would you organize the resources by how helpful they are? (Card sort)
 [POTENTIAL STIMULI: Provocations such as tooltips, inline messages, examples; Card sort or prioritization of resource types (e.g., KB articles, inline help, videos, checklists, examples)]
+
 # Conclusion [3 minutes]
-Is there anything we didn’t ask about that you’d like to share regarding your experience in Drupal?
-If you could change one thing about Drupal tomorrow, what would it be?
+- Is there anything we didn’t ask about that you’d like to share regarding your experience in Drupal?
+- If you could change one thing about Drupal tomorrow, what would it be?
 
 
 # Thank You [1 minute]

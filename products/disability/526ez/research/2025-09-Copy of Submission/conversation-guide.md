@@ -2,7 +2,7 @@
 title: "Conversation Guide for Disability Benefits Core Form Team, 21-526ez, 2025-09-11"
 author: "Qian Chen, Irene Vailikit, Kevin Shih"
 date_created: "2025-09-11"
-last_modified: "2025-09-11"
+last_modified: "2025-09-19"
 tags:
   - "526ez"
   - "research"
@@ -27,7 +27,7 @@ description: "A template for moderating research sessions including logistics, i
 
 ### **Day of the session**
 
-* { PLACEHOLDER FOR PROTOTYPE }  
+* Open [prototype](https://tinyurl.com/y7j36kar) 10 min before session
 * Open [Emergency Exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies)  
 * Open the appropriate screen share guidance:  
   * iPhone: [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)  
@@ -52,7 +52,7 @@ description: "A template for moderating research sessions including logistics, i
 
 ## Introduction \- 5 minutes
 
-Welcome, and thank you so much for taking the time to join us today. My name is \[NAME\] and I  work on [VA.gov](http://VA.gov). I am part of a team that is trying to improve it so Veterans can submit their strongest claims and get benefits as quickly as possible.
+Welcome, and thank you so much for taking the time to join us today. My name is \[NAME\] and I work on [VA.gov](http://VA.gov). I am part of a team that is trying to improve it so Veterans can submit their strongest claims and get benefits as quickly as possible.
 
 ***I'm going to start by sharing what we hope to do today*** and providing an overview of how you'll participate. Then we'll do some introductions and then get started with taking a look at the form that we'd like to get your feedback on.
 
@@ -77,8 +77,8 @@ Ok, great. I want you to know that today, I don’t want to add to any frustrati
 
 `Tip:`
 
-* Then, ask the notetaker and observers to give **a brief, camera-on introduction, like their first name and position with VA.gov**. (This is meant to humanize the interaction of observation for the participant.)  
-* Also ask the participant to give a brief introduction of themselves.  
+* Then, ask the notetaker and observers to give **a brief, camera-on introduction, like their first name and position with VA.gov**.
+* Also ask the participant to give a brief introduction of themselves. ("Would you mind telling us a bit about yourself?")
 * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
 ***Now, I’ll talk a little bit about what you’ll be testing***. We are working to improve the online disability benefits form, specifically the "Confirmation" page. We are looking to incorporate your feedback on our work in progress. To do so, we will be asking you to interact with a demo version of this page, and solicit your reactions and opinions as you accomplish various tasks from the page.
@@ -126,11 +126,11 @@ We are now going to transition into testing a demo version of the Disability Ben
 
 ### **Share prototype and screen sharing set-up \- 10 minutes**
 
-I’m going to send you a link to the demo in the chat. When you pull it up, it is going to look like the [VA.gov](http://VA.gov) website that you may be familiar with. I just want to reiterate that this is a demo website and none of the account information is from a real person. 
+I’m going to send you a link to the demo in the chat. When you pull it up, you are going to land on a screen with a cat cutout logo. This is a screen to tell its visitors that you are entering a demo space, and any info you share with us there will be available to our team that built this space. 
 
-Once you open the link, please share your screen. Please do not click on anything at the moment\!
+However, since we won’t be asking you to input any personal info during this session, it is not an issue.
 
-Prototype link: \[[Figma desktop link](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?page-id=635%3A13286&node-id=1248-187297&viewport=1069%2C2016%2C0.04&t=pDGopIaHeSs9N4Bk-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1248%3A187297&show-proto-sidebar=1);[ \[Figma mobile link\]](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?page-id=635:13286&node-id=1247-183446&viewport=1069,2016,0.04&t=pDGopIaHeSs9N4Bk-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1247:183446&show-proto-sidebar=1), Codespaces link to follow\]
+Prototype link: \[[Figma desktop link](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?page-id=635%3A13286&node-id=1248-187297&viewport=1069%2C2016%2C0.04&t=pDGopIaHeSs9N4Bk-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1248%3A187297&show-proto-sidebar=1);[ \[Figma mobile link\]](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?page-id=635:13286&node-id=1247-183446&viewport=1069,2016,0.04&t=pDGopIaHeSs9N4Bk-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1247:183446&show-proto-sidebar=1), Codespaces link: https://tinyurl.com/y7j36kar
 
 Feel free to take a minute to hide anything, like your personal email or anything you don’t want us to see. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
 
@@ -150,15 +150,23 @@ Feel free to take a minute to hide anything, like your personal email or anythin
   * Instructions should be similar to “mobile”  
   * If you are on an iPad or Tablet, the button is hidden in the bottom of your screen. Tap anywhere on your screen, a “tool bar” will show up at the bottom of the screen, and the share button should be within the tool bar (you may need to drag the tool bar to the left to see it). should show up until you hover over them\!
 
-Awesome\! Now that I can see your screen, **I would like you to:** Imagine that you are a veteran named Leslie Jackson. (Just to clarify, Leslie is not a real person, we are using a demo account.) Earlier this week, you spent time filling out the Disability Benefits form, but got interrupted so you were logged out right before hitting the submit button.
+
+Once you open the link, please share your screen. Please do not click on anything at the moment!
+
+Awesome! Now that I can see your screen, **I would like you to first click continue:** 
+
+Okay now you have entered our demo page. It is going to look like the VA.gov website that you may be familiar with. I just want to reiterate that this is a demo website and none of the account information is from a real person. 
+
+For the remainder of the session, I’d like you to imagine that you are a veteran named Leslie Jackson. (Just to clarify, Leslie is not a real person, we are using a demo account.) Earlier this week, you spent time filling out the Disability Benefits form, but got interrupted so you were logged out right before hitting the submit button.
 
 Now you are interested in actually submitting your Disability Benefits form. To do so, you need to first enter your email and password, as Leslie, on this **Login page**. Go ahead and click “Submit.”
 
 Now that you are logged back in, you are brought to the **Review and Submit page**. This is where you left off before you were interrupted. This page lets you know that you've answered all the questions on the form. Each of the sections listed here are the sections within the form. Imagine that you have reviewed the information on this page and are ready to submit.
 
-Go ahead and type your ”Full name“ as ”Leslie Jackson“ and click on ”Submit Application.“
+Go ahead and click on ”Submit Application.“
 
 **We are now on what we call the Confirmation Page.** This is the page that we’d like your feedback on. The data on this page is not real, but we’d like to ask you to pretend that this is your data as Leslie. 
+
 
 ---
 
@@ -166,7 +174,7 @@ Go ahead and type your ”Full name“ as ”Leslie Jackson“ and click on ”S
 
 ### **First Task \- Goal 1: Gather feedback on the overall content of the page. (5 minutes)**
 
-Okay first, we would like you to review the content on this page. As you review what is on this page, please share everything that you are thinking out loud with us so that we can understand your impressions of the page. This might look like, “I am seeing this box here and it is making me think X.” This might feel funny, but it is a great way for us to gather your feedback. 
+Okay first, we would like to ask you to read through this page and share your thoughts aloud with us as you do. This might look like, “I am seeing this box here and it is making me think X,” or "I read this paragraph and it's telling me to do Y."  This might feel funny, but it is a great way for us to gather your feedback and know if this page is working as we intended. 
 
 I just want to reiterate: In this session we are testing this demo page, not you. We want to hear exactly what you think so please don’t worry that you are going to hurt our feelings.
 
@@ -203,19 +211,23 @@ Thank you for reviewing the page. Now I want to get your feedback on something e
 
 ### **Third Task \- Goal 3: Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page. (5 minutes)**
 
-Ok, now we will move into our third task. 
+Ok, now I’d like us to shift gears!
 
-1. Now that you've submitted your claim, where would you find the information on what happens next?  
-   1. (If they find the relevant sections) Tell me about your thought process. Why did you think to look there?  
-   2. (If they don't find it) Where would you expect to find that information?  
-2. Where would you find how to ask for help or how to contact the VA if you have questions?  
+1. Now What does this page tell you about the status of your application?
+  1. Where would you find the information on what happens next to your application?
+    1. (If they find the relevant sections) Tell me about your thought process. Why did you think to look there?
+      1.Based on what you found, what do you think is going to happen next to your application?
+    2. (If they don't find it) Where would you expect to find that information?
+    3. [If they ignore the green box on top] Based on the text found in this green box, what do you expect to happen next with your application?
+2. Where would you find how to ask for help or how to contact the VA if you have questions?
 3. If you were to change the order of anything on this page, how would you do so?
+
 
 ### **Fourth Task \- Goal 4: Determine if users understand how and are able to save and/or print all the content from the Confirmation Page. (5 minutes)**
 
-Now we will move into our fourth and final task. 
+Okay now I’d like us to shift gears again:
 
-1. Now that we have a sense of what is on this Confirmation Page, what would you do next as Leslie?  
+1. Now that we have a sense of what is on this Confirmation Page, what would you do next if this is your submission?  
 2. From this screen, can you show me how you would save this information for your personal records? Talk me through what you’re doing, so I can better understand your thought process.  
    1. (Observe if they look for a 'Print' button or immediately go for the browser's print function. Also if they expand the accordion before printing. Or do something else entirely\!)  
 3. \[IF THEY DIDN’T PRINT TO SAVE\] Now can you show me how you would print a copy of this information?  
@@ -225,7 +237,7 @@ Now we will move into our fourth and final task.
 4. \[If the participant has applied for disability benefits before\] You told us earlier that you applied for disability compensation before –   
    1. \[If they saved a copy\] You mentioned that you had saved a copy of your filled-out application at the time. **What was your reason behind that decision?**  
    2. \[If they didn’t save a copy\] You mentioned that you did not save a copy of your filled-out application at the time. **Was there a time later when you wished you had saved a copy?**  
-5. \[If the participant has never applied for disability benefits / or don’t remember\] As Leslie, do you think it’s worth saving the information on this page? Why or why not? Tell me more about your thoughts here.
+5. \[If the participant has never applied for disability benefits / or don’t remember\] If this is your submission, do you think it’s worth saving the information on this page? Why or why not? Tell me more about your thoughts here.
 
 ### **Post-Task Interview \- 5 Minutes**
 
@@ -233,9 +245,6 @@ Those were all of the tasks. Now we have a few follow up questions.
 
 1. How would you expect to access a copy of your form submission after you leave this page?  
 2. What information about your submission is most important for you to know?  
-3. If you were to keep a copy of what you submitted on your form, why would you keep it?  
-   1. What would you do with that copy?  
-   2. What would you do with the information?  
 4. If you had a magic wand and could change anything about what you've reviewed today, what would it be?  
 5. Do you have any questions for me before we end the session?
 

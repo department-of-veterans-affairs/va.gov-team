@@ -13,17 +13,17 @@ research_goals:
   - "Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation."
   - "Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated usability testing"
+  - "Semi-structured interviews"
 devices_used:
     desktop: 8
     tablet: 0
     smartphone: 6
     assistive_technology: 2
-participants_total: 15
+participants_total: 14
 demographics:
   veterans: 4
-  dependents: 11
+  dependents: 10
   age:
     "25-34": 1
     "35-44": 4
@@ -32,60 +32,76 @@ demographics:
     "65+": 3
     unknown: 1
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 3
+    some_college: 4
+    associates: 3
+    bachelors: 4
+    masters: 0
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 9
+    rural: 4
+    unknown: 1
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 6
+    black: 3
+    hispanic: 1
+    biracial: 0
+    asian: 1
+    native: 1
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 1
+    AT_beginner: 1
+    AT_advanced: 2
+    screen_reader_desktop: 3
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - Many participants (9 of 14) reported that the initial claim and resubmission claim flows were "easy" or "very easy."
+  - Most participants (10 of 14) understood what supporting documents were required for a claim, either based on the information on the Introduction page or the information on the Document Upload page.
+  - Most participants (10 of 14) understood what supporting documents were required for a claim, either based on the information on the Introduction page or the information on the Document Upload page.
+  - The majority of participants (11 of 12) wanted to resubmit their claim online, but were unsure if they could do so.
+  - Most participants (8 of 12) knew to look in the sendback letter for the PDI number when resubmitting their claim, but entering it correctly proved more difficult.
+  - Most participants (8 of 12) commented on having to resubmit or re-enter information from the original claim in the resubmission flow.
+  - 9 of 14 participants liked the idea of file verification prior to or after attempting to upload a file to their claim, even when they received an error message.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - Clarify that resubmissions can be submitted online
+  - Provide more detail to users for file verification messaging
+  - Make the PDI number easier to enter
+  - Require less information for resubmissions
+  - Clearly communicate all of the required information before the user enters the claim form
+  - Update or add content to reflect current timelines
+  - Soften the tone of the sendback letter
+  - Provide a way for users to check the status of their claims online
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - Measure number of people filing claims online through CHAMPVA
+  - Reduce time from submission to notification
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
-opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  user: Veterans can complete and submit a CHAMPVA claim or claim resubmission within the online form, Veterans spend less time and effort filling out the forms, Veteran satisfaction increased with application experience
+  business: Reduce amount of time spent processing paper forms, Replace outdated and legacy DAPER system with PEGA for document upload and management
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - LLM file verification for document-specific errors
+  - Resubmission flow usability testing
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - Cognitive disability
+  - Biracial
+  - Native Hawaiian or other Pacific Islander
+  - First Nations (Canada)
+  - Mobile Screen Reader (SR)
+  - Magnification/Zoom
+  - Speech Input Tech (Siri, Dragon)
+  - Hearing Aids
+  - Sighted Keyboard
+  - Captions
+  - Switch Device
+  - Braille Reader
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - Sendback letter content audit
 synthesis_tools_used:
   - "Mural"
   - "Affinity Mapping"
@@ -95,16 +111,13 @@ synthesis_tools_used:
 
 # CHAMPVA Claims (VA Form 10-7959a) Resubmissions and File Verification Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), VA Form 10-7959a CHAMPVA Claim, IVC Team**
 
-**Date:** MM/DD/YYYY
+**Date:** 09/18/2025
 
 **Contacts:** Renata Keck, Jamie Fiore, Rachel Pope
 
-**[Link to Research Readout](link-here)**  
-
-> [!TIP] 
-> Add "user-content-" in front of each link generated by Markdown in order to move the focus correctly for keyboard navigation.
+**[Link to Research Readout -- TC](link-here)**  
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
@@ -208,15 +221,103 @@ Each participant saw the introduction page to the 10-7959a forms, completed form
 
 
 ### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+The majority of participants reported that both the initial claim (9/14) and the resubmission claim (9/14) were either “easy” or “very easy.”
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+- In self-reported ease of use ratings:
+  - 10/14 thought the upload process was easy, though 6/14 thought the file verification made it less easy (due to messaging)
+  - 6/14 found the form as a whole to be “easy to complete” and “streamlined”
+  - 2/14 said it was easier than other forms they have to fill out
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+
+  > "[Both flows] were both easy to get to and easy to find, and I didn't feel like it was asking too much information or things that I had to like, stop and go." P6
+  
+  > "Just the whole online process ... if they could do everything like that. It would make just so many lives, so many, so much easier." P1
+  
+  > "Super easy. Honestly, it was easier with CHAMPA than with other medical providers I've had through past employers." P10
+  
+  > “Well, I mean to me there's 2 parts to that question. Uploading was simple[,] hat would be a 5 [very easy]. But the fact that [the LLM verification is] rejecting it would be a 1 [very difficult].” P5
+
+
+### Finding 2
+Most participants understood what supporting documents were required for a claim, either based on the information on the intro page or the information on the upload page. 
+
+- 10 of 14 were able to list the correct documents before starting the form
+- 9 of 14 participants stated they were comfortable with the requirements listed on the upload page or would know where to find them
+- 4 of 14 participants were unsure if the documentation they had would contain all the required information
+
+  > "Yes [I'm familiar with it], it's the itemized billing statement, Super Bill, UB92, depending on who you talk to. It always has… it's very detailed with the diagnosis codes." P10
+  
+  > "Possibly difficult. I can't control what the provider, you know how they format [a billing statement]. I don't think there is a national standard that they follow." P4
+  
+  > "I would ask my doctor, 'hey, can I have your NPI?' I think that would be very difficult asking directly. I don't think every doctor would be comfortable with that." P8
+
+
+### Finding 3  
+The majority of participants (11 of 12) wanted to resubmit their claim online, but were unsure if they could do so.
+
+- 12 participants tested the sendback letter, and all 12 noted that the letter did not provide an online option for resubmission
+- When guided to the online claims form for resubmission, only 4 of 12 thought they were in the right place on the form's Introduction page.
+
+  > "It looks like you gotta mail it in ... 100%, I'd prefer to submit it online." P14
+  
+  > "[I'd prefer to send it] electronically, again, if I can submit it and get a notification right away with a claim number or something that says, hey, that's gone through, you're good." P9
+  
+  > "I prefer to [re]submit a claim back here [online] again. Not a new claim, like there was an option for resubmitting." P4
+
+
+### Finding 4  
+Most participants (8 of 12) knew to look in the sendback letter for the PDI number when resubmitting their claim, but entering it correctly proved more difficult.
+
+- 8 of 12 participants opted to copy and paste the PDI number from the letter into the resubmission form, which would not be possible with a physical letter.
+  - 5 of 12 participants included the date when entering the PDI number, which was incorrect
+  - 2 of 12 participants commented about the length of the PDI number
+- Not all participants thought to look at the letter for the PDI number: 2 of 12 participants thought the PDI would be in a different communication, like the confirmation email, instead of the sendback letter.
+
+  > "Was it in the letter? Is that the PDI number? Let's see ... You say, is it this whole number, this big...? Oh, no, I can't do it. I cannot. [copies and pastes number]" P2
+  
+  > "On the bottom of the [letter], there was this real long PDI number, and so that's what they're looking for, is the PDI number from there." P11
+  
+  > "The claim identification number is probably somewhere on the top of that form. I was just gonna look down here because it also says like where to find them. So that's helpful ... located on the bottom of the letter we mailed to you." P6
+
+
+### Finding 5  
+Most participants (8 of 12) commented on having to resubmit or re-enter information from the original claim in the resubmission flow. This is because the resubmission flow we tested asked users to fill out all the information asked for in the initial claim, plus some new information. 
+
+- 8 of 12 participants commented on the duplicate paperwork or claim information. Those screens were removed from the flow after testing.
+
+We asked users if they could redesign the resubmission flow, what the experience would ideally look like. 
+
+- 5 of 12 participants stated that they would expect **sponsor** or **beneficiary information** to be prefilled or already entered for resubmitted claims, though 4 of 12 said they knew why it was being requested.
+- 2 of 12 participants would have preferred to manually enter the missing information over uploading more documentation.
+
+  > "I mean, it's just more redundancy for the review ... 'cause the PDI number here or earlier, I think it was like, step one, whatever. Yeah. Would have tied that back to [the original claim]." P4
+
+  > "I guess I feel like the information would have already been in there, like if I just logged in and and clicked the link of my claim rather than having to put in you know the sponsors information and my information, my address. Like that should all be there, because I've already done that portion." P6
+
+  > "I would eliminate all of this, and probably just only put a section to where I can provide that documentation. When you are on the site, you have to verify anyways. And so they would already have that information usually." P8
+
+  > "They are using [sponsor information] to verify my eligibility for the CHAMPVA program […] I've been asked this so many times since I got enrolled in CHAMPVA, I'm just used to giving it out. It's to confirm that eligibility." P10
+
+### Finding 6  
+9 of 14 participants liked the idea of file verification prior to or after attempting to upload a file to their claim, even when they received an error message.
+
+Because the LLM file verification was not working at the time of testing, users did not see a customized error message prompting them to provide the correct document for their claim. 
+
+[Link to the error messaging we intended to test in this study](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=5949-100095&p=f&t=jtUxpK9fyUp92FfB-0)
+
+- 7 of 14 participants said they would attempt to reupload the document if they received an error because they wouldn’t want the claim rejected
+- 7 of 14 participants didn’t feel like the error message they received was specific enough to help them understand what to fix
+- 7 of 14 participants said they would attempt to re-upload the document if they received an error
+- 6 of 14 participants would bypass the error message without correcting and continue with the form
+- 2 of 14 users said they would stop entering the claim if they received an error
+
+  > "I think that's great if you're gonna look at [my supporting documents] to make sure that the information needed is provided. I think you could even put this up top and say, 'hey, like, at the end, you know, forms will be submitted, we're gonna scan your forms to make sure they meet all the requirements.'" P16
+  
+  > "[I'd] probably continue without verifying. Yeah, I… Yeah, I don't know, I'd try to upload it again, maybe, and then if I did the same thing, I'd just press continue and see if it takes it." P14
+  
+  > "Like, I have no clue what it's meaning [...] I would want to know what I need for it to verify. I mean, it just [...] it's very [...] I don't understand." P15 (screenreader)
+  
+  > "Well, they can't complete verification or I can continue without verifying, and for me, I would continue without verifying, because really, I don't know what they want to verify." P9
 
 ---
 
@@ -224,257 +325,331 @@ Brief description
 
 1. Participants thought the sendback letter was clear about the issue with the initial claim, but some users were frustrated by the language.
 2. Many participants expected or desired a way to check their claims status online.
-3. Some participants were confused with the sponsor and beneficiary pages, entering the same information in both.
+3. Some participants (5 of 14) were confused with the sponsor and beneficiary pages, entering the same information in both.
+4. Participant expectations varied widely when considering how long it would take to process a claim, but half the participants stated they would expect a resubmission to take less time.
 
-### Details of Additional Insights
+## Details of Additional Insights
 
-**Additional Insight 1:** Participants thought the sendback letter was clear about the issue with the initial claim, but some users were frustrated by the language.
+### Additional Insight 1
+Participants thought the sendback letter was clear about the issue with the initial claim, but some users were frustrated by the language.
 
 - Of the 12 participants who viewed the letter, 10 said they understood what was wrong and what they needed to do to resolve it.
   - 3 of 12 commented that obtaining the information requested in the letter (Dx code) would be difficult or burdensome.
   - 1 participant felt their doctor should submit the missing information on their behalf.
   - 1 participant said they would give up and eat the cost of the claim to avoid the hassle of resubmitting.
 
-**Additional Insight 2:** Many participants expected or desired a way to check their claims status online.
+  > "It looks like it's simple and straightforward, and I like that. There's an option [...] to check the box to receive assistance, to get that done. So it's not saying, you know, you have to do this, or you can't complete the claim." P6
+  
+  > "My only thing is, like, not many people walk around with, you know, codes. So it's like, you know, pressure, because then you have to go searching for stuff that you're not that familiar with. So a box for the option for [CHAMPVA] to request that information from the doctor, and let them provide it [directly]." P8
+  
+  > "Like, if it's, like, a $1,000 claim, and I really, really need it, like, I'm gonna try to keep working, but I'm gonna be very frustrated, and then I have to wait even longer. If it was, like, a $40 or $50 claim on something [...] Like, is it even worth my time to try?" P16
+  
+  > "Me, personally I understand [the sendback letter], but I happen to work in healthcare. [...] That's kind of cheating." P5
+
+
+### Additional Insight 2
+Many participants expected or desired a way to check their claims status online.
 
 - 8 of 14 participants mentioned that they would expect to be able to check their claims status online after submitting the form.
   - 2 of 14 participants mentioned they would expect to see a link in the confirmation email to where they could check on the status of their claim.
   - 1 participant expected status updates by email as the claim was processed.
 
-**Additional Insight 3:** Some participants were confused with the sponsor and beneficiary pages, entering the same information in both.
+  > "That's the thing. We just don't have that [...] like the va.gov site. When you sign in, give all your information, and in an ideal world, all of your CHAMPVA stuff would be there. But it's just [...] a lot of it is by paper right now." P1
+  
+  > "That'd be nice to be in, like, the [confirmation email]. Like, 'click on this link to check the status [of a claim].' That would be the best, but right now, if I, you know, if that wasn't the case, VA.gov, then I would go to, like, claims. And, you know, hopefully it pops up there." P14
+  
+  > "Probably logging back into the VA system. Maybe there's some type of notification or something that would pop up." P6
+  
+  > "A CHAMPVA website. We're waiting [...] for that to happen. Again, they just started allowing people to submit applications last year. It's been a long time coming. And this year, they started allowing claims to be submitted online [and] I see many posts from people [online], newbies, who are saying, 'where can I go to check the status?' Heh, call and wait for 2 hours on the phone." P9
+  
 
-- 5 of 14 participants entered either the beneficiary’s information in the sponsor section, or the sponsor’s information in the beneficiary section.
+### Additional Insight 3
+Some participants were confused with the sponsor and beneficiary pages, entering the same information in both.
+
+- 5 of 14 participants entered either the beneficiary’s information in the sponsor section, or the sponsor’s information in the beneficiary section. This is consistent with findings from our 10-10d/10-7959c usability study. We recommend implementing the same content changes to the 10-7959a claims form to ensure proper data entry in Sponsor/Beneficiary fields.
+
+  > On beneficiary page] "Oh, this is my information. So I'm doing this again [...] I guess I'm filling it out again." P2
+  
+  > [On beneficiary page] "Okay, so it's back to the original stuff, so put first name, middle initial." [Participant enters same information as sponsor] P11
+
+
+### Additional Insight 4
+Participant expectations varied widely when considering how long it would take to process a claim, but half the participants stated they would expect a resubmission to take less time.
+
+- Participants’ stated expectations for processing time ranged from 3 business days to 6 months, but their ideal processing time was generally 1 month or less.
+  - 6 of the 12 participants who completed the resubmission process felt that a resubmitted claim would be processed more quickly than the initial claim.
+  - 4 of 12 participants stated they would prefer an email notification over a mailed one.
+
+
+  > "I would hope [my claim is processed] in a timely manner. You know, within just a couple of weeks, you know definitely, within a month or so." P6
+  
+  > "Knowing how this works, 30 days. In an ideal world. If it's going in electronically [...] I wouldn't expect it to take more than 3 to 5 days." P5
+  
+  > "Maybe quicker [to process resubmission], because they had all that information. And you're just kind of giving that one little bit of info that was missing the previous time." P1
+  
+  > "You know, I think it could go either way [paper or email]. I mean ... I would prefer it by email. I do paperless whenever I can, because it reduces the turnaround time." P10
+
 
 ## Recommendations
 
 1. **Clarify that resubmissions can be submitted online:** Update content within the sendback letter to specify the option to resubmit the claim online in addition to mail. Update content on the online form introduction to specify that the form is for resubmissions as well as new claims.
-   - _Supporting evidence: [Insert data]_  
+   - _Supporting evidence: Key Finding 3_
 2. **Provide more detail to users for file verification messaging:** Improve the content in the alert message on the page to let users know what information is being verified. Update the content in the error messages to let users know specifically what is wrong and what they need to correct, or if they cannot correct it (verification is not working).
-   - _Supporting evidence: [Insert data]_
-3. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
-4. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+   - _Supporting evidence: Key Finding 6_ 
+3. **Make the PDI number easier to enter:** Though participants found the PDI fairly easily once they knew it was on the letter, making it more prominent and indicating it is needed for resubmission would help users locate it when entering a resubmission online. Making the PDI number shorter would help with entry. 
+   - _Supporting evidence: Key Finding 4, Additional Insight 1_
+4. **Require less information for resubmissions:** Users’ mental models expect that providing a reference number like the PDI number will pull in information they’ve already provided. Participants commented specifically on having to enter the sponsor and beneficiary information again after entering the PDI number, with the feeling this information should already be known. Allowing users to print/save a PDF of their initial claim and resubmissions will also help users avoid unnecessary (re)collection of supporting documents for a claim resubmission. Furthermore, updating the content of the sendback letter and EOB so users are aware of what content (including the letter) they will need to provide in order to resubmit their claim will cut down in repeat resubmissions and user errors.
+    - _Supporting evidence: Key Finding 5, Additional Insight 3_
+5. **Clearly communicate all of the required information before the user enters the claim form:** Users should ideally understand the initial claim requirements before leaving their healthcare appointment. Content can be added to different touch points after enrollment: welcome packets, additional email communications, and the CHAMPVA application confirmation page. 
+   - _Supporting evidence: Key Finding 2_
+6. **Update or add content to reflect current timelines:** Added transparency will help users set expectations as to when they can get reimbursed for their claim, whether it is for a new claim or a resubmission. Adding content and confirming that we have the more accurate timeline projections on the Introduction and Confirmation pages as well as in email notifications can better help reinforce communications with users.
+   - _Supporting evidence: Additional Insight 4_
+7. **Soften the tone of the sendback letter:** Adding more context about how users can get this information from their providers or insurance companies will show that CHAMPVA wants to help users resolve their claims.
+   - _Supporting evidence: Additional Insight 1_
+8. **Provide a way for users to check the status of their claims online:** Users expected to be able to check claims status online, and some expected to be able to correct errors within the claim online after submission. Providing a status and an easier way to see what information is missing would help with resubmissions. 
+   - _Supporting evidence: Additional Insight 2_
+
+
+### A11y Recommendations
+
+1. **Reduce redundant name and address questions to remove friction with screen readers:** Having redundant questions can add confusion to a person only listening to the headers on the page because the assumption is that they need to fill out the same info again.
+2. **Provide denial or sendback information in a digital format:** Screen readers currently cannot easily access sendback information and have to rely on a third party to understand what is required to correct their claim.
+
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+
+- Veterans can complete and submit a CHAMPVA claim or claim resubmission within the online form
+  - This research supports this desired user outcome by demonstrating that all participants who filed an initial claim (14 of 14), and all those who saw the sendback letter and resubmission flow (12 of 14) were able to successfully file a resubmission online.
+  - Furthermore, current CHAMPVA beneficiaries who participated in this study said that the initial claim and resubmission flow we tested were better than their experiences with the paper form. 
+  
+- Veterans spend less time and effort filling out the forms
+  - This research supports this desired user outcome by identifying areas in the initial claim and claim resubmission flows that can be removed for optimal flow and reduce time and effort filling out the forms.
+  - Moreover, many users (8 of 14) stated that they preferred having the file verification in the claims form, to ensure accurate and timely submission of their claims. 
+  
+- Veteran satisfaction increased with application experience
+  - This research supports this desired outcome by showing that most users (9 of 14) found the updated CHAMPVA claims form "easy" or "very easy" (see Key Finding 1). Furthermore, users provided targeted feedback on the UI, content, file verification and user flows that can be incorporated into the MVP as well as post-MVP improvements of the user experience.
+  - Most users (11 of 12) also expected to be able to file a resubmission for a claim online. Providing this online resubmission experience is in line with users' mental models and should increase satisfaction with the application experience.
+
  
 ### Desired Business Outcome
-This research supports our desired business outcome by....
+
+- Reduce amount of time spent processing paper forms
+  - This study supports this outcome by creating a more efficient initial claim process. Participants who had submitted paper claims stated that they preferred the online claim form. Also, users stated they would prefer a way to resubmit claims online.
 
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+### KPI 1: Measure number of people filing claims online through CHAMPVA
+  
+  - Key result: Increase number of beneficiaries who file CHAMPVA claims
+  - Key result: Increase number of people who obtain approvals for claims filed
+    
+This research supports measurement of this KPI by making the CHAMPVA claims process easier to complete online. Furthermore, participants validated changes to the UI, UX flow, and content to support more complete and accurate initial claims submissions, as well as supporting complete and accurate resubmissions (when needed). 
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+### KPI 2: Reduce time from submission to notification
 
-### KPI 1
-This research supports measurement of this KPI by....
+  - Key result: Measure number of application completed in single session
+  - Key result: Reduce processing time for applications
+    
+This research supports measurement of this KPI by validating that users have an easier time identifying the necessary information and supporting documents needed to submit a complete and accurate initial claim. All participants who completed the initial claim flow during the study were able to successfully and accurately fill out and submit the form. Furthermore, this study supports measurement of this KPI by demonstrating that the online resubmission flow will reduce processing time for claims by speeding up the sendback and resubmission process. 
 
 
-## Next Steps
+## Next Steps 
 
-*Outline immediate actions based on findings, including owners if applicable.*  
-
+1. Identify fast-follows and post-MVP improvements for the claim resubmission process.
+2. Iterate on and improve file verification messaging for post-MVP release.
+3. Implement UX/UI/content changes identified in this study to other IVC forms, where applicable.
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
+- We recommend conducting further research on LLM file verification. The LLM was not working when this study was conducted, so we were unable to gauge participants' reactions to the document-specific errors they might encounter.
+- The resubmissions flow was modified at the request of our stakeholders after this study concluded, removing some of the screens where redundant information was being requested. Given participants' reactions to having to fill out this information during hte study, it would be advisable to retest the shortened flow at some point in the future. 
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/product-outline-10-7959a.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/2025-07-Research-Plan-Claims-Resubmissions-and-File-Verification.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/2025-07-Conversation-Guide-Claims-Resubmissions-and-File-Verification.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/Transcripts)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753976084535/5cb0785028445d5ff4840cce88fce033f50e1817)
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Staging environment](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/introduction)
 
 
 ### Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- [Work in Progress Resubmission Flow](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=4578-61533)
+- [Work in Progress File Verification Figma](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=4843-38523)
 
 
 ### Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- [Sendback letter audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1757971788119/5b1f0b60496a990328977196c1cc0cd297da886e)
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Our intended audience for this study was Veterans with high disability ratings and their dependent spouses and children, who are currently enrolled in the CHAMPVA program. Because CHAMPVA beneficiaries are the majority user group filing claims, we split our participants into the following cohorts:
+
+Cohort 1 (n = 2 minimum): Veterans with a 100% service connected disability rating with spouse and/or dependent children who are **currently** enrolled in CHAMPVA benefits
+
+Cohort 2 (n = 8 minimum): Spouses and dependent children of Veterans with a 100% service connected disability rating, who are **currently** enrolled in CHAMPVA benefits
+
+Cohort 3 (n = 2 minimum): Assistive Technology (AT) users who are Veterans with a service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
+
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **14 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 5 
+* Caregivers: n/a 
+* Family members of a Veteran: 5  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 4 
+* Female: 10 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: N/A 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: N/A 
+* Gay, lesbian, or bisexual: N/A 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 8 
+* Tablet: 0 
+* Smart phone: 6 
+* Assistive Technology: 2
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 4
+* 45-54: 3
+* 55-64: 3
+* 65+: 3
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 4
+* Master's degree: 0
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 9
+* Rural: 4
+* Unknown: 1
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 6
+* Black: 3
+* Hispanic: 1
+* Biracial: 0
+* Asian: 1
+* Native: 1
+* Prefer not to answer: 2
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 1
+* AT beginner: 1
+* AT advanced user: 1
+* Desktop screen reader: 3
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 #### Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability
+* Biracial
+* Native Hawaiian or other Pacific Islander
+* First Nations (Canada)
+* Mobile Screen Reader (SR)
+* Magnification/Zoom
+* Speech Input Tech (Siri, Dragon)
+* Hearing Aids
+* Sighted Keyboard
+* Captions
+* Switch Device
+* Braille Reader
 
-_[insert screenshot of completed recruitment checker]_
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+<img width="850" height="594" alt="CHAMPVA Claims Resubmission Study recruitment checker" src="https://github.com/user-attachments/assets/5542d6ea-9285-4bd6-a092-221880ff4939" />
 
-<details>
-  <summary>A more accessible version of the table in the above image</summary>
-   
-_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
+[Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-07-Claims-Resubmissions-and-File-Verification/Claims-Resubmissions-and-File-Verification-VA-recruitment-checker.md)
 
 
-### Underserved groups in [Study name]
+# Recruitment of underserved groups in CHAMPVA Claims Resubmissions and File Verification
 
-**Final # of participants:** --  
-**# of AT users:** --  
-**# of no shows:** --
-
-#### General
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Age 55-64+ | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Cognitive Disability | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile user | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Rural | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| No degree | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Other than honorable | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Immigrant origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Women | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Expat (living abroad) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### Race
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Black or African American | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hispanic, Latino, or Spanish origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Biracial | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Asian | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native Hawaiian or other Pacific Islander | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| First Nations (Canada) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native, American Indian or Alaska Native | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### LGBTQ+
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Gay, lesbian, or bisexual | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Transgender | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Nonbinary, gender fluid, gender queer, Two-Spirit | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### Assistive Tech (AT)
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Beginner AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Desktop Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Magnification/Zoom | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Speech Input Tech (Siri, Dragon) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hearing Aids | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Sighted Keyboard | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Captions | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Switch Device | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
- </details>
+| Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 | p13 | p14 | p15 | p16 | p17 | p18 |
+|---------|----------|----------|------------|-----------------|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| **All participants** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 18 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **Assistive Tech (AT) users** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 3 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **No-show participants** | | | | | | | | | | | | | | | | | | | | | | |
+| Total | n/a | n/a | 4 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| **General Demographics** | | | | | | | | | | | | | | | | | | | | | | |
+| Age 55-64+ | 50% | 9 | 6 | no | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Cognitive Disability | 50% | 9 | 1 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | N | 0 |
+| Mobile user | 50% | 9 | 6 | no | 1 | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | N | 1 | 0 | 0 | N | 0 |
+| Rural | 25% | 5 | 4 | no | 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 | 0 | 0 | N | N |
+| No degree | 25% | 5 | 6 | yes | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Other than honorable | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Immigrant origin | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Women | 10% | 2 | 9 | yes | 1 | 1 | 0 | 1 | 1 | 1 | N | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Expat (living abroad) | n/a |  | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Race/Ethnicity** | | | | | | | | | | | | | | | | | | | | | | |
+| Black or African American | 15% | 3 | 3 | yes | 0 | 1 | 0 | 0 | 0 | 0 | N | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hispanic, Latino, or Spanish origin | 12% | 3 | 1 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+| Biracial | 3.9% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | 2.7% | 1 | 1 | yes | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native Hawaiian or other Pacific Islander | 0.3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | 1.6% | 1 | 1 | yes | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 |
+| **LGBTQ+** | | | | | | | | | | | | | | | | | | | | | | |
+| Gay, lesbian, or bisexual | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Transgender | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | n/a | 1 | n/a | n/a | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Assistive Technology (AT)** | | | | | | | | | | | | | | | | | | | | | | |
+| Beginner AT User | 50% | 2 | 1 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Experienced AT User | 50% | 2 | 2 | yes | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Desktop Screen Reader (SR) | 20% | 1 | 3 | yes | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N |
+| Mobile Screen Reader (SR) | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N |
+| Magnification/Zoom | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Speech Input Tech (Siri, Dragon) | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hearing Aids | 20% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Sighted Keyboard | 10% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Captions | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Switch Device | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Braille Reader | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+---
