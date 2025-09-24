@@ -14,7 +14,8 @@
 - [ ] Finalize confirmation emails  for FMP  Claims
 - [ ] Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended 
 - [ ] UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
-- [ ] UX: Update FMP service blueprint 
+- [ ] UX: Update FMP service blueprint
+- [ ] UX:  Make suggested content updates in figma for OHI integration into 1010d
 - [ ] UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
 - [ ] Stretch goal: Health Apps Monthly Metrics Pulls
 
