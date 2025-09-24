@@ -11,6 +11,7 @@ Notes: VNP tables are not a reliable source of data and should not be used to "g
 | Dependent Name                   |                     |                    |     |                |
 | Dependent Date of Birth          |                     |                    |     |                |
 | Dependent ssn                    |                     |                    |     |                |
+| Dependent relationship to Veteran| Child, spouse, ?    |                    |     |                |
 
 
 
@@ -26,7 +27,7 @@ Notes: VNP tables are not a reliable source of data and should not be used to "g
 
 ## Data points needed but not available
 
-| Data Point                        | Possible Values     | Attribute Name     | API | Source of Data |
-| --------------------------------- | ------------------- |------------------- | --- | -------------- |
-| Date dependent was last verified  |                     |                    |     |                |
+| Data Point                         | Possible Values     | Attribute Name     | API | Source of Data |
+| ---------------------------------- | ------------------- |------------------- | --- | -------------- |
+| Date dependent was last verified   |                     |                    |     |                |
 | Veteran marriage history (official)|                     |                    |     |                |
