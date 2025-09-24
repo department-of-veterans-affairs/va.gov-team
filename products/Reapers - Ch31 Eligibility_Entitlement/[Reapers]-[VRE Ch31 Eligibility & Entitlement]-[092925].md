@@ -1,11 +1,5 @@
 [Eligibility API Scenario Curls.txt](https://github.com/user-attachments/files/22517820/Eligibility.API.Scenario.Curls.txt)# Engineering and Security Checklist
 
-## Instructions
-
-Your document should be brief and high-level.  Please keep it to a single page.  Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
-
-Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come to the Architecture Intent ready to ask questions.
-
 ## Engineering Checklist
 
 - Product description
