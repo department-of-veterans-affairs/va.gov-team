@@ -425,11 +425,30 @@ Was any part hard to navigate or understand?
 
 Did you find navigation particularly challenging in any way?
 
+> Yes
+
+<br> 
+
 If Y, why?
+
+> What if I had a really long statement and I want to upload this record because I can write a statement please see attached doctors whatever or my doctor wrote this letter and I just copy and paste but I can’t upload another one. I know I selected submit a statement to give more info or context but maybe I have to go to another form or selection to upload a file. It’s better if its all in one place that has to do with providing more context or details.
+
+<br>
 
 Did you find any labels particularly confusing on the form?
 
+> Yes
+
+<br>
+
 If Y, what labels specifically and how might they be improved for clarity?
+
+> This is confusing to me the green box. The first part doesn’t tell me its complete but I know its completed.
+
+Found some more info lower in the page after reading “what to expect”
+
+<br>
+
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
@@ -439,29 +458,77 @@ Now that you have completed the form, navigate back to the general forms locatio
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> To me this is a draft because of what it says at the top. To me, this is still being drafted because it says in progress and its in active. But the line that says submitted on August 14th actually tells me that is submitted that is the only way. I would think it would be in complete not active.
 
+Kind of like VA messages you close out of it but you go back to your drafts and finish it.
+
+To me, I didn’t finish it if it says in progress.
+
+<br>
 
 - What does this status mean to you? 
-
-- What would you expect to see if you needed to check on your submission later?
 
 > I expect the form is fully submitted but the next step is someone reviewing it or it landing in the hands of a reviewer.
 
 <br>
 
+- What would you expect to see if you needed to check on your submission later?
+
+> I would expect that the submitted one is under complete. That this isn’t showing here. So I would not see it in Active. I would expect not to see it in Active, I’d expect for it to be in complete and the status could say it’s in progress meaning they’re working on it they have it.
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
+
+Regarding leaving the confirmation page to return to the forms page on the app.
+> I don’t know what where to do that. I don’t know if i click the Go back to VA.gov homepage it’ll take me back to Safari homepage which I don’t know that I want to do. 
+
+<br>
+
+- Did they mention any previous experience or confusion?
+  
+Was prompted to select done at top.
+
+> I would have missed that, I would have closed the app and go back in.
+
+<br> 
+
 - Does the user express confidence that they have completed and submitted their form?
-    - If no, what is confusing to them and why?
-- DOes the user understand the status of the form?
-    - If not, what do confusion do they express when interpretting the form status?
-    - 
+
+No
+
+- If no, what is confusing to them and why?
+
+> To me this is a draft because of what it says at the top. 
+
+
+- Does the user understand the status of the form?
+
+> No
+
+<br>
+
+- If not, what do confusion do they express when interpretting the form status?
+
+> To me, this is still being drafted because it says in progress and its in active. But the line that says submitted on August 14th actually tells me that is submitted that is the only way. I would think it would be in complete not active.Kind of like VA messages you close out of it but you go back to your drafts and finish it. To me, I didn’t finish it if it says in progress.
+
+<br>
+
+  
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> It’s pretty straight forward like the website.
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -496,9 +563,21 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> I think if I had to type a lot in the statement that I entered I would have gotten very annoyed. Just on the app it might take long.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> No
+
+<br>
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
