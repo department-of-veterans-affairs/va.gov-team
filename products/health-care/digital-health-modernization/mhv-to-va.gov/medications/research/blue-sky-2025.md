@@ -23,7 +23,8 @@ What this discovery process included:
 ## Resources
 * [Mural for Meds data modeling ideas](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1708968755045/4bdbe77c90fbcf529afa0cf7c05342f6357c7997) 
 * [Mural for blue sky ideation kickoff w/ stakeholders](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752761525013/e0bdc32816c2f619261c47d5e630bff2d145ca44)
-* [Mural around anticipated challenges integrating with OH Pharmacy data](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1744383809110/b47783ed21564905d60e633357a472ec73cdf39b) 
+* [Mural around anticipated challenges integrating with OH Pharmacy data](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1744383809110/b47783ed21564905d60e633357a472ec73cdf39b)
+* [Mural for competitive analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753109777210/ed231c31be061858c9047cfeb5fd861d6a86daaf)
 
 ## Desk research 
 
@@ -70,12 +71,20 @@ What this discovery process included:
 * Possible that the meds list appears incomplete to some Veterans who request refills via audiocare (we dn't get data from audiocare that would end up in the meds app) 
 
 ## Competitive analysis
+[Mural here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753109777210/ed231c31be061858c9047cfeb5fd861d6a86daaf) 
 
 ### Top tasks to compare
 * "Get more of the meds I'm currently taking" (e.g. refill and renewal flows)
 * Monitor the delivery / availability of my meds
 * Tell me what my medication is for and how to take it (including how often)
 * Print out my list of active medications only
+
+### Competitors analyzed
+* VHAB mobile app (differences in flow / data and higher CSAT scores according to Robyn, so comparing length of flow + friction points) 
+* Walgreens native app + web interface
+* My Chart native app + web interface
+* CVS
+* Safeway pharmacy
 
 
 ## Design concepting
