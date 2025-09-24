@@ -6,7 +6,8 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] Address staging review findings with fixes to radio buttons, content, and alerts.
+- [ ] 10-10d/1-7959c Merge: Address staging review findings with fixes to radio buttons, content, and alerts.
+- [ ] Begin Staged Launch of 1010d/10-7959c Merge 
 - [ ] Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
 - [ ] Update FMP Claims to new upload component, handoff to QA for thorough testing 
 - [ ] Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
@@ -14,6 +15,7 @@
 - [ ] UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
 - [ ] UX: Update FMP service blueprint 
 - [ ] UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
+- [ ] Stretch goal: Health Apps Monthly Metrics Pulls
 - [ ] Stretch goal: Fix document count in FMP2 confirmation emails
 - [ ] Stretch goal: Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows 
 - [ ] Stretch goal: Create integration tests for data transformations for Pega S3 and PDF file, set up 1010d Extended in PagerDuty 
@@ -31,11 +33,13 @@
 - [ ] **SPRINT GOAL** Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended
   - [ ] [BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
 - [ ] **SPRINT GOAL** Begin Staged Launch
-  - [ ] **NEED A STORY TO LAUNCH** 
+  - [ ] **NEED A STORY TO LAUNCH**
+ - [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI 
+  - [ ] [UX] 10-10d v2: Update Other Health Insurance content changes
 - [ ] **SPRINT GOAL** UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
   - [ ] [UX] 10-10d v2: Update design for CHAMPVA application confirmation page (PDF download)
-- [ ] [UX] 10-10d v2: Design Discovery for Ineligible Applicants
-- [ ] [UX] 10-10d v2: Update Other Health Insurance content changes
+- [ ] **SPRINT GOAL** Design discovery for ineligible applicants in 1010d
+  - [ ] [UX] 10-10d v2: Design Discovery for Ineligible Applicants
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
   - [ ] [BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment
 - [ ] **SPRINT GOAL** **CARRIED FORWARD TO HAVE MORE SUPPORT DURING ROLLOUT**
@@ -62,8 +66,6 @@
 
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] **SPRINT GOAL** Update FMP Claims to new upload component, handoff to QA for thorough testing
-  - [ ] 
 - [ ] **SPRINT GOAL** Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
   - [ ] [BE] 10-7959f-2 Finalize confirmation emails in prod
 - [ ] **SPRINT GOAL** UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
@@ -72,14 +74,12 @@
   - [ ] [UX] 10-7959f-1/2: Update FMP Service Blueprint
 
 
-  ##
-  ### **All Team** Monthly Metrics Pull 
-  - [ ][Data] - Monthly Metrics Request for Health Apps forms - September 2025
-
 ## 
 ### STRETCH GOALS
+- [ ] **STRETCH GOAL**
+  - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 202
 - [ ] **FE STRETCH GOAL**
-  - [ ] [FE] 10-7959a Priority 1 Resubmissions Changes from Content/IA
+  - [ ] More staging review findings, content changes from UX OHI content changes story, switch to new v3 component in FMP Claims
 - [ ] **UX STRETCH GOAL** Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows
   - [ ] [UX] 10-7959f-1: Update design for FMP Registration confirmation page with PDF download
   - [ ] [UX] 10-7959f-2: Update design for FMP claims confirmation page (PDF download)
