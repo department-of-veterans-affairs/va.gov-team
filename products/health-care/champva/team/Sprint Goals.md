@@ -22,7 +22,6 @@
 ##
 ### 10-10d v2
 
-#### Obj:
 - [ ] **SPRINT GOAL** Address staging review findings with fixes to radio buttons, content, and alerts.
   - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
   - [ ] [[FE] Staging Review finding: Error triggered on required radio buttons after selecting an option](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118220)
