@@ -119,6 +119,10 @@ This work is supported by existing research:
 - Technical spikes will address feasibility concerns
 - Stakeholder engagement will ensure organizational viability
 
+### Key Decisions Made
+- 2025-09-24 - Met with Mitch on EZ statuses directing to EZR.
+    - There's been difficulty in pinpointing the required attributes/statuses that MHV/My-Health relies on to allow access to the my-health.va.gov space, which inhibits our confidence on whether we can direct Veterans to the EZR when more information is needed (such as financials, military documentation).
+     - **Next steps**: At this point, we can consider this exploration closed and will look into a development spike to test out use cases on users with different attributes/statuses. Keeping in mind the reduction and restructure of the team, this will be prioritized after Confirmation flow/V2 and Military Service info work.
 ---
 
 ## Launch Planning
