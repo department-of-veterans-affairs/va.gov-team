@@ -54,7 +54,7 @@ Today we're going to talk about filling out forms from the VA mobile app. I'm go
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 120 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -91,19 +91,58 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+> Yes
+
+<br>
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+> Smartphone
+
+<br>
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+> Android
+
+<br>
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Chrome
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
-   - If so, can you tell me about your most recent experience? How did it go?
+
+> Yes
+
+<br>
+
+- If so, can you tell me about your most recent experience? How did it go?
+
+> The most recent form I actually filled out was I was trying to apply for burial benefits. It was pretty easy to navigate for me so I didn’t have to run into any issues. I did have to stop, but of course when I went and logged back in I was able to continue where I left off.
+
+<br>
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
 
+> Yes
+
+<br>
+
+- If so, can you tell me what you use the mobile app primarily for? 
+
+> I use it to connect to Va.gov for I know they changed my health e vet. Check in for latest appointment. Check appointments Benefit claim. I use it when i’m not at a laptop, I don’t have access. I use it in that way.
+
+<br>
+
+How has your experience been so far?
+
+> I used it for the first time for travel reimbursement, that was interesting. Because I’ve never done it that way before.
+
+<br>
 
 # User Tasks
 
@@ -120,6 +159,10 @@ We can help guide you through this if you need help. Please say what you're doin
 4. Activate the screen share
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
+
+> I’m trying to do this without messing anything up so bare with me…
+
+<br>
 
 ## Task 00: Open prototype
 **for iOS users:** 
@@ -164,6 +207,21 @@ Instructions to access prototype (must access from your mobile device):
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
+Email to download the testing environment comes from VA:Health and Benefits subject “Confirm your email to test V…” Firebase App Distribution…
+
+Instead of finding Developer settings under General had to go to about > play store version> update play store version x7> have to close and reopen again > Settings > General > Developer options (now visible) > Internal app sharing toggle on
+
+Had to uninstall and reinstall to get the correct version due to already having the VAHB app on their phone.
+
+> I’m sort of tech savvy but not really so bare with me.
+
+<br>
+
+User had a custom keyboard design (red letters with image of cat behind entire keyboard)
+
+*Note it took us 12 mins to get ready to start the test (including intro questions and downloading the testing app).
+
+User has light mode.
 
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
@@ -180,7 +238,15 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 2: Start a statement
@@ -194,9 +260,19 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
-    - If Y, where do they go instead?
+
+Yes
+
+- If Y, where do they go instead?
+
+> Claims
+
+<br>
+
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
     - If Y, what do they find confusing?
+
+Codespace screen is tiny and had to zoom in to read.
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
@@ -205,24 +281,64 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
+Screen 'Submit a statement in support of a claim'
+
+> If you want to submit more than one statement you have to do this each time is what I’m understanding. You need to do a form for each statement.
+
+<br>
+
+Screen 'What would you like to do here?'
+
+Reviewed options multiple times.
+
+> I want to provide context and details about a claim.
+
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
     - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
-    - If Y, what field do they encounter errors on?
-      - What triggered the error specifically?
-      - Does the user understand how to correct the error? 
+
+Yes
+
+- If Y, what field do they encounter errors on?
+
+SSN
+
+- What triggered the error specifically?
+
+Intentional error by all 1s for SSN
+
+- Does the user understand how to correct the error? 
+
+User did not enter dashes on the SSN, and had to count #s before entering to ensure it was right.
+
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+No
+
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
+        
 - Does the user express thoughts of frustration while completing the form? Y/N
+
+No
+
     - If Y, what did they experience when expressing the frustration?
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -232,16 +348,37 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
+
+User asked if they should click ‘Finish application later?
+
+- Did they mention any previous experience or confusion?
+
 - Does the user select anything other than Done to leave the form? Y/N
-    - If yes, what does the user do?
+
+Yes
+
+- If yes, what does the user do?
+
+Selected 'Finish application later.'
+  
 - Does the user express doubt that their work will be saved? Y/N
+
+No
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
+
 
 
 ## Task 5: Continue completing the started form and submit
@@ -253,23 +390,83 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
+
+User did dismiss toast quickly, it was blocking her view of the page.
+
+User noted it told her I have 30 days left to submit and that is good.
+
+> Annoying how tiny the github acceptance page was.
+
+<br>
+
+- Did they mention any previous experience or confusion?
+
+No
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
-    - If no, what do they mention that is confusing?
+
+Yes
+
+> Oh, ok it took me back to where I stopped actually. Ok, cool.
+
+<br>
+
+- If no, what do they mention that is confusing?
+
 - Is the user able to complete the started form? Y/N
+
+Yes
+
     - If no, what prohibited them from submitting the initial form?
+
+
+
+User wanted to correct capitalization
+
+User did not enter dashes when typing in the phone number Users keyboard was stuck on numbers when trying to type in the email field and user could not switch to letters. Had to leave the field, scrolled up on the page, reengaged the field and then her keyboard would display letters instead of numbers.
+
+Wrote a very short statement.
+
+User did not expand sections to review data entries before writing the name.
+
+Liked that you could print it.
+
+Saw the steps under What to expect and the question section on the confirmation page.
+
+Had a question about printing it. Didn’t know how to save the confirmation number. If she can’t print from her phone she didn’t know how to save it. Wanted to know if she would get a confirmation number by email.
+
+In case I was doing this and I wasn’t at home or incase someone didn’t have access to a printer.
+
+Anything hard to navigate or understand? No, just the github codespace accept page Pretty self-exp
+
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
 
+> No, just the github codespace accept page Pretty self-explanatory directions “We know how to use it.”
+
+<br>
+
 Did you find navigation particularly challenging in any way?
+
+> No
+
+<br>
 
 If Y, why?
 
 Did you find any labels particularly confusing on the form?
+
+> I didn’t find any labels confusing, no I did not.
+
+<br>
 
 If Y, what labels specifically and how might they be improved for clarity?
  
@@ -281,23 +478,61 @@ Now that you have completed the form, navigate back to the general forms locatio
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> It tells me it was submitted on date and tells me it was in progress.
+
+<br>
+
 - What does this status mean to you? 
+
+> If I was looking at it, I would say ok I know they got it, it was submitted. And its in the process, as far as being looked at and reviewed. Well not in review, because it hasn’t been reviewed. I would say its in progress and is waiting to be reviewed.
+
+<br>
 
 - What would you expect to see if you needed to check on your submission later?
 
+> I would hope to see some progress, like I noticed it said up to 30 days. I would think that if I came back in a couple weeks or so I would hope it would say in review, or something like that
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
-    - Did they mention any previous experience or confusion?
+
+Scrolled down on the page before seeing the ‘Done’ page, then also clicked the back button and ended up on the homepage again. Realized she went too far back and clicked on ‘Go to my forms’ again to get back to the forms page within the app.
+
+- Did they mention any previous experience or confusion?
+
+No
+
 - Does the user express confidence that they have completed and submitted their form?
+
+Yes
+
     - If no, what is confusing to them and why?
-- DOes the user understand the status of the form?
+
+- Does the user understand the status of the form?
+
+Yes
+
     - If not, what do confusion do they express when interpretting the form status?
-    - 
+
+
+To exit the VA app it took her a bit to get back to the zoom app.
+
+Searching for apps on the phone was difficult for this user.
+
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> I didn’t run into any issues. I just think that if I was someone who wasn’t tech savvy, I’m not that tech savvy anyways, but for someone who maybe doesn’t know what they were doing there could be issues. You would have to get help.
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -332,9 +567,24 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> I found this process pretty easy, although of course, ya’ll had to sort of guide me on how to do the testing, but if I was just doing this just myself logging in… pretty easy for me, pretty self-explanatory. 
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
+> No the questions were pretty simple to answer, you’re basically asking for the information.
+> Even explaining which form to choose if you need to add more information, those may be some questions if you’re not really familiar with doing a VA forms, like you may need to ask somebody for help, like what do you mean by additional buddy statement, some people may not know what that means.
+> I mean for somebody that may not know that terminology, having a little glossary, a little snippet of information next to it maybe click on what is a buddy statement for somebody who many not necessarily know what that is.
+
+<br>
+
 **Are you still okay if we use any video or audio clips from this session?** 
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
