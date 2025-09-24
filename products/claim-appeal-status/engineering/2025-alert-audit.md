@@ -1,4 +1,4 @@
-****# Alert Audit
+# Alert Audit
 
 ## Links
 - Issue: [[CST Alert Improv] Audit CST Alerts #119651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119651)
@@ -921,10 +921,10 @@ A reusable notification system used across multiple pages to display success and
 - Implementation Bugs:
   - **Dead code**: Component exists but is never imported or used anywhere. 10 month old comment states "Not currently being used".
 
-### Ask VA To Decide Alert (Dead Code)
+### Ask VA To Decide Alert
 - Location:
   - Component: [src/applications/claims-status/components/AskVAToDecide.jsx](../../components/AskVAToDecide.jsx)
-  - Usage: **NONE - This component is not imported or used anywhere in the application**
+  - **DEAD CODE**: Not imported or used anywhere in the application
 - Type: Legacy `usa-alert usa-alert-info`
 - Trigger: N/A - Component is not used
 - Code:
