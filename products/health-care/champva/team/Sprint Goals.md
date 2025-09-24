@@ -34,7 +34,7 @@
   - [ ] [BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
 - [ ] **SPRINT GOAL** Begin Staged Launch
   - [ ] **NEED A STORY TO LAUNCH**
- - [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI 
+- [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI 
   - [ ] [UX] 10-10d v2: Update Other Health Insurance content changes
 - [ ] **SPRINT GOAL** UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
   - [ ] [UX] 10-10d v2: Update design for CHAMPVA application confirmation page (PDF download)
