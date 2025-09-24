@@ -1,6 +1,44 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## **09/24/2025**
+
+Attendees: Andrea, Mike Mooney, Jessica, Hieu, Renata, Premal, Amanda, Cindy C., Eileen, Leticia, Angela, Dirk, Jennifer, Andrew, Marvlin, Stephanie, Les, Michelle
+
+**Agenda**
+
+- Show off updates to FMP claims direct deposit
+
+**Notes**
+
+Jessica walks through the new flows and updates, with the goal of having the user jump out of the form the fewest number of times:
+
+- **Happy path:** a Veteran has never filed an FMP claim previously, but has direct deposit set up already (VA.gov/VA Profile) and it's a domestic bank account)
+  - Is it necessary to tell users about an AVA request?
+    - The only situation would be travel pay where this information would be wrong - there is outreach we can do if reconciliation has to happen
+    - Amanda points out the FMP team is able to reconcile issues whereas the FSC call center does not
+      - Les says some Veterans have contacted (low volume, 2 users) FMP directly. More have often they contact the FMP Call Center and the back office coordinates those updates and reroutes the information for the Veteran. Third option, they contact FSC and then call the FMP call center.
+      - If a payment returns an error, Dirk's team reaches out and contacts the Veteran to get that information fixed (Dirk's team coordinates between the Veteran and FSC)
+      - If a payment goes through but it's the wrong account, that goes to the [FSC call center (**? need to confirm if that's correct**)]
+      - When a payment is returned, the claim is cancelled. Les' team receives a report from CP&E to reopen that claim and reissue the payment after coordinating with the Veteran to update the payment and reissue payment 
+    - **Pending decision:** to remove or keep the "contact us online through Ask VA" content
+
+- **Second flow:** Veteran has filed or not filed before, but there's no direct deposit on file today (in VA profile or FSC). The Veteran is blocked until the form can detect an account on file
+  - No FMP questions/feedback
+
+- **Third flow (likely the most common):** Veteran is authenticated, they have direct deposit on file, and can self declare if they have or have not filed a FMP claim previously. This design adds a warning alert (a Veteran haves an account in FSC)
+  - Alert: It's on the Veteran to advise about the risks and decide whether to confirm direct deposit or not, but filing multiple claims this pattern may be ignored
+    - FMP likes this, no changes
+  - Other changes in this flow: removing "in the mail" content in the flow about sending payments. FMP approval to remove checks in the mail?
+    - Amanda suggests we go to user testing around content like this before going live
+    - Dirk suggests the "by mail" would be useful just for general knowledge for Veterans (the FMP call center does get calls from Veterans asking whether Providers get direct deposit like them)
+    - **Pending decision:** ran out of time, will pick up this discussion next week
+
+**Action items**
+- Premal to schedule a follow-up early next week to finish discussing these flows
+- Agenda to include addressing any pending decisions above
+
+
 ## **09/18/2025**
 
 Attendees: Jessica, Renata, Premal, Andrew
