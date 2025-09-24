@@ -13,11 +13,11 @@ The study will provide insights to inform the potential solution of a demo mode 
 
 2.  **Workflow Integration**: How do Production Test Accounts fit into MHV coordinators' existing training workflows for prescription refills and secure messaging?
    
-4.  **Workarounds**: Since usage of PTAs do not indicate that all MHV coordinators use them regularly, are there workarounds that coordinators/call center representatives can utilize?
+3.  **Workarounds**: Since usage of PTAs do not indicate that all MHV coordinators use them regularly, are there workarounds that coordinators/call center representatives can utilize?
    
-5.  **Pain Points**: What are the pain points and successes MHV coordinators and call center representatives experience when using Production Test Accounts for these use cases?
+4.  **Pain Points**: What are the pain points and successes MHV coordinators and call center representatives experience when using Production Test Accounts for these use cases?
 
-6. **Troubleshooting Applications**: In what specific troubleshooting scenarios do MHV coordinators and call center reps rely on Production Test Accounts for prescription refill and secure messaging issues?
+5. **Troubleshooting Applications**: In what specific troubleshooting scenarios do MHV coordinators and call center reps rely on Production Test Accounts for prescription refill and secure messaging issues?
 
 
 ## Hypotheses
