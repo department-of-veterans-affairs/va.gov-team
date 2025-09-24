@@ -17,9 +17,6 @@
 - [ ] UX: Update FMP service blueprint 
 - [ ] UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
 - [ ] Stretch goal: Health Apps Monthly Metrics Pulls
-- [ ] Stretch goal: Fix document count in FMP2 confirmation emails
-- [ ] Stretch goal: Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows 
-- [ ] Stretch goal: Create integration tests for data transformations for Pega S3 and PDF file, set up 1010d Extended in PagerDuty 
 
 
 ##
@@ -82,18 +79,20 @@
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL**
   - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 202
-- [ ] **FE STRETCH GOAL**
+     
+##
+### WHAT'S NEXT
+- **FE**
   - [ ] More [staging review findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118469)
   - [ ] Content changes from [UX OHI content changes story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120443)
   - [ ] Switch to [new v3 component in FMP Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120242) to test for viability
-- [ ] *UX STRETCH GOAL** Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows
+- *UX** 
   - [ ] [[UX] 10-7959f-1: Update design for FMP Registration confirmation page with PDF download](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97571)
   - [ ] [[UX] 10-7959f-2: Update design for FMP claims confirmation page (PDF download)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97572)
   - [ ] [[UX] FMP Registration 10-7959f-1: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120325)
   - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
-- [ ] **BE STRETCH GOAL** Fix document count in FMP2 confirmation emails
+- **BE** 
   - [ ] [[BE] 10-7959F-2: Fix incorrect attached document count in email confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119419)
-- [ ] **BE STRETCH GOAL** Create integration tests for data transformations for Pega S3 and PDF file, set up 1010d Extended in PagerDuty
   - [ ]  [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
   - [ ]  [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
 
