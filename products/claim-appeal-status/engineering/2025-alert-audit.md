@@ -5,7 +5,7 @@
 - Epic: [CST Alerts Alignment and Improvements #119389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119389)
 
 ## Overview
-This document provides a comprehensive audit of all VA alerts used in the Claims Status application. Each alert's "Deviations from Design System" may reference specific sections from the Design System guidelines found in the [Appendix](#appendix-design-system-reference).
+This document provides a comprehensive audit of all VA alerts used in the Claims Status application. Each alert's "Deviations from Design System" may reference specific sections from the Design System guidelines found in the [Appendix](#appendix-design-system-reference). NOTE: the links on the file paths (e.g. `src/applications/claims-status/components/Notification.jsx`) will only work on a local development environment).
 
 ## Generic Notification Component
 
