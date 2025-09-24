@@ -6,8 +6,8 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] Investigate Intro page looping - **_CARRIED OVER - due to bug fixes from ECNOK Launch delaying investigation_**
-- [ ] Spouse QA findings resolution & finalize QA - **_Carry over to Sprint 4 due to Eng availability, bug fix & additional QA_**
+- [ ] Investigate Intro page looping - **_Carry over due to bug fixes from ECNOK Launch delaying investigation_**
+- [ ] Spouse QA findings resolution & finalize QA - **_Carry over due to Eng availability, bug fix & additional QA_**
 - [ ] Knowledge-sharing with Brandon
 - [ ] Complete EZR Print/Save PDF Launch
 - [ ] Review EZR Confirmation Flow/V2 release plans
