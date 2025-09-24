@@ -78,7 +78,7 @@
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL**
-  - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 202
+  - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 2025
      
 ##
 ### WHAT'S NEXT
