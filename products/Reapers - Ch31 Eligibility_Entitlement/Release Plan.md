@@ -3,7 +3,7 @@
 ## Step 1: Development
 List the features toggles here.
 
-**Toggle name:**  ****
+**Toggle name: **vre_eligibility_status_updates**
 
 **Description: It will show or hide "My Eligibility and Benefits" Page based on user selection**
 
