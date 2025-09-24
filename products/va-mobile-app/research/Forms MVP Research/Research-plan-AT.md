@@ -302,6 +302,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **[Becca Tupaj]**
 
 ## Approvals ✅
-- `Reviewed by [Ryan Thurlwell, Team Lead] on [x]`
-- `Reviewed by [Shane Strassberg, OCTO Research-Ops Lead] on [x]`
-- 'Reviewed by [ADE Team] on [8/28/2025]'
+- `Reviewed by [Ryan Thurlwell, Team Lead] on [9/12/2025]`
+- `Reviewed by [Shane Strassberg, OCTO Research-Ops Lead] on [9/12/2025]`
+- 'Reviewed by [Cindy Merrill, ADE Team] on [8/28/2025]'
