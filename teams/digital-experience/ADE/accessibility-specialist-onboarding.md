@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated February 6, 2025`
+`Last updated September 24, 2025`
 
 
 > [!TIP]
@@ -242,8 +242,7 @@ Use `@accessibility-de` in Slack to ping all ADE accessibility specialists.
 If you want to learn more about how accessibility works at VA.gov, reach out to:
 - [Martha Wilkes](https://dsva.slack.com/archives/D04NHP2FGEP)  OCTO - Accessibility Strategist/Designer [VA]
 - [Sara Smith](https://dsva.slack.com/team/U04NBMUH5C4) - ADE - 508 Accessibility Specialist [Oddball]
-- [Brian DeConinck](mailto:brian.deconinck@adhocteam.us) - Platform/Governance - Accessibility Lead [Ad Hoc]
-- [Jeana Clark](https://dsva.slack.com/team/U049MQKDTT3) - Veteran Facing Forms, Accessibility Specialist (UX) [Ad Hoc]
+- [Jeana Clark](https://dsva.slack.com/team/U049MQKDTT3) - Design System and Forms Team, Accessibility Specialist (UX) [Ad Hoc]
 
 ## Improve your skills
 **This section includes information about:**
