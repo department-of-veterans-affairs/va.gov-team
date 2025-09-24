@@ -1,4 +1,4 @@
-# Engineering and Security Checklist
+[Eligibility API Scenario Curls.txt](https://github.com/user-attachments/files/22517820/Eligibility.API.Scenario.Curls.txt)# Engineering and Security Checklist
 
 ## Instructions
 
@@ -119,7 +119,67 @@ This diagram must illustrate the following specifics.
   - Who accesses the data and in what capacity (read or read-write)?
   - What is the audit trail of data access and manipulation?
 - API Endpoint Documentation:[Documentation of RES Integration API Scenarios (1).docx](https://github.com/user-attachments/files/22517801/Documentation.of.RES.Integration.API.Scenarios.1.docx)
-[Uploading Eligibility API Scenario Curls.txt…]()
+**PostMan File Example**
+Scenario 1 : Valid Input + Eligible Veteran + Case Already Exist in RES 
+--------------------------------------------------
+
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":"1018666199V574819"
+}'
+
+
+Scenario 2 : Valid Input + Not-Eligible Veteran  + Case Already Exist in RES 
+-----------------------------
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":"1018616478V531227"
+}'
+
+Scenario 3 : Valid Input + Eligible Veteran + Case Does Exists in RES
+--------------------------------------------------
+
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":"1018663471V253279"
+}'
+
+Scenario 4 : Valid Input + Not-Eligible Veteran  + Case Does Exists in RES
+-----------------------------
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":"1018666167V127238"
+}'
+
+
+
+Scenarion 5 : Invalid Input/No ICN
+------------------------------
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":""
+}'
+
+
+Scenarion 6: Wrong ICN / ICN not present in MPI 
+----------------------------------
+curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
+--header 'Content-Type: application/json' \
+--header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--data '{
+"icn":"XXXX1018616478V531227"
+}'g Eligibility API Scenario Curls.txt…]()
+
 
 This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
 - Product Specifics:
