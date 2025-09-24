@@ -68,10 +68,10 @@
 ### Questions to be Answered
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
-- Please describe what problem this product or feature solves.
+- Please describe what problem this product or feature solves. **Veteran Readiness and Employment (VR&E) services are vital for Veterans with service-connected disabilities who are seeking employment and independent living. However, VA.gov’s current navigation to VR&E information and the application process is fragmented, confusing, and outdated. The RES-powered VR&E portal integrated within VA.gov directly addresses key usability and accessibility issues, transforming VA.gov into a personalized gateway for Veterans to determine eligibility, apply for benefits, and track their progress throughout the program lifecycle.**
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
-    - How does the code base get disabled in the product?
+    - How does the code base get disabled in the product? 
     - How would you detect a compromise?
     - What process and privilege does the code base execute under?
         - If so, is that process isolated?
