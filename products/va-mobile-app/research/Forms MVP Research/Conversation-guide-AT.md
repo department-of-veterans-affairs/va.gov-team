@@ -179,10 +179,11 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.56.1.QA (2903)]
 
-I'd like you to take a look at this screen, and sign in. This will happen automatically once you select sign in.
+I'd like you to take a look at this screen, and sign in.
 
 **For screen magnifier participants.**
 [Confirm you're seeing what they are seeing by asking them] "What is on your screen now?
+
 Are you seeing the participants screen magnified at all? 
 
 If not, ask the participant to check their settings on their device by navigating to...
@@ -192,7 +193,7 @@ If not, ask the participant to check their settings on their device by navigatin
 3. Zoom
 4. Show while mirroring toggle on
 
-[Confirm you're seeing what they are seeing by asking them] "What are you seeing on your screen now?
+
 
 [When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a test environment with artifical testing data displayed only. 
 
