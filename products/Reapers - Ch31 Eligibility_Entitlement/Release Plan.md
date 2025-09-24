@@ -44,64 +44,17 @@ Even though your feature has been tested and ready, production is still a differ
 
 **Reapers Team will monitor for errors and if they see a spike or unexpected behavior, they will disable the toggle.**
 
-## **Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)** 
+**Points of Contact**
+**Primary POC's**
+Robert Allender - Government Lead
+Ekaterina Shick - Program Manager
 
-**Planning**
+**Back Up POC's**
+Vanson Samuel - Technical Lead 
+Jeffrey Marks - Backend 
+Nicholas Hibbits - Frontend 
+Robert Allender - Government Lead 
 
-•	Desired date range or test duration: **11/7/25 - 11/11/25**
-
-•	Desired number of users: **5 users**
-
-•	How you'll conduct the testing: **We will share a script and link to staging to execute functional testing.**
-
-**Results**
-
-•	Number of users: 5
-
-•	Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-
-•	Was any downstream service affected by the change?: yes/no, [FILL_IN]
-
-•	Types of errors logged: [FILL_IN]
-
-•	Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-
-•	If yes, what: [FILL_IN] with ticket numbers
-
- ## **Phase II: Staged Rollout (also known as unmoderated production testing)** 
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-**Rollout Planning**
-
-•	Desired date range: **3/19 in 2 hour increments over a total of 6 hours**
-
-•	**Targeting 8am – 2pm ET**
-
-•	How will you make the product available in production while limiting the number of users who can find/access it: 
-
-**The feature toggle has the ability to control the amount of people by enabling the % of actors during the production rollout.**
-
-•	What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-
-o	**Error rate < 5%**
-
-•	Links to the dashboard(s) showing "success criteria" metrics: **Datadog https://vagov.ddog-gov.com/dashboard**
-
-•	Who is monitoring the dashboard(s)?: **Vanson Samuel will be monitoring**
-
-
-**Results**
-
-•	Number of unique users: **100% of users are exposed to the new features** 
-
-•	Metrics at this stage (per your "success criteria"): **errors stay < 5%**
-
-•	Was any downstream service affected by the change?: **no**
-
-•	Types of errors logged: **All traffic is logged by Vets-website into Datadog. We will be looking for http status codes with errors (4XX)**
-
-•	What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? **If challenges are encountered, we would try to make the necessary code changes or rollback.**
 
  ## **Post Launch metrics**
  
