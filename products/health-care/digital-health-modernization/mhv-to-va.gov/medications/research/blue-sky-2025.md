@@ -19,7 +19,7 @@ OCTO:
 - [Next steps](#next-steps)
 
 
-## <a name="background>Background</a>
+## <a name="background">Background</a>
 What this discovery process included: 
 * **Desk research** -_what research has already been done related to Medications? What do we know already about user expectations and preferences, pain points, and things that are going well?_
 * **Competitive analysis:**
