@@ -415,6 +415,8 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 - What parts required the most concentration?
 
+- Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*
