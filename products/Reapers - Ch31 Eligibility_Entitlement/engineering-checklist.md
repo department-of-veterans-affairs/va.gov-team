@@ -44,7 +44,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Background jobs
     + List any required background processing 
     + Describe error and dead letter handling
-- Data storage **N/A to this whole section **
+- Data storage **N/A to this whole section**
     + Describe new or modified databases, tables or columns 
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
