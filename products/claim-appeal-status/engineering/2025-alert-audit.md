@@ -1,11 +1,11 @@
-# Alert Audit
+****# Alert Audit
 
 ## Links
 - Issue: [[CST Alert Improv] Audit CST Alerts #119651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119651)
 - Epic: [CST Alerts Alignment and Improvements #119389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119389)
 
 ## Overview
-This document provides a comprehensive audit of all VA alerts used in the Claims Status application. Each alert's "Deviations from Design System" may reference specific sections from the Design System guidelines found in the [Appendix](#appendix-design-system-reference). NOTE: the links on the file paths (e.g. `src/applications/claims-status/components/Notification.jsx`) will only work on a local development environment).
+This document provides a comprehensive audit of all VA alerts used in the Claims Status application. Each alert's "Deviations from Design System" may reference specific sections from the Design System guidelines found in the [Appendix](#appendix-design-system-reference).
 
 ## Generic Notification Component
 
@@ -52,7 +52,7 @@ A reusable notification system used across multiple pages to display success and
 ### Claim Detail Page Notifications
 - Location:
   - Claim detail pages: /your-claims/:id/* - [ClaimDetailLayout.jsx:62](../../components/ClaimDetailLayout.jsx)
-  ![Claim Detail Page Notification](claim-detail-page-notification.png)
+  ![Claim Detail Page Notification](alert-audit-images/claim-detail-page-notification.png)
 - Trigger: Shows when user navigates to claim detail after:
   - Submitting evidence waiver (5103 notice) - "We received your evidence waiver"
   - Requesting claim decision (AskVAPage without CST phases) - "Request received"
@@ -104,7 +104,7 @@ A reusable notification system used across multiple pages to display success and
 ### Document Request Page Notifications
 - Location:
   - Document request page: /your-claims/:id/document-request/:trackedItemId - [DocumentRequestPage.jsx:141](../../containers/DocumentRequestPage.jsx)
-  ![Document Request Page Notification](document-request-page-notification.png)
+  ![Document Request Page Notification](alert-audit-images/document-request-page-notification.png)
 - Trigger: Shows when:
   - User successfully submits evidence waiver ("We received your evidence waiver")
   - User successfully requests claim decision ("Request received")
@@ -116,7 +116,7 @@ A reusable notification system used across multiple pages to display success and
 ### Additional Evidence Page Notifications
 - Location:
   - Additional evidence page: /your-claims/:id/additional-evidence - [AdditionalEvidencePage.jsx:93](../../components/claim-files-tab/AdditionalEvidencePage.jsx)
-  ![Additional Evidence Page Notification](additional-evidence-page-notification.png)
+  ![Additional Evidence Page Notification](alert-audit-images/additional-evidence-page-notification.png)
 - Trigger: Shows when:
   - File upload succeeds (e.g., "We received your file upload on [date]")
   - File upload fails
@@ -240,11 +240,11 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsUnavailable.jsx](../../components/ClaimsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:154](../../containers/YourClaimsPageV2.jsx)
-  ![Claims Unavailable Alert](<claims-unavailable-alert.png>)
+  ![Claims Unavailable Alert](<alert-audit-images/claims-unavailable-alert.png>)
   - Claim detail page: /your-claims/:id/* - [ClaimDetailLayout.jsx:117](../../components/ClaimDetailLayout.jsx)
-  ![Claim detail page](claims-unavailable-alert-claim-detail.png)
+  ![Claim detail page](alert-audit-images/claims-unavailable-alert-claim-detail.png)
   - STEM claim status: /your-stem-claims/:id/status - [StemClaimStatusPage.jsx:53](../../containers/StemClaimStatusPage.jsx)
-  ![Claim detail page](claims-unavailable-alert-claim-detail.png)
+  ![Claim detail page](alert-audit-images/claims-unavailable-alert-claim-detail.png)
 - Type: Legacy `usa-alert usa-alert-warning`
 - Trigger: Shows when ALL of these conditions are true:
   - User has access to claims data service (`canAccessClaims` is true)
@@ -294,7 +294,7 @@ A reusable notification system used across multiple pages to display success and
   - Component: [src/applications/claims-status/components/ClaimsAppealsUnavailable.jsx](../../components/ClaimsAppealsUnavailable.jsx)
   - [https://staging.va.gov/track-claims](https://staging.va.gov/track-claims/) - [ClaimsStatusApp.jsx:45](../../containers/ClaimsStatusApp.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:150](../../containers/YourClaimsPageV2.jsx)
-  ![Claims & Appeals Unavailable Alert](<claims-appeals-unavailable-alert.png>)
+  ![Claims & Appeals Unavailable Alert](<alert-audit-images/claims-appeals-unavailable-alert.png>)
 - Type: Legacy `usa-alert usa-alert-warning`
 - Trigger: Shows when ALL of these conditions are true:
   - User has access to BOTH claims and appeals services (`canAccessClaims` and `canAccessAppeals` are both true)
@@ -337,7 +337,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/AppealsUnavailable.jsx](../../components/AppealsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:161](../../containers/YourClaimsPageV2.jsx)
-  ![Appeals Unavailable Alert](<appeals-unavailable-alert.png>)
+  ![Appeals Unavailable Alert](<alert-audit-images/appeals-unavailable-alert.png>)
 - Type: Legacy `usa-alert usa-alert-warning`
 - Trigger: Shows when ALL of these conditions are true:
   - User has access to appeals data service (`canAccessAppeals` is true)
@@ -371,7 +371,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/NoClaims.jsx](../../components/NoClaims.jsx)
   - Your claims list (empty state): [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:219](../../containers/YourClaimsPageV2.jsx)
-  ![No Claims Alert](<no-claims-alert.png>)
+  ![No Claims Alert](<alert-audit-images/no-claims-alert.png>)
 - Type: Legacy `usa-alert usa-alert-info`
 - Trigger: Shows when ALL of these conditions are true:
   - All data requests have completed loading (claims, appeals, and STEM claims APIs have returned)
@@ -397,7 +397,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsListItem.jsx:103-111](../../components/ClaimsListItem.jsx)
   - Your claims list (individual claim cards): [/your-claims](/your-claims) - [ClaimsListItem.jsx](../../components/ClaimsListItem.jsx)
-  ![Claims List Item - Requested Evidence Alert](<requested-evidence-alert.png>)
+  ![Claims List Item - Requested Evidence Alert](<alert-audit-images/requested-evidence-alert.png>)
 - Type: `<va-alert status="info" slim>`
 - Trigger: Shows when ALL of these conditions are true:
   - Claim has `documentsNeeded` flag set to true (VA has requested evidence from the veteran)
@@ -424,7 +424,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/StemDeniedDetails.jsx](../../components/StemDeniedDetails.jsx)
   - STEM claim status page: /your-stem-claims/:id/status - [StemClaimStatusPage.jsx:50](../../containers/StemClaimStatusPage.jsx)
-  ![STEM Denied Details](stem-denied-details.png)
+  ![STEM Denied Details](alert-audit-images/stem-denied-details.png)
 - Type: Custom div with alert-like styling (not a true alert component)
 - Trigger: Shows when ALL of these conditions are true:
   - Feature flag `stem_automated_decision` is enabled (required for STEM claims to appear in claims list) - currently enabled in prod
@@ -455,7 +455,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-status-tab/WhatWeAreDoing.jsx](../../components/claim-status-tab/WhatWeAreDoing.jsx)
   - Claim status tab: /your-claims/:id/status - [ClaimStatusPage.jsx:78](../../containers/ClaimStatusPage.jsx)
-  ![What We Are Doing Alert](what-we-are-doing-alert.png)
+  ![What We Are Doing Alert](alert-audit-images/what-we-are-doing-alert.png)
 - Type: `<va-alert status="info" slim>`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the status tab of an open claim
@@ -482,7 +482,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-status-tab/RecentActivity.jsx](../../components/claim-status-tab/RecentActivity.jsx)
   - Claim status tab (Recent Activity section): /your-claims/:id/status - [ClaimStatusPage.jsx:96](../../containers/ClaimStatusPage.jsx)
-  ![Recent Activity - Third Party Request Alert](recent-activity-third-party-alert.png)
+  ![Recent Activity - Third Party Request Alert](alert-audit-images/recent-activity-third-party-alert.png)
 - Type: `<va-alert status="info" slim>`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the status tab of a claim
@@ -535,7 +535,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-status-tab/ClosedClaimAlert.jsx](../../components/claim-status-tab/ClosedClaimAlert.jsx)
   - Claim status tab: /your-claims/:id/status - [ClaimStatusPage.jsx:88](../../containers/ClaimStatusPage.jsx)
-  ![Closed Claim Alert](closed-claim-alert.png)
+  ![Closed Claim Alert](alert-audit-images/closed-claim-alert.png)
 - Type: `<va-alert status="info">`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the status tab of a claim
@@ -596,9 +596,9 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-files-tab/FilesNeeded.jsx](../../components/claim-files-tab/FilesNeeded.jsx)
   - Status tab - What you need to do section: /your-claims/:id/status - [WhatYouNeedToDo.jsx:31](../../components/claim-status-tab/WhatYouNeedToDo.jsx)
-  ![Files Needed Alert Status Tab](files-needed-alert-status.png)
+  ![Files Needed Alert Status Tab](alert-audit-images/files-needed-alert-status.png)
   - Files tab - Additional evidence section: /your-claims/:id/files - [AdditionalEvidencePage.jsx:145](../../components/claim-files-tab/AdditionalEvidencePage.jsx)
-  ![Files Needed Alert Files Tab](files-needed-alert-files.png)
+  ![Files Needed Alert Files Tab](alert-audit-images/files-needed-alert-files.png)
 - Type: `<va-alert status="warning">`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the Files tab or Status tab of a claim
@@ -642,7 +642,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-files-tab/FilesOptional.jsx](../../components/claim-files-tab/FilesOptional.jsx)
   - Additional evidence page: /your-claims/:id/additional-evidence - [AdditionalEvidencePage.jsx:155](../../components/claim-files-tab/AdditionalEvidencePage.jsx)
-  ![Files Optional Alert](files-optional-alert.png) (Its the second info alert shown)
+  ![Files Optional Alert](alert-audit-images/files-optional-alert.png) (Its the second info alert shown)
 - Type: `<va-alert status="info">`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the Files tab
@@ -684,7 +684,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-document-request-pages/DefaultPage.jsx](../../components/claim-document-request-pages/DefaultPage.jsx)
   - Document request detail page: /your-claims/:id/document-request/:trackedItemId - [DocumentRequestPage.jsx:65](../../containers/DocumentRequestPage.jsx)
-  ![Past Deadline Alert](past-deadline-alert.png)
+  ![Past Deadline Alert](alert-audit-images/past-deadline-alert.png)
 - Type: `<va-alert status="warning">`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing a document request detail page
@@ -713,7 +713,7 @@ A reusable notification system used across multiple pages to display success and
 
 - Location:
   - Component: [src/applications/claims-status/components/AddingDetails.jsx](../../components/AddingDetails.jsx)
-  ![Adding Details Alert](adding-details-alert.png) (in this case its being showed because claimType was set to `null`)
+  ![Adding Details Alert](alert-audit-images/adding-details-alert.png) (in this case its being showed because claimType was set to `null`)
 - Type: `<va-alert status="info" slim>`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing any claim detail page (status, overview, or files tab)
@@ -748,7 +748,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/claim-overview-tab/ClaimPhaseStepper.jsx](../../components/claim-overview-tab/ClaimPhaseStepper.jsx)
   - Overview tab: /your-claims/:id/overview - [OverviewPage.jsx:85](../../containers/OverviewPage.jsx)
-  ![Claim Phase Stepper Alert](claim-phase-stepper-alert.png) (A new claim was created to show this: Claim for compensation - Received on September 15, 2024)
+  ![Claim Phase Stepper Alert](alert-audit-images/claim-phase-stepper-alert.png) (A new claim was created to show this: Claim for compensation - Received on September 15, 2024)
 - Type: `<va-alert status="info" slim>`
 - Trigger: Shows when ALL of these conditions are true:
   - User is viewing the Overview tab of a claim
@@ -778,7 +778,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/WIP.jsx](../../components/WIP.jsx)
   - Decision letters page: [/your-claim-letters](https://staging.va.gov/track-claims/your-claim-letters) - [YourClaimLetters/index.jsx:139](../../containers/YourClaimLetters/index.jsx)
-  ![Work In Progress Alert](wip-alert.png)
+  ![Work In Progress Alert](alert-audit-images/wip-alert.png)
 - Type: `<va-alert status="warning">`
 - Trigger:
   - Decision letter feature flag (`claimLettersAccess`) is disabled (it is currently enabled in production)
@@ -811,7 +811,7 @@ A reusable notification system used across multiple pages to display success and
   - Container: [src/applications/claims-status/components/appeals-v2/AlertsList.jsx](../../components/appeals-v2/AlertsList.jsx)
   - Individual Alert: [src/applications/claims-status/components/appeals-v2/Alert.jsx](../../components/appeals-v2/Alert.jsx)
   - Appeals status page: /appeals/:id/status - [AppealsV2StatusPage.jsx:104](../../containers/AppealsV2StatusPage.jsx)
-  ![Appeals Alert List](appeals-alert-list.png)
+  ![Appeals Alert List](alert-audit-images/appeals-alert-list.png)
 - Type: Container with multiple legacy USWDS alerts
 - Trigger: Shows when appeal has active alerts. Different alert types trigger based on:
   - Appeal status (active/inactive)
@@ -860,7 +860,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/appeals-v2/PastEventsSection.jsx](../../components/appeals-v2/PastEventsSection.jsx)
   - Appeals V2 status page: /appeals/:id - [AppealsV2StatusPage.jsx:115](../../containers/AppealsV2StatusPage.jsx)
-  ![Missing Events Alert](<missing-events-alert.png>)
+  ![Missing Events Alert](<alert-audit-images/missing-events-alert.png>)
 - Type: Legacy `usa-alert usa-alert-warning`
 - Trigger: Shows when appeal has `incompleteHistory` flag set to true
 - Code:
