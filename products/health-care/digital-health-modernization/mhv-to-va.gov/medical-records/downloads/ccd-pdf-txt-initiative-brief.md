@@ -1,22 +1,25 @@
-# Initiative Brief for adding PDF and TXT to Continuity of Care Document
+# Initiative Brief for adding PDF and TXT to Continuity of Care Document, adding Release of Information request language to MHV
 #### Overview
 - Product: MHV Medical Records
-- Feature: Add PDF and TXT to Continuity of Care Document (CCD)
+- Feature: Add PDF and TXT download to Continuity of Care Document (CCD) and Release of Information request info to MHV
  
  > 💡 Helpful guidance/tips
  
 ---
 
 ## Outcome Summary
-Veterans will be able to download a PDF or a TXT file of their Continuity of Care Document
+Veterans will be able to download a PDF or a TXT file of their Continuity of Care Document, and in the meantime, will have information providing guidance on requesting Release of Information.
 
 **Related/Associated product(s)**
 - Product | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* The ability to download TXT and PDF of the Continuity of Care Document was deprecated when Medical Records was rebuilt on VA.gov.  This was done intentionally, as a way to help Veterans distinguish between CCD and Blue Button reports.  We had heard in interviews with Veterans that many of them did not understand the difference, so we made a distinction that CCD was an XML file for health providers to upload into their own health systems, and Blue Button was a human-readable record that the Veteran could save or print.   We recently learned that there are some elements of the patient health record in CCD that are NOT included in the Blue Button report, and some Veterans have contacted support folks in the field to ask how to access that information
+* The ability to download TXT and PDF of the Continuity of Care Document was deprecated when Medical Records was rebuilt on VA.gov.  This was done intentionally, as a way to help Veterans distinguish between CCD and Blue Button reports.  We had heard in interviews with Veterans that many of them did not understand the difference, so we made a distinction that CCD was an XML file for health providers to upload into their own health systems, and Blue Button was a human-readable record that the Veteran could save or print.
+*
+* We recently learned that there are some elements of the patient health record in CCD that are NOT included in the Blue Button report, and some Veterans have contacted support folks in the field to ask how to access that information
 * We've received reports from My HealtheVet coordinators that Veterans are looking for this information.  We've also had some comments in surveys about it.
+* While this feature is being added, we will also provide language to help them submit a Release of Information (ROI) request.
 * How does this initiative help further OCTO-DE's mission and goals?
    - It makes it easier for Veterans to use their benefits.
 
@@ -45,6 +48,7 @@ Veterans will be able to download a PDF or a TXT file of their Continuity of Car
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
    - Baseline TBD
+   - Fewer Veterans will need to contact support to ask about the data they are looking for.
    - We will see users start to download TXT and PDF files of their Continuity of Care document instead of/in addition to XML
 ---
 
@@ -77,9 +81,9 @@ Veterans will be able to download a PDF or a TXT file of their Continuity of Car
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
-  -  We are adding the ability to generate a TXT or PDF file of the Continuity of Care Document
+  -  We are adding the ability to generate a TXT or PDF file of the Continuity of Care Document.  We are also adding content that explains how a Veteran can submit a Release of Information request so they have another option until this functionality is added.
 > *What have you explicitly decided to **not** include and why?*
-  - Anything apart from generating TXT or PDF and providing a 
+  - Anything apart from generating TXT or PDF and providing information on how to request Release of Information.
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
 > *How does this solution address your Assumptions & Risks?*
