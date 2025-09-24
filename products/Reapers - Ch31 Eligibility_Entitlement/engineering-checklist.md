@@ -120,6 +120,7 @@ This diagram must illustrate the following specifics.
   - What is the audit trail of data access and manipulation?
 - API Endpoint Documentation:[Documentation of RES Integration API Scenarios (1).docx](https://github.com/user-attachments/files/22517801/Documentation.of.RES.Integration.API.Scenarios.1.docx)
 **PostMan File Example**
+  
 Scenario 1 : Valid Input + Eligible Veteran + Case Already Exist in RES 
 --------------------------------------------------
 
