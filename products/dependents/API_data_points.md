@@ -17,17 +17,25 @@ Notes: VNP tables are not a reliable source of data and should not be used to "g
 
 ## Data points avaiable but not in use
 
-| Data Point                           | Possible Values     | Attribute Name     | API | Source of Data |
-| ------------------------------------ | ------------------- |------------------- | --- | -------------- |
-| Dependent benefit                    | Disability, Pension |                    |     | ?              |
-| Date dependent was added             |                     |                    |     |                |
-| Date dependent was removed           |                     |                    |     |                |
-| Veteran marriage history (unofficial)|                     |                    |     | VNP Tables     |
+| Data Point                           | Possible Values                         | Attribute Name     | API | Source of Data |
+| ------------------------------------ | --------------------------------------- |------------------- | --- | -------------- |
+| Dependent benefit                    | Disability, Pension (type), DIC (type)? |                    |     | ?              |
+| Date dependent was added             |                                         |                    |     |                |
+| Date dependent was removed           |                                         |                    |     |                |
+| Veteran marriage history (unofficial)|                                         |                    |     | VNP Tables     |
+| Child school status                  | [TBD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117156)            |                    |     |                |
+| Dependnet disability status          |                                         |                    |     | VNP Tables     |
+| Dependent removal reason             |                                         |                    |     | VNP Tables     |
 
 
-## Data points needed but not available
+## Data points needed but may not available
 
-| Data Point                         | Possible Values     | Attribute Name     | API | Source of Data |
-| ---------------------------------- | ------------------- |------------------- | --- | -------------- |
-| Date dependent was last verified   |                     |                    |     |                |
-| Veteran marriage history (official)|                     |                    |     |                |
+| Data Point                         | Possible Values                | Attribute Name     | API | Source of Data |
+| ---------------------------------- | ------------------------------ |------------------- | --- | -------------- |
+| Date dependent was last verified   |                                |                    |     |                |
+| Veteran marriage history (official)|                                |                    |     |                |
+| Child type                         | Biological, Stepchild, Adopted |                    |     |                |
+| Spouse-child relationship          |                                |                    |     |                |
+| Aid and Attendance recipients      |                                |                    |     |                |
+
+
