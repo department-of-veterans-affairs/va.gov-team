@@ -65,8 +65,8 @@ What this discovery process included:
 
 ### Possible "upcoming" user problems
 * My VA Health patient portal did not distinguish between "refill" or "renew" - just used a "refill" call to action button to control for both. Is this confusing? Will users expect this on My HealtheVet on VA.gov?
-* The refill button does different things depending on whether any refills are remaining (either triggers a refill (if integer is `> or = 1` or triggers renewal form flow if count `= 0`)
-* Tony Gavell says there are partial fills in OH (e.g. a user can have 1.5 amount of the prescription filled - so some non integer number containing a decimal must be allowed). In his discovery, he learned that currently we do not accept non-integer values for VistA meds. Is this a problem? How are partial fills handled differently for VistA vs. OH?
+  * The refill button does different things depending on whether any refills are remaining (either triggers a refill (if integer is `> or = 1` or triggers renewal form flow if count `= 0`)
+* Tony Gavell says there are partial fills in OH (e.g. a user can have 1.5 amount of the prescription filled - so some non integer number containing a decimal must be allowed). In his discovery, he learned that currently we do not accept non-integer values for VistA meds. He fixed the FE on VA.gov to allow for decimal characters, but it's surprising that we don't get partial numbers for VistA. Is that right? How are partial fills handled differently for VistA vs. OH?
 * Possible that the meds list appears incomplete to some Veterans who request refills via audiocare (we dn't get data from audiocare that would end up in the meds app) 
 
 ## Competitive analysis
