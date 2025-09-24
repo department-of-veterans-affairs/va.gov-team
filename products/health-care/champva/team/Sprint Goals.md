@@ -71,11 +71,11 @@
 ##
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
-  - [ ] [BE] 10-7959f-2 Finalize confirmation emails in prod
+  - [ ] [[BE] 10-7959f-2 Finalize confirmation emails in prod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99620)
 - [ ] **SPRINT GOAL** UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
-  - [ ] [UX] 10-7959f-2: Finish Updating Direct Deposit
+  - [ ] [[UX] 10-7959f-2: Finish Updating Direct Deposit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120300)
 - [ ] **SPRINT GOAL** UX: Update FMP service blueprint
-  - [ ] [UX] 10-7959f-1/2: Update FMP Service Blueprint
+  - [ ] [[UX] 10-7959f-1/2: Update FMP Service Blueprint](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119930)
 
 
 ## 
