@@ -91,19 +91,36 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
+Yes
+
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
+Smartphone
+
 3. What operating system is on your device? *(iOS / Android / _______)*
+
+iOS (iphone 16)
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
+> Believes it is Chrome
+
+<br>
+
 5. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?
+
+> Probably when they were transitioning over to the ID verification thing. You know, everything wants a different password right? Not only do I do it for myself but I also do it for my husband who is a 76 year old veteran and I had to get it done because its a requirement because he wasn’t going to do it so I had to do it. It was asking for his driver license number and social, I had to go back and forth with that. If I was gone for a certain amount of time it would lock you out and I would have to start over again and go through the whole process.
+
+<br>
   
 6. Do you have the VA Health and Benefits mobile app downloaded on your device?
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
 
+Uses the VAHB for the first time for the purpose of downloading for this study.
+
+Before this test had not used this particular app, at some point maybe a year and a half during covid used the video appointment system for the VA exercise classes, used that app but it was very inconsistent. Sometimes she could get on or sometimes she couldn’t. She more or less stopped because it wasn’t reliable.
 
 # User Tasks
 
@@ -180,11 +197,29 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 2: Start a statement
 Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+
+> Under claims
+
+<br>
+
+> Titled claims > forms > guidance
+
+<br>
+
+Note: User utilized dark mode on their phone
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
@@ -192,11 +227,23 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+Expected the form to be under the claims section.
+
     - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+
+Yes
+
     - If Y, where do they go instead?
+
+Claims
+
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
+
+No
     - If Y, what do they find confusing?
+
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
@@ -205,13 +252,43 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Supply form entry data for participant to enter as they go through the form.
 - Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
+Screen "Submit a statement in support of a claim"
+
+> Ok, it’s pretty clear.
+
+<br>
+
+Screen "What would you like to do here?"
+
+> I disagree with VA’s decision on my benefit or claim, and I’d like to request a decision review. In some situations, you can submit new evidence for closed claims.
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User expected the desired from to be launched upon her selection of the "I disagree with VA’s decision on my benefit or claim, and I’d like to request a decision review. In some situations, you can submit new evidence for closed claims."
+
     - Did they mention any previous experience or confusion?
+
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+
+Yes
+
     - If Y, what field do they encounter errors on?
+
+First Name
+SSN entry user entered dashes.
+
       - What triggered the error specifically?
+
+User had typos entering name, had to correct.
+User saw the SSN error but did not attempt to correct.
+
       - Does the user understand how to correct the error? 
+
+Yes
+
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
     - If Y, what specific challenges did they experience?
         - How did the user troubleshoot these challenges?
@@ -222,7 +299,15 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -232,6 +317,9 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User selected 'Finish this application later'.
+
     - Did they mention any previous experience or confusion?
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
@@ -241,7 +329,15 @@ Pretend you need to step away from the form for an extended period of time, you 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+>
+
+<br>
 
 
 ## Task 5: Continue completing the started form and submit
@@ -253,17 +349,46 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User tried to go to tab ‘Active’ despite being there already. And then scrolled on the page a few times to identify the section that said ‘Continue form’.
+
     - Did they mention any previous experience or confusion?
+
+No
+
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+
+Yes
+
     - If no, what do they mention that is confusing?
+
 - Is the user able to complete the started form? Y/N
+
+Yes
+
     - If no, what prohibited them from submitting the initial form?
+
+Additional notes:
+
+Phone suggested field entry based on commonly entered information like name, address, and phone number.
+
+Providing the statement the user typed ‘Hi there’
+
+On review page the user did not expand the sections to review if her information was entered correctly.
+
+
 
 ### Questions for testing participant: 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+After submission the user did not report any problems, thought it was pretty clear.
 
 Did you find navigation particularly challenging in any way?
 
@@ -271,7 +396,15 @@ If Y, why?
 
 Did you find any labels particularly confusing on the form?
 
+> No
+
+<br>
+
+User was confused by country “united states” prompt, she said “I see the checkbox for I live on a United States military base outside of the U.S. but I don’t see united states elsewhere. Want me to just write it in the blank?”
+
 If Y, what labels specifically and how might they be improved for clarity?
+
+User scrolled down on the summary page and paused over the “go to Va.gov homepage.” but then asked where she needed to go back. Had to direct her to select ‘Done’ in the top left corner of her screen.
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
@@ -281,23 +414,64 @@ Now that you have completed the form, navigate back to the general forms locatio
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
+> On the bottom it says forms updated successfully, it does not indicate that its been submitted but it does say that it’s in progress.
+
+<br>
+
 - What does this status mean to you? 
+
+> It has not been submitted. IF its in progress I would assume that there is something else that I need to get in there and do.
+
+<br>
 
 - What would you expect to see if you needed to check on your submission later?
 
+> Done, follow up in two weeks or done follow up within a specific time frame or to check the status.
+
+<br>
+
 ### Watch for:
 - In this step, what did the participant expect to happen?
+
+User didn't know what to do once landing on the confirmation page after form submission. User asked for help navigating back to the app.
+
     - Did they mention any previous experience or confusion?
+
+User paused over "go back to Va.gov" link at bottom of confirmation page
+
 - Does the user express confidence that they have completed and submitted their form?
+
+Yes
+
     - If no, what is confusing to them and why?
+
 - DOes the user understand the status of the form?
+
+No
+
     - If not, what do confusion do they express when interpretting the form status?
-    - 
+
+> IF its in progress I would assume that there is something else that I need to get in there and do.
+
+<br>
+
+Additional notes:
+
+Had difficulty existing the VA app and returning to her phone. Had difficulty pulling up the apps like zoom app, did not know where it was placed on her phone or how to search with it.
+
 ### Questions for testing participant:
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
+> No
+
+<br>
+
 Was any part hard to navigate or understand?
+
+> No
+
+<br>
 
 ### SuS for testing participants:
 Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
@@ -306,8 +480,14 @@ Now that you've completed the tasks above you can exit the VA testing app and re
 
 Please select the link and take the survey.
 
+User commpleted SUS
+
 ### Deleting the testing app:
 Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
+
+Had difficulty existing the VA app and returning to her phone. Had difficulty pulling up the apps like zoom app, did not know where it was placed on her phone or how to search with it.
+
+Didn’t know the difference between VA apps utilized previously and the one we tested today.
 
 **iOS users:** 
 If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
@@ -332,9 +512,23 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 **How did you find this process overall?**
 
+> It was relatively easy, I, it was a little frustrating when I couldn't go back and forth to do the things that you wanted. I can assume that others would probably, and I’m 72, I would think that others may have some difficulty and frustration and say I’m not going to do that.
+> So I’m still involved in it, and I’ll try. And if you talk me through it I could probably figure my way through it. I think individuals who don’t have that type of networking or avenue for support, I think they would have difficulty.
+
+<br>
+
 **Was there any part that felt especially frustrating or mentally tiring?**
 
-**Are you still okay if we use any video or audio clips from this session?** 
+> Only when closing browsers. I was like oh my goodness, like I say tell me how to do this. It’s probably simple things that were outside the norm for me, I never thought to do that, now I know. You know, I do learn from experiences. So, just the maneuvering aspect of it I think is the most convoluted piece for me.
+
+<br>
+
+**Are you still okay if we use any video or audio clips from this session?**
+
+> Yes
+
+<br>
+
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
