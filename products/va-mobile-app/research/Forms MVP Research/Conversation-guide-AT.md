@@ -181,6 +181,8 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 
 I'd like you to take a look at this screen, and sign in.
 
+[When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a test environment with artifical testing data displayed only. 
+
 **For screen magnifier participants.**
 [Confirm you're seeing what they are seeing by asking them] "What is on your screen now?
 
@@ -192,10 +194,6 @@ If not, ask the participant to check their settings on their device by navigatin
 2. Accessibility
 3. Zoom
 4. Show while mirroring toggle on
-
-
-
-[When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a test environment with artifical testing data displayed only. 
 
 
 
