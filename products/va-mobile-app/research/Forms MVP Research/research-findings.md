@@ -372,7 +372,7 @@ In the future we will also run a study with assistive tech users and recommend t
 
 [Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md))
 
-[Interview transcripts](link here)
+[Interview transcripts]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/Forms%20MVP%20Research/Transcripts))
 
 
 ## Tools used for Synthesis
