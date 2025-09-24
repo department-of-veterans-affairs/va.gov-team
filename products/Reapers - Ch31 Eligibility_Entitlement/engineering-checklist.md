@@ -118,7 +118,9 @@ This diagram must illustrate the following specifics.
   - How is the data transferred, including information such as any encryption used?
   - Who accesses the data and in what capacity (read or read-write)?
   - What is the audit trail of data access and manipulation?
-- API Endpoint Documentation:
+- API Endpoint Documentation:[Documentation of RES Integration API Scenarios (1).docx](https://github.com/user-attachments/files/22517801/Documentation.of.RES.Integration.API.Scenarios.1.docx)
+[Uploading Eligibility API Scenario Curls.txt…]()
+
 This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
 - Product Specifics:
     - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
