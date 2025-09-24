@@ -26,10 +26,12 @@
 
 #### Obj:
 - [ ] **SPRINT GOAL** Address staging review findings with fixes to radio buttons, content, and alerts.
-  - [ ] [FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component
-  - [ ] [FE] Staging Review finding: Error triggered on required radio buttons after selecting an option
-  - [ ] [FE] Staging Review finding: First segment of title tag must match h1
-  - [ ] [FE] Staging Review finding: Missing bold in and/or bulleted list
+  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
+  - [ ] [[FE] Staging Review finding: Error triggered on required radio buttons after selecting an option](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118220)
+  - [ ] [[FE] Staging Review finding: First segment of title tag must match h1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118206)
+  - [ ] [[FE] Staging Review finding: Missing bold in and/or bulleted list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118217)
+  - [ ] [[FE] Staging Review finding: Incorrect spelling of "dependent"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118216)
+  - [ ] [[FE] Staging Review finding: Sign in alert on Your information page mentions prefill, but form doesn't do prefill](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118229)
 - [ ] **SPRINT GOAL** Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended
   - [ ] [BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
 - [ ] **SPRINT GOAL** Begin Staged Launch
