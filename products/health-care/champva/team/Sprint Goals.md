@@ -44,15 +44,15 @@
 
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] ** SPRINT GOAL** Update FMP Claims to new upload component, handoff to QA for thorough testing 
-- [ ] ** SPRINT GOAL** Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
+- [ ] **SPRINT GOAL** Update FMP Claims to new upload component, handoff to QA for thorough testing 
+- [ ] **SPRINT GOAL** Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
 - [ ] **SPRINT GOAL** UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
 - [ ] **SPRINT GOAL** UX: Update FMP service blueprint 
 
 
 
 ## 
-###STRETCH GOALS
+### STRETCH GOALS
 - [ ] **STRETCH GOAL** Fix document count in FMP2 confirmation emails
 
 - [ ] **STRETCH GOAL** Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows
