@@ -246,14 +246,14 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 - How confident do you feel that you're in the right place to submit your statement?
 
-- Before we start, what do you expect this form completion process to be like?
+- Before you start the form itself, what do you expect this form completion process to be like?
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
 
 **For screen reader participants:**
-[Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What are you seeing on your screen now? 
+[Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What is on your screen now? 
 
 Thank you.
 
