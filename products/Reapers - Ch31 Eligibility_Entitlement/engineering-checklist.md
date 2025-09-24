@@ -25,7 +25,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Do you need to poll any APIs for status?  How is API success or failure determined? **Yes, but either reaching information or not with error handling on frontend**
     + Are you handling all failure and error cases while in custody of your users's data? **Yes**
     + Does this update change shared code? **No**
-    + What information will be captured in logs or metrics?**N/A**
+    + What information will be captured in logs or metrics? **N/A**
     + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? **No**
     + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? **No**
 - Internal API changes
@@ -40,12 +40,12 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - External API changes
     + List new or modified APIs for upstream or external systems
     + Describe expected call patterns
-    + What PII or PHI will be transmitted to/from the external systems?
+    + What PII or PHI will be transmitted to/from the external systems? 
 - Background jobs
-    + List any required background processing
+    + List any required background processing 
     + Describe error and dead letter handling
-- Data storage
-    + Describe new or modified databases, tables or columns
+- Data storage **N/A to this whole section **
+    + Describe new or modified databases, tables or columns 
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
     + Is this change introducing a large or new volume of data?
@@ -53,7 +53,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism?
 - Libraries and dependencies
     + List new or updated dependencies
-- Metrics, logging, observability, alerting
+- Metrics, logging, observability, alerting **N/A to this whole section**
     + Identify key areas to monitor
     + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost
     + Are there any sensitive data risks with logging?
@@ -66,7 +66,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + List scope of any feature flags
     + Identify other teams to coordinate with
     + Describe rollback plan
-- Internal administration tasks
+- Internal administration tasks **None**
     + What maintenance or administration tasks do you anticipate will need to be performed periodically?
     + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
 
