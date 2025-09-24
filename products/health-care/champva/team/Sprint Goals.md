@@ -33,13 +33,13 @@
   - [ ] [[FE] Staging Review finding: Incorrect spelling of "dependent"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118216)
   - [ ] [[FE] Staging Review finding: Sign in alert on Your information page mentions prefill, but form doesn't do prefill](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118229)
 - [ ] **SPRINT GOAL** Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended
-  - [ ] [BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
+  - [ ] [[BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
 - [ ] **SPRINT GOAL** Begin Staged Launch
   - [ ] **NEED A STORY TO LAUNCH**
-- [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI 
-  - [ ] [UX] 10-10d v2: Update Other Health Insurance content changes
+- [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI
+  - [ ] [[UX] 10-10d v2: Update Other Health Insurance content changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120443)
 - [ ] **SPRINT GOAL** UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
-  - [ ] [UX] 10-10d v2: Update design for CHAMPVA application confirmation page (PDF download)
+  - [ ] [[UX] 10-10d v2: Update design for CHAMPVA application confirmation page (PDF download)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97574)
 - [ ] **SPRINT GOAL** Design discovery for ineligible applicants in 1010d
   - [ ] [UX] 10-10d v2: Design Discovery for Ineligible Applicants
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
@@ -52,7 +52,8 @@
 
 - [ ] **SPRINT GOAL** Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
   - [ ] [FE] 10-7959C: Add required upload pages for Sendback Letter and EOB
-- [ ] [UX] 10-7959a CHAMPVA Claims: Update Confirmation Page to Print/Save PDF
+- [ ] **SPRINT GOAL**
+  - [ ] [[UX] 10-7959a CHAMPVA Claims: Update Confirmation Page to Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120322)
 - [ ] [FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA
 - [ ] [FE] 10-7959a: Fix screen reader announcement for "Did your mailing address change?" radio buttons
 
@@ -81,17 +82,19 @@
 - [ ] **STRETCH GOAL**
   - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 202
 - [ ] **FE STRETCH GOAL**
-  - [ ] More staging review findings, content changes from UX OHI content changes story, switch to new v3 component in FMP Claims
-- [ ] **UX STRETCH GOAL** Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows
-  - [ ] [UX] 10-7959f-1: Update design for FMP Registration confirmation page with PDF download
-  - [ ] [UX] 10-7959f-2: Update design for FMP claims confirmation page (PDF download)
-  - [ ] [UX] FMP Registration 10-7959f-1: Create Production Form Flow
-  - [ ] [UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF
+  - [ ] More [staging review findings](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118469)
+  - [ ] Content changes from [UX OHI content changes story](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120443)
+  - [ ] Switch to [new v3 component in FMP Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120242) to test for viability
+- [ ] *UX STRETCH GOAL** Update confirmation page in figma to support pdf download in remaining forms and update FMP production form flows
+  - [ ] [[UX] 10-7959f-1: Update design for FMP Registration confirmation page with PDF download](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97571)
+  - [ ] [[UX] 10-7959f-2: Update design for FMP claims confirmation page (PDF download)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97572)
+  - [ ] [[UX] FMP Registration 10-7959f-1: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120325)
+  - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
 - [ ] **BE STRETCH GOAL** Fix document count in FMP2 confirmation emails
-  - [ ] [BE] 10-7959F-2: Fix incorrect attached document count in email confirmations
+  - [ ] [[BE] 10-7959F-2: Fix incorrect attached document count in email confirmations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119419)
 - [ ] **BE STRETCH GOAL** Create integration tests for data transformations for Pega S3 and PDF file, set up 1010d Extended in PagerDuty
-  - [ ]  [BE] 1010d: Create integration tests that cover data transformations - Pega S3
-  - [ ]  [BE] 1010d: Create integration tests that cover data transformations - PDF File
+  - [ ]  [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
+  - [ ]  [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
 
 
 
