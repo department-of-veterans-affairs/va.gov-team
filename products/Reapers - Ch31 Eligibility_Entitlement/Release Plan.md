@@ -45,12 +45,15 @@ Even though your feature has been tested and ready, production is still a differ
 **Reapers Team will monitor for errors and if they see a spike or unexpected behavior, they will disable the toggle.**
 
 **Points of Contact**
+
 **Primary POC's**
+
 Robert Allender - Government Lead
 
 Ekaterina Shick - Program Manager
 
 **Back Up POC's**
+
 Vanson Samuel - Technical Lead 
 
 Jeffrey Marks - Backend 
