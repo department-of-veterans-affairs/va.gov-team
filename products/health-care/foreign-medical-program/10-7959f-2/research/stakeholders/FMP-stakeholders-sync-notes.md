@@ -37,6 +37,7 @@ Jessica walks through the new flows and updates, with the goal of having the use
 **Action items**
 - Premal to schedule a follow-up early next week to finish discussing these flows
 - Agenda to include addressing any pending decisions above
+- Health Apps UX team to update service blueprint with changes to process discussed in the past 2 meetings
 
 
 ## **09/18/2025**
