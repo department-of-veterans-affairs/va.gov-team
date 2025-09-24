@@ -9,6 +9,7 @@
 - [ ] 10-10d/1-7959c Merge: Address staging review findings with fixes to radio buttons, content, and alerts.
 - [ ] Begin Staged Launch of 1010d/10-7959c Merge 
 - [ ] Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
+- [ ] Fix screen reader announcement on radio buttons in ChampVA Claims 
 - [ ] Update FMP Claims to new upload component, handoff to QA for thorough testing 
 - [ ] Finalize confirmation emails  for FMP  Claims and ensure they have an accurate supporting document count
 - [ ] Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended 
@@ -33,7 +34,7 @@
   - [ ] [[FE] Staging Review finding: Incorrect spelling of "dependent"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118216)
   - [ ] [[FE] Staging Review finding: Sign in alert on Your information page mentions prefill, but form doesn't do prefill](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118229)
 - [ ] **SPRINT GOAL** Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended
-  - [ ] [[BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission
+  - [ ] [[BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120270)
 - [ ] **SPRINT GOAL** Begin Staged Launch
   - [ ] **NEED A STORY TO LAUNCH**
 - [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI
@@ -41,21 +42,21 @@
 - [ ] **SPRINT GOAL** UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
   - [ ] [[UX] 10-10d v2: Update design for CHAMPVA application confirmation page (PDF download)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97574)
 - [ ] **SPRINT GOAL** Design discovery for ineligible applicants in 1010d
-  - [ ] [UX] 10-10d v2: Design Discovery for Ineligible Applicants
+  - [ ] [[UX] 10-10d v2: Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120382)
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
-  - [ ] [BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment
+  - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
 - [ ] **SPRINT GOAL** **CARRIED FORWARD TO HAVE MORE SUPPORT DURING ROLLOUT**
-  - [ ] [BE] 10-10d/10-7959c Extended: Architecture Intent - Encrypt necessary fields in postgres
+  - [ ] [[BE] 10-10d/10-7959c Extended: Architecture Intent - Encrypt necessary fields in postgres](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114846)
 
 
 ### 10-7959a
 
 - [ ] **SPRINT GOAL** Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
-  - [ ] [FE] 10-7959C: Add required upload pages for Sendback Letter and EOB
-- [ ] **SPRINT GOAL**
+  - [ ] [[FE] 10-7959C: Add required upload pages for Sendback Letter and EOB](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120249)
+- [ ] **SPRINT GOAL** Update Confirmation Page in Figma to allow for printing/saving PDF
   - [ ] [[UX] 10-7959a CHAMPVA Claims: Update Confirmation Page to Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120322)
-- [ ] [FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA
-- [ ] [FE] 10-7959a: Fix screen reader announcement for "Did your mailing address change?" radio buttons
+- [ ] **SPRINT GOAL** Fix screen reader announcement on radio buttons
+  - [ ] [[FE] 10-7959a: Fix screen reader announcement for "Did your mailing address change?" radio buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118986)
 
 
 
