@@ -5,9 +5,20 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### POC
 1. What is the name of your product(s)/system(s)?
+
+   - VA.gov Performance Dashboard
+   
 2. Describe its purpose in a few sentences.
+
+   - The Performance Dashboard provides some high-level metrics about the VA.gov website. It is mostly intended for internal VA stakeholders as a way of quickly viewing high-level metrics.
+
 3. If you represent multiple products, please describe the relationship between them, if there is any.
-4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
+
+   - We represent multiple products but no other products relate to this one.
+  
+5. What is the expected duration of your project? This information helps us understand how our processes need to adapt
+
+   - We maintain this product so there are always items on our roadmap for it. In the short term we are redesigning the page and expect to complete that work in the first half of 2026. 
 
 #### AWS Resources
 1. List AWS services used.
