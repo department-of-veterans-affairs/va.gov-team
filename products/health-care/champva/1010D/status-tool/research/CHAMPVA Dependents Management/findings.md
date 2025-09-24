@@ -1,6 +1,6 @@
 # Findings from 3 SME interviews - Sept 2025
 
-More detailed notes can be found in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1756332139043/fc1bb9a1bdb0c5ee01798567c25245b3f3dbff02). 
+More detailed notes can be found in [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1756332139043/fc1bb9a1bdb0c5ee01798567c25245b3f3dbff02?sender=u7ee42566b5167ec20b007504). (Only visible when logged into VA account.)
 
 ## 1. How dependent applications are processed
 Dependents are stored independently in CP&E. 
