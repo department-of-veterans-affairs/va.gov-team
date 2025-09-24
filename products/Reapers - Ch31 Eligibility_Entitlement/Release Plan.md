@@ -47,12 +47,16 @@ Even though your feature has been tested and ready, production is still a differ
 **Points of Contact**
 **Primary POC's**
 Robert Allender - Government Lead
+
 Ekaterina Shick - Program Manager
 
 **Back Up POC's**
 Vanson Samuel - Technical Lead 
+
 Jeffrey Marks - Backend 
+
 Nicholas Hibbits - Frontend 
+
 Robert Allender - Government Lead 
 
 
