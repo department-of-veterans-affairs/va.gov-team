@@ -302,9 +302,9 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 
 ## Task 5: Continue completing the started form and submit
-Now, pretend you are ready to come back to your previous form to complete & submit it. 
+Now, pretend you are ready to come back to your previous form. 
 
-Please locate the form and bring it up to complete.
+Please locate your previous form and continue on.
 
 
 ### Watch for:
