@@ -71,8 +71,8 @@ The following product or feature descriptions may be answered with a reference l
 - Please describe what problem this product or feature solves. **Veteran Readiness and Employment (VR&E) services are vital for Veterans with service-connected disabilities who are seeking employment and independent living. However, VA.gov’s current navigation to VR&E information and the application process is fragmented, confusing, and outdated. The RES-powered VR&E portal integrated within VA.gov directly addresses key usability and accessibility issues, transforming VA.gov into a personalized gateway for Veterans to determine eligibility, apply for benefits, and track their progress throughout the program lifecycle.**
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
-    - How does the code base get disabled in the product? 
-    - How would you detect a compromise?
+    - How does the code base get disabled in the product? **Team will review and disable and submit PR**
+    - How would you detect a compromise? **Contacted from DataDog team**
     - What process and privilege does the code base execute under?
         - If so, is that process isolated?
         - If so, what additional credentials are available to that process?
@@ -82,16 +82,16 @@ The following product or feature descriptions may be answered with a reference l
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
 - Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored?
 - Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? If so, please answer the following questions:
-    - Is the PHI strongly encrypted?
-    - Is the PII encrypted?
-    - Can the sensitive information be scrubbed?
-- Are there any new, modified, or existing Cookies being used?
+    - Is the PHI strongly encrypted? **TLS encryted on the wire**
+    - Is the PII encrypted? **TLS encryted on the wire**
+    - Can the sensitive information be scrubbed? **No**
+- Are there any new, modified, or existing Cookies being used? **No**
     - If so, are there any new Cookies?
         - If so, why can’t the existing Cookies be used?
     - If so, are there any modified Cookies?
         - If so, how are the Cookies modified?
     - If so, are there any existing Cookies?
-- Is this feature authenticated or unauthenticated?
+- Is this feature authenticated or unauthenticated? **Authenticated through Single Sign On**
 - Are there any other specific subjects that you want to highlight or focus additional attention on?
 
 ### Artifacts
@@ -177,14 +177,6 @@ curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibilit
 }'g Eligibility API Scenario Curls.txt…]()
 
 
-This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
-- Product Specifics:
-    - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    - A link to the Product Outline
-    - Ensure Product Outline contains Incident Response info, including:
-        - Points of contact for your system and dependent VA back-ends
-        - Links to dashboards that help identify and debug application issues
-    - Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your Product Playbook
 - Code links: Link to relevant code directories in GitHub.
     - Front-end code links
     - Back-end code links
