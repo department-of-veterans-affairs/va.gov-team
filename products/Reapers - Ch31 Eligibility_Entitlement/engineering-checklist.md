@@ -28,26 +28,26 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + What information will be captured in logs or metrics? **N/A**
     + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? **No**
     + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? **No**
-- Internal API changes
-    + List new or modified APIs in `vets-api`
+- Internal API changes **No internal API changes**
+    + List new or modified APIs in `vets-api`**No**
     + Are you deprecating or removing any APIs? **No**
-    + Do you have API documentation? **Yes**
-    + Describe expected call patterns 
+    + Do you have API documentation? **No**
+    + Describe expected call patterns **No**
     + Are there new endpoints or services that require rate limiting or throttling? **No**
     + Are there any third party integrations, and how are they vetted? **No**
     + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) **No**
-    + Is schema validation enforced (ex: using the vets-json-schema repo)? 
+    + Is schema validation enforced (ex: using the vets-json-schema repo)? **No**
 - External API changes
-    + List new or modified APIs for upstream or external systems
-    + Describe expected call patterns
-    + What PII or PHI will be transmitted to/from the external systems? 
+    + List new or modified APIs for upstream or external systems **Veterans to check Chapter 31 eligibility from VA.gov, prior to submitting a 28-1900 application, so that the Veteran is tracking Chapter 31 details and has a streamlined understanding of eligibility prior to submitting applications. As such, RES is creating a REST API that VA.gov can call, following Veteran login to VA.gov, which will return eligibility data for the Veteran indicating whether the Veteran is eligible for Chapter 31 benefits based on eligibility criteria. API titled - checkCh31Eligibility**
+    + Describe expected call patterns **Uploading documents of API call responses and Postman File**
+    + What PII or PHI will be transmitted to/from the external systems? **Name, Birthdate, ICN, Military Service Period and Service Connected Disability Details **
 - Background jobs
     + List any required background processing 
     + Describe error and dead letter handling
 - Data storage **N/A to this whole section**
     + Describe new or modified databases, tables or columns 
     + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted 
     + Is this change introducing a large or new volume of data?
     + Do these changes impact database or caching layers (ex: Redis, Postgres)? Do the changes have implications for data volume, memory, or CPU usage to consider?
     + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism?
@@ -57,15 +57,15 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Identify key areas to monitor
     + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost
     + Are there any sensitive data risks with logging?
-- Infrastructure and network changes
+- Infrastructure and network changes **NA**
     + List any changes or additions
 - Test strategy
-    + Describe automated, manual and user acceptance test strategy
-    + Describe required test data and test user accounts
+    + Describe automated, manual and user acceptance test strategy **Our team is working to test the new page against the designs mocked up and approved by the business. We will also be conducting TestRail and UAT testing**
+    + Describe required test data and test user accounts **Veterans who ICN's existing in Va.gov that can link across other systems MPI, VA Profile, Corp and RES**
 - Rollout plan
-    + List scope of any feature flags
-    + Identify other teams to coordinate with
-    + Describe rollback plan
+    + List scope of any feature flags **Feature flag currently contains all information for the new page we are creating.**
+    + Identify other teams to coordinate with **Working with RES team to create the API and push it to production before our go live date of 11/7**
+    + Describe rollback plan **The API will go live ahead of time, we will remove the feature flag on 11/7 to display new functionality. If anything was to go wrong we will turn off the feature flag hiding all the functionality until necessary repairs were completed**
 - Internal administration tasks **None**
     + What maintenance or administration tasks do you anticipate will need to be performed periodically?
     + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
