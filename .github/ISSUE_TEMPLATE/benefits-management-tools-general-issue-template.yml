@@ -58,6 +58,7 @@ body:
         - Question
         - Design
         - Accessibility
+        - Spike
         - Other
     validations:
       required: true
