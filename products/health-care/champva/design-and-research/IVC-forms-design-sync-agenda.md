@@ -83,6 +83,25 @@ Summary: Hot mess
 - Concerns with cognitive lift to decipher the VA process language around setting up direct deposit in multiple places
 - Don't want to block those who have FSC accounts setup due to travel pay only (they don't have direct deposit in VA profile use case)
 
+Mocks updated per the FMP meetings
+- 1st flow, happy path: remove Ask VA, edit “mail” in content.
+- 2nd flow. No DD, Red Alert.
+- Jessica: If there is no DD on VA Profile, does it pull from FSC?
+- https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753456440793/e796411a00bbb9d171b55b4428cb35d5179ff0bd?sender=u9e94b6949d794a4fa2426947
+- We may have to ask them Travel Pay and FMP claim.
+- Travel Pay: if they’re getting checks, they’re not getting Direct Deposit.
+- Amanda wants to review the path.
+- Premal “Are we optimizing for a case that does not happen very often?”
+- 11k claims per month (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753456440793/e796411a00bbb9d171b55b4428cb35d5179ff0bd?sender=u9e94b6949d794a4fa2426947)
+- Jessica asked if the Financial Services Center would help the Veteran set up their DD as well as FSC.
+- We’ll need to denote that it is not 24-hour operation,
+- Premal shared that the hours are 7:15am-4:15am and that it is a 2-hour wait time.
+- Amanda wants to confirm if the Veteran should contact FSC vs FMP. Team notes that Andy said to contact FSC. So the number Jessica has in the mock (FSC) is correct.
+
+- 3rd flow: If you with the happy path 1st time, then 2nd run through, they’ll get the yellow alert asking if they made changes to the FSC system?
+- Amanda asked if FMP went through the collab cycle. Andrea notes that the FMP Cover went through the collaboration cycle and staging. Then team pivoted to include the Direct Deposit, which was developed outside of the cycle. This makes Amanda uncomfortable moving forward.
+
+
 
 
 #### NOK for EZR
