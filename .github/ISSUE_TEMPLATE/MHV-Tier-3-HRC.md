@@ -1,7 +1,7 @@
 ---
 name: MHV Tier 3 HRC Issue Template
 about: Issue template for the My HealtheVet development team for further investigation from Tier 3 issues originating in HRC Dynamics
-title: 'MR/SM/RX - '
+title: 'MR/SM/Med on VA.gov/VAHB - '
 labels: MHV-Tier-3, MHV-Secure-Messaging, PRODUCT-mhv-medical-records, mhv-medications, mhv-horizon
 assignees: ''
 projects: 
@@ -11,15 +11,16 @@ projects:
 # Description
 <!-- A brief description of the bug -->
 
-- Reported device(s) used:
-- Reported browser(s) used:
-- Reported OS:
-
 
 ## Steps to Reproduce
 1. 
 2. 
 3. 
+
+- Reported device(s):
+- Reported OS:
+- Reported browser(s):
+- Reported VAHB app version: 
 
 ### Expected Behavior
 <!-- What you expected to happen; you can reference a Figma design -->
