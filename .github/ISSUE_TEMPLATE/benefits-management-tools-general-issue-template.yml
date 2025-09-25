@@ -1,5 +1,5 @@
 name: Benefits Management Tools General Issue
-description: Create a new issue (Task, Bug, Enhancement, Question, Design, or Accessibility)
+description: Create a new issue (Task, Bug, Enhancement, Question, Design, Accessibility, or Spike)
 title: "[Issue Type] [Short descriptive title]"
 labels: ["benefits-management-tools", "issue", "product-backlog"]
 assignees: []
@@ -88,13 +88,24 @@ body:
         For **Task / Enhancement / Other**:
         - Background/context…
         - What needs to be achieved (outcomes, not implementation)…
-        - Risks/dependencies…
 
         For **Question**:
         - What decision or clarification is needed?
         - Options considered (if any)…
     validations:
       required: true
+
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks / Dependencies
+      description: Capture any known risks, blockers, or dependencies related to this issue.
+      placeholder: |
+        - Risk: Potential GA event volume cost
+        - Dependency: Requires input from vfs-analytics
+        - Dependency: Backend cleanup (EVSS removal)
+    validations:
+      required: false
 
   # ---------- Design work ----------
   - type: textarea
@@ -114,20 +125,22 @@ body:
       required: false
 
   # ---------- Accessibility work ----------
-  - type: checkboxes
-    id: a11y-scope
+  - type: textarea
+    id: accessibility
     attributes:
-      label: Accessibility Scope (if applicable)
-      description: Select the types of a11y work in scope.
-      options:
-        - label: Keyboard navigation & focus order
-        - label: Screen reader support (NVDA/JAWS/VoiceOver/TalkBack)
-        - label: Color and contrast
-        - label: Semantics/landmarks/roles
-        - label: Forms, labels, and error messaging
-        - label: Motion/animation & prefers-reduced-motion
-        - label: Reflow/zoom/responsive behavior
-        - label: Other (describe below)
+      label: Accessibility Scope & Details (if applicable)
+      description: Capture any accessibility considerations or requirements for this issue.
+      placeholder: |
+        If accessibility work is required, describe the scope and details here.  
+        Examples:  
+        - Keyboard navigation & focus order  
+        - Screen reader support (NVDA/JAWS/VoiceOver/TalkBack)  
+        - Color and contrast  
+        - Semantics/landmarks/roles  
+        - Forms, labels, and error messaging  
+        - Motion/animation & prefers-reduced-motion  
+        - Reflow/zoom/responsive behavior  
+        - Other accessibility considerations  
     validations:
       required: false
 
@@ -182,7 +195,9 @@ body:
     id: estimate
     attributes:
       label: Estimate
-      description: Select an effort estimate for this issue.
+      description: |
+        Select an initial effort estimate for this issue.  
+        ⚠️ This can be filled upon issue creation and refined during sprint planning.
       options:
         - 1 – Very minuscule, less than a day
         - 2 – Small, ~1 day
@@ -197,7 +212,8 @@ body:
     id: points
     attributes:
       label: Points
-      description: Enter a numeric value for story points if needed.
+      description: Enter a numeric value for story points if needed.  
+        ⚠️ This can be filled upon issue creation and refined during sprint planning.
       placeholder: "e.g., 3"
     validations:
       required: false
@@ -206,7 +222,9 @@ body:
     id: priority
     attributes:
       label: Priority
-      description: Select the priority level for this issue.
+      description: |
+        Select the priority level for this issue.  
+        ⚠️ This can be set when creating the issue and refined later during backlog grooming or sprint planning.
       options:
         - Lowest
         - Medium
