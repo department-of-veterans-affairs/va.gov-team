@@ -14,10 +14,6 @@ projects:
 - Reported device(s) used:
 - Reported browser(s) used:
 - Reported OS:
-- Dates occurred (approximate):
-  - date/time
- 
-_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
 
 
 ## Steps to Reproduce
@@ -30,6 +26,13 @@ _Note- Reach out to a POC on the team with HRC Dynamics access for user-specific
 
 ### Actual Behavior
 <!-- What actually happened -->
+
+
+- Dates occurred (approximate):
+  - date/time
+    - <!-- If MR, include type (Blue Button, labs, etc), if BB then date range and options selected, TXT or PDF -->
+ 
+_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
 
 ### Troubleshooting Steps Performed (by Tier 1 and/or Tier 2)
 - 
