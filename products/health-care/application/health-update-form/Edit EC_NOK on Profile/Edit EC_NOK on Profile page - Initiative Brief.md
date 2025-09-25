@@ -5,10 +5,10 @@
 - Enable Veterans to add, edit, and remove Emergency Contacts and Next of Kin directly on the VA.gov profile page, including fields such as Name, Address, Relationship, and Phone.
 
 **Related/Associated product(s)**
-- 10-10EZR Standalone form - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
-- 10-10EZR EC Initiative brief
-- 10-10EZR NOK Initiative brief
-- VA.gov Profile Page - Emergency Contacts and Next of Kin UI/UX Enhancements
+- [10-10EZR Standalone form - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- [10-10EZR EC Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/Emergency%20Contact%20Initiative%20Brief.md)
+- [10-10EZR NOK Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/NoK%20Initiative%20Brief.md)
+- [VA.gov Profile Page - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)
 
 ## Problem
 - Veterans can currently view their Emergency Contacts and Next of Kin on the VA.gov profile page but cannot add, edit, or remove these contacts. Changes must be made through the 10-10EZR form.
