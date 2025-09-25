@@ -71,6 +71,7 @@ jobs:
       - name: Make scripts executable
         run: |
           chmod +x scripts/github-actions/share_to_slack/*.sh || true
+          chmod +x scripts/github-actions/share_to_slack/*.py || true
 
       - name: Find eligible research files (script)
         id: find-files
@@ -84,7 +85,7 @@ jobs:
           ./scripts/github-actions/share_to_slack/find_eligible_research_file.sh
           echo "Raw step output file contents:"; cat "$GITHUB_OUTPUT" || true
 
-      - name: Process and share research findings (script)
+      - name: Process and share research findings (python)
         if: steps.find-files.outputs.skip != 'true'
         id: process
         run: |
@@ -92,7 +93,8 @@ jobs:
           FILE="${{ steps.find-files.outputs.eligible_file }}"
           if [ -z "$FILE" ]; then
             echo "No file provided from previous step"; exit 0; fi
-          ./scripts/github-actions/share_to_slack/process_research_file.sh "$FILE"
+          python3 --version
+          python3 scripts/github-actions/share_to_slack/process_research_file.py "$FILE"
 
       - name: Build Slack payload (success) (script)
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
