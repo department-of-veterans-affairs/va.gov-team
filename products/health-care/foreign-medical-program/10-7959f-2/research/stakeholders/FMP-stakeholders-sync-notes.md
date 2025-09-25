@@ -3,7 +3,9 @@ Every other Wednesday at 2:35pm ET
 
 ## **09/24/2025**
 Attendees: Premal, Andrew, Daphne B.McGraw (financial analyst), Heartents L Maples (supervisory financial analyst), Jordan Brown (Financial Management Specialist)
+
 **Agenda**
+
 Add hoc call to understand how a Veteran can confirm FSC account information if they have a vendor file created (by getting travel pay or prior FMP payments)
 **Notes**
 - Veterans can call the FSC helpdesk 1-877-353-9791 opt. 2, to get help to setup an account so that they can see the last 4 digits of the account number they have on file.
