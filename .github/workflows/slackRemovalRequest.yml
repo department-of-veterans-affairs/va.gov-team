@@ -21,7 +21,7 @@ jobs:
           allow-edits: "false"
 
       - name: Send Slack message
-        uses: archive/github-actions-slack@v1.0.3
+        uses: archive/github-actions-slack@v2.8.0
         if: |
           github.event_name == 'issue_comment' && github.event.action == 'created'
           && startsWith(github.event.comment.body, '/request')
