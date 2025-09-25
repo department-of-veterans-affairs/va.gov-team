@@ -107,10 +107,16 @@ Before we look at the emails let’s start with a few warm-up questions.
 9. How would you like VA to communicate with you?
 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [First email] - 10 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- After reading this email what would you do next?
+- When would you do that?
+     - Immediately after? Later? If later, how would you remember to do it?
+- How likely would you be to do that on a scale of 1-5?
+- What you expect to see, or what you expect to be asked to do, when you clicked on the link in the email?
+- Would you have any concerns after reading this email?
+- Do you have any other feedback?
+
 
 > [!NOTE]
 > ### Things to watch for:
@@ -119,10 +125,15 @@ Before we look at the emails let’s start with a few warm-up questions.
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 > - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Second email] - 10 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- After reading this email what would you do next?
+- When would you do that?
+     - Immediately after? Later? If later, how would you remember to do it?
+- How likely would you be to do that on a scale of 1-5?
+- What you expect to see, or what you expect to be asked to do, when you clicked on the link in the email?
+- Would you have any concerns after reading this email?
+- Do you have any other feedback?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -130,10 +141,15 @@ Before we look at the emails let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [Third Email] - 10 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- After reading this email what would you do next?
+- When would you do that?
+     - Immediately after? Later? If later, how would you remember to do it?
+- How likely would you be to do that on a scale of 1-5?
+- What you expect to see, or what you expect to be asked to do, when you clicked on the link in the email?
+- Would you have any concerns after reading this email?
+- Do you have any other feedback?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -143,8 +159,7 @@ Before we look at the emails let’s start with a few warm-up questions.
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Now that you have seen all of the emails, do you have any additional feedback?
 - Any questions for me? 
 
 ## Consent to use video clips
