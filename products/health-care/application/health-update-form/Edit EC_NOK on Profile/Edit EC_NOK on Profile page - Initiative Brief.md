@@ -23,17 +23,16 @@
 #### **Key Result #1:** Increase 10% of Veterans who successfully add their NOK and/or EC information online
 **Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
 
-| Product KPI |  Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
-|-------------|-------------- |-------------- |-------------- |
-|NOK add (Yes)|500 | TBD |TBD |
-|NOK edit/view existing|500 | TBD |TBD |
-|EC add (Yes) |500 | TBD |TBD |
-|EC edit/view existing|500 | TBD |TBD |
-|Errors | 0 errors| TBD| TBD|
+| Product KPI |  EZR avg monthly volume |Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |-------------- |-------------- |-------------- |-------------- |
+|NOK add (Yes)|TBD |TBD | TBD |TBD |
+|NOK edit/view existing|TBD |TBD | TBD |TBD |
+|EC add (Yes) |TBD |TBD | TBD |TBD |
+|EC edit/view existing|TBD |TBD | TBD |TBD |
+|Errors |TBD | 0 errors| TBD| TBD|
 
 - Links to the dashboard(s) showing "success criteria" metrics:
-     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
-     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
+     - TBD
 
 ---
 
