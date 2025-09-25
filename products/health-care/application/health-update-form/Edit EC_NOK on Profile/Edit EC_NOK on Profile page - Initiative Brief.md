@@ -83,6 +83,9 @@
 ## Screenshots
 
 ### Before
+- <img width="727" height="552" alt="image" src="https://github.com/user-attachments/assets/f6dfcfc3-98d8-4707-8fc3-cb092d7dc3ea" />
+---
+- 
 
 ### After
 
