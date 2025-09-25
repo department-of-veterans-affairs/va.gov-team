@@ -25,3 +25,21 @@
 "products/office-administration/vba/sco-migration/deliverables/BuildandTestCheckpoint_SCO_CT116_11202019.pdf" filter=lfs diff=lfs merge=lfs -text
 "products/office-administration/offices/research/OPIA-Administration research - design studio - February 2019/20190228_VA.govCMS_office_designStudio_synthesisCapture.pptx" filter=lfs diff=lfs merge=lfs -text
 "products/accredited-representation-management/product-documentation/appoint-a-representative/contact-center/product-guide-appoint-a-representative-2.0.docx" filter=lfs diff=lfs merge=lfs -text
+"products/accredited-representative-facing/product-info/NACVSO Product research Video - Predecisional.mp4" filter=lfs diff=lfs merge=lfs -text
+"products/health-care/questionnaire/engineering/accessibility/assets/Screen Recording 2021-04-07 at 2.14.10 PM.mov" filter=lfs diff=lfs merge=lfs -text
+"products/caregivers/research/2024-09- Caregivers Study - form content and user interviews/videos-images/P26-MobileFacilitySearch-480.mov" filter=lfs diff=lfs merge=lfs -text
+"platform/contact-center/vfs-product-videos/Higher-Level-Review-intro-and-walkthrough-compressed.mp4.zip" filter=lfs diff=lfs merge=lfs -text
+"products/decision-reviews/higher-level-review/product-guide/Higher-Level-Review-intro-and-walkthrough-compressed.mp4.zip" filter=lfs diff=lfs merge=lfs -text
+"platform/design/sketch-backup/1095-B-form/high-fidelity-screens.sketch.zip" filter=lfs diff=lfs merge=lfs -text
+"teams/digital-experience/_archive/ebenefits/engineering/2018-prefill-docs/emis-integration/emis-documents/v2/emis-wsdl-xsds-b7.zip" filter=lfs diff=lfs merge=lfs -text
+"teams/digital-experience/_archive/ebenefits/engineering/2018-prefill-docs/emis-integration/emis-documents/emis-wsdl-xsds.zip" filter=lfs diff=lfs merge=lfs -text
+"products/decision-reviews/research/notes/notes-discovery-vft-ama-forms.zip" filter=lfs diff=lfs merge=lfs -text
+"products/combined_va_debt_portal/research/exploratory-2024/transcripts/debt-portal-2024-transcripts.zip" filter=lfs diff=lfs merge=lfs -text
+"products/combined_va_debt_portal/research/usability-apr-2022/notes/Combined-Debt-Portal-usability-study-notes.zip" filter=lfs diff=lfs merge=lfs -text
+"products/combined_va_debt_portal/payment-history/research/usability-study-6-2024/transcripts/VBA-payment-history-transcripts.zip" filter=lfs diff=lfs merge=lfs -text
+"products/resources-for-schools/research/SCO Collab Group –Resources For Schools.pdf.zip" filter=lfs diff=lfs merge=lfs -text
+"products/dependents/research/2023-09-dependents-research/Dependents Research Mobile Prototype.zip" filter=lfs diff=lfs merge=lfs -text
+"products/va-mobile-app/research/ux/appointments/2022-04-Appointment-Scheduling/VA.Mobile.Appointment.Request.Usability.Findings.zip" filter=lfs diff=lfs merge=lfs -text
+"products/health-care/appointments/va-online-scheduling/research/2019-09-usability-testing-new-VAOS-ux/self-schedule-usability/9-25 Notes.zip" filter=lfs diff=lfs merge=lfs -text
+"products/health-care/appointments/va-online-scheduling/research/2019-09-usability-testing-new-VAOS-ux/request_usability/Redacted 913 notes.zip" filter=lfs diff=lfs merge=lfs -text
+"teams/digital-experience/_archive/ebenefits/engineering/2018-prefill-docs/2018-prefill-docs/emis-integration/emis-documents/v2/emis-wsdl-xsds-b7.zip" filter=lfs diff=lfs merge=lfs -text
