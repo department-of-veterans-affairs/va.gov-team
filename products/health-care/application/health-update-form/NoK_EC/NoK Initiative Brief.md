@@ -12,27 +12,9 @@ Alex Seelig, 3/26/2025
 - 10-10EZR Standalone form - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 
 ## Problem
-
-* What is the problem and who is affected? And, what evidence do we have of the problem?
 - Veterans are currently unable to enter or change their Next of Kin online, and must do so either in a VA facility or over the phone. Per Medallia reports from the MHV Cartography team, the phone number to call is confusing and the call center cannot always do the change.
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
 - This has been an issue since the inception of online forms, and no one has ever worked to solve this problem. 
-* How does this initiative help further OCTO-DE's mission and goals?
 - This allows Veterans to do another task online that they could not previously do.
-
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
-## Undesired User Outcomes
-## Desired Business Outcomes
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
--->
 
 ---
 ## Measuring Success
@@ -41,6 +23,7 @@ Alex Seelig, 3/26/2025
 #### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
 #### **Key Result #1:** Increase 10% of Veterans who successfully add their NOK and/or EC information online
 **Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
+
 | Product KPI |  Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
 |-------------|-------------- |-------------- |-------------- |
 |NOK add (Yes)|500 | TBD |TBD |
@@ -57,11 +40,9 @@ Alex Seelig, 3/26/2025
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - . Will Veterans take the time to enter/change their Next of Kin?
+  - Will Veterans take the time to enter/change their Next of Kin?
 - **Usability Risks** (can people figure out how to use it):
   - Will Veterans understand how to enter/change their NoK? Can we make it simple enough for them?
   - Do Veterans understand what a Next of Kin is? Do they know it's the person who gets their stuff if something happens to them? 
@@ -73,43 +54,34 @@ Alex Seelig, 3/26/2025
     - How will adding a new API impact the performance and ZSF of the EZR?
     Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-    
-  
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  
-  Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+
 
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows.
-- Add NoK to EZR. Add only one NoK for this round. Allow users to enter name, address, phone. Have address be optional. Have all of NoK be optional. 
-> *What have you explicitly decided to **not** include and why?*
-- Anything outside of NoK, including EC for this effort
-> *How does this solution address your Assumptions & Risks?
+- In-Scope
+     - Add NoK to EZR. Allow users to enter name, address, phone. Have address be optional. Have all of NoK be optional. 
+
+- Out of Scope
+     - Any other changes to other sections
+
 - Our solution will allow Veterans to enter their NoK online, and will include error monitoring for the new Associates API. 
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
 - Have HEC notify users about this in their mailers
 - Let Veterans know they can do this online at VA facilities 
 --- 
 
 ## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
-
-- Kickoff ticket
 
 ### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/EC%20and%20NoK%20Release%20Plan.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
-  - tbd
+  - 9/22/2025
 
 ---
    
@@ -126,10 +98,10 @@ Alex Seelig, 3/26/2025
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps
+- GitHub Label(s): 1010-team
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
@@ -139,8 +111,8 @@ Alex Seelig, 3/26/2025
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO
+- Contact(s): Patrick Bateman
  
 </details>
 
