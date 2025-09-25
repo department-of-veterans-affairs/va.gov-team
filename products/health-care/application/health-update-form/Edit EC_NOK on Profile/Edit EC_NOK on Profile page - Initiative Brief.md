@@ -15,6 +15,14 @@
 - Relying on the 10-10EZR form for such updates is cumbersome and not user-friendly.
 - Allowing these updates directly on the profile page will provide a more seamless and efficient experience for Veterans.
 
+#### How does this initiative help further OCTO-DE's mission and goals? This initiative directly supports OCTO-DE's mission to deliver seamless, proactive, and personalized experiences by:
+- Reducing veteran burden by allowing the action where the Veteran is, replacing the form for this simple action
+- Building trust through improved experiences
+- 2025 OCTO Priorities that this work will support:
+     - Improve the Veteran login experience,
+     - Integrate health portal features into VA.gov,
+     - Enhance Veterans’ personalized online experience,
+     - Drive OIT’s Digital Transformation Strategy
 ---
 ## Measuring Success
 
