@@ -1,5 +1,104 @@
 # Running Design and Research Agenda
 
+
+
+## September 25 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda, 
+
+
+### Agenda: 
+- Review UX roadmap: items in-progress and in the pipeline for the month/quarter, discuss when to sequence items in the parking lot column
+-  Anything FMP direct deposit post-meeting yesterday and before meetings next week. Posted update in this ticket and updates in Figma including a parking lot area to note research questions
+- EZR Service History: Mock was completed, awaiting Content review, and it will need a discussion with stakeholder for which direction to go.
+- EZR Insurance Flow v2: Mock is completed, no need for content since it is similar to EZ, I have some cleanup then it is ready for Devs to pick up.
+
+
+
+### NOTES
+
+#### Roadmap
+
+Renata talks through Mural, new format for IVC side
+Now Next Later defined better - added notes in Mural for clarification
+
+- User flows updating for Mural 
+
+Now items:
+Dental with content
+EZR items in the works for v2
+
+Claims side; 
+Ready for MVP of resub launch
+UX side, changes to the send back letter with suggestions
+
+Print save work in progress for confirmation page
+Don't call resubmission flow to partners - Enhanced Claims Flow (explained to partners this does not show to users). Renata to double check wording.
+
+
+FMP 
+Direct deposit, flows and service blueprint
+
+OHI standalone - user flow and print PDF
+
+Wider view work/parking lot items:
+- concerns with timing of user testing to get it out
+- Business side stressed important to get it right
+- Has not gone through content review yet - will go through that before testing
+Thinking outlaid:
+- Structure engineering work early a suggestion
+- Working prototype with content questions a suggestion
+- Where it fits in schedule
+- Priorities of FMP vs resub claims
+
+Keep with current priorities
+
+Talk through risks:
+- put money in account Veteran is not expecting it to
+- money went into VA profile account
+- potential more back office hours to fix accounts, reprocess claims
+- business side stated not as much of a problem
+- weighing a lot of risks
+
+Amanda question:
+Extend working on FMP to ensure right thing to production
+- move forward on some of the FSC decisions in the background
+Premal: leadership swamped, maybe. Technical work to implement up to a year. 
+
+High risk thing to push forward without research -- Amanda
+
+Parking Lot: Duty to Assist work
+Fast follow 
+Temp check: next thing to prioritize for CHAMPVA form? 
+Renata to double check VA policy or law (checkbox or content)
+Federal law, 
+Came from blueprinting discussions with Angela and the forms team
+UX to prioritize exploration 
+
+
+#### Direct Deposit for FMP
+Summary: Hot mess
+- Amanda and Jessica to sync up because flow is potentially confusing
+- The process of using FSC to call could be a pain point for Veterans
+- Concerns with cognitive lift to decipher the VA process language around setting up direct deposit in multiple places
+- Don't want to block those who have FSC accounts setup due to travel pay only (they don't have direct deposit in VA profile use case)
+
+
+
+#### NOK for EZR
+- Source of truth file updates
+
+#### Service history for EZR 
+- with content now and then will go through HEC for options
+- Health insurance for EZR will mimic EZ
+- going from custom to platform array builder
+
+
+
+--- 
+
+
+
 ## September 11 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Jessica Stump
 
