@@ -4,7 +4,8 @@
 ## Outcome Summary
 - Enable Veterans to add, edit, and remove Emergency Contacts and Next of Kin directly on the VA.gov profile page, including fields such as Name, Address, Relationship, and Phone.
 
-**Related/Associated product(s)**
+**Related/Associated Resources**
+- [Epic #120581 - ECNOK Edit function on VA.gov Profile page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
 - [10-10EZR Standalone form - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 - [10-10EZR EC Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/Emergency%20Contact%20Initiative%20Brief.md)
 - [10-10EZR NOK Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/NoK%20Initiative%20Brief.md)
