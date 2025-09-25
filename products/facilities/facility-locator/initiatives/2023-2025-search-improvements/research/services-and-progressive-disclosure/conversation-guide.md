@@ -141,7 +141,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## **First Task: Open prototype**
 
-Let's suppose that (*Google/VA.gov*) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: \[insert prototype link here\]
+Let's suppose that (*Google/VA.gov*) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: \[[insert prototype link here\](https://staging.va.gov/find-locations/ )]
 
 Did you get the link?
 
@@ -155,7 +155,15 @@ Did you get the link?
 
 ## **Third Task: Search** (TBD)
 
-### Search 1: VA Cemetery
+### Search 0: User Defined Search(es) 
+
+Tell me about the last time you were looking for a VA facility. What were you trying to find?
+
+I’m going to share a link. Please show me what you would do and tell me what you are doing as you do it. 
+
+On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to \[user defined task\]? 
+
+### Search 1: VA Cemetery (No services/no autosuggest feature)
 
 I’d like you to pretend that you are looking for the closest Veteran cemetery to you.
 
@@ -167,23 +175,11 @@ Is there a way you could find that information from this page?
 
 Without selecting anything, what would you do next?
 
+On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to find the closest Veteran cemetery to you? 
+
 (RECORD all comments/what they would do next)
 
-### Search 2: Community provider
-
-I’d like you to pretend that you are looking for a local dentist in Chicago that takes VA insurance. Add a note about that this is not a VA provider, but will be covered by VA healthcare? IDK, something to prompt the community provider.
-
-Is there a way you could find that information from this page?
-
-* Input city, state  
-* Select community providers as facility type  
-* Search dentist
-
-Without selecting anything, what would you do next?
-
-(RECORD all comments/what facility type they select/what they would do next)
-
-### Search 3: VA health, all services
+### Search 2: VA health, all services (Progressive disclosure and Autosuggest combo box)
 
 I’d like you to pretend that you want to find a VA Medical Center in Boston. 
 
@@ -199,7 +195,7 @@ Is there a way you could find that information from this page?
 
 (RECORD all comments/what facility type they select/what they would do next)
 
-### Search 4: VA health, common service
+### Search 3: VA health, common service (Progressive disclosure and Autosuggest combo box)
 
 I’d like you to pretend that you want to find a VA Medical Center in Boston that provides urgent care.
 
@@ -213,17 +209,19 @@ Without selecting anything, what would you do next?
 
 (RECORD all comments and what they would do next)
 
-### Search 5: VA health, uncommon service
+### Search 4: VA health, uncommon service (Progressive disclosure and Autosuggest combo box)
 
-I’d like you to pretend that you want to find a VA Medical Center that provides caregiver support in Springfield, Missouri. 
+### 
+
+I’d like you to pretend that you want to find a VA Health Center for an optometry appointment. 
 
 Is there a way you could find that information from this page?
 
 * Input zip code  
 * Select VA health as facility type  
-* Search caregiver support
+* Search Optometry or Eye
 
-(*They should see no results*) what would you do next?
+ What would you do next?
 
 (RECORD all comments and what they would do next)
 
