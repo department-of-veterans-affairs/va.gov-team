@@ -10,12 +10,14 @@ projects:
 
 # Description
 <!-- A brief description of the bug -->
-- Device:
-- Browser:
-- OS: 
 
-**HRC ticket number(s):**
-- [HRC](URL)
+- Reported device(s) used:
+- Reported browser(s) used:
+- Reported OS:
+- Dates occurred (approximate):
+  - date/time
+ 
+_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
 
 
 ## Steps to Reproduce
@@ -29,10 +31,7 @@ projects:
 ### Actual Behavior
 <!-- What actually happened -->
 
-### Screenshots
-<!-- Attach any relevant screenshots -->
-
-### Troubleshooting Steps Performed
+### Troubleshooting Steps Performed (by Tier 1 and/or Tier 2)
 - 
 
 ## Acceptance Criteria
@@ -42,4 +41,14 @@ projects:
 ## Definition of Done
 - [ ] Meets acceptance criteria
 - [ ] Notified MHV Tier 3 Support of resolution
+
+----------------------------
+
+# Tier 3 Notes
+_Note- There is limited view access to these HRC tickets. Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
+
+**HRC ticket number(s):**
+- [HRC](URL)
+- [HRC](URL)
+- [HRC](URL)
 
