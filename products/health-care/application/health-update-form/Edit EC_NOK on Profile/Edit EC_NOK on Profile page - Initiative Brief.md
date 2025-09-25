@@ -1,4 +1,4 @@
-# Next of Kin Initiative Brief
+# Edit Emergency Contact & Next of Kin on VA.gov Profile page - Initiative Brief
 - Last updated: Heather Justice 09/25/2025
 
 ## Outcome Summary
@@ -78,13 +78,13 @@
 ## Launch Planning
 
 ### Timeline 
-* [Link to Release Plan for this Initiative](TBD)
+* [Link to Release Plan for this Initiative] - TBD
 
 #### Initiative Launch Dates
 - *Target Launch Date*
   - tbd
 - *Actual Launch Date* 
-  - 9/22/2025
+  - tbd
 
 ---
    
