@@ -2,16 +2,18 @@
 - Last updated: Heather Justice 09/25/2025
 
 ## Outcome Summary
-
-- 
+- Enable Veterans to add, edit, and remove Emergency Contacts and Next of Kin directly on the VA.gov profile page, including fields such as Name, Address, Relationship, and Phone.
 
 **Related/Associated product(s)**
 - 10-10EZR Standalone form - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- 10-10EZR EC Initiative brief
+- 10-10EZR NOK Initiative brief
+- VA.gov Profile Page - Emergency Contacts and Next of Kin UI/UX Enhancements
 
 ## Problem
-- Veterans are currently unable to enter or change their Next of Kin online, and must do so either in a VA facility or over the phone. Per Medallia reports from the MHV Cartography team, the phone number to call is confusing and the call center cannot always do the change.
-- This has been an issue since the inception of online forms, and no one has ever worked to solve this problem. 
-- This allows Veterans to do another task online that they could not previously do.
+- Veterans can currently view their Emergency Contacts and Next of Kin on the VA.gov profile page but cannot add, edit, or remove these contacts. Changes must be made through the 10-10EZR form.
+- Relying on the 10-10EZR form for such updates is cumbersome and not user-friendly.
+- Allowing these updates directly on the profile page will provide a more seamless and efficient experience for Veterans.
 
 ---
 ## Measuring Success
@@ -39,40 +41,37 @@
 ### Assumptions/Risks
 
 - **Value Risks** (will people use it): 
-  - Will Veterans take the time to enter/change their Next of Kin?
-- **Usability Risks** (can people figure out how to use it):
-  - Will Veterans understand how to enter/change their NoK? Can we make it simple enough for them?
-  - Do Veterans understand what a Next of Kin is? Do they know it's the person who gets their stuff if something happens to them? 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Will the List&Loop bugs be fixed so that we can release?
-    - Will the Associates API from the VES team be released to Prod so we can test and release?
-    - Will we be able to delete using the new Associates API?
-    - How will adding a new API impact the performance and ZSF of the EZR?
-    Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - Will Veterans utilize the ability to add, edit, and remove their Emergency Contacts and Next of Kin?
 
+- **Usability Risks** (can people figure out how to use it):
+  - Will Veterans find the interface intuitive for managing their contacts?
+  - Can we clearly communicate the purpose and importance of Emergency Contacts and Next of Kin information?
+
+- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - Is the new VES Associations API fully stable and functional for production use?
+  - Can the VA.gov profile page handle the integration and ensure real-time updates without performance degradation?
+  - Will we encounter any issues related to data synchronization or reliability?
+
+- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - Will we encounter resistance from either business partners in our attempt to eliminate this kind of update from a form
 
 ### What're you building
 - In-Scope
-     - Add NoK to EZR. Allow users to enter name, address, phone. Have address be optional. Have all of NoK be optional. 
+     - Develop functionality to allow adding, editing, and removing Emergency Contacts and Next of Kin on the VA.gov profile page.
+     - Enable error monitoring for interactions with the VES Associations API.
 
 - Out of Scope
-     - Any other changes to other sections
+     - Changes to other sections of the profile page or other unrelated functionalities.
 
 - Our solution will allow Veterans to enter their NoK online, and will include error monitoring for the new Associates API. 
 
-#### Go-to-market 
-
-- Have HEC notify users about this in their mailers
-- Let Veterans know they can do this online at VA facilities 
+ 
 --- 
 
 ## Launch Planning
 
 ### Timeline 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/EC%20and%20NoK%20Release%20Plan.md)
+* [Link to Release Plan for this Initiative](TBD)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -95,8 +94,8 @@
 
 <details>
 
-- Team Name: 10-10 Health Apps
-- GitHub Label(s): 1010-team
+- Team Name: Health Apps
+- GitHub Label(s): health-apps-team, ezr-profile-enhancement
 - Slack channel: 1010-health-apps
 - Product POCs: Heather Justice
 
@@ -109,7 +108,7 @@
 <details>
   
 - Office/Department: OCTO
-- Contact(s): Patrick Bateman
+- Contact(s): Premal Shah
  
 </details>
 
