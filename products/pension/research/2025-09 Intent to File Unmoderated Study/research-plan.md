@@ -71,6 +71,8 @@ For [unmoderated testing](https://depo-platform-documentation.scrollhelp.site/re
 * [Link to prototype for flow B](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/WIP---21P-527EZ---Pension-Benefits?node-id=13497-43964&t=5BVfLYMOEWpVlXI8-4)  
 * [Link to prototype for flow C](https://www.figma.com/design/9JKK5Eo43uJWEr66JPiebc/WIP---21P-527EZ---Pension-Benefits?node-id=13497-52534&t=5BVfLYMOEWpVlXI8-4)
 
+* [Link to design file](https://www.figma.com/design/0hU7Y56EO2skWUjS8HxFjf/Prototypes---Intent-to-FIle?node-id=0-1&p=f&t=cMnRyEecDCz8wDE3-0)
+
 ## **Recruitment**
 
 ### **Recruitment approach**
