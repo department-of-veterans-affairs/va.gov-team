@@ -144,13 +144,6 @@ body:
     validations:
       required: false
 
-  - type: textarea
-    id: a11y-details
-    attributes:
-      label: Accessibility Details (if applicable)
-    validations:
-      required: false
-
   # ---------- Acceptance Criteria ----------
   - type: textarea
     id: acceptance-criteria
