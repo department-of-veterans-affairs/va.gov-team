@@ -62,7 +62,7 @@ Learning will provide better understanding of how Veterans interact with the fac
 ### Research Questions
 
 1. Do Veterans and their families understand how to use the autosuggest feature to find VA Health facilities?  
-2. Do Veterans and their families know intuitively what terms to use when typing in the autosuggest feature?  
+2. Do Veterans and their families know intuitively what terms to use when typing in the autosuggest feature for service types?  
 3. Do Veterans and their families understand the service types that populate when typing in the autosuggest field?  
 4. Do Veterans and their families understand that the service type field narrows their search results?  
 5. Do Veterans and their families understand why the service type field is conditionally revealed?
@@ -94,7 +94,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 **Primary criteria**
 
 * At least 5 have previously used the facility locator  
-* At least 5 have NOT previously used the facility locator  
+* At least 4 have NOT previously used the facility locator  
 * At least 5 people with a cognitive disability (e.g., TBI)  
 * At least 6 have a smartphone to use for the session and...  
   * Have Zoom downloaded to their smartphone prior to the session and know how to share their screen  
@@ -130,7 +130,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
    2. Yes (RECRUIT 4\)  
 4. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?  
    1. No  
-   2. Yes (RECRUIT 7\)  
+   2. Yes (RECRUIT 6\)  
 5. What time zone are you located in? (RECORD)
 
 ### Screening Questions for AT
@@ -213,13 +213,13 @@ A pilot session is required. Please indicate the date and name of a mock partici
 Please list the people who will be serving in each role.
 
 * Moderator: Tina Kambil (617-949-0174, tina.kambil@agile6.com)  
-* Research guide writing and task development (usually but not always same as moderator): Tina Kambil  
+* Research guide writing and task development (usually but not always same as moderator): Tina Kambil & Dave Pickett 
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Tina Kambil & Dave Pickett  
 * Participant(s) for pilot test: TBD  
 * Accessibility specialist (for sessions where support for assistive technology may be needed): TBD  
 * Note-takers: Perigean  
-* Observers: Will need to sign up so we can limit the number of observers per session, and Jordan will add them to the invites that she receives from Perigean. The Sitewide team will be invited to observe.
+* Observers: Will need to sign up so we can limit the number of observers per session, and Tina will add them to the invites that she receives from Perigean. The Sitewide team will be invited to observe.
 
 ## **Approvals**
 
