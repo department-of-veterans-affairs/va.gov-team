@@ -107,3 +107,38 @@ def test_payload_includes_key_findings_and_metadata():
         assert "Next Section" not in findings_block  # Should stop at next header
     finally:
         shutil.rmtree(tmpdir)
+
+
+def test_payload_structure_only_key_findings_and_link():
+    file_path, mod_time, tmpdir = create_test_research_file()
+    code, out, err = run({
+        "SLACK_CHANNEL_ID": "C12345",
+        "RESEARCH_TITLE": "Test Study",
+        "PRODUCT_PATH": "test-product/path",
+        "RESEARCH_FILE": str(file_path),
+        "GITHUB_REPOSITORY": "department-of-veterans-affairs/va.gov-team",
+        "GITHUB_SHA": "abcdef123456",
+        "EVENT_NAME": "schedule"
+    })
+    try:
+        assert code == 0
+        payload = extract_payload(out)
+        blocks = payload["blocks"]
+        # After metadata (blocks[1]), should be divider, then key findings, then divider, then button, then context
+        assert blocks[2]["type"] == "divider"
+        assert blocks[3]["type"] == "section"
+        findings_block = blocks[3]["text"]["text"]
+        assert findings_block.startswith("*Key Findings:*")
+        assert "Test finding one." in findings_block
+        assert "Test finding two." in findings_block
+        # Next block should be divider
+        assert blocks[4]["type"] == "divider"
+        # Next block should be actions (button)
+        assert blocks[5]["type"] == "actions"
+        button = blocks[5]["elements"][0]
+        assert button["type"] == "button"
+        assert button["url"].endswith(str(file_path)) or button["url"].startswith("https://github.com/")
+        # No other findings, previews, or extra sections
+        assert len(blocks) == 7  # header, metadata, divider, findings, divider, button, context
+    finally:
+        shutil.rmtree(tmpdir)
