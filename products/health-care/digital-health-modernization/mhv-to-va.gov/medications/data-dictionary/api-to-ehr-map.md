@@ -3,11 +3,11 @@
 | API resource.property | MHV resource.property | VistA                 | Oracle Health Millennium resource |
 | --------------------- | --------------------- | --------------------- | --------------------------------- |
 | `prescriptionName`    | `drugName`            |   Drug Name           | (MD) `medicationCodeableConcept.coding.%Get(0).display` |
-| `prescriptionId`      | `id`                  |   IEN                 | `medicationCodeableConcept.coding[0].code` |
+| `prescriptionId`      | `id`                  |   IEN                 | (MD) `medicationCodeableConcept.coding[0].code` |
 | `prescriptionNumber`  | `prescriptionNumber`  |   Prescription Number | (MR) `id` |
 | `orderedDate`         | `issueDate`           |   Issue Date/Time     | (MR) `authoredOn` |
-| `sortedDispensedDate` | `sortedDispenseDate`  |   Release Date/Time   |  |
-| `dispStatus`          | `dispStatus`          |   Status              |  |
+| `sortedDispensedDate` | `sortedDispenseDate`  |   Release Date/Time   | (MD) `whenPrepared` |
+| `dispStatus`          | `dispStatus`          |   Status              | (MD) `status` |
 | `refillRemaining`     | `refillsRemaining`    |   Refills Remaining   | (MR) `dispenseRequest.numberOfRepeatsAllowed` |
 | `expirationDate`      | `expirationCancelDate`|   Expiration Date     | (MR) `dispenseRequest.validityPeriod.end` |
 | `trackingList[0].completeDateTime` |          |                       |  |
