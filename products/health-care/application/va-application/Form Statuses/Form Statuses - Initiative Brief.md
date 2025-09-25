@@ -30,6 +30,17 @@ This initiative focuses on improving the veteran experience by displaying health
 **What is the problem and who is affected?**
 Veterans applying for VA healthcare currently have limited visibility into their application status outside of the form's introduction page. This creates confusion and anxiety as veterans are unsure of their application progress and what actions they need to take next. The problem affects all veterans who have submitted healthcare applications and are waiting for processing or need to take additional action.
 
+- Current VES statuses of Veterans who can access EZR (this is outside of statuses/attributes required by MHV to log into the my-health space)
+     - `enrolled`
+     - `pending_mt` (this is when pending a means test, financials needed)
+     - `pending_other`
+- May need to consider looking at `Pending;Unverified`.  
+     - See note from Joshua Faulkner: "Pending;Unverified - this status is **temporary** but the totals hover around 150k"
+          - We know Veterans get letters when military history cannot be verified after submitting the 10-10EZ application
+               - When are these letters triggered?
+               - When would we trigger this status, if the status is temporary (after a day, a week, etc)?
+               - Can Veterans access the EZR to submit additional information?
+
 **Why do you think the problem is occurring?**
 - Application statuses are only displayed on the form introduction page, which veterans may not frequently visit
 - MyVA dashboard only shows limited status information (started but not submitted applications, and enrolled status)
