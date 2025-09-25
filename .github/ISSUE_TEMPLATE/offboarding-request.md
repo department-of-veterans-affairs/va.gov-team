@@ -49,11 +49,11 @@ _The following steps are performed by the **Platform Support Tier 1** team. Deta
    > A comment on this ticket prefixed with `/request` (i.e. `/request FirstName LastName`) will send a message to the Slack admins automatically!
 - [ ] Requested removal from Confluence (if applicable. Check [confluence members](https://vfs.atlassian.net/wiki/people/search?q=))
 - [ ] Remove from [Platform Atlas](https://www.va.gov/atlas/product_directory/team_members) (if applicable)
+- [ ] Fill the request for offboarding a user from ECC Pagerduty instance [here](https://yourit.va.gov/va?id=sc_cat_item&sys_id=f0d3a475db1d13807ed130ca7c96196b)
 - [ ] User removed from the VA GitHub Org (if applicable. Check [department-of-veterans-affairs/people](https://github.com/orgs/department-of-veterans-affairs/people))
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D).
 - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
-- [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
-- [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled
+- [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview)
 
 ### Support Tier 2 - DevOps 🌷
 _The following steps are performed by **Platform Support Tier 2 DevOps**. Detailed instructions found [here](https://vfs.atlassian.net/wiki/spaces/OT/pages/2097545323/Offboard+Team+Member)_
