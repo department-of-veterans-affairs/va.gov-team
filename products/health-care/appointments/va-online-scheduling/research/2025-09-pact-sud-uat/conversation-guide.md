@@ -249,6 +249,7 @@ While on the sub-tpye page:
   - What do you think about how these mental health appointments are organized?
   - How do the descriptions provided compare to what you expected to be included
 in mental health?
+  - How would you describe the difference between the first two types of mental health care? 
   - Go back to the first list of appointment types. If you were creating a list of appointment types, what changes would you make so it’s easier for someone to
 find the right kind of care?
   - If they don’t mention mental health; specifically probe about the mental
