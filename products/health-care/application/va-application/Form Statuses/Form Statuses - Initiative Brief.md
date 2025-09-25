@@ -30,7 +30,7 @@ This initiative focuses on improving the veteran experience by displaying health
 **What is the problem and who is affected?**
 Veterans applying for VA healthcare currently have limited visibility into their application status outside of the form's introduction page. This creates confusion and anxiety as veterans are unsure of their application progress and what actions they need to take next. The problem affects all veterans who have submitted healthcare applications and are waiting for processing or need to take additional action.
 
-- Current VES statuses of Veterans who can access EZR (this is outside of statuses/attributes required by MHV to log into the my-health space)
+- Current VES statuses of Veterans who **can** access EZR (this is outside of statuses/attributes required by MHV to log into the my-health space)
      - `enrolled`
      - `pending_mt` (this is when pending a means test, financials needed)
      - `pending_other`
