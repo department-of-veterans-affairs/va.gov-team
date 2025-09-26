@@ -42,7 +42,7 @@ sequenceDiagram
     V-->>F: Return availability
     U->>F: Select time slot
 
-    %% Step 5: Confirm Appointment
+    %% Step 6: Confirm Appointment
     F->>V: Submit appointment (EDIPI)
     V->>S: Save appointment
     S-->>V: Appointment confirmed
@@ -53,7 +53,9 @@ sequenceDiagram
 
 ```
 ## Cancellation
+
 ``` mermaid
+sequenceDiagram
     participant U as User (Browser)
     participant F as VASS Application (vets-website)
     participant V as vets-api
