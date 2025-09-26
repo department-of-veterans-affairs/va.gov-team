@@ -121,9 +121,9 @@ Scenario 1 : Valid Input + Eligible Veteran + Case Already Exist in RES
 
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":"1018666199V574819"
+"icn":"<ICN>"
 }'
 
 
@@ -131,9 +131,9 @@ Scenario 2 : Valid Input + Not-Eligible Veteran  + Case Already Exist in RES
 -----------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":"1018616478V531227"
+"icn":"<ICN>"
 }'
 
 Scenario 3 : Valid Input + Eligible Veteran + Case Does Exists in RES
@@ -141,18 +141,18 @@ Scenario 3 : Valid Input + Eligible Veteran + Case Does Exists in RES
 
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":"1018663471V253279"
+"icn":"<ICN>"
 }'
 
 Scenario 4 : Valid Input + Not-Eligible Veteran  + Case Does Exists in RES
 -----------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":"1018666167V127238"
+"icn":"<ICN>"
 }'
 
 
@@ -161,9 +161,9 @@ Scenarion 5 : Invalid Input/No ICN
 ------------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":""
+"icn":"<ICN>"
 }'
 
 
@@ -171,9 +171,9 @@ Scenarion 6: Wrong ICN / ICN not present in MPI
 ----------------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjNDdiNzNjMy04ZTgzLTQ5MzQtODViMS1kOTNhMmNhMjgxN2UifQ.8TqYLKpQKmdK5PrWvS1FeA7nE2a8HU9S0BuTVXIR5Gw' \
+--header 'Appian-API-Key: <API-KEY>' \
 --data '{
-"icn":"XXXX1018616478V531227"
+"icn":"<ICN>"
 }'g Eligibility API Scenario Curls.txt…]()
 
 
