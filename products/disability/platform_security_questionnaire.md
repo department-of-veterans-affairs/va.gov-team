@@ -1,5 +1,3 @@
-> status: in progress, not ready for Platform Security's review
- 
 # Platform Security Questionnaire
 
 From the kickoff meeting invitation:
