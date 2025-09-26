@@ -1,5 +1,5 @@
 ---
-name: 10-10 HE - Research Planning
+name: Health Apps - Research Planning
 about: For 10-10 Healthcare Experience - Research Planning
 title: "[Research] 10-10 Research Planning"
 labels: health-apps-team, research
