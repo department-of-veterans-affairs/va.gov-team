@@ -53,7 +53,7 @@ sequenceDiagram
 
 ```
 ## Cancellation
-```
+``` mermaid
     participant U as User (Browser)
     participant F as VASS Application (vets-website)
     participant V as vets-api
