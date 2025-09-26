@@ -14,19 +14,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     U->>F: Opens link, enters Lastname + DOB
-    F->>V: Sends Lastname + DOB + UUID
-    V->>S: Validate UUID in VASS-API
-    S-->>V: Return user info (EDIPI) or error
-    V->>V: Check Lastname + DOB match
-    V->>V: Generate One-Time Code (OTC)
-    V->>N: Send OTC email (templateId)
-    N-->>U: OTC email sent
-
-    %% Step 3: User enters OTC
-    U->>F: Enters OTC
-    F->>V: Validate OTC
-    V->>V: Check OTC in Redis
-    V-->>F: Return EDIPI if valid
+    Note over U,E: OTC flow (details omitted)
     F-->>U: Proceed to scheduling page
 
     %% Step 4: Scheduling Flow
@@ -52,7 +40,7 @@ sequenceDiagram
     F-->>U: Show confirmation message
 
 ```
-## Cancellation
+### Cancellation
 
 ``` mermaid
 sequenceDiagram
@@ -68,19 +56,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     U->>F: Opens link, enters Lastname + DOB
-    F->>V: Sends Lastname + DOB + UUID
-    V->>S: Validate UUID in VASS-API
-    S-->>V: Return user info (EDIPI) or error
-    V->>V: Check Lastname + DOB match
-    V->>V: Generate One-Time Code (OTC)
-    V->>N: Send OTC email (templateId)
-    N-->>U: OTC email sent
-
-    %% Step 3: User enters OTC
-    U->>F: Enters OTC
-    F->>V: Validate OTC
-    V->>V: Check OTC in Redis
-    V-->>F: Return EDIPI if valid
+    Note over U,E: OTC flow (details omitted)
     F-->>U: Proceed to cancellation page
 
     %% Step 4: Cancellation Flow
@@ -104,4 +80,28 @@ sequenceDiagram
     S-->>V: Return appointment details
     V-->>F: Return appointment details 
     F-->>U: Show appointment details with cancelled message
+```
+### One Time Code Flow
+```mermaid
+sequenceDiagram
+    participant U as User (Browser)
+    participant F as VASS Application (vets-website)
+    participant V as vets-api
+    participant S as VASS-API
+    participant N as VANotify
+    participant E as Email Service
+    %% Step 1: request OTC
+    F->>V: Sends Lastname + DOB + UUID
+    V->>S: Validate UUID in VASS-API
+    S-->>V: Return user info (EDIPI) or error
+    V->>V: Check Lastname + DOB match
+    V->>V: Generate One-Time Code (OTC)
+    V->>N: Send OTC email (templateId)
+    N-->>U: OTC email sent
+
+    %% Step 2: User enters OTC
+    U->>F: Enters OTC
+    F->>V: Validate OTC
+    V->>V: Check OTC in Redis
+    V-->>F: Return EDIPI if valid
 ```
