@@ -5,7 +5,7 @@
 - Epic: [CST Alerts Alignment and Improvements #119389](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119389)
 
 ## Overview
-This document provides a comprehensive audit of all VA alerts used in the Claims Status application. Each alert's "Deviations from Design System" may reference specific sections from the Design System guidelines found in the [Appendix](#appendix-design-system-reference).
+This document provides a comprehensive audit of all VA alerts used in the Claims Status application. A Design System reference created directly from the [VADS Alert doc](https://design.va.gov/components/alert) was also added as an [Appendix](#appendix-design-system-reference) section in order to be able to quickly reference different guidelines in each of the Deviations from Design System sections.
 
 ## Generic Notification Component
 
@@ -13,6 +13,7 @@ A reusable notification system used across multiple pages to display success and
 
 - Component: [src/applications/claims-status/components/Notification.jsx](../../components/Notification.jsx)
 - Type: `<VaAlert>` React component
+  - Allows using props like `onCloseEvent` and `onSetFocus` that aren't available with the `<va-alert>` web component tag
 - Implementation: Uses Redux state management (`setNotification` action) for displaying temporary notifications
 - Code:
   ```jsx
@@ -240,7 +241,7 @@ A reusable notification system used across multiple pages to display success and
 - Location:
   - Component: [src/applications/claims-status/components/ClaimsUnavailable.jsx](../../components/ClaimsUnavailable.jsx)
   - Your claims list: [/your-claims](https://staging.va.gov/track-claims/your-claims) - [YourClaimsPageV2.jsx:154](../../containers/YourClaimsPageV2.jsx)
-  ![Claims Unavailable Alert](<alert-audit-images/claims-unavailable-alert.png>)
+  ![Claims Unavailable Alert](<alert-audit-images/claims-unavailable-alert-claims-list.png>)
   - Claim detail page: /your-claims/:id/* - [ClaimDetailLayout.jsx:117](../../components/ClaimDetailLayout.jsx)
   ![Claim detail page](alert-audit-images/claims-unavailable-alert-claim-detail.png)
   - STEM claim status: /your-stem-claims/:id/status - [StemClaimStatusPage.jsx:53](../../containers/StemClaimStatusPage.jsx)
