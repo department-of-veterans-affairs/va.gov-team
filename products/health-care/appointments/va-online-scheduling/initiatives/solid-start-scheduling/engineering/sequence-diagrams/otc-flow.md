@@ -14,7 +14,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     U->>F: Opens link, enters Lastname + DOB
-    Note over U,E: OTC flow (details omitted)
+    Note over U,E: OTC flow (details below)
     F-->>U: Proceed to scheduling page
 
     %% Step 4: Scheduling Flow
@@ -56,7 +56,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     U->>F: Opens link, enters Lastname + DOB
-    Note over U,E: OTC flow (details omitted)
+    Note over U,E: OTC flow (details below)
     F-->>U: Proceed to cancellation page
 
     %% Step 4: Cancellation Flow
@@ -81,7 +81,9 @@ sequenceDiagram
     V-->>F: Return appointment details 
     F-->>U: Show appointment details with cancelled message
 ```
-### One Time Code Flow
+
+### One Time Code
+
 ```mermaid
 sequenceDiagram
     participant U as User (Browser)
