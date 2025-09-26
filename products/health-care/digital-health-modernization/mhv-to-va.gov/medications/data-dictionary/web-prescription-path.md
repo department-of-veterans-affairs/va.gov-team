@@ -8,6 +8,10 @@
 
 [source code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-medications/containers/PrescriptionDetails.jsx)
 
+[vets-api code for endpoint used](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/my_health/app/controllers/my_health/v1/prescriptions_controller.rb)
+
+Endpoint used `/my_health/v1/prescriptions/{$id}`
+
 | Name/Label | data-test-id | resource.property |
 | ---------- | ------------ | ----------------- |
 | name | `prescription-name` | `rx?.prescriptionName` or `rx?.orderableItem` |

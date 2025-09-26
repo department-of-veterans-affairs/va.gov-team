@@ -1,22 +1,22 @@
 # Medications on VA.gov | API to EHR Map
 
-| API resource.property | MHV resource.property | VistaA | Oracle Health Millennium resource |
-| --------------------- | --------------------- | ------ | --------------------------------- |
-| `prescriptionName`    | `drugName`            |        | (MD) `medicationCodeableConcept.coding.%Get(0).display` |
-| `prescriptionId`      |                       |        |  |
-| `prescriptionNumber`  | `prescriptionNumber`  |        | (MR) `id` |
-| `orderedDate`         | `issueDate`           |        | (MR) `authoredOn` |
-| `sortedDispensedDate` |                       |        |  |
-| `dispStatus`          |                       |        |  |
-| `refillRemaining`     |                       |        | (MR) `dispenseRequest.numberOfRepeatsAllowed` |
-| `expirationDate`      | `expirationCancelDate`|        | (MR) `dispenseRequest.validityPeriod.end` |
-| `trackingList[0].completeDateTime` |          |        |  |
-| `facilityName`        | `divisionName`        |        | (MD) `location.reference` |
-| `sig`                 |                       |        | (MD) `dosageInstruction.%Get(0).text` |
-| `indicationForUse`    | `reason`              |        | (MR) `reasonCode.%Get(0).coding.%Get(0).display` |
-| `quantity`            | `quantity`            |        | (MD) `quantity.value` |
-| `providerFirstName`   | `providerFirstName`   |        | (MR) `$p(requester.display, ", ", 1)` |
-| `providerLastName`    | `providerLastName`    |        | (MR) `$p(requester.display, ", ", 2)` |
+| API resource.property | MHV resource.property | VistA                 | Oracle Health Millennium resource |
+| --------------------- | --------------------- | --------------------- | --------------------------------- |
+| `prescriptionName`    | `drugName`            |   Drug Name           | (MD) `medicationCodeableConcept.coding.%Get(0).display` |
+| `prescriptionId`      | `id`                  |   IEN                 | (MD) `medicationCodeableConcept.coding[0].code` |
+| `prescriptionNumber`  | `prescriptionNumber`  |   Prescription Number | (MR) `id` |
+| `orderedDate`         | `issueDate`           |   Issue Date/Time     | (MR) `authoredOn` |
+| `sortedDispensedDate` | `sortedDispenseDate`  |   Release Date/Time   | (MD) `whenPrepared` |
+| `dispStatus`          | `dispStatus`          |   Status              | (MD) `status` |
+| `refillRemaining`     | `refillsRemaining`    |   Refills Remaining   | (MR) `dispenseRequest.numberOfRepeatsAllowed` |
+| `expirationDate`      | `expirationCancelDate`|   Expiration Date     | (MR) `dispenseRequest.validityPeriod.end` |
+| `trackingList[0].completeDateTime` |          |                       |  |
+| `facilityName`        | `divisionName`        |   Facility Name       | (MD) `location.reference` |
+| `sig`                 | `instructions`        |   SIG                 | (MD) `dosageInstruction.%Get(0).text` |
+| `indicationForUse`    | `reason`              |   Reason              | (MR) `reasonCode.%Get(0).coding.%Get(0).display` |
+| `quantity`            | `quantity`            |   Quantity            | (MD) `quantity.value` |
+| `providerFirstName`   | `providerFirstName`   |   Provider            | (MR) `$p(requester.display, ", ", 1)` |
+| `providerLastName`    | `providerLastName`    |   Provider            | (MR) `$p(requester.display, ", ", 2)` |
 | `orderableItem`       |                       |        |  |
 
 ## Upstream Docs
