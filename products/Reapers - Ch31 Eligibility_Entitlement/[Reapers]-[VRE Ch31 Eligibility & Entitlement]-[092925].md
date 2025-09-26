@@ -131,9 +131,9 @@ Scenario 2 : Valid Input + Not-Eligible Veteran  + Case Already Exist in RES
 -----------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'
 
 Scenario 3 : Valid Input + Eligible Veteran + Case Does Exists in RES
@@ -141,18 +141,18 @@ Scenario 3 : Valid Input + Eligible Veteran + Case Does Exists in RES
 
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'
 
 Scenario 4 : Valid Input + Not-Eligible Veteran  + Case Does Exists in RES
 -----------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'
 
 
@@ -161,9 +161,9 @@ Scenarion 5 : Invalid Input/No ICN
 ------------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'
 
 
@@ -171,9 +171,9 @@ Scenarion 6: Wrong ICN / ICN not present in MPI
 ----------------------------------
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'g Eligibility API Scenario Curls.txt…]()
 
 
