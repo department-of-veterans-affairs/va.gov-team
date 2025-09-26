@@ -121,9 +121,9 @@ Scenario 1 : Valid Input + Eligible Veteran + Case Already Exist in RES
 
 curl --location 'https://stage.res.vaec.va.gov/suite/webapi/chapter31-eligibility-details-search' \
 --header 'Content-Type: application/json' \
---header 'Appian-API-Key: <API-KEY>' \
+--header 'Appian-API-Key: {API-KEY}' \
 --data '{
-"icn":"<ICN>"
+"icn":"{ICN}"
 }'
 
 
