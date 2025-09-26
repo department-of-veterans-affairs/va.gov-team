@@ -10,6 +10,7 @@ This document outlines the key design decisions made for implementing error stat
 - [ADR: 004 - The error message will be attached to the link when in error mode](#ADR-004---The-error-message-will-be-attached-to-the-link-when-in-error-mode)
 - [ADR: 005 - Existing card will be moved to legacy state in Figma](#ADR-005---Existing-card-will-be-moved-to-legacy-state-in-Figma)
 - [ADR: 006 - Card error state component will become Card status](#ADR-006---Card-error-state-component-will-become-card-status)
+- [ADR: 007 - Card status MVP](#ADR-007---Card-status-MVP)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
@@ -164,5 +165,29 @@ A [discussion board](https://github.com/department-of-veterans-affairs/vets-desi
 
 ### Consequences
 - A consequence could be building a status card component that is too restrictive for teams. 
+
+### Open Questions
+
+
+## ADR 007 - Card status MVP
+
+### Status: Accepted
+
+- Date issue raised: 09/25/2025
+- Decision date: 09/25/2025
+
+### Context
+In the teams attempt to make sure any and all possible card status variants could be handled by the first version of this card status, we started churning a bit, and feeling like we would need to account for every possibility. 
+
+### Decision
+Much like the service list item component was created for a specific and limited use case, we can create the new card status variant to meet our initial needs here. To help with this, wireframes were created to help us focus on the elements of a status card.
+
+[Figma link to branch](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/branch/dmfSX2RQxlMwDHe20vt64t/VADS-Component-Library?m=auto&node-id=38925-799&t=VA0cWeAHNrpwxfMa-1)
+
+<img width="1240" height="640" alt="wireframes for card status" src="https://github.com/user-attachments/assets/3b334691-71dc-4608-b22b-c64bc4977b9d" />
+
+
+### Consequences
+- A consequence could be building a status card component that is too restrictive for teams. But, as we can tell for now, this should meet most current use cases. We can expand later.
 
 ### Open Questions
