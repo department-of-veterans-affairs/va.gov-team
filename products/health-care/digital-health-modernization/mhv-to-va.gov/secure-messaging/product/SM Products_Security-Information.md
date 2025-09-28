@@ -10,14 +10,15 @@ Secure Messaging on VA.gov will provide Veterans with the same ability to secure
 **Current Product Brief**: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/oh_recipient_groups/initiative-brief.md
 
 **Contacts (POC):**
-OCTO PO: Patrick Bateman
-PM: Stacy Blackwood
-Lead Dev: Alex Morgun
+**OCTO PO:** Patrick Bateman
+**PM**: Stacy Blackwood
+**Lead Dev:** Alex Morgun
 
 
 **Data flow diagram that shows your product’s relationship to Platform (MHV SM Mobile)**
-**
-Github Link to Technical Information and Diagrams: **
+
+
+**Github Link to Technical Information and Diagrams:**
 
 https://github.com/department-of-veterans-affairs/mhv-developer-docs/tree/main/technical-documentation/secure-messaging
 
@@ -29,9 +30,15 @@ https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/mas
 **List repos maintained by your team, provide links:**
 
 Update Here
+
+
+
  **AWS Resources (MHV-WEB)**
 
 Updated Here
+
+
+
 **Datadog:** Datadog used for analytics. Follows all vets-api/platform analytics standards.
 
  **Tools/Connections/Environment:**
@@ -66,11 +73,11 @@ For More information on Web and Mobile Collobaration: https://department-of-vete
 
 **Contacts:**
 
- ENG Mobile Lead: Jayson Perkins 
- Main Slack Channel: #va-mobile-app channel 
+** ENG Mobile Lead:** Jayson Perkins 
+ **Main Slack Channel**: #va-mobile-app channel 
 
- Product Manager: Stacy Blackwood
- Main Slack Channel: #mhv-secure-messaging
+** Product Manager**: Stacy Blackwood
+** Main Slack Channel**: #mhv-secure-messaging
 
 
 List repos maintained by your team, provide links:
@@ -113,6 +120,9 @@ C. **AWS Resources (MHV-Mobile Product)**
 D. **Tools/Connections/Environment:**
 
 
+**For Mobile:** _The below tools and connection items would be things already covered by vets-api and the va mobile app repos._
+
+
 1. List CI/CD or Infrastructure as Code tools
 2. Describe where each tool is hosted and if they handle PII
 3. List software included in deployment or generate SBOM
@@ -127,8 +137,6 @@ D. **Tools/Connections/Environment:**
 
 
 
-**For Mobile:** _The above tools and connection items would be things already covered by vets-api and the va mobile app repos._
-
 
 
 
@@ -137,6 +145,9 @@ D. **Tools/Connections/Environment:**
 
 
 # SM Clinician (Liferay Portal) Product Information
+
+**Point of Contact:** Clint Wilde (Lead Engineer for SM Team)
+
 
 **SM Clinician Product Information:**
 
