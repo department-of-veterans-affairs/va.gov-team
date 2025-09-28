@@ -1,13 +1,54 @@
 ## MHV-Secure Messaging FE Product (WEB)
 
+**Product Information:**
+
+**Summary:**
+Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today. The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use. Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
+
+**SM Github Page:** https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product
+
+**Current Product Brief**: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/oh_recipient_groups/initiative-brief.md
+
+**Contacts (POC):**
+OCTO PO: Patrick Bateman
+PM: Stacy Blackwood
+Lead Dev: Alex Morgun
+
+
+**Data flow diagram that shows your product’s relationship to Platform (MHV SM Mobile)**
+**
+Github Link to Technical Information and Diagrams: **
+
+https://github.com/department-of-veterans-affairs/mhv-developer-docs/tree/main/technical-documentation/secure-messaging
+
+**SM Interface API Control:**
+
+https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/sm/ICDs
+
+
+**List repos maintained by your team, provide links:**
+
 Update Here
+ **AWS Resources (MHV-WEB)**
+
+Updated Here
+**Datadog:** Datadog used for analytics. Follows all vets-api/platform analytics standards.
+
+ **Tools/Connections/Environment:**
 
 
-List repos maintained by your team, provide links:
+1. List CI/CD or Infrastructure as Code tools
+2. Describe where each tool is hosted and if they handle PII
+3. List software included in deployment or generate SBOM
+4. List all packages/plugins/modules/gems/etc. Include version numbers
+5. Are these connections Internal or External to the VA?
+6. Do you have a POC? Please list
+7. List the connections your team makes/maintains with systems outside the Platform AWS
+8. Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
+9. List the types of PII shared (in each direction) with this connection
+10. Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
 
-**Repos Mobile Team uses**:
 
-A. **List repos used by your team and associated Links**:
 
 
 
@@ -30,10 +71,6 @@ For More information on Web and Mobile Collobaration: https://department-of-vete
 
  Product Manager: Stacy Blackwood
  Main Slack Channel: #mhv-secure-messaging
-
-
-
-
 
 
 List repos maintained by your team, provide links:
@@ -100,3 +137,24 @@ D. **Tools/Connections/Environment:**
 
 
 # SM Clinician (Liferay Portal) Product Information
+
+**SM Clinician Product Information:**
+
+Update Here
+
+
+**Provide a data flow diagram that shows your product’s relationship to Platform**
+
+Architectural Diagrams for SM Clinician: https://github.com/department-of-veterans-affairs/mhv-developer-docs/tree/main/technical-documentation/secure-messaging
+
+
+**Repos for SM Clinician and Liferay**
+
+Point of Contact: Clint Wilde (For SM Team)
+
+
+https://github.com/department-of-veterans-affairs/mhv-smcp-liferaysso-hook
+https://github.com/department-of-veterans-affairs/mhv-smc-liferay-login-jsp-fragment
+https://github.com/department-of-veterans-affairs/mhv-sm-clinician-messagemgmt-portlet
+https://github.com/department-of-veterans-affairs/mhv-sm-clinician-liferay-theme
+https://github.com/department-of-veterans-affairs/mhv-smc-misc-modules
