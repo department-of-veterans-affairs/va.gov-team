@@ -60,8 +60,7 @@ Updated Here
 
 
 ## MHV VAHB Mobile Product (Mobile Application)
-
-**Mobile Product Information**: 
+ 
 
 **Mobile Product Information**: (Secure Messaging Product)
 
