@@ -24,7 +24,7 @@
 - Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
 - Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
-- Open standalone browser windows with staging link: https://staging.va.gov/discharge-upgrade-instructions/introduction
+- Open standalone browser windows with staging link: https://staging.va.gov/find-locations/
 - Paste link into Zoom chat (but don't hit enter)
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except me and the participant
