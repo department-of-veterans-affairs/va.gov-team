@@ -330,24 +330,24 @@ This policy applies to all system users, patients, their personal representative
 
 
 
-1. Breach Investigation \
+1. Breach Investigation 
 
-    * Reviewing who accessed a record after a privacy complaint, security alert, or suspected inappropriate access. \
+    * Reviewing who accessed a record after a privacy complaint, security alert, or suspected inappropriate access. 
 
-2. Regulatory Response \
+2. Regulatory Response 
 
-    * Preparing records for HIPAA audit, ONC certification review, or legal discovery. \
+    * Preparing records for HIPAA audit, ONC certification review, or legal discovery. 
 
-3. Ongoing Monitoring \
+3. Ongoing Monitoring 
 
-    * Spot-checking logs for anomalous patterns, e.g., excessive access to VIP or celebrity records. \
+    * Spot-checking logs for anomalous patterns, e.g., excessive access to VIP or celebrity records. 
 
-4. Disciplinary or Workforce Oversight \
+4. Disciplinary or Workforce Oversight 
 
     * Reviewing staff activity logs during HR or compliance investigations.
 
 
-### 3. Hypotheses (what do we hypothesize are the problems to solve, constraints, etc) \
+## Hypotheses (what do we hypothesize are the problems to solve, constraints, etc) \
 
 
 * Do users understand “Account Activity Log,” or should it be framed as “Who Has Looked at My Record?” \
