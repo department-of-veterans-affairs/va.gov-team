@@ -144,8 +144,7 @@ Alex Seelig, 3.21.2025
 
 - Links to release plans
      - 1st - [Financials release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20section%20V2%3A%20Financials%20-%20Release%20Plan.md)
-     - 2nd - [Dependents release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20section%20V2%3A%20Dependents%20-%20Release%20Plan.md)
-     - 3rd - [Spouse release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20section%20V2%3A%20Spouse%20-%20Release%20Plan.md) 
+     - 2nd - [Spouse release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20section%20V2%3A%20Spouse%20-%20Release%20Plan.md) 
 
 #### Initiative Launch Dates
 - *Target Launch Date*
