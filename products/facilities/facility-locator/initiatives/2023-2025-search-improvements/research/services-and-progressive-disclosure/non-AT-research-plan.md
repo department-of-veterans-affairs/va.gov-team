@@ -144,8 +144,8 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 **Pilot 1**
 
-* Pilot participant email: TBD  
-* Date and time of pilot session: TBD
+* Pilot participant email: skye.anico@va.gov 
+* Date and time of pilot session: 10/1/2025, 12:00 ET
 
 ### Research sessions
 
