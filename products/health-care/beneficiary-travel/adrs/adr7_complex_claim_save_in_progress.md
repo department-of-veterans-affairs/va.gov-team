@@ -1,4 +1,6 @@
-# (In Progress) Complex Claims Save In Progress Investigation and Analysis
+# Recommendation: The VA Forms Save-in-Progress is not suitable for our scenario and we should use the BTSSS API as our source of truth and Save-in-Progress system.
+
+# Complex Claims Save In Progress Investigation and Analysis
 
 ## Problem Statement
 The current Save-in-Progress (SIP) functionality in the forms library only uses a combination of `user_uuid` and `form_id` to identify saved forms. This enforces uniqueness with a database index, meaning each user can only have one in-progress form of a given type at a time.
@@ -9,7 +11,7 @@ If we can overcome this limitation, we could leverage the forms library and VA p
 
 > NOTE: In [this previous ADR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/adrs/adr6_standalone_form_components_sync_save_as_you_go.md) we decided to use the BTSSS API as a SIP instead of the VA forms SIP. Since its been some time since the previous investigation, I have been asked to dig into this issue again to re-evaluate the code base and see if its possible to use the VA forms SIP.
 
-## Open Question:
+### Open Question
 Can the forms library SIP be updated to allow uniqueness to be defined by `user_uuid` + `claim_id` + `form_id` (instead of just `user_uuid` + `form_id`), so that multiple in-progress instances of the same form type can be supported?
 
 ## Investigation into the current Save-in-Progress (SIP) functionality
@@ -53,7 +55,6 @@ To add a SIP feature we will need a different approach. After investigating I th
           - Doesn’t align with the VA-wide "preferred" SIP approach.
           - Requires extra effort for list loops and handling multiple API calls per user action.
           - May require more front-end complexity since we’re not leveraging the built-in SIP utilities in the forms library.
-          - Harder to switch back later if VA Forms SIP becomes more flexible.
 
 ### Further Investigation into using VA forms SIP 
 I talked with the VA Forms team [here](https://dsva.slack.com/archives/C044AGZFG2W/p1758907377218389) and learned that there is a possible way to continue to use the VA Forms SIP functionality. We would create our own controller in `vets-api` that overrides the `form_id` method in the controller and instead of making it a static value, based off of the given `form_id` we would change that method to make it the `form_id + claim_id`. This would make it so that the unique index on the `user_uuid + form_id` would work for our scenario and we could have multiple forms of the same type for a given user.
@@ -77,8 +78,8 @@ Unfortunetly, VA Forms SIP has some additional limitations that we hadn't consid
           - When they open the Mobile App, they would see the pending claim (from BTSSS) but not the expenses/documents (since the Mobile App doesn’t use SIP).
      - **Result: Discrepancies in what the Veteran sees between the web and the Mobile App.**
   
-### Recommendation
-After investigating the VA Forms SIP system and exploring possible workarounds, I have determined that it is not a good fit for Complex Claims. While overriding the `form_id` logic could technically allow multiple in-progress forms per user, SIP introduces significant limitations:
+## Recommendation
+After investigating the VA Forms SIP system and exploring possible workarounds, we have determined that it is not a good fit for Complex Claims. While overriding the `form_id` logic could technically allow multiple in-progress forms per user, SIP introduces significant limitations:
 
 - It creates data discrepancies between the web, Portal, and Mobile App experiences.
 - It requires custom backend and frontend work to bridge gaps, increasing complexity and maintenance.
@@ -86,9 +87,15 @@ After investigating the VA Forms SIP system and exploring possible workarounds, 
 
 Given these constraints, we recommend continuing to use the BTSSS API as the source of truth for Save-in-Progress functionality. This approach:
 
+**Pros:**
 - Aligns with the previous ADR decision.
-- Supports multiple concurrent claims/expenses naturally.
+- No additional backand code changes needed.
+- Supports multiple in-progress forms per user, meeting our core requirement.
 - Avoids discrepancies across platforms (web, Portal, Mobile).
 - Eliminates the need for risky schema changes or custom SIP overrides.
+**Cons:**
+ - Doesn’t align with the VA-wide "preferred" SIP approach.
+ - Requires extra effort for list loops and handling multiple API calls per user action.
+ - May require more front-end complexity since we’re not leveraging the built-in SIP utilities in the forms library.
 
-If VA Forms SIP adds support for multiple saves and Mobile use, we can revisit. For now, BTSSS is the most stable solution.
+> If VA Forms SIP adds support for multiple saves and Mobile use, we can revisit. For now, BTSSS is the most stable solution.
