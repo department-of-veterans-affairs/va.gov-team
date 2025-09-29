@@ -409,18 +409,18 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 ## Thank You and Closing - 3 minutes
 
-- How was this process overall for you?
+- How was this process overall for you? "Adventerous...we had basically a lot of technical issues...the process seemed...like a typical process, just basics...simple enough." 
 
-- Was there anything you would change about this process?
+- Was there anything you would change about this process? "The home access, make that more accessible or an AI or chatbot like thing...sometime you only need like a 'how do I do this...'..." 
 
-- What parts required the most concentration?
+- What parts required the most concentration? "Listening to the forms, there's a lot of information...The titles, the headings, you just go from heading to heading..." 
 
-- Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+- Do you feel you would like to complete forms using the mobile app in the future? Why or why not? "I've done it with the BVA, they have someone who can do it with me...they know how to word everything, how to put it down...simplier to get assistace, especially with a claim...you don't always know exactly what you need." "Some things it's better to let a professional do than yourself" 
 
 
 **Are you still okay if we use any video or audio clips from this session?** 
-- *(yes / no)*
-- *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
+- *(**yes** / no)*
+- *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip? (Skipped question) 
 
 **We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide. 
 
