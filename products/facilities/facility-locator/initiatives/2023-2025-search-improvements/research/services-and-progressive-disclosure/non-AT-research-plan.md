@@ -84,7 +84,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 
 * [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements/research/services-and-progressive-disclosure/conversation-guide.md)  
 * [Link to prototype](https://staging.va.gov/find-locations/)
-* Link to Research Notetaking Mural
+* [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759158067795/d2b71786adabc363e1699c03f159376c501bdf6c)
 
 ### Recruitment criteria
 
@@ -161,13 +161,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | Team Availability | Time Slots (ET) |
 | :---- | :---- |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| 10/6/25 | 10:00-14:15 |
+| 10/7/25 | 10:00-11:30, 14:30-17:00 |
+| 10/8/25 | 10:00-17:30 |
+| 10/9/25 | 10:00-11:30, 15:00-17:30 |
+| 10/10/25 |10:00-16:00 |
+| 10/14/25 | 9:00-14:00 |
 
 ## **Team Roles**
 
