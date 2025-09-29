@@ -3,7 +3,6 @@
 ## Resources
 - **Release plan:** [Update Start a New Message Flow for Oracle Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/Release%20Plan-OHSMFlow-MVP.md)
 - **Datadog dashboards:** [MHV Secure Messaging Metrics](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics) | [Additional section](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics?tile_focus=8373464859678247)  
-  _Note: latency and performance metrics are tracked on engineering dashboards, not duplicated here._
 - **CSAT data:** via VSignals / Medallia pulls, filtered to Secure Messaging URLs (DOMO if needed).
 - **GA4 Exploration (SM):** [SM_New Message Flow (post launch)](https://analytics.google.com/analytics/web/?authuser=3#/analysis/a50123418p419143770/edit/7n8e1KjwTWi4yp506UC0DQ)  
   _Note: GA4 data is on a 48-hour delay._
