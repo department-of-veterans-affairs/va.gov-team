@@ -98,7 +98,7 @@ underserved_groups_missing:
 **Contacts:** Liza McRuer, Kristen Faiferlick
 
 **[Link to Research Readout](link-here)**  
-*Add a link to your research readout deck, if available.*
+*Link TBD - Report in progress.*
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
