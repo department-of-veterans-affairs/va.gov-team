@@ -81,10 +81,14 @@ _(Collaboration between Design + Eng Needed)_
 - For future versions, what would be required to allow a user to skip ahead to future sections without fill out out all sections before it?
 
 ## UAT Scenarios [WIP]
-Navigating to previously filled out sections and checking if info has been saved.
-- User fills out a few pages of Mental Health section. Clicks navigation to "Veteran Details." Clicks navigation to "Mental Health". Was information on Mental Health section saved?
+**Navigating to previously filled out sections and checking if info has been saved.**
+- User fills out a few pages of "Mental Health" (Step 3). Clicks navigation to "Veteran Details" (Step 2). Clicks navigation back to "Mental Health". Was information on Mental Health section saved?
 
-Clicking "Finish this application later" and understanding how this might impact saving.
+**Clicking "Finish this application later" and understanding how this might impact saving.**
+
+**Logging out and logging back in**
+
+**Review and Submit page: User clicks "Edit" button to edit info on that page. Does the info get edited on the actual original page? What if they use navigation compoenent to navigate back to a section?**
 
 
 ---
