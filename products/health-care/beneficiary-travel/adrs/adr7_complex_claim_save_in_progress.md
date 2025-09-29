@@ -76,3 +76,19 @@ Unfortunetly, VA Forms SIP has some additional limitations that we hadn't consid
           - A Veteran could create a claim on the web (saved in BTSSS) and begin filling expenses or documents (saved in SIP).
           - When they open the Mobile App, they would see the pending claim (from BTSSS) but not the expenses/documents (since the Mobile App doesn’t use SIP).
      - **Result: Discrepancies in what the Veteran sees between the web and the Mobile App.**
+  
+### Recommendation
+After investigating the VA Forms SIP system and exploring possible workarounds, I have determined that it is not a good fit for Complex Claims. While overriding the `form_id` logic could technically allow multiple in-progress forms per user, SIP introduces significant limitations:
+
+- It creates data discrepancies between the web, Portal, and Mobile App experiences.
+- It requires custom backend and frontend work to bridge gaps, increasing complexity and maintenance.
+- It does not align cleanly with how Complex Claims integrates with the BTSSS API, which remains our system of record.
+
+Given these constraints, we recommend continuing to use the BTSSS API as the source of truth for Save-in-Progress functionality. This approach:
+
+- Aligns with the previous ADR decision.
+- Supports multiple concurrent claims/expenses naturally.
+- Avoids discrepancies across platforms (web, Portal, Mobile).
+- Eliminates the need for risky schema changes or custom SIP overrides.
+
+If VA Forms SIP adds support for multiple saves and Mobile use, we can revisit. For now, BTSSS is the most stable solution.
