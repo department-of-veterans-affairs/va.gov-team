@@ -10,7 +10,7 @@
 
 ---
 
-## Summary of Findings (Placeholder)
+## Summary of findings (placeholder)
 
 - **Overall completion rate:** TBD% (new flow) vs TBD% (base)  
 - **CSAT trend:** TBD (no change / increase / decrease)  
@@ -29,14 +29,14 @@
 
 ## Stage A – **5% of users**
 
-### Medallia Feedback
+### Medallia feedback
 - Responses: **TBD**  
 - CSAT (avg/distribution): **TBD**  
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
 
-### Google Analytics
+### Google analytics
 | Metric Name | Value |
 |---|---|
 | Unique users (new flow) | TBD |
@@ -61,14 +61,14 @@
 
 ## Stage B – **25% of users**
 
-### Medallia Feedback
+### Medallia feedback
 - Responses: **TBD**  
 - CSAT (avg/distribution): **TBD**  
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
 
-### Google Analytics
+### Google analytics
 | Metric Name | Value |
 |---|---|
 | Unique users (new flow) | TBD |
@@ -93,14 +93,14 @@
 
 ## Stage C – **50% of users**
 
-### Medallia Feedback
+### Medallia feedback
 - Responses: **TBD**  
 - CSAT (avg/distribution): **TBD**  
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
 
-### Google Analytics
+### Google analytics
 | Metric Name | Value |
 |---|---|
 | Unique users (new flow) | TBD |
@@ -125,14 +125,14 @@
 
 ## Stage D – **75% of users**
 
-### Medallia Feedback
+### Medallia feedback
 - Responses: **TBD**  
 - CSAT (avg/distribution): **TBD**  
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
 
-### Google Analytics
+### Google analytics
 | Metric Name | Value |
 |---|---|
 | Unique users (new flow) | TBD |
@@ -157,14 +157,14 @@
 
 ## Stage E – **100% of users**
 
-### Medallia Feedback
+### Medallia feedback
 - Responses: **TBD**  
 - CSAT (avg/distribution): **TBD**  
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
 
-### Google Analytics
+### Google analytics
 | Metric Name | Value |
 |---|---|
 | Unique users (new flow) | TBD |
@@ -187,7 +187,7 @@
 
 ---
 
-## Final Summary (once rollout completes)
+## Final summary (once rollout completes)
 
 | Stage | % Users | Unique Users | Completion Rate | Avg Time | Error Rate | Notes |
 |---|---|---|---|---|---|---|
