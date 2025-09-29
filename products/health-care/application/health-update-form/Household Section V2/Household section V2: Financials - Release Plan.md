@@ -45,24 +45,6 @@ Before enabling your feature toggle in production, you'll need to:
 - Results #1: Reduction of time spent by 10%
 - Results #2: Reduction of bounce rates by 10%
 
-|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Veteran income page views| 6,533 | N/A | N/A|
-|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
-|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
-
-|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Spouse income page views| 3,431 | N/A | N/A|
-|Spouse income page Avg time per session| 47s | TBD | TBD|
-|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
-
-|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Deductibles views| 4,604 | N/A | N/A|
-|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
-|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
-
 ### Stage A: Canary 5% of users
 #### Planning
 - Length of time: **9/30/2025-10/1/2025**
