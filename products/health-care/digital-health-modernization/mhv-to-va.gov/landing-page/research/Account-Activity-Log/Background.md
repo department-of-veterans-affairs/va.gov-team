@@ -268,16 +268,11 @@ This policy applies to all system users, patients, their personal representative
 
 #### Laws that inform:
 
-
-
 * ONC 170.315(d)(2)/(3) requires recording auditable events per 170.210(e), default-on logging, tamper detection, and audit reports. ASTM E2147 defines the content and operational expectations those sections reference. \
 
 * ONC also requires logging TPO disclosures (170.210(d)). \
 
 * For patient portals, ONC’s VDT criterion expects an activity history visible to the patient (view/download/transmit metadata).
-
-
----
 
 
 ## Use Cases (in what situations a user might need this)
@@ -353,8 +348,6 @@ This policy applies to all system users, patients, their personal representative
 
 
 ### 3. Hypotheses (what do we hypothesize are the problems to solve, constraints, etc) \
-
-
 
 
 * Do users understand “Account Activity Log,” or should it be framed as “Who Has Looked at My Record?” \
