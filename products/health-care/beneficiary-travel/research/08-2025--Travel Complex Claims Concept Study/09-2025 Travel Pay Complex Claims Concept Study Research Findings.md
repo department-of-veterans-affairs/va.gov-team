@@ -77,28 +77,18 @@ recommendations:
   - Recommendation 3: Communication around pre-submission requirements and post-submission expectations
   - Recommendation 4: Provide clear definitions for mileage coverage, documentation, and estimated reimbursement
   - Recommmendation 5: User acceptance testing plan for complex travel claims MVP
-
-kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
-outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
-opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - Since this was an initial concept study to explore the mental model of how users approach reimbursement, some demographics were not specifically recruited for or tracked (although some users did reference their assistive technology).   
+  - Due to external timing constraints, there will be UAT completed after the complex claims MVP launch in winter 2025.
+  - In 2026, we plan to further investigate enhancements, as well as conduct additional research around community care, appointments that are missing from the system, and challenges to mileage.
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
-secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - Group 1: Cognitive disability   
+  - Group 2: Immigrant origin
+  - Group 3: Expat
+  - Group 4: Are Black or African American; Hispanic, Lation, or Spanish origin; Biracial; Native Hawaiian or other Pacific Islander; First Nations; Native, American Indian, or Alaska Native
+  - Group 5: LGBTQ
 synthesis_tools_used:
-  - "Mural"
-  - "Affinity Mapping"
+  - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1756307703654/a183b71c28a73c5d1982945feeed4dd6fc281e8e)
 ---
 
 # Travel Pay Complex Claims Concept Study Research Findings 
