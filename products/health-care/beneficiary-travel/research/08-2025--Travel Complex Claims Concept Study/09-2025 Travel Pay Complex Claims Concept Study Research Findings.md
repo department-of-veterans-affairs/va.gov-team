@@ -65,12 +65,19 @@ demographics:
     sighted_keyboard: 0
     captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
+  - Finding 1: All participants (13 of 13) successfully navigated both prototypes and provided positive feedback.   
+  - Finding 2: Overall, more participants (7 of 13) expressed a preference for Version B.
+  - Most participants (10 of 13) voiced concerns about gathering and uploading receipts.
+  - Most participants (9 of 13) reported some confusion about wording, especially related to ‘mileage’ and their total estimated payment.
+  - Participants expressed a desire for continued communication and visibility into their claim after submission.   
   # etc.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - Recommendation 1: Begin  the reimbursement claim  by prompting  users to select expense types  from a list   
+  - Recommendation 2: Utilize existing patterns for receipt upload and reduce requirements for user input
+  - Recommendation 3: Communication around pre-submission requirements and post-submission expectations
+  - Recommendation 4: Provide clear definitions for mileage coverage, documentation, and estimated reimbursement
+  - Recommmendation 5: User acceptance testing plan for complex travel claims MVP
+
 kpi_alignment:
   - "KPI 1"
   - "KPI 2"
