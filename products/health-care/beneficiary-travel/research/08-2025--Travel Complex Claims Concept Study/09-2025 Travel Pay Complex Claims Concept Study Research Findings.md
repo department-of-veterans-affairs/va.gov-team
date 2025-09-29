@@ -253,12 +253,12 @@ Our goals were to:
 
 ## Recommendations
 
-1. **Recommendation:** Initiate reimbursement claims by prompting expense category selection
+1. **Recommendation:** Begin  the reimbursement claim  by prompting  users to select expense types from a list
    - Our study revealed that a majority of participants (7 of 13) preferred Version B, which prompted users to select and submit receipts organized by expense category. Participants appreciated clarity in the process and found the guidance around expenses was helpful for navigating the claim. Users cited the organizational benefits and the ability to anticipate some of the required documentation.
-   - We expect that beginning the travel reimbursement claim workflow by allowing users to first select the expense categories applicable to their claim (e.g. mileage, lodging, meals, etc) will also better integrate with the existing SMOC flow. Once categories are selected, we will guide users through submitting receipts and relevant information for each category. This approach aligns with user preferences, supports organizational clarity, and sets expectations for the documentation requirements. 
+   - We expect that beginning the travel reimbursement claim workflow by allowing users to first select the expense categories applicable to their claim (e.g. mileage, lodging, meals, etc) will also better integrate with the existing simple, mileage-only claim flow. Once categories are selected, we will guide users through submitting receipts and relevant information for each category. This approach aligns with user preferences, supports organizational clarity, and sets expectations for the documentation requirements. 
 
-2. **Recommendation:** Utilize existing patterns for receipt upload and reduce requirements for user input **(Note: If this recommendation feels more like a next step, we can move it there).**
-   - To address potential user frustration related receipt uploads - a policy that cannot be changed at this time - we recommend using familiar patterns, such as the multi-file input component, to help alleviate user concerns and reduce the cognitive load associated with the upload process.
+2. **Recommendation:** Utilize existing patterns for receipt upload and reduce requirements for user input   
+   - To address potential user frustration related receipt uploads, we recommend using familiar patterns, such as the multi-file input component, to help alleviate user concerns and reduce the cognitive load associated with the upload process.
    - Additionally, we’re actively investigating which metadata fields are essential for the processing of receipts. If possible, we hope to further simplify the process for users, ensuring only minimum required information is collected.
 
 3. **Recommendation:** Provide clear communication around pre-submission requirements and post-submission expectations
@@ -267,7 +267,7 @@ Our goals were to:
    - Post-submission, we will confirm claim receipt, with a confirmation number (which is currently already standard as part of simple mileage only claims), and direct users to claims in progress to view ongoing status. If users require additional assistance, we will direct them to the appropriate phone numbers, or at a minimum, a general VA support line or link to a webpage with phone numbers for local offices.
    - Email, text, and push notifications are part of the long-term plan for travel pay communications.
 
-4. **Recommendation:** Use clear language for mileage requirements and estimated reimbursement   
+4. **Recommendation:** Provide clear definitions for mileage coverage, documentation, and estimated reimbursement   
    - Our research identified confusion among participants regarding mileage—specifically, how it is calculated and what documentation is required. Several participants voiced uncertainty about terminology and requirements for submitting mileage as part of their claim. Participants who had never filed before were unsure if “mileage” calculations included gas or if they needed gas receipts in addition to mileage information.
    - We will reduce user confusion by ensuring that all instructions and terminology, especially related to mileage and estimated reimbursement, are presented in clear, accessible language. Explicitly defining what mileage covers, what documentation is required, and how the deductible is calculated, will ensure that users are prepared for submitting their claims.
 
@@ -428,72 +428,40 @@ _List all groups in red from the spreadsheet_
 * Immigrant origin  
 * Expat
 * Are Black or African American; Hispanic, Lation, or Spanish origin; Biracial; Native Hawaiian or other Pacific Islander; First Nations; Native, American Indian, or Alaska Native
-* LGBTQ
+* LGBTQ+
 
-_[insert screenshot of completed recruitment checker]_
+![recruitment tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/08-2025--Travel%20Complex%20Claims%20Concept%20Study/Recruitment%20tracker%20screenshot.png)
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+### Underserved groups in Travel Pay Complex Claims Concept Study
 
-<details>
-  <summary>A more accessible version of the table in the above image</summary>
-   
-_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
-
-
-### Underserved groups in [Study name]
-
-**Final # of participants:** --  
-**# of AT users:** --  
-**# of no shows:** --
+**Final # of participants:** 13 (15 recruited)
+**# of AT users:** 0  
+**# of no shows:** 2
 
 #### General
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Age 55-64+ | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Cognitive Disability | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile user | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Rural | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| No degree | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Other than honorable | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Immigrant origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Women | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Expat (living abroad) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
+* Age 55-64+: Target 8 or 50%; 10 participants were over the age of 55
+* Cognitive disability: Target 8 or 50%; zero participants had a recorded cognitive disability, but 1 participant mentioned a TBI during conversation
+* Mobile user: Target 8 or 50%; 5 participants used mobile during this study
+* Rural: Target 4 or 25%; 8 participants were rural
+* No degree: Target 4 or 25%; 3 participants had no degree
+* Other than honorable: 4 or 25%; 0 participants reported other than honorable discharge
+* Immigrant origin: 17% or 3; 0 participants reported being of immigrant origin
+* Women: 10% or 2; 2 participants identified as women
+* Expat: .4% or 1; 0 participants reported living abroad
 #### Race
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Black or African American | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hispanic, Latino, or Spanish origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Biracial | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Asian | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native Hawaiian or other Pacific Islander | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| First Nations (Canada) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native, American Indian or Alaska Native | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
+* Black or African American: Target 3 or 15%; 1 participant
+* Hispanic, Latino, or Spanish origin: Target 12% or 2; 0 participants
+* Biracial: Target 3.9% or 1; 0 participants
+* Asian: Target 2.7% or 1; 1 participant
+* Native Hawaiian or other Pacific Islander: Target .3% or 1; 0 participants
+* First Nations (Canada): Target N/A or 1; 0 participants
+* Native, American Indian, or Alaska Native: Target 1.6% or 1; 0 participants    
 #### LGBTQ+
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Gay, lesbian, or bisexual | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Transgender | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Nonbinary, gender fluid, gender queer, Two-Spirit | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+* Gay, lesbian, or bisexual: Target 1; 0 participants
+* Transgender: Target 1; 0 participants
+* Nonbinary, gender fluid, gender queer: Target 1; 0 participants
 
 #### Assistive Tech (AT)
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Beginner AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Desktop Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Magnification/Zoom | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Speech Input Tech (Siri, Dragon) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hearing Aids | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Sighted Keyboard | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Captions | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Switch Device | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+* No users used assistive tech, but 1 participant mentioned magnification on their smartphone
 
  </details>
