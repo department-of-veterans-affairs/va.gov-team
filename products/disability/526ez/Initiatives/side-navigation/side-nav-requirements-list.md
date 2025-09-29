@@ -77,6 +77,7 @@ _(Collaboration between Design + Eng Needed)_
 - Determine which page within a section will each Side Nav option route. Is there a clear landing page of each of the 6 sections?
 - Research rendering of sidenav in mobile version. Consider collapsible navigation for smaller screens and its effect on usability.
 - What content shows up on the "Review and Submit" page if the user is able to navigate to it via the side nav before finishing the form? Are accordions present, but empty? How does it impact the "edit" on page fuctionality on the "Review and Submit" page?
+- What is the relationship between the Navigation component and Progress Bar component? What do each uniquely offer?
 - For future versions, what would be required to allow a user to skip ahead to future sections without fill out out all sections before it?
 
 ## UAT Scenarios [WIP]
