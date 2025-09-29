@@ -1,7 +1,7 @@
 # Plan for DSLogon Credential Deprecation 
 
 ## Problem Summary  
-VA is currently maintaining outdated sign-in options—such as **DS Logon**—that are **confusing to users** and **not aligned with federal digital identity standards**. Veterans who previously used these legacy credentials now need to transition to modern sign-in methods: **Login.gov** or **ID.me**.
+VA is currently maintaining outdated sign-in options—such as** DS Logon—that are confusing to users and not aligned with federal digital identity standards. Veterans who previously used these legacy credentials now need to transition to modern sign-in methods: Login.gov or ID.me.
 
 Continuing to offer multiple, redundant credentials leads to:
 - Increased support issues and confusion for users
