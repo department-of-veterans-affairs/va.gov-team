@@ -1,4 +1,4 @@
-# Account Activity Log (AAL) Access Policy
+# Account Activity Log (AAL) Access Policy, Use cases and Hypotheses
 
 **Purpose**
 
