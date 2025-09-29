@@ -115,7 +115,8 @@ or API request, um…
 method, or if that's still local?
 
 **Brandon Cooper 12:39:56**
-Here is the platform api csrf PR I closed in case you ever want to come back to it
+[Here is the platform api csrf PR I closed in case you ever want to come back to it](https://github.com/department-of-veterans-affairs/vets-website/pull/37573)
+
 It's… so, we… we use it in our form still, and there's a backend
 endpoint, so it's not hitting… I think we were hitting the…
 what was it called? Like the…
@@ -186,8 +187,8 @@ those 403s.
 
 **Brandon Cooper 12:41:53**
 And then probably the other thing that's kind of, like, in a not-fully-done state was that…
-The form PDF
-change detection job.
+
+The form PDFchange detection job.
 Um, which was basically, you know, where you can get a monitor for when a PDF version has changed.
 Um, so that has a sidekick job.
 And it… we validated it, and it seems to work as we would expect.
@@ -195,6 +196,7 @@ Um, and it does run daily in staging right now.
 And there are monitors set up for staging for forms, which…
 The staging data is kind of dated, but I didn't want to turn it on in prod yet.
 Um, just because I had been kind of waiting to validate that.
+
 So, I would say…
 I guess you guys can decide if this is something that you wanted to try to continue on, or if it's…
 Like, because it seemed like there was probably some value there.
@@ -204,6 +206,7 @@ But… but it does have a description.
 Depend on what it does for…
 the IV's, you know, for the other people who hadn't really seen any of it, basically it…
 the… the Lighthouse Forms API, like, so…
+
 To take it to the beginning, right? We wanted a way to notify our team when a PDF
 has changed from, you know, Lighthouse.
 Um, because we kind of ran into a couple issues. I know when I started, like,
@@ -222,6 +225,7 @@ It's got just a, like, a hash.
 That's set for it, and then the idea was to store it in Redis, and then it would check it every day to see if it changes, and when it changes, then you could
 You could add a monitor and data dog off of it to notify your team in Slack.
 To be like, oh, hey, there's a change here.
+
 So, um, it's currently behind a toggle that is turned off in production, but it does run daily.
 and staging, but, like, right now, anyone could hook up into it for a form if they wanted.
 And then they would get notified if it got changed.
@@ -233,6 +237,7 @@ what you want to do with that, if you want to keep it around and try to do somet
 Isn't that valuable?
 But it is not currently running in production.
 That's all I'll say.
+
 Any questions on that, or concerns?
 
 **Brandon Cooper 12:45:13**
