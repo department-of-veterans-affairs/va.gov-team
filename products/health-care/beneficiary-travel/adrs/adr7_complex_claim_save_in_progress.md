@@ -1,6 +1,6 @@
-# Recommendation: The VA Forms Save-in-Progress is not suitable for our scenario and we should use the BTSSS API as our source of truth and Save-in-Progress system.
-
 # Complex Claims Save In Progress Investigation and Analysis
+
+> **Recommendation: The VA Forms Save-in-Progress is not suitable for our scenario and we should use the BTSSS API as our source of truth and Save-in-Progress system.**
 
 ## Problem Statement
 The current Save-in-Progress (SIP) functionality in the forms library only uses a combination of `user_uuid` and `form_id` to identify saved forms. This enforces uniqueness with a database index, meaning each user can only have one in-progress form of a given type at a time.
