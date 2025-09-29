@@ -87,8 +87,6 @@ underserved_groups_missing:
   - Group 3: Expat
   - Group 4: Are Black or African American; Hispanic, Lation, or Spanish origin; Biracial; Native Hawaiian or other Pacific Islander; First Nations; Native, American Indian, or Alaska Native
   - Group 5: LGBTQ
-synthesis_tools_used:
-  - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1756307703654/a183b71c28a73c5d1982945feeed4dd6fc281e8e)
 ---
 
 # Travel Pay Complex Claims Concept Study Research Findings 
