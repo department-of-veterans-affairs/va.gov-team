@@ -29,41 +29,25 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 
 <img width="784" alt="Screenshot 2025-06-03 at 1 56 06 PM" src="https://github.com/user-attachments/assets/30ff9af6-a27b-49c4-8b61-f640b6c21f4a" />
 
-**Inbox:**
-- **H1**: Messages: Inbox
-- **URL**: https://www.va.gov/my-health/secure-messages/inbox
-- **Breadcrumb**: VA.gov home > My HealtheVet > Messages: Inbox
+## Main product pages
+| Page title |URL | Breadcrumb | Title tag |
+|----|----------|-------------|-----------|
+|Messages: Inbox | va.gov/my-health/secure-messages/inbox | VA.gov home > My HealtheVet > Messages: Inbox | Messages: Inbox \| Veterans Affairs |
+|Messages: Sent | va.gov/my-health/secure-messages/sent | VA.gov home > My HealtheVet > Messages: Sent | Messages: Sent \| Veterans Affairs |
+|Messages: Drafts | va.gov/my-health/secure-messages/drafts | <- Back | Messages: Drafts \| Veterans Affairs |
+|Messages: Trash | va.gov/my-health/secure-messages/trash | <- Back | Messages: Trash \| Veterans Affairs |
+|Messages: More folders | va.gov/my-health/secure-messages/folders | VA.gov home > My HealtheVet > Messages: More folders | Messages: More folders \| Veterans Affairs |
 
-**Sent**:
-- **H1**: Messages: Sent
-- **URL**: https://www.va.gov/my-health/secure-messages/sent
-- **Breadcrumb**: VA.gov home > My HealtheVet > Messages: Sent
-
-**Drafts**:
-- **H1**: Messages: Drafts
-- **URL**: https://www.va.gov/my-health/secure-messages/drafts
-- **Breadcrumb**: VA.gov home > My HealtheVet > Messages: Drafts
-
-**Trash**:
-- **H1**: Messages: Trash
-- **URL**: https://www.va.gov/my-health/secure-messages/trash
-- **Breadcrumb**: VA.gov home > My HealtheVet > Messages: Trash
-
-**More folders**:
-- **H1**: Messages: More folders
-- **URL**: https://www.va.gov/my-health/secure-messages/folders
-- **Breadcrumb**: VA.gov home > My HealtheVet > Messages: More folders
-
-**Start a new message flow**:
-- **URLs**:
-  - Interstitial page `https://www.va.gov/my-health/secure-messages/new-message`
-  - COMING SOON Recent recipients page `https://www.va.gov/my-health/secure-messages/new-message/recent`
-  - NEW Select care team `https://www.va.gov/my-health/secure-messages/new-message/select-care-team`
-  - NEW Can't find my care team help page `https://www.va.gov/my-health/secure-messages/new-message/care-team-help`
-  - NEW Start message page `https://www.va.gov/my-health/secure-messages/new-message/start-message`
-  - Edit contact list page `https://www.va.gov/my-health/secure-messages/new-message/contact-list`
-- **Breadcrumbs**: <- Back
-
+## New message task flow
+|Page title |URL | Breadcrumb | Title tag |
+|----|----------|-------------|-----------|
+|[Interstitial page] Only use messages for non-urgent needs | va.gov/my-health/secure-messages/new-message | VA.gov home > My HealtheVet > Start a new message  | Start A New Message \| Veterans Affairs |
+|Recent care teams | va.gov/my-health/secure-messages/new-message/recent | <-Back | Recent Care Teams - Start Message\| Veterans Affairs |
+| Select care team | va.gov/my-health/secure-messages/new-message/select-care-team | <-Back | Select Care Team - Start Message\| Veterans Affairs |
+| Can't find your care team? | va.gov/my-health/secure-messages/new-message/care-team-help | <-Back | Care Team Help - Start Message\| Veterans Affairs |
+| Select care team | va.gov/my-health/secure-messages/new-message/select-care-team | <-Back | Select Care Team - Start Message\| Veterans Affairs |
+| Messages: Contact list | va.gov/my-health/secure-messages/new-message/contact-list | <-Back | Messages: Contact List\| Veterans Affairs |
+| Start message| va.gov/my-health/secure-messages/new-message/start-message | <-Back | Start Message\| Veterans Affairs |
  
  ## <a name="redirects">Redirects</a>
 
