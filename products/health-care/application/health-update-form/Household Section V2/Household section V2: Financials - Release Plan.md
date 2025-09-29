@@ -8,7 +8,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-|ezr_form_prefill_with_providers_and_dependents | Adds insurance providers and dependents to ezr prefill data |
+|ezr_form_prefill_with_providers_and_dependents | Display previously entered financial data as reference for Veterans |
 
 
 ## Step 2: Validation
