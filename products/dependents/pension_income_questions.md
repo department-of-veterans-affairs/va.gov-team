@@ -16,28 +16,34 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ### Sample questions
 
+#### Q0
 ![image](https://github.com/user-attachments/assets/735d560d-1623-4045-a9c7-d1ed674bc112)
 - Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", BOTH of the following two questions will be conditionally revealed later in the form flow. The Veteran is required to answer those questions. If the API is working and can locate the Veteran, this question will not appear.
 
 -----
-
+#### Q1
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
-- This question is asked when ~~every dependent branch in the form~~ a dependent is being added. The questions are not asked with a Veteran is only submitted a 674 or removing a dependent.
-- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS, but Sanja opted to [put that work on hold](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112500).
+- This question is asked when a dependent is being added. The questions are not asked when a Veteran is only submitted a 674 or removing a dependent.
+- If yes, the claim will continue through to RBPS.
+   - RBPS did ask VA.gov to off-ramp the claim for manual review review because the VA needs a complete income/asset picture via a 21P-0969 or 21P-8416
 - If no, the claim will continue through to RBPS
 
 -----
-
+#### Q2
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
-- This question is asked at the end of ~~every form branch~~ all dependent addition branches.
-- If yes, VA.gov will off-ramp the claim for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
-- If no, the claim will continue through to RBPS
+- This question is asked at the end of all dependent addition branches.
+- NOTE: VA.gov originally implemented language that asked if the Veteran's net worth was "greater than" the allowed limit because RBPS is looking for a "no" answer to auto-process these claims, but Jennifer Feuer from Pension and Fiduciary Services flagged that PF&S originally wanted the question to ask if the net worth was "less than" the allowed amount and RBPS would auto process claims that answered "yes". Given the discrepency between the original requirements (yes answer) and what RBPS implemented (no answer). The decision was made by Sanja Bajovic and Jennifer Feuer to align the language of the questions on VA.gov to match what was implemented in the VA Call Center's CRM-UDO system and ask the Veteran if their net worth was "less than" the allowed amount. VA.gov will then reverse the question's answer in the json file that is sent to RBPS to align with the logic implemented in RBPS. If a Veteran indicates that "yes" their net worth is less than the allowed amount, VA.gov will reverse the answer and send a "no" to RBPS, which will allow RBPS to auto process the claim (as long as the answer to Q1 was also "no". Factors that led to this decision:
+   - The VA Call Center's CRM-UDO system implemented the "less than" question in 2022, but it was never successful in sending the answers to RBPS (for unknown reasons). At the time VA.gov launched these pension-related questions in 2025, CRM-UDO did not have a maintenance team, and there was no timeline on when it may start sending values to RBPS.
+   - RBPS has a backlog of issues and it was unclear when/if it could fix the implementation of this feature and correct the logic to look for a Y answer to the net worth question.
+- If no, the claim will continue through to RBPS, but VA.gov will flip the answer and send a Y to RBPS for reasons outlined above.
+   - RBPS did ask VA.gov to off-ramp the claim for manual review review because the VA needs a complete income/asset picture via a 21P-0969 or 21P-8416, but Sanja opted to [put that work on hold](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112500).
+- If yes, the claim will continue through to RBPS, but VA.gov will flip the answer and send a N to RBPS for reasons outlined above.
 -----
 
-From our Pension and Fiduciary Service SME, Jennifer Feuer, about the original intent/design:
+From our Pension and Fiduciary Service SME, Jennifer Feuer, about the ORIGINAL intent/design:
 > An RBPS auto pension dependency claims processing option has to be a NO to Question 1 and a YES to Question 2 to automatically be processed through RBPS.  The submitter must state that the dependent does NOT have any income for the last 365 days AND that the household net worth IS less than the current threshold.  We did that on purpose so that it wasn’t just all the same answer, and we can make sure the submitter is providing the right responses – essentially making it so that the submitter is having to read and really respond correctly.
 
-**Note:** For an unknown reason, the question regarding net worth was implemented differently than Jennifer originally intended and asks if net worth is GREATER THAN instead of LESS THAN the allowed amount. Because of this, RBPS is expecting a "no" answer rather than a "yes" answer in order to auto process. So, a "no" answer to both income questions will allow a claim to auto-process in RBPS because the Veteran's income does not increase by adding the new dependent.
+**Note:** For an unknown reason, RBPS implemented logic that looks for a "no" answer to the net worth question to auto-process the claim rather than a "yes" answer. Because of this VA.gov originally implemented the question to ask if net worth is GREATER THAN the allowed amount, but the feature was never fully launched in production. The questions were implemented correctly in the VA Call Center's CRM-UDO system, where it asks the Veteran if their net worth is less than the allowed amount. To align with the Call Center's implementation, VA.gov [reverted the language](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120615) of the net worth question to ask if net income is LESS THAN the allowed amount, and then [flipped the answer](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120615) in the json payload to RBPS. So, if a Veteran indicated that "yes" their net worth was less than the allowed amount, VA.gov would send a N to RBPS bc RBPS is looking for whether or not the net worth is greater than the limit.
 
 -----
 
