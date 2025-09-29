@@ -1,4 +1,4 @@
-# Roadmap to DSLogon Credential Deprecation 
+# Plan for DSLogon Credential Deprecation 
 
 ## Problem Summary  
 VA is currently maintaining outdated sign-in options—such as **DS Logon**—that are **confusing to users** and **not aligned with federal digital identity standards**. Veterans who previously used these legacy credentials now need to transition to modern sign-in methods: **Login.gov** or **ID.me**.
@@ -38,11 +38,12 @@ _Note: The roadmap below does NOT reflect anything about the sunsetting of MHV c
 
 - DS Logon sign-in paths are fully deprecated.
 - Veterans use only Login.gov or ID.me to access digital services.
+- *_MHV credentials will remain open until Sept 2026 for minimal users._
 - Simpler, more consistent user sign-in experience.
 
 **WHAT WILL WE MEASURE?**
 
-- Authentication Metrics: 0% of authentications use MHV or DS Logon by 10/1/2025.
+- Authentication Metrics: 0% of authentications use DS Logon by 10/5/2025.
 - System Health: Increased uptime and reduced incident volume.
 - Credential Adoption: Login.gov and ID.me usage grows.
 
