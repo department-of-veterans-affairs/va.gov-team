@@ -45,7 +45,7 @@
 - [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
 
 ## 
-### FMP - Claims
+### 10-2729a - CVA Claims
 #### Obj: [Improvements]
 - [ ] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
 - [ ] **IVC SPRINT PLANNING** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Finish direct deposit info
