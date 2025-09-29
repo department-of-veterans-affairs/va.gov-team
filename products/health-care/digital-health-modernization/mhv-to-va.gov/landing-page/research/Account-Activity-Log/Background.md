@@ -15,25 +15,16 @@ This policy applies to all system users, patients, their personal representative
 
 ## Policy Requirements
 
-
-
 * The organization shall maintain an immutable, tamper-resistant AAL that records all access, use, and disclosure events related to EHI. \
 
 * Access to the AAL shall be provided upon authorized request, consistent with applicable laws and regulations. \
 
 * The AAL is not an open system log; it is disclosed only under the circumstances described below. \
 
-
-
----
-
-
 ### What do users need to see?
 
 
 #### 1. Patients / Personal Representatives
-
-
 
 * Patients (or their legally authorized representatives) may request a copy of their account activity log to: \
 
@@ -87,14 +78,7 @@ This policy applies to all system users, patients, their personal representative
 
 
 
-### 
-
----
- \
- \
-AAL — What laws inform that?
-
-
+### Relevant laws — What laws inform that?
 
 * 45 CFR 170.210(d)/(e) → requires that disclosures and auditable events are logged and retrievable. \
 
@@ -103,11 +87,9 @@ AAL — What laws inform that?
 * ONC §170.315(d)(2)/(d)(3) → requires systems to provide audit reports and to support patient-facing activity history for VDT.
 
 
-### 3rd Party Integration — What laws inform that?
-
+### What does 3rd Party Integration need to look like?
 
 #### 1. Patient Right of Access
-
 
 
 * Patients must be able to **view, download, and transmit (VDT)** their health information to a **3rd party of their choice**. \
@@ -122,7 +104,6 @@ AAL — What laws inform that?
 #### 2. Patient Authorization & Transparency
 
 
-
 * Integration with 3rd party apps requires **explicit patient direction or authorization**. \
 
 * The portal must show an **activity history** (e.g., when data was transmitted, to whom, and by whom). \
@@ -135,7 +116,6 @@ AAL — What laws inform that?
 
 
 #### 3. Security & Authentication
-
 
 
 * Systems must use **secure authentication and authorization frameworks** (e.g., OAuth 2.0) for 3rd party app connections. \
@@ -156,7 +136,6 @@ AAL — What laws inform that?
 
 
 #### 4. Audit & Logging
-
 
 
 * Every transmission to a 3rd party app must be logged in the **AAL**, visible both: \
@@ -184,7 +163,6 @@ AAL — What laws inform that?
 #### 6. Disclosures & Responsibilities
 
 
-
 * If data is sent to a **HIPAA-covered entity** (another provider, health plan), HIPAA rules apply. \
 
 * If data is sent to a **non-HIPAA-covered app**, patients must be informed that HIPAA protections may not apply, and that the app’s **own privacy policy** governs use. \
@@ -194,14 +172,7 @@ AAL — What laws inform that?
     * Source: ONC Cures Rule FAQ, FTC Health Breach Notification Rule
 
 
-### 
-
----
- \
- \
-What do users not need to see?  \
-
-
+### What do users not need to see?  
 
 
 * **Device/workstation/location of access** – useful for security officers, but may confuse or worry patients. \
@@ -211,18 +182,10 @@ What do users not need to see?  \
 * **Queries/search events** – technical detail that may not be meaningful to end-users.
 
 
-###  \
-
-
----
- \
- \
-Are there any technical requirements (ie, must be accessible in a certain form?)
+### Technical requirements
 
 
 #### 1. Scope of Logging
-
-
 
 * Log **all user interactions** with electronic health information (EHI), including: \
 
@@ -241,7 +204,6 @@ Are there any technical requirements (ie, must be accessible in a certain form?)
 * Log changes to user privileges while system is in use. \
 
 * For disclosures (treatment, payment, operations): record date/time, patient ID, user ID, and disclosure description. \
-
 
 
 #### 2. System Behavior
@@ -263,7 +225,6 @@ Are there any technical requirements (ie, must be accessible in a certain form?)
 #### 3. Reporting & Access
 
 
-
 * System must generate **audit reports** for defined timeframes. \
 
 * Reports must be sortable by each logged field (e.g., by user, patient, action). \
@@ -277,9 +238,7 @@ Are there any technical requirements (ie, must be accessible in a certain form?)
 * **Role-based restrictions**: e.g., staff shouldn’t see other staff members’ logs without authorization. \
 
 
-
 #### 4. Retention
-
 
 
 * Logs must be retained at least as long as the patient’s medical record. \
