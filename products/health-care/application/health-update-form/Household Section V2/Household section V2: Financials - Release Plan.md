@@ -65,8 +65,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Stage A: Canary 5% of users
 #### Planning
-- Length of time: 9/30/2025-10/1/2025
-- Percentage of Users (and roughly how many users do you expect this to be): 5% (approximately 11 users per day)
+- Length of time: **9/30/2025-10/1/2025**
+- Percentage of Users (and roughly how many users do you expect this to be): **5% (approximately 11 users per day)**
 
 #### Results
 
@@ -82,8 +82,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 54 users per day)
+- Length of time: **10/1/2025-10/2/2025**
+- Percentage of Users (and roughly how many users do you expect this to be): **25% (approximately 54 users per day)**
 
 #### Results
 
@@ -99,8 +99,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 108 users per day)
+- Length of time: **10/2/2025-10/6/2025**
+- Percentage of Users (and roughly how many users do you expect this to be): **50% (approximately 108 users per day)**
 
 #### Results
 
@@ -119,8 +119,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 218 users per day)
+- Length of time: **10/6/2025**
+- Percentage of Users (and roughly how many users do you expect this to be): **100% (approximately 218 users per day)**
 
 #### Results
 
