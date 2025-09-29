@@ -5,6 +5,7 @@ about: Basic template for creating Authenticated Experience Profile team phased 
 title: UX |[Project] | Title
 labels: needs-refinement, ux, authenticated-experience
 assignees: 
+type:
 
 ---
 
