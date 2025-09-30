@@ -46,7 +46,7 @@ Teams must launch with at least one entry point that allows site visitors to nav
 ### Required entry point(s)
 
 1. **[About VA DIC for spouses, dependents, and parents](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/)**
-  - Placement and Link details: Link label and placement to be determined by content team
+- Added to page as a Manage benefits task. Content and label to be determined by content team
 - Link destination:https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/marital-status-questionnaire-21P-0537/
 
 ### Additional key entry points
