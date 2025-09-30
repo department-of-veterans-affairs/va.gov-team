@@ -1,5 +1,5 @@
 # This pages will be archived. 
-New page will be available as README.md here:(https://www.va-gov-team/products/health-care/beneficiary-travel/).
+New page will be available as README.md here: (https://www.va-gov-team/products/health-care/beneficiary-travel/).
 
 # Product Outline Template
 ---
@@ -133,6 +133,7 @@ User is logged in:
 _What offices/departments are critical to make this initiative successful?_
  
 </details>
+
 
 
 
