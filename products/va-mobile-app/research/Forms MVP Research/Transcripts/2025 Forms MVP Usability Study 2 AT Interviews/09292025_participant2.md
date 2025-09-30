@@ -62,6 +62,8 @@ Before we start, I want to go over a few things:
 - Finally, I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - *(If yes:)* Once I start recording, I am going to confirm once more that you are ok with me recording this session.
+ 
+**Participant confirmed yes**
 
 ➡️ Select **Record**, then **Record to the cloud**.
 
@@ -69,6 +71,8 @@ Before we start, I want to go over a few things:
 
 - I have started recording. I'd like to confirm: 
   - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
+ 
+**Participant confirmed yes**
  
   - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
 
@@ -88,31 +92,36 @@ Before we start, I want to go over a few things:
 
 Let’s start with a few questions... 
 
+**P2
+09/29/25
+2PM EST
+{Forms MVP AT Users} [Usability Study]**
+
 1. I understand you are a Veteran. Is that right? 
-    - Thanks for confirming that.
+    **Participant confirmed yes** - Thanks for confirming that.
 
 2. What kind of device are you using today? *(Tablet / Smartphone)*
-    - *(If not the expected device, ask to rejoin that way)*
+    **Apple iPhone 16 Pro** - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system is on your device? *(iOS / Android / _______)*
+3. What operating system is on your device? *(iOS / Android / _______)* **iOS**
 
-4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
+4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)* **Safari**
 
-5. What type of assistive technology are you using right now?
+5. What type of assistive technology are you using right now? **Text-to-speech, several times a day. I also use, in notes, there’s a microphone so I can speak whatever I need to write**
 
-6. How many years have you been using [assistive technology]?
+6. How many years have you been using [assistive technology]? **Since 2015**
 
-7. When or how often do you use it?
+7. When or how often do you use it? **Several times a day, also use, there’s a magnifier option. I use that too**
 
-8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert?
+8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert? **Intermediate**
 
-9. Have you ever shared your screen in Zoom while using a screen reader/magnifier?
+9. Have you ever shared your screen in Zoom while using a screen reader/magnifier? **Yes**
 
 10. Have you ever filled out a VA form online before? 
-   - If so, can you tell me about your most recent experience? How did it go?
+   - If so, can you tell me about your most recent experience? How did it go? **Yes, I didn’t have any issues. I’m in My Healthy Vet a lot but as you know hen you go in there, sometimes you can find forms that may need toc completed online or digitally. Making submissions, uploading documents, they make it easy to do that**
   
 11. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far? **Is that the same or slightly different? I have it ,since they completed that integration I don’t use it that much to. Used to use it for logging in, I like to know what’s going on, what’s available…what information could b e provided. I would log on and go through pages of information and see what’s out there or what’s available and see what can help me. When I log into VA.gov, it’s a one-stop shop. Everything that I might need is right there at my fingertips. The security (on the app) sometimes it can be annoying but I understand why it needs to be there. That was probably the most aggravating part of it. Once you get past those steps, it’s easy. Even getting through those steps, it’s easy. Once you get used to doing it a few times, when you do it the first few times it was stressful. A lot of vets, especially those who are not digital natives…we had to learn. But even when I call myself an intermediate level. New applications, new processes and procedures, sometimes I find them a little stressful. Until I figure out how to complete what I need to complete, then the stress will diminish.**
 
 
 # User Tasks
@@ -133,7 +142,7 @@ We can help guide you through sharing your screen when you're ready if you'd lik
 
 ## Task 00: Open prototype
 **for iOS users:** 
-Did you previously receive the link and instructions to download the testing version of the mobile app today?
+Did you previously receive the link and instructions to download the testing version of the mobile app today? **Participant confirmed yes**
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
@@ -205,6 +214,7 @@ Today I'd like you to pretend that you need to submit a statement in support of 
 ### Question for testing participant:
 
 - Before we start, what do you expect this process to be like?
+  **Expect there to be steps about how to get this completed and I would follow those steps sequentially to get that done and submitted**
   
 
 Thank you for sharing that, You may begin the task to submit a statement in support of a new disability claim for yourself.
@@ -215,6 +225,18 @@ Thank you for sharing that, You may begin the task to submit a statement in supp
 
 On a path that isn't fully built out and is stuck, you can offer the 'Apple' button at the top to jump them to the forms section of the app.
 
+
+**Participant went to Benefits, then Claims to look for where to submit statement. Then I look for something that would let me talk to someone in IT…no…that’s the crisis line. Participant returned to home screen and scrolled past “Go to my forms”. Participant went to “contact VA” and said they would reach out to someone for help.**
+
+**Participant clicked “Start a Statement”.** 
+
+**“This is what I was looking for.” Participant scrolls through options. Selected I want to provide context…”**
+
+**Okay so…um…there’s a message that said “there’s a better way to submit y our statement”, based on your answer you should submit a lay or witness statement…I’m guessing this button here will start the statement. When it said there’s a better way, I wasn’t clear if what I was doing was or was not the best so I just proceeded with what was in front of me.**
+
+**It’s taking a long time to load. I would give it typically three minutes and if it kept doing that, I would think something is wrong. It shouldn’t take 3, 4, 5, minutes to do it. I would try to click the “done” button to back out and see if that would help me. It’s loading in the application. (After a while of loading) I would think at this point it’s encountering some sort of technical difficulty, it might be glitchy. I don’t think it’s my device because it’s not power, I’m not low operational, low capacity, low battery. I’m just gonna click done and it’s saying I don’t have any active forms so I’m going to go in and try again and see if it behaves any differently.**
+
+**Alright, so this is back where we were before. It’s gonna take me 15 minutes to do this. I’m gonna just start the statement. The first button option…it seems like it could work for me…I’m not real clear if that’s the one I need. “I have new evidence to submit or open claim”. Um…I want to provide context or details about a claim…that’s the one I just tried before. I’m gonna go with “What I want to do isn’t listed here” and see what it does.**
 
 ### Watch for:
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
@@ -240,15 +262,20 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the form from your [assistive tech/device]? 
+- How was your experience navigating to the form from your [assistive tech/device]?
+**I really had to depend on what was in front of me. I think only one time I had to make the screen larger. Right now I’m sitting really close to the phone so I can see although I would prefer to highlight this all and have it read everything to me. I feel the pressure of you guys sitting here and watching me do this but if I was by myself I would go through this slower.**
 
-- How confident do you feel that you're in the right place to submit your statement?
+**How confident do you feel that you're in the right place to submit your statement?
+I feel like I’m closet to being in the right place, sometimes what I read and understand to be…um…a place to be, is not where I should be. So I have to back out sometimes and reread it and make sure I understood what it said and where it was trying to take me. So if I’m not in the right place, I’m closet to being in the right place.**
 
 - Before you start the form itself, what do you expect this form completion process to be like?
+**I think it’s gonna be pretty easy, just submit a statement to support a claim and there’s 6 steps it tells me up top. So I’m on step one and it’s gonna walk me through those sequences so that’s pretty easy, just follow the prompts. So I expect it’s going to be pretty easy.**
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
+
+**Uses microphone to fill out fields; after Middle initial, we couldn’t’ see last name being entered. Skipped to date of birth. Then quickly completed 1st page.**
 
 **For screen magnifier participants:**
 [Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What is on your screen now? 
@@ -280,6 +307,8 @@ You may continue on with the form.
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
 At this point, I'm going to have you pretend that you need to step away from the form for an extended period of time, you can leave the form now and go back to the homepage of the mobile app. 
 
+**Looking for where to return to app…”It says that it’s been saved”…I’d probably jot down the ID number…Click on “finish later” and then you said go back to the home page (Partiicapnt clicked done to return)**
+
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -293,16 +322,25 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
+- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]?
+- **Pretty easy**
 
 - How confident do you feel that your work will be saved?
-
+**I feel very confident that it’ll be saved. I’ve never had an issue with it not being saved.**
 
 
 ## Task 5: Continue completing the started form and submit
 Now, pretend you are ready to come back to your previous form. 
 
 Please locate your previous form and continue on.
+
+**Participant went to “Claims” to continue filling out form. Returned to home page and scrolled past “Go to my forms”. Then scrolled back up and saw it, clicked it, clicked “continue form”. I’m back at the form, at step 3. I would just proceed forward with the information. My phone doest his predictive text things so that’s helpful. Participant manually types city and postal code in.** 
+
+**Next page: participant manually types in home phone number and email.**
+
+**On step 5 of 6. Okay, so, I have my statement. I would definitely use the mike here. (Participant speaks their statement into the field) (Screenshare stopped working) It says it has saved it so that’s good. (Screenshare restarted) So I’m just going to continue this process, right now it’s just a review of my application, my information, just to make sure it’s what I actually entered (participant looks through all information they entered). Statement of truth…I don’t ever do anything with VA.gov that’s not truthful so I don’t stress out about the statement of truth so the required portion wants my name (participant manually typed this in).** 
+
+**So, my submission is in progress. I could print it for my records if I wanted to. It gives me the date that I started that submission. Okay so, because it says it’s “in-progress” and it’s green…it says it can take up to 30 days for them to receive it but I’ve got a confirmation number…I would save that…I would screenshot that. I would follow up in 30 days to make sure it was successfully submitted and received.**
 
 
 ### Watch for:
@@ -338,19 +376,28 @@ Please locate your previous form and continue on.
 
 ### Questions for testing participant: 
 
-- How was your experience filling out the form from the mobile app using your [assistive tech/device]? 
+- How was your experience filling out the form from the mobile app using your [assistive tech/device]?
+**It was what I expected it to be, it’s really simple. I do like that my phone remembers a lot of my information. Address, name, email, so all I really have to do is tap on it.**
+
 
 - Were there any fields where your assistive technology didn't work as expected?
+**Yeah, under the birthday I had a little issue. Not saying it wouldn’t work but first attempt it didn’t work so I just manually entered it.**
 
 - What worked well for you?
+**Well um, actually, maneuvering. I got lost, I wasn’t sure where I was, where I was needing to go but I got visual confirmation I was in the right place but there was bold type saying I was in the right place and I could start completing the application.**
 
 - What was unclear for you?
+**If you don’t know what you’re doing, of you click through those tabs you could probably find what you need to do but finding it, you could go to it straight away but sometimes it may take some looking for it to find it**
 
 - How does this compare to filling out forms on VA.gov or other websites?
+**Uh, it’s about the same. I mean, it’s similar. I think VA is, what you guys are doing, is trying to make it convenient, easy, really less confusing, less stressful, less complicated. If something can take 1 or 2 steps, let it take 1 or 2 steps, not 7 or 8. I think they’re really trying to achieve that.**
 
 - What would make this process feel familiar to you?
+**You had asked earlier int he conversation “why do you go up there, what purpose?” This question, that’s why. So that you can go yhrough it without a maneuver. If you’re out of practice and you’re not used to how things have updated, where things have moved - to me, that’s stressful. I’d rather stay updated. I think the system knows how many times I’ve logged on. So just staying familiar with it. And if you’re talking to another vet, sometimes you can help point them in the right direction. Or sometimes, if you’re talking to your VA clinicians, the information is right there with you. You can view your blood labs on your iPhone. You don’t have to call your PCP to find out what your blood labs were. You can see what they’re seeing. And you can get communications from them, maybe from the nurse. Or whatever. Maybe send them emaisl too.**
+
 
 - If you had to take breaks, where would there be natural stopping points?
+**I really like to just truck it on through and get it done but if I needed to take a break, it saves what you did last so you can stop wherever you needed to…I don’t think there’s any particular place you have to stop. Maybe you have to stop….wherever you are in the process, it’ll save it.**
 
  
 ## Task 6: View submitted form
@@ -360,14 +407,16 @@ Now that you have completed the form, please go back to the app.
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 
 
-- What does this status mean to you? 
+- What does this status mean to you?
+**I got a message right here that says it was submitted on the 29th. It says it’s in-progress so, um, I really don’t know that it was submitted. It does say submitted but it also says in-progress so maybe I did what I needed to do so maybe the processing of the form I submitted might take 30 days to move from progress to yes, we see that we’ve received your form…the in-progress part is a little confusing to me. That’s what I think that this means because I see this form was submitted. Because I’ve done my part.**
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
+**To reference this claim: I would’ve taken a screenshot of that confirmation id and the information that was on that little tab or I would’ve jotted it down. Screenshot probably would’ve been better for me. If I needed to speak to someone in IT, I can reference it. It has that date, it has that number.**
 
 - What would you expect to see if you needed to check on your submission later?
-
+**If needed to check on submission later: If I needed to checkout’s either gong to have this little in progress notice, it’ll have a green button or some kind of message telling me I’ve done what I needed to do and the receiver has done what they needed to do. Surely in 30 days it should be done.**
 - How would you expect to be notified of updates to this form?
-
+**Notified about updates:Because I kinda did a zoom through, it could’ve said something about updates on it. I don’t remember seeing that. Um, there might be a way to track the updates…um…there might just be a way to look inside and maneuver and see updates on this form and any other one I’ve submitted.**
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -408,16 +457,21 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 ## Thank You and Closing - 3 minutes
 
 - How was this process overall for you?
+**I’ve gotten used to these…it’s about what you guys are trying to do to connect veterans…some of us are out in the boonies and we need to be able to use our devices to join a zoom call or a Telehealth appt….I like it, I think it was good.**
 
 - Was there anything you would change about this process?
+**No, no, um…I like the way you guys roll it out and I really appreciate your patience with us out here, even though it clearly says Eastern, some stuff will get by us.**
 
 - What parts required the most concentration?
+**You know, if I’m given a directive to, okay, go find where you would submit this form. That’s not hard to do but that was probably the hardest part of it. So I gotta go do something now, and I gotta do it.**
+
 
 - Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+**Yes, absolutely. It’s easy, um…using this digital means it’s just how things are these days. You don’t want to have to drive to a location 30 miles away and do it in person.  You can do it right there at your kitchen table. And it’s convenient. It’s fast, it’s easy, it’s convenient.**
 
 
 **Are you still okay if we use any video or audio clips from this session?** 
-- *(yes / no)*
+- *(yes / no)* **Participant confirmed yes.**
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
 **We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide. 
