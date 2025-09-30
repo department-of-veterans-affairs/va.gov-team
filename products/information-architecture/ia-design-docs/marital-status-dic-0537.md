@@ -2,7 +2,7 @@
 # IA Design for Form 21p-0537 - Marital status
 **STATUS: Needs review**
 
-**Team:**BIO Heart
+**Team: **BIO Heart**
 
 **CAIA Intake ticket:** [Ticket 120109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120109)
 
@@ -53,12 +53,12 @@ Teams must launch with at least one entry point that allows site visitors to nav
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
 1. **About form 21-0537 - new**
-- Content to be determined by content team
+- H1, content and link label to be determined by content team
 
 2. **Family member and caregiver hub left nav**
  <img width="306" height="377" alt="image" src="https://github.com/user-attachments/assets/4fc5351e-9891-4819-9a1e-79c7a9f02c4e" />
  
-- The link will be nested in the Survivor and Dependent Compensation branch at the top of the list.
+- The link will be nested in the left nav for [About Survivor and Dependent Compensation](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/dependency-indemnity-compensation/) page in the Survivor and Dependent Compensation branch at the top of the list.
 - Menu label: Verify marital status
 
 
