@@ -74,10 +74,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Task 1: Locate the self-review tool (3 minutes)
 
-**"You are currently on the VA education and training landing page on VA.gov. Looking at this screen, where would you go to make updates to your education benefits"**
+**INTERNAL NOTE: Might recommend to remove this first task. Idea would be dedicating more time to the tool itself will help us gather more insight into the "meat" of what were researching. trade off is the user might have a harder time orienting/contextualizing themselves affecting their understanding and ability to navigate the tool. if we remove, have to be considerate of how we set up this test scenario.**
+
+**"You are currently on the VA education and training landing page on VA.gov. Looking at this screen, where would you look first to make updates or changes to your education benefits"**
 
 Probing questions:
-- Where might you look first to begin the process? Why?
+- What markers drew your attention there?
 
 Qualitative questions:
 - Where does the user initially look? Why?
@@ -97,13 +99,16 @@ Qualitative questions:
 
 ## Task 2: Logging in, Review Tool Instructions Page (3 minutes)
 
-**"We are now on the self-review tool's landing page. What is your first impression and how are you understanding the information you are looking at?"**
+**"We are now on the self-review tool's landing page. What is your first impression and how are you understanding the information on this page?"**
+
+User should log in during this step, they will not be prompted to actually log in but brought directly to the authenticated version of the application instructions page
+
+**"Is there anything you'd like to note or point out on this page? Do you have any questions or impression for how we got to this authenticated page?"**
 
 Probing questions:
-- Where would you look to sign in? 
-- Our prototype does not have typing capabilities, lets try clicking the username field to input the login information.
-- What would you do to finish logging in?
-- What other information are you looking to find on this page?
+- What might you do next?
+- Where would you look to sign in?
+- Is there any information that the user notes as particularly helpful to see? Any information they are looking to find but did not?
 
 #### Things to watch for:
 > - How easily does the user understand the un-authenticated vs. authenticated state? </br>
@@ -118,8 +123,11 @@ Probing questions:
 **"What is your first impression and how are you understanding the information you are looking at?"**
 
 Probing questions:
+- Do you have any questions about the information presented here?
+- Are any of the terms used here familar to you? Are there any that are unfamiliar?
 - What is your confidence level in the information presented here?
-- Is there any other information you are looking to see here?
+- Taking a look around, what [other] actions might you take on this step?
+- Is there any other information you are looking to see here, but didn't?
 
 **"What would you do next?"**
 
@@ -128,14 +136,36 @@ Probing questions:
 
 <p>&nbsp;</p>
 
-## Task 4: Self Review Tool - Step 2 Distribute Qualifying Days (5-7 minutes)
+## Task 4: Self Review Tool - Step 2 Additional questions (3 minutes)
+
+**"What is your first impression? What do you think VA is trying to understand about you from this page?"**
+
+Probing questions (can be asked per question):
+- Do you have any questions about what this question is asking you?
+- How are you understanding this question?
+- Does this question accurately gather information that is relevant to your GI bill/ education goals?
+-     If not, what information would you expect to be asked about as it relates to your education goals?
+- Are any of the terms used here familar to you? Are there any that are unfamiliar?
+- What is your confidence level in the information presented here?
+
+**"What would you do next?"**
+
+#### Things to watch for:
+> - Is there any confusion or hesitatation?
+> - Does it build users confidence to see answer these additional questions?
+> - Does the use exhibit any fatigue in answering the questions?
+
+<p>&nbsp;</p>
+
+## Task 5: Self Review Tool - Step 2 Distribute Qualifying Days - Your current benefits (5-7 minutes)
 
 **"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the information you are looking at?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
-- What is your interpretation of 'Your current benefit level' versus 'New benefit level'?
-- How are you interpreting the term 'Qualifying days'
+- How are you understanding the information under 'Your current benefits'?
+- Is there any terminology that is familiar or unfamiliar to you?
+-     How are you interpreting the term 'Qualifying days'
 - Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
 - What other information, if any, are you lookng to find?
 
@@ -145,38 +175,35 @@ Probing questions:
 > - How is the user scanning the page? Is there a section that is particularly helpful or confusing?
 <p>&nbsp;</p>
 
-## Task 5: Self Review Tool - Step 2 Create your own distribution (5-7 minutes)
+## Task 6: Self Review Tool - Step 2 Distribute Qualifying Days - Customize your own (5-7 minutes)
 
-**"Let's say you did not want this suggested 'New benefit level', what would you do build your own distribution?"**
+**"What would you do next? What is your first impression, how are you understanding the information presented here?"**
 
 Probing questions:
-- How was that interaction?
-- What are you noticing about these new section on the page?
-- How are you understanding the number of days in the PGIB and MGIB sections?
-- Are you interpreting the term 'Qualifying days' differently now that you see it here?
+- What are you noticing or gravitating to first? Why?
+- Is there anything confusing on on this page?
+- How are you interpreting the term 'Qualifying days'?
+- How are you understanding the MGIB and PGIB benefits displayed?
 
 **"Could you show me how you would update the PGIB section to [MOCK DATA] days?" & "Could you show me how you would update the MGIB section to [MOCK DATA] days?"**
 
-- What drew you to using the slider over the text field? (or vice versa depending on participant)
-- How is your experience in using the alternative input method?
 - Was there anything that caught your attention when you changed the number of days?
-- How are you understanding the change in 'New benefit level' once you added the new number of days?
-- Was there anything you found confusing about ineraction?
-- [CAN INSERT SPECIFIC QUESTIONS HERE FOR DIFF USE CASES OF RELINQUISH/RETAIN/ETC]
+- How are you understanding the change in 'Your customized benefit' once you changed the number of days?
+- Was there anything you found confusing about interaction?
 
-**"Could you show me how you would reset this, get the original recommendation back?"**
+**"Could you show me how you would reset this to get the original recommendation back?"**
 
 - How was resetting the recommendation for you?
 
 #### Things to watch for:
 > - Where does the user look first to customize? </br>
-> - Does the user understand the relationship between the slides, input fields, and recommendation? </br>
-> - How is the users experience using the sliders and input fields? </br>
+> - Does the user notice the relationship between input fields and the customize benefit cards? </br>
+> - Does the user understand the relationship between input fields and the customize benefit cards? </br>
 > - Where does the user look first to reset their recommendation? Are they able to find it easily? </br>
 > - Does the user have questions about this process? </br>
 <p>&nbsp;</p>
 
-## Task 6: Self Review Tool - Step 3 Confirm election (5 minutes)
+## Task 7: Self Review Tool - Step 3 Confirm election (5 minutes)
 
 **"Let's say you are good to move forward with this distribution, what would do next?"**
 
@@ -186,6 +213,7 @@ Probing questions:
 - Is there other information you are looking to find here?
 - How are you understanding the checkbox statement below?
 - What is your confidence level in making this decision about your education benefits?
+- Is there anything else or other information you are looking see here before you confirm your decision?
 
 #### Things to watch for:
 > - Does the user understand terminology used such as 'relinquished'?
