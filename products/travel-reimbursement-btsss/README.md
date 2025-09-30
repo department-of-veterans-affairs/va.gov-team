@@ -1,3 +1,5 @@
+# This pages will be archived. The new page will be available under here:(https://www.va-gov-team/products/health-care/beneficiary-travel/).
+
 # Product Outline Template
 ---
 
@@ -130,4 +132,5 @@ User is logged in:
 _What offices/departments are critical to make this initiative successful?_
  
 </details>
+
 
