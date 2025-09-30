@@ -1,12 +1,47 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 09/30/25
+
+**Attendees:** 
+
+**Agenda**
+- How to handle the question for prescription coverage for OHI (follow-up on email sent 09/26/30)
+- Confirm if users can fax their completed applications and supporting docs for their first application
+- Updates to 10-10d/10-7959c launch
+
+**OHI prescription coverage question**
+
+- Walkthrough of the standalone OHI form, where we still ask prescription coverage question (question was omitted from 10-10d/10-7959c merged experience
+- Question from Health Apps team: should we still include the prescription coverage question on the front-end? In the standlone form only, or in both the standalone OHI and the 10-10d/10-7959c?
+- Question from Health Apps team: if we omit this screen from one or both forms, should the PDF form include the "yes" checkbox marked? "no"? Or no checkbox marked on the PDF?
+  - Angela C.: this is a question for OHI/Tammy, who should be the sole decision-maker.
+- **Action item:** Health Apps team to follow-up with Tammy on how to handle this question
+
+**Confirm if users can fax their completed applications and supporting docs**
+
+- Health Apps walks through a post-MVP improvement to the 10-10d/10-7959c, which will allow users to print a copy or save a PDF of their CHAMPVA benefits application. If the submission fails, users will be informed on the Review screen that they can download their completed application and submit it other ways. This feature has already been launched on the 10-10EZ and more recently on the 10-10EZR and has relatively high usage from users. It's been requested for CHAMPVA forms as well, as many users screenshot the review screen. 
+- Question from Health Apps team: is the 303 number the correct fax number for 10-10d and supporting docs?
+  - Rogelio C.: confirms that's the correct fax number for 10-10d apps
+- **Action item:** Health apps team to launch print/save PDF after the MVP launch of the new 10-10d/10-7959c (exact date TBD)
+
+Updates to 10-10d/10-7959c launch
+
+- Health Apps team provides updates to the 10-10d/10-7959c launch plan and timeline:
+  - Currently wrapping up loose ends with testing in PEGA
+  - Between those efforts and the possible government shutdown, the team anticipates a later launch date than given at our last meeting (9/29 or 9/30 was given at 09/16/25)
+  - Current expected launch date is TBD (pending completion of PEGA testing, etc.)
+- Question from Health Apps team: is 24-hours notification heads-up acceptable before going to launch?  
+  - Angela P.: 24 hours notice is fine
+- **Action item:** Health Apps team to provide 24 hours notice before launching 10-10d/10-7959c
+
+
 ## **09/16/25**
 
 **Attendees:** Anne R., Cindy Carr, Eileen Cook, Rachel P., Renata, Jamie, Ballard M., Premal, Amanda, Angela P., Angela C., Elizabeth Lightfritz
 
 **Agenda**
-Discuss rollout plan for lauching the 1010d OHI merged form
+- Discuss rollout plan for lauching the 1010d OHI merged form
 
 * Renata reviewed the rollout plan with partners: we are keeping the 1010d standalone (without the fully integrated OHI form live during the launch of the merged 1010d/OHI form in. We will roll out the merged form in stages starting with having it available to 25% of users starting on 9/29/25. We will increase it to 50%, 75% and 100% after that. This will take a week to get to 100% launched. We will continue to monitor for issues after that. 
 * [Link to the form on the staging site](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-champva-form-10-10d/introduction)
@@ -18,6 +53,8 @@ Discuss rollout plan for lauching the 1010d OHI merged form
 * Spot checking submissions for roll out: Elizabeth Lightfritz would know who to spot check. She will follow up after the call with 2 people from her team that can help with that
 * IVC to send the partners a recorded walkthrough of the 1010d/OHI
 * IVC discusses benefits of the OHI merge: It will reduce duplicate HI cards and reduce redundant questions between the applications and OHI and limit duplicate OHI form from being submitted. They are further iterations coming shortly that will better clarify that they are submitting the OHI cert with the application to further prevent duplicate OHI submissions
+
+
 ## **07/22/25**
 
 **Attendees:** Anne R., Cindy Carr, Eileen Cook, Mike M., Rachel P., Renata, Jamie, Andrea, Ballard M., Premal, Amanda, Angela P., Angela C.
