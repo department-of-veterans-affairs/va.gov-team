@@ -6,7 +6,7 @@ This initiative is the first phase of a multi-phase program to implement an LLM-
 
 ## Objective & Purpose:
 
-To launch an LLM-powered query intake and routing system that accurately identifies user intent, directs queries to the appropriate CQA (curated question answering) or RAG pipeline, and ensures Veteran safety and system integrity.
+To launch an LLM-powered query intake and routing system that accurately identifies user intent, directs queries to the appropriate CQA (custom question answering) or RAG pipeline, and ensures Veteran safety and system integrity.
 
 The purpose is to: 
   - Provide Veterans with rapid, relevant, and trustworthy support by routing their queries to the appropriate topic accurately, including sign-on via RAG.
@@ -29,7 +29,7 @@ Total messages decreased from:​​
 
 > Why do you think the problem is occurring?
 
-The chatbot currently struggles with synonyms which causes it to not understand the users intent with the question. This causes it to have to follow up to understand what topic to direct the user to leading to longer user journeys, especially when the question is personalized. With GenAI sites that are able to not only understand the intent of the question, but also provide answers to questions by sourcing data from not only the VA site, but other sites across the internet. Veterans are more likely to use them instead of the VA Chatbot to ask questions that are more personalized to their needs.  
+The chatbot currently struggles with synonyms which causes it to not understand the users intent with the question. This causes it to have to follow up to understand what topic to direct the user to leading to longer user journeys. It also has difficulty understanding complex user questions for example questions that are personalized. With GenAI sites that are able to not only understand the intent of the question, but also provide answers to questions by sourcing data from not only the VA site, but other sites across the internet. Veterans are more likely to use them instead of the VA Chatbot to ask questions that are more personalized to their needs.  
 
 > Why was this topic prioritized?
 
@@ -160,7 +160,7 @@ As part of the One-Bot approach.
     - Luciana Morais (Product Owner)
     - Selia Straus (Project Manager)
     - Ann-Marie Raposo (Product Manager)
-    - Anita Dewitt (Tech Lead) 
+    - Anita DeWitt (Tech Lead) 
 
 </details>
 
