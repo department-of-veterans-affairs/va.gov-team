@@ -8,7 +8,7 @@
 
 `Date created:` 2025-08-19 
 
-`Last modified:` 2025-MM-DD</br>
+`Last modified:` 2025-09-30</br>
 
 ---
 <p>&nbsp;</p>
@@ -268,5 +268,5 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 # Emergency Exit
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
+In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies).
 
