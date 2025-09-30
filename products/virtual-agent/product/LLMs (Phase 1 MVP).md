@@ -133,6 +133,7 @@ As part of the One-Bot approach.
 3. Bug Bashing: Week of October 13, 2025
 4. Dogfooding & Usability Testing: October 20 - 31st, 2025
 5. Final Presentation for Go/No Go: Week of November 10th, 2025
+6. Launch: TBD (Dependent on Azure Resources in PREPROD & PROD
 
 
 ### Key Decisions
