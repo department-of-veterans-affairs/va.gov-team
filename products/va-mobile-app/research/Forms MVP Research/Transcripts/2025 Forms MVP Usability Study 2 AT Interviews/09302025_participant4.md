@@ -88,31 +88,33 @@ Before we start, I want to go over a few things:
 
 Let’s start with a few questions... 
 
-1. I understand you are a Veteran. Is that right? 
+1. I understand you are a Veteran. Is that right? **Yes**
     - Thanks for confirming that.
 
-2. What kind of device are you using today? *(Tablet / Smartphone)*
+2. What kind of device are you using today? *(Tablet / Smartphone)* **Smartphone**
     - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system is on your device? *(iOS / Android / _______)*
+3. What operating system is on your device? *(iOS / Android / _______)* **iOS iphone 15**
 
-4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
+4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)* **Safari**
 
-5. What type of assistive technology are you using right now?
+5. What type of assistive technology are you using right now? **VoiceOver**
 
-6. How many years have you been using [assistive technology]?
+6. How many years have you been using [assistive technology]? **4 years**
 
-7. When or how often do you use it?
+7. When or how often do you use it? **Daily, read things to me especially lengthy pieces of text. Or to navigate some apps. Turning apps on or off, or navigating through apps. I do have a little bit of vision in one eye.**
 
-8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert?
+8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert? **Intermediate**
 
-9. Have you ever shared your screen in Zoom while using a screen reader/magnifier?
+9. Have you ever shared your screen in Zoom while using a screen reader/magnifier? **Yes**
 
-10. Have you ever filled out a VA form online before? 
-   - If so, can you tell me about your most recent experience? How did it go?
+10. Have you ever filled out a VA form online before? **Yes**
+   - If so, can you tell me about your most recent experience? How did it go? **Tend not to fill them out when using the iphone because I'm more likely to make mistakes on a small screen.**
   
-11. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+11. Do you have the VA Health and Benefits mobile app downloaded on your device? **Yes**
+   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far? **Use it to check my messages from my provider, possible order and reorder drugs, my medications. Use it to check lab results or medical tests.**
+
+**It was good before, now it requires ID.me to sign in. Before ID.me allowed you to use google to sign in and that was just easier for me to use google. Now I think I've gotten in there since then, if I did I must have it saved, I must have gotten in there.**
 
 
 # User Tasks
@@ -130,6 +132,8 @@ We can help guide you through sharing your screen when you're ready if you'd lik
 4. Activate the screen share
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
+
+**User had a lot of difficulty finding the share button in the menu. Couldn't tab over initially when the menu was showing and stopped right before the share option. Kept pulling up a different menu without the share option. When she found it stated, it's clear to the right and it would disappear after a few seconds before she could get to it.**
 
 ## Task 00: Open prototype
 **for iOS users:** 
@@ -176,6 +180,9 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 
+**User did not read the email enough to see or predownload the testing app. I added the link in the chat and she was able to go through the steps and download the app with us on the call.** 
+**At this point the user enabled VoiceOver, previously while answering questions she didn't want to turn it on yet because its confusing when in a conversation because it talks in your ear while others are talking. Participant also had magnifier and uses that at times. Doesn't use it much.**
+
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.59.1 (3031) for iOS]
 
@@ -205,7 +212,8 @@ Today I'd like you to pretend that you need to submit a statement in support of 
 ### Question for testing participant:
 
 - Before we start, what do you expect this process to be like?
-  
+**I expect it to have some questions, I'm hoping because its my app it automatially fills in some of the data that it knows.**
+**First, I think I would go to Claims, there is a forms option but I don't know what form to use so I wouldn't first go to the forms.**
 
 Thank you for sharing that, You may begin the task to submit a statement in support of a new disability claim for yourself.
 
@@ -219,23 +227,46 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 ### Watch for:
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
 
+**Yes**
+
  - If Y, where do they go instead?
+
+**Claims > Active Claims > Didn't hear anything that said submit. > Claims > Claims History > Benefits > Homepage > Go to forms.**
 
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
 
+**Yes**
+
  - If Y, what do they find confusing?
+
+ **Thought it should be under claims, could not find anything that read her to start a new claim or submit a new statement.**
 
 - In this step, what did the participant expect to happen?
 
+**Initially while on claims she thought she had swipped up to go backwards where she first heard the forms. She did not realize she wasn't going back far enough and was still on the claims area of the app.**
+**I now lost the forms. I saw the forms, heard the forms before. I'm trying to swipe up and I'm not finding my forms before.**
+**Tried Home tab**
+
  - Did they mention any previous experience or confusion?
+
+ **That didn't make sense to me because I'm starting a statement, I don't know what the statement is for. It doesn't tell me what the statement is for.**
 
 - Did the user understand the 'Submit a statement in support of a claim' introductory screen? Y/N
 
+**Yes**
+
  - Did the user comment on this screen?
+
+**I can choose more supporting forms. Ok, I need to use more than one form for each statement.**
+**Focus jumped to the bottom and she hit continue.**
 
 - What option did the user select on the 'What would you like to do here?' screen?
 
+**What I want to do isn't listed here**
+
   - Did the user share any confusion about the options provided?
+
+**Well I don't ahve an open claim. We are doing a new claim. You can do this for your claim. I'm looking for something that says I want to provide a statement for a new claim. This says a claim but... I would actually pick 'What I want to do isn't listed here. So I guess I would probably waste my time by going to 'What I want to do isn't listed here'.**
 
 
 ### Questions for testing participant: 
