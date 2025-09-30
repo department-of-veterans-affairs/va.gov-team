@@ -23,7 +23,7 @@ Notes: VNP tables are not a reliable source of data and should not be used to "g
 | Date dependent was added             |                                         |                    |     |                |
 | Date dependent was removed           |                                         |                    |     |                |
 | Veteran marriage history (unofficial)|                                         |                    |     | VNP Tables     |
-| Child school status                  | [TBD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117156)            |                    |     |                |
+| Child school status                  | [TBD](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117156) |                    |     |                |
 | Dependnet disability status          |                                         |                    |     | VNP Tables     |
 | Dependent removal reason             |                                         |                    |     | VNP Tables     |
 
