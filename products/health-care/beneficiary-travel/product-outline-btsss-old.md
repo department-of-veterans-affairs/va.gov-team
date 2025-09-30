@@ -1,3 +1,5 @@
+# THIS PAGE WILL BE ARCHIVED.
+Updated Product Outline available here.
 
 # Beneficiary Travel Self-Service System (BTSSS) on VA.gov Product Outline
 ---
