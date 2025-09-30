@@ -89,6 +89,7 @@ As part of the One-Bot approach.
   - ATO limits to infrastructure
   - Cost
   - Security/Privacy
+  - Getting resources added to all environments 
 
 - **Organizational Viability Risks/Constraints: Will there be a positive organizational impact?**:
   - **Risk:** Organizational policies or budget constraints may limit deployment or ongoing support.
