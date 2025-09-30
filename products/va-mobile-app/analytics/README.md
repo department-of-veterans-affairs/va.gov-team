@@ -9,6 +9,8 @@
 - [August 2025 (8/1-8/31)](#August-2025)
 
 ## Where to gather the data
+
+**Remember to update the date ranges for these links in the UI before pulling the data (the links are probably all set to February 2025)**
  
 - Total downloads since launch
   - iOS, [appstore connect first time downloads](https://appstoreconnect.apple.com/analytics/app/ltd/1559609596/metrics?chartType=singleaxis&measureKey=units&zoomType=day)
