@@ -17,13 +17,12 @@ Is it OK to record this session?
 
 Before we get started, I want to ask you a few questions to get to know you better!
 
-1)     Can you tell me about your current role at the VA?
 
-2)     How long have you been at the VA?
 
-3)     Can you walk me through your day to day work activities?
-
-4)     Can you walk me through a scenario where you need to urgently and quickly find information?
+1. Can you tell me about your current role at the VA?
+2. How long have you been at the VA?
+3. Can you walk me through your day to day work activities?
+4. Can you walk me through a scenario where you need to urgently and quickly find information?
 
 Prototype Introduction
 
@@ -50,13 +49,12 @@ And please feel free to be as honest as possible – it won’t hurt our feeling
 
 I’d like you to click on the link that I sent you. I would like you to take some time to look over this page and then tell me about it. I’m interested in your impressions of what you see, how you’re feeling about it, and any questions you may have.
 
-1)     Can you please describe to me what you are seeing?
 
-2)     What are your impressions?
 
-3)     When looking at this table, what draws your attention first?
-
-4)     (if they answer “patient name”) Before interacting, what do you expect will happen if you click/tap this area?
+1. Can you please describe to me what you are seeing?
+2. What are your impressions?
+3. When looking at this table, what draws your attention first?
+4. (if they answer “patient name”) Before interacting, what do you expect will happen if you click/tap this area?
 
 
 ## Task 2: Progressive disclosure
@@ -65,120 +63,86 @@ Please do not click on anything yet.
 
 Imagine that you are in the situation you described earlier where you need to find information quickly and urgently. For example, a nurse approaches you with urgency and asks you to please tell him what the patients’ glucose level is.
 
-1)     Let’s assume all the information you see is current. How would you quickly find the glucose level of the patient to inform the nurse?
 
-2)     How would you describe your experience just now in finding the glucose level?
 
-a)     What did you like about it?
-
-b)    What didn’t you like about it? (if anything)
-
-c)     Would you change anything?
+1. Let’s assume all the information you see is current. How would you quickly find the glucose level of the patient to inform the nurse?
+2. How would you describe your experience just now in finding the glucose level?
+3.  What did you like about it?
+4.  What didn’t you like about it? (if anything)
+5.  Would you change anything?
 
 Next, let’s imagine that the nurse needs to quickly take in this patient but needs to verify the last 4 of their social security number.
 
-3)     How would you quickly find the last 4 of the social security number?
 
-4)     How would you describe your experience just now in finding the SSN?
 
-a)     What did you like about it?
-
-b)    What didn’t you like about it? (if anything)
-
-c)     Would you change anything?
+1. How would you quickly find the last 4 of the social security number?
+2. How would you describe your experience just now in finding the SSN?
+3. What did you like about it?
+4. What didn’t you like about it? (if anything)
+5. Would you change anything?
 
 Great, now let’s keep the same sense of urgency as the last 2 scenarios. Imagine a nurse urgently asks you for a bit of information. The nurse urgently needs to know what a specific note said in a past visit for the patient. There is a note that is labeled under ‘Action Required’ for the patients last visit.
 
-5)     Please show me how you would find this ‘Action Required’ note in the patients last visit.
 
-6)     How would you describe your experience finding this information?
 
-a)     What did you like about it?
-
-b)    What didn’t you like about it (if anything)
-
-c)     Would you change anything?
-
-7)     How would you describe your experience finding information on the table versus within the drawer?
+1. Please show me how you would find this ‘Action Required’ note in the patients last visit.
+2. How would you describe your experience finding this information?
+3. What did you like about it?
+4. What didn’t you like about it (if anything)
+5. Would you change anything?
+6. How would you describe your experience finding information on the table versus within the drawer?
 
 
 ## Task 3: Interacting with the Drawer
 
 I’d like you to take some time to look over this drawer from top to bottom and then tell me about it. I’m interested in your impressions of what you see, how you feel about it, and any questions you may have.
 
-1)     Can you please describe to me what you are seeing?
 
-2)     What do you think is the purpose of this drawer?
 
-3)     Can you describe to me what else you are seeing other than the drawer?
-
-4)     Is there anything in the drawer that you want to interact with?
-
-5)     What do you like about the drawer if anything?
-
-6)     What do you dislike about the drawer (if anything)?
-
-7)     What would you change about the drawer (if anything)?
-
-8)     How do you feel about the drawer opening on the right? How do you feel about this versus a window opening in the middle of the screen?
-
-a)     What do you think are some benefits to this?
-
-Please refresh the page. Now click on one of the patients.
-
-9)     What just happened?
-
-10) Did you notice anything before the information in the drawer appeared?
-
-a)     What does this mean to you?
-
-b)    How do you know that data will appear in the drawer?
-
-11) What is another tool or website you use regularly?
+1. Can you please describe to me what you are seeing?
+2. What do you think is the purpose of this drawer?
+3. Can you describe to me what else you are seeing other than the drawer?
+4. Is there anything in the drawer that you want to interact with?
+5. What do you like about the drawer if anything?
+6. What do you dislike about the drawer (if anything)?
+7. What would you change about the drawer (if anything)?
+8. How do you feel about the drawer opening on the right? How do you feel about this versus a window opening in the middle of the screen?
+9. What do you think are some benefits to this?
+10. Please refresh the page. Now click on one of the patients. What just happened?
+11. Did you notice anything before the information in the drawer appeared?
+12.  What does this mean to you?
+13. How do you know that data will appear in the drawer?
+14. What is another tool or website you use regularly?
 
 
 ## Task 4: Smaller screen size
 
 I want to observe how you would use this prototype while using another website. Please open up that website/tool. Resize the windows and view both that website and the prototype at the same time. Now let’s bring back some of the urgency we had earlier in the call.
 
-A nurse urgently needs to know what date the 3rd patient on the list last came in.
 
-1)     Please find the date of the patients last visit.
 
-a)      Please describe your experience finding that information in this smaller screen size.
-
-The nurse now urgently needs to know the urea nitrogen level.
-
-2)     Please find this for the 3rd patient.
-
-a)     Please describe your experience
-
-3)     In your own words, can you tell me what the red bar means to you?
-
-4)     What are the differences between what you see for urea nitrogen versus the other tiles?
-
-5)     How do you feel about the difference?
-
-Let’s imagine the nurse needs the patients blood pressure during their second visit.
-
-6)     How would you do this?
-
-a)     Please tell me about your experience
+1. A nurse urgently needs to know what date the 3rd patient on the list last came in. Please find the date of the patient's last visit.
+2. Please describe your experience finding that information in this smaller screen size.
+3. The nurse now urgently needs to know the urea nitrogen level. Please find this for the 3rd patient.
+4. Please describe your experience
+5. In your own words, can you tell me what the red bar means to you?
+6. What are the differences between what you see for urea nitrogen versus the other tiles?
+7. How do you feel about the difference?
+8. Let’s imagine the nurse needs the patient's blood pressure during their second visit. How would you do this?
+9. Please tell me about your experience
 
 
 ## Wrap Up
 
-Thinking about everything you just saw, what are your overall impressions?
 
-Was there anything that felt confusing or unclear to you?
 
-Was there anything that you found particularly helpful or useful?
-
-If you could change one thing about what you saw today, what would it be?
-
-How, if at all, do you see a tool like this fitting into your workflow?
-
-Is there anything we didn’t cover today that you’d like to share?
+1. Thinking about everything you just saw, what are your overall impressions?
+2. Was there anything that felt confusing or unclear to you?
+3. Was there anything that you found particularly helpful or useful?
+4. If you could change one thing about what you saw today, what would it be?
+5. How, if at all, do you see a tool like this fitting into your workflow?
+6. Is there anything we didn’t cover today that you’d like to share?
 
 Thank you so much for participating today. Your responses really help us improve our patterns and tools. Again, the information you shared today will remain confidential and if you think of something else or have any questions later on, please email me.
+
 
