@@ -144,7 +144,7 @@ Probing questions (can be asked per question):
 - Do you have any questions about what this question is asking you?
 - How are you understanding this question?
 - Does this question accurately gather information that is relevant to your GI bill/ education goals?
--     If not, what information would you expect to be asked about as it relates to your education goals?
+- If not, what information would you expect to be asked about as it relates to your education goals?
 - Are any of the terms used here familar to you? Are there any that are unfamiliar?
 - What is your confidence level in the information presented here?
 
