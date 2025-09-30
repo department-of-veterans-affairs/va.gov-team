@@ -41,7 +41,6 @@
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over to Sprint 4 due to Eng availability, bug fix & additional QA_**
      - **Dependent on QA** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)  - **_Carry over to Sprint 4 due to pending QA before merge_**
-- [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
 - [x] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
 
 ## 
