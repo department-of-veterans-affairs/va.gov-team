@@ -54,7 +54,7 @@
 ##
 ### Team PTO
 - Matt: 9/25
-- Brandon: 9/26
+- Brandon: 9/26, Last day on the team 10/1
 
 ---
 ## 📆 Sprint 3 (Sept 10 - Sept 23) 
