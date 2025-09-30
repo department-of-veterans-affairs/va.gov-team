@@ -6,6 +6,64 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
+## Quarterly Priorities for FY26Q1 (October, November, December 2025)  
+*Quarter Sprints include 19, 20, 21, 22, 23, 24, 25*
+    
+**Primary Goals (May shift based on stretch goal dependencies)**
+| Priority ID | Title | S.Epic |  Goal + Info |  Discipline | Dependency |  End of Quarter Status |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| QP1 | **Digital Debt Dispute (VBA):**  |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Target production launch in June/July | UX-BE | **DMC** | |
+| QP2 | **One Thing Per Page:** |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  | Target production launch as early as possible after QP1 during first half of quarter  | FE | None |  |
+| QP3| **Payment History (VHA):**  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Progress BE development efforts in preparation for Lighthouse Production API (Sept) and continue align with Lighthouse as needed | Primarily BE; may involve whole team collab| Lighthouse |   |
+| QP4| **Pay.gov Hosted Collection Page (HCP) for Overpayments:**  |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |Finalize design + engineering handover.   | BE, FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |   |
+| QP5| **Pay.gov Hosted Collection Page (HCP) for Copays:**  |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |Target production at end of Sept/Early Oct   |BE, FE | **Pay.gov + HRC/VHA accounting** |  |
+| QP6 | **Veteran Request for Hardship Suspension (VBA):** |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Initiate Design Prototyping & Development handover  UX to finalize engineering handover by end of Sept in preparation for development in October  | Design- FE | **DMC** |  |
+| QP7 | **Indirect Initiative Priority Work:**  | [#112855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112855)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25)
+
+## Sprint Goals - Sprint: 19 [10/8/25 - 10/21/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Prepare conversation guide, research plan for the Payment History pre-launch validation study.| QP3 |--|--|--|
+|UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates.| QP2 |--|--|--|
+|ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|--|
+|ENG: If the shutdown happens: Be fully ready to turn on the Digital Dispute asynchronous submission process alongside the new Emails. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|--|
+|ENG: Validate the Digital Dispute PDF content and formatting.| QP1 |--|--|--|
+|ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work.| QP2 |--|--|--|
+|ENG: Complete Payment History implementation work.| QP3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (09/30/25)
+ - [X] VA PO & COR sent the Sprint Goals (09/30/25)
+ - [ ] VA PO approved the Sprint Goals (00/XX/25)
+ - [ ] VA COR approved the Sprint Goals (00/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+## Sprint Goals - Sprint: 20 [10/22/25 - 11/4/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Work with Peregian on recruitment for Payment History pre-launch validation research sessions.| QP3 |--|--|--|
+|UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |--|--|--|
+|ENG: Pending Launch of One Thing Per Page - Ramp up the exposure %, Monitor for issues or errors, address any issues.| QP2 |--|--|--|
+|ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.| QP3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (09/30/25)
+ - [X] VA PO & COR sent the Sprint Goals (09/30/25)
+ - [ ] VA PO approved the Sprint Goals (00/XX/25)
+ - [ ] VA COR approved the Sprint Goals (00/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+<details>
+
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
     
@@ -188,6 +246,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] Any Additional details about goals **not** completed will be documented here
 
 ---
+
+</details>
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
 *Quarter Sprints include 5, 6, 7, 8, 9, & 10*
