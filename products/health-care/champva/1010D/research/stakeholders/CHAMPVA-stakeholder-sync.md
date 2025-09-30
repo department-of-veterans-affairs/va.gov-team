@@ -3,8 +3,6 @@ Every other Tuesday at 10:35am ET
 
 ## 09/30/25
 
-**Attendees:** 
-
 **Agenda**
 - How to handle the question for prescription coverage for OHI (follow-up on email sent 09/26/30)
 - Confirm if users can fax their completed applications and supporting docs for their first application
@@ -25,7 +23,7 @@ Every other Tuesday at 10:35am ET
   - Rogelio C.: confirms that's the correct fax number for 10-10d apps
 - **Action item:** Health apps team to launch print/save PDF after the MVP launch of the new 10-10d/10-7959c (exact date TBD)
 
-Updates to 10-10d/10-7959c launch
+**Updates to 10-10d/10-7959c launch**
 
 - Health Apps team provides updates to the 10-10d/10-7959c launch plan and timeline:
   - Currently wrapping up loose ends with testing in PEGA
