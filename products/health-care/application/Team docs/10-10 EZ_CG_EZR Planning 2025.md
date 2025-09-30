@@ -8,9 +8,9 @@
 ### Sprint Goal summary
 - [x] Investigate Intro page looping - **_Carry over due to bug fixes from ECNOK Launch delaying investigation_**
 - [ ] Spouse QA findings resolution & finalize QA - **_Carry over due to Eng availability, bug fix & additional QA_**
-- [ ] Knowledge-sharing with Brandon
+- [x] Knowledge-sharing with Brandon
 - [x] Complete EZR Print/Save PDF Launch
-- [ ] Review EZR Confirmation Flow/V2 release plans
+- [x] Review EZR Confirmation Flow/V2 release plans
 - [x] Update EZ PDF “Provide Support” question response on the generated PDF
 - [x] Update EZ confirmation page to remove “mail” reference for handbook
 - [ ] Create CHAMPVA Claims 107959a production form flow
@@ -18,7 +18,7 @@
 
 ##
 ###  Team Objective
-- [ ] **SPRINT GOAL** [#120222](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120222) - [Team] KT sessions with Brandon
+- [x] **SPRINT GOAL** [#120222](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120222) - [Team] KT sessions with Brandon
 
 ##
 ### 10-10EZ
@@ -42,7 +42,7 @@
 - [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over to Sprint 4 due to Eng availability, bug fix & additional QA_**
      - **Dependent on QA** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)  - **_Carry over to Sprint 4 due to pending QA before merge_**
 - [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
-- [ ] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
+- [x] **SPRINT GOAL** [#120295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120295) - [PM] Review release plans
 
 ## 
 ### 10-2729a - CVA Claims
