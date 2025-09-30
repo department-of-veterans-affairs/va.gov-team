@@ -1,5 +1,5 @@
 # THIS PAGE WILL BE ARCHIVED.
-The updated Product Outine will be available here. (products/health-care/beneficiary-travel/product-outline-btsss-old.md). 
+The updated Product Outine will be available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product-outline-btsss-old.md). 
 
 # Product Outline Template
 ---
@@ -133,6 +133,7 @@ User is logged in:
 _What offices/departments are critical to make this initiative successful?_
  
 </details>
+
 
 
 
