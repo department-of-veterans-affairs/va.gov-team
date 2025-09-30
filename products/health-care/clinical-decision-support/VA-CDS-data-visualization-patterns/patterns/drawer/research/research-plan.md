@@ -46,27 +46,6 @@ Usability testing will inform the Data Viz team on how to improve the drawer for
 1. Are users able to recognize that data will populate the screen?
 2. Do users understand the purpose of the skeleton loader?
 
-**Line Graph:**
-
-
-
-1. How do users react to seeing a line graph within a drawer?
-2. Are users able to effectively understand the information on the line graph?
-3. Will they understand the legends?
-4. How do they interpret data on the line graph?
-5. Will users be able to identify the differences between multiple lines?
-6. Are users able to discover the different line graph features?
-7. What are the benefits (if any) of seeing a line graph within a drawer?
-8. How do users react to seeing the line graph in different screen sizes?
-
-**Single Value Visualization:**
-
-
-
-1. How do users react to seeing SVV within a drawer?
-2. Do users understand what information the SVV is communicating?
-3. Why is SVV data important?
-4. Why is it important seeing it with context of the main screen?
 
 
 ## Hypothesis:
@@ -76,7 +55,7 @@ Usability testing will inform the Data Viz team on how to improve the drawer for
 * Users will react positively to the drawer because it contains a lot of useful information while keeping the context of the main screen.
 * Users will want to be able to hide areas of the drawer that are not useful for them.
 * Users will hardly notice the skeleton loader, reinforcing the loaders purpose.
-* Users will emphasize the usefulness of the line graph because of the importance of trending data.
+
 
 
 ## Methodology:
