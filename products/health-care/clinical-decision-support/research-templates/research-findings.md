@@ -19,49 +19,45 @@ devices_used:
     smartphone: X
     assistive_technology: X
 participants_total: X
-demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
-  age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
-  education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
-  location:
-    urban: X
-    rural: X
-    unknown: X
-  race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
-  disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+Primary role:
+  Clinical dietician: X
+  MSA: X
+  Nurse Practitioner: X
+  Nursing (RN, LPN): X
+  Pharmacist: X
+  Physician: X
+  Physician Assistant: X
+  Resident, Intern, or Fellow: X
+  Other: X
+Specialty:
+  Cardiology: X
+  Dermatology: X
+  Emergency Medicine: X
+  Endocrine: X
+  Hematology: X
+  Hepatology/Gastroenterology: X
+  Infectious Disease: X
+  Informatics: X
+  Mental Health: X
+  Nephrology: X
+  Neurology: X
+  Oncology: X
+  Pain Management: X
+  Palliative Medicine: X
+  Pharmacy: X
+  Primary Care: X
+  Pulmonology: X
+  Surgery: X
+  Other: X
+Care setting:
+  Outpatient: X
+  Inpatient: X
+  Emergency Department: X
+  Other: X
+EHR:
+ CPRS: X
+ Oracle: X 
+
 key_findings:
   - "Finding 1"
   - "Finding 2"
@@ -122,12 +118,12 @@ synthesis_tools_used:
 - [Research participants](#user-content-research-participants)
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+*Provide context for this research by explaining how it fits into the Clinician Journey or CDS Console.*  
+
 
 **Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
+- What are the key moments this tool supports in the Clinician’s journey?  
+- What outcomes are we aiming to achieve for clinicians, VA staff, and stakeholders?  
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
@@ -289,22 +285,44 @@ _If you had specific criteria that you recruited for, use this space to explain 
 
 We talked to **x participants.**
 
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
-
-
-Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
-
+Primary role:
+  * Clinical dietician: X
+  * MSA: X
+  * Nurse Practitioner: X
+  * Nursing (RN, LPN): X
+  * Pharmacist: X
+  * Physician: X
+  * Physician Assistant: X
+  * Resident, Intern, or Fellow: X
+  * Other: X
+Specialty:
+  * Cardiology: X
+  * Dermatology: X
+  * Emergency Medicine: X
+  * Endocrine: X
+  * Hematology: X
+  * Hepatology/Gastroenterology: X
+  * Infectious Disease: X
+  * Informatics: X
+  * Mental Health: X
+  * Nephrology: X
+  * Neurology: X
+  * Oncology: X
+  * Pain Management: X
+  * Palliative Medicine: X
+  * Pharmacy: X
+  * Primary Care: X
+  * Pulmonology: X
+  * Surgery: X
+  * Other: X
+Care setting:
+  * Outpatient: X
+  * Inpatient: X
+  * Emergency Department: X
+  * Other: X
+EHR:
+ * CPRS: X
+ * Oracle: X 
 
 Devices used during study: 
 * Desktop: x 
@@ -312,40 +330,10 @@ Devices used during study:
 * Smart phone: x 
 * Assistive Technology: x
 
-
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
-
-
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
 Geographic location:
 * Urban: x
 * Rural: x
 * Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
 
 Disability and Assistive Technology (AT):
 * Cognitive: x
@@ -358,33 +346,3 @@ Disability and Assistive Technology (AT):
 * Hearing aids: x
 * Sighted keyboard: x
 * Captions: x
-
-
-#### Underserved groups we haven’t talked to 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
-
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-
-### Recruitment of underserved groups in [Study name]
-
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
