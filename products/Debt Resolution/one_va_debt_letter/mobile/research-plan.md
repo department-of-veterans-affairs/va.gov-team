@@ -1,7 +1,5 @@
 
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, September 2025
 
 ## 🚧 🚧 🚧 Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -80,71 +78,58 @@ Are there moments that matter?</summary>
 > [!TIP]
 > Delete journeys not supported by this research.
 
-## 🚧 🚧 🚧 Research Goals 🥅	
-`What are you trying to learn from this research?` 
+## Research Goals 🥅	
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
+### Goals and Questions
 
-### Goals
+**Goal 1: Assess veteran interest, value, and trust in a combined VA debt statement on mobile.**
 
-`1.` **[Enter answer here]**
+`1.` How do Veterans currently manage or track multiple debts from the VA?
 
-`2.` **[Enter answer here]**
+`2.` What challenges or pain points do Veterans face without a centralized debt view?
 
-`3.` **[Enter answer here]** 
+`3.` Do Veterans see value in a single place to view all outstanding financial obligations on mobile?
+
+`4.` Does having a combined statement increase or decrease Veterans’ trust in the information presented compared to individual letters?
+
+`5.` Does the combined statement make it easier or harder for Veterans to understand their total financial situation?
+
+**Goal 2: Identify Veteran needs, expectations, and preferences for viewing and interacting with a combined statement of outstanding debts on mobile.**
+
+`6.` In what situations would they use a combined statement?
+
+`7.` What actions or decisions would they want to take when viewing a combined statement, and is that different from viewing only individual statements?
+
+`8.` What information or features would make a combined statement most useful?
+
+`9.` How would Veterans prefer to interact with this document? (e.g. PDF, email, mobile app, web)
+
+`10.` Is having a downloadable PDF of the combined statement important when using a phone?
+
+`11.` Do Veterans still want access to individual copay statements and debt letters, or would a combined statement fully meet their needs?
+
+`12.` Is there additional information Veterans wish were included in a combined statement?
+
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
+- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement, saving significant developer effort if it is not desired.
 
-**[Enter outcome here]** 
+- **Define feature set for MVP:** determine which functions will be essential for launch.
 
----
+- **Establish information architecture and content:** inform the design, labeling, and content hierarchy, ensuring that the combined statement is clear and reliable.
 
-### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
-
-**`1.`[Enter Q1]**
-
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
+- **Determine UX flow and digital strategy:** seeing how Veterans prefer to interact with a combined statement will guide the user flow in the app.
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
-
-**[Enter hypotheses here]** 
-
----
+- Veterans currently find it challenging to see the overall financial pictures of their debt and bills.
+- They will like the idea of a combined statement to have all current financial obligations in one place.
+- Veterans will trust that the information provided is accurate and up to date.
+- The current structure of a combined statement will be overwhelming to most.
+- They will want to view details of the debts and bills from combined statements.
+- Veterans will find PDFs of combined statements valuable, both as a familiar format and as a way to save for reference.
+- They will still want access to individual statements and bills, and the combined statement will not be a substitute for these.
   
 ## 🚧 🚧 🚧 Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
