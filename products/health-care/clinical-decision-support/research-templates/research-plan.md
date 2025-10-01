@@ -24,7 +24,7 @@
 
 </details>
 
-### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+### [OCTO-DSD Priorities](insert link here) 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
@@ -59,21 +59,19 @@
 > [!TIP]
 > Delete priorities not supported by this research.
 
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+### [Clinician or VA Staff Journey](insert link)
 
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
+<details><summary>Where does your product fit into the Clinician or VA staff journey?
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+- `Scheduling an appointment`
+- `Preparing for an appointment`
+- `Patient appointment`
+- `Patient follow-up`
+- `Making clinical decisions`
+- `Documentation or charting`
+- `Putting in an order`
+- `Reviewing results`
+- `Closing an encounter`
 
 </details>
 
@@ -192,7 +190,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 > [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
+> **Have your research plan reviewed by the OCTO VA HCD Lead or a CDS HCD Peer review before beginning recruitment**
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
@@ -215,42 +213,33 @@ Provide a link to any materials you need to run your study, including any materi
 - [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
+*Recruitment for CDSC research is done by the researcher. Account for recruitment in your planning and preparation time. Ideally outreach begins 2-4 weeks ahead of targeted testing dates*
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+*Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
 ### Recruitment criteria
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. This is helpful if getting recruitment assistance from CDSC peers.**
+- Consider providing links to products and/or clear descriptions to ensure participants understand the question. 
+  Example: Have you used CDS Medical Calcualtors in the last 6 months? [answer should be yes to qualify.]
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider what criteria MuST be met, versus what is nice to have.
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+### List the ideal completed sessions and total number and type (clinicians, VHA administrative staff, coordinators, etc.) of participants for this study:
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
+- `Clinicians - CPRS:` **[n]**
+- `Clinicians - Oracle: **[n]**
+- `VHA admin staff:` **[n]**
 - `Total:` **[n]**
 - `Ideal completed sessions:` **[n]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
+*What demographics, experience, and scenarios do you need participants to meet to effectively run your study. For example, is it important to capture both inpatient and outpatient care settings? Or are you looking for a certain specialty or role such as a nurse practitionaer or physician?* 
 
 - `[Place primary criteria here between hash marks when in edit mode]`
 - `primary criteria`
@@ -258,7 +247,7 @@ Provide a link to any materials you need to run your study, including any materi
 - **`Add more criteria as needed`**
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+*What criteria would strengthen your results? For example, getting a variety of FTE percentage (patient facing time) or providers who work float schedules. Secondary criteria could also be role types, specialty, etc depending on the priority for a given study * 
 
 - `[Place secondary criteria here between hash marks when in edit mode]`
 - `secondary criteria`
@@ -266,19 +255,13 @@ Provide a link to any materials you need to run your study, including any materi
 - **`Add more criteria as needed`**
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
+Consider recruitment lead time is often 2-4 weeks. 
 
-### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
+*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been shared via Slack in #cds-hcd-cop or DS Office Hours for feedback. 
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
+**A pilot session is required. Find a partipant in the HDC CoP slack channel or your product team** 
 
 - `Pilot participant name:` **[Enter name]**
 - `Date and time of pilot session:` **[Enter time]** 
@@ -297,10 +280,10 @@ Provide a link to any materials you need to run your study, including any materi
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
 > [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+> Since clinicians work across the country, consider how you might accomodate early and later schedules. If you need to widen your hours or get support from another HCD peer to broaden the availability, consider this in your planning. A lot of ET clinicians are available early, 8am ET as they prepare for their day or during lunch hours. Early afternoon often catches PT participants who are at their lunch break too. 
 
 > [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
