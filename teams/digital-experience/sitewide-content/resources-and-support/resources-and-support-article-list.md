@@ -171,3 +171,4 @@
 | 169 | [Services and support for caregivers](https://www.va.gov/resources/services-and-support-for-caregivers/) | Family and caregiver benefits | 9/3/25 |
 | 170 | [Find your VA Consolidated Patient Account Center (CPAC)](https://www.va.gov/resources/find-your-va-consolidated-patient-account-center-cpac/) | Health care | 9/3/25 |
 | 171 | [What to do after applying for CHAMPVA benefits](https://www.va.gov/resources/what-to-do-after-applying-for-champva-benefits/) | Family and caregiver benefits | 9/9/25 |
+| 172 | [How to resolve a dispute with your builder](https://www.va.gov/resources/how-to-resolve-a-dispute-with-your-builder/) | Housing assistance | 9/30/25 |
