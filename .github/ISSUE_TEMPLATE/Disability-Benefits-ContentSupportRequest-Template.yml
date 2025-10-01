@@ -49,10 +49,10 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: | 🏷️ About your initiative
+    value: Tell us About your initiative
 - type: checkboxes
   attributes:
-    label: Which of these descriptions best fits the work we'll partner on? (select all that apply)
+    label: Which of these descriptions best fits the work we will partner on? (select all that apply)
     options:
       - label: Digitizing a new form
       - label: Updating an existing form
