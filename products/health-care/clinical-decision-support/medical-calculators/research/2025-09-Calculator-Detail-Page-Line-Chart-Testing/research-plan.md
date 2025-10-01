@@ -1,10 +1,11 @@
 
 	# Research Plan for [CDSC, Medical Calculators, 09/15/2025]
 > [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+> *Questions about how to set up your research study? Reach out first in the [#cds-hcd-cop](https://dsva.slack.com/archives/C06043YBWTC) Slack channel. If you have more questions or support needs, reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
 ## Background 🏗️
 <details><summary>In prior research, we learned that clinicians find value in graphs and viewing trend data. However, when testing this concept on our 'Patient Summary' page, the utility of the graphs was lower at that point in the workflow compared with other stages. There are several calculator input fields, however, that are too subjective to autopopulate, but that rely on the clinician reviewing lab data which requires them to context switch to find this data in CPRS before coming back to the Medical Calculator application to answer the question. </summary>
+
 	
 `What problem is your product trying to solve?`
 
@@ -32,7 +33,7 @@
 
 ### Research questions
 
-**`1.`How intuitive is it to see a CTA to access lab history below the calculator input field?** (Do clinicians notice this option? What do clinicians expect to have happen when they click the link? Do they click the link to open graphs?)
+**`1.`How intuitive is it to see a call to action (CTA) to access lab history below the calculator input field?** (Do clinicians notice this option? What do clinicians expect to have happen when they click the link? Do they click the link to open graphs?)
 
 **`2.`What are clinicians reactions to seeing graphs in this context?** (Do they anticipate it improving their workflow? Will they use this feature over going to CPRS or JLV?)
 
@@ -90,28 +91,15 @@
 
 ## Research materials 📔
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
 
 **For moderated usability tests:** 
 - [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [[Link to prototype](https://www.figma.com/proto/uRUcFMxuFOoNMJeMXJsI5w/Dashboard---Calculators-and-Patient-Summary-Tabs?node-id=19531-2916&t=Ra44YiX7kcE0GF5S-0&scaling=min-zoom&content-scaling=fixed&page-id=19531%3A2915&starting-point-node-id=19531%3A3104)]
 
 
-
-**Outreach Email Template**
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
-*For staff and clinician facing research, the researcher is responsible for recruitment. The researcher may ask other HCD peers for assistance for connections if needed*
+*For staff and clinician facing research, the researcher is responsible for recruitment. The researcher may ask other CDSC HCD peers for assistance for connections if needed*
 
 
 ### Recruitment approach
@@ -147,19 +135,38 @@ A minimum of 5 clinicians
 - `1-2 clinical pharmacy specialists`
 - `1 clinician familiar with Oracle health (end user or transition team)`
 
+### Outreach Email Templates
+**General template, adjustments made for individual emails based on context or prior connection with participant. The outreach email must contain the line about voluntary participation and anonymity**
+
+Hello (Name),
+My name is Rosemary Rogers, and we previously connected via your support request to (enter request or issue). 
+
+I am reaching out now to see if you would be interested in participating in a design feedback session. We are currently evaluating some new designs for the Medical Calculator application on the CDS Console. I’d love to get your perspective and feedback on these new concepts. It would involve participating in a 60-minute remote session on MS Teams. The session would include a general introduction and current experience with Medical Calculators, then I would share a design prototype with you along with a few probes to get your reactions, followed by closing questions. The prototype we will use for aiding our discussion will be using the HAS-BLED calculator. 
+
+Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential, and your anonymity protected.
+
+If you are interested in participating, the following days and times are available. Please respond to this email with a few 60-minute options that work for you, and I will send an invitation. If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. 
+
+All times are in **Eastern** time:
+
+Week of September 15:
+- Friday, September 19: 9:30 – 11am
+  
+Week of September 22
+- Monday, September 22: 10 - 11:30am
+- Tuesday, September 23: 10-11am, 1-2pm
+- Wednesday, September 24: 12 - 1pm, 2 - 5pm
+- Thursday, September 25: 10 - 11am
+- Friday, September 26: 10 - 12pm, 2 - 4pm
+
+I hope we can connect soon. If you are not interested in participating in these types of sessions, that’s fine too! Please let me know so I can make note!
+
+Cheers,
+Rosemary
+
 ## Timeline 🗓️
 Approximately September 17 - October 2, 2025, based on clinician availability
 60-minute sessions with at least 15-minute breaks in between
-
-### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
 - `Planned dates of research:` **[09/17-10/01]**
@@ -171,21 +178,17 @@ Approximately September 17 - October 2, 2025, based on clinician availability
   
 - `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **3**
 
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
+### Prepare
+*Don't forget to share your plan, stimuli, probes, or prototypes with the HCD team for feedback as you are working. Aim to have a CDS HCD peer review or review by the VA CDS HCD Lead at least 3 days before the first test to have time for changes*
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
+**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
+> [!NOTE]
+> **Send pilot participant email in study Slack channel**
 
-- `09/17, Wednesday, 01:00 PM-02:00 PM EST`
-- `09/18, Thursday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
+- `Pilot participant name:` **[Enter name]**
+- `Date and time of pilot session:` **[Enter time]** 
+
+ 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 > [!NOTE]
