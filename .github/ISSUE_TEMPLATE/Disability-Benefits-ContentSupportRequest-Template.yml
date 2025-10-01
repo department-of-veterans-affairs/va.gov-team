@@ -58,11 +58,6 @@ body:
       - label: Digitizing a new form
       - label: Updating an existing form
       - label: Incorporating C&IA content feedback
-      - label: Something else
-- type: input
-  attributes:
-    label: If something else
-    placeholder: Enter something else here 
 
   - type: textarea
   attributes:
