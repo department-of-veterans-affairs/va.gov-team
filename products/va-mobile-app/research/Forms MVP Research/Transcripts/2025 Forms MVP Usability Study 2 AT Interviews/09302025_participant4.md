@@ -266,21 +266,23 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
   - Did the user share any confusion about the options provided?
 
-**Well I don't ahve an open claim. We are doing a new claim. You can do this for your claim. I'm looking for something that says I want to provide a statement for a new claim. This says a claim but... I would actually pick 'What I want to do isn't listed here. So I guess I would probably waste my time by going to 'What I want to do isn't listed here'.**
+**Well I don't have an open claim. We are doing a new claim. You can do this for your claim. I'm looking for something that says I want to provide a statement for a new claim. This says a claim but... I would actually pick 'What I want to do isn't listed here. So I guess I would probably waste my time by going to 'What I want to do isn't listed here'.**
 
 
 ### Questions for testing participant: 
 
 - How was your experience navigating to the form from your [assistive tech/device]? 
+**It was actually pretty easy, Except when I went into the claims portion. I thought I went back but I wasn't back to the home screen.**
 
 - How confident do you feel that you're in the right place to submit your statement?
+**50% confident**
 
 - Before you start the form itself, what do you expect this form completion process to be like?
-
+**I expect it to know my information and I to just approve it. Then come to a place where I can use my microphone to write my statement.**
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
-
+**Well, I guess my dream of having it all filled out for me is gone.**
 **For screen magnifier participants:**
 [Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What is on your screen now? 
 
@@ -290,22 +292,36 @@ You may continue on with the form.
 
 ### Watch for:
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+**yes**
 
  - If Y, what field do they encounter errors on?
+ **First tried to use mircrophone to voice to text. It wasn't working. AT specialist noted that it may be because we are using zoom at the same time.**
+**Also, received an error on the birthdate field.**
+**Received an error when entering the SSN field.**
 
  - What triggered the error specifically?
-
+ **Just navigating between the separate areas of the field, from month to day to year caused a validation error everytime because the full date field wasn't completed yet.**
+ **On the SSN field they initially typed too many numbers.**
+   
  - Does the user understand how to correct the error? 
+**You're already failing at this guys because I thought it would be easier than typing all this stuff. It keeps telling me I got an error everytime I select a date.**
+**It's interesting because it doesn't go to Step 2, it goes to the header [on the next page with their VoiceOver focus].**
+**Again if this is my app how come it doesn't know my social security number? I have no idea how many numbers I have in there. Its only showing my the last numbers, I have no idea.**
+**[After attempt to correct]Then it's telling me again that I have invalid data.**
 
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+**Yes**
 
  - If Y, what specific challenges did they experience?
+
 
  - How did the user troubleshoot these challenges?
 
 - Does the user express thoughts of frustration while completing the form? Y/N
+**Yes**
 
  - If Y, what did they experience when expressing the frustration?
+ **Errors on field validation problems. In ability to perceive how many #s they entered into the SSN field. In ability to hear all numbers entered only last few.**
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -314,20 +330,24 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
-
+**User would select 'Finish this application later'. Although, at the bottom of the screen, hold on, it says we've saved your application. At 10.43 a.m. So, actually, now, at this point, if I saw that. and I heard that, then I would go to the home screen, I would jump back.**
+  
  - Did they mention any previous experience or confusion?
+**I don't trust it. I would save it because it was difficult for me to get here.**
 
 - What does the user do to leave the form?
+**Now at this point I would jump back to the homescreen. I would go 'Done'.**
 
 - Does the user express doubt that their work will be saved? Y/N
-
+**No**
 
 ### Questions for testing participant: 
 
 - How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
+**It was good. I like the fact that it jumped up and said that it autosaves. That gives me confidence.**
 
 - How confident do you feel that your work will be saved?
-
+**I'm probably, you know, 99% I would be disappointed if it wasn't there.**
 
 
 ## Task 5: Continue completing the started form and submit
@@ -339,8 +359,11 @@ Please locate your previous form and continue on.
 ### Watch for:
 
 - In this step, what did the participant expect to happen?
+**Go to My Forms. I would go to active. There we go, statement in support of a claim. Well, I'm clicking on it. Nothing is happening... Okay, so this is the form that I was working on. I would… when I'm double-clicking, It stops… okay, so it stops on active forms. and I double-click on it, And… It just keeps staying there, it's not jumping to the next one.**
 
  - Did they mention any previous experience or confusion?
+
+ **So then I come to statement in support of a claim, and I double-click on it, and it isn't moving, but it allows me to double-click. So then I just keep moving forward, because I'm realizing. nothing is happening. And then I double-click on this, and when I double-click on that, I expect it...to open up in the form, but it's not happening. So, I move forward. and I come to draft, and then I'll double-click on Draft. And I expect it to open up to a draft. And nothing happens. And so I move forward again, and it goes 30 days left to complete, and then I move forward till I find continue to form.**
 
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
 
