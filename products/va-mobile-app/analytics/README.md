@@ -28,6 +28,30 @@
 - Average App Store Rating ([App store](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596))
 - Average Play Store Rating ([Play store](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US))
 
+## September 2025
+
+**Date range for metrics**: September 1, 2025 - September 3o, 2025
+
+- **Total downloads since launch**: ~1.45M (A) + ~2.42M (iOS) = ~3.87M 
+- **New monthly downloads**: 41k (A) + 53.3k (iOS) = 94.3k
+- **Monthly active users**: 1.6M
+- **Monthly new users**: 189k
+- **Monthly appointment detail views**: 3,424,973
+- **Monthly Rx Refill**: 587,911
+- **Monthly Letter Downloads**: 595,948
+- **Monthly Secure Messages Sent**: 742,592
+- **Monthly Veteran Status Views**: 701,079
+
+### Android
+
+- **Android installs**: 41k
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 53.3k
+- **Average App Store Rating**: 4.8
+
 ## August 2025
 
 **Date range for metrics**: August 1, 2025 - August 31, 2025
