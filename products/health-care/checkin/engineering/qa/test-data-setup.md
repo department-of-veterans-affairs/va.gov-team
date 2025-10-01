@@ -187,9 +187,9 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 271 | Fourteen, Patient | 1935-04-07 | Lee | √ | √ |
 | 723 | Twentysix, Patient | 1935-04-07 | Adrian | √ | √ |
 | 366 | Twentyeight, Patient | 1935-04-07 | John | √ | √ |
-| 350 | Twentynine, Patient | 1935-04-07 | Gaurav | √ | √ |
+| 350 | Twentynine, Patient | 1935-04-07 | Steven S. | √ | √ |
 | 391 | Thirty, Patient | 1935-04-07 | Lori | √ | √ |
-| 384 | Thirtyone, Patient | 1935-04-07 | Kanchana | √ | √ |
+| 384 | Thirtyone, Patient | 1935-04-07 | Jenny | √ | √ |
 | 140 | Thirtytwo, Patient | 1935-04-07 | Nathan Douglas | √ | √ |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras | √ | √ |
 | 267 | Thirtyfour, Patient | 1935-04-07 | NSOC Team | √ | √ |
@@ -200,9 +200,9 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 151 | Thirtyeight,Patient | 1935-04-07 | Event Bus Team 3 | √ | √ |
 | 347 | Thirtynine,Patient | 1935-04-07 | Event Bus Team 4 | √ | √ |
 | 520 | Forty,Patient | 1935-04-07 | Event Bus Team 5 | √ | √ |
-| 41  | Zzzretsixfortytwo,Patient | 1935-04-07 | Zach | √ | √ |
+| 41  | Fortyone,Patient | 1935-04-07 | Katelyn | √ | √ |
 | 42  | Zzzretfourfiftyfour,Patient | 1935-04-07 | Ben | √ | √ |
-| 569 | Fotrythree,Patient | 1935-04-07 | Brian | √ | √ |
+| 569 | Fotrythree,Patient | 1935-04-07 | Shaimun | √ | √ |
 | 692 | Fortyfour,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Design | √ | √ |
 | 168 | Fortyfive,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Accessibility | √ | √ |
 | 301 | Fortysix,Patient | 1935-04-07 | CIE Team Demos/Reviews / Platform Content | √ | √ |
