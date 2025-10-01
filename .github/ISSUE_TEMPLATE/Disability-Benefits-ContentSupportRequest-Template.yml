@@ -62,9 +62,7 @@ body:
 - type: input
   attributes:
     label: If something else
-    placeholder: Enter something else here
-  validations:
-    required: false
+    placeholder: Enter something else here 
 
   - type: textarea
   attributes:
