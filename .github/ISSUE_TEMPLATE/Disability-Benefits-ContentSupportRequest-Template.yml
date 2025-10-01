@@ -49,7 +49,7 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: Tell us About your initiative
+    value: Tell us about your initiative
 - type: checkboxes
   attributes:
     label: Which of these descriptions best fits the work we will partner on? (select all that apply)
