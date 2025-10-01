@@ -50,7 +50,7 @@ body:
 - type: markdown
   attributes:
     value: | ## 🏷️ About your initiative
-- type: checkboxes
+- type: checkbox
   attributes:
     label: Which of these descriptions best fits the work we'll partner on? (select all that apply)
     options:
