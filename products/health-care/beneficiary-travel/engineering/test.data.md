@@ -117,7 +117,9 @@ The terminal will connect and you see a shell-like prompt that you can type comm
 1. For PCI: Enter `YES` for `IS THIS A 'NEXT AVAILABLE' APPOINTMENT REQUEST?`; For Travel Pay from Past Appointments, select `NO`
 1. Select a date, you can use the exact date format or any of the VistA Shorthands.
     1. For future you can use `T@1045` syntax. That will create an appointment for `today at 10:45AM`
-    2. For past, use the `MMDDYYYY@Time` format; `07152025@0830` will make an appointment for July 15, 2025 at 8:30 am.
+    2. For past
+        - Use `T-1@1045` syntax, sub tract the number of days you want to go back
+        - Use the `MMDDYYYY@Time` format; `07152025@0830` will make an appointment for July 15, 2025 at 8:30 am.
     3. Times are in the VAMC's local timezone
 1. Keep the defaults for the rest of the questions (keep hitting enter)
 1. When you get to select a clinic, you have created an appointment
