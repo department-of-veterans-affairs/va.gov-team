@@ -30,22 +30,22 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 
 |BE Metrics  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 | 765,827 |  |
-|**NOT\_TITLE\_38** (error message) | No Data | No Data | 0.3% | 0.3% | 0.3% | 0.4% |  |
-| **Not NOT\_TITLE\_38** (error message) | No Data | No Data | 2.9% | 3% | 3.1% | 3.4% |  |
-|**ERROR Not Confirmed** (error message) | No Data | No Data | 0% | 0% | 0% | 0% |  |
+| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 | 765,827 | 701,079 |
+|**NOT\_TITLE\_38** (error message) | No Data | No Data | 0.3% | 0.3% | 0.3% | 0.4% | 0.9% |
+| **Not NOT\_TITLE\_38** (error message) | No Data | No Data | 2.9% | 3% | 3.1% | 3.4% | 7.1% |
+|**ERROR Not Confirmed** (error message) | No Data | No Data | 0% | 0% | 0% | 0% | 0% |
 
 |FE Metrics  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 | 765,827  |  |
-|Event Count **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |7.7k | 8.5k | 8.7k |  |
-|Total Users **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |2.7k | 3.4k | 3.7k |  |
-|Event Count **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 69k | 75k | 64k |  |
-|Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 23k | 27k | 25k |  |
-|Event Count **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 38k | 81k | 44k |  |
-|Total Users **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 25k | 51k | 28k |  |
-|Event Count **ERROR Not Confirmed** (error message) | No Data | No Data | No Data | 0 | 0 | 0 |  |
-|Total Users **ERROR Not Confirmed** (error message) | No Data | No Data |No Data | 0 | 0 | 0 |  |
+| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 | 765,827  | 701,079 |
+|Event Count **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |7.7k | 8.5k | 8.7k | 7.9k |
+|Total Users **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |2.7k | 3.4k | 3.7k | 3.7k |
+|Event Count **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 69k | 75k | 64k | 58k |
+|Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 23k | 27k | 25k | 25k |
+|Event Count **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 38k | 81k | 44k | 30k |
+|Total Users **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 25k | 51k | 28k | 19k |
+|Event Count **ERROR Not Confirmed** (error message) | No Data | No Data | No Data | 0 | 0 | 0 | 0 |
+|Total Users **ERROR Not Confirmed** (error message) | No Data | No Data |No Data | 0 | 0 | 0 | 0 |
 
 * Total number of views: This details the number of Veterans who can view their Proof of Veteran Status Card.
 * NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
