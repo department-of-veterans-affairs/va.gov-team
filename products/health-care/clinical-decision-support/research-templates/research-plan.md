@@ -103,7 +103,7 @@
 
 ### Research questions
 > [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/research-templates/conversation-guide.md)
 
 ***Consider bucketing research questions under research goals and think about:***
 	
@@ -219,6 +219,18 @@ Provide a link to any materials you need to run your study, including any materi
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
+`Audience:` [enter user group here]
+
+**`1.`CDSC Research Participant Database:** The CDSC research participant database is available to CDSC HCD Practictioners. If you are not part of this group, ask the OCTO CDSC VA Lead to assist with recruitment. 
+
+**`2.`SSS Clinician Office Hours:** SSS hosts a weekly office hours for clinicians and other VHA staff. If you have an upcoming study, consider attending office hours to share about your study and see if any folks are interested or could connect you with someone.
+
+**`3.`Application Support and Feedback:** SSS manages initial platform and app team support for CDS. Review support and feedback queries that come in and see who submitted the feedback and if they might match your study criteria. For example, a physician who requested a new calculator or had trouble with autopopulation may be interested in reviewing new designs.
+
+**`4.`Snowball:** Ask your prior participants if they can share your name and email or the sign-up form with their colleauges to find new participants.
+
+**`5.`Product SME:** Ask your product SME if they have other contacts you can engage with. 
+
 ### Recruitment criteria
 
 - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. This is helpful if getting recruitment assistance from CDSC peers.**
@@ -229,11 +241,10 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### List the ideal completed sessions and total number and type (clinicians, VHA administrative staff, coordinators, etc.) of participants for this study:
 > [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
-
+> Your total number should equal **2x** your ideal completed sessions number *(e.g. for 6 ideal completed sessions, plan to email at least 12 participants)*
 
 - `Clinicians - CPRS:` **[n]**
-- `Clinicians - Oracle: **[n]**
+- `Clinicians - Oracle:` **[n]**
 - `VHA admin staff:` **[n]**
 - `Total:` **[n]**
 - `Ideal completed sessions:` **[n]**
