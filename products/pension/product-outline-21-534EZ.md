@@ -7,7 +7,7 @@
 ## Overview
 We are digitizing VA Form 534EZ (Application for Dependency and Indemnity Compensation by a Surviving Spouse or Child).
 
-We are also developing an enhanced feature that uses AI/ML to automatically process and extract relevant information from unstructured document attachments, streamlining the application process for surviving family members.
+We are also developing an enhanced feature that uses intelligent OCR to automatically process and extract relevant information from unstructured document attachments, streamlining the application process for surviving family members.
 
 ## Problem Statement
 Surviving spouses and children of deceased veterans face a cumbersome, paper-based process when applying for Dependency and Indemnity Compensation (DIC) benefits through VA Form 534EZ. 
