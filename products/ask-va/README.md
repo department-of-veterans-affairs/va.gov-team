@@ -22,6 +22,11 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 |Product owner (VES)|Natalie Morales|
 |Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
 
+### Current teammates
+|Role|Assigned|Contact|
+|:---|:---|:---|
+||||
+
 ### Former teammates
 |Role|Assigned|Contact|
 |:---|:---|:---|
