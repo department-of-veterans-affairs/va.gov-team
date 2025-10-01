@@ -28,7 +28,7 @@ We learned in [(limited) prior research](https://github.com/department-of-vetera
 
 ## **OCTO Priorities**
 
-This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md):
+This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md):
 
 * VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
@@ -88,12 +88,12 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 
 ### Recruitment criteria
 
-6 Veterans and 2 family members who meet the below criteria in order to get 8 completed sessions.
+6 Veterans and 2 family members who meet the below criteria in order to get 8 completed sessions (recruit 12).
 
 **Primary criteria**
 
-* At least 4 have previously used the facility locator  
-* At least 4 have NOT previously used the facility locator  
+* At least 6 have previously used the facility locator  
+* At least 6 have NOT previously used the facility locator  
 * At least 3 people with a cognitive disability (e.g., TBI)  
 * At least 4 have a smartphone to use for the session and...  
   * Have Zoom downloaded to their smartphone prior to the session and know how to share their screen  
@@ -113,17 +113,17 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 ### Screening Questions
 
 1. Have you searched for a VA location using the VA facility locator?  
-   1. No (RECRUIT 4\)  
-   2. Yes (RECRUIT 4\)  
+   1. No (RECRUIT 6\)  
+   2. Yes (RECRUIT 6\)  
 2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
    1. No  
-   2. Yes (RECRUIT 3 and RECORD as having a cognitive disability)  
+   2. Yes (RECRUIT 4 and RECORD as having a cognitive disability)  
 3. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.  
    1. No  
-   2. Yes (RECRUIT 3\)  
+   2. Yes (RECRUIT 4\)  
 4. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?  
    1. No  
-   2. Yes (RECRUIT 4\)  
+   2. Yes (RECRUIT 6\)  
 5. What time zone are you located in? (RECORD)
 
 ## **Timeline**
@@ -161,12 +161,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 | Team Availability | Time Slots (ET) |
 | :---- | :---- |
-| 10/6/25 | 10:00-14:15 |
-| 10/7/25 | 10:00-11:30, 14:30-17:00 |
 | 10/8/25 | 10:00-17:30 |
 | 10/9/25 | 10:00-11:30, 15:00-17:30 |
 | 10/10/25 |10:00-16:00 |
-| 10/14/25 | 9:00-14:00 |
+| 10/14/25 | 10:00-16:00 |
+| 10/15/25 | 10:00-13:00, 10:00-14:30 |
+| 10/16/25 | 10:00-14:30 |
 
 ## **Team Roles**
 
@@ -184,4 +184,4 @@ Please list the people who will be serving in each role.
 
 * [ ] Jon Katora (Product Owner) Approved 9/29/25
 * [ ] Michelle Middaugh (Product Owner) Approved 9/29/25
-* [ ] Shane Strassberg (VA Research Ops) 
+* [ ] Shane Strassberg (VA Research Ops) 9/30/25
