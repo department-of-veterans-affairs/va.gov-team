@@ -63,6 +63,8 @@ body:
   attributes:
     label: If something else
     placeholder: Enter something else here
+  validations:
+    required: false
 
   - type: textarea
   attributes:
