@@ -64,7 +64,7 @@ body:
     label: If something else
     placeholder: Enter something else here
 
-- type: textarea
+  - type: textarea
   attributes:
     label: User need 
     description: As a **user**, I want to **do something** so that **something happens**.
