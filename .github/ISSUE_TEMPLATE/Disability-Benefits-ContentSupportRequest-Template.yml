@@ -1,5 +1,5 @@
-name: Disability Benefits Content Support Request Template
-description: Content support request for the Disability Benefits Team
+name: Disability Benefits Crew Content Support Request Template
+description: Content support request for the Disability Benefits Crew
 title: "[INTAKE] Team name: Initiative name"
 labels: ["disability", "disability-benefits", "content"]
 projects:
@@ -11,7 +11,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Use this ticket to [ask the Disability Benefits Crew (DBC) content designer for support](https://docs.google.com/document/d/1YBJgdfQkuULS4S5zOUgOqAt7Tg50l-YnAib8RXYdO1A/edit?tab=t.0#heading=h.e7bnbdg3wale).
+      Use this ticket to ask the Disability Benefits Crew (DBC) content designer for support. Use clear, simple language and action verbs to describe the work. Avoid acronyms and jargon.
 
       ## 👥 Team info
       Tell us about your team.
@@ -57,17 +57,22 @@ body:
     options:
       - label: Digitizing a new form
       - label: Updating an existing form
-      - label: Adding new unauthenticated content to VA.gov
-      - label: Updating existing unauthenticated content on VA.gov
+      - label: Incorporating C&IA content feedback
       - label: Something else
 - type: input
   attributes:
     label: If something else
     placeholder: Enter something else here
+
 - type: textarea
   attributes:
-    label: Describe the work effort
-    description: Provide a brief description of the work.
+    label: User need 
+    description: As a **user**, I want to **do something** so that **something happens**.
+  
+  - type: textarea
+  attributes:
+    label: Description
+    description: Describe the scope of this work, background context, why it matters, dependencies, goals, and open questions.
 
 - type: markdown
   attributes:
