@@ -1,7 +1,7 @@
 ## How to rotate VA Notify Keys
 
 ### Context
-Every 90 days, our team has been tasked with rotating the AWS keys for VA Notify emails.  Currently this only applies to the pension/burials team because of the separate service group our templates fall-in.
+Every 180 days, our team has been tasked with rotating the AWS keys for VA Notify emails.  Currently this only applies to the pension/burials team because of the separate service group our templates fall-in.
 
 The "va.gov" service in VA Notify is a generic bucket for many groups and is yet to be addressed.
 
