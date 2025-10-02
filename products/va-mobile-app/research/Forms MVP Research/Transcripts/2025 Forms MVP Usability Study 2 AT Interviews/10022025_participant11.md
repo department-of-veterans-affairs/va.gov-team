@@ -42,7 +42,7 @@ Thanks for joining us today! My name is **Christine**. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes **Notetaker First Name** and our accessibility specialist **AT Specialist First Name** will be on the call available to provide support with any technical issues that may arise with your use of assistive technology should you need it.
 
-There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
+There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?** 
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker (and the technical support person).
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
 
@@ -88,31 +88,31 @@ Before we start, I want to go over a few things:
 
 Let’s start with a few questions... 
 
-1. I understand you are a Veteran. Is that right? 
+1. I understand you are a Veteran. Is that right? "Yes, Ma'am..."
     - Thanks for confirming that.
 
-2. What kind of device are you using today? *(Tablet / Smartphone)*
+2. What kind of device are you using today? *(**Tablet** / Smartphone)* iPad Pro
     - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system is on your device? *(iOS / Android / _______)*
+3. What operating system is on your device? *(iOS / Android / _______)* iOS 
 
-4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
+4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)* "I use Siri...goes to **Chrome** or whatever..."  
 
-5. What type of assistive technology are you using right now?
+5. What type of assistive technology are you using right now? "I use the magnifier, couldn't read without it...I use 24[%]..." (User also uses glasses for reading) 
 
-6. How many years have you been using [assistive technology]?
+6. How many years have you been using [assistive technology]? "...been over 10 years" "The glasses first and I can't remember when I got my first phone or iPad..." "2017-2018" 
 
-7. When or how often do you use it?
+7. When or how often do you use it? "I use it all the time." 
 
-8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert?
+8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert? "I use it all the time...even when I'm looking at pictures, I have to make everything larger." (prompted) "Intermediate" "[text] is pretty big, and the one on the iPad is even larger" 
 
-9. Have you ever shared your screen in Zoom while using a screen reader/magnifier?
+9. Have you ever shared your screen in Zoom while using a screen reader/magnifier? "Yes I have" 
 
-10. Have you ever filled out a VA form online before? 
+10. Have you ever filled out a VA form online before? "My wife helps me out a lot with those forms..she does 'em all...my wife normally does it." 
    - If so, can you tell me about your most recent experience? How did it go?
   
-11. Do you have the VA Health and Benefits mobile app downloaded on your device?
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+11. Do you have the VA Health and Benefits mobile app downloaded on your device? "Yes, for going into myHealthEvet..." "One second...I didn't know I was low on battery" "I would go on it to order my medications, if I have any questions...for the doctors...follow up on my appointments...messages that the doctor's send me look at it on there...you can see what your disability rating is...see claims...things of that nature." 
+   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far? "I haven't had no real problems...my wife normally does it all, we've been married 43 years...the only problem I had with it one time was how to logout...go to settings, go to singing out, so many steps to do one thing...it seems like signing out should be right there." 
 
 
 # User Tasks
@@ -133,7 +133,7 @@ We can help guide you through sharing your screen when you're ready if you'd lik
 
 ## Task 00: Open prototype
 **for iOS users:** 
-Did you previously receive the link and instructions to download the testing version of the mobile app today?
+Did you previously receive the link and instructions to download the testing version of the mobile app today? 
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
@@ -184,9 +184,9 @@ I'd like you to take a look at this screen, and sign in.
 [When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a test environment with artifical testing data displayed only. 
 
 **For screen magnifier participants.**
-[Confirm you're seeing what they are seeing by asking them] "What is on your screen now?
+[Confirm you're seeing what they are seeing by asking them] "What is on your screen now? "At the top...It says talk to the Veteran crisis line, I don't need that, I can see my profile icon...I see upcoming appoitments...past appointments 5, eligible for travel...and go to my forms, I'm just scrolling down down...Coast Gaurd! Nothing against them but I'm not Coast Guard..." 
 
-Are you seeing the participants screen magnified at all? 
+Are you seeing the participants screen magnified at all? "Yes" 
 
 If not, ask the participant to check their settings on their device by navigating to...
 
@@ -217,34 +217,34 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 
 ### Watch for:
-- How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+- How the user gets to forms. Do they click anything other than "Go to Forms"? Y/**N** "Contact us, I like that one..." "The blue here's telling you what's active..." "I think I would go to my forms..." "I would hit this VA contact us...cause they would tell me what form I would need...and I can't tell you for the form number off the top of my head.." "You can have active claims that are already...approved or disapproved and you view from there..." "Not knowing the form number I would call them, get the form number, and then [go to forms]." 
 
  - If Y, where do they go instead?
 
-- Does the user mentions any confusion on where to go to start a new statement. Y/N
+- Does the user mentions any confusion on where to go to start a new statement. **Y**/N "I can start a statement" (hits button, goes to GH portal) 
 
  - If Y, what do they find confusing?
 
 - In this step, what did the participant expect to happen?
 
- - Did they mention any previous experience or confusion?
+ - Did they mention any previous experience or confusion? 
 
 - Did the user understand the 'Submit a statement in support of a claim' introductory screen? Y/N
 
- - Did the user comment on this screen?
+ - Did the user comment on this screen? Yes, (user reads content out loud) "...Okay, start your statement..."  
 
-- What option did the user select on the 'What would you like to do here?' screen?
+- What option did the user select on the 'What would you like to do here?' screen? (user reading through options silently and then out loud) "I have new evidence...I want to make sure I'm selecting the right one...a new claim..." (reads radio button options out loud) "...A new claim..." (reads radio button options out loud again) "...I want to requset my personal record, that's a new one...can I touch one?" "Need help, oh I like the need help!" "...What I want to do isn't listed here...all those other ones look like you have a claim in...that's not putting in a claim...for me I would hit that last one...if I had any questions I would call that 1800 number they have there.." 
 
   - Did the user share any confusion about the options provided?
 
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the form from your [assistive tech/device]? 
+- How was your experience navigating to the form from your iPad? "I had to magnify the list bigger at the beginning...it helps me to see and not miss a word...I have no peripheral either...helps me not miss"  
 
-- How confident do you feel that you're in the right place to submit your statement?
+- How confident do you feel that you're in the right place to submit your statement? "They want my name, date...I know I'm good there...I feel I'm in the right place to start a new claim, they're asking about me and they're going to have more information that they want to know" "I hope I'm answering your questiosn correctly" 
 
-- Before you start the form itself, what do you expect this form completion process to be like?
+- Before you start the form itself, what do you expect this form completion process to be like? "...they're going to have a space in there about what I want to request with additional documents to support my claim on the following pages, following this name section..."
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
@@ -258,19 +258,19 @@ Thank you.
 You may continue on with the form.
 
 ### Watch for:
-- Does the user encounter any errors when entering the data into the form fields? Y/N
+- Does the user encounter any errors when entering the data into the form fields? **Y**/N
 
- - If Y, what field do they encounter errors on?
+ - If Y, what field do they encounter errors on? Date field, day 
 
- - What triggered the error specifically?
+ - What triggered the error specifically? February 28th didn't pass data validation based on year entered
 
- - Does the user understand how to correct the error? 
+ - Does the user understand how to correct the error? Changed day to 28
 
-- Does the user experience any difficulty completing the fields from their mobile device Y/N
+- Does the user experience any difficulty completing the fields from their mobile device Y/**N**
 
  - If Y, what specific challenges did they experience?
 
- - How did the user troubleshoot these challenges?
+ - How did the user troubleshoot these challenges? 
 
 - Does the user express thoughts of frustration while completing the form? Y/N
 
@@ -282,20 +282,20 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 
 ### Watch for:
-- In this step, what did the participant expect to happen?
+- In this step, what did the participant expect to happen? 
 
  - Did they mention any previous experience or confusion?
 
-- What does the user do to leave the form?
+- What does the user do to leave the form? "I hit done, and I'm done...I have to go to the homepage"
 
-- Does the user express doubt that their work will be saved? Y/N
+- Does the user express doubt that their work will be saved? **Y**/N "...They're gonna say what's up with this, it's an imcomplete form..." 
 
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
+- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? "I would've been easier to just hit the home icon [after pressing done]...my mind is saying, you might have to do the whole form again"
 
-- How confident do you feel that your work will be saved?
+- How confident do you feel that your work will be saved? "They said they'd save if for 30 days...but it was an incomplete form...so I'd say they would discard it, I'm saying I'd have to start over...go back to the form to see if my information is still on there...it said finish form later, I remember seeing that option" 
 
 
 
@@ -307,15 +307,15 @@ Please locate your previous form and continue on.
 
 ### Watch for:
 
-- In this step, what did the participant expect to happen?
+- In this step, what did the participant expect to happen? 
 
- - Did they mention any previous experience or confusion?
+ - Did they mention any previous experience or confusion? (Scans page, goes to my forms)
 
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
 
- - If no, what do they mention that is confusing?
+ - If no, what do they mention that is confusing? "That's it right here I think...let's see if that's it...I may be going to the wrong place here..." "Oh it saved my information, that's good" 
 
-- Is the user able to complete the started form? Y/N
+- Is the user able to complete the started form? Y/N "I don't have a VA file number...I'm going to hit the continue...It's not letting me go any further...I don't know if it needs a file number in there..." (prompted to hit continue again) "Went to page three now..." (user reading content aloud, clarifies what they should be filling out) "I hit continue...At the end it always says, "Finish this..." and I can hit that if I need to stop?" (Christine provides clarity) "Okay, I'm going to hit continue...(enters info)...okay Imma hit continue again..." (user reading content aloud, user rubbing head and thinking about what to enter while vocalizing) "Imma put anything I way, I'll put..." (user filling out field) "They're probably going to want to know more information about..." (user continues writing in open text field) "...let's keep on going..." (user reading their entry, laughs, and proceeds) "Imma hit continue" "I hope I'm being a good patient here!" (reassured) (user reading through expanding menu labels, expands section) "Why isn't it showing my name, it says to review and submit..." (User keeps scanning for information) "Oh oh, it is showing me—it's on the end. This is me, correct...correct...that looks good...okay okay, all that's correct...okay..." (user reads satement of truth disclaimmer aloud, confirms is safe to submit, keeps reading aloud) "How many people who are Veterans you think read this policy in a new tab?" (Christine clarifies for study) "I don't think nobody does! That's my personal opinion though, that's how you get stuck...by not finishing it all" (User reads certification aloud, hits submit, user reading from top of page aloud) "Form submitted started on 10/02/2025...is in progress, can take up to 30 days..." (continues reading aloud down page) "I can print the form if I want to..." 
 
  - If no, what prohibited them from submitting the initial form?
 
@@ -331,22 +331,22 @@ Please locate your previous form and continue on.
 
 ### Questions for screen magnifier users:
 
-- Are you able to percieve the full form field labels and any error messages?
+- Are you able to percieve the full form field labels and any error messages? -> 
   
-- Do you need to scroll horizontally to see all content?
+- Do you need to scroll horizontally to see all content? (User is confused by the vocabulary "labels", asks for clarity) "I'm not completely understanding what you're asking...magnifying in order to read it, yes..." "If I don't scroll over all that I see is [truncated content]...unless I scroll over then I can see...understand the whole question." 
 
 
 ### Questions for testing participant: 
 
-- How was your experience filling out the form from the mobile app using your [assistive tech/device]? 
+- How was your experience filling out the form from the mobile app using your [assistive tech/device]? "I wouldn't be able to do it without the magnifier...I can see the dark letters but can't read what it is...I know there's something underneath it but I can't see it...I couldn't fill it out without the magnifier...even when I'm filling it out my wife is sitting right here by my side doing it with me."  
 
-- Were there any fields where your assistive technology didn't work as expected?
+- Were there any fields where your assistive technology didn't work as expected? "No...pretty good...except for that one page...I couldn't magnify it, before we got to fill out the form." "I remeber seeing an arrow in a box at the...then underneath one was in green I think...I couldn't magnify that."  
 
-- What worked well for you?
+- What worked well for you? "Everything worked well dealing with the magnification...what wasn't working 100% was me making sure I could do these to help you understand what I was trying to understand...trying to relate to you that what I was doing was right...[I wanted to make sure I was helping people who might also user magnification)]...to make sure they're able to fill out forms and..." 
 
-- What was unclear for you?
+- What was unclear for you? "For me as long as evertything I need—now just to share with you to share the page as we did...I never had to go through as much as we did...forgive me, I forgot what I was saying...I hate when I do that" (Christine provides reassurance, helps clarify the question) "...it helps you continue that helps you a lot...doing this whole cycle I did understand...either way it saved it...being able to magnify enough to read it...no big problem that I could recollect right now." 
 
-- How does this compare to filling out forms on VA.gov or other websites?
+- How does this compare to filling out forms on VA.gov or other websites? "I don't fill out forms, I haven't filled out any that I could even recollect...like I said, we've been married a long time...I don't order anything, I tell here what I need and she orders it...she fills all that out, that makes me kind of dependent on her doens't it." "I don't want to get on the page and do something wrong" "She cooks, she cleans, she does everything for me." (Christine provides reassurance) 
 
 - What would make this process feel familiar to you?
 
@@ -358,15 +358,15 @@ Now that you have completed the form, please go back to the app.
 
 
 ### Questions for testing participant: 
-- Based on what you see now, how do you know the form was submitted? 
+- Based on what you see now, how do you know the form was submitted? (User navigated to claims page) "Well they don't have it unders claims...it's not an active claim yet then...it doesn't show." (user reading menu aloud) "You see this, I can use that..." (user takes our magnifying glass to read iPad, noted that they can't pinch to zoom in the app) "Let me see if it's somewhere else on here...documents and letters that's where I just went..." (user continues to search through menus to find forms) "I'm not sure where it would be...It's not under claims, I don't see it anywhere..." "1800 I'd been on the phone, [I'd tell them who I am and the date taht I submitted it and they'd be able to find it /*]..." 
 
-- What does this status mean to you? 
+- What does this status mean to you? "They'll probably put it under the active claims section of this document here and then I'll be able to see the process...it had to go to five different levels...and that showed under the claim" 
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
 
 - What would you expect to see if you needed to check on your submission later?
 
-- How would you expect to be notified of updates to this form?
+- How would you expect to be notified of updates to this form? "They'll send me...they'll put in the claims...they'll send you a letter...on that the process that it's going through and how long it's been there and all this other good stuff...I'll tell you I call that 1800 number a lot...but if they need more information I know they'll call me or...go to the hospital or whatever and get it checked out..." 
 
 
 ### Watch for:
