@@ -9,9 +9,13 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 * Laura's questions section:
   * Homepage
     * [Homepage fallback](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/12292) needed anymore?
+         * Michelle's feedback: I don't think we need to migrate that feature to Next Build.
     * Sandbox homepage?
+         * Michelle's feedback: I don't think we need to migrate that feature to Next Build. 
     * No search homepage?
+         * Hasn't been updated in 7 years. Michelle's feedback: I don't think we need to migrate thate feature to Next Build.  
   * Resources and Support status
+         * Fran: we have feedback from stakeholders and collab cycle and we are heading down to make the updates in Drupal and the UI. We will coordinate with Laura and Tim when we are ready for implementation. Especially important because elements of Resources and Support will be difficult to do in Next Build.  
 
 09/18/2025
 * Welcome and stage setting
