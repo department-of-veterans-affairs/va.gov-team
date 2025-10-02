@@ -184,11 +184,13 @@ The core application flow succeeds in its primary goal of providing Veterans an 
 
 Alert blindness is widespread across studies at [VA.gov](http://VA.gov); a prior intent to file study (October 2024\) also attempted to solve alert visibility by leading with intent to file’s benefits on the introduction page to nudge users to start their application sooner, as well as displaying intent to file status alerts on their own page. Despite different placement and messaging approaches, users still did not engage with intent to file content until prompted.
 
-Our primary recommendation is to explore other channels for communicating critical information Veterans’ benefits, rather than focusing on content changes within the existing alert components that continue to go unnoticed. The key challenge was less about the comprehension of the content, but rather the visibility of the component itself. 
+Exploring other channels for communicating critical information Veterans’ benefits, rather than focusing on content changes within the existing alert components that continue to go unnoticed. The key challenge was less about the comprehension of the content, but rather the visibility of the component itself. As such, we recommend to:
 
-Future efforts should explore other touchpoints, such as email, notifications, and/or the Claims Status Tool to introduce intent to file incrementally and at moments when Veterans are more likely to notice and make more informed decisions. 
+1. Explore other touchpoints, such as email, notifications, and/or the Claims Status Tool to introduce intent to file incrementally and at moments when Veterans are more likely to notice and make more informed decisions.
 
-Efforts to simplify the intent to file process may also prevent further confusion, such as aligning the timelines of intent to file with the timelines of application expiry, so that Veterans do not have to track two dates, comprehend how our systems behave, and risk losing out on retroactive payments. 
+2. Monitor completion times for forms that automate intent to file. In order to identify and mitigate the risk of Veterans missing out on benefits due to completing their application beyond 12 months, we should be aware of existing behavior and how widespread it might be.
+
+3. Simplifying the intent to file process may also prevent further confusion, such as aligning the timelines of intent to file with the timelines of application expiry, so that Veterans do not have to track two dates, comprehend how our systems behave, and risk losing out on retroactive payments. 
 
 ## **Appendix**
 
