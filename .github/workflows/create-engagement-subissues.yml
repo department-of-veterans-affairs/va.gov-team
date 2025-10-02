@@ -52,10 +52,11 @@ jobs:
             Schedule initial onboarding meeting with ${orgAbbr}.
             
             ## Tasks
-            - [ ] Identify key stakeholders
+            - [ ] Identify key stakeholders + certifying official
             - [ ] Find mutually convenient time
-            - [ ] Send calendar invite
-            - [ ] Prepare meeting agenda`,
+            - [ ] Review onboarding deck for any updates
+            - [ ] Send calendar invite + Teams meeting link
+               - Meeting Description: We’re excited to introduce the Accredited Representative Portal and understand how it can be incorporated into the organization’s workflow to help Veterans.`,
                 labels: ['engagement']
               },
               {
@@ -64,10 +65,19 @@ jobs:
             Hold onboarding meeting with ${orgAbbr} to introduce Representation Requests.
             
             ## Tasks
-            - [ ] Present onboarding deck
-            - [ ] Explain RR process
-            - [ ] Answer questions
-            - [ ] Take notes on specific needs`,
+            - [ ] Prepare for the meeting
+              - [ ] Open onboarding deck
+              - [ ] Open FAR
+              - [ ] Open AAR
+              - [ ] Test run through ARP Staging (RR decision + 526EZ submission)
+              - [ ] Open Find claimant
+              - [ ] Open Representation requests
+                - [ ] Submit 2 test Representation requests prior to call
+              - [ ] Open Submissions
+                - [ ] Have 526EZ and documents ready to upload 
+            - [ ] Assign notetaker
+            - [ ] Set up meeting chat thread
+            - [ ] Provide highlights to team after the call`,
                 labels: ['engagement']
               },
               {
@@ -79,7 +89,7 @@ jobs:
             - [ ] Onboarding deck
             - [ ] Contact info spreadsheet
             - [ ] Email template for reps
-            - [ ] Appoint a Rep instructions`,
+            - [ ] Appoint a Rep PDF instructions`,
                 labels: ['engagement']
               },
               {
@@ -88,23 +98,32 @@ jobs:
             Send second follow-up to ${orgAbbr} to check on progress and answer any questions.
             
             ## Tasks
-            - [ ] Draft follow-up message
-            - [ ] Check if materials were received
-            - [ ] Offer additional support
+            - [ ] Send follow-up message
             - [ ] Confirm timeline for enabling access`,
+                labels: ['engagement']
+              },
+              
+              {
+                title: 'Coordinate bulk contact info update',
+                body: `## Description
+            Provide updated contact info to OGC for ${orgAbbr}
+            
+            ## Tasks
+            - [ ] Review spreadsheet
+            - [ ] Share with OGC and confirm when org reps will be updated`,
                 labels: ['engagement']
               },
               {
                 title: 'Enable RR for org',
                 body: `## Description
-            Enable Representation Requests functionality for ${orgAbbr}.
-            
-            ## Tasks
-            - [ ] Configure system access
-            - [ ] Set up org profile
-            - [ ] Test functionality
-            - [ ] Document configuration`,
-                labels: ['engagement']
+                We want to enable ${orgAbbr} for Representation Requests
+                
+                This is the documentation describing how to [enable online submission of a 21-22 representation request for a VSO on va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/enabling-online-submission-for-vsos.md).
+                
+                ## Acceptance Criteria/Conditions of Satisfaction
+                - Veterans have the ability to submit online 21-22 requests in Appoint a Rep, for ${orgAbbr} and affiliated representatives.
+                - ${orgAbbr} representatives can receive and accept/decline online 21-22 requests in ARP.`,
+                labels: ['engagement', 'engineering']
               },
               {
                 title: 'Confirm access',
@@ -112,9 +131,9 @@ jobs:
             Confirm that ${orgAbbr} can successfully access and use Representation Requests.
             
             ## Tasks
-            - [ ] Contact org representative
-            - [ ] Verify login access
-            - [ ] Ensure all features are working
+            - [ ] Contact org POC to verify
+              - [ ] Ability to log into the portal 
+              - [ ] View Representation requests, Find claimant, and Submissions
             - [ ] Address any issues`,
                 labels: ['engagement']
               },
@@ -124,10 +143,11 @@ jobs:
             Generate and review first month activity report for ${orgAbbr}.
             
             ## Tasks
-            - [ ] Collect usage metrics
-            - [ ] Analyze activity data
-            - [ ] Create summary report
-            - [ ] Schedule review meeting if needed`,
+            - [ ] Collect usage metrics from Datadog 
+              - [ ] Representation requests (total, accepted, declined, avg time for decision)
+              - [ ] Claims submissions (total, 526ez, 686c)
+            - [ ] Address any issues
+            - [ ] Invite org reps for rep panel`,
                 labels: ['engagement']
               }
             ];
