@@ -117,6 +117,11 @@ Although the patient name is located at the top of the drawer, clinicians want t
 
 2 of 5 participants had to double check and verify that they were viewing the correct patient details.
 
+<img width="516" height="278" alt="image" src="https://github.com/user-attachments/assets/ab0bef0a-ddb6-4c34-977e-eac1580ee75b" />
+
+*Without a highlight, it is confusuing for clinicians to know which row details they are viewing*
+
+
 *“I forget…Am I looking at the third patient on the list? I’m not absolutely sure…” - P5*
 
 *“It should be obvious whose information I’m reviewing.” - P4*
