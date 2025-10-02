@@ -20,6 +20,14 @@ What is BIO-HEART team working on? The team is focused on optimizing the VA bene
 
 ### Team Roster
 
+Program Manager: Berni Bernardini Xiong @bernixionga6 
+Frontend Engineer: Aaron Ponce @amponce 
+Product Manager: Mike Collier @MikeC-A6 
+UX Designer: Melissa Schaff @melissajschaff 
+UX Researcher: Andrea Chappelear 
+Full Stack Engineer: Michael Clement @michaelclement 
+Backend Engineer: Joining the project team on Oct. 6, 2025 and is currently VA onboarding.
+
 ### Organizational Affiliation:** VA business alignment and reporting structure  
 
 ## Product Information (Public):
