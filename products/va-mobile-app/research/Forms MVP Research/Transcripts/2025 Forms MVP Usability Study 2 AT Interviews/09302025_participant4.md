@@ -367,9 +367,14 @@ Please locate your previous form and continue on.
 
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
 
+**Yes**
+
+**And now it's retrieving… And that bothers me, that it says you must enter it [SSN], but it's already in there.**
+
  - If no, what do they mention that is confusing?
 
 - Is the user able to complete the started form? Y/N
+**Yes**
 
  - If no, what prohibited them from submitting the initial form?
 
@@ -377,11 +382,13 @@ Please locate your previous form and continue on.
 ### Observation points for screen reader users:
 
 - Does the participant navigate linearly or jump between sections?
+**At times the focus jumps to blank space on the edges of the page, or once jumped to the bottom and then the user had to tab back up.**
   
 - How do they orient themselves when they lose focus?
+**They go back to the heading of the page and then work back through the page until they land on where they needed to be.**
   
 - Do they use heading navigation, landmarks, or other AT-specific features?
-  
+  **Headings**
 
 ### Questions for screen magnifier users:
 
@@ -389,38 +396,88 @@ Please locate your previous form and continue on.
   
 - Do you need to scroll horizontally to see all content?
 
+**VA file number. I have no idea what my VA file number is. So I don't know what to put in there. And I click on VA file number, and I'm not finding any information. Need help. Okay, I hae no idea what to put in for VA file number. When I click on the word VA file number, you know, and I double-click nothing is happening. So I double tap it and you know, the keyboard comes up, but I don't know what to put in there. At this point I would throw my phone against the wall. I would call... I would actually call my national service officer because I don't do this stuff. I always recommend people get a service officer, and that they never do this stuff on their own...**
+
+**At this point I would call a phone number down there that says if you need help call us at...**
+
+**Then I expect to be on hold for 20 mins while I explain who I am and what I'm trying to do. But I would be frustrated at this point because I don't know my VA file number.**
+
+[After seeing address fields]
+**Again, I'm thinking you guys know who I am, because this is my VA app, and all my information is in there, and now I'm frustrated that I have to [type]. At least you allowed U.S. in there, because most military veterans live in the U.S, so I appreciate that.**
+
+**My phone allows me to pick addresses that are already in my phone to put in there. Except it only allows me to do the street and not the rest of it [when he selected the recommended text address from his phone it did not also generate the City, State, Postal code].**
+
+[User got an error on phone field]
+
+**For some reason his phone added a word 'years' after he was typing in the phone number digits causing it to fail the field validation and resulting in the error. User thought he had entered perhaps too many numbers so he attempted to delete and retype.**
+
+**When I try to delete it's becoming frustrating clearing this because I'm using my little back button. [Retyped, then used phone recommended prefill for email address].**
+
+**His audio would not work for voice to text for the provide a statement as he tried it [because he was on zoom at the same time].**
+
+**User selected Expand all to preview entered information on review page. His focus jumped around after the SSN field, went to the side of the screen where there was blank space.**
+
+**What bothers me as a blind person, and using voice over. I just hear the last four, I don't know if the other part is correct [regarding the SSN field]. So I double click on it. And I'm not seeing the edit button for that, to double check It. [attempts to find an edit option] Okay, edit identification information. Okay, there we go. So, I did my social security number. But when I came back, it jumped to something completely different. Okay. I would have expected it to jump back to…Where it was editing my social security number. And that's… And… And when the voiceover is reading the number [postal code field it's reading 33,966], I would expect the voiceover to read individual numbers. You know, code it so that it's 3-3-9-6-6 … It reads my phone number fine. But it reads a zip code. It was a big, long thing.**
+
+**And now it wants my full name. And… and this is interesting, because it… nowhere did it say that, are you filling this form out for somebody else? So, I'm assuming that this is a form you have to fill out for yourself, so I don't know why it's… why it isn't having your name in there. If you just filled out your statement, why doesn't it repeat your name in here, and then ask you to verify that this is your name? [user got an error because the way he typed the name wasn't exact to how he typed it in previously]. So… It says, please enter your name exactly as it appears on your application. So, why aren't they entering it? Why aren't you entering it? That's just silly, because… It's funny that it repeats it, because it's looking to see if you're doing it right. And I'm sitting here going, well, if you know what it's supposed to be, and you're a computer, why didn't you just put it in again? ...[realizes he forgot the middle initial] Oh, I didn't put the A in there.**
+
+[Submitted the form]
+
+**I… I would expect for it to say your form has been submitted.And it jumps me back…To a page that says, submit a statement to support a claim.[the header on the confirmation page reads submit a statement to support a claim so that is what the user hears when landing on the confirmation page.] And then it lists my form submission. And then it says, your submission is in progress. I would have expected it to say, you have successfully submitted your form. Okay, and I'm laughing at this line, that it says it can take up to 30 days to receive your form, when…I hit the button to submit.So… I… In my… in my brain. if I've submitted the form, I expect them to say, we've received your form, it can take us up to 30 days to do something else, but not to receive it. received means… in their computer, I guess - and then it gives me a confirmation number. This is a confirmation page. And what doesn't make sense is the title of this is Submit a Statement To support a claim. And I think that submit a statement to support a claim means the verb submit, so that this is where you would go to submit another claim. I wouldn't…Expect this to be the acknowledgement. I would… this page should have been titled Confirmation Page or something, not Submit a Claim. Okay. They'll confirm when they receive my form in… okay, so this says, we'll confirm when we receive your form in our system. I thought I was in the system already. So… That's not making sense to me. That this is their system to submit a form. And when they say they'll confirm, when we receive it your form in our system, I would have expected hitting submit meant That their form… that the form was in their system.**
+
+**So… Yeah, this is the other one that can take up to 30 days. Okay. What else?**
+
 
 ### Questions for testing participant: 
 
 - How was your experience filling out the form from the mobile app using your [assistive tech/device]? 
+**It was difficult. Typing in letter by letter. When using voiceover, you have to get to the letter, and then you have to select the letter, and then you have to double-tap it. Then you have to go find another letter and double-tap it. And that's a very arduous process. Because, in longer words, you forget where you're at. And… when… You need to correct it. It was… it was hard, because sometimes the insertion point was going to the beginning, and you would have to get the insertion point to start deleting things at the end. And I know that when you try sometimes to put the insertion point in the middle of the word, you have no idea where you're at. So that's always difficult. And again, this is my app with my information. I don't know why it didn't auto-populate and ask me if it was correct. Especially when, at the end, it knew… that really frustrated me. It knew what my name was on the form, so why didn't it just… Populate it into the Name thing at the end.**
 
 - Were there any fields where your assistive technology didn't work as expected?
+**When I came back into things, I would have expected to be at the top of the form, not In the middle of the form. I would have expected, when I jumped to the next page, for it to tell me, like, this is step two. Not to just start filling in the information. I would have expected it to go to the top of the page, but it wasn't. And maybe that's because I can't see sort of where it is. I'm expecting it to read me what's at the top of the page, not just to jump down in the middle of the step.**
 
 - What worked well for you?
+**The fact that it did autosave, That was good.**
 
 - What was unclear for you?
+**Where I was supposed to go. I would have expected to go to claims to try to do that. And it was hard to find in claims if it was there. And then even when I was in the form, it… it wasn't clear on, basically, starting a new claim. I would have expected it to stay, start a new claim.**
+**also the VA, the VA file number, that wasn't clear. I know it didn't say it was required, I think, but it was frustrating, because there wasn't anything more on there to find out about it. Like, where I would find my VA file number, or…If it is a VA file number, then shouldn't it be in my app?**
 
 - How does this compare to filling out forms on VA.gov or other websites?
+**I guess when you're on another website, you see more, data all at once. When you're on the phone, you're only doing it pretty much one step at a time. You do have the title at the top, so you kind of know what step you're on. It's one of six, so you won't… you don't expect that much, on an online form, you kind of see everything all at once.**
 
 - What would make this process feel familiar to you?
+**Doing it more often.**
+**Having it inside the claims where it was easier to find.**
+**And maybe this was just part of the testing but I wasn't able to use my microphone.**
 
 - If you had to take breaks, where would there be natural stopping points?
+**I think before you were typing in what you wanted to say [the statement field]. Because you get all your regular data out there. t would be like, oh, okay, what am I going to say in this form?**
 
  
 ## Task 6: View submitted form
 Now that you have completed the form, please go back to the app.
 
+**I'm trying back buttons in there. Okay, there's the home. Okay, so I would expect to go to Active Claims. That's bothering me, because it says 5 active, and I thought there were 5 active before this process. So, I select active. [user is tabbing through all listed active claims looking for this statement to support a claim or a new claim related to this form he just completed] 1 to 10 of 42? Wow. [regarding pagination] I'll try all the way at the end.  Nope, so it's obviously not here. Claims history. And that isn't working very well. I'm moving back. So let me try going to forms...**
+
 
 ### Questions for testing participant: 
-- Based on what you see now, how do you know the form was submitted? 
+- Based on what you see now, how do you know the form was submitted?
+**I'm coming over here to complete. And I'm clicking it, and it says. I don't have any. So I go back here, And…I would be really frustrated at this point. I could try the messages. To see if they sent me a message. That my form was submitted. [user looks in secure messaging and listens through messages] Nope, not there. [looks under claims, active, selects benefits tab] But we've been here before, and I've been to the… 40 pages. So, I would call. Get somebody on there.**
 
 - What does this status mean to you? 
+**[user selected go to my forms > tabbed to engage complete > noticed it was empty > tabbed to go active...Oh! Active, it says it was a draft saved That doesn't give me confidence, because I thought I submitted it. So, I thought I'd hit submit. And I'm lost, I have no idea.**
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
+**I would… I would… the date that I filled out the form. There was a number on there, but I didn't print it out. They took my email, so maybe they sent me a copy in my email that I filled out the form. But it's… frustrating that That form is still appearing as a draft. And then I would probably… Go back to that draft, And resubmit it.**
+
+**And when I went to, active, and then I go completed. It says I don't have any completed forms. ACTIVE says statement in support of a claim. So… It says 30 days left to complete. I guess I would go to Continue Form and see what it says. And then try to resubmit it. brought me back to the same… So, it says it saved my form, but it's not even appearing when I went on the draft.**
 
 - What would you expect to see if you needed to check on your submission later?
+**I would expect under… Completed forms. for it to be there, or under claims. I would expect something under claims. And I would expect to see that I submitted a form on this date. But it bothers me that it says it can take 30 days to receive the form. I have no idea where my form is right now, because I submitted it, but it says they haven't received it yet, so…I don't even know that… I've submitted it anymore.**
 
 - How would you expect to be notified of updates to this form?
+**I would expect it to appear in something like my messages. It says there is a secure messaging on the app so that would be the logical place for them to notify me. You know, other apps… work that way, like my banking app. You know, they've got a little notification thing that says, hey, you have, you know, two more notifications. So you look there, and you go to your notifications.**
 
 
 ### Watch for:
@@ -429,12 +486,16 @@ Now that you have completed the form, please go back to the app.
  - Did they mention any previous experience or confusion?
 
 - Does the user express confidence that they have completed and submitted their form?
+**No**
 
  - If no, what is confusing to them and why?
+**Form said status draft under active, and when he clicks continue form is starts him at the beginning introductory pages.**
 
 - Does the user understand the status of the form?
+**No**
 
  - If not, what do confusion do they express when interpretting the form status?
+**The user would expect the form to be listed as completed because he completed it but it shows under active. The user is confused by the wording about 30 days for the va to receive it after submitting because he believes that he is already using the VA system and that if he submitted it it should already be in the system.**
 
 
 ### Deleting the testing app:
@@ -462,12 +523,16 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 ## Thank You and Closing - 3 minutes
 
 - How was this process overall for you?
+**It was very frustrating. Because… just… just because I really… I guess I really expected, my data… To be automatically imported or pre-populated in there. at the last part, when it says, type your name, it's like, okay, I just threw in a name, and it's like, no, it's not matching the form, and it's like, well, if you want it to match the form, then you can do that! You can just put it in there.**
 
 - Was there anything you would change about this process?
+**No, because it gave you the information that you needed.**
 
 - What parts required the most concentration?
+**The typing, using VoiceOver.**
 
 - Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+**No, I would stick to my desktop. Just because I… It's just a little too hard.**
 
 
 **Are you still okay if we use any video or audio clips from this session?** 
