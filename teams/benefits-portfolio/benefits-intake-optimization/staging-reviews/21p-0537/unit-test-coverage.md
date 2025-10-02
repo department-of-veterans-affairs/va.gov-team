@@ -32,7 +32,7 @@ yarn test:unit src/applications/simple-forms/21p-0537 --coverage
 
 ## Coverage Screenshot
 
-<img width="1180" height="464" alt="image" src="https://github.com/user-attachments/assets/b8e4b13f-1e9b-4a54-99a4-4e7ef93a597e" />
+<img width="2016" height="477" alt="image" src="https://github.com/user-attachments/assets/1b306f62-f83c-4d21-858f-ae11d6a8fd6a" />
 
 
 ---
