@@ -180,7 +180,7 @@ Approximately September 17 - October 2, 2025, based on clinician availability
 ### Prepare
 *Don't forget to share your plan, stimuli, probes, or prototypes with the HCD team for feedback as you are working. Aim to have a CDS HCD peer review or review by the VA CDS HCD Lead at least 3 days before the first test to have time for changes*
 
-
+Prototype is due by Sept 16, 2025
  
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -211,5 +211,4 @@ Approximately September 17 - October 2, 2025, based on clinician availability
 - In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.
 
 ## Reviews ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO CDS HCD Peer on [MM-DD-YYYY]`
+- `Reviewed by OCTO CDS HCD Peers (Natalie & Ben) on [09-09-2025]`
