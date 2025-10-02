@@ -28,7 +28,8 @@ Participant: Elizabeth L. (IVC, EEV Program Analyst)
 - Alyssa to attend first day of training to learn new way of working applications
 
 **5. If you had a magic wand for the application status tool, what do you wish was on there?** 
-- The number one thing, before they are able to submit an application, would be to prevent 40% of ineligible applicants. Pizza tracker and progress dates: app received, app is eligible, A-card (CVA ins card) mailed out to specific address (snowbirds, moved), etc.
+- "So the number one thing, what I would love and that I've recommended is before they're even allowed to submit an application that we go, hey, let's check to see if your Tricare eligible. So then and if they are Tri and it goes and it checks the sit they put in their social and they like and it's like hey, you are Tricare eligible, you need to go this route. And it redirects them to the right thing in the right place where they need to go to deal with Tricare. That would stop like 40% of my ineligible applications right off the bat."
+- Pizza tracker and progress dates: app received, app is eligible, A-card (CVA ins card) mailed out to specific address (snowbirds, moved), etc.
 
 **6. What is enough to make a bene happy with status updates?** 
 - Once assigned to someone, it's processed within 48 hours. A-card mailed out w/in 10 days.
