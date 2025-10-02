@@ -1,15 +1,15 @@
 ---
 name: ARC Onboarding Organization
-about: Onboard organization into ARP and enable RR
-title: '[ Org Abbr ] - Organization onboarding'
-labels: accredited-rep-facing, engagement
+about: Onboard organization into ARP and enable Form 21-22 online submission
+title: '[ Org Name ] - Organization onboarding'
+labels: ar-crew, engagement
 assignees: 'candilemoine'
 type: Task
 
 ---
 <!-- engagement-template -->
 ### Description
-We want to onboard [ org abbr ] into the portal and enable RR
+We want to onboard [ Org Name ] into the portal and enable Form 21-22 online submission
 
 ### Acceptance Criteria/Conditions of Satisfaction
 <!-- Specify criteria for ticket completion -->
