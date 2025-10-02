@@ -92,8 +92,8 @@
 
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [[Link to prototype](https://www.figma.com/proto/uRUcFMxuFOoNMJeMXJsI5w/Dashboard---Calculators-and-Patient-Summary-Tabs?node-id=19531-2916&t=Ra44YiX7kcE0GF5S-0&scaling=min-zoom&content-scaling=fixed&page-id=19531%3A2915&starting-point-node-id=19531%3A3104)]
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/medical-calculators/research/2025-09-Calculator-Detail-Page-Line-Chart-Testing/conversation-guide.md)
+- [Link to prototype](https://www.figma.com/proto/uRUcFMxuFOoNMJeMXJsI5w/Dashboard---Calculators-and-Patient-Summary-Tabs?node-id=19531-2916&t=Ra44YiX7kcE0GF5S-0&scaling=min-zoom&content-scaling=fixed&page-id=19531%3A2915&starting-point-node-id=19531%3A3104)
 
 
 	
