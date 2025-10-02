@@ -141,7 +141,9 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Test File:** `src/applications/simple-forms/21p-0537/tests/e2e/21p-0537.cypress.spec.js`
 
-**Test Run:** [LINK TO CYPRESS DASHBOARD OR SCREENSHOT]
+**Test Run:** 
+
+![Successful Cypress test runs for form 21p-0537)](./assets/cypress_results_537.png)
 
 **Status:** ✅ All E2E tests passing
 
