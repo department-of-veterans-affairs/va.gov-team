@@ -1,13 +1,13 @@
 ---
 name: ARC Onboarding Organization
 about: Onboard organization into ARP and enable RR
-title: '[ Org Abbr ] - Onboarding org '
+title: '[ Org Abbr ] - Organization onboarding'
 labels: accredited-rep-facing, engagement
 assignees: 'candilemoine'
 type: Task
 
 ---
-
+<!-- engagement-template -->
 ### Description
 We want to onboard [ org abbr ] into the portal and enable RR
 
