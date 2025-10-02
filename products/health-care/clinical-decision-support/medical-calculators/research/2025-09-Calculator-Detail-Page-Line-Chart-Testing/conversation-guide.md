@@ -111,67 +111,94 @@ Next we’re going to look at a prototype of the [insert thing]. There are a few
 - If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this application without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
 - And please feel free to be as honest as possible – it won’t hurt our feelings. 
 
-`[Describe clinical scenario and pull up prototype and share screen]`
+`PCP | Outpatient Scenario:`Imagine that you have a 68 year old patient who comes in for their routine semi-annual visit, and that you diagnose them with atrial fibrillation after an abnormal pulse was detected on physical exam, and a subsequent EKG confirmed AFIB. They are asymptomatic at the current time though their CHA2DS2-VASc score indicates they are at a higher risk for stroke and may need to start anticoagulation therapy. As such, you want to evaluate their HAS-BLED score to help you determine if anticoagulation therapy can be appropriate for them.
 
-## Prototype Intro - Participant Controls:
-Next we’re going to look at a prototype of the application. There are a few things I’d like you to keep in mind: 
-- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
-- This is a prototype and not the real application. It closely matches the real application, but some things may not work as expected. Non-coded interactive prototype: It closely matches the real site, but some things may not work as expected. You may see placeholder information that doesn't match your own situation exactly and that's ok.
-- I'm going to send you a link to the prototype in the chat and ask you to open the prototype and share your screen so I can follow along as you go. Does this sound okay to you? [If participant is uncomfortable - Alternatively, I can share my screen and you can tell me where to click and what to do. Switch to moderator controls prototype intro]. 
-- [Send link to prototype in chat, confirm has it open]
-- Before you share your screen, please close down any open windows that contain patient information so we don't accidentally record Veteran PII.
-- Can you share your screen now? (MS Teams) You can share your screen by clicking on the green "Share screen" button in the top bar. Then, select on the option that has the website open. Let me know if you need any help with this. 
-- Before we continue, I have some more information for you. 
-- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review this application. 
-- If at any point you feel uncomfortable or confused, please let me know. We are testing the application and gathering feedback and not testing you. We’re here to support and learn from you. 
-- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this website without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
-- And please feel free to be as honest as possible – it won’t hurt our feelings. 
+You navigate to the CDS Console, click on Medical Calculators, and select the HAS-BLED calculator which brings you to this screen.
 
-`[Describe clinical scenario and pull up prototype and share screen]`
+`Emergency Department Scenario:`Imagine that you have a 68 year old patient who comes in for their routine semi-annual visit, and that you diagnose them with atrial fibrillation after an abnormal pulse was detected on physical exam, and a subsequent EKG confirmed AFIB. They are asymptomatic at the current time though their CHA2DS2-VASc score indicates they are at a higher risk for stroke and may need to start anticoagulation therapy. As such, you want to evaluate their HAS-BLED score to help you determine if anticoagulation therapy can be appropriate for them.
 
-## First Task: [TASK NAME] - X minutes
+You navigate to the CDS Console, click on Medical Calculators, and select the HAS-BLED calculator which brings you to this screen.
 
-- [ ] Step 1
-- [ ] Step 2
+## What are your first impressions? What are you thinking about? - 5 minutes
+
+
+
+## First Task: How would you answer the "Abnormal Liver Function" question? - 5 minutes
+
+- [ ] Click "View ALT/AST/AP and Bilirubin History link.
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
+> - [Does the participant understand meaning of abnormal liver function?]
+> - [Does the participant gravitate to finding the required data in the EHR (instead of in the product)?]
+> - [Does the participant notice the link to the lab history?]
 
-## Second Task: [TASK NAME] - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+## Second Task: What are you thinking about this data? - 5 minutes
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
+> - [Does the participant understand meaning of the different labs?]
+> - [Does the participant mention needing reference lines?]
+> - [Does the participant mention the amount of data or the time period]
 
-## Third Task: [TASK NAME] - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+## Third Task: What was the most recent AP value recorded - 2 minutes
+
+- [ ] Hover over last point
+- [ ] Read tool tip
+      
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the know to hover?]
+> - [Does the participant mention seeing data in a different format?]
+
+## Fourth Task: How would you answer the question based on this information? - 5 minutes
+- [ ] Follow-up: What led you to that decision?
+- [ ] Follow-up: What other information would you need here to answer the question?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
+> - [Does the participant understand meaning of the different labs?]
+> - [Does the participant mention needing reference lines?]
+> - [Does the participant mention the amount of data or the time period]
 
-# Post-Task Interview - X minutes
+## Fifth Task: How would you answer the "History of Labile INR" question? - 5 minutes
 
-> [!TIP]
-> - These are placeholder questions, but work well across a lot of situations. Adjust as you need for your study.
+- [ ] Click "View INR Lab History link.
+
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of labile INR?]
+> - [Does the participant gravitate to finding the required data in the EHR (instead of in the product)?]
+> - [Does the participant notice the link to the lab history?]
+
+
+## Sixth Task: What are you thinking about this data? - 5 minutes
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant mention needing reference lines?]
+> -  [Does the participant mention needing the definition of labile?]
+> - [Does the participant mention the amount of data or the time period needed]
+
+
+## Seventh Task: How would you answer the question based on this information? - 5 minutes
+- [ ] Follow-up: What led you to that decision?
+- [ ] Follow-up: What other information would you need here to answer the question?
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of the different labs?]
+> - [Does the participant mention needing reference lines?]
+> - [Does the participant mention the amount of data or the time period]
+
+# Post-Task Interview - 5 minutes
+
+- What other calculators or calculator fields do you think could benefit from bringing in this type of data (in line or table format)?
 - On a scale of 1-5, with 5 being greatly improves your workflow, how much does having [insert thing] help you? Why?
 - Of all the things we've reviewed today, what was a highlight for you?
 - What was most challenging or confusing? Why?
