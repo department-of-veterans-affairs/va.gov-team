@@ -103,6 +103,10 @@ When asked to locate specific data points on a line graph, multiple clinicians e
 
 Participants were tasked to have 2 browser windows open with each taking up 50% of their screen. With 2 windows open simultaneously, clinicians were tasked to find information from the drawer and paste it into the other window open. 3 of 5 participants attempted to increase the width of the drawer in this view.
 
+<img width="488" height="245" alt="image" src="https://github.com/user-attachments/assets/9e0d7379-2cb9-4568-8127-c97a868cfa97" />
+
+*Screenshot of Drawer prototype and another window open. Each taking 50% of the screen*
+
 *“If I could make this wider, I could focus more on what’s inside without feeling cramped.” - P2*
 
 *“Now, the table isn’t as important so it’d be nice if I could expand the drawer.” - P3*
