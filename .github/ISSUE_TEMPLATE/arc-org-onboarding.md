@@ -4,7 +4,7 @@ about: Onboard organization into ARP and enable Form 21-22 online submission
 title: '[ Org Name ] - Organization onboarding'
 labels: ar-crew, engagement
 assignees: 'candilemoine'
-type: Task
+type: Epic
 
 ---
 <!-- engagement-template -->
