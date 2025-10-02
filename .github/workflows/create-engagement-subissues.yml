@@ -1,0 +1,184 @@
+name: Create Engagement Sub-Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  create-sub-issues:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check if issue uses engagement template
+        id: check_template
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const issue = context.payload.issue;
+            
+            // Check if issue body contains the template marker
+            const isEngagementTemplate = issue.body && issue.body.includes('<!-- engagement-template -->');
+            
+            return isEngagementTemplate;
+      
+      - name: Create sub-issues
+        if: steps.check_template.outputs.result == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const parentIssue = context.payload.issue;
+            
+            // Check if we've already created sub-issues (to avoid duplicates)
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: parentIssue.number
+            });
+            
+            const alreadyCreated = comments.data.some(comment => 
+              comment.body.includes('<!-- sub-issues-created -->')
+            );
+            
+            if (alreadyCreated) {
+              console.log('Sub-issues already created for this issue');
+              return;
+            }
+            
+            // Extract organization abbreviation from issue title
+            // Expects format like "[ ORG ] Something" or "[ORG] Something"
+            const orgMatch = parentIssue.title.match(/\[\s*([^\]]+)\s*\]/);
+            const orgAbbr = orgMatch ? orgMatch[1].trim() : 'ORG';
+            
+            // Define your onboarding sub-issues template
+            const subIssues = [
+              {
+                title: 'Schedule meeting',
+                body: `## Description
+Schedule initial onboarding meeting with ${orgAbbr}.
+
+## Tasks
+- [ ] Identify key stakeholders
+- [ ] Find mutually convenient time
+- [ ] Send calendar invite
+- [ ] Prepare meeting agenda`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Conduct meeting',
+                body: `## Description
+Hold onboarding meeting with ${orgAbbr} to introduce Representation Requests.
+
+## Tasks
+- [ ] Present onboarding deck
+- [ ] Explain RR process
+- [ ] Answer questions
+- [ ] Take notes on specific needs`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Send follow-up email',
+                body: `## Description
+Send comprehensive follow-up email with all onboarding materials to ${orgAbbr}.
+
+## Attachments to Include
+- [ ] Onboarding deck
+- [ ] Contact info spreadsheet
+- [ ] Email template for reps
+- [ ] Appoint a Rep instructions`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Send second follow-up email',
+                body: `## Description
+Send second follow-up to ${orgAbbr} to check on progress and answer any questions.
+
+## Tasks
+- [ ] Draft follow-up message
+- [ ] Check if materials were received
+- [ ] Offer additional support
+- [ ] Confirm timeline for enabling access`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Enable RR for org',
+                body: `## Description
+Enable Representation Requests functionality for ${orgAbbr}.
+
+## Tasks
+- [ ] Configure system access
+- [ ] Set up org profile
+- [ ] Test functionality
+- [ ] Document configuration`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Confirm access',
+                body: `## Description
+Confirm that ${orgAbbr} can successfully access and use Representation Requests.
+
+## Tasks
+- [ ] Contact org representative
+- [ ] Verify login access
+- [ ] Ensure all features are working
+- [ ] Address any issues`,
+                labels: ['engagement']
+              },
+              {
+                title: 'Report on first months activity',
+                body: `## Description
+Generate and review first month activity report for ${orgAbbr}.
+
+## Tasks
+- [ ] Collect usage metrics
+- [ ] Analyze activity data
+- [ ] Create summary report
+- [ ] Schedule review meeting if needed`,
+                labels: ['engagement']
+              }
+            ];
+            
+            const createdIssues = [];
+            
+            // Create each sub-issue
+            for (const subIssue of subIssues) {
+              const created = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `[ ${orgAbbr} ] ${subIssue.title}`,
+                body: `${subIssue.body}
+
+---
+**Parent Issue:** #${parentIssue.number}
+**Organization:** ${orgAbbr}`,
+                labels: subIssue.labels
+              });
+              
+              createdIssues.push({
+                number: created.data.number,
+                title: subIssue.title
+              });
+              
+              console.log(`Created sub-issue #${created.data.number}: ${subIssue.title}`);
+            }
+            
+            // Create a summary comment on the parent issue
+            const issueLinks = createdIssues.map(issue => 
+              `- [ ] #${issue.number} ${issue.title}`
+            ).join('\n');
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: parentIssue.number,
+              body: `## 📋 Engagement Sub-Issues Created for ${orgAbbr}
+
+${issueLinks}
+
+<!-- sub-issues-created -->
+
+**Note:** Check off items above as sub-issues are completed.`
+            });
+            
+            console.log(`Created ${createdIssues.length} sub-issues for parent #${parentIssue.number}`);
