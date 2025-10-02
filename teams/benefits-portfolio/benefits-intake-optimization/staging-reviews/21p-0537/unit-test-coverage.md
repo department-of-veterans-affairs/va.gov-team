@@ -19,20 +19,21 @@ yarn test:unit src/applications/simple-forms/21p-0537 --coverage
 
 | Category | Percentage | Status |
 |----------|-----------|--------|
-| **Statements** | __% | ✅ / ❌ |
-| **Branches** | __% | ✅ / ❌ |
-| **Functions** | __% | ✅ / ❌ |
-| **Lines** | __% | ✅ / ❌ |
+| **Statements** | 93.18% | ✅  |
+| **Branches** | 81.48% | ✅  |
+| **Functions** | 100% | ✅  |
+| **Lines** | 92.5% | ✅  |
 
 **Platform Requirement:** All categories must be ≥80%
 
-**Overall Status:** [PASS / FAIL]
+**Overall Status:** [PASS]
 
 ---
 
 ## Coverage Screenshot
 
-[INSERT SCREENSHOT OF TERMINAL OUTPUT SHOWING COVERAGE PERCENTAGES]
+<img width="1180" height="464" alt="image" src="https://github.com/user-attachments/assets/b8e4b13f-1e9b-4a54-99a4-4e7ef93a597e" />
+
 
 ---
 
