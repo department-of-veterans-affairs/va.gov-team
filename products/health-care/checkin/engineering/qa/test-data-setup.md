@@ -188,7 +188,7 @@ You will be assigned a specific test user in VistA that will have an identifier 
 | 723 | Twentysix, Patient | 1935-04-07 | Adrian | √ | √ |
 | 366 | Twentyeight, Patient | 1935-04-07 | John | √ | √ |
 | 350 | Twentynine, Patient | 1935-04-07 | Steven S. | √ | √ |
-| 391 | Thirty, Patient | 1935-04-07 | Lori | √ | √ |
+| 391 | Thirty, Patient | 1935-04-07 | Peter | √ | √ |
 | 384 | Thirtyone, Patient | 1935-04-07 | Jenny | √ | √ |
 | 140 | Thirtytwo, Patient | 1935-04-07 | Nathan Douglas | √ | √ |
 | 442 | Thirtythree, Patient | 1935-04-07 | Paras | √ | √ |
