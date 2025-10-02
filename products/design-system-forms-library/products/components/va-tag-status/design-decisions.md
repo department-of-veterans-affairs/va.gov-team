@@ -1,5 +1,5 @@
 # va-tags-colored Design Decisions
-Last updated: 2025-05-08
+Last updated: 2025-02-10
 
 - [ADR: 001 - Define the meaning for colored tags](#ADR-001---Define-the-meaning-for-colored-tags)
 - [ADR: 002 - Tag styles](#ADR-002---Tag-styles)
