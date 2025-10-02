@@ -118,34 +118,6 @@ Tags with uppercase is **not a good choice** for:
 
 ---
 
-## ADR 004 - Uppercase Text
-
-**Status:** Pending  
-**Date Raised:** 2025-05-25  
-**Decision Date:**  
-
-### Context
-During the tag usage audit, we identified teams using tags with sentence case instead of the standard uppercase format. Teams cited improved readability and accessibility as their primary motivation. We evaluated the pros and cons of uppercase text versus sentence case for tags.
-
-**Uppercase text is suitable for:**  
-- Visually distinguishing tags from buttons  
-- Drawing attention to the tag, making them more noticeable and easily scannable  
-
-**Uppercase text is less suitable for:**  
-- Long strings of text, as it reduces readability and can harm accessibility  
-- Situations where a conversational or friendly tone is preferred  
-
-### Decision
-**Recommendation:** Maintain alignment with USWDS tag component standards by continuing to use uppercase text for tags.  
-
-**Rationale:** This approach preserves design system consistency while leveraging the functional benefits of uppercase formatting for short-form, categorical content.
-
-### Consequences
-- Current tag implementation may not accommodate all existing use cases optimally  
-- Some teams may need to evaluate whether tags are the appropriate component for their specific content needs  
-
----
-
 ## ADR 005 - Icon Size Update
 
 **Status:** Accepted  
