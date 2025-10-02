@@ -130,6 +130,10 @@ Although the patient name is located at the top of the drawer, clinicians want t
 
 Participants were tasked to locate specific information under ‘Appointments’. 4 of 5 failed to do so and failed to recognize ‘Appointments’ as a unique section completely. Some participants thought the ‘Appointments’ section correlated to the line chart directly above it.
 
+<img width="354" height="357" alt="image" src="https://github.com/user-attachments/assets/d951c71e-55e4-4bd6-86d8-1f56b86f41f4" />
+
+*Clinicians failed to see that 'Appointments' was a separate section*
+
 *“I totally didn’t notice that section. It looks like it’s connected to the one above it.” - P1*
 
 *“It needs clear breaks so I don’t miss something important.” - P2*
