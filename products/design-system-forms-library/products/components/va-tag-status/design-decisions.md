@@ -144,7 +144,7 @@ Increase the icon size for status tags to **24px x 24px**.
 **Decision Date:** 2025-10-02  
 
 ### Context
-The original plan was to align tag colors with alert component colors. During review, the team discovered that the mobile team is creating a "blue sky" version of status tags with a different palette. Aligning with mobile ensures cross-platform consistency.
+The original plan was to align tag colors with [Alert](https://design.va.gov/components/alert/) component colors. During review, the team discovered that the mobile team is creating a "blue sky" version of status tags with a different palette. Aligning with mobile ensures cross-platform consistency.
 
 ### Decision
 Update tag colors to align with the **mobile blue sky status tag palette**.
