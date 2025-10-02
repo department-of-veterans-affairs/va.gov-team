@@ -1,20 +1,20 @@
 
 	# Research Plan for [Team, Product, Date]
 > [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+> *Questions about how to set up your research study? Reach out first in the via Slack in [#cds-hcd-cop] (https://dsva.slack.com/archives/C06043YBWTC) or if more help is needed check out the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-`What problem is your product trying to solve?`
+`What problem is your product or feature trying to solve?`
 
 **[Enter answer here]**
   
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+`Where is your product situated within the clinicians' or VA staff's toolset (ex: CDS Console > MedCalc)`
 
 **[Enter answer here]**
   
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
+`What is clinicians' familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
 **[Enter answer here]**
 
@@ -162,35 +162,20 @@
 
 <details><summary>Additional resources</summary> 
 	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
 - In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
 
 </details>
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+Currently, all clinical research for CDSC takes place remotely over MS Teams. We do not have processes in place to conduct in-person research with clinicians and VA staff. We will update this guide as things change.
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
+- [x] **Remote**
 
-- [ ] **Remote**
-- [ ] **In-person**
-      
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
 > [!NOTE]
-> **Have your research plan reviewed by the OCTO VA HCD Lead or a CDS HCD Peer review before beginning recruitment**
+> **Have your research plan reviewed by the OCTO VA HCD Lead or a CDS HCD Peer review before beginning recruitment. This doesn't mean the research plan has to be 100% finalized, but reviewed to ensure we are clear on our target participants**
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
@@ -207,10 +192,6 @@ Provide a link to any materials you need to run your study, including any materi
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
 
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
 *Recruitment for CDSC research is done by the researcher. Account for recruitment in your planning and preparation time. Ideally outreach begins 2-4 weeks ahead of targeted testing dates*
@@ -237,7 +218,7 @@ Provide a link to any materials you need to run your study, including any materi
 - Consider providing links to products and/or clear descriptions to ensure participants understand the question. 
   Example: Have you used CDS Medical Calcualtors in the last 6 months? [answer should be yes to qualify.]
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider what criteria MuST be met, versus what is nice to have.
+- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider what criteria MUST be met, versus what is nice to have.
 
 ### List the ideal completed sessions and total number and type (clinicians, VHA administrative staff, coordinators, etc.) of participants for this study:
 > [!NOTE]
@@ -268,11 +249,44 @@ Provide a link to any materials you need to run your study, including any materi
 ## Timeline 🗓️
 Consider recruitment lead time is often 2-4 weeks. 
 
+### Outreach Email Templates
+**General template, adjustments made for individual emails based on context or prior connection with participant. The outreach email must contain the line about voluntary participation and anonymity**
+
+Hello (Name),
+
+My name is (researcher/designer name), and we previously connected via your support request to (enter request or issue). 
+
+I am reaching out now to see if you would be interested in participating in a design feedback session. We are currently evaluating some new designs for the (product name). I’d love to get your perspective and feedback on these new concepts. It would involve participating in a 60-minute remote session on MS Teams. The session would include a general introduction and current experience with (product name), then I would share a design prototype with you along with a few probes to get your reactions, followed by closing questions. 
+
+**Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential, and your anonymity protected.**
+
+If you are interested in participating, the following days and times are available. Please respond to this email with a few 60-minute options that work for you, and I will send an invitation. If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. 
+
+All times are in **Eastern** time:
+
+Week of September 15:
+
+- Friday, September 19: 9:30 – 11am
+  
+Week of September 22
+
+- Monday, September 22: 10 - 11:30am
+- Tuesday, September 23: 10-11am, 1-2pm
+- Wednesday, September 24: 12 - 1pm, 2 - 5pm
+- Thursday, September 25: 10 - 11am
+- Friday, September 26: 10 - 12pm, 2 - 4pm
+
+I hope we can connect soon. If you are not interested in participating in these types of sessions, that’s fine too! Please let me know so I can make note!
+
+Cheers,
+
+(researcher name)
+
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been shared via Slack in #cds-hcd-cop or DS Office Hours for feedback. 
 
-**A pilot session is required. Find a partipant in the HDC CoP slack channel or your product team** 
+**A pilot session is strongly recommended. Find a partipant in the HDC CoP slack channel or your product team** 
 
 - `Pilot participant name:` **[Enter name]**
 - `Date and time of pilot session:` **[Enter time]** 
@@ -287,23 +301,6 @@ Consider recruitment lead time is often 2-4 weeks.
   
 - `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
 
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> Since clinicians work across the country, consider how you might accomodate early and later schedules. If you need to widen your hours or get support from another HCD peer to broaden the availability, consider this in your planning. A lot of ET clinicians are available early, 8am ET as they prepare for their day or during lunch hours. Early afternoon often catches PT participants who are at their lunch break too. 
-
-> [!TIP]
-
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -317,13 +314,27 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Participant recruiting & screening:`	**[Enter full name]**	
 - `Project point of contact:` **[Enter full name]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Note-takers:` **[Enter full name]** 	
+- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 3 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.` Share the Notetaker and Silent Observer guide in advance to the other people observing the sessions.
 
 - **[Enter full name]**
 - **[Enter full name]**
 - **[Enter full name]**
+
+### Notetaker and Silent Obeserver Guide
+- Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
+- If you can notetake, please do! It helps researchers a lot to see what you captured. There’s a note taking template in this Mural with screenshots. If you find it easier to write your notes or use a word doc, that's fine too! If you take running notes, please be sure to make a clear reference to the screen in question or the scenario being mentioned.
+- Write what you hear and see as much as possible. For some it can be easier to write in first person, as it is said, so that you don't need to paraphrase anything. Try to capture what they said without adding your own interpretation of what they meant. E.g. "I'm not sure about this checkbox" does not equal "Doesn't understand checkbox."
+- Share your notes back with the facilitator via Slack if taken outside of the mural. Do not include ANY PII in this chat.
+- For design testing, try to write down things that aren't said—for instance, when someone misunderstood some copy or clicked the wrong element. It helps us figure out what needs to be revisited.
+- Share a few raw impressions with the facilitator via Slack or in the notetaking document after the interview is done, if possible. It helps with synthesis!
+
+**Protecting PII**
+- It's important to protect the privacy of our VHA staff participants AND any Veterans. 
+- Do not include the participants name or other identifiers -- such as a very specific title that can be easy to identify them with in your notes. Instead, use a general role description, such as "primary care provider" and "also works in informatics"
+- In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.
+
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by [CDSC HCD Peer] or [CDSC VA HCD Lead] on [MM-DD-YYYY]`
+
