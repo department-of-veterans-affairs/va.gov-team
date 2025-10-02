@@ -6,6 +6,8 @@ Date: 08/28/2025
 
 Contact Cara Frissell (cara.frissell@adhocteam.us) with questions.
 
+Presentation deck used at "Design Review: MHV on VA.gov and VAHB" meeting on Wednesday, 10/1/25: [Update email prompt research study.pdf](https://github.com/user-attachments/files/22660742/Update.email.prompt.research.study.pdf)
+
 ## **Research Goals**
 
 
