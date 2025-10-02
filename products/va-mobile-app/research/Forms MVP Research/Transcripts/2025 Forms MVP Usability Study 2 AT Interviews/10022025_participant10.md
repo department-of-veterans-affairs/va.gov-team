@@ -205,7 +205,7 @@ Today I'd like you to pretend that you need to submit a statement in support of 
 ### Question for testing participant:
 
 - Before we start, what do you expect this process to be like?
-  
+  **Veteran assumed they would submit on Claims page with Evidence Request label**
 
 Thank you for sharing that, You may begin the task to submit a statement in support of a new disability claim for yourself.
 
@@ -223,20 +223,22 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
 
- - If Y, what do they find confusing?
+ - **Veteran went to Claims page and assumed File Requests was where they'd submit more information**
 
 - In this step, what did the participant expect to happen?
+- **Expected to use File Requests to add a statement and add a new file** 
 
  - Did they mention any previous experience or confusion?
+- **They went through Claims**
 
-- Did the user understand the 'Submit a statement in support of a claim' introductory screen? Y/N
+  **Expected to use File Requests to add a statement and add a new file** 
 
  - Did the user comment on this screen?
 
 - What option did the user select on the 'What would you like to do here?' screen?
 
   - Did the user share any confusion about the options provided?
-
+**They assumed they should go through Claims; had the most commentary here** 
 
 ### Questions for testing participant: 
 
@@ -245,7 +247,7 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 - How confident do you feel that you're in the right place to submit your statement?
 
 - Before you start the form itself, what do you expect this form completion process to be like?
-
+**This is exactly what the from looks like on the website from a look and feel perspective** 
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
@@ -287,16 +289,16 @@ At this point, I'm going to have you pretend that you need to step away from the
  - Did they mention any previous experience or confusion?
 
 - What does the user do to leave the form?
-
+"Back to previous page"*
 - Does the user express doubt that their work will be saved? Y/N
-
+Yes
 
 ### Questions for testing participant: 
 
 - How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
-
+**Kind of choppy, scrolling across is annoying. "That makes it challenging. Once you get to this kind of content, it's just hard on a phone"**
 - How confident do you feel that your work will be saved?
-
+- **Not confident at all**
 
 
 ## Task 5: Continue completing the started form and submit
@@ -310,6 +312,7 @@ Please locate your previous form and continue on.
 - In this step, what did the participant expect to happen?
 
  - Did they mention any previous experience or confusion?
+ - **Yes, they've used this on the webste. They would've gone to the website**
 
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
 
@@ -334,7 +337,7 @@ Please locate your previous form and continue on.
 - Are you able to percieve the full form field labels and any error messages?
   
 - Do you need to scroll horizontally to see all content?
-
+** Yes, needed to scvroll horizontally at times*
 
 ### Questions for testing participant: 
 
@@ -363,6 +366,7 @@ Now that you have completed the form, please go back to the app.
 - What does this status mean to you? 
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
+- **No idea** 
 
 - What would you expect to see if you needed to check on your submission later?
 
@@ -410,6 +414,7 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 - How was this process overall for you?
 
 - Was there anything you would change about this process?
+- **The website has been transformed into the app. Which is just not gonna work. This type of form 
 
 - What parts required the most concentration?
 
