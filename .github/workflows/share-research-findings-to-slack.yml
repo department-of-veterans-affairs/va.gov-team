@@ -73,7 +73,7 @@ jobs:
           chmod +x scripts/github-actions/share_to_slack/*.sh || true
           chmod +x scripts/github-actions/share_to_slack/*.py || true
 
-      - name: Find eligible research files (script)
+      - name: Find eligible research files (python)
         id: find-files
         env:
           RESEARCH_FILE_PATH: ${{ github.event.inputs.research_file_path }}
@@ -82,7 +82,7 @@ jobs:
           SHARED_FILES_LOG: .github/workflows/shared-research-files.log
         run: |
           set -euo pipefail
-          ./scripts/github-actions/share_to_slack/find_eligible_research_file.sh
+          python3 scripts/github-actions/share_to_slack/find_eligible_research_file.py
           echo "Raw step output file contents:"; cat "$GITHUB_OUTPUT" || true
 
       - name: Process and share research findings (python)
@@ -96,7 +96,7 @@ jobs:
           python3 --version
           python3 scripts/github-actions/share_to_slack/process_research_file.py "$FILE"
 
-      - name: Build Slack payload (success) (script)
+      - name: Build Slack payload (success) (python)
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         id: build-slack-success
         env:
@@ -107,7 +107,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${SLACK_CHANNEL_ID}" ]; then echo "Missing SLACK_RSRCH_FINDINGS_CHANNEL_ID" >&2; exit 1; fi
-          ./scripts/github-actions/share_to_slack/build_slack_payload_success.sh
+          python3 scripts/github-actions/share_to_slack/build_slack_payload_success.py
 
       - name: Send Slack notification - Success
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
@@ -118,7 +118,7 @@ jobs:
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
 
-      - name: Build Slack payload (error) (script)
+      - name: Build Slack payload (error) (python)
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         id: build-slack-error
         env:
@@ -127,7 +127,7 @@ jobs:
         run: |
           set -euo pipefail
           if [ -z "${SLACK_CHANNEL_ID}" ]; then echo "Missing SLACK_RSRCH_FINDINGS_CHANNEL_ID" >&2; exit 1; fi
-          ./scripts/github-actions/share_to_slack/build_slack_payload_error.sh
+          python3 scripts/github-actions/share_to_slack/build_slack_payload_error.py
 
       - name: Send Slack notification - Error
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
