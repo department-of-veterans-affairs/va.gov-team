@@ -86,9 +86,8 @@
 ### Location
 
 - [x] **Remote (MS Teams)**
-- [ ] **In-person**
-      
 
+      
 ## Research materials 📔
 
 
@@ -176,17 +175,11 @@ Approximately September 17 - October 2, 2025, based on clinician availability
   
 - `Buffer time between sessions: ` **15 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **3**
+- `Maximum Sessions per day: ` **3**
 
 ### Prepare
 *Don't forget to share your plan, stimuli, probes, or prototypes with the HCD team for feedback as you are working. Aim to have a CDS HCD peer review or review by the VA CDS HCD Lead at least 3 days before the first test to have time for changes*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
 
  
 ## Team Roles  🕵️👩‍💻👩‍🔬
@@ -201,7 +194,7 @@ Approximately September 17 - October 2, 2025, based on clinician availability
 - `Participant recruiting & screening:`	**Rosemary**	
 - `Project point of contact:` **Rosemary**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
-- `Note-takers / Observers:` **Dependent on Session**
+- `Note-takers / Observers:` **Ben**
 - `There should be no more than **3** total attendees (moderator, notetaker(s), observer(s)) per session to not overwhelm the research participant.
 
 ### Notetaker and Silent Obeserver Guide
