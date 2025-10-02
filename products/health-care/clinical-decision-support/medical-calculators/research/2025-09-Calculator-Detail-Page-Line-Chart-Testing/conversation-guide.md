@@ -1,23 +1,24 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for CDS Medical Calculators,09/16/2025"
+author: "Rosemary Rogers"
+date_created: "09/10/2025"
+last_modified: "90/17/2025"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
+  - "line charts"
+  - "lab trends"
+  - "medical calculators"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for Testing Line Charts within Specific Calculator Fields
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Confirm prototype is working 
+- [ ] share session schedule for notetaker/observers
+
 
 ### Day of the session
 
@@ -130,9 +131,9 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of abnormal liver function?]
-> - [Does the participant gravitate to finding the required data in the EHR (instead of in the product)?]
-> - [Does the participant notice the link to the lab history?]
+> - Does the participant understand meaning of abnormal liver function?
+> - Does the participant gravitate to finding the required data in the EHR (instead of in the product)?
+> - Does the participant notice the link to the lab history?
 
 
 ## Second Task: What are you thinking about this data? - 5 minutes
@@ -140,9 +141,9 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of the different labs?]
-> - [Does the participant mention needing reference lines?]
-> - [Does the participant mention the amount of data or the time period]
+> - Does the participant understand meaning of the different labs?
+> - Does the participant mention needing reference lines?
+> - Does the participant mention the amount of data or the time period
 
 
 ## Third Task: What was the most recent AP value recorded - 2 minutes
@@ -152,8 +153,8 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
       
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the know to hover?]
-> - [Does the participant mention seeing data in a different format?]
+> - Does the know to hover?
+> - Does the participant mention seeing data in a different format?
 
 ## Fourth Task: How would you answer the question based on this information? - 5 minutes
 - [ ] Follow-up: What led you to that decision?
@@ -161,9 +162,9 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of the different labs?]
-> - [Does the participant mention needing reference lines?]
-> - [Does the participant mention the amount of data or the time period]
+> - Does the participant understand meaning of the different labs?
+> - Does the participant mention needing reference lines?
+> - Does the participant mention the amount of data or the time period
 
 ## Fifth Task: How would you answer the "History of Labile INR" question? - 5 minutes
 
@@ -172,18 +173,18 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of labile INR?]
-> - [Does the participant gravitate to finding the required data in the EHR (instead of in the product)?]
-> - [Does the participant notice the link to the lab history?]
+> - Does the participant understand meaning of labile INR?
+> - Does the participant gravitate to finding the required data in the EHR (instead of in the product)?
+> - Does the participant notice the link to the lab history?
 
 
 ## Sixth Task: What are you thinking about this data? - 5 minutes
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant mention needing reference lines?]
-> -  [Does the participant mention needing the definition of labile?]
-> - [Does the participant mention the amount of data or the time period needed]
+> - Does the participant mention needing reference lines?
+> - Does the participant mention needing the definition of labile?
+> - Does the participant mention the amount of data or the time period needed
 
 
 ## Seventh Task: How would you answer the question based on this information? - 5 minutes
@@ -192,9 +193,9 @@ You navigate to the CDS Console, click on Medical Calculators, and select the HA
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of the different labs?]
-> - [Does the participant mention needing reference lines?]
-> - [Does the participant mention the amount of data or the time period]
+> - Does the participant understand meaning of the different labs?
+> - Does the participant mention needing reference lines?
+> - Does the participant mention the amount of data or the time period
 
 # Post-Task Interview - 5 minutes
 
@@ -221,7 +222,4 @@ In the rare case of an emergency during a session, be prepared with an [emergenc
 
 ---
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Calculator Detail Page - Line Chart Testing Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
