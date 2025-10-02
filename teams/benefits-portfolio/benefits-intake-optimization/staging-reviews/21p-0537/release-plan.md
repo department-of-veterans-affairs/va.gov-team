@@ -24,7 +24,6 @@ VA Form 21P-537 (Marital Status Questionnaire) and 21P-0601 (Application for Acc
 - UX: Melissa Schaff - Melissa.schaff@agile6.com
 - UX: Andrea Chappelear - andrea.chappelear@agile6.com
 - Engineering: Aaron Ponce - aaron.ponce@agile6.com
-- Engineering: Aurora Hampton - aurora.hampton@agile6.com
 - Engineering: Michael Clement - michael.clement@adhocteam.us
 
 (please add others)
@@ -33,7 +32,7 @@ VA Form 21P-537 (Marital Status Questionnaire) and 21P-0601 (Application for Acc
 - Team Product Manager: Michael Collier - michael.collier@agile6.com
 - PM: Berni Xiong - berni.xiong@agile6.com
 - Engineering: Aaron Ponce - aaron.ponce@agile6.com
-- Engineering: Aurora Hampton - aurora.hampton@agile6.com
+- Engineering: Michael Clement - michael.clement@adhocteam.us
 
 ## Troubleshooting
 
