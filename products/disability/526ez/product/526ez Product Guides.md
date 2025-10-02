@@ -13,7 +13,7 @@ If a guide has been updated recently and this doc has been kept up to date, most
 If there are any questions about the latest version of a product guide, reach out to the Contact Center team in DSVA slack in #vsp-contact-center-support<br><br>
 2. Drafts of new versions are created and shared internally<br>
 Make updates to the docs with [MS Word change tracker](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#:~:text=Click%20or%20tap%20at%20the,moves%20to%20the%20next%20change.) on. This will identify changes that have been made since the last version. Share with your product team for internal review via sharepoint in
-[Disability Benefits Experience/0 -Veterans & the 526ez/Product Guide Drafts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/0%20-%20Veterans%20%26%20the%20526ez/Product%20Guide%20Drafts?csf=1&web=1&e=rsbjUT).
+[Disability Benefits Experience / 2 - Delivery / Product Guide Drafts](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FDisability%20Benefits%20Experience%2F2%20%2D%20Delivery%2FProduct%20Guide%20Drafts&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72).
 This allows for better collaboration than uploading the docs to GitHub. Please add your proposed new version to the changelog below with an 'In Progress' note so other teams will know there is a new revision in progress. <br><br>
 3. Submit drafts for Contact Center review<br>
 Follow steps in [request-contact-center-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/contact-center/request-contact-center-review.md)
@@ -46,7 +46,9 @@ Make any requested changes and update in sharepoint. They will typically look th
 |10/11/24 |4.4|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 |11/25/24|4.5|[#97964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97964)|Disability Experience Team 1|Submission Experience|
 |12/10/24|4.6|[#98852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98852)|Disability Experience Team 1|5103 and Claim Certification|
-|5/7/25|4.7 • In Progress|[#106893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106893)|Disability Experience Team 2|0781 Paper Sync|
+|4/7/25|4.7|[#106893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106893)|Disability Experience Team 2|0781 Paper Sync|
+|8/26/25|4.8|[#117915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117915)|Disability Benefits Crew|4142 Form Update|
+|10/2/25|4.9 • In Progress|[#119070](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119070) [#117916](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117916)|Team High-Five|Product Guide Audit & Copy of Submission|
 
 
 ## 526 BDD Product Guide Ticket History
@@ -62,4 +64,5 @@ Make any requested changes and update in sharepoint. They will typically look th
 |10/11/24 |3.4|[#94161](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94161)|Disability Experience Team 2|526 Failure Email Message|
 |11/25/24|3.5|[#97964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97964)|Disability Experience Team 1|Submission Experience|
 |12/10/24|3.6|[#98852](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98852)|Disability Experience Team 1|5103 and Claim Certification|
-|5/7/25|3.7 • In Progress|[#106893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106893)|Disability Experience Team 2|0781 Paper Sync|
+|5/7/25|3.7|[#106893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106893)|Disability Experience Team 2|0781 Paper Sync|
+|10/2/25|3.8 • In Progress|[#119070](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119070) [#117916](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117916)|Team High-Five|Product Guide Audit & Copy of Submission|
