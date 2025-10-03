@@ -165,7 +165,7 @@ Probing questions:
 - What are you noticing or gravitating to first? Why?
 - How are you understanding the information under 'Your current benefits'?
 - Is there any terminology that is familiar or unfamiliar to you?
--     How are you interpreting the term 'Qualifying days'
+- How are you interpreting the term 'Qualifying days'
 - Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
 - What other information, if any, are you lookng to find?
 
@@ -205,7 +205,7 @@ Probing questions:
 
 ## Task 7: Self Review Tool - Step 3 Confirm election (5 minutes)
 
-**"Let's say you are good to move forward with this distribution, what would do next?"**
+**"Let's say you are ready to move forward with this distribution, what would do next?"**
 
 Probing questions:
 - What did you notice first on this step?
@@ -223,7 +223,7 @@ Probing questions:
 <p>&nbsp;</p>
 #### OPTIONAL: Future Prioritization (MAY BE REMOVED, PENDING STEP)
 
-**"Let's say you are good to move forward with this distribution, what would do next?"**
+**"Let's say you are ready to move forward with this distribution, what would do next?"**
 
 Probing questions:
 - What did you notice first on this step?
