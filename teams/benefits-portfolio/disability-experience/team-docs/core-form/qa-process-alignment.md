@@ -25,7 +25,7 @@
   - Instructions for pulling down and running the code locally  
 
 ### 2. Process Enhancements  
-- Add a **staging review swim lane** in the kanban board so QA steps are visible and tracked.  
+- Add a **staging review column** in the kanban board so QA steps are visible and tracked.  
 - Require proof of local submission (e.g., screenshot of a successful run) in PR comments. This ensures at least one validation before merging.  
 - Define lightweight testing criteria per ticket/PR to set expectations, while keeping the process lean enough to avoid unnecessary slowdowns.  
 - Explore the feasibility of **review instances** that allow anyone to test changes without a heavy local setup.  
