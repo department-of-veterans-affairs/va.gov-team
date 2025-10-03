@@ -76,10 +76,10 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 
 ### Recruitment criteria
 
-**Please recruit for 9 fulfilled sessions** using the following criteria:
+**Please recruit for 10 fulfilled sessions** using the following criteria:
 
 **Must have for participants**
-- Veterans or Service members who have applied for education benefits in the past and are currently using education benefits
+- A combination of Veterans or service members who have applied for education benefits in the past and are currently using education benefits, and Veterans or service members who have not used or applied for education benefits before.
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
