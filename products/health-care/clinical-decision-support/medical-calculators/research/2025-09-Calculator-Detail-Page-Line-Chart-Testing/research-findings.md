@@ -23,9 +23,9 @@ EHR:
 
 ---
 
-# [Study] Research Findings 
+# Calculator Detail Page Line Chart Testing Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Medical Calculators, Clinical Decision Support Collaborative**
 
 **Date:** 10/02/2025
 
