@@ -252,7 +252,7 @@ This research supports measurement of this KPI by....
 - [Product Outline](link here)
 - [Research plan](link here)
 - [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Notes document](link here)
 
 ### Tools used for Synthesis
 
