@@ -49,6 +49,7 @@ body:
 - type: input
   attributes:
     label: Relevant research or insights
+    description: Provide links to any relevant research findings or usability insights.
 - type: textarea
   attributes:
     label: Technical constraints
