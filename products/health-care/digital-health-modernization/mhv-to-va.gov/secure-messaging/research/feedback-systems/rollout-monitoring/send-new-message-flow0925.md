@@ -14,7 +14,6 @@
 
 ### Old Flow
 - /my-health/secure-messages/new-message
----
 
 ## Summary of findings (placeholder)
 
