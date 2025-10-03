@@ -37,12 +37,9 @@ body:
       - label: Digitizing a new form
       - label: Updating an existing form
       - label: Incorporating C&IA content feedback
-      - label: Something else:
+      - label: Something else
       
 - type: textarea
-  attributes:
-    label: Enter
-    description: Enter here
 
 - type: input
   attributes:
