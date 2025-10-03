@@ -69,8 +69,10 @@ Before we start, I want to go over a few things:
 
 - I have started recording. I'd like to confirm: 
   - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
+  - **I am**
  
   - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
+  - **I am**
 
 *Moderator: In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)*
 
@@ -90,29 +92,65 @@ Let’s start with a few questions...
 
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
+    - I am
 
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
+    - Android smartphone, Iphone, and laptop
 
 3. What operating system is on your device? *(iOS / Android / _______)*
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
+   - Safari
 
 5. What type of assistive technology are you using right now?
+   - None on iphone
+   - Use it to zoom in, some apps don't natively do that, like Gmail for example
+   - Mentions using Native talkback
+    
 
 6. How many years have you been using [assistive technology]?
+   - 7-8 years
 
 7. When or how often do you use it?
+    - Always trying to zoom in 
 
 8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert?
+    - I try not to use expert, so I would say advanced
 
 9. Have you ever shared your screen in Zoom while using a screen reader/magnifier?
+    - From my iphone no, from my android yes, laptop yes
+    - Shares his phone screen from another camera
 
-10. Have you ever filled out a VA form online before? 
+10. Have you ever filled out a VA form online before?
+    - I have
    - If so, can you tell me about your most recent experience? How did it go?
+   - Travel reimbursement, a yelp review of a 4 or a 7 out of 10
+   - How would my mom handle this? There's a lot on the form that's noise and not straightforward. Open a claim, Alright, here it all is. Do you want to hit next or submit? But then up above, right, where my mom doesn't read. It's, hey, you need to add… what do you… what are you… line items are you trying to add? You have to drop down from a list, and you have to add, well, I want to do mileage reimbursement. So you choose that, you go through all the options of. This is your starting point, this is the end point, and if the starting point, or if the end point doesn't actually exist within the VA. That's… that was… that's why I would just say it's a 7 because I needed this LE… uh, mental therapist location, and it only had these 3. So I had to… I chose one of the other ones, I tried to change the address, and it let me change the address. Did all that type of stuff, but it wasn't really… like, my mom wouldn't have been able to do it.
+She would have gotten confused, and I would get to call it… whatever time, hey.
+Here's this thing. Well, what did it say, Mom? I don't know, I just hit the buttons. Well… Can you not do that, right? So, okay.
+So I added the address, all that type of stuff, got through that, hit OK.
+And then it brought me back to that first… page, so are you good with this? But it didn't actually give me… an explanation of what I'm good with. It didn't… it didn't… Say, hey, let's review your page. It just said, okay, you got all this. Are you good with it? Um, yes? So, you hit re… or you hit accept.
+And then, after all of that, it says, okay, here you go, claim submitted, type of thing, but then… what you need to go back to is… or then it asks you if you want to add any… any other things, but it didn't act… oh, sorry.
+Sorry. Revert… rewind a little bit. It says, are you okay with this?
+To that first screen, I'm sorry, I'm going off of memory.
+It asks you if you're good with it, and then, uh, but it doesn't actually add the line item of mileage.
+You have to say yes, then it takes you to the next page, and it has the mileage, but it doesn't actually give you the details.
+And it says, are you good with this? Then you hit submit, and then it moves forward with it. So there's no real… Um, what am I actually filling out? Where am I doing it at? What is the information? And…
+You keep asking me if… not you… the forum keep asking me if… if I'm good with it, but there's no actual.
+Displaying of information. So. Um, so that's a lot of detail, a lot of time, right, in this, but that example applies to a lot of the different… forms that I'm filling out. There's no, um… when it takes me to a new page, it actually takes me to a new page, it doesn't do a dialogue window, it doesn't do an expand.
+It takes me to a new page, and then it actually never really brings me back to where I started from. And so, I could see how people could get lost in that process flow. It seems like it jumps all over the place, and it's not really straightforward, it's not gonna do… the user experience isn't really there. The information… Awesome. How it links in all of the different forms.
+That's… that's… that's amazing. What it… from a user experience, there's a lot of gaps and pitfalls. I would say not even gaps, there's a lot… lots of holes. That people could fall into and just get lost and go, okay, I… I give up.
+
+Form could be more intuitive and there's an efficiency that seems to be lost
   
 11. Do you have the VA Health and Benefits mobile app downloaded on your device?
+ - Yes on android
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
+   - All of it, messaging, appointment location, prescriptions, claim status, I think that's about it - Use as an assistant
+   - 7 - Logging in from phone, MFA is texting - if device is stolen what's the point of MFA right? I have questions about that perspective
+   - Seems antiquated, mentions AI assistants in bank apps - like a chatbot: it would give my mom somebody else to bug/walk her through
+   - AI could help provide a filter instead of seeing all of the noise
 
 
 # User Tasks
@@ -150,7 +188,7 @@ Did you get the link?
 Please click the (green) "Continue" button.
 
 Instructions to access prototype for **iOS users**(must access from your mobile device):
-1. Use the link provided to install test flight on your mobile device.
+1. Use the link provided to install test flight on your mobile device. - **seeing cannot connect to app store, the device may be too old, will try Android and use his computer for magnification**
 2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
 3. Under App Informaton at the bottom of the screen, select "Previous builds"
 4. Select the VA Health and Benefits mobile app version:2.59.1
@@ -163,7 +201,7 @@ Instructions to access prototype for **iOS users**(must access from your mobile 
 1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 2. Open the email and click on "Get started"
 3. It may require you to sign in again to authorize the install.
-4. Go to your Google play store > Go to your profile icon in the top right > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+4. Go to your Google play store > Go to your profile icon in the top right > Go to settings > About > click on play store version 7 times (may need to Select "app permissions") - **"I feel like we're jailbreaking a phone here"**
 5. Receive a note "You are now a developer"
 6. Scroll up and press General, click on "Developer options"
 7. Toggle the "interal app sharing"
@@ -187,6 +225,7 @@ I'd like you to take a look at this screen, and sign in.
 [Confirm you're seeing what they are seeing by asking them] "What is on your screen now?
 
 Are you seeing the participants screen magnified at all? 
+No - using computer for that
 
 If not, ask the participant to check their settings on their device by navigating to...
 
@@ -205,7 +244,7 @@ Today I'd like you to pretend that you need to submit a statement in support of 
 ### Question for testing participant:
 
 - Before we start, what do you expect this process to be like?
-  
+  I would expect to see my existing claim, I would expect to see a status of where I was at, um, all my different claims. And, um, let's see, what else would she do? She would, um… be able to edit… and add, uh, additional information, supportive information. Like, uh, a statement to any particular claim that she would see.
 
 Thank you for sharing that, You may begin the task to submit a statement in support of a new disability claim for yourself.
 
@@ -218,12 +257,18 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 ### Watch for:
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+  **Yes**
 
  - If Y, where do they go instead?
+  ** Benefits - Claim letters
+   Had to be directed to tap Apple**
 
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
+  **Yes**
 
  - If Y, what do they find confusing?
+   **Lost but is excited by the ability to pinch and zoom in web view
+   Respondent time 15 minutes could be worded better**
 
 - In this step, what did the participant expect to happen?
 
@@ -240,15 +285,21 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the form from your [assistive tech/device]? 
+- How was your experience navigating to the form from your [assistive tech/device]?
+  **Seems self explanatory after low hanging fruit**
 
 - How confident do you feel that you're in the right place to submit your statement?
+  **Was confident until you asked me that question
+  Why would I have that banner there? "Submit a statement to support a claim" now I'm questioning my life choices**
 
 - Before you start the form itself, what do you expect this form completion process to be like?
+**  Real quick, am I in the right form? (He is) That is very confusing
+  If there needs to be two timelines, prefers having it noted on the steps like (2 minutes, 5 minutes) to add up to the 15 minute expected burden**
 
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
+
 
 **For screen magnifier participants:**
 [Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What is on your screen now? 
@@ -259,13 +310,16 @@ You may continue on with the form.
 
 ### Watch for:
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+  **Yes**
 
  - If Y, what field do they encounter errors on?
+   **Yes on SSN because of consecutive numbers**
 
  - What triggered the error specifically?
 
  - Does the user understand how to correct the error? 
-
+   **Moderator explained**
+   
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
 
  - If Y, what specific challenges did they experience?
@@ -273,6 +327,7 @@ You may continue on with the form.
  - How did the user troubleshoot these challenges?
 
 - Does the user express thoughts of frustration while completing the form? Y/N
+  **Yes**
 
  - If Y, what did they experience when expressing the frustration?
 
@@ -293,17 +348,18 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 ### Questions for testing participant: 
 
-- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
-
+- How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]?
+  **I don't want to be done. Presented? Nope, I don't want to do that one. I don't see a home button. I would like to go home. Do I not get to go home? I'm orphaned. Um… Uh, let's hit 3… fresh. That just refreshes the page, right? What happens if I hit done? Oh. Okay, that was not as self-explanatory whatsoever. I would… nope. Nope.**
+  
 - How confident do you feel that your work will be saved?
-
+  **11/10**
 
 
 ## Task 5: Continue completing the started form and submit
 Now, pretend you are ready to come back to your previous form. 
 
 Please locate your previous form and continue on.
-
+**Didn't see "Go to my forms" at first; requesting a new form, or submitting a new form isn't really my form, it's a new form.**
 
 ### Watch for:
 
@@ -312,8 +368,14 @@ Please locate your previous form and continue on.
  - Did they mention any previous experience or confusion?
 
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
-
+**  Yes
+  Expects mailing address to be autofilled if it's already stored in the app
+  Encounted an error entering name (left out middle initial)
+  Not sure how to print on phone. It should automatically send an email and allow you to print 
+  **
+  
  - If no, what do they mention that is confusing?
+ - Done vs go back to va.gov is confusing - go back to the page
 
 - Is the user able to complete the started form? Y/N
 
@@ -338,19 +400,32 @@ Please locate your previous form and continue on.
 
 ### Questions for testing participant: 
 
-- How was your experience filling out the form from the mobile app using your [assistive tech/device]? 
+- How was your experience filling out the form from the mobile app using your [assistive tech/device]? **1:09 ish**
+  Redundant, a lot of time was spent. For what I did, it should've taken me 2 seconds in a few clicks I should've been able to start typing my statement... My experience was fine. I just expected more. 
 
 - Were there any fields where your assistive technology didn't work as expected?
+  Field requirements should be specified before an error (SSN, last name)
 
 - What worked well for you?
+  Pinch to zoom in webview - that was the highlight
+  Would like that for the whole app
+  When rotating the screen part title is cut off for Submit a statement
 
 - What was unclear for you?
+  Done/Go back to link within web view va.gov that he wasn't on
+  Respondent obligation time
+  My forms - I completed the form but it's still listed in active. In progress means the claim is in progress but not the form. Is the form in progress or the claim?
+  Can we have a my forms link within claims?
 
 - How does this compare to filling out forms on VA.gov or other websites?
 
 - What would make this process feel familiar to you?
+  Getting denied right in the very beginning
+  Felt like a VA form
 
 - If you had to take breaks, where would there be natural stopping points?
+  My stopping points or my mom's
+  Maybe at the end of each page. It would seem to make sense even though it looked like it was saving.. natrually when you go from one page to the next
 
  
 ## Task 6: View submitted form
@@ -363,10 +438,16 @@ Now that you have completed the form, please go back to the app.
 - What does this status mean to you? 
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
+  Would look for the email sent to me with all of the info on it. No way to tell which is the most complete form
 
 - What would you expect to see if you needed to check on your submission later?
+  
 
 - How would you expect to be notified of updates to this form?
+  Email and coming back to forms - assuming completed and active aren't for me, they're for adminstrative. Should be in with the rest of the claims
+
+
+
 
 
 ### Watch for:
@@ -408,12 +489,18 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 ## Thank You and Closing - 3 minutes
 
 - How was this process overall for you?
+  **Felt antiquated, older, would give it a 6-7 out of 10 because I was able to do it. If I had to choose, I'd do it on the website.**
+
 
 - Was there anything you would change about this process?
+  **Restructure and regroup it - should be under claims**
+
 
 - What parts required the most concentration?
+ ** Color scheme is familiar and it's atrocious, font colors**
 
 - Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+  **I'm a little old school. Would have to screenshot everything because he can't print from phone**
 
 
 **Are you still okay if we use any video or audio clips from this session?** 
