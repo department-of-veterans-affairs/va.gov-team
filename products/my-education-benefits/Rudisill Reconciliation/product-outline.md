@@ -12,8 +12,8 @@ Education benefits can be hard to navigate for our Veteran population due to the
  
 ## Desired User Outcomes
 
-- Veterans should be able to allocate their remaining qualifying days of service to maximize their benefit outcomes according to their education goals.
-    - For example: a Veteran who relinquished their MGIB benefit (to use their PGIB benefits) and now qualifies for both MGIB and PGIB under Rudisill; should be able to distribute their qualifying days of service to gain entitlement under both.
+- Veterans should be able to allocate their remaining qualifying service to maximize their benefit outcomes according to their education goals.
+    - For example: a Veteran who relinquished their MGIB benefit (to use their PGIB benefits) and now qualifies for both MGIB and PGIB under Rudisill; should be able to distribute their qualifying service to gain entitlement under both.
 - Veterans should easily understand the outcome and impact of the allocation made within the Dual Benefit Eligibility Tool, and that it will impact their existing benefits. 
 
 
@@ -33,39 +33,14 @@ Education benefits can be hard to navigate for our Veteran population due to the
   - Business logic will be well considered to ensure we providing the best recommendation for users and provide users with a simple way to make their own allocation, when the recommendation is not the best fit for them.
 
 ---
-## Measuring Success
-
-### Key Performance Indicators (KPIs)
-* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
-* _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
-
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
-
-### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
-
-- Objective:
-  - Key result: 
-  - Key result: 
-
-
----
 
 ## Assumptions
 
 The following assumptions have been made when creating our solution:
 
-- Veterans have some familiarity with terms related to education eligibility and entitlment (e.g. months of entitlment, qualifying days of service, benefit level, kicker).
+- Veterans have some familiarity with terms related to education eligibility and entitlment (e.g. months of entitlment, qualifying service, benefit level, kicker).
 - Some Veterans who use the tool may not have an in-depth understanding of their benefits 
-   - Veterans, will understand by using the tool, the relationship between their qualifying days of service and their benefit outcome.
+   - Veterans, will understand by using the tool, the relationship between their qualifying service and their benefit outcome.
 - Some Veterans who use the tool may have an in-depth understanding of their benefits (considered super users).
 
 ## Solution Approach
