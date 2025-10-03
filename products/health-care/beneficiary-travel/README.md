@@ -2,8 +2,8 @@
 
 **Quick Links**
 
-- [Team Members](#team-members) (Team Members Only)
-- [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0)
+- [Team Members](#team-members) 
+- [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0)(For Team Members Only)
 - [Team Calendar & Communication Groups](#team-calendar-&-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
@@ -30,22 +30,22 @@
   
 ## Team Members
 - OCTO Managers
-  - Kay Lawyer (PO)
-  - Kristen McConnell (UX)
-  - Mark Dewey (Eng)
+  - [Kay Lawyer](https://dsva.slack.com/team/U7T6EKTK9)(PO)
+  - [Kristen McConnell](https://dsva.slack.com/team/U0158T9DJCA)(UX)
+  - [Mark Dewey](https://dsva.slack.com/team/U03Q3UP7RPS)(Eng)
 - Product Manager
-  - [Charlotte Reid](#https://dsva.slack.com/team
+  - [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - Engineering Lead
-  - Kevin Duensing
+  - [Kevin Duensing](https://dsva.slack.com/team/U01NU8D1Q5B)
 - Full Stack Engineers
-  - Calvin Cieslak
-  - Peri McLaren
+  - [Calvin Cieslak](https://dsva.slack.com/team/U0894STJS9F)
+  - [Peri McLaren](https://dsva.slack.com/team/U06AWAQGJQ4)
 - Mobile Engineers
-  - Belle Poopongpanit
-  - Sam Cohen
+  - [Belle Poopongpanit](https://dsva.slack.com/team/U0792S0B4TH)
+  - [Sam Cohen](https://dsva.slack.com/team/U0928AG5MGF)
 - Research & User Experience
-  - Kristen Faiferlick
-  - Liza McRuer
+  - [Kristen Faiferlick](https://dsva.slack.com/team/U03SWD93525)
+  - [Liza McRuer](https://dsva.slack.com/team/U08Q9AD01RS)
 
 ## Team Calendar & Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
