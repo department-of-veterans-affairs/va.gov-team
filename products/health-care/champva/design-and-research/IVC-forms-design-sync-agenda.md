@@ -20,26 +20,20 @@ Roadmap summary
 - Talked through latest version that does not include a screener question or any mention of VA profile / corpdbs accounts
 - Follows travel pay pattern closer that includes a static va.gov content page to explain the details of direct deposit setup.
 - Content and research can happen with no blockers
+- Question: if they have done travel pay recently, maybe messaging around them not have to go through. Amanda: Leave that question for IA and Content.
 
-**ACTION ITEMS**: Open content ticket for review, research planning and prototype build
+**ACTION ITEM**: Open content ticket for review, research planning and prototype build
 
 **CHAMPVA Claims sendback letter edits**
-
-- swapped out with content bullet list of items and menu items to get to CHAMPVA claims page and instructions
-- missing from original draft provided to content - reminder to include PDI number
+- Renata presents Claims, setback letter:
+- DPI should be added back in, missing from original draft provided to content - reminder to include PDI number
 - Renata recommends to add back in 
-- Needs provided for resubmission, 
-- Contact information fax numbers, go to various numbers found
-- Multiple for duty to assist, Claims partners - would any or all of that be included on the content?
-
+- The original letter did not include the Fax number, and there are 4 fax numbers. 
 - What to expect after you file, more information contact information - what is correct on static page and elsewhere
+- Community Care URL; Amanda questions this since it is a modernized.
+- Renata notes it is the original letter. Team to talk to Content and IA. But the Stakeholder is working as usual.
 
-- Talk to content about updating information around “How to file CHAMPVA claims” on static page
-
-- Print PDF page -
-- Can benefits can and use the fax line, not listed. Only mail as an option.
-
-**ACTION ITEM**: Make sure contact methods to file a claim are consistent and covered across 
+**ACTION ITEM**: Make sure contact methods to file a claim are consistent and covered across places on form and static pages
 
 
 **Tricare/eligibility screener options**
@@ -47,36 +41,14 @@ Roadmap summary
 - Pre-check page copied 
 - Already large blue eligibility box on the static CHAMPVA page
 
-Option 1: Eligibility question
-- Similar to EZ check, asking if Veteran if enrolled or eligible (two mockups)
-- Options for letting know not eligible
-- One option stop in form if eligible
-- One option a warning and can continue, but not actually stopping anyone from clicking continue
-- Options of same content, alert component variations 
-
-- Options allow bypass and continue, or go back and continue. Still complete form regardless. 
-- Future state EZ screener question pattern but check in DoD
-
-Soft step towards that solution if can use that API eventually 
-
-Amanda - leaning towards Option 2
-We let them but education them with some friction 
-
-Renata question: Include on Subform page as well?
-Question from research - “Where does TriCare go?”
-
-From research - Tricare is there only model for understanding health insurance. Their mental model of using.
-Renata to pull quote from research?
-
-“What plan would I select if I have Tricare?”
-
-Need to confirm = eligible for and enrolled? If they pass on Tricare enrollment but are eligible, does that make them not eligible for CHAMPVA 
-
-Alyssa - Wording in Option 2 could lead to confusion, maybe hybrid of Option 1 for content. Clearer definitive statement 
-Talking through options and if people would click the back button or exit
-
-Renata - to look through the design system for other options to use
-Instead of just clicking through the form and not reading. 
+- DOD API vs UX Screener Question.
+- Premal has no opinion, and Amanda leans toward Option B (let me apply but warn them).
+- For some Veterans who only know Tricare as their only health service, they wonder
+- Note that if you're eligible or enrolled in Tricare, you are not eligible for CHAMPVA.
+- Alyssa likes the strong wording of Option 1. Perhaps there is a combo between Options 1 and
+-  Renata to swirl the two options together.
+- Mike agrees that we would launch the MVP first before doing the eligibility logic.
+- Amanda wants to lean towards a soft screener question is because it is not up to us to decide on eligibility. Elizabeth's (Eligibility) biggest pain point is the eligibility.
 
 Think through the options since we don’t know if the Veteran is the one filling out the form, can be an applicant as well 
 
@@ -87,6 +59,7 @@ Premal - Going back to them (stakeholders) with a solution
 Amanda - lean softer because doesn’t think the decisions should be in the flow. Not wanting to make that call without a conversation with business partners - esp if there is a flow that stops them. 
 
 
+**ACTION ITEM** Renata to swirl the two options together.
 
 
 
