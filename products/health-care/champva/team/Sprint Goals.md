@@ -33,7 +33,7 @@
 - [ ] **SPRINT GOAL** Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended
   - [ ] [[BE] 10-10D v2: Spike — Dynamic VA Notify email variants based on if it includes a OHI submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120270)
 - [ ] **SPRINT GOAL** Begin Staged Launch
-  - [ ] **NEED A STORY TO LAUNCH**
+  - [ ] [[FE] 10-10d/10-7959c - Form merge: Add temporary redirect logic for staged launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120486)
 - [ ] **SPRINT GOAL** Make suggested content updates in figma for OHI
   - [ ] [[UX] 10-10d v2: Update Other Health Insurance content changes](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120443)
 - [ ] **SPRINT GOAL** UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
