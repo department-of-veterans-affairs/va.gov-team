@@ -11,7 +11,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Ask the Disability Benefits Crew (DBC) content designer for support. Use clear, simple language to describe the work.
+      **Ask the Disability Benefits Crew (DBC) content designer for support. Use clear, simple language to describe the work.**
 
 - type: textarea
   attributes:
