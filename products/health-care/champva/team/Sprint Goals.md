@@ -1,4 +1,4 @@
- # 2025 Sprint Planning for 10-1d, 10-7959c, 10-7959a, 10-7959f-1, 10-7959f-2
+ # 2025 Sprint Planning for 10-10d, 10-7959c, 10-7959a, 10-7959f-1, 10-7959f-2
 - Current Sprint first
 
 ---
