@@ -39,7 +39,7 @@ body:
       - label: Incorporating C&IA content feedback
       - label: Something else
       
-- type: textarea
+- type: input
   attributes:
     label: If something else
 
