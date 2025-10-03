@@ -15,9 +15,19 @@ The only significant con to adding it is that it is only available to TSMs in so
 
 ## Pros and cons of adding
 
-| Pros | Cons |
-| :---- | :---- |
-| High value benefit Meets a well-established user need Aligns with our mission Our partners would like it added Adding this benefit will help us build a repeatable intake and evaluation process for adding benefits It is available to spouses  | No other benefits have location limitations Adds a little complexity but not much to time sensitivity. It’s a different time sensitivity length (2 years before separation, 1 year after), but most of the time sensitive benefits are different lengths of time |
+### Pros
+
+* High value benefit  
+* Meets a well-established user need  
+* Aligns with our mission  
+* Our partners would like it added  
+* Adding this benefit will help us build a repeatable intake and evaluation process for adding benefits  
+* It is available to spouses
+
+### Cons
+
+* No other benefits have location limitations  
+* Adds a little complexity but not much to time sensitivity. It’s a different time sensitivity length (2 years before separation, 1 year after), but most of the time sensitive benefits are different lengths of time
 
 ## Program description:
 
