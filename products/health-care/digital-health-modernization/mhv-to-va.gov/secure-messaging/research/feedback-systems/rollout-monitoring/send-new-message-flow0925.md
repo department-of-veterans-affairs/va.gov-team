@@ -5,8 +5,15 @@
 - **Datadog dashboards:** [MHV Secure Messaging Metrics](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics) | [Additional section](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics?tile_focus=8373464859678247)  
 - **CSAT data:** via VSignals / Medallia pulls, filtered to Secure Messaging URLs (DOMO if needed).
 - **GA4 Exploration (SM):** [SM_New Message Flow (post launch)](https://analytics.google.com/analytics/web/?authuser=3#/analysis/a50123418p419143770/edit/7n8e1KjwTWi4yp506UC0DQ)  
-  _Note: GA4 data is on a 48-hour delay._
+## URLS
 
+### New Flow
+- /my-health/secure-messages/new-message/recent
+- /my-health/secure-messages/new-message/select-care-team/
+- /my-health/secure-messages/new-message/start-message
+
+### Old Flow
+- /my-health/secure-messages/new-message
 ---
 
 ## Summary of findings (placeholder)
