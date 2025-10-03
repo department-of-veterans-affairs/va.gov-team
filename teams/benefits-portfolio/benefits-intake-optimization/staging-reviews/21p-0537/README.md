@@ -24,6 +24,8 @@ This directory contains all QA artifacts required for the Platform Staging Revie
 6. [Accessibility Testing](./accessibility-testing.md)
 7. E2E Tests: [PR #39115](https://github.com/department-of-veterans-affairs/vets-website/pull/39115)
 8. Unit Tests: [PR #39139](https://github.com/department-of-veterans-affairs/vets-website/pull/39139)
+9. [Endpoint Monitoring Playbook](./endpoint-monitoring-playbook.md)
+10. [Silent Error Logging](./logging-silent-failures.md)
 
 - **Staging Review Ticket:** [#120221](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120221)
 - **Platform QA Standards:** https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards
