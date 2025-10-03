@@ -66,8 +66,68 @@ An Employment Navigator can assist in conducting personal assessments to help yo
 
 You must be a (1) transitioning service member or their spouse (2) within two years of retirement or 365 days of separation (3) participating in TAP services at one of these ENPP locations:
 
-| Air Force | Army | Coast Guard | Marine Corps | Navy |
-| :---- | :---- | :---- | :---- | :---- |
-| Cannon AFB  Davis-Monthan AFB Eglin AFB Eielson AFB Hill AFB JBC Charleston AFB  JBER Elmendorf  JBLE Langley  Kadena AB  Ramstein AB  Robins AFB Shaw AFB  Travis AFB Whiteman AFB | Baumholder  Camp Humphreys Carlisle Barracks Fort Drum  Fort Hood Fort Leonard Wood  Fort Sam Houston Fort Shafter  Fort Sill  Fort Wainwright  JBER Richardson  JBLE Eustis  Kaiserslautern  Redstone Arsenal Schofield Barracks  Torii Station  Vilseck | USCG Honolulu USCG Kodiak | Camp Foster Camp Hansen Camp Kinser Camp Pendleton Camp Schwab MCAS Cherry Point MCAS Miramar MCRD San Diego | JBC NWS Charleston  JBPHH Pearl Harbor  JEB Little Creek  NAS Pensacola  NB San Diego  NB Ventura County  NSA Norfolk  NSB New London Yokosuka |
+### Air Force
 
+* Cannon AFB   
+* Davis-Monthan AFB  
+* Eglin AFB  
+* Eielson AFB  
+* Hill AFB  
+* JBC Charleston AFB   
+* JBER Elmendorf   
+* JBLE Langley   
+* Kadena AB   
+* Ramstein AB   
+* Robins AFB  
+* Shaw AFB   
+* Travis AFB  
+* Whiteman AFB
+
+### Army
+
+* Baumholder   
+* Camp Humphreys  
+* Carlisle Barracks  
+* Fort Drum   
+* Fort Hood  
+* Fort Leonard Wood   
+* Fort Sam Houston  
+* Fort Shafter   
+* Fort Sill   
+* Fort Wainwright   
+* JBER Richardson   
+* JBLE Eustis   
+* Kaiserslautern   
+* Redstone Arsenal  
+* Schofield Barracks   
+* Torii Station   
+* Vilseck
+
+### Coast Guard
+
+* USCG Honolulu  
+* USCG Kodiak
+
+### Marine Corps
+
+* Camp Foster  
+* Camp Hansen  
+* Camp Kinser  
+* Camp Pendleton  
+* Camp Schwab  
+* MCAS Cherry Point  
+* MCAS Miramar  
+* MCRD San Diego
+
+### Navy
+
+* JBC NWS Charleston   
+* JBPHH Pearl Harbor   
+* JEB Little Creek   
+* NAS Pensacola   
+* NB San Diego   
+* NB Ventura County   
+* NSA Norfolk   
+* NSB New London  
+* Yokosuka
 
