@@ -26,7 +26,7 @@ We learned in [(limited) prior research](https://github.com/department-of-vetera
 
 ## **OCTO Priorities**
 
-This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202024.md):
+This research aligns with the following This research aligns with the following [OCTO priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md):
 
 * VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
@@ -88,19 +88,17 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 * [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759158067795/d2b71786adabc363e1699c03f159376c501bdf6c)
 
 ### Recruitment criteria
-6 Veterans who use assistive technology. 
+4 Veterans who use assistive technology and 2 family members who use assistive technology (recruit 8 to achieve a total of 6 participants). 
 
 **Primary criteria**
 
-* ALL must use a screen reader or screen magnifier every time they access the Internet  
+* ALL must use a screen reader or screen magnifier every time they access the Internet (3 screen readers and 3 screen magnifiers)  
 * At least 3 have previously used the facility locator  
 * At least 3 have NOT previously used the facility locator  
 * At least 3 have a smartphone to use for the session and...  
   * Have Zoom downloaded to their smartphone prior to the session and know how to share their screen  
   * Be willing to share over Zoom a web browser window on their smartphone  
   * Have a working microphone on their smartphone
-
-
 
 **Secondary criteria (listed in priority order)**
 
@@ -115,8 +113,8 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 ### Screening Questions
 
 1. Have you searched for a VA location using the VA facility locator?  
-   1. No (RECRUIT 3\)  
-   2. Yes (RECRUIT 3\)  
+   1. No (RECRUIT 4\)  
+   2. Yes (RECRUIT 4\)  
 2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
    1. No  
    2. Yes (RECRUIT 2 and RECORD as having a cognitive disability)  
@@ -125,7 +123,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
    2. Yes (RECRUIT 1\)  
 4. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?  
    1. No  
-   2. Yes (RECRUIT 3\)  
+   2. Yes (RECRUIT 4\)  
 5. What time zone are you located in? (RECORD)
 
 ### Screening Questions for AT
@@ -143,7 +141,7 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 4. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? (open text field--RECORD what they say AND ask rest of questions)  
    * DISQUALIFY if they say something non-digital like "magnifying glass"  
    * Acceptable responses include "ZoomText", "increase font size", "zoom in the browser, "JAWS", "VoiceOver", "Talkback"  
-   * If unsure whether someone qualifies, please ask Jordan  
+   * If unsure whether someone qualifies, please ask Tina  
 5. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using? (RECORD)  
    * Smartphone  
    * Computer  
@@ -159,7 +157,7 @@ Before recruitment starts, we would like to request a kickoff call with Perigean
 
 Tina and Dave are available for a kickoff call during any of these times:
 
-* Week of Sept 29, 2025
+* Week of Oct 6, 2025
 
 Please invite Tina (tina.kambil@agile6.com) and Dave (dave.pickett@civicactions.com)) to the kickoff call.
 
@@ -167,12 +165,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 **Pilot (with AT user)**
 
-* Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader  
+* Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader and/or member of ADE team using screen magnifier  
 * Date and time of pilot session: TBD
 
 ### Research sessions
 
-* Planned dates of research: October 14-Oct 18 2025
+* Planned dates of research: October 15-Oct 18 2025
 
 ### Length of sessions for AT
 
@@ -201,7 +199,7 @@ Please list the people who will be serving in each role.
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Tina Kambil & Dave Pickett  
 * Participant(s) for pilot test: TBD  
-* Accessibility specialist (for sessions where support for assistive technology may be needed): TBD  
+* Accessibility specialist (for sessions where support for assistive technology may be needed): Jacqueline Quintanilla 
 * Note-takers: Perigean  
 * Observers: Will need to sign up so we can limit the number of observers per session, and Tina will add them to the invites that she receives from Perigean. The Sitewide team will be invited to observe.
 
