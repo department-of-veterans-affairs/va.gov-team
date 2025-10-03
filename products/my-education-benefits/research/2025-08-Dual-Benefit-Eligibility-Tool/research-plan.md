@@ -102,20 +102,6 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 ## Timeline 
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
-### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
-
-### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]**
-
 ### Research sessions
 - `Planned dates of research:` **10/15-10/24**
 
