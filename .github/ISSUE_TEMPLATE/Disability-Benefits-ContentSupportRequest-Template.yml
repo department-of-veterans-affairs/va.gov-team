@@ -41,7 +41,7 @@ body:
       
 - type: textarea
   attributes:
-    label: Enter
+    label: If something else
 
 - type: input
   attributes:
