@@ -97,8 +97,8 @@ underserved_groups_missing:
 
 **Contacts:** Liza McRuer, Kristen Faiferlick
 
-**[Link to Research Readout](link-here)**  
-*Link TBD - Report in progress.*
+**[Link to Research Readout](https://dvagov-my.sharepoint.com/:b:/r/personal/elizabeth_mcruer_va_gov1/Documents/Travel%20Pay%20Research%202025/Travel%20Pay%20Complex%20Claims%20Concept%20Study%20Research%20Findings%20-%20September%202025%20(1).pdf?csf=1&web=1&e=pObjkf)**  
+
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
