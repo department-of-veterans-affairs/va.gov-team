@@ -51,7 +51,7 @@ My name is [NAME] and I'm here to learn about how you work with Veterans to help
    - *If yes*: Great! Can you describe what PTAs are and what they're used for?
    - *If no*: That's okay! [Skip to Part 3]
 
-6. How did you first learn about PTAs? Who taught you how to use them?
+6. How did you first learn about PTAs? 
 
 7. Do you currently use PTAs when working with Veterans?
    - *If yes*: Continue with questions below
@@ -60,16 +60,16 @@ My name is [NAME] and I'm here to learn about how you work with Veterans to help
 ### When PTAs Are Used
 
 8. Walk me through a typical situation where you would use a PTA with a Veteran.
-   - *Probe*: What prompts you to use a PTA versus other training methods?
+   - *Probe*: When you are setting up trainings for Veterans and/or staff, what resources do you use?  What would prompt you to use a PTA versus other training methods?
    - *Probe*: Is this during an initial training session or troubleshooting an issue?
 
 9. For prescription refills specifically, how do you use PTAs?
    - *Probe*: Can you show me or walk me through what you typically do?
-   - *Probe*: What parts of the prescription refill workflow do you demonstrate with PTAs?
 
 10. For secure messaging specifically, how do you use PTAs?
     - *Probe*: Can you show me or walk me through what you typically do?
-    - *Probe*: What aspects of secure messaging do you cover with PTAs?
+   
+11. A few weeks ago, production test accounts were inaccessbile; what did you use instead during this outage?
 
 ### PTA Effectiveness
 
@@ -124,17 +124,8 @@ My name is [NAME] and I'm here to learn about how you work with Veterans to help
     - *Probe*: How do you diagnose the problem?
     - *Probe*: What resources do you rely on?
 
-### Comparative Effectiveness
 
-21. Thinking about training and troubleshooting with PTAs versus without them:
-    - What's better about using PTAs?
-    - What's better about NOT using PTAs?
-
-22. If you could design the ideal training and troubleshooting experience, what would it look like?
-
-### Observation Request (if not done earlier)
-
-23. Would you be willing to demonstrate how you would typically walk a Veteran through [prescription refills OR secure messaging] without using a PTA? You can just show me what you would normally do.
+21. Would you be willing to demonstrate how you would typically walk a Veteran through [prescription refills OR secure messaging] without using a PTA? You can just show me what you would normally do.
     - *Observe and take notes on*:
       - Training approach and techniques
       - Tools and resources used
@@ -148,20 +139,20 @@ My name is [NAME] and I'm here to learn about how you work with Veterans to help
 
 **Goal**: Understand differences between prescription refills and secure messaging
 
-24. Between prescription refills and secure messaging, which one do you find easier to train Veterans on? Why?
+22. Between prescription refills and secure messaging, which one do you find easier to train Veterans on? Why?
 
-25. Between prescription refills and secure messaging, which one has more troubleshooting issues? What kinds of issues come up?
+22. Between prescription refills and secure messaging, which one has more troubleshooting issues? What kinds of issues come up?
 
-26. Do you approach training differently for these two workflows? How so?
+23. Do you approach training differently for these two workflows? How so?
 
 ---
 
 ## Part 5: Closing (3-5 minutes)
 
-27. Is there anything else about how you use PTAs or train Veterans that you think would be helpful for us to know?
+24. Is there anything else about how you use PTAs or train Veterans that you think would be helpful for us to know?
 
-28. What would make your job easier when it comes to training Veterans on VA.gov?
+25. What would make your job easier when it comes to training Veterans on VA.gov?
 
-29. If you could change one thing about how you currently work with Veterans on prescription refills or secure messaging, what would it be?
+26. If you could change one thing about how you currently work with Veterans on prescription refills or secure messaging, what would it be?
 
 **Thank you so much for your time today. Your insights are incredibly valuable and will help us improve the training and support experience for Veterans.**
