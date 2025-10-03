@@ -16,8 +16,8 @@ description: "A template for moderating research sessions including logistics, i
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Confirm prototype is working 
-- [ ] share session schedule for notetaker/observers
+- [x] Confirm prototype is working 
+- [x] share session schedule for notetaker/observers
 
 
 ### Day of the session
