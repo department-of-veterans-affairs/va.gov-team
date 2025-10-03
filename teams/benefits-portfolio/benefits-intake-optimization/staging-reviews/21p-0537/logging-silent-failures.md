@@ -9,19 +9,16 @@
 
 Silent failures are errors that occur in the background without user-facing error messages. These errors can be difficult to detect and troubleshoot, as they may not generate visible symptoms or alerts.
 
-VA Form 21P-0537 is a synchronous submission form with no background jobs or asynchronous processes. All form operations (prefill, validation, submission) occur in real-time with immediate user feedback. Therefore, we expect no silent failures.
+While initial submission of the form is synchronous, after the PDF of the user's submission is generated on the backend it is asynchronously submitted to the Benefits Intake API and a confirmation email is sent to the user.
+
+To ensure no silent failures occur when submitting to the Benefits Intake API form 21p-0537 will make use of the existing silent failure tracking mechanisms in the `simple_forms` API. This ensures that
+1. Users are sent an email informing them of a failure if a submission does not reach the Benefits Intake API
+2. Any email directed to a user that fails to be enqueued in VA Notify increments the `silent_failure` StatsD tag and includes the form number (e.g., `21P-0537`) and the VA Notify confirmation number.
+
+[This Dashboard](https://vagov.ddog-gov.com/dashboard/xda-7sd-pza/silent-failure-tracker-vff-forms?fromUser=true&refresh_mode=sliding&from_ts=1759439215931&to_ts=1759525615931&live=true) displays silent failure information originating from the Simple Forms API. Silent failures from this form will show up here.
 
 **Monitoring**
 
 | Component | Monitoring Approach | Alert Threshold |
 |-----------|-------------------|-----------------|
-| Form Submissions | Datadog submission tracking | Submission failure rate >5% |
-| API Errors | Sentry error tracking | Any 500-level errors |
-| Save-in-Progress | Application logs | Save failure rate >3% |
-| Prefill Service | Datadog service health | Service availability <99% |
-
-**Expected Silent Failures**
-
-None. All errors surface to the user or are captured in monitoring systems.
-
-In the event of outages or degraded service, our monitoring alerts the team for immediate response.
+| Benefits Intake Submission Failures | [This monitor](https://vagov.ddog-gov.com/monitors/456190) sends notifications to #bio-heart-notifications in Slack when a submission failes to be ingested to Benefits Intake | All failures |
