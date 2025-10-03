@@ -16,7 +16,27 @@ For any substanial decision to make or made by the team, add it here. Substantia
 
 ## Decisions made
 
-## DR 2: Where does the picklist go first? 686/674 or 0538?
+### DR 3: Do we want to show all dependents or one at a time?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+This question was more relevant when the team wanted to launch the picklist feature in the dependent verification form (0538). Because that form is about verifying your current dependents, no matter how many you have, it made sense to wrestle with this question. That context has changed though since the team decided to put the picklist first in the the Add/remove dependents form (686/674).
+
+**Decision**
+
+Since the team decided to place the picklist in the Add/remove dependents form (686/674), the flow works differently. So this question didn't have as much importance. It could come up again in the future if verification gets added to the 686/674. The decision here is to not worry about this question in the Add/remove dependents form (686/674).
+
+**Consequences**
+
+The consequences for this decision are minimal because of the switch between forms.
+
+### DR 2: Where does the picklist go first? 686/674 or 0538?
 
 Date: 2025-09-08
 
