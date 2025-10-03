@@ -117,7 +117,7 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 - `Date and time of pilot session:` **[Enter time]**
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **10/15-10/24**
 
 ### Length of sessions
 Sessions will likely last 30-35 minutes.
@@ -125,14 +125,14 @@ Sessions will likely last 30-35 minutes.
 ### Availability
 | Dates | Times (EST) |
 | --- | --- |
-| DATE | 9 AM to 5 PM |
-| DATE | 9 AM to 5 PM |
-| DATE | 9 AM to Noon |
-| DATE | 9 AM to 5 PM |
-| DATE | 9 AM to Noon |
-| DATE | 9 AM to 5 PM |
-| DATE | 9 AM to Noon |
-| DATE | 9 AM to 5 PM |
+| 10/15 | 9 AM to 5 PM |
+| 10/16 | 9 AM to 5 PM |
+| 10/17 | 9 AM to Noon |
+| 10/18 | 9 AM to 5 PM |
+| 10/19 | 9 AM to Noon |
+| 10/20 | 9 AM to 5 PM |
+| 10/21 | 9 AM to 5 PM |
+| 10/22 | 9 AM to Noon |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
@@ -148,7 +148,3 @@ Sessions will likely last 30-35 minutes.
 - Note-takers: Alexander Ferzola ; Allison Nguyen
   
 <p>&nbsp;</p>
-
-## Approvals
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
