@@ -61,6 +61,7 @@ body:
     options:
       - label: Issue reviewed with the content designer during content support office hours or a separate sync 
       - label: Acceptance criteria met
+      - label: Content reviewed and approved by product and/or design
       - label: VA design lead consulted to determine if a review by the C&IA team is required
       - label: C&IA intake ticket created if content requires review
 
