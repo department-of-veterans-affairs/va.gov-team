@@ -6,28 +6,23 @@
 
 Form 21P-0537 submissions are sent to the simple forms `/submit` API endpoint.
 
-**Audience**
+### Audience
 
 Team members responding to VA Form 21P-0537 Datadog monitor alerts.
 
-**Required access**
-
-*Access required to complete the steps in this playbook.* Intended for readers to review in advance.
+### Required access
 
 * OCTO Datadog instance, read-only access
 * #bio-heart-notifications Slack channel
 * [Dashboard](https://vagov.ddog-gov.com/dashboard/xhy-ewx-dsr?fromUser=false&refresh_mode=sliding&from_ts=1759523984389&to_ts=1759527584389&live=true)
 * [Monitor](https://vagov.ddog-gov.com/monitors/456190)
 
-**Steps**
+### Steps
 
 Once an issue is identified (either due to monitor alerts in Slack or observed anomolies on the [dashboard](https://vagov.ddog-gov.com/dashboard/xhy-ewx-dsr?fromUser=false&refresh_mode=sliding&from_ts=1759523984389&to_ts=1759527584389&live=true)):
 1. Check logs in Data Dog and filter for logs related to form `21P-0537`
 2. If additional followup is required, create a Github ticket to collect artifacts and plan next steps
 3. Prioritize actions surrounding this issue
-
-**Update #bio-heart-notifications Slack channel**
-
-Comment under the relevant monitor alert in Slack with
-- A link to the issue created (if any)
-- Any relevant details/text that provide context on the issue + aid in future searchability if similar issues arise
+4. Update #bio-heart-notifications Slack channel - comment under the relevant monitor alert in Slack with
+    - A link to the issue created (if any)
+    - Any relevant details/text that provide context on the issue + aid in future searchability if similar issues arise
