@@ -40,6 +40,7 @@ body:
       - label: Something else:
 - type: textarea
   attributes:
+    label: Enter
 
 - type: input
   attributes:
