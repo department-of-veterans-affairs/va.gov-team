@@ -13,22 +13,22 @@ body:
     value: |
       Ask the Disability Benefits Crew (DBC) content designer for support. Use clear, simple language to describe the work.
 
-- type: input
+- type: textarea
   attributes:
     label: Description
-    placeholder: Describe the scope of this work, background context, why it matters, dependencies, goals, and open questions.
+    description: Describe the scope of this work, background context, why it matters, dependencies, goals, and open questions.
   validations:
     required: true
-- type: input
+- type: textarea
   attributes:
     label: Tasks
-    placeholder: What are the tasks for this work?
+    description: What are the tasks for this work?
   validations:
     required: true
-- type: input
+- type: textarea
   attributes:
     label: Acceptance Criteria
-    placeholder: What are the acceptable conditions to consider this work complete?
+    description: What are the acceptable conditions to consider this work complete?
 
 - type: checkboxes
   attributes:
