@@ -1,45 +1,148 @@
-# Beneficiary Travel Self-Service System (BTSSS)
+# TRAVEL PAY TEAM HOMEPAGE
 
-The goal of our team is to develop a Veteran-facing user experience that enables users to complete travel reimbursement tasks across VA.gov. As part of our project, we'll review the legacy BTSSS portal and partner with teams to integrate relevant features and functionality with BTSSS services.
+**Quick Links**
 
-The legacy Travel Claims Portal is a stand alone web application that allows Veterans to submit and manage claims to be paid back for mileage and other travel expenses to and from approved health care appointments, and to manage associated data.
+- [Team Members](#team-members) (Team Members Only)
+- [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0)
+- [Team Calendar & Communication Groups](#team-calendar-&-communication-groups)
+- [Terminology](#terminology)
+- [Product](#product)
+  - [Product Documentation](#product-documentation)
+  - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
+  - [Research](#research)
+  - [Production Designs (Figma)](#production-designs-figma)
+  - [Product Releases](#product-releases)
+  - [Metrics and Veteran Feedback](#metrics-and-veteran-feedback)
+  - [Testing](#testing)
+  - [Production Support](#production-support)
+- [Process](#process)
+  - [Process Documentation](#process-documentation)
+- [Engineering](#engineering)
+  - [Code Repositories](#code-repositories)
+  - [Architecture](#architecture)
+  - [System Documentation](#system-documentation)
+  - [QA](#qa)
+  - [Training Environment](#training-environment)
+  - [Developer Guide](#developer-guide)
+  - [Error Types](#error-types)
+  - [Knowledge Transfer Recordings](#knowledge-transfer-recordings)
+- [Resources Developed outside the Travel Pay Team](#resources-developed-outside-the-travel-pay-team)
+  
+## Team Members
+- OCTO Managers
+  - Kay Lawyer (PO)
+  - Kristen McConnell (UX)
+  - Mark Dewey (Eng)
+- Product Manager
+  - [Charlotte Reid](#https://dsva.slack.com/team
+- Engineering Lead
+  - Kevin Duensing
+- Full Stack Engineers
+  - Calvin Cieslak
+  - Peri McLaren
+- Mobile Engineers
+  - Belle Poopongpanit
+  - Sam Cohen
+- Research & User Experience
+  - Kristen Faiferlick
+  - Liza McRuer
 
-## About the Product
+## Team Calendar & Communication Groups
+- [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
+- Email Distribution List
+  - VA Travel Pay Team
+- Office of CTO @ VA Slack Group
+  - #beneficiary-travel-team
+  - #btsss-product-ux-eng
+  - #travel-pay
 
-### Vision
+## Terminology
+ - Acronyms
+ - Glossary of Terms
 
-Deliver a seamless and positive experience for any Veteran or Caregiver who wants to submit or manage beneficiary travel claims online.
+## Product
+
+#### Product Documentation
+- Travel Pay Product Outline (DRAFTED)
+- Simple, Mileage Only Claim Product Outline (Under Development – CR)
+- Complex Claims Product Outline (Under Development – CR)
+- Complex Mileage Product Outline (Under Development – CR)
+- Community Care Appointments Product Outlines (Under Development – CR)
+- Non-Existent Appointments Product Outlines (Not Started)
+- Product Guides (DRAFTED)
+  - How to Update Product Guides (Not Started)
+
+#### Priorities, Backlog, Sprints
+- Priorities
+- Scrum Board & Sprint Goals
+
+#### Research
+- Beneficiary Travel Blueprints
+- Veteran and staff research studies
+- Beneficiary travel reimbursement discovery and research findings
+
+#### Product Designs (Figma)
+- Design Artifacts & Other Resources  (Pre 2024)
+- Production Screen Shots (Web | Mobile)
+- Approved Figma Files (Web | Mobile)
+- Work-In-Progress (Web | Mobile)
+
+#### Product Releases
+- Release Notes
+- Feature Flags
+
+#### Metrics and Veteran Feedback
+- Analytics Dashboards
+- How to Request and Process VSignals Feedback
+- How to Request and Process Medallia Feedback
+- Medallia URL Exclusion List
+- How to Generate an Analytics Report for VA Stakeholders
+
+#### Testing
+- Testing Setup
+- Instructions for Accessing Travel Pay in the Staging Environment
+- Staging Environment Test Account
+- Testing for Travel Claim
+- TestRail Test Plans & Cases
+
+#### Production Support
+- Responding to Veteran Complaints
+- Production Support
+- Incident Reports
+  - Incident Response Playbook
+  - How to Send SNOW Incident Reports
+  - How to Set System Down Window Notifications
+  - Incident Management on VA.gov
+
+## Process
+
+#### Process Documentation
+- Travel Pay Development Process
+- Decision Register
+
+#### Engineering
+- Architecture (Under Development – KD)
+- Zero Silent Failures (Under Development – KD)
+- Code Repositories (or search here)
+  - vets-website
+  - vets-api
+  - octo-vista-api
+  - cie-staging-scheduler
+- System Documentation
+- QA
+- Training Environment
+- Developer Guide
+- Error Types
+- Knowledge Transfer Recordings
+
+## Resources developed outside the Travel Pay Team
+For questions, reach out to 
+- FAQs
+- Communications Toolkit
+- Training Materials
 
 
-## About the Team
 
-### OCTO-DE Product Owners
-- Product: Kay Lawyer
-- Engineering: Mark Dewey
-- Design/Research: Kristen McConnell
-
-### VES / Business Stakeholders
-- Michelle Ortiz
-
-### Product Delivery Team
-- Charlotte Reid, Product Management Lead
-- Kevin Duensing, Engineering Lead
-- Liz Townsend, Engineering
-- Calvin Cieslak, Engineering
-- Micah Taylor, UX Design
-- TBD, Research
-
-### Project Management
-- Lance Cromwell
-
-### Who We Work With
-
-#### BTSSS API Team
-- Mustapha Bello, Scrum Master
-- Blaise Fox, Business Analyst
-- Jorge Gomez-Danes Mejia, Technical Lead
-- Matt Lamb, Developer
-- Joshua Patterson, Developer
 
 ## Communication
 
