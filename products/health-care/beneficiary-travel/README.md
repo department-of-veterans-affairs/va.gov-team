@@ -58,7 +58,7 @@
 
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
- - [Glossary of Terms].(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop Research/glossary of terms.md).
+ - [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop Research/glossary of terms.md).
 
 ## Product
 
