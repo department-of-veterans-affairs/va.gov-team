@@ -56,7 +56,7 @@ jobs:
             - [ ] Find mutually convenient time
             - [ ] Review onboarding deck for any updates
             - [ ] Send calendar invite + Teams meeting link
-               - Meeting Description: We’re excited to introduce the Accredited Representative Portal and understand how it can be incorporated into the organization’s workflow to help Veterans.`,
+               - Meeting Description: We're excited to introduce the Accredited Representative Portal and understand how it can be incorporated into the organization's workflow to help Veterans.`,
                 labels: ['engagement']
               },
               {
@@ -102,7 +102,6 @@ jobs:
             - [ ] Confirm timeline for enabling access`,
                 labels: ['engagement']
               },
-              
               {
                 title: 'Coordinate bulk contact info update',
                 body: `## Description
@@ -155,6 +154,9 @@ jobs:
             const createdIssues = [];
             
             for (const subIssue of subIssues) {
+              // Assign to candilemoine unless it has the engineering label
+              const assignees = subIssue.labels.includes('engineering') ? [] : ['candilemoine'];
+              
               const created = await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
@@ -163,8 +165,11 @@ jobs:
 
             ---
             **Parent Issue:** #${parentIssue.number}
-            **Organization:** ${orgAbbr}`,
-                labels: subIssue.labels
+            **Organization:** ${orgAbbr}
+            
+            Relates to #${parentIssue.number}`,
+                labels: subIssue.labels,
+                assignees: assignees
               });
               
               createdIssues.push({
