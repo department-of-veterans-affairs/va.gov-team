@@ -1,6 +1,6 @@
-**Logging Silent Failures**
+# **Logging Silent Failures**
 
-**VA Form 21P-0537 - Marital Status Questionnaire for DIC Recipients**
+## **VA Form 21P-0537 - Marital Status Questionnaire for DIC Recipients**
 
 **Date:** October 3, 2025  
 **Team:** Benefits Intake Optimization (BIOHEART)
