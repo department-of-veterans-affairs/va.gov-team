@@ -2,4 +2,4 @@
 
 ## Table of contents 
 
-TBD 
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/21-0779/product_outline.md) 
