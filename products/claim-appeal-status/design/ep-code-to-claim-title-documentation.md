@@ -56,12 +56,33 @@ Last updated: [September 15, 2025]
 
 ---
 
+## EP 010 - Initial disability compensation claims - Eight issues or more
+- Initial disability compensation claims with 8 or more issues.
+
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 010INITMORE8 | eBenefits 526EZ-Initial Live Comp 8 + Issues (010) | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+| 010LCOMP | Initial Compensation 8+ Issues | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+| 010LCOMPBDD | BDD-Initial 8+ issues | Oct 6, 2025 | Claim for disability compensation |
+
 ## EP 020 - Compensation Claims Received After the Initial Eligibility Decision
 - Disability compensation or service-connected death claims received after an initial eligibility decision has been made.
 
 | EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
 |---------|-------------|-----------|------------------|---------------------|
+| 020CLMINC | Claim for Increase | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 | 020IRSCFID | FID – Incompetency Review – S/C | VA process or correction; Should never show to Veterans or other claimants; Examiner submits a Supervised Direct Pay review for service-connected beneficiary | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 020NEW | New | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+| 020NI | New/Increase | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+| 020SUPP | eBenefits 526EZ-Supplemental (020) | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+
+## EP 110 - Initial Disability Compensation Claims - Seven Issues or Less
+- Initial disability compensation claims containing seven issues or fewer.
+
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 110INITLESS8 | eBenefits 526EZ-Initial Live Comp | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
+| 110LCOMP7 | Initial Live Comp < 8 issues | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 
 ## EP 120 - Pension Claims Received After the Initial Eligibility Decision
 - Pension claims when a rating decision is needed to confirm or establish eligibility. 
