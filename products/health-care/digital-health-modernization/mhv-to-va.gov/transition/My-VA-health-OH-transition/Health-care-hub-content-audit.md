@@ -23,11 +23,15 @@ Pages that fall in the "Manage your health care section" including:
 | Send and receive secure messages | `va.gov/health-care/send-receive-messages/` | _same as above_ | _same as above_ |
 
 ### Table 2 - Resources & support hub
+
+TBD - Tori will run audit in Drupal
 |Page title | URL| notes|
 |--------|-------|-------|
-
+|
 
 ### Table 3 - Other pages on VA.gov
+
+TBD - Tori will run audit in Drupal
 |Page title | URL| notes|
 |--------|-------|-------|
 
@@ -36,8 +40,9 @@ Because the My VA transition experience will only be visible to OH users at the 
 
 Drupal pages cannot accommodate conditional logic for a subset of users, even when signed in, so anything like that would have to be handled via React widgets which are complicated and time consuming to implement. 
 
-The most visited pages with any My VA Health portal references are those related to Managing healthcare in the Health Care hub. The langauge used related to the My VA Health portal on all of these pages is very flexible, and Tori Moore thinks that this language works for our transition scenario and does not require updating. 
+The most visited pages with any My VA Health portal references are those related to Managing healthcare in the Health Care hub. The langauge used related to the My VA Health portal on all of these pages is very flexible, and Tori Moore thinks that this language works for our transition scenario and does not require updating. This decision has been approved by Danielle Thierry as of October 2025. 
 
 ## Changes needed when all current OH facilities using the My VA Health portal can see transition comms (ETA Spring 2026) 
 1. Remove the **note** beneath the sign-in widget (and primary action links once users authenticate) on all of the pages in the Health Care hub listed in Table 1 above.
+2. Move any conditional information about My VA Health to only the facility pages for the 6 OH facilities whose users have experience the My VA Health portal.
 
