@@ -50,7 +50,7 @@ The team had concerns around how to ask about death in the picklist since our or
 
 **Decision**
 
-Based on research findings:
+[Based on research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-dependent-verification-with-picklist/initial-findings.md):
 
 "Looking at data for how the participants preferred to be asked about the death of dependents, Design 2 (where the question was an option for each dependent) was preferred by 5 of 10 participants. Two participants preferred Design 1 (where the question was asked first and on its own page), 2 had no preference, and we didn't cover this with 1 participant. Preference didn't depend on which design participants saw first."
 
