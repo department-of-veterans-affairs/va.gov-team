@@ -16,6 +16,41 @@ For any substanial decision to make or made by the team, add it here. Substantia
 
 ## Decisions made
 
+### DR 4: Should we ask the death-related questions separately?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+The team had concerns around how to ask about death in the picklist since our original wireframes could potentially show questions about death multiple times if a Veteran had multiple dependents. The question could reintroduce trauma for Veterans. We also received feedback during the design intent session to research how Veterans might feel about the approach.
+
+**Decision**
+
+Based on research findings:
+
+"Looking at data for how the participants preferred to be asked about the death of dependents, Design 2 (where the question was an option for each dependent) was preferred by 5 of 10 participants. Two participants preferred Design 1 (where the question was asked first and on its own page), 2 had no preference, and we didn't cover this with 1 participant. Preference didn't depend on which design participants saw first."
+
+Based on this, and further conversations with the team, we decided to put the question/options around death in the questions per dependent and not separately. The team feels it's more trauma informed to ask about death in each dependent with other options because it lessens the weight of the question that doesn't happen when the question gets asked alone.
+
+Also, the team felt it was more trauma-informed to get to the point and be clear for Veterans. Clarity is kindness best describes this approach.
+
+**Consequences**
+
+Pros
+
+- Puts death related question with other choices, thus deemphasizing it.
+- Based on research with Veterans.
+- Slightly easier technical solution.
+- One less page in the flow.
+
+Cons
+
+- Some Veterans could still see multiple death-related choices if they have more than one dependent and be turned off by it.
+
 ### DR 3: Do we want to show all dependents or one at a time?
 
 Date: 2025-10-02
