@@ -85,8 +85,13 @@ Last updated: [September 15, 2025]
 
 | EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
 |---------|-------------|-----------|------------------|---------------------|
+| 290AFED | Attorney Fee Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 290DRASED | DRAS Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290DV | Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
 | 290DVPMC | PMC - Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
+| 290EER | EDU Eligibility Rating | Established when a claimant submits a VA Form 22-5490 | Oct 6, 2025 | Request for education benefits eligibility |
+| 290ELIG | Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 290ELIGPMC | PMC-Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290HE7131R | Healthcare Eligibility - 731 Review | VA process or correction; Should never show to Veterans or other claimants; Identify and clarify health records from VHA to specialty | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290INCROB | Incarceration - Resumption of Benefits | Veteran request to reinstate VA benefits after incarceration | Sept 12, 2025 | Request to restart benefits after incarceration |
 | 290LGYBDD | LGY Determination - BDD | VA process or correction; Should never show to Veterans or other claimants; Filtered: work done outside VBMS | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
