@@ -63,7 +63,7 @@ Last updated: [September 15, 2025]
 |---------|-------------|-----------|------------------|---------------------|
 | 010INITMORE8 | eBenefits 526EZ-Initial Live Comp 8 + Issues (010) | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 | 010LCOMP | Initial Compensation 8+ Issues | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
-| 010LCOMPBDD | BDD-Initial 8+ issues | Oct 6, 2025 | Claim for disability compensation |
+| 010LCOMPBDD | BDD-Initial 8+ issues | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 
 ## EP 020 - Compensation Claims Received After the Initial Eligibility Decision
 - Disability compensation or service-connected death claims received after an initial eligibility decision has been made.
