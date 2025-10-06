@@ -1,9 +1,9 @@
 # Notification Experience Research Audit
-**Office of the CTO - Digital Experience (OCTO-DE), [Notifications], [BMT 3]**
+**Office of the CTO - Digital Experience (OCTO-DE), Notifications, BMT 3**
 
-**Date:** [10/06/2025]
+**Date:** 10/06/2025
 
-**Contacts:** [Melissa Lefevre], [Naomi Howe], [Guy Schmidt]
+**Contacts:** Melissa Lefevre, Naomi Howe, Guy Schmidt
 
 ---
 
