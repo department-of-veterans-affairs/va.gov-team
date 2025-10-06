@@ -14,6 +14,7 @@ body:
         - document-status
         - evidence-requests
         - decision-letter-notifications
+        - Intent-to-file (ITF)
         - other
     validations:
       required: true
