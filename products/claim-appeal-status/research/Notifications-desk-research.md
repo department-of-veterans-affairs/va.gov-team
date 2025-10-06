@@ -79,7 +79,7 @@
 
 **Method:** Desk research (DR) / Review of existing research
 
-This audit synthesized findings from 9 studies conducted between 2018-2025, including:
+This audit synthesized findings from 11 studies conducted between 2018-2025, including:
 - **Usability testing** of notification settings and interfaces
 - **User interviews** exploring notification preferences and experiences
 - **Comparative research** reviewing notification best practices
