@@ -97,6 +97,10 @@ Last updated: [September 15, 2025]
 
 | EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
 |---------|-------------|-----------|------------------|---------------------|
+| 130DCY674 | Dependency 674 | Currently: Request to add or remove a dependent | Oct 6, 2025 | *Reviewed and verified as appropriate. No change needed.* |
+| 130DPEBNAJRE | eBenefits Dependency Adjustment Reject | Currently: Request to add or remove a dependent | Oct 6, 2025 | *Reviewed and verified as appropriate. No change needed.* |
+| 130DPNDCY | Dependency | Currently: Request to add or remove a dependent | Oct 6, 2025 | *Reviewed and verified as appropriate. No change needed.* |
+| 130DPNEBNADJ | eBenefits Dependency Adjustment | Currently: Request to add or remove a dependent | Oct 6, 2025 | *Reviewed and verified as appropriate. No change needed.* |
 | 130DV0537PMC | PMC - Dependency Verification - 0537 | VBA-initiated marital relationship status check (8-year check) | Sept 12, 2025 | Automatic marital status verification review |
 | 130ISDDI | In Service Death Dependency Issue | Survivor and dependant compensation. A Veteran filed a disability claim, died, and the VA learned of the death before finishing the claim. "concurrent in-service death claim" | Sept 12, 2025 | Claim for compensation to a surviving dependent |
 | 130YR100PMC | PMC - 100 - Year Review | VA initiated: Eligibility verification for beneficiaries age 100 or older | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
