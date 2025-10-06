@@ -2,7 +2,11 @@
 	# Research Plan for [DGIB Team, My Education Benefits, Summer 2025]
 
 ## Background 
-We are creating a new tool that allows users, who are impacted by Rudisill and eligible for both Post-9/11 GI Bill (PGIB) or Montgomery GI Bill (MGIB) education benefits, the ability to allocate their qualifying service to both benefits. Rudisill requires GI Bill benefciaries to make updates that may change their benefit type, benefit level (where applicable), and entitlement (where applicable). It is important for users to (1) easily understand the outcomes of their allocation prior to making their decision and (2) have a simple and streamlined process for them to do so. The tool will help users understand will translate their allocated service to either benefit to real outcomes such as a change in benefit level or a updated number of months of entitlement. Ultimately users should be able to understand the outcomes of their allocation as it relates to benefit level, months of entitlement, and other important information benefit information by using this tool. In doing so, GI Bill beneficiaries have the best opportunity to choose the best benefit outcome for their circumstances.
+We are creating a new tool that allows users, who are impacted by Rudisill and eligible for both Post-9/11 GI Bill (PGIB) or Montgomery GI Bill (MGIB) education benefits, the ability to allocate their qualifying service to both benefits. Rudisill requires GI Bill benefciaries to make updates that may change their benefit type, benefit level and entitlement (where applicable). It is important for users to 
+- Easily understand the outcomes of their allocation prior to making their decision  
+- Have a simple and streamlined process for them to do so. 
+
+The tool will help users understand their allocated service for either benefit in terms of real outcomes (i.e. a change in education benefit level, updated number of months of entitlement). Ultimately users should be able to understand the outcomes of their allocation as it relates to benefit level, months of entitlement, and other important benefit information by using this tool. In doing so, GI Bill beneficiaries have the best opportunity to choose the best education benefit outcome for their circumstances.
 </br>	
 - `What problem is your product trying to solve?` </br>
 Veterans and beneficiaries who are impacted by the recent Rudisill court decision do not have a streamlined nor simple way to retain or reverse relinquishment of MGIB and/or allocate their service to the different benefit types. The Dual Bnefit Eligibility tool will provide users the ability to allocate their service, understand how service allocated translates to benefit level or entitlement, and make their decision in one flow. </br>
@@ -27,17 +31,17 @@ Reinventing Myself - Aquiring the appropriate education, new skills, and credent
 - Assess users' trust and confidence using the tool and in making decisions related to their education benefits
   
 ### Outcome
-User research will inform improvements needed and validate interactions in the flow, information displayed, and allocation method that will best help users easily understand and make decisions in regards to their changing or updating their education benefit(s).
+User research will inform improvements needed and validate interactions in the flow, information displayed, and allocation method that will best help users easily understand and make decisions in regards to changing or updating their education benefit(s).
 
 ### Research questions
-1. Do users understand and does it build trust for users to see information about them presented first in the flow? </br>
+1. Do users understand the information presented about them first in the flow? Does it build their trust? </br>
 2. How familiar are users with the benefit language and terminology used with the tool? What other language are beneficiaries familiar with?
 3. Is the heirarchy of information and layout clear for users? Does it help them understand our recommendation and their current benefit level? 
-4. Do users trust in the recommendation? If not, are users able to create their own allocation with both ease and confidence? </br>
+4. Do users trust the recommendation? If not, are users able to create their own allocation with both ease and confidence? </br>
 5. Is the impact to their benefits clearly outlined and easily understood by users? </br>
 
 ### Hypotheses
-The impact of Rudisill has left many GI Bill beneficiaries confused on what actions they can take to better utilize their education benefits. We hypothesize that by using this tool, users will have a better understanding of how Rudisill can impact their benefits by translating their qualifying service to real outcomes. We hypothesize that presenting users with clear information about their benefit level, benefit type, entitlement, along with other important information will build their trust in the recommendation. We assume there will be some confusion on the benefit language used and within the allocation step as those are either new interactions or have varied understandings within the GI Bill beneficiary user group.
+The impact of Rudisill has left many GI Bill beneficiaries confused on what actions they can take to better utilize their education benefits. We hypothesize that by using this tool, users will have a better understanding of how Rudisill impacts their benefits by translating their qualifying service to real outcomes. We hypothesize that presenting users with clear information about their benefit level, benefit type, entitlement, along with other important information will build their trust in the recommendation. We assume there will be some confusion on the benefit language used and within the allocation step as those are either new interactions or have varied understandings within the GI Bill beneficiary user group.
 
 <p>&nbsp;</p>
 
@@ -69,17 +73,22 @@ We will engage in moderated usability testing conducted remotely using Zoom. Par
 </details>
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/research/2025-08-Dual-Benefit-Eligibility-Tool/conversation-guide-WIP.md)
-- [Prototype](LINK HERE)
+- [Figma Dual Benefit Prototype](https://figma-gov.com/design/0Lxps8m1m0kfauhslHYXz9/Dual-Benefit-Eligibility-Tool?node-id=724-35931&t=2OLvVjpz90t0kDp3-1)
+>- Our figma instance has limited guest access, in order to access this prototype live please reach out to Alexander Ferzola (alexander.ferzola@afs.com) for guest provisioning.
 
 ### Recruitment approach
-Our intended audience will be Veterans who are eligible according to the new Rudisill court decision. 
+Our intended audience will be a blend of Veterans who do and do not have experience with GI Bill benefits.
 
 ### Recruitment criteria
+
+Our recruiting goal is to have 2 types of representatives:
+
+- Veterans or active-duty Service members who have experience (applied and/or used) GI Bill benefits (Category A)
+- Veterans or active-duty Service members who do not have experience with GI Bill benefits (Category B)
 
 **Please recruit for 10 fulfilled sessions** using the following criteria:
 
 **Must have for participants**
-- A combination of Veterans or service members who have applied for education benefits in the past and are currently using education benefits, and Veterans or service members who have not used or applied for education benefits before.
 - At least 1 woman of color
 - At least 1 participant 55 or older
 - At least one person that does not have a college degree (to include enlisted Veterans)
@@ -97,10 +106,16 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 - The participants should have Zoom downloaded prior to the session
 - The participants should know how to screenshare
 
+**Screening Questions**
+- Are you a self-entitled (to GI Bill benefits) Veteran? 
+- Have you applied for or used GI Bill benefits before? (IF YES, they are in Category A; IF NO, they are in Category B.)
+
 <p>&nbsp;</p>
 
 ## Timeline 
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
+
+### Preparation
+Our prototypes are ready for testing. Because we are still in a generative phase, we have only completed the Design Intent checkpoint.
 
 ### Research sessions
 - `Planned dates of research:` **10/15-10/24**
@@ -126,11 +141,11 @@ Sessions will likely last 30-35 minutes.
 <p>&nbsp;</p>
   
 ## Team Roles 
-- Moderator: Joanna Yu 
+- Moderator: Alexander Ferzola (alexander.ferzola@afs.com), Allison Nguyen (allison.nguyen@afs.com)
 - Research guide writing and task development: Joanna Yu
 - Participant recruiting & screening: Perigean
-- Project point of contact: Joanna Yu
+- Project point of contact: Alexander Ferzola, Allison Nguyen 
 - Participant(s) for pilot test: TBD
-- Note-takers: Alexander Ferzola ; Allison Nguyen
+- Note-takers: Alexander Ferzola, Allison Nguyen
   
 <p>&nbsp;</p>
