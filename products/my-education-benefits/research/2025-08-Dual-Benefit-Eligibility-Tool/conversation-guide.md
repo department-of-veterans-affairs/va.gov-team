@@ -8,7 +8,7 @@
 
 `Date created:` 2025-08-19 
 
-`Last modified:` 2025-09-30</br>
+`Last modified:` 2025-10-06</br>
 
 ---
 <p>&nbsp;</p>
@@ -68,24 +68,28 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. What factors have made applying and/or learning about GI Bill benefits successful? What factors have made it difficult?
 2. What resources do you use when trying to apply, change, or learn more about GI Bill benefits?
-3. What is your confidence level in navigating your education benefits? What factors contribute to your confidence level?
+3. What is your experience with or prior knowledge of the recent Rudisill court decision?
+4. What is your confidence level in navigating your education benefits? What factors contribute to your confidence level?
 
 <p>&nbsp;</p>
 
-## Task 1: Locate the self-review tool (3 minutes)
+## Wayfinding & Locate the self-review tool (3 minutes)
 
 **INTERNAL NOTE: Might recommend to remove this first task. Idea would be dedicating more time to the tool itself will help us gather more insight into the "meat" of what were researching. trade off is the user might have a harder time orienting/contextualizing themselves affecting their understanding and ability to navigate the tool. if we remove, have to be considerate of how we set up this test scenario.**
 
-**"You are currently on the VA education and training landing page on VA.gov. Looking at this screen, where would you look first to make updates or changes to your education benefits"**
+**Send prototype link**
+
+Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool. What you are looking at now is the application instructins page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at. 
 
 Probing questions:
 - What markers drew your attention there?
-
-Qualitative questions:
-- Where does the user initially look? Why?
-- What is the your understanding of the tools purpose from the link text and description?
-- What was your experience in locating the link to the tool? Was there anything in particular that helped you find it here?
+- What is the your understanding of the tools purpose the descriptions here?
+- Is there anything in particular that is helping you understand the purpose of the tool?
 - What is VA trying to tell you here?
+- Is there any information that the user notes as particularly helpful to see? Any information they are looking to find but did not?
+- Do you have any questions about the information presented here?
+
+**Once impressions are gathered, prompt the user to sign in. Gather any impressions of the authenticated state then move to Task 1.**
 
 #### Things to watch for:
 > - Where does the user initially look? Why? </br>
@@ -97,26 +101,7 @@ Qualitative questions:
 
 <p>&nbsp;</p>
 
-## Task 2: Logging in, Review Tool Instructions Page (3 minutes)
-
-**"We are now on the self-review tool's landing page. What is your first impression and how are you understanding the information on this page?"**
-
-User should log in during this step, they will not be prompted to actually log in but brought directly to the authenticated version of the application instructions page
-
-**"Is there anything you'd like to note or point out on this page? Do you have any questions or impression for how we got to this authenticated page?"**
-
-Probing questions:
-- What might you do next?
-- Where would you look to sign in?
-- Is there any information that the user notes as particularly helpful to see? Any information they are looking to find but did not?
-
-#### Things to watch for:
-> - How easily does the user understand the un-authenticated vs. authenticated state? </br>
-> - Does the user notice and understand the authenticator widget? </br>
-> - Are there pain points or confusion for the user when logging in? </br>
-<p>&nbsp;</p>
-
-## Task 3: Self Review Tool - Step 1 Your information (3 minutes)
+## Task 1: Self Review Tool - Step 1 Your information (3 minutes)
 
 **"If you wanted to start using the tool, what would you do next?"**
 
@@ -136,7 +121,7 @@ Probing questions:
 
 <p>&nbsp;</p>
 
-## Task 4: Self Review Tool - Step 2 Additional questions (3 minutes)
+## Task 2: Self Review Tool - Step 2 Additional questions (3 minutes)
 
 **"What is your first impression? What do you think VA is trying to understand about you from this page?"**
 
@@ -157,7 +142,7 @@ Probing questions (can be asked per question):
 
 <p>&nbsp;</p>
 
-## Task 5: Self Review Tool - Step 2 Distribute Qualifying Days - Your current benefits (5-7 minutes)
+## Task 3: Self Review Tool - Step 2 Distribute Qualifying Days - Your current benefits (5-7 minutes)
 
 **"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the information you are looking at?"**
 
@@ -165,7 +150,7 @@ Probing questions:
 - What are you noticing or gravitating to first? Why?
 - How are you understanding the information under 'Your current benefits'?
 - Is there any terminology that is familiar or unfamiliar to you?
-- How are you interpreting the term 'Qualifying days'
+- How are you interpreting the term 'Qualifying service'?
 - Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
 - What other information, if any, are you lookng to find?
 
@@ -175,20 +160,20 @@ Probing questions:
 > - How is the user scanning the page? Is there a section that is particularly helpful or confusing?
 <p>&nbsp;</p>
 
-## Task 6: Self Review Tool - Step 2 Distribute Qualifying Days - Customize your own (5-7 minutes)
+## Task 4: Self Review Tool - Step 2 Distribute Qualifying Service - Customize your own (5-7 minutes)
 
 **"What would you do next? What is your first impression, how are you understanding the information presented here?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
 - Is there anything confusing on on this page?
-- How are you interpreting the term 'Qualifying days'?
+- How are you interpreting the term 'Qualifying service'?
 - How are you understanding the MGIB and PGIB benefits displayed?
 
-**"Could you show me how you would update the PGIB section to [MOCK DATA] days?" & "Could you show me how you would update the MGIB section to [MOCK DATA] days?"**
+**"Could you show me how you would update the PGIB section to allocate [MOCK DATA]?" & "Could you show me how you would update the MGIB section to allocate [MOCK DATA]?"**
 
-- Was there anything that caught your attention when you changed the number of days?
-- How are you understanding the change in 'Your customized benefit' once you changed the number of days?
+- Was there anything that caught your attention when you changed the qualifying service for each benefit?
+- How are you understanding the change in 'Your customized benefit' once you changed it?
 - Was there anything you found confusing about interaction?
 
 **"Could you show me how you would reset this to get the original recommendation back?"**
@@ -203,7 +188,7 @@ Probing questions:
 > - Does the user have questions about this process? </br>
 <p>&nbsp;</p>
 
-## Task 7: Self Review Tool - Step 3 Confirm election (5 minutes)
+## Task 5: Self Review Tool - Step 3 Confirm election (5 minutes)
 
 **"Let's say you are ready to move forward with this distribution, what would do next?"**
 
