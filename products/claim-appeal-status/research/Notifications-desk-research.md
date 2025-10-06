@@ -15,10 +15,6 @@
 - [Key findings](#key-findings)
 - [Details of Findings](#details-of-findings)
 - [Additional Insights](#additional-insights)
-- [Recommendations](#recommendations)
-- [Product User and Business Outcomes](#product-user-and-business-outcomes)
-- [Key Performance Indicators](#key-performance-indicators)
-- [Next Steps](#next-steps)
 - [Further research needed](#further-research-needed)
 - [Appendix](#appendix)
 
