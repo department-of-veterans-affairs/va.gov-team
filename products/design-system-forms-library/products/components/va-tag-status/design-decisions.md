@@ -70,7 +70,7 @@ Currently, we only have a single tag color. Going forward we will have a variety
 
 ## ADR: 003 - Accessible Colors
 
-### Status: Pending
+### Status: See ADR: 006 for more info
 
 - Date Raised: 2025-05-25
 - Decision Date: 
@@ -91,7 +91,7 @@ It may make the tags look like buttons. Usability testing would help us understa
 
 ## ADR: 004 - Uppercase text
 
-### Status: Pending
+### Status: See ADR: 006 for more info
 
 - Date Raised: 2025-05-25
 - Decision Date: 
