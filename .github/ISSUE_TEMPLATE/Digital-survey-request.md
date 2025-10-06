@@ -1,14 +1,14 @@
 ---
 name: Digital Survey Request
 about: Issue template to request updates to existing digital surveys
-title: Digital Survey request
+title: Digital Survey Request
 labels: cc-survey-request, vsp-contact-center, medallia
 assignees: atmiddleton, aubreyarcangel
 
 ---
 
 
-# Request to Edit V-Signals Digital Surveys: Veteran Support Team
+# Request to Edit Digital Surveys: Veteran Support Team
 
 **Requestor Information**
 Name:
@@ -26,7 +26,7 @@ Associated product team/product owner:
 
 ### **Request Details**
 
-## 1. Describe the desired edits to V-signals digital surveys.
+## 1. Describe the desired edits to digital surveys.
 Please describe the change (e.g., add survey intercept at new confirmation page, update outdated URL reference, etc.) and rationale/business need. Write a brief 1-2 sentence to describe your edits.
 
 
