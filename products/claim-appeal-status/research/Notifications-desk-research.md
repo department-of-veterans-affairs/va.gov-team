@@ -304,195 +304,31 @@ Best practices research (12/2022) emphasized that "where possible, enable users 
 
 ---
 
-## Recommendations
-
-### Recommendation 1: Establish clear channel guidelines for different notification types
-**Supporting evidence:**
-- Email should be the default for all official communications, confirmations, and information that Veterans may need to reference later
-- Text messages should be reserved for urgent, time-sensitive alerts that require quick action
-- In-app notifications should always accompany email/text for redundancy
-- Based on consistent preferences across all studies (7/2020, 3/2018, 7/2025)
-
-### Recommendation 2: Implement confirmation messages at every key action point
-**Supporting evidence:**
-- Add confirmation emails/notifications when physical documents are received (7 of 7 participants expected this – 2/2025 study)
-- Ensure confirmation messages appear in the expected location (same page/tab where action was taken)
-- Use clear, reassuring language like "Update saved" or "Document received"
-- Based on findings from 2/2023, 2/2025, 9/2024 studies
-
-### Recommendation 3: Redesign evidence waiver communication for clarity
-**Supporting evidence:**
-- Add plain-language explanations of what the waiver means and its implications
-- Clarify that Veterans can still submit additional evidence after waiver
-- Test new content with Veterans before implementation
-- Based on confusion documented in 9/2024 study
-
-### Recommendation 4: Adopt auto-save pattern for all notification settings
-**Supporting evidence:**
-- All participants preferred auto-save over read/edit patterns (2/2023 study)
-- Include clear "Update saved" feedback messages
-- Eliminate unnecessary save buttons that add friction
-
-### Recommendation 5: Improve discoverability of notification settings
-**Supporting evidence:**
-- Add direct links to notification settings within notifications themselves
-- Consider proactive prompts when Veterans first sign up for notifications
-- Add notification settings to main navigation or user dashboard
-- Based on findability issues in 7/2021 study
-
-### Recommendation 6: Create a content and tone guide for notifications
-**Supporting evidence:**
-- Establish simple rules for what content belongs in text vs. email vs. in-app
-- Define tone guidelines for different situations (FYI, urgent, compliance-required)
-- Use plain, calm, specific language; avoid legal jargon
-- Based on findings across all studies, particularly 12/2022 best practices and 9/2024 tone feedback
-
-### Recommendation 7: Clearly communicate available notification channels
-**Supporting evidence:**
-- Make it explicit which notification types can be received via email, text, or both
-- Explain why certain notifications are only available through specific channels if limitations exist
-- Based on confusion documented in 7/2021 study
-
-### Recommendation 8: Enhance accessibility of notification interfaces
-**Supporting evidence:**
-- Reduce visual clutter and repeated prompts
-- Ensure alerts use more than just background color for differentiation
-- Test all notification interfaces with screen reader and low-vision users
-- Based on barriers identified in 2/2023 study
-
-### Recommendation 9: Develop notification templates with embedded action links
-**Supporting evidence:**
-- Every notification should include: what happened, what to do, by when, and a direct link
-- Consider interactive elements in emails where possible
-- Based on best practices (12/2022) and task completion patterns (9/2021, 2/2025)
-
-### Recommendation 10: Conduct A/B testing on notification timing and frequency
-**Supporting evidence:**
-- Test optimal timing for different notification types
-- Establish frequency caps to prevent notification fatigue
-- Consider consolidating multiple notifications into digests when appropriate
-- Addresses gaps identified in research questions about timing and frequency
-
----
-
-## Product User and Business Outcomes
-
-> **Note**  
-> Refer back to your Product Outline.
-
-### Desired User Outcome
-This research supports our desired user outcome by providing clear evidence that Veterans want and need:
-- **Timely, clear communications** that reduce anxiety and build trust in VA systems
-- **Multiple notification channels** (email, text, in-app) with redundancy across channels
-- **Actionable notifications** with clear next steps and direct links to complete tasks
-- **Confirmation at every step** to maintain confidence in the process
-- **Easy-to-manage preferences** through intuitive, accessible interfaces
-
-By implementing recommendations based on these findings, we can significantly improve Veterans' ability to stay informed about their benefits, respond to VA requests, and complete tasks efficiently.
-
-### Desired Business Outcome
-This research supports our desired business outcome by demonstrating how improved notifications can:
-- **Reduce support calls** by providing clear, self-service information at the point of need (as evidenced by high confidence scores in Document Status study)
-- **Increase task completion rates** through clear, actionable messaging with direct links
-- **Build trust** in VA digital services through consistent, reliable communications
-- **Decrease processing delays** by helping Veterans respond quickly to evidence requests and deadlines
-- **Improve efficiency** by reducing confusion and rework (e.g., proper document submissions)
-
-The research shows a direct connection between notification quality and Veterans' ability to self-serve, which aligns with VA's goals to provide excellent digital experiences while reducing operational burden.
-
----
-
-## Key Performance Indicators
-
-> **Note**  
-> Refer back to your Product Outline.
-
-### KPI 1: [Notification engagement rate]
-This research supports measurement of this KPI by identifying factors that increase notification engagement:
-- Email notifications should see higher open rates than text due to preference
-- Notifications with clear action items and direct links should see higher click-through rates
-- Confirmation messages should reduce "where did my submission go?" support inquiries
-
-### KPI 2: [Task completion rate from notifications]
-This research supports measurement of this KPI by establishing that task completion improves when notifications include:
-- Clear description of what happened
-- Specific action needed
-- Deadline
-- Direct link to take action
-- Baseline: 4.7/5 confidence rating in Document Status study can serve as benchmark
-
-### KPI 3: [Support inquiry reduction]
-This research supports measurement of this KPI by demonstrating that:
-- Clear, comprehensive notifications reduce the need to call or visit
-- Confirmation messages specifically address "did you receive my documents?" inquiries
-- Baseline can be established from current support ticket topics related to notification confusion
-
-### KPI 4: [Notification preference opt-in rates]
-This research supports measurement of this KPI by:
-- Tracking adoption of electronic-only communication (majority prefer in 9/2024 study)
-- Monitoring which notification types Veterans enable/disable
-- Measuring discoverability improvements through changes in how Veterans access settings
-
----
-
-## Next Steps
-
-1. **[Owner]** Share research audit findings with stakeholders and product teams
-2. **[Owner]** Prioritize recommendations based on impact and feasibility
-3. **[Owner]** Create content and design requirements for highest-priority improvements:
-   - Evidence waiver clarity improvements
-   - Confirmation message standardization
-   - Channel availability communication
-4. **[Owner]** Develop notification content and tone guide
-5. **[Owner]** Plan accessibility testing sessions for notification interfaces
-6. **[Owner]** Establish baseline metrics for KPIs identified above
-7. **[Owner]** Create roadmap for implementing auto-save pattern across notification settings
-8. **[Owner]** Design A/B tests for notification timing and frequency optimization
-
----
 
 ## Further research needed
 
-### Demographic gaps
-This audit identified limited information about how notification needs and preferences vary by:
-- **Age groups** – Do older Veterans have different preferences than younger Veterans?
-- **Digital literacy levels** – How do we serve both digitally-savvy and paper-first Veterans?
-- **Language preferences** – What are the needs of non-English speaking Veterans?
-- **Device access** – How do notification experiences differ for mobile-only users?
-- **Bandwidth/connectivity** – How do we serve Veterans in rural areas with limited internet access?
-
-### Content-specific gaps
-- **Text message length limits** – Exactly how much content is appropriate in a text vs. what should always go in email?
-- **Notification sequencing** – What is the optimal sequence (email → in-app → reminder) for multi-step tasks?
-- **Channel selection by benefit type** – Which benefit types (claims, education, health) need which specific mix of channels?
-- **Privacy concerns by context** – How significant are privacy worries about texts for different situations (medical info vs. appointment reminders)?
 
 ### Timing and frequency gaps
 - **Optimal timing by notification type** – Best time of day, day of week for different types of notifications
 - **Advance notice preferences** – How far in advance Veterans prefer to be notified of deadlines
 - **Reminder cadence** – Optimal spacing between initial notification and reminders
 - **Frequency thresholds** – At what point does notification frequency become overwhelming?
-- **Digest preferences** – When and how to consolidate multiple notifications
+### Evidence Submission 
+- **Evidence rejection** - What causes evidence rejection/resubmission?
+- **Barriers** - Biggest barriers to evidence submission?
+### Notification Channel Nuances 
+- **Preferences*** - For different types of tasks, would you prefer email, text, or both? Why?
+-    How much information is too much in a text message?
+-    What are your privacy concerns about text notifications?
 
-### Task-specific gaps
-- **Button/link optimization** – Which wording and placement patterns drive the most completions for different benefits?
-- **Legal/complex content** – Best practices for explaining evidence waivers, legal requirements, and complex processes
-- **Confirmation placement standards** – Consistent rules for where confirmations appear across all tools and pages
 
-### Accessibility gaps
-- **Assistive technology testing** – More comprehensive testing needed with diverse assistive technology users
-- **Alternative format needs** – Requirements for Veterans who need large print, braille, or other formats
-- **Cognitive accessibility** – How to serve Veterans with cognitive disabilities or TBI
 
 ---
 
 ## Appendix
 
-### Research participants
 
-**Across the 9 studies reviewed (2018-2025):**
-
-[Participant demographics would be compiled from individual study reports – this information was not included in the source document provided]
+**Across the 11 studies reviewed (2018-2025):**
 
 ### Studies Reviewed
 
