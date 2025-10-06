@@ -7,11 +7,11 @@ Anna Higgins
 
 After researching this program and comparing it to what we know about user needs, I recommend adding this benefit to DYB. 
 
-We know that many of our users are looking for career assistance including training, mentorship, networking, referrals and internships, as well as one-on-one guidance. ENPP provides both. It’s pretty similar to Skillbridge, but it’s available for a longer time period both before and after separation. Unlike VR\&E, it does not require having a disability rating to use. 
+We know that many of our users are looking for career assistance including training, mentorship, networking, referrals and internships, as well as one-on-one guidance. ENPP provides both. It’s similar to Skillbridge but available for a longer time period both before and after separation. Unlike VR&E, it does not require having a disability rating to use. 
 
-It is available to service members and their spouses in their last two years of service who are enrolled in TAP, and Veterans in their first year of separation.
+It is available to service members and their spouses in their last two years of service who are enrolled in TAP and Veterans in their first year of separation. Some user research participants wanted to see spouse and family benefits in DYB, and this benefit meets that need.
 
-The only significant con to adding it is that it is only available to TSMs in some locations (see list below). It will be important to put the location limitations of eligibility on the benefit card to avoid wasting users’ time and diminishing trust in our product.
+The only significant con to adding it is that it is only available to transitioning Service Members in some locations (see list below). It will be important to put the location limitations of eligibility on the benefit card to avoid wasting users’ time and diminishing trust.
 
 ## Pros and cons of adding
 
