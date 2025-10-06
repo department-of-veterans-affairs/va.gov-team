@@ -10,11 +10,31 @@ For any substanial decision to make or made by the team, add it here. Substantia
 
 | Date added | Decision | Background | Why make this decision |
 | :--- | :--- | :--- | :--- |
-| 09/02/25 | Do we want to show all dependents or one at a time? | This will bet tested as part of the initial picklist research. | One puts more information in front of the Veteran at once, liekly helping Veterans what decisions they need to make. It also may mean a more challenging implementation. |
-| 09/02/25 | Should we ask the death-related questions separately? | This will bet tested as part of the initial picklist research. | We need to decide which is a better experience for Veterans, and more trauma informed. |
-| 09/02/25 | Which removals should we support? | The current digital dependent verification form doesn't handle many removal types. How far do we want to go? | This would help determine scope in a big way. |
+| | | | |
+| | | | |
+| | | | |
 
 ## Decisions made
+
+### DR 5: Which removals should we support?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+The team added this as a question when the picklist it planned to include the picklist in the dependent verification form (0538). We needed to decide if we were going to expand removal use cases beyond what the current form supported.
+
+**Decision**
+
+This question was also more relevant when the team wanted to launch the picklist feature in the dependent verification form (0538). Because that form doesn't include all removal use cases, a decision would need to be made around which ones to include in a first attempt. However, because the Add/remove dependents form (686/674) includes more use cases for removals, it's less an a high-priority question. After deciding to launch the picklist in the Add/remove dependents form (686/674), the team decided in focus on the child, parent and spouse removal cases.
+
+**Consequences**
+
+The consequences for this decision are minimal because of the switch between forms.
 
 ### DR 4: Should we ask the death-related questions separately?
 
