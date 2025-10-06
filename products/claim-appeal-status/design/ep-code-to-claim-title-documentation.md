@@ -59,81 +59,80 @@ Last updated: [September 15, 2025]
 ## EP 020 - Compensation Claims Received After the Initial Eligibility Decision
 - Disability compensation or service-connected death claims received after an initial eligibility decision has been made.
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 020IRSCFID | FID – Incompetency Review – S/C | VA process or correction; Should never show to Veterans or other claimants; Examiner submits a Supervised Direct Pay review for service-connected beneficiary | NONE<br>*Filtered out for both mobile and VA.gov* |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 020IRSCFID | FID – Incompetency Review – S/C | VA process or correction; Should never show to Veterans or other claimants; Examiner submits a Supervised Direct Pay review for service-connected beneficiary | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 
 ## EP 120 - Pension Claims Received After the Initial Eligibility Decision
 - Pension claims when a rating decision is needed to confirm or establish eligibility. 
 - Includes situations where pension entitlement depends on factors like character of discharge or misconduct.
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 120IRPFID | FID – Incompetency Review - Pension | Examiner submits a Supervised Direct Pay review for pension beneficiary | NONE<br>*Filtered out for both mobile and VA.gov* |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 120IRPFID | FID – Incompetency Review - Pension | Examiner submits a Supervised Direct Pay review for pension beneficiary | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 
 ## EP 130 - Disability and Death Dependency
 - Claims and actions involving dependency determinations—when benefits depend on a Veteran's, dependent's, or survivor's relationship or status
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 130YR100PMC | PMC - 100 - Year Review | VA initiated: Eligibility verification for beneficiaries age 100 or older | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 130ISDDI | In Service Death Dependency Issue | Survivor and dependant compensation. A Veteran filed a disability claim, died, and the VA learned of the death before finishing the claim. "concurrent in-service death claim" | Claim for compensation to a surviving dependent |
-| 130DV0537PMC | PMC - Dependency Verification - 0537 | VBA-initiated marital relationship status check (8-year check) | Automatic marital status verification review |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 130DV0537PMC | PMC - Dependency Verification - 0537 | VBA-initiated marital relationship status check (8-year check) | Sept 12, 2025 | Automatic marital status verification review |
+| 130ISDDI | In Service Death Dependency Issue | Survivor and dependant compensation. A Veteran filed a disability claim, died, and the VA learned of the death before finishing the claim. "concurrent in-service death claim" | Sept 12, 2025 | Claim for compensation to a surviving dependent |
+| 130YR100PMC | PMC - 100 - Year Review | VA initiated: Eligibility verification for beneficiaries age 100 or older | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 
 ## EP 290 - Eligibility Determinations - Other
 - Adjudicative decisions involving non-standard VA benefits, elections, waivers, fiduciary issues, and other payment-related matters that don't fit standard claim categories
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 290HE7131R | Healthcare Eligibility - 731 Review | VA process or correction; Should never show to Veterans or other claimants; Identify and clarify health records from VHA to specialty | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 290LGYIDES | Pre-Discharge LGY Determination - IDES | VA process or correction; Should never show to Veterans or other claimants; Filtered: work done outside VBMS | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 290LGYBDD | LGY Determination - BDD | VA process or correction; Should never show to Veterans or other claimants; Filtered: work done outside VBMS | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 290SCPMC | PMC - Substitution of Claimant (290) | Substitution request for deceased claimant because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
-| 290SCR | Substitution of Claimant - Rating | Substitution of claimant request with and without a disability rating because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
-| 290SCNR | Substitution of Claimant - Non-Rating | Substitution of a claimant request with and without a disability rating because a survivor is filling out the form to request this action | Request for substitution of claimant on record |
-| 290DVPMC | PMC - Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Request for debt review |
-| 290DV | Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Request for debt review |
-| 290INCROB | Incarceration - Resumption of Benefits | Veteran request to reinstate VA benefits after incarceration | Request to restart benefits after incarceration |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 290DV | Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
+| 290DVPMC | PMC - Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
+| 290HE7131R | Healthcare Eligibility - 731 Review | VA process or correction; Should never show to Veterans or other claimants; Identify and clarify health records from VHA to specialty | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 290INCROB | Incarceration - Resumption of Benefits | Veteran request to reinstate VA benefits after incarceration | Sept 12, 2025 | Request to restart benefits after incarceration |
+| 290LGYBDD | LGY Determination - BDD | VA process or correction; Should never show to Veterans or other claimants; Filtered: work done outside VBMS | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 290LGYIDES | Pre-Discharge LGY Determination - IDES | VA process or correction; Should never show to Veterans or other claimants; Filtered: work done outside VBMS | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 290SCNR | Substitution of Claimant - Non-Rating | Substitution of a claimant request with and without a disability rating because a survivor is filling out the form to request this action | Sept 12, 2025 | Request for substitution of claimant on record |
+| 290SCPMC | PMC - Substitution of Claimant (290) | Substitution request for deceased claimant because a survivor is filling out the form to request this action | Sept 12, 2025 | Request for substitution of claimant on record |
+| 290SCR | Substitution of Claimant - Rating | Substitution of claimant request with and without a disability rating because a survivor is filling out the form to request this action | Sept 12, 2025 | Request for substitution of claimant on record |
 
 ## EP 330 - Reviews - Regulatory and Procedural
 - Used when a claims folder is being reviewed under VA regulations, instructions, or procedures. 
 - Applies to screening hospitalization reports, receipt of certain nursing home reports, and receipt of dependency verification forms.
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 330DVRPMC | PMC - Dependency Verification Review | VBA-initiated dependent status check (8-year check) | Automatic dependency verification review |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 330DVRPMC | PMC - Dependency Verification Review | VBA-initiated dependent status check (8-year check) | Sept 12, 2025 | Automatic dependency verification review |
 
 ## EP 400 - Correspondence and Information Actions
 - Disability, fiduciary, or death cases that only require a response to correspondence—such as letters, emails, forms, notices, or inquiries. 
 - These cases can usually be resolved using existing records and decisions, without needing a new rating or authorization determination.
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 400ORR | OGC Reasonableness Review | VA process or correction; Should never show to Veterans or other claimants; Office of General Counsel (OGC) review of attorney or agent fee reasonableness | NONE<br>*Filtered out for both mobile and VA.gov* |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 400ORR | OGC Reasonableness Review | VA process or correction; Should never show to Veterans or other claimants; Office of General Counsel (OGC) review of attorney or agent fee reasonableness | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 
 ## EP 930 - Review, Referrals, Other
 - Various corrective actions and quality assurance processes
 - A catch-all code for reviews or corrections when no other EP applies and credit for the original action has already been taken.
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 930CLQENR | Correction of Local Quality Error - Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction of VA error | NONE<br>*Filtered out for both mobile and VA.gov* |
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 930CLQENR | Correction of Local Quality Error - Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction of VA error | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 
 ## EP 960 - Administrative Error, Codesheet, and Master Record Corrections
 - Administrative corrections and adjustments to existing records and decisions
 - All filtered out for both mobile and VA.gov
 - Denotes a correction VA needs to make. If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication
 
-| EP Code | Claim Label | Logic + Background | Plain Language Title |
-|---------|-------------|-----------|---------------------|
-| 960CRRC | Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960CRRCPMC | PMC - Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960CRRCDROC | DROC - Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960AER | Administrative Error Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960AERPMC | PMC - Administrative Error Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960AENR | Administrative Error Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-| 960AENRPMC | PMC - Administrative Error Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | NONE<br>*Filtered out for both mobile and VA.gov* |
-
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 960AENR | Administrative Error Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960AENRPMC | PMC - Administrative Error Non-Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960AER | Administrative Error Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960AERPMC | PMC - Administrative Error Rating | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960CRRC | Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960CRRCDROC | DROC - Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+| 960CRRCPMC | PMC - Corporate Record Rating Correction | VA process or correction; Should never show to Veterans or other claimants; Correction VA needs to make; If there is a decision that affects the Veteran, they will be notified through the process of the EP and adjudication | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 ---
 
 ## Organizational rules for adding EP codes to this list:
