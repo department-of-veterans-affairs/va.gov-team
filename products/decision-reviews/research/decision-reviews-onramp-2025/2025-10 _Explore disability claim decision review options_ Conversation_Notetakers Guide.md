@@ -17,7 +17,7 @@ Uploaded to Github:  Oct 6, 2025
 
 Thank you so much for joining us today\! My name is **\[NAME\]** and I work at VA.gov to help improve access to benefits and services for Veterans like you. 
 
-**\[NOTETAKER NAME\]** will be taking notes. I also have a anothercolleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+**\[NOTETAKER NAME\]** will be taking notes. I also have another colleague in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
 Today we're going to talk about choosing a decision review pathway. We’re working on an online guide to assist Veterans with exploring the review options available after a disability claim decision has been made. I’ll walk you through the guide and ask for your honest feedback so we can improve it.
 
