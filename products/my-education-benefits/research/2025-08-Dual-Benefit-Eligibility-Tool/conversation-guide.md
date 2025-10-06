@@ -121,7 +121,8 @@ Probing questions:
 
 ## Task 2: Self Review Tool - Step 2 Additional questions (3 minutes)
 
-**"What is your first impression? What do you think VA is trying to understand about you from this page?"**
+**[Ask this per question]:
+"What is your first impression? What do you think VA is trying to understand about you from this page?"**
 
 Probing questions (can be asked per question):
 - Do you have any questions about what this question is asking you?
@@ -142,7 +143,7 @@ Probing questions (can be asked per question):
 
 ## Task 3: Self Review Tool - Step 2 Distribute Qualifying Days - Your current benefits (5-7 minutes)
 
-**"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the information you are looking at?"**
+**"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the "Your current benefits" information here?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
@@ -204,9 +205,11 @@ Probing questions:
 > - How confident is the user?
 
 <p>&nbsp;</p>
-#### OPTIONAL: Future Prioritization (MAY BE REMOVED, PENDING STEP)
 
-**"Let's say you are ready to move forward with this distribution, what would do next?"**
+#### OPTIONAL: Future Prioritization
+
+**"Let's say you are ready to confirm this distribution, what would do next?
+"How are you understanding this prioritization? Based on your education goals, which option would you select and why?"**
 
 Probing questions:
 - What did you notice first on this step?
