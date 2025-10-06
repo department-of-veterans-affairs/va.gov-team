@@ -330,44 +330,44 @@ Best practices research (12/2022) emphasized that "where possible, enable users 
 
 1. **Disability Compensation Notifications Research Report** (7/2020)
    - Purpose: Study pain points, expectations, and preferences for notifications throughout disability compensation process
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/research/notifications-research-report.md)
 
 2. **Logged-in Homepage User Research Findings** (5/2020)
    - Purpose: Understand needs and preferences for logged-in homepage experience
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a1d1843e4219e6aa2cd59007345b4ddb377c6707/products/identity-personalization/my-va/2.0-redesign/discovery-and-research/user-research/findings-summary.md#L295-L311)
 
 3. **Action Items Research Findings** (9/2021)
    - Purpose: Understand how Veterans expect to find, view, and act on recent action items
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a1d1843e4219e6aa2cd59007345b4ddb377c6707/products/identity-personalization/onsite-notifications/2021-action-items-discovery/research/alerts-discovery-research-summary.md#L105-L113)
 
 4. **Research Findings for ARF Team, Accredited Representative User Interviews** (02/2024)
    - Purpose: Provide representatives control over notifications in ARP tool
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a1d1843e4219e6aa2cd59007345b4ddb377c6707/products/accredited-representative-facing/research/2024-02%20User%20Interviews/research-report.md#L531-L531)
 
 5. **Notifications Research** (3/2018)
    - Purpose: MVP test external notifications for vets.gov
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/onsite-notifications/2018-notifications-work/HCA%20MVP/Research)
 
 6. **Paperless Delivery Research Findings** (7/2025)
    - Purpose: Identify usability issues in paperless delivery settings
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a1d1843e4219e6aa2cd59007345b4ddb377c6707/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Summary%20of%20Findings.md#L314-L320)
 
 7. **Profile Notification Settings Research Findings** (7/2021)
    - Purpose: Identify Veterans' expectations for discovering, receiving, and managing notifications
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-june-2021/notifications-research-findings.md)
 
 8. **Notification Best Practices** (12/2022)
    - Purpose: Identify best practices in notification design
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/onsite-notifications/2018-notifications-work/Discovery/Notification%20best%20practices.md)
 
 9. **Profile Notification Settings, Add Email Channel Research Findings** (2/2023)
    - Purpose: Evaluate usability of notification settings when adding email channel
-   - [Link to full study]
+   - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/discovery-and-research/usability-study-add-email-jan-2023/findings-summary.md#key-findings)
 
 10. **Evaluate Development Letter Experience and Improvements to 5103 Notices** (9/2024)
     - Purpose: Evaluate Veterans' experiences with development letters and 5103 notices
-    - [Link to full study]
+    - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/b732a44949189ace11fa4dc17915c0b8fe91fa69/products/claim-appeal-status/research/2024-07-Development-Letters/research-findings.md)
 
 11. **Document Status Research Findings** (2/2025)
     - Purpose: Evaluate whether Veterans recognize connection between failure notification email and in-app alerts
-    - [Link to full study]
+    - [Link to full study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4bd995b8709b31153b16f54929c87ab0805b50d5/products/claim-appeal-status/research/2024-11-Document-Status/research-findings.md)
