@@ -12,6 +12,10 @@ Check In Experience consists of muliple code bases deployed to two different AWS
 
 [![Cloud Deployment](architecture-diagrams/deploymentEnvironments-checkInExp.png "Check In Experience VAEC en")](architecture-diagrams/deploymentEnvironments-checkInExp.png)
 
+See also:
+- [ATO Security Boundary diagram](./ato_security_boundary.md)
+- [PHI/PII Data Flow diagram](./phi_pii_data_flow.md)
+
 ## Check In Experience Containers:
 
 Check In Experience consists of five main containers (see components section for details):
