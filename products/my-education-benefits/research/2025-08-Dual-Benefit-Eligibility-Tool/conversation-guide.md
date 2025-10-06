@@ -75,9 +75,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Wayfinding & Locate the self-review tool (3 minutes)
 
-**INTERNAL NOTE: Might recommend to remove this first task. Idea would be dedicating more time to the tool itself will help us gather more insight into the "meat" of what were researching. trade off is the user might have a harder time orienting/contextualizing themselves affecting their understanding and ability to navigate the tool. if we remove, have to be considerate of how we set up this test scenario.**
-
-**Send prototype link**
+**Send prototype link now**
 
 Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool. What you are looking at now is the application instructins page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at. 
 
