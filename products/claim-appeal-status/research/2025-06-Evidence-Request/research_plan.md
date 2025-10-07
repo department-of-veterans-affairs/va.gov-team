@@ -56,7 +56,7 @@ This research will give us a better understanding of claimants’ experience of 
 ---
 
 ## Hypothesis
-- Claimants find VA jargon confusing and are often unsure what they are being asked to provide. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.  
+- Claimants are unsure what they are being asked to provide for an evidence request. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.  
 - Claimants have concerns about whether VA is taking sufficient action on their claims. Understanding the requests that are being made of 3rd parties can reduce those concerns. However, when that information is unintelligible, it raises those concerns.
 
 ---
