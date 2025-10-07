@@ -137,27 +137,24 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-# 🚧 🚧 🚧 Post-Task Interview - X minutes
+# ✅ ✅ ✅ Post-Task Interview
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Is there anything else regarding management of VA debt and bills that you would like to share?
+- Do you have any questions for me? 
 
 ## Consent to use video clips
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
+* I want to check once again that you are comfortable if we were to share a video clip of this session with our VA partners with your identifying information removed.
+* Is there any part of our discussion you would NOT want shared in a video clip?
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+That's all for today. Thank you so much for taking the time to share your thoughts with us. It's so helpful to be able to speak directly with Veterans to learn about their experiences, and ultimately build digital products that will be useful.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Perigean will be reaching out and sending you a thank you note.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much, and I hope you enjoy the rest of your day.
 
 
 # ✅ ✅ ✅ Emergency Exit 🚨
