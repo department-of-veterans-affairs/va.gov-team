@@ -122,11 +122,9 @@ Probing questions:
 ## Task 2: Self Review Tool - Step 2 Additional questions (3 minutes)
 
 **[Ask this per question]:
-"What is your first impression? What do you think VA is trying to understand about you from this page?"**
+"What is your first impression?"**
 
 Probing questions (can be asked per question):
-- Do you have any questions about what this question is asking you?
-- How are you understanding this question?
 - Does this question accurately gather information that is relevant to your GI bill/ education goals?
 - If not, what information would you expect to be asked about as it relates to your education goals?
 - Are any of the terms used here familar to you? Are there any that are unfamiliar?
@@ -141,7 +139,30 @@ Probing questions (can be asked per question):
 
 <p>&nbsp;</p>
 
-## Task 3: Self Review Tool - Step 2 Distribute Qualifying Days - Your current benefits (5-7 minutes)
+## Task 3: Self Review Tool - Step 2 - Our Recommendation (5-7 minutes)
+
+**"What is your first impression? How are you understanding the recommendation given?"**
+
+Probing questions:
+- What are you noticing or gravitating to first? Why?
+- Is there anything confusing on on this page?
+- How are you interpreting the term 'Qualifying service'?
+- Is there any terminology that is familiar or unfamiliar to you?
+- (When applicable) How are you understanding the MGIB benefit in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
+- (When applicable) How are you understanding the PGIB benefits in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
+- Was there anything you found confusing about the recommendation? What made it confusing?
+
+**"Could you show me how you would reset this to get the original recommendation back?"**
+
+- How was resetting the recommendation for you?
+
+#### Things to watch for:
+> - Where does the user look first on the recommendation? </br>
+> - Where is the user spending the most time?
+> - Does the user have questions about this process? </br>
+<p>&nbsp;</p>
+
+## Task 4: Self Review Tool - Step 2 - Your current benefits (5-7 minutes)
 
 **"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the "Your current benefits" information here?"**
 
@@ -159,33 +180,6 @@ Probing questions:
 > - How is the user scanning the page? Is there a section that is particularly helpful or confusing?
 <p>&nbsp;</p>
 
-## Task 4: Self Review Tool - Step 2 Distribute Qualifying Service - Customize your own (5-7 minutes)
-
-**"What would you do next? What is your first impression, how are you understanding the information presented here?"**
-
-Probing questions:
-- What are you noticing or gravitating to first? Why?
-- Is there anything confusing on on this page?
-- How are you interpreting the term 'Qualifying service'?
-- How are you understanding the MGIB and PGIB benefits displayed?
-
-**"Could you show me how you would update the PGIB section to allocate [MOCK DATA]?" & "Could you show me how you would update the MGIB section to allocate [MOCK DATA]?"**
-
-- Was there anything that caught your attention when you changed the qualifying service for each benefit?
-- How are you understanding the change in 'Your customized benefit' once you changed it?
-- Was there anything you found confusing about interaction?
-
-**"Could you show me how you would reset this to get the original recommendation back?"**
-
-- How was resetting the recommendation for you?
-
-#### Things to watch for:
-> - Where does the user look first to customize? </br>
-> - Does the user notice the relationship between input fields and the customize benefit cards? </br>
-> - Does the user understand the relationship between input fields and the customize benefit cards? </br>
-> - Where does the user look first to reset their recommendation? Are they able to find it easily? </br>
-> - Does the user have questions about this process? </br>
-<p>&nbsp;</p>
 
 ## Task 5: Self Review Tool - Step 3 Confirm election (5 minutes)
 
