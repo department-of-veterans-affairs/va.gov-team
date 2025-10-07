@@ -1,4 +1,4 @@
-# Product Outline: VA.gov SM Medical Renewal Flow Via SM
+# Product Outline: Medical Renewal Flow Via SM (VA.gov and VAHB)
 
 
 #### Overview
