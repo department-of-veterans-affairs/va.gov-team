@@ -12,9 +12,9 @@
 - [ ] 10-7959c: Begin updating OHI Standalone PDF
 - [ ] UX: Additional Design Discovery for Ineligible Applicants (Tricare)
 - [ ] UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit
+- [ ] UX: 10-7959a: Duty to assist
 - [ ] UX: 10-7959a: Add resubmission content to intro page
 - [ ] UX: Health Apps: Medallia Report
-- [ ] UX: 10-7959a: Duty to assist
 - [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
 - [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] Stretch goal: 10-7959c: OHI Standalone PDF Updates
