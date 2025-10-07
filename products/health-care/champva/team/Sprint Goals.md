@@ -1,7 +1,80 @@
  # 2025 Sprint Planning for 10-10d, 10-7959c, 10-7959a, 10-7959f-1, 10-7959f-2
 - Current Sprint first
 
+## 📆 Sprint 5 (Oct 8 - Oct 21) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] UX: FMP claims: research planning/prototype tickets
+- [ ] UX: Health Apps: Medallia Report
+- [ ] UX: CVA Claims: Add resubmission content to Claims intro page and add opening a ticket for C/IA to update the static page with resubmission instructions
+- [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
+
+
+
+
+
+##
+### 10-10d v2
+
+- [ ] **SPRINT GOAL** 10-10d v2: Address staging review findings with fixes to imposter component
+  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
+- [ ] **SPRINT GOAL** 10-10d v2: OHI Chapter updates including prescription question
+  - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
+- [ ] **SPRINT GOAL** 10-10d v2: Update content on Notice of Disallowance page
+  - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
+- [ ] **SPRINT GOAL**
+  - [ ] 
+- [ ] **SPRINT GOAL** 
+  - [ ]
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+- [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
+  - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
+
+
+### 10-7959a
+
+- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues and address selection
+
+## 
+### 10-7959c
+- No work this sprint
+
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL**
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** UX: CVA claims: Duty to assist
+  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
+- [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+
+     
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+  - UX: Print/PDF tickets and user flows
+- **BE** 
+
+
+##
+### Team PTO
+- Kyle: 10/10
+- Renata 10/9-10/14
+- Jessica 10/9-10/13
+
+
+
 ---
+
 ## 📆 Sprint 4 (Sept 24 - Oct 7) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
