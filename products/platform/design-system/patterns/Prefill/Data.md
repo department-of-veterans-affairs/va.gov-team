@@ -9,7 +9,7 @@ Last updated: 10/7/2025
    - VA.gov profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN
    - Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
   
-2. What information does the ID.Me or Login.gov servce pass on to VA.gov profile (if anyhting)?
+2. What information does the ID.Me or Login.gov servce pass on to VA.gov profile (if anything)?
 
 3. What is the minimum amount of information an LOA1 user can have in their VA.gov/profile?
 
