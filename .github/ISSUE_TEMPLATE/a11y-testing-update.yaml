@@ -66,7 +66,7 @@ body:
       value: |
         ### Automated testing
   - type: dropdown
-    id: version
+    id: version1
     attributes:
       label: AXE has been executed for every page
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
@@ -76,7 +76,7 @@ body:
         - Fail
       default: 0
   - type: dropdown
-    id: version
+    id: version2
     attributes:
       label: AXE has been executed for every page
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
