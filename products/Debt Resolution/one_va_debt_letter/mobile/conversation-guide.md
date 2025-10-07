@@ -8,26 +8,29 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# 🚧 🚧 🚧 Conversation Guide for [initiative]
+# ✅ ✅ ✅ Conversation Guide for One VA Debt Letter on mobile app
 
 ## Moderator logistics 📋✅
-### 2-3 days before the session
+  
+### 3-5 days before the sessions
 
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Set up sign-up sheet for observers
+- [ ] Set up spreadsheet for note takers
+- [ ] Highlight highest priority questions
+- [ ] Set up Mural board for observers to add notes
+- [ ] Write custom template note for observers
 
 ### Day of the session
 
 > [!TIP]
 > - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 > - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers.
 
 ### Starting the session
 
@@ -36,6 +39,9 @@ description: "A template for moderating research sessions including logistics, i
 > - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 > - Check your [screensharing setup] and share permissions for participants.
 > - When the participant is ready, begin the session with the following intro*
+
+
+
 
 # 🚧 🚧 🚧 Intro - 5 minutes
 
