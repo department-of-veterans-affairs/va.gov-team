@@ -16,3 +16,6 @@ By doing it this way we avoid having to store any superfluous data like the sele
 
 ## Drawback
 The user has an expectation that the application knows what they want to add because they've selected it up front. They may be disappointed to learn they have to reselect their additional expense types in order to continue. Other options ([option 3](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=8024-21712&t=6eROr23nirFn4vDa-4)) don't have this expectation up front.
+
+## Diagram
+<img width="1072" height="420" alt="image" src="https://github.com/user-attachments/assets/0b7a67b0-b861-4abb-b687-d87bafdc6ef4" />
