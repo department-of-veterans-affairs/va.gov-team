@@ -1,6 +1,6 @@
-**Research Plan for 0781 Upload Documents, Disability Benefits, Pathways Team, September 2025**
+# Research Plan for 0781 Upload Documents, Disability Benefits, Pathways Team, September 2025
 
-**Background 🏗️**
+## Background 🏗️
 
 At the present, all Veterans upload their documents as supporting evidence of their claim in one step at the very end of VA form 21-526 EZ, the application Veterans use to apply for disability compensation benefits. Veterans who opt into form 0781, which supports claims for mental health conditions, do not currently have a specific section that walks them through the process of uploading documents to support those conditions. 
 
@@ -18,29 +18,29 @@ Typically, VBMS would have the option to develop claims for evidence further. In
 
  
 
-Where is your product situated on VA.gov? (ex: auth vs. unauth)
+### Where is your product situated on VA.gov? (ex: auth vs. unauth)
 
 Authenticated
 
 
-What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+### What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 Veterans are currently uploading documents in the last step of the form. This section is meant to capture all documents for all types of conditions, regardless of whether or not they have opted into the 0781\. Our design proposal uses existing design patterns to create additional pages to support the submission of appropriate evidence to support mental health conditions. 
 
-Product Brief
+### Product Brief
 
-[**Superepic link**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107258)
+- [**Superepic link**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107258)
 
-[Help Veterans provide evidence to support their mental health statement (0781) and all other conditions in a single section of the Disability form (526) \#114046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114046)
+- [Help Veterans provide evidence to support their mental health statement (0781) and all other conditions in a single section of the Disability form (526) \#114046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114046)
 
-[**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
+### [**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
 **Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
 
 * Key Result 1: Improve satisfaction with our web and mobile products by 5 points.  
 * Key Result 3: 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-**Research Goals 🥅**  
+## Research Goals 🥅  
 
 
 * Goal 1: Gather feedback on the **instructional content** on each page.  
@@ -54,7 +54,7 @@ Product Brief
 
 This research will give us a better understanding of claimants’ understanding and experience of uploading documents in support of their claim. We expect to find insights on the usability, language clarity, and navigability of the upload flows. These insights will inform the next iteration of  the evidence section in our online form to ensure claimants can upload the appropriate documents related to their mental health conditions separately from their other conditions. We are also hoping to understand how claimants think about uploading documents generally, as inspiration for a future evidence upload redesign project.
 
-***Research questions***
+### Research questions
 
 **Goal 1: Gather feedback on the instructional content on each page.**
 
