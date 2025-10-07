@@ -1,67 +1,27 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "Evidence Request Research Findings"
+product: "Benefits Claim Status Tool"
+team: "BMT-1"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-10-5"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Kat Brinkley | Agile 6"
+  - "Dillon Hawes | COA Solutions"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "1. Evaluate Veterans’ comprehension of the evidence requests"
+  - "2. Assess the effectiveness of the new content structure"
+  - "3. Assess Veterans’ ability to navigate/locate features and content that support evidence requests"
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated, structured remote interviews"
 devices_used:
     desktop: X
     tablet: X
     smartphone: X
-    assistive_technology: X
-participants_total: X
+    assistive_technology: none
+participants_total: N=9
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
-  age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
-  education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
-  location:
-    urban: X
-    rural: X
-    unknown: X
-  race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
-  disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+  veterans: 9
+  age: 50% of users 55+
 key_findings:
   - "Finding 1"
   - "Finding 2"
