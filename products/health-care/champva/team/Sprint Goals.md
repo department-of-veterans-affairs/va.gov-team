@@ -10,7 +10,6 @@
 - [ ] Begin Staged Launch of 1010d/10-7959c Merge 
 - [ ] Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
 - [ ] Fix screen reader announcement on radio buttons in ChampVA Claims 
-- [ ] Update FMP Claims to new upload component, handoff to QA for thorough testing 
 - [ ] Finalize confirmation emails  for FMP  Claims
 - [ ] Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended 
 - [ ] UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
