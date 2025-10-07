@@ -127,28 +127,33 @@ When Veterans need to check on the status of their VA claims, decision reviews, 
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Overall, almost 80% of users understood the goals of each evidence request and also were able to complete them
+2. Participants expected some confirmation that an evidence request was completed, particularly for Direct Deposit
+3. 8/9 participants had little to no difficulty in understanding the request to provide medical exposure documentation at the beginning of the task, some users experienced frustration and challenges around how to actually fill out and submit their responses to complete the evidence request, struggling with how to submit and navigating across pages
+4. Participants prefer transparency, including spelling out abbreviations, keeping them updated on third party requests, and each evidence request being kept simple and clear.
+5. Consistent across all 4 tasks, participants frequently requested less words on the page and clearer action items, as well as less repetition and redundancy of content surrounding the evidence requests
+6. Participants expected the most important call-to-action tasks, most useful features, and “Next Steps” to be first and above informational content
+7. Most participants were familiar with the process of downloading, scanning back in and uploading the PDF version of documents, but many reported challenges or frustrations with the process
+8. When a participant was familiar with or understood the function of the Online Tool, it was their preferred choice of document submission over PDFs.
+9. Participants experienced a range of challenges with forms, from identifying the correct form, downloading and saving the form in an accessible location, actually filling out the form, and navigating their way back to the upload page to complete the request
+10. Navigation presented some challenges for users, including navigating across pages and domains of VA.gov to find documents they needed, understanding where they were in the tool, and using breadcrumbs.
 
-## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+# Details of Findings 
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+### Evidence Request Comprehension
+
+#### 1. 6/9 participants expressed an understanding of and the ability to complete the evidence request to provide authorization to disclose information
+- Most participants were able to describe it to a friend as an "authorization", or granting "permission" to share more information with VA.
+-   - _Supporting data:_
+
+**Areas of Opportunity:**
+- 
+  - _Supporting data: "It sort of said the information that was needed but then you’d need to go hunting for it"_
+
+
 
 ---
 
