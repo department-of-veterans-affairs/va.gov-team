@@ -6,9 +6,7 @@
 
 ### Sprint Goal summary
 - [ ] 10-10d v2: Updates including OHI Chapter updates, Notice of Disallowance, same address, and age logic
-- [ ] 10-10d: Create integration tests that cover data transformations
-- [ ] 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
-- [ ] 10-10d: VES Pre-prod testing
+- [ ] 10-10d: Create integration tests and prepare for VES Launch
 - [ ] 10-7959a: Fix Internal QA issues and address selection to use VaRadio
 - [ ] 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
 - [ ] 10-7959c: Begin updating OHI Standalone PDF
@@ -32,12 +30,10 @@
   - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
   - [ ] [[FE] 10-10/10-7959c: Staging Review finding: Look at the screen flow when an applicant has the same address or not](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118201)
   - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
-- [ ] **SPRINT GOAL** 10-10d: Create integration tests that cover data transformations 
+- [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
-- [ ] **SPRINT GOAL** 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
   - [ ] [[BE] 10-10d (Standalone and v2): Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116079)
-- [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
   - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
 - [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants (Tricare)
   - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
