@@ -123,6 +123,12 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 - Some Veterans may still need paper options
 - Supporting evidence from 9/2024 study
 
+### Hypothesis 7: Transparent timeline information reduces anxiety and builds trust
+**Definitely True**
+- When Veterans understand why there are delays and when they can expect their claim to move forward, they experience less anxiety even when waits are long. Conversely, unexplained delays erode trust.
+- Tracked items research shows that 95% of "Development to Claimant" tracked items are non-actionable and take the full 30-day suspense period regardless of when evidence is submitted
+- Veterans in 9/2024 study showed confusion about evidence waivers because they expected their prompt response to trigger faster processing
+- General principle from research: "Keeping people informed is a good way to lower expectations, or lower anxiety" (3/2018 study)
 ---
 
 ## Key Findings
@@ -189,7 +195,9 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 - All users in the 9/2021 Action Items study mentioned redundancy as a welcomed and important feature
 - In the 2/2025 Document Status study, all 7 participants recognized that the upload failure notification email directly corresponds to the failure alerts displayed in the Claim Status Tool: "The email just tells me that I have a notice, if I correct. VA.gov tells me exactly what that notice is." – P8
 
-**Context:** This finding contradicts common assumptions about notification fatigue and suggests Veterans prefer over-communication to under-communication for important benefit information.
+**Context:** This finding contradicts common assumptions about notification fatigue and suggests Veterans prefer over-communication to under-communication for important benefit information. 
+
+**Why redundancy matters even more than we thought:** The tracked items research reveals that the VA system has inherent delays where evidence sits unprocessed even when submitted on time. In this context, redundant notifications serve as proof-of-receipt and help Veterans know their action was actually captured by the system, not lost in a 30-day suspense period.
 
 ---
 
@@ -201,6 +209,8 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 - Users in the 9/2021 study were able to easily understand the amount of information shown in an alert and how to take action
 - In the 2/2025 Document Status study, all participants knew they needed to resubmit failed documents after receiving a failure notification: "I would go ahead and print out my evidence and mail it in. Or I would go to my regional office." – P10
 - Veterans reported high confidence (average 4.7/5) in their ability to submit documents successfully due to clear instructions: "...every step is very descriptive. You have all the information you need. Never did I feel like one of my questions or concerns wasn't answered by following along with the process." – P4, 2/2025 study
+- **Notable Caveat:** However, the tracked items research reveals a critical gap: actionable notifications must align with system capabilities. Veterans can take action quickly, but if the system doesn't respond to their timely action (as with non-actionable tracked items), this creates a trust gap. Notifications should set accurate expectations about what will happen after the Veteran acts, including any system-imposed wait times.
+Example: Instead of "Submit your evidence waiver to move your claim forward" → "Submit your evidence waiver by [date]. Once we receive it, we'll process your claim within 30 days of the original request date."
 
 **Context:** The combination of clear messaging + actionable next steps + direct links was the winning pattern across all task types studied.
 
@@ -217,6 +227,13 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 - "Keeping people informed is a good way to lower expectations, or lower anxiety." – 3/2018 study
 
 **Context:** Confirmation messages serve both functional (proof that action was completed) and emotional (reduced anxiety) purposes.
+
+**System context: ** The tracked items research shows that evidence submitted early often sits unprocessed until the suspense date expires. This makes confirmation messages even more critical – they're the only signal Veterans have that their evidence was received and properly associated with their claim, even if the claim isn't moving forward yet.
+
+**Recommendation:** Confirmation messages should explicitly state:
+- Evidence was received
+- Evidence was associated with the correct claim/tracked item
+- What happens next and when (even if it means waiting for the suspense period to complete)
 
 ---
 
@@ -257,6 +274,12 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 
 **Context:** These confusion points represent opportunities for targeted improvements in content clarity and interface design.
 
+**Evidence waiver confusion has a system root cause:**
+- The tracked items research confirms that 5103 waivers are non-actionable tracked items – meaning even when Veterans submit them early, their claim doesn't move forward until the full 30-day suspense period expires
+- Veteran confusion identified in the 9/2024 study ("Thinks that after he submits waiver, the claim will be 'locked'") reflects an accurate intuition that something doesn't work as expected
+- Quote from tracked items research: "Vets would like to see get their claim moving faster, and it seems they're already under the impression that it's supposed to, but it doesn't. This negatively impacts Veteran trust and satisfaction."
+
+**Content Recommendation: **Waiver notifications should transparently explain the 30-day wait period and when Veterans can expect their claim to move forward, rather than implying immediate action.
 ---
 
 ### Finding 9: Veterans with disabilities face specific barriers
@@ -285,18 +308,52 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 
 **Context:** Tone should be adapted based on the situation (FYI vs. urgent vs. compliance-required) while maintaining clarity and respect.
 
+### Finding 11: System limitations create a gap between Veteran expectations and reality
+**Description:** The VA benefits system has inherent processing delays that are invisible to Veterans. Non-actionable tracked items don't trigger claim movement even when evidence is submitted promptly. This system behavior contradicts Veteran expectations that timely responses will expedite their claims, creating opportunities for notification design to bridge this gap.
+**Supporting data:
+**
+- 95% of "Development to Claimant" tracked items (780,127 items from Oct '22 - May '23) are non-actionable and take the full 30-day suspense period regardless of when evidence arrives "If the associated evidence comes in on day 2, the claim will sit for 28 more days"
+- 90% of Veterans, when asked, want to close tracked items sooner
+- Evidence waiver confusion in 9/2024 study reflects accurate Veteran intuition that the system doesn't work as they expect
+
+**Context:** This represents a significant opportunity for notification design to either (1) set accurate expectations about processing timelines, or (2) advocate for system changes that would allow notifications to trigger faster claim movement.
+
+**Design/ Research Recommendations:**
+- Notifications should include transparent timeline information
+- Consider multi-stage notifications: "Evidence received" + "Claim moving forward"
+- Avoid language that implies immediate action when system delays exist
+- Test whether honest communication about delays maintains or erodes trust
 ---
 
 ## Additional Insights
 
+### System-Level Context
+**How the Backend System Impacts the Notification Experience**
+The tracked items research reveals critical system limitations that directly impact the notification experience Veterans have:
+
+**Non-actionable tracked items create false expectations**
+- When Veterans submit evidence early (e.g., a 5103 waiver on day 2 of a 30-day period), the system doesn't recognize it, and their claim sits idle for the remaining 28 days
+- This creates a trust gap: Veterans expect their timely response to move their claim forward, but it doesn't
+- This explains why Veterans in the 9/2024 study expressed confusion about evidence waivers and what happens after submission
+
+**Evidence association is manual and invisible to Veterans**
+- Evidence can only be automatically associated with tracked items if uploaded via the specific "document upload" page in CST
+- Evidence uploaded via other methods (general files tab, mail, fax) requires manual VSR association
+- Impact on notifications: This may explain why confirmation notifications are so critical – Veterans have no visibility into whether their evidence was properly associated with the right request
+
+**The 90% who want faster processing aren't getting it
+**
+- Research shows "90% of the time when Vets are asked if they want to close out a tracked item like this sooner, they say yes"
+- This supports Finding 6 about electronic communication preference and adds urgency to notification timing research
+
 ### High-volume users need granular control
-Accredited representatives (2/2024 study) valued being able to control which notifications they receive and desired the ability to turn them on/off. While this study wasn't with Veterans, it suggests that power users dealing with high notification volumes need fine-grained control options.
+- Accredited representatives (2/2024 study) valued being able to control which notifications they receive and desired the ability to turn them on/off. While this study wasn't with Veterans, it suggests that power users dealing with high notification volumes need fine-grained control options.
 
 ### Electronic communication is preferred for speed and reliability
-The majority of participants in the 9/2024 development letter study preferred electronic-only communication for benefit notifications, with quotes like: "Would prefer only electronic communications for development letters 'it takes forever to get something from the VA through the mail...its ridiculous'" – P8
+- The majority of participants in the 9/2024 development letter study preferred electronic-only communication for benefit notifications, with quotes like: "Would prefer only electronic communications for development letters 'it takes forever to get something from the VA through the mail...its ridiculous'" – P8
 
 ### Participants expect to act directly from notifications
-Best practices research (12/2022) emphasized that "where possible, enable users to act directly from the notification (e.g., via email)" – suggesting opportunities to embed more interactive elements in email notifications.
+- Best practices research (12/2022) emphasized that "where possible, enable users to act directly from the notification (e.g., via email)" – suggesting opportunities to embed more interactive elements in email notifications.
 
 ---
 
@@ -305,18 +362,30 @@ Best practices research (12/2022) emphasized that "where possible, enable users 
 
 
 ### Timing and frequency gaps
-- **Optimal timing by notification type** – Best time of day, day of week for different types of notifications
-- **Advance notice preferences** – How far in advance Veterans prefer to be notified of deadlines
-- **Reminder cadence** – Optimal spacing between initial notification and reminders
-- **Frequency thresholds** – At what point does notification frequency become overwhelming?
-### Evidence Submission 
-- **Evidence rejection** - What causes evidence rejection/resubmission?
-- **Barriers** - Biggest barriers to evidence submission?
-### Notification Channel Nuances 
-- **Preferences*** - For different types of tasks, would you prefer email, text, or both? Why?
--    How much information is too much in a text message?
--    What are your privacy concerns about text notifications?
+- Best time of day, day of week for different types of notifications
+- How far in advance Veterans prefer to be notified of deadlines
+- Optimal spacing between initial notification and reminders
+- At what point does notification frequency become overwhelming?
+- If Veterans knew their evidence would sit for 30 days regardless of when they submit it, would they still prefer to submit early? Why or why not?
+- How should notifications communicate suspense periods and why claims don't move forward immediately when evidence arrives early?
+- Would Veterans prefer a notification when their evidence is received AND another notification when the suspense period ends and their claim moves forward?
 
+### Evidence Submission 
+- What causes evidence rejection/resubmission?
+- Biggest barriers to evidence submission?
+  
+### Notification Channel Nuances 
+- For different types of tasks, would you prefer email, text, or both? Why?
+- How much information is too much in a text message?
+- What are your privacy concerns about text notifications?
+- Do Veterans want to know about tracked item suspense periods and system processing delays?
+- What language would help Veterans understand these delays without eroding trust?
+- Should notifications differentiate between "evidence received and waiting for processing" vs. "evidence processed and claim moving forward"?
+  
+### System transparency and trust
+- How much do Veterans want to know about VA internal processes vs. just outcomes?
+- Does knowing about system limitations (like non-actionable tracked items) help or hurt trust?
+- What's the right balance between "your claim is processing" and "your claim is waiting in queue for 30 days"?
 
 
 ---
