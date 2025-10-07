@@ -78,14 +78,7 @@ body:
         - Pass
         - Fail
       default: 0
-  - type: checkboxes
-    id: Automated testing
-    attributes:
-      label: Automated testing
-      description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
-      options:
-        - label: AXE has been executed for every page. AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-        - label: AXE has been integrated in end to end testing. End to end testing with Cypress or other libraries includes AXE scanning.
+
   - type: textarea
     id: color-notes
     attributes:
