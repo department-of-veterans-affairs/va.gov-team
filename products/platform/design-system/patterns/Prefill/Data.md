@@ -22,8 +22,7 @@ Last updated: 10/7/2025
    
 6. How does MPI interact with VA.gov profile? 
 
-
-
+7. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
 
 
 
