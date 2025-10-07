@@ -47,11 +47,10 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: AXE has been executed for every page
+      label: Automated-001
       description:  AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
       options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - label: AXE has been executed for every page
   - type: dropdown
     id: version
     attributes:
