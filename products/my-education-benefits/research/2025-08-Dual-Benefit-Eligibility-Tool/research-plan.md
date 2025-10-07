@@ -118,7 +118,7 @@ Our recruiting goal is to have 2 types of representatives:
 Our prototypes are ready for testing. Because we are still in a generative phase, we have only completed the Design Intent checkpoint.
 
 ### Research sessions
-- `Planned dates of research:` **10/15-10/24**
+- `Planned dates of research:` **10/16-10/24**
 
 ### Length of sessions
 Sessions will likely last 30-35 minutes.
@@ -126,14 +126,13 @@ Sessions will likely last 30-35 minutes.
 ### Availability
 | Dates | Times (EST) |
 | --- | --- |
-| 10/15 | 9 AM to 5 PM |
 | 10/16 | 9 AM to 5 PM |
 | 10/17 | 9 AM to Noon |
-| 10/18 | 9 AM to 5 PM |
-| 10/19 | 9 AM to Noon |
 | 10/20 | 9 AM to 5 PM |
 | 10/21 | 9 AM to 5 PM |
-| 10/22 | 9 AM to Noon |
+| 10/22 | 9 AM to 5 PM |
+| 10/23 | 9 AM to 5 PM |
+| 10/24 | 9 AM to Noon |
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
