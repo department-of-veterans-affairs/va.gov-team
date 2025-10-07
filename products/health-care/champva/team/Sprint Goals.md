@@ -5,8 +5,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] 10-10d v2: Address staging review findings with fixes to imposter component
-- [ ] 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance
+- [ ] 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance, and same address
 - [ ] 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
 - [ ] 10-10d: Create integration tests that cover data transformations
 - [ ] 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
@@ -28,12 +27,11 @@
 ##
 ### 10-10d v2
 
-- [ ] **SPRINT GOAL** 10-10d v2: Address staging review findings with fixes to imposter component
-  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
-  - [ ] [[FE] 10-10/10-7959c: Staging Review finding: Look at the screen flow when an applicant has the same address or not](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118201)
-- [ ] **SPRINT GOAL** 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance
+
+- [ ] **SPRINT GOAL** 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance, and same address
   - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
   - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
+  - [ ] [[FE] 10-10/10-7959c: Staging Review finding: Look at the screen flow when an applicant has the same address or not](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118201)
 - [ ] **SPRINT GOAL** 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
   - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
 - [ ] **SPRINT GOAL** 10-10d: Create integration tests that cover data transformations 
@@ -85,6 +83,7 @@
 ##
 ### WHAT'S NEXT
 - **FE**
+- [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
 - **UX**
   - UX: CVA claims: Duty to assist
   -  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
