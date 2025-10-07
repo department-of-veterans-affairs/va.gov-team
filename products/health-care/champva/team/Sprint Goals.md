@@ -32,7 +32,7 @@
   - [ ] [[BE] 10-10d (Standalone and v2): Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116079)
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
   - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
-- [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants
+- [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants (Tricare)
   - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
 
 
