@@ -86,13 +86,6 @@ body:
       options:
         - label: AXE has been executed for every page. AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
         - label: AXE has been integrated in end to end testing. End to end testing with Cypress or other libraries includes AXE scanning.
-        - label: All text of 20px or larger has a 3:1 contrast ratio to its background (or better)
-        - label: Non-text elements have a 3:1  contrast ratio to their background and to neighboring elements (or better)
-        - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
-        - label: Any charts, maps, infographics, and tables convey all information without only relying on color
-        - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
-        - label: (Mobile app only) Color contrast ratios are met for all supported dark, contrast, and inverted color modes
-        - label: (Mobile app only) All elements retain their meaning for all supported dark, contrast, and inverted color modes
   - type: textarea
     id: color-notes
     attributes:
