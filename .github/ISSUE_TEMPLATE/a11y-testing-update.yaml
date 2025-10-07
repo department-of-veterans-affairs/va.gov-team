@@ -75,8 +75,6 @@ body:
         - Pass
         - Fail
       default: 0
-    validations:
-      required: true
   - type: checkboxes
     id: color-checks
     attributes:
