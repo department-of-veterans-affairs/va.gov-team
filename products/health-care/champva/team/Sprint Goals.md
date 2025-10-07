@@ -65,8 +65,6 @@
 
 ## 
 ### STRETCH GOALS
-- [ ] **STRETCH GOAL** UX: CVA claims: Duty to assist
-  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] **STRETCH GOAL** UX: Health Apps Monthly Metrics Pulls
   - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 2025
@@ -77,6 +75,8 @@
 - **FE**
 - **UX**
   - UX: Print/PDF tickets and user flows
+  - UX: CVA claims: Duty to assist
+  -  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
 - **BE** 
 
 
