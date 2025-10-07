@@ -63,8 +63,8 @@ body:
         - label: AXE has been integrated in end to end testing.
   - type: markdown
     attributes:
-    value: |
-      ### Automated testing
+      value: |
+        ### Automated testing
   - type: dropdown
     id: version
     attributes:
@@ -76,7 +76,7 @@ body:
         - Fail
       default: 0
     validations:
-      required: false
+      required: true
   - type: checkboxes
     id: color-checks
     attributes:
