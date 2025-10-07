@@ -115,11 +115,11 @@ Remote, Zoom
 
 ### **Primary criteria (must-haves)**
 
-* \#Return claimants who have filed a 526 and an 0781, with mental health conditions\#  
+* Return claimants who have filed a 526 and an 0781, with mental health conditions  
   * Their most recent application should be within the past 5 years  
   * Applications can be paper or digital  
   * We are looking for at least 4 participants in this category  
-* \#Claimants who have never filed for a disability benefit and have a mental health condition(s)\#  
+* Claimants who have never filed for a disability benefit and have a mental health condition(s) 
   * This group can also include those who have started the process but never completed filing  
   * We are looking for at least 4 participants in this category  
 * At least 3 participants whose highest level of education completed is high school  
@@ -136,6 +136,32 @@ Remote, Zoom
   * AT least 4 participants from urban areas  
 * Someone who can read in an additional language other than English
 
+
+#### **Additional screener questions to accompany the initial screener questions**
+
+*Familiarity with technology*
+* Are you able to join the Zoom session from a smartphone, such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+  * Response options: yes or no. (Answering yes would qualify the participant.)
+*Cognitive disabilities*
+* Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+  * Response options: yes or no. (Answering yes would qualify the participant.)
+* We’re asking Veterans to share their experience with us so that we can improve the process of filing claims related to traumatic events. However, we know it can be difficult to talk about these topics. We’ll ask you questions about filling out a VA mental health form, which could involve sharing some limited details about your own mental health or traumatic experiences. Are you comfortable sharing your experience with us?
+  * Yes [Recruit]
+  * No [Do not recruit]
+* Have you ever filed a claim for disability benefits?
+  * Yes [recruit at least 3]
+  * No [recruit at least 3]
+* Which of the following conditions apply to you? You can check multiple types.
+  * PTSD [Recruit at least 1]
+  * Military sexual trauma (MST) [Recruit at least 1]
+  * Other mental health conditions related to a traumatic event, such as depression or anxiety [Recruit at least 1]
+  * None of the above [do not recruit]
+* If you have filed a claim, how recently did you file?
+  * Within the last 5 years [Recruit at least 3]
+  * Over 5 years ago [do not recruit]
+  * I have never filed a claim [Recruit at least 3]
+
+
 ## **Timeline 🗓️**
 
 ##  **Optional Kick-off Call with Perigean**
@@ -148,12 +174,12 @@ Remote, Zoom
 
 * Pilot 1  
   * Pilot facilitator name: Momo Miyazaki  
-  * Pilot participant name: \[Enter name\]  
-  * Date and time of pilot session: \[Enter time\]  
+  * Pilot participant name: TBD 
+  * Date and time of pilot session: TBD 
 * Pilot 1  
   * Pilot facilitator name: Amy Goldman  
-  * Pilot participant name: \[Enter name\]  
-  * Date and time of pilot session: \[Enter time\]
+  * Pilot participant name: TBD 
+  * Date and time of pilot session: TBD
 
 ### **Research sessions**
 
