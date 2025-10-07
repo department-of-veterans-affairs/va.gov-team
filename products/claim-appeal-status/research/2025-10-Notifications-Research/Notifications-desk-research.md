@@ -155,6 +155,7 @@ This audit synthesized findings from 11 studies conducted between 2018-2025, inc
 9. **Veterans with disabilities face specific barriers** including cluttered pages, background-only alerts, and unclear icons that impact screen reader and low-vision users.
 
 10. **Plain, calm, specific language reduces worry and builds trust** while legal-sounding or vague wording raises anxiety.
+11. **System limitations create a gap between Veteran expectations and reality**
 
 ---
 
