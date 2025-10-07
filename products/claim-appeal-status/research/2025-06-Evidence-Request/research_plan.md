@@ -44,7 +44,6 @@ This research will give us a better understanding of claimants’ experience of 
 
 ### Goal 1: Evaluate Veterans’ comprehension of the evidence requests
 - Do Veterans understand what VA is asking them to provide in specific evidence requests?  
-- Can Veterans distinguish between evidence requests directed to them (first party) versus requests to third parties?  
 - How effectively can Veterans understand what action they need to take?  
 
 ### Goal 2: Assess the effectiveness of the new content structure
@@ -52,8 +51,7 @@ This research will give us a better understanding of claimants’ experience of 
 - Do participants find some response options more difficult or confusing than others (e.g., uploading documents, navigating to a VA form and choosing to download or submit it online, making a change in their My VA)?  
 
 ### Goal 3: Assess Veterans’ ability to navigate/locate features and content that support evidence requests
-- How effectively can Veterans locate the associated claim letter when prompted?  
-- What are some pain points Veterans experience navigating between CST and the claim letters section?
+- How do Veterans navigate the context surrounding the evdence request submission?
 
 ---
 
