@@ -28,6 +28,9 @@ Last updated: 10/7/2025
    - DoB
    - SSN 
 
+To do:
+- Create tables showing the difference between no auth, loa 1, loa 3
+- Show percentage of current va.gov forms that are no auth, loa 1, loa 3
 
 
 
