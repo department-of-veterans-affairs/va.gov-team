@@ -92,9 +92,8 @@ When Veterans need to check on the status of their VA claims, decision reviews, 
 3. Are Veterans currently able to navigate/locate features and content that support evidence requests?
 - How do Veterans navigate the context surrounding the evdence request submission?
 
-## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+## Methodology 
 
 **Moderated semi-structured interviews:** Users were sent a Zoom link with instructions on how to join and share their screen. The user will log into staging.VA.gov and interact with the Claims Status Tool using a test user account containing the necessary claims and evidence requests. Testing will be conducted using the staging environment of the claim status tool, with 2 user profiles that are customized with the requests touched upon in the study. Participants will complete a series of tasks related to evidence requests, and the interviewer will observe their natural flow and ask questions about their experience. Data will be aggregated and synthesized to analyze emergent themes and main findings.
 
@@ -106,26 +105,20 @@ When Veterans need to check on the status of their VA claims, decision reviews, 
 - vets.gov.user+150@gmail.com
 
 
+
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-1. Claimants are unsure what they are being asked to provide for an evidence request. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.
-  - **Likely True**  
-  - In this study, we found that due to overload of content, confusing abbreviations or language, and challenges with interacting with forms to submit evidence are some examples that caused participants confusing. Additionally, we heard from some users that despite the confusing abbreviations, they appreciate seeing the third party request even when there is no action on their part due to its transparency in an effort to keep the Veteran updated, increasing trust. (this content is already being iterated on)
+**1. Claimants are unsure what they are being asked to provide for an evidence request. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.**
+- **Likely True**
+- In this study, we found that due to overload of content, confusing abbreviations or language, and challenges with interacting with forms to submit evidence are some examples that caused participants confusing. Additionally, we heard from some users that despite the confusing abbreviations, they appreciate seeing the third party request even when there is no action on their part due to its transparency in an effort to keep the Veteran updated, increasing trust. (this content is already being iterated on)
  
-2. Claimants have concerns about whether VA is taking sufficient action on their claims. Understanding the requests that are being made of 3rd parties can reduce those concerns. However, when that information is unintelligible, it raises those concerns.
-  - **Likely True**  
-  - In this study, the users that were able to decipher the abbreviated language in the third party request was unfazed by the language, and generally had a positive understanding of the third party request. However, for participants less familiar with VA language and abbreviations, they reacted with much more frustration at the fact that these items weren't spelled out, giving them an overall negative impression of the structure of this request.
+**2. Claimants have concerns about whether VA is taking sufficient action on their claims. Understanding the requests that are being made of 3rd parties can reduce those concerns. However, when that information is unintelligible, it raises those concerns.**
+- **Likely True**
+- In this study, the users that were able to decipher the abbreviated language in the third party request was unfazed by the language, and generally had a positive understanding of the third party request. However, for participants less familiar with VA language and abbreviations, they reacted with much more frustration at the fact that these items weren't spelled out, giving them an overall negative impression of the structure of this request.
 
 
 
 ## Key Findings
-
-*Summarize the 5–10 most impactful findings from your study.* 
 
 > [!TIP] 
 > Write findings as stand-alone insights that are easy to scan. For example:  
