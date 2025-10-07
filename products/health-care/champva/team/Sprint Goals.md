@@ -5,7 +5,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] 10-10d v2: Updates including OHI Chapter updates, Notice of Disallowance, same address, and age logic
+- [ ] 10-10d v2: Updates including OHI Chapter updates, Notice of Disallowance, same address, and over/under 65 age logic
 - [ ] 10-10d: Create integration tests and prepare for VES Launch
 - [ ] 10-7959a: Fix Internal QA issues and address selection to use VaRadio
 - [ ] 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
