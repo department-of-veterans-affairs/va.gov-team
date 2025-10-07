@@ -21,12 +21,8 @@ This research initiative supports the following OCTO priorities:
 
 ## Veteran Journey
 When Veterans need to check on the status of their VA claims, decision reviews, or appeals, they use the Claim Status Tool to stay updated on these important steps. This supports the following moments:
-
-- Getting Out  
-- Starting Up  
+ 
 - Taking Care of Myself (e.g., managing ongoing disability claims and evidence submission)  
-- Putting Down Roots
-
 ---
 
 ## Research Goals
