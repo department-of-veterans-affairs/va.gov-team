@@ -121,7 +121,7 @@ Last updated: [September 15, 2025]
 | 290DRASED | DRAS Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290DV | Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
 | 290DVPMC | PMC - Debt Validation | Veteran disputes debt amount, responsibility or hardship impact | Sept 12, 2025 | Request for debt review |
-| 290EER | EDU Eligibility Rating | Established when a claimant submits a VA Form 22-5490 | Oct 6, 2025 | Request for education benefits eligibility |
+| 290EER | EDU Eligibility Rating | Claimant applies to benefits using VA Form 22-5490; provides qualifying information to show eligibility and select type of benefit (DEA or Fry Scholarship) | Oct 6, 2025 | Claim for education benefits |
 | 290ELIG | Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290ELIGPMC | PMC-Eligibility Determination | VA process or correction | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 290HE7131R | Healthcare Eligibility - 731 Review | VA process or correction; Should never show to Veterans or other claimants; Identify and clarify health records from VHA to specialty | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
