@@ -66,7 +66,7 @@ body:
     value: |
       ### Automated testing
   - type: dropdown
-    id: AXE-executed
+    id: AXE-executed2
     attributes:
       label: AXE has been executed for every page
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
@@ -76,7 +76,7 @@ body:
         - Fail
       default: 0
   - type: dropdown
-    id: AXE-integration
+    id: AXE-integration2
     attributes:
       label: AXE has been integrated in end to end testing.
       description: End to end testing with Cypress or other libraries includes AXE scanning. [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
