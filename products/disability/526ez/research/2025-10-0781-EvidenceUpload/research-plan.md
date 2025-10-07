@@ -6,7 +6,7 @@ At the present, all Veterans upload their documents as supporting evidence of th
 
 We are enabling Veterans to submit evidence to support their mental health conditions within the 526\. We are using existing design patterns for uploading files, so this research will mainly focus on content comprehension and navigation. 
 
-What problem is your product trying to solve?
+*What problem is your product trying to solve?*
 
 Although opting into the 0781 form is optional, once the Veteran does so, they need to provide evidence to support their stated mental health conditions. If the Veteran doesn’t provide the correct evidence, it can delay adjudication or result in their claim being denied. Additionally if the Veteran doesn’t provide enough of the right kind of evidence, the VBA will not be equipped to follow up on these items, leading to their claim being denied. 
 
@@ -107,8 +107,6 @@ Remote, Zoom
 
 ### **Recruitment approach**
 
-### **List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:**
-
 * Veterans: 9  
 * Caregivers: 0  
 * Dependents: 0  
@@ -120,7 +118,7 @@ Remote, Zoom
 * \#Return claimants who have filed a 526 and an 0781, with mental health conditions\#  
   * Their most recent application should be within the past 5 years  
   * Applications can be paper or digital  
-  * We are looking for at least 3 participants in this category  
+  * We are looking for at least 4 participants in this category  
 * \#Claimants who have never filed for a disability benefit and have a mental health condition(s)\#  
   * This group can also include those who have started the process but never completed filing  
   * We are looking for at least 4 participants in this category  
@@ -134,8 +132,8 @@ Remote, Zoom
 * Gender  
   * No more than 3 men  
 * Geographic distribution  
-  * X participants from rural areas  
-  * X participants from urban areas  
+  * At least 4 participants from rural areas  
+  * AT least 4 participants from urban areas  
 * Someone who can read in an additional language other than English
 
 ## **Timeline 🗓️**
