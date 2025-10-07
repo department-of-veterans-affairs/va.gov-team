@@ -48,6 +48,7 @@
 - Renata: 10/9-10/14
 - Jessica: 10/9-10/13
 - Kyle: 10/10
+- Steve: 10/20-10/24
 
 ---
 ## 📆 Sprint 4 (Sept 24 - Oct 7) 
