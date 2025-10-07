@@ -75,16 +75,8 @@ body:
         - Pass
         - Fail
       default: 0
-  - type: dropdown
-    id: version
-    attributes:
-      label: AXE has been executed for every page
-      description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
-      options:
-        - N/A
-        - Pass
-        - Fail
-      default: 0
+    validations:
+      required: false
   - type: checkboxes
     id: color-checks
     attributes:
