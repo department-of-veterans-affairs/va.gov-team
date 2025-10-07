@@ -24,17 +24,17 @@
   - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
 - [ ] **SPRINT GOAL** 10-10d v2: Update content on Notice of Disallowance page
   - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
+- [ ] **SPRINT GOAL** 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
+  - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
 - [ ] **SPRINT GOAL** 10-10d: Create integration tests that cover data transformations 
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
-- [ ] **SPRINT GOAL** 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
-  - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
 - [ ] **SPRINT GOAL** 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
   - [ ] [[BE] 10-10d (Standalone and v2): Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116079)
-- [ ] **SPRINT GOAL** 
-  - [ ] 
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
   - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
+- [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants
+  - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
 
 
 ### 10-7959a
