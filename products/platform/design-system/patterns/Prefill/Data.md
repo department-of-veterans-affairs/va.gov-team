@@ -9,10 +9,29 @@ Last updated: 10/7/2025
    - VA.gov profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN
    - Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
   
-2. How does VA.gov/profile get SSN? Does it come from when they sign up for ID.me/Login.gov and verify? Does it come from MPI? A users SSN is not displayed within va.gov/profile
+2. What information does the ID.Me or Login.gov servce pass on to VA.gov profile (if anyhting)?
 
 3. What is the minimum amount of information an LOA1 user can have in their VA.gov/profile?
 
 4. What is the minimum amount of information an LOA3 user can have in their VA.gov/profile?
 
+5. What is MPI?
+   - MPI = Master Person Index
+   - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
+   > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787)
+   
+6. How does MPI interact with VA.gov profile? 
+
+
+
+
+
+
+
+
+
+
+
+
+   
  
