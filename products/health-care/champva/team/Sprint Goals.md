@@ -86,7 +86,6 @@
 ### WHAT'S NEXT
 - **FE**
 - **UX**
-  - UX: Print/PDF tickets and user flows
   - UX: CVA claims: Duty to assist
   -  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
 - **BE** 
