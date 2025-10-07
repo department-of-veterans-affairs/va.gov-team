@@ -133,8 +133,9 @@ Remote, Zoom
   * No more than 3 men  
 * Geographic distribution  
   * At least 4 participants from rural areas  
-  * AT least 4 participants from urban areas  
-* Someone who can read in an additional language other than English
+  * At least 4 participants from urban areas  
+* Language
+  * At least 2 participants who also speak another language fluently
 
 
 #### **Additional screener questions to accompany the initial screener questions**
@@ -207,7 +208,11 @@ Remote, Zoom
 * Project point of contact: Momo Miyazaki  
 * Accessibility specialist (for sessions where support for assistive technology may be needed): TBD  
 * Note-takers:  Amy Goldman, Momo Miyazaki  
-* Observers: To be determined a week before research 
+* Observers: To be determined a week before research
+
+## **Approvals ✅**
+Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
+Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
 
 ## 
 
