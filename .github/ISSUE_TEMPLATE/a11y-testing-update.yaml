@@ -84,7 +84,7 @@ body:
       label: Automated testing
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
       options:
-        - label: AXE has been executed for every page. AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+        - label: AXE has been executed for every page. AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
         - label: AXE has been integrated in end to end testing. End to end testing with Cypress or other libraries includes AXE scanning.
         - label: All text of 20px or larger has a 3:1 contrast ratio to its background (or better)
         - label: Non-text elements have a 3:1  contrast ratio to their background and to neighboring elements (or better)
