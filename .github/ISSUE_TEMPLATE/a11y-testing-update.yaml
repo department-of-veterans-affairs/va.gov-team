@@ -78,8 +78,8 @@ body:
   - type: dropdown
     id: version2
     attributes:
-      label: AXE has been executed for every page
-      description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+      label: AXE has been integrated in end to end testing.
+      description: End to end testing with Cypress or other libraries includes AXE scanning. [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
       options:
         - N/A
         - Pass
