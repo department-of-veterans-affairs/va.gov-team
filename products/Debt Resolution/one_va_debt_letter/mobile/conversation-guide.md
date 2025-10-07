@@ -160,12 +160,13 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 Thank you so much again, and enjoy the rest of your day!
 
 
-# 🚧 🚧 🚧 Emergency Exit 🚨
+# ✅ ✅ ✅ Emergency Exit 🚨
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
 
----
+[Emergency guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+If needing to exit the session
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+1. "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop."
+2. “I’ve just learned that the prototype we were planning on using today is having some technical issues, so we will have to end this session early.”
+3. Thank them profusely for their feedback or for making the time to talk to you.
