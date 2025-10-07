@@ -26,6 +26,7 @@ body:
       label: Product information
       options:
         - label: Team name, product name, and feature name have been added to the title of this issue.
+
           required: true
         - label: Team label, product label and feature label (if applicable) have been added to this issue.
           required: true
@@ -43,9 +44,22 @@ body:
         - [ ] *AXE has been integrated in end to end testing.*
               End to end testing with Cypress or other libraries includes AXE scanning
               [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
-
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Automated-001
+      description:  AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+      options:
+        - label: AXE has been executed for every page
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Automated-002
+      description: End to end testing with Cypress or other libraries includes AXE scanning [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
+      options:
+        - label: AXE has been integrated in end to end testing
   - type: dropdown
-    id: AXE-page
+    id: version
     attributes:
       label: AXE has been executed for every page
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
@@ -54,24 +68,19 @@ body:
         - Pass
         - Fail
       default: 0
-  - type: dropdown
-    id: AXE-e2e
-    attributes:
-      label: AXE has been integrated in end to end testing
-      description: End to end testing with Cypress or other libraries includes AXE scanning. [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
-      options:
-        - N/A
-        - Pass
-        - Fail
-      default: 0
   - type: checkboxes
-    id: Automated testing
+    id: color-checks
     attributes:
-      label: Automated testing
-      description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+      label: Use of color and color contrast checks
       options:
-        - label: AXE has been executed for every page. AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-        - label: AXE has been integrated in end to end testing. End to end testing with Cypress or other libraries includes AXE scanning.
+        - label: All text of 20px or smaller has a 4.5:1 contrast ratio to its background (or better)
+        - label: All text of 20px or larger has a 3:1 contrast ratio to its background (or better)
+        - label: Non-text elements have a 3:1  contrast ratio to their background and to neighboring elements (or better)
+        - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
+        - label: Any charts, maps, infographics, and tables convey all information without only relying on color
+        - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
+        - label: (Mobile app only) Color contrast ratios are met for all supported dark, contrast, and inverted color modes
+        - label: (Mobile app only) All elements retain their meaning for all supported dark, contrast, and inverted color modes
   - type: textarea
     id: color-notes
     attributes:
