@@ -51,7 +51,7 @@
 
 ---
 ## 📆 Sprint 4 (Sept 24 - Oct 7) 
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 - [x] Investigate Intro page looping - **_Carry over due to bug fixes from ECNOK Launch delaying investigation_**
@@ -61,7 +61,7 @@
 - [x] Review EZR Confirmation Flow/V2 release plans
 - [x] Update EZ PDF “Provide Support” question response on the generated PDF
 - [x] Update EZ confirmation page to remove “mail” reference for handbook
-- [ ] Create CHAMPVA Claims 107959a production form flow
+- [x] Create CHAMPVA Claims 107959a production form flow
 
 
 ##
@@ -94,7 +94,7 @@
 ## 
 ### 10-2729a - CVA Claims
 #### Obj: [Improvements]
-- [ ] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
+- [x] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
 - [x] **IVC SPRINT PLANNING** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Finish direct deposit info
 
 
