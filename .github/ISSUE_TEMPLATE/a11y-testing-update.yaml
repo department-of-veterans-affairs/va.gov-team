@@ -91,8 +91,8 @@ body:
       label: Automated testing
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
       options:
-        - label: AXE has been executed for every page <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-        - label: AXE has been integrated in end to end testing. <br/>End to end testing with Cypress or other libraries includes AXE scanning. <br/>[Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
+        - label: <strong>AXE has been executed for every page.</strong> <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
+        - label: <strong>AXE has been integrated in end to end testing.</strong> <br/>End to end testing with Cypress or other libraries includes AXE scanning. <br/>[Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
   - type: textarea
     id: color-notes
     attributes:
