@@ -50,7 +50,7 @@ synthesis_tools_used:
   - "Data matrix spreadsheet"
 ---
 
-# [Study] Research Findings 
+# Evidence Request Study Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Benefits Claim Status Tool, BMT-1**
 
