@@ -145,16 +145,10 @@ Probing questions (can be asked per question):
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
-- Is there anything confusing on on this page?
-- How are you interpreting the term 'Qualifying service'?
-- Is there any terminology that is familiar or unfamiliar to you?
+- Is there any terminology that is familiar or unfamiliar to you? How are you interpreting the term 'Qualifying service'?
 - (When applicable) How are you understanding the MGIB benefit in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
 - (When applicable) How are you understanding the PGIB benefits in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
 - Was there anything you found confusing about the recommendation? What made it confusing?
-
-**"Could you show me how you would reset this to get the original recommendation back?"**
-
-- How was resetting the recommendation for you?
 
 #### Things to watch for:
 > - Where does the user look first on the recommendation? </br>
