@@ -15,4 +15,4 @@ to see the expense types they've added, the expenses they've added, and have the
 By doing it this way we avoid having to store any superfluous data like the selected checkboxes in local storage or more robust storage.
 
 ## Drawback
-The user has an expectation that the application knows what they want to add because they've selected it up front.
+The user has an expectation that the application knows what they want to add because they've selected it up front. They may be disappointed to learn they have to reselect their additional expense types in order to continue. Other options ([option 3](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=8024-21712&t=6eROr23nirFn4vDa-4)) don't have this expectation up front.
