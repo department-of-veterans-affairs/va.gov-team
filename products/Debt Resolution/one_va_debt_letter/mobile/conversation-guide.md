@@ -1,14 +1,14 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
+title: "Conversation Guide for Mobile Feature Support, One VA Debt Letter on mobile app, October 2025"
+author: "Emily DeWan"
+date_created: "2025-10-07"
 last_modified: "[YYYY-MM-DD]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# 🚧 🚧 🚧 Conversation Guide for [initiative]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -37,7 +37,7 @@ description: "A template for moderating research sessions including logistics, i
 > - Check your [screensharing setup] and share permissions for participants.
 > - When the participant is ready, begin the session with the following intro*
 
-# Intro - 5 minutes
+# 🚧 🚧 🚧 Intro - 5 minutes
 
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
@@ -88,7 +88,7 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# 🚧 🚧 🚧 Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -96,6 +96,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If yes: what is your disability rating?
 - If no, skip to question 2.
 2. 
+
+# 🚧 🚧 🚧 Interview Section
+
+# 🚧 🚧 🚧 Screen sharing: current experience of combined statements
+
+# 🚧 🚧 🚧 Screen sharing: future experience of combined statements
 
 ## First Task: [TASK NAME] - X minutes
 
@@ -131,7 +137,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-# Post-Task Interview - X minutes
+# 🚧 🚧 🚧 Post-Task Interview - X minutes
 
 - Question 1
 - Question 2
@@ -154,7 +160,7 @@ Thanks! Lastly, Perigean will be sending you a thank you note with a little blur
 Thank you so much again, and enjoy the rest of your day!
 
 
-# Emergency Exit 🚨
+# 🚧 🚧 🚧 Emergency Exit 🚨
 
 In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
 
