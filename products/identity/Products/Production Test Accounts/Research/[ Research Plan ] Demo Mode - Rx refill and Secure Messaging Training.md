@@ -36,7 +36,7 @@ The study will provide insights to inform the potential solution of a demo mode 
 
 ## Research Methodology
 
-### Phase 1: Discovery Research (1 sprint)
+### Phase 1: Discovery Research (1 sprint) with MHV Coordinators
 **Approach**: Qualitative exploration through moderated interviews with observation sessions
 
 **Methods**:
@@ -46,17 +46,18 @@ The study will provide insights to inform the potential solution of a demo mode 
 **Key Areas of Investigation**:
 - Current Production Test Account usage patterns and frequency for both workflows.
 - Specific training scenarios where Production Test Accounts are employed for prescription refills and secure messaging.
-- MHV Coordinator and call center representative-developed best practices and workarounds for each workflow.
+- MHV Coordinators best practices and workarounds for each workflow.
 - Integration with other training tools and methods.
 
 ## Timeline
-- **1 Sprint**: Participant recruitment, scheduling, and completion of moderated interviews with observation sessions
+- **Week of Oct 6 and Oct 13**: Participant recruitment and scheduling
+- **Week of Oct 20**: Participant Interviews
 
 ## Constraints and Considerations
 - Focus limited to prescription refill and secure messaging workflows only
 - Excludes end-to-end workflow testing for both use cases
-- Does not include Veteran direct feedback (MHV coordinator and call-center perspective only)
+- Does not include Veteran direct feedback (MHV coordinators); call center representative conversations will take place in Phase 2
 - Maintains focus on training and troubleshooting applications specifically
 - Secure messaging scope limited to basic send/receive functionality, excluding advanced features
 
-This research plan provides a focused foundation for understanding current PTA usage across two key workflows in order to determine the scope and impact that the deprecation of PTAs will have on MHV coordinators and call center representatives' ability to train and assist Veterans with troubleshooting.
+This research plan provides a focused foundation for understanding current PTA usage across two key workflows in order to determine the scope and impact that the deprecation of PTAs will have on MHV coordinators and subsequently call center representatives' ability to train and assist Veterans with troubleshooting.
