@@ -19,14 +19,18 @@
 
 - [ ] **SPRINT GOAL** 10-10d v2: Address staging review findings with fixes to imposter component
   - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
+  - [ ] [[FE] 10-10/10-7959c: Staging Review finding: Look at the screen flow when an applicant has the same address or not](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118201)
 - [ ] **SPRINT GOAL** 10-10d v2: OHI Chapter updates including prescription question
   - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
 - [ ] **SPRINT GOAL** 10-10d v2: Update content on Notice of Disallowance page
   - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
-- [ ] **SPRINT GOAL**
-  - [ ] 
-- [ ] **SPRINT GOAL** 
-  - [ ]
+- [ ] **SPRINT GOAL** 10-10d: Create integration tests that cover data transformations 
+  - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
+  - [ ] [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
+- [ ] **SPRINT GOAL** 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
+  - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
+- [ ] **SPRINT GOAL** 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
+  - [ ] [[BE] 10-10d (Standalone and v2): Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116079)
 - [ ] **SPRINT GOAL** 
   - [ ] 
 - [ ] **SPRINT GOAL** **CARRIED FORWARD DUE TO NEW URL FOR FWD PROXY**
@@ -35,19 +39,29 @@
 
 ### 10-7959a
 
-- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues and address selection
+- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues and address selection to use VaRadio
+  - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
+  - [ ] [[FE] 10-7959a - Improvement: Update address selection to use VaRadio](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120485)
+- [ ] **SPRINT GOAL** Remaining Enhanced Claims Flow Changes from Content/IA
+  - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
+- [ ] **SPRINT GOAL** 10-7959a: Enhanced Claims Flow Confirmation Email Updates
+  - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
+- [ ] **SPRINT GOAL** Add resubmission content to intro page
+  - [ ] [[UX] CHAMPVA Claims 10-7959a: Add resubmission content to intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120799)
 
 ## 
 ### 10-7959c
-- No work this sprint
-
+- [ ] **SPRINT GOAL** UX: Update Confirmation Page for Print/Save PDF for OHI
+  - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
+     
 ## 
 ### 10-7959f-1 FMP Enrollment
 - No work this sprint
 
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] **SPRINT GOAL**
+- [ ] **SPRINT GOAL** UX: Research Planning FMP Claims for Direct Deposit
+  - [ ] [[UX][Research] FMP Claims Direct Deposit: Usability Research Planning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121376)
 
 
 ## 
@@ -55,6 +69,8 @@
 - [ ] **STRETCH GOAL** UX: CVA claims: Duty to assist
   - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **STRETCH GOAL** UX: Health Apps Monthly Metrics Pulls
+  - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 2025
 
      
 ##
