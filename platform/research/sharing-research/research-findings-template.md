@@ -145,13 +145,13 @@ When Veterans need to check on the status of their VA claims, decision reviews, 
 
 ### Evidence Request Comprehension
 
-#### 1. 6/9 participants expressed an understanding of and the ability to complete the evidence request to provide authorization to disclose information
-- Most participants were able to describe it to a friend as an "authorization", or granting "permission" to share more information with VA.
--   - _Supporting data:_
+#### 1. 
+- describe
+- _Supporting data:_
 
 **Areas of Opportunity:**
 - 
-  - _Supporting data: "It sort of said the information that was needed but then you’d need to go hunting for it"_
+  - _Supporting data:_
 
 
 
