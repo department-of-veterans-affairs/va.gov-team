@@ -13,11 +13,11 @@
 - [ ] UX: Additional Design Discovery for Ineligible Applicants (Tricare)
 - [ ] UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit
 - [ ] UX: 10-7959a: Add resubmission content to intro page
-- [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
 - [ ] UX: Health Apps: Medallia Report
+- [ ] UX: 10-7959a: Duty to assist
 - [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
-- [ ] Stretch goal: Health Apps Monthly Metrics Pulls
 - [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] Stretch goal: 10-7959c: OHI Standalone PDF Updates
 
 
 
@@ -49,6 +49,8 @@
   - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
 - [ ] **SPRINT GOAL** Add resubmission content to intro page
   - [ ] [[UX] CHAMPVA Claims 10-7959a: Add resubmission content to intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120799)
+- [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
+  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
 
 ## 
 ### 10-7959c
@@ -68,8 +70,6 @@
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-- [ ] **STRETCH GOAL** UX: Health Apps Monthly Metrics Pulls
-  - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 2025
 - [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
   - [ ] [Epic: OHI Standalone 10-7959c Updates and PDF Switch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102719)
 
@@ -79,8 +79,8 @@
 - **FE**
 - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
 - **UX**
-  - UX: CVA claims: Duty to assist
-  -  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
+  - [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
+- Stretch goal: Health Apps Monthly Metrics Pulls
 - **BE** 
 
 
