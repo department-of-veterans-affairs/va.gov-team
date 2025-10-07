@@ -176,7 +176,6 @@ Where will you be holding the research sessions?
 
 - `[MM/DD, Day, 9:00 AM-12:00 PM] EST`
 - `[MM/DD, Day, 1:00 PM-4:00 PM] EST`
-- `[MM/DD, Day, 5:00 PM-7:00 PM] EST`
 - `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
