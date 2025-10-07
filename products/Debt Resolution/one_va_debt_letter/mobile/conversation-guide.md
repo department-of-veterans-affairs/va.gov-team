@@ -8,6 +8,8 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
+# 🚧 🚧 🚧 work in progress 🚧 🚧 🚧 
+
 # ✅ ✅ ✅ Conversation Guide for One VA Debt Letter on mobile app
 
 ## Moderator logistics 📋✅
@@ -43,56 +45,47 @@ description: "A template for moderating research sessions including logistics, i
 
 
 
-# 🚧 🚧 🚧 Intro - 5 minutes
+# ✅ ✅ ✅ Intro
 
-Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thank you so much for joining today. My name is Emily, and [NAME] here will be taking notes. I also have a couple other colleagues in the digital waiting room who would like to observe, but we’ll get to that momentarily.
 
-Today we're going to talk about making updates to health care information.
+Today, we’ll be discussing how people think about and manage certain financial items. We'll be going over debt from VA benefit overpayments and VA medical copays. I'd like to check in first – are you comfortable dicussing these topics?
+
+Before we start, I have a few logistics to cover:
 
 
-Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-  
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-  
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-  
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
-   - **If yes:** Admit observers.
-     
-> [!TIP]
-> - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
-  
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
+* I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
+    * _If no: Use Slack to kindly ask the observers to leave the Zoom._
+    * _If yes: Admit observers._
+* _(after all observers have entered)_ I'm going to have all our observers turn on cameras if you're able and do a very brief intro so that you know who all is here. _(call on everyone individually - have them say first name and position at VA)_
+* _(after intros are done)_ Thanks all! You can go ahead and mute yourselves and turn off your cameras.
+<br></br>
+* This will take about 60 minutes. Because I want to keep us on time, I may occasionally prompt you to the next topic.
+* We want your honest opinions. There are no right or wrong answers, and we’re not testing anything of you. I will not be offended by any opinions you share.
+* Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+* I’ll be having you work with a prototype for part of today. It may look and act like the real app and website, but it’s only a demo tool and therefore lots of elements will not be working. You will not be logged into your account, so nothing you do will affect your benefits or anything else in your account.
+* Were you able to download the mobile app Figma?
+    * _(if Yes)_: Great, thank you. I’ll be walking you through signing in with a test account later, and this is how you’ll view the prototype.
+    * _(if No)_ : no problem. Do you recall specific issues you were having? _(don’t spend too much time troubleshooting)_
+    * _(if they don’t have Figma - note that they’ll be viewing the responsive prototype)_
+<br></br>
+* If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
+    * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
+    * Knowing this, are you comfortable with me recording the session?
+    * And also, it can sometimes be helpful to share video clips from sessions to our VA partners so they can better understand the experiences of Veterans. In these clips, we blur out anything that could identify you – your profile photo for example – and they would only be shared among VA partners. I will also ask at the end of this session so that you could veto, but knowing this, would you be comfortable with us potentially using a clip from this session?
+    * _(if yes)_ I’m going to start the recording, and once I do I’m going to confirm once more that you’re okay with the recording.
+<br></br>
 
-   <mark>**[Record answer here]**</mark>
-     
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
- 
-   <mark>**[Record answer here]**</mark>
-
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
-
-➡️ **Start recording.**
-
+⏺️ Start recording.
+<br></br>
 > [!TIP]
 > After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
- <mark>**[Record answer here]**</mark>
- 
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
- <mark>**[Record answer here]**</mark>
 
 # 🚧 🚧 🚧 Warm-up Questions (Optional) - 5 minutes
 
