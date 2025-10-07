@@ -6,7 +6,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Spouse QA findings resolution & finalize QA - **_Carry over due to shutdown restrictions on merging_**
+- [ ] EZR Spouse QA findings resolution & finalize QA - **_Carry over due to unable to identify root cause, pulling in additional assistance_**
 - [ ] EZ Investigate Intro page looping
 - [ ] EZR "Back" button formatting
 - [ ] EZR Section Heading formatting on Review & Submit page
@@ -28,7 +28,7 @@
 ## 
 ### 10-10EZR
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over due to shutdown restrictions on merging_**
+- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over due to unable to identify root cause, pulling in additional assistance_**
 - [ ] **SPRINT GOAL** [#121396](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121396) - [FE] Format "Back" button for consistency
 - [ ] **SPRINT GOAL** [#121397](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121397) - [FE] Update section heading on Review & Submit page
 - [ ] **SPRINT GOAL** [#121401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [FE] Remediate Financials data disappearing from Review & Submit page
