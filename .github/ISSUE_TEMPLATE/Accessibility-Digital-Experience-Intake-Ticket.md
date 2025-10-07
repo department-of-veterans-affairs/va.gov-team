@@ -48,7 +48,8 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] VA 508 office audit
     - [ ] Prepping for a 508 office audit
     - [ ] Reviewing results from a 508 office audit
-- [ ] Review Commercial Off the Shelf (COTS) products for accessibility 
+- [ ] Review Commercial Off the Shelf (COTS) products for accessibility
+- [ ] Collaboration Cycle Support
 - [ ] Accessibility test planning
 - [ ] Support design discovery
 - [ ] Review wireframes or mockups
