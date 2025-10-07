@@ -154,11 +154,12 @@ Probing questions:
 > - Where does the user look first on the recommendation? </br>
 > - Where is the user spending the most time?
 > - Does the user have questions about this process? </br>
+> - (If segemented layout) Does the user notice the "Your Benefits" section? Do they look to it to compare?
 <p>&nbsp;</p>
 
 ## Task 4: Self Review Tool - Step 2 - Your current benefits (5-7 minutes)
 
-**"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the "Your current benefits" information here?"**
+**"What is your first impression and how are you understanding the "Your current benefits" information here?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
@@ -177,7 +178,7 @@ Probing questions:
 
 ## Task 5: Self Review Tool - Step 3 Confirm election (5 minutes)
 
-**"Let's say you are ready to move forward with this distribution, what would do next?"**
+**"Let's say you are ready to move forward with this recommendation, what would do next?"**
 
 Probing questions:
 - What did you notice first on this step?
@@ -196,8 +197,8 @@ Probing questions:
 
 #### OPTIONAL: Future Prioritization
 
-**"Let's say you are ready to confirm this distribution, what would do next?
-"How are you understanding this prioritization? Based on your education goals, which option would you select and why?"**
+**"What would do next? 
+How are you understanding this prioritization? Based on your education goals, which option would you select and why?"**
 
 Probing questions:
 - What did you notice first on this step?
