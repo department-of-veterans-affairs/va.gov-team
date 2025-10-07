@@ -54,8 +54,6 @@
 ### 10-7959c
 - [ ] **SPRINT GOAL** UX: Update Confirmation Page for Print/Save PDF for OHI
   - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
-- [ ] **SPRINT GOAL** 10-7959c: OHI Standalone PDF Updates
-  - [ ] [Epic: OHI Standalone 10-7959c Updates and PDF Switch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102719)
  
 ## 
 ### 10-7959f-1 FMP Enrollment
@@ -72,6 +70,8 @@
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] **STRETCH GOAL** UX: Health Apps Monthly Metrics Pulls
   - [ ] [Data] - Monthly Metrics Request for Health Apps forms - September 2025
+- [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
+  - [ ] [Epic: OHI Standalone 10-7959c Updates and PDF Switch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102719)
 
      
 ##
