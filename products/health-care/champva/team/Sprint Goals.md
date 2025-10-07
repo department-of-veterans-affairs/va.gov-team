@@ -5,12 +5,23 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] UX: FMP claims: research planning/prototype tickets
+- [ ] 10-10d v2: Address staging review findings with fixes to imposter component
+- [ ] 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance
+- [ ] 10-10d v2: Align age flag logic with standalone 10-10D and document implementation
+- [ ] 10-10d: Create integration tests that cover data transformations
+- [ ] 10-10d: Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES
+- [ ] 10-10d: VES Pre-prod testing
+- [ ] 10-7959a: Fix Internal QA issues and address selection to use VaRadio
+- [ ] 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] 10-7959c: Begin updating OHI Standalone PDF
+- [ ] UX: Additional Design Discovery for Ineligible Applicants (Tricare)
+- [ ] UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit
+- [ ] UX: 10-7959a: Add resubmission content to intro page
+- [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
 - [ ] UX: Health Apps: Medallia Report
-- [ ] UX: CVA Claims: Add resubmission content to Claims intro page and add opening a ticket for C/IA to update the static page with resubmission instructions
 - [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
-
-
+- [ ] Stretch goal: Health Apps Monthly Metrics Pulls
+- [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 
 
 
@@ -41,9 +52,8 @@
 - [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues and address selection to use VaRadio
   - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
   - [ ] [[FE] 10-7959a - Improvement: Update address selection to use VaRadio](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120485)
-- [ ] **SPRINT GOAL** Remaining Enhanced Claims Flow Changes from Content/IA
+- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
   - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
-- [ ] **SPRINT GOAL** 10-7959a: Enhanced Claims Flow Confirmation Email Updates
   - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
 - [ ] **SPRINT GOAL** Add resubmission content to intro page
   - [ ] [[UX] CHAMPVA Claims 10-7959a: Add resubmission content to intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120799)
