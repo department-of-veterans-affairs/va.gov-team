@@ -76,6 +76,13 @@ Last updated: [September 15, 2025]
 | 020NI | New/Increase | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 | 020SUPP | eBenefits 526EZ-Supplemental (020) | Previously: Claim for compensation | Oct 6, 2025 | Claim for disability compensation |
 
+## EP 040 - Initial disability compensation claims - Eight issues or more
+- A supplemental claim is filed when a Veteran disagrees with a VA decision and files again with new evidence.
+
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 040BDER | Board DTA Error Rating |  |  |  |
+
 ## EP 110 - Initial Disability Compensation Claims - Seven Issues or Less
 - Initial disability compensation claims containing seven issues or fewer.
 
@@ -139,7 +146,19 @@ Last updated: [September 15, 2025]
 
 | EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
 |---------|-------------|-----------|------------------|---------------------|
+| 400AFM | Attorney Fee Memo | VA process or correction; Should never show to Veterans or other claimants; Office of General Counsel (OGC) review of attorney or agent fee reasonableness | Oct 6, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
 | 400ORR | OGC Reasonableness Review | VA process or correction; Should never show to Veterans or other claimants; Office of General Counsel (OGC) review of attorney or agent fee reasonableness | Sept 12, 2025 | NONE<br>*Filtered out for both mobile and VA.gov* |
+
+
+## EP 510 - FOIA and Privacy Act Requests
+- Either a Privacy Act (PA) request or a Freedom of Information Act (FOIA) request. 
+- A PA request for records is made by the Veteran or approved representative. 
+- A FOIA request can be made by anyone other than the Veteran or approved representative. 
+- Additional information on the receipt of this workload can be found in the M21-1, II.i.2.D.6
+
+| EP Code | Claim Label | Logic + Background | Last updated | Plain Language Title |
+|---------|-------------|-----------|------------------|---------------------|
+| 510PAR | Privacy Act Request | Freedom of Information Act or Privacy Act Request | Oct 6, 2025 | Freedom of Information act or Privacy Act request |
 
 ## EP 930 - Review, Referrals, Other
 - Various corrective actions and quality assurance processes
