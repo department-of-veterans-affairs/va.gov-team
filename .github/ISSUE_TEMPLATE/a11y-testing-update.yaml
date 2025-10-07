@@ -86,18 +86,27 @@ body:
         - Fail
       default: 0
   - type: checkboxes
-    id: color-checks
+    id: automated-checks
     attributes:
       label: Automated testing
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
       options:
         - label: <strong>AXE has been executed for every page.</strong> <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
         - label: <strong>AXE has been integrated in end to end testing.</strong> <br/>End to end testing with Cypress or other libraries includes AXE scanning. <br/>[Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
+  - type: markdown
+    attributes:
+      value: |
+        <details>
+        <summary>Provide screenshots/details for automated testing checks.</summary>
   - type: textarea
     id: color-notes
     attributes:
       label: How did color testing go?
       description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+  - type: markdown
+    attributes:
+      value: |
+        </details>
   - type: markdown
     attributes:
       value: |
