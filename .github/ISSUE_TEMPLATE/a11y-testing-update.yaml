@@ -99,10 +99,15 @@ body:
         <details>
         <summary>Provide screenshots/details for automated testing checks.</summary>
   - type: textarea
-    id: color-notes
+    id: automated-testing-notes
     attributes:
-      label: How did color testing go?
-      description: Do you have any questions or notes? Is there anything you want someone to look at before staging review? Be sure to reference any GitHub issues you've created as a result of this testing.
+      label: Automated testing output
+      description: Please add the results of your automated testing. Provide screenshots of the AXE results organized by url or name of screen tested. If there's a ticket or results from E2E testing, please link to that here. 
+      value: |
+        Axe results screenshots or link to ticket:
+
+        E2E testing results or link to ticket:
+
   - type: markdown
     attributes:
       value: |
