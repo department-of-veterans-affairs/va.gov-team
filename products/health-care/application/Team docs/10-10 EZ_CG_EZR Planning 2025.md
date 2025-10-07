@@ -2,7 +2,7 @@
 - Current Sprint first
 
 ---
-## 📆 Sprint 4 (Sept 24 - Oct 7) 
+## 📆 Sprint 5 (Oct 8 - Oct 21) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
