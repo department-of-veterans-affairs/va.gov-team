@@ -1,4 +1,4 @@
-name: Accessibility Testing
+name: Accessibility Testing Update
 description: Complete required accessibility testing prior to your Staging review.
 title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
 labels: ["a11y-testing"]
@@ -15,8 +15,7 @@ body:
         This issue template will help walk you through [required foundational accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
         
         ### Why we ask VFS teams to do accessibility testing
-        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document the testing you've already done and helps organize your conversation with the accessibility specialist completing the staging review.
-                
+        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document the testing you've already done and helps organize your conversation with the accessibility specialist completing the staging review. 
   - type: markdown
     attributes:
       value: |
@@ -45,7 +44,6 @@ body:
         - [ ] *AXE has been integrated in end to end testing.*
               End to end testing with Cypress or other libraries includes AXE scanning
               [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
-
   - type: checkboxes
     id: terms
     attributes:
