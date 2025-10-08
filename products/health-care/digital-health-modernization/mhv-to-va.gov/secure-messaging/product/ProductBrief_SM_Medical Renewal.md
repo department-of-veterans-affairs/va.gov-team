@@ -32,7 +32,7 @@ The flow will be implemented for both  Vista users and Vista/OH users on web.
 
 **For Web:**
 
-We are implementing a Link to Secure Messaging with pre-filled information by Utilizing the Oracle Health Portal
+We are implementing a Link to Secure Messaging "Start a new message" page that will contain pre-filled details based on the info for the given prescription from MHV Medications API (integrated with OH system for OH RX's)
 
 **For Mobile:**
 
