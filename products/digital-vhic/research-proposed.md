@@ -45,7 +45,7 @@ UX Research: initial notes, thoughts, and questions
     * 🗓️ Timeline: could be immediate. Not a blocker for anything as it’s not going to happen for MVP.
 
 Timeline options of each study within product process:
-![Timeline options of each study within product process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/supporting-files/VA%20Recruitment%20Checker.png)
+![Timeline options of each study within product process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/digital-vhic/supporting_files/VHIC%20proposed%20research%20timeline%20options.png)
 
 
 ## Additional notes
