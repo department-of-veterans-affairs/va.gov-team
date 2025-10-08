@@ -5,8 +5,24 @@ Last updated: October 8, 2025 - general updates to content and structure
 - The Discovery Your Benefits tool is maintained by the VES Transition Experience team
 - Slack channel: [#ves-transition](https://dsva.slack.com/archives/C06C7RS27GD)
 
-### Problem to Solve
-Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are particularly overwhelmed by the transition process. The entire process, from planning, to separation, to adjustment to civilian life can occur over the course of several years. The change to routines and circumstances are a major change and during that time there is an increased risk of creating vulnerable populations. In addition to juggling personal challenges, TSMs and RSVs have no easy way to find the range of benefits which they are eligible for.
+## Roster
+|Name|Role|
+|----|----|
+|Gene Dreyband |VES Lead|
+|Heather Widmont| Program Manager |
+|Anastasia Jakabcin|Product Manager|
+| Theo Bentum  | Engineering Lead | 
+| Mikal Ahmed | Fullstack Engineer |
+|Jessica Woodin|	Designer | 
+|Anna Higgins | Research| 
+ 
+
+### Overview
+Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are particularly overwhelmed by the transition process. The entire process, from planning, to separation, to adjustment to civilian life can occur over the course of several years. The change to routines and circumstances are significant and during that time there is an increased risk of creating vulnerable populations. In addition to juggling personal challenges, TSMs and RSVs have no easy way to find the range of benefits which they are eligible for. 
+
+The Discover Your Benefits (DYB) tool is designed to help support this vulnerable population in their transition from military to civilian life by reaching them sooner in the transition journey. A primary objective is to position the DYB tool as a critical and trustworthy resource to be leveraged in TAP (Transition Assistance Programs) courses across all branches of the military.
+
+The current iteration of the DYB tool is an unauthenticated questionnaire. The long-term vision is to integrated with authenticated services and tools on VA.gov to create a more personalized experience for users that puts them on a path to efficiently navigate and take full advantage of the benefits and services available to them in the authenticated state on VA.gov.
 
 ### Opportunity
 As part of the President's Management Agenda (PMA) and in partnership with VEO and OTED; VA has an opportunity to address the specific needs of TSMs and RSVs. By creating centralized resources and a "front door", we can help navigate benefits for awareness, and make personalized recommendations based on the information we receive. Veteran Transition Support, also known as "Transition Experience" is a product that bridges the gap between DoD and VA for incoming Veterans around core VA benefits (healthcare, disability, education, career planning, housing) and extended benefits from cross agency partners (SBA, DOL, HUD, etc). It can be enriched by connections to various systems and services such as VA.gov personalization, MyVA, Benefit Discovery Service (BDS) and VA Solid Start, as well as any other onboarding programs around Transition.
