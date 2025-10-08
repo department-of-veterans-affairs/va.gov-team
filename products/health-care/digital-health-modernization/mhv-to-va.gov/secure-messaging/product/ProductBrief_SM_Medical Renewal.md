@@ -69,3 +69,14 @@ View all related tickets
 #### November 2025
 
 #### December 2025
+
+
+#### Communications
+
+
+Team Name: MHV on VA.gov and VAHB Secure Messages team
+GitHub Label(s): mhv-secure-messaging
+Slack channel: mhv-secure-messaging
+Product POCs: Patrick Bateman; Stacy Blackwood
+Mobile: Jayson Perkins (Lead Dev on Mobile)
+
