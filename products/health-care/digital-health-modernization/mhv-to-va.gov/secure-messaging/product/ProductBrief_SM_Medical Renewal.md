@@ -38,35 +38,30 @@ We are implementing a Link to Secure Messaging with pre-filled information by Ut
 We are Update VAHB FE to include a button within RX that will navigate the user to a the new message screen and pre-fill details based on the info for the given prescription
 
 
-**Target Dates**: Medications Team would like to do testing in October timeframe with a possible Go Live in December
-
 ### Assumptions/Risks (Update Here)
 
 - We assume that the EHRM/Oracle Health recipient objects and messaging APIs operate as stated in production
 - We assume there is no reliable way to get patient-to-recipient mappings for EHRM/Oracle Health recipient objects
-### Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs) (Udpate Here)
 
-####
-**Resources:**
-Medications Team's Design Explorations
+
+### **Resources:**
+
+-Medications Team's Design Explorations
 https://www.figma.com/design/cqiuYyA1vn728D0Nde2NgS/Medications---Milestone-1---2?node-id=16957-25194&p=f&t=i20DbkMG9gL9aHe3-0
 
-SM Sprint Spike Explorations
+-SM Sprint Spike Explorations
 https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4423-105558&t=LJsqgk7rTsSVkxYl-1
 
-Current Sprint Figma
-
-Medication Renewal Information
-Request a prescription online
-MHV Pharmacy User Guide
 
 
-#### Go-to-market 
+#### Go-to-market  (Update Here)
 - Internal communications to MHV Coordinators and help desk staff to ensure they are aware of how the feature works and can guide users who need help.
 - External communication notifying patients at EHRM transitioned sites that they can now message their providers on VA.gov.
 
 
 ## Launch Planning
+ Medications Team would like to do testing in October timeframe with a possible Go Live in December
 
 ### Collaboration Cycle
 View all related tickets
