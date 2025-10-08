@@ -62,10 +62,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-<details>
-
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
+
+<details>
     
 **Primary Goals (May shift based on stretch goal dependencies)**
 | Priority ID | Title | S.Epic |  Goal + Info |  Discipline | Dependency |  End of Quarter Status |
