@@ -9,13 +9,6 @@ We are enabling Veterans to submit evidence to support their mental health condi
 *What problem is your product trying to solve?*
 
 Although opting into the 0781 form is optional, once the Veteran does so, they need to provide evidence to support their stated mental health conditions. If the Veteran doesn’t provide the correct evidence, it can delay adjudication or result in their claim being denied. Additionally if the Veteran doesn’t provide enough of the right kind of evidence, the VBA will not be equipped to follow up on these items, leading to their claim being denied. 
-
-ut the problem of if people submit an 0781 without evidence, it can delay adjudication or even result in their claim being denied.
-
-Worth mentioning, that the bar to obtain this evidence for online submissions is higher than usual.
-
-Typically, VBMS would have the option to develop claims for evidence further. In this case, because we're not ticking off boxes for individual items, VBA will not be equipped to follow up on these items.
-
  
 
 ### Where is your product situated on VA.gov? (ex: auth vs. unauth)
@@ -90,7 +83,7 @@ This research will give us a better understanding of claimants’ understanding 
 
 We propose semi-structured user interviews and observations for this study. This research will be moderated remotely on Zoom to support screen sharing. 
 
-The goal of these interviews is to understand the underlying meaning behind why participants hold certain views and have particular needs. Although the design is high-fidelity and fairly refined, we are proposing a discovery-leaning methodology so that we can gather stories that users create about the content that they are seeing. We are choosing not to do an unmoderated usability study because the process of uploading condition-appropriate documentation is highly specific to the individual; setting up a study like this would take an immense amount of preparation that does not feel appropriate at this time. However, as part of this semi-structured approach, the researcher may ask participants to complete certain small tasks. These tasks are to serve as a manifestation of a user’s understanding of the content and structure of the design. 
+Although the design is high-fidelity and fairly refined, we are proposing a discovery-leaning methodology so that we can gather stories that users create about the content that they are seeing. We are choosing not to do an unmoderated usability study because the process of uploading condition-appropriate documentation is highly specific to the individual; setting up a study like this would take an immense amount of preparation that does not feel appropriate at this time. However, as part of this semi-structured approach, the researcher may ask participants to complete certain small tasks. These tasks will be followed with questions to understand the why behind the participant's choices and understanding. 
 
 ### **Location**
 
@@ -98,17 +91,17 @@ Remote, Zoom
 
 ## **Research materials 📔**
 
-* \[Link to conversation guide\](url goes here)  
+* [Conversation Guide](https://docs.google.com/document/d/1__VmGqotZ0a1VN6CE21tmM_85DknxqPj4LGNQZTHRyg/edit?tab=t.0#heading=h.riux8c4sekhk)
 * \[Link to prototype\](url goes here)
 
 ## **Recruitment 🎯**
 
 ### **Recruitment approach**
 
-* Veterans: 9  
+* Veterans: 10  
 * Caregivers: 0  
 * Dependents: 0  
-* Total: 9  
+* Total: 10  
 * Ideal completed sessions: 7
 
 ### **Primary criteria (must-haves)**
@@ -116,7 +109,7 @@ Remote, Zoom
 * Return claimants who have filed a 526 and an 0781, with mental health conditions  
   * Their most recent application should be within the past 5 years  
   * Applications can be paper or digital  
-  * We are looking for at least 4 participants in this category  
+  * We are looking for at least 3 participants in this category  
 * Claimants who have never filed for a disability benefit and have a mental health condition(s) 
   * This group can also include those who have started the process but never completed filing  
   * We are looking for at least 4 participants in this category  
