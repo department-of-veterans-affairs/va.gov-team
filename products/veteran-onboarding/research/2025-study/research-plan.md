@@ -33,7 +33,7 @@ This research will determine which modal version to implement and identify any u
 ## Research Questions
 
 1. What are new Veterans current experiences and pain points when first accessing VA.gov?
-2. How do new Veterans decide what to do first on VA.gov and what causes them to feel overwhelmed?
+2. How do new Veterans decide what to do first on VA.gov?
 3. Which modal version (application-focused vs. exploration-focused) do new Veterans prefer and why?
 4. What are the usability issues and pain points with each modal version?
 5. How well do the modal options align with new Veterans actual priorities and needs?
