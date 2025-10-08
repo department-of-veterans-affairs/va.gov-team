@@ -53,7 +53,7 @@ Last updated: 10/7/2025
 | [21-0966](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966)                                                | LOA3 | | ✅ | |
 | [21-0972](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972)                                                 | No Auth + LOA1 | | | |
 | [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                           | No Auth + LOA1 | | | |
-| [21P-0537](https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537)                                         | No Auth + LOA1 | ✅ | | |
+| [21P-0537](https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537)                                         | No Auth + LOA1 |  | ✅ | |
 | [21P-0847](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847)                                        | No Auth + LOA1 | | | |
 | [21P-526EZ](https://staging.va.gov/disability/file-disability-claim-form-21-526ez)                                                       | LOA3 | | ✅ | |
 | [21P-527EZ](https://staging.va.gov/pension/apply-for-veteran-pension-form-21p-527ez)                                                     | LOA3 | | ✅ | |
