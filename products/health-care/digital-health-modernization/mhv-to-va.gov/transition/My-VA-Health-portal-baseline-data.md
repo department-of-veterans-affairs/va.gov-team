@@ -104,3 +104,17 @@ Notes:
    * When users who have this URL (but don't have any affiliation with the 6 named VA healthcare facilities in the table at the top of this page) complete authentication, they'll hit an error page. Instead, I'd love to revisit that & discuss re-directing those users to `/my-health` (with an error alert) instead.
 
 ## <a name="questions">Questions</a>
+Some key research questions remain around behaviors of OH health users and their sentiment toward more change around managing their healthcare / being bumped to another health portal again. 
+
+Various users at different OH facilities could have varying opinions, for example Columbus OH users have been on My VA Health portal for a long time, but may already be "hybrid users" (may receive care at another VA in the state of Ohio, and all other facilities run on the VistA EHR system and use My HealtheVet on VA.gov) 
+
+Questions: 
+* How do Oracle health users access the My VA Health portal?
+* Is it easy for them to get there?
+* What do they think about My HealtheVet on VA.gov?
+* How does a transition make them feel?
+* What language would best explain the transition to them and motivate them to stay on VA.gov?
+* What are consequences to making the My VA Health portal harder for them to use?
+* What questions or frustrations do they have with the idea of a patient portal transition?
+
+These questions will hopefully be answered in an upcoming study wtih OH users related to the transition to understand their sentiment / how they respond to low-fidelity prototypes that mimic the tactics we have planned for Dec 2025-Jan 2026. The study will take place in October 2025, and results of that study will be posted in the research folder. 
