@@ -1,22 +1,18 @@
-## Types of appointment reminders
-* Appointment reminders
-* Appointment cancellations (by VA)
-* Pending appointments
+# Product Processes on MHV FrontEnd
 
-## Discovery research
+## Purpose
 
-Per our working document on [notification definitions and working principles ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/notifications/notification_definitions_and_ux_principles.md), the lightweight dot or badge notification design is a simple indicator that that intends to signal new or unread content in a relevant area on either MyVA or the MHV on VA.gov landing page. This design is being implemented for secure messages, but may not scale to all types of notifications, particularly those that require additional context to make sense (when a dot next to specific link text does not clearly express what the dot is referencing). 
+We want to ensure that all of the processes that we use between and among our teams on MHV FrontEnd continually operate with clarity and efficiency.  To that end, we want to advocate for consistency where possible, pariticularly in areas of overlap or interaction.  For this reason, we have identified Best Practices for the various processes that our teams practice regularly, and we will adjust and refine them as we go.  
 
-Possible future problems with scaling the lightweight dot notification to all appointment notifications: 
-* The dot will not support appointment cancellations, which cannot clearly be linked to or indicated with simple link text on the existing MHV to VA.gov landing page. Additional context will be necessary to convey a cancelled appointment, and may need to include CTAs, such as next steps for the Veteran to reschedule the cancelled appointment.
-* The dot will also not be able to support pending appointments for the same reason - this notification is less straightforward and will require content/context to make sense.
-* With 3 types of notifications for appointments alone, is it confusing that each has a different notification type? Will users understand which notification type the dot is referencing? How will they tell the difference?
+The processes outlines below are intended to constrain, but to provide frameworks that all of our teams and members can easily navigate.
 
-### 1. Appointment reminders 
-```Status: In Design Phase```
 
-#### UX analysis: 
-We believe that a reminder about an upcoming appointment is very similar to the current implementation of the dot notification to signal a new or unread secure message. This indicator next to specific link text such as "Upcoming Appointments" that indicates exactly what the dot references would be fairly intuitive, and users could likely follow the dot pattern down to that product to see their upcoming appointments. We also know that this notification is technically feasible to deliver to users.
+### PR Reviews
+To ensure that PR Reviews happen within teams and between teams reliably and without delay, please use the following practices for the given scenario:
+#### PR Reviews within a team: 
+xxxxxxx
+#### PR Reviews needed from other teams: 
+oooooo
 
-**Comments from appointments team members:**
+**bold**
 
