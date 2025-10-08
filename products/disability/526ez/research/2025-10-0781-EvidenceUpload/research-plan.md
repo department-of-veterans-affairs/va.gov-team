@@ -29,9 +29,7 @@ Veterans are currently uploading documents in the last step of the form. This se
 
 ### Product Brief
 
-- [**Superepic link**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107258)
-
-- [Help Veterans provide evidence to support their mental health statement (0781) and all other conditions in a single section of the Disability form (526) \#114046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114046)
+- This superepic serves as our brief: [Help Veterans provide evidence to support their mental health statement (0781) and all other conditions in a single section of the Disability form (526) \#114046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114046)
 
 ### [**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
