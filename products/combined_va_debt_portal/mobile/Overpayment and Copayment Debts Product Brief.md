@@ -91,6 +91,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 ## Solution Approach
 
 * The MVP to provide Veterans with the ability to make a debt payment, request help with their debt, or dispute a debt will include linking them to their Debt Portal on VA.gov. In future iterations, we plan to allow Veterans to take these actions within app, so Veterans have a seamless user experience. As of April 2025, this is dependent on the Financial Management Team.
+* As of 10/6/2025 we will be implementing the new Copay API into the MVP release of Overpay/Copay. The MFS team will need to create the mobile API. 
 
 ## Decision Log
 
