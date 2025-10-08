@@ -31,17 +31,17 @@ Last updated: 10/7/2025
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
-| [686c-674](https://staging.va.gov/manage-dependents/add-remove-form-21-686c)                                                             | LOA1 | | | |
+| [686c-674](https://staging.va.gov/manage-dependents/add-remove-form-21-686c)                                                             | LOA3 | | | |
 | [1095-B](https://staging.va.gov/records/download-1095b)                                                                                  | LOA3 | | | |
 | [5655 Financial Status Report](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655)                                        | LOA3 | | | |
 | [10182](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182)                                            | LOA3 | | | |
 | [10-10CG](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg)    | LOA3 | | | |
 | [10-10D](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)                           | No Auth | | | |
 | [10-10d Extended](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-champva-form-10-10d)          | LOA1 | | | |
-| [10-10EZ](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez)                                                         | LOA3 | | | |
+| [10-10EZ](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez)                                                         | No Auth + LOA1 | | | |
 | [10-10EZR](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr)                                                   | LOA3 | | | |
-| [10-7959A](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a)               | No Auth | | | |
-| [10-7959C](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)      | No Auth | | | |
+| [10-7959A](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a)               | No Auth + LOA1 | | | |
+| [10-7959C](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)      | No Auth + LOA1 | | | |
 | [10-7959f-1](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1)                                        | LOA1 | | | |
 | [10-7959f-2](https://staging.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2)                           | LOA3 | | | |
 | [20-0995](https://staging.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995)                               | LOA3 | | | |
@@ -54,51 +54,50 @@ Last updated: 10/7/2025
 | [21-0845](https://staging.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845)                                     | LOA3 | | | |
 | [21-0966](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966)                                                | LOA3 | | | |
 | [21-0972](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972)                                                 | No Auth | | | |
-| [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                           | No Auth | | | |
-| [21P-0969](https://staging.va.gov/supporting-forms-for-claims/submit-income-and-asset-statement-form-21p-0969)*                            | LOA1 | | | |
+| [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                           | No Auth + LOA1 | | | |
 | [21P-0537](https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537)                                         | No Auth | | | |
-| [21P-0847](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847)                                        | No Auth | | | |
+| [21P-0847](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847)                                        | No Auth + LOA1 | | | |
 | [21P-526EZ](https://staging.va.gov/disability/file-disability-claim-form-21-526ez)                                                       | LOA3 | | | |
 | [21P-527EZ](https://staging.va.gov/pension/apply-for-veteran-pension-form-21p-527ez)                                                     | LOA3 | | | |
 | [21P-530ez](https://staging.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530ez)                       | LOA1 | | | |
 | [21P-530](https://staging.va.gov/burials-and-memorials/application/530)                                                                  | LOA3 | | | |
-| [22-0994](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994) | No auth | | | |
-| [22-1990](https://staging.va.gov/education/apply-for-gi-bill-form-22-1990)                                                               | LOA1/3? | | | |
-| [22-1990e](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e)  | LOA3?| | | |
-| [22-1995](https://staging.va.gov/education/apply-for-education-benefits/application/1995)                                                | LOA1 | | | |
-| [22-5490](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490)                     | LOA1 | | | |
-| [22-5495](https://staging.va.gov/education/apply-for-education-benefits/application/5495)                                                | LOA1 | | | |
-| [22-10203](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203)            | No Auth | | | |
-| [22-10215](https://staging.va.gov/school-administrators/85-15-rule-enrollment-ratio)                                                         | No Auth | | | |
-| [22-10275](https://staging.va.gov/school-administrators/commit-principles-of-excellence-form-22-10275)                                    | No Auth | | | |
-| [22-10297](https://staging.va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297)                        | No Auth | | | |
-| [22-10282](https://staging.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282)                        | No Auth | | | |
+| [22-0994](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994) | No Auth + LOA1 | | | |
+| [22-1990](https://staging.va.gov/education/apply-for-gi-bill-form-22-1990)                                                               | No Auth + LOA1 | | | |
+| [22-1990e](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e)  | No Auth + LOA1 | | | |
+| [22-1995](https://staging.va.gov/education/apply-for-education-benefits/application/1995)                                                | No Auth + LOA1 | | | |
+| [22-5490](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490)                     | No Auth + LOA1 | | | |
+| [22-5495](https://staging.va.gov/education/apply-for-education-benefits/application/5495)                                                | No Auth + LOA1 | | | |
+| [22-10203](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203)            | No Auth + LOA1 | | | |
+| [22-10215](https://staging.va.gov/school-administrators/85-15-rule-enrollment-ratio)                                                         | No Auth + LOA1 | | | |
+| [22-10275](https://staging.va.gov/school-administrators/commit-principles-of-excellence-form-22-10275)                                    | No Auth + LOA1 | | | |
+| [22-10297](https://staging.va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297)                        | No Auth + LOA1 | | | |
+| [22-10282](https://staging.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282)                        | No Auth + LOA1 | | | |
 | [25-8832](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-25-8832)                    | LOA1 | | | |
 | [26-1880](https://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880)                                                   | LOA1 | | | |
-| [26-4555](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)                              | LOA3 | | | |
-| [28-1900](https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900)                                    | LOA3? | | | |
-| [40-0247](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247)    | No Auth | | | |
+| [26-4555](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)                              | LOA1 | | | |
+| [28-1900](https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900)                                    | LOA3 | | | |
+| [40-0247](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247)    | No Auth + LOA1 | | | |
 | [40-10007](https://staging.va.gov/burials-memorials/pre-need-eligibility/apply-for-eligibility-form-40-10007)                            | LOA3 | | | |
-| [After visit summary](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary)                                | LOA1 | | | |
+| [After visit summary](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary)                                | LOA3 | | | |
 | [Appointments](https://staging.va.gov/my-health/appointments)                                                                            | LOA3 | | | |
-| [Ask VA](https://staging.va.gov/contact-us/ask-va)                                                                                       | No Auth | | | |
+| [Ask VA](https://staging.va.gov/contact-us/ask-va)                                                                                       | No Auth + LOA1 | | | |
 | [Check-in](https://staging.va.gov/health-care/appointment-check-in)                                                                        | No Auth | | | |
 | [Claims Status](https://staging.va.gov/track-claims)                                                                                     | LOA1 | | | |
-| [COVID Screener](https://staging.va.gov/covid19screen)                                                                                   | LOA1 | | | |
+| [COVID Screener](https://staging.va.gov/covid19screen)                                                                                   | No Auth | | | |
 | [COVID Vaccination](https://staging.va.gov/health-care/covid-19-vaccine)                                                                 | No Auth | | | |
 | [Coronavirus Research](https://staging.va.gov/coronavirus-research/volunteer)                                                            | No Auth | | | |
-| [Debt](https://staging.va.gov/manage-va-debt/summary)                                                                                    | LOA1? | | | |
-| [Decision Review onramp](https://staging.va.gov/decision-reviews/explore-disability-claim-decision-review-options)                             | No Auth (only) | | | |
-| [Discharge Wizard](https://staging.va.gov/discharge-upgrade-instructions/introduction/)                                                    | No Auth (only) | | | |
-| [Discover Your Benefits](https://staging.va.gov/discover-your-benefits)                                                                     | No Auth (only) | | | |
+| [Debt](https://staging.va.gov/manage-va-debt/summary)                                                                                    | LOA1 | | | |
+| [Decision Review onramp](https://staging.va.gov/decision-reviews/explore-disability-claim-decision-review-options)                             | No Auth | | | |
+| [Discharge Wizard](https://staging.va.gov/discharge-upgrade-instructions/introduction/)                                                    | No Auth | | | |
+| [Discover Your Benefits](https://staging.va.gov/discover-your-benefits)                                                                     | No Auth | | | |
 | [Education 35% exemption](https://staging.va.gov/school-administrators/35-percent-exemption)                                 | No Auth | | | |
-| [Education Letters](https://staging.va.gov/education/download-letters/letters)                                                           | No Auth | | | |
-| [Enrollment verification](https://staging.va.gov/education/verify-school-enrollment/enrollment-verifications)                             | No Auth | | | |
+| [Education Letters](https://staging.va.gov/education/download-letters/letters)                                                           | LOA1 | | | |
+| [Enrollment verification](https://staging.va.gov/education/verify-school-enrollment/enrollment-verifications)                             | LOA1 | | | |
 | [Form Upload](https://staging.va.gov/find-forms/upload)                                                                                  | LOA3 | | | |
 | [GI Bill Comparison](https://staging.va.gov/education/gi-bill-comparison-tool)                                                           | No Auth | | | |
 | [GI Bill School Feedback Tool](https://staging.va.gov/education/submit-school-feedback)                                                        | No Auth | | | |
 | [GI Bill Status](https://staging.va.gov/education/gi-bill/post-9-11/ch-33-benefit)                                                       | LOA1 | | | |
-| [Hearing Aid Batteries](https://staging.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form)                                      | LOA3/1 | | | |
+| [Hearing Aid Batteries](https://staging.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form)                                      | LOA3 | | | |
 | [Health Questionnaire](https://staging.va.gov/health-care/healthcare-questionnaire)                                                      | No Auth | | | |
 | [Income Limits](https://staging.va.gov/health-care/income-limits)                                                                           | No Auth | | | |
 | [Letters](https://staging.va.gov/records/download-va-letters)                                                                            | LOA1 | | | |
@@ -108,7 +107,7 @@ Last updated: 10/7/2025
 | [MHV Secure Messaging](https://staging.va.gov/my-health/secure-messages)                                                                 | LOA3 | | | |
 | [MHV](https://staging.va.gov/my-health)                                                                                                  | LOA3 | | | |
 | [My VA](https://staging.va.gov/my-va)                                                                                                    | LOA1 | | | |
-| [Payment History](https://staging.va.gov/va-payment-history/payments)                                                                    | LOA1/LOA3? | | | |
+| [Payment History](https://staging.va.gov/va-payment-history/payments)                                                                    | LOA1 | | | |
 | [PCPG](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vr-e/pcpg-form)                                       | No Auth | | | |
 | [Pre-check-in](https://staging.va.gov/health-care/appointment-pre-check-in)                                                                | No Auth | | | |
 | [Order medical supplies](https://staging.va.gov/my-health/order-medical-supplies)                                                        | LOA3 | | | |
@@ -119,6 +118,7 @@ Last updated: 10/7/2025
 | [Yellow Ribbon](https://staging.va.gov/school-administrators/submit-yellow-ribbon-program-agreement-form-22-0839)                        | No Auth | | | |
 | [VA Home loan](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe)                                             | LOA1 | | | |
 | [Virtual Agent](https://staging.va.gov/contact-us/virtual-agent)                                                                           | LOA1 | | | |
+
 
 
 ## Summary
