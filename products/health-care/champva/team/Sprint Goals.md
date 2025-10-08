@@ -70,7 +70,7 @@
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
-  - [ ] [Epic: OHI Standalone 10-7959c Updates and PDF Switch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102719)
+  - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
 
      
 ##
