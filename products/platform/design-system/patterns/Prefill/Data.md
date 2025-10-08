@@ -105,7 +105,6 @@ Last updated: 10/7/2025
 | [MHV](https://staging.va.gov/my-health)                                                                                                  | LOA3 | | | |
 | [My VA](https://staging.va.gov/my-va)                                                                                                    | LOA1 | | | |
 | [Payment History](https://staging.va.gov/va-payment-history/payments)                                                                    | LOA1 | | | |
-| [PCPG](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vr-e/pcpg-form)                                       | No Auth | | | |
 | [Rated Disabilities](https://staging.va.gov/disability/view-disability-rating/rating)                                                      | LOA1 | | | |
 | [Travel Pay](https://staging.va.gov/my-health/travel-pay)                                                                                | LOA3 | | | |
 | [VA Profile](https://staging.va.gov/profile)                                                                                             | LOA1 | | | |
