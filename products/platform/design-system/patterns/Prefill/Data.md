@@ -31,17 +31,17 @@ Last updated: 10/7/2025
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
-| [686c-674](https://staging.va.gov/manage-dependents/add-remove-form-21-686c)                                                             | LOA3 | ✅ | | |
+| [686c-674](https://staging.va.gov/manage-dependents/add-remove-form-21-686c)                                                             | LOA3 | | ✅  | |
 | [5655 Financial Status Report](https://staging.va.gov/manage-va-debt/request-debt-help-form-5655)                                        | LOA3 | | | |
-| [10182](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182)                                            | LOA3 | ✅ | | |
+| [10182](https://staging.va.gov/decision-reviews/board-appeal/request-board-appeal-form-10182)                                            | LOA3 | | ✅ | |
 | [10-10CG](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg)    | LOA3 | | | |
-| [10-10D](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)                           | No Auth + LOA1 | ✅ | | |
-| [10-10EZ](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez)                                                         | No Auth + LOA1 | ✅ | | |
-| [10-10EZR](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr)                                                   | LOA3 | ✅ | | |
-| [10-7959A](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a)               | No Auth + LOA1 | ✅ | | |
-| [10-7959C](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)      | No Auth + LOA1 | ✅ | | |
-| [10-7959f-1](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1)                                        | LOA1 | ✅ | | |
-| [10-7959f-2](https://staging.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2)                           | LOA3 | ✅ | | |
+| [10-10D](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d)                           | No Auth + LOA1 |  |✅ | |
+| [10-10EZ](https://staging.va.gov/health-care/apply-for-health-care-form-10-10ez)                                                         | No Auth + LOA1 |  |✅ | |
+| [10-10EZR](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr)                                                   | LOA3 | |  ✅ | |
+| [10-7959A](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a)               | No Auth + LOA1 | | ✅ | |
+| [10-7959C](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)      | No Auth + LOA1 || ✅  | |
+| [10-7959f-1](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1)                                        | LOA1 | | ✅ | |
+| [10-7959f-2](https://staging.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2)                           | LOA3 | | ✅ | |
 | [20-0995](https://staging.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995)                               | LOA3 | ✅ | | |
 | [20-0996](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996)                          | LOA3 | ✅ | | |
 | [20-10206](https://staging.va.gov/records/request-personal-records-form-20-10206)                                                        | LOA3 | | | |
