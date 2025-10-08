@@ -97,16 +97,16 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] 10-10d/1-7959c Merge: Address staging review findings with fixes to radio buttons, content, and alerts.
+- [x] 10-10d/1-7959c Merge: Address staging review findings with fixes to radio buttons, content, and alerts.
 - [ ] Begin Staged Launch of 1010d/10-7959c Merge 
-- [ ] Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
-- [ ] Fix screen reader announcement on radio buttons in ChampVA Claims 
-- [ ] Finalize confirmation emails  for FMP  Claims
-- [ ] Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended 
-- [ ] UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
-- [ ] UX: Update FMP service blueprint
-- [ ] UX:  Make suggested content updates in figma for OHI integration into 1010d
-- [ ] UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
+- [x] Add new document upload pages for Sendback and EOB in ChampVA Claims resubmissions
+- [x] Fix screen reader announcement on radio buttons in ChampVA Claims 
+- [x] Finalize confirmation emails  for FMP  Claims
+- [x] Spike: Dynamic VA Notify emails based on if an OHI was generated in 1010d extended 
+- [x] UX: Finish updating FMP Claims for Direct Deposit, hand off to content team for review
+- [x] UX: Update FMP service blueprint
+- [x] UX:  Make suggested content updates in figma for OHI integration into 1010d
+- [x] UX: Update confirmation page in figma to support pdf download for 10-10d extended and ChampVA Claims
 - [ ] Stretch goal: Health Apps Monthly Metrics Pulls
 
 
