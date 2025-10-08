@@ -134,7 +134,7 @@ Probing questions (can be asked per question):
 **"What would you do next?"**
 
 #### Things to watch for:
-> - Is there any confusion or hesitatation?
+> - Is there any confusion or hesitation?
 > - Does it build users confidence to see answer these additional questions?
 > - Does the use exhibit any fatigue in answering the questions?
 
@@ -232,10 +232,7 @@ Probing questions:
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day!
 <p>&nbsp;</p>
 
 <!-- ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
