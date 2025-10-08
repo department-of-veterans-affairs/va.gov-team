@@ -42,20 +42,20 @@ Last updated: 10/7/2025
 | [10-7959C](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)      | No Auth + LOA1 || ✅  | |
 | [10-7959f-1](https://staging.va.gov/health-care/foreign-medical-program/register-form-10-7959f-1)                                        | LOA1 | | ✅ | |
 | [10-7959f-2](https://staging.va.gov/health-care/file-foreign-medical-program-claim/file-claim-form-10-7959f-2)                           | LOA3 | | ✅ | |
-| [20-0995](https://staging.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995)                               | LOA3 | ✅ | | |
-| [20-0996](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996)                          | LOA3 | ✅ | | |
+| [20-0995](https://staging.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995)                               | LOA3 | | ✅ | |
+| [20-0996](https://staging.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996)                          | LOA3 | | ✅ | |
 | [20-10206](https://staging.va.gov/records/request-personal-records-form-20-10206)                                                        | LOA3 | | | |
 | [20-10207](https://staging.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207)                                 | LOA3 | | | |
 | [21A](https://staging.va.gov/representative/accreditation/attorney-claims-agent-form-21a)                                                | LOA3 | ✅ | | |
 | [21-22/21-22A](https://staging.va.gov/decision-reviews/get-help-with-review-request)                                                     | LOA3 | ✅ | | |
 | [21-4142](https://staging.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142)                                     | LOA3 | | | |
 | [21-0845](https://staging.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845)                                     | LOA3 | | | |
-| [21-0966](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966)                                                | LOA3 | ✅ | | |
+| [21-0966](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966)                                                | LOA3 | | ✅ | |
 | [21-0972](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972)                                                 | No Auth + LOA1 | | | |
 | [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                           | No Auth + LOA1 | | | |
 | [21P-0537](https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537)                                         | No Auth + LOA1 | ✅ | | |
 | [21P-0847](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847)                                        | No Auth + LOA1 | | | |
-| [21P-526EZ](https://staging.va.gov/disability/file-disability-claim-form-21-526ez)                                                       | LOA3 | ✅ | | |
+| [21P-526EZ](https://staging.va.gov/disability/file-disability-claim-form-21-526ez)                                                       | LOA3 | | ✅ | |
 | [21P-527EZ](https://staging.va.gov/pension/apply-for-veteran-pension-form-21p-527ez)                                                     | LOA3 | ✅ | | |
 | [21P-530ez](https://staging.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530ez)                       | LOA1 | ✅ | | |
 | [21P-530](https://staging.va.gov/burials-and-memorials/application/530)                                                                  | LOA3 | ✅ | | |
