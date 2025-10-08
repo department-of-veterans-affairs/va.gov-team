@@ -28,7 +28,7 @@ The flow will be implemented for both  Vista users and Vista/OH users on web.
 
 **Note:** Medication status would trigger and lead to at renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
 
-### What we are building (Udpate Here)
+### What we are building 
 
 **For Web:**
 
