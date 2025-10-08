@@ -45,32 +45,16 @@ description: "A template for moderating research sessions including logistics, i
 
 
 
-# 🚧 🚧 🚧 Intro
+# ✅ ✅ ✅ Intro
 
 Thank you so much for joining today. My name is Emily, and [NAME] here will be taking notes. I also have a couple other colleagues in the digital waiting room who would like to observe, but we’ll get to that momentarily.
 
 Today, we’ll be discussing how people think about and manage certain financial items. We'll be going over debt from VA benefit overpayments and VA medical copays. I'd like to check in first – are you comfortable dicussing these topics?
 
 I'm part of the team working on the VA mobile app and VA.gov, helping to create great experiences for Veterans managing their benefits, finances, and healthcare.
-What I hope to do today is to get a sense of how you want to manage your VA finances
-where our financial management tools may be missing the mark so that we can make the process better.
-I want you to know up front that I won't be able to solve issues for you right now – I don't have any access to your records, nor any contact with billing and debt departments.
+What I hope to do today is to get a sense of how you want to manage your VA finances, and how our tools can support that.
+I want you to know up front that I won't be able to solve issues for you right now – I don't have any access to your records, nor any direct contact with billing and debt departments.
 I do want to know about your frustrations in case there are things we can improve in the future.
-
-make it a better experience for Veterans so that they can 
-gathering information to improving it so Veterans can submit their strongest claims, know what's happening with their claims, and get benefits as quickly as possible.
-
-What I hope to do today is get a sense of where [xxx] is missing the mark so we can make the process better.
-
-What I don't want to do is add to any frustration you may have had with getting benefits. We may look at things that have caused serious frustration—and I want you know up front that I can't make that better right now. I don't have any contact with claims reviewers, and I don't have any access to your records.
-
-I do want to know about frustrations in case they're things we can improve in the future.
-
-
-
-
-
-
 
 
 Before we start, I have a few logistics to cover:
