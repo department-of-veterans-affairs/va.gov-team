@@ -36,6 +36,15 @@ There are two ways for users with Oracle Health facilities to access this portal
 <img width="806" height="505" alt="image (49)" src="https://github.com/user-attachments/assets/b5c0e881-7ead-44a2-9b49-8b59afce9db0" />
 <img width="798" height="520" alt="image (50)" src="https://github.com/user-attachments/assets/99066ed3-b19f-4002-bb98-3156cc7b9957" />
 
+```mermaid
+pie title Pages converting users to MVH
+    "Medications refill" : 23
+    "Lab and test results" : 31
+    "Care notes & summaries" : 14
+    "Appointments" : 20
+    "Other" : 12
+```
+
 * Based on GA4 data between January-April 2025, about 50% of My VA Health portal users got there from a link on the My VA (on VA.gov) page
   * This alert was **removed** from the My VA page per our instruction - I think in July
   * Background to that decision: Milestone 2 tactics (June 2025) surrounding the sunsetting of MHV Classic were to eliminate confusing "dual-portal" messaging alerts from VA.gov unauthenticate pages so that we wouldn't have to deal communicating how to access 3 different portals. More background on that decision [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
