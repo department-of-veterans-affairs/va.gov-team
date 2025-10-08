@@ -86,7 +86,7 @@ Our recruiting goal is to have 2 types of representatives:
 - Veterans or active-duty Service members who have experience (applied and/or used) GI Bill benefits (Category A)
 - Veterans or active-duty Service members who do not have experience with GI Bill benefits (Category B)
 
-**Please recruit for 10 fulfilled sessions** using the following criteria:
+**Please recruit for 10 fulfilled sessions (recruit for a total of 15 participants to account for no-show rate)** using the following criteria:
 
 **Must have for participants**
 - At least 1 woman of color
