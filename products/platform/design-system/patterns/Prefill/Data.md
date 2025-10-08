@@ -51,8 +51,8 @@ Last updated: 10/7/2025
 | [21-4142](https://staging.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142)                                     | LOA3 | | | |
 | [21-0845](https://staging.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845)                                     | LOA3 | | | |
 | [21-0966](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966)                                                | LOA3 | | ✅ | |
-| [21-0972](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972)                                                 | No Auth + LOA1 | | | |
-| [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                           | No Auth + LOA1 | | | |
+| [21-0972](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972)                                              | LOA1 | | | |
+| [21-10210](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210)                                       | LOA1 | | | |
 | [21P-0537](https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537)                                         | No Auth + LOA1 |  | ✅ | |
 | [21P-0847](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847)                                        | No Auth + LOA1 | | | |
 | [21P-526EZ](https://staging.va.gov/disability/file-disability-claim-form-21-526ez)                                                       | LOA3 | | ✅ | |
@@ -98,7 +98,6 @@ Last updated: 10/7/2025
 | [Health Questionnaire](https://staging.va.gov/health-care/healthcare-questionnaire)                                                      | No Auth | | | |
 | [Income Limits](https://staging.va.gov/health-care/income-limits)                                                                           | No Auth | | | |
 | [Letters](https://staging.va.gov/records/download-va-letters)                                                                            | LOA1 | | | |
-| [Medallions](https://staging.va.gov/burials-and-memorials/memorial-items/headstones-markers-medallions)                                  | No Auth + LOA1 |  | ✅ | |
 | [MHV Medical Records](https://staging.va.gov/my-health/medical-records)                                                                  | LOA3 | | | |
 | [MHV Medications](https://staging.va.gov/my-health/medications)                                                                          | LOA3 | | | |
 | [MHV Secure Messaging](https://staging.va.gov/my-health/secure-messages)                                                                 | LOA3 | | | |
