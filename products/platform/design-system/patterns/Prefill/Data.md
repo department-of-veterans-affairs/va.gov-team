@@ -59,21 +59,21 @@ Last updated: 10/7/2025
 | [21P-527EZ](https://staging.va.gov/pension/apply-for-veteran-pension-form-21p-527ez)                                                     | LOA3 | | ✅ | |
 | [21P-530ez](https://staging.va.gov/burials-memorials/veterans-burial-allowance/apply-for-allowance-form-21p-530ez)                       | LOA1 | | ✅ | |
 | [21P-530](https://staging.va.gov/burials-and-memorials/application/530)                                                                  | LOA3 | | ✅ | |
-| [22-1990](https://staging.va.gov/education/apply-for-gi-bill-form-22-1990)                                                               | No Auth + LOA1 | | ✅ | |
-| [22-1990e](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e)  | No Auth + LOA1 | | ✅ | |
+| [22-1990](https://staging.va.gov/education/apply-for-gi-bill-form-22-1990)                                                               | LOA1 | | ✅ | |
+| [22-1990e](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/apply-form-22-1990e)  | LOA1 | | ✅ | |
 | [22-1995](https://staging.va.gov/education/apply-for-education-benefits/application/1995)                                                | No Auth + LOA1 | | ✅ | |
-| [22-5490](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490)                     | No Auth + LOA1 | | ✅ | |
+| [22-5490](https://staging.va.gov/family-and-caregiver-benefits/education-and-careers/apply-for-dea-fry-form-22-5490)                     | LOA1 | | ✅ | |
 | [22-5495](https://staging.va.gov/education/apply-for-education-benefits/application/5495)                                                | No Auth + LOA1 | | | |
 | [22-10203](https://staging.va.gov/education/other-va-education-benefits/stem-scholarship/apply-for-scholarship-form-22-10203)            | No Auth + LOA1 | | ✅ | |
 | [22-10215](https://staging.va.gov/school-administrators/85-15-rule-enrollment-ratio)                                                         | No Auth + LOA1 | | | |
 | [22-10275](https://staging.va.gov/school-administrators/commit-principles-of-excellence-form-22-10275)                                    | No Auth + LOA1 | | | |
-| [22-10297](https://staging.va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297)                        | No Auth + LOA1 |  | ✅ | |
+| [22-10297](https://staging.va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297)                        | LOA1 |  | ✅ | |
 | [22-10282](https://staging.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/apply-form-22-10282)                        | No Auth + LOA1 | | | |
 | [25-8832](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-25-8832)                    | LOA1 | | | |
 | [26-1880](https://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880)                                                   | LOA1 | | | |
 | [26-4555](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)                              | LOA1 |  | ✅ | |
 | [28-1900](https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900)                                    | LOA3 |  | ? | |
-| [40-0247](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247)    | No Auth + LOA1 | | | |
+| [40-0247](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247)    | No Auth | | | |
 | [40-10007](https://staging.va.gov/burials-memorials/pre-need-eligibility/apply-for-eligibility-form-40-10007)                            | LOA3 |  | ✅ | |
 | [After visit summary](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary)                                | LOA3 | | | |
 | [Appointments](https://staging.va.gov/my-health/appointments)                                                                            | LOA3 | | | |
