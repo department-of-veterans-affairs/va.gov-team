@@ -18,7 +18,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP4| **Pay.gov Hosted Collection Page (HCP) for Overpayments:**  |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |Finalize design + engineering handover.   | BE, FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |   |
 | QP5| **Pay.gov Hosted Collection Page (HCP) for Copays:**  |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |Target production at end of Sept/Early Oct   |BE, FE | **Pay.gov + HRC/VHA accounting** |  |
 | QP6 | **Veteran Request for Hardship Suspension (VBA):** |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Initiate Design Prototyping & Development handover  UX to finalize engineering handover by end of Sept in preparation for development in October  | Design- FE | **DMC** |  |
-| QP7 | **Prioritized Maintenance 2025 (October, November, December)**  | [#121725]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/112855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121725)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
+| QP7 | **Prioritized Maintenance 2025 (October, November, December)**  |[#121725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121725)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25)
