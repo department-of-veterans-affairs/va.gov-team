@@ -5,11 +5,11 @@
 #### Adoption, total # of components
 |	Group	|	FY25 Q1 |	FY25 Q2 |	FY25 Q3 |	FY25 Q4 |
 |	----	|	----	|	----	|	----	|	----	|	
-|	Platform console	|	-	|	8	|	11	|	-	|
-|	Task manager	|	-	|	24	|	11	|	-	|
-|	My WorkWeek	|	-	|	20	|	21	|	-	|
-|	Med Calculators	|	-	|	13	|	21	|	-	|
-|	Lung Cancer Screening	|	-	|	14	|	22	|	-	|
+|	Platform console	|	-	|	8	|	11	|	10	|
+|	Task manager	|	-	|	24	|	11	|	25	|
+|	My WorkWeek	|	-	|	20	|	21	|	23	|
+|	Med Calculators	|	-	|	13	|	21	|	17	|
+|	Lung Cancer Screening	|	-	|	14	|	22	|	23	|
 
 
 #### Design system growth 
