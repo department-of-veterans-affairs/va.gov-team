@@ -68,16 +68,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. What factors have made applying and/or learning about GI Bill benefits successful? What factors have made it difficult?
 2. What resources do you use when trying to apply, change, or learn more about GI Bill benefits?
-3. What is your experience with or prior knowledge of the recent Rudisill court decision?
-4. What is your confidence level in navigating your education benefits? What factors contribute to your confidence level?
+3. What is your confidence level in navigating your education benefits? What factors contribute to your confidence level?
+4. What is your experience with or prior knowledge of the recent Rudisill court decision?
 
 <p>&nbsp;</p>
 
-## Wayfinding & Locate the self-review tool (3 minutes)
+## Wayfinding & the Self-review Tool Instructions Page (Authenticated) (3 minutes)
 
 **Send prototype link to user at this point**
 
-**"Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool. What you are looking at now is the application instructins page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
+**"Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool.** 
+
+**What you are looking at now is the application instructins page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
 
 Probing questions:
 - What markers drew your attention there?
@@ -93,8 +95,7 @@ Probing questions:
 > - Where does the user initially look? Why? </br>
 > - What is the users understanding of the tools purpose from the link text and description copy? </br>
 > - How easily does the user find and understand the tool link? </br>
-> - How easily does the user understand the un-authenticated vs. authenticated state? </br>
-> - Does the user notice and understand the authenticator widget? </br>
+> - How easily does the user understand the authenticated state? </br>
 > - Are there pain points or confusion for the user when logging in? </br>
 
 <p>&nbsp;</p>
@@ -148,13 +149,14 @@ Probing questions:
 - Is there any terminology that is familiar or unfamiliar to you? How are you interpreting the term 'Qualifying service'?
 - (When applicable) How are you understanding the MGIB benefit in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
 - (When applicable) How are you understanding the PGIB benefits in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
+- What was the most helpful or important information here in helped you understand the recommendation?
 - Was there anything you found confusing about the recommendation? What made it confusing?
 
 #### Things to watch for:
 > - Where does the user look first on the recommendation? </br>
 > - Where is the user spending the most time?
 > - Does the user have questions about this process? </br>
-> - (If segemented layout) Does the user notice the "Your Benefits" section? Do they look to it to compare?
+> - (If segmented layout) Does the user notice the "Your Benefits" section? Do they look to it to compare?
 <p>&nbsp;</p>
 
 ## Task 4: Self Review Tool - Step 2 - Your current benefits (5-7 minutes)
@@ -165,9 +167,10 @@ Probing questions:
 - What are you noticing or gravitating to first? Why?
 - How are you understanding the information under 'Your current benefits'?
 - Is there any terminology that is familiar or unfamiliar to you?
+- What was the most helpful or important information here that helped you understand your current benefits?
 - How are you interpreting the term 'Qualifying service'?
 - Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
-- What other information, if any, are you lookng to find?
+- What other information, if any, are you looking to find?
 
 #### Things to watch for:
 > - Does the user understand terminology used such as 'benefit level', 'relinquished', 'kicker'?
