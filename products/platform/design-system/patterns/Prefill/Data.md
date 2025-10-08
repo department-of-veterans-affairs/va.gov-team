@@ -119,14 +119,12 @@ Last updated: 10/7/2025
 | [VA Home loan](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe)                                             | LOA1 | | | |
 | [Virtual Agent](https://staging.va.gov/contact-us/virtual-agent)                                                                           | LOA1 | | | |
 
-
-
 ## Summary
 
-- **LOA3 Required**: **28 forms**
-- **LOA1/Auth Required**: **12 forms**
-- **No Authentication**: **13 forms**
-- **Total**: **53 forms**
+- **LOA3: 32 forms** (high-security, requires full identity verification)
+- **LOA1: 19 forms** (requires basic authentication only)
+- **No Auth + LOA1: 18 forms** (accessible without auth, enhanced with basic login)
+- **No Auth: 19 forms** (purely unauthenticated access)
 
 To do:
 - Create tables showing the difference between no auth, loa 1, loa 3
