@@ -11,7 +11,7 @@ This is due to the the Medications API limitations of not having a direct establ
 
 
 ## Problem/User Story
-As a Veteran with an expired medication, I need to have a clear way to request an online renewal.
+As a Veteran with an expired medication, I need to have a clear way to request an online renewal for both Web and Mobile
 
 ### Use Case
 
@@ -22,14 +22,21 @@ Use Case: User has an expired prescription and opens up an secure message that i
 -We need the ability for users/vets to send a secure message to a doctor, requesting a refill
 
 
-## Outcome Summary (Udpate Here)
-An MVP renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
+## Outcome Summary 
+An renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
 
 
 
 ### What we are building (Udpate Here)
 
-We are implementing a  Link to Secure Messagine with pre-filled information by Utilizing the Oracle Health Portal
+**For Web:**
+
+We are implementing a Link to Secure Messaging with pre-filled information by Utilizing the Oracle Health Portal
+
+**For Mobile:**
+
+We are Update VAHB FE to include a button within RX that will navigate the user to a the new message screen and pre-fill details based on the info for the given prescription
+
 
 **Target Dates**: Medications Team would like to do testing in October timeframe with a possible Go Live in December
 
