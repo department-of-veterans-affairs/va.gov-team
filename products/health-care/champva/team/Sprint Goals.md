@@ -83,6 +83,7 @@
 - Stretch goal: Health Apps Monthly Metrics Pulls
 - **BE**
   - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+  - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 
 
 ##
