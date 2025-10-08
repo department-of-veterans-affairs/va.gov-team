@@ -1,7 +1,6 @@
 # Product Outline: Medical Renewal Flow Via SM (VA.gov and VAHB)
 
 
-
 ##  Overview 
 
 Today, an automatic renewal button on the medication portal is not currently possible for online medications renewal. 
@@ -25,7 +24,9 @@ Use Case: User has an expired prescription and opens up an secure message that i
 ## Outcome Summary 
 An renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
 
+The flow will be implemented for both  Vista users and Vista/OH users on web.
 
+**Note:** Medication status would trigger and lead to at renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
 
 ### What we are building (Udpate Here)
 
@@ -38,12 +39,10 @@ We are implementing a Link to Secure Messaging with pre-filled information by Ut
 We are Update VAHB FE to include a button within RX that will navigate the user to a the new message screen and pre-fill details based on the info for the given prescription
 
 
-### Assumptions/Risks (Update Here)
 
-- We assume that the EHRM/Oracle Health recipient objects and messaging APIs operate as stated in production
-- We assume there is no reliable way to get patient-to-recipient mappings for EHRM/Oracle Health recipient objects
-### Key Performance Indicators (KPIs) (Udpate Here)
+### Key Performance Indicators (KPIs) 
 
+TBD
 
 ### **Resources:**
 
@@ -55,9 +54,8 @@ https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id
 
 
 
-#### Go-to-market  (Update Here)
-- Internal communications to MHV Coordinators and help desk staff to ensure they are aware of how the feature works and can guide users who need help.
-- External communication notifying patients at EHRM transitioned sites that they can now message their providers on VA.gov.
+#### Go-to-market  
+TBD
 
 
 ## Launch Planning
