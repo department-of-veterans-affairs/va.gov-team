@@ -44,6 +44,8 @@ UX Research: initial notes, thoughts, and questions
     * This would most likely not be in MVP
     * 🗓️ Timeline: could be immediate. Not a blocker for anything as it’s not going to happen for MVP.
 
+Timeline options of each study within product process:
+![Timeline options of each study within product process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/supporting-files/VA%20Recruitment%20Checker.png)
 
 
 ## Additional notes
@@ -55,3 +57,4 @@ UX Research: initial notes, thoughts, and questions
     * Findability with the current location on the app tested well
         * Using the card in the test also tested well
     * Privacy concerns for showing disability rating – it’s possible there would be similar concerns for info on the VHIC
+
