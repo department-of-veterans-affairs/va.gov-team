@@ -20,12 +20,9 @@ Last updated: October 8, 2025 - general updates to content and structure
 ### Overview
 Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are particularly overwhelmed by the transition process. The entire process, from planning, to separation, to adjustment to civilian life can occur over the course of several years. The change to routines and circumstances are significant and during that time there is an increased risk of creating vulnerable populations. In addition to juggling personal challenges, TSMs and RSVs have no easy way to find the range of benefits which they are eligible for. 
 
-The Discover Your Benefits (DYB) tool is designed to help support this vulnerable population in their transition from military to civilian life by reaching them sooner in the transition journey. A primary objective is to position the DYB tool as a critical and trustworthy resource to be leveraged in TAP (Transition Assistance Programs) courses across all branches of the military.
+The [Discover Your Benefits (DYB) tool](https://www.va.gov/discover-your-benefits/introduction) is designed to help support this vulnerable population in their transition from military to civilian life by reaching them sooner in the transition journey. A primary objective is to position the DYB tool as a critical and trustworthy resource to be leveraged in TAP (Transition Assistance Programs) courses across all branches of the military.
 
 The current iteration of the DYB tool is an unauthenticated questionnaire. The long-term vision is to integrated with authenticated services and tools on VA.gov to create a more personalized experience for users that puts them on a path to efficiently navigate and take full advantage of the benefits and services available to them in the authenticated state on VA.gov.
-
-### Opportunity
-As part of the President's Management Agenda (PMA) and in partnership with VEO and OTED; VA has an opportunity to address the specific needs of TSMs and RSVs. By creating centralized resources and a "front door", we can help navigate benefits for awareness, and make personalized recommendations based on the information we receive. Veteran Transition Support, also known as "Transition Experience" is a product that bridges the gap between DoD and VA for incoming Veterans around core VA benefits (healthcare, disability, education, career planning, housing) and extended benefits from cross agency partners (SBA, DOL, HUD, etc). It can be enriched by connections to various systems and services such as VA.gov personalization, MyVA, Benefit Discovery Service (BDS) and VA Solid Start, as well as any other onboarding programs around Transition.
 
 ### Key Outcomes
 The primary goal of the Discover Your Benefits (DYB) tool is to aid in simplifying the enrollment process by acting as a hub for TSMs or RSVs to discover their benefits and understand eligibility. The main goals are to 
@@ -36,8 +33,13 @@ The primary goal of the Discover Your Benefits (DYB) tool is to aid in simplifyi
 
 While the initial value proposition is aimed at TSMs and RSVs, the DYB tool is meant to be useful for anyone engaging with the VA including family members and caregivers, as well as Veterans re-engaging with VA regardless of their time since service.
 
-### Product Link
-The current product is an [unauthenticated questionnaire](https://www.va.gov/discover-your-benefits/introduction) hosted on VA.gov and is publicly accessible.
+### Projects
+
+|Project|Epic|Status|
+|----|----|---|
+|Results page 2.0 | Jira: PTEMSVT-588  | Planning |
+| "Authenticated flow" MVP | Jira: PTEMSVT-593 | Planning|
+
 
 ### Additional Context
 The project is a merger of two separate initiatives: Transition Assistant from VEO and Enhanced Statement of Benefits from OTED.
@@ -48,5 +50,5 @@ The VEO team conducted research around the challenges in Transition and created 
 #### Extended Statement of Benefits
 Outreach, Transition and Economic Development (OTED) simultaneously conducted research around the challenges with benefit discovery. The original Statement of Benefits exists in the form of a PDF, alongside the Transition Assistance Program (TAP) resource book as an explanation of benefits. While detailed, these static documents are not an easy reference when going through the many activities of transition. The goal of the Exteneded Statement of Benefits (ESOB) was to provide a more dynamically navigable list of resources and benefits that change based on a person's eligibility. A secondary goal was to include a more comprehensive list of benefits and resources beyond VA; such as Veteran Preference in hiring which is not a direct VA benefit, but can be difficult to cross-reference against VA administered benefits.
 
-### Roadmap 
+ 
 
