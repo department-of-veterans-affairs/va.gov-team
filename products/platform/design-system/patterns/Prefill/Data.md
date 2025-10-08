@@ -109,7 +109,6 @@ Last updated: 10/7/2025
 | [Pre-check-in](https://staging.va.gov/health-care/appointment-pre-check-in)                                                                | No Auth | | | |
 | [Rated Disabilities](https://staging.va.gov/disability/view-disability-rating/rating)                                                      | LOA1 | | | |
 | [Travel Pay](https://staging.va.gov/my-health/travel-pay)                                                                                | LOA3 | | | |
-| [Travel Claim](https://staging.va.gov/my-health/appointment-travel-claim)                                                                | LOA3 | | | |
 | [VA Profile](https://staging.va.gov/profile)                                                                                             | LOA1 | | | |
 | [Yellow Ribbon](https://staging.va.gov/school-administrators/submit-yellow-ribbon-program-agreement-form-22-0839)                        | No Auth | | | |
 | [VA Home loan](https://staging.va.gov/housing-assistance/home-loans/check-coe-status/your-coe)                                             | LOA1 | | | |
