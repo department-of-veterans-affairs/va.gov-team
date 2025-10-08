@@ -36,12 +36,6 @@
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
 - [ ] **SPRINT GOAL** [#120784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120784) - [Design] Update SOT
 
-## 
-### 10-2729a - CVA Claims
-#### Obj: [Improvements]
-- [ ] **SPRINT GOAL** [#115347](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115347) - [UX] Create production form flow
-
-
 ##
 ### Team PTO
 - Indignous Peoples' Day - Monday, 10/13
