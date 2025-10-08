@@ -9,7 +9,6 @@
 - [ ] 10-10d: Create integration tests and prepare for VES Launch
 - [ ] 10-7959a: Fix Internal QA issues and address selection to use VaRadio
 - [ ] 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
-- [ ] 10-7959c: Begin updating OHI Standalone PDF
 - [ ] UX: Additional Design Discovery for Ineligible Applicants (Tricare)
 - [ ] UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit
 - [ ] UX: 10-7959a: Duty to assist
