@@ -3,7 +3,7 @@
 
 ##  Overview 
 
-Today, an automatic renewal button on the medication portal is not currently possible for online medications renewal. 
+Today, an automatic renewal button on the medication portal is not  possible for online medications renewal. 
 
 This is due to the the Medications API limitations of not having a direct established correlation between the meds provider and the SM provider in both systems. This correlation is necessary to send the renewal request to the provider through SM.
 
