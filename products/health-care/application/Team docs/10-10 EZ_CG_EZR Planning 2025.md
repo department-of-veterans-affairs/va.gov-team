@@ -8,10 +8,15 @@
 ### Sprint Goal summary
 - [ ] EZR Spouse QA findings resolution & finalize QA - **_Carry over due to unable to identify root cause, pulling in additional assistance_**
 - [ ] EZ Investigate Intro page looping
+- [ ] New teammate onboarding
 - [ ] EZR "Back" button formatting
 - [ ] EZR Section Heading formatting on Review & Submit page
 - [ ] EZR Financials data error on Review & Submit page
 - [ ] EZR Update SOT for Print/Save PDF
+
+##
+###  Team Objective
+- [ ] **SPRINT GOAL** [121656](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121656) - [Eng] Ray Messina team onboarding
 
 
 ##
@@ -39,6 +44,8 @@
 ##
 ### Team PTO
 - Indignous Peoples' Day - Monday, 10/13
+     - A6 holiday
+     - AH floating holiday
 - Renata: 10/9-10/14
 - Jessica: 10/9-10/13
 - Kyle: 10/10
