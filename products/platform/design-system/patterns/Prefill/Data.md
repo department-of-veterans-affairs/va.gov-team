@@ -116,10 +116,11 @@ Last updated: 10/7/2025
 
 ## Summary
 
-- **LOA3: 32 forms** (high-security, requires full identity verification)
-- **LOA1: 19 forms** (requires basic authentication only)
-- **No Auth + LOA1: 18 forms** (accessible without auth, enhanced with basic login)
-- **No Auth: 19 forms** (purely unauthenticated access)
+- **LOA3: 29 forms** (high-security, requires full identity verification)
+- **LOA1: 12 forms** (requires basic authentication only)
+- **No Auth + LOA1: 22 forms** (accessible without auth, enhanced with basic login)
+- **No Auth: 14 forms** (purely unauthenticated access)
+- **Prefill:** 32 (0 following new pattern)
 
 To do:
 - Create tables showing the difference between no auth, loa 1, loa 3
