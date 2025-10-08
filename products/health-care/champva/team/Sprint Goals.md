@@ -76,7 +76,7 @@
 ##
 ### WHAT'S NEXT
 - **FE**
-- [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
+  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
 - **UX**
   - [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
 - Stretch goal: Health Apps Monthly Metrics Pulls
