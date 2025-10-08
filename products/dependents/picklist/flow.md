@@ -1,7 +1,7 @@
 Picklist flow overview within Form 686C
 
 ```mermaid
-flowchart TB
+flowchart TD
   Start[Active dependents with checkboxes<br><br>✓ Spouse<br>✓ Child<br>✓ Parent]
 
   subgraph DepLoop[Dependent picklist loop]
@@ -27,6 +27,11 @@ flowchart TB
     ChildQ1 -- "left school" --> ChildQ2a{disability}
     ChildQ2a -- "Yes" --> ChildQ2x[Still qualifies]
     ChildQ2x --> exit[Exit form]
+    ChildQ1 -- "left household" --> ChildQ7{half financial support?}
+    ChildQ7 -- "no" --> ChildQ7b[Left household details]
+    ChildQ7 -- "yes" --> ChildQ7x[Still qualifies]
+    ChildQ7x --> exit[Exit form]
+
 
     DepType -- "Parent" --> ParentQ0{Reason to remove}
     ParentQ0 -- "Other" --> ParentQx[Use different form]
