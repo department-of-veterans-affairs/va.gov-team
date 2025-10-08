@@ -1,6 +1,24 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## **10/08/2025**
+
+Attendees: Andrea Merrill, Andrea Bingham, Cindy Carr, Eileen Cook, David Derouen, Leticia Diaz, Dawn Henry, Hieu Vo, Jessica Stump, Amanda Klausmeier, Steven Mason, Richard McKeithan, Mike Mooney, Angela Pinon, Renata Keck, Arleen Schoentag, Premal Shah, Andrew Szymczak, Marylin Whitelock, Dirk Rasnic, Alyss Li
+
+**Notes**
+* Andrew asked what is a UX study. Renata explained that OCTO has a standardize process for user testing around content comprehension and prototype. Premal elaborated that our research findings from previously discussion comes from these type of studies. Premal explains that the UX Lead, Amanda Klausmeir believe that the new flow is different enough to warrant a study. 
+* Jessica presents the flow we’re planning to testing with the user. Andrew has no question as there is no major changes from the last discussion.
+* Renata presents the service blueprint, from FMP registration to the end of the claim. Renata explains that the service has been update and want a few questions answered.
+    * The claim sent to Treasury, is that process be deprecated for Veterans? Andrew notes that it will be for folks with domestic bank account and still receiving paper check. Andrew elaborated that we’re pushing for direct deposit but this demograhic will still exist until phase 2.
+    * FMP gets report back when things doesn’t work and then staff does outreach. Thats how Andrew understand it and Dirk Rasnic confirms. Dirk notes that staff can help the Veteran with application process and banking routing. David Rerouen notes that once the number has be updated, they will process it. 
+    * Renata wants to confirm the Mail question. Andrew confirms. Dirk clarify that the mail question can be Call Center or AskVA (depending how what was needed).
+
+
+* Andrew discussion of the timeline; about 2 months to get everything wrapped up (excluding the Government Shutdown). 
+* Premal notes that for the new flow, we’ll have to point them to FSC website.
+
+- - - -
+
 ## **09/24/2025**
 Attendees: Premal, Andrew, Daphne B.McGraw (financial analyst), Heartents L Maples (supervisory financial analyst), Jordan Brown (Financial Management Specialist)
 
