@@ -226,14 +226,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 18 [9/24/25 - 10/7/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|--|
-|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|--|
-|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|--|--|
-|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
-|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
-|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|--|--|
-|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|--|--|
-|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|--|--|
+|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|Incomplete|
+|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|Incomplete|
+|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|10/02/25|Completed|
+|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|Incomplete|
+|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|10/07/25|Completed|
+|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|10/06/25|Completed|
+|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|09/26/25|Completed|
+|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|10/07/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/23/25)
