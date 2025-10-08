@@ -17,6 +17,7 @@
 - [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
 - [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] Stretch goal: 10-7959c: OHI Standalone PDF Updates
+- [ ] Stretch goal: Investigate missing stamp content monitor incident
 
 
 
@@ -80,7 +81,8 @@
 - **UX**
   - [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
 - Stretch goal: Health Apps Monthly Metrics Pulls
-- **BE** 
+- **BE**
+  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
 
 
 ##
