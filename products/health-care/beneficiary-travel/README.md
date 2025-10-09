@@ -59,7 +59,7 @@
 ## Product
 
 #### Feature Outlines And Documentation
-- [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
+- [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
 - Simple, Mileage Only Claim Product Outline (Under Development – CR)
 - Complex Claims Product Outline (Under Development – CR)
 - Complex Mileage Product Outline (Under Development – CR)
