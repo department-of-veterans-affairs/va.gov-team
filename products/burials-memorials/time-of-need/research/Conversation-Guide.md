@@ -8,7 +8,7 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [Memorials Self Service, Time of Need Schedule a burial in a cational cemetery, 10/2025]
+# Conversation Guide for [Memorials Self Service, Time of Need Schedule a burial in a national cemetery, 10/2025]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
