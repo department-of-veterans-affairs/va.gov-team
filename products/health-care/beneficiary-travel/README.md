@@ -22,9 +22,9 @@
   
 ## Team Members
 - OCTO Managers
-  - [Kay Lawyer](https://dsva.slack.com/team/U7T6EKTK9)(PO)
-  - [Kristen McConnell](https://dsva.slack.com/team/U0158T9DJCA)(UX)
-  - [Mark Dewey](https://dsva.slack.com/team/U03Q3UP7RPS)(Eng)
+  - [Kay Lawyer](https://dsva.slack.com/team/U7T6EKTK9)  (PO)
+  - [Kristen McConnell](https://dsva.slack.com/team/U0158T9DJCA)  (UX)
+  - [Mark Dewey](https://dsva.slack.com/team/U03Q3UP7RPS) (Eng)
 - Product Manager
   - [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - Engineering Lead
@@ -67,8 +67,6 @@
 - Non-Existent Appointments Product Outlines (Not Started)
 - Product Guides (DRAFTED)
   - How to Update Product Guides (Not Started)
-
-- [Product Outline](./product-outline-btsss.md)  (POSSIBLY DELETE)
 
 #### Priorities, Sprints And Scrum Boards
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
