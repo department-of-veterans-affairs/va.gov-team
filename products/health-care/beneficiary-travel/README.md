@@ -58,7 +58,7 @@
 
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
- - [Glossary of Terms].(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop Research/glossary of terms.md)
+ - [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop-Research/glossary-of-terms.md)
 
 ## Product
 
@@ -78,11 +78,11 @@
 
 #### Research
 - [Beneficiary Travel Blueprints](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712673980094/648adf9a347a7618219b71f7923b48ffa09764f6?wid=126-1718154129143&sender=ucbacbd1daef36939e8aa2288)
-- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel Collaboration#research)
+- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#research)
 - Beneficiary travel reimbursement discovery and research findings
 
 #### Product Designs (Figma)
-- [Design Artifacts & Other Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel Collaboration#design-artifacts-and-other-resources)  (Pre 2024)
+- [Design Artifacts & Other Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#design-artifacts-and-other-resources)  (Pre 2024)
 - Production Screen Shots (Web | Mobile)
 - Approved Figma Files (Web | Mobile)
 - Work-In-Progress (Web | Mobile)
