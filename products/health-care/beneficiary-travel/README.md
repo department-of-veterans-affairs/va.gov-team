@@ -97,7 +97,8 @@
   - Incident Management on VA.gov
 
 #### Metrics and Medallia Feedback
-- Analytics Dashboards
+- [Datadog Management Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard)
+- [Datadog Monthly Metrics Dashboard]
 - How to Request and Process VSignals Feedback
 - How to Request and Process Medallia Feedback
 - Medallia URL Exclusion List
@@ -112,15 +113,20 @@
 - Decision Register
 - Training Environment
 - Knowledge Transfer Recordings
+  - [Local Auth Workflow Demo](https://drive.google.com/file/d/1If5qD48b8Fxk7nfuQ2EZfVW8hDW465xP/view?usp=drive_web)
 
 #### Architecture
+- [Overview Of Most Recently Completed Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/submit-claim/container_vagov_travel_pay.png)
+- [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/submit-claim/full-sequence-diagram.md)
 - Zero Silent Failures (Under Development – KD)
  
 #### Code Repositories
-- vets-website
-- vets-api
+- [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
+- [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
+- [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata)
 - octo-vista-api
 - cie-staging-scheduler
+- [content-build](https://github.com/department-of-veterans-affairs/content-build)
 
 #### QA Testing 
 - Testing Setup
