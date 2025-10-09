@@ -41,8 +41,7 @@
 
 ## Team Calendar And Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
-- Email Distribution List
-  - [VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
+- Email Distribution List -[VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
 - GitHub label = `beneficiary-travel`   
 - Office of CTO @ VA Slack Group
 
@@ -69,7 +68,7 @@
   - How to Update Product Guides 
 
 #### Priorities, Sprints And Scrum Boards
-- [Priorities](https://github.com/orgs/department-of-veterans-affairs/projects/1713/views/2?sliceBy%5Bvalue%5D=%F0%9F%9A%97+Ursa+Minor+%28Travel%29)) (UAE Roadmap)
+- [Priorities](https://github.com/orgs/department-of-veterans-affairs/projects/1713/views/2?sliceBy%5Bvalue%5D=%F0%9F%9A%97+Ursa+Minor+%28Travel%29) (UAE Roadmap)
 - [Scrum Board & Sprint Goals](https://github.com/orgs/department-of-veterans-affairs/projects/1525)
 
 #### Research
@@ -139,5 +138,6 @@
 For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - [BTSSS Production Portal](https://dvagov-btsss.dynamics365portals.us/)
 - [BTSSS Confluence](https://community.max.gov/pages/viewpage.action?pageId=2226803040)
+- [VA Master Product List](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 - FAQs
 - Media & Communications Items
