@@ -26,6 +26,12 @@ _Describe what happened that was unexpected or undesired; including screenshots 
 ### Desired Result
 _Describe what was supposed to happen; reference existing Github issue that contains a solution if possible_
 
+## Appointment systems affected
+Check all appoinment systems affected
+- [ ] vistA
+- [ ] HSRM
+- [ ] CERNER (OH)
+
 ## Definition of Done
 - [ ] Desired result is achieved and/or document decisions made
 - [ ] Relevant documentation is updated
