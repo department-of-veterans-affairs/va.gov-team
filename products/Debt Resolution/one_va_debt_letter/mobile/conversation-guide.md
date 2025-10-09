@@ -138,8 +138,115 @@ Thinking about both the overpayment and the copays together, talk to me about ho
 
 # 🚧 🚧 🚧 Screen sharing: current experience of combined statements
 
+We’re now going to move into looking at prototypes. First, I’d like you to share your screen please – have you done this before on your phone?
+
+
+
+* _(send link to prototype)_
+
+In this example, we’re going to pretend that you have overpayment debt from some education benefits, along with medical copayments from regular doctor visits and prescriptions.
+
+(Debt and bill overview)
+
+Before tapping on anything: looking at this page, what stands out to you as being important and useful to how you want to manage your debt and bills?
+
+
+
+* When might you look at just your copays?
+* When might you look at just your overpayments?
+* When might you look at your combined statement?
+    * Before you tap into that, what do you expect to find in the combined statement?
+* Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
+
+(Combined statement)
+
+Now tap into that combined statement please
+
+
+
+* How does this compare to what you were expecting?
+* What information would you want here to make this a useful tool?
+* In what situations would you use this combined statement?
+* What actions or decisions would you want to make when viewing this? Is it any different than viewing individual statements?
+* How would you prefer to interact with this information? (e.g. email, mobile app, desktop, PDF)
+
+(combined statement PDF)
+
+Don’t yet tap, but looking at the PDF button: tell me any thoughts regarding PDFs on your phone. 
+
+
+
+* Do you look at PDFs on your phone now?
+    * If so: what are you doing with them?
+    * If not: why not?
+* Would having access to a PDF of this combined statement be useful to you?
+    * Why or why not?
+    * What would you do with it?
+
+Now please tap on the PDF
+
+
+
+* How does this compare to what you were expecting?
+* What information would you want here to make this a useful tool?
+* How does this PDF compare to the combined statement we looked at right before this?
+    * In what situations might you use one or the other?
+
+(individual: overpayments)
+
+I’d like you to look at the individual information for the benefit overpayments
+
+
+
+* Considering what you just viewed in the combined statement, how does it compare to what you’re viewing here?
+* In what situations might you look at this compared to the combined statement?
+* Is one more useful than the other?
+
+(individual: copays)
+
+Now I’d like you to look at the individual information for the medical copayments
+
+
+
+* Considering what you just viewed in the combined statement, how does it compare to what you’re viewing here?
+* In what situations might you look at this compared to the combined statement?
+* Is one more useful than the other?
+
+(review)
+
+Now that you’ve looked at the combined statement, and each individual sections of overpayments and copays:
+
+
+
+* What information is important to you when considering your full financial situation?
+* Any further thoughts on when you might look through the combined statement compared to the individual overpayments or copays sections?
+* I’ll repeat a question from earlier: Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
+* And another question I’ll bring back: any further thoughts on when you would be looking to manage your finances – time or day, your physical location, a situation, etc.
+
+
 # 🚧 🚧 🚧 Screen sharing: future experience of combined statements
 
+(app prototype)
+
+Now we’ll look at some designs that currently do not exist anywhere on the website or the mobile app. These are designs for the mobile app, and we’ll start with the combined statement. 
+
+
+
+* What are your first impressions?
+* How clear and understandable is everything here?
+* Are there details missing that would be important to you?
+* How likely are you to use this in the app?
+* Is there anything that would make you trust this more?
+
+I’ll have you look at the individual sections now – please head to the [either: overpayments/copays] in the designs
+
+
+
+* Comparing this to the combined statement we just looked at in our pretend app, when might you view one over the other?
+
+Where would you expect to locate the combined statement within the app?
+
+<!-----
 ## First Task: [TASK NAME] - X minutes
 
 - [ ] Step 1
@@ -173,6 +280,8 @@ Thinking about both the overpayment and the copays together, talk to me about ho
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
 > - [Etc]
+
+----->
 
 # ✅ ✅ ✅ Post-Task Interview
 
