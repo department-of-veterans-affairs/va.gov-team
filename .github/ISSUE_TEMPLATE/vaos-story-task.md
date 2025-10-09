@@ -12,7 +12,8 @@ _What details are necessary for understanding the specific work or request track
 
 ---
 ## Appointment systems affected
-Check all appoinment systems affected
+Check all appoinment systems affected by or relevant to this feature
+
 - [ ] vistA
 - [ ] HSRM
 - [ ] CERNER (OH)
