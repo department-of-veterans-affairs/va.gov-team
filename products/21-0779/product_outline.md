@@ -4,8 +4,13 @@ This project's objective is to allow Veterans' nursing home officials to submit 
 ## Problem Statement
 A Request for Nursing Home Information in Connection with Claim for Aid and Attendance (VA Form 21-0779) is completed in order to provide supporting documentation for an Aid and Attendance benefit claim when the Veteran is a resident of a nursing home. The nursing home in which the Veteran resides completes the form provide the Veteran's medical needs and the level of care required. This information helps the VA to determine eligibility for increased pension payments to cover long-term care costs. 
 
-How might we provide a way for nursing home officials to submit the Veteran's medical needs in support of an Aid and Attendance claim?
- 
+VA Form 21-0779 is required when a Veteran resides in a nursing home. Currently:  
+- Entirely paper-based  
+- Error-prone, inaccessible  
+- Lack of guidance on use and required fields  
+
+**How might we enable nursing homes to submit information digitally to support Aid & Attendance claims?**
+
 ## Desired User Outcomes
 
 - Nursing home officials can submit VA Form 21-0779 on VA.gov
@@ -33,10 +38,11 @@ How might we provide a way for nursing home officials to submit the Veteran's me
 * _Include links to Domo or Google Analytics Dashboards/Reports_
 * _**Limit 5-6 KPIs per product**__
 
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
+**KPIs**  
+- Error rate  
+- Rejection rate  
+- Submission completion rate  
+- Processing time  
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
@@ -44,43 +50,39 @@ How might we provide a way for nursing home officials to submit the Veteran's me
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
+**OKRs**  
+- Reduce rejection rate by 10% in MVP  
+- Reduce processing/adjudication time by 15% in MVP  
 
 ---
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
+- Multi-party routing/signatures are out of scope.  
+- Notifications are out of scope.  
+
+
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.*
+- Build single-party MVP (nursing home side).  
+- Future: expand to multiparty routing.  
 
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+- Minimal for MVP, plan for post-launch usability studies.  
 
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
+- Initiative | [Link to Initiative Brief](#) - TBD
 
 --- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- IA to ensure searchability on VA.gov.  
+- VBA communications/media support under the November 111 initiative.  
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) - TBD
 
 ## Launch Dates
 - *Target Launch Date*
@@ -88,7 +90,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Post-iteration 2
 
 ---
 
@@ -116,7 +118,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Label: benefits-optimization-aquia, 21-2680
 - Slack channel: #benefits-intake-optimization
 - Product POCs: Leah Keeler, Riley Orr, Dave Luetger 
-- Stakeholders: 
+- Stakeholders: VBA burial/benefits processing staff
 
 </details>
 
@@ -124,7 +126,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
+ - DEPO Lead:
  - PM: Leah Keeler
  - Engineering: Justin Linn, Cameron Testerman, Andrew Rodiek
  - Research/Design: Riley Orr, Dave Luetger
@@ -136,6 +138,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+VBA burial/benefits processing staff 
  
 </details>
