@@ -70,9 +70,9 @@
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
  - [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop%20Research/glossary%20of%20terms.md)
 
-## The Travel Pay Product
+## Product
 
-#### Product Documentation
+#### Feature Outlines And Guides
 - [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
 - Simple, Mileage Only Claim Product Outline (Under Development – CR)
 - Complex Claims Product Outline (Under Development – CR)
@@ -84,7 +84,7 @@
 
 - [Product Outline](./product-outline-btsss.md)  (POSSIBLY DELETE)
 
-#### Priorities, Backlog, Sprints
+#### Priorities, Sprints And Scrum Boards
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
 - [Scrum Board & Sprint Goals](https://github.com/orgs/department-of-veterans-affairs/projects/1525)
 
@@ -92,9 +92,7 @@
 - [Beneficiary Travel Blueprints](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712673980094/648adf9a347a7618219b71f7923b48ffa09764f6?wid=126-1718154129143&sender=ucbacbd1daef36939e8aa2288)
 - [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#research)
 - Beneficiary travel reimbursement discovery and research findings
-
 - [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)   (POSSIBLY DELETE)
-
 
 #### Product Designs (Figma)
 - [Design Artifacts & Other Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#design-artifacts-and-other-resources)  (Pre 2024)
@@ -102,37 +100,36 @@
 - Approved Figma Files (Web | Mobile)
 - Work-In-Progress (Web | Mobile)
 
-#### Product Releases
-- Release Notes
-- Feature Flags
-
-#### Metrics and Veteran Feedback
-- Analytics Dashboards
-- How to Request and Process VSignals Feedback
-- How to Request and Process Medallia Feedback
-- Medallia URL Exclusion List
-- How to Generate an Analytics Report for VA Stakeholders
-
 #### Production Support
-- Responding to Veteran Complaints
-- Production Support
+- Release Notes
+- Feature Flags- Responding to Veteran Complaints
+- Production & Training Support
 - Incident Reports
   - Incident Response Playbook
   - How to Send SNOW Incident Reports
   - How to Set System Down Window Notifications
   - Incident Management on VA.gov
 
+#### Metrics and Medallia Feedback
+- Analytics Dashboards
+- How to Request and Process VSignals Feedback
+- How to Request and Process Medallia Feedback
+- Medallia URL Exclusion List
+- How to Generate an Analytics Report for VA Stakeholders
+
 ## Engineering
 
-#### Process Documentation
+#### System And Process Documentation
 - Developer Guide
 - Development Process
 - Error Types
 - Decision Register
-    
+- Training Environment
+- Knowledge Transfer Recordings
+
 #### Architecture (Under Development – KD)
 - Zero Silent Failures (Under Development – KD)
-
+ 
 #### Code Repositories (or search here)
 - vets-website
 - vets-api
@@ -147,12 +144,7 @@
 - [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - TestRail Test Plans & Cases
 
-#### System Documentation And More
-- Training Environment
-- Knowledge Transfer Recordings
-
-## Resources developed outside the Travel Pay Team
+## Additional Resources 
 For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - FAQs
-- Communications Toolkit
-- Training Materials
+- Media & Communications Items
