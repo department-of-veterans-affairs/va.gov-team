@@ -4,29 +4,21 @@
 
 - [Team Members](#team-members) 
 - [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0) (For Team Members Only)
-- [Team Calendar And Communication Groups](#team-calendar-and-communication-groups)
+- [Team Calendar and Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
-  - [Feature Outlines And Documentation](#feature-outlines-and-documentation)
-  - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
+  - [Feature Outlines and Documentation](#feature-outlines-and-documentation)
+  - [Priorities, Sprints and Scrum Boards](#priorities-sprints-and-scrum-boards)
   - [Research](#research)
   - [Production Designs (Figma)](#production-designs-figma)
-  - [Product Releases](#product-releases)
-  - [Metrics and Veteran Feedback](#metrics-and-veteran-feedback)
-  - [Testing](#testing)
   - [Production Support](#production-support)
-  - [Process Documentation](#process-documentation)
+  - [Metrics and Medallia Feedback](#metrics-and-medallia-feedback)
 - [Engineering](#engineering)
-  - [Code Repositories](#code-repositories)
+  - [System and Process Documentation](#system-and-process-documentation)
   - [Architecture](#architecture)
-  - [System Documentation](#system-documentation)
-  - [QA](#qa)
-  - [Training Environment](#training-environment)
-  - [Developer Guide](#developer-guide)
-  - [Error Types](#error-types)
-  - [Knowledge Transfer Recordings](#knowledge-transfer-recordings)
-- [Resources Developed outside the Travel Pay Team](#resources-developed-outside-the-travel-pay-team)
-
+  - [Code Repositories](#code-repositories)
+  - [QA Testing](#qa-testing)
+- [Additional Resources](#additional-resources)
   
 ## Team Members
 - OCTO Managers
@@ -54,11 +46,11 @@
 - GitHub label = `beneficiary-travel`   
 - Office of CTO @ VA Slack Group
 
-| Channel | Use | 
-|---|---|
-| #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or user experience communication for the team working on migrating the BTSSS functionality to the VA's VA.gov (web) and VAHB (mobile) modalities. |
-| #btsss-product-ux-eng | Communication channel for OCTO primary stakeholders and the current Travel Pay delivery team. |
-| #travel-pay | Coordinated cross team communication related to the Travel Pay experience across web and mobile teams. |
+    | Channel | Use | 
+    |---|---|
+    | #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or user experience communication for the team working on migrating the BTSSS functionality to the VA's VA.gov (web) and VAHB (mobile) modalities. |
+    | #btsss-product-ux-eng | Communication channel for OCTO primary stakeholders and the current Travel Pay delivery team. |
+    | #travel-pay | Coordinated cross team communication related to the Travel Pay experience across web and mobile teams. |
 
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
