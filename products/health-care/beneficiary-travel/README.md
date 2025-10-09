@@ -59,14 +59,14 @@
 ## Product
 
 #### Feature Outlines And Documentation
-- [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
-- Simple, Mileage Only Claim Product Outline (Under Development – CR)
-- Complex Claims Product Outline (Under Development – CR)
-- Complex Mileage Product Outline (Under Development – CR)
-- Community Care Appointments Product Outlines (Under Development – CR)
-- Non-Existent Appointments Product Outlines (Not Started)
-- Product Guides (DRAFTED)
-  - How to Update Product Guides (Not Started)
+- [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT-10/2/2025)
+- Simple, Mileage Only Claim Product Outline 
+- Complex Claims Product Outline 
+- Complex Mileage Product Outline
+- Community Care Appointments Product Outlines
+- Non-Existent Appointments Product Outlines 
+- Product Guides 
+  - How to Update Product Guides 
 
 #### Priorities, Sprints And Scrum Boards
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
@@ -114,9 +114,9 @@
   - [Local Auth Workflow Demo](https://drive.google.com/file/d/1If5qD48b8Fxk7nfuQ2EZfVW8hDW465xP/view?usp=drive_web)
 
 #### Architecture
-- [Overview Of Most Recently Completed Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/submit-claim/container_vagov_travel_pay.png)
+- [Architecture Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/submit-claim/container_vagov_travel_pay.png) (Most Recently Completed Initiative]
 - [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/submit-claim/full-sequence-diagram.md)
-- Zero Silent Failures (Under Development – KD)
+- Zero Silent Failures 
  
 #### Code Repositories
 - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
