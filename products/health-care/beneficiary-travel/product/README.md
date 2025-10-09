@@ -1,4 +1,4 @@
-# Product Outline - Travel Pay
+# Primary Product Outline - Travel Pay
 Last Updated: October 3, 2025 
 
 ## Overview
