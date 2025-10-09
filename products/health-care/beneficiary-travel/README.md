@@ -97,6 +97,7 @@
 #### Metrics and Medallia Feedback
 - [Datadog Management Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard)
 - [Datadog Monthly Metrics Dashboard]
+- [Google Analytics]
 - How to Request and Process VSignals Feedback
 - How to Request and Process Medallia Feedback
 - Medallia URL Exclusion List
@@ -136,5 +137,7 @@
 
 ## Additional Resources 
 For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
+- [BTSSS Production Portal](https://dvagov-btsss.dynamics365portals.us/)
+- [BTSSS Confluence](https://community.max.gov/pages/viewpage.action?pageId=2226803040)
 - FAQs
 - Media & Communications Items
