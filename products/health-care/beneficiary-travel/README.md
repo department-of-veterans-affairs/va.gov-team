@@ -7,7 +7,7 @@
 - [Team Calendar And Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
-  - [Product Documentation](#product-documentation)
+  - [Feature Outlines And Documentation](#feature-outlines-and-documentation)
   - [Priorities, Backlog, Sprints](#priorities-backlog-sprints)
   - [Research](#research)
   - [Production Designs (Figma)](#production-designs-figma)
@@ -15,7 +15,6 @@
   - [Metrics and Veteran Feedback](#metrics-and-veteran-feedback)
   - [Testing](#testing)
   - [Production Support](#production-support)
-- [Process](#process)
   - [Process Documentation](#process-documentation)
 - [Engineering](#engineering)
   - [Code Repositories](#code-repositories)
@@ -52,19 +51,14 @@
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
 - Email Distribution List
   - [VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
-- Office of CTO @ VA Slack Group
-  - #beneficiary-travel-team
-  - #btsss-product-ux-eng
-  - #travel-pay
-
- (POSSIBLY DELETE)
 - GitHub label = `beneficiary-travel`   
+- Office of CTO @ VA Slack Group
 
-| Channel | Used for | 
+| Channel | Use | 
 |---|---|
-| #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or experience communication for BTSSS frontend team, including: agile ceremonies, announcements, broad notifications related to rollouts, releases, and launches. |
-| #travel-pay | Coordinated communication related to travel pay experience across web and mobile teams |
-
+| #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or user experience communication for the team working on migrating the BTSSS functionality to the VA's VA.gov (web) and VAHB (mobile) modalities. |
+| #btsss-product-ux-eng | Communication channel for OCTO primary stakeholders and the current Travel Pay delivery team. |
+| #travel-pay | Coordinated cross team communication related to the Travel Pay experience across web and mobile teams. |
 
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
@@ -72,7 +66,7 @@
 
 ## Product
 
-#### Feature Outlines And Guides
+#### Feature Outlines And Documentation
 - [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
 - Simple, Mileage Only Claim Product Outline (Under Development – CR)
 - Complex Claims Product Outline (Under Development – CR)
