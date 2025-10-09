@@ -37,7 +37,7 @@ While the initial value proposition is aimed at TSMs and RSVs, the DYB tool is m
 
 |Project|Epic|Status|
 |----|----|---|
-|Results page 2.0 | Jira: PTEMSVT-588  | Planning |
+|[Results page 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/results-page-2.0/README.md) | Jira: PTEMSVT-588  | Planning |
 | "Authenticated flow" MVP | Jira: PTEMSVT-593 | Planning|
 
 
