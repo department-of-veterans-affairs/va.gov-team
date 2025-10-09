@@ -10,7 +10,7 @@
   - [Feature Outlines and Documentation](#feature-outlines-and-documentation)
   - [Priorities, Sprints and Scrum Boards](#priorities-sprints-and-scrum-boards)
   - [Research](#research)
-  - [Production Designs (Figma)](#production-designs-figma)
+  - [Product Designs in Figma](#product-designs-in-figma)
   - [Production Support](#production-support)
   - [Metrics and Medallia Feedback](#metrics-and-medallia-feedback)
 - [Engineering](#engineering)
@@ -113,10 +113,10 @@
 - Training Environment
 - Knowledge Transfer Recordings
 
-#### Architecture (Under Development – KD)
+#### Architecture
 - Zero Silent Failures (Under Development – KD)
  
-#### Code Repositories (or search here)
+#### Code Repositories
 - vets-website
 - vets-api
 - octo-vista-api
