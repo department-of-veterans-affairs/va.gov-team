@@ -27,6 +27,7 @@
   - [Error Types](#error-types)
   - [Knowledge Transfer Recordings](#knowledge-transfer-recordings)
 - [Resources Developed outside the Travel Pay Team](#resources-developed-outside-the-travel-pay-team)
+
   
 ## Team Members
 - OCTO Managers
@@ -56,11 +57,20 @@
   - #btsss-product-ux-eng
   - #travel-pay
 
+ (POSSIBLY DELETE)
+- GitHub label = `beneficiary-travel`   
+
+| Channel | Used for | 
+|---|---|
+| #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or experience communication for BTSSS frontend team, including: agile ceremonies, announcements, broad notifications related to rollouts, releases, and launches. |
+| #travel-pay | Coordinated communication related to travel pay experience across web and mobile teams |
+
+
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
  - [Glossary of Terms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/Desktop%20Research/glossary%20of%20terms.md)
 
-## Product
+## The Travel Pay Product
 
 #### Product Documentation
 - [Travel Pay Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT)
@@ -72,6 +82,8 @@
 - Product Guides (DRAFTED)
   - How to Update Product Guides (Not Started)
 
+- [Product Outline](./product-outline-btsss.md)  (POSSIBLY DELETE)
+
 #### Priorities, Backlog, Sprints
 - [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
 - [Scrum Board & Sprint Goals](https://github.com/orgs/department-of-veterans-affairs/projects/1525)
@@ -80,6 +92,9 @@
 - [Beneficiary Travel Blueprints](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712673980094/648adf9a347a7618219b71f7923b48ffa09764f6?wid=126-1718154129143&sender=ucbacbd1daef36939e8aa2288)
 - [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#research)
 - Beneficiary travel reimbursement discovery and research findings
+
+- [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)   (POSSIBLY DELETE)
+
 
 #### Product Designs (Figma)
 - [Design Artifacts & Other Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#design-artifacts-and-other-resources)  (Pre 2024)
@@ -98,13 +113,6 @@
 - Medallia URL Exclusion List
 - How to Generate an Analytics Report for VA Stakeholders
 
-#### Testing
-- Testing Setup
-- Instructions for Accessing Travel Pay in the Staging Environment
-- [Staging Environment Test Account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#staging-user-nolle-barakat)
-- [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
-- TestRail Test Plans & Cases
-
 #### Production Support
 - Responding to Veteran Complaints
 - Production Support
@@ -114,75 +122,37 @@
   - How to Set System Down Window Notifications
   - Incident Management on VA.gov
 
-## Process
+## Engineering
 
 #### Process Documentation
-- Travel Pay Development Process
-- Decision Register
-
-#### Engineering
-- Architecture (Under Development – KD)
-- Zero Silent Failures (Under Development – KD)
-- Code Repositories (or search here)
-  - vets-website
-  - vets-api
-  - octo-vista-api
-  - cie-staging-scheduler
-- System Documentation
-- QA
-- Training Environment
 - Developer Guide
+- Development Process
 - Error Types
+- Decision Register
+    
+#### Architecture (Under Development – KD)
+- Zero Silent Failures (Under Development – KD)
+
+#### Code Repositories (or search here)
+- vets-website
+- vets-api
+- octo-vista-api
+- cie-staging-scheduler
+
+#### QA Testing 
+- Testing Setup
+- Instructions for Accessing Travel Pay in the Staging Environment
+- QA
+- [Staging Environment Test Account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#staging-user-nolle-barakat)
+- [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
+- TestRail Test Plans & Cases
+
+#### System Documentation And More
+- Training Environment
 - Knowledge Transfer Recordings
 
 ## Resources developed outside the Travel Pay Team
-For questions, reach out to 
+For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - FAQs
 - Communications Toolkit
 - Training Materials
-
-
-
-
-## Communication
-
-GitHub label = `beneficiary-travel`
-
-| Channel | Used for | 
-|---|---|
-| #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or experience communication for BTSSS frontend team, including: agile ceremonies, announcements, broad notifications related to rollouts, releases, and launches. |
-| #travel-pay | Coordinated communication related to travel pay experience across web and mobile teams |
-
-
-## Product
-- [Product Outline](./product-outline-btsss.md)
-
-## Research
-- [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
-
------
-
-## Related Projects
-
-### Check-In Experience
-<details>
- <summary>Check-in app integration</summary>
-
-[Wilkes-Barre Pilot Summary/Release Plan](/checkin/release-plan/check-in-travel-release-plan.md)
-  
-
-As Veteran, I want to submit a travel claim during the check in process
-
-For the vets facing work, we are currently using the Check In Team for a bulk of the work since our first integration is Check In app. For the API we are using JIRA. 
-
-- GitHub label = `HCE-Checkin` 
-- [JIRA board](https://vajira.max.gov/secure/RapidBoard.jspa?rapidView=7791&projectKey=BTSSS)
-
-This is going to change in the fall of 2023. 
-
-- [Team docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/checkin)
-- [Prototype](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6/prototype/a/0042DC07-D314-45AF-946F-884DCBBE43C0)
-- [Sketch file (w/ additional confirmation pages)](https://www.sketch.com/s/38819fc4-18ef-4958-a330-a699785301d6)
-- [User flow (w/ text messages](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677531124203/5edcfd3ea4b1eaf1ef082d56782a8b3291ef3932?sender=u37bb983bd3fc3cc00c7d3286)
-
- </details>
