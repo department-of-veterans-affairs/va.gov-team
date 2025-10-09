@@ -1,4 +1,4 @@
-# Evaluation of adding DOD's ENPP (Employment Navigator & Partnership Program) to Discover Your Benefits
+# Evaluation of adding DoL's ENPP (Employment Navigator & Partnership Program) to Discover Your Benefits
 
 Oct 3, 2025  
 Anna Higgins
