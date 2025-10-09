@@ -5,5 +5,4 @@ This is a list of data points that VA.gov uses or wants to use to display inform
 Notes: VNP tables are not a reliable source of data and should not be used to "get" data.
 
 
-
-
+[Dependent Data Points.xlsx](https://github.com/user-attachments/files/22799058/Dependent.Data.Points.xlsx)
