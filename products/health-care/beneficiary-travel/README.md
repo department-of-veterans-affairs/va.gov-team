@@ -4,7 +4,7 @@
 
 - [Team Members](#team-members) 
 - [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0) (For Team Members Only)
-- [Team Calendar & Communication Groups](#team-calendar-&-communication-groups)
+- [Team Calendar And Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
   - [Product Documentation](#product-documentation)
@@ -47,7 +47,7 @@
   - [Kristen Faiferlick](https://dsva.slack.com/team/U03SWD93525)
   - [Liza McRuer](https://dsva.slack.com/team/U08Q9AD01RS)
 
-## Team Calendar & Communication Groups
+## Team Calendar And Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
 - Email Distribution List
   - [VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
