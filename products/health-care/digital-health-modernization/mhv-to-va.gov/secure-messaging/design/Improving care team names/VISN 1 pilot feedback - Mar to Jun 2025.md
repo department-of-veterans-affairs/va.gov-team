@@ -1,6 +1,8 @@
 # Mar to Jun 2025: VISN 1 Pilot feedback
 This doc summarizes MHV coorindator feedback from [this Excel file](https://dvagov.sharepoint.com/:x:/r/sites/PlainLanguageCareTeamNamespilot/Shared%20Documents/Plain%20Language%20Care%20Team%20Names%20pilot%20feedback/Feedback.xlsx?d=w983d377621b342e5bde9c1af311aa9f5&csf=1&web=1&e=rk8X0w) so far. Tracey and Kathy mostly contributed this feedback.
 
+Background: All facilities in VISN 1 piloted a new process to update triage group names. The new names follow [these plain language guidelines](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Improving%20care%20team%20names/2024.09.17%20Plain%20language%20triage%20groups%20rules%20for%20patient-facing%20requir.docx?d=w6d2468e423a64d7cba1172f01e2e364f&csf=1&web=1&e=i7oHFa). Review all related docs [in this SharePoint folder](https://dvagov.sharepoint.com/:f:/s/PlainLanguageCareTeamNamespilot/EoCUJCL8T19JuUto4ROp5OMBCi0TORzmPJJolBg5_leKkg?e=oswA7K) and [in this other SharePoint folder](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Improving%20care%20team%20names/2024.09.17%20Plain%20language%20triage%20groups%20rules%20for%20patient-facing%20requir.docx?d=w6d2468e423a64d7cba1172f01e2e364f&csf=1&web=1&e=S0Cv0B).
+
 Jump to: 
 - [Feedback](#feedback)
 - [Recommendations](#recommendations)
