@@ -206,12 +206,16 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 ### * GET `/vaos/v2/referrals` (new)
 ```
 [
-  {
-    "uuid": "123_123456",
-    "categoryOfCare": "Physical Therapy",
-    "referralDate": "2025-06-02T10:30:00Z",
-    "expirationDate": "2025-06-02"
-  }
+    id: uuid,
+    type: 'referrals',
+    attributes: {
+        expirationDate: 'yyyy-mm-dd',
+        uuid: '6cg8T26YivnL68JzeTaV0w==',
+        categoryOfCare: 'OPTOMETRY',
+        referralNumber: 'VA0000007241',
+        referralConsultId: '984_646907',
+        stationId: '456GW',
+    }
 ]
 ```
 ### * GET `/vaos/v2/referrals/{referralNo}`
