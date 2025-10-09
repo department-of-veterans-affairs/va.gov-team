@@ -106,6 +106,25 @@ Now we're going to move to the financial portion of our discussion. I want to ma
 
 # 🚧 🚧 🚧 Interview Section
 
+At whatever level you're comfortable, can you tell me about your current or recent experience with owing VA money for benefit overpayments?
+
+* How did you first learn of this debt?
+* Did you know that this debt was coming?
+* Did you understand what it was for?
+* Did you understand your options?
+* What sort of communication regarding this debt have you received?
+
+And again at the level you're comfortable, what is your experience with receiving bills from VA healthcare copayments?
+
+Thinking about both the overpayment and about the copays, talk to me about how you think of them both overall within your greater financial realm?
+* Are you making payments at the same or similar time for both?
+* What is your method for making sure you make these payments in a timely fashion?
+* Are you ever looking at information and history for both of these at once?
+    * If yes: how are you doing that? What elements are important to you?
+    * If no: is that something that might be useful at all to you? In what capacity?
+* When you're looking to do any sort of management of your VA finances (e.g. reading info about debt or charges, determining next steps, making payments), when are you typically doing that? This could be time of day or night, as it relates to other activities, or maybe at some physical location.
+    * Can you tell me why you choose to do this at these times/days/locations?
+
 # 🚧 🚧 🚧 Screen sharing: current experience of combined statements
 
 # 🚧 🚧 🚧 Screen sharing: future experience of combined statements
