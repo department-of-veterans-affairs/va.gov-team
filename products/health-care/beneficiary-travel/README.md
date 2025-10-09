@@ -69,7 +69,7 @@
   - How to Update Product Guides 
 
 #### Priorities, Sprints And Scrum Boards
-- [Priorities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719321335255/e7d232804a586f6ef154aadc508e73c0a45aa895)
+- [Priorities](https://github.com/orgs/department-of-veterans-affairs/projects/1713/views/2?sliceBy%5Bvalue%5D=%F0%9F%9A%97+Ursa+Minor+%28Travel%29)) (UAE Roadmap)
 - [Scrum Board & Sprint Goals](https://github.com/orgs/department-of-veterans-affairs/projects/1525)
 
 #### Research
