@@ -8,7 +8,9 @@ We want to document recent and historical Flipper and other data states to make 
 
 ---
 ### How to know what setup is needed for which feature
-First, start by looking in vets-website `src/applications/disability-benefits/all-claims/config/form.js` to see the page or related set of pages you want to display. The `depends` logic for the page will show you in what state you need the data to be. 
+First, start by looking in the Form Config in vets-website `src/applications/disability-benefits/all-claims/config/form.js` to see the page or related set of pages you want to display. 
+
+The `depends` logic for the page will show you in what state you need the data to be. 
 
 #### Mapping Flipper states between Frontend and Backend
 _TODO: explain metadata mappings in vets-api/config/form_profile_mappings/21-526EZ.yml (like startedFormVersion: [prefill_526, started_form_version] and
@@ -36,10 +38,10 @@ You can set Flipper states in two ways:
 _TODO: figure out way to organize, perhaps based on feature or sub-form? It would be good to mark which flags have been vetted as well._
 
 
-#### [WIP] Testing BDD claims
+#### Testing BDD claims
 This involves starting an application by choosing Active Duty with a discharge date 90 to 180 days in the future.
 
-#### [WIP] Testing 0781 
+#### Testing 0781 
 - To test modern 0781, you need disability_compensation_sync_modern_0781_flow to be on. You will also notice syncModern0781Flow or sync_modern_0781_flow set in the data. 
 - To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off.
 
@@ -52,9 +54,9 @@ This involves starting an application by choosing Active Duty with a discharge d
 | 0781 sub form | disability_compensation_upload_0781_to_lighthouse | on | on | routes  
 
 
-#### TODO 4142:
+#### 4142:
 
-#### TODO Toxic Exposure: 
+#### Toxic Exposure: 
 
 ----
 #### [WIP] Attempt at an exhaustive Disability Compensation Flipper list 
