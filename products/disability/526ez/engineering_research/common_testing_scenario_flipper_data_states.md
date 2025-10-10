@@ -43,7 +43,7 @@ This involves starting an application by choosing Active Duty with a discharge d
 
 #### Testing 0781 
 - To test modern 0781, you need disability_compensation_sync_modern_0781_flow to be on. You will also notice syncModern0781Flow or sync_modern_0781_flow set in the data. 
-- To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off.
+- To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off. You will most likely need to claim PTSD as a new condition as well.
 
   
 | Area affected | Flipper name | Current state in Staging | Current state in Production | Behavior if on: | Behavior if off |
@@ -51,7 +51,7 @@ This involves starting an application by choosing Active Duty with a discharge d
 | 0781 sub form | disability_compensation_0781_stats_job | on | on | runs a stats job | stats job doesn't run  |
 | 0781 sub form | disability_compensation_sync_modern_0781_flow | on | on | NEW forms will use the modern 0781 | New forms will not use the modern 0781 |
 | 0781 sub form | disability_compensation_sync_modern0781_flow_metadata | on | on | adds modern 0781 metadata to In Progress Forms and Saved Claims | metadata not added | 
-| 0781 sub form | disability_compensation_upload_0781_to_lighthouse | on | on | routes  
+| 0781 sub form | disability_compensation_upload_0781_to_lighthouse | on | on | routes all 0781 subform submissions to Lighthouse 
 
 
 #### 4142:
