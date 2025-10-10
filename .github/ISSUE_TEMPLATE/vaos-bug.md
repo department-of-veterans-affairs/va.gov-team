@@ -11,7 +11,7 @@ assignees: ''
 _Describe what went wrong_
 
 ## Appointment systems affected
-Check all appoinment systems affected by or relevant to this feature
+Check all appoinment systems affected by or relevant to this bug
 
 - [x] vistA
 - [x] HSRM
