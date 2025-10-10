@@ -19,15 +19,25 @@ This page houses the links to all files needed for Reapers Staging Review.
 - Scenario	First Name	Last Name	Email	ICN	Status	Notes
 - 
 1	HECTOR	ALLEN	vets.gov.user+0@gmail.com	1012667122V019349	200	eligible
+  
 2	ALLAN	BUTLER	vets.gov.user+15@gmail.com	1012829948V217207	200	qualifying military service ineligible
+
 3	JIM	BYRD	vets.gov.user+16@gmail.com	1012849574V585256	200	character of discharge ineligible
+
 4	CARL	JENSEN	vets.gov.user+76@gmail.com	1012848398V967004	200	disability rating ineligible
+
 5	KENT	WARREN	vets.gov.user+28@gmail.com	1012662125V786396	200	eligibility termination date ineligible
+
 6	DARYL	PRICE	vets.gov.user+30@gmail.com	1013013881V608250	403	ICN does not exist in MPI system
+
 7	MARCIA	FLEMING	vets.gov.user+33@gmail.com	1012845629V054840	500	system unavailable due to maintenance
+
 8	CALVIN	FLETCHER	vets.gov.user+34@gmail.com	1012829890V001762	200	eligible / case doesn't exist in RES
+
 9	MARTHA	FLETCHER	vets.gov.user+35@gmail.com	1012833046V189377	200	ineligible / case exists in RES
+
 10	MITCHEL	JENKINS	vets.gov.user+75@gmail.com	1012830872V584140	200	ineligible / case doesn't exist in RES
+
 11	MARTHA	FLETCHER	vets.gov.user+35@gmail.com	1012833046V189377	200	irnd date ineligible
   
 ### List of known issues and bugs
