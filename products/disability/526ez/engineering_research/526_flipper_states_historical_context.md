@@ -6,11 +6,22 @@ We noticed that devs newer to the Disability Benefits Crew and VA space weren't 
 #### Solution
 We want to document recent and historical Flipper states to make testing scenarios easier to set up. 
 
-### [WIP] Flipper states
+#### How to know what set up is needed for which feature
+First, start by looking in vets-website `src/applications/disability-benefits/all-claims/config/form.js` to see the page or related set of pages you want to display. The `depends` logic for the page will show you in what state you need the data to be. 
+
+You can set Flipper states in two ways:
+- in the vets-api console by starting a Rails console, and something like `Flipper.enable(:your_feature_flag)`
+- in the Flipper UI [locally](http://localhost:3000/flipper/features) or in [Staging](https://staging-api.va.gov/flipper/features/)
+
+### [WIP] Flipper states and metadata
 TODO: figure out way to organize, perhaps based on feature or sub-form? It would be good to mark which flags have been vetted as well. 
-TODO: As a part of this work, I noticed that flags used in a mock API JSON response in vets-website aren't accurate which is confusing. We should update them to reflect the actual names: src/applications/disability-benefits/all-claims/local-dev-mock-api/featureToggles.json
+
+TODO: explain metadata mappings in vets-api/config/form_profile_mappings/21-526EZ.yml (like startedFormVersion: [prefill_526, started_form_version] and
+syncModern0781Flow: [prefill_526, sync_modern_0781_flow])
 
 #### [WIP] 0781 
+- To test modern 0781, you need disability_compensation_sync_modern_0781_flow to be on. You will also notice syncModern0781Flow or sync_modern_0781_flow set in the data. 
+- To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off. 
 | Area affected | Flipper name | Current state in Staging | Current state in Production | Behavior if on: | Behavior if off |
 | ------------- | ------------- | ------------------------ | -------------------------- | ---------------- | -------------- |
 | 0781 sub form | disability_compensation_0781_stats_job | on | on | runs a stats job | stats job doesn't run  |
