@@ -14,7 +14,7 @@
 - Identify any significant code changes. Does this add a new function, or substantially refactor existing code?
     - No significant code changes, new functionality or refactoring of existing code.
 - Identify any new design system components needed or changes to current components
--     Pending conversations in Design Intent we may have a need to incorporate a radio button component in the search results template
+    - Pending conversations in Design Intent we may have a need to incorporate a radio button component in the search results template
 - Does this update change shared code?
     - No, not that we're aware of (pending the radio button component discussion)
 - Describe any product analytics being gathered. How will errors in the FE system be detected?
