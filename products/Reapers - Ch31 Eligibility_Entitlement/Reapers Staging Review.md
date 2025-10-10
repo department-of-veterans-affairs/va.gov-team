@@ -21,7 +21,7 @@ This page houses the links to all files needed for Reapers Staging Review.
 - Ticket from IA/Content - https://github.com/department-of-veterans-affairs/va.gov-team/issues/120296#issuecomment-3381874541
 
 ### Test users and scenarios
-- 
+- Testing information - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/Reapers-VRE%20CH31%20Eligibility-Entitlement.md
   
 ### List of known issues and bugs
 - We recieved our content and IA feedback yesterday, in there giving us the correct URL to use. As a result we have to seperate our page from being inbedded in the form page. We are working on this now and should be done by the time we hit staging review, we will hold our code locally until after staging review.
