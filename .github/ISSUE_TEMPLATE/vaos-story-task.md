@@ -12,11 +12,11 @@ _What details are necessary for understanding the specific work or request track
 
 ---
 ## Appointment systems affected
-Check all appoinment systems affected by or relevant to this feature
+Check all appoinment systems affected by or relevant to this task
 
-- [ ] vistA
-- [ ] HSRM
-- [ ] CERNER (OH)
+- [x] vistA
+- [x] HSRM
+- [x] CERNER (OH)
 - [ ] N/A
       
 ## Development Checklist
