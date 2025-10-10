@@ -13,9 +13,9 @@ _Provide the description of the feature_
 ## Appointment systems affected
 Check all appoinment systems affected by or relevant to this feature
 
-- [ ] vistA
-- [ ] HSRM
-- [ ] CERNER (OH)
+- [x] vistA
+- [x] HSRM
+- [x] CERNER (OH)
 - [ ] N/A
       
 ## Requirements
