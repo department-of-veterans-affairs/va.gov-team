@@ -11,7 +11,8 @@ This page houses the links to all files needed for Reapers Staging Review.
 - Content Team Feedback - https://github.com/department-of-veterans-affairs/va.gov-team/issues/120296#issuecomment-3381874541
 
 ### Direct link or instructions on how to access the product
-
+- Staging Link - https://staging.va.gov/?next=%2Fcareers-employment%2Fvocational-rehabilitation%2Fapply-vre-form-28-1900%2Fyour-eligibility-and-benefits&oauth=true
+  
 ### Drupal or Staging URL for updated primary entry point
 
 ### Test users and scenarios
