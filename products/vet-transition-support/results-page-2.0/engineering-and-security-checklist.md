@@ -3,9 +3,9 @@
 ## Engineering Checklist
 
 ### Product description
-    - The Discover Your Benefits (DYB) tool supports TSMs and RSVs in their transition from military to civilian life by reaching them sooner in the transition journey.
-    - [See project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/results-page-2.0)
-    -  [#121850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121850)
+- The Discover Your Benefits (DYB) tool supports TSMs and RSVs in their transition from military to civilian life by reaching them sooner in the transition journey.
+- [See project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/results-page-2.0)
+- [#121850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121850)
 
 ### UX design description
     +  Figma link TK
