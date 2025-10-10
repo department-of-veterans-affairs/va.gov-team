@@ -242,8 +242,11 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (09/24/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items. - This work will continue on as input is needed from the Platform Design Team due to a pagination error/bug.
+- UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding. - This work will roll into the next sprint, as alignment is needed amongst all stakeholders before Veteran facing messages can be refined and updated.
+- UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience. - Per PO guidance, the team pivoted from this work to focus on the upcoming Payment History usability study preparation.
 
 ---
 
