@@ -205,18 +205,22 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 ### * GET `/vaos/v2/referrals` (new)
 ```
-[
-    id: uuid,
-    type: 'referrals',
-    attributes: {
-        expirationDate: 'yyyy-mm-dd',
-        uuid: '6cg8T26YivnL68JzeTaV0w==',
-        categoryOfCare: 'OPTOMETRY',
-        referralNumber: 'VA0000007241',
-        referralConsultId: '984_646907',
-        stationId: '456GW',
+{
+  "data": [
+    {
+      "id": "6cg8T26YivnL68JzeTaV0w==00",
+      "type": "referrals",
+      "attributes": {
+        "expirationDate": "2026-04-09",
+        "uuid": "6cg8T26YivnL68JzeTaV0w==00",
+        "categoryOfCare": "CHIROPRACTIC",
+        "referralNumber": "VA0000007241",
+        "referralConsultId": "984_646907",
+        "stationId": "659"
+      }
     }
-]
+  ]
+}
 ```
 ### * GET `/vaos/v2/referrals/{referralNo}`
 Response when not booked ie: no appointments have been booked for this referral)
