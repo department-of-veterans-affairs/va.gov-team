@@ -2,18 +2,27 @@
 
 ## Engineering Checklist
 
-- Product description
-    + Brief overview of motivation for the change from an engineering & security point of view
-    + Link to Collaboration Cycle Request issue
-- UX design description
-    + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
-- Frontend changes
-    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code?
+### Product description
+    - The Discover Your Benefits (DYB) tool supports TSMs and RSVs in their transition from military to civilian life by reaching them sooner in the transition journey.
+    - [See project outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/results-page-2.0)
+    -  [#121850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121850)
+
+### UX design description
+    +  Figma link TK
+
+### Frontend changes
+    + Identify any significant code changes. Does this add a new function, or substantially refactor existing code?
+        + No significant code changes, new functionality or refactoring of existing code. 
     + Identify any new design system components needed or changes to current components
+        + Pending conversations in Design Intent we may have a need to incorporate a radio button component in the search results template
     + Does this update change shared code?
-    + Describe any product analytics being gathered.  How will errors in the FE system be detected?
-- Backend changes
+        + No, not that we're aware of (pending the radio button component discussion) 
+    + Describe any product analytics being gathered. How will errors in the FE system be detected?
+        +  Standard click tracking/usage
+        +  _Errors are logged..._
+
+### Backend changes
+_Section not applicable_
     + Does the project introduce any new or unusual infrastructure dependencies?
     + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`)
     + Do you need to poll any APIs for status?  How is API success or failure determined?
@@ -22,7 +31,9 @@
     + What information will be captured in logs or metrics?
     + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses?
     + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism?
-- Internal API changes
+
+### Internal API changes
+_Section not applicable_
     + List new or modified APIs in `vets-api`
     + Are you deprecating or removing any APIs?
     + Do you have API documentation?
@@ -31,44 +42,63 @@
     + Are there any third party integrations, and how are they vetted?
     + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?)
     + Is schema validation enforced (ex: using the vets-json-schema repo)?
-- External API changes
+
+### External API changes
+_Section not applicable_
     + List new or modified APIs for upstream or external systems
     + Describe expected call patterns
     + What PII or PHI will be transmitted to/from the external systems?
-- Background jobs
+
+### Background jobs
+_Section not applicable_
     + List any required background processing
     + Describe error and dead letter handling
-- Data storage
+
+### Data storage
+_Section not applicable_
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
     + Is this change introducing a large or new volume of data?
     + Do these changes impact database or caching layers (ex: Redis, Postgres)? Do the changes have implications for data volume, memory, or CPU usage to consider?
     + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism?
-- Libraries and dependencies
+
+### Libraries and dependencies
+_Section not applicable_
     + List new or updated dependencies
-- Metrics, logging, observability, alerting
+
+### Metrics, logging, observability, alerting
     + Identify key areas to monitor
     + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost
     + Are there any sensitive data risks with logging?
-- Infrastructure and network changes
+
+### Infrastructure and network changes
+_Section not applicable_
     + List any changes or additions
-- Test strategy
+
+### Test strategy
     + Describe automated, manual and user acceptance test strategy
+        + We have end to end and unit tests implemented in our code
+        + The team will conduct manual QA of the updated features using test cases
+        + The team intends to conducts UAT with Veterans via the standard research recruitment process with Perigean
     + Describe required test data and test user accounts
-- Rollout plan
+        + Unauthenticated product, no additional test data or user accounts needed 
+
+### Rollout plan
     + List scope of any feature flags
+        + ...
     + Identify other teams to coordinate with
+        + Not applicable 
     + Describe rollback plan
-- Internal administration tasks
+        + ... 
+### Internal administration tasks
+_Section not applicable_
     + What maintenance or administration tasks do you anticipate will need to be performed periodically?
     + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
 
 ## Security Checklist
 ### Questions to be Answered
 
-The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
-- Please describe what problem this product or feature solves.
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
     - How does the code base get disabled in the product?
