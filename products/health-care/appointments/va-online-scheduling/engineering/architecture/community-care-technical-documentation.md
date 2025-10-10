@@ -237,7 +237,7 @@ Response when not booked ie: no appointments have been booked for this referral)
       "referralNumber": "VA0000007241",
       "categoryOfCare": "CHIROPRACTIC",
       "referralConsultId": "984_646907",
-      "appointments: {},
+      "appointments: null,
       "referringFacility": {
         "name": "Batavia VA Medical Center",
         "phone": "(585) 297-1000",
