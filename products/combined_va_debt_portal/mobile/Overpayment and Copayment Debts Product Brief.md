@@ -129,6 +129,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/22/2025| MFS will include the "It may take up to 4 business days for payments to reflect on your account" messaging under Current debts.| This decision aligns with the content that is on VA.gov and the decision is tracked in this [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758204820816849?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) thread. |
 |9/30/2025| Unauthenticated pages will open in web browser, unless it's a form.| This decision was provided to the MFS team during our UX Core Mobile sync.|
 |10/6/2025| The new Copay API data will be included in the MVP.| This decision was made by Denise and Michelle. The MFS team will be working to understand what design and content changes will need to be made. This will push out the release of Overpayments and Copayments to the mobile app.|
+|10/7/2025| Midpoint feedback was vetted and approved.| During our sync it was decided we would move forward with feedback, except that we did not need to immediately act on the copy account number layout for MVP. [Here](https://dsva.slack.com/archives/C07SD9P7XB9/p1759954661735949) is the Slack message to confirm what was discussed during that meeting. |
 |10/8/2025| Overpayments will be used in place of debts throughout design.| This content decision was announced in our FM//MFS sync and was feedback that was provided to the FM team.|
 
 ## Features to consider for v2
