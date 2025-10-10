@@ -18,6 +18,8 @@ This page houses the links to all files needed for Reapers Staging Review.
 ### Test users and scenarios
 ### List of known issues and bugs
 ### Completed accessibility testing artifact
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/121844
+  
 ### QA Artifacts
 ### Completed Engineering and Security Checklist
 
