@@ -1,0 +1,65 @@
+name: Vets-API Deployment Freeze Checklist
+description: Use this checklist when upper environments (sandbox/prod) must be frozen.
+about: Checklist to freeze deployments for upper environments for vets-api
+title: "[Vets-API] Freeze Deployment Freeze for Upper Environments"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🔒 Deployment Freeze Instructions
+
+        Use this checklist to prevent deployments to **Sandbox** and **Production** during a freeze period.
+
+        **Goal:** Stop automatic deployments to upper environments until further notice.
+
+        ### 🧭 Overview
+        1. Update `vsp-infra-argocd` to deny syncs.
+        2. Confirm related PRs in `vets-api` are merged.
+        3. Validate upper environments are locked down.
+
+        ---
+        **Example change:**
+        ```diff
+        - kind: allow
+        - schedule: '0 13 * * 1-5'
+        + kind: deny
+        + schedule: '* * * * *'
+        ```
+
+        ---
+        ![Example freeze diff](https://github.com/department-of-veterans-affairs/va.gov-team/assets/images/vetsapi-manual-deployment-prune1.png)
+  - type: checkboxes
+    id: argocd-update
+    attributes:
+      label: Step 1 — vsp-infra-argocd Update
+      description: Update the ArgoCD schedule to deny Sandbox and Production syncs.
+      options:
+        - label: Open `vsp-infra-argocd` repo and modify Sandbox/Prod schedule
+        - label: Change `kind: allow` to `kind: deny`
+        - label: Change schedule to `'* * * * *'` (deny all times)
+        - label: Commit and merge PR after review
+
+  - type: checkboxes
+    id: vets-api-prs
+    attributes:
+      label: Step 2 — Vets-API Update
+      description: Ensure freeze-related PRs are merged in the vets-api repository.
+      options:
+        - label: Added the `production-bypass` branch to `branches-ignore` in the [Ready for Review Workflow](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.github/workflows/ready_for_review.yml). Example PR](https://github.com/department-of-veterans-affairs/vets-api/pull/24537/files)
+        - label: Confirm all PRs are merged to master
+
+  - type: checkboxes
+    id: validation
+    attributes:
+      label: Step 3 — Validation
+      description: Verify that upper environments cannot be deployed.
+      options:
+        - label: Attempt manual sync on Sandbox — expect **denied**
+        - label: Attempt manual sync on Production — expect **denied**
+        - label: Confirm ArgoCD status shows "Sync Denied" or "Out of Window"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / Additional Context
+      description: Add any additional information, approvals, or verification logs.
