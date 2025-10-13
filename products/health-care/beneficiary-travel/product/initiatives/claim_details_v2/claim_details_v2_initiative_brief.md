@@ -1,5 +1,5 @@
 # Claims Details V2 Initiative Brief
-#### Overview
+## Overview
 Following the initial release of the Claim Details screen it was determined that Veterans needed additional funtionality in order to fully be able to review and manage the Travel Pay claims they had submitted. Therefore, a 2nd wave of function were  outlined and added.
 
 ## Problem
@@ -21,6 +21,8 @@ Veterans often have denied travel pay claims, and research has shown that while 
 * Following the release VTP Clerks and other support staff will see a 
 	* Decrease in denial-related calls to the Call Center
 	* Increase in appeals submissions for denied claims originating from VA.gov
+
+* This work was initially built for the web experience and available in mobile as a SSO webview. It was implemented in the VAHB (mobile) experience natively later in 2025. (Mobile Initiative Epic [#112307](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112307))
 
 #### Future Release
 * We'll include the below functionality in a future release (Target 2026) 
@@ -55,32 +57,24 @@ Veterans often have denied travel pay claims, and research has shown that while 
 - **Organizational Viability Risks/Constraints** :
 	- The single largest risk is coordination with VTP. Because VTP remains an influential owner of the existing BTSSS portal, we will need to continue working them on design, testing, rollout, and MS dynamics licensing questions,
       
---- 
+### Screenshots				[Figma Files]
 
 ## Launch Planning
-#### Collaboration Cycle 	[Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1525/views/3?pane=issue&itemId=103757282&issue=department-of-veterans-affairs%7Cva.gov-team%7C105484)
-
-#### Timeline 				**Timeline pending**
+#### Collaboration Cycle Kickoff Tikets 	
+- 
+	- [Web](https://github.com/orgs/department-of-veterans-affairs/projects/1525/views/3?pane=issue&itemId=103757282&issue=department-of-veterans-affairs%7Cva.gov-team%7C105484)
+	- [Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112407)
 
 #### Initiative Launch Dates
-- *Target Launch Date*  - May 2025
-- *Actual Launch Date*	- Pending
+- VA.gov (Web) Release
+	* Target Launch Date*  - May 2025
+ 	* Actual Launch Date*	- Pending
 
-#### Go-to-market 			**Communications will be handled through VTP's change management office.**
+- VAHB (Mobile) Release
+	* Target Launch Date*  - September 2025
+ 	* Actual Launch Date*	- Pending
 
----
-   
-## Screenshots				[Figma Files]
+#### Go-to-market
+- Communications will be handled through VTP's change management office.**
 
----
-
-#### Communications
-
-- Team Name: Travel Pay on VA.gov
-- GitHub Label(s): travel-pay
-- Slack channel: #beneficiary-travel
-- Product POCs: Kay Lawyer, Mark Dewey, Kristen McConnell (VA); Ayush Chakravarty, Kevin Duensing, Micah Taylor (Ad Hoc)
-- Additional Stakeholders: Veterans Travel Pay Office (Daryl Richardson, Lee Cook)
-
-- Office/Department: Veteran Experience Office
-- Contact(s): Lisa Koenigsberg
+### [Communications & Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/README.md#team-calendar-and-communication-groups)
