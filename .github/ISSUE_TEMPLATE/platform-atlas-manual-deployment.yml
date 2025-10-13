@@ -1,0 +1,44 @@
+name: Platform Atlas Manual Deployment Verification and Sync
+about: Checklist to verify deployments and sync environments for platform-atlas
+title: "[Deployment] Verify and Sync Platform Atlas"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Deployment Verification & Sync Instructions
+        Follow this checklist to ensure platform-atlas is properly deployed to **prod** environments.
+
+  - type: checkboxes
+    id: verify-deployments
+    attributes:
+      label: Verify Deployment Statuss
+      description: Ensure there are no deployment issues for **dev**.
+      options:
+        - label: Checked platform-atlas-dev deployment (no issues), https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Sync Prod
+        1. Go to **platform-atlas-prod**.
+        2. Click **Sync**.
+        ![ArgoCD sync example showing PRUNE and AUTO-CREATE NAMESPACE checked](https://github.com/department-of-veterans-affairs/va.gov-team/assets/images/vetsapi-manual-deployment-prune1.png)
+        3. Ensure **PRUNE** and **AUTO-CREATE NAMESPACE** are **checked** (see image reference).
+        ![ArgoCD sync example showing PRUNE and AUTO-CREATE NAMESPACE checked](https://github.com/department-of-veterans-affairs/va.gov-team/assets/images/vetsapi-manual-deployment-prune2.png)
+        4. Click **Synchronize**.
+
+  - type: checkboxes
+    id: sync-prod
+    attributes:
+      label: Prod Sync
+      options:
+        - label: Navigated to platform-atlas-prod, https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=.
+        - label: Clicked Sync.
+        - label: Confirmed PRUNE and AUTO-CREATE NAMESPACE are checked.
+        - label: Clicked Synchronize.
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Add any issues, errors, or additional observations during the process.
