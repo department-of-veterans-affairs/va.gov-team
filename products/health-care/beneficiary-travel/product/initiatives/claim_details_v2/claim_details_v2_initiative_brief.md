@@ -1,4 +1,6 @@
 # Claims Details V2 Initiative Brief
+(Updated as of 10/13/2025)
+
 ## Overview
 Following the initial release of the Claim Details screen it was determined that Veterans needed additional funtionality in order to fully be able to review and manage the Travel Pay claims they had submitted. Therefore, a 2nd wave of function were  outlined and added.
 
