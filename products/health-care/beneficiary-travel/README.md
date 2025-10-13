@@ -61,7 +61,7 @@
 - [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (As of 10/2/2025)
 - Simple, Mileage Only Claim Initiative Brief
 - [Claims Details V2 Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)  (As of 10/13/2025
-- Complex Claims Initiave Brief
+- [Complex Claims Initiave Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/complex-claims/complex-claims-initiative-brief.md)   (As of 10/13/2025)
 - Complex Mileage Initiave Brief
 - Community Care Appointments Initiative Brief
 - Non-Existent Appointments Initiative Brief
