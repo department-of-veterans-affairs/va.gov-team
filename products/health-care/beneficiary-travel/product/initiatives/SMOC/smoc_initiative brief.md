@@ -1,5 +1,5 @@
 # Simple Mileage Only Claim Initiative Brief  (aka SMOC)
-(As of 10/13/2025)
+(As of May, 2025)
 
 ## Outcome Summary
 The goal here is to enable simple, mileage-only claims (SMOC) on VA.gov. The current goal is for SMOC to exist on VA.gov with a low error rate.
