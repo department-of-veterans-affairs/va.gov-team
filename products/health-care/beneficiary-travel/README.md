@@ -139,5 +139,6 @@ For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK
 - [BTSSS Production Portal](https://dvagov-btsss.dynamics365portals.us/)
 - [BTSSS Confluence](https://community.max.gov/pages/viewpage.action?pageId=2226803040)
 - [VA Master Product List](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+- [VA Product Document Template Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 - FAQs
 - Media & Communications Items
