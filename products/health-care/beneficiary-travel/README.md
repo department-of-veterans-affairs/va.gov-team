@@ -7,7 +7,7 @@
 - [Team Calendar and Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
-  - [Feature Outlines and Documentation](#feature-outlines-and-documentation)
+  - [Product Outline, Initiative Briefs and Documentation](#product-outline-initiative-briefs-and-documentation)
   - [Priorities, Sprints and Scrum Boards](#priorities-sprints-and-scrum-boards)
   - [Research](#research)
   - [Product Designs in Figma](#product-designs-in-figma)
@@ -57,13 +57,13 @@
 
 ## Product
 
-#### Feature Outlines And Documentation
+#### Product Outline, Initiative Briefs and Documentation
 - [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (DRAFT-10/2/2025)
-- Simple, Mileage Only Claim Product Outline 
-- Complex Claims Product Outline 
-- Complex Mileage Product Outline
-- Community Care Appointments Product Outlines
-- Non-Existent Appointments Product Outlines 
+- Simple, Mileage Only Claim Initiative Brief 
+- Complex Claims Initiave Brief
+- Complex Mileage Initiave Brief
+- Community Care Appointments Initiative Brief
+- Non-Existent Appointments Initiative Brief
 - Product Guides 
   - How to Update Product Guides 
 
