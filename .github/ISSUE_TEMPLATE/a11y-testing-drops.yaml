@@ -79,6 +79,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Images
 
   - type: dropdown
@@ -108,6 +110,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Audio & video
 
   - type: dropdown
@@ -149,7 +153,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        ### Structure & semantics
+
+
+       ### Structure & semantics
 
   - type: dropdown
     id: web-131-001
@@ -190,6 +196,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Color, contrast, & sensory
 
   - type: dropdown
@@ -255,6 +263,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Layout & responsiveness
 
   - type: dropdown
@@ -284,6 +294,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Keyboard & focus
 
   - type: dropdown
@@ -325,6 +337,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Timing & interruptions
 
   - type: dropdown
@@ -342,6 +356,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+
         ### Navigation & consistency
 
   - type: dropdown
@@ -359,6 +375,8 @@ body:
   - type: markdown
     attributes:
       value: |
+
+      
         ### Forms & interactive controls
 
   - type: dropdown
