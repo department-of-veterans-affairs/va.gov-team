@@ -1,0 +1,457 @@
+name: Accessibility Testing Update Drops
+description: Complete required accessibility testing prior to your Staging review.
+title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
+labels: ["a11y-testing"]
+assignees:
+  - jasonday
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 1. Introduction
+  - type: markdown
+    attributes:
+      value: |
+        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see #5 Next Steps).
+        
+        ### Why we ask VFS teams to do accessibility testing
+        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
+  - type: markdown
+    attributes:
+      value: |
+        ## 2. Before you begin
+
+        The Required and Recommended checklists below are based on WCAG 2.2 and the [VA.gov Accessibility Standards](https://depo-platform-documentation.scrollhelp.site/accessibility/va-gov-accessibility-standards).
+
+        Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
+
+        Checking a checklist item indicates that your product has passed that check. If you find an issue while performing a check, do not mark it as complete. Instead, log the issue (see #5 Next Steps) and leave the check unmarked. If the check is not applicable to your product, mark it as passed.
+  - type: checkboxes
+    id: product-info
+    attributes:
+      label: Product information
+      options:
+        - label: Team name, product name, and feature name have been added to the title of this issue.
+          required: true
+        - label: Team label, product label and feature label (if applicable) have been added to this issue.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## 3. Required Testing
+
+        ### Automated testing
+
+  - type: dropdown
+    id: automated-001
+    attributes:
+      label: AXE has been executed for every page (Automated-001)
+      description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: automated-002
+    attributes:
+      label: AXE has been integrated in end to end testing (Automated-002)
+      description: End to end testing with Cypress or other libraries includes AXE scanning.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: textarea
+    id: automated-testing-notes
+    attributes:
+      label: Automated testing output
+      description: Please add the results of your automated testing. Provide screenshots of the AXE results organized by url or name of screen tested. If there's a ticket or results from E2E testing, please link to that here. 
+      value: |
+        Axe results screenshots or link to ticket:
+
+        E2E testing results or link to ticket:
+  
+  - type: markdown
+    attributes:
+      value: |
+        ### Images
+
+  - type: dropdown
+    id: web-111-001
+    attributes:
+      label: Meaningful descriptions are provided for informative images (WEB-111-001)
+      description: All informative images have a text alternative that is meaningful and serves the equivalent purpose.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-145
+    attributes:
+      label: No images of text (WEB-145)
+      description: Images of text are not used when the same presentation can be made with native HTML/CSS. Logos and branding are excluded.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Audio & video
+
+  - type: dropdown
+    id: web-122
+    attributes:
+      label: Captions are provided for all prerecorded videos (WEB-122)
+      description: Prerecorded videos include synchronized captions for dialogue, sound effects, and relevant audio.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-123
+    attributes:
+      label: Transcripts or audio descriptions are included for videos (WEB-123)
+      description: For non-live video, a full descriptive transcript or an audio description is provided.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-142
+    attributes:
+      label: Auto-playing audio can be paused or has volume controls (WEB-142)
+      description: Audio that plays automatically for more than 3 seconds can be paused OR has an independent volume control.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Structure & semantics
+
+  - type: dropdown
+    id: web-131-001
+    attributes:
+      label: Headings match the content hierarchy and use proper HTML tags (WEB-131-001)
+      description: Headings accurately reflect content hierarchy and are semantically marked for assistive technology.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-242
+    attributes:
+      label: Each page has a unique, descriptive title (WEB-242)
+      description: Each web page, or screen, has a unique and descriptive title reflecting its purpose.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-246-001
+    attributes:
+      label: Headings are descriptive (WEB-246-001)
+      description: Heading text accurately describes the topic or purpose of the content that follows it.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Color, contrast, & sensory
+
+  - type: dropdown
+    id: web-133
+    attributes:
+      label: Instructions don't rely only on color, shape, size, or sound (WEB-133)
+      description: Instructions for operating content and cues for identifying content do not rely exclusively on color, shape, size, position, or sound.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-141
+    attributes:
+      label: Information is not communicated by color alone (WEB-141)
+      description: Color is never the sole visual means of conveying information, indicating actions, prompting responses, or distinguishing elements.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-143
+    attributes:
+      label: Text has sufficient contrast against its background (WEB-143)
+      description: Text and images of text have a contrast ratio of at least 4.5:1 and large-scale text and images of large-scale text have a contrast ratio of at least 3:1.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-1411-001
+    attributes:
+      label: Interactive elements are visually distinct from surroundings (WEB-1411-001)
+      description: The visual presentation of all active user interface components achieves a 3:1 contrast ratio against adjacent colors.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-1411-002
+    attributes:
+      label: Important graphics and icons have sufficient contrast (WEB-1411-002)
+      description: Graphical objects essential for understanding content maintain a 3:1 contrast ratio against adjacent colors.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Layout & responsiveness
+
+  - type: dropdown
+    id: web-144
+    attributes:
+      label: Text can be enlarged to 200% without breaking the page (WEB-144)
+      description: Text can be resized up to 200% without page content disappearing or losing functionality.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-1410
+    attributes:
+      label: Content fits on small screens without horizontal scrolling (WEB-1410)
+      description: Content reflows to a single-dimension scroll at 320x256 CSS pixels and larger, unless horizontal scrolling is essential for meaning or function.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Keyboard & focus
+
+  - type: dropdown
+    id: web-211
+    attributes:
+      label: All functionality works with keyboard only (WEB-211)
+      description: All interactive elements and features can be accessed and operated using only a keyboard.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-212
+    attributes:
+      label: No keyboard trap (WEB-212)
+      description: Keyboard focus can always move away from any element using standard keys. If the method requires more than ESC, Arrow Keys, or Tab, the user must be informed of the method.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-247
+    attributes:
+      label: Every focusable element has a visible focus indicator (WEB-247)
+      description: All interactive elements show a visible outline or indicator when receiving keyboard focus.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Timing & interruptions
+
+  - type: dropdown
+    id: web-222
+    attributes:
+      label: Automatically moving content can be paused or stopped (WEB-222)
+      description: All moving, blinking, scrolling, or auto-updating content provides mechanisms to pause, stop, hide, or control its frequency if it starts automatically and lasts over 5 seconds.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Navigation & consistency
+
+  - type: dropdown
+    id: web-241
+    attributes:
+      label: Users can skip repeated content like headers and navigation (WEB-241)
+      description: A mechanism is provided to bypass repeated blocks of content (e.g., navigation, headers) on multiple webpages.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Forms & interactive controls
+
+  - type: dropdown
+    id: web-246-002
+    attributes:
+      label: Form labels clearly describe what to enter (WEB-246-002)
+      description: Labels describe the purpose or function of form fields and controls.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-332-001
+    attributes:
+      label: Form fields have visible labels (WEB-332-001)
+      description: Visible labels or instructions are available for all inputs and input groupings.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-332-002
+    attributes:
+      label: Fields with specific formats include instructions (WEB-332-002)
+      description: Form fields that require specific formats provide instructions or examples.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-332-003
+    attributes:
+      label: Required or optional fields are clearly marked (WEB-332-003)
+      description: All required fields are identified with visible labels or instructions OR all optional fields are identified with visible labels or instructions.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-333
+    attributes:
+      label: Error messages explain how to fix the problem (WEB-333)
+      description: Users are provided with clear suggestions for correcting input errors, unless doing so would compromise security or the content's purpose.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: dropdown
+    id: web-412-003
+    attributes:
+      label: Links navigate to pages; buttons perform actions (WEB-412-003)
+      description: User interface elements defined as links are used for navigation and elements defined as buttons perform in-page actions or submit forms.
+      options:
+        - Incomplete
+        - Pass
+        - Fail
+        - N/A
+      default: 0
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 5. Next steps
+  - type: checkboxes
+    id: add-link
+    attributes:
+      label: Add link to Collaboration Cycle ticket
+      description: 
+      options:
+        - label: Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
+
+  - type: checkboxes
+    id: logged-issues
+    attributes:
+      label: Report identified issues
+      description:  For any issues identified during your testing, please report them as part of your staging review.
+      options:
+        - label: Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
+        - label: Assign to `jasonday` and add the `a11y-testing` label.
+        - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
+        - label: Provide a link to each issue logged in this accessibility testing artifact's comments
