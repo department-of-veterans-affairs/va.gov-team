@@ -105,8 +105,6 @@ Pulling in patient data to support specific input fields will improve the clinic
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
 ### Clinicians workflow regularly involves referencing the EHR to find patient data. Referencing the EHR first becomes their default behavior when tasked to find patient data.
 - 3 of 5 clinicians initially glossed over or did not notice the hyperlink below the input field for Abnormal Liver Function and History of Labile INR and needed an additional probe.
 - Clinicians initially expected to go to the EHR to find supporting patient data to help them answer the questions that did not autopopulate. Clinicians mentioned they would also look in JLV if the EHR did not have the data they were looking for.
@@ -232,6 +230,7 @@ Primary role:
   * Physician Assistant: 0
   * Resident, Intern, or Fellow: 0
   * Other: X
+
 Specialty:
   * Cardiology: 0
   * Dermatology: 0
@@ -252,11 +251,13 @@ Specialty:
   * Pulmonology: 0
   * Surgery: 0
   * Other: 0
+
 Care setting:
   * Outpatient: 4
   * Inpatient: 1
   * Emergency Department: 0
   * Other: 0
+
 EHR:
  * CPRS: 5
  * Oracle: 0 
