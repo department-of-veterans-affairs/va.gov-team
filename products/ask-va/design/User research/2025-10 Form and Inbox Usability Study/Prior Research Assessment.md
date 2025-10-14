@@ -1,5 +1,12 @@
 # Desk Research Review 
 
+[Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#background)
+[Gaps in understanding
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#gaps-in-understanding)
+[Previous inbox research
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#improve-the-inbox-experience-for-business-users-1905)
+Previous form research
+
 ## Background
 Our team is still getting up to speed on the research that has been previously completed. So I wanted to directly tie previous research findings to decisions and tickets in the backlog. This page will highlight those connections to identify where we still have gaps to explore in the research. 
 
@@ -10,6 +17,8 @@ Our team is still getting up to speed on the research that has been previously c
 - Because the [Aug 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#aug-2024---dashboard-assistive-technology-testing) testing was completed in Staging, it's unclear if the inquiries were still separated at that point.
 - Based on the [post-launch feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#may-2025-sep-2025-feedback-report), we have learned a bit about the challenges that Business users are currently experiencing, but it is unclear how they are interacting with the new tool on VA.gov to workaround these challenges. This feedback is self-reported and is not the clearest picture into understanding the user's holistic experience.
 
+### Form length:
+- 
 
 ## Improve the inbox experience for business users ([#1905](https://github.com/department-of-veterans-affairs/ask-va/issues/1905))
 
