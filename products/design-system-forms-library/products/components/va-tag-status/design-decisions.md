@@ -10,6 +10,8 @@ Last updated: 2025-02-10
 - [ADR: 007 - Text Weight](#adr-007---text-weight)
 - [ADR: 008 - Sentence Case](#adr-008---sentence-case)
 - [ADR: 009 - Warning Tag Color](#adr-009---warning-tag-color)
+- [ADR: 009 - Dark mode](#adr-010---dark-mode)
+
 
 ## ADR: 001 - Define the meaning for colored tags
 
@@ -219,5 +221,31 @@ Map the **warning status tag** to the **critical alert color token**.
 
 ### Open Questions
 - Should the warning status tag and Critical Action always be visually aligned, or are there situations where they should differ?  
+
+---
+
+## ADR 010 - Dark mode
+
+**Status:** Accepted  
+**Date Issue Raised:** 2025-10-10  
+**Decision Date:** 2025-10-14  
+
+### Context
+The current Status Tag component designs are optimized for light mode only, with semantic colors chosen for visibility and WCAG contrast compliance on light backgrounds. To be fully integrated as a Mobile app component we would need to add color options for dark mode.
+
+There is some discovery work done to merge the mobile app and the VADS tokens into a single place so that we have cohesive colors being used between the two platforms. 
+
+### Decision
+Defer implementation of dark mode support for dark mode till the tokens for Mobile app and web have been completed. 
+- This will prevent duplication of work
+- Create a more cohesive and consistent color experience when we can look at the color combinations as a whole
+
+### Consequences
+- **Positive:** Ensures visual and semantic cohesion between the mobile app and web
+- **Negative:** The mobile app might need to use the Status tags before we can implement light and dark mode options cause visual differences in the design.
+- **Risks:** Potential diversions if the dark mode can't be implemented in time 
+
+### Open Questions
+- Does the mobile team already have assigned dark mode colors for the semantic colors?  
 
 ---
