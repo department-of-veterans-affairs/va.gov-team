@@ -52,7 +52,7 @@ body:
 
         E2E testing results or link to ticket:
   - type: checkboxes
-    id: automated-checks
+    id: automated-checks2
     attributes:
       label: Automated testing
       description: Automated accessibility checks that must be included in your workflow.
