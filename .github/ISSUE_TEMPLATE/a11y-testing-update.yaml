@@ -151,10 +151,7 @@ body:
       description: 
       options:
         - label: Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
-  - type: markdown
-    attributes:
-      value: |
-        ## 6. Report issues
+
   - type: checkboxes
     id: logged
     attributes:
