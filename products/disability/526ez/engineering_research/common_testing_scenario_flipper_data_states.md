@@ -43,7 +43,7 @@ This involves starting an application by choosing Active Duty with a discharge d
 
 #### Testing 0781 
 - To test modern 0781, you need disability_compensation_sync_modern_0781_flow to be on. You will also notice syncModern0781Flow or sync_modern_0781_flow set in the data. 
-- To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off. You will most likely need to claim PTSD as a new condition as well.
+- To test legacy 0781, you need disability_compensation_sync_modern_0781_flow to be off. After turning modern flow off, you will need to start a NEW application. You will most likely need to claim PTSD as a new condition as well.
 
   
 | Area affected | Flipper name | Current state in Staging | Current state in Production | Behavior if on: | Behavior if off |

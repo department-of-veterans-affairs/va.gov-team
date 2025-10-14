@@ -1,24 +1,24 @@
 
 	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, September 2025
 
-## 🚧 🚧 🚧 Background 🏗️
+## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**Veterans who have overpayment debts and copayment bills do not have a single place to view all outstanding debts from the VA on the VAHB mobile app. How might we validate that Veterans want a standard format or structure that unifies their debt information on the mobile app, and provides them with a positive user experience?**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**The combined statement is available on VA.gov, authenticated. It is not currently available in the mobile app**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**It is a relatively new product: the combined statement was introduced to VA.gov in April 2025. If we built it in the app, it will be similar to that experience.**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/product-brief.md)**
 
 </details>
 
@@ -33,50 +33,24 @@
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
 
 </details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
-	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+
+`Because the product involves both debt and healthcare, it touches several key points in the Veteran’s overall journey with VA services.`
+
+- `Starting Up (Moment: Balancing Finances)`
+- `Taking Care of Myself (Moment: Maintaining my health)`
+- `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
+- `Retiring (Moment: Taking care of my health)`
+- `Aging (Moment that Matters: Managing my declining health)`
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 
@@ -131,48 +105,25 @@ Are there moments that matter?</summary>
 - Veterans will find PDFs of combined statements valuable, both as a familiar format and as a way to save for reference.
 - They will still want access to individual statements and bills, and the combined statement will not be a substitute for these.
   
-## 🚧 🚧 🚧 Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+## Methodology  🛠️
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+**Moderated remote sessions: semi-structured interviews and concept testing**
 
-</details>
+We will use semi-structured interviews and concept testing in this phase of discovery research. The purpose of the interviews is to understand whether or not Veterans would find use in having a combined statement within the mobile app. Concept testing will be conducted by presenting participants with an early-stage design concept for how a combined statement could be displayed, in order to gather feedback on possible user flows and features.
 
-**[Enter methodology here]**
+The interview component will consist of conversation only, without any visual aids such as prototypes or screenshots of existing experiences.
 
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+For the concept testing portion, Veterans will interact with two prototypes:
 
-</details>
+* The first prototype will simulate the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
+* The second prototype will illustrate a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
+
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [X] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## 🚧 🚧 🚧 Research materials 📔
 
