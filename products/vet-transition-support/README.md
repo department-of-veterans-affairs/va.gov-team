@@ -41,13 +41,17 @@ While the initial value proposition is aimed at TSMs and RSVs, the DYB tool is m
 | "Authenticated flow" MVP | Jira: PTEMSVT-593 | Planning|
 
 
-### Additional Context
+### Security
+- System monitoring playbook (TK)
+- Latest security playbook: Results page 2.0 security playbook (TK)
+
+#### Additional Context
 The project is a merger of two separate initiatives: Transition Assistant from VEO and Enhanced Statement of Benefits from OTED.
 
-#### Transition Assistant
+##### Transition Assistant
 The VEO team conducted research around the challenges in Transition and created the concept for the Transition Assistant (TA). It was designed as a more structured approach to transition with clear steps and guidance for a transitioning servicemember, from creating civilian resumes, to finding employment, housing, etc. It is meant to cover the gaps between the explanation of benefits that TSMs receive from various sources such as the Transition Assistance Program (TAP) courses and the actual required steps in the process of getting out of the service.
 
-#### Extended Statement of Benefits
+##### Extended Statement of Benefits
 Outreach, Transition and Economic Development (OTED) simultaneously conducted research around the challenges with benefit discovery. The original Statement of Benefits exists in the form of a PDF, alongside the Transition Assistance Program (TAP) resource book as an explanation of benefits. While detailed, these static documents are not an easy reference when going through the many activities of transition. The goal of the Exteneded Statement of Benefits (ESOB) was to provide a more dynamically navigable list of resources and benefits that change based on a person's eligibility. A secondary goal was to include a more comprehensive list of benefits and resources beyond VA; such as Veteran Preference in hiring which is not a direct VA benefit, but can be difficult to cross-reference against VA administered benefits.
 
  
