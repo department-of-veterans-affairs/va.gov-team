@@ -95,35 +95,26 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. Have you ever heard of the Foreign Medical Program through the VA before this?
+2. Have you ever heard of the Foreign Medical Program through the VA before and if so, can you describe what it is in your own words?
   
 
-## First Task: [Introduction Page] - X minutes
+## First Task: [Introduction Page] - 10 minutes
 
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
-
-## Second Task: [Direct Deposit Static Page] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Open mobile Figma prototype - link here
+- [ ] I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
+- [ ] Open the prototype take a minute to look it over and please remember think aloud.
+- [ ] What would you do next if you were filing a claim today?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
+> - [Does the participant mention anything about the direct deposit informational alert?]
+> - [Does the participant notice the link of how to setup direct deposit or do they call out the phone number to call?]
+> - [Is the participant aware ]
 > - [Etc]
 
-## Third Task: [FMP Form Flow and Confirmation Page] - X minutes
+## Second Task: [Direct Deposit Static Page] - 10 minutes
 
-- [ ] Step 1
+- [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
 - [ ] Step 2
 
 > [!NOTE]
@@ -132,11 +123,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
+## Third Task: [FMP Form Flow and Confirmation Page] - 10 minutes
+
+- [ ] Step 1
+- [ ] Step 2
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of xyz?]
+> - [Does the participant notice xyz?]
+> - [Etc]
 
 
 
 
-# Post-Task Interview - X minutes
+
+# Post-Task Interview - 5 minutes
 
 - Question 1
 - Question 2
