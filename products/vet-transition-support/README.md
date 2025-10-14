@@ -43,7 +43,7 @@ While the initial value proposition is aimed at TSMs and RSVs, the DYB tool is m
 
 ### Security
 - System monitoring playbook (TK)
-- Latest security playbook: Results page 2.0 security playbook (TK)
+- Latest security playbook: [Results page 2.0 security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/results-page-2.0/launch-materials/results-pg-2.0-security-playbook.md)
 
 #### Additional Context
 The project is a merger of two separate initiatives: Transition Assistant from VEO and Enhanced Statement of Benefits from OTED.
