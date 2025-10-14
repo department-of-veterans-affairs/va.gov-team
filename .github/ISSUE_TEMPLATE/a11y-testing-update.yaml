@@ -12,14 +12,20 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
+        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see #6 Next Steps).
         
         ### Why we ask VFS teams to do accessibility testing
-        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document the testing you've already done and helps organize your conversation with the accessibility specialist completing the staging review. 
+        The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
   - type: markdown
     attributes:
       value: |
         ## 2. Before you begin
+
+        The Required and Recommended checklists below are based on WCAG 2.2 and the [VA.gov Accessibility Standards](https://depo-platform-documentation.scrollhelp.site/accessibility/va-gov-accessibility-standards).
+
+        Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
+
+        A check indicates that your product has passed that check. If you find an issue while performing a check, do not mark it as complete. Instead, log the issue (see #6 Next Steps) and leave the check unmarked.
   - type: checkboxes
     id: product-info
     attributes:
