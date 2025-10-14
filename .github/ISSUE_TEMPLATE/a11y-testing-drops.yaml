@@ -81,6 +81,7 @@ body:
       value: |
         
         
+        
         ### Images
 
   - type: dropdown
@@ -111,6 +112,7 @@ body:
     attributes:
       value: |
         
+
 
         ### Audio & video
 
@@ -155,7 +157,8 @@ body:
       value: |
        
 
-       ### Structure & semantics
+
+        ### Structure & semantics
 
   - type: dropdown
     id: web-131-001
@@ -198,6 +201,7 @@ body:
       value: |
         
         
+
         ### Color, contrast, & sensory
 
   - type: dropdown
@@ -265,6 +269,7 @@ body:
       value: |
         
 
+
         ### Layout & responsiveness
 
   - type: dropdown
@@ -295,6 +300,7 @@ body:
     attributes:
       value: |
         
+
 
         ### Keyboard & focus
 
@@ -339,6 +345,7 @@ body:
       value: |
         
 
+
         ### Timing & interruptions
 
   - type: dropdown
@@ -358,6 +365,7 @@ body:
       value: |
         
 
+
         ### Navigation & consistency
 
   - type: dropdown
@@ -376,7 +384,8 @@ body:
     attributes:
       value: |
         
-        
+
+
         ### Forms & interactive controls
 
   - type: dropdown
