@@ -1,8 +1,8 @@
 ---
 title: "Conversation Guide for [Health Apps, 10-7959f-2, October 2025]"
-author: "[AUTHOR NAME]"
+author: "[Jessica Stump]"
 date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+last_modified: "[2025-10-14]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
@@ -18,7 +18,7 @@ description: "A template for moderating research sessions including logistics, i
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Perpare mobile Figma prototype
+- [ ] Prep mobile Figma prototype/link ready
 - [ ] Step 2
 - [ ] Step 3
 
@@ -100,37 +100,39 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: [Introduction Page] - 10 minutes
 
-- [ ] Open mobile Figma prototype - link here
+- [ ] Open mobile Figma prototype - link to go here
 - [ ] I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
-- [ ] Open the prototype take a minute to look it over and please remember think aloud.
-- [ ] What would you do next if you were filing a claim today?
+- [ ] Open the prototype take a minute to look it over and please remember to think aloud.
+- [ ] What would you do next if you were filing an FMP claim today?
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant mention anything about the direct deposit informational alert?]
 > - [Does the participant notice the link of how to setup direct deposit or do they call out the phone number to call?]
-> - [Is the participant aware ]
+> - [Is the participant aware their bank account information needs to be in different systems within the VA - FMP is separate from VA Benefits?]
 > - [Etc]
 
 ## Second Task: [Direct Deposit Static Page] - 10 minutes
 
 - [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
-- [ ] Step 2
+- [ ] Now take a minute to look over this page explaining direct deposit.
+- [ ] What are your impression of this page and your understanding of the content here?
+- [ ] On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the intructions on this page?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
+> - [Does the participant understand that the process to setup their account for FMP claims is separate from VA benefits?]
 > - [Does the participant notice xyz?]
 > - [Etc]
 
 ## Third Task: [FMP Form Flow and Confirmation Page] - 10 minutes
 
-- [ ] Step 1
+- [ ] Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page.
 - [ ] Step 2
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
+> - [Does the participant interact with the additional informaiton component to learn more about direct deposit later in the flow?]
 > - [Does the participant notice xyz?]
 > - [Etc]
 
