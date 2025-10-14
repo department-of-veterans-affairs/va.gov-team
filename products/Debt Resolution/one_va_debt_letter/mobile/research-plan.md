@@ -54,8 +54,6 @@ Are there moments that matter?</summary>
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 
