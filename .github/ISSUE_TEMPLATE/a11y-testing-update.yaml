@@ -168,5 +168,3 @@ body:
         - label: Assign to `jasonday` and add the `a11y-testing` label.
         - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
         - label: Provide a link to each issue logged in this accessibility testing artifact's comments
-
-
