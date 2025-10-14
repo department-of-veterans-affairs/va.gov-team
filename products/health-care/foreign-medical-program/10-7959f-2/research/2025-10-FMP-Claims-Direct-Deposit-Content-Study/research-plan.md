@@ -1,11 +1,11 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
+title: "Research Plan for [Health Apps, FMP Claims Form 10-7959f-2, October 2025]"
 date: YYYY-MM-DD
 last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
+team: "[Health Apps]"
+product: "[FMP Claims]"
+product_area: "[e.g., authenticated]"
 
 # Background Context
 background:
@@ -115,19 +115,19 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**[Form 10-]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows.]**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md).**
 
 </details>
 
@@ -195,9 +195,9 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **[Understand perceived content comprehension for the topic of direct deposit for FMP claims]**
 
-`2.` **[Enter answer here]**
+`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran.]**
 
 `3.` **[Enter answer here]** 
   
@@ -206,7 +206,7 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Enter outcome here]** 
+**[Gague risk of new direct deposit content on form so that it is not introducing confusion for Veterans or an increase in calls/processing work.]** 
 
 ---
 
