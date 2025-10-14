@@ -80,8 +80,7 @@ body:
     attributes:
       value: |
         <br/>
-        <br/>
-        
+
         ### Images
 
   - type: dropdown
