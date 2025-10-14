@@ -119,7 +119,7 @@ tags:
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Health care hub - Forign Medical Program - Form 10-7959f FMP Claims]**
+**[Health care hub - Forign Medical Program - Form 10-7959f-2 FMP Claims]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
@@ -226,7 +226,9 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Enter hypotheses here: We assume that overall there will be some minimal confusion about direct deposit being a separate process than what is used for VA Benefits. Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.]** 
+**[Enter hypotheses here: 
+- We assume that overall there will be some minimal confusion about direct deposit being a separate process than what is used for VA Benefits.
+- Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.]** 
 
 ---
   
