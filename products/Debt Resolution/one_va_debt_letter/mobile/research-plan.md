@@ -108,48 +108,25 @@ Are there moments that matter?</summary>
 - Veterans will find PDFs of combined statements valuable, both as a familiar format and as a way to save for reference.
 - They will still want access to individual statements and bills, and the combined statement will not be a substitute for these.
   
-## 🚧 🚧 🚧 Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+## Methodology  🛠️
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+**Moderated remote sessions: semi-structured interviews and concept testing**
 
-</details>
+We will use semi-structured interviews and concept testing in this phase of discovery research. The purpose of the interviews is to understand whether or not Veterans would find use in having a combined statement within the mobile app. Concept testing will be conducted by presenting participants with an early-stage design concept for how a combined statement could be displayed, in order to gather feedback on possible user flows and features.
 
-**[Enter methodology here]**
+The interview component will consist of conversation only, without any visual aids such as prototypes or screenshots of existing experiences.
 
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+For the concept testing portion, Veterans will interact with two prototypes:
 
-</details>
+* The first prototype will simulate the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
+* The second prototype will illustrate a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
+
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [X] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## 🚧 🚧 🚧 Research materials 📔
 
