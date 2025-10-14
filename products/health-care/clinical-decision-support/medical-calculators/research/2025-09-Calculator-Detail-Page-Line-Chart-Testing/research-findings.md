@@ -5,7 +5,7 @@ team: "Clinical Decision Support Collaborative"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
 date: "2025-10-02"
 researchers:
-  - "Rosmeary Rogers"
+  - "Rosemary Rogers"
 research_goals:
   - Evaluate the value of line charts within a specific calculator
   - Evaluate the usability and design of the line chart
@@ -60,8 +60,6 @@ Secondary goals:
 The proposed design is intended to reduce cognitive burden created by context switching between the CDS Medical Calculator application and the EHR by bringing relevant data to support clinicians within their workflow of the calculator.
 
 ## Research Questions
-
-*List the research questions that guided this study.*  
 
 * How intuitive is it to see a CTA to access lab history below the calculator input field?
     * Do clinicians notice this option?
