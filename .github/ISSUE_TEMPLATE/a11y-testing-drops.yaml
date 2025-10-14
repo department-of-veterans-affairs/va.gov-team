@@ -19,13 +19,17 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br/>
+
         ## 2. Before you begin
 
         The Required and Recommended checklists below are based on WCAG 2.2 and the [VA.gov Accessibility Standards](https://depo-platform-documentation.scrollhelp.site/accessibility/va-gov-accessibility-standards).
 
+        The full checklist can be found in the [Prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) documentation.
+
         Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
 
-        Checking a checklist item indicates that your product has passed that check. If you find an issue while performing a check, do not mark it as complete. Instead, log the issue (see #5 Next Steps) and leave the check unmarked. If the check is not applicable to your product, mark it as passed.
+        If a check is not applicable to your product, mark it as "N/A".
   - type: checkboxes
     id: product-info
     attributes:
@@ -38,6 +42,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br/>
+        
         ## 3. Required Testing
 
         ### Automated testing
@@ -376,7 +382,7 @@ body:
     attributes:
       value: |
         <br/>
-        
+
         ### Forms & interactive controls
 
   - type: dropdown
@@ -454,6 +460,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br/>
+
         ## 5. Next steps
   - type: checkboxes
     id: add-link
