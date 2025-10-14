@@ -1,11 +1,15 @@
 
 # Form \+ Inbox Research Plan 
 
-**Ask VA, Form \+ Inbox Usability Testing, October 2025**
+**Ask VA, Form \+ Inbox Usability Testing**
+
+**Date**: October, 14, 2025
+
+**Contacts**: Elena B. Naids, Danielle Oppendike
 
 # Background
 
-Ask VA is frontend application (contact form and inbox) where Veterans, family members, and other submitters can get answers to any VA question. Ask VA is available to both authenticated and unauthenticated users. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the appropriate VA team. Multiple VA teams can access and use the CRM.
+Ask VA is comprised of a contact form and inbox where Veterans, family members, and other submitters can get answers to any VA question and submit documentation. Ask VA is available to both authenticated and unauthenticated users. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the appropriate VA team. Multiple VA teams can access and use the CRM.
 
 In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. With this update, several aspects of the product changed. Feedback since the launch leads us to believe that these changes are causing some significant challenges for our users that require a holistic evaluation.
 
@@ -81,7 +85,7 @@ The Ask VA form and inbox don’t fit other submitter types’ processes and men
 
 **For moderated usability tests:**
 
-- [Conversation guide](?tab=t.37zscvys1i5x)  
+- [Conversation guide](..)  
 - [Ask VA production site](https://www.va.gov/contact-us/ask-va/introduction)
 
 ## 🚧 Recruitment
@@ -183,7 +187,7 @@ Veterans
     
 - `11/10, Monday, 9:30am-6:30pm EST (3)`
 
-## Team Roles  🕵️👩‍💻👩‍🔬
+##  🚧 Team Roles 
 
 \[\!NOTE\] **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
