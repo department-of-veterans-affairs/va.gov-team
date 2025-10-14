@@ -1,6 +1,6 @@
 # Project outline: Discover Your Benefits Results page 2.0
 
-**Last updated: October 9, 2025 - published**
+**Last updated: October 14, 2025 - security section updated**
 
 
 ### Communications & Resources
