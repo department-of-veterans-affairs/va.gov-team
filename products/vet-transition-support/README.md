@@ -1,5 +1,5 @@
 # Product Outline: Discover Your Benefits
-Last updated: October 8, 2025 - general updates to content and structure
+Last updated: October 14, 2025 - added TOC, updates to security section
 
 ### Team & Communications
 - The Discovery Your Benefits tool is maintained by the VES Transition Experience team
