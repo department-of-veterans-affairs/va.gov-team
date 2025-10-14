@@ -8,6 +8,8 @@ Our team is still getting up to speed on the research that has been previously c
 - The need for separation of personal and business accounts and inquiries was clear since the research back in Sep 2023.
 - The prototype tested in May 2024 still included separate tabs for Business and Personal inquiries
 - Because the Aug 2024 testing was completed in Staging, it's unclear if the inquiries were still separated at that point.
+- Based on the post-launch feedback, 3 main themes came up that impact Ask VA's Business users: Login friction, Overcomplicated inbox, and Submission inconsistency. We know how these users used to interact with the previous tool to submit Business inquiries, but we don't know in the new context of VA.gov how we might improve login, inbox, and submission together to improve Business users overall experience.
+
 
 ## Improve the inbox experience for business users ([#1905](https://github.com/department-of-veterans-affairs/ask-va/issues/1905))
 
@@ -19,7 +21,15 @@ Our team is still getting up to speed on the research that has been previously c
 |----------|----------|
 | <img width="531" height="562" alt="image (2)" src="https://github.com/user-attachments/assets/f0962963-7160-435a-b54d-d3c6317e3834" /> | <img width="495" height="700" alt="image" src="https://github.com/user-attachments/assets/b1a09319-a715-4824-b504-a554aa6b4ada" /> | 
 
-### May 2025-Sep 2025 Feedback Report
+### [May 2025-Sep 2025 Feedback Report](https://dvagov.sharepoint.com/:p:/r/sites/AskVA/Shared%20Documents/General/Data/Other%20analyses/Metrics%20+%20Feedback%20proposed%20template.pptx?d=w90ba3b257b364da7bfc2338776c98692&csf=1&web=1&e=eUbf7E&nav=eyJzSWQiOjI4NywiY0lkIjoxMjUyNzI3OTg4fQ)
+#### Summary
+- Three related themes of feedback surfaced out of the post-launch feedback (Medallia survey and feedback button):
+  - Login friction
+    > Why are all of my professional business inquiries as a School Certifying Official recorded as "Personal" inquiries and tied to my SSN?
+  - Overcomplicated inbox
+    > Check the status of VA Work Study submissions. The submissions UI doesn't automatically sort by date of submission, it is not readily clear on how to do that either, and it doesn't show more than 4 submissions at the same time, which doesn't help me accomplish my task in an easy way. I appreciate the new UI for the submissions, but I need to be able to see the status of the submissions without having to dig through 5 separate pages.
+  - Submission inconsistency
+    > I came to see where I can submit educational documents from using the GI bill. Im using it for the first time and I have no clue how much Ill get or what documents I need to submit to show my grades or where they need to be submitted.  
 
 ### [Aug 2024 - Dashboard: Assistive Technology Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2024-08%20Assistive%20technology%20-%20Dashboard)
 #### Summary: 
@@ -61,11 +71,15 @@ Our team is still getting up to speed on the research that has been previously c
 - [When do you check on an inquiry?
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop/Insights.md#when-do-you-check-on-an-inquiry-how-do-you-know-when-you-receive-a-response)
   - Emails help an SCO know when a status has changed, and triggers them to sign in and look at their dashboard.
-  - "I personally don't go in to Ask VA daily. I would only peek in if I'm looking for something specific or if it's been a while and I can't remember getting an email."
+
+     > I personally don't go in to Ask VA daily. I would only peek in if I'm looking for something specific or if it's been a while and I can't remember getting an email.
 
 - [How should business/personal inquiries be distinguished?
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop/Insights.md#how-should-business-or-personal-inquiries-be-distinguished)
-  - SCOs feel strongly that business and personal inquiries should not be mixed at all. Unfortunately, current credentialing makes it impossible to separate these completely, unless you sign in with a different account for each function, "I wish it could be separated at the login."
-  - We also learned that, "it defaults to personal" even if you aren't a Veteran or beneficiary, so some SCOs have business inquiries in their personal dashboard.
+  - SCOs feel strongly that business and personal inquiries should not be mixed at all. Unfortunately, current credentialing makes it impossible to separate these completely, unless you sign in with a different account for each function,
+    > I wish it could be separated at the login.
+  - We also learned that,
+    > it defaults to personal
+  even if you aren't a Veteran or beneficiary, so some SCOs have business inquiries in their personal dashboard.
 
 
