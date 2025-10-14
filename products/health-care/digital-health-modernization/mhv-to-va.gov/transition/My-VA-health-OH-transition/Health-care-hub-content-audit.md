@@ -13,7 +13,7 @@ When all health tools have integrated OH data, we can begin transitioning curren
 ## Pages covered by audit
 Pages that fall in the "Manage your health care section" including: 
 
-### Table 1 - Health care hub
+### Health care hub
 |Page title | URL| signed-out notes| signed-in notes |
 |--------|-------|-------|-----|
 | Manage your health care with My HealtheVet| `va.gov/health-care/manage-health/` | Has "note" about My VA Health portal directly beneath the sign-in widget| Still has "note" about My VA Health portal - once signed in, it appears beneath the primary action link to the health portal |
@@ -22,18 +22,34 @@ Pages that fall in the "Manage your health care section" including:
 | Review medical records online | `va.gov/health-care/review-medical-records/` | _same as above_ | _same as above_ |
 | Send and receive secure messages | `va.gov/health-care/send-receive-messages/` | _same as above_ | _same as above_ |
 
-### Table 2 - Resources & support hub
+### Other areas of VA.gov
+Tori ran a Drupal content audit against these sections of static (Drupal) VA.gov: 
+* Benefits Detail Page
+* Benefits Hub Landing Page
+* Centralized Content
+* FAQ page
+* Landing Page
+* Resources and Support Detail Page
+* Reusable Q&A
+* Step-by-Step
 
-TBD - Tori will run audit in Drupal
-|Page title | URL| notes|
-|--------|-------|-------|
-|
+### Facility pages: 
+Horizon team noticed that the 6 sites for current facilities on the Oracle Health EHR system have pages that tell patients how to access the My VA Health patient portal, but the information is outdated/ inaccurate and routes them to the wrong places. All facilities pages are owned outside of OCTO by VHA, and the Content & IA team has already informed them of these findings. 
 
-### Table 3 - Other pages on VA.gov
+There could be several pages on each facility's site that have problematic content related to 
+1.) the My VA Health patient portal, 
+2.) How to access it - which today is via many URLs to the My HealtheVet Classic website that was sunset back in June and is no longer a good place to send users, and 
+3.) Sign-in credentials - which should only reference ID.me and Login.gov moving forward - all other credentials are obsolete
 
-TBD - Tori will run audit in Drupal
-|Page title | URL| notes|
-|--------|-------|-------|
+Facilities pages in question: 
+| Facility name | URL | 
+| -- | ---|
+| VA Roseburg Healthcare System | [Link](https://www.va.gov/roseburg-health-care/programs/my-va-health/) | 
+| Jonathan M. Wainwright Memorial VA Medical Center | [Link](https://www.va.gov/walla-walla-health-care/programs/my-va-health/) | 
+| White City VA Medical Center | [Link](https://www.va.gov/southern-oregon-health-care/programs/my-va-health/) |
+| Mann-Grandstaff Department of Veterans Affairs Medical Center | [Link](https://www.va.gov/spokane-health-care/programs/my-va-health/) |
+| Captain James A. Lovell Federal Health Care Center | ??? Looks like they don't have the same pages related to EHR modernization or My VA Health |
+| Chalmers P. Wylie Veterans Outpatient Clinic | [Link](https://www.va.gov/central-ohio-health-care/programs/my-va-health/) |
 
 ## Changes needed by December 2025
 Because the My VA transition experience will only be visible to OH users at the Columbus, OH facility at this time, **we do not recommend changing the content strategy** allowing all OH users of the My VA Health portal at this time. 
