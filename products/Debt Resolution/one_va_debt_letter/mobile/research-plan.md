@@ -1,7 +1,7 @@
 
 	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, September 2025
 
-## 🚧 🚧 🚧 Background 🏗️
+## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
@@ -18,7 +18,7 @@
 
 `Product Brief`
 
-**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/product-brief.md).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/product-brief.md)**
 
 </details>
 
@@ -40,17 +40,14 @@
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
-	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+
+`Because the product involves both debt and healthcare, it touches several key points in the Veteran’s overall journey with VA services.`
+
+- `Starting Up (Moment: Balancing Finances)`
+- `Taking Care of Myself (Moment: Maintaining my health)`
+- `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
+- `Retiring (Moment: Taking care of my health)`
+- `Aging (Moment that Matters: Managing my declining health)`
 
 </details>
 
