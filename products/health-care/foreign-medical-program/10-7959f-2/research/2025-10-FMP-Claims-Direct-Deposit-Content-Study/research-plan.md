@@ -119,11 +119,11 @@ tags:
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Form 10-]**
+**[Health care hub - Forign Medical Program - Form 10-7959f FMP Claims]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows.]**
+**[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows only.]**
 
 `Product Brief`
 
@@ -171,21 +171,14 @@ tags:
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
+
 - `Taking Care of Myself`
 - `Reinventing Myself`
 - `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
@@ -197,16 +190,16 @@ Are there moments that matter?</summary>
 
 `1.` **[Understand perceived content comprehension for the topic of direct deposit for FMP claims]**
 
-`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran.]**
+`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
 
-`3.` **[Enter answer here]** 
+`3.` **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Gague risk of new direct deposit content on form so that it is not introducing confusion for Veterans or an increase in calls/processing work.]** 
+**[Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.]** 
 
 ---
 
@@ -220,11 +213,11 @@ Are there moments that matter?</summary>
   
 `Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+**`1.`[How do Veterans react to the direct deposit informational alert on the introduction page?]**
 
-**`2.`[Enter Q2]**
+**`2.`[Do Veterans most often click to the static page to learn more or do they stay in the form flow?]**
 
-**`3.`[Enter Q3]**
+**`3.`[Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]**
 
 **`4.`[Enter Q4]**
 
@@ -260,14 +253,10 @@ Are there moments that matter?</summary>
 	
 - `Semi-structured interviews - appropriate for generative research`
 - `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
 
 </details>
 
-**[Enter methodology here]**
+**[Semi-structured interviews with a Figma prototype]**
 
 <details><summary>Additional resources</summary> 
 	
@@ -286,15 +275,10 @@ Where will you be holding the research sessions? Be sure to include whether this
 > [!TIP]
 > Place [X] between brackets in edit mode to leave a checkmark in the correct box.
 
-- [ ] **Remote**
+- [x] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
 
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
