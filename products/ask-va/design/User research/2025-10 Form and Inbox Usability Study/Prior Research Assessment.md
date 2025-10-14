@@ -3,13 +3,11 @@
 ## Background
 Our team is still getting up to speed on the research that has been previously completed. So I wanted to directly tie previous research findings to decisions and tickets in the backlog. This page will highlight those connections to identify where we still have gaps to explore in the research. 
 
-## Synopsis
-
-### Past research indicates that:
-...
-
-### Gaps in understanding
-...
+## Gaps in understanding
+### Inbox:
+- The need for separation of personal and business accounts and inquiries was clear since the research back in Sep 2023.
+- The prototype tested in May 2024 still included separate tabs for Business and Personal inquiries
+- Because the Aug 2024 testing was completed in Staging, it's unclear if the inquiries were still separated at that point.
 
 ## Improve the inbox experience for business users ([#1905](https://github.com/department-of-veterans-affairs/ask-va/issues/1905))
 
@@ -17,42 +15,57 @@ Our team is still getting up to speed on the research that has been previously c
 - _Why do they need to find previous inquiries?_
 
 
-
 | Previous Inbox | Current Inbox | 
 |----------|----------|
 | <img width="531" height="562" alt="image (2)" src="https://github.com/user-attachments/assets/f0962963-7160-435a-b54d-d3c6317e3834" /> | <img width="495" height="700" alt="image" src="https://github.com/user-attachments/assets/b1a09319-a715-4824-b504-a554aa6b4ada" /> | 
 
+### May 2025-Sep 2025 Feedback Report
 
+### [Aug 2024 - Dashboard: Assistive Technology Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2024-08%20Assistive%20technology%20-%20Dashboard)
+#### Summary: 
+- Testing was completed with only Veterans (9)
+- Since the testing was completed on Staging, it's unclear what version was being tested. Specifically whether or not the inbox/dashboard still had Personal and Business inquiries separate.
 
-### [May 2024 - Dashboard](https://github.com/department-of-veterans-affairs/ask-va/issues/1905)
+#### Relevant Key Findings:
+- Findings were not specifically relevant to improve the experience for Business users.
+  
+
+### [May 2024 - Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2024-05%20Dashboard)
 #### Summary: 
 - Testing was completed with both Veterans (7) and SCOs (3)
 - Prototypes showed both Personal and Business sections
+- Next steps included additional research on assistive technology users
 
 #### Relevant Key Findings:
-2. Question and category provide keywords that help people skim and identify particular items.
-3. Education business submitters organize their inquiries by student name.**
+2. [Question and category provide keywords that help people skim and identify particular items.
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Findings.md#finding-2-question-and-category-provide-keywords-that-help-people-skim-and-identify-particular-items)
 
-#### Additional insights
+3. [Education business submitters organize their inquiries by student name.
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Findings.md#finding-3-education-business-submitters-organize-their-inquiries-by-student-name)
+
+#### [Relevant Insights:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Findings.md#additional-insights)
 1. Most people immediately understand that this was where they can find their previous questions.
 3. How to sort using dropdown list is well understood.
 7. When business tab is first, it's saves an extra click and helps hide personal questions.
 
-#### Recommendations:
-1. Make it easier to compare last date updated with date submitted.
+#### Relevant Recommendations:
 2. Help people find items based on category (now) or keyword search (in the future).
-3. Remove 'New' status and start with 'In progress' to lessen confusion.
-4. Change 'Solved' status to 'Closed' or 'Replied' to clarify intent.
-5. Recommend plain language overhaul of responses from VA.
-6. Move 'Your question' to 'Your conversation' and 'Send a reply' to the last item on the page.
-7. Add print button to question details page.
-8. Reiterate that a question has been 'Reopened' on the reply confirmation page.
-9. Add 7 day turnaround time to subtitle on unauthenticated and auth homepages.
 
+### [Sep 2023 - Dashboard Workshop](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop)
 
+#### Summary
+- Workshop conducted with 2 SCOs
+- Next steps informed Phase 1 MVP, but next steps lead to a broken link.
 
+#### Relevant Insights
+- [When do you check on an inquiry?
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop/Insights.md#when-do-you-check-on-an-inquiry-how-do-you-know-when-you-receive-a-response)
+  - Emails help an SCO know when a status has changed, and triggers them to sign in and look at their dashboard.
+  - "I personally don't go in to Ask VA daily. I would only peek in if I'm looking for something specific or if it's been a while and I can't remember getting an email."
 
-### Inbox takeaways
->- Findings and recommendations do not explicitly address why users, specifically SCOs, may be looking for previous inquiries. 
+- [How should business/personal inquiries be distinguished?
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop/Insights.md#how-should-business-or-personal-inquiries-be-distinguished)
+  - SCOs feel strongly that business and personal inquiries should not be mixed at all. Unfortunately, current credentialing makes it impossible to separate these completely, unless you sign in with a different account for each function, "I wish it could be separated at the login."
+  - We also learned that, "it defaults to personal" even if you aren't a Veteran or beneficiary, so some SCOs have business inquiries in their personal dashboard.
 
 
