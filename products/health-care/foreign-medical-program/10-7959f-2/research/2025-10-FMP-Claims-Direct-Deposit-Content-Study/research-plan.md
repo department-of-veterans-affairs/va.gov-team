@@ -1,7 +1,7 @@
 ---
 # Research Plan Metadata
 title: "Research Plan for [Health Apps, FMP Claims Form 10-7959f-2, October 2025]"
-date: YYYY-MM-DD
+date: 2025-MM-DD
 last_updated: 2025-10-14
 team: "[Health Apps]"
 product: "[Foreign Medical Program - Claims]"
@@ -149,8 +149,7 @@ tags:
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
+
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
@@ -227,7 +226,7 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Enter hypotheses here]** 
+**[Enter hypotheses here: We assume that overall there will be some minimal confusion about direct deposit being a separate process than what is used for VA Benefits. Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.]** 
 
 ---
   
@@ -237,7 +236,6 @@ Are there moments that matter?</summary>
 <details><summary>Examples of common research methods include</summary> 
 	
 - `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
 
 </details>
 
@@ -272,13 +270,11 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-**For moderated interviews:** 
+**For moderated interviews / content usability test:** 
 	
-- [Link to conversation guide](url goes here)
-
-**For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
 - [Link to prototype](url goes here)
+
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - [Link to email with instructions](url goes here)
@@ -326,7 +322,7 @@ Provide a link to any materials you need to run your study, including any materi
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
+- `Veteran who receives disability compensation`
 - `primary criteria`
 - **`Add more criteria as needed`**
 
@@ -391,12 +387,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica Stump]**		
+- `Moderator:` **[Renata Keck and Jessica Stump]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica Stump and Renata Keck]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Not needed for this study]**	
+- `Note-takers:` **[Health Apps UX Team]** ***or*** **[Designate Perigean]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 - **[Enter full name]**
