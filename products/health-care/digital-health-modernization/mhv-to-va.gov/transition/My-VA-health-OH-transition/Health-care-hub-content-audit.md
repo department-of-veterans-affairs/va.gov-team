@@ -34,6 +34,8 @@ Tori ran a Drupal content audit against these sections of static (Drupal) VA.gov
 * Reusable Q&A
 * Step-by-Step
 
+There are several mentions of My VA Health, but we cannot have conditional content on static unauthenticated Drupal pages, so it does not make sense to update this language until all 6 current OH facilities are at a point in the transition where we no longer want to advertise the My VA Health portal to them. At that point, we can change or remove the language everywhere. 
+
 ### Facility pages: 
 Horizon team noticed that the 6 sites for current facilities on the Oracle Health EHR system have pages that tell patients how to access the My VA Health patient portal, but the information is outdated/ inaccurate and routes them to the wrong places. All facilities pages are owned outside of OCTO by VHA, and the Content & IA team has already informed them of these findings. 
 
