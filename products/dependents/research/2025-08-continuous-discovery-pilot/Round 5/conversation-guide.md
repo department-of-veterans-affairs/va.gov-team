@@ -90,15 +90,38 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at some designs, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. Do you have dependents on your disability compensation benefit?
+     When, approximately, were they added to your benefit?
+2. Do you ever check on their status or information?
+     If so, where?
+3. Have you ever had a problem with their status or information?
+     If so, what?
+4. Has VA ever asked you to look at their information?
+5. Have you ever had a child between the ages of 18 and 23 on your disability benefit as a studentt?
+     Were they on your benefit when they were a minor?
+     What was the process of notifying VA that they were a student like?
+
 
 ## First Task: [Current Design] - 15 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- Show participants screenshot of the current app
+
+**Questions- start with the scenario most relevant to them**
+- Scenario 1
+     - Imagine that you had received a letter from VA stating that in 60 days your dependent would be removed from your disability benefits on their 18th birthday. They could remain on your benefits if they were attending school, but you needed to provide VA with information and documentation about their schooling. The letter said that this information could be submitted online so you logged onto VA.gov and went to this page. What would you do next?
+       (If they need prompting) . . .
+     - Is there something you're looking for that you're not seeing?
+     - What would you select to start the process of providing VA with school information for your dependent?
+     - What would you expect to happen after you made that selection?
+     - What made you choose that option?
+
+  - Scenario 2
+     - Imagine that you recently filed a claim and your disability rating increased from 20 to 40 percent. You learned that this meant you could receive additional disability benefit compensation for your dependents. You have one dependent who is 21 and a college student. You needed to provide VA with information and documentation about their schooling so you logged onto VA.gov and go to this page. What would you do next?
+       (If they need prompting) . . .
+     - Is there something you're looking for that you're not seeing?
+     - What would you select to start the process of providing VA with school information for your dependent?
+     - What would you expect to happen after you made that selection?
+     - What made you choose that option?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -109,8 +132,24 @@ Before we look at some designs, let’s start with a few warm-up questions.
 
 ## Second Task: [Future Design] - 15 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- Show participants screenshot of the future design
+
+**Questions- start with the scenario most relevant to them**
+- Scenario 1
+     - Imagine that you had received a letter from VA stating that in 60 days your dependent would be removed from your disability benefits on their 18th birthday. They could remain on your benefits if they were attending school, but you needed to provide VA with information and documentation about their schooling. The letter said that this information could be submitted online so you logged onto VA.gov and went to this page. What would you do next?
+       (If they need prompting) . . .
+     - Is there something you're looking for that you're not seeing?
+     - What would you select to start the process of providing VA with school information for your dependent?
+     - What would you expect to happen after you made that selection?
+     - What made you choose that option?
+ 
+   - Scenario 2
+     - Imagine that you recently filed a claim and your disability rating increased from 20 to 40 percent. You learned that this meant you could receive additional disability benefit compensation for your dependents. You have one dependent who is 21 and a college student. You needed to provide VA with information and documentation about their schooling so you logged onto VA.gov and go to this page. What would you do next?
+       (If they need prompting) . . .
+     - Is there something you're looking for that you're not seeing?
+     - What would you select to start the process of providing VA with school information for your dependent?
+     - What would you expect to happen after you made that selection?
+     - What made you choose that option?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -118,21 +157,12 @@ Before we look at some designs, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
 
 # Post-Task Interview - 5 minutes
 
-- Question 1
-- Question 2
+- Now that you've seen these two different designs, is there an option that you prefer?
+     Why do you prefer that design?
+- If you could design your own screen for providing this information, what would it look like?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -143,7 +173,7 @@ Before we look at some designs, let’s start with a few warm-up questions.
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
