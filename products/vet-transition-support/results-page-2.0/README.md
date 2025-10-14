@@ -56,7 +56,7 @@ Feedback this initiative addresses:
 - Users are confused or offended by the length of service question
 
 ## Security
-- Security playbook: TK
+- [Security playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/results-page-2.0/launch-materials/results-pg-2.0-security-playbook.md)
 
 
 ## Measuring Success
