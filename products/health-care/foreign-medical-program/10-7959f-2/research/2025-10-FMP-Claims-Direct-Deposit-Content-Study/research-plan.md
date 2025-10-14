@@ -1,11 +1,11 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
+title: "Research Plan for [Health Apps, FMP Claims Form 10-7959f-2, October 2025]"
 date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
+last_updated: 2025-10-14
+team: "[Health Apps]"
+product: "[Foreign Medical Program - Claims]"
+product_area: "[e.g., authenticated]"
 
 # Background Context
 background:
@@ -115,19 +115,19 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**[Health care hub - Forign Medical Program - Form 10-7959f FMP Claims]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows only.]**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md).**
 
 </details>
 
@@ -145,21 +145,7 @@ tags:
 `Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
 
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
 
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
 
 </details>
 
@@ -171,21 +157,14 @@ tags:
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
+
 - `Taking Care of Myself`
 - `Reinventing Myself`
 - `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
@@ -195,18 +174,18 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**
 
-`2.` **[Enter answer here]**
+`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
 
-`3.` **[Enter answer here]** 
+`3.` **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Enter outcome here]** 
+**[Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.]** 
 
 ---
 
@@ -220,18 +199,17 @@ Are there moments that matter?</summary>
   
 `Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+**`1.`[How do Veterans react to the direct deposit informational alert on the introduction page?]**
 
-**`2.`[Enter Q2]**
+**`2.`[Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?]**
 
-**`3.`[Enter Q3]**
+**`3.`[Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]**
 
-**`4.`[Enter Q4]**
+**`4.`[Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?]**
 
-**`5.`[Enter Q5]**
+**`5.`[Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?]**
 
-> [!TIP]
->Enter more questions as needed
+
 
 ### Hypotheses
 > [!NOTE]
@@ -260,14 +238,10 @@ Are there moments that matter?</summary>
 	
 - `Semi-structured interviews - appropriate for generative research`
 - `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
 
 </details>
 
-**[Enter methodology here]**
+**[Semi-structured interviews with a Figma prototype]**
 
 <details><summary>Additional resources</summary> 
 	
@@ -286,15 +260,10 @@ Where will you be holding the research sessions? Be sure to include whether this
 > [!TIP]
 > Place [X] between brackets in edit mode to leave a checkmark in the correct box.
 
-- [ ] **Remote**
+- [x] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
 
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
@@ -318,9 +287,6 @@ Provide a link to any materials you need to run your study, including any materi
 
 
 
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
@@ -350,11 +316,11 @@ Provide a link to any materials you need to run your study, including any materi
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **[12]**
+- `Caregivers:` **[0]**
+- `Dependents:` **[0]**
+- `Total:` **[12]**
+- `Ideal completed sessions:` **[8]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
@@ -394,11 +360,11 @@ Provide a link to any materials you need to run your study, including any materi
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[60 minutes]**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[45 minutes]**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[2]**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -426,8 +392,8 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica Stump]**		
+- `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Enter full name]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
 - `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
