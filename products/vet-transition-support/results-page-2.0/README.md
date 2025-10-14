@@ -1,7 +1,5 @@
 # Project outline: Discover Your Benefits Results page 2.0
-
-**Last updated: October 14, 2025 - security section updated**
-
+_Last updated: October 14, 2025 - security section updated_
 
 ### Communications & Resources
 - **Team:** VES Transition Experience 
