@@ -1,11 +1,11 @@
 # Desk Research Review 
 
-[Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#background)
-[Gaps in understanding
+- [Background](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#background)
+- [Gaps in understanding
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#gaps-in-understanding)
-[Previous inbox research
+- [Previous inbox research
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#improve-the-inbox-experience-for-business-users-1905)
-Previous form research
+- Previous form research
 
 ## Background
 Our team is still getting up to speed on the research that has been previously completed. So I wanted to directly tie previous research findings to decisions and tickets in the backlog. This page will highlight those connections to identify where we still have gaps to explore in the research. 
