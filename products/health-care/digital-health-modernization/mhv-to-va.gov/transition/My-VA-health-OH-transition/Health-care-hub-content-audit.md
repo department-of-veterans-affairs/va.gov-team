@@ -13,7 +13,6 @@ When all health tools have integrated OH data, we can begin transitioning curren
   * Does that language need to be updated at all? If yes, does it need to be updated _before_ the first current OH site begins to see transition comms?
 
 ## Pages covered by audit
-Pages that fall in the "Manage your health care section" including: 
 
 ### Health care hub
 |Page title | URL| signed-out notes| signed-in notes |
