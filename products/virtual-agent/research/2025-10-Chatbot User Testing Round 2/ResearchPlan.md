@@ -273,7 +273,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ConversationGuide(PerigeanVets).md)
 - [Link to prototype](url goes here)
 
 **For unmoderated testing & focus group:**
