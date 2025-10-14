@@ -1,4 +1,4 @@
-name: Accessibility Testing Update
+name: Accessibility Testing Update Drops
 description: Complete required accessibility testing prior to your Staging review.
 title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
 labels: ["a11y-testing"]
@@ -446,7 +446,7 @@ body:
         - label: Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
 
   - type: checkboxes
-    id: logged
+    id: logged-issues
     attributes:
       label: Report identified issues
       description:  For any issues identified during your testing, please report them as part of your staging review.
