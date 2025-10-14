@@ -1,5 +1,5 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
+title: "Conversation Guide for [Health Apps, 10-7959f-2, October 2025]"
 author: "[AUTHOR NAME]"
 date_created: "[YYYY-MM-DD]"
 last_modified: "[YYYY-MM-DD]"
@@ -8,7 +8,7 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for [FMP Claims Direct Deposit Content Study]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -18,7 +18,7 @@ description: "A template for moderating research sessions including logistics, i
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
+- [ ] Perpare mobile Figma prototype
 - [ ] Step 2
 - [ ] Step 3
 
@@ -42,7 +42,7 @@ description: "A template for moderating research sessions including logistics, i
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about making updates to health care information.
+Today we're going to talk about direct deposit for claims related to the Foreign Medical Program.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -95,9 +95,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. 
+2. Have you ever heard of the Foreign Medical Program through the VA before this?
+  
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Introduction Page] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -109,7 +110,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 > - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Direct Deposit Static Page] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -120,7 +121,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [FMP Form Flow and Confirmation Page] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -130,6 +131,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
 > - [Etc]
+
+
+
+
 
 # Post-Task Interview - X minutes
 
@@ -145,7 +150,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
