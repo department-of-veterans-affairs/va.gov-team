@@ -22,7 +22,6 @@ After looking into the [VA Forms Documenation](https://depo-platform-documentati
 To add a SIP feature we will need a different approach. After investigating I think these would be our options...
 
 1. Use a separate table to keep track of SIP complex claims forms
-   > Not sure if anyone else has done this yet but hoping to talk to the forms teams today so ill find out how feasible this option is!
    - Pros:
          - Decouples us from the constraints of the VA Forms SIP table.
          - We can design the db schema to fit our exact use case (user_uuid + claim_id + form_id).
@@ -104,3 +103,18 @@ Given these constraints, we recommend continuing to use the BTSSS API as the sou
    - May require more front-end complexity since we’re not leveraging the built-in SIP utilities in the forms library.
 
 > If VA Forms SIP adds support for multiple forms for a given user and Mobile use, we can revisit. For now, BTSSS is the most stable solution.
+
+# Complex Claims Save in Progress Prototype
+We were asked to further investigate using the VA Forms SIP system, given that our previous investigation - Further Investigation into using VA forms SIP - showed that it looks like we could override the SIP functionality regarding the form_id.
+
+## Process and Discovery For Creating the Prototype (IN PROGRESS)
+> Initailly I found some bugs with the Yeoman generator for VA Forms Library and the platform forms team had to address and fix these issues
+1. I created a new form with the Yeoman generator which created changes `in vets-website`
+2. I added the necessary form logic to `content-build` and to `vets-api` so that the form could render on my localhost and save in progress worked
+3. Since our use case requires a `claim_id` to be created when we first create a form and for that `claim_id` to be used as the new `form_id` in the form I investigated how we could do this. I worked with several other devs and we found that we can use (prefill)[https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-pre-fill#VAFormsLibrary-HowtoworkwithPre-Fill-Introduction] to do this. I added the necessary changes the `vets-website` and `vets-api ` so that when a form is created prefill runs, creates a `claim_id` and returns this to the frontend and saves it in the redux store.
+4. I then added logic to `vets-website` and `vets-api ` so that we can override the Va Forms SIP and use our own so that we can override the `form_id` using a mixture of the `form_id` + `claims_id`
+5. I then worked with some developers to figure out how to display this in `vets-website` since this had never been done before. We found the following things:
+   1. The VA Forms Library doesnt support showing multiple forms of the same Form Id in the FE. Currently the OOTB Yeoman command IntroductionPage shows a `SaveInProgressIntro` component that allows a user to add a new form. This component uses the `formId` that is set in the `form.js` file. In order to make this display multiple forms we have to add our own special configuration and components to display a list of all of the forms for a given `formId`. It also appears that we have to override the platform code for reducers and actions so the `formId` is overridden correctly in the redux store depending on what form you are trying to view.
+   2. The VA Forms Library doesnt support showing multiple forms and the option to add a new form. Currently the OOTB Yeoman command IntroductionPage shows a `SaveInProgressIntro` component that allows a user to add a new form or if a form already exists, they can continue the form (this uses the SIP functionality). In order to make this display we have to add our own special configuration and components to display a list of all of the forms for a given `formId` and allows a user to create a new form.
+   3. The VA Forms Library doesnt support deleting a form when you have multiple forms. Currently the Va Forms Library allows a user to Continue their application or Start a new application. They do not have the ability to delete a specific form. We would have to add custom FE and BE code to make this work and likely need to override the va forms platform code as well.
+   4. The VA Forms Library doesnt support
