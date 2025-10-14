@@ -2,7 +2,7 @@
 By: Sara Sterkenburg, Tori Moore
 
 ## Overview
-When all health tools have integrated OH data, we can begin transitioning current (OH) users of the My VA Health portal over to My HealtheVet on VA.gov to manage their care. At that point, we may no longer want to advertise anything about the "My VA Health portal" on unauthenticated Drupal pages in the health care hub or R&S hub. This audit covers an analysis of which pages in these hubs currently have content or URL references to the My VA Health (OH) portal, and recommendations for what to do at the time of transition.
+When all health tools have integrated OH data, we can begin transitioning current (OH) users of the My VA Health portal over to My HealtheVet on VA.gov to manage their care. At that point, we may no longer want to advertise anything about the "My VA Health portal" on unauthenticated Drupal pages in the health care hub or the rest of VA.gov. This audit covers an analysis of which pages in these hubs currently have content or URL references to the My VA Health (OH) portal, and recommendations around what updates to make throughout the transition.
 
 ## Timeline
 <img width="1034" height="496" alt="Screenshot 2025-09-22 at 1 02 19 PM" src="https://github.com/user-attachments/assets/2eda7a16-f1a4-4e72-90cb-b16ee0a242d8" />
