@@ -13,7 +13,10 @@ Our team is still getting up to speed on the research that has been previously c
 
 ## Improve the inbox experience for business users ([#1905](https://github.com/department-of-veterans-affairs/ask-va/issues/1905))
 
-> What do we know about the inbox experience for business users in the past and in the current experience?
+- _What do we know about the inbox experience for business users in the past and in the current experience?_ 
+- _Why do they need to find previous inquiries?_
+
+
 
 | Previous Inbox | Current Inbox | 
 |----------|----------|
@@ -22,20 +25,34 @@ Our team is still getting up to speed on the research that has been previously c
 
 
 ### [May 2024 - Dashboard](https://github.com/department-of-veterans-affairs/ask-va/issues/1905)
-Summary: 
+#### Summary: 
 - Testing was completed with both Veterans (7) and SCOs (3)
--  
+- Prototypes showed both Personal and Business sections
 
-Key Findings:
-1. People use date last updated and status to find items that have a reply or should have a reply soon.
+#### Relevant Key Findings:
 2. Question and category provide keywords that help people skim and identify particular items.
-3. Education business submitters organize their inquiries by student name.
-4. It can be confusing deciphering between new and in progress, but reopened and solved are well understood.
-5. There's an expectation that inquiries marked as solved by VA will not actually feel solved for Veterans.
-6. It's more intuitive to read and save a conversation that's in chronological order. 
+3. Education business submitters organize their inquiries by student name.**
+
+#### Additional insights
+1. Most people immediately understand that this was where they can find their previous questions.
+3. How to sort using dropdown list is well understood.
+7. When business tab is first, it's saves an extra click and helps hide personal questions.
+
+#### Recommendations:
+1. Make it easier to compare last date updated with date submitted.
+2. Help people find items based on category (now) or keyword search (in the future).
+3. Remove 'New' status and start with 'In progress' to lessen confusion.
+4. Change 'Solved' status to 'Closed' or 'Replied' to clarify intent.
+5. Recommend plain language overhaul of responses from VA.
+6. Move 'Your question' to 'Your conversation' and 'Send a reply' to the last item on the page.
+7. Add print button to question details page.
+8. Reiterate that a question has been 'Reopened' on the reply confirmation page.
+9. Add 7 day turnaround time to subtitle on unauthenticated and auth homepages.
+
 
 
 
 ### Inbox takeaways
-- ...
+>- Findings and recommendations do not explicitly address why users, specifically SCOs, may be looking for previous inquiries. 
+
 
