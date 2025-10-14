@@ -5,6 +5,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 10/16/2025
 * Flagged Facilities sync (continuous agenda item)
+* Drupal 11 Upgrade testing
 
 10/02/2025
 * [Guidance on seeking support from the Platform CMS Team](https://dsva.slack.com/docs/T03FECE8V/F09GWJK37PB)
