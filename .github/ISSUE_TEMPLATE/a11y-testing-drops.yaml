@@ -72,7 +72,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: automated-002
@@ -84,7 +84,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -101,7 +101,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-145
@@ -113,7 +113,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -130,7 +130,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-123
@@ -142,7 +142,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-142
@@ -154,7 +154,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -171,7 +171,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-242
@@ -183,7 +183,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-246-001
@@ -195,7 +195,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -212,7 +212,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-141
@@ -224,7 +224,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-143
@@ -236,7 +236,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-1411-001
@@ -248,7 +248,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-1411-002
@@ -260,7 +260,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -277,7 +277,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-1410
@@ -289,7 +289,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -306,7 +306,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-212
@@ -318,7 +318,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-247
@@ -330,7 +330,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -347,7 +347,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -364,7 +364,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
@@ -381,7 +381,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-332-001
@@ -393,7 +393,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-332-002
@@ -405,7 +405,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-332-003
@@ -417,7 +417,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-333
@@ -429,7 +429,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: dropdown
     id: web-412-003
@@ -441,7 +441,7 @@ body:
         - Pass
         - Fail
         - N/A
-      default: Incomplete
+      default: 0
 
   - type: markdown
     attributes:
