@@ -144,23 +144,14 @@ body:
     attributes:
       value: |
         ## 5. Next steps
-  - type: markdown
+  - type: checkboxes
+    id: add-link
     attributes:
-      value: |
-        Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
-  - type: markdown
-    attributes:
-      value: |
-        ## 6. Report issues
-  - type: markdown
-    attributes:
-      value: |
-        For any issues identified during your testing, please report them as part of your staging review.
+      label: Add link to Collaboration Cycle ticket
+      description: 
+      options:
+        - label: Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
 
-        - [ ] Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
-        - [ ] Assign to `jasonday` and add the `a11y-testing` label.
-        - [ ] Add the issue to the Collaboration Cycle milestone found in your collab cycle ticket.
-        - [ ] Provide a link to each issue logged in this accessibility testing artifact for reference (in comments or below)
   - type: checkboxes
     id: logged
     attributes:
@@ -171,5 +162,3 @@ body:
         - label: Assign to `jasonday` and add the `a11y-testing` label.
         - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
         - label: Provide a link to each issue logged in this accessibility testing artifact's comments
-
-
