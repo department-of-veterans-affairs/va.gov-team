@@ -19,6 +19,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br/>
+
         ## 2. Before you begin
 
         The Required and Recommended checklists below are based on WCAG 2.2 and the [VA.gov Accessibility Standards](https://depo-platform-documentation.scrollhelp.site/accessibility/va-gov-accessibility-standards).
@@ -40,6 +42,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        <br/>
+        
         ## 3. Required Testing
 
         ### Automated testing
