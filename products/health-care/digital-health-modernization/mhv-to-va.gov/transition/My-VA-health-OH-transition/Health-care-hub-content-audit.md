@@ -8,7 +8,9 @@ When all health tools have integrated OH data, we can begin transitioning curren
 <img width="1034" height="496" alt="Screenshot 2025-09-22 at 1 02 19 PM" src="https://github.com/user-attachments/assets/2eda7a16-f1a4-4e72-90cb-b16ee0a242d8" />
 
 ## Questions
-* When would we want to make changes to the `/health-care` hub pages? This are unauthenticated pages, and all users would see any changes. Do we wait until Spring 2026 when all current OH facilities are seeing transition messaging elsewhere? 
+* When would we want to make changes to the `/health-care` hub pages? This are unauthenticated pages, and all users would see any changes. Do we wait until Spring 2026 when all current OH facilities are seeing transition messaging elsewhere?
+* What other pages on VA.gov mention the My VA Health portal?
+  * Does that language need to be updated at all? If yes, does it need to be updated _before_ the first current OH site begins to see transition comms?
 
 ## Pages covered by audit
 Pages that fall in the "Manage your health care section" including: 
