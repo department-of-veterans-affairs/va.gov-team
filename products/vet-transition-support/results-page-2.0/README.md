@@ -5,7 +5,7 @@ _Last updated: October 14, 2025 - security section updated_
 - **Team:** VES Transition Experience 
 - **Slack channel:** [#ves-transition](https://dsva.slack.com/archives/C06C7RS27GD)
 - **Development Epic**: [PTEMSVT-600](https://jira.devops.va.gov/browse/PTEMSVT-600)
-- **Collab Cycle Epic**: TK
+- **Collab Cycle Epic**: [#121850](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121850)
 
 
 ### Roles
