@@ -111,7 +111,6 @@ body:
     attributes:
       value: |
 
-
         ### Audio & video
 
   - type: dropdown
@@ -153,8 +152,8 @@ body:
   - type: markdown
     attributes:
       value: |
-
-
+      <br/>
+      <br/>
        ### Structure & semantics
 
   - type: dropdown
@@ -376,7 +375,7 @@ body:
     attributes:
       value: |
 
-      
+
         ### Forms & interactive controls
 
   - type: dropdown
