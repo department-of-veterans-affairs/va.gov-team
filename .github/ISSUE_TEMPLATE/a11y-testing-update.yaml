@@ -12,7 +12,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue template will help walk you through [required foundational accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
+        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Anything you're not able to resolve on your own can be discussed as part of the staging review.
         
         ### Why we ask VFS teams to do accessibility testing
         The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document the testing you've already done and helps organize your conversation with the accessibility specialist completing the staging review. 
@@ -39,8 +39,8 @@ body:
       label: Automated testing
       description: AXE has been run against every page in your flow, including page variations, interactive states of content, etc. [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
       options:
-        - label: <strong>AXE has been executed for every page.</strong> <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-        - label: <strong>AXE has been integrated in end to end testing.</strong> <br/>End to end testing with Cypress or other libraries includes AXE scanning. <br/>[Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
+        - label: <strong>AXE has been executed for every page. (Automated-001)</strong> <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
+        - label: <strong>AXE has been integrated in end to end testing. (Automated-002)</strong> <br/>End to end testing with Cypress or other libraries includes AXE scanning. <br/>[Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress).
 
   - type: textarea
     id: automated-testing-notes
@@ -51,14 +51,7 @@ body:
         Axe results screenshots or link to ticket:
 
         E2E testing results or link to ticket:
-  - type: checkboxes
-    id: automated-checks2
-    attributes:
-      label: Automated testing
-      description: Automated accessibility checks that must be included in your workflow.
-      options:
-        - label: <strong>AXE has been executed for every page (Automated-001).</strong> <br/>AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-        - label: <strong>AXE has been integrated in end to end testing (Automated-002).</strong> <br/>End to end testing with Cypress or other libraries includes AXE scanning.
+
   - type: checkboxes
     id: images-checks
     attributes:
@@ -150,9 +143,33 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 8. Next steps
+        ## 5. Next steps
   - type: markdown
     attributes:
       value: |
         Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
+  - type: markdown
+    attributes:
+      value: |
+        ## 6. Report issues
+  - type: markdown
+    attributes:
+      value: |
+        For any issues identified during your testing, please report them as part of your staging review.
+
+        - [ ] Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
+        - [ ] Assign to `jasonday` and add the `a11y-testing` label.
+        - [ ] Add the issue to the Collaboration Cycle milestone found in your collab cycle ticket.
+        - [ ] Provide a link to each issue logged in this accessibility testing artifact for reference (in comments or below)
+  - type: checkboxes
+    id: logged
+    attributes:
+      label: Report identified issues
+      description:  For any issues identified during your testing, please report them as part of your staging review.
+      options:
+        - label: Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
+        - label: Assign to `jasonday` and add the `a11y-testing` label.
+        - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
+        - label: Provide a link to each issue logged in this accessibility testing artifact's comments
+
 
