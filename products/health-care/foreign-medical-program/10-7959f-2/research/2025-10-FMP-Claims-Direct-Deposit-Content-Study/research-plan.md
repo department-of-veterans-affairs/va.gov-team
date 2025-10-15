@@ -244,11 +244,6 @@ Provide a link to any materials you need to run your study, including any materi
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
 
@@ -274,15 +269,14 @@ Provide a link to any materials you need to run your study, including any materi
 - `Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify)`
 - ``
 - **`Add more criteria as needed`**
-- 'At least 2 '
+- 'At least 2 participants who are female'
+- 'At least 2 participants who are 55 years or older'
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
-
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `No more than 3 participants of any one category`
-- `secondary criteria`
 - **`Add more criteria as needed`**
+- - 'No more than 2 participants per each race/demographics category'
+
 
 ## Timeline 🗓️
 > [!NOTE]
