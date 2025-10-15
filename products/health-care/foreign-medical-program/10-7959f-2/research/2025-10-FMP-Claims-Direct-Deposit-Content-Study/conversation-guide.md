@@ -18,9 +18,7 @@ description: "A template for moderating research sessions including logistics, i
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Prep mobile Figma prototype/link ready
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Prepare Figma prototype by having link to intro page and subsequent task starts ready
 
 ### Day of the session
 
@@ -151,7 +149,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 # Post-Task Interview - 5 minutes
-
+- What are you expectations on how the direct deposit process for FMP claims works now that you have gone thorugh this prototype?
 - Do you have any additional feedback about the content we went over today?
 - Any questions for me? 
 
