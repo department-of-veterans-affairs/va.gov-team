@@ -406,10 +406,7 @@ There is an active version deployed to the dev environment currently.  However, 
 - **Satish Srinivasan**
 - **Selia Straus**
 - **Elliot Mackinnon**
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- **Matthew Kerns**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
