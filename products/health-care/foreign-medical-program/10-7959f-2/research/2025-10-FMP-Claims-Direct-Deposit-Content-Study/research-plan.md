@@ -110,15 +110,19 @@ tags:
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
+
 **[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+
 **[Health care hub - Forign Medical Program - Form 10-7959f-2 FMP Claims]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
+
 **[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows only.]**
 
 `Product Brief`
+
 **[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md).**
 
 </details>
