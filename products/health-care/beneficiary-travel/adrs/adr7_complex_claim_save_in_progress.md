@@ -105,16 +105,42 @@ Given these constraints, we recommend continuing to use the BTSSS API as the sou
 > If VA Forms SIP adds support for multiple forms for a given user and Mobile use, we can revisit. For now, BTSSS is the most stable solution.
 
 # Complex Claims Save in Progress Prototype
-We were asked to further investigate using the VA Forms SIP system, given that our previous investigation - Further Investigation into using VA forms SIP - showed that it looks like we could override the SIP functionality regarding the form_id.
+This prototype explored extending and overriding the VA Forms Save-In-Progress (SIP) system to support Complex Claims, where each form instance must be tied to a unique `form_id + claim_id`. The investigation built upon the prior research documented in [Further Investigation into using VA forms SIP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/adrs/adr7_complex_claim_save_in_progress.md#further-investigation-into-using-va-forms-sip). 
+
+The goal was to determine if SIP could be customized to use a dynamic `form_id` derived from a generated `claim_id`, allowing multiple in-progress forms of the same type per user.
 
 ## Process and Discovery For Creating the Prototype (IN PROGRESS)
 > Initailly I found some bugs with the Yeoman generator for VA Forms Library and the platform forms team had to address and fix these issues
 1. I created a new form with the Yeoman generator which created changes `in vets-website`
 2. I added the necessary form logic to `content-build` and to `vets-api` so that the form could render on my localhost and save in progress worked
-3. Since our use case requires a `claim_id` to be created when we first create a form and for that `claim_id` to be used as the new `form_id` in the form I investigated how we could do this. I worked with several other devs and we found that we can use (prefill)[https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-pre-fill#VAFormsLibrary-HowtoworkwithPre-Fill-Introduction] to do this. I added the necessary changes the `vets-website` and `vets-api ` so that when a form is created prefill runs, creates a `claim_id` and returns this to the frontend and saves it in the redux store.
-4. I then added logic to `vets-website` and `vets-api ` so that we can override the Va Forms SIP and use our own so that we can override the `form_id` using a mixture of the `form_id` + `claims_id`
-5. I then worked with some developers to figure out how to display this in `vets-website` since this had never been done before. We found the following things:
-   1. The VA Forms Library doesnt support showing multiple forms of the same Form Id in the FE. Currently the OOTB Yeoman command IntroductionPage shows a `SaveInProgressIntro` component that allows a user to add a new form. This component uses the `formId` that is set in the `form.js` file. In order to make this display multiple forms we have to add our own special configuration and components to display a list of all of the forms for a given `formId`. It also appears that we have to override the platform code for reducers and actions so the `formId` is overridden correctly in the redux store depending on what form you are trying to view.
+3. Since our use case requires a `claim_id` to be created when we first create a form and for that `claim_id` to be used as the new `form_id` in the form I investigated how we could do this. I worked with several other devs and we found that we can use [prefill](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-pre-fill#VAFormsLibrary-HowtoworkwithPre-Fill-Introduction) to do this. I added the necessary changes the `vets-website` and `vets-api ` so that when a form is created prefill runs, creates a `claim_id` and returns this to the frontend and saves it in the redux store.
+   > Important to note that we had to add a `prefill-transformer` to `vets-website` (even though the documentation makes it sound like it shouldnt be required). We also had to add a YML file to `vets-api` even though it appears that we can put whatever we want in it. (These may be bugs.)
+5. I then added logic to `vets-website` and `vets-api ` so that we can override the Va Forms SIP and use our own so that we can override the `form_id` using a mixture of the `form_id` + `claims_id`
+6. I then worked with some developers to figure out how to display this in `vets-website` since this had never been done before. We found the following FE Limitations:
+   1. **The VA Forms Library doesnt support showing multiple forms of the same Form Id in the FE**. Currently the OOTB Yeoman command `IntroductionPage` shows a `SaveInProgressIntro` component that allows a user to add a new form. This component uses the `formId` that is set in the `form.js` file. In order to make this display multiple forms we have to add our own special configuration and components to display a list of all of the forms for a given `formId`. It also appears that we have to override the platform code for actions so the `formId` is overridden correctly in the redux store depending on what form you are trying to view. We were able to hack the `SaveInProgressIntro` component by doing the above things and showing a `VaSelect` on the `IntroductionPage` that shows all of the users forms for a given form id and then allows a user to select the form they want to view. We added the above code that I mentioned which allowed the `SaveInProgressIntro` component to then get the `formId` aka `formId + claimId` of the form they selected. Visually this does not look great but it does appear to work. 
    2. The VA Forms Library doesnt support showing multiple forms and the option to add a new form. Currently the OOTB Yeoman command IntroductionPage shows a `SaveInProgressIntro` component that allows a user to add a new form or if a form already exists, they can continue the form (this uses the SIP functionality). In order to make this display we have to add our own special configuration and components to display a list of all of the forms for a given `formId` and allows a user to create a new form.
-   3. The VA Forms Library doesnt support deleting a form when you have multiple forms. Currently the Va Forms Library allows a user to Continue their application or Start a new application. They do not have the ability to delete a specific form. We would have to add custom FE and BE code to make this work and likely need to override the va forms platform code as well.
-   4. The VA Forms Library doesnt support
+   3. The VA Forms Library doesnt support deleting a form when you have multiple forms. Currently the VA Forms Library allows a user to `Continue their application` or `Start a new application`. They do not have the ability to delete a specific form. We would have to add custom FE and BE code to make this work and likely need to override the va forms platform code as well.
+   4. The VA Forms Library doesnt support leaving a form and returning the the Introduction Page. While attempting to use the VA Forms Library for showing multiple forms we found that if a user is on a form they dont have a way to leave the form and go back to the Introduction Page. They can either select the back arrow a bunch of times until they go to the Introdution Page or they can select `Finish this application later` link and then change the url to the Introduction Page.
+  
+## Video of Prototype
+https://github.com/user-attachments/assets/ed14555f-bcd3-40d7-a3ec-97f9c2fbc329
+
+## Reccommendation
+
+### Short-Term
+
+Do not adopt VA Forms SIP as-is for complex claims requiring multiple concurrent forms. Instead, leverage the VA Forms infrastructure selectively (e.g., schema, UI helpers) while maintaining custom logic for:
+   - Form creation and association with claim_id
+   - Save-in-progress handling
+   - Multi-form management (list, select, delete)
+The previous [reccommendation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/beneficiary-travel/adrs/adr7_complex_claim_save_in_progress.md#recommendation) above is still reccommended.
+
+### Long-Term
+
+Engage with the Platform Forms Team to propose enhancements to the VA Forms Library:
+- Support for dynamic form_id values.
+- Built-in handling of multiple saved forms per user.
+- UI patterns for listing, resuming, and deleting saved applications.
+
+### Overall Reccommendation 
+> The VA Forms SIP system can be customized for our use case but would require significant overrides to platform-level code, leading to high maintenance cost and potential fragility. We should move forward with the previous [reccommendation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/beneficiary-travel/adrs/adr7_complex_claim_save_in_progress.md#recommendation) above.
