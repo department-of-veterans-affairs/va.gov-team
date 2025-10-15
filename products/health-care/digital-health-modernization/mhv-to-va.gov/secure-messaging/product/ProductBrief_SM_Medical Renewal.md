@@ -1,4 +1,4 @@
-# Product Outline: Medical Renewal Flow Via SM (VA.gov and VAHB)
+# Product Outline: Medical Renewal Flow Via SM- VA.gov
 
 
 ##  Overview 
@@ -10,33 +10,31 @@ This is due to the the Medications API limitations of not having a direct establ
 
 
 ## Problem/User Story
-As a Veteran with an expired medication, I need to have a clear way to request an online renewal for both Web and Mobile
+As a Veteran with an expired medication, I need to have a clear way to request an online renewal for **VA.gov only.**
 
 ### Use Case
 
-Use Case: User has an expired prescription and opens up an secure message that is pre-filled to request a prescription renewal.
+**Use Case**: User has an expired prescription and opens up an secure message that is pre-filled to request a prescription renewal.
 
 -We need a digital way to submit renewal requests for medications.
 
--We need the ability for users/vets to send a secure message to a doctor, requesting a refill
+-We need the ability for users/vets to send a secure message to a doctor, requesting a refill.
 
 
 ## Outcome Summary 
 An renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
 
-The flow will be implemented for both  Vista users and Vista/OH users on web.
+Note: The flow will be implemented for with **VISTA Data only.** 
+
+**Note**: SM Team plans fast follow to integrate with OH data as a V2 approach.
 
 **Note:** Medication status would trigger and lead to at renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
 
 ### What we are building 
 
-**For Web:**
+For VA.Gov- Web: 
 
 We are implementing a Link to Secure Messaging "Start a new message" page that will contain pre-filled details based on the info for the given prescription from MHV Medications API (integrated with OH system for OH RX's)
-
-**For Mobile:**
-
-We are Update VAHB FE to include a button within RX that will navigate the user to a the new message screen and pre-fill details based on the info for the given prescription
 
 
 
@@ -74,7 +72,7 @@ View all related tickets
 #### Communications
 
 
-Team Name: MHV on VA.gov and VAHB Secure Messages team
+Team Name: MHV Secure Messaging (SM Web and Mobile)
 GitHub Label(s): mhv-secure-messaging
 Slack channel: mhv-secure-messaging
 Product POCs: Patrick Bateman; Stacy Blackwood
