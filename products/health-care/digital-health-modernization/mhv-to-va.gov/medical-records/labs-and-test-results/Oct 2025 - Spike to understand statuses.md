@@ -1,4 +1,4 @@
-# Spike to understand statuses 
+# Oct 2025 - Spike to understand statuses
 This doc explains how we display and explain statuses for users for the [#122203 ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122203).
 
 @beckyphung used GitHub Copilot to ask questions about lab and test results design/code in the `vets-website` and `vets-api` repos.
