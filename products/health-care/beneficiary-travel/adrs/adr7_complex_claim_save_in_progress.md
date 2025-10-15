@@ -109,7 +109,7 @@ This prototype explored extending and overriding the VA Forms Save-In-Progress (
 
 The goal was to determine if SIP could be customized to use a dynamic `form_id` derived from a generated `claim_id`, allowing multiple in-progress forms of the same type per user.
 
-## Process and Discovery For Creating the Prototype (IN PROGRESS)
+## Process and Discovery For Creating the Prototype
 > Initailly I found some bugs with the Yeoman generator for VA Forms Library and the platform forms team had to address and fix these issues
 1. I created a new form with the Yeoman generator which created changes `in vets-website`
 2. I added the necessary form logic to `content-build` and to `vets-api` so that the form could render on my localhost and save in progress worked
