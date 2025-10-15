@@ -1,5 +1,5 @@
 name: Platform Atlas Manual Deployment Verification and Sync
-about: Checklist to verify deployments and sync environments for platform-atlas
+description: Checklist to verify deployments and sync environments for platform-atlas
 title: "[Deployment] Verify and Sync Platform Atlas"
 body:
   - type: markdown
