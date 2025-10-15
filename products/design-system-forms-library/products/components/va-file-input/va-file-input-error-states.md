@@ -765,7 +765,23 @@ import { VaFileInputMultiple } from '@department-of-veterans-affairs/component-l
 ```
 
 ---
+## Backend Validation
 
+- This is currently not part of the pattern and would need to be implemented by teams
+  
+### Page Size Limit Error
+Message: "exceeds the page size limit"
+
+Remapped message: "Your file can't have a width and height larger than 78 inches by 101 inches. Follow the instructions for your device on how to resize the file and try again."
+
+Location: /platform/forms-system/src/js/utilities/file/errorMessageMaps.js:4-5
+
+### When it occurs:
+
+- Uploaded file (typically PDF or image) has dimensions exceeding 78" x 101"
+- Backend validation rejects oversized pages
+- Common with scanned documents or high-resolution images
+---
 ## Summary
 
 ### Error State Comparison
