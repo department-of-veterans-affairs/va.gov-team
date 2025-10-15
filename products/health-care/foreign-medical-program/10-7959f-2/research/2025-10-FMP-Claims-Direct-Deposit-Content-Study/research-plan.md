@@ -22,16 +22,16 @@ research_format:
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[First research goal]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
+  - goal_1: "[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]"
+  - goal_2: "[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]"
+  - goal_3: "[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]"
 
 research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
+  - "[How do Veterans react to the direct deposit informational alert on the introduction page?]"
+  - "[Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?]"
+  - "[Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]"
+  - "[Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?]"
+  - "[Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?]"
 
 hypotheses:
   - "[Hypothesis 1]"
@@ -161,7 +161,7 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**
+`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.]**
 
 `2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
 
