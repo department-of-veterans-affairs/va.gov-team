@@ -89,4 +89,10 @@ The following usability best practices should be kept in mind when adding or upd
 
    1. _Unless_ it is a 1-click task, which users should be allowed to complete inline on the page.
    2. Reference existing content documentation to ensure your features match content and tone for dynamic cards, links, and error messaging.
-      1. Link to content documentation. (COMING SOON)
+
+## My VA content standards
+
+The following usability best practices should be kept in mind when adding or updating content on My VA.
+
+- Headers and links should avoid the use of 'your' or 'VA' unless absolutely necessary, as the content becomes redundant on the page.
+- Keep headers short to help with maginification device usability.
