@@ -75,11 +75,11 @@ recruitment:
     
       
 participants:
-  veterans: 20
-  caregivers: 0
-  dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  veterans: 15
+  caregivers: 3
+  dependents: 2
+  total_recruited: 20
+  completed_sessions_goal: 18
   
 # Timeline & Sessions
 timeline:
@@ -273,7 +273,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ConversationGuide(PerigeanVets).md)
 - [Link to prototype](url goes here)
 
 **For unmoderated testing & focus group:**
@@ -312,11 +312,11 @@ For the second portion of this testing we are looking to gather feedback from th
 
 
 
-- `Veterans:` **[20]**
-- `Caregivers:` **[0]**
-- `Dependents:` **[0]**
-- `Total:` **[0]**
-- `Ideal completed sessions:` **[20]**
+- `Veterans:` **[15]**
+- `Caregivers:` **[3]**
+- `Dependents:` **[2]**
+- `Total:` **[20]**
+- `Ideal completed sessions:` **[18]**
 - `Minimum completed sessions:` **[10]**
 
 ### Primary criteria (must-haves)
@@ -349,7 +349,7 @@ Ideally we would like to begin the usability testing the week of October 27 for 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[10/27 02:00 CST]**
+- `Suggested dates and times:` **[10/27 02:00 PM CST]**
 
 ### Prepare
 There is an active version deployed to the dev environment currently.  However, the team may conduct some bug bashing next week to further refine and improve the application. 
@@ -397,7 +397,7 @@ There is an active version deployed to the dev environment currently.  However, 
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 - **Luciana Morais (PO)**
-- **Nathalie Rayter (PO)**
+- **Michelle Dooley (PO)**
 - **Anita DeWitt**
 - **Adam Whitlock**
 - **Ann-Marie Raposo**
