@@ -79,11 +79,11 @@ body: |
       description: Add any issues, errors, or additional observations during the process (e.g., sync failures, unexpected errors).
 
   - type: checkboxes
-      id: post-deployment-verification
-      attributes:
-        label: Post-Deployment Verification
-        options:
-          - label: Announce deployment completion in the appropriate Slack channel
+    id: post-deployment-verification
+    attributes:
+      label: Post-Deployment Verification
+      options:
+        - label: Announce deployment completion in the appropriate Slack channel
 
   - type: markdown
     attributes:
@@ -92,11 +92,11 @@ body: |
         Follow this checklist if there are issues during or after the Prod deployment
 
   - type: checkboxes
-      id: rollback-instructions
-      attributes:
-        label: Vets-API Rollback Instructions
-        options:
-          - label: Create a pull request in [vsp-infra-application-manifests](<https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests>) that reverts the problematic changes
-          - label: Get approval and merge the revert pull request
-          - label: Proceed to Prod Sync
-          - label: Proceed to Sandbox Sync
+    id: rollback-instructions
+    attributes:
+      label: Vets-API Rollback Instructions
+      options:
+        - label: Create a pull request in [vsp-infra-application-manifests](<https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests>) that reverts the problematic changes
+        - label: Get approval and merge the revert pull request
+        - label: Proceed to Prod Sync
+        - label: Proceed to Sandbox Sync
