@@ -1,6 +1,6 @@
 ---
-name: ARC Onboarding Organization
-about: Onboard organization into ARP and enable Form 21-22 online submission
+name: ARC Onboarding - VSOs
+about: Onboard Veteran Service Organizations (VSOs) into ARP and enable Form 21-22 online submission
 title: '[ Org Name ] Organization onboarding'
 labels: ar-crew, engagement
 assignees: 'candilemoine'
