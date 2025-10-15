@@ -40,7 +40,9 @@ We are implementing a Link to Secure Messaging "Start a new message" page that w
 
 ### Key Performance Indicators (KPIs) 
 
-TBD
+- Number of link clicks: count
+- Number of messages sent with Medication category increase
+- Number of individual feedback from Veterans complaining about renewals confusion decrease
 
 ### **Resources:**
 
