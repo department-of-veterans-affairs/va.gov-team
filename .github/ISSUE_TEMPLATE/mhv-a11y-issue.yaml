@@ -2,7 +2,7 @@ name: "MHV Accessibility Issue Ticket"
 description: "Please use this form to report or create an accessibility issue ticket for MHV"
 title: "[a11y-defect-x]: MHV:[Product]: [Issue description]"
 labels: ["accessibility", "a11y-testing", "needs-refinement"]
-projects: ["1748"]
+projects: 1748
 assignees: ["steveg-IAT", "sarahhortonadhoc"]
 body:
 - type: markdown
