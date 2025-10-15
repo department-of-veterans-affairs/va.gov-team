@@ -10,14 +10,14 @@ body: |
         **Sandbox** and **Prod** must be deployed simultaneously for every release.
         Deploy **Prod first**, then Sandbox
 
-  ### Deployment Resources
-  - [vets-api-prod ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-prod?operation=false&resource=>)
-  - [vets-api-sandbox ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-sandbox?operation=false&resource=>)
-  - [vets-api-staging ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-staging?operation=false&resource=>)
-  - [vets-api-dev ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-dev?operation=false&resource=>)
-  - [Vets API External Service Outages and Error Trends dashboard](<https://vagov.ddog-gov.com/dashboard/jq8-w55-zzp?fullscreen_end_ts=1707142527565&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=edit&fullscreen_start_ts=1706537727565&fullscreen_widget=2865712703243086&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&view=spans&from_ts=1706537486437&to_ts=1707142286437&live=true>)
-  - [Deploy Status Dashboard](<https://www.va.gov/atlas/apps/vets-api/deploy_status>)
-  - [Vets API on EKS Developer Docs](<https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks>)
+        ### Deployment Resources
+        - [vets-api-prod ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-prod?operation=false&resource=>)
+        - [vets-api-sandbox ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-sandbox?operation=false&resource=>)
+        - [vets-api-staging ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-staging?operation=false&resource=>)
+        - [vets-api-dev ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-dev?operation=false&resource=>)
+        - [Vets API External Service Outages and Error Trends dashboard](<https://vagov.ddog-gov.com/dashboard/jq8-w55-zzp?fullscreen_end_ts=1707142527565&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=edit&fullscreen_start_ts=1706537727565&fullscreen_widget=2865712703243086&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&view=spans&from_ts=1706537486437&to_ts=1707142286437&live=true>)
+        - [Deploy Status Dashboard](<https://www.va.gov/atlas/apps/vets-api/deploy_status>)
+        - [Vets API on EKS Developer Docs](<https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks>)
 
   - type: markdown
     attributes:
