@@ -20,10 +20,7 @@ body:
         - [Deploy Status Dashboard](https://www.va.gov/atlas/apps/vets-api/deploy_status)
         - [Vets API on EKS Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks)
 
-  - type: markdown
-    attributes:
-      value: |
-        ## Deploy Status Indicators
+        ### Deploy Status Indicators
         The [Deploy Status Dashboard](https://www.va.gov/atlas/apps/vets-api/deploy_status) displays colored checkmarks to indicate successful deployment of the latest vets-api commit to each environment:
         ![Indicators](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/assets/images/vetsapi-manual-deployment-deploy-status-confirm.png)
         - **Green checkmark** — Latest commit successfully deployed to **dev**
@@ -97,7 +94,7 @@ body:
     attributes:
       label: Vets-API Rollback Instructions
       options:
-        - label: Create a pull request in [vsp-infra-application-manifests](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests) that reverts the problematic changes
+        - label: Create a pull request in [vsp-infra-application-manifests](<https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests>) that reverts the problematic changes
         - label: Get approval and merge the revert pull request
         - label: Proceed to Prod Sync
         - label: Proceed to Sandbox Sync
