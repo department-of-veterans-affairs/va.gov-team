@@ -35,16 +35,16 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 ### Automated testing
 #### Required
-- **AXE has been executed for every page (Automated-001)**  
-  AXE has been run against every page in your flow, including page variations, interactive states of content, etc.
-  [Learn more about testing with axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+- **Axe DevTools has been executed for every page (Automated-001)**  
+  Axe Devtools has been run against every page in your flow, including page variations, interactive states of content, etc.
+  [Learn more about testing with Axe DevTools](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
   - [ ] Pass  
   - [ ] Fail
   - [ ] Include screenshots or output of AXE results in a comment in this ticket
 
-- **AXE has been integrated in end to end testing (Automated-002)**  
-  End to end testing with Cypress or other libraries includes AXE scanning.
-  [Learn more about integrating axe in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). 
+- **Axe-core has been integrated in end to end testing (Automated-002)**  
+  End to end testing with Cypress or other libraries includes Axe-core scanning.
+  [Learn more about integrating Axe-core in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). 
   - [ ] Pass  
   - [ ] Fail
   - [ ] Provide a link to, or evidence of, AXE integration in a comment in this ticket
@@ -70,7 +70,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Decorative images are hidden from screen readers (WEB-111-003)**  
-  Decorative images provide no contextual value and are hidden from screen readers.  
+  All non-text content that is decorative, provides no contextual value, or is already defined by surrounding content is hidden from screen readers.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -100,7 +100,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 #### Recommended
 - **Text transcripts are provided for audio and video-only content (WEB-121)**  
-  For audio-only and video-only media, a transcript is provided with equivalent information.  
+  For audio-only and video-only media, a transcript is provided which provides the same information as presented in the original media content.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -116,10 +116,20 @@ Complete all required checks and as many recommended checks as you can. If you c
 - **Headings match the content hierarchy and use proper HTML tags (WEB-131-001)**  
   Headings accurately reflect content hierarchy and are semantically marked.  
   - [ ] Pass  
+  - [ ] Fail
+
+- **Headings follow a logical order without skipping levels (WEB-131-002)**  
+  Heading levels follow a logical, sequential, hierarchy with no skipped heading levels.  
+  - [ ] Pass  
+  - [ ] Fail  
+
+- **There is one H1 per page/screen (WEB-131-003)**  
+  A single H1 exists for every page or screen.  
+  - [ ] Pass  
   - [ ] Fail  
 
 - **Each page has a unique, descriptive title (WEB-242)**  
-  Each web page or screen has a unique and descriptive title.  
+  Each web page, or screen, has a unique and descriptive title reflecting its purpose.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -135,7 +145,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Content is organized into sections (WEB-2410)**  
-  Where content is organized in sections, provide section headings.  
+  Where content is organized in sections, section headings are provided.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -145,7 +155,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Content in another language is identified (WEB-312)**  
-  Text in different languages is marked with `lang` attributes.  
+  Text in different languages from the page's primary language is marked with `lang` attributes.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -164,7 +174,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Text has sufficient contrast against its background (WEB-143)**  
-  Text and images of text meet minimum contrast ratios.  
+  Text and images of text have a contrast ratio of at least 4.5:1 and large-scale text and images of large-scale text have a contrast ratio of at least 3:1.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -194,12 +204,12 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 #### Recommended
 - **Content works in both portrait and landscape mode (WEB-134)**  
-  Content is viewable in both orientations unless essential otherwise.  
+  Content is viewable in portrait and landscape orientations unless essential otherwise.  
   - [ ] Pass  
   - [ ] Fail  
 
 - **Text remains readable when spacing is adjusted (WEB-1412)**  
-  No content or functionality is lost when text spacing is increased.  
+  No content or functionality may be lost when text is set to: line spacing of 1.5x font size, letter spacing at 0.12x font size, word spacing at 0.16x font size, and paragraph spacing 2x the font size and that styling does not prevent overrides.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -229,12 +239,12 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **The element with focus is always visible (WEB-2411)**  
-  The visible focus indicator is not obscured by other content.  
+  The visible focus indicator is not completely obscured by other content.  
   - [ ] Pass  
   - [ ] Fail  
 
 - **Focusing on an element doesn't trigger unexpected changes (WEB-321)**  
-  Focusing an element does not trigger a change of context.  
+  Focusing an element does not trigger a change of context.
   - [ ] Pass  
   - [ ] Fail  
 
@@ -248,7 +258,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 ### Timing & interruptions
 #### Required
 - **Automatically moving content can be paused or stopped (WEB-222)**  
-  All moving, blinking, scrolling, or auto-updating content provides mechanisms to pause, stop, or hide.  
+  All moving, blinking, scrolling, or auto-updating content provides mechanisms to pause, stop, hide, or control its frequency if it starts automatically and lasts over 5 seconds.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -257,23 +267,23 @@ Complete all required checks and as many recommended checks as you can. If you c
 ### Navigation & consistency
 #### Required
 - **Users can skip repeated content like headers and navigation (WEB-241)**  
-  A mechanism is provided to bypass repeated blocks of content.  
+  A mechanism is provided to bypass repeated blocks of content (e.g., navigation, headers) on multiple webpages such as a skip link, HTML5 landmarks, etc.  
   - [ ] Pass  
   - [ ] Fail  
 
 #### Recommended
 - **Pages can be found in multiple ways (WEB-245)**  
-  Two or more mechanisms of finding a webpage are available.  
+  Two or more mechanisms of finding a webpage are available, unless the page is accessed as part of a step in a process.  
   - [ ] Pass  
   - [ ] Fail  
 
 - **Navigation structure is the same across pages (WEB-323)**  
-  Navigation menus maintain consistent order and structure.  
+  Navigation menus maintain consistent order and structure across multiple pages.  
   - [ ] Pass  
   - [ ] Fail  
 
 - **Help options appear in the same location on all pages (WEB-326)**  
-  Help mechanisms such as contact details, messaging, or self-help options appear consistently.  
+  Help mechanisms such as contact details, messaging, chat, or self-help options must be in the same relative order on all pages where the information is present..  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -328,7 +338,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Error messages are provided and are clear (WEB-331)**  
-  Whenever an input error is detected, the user is informed of the error and what was incorrect.  
+  Whenever an input error is detected, the user is informed of the error and how to correct the error.  
   - [ ] Pass  
   - [ ] Fail  
 
