@@ -1,8 +1,8 @@
 ---
 title: "Conversation Guide for [Health Apps, 10-7959f-2, October 2025]"
 author: "[Health Apps UX Team]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[2025-10-14]"
+date_created: "[2025-10-14]"
+last_modified: "[2025-10-15]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
@@ -81,18 +81,20 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
+- Do you receive direct deposit for your monthly compensation payments?
 - If no, skip to question 2.
 2. Have you ever heard of the Foreign Medical Program through the VA before?
   - If so, can you describe what it is in your own words?
   - Have you ever filed a reimbursement claim before?
   
 
-## First Task: [Introduction Page] - 10 minutes
+## First Task: [Introduction Page] - 5 minutes
 
 - [ ] Open mobile Figma prototype - link to go here when ready
 - I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
-- Open the prototype take a minute to look it over and please remember to think aloud.
-- What would you do next if you were filing your first FMP claim today?
+- Open the prototype and take a minute to look it over and please remember to think aloud.
+- Based on this page, what would you do next if you were filing your first FMP claim today?
+
 
 > [!NOTE]
 > ### Things to watch for:
@@ -106,9 +108,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
 - What are your impression of this page and your understanding of the content here? Please remember to think aloud.
-- [ ] On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the intructions on this page?
-- Would you call out anything on this page as being either especially helpful for you or confusing too?
-- 
+- On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the intructions on this page?
+- Would you call out anything on this page as being either especially helpful or confusing for you?
+  
 
 > [!NOTE]
 > ### Things to watch for:
@@ -131,8 +133,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 > ### Things to watch for:
 > - [Does the participant interact with the additional information component to learn more about direct deposit later in the flow?]
 > - [Does the participant notice the direct deposit information on the confirmation page and call it out as being redundant or helpful?]
-> - [Etc]
-
 
 
 
