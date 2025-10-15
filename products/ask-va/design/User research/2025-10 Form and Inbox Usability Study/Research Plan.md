@@ -188,7 +188,7 @@ For more details about our criteria, refer to our \[Recruitment ticket\](add lin
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **–**  
 - `Note-takers:` **Danielle Oppendike**  
 - `Observers`   
-  \[\!NOTE\] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
+  > [\!NOTE\] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
   - **Becky Phung**  
   - **Stephanie Vargo**  
   - **Matt Floyd**  
