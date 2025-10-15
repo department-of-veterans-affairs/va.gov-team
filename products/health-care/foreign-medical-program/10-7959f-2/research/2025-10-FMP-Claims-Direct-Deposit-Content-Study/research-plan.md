@@ -27,7 +27,7 @@ research_goals:
   - goal_3: "[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]"
 
 research_questions:
-  - "[Research question 1]"
+  - "[How do Veterans react to the direct deposit informational alert on the introduction page]"
   - "[Research question 2]"
   - "[Research question 3]"
   - "[Research question 4]"
