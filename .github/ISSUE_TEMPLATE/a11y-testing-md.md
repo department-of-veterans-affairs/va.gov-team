@@ -35,7 +35,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 ### Automated testing
 #### Required
-- **Axe DevTools has been executed for every page (Automated-001)**  
+- **Axe DevTools has been run on every page (Automated-001)**  
   Axe Devtools has been run against every page in your flow, including page variations, interactive states of content, etc.
   [Learn more about testing with Axe DevTools](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
   - [ ] Pass  
