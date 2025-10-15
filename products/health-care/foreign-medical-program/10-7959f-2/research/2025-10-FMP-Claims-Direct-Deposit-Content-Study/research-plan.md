@@ -91,7 +91,7 @@ octo_priorities:
       - "[Specific KR if applicable]"
       
 veteran_journey_phases:
-  - "[e.g., Getting Out]"
+  - "[e.g., Taking Care of Myself]"
   - "[e.g., Starting Up]"
     
 # Research Repository Tracking
@@ -226,9 +226,9 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Enter hypotheses here: 
-- We assume that overall there will be some minimal confusion about direct deposit being a separate process than what is used for VA Benefits.
-- Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.]** 
+**[Enter hypotheses here:]** 
+- We assume that overall there will be some but minimal confusion about direct deposit being a separate process than what is used for VA Benefits.
+- Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
 
 ---
   
@@ -324,8 +324,8 @@ Provide a link to any materials you need to run your study, including any materi
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `[Place primary criteria here between hash marks when in edit mode]`
-- `Veteran who receives disability compensation`
-- `primary criteria`
+- `Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify)`
+- ``
 - **`Add more criteria as needed`**
 
 #### Secondary criteria (nice-to-haves)
