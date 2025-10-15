@@ -206,7 +206,8 @@ body:
     id: points
     attributes:
       label: Points
-      description: Enter a numeric value for story points if needed.  
+      description: |
+        Enter a numeric value for story points if needed.  
         ⚠️ This can be filled upon issue creation and refined during sprint planning.
       placeholder: "e.g., 3"
     validations:
@@ -228,39 +229,39 @@ body:
       required: false
 
   - type: markdown
-  attributes:
-    value: |
-      ---
-      ✅ **Reminder:**
+    attributes:
+      value: |
+        ---
+        ✅ **Reminder:**
 
-      **Team Labels**
-      Apply the correct **Team label** after selecting your team above:
-      - `bmt-team-1` → Mavericks
-      - `bmt-team-2` → Bee’s Knees
-      - `bmt-team-3` → Phoenix
-      - Or another team label if applicable
+        **Team Labels**
+        Apply the correct **Team label** after selecting your team above:
+        - `bmt-team-1` → Mavericks
+        - `bmt-team-2` → Bee’s Knees
+        - `bmt-team-3` → Phoenix
+        - Or another team label if applicable
 
-      **Issue Type Labels**
-      Make sure you select the right **Issue Type** in the dropdown above:
-      - **Task** → Work to be done, implementation steps
-      - **Bug** → Defect, error, or unexpected behavior
-      - **Enhancement** → Improvement or optimization to existing functionality
-      - **Question** → Clarification or decision needed
-      - **Design** → UX/UI design, mockups, prototypes, content changes
-      - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)
+        **Issue Type Labels**
+        Make sure you select the right **Issue Type** in the dropdown above:
+        - **Task** → Work to be done, implementation steps
+        - **Bug** → Defect, error, or unexpected behavior
+        - **Enhancement** → Improvement or optimization to existing functionality
+        - **Question** → Clarification or decision needed
+        - **Design** → UX/UI design, mockups, prototypes, content changes
+        - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)
 
-      **Feature Labels**
-      Use labels to identify which product area the issue belongs to:
-      - `claims-status-tool`
-      - `evidence-requests`
-      - `intent-to-file`
-      - Or other feature-specific labels as appropriate
+        **Feature Labels**
+        Use labels to identify which product area the issue belongs to:
+        - `claims-status-tool`
+        - `evidence-requests`
+        - `intent-to-file`
+        - Or other feature-specific labels as appropriate
 
-      **Workstream Labels**
-      Apply labels to indicate the discipline or focus area:
-      - `ux`
-      - `eng-frontend`
-      - `eng-backend`
-      - `accessibility`
-      - `content`
-      - Or other workstream labels as appropriate
+        **Workstream Labels**
+        Apply labels to indicate the discipline or focus area:
+        - `ux`
+        - `eng-frontend`
+        - `eng-backend`
+        - `accessibility`
+        - `content`
+        - Or other workstream labels as appropriate
