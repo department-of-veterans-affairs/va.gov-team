@@ -12,10 +12,12 @@ type: Task
 _What background/context has led to this work?  What problem are we trying to solve?_
 
 ## Tasks
-- [ ] _What steps are required to get to the Acceptance Criteria?_
+_What steps are required to get to the Acceptance Criteria?_
+- [ ]
 
 ## Acceptance Criteria
-- [ ] _What will be created or happen as a result of this?_
+_What will be created or happen as a result of this?_
+- [ ] 
 
 ---
 #### How to configure this issue
