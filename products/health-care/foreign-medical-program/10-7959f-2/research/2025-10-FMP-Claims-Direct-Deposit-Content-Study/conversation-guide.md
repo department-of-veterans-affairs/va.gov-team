@@ -1,6 +1,6 @@
 ---
 title: "Conversation Guide for [Health Apps, 10-7959f-2, October 2025]"
-author: "[Jessica Stump]"
+author: "[Health Apps UX Team]"
 date_created: "[YYYY-MM-DD]"
 last_modified: "[2025-10-14]"
 tags:
@@ -22,18 +22,8 @@ description: "A template for moderating research sessions including logistics, i
 
 ### Day of the session
 
-> [!TIP]
-> - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-> - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-
 ### Starting the session
 
-> [!TIP]
-> - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
 
 # Intro - 5 minutes
 
@@ -41,7 +31,6 @@ Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is t
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about content around direct deposit for Foreign Medical Program Claims.
-
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -126,7 +115,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant understand that the process to setup their account for FMP claims is separate from VA benefits?]
 > - [Does the participant call out this separate process and really difficult or just a one-time thing they have to do during setup?]
 > - [Does the process stepper componennt and contnet help or add clarity to the process?]
-> - [
+
 
 ## Third Task: [FMP Form Flow and Confirmation Page] - 10 minutes
 
