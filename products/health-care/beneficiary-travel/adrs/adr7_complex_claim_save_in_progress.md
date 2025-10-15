@@ -121,9 +121,14 @@ The goal was to determine if SIP could be customized to use a dynamic `form_id` 
    2. The VA Forms Library doesnt support showing multiple forms and the option to add a new form. Currently the OOTB Yeoman command IntroductionPage shows a `SaveInProgressIntro` component that allows a user to add a new form or if a form already exists, they can continue the form (this uses the SIP functionality). In order to make this display we have to add our own special configuration and components to display a list of all of the forms for a given `formId` and allows a user to create a new form.
    3. The VA Forms Library doesnt support deleting a form when you have multiple forms. Currently the VA Forms Library allows a user to `Continue their application` or `Start a new application`. They do not have the ability to delete a specific form. We would have to add custom FE and BE code to make this work and likely need to override the va forms platform code as well.
    4. The VA Forms Library doesnt support leaving a form and returning the the Introduction Page. While attempting to use the VA Forms Library for showing multiple forms we found that if a user is on a form they dont have a way to leave the form and go back to the Introduction Page. They can either select the back arrow a bunch of times until they go to the Introdution Page or they can select `Finish this application later` link and then change the url to the Introduction Page.
+   5. The VA Forms Library does not support a user refreshing the page while on a specific form instance. When the page is refreshed, the form logic and the corresponding `form_id` are removed from the Redux store. As a result, the user is redirected to a new form that is not associated with the original `form_id` they were attempting to edit. Additionally, the prefill logic does not run, and a new `claim_id` is not created. A potential workaround would be to include the `form_id` or `claim_id` in the URL; however, the VA Forms Library currently does not support dynamic form URLs or search parameters, which would be required for this approach.
   
 ## Video of Prototype
+This video shows the prototype where a user can view multiple forms, select a specific form, edit that specific form and add a new form.  
 https://github.com/user-attachments/assets/ed14555f-bcd3-40d7-a3ec-97f9c2fbc329
+
+This video shows the prototype where a user can view multiple forms, selects a specific form, edits that specific form, refreshes the page and then the formid is removed from the redux store. This puts the user in a weird state where they are actually on a new form instead and the form doenst have a `claim id` associated with it.
+https://github.com/user-attachments/assets/c91ff2ab-2499-438f-9a2f-6996f993e965
 
 ## Pull Requests 
 - [vets-website](https://github.com/department-of-veterans-affairs/vets-website/pull/new/travel-pay/complex-claims-form-prototype) - branch name `travel-pay/complex-claims-form-prototype`
@@ -145,6 +150,7 @@ The previous [reccommendation](https://github.com/department-of-veterans-affairs
 Engage with the Platform Forms Team to propose enhancements to the VA Forms Library:
 - Support for dynamic form_id values.
 - Built-in handling of multiple saved forms per user.
+- Dynamic Form URLs or search parameters 
 - UI patterns for listing, resuming, and deleting saved applications.
 
 ### Overall Reccommendation 
