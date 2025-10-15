@@ -43,7 +43,7 @@ body:
     attributes:
       value: |
         <br/>
-        
+
         ## 3. Required Testing
 
         ### Automated testing
@@ -475,9 +475,9 @@ body:
     id: logged-issues
     attributes:
       label: Report identified issues
-      description:  For any issues identified during your testing, please report them as part of your staging review.
+      description:  "For any issues identified during your testing, please report them as part of your staging review. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information in the comments."
       options:
         - label: Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
-        - label: Assign to `jasonday` and add the `a11y-testing` label.
+        - label: Assign to the Accessibility Specialist (`jasonday`) and add the `a11y-testing` label. The Accessibility Specialist will review, triage and prioritize the issues and apply the correct severity and labels.
         - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
         - label: Provide a link to each issue logged in this accessibility testing artifact's comments
