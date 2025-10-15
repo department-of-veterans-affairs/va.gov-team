@@ -103,7 +103,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Is the participant aware their bank account information needs to be in different systems within the VA - FMP is separate from VA Benefits?]
 > - [Does the participant pass over the alert with the mental model of they already have it set up?]
 
-## Second Task: [Direct Deposit Static Page] - 10 minutes
+## Second Task: [Direct Deposit Static Page] -5 minutes
 
 - [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
@@ -127,8 +127,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Now this is the page where you have submitted your FMP Claim online. Can you please explain to me your understanding of what happens next and any action you might need to take?
 - What is your confidence rating - 1 being very low and 5 being very high - that you have direct deposit correctly set up based on this prototype and this page here?
 
-
-
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant interact with the additional information component to learn more about direct deposit later in the flow?]
@@ -136,9 +134,21 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
+## Forth Task: [Content Comprehension and Mental Model] - 10 minutes
 
-# Post-Task Interview - 5 minutes
 - What are you expectations on how the direct deposit process for FMP claims works now that you have gone thorugh this prototype?
+- What would be one thing that you would change to make it better for you about the current direct deposit process as you understand it?
+- Can you describe to me your ideal experience with setting up and maintaining direct deposit for your Foreign Medical Program claims?
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant bring up any other systems or experiences that they say are exceptionally good or bad?]
+> - [Does the current mental model conflict or align with the current state?]
+
+
+
+
+# Post-Task Interview - 2 minutes
 - Do you have any additional feedback about the content we went over today?
 - Any questions for me? 
 
