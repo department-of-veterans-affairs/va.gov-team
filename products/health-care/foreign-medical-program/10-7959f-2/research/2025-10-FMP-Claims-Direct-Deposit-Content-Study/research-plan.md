@@ -1,63 +1,61 @@
 ---
+---
 # Research Plan Metadata
-title: "Research Plan for [Health Apps, FMP Claims Form 10-7959f-2, October 2025]"
-date: 2025-MM-DD
+title: "Research Plan for Health Apps, FMP Claims Form 10-7959f-2, October 2025"
+date: 2025-10-14
 last_updated: 2025-10-14
-team: "[Health Apps]"
-product: "[Foreign Medical Program - Claims]"
-product_area: "[authenticated]"
+team: "Health Apps UX Team"
+product: "Foreign Medical Program - Claims"
+product_area: "authenticated"
 
 # Background Context
 background:
-  problem_statement: "[Adding direct deposit content around Foreign Medical Program Claims that does not introduce confusion or misunderstanding from the Veteran about set up because it is a different process than for VA benefits.]"
-  product_location: "[Health care benefits hub]"
-  user_familiarity: "[New online form, testing new content additions]"
-  product_brief_url: "[[URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md)]"
+  problem_statement: "Adding direct deposit content around Foreign Medical Program Claims that does not introduce confusion or misunderstanding from the Veteran about set up because it is a different process than other VA benefits."
+  product_location: "Health care benefits hub"
+  user_familiarity: "New online form, testing new content additions"
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md"
 
 # Research Design
-methodology: "[semi-structured interviews]"
+methodology: "semi-structured interviews with a Figma prototype"
 research_format: 
   location: remote 
   moderated: true 
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.]"
-  - goal_2: "[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]"
-  - goal_3: "[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]"
+  - goal_1: "Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims."
+  - goal_2: "Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk."
+  - goal_3: "Gain insight into any improvements or recommendations to increase clarity of the direct deposit content for FMP claims."
 
 research_questions:
-  - "[How do Veterans react to the direct deposit informational alert on the introduction page]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
-
+  - "How do Veterans react to the direct deposit informational alert on the introduction page?"
+  - "Do Veterans most often click to the static page to 'learn how to setup' or do they stay in the form flow?"
+  - "Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?"
+  - "Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?"
+  - "Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?"
 
 hypotheses:
-  - "[Hypothesis 1]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
+  - "There will be some but minimal confusion about direct deposit being a separate process than what is used for VA Benefits."
+  - "Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being inconvenient."
 
-expected_outcomes: "[Better understand risks with content comprehension around direct deposit content and instructions within FMP claims.]"
+expected_outcomes: "Better understand risks with content comprehension around direct deposit content and instructions within FMP claims."
 
 # Recruitment & Participants
 recruitment:
   recruiting_partner: "Perigean"
-  approach: "[lean maximum variation]"
+  approach: "lean maximum variation"
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
+    - "Do you currently receive monthly disability compensation for a service connected condition? (Must answer yes to qualify)"
+    - "At least 2 participants who are female"
+    - "At least 2 participants who are 55 years or older"
     
   secondary_criteria:
-    - "[Nice-to-have criterion 1]"
-    - "[Nice-to-have criterion 2]"
+    - "No more than 2 participants per each race/demographics category"
     
   screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
+    - question: "Do you currently receive monthly disability compensation for a service connected condition?"
+      qualifying_response: "Yes"
       
 participants:
   veterans: 12
@@ -68,10 +66,10 @@ participants:
   
 # Timeline & Sessions
 timeline:
-  pilot_date: "YYYY-MM-DD"
-  pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
-  research_review_submission: "YYYY-MM-DD"
+  pilot_date: "TBD"
+  pilot_participant: "TBD"
+  research_dates: "TBD"
+  research_review_submission: "TBD"
   
 session_details:
   duration_minutes: 45-60
@@ -80,27 +78,31 @@ session_details:
   
 # Strategic Alignment
 octo_priorities:
-  - objective: "Objective 1"
+  - objective: "VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits."
     key_results: 
-      - "[Specific KR if applicable]"
-  - objective: "Objective 2"
+      - "Improve satisfaction with our web and mobile products by 5 points."
+      - "Reduce the total time Veterans spend waiting for a response by 50%, towards a goal of less than 4 seconds per transaction."
+      - "100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error."
+  - objective: "OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA."
     key_results:
-      - "[Specific KR if applicable]"
+      - "100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential."
       
 veteran_journey_phases:
-  - "[e.g., Taking Care of Myself]"
-  - "[e.g., Starting Up]"
+  - "Taking Care of Myself"
+  - "Reinventing Myself"
+  - "Putting Down Roots"
     
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "[Link to related past research]"
+    - "Link to related past research"
     
 tags:
-  - "[product-area]"
-  - "[methodology]"
-  - "[participant-type]"
-  - "[research-phase]"
+  - "product-area"
+  - "methodology"
+  - "participant-type"
+  - "research-phase"
+
 ---
 
 # Research Plan for [Health Apps, FMP Claims VA Form 10-7959f-2, October 2025]
