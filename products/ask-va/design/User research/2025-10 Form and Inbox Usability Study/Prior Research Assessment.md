@@ -1,18 +1,19 @@
 # **Desk Research Review**
 
-Background  
-Previous research summary   
-Overall Summary & Conclusion  
-Appendix
+[Background](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#background)  
+[Open questions summary   
+](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#remaining-questions-summary)
+[Overall Summary & Conclusion  
+](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#overall-summary--conclusion)
+[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md#appendix)
 
-- Previous research details  
-- Previous inbox mockups
+## **Background** 
 
-## **Background** Our team is getting up to speed on the research that has been previously completed. This document ties previous research findings to decisions and tickets that our team has in our current backlog. This page will highlight those connections to identify where we still have gaps to explore in the research.
+Our team is getting up to speed on the research that has been previously completed. This document ties previous research findings to decisions and tickets that our team has in our current backlog. This page will highlight those connections to identify where we still have gaps to explore in the research.
 
-## **Remaining questions summary**
+## **Open questions summary**
 
-| Research study | Finding | Remaining Questions |
+| Research study | Finding | Open Questions |
 | :---- | :---- | :---- |
 | [**September 2023 \- Dashboard Workshop**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2023-09%20Dashboard%20workshop) (Separation of personal and business accounts is needed, and while prototypes included separate tabs, it’s unclear if this persisted; post-launch feedback shows Business users face challenges, but self-reported data doesn’t fully capture their experience.) | SCOs feel strongly that business and personal inquiries should not be mixed at all. Unfortunately, current credentialing makes it impossible to separate these completely, unless you sign in with a different account for each function. | What research based design decisions led the team to move away from separation between business and personal inquiries? See image below.  |
 |  | Emails help an SCO know when a status has changed, and triggers them to sign in and look at their dashboard.  | Why do business users need to find previous inquiries? What are they doing with them? |
@@ -27,13 +28,7 @@ Appendix
 |  | Reviewing responses and submissions is challenging for Veterans and business submitters | What exactly is the challenge here?  How might we simplify how Veterans and business submitters review responses and submissions? How does Ask VA fit into a business user’s process?  |
 |  | Submitting documentation through the form for business line processes, varies, causing confusion and incorrect submission.  | How might we simplify how users submit documentation so they know exactly what’s required and where to send it? |
 
-### 
-
-### ---
-
-### 
-
-**Overall Summary & Conclusion**
+## **Overall Summary & Conclusion**
 
 After reviewing the research these are our key findings:
 
@@ -43,9 +38,7 @@ After reviewing the research these are our key findings:
 
 ---
 
-### 
-
-### **Appendix**
+## **Appendix**
 
 ### Previous research details
 
