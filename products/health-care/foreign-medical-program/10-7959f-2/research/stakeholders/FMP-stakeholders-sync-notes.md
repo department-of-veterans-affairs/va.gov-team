@@ -1,6 +1,32 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## **10/15/2025**
+
+**Notes**
+
+- Renata presents the Duty to Assist issue for the Enhanced Claim. The beneficiary can request assistance to process the claim. Rachel Dolnick (DTA team) confirms it is 99% correct. The sendback letter is routed to DTA first, then back to OHI. 
+- DTA wants to move away from telephonic, so the call center number does not go to DTA. 
+- Renata asks if the checkbox DTA is preferred. 
+  - Rachel notes that the ability to request, in some sort of form, that goes to DTA would be helpful. It could look similar to a Sendback letter with the user’s information for DTA. 
+  - Or if there is some “fillable matrix”, something that would help them understand the component of the claim DTA is already doing, but wants the user to be proactive.
+  - One stakeholder (multiple stakeholders with Rachel) notes that Duty-To-Assist exists at every stage of any Claim, and the team scope is technically narrow. 
+- Renata asks what 180 days mean.
+  - The stakeholder notes that it is from the day of eligibility/qualifying date to 180 days after.  
+  - People do submit shoebox claims with tons of collected information.
+  - For the team, it is trying to confirm all of the data points.
+- Renata asks what the minimum needs are for DTA to process. 
+  - Rachel notes that it is hard to answer, but DTA makes a reasonable effort based on whatever information they’re given. 
+- Renata wants to confirm the fax number of the claim. Angela Pinon noted that Brian stated that those numbers are correct. Rachel notes that they do have a fax, but are hesitant to since they prefer the information going into PEGA. Team will hold for fax numbers and revisit for the fax stakeholder returns from PTO. 
+- Andrea goes over the CHAMPVA claim resubmission and, new upload page.
+  - Angela Pino asks if both the PDI and the Control number are required. Andrea clarifies that it is one or the other.
+  - Elizabeth S. wonders if we need to ask a make it clear on one or the other.
+  - Amanda K. noted that this went through user testing and through the content review. Renata confirms the user did not have an issue with the number.
+  - Vana Summers. notes that there are sendback letters without a claim number (because it was never processed).   - Vana suggested changing the header to include the “PDI” number. Andrea suggests dropping the “claim” from “Beneficiary’s claim identification number”.
+- Vana notes that 1 of 3 submitted claims were sent back due to the lack of information. Andrea goes through the “supporting documents” explanation that would help the beneficiary. 
+- Vana noted that the superbill information that was received in the last several months has been helpful. Andrea noted that it may have resulted from the team updating the content to expand what information we are looking for.
+
+
 ## **10/08/2025**
 
 Attendees: Andrea Merrill, Andrea Bingham, Cindy Carr, Eileen Cook, David Derouen, Leticia Diaz, Dawn Henry, Hieu Vo, Jessica Stump, Amanda Klausmeier, Steven Mason, Richard McKeithan, Mike Mooney, Angela Pinon, Renata Keck, Arleen Schoentag, Premal Shah, Andrew Szymczak, Marylin Whitelock, Dirk Rasnic, Alyss Li
