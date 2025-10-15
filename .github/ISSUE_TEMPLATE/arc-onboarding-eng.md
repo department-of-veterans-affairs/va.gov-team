@@ -8,9 +8,10 @@ type: Task
 
 ---
 
+### Engineering Onboarding to VA
+
 To be completed after the General Onboarding to VA tasks, which all ARC teammates will need to go through.
 
-### Engineering Onboarding to VA
 - [ ] Review [VA.gov](http://va.gov) [Platform Infrastructure ](https://depo-platform-documentation.scrollhelp.site/developer-docs/infrastructure)Guidelines
 
 - [ ] Review Engineering READMEs
