@@ -13,30 +13,63 @@ body:
   attributes:
     value: |      
       > [!TIP]
-      > Title: [a11y-defect-SEVERITY]: MHV:[Product > MedRecs | Meds | SecMess | SS]: [Brief Issue description]
-
-- type: checkboxes
-  id: tasks
-  attributes:
-    label:  ✅ Possible tasks
-    options:
-      - label: Review, refine and acknowledge feedback.
-      - label: Update ticket information (title, assignee, labels, project(s), etc.)
-      - label: Fix and/or document decisions made.
-      - label: Product manager to move ticket in their respective product board to 'QA/A11y Review' after reviewing documented decisions / validating fix.
-      - label: Accessibility specialist will close ticket after reviewing documented decisions / validating fix.
+      > Title format: [a11y-defect-SEVERITY]: MHV:[Product > MedRecs | Meds | SecMess | SS]: [Brief Issue description]
 
 - type: markdown
   attributes:
     value: |
-      ---
+      ## Issue Description
+    
+- type: textarea
+  id: details
+  attributes:
+    label: 📝 User story
+    description: "Define the user story. Don't forget the 'SO THAT' statement."
+    placeholder: |
+      As a [user role], 
+      I want to [action]       
+      so that [I can achieve my goal]
+      ...
+    
+- type: textarea
+  id: problem
+  attributes:
+    label: 📝 Problem statement
+    description: "Illustrate how the defect affects users. If you have a screenshot or video, add those here and/or to the attachments field after the ticket is created."
+    placeholder: |
+      [Instead of the desired action, this happens...]
+      ...
+
+- type: textarea
+  id: evidence
+  attributes:
+    label: 🌌 Supporting screenshots or videos
+    description: "Attach any supporting material. An annotated picture is worth a 1,000 meetings."
+    placeholder: |
+      [Add screenshot or video here]
+      ...
+
+- type: textarea
+  id: repro
+  attributes:
+    label:  👣 Reproduction steps
+    description: "How do you trigger this issue? Please walk us through it step by step. Include test user and any relevant device, browser, and assistive technology."
+    placeholder: |
+      1. Using [browser] with [assistive technology] as [test user],
+      2. Navigate to... this page
+      3. Navigate to...
+      4. Use component...
+      5. Notice issue...  
+      ...
+  validations:
+    required: true
 
 - type: input
   id: contact
   attributes:
     label: 🔗 Point of contact
     description: The person who wrote or is responsible for this ticket. Usually an a11y specialist.
-    placeholder: "Name (GitHub ID) - steveg-IAT | sarahhortonadhoc"
+    placeholder: "Name (GitHub ID) - Sarah Horton (@sarahhortonadhoc) | Steven Gallagher (@steveg-IAT)"
   validations:
     required: true
 
@@ -52,116 +85,66 @@ body:
       - 3, Moderate. Should be fixed in 1-3 sprints post-launch.
       - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
 
+- type: textarea
+  id: references
+  attributes:
+    label: 🔎 Relevant standards
+    description: "Provide any relevant documentation, VADS component, or other evidence as to why this is an issue or how to fix it. Don't forget to add a corresponding label(s) to this ticket once it's created. (wcag-1.1.1, 508-issue-cognition, etc)."
+    placeholder: |
+      #### Accessibility Standards
+      1. [Understanding WCAG 2.2 (W3C)](https://www.w3.org/WAI/WCAG22/Understanding/)
+      2.
+      #### Experience Standards
+      1. [VA Design System Experience Standards](https://design.va.gov/about/experience-standards/)
+      2.
+      ...
+
 - type: markdown
   attributes:
     value: |
       ---
-    
-- type: textarea
-  id: details
-  attributes:
-    label: 📝 User story or problem statement
-    description: "Illustrate how the defect affects users. If you have a screenshot or video, add those here and/or to the attachements field after the ticket is created."
-    value: |
-      As a [user role], 
-      I am trying to [action]       
-      so that [goal],
-      but [what is happening]
-      ...
 
-- type: textarea
-  id: repro
+- type: markdown
   attributes:
-    label:  👣 Reproduction steps
-    description: "How do you trigger this issue? Please walk us through it step by step. Include test user and any relevant device, browser, and assistive technology."
     value: |
-      1.
-      2.
-      3.
-      ...
-  validations:
-    required: true
-
-- type: textarea
-  id: evidence
-  attributes:
-    label: 🌌 Supporting screenshots or videos
-    description: "Attach any supporting material. An annotated picture is worth a 1,000 meetings."
-    value: |
-      ...
+      ## Recommended Actions
 
 - type: textarea
   id: solution
   attributes:
     label: 𝌣 Proposed solution or next steps
     description: "If there is an easy HTML, CSS, or JavaScript markup fix, add it after creating this ticket. If it is a longer fix or you do not have a ready solution, provide next steps."
-    value: |
+    placeholder: |
+      [Do this action to bring the issue into compliance.]
       ...
-
-- type: textarea
-  id: references
-  attributes:
-    label: 🔎 References, articles, or WCAG supporting documentation
-    description: "Provide any relevant documentation, VADS component, or other evidence as to why this is an issue or how to fix it. Don't forget to add a corresponding label(s) to this ticket once it's created. (wcag-1.1.1, 508-issue-cognition, etc)."
-    value: |
-      1.
-      2.
-      3.
-      ...
-
-- type: checkboxes
-  id: type
-  attributes:
-    label:  ✅ Type of issue
-    description: "You may select more than one. Don't forget to add a corresponding label(s) to this ticket once it's created. (wcag-1.1.1, 508-issue-cognition, etc).."
-    options:
-      - label: Axe-core | Lighthouse | WAVE
-      - label: Perceivable
-      - label: Operable
-      - label: Understandable
-      - label: Robust
-      - label: Screenreader | assistive tech & device support
-      - label: Keyboard
-      - label: Voice command
-      - label: Zoom
-      - label: Color, typography, & visual elements
-      - label: Components and pattern standards
-      - label: Content organization
-      - label: Focus
-      - label: Headings
-      - label: Form
-      - label: Link and button labels
-      - label: Semantic HTML
-      - label: Markup and metadata
-      - label: Non-text content and media
-      - label: Overall user experience
-      - label: Cognitive | confusing flow or content
-      - label: Something else
-
-- type: markdown
-  attributes:
-    value: |
-      ---
       
-- type: checkboxes
+- type: textarea
   id: acceptance
   attributes:
     label:  ✅ Acceptance criteria
-    options:
-      - label: TBD
+    description: "What will success look like?"
+    placeholder: |
+      - The system displays...
+      - The system provides...
+      - The user can...
 
-- type: markdown
+- type: checkboxes
+  id: tasks
   attributes:
-    value: |
-      ---
+    label: ✅ Possible tasks
+    options:
+      - label: Review, refine, and acknowledge feedback.
+      - label: Update ticket information (title, assignee, labels, project(s), etc.)
+      - label: Fix and/or document decisions made.
+      - label: Product manager to move ticket in their respective product board to 'QA/A11y Review' after reviewing documented decisions / validating fix.
+      - label: Accessibility specialist will close the ticket after reviewing documented decisions / validating the fix.    
     
 - type: markdown
   attributes:
-    value: "### 🔎 General Reference Materials:"
-    
-- type: markdown
-  attributes:
     value: |
+      > [!NOTE]
+      > **QUICK SUMMARY:** _Helpful links to documentation_
+      ### 🔎 Supporting resources:
       - USWDS Docs: [USWDS Documentation](https://designsystem.digital.gov/)
       - VADS Docs: [VADS Experience Standards](https://design.va.gov/components/)
       - VADS Docs: [VADS Components Documentation](https://design.va.gov/components/)
