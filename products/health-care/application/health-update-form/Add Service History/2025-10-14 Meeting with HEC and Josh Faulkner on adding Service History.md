@@ -44,7 +44,7 @@
     * Displaying all service periods could be tricky, data formatting could be a challenge
     * Recent may not be the most relevant
     * Service period qualifies for Title 38?
-        * No discharge papers would be needed if the service peri
+        * No discharge papers would be needed
         * 2 yrs combined with honorable
 * **Option 2**
     * Possible data extraction from DD214?
