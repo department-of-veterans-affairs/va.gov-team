@@ -79,7 +79,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 **"Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool.** 
 
-**What you are looking at now is the application instructins page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
+**What you are looking at now is the application instructions page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
 
 Probing questions:
 - What markers drew your attention there?
@@ -104,14 +104,14 @@ Probing questions:
 
 **"If you wanted to start using the tool, what would you do next?"**
 
-**"What is your first impression and how are you understanding the information you are looking at?"**
+**[Ask this for both parts of Step 1]:"What is your first impression and how are you understanding the information you are looking at?"**
 
 Probing questions:
 - Do you have any questions about the information presented here?
 - Are any of the terms used here familar to you? Are there any that are unfamiliar?
 - What is your confidence level in the information presented here?
 - Taking a look around, what [other] actions might you take on this step?
-- Is there any other information you are looking to see here, but didn't?
+- Is this information what you expected to see here? Is there any other information you are looking to see here, but didn't?
 
 **"What would you do next?"**
 
@@ -140,7 +140,7 @@ Probing questions (can be asked per question):
 
 <p>&nbsp;</p>
 
-## Task 3: Self Review Tool - Step 2 - Our Recommendation (5-7 minutes)
+## Task 3: Self Review Tool - Step 3 - Our Recommendation (5-7 minutes)
 
 **"What is your first impression? How are you understanding the recommendation given?"**
 
@@ -151,23 +151,24 @@ Probing questions:
 - (When applicable) How are you understanding the PGIB benefits in this recommendation (hinting at the details provided e.g. MHA, Tuition & Fees, etc)?
 - What was the most helpful or important information here in helped you understand the recommendation?
 - Was there anything you found confusing about the recommendation? What made it confusing?
+- Is anything missing that you expected to see?
 
 #### Things to watch for:
 > - Where does the user look first on the recommendation? </br>
 > - Where is the user spending the most time?
 > - Does the user have questions about this process? </br>
-> - (If segmented layout) Does the user notice the "Your Benefits" section? Do they look to it to compare?
+> - (If segmented layout) Does the user notice the "PGIB only" section? Do they look to it to compare?
 <p>&nbsp;</p>
 
-## Task 4: Self Review Tool - Step 2 - Your current benefits (5-7 minutes)
+## Task 4: Self Review Tool - Step 3 - Locate alternate option (5-7 minutes)
 
-**"What is your first impression and how are you understanding the "Your current benefits" information here?"**
+**"Let'sWhat is your first impression and how are you understanding the "alternate option benefits" information here?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
-- How are you understanding the information under 'Your current benefits'?
+- How are you understanding the information under 'PGIB only'?
 - Is there any terminology that is familiar or unfamiliar to you?
-- What was the most helpful or important information here that helped you understand your current benefits?
+- What was the most helpful or important information here that helped you understand these benefits?
 - How are you interpreting the term 'Qualifying service'?
 - Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
 - What other information, if any, are you looking to find?
@@ -179,9 +180,27 @@ Probing questions:
 <p>&nbsp;</p>
 
 
-## Task 5: Self Review Tool - Step 3 Confirm election (5 minutes)
+## Task 5: Self Review Tool - Step 3 Select option (1-2 minutes)
 
-**"Let's say you are ready to move forward with this recommendation, what would do next?"**
+**"Let's say you are ready to move forward, what would you do next?"**
+
+Probing questions: 
+- What is your confidence level in selecting an option?
+- Was there anything in particular that helped you select an option?
+- Is there anything in particular that is confusing?
+- Is there other information you are looking to find here?
+
+#### Things to watch for:
+> - Does the user not trust the recommendation and opt for the alternate option?
+> - Where are users looking/what are they doing if they need help?
+> - Does the user have all the information they need to make a selection?
+> - How confident is the user?
+
+<p>&nbsp;</p>
+
+## Task 6: Self Review Tool - Step 4 Review (5 minutes)
+
+**"Let's say you are ready to move forward, what would do next?"**
 
 Probing questions:
 - What did you notice first on this step?
