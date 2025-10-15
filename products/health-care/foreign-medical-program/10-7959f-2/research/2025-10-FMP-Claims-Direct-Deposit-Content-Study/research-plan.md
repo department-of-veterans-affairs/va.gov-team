@@ -161,14 +161,16 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1. **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**`
+`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**
 
-`2. **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**`
+`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
 
-`3. **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]**`
+`3.` **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]**
   
 ### Outcome
+
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+
 ---
 
 **Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.** 
