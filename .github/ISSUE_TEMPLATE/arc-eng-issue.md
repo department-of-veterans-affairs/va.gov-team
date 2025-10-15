@@ -11,8 +11,12 @@ type: Task
 ## Background
 _What background/context has led to this work?  What problem are we trying to solve?_
 
+#### Implementation Details
+1. 
+
 ## Acceptance Criteria
-- [ ] _What will be created or happen as a result of this?_
+_What will be created or happen as a result of this?_
+- [ ] 
 
 ---
 #### How to configure this issue
