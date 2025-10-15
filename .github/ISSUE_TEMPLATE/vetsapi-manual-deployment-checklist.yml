@@ -40,3 +40,63 @@ body: |
         - label: Check [vets-api-staging](<https://argocd.vfs.va.gov/applications/vets-api-staging?operation=false&resource=>) deployment (no issues)
         - label: Verify deploy status matches latest vets-api commit for **dev** on the [Deploy Status Dashboard](<https://www.va.gov/atlas/apps/vets-api/deploy_status>)
         - label: Verify deploy status matches latest vets-api commit for **staging** on the [Deploy Status Dashboard](<https://www.va.gov/atlas/apps/vets-api/deploy_status>)
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Sync Prod and Sandbox
+        Reference image for PRUNE + AUTO-CREATE NAMESPACE configuration:
+        ![ArgoCD Sync Config example](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/assets/images/vetsapi-manual-deployment-prune1.png)
+
+  - type: checkboxes
+    id: sync-prod
+    attributes:
+      label: Prod Sync - Please sync Sandbox when deploying production
+      options:
+        - label: Navigate to [vets-api-prod ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-prod?operation=false&resource=>)
+        - label: Click Sync
+        - label: Confirm PRUNE and AUTO-CREATE NAMESPACE are checked (see ArgoCD Sync Config example image above)
+        - label: Click Synchronize
+        - label: Verify that the sync completed successfully
+        - label: Monitor the [Vets API External Service Outages and Error Trends dashboard (PROD ONLY)](<https://vagov.ddog-gov.com/dashboard/jq8-w55-zzp?fullscreen_end_ts=1707142527565&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=edit&fullscreen_start_ts=1706537727565&fullscreen_widget=2865712703243086&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&view=spans&from_ts=1706537486437&to_ts=1707142286437&live=true>)
+        - label: Proceed to Sandbox Sync
+
+  - type: checkboxes
+    id: sync-sandbox
+    attributes:
+      label: Sandbox Sync
+      options:
+        - label: Navigate to [vets-api-sandbox ArgoCD](<https://argocd.vfs.va.gov/applications/vets-api-sandbox?operation=false&resource=>)
+        - label: Click Sync
+        - label: Confirm PRUNE and AUTO-CREATE NAMESPACE are checked (see ArgoCD Sync Config example image above)
+        - label: Click Synchronize
+        - label: Verify that the sync completed successfully
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Add any issues, errors, or additional observations during the process (e.g., sync failures, unexpected errors).
+
+  - type: checkboxes
+    id: post-deployment-verification
+    attributes:
+      label: Post-Deployment Verification
+      options:
+        - label: Announce deployment completion in the appropriate Slack channel
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Rollback Instructions
+        Follow this checklist if there are issues during or after the Prod deployment
+
+  - type: checkboxes
+    id: rollback-instructions
+    attributes:
+      label: Vets-API Rollback Instructions
+      options:
+        - label: Create a pull request in [vsp-infra-application-manifests](<https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests>) that reverts the problematic changes
+        - label: Get approval and merge the revert pull request
+        - label: Proceed to Prod Sync
+        - label: Proceed to Sandbox Sync
