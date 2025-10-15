@@ -15,7 +15,7 @@ The Authenticated Experience Team has two main products: My VA and VA.gov Profil
 We also have two smaller products, Nametag and the Authenticated Menu.
 
 ### Who we are not: 
-- We’re not VA Profile, which is a backend system that manages profile information, but is a different team. 
+- We’re not the VA Profile API team, which is a backend system that manages profile information, but is a different team. 
 - We’re not My HealtheVet as our products support many different benefits, not exclusively healthcare. 
 
 
