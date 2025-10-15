@@ -10,7 +10,7 @@ product_area: "[authenticated]"
 # Background Context
 background:
   problem_statement: "[Adding direct deposit content around Foreign Medical Program Claims that does not introduce confusion or misunderstanding from the Veteran about set up because it is a different process than for VA benefits.]"
-  product_location: "[Where is this situated on VA.gov?]"
+  product_location: "[Health care benefits hub]"
   user_familiarity: "[New online form, testing new content additions]"
   product_brief_url: "[[URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md)]"
 
@@ -38,12 +38,12 @@ hypotheses:
   - "[Hypothesis 2]"
   - "[Hypothesis 3]"
 
-expected_outcomes: "[How will findings advance the product?]"
+expected_outcomes: "[Better understand risks with content comprehension around direct deposit content and instructions within FMP claims.]"
 
 # Recruitment & Participants
 recruitment:
   recruiting_partner: "Perigean"
-  approach: "[e.g., lean maximum variation]"
+  approach: "[lean maximum variation]"
   
   primary_criteria:
     - "[Must-have criterion 1]"
@@ -59,11 +59,11 @@ recruitment:
       qualifying_response: "[Expected answer]"
       
 participants:
-  veterans: 0
+  veterans: 12
   caregivers: 0
   dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  total_recruited: 12
+  completed_sessions_goal:8
   
 # Timeline & Sessions
 timeline:
@@ -73,9 +73,9 @@ timeline:
   research_review_submission: "YYYY-MM-DD"
   
 session_details:
-  duration_minutes: 60
-  buffer_minutes: 30
-  max_sessions_per_day: 0
+  duration_minutes: 45-60
+  buffer_minutes: 45
+  max_sessions_per_day: 3
   
 # Strategic Alignment
 octo_priorities:
@@ -251,9 +251,6 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
 ### Recruitment criteria
 
