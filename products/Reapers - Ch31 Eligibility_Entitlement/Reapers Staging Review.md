@@ -19,6 +19,7 @@ This page houses the links to all files needed for Reapers Staging Review.
 ### Drupal or Staging URL for updated primary entry point
 - All information provided by content and IA team can be found here - [VR.E.Eligibility.Checker_2025-10-09_16-13-54 (1).pdf](https://github.com/user-attachments/files/22850329/VR.E.Eligibility.Checker_2025-10-09_16-13-54.1.pdf)
 - Ticket from IA/Content - https://github.com/department-of-veterans-affairs/va.gov-team/issues/120296#issuecomment-3381874541
+- Drupal entry point - http://preview-prod.vfs.va.gov/preview?nodeId=726
 
 ### Test users and scenarios
 - Testing information - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/Reapers-VRE%20CH31%20Eligibility-Entitlement-TestUsers.md
