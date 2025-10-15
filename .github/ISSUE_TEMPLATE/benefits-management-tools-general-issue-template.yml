@@ -252,7 +252,7 @@ body:
 
         **Feature Labels**
         Use labels to identify which product area the issue belongs to:
-        - `claims-status-tool`
+        - `doc-status`
         - `evidence-requests`
         - `intent-to-file`
         - Or other feature-specific labels as appropriate
