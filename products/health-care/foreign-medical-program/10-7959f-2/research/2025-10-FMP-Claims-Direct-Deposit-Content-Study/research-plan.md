@@ -22,7 +22,7 @@ research_format:
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]"
+  - goal_1: "[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.]"
   - goal_2: "[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]"
   - goal_3: "[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]"
 
