@@ -18,7 +18,7 @@ background:
 methodology: "[semi-structured interviews]"
 research_format: 
   location: remote 
-  moderated: true # Options: true, false
+  moderated: true 
   
 # Research Goals & Questions
 research_goals:
@@ -161,53 +161,38 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**
+`1. **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**`
 
-`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
+`2. **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**`
 
-`3.` **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]** 
+`3. **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]**`
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+---
+
+**Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.** 
 
 ---
 
-**[Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.]** 
-
----
-
-### Research questions
-
-***Consider bucketing research questions under research goals and think about:***
-	
+### Research questions	
 `What will I do with what I learn from this question?`
-  
 `Does this question serve the goals of my study?`
 
-**`1.`[How do Veterans react to the direct deposit informational alert on the introduction page?]**
+**`1. [How do Veterans react to the direct deposit informational alert on the introduction page?]**`
 
-**`2.`[Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?]**
+**`2. [Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?]**`
 
-**`3.`[Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]**
+**`3. [Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]**`
 
-**`4.`[Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?]**
+**`4. [Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?]**`
 
-**`5.`[Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?]**
+**`5. [Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?]**`
 
 
 
 ### Hypotheses
  
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
 ---
 
 **[Enter hypotheses here:]** 
@@ -219,11 +204,6 @@ Are there moments that matter?</summary>
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-
-</details>
 
 **[Semi-structured interviews with a Figma prototype]**
 
