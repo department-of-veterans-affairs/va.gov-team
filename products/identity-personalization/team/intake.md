@@ -9,7 +9,7 @@ Before you submit an intake ticket, we want to make sure you’re in the right p
 
 ### Who we are:
 The Authenticated Experience Team has two main products: My VA and VA.gov Profile.
-- Profile is the frontend used to allow users to update important information.
+- VA.gov Profile is the frontend used to allow users to view and update important information.
 - My VA is a dashboard that seeks to surface relevant, actionable, time sensitive information to users about different VA benefits. 
 
 We also have two smaller products, Nametag and the Authenticated Menu.
