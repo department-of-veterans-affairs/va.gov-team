@@ -63,7 +63,7 @@ participants:
   caregivers: 0
   dependents: 0
   total_recruited: 12
-  completed_sessions_goal:8
+  completed_sessions_goal: 8
   
 # Timeline & Sessions
 timeline:
