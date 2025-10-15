@@ -343,46 +343,20 @@ Response:
   }
 }
 ```
-### * GET `/vaos/v2/appointments` (existing)
-* NOTE: Will include eps appointments unless a vaos appointment for a given referral is already returned in the collection.
-
-### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* NOTE: this existing endpoint will be utilized for retrieving appointment details for an eps appointment through the use of a parameter flag
+### * GET `/vaos/v2/appointments?_include=facilities,clinics,eps` (existing)
+* NOTE: Will include eps in the includes parameter to tell vets-api to fetch eps appointments.
 
 Request:
 ```
-GET /vaos/v2/appointments/{id}?_include=eps
-```
 
+```
 Response:
-
-```
-{
-  "data": {
-    "id": "string",
-    "type": "appointments",
-    "attributes": {
-      "id": "string",
-      "status": "string", // "booked" or "proposed"
-      "patientIcn": "string",
-      "created": "ISO8601 datetime",
-      "locationId": "string", // Optional
-      "clinic": "string", // Optional
-      "start": "ISO8601 datetime", // Optional
-      "contact": "string", // Optional
-      "referralId": "string", // Optional
-      "referral": { // Optional
-        "referralNumber": "string"
-      },
-      "providerServiceId": "string", // Optional
-      "providerName": "string" // Optional
-    }
-  }
-}
 ```
 
-### * GET `/vaos/v2/eps_appointments/{appointmentId}` (new)
-* NOTE: this endpoint will not be utilized for eps appointment details retrieval for referral appointment creation workflow but will instead use `/vaos/v2/appointments/{appointmentId}` as seen directly above
+```
+
+### * GET `/vaos/v2/eps_appointments/{appointmentId}`
+
 ```
 {
   "data": {
