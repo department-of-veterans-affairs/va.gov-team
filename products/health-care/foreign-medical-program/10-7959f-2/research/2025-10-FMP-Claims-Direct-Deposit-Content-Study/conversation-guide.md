@@ -42,12 +42,12 @@ description: "A template for moderating research sessions including logistics, i
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about direct deposit for claims related to the Foreign Medical Program.
+Today we're going to talk about content around direct deposit for Foreign Medical Program Claims.
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
@@ -95,45 +95,55 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. Have you ever heard of the Foreign Medical Program through the VA before and if so, can you describe what it is in your own words?
+2. Have you ever heard of the Foreign Medical Program through the VA before?
+  - If so, can you describe what it is in your own words?
+  - Have you ever filed a reimbursement claim before?
   
 
 ## First Task: [Introduction Page] - 10 minutes
 
-- [ ] Open mobile Figma prototype - link to go here
-- [ ] I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
-- [ ] Open the prototype take a minute to look it over and please remember to think aloud.
-- [ ] What would you do next if you were filing an FMP claim today?
+- [ ] Open mobile Figma prototype - link to go here when ready
+- I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
+- Open the prototype take a minute to look it over and please remember to think aloud.
+- What would you do next if you were filing your first FMP claim today?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant mention anything about the direct deposit informational alert?]
+> - [Does the participant mention anything about the direct deposit informational alert on the intro page?]
 > - [Does the participant notice the link of how to setup direct deposit or do they call out the phone number to call?]
 > - [Is the participant aware their bank account information needs to be in different systems within the VA - FMP is separate from VA Benefits?]
-> - [Etc]
+> - [Does the participant pass over the alert with the mental model of they already have it set up?]
 
 ## Second Task: [Direct Deposit Static Page] - 10 minutes
 
 - [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
-- [ ] Now take a minute to look over this page explaining direct deposit.
-- [ ] What are your impression of this page and your understanding of the content here?
+- Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
+- What are your impression of this page and your understanding of the content here? Please remember to think aloud.
 - [ ] On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the intructions on this page?
+- Would you call out anything on this page as being either especially helpful for you or confusing too?
+- 
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant understand that the process to setup their account for FMP claims is separate from VA benefits?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - [Does the participant call out this separate process and really difficult or just a one-time thing they have to do during setup?]
+> - [Does the process stepper componennt and contnet help or add clarity to the process?]
+> - [
 
 ## Third Task: [FMP Form Flow and Confirmation Page] - 10 minutes
 
-- [ ] Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page.
-- [ ] Step 2
+- [ ] Might have to redirect to prototype link here
+- Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page. We would like you to focus your feedback on the content and information on the page so we can work to make that better for Veterans.
+- [ ] Participant arrives at Confirmation Page
+- Now this is the page where you have submitted your FMP Claim online. Can you please explain to me your understanding of what happens next and any action you might need to take?
+- What is your confidence rating - 1 being very low and 5 being very high - that you have direct deposit correctly set up based on this prototype and this page here?
+
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant interact with the additional informaiton component to learn more about direct deposit later in the flow?]
-> - [Does the participant notice xyz?]
+> - [Does the participant interact with the additional information component to learn more about direct deposit later in the flow?]
+> - [Does the participant notice the direct deposit information on the confirmation page and call it out as being redundant or helpful?]
 > - [Etc]
 
 
@@ -142,8 +152,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 # Post-Task Interview - 5 minutes
 
-- Question 1
-- Question 2
+- Do you have any additional feedback about the content we went over today?
 - Any questions for me? 
 
 ## Consent to use video clips
