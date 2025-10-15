@@ -83,7 +83,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Par
 </details>
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/research/2025-08-Dual-Benefit-Eligibility-Tool/conversation-guide-WIP.md)
-- [Figma Dual Benefit Prototype](https://figma-gov.com/design/0Lxps8m1m0kfauhslHYXz9/Dual-Benefit-Eligibility-Tool?node-id=724-35931&t=2OLvVjpz90t0kDp3-1)
+- [Figma Dual Benefit Prototype](https://figma-gov.com/design/0Lxps8m1m0kfauhslHYXz9/Dual-Benefit-Eligibility-Tool?node-id=902-17804&t=W7Z6PkvkjYQvw4Tj-1)
 >- Our figma instance has limited guest access, in order to access this prototype live please reach out to Alexander Ferzola (alexander.ferzola@afs.com) for guest provisioning.
 
 ### Recruitment approach
@@ -124,6 +124,8 @@ Our recruiting goal is to have Veterans or active-duty Service members who have 
 
 ### Preparation
 Our prototypes are ready for testing. Because we are still in a generative phase, we have only completed the Design Intent checkpoint.
+Pilot participant email: TBD
+Date and time of pilot session: TBD (Oct 17 or Oct 18)
 
 ### Research sessions
 - `Planned dates of research:` **10/22-10/30**
