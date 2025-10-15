@@ -279,7 +279,7 @@ Provide a link to any materials you need to run your study, including any materi
 **For unmoderated testing & focus group:**
 - [Link to survey](https://docs.google.com/forms/d/1WxwFTuKoo1xqiVTMmrRkvAPCeGJLCryMMQXoFgcqW_w/edit)
 - [Link to email with instructions](url goes here)
-- [Link to prototype]([url goes here](https://dev.va.gov/contact-us/virtual-agent/))
+- [Link to prototype](https://dev.va.gov/contact-us/virtual-agent/)
 - [Link to conversation guide](url goes here)
 
 
