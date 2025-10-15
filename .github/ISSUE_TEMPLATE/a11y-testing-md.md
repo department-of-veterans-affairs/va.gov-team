@@ -1,6 +1,7 @@
 ---
 name: A11y Testing Artifact
 title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
+about: Accessibility testing artifact for Staging Reviews 
 labels: a11y-testing
 assignees: 'jasonday'
 ---
