@@ -27,21 +27,31 @@ Reinventing Myself - Aquiring the appropriate education, new skills, and credent
 
 ## Research Goals	
 - Gather more insight into GI Bill beneficiares understanding of benefit language and what terminology would be most beneficial to see
-- Determine if the organization of information and layout in the flow, primarly in the allocation step, is intuitive and easy for users
+- Determine if the organization of information and layout in the flow, primarly in the recommendation step, is intuitive and easy for users
 - Assess users' trust and confidence using the tool and in making decisions related to their education benefits
+- Assess users' help-seeking behavior within the flow and understand what actions they take
   
 ### Outcome
 User research will inform improvements needed and validate interactions in the flow, information displayed, and allocation method that will best help users easily understand and make decisions in regards to changing or updating their education benefit(s).
 
 ### Research questions
 1. Do users understand the information presented about them first in the flow? Does it build their trust? </br>
-2. How familiar are users with the benefit language and terminology used with the tool? What other language are beneficiaries familiar with?
-3. Is the heirarchy of information and layout clear for users? Does it help them understand our recommendation and their current benefit level? 
-4. Do users trust the recommendation? If not, are users able to create their own allocation with both ease and confidence? </br>
-5. Is the impact to their benefits clearly outlined and easily understood by users? </br>
+2. What specific terminology causes confusion and what alternatives resonate better?
+3. How familiar are users with the benefit language and terminology used with the tool? What other language are beneficiaries familiar with?
+4. Is the hierarchy of information and layout clear for users? Does it help them understand our recommendation and the alternative option?
+5. How do users verify the accuracy of calculations shown?
+6. What information is missing that would help users make decisions?
+7. Do users trust the recommendation? If not, how do users feel about the alternative distribution option? </br>
+8. Is the impact to their benefits clearly outlined and easily understood by users? </br>
+9. At what point in the flow do users feel confident enough to proceed vs. wanting to exit for help?
+
+
 
 ### Hypotheses
-The impact of Rudisill has left many GI Bill beneficiaries confused on what actions they can take to better utilize their education benefits. We hypothesize that by using this tool, users will have a better understanding of how Rudisill impacts their benefits by translating their qualifying service to real outcomes. We hypothesize that presenting users with clear information about their benefit level, benefit type, entitlement, along with other important information will build their trust in the recommendation. We assume there will be some confusion on the benefit language used and within the allocation step as those are either new interactions or have varied understandings within the GI Bill beneficiary user group.
+The impact of Rudisill has left many GI Bill beneficiaries confused on what actions they can take to better utilize their education benefits. 
+- We hypothesize that by using this tool, users will have a better understanding of how Rudisill impacts their benefits by translating their qualifying service to real outcomes. Users will successfully identify their recommended allocation in under 5 minutes.
+- We hypothesize that presenting users with clear information about their benefit level, benefit type, entitlement, along with other important information will build their trust in the recommendation. 70% of users will express trust in the tool's calcuations.
+- We assume there will be some confusion on the benefit language used and within the allocation step as those are either new interactions or have varied understandings within the GI Bill beneficiary user group.
 
 <p>&nbsp;</p>
 
@@ -73,7 +83,7 @@ We will engage in moderated usability testing conducted remotely using Zoom. Par
 </details>
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/research/2025-08-Dual-Benefit-Eligibility-Tool/conversation-guide-WIP.md)
-- [Figma Dual Benefit Prototype](https://figma-gov.com/design/0Lxps8m1m0kfauhslHYXz9/Dual-Benefit-Eligibility-Tool?node-id=724-35931&t=2OLvVjpz90t0kDp3-1)
+- [Figma Dual Benefit Prototype](https://figma-gov.com/design/0Lxps8m1m0kfauhslHYXz9/Dual-Benefit-Eligibility-Tool?node-id=902-17804&t=W7Z6PkvkjYQvw4Tj-1)
 >- Our figma instance has limited guest access, in order to access this prototype live please reach out to Alexander Ferzola (alexander.ferzola@afs.com) for guest provisioning.
 
 ### Recruitment approach
@@ -81,10 +91,7 @@ Our intended audience will be a blend of Veterans who do and do not have experie
 
 ### Recruitment criteria
 
-Our recruiting goal is to have 2 types of representatives:
-
-- Veterans or active-duty Service members who have experience (applied and/or used) GI Bill benefits (Category A)
-- Veterans or active-duty Service members who do not have experience with GI Bill benefits (Category B)
+Our recruiting goal is to have Veterans or active-duty Service members who have experience (applied and/or used) with GI Bill benefits, preferably Post 9/11 GI Bill benefits (likely Rudisill-impacted Veterans).
 
 **Please recruit for 10 fulfilled sessions (recruit for a total of 15 participants to account for no-show rate)** using the following criteria:
 
@@ -107,8 +114,9 @@ Our recruiting goal is to have 2 types of representatives:
 - The participants should know how to screenshare
 
 **Screening Questions**
-- Are you a self-entitled (to GI Bill benefits) Veteran? 
-- Have you applied for or used GI Bill benefits before? (IF YES, they are in Category A; IF NO, they are in Category B.)
+- Are you a Veteran entitled to GI BIll Benefits? (IF YES, ask next question; IF NO, disqualify)
+- Have you applied for or used GI Bill benefits before? (IF YES, ask next question; IF NO, disqualify)
+- Have you used Post 9/11 GI Bill benefits? (IF YES, they are in Category A; IF NO, disqualify)
 
 <p>&nbsp;</p>
 
@@ -116,26 +124,28 @@ Our recruiting goal is to have 2 types of representatives:
 
 ### Preparation
 Our prototypes are ready for testing. Because we are still in a generative phase, we have only completed the Design Intent checkpoint.
+Pilot participant email: TBD
+Date and time of pilot session: TBD (Oct 17 or Oct 18)
 
 ### Research sessions
-- `Planned dates of research:` **10/20-10/28**
+- `Planned dates of research:` **10/22-10/30**
 
 ### Length of sessions
-Sessions will likely last 30-35 minutes.
+Sessions will likely last 45-50 minutes.
 
 ### Availability
 | Dates | Times (EST) |
 | --- | --- |
-| 10/20 | 9 AM to 5 PM |
-| 10/21 | 9 AM to 5 PM |
 | 10/22 | 9 AM to 5 PM |
 | 10/23 | 9 AM to 5 PM |
 | 10/24 | 9 AM to Noon |
 | 10/27 | 9 AM to 5 PM |
 | 10/28 | 9 AM to 5 PM |
+| 10/29 | 9 AM to 5 PM |
+| 10/30 | 9 AM to 5 PM |
 
 - Please leave 30 minutes between sessions 
-- Please do not exceed 3 sessions a day 
+- Please do not exceed 2 sessions a day 
 
 <p>&nbsp;</p>
   
