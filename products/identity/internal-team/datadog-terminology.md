@@ -1,4 +1,4 @@
-# Datadog terminology: notes from pairing sessions
+# Datadog terminology: VA.gov Identity Monitor Dashboard
 
 ## Overview of this dashboard
 
