@@ -1,7 +1,8 @@
 name: Vets-API Manual Deployment Verification and Sync
 description: Checklist to verify deployments and sync environments for vets-api
 title: "[Deployment] Verify and Sync Vets-API Environments"
-body: |
+labels: ["platform-cop-backend"]
+body:
   - type: markdown
     attributes:
       value: |
