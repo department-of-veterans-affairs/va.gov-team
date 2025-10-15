@@ -5,23 +5,19 @@ date: 2025-MM-DD
 last_updated: 2025-10-14
 team: "[Health Apps]"
 product: "[Foreign Medical Program - Claims]"
-product_area: "[e.g., authenticated]"
+product_area: "[authenticated]"
 
 # Background Context
 background:
-  problem_statement: "[What problem is your product trying to solve?]"
+  problem_statement: "[Adding direct deposit content around Foreign Medical Program Claims that does not introduce confusion or misunderstanding from the Veteran about set up because it is a different process than for VA benefits.]"
   product_location: "[Where is this situated on VA.gov?]"
-  user_familiarity: "[New product or iteration?]"
-  product_brief_url: "[URL]"
+  user_familiarity: "[New online form, testing new content additions]"
+  product_brief_url: "[[URL](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md)]"
 
 # Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+methodology: "[semi-structured interviews]"
 research_format: 
-  location: remote # Options: remote, in-person, hybrid
-  in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
+  location: remote 
   moderated: true # Options: true, false
   
 # Research Goals & Questions
@@ -106,27 +102,22 @@ tags:
   - "[research-phase]"
 ---
 
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+# Research Plan for [Health Apps, FMP Claims VA Form 10-7959f-2, October 2025]
+
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
-
 **[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-
 **[Health care hub - Forign Medical Program - Form 10-7959f-2 FMP Claims]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
-
 **[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows only.]**
 
 `Product Brief`
-
 **[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md).**
 
 </details>
@@ -168,9 +159,6 @@ Are there moments that matter?</summary>
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
 `1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims]**
@@ -189,8 +177,6 @@ Are there moments that matter?</summary>
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 ***Consider bucketing research questions under research goals and think about:***
 	
@@ -211,8 +197,6 @@ Are there moments that matter?</summary>
 
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
  
 **Think through these prompts to develop strong hypotheses:**
 	
@@ -257,9 +241,6 @@ Are there moments that matter?</summary>
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
 - [x] **Remote**
 - [ ] **In-person**
       
@@ -276,13 +257,6 @@ Provide a link to any materials you need to run your study, including any materi
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
 - [Link to prototype](url goes here)
-
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
 
 
 ## Recruitment 🎯	
@@ -302,17 +276,11 @@ Provide a link to any materials you need to run your study, including any materi
 ### Recruitment criteria
 
 - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
-
 
 - `Veterans:` **[12]**
 - `Caregivers:` **[0]**
@@ -327,12 +295,13 @@ Provide a link to any materials you need to run your study, including any materi
 - `Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify)`
 - ``
 - **`Add more criteria as needed`**
+- 'At least 2 '
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
 - `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
+- `No more than 3 participants of any one category`
 - `secondary criteria`
 - **`Add more criteria as needed`**
 
@@ -358,11 +327,11 @@ Provide a link to any materials you need to run your study, including any materi
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[60 minutes]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[45-60 minutes]**
   
 - `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[45 minutes]**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[2]**
+- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[3]**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
