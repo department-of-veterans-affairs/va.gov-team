@@ -337,8 +337,8 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Renata and Jessica]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica and Renata]**		
+- `Moderator:` **[Health Apps UX Team]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Health Apps UX Team]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Enter full name]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Not needed for this study]**	
