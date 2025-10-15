@@ -1,4 +1,6 @@
-# Overview of this dashboard
+# Datadog terminology: notes from pairing sessions
+
+## Overview of this dashboard
 
 [Link to dashboard](https://vagov.ddog-gov.com/dashboard/52g-hyg-wcj/vagov-identity-monitor-dashboard?fromUser=false&refresh_mode=paused&from_ts=1746550432022&to_ts=1746564832022&live=false) 📌
 
