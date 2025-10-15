@@ -274,13 +274,12 @@ Provide a link to any materials you need to run your study, including any materi
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ConversationGuide(PerigeanVets).md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://dev.va.gov/contact-us/virtual-agent/)
 
 **For unmoderated testing & focus group:**
 - [Link to survey](https://docs.google.com/forms/d/1WxwFTuKoo1xqiVTMmrRkvAPCeGJLCryMMQXoFgcqW_w/edit)
 - [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to prototype]([url goes here](https://dev.va.gov/contact-us/virtual-agent/))
 - [Link to conversation guide](url goes here)
 
 
