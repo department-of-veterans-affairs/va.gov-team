@@ -1,11 +1,6 @@
+# Form and Inbox Usability Test Research Plan
 
-# Form \+ Inbox Research Plan 
-
-**Ask VA, Form \+ Inbox Usability Testing**
-
-**Date**: October, 14, 2025
-
-**Contacts**: Elena B. Naids, Danielle Oppendike
+**Ask VA, Form and Inbox Usability Testing, October 2025**
 
 # Background
 
@@ -15,13 +10,13 @@ In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. Wit
 
 [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md)
 
-## ✅ OCTO-DE Priorities
+## OCTO-DE Priorities
 
 `Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`
 
 `Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
 
-## ✅ Veteran Journey
+## Veteran Journey
 
 * `Joining`  
 * `Serving`  
@@ -34,7 +29,7 @@ In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. Wit
 * `Aging`  
 * `Dying`
 
-## ✅ Research Goals
+## Research Goals
 
 ### Goals
 
@@ -74,88 +69,85 @@ The Ask VA form and inbox don’t fit other submitter types’ processes and men
 
 ---
 
-## ✅ Methodology
+## Methodology
 
 **Research method:** Usability testing  
 **Moderation style:** Moderated \- facilitator led  
 **Location:** Remote over Zoom  
-**Timeframe:** 60 minute?
+**Timeframe:** 60 minute
 
-## ✅ Research materials
+## Research materials
 
-**For moderated usability tests:**
+**For moderated usability test:**
 
-- [Conversation guide](..)  
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md)  
 - [Ask VA production site](https://www.va.gov/contact-us/ask-va/introduction)
+- Prototype for comparison (still in work)
 
-## 🚧 Recruitment
-
-[Recruitment checker](https://docs.google.com/spreadsheets/d/1v2dqO3mydkqyJ4sGxRHluZIRj9Nnt3BBVWk1-PurgRY/edit?gid=1184124663#gid=1184124663)
+## Recruitment
 
 ### Recruitment approach
 
-Veterans 
+We will work with Perigean to recruit Veterans.
 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+We will also work with the GI Bill team to recruit business submitters, such as Work study site supervisors or School Certifying Officials (SCOs). However, if we're unable to do this within our timeline, this will not be a blocker to completing this study.
 
-### Recruitment criteria
+### Recruitment criteria – Veterans
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**  
-    
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question. Example: Have you been to a VA urgent care facility in the last 6 months? \[answer should be yes to qualify.\]  
-    
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.  
-    
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.  
-    
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+We will recruit 10 Veterans for a total of 8 completed sessions.
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+For more details about our criteria, refer to our \[Recruitment ticket\](add link).
 
-\[\!NOTE\] Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
+| Priority | \# of participants | Criteria |
+| ----- | ----- | ----- |
+| Required | Exactly 10 | Are Veterans |
+| Required | Exactly 10 | Have contacted VA online or over the phone in the past year |
+| Required | Exactly 10 | Have signed in to VA.gov in the past year |
+| Required | Exactly 10 | Have VA Education benefits |
+| Required | Exactly 2  | School Certifying Official or Work Study Site Supervisor |
+| Required | Exactly 5 | Are willing to join from a desktop device |
+|  | At least 4 | Have a cognitive disability or consideration |
+|  | At least 4 | Are over 55 years old |
+|  | At least 3 | Identify as a gender other than male |
+|  | At least 3 | Identify Asian or Hispanic |
+|  | At least 3 | Identify as Black or Native |
+|  | At least 3 | Are rural |
+|  | At least 3 | Don't have a degree |
+|  | At least 2 | Identify as LGBTQ+ |
 
-- `Veterans:` **\[n\]**  
-- `School officials/work study supervisors:` **4**  
-- `Total:` **\[n\]**  
-- `Ideal completed sessions:` **12**
+### Screener questions
 
-### Primary criteria (must-haves)
+| Question | Answers | Screening Criteria |
+| :---- | :---- | :---- |
+| Have you contacted the VA online or over the phone in the past year? | Yes / No | Must answer Yes |
+| We’d like you to review parts of the VA website that require you to sign in to an identity-verified account.  Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified. | Yes / No | Must answer Yes |
+| Do you currently receive any VA Education or Training benefits?  | Yes / No  | Must answer Yes |
+| Are you currently a School Certifying Official (SCO) or Work Study Site Supervisor? | Yes / No | At least 2 participants must answer Yes |
+| Are you able to join the Zoom session from an internet-connected desktop or laptop computer? | Yes / No | Must answer Yes |
+| Do you find it difficult to remember or learn new things, focus on a task, or make decisions?  | Yes / No | At least 5 participants must answer Yes |
 
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?*
+### 
 
-- `[Place primary criteria here between hash marks when in edit mode]`  
-- `primary criteria`  
-- `primary criteria`  
-- **`Add more criteria as needed`**
+### **Recruitment criteria – Business submitters**
 
-#### Secondary criteria (nice-to-haves)
+### We will recruit 3 additional business submitters for a total of 2 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
 
-*What criteria would strengthen your results?*
+| \# of participants | Criteria |
+| ----- | ----- |
+| Exactly 5 | Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran |
 
-- `[Place secondary criteria here between hash marks when in edit mode]`  
-- `secondary criteria`  
-- `secondary criteria`  
-- **`Add more criteria as needed`**
-
-## 🚧 Timeline 
-
-\[\!NOTE\] **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.**
+## Timeline 
 
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`  
-  - Thursday, October 16, 9am- 12pm CT  
   - Friday, October 17, anytime 9am \- 5pm CT  
   - Monday, October 20, 9am \- 12pm CT, 1pm-5pm CT
 
 ### Prepare
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.**
-
-\[\!NOTE\] **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **\[Enter name\]**  
-- `Date and time of pilot session:` **\[Enter time\]**
+- `Pilot participant name:` Alex Castillo  
+- `Date and time of pilot session:` October 21, 2025 1:30-2:30 EST 
 
 ### Research sessions
 
@@ -163,57 +155,50 @@ Veterans
 
 ### Length of sessions
 
-- `Session length:` **30-60 minutes**   
+- `Session length:` **60 minutes**   
     
 - `Buffer time between sessions:` **30 minutes**  
     
-- `Maximum Sessions per day:` **3 sessions per day**
+- `Maximum Sessions per day:` **4 sessions per day**
 
 ### Availability
 
 **Time slots**
 
-- `10/27, Monday, 9:30am-6:30pm EST (3)`  
+- `10/27, Monday, 9:30am-6:30pm EST (4)`  
 - `10/28, Tuesday, 9:30am-10:30am EST (1)`  
 - `10/28, Tuesday, 1:30pm-6:30pm EST (3)`  
-- `10/29, Wednesday, 9:30am-6:30pm EST (3)`  
+- `10/29, Wednesday, 9:30am-6:30pm EST (4)`  
 - `10/30, Thursday, 9:30am-1:00pm EST (2)`  
 - `10/31, Friday, 9:30am-2:30pm EST (3)`  
     
 - `11/3, Monday, 9:30am-12:30pm EST (2)`  
-- `11/3, Monday, 2:30pm-6:30pm EST (2)`  
-- `11/4, Tuesday, 9:30am-6:30pm EST (3)`  
-- `11/5, Friday, 9:30am-6:30pm EST (3)`  
+- `11/3, Monday, 2:30pm-6:30pm EST (3)`  
+- `11/4, Tuesday, 9:30am-6:30pm EST (4)`  
+- `11/5, Friday, 9:30am-6:30pm EST (4)`  
     
-- `11/10, Monday, 9:30am-6:30pm EST (3)`
+- `11/10, Monday, 9:30am-6:30pm EST (4)`
 
-##  🚧 Team Roles 
-
-\[\!NOTE\] **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
-
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+## Team Roles  🕵️👩‍💻👩‍🔬
 
 - `Moderator:` **Elena B. Naids**  
-    
-- `Research guide writing and task development (usually but not always same as moderator):` **\[Enter full name\]**  
-    
-- `Participant recruiting & screening:`	**\[Enter full name\]**  
-    
-- `Project point of contact:` **\[Enter full name\]**  
-    
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **\[Enter full name\]**  
-    
-- `Note-takers:` **\[Enter full name\]** ***or*** **\[Designate Perigean\]**  
-    
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`  
-    
-- **\[Enter full name\]**  
-    
-- **\[Enter full name\]**  
-    
-- **\[Enter full name\]**
+- `Research guide writing and task development (usually but not always same as moderator):` **Elena B. Naids**  
+- `Participant recruiting & screening:` **Perigean**  
+- `Project point of contact:` **Elena B. Naids**  
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **–**  
+- `Note-takers:` **Danielle Oppendike**  
+- `Observers`   
+  \[\!NOTE\] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
+  - **Becky Phung**  
+  - **Stephanie Vargo**  
+  - **Matt Floyd**  
+  - **Sumit Patel**  
+  - **Walker Marlatt**  
+  - **Alex Castillo**
 
 ## Approvals ✅
 
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`  
+- `Reviewed by` Becky Phung`, OCTO Product Owner on [MM-DD-YYYY]`  
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+
+
