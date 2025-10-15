@@ -49,13 +49,13 @@ This research will create a benchmark both quantitatively and qualitatively. Pro
 
 ### Research questions
 
-**`1.` What are submitters’ expectations with the UI, the process, and the service when using Ask VA?**  
+`1.` What are submitters’ expectations with the UI, the process, and the service when using Ask VA?  
 
-**`2.`What are the biggest problem areas in the form for Veteran submitters? For other types of submitters?** 
+`2.`What are the biggest problem areas in the form for Veteran submitters? For other types of submitters?
 
-**`3.`What are the biggest problem areas on the inbox for Veteran submitters? For other types of submitters?** 
+`3.`What are the biggest problem areas on the inbox for Veteran submitters? For other types of submitters? 
 
-**`4.`How would submitters rate their experience with Ask VA?** 
+`4.`How would submitters rate their experience with Ask VA?
 
 ### Hypotheses
 
