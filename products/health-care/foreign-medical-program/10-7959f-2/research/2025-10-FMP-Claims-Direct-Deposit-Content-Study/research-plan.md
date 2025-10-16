@@ -1,6 +1,4 @@
-
 ---
-
 # Research Plan Metadata
 title: "Research Plan for Health Apps, FMP Claims Form 10-7959f-2, October 2025"
 date: 2025-10-14
@@ -46,11 +44,10 @@ recruitment:
   recruiting_partner: "Perigean"
   approach: "lean maximum variation"
   
-primary_criteria:
-- "Do you currently receive monthly disability compensation for a service connected condition? (Must answer yes to qualify)"
-- "Are you currently living abroad? (Must answer yes to qualify)"
-- "At least 2 participants who are female"
-- "At least 2 participants who are 55 years or older"
+  primary_criteria:
+    - "[Must-have criterion 1]"
+    - "[Must-have criterion 2]"
+    - "[Must-have criterion 3]"
     
   secondary_criteria:
     - "No more than 2 participants per each race/demographics category"
