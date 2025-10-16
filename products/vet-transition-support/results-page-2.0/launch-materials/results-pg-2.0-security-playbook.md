@@ -9,7 +9,7 @@
 
 ## Routes to code
 - [Development Epic (JIRA)](https://jira.devops.va.gov/browse/PTEMSVT-588)
-- Route to code: TK TK
+- [Route to code](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits)
 
 ## Contacts
 _All team members may also be reached via team slack channel: `#ves-transition`_
