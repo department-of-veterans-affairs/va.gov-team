@@ -119,7 +119,7 @@ body:
         - label: <strong>Text can be enlarged to 200% without breaking the page. (Required)</strong> <br/>Text can be resized up to 200% without loss of content or functionality. (WEB-144)
         - label: <strong>Content fits on small screens without horizontal scrolling (Required).</strong> <br/> Content reflows to a single-dimension scroll at 320x256 CSS pixels and larger. (WEB-1410)
         - label: <strong>Content works in both portrait and landscape mode. (Recommended)</strong><br/>Content is viewable in portrait and landscape orientations unless essential otherwise. (WEB-134)
-        - label: <strong>Text remains readable when spacing is adjusted. (Recommended)</strong><br/>No content or functionality may be lost when text is set to\: line spacing of 1.5x font size, letter spacing at 0.12x font size, word spacing at 0.16x font size, and paragraph spacing 2x the font size and that styling does not prevent overrides. (WEB-1412)
+        - label: <strong>Text remains readable when spacing is adjusted. (Recommended)</strong><br/>No content or functionality may be lost when text is set to:line spacing of 1.5x font size, letter spacing at 0.12x font size, word spacing at 0.16x font size, and paragraph spacing 2x the font size and that styling does not prevent overrides. (WEB-1412)
 
   - type: checkboxes
     id: keyboard-focus-checks
