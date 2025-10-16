@@ -72,7 +72,7 @@ Last updated: 10/7/2025
 | [25-8832](https://staging.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-25-8832)                    | LOA1 | | | |
 | [26-1880](https://staging.va.gov/housing-assistance/home-loans/request-coe-form-26-1880)                                                   | LOA1 | | | |
 | [26-4555](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)                              | LOA1 |  | ✅ | |
-| [28-1900](https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900)                                    | LOA3 |  | ? | |
+| [28-1900](https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900)                                    | LOA3 |  | ✅ | |
 | [40-0247](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247)    | No Auth | | | |
 | [40-10007](https://staging.va.gov/burials-memorials/pre-need-eligibility/apply-for-eligibility-form-40-10007)                            | LOA3 |  | ✅ | |
 | [After visit summary](https://staging.va.gov/my-health/medical-records/summaries-and-notes/visit-summary)                                | LOA3 | | | |
