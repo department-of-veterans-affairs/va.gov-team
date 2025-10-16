@@ -63,13 +63,13 @@ More specifically, we will be able to determine a forward design path to enable 
 
 ---
 
-Veteran submitters expect a simple contact form allowing them to ask any question. 
-
-Veteran submitters don’t understand the internal routing processes to get their question to the right person.
-
 Business submitters have to use workarounds to get the information they need from Ask VA.
 
 Using Ask VA to submit education and work study documentation is overly burdensome to business submitters.  
+
+Veteran submitters expect a simple contact form allowing them to ask any question. 
+
+Veteran submitters don’t understand the internal routing processes to get their question to the right person.
 
 ---
 
