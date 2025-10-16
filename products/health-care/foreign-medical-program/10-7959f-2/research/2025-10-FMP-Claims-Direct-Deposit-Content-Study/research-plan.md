@@ -1,5 +1,4 @@
 ---
-
 # Research Plan Metadata
 title: "Research Plan for Health Apps, FMP Claims Form 10-7959f-2, October 2025"
 date: 2025-10-14
