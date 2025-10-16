@@ -44,3 +44,59 @@ end
 #### Generated during test run (Actual)
 |<img width="1000" alt="kitchen_sink generated via Rspec specs" src="https://github.com/user-attachments/assets/2691dceb-69c7-49ce-a3f2-733cff8629e5" />
 |-
+
+### How are we testing?
+#### `modules/pensions/spec/lib/pensions/pdf_fill/va21p527ez_spec.rb`
+```ruby
+it_behaves_like 'a form filler', {
+  form_id: described_class::FORM_ID,
+  factory: :pensions_saved_claim,
+  use_vets_json_schema: true,
+  input_data_fixture_dir: 'modules/pensions/spec/fixtures',
+  output_pdf_fixture_dir: 'modules/pensions/spec/fixtures',
+  fill_options: { extras_redesign: true, omit_esign_stamp: true }
+}
+```
+
+#### `spec/lib/pdf_fill/fill_form_examples.rb`
+```ruby
+RSpec.shared_examples 'a form filler' do |options|
+  # ...
+  it 'fills the form correctly' do
+    # ... 
+    fixture_pdf_path = fixture_pdf_base + (extras_redesign ? '_redesign.pdf' : '.pdf')
+    # Ensure that the fixture PDF actually exists as match_pdf_fields will give vague errors
+    # (IOError) if the fixture file can't be found
+    expect(Pathname.new(fixture_pdf_path)).to exist
+    expect(generated_pdf_path).to match_pdf_fields(fixture_pdf_path) # <--- DING DING DING
+
+    File.delete(generated_pdf_path)
+  end
+end
+```
+
+#### `match_pdf_fields`
+```ruby
+RSpec::Matchers.define :match_pdf_fields do
+  match(notify_expectation_failures: true) do |actual|
+    fields = [actual, expected].map do |path|
+      PdfForms.new(Settings.binaries.pdftk).get_fields(path).map do |field|
+        { name: field.name, value: field.value }
+      end
+    end
+    expect(fields[0]).to match_array(fields[1])
+  end
+
+  failure_message do |actual|
+    "expected that #{actual} would match PDF fields of #{expected}"
+  end
+end
+```
+
+#### `fields[0]` (Actual)
+|<img width="475" alt="fields[0] (actual)" src="https://github.com/user-attachments/assets/3f26a3c4-1b9c-4b60-9ec1-47a61360a547" />
+|-
+
+#### `fields[1]` (Expected)
+|<img width="475" alt="fields[1] (expected)" src="https://github.com/user-attachments/assets/085fa281-9362-492c-a213-281e1c300064" />
+|-
