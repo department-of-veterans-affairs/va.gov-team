@@ -1,7 +1,5 @@
 # Follow up on OH message pool work - Sep 2025
-wip - still updating (10/9)
-
-These are eeting notes from our 9/30 sync with Dr. Ami Shah. Dr. Shah has been leading the Message Center Workgroup under Ambulatory Council. The workgroup developed guidelines for Oracle message pool names (internal) and patient display names (external). 
+These are meeting notes from our 9/30 sync with Dr. Ami Shah. Dr. Shah has been leading the Message Center Workgroup under Ambulatory Council. The workgroup developed guidelines for Oracle message pool names (internal) and patient display names (external). 
 
 In this doc: 
 - [Takeaways](#takeaways)
@@ -52,7 +50,7 @@ We need to update any process documents at both VistA and Oracle facilities.
 
 ## Links
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759243091359/4209c93bdf3732baaa9a1136628251e4ceccbd04) where @beckyphung took notes
-- Link to meeting recording
+- [Link to meeting recording](https://teams.microsoft.com/l/meetingrecap?driveId=b%21mgU5TB1H0UqDla_98854p363p43rdDVMs3TqsyOpLFks1WtarZdHS7fzXBf6RzIt&driveItemId=01V5B7CWAVH2BI4EQC4BB36YWY6IMZ4FYJ&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fbecky_phung_va_gov%2FERU-go4SAuBDv2LY8hmeFwkBiDQ8SVaqjswVfwdXahcxzA&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2Fpersonal%2Fbecky_phung_va_gov%2FDocuments%2FRecordings%2FFollow%2520up%2520on%2520OH%2520message%2520pool%2520work-20250930_090559-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E0080000000030CE5DE2702CDC01000000000000000010000000FDB75F9B716D5E43B299A24935B2F68B&threadId=19%3Ameeting_Yzk3MTU1NzYtY2QwNy00NmU3LTgwYWEtN2QzYmU2OTI0MGZj%40thread.v2&organizerId=07c05501-4e07-4f09-8669-0f33a0de369f&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=fa7d9372-ced3-4fde-b2f1-d47477c7a9a0&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)
 - [Patient display name guidelines PDF](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Triage%20Group%20Naming/Oracle%20Health%20context/OH%20guidelines/Message%20Pool%20Standardization%20Style%20Guide%205.28.%20as2%20dck.pdf?CT=1760025479243&OR=ItemsView) in SharePoint, signed 5/28/25
 - [Current groups/subgroup list Excel](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Secure%20Messaging/Improving%20care%20team%20names/2024.07.29%20-%20MVP%20triage%20group%20types%20and%20subgroups.xlsx?d=w9b8985d58e0b482cb370bb8240060d65&csf=1&web=1&e=i6nTaI) that VISN 1 plain language care team pilot uses
 - [List of pilot VISN 1 triage group names Excel](https://dvagov.sharepoint.com/:x:/s/PlainLanguageCareTeamNamespilot/ERX8WNFMo7ZElcIBITnIa0IBFC6J5fG9vtP4052ETFG26w?e=JykWZB)
