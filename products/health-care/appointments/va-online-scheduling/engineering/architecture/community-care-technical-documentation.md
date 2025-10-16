@@ -47,22 +47,22 @@ graph TB
         end
     end
     
-    MAP[MAP System]
-    CCRA[CCRA System]
-    EPS[EPS System]
+    MAP[A collection of services connecting to VISTA and HSRM]
+    HSRM[HealthShare Referral Manager]
+    EPS[Wellhive System for appointments and providers]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
     VA_API -->|Send Notifications| VA_NOTIFY
     VA_API -->|Access Referral Data| MAP
-    MAP -->|Retrieves Referral Data| CCRA
+    MAP -->|Retrieves Referral Data| HSRM
     VA_API -->|Schedule Appointments| EPS
     EPS -- "Manual Entry (Air Gap)" --> CCRA
 
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
     class VW,VA_API,VA_NOTIFY vaSystem;
-    class MAP,EPS,CCRA external;
+    class MAP,EPS,HSRM external;
 ```
 
 ## Referral Data Model
