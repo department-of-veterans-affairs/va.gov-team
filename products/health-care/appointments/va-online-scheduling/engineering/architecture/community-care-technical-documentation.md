@@ -47,9 +47,9 @@ graph TB
         end
     end
     
-    MAP[MAP(Services connecting to VISTA and HSRM)]
-    HSRM[HSRM(HealthShare Referral Manager)]
-    EPS[EPS(Wellhive System for appointments and providers)]
+    MAP[MAP - Services connecting to VISTA and HSRM]
+    HSRM[HSRM - HealthShare Referral Manager]
+    EPS[EPS - Wellhive System for appointments and providers]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
@@ -57,7 +57,7 @@ graph TB
     VA_API -->|Access Referral Data| MAP
     MAP -->|Retrieves Referral Data| HSRM
     VA_API -->|Schedule Appointments| EPS
-    EPS -- "Manual Entry (Air Gap)" --> CCRA
+    EPS -- "Manual Entry (Air Gap)" --> HSRM
 
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
