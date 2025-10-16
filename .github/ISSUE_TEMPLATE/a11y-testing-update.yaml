@@ -12,7 +12,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see #5 Next Steps).
+        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see 4. Next Steps).
         
         ### Why we ask VFS teams to do accessibility testing
         The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
@@ -25,7 +25,7 @@ body:
 
         Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
 
-        Checking a checklist item indicates that your product has passed that check. If you find an issue while performing a check, do not mark it as complete. Instead, log the issue (see #5 Next Steps) and leave the check unmarked. If the check is not applicable to your product, mark it as passed.
+        Checking a checklist item indicates that your product has passed that check. If you find an issue while performing a check, do not mark it as complete. Instead, log the issue (see 4. Next Steps) and leave the check unmarked. If the check is not applicable to your product, mark it as passed.
   - type: checkboxes
     id: product-info
     attributes:
@@ -68,7 +68,7 @@ body:
         - label: <strong>No images of text. (Required)</strong> <br/>Images of text are not used when the same presentation can be made with native HTML/CSS. Logos and branding are excluded. (WEB-145)
         - label: <strong>Brief and detailed descriptions are provided for complex images.(Recommended)</strong><br/> Complex images (graphs, maps, charts) have both alt text and longer descriptions that together accurately convey all relevant information. (WEB-111-002)
         - label: <strong>Decorative images are hidden from screen readers. (Recommended)</strong><br/> All non-text content that is decorative, provides no contextual value, or is already defined by surrounding content is hidden from screen readers. (WEB-111-003)
-        - label: <strong>Background images are not used for informative content. (Recommended)</strong> CSS background images contain no meaningful content, or that content is available through other means. (WEB-111-004)
+        - label: <strong>Background images are not used for informative content. (Recommended)</strong><br/> CSS background images contain no meaningful content, or that content is available through other means. (WEB-111-004)
  
   - type: checkboxes
     id: audio-video-checks
@@ -174,7 +174,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 5. Next steps
+        <br/>
+        
+        ## 4. Next steps
   - type: checkboxes
     id: add-link
     attributes:
