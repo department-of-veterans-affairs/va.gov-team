@@ -14,25 +14,8 @@
 |<img width="375" alt="Pensions PDF after edits" src="https://github.com/user-attachments/assets/cc00316c-9d8e-4e19-a0a4-4207706db92f" />
 |-
 
-### PDF fill code changes
-#### Before
-```ruby
-# Convert an objects truthiness to a radio yes/no.
-def to_radio_yes_no(obj)
-  obj ? 1 : 2 # <-- Change this
-end
-```
-
-#### After
-```ruby
-# Convert an objects truthiness to a radio yes/no.
-def to_radio_yes_no(obj)
-  obj ? 0 : 1 # <-- To this
-end
-```
-
 ### Running rspec
-#### Terminal output
+#### Terminal output (This should fail since the PDF is different now but our code hasn't been updated yet right?)
 |<img width="1000" alt="Rspec run" src="https://github.com/user-attachments/assets/13e5b1e6-a8b0-4199-b048-828f1b2ca5ca" />
 |-
 
@@ -100,3 +83,20 @@ end
 #### `fields[1]` (Expected)
 |<img width="475" alt="fields[1] (expected)" src="https://github.com/user-attachments/assets/085fa281-9362-492c-a213-281e1c300064" />
 |-
+
+### PDF fill code changes (now Rspec will fail as expected)
+#### Before
+```ruby
+# Convert an objects truthiness to a radio yes/no.
+def to_radio_yes_no(obj)
+  obj ? 1 : 2 # <-- Change this
+end
+```
+
+#### After
+```ruby
+# Convert an objects truthiness to a radio yes/no.
+def to_radio_yes_no(obj)
+  obj ? 0 : 1 # <-- To this
+end
+```
