@@ -40,7 +40,7 @@ We need to continue moving forward with our VISN 1 pilot.
    - Ex current name: BOS_MH TELEMENTAL BIPOLAR STEIN, N% 
    - Ex new name: MA Brockton Telemental health for bipolar disorder
 - [ ] Find out character limit for patient display names
-- [ ] Update input fields in SM Admin portal to align with with Oracle patient display name guidelines (aka external pool names) 
+- [ ] Update input fields in SM Admin portal to align with Oracle patient display name guidelines (aka external pool names) 
 
 ### Next steps for process development
 We need to update any process documents at both VistA and Oracle facilities.
