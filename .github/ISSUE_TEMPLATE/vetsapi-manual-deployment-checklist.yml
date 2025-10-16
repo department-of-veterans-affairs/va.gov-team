@@ -85,16 +85,12 @@ body:
       options:
         - label: Announce deployment completion in the appropriate Slack channel
 
-  - type: markdown
-    attributes:
-      value: |
-        ### Rollback Instructions
-        Follow this checklist if there are issues during or after the Prod deployment
 
   - type: checkboxes
     id: rollback-instructions
     attributes:
-      label: Vets-API Rollback Instructions
+      label: Rollback Instructions
+      description: Follow this checklist if there are issues occuring with the Prod deployment
       options:
         - label: Create a pull request in [vsp-infra-application-manifests](<https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests>) that reverts the problematic changes
         - label: Get approval and merge the revert pull request
