@@ -122,18 +122,36 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the process stepper componennt and contnet help or add clarity to the process?]
 
 
-## Third Task: [FMP Form Flow and Confirmation Page] - 10 minutes
+## Third Task: [FMP Form Flow and Upload] - 10 minutes
 
 - [ ] Might have to redirect to prototype link here
 - Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page. We would like you to focus your feedback on the content and information on the page so we can work to make that better for Veterans.
+- [ ] Pause before starting upload screens
+- Before moving on, can you explain your understanding of the content on that previous page?
+- [ ] Upload screens
+- Again, we won't ask you to upload any documentation or interact with the prototype fully here either. But can you think aloud as you go through this page and call out anything that isn't clear or you would like there to be explanation on.
+
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant interact with the additional information component to learn more about direct deposit later in the flow?]
+> - [Does the participant have any concerns or confusion with the upload documentation content?]
+
+
+
+## Third Task: [Confirmation Page] - 10 minutes
+
+
 - [ ] Participant arrives at Confirmation Page
 - Now this is the page where you have submitted your FMP Claim online. Can you explain to me your understanding of what happens next and any action you might need to take?
 - What is your confidence rating - 1 being very low and 5 being very high - that you have direct deposit correctly set up based on this prototype and this page here?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant interact with the additional information component to learn more about direct deposit later in the flow?]
 > - [Does the participant notice the direct deposit information on the confirmation page and call it out as being redundant or helpful?]
+
+
+
 
 
 
