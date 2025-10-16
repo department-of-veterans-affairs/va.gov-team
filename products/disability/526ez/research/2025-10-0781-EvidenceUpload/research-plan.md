@@ -166,8 +166,8 @@ _Mental health conditions_
 ##  **Optional Kick-off Call with Perigean**
 
 * Suggested dates and times:   
-  * 10/15 12:00PM \- 5pm EST  
-  * 10/16 12:00PM \- 5pm EST
+  * 10/20 12:00PM \- 5pm EST  
+  * 10/21 12:00PM \- 5pm EST
 
 ## **Prepare**
 
@@ -182,7 +182,7 @@ _Mental health conditions_
 
 ### **Research sessions**
 
-* Planned dates of research: 10/22 \- 10/28
+* Planned dates of research: 10/27 \- 10/31
 
 ### **Length of sessions**
 
@@ -192,11 +192,11 @@ _Mental health conditions_
 
 ### **Availability**
 
-* 10/22, Wednesday, 12:00PM \- 5pm EST  
-* 10/23, Thursday, 12:00PM \- 5pm EST  
-* 10/24, Friday, 12:00PM \- 1pm EST, 2:30pm \- 5pm EST  
-* 10/27, Monday, 9:00AM \- 5pm EST  
-* 10/28, Tuesday, 9:00AM \- 5pm EST
+* 10/27, Monday, 12:00PM \- 5pm EST  
+* 10/28, Tuesday, 12:00PM \- 5pm EST  
+* 10/29, Wednesday, 12:00PM \- 5pm EST 
+* 10/30, Thursday, 12:00PM \- 5pm EST (9-12 if needed)  
+* 10/31, Friday, 12:00PM \- 5pm EST (9-12 if needed)
 
 ## **Team Roles 🕵️👩‍💻👩‍🔬**
 
@@ -205,7 +205,7 @@ _Mental health conditions_
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Momo Miyazaki  
 * Accessibility specialist (for sessions where support for assistive technology may be needed): TBD  
-* Note-takers:  Amy Goldman, Momo Miyazaki  
+* Note-takers:  Amy Goldman, Momo Miyazaki, Brent Schneider  
 * Observers: To be determined a week before research
 
 ## **Approvals ✅**
