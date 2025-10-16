@@ -33,10 +33,14 @@ end
 
 ### Running rspec
 #### Terminal output
-<img width="1000" alt="Rspec run" src="https://github.com/user-attachments/assets/13e5b1e6-a8b0-4199-b048-828f1b2ca5ca" />
+|<img width="1000" alt="Rspec run" src="https://github.com/user-attachments/assets/13e5b1e6-a8b0-4199-b048-828f1b2ca5ca" />
+|-
 
 ### Visual inspection
 #### Fixture spec (Expected)
+|<img width="1000" alt="kitchen_sink fixture" src="https://github.com/user-attachments/assets/25644c3d-7702-4d9d-a6aa-354f6276d8ea" />
+|-
 
 #### Generated during test run (Actual)
-
+|<img width="1000" alt="kitchen_sink generated via Rspec specs" src="https://github.com/user-attachments/assets/2691dceb-69c7-49ce-a3f2-733cff8629e5" />
+|-
