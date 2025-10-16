@@ -45,7 +45,7 @@ recruitment:
   recruiting_partner: "Perigean"
   approach: "lean maximum variation"
   
-  primary_criteria:
+primary_criteria:
     - "Do you currently receive monthly disability compensation for a service connected condition? (Must answer yes to qualify)"
 	- "Are you currently living abroad? (Must answer yes to qualify)"
     - "At least 2 participants who are female"
