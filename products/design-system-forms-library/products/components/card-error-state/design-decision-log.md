@@ -1,5 +1,5 @@
 # Card Component Error State Design Decisions
-Last updated: 09/12/2025
+Last updated: 10/16/2025
 
 This document outlines the key design decisions made for implementing error states in the VA Design System Card component. These Architecture Decision Records (ADRs) capture the context, decisions, and consequences of our design choices to ensure consistency and provide guidance for future development.
 
@@ -56,22 +56,22 @@ Cards displaying an error state must include a visible secondary action link tha
 N/A
 
 
-## ADR 003 - Default tag will be used for launch
+## ADR 003 - ~~Default~~ New Status tag will be used for launch
 
 ### Status: Accepted
 
 - Date issue raised: 07/31/2025
 - Decision date: 08/04/2025
+- Decision changes: 10/16/2025
 
 ### Context
-The experimental design request specified using a colored tag for the error state. However, colored tags are not currently available in the VA Design System.
+The experimental design request specified using a colored tag for the error state. However, colored tags are now available in the VA Design System.
 
 ### Decision
-We will implement the card error state using the default tag style. Once colored tags become available in the design system, we will update the card component to use the appropriate colored tag.
+We will implement the card status using the new status tag style. O
 
 ### Consequences
-- Cards with error states may need to be refactored when colored tags become available
-- The team is investigating ways to control this styling from a single source to minimize future refactoring effort
+The status tag is a new component not used by teams at this point. There could be some regressions in the card due to the new tag.
 
 ### Open Questions
 N/A
@@ -108,12 +108,13 @@ N/A
 ### Open Questions
 N/A
 
-## ADR 005 - Existing card will be moved to legacy state in Figma
+## ADR 005 - aExisting card will be moved to legacy state in Figma
 
-### Status: Accepted
+### Status: ~~Accepted~~ Changed
 
 - Date issue raised: 08/04/2025
 - Decision date: 08/06/2025
+- Decision changed: 10/16/2025
 
 ### Context
 To add an error state to the Figma card component, we have two options:
@@ -123,16 +124,15 @@ To add an error state to the Figma card component, we have two options:
 ### Decision
 We will issue a new version of the card component to better align with the coded implementation. This involves:
 
-1. **Separated concerns:** The new card component will have three visual style variants (border, background, drop shadow) with two states each (default and error)
+1. **Separated concerns:** The new card component will have four visual style variants (default border, default error, background, drop shadow) 
 2. **Flexible content:** Card content will be either prebuilt options or a flexible option for teams to add custom content
 
 Currently, the component combines content and visual style into single variants. We are separating these concerns to create a more maintainable structure.
 
-We will maintain and support the current card component by renaming it to "Card - Legacy".
-
+~~We will maintain and support the current card component by renaming it to "Card - Legacy".~~
 
 ### Implementation Plan
-- **Legacy preservation:** The current card component will be renamed to "Card - Legacy"
+~~- **Legacy preservation:** The current card component will be renamed to "Card - Legacy"~~
 - **New default:** The improved card component will use the standard "Card" name
 - **Opt-in adoption:** Teams can choose when to migrate to the new design structure
 - **Error state requirement:** Teams wanting to use error states must adopt the new component design
@@ -153,7 +153,7 @@ We will maintain and support the current card component by renaming it to "Card 
 ### Status: In process
 
 - Date issue raised: 8/31/2025
-- Decision date: 
+- Decision date: 10/16/2025
 
 ### Context
 After discussions with DST Engineers, we realized we should just build the card status as a variant that supports an error state. We have many card statuses across VA.gov.
