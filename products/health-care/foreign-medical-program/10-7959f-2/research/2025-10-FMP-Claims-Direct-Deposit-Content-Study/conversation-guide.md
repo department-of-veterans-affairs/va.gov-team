@@ -95,7 +95,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
 - Open the prototype and take a minute to look it over and please remember to think aloud.
 - Based on this page, what would you do next if you were filing your first FMP claim today?
-- Can you state in your own words what the information and alert on this page means?
+- [ ] QUESTION - structure prototype with a pause screen here upon any click? Have participant click before asking next two questions.
+- Can you state in your own words what the information and alert on that previous page meant?
 - On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the clarity of information on this first page?
 
 > [!NOTE]
@@ -105,9 +106,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Is the participant aware their bank account information needs to be in different systems within the VA - FMP is separate from VA Benefits?]
 > - [Does the participant pass over the alert with the mental model of they already have it set up?]
 
-## Second Task: [Direct Deposit Static Page] -5 minutes
+## Second Task: [Direct Deposit Static Page] - 5 minutes
 
-- [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
+- [ ] QUESTION - From pause screen - create prototype to go to static page upon click in the Fgma prototype?
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
 - What are your impressions of this page and your understanding of the content here? Please remember to think aloud.
 - Same as before, on a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the instructions on this page?
@@ -138,7 +139,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Forth Task: [Content Comprehension and Mental Model] - 10 minutes
 
-- What are you expectations on how the direct deposit process for FMP claims works now that you have gone thorugh this prototype?
+- What's your understanding on how the direct deposit process for FMP claims works now that you have gone thorugh this prototype?
 - What would be one thing that you would change to make it better for you about the current direct deposit process as you understand it?
 - Can you describe to me your ideal experience with setting up and maintaining direct deposit for your Foreign Medical Program claims?
 
