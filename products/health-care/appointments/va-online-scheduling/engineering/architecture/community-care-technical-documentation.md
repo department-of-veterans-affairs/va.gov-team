@@ -39,17 +39,11 @@ The External Referral Appointment Scheduling System is designed to automate and 
 graph TB
     User((User))
     
-    subgraph "VA.gov"
-        VW[Vets-Website<br>React App]
-        subgraph "CC Experience"
-            VA_API[Vets-API<br>Ruby on Rails]
-            VA_NOTIFY[VA Notify]
-        end
-    end
-    
     MAP[MAP - Services connecting to VISTA and HSRM]
     HSRM[HSRM - HealthShare Referral Manager]
     EPS[EPS - Wellhive System for appointments and providers]
+    VW[vets-website]
+    VA_API[vets-api]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
