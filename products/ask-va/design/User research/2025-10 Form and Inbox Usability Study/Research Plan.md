@@ -1,6 +1,6 @@
-# Form and Inbox Usability Test Research Plan
+# Form \+ Inbox Research Plan
 
-**Ask VA, Form and Inbox Usability Testing, October 2025**
+**Ask VA, Form \+ Inbox Usability Testing, October 2025**
 
 # Background
 
@@ -33,39 +33,43 @@ In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. Wit
 
 ### Goals
 
-`1.` Understand different submitters’ needs from the Ask VA form and inbox. 
+`1.` Understand Veteran and business users’ needs from the Ask VA form and inbox. 
 
-`2.` Identify opportunities to simplify the form and inbox and better meet submitter needs. 
+`2.` Identify opportunities to simplify the form and inbox to better meet their needs. 
 
-`3.` Benchmark submitters’ satisfaction and ease of use with the current Ask VA experience for continuous measurement and improvement.
+`3.` Assess satisfaction and ease of use of the current Ask VA experience versus our exploratory prototype. 
 
 ### Outcome
 
 ---
 
-This research will create a benchmark both quantitatively and qualitatively. Providing a baseline satisfaction and ease of use metric that we can strive to improve on over time. It will also be the evidence-based foundation our team needs to effectively make design decisions that will enhance the Ask VA form and inbox experiences. 
+This research will create a shared understanding of the different mental models that submitters have in walking through the form and reviewing responses in their inbox. This will enable our team to make future design decisions that will enhance the Ask VA form and inbox experiences. 
+
+More specifically, we will be able to determine a forward design path to enable all submitters better access to their previous submissions. We will also be equipped with evidence when designing business lines’ requested changes to the Ask VA form.  
 
 ---
 
 ### Research questions
 
-`1.` What are submitters’ expectations with the UI, the process, and the service when using Ask VA?  
+`1.` What are submitters’ expectations with the Ask VA interface and process?  
 
-`2.`What are the biggest problem areas in the form for Veteran submitters? For other types of submitters?
+`2.`What are the biggest problem areas with the form for Veterans? For business submitters? 
 
-`3.`What are the biggest problem areas on the inbox for Veteran submitters? For other types of submitters? 
+`3.`What are the biggest problem areas with the inbox for Veterans? For business submitters? 
 
-`4.`How would submitters rate their experience with Ask VA?
+`4.`How are submitters working around these problem areas? 
 
 ### Hypotheses
 
 ---
 
-Veteran submitters (and their families) expect a simple contact form allowing them to ask any question. 
+Veteran submitters expect a simple contact form allowing them to ask any question. 
 
-Veteran submitters (and their families) don’t understand the internal routing processes to get their question to the right person.  
+Veteran submitters don’t understand the internal routing processes to get their question to the right person.
 
-The Ask VA form and inbox don’t fit other submitter types’ processes and mental models very well.
+Business submitters have to use workarounds to get the information they need from Ask VA.
+
+Using Ask VA to submit education and work study documentation is overly burdensome to business submitters.  
 
 ---
 
@@ -74,15 +78,15 @@ The Ask VA form and inbox don’t fit other submitter types’ processes and men
 **Research method:** Usability testing  
 **Moderation style:** Moderated \- facilitator led  
 **Location:** Remote over Zoom  
-**Timeframe:** 60 minute
+**Timeframe:** 60 minutes
 
 ## Research materials
 
 **For moderated usability test:**
 
-- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md)  
-- [Ask VA production site](https://www.va.gov/contact-us/ask-va/introduction)
-- Prototype for comparison (still in work)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Conversation%20guide%20-%20Veterans.md)  
+- [Ask VA production site](https://www.va.gov/contact-us/ask-va/introduction)  
+- Prototype (still in work)
 
 ## Recruitment
 
@@ -95,8 +99,6 @@ We will also work with the GI Bill team to recruit business submitters, such as 
 ### Recruitment criteria – Veterans
 
 We will recruit 10 Veterans for a total of 8 completed sessions.
-
-For more details about our criteria, refer to our \[Recruitment ticket\](add link).
 
 | Priority | \# of participants | Criteria |
 | ----- | ----- | ----- |
@@ -136,7 +138,7 @@ For more details about our criteria, refer to our \[Recruitment ticket\](add lin
 | ----- | ----- |
 | Exactly 5 | Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran |
 
-## Timeline 
+## 🚧 Timeline 
 
 ### Optional Kick-off Call with Perigean
 
@@ -188,7 +190,7 @@ For more details about our criteria, refer to our \[Recruitment ticket\](add lin
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **–**  
 - `Note-takers:` **Danielle Oppendike**  
 - `Observers`   
-> [!NOTE] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
+  \[\!NOTE\] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
   - **Becky Phung**  
   - **Stephanie Vargo**  
   - **Matt Floyd**  
@@ -200,5 +202,3 @@ For more details about our criteria, refer to our \[Recruitment ticket\](add lin
 
 - `Reviewed by` Becky Phung`, OCTO Product Owner on [MM-DD-YYYY]`  
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
-
-
