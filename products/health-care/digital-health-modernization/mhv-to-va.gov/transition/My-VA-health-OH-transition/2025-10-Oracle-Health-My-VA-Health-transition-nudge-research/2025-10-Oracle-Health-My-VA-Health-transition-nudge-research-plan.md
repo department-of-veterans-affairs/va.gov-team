@@ -25,14 +25,16 @@ As we think about the transition rollout at Columbus, there are two key target t
 * What are their reactions to planned tactics for communicating the transition of My VA Health to My HealtheVet on VA.gov? 
 
 ## Research Questions
-1. Self-reflected behaviors: 
+**Self-reflected behaviors:**
   * How do users currently approach using their online healthcare tools?
   * How do they make decisions about where to go for what? How do they access their online healthcare tools?
   * How have their behaviors changed over time? What impact does time since transition have on their reflections, if any?
-2. Attitudes to change: 
+
+**Attitudes to change:**
   * What are the variables that impact a user's comfort/adaptability to a transition?
   * How do they feel? What concerns them when it comes to transitions?
-3. Impacting future behaviors / reacting to low-fi concepts:
+
+**Impacting future behaviors / reacting to low-fi concepts:**
   * When looking at/for a new path by which to access their healthcare online, what do they look for?
   * To them, what indicates the path of least resistance?
   * What indicates that this is an experience they can trust? What would they expect from a trustworthy experience?
