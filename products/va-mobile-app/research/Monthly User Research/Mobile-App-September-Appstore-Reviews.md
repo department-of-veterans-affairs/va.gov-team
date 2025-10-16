@@ -867,41 +867,14 @@ Ensure users have a clear way to exit survey requests in app.
  
 
   
-### App Support 
-
- 
-
-Several users left reviews because they needed support using the app.  
-
- 
-
-#### Pain Points 
-
-1. Can’t reach a person via phone (1) 
-
-2.  Inability to resolve issue, requesting assistance (1) 
-
- 
-
-#### Representative Responses: 
-
- 
-
-> this app sucks. the government fired all the people who answer the phone so now we are stuck with all the stupid chat box who are NOT HELPING AT ALL! 
- 
-<br> 
- 
-> I’m currently in the transition to retirement and trying to save my banking information in the VA app, but it’s not saving. Could you please assist with troubleshooting this issue or provide guidance on how to resolve it? 
-
- 
 
 ### Other pain points 
 
   
 
-#### Latency 
+#### Latency (3)
 
-Several users this month (3) reported issues with delays and latency problems.  
+Several users this month reported issues with delays and latency problems.  
  
 ##### Representative responses: 
  
@@ -921,7 +894,7 @@ Several users this month (3) reported issues with delays and latency problems.
 
 <br> 
  
-#### Difficult  
+#### Difficult  (3)
 
 Several users mentioned the app being difficult for them or having too many steps. 
  
@@ -946,9 +919,10 @@ Several users mentioned the app being difficult for them or having too many step
 
    
 
-#### Sending users to the website 
+#### Sending users to the website (2)
 Several users this month noted frustration with the app sending you to the website versus having the functionality built into the app. This reduces the appeal of using the app, and some users noted defaulting to the website because of this. 
 
+##### Representative Responses:
  
 
 > Everything ends up going through the VA.GOV website anyway, so just use a web browser and save your time. 
@@ -958,6 +932,33 @@ Several users this month noted frustration with the app sending you to the websi
 > the app opens a website. so it is not really an app. 
  
 <br> 
+
+#### Needing App Support 
+
+ 
+
+Several users left reviews because they needed support using the app.  
+
+ 
+
+##### Pain Points 
+
+1. Can’t reach a person via phone (1) 
+
+2.  Inability to resolve issue, requesting assistance (1) 
+
+ 
+
+##### Representative Responses: 
+
+ 
+
+> this app sucks. the government fired all the people who answer the phone so now we are stuck with all the stupid chat box who are NOT HELPING AT ALL! 
+ 
+<br> 
+ 
+> I’m currently in the transition to retirement and trying to save my banking information in the VA app, but it’s not saving. Could you please assist with troubleshooting this issue or provide guidance on how to resolve it? 
+
  
 
 ### Common themes 
@@ -985,7 +986,7 @@ Over 86 reviews this month praised the app for how easy it is to use.
  
 <br> 
  
-#### VA General feedback  
+#### VA General feedback (49)
 
 VA General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app (49 reviews this month). The majority of this type of feedback was positive reflections on received VA care, some users express frustration or lack of trust in the VA. 
  
