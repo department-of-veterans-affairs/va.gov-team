@@ -54,32 +54,30 @@ Before we look at the form, I have a few questions about your experience with VA
 
   
 
-Has applied
+**Has applied**
 
-*   According to the information I got from Perigean, you have applied for VA disability compensation before. Is that correct?
+- According to the information I got from Perigean, you have applied for VA disability compensation before. Is that correct?
     
-*   Did you apply for your disability benefits online or on paper?
+- Did you apply for your disability benefits online or on paper?
     
-*   Could you share a bit about your experience completing the Disability compensation application form?
+- Could you share a bit about your experience completing the Disability compensation application form?
     
-*   What can you share about the experience providing documentation as part of that process?
+- What can you share about the experience providing documentation as part of that process?
+  
+   - How did you know what documents to provide?
     
-
-*   How did you know what documents to provide?
-    
-
-*   What type of support or resources did you use to complete your claim — or what support do you wish you had?
+- What type of support or resources did you use to complete your claim — or what support do you wish you had?
     
 
   
 
-Has not applied.
+**Has not applied**
 
-*   According to the information I got from Perigean, you have not applied for VA disability benefits before. Is that correct?
+- According to the information I got from Perigean, you have not applied for VA disability benefits before. Is that correct?
     
-*   Can you share what you know about applying for disability compensation benefits?
+- Can you share what you know about applying for disability compensation benefits?
     
-*   Has anything in particular kept you from applying?
+- Has anything in particular kept you from applying?
     
 
 Thank you for sharing your experience.
@@ -97,57 +95,37 @@ Once you open the link, please share your screen. Let me know if you need help. 
 
 ### Screenshare instructions/troubleshooting
 
-*   For “mobile“ participants:
+- For “mobile“ participants:
+  -  Do you have an iPhone or an Android phone?
+    - iPhone:
+        -  Go back to Zoom and then hit share
+        -  [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
     
 
-*   Do you have an iPhone or an Android phone?
+- Android:
+    -[Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+    
+    -  If they are a “mobile” participant but joined on their desktop (and if asking them to rejoin on their phone is too time-consuming):
+    - Please feel free to access the link on your computer.
+    
+- For “desktop” participants:
+    - On the bottom of your Zoom screen, there should be a “Share” button in the middle (it should be in green). Please click on that.
+    - Please make sure “Desktop” is selected/highlighted.
+    - Please click “Share” again at the bottom.
     
 
-*   iPhone:
-    
-
-*   Go back to Zoom and then hit share
-    
-*   [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-    
-
-*   Android:
-    
-
-*   [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
-    
-
-*   If they are a “mobile” participant but joined on their desktop (and if asking them to rejoin on their phone is too time-consuming):
-    
-
-*   Please feel free to access the link on your computer.
-    
-
-*   For “desktop” participants:
-    
-
-*   On the bottom of your Zoom screen, there should be a “Share” button in the middle (it should be in green). Please click on that.
-    
-*   Please make sure “Desktop” is selected/highlighted.
-    
-*   Please click “Share” again at the bottom.
-    
-
-*   For “tablet” participants:
-    
-
-*   Instructions should be similar to “mobile”
-    
-*   If you are on an iPad or Tablet, the button is hidden in the bottom of your screen. Tap anywhere on your screen, a “tool bar” will show up at the bottom of the screen, and the share button should be within the tool bar (you may need to drag the tool bar to the left to see it). should show up until you hover over them!
+- For “tablet” participants:
+    - Instructions should be similar to “mobile”
+    - If you are on an iPad or Tablet, the button is hidden in the bottom of your screen. Tap anywhere on your screen, a “tool bar” will show up at the bottom of the screen, and the share button should be within the tool bar (you may need to drag the tool bar to the left to see it). should show up until you hover over them!
     
 
 ### Context setting
 
 Now that I can see your screen, I see you have entered our prototype. It looks like the VA.gov website that you may be familiar with. We’re going to show you a few parts of the application just so you know what happens before we get to the part that we want your thoughts on. So let’s imagine you’ve logged onto [va.gov](http://va.gov) to file a claim online and you’re ready to start the application. Go ahead and click “File a disability claim online”
 
-*   Veteran details page: You enter in some details about yourself. Normally there’s a lot more information to fill out, but for the purposes of this session, let’s fast forward to the next section. Please click continue.
+- Veteran details page: You enter in some details about yourself. Normally there’s a lot more information to fill out, but for the purposes of this session, let’s fast forward to the next section. Please click continue.
     
-*   Conditions: And because this is a disability compensation application, you’re going to enter conditions you’re looking to claim. Let’s say for the sake of this session, you’ve entered that you have anxiety and arthritis. Please click continue.  
+- Conditions: And because this is a disability compensation application, you’re going to enter conditions you’re looking to claim. Let’s say for the sake of this session, you’ve entered that you have anxiety and arthritis. Please click continue.  
     
 
 And now, from here we’d like to go slower and get your feedback on these next pages.
@@ -168,9 +146,7 @@ Things to watch for:
   
   
 
-Overall Evidence Orientation
-
-  
+**Overall Evidence Orientation**
 
 Okay first, we would like to ask you to read through this page and share your thoughts aloud with us as you do. This might look like, “I am seeing this box here and it is making me think X,” or "I read this paragraph and it's telling me to do Y." This might feel funny, but it is a great way for us to gather your feedback and know if this page is working as we intended.
 
@@ -178,36 +154,16 @@ I just want to reiterate: In this session we are testing this design, not you. W
 
 Go ahead and take a moment to review the page. Feel free to scroll up and down..
 
-*   Can you share with us what you are thinking?
+- Can you share with us what you are thinking?
+    - When you first landed on this page, what did you notice first?
+- What is the most important piece of information on this page for you right now? Why?
+- (If they didn’t notice the blue box) What can you tell me about this box?
+    -  Without clicking on the link, what do you think happens when you click on it?
+    -  (Once opened) What can you tell me about the information in it?
+- Do you have questions about the content of this page?
+    - Is there anything that is confusing/unclear/missing?
+- What do you expect will happen next?
     
-
-*   When you first landed on this page, what did you notice first?
-    
-
-*   What is the most important piece of information on this page for you right now?
-    
-
-*   Why?
-    
-
-*   (If they didn’t notice the blue box) What can you tell me about this box?
-    
-
-*   Without clicking on the link, what do you think happens when you click on it?
-    
-*   (Once opened) What can you tell me about the information in it?
-    
-
-*   Do you have questions about the content of this page?
-    
-
-*   Is there anything that is confusing/unclear/missing?
-    
-
-*   What do you expect will happen next?
-    
-
-  
 
 Let’s move to the next page. 
 
@@ -215,112 +171,64 @@ Let’s move to the next page. 
   
   
 
-Medical Records: Orientation Page
+**Treatment Records: Orientation Page**
 
 Go ahead and take a moment to review the page. Feel free to scroll up and down..
 
-*   Can you share with us what you are thinking?
+- Can you share with us what you are thinking?
+- Do you have questions about the content of this page?
+    - Is there anything that is confusing or unclear?
+    - Is there anything missing?
+    -  What kind of information would be helpful to have here?
+- What do you think will happen if you click yes?
+- What do you think will happen if you click no?
     
-*   Do you have questions about the content of this page?
-    
-
-*   Is there anything that is confusing or unclear?
-    
-*   Is there anything missing?
-    
-*   What kind of information would be helpful to have here?
-    
-
-*   What do you think will happen if you click yes?
-    
-*   What do you think will happen if you click no?
-    
-
-  
-
 Let’s have you select no and then move on to the next page. 
 
   
   
 
-0781 Doc Upload: Orientation Page
+**0781 Doc Upload: Orientation Page**
 
 These next few pages we’re going to take our time, let you read the content, and ask a few questions.
 
-*   Help me understand what you're seeing on this page. 
-    
-*   What is the most important piece of information on this page for you right now? Why?
-    
+- Help me understand what you're seeing on this page. 
+- What is the most important piece of information on this page for you right now? Why?
+     - Can you quickly find this information? What helps/hinders?
+- From your perspective, how useful is the content presented on this page?
+    - Is there anything that is confusing or unclear?
+    - Does the way evidence is grouped here align with your expectations?
+- Anything you'd expect to see that you're not seeing? What's missing?
+- What do you think will happen if you click yes?
+- What do you think will happen if you click no?
 
-*   Can you quickly find this information? What helps/hinders?
-    
-
-*   From your perspective, how useful is the content presented on this page?
-    
-
-*   Is there anything that is confusing or unclear?
-    
-*   Does the way evidence is grouped here align with your expectations?
-    
-
-*   Anything you'd expect to see that you're not seeing? What's missing?
-    
-*   What do you think will happen if you click yes?
-    
-*   What do you think will happen if you click no?
-    
-
-  
 
 Let’s have you select yes and then move on to the next page.
 
   
 
-0781 Doc Upload: Upload Pages
+**0781 Doc Upload: Upload Pages**
 
-*   Can you share what you’re thinking as you look at this page?
-    
-*   If they don’t open the additional info, prompt them to
-    
-
-*   Scanning instructions: how useful is this content? Is there anything that is confusing/unclear? 
-    
-
-*   If they don’t open the accordion, prompt them to
-    
-
-*   How useful is this content here?
-    
-*   (If they don’t notice on their own) This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
-    
-
-*   Do you feel like you have enough information to choose the right documents?
-    
-
-*   What are the things you consider when deciding what kind of document/evidence to include?
-    
-
-*   Considering that for this scenario, you have anxiety and arthritis, what would you do on this page?
+- Can you share what you’re thinking as you look at this page?
+- If they don’t open the additional info, prompt them to
+    - Scanning instructions: how useful is this content? Is there anything that is confusing/unclear? 
+- If they don’t open the accordion, prompt them to
+    -  How useful is this content here?
+    -  (If they don’t notice on their own) This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
+- Do you feel like you have enough information to choose the right documents?
+    - What are the things you consider when deciding what kind of document/evidence to include?
+- Considering that for this scenario, you have anxiety and arthritis, what would you do on this page?
     
 
 Let’s pretend you’re going to upload a file. How would you do that?
 
-  
-
 Let’s pretend that you went through all the steps to upload the document  (selecting a file from your folder, etc) and you end up here. 
-
-  
-
-*   What are you seeing here?
+-  What are you seeing here?
     
 
-  
 
 Let’s pretend you want to upload another file. How would you do that?
-
-  
-
-*   What are you seeing here?
+- What are you seeing here?
     
 
   
@@ -330,23 +238,14 @@ Before you continue on to the next page, what do you expect to see next? Great, 
   
   
 
-0781 Doc Upload: Summary page
+**0781 Doc Upload: Summary page**
 
-  
-
-*   Can you share what you’re thinking as you look at this page?
-    
-*   Does this reflect the actions you took on the previous page?
-    
-*   Is there anything you’d expect to see on this page that isn’t there now?
-    
-*   Delete a file
-    
-
-*   Let’s say you wanted to delete the police report. How would you do that? (actually go through and delete)
-    
-
-*   What do you think happens when you click on continue?
+- Can you share what you’re thinking as you look at this page?
+- Does this reflect the actions you took on the previous page?
+- Is there anything you’d expect to see on this page that isn’t there now?
+- Delete a file
+    - Let’s say you wanted to delete the police report. How would you do that? (actually go through and delete)
+- What do you think happens when you click on continue?
     
 
   
@@ -356,63 +255,32 @@ Let’s go on to the next page. 
   
   
 
-Other Supp Docs: Orientation page
-
-*   Help me understand what you're seeing on this page. 
-    
-*   From your perspective, how useful is the content presented on this page?
-    
-
-*   Is there anything that is confusing or unclear?
-    
-*   Is there anything missing?
-    
-*   Does the way the evidence is grouped here align with your expectations?
-    
-
-*   If they don’t open the accordion, prompt them to
-    
-
-*   How useful is this content here?
-    
-*   What do you expect to see if you were to click on the links?
-    
-
-*   What is the most important piece of information on this page for you right now? Why?
-    
-
-*   Can you quickly find this information? What helps/hinders?
-    
-
-*   Do you feel like you have enough information to choose the right documents?
-    
-
-*   What are the things you consider when deciding what kind of document/evidence to include?
-    
-
-*   What do you think will happen if you click yes?
-    
-*   What do you think will happen if you click no?
-    
-*   What do you think happens when you click on continue?
+**Other Supp Docs: Orientation page**
+-  Help me understand what you're seeing on this page. 
+- From your perspective, how useful is the content presented on this page?
+    - Is there anything that is confusing or unclear?
+    - Is there anything missing?
+    - Does the way the evidence is grouped here align with your expectations?
+-  If they don’t open the accordion, prompt them to
+    -  How useful is this content here?
+    -  What do you expect to see if you were to click on the links?
+- What is the most important piece of information on this page for you right now? Why?
+    - Can you quickly find this information? What helps/hinders?
+- Do you feel like you have enough information to choose the right documents?
+    - What are the things you consider when deciding what kind of document/evidence to include?
+- What do you think will happen if you click yes?
+- What do you think will happen if you click no?
+- What do you think happens when you click on continue?
     
 
 Other Supp Docs: Upload page
 
-*   Can you share what you’re thinking as you look at this page?
-    
-*   If they don’t open the additional info, prompt them to
-    
-
-*   Scanning instructions: how useful is this content? Is there anything that is confusing/unclear? 
-    
-
-*   If they don’t open the accordion, prompt them to
-    
-
-*   How useful is this content here?
-    
-*   \[If they don’t notice on their own\] This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
+- Can you share what you’re thinking as you look at this page?
+- If they don’t open the additional info, prompt them to
+    - Scanning instructions: how useful is this content? Is there anything that is confusing/unclear? 
+-  If they don’t open the accordion, prompt them to
+    - How useful is this content here?
+- \[If they don’t notice on their own\] This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
     
 
 Let’s pretend you’re going to upload a file. How would you do that?
@@ -420,10 +288,7 @@ Let’s pretend you’re going to upload a file. How would you do that?
   
 
 Let’s pretend that you went through all the steps to upload the document  (selecting a file from your folder, etc) and you end up here. 
-
-  
-
-*   What are you seeing here?
+-  What are you seeing here?
     
 
   
@@ -433,13 +298,11 @@ Ok, let’s continue to the next step. 
   
   
 
-Other Supp Docs: Summary page
+**Other Supp Docs: Summary page**
 
-*   Can you share what you’re thinking as you look at this page?
-    
-*   Is there anything you’d expect to see on this page that isn’t there now?
-    
-*   What would you expect to see next if you pressed continue?
+- Can you share what you’re thinking as you look at this page?
+- Is there anything you’d expect to see on this page that isn’t there now?
+- What would you expect to see next if you pressed continue?
     
 
   
@@ -449,31 +312,16 @@ Other Supp Docs: Summary page
 
 We’re going to wrap up at this step in the process. Thanks for walking through those pages with us! We just have a few final reflection questions.
 
-  
-
-*   How did that set up pages line up with what you expected?
-    
-
-*   What things led you to have those expectations?
-    
-*   (If yes) What helped you feel prepared?
-    
-*   (If no) What were the moments that were unexpected or confusing?
-    
-
-*   Did the headings and instructions help you understand what to upload?
-    
-*   Were there any instructions or parts of the process that were hard to remember or keep track of?
-    
-*   Did the summary screens help you reflect and confirm your choices?
-    
-*   Imagine a Veteran who wanted to file a claim for a mental health condition asked you about the process. If you had to describe the steps of submitting evidence to them, what would you say?
-    
-
-*   (if confused/wrong, then clarify the steps) What would have made that clearer?
-    
-
-*   Do you have any questions for me before we end the session?
+-  How did that set up pages line up with what you expected?
+    - What things led you to have those expectations?
+    - (If yes) What helped you feel prepared?
+    - (If no) What were the moments that were unexpected or confusing?
+- Did the headings and instructions help you understand what to upload?
+- Were there any instructions or parts of the process that were hard to remember or keep track of?
+- Did the summary screens help you reflect and confirm your choices?
+- Imagine a Veteran who wanted to file a claim for a mental health condition asked you about the process. If you had to describe the steps of submitting evidence to them, what would you say?
+    - (if confused/wrong, then clarify the steps) What would have made that clearer?
+- Do you have any questions for me before we end the session?
     
 
   
