@@ -80,11 +80,12 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- Do you receive direct deposit for your monthly compensation payments?
+- If yes: do you mind sharing what your disability rating is ?
+- Do you receive direct deposit for your monthly compensation payments via direct deposit today?
 - If no, skip to question 2.
 2. Have you ever heard of the Foreign Medical Program through the VA before?
-  - If so, can you describe what it is in your own words?
+  - If so, are you registered?
+  - Can you describe what it is in your own words?
   - Have you ever filed a reimbursement claim before?
   
 
@@ -94,7 +95,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
 - Open the prototype and take a minute to look it over and please remember to think aloud.
 - Based on this page, what would you do next if you were filing your first FMP claim today?
-
+- Can you state in your own words what the information and alert on this page means?
+- On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the clarity of information on this first page?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -107,8 +109,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - [ ] If the participant, does not navigate to the static page on their own, direct them to open the "how to setup direct deposit" link in the Figma prototype
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
-- What are your impression of this page and your understanding of the content here? Please remember to think aloud.
-- On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the intructions on this page?
+- What are your impressions of this page and your understanding of the content here? Please remember to think aloud.
+- Same as before, on a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the instructions on this page?
 - Would you call out anything on this page as being either especially helpful or confusing for you?
   
 
@@ -124,7 +126,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [ ] Might have to redirect to prototype link here
 - Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page. We would like you to focus your feedback on the content and information on the page so we can work to make that better for Veterans.
 - [ ] Participant arrives at Confirmation Page
-- Now this is the page where you have submitted your FMP Claim online. Can you please explain to me your understanding of what happens next and any action you might need to take?
+- Now this is the page where you have submitted your FMP Claim online. Can you explain to me your understanding of what happens next and any action you might need to take?
 - What is your confidence rating - 1 being very low and 5 being very high - that you have direct deposit correctly set up based on this prototype and this page here?
 
 > [!NOTE]
