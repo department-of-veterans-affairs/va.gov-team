@@ -72,7 +72,8 @@ Before we start, I have a few things that I want to go over with you:
 
 - [ ] Are you using any assistive technology (like a screen reader) during this task?
 - [ ] What device, operating system and browser are you using today?
-- [ ] How familiar are you with chatbots? Have you used them in the past? Which ones? If so, how many times in the last month, 6 months, year? 
+- [ ] How familiar are you with chatbots? Have you used them in the past? Which ones? If so, how many times in the last month, 6 months, year?
+- [ ] If you ever have a question or an issue with VA.gov, what method do you ussually use to get the question answered or to get your issue resolved?
 
 
 ## Veterans: 20-30 minutes
@@ -238,7 +239,7 @@ Follow up questions:
 - [ ] Did you notice the disclaimer at the beginning? Did it affect how you used the chatbot?
 - [ ] Were you concerned about sharing privacy or personal information?
 - [ ] Were the chatbot answers the right length for you?
-- [ ] Did you ever with for more or less details?
+- [ ] Did you ever wish for more or less details?
 - [ ] Was the chatbot what you expected? In what ways did it meet or differ from your expectations?
 - [ ] Do you use other chatbots? How is this similar or different?
 - [ ] If the chatbot didn’t answer your question, what did you do next? Did you feel stuck?
@@ -247,6 +248,7 @@ Follow up questions:
 - [ ] Do you notice anything specific that you suggest we correct or change that would improve the user experience?
 - [ ] Was the chatbot’s behavior what you expected? If not, in what ways was it different?
 - [ ] Was your experience different of similar to your experience with chatbots you've used before? How similar/different?
+- [ ] Now, after using the VA chatbot to troubleshoot some login issues, would you use chatbot in the future to answer any questions or help solve any potential issues you might have?
 - [ ] Any other comments or suggestions?
 - [ ] Any questions for me? 
 
