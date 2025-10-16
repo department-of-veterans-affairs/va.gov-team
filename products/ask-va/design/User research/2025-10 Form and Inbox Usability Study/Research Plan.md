@@ -80,6 +80,13 @@ Veteran submitters don’t understand the internal routing processes to get thei
 **Location:** Remote over Zoom  
 **Timeframe:** 60 minutes
 
+### Comparative study plan
+
+|  | Group A \- Prod then Proto | Group B *\-* Proto then Prod |
+| :---- | :---- | :---- |
+| Participants | <ul><li> **Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li> **Veterans** (3-4)</li>  <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
+| Task Order | **Production** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Prototype**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> | **Prototype** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Production**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol>  |
+
 ## Research materials
 
 **For moderated usability test:**
