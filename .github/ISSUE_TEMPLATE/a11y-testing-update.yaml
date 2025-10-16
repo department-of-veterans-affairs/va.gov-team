@@ -91,7 +91,7 @@ body:
         - label: <strong>Headings match the content hierarchy and use proper HTML tags. (Required)</strong> <br/>Headings accurately reflect content hierarchy and are semantically marked. (WEB-131-001)
         - label: <strong>Headings follow a logical order without skipping levels. (Required)</strong><br/>Heading levels follow a logical, sequential, hierarchy with no skipped heading levels. (WEB-131-002)
         - label: <strong>There is one H1 per page/screen. (Required)</strong></br/>A single H1 exists for every page or screen. (WEB-131-003)
-        - label: <strong>Each page has a unique, descriptive title (WEB-242).</strong> <br/>Each web page, or screen, has a unique and descriptive title reflecting its purpose.
+        - label: <strong>Each page has a unique, descriptive title. (Required)</strong> <br/>Each web page, or screen, has a unique and descriptive title reflecting its purpose. (WEB-242)
         - label: <strong>Headings are descriptive. (Required)</strong> <br/>Heading text accurately describes the topic or purpose of the content that follows. (WEB-246-001)
         - label: <strong>Lists use proper list formatting. (Recommended)</strong><br/> All visually apparent lists are marked up using semantic list types. (WEB-131-004)
         - label: <strong>Content is organized into sections. (Recommended)</strong><br/> Where content is organized in sections, section headings are provided. (WEB-2410)
