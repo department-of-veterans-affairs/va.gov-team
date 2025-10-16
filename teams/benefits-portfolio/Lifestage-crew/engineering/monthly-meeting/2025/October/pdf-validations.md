@@ -15,11 +15,12 @@
 |-
 
 ### Running rspec
-#### Terminal output (This should fail since the PDF is different now but our code hasn't been updated yet right?)
+#### Terminal output (This should fail since the PDF is different now but our code hasn't been updated yet, right? Right?!?)
 |<img width="1000" alt="Rspec run" src="https://github.com/user-attachments/assets/13e5b1e6-a8b0-4199-b048-828f1b2ca5ca" />
 |-
 
-### Visual inspection
+
+### Since that didn't fail like expected, let's try some visual inspection
 #### Fixture spec (Expected)
 |<img width="1000" alt="kitchen_sink fixture" src="https://github.com/user-attachments/assets/25644c3d-7702-4d9d-a6aa-354f6276d8ea" />
 |-
@@ -28,10 +29,10 @@
 |<img width="1000" alt="kitchen_sink generated via Rspec specs" src="https://github.com/user-attachments/assets/2691dceb-69c7-49ce-a3f2-733cff8629e5" />
 |-
 
-### How are we testing?
+### Hmm, maybe we should look at how we are doing our testing?
 #### `modules/pensions/spec/lib/pensions/pdf_fill/va21p527ez_spec.rb`
 ```ruby
-it_behaves_like 'a form filler', {
+it_behaves_like 'a form filler', { # <-- This is a shared example called 'a form filler'
   form_id: described_class::FORM_ID,
   factory: :pensions_saved_claim,
   use_vets_json_schema: true,
@@ -58,7 +59,7 @@ RSpec.shared_examples 'a form filler' do |options|
 end
 ```
 
-#### `match_pdf_fields`
+#### Let's look at `match_pdf_fields`
 ```ruby
 RSpec::Matchers.define :match_pdf_fields do
   match(notify_expectation_failures: true) do |actual|
