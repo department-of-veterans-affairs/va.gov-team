@@ -1,4 +1,4 @@
-# Card Component Error State Design Decisions
+# Card - Status Design Decisions
 Last updated: 10/16/2025
 
 This document outlines the key design decisions made for implementing error states in the VA Design System Card component. These Architecture Decision Records (ADRs) capture the context, decisions, and consequences of our design choices to ensure consistency and provide guidance for future development.
