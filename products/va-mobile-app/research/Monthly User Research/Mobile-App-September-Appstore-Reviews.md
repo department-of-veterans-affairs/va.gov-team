@@ -12,17 +12,11 @@ Feedback includes 468 total responses, each with a rating of 1-5. Ratings of 1-2
   
 
 | Rating | % of ratings | # of ratings | 
-
 |--|--|--| 
-
 | = 1 | 15% | 69 | 
-
 | = 2 | 6 | 28 | 
-
 | = 3 | 8% | 36 | 
-
 | = 4 | 9% | 42 | 
-
 | = 5 | 62% | 293 | 
 
   
@@ -45,11 +39,8 @@ Suggestions for improvement focused on a need for consistency in detailed appoin
   
 
 | Rating | % of ratings | # of ratings | 
-
 |--|--|--| 
-
 | = 4 | 9% | 42 | 
-
 | = 5 | 62% | 293 | 
 
  
@@ -89,11 +80,8 @@ Positive reviews of the app this month consistently praised the app’s convenie
 ### Negative 
 
 | Rating | % of ratings | # of ratings | 
-
 |--|--|--| 
-
 | = 1 | 15% | 69 | 
-
 | = 2 | 6 | 28 | 
 
  
@@ -135,9 +123,7 @@ Most commonly negative reviews are directly linked to errors that prevent users 
 ### Neutral 
 
 | Rating | % of ratings | # of ratings | 
-
 |--|--|--| 
-
 | = 3 | 8% | 36 | 
 
  
@@ -188,30 +174,18 @@ During the month of September Sign In feature in the app go the most reviews (43
  
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Navigation | 4.5 | 14 | 
-
 | Sign In | 2.5 | 43 | 
-
 | Claims | 5 | 4 | 
-
 | Letters and documents | 1.75 | 4 | 
-
 | Profile | 4.2 | 5 | 
-
 | Payments | 3 | 2 | 
-
 | Travel Pay | 2 | 22 | 
-
 | Messaging | 3.2 | 33 | 
-
 | Prescriptions | 4 | 18 | 
-
 | Appointments | 3.26 | 23 | 
 | Medical Records | 3 | 4 | 
- 
 | Notifications or Alerts | 2 | 3 | 
  
 
@@ -222,9 +196,7 @@ During the month of September Sign In feature in the app go the most reviews (43
 ### Navigation 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Navigation | 4.5 | 14 | 
 
 Users often mention navigation specifically as a reason the app is so easy to use, and their needed information is so accessible to them. Newer users often mention a slight learning curve but find the app easy to navigate once they are familiar with it. Common concerns with navigation include the inability to locate key features that may be nested in unexpected places. Specifically secure messaging, travel pay within appointments, and occasionally users report that sign-out feels buried under settings within the users profile. 
@@ -284,9 +256,7 @@ Consider a search or guide that users can utilize to locate features they have t
 ### Sign In 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 |Sign In | 2.5 | 43 | 
 
 Veterans frequently experience frustrating and unreliable sign-in processes with the VA app, including looping login screens, repeated authentication requests, and frequent changes in required login methods. While some users report improvements with biometric login, many find it difficult to stay signed in or access their accounts, leading some to abandon the app entirely. 
@@ -355,9 +325,7 @@ Veterans frequently experience frustrating and unreliable sign-in processes with
 ### Claims 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Claims | 5 | 4 | 
 
 Only three reviews during the month of September mentioned claims specifically and all gave the app a 5 star rating. Users find it very quick and easy to access claims information from the app, mentioned specifically liking the format and ability to upload documents from the app.  
@@ -400,9 +368,7 @@ Improved claims processing speed (1)
 ### Letters and documents 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Letters and documents | 1.75 | 4 | 
 
 Veterans are frustrated by inconsistencies between the VA app, website, and mail, as important claims and decision letters are missing or scattered across platforms, requiring them to check multiple sources. The lack of comprehensive access and unresolved system problems leads to dissatisfaction. 
@@ -448,9 +414,7 @@ Unable to locate proof of insurance under letters (1)
 ### Profile 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Profile | 4.2 | 5 | 
 
 Veterans appreciate the VA mobile app as a convenient, modern way to access their information, likening it to an "I Love Me" binder for personal records. However, they find certain functions—such as signing out, updating profile details, and changing contact information—confusing or difficult to navigate. 
@@ -507,9 +471,7 @@ Make sign out easier to locate from the profile menu.
 ### Payments 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Payments | 3 | 2 | 
 
 Only one Veteran in September mentioned payments specifically and reported being unable to save their banking information in the app requesting assistance to do so. 
@@ -530,9 +492,7 @@ Representative responses:
 ### Travel Pay 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Travel Pay | 2 | 22 | 
 
 Veterans have mixed experiences with Travel Pay in the VA mobile app; while some find it easier than previous processes and appreciate features like days remaining reminders attached to their VA appointments, many struggle to locate the travel reimbursement option at all. Of those who struggled to locate it, the majority were new users specifically looking for travel pay after a marketing campaign was launched recently by the VA. Users also request the ability to submit travel reimbursement claims for community care, an important element for rural VA users who rely on community care for a significant portion of their healthcare services. Two user report that the function in the app did not work for them and they were unable to file.  
@@ -594,9 +554,7 @@ Travel pay is a desirable feature that may warrant a specific section of its own
 ### Messaging 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Messaging | 3.2 | 33 | 
 
 Veterans find the messaging feature of the VA app convenient and helpful for communicating with their care teams, noting quick responses and improved ease compared to previous systems. However, many report frustrations with accessing secure messaging, difficulty composing or deleting messages, and changes after updates that limit their ability to reach the correct providers or use the feature reliably. New users often report difficulty locating messaging once they are in the app.   
@@ -675,9 +633,7 @@ Direct users to messaging from the homepage of the application. Users don’t al
 ### Prescriptions 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Prescriptions | 4 | 18 | 
 
 Veterans provided mixed feedback on the VA mobile app’s Prescription feature, praising its ease of use and convenience for ordering refills but expressing frustration with confusing navigation, unclear refill submission steps, outdated payment and prescription information, and issues with medication tracking. Suggestions included making the refill process more intuitive, displaying prescribing doctors, and improving accuracy and timeliness of information. 
@@ -758,9 +714,7 @@ Consider additional information reflecting in the app as related to medications 
  
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Appointments | 3.26 | 23 | 
 
  
@@ -828,9 +782,7 @@ Difficult to perceive/distinguish (1)
 ### Medical Records 
  
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Medical Records | 3 | 4 | 
 
  
@@ -878,9 +830,7 @@ Enable ability to print and/or download results
 ### Notifications and Alerts 
 
 | Feature | average rating | # of ratings | 
-
 |--|--|--| 
-
 | Notification and Alerts | 2 | 3 | 
 
  
