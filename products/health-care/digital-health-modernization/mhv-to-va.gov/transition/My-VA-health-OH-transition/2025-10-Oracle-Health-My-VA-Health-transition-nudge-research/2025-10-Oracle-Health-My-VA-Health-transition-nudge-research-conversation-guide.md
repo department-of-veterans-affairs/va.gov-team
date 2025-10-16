@@ -2,14 +2,22 @@
 ## My VA Health transition "nudge" research study
 
 **Moderator logistics**
+### Logistics to confirm periodically
+* Check Settings -> Meeting -> In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+* Check Settings -> Meeting -> In Meeting (Basic) > Sound notification when someone joins or leaves is OFF
+* Check Settings -> Meeting -> In Meeting (Basic) > Screen sharing > Who can share > All Participants
+* Check Settings -> Meeting -> In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 
 ### 2-3 days before the session
-> [!NOTE] Review VA Platform's Research Checklist.  
+* Confirm notetaker availability
+* Let notetaker know if anything has changed in the conversation guide
+* Determine task rotation order based on final sample size 
 
 ### Day of the session
 - Use `#feedback-backchannel` in Slack for real-time feedback from observers.
 - Mute your Slack notifications.
 - Send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into `#feedback-backchannel`).
+- Sign into Zoom website via Google as Perigean w/ credentials provided and start Zoom meeting 5-10 minutes before.
 
 ### Starting the session
 - In the Attendees section, make sure everyone except the participant is on mute.
@@ -32,16 +40,25 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
   - [Record answer here]
 - Please find support in helping the user share their screen here: [https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
 
-## Part 1: Participant shares screen and shows how they currently do a few tasks in their patient portal
-(20 minutes) 
+## Warm-up (5 mins) 
+
+
+## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
+
+### Sign in and show us how they access their patient portal
 * Can you tell me about the last time you signed into your health portal to do something? What were you trying to do, and how was your experience? 
-* Could you show me how you typically get to your patient portal to manage your healthcare online now? 
+* Could you show me how you typically get to your patient portal to manage your healthcare online now?
+* What other things do you typically do when you are here?
+  
 
-## Part 2: Participant reacts to prototypes
-Participant should already be sharing their screen.
-Return to chat portion of Zoom and select hyperlink to a prototype. 
+## Part 2: Prototype / Reactions to planned tactics (20 mins) 
 
-View Figma prototype and click through when prompted to complete two tasks. 
+### Opening the Figma prototype
+- For this portion of the interview, we will be using what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website but all information is fake. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype.
+
+- To get to the prototype, I need you to go back to the Zoom window and click on the chat icon at the bottom of your screen. It should look like a little conversation bubble with three dots inside. Do you see it?
+- In the chat I just dropped a link to a prototype. Can you select that link? It will open up in a web browser momentarily.
+- Like I said before, this is not an actual website, it is a prototype. But it will look a lot like the VA.gov website and we will show you some ideas that we exploring.
 
 
 ## Consent to use video clips
@@ -49,7 +66,7 @@ View Figma prototype and click through when prompted to complete two tasks.
 - Is there any part of our conversation you would NOT want included?
   - [Record answer here]
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing - (5 mins)
 Thank you so much for joining us today and sharing your feedback. It really helps us make this tool better for all Veterans.  
 Perigean will follow up with a thank-you after the session.
 
