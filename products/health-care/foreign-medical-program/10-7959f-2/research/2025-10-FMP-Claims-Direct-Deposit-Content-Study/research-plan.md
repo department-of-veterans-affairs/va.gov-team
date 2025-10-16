@@ -95,7 +95,7 @@ veteran_journey_phases:
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "Link to related past research"
+    - "[Link to related past research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-1/research/users)"
     
 tags:
   - "product-area"
