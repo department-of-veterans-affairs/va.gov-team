@@ -47,7 +47,7 @@ graph TB
         end
     end
     
-    MAP[MAP(A collection of services connecting to VISTA and HSRM)]
+    MAP[MAP(Services connecting to VISTA and HSRM)]
     HSRM[HSRM(HealthShare Referral Manager)]
     EPS[EPS(Wellhive System for appointments and providers)]
 
