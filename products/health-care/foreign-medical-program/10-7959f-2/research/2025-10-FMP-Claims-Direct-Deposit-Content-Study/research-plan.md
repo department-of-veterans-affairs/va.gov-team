@@ -45,10 +45,11 @@ recruitment:
   approach: "lean maximum variation"
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
-    
+    - "[Current disability rating of 10-100]"
+    - "[Living abroad]"
+    - "[At least 2 participants who are female]"
+    - "[At least 2 participants who are over 55 years old]"
+
   secondary_criteria:
     - "No more than 2 participants per each race/demographics category"
     
