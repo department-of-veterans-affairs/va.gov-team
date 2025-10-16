@@ -409,5 +409,5 @@ There is an active version deployed to the dev environment currently.  However, 
 - **Matthew Kerns**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Luciana Alexander Morais on [10-16-2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
