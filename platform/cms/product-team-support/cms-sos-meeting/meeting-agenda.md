@@ -5,11 +5,20 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 10/16/2025
 * Flagged Facilities sync (continuous agenda item)
+   * CMS Platform team has updated the Flagged Facility runbook issue templates
+   * CMS Platform team can set up a 1-off session with the Sitewide folks to review the processes and ticket ownership
 * Drupal 11 Upgrade testing
+   * Sitewide team should account time for testing in early 2026 for the Drupal 11 update testing
+   * More to come in this SoS meeting as planning is underway
 * Migration
   * Outreach Hub
+    * Laura to ask Randi
   * Forms detail pages
+    * This is being migrated by CMS Platform team, but sitewide team will be making changes soon
+       * Timing should work out where migration can be finished and Sitewide can make changes on the migrated version
+    * CMS Platform team to touch base with Sitewide folks to understand labels on their board so we understand what work is coming up
   * CTA analytics
+    * Laura to reach out to Randi
 
 10/02/2025
 * [Guidance on seeking support from the Platform CMS Team](https://dsva.slack.com/docs/T03FECE8V/F09GWJK37PB)
