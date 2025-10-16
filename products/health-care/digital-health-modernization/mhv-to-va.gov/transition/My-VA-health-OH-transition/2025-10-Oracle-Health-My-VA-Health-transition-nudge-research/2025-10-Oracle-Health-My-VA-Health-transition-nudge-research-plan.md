@@ -40,36 +40,37 @@ As we think about the transition rollout at Columbus, there are two key target t
 
 ## Methodology 
 **Location**
-* 60 minute video interviews over Zoom. 
+* 60 minute video interviews over Zoom.
+
 **Research Materials**
- * Conversation guide
+ * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/My-VA-health-OH-transition/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research-conversation-guide.md)
  * Figma prototype
 
 ## Recruitment
 ### Recruitment Approach 
 
 We will partner with Perigean to recruit Veterans who meet the criteria we need to assess sentiment and opinions of My VA Health portal users. We will request a kickoff meeting with Perigean to align on what is needed and desired from the sample, scheduling details below.
+
 ### Recruitment Criteria
-We want to schedule 15 participants for 10 completed sessions minimum.  
+We want to schedule 15 participants for sessions; for 10 completed sessions minimum.  
 
 **Primary criteria** (must-haves)
 * All have active VA healthcare benefits
 * All must be have received care from at least one of 6 specific VA health facilities (not community care) that use the Oracle Health EHR system
   
 **Screener Questions**
-1. Do you receive VA healthcare benefits?
+**Do you receive VA healthcare benefits?**
   * Yes
   * No [not eligible for study]
-2. In the past 2 years, have you received care from a VA provider (not community care) at one of the following VA Medical Centers? 
-  * Mann-Grandstaff VA Medical Center
-  * Jonathan M. Wainwright Memorial VA Medical Center
-  * VA Central Ohio Health Care System
-  * Roseburg VA Health Care System
-  * VA Southern Oregon Rehabilitation Center and Clinics
-  * Captain James A. Lovell Federal Health Care Center
 
-    * Yes
-    * None of these options [not eligible for study]
+**In the past 2 years, select all VA Medical Centers where you have received care from a VA provider (not community care) from the list below:**
+  - [ ] Mann-Grandstaff VA Medical Center
+  - [ ] Jonathan M. Wainwright Memorial VA Medical Center
+  - [ ] VA Central Ohio Health Care System
+  - [ ] Roseburg VA Health Care System
+  - [ ] VA Southern Oregon Rehabilitation Center and Clinics
+  - [ ] Captain James A. Lovell Federal Health Care Center
+  - [ ] Other [not eligible for study]
 
 ## Timeline
 ### Recruitment approach with Perigean
