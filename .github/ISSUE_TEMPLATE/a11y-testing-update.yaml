@@ -68,8 +68,7 @@ body:
         - label: <strong>No images of text. (Required)</strong> <br/>Images of text are not used when the same presentation can be made with native HTML/CSS. Logos and branding are excluded. (WEB-145)
         - label: <strong>Brief and detailed descriptions are provided for complex images.(Recommended)</strong><br/> Complex images (graphs, maps, charts) have both alt text and longer descriptions that together accurately convey all relevant information. (WEB-111-002)
         - label: <strong>Decorative images are hidden from screen readers. (Recommended)</strong><br/> All non-text content that is decorative, provides no contextual value, or is already defined by surrounding content is hidden from screen readers. (WEB-111-003)
-        - label: <strong>Background images are not used for informative content. (Recommended)</strong> 
-  CSS background images contain no meaningful content, or that content is available through other means. (WEB-111-004)
+        - label: <strong>Background images are not used for informative content. (Recommended)</strong> CSS background images contain no meaningful content, or that content is available through other means. (WEB-111-004)
  
   - type: checkboxes
     id: audio-video-checks
