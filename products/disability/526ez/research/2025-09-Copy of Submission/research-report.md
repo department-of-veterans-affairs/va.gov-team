@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Benefits Claim Application, Core Team**
 
-**Date:** 10/10/2025
+**Date:** 10/17/2025
 
 **Contacts:** Kevin Shih, Irene Vailikit, Qian Chen
 
