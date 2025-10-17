@@ -92,7 +92,7 @@ Veteran submitters don’t understand the internal routing processes to get thei
 **For moderated usability test:**
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Conversation%20guide%20-%20Veterans.md)  
-- [Ask VA production site](https://www.va.gov/contact-us/ask-va/introduction)  
+- [Ask VA staging site](https://staging.va.gov/contact-us/ask-va/introduction)  
 - Prototype (still in work)
 
 ## Recruitment
