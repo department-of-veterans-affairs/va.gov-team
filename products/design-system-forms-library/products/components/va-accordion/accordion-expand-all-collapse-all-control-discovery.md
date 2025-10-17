@@ -94,17 +94,3 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
   - Dual buttons may be preferred in environments with older assistive technologies or when explicit visibility of all actions is critical.
 
 ---
-
-**Author:** Design System Audit  
-**Last Updated:** October 2025
-
-
-## 📚 Overall Takeaways
-
-| Priority | Recommended Design System | Why |
-|-----------|---------------------------|-----|
-| **Accessibility-first, no redundant states** | 🇬🇧 **GOV.UK** | Dynamic single button avoids null actions and uses SR-friendly labeling. |
-| **Straightforward implementation** | 🇦🇺 **Australian Government** | Easy to build, always-visible controls for quick use. |
-| **Flexible / Developer-driven** | 🇺🇸 **USWDS** | Optional and configurable per accordion, ideal for modular sites. |
-
----
