@@ -313,7 +313,7 @@ Ok, let’s continue to the next step. 
 
 We’re going to wrap up at this step in the process. Thanks for walking through those pages with us! We just have a few final reflection questions.
 
--  How did that set up pages line up with what you expected?
+-  How did that set of pages line up with what you expected?
     - What things led you to have those expectations?
     - (If yes) What helped you feel prepared?
     - (If no) What were the moments that were unexpected or confusing?
