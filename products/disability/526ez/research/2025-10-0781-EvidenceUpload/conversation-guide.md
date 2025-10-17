@@ -188,7 +188,7 @@ Go ahead and take a moment to review the page. Feel free to scroll up and down..
 Let’s have you select no and then move on to the next page. 
 
   
-  
+Before we continue: the following section may touch on sensitive subjects. You can skip any question or stop at any time. Please don't hesitate to let me know.
 
 **0781 Doc Upload: Orientation Page**
 
@@ -255,7 +255,7 @@ Before you continue on to the next page, what do you expect to see next? Great, 
 Let’s go on to the next page. 
 
   
-  
+(Moment for a break if they need)
 
 **Other Supp Docs: Orientation page**
 -  Help me understand what you're seeing on this page. 
@@ -275,7 +275,7 @@ Let’s go on to the next page. 
 - What do you think happens when you click on continue?
     
 
-Other Supp Docs: Upload page
+**Other Supp Docs: Upload page**
 
 - Can you share what you’re thinking as you look at this page?
 - If they don’t open the additional info, prompt them to
@@ -323,6 +323,7 @@ We’re going to wrap up at this step in the process. Thanks for walking through
 - Were there any instructions or parts of the process that were hard to remember or keep track of?
 - Did the summary screens help you reflect and confirm your choices?
 - Imagine a Veteran who wanted to file a claim for a mental health condition asked you about the process. If you had to describe the steps of submitting evidence to them, what would you say?
+    - Thank you for sharing.     
     - (if confused/wrong, then clarify the steps) What would have made that clearer?
 - Do you have any questions for me before we end the session?
     
