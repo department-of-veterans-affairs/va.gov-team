@@ -99,10 +99,10 @@ Remote, Zoom
 
 ### **Recruitment approach**
 
-* Veterans: 10  
+* Veterans: 12  
 * Caregivers: 0  
 * Dependents: 0  
-* Total: 10  
+* Total: 12  
 * Ideal completed sessions: 7
 
 ### **Primary criteria (must-haves)**
@@ -192,11 +192,11 @@ _Mental health conditions_
 
 ### **Availability**
 
-* 10/27, Monday, 12:00PM \- 5pm EST  
-* 10/28, Tuesday, 12:00PM \- 5pm EST  
-* 10/29, Wednesday, 12:00PM \- 5pm EST 
-* 10/30, Thursday, 12:00PM \- 5pm EST (9-12 if needed)  
-* 10/31, Friday, 12:00PM \- 5pm EST (9-12 if needed)
+* 10/27, Monday, 12:00PM \- 8pm EST  
+* 10/28, Tuesday, 12:00PM \- 8pm EST  
+* 10/29, Wednesday, 12:00PM \- 8pm EST 
+* 10/30, Thursday, 12:00PM \- 8pm EST (9-12 if needed)  
+* 10/31, Friday, 12:00PM \- 8pm EST (9-12 if needed)
 
 ## **Team Roles 🕵️👩‍💻👩‍🔬**
 
