@@ -1,7 +1,7 @@
 ---
 name: ARC Onboarding - UX
 about: Onboarding new UX teammates to the ARC team
-title: ''
+title: 'UX Onboarding to ARC'
 labels: ar-crew, ux
 assignees: ''
 type: Task
