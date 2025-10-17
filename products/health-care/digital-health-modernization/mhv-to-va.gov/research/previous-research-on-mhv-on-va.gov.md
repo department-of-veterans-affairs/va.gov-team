@@ -5,6 +5,7 @@ Below is a list of research that has been carried out to develop and support the
 # Research carried out on MHV on VA.gov
 
 ## MHV on VA.gov concept & adoption research
+- [My VA Health (Oracle Health) patient portal transition research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/My-VA-health-OH-transition/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research-plan.md) (October 2025)
 - [MHV on VA.gov metasynthesis](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA) (February 2025)
 - [MHV on VA.gov Adoption of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/research/adoption-study/research-findings.md) (Nov 2024)
 - [MHV on VA.gov Round 2 Initial Prototype Usability Research/ Proof of Concept - mobile users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/initial-mhv-prototype/Round2_Usability) (May 2022)
