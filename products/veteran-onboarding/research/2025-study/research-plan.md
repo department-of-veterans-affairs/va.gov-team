@@ -1,76 +1,300 @@
-# Research Plan for Veteran Onboarding Modal Experience Study, 2025
+---
+# Research Plan Metadata
+title: "Research Plan for Core Veteran Experience, Welcome to VA.gov Onboarding, October 2025"
+date: 2025-10-16
+last_updated: 2025-10-16
+team: "Core Veteran Experience"
+product: "Welcome to VA.gov Onboarding"
+product_area: "authenticated"
 
-## Background
+# Background Context
+background:
+  problem_statement: "New Veterans experience decision paralysis when they first access VA.gov because the site offers so many options and pathways. Without clear guidance, Veterans struggle to know where to start, leading to frustration and potential abandonment of important tasks."
+  product_location: "Modal popup that appears for new Veterans after login on VA.gov"
+  user_familiarity: "New product - onboarding modal for first-time and new VA.gov users"
+  product_brief_url: "TBD"
 
-New Veterans experience decision paralysis when they first access VA.gov because the site offers so many options and pathways. Without clear guidance, Veterans struggle to know where to start, leading to frustration and potential abandonment of important tasks. We have designed a modal popup that appears for new Veterans after login, offering guided pathways to key actions. We are testing two versions: Version A (Application-focused) presents VA health care, VA disability compensation, and VA education and training benefits. Version B (Exploration-focused) presents Go to My VA, Manage your health care, and Discover your benefits.
+# Research Design
+methodology: "Comparative usability testing with preference ranking"
+research_format: 
+  location: remote
+  in_person_details:
+    facility: "N/A"
+    point_of_contact: "N/A"
+    equipment: "N/A"
+  moderated: true
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "Understand how new Veterans currently approach VA.gov and what causes decision paralysis"
+  - goal_2: "Evaluate effectiveness and preference between modal design approaches (application-focused vs. exploration-focused)"
 
-## OCTO-DE Priorities
+research_questions:
+  - "What are new Veterans current experiences and pain points when first accessing VA.gov?"
+  - "How do new Veterans decide what to do first on VA.gov?"
+  - "Which modal version (application-focused vs. exploration-focused) do new Veterans prefer and why?"
+  - "What are the usability issues and pain points with each modal version?"
+  - "How well do the modal options align with new Veterans actual priorities and needs?"
+
+hypotheses:
+  - "New Veterans will prefer clear, actionable guidance over open-ended exploration, reducing decision paralysis and improving task completion."
+  - "Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while exploration-focused options (Version B) will appeal to Veterans who are still exploring their options."
+
+expected_outcomes: "This research will determine which modal version to implement and identify any usability issues to address before launch. Findings will inform the final modal design, content, and implementation strategy to reduce new Veteran decision paralysis and improve first-time user experience on VA.gov."
+
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Maximum variation sampling via recruitment partner, with targeted outreach to recently transitioned Veteran organizations"
+  
+  primary_criteria:
+    - "Veterans who transitioned from service within the past 2 years"
+    - "Either: Have never used VA.gov before OR recently created a VA.gov account (within 3 months, fewer than 5 total visits)"
+    - "Have not yet completed major VA processes (healthcare enrollment, disability claims, education benefits)"
+    
+  secondary_criteria:
+    - "English speakers with reliable internet and appropriate device"
+    - "Mix of desktop users (8) and mobile users (8)"
+    
+  screener_questions:
+    - question: "When did you transition from military service?"
+      qualifying_response: "Within the past 2 years"
+    - question: "Have you used VA.gov before? If yes, how many times have you visited the site?"
+      qualifying_response: "Never used it OR created account within 3 months with fewer than 5 visits"
+    - question: "Have you completed any of the following on VA.gov: enrolled in VA health care, filed a disability claim, or applied for education benefits?"
+      qualifying_response: "No to all"
+      
+participants:
+  veterans: 16
+  caregivers: 0
+  dependents: 0
+  total_recruited: 24
+  completed_sessions_goal: 16
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "2025-10-24"
+  pilot_participant: "TBD"
+  research_dates: "2025-10-27 to 2025-11-04"
+  research_review_submission: "2025-10-16"
+  
+session_details:
+  duration_minutes: 45
+  buffer_minutes: 30
+  max_sessions_per_day: 5
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
+    key_results: 
+      - "Improve satisfaction with our web and mobile products by 5 points"
+      
+veteran_journey_phases:
+  - "Getting Out"
+  - "Starting Up"
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - "TBD"
+    
+tags:
+  - "authenticated"
+  - "usability-testing"
+  - "veterans"
+  - "onboarding"
+---
+
+# Research Plan for Core Veteran Experience, Welcome to VA.gov Onboarding, October 2025
+
+> [!NOTE]
+> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+
+## Background 🏗️
+
+`What problem is your product trying to solve?`
+
+New Veterans experience decision paralysis when they first access VA.gov because the site offers so many options and pathways. Without clear guidance, Veterans struggle to know where to start, leading to frustration and potential abandonment of important tasks.
+
+`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+
+This is an authenticated experience. The modal popup appears for new Veterans after login, offering guided pathways to key actions.
+
+`What is Veterans' familiarity with this tool? Is this a new product or an iteration on an existing one?`
+
+This is a new product designed to help first-time and new VA.gov users navigate the site more effectively. We are testing two versions: Version A (Application-focused) presents VA health care, VA disability compensation, and VA education and training benefits. Version B (Exploration-focused) presents Go to My VA, Manage your health care, and Discover your benefits.
+
+`Product Brief`
+
+**TBD**
+
+### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
 This research supports the following OCTO priority:
 
-- Our digital experiences are the best way to access VA health care and benefits
+`Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
-## Veteran Journey
+> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
-This product fits into the following moments in the Veteran journey:
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-- **Getting out** - When Veterans are transitioning from service and need to understand what VA services are available
-- **Starting up** - When Veterans are establishing their relationship with VA and accessing services for the first time
+Where does your product fit into the Veteran journey?
 
-## Research Goals
+- `Getting Out` - When Veterans are transitioning from service and need to understand what VA services are available
+- `Starting Up` - When Veterans are establishing their relationship with VA and accessing services for the first time
 
-What are you trying to learn from this research?
+## Research Goals 🥅	
 
-1. **Understand how new Veterans currently approach VA.gov and what causes decision paralysis**
-2. **Evaluate effectiveness and preference between modal design approaches (application-focused vs. exploration-focused)**
+`What are you trying to learn from this research?` 
 
-## Outcome
+### Goals
 
-How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+`1.` **Understand how new Veterans currently approach VA.gov and what causes decision paralysis**
+
+`2.` **Evaluate effectiveness and preference between modal design approaches (application-focused vs. exploration-focused)**
+  
+### Outcome
+
+`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 This research will determine which modal version to implement and identify any usability issues to address before launch. Findings will inform the final modal design, content, and implementation strategy to reduce new Veteran decision paralysis and improve first-time user experience on VA.gov.
 
-## Research Questions
+### Research questions
 
-1. What are new Veterans current experiences and pain points when first accessing VA.gov?
-2. How do new Veterans decide what to do first on VA.gov?
-3. Which modal version (application-focused vs. exploration-focused) do new Veterans prefer and why?
-4. What are the usability issues and pain points with each modal version?
-5. How well do the modal options align with new Veterans actual priorities and needs?
+**`1.` What are new Veterans current experiences and pain points when first accessing VA.gov?**
 
-## Hypotheses
+**`2.` How do new Veterans decide what to do first on VA.gov?**
 
-New Veterans will prefer clear, actionable guidance over open-ended exploration, reducing decision paralysis and improving task completion. Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while exploration-focused options (Version B) will appeal to Veterans who are still exploring their options. 
+**`3.` Which modal version (application-focused vs. exploration-focused) do new Veterans prefer and why?**
 
-## Methodology
+**`4.` What are the usability issues and pain points with each modal version?**
+
+**`5.` How well do the modal options align with new Veterans actual priorities and needs?**
+
+### Hypotheses
+ 
+New Veterans will prefer clear, actionable guidance over open-ended exploration, reducing decision paralysis and improving task completion. Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while exploration-focused options (Version B) will appeal to Veterans who are still exploring their options.
+
+## Methodology 🛠️
 
 **Comparative usability testing with preference ranking**
 
 45-minute remote sessions combining semi-structured interviews (10 minutes) and comparative usability testing of both modal prototypes (30 minutes). Participants will interact with both versions in randomized order and provide preference feedback with reasoning. Focus on language preferences (application vs. exploration-oriented), readiness state alignment, and confidence impact.
 
-## Location
+### Location
 
-- Remote
+- [X] **Remote**
+- [ ] **In-person**
 
-## Research Materials
+## Research materials 📔
 
-- Figma prototypes of both modal versions (desktop and mobile)
-- VA.gov staging environment for context
-- Post-session preference ranking survey
+> [!NOTE]
+> **Your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.**
 
-## Recruitment
+**For moderated usability tests:** 
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/conversation-guide.md)
+- [Link to prototype](https://www.figma.com/design/awqwt6nhCwGeVq5nWj7wFb/Onboarding-Tour?node-id=3831-2226&t=OFfsUbPzqnG3f1er-1)
 
-**Participants:** 16 total
+## Recruitment 🎯	
 
-- 8 Veterans who have never used VA.gov before
-- 8 Veterans who recently created VA.gov accounts (within 6 months, fewer than 5 visits)
-- Platform testing: 8 desktop users, 8 mobile users
+### Recruitment approach
 
-**Inclusion Criteria:**
+We will use Perigean to recruit participants using a maximum variation sampling approach via their recruitment partner, with targeted outreach to recently transitioned Veteran organizations. We are specifically targeting Veterans who are either completely new to VA.gov or have very limited experience with the site (created account within 3 months, fewer than 5 total visits).
+
+### Recruitment criteria
+
+**Screener questions:**
+
+1. **When did you transition from military service?**
+   - Qualifying response: Within the past 2 years
+
+2. **Have you used VA.gov before? If yes, when did you create your account and approximately how many times have you visited the site?**
+   - Qualifying response: Never used it OR created account within 3 months with fewer than 5 visits
+
+3. **Have you completed any of the following on VA.gov: enrolled in VA health care, filed a disability claim, or applied for education benefits?**
+   - Qualifying response: No to all three
+
+### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+
+- `Veterans:` **16**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **24** (1.5x overrecruit)
+- `Ideal completed sessions:` **16**
+
+### Primary criteria (must-haves)
 
 - Veterans who transitioned from service within the past 2 years
 - Either: Have never used VA.gov before OR recently created a VA.gov account (within 3 months, fewer than 5 total visits)
-- English speakers with reliable internet and appropriate device
 - Have not yet completed major VA processes (healthcare enrollment, disability claims, education benefits)
+- 8 participants testing on desktop devices
+- 8 participants testing on mobile devices
 
-**Approach:** Maximum variation sampling via recruitment partner, with targeted outreach to recently transitioned Veteran organizations.
+#### Secondary criteria (nice-to-haves)
+
+- English speakers with reliable internet connection
+- Mix of participants across different geographic locations
+- Mix of different branch backgrounds
+- Range of tech comfort levels
+
+## Timeline 🗓️
+
+### Optional Kick-off Call with Perigean
+
+- `Suggested dates and times:` **10/24/2025 - Any time works**
+
+### Prepare
+
+**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
+
+- `Pilot participant name:` **TBD - will be provided in study Slack channel**
+- `Date and time of pilot session:` **10/24/2025** 
+
+### Research sessions
+- `Planned dates of research:` **10/27/2025 - 11/04/2025**
+
+### Length of sessions
+- `Session length:` **45 minutes**
+  
+- `Buffer time between sessions:` **30 minutes**
+  
+- `Maximum Sessions per day:` **5 per day**
+
+### Availability
+
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
+
+> [!NOTE]
+> MST times converted to EST (MST is 2 hours behind EST)
+
+- `10/27/2025, Monday, 10:00 AM-6:00 PM EST`
+- `10/28/2025, Tuesday, 10:00 AM-6:00 PM EST`
+- `10/29/2025, Wednesday, 10:00 AM-6:00 PM EST`
+- `10/30/2025, Thursday, 10:00 AM-6:00 PM EST`
+- `10/31/2025, Friday, 10:00 AM-6:00 PM EST`
+- `11/03/2025, Monday, 10:00 AM-2:00 PM EST, 4:00 PM-6:00 PM EST`
+- `11/04/2025, Tuesday, 10:00 AM-6:00 PM EST`
+  
+## Team Roles 🕵️👩‍💻👩‍🔬
+
+> [!NOTE]
+> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy has changed. VA.gov email addresses cannot be in public repositories.
+>
+> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers.
+
+- `Moderator:` **David Pearl**	
+- `Research guide writing and task development:` **David Pearl**		
+- `Participant recruiting & screening:` **David Pearl**	
+- `Project point of contact:` **David Pearl**		
+- `Accessibility specialist:` **N/A**	
+- `Note-takers:` **Raquel Eisele, Megan Commons, Janelle Finnerty, Ashley Bush**	
+- `Observers: List the names of people observing the sessions. Spread observers across sessions. There should be no more than 5 to 6 total attendees per session on the VA side.`
+
+- **Dave Conlon**
+- **Janelle Finnerty**
+- **Ashley Bush**
+- **Core Veteran Experience team members**
+
+## Approvals ✅
+- `Reviewed by Dave Conlon (OCTO Product Owner) on September-2025`
+- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
