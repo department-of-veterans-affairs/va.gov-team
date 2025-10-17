@@ -64,18 +64,18 @@ Great, now I can see your screen!
 Could you show me how you typically get to your patient portal to manage your healthcare online now?
 [Give user time to sign-in]
 
-Task 1: Can you show me how you would check to see details for an upcoming appointment?
-* How would you print that out?
-* Cancel it?
-* Reschedule it?
+**Task 1:** Can you show me how you would check to see details for an upcoming appointment?
+* What type of appointment is it?
+* What date/time is it happening?
+* What facility location?
+* How do you typically cancel or reschedule an appointment when you need to do that? 
 
-Task 2: Can you show me how you would request a prescription refill? 
+**Task 2:** Can you show me how you would request a prescription refill? 
 * How often do you have to sign in to request refills?
 * What do you do when you run out of refills?
-* Do you ever check on the status of your refill request? 
+* Do you ever check on the status of your refill request after you've submitted it? 
 
 Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it. 
-
 
 ## Part 2: Prototype / Reactions to planned tactics (20 mins) 
 
@@ -86,7 +86,7 @@ Okay, thank you so much for showing us how you navigate your health portal, it's
 - Great. In the chat I just dropped a link to the prototype. Can you select that link? It will open up in a web browser momentarily.
 - Like I said before, this is not an actual website, it is a prototype. But it will look a lot like the VA.gov website and we will show you some ideas that we exploring.
 
-### Task 1
+### Task 1 - Appointments
 Okay looks like you have the prototype open. As a reminder, the back button on this screen will not work as you expect. Instead you'll need to use the prototype back and forth arrows to navigate back or forward a screen. Do you have any questions about that? 
 
 Great! 
@@ -94,24 +94,36 @@ Great!
 Just like you showed me before when we were signed into your patient portal, I'd like you to now use this prototype and show me where you'd go to check on details for an upcoming appointment. Please talk out loud as you click things or read things. It's really helpful to understand your thought process and what's clear to you or confusing. 
 
 _Participant "signs in" using simulated sign-in in prototype and lands on My VA page._
-* From here, what would you do to check appointment details for that upcoming appointment? How would you find what time of day that appointment is at? 
+* From here, what would you do to check appointment details for that upcoming appointment? How would you find what time of day that appointment is at?
+  * _Does the participant see information in the "upcoming appointment" card on My VA Page? Navigate to My HealtheVet? Other?_
+  * Prompt participant to go to appointments if they do not do this on their own.
 
+#### On the appointments page
 _Participant navigates to appointments tool. There should be a blue expandable alert communicating the transition._
 * _Does participant just look for appointment details directly?_
-* _Do they look for the yellow alert that we used to have?_
+* _Are they surprised by seeing appointments data on VA.gov?_ 
+* _Do they look for the yellow alert that we used to have at the top of the page here?_
 * _Do they see, expand, or engage with the blue info alert at all?_
 
-Question 1: 
-- [If they don't notice the blue info alert] I wonder if you see that blue alert near the top of the prototype?
+**[User DOES NOT notice the alert on their own]** 
+I wonder if you see that blue alert near the top of the prototype?
 - Did you notice that before?
   - What do you think that alert is for?
 - Can you go ahead and expand it and read it?
   - What does this mean to you?
   - How does it make you feel?
+ - Is this information important for you? Should it be more noticeable?
+ - Would you want to see this information every time you sign in? 
 
-Question 2: 
-- [Noticed the alert]: what would you do next after reading this information?
-- [Did not notice the alert]: Is this information important for you? What would have made it more noticeable? 
+**[User notices alert on their own]**
+- Without expanding this alert, what do you think that one line of text means?
+- Why do you think you are seeing it?
+- Now go ahead and click that alert to expand it, and read the information inside the blue alert.
+  - What do you think this means now?
+  - What would you do next after reading this information?
+  - Next time you sign in, would you expect to see these alerts again?
+  - Would you want to still have access to My VA Health, even though all of your health records and tasks are now available on VA.gov?
+    - Why or why not?  
 
 ### Task 2
 Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd like you to show me where you'd go to request a prescription refill.
@@ -121,8 +133,8 @@ _How does user navigate to a different tool?_
 _Participant lands on the Medications tool, gets to the Refill page._
 * What is different about refilling a medication here than what you're used to?
 * What else are you noticing?
-* Would you want to continue using this, or would you prefer to go back to My VA Health to complete your prescription refill request?
-* Why/why not?
+* Would you want to continue refilling your medication here on VA.gov, or would you prefer to go back to My VA Health to complete your prescription refill request?
+  * Why/why not?
 * If you ran into an issue and needed help with something, what would you do?
 
 ## Cool down questions
