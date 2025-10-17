@@ -1,7 +1,7 @@
 ---
 name: ARC Onboarding - Engineering
 about: Onboarding new Engineers to the ARC team
-title: ''
+title: 'Engineering Onboarding to VA'
 labels: ar-crew, engineering
 assignees: ''
 type: Task
