@@ -238,13 +238,13 @@ Before you continue on to the next page, what do you expect to see next? Great, 
   
   
 
-**0781 Doc Upload: Summary page**
+**0781 Doc Upload: Summary page and deleting a file**
 
 - Can you share what you’re thinking as you look at this page?
 - Does this reflect the actions you took on the previous page?
 - Is there anything you’d expect to see on this page that isn’t there now?
 - Delete a file
-    - Let’s say you wanted to delete the police report. How would you do that? (actually go through and delete)
+    - Let’s say you wanted to delete the journal entry. How would you do that? (actually go through and delete)
 - What do you think happens when you click on continue?
     
 
