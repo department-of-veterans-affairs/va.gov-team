@@ -144,13 +144,13 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 
 ## Timeline 
 
-### Optional Kick-off Call with Perigean
+### Optional 30-min Kick-off Call with Perigean
 
 - `Suggested dates and times:`  
-  - Monday, October 20, 9am \- 12pm CT
-  - Monday, October 20, 1pm \- 5pm CT
-  - Tuesday, October 21, 8:30am \- 10:30am CT
   - Tuesday, October 21, 12pm \- 5pm CT
+  - Wednesday, October 22, 8:30am \- 10:30am CT
+  - Wednesday, October 22, 12pm \- 1pm CT
+  - Wednesday, October 22, 4pm \- 5pm CT
 
 
 ### Prepare
@@ -160,7 +160,7 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 
 ### Research sessions
 
-- `Planned dates of research:` October 27, 2025 \- November 10, 2025 
+- `Planned dates of research:` October 29, 2025 \- November 12, 2025 
 
 ### Length of sessions
 
@@ -174,9 +174,6 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 
 **Time slots**
 
-- `10/27, Monday, 9:30am-6:30pm EST (4)`  
-- `10/28, Tuesday, 9:30am-10:30am EST (1)`  
-- `10/28, Tuesday, 1:30pm-6:30pm EST (3)`  
 - `10/29, Wednesday, 9:30am-6:30pm EST (4)`  
 - `10/30, Thursday, 9:30am-1:00pm EST (2)`  
 - `10/31, Friday, 9:30am-2:30pm EST (3)`  
@@ -184,9 +181,11 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 - `11/3, Monday, 9:30am-12:30pm EST (2)`  
 - `11/3, Monday, 2:30pm-6:30pm EST (3)`  
 - `11/4, Tuesday, 9:30am-6:30pm EST (4)`  
-- `11/5, Friday, 9:30am-6:30pm EST (4)`  
+- `11/7, Friday, 9:30am-6:30pm EST (4)`  
     
 - `11/10, Monday, 9:30am-6:30pm EST (4)`
+- `11/12, Wednesday, 9:30am-6:30pm EST (4)`
+
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
