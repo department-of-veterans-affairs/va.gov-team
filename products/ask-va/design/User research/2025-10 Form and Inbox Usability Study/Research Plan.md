@@ -145,13 +145,16 @@ We will recruit 10 Veterans for a total of 8 completed sessions.
 | ----- | ----- |
 | Exactly 5 | Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran |
 
-## 🚧 Timeline 
+## Timeline 
 
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`  
-  - Friday, October 17, anytime 9am \- 5pm CT  
-  - Monday, October 20, 9am \- 12pm CT, 1pm-5pm CT
+  - Monday, October 20, 9am \- 12pm CT
+  - Monday, October 20, 1pm \- 5pm CT
+  - Tuesday, October 21, 8:30am \- 10:30am CT
+  - Tuesday, October 21, 12pm \- 5pm CT
+
 
 ### Prepare
 
