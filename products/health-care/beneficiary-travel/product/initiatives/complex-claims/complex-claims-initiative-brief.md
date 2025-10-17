@@ -11,27 +11,30 @@ Contrinuing the transition of functionality from the BTSSS - Veteral Portal the 
 
 ## Outcome Summary
 * Enable Veterans to file more complex claims on VA.gov outside of simple, mileage-only claims.
-* Complex claims will come in three iterations:
-	* v1: A flow that enables users to attach non-mileage expenses including the following: 
-		* Tolls
-		* Flights
-		* Lodging
-		* Other non-mileage items
-	* v2: A flow that enables users to approach mileage differently
-		* Challenge the mileage on a claim
-		* File a claim where the origin address was different from the starting address
-	* v3: A flow that enables users to file for community care appointments
-		* Find community care appointments in the existing system
-		* Create a community care appointment if it is not in VistA
-		* Attach evidence of attendance to community care appointments
-
-	* Users will be able to file for the following types of appointments
+* Users will be able to file for the following types of appointments
 		* Appointments which require attached expenses and receipts: tolls, lodging, flights, etc.
 		* Appointments for which mileage is different, or the origin was not the user's home in profile
 		* Appointments that were located at a community care location
-	* All users are filing for care on VA.gov
-	* While appointments may require manual review, the filing process drives a decrease in call center inquiries
- 
+* All users are filing for care on VA.gov
+* While appointments may require manual review, the filing process drives a decrease in call center inquiries* Complex claims will come in three iterations:
+* v1: A flow that enables users to attach non-mileage expenses including the following: 
+		* Tolls
+		* Flights
+		* Lodging
+  		* Parking
+    	* Food
+		* Other items
+* v2: A flow that enables users to file for community care appointments
+		* Find community care appointments in the existing system
+		* Create a community care appointment if it is not in VistA
+		* Attach evidence of attendance to community care appointments
+* v3: A flow that enables users to approach mileage differently
+		* Challenge the mileage on a claim
+		* File a claim where the origin address was different from the starting address
+
+  ## Supporting Documentation
+  * PLACEHODLER: ADRS (LIST INDIVIDUALLY)
+  * PLACEHOLDER: OTHER CLARIFYING DOCUMENTS (LIST INDIVIDUALLY)
 
 XXXX TO BE INCORPORATED THEN DELETED XXXX
 ## Undesired User Outcomes
@@ -81,6 +84,7 @@ XXXX TO BE INCORPORATED THEN DELETED XXXX
 - [V1 Ticket](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/1?filterQuery=travel&pane=issue&itemId=106942600&issue=department-of-veterans-affairs%7Cva.gov-team%7C107829)
 - [V2 Ticket]()
 - [V3 Ticket]()
+
 
 ### Timeline 
 - Timeline pending
