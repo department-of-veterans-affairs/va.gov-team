@@ -54,4 +54,5 @@ Clinicians work in data-dense environments where key information can easily be o
 ## Artifacts for Users
 1. [UI Kit](https://www.figma.com/design/f2zr6Zvf9ssGgfBnBan1sY/Clinical-Design-System---V-5.3.1?node-id=16327-34&p=f&t=rk7QsDkOVhMpoN6I-0)
 2. [Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-singlevalueviz--docs)
+3. [VA Clinical Design System Documentation](https://department-of-veterans-affairs.github.io/clinical-design/components/single-value-visualization)
 
