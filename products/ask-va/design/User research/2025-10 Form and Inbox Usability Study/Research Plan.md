@@ -82,10 +82,10 @@ Veteran submitters don’t understand the internal routing processes to get thei
 
 ### Comparative study plan
 
-|  | Group A \- Prod then Proto | Group B *\-* Proto then Prod |
+|  | Group A \- Staging then Proto | Group B *\-* Proto then Staging |
 | :---- | :---- | :---- |
 | Participants | <ul><li> **Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li> **Veterans** (3-4)</li>  <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
-| Task Order | **Production** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Prototype**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> | **Prototype** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Production**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol>  |
+| Task Order | **Staging** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Prototype**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> | **Prototype** <ol><li>Submit question</li>  <li>Review question in inbox</li></ol> **Staging**  <ol><li>Submit question</li>  <li>Review question in inbox</li></ol>  |
 
 ## Research materials
 
