@@ -135,11 +135,10 @@ We will recruit 10 Veterans for a total of 8 completed sessions.
 | Are you able to join the Zoom session from an internet-connected desktop or laptop computer? | Yes / No | Must answer Yes |
 | Do you find it difficult to remember or learn new things, focus on a task, or make decisions?  | Yes / No | At least 5 participants must answer Yes |
 
-### 
 
-### **Recruitment criteria – Business submitters**
+### Recruitment criteria – Business submitters
 
-### We will recruit 3 additional business submitters for a total of 2 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
+We will recruit 5 additional business submitters for a total of 4 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
 
 | \# of participants | Criteria |
 | ----- | ----- |
