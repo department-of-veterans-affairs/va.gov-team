@@ -227,7 +227,7 @@ Let’s pretend that you went through all the steps to upload the document  (se
     
 
 
-Let’s pretend you want to upload another file. How would you do that?
+Let’s pretend you want to add another document. How would you do that?
 - What are you seeing here?
     
 
