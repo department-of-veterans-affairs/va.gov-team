@@ -220,7 +220,7 @@ Let’s have you select yes and then move on to the next page.
 - Considering that for this scenario, you have anxiety and arthritis, what would you do on this page?
     
 
-Let’s pretend you’re going to upload a file. How would you do that?
+Let’s pretend you want to add a document. How would you do that?
 
 Let’s pretend that you went through all the steps to upload the document  (selecting a file from your folder, etc) and you end up here. 
 -  What are you seeing here?
