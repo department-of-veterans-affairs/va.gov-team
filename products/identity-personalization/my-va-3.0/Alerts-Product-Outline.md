@@ -1,7 +1,7 @@
 # My VA Alerts Product Outline
 
 **Last updated:** October 17, 2025 — *Discovery phase*  
-**GitHub Labels:** `vsa-authenticated-exp`, `my-va-dashboard`  
+**GitHub Labels:** `vsa-authenticated-exp` 
 **Slack Channel:** `#accountexp-authexp`
 
 ---
