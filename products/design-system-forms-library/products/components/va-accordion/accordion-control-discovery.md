@@ -1,5 +1,7 @@
 # Accordion Expand / Collapse control discovery
 
+# 🧭 Accordion Systems *with* Expand / Collapse All Controls
+
 This document summarizes government design systems that **support global “Expand All / Collapse All”** functionality for accordion components.  
 Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded for clarity.
 
@@ -31,9 +33,6 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded for c
 The USWDS accordion allows developers to include optional “Expand all” and “Collapse all” buttons *within each accordion component*.  
 There is no global, page-level toggle — each accordion manages its own state.
 
-Developers can use two static buttons or a single toggle button (configurable through USWDS macros).  
-This approach is flexible but not automatic — implementers must opt in for each accordion.
-
 **Behavior:**
 - Each panel toggles individually via a header `<button>`.
 - Global expand/collapse buttons toggle all panels within that accordion.
@@ -47,8 +46,7 @@ This approach is flexible but not automatic — implementers must opt in for eac
 
 **Design Philosophy:**
 USWDS prioritizes **developer flexibility** over prescriptive UI.  
-It provides a foundation that agencies can adapt for their content volume and needs.  
-This approach fits complex pages where only specific accordions require global controls.
+It provides a foundation that agencies can adapt for their content volume and needs.
 
 ---
 
@@ -72,8 +70,7 @@ A single button at the top switches dynamically between “Show all sections” 
 
 **Design Philosophy:**
 GOV.UK’s approach aims for **clarity and accessibility** — only one valid action is ever presented.  
-The global control adapts dynamically to the content’s state, providing clear feedback to all users (visual and assistive technology alike).  
-This is widely regarded as the **gold standard** for accessible accordion behavior.
+The global control adapts dynamically to the content’s state, providing clear feedback to all users.
 
 ---
 
@@ -99,8 +96,57 @@ Developers may use either:
 
 **Design Philosophy:**
 Australian systems value **transparency and consistency** over dynamic adaptation.  
-The always-visible buttons ensure users can always see both options, even if they’re redundant in certain states.  
-This approach is **clear and simple to implement**, though less elegant than GOV.UK’s dynamic toggle.
+The always-visible buttons ensure users can always see both options, even if they’re redundant in certain states.
+
+---
+
+## 🎯 Design Rationale & Accessibility Trade-offs
+
+### Single Toggle Button
+- One button switches between “Expand all” and “Collapse all” dynamically.
+- **Pros:**
+  - Reduces clutter and cognitive load.
+  - Always one valid action — avoids “dead” buttons.
+  - Works well if labels update properly and are announced to screen readers.
+- **Cons:**
+  - Requires robust ARIA management.
+  - Some screen reader users may miss label changes if not implemented carefully.
+- **Example:** GOV.UK pattern.
+
+### Dual Buttons (Expand / Collapse)
+- Two buttons always visible, one for each action.
+- **Pros:**
+  - Each action is explicit and persistent.
+  - Clear state readout for screen reader users.
+  - Predictable for cognitive accessibility and older assistive tech.
+- **Cons:**
+  - One button may be “null” (pressing Expand All when all sections open).
+  - Slightly more visual and cognitive clutter.
+- **Example:** Australian Government (AGDS / NSW / QLD).
+
+**Accessibility Summary:**
+- Both patterns are valid if implemented correctly:
+  - Clear labels describing action.
+  - State changes programmatically conveyed (`aria-expanded`, `aria-live` if needed).
+  - Focus does not jump unexpectedly.
+- **Recommendation:**  
+  - Single toggle for general audiences with modern assistive tech.  
+  - Dual buttons when maximum explicitness and state visibility are desired, particularly for government/enterprise environments.
+
+---
+
+## 📚 Overall Takeaways
+
+| Priority | Recommended Design System | Why |
+|-----------|---------------------------|-----|
+| **Accessibility-first, no redundant states** | 🇬🇧 **GOV.UK** | Dynamic single button avoids null actions and uses SR-friendly labeling. |
+| **Straightforward implementation** | 🇦🇺 **Australian Government** | Easy to build, always-visible controls for quick use. |
+| **Flexible / Developer-driven** | 🇺🇸 **USWDS** | Optional and configurable per accordion, ideal for modular sites. |
+
+---
+
+**Author:** Design System Audit  
+**Last Updated:** October 2025
 
 ---
 
