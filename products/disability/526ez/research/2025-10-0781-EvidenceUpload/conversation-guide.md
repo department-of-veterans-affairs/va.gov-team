@@ -277,10 +277,11 @@ Other Supp Docs: Upload page
 
 - Can you share what you’re thinking as you look at this page?
 - If they don’t open the additional info, prompt them to
-    - Scanning instructions: how useful is this content? Is there anything that is confusing/unclear? 
+    - Scanning instructions: how useful is this content? Is there anything that is confusing/unclear?
+    - \[If they don’t notice on their own\] This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
+
 -  If they don’t open the accordion, prompt them to
     - How useful is this content here?
-- \[If they don’t notice on their own\] This is the same content that’s on the page before. How do you feel about having the same content here? If not useful, why/what would be useful?
     
 
 Let’s pretend you’re going to upload a file. How would you do that?
