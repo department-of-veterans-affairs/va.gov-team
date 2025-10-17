@@ -1,133 +1,164 @@
-I reviewed the conversation guide you pasted and compared it to what I would expect a research plan for an evidence‑upload usability study to include (goals such as assessing comprehension of instructions, success choosing/uploading documents, emotional safety for participants with PTSD, and hypotheses about users’ mental models and error patterns). I don’t have the actual Research Plan file you referenced (the message shows “[Link to Research Plan]” but no content or URL), so I’m giving two things here:
+Summary judgment
+- Short answer: The conversation guide mostly supports the research-plan goals and hypotheses, especially Goals 1 (instructional content), 2 (visual hierarchy) and 3 (navigation through upload sections). It has good task flow through orientation → upload → summary pages and built-in probes for many interaction areas.  
+- However, it needs targeted additions and tighter, measurable tasks and probes to reliably answer specific research questions and hypotheses (particularly to confirm "three steps" understanding, to evaluate the usefulness of external links, to measure mental models for categorization, and to surface accessibility issues and emotional/cognitive load). It also needs explicit accessibility and distress-handling steps and a few clearer tasks that force discovery of interactive elements (accordions, additional info, external links), mobile/assistive-technology scenarios, and post-task confidence ratings.
 
-- A targeted, evidence‑based assessment of how well this conversation guide is likely to meet typical research plan goals and test common hypotheses for this flow.  
-- Concrete, actionable changes and new probes/tasks you can add so the guide will reliably surface the signals you need — including accessibility, emotional/cognitive load, and mental‑model alignment checks.
+Below I map the research-plan goals/hypotheses to what the current guide does, highlight strengths and gaps, and provide concrete, actionable suggestions (questions, tasks, probes, metrics, and accessibility/emotional-safety items). I end with a short prioritized checklist you can apply to update the guide before testing.
 
-If you share the exact Research Plan (or paste its goals and hypotheses), I’ll map each hypothesis directly to specific tasks/questions in the guide and produce an explicit test matrix. For now, below is a practical, prioritized review and a set of recommended edits.
+1) How the guide lines up with the research-plan goals & hypotheses
+- Goal 1: Instructional content
+  - What the guide does well: multiple open probes asking if content is clear, what’s missing, and whether they understand document grouping/order (mental health docs first, then others). It asks about helpfulness of instructions and external resources.
+  - Gap: The guide mostly uses open reading probes; it doesn’t include a direct comprehension check (ask participant to restate or demonstrate the required steps or which documents to upload first). It also doesn’t explicitly test external link usefulness (e.g., clicking links and rating them).
+  - Impact on hypotheses: Without a direct comprehension task, you won’t reliably confirm the hypothesis “Most participants will be able to understand that there are three steps” or “Most will understand document descriptions and find links supportive.”
 
-Quick verdict
-- Overall: The guide is a solid baseline for a 60‑minute moderated usability session of an evidence upload flow for PTSD/mental‑health claims. It covers warmups, task walkthroughs, think‑aloud prompts, and a wrapup.  
-- Strengths: Clear task walkthroughs for multiple upload flows (main evidence and “other supporting docs”); emphasis on reading orientation screens; explicit prompts to explore accordions/additional info; deletion and summary checks; warmup that differentiates experienced vs. new applicants.  
-- Gaps / risks: The guide does not explicitly map tasks and probes to measurable hypotheses or success criteria; it lacks trauma‑informed wording in places and explicit safety options; accessibility testing (screen readers, keyboard navigation, color/contrast) is missing; it misses many probes that uncover participants’ mental models and decision rules about what to upload; it doesn’t include post‑task objective measures (time, success/failure, error counts) or fine‑grained probes to differentiate confusion vs. preference; observer handling could be more explicit and trauma‑sensitive.
+- Goal 2: Formatting & visual hierarchy
+  - What the guide does well: prompts to notice interactive elements, accordion, scanning instructions; asks about most important info and what they noticed first.
+  - Gap: It doesn’t require participants to find a specific piece of information under time or directed search, nor measure discoverability (e.g., “find where to scan a document”). There’s no explicit keyboard/screen reader or mobile layout check.
+  - Impact on hypotheses: You can get qualitative impressions but not consistent evidence about discoverability or whether most users find and use interactive elements.
 
-What the guide does well (specifics)
-- Tests orientation content: multiple prompts ask users to read orientation and determine what they notice and expect next, which helps evaluate clarity and hierarchy of content.
-- Covers upload flow interactions (add file, summary, delete) — good for interaction testing and basic error handling assessment.
-- Asks about whether content helps users choose documents — a direct probe of usefulness.
-- Has warmups tailored to prior experience — useful to get context and surface support needs.
+- Goal 3: Navigation through upload sections
+  - What the guide does well: end-to-end flow (orientation → upload → summary) and specific tasks like “pretend you want to add a document” and “delete the journal entry.”
+  - Gap: The upload tasks are high-level (pretend / walkthrough) rather than realistic tasks that require the participant to choose the correct category/file and act. There is limited measurement of errors, recovery behavior, or changes of mind (re-categorize, replace a file, correct a mis-upload).
+  - Impact on hypotheses: You’ll see if participants can narrate the flows, but not consistently if they can successfully upload the right documents in the right sections.
 
-High‑priority gaps and recommended adjustments (actionable)
+- Goal 4: How users think through uploading evidence
+  - What the guide does well: probes about how they decide which documents to include and how they categorize documents.
+  - Gap: No targeted card-sorting style tasks or targeted prompts that ask participants to categorize specific examples (e.g., “Would you upload this letter as treatment records or other supporting docs?”). No assessment of whether their mental model matches the UI grouping.
+  - Impact on hypotheses: Good qualitative sense, but limited evidence on how participants mentally categorize documents or whether groupings align with their expectations.
 
-1) Map tasks & probes to explicit hypotheses and success criteria (must do)
-- Problem: No explicit mapping between tasks and the research plan’s goals/hypotheses or objective metrics (e.g., success rate, time-on-task, errors).
-- Action:
-  - Add a short test‑matrix in the facilitator notes: for each hypothesis, list the task(s) and the primary probe/metric.
-  - Example hypotheses to include:
-    - H1: Users will be able to identify the three types of evidence required for a PTSD claim without external help. Metric: % of participants who list the three types correctly within 2 minutes.
-    - H2: Users will prefer in‑page guidance (accordions/tooltips) to a separate help page. Metric: preference expressed and time to first helpful click.
-    - H3: Users will be confident choosing documents when examples are provided. Metric: self‑reported confidence pre/post task (+ qualitative reasons).
-  - For each hypothesis add one task and one post‑task question in the script.
+- Specific hypotheses
+  - “Most participants will be able to understand that there are three steps” — Not reliably tested; add direct step-count and restatement tasks.
+  - “Most participants will find specific guidance for mental health helpful” — Guide probes this generally but should include targeted rating/compare tasks and request examples of what helped/was unclear.
+  - “Most participants will find the summary screens helpful” — Guide asks generally but should add a concrete summary-use task asking them to confirm accuracy and rate confidence.
+  - “Most participants will understand the document descriptions and find external links supportive” — Needs direct task: click/use links and ask whether the link resolved their specific question.
 
-2) Add trauma‑informed safety language and choices (must do)
-- Problem: Participants may disclose traumatic material; current script has basic consent but lacks several trauma‑informed best practices.
-- Action:
-  - At the top of the guide add explicit options: “You can skip any question, stop the session at any time, or take a break. If we ask about experiences that feel upsetting, please say so and we’ll pause.”
-  - Add a short optional “emotional check” after the upload tasks: “This activity involved thinking about personal/traumatic experiences. How are you doing right now? Would you like to pause or stop?”
-  - Clarify that the participant may turn off their camera and/or mute themselves, and remind them they can decline to answer sensitive probes.
+2) Where the guide excels
+- End-to-end flow: the guide walks participants through the full upload flow: orientation, treatment records, 0781 upload pages, other supporting docs, upload screens, summary, deletion — this mirrors the research plan flow.
+- Participant safety and consent: the guide explicitly warns that topics may be sensitive and includes opt-out and permission for observers and recording.
+- Observational prompts: it repeatedly asks participants to think aloud and notes what to watch for (time spent on content, re-reads, confusion) — these are appropriate for moderated sessions.
+- Deletion and edit actions: it includes a real action (delete file) which is useful for testing edit flows.
 
-3) Add accessibility testing probes (must do)
-- Problem: No routine checks for screen reader, keyboard navigation, or mobile accessibility.
-- Action (add these as optional test variants or a small 5‑minute subset):
-  - Ask some participants to attempt the upload using keyboard only (for desktop) or use VoiceOver/ TalkBack if possible. Prompt: “If you use a screen reader or keyboard-only navigation, please try the upload step and tell me any issues you encounter.”
-  - Ask about color, text size, and spacing: “Is there anything that would be hard to read? Would you want larger text or different contrast?”
-  - For mobile: include a specific mobile‑upload task (camera vs. selecting a file) and ask about how easy it is to find and attach photos.
+3) Gaps and opportunities (concrete)
+A. Add focused, measurable tasks that force discovery:
+  - Task: “Please upload the scanned therapy note called ‘therapy_note.pdf’ to the mental-health evidence section (0781). Show me how you would do that.” (Observe category selection, file chooser, success message.)  
+  - Task: “Now upload a VA hospital discharge summary called ‘discharge.pdf’ — which section would you put it in?” (Observe categorization).
+  - Task: “You just uploaded the wrong file. Replace or delete it and upload the correct one.” (Observe error recovery.)
+  - Task: "Find where to learn how to scan a paper document and click the link. Tell me whether this tells you everything you need."
 
-4) Probe for mental‑model alignment and decision rules (must do)
-- Problem: The guide asks “what would you upload?” but does not dig into participants’ internal decision rules (e.g., what counts as proof, trust, source of confusion).
-- Action: Add specific probes in upload pages:
-  - “How do you decide whether a file is ‘evidence’ or not? Tell me the last time you’d pick document X — why?”
-  - “If you had records from a private therapist, where would you expect to upload them? Which label or page would you choose?”
-  - “Would you expect the system to accept scanned handwritten notes? Why/why not?”
-  - Add a card‑sort style quick exercise: show 4–6 document names (treatment note, journal entry, buddy statement, police report) and ask: “Which of these belong in this evidence section vs somewhere else?”
+B. Directly test the “three steps” hypothesis
+  - Ask: “Without looking, how many steps do you think there are to upload evidence? Name each step.” If they’re unsure, ask them to show where each step is in the prototype. This produces a binary pass/fail for the hypothesis.
 
-5) Add error / edge‑case tasks (should do)
-- Problem: No systematic testing of failure modes (file too large, wrong file type, upload errors, session timeouts).
-- Action: Add 2 short scenarios:
-  - “Try to upload a file that’s intentionally large/unsupported” (or simulate with moderator noting expectation). Probe: “What would you expect the error message to say? How would you fix this?”
-  - “Simulate losing connection during upload” — ask what they expect to happen on the summary page and how to recover.
+C. Test discovery/usefulness of interactive elements
+  - Instruction: “Please find and open the accordion/additional info on this page.” If they don't, ask why they didn't click it. Record whether they open it unprompted and whether this changes their decisions.
+  - Ask participants to click external links and then rate (1–5) whether the resource answered their question and whether they’d use it in the real task.
 
-6) Add objective and post‑task metrics (should do)
-- Problem: Only qualitative probes. You should capture basic usability metrics.
-- Action: For each task capture: success/failure, time-on-task, number of errors, number of clarifying clicks, and subjective confidence (1–5). Add brief post‑task question: “How confident are you that you uploaded the right documents?” (Likert)
+D. Assess summary screens for reflection/confidence
+  - After the summary page, ask: “Using this summary, how confident are you (0–10) that you uploaded everything correctly?” Ask them to use the summary to correct any missing items. Record whether they found inaccuracies and whether the summary format made confirmation easier.
 
-7) Refine think‑aloud & non‑leading probes (should do)
-- Problem: Some probes may lead participants or ask them to predict outcomes overly specifically.
-- Action:
-  - Use neutral prompts: “Tell me what you’re thinking” rather than “What do you think will happen if you click yes?” → rephrase: “What do you think will happen if you click yes? Tell me why.” (keeps it exploratory).
-  - Where the facilitator asks the participant to “select no” or “select yes” to move forward, note that we should randomize or counterbalance for different participants to avoid demand characteristics.
+E. Mental models & categorization (card-sort style)
+  - Provide 6–8 example documents (therapy notes, journal entry, buddy statements, employer notes, VA outpatient note) and ask participants to place each into the section they would upload it to and explain why. This shows whether UI groupings align with users’ expectations.
 
-8) Strengthen wrap‑up and behavioral prediction tasks (should do)
-- Problem: The wrap‑up asks “If you had to describe the steps…” which is good, but you can get richer insight with a behavioral prediction task.
-- Action:
-  - Add: “If a friend asked you for help uploading evidence right now, what step would you show them first?” — then ask them to walk through screen‑sharing copy of the first two steps out loud.
-  - Add a final net‑promoter style question: “How likely would you be to complete this form without help?” (1–10) and “Why?”
+F. Accessibility & assistive tech checks
+  - Recruit at least 2 participants who use screen readers, keyboard navigation, or other assistive tech and include either:
+    - A short task using their actual assistive tech or
+    - Questions about how they would expect to use the interface with their assistive tech.  
+  - Explicitly ask participants to try keyboard-only (tab to important elements) or to describe how screen-reader users would find key controls. Observe whether accordions, links, and file chooser are accessible.
+  - Test mobile upload flow for at least 3 participants (or emulate mobile in desktop) and include tasks for taking/attaching a photo.
 
-9) Observers and consent handling (should do)
-- Problem: Instructions about admitting observers are present but a bit procedural and could be reworded for participant comfort.
-- Action:
-  - Explicitly offer the participant the choice of observers on/off, and ensure observers remain off‑camera by default. If observers will listen, say who they are and why they’re there (briefly).
-  - If participant says “no” to observers, have a script that says “I will message the observers now to leave the call” and add a short privacy reassurance.
+G. Emotional & cognitive load / trauma-informed adjustments
+  - Add a short explicit “comfort check” before showing content that might be triggering: “If any question becomes uncomfortable, tell us and we’ll skip it. If you need a break, we’ll pause.” (The guide already has some language, but make it explicit as a recurring reminder before the 0781 mental-health content.)
+  - Add optional phrasing: “If we’re asking you to describe traumatic events, you can use general terms (e.g., ‘service-related trauma’) instead of specific details.”
+  - Add debriefing resources at the end with mental health support contacts and a check-in question: “How are you feeling after the session? Would you like us to pause or stop?” and a plan for interviewer response if a participant becomes distressed.
+  - For cognitive load: shorten individual tasks or add micro-breaks; consider giving participants the option to do upload tasks on their own device when they’re comfortable.
 
-10) Add post‑session resource and debrief script (must do)
-- Problem: Working on PTSD topics, you must include supportive resources and immediate followup steps.
-- Action:
-  - Add a short list of support resources to read or share at the end (VA mental health contact, suicide prevention lifeline, local vet center).
-  - Immediately after tasks, ask participant whether they’d like to pause or see resources.
+H. Measurements & ratings
+  - After each major task or page, collect quick quantitative ratings:
+    - Clarity (1–5), Confidence (1–5), Usefulness (1–5), Emotional comfort (1–5).
+  - Track task success, time on task, number of clicks, whether participant re-reads instructions, whether they open additional info/accordion, and whether they click external links.
+  - Ensure note-takers are capturing quotes that reflect mental models and confusion points (e.g., “I would put this under treatment records because it has dates,”).
 
-Lower‑priority but useful items
-- Include a short optional questionnaire at the end about technology comfort and prior experience with uploads (how often they use online forms), and device used today (desktop/phone/tablet + OS + browser). This helps identify device‑specific problems.
-- Add a brief cognitive‑load probe: “How mentally taxing was that flow? (not at all — extremely) and where did that load come from?”
-- Clarify how you’ll treat participant data: explicit mention of anonymization and whether recordings will be stored, how long, who has access.
+I. Special probes for participants with cognitive disabilities or low literacy
+  - Use simpler phrasing, ask them to read aloud a short instruction and then ask them to explain what it means in their own words.
+  - Ask “If you had to explain this page to a friend in one sentence, what would you say?” to surface misconceptions.
 
-Accessibility specifics to add to script
-- Ask whether participant uses assistive tech; if yes, run a 3–5 minute accessibility check (screen reader & keyboard).
-- Mention color and size: “Are the buttons large enough? Is the link contrast sufficient?”
-- For instructions and scan guidance, verify plain‑language: test whether terms like “supporting documents,” “treatment records,” and “evidence” are clear — if not, propose alternative wording to test.
+4) Suggested additional / refined questions and script snippets (copy-paste ready)
+- Comprehension / three-step check:
+  - “How many steps do you think there are to submit supporting evidence? Please list them in the order you expect.”
+  - Follow-up: “Show me where each step appears in the prototype.”
+- Document categorization / mental model:
+  - “Here are example files: therapy_note.pdf, journal_entry.docx, discharge_summary.pdf, buddy_statement.pdf. Tell me which upload section you would put each file and why.”
+- Accordion / interactive discovery:
+  - “Please find where additional scanning instructions are and open them. Did that change what you would do?”
+- External link usefulness:
+  - “Click the ‘How to scan’ link. Did it answer your question? What, if anything, is still unclear?”
+- Summary screen:
+  - “Using the summary screen, are any of your uploads missing or wrong? On a scale of 0–10, how confident are you that your uploads are complete and correctly categorized? Why?”
+- Emotional comfort / safety:
+  - “This topic can bring up personal feelings. Are you comfortable continuing? If anything is upsetting, we can stop or skip that question.”
+- Accessibility:
+  - “Do you use assistive technology (screen reader, magnifier, keyboard-only)? If yes, would you be willing to try a short task with that tool or describe how you would expect to do it?”
+- Error recovery:
+  - “If you accidentally uploaded the wrong file, how would you fix it? Please do it now.”
 
-Emotional and cognitive load considerations
-- Avoid multiple consecutive probing questions that demand recall of traumatic details. Instead, intersperse breaks and include brief “how are you doing?” checks.
-- Reduce on‑screen cognitive load: test if participants get overwhelmed by repeated identical content (the guide notes the same content appears multiple places — probe whether redundancy helps or confuses).
-- For participants with anxiety, add a simplified “cheat sheet” or checklist as a test condition and ask whether that would help.
+5) Operational suggestions for the sessions
+- Use scenario-based tasks with concrete file names (not just “pretend”) so participants will act rather than only narrate.
+- For mobile participants, include at least one task to take a photo or attach a file from the phone to test camera workflows.
+- Recruit and schedule at least 2 participants who use assistive tech to get real accessibility feedback.
+- Ensure the moderator times key tasks and asks follow-up questions when participants pause or reread.
+- Have a scripted distress protocol and quick links to VA mental-health resources available to share in chat and in the final thank-you email.
+- Add a short post-session survey or quick 1–5 scale questions to quantify hypotheses: clarity of steps, helpfulness of mental health guidance, and usefulness of summary screens.
 
-Mental model alignment checks (concrete)
-- Add card‑sort or ranking tasks to see how participants group document types.
-- Ask “Where would you expect the site to store/view uploaded documents later?” to understand expectations of persistence, editing, and sharing with representatives.
-- Probe expectations about confirmation: “After you upload, what confirmation do you expect? Email? Dashboard? Paper mail?”
+6) How to measure success against the hypotheses (suggested pass/fail rules)
+- Hypothesis: “Most participants will be able to understand that there are three steps.”
+  - Measure: percent who correctly name and order the three steps after the orientation page. Aim for ≥70% to support hypothesis.
+- Hypothesis: “Most participants will find specific guidance for uploading mental health docs helpful.”
+  - Measure: percent who rate guidance 4–5 on a 1–5 usefulness scale and can cite at least one concrete thing that was useful. Aim for ≥70%.
+- Hypothesis: “Most participants will find the summary screens helpful for reflecting/confirming.”
+  - Measure: percent who use the summary to confirm uploads and report ≥7/10 confidence. Aim for ≥70%.
+- Hypothesis: “Most participants will understand the document descriptions and find external links supportive.”
+  - Measure: percent who click the link, report it answered their question (4–5/5), and correctly classify 4 of 5 example docs. Aim for ≥70%.
 
-Script edits (concrete suggested wording and placements)
-- Before recording: add “[FACILITATOR] If at any time you feel uncomfortable, say ‘pause’ and we’ll stop. Would you like a quick reminder of resources available before we start?”  
-- After upload tasks: add post‑task confidence rating: “On a scale of 1–5, how confident are you that the documents you uploaded will be accepted?”  
-- After error scenarios: “What would make that error message helpful? What would you need to know to fix this?”
+7) Accessibility, emotional & cognitive load, mental-model alignment — key considerations
+- Accessibility:
+  - Explicitly test with assistive tech users; confirm keyboard focus order, aria labels on accordions, and that file input is reachable and announces the chosen file.
+  - Test contrast, font sizes, and that interactive affordances (accordion chevrons, links) have visible focus states.
+  - For mobile: ensure the file upload flow supports camera access and that instructions for scanning are clear for phone users.
+- Emotional load:
+  - Keep the tone non-triggering; allow participants to skip specifics and provide alternative phrasing options in the script.
+  - Add short breaks or offer to pause after mental-health tasks to limit emotional fatigue.
+  - Debrief and provide support information at the end.
+- Cognitive load:
+  - Break tasks into smaller steps for participants with memory and attention difficulties.
+  - Use plain-language prompts and confirm comprehension by asking participants to restate instructions.
+- Mental-model alignment:
+  - Use card-sort or example-based categorization tasks to discover whether UI groupings (mental health first, then other docs) match users’ expectations. Expect some rework if common misclassifications appear.
 
-Test plan and analysis suggestions
-- Use mixed metrics: success rate, time on task, error types, and Likert confidence/preference. Combine with qualitative themes: confusion points, unmet expectations, emotional friction.
-- Code transcripts for: comprehension errors (misinterpretation of guidance), mental‑model mismatches (expectation vs reality), access issues (assistive tech or mobile), and emotional distress signals (pause requests, content avoidance).
-- Pre‑register primary usability metric(s) aligned with top hypotheses (e.g., “Participants successfully upload correct evidence in ≤1 attempt in 80% of sessions”).
+8) Prioritized checklist to update the conversation guide (quick actionable edits)
+1. Add a direct “three steps” comprehension check right after Evidence Orientation. (High priority)  
+2. Replace “pretend you want to add a document” with concrete upload tasks using named example files and require participants to actually use the upload flow (or narrate exact steps if file upload is disabled). (High)  
+3. Add tasks to open accordions/additional info and to click external links, and capture ratings (High).  
+4. Add card-sort-style categorization of example documents to reveal mental models (High).  
+5. Add structured post-page metrics: clarity/usefulness/confidence (1–5 or 0–10) (Medium).  
+6. Recruit and test at least 2 participants who use assistive tech and add explicit accessibility probes to the guide (High).  
+7. Add explicit trauma-informed language, a distress protocol, and a debrief/mental-health resources snippet in the final “Thank you” (High).  
+8. Add mobile-specific tasks (taking photo/attaching from camera) for at least 3 participants (Medium).  
+9. Add error-recovery tasks: replace/delete file and re-upload (Medium).  
+10. Add time-on-task and success/failure logging instructions for facilitators and note-takers (Medium).
 
-Example additional questions to insert (copy‑paste ready)
-- Warmup, after “What type of support or resources did you use?” add: “When you were choosing which documents to upload, how did you decide what would prove your condition? Where did that idea come from?”  
-- On 0781 Doc Upload orientation, add: “If you had to explain to someone what ‘treatment records’ are in one sentence, what would you say?”  
-- On upload page, add: “If you only had photos of a handwritten journal, would you upload them here? Why or why not?”  
-- After summary: “If you wanted to change an uploaded file later, where would you expect to do that in the site?”
+9) Example small edits to script (suggested phrasing)
+- Before showing 0781 pages:
+  - “Before we continue: this section asks about mental health evidence and may touch on sensitive subjects. You can skip any question or stop at any time. Is it okay to continue?”
+- Three-step check (after orientation):
+  - “Thinking about what you just read, how many steps do you think are involved to upload evidence in this section? Please list each step in the order you expect.”
+- Concrete upload task:
+  - “Please upload the file named ‘therapy_note.pdf’ to support the PTSD claim. Tell me what you’re doing as you do it. If you can’t upload, tell me exactly what you would click and where you would put the file.”
+- Accessibility probe:
+  - “Do you use any assistive technology to browse websites? If yes, would you be willing to try a short task with that tool or describe how you’d expect to find the upload control?”
 
-Next steps I can take for you
-- If you share the Research Plan (or paste the goals and hypotheses), I will:
-  - Produce a one‑to‑one mapping between each hypothesis and the exact task(s) and probe(s) that should be in the guide.
-  - Create an updated conversation guide snippet with the new wording integrated (I can paste the revised guide sections back into the file format you used).
-  - Produce a short analysis template (spreadsheet or rubric) for coding sessions and capturing metrics.
+10) Final note on ethics and data quality
+- The research-plan calls for recruiting participants with PTSD and trauma histories. The guide includes some opt-out language, but ensure moderators are trained on trauma-informed interviewing and that an accessibility specialist is present or readily available. Track distress incidents and stop if necessary. These practices both protect participants and improve data quality (participants will be more candid and accurate if they feel safe).
 
-Would you like me to:
-- (A) Map the guide to your actual Research Plan (please paste or link it), or
-- (B) Generate an updated conversation guide with the specific additions above integrated as an edited version of the file you provided?
+If you’d like, I can:
+- Produce a redlined version of the conversation guide with the exact recommended edits inserted (scripted probes, new tasks, rating questions, accessibility checks, distress protocol).
+- Create a short facilitator checklist and a note-taker template to capture the quantitative measures (task success, time on task, ratings, whether accordions/links were opened) and important qualitative tags (confusion, emotional distress, mis-categorization).
 
-Either option I’ll do next as soon as you confirm and (if option A) provide the Research Plan link or copy of the plan.
+Which would you prefer next — a redlined conversation guide or a facilitator + note-taker template?
