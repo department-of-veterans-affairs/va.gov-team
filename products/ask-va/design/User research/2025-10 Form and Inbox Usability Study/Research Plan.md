@@ -208,5 +208,5 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 
 ## Approvals ✅
 
-- `Reviewed by` Becky Phung`, OCTO Product Owner on [MM-DD-YYYY]`  
+- `Reviewed by` Becky Phung`, OCTO Product Owner on 10-16-2025`  
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
