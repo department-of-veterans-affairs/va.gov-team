@@ -1,6 +1,7 @@
 # Accordion Expand / Collapse control discovery
 
 This document summarizes government design systems that **support global “Expand All / Collapse All”** functionality for accordion components, focusing on **differences in implementation and accessibility reasoning**.  
+
 Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
 
 ---
@@ -32,6 +33,10 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
 **Notes:**  
 - The focus is on developer flexibility, allowing implementers to decide whether to include expand/collapse all functionality.
 
+**References:**  
+- [Accordion Component Documentation](https://designsystem.digital.gov/components/accordion/)
+- [Accordion Accessibility Tests](https://designsystem.digital.gov/components/accordion/accessibility-tests/)
+
 ---
 
 ### 🇬🇧 GOV.UK Design System
@@ -50,6 +55,10 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
 - Avoids presenting “dead” controls; the single button communicates the valid action at all times.
 - Hidden SR-only text further clarifies the purpose of the action to screen reader users.
 
+**References:**  
+- [GOV.UK Accordion Component](https://design-system.service.gov.uk/components/accordion/)
+- [Improving Accordion Accessibility](https://insidegovuk.blog.gov.uk/2021/10/29/how-we-made-the-gov-uk-accordion-component-more-accessible/)
+
 ---
 
 ### 🇦🇺 Australian Government (AGDS / NSW / QLD)
@@ -67,6 +76,10 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
 **Notes:**  
 - Showing both buttons simultaneously provides a consistent, explicit representation of all available actions.
 - This pattern can enhance comprehension for users of older assistive technologies or users who benefit from stable layouts.
+
+**References:**  
+- [NSW Digital Design System Accordion](https://designsystem.nsw.gov.au/components/accordion/index.html)
+- [Queensland Government Accordion](https://www.designsystem.qld.gov.au/components/accordion)
 
 ---
 
@@ -94,3 +107,20 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
   - Dual buttons may be preferred in environments with older assistive technologies or when explicit visibility of all actions is critical.
 
 ---
+
+## 📚 WCAG 2.4.5: Multiple Ways
+
+**Guidance:**  
+- **Success Criterion 2.4.5**: More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process.
+
+**Intent:**  
+- The intent of this Success Criterion is to make it possible for users to locate content in a manner that best meets their needs. Users may find one technique easier or more comprehensible to use than another.
+
+**Specific Benefits:**
+- Providing an opportunity to navigate sites in more than one manner can help people find information faster. Users with visual impairments may find it easier to navigate to the correct part of the site by using a search, rather than scrolling through a large navigation bar using a screen magnifier or screen reader. A person with cognitive disabilities may prefer a table of contents or site map that provides an overview of the site rather than reading and traversing through several Web pages. Some users may prefer to explore the site in a sequential manner, moving from Web page to Web page in order to best understand the concepts and layout.
+
+**Reference:**  
+- [Understanding Success Criterion 2.4.5: Multiple Ways](https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html)
+
+---
+
