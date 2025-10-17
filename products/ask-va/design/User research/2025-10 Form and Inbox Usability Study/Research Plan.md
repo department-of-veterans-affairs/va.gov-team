@@ -90,7 +90,10 @@ Veteran submitters don’t understand the internal routing processes to get thei
 **For moderated usability test:**
 
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2024-05%20Dashboard/Conversation%20guide%20-%20Veterans.md)  
-- [Ask VA staging site](https://staging.va.gov/contact-us/ask-va/introduction)  
+- [Ask VA staging site](https://staging.va.gov/contact-us/ask-va/introduction)
+  - Login credentials
+    - Email: vets.gov.user+41@gmail.com 
+    - Password: AskVA2025Testing
 - Prototype (still in work)
 
 ## Recruitment
