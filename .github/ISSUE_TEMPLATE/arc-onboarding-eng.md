@@ -1,16 +1,16 @@
 ---
 name: ARC Onboarding - Engineering
 about: Onboarding new Engineers to the ARC team
-title: 'Engineering Onboarding to VA'
+title: 'Engineering Onboarding to ARC'
 labels: ar-crew, engineering
 assignees: ''
 type: Task
 
 ---
 
-### Engineering Onboarding to VA
+### Engineering Onboarding to ARC
 
-To be completed after the General Onboarding to VA tasks, which all ARC teammates will need to go through.
+To be completed after the General Onboarding to ARC tasks, which all ARC teammates will need to go through.
 
 - [ ] Review [VA.gov](http://va.gov) [Platform Infrastructure ](https://depo-platform-documentation.scrollhelp.site/developer-docs/infrastructure)Guidelines
 
