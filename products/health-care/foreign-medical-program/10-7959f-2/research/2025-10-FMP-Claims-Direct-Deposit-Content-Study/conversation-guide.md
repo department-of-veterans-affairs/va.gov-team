@@ -95,7 +95,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
 - Open the prototype and take a minute to look it over and please remember to think aloud.
 - Based on this page, what would you do next if you were filing your first FMP claim today?
-- [ ] QUESTION - structure prototype with a pause screen here upon any click? Have participant click before asking next two questions.
+- [ ] Have participant click anywhere to get to pause screen before asking the next two questions.
 - Can you state in your own words what the information and alert on that previous page meant?
 - On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the clarity of information on this first page?
 
@@ -108,10 +108,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: [Direct Deposit Static Page] - 5 minutes
 
-- [ ] QUESTION - From pause screen - create prototype to go to static page upon click in the Fgma prototype?
+- [ ] From pause screen, click continue to get to static page.
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
 - What are your impressions of this page and your understanding of the content here? Please remember to think aloud.
-- Same as before, on a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the instructions on this page?
+- [ ] Have participant click anywhere to get to pause screen before asking the next two questions.
+- [ ] Can you state in your own words the process to set up direct deposit for FMP claims?
+- Same as before, on a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the instructions on that previous page?
 - Would you call out anything on this page as being either especially helpful or confusing for you?
   
 
@@ -124,8 +126,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: [FMP Form Flow and Upload] - 10 minutes
 
-- [ ] Might have to redirect to prototype link here
-- Navigate through the prototype now focusing on the content instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk thorugh each page. We would like you to focus your feedback on the content and information on the page so we can work to make that better for Veterans.
+- [ ] From static page pause screen, have participant click continue to jump through the form.
+- Now we are going to go back to the form for filing the claim. Imagine that you have navigated through pages that ask you to confirm you basic information and then you arrive here. 
+- Navigate through the prototype now focusing on the content and instructions - you don't need to enter anything into the fields, just keep clicking the continue button after you review and talk through your thought process on each page. 
 - [ ] Pause before starting upload screens
 - Before moving on, can you explain your understanding of the content on that previous page?
 - [ ] Upload screens
@@ -142,15 +145,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Third Task: [Confirmation Page] - 10 minutes
 
 
-- [ ] Participant arrives at Confirmation Page
+- [ ] Participant arrives at Confirmation Page in the Figma prototype
 - Now this is the page where you have submitted your FMP Claim online. Can you explain to me your understanding of what happens next and any action you might need to take?
 - What is your confidence rating - 1 being very low and 5 being very high - that you have direct deposit correctly set up based on this prototype and this page here?
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant notice the direct deposit information on the confirmation page and call it out as being redundant or helpful?]
-
-
 
 
 
@@ -195,7 +196,3 @@ Thank you so much again, and enjoy the rest of your day!
 In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
 
 ---
-
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
