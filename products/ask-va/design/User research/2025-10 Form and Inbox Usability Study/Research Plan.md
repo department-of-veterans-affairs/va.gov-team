@@ -18,8 +18,6 @@ In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. Wit
 
 ## Veteran Journey
 
-* `Joining`  
-* `Serving`  
 * `Getting Out`  
 * `Starting Up`  
 * `Taking Care of Myself`  
