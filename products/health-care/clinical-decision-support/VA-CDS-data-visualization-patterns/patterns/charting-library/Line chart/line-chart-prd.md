@@ -25,6 +25,15 @@ The outcome of this project is to deliver a robust, accessible, and reusable lin
 - export or download functionality
 
 ## User Stories
+As a designer, I want a flexible Line Graph pattern in Figma so that I can visually represent data
+As a developer, I want a reusable Line Graph pattern so that I can support dynamic data inputs
+As a product team, we want to customize colors, labels, axis formats, and legends so that we can match our use-case needs
+As a mobile user, I want the Line Graph to adapt gracefully to smaller screens so that I won't lose context of information
+As a contributor, I want clear documentation and examples so that I can implement and extend the Bar Graph pattern confidently
+Accessibility & Usability:
+As a user with a screen reader, I want the Line Graph to provide semantic context and value labels so that I can synthesize the information
+As a user using Voice Control, I want the Line Graph to provide semantic context and value labels so that I can navigate and interact with the line graph
+As a keyboard-only user, I want to navigate to and through the Line Graph using standard keyboard controls so that I can access all relevant chart information (e.g. line labels, values, groupings) without relying on a mouse
 
 ## Pilot Partners
 ### 1. Medical Calculators
