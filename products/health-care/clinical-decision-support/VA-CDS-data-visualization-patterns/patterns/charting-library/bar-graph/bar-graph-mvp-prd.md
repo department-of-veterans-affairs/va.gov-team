@@ -2,7 +2,7 @@
 - **Version:** MVP 
 - **Start Date:** July 9, 2025
 - **End Date:** 
-- **Status:** draft
+- **Status:** in progress
 
 ## Overview
 The Bar Graph is the second chart type to be implemented within our chart library. It will provide a flexible and accessible way to visualize categorical data with rectangular bars. The component will build on the existing chart library architecture and adhere to our design system’s guidelines, emphasizing usability, accessibility, and theming.
@@ -34,15 +34,7 @@ Clinicians operate in data-dense environments where they must quickly interpret 
    - As a user using Voice Control, I want the Bar Graph to provide semantic context and value labels so that I can navigate and interact with the bar graph
    - As a keyboard-only user, I want to navigate to and through the Bar Graph using standard keyboard controls so that I can access all relevant chart information (e.g. bar labels, values, groupings) without relying on a mouse
 
-## Requirements
 
-- **P1:** Must have. Prioritized into scope.  
-- **P2:** not in scope. Can be a post-MVP enhancement or contributed back by product teams.
-- **P3:** not in scope. May not be a candidate for the pattern design and more appropriate as an enhancement in the consumer's product UX instead.
-
-| Requirements  | Priority Level  |
-| :------------- | ------------- |
-| 
 
 ## Epic
 [#1540 Chart Library: Bar Graph](https://github.com/department-of-veterans-affairs/clinical-design-system/issues/1540)
@@ -51,5 +43,7 @@ Clinicians operate in data-dense environments where they must quickly interpret 
 [Design Exploratory of Use Cases](https://www.figma.com/design/y2tH8ZpfcFQEekwbTB1WB8/Clinical-Design-System---Sandbox?node-id=14688-266&p=f&t=Rig0KBszAE5oCJVY-0)
 
 ## Artifacts for Users
-
+1. [UI Kit](https://www.figma.com/design/f2zr6Zvf9ssGgfBnBan1sY/Clinical-Design-System---V-5.3.1?node-id=16482-26&p=f&t=rk7QsDkOVhMpoN6I-0)
+2. [Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/story/components-chart--bar-chart-single)
+3. [VA Clinical Design System Documentation](https://department-of-veterans-affairs.github.io/clinical-design/components/chart)
 
