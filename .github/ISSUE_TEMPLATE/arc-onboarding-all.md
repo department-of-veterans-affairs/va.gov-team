@@ -1,7 +1,7 @@
 ---
 name: ARC Onboarding - All Teammates
 about: Onboarding new teammates to the ARC team
-title: ''
+title: 'General Onboarding to VA'
 labels: ar-crew
 assignees: ''
 type: Task
