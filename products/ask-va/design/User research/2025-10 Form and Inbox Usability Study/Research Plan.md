@@ -6,7 +6,7 @@
 
 Ask VA is comprised of a contact form and inbox where Veterans, family members, and other submitters can get answers to any VA question and submit documentation. Ask VA is available to both authenticated and unauthenticated users. The frontend integrates with a backend customer relationship management (CRM) application that routes questions to the appropriate VA team. Multiple VA teams can access and use the CRM.
 
-In May 2025 the product was moved onto the [VA.gov](http://VA.gov) platform. With this update, several aspects of the product changed. Feedback since the launch leads us to believe that these changes are causing some significant challenges for our users that require a holistic evaluation.
+In this research we are specifically exploring Veteran and business (education) submitters' input on how well the current Ask VA form and inbox are working to meet their needs. We hope to uncover opportunities to reduce the burden of the form and improve the inbox experience. 
 
 [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md)
 
