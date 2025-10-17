@@ -1,7 +1,6 @@
 # Accordion Expand / Collapse control discovery
 
 This document summarizes government design systems that **support global “Expand All / Collapse All”** functionality for accordion components, focusing on **differences in implementation and accessibility reasoning**.  
-
 Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
 
 ---
@@ -106,21 +105,10 @@ Systems without this functionality (e.g., Canada.ca, NHS, NZ) are excluded.
   - Dynamic toggle works well with modern AT and cognitive load minimization.
   - Dual buttons may be preferred in environments with older assistive technologies or when explicit visibility of all actions is critical.
 
----
-
-## 📚 WCAG 2.4.5: Multiple Ways
-
-**Guidance:**  
-- **Success Criterion 2.4.5**: More than one way is available to locate a Web page within a set of Web pages except where the Web Page is the result of, or a step in, a process.
-
-**Intent:**  
-- The intent of this Success Criterion is to make it possible for users to locate content in a manner that best meets their needs. Users may find one technique easier or more comprehensible to use than another.
-
-**Specific Benefits:**
-- Providing an opportunity to navigate sites in more than one manner can help people find information faster. Users with visual impairments may find it easier to navigate to the correct part of the site by using a search, rather than scrolling through a large navigation bar using a screen magnifier or screen reader. A person with cognitive disabilities may prefer a table of contents or site map that provides an overview of the site rather than reading and traversing through several Web pages. Some users may prefer to explore the site in a sequential manner, moving from Web page to Web page in order to best understand the concepts and layout.
-
-**Reference:**  
-- [Understanding Success Criterion 2.4.5: Multiple Ways](https://www.w3.org/WAI/WCAG21/Understanding/multiple-ways.html)
+**References:**  
+- [W3C WAI-ARIA Authoring Practices Guide – Accordion Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/)
+- [Equalize Digital – How to Code Accessible Accordions](https://equalizedigital.com/how-to-code-accessible-accordions/)
+- [TPGi – Best Practices for Inclusive Design](https://www.tpgi.com/best-practices-for-inclusive-design/)
 
 ---
 
