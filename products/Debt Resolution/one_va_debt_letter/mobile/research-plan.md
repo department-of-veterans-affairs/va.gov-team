@@ -262,7 +262,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
   - **Natasha Huckleberry**
   - **Thomas Michaud**
   - **Natalie Davied Gibbons**
-  - **Jason DeHaan**
+  - **Emily Goodrich**
   - **Parker Baranowski**
   - **Michelle Middaugh**
   - **Denise Coveyduc**
