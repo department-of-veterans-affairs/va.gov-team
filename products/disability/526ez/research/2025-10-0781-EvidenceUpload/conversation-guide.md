@@ -1,4 +1,6 @@
-# Introduction (5 mins)
+# Conversation guide for 0781 Upload Documents, Disability Benefits, Pathways Team, September 2025
+
+## Introduction (5 mins)
 
 Welcome, and thank you so much for taking the time to join us today. My name is (NAME) and I’m a researcher, I am part of a team at the VA that is trying to improve the disability benefits application so Veterans can submit claims and get benefits as quickly as possible. 
 
@@ -48,7 +50,7 @@ Tip: After you start the recording, click the Show captions (CC) button to enabl
   
   
 
-# Warm-up questions (10 min)
+## Warm-up questions (10 min)
 
 Before we look at the form, I have a few questions about your experience with VA disability benefits.
 
@@ -84,7 +86,7 @@ Thank you for sharing your experience.
 
 We are now going to transition into testing a demo version of the form.
 
-# Prototype: Screensharing (3 min)
+## Prototype: Screensharing (3 min)
 
 I’m going to send you a link to the prototype in the chat and then have you share your screen. Before we do that, please take a minute to close anything you don’t want to share with us, like your personal email.
 
@@ -130,7 +132,7 @@ Now that I can see your screen, I see you have entered our prototype. It looks l
 
 And now, from here we’d like to go slower and get your feedback on these next pages.
 
-# Prototype: Questions (30 min)
+## Prototype: Questions (30 min)
 
   
 
@@ -309,7 +311,7 @@ Ok, let’s continue to the next step. 
   
   
 
-# Wrap-up (10 mins)
+## Wrap-up (10 mins)
 
 We’re going to wrap up at this step in the process. Thanks for walking through those pages with us! We just have a few final reflection questions.
 
@@ -327,7 +329,7 @@ We’re going to wrap up at this step in the process. Thanks for walking through
 
   
 
-# Thank you (2 mins)
+## Thank you (2 mins)
 
 (If recorded) I want to circle back and re-confirm that you are comfortable that we recorded today’s conversation. Just to remind you, we use the recordings to confirm that we have captured your feedback accurately. After we complete the analysis, the recordings are deleted, and none of your comments will be attributed to you directly.
 
