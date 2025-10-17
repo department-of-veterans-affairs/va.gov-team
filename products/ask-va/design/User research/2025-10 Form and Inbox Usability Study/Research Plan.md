@@ -196,14 +196,15 @@ We will recruit 5 additional business submitters for a total of 4 completed sess
 - `Project point of contact:` **Elena B. Naids**  
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **–**  
 - `Note-takers:` **Danielle Oppendike**  
-- `Observers`   
-  \[\!NOTE\] This is a *potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
-  - **Becky Phung**  
+- `Observers`  - *This is a potential list of observers across all sessions. We will limit each session to a max of 2 observers.*   
+  - **Becky Phung**
+  - **Megan Salerno**  
   - **Stephanie Vargo**  
   - **Matt Floyd**  
   - **Sumit Patel**  
   - **Walker Marlatt**  
   - **Alex Castillo**
+  - **Kayla Watanabe**
 
 ## Approvals ✅
 
