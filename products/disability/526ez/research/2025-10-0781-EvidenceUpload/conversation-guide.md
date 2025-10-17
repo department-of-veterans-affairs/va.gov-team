@@ -246,7 +246,7 @@ Before you continue on to the next page, what do you expect to see next? Great, 
 - Does this reflect the actions you took on the previous page?
 - Is there anything you’d expect to see on this page that isn’t there now?
 - Delete a file
-    - Let’s say you wanted to delete the journal entry. How would you do that? (actually go through and delete)
+    - Let’s say you realized the second file you uploaded was the wrong one. How would you fix that? (actually go through and delete)
 - What do you think happens when you click on continue?
     
 
