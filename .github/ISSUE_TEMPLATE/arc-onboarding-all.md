@@ -1,13 +1,13 @@
 ---
 name: ARC Onboarding - All Teammates
 about: Onboarding new teammates to the ARC team
-title: 'General Onboarding to VA'
+title: 'General Onboarding to ARC'
 labels: ar-crew
 assignees: ''
 type: Task
 
 ---
-### General Onboarding to VA
+### General Onboarding to ARC
 Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](http://va.gov) email, you can get access to the following tools: 
 
 - [ ] **Platform Orientation.** Watch [VA.gov](http://va.gov) Platform Orientation [video](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation). 
