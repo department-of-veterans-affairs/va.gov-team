@@ -206,7 +206,6 @@ Imagine, it’s been a few months since you submitted that question, and in that
 
 Now we’re going to ask you to complete very similar tasks in a slightly different system. We want to understand which experience you prefer. 
 
----
 
 ## Task 3: Submit Education and Work Study Question \[COMPARISON\] \- 10 minutes
 
