@@ -209,7 +209,7 @@ _Mental health conditions_
 * Observers: To be determined a week before research
 
 ## **Approvals ✅**
-Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
+Reviewed by Liz Lantz on 10-17-2025
 Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
 
 ## 
