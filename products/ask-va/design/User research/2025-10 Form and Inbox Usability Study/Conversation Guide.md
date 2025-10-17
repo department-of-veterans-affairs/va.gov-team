@@ -14,12 +14,12 @@
 - [ ] Start a thread in \#feedback-backchannel  
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).  
 - [ ] Start a thread in Teams, General channel for CRM folks  
-- [ ] Ensure Zoom is setup correctly:  
-      - [ ] Sign into Perigean’s Zoom and start the meeting  
-      - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`  
-      - [ ] Check Zoom settings and make sure participants have permission to share  
-      - [ ] In the Attendees section, make sure everyone except the participant is on mute.  
-      - [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
+- [ ] Ensure Zoom is setup correctly:
+  - [ ] Sign into Perigean’s Zoom and start the meeting  
+  - [ ] Turn on transcriptions by clicking `LIVE TRANSCRIPT` and `ENABLE`  
+  - [ ] Check Zoom settings and make sure participants have permission to share  
+  - [ ] In the Attendees section, make sure everyone except the participant is on mute.  
+  - [ ] In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
 - [ ] Open conversation guide  
 - [ ] Open [Ask VA](https://ask.va.gov/) (be ready to screenshare)  
 - [ ] Open prototype (be ready to screenshare if needed)  
@@ -80,6 +80,11 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 [Veteran Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing-veteran-testing)  
 [SCO Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing-sco-testing)
 
+|  | Group A \- Staging then Prototype | Group B *\-* Prototype then Staging |
+| :---- | :---- | :---- |
+| Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
+| Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
+
 # Veteran Testing
 
 ## Warm-up Questions \- 12 minutes
@@ -96,20 +101,25 @@ Before we look at the website, let’s start with a couple warm-up questions.
 
 Now we’re going to move into the next part of this session. I’m going to provide you with a few scenarios and tasks. 
 
-|  | Group A \- Staging then Proto | Group B *\-* Proto then Staging |
-| :---- | :---- | :---- |
-| Participants | \- **Veterans** (3-4) \- **Veteran SCOs** (1)  \- **SCOs** (2-3) | \- **Veterans** (3-4) \- **Veteran SCOs** (1)  \- **SCOs** (2-3) |
-| Links | [Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\) Prototype (Task 3, 4\) | Prototype (Task 1, 2\) [Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\) |
-
 ## Task 1: Submit Education and Work Study Question \- 13 minutes
 
 *Goal: Learn about problem areas in submitting the form for education requests from Veterans.* 
 
+> [!NOTE]
+> Depending on which Group a participant is in (A or B) they may go through staging or the prototype first. 
+
 **Staging**  
-Imagine, you’re having an issue with your work study benefits. You’ll need to login to [VA.gov](http://VA.gov) using…and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
+First, you’ll need to login. I've provided a link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+41@gmail.com 
+- Password: AskVA2025Testing
+
+Now imagine, you’re having an issue with your work study benefits. You’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
 
 **Prototype**  
-Imagine, you’re having an issue with your work study benefits. You’re already logged into [VA.gov](http://VA.gov) and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
+Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to get help. 
+
+##
 
 Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
 
@@ -150,12 +160,22 @@ Before you click on anything to complete this task, take a second to look around
 ## Task 2: Review Question in Inbox \- 5 minutes
 
 *Goal: Learn how Veterans expect to review their previous asked questions and their status.*  
-   
+
+> [!NOTE]
+> Participants will complete Task 2 in the same environment they completed Task 1. 
+
 **Staging**  
-Imagine, it’s been 6 days since you submitted a question about your education benefits. You may need to login to [VA.gov](http://VA.gov) again with the same credentials as before so you can see if your question has been responded to. Using the same link in the chat, show us how you would check on your most recently asked question. 
+You’ll need to login again. I've provided a new link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+220@gmail.com 
+- Password: AskVA2025Test
+
+Now imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You now want to go back to see the specific question you asked about your work study benefits. Show us how you would check on that question. 
 
 **Prototype**  
-Imagine, it’s been 6 days since you submitted a question about your education benefits. You’re already logged into [VA.gov](http://VA.gov). Using the link in the chat, show us how you would check on your most recently asked question. 
+Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the link in the chat **[STILL NEED TO ADD]**, Show us how you would check on your question about work study benefits. 
+
+##
 
 #### Probing questions:
 
@@ -192,18 +212,24 @@ Now we’re going to ask you to complete very similar tasks in a slightly differ
 
 *Goal: Learn about problem areas in submitting the form for education requests from Veterans.* 
 
+> [!NOTE]
+> Participants will now complete the same tasks as 1 and 2 in the opposite environment. 
+
 **Staging**  
-Again imagine, you’re having an issue with your work study benefits. You’ll need to login to [VA.gov](http://VA.gov) using…and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
+First, you’ll need to login. I've provided a link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+41@gmail.com 
+- Password: AskVA2025Testing
+
+Now imagine, you’re having an issue with your work study benefits. You’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
 
 **Prototype**  
-Again imagine, you’re having an issue with your work study benefits. You’re already logged into [VA.gov](http://VA.gov) and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
+Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to get help. 
+
+##
 
 #### Probing questions:
 
-- ***Categories/topics***  
-  - *How do you interpret the lists you’re seeing? What do they mean to you?*  
-  - *How important do you think these questions are?*  
-  - *What would you do, if you couldn’t find an option that fit your needs?*  
 - **Question** \- Feel free to type in any question that you may have had about your education or work study benefits here.   
   - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
   - What information do you think is important to include in your question?  
@@ -231,12 +257,22 @@ Again imagine, you’re having an issue with your work study benefits. You’re 
 ## Task 4: Review Question in Inbox \[COMPARISON\] \- 5 minutes
 
 *Goal: Learn how Veterans expect to review their previous asked questions and their status.*  
-   
+
+> [!NOTE]
+> Participants will now complete the same tasks as 1 and 2 in the opposite environment. 
+
 **Staging**  
-Again imagine, it’s been 6 days since you submitted a question about your education benefits. You may need to login to [VA.gov](http://VA.gov) again with the same credentials as before so you can see if your question has been responded to. Using the same link in the chat, show us how you would check on your most recently asked question. 
+You’ll need to login again. I've provided a new link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+220@gmail.com 
+- Password: AskVA2025Test
+
+Now imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You now want to go back to see the specific question you asked about your work study benefits. Show us how you would check on that question. 
 
 **Prototype**  
-Again imagine, it’s been 6 days since you submitted a question about your education benefits. You’re already logged into [VA.gov](http://VA.gov). Using the link in the chat, show us how you would check on your most recently asked question. 
+Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the link in the chat **[STILL NEED TO ADD]**, Show us how you would check on your question about work study benefits. 
+
+##
 
 #### Probing questions:
 
@@ -319,20 +355,26 @@ Before we look at the website, let’s start with a couple warm-up questions.
 
 Now we’re going to move into the next part of this session. I’m going to provide you with a few scenarios and tasks. 
 
-|  | Group A \- Staging then Proto | Group B *\-* Proto then Staging |
-| :---- | :---- | :---- |
-| Participants | \- **Veterans** (3-4) \- **Veteran SCOs** (1)  \- **SCOs** (2-3) | \- **Veterans** (3-4) \- **Veteran SCOs** (1)  \- **SCOs** (2-3) |
-| Links | [Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\) Prototype (Task 3, 4\) | Prototype (Task 1, 2\) [Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\) |
 
 ## Task 1: Submit Education and Work Study Question \- 13 minutes
 
 *Goal: Learn about problem areas in submitting the form for education requests from SCOs.* 
 
+> [!NOTE]
+> Depending on which Group a participant is in (A or B) they may go through staging or the prototype first. 
+
 **Staging**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ll need to login to [VA.gov](http://VA.gov) using…and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat, show us how you would use Ask VA to do this. 
+First, you’ll need to login. I've provided a link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+41@gmail.com 
+- Password: AskVA2025Testing
+
+Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
 
 **Prototype**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged into [VA.gov](http://VA.gov) and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat, show us how you would use Ask VA to do this. 
+Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to do this. 
+
+##
 
 Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
 
@@ -375,11 +417,22 @@ Before you click on anything to complete this task, take a second to look around
 
 *Goal: Learn how SCOs expect to review their previous submissions and their status.*
 
+> [!NOTE]
+> Participants will complete Task 2 in the same environment they completed Task 1. 
+
 **Staging**  
-So with that in mind, let’s imagine, **\[Prompt from last question\].** You may need to login to [VA.gov](http://VA.gov) again with the same credentials as before so you can review your submissions. Using the same link in the chat, show us how you would check on your most recent submission. 
+You’ll need to login again. I've provided a new link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+220@gmail.com 
+- Password: AskVA2025Test
+
+Now let’s imagine, **\[Prompt from last question\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
 **Prototype**  
-So with that in mind, let’s imagine, **\[Prompt from last question\].** You’re already logged into [VA.gov](http://VA.gov). Using the same link in the chat, show us how you would check on your most recent submission. 
+So with that in mind, let’s imagine, **\[Prompt from last question\].** You're already logged in. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would check on that submission using AskVA.
+
+##
+
 
 #### Probing questions:
 
@@ -416,11 +469,21 @@ Now we’re going to ask you to complete very similar tasks in a slightly differ
 
 *Goal: Learn about problem areas in submitting the form for education requests from SCOs.* 
 
+> [!NOTE]
+> Participants will now complete the same tasks as 1 and 2 in the opposite environment.
+
 **Staging**  
-Again, imagine you’re needing to submit documentation on behalf of a student for their education benefits. You’ll need to login to [VA.gov](http://VA.gov) using…and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat, show us how you would use Ask VA to do this. 
+First, you’ll need to login. I've provided a link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+41@gmail.com 
+- Password: AskVA2025Testing
+
+Again imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
 
 **Prototype**  
-Again, imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged into [VA.gov](http://VA.gov) and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat, show us how you would use Ask VA to do this. 
+Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to do this. 
+
+##
 
 Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
 
@@ -430,10 +493,6 @@ Before you click on anything to complete this task, take a second to look around
 
 #### Probing questions:
 
-- ***Categories/topics***  
-  - *How do you interpret the lists you’re seeing? What do they mean to you?*  
-  - *How important do you think these questions are?*  
-  - *What would you do, if you couldn’t find an option that fit your needs?*  
 - **Question**  
   - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
   - What information do you think is important to include in the  question field?  
@@ -462,11 +521,21 @@ Before you click on anything to complete this task, take a second to look around
 
 *Goal: Learn how SCOs expect to review their previous submissions.*
 
+> [!NOTE]
+> Participants will now complete the same tasks as 1 and 2 in the opposite environment.
+
 **Staging**  
-Again let’s imagine, **\[Prompt from Task 1\].** You may need to login to [VA.gov](http://VA.gov) again with the same credentials as before so you can review your submissions. Using the same link in the chat, show us how you would check on your most recent submission. 
+You’ll need to login again. I've provided a new link, email, and password for you in the chat.
+- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
+- Email: vets.gov.user+220@gmail.com 
+- Password: AskVA2025Test
+
+Again let’s imagine, **\[Prompt from Task 1\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
 **Prototype**  
-Again let’s imagine, **\[Prompt from Task 1\].** You’re already logged into [VA.gov](http://VA.gov). Using the same link in the chat, show us how you would check on your most recent submission. 
+Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would check on that submission using AskVA.
+
+##
 
 #### Probing questions:
 
