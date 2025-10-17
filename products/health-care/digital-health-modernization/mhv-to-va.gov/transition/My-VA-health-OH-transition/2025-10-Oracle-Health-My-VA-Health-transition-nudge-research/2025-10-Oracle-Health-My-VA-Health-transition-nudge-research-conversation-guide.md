@@ -61,7 +61,8 @@ Thanks for answering those questions. I want to transition us to exploring your 
 Great, now I can see your screen!
 
 ### Sign in and show us how they access their patient portal
-* Could you show me how you typically get to your patient portal to manage your healthcare online now?
+Could you show me how you typically get to your patient portal to manage your healthcare online now?
+[Give user time to sign-in]
 
 Task 1: Can you show me how you would check to see details for an upcoming appointment?
 * How would you print that out?
@@ -76,11 +77,10 @@ Task 2: Can you show me how you would request a prescription refill?
 Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it. 
 
 
-
 ## Part 2: Prototype / Reactions to planned tactics (20 mins) 
 
 ### Opening the Figma prototype
--  For the next 20 minutes or so, I want to show what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website, and you won't see your name or your own personal information. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
+-  For the next part of our time together, I want to show what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website, and you won't see your name or your own personal information. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
 
 - To switch over and have you view the prototype, I need you to go back to the Zoom window and click on the chat icon at the bottom of your screen. It should look like a little conversation bubble with three dots inside. Do you see it?
 - Great. In the chat I just dropped a link to the prototype. Can you select that link? It will open up in a web browser momentarily.
