@@ -46,8 +46,14 @@ Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](
 
   - [ ] VBMS UAT (for testing purposes) - [Request Access here](https://dvagov.sharepoint.com/sites/PMDProductDeliveryTesting/Lists/VBMS%20test%20Access%20Requests/AllItems.aspx?web=1\&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTczMjguMjA1ODgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D). 
 
+- [ ] **Review the program goals**
+
+  - [ ] Read through the [Accredited Reps ecosystem product brief](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B779564f1-688c-4ffc-9e10-df8992bdbd34%7D\&action=edit\&wdPid=2450396e)
+
+  - [ ] Read through the VA OCTO’s [definition of our Big Bets](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7Baa029e1d-c242-4a8b-ac02-3622cc6f97f8%7D\&action=edit\&wdPid=63255f6b)
+
+
 - [ ] **Play in Staging.** Get access to staging environment and play around with the product to get first-hand experience and familiarity
 
   - [ ] See ARP [Test Scenarios Canvas](https://dsva.slack.com/docs/T03FECE8V/F0951KYDSHZ)
 
-- [ ] **Product Demo.** Familiarize yourself with the product by watching the [ARM Veteran-facing Products](https://drive.google.com/drive/folders/1OfF6pKMsJAagq676T8b7xM19K1RYb9K-?usp=drive_link) ([VA Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management#demo-videos)) and [Accredited Rep Portal product demos](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Contact%20center%20materials/2025-08%20Contact%20Center%20Demo%20Video/2025-08-03%20Full%20demo%20video.mov?csf=1\&web=1\&e=mKt1kX) (VA Sharepoint)&#x20;
