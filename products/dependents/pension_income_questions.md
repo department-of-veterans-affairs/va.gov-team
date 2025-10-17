@@ -48,8 +48,9 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer, about the ORIGINAL i
 -----
 
 ### Functionalty Overview
-- If a Veteran is removing a dependent, they should not see the income and net worth questions. Instead, the claim should be off-ramped from VA.gov (on hold), so it does not go to RBPS. All dependent removals that might impact pension benefits are manually reviewed.
-- If a Veteran is in receipt of pension, they should not see the dependent income or net worth questions in the 674-only flow. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits.
+- If a Veteran who receives pension is adding a dependent, they should see the income and net worth questions.
+- If a Veteran who receives pension is removing a dependent, they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
+- If a Veteran who receives pension is only adding an exsting depndent as a student through the 674-only flow, they should not see the dependent income or net worth questions. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits.
 - RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
 - DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
 
