@@ -46,7 +46,7 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
     
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**  
     
-  - \*\*If no:\*\* Use Slack to kindly ask the observers to leave the Zoom.  
+  - **If no:** Use Slack to kindly ask the observers to leave the Zoom.  
   - **If yes:** Admit observers.  
   - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)  
   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
@@ -139,8 +139,12 @@ Before you click on anything to complete this task, take a second to look around
   - How do you interpret the lists you’re seeing? What do they mean to you?  
   - How important do you think these questions are?  
   - What would you do, if you couldn’t find an option that fit your needs?  
-- **Question** \- Feel free to type in any question that you may have had about your education or work study benefits here.   
-  - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
+- **Question**
+
+  _(IF STAGING)_ Feel free to type in any question that you may have had about your education or work study benefits here.   
+  _(IF PROTOTYPE)_ You won't be able to type a question into this field, but talk outloud about what question you might want to type in here.   
+
+  -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
 - **Attachment** \- Can you describe a time where you might want to attach something to your question? 
 
@@ -233,8 +237,12 @@ Imagine, you’re having an issue with your work study benefits. You’re alread
 
 #### Probing questions:
 
-- **Question** \- Feel free to type in any question that you may have had about your education or work study benefits here.   
-  - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
+- **Question**
+
+  _(IF STAGING)_ Feel free to type in any question that you may have had about your education or work study benefits here.   
+  _(IF PROTOTYPE)_ You won't be able to type a question into this field, but talk outloud about what question you might want to type in here.   
+
+  -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
 - **Attachment** \- Can you describe a time where you might want to attach something to your question? 
 
@@ -396,9 +404,13 @@ Before you click on anything to complete this task, take a second to look around
   - How do you interpret the lists you’re seeing? What do they mean to you?  
   - How important do you think these questions are?  
   - What would you do, if you couldn’t find an option that fit your needs?  
-- **Question**  
-  - _(IF STAGING)_ How did you determine what to write in the subject field vs. the question field?  
-  - What information do you think is important to include in the question field?  
+- **Question**
+
+  _(IF STAGING)_ Feel free to type in anything that you normally would here for this kind of task.   
+  _(IF PROTOTYPE)_ You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
+
+  -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
+  - What information do you think is important to include in your question?  
 - **Attachment** \- Can you describe a time where you would or wouldn’t attach something to your question? 
 
 #### Things to watch for:
@@ -502,8 +514,12 @@ Before you click on anything to complete this task, take a second to look around
 
 #### Probing questions:
 
-- **Question**  
-  - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
+- **Question**
+
+  _(IF STAGING)_ Feel free to type in anything that you normally would here for this kind of task.   
+  _(IF PROTOTYPE)_ You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
+
+  - *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?  
   - What information do you think is important to include in the  question field?  
 - **Attachment** \- Can you describe a time where you would or wouldn’t attach something to your question? 
 
