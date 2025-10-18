@@ -85,6 +85,12 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 | Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
 | Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
 
+- Prototype links  
+  - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1085-93727&viewport=19%2C157%2C0.05&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1085%3A93727)  
+  - [Veteran (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1)  
+  - [SCO (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1)  
+  - [SCO (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1)
+
 # Veteran Testing
 
 ## Warm-up Questions \- 12 minutes
@@ -117,7 +123,7 @@ First, you’ll need to login. I've provided a link, email, and password for you
 Now imagine, you’re having an issue with your work study benefits. You’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
 
 **Prototype**  
-Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to get help. 
+Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1085-93727&viewport=19%2C157%2C0.05&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1085%3A93727) in the chat, show us how you would use Ask VA to get help. 
 
 ##
 
@@ -173,7 +179,7 @@ You’ll need to login again. I've provided a new link, email, and password for 
 Now imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You now want to go back to see the specific question you asked about your work study benefits. Show us how you would check on that question. 
 
 **Prototype**  
-Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the link in the chat **[STILL NEED TO ADD]**, Show us how you would check on your question about work study benefits. 
+Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1) in the chat, Show us how you would check on your question about work study benefits. 
 
 ##
 
@@ -183,8 +189,6 @@ Imagine, it’s been a few months since you submitted that question, and in that
   - What attributes of your previous question are you looking for?  
   - What information is most important from what you see here?  
   - Is there anything else that isn’t here that might be helpful to you in finding your previous question?  
-- **Replies**  
-  - Can you describe a time where you might want to attach something to your reply? 
 
 #### Things to watch for:
 
@@ -223,7 +227,7 @@ First, you’ll need to login. I've provided a link, email, and password for you
 Now imagine, you’re having an issue with your work study benefits. You’ve been directed to Ask VA to get help with your issue. Using the link in the chat, show us how you would use Ask VA to get help. 
 
 **Prototype**  
-Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to get help. 
+Imagine, you’re having an issue with your work study benefits. You’re already logged in and you’ve been directed to Ask VA to get help with your issue. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1085-93727&viewport=19%2C157%2C0.05&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1085%3A93727) in the chat, show us how you would use Ask VA to get help. 
 
 ##
 
@@ -269,7 +273,7 @@ You’ll need to login again. I've provided a new link, email, and password for 
 Now imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You now want to go back to see the specific question you asked about your work study benefits. Show us how you would check on that question. 
 
 **Prototype**  
-Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the link in the chat **[STILL NEED TO ADD]**, Show us how you would check on your question about work study benefits. 
+Imagine, it’s been a few months since you submitted that question, and in that time you've submitted other questions through Ask VA. You’re already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1) in the chat, Show us how you would check on your question about work study benefits. 
 
 ##
 
@@ -344,15 +348,20 @@ In the rare case of an emergency during a session, be prepared with an [emergenc
 
 Before we look at the website, let’s start with a couple warm-up questions.
 
-1. Describe your role as a School Certifying Official.   
-2. Walk me through your overall process as a SCO, specifically noting how your role interacts with Veteran Affairs.   
-3. Have you used Ask VA in the last 6 months?  
+1._(IF VETERAN AND SCO)_ In the initial survey, you indicated that you leverage VA’s Education or Training benefits and you are an School Certifying Official. Is that correct? 
+  - Can you tell me more about how you are currently leveraging the education benefits?   
+  - Have you experienced any challenges related to receiving your VA education benefits?   
+2. Describe your role as a School Certifying Official.   
+3. Walk me through your overall process as a SCO, specifically noting how your role interacts with Veteran Affairs.   
+4. Have you used Ask VA in the last 6 months?  
    - If yes, can you describe your most recent experience with Ask VA?  
      - How frequently are you using Ask VA?   
      - How many submissions are you completing a week or month?  
    - If no, move on to tasks
 
 Now we’re going to move into the next part of this session. I’m going to provide you with a few scenarios and tasks. 
+
+_(IF VETERAN AND SCO)_ We're going to walk  you through tasks that you would complete as an SCO, but we'd love to hear your thoughts as we go along about what might be different for you as both a Veteran and an SCO. 
 
 
 ## Task 1: Submit Education and Work Study Question \- 13 minutes
@@ -371,7 +380,7 @@ First, you’ll need to login. I've provided a link, email, and password for you
 Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
 
 **Prototype**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to do this. 
+Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1) in the chat, show us how you would use Ask VA to do this. 
 
 ##
 
@@ -388,9 +397,9 @@ Before you click on anything to complete this task, take a second to look around
   - How important do you think these questions are?  
   - What would you do, if you couldn’t find an option that fit your needs?  
 - **Question**  
-  - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
-  - What information do you think is important to include in the  question field?  
-- **Attachment** \- Can you describe a time where you wouldn’t attach something to your question? 
+  - _(IF STAGING)_ How did you determine what to write in the subject field vs. the question field?  
+  - What information do you think is important to include in the question field?  
+- **Attachment** \- Can you describe a time where you would or wouldn’t attach something to your question? 
 
 #### Things to watch for:
 
@@ -409,7 +418,8 @@ Before you click on anything to complete this task, take a second to look around
   	*1 being very unsatisfied, and 5 being very satisfied*
 
 - What worked well for you when submitting something through Ask VA? What didn’t work well?   
-- What would you do next after submitting? What would you expect Ask VA to do next?  
+- What would you do next after submitting? What would you expect Ask VA to do next?
+- _(IF VETERAN AND SCO)_What differences might you expect when completing the form related to your status or services as a Veteran rather than your role as an SCO?
 - What might prompt you to return to Ask VA related to this specific submission? Is there anything in your process that leads you back here?
 
 ## Task 2: Review Question in Inbox \- 5 minutes
@@ -428,7 +438,7 @@ You’ll need to login again. I've provided a new link, email, and password for 
 Now let’s imagine, **\[Prompt from last question\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
 **Prototype**  
-So with that in mind, let’s imagine, **\[Prompt from last question\].** You're already logged in. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would check on that submission using AskVA.
+So with that in mind, let’s imagine, **\[Prompt from last question\].** You're already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1) in the chat, show us how you would check on that submission using AskVA.
 
 ##
 
@@ -439,8 +449,6 @@ So with that in mind, let’s imagine, **\[Prompt from last question\].** You're
   - What attributes of your submission are you looking for?  
   - What information is most important from what you see here?  
   - Is there anything else that isn’t here that might be helpful to you in finding your previous question?  
-- **Replies**  
-  - Can you describe a time where you might want to attach something to your reply? 
 
 #### Things to watch for:
 
@@ -458,7 +466,9 @@ So with that in mind, let’s imagine, **\[Prompt from last question\].** You're
 - On a scale from 1-5, how satisfied were you with this process?   
   	*1 being very unsatisfied, and 5 being very satisfied*
 
-- What worked well for you when reviewing your previous Ask VA submissions? What didn’t work well? 
+- What worked well for you when reviewing your previous Ask VA submissions? What didn’t work well?
+- _(IF VETERAN AND SCO)_What differences might you expect when reviewing questions related to your status or services as a Veteran rather than your role as an SCO?
+
 
 Now we’re going to ask you to complete very similar tasks in a slightly different system. We want to understand which experience you prefer. 
 
@@ -480,7 +490,7 @@ First, you’ll need to login. I've provided a link, email, and password for you
 Again imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
 
 **Prototype**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would use Ask VA to do this. 
+Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1) in the chat, show us how you would use Ask VA to do this. 
 
 ##
 
@@ -495,7 +505,7 @@ Before you click on anything to complete this task, take a second to look around
 - **Question**  
   - *(If staging)* How did you determine what to write in the subject field vs. the question field?  
   - What information do you think is important to include in the  question field?  
-- **Attachment** \- Can you describe a time where you wouldn’t attach something to your question? 
+- **Attachment** \- Can you describe a time where you would or wouldn’t attach something to your question? 
 
 #### Things to watch for:
 
@@ -532,7 +542,7 @@ You’ll need to login again. I've provided a new link, email, and password for 
 Again let’s imagine, **\[Prompt from Task 1\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
 **Prototype**  
-Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Using the link in the chat **[STILL NEED TO ADD]**, show us how you would check on that submission using AskVA.
+Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1) in the chat, show us how you would check on that submission using AskVA.
 
 ##
 
