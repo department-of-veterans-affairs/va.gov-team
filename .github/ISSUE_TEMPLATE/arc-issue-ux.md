@@ -1,5 +1,5 @@
 ---
-name: ARC UX Issue
+name: ARC Issue - UX
 about: UX issues for the ARC team
 title: ''
 labels: ar-crew, ux
