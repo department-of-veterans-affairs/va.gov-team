@@ -1,5 +1,5 @@
 ---
-name: ARC Engineering Issue
+name: ARC Issue - Engineering
 about: Engineering issues for the ARC team
 title: ''
 labels: ar-crew, engineering
