@@ -58,7 +58,7 @@ As we think about the transition rollout at Columbus, there are two key target t
 
 **Research Materials**
  * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/My-VA-health-OH-transition/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research/2025-10-Oracle-Health-My-VA-Health-transition-nudge-research-conversation-guide.md)
- * Figma prototype
+ * [Figma prototype](https://www.figma.com/design/NlczsEfLZj7Pz5OeJGMqTM/My-VA-Health--OH--transition-research-study?node-id=0-1&t=9hU1ZDvbLhRs0ocd-1)
 
 ## Recruitment
 ### Recruitment Approach 
