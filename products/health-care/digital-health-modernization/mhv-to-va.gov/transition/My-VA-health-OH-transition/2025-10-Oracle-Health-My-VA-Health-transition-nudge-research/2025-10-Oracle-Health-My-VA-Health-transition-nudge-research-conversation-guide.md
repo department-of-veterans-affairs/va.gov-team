@@ -48,7 +48,7 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 * Can you tell me about the last time you signed in to do something for your care?
   * How was that experience for you?
 
-## Part 1: Production / How participant accesses and manages their healthcare now (15 mins)
+## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
 Thanks for answering those questions. I want to transition us to exploring your patient portal together. First I want you to share your screen. Is that something you've done before?
 
 **Screen-sharing instructions**
@@ -74,7 +74,7 @@ Prompts if needed:
 
 Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. 
 
-## Part 2: Prototype / Reactions to planned tactics (20 mins) 
+## Part 2: Prototype / Reactions to planned tactics (30 mins) 
 
 ### Opening the Figma prototype
 -  For the next part of our time together, I want to show what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website, and you won't see your name or your own personal information. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
@@ -124,7 +124,7 @@ I wonder if you see that blue alert near the top of the prototype?
     - Why or why not?
   - What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
 
-### Task 2
+### Task 2 
 Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd like you to show me where you'd go to request a prescription refill. We won't actually request anything since this is just a prototype, but am curious about your reactions to completing a task here using the new My HealtheVet on VA.gov experience. 
 
 _Observe: How does the user navigate to a different tool?_
