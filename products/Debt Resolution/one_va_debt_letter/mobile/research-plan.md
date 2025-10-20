@@ -80,14 +80,14 @@ Are there moments that matter?</summary>
 
 `10.` Is having a downloadable PDF of the combined statement important when using a phone?
 
-`11.` Do Veterans still want access to individual copay statements and debt letters, or would a combined statement fully meet their needs?
+`11.` How do the use cases differ between individual copay statements and debt letters vs combined statements?
 
 `12.` Is there additional information Veterans wish were included in a combined statement?
 
   
 ### Outcome
 
-- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement, saving significant developer effort if it is not desired.
+- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement in the mobile app, saving significant developer effort if it is not desired.
 
 - **Define feature set for MVP:** determine which functions will be essential for launch.
 
@@ -98,7 +98,7 @@ Are there moments that matter?</summary>
 ### Hypotheses
 
 - Veterans currently find it challenging to see the overall financial pictures of their debt and bills.
-- They will like the idea of a combined statement to have all current financial obligations in one place.
+- They will like the idea of a combined statement to have the current financial obligations of overpayments and copays in one place.
 - Veterans will trust that the information provided is accurate and up to date.
 - The current structure of a combined statement will be overwhelming to most.
 - They will want to view details of the debts and bills from combined statements.
