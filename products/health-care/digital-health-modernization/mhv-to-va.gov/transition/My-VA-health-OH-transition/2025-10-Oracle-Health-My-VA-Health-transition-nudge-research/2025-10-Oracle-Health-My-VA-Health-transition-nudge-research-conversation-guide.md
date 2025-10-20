@@ -135,7 +135,7 @@ _Participant lands on the Medications tool, gets to the Refill page._
 * How would you feel if those blue alerts were not there, and you couldn't get to the My VA health portal to refill your medications? 
 * If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
 
-## Cool down questions
+## Cool down questions (5-10 mins)
 Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
 * Overall, how would you describe your feelings about transitioning to a different health portal on VA.gov?
 * Have you transitioned to another health care portal before? How did that go for you?
@@ -149,7 +149,7 @@ Thank you for sharing your screen and completing those tasks today. This is real
 - Is there any part of our conversation you would NOT want included?
   - [Record answer here]
 
-## Thank-You and Closing - (5 mins)
+## Thank-You and Closing - (1 min)
 Thank you so much for joining us today and sharing your feedback. It really helps us make this tool better for all Veterans.  
 Perigean will follow up with a thank-you after the session.
 
