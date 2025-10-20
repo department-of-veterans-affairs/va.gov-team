@@ -143,7 +143,7 @@ As we think about the transition rollout at Columbus, there are two key target t
   * What are the variables that impact a user's comfort/adaptability to the transition?
   * How do they feel? What concerns them when it comes to transitions?
 
-**Impacting future behaviors / reacting to low-fi concepts:**
+**Impacting future behaviors (reacting to prototype):**
   * When faced with a change in how to access their healthcare online, what do they look for?
   * Do they understand what the transition messaging means for them?
   * If they are stuck or confused, what do they do next?
@@ -155,8 +155,8 @@ As we think about the transition rollout at Columbus, there are two key target t
 |Research goal| Research questions | Planned method |
 |-----|------|------|
 | Understand how My VA Health users currently access their health portal & manage their care | Self-reflected behavior questions | **Warm up questions** will let us know how often they sign-in on line & visit a VA health facility. **Part 1: Sign into patient portal** (will show us how they sign-in and where to place tactics), look up appointment details (will show us how they navigate once on My VA Health and what details they look for); we'll also know if they are hybrid facility/EHR users from seeing their screens.| 
-| Are planned tactics effective? How do users react? | Attitudes to change; Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
-| What nudges users _toward_ adoption? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes will help us understand whether users would continue to My VA Health or not. We can probe on what would keep users on VA.gov.|
+| Are planned tactics effective? How do users react? | Attitudes to change; Impacting future behaviors | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
+| What nudges users _toward_ adoption? | Impacting future behaviors | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes will help us understand whether users would continue to My VA Health or not. We can probe on what would keep users on VA.gov.|
 
 ## Methodology 
 **Location**
