@@ -136,7 +136,8 @@ _Participant lands on the Medications tool, gets to the Refill page._
   * Why/why not?
 * How would you feel if those blue alerts were not there, and you couldn't get to the My VA health portal to refill your medications? 
 * If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
-
+* What are your expectations of an experience that feels trustworthy?
+    
 ## Thank-You and Closing - (5 mins)
 Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition. Before we end our session today, I want to circle back and re-confirm: Are you okay with us sharing anonymized video clips from today’s session with VA partners?
 
