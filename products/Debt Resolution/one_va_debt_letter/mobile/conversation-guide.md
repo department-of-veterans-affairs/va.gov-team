@@ -122,7 +122,7 @@ And again at the level you're comfortable, what is your experience with receivin
 * Is it clear to you what your options are once you receive a bill?
 * What sort of communication do you receive regarding these bills?
 
-Now I'd like to ask you about times that you're actively managing these debts and bills. When I say manage that could be such things as reading info about debt or charges, determining next steps, or making payments.
+Now I'd like to ask you about times that you're actively managing these debts and bills. When I say manage that could be such things as reading info about debt or charges, determining next steps, requesting help, or making payments.
 * When you're looking to do any sort of management of your VA finances, when are you typically doing that? This could be time of day or night, as it relates to other activities, or maybe at some physical location.
     * Can you tell me why you choose to do this at these times/days/locations?
 * Are there things that prompt you to take action on any of these debts or bills?
@@ -228,7 +228,7 @@ Now that you’ve looked at the combined statement, and each individual sections
 
 (app prototype)
 
-Now we’ll look at some designs that currently do not exist anywhere on the website or the mobile app. These are designs for the mobile app, and we’ll start with the combined statement. 
+Now we’ll look at some new designs for the mobile app that currently do not exist anywhere. We'll start with the combined statement.
 
 
 
