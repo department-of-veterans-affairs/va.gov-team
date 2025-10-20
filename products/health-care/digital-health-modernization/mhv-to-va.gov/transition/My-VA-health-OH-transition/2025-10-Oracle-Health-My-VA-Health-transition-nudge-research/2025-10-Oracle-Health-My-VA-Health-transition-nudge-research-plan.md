@@ -1,3 +1,111 @@
+---
+# Research Plan Metadata
+title: "Research Plan for My VA Health (OH) patient portal transition research - October 2025"
+date: 2025-10-20
+last_updated: 2025-10-20
+team: "My HealtheVet / VA.gov Health"
+product: "My VA Health (Oracle Health) Patient Portal Transition"
+product_area: "authenticated"
+
+# Background Context
+background:
+  problem_statement: "Transitioning users from 6 current facilities using Oracle Health (OH) EHR system from My HealtheVet to the My VA Health patient portal on VA.gov. Need to understand users' mental models around transitions and how they manage their care to effectively communicate and support adoption."
+  product_location: "VA.gov - My VA Health patient portal (authenticated experience)"
+  user_familiarity: "Iteration - existing My HealtheVet users transitioning to new portal"
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/My-VA-health-OH-transition"
+
+# Research Design
+methodology: "Semi-structured interviews"
+research_format: 
+  location: remote
+  moderated: true
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "Understand how My VA Health portal users currently access and manage their care on the existing platform"
+  - goal_2: "Assess effectiveness of planned transition communication tactics and identify user concerns or confusion"
+  - goal_3: "Understand how previous patient portal transitions impact current sentiment and adoption approach"
+
+research_questions:
+  - "How do users currently approach using their online healthcare tools?"
+  - "What language and communication strategies help users understand the upcoming transition?"
+  - "What variables impact a user's comfort and adaptability to transitions?"
+  - "When faced with changes in how to access healthcare online, what do users look for?"
+  - "What hesitations, fears, or concerns does a new experience introduce?"
+
+hypotheses:
+  - "Users who had smoother previous transitions will show higher confidence in adapting to the new portal"
+  - "Clear, plain-language messaging about what stays the same and what changes will reduce transition anxiety"
+  - "Trust indicators (such as data security assurances and direct navigation pathways) will increase adoption intent"
+
+expected_outcomes: "Findings will inform the design of transition messaging, in-product nudges, and user support strategies to increase adoption of My VA Health portal at the 6 Oracle Health facilities, with initial rollout at Columbus."
+
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Targeted recruitment of existing My HealtheVet users at specific VA facilities"
+  
+  primary_criteria:
+    - "Active VA healthcare benefits"
+    - "Received care from at least one of 6 specific VA medical centers using Oracle Health EHR (Mann-Grandstaff VA Medical Center, Jonathan M. Wainwright Memorial VA Medical Center, VA Central Ohio Health Care System, Roseburg VA Health Care System, VA Southern Oregon Rehabilitation Center and Clinics, Captain James A. Lovell Federal Health Care Center)"
+    
+  secondary_criteria:
+    - "Varied frequency of portal usage (weekly, monthly, occasional)"
+    - "Mix of age groups and digital literacy levels"
+    - "Previous experience with multiple portal transitions"
+
+  screener_questions:
+    - question: "Do you receive VA healthcare benefits?"
+      qualifying_response: "Yes"
+    - question: "In the past 2 years, have you received care from a VA provider (not community care) at any of these facilities: Mann-Grandstaff VA Medical Center, Jonathan M. Wainwright Memorial VA Medical Center, VA Central Ohio Health Care System, Roseburg VA Health Care System, VA Southern Oregon Rehabilitation Center and Clinics, or Captain James A. Lovell Federal Health Care Center?"
+      qualifying_response: "Yes (at least one facility)"
+
+participants:
+  veterans: 15
+  caregivers: 0
+  dependents: 0
+  total_recruited: 15
+  completed_sessions_goal: 10
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "TBD"
+  pilot_participant: "TBD"
+  research_dates: "2025-11-03 to 2025-11-07"
+  research_review_submission: "2025-10-23"
+  kickoff_call_dates: ["2025-10-30 9:00 AM ET", "2025-10-30 2:00 PM ET"]
+  
+session_details:
+  duration_minutes: 60
+  buffer_minutes: 30
+  max_sessions_per_day: 3
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
+    key_results: 
+      - "Improve satisfaction with our web and mobile products by 5 points"
+      
+veteran_journey_phases:
+  - "Starting up"
+  - "Taking care of myself"
+  - "Putting down roots"
+  - "Retiring"
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - "My HealtheVet transition research and user feedback studies"
+    
+tags:
+  - "health-care"
+  - "patient-portal"
+  - "transition-experience"
+  - "semi-structured-interviews"
+  - "generative-research"
+  - "oracle-health"
+---
+
 # Research Plan for My VA Health (OH) patient portal transition research
 October, 2025
 
