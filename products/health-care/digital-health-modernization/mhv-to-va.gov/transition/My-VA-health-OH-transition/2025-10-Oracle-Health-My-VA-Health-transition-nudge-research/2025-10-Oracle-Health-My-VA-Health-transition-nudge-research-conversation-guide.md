@@ -136,7 +136,7 @@ _Participant lands on the Medications tool, gets to the Refill page._
 * If you ran into an issue and needed help with something, what would you do?
 
 ## Cool down questions
-* Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
+Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
 * Overall, how would you describe your feelings about transitioning to a different health portal on VA.gov?
 * Have you transitioned to another health care portal before? How did that go for you?
 * What are your biggest concerns about a transition?
