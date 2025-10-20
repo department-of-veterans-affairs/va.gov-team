@@ -18,12 +18,12 @@ In order to communicate this transition to those users, we want to better unders
 
 ## Research Goals
 As we think about the transition rollout at Columbus, there are two key target time periods to keep in mind for how users experience the transition. First, the initial nudges in the user experience that will roll out in January for Columbus users. Second, the more assertive prompts that will roll out after January. The goals of this research are:
-* Gain insight into how current Veteran users who have already transitioned onto Oracle Health systems and use the My VA Health portal access and manage their care.
-  * What they are doing, why, and ultimately how do they make decisions - will support the VA.gov team in designing an experience that can influence how Veterans at the 6 current Oracle Health facilities behave and approach the transition. 
+* Gain insight into how current Veteran access and manage their care using the My VA Health patient portal.
+  * Understanding their current experience will support the VA.gov team in designing an experience that can influence how Veterans at the 6 current Oracle Health facilities behave and approach the transition. 
 * How might previous transitions (such as moving to the My VA Health portal in the first place) impact their approach towards future transitions regarding their experience with digital VA healthcare? 
 * Understand whether planned tactics for communicating the transition are effective by getting users' reactions to those tactics. 
-* Understand what language, messaging, and placement nudges users toward adopting transitions.
-
+* Understand what fears, concerns, or confusion might be standing in the way of these users adopting the new experience on VA.gov. 
+  
 ## Research Questions
 **Self-reflected behaviors:**
   * How do users currently approach using their online healthcare tools?
@@ -37,9 +37,10 @@ As we think about the transition rollout at Columbus, there are two key target t
 
 **Impacting future behaviors / reacting to low-fi concepts:**
   * When looking at/for a new path by which to access their healthcare online, what do they look for?
-  * To them, what indicates the path of least resistance?
+  * Do they notice or engage with planned transition tactics?
+  * Do they understand what the transition messaging means for them?
   * What indicates that this is an experience they can trust? What would they expect from a trustworthy experience?
-  * What challenges (if any) does a new experience introduce?
+  * What hesitation, fears, or concerns (if any) does a new experience introduce?
 
 ### Goals / questions / methods matrix
 
