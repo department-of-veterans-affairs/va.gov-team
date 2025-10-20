@@ -27,8 +27,9 @@ As we think about the transition rollout at Columbus, there are two key target t
 ## Research Questions
 **Self-reflected behaviors:**
   * How do users currently approach using their online healthcare tools?
-  * How do they make decisions about where to go for what? How do they access their online healthcare tools?
-  * What is their current experience like? 
+  * How do they navigate, _where_ do they look to understand where they are, decide what information is relevant, or have confidence that they successfully completed a task? 
+  * What is their current experience like using My VA Health?
+  * Have previous patient portal transitions impacted their overall healthcare management experience at the VA? In what way(s)? 
 
 **Attitudes to change:**
   * What language helps users understand the upcoming transition? 
