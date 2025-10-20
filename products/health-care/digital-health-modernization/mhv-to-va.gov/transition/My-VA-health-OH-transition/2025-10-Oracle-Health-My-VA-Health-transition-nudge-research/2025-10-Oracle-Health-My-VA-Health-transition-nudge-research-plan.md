@@ -36,9 +36,9 @@ As we think about the transition rollout at Columbus, there are two key target t
   * How do they feel? What concerns them when it comes to transitions?
 
 **Impacting future behaviors / reacting to low-fi concepts:**
-  * When looking at/for a new path by which to access their healthcare online, what do they look for?
-  * Do they notice or engage with planned transition tactics?
+  * When faced with a change in how to access their healthcare online, what do they look for?
   * Do they understand what the transition messaging means for them?
+  * If they are stuck or confused, what do they do next?
   * What indicates that this is an experience they can trust? What would they expect from a trustworthy experience?
   * What hesitation, fears, or concerns (if any) does a new experience introduce?
 
