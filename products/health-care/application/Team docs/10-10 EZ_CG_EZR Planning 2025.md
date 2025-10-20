@@ -9,7 +9,7 @@
 - [ ] EZR Spouse QA findings resolution for Spouse review page skipped - **_Carry over due to unable to identify root cause, pulling in additional assistance_**
 - [ ] EZ Investigate Intro page looping
 - [ ] New teammate onboarding
-- [ ] EZR Update SOT for Print/Save PDF
+- [x] EZR Update SOT for Print/Save PDF
 
 ##
 ###  Team Objective
@@ -34,7 +34,7 @@
      - QA testing is dependent on this fix (split issue into it's own ticket from QA ticket)
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- [ ] **SPRINT GOAL** [#120784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120784) - [Design] Update SOT
+- [x] **SPRINT GOAL** [#120784](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120784) - [Design] Update SOT
 
 ##
 ### Team PTO
