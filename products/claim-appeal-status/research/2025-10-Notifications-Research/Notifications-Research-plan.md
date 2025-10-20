@@ -1,442 +1,156 @@
----
-# Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
-
-# Background Context
-background:
-  problem_statement: "[What problem is your product trying to solve?]"
-  product_location: "[Where is this situated on VA.gov?]"
-  user_familiarity: "[New product or iteration?]"
-  product_brief_url: "[URL]"
-
-# Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
-research_format: 
-  location: remote # Options: remote, in-person, hybrid
-  in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
-  moderated: true # Options: true, false
-  
-# Research Goals & Questions
-research_goals:
-  - goal_1: "[First research goal]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
-
-research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
-
-hypotheses:
-  - "[Hypothesis 1]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
-
-expected_outcomes: "[How will findings advance the product?]"
-
-# Recruitment & Participants
-recruitment:
-  recruiting_partner: "Perigean"
-  approach: "[e.g., lean maximum variation]"
-  
-  primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
-    
-  secondary_criteria:
-    - "[Nice-to-have criterion 1]"
-    - "[Nice-to-have criterion 2]"
-    
-  screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
-      
-participants:
-  veterans: 0
-  caregivers: 0
-  dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
-  
-# Timeline & Sessions
-timeline:
-  pilot_date: "YYYY-MM-DD"
-  pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
-  research_review_submission: "YYYY-MM-DD"
-  
-session_details:
-  duration_minutes: 60
-  buffer_minutes: 30
-  max_sessions_per_day: 0
-  
-# Strategic Alignment
-octo_priorities:
-  - objective: "Objective 1"
-    key_results: 
-      - "[Specific KR if applicable]"
-  - objective: "Objective 2"
-    key_results:
-      - "[Specific KR if applicable]"
-      
-veteran_journey_phases:
-  - "[e.g., Getting Out]"
-  - "[e.g., Starting Up]"
-    
-# Research Repository Tracking
-related_research:
-  previous_studies: 
-    - "[Link to related past research]"
-    
-tags:
-  - "[product-area]"
-  - "[methodology]"
-  - "[participant-type]"
-  - "[research-phase]"
----
-
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
-
-## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
-	
-`What problem is your product trying to solve?`
-
-**[Enter answer here]**
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-
-**[Enter answer here]**
-  
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
-
-**[Enter answer here]**
-
-`Product Brief`
-
-**[Link to product brief](url goes here).**
-
-</details>
-
-### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
-
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
-
-
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
-
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
-
-</details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
-
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
-	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
-
-</details>
-
-> [!TIP]
-> Delete journeys not supported by this research.
-
-## Research Goals 🥅	
-`What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
-### Goals
-
-`1.` **[Enter answer here]**
-
-`2.` **[Enter answer here]**
-
-`3.` **[Enter answer here]** 
-  
-### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+# UX Research Plan: Benefits Management Notifications Study
 
 ---
 
-**[Enter outcome here]** 
+## Background
+
+### Briefly describe the background of your product
+The **Benefits Management Tools (BMT)** portfolio supports Veterans in managing their benefits through **VA.gov** and the **VA Health and Benefits (VAHB)** mobile app. The tools include:
+
+- **Claim Status Tool (CST)** – to track disability compensation claims and appeals  
+- **VA Letters and Documents** – to access official benefit correspondence  
+- **Payment History** – to review compensation payments  
+- **Disability Rating** – to understand benefit amounts and eligibility  
+
+BMT aims to provide Veterans with clear, accessible, and timely updates about their benefits, helping them stay informed and act when needed.
+
+### What problem is your product trying to solve
+Veterans currently receive **benefits notifications by email and paper mail**, which limits how quickly and clearly VA can share updates or next steps. As the Benefits Management Tools (BMT) team expands to include **text and in-app notifications**, we need to ensure all channels work together in a **clear, consistent, and trustworthy** way.  
+
+We don’t yet know how Veterans perceive or act on these new digital notifications. Without shared content and tone standards, there’s a risk of **confusion, missed actions, or reduced trust.**  
+
+The notifications initiative aims to create a **cohesive, actionable experience** across email, text, and in-app channels, helping Veterans quickly understand **what happened, what to do, and by when.**
+
+### Where is your product situated on VA.gov
+The notification system (**VA Notify**) is integrated across **VA.gov’s** benefits management ecosystem and the **VA Health and Benefits** mobile app, primarily supporting the **Claim Status Tool** and related benefits management features.
+
+### What is Veterans’ familiarity with this tool
+Veterans are already familiar with receiving benefit notifications through **email and paper mail**. The unified cross-channel notification system is an **iteration on existing tools**, aimed at improving **clarity, consistency, and accessibility** across channels. It builds on familiar products but introduces new patterns for **in-app alerts and notification settings.**
 
 ---
 
-### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+## Product Brief
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+### OCTO-DE Priorities Supported
 
-**`1.`[Enter Q1]**
+**Objective 1:** VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
+- **Key Result 1:** Improve satisfaction with web and mobile products by 5 points.  
+- **Key Result 2:** Reduce the total time Veterans spend waiting for responses by 50%.  
+- **Key Result 3:** Ensure Veterans receive clear, timely notifications when an issue occurs.  
 
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
-
-### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
+**Objective 4:** OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.  
+- **Key Result 1:** Deliver notification design standards and content guidelines that raise usability and consistency across VA products.  
+- **Key Result 2:** Provide actionable research insights to reduce confusion and improve Veterans’ trust in digital communications.  
 
 ---
 
-**[Enter hypotheses here]** 
+## Veteran Journey
+
+This research primarily supports Veterans during:
+
+- **Taking Care of Myself** – managing ongoing disability compensation and appeals  
+- **Putting Down Roots** – maintaining access to benefits and records for financial stability  
 
 ---
-  
-## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+## Research Goals
 
-</details>
+1. Identify **channel and content boundaries**: what information belongs in text, email, and/or in-app notifications.  
+2. Understand **how Veterans interpret and act on notifications**, including what elements encourage or hinder task completion.  
+3. Explore **barriers, trust, and accessibility issues** across Veteran segments (e.g., older adults, low-vision users, paper-first users, cognitive deficits).  
 
-**[Enter methodology here]**
+---
 
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+## Outcome
 
-</details>
+This research will generate **evidence-based insights** to refine and strengthen existing VA notification and design guidance by:
 
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+- **Validating and expanding** current content standards across channels and benefit types.  
+- **Filling gaps in tone and message structure guidance** to ensure clarity, trust, and consistency for Veterans.  
+- **Identifying design and interaction patterns** that best support task completion and reduce confusion across digital benefit tools.  
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
+These findings will inform the next iteration of the **Benefits Management Tools notifications experience**, directly contributing to improved usability, accessibility, and trust in digital benefit communications.
 
-- [ ] **Remote**
-- [ ] **In-person**
-      
-> [!NOTE]
-> If in-person, include:
+---
 
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
+## Research Questions
 
-## Research materials 📔
+1. How much content feels appropriate for a text versus an email when communicating about claims and appeals?  
+2. How do Veterans decide which notification channel (text, email, in-app) to engage with first?  
+3. What notification designs, tone, and structures best support successful task completion?  
+4. What privacy or security concerns impact Veterans’ trust in text message notifications?  
+5. How do accessibility needs, device use, or digital comfort impact Veterans’ experiences with notifications?  
+6. How can tone and sequencing (e.g., text → email → in-app) best support multi-step tasks?  
+7. How do timing and frequency affect Veterans’ engagement, understanding, and potential notification fatigue?  
+8. How are Veterans currently receiving notifications regarding disability benefits?  
+9. What do Veterans find helpful and unhelpful regarding notifications received in the past?  
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
+---
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+## Hypotheses
 
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
+- Veterans prefer **email** for official, detailed updates and **text messages** for urgent or time-sensitive alerts.  
+- The **clarity of the call-to-action** (what happened, what to do, and by when) will significantly impact task completion.  
+- **Friendly and plain language** builds trust, while **legal or bureaucratic tones** create confusion and anxiety.  
+- **Privacy concerns** about text messages vary depending on content sensitivity (e.g., health vs. compensation updates).  
+- **Accessibility needs** (e.g., low vision, screen readers, mobile use) will reveal unique barriers to interacting with notifications.  
 
-**For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
+---
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+## Methodology
 
+### Method
+**Semi-structured interviews** with **scenario-based evaluations** of sample notifications.  
+Participants will review and react to different notification examples across channels (text, email, in-app) to evaluate **clarity, tone, actionability, and trust.**
 
+### Why this method
+Semi-structured interviews allow participants to explain their reactions in context, uncovering **mental models, trust signals, and tone perceptions** that quantitative data can’t reveal.  
 
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
-	
-## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
+---
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+## Location
 
-### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+- **Remote:** via Zoom, with screen share to view examples  
 
-### Recruitment criteria
+---
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+## Research Materials
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+- [Link to Conversation Guide]  
+- [Link to Notification Mockups / Prototypes]  
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
+---
 
+## Recruitment
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+### Recruitment Approach
+Recruit through **Perigean**, targeting a diverse sample of Veterans representing a range of ages, devices, and digital literacy levels. Sampling will focus on Veterans with experience managing **disability compensation claims or appeals** on **VA.gov** or the **VAHB app.**
 
-### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
+### Recruitment Criteria
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+#### Primary Criteria
+- U.S. Veteran actively using **VA.gov** or the **VA Health and Benefits mobile app**  
+- Has submitted or tracked a **disability compensation claim or appeal** in the past year  
+- Has received a **VA notification** within the last 6 months  
 
-#### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+#### Secondary Criteria
+- Mix of device use (mobile-only, desktop, both)  
+- 2+ participants using **assistive technologies** (screen readers, magnifiers)  
+- 2+ **paper-first Veterans** transitioning to digital experiences  
+- 1–2 **high-volume users** (e.g., managing multiple claims)  
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+### Sample Size
+- **Veterans:** 15 total recruited  
+- **Ideal Completed Sessions:** 10–12  
 
-## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
+---
 
-### Optional Kick-off Call with Perigean
+## Timeline
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
-
-### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
-
-### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
-
-### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
-  
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
-  
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
-
-### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
-## Team Roles  🕵️👩‍💻👩‍🔬
-
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
-
-## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- **Session Length:** 60 minutes  
+- **Debrief with Observers:** 15 minutes  
+- **Buffer Time Between Sessions:** 30 minutes  
+- **Max Sessions per Day:** 3  
+- **Recruitment Start:** TBD  
+- **Research Review Submission:** TBD  
+- **Study Duration:** 3–4 weeks (including synthesis and shareout)
