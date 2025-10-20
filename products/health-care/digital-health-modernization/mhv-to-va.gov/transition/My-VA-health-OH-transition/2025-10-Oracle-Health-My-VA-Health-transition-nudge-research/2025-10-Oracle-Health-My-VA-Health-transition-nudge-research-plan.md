@@ -45,7 +45,7 @@ As we think about the transition rollout at Columbus, there are two key target t
 
 ### Goals / questions / methods matrix
 
-|Research goal| Research question | Planned method |
+|Research goal| Research questions | Planned method |
 |-----|------|------|
 | Understand how My VA Health users currently access their health portal & manage their care | Self-reflected behavior questions | **Warm up questions** will let us know how often they sign-in on line & visit a VA health facility. **Part 1: Sign into patient portal** (will show us how they sign-in and where to place tactics), look up appointment details (will show us how they navigate once on My VA Health and what details they look for); we'll also know if they are hybrid facility/EHR users from seeing their screens.| 
 | Are planned tactics effective? How do users react? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
