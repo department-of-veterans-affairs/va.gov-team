@@ -140,10 +140,8 @@ _Participant lands on the Medications tool, gets to the Refill page._
 ## Cool down questions (5-10 mins)
 Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
 * Overall, how would you describe your feelings about transitioning to a different health portal on VA.gov?
-* Have you transitioned to another health care portal before? How did that go for you?
 * What are your biggest concerns about a transition?
-* If all of your information was available on VA.gov, and you could manage all of your healthcare here, but no longer had access to My VA Health, how would you feel about that?
-* What, if anything, that you saw today in these prototypes was easier for you?
+* How would you feel about no longer having access to My VA Health? 
 * Do you have any questions or anything else you want to share? 
 
 ## Consent to use video clips
