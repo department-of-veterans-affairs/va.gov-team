@@ -1,0 +1,47 @@
+name: Platform Atlas Manual Deployment Verification and Sync
+description: Checklist to verify deployments and sync environments for platform-atlas
+title: "[Deployment] Verify and Sync Platform Atlas"
+labels: ["platform-cop-backend"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Deployment Verification & Sync Instructions
+        Follow this checklist to ensure platform-atlas is properly deployed to **prod** environments.
+
+        ### Deployment Resources
+        1. [platform-atlas-prod ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=)
+        4. [platform-atlas-dev ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=)
+        8. [Advanced Backend Support Responsibilities](https://vfs.atlassian.net/wiki/spaces/BCP/pages/2183037084/Advanced+Backend+Support+Responsibilities)
+
+  - type: checkboxes
+    id: verify-deployments
+    attributes:
+      label: Verify Deployment Statuss
+      description: Ensure there are no deployment issues for **dev**.
+      options:
+        - label: Check [platform-atlas-dev](https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=) deployment (no issues)
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Sync Prod
+        Reference image for PRUNE + AUTO-CREATE NAMESPACE configuration:
+        ![ArgoCD Sync Config example](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/assets/images/vetsapi-manual-deployment-prune1.png)
+
+  - type: checkboxes
+    id: sync-prod
+    attributes:
+      label: Prod Sync
+      options:
+        - label: Navigate to [platform-atlas-prod ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=)
+        - label: Click Sync
+        - label: Confirm PRUNE and AUTO-CREATE NAMESPACE are checked (see ArgoCD Sync Config example image above)
+        - label: Click Synchronize
+        - label: Verify that the sync completed successfully
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Add any issues, errors, or additional observations during the process.
