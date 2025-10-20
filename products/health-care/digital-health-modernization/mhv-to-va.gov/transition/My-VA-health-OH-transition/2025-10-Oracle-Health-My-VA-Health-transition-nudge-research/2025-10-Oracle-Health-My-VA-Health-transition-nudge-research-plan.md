@@ -128,7 +128,7 @@ In order to communicate this transition to those users, we want to better unders
 As we think about the transition rollout at Columbus, there are two key target time periods to keep in mind for how users experience the transition. First, the initial nudges in the user experience that will roll out in January for Columbus users. Second, the more assertive prompts that will roll out after January. The goals of this research are:
 * Gain insight into how current Veteran access and manage their care using the My VA Health patient portal.
   * Understanding their current experience will support the VA.gov team in designing an experience that can influence how Veterans at the 6 current Oracle Health facilities behave and approach the transition. 
-* How might previous transitions (such as moving to the My VA Health portal in the first place) impact their approach towards future transitions regarding their experience with digital VA healthcare? 
+* Understand what conveys trust, and how language choice or previous experiences might impact users' reactions toward this transition
 * Understand whether planned tactics for communicating the transition are effective by getting users' reactions to those tactics. 
 * Understand what fears, concerns, or confusion might be standing in the way of these users adopting the new experience on VA.gov. 
   
@@ -155,7 +155,7 @@ As we think about the transition rollout at Columbus, there are two key target t
 |Research goal| Research questions | Planned method |
 |-----|------|------|
 | Understand how My VA Health users currently access their health portal & manage their care | Self-reflected behavior questions | **Warm up questions** will let us know how often they sign-in on line & visit a VA health facility. **Part 1: Sign into patient portal** (will show us how they sign-in and where to place tactics), look up appointment details (will show us how they navigate once on My VA Health and what details they look for); we'll also know if they are hybrid facility/EHR users from seeing their screens.| 
-| Are planned tactics effective? How do users react? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
+| Are planned tactics effective? How do users react? | Attitudes to change; Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
 | What nudges users _toward_ adoption? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes will help us understand whether users would continue to My VA Health or not. We can probe on what would keep users on VA.gov.|
 
 ## Methodology 
