@@ -56,7 +56,7 @@ Work that requires more exploration, larger updates.
 Work we can decide to pick up later, or after all “Now” items are completed. 
 
 ### Backlog
-- [Combine signature fields](https://mhv-69720:%20%20https://www.figma.com/design/x9YoKDPekIPiqlDiZdmjci/Signature--preferences--notifications?node-id=2374-46245&t=nPMh58xw58Iod2s2-1)
+- [Combine signature fields](https://jira.devops.va.gov/browse/MHV-66773)
 - [Explore enhancement request: make it clearer that patient portal messages are for non-urgent issues only (interstitial) ](https://jira.devops.va.gov/browse/MHV-69772) 
 - [Provide better feedback and next steps for Veterans when a provider has left the VA ](https://jira.devops.va.gov/browse/MHV-69776)
 - [Update filter and sort design to new health portal UX standards ](https://jira.devops.va.gov/browse/MHV-69767)
