@@ -182,21 +182,27 @@ _Mental health conditions_
 
 ### **Research sessions**
 
-* Planned dates of research: 10/27 \- 10/31
+* Planned dates of research: 10/27 \- 11/05
 
 ### **Length of sessions**
 
 * Session length: 1 hour  
-* Buffer time between sessions: 30 minutes  
+* Buffer time between sessions: 1 hour  
 * Maximum Sessions per day: (We all have limits \- how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) 3 per day
 
 ### **Availability**
 
+Please prioritize scheduling participants during this first week. 
 * 10/27, Monday, 12:00PM \- 8pm EST  
 * 10/28, Tuesday, 12:00PM \- 8pm EST  
 * 10/29, Wednesday, 12:00PM \- 8pm EST 
 * 10/30, Thursday, 12:00PM \- 8pm EST (9-12 if needed)  
 * 10/31, Friday, 12:00PM \- 8pm EST (9-12 if needed)
+
+Second week if needed:
+* 11/03, Monday, 12:00PM \- 8pm EST  
+* 11/04, Tuesday, 12:00PM \- 8pm EST  
+* 11/05, Wednesday, 12:00PM \- 8pm EST 
 
 ## **Team Roles 🕵️👩‍💻👩‍🔬**
 
