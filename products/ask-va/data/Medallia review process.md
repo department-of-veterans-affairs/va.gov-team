@@ -41,8 +41,8 @@ After launch, we will continue to monitor feedback monthly and include it in a c
 
 ### Overall Process
 
-1. Elena will export VSignals feedback to Excel after the month closes out. 
-2. Identify and tag feedback by pain points and actionability as defined below
+1. Elena will export VSignals feedback to Excel after the month closes out.  
+2. Identify and tag feedback by pain points themes as defined below
 3. Becky to review actionability and next steps with Elena 
 4. Populate data and findings in the Metrics + Feedback report ([template]([url](https://dvagov.sharepoint.com/:p:/r/sites/AskVA/Shared%20Documents/General/Data/Other%20analyses/Metrics%20+%20Feedback%20proposed%20template.pptx?d=w90ba3b257b364da7bfc2338776c98692&csf=1&web=1&e=VDonPZ))) 
     a. Stephanie will update KPIs
