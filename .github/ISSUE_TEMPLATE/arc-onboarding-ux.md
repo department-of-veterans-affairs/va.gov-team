@@ -17,4 +17,8 @@ To be completed after the General Onboarding to ARC tasks, which all ARC teammat
 
 - [ ] Review [ARC UX Design Ops Wiki](https://github.com/department-of-veterans-affairs/accredited-representative-crew/wiki/ARC-UX-Design-Ops)
 
-- [ ] Review ARC Figma design files
+- [ ] Review [ARC Figma design files](https://www.figma.com/files/1499394822283304153/project/176208173)
+
+- [ ] Review [ARC GH Research - ARF](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/research)
+
+- [ ] Review [ARC GH Research - ARM](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research)
