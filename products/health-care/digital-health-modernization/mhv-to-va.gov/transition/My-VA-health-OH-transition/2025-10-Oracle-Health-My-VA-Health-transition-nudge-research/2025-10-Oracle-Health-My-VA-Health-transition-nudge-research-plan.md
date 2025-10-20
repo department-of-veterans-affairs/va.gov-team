@@ -28,7 +28,7 @@ As we think about the transition rollout at Columbus, there are two key target t
 **Self-reflected behaviors:**
   * How do users currently approach using their online healthcare tools?
   * How do they make decisions about where to go for what? How do they access their online healthcare tools?
-  * How have their behaviors changed over time? What impact does time since transition have on their reflections, if any?
+  * What is their current experience like? 
 
 **Attitudes to change:**
   * What language helps users understand the upcoming transition? 
@@ -47,9 +47,9 @@ As we think about the transition rollout at Columbus, there are two key target t
 |Research goal| Research question | Planned method |
 |-----|------|------|
 | Understand how My VA Health users currently access their health portal & manage their care | Self-reflected behavior questions | **Warm up questions** will let us know how often they sign-in on line & visit a VA health facility. **Part 1: Sign into patient portal** (will show us how they sign-in and where to place tactics), look up appointment details (will show us how they navigate once on My VA Health and what details they look for); we'll also know if they are hybrid facility/EHR users from seeing their screens.| 
-| Understand how these users felt about previous transitions, and whether or not that impacts their sentiment this time | Attitudes to change questions | **Cool down questions** are structured to unpack any user fears/feelings/concerns around the patient portal transition.|
 | Are planned tactics effective? How do users react? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes (in context of completing health tasks) will unpack whether users noticed the tactics, what the language means to them, and help us understand whether the placement / language / tactic encourages adoption. If reactions are not what we expect, we can adjust our approach before transition start date.|
 | What nudges users _toward_ adoption? | Impacting future behaviors / reacting to low-fi concepts questions | **Part 2: react to prototypes** qualitative questions that ask users to respond to blue alerts in the prototypes will help us understand whether users would continue to My VA Health or not. We can probe on what would keep users on VA.gov.|
+| Understand how these users felt about previous transitions, and whether or not that impacts their sentiment this time | Attitudes to change questions | **Cool down questions** are structured to unpack any user fears/feelings/concerns around the patient portal transition.|
 
 ## Methodology 
 **Location**
