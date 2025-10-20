@@ -12,7 +12,6 @@ body:
         ### Deployment Resources
         1. [platform-atlas-prod ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=)
         4. [platform-atlas-dev ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=)
-        7. [Vets API on EKS Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks)
         8. [Advanced Backend Support Responsibilities](https://vfs.atlassian.net/wiki/spaces/BCP/pages/2183037084/Advanced+Backend+Support+Responsibilities)
 
   - type: checkboxes
@@ -46,5 +45,3 @@ body:
     attributes:
       label: Notes
       description: Add any issues, errors, or additional observations during the process.
-
-        ### Sync Prod
