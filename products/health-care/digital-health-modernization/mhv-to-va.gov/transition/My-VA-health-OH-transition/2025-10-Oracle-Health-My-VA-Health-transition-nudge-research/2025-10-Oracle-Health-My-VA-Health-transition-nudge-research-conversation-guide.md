@@ -44,11 +44,9 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 * What type of device are you using today?
 * How long have you had healthcare benefits with the VA?
 * How often to you go to a VA health care facility to receive care?
-* Have you ever used community care?
 * Do you sign-into your health portal to manage your care online very often?
-* Can you tell me about the last time you signed in to do something for your care? What were you trying to do?
+* Can you tell me about the last time you signed in to do something for your care?
   * How was that experience for you?
-* Have you ever used other patient portals?
 
 ## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
 Thanks for answering those questions. I want to transition us to exploring your patient portal together. First I want you to share your screen. Is that something you've done before?
