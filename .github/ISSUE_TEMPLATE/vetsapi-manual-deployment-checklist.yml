@@ -20,15 +20,7 @@ body:
         5. [Vets API External Service Outages and Error Trends dashboard](https://vagov.ddog-gov.com/dashboard/jq8-w55-zzp?fullscreen_end_ts=1707142527565&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=edit&fullscreen_start_ts=1706537727565&fullscreen_widget=2865712703243086&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&view=spans&from_ts=1706537486437&to_ts=1707142286437&live=true)
         6. [Deploy Status Dashboard](https://www.va.gov/atlas/apps/vets-api/deploy_status)
         7. [Vets API on EKS Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks)
-
-
-        ### Deploy Status Indicators
-        The [Deploy Status Dashboard](https://www.va.gov/atlas/apps/vets-api/deploy_status) displays colored checkmarks to indicate successful deployment of the latest vets-api commit to each environment:
-        ![Indicators](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/assets/images/vetsapi-manual-deployment-deploy-status-confirm.png)
-        - **Green checkmark** — Latest commit successfully deployed to **dev**
-        - **Blue checkmark** — Latest commit successfully deployed to **staging**
-        - **Yellow checkmark** — Latest commit successfully deployed to **sandbox**
-        - **Red checkmark** — Latest commit successfully deployed to **prod**
+        8. [Advanced Backend Support Responsibilities](https://vfs.atlassian.net/wiki/spaces/BCP/pages/2183037084/Advanced+Backend+Support+Responsibilities)
 
   - type: checkboxes
     id: verify-lower-environment-deployments
