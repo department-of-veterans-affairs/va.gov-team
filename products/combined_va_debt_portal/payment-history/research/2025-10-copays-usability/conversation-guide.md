@@ -2,45 +2,31 @@
 
 # Moderator logistics 📋✅
 
-# Before all sessions:
+**Before all sessions:**
 
-* # Review participant list for participant name and screener question responses
+* Review participant list for participant name and screener question responses  
+* Check Settings \> In Meeting (Advanced) \> Automated captions, Full transcript, Save captions are all ON  
+* Check Settings \> Meeting \> In Meeting (Basic) \> Sound notification when someone joins or leaves OFF  
+  * In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked  
+* Check Settings \> Meeting \> In Meeting (Basic) \> Screen sharing \> Who can share \> All Participants  
+* Check Settings \> Meeting \> In Meeting (Basic) \> Hide participant profile pictures in a meeting ON
 
-* # Check Settings \> In Meeting (Advanced) \> Automated captions, Full transcript, Save captions are all ON
+**10-15 min before each session:**
 
-* # Check Settings \> Meeting \> In Meeting (Basic) \> Sound notification when someone joins or leaves OFF
+* Sign onto Zoom website as Perigean and start Zoom meeting  
+* Slack Perigean notetaker a link to the notes doc in GitHub  
+* Post p\# and "observer instructions" in \#feedback-backchannel  
+  * @mention observers  
+  * Share brief summary of participant demographic info  
+  * Mural link for notetaking  
+* Wear HEADPHONES to prevent the user's screen reader from echoing back to them  
+* Paste website link into Zoom chat (but don't hit enter)  
+* Do Not Disturb ON so no notifications  
+* Make sure everyone is muted except me and the participant
 
-  * # In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+When the participant is ready, turn on your camera and begin session with the intro
 
-* # Check Settings \> Meeting \> In Meeting (Basic) \> Screen sharing \> Who can share \> All Participants
-
-* # Check Settings \> Meeting \> In Meeting (Basic) \> Hide participant profile pictures in a meeting ON
-
-# **10-15 min before each session:**
-
-* # Sign onto Zoom website as Perigean and start Zoom meeting
-
-* # Slack Perigean notetaker a link to the notes doc in GitHub
-
-* # Post p\# and "observer instructions" in \#feedback-backchannel
-
-  * # @mention observers
-
-  * # Share brief summary of participant demographic info
-
-  * # Mural link for notetaking
-
-* # Wear HEADPHONES to prevent the user's screen reader from echoing back to them
-
-* # Paste website link into Zoom chat (but don't hit enter)
-
-* # Do Not Disturb ON so no notifications
-
-* # Make sure everyone is muted except me and the participant
-
-# When the participant is ready, turn on your camera and begin session with the intro
-
-# CHECK SLACK for real-time feedback or questions from observers
+**CHECK SLACK** for real-time feedback or questions from observers
 
 # Intro (5 minutes)
 
