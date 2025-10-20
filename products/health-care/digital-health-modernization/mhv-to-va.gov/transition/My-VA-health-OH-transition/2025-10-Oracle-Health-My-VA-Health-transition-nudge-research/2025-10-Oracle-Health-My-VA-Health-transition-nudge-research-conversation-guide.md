@@ -137,21 +137,12 @@ _Participant lands on the Medications tool, gets to the Refill page._
 * How would you feel if those blue alerts were not there, and you couldn't get to the My VA health portal to refill your medications? 
 * If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
 
-## Cool down questions (5-10 mins)
-Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
-* Overall, how would you describe your feelings about transitioning to a different health portal on VA.gov?
-* What are your biggest concerns about a transition?
-* How would you feel about no longer having access to My VA Health? 
-* Do you have any questions or anything else you want to share? 
+## Thank-You and Closing - (5 mins)
+Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition. Before we end our session today, I want to circle back and re-confirm: Are you okay with us sharing anonymized video clips from today’s session with VA partners?
 
-## Consent to use video clips
-- I want to circle back and re-confirm: Are you okay with us sharing anonymized video clips from today’s session with VA partners?
-- Is there any part of our conversation you would NOT want included?
-  - [Record answer here]
+Do you have any questions or anything else you want to share? 
 
-## Thank-You and Closing - (1 min)
-Thank you so much for joining us today and sharing your feedback. It really helps us make this tool better for all Veterans.  
-Perigean will follow up with a thank-you after the session.
+Okay, thank you again for your participation today and for sharing so much about your experience with VA healthcare. Perigean will follow up with a thank-you after the session. I hope you have a wonderful rest of your day.
 
 ## Emergency Exit
 - If the participant becomes distressed or there's a technical issue:
