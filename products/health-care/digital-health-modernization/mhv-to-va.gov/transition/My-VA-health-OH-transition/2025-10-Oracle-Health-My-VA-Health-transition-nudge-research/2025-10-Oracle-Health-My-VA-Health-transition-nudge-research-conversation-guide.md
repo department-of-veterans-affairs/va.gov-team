@@ -63,17 +63,16 @@ Could you show me how you typically get to your patient portal to manage your he
 [Give user time to sign-in]
 
 **Task 1:** Can you show me how you would check to see details for an upcoming appointment?
-* What type of appointment is it?
-* What date/time is it happening?
-* What facility location?
-* How do you typically cancel or reschedule an appointment when you need to do that? 
+Prompts if needed: 
+* _What type of appointment is it?_
+* _What date/time is it happening?_
+* _What facility location?_
 
-**Task 2:** Can you show me how you would request a prescription refill? 
-* How often do you have to sign in to request refills?
-* What do you do when you run out of refills?
-* Do you ever check on the status of your refill request after you've submitted it? 
+* What other things do you commonly do here?
+* How often would you say you do that?
+* On a scale of 1-5 where **one** is very hard and challenging, or frustrating for you and **five** would be fantastic and extremely easy, how would you rate your experience using this patient portal overall?
 
-Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it. 
+Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. 
 
 ## Part 2: Prototype / Reactions to planned tactics (20 mins) 
 
@@ -124,16 +123,17 @@ I wonder if you see that blue alert near the top of the prototype?
     - Why or why not?  
 
 ### Task 2
-Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd like you to show me where you'd go to request a prescription refill.
+Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd like you to show me where you'd go to request a prescription refill. We won't actually request anything since this is just a prototype, but am curious about your reactions to completing a task here using the new My HealtheVet on VA.gov experience. 
 
-_How does user navigate to a different tool?_
+_Observe: How does the user navigate to a different tool?_
 
 _Participant lands on the Medications tool, gets to the Refill page._
-* What is different about refilling a medication here than what you're used to?
-* What else are you noticing?
+* Does it surprise you to see that blue alert on this page, too?
+* What else do you notice on this page?
 * Would you want to continue refilling your medication here on VA.gov, or would you prefer to go back to My VA Health to complete your prescription refill request?
   * Why/why not?
-* If you ran into an issue and needed help with something, what would you do?
+* How would you feel if those blue alerts were not there, and you couldn't get to the My VA health portal to refill your medications? 
+* If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
 
 ## Cool down questions
 Thank you for sharing your screen and completing those tasks today. This is really helpful information as we make decisions for this upcoming health portal transition.
