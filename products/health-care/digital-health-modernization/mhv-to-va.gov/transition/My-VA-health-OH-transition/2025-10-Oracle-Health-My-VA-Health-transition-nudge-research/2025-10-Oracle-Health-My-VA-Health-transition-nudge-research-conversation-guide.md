@@ -44,7 +44,7 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 * What type of device are you using today?
 * How long have you had healthcare benefits with the VA?
 * How often to you go to a VA health care facility to receive care?
-* Do you sign-into your health portal to manage your care online very often?
+* How often do you sign-into your health portal online?
 * Can you tell me about the last time you signed in to do something for your care?
   * How was that experience for you?
 
