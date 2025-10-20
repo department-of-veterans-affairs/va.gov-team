@@ -1,6 +1,7 @@
 name: Platform Atlas Manual Deployment Verification and Sync
 description: Checklist to verify deployments and sync environments for platform-atlas
 title: "[Deployment] Verify and Sync Platform Atlas"
+labels: ["platform-cop-backend"]
 body:
   - type: markdown
     attributes:
@@ -8,37 +9,42 @@ body:
         ## Deployment Verification & Sync Instructions
         Follow this checklist to ensure platform-atlas is properly deployed to **prod** environments.
 
+        ### Deployment Resources
+        1. [platform-atlas-prod ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=)
+        4. [platform-atlas-dev ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=)
+        7. [Vets API on EKS Developer Docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/vets-api-on-eks)
+        8. [Advanced Backend Support Responsibilities](https://vfs.atlassian.net/wiki/spaces/BCP/pages/2183037084/Advanced+Backend+Support+Responsibilities)
+
   - type: checkboxes
     id: verify-deployments
     attributes:
       label: Verify Deployment Statuss
       description: Ensure there are no deployment issues for **dev**.
       options:
-        - label: Checked platform-atlas-dev deployment (no issues), https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=.
+        - label: Check [platform-atlas-dev](https://argocd.vfs.va.gov/applications/platform-atlas-dev?operation=false&resource=) deployment (no issues)
 
   - type: markdown
     attributes:
       value: |
-        ## Sync Prod
-        1. Go to **platform-atlas-prod**.
-        2. Click **Sync**.
-        ![ArgoCD sync example showing PRUNE and AUTO-CREATE NAMESPACE checked](https://github.com/department-of-veterans-affairs/va.gov-team/assets/images/vetsapi-manual-deployment-prune1.png)
-        3. Ensure **PRUNE** and **AUTO-CREATE NAMESPACE** are **checked** (see image reference).
-        ![ArgoCD sync example showing PRUNE and AUTO-CREATE NAMESPACE checked](https://github.com/department-of-veterans-affairs/va.gov-team/assets/images/vetsapi-manual-deployment-prune2.png)
-        4. Click **Synchronize**.
+        ### Sync Prod
+        Reference image for PRUNE + AUTO-CREATE NAMESPACE configuration:
+        ![ArgoCD Sync Config example](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/assets/images/vetsapi-manual-deployment-prune1.png)
 
   - type: checkboxes
     id: sync-prod
     attributes:
       label: Prod Sync
       options:
-        - label: Navigated to platform-atlas-prod, https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=.
-        - label: Clicked Sync.
-        - label: Confirmed PRUNE and AUTO-CREATE NAMESPACE are checked.
-        - label: Clicked Synchronize.
+        - label: Navigate to [platform-atlas-prod ArgoCD](https://argocd.vfs.va.gov/applications/platform-atlas-prod?operation=false&resource=)
+        - label: Click Sync
+        - label: Confirm PRUNE and AUTO-CREATE NAMESPACE are checked (see ArgoCD Sync Config example image above)
+        - label: Click Synchronize
+        - label: Verify that the sync completed successfully
 
   - type: textarea
     id: notes
     attributes:
       label: Notes
       description: Add any issues, errors, or additional observations during the process.
+
+        ### Sync Prod
