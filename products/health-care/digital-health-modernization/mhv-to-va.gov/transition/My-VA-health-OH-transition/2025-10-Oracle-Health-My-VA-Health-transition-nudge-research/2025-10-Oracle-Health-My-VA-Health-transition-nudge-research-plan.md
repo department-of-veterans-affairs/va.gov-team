@@ -22,7 +22,8 @@ As we think about the transition rollout at Columbus, there are two key target t
 * Better understand how these users felt about the transition to My VA Health patient portal. 
 * How might previous transitions impact their approach towards future transitions regarding their experience with digital VA healthcare? 
 * Better understanding these users - what they are doing, why, and ultimately how they make decisions - will support the VA.gov team in designing an experience that can influence how Veterans at the 6 current Oracle Health facilities behave and approach the transition. 
-* What are their reactions to planned tactics for communicating the transition of My VA Health to My HealtheVet on VA.gov? 
+* What are their reactions to planned tactics for communicating the transition of My VA Health to My HealtheVet on VA.gov?
+* Understand what language, messaging, and placement nudges users toward adopting transitions? 
 
 ## Research Questions
 **Self-reflected behaviors:**
