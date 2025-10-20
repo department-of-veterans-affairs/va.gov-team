@@ -323,8 +323,8 @@ We’re going to wrap up at this step in the process. Thanks for walking through
 - Were there any instructions or parts of the process that were hard to remember or keep track of?
 - Did the summary screens help you reflect and confirm your choices?
 - Imagine a Veteran who wanted to file a claim for a mental health condition asked you about the process. If you had to describe the steps of submitting evidence to them, what would you say?
-    - Thank you for sharing.     
-    - (if confused/wrong, then clarify the steps) What would have made that clearer?
+    - (if confused/wrong, first ask exploratory question) Could you talk us through how you came up with those steps? 
+    - (then clarify the actual steps) Thank you for explaining. What we intended were these steps: access to treatment records, mental health document upload, all other document upload. Sounds like maybe the design or instructions weren’t as clear as we hoped. What would have made that clearer?
 - Do you have any questions for me before we end the session?
     
 
