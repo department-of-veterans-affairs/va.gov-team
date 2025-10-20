@@ -16,6 +16,35 @@ For any substanial decision to make or made by the team, add it here. Substantia
 
 ## Decisions made
 
+### DR 6: How do we handle names in the interface that come from our data source in all CAPS?
+Date: 2025-10-17
+
+**Status**
+
+Accepted
+
+**Context**
+
+Names of dependents come from our data source in all CAPS. We can't transform them from a technical perspective because names are very unique and spelled and accented differently. Examples include: DeShaun, A'ja, Mo'Nique.
+
+**Decision**
+
+Minimize the use of the names so we're not repeating them multiple times on a screen. Our content designer refined the content to accomplish these goals:
+
+- Make the question more clear and make it align better with the options. (The original question phrasing "Do any of these apply..." made it seem more like a checkbox select field label when we really want just one removal reason.)
+- Make hint text more clear
+- Eliminate redundancy of using the name so many times (especially since the name will be in all caps)
+- Retain a unique H3 for each screen (eg., the H3 couldn't be "Reason for removing this dependent" because we may end up with that same H3 on multiple screens)
+
+**Consequences**
+
+Using the name in all CAPS has the following issues:
+
+- They may be harder to read for some people with cognitive disabilities.
+- Screen readers and other assistive technology may announce them differently, depending on the length of the name.
+- From an appearance/visual standpoint, it looks like the interface is shouting at the user.
+- Readability is reduced with all caps because all words have a uniform rectangular shape, meaning readers can't identify words by their shape.
+
 ### DR 5: Which removals should we support?
 
 Date: 2025-10-02
