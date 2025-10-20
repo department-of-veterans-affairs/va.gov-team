@@ -110,7 +110,8 @@ I wonder if you see that blue alert near the top of the prototype?
   - What does this mean to you?
   - How does it make you feel?
  - Is this information important for you? Should it be more noticeable?
- - Would you want to see this information every time you sign in? 
+ - Would you want to see this information every time you sign in?
+ - What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
 
 **[User notices alert on their own]**
 - Without expanding this alert, what do you think that one line of text means?
