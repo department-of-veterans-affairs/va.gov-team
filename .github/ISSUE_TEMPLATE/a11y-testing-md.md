@@ -19,7 +19,7 @@ The more you test and fix issues before your staging review, the less likely we 
 
 The Required and Recommended checklists below are based on WCAG 2.2 and the [VA.gov Accessibility Standards](https://depo-platform-documentation.scrollhelp.site/accessibility/va-gov-accessibility-standards).
 
-Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
+Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why as a comment on this ticket.
 
 ### Product information
 - [ ] Team name, product name, and feature name have been added to the title of this issue.
@@ -30,7 +30,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 - You may find multiple issues while performing a single check. Every check should be tested on every page of your flow.
 - For every fail, log the issue (see 4. Next steps)
 - If the check is not applicable to your product, mark it as passed.
-- Each checklist item includes a "How to test" link. Use this guidance to inform your testing. If you have additional questions, please post in the comments and/or reach out to ADE or other accessibility specialists. 
+- Each checklist item includes a "How to test" link. Use this guidance to inform your testing. If you have additional questions, please post as a comment on this ticket and/or reach out to ADE or other accessibility specialists. 
 ---
 
 ### Automated testing
@@ -40,14 +40,14 @@ Complete all required checks and as many recommended checks as you can. If you c
   [Learn more about testing with Axe DevTools](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
   - [ ] Pass  
   - [ ] Fail
-  - [ ] Include screenshots or output of AXE results in a comment in this ticket
+  - [ ] Include screenshots or output of AXE results in a comment on this ticket
 
 - **Axe-core has been integrated in end to end testing (Automated-002)**  
   End to end testing with Cypress or other libraries includes Axe-core scanning.
   [Learn more about integrating Axe-core in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). 
   - [ ] Pass  
   - [ ] Fail
-  - [ ] Provide a link to, or evidence of, AXE integration in a comment in this ticket
+  - [ ] Provide a link to, or evidence of, AXE integration in a comment on this ticket
 
 ---
 
@@ -349,8 +349,8 @@ Complete all required checks and as many recommended checks as you can. If you c
 - [ ] Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
 
 ### Report identified issues
-For any issues identified during your testing, please report them as part of your staging review. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information in the comments.
+For any issues identified during your testing, please report them as part of your staging review. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket.
 - [ ] Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
 - [ ] Assign to `jasonday` and add the `a11y-testing` label.
 - [ ] Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
-- [ ] Provide a link to each issue logged in this accessibility testing artifact's comments
+- [ ] Provide a link to each issue logged in a comment on this ticket.
