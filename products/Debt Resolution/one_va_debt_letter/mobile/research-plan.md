@@ -272,7 +272,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
   - **Leo Sporgitas**
   - **Heather Rienks**
   - **Tom Davis**
-  - **Alex Teal**
   - **Dave Formanek**
   - **Kim McCaskill**
   - **Matthew Guest**
