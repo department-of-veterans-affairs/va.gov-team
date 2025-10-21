@@ -1,3 +1,12 @@
+---
+name: Check In Experience Front End Engineering
+about: Template to create a front end engineering ticket
+title: "[FE]"
+labels: frontend
+assignees: ''
+
+---
+
 ## Description
 
 **Feature Summary:**
