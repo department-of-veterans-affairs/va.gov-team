@@ -8,7 +8,8 @@ body:
       value: |
         :warning: **_Prerequisites_**
         1. Before being granted access, the individual for whom access is requested (the "target individual") must either be listed on the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) or have started their [Platform Orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/Platform-Orientation.1877344532.html) and be listed as a team member in [Atlas](https://www.va.gov/atlas/product_directory/team_members)
-        1. The target individual MUST be able to provide proof that their E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).
+        2. The target individual MUST be able to provide proof that their E-QIP questionaire has either been transmitted or been adjudicated with a favorable decision. You'll be required to submit proof below. If you have not started your E-QIP process, do NOT submit this ticket. Ask your Vendor Onboarding Representative to confirm (listed below in a dropdown).
+        3. The target individual MUST have their federal Product Owner OR Contract Program Manager comment on this ticket verifying the requester's need for access. 
 
         :wave: **_Instructions_**
         1. Change the **Title** to include target individual
