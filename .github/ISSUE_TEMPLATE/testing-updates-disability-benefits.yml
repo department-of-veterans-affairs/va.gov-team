@@ -45,31 +45,27 @@ body:
 - type: checkboxes
   attributes: 
     label: Definition of Done
-    description: General
     options:
       - label: Meets acceptance criteria
       - label: Reviewed and approved by product and/or design
-- type: markdown
+- type: checkboxes
   attributes:
-    value: |
-      ### General
-      - [ ] Meets acceptance criteria
-      - [ ] Reviewed and approved by product and/or design
-      
-      ### Engineering
-      - [ ] All tests pass  
-      - [ ] New functionality is covered by unit tests
-      - [ ] Logging and monitoring are implemented (if applicable)
-      
-      ### Code Review & Pull Request
-      - [ ] Copilot review completed and feedback addressed  
-      - [ ] Internal reviewer approved  
-      - [ ] PR includes:
-        - [ ] Local testing steps  
-        - [ ] Flipper/testing state details (if applicable)  
-        - [ ] Author’s proof of submission screenshot  
-      - [ ] Reviewer added local proof of submission screenshot  
-      - [ ] Code functionality verified on Staging after merge    
+    label: Engineering
+    options:
+      - label: All tests pass
+      - label: New functionality is covered by unit tests
+      - label: Logging and monitoring are implemented (if applicable)
+- type: checkboxes
+  attributes:
+    label: Code Review & Pull Requests
+    options:
+      - label: PR includes Local testing steps
+      - label: PR includes Flipper/testing state details (if applicable)
+      - label: PR includes Author's local proof of submission screenshot
+      - label: Copilot review completed and feedback addressed
+      - label: Internal reviewer approved
+      - label: Internal reviewer added local proof of submission screenshot
+      - label: Code functionality verified on Staging after merge  
 - type: checkboxes
   attributes:
     label: Refinement Checklist! 
