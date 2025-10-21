@@ -1,19 +1,49 @@
- # 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
+# 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
 - Current Sprint first
 
 ---
-## 📆 Sprint 5 (Oct 8 - Oct 21) 
+## 📆 Sprint 6 (Oct 22 - Nov 4) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] (continue) EZR Spouse QA findings resolution for Spouse review page skipped - **_Carry over due to unable to merge due to test failures and unable to reproduce_**
+- [ ] EZ Investigate Intro page looping
+
+## 
+### 10-10EZR
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#121661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121661) - [FE] Spouse review page skipped
+     - QA testing is dependent on this fix (split issue into it's own ticket from QA ticket)
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] re-open to investigate Intro page looping
+
+## 
+### 10-10CG
+
+#### No scheduled work this sprint
+
+##
+### Team PTO
+- Steve: 10/20-10/24
+- Allan: 10/30-10/31
+
+---
+## 📆 Sprint 5 (Oct 8 - Oct 21) 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 - [ ] EZR Spouse QA findings resolution for Spouse review page skipped - **_Carry over due to unable to identify root cause, pulling in additional assistance_**
 - [ ] EZ Investigate Intro page looping
-- [ ] New teammate onboarding
+- [x] New teammate onboarding
 - [x] EZR Update SOT for Print/Save PDF
 
 ##
 ###  Team Objective
-- [ ] **SPRINT GOAL** [121656](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121656) - [Eng] Ray Messina team onboarding
+- [x] **SPRINT GOAL** [121656](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121656) - [Eng] Ray Messina team onboarding
 
 
 ##
