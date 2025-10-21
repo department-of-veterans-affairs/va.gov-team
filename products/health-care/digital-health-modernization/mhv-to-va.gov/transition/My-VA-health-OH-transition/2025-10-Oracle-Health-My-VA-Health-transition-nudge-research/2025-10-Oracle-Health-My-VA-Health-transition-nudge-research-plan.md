@@ -201,6 +201,7 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 * Thursday, Oct. 30 - 2:00-3:00pm ET
 
 ## Research sessions
+* Pilot sessions (team only): October 27-30, 2025
 * Planned dates of research: November 3-12, 2025
 * Session length: 60 minutes
 * Buffer time between sessions: 30 minutes
