@@ -2,7 +2,7 @@
 # Research Plan Metadata
 title: "Research Plan for Health Apps, FMP Claims Form 10-7959f-2, October 2025"
 date: 2025-10-14
-last_updated: 2025-10-14
+last_updated: 2025-10-21
 team: "Health Apps UX Team"
 product: "Foreign Medical Program - Claims"
 product_area: "authenticated"
@@ -105,7 +105,7 @@ tags:
 
 ---
 
-# Research Plan for [Health Apps, FMP Claims VA Form 10-7959f-2, October 2025]
+# Research Plan for Health Apps, FMP Claims VA Form 10-7959f-2, October 2025
 
 
 ## Background 🏗️
@@ -131,9 +131,6 @@ tags:
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
-
-
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
@@ -145,102 +142,65 @@ tags:
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
 
 
-</details>
-
-
-
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
-	
 
 - `Taking Care of Myself`
 - `Reinventing Myself`
 - `Putting Down Roots`
 
 
-</details>
-
-
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
 
 ### Goals
 
-`1.` **[Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.]**
+`1.` Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
 
-`2.` **[Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.]**
+`2.` Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
 
-`3.` **[Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.]**
+`3.` Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.
   
 ### Outcome
 
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
-
 ---
 
-**Gague risk of new direct deposit content on a form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.** 
+This research will gauge the risk of new direct deposit content on the FMP Registration form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.
 
 ---
 
 ### Research questions	
-`What will I do with what I learn from this question?`
-`Does this question serve the goals of my study?`
 
-**`1. [How do Veterans react to the direct deposit informational alert on the introduction page?]**`
+`1.` How do Veterans react to the direct deposit informational alert on the introduction page?
 
-**`2. [Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?]**`
+`2.` Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?
 
-**`3. [Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?]**`
+`3.` Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?
 
-**`4. [Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?]**`
+`4.` Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?
 
-**`5. [Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?]**`
-
+`5.` Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?
 
 
 ### Hypotheses
  
 ---
 
-**[Enter hypotheses here:]** 
 - We assume that overall there will be some but minimal confusion about direct deposit being a separate process than what is used for VA Benefits.
 - Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
 
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
+[Semi-structured interviews with a Figma prototype]
 
-**[Semi-structured interviews with a Figma prototype]**
-
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-</details>
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
 - [x] **Remote**
 - [ ] **In-person**
-      
 
 
 ## Research materials 📔
-
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated interviews / content usability test:** 
 	
@@ -249,7 +209,6 @@ Provide a link to any materials you need to run your study, including any materi
 
 
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
@@ -300,11 +259,11 @@ Provide a link to any materials you need to run your study, including any materi
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[45-60 minutes]**
+- `Session length:` 45-60 minutes
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[45 minutes]**
+- `Buffer time between sessions:` 45 minutes
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[3]**
+- `Maximum Sessions per day:` 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -325,11 +284,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
-
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **[Health Apps UX Team]**	
 - `Research guide writing and task development (usually but not always same as moderator):` **[Health Apps UX Team]**		
