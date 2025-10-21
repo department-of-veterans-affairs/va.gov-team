@@ -278,3 +278,19 @@ Tech Stack
            "Name": "Jane"
        }
     }
+
+**Sample Push request with personalisation**
+`{{notification-api-url}}/v2/notifications/push`
+
+    {
+        "mobile_app": "VA_FLAGSHIP_APP",
+        "template_id": "123ID",
+        "recipient_identifier": {
+            "id_type": "ICN",
+            "id_value": "value"
+        },
+        "personalisation": {
+            "appointment_date": "date",
+            "appointment_time": "time"
+        }
+    }
