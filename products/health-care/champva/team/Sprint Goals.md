@@ -19,6 +19,8 @@
   - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
 - [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
+- [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+- [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 
 
 ### 10-7959a
@@ -55,12 +57,8 @@
 ##
 ### WHAT'S NEXT
 - **FE**
-  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
 - **UX**
-  - [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
 - **BE**
-  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
-  - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 
 
 ##
