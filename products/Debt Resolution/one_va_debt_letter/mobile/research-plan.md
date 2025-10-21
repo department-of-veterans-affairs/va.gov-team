@@ -127,94 +127,114 @@ For the concept testing portion, Veterans will interact with two prototypes:
 
 ## 🚧 🚧 🚧 Research materials 📔
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/conversation-guide.md)
+- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4006%3A561&hotspot-hints=0)
+- [Link to prototype: design explorations](url goes here)
 
 
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
 	
-## 🚧 🚧 🚧 Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
+## Recruitment 🎯	
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
-### Recruitment criteria
+We would like Perigean to recruit Veterans, non-AT (assistive technology) users, for Zoom sessions on smartphones.
+- Veterans who have experience with both VA medical copays and benefit overpayment debt.
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+We would like our participants to download the Figma app prior to the sessions. They should not create an account within the app, only have it downloaded. It is available at the Google Play Store and the Apple App Store.
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+
+### Screener questions
+
+1. Please check all that apply
+
+	a. I currently have an unpaid VA benefits overpayment debt (such as disability compensation, education, or pension benefits overpayments)  
+    b. I previously had a VA benefits overpayment debt in the last year  
+    c. I have not had a VA benefits overpayment debt in the last year (**DISQUALIFY**)  
+    
+    
+2. Have you received a medical copayment bill from VA in the last year?
+
+	a. Yes  
+    b. No (**DISQUALIFY**)  
+
+
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+
+	a. Yes  
+    b. No (**DISQUALIFY**)  
+
+
+4. How often are you using the VA health and benefits app on your phone?
+
+	a. I have never used it, or just tried it once (**DISQUALIFY**)  
+    b. 3-5 times in the past year  
+    c. 1-2 times per month  
+    d. 1-2 times per week  
+    e. Daily or almost daily  
+
+
+5. When interacting with apps on your smartphone, do you usually adjust the standard display or use accessibility features? Please select all that apply.
+
+	a. I mostly use the phone's standard display settings.  
+    b. I often increase the text size significantly. (**DISQUALIFY**)  
+    c. I use screen magnification or zoom features. (**DISQUALIFY**)  
+    d. I use a screen reader (such as VoiceOver or TalkBack). (**DISQUALIFY**)  
+    e. Other (**DISQUALIFY**)  
+    f. Prefer not to say (**DISQUALIFY**)  
+
+
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+
+	a. Yes  
+    b. No  
+    c. Decline to answer  
+
+
+7. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+	a. Yes (*mark as having a cognitive disability*)  
+    b. No  
+    c. Decline to answer  
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **12**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **12**
+- `Ideal completed sessions:` **8**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `Had a debt balance from benefit overpayments in the last year`
+- `Received VA medical copay bills in the last year`
+- `Complete session on their smartphone via the Zoom app`
+- `Download the Figma app ahead of time, though not creating an account`
+- `No assistive technology users or accessibility features turned on`
+    - _This is due to prototype limitations; we will be testing with assistive technology at a later date_
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `At least 6 ages 55+`
+- `At least 3 under age 35`
+- `At least 6 with cognitive disability`
+- `At least 4 people of color`
+- `At least 3 in a rural area`
+- `At least 3 without a degree`
+- `At least 2 with immigrant origins`
+- `At least 1 woman`
+- `At least 1 from the LGTBQ+ community`
 
 ## 🚧 🚧 🚧 Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
-### Optional Kick-off Call with Perigean
+### Kick-off Call with Perigean
 
 - `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[Enter name]**
 - `Date and time of pilot session:` **[Enter time]** 
@@ -223,22 +243,13 @@ Provide a link to any materials you need to run your study, including any materi
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` **3**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
@@ -280,3 +291,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+ 
