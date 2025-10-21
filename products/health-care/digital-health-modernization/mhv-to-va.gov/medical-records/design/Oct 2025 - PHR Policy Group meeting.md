@@ -3,8 +3,8 @@
 
 In this doc: 
 - [Takeaways](#takeaways)
-- [Notes](#notes)
 - [Next steps](#next-steps)
+- [Notes](#notes)
 
 ## Takeaways
 - **Business rules**: We don't have these documented right now. We have a general idea of what we should/shouldn't do in specific cases though. Some example FHIR statuses we talked about:
@@ -22,6 +22,11 @@ In this doc:
    - Care Notes
    - Health Summaries
    - Imaging studies (and any other types of tests that are different from lab results)
+
+## Next steps
+- [ ] BP summarize meeting notes
+- [ ] BP develop doc data classes + statuses + what we should do (new meeting, create new doc)
+- [ ] BP/MM document biz owners involved in the decision for labs + other modules
 
 ## Notes
 ### Carnetta
@@ -65,8 +70,3 @@ In this doc:
 - We need the guidance on business rules (by data class)
 - Who did we work w/ on Oracle health for their portal? When documenting these business rules? Biz rules on Oracle health portal right now? 
 - We need this for general Medical records in other domains too
-
-## Next steps
-- [ ] BP summarize meeting notes
-- [ ] BP develop doc data classes + statuses + what we should do (new meeting, create new doc)
-- [ ] BP/MM document biz owners involved in the decision for labs + other modules
