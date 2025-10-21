@@ -1,4 +1,5 @@
- ## Product Outline: Medical Renewal Flow Via SM -VA.Gov
+ ## Product Outline: Medical Renewal Flow Via SM -VA.Gov- MVP
+  Updated- 10/21/25
 
 ##  Overview 
 
@@ -6,6 +7,7 @@ Today, an automatic renewal button on the medication portal is not  possible for
 
 This is due to the the Medications API limitations of not having a direct established correlation between the meds provider and the SM provider in both systems. This correlation is necessary to send the renewal request to the provider through SM.
 
+**User Goal**: Renew Medications Online for Vista (December 2025-MVP). Note: Post MVP will be Vista and OH Users.
 
 
 ## Problem/User Story
@@ -19,6 +21,17 @@ As a Veteran with an expired medication, I need to have a clear way to request a
 
 -We need the ability for users/vets to send a secure message to a doctor, requesting a refill.
 
+
+### Requirement for RX  Renewal
+
+Vista Users
+
+**Active Refills**:  For Active Refills, the user is eligible for renewal if 1. The user has no refills remaining 2. The user have a refills in progress with no refills remaining  2. the user has submitted for an active refill with no refills remaining
+
+**Expire Refills** For In-active or Expired Refills, the user is eligible for renewal if 1.The prescription expiration is less than 120 days
+
+Expired: 
+
 ## Outcome Summary 
 An renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
 
@@ -28,12 +41,13 @@ Note: The flow will be implemented for with **VISTA Data only.**
 
 **Note:** Medication status would trigger and lead to at renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
 
-### What we are building 
+### Implemenation
 
 For VA.Gov- Web: 
 
 We are implementing a Link to Secure Messaging "Start a new message" page that will contain pre-filled details based on the info for the given prescription from MHV Medications API (integrated with OH system for OH RX's)
 
+Note: Implementation will not apply to the Mobile App for MVP
 
 ### Key Performance Indicators (KPIs) 
 
