@@ -28,18 +28,13 @@ Vista Users
 
 **Active Refills**:  For Active Refills, the user is eligible for renewal if 1. The user has no refills remaining 2. The user have a refills in progress with no refills remaining  2. the user has submitted for an active refill with no refills remaining
 
-**Expire Refills** For In-active or Expired Refills, the user is eligible for renewal if 1.The prescription expiration is less than 120 days
-
-Expired: 
+**Expire Refills** For In-active or Expired Refills, the user is eligible for renewal if 1.The prescription expiration is less than 120 days expired 
 
 ## Outcome Summary 
-An renewal flow is needed while the API integration work is in progress simultaenously (estimated for Dec. rollout).
+ This renewal flow will apply to Vista Users & applicable Data **only.**
 
-Note: The flow will be implemented for with **VISTA Data only.** 
-
-**Note**: SM Team plans fast follow to integrate with OH data as a V2 approach.
-
-**Note:** Medication status would trigger and lead to at renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
+**Note**: As a fast follow or Post MVP Approach, SM team plans to include both Vista and OH Data.
+A Medication status would trigger and lead to a renewal. Vista and OH have different statuses that medications hold (ex. inactive vs. discontinued).
 
 ### Implemenation
 
