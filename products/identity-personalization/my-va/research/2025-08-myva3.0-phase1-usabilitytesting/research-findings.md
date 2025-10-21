@@ -12,7 +12,6 @@ research_goals:
   - 2. Validate My VA 
 methodology:
   - "Moderated, structured and remote user interviews"
-  - "Method 2"
 devices_used:
     desktop: X
     smartphone: X
@@ -48,11 +47,11 @@ synthesis_tools_used:
 ---
 
 # Evidence Request Study Research Findings 
-**Office of the CTO - Digital Experience (OCTO-DE), Benefits Claim Status Tool, BMT-1**
+**Office of the CTO - Digital Experience (OCTO-DE), My VA 3.0**
 
-**Date:** 04/10/2025
+**Date:** 08-2025
 
-**Contacts:** Kat Brinkley, Dillon Hawes
+**Contacts:** Ashley Bush, Janelle Finnerty 
 
 **[Research Readout (PDF)]()**  
 
