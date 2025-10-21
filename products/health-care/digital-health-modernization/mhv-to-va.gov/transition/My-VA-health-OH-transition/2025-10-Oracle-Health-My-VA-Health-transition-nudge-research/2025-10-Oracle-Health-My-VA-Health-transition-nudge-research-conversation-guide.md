@@ -73,9 +73,9 @@ Prompts if needed:
 * Have you ever had trouble finding something on this portal? What helped you figure it out?"
 * How much do you trust the information you see here? What would make you more confident in it?
 * On a scale of 1-5 where **one** is very hard and challenging, or frustrating for you and **five** would be fantastic and extremely easy, how would you rate your experience using this patient portal overall?
+* If someone told you 'your health information has been moved from this website to My HealtheVet on VA.gov,' what would you expect that to mean?
 
-Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. Before we move on to the next step, I want to check in: How are you 
-feeling so far? Do you have any questions before we continue?
+Okay, thank you so much for showing us how you navigate your health portal and answering those questions, it's really helpful to see how you use it and hear about your experience. Before we move on to the next step, I want to check in: How are you feeling so far? Do you have any questions before we continue?
 
 ## Part 2: Prototype / Reactions to planned tactics (30 mins) 
 
