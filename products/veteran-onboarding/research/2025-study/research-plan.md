@@ -96,7 +96,7 @@ veteran_journey_phases:
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "TBD"
+    - "[Veteran Feedback about DS Logon](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1386#:~:text=Research%20Plan%202024%3A%20IIR%2C%20Veteran%20Onboarding%2C%20Summer%202024)"
     
 tags:
   - "authenticated"
@@ -105,7 +105,21 @@ tags:
   - "onboarding"
 ---
 
+
+
 # Research Plan for Core Veteran Experience, Welcome to VA.gov Onboarding, October 2025
+
+## Research Plan Metadata
+- **Title:** Research Plan for Core Veteran Experience, Welcome to VA.gov Onboarding, October 2025
+- **Date:** 2025-10-16
+- **Last Updated:** 2025-10-16
+- **Team:** Core Veteran Experience
+- **Product:** Welcome to VA.gov Onboarding
+- **Product Area:** Authenticated
+- **Methodology:** Comparative usability testing with preference ranking
+- **Research Format:** Remote, moderated
+- **Pilot Date:** 2025-10-24
+- **Research Dates:** 2025-10-27 to 2025-11-04
 
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
@@ -122,11 +136,11 @@ This is an authenticated experience. The modal popup appears for new Veterans af
 
 `What is Veterans' familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-This is a new product designed to help first-time and new VA.gov users navigate the site more effectively. We are testing two versions: Version A (Application-focused) presents VA health care, VA disability compensation, and VA education and training benefits. Version B (Exploration-focused) presents Go to My VA, Manage your health care, and Discover your benefits.
+This is a new product designed to help first-time and new VA.gov users navigate the site more effectively. We are testing two versions: Version A (Application-focused) presents VA health care, VA disability compensation, and VA education and training benefits. Version B (Action-focused) presents Go to My VA, Manage your health care, and Discover your benefits.
 
 `Product Brief`
 
-**TBD**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/product-outline.md)**
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
@@ -173,13 +187,23 @@ This research will determine which modal version to implement and identify any u
 
 ### Hypotheses
  
-New Veterans will prefer clear, actionable guidance over open-ended exploration, reducing decision paralysis and improving task completion. Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while exploration-focused options (Version B) will appeal to Veterans who are still exploring their options.
+New Veterans will prefer clear, actionable guidance over open-ended exploration, reducing decision paralysis and improving task completion. Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while action-focused options (Version B) will appeal to Veterans who are still exploring their options. Both modal versions will result in higher satisfaction and task completion rates compared to no onboarding guidance.
 
 ## Methodology 🛠️
 
 **Comparative usability testing with preference ranking**
 
-45-minute remote sessions combining semi-structured interviews (10 minutes) and comparative usability testing of both modal prototypes (30 minutes). Participants will interact with both versions in randomized order and provide preference feedback with reasoning. Focus on language preferences (application vs. exploration-oriented), readiness state alignment, and confidence impact.
+45-minute remote sessions combining semi-structured interviews (10 minutes) and comparative usability testing of both high-fidelity interactive modal prototypes (30 minutes). 
+
+**Version Testing:**
+- **Modal Version A (Application-focused):** Three benefit application options - VA Health Care, VA Disability Compensation, and VA Education Benefits
+- **Modal Version B (Action-focused):** Three action options - My VA, My HealtheVet, and Discover Your Benefits Tool
+
+**Testing Protocol:**
+- Participants will interact with both versions in **randomized order** to prevent order bias
+- After viewing each modal, participants will attempt a task completion activity (e.g., initiating an action based on modal guidance rather than simply dismissing the modal)
+- Participants will provide preference feedback with reasoning and complete a brief satisfaction rating
+- Focus on language preferences (application vs. action-oriented), readiness state alignment, and confidence impact
 
 ### Location
 
@@ -193,13 +217,18 @@ New Veterans will prefer clear, actionable guidance over open-ended exploration,
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/conversation-guide.md)
-- [Link to prototype](https://www.figma.com/design/awqwt6nhCwGeVq5nWj7wFb/Onboarding-Tour?node-id=3831-2226&t=OFfsUbPzqnG3f1er-1)
+- [Link to high-fidelity interactive prototype](https://www.figma.com/design/awqwt6nhCwGeVq5nWj7wFb/Onboarding-Tour?node-id=3605-26130&t=UJXmJVBl70PPnszG-1)
+
+**Prototype Details:**
+- **Modal Version A (Application-focused):** Three benefit application options - VA Health Care, VA Disability Compensation, and VA Education Benefits
+- **Modal Version B (Action-focused):** Three action options - My VA, My HealtheVet, and Discover Your Benefits Tool
+- **Testing Approach:** Participants will interact with both versions in **randomized order** to prevent order bias
 
 ## Recruitment 🎯	
 
 ### Recruitment approach
 
-We will use Perigean to recruit participants using a maximum variation sampling approach via their recruitment partner, with targeted outreach to recently transitioned Veteran organizations. We are specifically targeting Veterans who are either completely new to VA.gov or have very limited experience with the site (created account within 3 months, fewer than 5 total visits).
+We will use Perigean to recruit participants using a maximum variation sampling approach via their recruitment partner, with targeted outreach to recently transitioned Veteran organizations. We are specifically targeting Veterans who are either completely new to VA.gov or have very limited experience with the site (created account within 3 months, fewer than 10 total visits).
 
 ### Recruitment criteria
 
@@ -209,7 +238,7 @@ We will use Perigean to recruit participants using a maximum variation sampling 
    - Qualifying response: Within the past 2 years
 
 2. **Have you used VA.gov before? If yes, when did you create your account and approximately how many times have you visited the site?**
-   - Qualifying response: Never used it OR created account within 3 months with fewer than 5 visits
+   - Qualifying response: Never used it OR created account within 3 months with fewer than 10 visits
 
 3. **Have you completed any of the following on VA.gov: enrolled in VA health care, filed a disability claim, or applied for education benefits?**
    - Qualifying response: No to all three
@@ -225,7 +254,7 @@ We will use Perigean to recruit participants using a maximum variation sampling 
 ### Primary criteria (must-haves)
 
 - Veterans who transitioned from service within the past 2 years
-- Either: Have never used VA.gov before OR recently created a VA.gov account (within 3 months, fewer than 5 total visits)
+- Either: Have never used VA.gov before OR recently created a VA.gov account (within 3 months, fewer than 10 visits)
 - Have not yet completed major VA processes (healthcare enrollment, disability claims, education benefits)
 - 8 participants testing on desktop devices
 - 8 participants testing on mobile devices
@@ -233,9 +262,10 @@ We will use Perigean to recruit participants using a maximum variation sampling 
 #### Secondary criteria (nice-to-haves)
 
 - English speakers with reliable internet connection
-- Mix of participants across different geographic locations
+- Mix of participants across different geographic locations (including rural and urban)
 - Mix of different branch backgrounds
 - Range of tech comfort levels
+- At least 2-3 participants who use assistive technology (screen readers or other AT) to ensure accessibility considerations are captured
 
 ## Timeline 🗓️
 
@@ -270,7 +300,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `10/27/2025, Monday, 10:00 AM-6:00 PM EST`
 - `10/28/2025, Tuesday, 10:00 AM-6:00 PM EST`
 - `10/29/2025, Wednesday, 10:00 AM-6:00 PM EST`
-- `10/30/2025, Thursday, 10:00 AM-6:00 PM EST`
+- `10/30/2025, Thursday, 10:00 AM-4:00 PM EST`
 - `10/31/2025, Friday, 10:00 AM-6:00 PM EST`
 - `11/03/2025, Monday, 10:00 AM-2:00 PM EST, 4:00 PM-6:00 PM EST`
 - `11/04/2025, Tuesday, 10:00 AM-6:00 PM EST`
@@ -285,7 +315,8 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Moderator:` **David Pearl**	
 - `Research guide writing and task development:` **David Pearl**		
 - `Participant recruiting & screening:` **David Pearl**	
-- `Project point of contact:` **David Pearl**		
+- `Project point of contact:` **David Pearl**
+- `Backup moderator:` **Raquel Eisele or Megan Commons**		
 - `Accessibility specialist:` **N/A**	
 - `Note-takers:` **Raquel Eisele, Megan Commons, Janelle Finnerty, Ashley Bush**	
 - `Observers: List the names of people observing the sessions. Spread observers across sessions. There should be no more than 5 to 6 total attendees per session on the VA side.`
@@ -296,5 +327,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **Core Veteran Experience team members**
 
 ## Approvals ✅
-- `Reviewed by Dave Conlon (OCTO Product Owner) on September-2025`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by Dave Conlon (OCTO Product Owner) on 10-16-2025`
+- `Reviewed by OCTO Research-Ops Lead on [10-20-2025]`
