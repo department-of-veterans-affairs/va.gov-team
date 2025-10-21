@@ -19,9 +19,10 @@
 - [ ] **SPRINT GOAL** UX: 10-10d: Update documentation with OHI Subchapter updates
 - [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
 - [ ] **SPRINT GOAL** UX: 10-7959a: Audit Staging and Content Changes, Update WIP Files
-- [ ] **SPRINT GOAL** UX: 10-7959c: Create Production Form Flow Documentation
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
-- [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit submitted, reviewed, and edited
+- [ ] STRETCH GOAL: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] STRETCH GOAL UX: 10-7959c: Create Production Form Flow Documentation
 
 ##
 ### 10-10d
@@ -65,8 +66,6 @@
   - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
 - [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
   - [ ] [[BE] 10-7959c: IOError when the 10-7959C form profile tries to load](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118794)
-- [ ] **SPRINT GOAL** UX: 10-7959c: Create Production Form Flow Documentation
-  - [ ] [[UX] OHI Standalone 10-7959c: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120324)
 
  
 ## 
@@ -78,6 +77,9 @@
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
   - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
+- [ ] **SPRINT GOAL** UX: Research Planning FMP Claims for Direct Deposit submitted, reviewed, and edited
+  - [ ] [[Research] FMP Claims Direct Deposit: Research Plan Edits](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122815)
+
 
 ##
 ### All forms or Tech Debt
@@ -89,6 +91,9 @@
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **STRETCH GOAL** UX: 10-7959c: Create Production Form Flow Documentation
+  - [ ] [[UX] OHI Standalone 10-7959c: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120324)
+
 
      
 ##
