@@ -26,9 +26,9 @@ As a Veteran with an expired medication, I need to have a clear way to request a
 
 Vista Users
 
-**Active Refills**:  For Active Refills, the user is eligible for renewal if 1. The user has no refills remaining 2. The user have a refills in progress with no refills remaining  2. the user has submitted for an active refill with no refills remaining
+1. **Active Refills**:  For Active Refills, the user is eligible for renewal if 1. The user has no refills remaining 2. The user have a refills in progress with no refills remaining  2. the user has submitted for an active refill with no refills remaining
 
-**Expire Refills** For In-active or Expired Refills, the user is eligible for renewal if 1.The prescription expiration is less than 120 days expired 
+2. **Expired Refills** For In-active or Expired Refills, the user is eligible for renewal if 1.The prescription expiration is less than 120 days expired 
 
 ## Outcome Summary 
  This renewal flow will apply to Vista Users & applicable Data **only.**
