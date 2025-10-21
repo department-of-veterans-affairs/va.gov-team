@@ -204,83 +204,38 @@ The Onramp tool is designed to meet Veterans where they are by:
 
 ### When to use it
 
-A Supplemental Claim is appropriate when:
-- Veteran has **new and relevant evidence** that was not previously submitted
-- Evidence could potentially change the decision
-- Evidence relates to the issues being contested
+Use when Veteran has **new and relevant evidence** - information not previously submitted to VA that could change the decision.
 
-**Example Scenarios:**
-- New medical records showing condition worsened
-- Buddy statements not previously submitted
-- New medical opinion connecting service to condition
-- Private treatment records VA didn't have
-
-### Requirements
-
-**Must Have:**
-- New evidence that:
-  - Was *not* previously submitted to VA
-  - Is relevant to the claim
-  - Could potentially result in a more favorable decision
-
-**Timing:**
-- Generally within 1 year of decision date
-- Can request extension in certain circumstances [PLACEHOLDER: Link to extension request process]
+**Examples:** New medical records, buddy statements, private treatment records, medical opinion linking condition to service.
 
 ### What happens
 
-1. Veteran submits form with new evidence (or indicates where VA can get it)
-2. **Different reviewer** examines the case
-3. Reviewer considers original evidence PLUS new evidence
-4. Makes a fresh determination
-5. Issues new decision
+1. Veteran submits form with new evidence (or tells VA where to get it)
+2. Different reviewer examines original evidence plus new evidence
+3. Issues new decision
 
-**Timeline:**
-Average: ~125 days [PLACEHOLDER: Confirm current processing time]
+**Timeline:** ~125 days [PLACEHOLDER: Confirm current processing time]
 
-### Evidence submission options
+**How to access:** [PLACEHOLDER: URL] or link from Onramp recommendation
 
-Veterans can:
-- Upload documents directly with the form
-- Request VA obtain records (using VA Form 21-4142/4142a)
-- Mail evidence separately
-- Provide evidence location and VA will attempt to retrieve
+### Key points for Contact Center
 
-### How to access
+**New evidence means:**
+- VA hasn't reviewed it before for this claim
+- Could help prove or disprove the claim
+- Can be documents Veterans submit OR records they ask VA to obtain
 
-**Direct URL:**
-[PLACEHOLDER: Insert current URL for SC form]
+**When to recommend:** Veteran says they have new information, medical records, or additional documentation.
 
-**From Onramp:** Tool will link directly after recommendation
+**Red flag:** "I don't have new evidence, VA just got it wrong" = Higher-Level Review instead
 
-### Common Veteran questions
+### Common questions
 
-**Q: "What counts as 'new' evidence?"**
-A: Evidence is "new" if you didn't previously submit it to VA in connection with this claim. It doesn't matter if VA might have it for a different reason - if you didn't specifically submit it for this issue, it's new.
+**"What counts as new?"** Evidence you didn't previously submit for this claim.
 
-**Q: "I submitted evidence but VA didn't look at it. Is that 'new'?"**
-A: [PLACEHOLDER: Policy clarification - this is complex and depends on circumstances. May need to escalate.]
+**"Can I add more after filing?"** [PLACEHOLDER: Yes, within timeframes - insert policy]
 
-**Q: "Can I add more evidence after I submit the Supplemental Claim?"**
-A: [PLACEHOLDER: Yes, but within certain timeframes. Insert policy details.]
-
-**Q: "What if I don't have the evidence yet but I know it exists?"**
-A: You can submit the form and indicate on the form where VA can get the evidence. You can also use Form 21-4142 or 21-4142a to authorize VA to request private records.
-
-**Q: "My doctor says my condition is worse now. Is that new evidence?"**
-A: Yes, new medical records showing your condition has changed or worsened can be new evidence. You would submit those records with your Supplemental Claim.
-
-### When to recommend SC over other options
-
-Supplemental Claim is usually the best choice when:
-- Veteran explicitly says they have new evidence
-- Veteran describes evidence that sounds new (medical records, statements, etc.)
-- Veteran says "VA didn't have all the information"
-- Veteran wants to submit additional documentation
-
-**Red Flags for SC:**
-- Veteran says "I don't have any new information, I just think they got it wrong" = HLR instead
-- Veteran has no evidence and wants judge to decide = Board Appeal instead
+**"What if I don't have it yet?"** Indicate on form where VA can get it, or use VA Form 21-4142 to authorize record requests.
 
 ---
 
@@ -288,106 +243,46 @@ Supplemental Claim is usually the best choice when:
 
 ### When to use it
 
-A Higher-Level Review is appropriate when:
-- Veteran believes there was an **error** in the original decision
-- Veteran disagrees with decision but has **NO new evidence** to submit
-- Veteran wants a senior reviewer to take a fresh look at the existing record
+Use when Veteran believes there was an **error** in the decision but has **NO new evidence** to submit.
 
-**Example Scenarios:**
-- VA misread or misapplied medical evidence
-- VA didn't properly consider evidence that was submitted
-- Veteran believes decision maker made an error in judgment
-- VA misapplied regulations or policy
+**Examples:** VA misread evidence, overlooked information already in file, made error in judgment or policy application.
 
 ### Critical requirement: *No new evidence*
 
-**MOST IMPORTANT POINT ABOUT HLR:**
-
-**Higher-Level Review does *not* allow new evidence.**
-
-This is the #1 source of confusion about HLRs. Emphasize to Veterans:
-- Cannot submit new medical records
-- Cannot submit new statements
-- Cannot add new information that wasn't in original claim file
-
-**If Veteran has new evidence = Use Supplemental Claim instead**
+**Most important point:** Higher-Level Review does *not* allow new evidence. This is the #1 source of confusion.
+- Cannot submit new medical records, statements, or documentation
+- **If Veteran has new evidence = Supplemental Claim instead**
 
 ### What happens
 
-1. Veteran submits form (no evidence attachments allowed)
-2. **Senior reviewer** (higher level than original decision maker) examines case
-3. Reviewer looks for errors or difference of opinion
-4. Reviewer can only consider evidence already in the file
-5. Optional: Informal conference call with Veteran or representative
-6. Issues new decision
+1. Veteran submits form (no evidence allowed)
+2. Senior reviewer examines case for errors or difference of opinion
+3. Can only consider evidence already in file
+4. Optional: Informal conference call with Veteran
+5. Issues new decision
 
-**Timeline:**
-Average: ~125 days [PLACEHOLDER: Confirm current processing time]
+**Timeline:** ~125 days [PLACEHOLDER: Confirm current processing time]
 
-### Office of review option
+**How to access:** [PLACEHOLDER: URL] or link from Onramp recommendation
 
-Veteran can request:
-- Same office that made original decision, OR
-- Different office
+### Key points for Contact Center
 
-**Note:** VA will try to honor request but it's not guaranteed.
+**Informal conference (optional):**
+- Phone call with senior reviewer to point out errors or overlooked evidence
+- Not a formal hearing - informal discussion
+- Two calls: (1) scheduling call, (2) actual conference
 
-### Informal conference (optional)
+**When to recommend:** Veteran says "VA made a mistake" or "they didn't understand my evidence" AND has no new evidence.
 
-Veteran can request a phone call with the senior reviewer to:
-- Point out errors in the record or decision
-- Identify evidence that may have been overlooked
-- Explain why they think the decision was wrong
+**Red flag:** "I have new documents/records" = Supplemental Claim instead
 
-**Important:** This is *not* a formal hearing. It's an informal discussion.
+### Common questions
 
-**Process:**
-1. Veteran requests conference on form
-2. Can choose to participate themselves OR have representative participate
-3. Provides preferred phone number and times
-4. **Two calls occur:**
-   - **First call:** VA calls to schedule the actual conference
-   - **Second call:** The informal conference itself
+**"What if I have new evidence?"** File Supplemental Claim instead - HLR doesn't allow new evidence.
 
-### How to access
+**"What is an informal conference?"** Optional phone call to discuss why you think the decision was wrong and point out errors. You must request it on the form.
 
-**Direct URL:**
-[PLACEHOLDER: Insert current URL for HLR form]
-
-**From Onramp:** Tool will link directly after recommendation
-
-### Common Veteran questions
-
-**Q: "What if I have new evidence?"**
-A: Then Higher-Level Review is *not* the right choice. File a Supplemental Claim instead, which allows and requires new evidence.
-
-**Q: "Can I explain my side of the story?"**
-A: You can request an informal conference to discuss the case, but you can't submit new evidence. The conference is to point out errors or things the reviewer should pay attention to in the existing record.
-
-**Q: "Can I request a specific office review my case?"**
-A: You can request either the same office that made the original decision or a different office. VA will try to honor your request but it's not guaranteed.
-
-**Q: "What is an informal conference?"**
-A: It's an optional phone call between you (or your representative) and the senior reviewer. You can discuss why you think the decision was wrong and point out any errors. It's informal - not a legal hearing. You must request it on the form.
-
-**Q: "What's the difference between Higher-Level Review and Board Appeal?"**
-A: Higher-Level Review has a senior VA employee review your case (typically takes ~125 days). Board Appeal has a Veterans Law Judge review it (typically takes much longer, 400+ days). HLR doesn't allow new evidence, Board Appeal does.
-
-**Q: "My doctor wrote a new letter saying the VA got it wrong. Can I use that?"**
-A: A new letter from your doctor is new evidence. You would need to file a Supplemental Claim instead of a Higher-Level Review to submit it.
-
-### When to recommend HLR over other options
-
-Higher-Level Review is usually the best choice when:
-- Veteran says "I think they made a mistake" or "They didn't understand the evidence"
-- Veteran does *not* have new evidence
-- Veteran wants faster review (compared to Board)
-- Veteran believes decision maker overlooked something already in the file
-
-**Red Flags for HLR:**
-- Veteran mentions having new documents = SC instead
-- Veteran says "I have more evidence" = SC instead
-- Veteran wants a judge to decide = Board Appeal instead
+**"My doctor wrote a new letter - can I use it?"** New letter = new evidence. File Supplemental Claim instead.
 
 ---
 
@@ -395,108 +290,59 @@ Higher-Level Review is usually the best choice when:
 
 ### When to use it
 
-A Board Appeal is appropriate when:
-- Veteran wants the **Board of Veterans' Appeals** to review their case
-- Veteran is willing to wait longer for a decision
-- Veteran may want to submit new evidence (optional)
-- Veteran may want a hearing with a Veterans Law Judge (optional)
+Use when Veteran wants **Board of Veterans' Appeals** (a Veterans Law Judge) to review their case and is willing to wait longer.
 
-**Example Scenarios:**
-- Veteran wants a judge's decision
-- Case is complex and Veteran wants Board-level review
-- Veteran wants to submit evidence AND have Board decide
-- Previous HLR or SC didn't result in favorable decision
-
-### Timeline warning
-
-**IMPORTANT: Board Appeals take significantly longer**
-
-- Average wait time: 400+ days (over 1 year)
-- Varies by docket choice
-- Much longer than HLR or SC
-
-**Make sure Veterans understand the timeline trade-off.**
+**Timeline warning:** Board Appeals average 400+ days (over 1 year) - *much* longer than SC or HLR. Make sure Veterans understand this trade-off.
 
 ### Three review options (dockets)
 
-When filing a Board Appeal, Veteran must choose ONE of three options:
+Veteran must choose ONE:
 
-#### 1. Direct Review
-- **Fastest Board option** (relatively)
-- Board reviews based only on existing evidence in file
-- No new evidence submissions
+**1. Direct Review** (fastest Board option)
+- No new evidence, no hearing
+- Board reviews existing record only
+
+**2. Evidence Submission**
+- Can submit new evidence within 90 days after VA receives NOD
 - No hearing
-- Board makes decision based on the record
 
-#### 2. Evidence Submission
-- Can submit new evidence
-- Deadline: 90 days after VA notifies Veteran that NOD was received
-- No hearing
-- Board considers existing evidence PLUS new evidence submitted
-
-#### 3. Hearing
-- Can request hearing with a Veterans Law Judge
-- Can be virtual or in-person (typically virtual now)
+**3. Hearing**
+- Virtual or in-person hearing with Veterans Law Judge
 - Can submit new evidence at or before hearing
-- **Longest wait time** of the three options
-- Opportunity to testify and answer judge's questions
+- Longest wait time
+- Opportunity to testify
 
 ### What happens
 
-1. Veteran submits Notice of Disagreement (Form 10182)
+1. Veteran submits Notice of Disagreement (Form 10182) with docket choice
 2. VA processes and dockets the appeal
-3. Depending on option chosen:
-   - **Direct:** Board reviews current record
-   - **Evidence:** Veteran has 90 days to submit evidence, then Board reviews
-   - **Hearing:** Hearing is scheduled, then Board reviews
-4. Veterans Law Judge makes decision
-5. Decision is final (next step would be Court of Appeals for Veterans Claims)
+3. Veterans Law Judge reviews and makes decision
+4. Decision is final (next step: Court of Appeals for Veterans Claims)
 
-**Timeline:**
-Average: 400+ days [PLACEHOLDER: Confirm current processing times by docket type]
+**Timeline:** 400+ days average [PLACEHOLDER: Confirm by docket type]
 
-### How to access
+**How to access:** [PLACEHOLDER: URL] or link from Onramp recommendation
 
-**Direct URL:**
-[PLACEHOLDER: Insert current URL for NOD form]
+### Key points for Contact Center
 
-**From Onramp:** Tool will link directly after recommendation
+**When to recommend:** Veteran specifically wants judge to decide, willing to wait, wants to testify, or previous SC/HLR was denied.
 
-### Common Veteran questions
+**Red flag:** "I need a decision quickly" = SC or HLR instead (both ~125 days vs 400+ days)
 
-**Q: "Why does Board Appeal take so long?"**
-A: The Board of Veterans' Appeals reviews appeals for Veterans nationwide. There are currently [PLACEHOLDER: Insert current # if available] pending appeals, and the Board works through them in the order they're received (with some exceptions for older or priority cases). While it takes longer, you get a decision from a Veterans Law Judge.
+**Medallia feedback highlight:** Veterans appreciate space on Board Appeal form to explain disagreement and want issues not on the list to be addressable.
 
-**Q: "Can I add information about why I disagree?"**
-A: Yes! One of the most common pieces of Medallia feedback is Veterans wanting space to explain their disagreement. On the Board Appeal form, you can explain your areas of disagreement for each issue. If you choose the Hearing option, you can explain in person to the judge.
+### Common questions
 
-**Q: "I don't see my issue listed in the form. What do I do?"**
-A: [PLACEHOLDER: This is common Medallia feedback. Insert guidance - can they add issues not on the list? What's the process?]
+**"Why so long?"** Board reviews appeals nationwide in order received. While longer, you get a Veterans Law Judge decision.
 
-**Q: "What's the difference between the three options?"**
-A:
-- **Direct Review** = fastest, no new evidence, no hearing
-- **Evidence Submission** = can add evidence within 90 days, no hearing
-- **Hearing** = can add evidence AND testify to a judge, slowest
+**"What's the difference between the three options?"**
+- Direct = fastest, no evidence, no hearing
+- Evidence = add evidence within 90 days, no hearing
+- Hearing = testify to judge + add evidence, slowest
 
-**Q: "Can I change my mind about which option I picked?"**
-A: [PLACEHOLDER: Insert policy on changing docket selection]
+**"Can I explain why I disagree?"** Yes - form has space to explain for each issue, plus Hearing option lets you explain in person.
 
-**Q: "What if I need my decision faster because of financial hardship?"**
-A: The Board has a process for priority treatment in certain circumstances (homelessness, financial hardship, etc.). [PLACEHOLDER: Insert guidance or escalation path for priority processing requests]
-
-### When to recommend Board Appeal over other options
-
-Board Appeal is usually the best choice when:
-- Veteran specifically wants a judge to decide
-- Veteran is willing to wait 400+ days for decision
-- Veteran wants opportunity to testify (Hearing option)
-- Previous HLR or SC was denied and Veteran wants next level of review
-
-**Red Flags for Board Appeal:**
-- Veteran says "I need a decision quickly" = HLR or SC instead (much faster)
-- Veteran doesn't understand the timeline = Make sure they know it's 400+ days
-- Veteran seems to think this is faster = Clarify timelines
+**"Need faster decision due to hardship?"** [PLACEHOLDER: Priority processing guidance/escalation path]
 
 ---
 
@@ -504,178 +350,96 @@ Board Appeal is usually the best choice when:
 
 ## When Veterans should use the tool
 
-**Recommend the tool when:**
-- Veteran just received a decision letter and disagrees
-- Veteran is unsure which pathway is right
-- Veteran wants to understand their options
-- Veteran asks "Which form should I file?"
-- Veteran wants to check eligibility
+**Recommend when:**
+- Veteran just received decision letter and disagrees
+- Unsure which pathway is right
+- Asks "Which form should I file?"
 
-**Tool may *not* help when:**
+**May not help when:**
 - Claim is *not* disability compensation
-- Veteran has extremely complex situation
-- Veteran is in crisis or has urgent need
-- Veteran strongly prefers human guidance
+- Veteran prefers human guidance or has urgent need
 
-**Always appropriate to suggest:** Contact an accredited representative for personalized advice
+**Always appropriate:** Suggest contacting an accredited representative for personalized advice
 
 ## Walking a Veteran through the tool
 
-**General script:**
-
-> "I can help direct you to a tool that will ask you some questions about your situation and recommend the best decision review pathway for you. The tool uses plain language and explains things as you go. When you're done, it will recommend a pathway and link directly to the form. Would that be helpful?"
-
-### Starting the tool
-
-**URL:** [PLACEHOLDER: Insert production URL]
-
 **Script:**
-> "Here's the link to the tool: [URL]. You don't need to log in - anyone can use it. It should take about 5-10 minutes to complete. The tool will ask you questions about your situation and what you're hoping to accomplish."
+> "I can direct you to a tool that will ask questions about your situation and recommend the best decision review pathway. It uses plain language and explains as you go. When done, it recommends a pathway and links to the form. Would that be helpful?"
 
-**Key points to mention:**
-- No login required
-- Mobile-friendly
-- One question per page
-- Help text available for complex terms
+**URL:** [PLACEHOLDER: Production URL]
 
-### How the tool works: Question flow
+**Key points:**
+- No login required, mobile-friendly
+- Takes 5-10 minutes
+- One question per page with help text
+- Branching logic = different questions based on answers
 
-The tool asks **different questions based on previous answers** (branching logic). Here's what to expect:
+## How the tool works
 
-#### Section 1: Eligibility and timeline (first 3-5 questions)
+**For complete question-by-question reference**, see: `onramp-questionnaire-complete-reference.md` and `onramp-decision-tree.md`
 
-**1. Decision status**
-- Asks: "Have we sent you a decision on your claim yet?"
-- **If NO:** Tool asks if they filed a disability claim, may need to file initial claim first
+### Two-section structure
 
-**2. Claim decision timeline**
-- Asks: "Was your claim decided less than a year ago?"
-- **If over 1 year:** Different path (claim for increase options)
+**Section 1: Eligibility screening (3-5 questions)**
+- Decision received? Timeline? Contested claim?
+- Determines basic eligibility for decision reviews
 
-**3. Contested claim**
-- Asks: "Is your claim contested?"
-- Explains: Rare situation with disputes (attorney fees, dependents)
-- **If YES:** Checks 60-day timeline
+**Section 2: Pathway-specific (varies by answers)**
+- Service connection, condition changes, evidence, law changes, hearing preference
+- Different questions appear based on Veteran's situation
 
-#### Section 2: Situation-specific questions (varies based on answers)
+### Key question types
 
-Veterans will see **different questions** depending on their situation. Common topics include:
-
-**About service connection:**
-- "Did we decide that your condition is service connected?"
-- Has detailed help text explaining what "service-connected" means
-- Includes PACT Act examples
-
-**About condition changes:**
-- "Has your service-connected condition gotten worse since you filed this claim?"
-
-**About disagreement:**
-- "Do you disagree with any part of our decision?"
-- Help text explains: effective date, disability rating, service connection
-
-**About evidence:**
+**Evidence** (appears multiple times):
 - "Do you have new and relevant evidence?"
-- **Important:** This question appears in multiple places depending on path
-- Help text explains: must be information VA hasn't considered before AND help prove/disprove the claim
+- Evidence = information VA hasn't considered before that could help prove/disprove claim
 
-**About law/policy changes:**
-- "Are you requesting a review because of a change in law or policy?"
-- Help text includes PACT Act examples, court rulings, new laws
+**Service connection:**
+- "Did we decide your condition is service connected?"
+- Help text includes PACT Act examples
 
-**About prior decisions (claim type):**
+**Claim type** (critical branching point):
 - "What type of decision do you want us to review?"
-- Options: Initial claim, Supplemental Claim, Higher-Level Review, or Board Appeal decision
-- **This creates different paths through remaining questions**
+- Creates different paths for Initial/SC/HLR/Board decisions
 
-**About hearings (if Board Appeal is possible):**
-- "Do you want to have a hearing with a Veterans Law Judge?"
-- Explains virtual/in-person option and timelines (2 years with hearing, 1 year without)
+**Hearing preference:**
+- "Do you want a hearing with a Veterans Law Judge?"
+- Explains timeline trade-off (~2 years with hearing vs ~1 year without)
 
-### Tool features to point out
+## Understanding the recommendation
 
-**Help text on every question:**
-- Click info icons or "more information" links
-- Plain language explanations
-- Examples to illustrate concepts
-- Links to related resources
+**Tool shows:**
+- Recommended pathway with explanation
+- Why it fits their situation
+- Timeline and key details
+- Direct link to form
 
-**One question at a time:**
-- Large, clear answer buttons
-- Easy to navigate forward and back
-- Progress indicated throughout
+**Alternative result:** If ineligible for decision review, tool explains why and suggests alternatives (file initial claim, contact VSO, etc.)
 
-**Personalized recommendation:**
-- Based on all answers provided
-- Explains why this pathway fits
-- Shows direct link to form
-- May show multiple options if appropriate
+**If Veteran questions recommendation:**
+> "The tool based this on your answers. You can review your answers and try again, contact an accredited representative for personalized guidance, or choose a different pathway - the tool is a guide, not a requirement."
 
-### Understanding the recommendation
-
-**What Veterans will see:**
-- Recommended pathway (SC, HLR, or Board Appeal) with explanation
-- Why this pathway fits their situation
-- Key details about the pathway (timeline, evidence rules, etc.)
-- Direct link to start the form
-- Information about next steps
-
-**Alternative result: "Your available options"**
-- If Veteran doesn't qualify for a decision review (e.g., no decision yet, too old, etc.)
-- Tool explains why and what to do instead
-- May suggest filing initial claim, getting VSO help, or other options
-
-**Script if Veteran questions recommendation:**
-> "The tool based this recommendation on the answers you provided. If you disagree with the recommendation, you have options:
-> - Review your answers and try again if anything was unclear
-> - Contact an accredited representative for personalized guidance
-> - Choose a different pathway if you prefer - the tool is a guide, not a requirement"
-
-### After getting recommendation
-
-**What Veterans should do:**
-1. **Review the recommendation** and make sure they understand why it was chosen
-2. **Click the link** to go to the recommended form
-3. **Complete and submit** the form within 1 year of decision date (in most cases)
-4. **Contact VSO** if they want help completing the form or understanding the recommendation
-
-**Note for CC:** Veterans cannot save/print results from the tool itself, but they can bookmark the page or take a screenshot. The recommendation includes all the information they need to proceed.
+**Note:** Veterans can't save/print results, but can bookmark page or screenshot. Tool provides all info needed to proceed.
 
 ## Common Veteran questions about the tool
 
-### "Do I have to use this tool?"
+**"Do I have to use this tool?"**
+No - completely optional. Go directly to any decision review form if you know which one. Tool helps if you're unsure.
 
-**Answer:** No, the tool is completely optional. You can go directly to any decision review form if you already know which one you want to file. The tool is just here to help you make an informed choice if you're unsure.
+**"Does this file my appeal for me?"**
+No - tool recommends and links to form, but you still complete and submit the form. Tool is a guide, not a filing method.
 
-### "Does this tool file my appeal for me?"
+**"Are my answers saved?"**
+[PLACEHOLDER: Does tool save progress? For how long? Login required?]
 
-**Answer:** No, the tool provides a recommendation and links to the form, but you still need to complete and submit the actual decision review form yourself. Think of the tool as a guide to help you choose - not a way to file.
+**"Different recommendation than expected?"**
+Tool bases recommendation on your answers. You can retry with different answers, choose a different pathway, or contact an accredited representative for personalized advice.
 
-### "Will my answers be saved if I need to stop and come back later?"
+**"Tool says Supplemental Claim but I don't have new evidence?"**
+"New" = anything not previously submitted for this claim. Examples: medical records after decision, new statements, new medical opinions, private treatment records VA doesn't have. If unsure, contact accredited representative.
 
-**Answer:** [PLACEHOLDER: Does tool save progress? For how long? Does it require login to save?]
-
-### "I'm getting a different recommendation than I expected. Is the tool wrong?"
-
-**Answer:** The tool bases its recommendation on the answers you provided about your situation. If the recommendation doesn't match what you expected, you can:
-- Go through the tool again and double-check your answers
-- Choose a different pathway if you prefer
-- Contact an accredited representative for personalized advice
-
-Remember, the tool provides guidance based on typical situations, but your case might be unique. If you're uncomfortable with the recommendation, seeking help from a representative is always a good option.
-
-### "The tool is telling me to use Supplemental Claim but I don't think I have new evidence."
-
-**Answer:** The evidence rules can be confusing. "New" evidence means anything you didn't previously submit to VA for this claim - even if it feels like old information to you. For example:
-- Medical records from after your original decision
-- Statements from people who can support your claim
-- New medical opinions
-- Private treatment records VA doesn't have
-
-If you're still not sure whether you have new evidence, the tool may recommend consulting an accredited representative.
-
-### "Can I use this tool for [education/pension/other non-disability] claim?"
-
-**Answer:** No, the Onramp tool only works for disability compensation decision reviews. For other types of claims, you would need to [PLACEHOLDER: Insert guidance for other claim types].
+**"Can I use this for education/pension claims?"**
+No - Onramp only works for disability compensation decision reviews. [PLACEHOLDER: Guidance for other claim types]
 
 ---
 
@@ -801,44 +565,14 @@ Escalate when:
 
 # VIII. QUICK REFERENCE
 
-## Decision Tree (Simple)
+For a one-page printable quick reference card, see: `onramp-tool-quick-reference.md`
 
-**Does Veteran have new evidence?**
-- **YES** = Supplemental Claim
-- **NO** = Continue...
-
-**Does Veteran want a Board-level (judge) decision?**
-- **YES** = Board Appeal (warn about 400+ day timeline)
-- **NO** = Higher-Level Review
-
-## Key Differences at a Glance
-
-| Question | SC | HLR | Board |
-|----------|----|----|-------|
-| Can submit new evidence? | YES (required) | NO | YES (optional) |
-| How long? | ~125 days | ~125 days | 400+ days |
-| Who decides? | Different local reviewer | Senior local reviewer | Veterans Law Judge |
-| Best for... | Have new evidence | Think there's an error | Want judge's decision |
-
-## Top 3 Most Confused Points
-
-1. **HLR does *not* allow new evidence** ← #1 confusion point
-2. **Board Appeal timeline** is *much* longer (400+ days vs ~125 days)
-3. **Cannot file multiple pathways** for the same issue simultaneously
-
-## Scripts for Common Situations
-
-**Veteran has new evidence:**
-> "Since you have new evidence, a Supplemental Claim would be the right pathway. The Onramp tool can confirm this and guide you to the form."
-
-**Veteran thinks there was an error but no new evidence:**
-> "If you believe there was an error in the decision but don't have new evidence to submit, a Higher-Level Review might be right for you. The Onramp tool can help confirm this."
-
-**Veteran wants fast answer:**
-> "Supplemental Claims and Higher-Level Reviews both average around 125 days. Board Appeals take much longer - over a year on average. The Onramp tool will help you choose the option that balances your timeline needs with your situation."
-
-**Veteran is completely confused:**
-> "That's completely understandable - these options can be confusing. The Onramp tool was built specifically to help with this. It will ask you questions about your situation and recommend the best pathway. If you'd prefer to talk to someone, I can also give you information on how to find an accredited representative who can provide personalized guidance."
+The quick reference includes:
+- Decision tree (simple)
+- Key differences at a glance
+- Top 3 most confused points
+- Scripts for common situations
+- When to recommend the tool
 
 ---
 
@@ -882,26 +616,6 @@ Non-profit organization chartered to help Veterans with claims and appeals (Amer
 
 ---
 
-# APPENDIX B: VERSION HISTORY
-
-| Version | Date | Changes | Author |
-|---------|------|---------|--------|
-| 1.0 DRAFT | [DATE] | Initial draft created from VA docs research | [NAME] |
-| | | | |
-
----
-
-# APPENDIX C: FEEDBACK & UPDATES
-
-This guide will be updated as the Onramp tool evolves and as we learn from Contact Center and Veteran feedback.
-
-**To provide feedback or suggest updates:**
-[PLACEHOLDER: Insert contact information for guide maintainer]
-
-**Next scheduled review:** [PLACEHOLDER: Date]
-
----
-
 **END OF GUIDE**
 
 **Microsoft Word Formatting Notes:**
@@ -916,4 +630,4 @@ This guide will be updated as the Onramp tool evolves and as we learn from Conta
 
 **Placeholders to Fill:**
 - Search this document for `[PLACEHOLDER:` to find all items that need your input
-- Total placeholders: [See list in sources document]
+- See `PLACEHOLDERS-TO-FILL.md` for complete checklist
