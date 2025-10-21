@@ -110,16 +110,16 @@ We will also work with the GI Bill team to recruit business submitters, such as 
 
 ### Recruitment criteria – Veterans
 
-We will recruit 10 Veterans for a total of 8 completed sessions.
+We will recruit 15 Veterans for a total of 12 completed sessions.
 
 | Priority | \# of participants | Criteria |
 | ----- | ----- | ----- |
-| Required | Exactly 10 | Are Veterans |
-| Required | Exactly 10 | Have contacted VA online or over the phone in the past year |
-| Required | Exactly 10 | Have signed in to VA.gov in the past year |
-| Required | Exactly 10 | Have VA Education benefits |
-| Required | Exactly 2  | School Certifying Official or Work Study Site Supervisor |
-| Required | Exactly 5 | Are willing to join from a desktop device |
+| Required | Exactly 15 | Are Veterans |
+| Required | Exactly 15 | Have contacted VA online or over the phone in the past year |
+| Required | Exactly 15 | Have signed in to VA.gov in the past year |
+| Required | Exactly 15 | Have VA Education benefits |
+| Required | Exactly 2-5  | School Certifying Official or Work Study Site Supervisor |
+| Required | Exactly 15 | Are willing to join from a desktop device |
 |  | At least 4 | Have a cognitive disability or consideration |
 |  | At least 4 | Are over 55 years old |
 |  | At least 3 | Identify as a gender other than male |
@@ -134,20 +134,10 @@ We will recruit 10 Veterans for a total of 8 completed sessions.
 | Question | Answers | Screening Criteria |
 | :---- | :---- | :---- |
 | Have you contacted the VA online or over the phone in the past year? | Yes / No | Must answer Yes |
-| We’d like you to review parts of the VA website that require you to sign in to an identity-verified account.  Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is not yet verified. | Yes / No | Must answer Yes |
 | Do you currently receive any VA Education or Training benefits?  | Yes / No  | Must answer Yes |
 | Are you currently a School Certifying Official (SCO) or Work Study Site Supervisor? | Yes / No | At least 2 participants must answer Yes |
 | Are you able to join the Zoom session from an internet-connected desktop or laptop computer? | Yes / No | Must answer Yes |
-| Do you find it difficult to remember or learn new things, focus on a task, or make decisions?  | Yes / No | At least 5 participants must answer Yes |
-
-
-### Recruitment criteria – Business submitters
-
-We will recruit 5 additional business submitters for a total of 4 completed sessions. They should join from the device they would usually use to submit Ask VA inquiries.
-
-| \# of participants | Criteria |
-| ----- | ----- |
-| Exactly 5 | Submit Ask VA inquiries in a business role, in other words, on behalf of a Veteran |
+| Do you find it difficult to remember or learn new things, focus on a task, or make decisions?  | Yes / No | At least 4 participants must answer Yes |
 
 ## Timeline 
 
