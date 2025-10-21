@@ -7,7 +7,7 @@ labels: ["platform-tech-team-support"]
 body:
   - type: markdown
     attributes:
-      value: Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
+      value: Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below. Answers to all questions are required. 
   - type: textarea
     id: PR-links
     attributes:
@@ -71,7 +71,7 @@ body:
   - type: input
     id: userValidation
     attributes:
-      label: Who has validated the PR(s) for this OOB?
+      label: Who has validated the fix is working for this OOB?
       description: "name + @username OR va.gov email address"
     validations:
       required: true
