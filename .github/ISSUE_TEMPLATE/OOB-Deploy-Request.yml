@@ -1,0 +1,111 @@
+name: OOB Deploy Request
+description: To request Out of band deployment.
+title: "OOB Deploy Request "
+labels: ["platform-tech-team-support"]
+
+
+body:
+  - type: markdown
+    attributes:
+      value: Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
+  - type: textarea
+    id: PR-links
+    attributes:
+      label: Related PRs
+      description: Please provide the list of PRs related to the need for this OOB Deploy
+      placeholder: List of PRs
+    validations:
+      required: true
+  - type: dropdown
+    id: incidentClassification
+    attributes:
+      label: Classify Severity of Incident
+      description: "What level of severity would you classify this incident? Please refer to our [Platform document on Classifying incidents](https://depo-platform-documentation.scrollhelp.site/support/va-platform-incident-playbook#VAPlatformIncidentPlaybook-ClassifyingtheIncident) for our classification rubric"
+      multiple: false
+      options:
+        - Critical
+        - High
+        - Moderate
+        - Low
+    validations:
+      required: true
+  - type: input
+    id: impactedUsers
+    attributes:
+      label: Active Daily Users Impacted
+      description: How many active users are impacted at this time and day. 
+    validations:
+      required: true
+  - type: dropdown
+    id: stagingCheck
+    attributes:
+      label: Has fix been confirmed in Staging?
+      multiple: false
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: textarea
+    id: stagingBypassReason
+    attributes:
+      label: If not confirmed in Staging, why not?
+      placeholder: Give the reason here. If it has been confirmed in staging, write "Confirmed in staging". 
+    validations:
+      required: true
+  - type: textarea
+    id: oobDescription
+    attributes:
+      label: Description
+      description: Please provide the details/reason for the OOB Deploy
+      placeholder: Add details here... 
+    validations:
+      required: true
+  - type: textarea
+    id: validationSteps
+    attributes:
+      label: Please list the validation steps to confirm fix
+      placeholder: List validation steps here. If no steps have been taken to validate, please explain why instead.  
+    validations:
+      required: true
+  - type: input
+    id: userValidation
+    attributes:
+      label: Who has validated the PR(s) for this OOB?
+      description: "name + @username OR va.gov email address"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Verify the following
+      description: Please review and verify the following requirements for an out-of-band deploy. 
+      options:
+        - label: The OOB Deploy Request is after the cutoff time for the regular deploy.[^1]
+          required: true
+        - label: The OOB Deploy Request is critical and must be resolved before the next automated deploy.
+          required: true
+        - label: You are prepared to create an Incident Post Mortem[^2] within two business days.
+          required: true
+  - type: markdown
+    attributes:
+      value: '[^1] (See [Deployment Policy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html))'
+  - type: markdown
+    attributes:
+      value: '[^2] https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems'
+  - type: checkboxes
+    id: supportChecks
+    attributes:
+      label: '*Performed by Platform Support Team*'
+      description: These steps are for Platform Support to complete.  
+      options:
+        - label: PagerDuty OOB Deploy Incident Opened
+          required: false
+        - label: OCTO-DE staff acknowledgment of Request
+          required: false
+        - label: Notification is posted in the appropriate Slack support and team Channels
+          required: false
+        - label: Infrastructure/Operations has acknowledge the Requests (This applies to revproxy and fwdproxy, but is not required for Frontend and Backend requests)
+          required: false
+        - label: Security Team has Reviewed the requests (This is not necessary for requests that are not related to security) 
+          required: false
