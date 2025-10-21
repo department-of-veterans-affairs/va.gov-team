@@ -74,7 +74,8 @@ Prompts if needed:
 * How much do you trust the information you see here? What would make you more confident in it?
 * On a scale of 1-5 where **one** is very hard and challenging, or frustrating for you and **five** would be fantastic and extremely easy, how would you rate your experience using this patient portal overall?
 
-Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. 
+Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. Before we move on to the next step, I want to check in: How are you 
+feeling so far? Do you have any questions before we continue?
 
 ## Part 2: Prototype / Reactions to planned tactics (30 mins) 
 
