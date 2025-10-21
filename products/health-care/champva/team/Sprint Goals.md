@@ -8,10 +8,9 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
-- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues
 - [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
-- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] **SPRINT GOAL** 10-7959a: Internal QA Issues & Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
 - [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
 - [ ] **SPRINT GOAL** All forms: Address Data Transformation and Metadata mislabeling tech debt
@@ -43,14 +42,13 @@
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues
-  - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
 - [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
   - [ ] [[FE] 10-7959A: Enforce a maximum number of supporting documents per submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122153)
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
   - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
-- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] **SPRINT GOAL** 10-7959a: Internal QA Issues & Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
   - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
+  - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
   - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
   - [ ] [[UX] 10-7959a: Create Resubmission DTA mocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122674)
