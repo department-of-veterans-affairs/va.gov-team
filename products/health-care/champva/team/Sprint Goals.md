@@ -11,21 +11,27 @@
 
 
 ##
-### 10-10d v2
+### 10-10d
 - [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
-- [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+- [ ] **SPRINT GOAL** 10-10d: Review and address missing stamp content monitor incident
+  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+- [ ] **STRETCH GOAL**Additional Design Discovery for Ineligible Applicants (Tricare)
+  - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
 
 
 ##
 ### 10-7959a
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
   - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
+- [ ] **SPRINT GOAL** 10-7959a:  Enhanced Claims Flow Changes from Content/IA & Email Updates
+  - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
      
 
 ## 
 ### 10-7959c
-
+- [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
+  - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
 
  
 ## 
@@ -41,10 +47,6 @@
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-- [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
-  - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
-- [ ] **STRETCH GOAL**Additional Design Discovery for Ineligible Applicants (Tricare)
-  - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
 
      
 ##
