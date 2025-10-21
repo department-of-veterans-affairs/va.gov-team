@@ -20,8 +20,6 @@ _Add notes and screenshots about the defect_
 
 _Add notes and screenshots about the defect_
 
-## Acceptance Criteria
-- [ ] Defects have been addressed
 
 ---
 #### How to configure this issue
