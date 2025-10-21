@@ -23,7 +23,7 @@ Feature Toggles
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| Add MVP Feature toggle here- `` | Add description here-|
+| `mhv_secure_messaging_medications_renewal_request` | Enables/disables Secure Messaging Medications Renewal Request feature |
 
 
 
