@@ -92,6 +92,8 @@ $ curl \
     --data @payload.json
 ```
 
+- [jwt.io](https://www.jwt.io/)
+- [jwt bearer tokens example](https://nieldw.medium.com/using-curl-to-authenticate-with-jwt-bearer-tokens-55b7fac506bd)
 
 ## Resources
 
