@@ -105,7 +105,7 @@ Before we look at the website, let’s start with a couple warm-up questions.
      - How frequently are you using Ask VA?   
    - If no, move on to tasks.
 
-Now we’re going to move into the next part of this session. I’m going to provide you with a few scenarios and tasks. 
+Now we’re going to move into the next part of this session. I’m going to provide you with a few scenarios and tasks. Let's start by having you share your screen with us. 
 
 ## Task 1: Submit Education and Work Study Question \- 13 minutes
 
@@ -115,7 +115,7 @@ Now we’re going to move into the next part of this session. I’m going to pro
 > Depending on which Group a participant is in (A or B) they may go through staging or the prototype first. 
 
 **Staging**  
-First, you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat.
+You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can just click through the additional login screens after your password.
 - Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
 - Email: vets.gov.user+41@gmail.com 
 - Password: AskVA2025Testing
@@ -177,7 +177,7 @@ Before you click on anything to complete this task, take a second to look around
 > Participants will complete Task 2 in the same environment they completed Task 1. 
 
 **Staging**  
-You’ll need to login through ID.me again. I've provided a new link, email, and password for you in the chat.
+You’ll need to login through ID.me again. I've provided a link, email, and password for you in the chat. You can just click through the additional login screens after your password.
 - Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
 - Email: vets.gov.user+220@gmail.com 
 - Password: AskVA2025Test
@@ -225,7 +225,7 @@ Now we’re going to ask you to complete very similar tasks in a slightly differ
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment. 
 
 **Staging**  
-First, you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat.
+You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can just click through the additional login screens after your password.
 - Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
 - Email: vets.gov.user+41@gmail.com 
 - Password: AskVA2025Testing
@@ -277,7 +277,7 @@ Imagine, you’re having an issue with your work study benefits. You’re alread
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment. 
 
 **Staging**  
-You’ll need to login through ID.me again. I've provided a new link, email, and password for you in the chat.
+You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can just click through the additional login screens after your password.
 - Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
 - Email: vets.gov.user+220@gmail.com 
 - Password: AskVA2025Test
