@@ -70,6 +70,8 @@ Prompts if needed:
 
 * What other things do you commonly do here?
 * How often would you say you do that?
+* Have you ever had trouble finding something on this portal? What helped you figure it out?"
+* How much do you trust the information you see here? What would make you more confident in it?
 * On a scale of 1-5 where **one** is very hard and challenging, or frustrating for you and **five** would be fantastic and extremely easy, how would you rate your experience using this patient portal overall?
 
 Okay, thank you so much for showing us how you navigate your health portal, it's really helpful to see how you use it and hear about your experience. 
