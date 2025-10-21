@@ -16,6 +16,8 @@ body:
         1. Do not remove any of the existing labels.
         1. Complete required fields and select environments you need access to.
         1. If Production access is required, please  If you have not started the E-QIP process, do NOT submit this ticket.
+        1. If Production access is required, please have your federal Product Owner OR Contract Program Manager comment on this ticket verifying your need for access. 
+
         1. Fill in "Additional Notes" with any information requested by the other steps.
   - type: input
     id: requestor-name
