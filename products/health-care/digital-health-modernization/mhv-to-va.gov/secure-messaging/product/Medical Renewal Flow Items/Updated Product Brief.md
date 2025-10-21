@@ -1,4 +1,4 @@
- ## Product Outline: Medical Renewal Flow Via SM -VA.Gov- MVP
+ ## Product Outline: Medical Renewal Flow Via SM (VA.Gov MVP)
   Updated- 10/21/25
 
 ##  Overview 
