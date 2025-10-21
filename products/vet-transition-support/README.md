@@ -34,7 +34,7 @@ The current iteration of the DYB tool is an unauthenticated questionnaire. The l
 
 ## Key Outcomes
 The primary goal of the Discover Your Benefits (DYB) tool is to aid in simplifying the enrollment process by acting as a hub for TSMs or RSVs to discover their benefits and understand eligibility. The main goals are to 
-- create earlier engagement between VA and active servicemembers
+- establish engagement between VA and active servicemembers earlier in the process
 - increase the utilization of benefits
 - increase the proportion of Veterans that engage with VA post-service
 - improve awareness of benefits beyond the most well-known (healthcare, disability, home loan) as well as other non-VA benefits (SBA, DoL, etc)
