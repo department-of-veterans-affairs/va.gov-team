@@ -17,3 +17,10 @@ _This file is intended to record common questions that arise out of the dependen
 - VBA confirmed that this error is caused when the Veteran's profile/account has been flagged for fraud. Despite message saying 'success' at the end, BGS didn't create the claim as this is valid failure.
 - Following standard process, VA.gov sends these claims to the backup path via PDF to central mail. [VA.gov asked David Reis](https://dsva.slack.com/archives/C0547Q0K0LF/p1752779043106719): Are these later on rejected during manual processing? Should va.gov parse this error and reject claims all together or could there be a real veteran falling into this 'fraud flag' and we should let system work as is?
    - David Reis: We should let the system function as is.  We do not want to block submissions.  Sometimes that "Fraud Flag" is not used not because the Veteran committed fraud, but perhaps someone else attempted t take action that record that is not the Veteran.
+
+## [Lifestage Key Metrics](https://vagov.ddog-gov.com/dashboard/56i-ref-bbm/lifestage-key-metrics?fromUser=false&refresh_mode=sliding&from_ts=1758655592869&to_ts=1761071192869&live=true)
+
+### Why are the error counts for dependents 4% for the last 3 months ([asked Mar 2025](https://dsva.slack.com/archives/C0547Q0K0LF/p1742994900991859))? Are we counting BGS failures as errors?
+- We are counting BGS errors. It's mostly `BGS::DependentService#submit_686c_form method failed` which will go off when VBMS is down as well. Looking at [the dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits---dependents-686674?fromUser=true&index=%2A&refresh_mode=sliding&from_ts=1740580680900&to_ts=1742996280900&live=true), those two big spikes on 3/2 and 3/23 are what's driving up the percentage. Those claims go down the backup path, but they still show up as a failure.
+- The user does see a message saying there is an issue with the submission. If it had gotten to the point where the pdf job started, the claim would have made its way down the backup path.
+- In the lifestage error metric, we only count the error when the retry has exhausted (rather than counting each retry as an error.)
