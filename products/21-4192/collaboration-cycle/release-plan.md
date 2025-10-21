@@ -27,13 +27,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Define the Rollback process
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
-
-[FILL_IN]: create your rollback plan
+Our PM and engineering team will monitor analytics, and communicate with our downstream partners. If they see a spike in errors or unexpected behavior we will coordinate and an engineer will disable the feature flag.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
@@ -63,8 +57,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
+- Desired date range: 11/11/2025 - [FILL_IN]
+- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN]
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - [FILL_IN] : list
   - [FILL_IN] : of
