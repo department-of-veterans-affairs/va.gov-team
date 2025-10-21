@@ -1,3 +1,147 @@
+---
+# Research Plan Metadata
+title: "Research Plan for Financial Management Team, Copay Debt Portal Payment History, October - November 2025"
+date: 2025-10-21
+last_updated: 2025-10-21
+team: "Financial Management Team"
+product: "Copay Debt Portal Payment History"
+product_area: "authenticated"
+
+# Background Context
+background:
+  problem_statement: "Veterans who visit the debt portal to understand and resolve their debts have been frustrated by the inability to view up-to-date payment history."
+  product_location: "VA.gov Debt Portal - Payment History section"
+  user_familiarity: "Iteration on existing product with new Lighthouse API integration for dynamic Copay (VHA) payment history data"
+  product_brief_url: ""
+
+# Research Design
+methodology: "Moderated usability testing"
+research_format: 
+  location: remote
+  in_person_details:
+    facility: ""
+    point_of_contact: ""
+    equipment: ""
+  moderated: true
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "Identify any usability issues Veterans may experience when interacting with Copay payment history"
+  - goal_2: "Understand if the current copay balances are accurate to Veterans"
+  - goal_3: "Understand which copay details are helpful to Veterans"
+  - goal_4: "Understand how Veterans interpret the differences between dynamic HTML statements and static paper bills/PDFs"
+
+research_questions:
+  - "What challenges, if any, do Veterans encounter when viewing Copay Balances?"
+  - "What steps do Veterans take to understand their current copay balances?"
+  - "Are there points of confusion or difficulty when Veterans attempt to find, understand, and resolve their copay balances?"
+  - "Do veterans think the information displayed under copay balances is accurate and up to date?"
+  - "What, if any, technical or design barriers prevent Veterans from successfully understanding their barriers?"
+  - "How do Veterans feel about the overall experience of understanding their copay balances?"
+  - "Do Veterans understand the different transaction fields?"
+  - "Which information do Veterans consider as the most important within the copay details?"
+  - "When do they use this information?"
+  - "Do Veterans think any vital information is missing from their copay details?"
+  - "How do Veterans interpret the currency of payment data in dynamic HTML copay balances compared to static PDF or paper statements?"
+  - "What confusion, if any, do Veterans experience when deciding which statement to use and what copay balance amount to pay when they have access to both types of documents?"
+
+hypotheses:
+  - "Veterans will be able to easily find, understand, and know how to resolve their Copay balances"
+  - "Veterans will believe their copay balances are accurate and trustworthy"
+  - "Veterans will be able to easily understand their copay details and think it is useful and relevant"
+  - "Veterans will be able to understand that PDF/paper statements contain static data and dynamic HTML statements contain current data"
+
+expected_outcomes: "The results of the study will help identify if Veterans encounter any major issues or pain points with Co-pay statement data post-Lighthouse API integration, allowing the team to solve these issues."
+
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Lean maximum variation with focus on assistive technology users and underrepresented groups"
+  
+  primary_criteria:
+    - "Must have active copay bills from the past 6 months"
+    - "Must be willing to screenshare their own VA.gov account, including visibility of their personal account information"
+    - "Have a working microphone on their device"
+    - "Have recurring copay bills for prescriptions"
+    - "All participants must be veterans"
+    - "4 Assistive Technology users (2 screen magnifier users, 2 screen reader users)"
+    - "3 to 4 Veterans from rural areas"
+    - "3 to 4 Veterans over the age of 55"
+    
+  secondary_criteria:
+    - "6 of 12 participants should have recurring copay bills"
+    - "At least 6 participants with annual household income less than $50K"
+    - "Mix of devices (Personal Computer, Smartphone, Tablet)"
+
+participants:
+  veterans: 11
+  caregivers: 0
+  dependents: 0
+  total_recruited: 11
+  completed_sessions_goal: 9
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "2025-10-30 and 2025-10-31"
+  pilot_participant: "TBD"
+  research_dates: "2025-11-05 to 2025-11-18"
+  research_review_submission: "2025-10-27"
+  
+session_details:
+  duration_minutes: 60
+  duration_at_minutes: 120
+  buffer_minutes: 60
+  max_sessions_per_day: 2
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
+    key_results: 
+      - "Improve satisfaction with our web and mobile products by 5 points"
+      - "Reduce the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction"
+      
+veteran_journey_phases:
+  - "Getting Out"
+  - "Starting Up"
+  - "Taking Care of Myself"
+  - "Putting Down Roots"
+  - "Retiring"
+  - "Aging"
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - ""
+    
+tags:
+  - "copay-debt-portal"
+  - "usability-testing"
+  - "veterans"
+  - "payment-history"
+  - "assistive-technology"
+
+# Team & Approvals
+team_roles:
+  moderator: "Risha Lee"
+  research_guide_writing: "Risha Lee"
+  participant_recruiting: "Perigean"
+  project_point_of_contact: "Risha Lee"
+  accessibility_specialist: "ADE Team"
+  note_takers:
+    - "Marcela Rojas"
+    - "Joseph Lee"
+  observers:
+    - "Denise Coveydoc"
+    - "Bob Vitt"
+    - "Heather Rienks"
+
+approvals:
+  - reviewer: "Denise Covey, Team Lead"
+    date: "2025-10-17"
+  - reviewer: "Shane Strassberg, OCTO Research-Ops Lead"
+    date: ""
+---
+
 # Research Plan for Financial Management Team, Copay Debt Portal Payment History, October \- November 2025 
 
 # Background
