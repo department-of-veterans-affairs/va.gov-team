@@ -46,6 +46,7 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 * How often do you sign-into your health portal online?
 * Can you tell me about the last time you signed in to do something for your care?
   * How was that experience for you?
+* On a scale of 1-5, one being very uncomfortable and 5 being very comfortable, how do generally feel about learning new websites or apps?
 
 ## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
 Thanks for answering those questions. I want to transition us to exploring your patient portal together. First I want you to share your screen. Is that something you've done before?
