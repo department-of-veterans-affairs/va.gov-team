@@ -35,14 +35,14 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 ### Automated testing
 #### Required
-- **Axe DevTools has been run on every page (Automated-001)**  
+- [ ] **Axe DevTools has been run on every page (Automated-001)**  
   Axe Devtools has been run against every page in your flow, including page variations, interactive states of content, etc.
   [Learn more about testing with Axe DevTools](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
   - [ ] Pass  
   - [ ] Fail
   - [ ] Include screenshots or output of AXE results in a comment on this ticket
 
-- **Axe-core has been integrated in end to end testing (Automated-002)**  
+- [ ] **Axe-core has been integrated in end to end testing (Automated-002)**  
   End to end testing with Cypress or other libraries includes Axe-core scanning.
   [Learn more about integrating Axe-core in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). 
   - [ ] Pass  
