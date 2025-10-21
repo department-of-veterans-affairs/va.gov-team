@@ -113,8 +113,10 @@ _Participant navigates to appointments tool. There should be a blue expandable a
 - Can you go ahead and expand it and read it?
   - What does this mean to you?
   - How does it make you feel?
- - Is this information important for you? Should it be more noticeable?
+ - What concerns you most about this information and potentially using a new portal to manage your healthcare?
  - Would you want to see this information every time you sign in?
+ - "What could go wrong in a transition like this? What's your biggest fear?"
+  - [Listen carefully, then probe:] "You mentioned [concern]. Tell me more about that. What would need to happen to ease that worry?"
  - What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
 
 **[User notices alert on their own]**
@@ -124,9 +126,10 @@ _Participant navigates to appointments tool. There should be a blue expandable a
   - What do you think this means now?
   - What would you do next after reading this information?
   - Next time you sign in, would you expect to see these alerts again?
-  - Would you want to still have access to My VA Health, even though all of your health records and tasks are now available on VA.gov?
-    - Why or why not?
-  - What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
+- What concerns you most about this information and potentially using a new portal to manage your healthcare?
+  - "What could go wrong in a transition like this? What's your biggest fear?"
+  - [Listen carefully, then probe:] "You mentioned [concern]. Tell me more about that. What would need to happen to ease that worry?"
+- What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
 
 ### Task 2 
 Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd like you to show me where you'd go to request a prescription refill. We won't actually request anything since this is just a prototype, but am curious about your reactions to completing a task here using the new My HealtheVet on VA.gov experience. 
