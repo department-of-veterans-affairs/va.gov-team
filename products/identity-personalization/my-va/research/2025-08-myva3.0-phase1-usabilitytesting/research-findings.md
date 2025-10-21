@@ -17,7 +17,7 @@ devices_used:
     smartphone: X
 participants_total: 10
 demographics:
-  veterans: X
+  veterans: 10
   age:
     "55-64": X (50%)
     unknown: X
@@ -166,45 +166,46 @@ Prescription refill findings -  User feedback was split. Users either appreciate
 
 **Positive Feedback**
 
-Supporting data: [Moderator - On a scale to 1 to 5, where 1 is very unlikely and five is very likely, how likely would you use the refill prescription feature on this page?] “5, absolutely… That was so awesome. That was so slick. Now, I think truthfully, me, 'cause I love tech stuff and I love smoothness like that, I think that's awesome, right?  I think a lot of other vets especially because, well, it's called [name], a lot of us veterans are still on the older side, not the the like 30s through 20s side yet, although it's coming. But I think they might get a little confused… But I think I think this is awesome because it makes it so much faster…. It makes it so much easier.” - Participant 5 
+   -  Supporting data: [Moderator - On a scale to 1 to 5, where 1 is very unlikely and five is very likely, how likely would you use the refill prescription feature on this page?] “5, absolutely… That was so awesome. That was so slick. Now, I think truthfully, me, 'cause I love tech stuff and I love smoothness like that, I think that's awesome, right?  I think a lot of other vets especially because, well, it's called [name], a lot of us veterans are still on the older side, not the the like 30s through 20s side yet, although it's coming. But I think they might get a little confused… But I think I think this is awesome because it makes it so much faster…. It makes it so much easier.” - Participant 5 
 
-Supporting data: [Moderator - So what are your thoughts on this instead of the confirmation page?] “I guess it's fine. I, I, I saw that there were two refills left and there's only one. There's a confirmation that says refill, refill request sent. So I think it's OK.”  [Moderator - On a scale of one to five where 1 is very unlikely and five is very is very likely, how likely would you, excuse me, use the refill prescription feature on this page?] “I would use it 5 very likely.” - Participant 4 
+   -  Supporting data: [Moderator - So what are your thoughts on this instead of the confirmation page?] “I guess it's fine. I, I, I saw that there were two refills left and there's only one. There's a confirmation that says refill, refill request sent. So I think it's OK.”  [Moderator - On a scale of one to five where 1 is very unlikely and five is very is very likely, how likely would you, excuse me, use the refill prescription feature on this page?] “I would use it 5 very likely.” - Participant 4 
 
-Supporting data: Well, let's click on the refill prescription. Does this meet your expectations? “Refill's left one fill date. Yes it does” - Participant 10 
+   - Supporting data: Well, let's click on the refill prescription. Does this meet your expectations? “Refill's left one fill date. Yes it does” - Participant 10 
 
-Supporting data: *Participant 6 had concerns about the amount of medications.  Participant 6 - [Moderator - What are your thoughts on this experience on the medications?]
+   - Supporting data: *Participant 6 had concerns about the amount of medications.  Participant 6 - [Moderator - What are your thoughts on this experience on the medications?]
 It shows one medication, but I have more than that. So is it supposed to be showing more than that? … [Moderator - But if you were to refill that one, would the clicking on the button, would you expect it to show this once you clicked on? ] OK, Yeah, I would expect it to show medications and their statuses. So this one says that a refill request has been sent. So I know I don't have to do anything. It's already in process. [Moderator - On a scale of one to five where 1 is very unlikely and five is very likely, how likely would you use the refill prescription feature on this page?] Yeah, I mean, yeah, five. - Participant 6 
 
 
 **Negative feedback** 
 
-Supporting data: “That just says a refill request was sent, but I have no idea whether it was sent to pick up in the pharmacy or to be mailed to me” …”give the veteran the change to order it by pick up and say where they want to pick it up because I might want to refill it.” - Participant 11 
+   - Supporting data: “That just says a refill request was sent, but I have no idea whether it was sent to pick up in the pharmacy or to be mailed to me” …”give the veteran the change to order it by pick up and say where they want to pick it up because I might want to refill it.” - Participant 11 
 
-Supporting data:  - [Moderator - OK, so if you were to click on that yellow alert to refill a prescription, what would you expect to see next?] Oh, I, I, I would, I don't like that. [OK, what about it do you not like?] I, I don't know. I feel like in mind there's one more level of sensor check that verifies before I do it. If I accidentally, because when I'm scrolling on my MacBook, I'm using a trackpad and I accidentally click things, I could accidentally refill things that I don't mean to refill, but there was something else there. - Participant 3
+   - Supporting data:  - [Moderator - OK, so if you were to click on that yellow alert to refill a prescription, what would you expect to see next?] Oh, I, I, I would, I don't like that. [OK, what about it do you not like?] I, I don't know. I feel like in mind there's one more level of sensor check that verifies before I do it. If I accidentally, because when I'm scrolling on my MacBook, I'm using a trackpad and I accidentally click things, I could accidentally refill things that I don't mean to refill, but there was something else there. - Participant 3
 
-Supporting data: [Moderator - OK, so on a scale of one to five where 1 is very unlikely and five is very likely, how likely would you use the refill prescription feature on this page?] I don't think I will do them on this page. - Participant 13
+   - Supporting data: [Moderator - OK, so on a scale of one to five where 1 is very unlikely and five is very likely, how likely would you use the refill prescription feature on this page?] I don't think I will do them on this page. - Participant 13
 
 
-Participants asked to review and share their thoughts for each section of My VA (Claims and appeals, Forms and applications, Healthcare, Payments and debts, Benefits) and naming of My VA.
+**Participants asked to review and share their thoughts for each section of My VA (Claims and appeals, Forms and applications, Healthcare, Payments and debts, Benefits) and naming of My VA.**
 
 **Claims and appeals feedback:** Users validated the relocation of the disability rating from the header to the claims and appeals section of My VA. 
-Supporting data: [ Moderator - How do you feel about the disability rating being under the claims and appeals section?] I think it's fine because it's part of what you're. It's part of what you're. You're if let's say, let's say you need to upgrade or you're looking to upgrade or whatever or make an appeal, right? Knowing what your rating is right there next to that section, I think is a great call. Otherwise the other other best place to have it would probably be in benefits. - Participant 5 
 
-Supporting data:  [Moderator - What are your thoughts on the disability rating being under claims and appeals]? I don't mind that as long as I can see make sure you guys haven't changed what my rating is. - Participant 11
+   - Supporting data:[ Moderator - How do you feel about the disability rating being under the claims and appeals section?] I think it's fine because it's part of what you're. It's part of what you're. You're if let's say, let's say you need to upgrade or you're looking to upgrade or whatever or make an appeal, right? Knowing what your rating is right there next to that section, I think is a great call. Otherwise the other other best place to have it would probably be in benefits. - Participant 5 
+
+   - Supporting data:  [Moderator - What are your thoughts on the disability rating being under claims and appeals]? I don't mind that as long as I can see make sure you guys haven't changed what my rating is. - Participant 11
 Forms and applications feedback: Users had an overall neutral response to the Forms and applications section of My VA.
 
-Supporting data: [Moderator - “How do you feel about being able to see your previously completed forms in this section?”]  “Oh, it's OK. I, I guess I'd, I'd like to like to be able to see a comparison for what's in progress and what's completed. And it's just kind of like a, a friendly reminder that something was already completed” - Participant 4 
+   - Supporting data: [Moderator - “How do you feel about being able to see your previously completed forms in this section?”]  “Oh, it's OK. I, I guess I'd, I'd like to like to be able to see a comparison for what's in progress and what's completed. And it's just kind of like a, a friendly reminder that something was already completed” - Participant 4 
 
 **Health care feedback:** There's a strong preference for explicit and unambiguous terminology (e.g., "Secure messaging" over "messaging,").
 
-Supporting data: [Moderator - What are your thoughts about the Healthcare section] “If messages said secure messaging, I'd know a little bit more as to what that is.” - Participant 3 
+   - Supporting data: [Moderator - What are your thoughts about the Healthcare section] “If messages said secure messaging, I'd know a little bit more as to what that is.” - Participant 3 
 Appointment card:  Users feel current information on VA.gov is often limited. They want more comprehensive details consistently displayed, especially on appointment cards (building/clinic info). They also appreciate "at first glance" information for better segmentation.
 
-Supporting data:  “sometimes they just tell you like you have an appointment that they don't tell you like don't remind me like which, which clinic or stuff like that to go to… Then you have to like call the numbers and find out to as a reminder” - Participant 12
+   - Supporting data:  “sometimes they just tell you like you have an appointment that they don't tell you like don't remind me like which, which clinic or stuff like that to go to… Then you have to like call the numbers and find out to as a reminder” - Participant 12
 
-Supporting data: “It would be nice to have a room number… and possible if there’s my care provider’s name” - Participant 6 
+   - Supporting data: “It would be nice to have a room number… and possible if there’s my care provider’s name” - Participant 6 
 
-Supporting data:  “But like I said, those medical centers, sometimes they’re hard to navigate if you don't know where you're going.. The room number would be helpful” - Participant 13
+   - Supporting data: “But like I said, those medical centers, sometimes they’re hard to navigate if you don't know where you're going.. The room number would be helpful” - Participant 13
 
 **Yellow alert in cards:** Users appreciated the yellow critical alerts in the cards which stated the action needed and deadline date.
 [During A/B testing Participant 3 was asked about their preference.] “....like option A better that immediately tells me what I need to do in the yellow [alert].” - Participant 3
@@ -213,19 +214,19 @@ Supporting data:  “But like I said, those medical centers, sometimes they’re
 
 **Benefits:**  Users validated incorporating the new benefits section to include dependents, Post 9/11 BI BIll, and Learn more sections.  
 
-Supporting data: [Moderator - On a scale of one to five where 1 is very unlikely and five is very likely, how likely would you use this benefit section?] Five very likely. - Participant 4 
+   - Supporting data: [Moderator - On a scale of one to five where 1 is very unlikely and five is very likely, how likely would you use this benefit section?] Five very likely. - Participant 4 
 
-Supporting data: [Moderator - OK, so based off the benefits section, on a scale of one to five, where 1 is very unlikely and five is very likely, how likely would you use the benefits Section?] 4, four. [OK, can you tell me why 4?] Because there's always room for improvement. You know, if I say 5, I don't use it that much, but I likely use it to go back and check on stuff. - Participant 12
+   - Supporting data: [Moderator - OK, so based off the benefits section, on a scale of one to five, where 1 is very unlikely and five is very likely, how likely would you use the benefits Section?] 4, four. [OK, can you tell me why 4?] Because there's always room for improvement. You know, if I say 5, I don't use it that much, but I likely use it to go back and check on stuff. - Participant 12
 
 Supporting data: [Moderator - If you were to click on the See all available VA benefits link, where do you expect to go or what do you expect to be shown?] I really don't know or what would you like to see? Well, I guess a list of what's available to me. - Participant 6 
 
-Supporting data: [Moderator - So the link in the what to learn more, want to learn more about the VA benefits the last one. What do you where do you expect that link to take you?] My guess, my guess because we're logged in.So it might. Take me to a page that shows me everything I could qualify for or just maybe some general information knowing, knowing VA stuff, it'd probably be general information that then you could maybe click on links to take you to stuff that you can look into more. So let's say for example, it would take me to like a info page talking about the the VA home loan, right? Or an info page about, I don't know what other, some other VA benefit out there. Right. And then you can click on that to see what you qualify. - Participant 5 
+   - Supporting data: [Moderator - So the link in the what to learn more, want to learn more about the VA benefits the last one. What do you where do you expect that link to take you?] My guess, my guess because we're logged in.So it might. Take me to a page that shows me everything I could qualify for or just maybe some general information knowing, knowing VA stuff, it'd probably be general information that then you could maybe click on links to take you to stuff that you can look into more. So let's say for example, it would take me to like a info page talking about the the VA home loan, right? Or an info page about, I don't know what other, some other VA benefit out there. Right. And then you can click on that to see what you qualify. - Participant 5 
 
 **Naming of My VA:** Users stated that adding "Dashboard" to "My VA" would improve clarity. Participants generally favored "My VA Dashboard," though some indicated "My Dashboard" would be acceptable if character limits were an issue. For instance, Participant 13 preferred "My VA Dashboard" but understood the need for "My Dashboard" due to sizing constraints. 
 
-Supporting data: [Moderator -  “What are your, what are your thoughts on My VA dashboard?”] “ Would it need to be my?Then it could just be VA dashboard, VA dashboard kerning and all that. OK, so dashboard is more. Oh, yeah, that's very descriptive.I don't know if any of you served, but we tend to use extremely descriptive words for the stuff that we, we, the equipment that we use.” - Participant 3 
+   - Supporting data: [Moderator -  “What are your, what are your thoughts on My VA dashboard?”] “ Would it need to be my?Then it could just be VA dashboard, VA dashboard kerning and all that. OK, so dashboard is more. Oh, yeah, that's very descriptive.I don't know if any of you served, but we tend to use extremely descriptive words for the stuff that we, we, the equipment that we use.” - Participant 3 
 
-Supporting data: [Moderator - “Currently this page is named My VA, but we have been thinking about possibly renaming it to My VA Dashboard or VA Dashboard, Do you have any thoughts around that?.] ”I think my you want it there. So the person says this is the stuff that applies to me, my VA dashboard. I like dashboard or a word that tells you, oh, this is like my command central, you know? So I do like the mine because it's like OK, this is my stuff. This is not general stuff.” - Participant - 13 
+   - Supporting data: [Moderator - “Currently this page is named My VA, but we have been thinking about possibly renaming it to My VA Dashboard or VA Dashboard, Do you have any thoughts around that?.] ”I think my you want it there. So the person says this is the stuff that applies to me, my VA dashboard. I like dashboard or a word that tells you, oh, this is like my command central, you know? So I do like the mine because it's like OK, this is my stuff. This is not general stuff.” - Participant - 13 
 
 #### 2. Notifications flyout and notifications page 
 -Users confirmed their want for consistent notifications and centralized notificaion on VA.gov 
@@ -235,45 +236,48 @@ Supporting data: [Moderator - “Currently this page is named My VA, but we have
 3 of 5 participants completed this task. Note: For tasks we were only able to capture completion from 5 participants, as the other 5 were unable to share their screens during the session.
 Users found the notification navigation intuitive, aligning with industry standards. 
 
-Supporting data: The notifications up there has a little red dot by the bell. Do I get to click on that?  Oh, that's for later….. I also really like the notifications bell because that's a oh, crap, is there something I forgot? - Participant 3
+   - Supporting data: The notifications up there has a little red dot by the bell. Do I get to click on that?  Oh, that's for later….. I also really like the notifications bell because that's a oh, crap, is there something I forgot? - Participant 3
 
-Supporting data:  “So to me that that seems like notification. I see a bell and I see the red dot just because in the world of apps or accounts, usually notification looks like that.” - Participant 12 
+   - Supporting data:  “So to me that that seems like notification. I see a bell and I see the red dot just because in the world of apps or accounts, usually notification looks like that.” - Participant 12 
 
-Supporting data: [Moderator - OK, so from this page, can you tell me where you navigate to to view important updates from the VA or updates?] I'd go to notifications. That little bell with the red dot, that probably means I have a notification. - Participant 10
+   - Supporting data: [Moderator - OK, so from this page, can you tell me where you navigate to to view important updates from the VA or updates?] I'd go to notifications. That little bell with the red dot, that probably means I have a notification. - Participant 10
 Participants asked to review and share their thoughts on the notifications flyout: Users praised the clean structure and details in the notifications flyout. Users expect the notifications to be displayed in chronological order and expect to receive notifications about various health care topics and upcoming appointments. 
 
-Supporting data: [Moderator - Speaking on healthcare, is there any other healthcare notifications you think should be included in this drawer or any other notifications in general?] I think reminders. Speaking as a [occupation] now, reminders of lab tests and X-rays or any other special tests, I think under medical appointments, which I think you do now, but I'm not sure. Reminders of appointments you've done to my what? … My community health vaccinations, would that also would well, there's vaccinations in there, yes, but I'm thinking alike. - participant 11
+   - Supporting data: [Moderator - Speaking on healthcare, is there any other healthcare notifications you think should be included in this drawer or any other notifications in general?] I think reminders. Speaking as a [occupation] now, reminders of lab tests and X-rays or any other special tests, I think under medical appointments, which I think you do now, but I'm not sure. Reminders of appointments you've done to my what? … My community health vaccinations, would that also would well, there's vaccinations in there, yes, but I'm thinking alike. - participant 11
 
-Supporting data: I would like to see sorted by date the appointments that I have coming up applicable so that I can then see who the appointment is with time and location. … [Moderator - Would you possibly also want updates about medical records, vaccinations of that sort?] Yeah, that'd be good. Yeah. Test results, you know, if you do labs you need. … Vaccinations is really good, too, now that you mention it. - Participant 6
+   - Supporting data: I would like to see sorted by date the appointments that I have coming up applicable so that I can then see who the appointment is with time and location. … [Moderator - Would you possibly also want updates about medical records, vaccinations of that sort?] Yeah, that'd be good. Yeah. Test results, you know, if you do labs you need. … Vaccinations is really good, too, now that you mention it. - Participant 6
 
-Supporting data: [Moderator - Is there any information that you would like to see possibly included in the drawer?] No, but I didn't notice. Are these in chronological order 'cause I would like the most recent one at the top? Yeah, they are in chronological order it looks like. - participant 10
+   - Supporting data: [Moderator - Is there any information that you would like to see possibly included in the drawer?] No, but I didn't notice. Are these in chronological order 'cause I would like the most recent one at the top? Yeah, they are in chronological order it looks like. - participant 10
 
-Supporting data:  I think the newest [notification] should be listed should be the first. [Moderator - “OK, So in chronological order?”] OK, yes, yes. Participant - 12
+   - Supporting data:  I think the newest [notification] should be listed should be the first. [Moderator - “OK, So in chronological order?”] OK, yes, yes. Participant - 12
 Participants asked to review and share thoughts on central location of notifications, filter options, and naming of notifications page feedback: 
 
 
 **Notifications naming** - Users preferred the title ‘Notifications’ over an ‘Activity feed’ as it matched Veterans mental models better. 
-Supporting data: [Moderator - asked about naming “Notifications” over “Activity feed”. ]  ‘It’s it’s, it’s more, it’s more to me. It’s clear, you know, its clear you, you’re getting notified about different things. We are notifying you this” - Participant 12 
-Supporting data:  [Moderator - asked about naming “Notifications” over activity feed”.] “Activity feed is a no, no… because it’s things that you’re being notified about, whereas Activity feed, I don't know it, this Activity feed is a little more innocuous and notifications is more to the point” - Participant 6
-Supporting data:  [Moderator - “OK, well, we're actually thinking about naming it Activity Feed. Do you have any opinions on that versus notifications?”] I like notifications. I think 'cause that's a term I think I see used in other software. So when I see notifications, I pretty much know what to expect. -  Participant 10
+ 
+   - Supporting data: [Moderator - asked about naming “Notifications” over “Activity feed”. ]  ‘It’s it’s, it’s more, it’s more to me. It’s clear, you know, its clear you, you’re getting notified about different things. We are notifying you this” - Participant 12 
+ 
+   - Supporting data:  [Moderator - asked about naming “Notifications” over activity feed”.] “Activity feed is a no, no… because it’s things that you’re being notified about, whereas Activity feed, I don't know it, this Activity feed is a little more innocuous and notifications is more to the point” - Participant 6
+ 
+   - Supporting data:  [Moderator - “OK, well, we're actually thinking about naming it Activity Feed. Do you have any opinions on that versus notifications?”] I like notifications. I think 'cause that's a term I think I see used in other software. So when I see notifications, I pretty much know what to expect. -  Participant 10
 
 
 **Central location for notifications on VA.gov** - Users appreciate the new notifications feature, they especially like having a repository of past notifications available for review. 
 
-Supporting data: [Moderator - how do you feel about a central location for notification on VA.gov?] “​​I think it's it's good to see. I have to like, I have to expect these notifications to, to just go away. Like, like on my phone, you know, there's a notification and you clear it and then it's gone. So I'm actually glad that notifications are saved because you'll have a way to know like when you were notified in case you forget you, like, you might wonder like, well, when when did I find out about this or when was I supposed to have known?” - Participant 4
+   - Supporting data: [Moderator - how do you feel about a central location for notification on VA.gov?] “​​I think it's it's good to see. I have to like, I have to expect these notifications to, to just go away. Like, like on my phone, you know, there's a notification and you clear it and then it's gone. So I'm actually glad that notifications are saved because you'll have a way to know like when you were notified in case you forget you, like, you might wonder like, well, when when did I find out about this or when was I supposed to have known?” - Participant 4
 
-Supporting data: [Moderator - “How do you feel about a central location for various types of notifications from the VA?]  “Oh, such as this? Yes, love it.” - Participant 3
+   - Supporting data: [Moderator - “How do you feel about a central location for various types of notifications from the VA?]  “Oh, such as this? Yes, love it.” - Participant 3
 
-Supporting data: [Moderator - “So how do you feel about a central location for various types of notifications from the VA.” ] “I Think it's a great idea, to be honest with you. It's less, it's less menu navigating, less what I call menu hell, right?” - Participant 6
+   - Supporting data: [Moderator - “So how do you feel about a central location for various types of notifications from the VA.” ] “I Think it's a great idea, to be honest with you. It's less, it's less menu navigating, less what I call menu hell, right?” - Participant 6
 
 
 **Notification filter** - Users expressed appreciation for the filter options and indicated a desire for the ability to filter notifications by date. 2 participants mentioned possibly adding sub categories for the Health care filter selection, however participant 10 changed their thoughts after thinking about the complexity of multiple sub categories.
 
-Supporting data: [Moderator - “What are your thoughts on the available options in the filter?”] It looks good. It's it's fine to see. So if you want to come over here and you only want to see something specific, it'll be really easy to do. ... yeah, maybe a date range and it would be nice to be able to enter a date range.” - Participant 4 
+   - Supporting data: [Moderator - “What are your thoughts on the available options in the filter?”] It looks good. It's it's fine to see. So if you want to come over here and you only want to see something specific, it'll be really easy to do. ... yeah, maybe a date range and it would be nice to be able to enter a date range.” - Participant 4 
 
-Supporting data: “ My feedback is that I really, really like the filter. Some people may have a lot of notifications to sort through, some may not.”  - Participant 13 
+   - Supporting data: “ My feedback is that I really, really like the filter. Some people may have a lot of notifications to sort through, some may not.”  - Participant 13 
 
-Supporting data: Like I kind of at first was thinking under healthcare, you could have like appointments, prescriptions and different things. But I think just having Healthcare is good because if you broke down each of the six different categories into a bunch of subcategories, it might be confusing to some people. So I like, I like having it just once you have that, they're sufficient 'cause you could just click on one and see if there are like different subcategories in it or just start scrolling through and reading it. So I, I like it the way it is, I think.” - Participant 10
+   - Supporting data:Like I kind of at first was thinking under healthcare, you could have like appointments, prescriptions and different things. But I think just having Healthcare is good because if you broke down each of the six different categories into a bunch of subcategories, it might be confusing to some people. So I like, I like having it just once you have that, they're sufficient 'cause you could just click on one and see if there are like different subcategories in it or just start scrolling through and reading it. So I, I like it the way it is, I think.” - Participant 10
 
 #### 3. Navigating to Profile 
 - Users confirmed Profile navigation as intuitive and aligned with industry standards.
@@ -282,15 +286,15 @@ Supporting data: Like I kind of at first was thinking under healthcare, you coul
 
 Users found the Profile navigation intuitive, aligning with industry standards. 
 
-Supporting data: [Moderator - “Before you navigate to Profile, do you have any thoughts on the menu options?”] “No, because a lot of other websites, I don't know why my brain went here first. A lot of other websites has your name or your username, whatever it is listed up there with a with a drop down menu and then you click on that to get to profile settings or whatever. So like that's I think that's that's great because it's it's what you expect from all the other other work websites too. “ - Participant 5
+   - Supporting data: [Moderator - “Before you navigate to Profile, do you have any thoughts on the menu options?”] “No, because a lot of other websites, I don't know why my brain went here first. A lot of other websites has your name or your username, whatever it is listed up there with a with a drop down menu and then you click on that to get to profile settings or whatever. So like that's I think that's that's great because it's it's what you expect from all the other other work websites too. “ - Participant 5
 
 **Participants to review and share thoughts about current treatment of Profile to include the order of profile cards:**  Users overall had a neutral feedback around the current card treatment and content of Profile. 
 
-Supporting data: [Moderator - “So I'm going to give you a moment to look at the page, review the page and let me know your thoughts.”]
+   - Supporting data: [Moderator - “So I'm going to give you a moment to look at the page, review the page and let me know your thoughts.”]
 “I think that all looks OK.” [Moderator - “Do you have any thoughts about the order of the cards on the page?”] “No, and again, you know, I think all this information obviously is available.” - Participant 9 
 
 
-Supporting data: [Moderator - “Take a moment to review the page and can you let me know if there's anything missing that you would like to see or anything confusing?] “Oh, my contact information. For a moment I thought that was contact information for the hospitals and stuff. No, I think this is good.” - Participant 3 
+   - Supporting data:[Moderator - “Take a moment to review the page and can you let me know if there's anything missing that you would like to see or anything confusing?] “Oh, my contact information. For a moment I thought that was contact information for the hospitals and stuff. No, I think this is good.” - Participant 3 
 I think service history should be first. [Moderator - OK, And can you tell me why?] Because it is the VA that's like the most important piece of information as far as your personal profile to me anyway, like your name and everything that's very important, your name and your contacts. - Participant 10
 
 #### 3. A/B testing 
@@ -299,11 +303,14 @@ I think service history should be first. [Moderator - OK, And can you tell me wh
 Users prefer clean interfaces with clear claim card designs (Option B) and detailed profile options (Option A). 
 
 **Profile option A** - Users preferred the detailed descriptions in profile options (Option A for profiles).
-Supporting data: [Moderator - Can you let us know why option A”] “Option a give you it, it tell you OK personally, if everybody explain to you what you need to put there, you know, and and like I said, we make to make things simple so people understand what they're doing that kind of information, what we need.” - Participant 12 
-Supporting data: “Definitely not B Option A is better than B because it explains what it is.” - Participant 3 
+  
+   - Supporting data: [Moderator - Can you let us know why option A”] “Option a give you it, it tell you OK personally, if everybody explain to you what you need to put there, you know, and and like I said, we make to make things simple so people understand what they're doing that kind of information, what we need.” - Participant 12 
+   - Supporting data: “Definitely not B Option A is better than B because it explains what it is.” - Participant 3 
 
-**Claim card Option B** - Users valued the clear steps outlined in Option B claim card designs. Users feel current information on VA.gov is often limited. They want more comprehensive details consistently displayed, especially on claim cards (what's missing, next steps).
-Supporting data:  “Yeah, I like B just because it's I like the the IT tells you what step of the process you're on, which says you're on Step 3 and it tells you that we sent you a letter. And I like the having the submit the evidence up at the, you know, in highlighted in yellow up at the top.” - Participant 10 
+**Claim card Option B** - Users valued the clear steps outlined in Option B claim card designs. 
+Users feel current information on VA.gov is often limited. They want more comprehensive details consistently displayed, especially on claim cards (what's missing, next steps).
+
+   - Supporting data:  “Yeah, I like B just because it's I like the the IT tells you what step of the process you're on, which says you're on Step 3 and it tells you that we sent you a letter. And I like the having the submit the evidence up at the, you know, in highlighted in yellow up at the top.” - Participant 10 
 
 
 **Areas of Opportunity:**
@@ -336,10 +343,31 @@ Participants expressed that the size of the H2 font on My VA was very big and co
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+1. **Recommendation:** Complete copy updates   
+   - Supporting evidence: Rename My VA to My VA Dashboard or My Dashboard. This change will require collaboration with multiple teams and stakeholders. It may be implemented as a fast-following initiative post-launch to avoid impeding the release of new features to users. 
+   - Supporting evidence: Rename "Messages" to "Secure messages" to clarify the card's purpose for users.
+   - Supporting evidence: Proceed with "Notifications" over "Activity Feed" as the title of the new Notifications feature, as it aligns more closely with the Veterans' mental model.
+   - Supporting evidence: Update GI Bill card title to align with benefit informational page. Change Post-9/11 GI Bill debt for tuition to Post-9/11 GI Bill benefit. https://www.va.gov/education/check-remaining-post-9-11-gi-bill-benefits/
+  
+2. **Recommendation:** Update the cards on My VA to match user expectations  
+   - Supporting evidence: Include comprehensive details on the health appointment card, such as the room number, physician's name, and any significant location information. This will substantially enhance user experience before their medical appointments.		 
+   - Supporting evidence: Move forward with more research for the one click feature to refill prescriptions on My VA. Reach out to the team over current prescriptions experience to gain insights. 
+   - Supporting evidence: Move forward with new Benefits sections and cards (Dependents, Post 9-11/GI Bill, Learn more card/See all benefits link) on My VA.
+  
+3. **Recommendation:** Notifications features   
+   - Supporting evidence: Move forward with notifications dropdown, notifications page, and filter component. 
+   - Supporting evidence: Move forward with an extended notification history on the notification page for reference purposes as Veterans expect to be able to view all of the notifications received over time.
+   - Supporting evidence: Update the notification drawer to align with the current menu's dropdown behavior.
+   - Supporting evidence: Update the notification filter to incorporate a date picker, facilitating the ease of filtering notifications by date.
+   - Supporting evidence: Incorporate various types of notifications in the notification dropdown. 
+
+
+4. **Recommendation:** A/B testing selections   
+   - Supporting evidence: Move forward with Option B of claims card
+   - Supporting evidence: Move forward with Option A of Profile
+ <img width="992" height="744" alt="Screenshot 2025-09-24 at 2 06 38 AM" src="https://github.com/user-attachments/assets/43f323da-930d-434a-9984-bde20015fdc5" />
+<img width="649" height="680" alt="Screenshot 2025-09-24 at 2 08 09 AM" src="https://github.com/user-attachments/assets/cadf14b6-5a36-4798-a30e-72befe492378" />
+
 
 ## Product User and Business Outcomes
 
@@ -520,11 +548,11 @@ Disability and Assistive Technology (AT):
 #### Underserved groups we haven’t talked to 
 
 * Cognitive Disability 
-*  user 
-*  than honorable 
-*  origin
-*  (living abroad)
-*  or African American
+* Mobile user 
+* Other than honorable 
+* Immigrant origin
+* Expat (living abroad)
+* Black or African American
 * Biracial 
 * Asian 
 * Native Hawaiian or other Pacific Islander 
@@ -533,13 +561,12 @@ Disability and Assistive Technology (AT):
 * LGBTQ+
 * Assistive Tech (AT) users 
 
-
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+<img width="967" height="767" alt="Screenshot 2025-10-21 at 9 34 39 AM" src="https://github.com/user-attachments/assets/dbd2f1ca-f625-41ab-8ff6-d08c342626d7" />
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 
 #### A more accessible version of the table in the above image
 
-### Recruitment of underserved groups in [Study name]
+### Recruitment of underserved groups in My VA 3.0
 
 ➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
