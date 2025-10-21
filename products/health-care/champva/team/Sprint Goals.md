@@ -22,6 +22,8 @@
 
 ##
 ### 10-7959a
+- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues
+  - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
   - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 - [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
