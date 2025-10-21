@@ -10,41 +10,33 @@
 - [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 
 
-
 ##
 ### 10-10d v2
-
-
-- [ ] **SPRINT GOAL** 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance, and same address
-  - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
 - [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
   - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
 - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
 - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 
 
+##
 ### 10-7959a
 
-- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
-  - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
-  - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
-- [ ] **SPRINT GOAL** Add resubmission content to intro page
-  - [ ] [[UX] CHAMPVA Claims 10-7959a: Add resubmission content to intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120799)
+- No work this sprint
 
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** UX: Update Confirmation Page for Print/Save PDF for OHI
-  - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
+
+
  
 ## 
 ### 10-7959f-1 FMP Enrollment
 - No work this sprint
 
+
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] **SPRINT GOAL** UX: Research Planning FMP Claims for Direct Deposit
-  - [ ] [[UX][Research] FMP Claims Direct Deposit: Usability Research Planning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121376)
+
 
 
 ## 
