@@ -229,7 +229,15 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 ### Primary criteria (must-haves)
 - `[Place primary criteria here between hash marks when in edit mode]`
 -  Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify) 
--  Are you currently living abroad? (Must answer yes to qualify) 
+-  `Are you currently living abroad? (Must answer yes to qualify)`
+-  Are you enrolled in the Foreign Medical Program (FMP)? 
+    - Yes = (4 participants)
+    - No or I don’t know = (4 participants)
+4. (If they answered ‘yes’ to Question 1) When have you used your FMP benefits (check all that apply) _[Any are okay]:_
+    -  During a short trip abroad (i.e., a vacation)
+    -  During medical tourism
+    -  While you were living abroad
+    -  I have never used my benefits
 -  At least 2 participants who are female 
 -  At least 2 participants who are 55 years or older 
 
