@@ -144,8 +144,8 @@ _Participant lands on the Medications tool, gets to the Refill page._
 * If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
 * What makes you feel like you can trust this experience? What makes you feel hesitant?
 * Do you feel confident that this experience would give you accurate information? What makes you say that?
-* Let's say you came home today and realized that My VA Health shut down permanently. How would you feel about that? What would concern you most?
-  * Would it change the way you feel about this new portal?
+* Let's say you came home today and realized that My VA Health shut down permanently. How would you feel about that?
+* What's the ONE thing you'd miss from My VA Health?
 * What's the ONE thing that would need to be true about this portal for you to feel confident switching completely?"
     
 ## Thank-You and Closing - (5 mins)
