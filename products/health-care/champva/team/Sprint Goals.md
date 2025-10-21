@@ -10,7 +10,7 @@
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
 - [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
-- [ ] **SPRINT GOAL** 10-7959a: Internal QA Issues & Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] **SPRINT GOAL** 10-7959a: Enhanced Claims Flow Internal QA Issues & Changes from Content/IA
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
 - [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
 - [ ] **SPRINT GOAL** All forms: Address Data Transformation and Metadata mislabeling tech debt
