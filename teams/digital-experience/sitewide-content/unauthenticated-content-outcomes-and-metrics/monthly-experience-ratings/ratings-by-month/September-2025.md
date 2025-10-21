@@ -1,18 +1,25 @@
-# Note; This page is in draft
 # Unauthenticated page experience ratings: September 2025
 ## Related overall scores
-- **Total customer satisfaction score:** X% (X% change from last period)
+- **Total customer satisfaction score:** 64.4% (0% change from last period)
 - **Average resources and support good/bad experience score:** 70% "good" experience rating (overall 11,947 out of 17,006 total)
 
 ## Experience ratings (1 to 5 scale)
 
 ### 5 pages with the highest experience ratings 
 All pages have ratings of 4 or above.
-- 
+- [Request a Presidential Memorial Certificate](https://www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247) (Note: This is an authenticated experience)
+- Appointment check-in
+- [Submit an intent to file](https://www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
+- [Apply for pre-need eligibility determination](https://www.va.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/introduction) (Note: This is an authenticated experience)
+- [Order hearing aid and CPAP supplies](https://www.va.gov/health-care/order-hearing-aid-or-CPAP-supplies-form/) (Note: This is an authenticated experience)
         
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
-- 
+- Support for common [Login.gov](http://login.gov/) and ID.me issues
+- Verifying your identity on [VA.gov](http://va.gov/)
+- Signing in to [VA.gov](http://va.gov/)
+- Auth/login
+- Contact us 
     
 ### Resources and support ratings ("good" or "bad")
 
