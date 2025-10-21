@@ -1,5 +1,97 @@
  # 2025 Sprint Planning for 10-10d, 10-7959c, 10-7959a, 10-7959f-1, 10-7959f-2
+
 - Current Sprint first
+
+## 📆 Sprint 6 (Oct 22 - Nov 4) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] 10-10d v2: Updates including OHI Chapter updates, Notice of Disallowance, same address, and over/under 65 age logic
+- [ ] 10-10d: Create integration tests and prepare for VES Launch
+- [ ] 10-7959a: Fix Internal QA issues and address selection to use VaRadio
+- [ ] 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit
+- [ ] UX: 10-7959a: Duty to assist
+- [ ] UX: 10-7959a: Add resubmission content to intro page
+- [ ] UX: Health Apps: Medallia Report
+- [ ] UX: 1010d v2: Confirm processing times content with CVA apps folks and add that back into the confirmation page + confirmation email
+- [ ] Stretch goal UX: Additional Design Discovery for Ineligible Applicants (Tricare)
+- [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] Stretch goal: 10-7959c: OHI Standalone PDF Updates
+- [ ] Stretch goal: Investigate missing stamp content monitor incident
+
+
+
+##
+### 10-10d v2
+
+
+- [ ] **SPRINT GOAL** 10-10d v2: Content updates including OHI Chapter updates, Notice of Disallowance, and same address
+  - [ ] [[FE] 10-10D / 10-7959C Merged: Update OHI chapter content to add prescription question, other content updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121140)
+  - [ ] [[FE] 10-10D/OHI: Update content on Notice of Disallowance page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121043)
+  - [ ] [[FE] 10-10/10-7959c: Staging Review finding: Look at the screen flow when an applicant has the same address or not](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118201)
+  - [ ] [[FE] 10-10D/10-7959C Merge: Align age flag logic with standalone 10-10D and document implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121355)
+- [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
+  - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
+  - [ ] [[BE] 1010d: Create integration tests that cover data transformations - PDF File](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108702)
+  - [ ] [[BE] 10-10d (Standalone and v2): Send PEGA/DOCMP a JSON of all data/fields we'll be sending to VES](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116079)
+  - [ ] [[BE] VES: Validate 1010d Form Data Integration and Logging with VES API - Pre-Prod Environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112833)
+
+
+### 10-7959a
+
+- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues and address selection to use VaRadio
+  - [ ] [[FE] 10-7959a - CHAMPVA Claims: Fix potentially launch-blocking issues from internal QA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117897)
+  - [ ] [[FE] 10-7959a - Improvement: Update address selection to use VaRadio](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120485)
+- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+  - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
+  - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
+- [ ] **SPRINT GOAL** Add resubmission content to intro page
+  - [ ] [[UX] CHAMPVA Claims 10-7959a: Add resubmission content to intro page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120799)
+- [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
+  - [ ] [[UX] CHAMPVA Claims 10-7959a: Address questions regarding research and design flow changes to support Duty to Assist](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112423)
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** UX: Update Confirmation Page for Print/Save PDF for OHI
+  - [ ] [[UX] 10-7959c OHI Standalone: Update Confirmation Page for Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120323)
+ 
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** UX: Research Planning FMP Claims for Direct Deposit
+  - [ ] [[UX][Research] FMP Claims Direct Deposit: Usability Research Planning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121376)
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **STRETCH GOAL** 10-7959c: OHI Standalone PDF Updates
+  - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
+- [ ] **STRETCH GOAL**Additional Design Discovery for Ineligible Applicants (Tricare)
+  - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
+
+     
+##
+### WHAT'S NEXT
+- **FE**
+  - [ ] [[FE] 1010d/10-7959c Merge Staging Review finding: Button - Loading imposter component #118224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118224)
+- **UX**
+  - [ ] UX: 10-7959c: Update Confirmation Page for Print/Save PDF for OHI
+- **BE**
+  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+  - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
+
+
+##
+### Team PTO
+
+
+
+---
 
 ## 📆 Sprint 5 (Oct 8 - Oct 21) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
