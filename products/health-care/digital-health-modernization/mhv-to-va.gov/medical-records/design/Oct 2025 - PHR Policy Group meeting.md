@@ -1,5 +1,5 @@
 # Oct 2025 - PHR Policy Group meeting
-@beckyphung presented [these designs (Figma)](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=22075-8017&t=FOMbLVvfkZwHl6YH-1) at the 2pm ET PHR Policy Group recurring meeting. This doc contains notes and takeaways from the meeting
+@beckyphung presented [these designs (Figma)](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=22075-8017&t=FOMbLVvfkZwHl6YH-1) at the 10/21 2pm ET PHR Policy Group recurring meeting. This doc contains notes and takeaways from the meeting
 
 In this doc: 
 - [Takeaways](#takeaways)
@@ -11,9 +11,17 @@ In this doc:
    - `Entered in Error`: Don't display record
    - `Registered`: Probably don't show this because it represents a record in-progress
    - `Amended`: Display record with corrected info only
-- **Business decisions**:
-- 
-
+- **Business decisions**: We need to present recommendations to business owners.
+   - Labs and tests: Lab Council
+   - Other records: Ambulatory Council
+- **Module/Data classes/Domains**: We just presented designed for labs and tests. But we need to review potential FHIR statuses for other domains as well, such as:
+   - Vaccines
+   - Allergies
+   - Vitals
+   - Health Conditions
+   - Care Notes
+   - Health Summaries
+   - Imaging studies (and any other types of tests that are different from lab results)
 
 ## Notes
 ### Carnetta
