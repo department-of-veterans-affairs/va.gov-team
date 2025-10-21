@@ -11,7 +11,7 @@ assignees: ''
 _Provide the description of the feature_
 
 ## Appointment systems affected
-Check all appoinment systems affected by or relevant to this feature
+Check all appointment systems affected by or relevant to this feature
 
 - [x] vistA
 - [x] HSRM
