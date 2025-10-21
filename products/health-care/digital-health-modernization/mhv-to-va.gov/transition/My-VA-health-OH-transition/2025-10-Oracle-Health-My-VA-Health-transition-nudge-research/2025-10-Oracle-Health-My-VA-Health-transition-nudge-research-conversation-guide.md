@@ -41,7 +41,6 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 - Please find support in helping the user share their screen here: [https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
 
 ## Warm-up (5 mins) 
-* What type of device are you using today?
 * How long have you had healthcare benefits with the VA?
 * How often to you go to a VA health care facility to receive care?
 * How often do you sign-into your health portal online?
