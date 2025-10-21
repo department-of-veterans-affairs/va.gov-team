@@ -20,9 +20,9 @@
   - [ ] [[BE] 10-10d/10-7957c - Applicant SSN removed upon submission failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118853)
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
   - [ ] [[BE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121534)
-- [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants (Tricare)
+- [ ] **SPRINT GOAL** UX: Additional Design Discovery for Ineligible Applicants (Tricare)
   - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
-- [ ] **SPRINT GOAL** Update documentation with OHI Subchapter updates
+- [ ] **SPRINT GOAL** UX: Update documentation with OHI Subchapter updates
   - [ ] [[UX] 10-10d v2: Update SOT and Userflow with OHI subchapter updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121323)
 
 
