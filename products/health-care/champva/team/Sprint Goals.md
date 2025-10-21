@@ -12,8 +12,8 @@
 
 ##
 ### 10-10d
-- [ ] **SPRINT GOAL** 10-10d: Create integration tests and prepare for VES Launch
-  - [ ] [[BE] 1010d: Create integration tests that cover data transformations - Pega S3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108703)
+- [ ] **SPRINT GOAL** 10-10d: Test 10-10d v2 submissions to VES
+  - [ ] 
 - [ ] **SPRINT GOAL** 10-10d: Review and address missing stamp content monitor incident
   - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
 - [ ] **STRETCH GOAL**Additional Design Discovery for Ineligible Applicants (Tricare)
