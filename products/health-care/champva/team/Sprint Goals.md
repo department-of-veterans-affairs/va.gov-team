@@ -11,16 +11,16 @@
 
 ##
 ### 10-10d
-- [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
-  - [ ] [[BE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121534)
 - [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
-  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
-  - [ ] [[BE] 10-10d/10-7957c - Applicant SSN removed upon submission failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118853)
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Applicant Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121321)
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Veteran Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121322)
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121533)
   - [ ] [[FE] 10-10d v2: Set up Pager Duty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120251)
-- [ ] **STRETCH GOAL**Additional Design Discovery for Ineligible Applicants (Tricare)
+  - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+  - [ ] [[BE] 10-10d/10-7957c - Applicant SSN removed upon submission failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118853)
+- [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
+  - [ ] [[BE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121534)
+- [ ] **SPRINT GOAL** Additional Design Discovery for Ineligible Applicants (Tricare)
   - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
 
 
@@ -35,14 +35,22 @@
 - [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
   - [ ] [[FE] 10-7959a: Remaining Resubmissions Changes from Content/IA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121345)
   - [ ] [[BE] 10-7959a Resubmission Confirmation Email Updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121340)
+- [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
+  - [ ] [[UX] 10-7959a: Create Resubmission DTA mocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122674)
+- [ ] **SPRINT GOAL** UX: 10-7959a: Audit Staging and Content Changes, Update WIP Files
+  - [ ] [[UX] 10-7959a: Audit content updates for accuracy and Source of Truth (SoT) alignment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122656)
+  - [ ] [[UX] 10-7959a: Update Address Drop-down to Radio Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120810)
+
      
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: OHI Standalone PDF Updates
+- [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
   - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
 - [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
   - [ ] [[BE] 10-7959c: IOError when the 10-7959C form profile tries to load](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118794)
+- [ ] **SPRINT GOAL** UX: 10-7959c: Create Production Form Flow Documentation
+  - [ ] [[UX] OHI Standalone 10-7959c: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120324)
 
  
 ## 
@@ -56,10 +64,11 @@
   - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
 
 ##
-### All forms or Tech DEbt
+### All forms or Tech Debt
 - [ ] **SPRINT GOAL** Address Data Transformation and Metadata mislabeling tech debt
   - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
   - [ ] [[BE] Tech Debt: Update Metadata Labeling of Veterans and Beneficiaries for 10-10d, FMP, and Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116077)
+
 
 ## 
 ### STRETCH GOALS
@@ -70,6 +79,8 @@
 ### WHAT'S NEXT
 - **FE**
 - **UX**
+- [ ] Monthly Metrics for October
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
 - **BE**
 
 
