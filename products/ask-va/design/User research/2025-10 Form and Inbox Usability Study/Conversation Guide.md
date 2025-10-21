@@ -146,7 +146,9 @@ Before you click on anything to complete this task, take a second to look around
 
   -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
-- **Attachment** \- Can you describe a time where you might want to attach something to your question? 
+- **Attachment** \- Can you describe a time where you might want to attach something to your question?
+- **School state**
+  - _(If struggling)_ What do the questions on this page mean to you? 
 
 #### Things to watch for:
 
@@ -244,7 +246,9 @@ Imagine, you’re having an issue with your work study benefits. You’re alread
 
   -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
-- **Attachment** \- Can you describe a time where you might want to attach something to your question? 
+- **Attachment** \- Can you describe a time where you might want to attach something to your question?
+- - **School state**
+  - _(If struggling)_ What do the questions on this page mean to you? 
 
 #### Things to watch for:
 
