@@ -6,8 +6,22 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
+- [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
+- [ ] **SPRINT GOAL** 10-7959a: Fix Internal QA issues
+- [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
+- [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
+- [ ] **SPRINT GOAL** 10-7959a: Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
+- [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
+- [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
+- [ ] **SPRINT GOAL** All forms: Address Data Transformation and Metadata mislabeling tech debt
+- [ ] **SPRINT GOAL** UX: 10-10d: Additional Design Discovery for Ineligible Applicants (Tricare)
+- [ ] **SPRINT GOAL** UX: 10-10d: Update documentation with OHI Subchapter updates
+- [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
+- [ ] **SPRINT GOAL** UX: 10-7959a: Audit Staging and Content Changes, Update WIP Files
+- [ ] **SPRINT GOAL** UX: 10-7959c: Create Production Form Flow Documentation
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
 - [ ] Stretch goal: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-
 
 ##
 ### 10-10d
@@ -20,9 +34,9 @@
   - [ ] [[BE] 10-10d/10-7957c - Applicant SSN removed upon submission failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118853)
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
   - [ ] [[BE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121534)
-- [ ] **SPRINT GOAL** UX: Additional Design Discovery for Ineligible Applicants (Tricare)
+- [ ] **SPRINT GOAL** UX: 10-10d: Additional Design Discovery for Ineligible Applicants (Tricare)
   - [ ] [[UX] 10-10d v2: Additional Design Discovery for Ineligible Applicants](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121513)
-- [ ] **SPRINT GOAL** UX: Update documentation with OHI Subchapter updates
+- [ ] **SPRINT GOAL** UX: 10-10d: Update documentation with OHI Subchapter updates
   - [ ] [[UX] 10-10d v2: Update SOT and Userflow with OHI subchapter updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121323)
 
 
@@ -62,7 +76,7 @@
 
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] **SPRINT GOAL** Create prototype for direct deposit user testing
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
   - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
 
 ##
