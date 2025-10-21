@@ -44,6 +44,8 @@
 
 ##
 ### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** Create prototype for direct deposit user testing
+  - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
 
 
 
