@@ -1,5 +1,5 @@
 # Oct 2025 - PHR Policy Group meeting
-@beckyphung presented [these designs (Figma)](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=22075-8017&t=FOMbLVvfkZwHl6YH-1) at the 10/21 2pm ET PHR Policy Group recurring meeting. This doc contains notes and takeaways from the meeting
+@beckyphung presented [these designs (Figma)](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=22075-8017&t=FOMbLVvfkZwHl6YH-1) for displaying statuses other than `Final` for lab and test results at the 10/21 2pm ET PHR Policy Group recurring meeting. This doc contains notes and takeaways from the meeting
 
 In this doc: 
 - [Takeaways](#takeaways)
