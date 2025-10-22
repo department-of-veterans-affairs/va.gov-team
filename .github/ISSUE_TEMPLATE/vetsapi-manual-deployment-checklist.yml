@@ -70,6 +70,12 @@ body:
       label: Notes
       description: Add any issues, errors, or additional observations during the process (e.g., sync failures, unexpected errors).
 
+  - type: textarea
+    id: oob-issue
+    attributes:
+      label: Link to OOB Issue 
+      placeholder: - If this deploy is part of an OOB, paste the OOB issue link here.
+
   - type: checkboxes
     id: post-deployment-verification
     attributes:
