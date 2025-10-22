@@ -13,7 +13,6 @@
 - [ ] **SPRINT GOAL** 10-7959a: Enhanced Claims Flow Internal QA Issues & Changes from Content/IA
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
 - [ ] **SPRINT GOAL** 10-7959c: Investigate and address IOError when Form Profile fails to load
-- [ ] **SPRINT GOAL** All forms: Address Data Transformation and Metadata mislabeling tech debt
 - [ ] **SPRINT GOAL** UX: 10-10d: Additional Design Discovery for Ineligible Applicants (Tricare)
 - [ ] **SPRINT GOAL** UX: 10-10d: Update documentation with OHI Subchapter updates
 - [ ] **SPRINT GOAL** UX: 10-7959a: Duty to assist
@@ -21,7 +20,10 @@
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Research Planning FMP Claims for Direct Deposit submitted, reviewed, and edited
 - [ ] STRETCH GOAL: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-- [ ] STRETCH GOAL UX: 10-7959c: Create Production Form Flow Documentation
+- [ ] STRETCH GOAL: UX: 10-7959c: Create Production Form Flow Documentation
+- [ ] STRETCH GOAL: All forms: Address Data Transformation and Metadata mislabeling tech debt
+- [ ] STRETCH GOAL: Implement more robust logging to track and identify future issues
+
 
 ##
 ### 10-10d
@@ -29,7 +31,6 @@
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Applicant Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121321)
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Veteran Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121322)
   - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Confirmation Page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121533)
-  - [ ] [[FE] 10-10d v2: Set up Pager Duty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120251)
   - [ ] [[BE] Investigate missing stamp content monitor incident](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
   - [ ] [[BE] 10-10d/10-7957c - Applicant SSN removed upon submission failure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118853)
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
@@ -84,6 +85,7 @@
 - [ ] **SPRINT GOAL** Address Data Transformation and Metadata mislabeling tech debt
   - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
   - [ ] [[BE] Tech Debt: Update Metadata Labeling of Veterans and Beneficiaries for 10-10d, FMP, and Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116077)
+  
 
 
 ## 
@@ -91,6 +93,13 @@
 - [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
 - [ ] **STRETCH GOAL** UX: 10-7959c: Create Production Form Flow Documentation
   - [ ] [[UX] OHI Standalone 10-7959c: Create Production Form Flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120324)
+- [ ] **STRETCH GOAL** Set up Pager Duty for 1010d v2 
+  - [ ] [[FE] 10-10d: Set up Pager Duty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120251)
+- [ ] **STRETCH GOAL** Implement more robust logging to track and identify future issues
+  - [ ] [BE] All forms? - Form merge: Implement more robust logging to track and identify future issues
+- [ ] **STRETCH GOAL** Address Data Transformation and Metadata mislabeling tech debt
+  - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
+  - [ ] [[BE] Tech Debt: Update Metadata Labeling of Veterans and Beneficiaries for 10-10d, FMP, and Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116077)
 
 
      
@@ -101,11 +110,13 @@
 - [ ] Monthly Metrics for October
   - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
 - **BE**
+- [ ] [IVC Forms: 2025-04-10 Monitor Incident - The provided stamp content was empty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
 
 
 ##
 ### Team PTO
-
+- Steve 10/22-10/24
+- Allan 10/30-10/31
 
 
 ---
