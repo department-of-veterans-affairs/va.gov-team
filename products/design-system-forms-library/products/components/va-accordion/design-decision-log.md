@@ -11,7 +11,7 @@ Last updated: 2025-10-17
 - Decision date: 2025-09-15
 
 ### Context
-Originally the accordion 'expand all' and collapse all buttons were a single toggle option. They were seperated into two buttons that are visible all the time. You can read more about the change in this PR. 
+Originally, the accordion 'expand all' and 'collapse all' buttons were a single toggle option. They were seperated into two buttons that are visible all the time. You can read more about the change in this PR. 
 
 [va-accordion: Create separate buttons for "expand all" and "collapse all" #1772](https://github.com/department-of-veterans-affairs/component-library/pull/1772#top)
 
