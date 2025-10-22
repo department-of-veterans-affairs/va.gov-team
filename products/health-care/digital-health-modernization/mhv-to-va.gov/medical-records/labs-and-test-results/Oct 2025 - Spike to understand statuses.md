@@ -25,18 +25,18 @@ This doc explains how we display and explain statuses for users for the [#122203
    - vets-website
       - No filtering applied to any records.
    - MHV PHR API v2
-      -         * Refer to this PR per Patrick (also in this Slack canvas)
-        * ### 5. Status-Based Filtering
-            * Chemistry tests: Status X (Rejected) → filtered out; F/I/C (Final/Pending/Amended) → shown
-            * Pathology reports: Must be status "COMPLETED" → shown; others → filtered out
-            * Ensures only valid, finalized results are displayed
-        * Records are NOT returned to consumers if they:
-            * Are from facilities the patient doesn't have access to (security)
-            * Were completed less than 36 hours ago (except COVID tests or previously shown)
-            * Have status "X" (Rejected) for Chemistry tests
-            * Are not marked "COMPLETED" for Pathology reports
-            * Are missing required fields (station number or status)
-            * Are the wrong lab type for the transformer processing them 
+      - [Refer to this PR](https://github.com/department-of-veterans-affairs/mhv-np-phr-api-v2/pull/204) per Patrick (also [in this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F09MJ0R0ZAT))
+         - 5. Status-Based Filtering
+            - Chemistry tests: Status X (Rejected) → filtered out; F/I/C (Final/Pending/Amended) → shown
+            - Pathology reports: Must be status "COMPLETED" → shown; others → filtered out
+            - Ensures only valid, finalized results are displayed
+         - Records are NOT returned to consumers if they:
+            - Are from facilities the patient doesn't have access to (security)
+            - Were completed less than 36 hours ago (except COVID tests or previously shown)
+            - Have status "X" (Rejected) for Chemistry tests
+            - Are not marked "COMPLETED" for Pathology reports
+            - Are missing required fields (station number or status)
+            - Are the wrong lab type for the transformer processing them 
 - **Transforming statuses**: We display statuses as-is. We don't transform them in any way to be easier to understand. They're passed through from API to frontend. Code relies on the [FHIR standard](https://build.fhir.org/valueset-diagnostic-report-status.html#expansion) for status values.
 - **Displaying statuses**: We hide status at the top-level when user is on "Lab and test results" page. We display status on the details page under the "Results" H2 heading.
 - **Different statuses**: Statuses are may be different depending on type of test ('chemistry_hematology', 'microbiology', 'pathology', 'radiology', 'cvix_radiology', 'other'). 
