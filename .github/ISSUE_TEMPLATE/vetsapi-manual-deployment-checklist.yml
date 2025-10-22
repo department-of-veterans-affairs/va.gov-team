@@ -67,8 +67,8 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: Notes
-      description: Add any issues, errors, or additional observations during the process (e.g., sync failures, unexpected errors).
+      label: Notes and link to OOB Issue (if applicable)
+      description: Add the OOB issue link, any errors, or additional observations during the process (e.g., sync failures, unexpected errors).
 
   - type: checkboxes
     id: post-deployment-verification
