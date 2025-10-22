@@ -2,7 +2,7 @@
 Last updated: 2025-10-17
 
 - [ADR: 001 - Separate 'expand all' and 'collapse all' buttons](#ADR-001---Separate-expand-all-and-collapse-all-buttons)
-- [ADR: 002 - 'expand all' and 'collapse all' button design and interaction](#ADR-002---Button-design)
+- [ADR: 002 - Button design](#ADR-002---Button-design)
 
 ## ADR: 001 - Separate 'expand all' and 'collapse all' buttons
 
