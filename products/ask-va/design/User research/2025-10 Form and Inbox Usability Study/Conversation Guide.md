@@ -36,6 +36,11 @@
 | Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
 | Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
 
+➡️ [Veteran Conversation Guide
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing)
+
+➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
+
 - Prototype links  
   - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)  
   - [Veteran (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)  
@@ -89,11 +94,12 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 \*\*\[Record answer here\]\*\*
 
 ## Next...
-➡️ [Veteran Testing Script
+➡️ [Veteran Conversation Guide
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing)
-➡️ [SCO Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
 
-# Veteran Testing
+➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
+
+# Veteran Conversation Guide
 
 ## Warm-up Questions \- 10 minutes
 
@@ -334,14 +340,9 @@ In the rare case of an emergency during a session, be prepared with an [emergenc
 
 ---
 
-### Sample Conversation Guide *(note: this link points to resources in the va.gov-team GitHub repo)*
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
 
-
-
-# SCO Testing
+# SCO Conversation Guide
 
 ## Warm-up Questions \- 12 minutes
 
