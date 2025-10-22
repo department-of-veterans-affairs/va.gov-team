@@ -11,6 +11,12 @@ type: Task
 ## Background
 _What background/context has led to this work?  What problem are we trying to solve?_
 
+**Requirements**
+1. 
+
+### Resources
+1. 
+
 ## Tasks
 _What steps are required to get to the Acceptance Criteria?_
 - [ ]
@@ -18,6 +24,9 @@ _What steps are required to get to the Acceptance Criteria?_
 ## Acceptance Criteria
 _What will be created or happen as a result of this?_
 - [ ] 
+
+## Out of Scope
+1. 
 
 ---
 #### How to configure this issue
