@@ -48,8 +48,6 @@ Before enabling your feature toggle in production, you'll need to:
 **Yes**
 
 
-Yes
-
 We will do an MVP launch (Vista Only)  followed by Post MVP (Vista and OH)  A defined set of users will be whitelisted in mhv_secure_messaging_medications_renewal_request Flipper toggle to gain access to the new experience
 
 
