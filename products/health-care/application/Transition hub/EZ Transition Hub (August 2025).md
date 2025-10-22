@@ -115,52 +115,52 @@ This table details recent and ongoing features and initiatives specifically for 
 ### **Team Members:**
 The current 10-10 Health Apps team roster includes:
 * **Product Managers:**
-    * Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice"
+    * Heather J
 * **Delivery Lead:**
-    * Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89"
+    * Alexandria "Alex" P
 * **UX Design/Research:**
-    * Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" (Sr.)
-    * Liza McRuer | elizabeth.mcruer@va.gov / liza.mcruer@adhocteam.us / GH "emcruer"
+    * Jessica S
+    * Liza M
 * **Engineers:**
-    * Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" (Sr. Frontend)
-    * Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" (Full Stack)
-    * Brandon Cooper | brandon.cooper1@va.gov / brandon.cooper@adhocteam.us / GH "coope93" (Full Stack/Backend focus)
+    * Matt L
+    * Mitch S
+    * Brandon C
 * **Sr. Data Analyst:**
-    * Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi"
+    * Luis S
 * **QA Engineer:**
-    * Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah"
+    * Allan T
 
 
 ### **VA relationships**
 
 **OCTO-DE**
-* Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
-* Patrick Bateman | patrick.bateman@va.gov - Product Owner
-* Amanda Klausmeier | amanda.klausmeier@va.gov - Design Lead
-* Danielle Thierry | danielle.thierry@va.gov - Content writer
+* Lauren A - Product Crew Lead
+* Patrick B - Product Owner
+* Amanda K - Design Lead
+* Danielle T - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-* Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
-* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-* Amanda Scully | amanda.scully@va.gov -- Deputy Director, HEC
-* Zachariah Bell | zachariah.bell@va.gov -- Acting ECM Supervisory Program Specialist
-* Cheylanda Griffith | cheylanda.griffith@va.gov -- Supervisory Program Specialist
-* Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-* Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
-* Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
-* Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-* Shana Watson | shana.watson@va.gov -- Member Services SME
-* Simone Gully | simone.gully@va.gov -- Member Services SME
-* Angela Fulton | angela.fulton@va.gov -- Member Services SME
-* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
+* Bryan B -- VHA Member Services Publications Control Officer - Main POC
+* Ambroja W -- Veteran Experience Officer, HEC - 2nd POC
+* Amanda S -- Deputy Director, HEC
+* Zachariah B -- Acting ECM Supervisory Program Specialist
+* Cheylanda G -- Supervisory Program Specialist
+* Kimberly B -- Associate Director, QA division HEC
+* Lindsey P -- Assistant Associate Director, Income Verification division
+* Jessica S -- Management & Program Analyst, BSO Business Policy (Paper forms)
+* Annie R -- Contact Representative office
+* Shana W -- Member Services SME
+* Simone G -- Member Services SME
+* Angela F -- Member Services SME
+* Tiffany G -- Member Services SME
 
 **Enrollment System (ES) (End-to-End Testing POCs)**
-* Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+* Joshua F - Technical Director, EHBD (Enrollment system)
     * Primary contact for ES testing (end2end)
-* Ramya Venkataraman | ramya.venkataraman@va.gov - SQA Test Lead, Enrollement system
+* Ramya V - SQA Test Lead, Enrollement system
     * Secondary contact for ES testing
-* Reetu Dhanda | reetu.dhanda@va.gov - SQA Test Engineer (VES PACT Act scrum team)
-* Turkan Kasamanly | turkan.kasamanli@va.gov - Test Automation Engineer (VES PACT Act scrum team)
+* Reetu D - SQA Test Engineer (VES PACT Act scrum team)
+* Turkan K - Test Automation Engineer (VES PACT Act scrum team)
 
 
 ### **Recurring stakeholder meetings**
