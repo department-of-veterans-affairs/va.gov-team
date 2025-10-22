@@ -177,6 +177,60 @@ sequenceDiagram
     Frontend-->>User: Display appointment data
 ```
 
+### Appointment Cancellation (as of 10/22/25)
+```mermaid
+sequenceDiagram
+    participant Client as Frontend Client
+    participant ApptController as AppointmentsController
+    participant EpsController as EpsAppointmentsController
+    participant ApptService as AppointmentsService
+    participant EpsService as Eps::AppointmentService
+    participant VAOS as VAOS API
+    participant EPS as EPS API
+
+    Note over Client: Client determines appointment type
+    Client->>Client: Check appointment.type or appointment.provider?.id
+
+    alt EPS Appointment (type === 'epsAppointment' or has provider.id)
+        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled"}
+
+        EpsController->>EpsService: cancel_appointment(appointment_id)
+        EpsService->>EPS: PATCH /appointments/:id/cancel
+        EPS-->>EpsService: 200 OK {status: "cancelled"}
+        EpsService-->>EpsController: Success
+
+        Note over EpsController: Check if corresponding VAOS appointment exists
+        EpsController->>ApptService: check_vaos_appointment_exists(appointment_id)
+        ApptService->>VAOS: GET /appointments/:id
+        VAOS-->>ApptService: 200 OK or 404 Not Found
+
+        alt VAOS appointment exists
+            ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+            VAOS-->>ApptService: 200 OK
+            ApptService-->>EpsController: VAOS also cancelled
+        else No VAOS appointment
+            ApptService-->>EpsController: No VAOS appointment to cancel
+        end
+
+        EpsController->>EpsController: assemble_appt_response_object()
+        EpsController-->>Client: 200 OK {data: {appointment}}
+
+    else VAOS Appointment (standard appointment)
+        Client->>ApptController: PUT /appointments/:id {status: "cancelled"}
+
+        ApptController->>ApptService: update_appointment(appt_id, "cancelled")
+        ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+        VAOS-->>ApptService: 200 OK {appointment data}
+        ApptService-->>ApptController: Updated appointment object
+
+        ApptController->>ApptController: set_facility_error_msg()
+        ApptController->>ApptController: serialize_appointment()
+        ApptController-->>Client: 200 OK {data: {appointment}}
+    end
+
+    Note over Client, EPS: Both systems now reflect cancelled status
+```
+
 ## Key Processes
 
 ### User Workflow
