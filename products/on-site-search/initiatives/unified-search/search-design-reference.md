@@ -123,13 +123,11 @@ Veterans searching to complete tasks (like filing claims or accessing secure mes
 
 ### Problems with traditional search
 
-#### Intent is hard to detect
 * Current search struggles to distinguish between:
   * Informational intent (“What are claims?”)
   * Navigational intent (“Take me to my claims”)
   * Transactional intent ("file my claim now")
 * Current results favor informational content regardless of intent
-#### Disconnect between content and apps
 * Tools/applications may not be indexed at all
 * Educational content about apps ranks higher than the apps themselves
 * No structured data to indicate "this is an app” vs. "this is information about the app”
@@ -173,18 +171,12 @@ Veterans searching for specific VA offices, phone numbers, or facilities get no 
 
 ### Problems with traditional search
 
-#### Siloed data architecture
 * Location information lives in a separate "Find a VA Location" database
-* Not indexed by Search.gov site search
-* Contact information doesn’t seem to be consistently structured or indexed
+* Contact information may not be consistently structured or indexed
 * Office directory data may exist only in PDFs or unstructured content
-#### Struggles with organizational and contact information
-* Can't recognize "Office of Mental Health" as an organization.
-* Phone numbers are not indexed as searchable entities
-* Facility names not connected to location data
-#### From technical documentation
-* "Multiple independent search experiences" - location search is disconnected from site search
-* Initiative brief identifies need for "single search experience for all content types (web, forms, **locations**, authenticated info)"
+* Phone numbers may not be indexed as searchable entities
+* There can be a disconnect between facility names and location data
+* Multiple independent search experiences: location search is disconnected from site search
 
 ### Design questions
 * How might we surface location-specific information, contact details, and facility-specific services within general search results?
@@ -226,7 +218,6 @@ Veterans assume site search includes everything, but need to learn about and nav
 
 ### Problems with traditional search
 
-**Architectural fragmentation:**
 * Each search tool is a separate implementation with a separate database/index
 * No cross-search capability
 * Veterans must:
@@ -234,7 +225,6 @@ Veterans assume site search includes everything, but need to learn about and nav
   2. Understand what each tool searches
   3. Navigate to the correct tool
   4. Search again with a potentially different interface
-#### Discovery
 * Even when participants saw links to other tools, they didn't understand when to use them
 
 ### Design questions
