@@ -38,14 +38,14 @@ Follow-up tasks:
 
 ```mermaid
 flowchart TD
-    Start[Start 686C-674 Flow]
+    Start([Start 686C-674 Flow])
     ToggleCheck{v3 Feature Toggle?}
 
     Start --> ToggleCheck
 
     %% v3 Feature Toggle OFF path
     ToggleCheck -- "OFF" --> V2Flow[v2 Form Flow]
-    V2Flow --> V2Submit[v2 Data submission]
+    V2Flow --> V2Submit([v2 Data submission])
 
     %% v3 Feature Toggle ON path
     ToggleCheck -- "ON" --> InProgressCheck{In Progress Form Exists with V2 data?}
