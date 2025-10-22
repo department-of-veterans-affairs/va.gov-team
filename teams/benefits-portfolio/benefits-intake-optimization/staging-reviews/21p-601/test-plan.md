@@ -229,7 +229,9 @@ Automated E2E tests are implemented in `tests/e2e/21p-0601.cypress.spec.js`.
 ## E2E Test Evidence  
 **Test File:** `src/applications/simple-forms/21p-0601/tests/e2e/21p-0601.cypress.spec.js`  
 **Test Run:**  
-_[Screenshot of Cypress test results to be added]_  
+
+<img width="1650" height="597" alt="601_cypress_tests" src="https://github.com/user-attachments/assets/71c81ff0-51cb-44a2-a121-df0f6aeacb67" />
+
 **Status:** ✅ All E2E tests passing  
 
 ---
