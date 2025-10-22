@@ -55,7 +55,9 @@ flowchart TD
 
     %% Continue with v3 if no in progress form
     InProgressCheck -- "NO" --> V3Flow[v3 Form Flow]
-    V3Flow --> V2Submit
+    V3Flow --> convertV3toV2Data[/Convert v3 data<br>structure to v2/]
+
+    convertV3toV2Data --> V2Submit
 
     %% Styling
     style V2Flow fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000000
