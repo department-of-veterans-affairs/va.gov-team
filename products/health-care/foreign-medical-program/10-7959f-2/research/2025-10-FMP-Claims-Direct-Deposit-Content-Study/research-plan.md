@@ -123,7 +123,7 @@ tags:
 
 **[This is a new online form that has gone through staging reivew, this is testing additional direct deposit content and flows only.]**
 
-`Product Brief`
+Product Brief
 
 **[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md).**
 
@@ -144,9 +144,9 @@ tags:
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
+- Taking Care of Myself
+- Reinventing Myself
+- Putting Down Roots
 
 
 ## Research Goals 🥅	
@@ -274,11 +274,11 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length:` 45-60 minutes
+- Session length: 45 minutes
   
-- `Buffer time between sessions:` 45 minutes
+- Buffer time between sessions: 45 minutes
   
-- `Maximum Sessions per day:` 3
+- Maximum Sessions per day: 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
