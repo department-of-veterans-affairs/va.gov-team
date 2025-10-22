@@ -36,17 +36,8 @@
 | Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
 | Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
 
-➡️ [Veteran Conversation Guide
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-conversation-guide)
-
-➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-conversation-guide)
-
-- Prototype links  
-  - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)  
-  - [Veteran (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)  
-  - [SCO (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1)  
-  - [SCO (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1)
-
+➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/SCO%20Conversation%20Guide.md)
+➡️ [All prototype and staging links here](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax) 
 
 # Intro \- 5 minutes
 
@@ -93,14 +84,6 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 \*\*\[Record answer here\]\*\*
 
-## Next...
-➡️ [Veteran Conversation Guide
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-conversation-guide)
-
-➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-conversation-guide)
-
-# Veteran Conversation Guide
-
 ## Warm-up Questions \- 10 minutes
 
 Before we look at the website, let’s start with a couple warm-up questions.
@@ -124,13 +107,12 @@ Now we’re going to move into the next part of this session. I’m going to pro
 
 **Staging**  
 You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+41@gmail.com 
-- Password: AskVA2025Testing
 
 **Prototype**  
 I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-[link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)
+
+[Link available here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
+
 
 ##
 
@@ -186,13 +168,12 @@ Now show us how you would use Ask VA to get help.
 
 **Staging**  
 You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+220@gmail.com 
-- Password: AskVA2025Testing
 
 **Prototype**  
 I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-[link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
+
 
 ##
 
@@ -225,13 +206,12 @@ Now we’re going to ask you to complete the same tasks in a slightly different 
 
 **Staging**  
 Here you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+41@gmail.com 
-- Password: AskVA2025Testing
 
 **Prototype**  
 I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-[link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
+
 
 ##
 
@@ -277,13 +257,11 @@ Just as we did before, I want you to imagine you’re having an issue with your 
 
 **Staging**  
 You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+220@gmail.com 
-- Password: AskVA2025Testing
 
 **Prototype**  
 I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-[link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
 
