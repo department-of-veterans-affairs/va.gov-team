@@ -194,7 +194,7 @@ Exploring other channels for communicating critical information Veterans’ bene
 
 ## **Appendix**
 
-* [Research plan](http://docs.google.com/document/d/14oozepbidwexqkqvpow3tkmlem5ghxm7o7g-n_0bzgq/edit?tab=t.0)  
+* [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025-09%20Intent%20to%20File%20Unmoderated%20Study/research-findings.md)  
 * [Prototypes used in testing](https://www.figma.com/design/0hU7Y56EO2skWUjS8HxFjf/Prototypes---Intent-to-FIle?node-id=53-27168&p=f&t=t75TDvNSY52whZ7J-0)  
 * [Mural synthesis board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1758559181731/d81360908f76608767d5c14fa751253883121edb)  
 * Link to Optimal Workshop studies (see Github repo for login credentials)  
