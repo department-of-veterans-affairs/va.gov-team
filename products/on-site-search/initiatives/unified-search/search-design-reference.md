@@ -70,7 +70,7 @@ Veterans who don't know the exact terminology get stuck. Those with more VA know
 ### What past research found
 
 **[Jan 2021 Study:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)**
-- "When asked how far they typically look through search results, most stated that they would                                                                                                                                                                                                                                 not look past the first page and usually only the first few results."
+- "When asked how far they typically look through search results, most stated that they would not look past the first page and usually only the first few results."
 - “When a Best Bet / 'Top Recommendation' was shown, there was a higher chance of the user finding the information they needed."
 - Participant quote: "From a user experience model, the layout is great, the location, all of that is fine, but the indexing is poor. The search feature seems to be good for simple things, but not difficult things."
 
@@ -85,7 +85,7 @@ Veterans who don't know the exact terminology get stuck. Those with more VA know
 - Results don't distinguish between information pages and tools (evidenced by Veteran frustration)
 - No apparent understanding of query intent - "benefits" returns the same type of results whether the user wants info or action
 - If generic queries don't surface relevant results in the top 3-5, users are more likely to abandon the search
-* 226,540 combined searches for "health topics" + "benefits" with almost zero clicks
+- 226,540 combined searches for "health topics" + "benefits" with almost zero clicks
 
 ### Design questions
 
