@@ -153,11 +153,11 @@ tags:
 
 ### Goals
 
-`1.` Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
+1. Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
 
-`2.` Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
+2. Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
 
-`3.` Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.
+3. Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.
   
 ### Outcome
 
@@ -169,15 +169,15 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 
 ### Research questions	
 
-`1.` How do Veterans react to the direct deposit informational alert on the introduction page?
+1. How do Veterans react to the direct deposit informational alert on the introduction page?
 
-`2.` Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?
+2. Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?
 
-`3.` Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?
+3. Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?
 
-`4.` Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?
+4. Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?
 
-`5.` Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?
+5. Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?
 
 
 ### Hypotheses
@@ -205,7 +205,7 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 **For moderated interviews / content usability test:** 
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4372&p=f&t=Dzln41diTGrZVcIU-1&scaling=min-zoom&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
 
 
 ## Recruitment 🎯	
@@ -228,21 +228,28 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 
 ### Primary criteria (must-haves)
 - `[Place primary criteria here between hash marks when in edit mode]`
+
 -  Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify) 
+
 -  `Are you currently living abroad? (Must answer yes to qualify)`
+
 -  Are you enrolled in the Foreign Medical Program (FMP)? 
     - Yes = (4 participants)
     - No or I don’t know = (4 participants)
-4. (If they answered ‘yes’ to Question 1) When have you used your FMP benefits (check all that apply) _[Any are okay]:_
+
+- (If they answered ‘yes’ to previous question) When have you used your FMP benefits (check all that apply) _[Any are okay]:_
     -  During a short trip abroad (i.e., a vacation)
     -  During medical tourism
     -  While you were living abroad
     -  I have never used my benefits
+ 
 -  At least 2 participants who are female 
 -  At least 2 participants who are 55 years or older 
 
+
 #### Secondary criteria (nice-to-haves)
 - No more than 3 participants per each race/demographics category
+- No more than 2 particpants per any age category
 
 
 ## Timeline 🗓️
