@@ -1,0 +1,1 @@
+Designs are based on existing design patterns in the VA Benefits Claims Status Tool. Designs shown may be exploratory and [Figma](https://www.figma.com/design/OpAuMgHwnh6BNkKpW3FyqF/CHAMPVA-in-Status-Tool?node-id=15-1207&t=UYBtEMtCEbxbrYi5-1) is always the source of truth.
