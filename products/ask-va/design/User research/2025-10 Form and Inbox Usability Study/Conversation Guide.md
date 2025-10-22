@@ -29,6 +29,20 @@
 - [ ] If participant doesn’t arrive after 2 minutes, Slack Perigean in study channel  
 - [ ] If participant is a no-show, Slack team in \#feedback-backchannel 
 
+# Helpful links
+
+|  | Group A \- Staging then Prototype | Group B *\-* Prototype then Staging |
+| :---- | :---- | :---- |
+| Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
+| Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
+
+- Prototype links  
+  - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)  
+  - [Veteran (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)  
+  - [SCO (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1)  
+  - [SCO (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1)
+
+
 # Intro \- 5 minutes
 
 Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle, here to help us take notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them I have a few things that I want to go over with you about what you can expect from this session. 
@@ -65,7 +79,7 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
-➡️ **Start recording.**
+**Start recording.**
 
 > [!TIP]
 > After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
@@ -74,19 +88,10 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 \*\*\[Record answer here\]\*\*
 
-[Veteran Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing-veteran-testing)  
-[SCO Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing-sco-testing)
-
-|  | Group A \- Staging then Prototype | Group B *\-* Prototype then Staging |
-| :---- | :---- | :---- |
-| Participants | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> | <ul><li>**Veterans** (3-4)</li> <li>**Veteran SCOs** (1)</li>  <li>**SCOs** (2-3)</li></ul> |
-| Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
-
-- Prototype links  
-  - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)  
-  - [Veteran (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)  
-  - [SCO (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1)  
-  - [SCO (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1)
+## Next...
+➡️ [Veteran Testing Script
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing)
+➡️ [SCO Testing Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
 
 # Veteran Testing
 
