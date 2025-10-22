@@ -8,12 +8,45 @@ body:
   - type: markdown
     attributes:
       value: Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below. Answers to all questions are required. 
+  - type: input
+    id: teamName
+    attributes:
+      label: Team Name
+      description: Please list the name of the team requesting this out-of-band deploy 
+    validations:
+      required: true
+  - type: input
+    id: teamPO
+    attributes:
+      label: Federal Product Owner
+      description: Who is the product owner for this team? 
+    validations:
+      required: true
+  - type: input
+    id: teamSlack
+    attributes:
+      label: Team Slack Channel
+      description: What is the slack channel the team who is requesting this OOB uses to communicate most? 
+    validations:
+      required: true
   - type: textarea
     id: PR-links
     attributes:
       label: Related PRs
       description: Please provide the list of PRs related to the need for this OOB Deploy
       placeholder: List of PRs
+    validations:
+      required: true
+  - type: dropdown
+    id: incidentCategory
+    attributes:
+      label: What type of issue does this fix?
+      description: "How would you categorize this incident?"
+      multiple: true
+      options:
+        - Security (PII leak or spill)
+        - Veteran-impacting bug
+        - Other (Explain in description space below)
     validations:
       required: true
   - type: dropdown
@@ -27,6 +60,17 @@ body:
         - High
         - Moderate
         - Low
+    validations:
+      required: true
+  - type: dropdown
+    id: mobileImpact
+    attributes:
+      label: Does this impact VA Mobile?
+      description: "Will you need to make any modifications to VA Mobile?"
+      multiple: false
+      options:
+        - 'Yes (Explain in Description)'
+        - 'No'
     validations:
       required: true
   - type: input
@@ -62,9 +106,9 @@ body:
     validations:
       required: true
   - type: textarea
-    id: validationSteps
+    id: stagingValidation
     attributes:
-      label: Please list the validation steps to confirm fix
+      label: What steps have you taken to verify this fix is working in staging?
       placeholder: List validation steps here. If no steps have been taken to validate, please explain why instead.  
     validations:
       required: true
@@ -73,6 +117,13 @@ body:
     attributes:
       label: Who has validated the fix is working for this OOB?
       description: "name + @username OR va.gov email address"
+    validations:
+      required: true
+  - type: textarea
+    id: prodValidation
+    attributes:
+      label: What is your post-deploy verification plan (link Datadog log query or testing steps)?
+      placeholder: Add links to Datadog log query and/or testing steps here. If you cannot provide this, explain why in detail.  
     validations:
       required: true
   - type: checkboxes
