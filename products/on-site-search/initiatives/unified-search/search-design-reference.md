@@ -137,7 +137,7 @@ Veterans searching to complete tasks (like filing claims or accessing secure mes
 * No structured data to indicate "this is an app” vs. "this is information about the app”
 
 ### Design questions
-- How might we detect action verbs ("file", "upload", "submit", "check") and prioritize apps and actions over educational content?
+* How might we detect action verbs ("file", "upload", "submit", "check") and prioritize apps and actions over educational content?
 * How might we distinguish Veteran questions ("what is?”, "how do I?”) from commands ("file a claim”)?
 * How might we differentiate between informational content and actionable tools in search results?
 * How might we improve the display of CTAs: "File a disability claim" button vs. "Learn about disability claims" links?
@@ -189,7 +189,7 @@ Veterans searching for specific VA offices, phone numbers, or facilities get no 
 * Initiative brief identifies need for "single search experience for all content types (web, forms, **locations**, authenticated info)"
 
 ### Design questions
-- How might we surface location-specific information, contact details, and facility-specific services within general search results?
+* How might we surface location-specific information, contact details, and facility-specific services within general search results?
 * How might we connect facility names to the location database automatically?
 * How might we provide "call now" or "get directions" actions inline?
 * How might we handle variations in facility names ("VA hospital Knoxville" = "Knoxville VA Medical Center”)?
@@ -273,4 +273,4 @@ This reference guide helps establish the foundation for transitioning VA.gov sea
 - How do we show result counts by type without overwhelming the interface?
 
 ---
-*This is a living document that will evolve as we learn more.
+*This is a living document that will evolve as we learn more.*
