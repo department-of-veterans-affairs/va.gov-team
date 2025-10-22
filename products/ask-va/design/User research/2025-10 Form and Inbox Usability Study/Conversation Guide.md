@@ -37,9 +37,9 @@
 | Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
 
 ➡️ [Veteran Conversation Guide
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing)
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-conversation-guide)
 
-➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
+➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-conversation-guide)
 
 - Prototype links  
   - [Veteran (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)  
@@ -95,9 +95,9 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 ## Next...
 ➡️ [Veteran Conversation Guide
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-testing)
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-conversation-guide)
 
-➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-testing)
+➡️ [SCO Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#sco-conversation-guide)
 
 # Veteran Conversation Guide
 
