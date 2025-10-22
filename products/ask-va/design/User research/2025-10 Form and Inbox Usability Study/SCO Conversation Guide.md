@@ -37,11 +37,8 @@
 | Links | <ol><li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 1, 2\)</li> <li>Prototype (Task 3, 4\)</li></ol> | <ol><li>Prototype (Task 1, 2\)</li> <li>[Staging](https://staging.va.gov/contact-us/ask-va/introduction) (Task 3, 4\)</li></ol> |
 
 ➡️ [Veteran Conversation Guide
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Conversation%20Guide.md#veteran-conversation-guide)
-
-- Prototype links  
-  - [SCO (Tasks 1, 3): Submit Education and Work Study Question](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1)  
-  - [SCO (Tasks 2, 4): Review Question in Inbox](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1)
+](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Veteran%20Conversation%20Guide.md)
+➡️ [All prototype and staging links here](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax) 
 
 
 # Intro \- 5 minutes
@@ -82,7 +79,7 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 **Start recording.**
 
-## Warm-up Questions \- 12 minutes
+## Warm-up Questions \- 10 minutes
 
 Before we look at the website, let’s start with a couple warm-up questions.
 
@@ -105,33 +102,22 @@ Now we’re going to move into the next part of this session. I’m going to pro
 
 **Staging**  
 You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+41@gmail.com 
-- Password: AskVA2025Testing
 
 **Prototype**  
 I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-[link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)
 
-
-**Staging**  
-First, you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat.
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+41@gmail.com 
-- Password: AskVA2025Testing
-
-Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
-
-**Prototype**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1) in the chat, show us how you would use Ask VA to do this. 
+[Link available here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
 
-Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
+Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
+
 
 - As you’re seeing this (for possibly the first time),   
   - What are your expectations from Ask VA?  
-  - How long would you expect it to take to complete your task through Ask VA? 
+  - How long would you expect it to take to complete your task through Ask VA?
+ 
+Now show us how you would use Ask VA to submit your documentation. 
 
 #### Probing questions:
 
@@ -146,6 +132,7 @@ Before you click on anything to complete this task, take a second to look around
 
   -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
+
 - **Attachment** \- Can you describe a time where you would or wouldn’t attach something to your question? 
 
 #### Things to watch for:
@@ -164,9 +151,9 @@ Before you click on anything to complete this task, take a second to look around
 - On a scale from 1-5, how satisfied were you with this process?   
   	*1 being very unsatisfied, and 5 being very satisfied*
 
-- What worked well for you when submitting something through Ask VA? What didn’t work well?   
+- What did you like about using Ask VA to submit documentation? What didn’t you like?   
 - What would you do next after submitting? What would you expect Ask VA to do next?
-- _(IF VETERAN AND SCO)_What differences might you expect when completing the form related to your status or services as a Veteran rather than your role as an SCO?
+- What differences might you expect when completing the form as a Veteran rather than as an SCO?
 - What might prompt you to return to Ask VA related to this specific submission? Is there anything in your process that leads you back here?
 
 ## Task 2: Review Question in Inbox \- 5 minutes
@@ -177,17 +164,16 @@ Before you click on anything to complete this task, take a second to look around
 > Participants will complete Task 2 in the same environment they completed Task 1. 
 
 **Staging**  
-You’ll need to login through ID.me again. I've provided a new link, email, and password for you in the chat.
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+220@gmail.com 
-- Password: AskVA2025Test
-
-Now let’s imagine, **\[Prompt from last question\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
+You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
 
 **Prototype**  
-So with that in mind, let’s imagine, **\[Prompt from last question\].** You're already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1) in the chat, show us how you would check on that submission using AskVA.
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
+
+Now let’s imagine, **\[Prompt from last question\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
 
 #### Probing questions:
@@ -195,33 +181,25 @@ So with that in mind, let’s imagine, **\[Prompt from last question\].** You're
 - **Inbox**  
   - What attributes of your submission are you looking for?  
   - What information is most important from what you see here?  
-  - Is there anything else that isn’t here that might be helpful to you in finding your previous question?  
+  - Is there anything else that isn’t here that might be helpful to you in finding your previous question?
+  - What order are you seeing your questions in? What order would you like to see them in?
+
 
 #### Things to watch for:
 
 - Where did they struggle, succeed? (Sort, filter, status, clicking a card)
 
-- Did they complete the task? 		
-
-  *Yes, Yes with help, No*
-
 #### 	Follow-up questions
 
-- On a scale from 1-5, how easy or difficult was it to complete that task?   
-  	*1 being very difficult, and 5 being very easy*
-
-- On a scale from 1-5, how satisfied were you with this process?   
-  	*1 being very unsatisfied, and 5 being very satisfied*
-
-- What worked well for you when reviewing your previous Ask VA submissions? What didn’t work well?
-- _(IF VETERAN AND SCO)_What differences might you expect when reviewing questions related to your status or services as a Veteran rather than your role as an SCO?
+- What did you like about reviewing your previous Ask VA submissions? What didn’t you like?
+- What differences might you expect when reviewing questions related as a Veteran rather than as an SCO?
 
 
-Now we’re going to ask you to complete very similar tasks in a slightly different system. We want to understand which experience you prefer. 
+Now we’re going to ask you to complete the same tasks in a slightly different system. Some things may be very similar, while others may be completely different. We want to understand which experience you prefer. 
 
 ---
 
-## Task 3: Submit Education and Work Study Question \[COMPARISON\] \- 10 minutes
+## Task 3: Submit Education and Work Study Question \[COMPARISON\] \- 7 minutes
 
 *Goal: Learn about problem areas in submitting the form for education requests from SCOs.* 
 
@@ -229,23 +207,16 @@ Now we’re going to ask you to complete very similar tasks in a slightly differ
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment.
 
 **Staging**  
-First, you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat.
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+41@gmail.com 
-- Password: AskVA2025Testing
-
-Again imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us how you would use Ask VA to do this. 
+Here you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
 
 **Prototype**  
-Imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’re already logged in and you’ve been directed to Ask VA to submit your documentation. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1137-15665&viewport=10%2C-677%2C0.06&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1137%3A15665&show-proto-sidebar=1) in the chat, show us how you would use Ask VA to do this. 
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
 
-Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
-
-- As you’re seeing this (for possibly the first time),   
-  - What are your expectations from Ask VA?  
-  - How long would you expect it to take to complete your task through Ask VA? 
+Just as we did before, I want you to imagine you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us again how you would use Ask VA to submit your documentation. 
 
 #### Probing questions:
 
@@ -274,10 +245,9 @@ Before you click on anything to complete this task, take a second to look around
 - On a scale from 1-5, how satisfied were you with this process?   
   	*1 being very unsatisfied, and 5 being very satisfied*
 
-- What worked well for you when submitting something through Ask VA? What didn’t work well?   
-- What would you do next after submitting? What would you expect Ask VA to do next?
+- What did you like about using Ask VA to submit documentation? What didn’t you like?   
 
-## Task 4: Review Question in Inbox \[COMPARISON\]- 5 minutes
+## Task 4: Review Question in Inbox \[COMPARISON\]- 8 minutes
 
 *Goal: Learn how SCOs expect to review their previous submissions.*
 
@@ -285,17 +255,17 @@ Before you click on anything to complete this task, take a second to look around
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment.
 
 **Staging**  
-You’ll need to login through ID.me again. I've provided a new link, email, and password for you in the chat.
-- Link: (https://staging.va.gov/contact-us/ask-va/introduction) 
-- Email: vets.gov.user+220@gmail.com 
-- Password: AskVA2025Test
+You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
+
+**Prototype**  
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
+
+##
 
 Again let’s imagine, **\[Prompt from Task 1\]** and you need to review a previous submission. Show us how you would check on that submission using AskVA. 
 
-**Prototype**  
-Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Using the [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form-Future-exploration?node-id=1091-10509&viewport=-1522%2C-6288%2C0.33&t=FjCNmXJMbOXAZpmA-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1091%3A10509&show-proto-sidebar=1) in the chat, show us how you would check on that submission using AskVA.
-
-##
 
 #### Probing questions:
 
@@ -303,24 +273,16 @@ Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Usi
   - What attributes of your submission are you looking for?  
   - What information is most important from what you see here?  
   - Is there anything else that isn’t here that might be helpful to you in finding your previous question?
+  - What order are you seeing your questions in? What order would you like to see them in?
+
 
 #### Things to watch for:
 
 - Where did they struggle, succeed? (Sort, filter, status, clicking a card)
 
-- Did they complete the task? 		
-
-  *Yes, Yes with help, No*
-
 #### 	Follow-up questions
 
-- On a scale from 1-5, how easy or difficult was it to complete that task?   
-  	*1 being very difficult, and 5 being very easy*
-
-- On a scale from 1-5, how satisfied were you with this process?   
-  	*1 being very unsatisfied, and 5 being very satisfied*
-
-- What worked well for you when reviewing your previous Ask VA submissions? What didn’t work well? 
+- What did you like about reviewing your previous Ask VA submissions? What didn’t you like?
 
 ## Post-Task Interview \- 5 minutes
 
