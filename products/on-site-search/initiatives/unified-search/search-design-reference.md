@@ -15,7 +15,7 @@ Searches for "secure messaging" lead to definitions instead of direct access.
 **3. Veterans have difficulty finding facilities, contacts, and specific digital services**  
 Searches for VA offices or phone numbers return zero or irrelevant results.
 
-**4. Multiple Search Tools Create Confusion and Fragmentation**  
+**4. Multiple search tools create confusion and fragmentation**  
 Veterans must navigate separate searches for forms, locations, and web content.
 
 ### Quick Reference: Four Themes
