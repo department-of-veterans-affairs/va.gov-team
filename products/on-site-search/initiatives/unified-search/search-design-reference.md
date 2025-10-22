@@ -56,8 +56,6 @@ Veterans who don't know the exact terminology get stuck. Those with more VA know
 
 ### Veteran sentiment
 
-> "I have been trying to add 2-step verification to my account for weeks. All I want is to use Google Authenticator App and I cannot find where to add the app. I CAN FIND ENDLESS ARTICLES OF WHY TO USE IT, BUT CANNOT FIND HOW TO INSTALL IT." → *Veteran knows what they want but can't find the action, only information*
-
 > "the search did not help me locate the specific office or page I was looking for today."
 > *User got **999 results**, first 10 were news items (wrong content type)*.
 
