@@ -1,5 +1,5 @@
-# Contact Center Product Guide
-# Onramp to 'Decision Reviews' Selection
+# Decision Reviews Contact Center Reference Guide
+## Supplementary guidance for assisting Veterans
 
 **Version:** 1.0 DRAFT
 **Date:** [INSERT DATE]
@@ -10,14 +10,16 @@
 
 ## Purpose of this guide
 
-This guide provides Contact Center (CC) staff with the information needed to assist Veterans using the Decision Reviews Onramp tool. The tool helps Veterans choose the most appropriate decision review pathway when they disagree with a VA decision on their disability compensation claim.
+This supplementary reference provides Contact Center (CC) staff with guidance for assisting Veterans with decision reviews and the Decision Reviews Onramp tool.
+
+**Note:** This is a supplementary document. The official product guide is `decision-reviews-onramp-product-guide.md`, which documents the tool's functionality with screenshots following VA's standard product guide template.
 
 **What you'll learn:**
-- What the Onramp tool is and why it exists
-- How to explain the three decision review pathways
-- How to assist Veterans using the tool
+- How to explain the three decision review pathways to Veterans
+- Scripts and guidance for assisting Veterans using the tool
 - Common questions and how to answer them
 - When and how to escalate issues
+- Background on decision review options
 
 ---
 
