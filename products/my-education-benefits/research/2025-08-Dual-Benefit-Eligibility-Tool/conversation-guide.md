@@ -49,9 +49,10 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototype and demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits. I’ll share the prototype from my screen, and will have you talk aloud and I will click and scroll on your behalf.
+
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -75,34 +76,32 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Wayfinding & the Self-review Tool Instructions Page (Authenticated) (3 minutes)
 
-**Send prototype link to user at this point**
+**Screenshare prototype to user at this point**
 
-**"Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by Rudisill, make new decisions about their education benefits. The Rudisill court decision impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool.** 
+**"Today you'll be looking at a tool on VA.gov that aims to help beneficiaries impacted by the Rudisill court decision, make new decisions about their education benefits. Rudisill impacts beneficiaries who have served at least two periods of service, one that qualifies them for the Montgomery GI Bill (MGIB) and another that qualifies them for the Post 9/11 GI Bill to potentially recieve additional education benefits. The goal of todays session is to gather your thoughts, understanding, and impressions of this tool. How does that sound?** 
 
-**What you are looking at now is the application instructions page for the tool we are exploring today. Please take a few moments to look around and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
+**What you are looking at now is the application instructions page for the tool we are exploring today. Please take a few moments to look around (and let me know where you'd like me to scroll) and when you're ready, talk me through anything that you are noticing at first and your understanding of what you're looking at."** 
 
 Probing questions:
 - What markers drew your attention there?
-- What is the your understanding of the tools purpose the descriptions here?
+- What is the your understanding of the tools purpose and the descriptions here?
 - Is there anything in particular that is helping you understand the purpose of the tool?
 - What is VA trying to tell you here?
 - Is there any information that the user notes as particularly helpful to see? Any information they are looking to find but did not?
 - Do you have any questions about the information presented here?
-
-**Once impressions are gathered, prompt the user to sign in. Gather any impressions of the authenticated state then move to Task 1.**
+- 
+**"If you wanted to start using the tool, what would you do next?"**
 
 #### Things to watch for:
 > - Where does the user initially look? Why? </br>
 > - What is the users understanding of the tools purpose from the link text and description copy? </br>
 > - How easily does the user find and understand the tool link? </br>
 > - How easily does the user understand the authenticated state? </br>
-> - Are there pain points or confusion for the user when logging in? </br>
+
 
 <p>&nbsp;</p>
 
 ## Task 1: Self Review Tool - Step 1 Your information (3 minutes)
-
-**"If you wanted to start using the tool, what would you do next?"**
 
 **[Ask this for both parts of Step 1]:"What is your first impression and how are you understanding the information you are looking at?"**
 
@@ -157,16 +156,16 @@ Probing questions:
 > - Where does the user look first on the recommendation? </br>
 > - Where is the user spending the most time?
 > - Does the user have questions about this process? </br>
-> - (If segmented layout) Does the user notice the "PGIB only" section? Do they look to it to compare?
+> - (If segmented layout) Does the user notice the "PGIB only/Alternative" section? Do they look to it to compare?
 <p>&nbsp;</p>
 
 ## Task 4: Self Review Tool - Step 3 - Locate alternate option (5-7 minutes)
 
-**"Let'sWhat is your first impression and how are you understanding the "alternate option benefits" information here?"**
+**"Let's say you you don't want to proceed with the recommended option. What would you do next?"**
 
 Probing questions:
 - What are you noticing or gravitating to first? Why?
-- How are you understanding the information under 'PGIB only'?
+- How are you understanding the information under 'Alternative'?
 - Is there any terminology that is familiar or unfamiliar to you?
 - What was the most helpful or important information here that helped you understand these benefits?
 - How are you interpreting the term 'Qualifying service'?
@@ -177,6 +176,7 @@ Probing questions:
 > - Does the user understand terminology used such as 'benefit level', 'relinquished', 'kicker'?
 > - Where is the user spending the most time?
 > - How is the user scanning the page? Is there a section that is particularly helpful or confusing?
+> - Does the user switch between the two tabs to compare information?
 <p>&nbsp;</p>
 
 
@@ -241,7 +241,7 @@ Probing questions:
 ## Post-Task Interview (5 minutes)
 
 - How was your experience in receiving the recommendedation in the flow?
-- How was your experience in creating your own distribution?
+- How was your experience in viewing the alternate option?
 - Was there anything in particular that was hard to find or confusing when using this tool? Anything that made it easier or that was clear for you to understand?
 - Was there anything in particular that helped build your trust and confidence in making decisions about your education benefits?
 - Any questions for me? 
