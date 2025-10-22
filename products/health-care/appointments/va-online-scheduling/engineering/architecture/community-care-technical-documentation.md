@@ -177,7 +177,7 @@ sequenceDiagram
     Frontend-->>User: Display appointment data
 ```
 
-### Appointment Cancellation (as of 10/22/25)
+### Appointment Cancellation (as of 10.22.25)
 ```mermaid
 sequenceDiagram
     participant Client as Frontend Client
@@ -588,3 +588,10 @@ Response:
 ## Open Questions and Future Considerations
 1. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
 2. Get user data from full auth user object in vets-api to get address and phone and email
+
+### Open cancellation questions (last updated 10.22.25)
+1. When appointment status is updated in EPS to cancelled, does the status update take effect for the appointment in VAOS via the same manual transfer process as creation (staff / "swivel chair" process)?
+2. If the status of the corresponding VAOS appointment is not updated by staff do we need to send a request to VAOS to update the appointment at the time the EPS appointment status update request is sent? - This is our current plan.
+3. If the appointment is created and cancelled in EPS before it appears in VAOS does the appointment still appear and if so does it appear with cancelled status?
+4. If the appointment is surfaced in EPS but not yet in VAOS should we disallow cancellation until it surfaces in VAOS? - This is our current plan.
+5. If the cancellation request to one of the sources succeeds but the other does not, what notification / appointment status should be displayed to the veteran?
