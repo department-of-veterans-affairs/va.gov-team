@@ -74,7 +74,8 @@ body:
     id: oob-issue
     attributes:
       label: Link to OOB Issue 
-      placeholder: - If this deploy is part of an OOB, paste the OOB issue link here.
+      placeholder: |
+        - If this deploy is part of an OOB, paste the OOB issue link here.
 
   - type: checkboxes
     id: post-deployment-verification
