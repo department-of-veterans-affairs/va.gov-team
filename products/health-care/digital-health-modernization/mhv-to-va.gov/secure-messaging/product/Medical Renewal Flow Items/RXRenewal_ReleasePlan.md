@@ -85,7 +85,85 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 -Who is monitoring the dashboard(s)?: **UX Leads, Engineering Lead, and Product Manager**
     
 
-##  Metrics Based Criteria: (Update HERE)
+##  Metrics Based Criteria: UPDATES NEEDED HERE. Ticket in Progress with ENG
+
+
+
+
+
+## Monitoring (Post Monitoring Documentation)- UPDATES NEEDED HERE POST LAUNCH by PM
+
+
+**Stage A: 5% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 1 day, January 15 (Update Here_
+-Percentage of Users (and roughly how many users do you expect this to be):**5%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX (Update Here)
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
+
+**Stage B: 25% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 
+-Percentage of Users (and roughly how many users do you expect this to be): **25%**
+
+**Results**
+-Number of unique users: 
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: 
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
+
+**Stage C: 50% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 
+-Percentage of Users (and roughly how many users do you expect this to be): **50%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: None
+
+
+**Stage D: 75% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: XX
+-Percentage of Users (and roughly how many users do you expect this to be): **75%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: Error messaging for pages - work ongoing.
+
+
+**Stage E: 100% of users**
+**Planning**
+-Length of time: XX
+-Percentage of Users: **100%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: [PICK_ONE]: no
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Error messaging deploys on Monday
+
 
 
 
