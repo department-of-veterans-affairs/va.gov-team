@@ -118,7 +118,7 @@ You’ll need to login through ID.me. I've provided a link, email, and password 
 - Password: AskVA2025Testing
 
 **Prototype**  
-I've provided a link for you in the chat. You can click through the ID.me login to get to where we need to start. 
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)
 
 ##
@@ -180,7 +180,7 @@ You’ll need to login again through ID.me. I've provided a link, email, and pas
 - Password: AskVA2025Testing
 
 **Prototype**  
-I've provided another link for you in the chat. You can click through the ID.me login to get to where we need to start. 
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)
 
 ##
@@ -219,7 +219,7 @@ Here you’ll need to login through ID.me. I've provided a link, email, and pass
 - Password: AskVA2025Testing
 
 **Prototype**  
-I've provided a new link for you in the chat. You can click through the ID.me login to get to where we need to start. 
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?page-id=1082%3A88179&node-id=1085-93727&viewport=316%2C265%2C0.05&t=8czgDADldTZumgAg-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1085%3A93727&show-proto-sidebar=1&hide-ui=1)
 
 ##
@@ -271,7 +271,7 @@ You’ll need to login again through ID.me. I've provided a link, email, and pas
 - Password: AskVA2025Testing
 
 **Prototype**  
-I've provided another link for you in the chat. You can click through the ID.me login to get to where we need to start. 
+I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 [link](https://www.figma.com/proto/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Future-exploration?node-id=1154-18648&viewport=-315%2C-640%2C0.17&t=FjCNmXJMbOXAZpmA-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1154%3A18648&show-proto-sidebar=1&hide-ui=1)
 
 ##
