@@ -1,8 +1,73 @@
-# [DRAFT] Research Findings for Providing Veterans with a Copy of Form Submission
+---
+title: Research Findings for Providing Veterans with a Copy of Form Submission
+product: Disability Benefits Crew
+team: Disability Benefits, Core Team
+office: Office of the CTO - Digital Experience (OCTO-DE)
+date: 2025-10-04
+researchers:
+  - Qian Chen
+  - Kevin Shih
+  - Irene Vailikit
+research_goals:
+  - Gather feedback on the overall content of the confirmation page.
+  - Evaluate the effectiveness of the formatting and visual hierarchy of submitted information within the confirmation page's accordion.
+  - Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page.
+  - Determine if users understand how and are able to save and/or print all the content from the confirmation page.
+methodology:
+  - "Moderated, structured and remote user interviews"
+devices_used:
+  desktop: 3
+  tablet: 1
+  smartphone: 4
+participants_total: 8
+demographics:
+  veterans: 8
+  age:
+    35-44: 3
+    45-54: 2
+    55-64: 1
+    65+: 2
+  education:
+    Some college (no degree): 1
+    Associate's degree, trade certificate or vocational training: 1
+    Bachelor's degree: 2
+    Master's degree: 3
+    Doctorate degree: 1
+  location:
+    Urban: 6
+    Rural: 2
+  race:
+    White: 4
+    Black: 1
+    Hispanic: 2
+    Asian: 1
+  disability:
+    n/a
+key_findings:
+  - Some participants (5/8) were able to intuitively interact with the submitted data accordion on the confirmation page.
+  - Almost all participants (7/8) thought the most useful piece of information on the confirmation page is their claim status, which is found in the green box.
+  - None of our participants understood that the info on the confirmation page disappears after they leave the page.- Most participants (6/8) thought they could still edit and modify their application from the confirmation page after submission.
+  - All of our participants (8/8) were able to find specific pieces of information in their copies of submission within the accordion, despite its length.
+  - Most participants (5/7) did not expect to see skipped questions and sections in their copies of submission.
+  - From the confirmation page, all of our participants (7/7) were able to correctly articulate what happens next in the disability claim process.
+  - From the confirmation page, all of our participants (7/7) were able to locate how to ask the VA for help on their disability claim.
+  - All of our participants (7/7) were able to successfully save their copies of submission from the confirmation page.
+  - Most participants (5/7) were able to articulate the value of having a saved copy of their submission.
+recommendations:
+  - Explore how to make the data submitted accordion a component that stands out to users, especially on mobile.
+  - Explore how to explicitly indicate to users that the info on the confirmation page will disappear once they leave the page.
+  - Explore how we can make a user’s copy of submission accessible to them from VA.gov after they leave the confirmation page.
+  - Explore how we can make it clearer to users that the "Print this page for your records" button will allow them to print everything on the page, including the info within the accordion, regardless of whether it is expanded or not.
+synthesis_tools_used:
+  - "Mural"
+  - "EnjoyHQ"
+---
+
+# Research Findings for Providing Veterans with a Copy of Form Submission
 
 **Office of the CTO - Digital Experience (OCTO-DE), Benefits Claim Application, Core Team**
 
-**Date:** 10/17/2025
+**Date:** 10/10/2025
 
 **Contacts:** Kevin Shih, Irene Vailikit, Qian Chen
 
@@ -10,46 +75,46 @@
 - [Background](#background)
 - [Research Goals](#research-goals)
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Next Steps](#next-steps)
-- [Further research needed](#further-research-needed)
+- [Findings](#details-of-findings)
+- [Recommendations](#detailed-recommendations)
 - [Methodology](#methodology)
 - [Who we talked to](#who-we-talked-to)
 
 ## Background
-At the present, Veterans cannot see, download, or print a copy of their completed disability application data (form 526ez, and nested forms) for their records after they submit their claims online. Previous research has shown that Veterans would like to keep a copy of their completed and submitted form for their records. To address this user need, we have built a prototype by implementing the design platform's pattern "[keep a record of submitted information](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)" in a new confirmation page to enable users to access what they entered on the disability benefits form after they click "Submit." In this prototype, we have also added header titles to make the information hierarchy more scannable.
-
-[Insert screenshot of prototype]
+At present, Veterans cannot see, download, or print a copy of their completed disability application data (form 526ez, and nested forms) for their records after they submit their claims online. Previous research has shown that Veterans would like this functionality. To address this, we built a prototype by implementing the design platform's pattern "[keep a record of submitted information](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)" in a new confirmation page that enables users to access what they entered on the disability benefits form after they click "Submit." In this prototype, we have also added header titles to make the information hierarchy more scannable.
 
 This research evaluates our updates and proposed improvements to online disability benefits form's confirmation page.
 
+[Insert screenshot of prototype]
+
+
 ## Research Goals
-1. Gather feedback on the overall content of the confirmation page.   
-      -  Without any prompts, how do users interact with the confirmation page?
-      -  What sections of the confirmation page do users find the most valuable?
-      -  What sections of the confirmation page do users have questions about?
-      -  Do people understand they won’t be able to come back to this page once they leave it?
-      -  How do people expect to access a copy of their submission after they leave this page?
-2. Evaluate the effectiveness of the formatting and visual hierarchy of submitted information within the confirmation page's accordion.
-      - Can a user easily interact with the accordion and find the information they submitted?
-      - Can a user find specific pieces of information within the accordion? (e.g., Dates of service, conditions, etc)
-      - Do users intuitively understand that the accordion only shows information they inputted (i.e., it omits sections of the 526EZ form that they skipped)?
-3. Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page.
-      - From the confirmation page, are the users clear on the next steps of the claims process and how to reach out to VA for help?
-4. Determine if users understand how and are able to save and/or print all the content from the confirmation page.
-      - Can a user view/save/and print their submitted information?
-      - Without intervention, how would users save the content on the confirmation page?
-      - When printing the page, what do users expect to be actually printed from the confirmation page?
-      - Is the default browser functionality for printing (button for ‘Print this page’) sufficient and intuitive for all users?
+1. Gather feedback on the overall content of the confirmation page.
+    - Without any prompts, how do users interact with the confirmation page?
+    - What sections of the confirmation page do users find the most valuable?
+    - What sections of the confirmation page do users have questions about?
+    - Do people understand they won’t be able to come back to this page once they leave it?
+    - How do people expect to access a copy of their submission after they leave this page?
+1. Evaluate the effectiveness of the formatting and visual hierarchy of submitted information within the confirmation page's accordion.
+    - Can a user easily interact with the accordion and find the information they submitted?
+    - Can a user find specific pieces of information within the accordion? (e.g., Dates of service, conditions, etc)
+    - Do users intuitively understand that the accordion only shows information for questions they answered  (that is, it omits sections of the 526EZ form that they skipped)?
+1. Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page.
+    - From the confirmation page, are the users clear on the next steps of the claims process and how to reach out to VA for help?
+1. Determine if users understand how and are able to save and/or print all the content from the confirmation page.
+    - Can a user view/save/and print their submitted information?
+    - Without intervention, how would users save the content on the confirmation page?
+    - When printing the page, what do users expect to be printed from the confirmation page?
+    - Is the default browser functionality for printing (button for ‘Print this page’) sufficient and intuitive for all users?
+
 
 
 ## Hypotheses and Conclusions
 | Hypothesis                                                                                      | Conclusion                                                                                                                                                                                                 |
 |:------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Most participants are able to intuitively interact with the submitted data accordion to find the info they entered in their disability benefits application.| **Mostly true.** Some participants (5/8) were able to intuitively interact with the accordion. However, all of our participants (8/8) knew they would find the info they entered in their disability benefits application in the submitted data accordion.|
-| Most participants will not understand that the info on this page disappears (i.e., not retrievable) after they quit/leave the page. | **True.** All of our participants (7/7) thought their copies of submission were retrievable on VA.gov after they leave the confirmation page.|
-| Most participants will be able to find specific pieces of information they filled out in their application within the accordion, despite its length. | **True.** All of our participants (8/8) were able to pinpoint our demo user's toxic exposure info and military services dates within the accordion.|
+| Most participants are able to intuitively interact with the submitted data accordion to find the information they entered in their disability benefits application.| **Mostly true.** Some participants (5/8) were able to intuitively interact with the accordion. However, all of our participants (8/8) knew they would find the information they entered in their disability benefits application in the submitted data accordion.|
+| Most participants will not understand that the information on this page disappears (i.e., not retrievable) after they quit/leave the page. | **True.** All of our participants (7/7) thought their copies of submission were retrievable on VA.gov after they leave the confirmation page.|
+| Most participants will be able to find specific pieces of information they filled out in their application within the accordion, despite its length. | **True.** All of our participants (8/8) were able to pinpoint our demo user's toxic exposure information and military services dates within the accordion.|
 | From the confirmation page, most participants are able to learn what happens next in the disability claim process. | **True.** All of our participants (7/7) were able to accurately articulate what the current status of the demo user's application is and what is going to happen next with the application.|
 | From the confirmation page, most participants will be able to locate how to ask the VA for help on their disability claim.| **True.** All of our participants (7/7) were able to easily locate the information on how to ask the VA for help on their disability claim on the confirmation page.|
 | Most participants will be able to successfully save or print their submitted information. | **True.** All of our participants (7/7) were able to successfully save their submitted information.|
@@ -60,31 +125,30 @@ This research evaluates our updates and proposed improvements to online disabili
 
 ## Key Findings
 1. [Some participants (5/8) were able to intuitively interact with the submitted data accordion on the confirmation page.](#1-some-participants-were-able-to-intuitively-interact-with-the-submitted-data-accordion-on-the-confirmation-page)
-2. [Almost all participants (7/8) thought the most useful piece of information on the confirmation page is their claim status, which is found in the green box.](#2-almost-all-participants-thought-the-most-useful-piece-of-information-on-the-confirmation-page-is-their-claim-status-which-is-found-in-the-green-box)
-3. [All of our participants (7/7) did not understand that the info on the confirmation page disappears (i.e., not retrievable) after they leave the page.](#3-all-of-our-participants-did-not-understand-that-the-info-on-the-confirmation-page-disappears-ie-not-retrievable-after-they-leave-the-page)
-4. [Most participants (6/8) thought they could still edit and modify their submission from the confirmation page, even though they needed to officially submit their online application to get to the confirmation page.](#4-most-participants-thought-they-could-still-edit-and-modify-their-submission-from-the-confirmation-page-even-though-they-needed-to-officially-submit-their-online-application-to-get-to-the-confirmation-page)
-5. [All of our participants (8/8) were able to find specific pieces of information in their copies of submission within the accordion, despite its length.](#5-all-of-our-participants-were-able-to-find-specific-pieces-of-information-in-their-copies-of-submission-within-the-accordion-despite-its-length)
-6. [Most participants (5/7) did not expect to see skipped questions and sections in their copies of submission.](#6-most-participants-did-not-expect-to-see-skipped-questions-and-sections-in-their-copies-of-submission) 
-7. [From the confirmation page, all of our participants (7/7) were able to correctly articulate what happens next in the disability claim process.](#7-from-the-confirmation-page-all-of-our-participants-were-able-to-correctly-articulate-what-happens-next-in-the-disability-claim-process)
-8. [From the confirmation page, all of our participants (7/7) were able to locate how to ask the VA for help on their disability claim.](#8-from-the-confirmation-page-all-of-our-participants-were-able-to-locate-how-to-ask-the-va-for-help-on-their-disability-claim)
-9. [All of our participants (7/7) were able to successfully save their copies of submission from the confirmation page.](#9-all-of-our-participants-were-able-to-successfully-save-their-copies-of-submission-from-the-confirmation-page)
-10. [Most participants (5/7) were able to articulate the value of having a saved copy of their submission.](#10-most-participants-were-able-to-articulate-the-value-of-having-a-saved-copy-of-their-submission)
+1. [Almost all participants (7/8) thought the most useful piece of information on the confirmation page is their claim status, which is found in the green box.](#2-almost-all-participants-thought-the-most-useful-piece-of-information-on-the-confirmation-page-is-their-claim-status-which-is-found-in-the-green-box)
+1. [None of our participants (0/7) understood that the information on the confirmation page disappears after they leave the page.](#3-none-of-our-participants-understood-that-the-information-on-the-confirmation-page-disappears-after-they-leave-the-page)
+1. [Most participants (6/8) thought they could still edit and modify their application from the confirmation page after submission.](#4-most-participants-thought-they-could-still-edit-and-modify-their-application-from-the-confirmation-page-after-submission)
+1. [All of our participants (8/8) were able to find specific pieces of information in their copies of submission within the accordion, despite its length.](#5-all-of-our-participants-were-able-to-find-specific-pieces-of-information-in-their-copies-of-submission-within-the-accordion-despite-its-length)
+1. [Most participants (5/7) did not expect to see skipped questions and sections in their copies of submission.](#6-most-participants-did-not-expect-to-see-skipped-questions-and-sections-in-their-copies-of-submission)
+1. [From the confirmation page, all of our participants (7/7) were able to correctly articulate what happens next in the disability claim process.](#7-from-the-confirmation-page-all-of-our-participants-were-able-to-correctly-articulate-what-happens-next-in-the-disability-claim-process)
+1. [From the confirmation page, all of our participants (7/7) were able to locate how to ask the VA for help on their disability claim.](#8-from-the-confirmation-page-all-of-our-participants-were-able-to-locate-how-to-ask-the-va-for-help-on-their-disability-claim)
+1. [All of our participants (7/7) were able to successfully save their copies of submission from the confirmation page.](#9-all-of-our-participants-were-able-to-successfully-save-their-copies-of-submission-from-the-confirmation-page)
+1. [Most participants (5/7) were able to articulate the value of having a saved copy of their submission.](#10-most-participants-were-able-to-articulate-the-value-of-having-a-saved-copy-of-their-submission)
 
 
+## Key Recommendations
+1. Explore how to make the data submitted accordion a component that stands out to users, especially on mobile.
+1. Explore how to explicitly indicate to users that the info on the confirmation page will disappear once they leave the page.
+1. Explore how we can make a user’s copy of submission accessible to them from VA.gov after they leave the confirmation page.
+1. Explore how we can make it clearer to users that the "Print this page for your records" button will allow them to print everything on the page, including the info within the accordion, regardless of whether it is expanded or not.
 
 
-# Details of Findings 
+## Details of Findings 
 
 ### 1. Some participants were able to intuitively interact with the submitted data accordion on the confirmation page.
-When tasked to think-out-loud as they read through the confirmation page for the first time, 5 of 8 participants noticed the submitted data accordion without prompting. Three participants missed the accordion, and they were all accessing their research sessions from either their smartphones (2) or tablet (1). When reviewing the page, they noticed the "Print this page for your records" button and then found the "What to expect" section immediately afterwards, completely skipping the submitted data accordion.
+When tasked to think-out-loud as they read through the confirmation page for the first time, 5 of 8 participants noticed the submitted data accordion without prompting. 3 participants missed the accordion, and they were all accessing their research sessions from either their smartphones (2) or tablet (1). When reviewing the page, they noticed the "Print this page for your records" button and then found the "What to expect" section immediately afterwards, completely skipping the submitted data accordion.
 
 [Screenshot for mobile focused in on the print-what to expect]
-
-Although P1 and P9 were among the participants that noticed the submitted data accordion without prompting, they expressed some concerns with how the accordion is displayed on the confirmation page. P9 explicitly told us that their prior experience with VA.gov has made them aware that the accordion is expandable, and P1 speculated that older veterans are likely to miss the accordion.
-
-> “Because I’ve seen the VA website before, I know this is the accordion. But on another website I might not have known. I would have skipped past it.” - P9
-
-> “…A heck of a lot of veterans are older. And not as computer savvy. Whether it's plus or minus, if there was a place that said, ‘click on plus if you want to expand and click on minus if you want to reduce,’ that wouldn't be a bad thing to have at some point, so that…people understand that that's not just information.” - P1
 
 Even though some of our participants missed the accordion when they first encountered the confirmation page, all of our participants (8/8) knew they would find the info they entered in their disability benefits application in the submitted data accordion once the component was brought to their attention. This provides strong evidence that "Information you submitted on this form" is a clear enough descriptor for the submitted data accordion.
 
@@ -96,36 +160,36 @@ After reviewing the confirmation page in its entirety, almost all of our partici
 
 > "Literally just this part [is most important to me]... like just knowing that the claim was submitted, the date it was submitted, what I submitted for, just getting confirmation that it was done." - P5
 
-Some participants (P9 and P8) find the status of their application so important that they admitted that the next thing they would most likely do when they land on the confirmation page is to click on the "Check the status of your form on My VA" link before scrolling through the rest of the page.
+Some participants (P9 and P8) find the status of their application so important that they admitted that the next thing they would most likely do when they land on the confirmation page is to click on the "Check the status of your form on My VA" link before scrolling through the rest of the page. Although both participants expected to be able to find their applications in their My VA accounts at this time, there currently is a lag between Veterans submitting their applications and it showing up in their My VA accounts. In other words, at the present, they would not be able to find their applications if they clicked on the “Check the status of your form on My VA” link from the confirmation page.
 
 > "I want to check the status of my forms... so I'll be honest... I'd probably clicked that [link found in the green box] before I went through [the rest of the page]." - P8
 
 Only P6 thought that the claim ID found in the blue box is the most useful piece of information.
 
 
-### 3. All of our participants did not understand that the info on the confirmation page disappears (i.e., not retrievable) after they leave the page. 
+### 3. None of our participants understood that the information on the confirmation page disappears after they leave the page.
 Currently, Veterans who apply for disability benefits online do not have a way to access a copy of their form, including their verbatim answers to all of the questions, after they have submitted the application. When asked how they would expect to access a copy of their form submission after they leave our confirmation page, 7 of 7 participants thought they could retrieve their copies of submission on VA.gov by logging into their accounts and going to their records.
 
 > "I would probably go to VA Benefits and Healthcare, and then locate my claims, and then there'd somehow, someway, be a way to get back to this page or a version of this page, and get my information." - P5
 
-Although its true that they can find the status of their disability benefits application on VA.gov (specifically My VA) after they submitted, and there is a record of some of the info (e.g., conditions) they submitted in their application, there is no way to retrieve all of their answers to their applications from their VA accounts online. 
+Although it is true that they can find the status of their disability benefits application on VA.gov (specifically My VA) after they submitted, and there is a record of some of the info (e.g., conditions) they submitted in their application, there is no way to retrieve all of their answers to their applications from their VA accounts online.
 
 
-### 4. Most participants thought they could still edit and modify their submission from the confirmation page, even though they needed to officially submit their online application to get to the confirmation page.
-Although we never explicitly asked our participants about this, most participants (6/8) expressed that they could go back and edit and modify their disability benefits applications online if they noticed there is something that they would like to change in their copy of submission. 
+### 4. Most participants thought they could still edit and modify their application from the confirmation page after submission.
+Although we never explicitly asked our participants about this, most participants (6/8) expressed that they could go back and edit and modify their disability benefits applications online if they noticed there is something that they would like to change in their copy of submission.
 
-P1, P3, P5, and P6 explicitly talked about going back into the online form and editing their answers if they noticed there were answers they’d like to change. P1 and P5 believes that the way to go back to edit their answers from the confirmation page is by clicking on the link in the green box: "Check the status of your form on My VA", whereas P6 believes they can find a edit button next to their disability form under their My VA account's submissions. 
+P1, P3, P5, and P6 explicitly talked about going back into the online form and editing their answers if they noticed there were answers they’d like to change. P1 and P5 believe that the way to go back to edit their answers from the confirmation page is by clicking on the link in the green box: "Check the status of your form on My VA", whereas P6 believed they can find an edit button next to their disability form under their My VA account's submissions.
 
 > "If I am remembering correctly, this can all be edited even after submission, but I can't remember. I think if the claim wasn't fully submitted, I could go back and finish it... But I believe it takes you to another form entirely." - P5
 
-On the other hand, P2 and P7 (as well as P3) expressed that they still have the ability to submit more documents and evidence to prove the nexus between their conditions and service history. Given that P2, P3, and P7 (like all of our other participants) have had prior experience applying for disability benefits, it sounds like they have gone back and forth with the VA to submit the "right" evidence to acquire a desired rating for their service-related condition. In that regard, their conceptions of how they can modify their submission from the confirmation page is not inaccurate.
+On the other hand, P2, P3 and P7 expressed that they still have the ability to submit more documents and evidence to prove the nexus between their conditions and service history. Given that P2 and P7 (like all of our other participants) have had prior experience applying for disability benefits, they suggested that they have gone back and forth with the VA to submit the "right" evidence to acquire a desired rating for their service-related condition. In that regard, their conceptions of how they can modify their submission from the confirmation page is accurate.
 
 > "Although this did not come up in my situation, I helped another Vet recently, and he forgot to put something down in the original form. [It would be nice to see a] text box saying, 'Okay if you forget something, if you didn't list all of your injuries, you can always come back and add that.'"(when asked what they would like to see changed about the confirmation page) - P2
 
-For what it's worth, this study’s setup may have influenced our participants’ beliefs of what they can and cannot do from the confirmation page. Although we did show our participants the “Review and Submit” page before we asked them to engage with the confirmation page, the fact that we did not ask them to seriously engage with “Review and Submit” page, may have led them into thinking that they can still review and edit the content on their copy of submission found on the confirmation page.
+This study’s setup may have influenced our participants’ beliefs of what they can and cannot do from the confirmation page. To try to get our participants into the appropriate mindset for our usability testing, we showed each participant a “Review and Submit” page before taking them to the confirmation page. Because we didn't ask participants to seriously engage with the 'Review and Submit' page, our participants may have thought they could still edit their submissions on the confirmation page.
 
 ### 5. All of our participants were able to find specific pieces of information in their copies of submission within the accordion, despite its length.
-To evaluate the scanability of the information architecture in our confirmation page prototype, we asked our participants to find pieces of information in the page's copy of submission. Specifically we asked all of our users to look for the demo user's:
+To evaluate the scannability of the information architecture in our confirmation page prototype, we asked our participants to find pieces of information in the page's copy of submission. Specifically, we asked all of our users to look for the demo users:
 
 1. Military service dates
 2. Asbestos and radiation exposure info
@@ -139,8 +203,8 @@ When asked about their experience looking for submitted information on the confi
 > "[The experience of finding the demo user's military service dates is] pretty easy. I mean very simply, you just have to scroll." - P6
 
 
-### 6. Most participants did not expect to see skipped questions and sections in their copies of submission. 
-When asked if they would expect to see the questions they skipped in their copies of submission, 5 of 7 participants said they did not expect to see what they skipped in their disability benefits application to be displayed on the confirmation page. 
+### 6. Most participants did not expect to see skipped questions and sections in their copies of submission.
+When asked if they would expect to see the questions they skipped in their copies of submission, 5 of 7 participants said they did not expect to see what they skipped in their disability benefits application to be displayed on the confirmation page.
 
 P1 and P6 were the only participants that thought it would be nice to see the optional questions and sections they skipped displayed on the confirmation page. Instead of having the optional questions embedded in their respective sections in the disability benefits form, P1 would like to see a dedicated "Optional questions not answered" section for them to review on the confirmation page. On the other hand, P6 thought having the skipped questions displayed would provide ease of mind - another chance to make sure they have filled out everything appropriately in their disability benefits application.
 
@@ -148,9 +212,9 @@ P1 and P6 were the only participants that thought it would be nice to see the op
 
 
 ### 7. From the confirmation page, all of our participants were able to correctly articulate what happens next in the disability claim process.
-When asked what the current status of the application is as they are on the confirmation page, all of our participants (7/7) were able to correctly articulate what is happening next to their application - they need to wait to receive an email from the VA confirming their submission. Most of the participants (5/7) were able to glean this information from the green box at the very top of the page, whereas P3 and P7 found this information from the "What to expect" section.
+When asked what the current status of the application is while on the confirmation page, all of our participants (7/7) were able to correctly articulate what happens next to their application - they need to wait to receive an email from the VA confirming their submission. Most of the participants (5/7) were able to glean this information from the green box at the very top of the page, whereas P3 and P7 found this information from the "What to expect" section.
 
-Although everybody was able to articulate what is going to happen next in the disability claim process, there was some confusion about what the actual status of the submission is when someone is on the confirmation page. P3, P8, and P9 were able to accurately articulate that the submission is started. On the other hand, P1 claimed that their application is accepted when they are on the confirmation page, which is technically incorrect. P5, P6, and P7 described their application as submitted, with P6 and P7 expressing explicit uncertainty as to what this means.
+Although everybody was able to articulate what happens next in the disability claim process, there was some confusion about what the actual status of the submission is when someone is on the confirmation page. P3, P8, and P9 were able to accurately articulate that the submission is started. On the other hand, P1 claimed that their application is accepted when they are on the confirmation page, which is technically incorrect. P5, P6, and P7 described their application as submitted, with P6 and P7 expressing explicit uncertainty as to what this means.
 
 > "I mean, when we submit it, it would just be nice just for it to just say, okay, your form is submitted, it's gonna take so many days for us to get back to you, but for them to receive the form. I thought we were already submitting the form." - P6
 
@@ -160,8 +224,9 @@ Although everybody was able to articulate what is going to happen next in the di
 ### 8. From the confirmation page, all of our participants were able to locate how to ask the VA for help on their disability claim.
 From the confirmation page, we asked our participants to find how they could ask for help or how they could contact the VA if they had any questions about their online disability benefits application. 7 of 7 of participants were able to successfully locate the "How to contact us if you have questions" section on the confirmation page.
 
+
 ### 9. All of our participants were able to successfully save their copies of submission from the confirmation page.
-When asked to save a copy of their submission from the confirmation page, all of our participants (7/7) were able to successfully do so by "printing" the page. 6 of the 7 participants chose to save a copy via the "Print this page for your records" button on the page, in which they would either print a hard-copy or save a pdf of the page. P5 would use their browser’s print function to achieve the same results.
+When asked to save a copy of their submission from the confirmation page, all of our participants (7/7) were able to successfully do so by "printing" the page. 6 of the 7 participants chose to save a copy via the "Print this page for your records" button on the page, in which they would either print a hard-copy or save a PDF of the page. P5 would use their browser’s print function to achieve the same results.
 
 3 of 7 participants expressed confusion as to what is being saved when they choose to print the page. P6, accessing the page from their phone, thought the print function would only allow them to print the first half of the page (i.e., the green and blue box before the accordion), and they would take screenshots of what is presented within the accordion. P5 and P9 erroneously thought that they needed to explicitly expand the accordion for the contents within the accordion to be printed. This confusion around what would be printed goes beyond device-type, as P5 and P6 joined their sessions with their phones, and P9 joined with their desktop/laptop computer.
 
@@ -181,7 +246,7 @@ Among the two participants that think it was not useful to save a copy of their 
 
 ## Additional Insights
 #### Showing the "dependents" section only for users who have dependents
-With the way its currently organized, P5 thought the dependents section was difficult to sift through:
+With the way it’s currently organized, P5 thought the dependents section was difficult to sift through:
 
 > “For a veteran with anxiety, this is already too much right here [mouses over "if I have dependents"] they're not going to read all this. [Maybe] there's a simpler way to ask these questions and direct them immediately to what they need to do?” - P5
 
@@ -206,21 +271,27 @@ When asked how they would change the confirmation page, some participants though
 
 
 
-## Recommendations
-1. **Recommendation:** Explore how to make the data submitted accordion a component that stands out to users, especially on mobile.   
+## Detailed Recommendations
+1. **Recommendation:** Explore how to make the data submitted accordion a component that stands out to users, especially on mobile.
+   - <u>Priority</u>: Critically important
+   - <u>Estimated size of work to implement</u>: M   
    - _Supporting evidence: Given that a substantial number of our participants (3/8) missed the data submitted accordion without prompting, and that most of our participants would find value in keeping a copy of their submission, it is crucial that we make the accordion a component that users cannot miss so they know they could save a copy of their submission from the confirmation page._
-1. **Recommendation:** Explore how to explicitly indicate to users that the info on the confirmation page will disappear once they leave the page.  
+1. **Recommendation:** Explore how to explicitly indicate to users that the information on the confirmation page will disappear once they leave the page.
+   - <u>Priority</u>: Very important
+   - <u>Estimated size of work to implement</u>: S     
    - _Supporting evidence: Given there is a misconception among participants that the confirmation page and their copy of submission is retrievable in My VA, there is a good chance that Veterans who want to keep a copy of submission would miss their chance to do so if we don't explicitly indicate to users that this page and its corresponding info will not be retrievable once they leave the page._
+1. **Recommendation:** Explore how we can make a user’s copy of submission accessible to them from VA.gov after they leave the confirmation page.
+   - <u>Priority</u>: Very important
+   - <u>Estimated size of work to implement</u>: XL     
+   - _Supporting evidence: As all of our participants believed there was a way to retrieve their copies of submission from My VA after they leave the confirmation page, we should match our users’ mental models and provide them with a way to retrieve their copies of submission from VA.gov after they submitted their application._
 1. **Recommendation:** Explore how we can make it clearer to users that the "Print this page for your records" button will allow them to print everything on the page, including the info within the accordion, regardless of whether it is expanded or not.
+   - <u>Priority</u>: Important
+   - <u>Estimated size of work to implement</u>: S  
    - _Supporting evidence: There was some confusion among participants about what would be printed if they clicked on the "print" button, leading one participant to actually consider taking screenshots of the info within the accordion. As we want our participants to efficiently engage with this page (with no ambiguity in what happens when they do something), it might be helpful to explicitly indicate to our users what will be printed when they engage with the "print" button._
-
-## Next Steps
-
-Share findings and recommendations with the Disability Benefits Core Form Team. 
 
 
 ## Methodology 
-We conducted one-hour moderated remote usability sessions with 8 Veterans from 9/22/25 - 9/29/25. During each session, participants were tasked to interact with a functional, high-fidelity prototype in a Codespaces environment. Participants were asked to assume the identity of a demo user and interact with 3 pages:
+We conducted one-hour moderated remote usability sessions with 8 Veterans from Sept. 22, 2025 to Sept. 29, 2025. During each session, participants were tasked to interact with a functional, high-fidelity prototype in a Codespaces environment. Participants were asked to assume the identity of a demo user and interact with 3 pages:
 
 -   **Page 1: Login Page**
 
@@ -401,4 +472,3 @@ This research does not include the perspectives of the following marginalized Ve
 | Captions | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Switch Device | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Braille Reader | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
