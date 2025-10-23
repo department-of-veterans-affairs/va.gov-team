@@ -143,25 +143,16 @@ This research can impact Veterans across many phases of the Veteran journey from
 
 **Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
-- How easily can Veterans using a screen reader or screen magnifer locate the forms section within the mobile app?
-- What steps do Veterans using a screen reader or screen magnifer take to start a new form from within the app?
-- Are there any points of confusion or difficulty when Veterans using a screen reader or screen magnifer attempt to start a new form?
+- Veterans using a screen reader or screen magnifer will be able to easily locate the forms section within the mobile app without extensive guidance.
+- Veterans will be able to follow the intended navigation steps to start a new form from within the app.
 
 **Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
-- Can Veterans using a screen reader or screen magnifer independently complete all required fields in a form using the mobile app?
-- Do Veterans using a screen reader or screen magnifer understand the instructions and language used in the forms?
-- How do Veterans interpret the status of the form once the form is submitted
-- What challenges, if any, do Veterans using a screen reader or screen magnifer encounter while entering information into the forms?
-- What, if any, technical or design barriers prevent Veterans using a screen reader or screen magnifer from successfully interacting with forms?
-- How do Veterans feel about the overall experience of using forms in the mobile app?
+- Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
 
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-- Can Veterans using a screen reader or screen magnifer locate and resume a form they previously started in the mobile app?
-- Do Veterans using a screen reader or screen magnifer encounter any challenges or confusion when attempting to access and complete a previously started form?
-- What steps do Veterans take to find and finish a form they started earlier?
-- Are there any barriers that prevent Veterans using a screen reader or screen magnifer from successfully submitting a previously started form through the app?
+- Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
 
 
 ## Methodology 
@@ -229,19 +220,66 @@ This research can impact Veterans across many phases of the Veteran journey from
 4. Consistent navigation​
 ​
 ​
-​
-​"I'm hoping because it's my app it automatically fills in some of the data that it knows. - Like, here, you know, read it, tap it, sign it, boom. Like, that'd be really cool.” - Participant 4​
+>"I'm hoping because it's my app it automatically fills in some of the data that it knows. - Like, here, you know, read it, tap it, sign it, boom. Like, that'd be really cool.” - Participant 4​
+
+<br>
 
 **2.** Veterans expect to find statements in support of a claim under the claims section of the app. ​
 
+- 5 participants would navigate to 'Claims' w/ 2 participant navigating to ‘Benefits Tab > Claims'.​
+- 3 participants looked first for an area called ‘Forms’.​
+- 5 Veteran look to start a claim before they submit a statement and expect submit a statement to be an option within a claim similar to submitting evidence. They often conflated the two tasks during the study.
+
+>"You know, if I’m given a directive to, okay, go find where you would submit this form. That’s not hard to do but that was probably the hardest part of it. ” - Participant 2​
+
+<br>
+
 **3.** The 'What would you like to do?' screen created more doubt to Veterans that they were in the right place to submit their statement in support of a claim. ​
+
+- For AT users specifically this page is dense and required more time to review than all other pages for this form. All users reviewed the options multiple times and some noted the options were not clear.​
+- 3 participants could not launch the form on their own due to confusion selecting various options on this screen.​
+- 4 participants selected multiple options having to return to this page several times before finding an option that launched the desired form.
+
+>"I think that…being very clear with your descriptions, what I need to click on. And having that block where I can enter in that statement will… should be, identified much better than what it is." - Participant 1
+
+<br>
 
 **4.** Veterans struggle to return to the app from webview. Veterans are not aware that they are on a webview instead of the app. ​  
 
+- AT users expect the navigation bars to remain consistent throughout the entire process to help orient themself.​
+- Device settings such as font size increase, and dark mode don't transfer between the app and the webview.  ​
+- When the bottom navigation bar changed in webview users struggled to find their way back to the app. ​
+- 4 users tried the back arrows which kept them stuck on the webview unable to get out of the form.​
+- 4 users looked first for the Home icon in the bottom navigation bar being unable to find it. ​
+- 2 users tried to click on the VA in the middle of the top navigation bar.​
+- 2 users mentioned that they were afraid to click 'Done'.
+
+>"'Done' button? I don't want to be done. Where is my ... my buttons changed down here [navigation bar on the bottom] I don't want the previous page, I don't want to be done. I would like to go home."  - Participant 9​
+<br>
+
 **5.** Typing is frustrating for AT users especially on smaller devices, however mobile devices offer easier ways to complete fields.
+- 3 AT users attempted or used voice to text to fill out the form fields, 2 used predictive text from their device, and 1 used quick path swiping. ​
+- 4/10 users expected their information to be prefilled.​
+- Form fields/components users requested improvements on:​
+- Number keyboards requested on fields (SSN, Postal Code, Phone).​
+- Fields with dashes (SSN, Phone) need dashes pre-entered to make it easier to count numbers entered.​
+- Review page needs entered data to be expanded upon entry to check for errors.​
+- Read step number first before page header.​
+
+"If you're blind like me, the less you have to type, the better off I am. - I couldn't imagine having to type out paragraphs on this screen...with voiceover, it's really a touch, you gotta listen for a letter, do something with the letter, go to the next letter. It's a slow process, at least for me...I always fall back to my laptop. But I use my iPhone all the time for different things but I use dictate a lot. If that gets better that would be fine, it would be better talk than type and that would be easier for me."​ - Participant 6
+
+<br>
 
 **6.** Statuses are unclear both about the form and app form tabs 'active/complete'.​
 
+- Statuses are unclear both about the form and app form tabs 'active/complete'.​
+- Veterans interpret statuses as it relates to their user action not the VAs process.​
+- Veterans occasionally checked both the active and complete tabs to identify their form.​
+- Veterans desire more information about the status of the form, with notification in the app requested to alert them of changes. ​
+- AT users sometimes tried to double click on the statement in support of a claim card to open the form, even after submission to review the form details they entered. 
+
+>"Here's another grey area it says I have no complete forms, but I completed my form. I understand that it's in progress, the status of the form is in progress but its completed, I completed my form.  - I'm assuming that the complete and active aren't for me, they are for administration. If one of my forms had something it would be in here. Again, grey area, I don't like this. It should be in with the rest of my claims." - Participant 9
+<br>
 ---
 
 ## **Additional Insights**
