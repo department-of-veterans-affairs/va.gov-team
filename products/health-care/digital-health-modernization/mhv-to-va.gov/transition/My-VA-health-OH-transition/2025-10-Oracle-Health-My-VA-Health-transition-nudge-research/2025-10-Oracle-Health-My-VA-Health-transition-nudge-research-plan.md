@@ -197,12 +197,11 @@ We want to schedule 15 participants for sessions; for 10 completed sessions mini
 We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  More time can be made available based on Perigean’s needs.
 
 **Proposed kickoff call times:**
-* Thursday, Oct. 30 - 9:00-1:00pm ET 
-* Thursday, Oct. 30 - 2:00-3:00pm ET
+* Thursday, Oct. 23 - 9:00-1:00pm ET 
 
 ## Research sessions
-* Pilot sessions (team only): October 27-30, 2025
-* Planned dates of research: November 3-12, 2025
+* Pilot sessions (team only): October 24, 2025
+* Planned dates of research: October 28-30; November 3-12, 2025
 * Session length: 60 minutes
 * Buffer time between sessions: 30 minutes
 * Maximum Sessions per day: 3
