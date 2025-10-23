@@ -8,7 +8,6 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
 - [ ] **SPRINT GOAL** 10-10d: Email Updates from Content/IA
-- [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
 - [ ] **SPRINT GOAL** 10-7959a: Enhanced Claims Flow Internal QA Issues & Changes from Content/IA
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
@@ -23,6 +22,8 @@
 - [ ] STRETCH GOAL: UX: 10-7959c: Create Production Form Flow Documentation
 - [ ] STRETCH GOAL: All forms: Address Data Transformation and Metadata mislabeling tech debt
 - [ ] STRETCH GOAL: Implement more robust logging to track and identify future issues
+- [ ] STRETCH GOAL 10-7959a: Discovery spike to evaluate 100+ document upload solutions
+
 
 
 ##
@@ -43,8 +44,6 @@
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
-  - [ ] [[FE] 10-7959A: Enforce a maximum number of supporting documents per submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122153)
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
   - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
 - [ ] **SPRINT GOAL** 10-7959a: Internal QA Issues & Remaining Enhanced Claims Flow Changes from Content/IA & Email Updates
@@ -100,6 +99,9 @@
 - [ ] **STRETCH GOAL** Address Data Transformation and Metadata mislabeling tech debt
   - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
   - [ ] [[BE] Tech Debt: Update Metadata Labeling of Veterans and Beneficiaries for 10-10d, FMP, and Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116077)
+- [ ] **STRETCH GOAL** 10-7959a: Discovery spike to evaluate 100+ document upload solutions
+  - [ ] **SPRINT GOAL** 10-7959a: Enforce maximum number of documents to prevent submission failures
+  - [ ] [[FE] 10-7959A: Enforce a maximum number of supporting documents per submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122153)
 
 
      
