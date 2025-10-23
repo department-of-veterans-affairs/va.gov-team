@@ -43,10 +43,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
-- [ ] For goal: UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates - Remaining and final launch blocking ticket will be completed in Sprint 20.
-- [ ] For goal: ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work. - Final stakeholder updates have been provided for     templates and will be completed in Sprint 20.
-- [ ] For goal: ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work. - Remaining and final launch blocking ticket will be completed in Sprint 20.
-- [ ] For goal: ENG: Complete Payment History implementation work - The BE team completed 5 tickets related to Payment History and additional work remains. 
+- For goal: UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates - Remaining and final launch blocking ticket will be completed in Sprint 20.
+- For goal: ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work. - Final stakeholder updates have been provided for     templates and will be completed in Sprint 20.
+- For goal: ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work. - Remaining and final launch blocking ticket will be completed in Sprint 20.
+- For goal: ENG: Complete Payment History implementation work - The BE team completed 5 tickets related to Payment History and additional work remains. 
 
 ## Sprint Goals - Sprint: 20 [10/22/25 - 11/4/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
