@@ -131,13 +131,13 @@ Product Brief
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
+Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
 
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
 
@@ -205,7 +205,8 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 **For moderated interviews / content usability test:** 
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
-- [Link to prototype](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4372&p=f&t=Dzln41diTGrZVcIU-1&scaling=min-zoom&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
+- [Link to prototype - Mobile](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4372&p=f&t=Dzln41diTGrZVcIU-1&scaling=min-zoom&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
+- [Link to prototype - Desktop](url)
 
 
 ## Recruitment 🎯	
@@ -227,11 +228,8 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 - `Ideal completed sessions:` **[8]**
 
 ### Primary criteria (must-haves)
-- `[Place primary criteria here between hash marks when in edit mode]`
 
 -  Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify) 
-
--  `Are you currently living abroad? (Must answer yes to qualify)`
 
 -  Are you enrolled in the Foreign Medical Program (FMP)? 
     - Yes = (4 participants)
@@ -258,20 +256,16 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times: **[Enter dates and times November 3: 3pm ET - 6pm ET; November 4: 12pm ET - 5pm ET; November 5: 12pm - 3pm ET]**`
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
+- `Pilot participant name:` **[Perigean to Recruit]**
+- `Date and time of pilot session:` **[November 12 or 13, Enter time]** 
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **[Enter dates November 12 - November 26, 2025]**
 
 ### Length of sessions
 - Session length: 45 minutes
@@ -283,28 +277,31 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
+
+
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[November 12, Wednesday, 9:30AM - 6PM] EST`
+- `[November 13, Thursday, 9:30AM - 6PM] EST`
+- `[November 14, Friday, 9:30AM - 6PM] EST`
+- `[November 17, Monday, 2PM - 6PM] EST`
+- `[November 18, Tuesday, 12:30PM - 6PM] EST`
+- `[November 19, Wednesday, 9:30AM - 6PM] EST`
+- `[November 20, Thursday, 9:30AM - 6PM] EST`
+- `[November 21, Friday, 9:30AM - 6PM] EST`
+- `[November 24, Monday, 2PM - 6PM] EST`
+- `[November 25, Tuesday, 12:30PM - 6PM] EST`
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-- `Moderator:` **[Health Apps UX Team]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Health Apps UX Team]**		
+- `Moderator:` **[Health Apps UX Team - Renata K, Jessica S, Hieu V]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica S]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Not needed for this study]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Not needed for this study, interview methodology with Figma prototype]**	
 - `Note-takers:` **[Health Apps UX Team]** ***or*** **[Designate Perigean]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
