@@ -90,7 +90,7 @@ Note
 
 **Your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.**
 
-* Link to conversation guide
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/research/2025-10-copays-usability/conversation-guide.md)
 
 # Recruitment
 
