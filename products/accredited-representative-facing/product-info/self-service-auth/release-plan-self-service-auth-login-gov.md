@@ -1,6 +1,6 @@
 
 <!-- markdownlint-disable MD024 -->
-# Release Plan - Self-Service Authentication: Login.gov
+# Release Plan: Self-Service Authentication, Login.gov
 
 ## How to use this release plan
 
