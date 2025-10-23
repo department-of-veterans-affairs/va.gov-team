@@ -153,7 +153,10 @@ Where will you be holding the research sessions?
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:`
+- **10/29 10:00-4:00 EST**
+- **10/30 10:00-4:00 EST**
+- **10/31 10:00-4:00 EST**
 
 ### Prepare
 
