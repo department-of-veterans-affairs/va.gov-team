@@ -162,7 +162,7 @@ This research can impact Veterans across many phases of the Veteran journey from
 
 ## Hypotheses and Conclusions
 
-- **Hypothesis Statement:**
+**Hypothesis Statement:**
 
 **Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
