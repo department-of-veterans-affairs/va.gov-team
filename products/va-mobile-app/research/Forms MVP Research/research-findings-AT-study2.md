@@ -27,57 +27,56 @@ demographics:
   VA_staff: X
   age:
     "25-34": X
-    "35-44": 1
-    "45-54": 3
+    "35-44": 2
+    "45-54": 2
     "55-64": 4
     "65+": 3
   education:
     high_school: X
-    some_college: X
-    associates: 1
+    some_college: 1
+    associates: 2
     bachelors: 3
-    masters: 7
+    masters: 4
     doctorate: X
     unknown: X
   location:
-    urban: 4
-    rural: 7
+    urban: x
+    rural: x
     unknown: X
   race:
-    white: 4
-    black: 2
-    hispanic: 2
-    biracial: 2
-    asian: 1
+    white: 6
+    black: 4
+    hispanic: X
+    biracial: X
+    asian: X
     native: X
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
+    cognitive: 1
+    AT_beginner: 1
+    AT_advanced: 9
     screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
+    screen_reader_mobile: 5
+    magnification_zoom: 5
     speech_input: X
     hearing_aids: X
     sighted_keyboard: X
     captions: X
 key_findings:
-  - "1. Forms from the app were generally well received."
-  - "2. Veterans may navigate to this activity from various paths."
-  - "3. Veterans were confused about the wording of the options on the 'What would you like to do?' screen that directs them to various forms."
-  - "4. Veterans struggle to return to the app from webview."
-  - "5. Mobile users are prone to typing errors in their form entry. Typing on a smaller device is frustrating for many Veterans as they experience smaller touch targets & compact keyboards."
-  - "6. Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app."
-  - "7. Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways."
+- "1. AT users had mixed feelings about the process of completing forms in the app."
+- "2. Veterans expect to find statements in support of a claim under the claims section of the app."
+- "3. The 'What would you like to do?' screen created more doubt to Veterans that they were in the right place to submit their statement in support of a claim." ​
+- "4. Veterans struggle to return to the app from webview. Veterans are not aware that they are on a webview instead of the app." ​  
+- "5. Typing is frustrating for AT users especially on smaller devices, however mobile devices offer easier ways to complete fields."
+- "6. Statuses are unclear both about the form and app form tabs 'active/complete'."​
 recommendations:
-- "1. Move forward with an MVP of forms in the mobile app."
-- "2. Consider multiple pathways to forms. Direct users to the 21-4138 form also under the context of claims."
-- "3. Update the wording of the options on the screen 'What would you like to do?’." 
-- "4. Update the text of the ‘Done’ button." 
-- "5. Consider smaller ‘light-weight’ forms that require shorter responses with less manual entry for the mobile app."
-- "6. Consider alternative methods of delivering messages to an app user rather than a toast, or encourage users to dismiss the message more clearly."
-- "7. Provide the steps of processing the form to decision reflecting the current progress in relation to the whole with meaningful details and dates."
-
+- "1. Address found accessibility issues to improve the app and the digital form.​"
+- "2. The MVP of forms in the app should focus on providing detailed status progression.​"
+- "3. Direct users to the 21-4138 form also under the context of claims, relate the action 'submit a statement' closer to the claim itself." ​
+- "4. Clarify the options on the screen 'What would you like to do?’."
+- "5. Limit or discourage use of webview from the app. "
+- "6. Update the text of the ‘Done’ button so users understand when to use it."​
+- "7. Consider only frequently utilized, short forms that require minimal typing from the user for the app with prefilled data where available." ​
+- "8. Clarify statuses, providing additional explanation and showing progression." ​
 kpi_alignment:
   - "Trust, satisfaction, and equity"
 outcomes:
@@ -207,10 +206,8 @@ This research can impact Veterans across many phases of the Veteran journey from
 
 **1.** AT users had mixed feelings about the process of completing forms in the app. ​
 - 5 respondents felt positive about the process of completing a form in the app. Noting it was simple, easy, or exciting. Expressing feeling good about their abilities to do it themselves.​
-​
-​
-​>“It’s easy - You don’t want to have to drive to a location 30 miles away and do it in person. You can do it right there at your kitchen table. And it’s convenient. It’s fast, it’s easy, it’s convenient.” - Participant 2​
 
+​>“It’s easy. You don’t want to have to drive to a location 30 miles away and do it in person. You can do it right there at your kitchen table. And it’s convenient. It’s fast, it’s easy, it’s convenient.” - Participant 2​
 <br>​
 
 - 5 respondents felt that improvements would make this feature more desirable. Including:​
@@ -230,7 +227,7 @@ This research can impact Veterans across many phases of the Veteran journey from
 - 3 participants looked first for an area called ‘Forms’.​
 - 5 Veteran look to start a claim before they submit a statement and expect submit a statement to be an option within a claim similar to submitting evidence. They often conflated the two tasks during the study.
 
->"You know, if I’m given a directive to, okay, go find where you would submit this form. That’s not hard to do but that was probably the hardest part of it. ” - Participant 2​
+>"You know, if I’m given a directive to, okay, go find where you would submit this form. That’s not hard to do but that was probably the hardest part of it.” - Participant 2​
 
 <br>
 
@@ -266,7 +263,7 @@ This research can impact Veterans across many phases of the Veteran journey from
 - Review page needs entered data to be expanded upon entry to check for errors.​
 - Read step number first before page header.​
 
-"If you're blind like me, the less you have to type, the better off I am. - I couldn't imagine having to type out paragraphs on this screen...with voiceover, it's really a touch, you gotta listen for a letter, do something with the letter, go to the next letter. It's a slow process, at least for me...I always fall back to my laptop. But I use my iPhone all the time for different things but I use dictate a lot. If that gets better that would be fine, it would be better talk than type and that would be easier for me."​ - Participant 6
+>"If you're blind like me, the less you have to type, the better off I am. - I couldn't imagine having to type out paragraphs on this screen...with voiceover, it's really a touch, you gotta listen for a letter, do something with the letter, go to the next letter. It's a slow process, at least for me...I always fall back to my laptop. But I use my iPhone all the time for different things but I use dictate a lot. If that gets better that would be fine, it would be better talk than type and that would be easier for me."​ - Participant 6
 
 <br>
 
@@ -307,7 +304,7 @@ They mentioned desiring help at the following points. 
 
 <br> 
 
-**4.** Mental models: Veterans know they need to complete a specific task such as ‘provide a statement in support of a new disability claim for themself’ but they may not see it as a form that the VA requires separately or understand which form they should use.​
+**3.** Mental models: Veterans know they need to complete a specific task such as ‘provide a statement in support of a new disability claim for themself’ but they may not see it as a form that the VA requires separately or understand which form they should use.​
 
 - Veterans may confuse the process of submitting a statement in support of a claim with submitting a claim itself or submitting evidence or context about a claim.​
 ​
@@ -372,11 +369,11 @@ In the future we recommend testing further with Android users.
 ## Appendix
 [Product Outline]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/archive/2021/Product-Outline.md))
 
-[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-Plan.md))
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-Plan.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-plan-AT.md))
 
-[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md))
+[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide-AT.md)
 
-[Interview transcripts]([link here])
+[Interview transcripts]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/Forms%20MVP%20Research/Transcripts/2025%20Forms%20MVP%20Usability%20Study%202%20AT%20Interviews)
 
 
 ## Tools used for Synthesis
@@ -395,8 +392,8 @@ In the future we recommend testing further with Android users.
 1. Use the link provided to install test flight on your mobile device.
 2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
 3. Under App Informaton at the bottom of the screen, select "Previous builds"
-4. Select the VA Health and Benefits mobile app version: 2.55.1
-5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+4. Select the VA Health and Benefits mobile app version: 2.59.1
+5. Select 'Install' button next to correct build number 3031 (may have to select Load more builds to find version).
 6. It can take a few minutes to download.
 7. Once downloaded select "next".
 8. Select "start testing from the Share feedback screen.
@@ -452,35 +449,35 @@ Devices used during study:
 
 Age:
 * 25-34: 0
-* 35-44: 0
-* 45-54: 1
-* 55-64: 7
-* 65+: 2
+* 35-44: 2
+* 45-54: 2
+* 55-64: 4
+* 65+: 3
 * Unknown: 0
 
 
 Education:
 * High school degree or equivalent: 0
 * Some college (no degree): 1
-* Associate's degree, trade certificate or vocational training: 
-* Bachelor's degree: 
-* Master's degree: 
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 3
+* Master's degree: 4
 * Doctorate degree: 0
 * Unknown: 0
 
 
 Geographic location:
-* Urban: 4
-* Rural: 11
+* Urban: X
+* Rural: X
 * Unknown: x
 
 
 Race:
-* White: 4
-* Black: 2
-* Hispanic: 2
-* Biracial: 2
-* Asian: 1
+* White: 6
+* Black: 4
+* Hispanic: X
+* Biracial: X
+* Asian: X
 * Native: x
 
 
@@ -512,7 +509,5 @@ This research does not include the perspectives of the following marginalized Ve
 - Immigrant origin
 - Expat
 - Identify as LGBTQ+
-
-<img width="970" height="838" alt="Screenshot 2025-08-29 at 1 22 24 PM" src="https://github.com/user-attachments/assets/99c0c8e7-05ed-4a9c-adcc-85e3ea3c1440" />
 
 [VA-recruitment-checker]
