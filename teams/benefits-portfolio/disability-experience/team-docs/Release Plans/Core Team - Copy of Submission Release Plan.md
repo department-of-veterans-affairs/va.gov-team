@@ -42,20 +42,22 @@ If error rate spike or major regression is detected:
 
 - We are not doing moderated production testing.
 
-
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
 #### Rollout Planning
 
-- Desired date range: TBD, ideally within one week of the shutdown release freeze being lifted.
+- Desired date range: Exact dates TBD, ideally rollout will start within one week of the shutdown release freeze being lifted. 
+Then rollout incrementally 1% for a few days with no issues → 25% for a few days with no issues → then 100%.
 - How will you make the product available in production while limiting the number of users who can find/access it: 
-  - Access limitation method: Flipper flags enabled for specific user IDs during mod-prod UAT; then toggled on incrementally.
+  - Access limitation method: Flipper flags toggled on incrementally.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [TODO] add error and analytics tracking metrics
+  - GA interaction with accordion events has increased
+  - Sentry error rate for confirmation page has not increased
 - Links to the dashboard(s) showing "success criteria" metrics: 
-  - [TODO] with link to dashboards (example: Google Analytics dashboard)
+  - GA Dashboard: https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/Q8pGsZFFSlyHtJTEvUyBPw
+  - Sentry Dashboard: http://sentry.vfs.va.gov/organizations/vsp/discover/results
 - Who is monitoring the dashboard(s)?: PM, Engineering lead, core team engineers
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
