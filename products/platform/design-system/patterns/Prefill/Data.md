@@ -1,6 +1,10 @@
 # Prefill Data - Frequently Asked Questions
 
-Last updated: 10/7/2025
+Last updated: 10/23/2025
+
+Definitions:
+- **VA.gov Profile:** what the Veteran sees and interacts with (https://www.va.gov/profile) slack: #accountexp-authexp
+- **VA Profile team** = the API team. They handle all the data storage and editing. slack: #va-profile 
 
 1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn? 
    - **This is mostly correct**.
@@ -12,22 +16,25 @@ Last updated: 10/7/2025
 2. What information does the ID.Me or Login.gov servce pass on to VA.gov profile (if anything)?
 
 3. What is the minimum amount of information an LOA1 user can have in their VA.gov/profile?
+   - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. 
 
-4. What is the minimum amount of information an LOA3 user can have in their VA.gov/profile?
+5. What is the minimum amount of information an LOA3 user can have in their VA.gov/profile?
 
-5. What is MPI?
+6. What is MPI?
    - MPI = Master Person Index
    - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
    > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787))
    
-6. How does MPI interact with VA.gov profile? 
+7. How does MPI interact with VA.gov profile? 
 
-7. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
-8. What percentage of profiles are missing:
+8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
+
+9. What percentage of profiles are missing:
    - Full name
    - DoB
    - SSN 
-9. Forms and their authentication level
+
+10. Forms and their authentication level
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
