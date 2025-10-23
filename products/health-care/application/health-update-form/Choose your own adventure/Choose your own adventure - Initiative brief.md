@@ -9,8 +9,8 @@
 - Product | [10-10EZR product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 
 ## Problem
-- The problem is the lack of a flexible review and edit process for prefilled data on the 10-10EZ form. While Veterans can edit the prefilled data in the fields on-screen, they still must proceed through every page of the application (see 2nd bullet below)
-- The current form flow is linear and does not account for variations in prefilled data completeness.
+- The problem is the lack of a flexible review and edit process for prefilled data on the 10-10EZR form. While Veterans can edit the prefilled data in the fields on-screen, they still must proceed through every page of the application (see 2nd bullet below)
+- The current form flow is linear and does not account for variations in prefilled data completeness or the Veteran's desire to complete only what they want and leave other sections untouched/un-reviewed.
 - This initiative furthers OCTO-DE's mission by improving data accuracy, enhancing Veteran experience, and streamlining access to VA health care through a more efficient digital application process.
 
 ## Desired User Outcomes
