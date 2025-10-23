@@ -110,14 +110,13 @@ If so, restart it. Then have them click on the Apple button to resume/start over
 
 # Warm-up Questions \- 8 minutes
 
-* # Let’s start with a few questions. Just to confirm, you mentioned during recruitment that you’ve received a copay bill in the past six months, is that correct? 
+* Let’s start with a few questions. Just to confirm, you mentioned during recruitment that you’ve received a copay bill in the past six months, is that correct?
 
-* # Can you tell me more about that experience? What did you do once you received it?    
+* Can you tell me more about that experience? What did you do once you received it?  
+     
+* Looking back on it now, what do you wish had gone differently, if anything?
 
-* # Looking back on it now, what do you wish had gone differently, if anything? 
-
-* # Before we look at the screen, tell me \- if you needed to find information about a medical bill you owe to the VA, where would you look first? 
-
+* Before we look at the screen, tell me \- if you needed to find information about a medical bill you owe to the VA, where would you look first?   
   * \[PROBE\] What would you expect to see?
 
 ### **For only assistive tech users \- 5 minutes**
