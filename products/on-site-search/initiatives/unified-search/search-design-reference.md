@@ -37,8 +37,6 @@ Veterans get dramatically different results based on how specific their query is
 #### Generic keywords have low CTR despite massive query volume.
 | Query         | Volume  | Clicks | CTR |
 |---------------|---------|--------|-----|
-| health topics | 133,795 | 9      | 0%  |
-| benefits      | 92,745  | 1,231  | 1%  |
 | quick submit  | 14,218  | 545    | 3%  |
 | ask va        | 16,310  | 1,757  | 10% |
 
