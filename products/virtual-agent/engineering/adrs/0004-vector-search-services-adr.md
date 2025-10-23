@@ -34,8 +34,11 @@ For VA.gov's use case, Azure AI Search has several advantages. It's already FedR
 ### Resources for Azure AI Search
 
 https://azure.microsoft.com/en-us/services/search
+
 https://docs.microsoft.com/en-us/azure/search
+
 https://azure.microsoft.com/en-us/pricing/details/search
+
 https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search
 
 ## Amazon OpenSearch Service
@@ -49,9 +52,13 @@ Pricing starts low with their free tier, which offers 750 hours monthly, and pro
 ### Resources for OpenSearch
 
 https://coralogix.com/guides/opensearch/opensearch-pricing
+
 https://slashdot.org/software/comparison/Amazon-OpenSearch-Service-vs-Azure-AI-Search
-https://www.amazonaws.cn/en/blog-selection/amazon-opensearch-services-vector-database-capabilities-explained/
+
+https://www.amazonaws.cn/en/blog-selection/amazon-opensearch-services-vector-database-capabilities-explained
+
 https://aws.amazon.com/opensearch-service/features/security
+
 https://aws.amazon.com/blogs/big-data/amazon-opensearch-serverless-cost-effective-search-capabilities-at-any-scale
 
 ## Amazon Kendra
@@ -65,9 +72,13 @@ Kendra costs significantly more than most of the alternatives. The GenAI Index s
 ### Resources for Kendra
 
 https://docs.aws.amazon.com/kendra/latest/dg/what-is-kendra.html
+
 https://aws.amazon.com/kendra/features
+
 https://aws.amazon.com/kendra/pricing
+
 https://aws.amazon.com/about-aws/whats-new/2024/12/genai-index-amazon-kendra
+
 https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant
 
 
@@ -82,8 +93,11 @@ The enterprise edition of Vertex costs $4 per 1,000 queries with another feature
 ### Resources for Vertex AI
 
 https://cloud.google.com/blog/topics/public-sector/vertex-ai-search-and-generative-ai-with-gemini-achieve-fedramp-high
+
 https://medium.com/google-cloud/vertex-ai-search-leverage-the-power-of-google-search-and-gemini-for-your-information-needs-05bb7914c28d
+
 https://cloud.google.com/enterprise-search
+
 https://cloud.google.com/blog/topics/public-sector/vertex-ai-search-and-generative-ai-with-gemini-achieve-fedramp-high
 
 
@@ -100,6 +114,7 @@ From a cost standpoint the Azure based pricing is listed at $0.10 per 1000 units
 ### Resources for Elasticsearch
 
 https://www.elastic.co/industries/public-sector/fedramp
+
 https://marketplace.microsoft.com/en-us/product/saas/elastic.ec-azure-pp?tab=PlansAndPrice
 
 
