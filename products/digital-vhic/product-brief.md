@@ -43,6 +43,7 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 ### MVP
 - Build and release a Digital VHIC feature in the VAHB app, mirroring the Veteran Status Card experience already available.
   - Allow Veterans to view their VHIC in-app.
+- The VHIC team would like the digital VHIC card to match the physical card. The MFS team is assessing technical feasibility and making adjustments due to design restrictions. Therefore, this requirement will need to be negotiated with the VHIC team as the MFS team understands what is technically possible.   
 - Chose this approach due to high Veteran mobile usage and proven success with the digital Veteran Status Card.
 
 ### Adjacent work
