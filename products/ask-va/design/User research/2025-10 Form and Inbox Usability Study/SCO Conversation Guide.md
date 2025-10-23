@@ -286,9 +286,13 @@ Again let’s imagine, **\[Prompt from Task 1\]** and you need to review a previ
 
 ## Post-Task Interview \- 5 minutes
 
-- You got to experience two different versions of Ask VA today. Which did you prefer? 
+- You got to experience two different versions of Ask VA today. 
 
-  *Version A / Version B (images)*
+Which of the experiences did you prefer to submit documentation? On the left represents the first experience you had and on the right represents the second experience.
+
+Which of the experiences did you prefer to review a previous submission? On the left represents the first experience you had and on the right represents the second experience.
+
+[Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 - Why did you choose that version?   
 - If you could change anything about the Ask VA experience, what would it be?
