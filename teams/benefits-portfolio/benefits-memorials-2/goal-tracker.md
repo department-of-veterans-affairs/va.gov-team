@@ -21,7 +21,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP7 | **Prioritized Maintenance 2025 (October, November, December):**  |[#121725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121725)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25)
+ - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25) 
 
 ## Sprint Goals - Sprint: 19 [10/8/25 - 10/21/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
