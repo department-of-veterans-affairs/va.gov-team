@@ -16,6 +16,9 @@ Feature Toggle/flag:
 The following will take place right before Staged Rollout:
 - [ ] TBD
 
+#### VSO Engagement Preparation
+- [ ] TBD - anything we need to do with reps?
+
 Any uncovered issues or requirements that should be addressed prior to rollout?
 
 #### Go/No Go meeting TBD
