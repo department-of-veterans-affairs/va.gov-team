@@ -46,7 +46,7 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 - Chose this approach due to high Veteran mobile usage and proven success with the digital Veteran Status Card.
 
 ### Adjacent work
-- We may explore how to improve discoverability of the digital card on VA.gov (e.g., Find a Form, R&S article updates).
+- We may explore how to improve discoverability of the digital card on VA.gov (e.g., Find a Form, R&S article updates). This effort will be handled by the VHIC team and confirmed by [this](https://dsva.slack.com/archives/C07S7TJRK0B/p1761241001047899?thread_ts=1761240690.675229&cid=C07S7TJRK0B) Slack message.
 
 --- 
 
