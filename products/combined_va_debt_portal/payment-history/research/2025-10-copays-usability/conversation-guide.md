@@ -242,10 +242,17 @@ Activate the screen share
 
 ## Task 7: Resolve copay bill \- 7 minutes
 
-* Let’s say that you want to do something about this bill. Show me what you would do.  
-* Please talk to me about what you see on this page.   
-* How have you used any of this information in the past, if at all?   
+* Let’s say that you want to do something about this bill. Show me what you would do.
+
+* Please talk to me about what you see on this page.  
+     
+* How have you used any of this information in the past, if at all?  
+     
 * What would make this information easier to understand?
+
+**Watch for:**
+
+\[Participant can successfully navigate to the resolve page\]
 
 **Watch for:**
 
