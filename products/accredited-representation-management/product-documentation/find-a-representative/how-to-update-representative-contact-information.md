@@ -48,4 +48,5 @@ If the certifying official does not know how to contact OGC, we can recommend th
 * Thursday, March 27, 2025: Email from VHA requesting a VFW rep's phone number be updated
 * Thursday, June 12, 2025: Email from VBA leadership, forwarded from a representative in the Georgia Department of Veterans Service
 * Friday, August 1, 2025: Emmail forwarded from a DAV representative
+* Thursday, October 23, 2025: Email from Lucas County Veterans (Ohio Department of Veterans Services), requesting an update for four VSO representatives
 
