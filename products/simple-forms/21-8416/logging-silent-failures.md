@@ -1,6 +1,6 @@
 # **Logging Silent Failures**
 
-## **VA Form 21P-8416 Medical Expense Report (Pension)**
+## **VA Form 21P-8416 Medical Expense Report (Pension) and 21P-534EZ**
 
 **Date:** October 20, 2025  
 **Team:** Benefits Intake Optimization (BIO) - Huntridge Labs
@@ -11,15 +11,15 @@ Silent failures are errors that occur in the background without user-facing erro
 
 While initial submission of the form is synchronous, after the PDF of the user's submission is generated on the backend it is asynchronously submitted to the Benefits Intake API and a confirmation email is sent to the user.
 
-To ensure no silent failures occur when submitting to the Benefits Intake API form 21P-8416 will make use of the existing silent failure tracking mechanisms in the `simple_forms` API. This ensures that
+To ensure no silent failures occur when submitting to the Benefits Intake API form 21P-8416/21P-534EZ will make use of the existing silent failure tracking mechanisms in the `simple_forms` API. This ensures that
 1. Users are sent an email informing them of a failure if a submission does not reach the Benefits Intake API
-2. Any email directed to a user that fails to be enqueued in VA Notify increments the `silent_failure` StatsD tag and includes the form number (e.g., `21P-8416`) and the VA Notify confirmation number.
+2. Any email directed to a user that fails to be enqueued in VA Notify increments the `silent_failure` StatsD tag and includes the form number (e.g., `21P-8416, 21P-534EZ`) and the VA Notify confirmation number.
 
 [This Dashboard](https://vagov.ddog-gov.com/dashboard/xda-7sd-pza/silent-failure-tracker-vff-forms?fromUser=true&refresh_mode=sliding&from_ts=1759439215931&to_ts=1759525615931&live=true) displays silent failure information originating from the Simple Forms API. Silent failures from this form will show up here. Additionally, [the central ZSF dashboard](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker?fromUser=false&refresh_mode=sliding&from_ts=1750860741547&to_ts=1758813141547&live=true) will display these same form-specific StatsD increments.
 
 **Monitoring**
 
-To-Do: setup monitor once team members have been granted access
+To-Do: setup monitors for `8416` and `534EZ` forms once team members have been granted access
 
 | Component | Monitoring Approach | Alert Threshold |
 |-----------|-------------------|-----------------|
