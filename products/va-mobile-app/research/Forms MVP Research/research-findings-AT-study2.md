@@ -1,5 +1,5 @@
 ---
-title: "Forms MVP Usability Study Research Findings"
+title: "Forms MVP Usability Study 2 - Assistive Technology Users - Research Findings"
 product: "VA Health & Benefits Mobile App"
 team: "Mobile App & Platform Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
@@ -8,9 +8,9 @@ researchers:
   - "Christine Julian (Researcher)"
   - "Jonathan Post (UX Designer)"
 research_goals:
-  - "Understand if Veterans who rely on screen readers or screen magnifiers can find and interact with forms from the app."
-  - "Identify if Veterans who use screen readers or screen magnifiers can fill out a form from the app on their own."
-  - "Identify if Veterans who use screen readers or screen magnifiers can start a form and come back to it at a later time to complete."
+  - "Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app."
+  - "Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own."
+  - "Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete."
 methodology:
   - "Moderated Usability Testing"
 devices_used:
@@ -96,7 +96,7 @@ underserved_groups_missing:
   - Expat
   - Identify as LGBTQ+
 synthesis_tools_used:
-  - "Excel Spreadsheet Coding
+  - "Excel Spreadsheet Coding"
 ---
 
 ---
@@ -126,89 +126,65 @@ synthesis_tools_used:
 ## Research Goals
 The key objective of this study is to evaluate the usability of completing a VA form in a webview from the VA Health and Benefits app. Additionally, the research aims to uncover the following:
 
-1. Understand if Veterans can find and interact with forms from the app.
-2. Identify if Veterans can fill out a form from the app on their own.
-3. Identify if Veterans can start a form and come back to it at a later time to complete.
+1. Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.
+2. Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.
+3. Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.
 
 This research can impact Veterans across many phases of the Veteran journey from Getting out to Death
 [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
-- The results of the study will help us determine if Veterans are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app. 
+- The results of the study will help us determine if Veterans who rely on assistive technology, specifically screen readers and screen magnifiers, are able to fill out and complete forms from the mobile app. This will inform future form development on the app. 
 
 
 
 ## Research Questions
 
-Research goal #1: Understand if Veterans can find and interact with forms from the app.
+**Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
-1. How easily can Veterans locate the forms section within the mobile app?
-2. What steps do Veterans take to start a new form from within the app?
-3. Are there any points of confusion or difficulty when Veterans attempt to start a new form?
+- How easily can Veterans using a screen reader or screen magnifer locate the forms section within the mobile app?
+- What steps do Veterans using a screen reader or screen magnifer take to start a new form from within the app?
+- Are there any points of confusion or difficulty when Veterans using a screen reader or screen magnifer attempt to start a new form?
 
-Research goal #2: Identify if Veterans can fill out a form from the app on their own.
+**Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
-1. Can Veterans independently complete all required fields in a form using the mobile app?
-2. Do Veterans understand the instructions and language used in the forms?
-3. How do Veterans interpret the status of the form once the form is submitted?
+- Can Veterans using a screen reader or screen magnifer independently complete all required fields in a form using the mobile app?
+- Do Veterans using a screen reader or screen magnifer understand the instructions and language used in the forms?
+- How do Veterans interpret the status of the form once the form is submitted
+- What challenges, if any, do Veterans using a screen reader or screen magnifer encounter while entering information into the forms?
+- What, if any, technical or design barriers prevent Veterans using a screen reader or screen magnifer from successfully interacting with forms?
+- How do Veterans feel about the overall experience of using forms in the mobile app?
 
-Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+**Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-1. What challenges, if any, do Veterans encounter while entering information into the forms?
-2. What, if any, technical or design barriers prevent Veterans from successfully interacting with forms?
-3. How do Veterans feel about the overall experience of using forms in the mobile app?
-4. Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.
-
-Can Veterans locate and resume a form they previously started in the mobile app?
-1. Do Veterans encounter any challenges or confusion when attempting to access and complete a saved or in-progress form?
-2. What steps do Veterans take to find and finish a form they started earlier?
-3. Are there any barriers that prevent Veterans from successfully submitting a previously started form through the app?
+- Can Veterans using a screen reader or screen magnifer locate and resume a form they previously started in the mobile app?
+- Do Veterans using a screen reader or screen magnifer encounter any challenges or confusion when attempting to access and complete a previously started form?
+- What steps do Veterans take to find and finish a form they started earlier?
+- Are there any barriers that prevent Veterans using a screen reader or screen magnifer from successfully submitting a previously started form through the app?
 
 
 ## Methodology 
 
 - Method 1: Moderated usability study (remote)
-- Method 2: SuS Survey (system usability scale)
 
 
 ## Hypotheses and Conclusions
 
 - **Hypothesis Statement:**
 
-Research goal #1: Understand if Veterans can find and interact with forms from the app.
+**Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
-1. Veterans will be able to easily locate the forms section within the mobile app without extensive guidance.
-- **Likely False**. 6 participants needed guidance to locate the "Go to my forms" button, as they initially thought to look under "Claims" or "Benefits." 
-2. Veterans will be able to follow the intended navigation steps to start a new form from within the app.
-- **Likely True**. Veterans could generally follow the steps, but the research also revealed issues with participants skipping introductory text on screen "Submit a statement in support of a claim" and being unclear about which option to choose on the screen 'What would you like to do".
-3. Some Veterans may experience confusion or difficulty due to unclear labeling or navigation options related to forms.
-- **Definitely True**. User confusion on the form selection screen 'What would you like to do', returning to the app from webview via the "Done" button placement, combined with lower SuS scores on "well integrated" directly contribute to a less usable system.
+- Veterans using a screen reader or screen magnifer will be able to easily locate the forms section within the mobile app without extensive guidance.
+- Veterans will be able to follow the intended navigation steps to start a new form from within the app.
 
-Research goal #2: Identify if Veterans can fill out a form from the app on their own.
+**Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
-1. Most Veterans will be able to independently complete all required fields in a form using the mobile app.
-- **Likely True**. The research showed that Veterans could complete the fields. Although they encountered some challenges with typing difficulties from their mobile devices. In part, related to small touch targets and auto-corrections from their device.
-2. The instructions and language used in the forms will be clear and understandable to Veterans.
-- **Definitely False**. The research revealed that the instructions and language used in the forms were often not clear and understandable, particularly on the form selection screen 'What would you like to do?' and regarding the meaning of the "In Progress" status following submission of the form.
-3. Some Veterans may experience confusion interpretting the status of the form after submission.
-- **Definitely True**. The "In Progress" status was consistently misinterpreted, with Veterans unsure if it meant the form had been submitted, was still being drafted, or was being reviewed.
+- Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
 
-Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+**Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-1. Veterans may encounter difficulty entering information into forms from their mobile device.
-- **Definitely True**. The research confirmed that typing on a mobile device was a significant challenge, leading to errors and frustration.
-2. Technical or design barriers, such as small touch targets or required page scrolling, may add additional frustration for Veterans when completing forms from a mobile device.
-- **Definitely True**. The research identified the "Done" button placement required to return to the mobile app from webview was widely missed, while users often did not dismiss toast messages blocking needed content, and the small touch targets on their mobile keyboards resulted in typos that caused additional frustration.
-3. Veterans will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
-- **Definitely True**. The research revealed a range of feelings, with some Veterans finding the process relatively easy while others expressed significant frustration with the identified usability issues. The overall SUS scores, along with the specific responses to questions about ease of use, complexity, and consistency, provide strong quantitative evidence that usability issues are negatively impacting the user experience.
-
-Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.
-
-1. Veterans will be able to locate and resume a form they previously started within the mobile app.
-- **Definitely True**. Veterans were able to locate and resume previously started forms without difficulty.
-2. Barriers such as difficulty finding saved forms or unclear resumption instructions will prevent some Veterans from successfully submitting a previously started form.
-- **Likely False**. Users did not experience problems directly related to the ability to find started forms, resume and successfully submit.  
+- Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
 
 
 
@@ -230,48 +206,17 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 ## Details of Findings 
 
-**1.** Forms from the app were generally well received.  
-- All 9 respondents to our SuS survey expressed a positive desire to use this system frequently.
-- With an overall SuS score of 82.77 which translates to excellent. Resolving found usability issues during this study are likely to result in a well received MVP.
-- Survey respondents answered question 1 'I think I would like to use this system frequently.' as 3 moderatley agree, and 6 strongly agree.
+**1.** AT users had mixed feelings about the process of completing forms in the app. ​
 
-> *"You know, I actually like it, to tell the truth. I like that the forms are available right there because as I said now, you have to literally go and search for forms." (p4)*
+**2.** Veterans expect to find statements in support of a claim under the claims section of the app. ​
 
-**2.** Veterans may navigate to this activity from various paths.
-- 5 participants would navigate to 'Claims' and 1 participant navigating to ‘Benefits Tab > Claims'.
-- 4 participants looked first for an area called ‘Forms’.
+**3.** The 'What would you like to do?' screen created more doubt to Veterans that they were in the right place to submit their statement in support of a claim. ​
 
-**3.** Veterans were confused about the wording of the options on the 'What would you like to do?' screen that directs them to various forms.
-- 6 participant selected ‘I have new evidence to submit for an open claim.’
-- 3 participant selected ‘I want to provide context or details about a claim.’
-- 5 participant selected ‘What I want to do isn’t listed here.’
-- 1 participant selected ‘I want to request faster claim processing because of my situation’.
-  
-*Note that some participants called out multiple options 
+**4.** Veterans struggle to return to the app from webview. Veterans are not aware that they are on a webview instead of the app. ​  
 
-**4.** Veterans struggle to return to the app from webview.
-- Only 1 participant self-identified the 'Done' button to return to the app during or after submitting the form.
-- The majority of participants needed support to get back to the app either mid-form or after completing the form. 
-- Forms today are designed for the web experience, links that direct the user to save their progress or navigate back to their starting point are oriented around VA.gov.
+**5.** Typing is frustrating for AT users especially on smaller devices, however mobile devices offer easier ways to complete fields.
 
-> *"The only thing, the ‘Done’ button. I wouldn’t have expected it to be up there in the left hand corner.” - “That’s a good place to have it, but I wouldn’t have suspected it to be there. Because when you were saying hit done, I looked below.” (p11) [regarding returning to the app when leaving a form from webview]                                                                                                                            
-
-**5.** Mobile users are prone to typing errors in their form entry. Typing on a smaller device is frustrating for many Veterans as they experience smaller touch targets & compact keyboards.
-- Users may not catch errors to correct (mobile devices may auto-correct an uncommon word without the users knowledge).
-- Users often utilized native functionality like predictive text or quick path typing which offer supportive field entry methods.
-- Prefilled form data will greatly reduce the amount of manual typing Veterans are required to do, improving the form entry process on a mobile device.
-
-**6.** Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app.
-- Only 1 participant dismissed a toast message within the app during the study.
-- Depending on the font size and phone screen size important content could be completely hidden by a toast message such as the ‘Continue form’ section.
-
-**7.** Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways.
-- Some Veterans may interpret the status ‘In Progress’ as meaning they have not completed the form.
-- Veterans expect to see their progress over time within the steps of claims processing.
-- Users often checked both tabs ‘Active’ and ‘Complete’ to find their form as complete to them may translate to the fact that they have completed the form.  
-
->*"If I come back here week after week, and see its in progress then I’m probably going to be likely to find is there a phone number that I can call?…I would like to see some sort of gauge…it could even be a bar like moving to complete.”
-
+**6.** Statuses are unclear both about the form and app form tabs 'active/complete'.​
 
 ---
 
