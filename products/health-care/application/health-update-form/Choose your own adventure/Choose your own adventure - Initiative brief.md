@@ -1,12 +1,13 @@
 # Choose-your-own-adventure - Initiative Brief
 - Epic - [#123087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123087)
-- 10-10EZ [Working Figma design file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=E9PwRlHmBg087S7V-0)
+
 
 ## Outcome Summary
 - Creating a "Choose Your Own Adventure" (CYOA) path on the 10-10EZR form that displays all prefilled information, allows the Veteran to review and edit it, and add any missing information. This will improve data accuracy, streamline the process for Veterans with varying data completeness, and enhance the overall user experience.
 
 **Related/Associated product(s)**
 - Product | [10-10EZR product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- 10-10EZ [Working Figma design file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=E9PwRlHmBg087S7V-0)
 
 ## Problem
 - The problem is the lack of a flexible review and edit process for prefilled data on the 10-10EZR form. While Veterans can edit the prefilled data in the fields on-screen, they still must proceed through every page of the application (see 2nd bullet below)
