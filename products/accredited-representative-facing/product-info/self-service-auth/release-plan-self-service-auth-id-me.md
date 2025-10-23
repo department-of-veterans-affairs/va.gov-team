@@ -21,6 +21,7 @@ Any uncovered issues or requirements that should be addressed prior to rollout?
 #### Go/No Go meeting TBD
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
+- [ ] isolated Production test? (TBD)
 
 **Verdict:TBD**
 
