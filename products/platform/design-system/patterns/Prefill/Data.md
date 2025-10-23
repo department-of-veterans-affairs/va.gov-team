@@ -4,7 +4,7 @@ Last updated: 10/23/2025
 
 Definitions:
 - **VA.gov Profile:** what the Veteran sees and interacts with (https://www.va.gov/profile) slack: #accountexp-authexp
-- **VA Profile team:** API team. They handle all the data storage and editing. slack: #va-profile 
+- **VA Profile team:** API team. They handle all the data storage and management. slack: #va-profile 
 
 1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn data to display to Veterans? 
    - **This is mostly correct**.
