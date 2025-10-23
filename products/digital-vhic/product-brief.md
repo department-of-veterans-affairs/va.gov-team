@@ -52,7 +52,8 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 --- 
 
 ### Out of Scope
-- Allowing Veterans to downloard their VHIC to mobile wallets (Apple/Google) and therefore access their VHIC from their digital wallet (Apple/Google). 
+- Allowing Veterans to downloard their VHIC to mobile wallets (Apple/Google) and therefore access their VHIC from their digital wallet (Apple/Google).
+- Any type of push notifications for VHIC. 
 
 --- 
 
