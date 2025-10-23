@@ -6,30 +6,30 @@ Definitions:
 - **VA.gov Profile:** what the Veteran sees and interacts with (https://www.va.gov/profile) slack: #accountexp-authexp
 - **VA Profile team:** API team. They handle all the data storage and editing. slack: #va-profile 
 
-1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn? 
+1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn data to display to Veterans? 
    - **This is mostly correct**.
-   - VA.gov profile will always have last name. (and probably a first name, but not always, as not everyone has a first name)
-   - VA.gov profile will likely always have full birthday due to the requirements in ID.me and Login.gov, but legacy systems like BIRLS may only have birth month and birth year, but not birth date
-   - VA.gov profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN
-   - Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
+   - VA.gov/profile will always have last name. (and probably a first name, but not always, as not everyone has a first name)
+   - VA.gov/profile will likely always have full birthday due to the requirements in ID.me and Login.gov, but legacy systems like BIRLS may only have birth month and birth year, but not birth date
+   - VA.gov/profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN
+   - Digitized Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
   
-2. What information does the ID.Me or Login.gov servce pass on to VA.gov profile (if anything)?
+2. What information does the ID.Me or Login.gov service pass on to VA.gov/profile (to display & update) or the VA API Profile (to store) (if anything)?
 
-3. What is the minimum amount of information an LOA1 user can have in their VA.gov/profile?
+3. What is the minimum amount of information an LOA1 user can see/interact with and add to their VA.gov/profile ?
    - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. 
 
-5. What is the minimum amount of information an LOA3 user can have in their VA.gov/profile?
+5. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?
 
 6. What is MPI?
    - MPI = Master Person Index
    - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
    > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787))
    
-7. How does MPI interact with VA.gov profile? 
+7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?
 
 8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
 
-9. What percentage of profiles are missing:
+9. What percentage of VA.gov/profile or VA Profile API are missing:
    - Full name
    - DoB
    - SSN 
