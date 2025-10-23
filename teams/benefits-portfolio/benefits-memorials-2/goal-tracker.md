@@ -27,12 +27,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Prepare conversation guide, research plan for the Payment History pre-launch validation study.| QP3 |--|10/20/2025|Completed|
-|UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates.| QP2 |--|--|Incomplete|
-|ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|Incomplete|
+|UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates.| QP2 |See below|--|Incomplete|
+|ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work.| QP1 |See below|--|Incomplete|
 |ENG: If the shutdown happens: Be fully ready to turn on the Digital Dispute asynchronous submission process alongside the new Emails. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|Completed|
 |ENG: Validate the Digital Dispute PDF content and formatting.| QP1 |--|10/21/25|Completed|
-|ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work.| QP2 |--|--|Incomplete|
-|ENG: Complete Payment History implementation work.| QP3 |--|--|Incomplete|
+|ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work.| QP2 |See below|--|Incomplete|
+|ENG: Complete Payment History implementation work.| QP3 |See below|--|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/30/25)
@@ -41,8 +41,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (09/30/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
 - [ ] For goal: UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates - Remaining and final launch blocking ticket will be completed in Sprint 20.
 - [ ] For goal: ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work. - Final stakeholder updates have been provided for     templates and will be completed in Sprint 20.
 - [ ] For goal: ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work. - Remaining and final launch blocking ticket will be completed in Sprint 20.
