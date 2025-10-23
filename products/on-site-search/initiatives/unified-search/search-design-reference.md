@@ -87,7 +87,6 @@ Veterans who don't know the exact terminology get stuck. Those with more VA know
 - Results don't distinguish between information pages and tools (evidenced by Veteran frustration)
 - No apparent understanding of query intent - "benefits" returns the same type of results whether the user wants info or action
 - If generic queries don't surface relevant results in the top 3-5, users are more likely to abandon the search
-- 226,540 combined searches for "health topics" + "benefits" with almost zero clicks
 
 ### Design questions
 
