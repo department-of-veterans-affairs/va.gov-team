@@ -38,7 +38,11 @@ Veterans get dramatically different results based on how specific their query is
 | Query         | Volume  | Clicks | CTR |
 |---------------|---------|--------|-----|
 | quick submit  | 14,218  | 545    | 3%  |
+| verification letter | 2,251  | 169  | 7% |
+| c file | 2,878  | 126  | 8% |
 | ask va        | 16,310  | 1,757  | 10% |
+| quick submit tool upload | 9,444  | 1,284  | 13% |
+
 
 #### More specific searches have better outcomes.
 | Generic → Specific | Volume | CTR | Improvement |
