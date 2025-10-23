@@ -45,11 +45,11 @@ Veterans get dramatically different results based on how specific their query is
 
 
 #### More specific searches have better outcomes.
-| Generic → Specific | Volume | CTR | Improvement |
-|-------------------|--------|-----|-------------|
-| "benefits" → "education benefits" | 92,745 → 13,665 | 1% → 37% | +36 points |
-| "benefits" → "chapter 35" | 92,745 → 66,344 | 1% → 52% | +51 points |
-| "file a claim" → "file a disability claim" | 10,099 → 6,540 | 33% → 56% | +23 points |
+| Generic → Specific | CTR |
+|-------------------|-----|
+| "claims" → "supplemental claim" | 21% → 37% |
+| "disability" → "disability letter" | 25% → 67% |
+| "file a claim" → "file a disability claim" | 33% → 56% |
 
 **Source:** `search keyword data July to October, 2025`
 
