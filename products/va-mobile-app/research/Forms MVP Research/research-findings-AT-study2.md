@@ -176,16 +176,24 @@ This research can impact Veterans across many phases of the Veteran journey from
 **Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
 - Veterans using a screen reader or screen magnifer will be able to easily locate the forms section within the mobile app without extensive guidance.
+
+**Likely false.** The majority of our study participants went first to claims to find or create a claim to submit a statement to. 
+
 - Veterans will be able to follow the intended navigation steps to start a new form from within the app.
+
+**Likely false.** Veterans struggled to navigate to the 'Go to my forms' area from the homepage looking first to claims, and then also from the 'What would you like to do' screen. This this screen created more confusion or doubt that they were in the right place to submit their statment.
 
 **Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
 - Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
 
+**Likely true.** Although improvements to the form itself would make it a better experience for assistive technology users, the majority of the participants responded positively about the process overall.
+
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
 - Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
 
+**Likely true.** Veterans were able to easily continue their started forms in the app. 
 
 
 ## Key Findings
@@ -207,6 +215,22 @@ This research can impact Veterans across many phases of the Veteran journey from
 ## Details of Findings 
 
 **1.** AT users had mixed feelings about the process of completing forms in the app. ​
+- 5 respondents felt positive about the process of completing a form in the app. Noting it was simple, easy, or exciting. Expressing feeling good about their abilities to do it themselves.​
+​
+​
+​>“It’s easy - You don’t want to have to drive to a location 30 miles away and do it in person. You can do it right there at your kitchen table. And it’s convenient. It’s fast, it’s easy, it’s convenient.” - Participant 2​
+
+<br>​
+
+- 5 respondents felt that improvements would make this feature more desirable. Including:​
+1. Pre-filled form fields​
+2. Simple, clear content improvements​
+3. An app-based layout (vs. Web-view)​
+4. Consistent navigation​
+​
+​
+​
+​"I'm hoping because it's my app it automatically fills in some of the data that it knows. - Like, here, you know, read it, tap it, sign it, boom. Like, that'd be really cool.” - Participant 4​
 
 **2.** Veterans expect to find statements in support of a claim under the claims section of the app. ​
 
