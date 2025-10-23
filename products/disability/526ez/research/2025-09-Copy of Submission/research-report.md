@@ -273,20 +273,20 @@ When asked how they would change the confirmation page, some participants though
 
 ## Detailed Recommendations
 1. **Recommendation:** Explore how to make the data submitted accordion a component that stands out to users, especially on mobile.
-   - <u>Priority</u>: Critically important
-   - <u>Estimated size of work to implement</u>: M   
+   - **Priority**: Critically important
+   - **Estimated size of work to implement**: M   
    - _Supporting evidence: Given that a substantial number of our participants (3/8) missed the data submitted accordion without prompting, and that most of our participants would find value in keeping a copy of their submission, it is crucial that we make the accordion a component that users cannot miss so they know they could save a copy of their submission from the confirmation page._
 1. **Recommendation:** Explore how to explicitly indicate to users that the information on the confirmation page will disappear once they leave the page.
-   - <u>Priority</u>: Very important
-   - <u>Estimated size of work to implement</u>: S     
+   - **Priority**: Very important
+   - **Estimated size of work to implement**: S     
    - _Supporting evidence: Given there is a misconception among participants that the confirmation page and their copy of submission is retrievable in My VA, there is a good chance that Veterans who want to keep a copy of submission would miss their chance to do so if we don't explicitly indicate to users that this page and its corresponding info will not be retrievable once they leave the page._
 1. **Recommendation:** Explore how we can make a user’s copy of submission accessible to them from VA.gov after they leave the confirmation page.
-   - <u>Priority</u>: Very important
-   - <u>Estimated size of work to implement</u>: XL     
+   - **Priority**: Very important
+   - **Estimated size of work to implement**: XL     
    - _Supporting evidence: As all of our participants believed there was a way to retrieve their copies of submission from My VA after they leave the confirmation page, we should match our users’ mental models and provide them with a way to retrieve their copies of submission from VA.gov after they submitted their application._
 1. **Recommendation:** Explore how we can make it clearer to users that the "Print this page for your records" button will allow them to print everything on the page, including the info within the accordion, regardless of whether it is expanded or not.
-   - <u>Priority</u>: Important
-   - <u>Estimated size of work to implement</u>: S  
+   - **Priority**: Important
+   - **Estimated size of work to implement**: S  
    - _Supporting evidence: There was some confusion among participants about what would be printed if they clicked on the "print" button, leading one participant to actually consider taking screenshots of the info within the accordion. As we want our participants to efficiently engage with this page (with no ambiguity in what happens when they do something), it might be helpful to explicitly indicate to our users what will be printed when they engage with the "print" button._
 
 
