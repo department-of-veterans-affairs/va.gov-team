@@ -61,7 +61,7 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
 
-- During part of our session today, **you'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. 
+- During part of our session today, **you'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. We will also be providing you with an account specifically for testing, so you will not see any of your own personal information. 
 
 - Because we want to learn more about how you’re experiencing our digital tools, **I will ask you to talk out loud** about what you’re seeing and how you’re feeling about what you’re seeing.   
     
