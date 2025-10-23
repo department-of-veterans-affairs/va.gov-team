@@ -1,6 +1,13 @@
 # Analytics FAQs
 _This file is intended to record common questions that arise out of the dependent manage DataDog dashboards._
 
+## General DataDog Quesitons
+### What is a dead click?
+- A dead click is when a user clicks on a static or non-interactive element that produces no action, is not a link or button, **and results in no change to the page or navigation**
+
+### What is a rage click?
+- A user frustration signal that occurs when a user clicks the same element on a page **more than three times within a one-second sliding window**
+
 ## [BGS 686c-674 Dashboard v2](https://vagov.ddog-gov.com/dashboard/75y-zzz-nq9/bgs-686c-674-dashboard-v2?fromUser=false&refresh_mode=sliding&from_ts=1758471435839&to_ts=1761063435839&live=true)
 ### Why are there two different off-ramping logs -- one for 686c+674 and one for 674+674c?
 ([source of question](https://dsva.slack.com/archives/C0547Q0K0LF/p1761053403961489))
