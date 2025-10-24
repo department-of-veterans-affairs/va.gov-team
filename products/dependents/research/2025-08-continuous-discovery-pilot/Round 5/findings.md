@@ -62,3 +62,10 @@ Potential future design with three options- "Remove one or more dependents", "Ad
 - When asked which option they would choose to submit information for a **new** dependent, all of the Veterans said that they would choose the add option
 
 - All 4 Veterans preferred this design!
+
+## Next Steps  
+
+- Test the designs with the next cohort in Continuous Discovery to get additional perspectives from Veterans who have added student dependents
+- Follow up with David on questions that were raised:
+     - Which benefits can and cannot be used at the same time as disability dependent student compensation?
+     - Will student dependents automatically be removed on the graduation date that the Veteran provides?
