@@ -233,17 +233,18 @@ sequenceDiagram
 
 ## Key Processes
 
-### User Workflow
-1. User receives SMS/Email with referral link and clicks it.
-2. User is directed to login and authenticate.
-3. After authentication, user is redirected to the referral page.
-4. Frontend retrieves referral data from Vets API and stores it in Redux.
-5. If an appointment exists that matches a referral number of the referral coming in, reject the apppointment, as we are ONLY booking first referral appointments
-6. Frontend checks for EPS appointments and combines them with existing appointments in Redux for the list.
-7. Clicking into the scheduling process shows referral information
-8. After the user verifies this information, they may go to the slots of the provider available (slots are date/time unique points that a user can book an appointment in)
-9. After choosing a slot, the user sees a final verification page
-10. Clicking confirm, will book the appointment in CCRA, and send the user a notification (there are some async processes here in the EPS system and the airgap to the CCRA system)
+### Referral Appointment Scheduling Flow
+
+1. The user receives an SMS or email notification indicating that they can self-schedule an appointment for a referral.  
+2. The notification directs the user to the **Referrals and Requests** page on **vets-website**, which lists all active referrals.  
+3. The user selects the relevant referral from the list.  
+4. **vets-website** retrieves the referral details and displays them to the user.  
+5. If no appointment exists for that referral, the user can begin the scheduling process.  
+6. The user navigates to the **Scheduling View**, where a draft appointment is created and available time slots are displayed.  
+7. After selecting a time slot, the user reviews the appointment details on a **Final Verification** page.  
+8. When the user clicks **Confirm**, the appointment is successfully booked.  
+9. At a later point, the booked appointment is manually synced to external systems by staff.
+
 
 ## Resources
 
