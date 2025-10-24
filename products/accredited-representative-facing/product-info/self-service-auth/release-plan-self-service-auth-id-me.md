@@ -3,7 +3,7 @@
 ### Development
 
 Feature Toggle/flag:
-`TBD` will be disabled in Production prior to staged rollout and will be enabled to an increasing % of users in Production during the staged rollout. This will control visibility of the ID.me authentication method, for Accredited Representative Portal users.
+`TBD` will be disabled in Production prior to staged rollout and will be enabled to users in Production during the staged rollout. This will control visibility of the ID.me authentication method, for Accredited Representative Portal users.
 
 ### Validation
 
