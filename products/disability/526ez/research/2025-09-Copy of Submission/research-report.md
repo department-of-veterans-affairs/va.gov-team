@@ -85,7 +85,10 @@ At present, Veterans cannot see, download, or print a copy of their completed di
 
 This research evaluates our updates and proposed improvements to online disability benefits form's confirmation page.
 
-<img src="images/CoS_fig1.png" alt="The proposed confirmation page solution. Users expand the gray accordion in order to see the information they have submitted on their form." width="500"><img src="images/CoS_fig2.png" alt="The proposed confirmation page solution when the gray accordion is expanded, showing the information a Veteran has submitted on their form." width="500">
+|<img src="images/CoS_fig1.png" alt="The proposed confirmation page solution. Users expand the gray accordion in order to see the information they have submitted on their form." width="400"><img src="images/CoS_fig2.png" alt="The proposed confirmation page solution when the gray accordion is expanded, showing the information a Veteran has submitted on their form." width="400"> | 
+|---|
+
+
 
 ## Research Goals
 1. Gather feedback on the overall content of the confirmation page.
@@ -147,7 +150,8 @@ This research evaluates our updates and proposed improvements to online disabili
 ### 1. Some participants were able to intuitively interact with the submitted data accordion on the confirmation page.
 When tasked to think-out-loud as they read through the confirmation page for the first time, 5 of 8 participants noticed the submitted data accordion without prompting. 3 participants missed the accordion, and they were all accessing their research sessions from either their smartphones (2) or tablet (1). When reviewing the page, they noticed the "Print this page for your records" button and then found the "What to expect" section immediately afterwards, completely skipping the submitted data accordion.
 
-<img src="images/CoS_fig3.png" alt="A screenshot of the proposed confirmation page solution on mobile devices. It is zoomed in on the gray accordion that some users missed during our research sessions.">
+|<img src="images/CoS_fig3.png" alt="A screenshot of the proposed confirmation page solution on mobile devices. It is zoomed in on the gray accordion that some users missed during our research sessions." width="200">|
+|---|
 
 Even though some of our participants missed the accordion when they first encountered the confirmation page, all of our participants (8/8) knew they would find the info they entered in their disability benefits application in the submitted data accordion once the component was brought to their attention. This provides strong evidence that "Information you submitted on this form" is a clear enough descriptor for the submitted data accordion.
 
@@ -155,7 +159,8 @@ Even though some of our participants missed the accordion when they first encoun
 ### 2. Almost all participants thought the most useful piece of information on the confirmation page is their claim status, which is found in the green box.
 After reviewing the confirmation page in its entirety, almost all of our participants (7/8) thought that the information provided in the green box is the most important piece of information on the page because they are mostly concerned about where their application is, and whether there is anything they need to do at this point in time. In the eyes of our participants, the green box outlines clearly that their submission is in progress and they do not need to do anything else at the moment (but wait for a confirmation email, which should come within 10 days).
 
-<img src="images/CoS_fig4.png" alt="Pictured is a partial view of the proposed confirmation page, zoomed in on the green box that most of our participants found as the most useful info on the page." width="700">
+| <img src="images/CoS_fig4.png" alt="Pictured is a partial view of the proposed confirmation page, zoomed in on the green box that most of our participants found as the most useful info on the page." width="700"> |
+|---|
 
 > "I'm always interested in where [my application] is. You know, is it in step 1, step 2, step 3, step 4?" - P1
 
