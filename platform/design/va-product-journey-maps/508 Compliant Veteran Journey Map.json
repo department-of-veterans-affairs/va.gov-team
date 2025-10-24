@@ -1,0 +1,1112 @@
+{
+  "metadata": {
+    "title": "Journeys of Veterans Map",
+    "version": "1.0.0",
+    "description": "A comprehensive machine-readable representation of the Veteran Journey across all life stages, designed for accessible web rendering",
+    "createdDate": "2025-10-24",
+    "organization": "Department of Veterans Affairs - Veterans Experience Office",
+    "contact": "Vets-Experience@VA.gov",
+    "accessibility": {
+      "ariaLabel": "Veteran Journey Map Interactive Visualization",
+      "wcagCompliance": "WCAG 2.1 Level AA",
+      "screenReaderOptimized": true
+    }
+  },
+  "phases": [
+    {
+      "id": "phase-1",
+      "name": "Serving in and Separating from the Military",
+      "order": 1,
+      "color": "#0053BA",
+      "description": "The foundational phase where individuals join the military, serve their country, and begin the separation process",
+      "lifeStages": [
+        {
+          "id": "stage-joining",
+          "name": "Joining",
+          "order": 1,
+          "description": "The initial phase of military service entry",
+          "icon": "military-hat",
+          "ariaLabel": "Life Stage: Joining the Military",
+          "moments": [
+            {
+              "id": "moment-leaving-home",
+              "name": "Leaving home",
+              "type": "standard",
+              "description": "Transitioning from civilian life to military service"
+            },
+            {
+              "id": "moment-embracing-culture",
+              "name": "Embracing military culture",
+              "type": "standard",
+              "description": "Adapting to military values, traditions, and way of life"
+            },
+            {
+              "id": "moment-being-motivated",
+              "name": "Being motivated by the mission",
+              "type": "standard",
+              "description": "Finding purpose and direction through military service"
+            },
+            {
+              "id": "moment-understanding-prospects",
+              "name": "Understanding future prospects",
+              "type": "momentThatMatters",
+              "description": "Envisioning career opportunities and service benefits",
+              "momentThatMattersExplanation": "The promise of VA benefits and services during recruitment is often the first time servicemembers are 'introduced' to VA and factors into decision making around their future."
+            },
+            {
+              "id": "moment-preparing-service",
+              "name": "Preparing for military service",
+              "type": "standard",
+              "description": "Getting ready for the responsibilities and challenges of military life"
+            }
+          ]
+        },
+        {
+          "id": "stage-serving",
+          "name": "Serving",
+          "order": 2,
+          "description": "Active military service phase with ongoing responsibilities and personal development",
+          "icon": "military-rank",
+          "ariaLabel": "Life Stage: Serving in the Military",
+          "moments": [
+            {
+              "id": "moment-adapting-culture",
+              "name": "Adapting to military culture",
+              "type": "standard",
+              "description": "Becoming proficient in military operations and protocols"
+            },
+            {
+              "id": "moment-managing-obligations",
+              "name": "Managing military and family obligations",
+              "type": "momentThatMatters",
+              "description": "Balancing service duties with personal and family responsibilities",
+              "momentThatMattersExplanation": "Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for Servicemembers balancing life inside and outside of the military. This is often the first interaction with VA.",
+              "services": [
+                {
+                  "id": "service-gi-bill",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-va-home-loan",
+                  "name": "VA Home Loan",
+                  "url": "/benefits/housing/home-loans/",
+                  "category": "Housing"
+                },
+                {
+                  "id": "service-life-insurance",
+                  "name": "Life insurance",
+                  "url": "/benefits/insurance/",
+                  "category": "Insurance"
+                }
+              ]
+            },
+            {
+              "id": "moment-doing-well",
+              "name": "Doing well by my unit",
+              "type": "standard",
+              "description": "Contributing effectively to team mission and unit cohesion"
+            },
+            {
+              "id": "moment-fulfilling-obligation",
+              "name": "Fulfilling my military obligation",
+              "type": "standard",
+              "description": "Completing service commitment with dedication and professionalism"
+            }
+          ]
+        },
+        {
+          "id": "stage-getting-out",
+          "name": "Getting Out",
+          "order": 3,
+          "description": "The transition and separation process from active military service",
+          "icon": "transition",
+          "ariaLabel": "Life Stage: Getting Out and Separating",
+          "moments": [
+            {
+              "id": "moment-understanding-separation",
+              "name": "Understanding the process of separating",
+              "type": "momentThatMatters",
+              "description": "Learning about separation procedures, timelines, and requirements",
+              "momentThatMattersExplanation": "Separation programs pack in a lot of good information but are delivered at a moment when Veterans are not ready or able to absorb the information.",
+              "services": [
+                {
+                  "id": "service-tap",
+                  "name": "Transition Assistance Program (TAP)",
+                  "url": "/benefits/separation/tap/",
+                  "category": "Transition Support"
+                }
+              ]
+            },
+            {
+              "id": "moment-completing-paperwork",
+              "name": "Completing my paperwork",
+              "type": "standard",
+              "description": "Handling all necessary documentation for separation"
+            },
+            {
+              "id": "moment-engaging-va-separation",
+              "name": "Engaging VA to access benefits and services",
+              "type": "standard",
+              "description": "Beginning to learn about and access VA benefits available as a Veteran",
+              "services": [
+                {
+                  "id": "service-gi-bill-sep",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-home-loan-sep",
+                  "name": "Home Loan",
+                  "url": "/benefits/housing/home-loans/",
+                  "category": "Housing"
+                },
+                {
+                  "id": "service-predischarge",
+                  "name": "Pre-discharge Program (Disability Compensation)",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                },
+                {
+                  "id": "service-healthcare-sep",
+                  "name": "Healthcare",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase-2",
+      "name": "Living Civilian Life",
+      "order": 2,
+      "color": "#00A86B",
+      "description": "The longest and most active phase where Veterans navigate civilian employment, family, education, and health",
+      "lifeStages": [
+        {
+          "id": "stage-starting-up",
+          "name": "Starting Up",
+          "order": 1,
+          "description": "Early civilian transition with focus on immediate needs and reconnection",
+          "icon": "home-launch",
+          "ariaLabel": "Life Stage: Starting Up in Civilian Life",
+          "moments": [
+            {
+              "id": "moment-finding-something",
+              "name": "Finding something to do",
+              "type": "momentThatMatters",
+              "description": "Identifying meaningful activities, education, or employment opportunities",
+              "momentThatMattersExplanation": "Finding something to do like returning to school, going to work, or connecting with the community decreases the risk of harmful behaviors like substance abuse.",
+              "services": [
+                {
+                  "id": "service-gi-bill-startup",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-vocational-rehab",
+                  "name": "Vocational Rehab & Employment",
+                  "url": "/benefits/vocational-rehabilitation/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-career-center",
+                  "name": "Career Center",
+                  "url": "/benefits/employment/career-center/",
+                  "category": "Employment"
+                }
+              ]
+            },
+            {
+              "id": "moment-reestablishing-relationships",
+              "name": "Re-establishing and creating relationships",
+              "type": "standard",
+              "description": "Reconnecting with family and friends, building new civilian networks",
+              "services": [
+                {
+                  "id": "service-vet-center-relationships",
+                  "name": "Vet Center",
+                  "url": "/health/vet-center/",
+                  "category": "Mental Health"
+                }
+              ]
+            },
+            {
+              "id": "moment-balancing-finances",
+              "name": "Balancing finances",
+              "type": "standard",
+              "description": "Managing money, budgeting, and financial planning in civilian life"
+            },
+            {
+              "id": "moment-attending-health",
+              "name": "Attending to health needs",
+              "type": "momentThatMatters",
+              "description": "Establishing healthcare coverage and addressing immediate health concerns",
+              "momentThatMattersExplanation": "Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for a service-related disability or have no other option.",
+              "services": [
+                {
+                  "id": "service-va-healthcare",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-myhealthevet",
+                  "name": "MyHealtheVet",
+                  "url": "/health/myhealthevet/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-pharmacy",
+                  "name": "Pharmacy",
+                  "url": "/health/pharmacy/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-disability-health",
+                  "name": "Disability Health Condition",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                },
+                {
+                  "id": "service-comp-exam",
+                  "name": "Compensation & Pension Exam",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                },
+                {
+                  "id": "service-postdeploy-clinic",
+                  "name": "Post-Deployment Clinic",
+                  "url": "/health/post-deployment-health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-welcome-home",
+                  "name": "Welcome Home Events",
+                  "url": "/benefits/community/events/",
+                  "category": "Community"
+                },
+                {
+                  "id": "service-vet-center-health",
+                  "name": "Vet Center",
+                  "url": "/health/vet-center/",
+                  "category": "Mental Health"
+                }
+              ]
+            },
+            {
+              "id": "moment-finding-place",
+              "name": "Finding a place to live",
+              "type": "standard",
+              "description": "Securing housing in the civilian community",
+              "services": [
+                {
+                  "id": "service-home-loan-housing",
+                  "name": "VA Home Loan",
+                  "url": "/benefits/housing/home-loans/",
+                  "category": "Housing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "stage-taking-care-myself",
+          "name": "Taking care of myself",
+          "order": 2,
+          "description": "Focus on personal health, wellness, and mental health management",
+          "icon": "wellness",
+          "ariaLabel": "Life Stage: Taking Care of Myself",
+          "moments": [
+            {
+              "id": "moment-mental-health",
+              "name": "Recognizing and addressing mental health needs",
+              "type": "momentThatMatters",
+              "description": "Identifying and seeking help for mental health concerns",
+              "momentThatMattersExplanation": "Veterans with mental health needs often have a difficult time accessing providers and feeling safe once in care — not just at VA, but in the entire mental healthcare industry.",
+              "services": [
+                {
+                  "id": "service-mental-health-care",
+                  "name": "Mental Health Care",
+                  "url": "/health/mental-health/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-pts",
+                  "name": "PTS Services",
+                  "url": "/health/mental-health/ptsd/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-psych-rehab",
+                  "name": "Psychosocial Rehabilitation & Recovery Services",
+                  "url": "/health/mental-health/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-crisis-line",
+                  "name": "Veteran Crisis Line",
+                  "url": "/health/crisis-line/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-mst-counseling",
+                  "name": "MST Counseling",
+                  "url": "/health/mental-health/mst/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-social-work",
+                  "name": "Social work",
+                  "url": "/health/social-work/",
+                  "category": "Mental Health"
+                }
+              ]
+            },
+            {
+              "id": "moment-primary-care",
+              "name": "Managing primary care and chronic health issues",
+              "type": "momentThatMatters",
+              "description": "Ongoing management of medical conditions and preventive care",
+              "momentThatMattersExplanation": "A lack of formal or informal knowledge transfer between providers leads to Veterans experiencing discontinuity within VA and between VA and external sources of healthcare.",
+              "services": [
+                {
+                  "id": "service-va-healthcare-primary",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-disability-comp",
+                  "name": "Disability Compensation",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                },
+                {
+                  "id": "service-prescriptions",
+                  "name": "Prescription Services",
+                  "url": "/health/pharmacy/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-inpatient",
+                  "name": "Inpatient Care",
+                  "url": "/health/inpatient-care/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-choice-act",
+                  "name": "Choice Act",
+                  "url": "/health/community-care/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-acute-health",
+              "name": "Seeking support for an acute health event",
+              "type": "standard",
+              "description": "Getting emergency or urgent medical care when needed",
+              "services": [
+                {
+                  "id": "service-va-healthcare-acute",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-prescriptions-acute",
+                  "name": "Prescription Services",
+                  "url": "/health/pharmacy/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-emergency",
+                  "name": "Emergency Care",
+                  "url": "/health/emergency-care/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-specialized",
+                  "name": "Specialized Care",
+                  "url": "/health/specialty-care/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-maintaining-health",
+              "name": "Maintaining my health",
+              "type": "standard",
+              "description": "Staying healthy through preventive care and wellness activities",
+              "services": [
+                {
+                  "id": "service-va-healthcare-maintain",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-myhealthevet-maintain",
+                  "name": "MyHealtheVet",
+                  "url": "/health/myhealthevet/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-preventative",
+                  "name": "Preventative Care",
+                  "url": "/health/preventive-care/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-pharmacy-maintain",
+                  "name": "Pharmacy",
+                  "url": "/health/pharmacy/",
+                  "category": "Healthcare"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "stage-reinventing-myself",
+          "name": "Reinventing Myself",
+          "order": 3,
+          "description": "Career development and professional growth in civilian sector",
+          "icon": "career",
+          "ariaLabel": "Life Stage: Reinventing Myself",
+          "moments": [
+            {
+              "id": "moment-building-network",
+              "name": "Building my network",
+              "type": "standard",
+              "description": "Expanding professional and personal connections in civilian space"
+            },
+            {
+              "id": "moment-translating-skills",
+              "name": "Translating my military skills",
+              "type": "standard",
+              "description": "Converting military experience and training to civilian job market",
+              "services": [
+                {
+                  "id": "service-skills-translator",
+                  "name": "Skills Translator",
+                  "url": "/benefits/employment/skills-translator/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-career-center-skills",
+                  "name": "Career Center",
+                  "url": "/benefits/employment/career-center/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-resume-builder",
+                  "name": "Resume Builder",
+                  "url": "/benefits/employment/resume-builder/",
+                  "category": "Employment"
+                }
+              ]
+            },
+            {
+              "id": "moment-acquiring-education",
+              "name": "Acquiring the appropriate education, new skills, and credentials",
+              "type": "momentThatMatters",
+              "description": "Pursuing education and training to enhance career prospects",
+              "momentThatMattersExplanation": "Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their skill sets.",
+              "services": [
+                {
+                  "id": "service-gi-bill-education",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-vocational-rehab-education",
+                  "name": "Vocational Rehab & Employment",
+                  "url": "/benefits/vocational-rehabilitation/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-educational-counseling",
+                  "name": "Educational & Vocational Counseling",
+                  "url": "/benefits/vocational-rehabilitation/",
+                  "category": "Employment"
+                }
+              ]
+            },
+            {
+              "id": "moment-finding-job",
+              "name": "Finding the right job",
+              "type": "standard",
+              "description": "Securing meaningful employment aligned with skills and goals",
+              "services": [
+                {
+                  "id": "service-career-center-job",
+                  "name": "Career Center",
+                  "url": "/benefits/employment/career-center/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-job-bank",
+                  "name": "Veterans Job Bank",
+                  "url": "/benefits/employment/job-bank/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-resume-builder-job",
+                  "name": "Resume Builder",
+                  "url": "/benefits/employment/resume-builder/",
+                  "category": "Employment"
+                },
+                {
+                  "id": "service-va-employment",
+                  "name": "VA Employment",
+                  "url": "/benefits/employment/",
+                  "category": "Employment"
+                }
+              ]
+            },
+            {
+              "id": "moment-professional-reputation",
+              "name": "Building my professional reputation",
+              "type": "standard",
+              "description": "Establishing credibility and success in civilian career"
+            }
+          ]
+        },
+        {
+          "id": "stage-putting-down-roots",
+          "name": "Putting Down Roots",
+          "order": 4,
+          "description": "Building family, home, community, and long-term stability",
+          "icon": "home",
+          "ariaLabel": "Life Stage: Putting Down Roots",
+          "moments": [
+            {
+              "id": "moment-family",
+              "name": "Starting, growing, or maintaining my family",
+              "type": "standard",
+              "description": "Building and sustaining family relationships and responsibilities"
+            },
+            {
+              "id": "moment-revisiting-housing",
+              "name": "Revisiting housing",
+              "type": "standard",
+              "description": "Reassessing housing needs and exploring home ownership options",
+              "services": [
+                {
+                  "id": "service-home-loan-revisit",
+                  "name": "VA Home Loan",
+                  "url": "/benefits/housing/home-loans/",
+                  "category": "Housing"
+                },
+                {
+                  "id": "service-refinancing",
+                  "name": "VA Refinancing",
+                  "url": "/benefits/housing/refinancing/",
+                  "category": "Housing"
+                }
+              ]
+            },
+            {
+              "id": "moment-maintaining-financial",
+              "name": "Maintaining my financial, social, and emotional health",
+              "type": "standard",
+              "description": "Managing finances, relationships, and mental wellbeing",
+              "services": [
+                {
+                  "id": "service-vet-center-financial",
+                  "name": "Vet Center",
+                  "url": "/health/vet-center/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-mental-health-center",
+                  "name": "VA Mental Health Center",
+                  "url": "/health/mental-health/",
+                  "category": "Mental Health"
+                },
+                {
+                  "id": "service-social-work-financial",
+                  "name": "Social work",
+                  "url": "/health/social-work/",
+                  "category": "Mental Health"
+                }
+              ]
+            },
+            {
+              "id": "moment-connecting-community",
+              "name": "Connecting with and serving my community",
+              "type": "momentThatMatters",
+              "description": "Engaging with community and giving back through volunteer work",
+              "momentThatMattersExplanation": "Through bonding over shared experiences on social media, at in-person events, and via support networks, Veterans create a sense of community.",
+              "services": [
+                {
+                  "id": "service-myva-communities",
+                  "name": "myVA Communities",
+                  "url": "/benefits/community/",
+                  "category": "Community"
+                },
+                {
+                  "id": "service-vsos",
+                  "name": "VSOs",
+                  "url": "/benefits/community/veteran-service-organizations/",
+                  "category": "Community"
+                }
+              ]
+            },
+            {
+              "id": "moment-taking-care-family",
+              "name": "Taking care of my family",
+              "type": "standard",
+              "description": "Providing for family needs including education and financial security",
+              "services": [
+                {
+                  "id": "service-gi-bill-family",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-life-insurance-family",
+                  "name": "Life Insurance",
+                  "url": "/benefits/insurance/",
+                  "category": "Insurance"
+                }
+              ]
+            },
+            {
+              "id": "moment-saving-retirement",
+              "name": "Saving for my retirement",
+              "type": "standard",
+              "description": "Planning and saving for long-term financial security",
+              "services": [
+                {
+                  "id": "service-veterans-pension",
+                  "name": "Veteran's Pension",
+                  "url": "/benefits/pension/",
+                  "category": "Financial"
+                },
+                {
+                  "id": "service-disability-comp-retirement",
+                  "name": "Disability Compensation",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                }
+              ]
+            },
+            {
+              "id": "moment-engaging-va-roots",
+              "name": "Engaging VA to access benefits and services",
+              "type": "standard",
+              "description": "Continuing engagement with VA for ongoing benefits and services",
+              "services": [
+                {
+                  "id": "service-gi-bill-roots",
+                  "name": "GI Bill",
+                  "url": "/benefits/education/gi-bill/",
+                  "category": "Education"
+                },
+                {
+                  "id": "service-home-loan-roots",
+                  "name": "Home Loan",
+                  "url": "/benefits/housing/home-loans/",
+                  "category": "Housing"
+                },
+                {
+                  "id": "service-predischarge-roots",
+                  "name": "Pre-discharge Program (Disability Compensation)",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                },
+                {
+                  "id": "service-healthcare-roots",
+                  "name": "Healthcare",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase-3",
+      "name": "Retiring and Aging",
+      "order": 3,
+      "color": "#E31D23",
+      "description": "The final phase focused on retirement, healthcare, legacy, and end-of-life planning",
+      "lifeStages": [
+        {
+          "id": "stage-retiring",
+          "name": "Retiring",
+          "order": 1,
+          "description": "Transition to retirement with focus on financial security and health maintenance",
+          "icon": "retirement",
+          "ariaLabel": "Life Stage: Retiring",
+          "moments": [
+            {
+              "id": "moment-income-sources",
+              "name": "Finding additional sources of income",
+              "type": "standard",
+              "description": "Identifying pension, disability compensation, and other income sources",
+              "services": [
+                {
+                  "id": "service-veterans-pension-retire",
+                  "name": "VA Veteran's Pension",
+                  "url": "/benefits/pension/",
+                  "category": "Financial"
+                },
+                {
+                  "id": "service-disability-comp-retire",
+                  "name": "Disability Compensation",
+                  "url": "/benefits/disability/",
+                  "category": "Disability"
+                }
+              ]
+            },
+            {
+              "id": "moment-health-retirement",
+              "name": "Taking care of my health",
+              "type": "momentThatMatters",
+              "description": "Managing healthcare and addressing new health concerns in retirement",
+              "momentThatMattersExplanation": "Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this moment.",
+              "services": [
+                {
+                  "id": "service-va-healthcare-retire",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-audiology",
+                  "name": "Audiology",
+                  "url": "/health/audiology/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-blind-vision",
+                  "name": "Blind & Vision Rehab",
+                  "url": "/health/blind-vision/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-specialized-retire",
+                  "name": "Specialized Care",
+                  "url": "/health/specialty-care/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-meaningful-activities",
+              "name": "Participating in meaningful activities",
+              "type": "standard",
+              "description": "Staying active and engaged through social and recreational activities",
+              "services": [
+                {
+                  "id": "service-vet-center-retire",
+                  "name": "Vet Center",
+                  "url": "/health/vet-center/",
+                  "category": "Mental Health"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "stage-aging",
+          "name": "Aging",
+          "order": 2,
+          "description": "Advanced age with focus on managing health decline and maintaining independence",
+          "icon": "senior",
+          "ariaLabel": "Life Stage: Aging",
+          "moments": [
+            {
+              "id": "moment-declining-health",
+              "name": "Managing my declining health",
+              "type": "momentThatMatters",
+              "description": "Managing complex health issues and planning appropriate care",
+              "momentThatMattersExplanation": "Veterans increasingly seek alternatives to institutional based care and instead wish to stay independent for longer, remaining in their homes and communities.",
+              "services": [
+                {
+                  "id": "service-va-healthcare-aging",
+                  "name": "VA Health Care",
+                  "url": "/health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-geriatric-care",
+                  "name": "Geriatric & Extended Care",
+                  "url": "/health/geriatric-care/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-home-health",
+                  "name": "Home Health Care",
+                  "url": "/health/home-health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-caregiver",
+                  "name": "Caregiver Services",
+                  "url": "/health/caregiver/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-planning-longterm",
+              "name": "Planning for longer term care",
+              "type": "standard",
+              "description": "Making decisions about future care needs and living arrangements",
+              "services": [
+                {
+                  "id": "service-pact-teams",
+                  "name": "PACT teams",
+                  "url": "/health/primary-care/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-eol-planning",
+                  "name": "Holistic end of life planning",
+                  "url": "/health/end-of-life/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-adapting-support",
+              "name": "Adapting my support network to my new needs",
+              "type": "standard",
+              "description": "Adjusting family and community support as care needs increase",
+              "services": [
+                {
+                  "id": "service-caregiver-support",
+                  "name": "Caregiver Services",
+                  "url": "/health/caregiver/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-home-health-support",
+                  "name": "Home Health Care",
+                  "url": "/health/home-health/",
+                  "category": "Healthcare"
+                },
+                {
+                  "id": "service-geriatric-extended",
+                  "name": "Geriatric & Extended Health",
+                  "url": "/health/geriatric-care/",
+                  "category": "Healthcare"
+                }
+              ]
+            },
+            {
+              "id": "moment-social-connections",
+              "name": "Maintaining social and community connections",
+              "type": "momentThatMatters",
+              "description": "Staying connected with community and social networks during aging",
+              "momentThatMattersExplanation": "Sustaining a sense of community and social connection is critical to Veterans' well-being as they age."
+            }
+          ]
+        },
+        {
+          "id": "stage-dying",
+          "name": "Dying",
+          "order": 3,
+          "description": "End-of-life planning and family transition support",
+          "icon": "memorial",
+          "ariaLabel": "Life Stage: End of Life",
+          "moments": [
+            {
+              "id": "moment-memorialization",
+              "name": "Deciding how and where to be memorialized",
+              "type": "standard",
+              "description": "Planning memorial preferences and final arrangements",
+              "services": [
+                {
+                  "id": "service-burial-benefits",
+                  "name": "Burial Benefits",
+                  "url": "/benefits/burial/",
+                  "category": "Benefits"
+                },
+                {
+                  "id": "service-burial-allowance",
+                  "name": "Burial Allowance",
+                  "url": "/benefits/burial/",
+                  "category": "Financial"
+                },
+                {
+                  "id": "service-survivors-benefits",
+                  "name": "Survivor's Benefits",
+                  "url": "/benefits/survivor/",
+                  "category": "Financial"
+                }
+              ]
+            },
+            {
+              "id": "moment-funeral-planning",
+              "name": "Scheduling and planning a funeral service",
+              "type": "momentThatMatters",
+              "description": "Making arrangements for funeral and final services",
+              "momentThatMattersExplanation": "Often the first time a Veteran's family interacts directly with VA is during the highly-emotional time of a Veteran's death.",
+              "services": [
+                {
+                  "id": "service-burial-benefits-funeral",
+                  "name": "Burial Benefits",
+                  "url": "/benefits/burial/",
+                  "category": "Benefits"
+                },
+                {
+                  "id": "service-burial-allowance-funeral",
+                  "name": "Burial Allowance",
+                  "url": "/benefits/burial/",
+                  "category": "Financial"
+                },
+                {
+                  "id": "service-survivors-benefits-funeral",
+                  "name": "Survivor's Benefits",
+                  "url": "/benefits/survivor/",
+                  "category": "Financial"
+                },
+                {
+                  "id": "service-grief-counseling",
+                  "name": "Grief Counseling",
+                  "url": "/health/mental-health/grief/",
+                  "category": "Mental Health"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "crossCuttingTopics": {
+    "description": "Life events that can impact Veterans at any point across the journey",
+    "events": [
+      {
+        "id": "event-marriage",
+        "name": "Marriage",
+        "description": "Impact on family status, benefits eligibility, and support systems"
+      },
+      {
+        "id": "event-divorce",
+        "name": "Divorce",
+        "description": "Changes to family status and financial arrangements"
+      },
+      {
+        "id": "event-widowhood",
+        "name": "Widowhood",
+        "description": "Major life transition and survivor benefit implications"
+      },
+      {
+        "id": "event-child-birth",
+        "name": "Birth of a child",
+        "description": "New family responsibilities and dependent benefits"
+      },
+      {
+        "id": "event-education",
+        "name": "Obtaining a new degree",
+        "description": "Career advancement and GI Bill usage"
+      },
+      {
+        "id": "event-housing-loss",
+        "name": "Loss of housing",
+        "description": "Immediate need for VA housing assistance and support services"
+      },
+      {
+        "id": "event-empty-nesting",
+        "name": "Empty nesting",
+        "description": "Life stage transition and new priorities"
+      },
+      {
+        "id": "event-major-illness",
+        "name": "Major illness",
+        "description": "Healthcare needs and potential disability claims"
+      }
+    ]
+  },
+  "legacyInformation": {
+    "organization": "Veterans Experience Office",
+    "contact": "Vets-Experience@VA.gov",
+    "description": "The Veterans Experience team traveled across the country to meet and learn more about Veterans from all eras and branches of service. We listened to stories about their diverse military experiences and lives as Veterans.",
+    "purpose": "To catalyze action through analysis of customer insights, so we can align what we do with the needs and expectations of who we serve."
+  },
+  "legend": {
+    "momentTypes": [
+      {
+        "type": "standard",
+        "label": "Moment",
+        "description": "A typical experience Veterans encounter during a life stage",
+        "icon": "circle",
+        "color": "#505050"
+      },
+      {
+        "type": "momentThatMatters",
+        "label": "Moment That Matters",
+        "description": "A critical moment with significant impact on Veterans' experiences",
+        "icon": "star",
+        "color": "#FFB81C"
+      }
+    ],
+    "serviceCategories": [
+      {
+        "id": "category-education",
+        "name": "Education",
+        "color": "#00A86B",
+        "description": "GI Bill and educational benefits"
+      },
+      {
+        "id": "category-healthcare",
+        "name": "Healthcare",
+        "color": "#E31D23",
+        "description": "VA health and medical services"
+      },
+      {
+        "id": "category-mental-health",
+        "name": "Mental Health",
+        "color": "#9B2D20",
+        "description": "Mental health and counseling services"
+      },
+      {
+        "id": "category-employment",
+        "name": "Employment",
+        "color": "#0053BA",
+        "description": "Vocational and career services"
+      },
+      {
+        "id": "category-housing",
+        "name": "Housing",
+        "color": "#512E1C",
+        "description": "Home loan and housing benefits"
+      },
+      {
+        "id": "category-financial",
+        "name": "Financial",
+        "color": "#4A90E2",
+        "description": "Financial and pension benefits"
+      },
+      {
+        "id": "category-disability",
+        "name": "Disability",
+        "color": "#F5A623",
+        "description": "Disability compensation and related services"
+      },
+      {
+        "id": "category-community",
+        "name": "Community",
+        "color": "#7ED321",
+        "description": "Community engagement and volunteer opportunities"
+      }
+    ]
+  }
+}
