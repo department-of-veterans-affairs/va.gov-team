@@ -85,6 +85,10 @@ end
 |<img width="475" alt="fields[1] (expected)" src="https://github.com/user-attachments/assets/085fa281-9362-492c-a213-281e1c300064" />
 |-
 
+### The above is all assuming we are using PDFtk. What happens if we use HexaPDF to fill the form?
+|<img width="1025" alt="HexaPDF form filling error" src="https://github.com/user-attachments/assets/3a63a503-8c73-4a86-934f-a9e81dabe551" />
+|-
+
 ### PDF fill code changes (now Rspec will fail as expected)
 #### Before
 ```ruby
