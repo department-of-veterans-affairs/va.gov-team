@@ -76,7 +76,8 @@ Analysis of user verbatims from Medallia A11 intercept and VFS feedback surveys 
 **Login issues**: 6
 
 **Facility Locator reported to be down, displaying a maintenance banner, or not loading as expected. Many described it as "a blank page"**: 54
-- Example responses
+- This type of feedback was reported during all three months of the quarter
+- - Example responses
   - "find my regional office. the site crashed and wont open the page or the page is blank"
   - "Find a Va Location for my issue, but the site for two days would not populate like it has in the past"
   - "Find VA locations. Facility Locator has been down for a long time now."
