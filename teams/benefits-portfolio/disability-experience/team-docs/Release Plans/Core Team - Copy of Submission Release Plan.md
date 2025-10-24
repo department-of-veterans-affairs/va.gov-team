@@ -57,6 +57,11 @@ Then rollout incrementally 1% for a few days with no issues → 25% for a few da
   - Sentry error rate for confirmation page has not increased
 - Links to the dashboard(s) showing "success criteria" metrics: 
   - GA Dashboard: https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/Q8pGsZFFSlyHtJTEvUyBPw
+    - Average engagement time per active user [report](https://analytics.google.com/analytics/web/#/a50123418p418218150/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fdisability%252Ffile-disability-claim-form-21-526ez%252Fconfirmation%26_r.explorerCard..startRow%3D0&collectionId=8429216671&ruid=F28DC764-9B7E-4D67-897B-5B2E26915911&r=8478585004)
+    - Changes in actions people take on the page [report](https://analytics.google.com/analytics/web/#/a50123418p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22eventName%22,%22unifiedPagePathScreen%22%5D%26_r.explorerCard..filterTerm%3D%252Fdisability%252Ffile-disability-claim-form-21-526ez%252Fconfirmation%26_r.explorerCard..startRow%3D0%26_r..dataFilters%3D%5B%5D&r=top-events&ruid=D5BB15C6-755E-4252-9BAF-C1529F91E2AC&collectionId=8429185582)
+    - 526 Overall Form Abandonment [exploration view](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) 
+
+  
   - Sentry Dashboard: http://sentry.vfs.va.gov/organizations/vsp/discover/results
 - Who is monitoring the dashboard(s)?: PM, Engineering lead, core team engineers
 
