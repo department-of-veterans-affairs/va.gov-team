@@ -113,13 +113,13 @@ These individual widgets within the Main Group are open by default when the dash
 - **Success Percentage:** percentage of successful auths successful/auth attempts
 - **Service Latency:** the amount of time it takes to complete a request (the loading screen)
     - Note that the OAuth (SiS) latency monitors include all services and the SAML monitors only capture the time for that individual service to load
-- **True Return Percentage:** it’s hard to measure unique users before attempts because you don’t know who they are before they sign in. We created a unique fingerprint for each new user over a 30 minute period and saw whether they successfully returned to us. All users who attempted to log in and how many returned to VA.gov. For example, 1 user could click the CSP button 5 different times and we’ll count it once. The unique fingerprint for that browser or device is matched to a successful return within a 30 minute period.
+- **True Return Percentage:** it’s hard to measure unique users before attempts because you don’t know who they are before they sign in. We created a unique fingerprint for each new user over a 30 minute period and saw whether they successfully returned to us. All users who attempted to log in and how many returned to VA.gov. For example, 1 user could click the CSP button 5 different times and we’ll count it once.
     - As an aside: we are seeing some issues with the numbers on the mobile app (possibly because of how they implemented SiS):
         - Mobile app collects and stores **all** state values when only one is valid, which could be slowing down the system on some devices
         - Seemed to be a problem on Assistive Technology (AT)
 - **Requests/Responses:** another way to calculate authentication attempts over authentications
 - **Auto-login -** when a user goes to another website they are recognized as an authenticated user without needing to enter in their username and password.
-- **Fingerprint:** User agent + IP address that we read from the logs to discern how many unique users are interacting with the service
+- **Fingerprint:** definition is [here](https://docs.google.com/document/d/1F91AOQznB4XaDpuVSX7th_sqIL56GKJcd29hHULDoUY/edit?tab=t.0#heading=h.oerpqq6ee3ib) (to be documented in sensitive repo).
 - **Inbound (also called “custom”)** - starts on an app outside of [va.gov](http://va.gov/) and then goes to [va.gov](http://va.gov/) for an auto login (SSOe).
 - **Outbound** - starts on [va.gov](http://va.gov/) and stays there or goes to another SSO-enabled app.
 - **Users:** measurements requested for external auth reporting where they just want to know how many people are using the system as opposed to how much they’re using it i.e. population (unique users) vs product usage (users)
