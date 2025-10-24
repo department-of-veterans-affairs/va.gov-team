@@ -290,6 +290,65 @@ Store all claims from various sources in a central database, query from there.
 - Increases infrastructure complexity
 - Real-time data freshness concerns
 
+### Alternative 4: Frontend-Orchestrated Provider Requests
+Modify the controller to accept a provider identifier (via parameter or header), allowing frontend clients to make concurrent requests directly to individual providers. The backend would return results from a single specified provider per request, with the frontend responsible for orchestrating parallel calls and aggregating results.
+
+**Implementation approach**:
+```ruby
+# Controller modification
+def index
+  provider = provider_from_params # e.g., 'lighthouse', 'champva'
+  claims = get_claims_from_provider(provider)
+  render json: claims
+end
+
+private
+
+def provider_from_params
+  params[:provider] || request.headers['X-Provider-ID']
+end
+
+def get_claims_from_provider(provider_id)
+  provider_class = PROVIDER_REGISTRY[provider_id]
+  provider = provider_class.new(@current_user)
+  provider.get_claims
+end
+```
+
+Frontend would:
+1. Access provider registry configuration (exposed via settings endpoint or embedded in app)
+2. Make concurrent requests to the endpoint for each configured provider
+3. Display results progressively as each provider responds
+4. Show loading states for pending providers
+
+**Benefits**:
+- **Progressive Data Display**: Claims can be displayed immediately as each provider responds, improving perceived performance
+- **True Parallelization**: Frontend makes concurrent requests, eliminating backend sequential processing delays
+- **Better User Experience**: Users see loading indicators per data source and data "pouring in" rather than waiting for all providers
+- **Client Control**: Frontend can implement custom retry logic, timeouts, or priority ordering per provider
+- **Simpler Backend**: Controller logic remains simple - single provider per request
+
+**Trade-offs and Considerations**:
+- **Frontend Complexity**: Orchestration logic moves to frontend (React/mobile apps), increasing client-side complexity
+- **Configuration Management**: Provider registry must be accessible to frontend clients (via API or config embedding)
+- **Multiple HTTP Requests**: N providers = N requests, increasing network overhead and server load
+- **Authentication/Authorization**: Each request must be authenticated, potentially N auth checks per page load
+- **Error Handling Distribution**: Each client must implement robust error handling for partial failures
+- **Network Conditions**: Users on poor connections may see degraded experience with multiple concurrent requests
+- **Mobile Considerations**: Mobile apps need to handle concurrent requests efficiently without draining battery
+- **Caching Complexity**: Need to cache N responses client-side or implement per-provider cache keys
+- **API Rate Limiting**: Multiple concurrent requests may trigger rate limiting protections
+- **Analytics/Logging**: Harder to track complete "claims list load" operations across multiple requests
+- **Inconsistent State**: Time gap between provider responses could show inconsistent data states
+
+**Comparison to Backend Aggregation (Current Decision)**:
+- Backend aggregation (current): Simpler frontend, single request, but slower response time and no progressive loading
+- Frontend orchestration (this alternative): Faster perceived performance and progressive display, but significantly higher complexity in frontend, mobile apps, and configuration management
+
+**Possible hybrid approach**:
+- Provide both endpoints: aggregated (`/claims`) and per-provider (`/claims?provider=champva`)
+- Let frontend choose based on context (fast initial load with per-provider, full refresh with aggregated)
+
 ## References
 - Existing Implementation: `lib/claim_letters/providers/claim_letters/`
 - Current Controller: `app/controllers/v0/benefits_claims_controller.rb`
