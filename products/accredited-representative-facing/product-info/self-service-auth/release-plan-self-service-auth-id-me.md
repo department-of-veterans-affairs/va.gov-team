@@ -2,8 +2,8 @@
 
 Feature Toggle/flag:
 `accredited_representative_portal_id_me` will control visibility of the ID.me authentication method, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
-   - ID.me authentication option
-   - ID.me mentions on the Help page
+1. ID.me authentication option
+2. ID.me mentions on the Help page
 
 ### Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed
