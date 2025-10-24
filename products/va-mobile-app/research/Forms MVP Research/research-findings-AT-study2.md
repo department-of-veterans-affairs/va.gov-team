@@ -1,4 +1,105 @@
+---
+title: "Forms MVP Usability Study 2 - Assistive Technology Users - Research Findings"
+product: "VA Health & Benefits Mobile App"
+team: "Mobile App & Platform Team"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2025-10-22"
+researchers:
+  - "Christine Julian (Researcher)"
+  - "Jonathan Post (UX Designer)"
+research_goals:
+  - "Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app."
+  - "Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own."
+  - "Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete."
+methodology:
+  - "Moderated Usability Testing"
+devices_used:
+    desktop: X
+    tablet: 4
+    smartphone: 6
+    assistive_technology: X
+participants_total: 10
+demographics:
+  veterans: 10
+  service_members: X
+  caregivers: X
+  dependents: X
+  VA_staff: X
+  age:
+    "25-34": X
+    "35-44": 2
+    "45-54": 2
+    "55-64": 4
+    "65+": 3
+  education:
+    high_school: X
+    some_college: 1
+    associates: 2
+    bachelors: 3
+    masters: 4
+    doctorate: X
+    unknown: X
+  location:
+    urban: X
+    rural: X
+    unknown: X
+  race:
+    white: 6
+    black: 4
+    hispanic: X
+    biracial: X
+    asian: X
+    native: X
+  disability:
+    cognitive: 1
+    AT_beginner: 1
+    AT_advanced: 9
+    screen_reader_desktop: X
+    screen_reader_mobile: 5
+    magnification_zoom: 5
+    speech_input: X
+    hearing_aids: X
+    sighted_keyboard: X
+    captions: X
+key_findings:
+  - "1. AT users had mixed feelings about the process of completing forms in the app."
+  - "2. Veterans expect to find statements in support of a claim under the claims section of the app."
+  - "3. The 'What would you like to do?' screen created more doubt to Veterans that they were in the right place to submit their statement in support of a claim."
+  - "4. Veterans struggle to return to the app from webview. Veterans are not aware that they are on a webview instead of the app"
+  - "5. Typing is frustrating for AT users especially on smaller devices, however mobile devices offer easier ways to complete fields."
+  - "6. Statuses are unclear both about the form and app form tabs 'active/complete'."
+recommendations:
+- "1. Address found accessibility issues to improve the app and the digital form.​"
+- "2. Consider multiple pathways to forms. Direct users to the 21-4138 form also under the context of claims."
+- "3. Direct users to the 21-4138 form also under the context of claims, relate the action 'submit a statement' closer to the claim itself." 
+- "4. Clarify the options on the screen 'What would you like to do?’." 
+- "5. Limit or discourage use of webview from the app."
+- "6. Update the text of the ‘Done’ button so users understand when to use it."
+- "7. Consider only frequently utilized, short forms that require minimal typing from the user for the app with prefilled data where available."
+- "8. Clarify statuses, providing additional explanation and showing progression."
 
+kpi_alignment:
+  - "Trust, satisfaction, and equity"
+outcomes:
+  user: "Make it simpler and faster for users to interact with VA and complete day-to-day transactions."
+  business: "Empower business lines to provide targeted communication to Veterans."
+opportunity_areas:
+  - "Introductory screens to form 21-4138"
+  - "Action relationally associated with claims"
+further_research_needed:
+  - "Test with assistive tech users"
+  - "Test the form introductory screens related to 21-4138 after updates to content"
+underserved_groups_missing:
+  - Live abroad
+  - Other than honorable
+  - Immigrant origin
+  - Expat
+  - Identify as LGBTQ+
+secondary_research:
+  - "None"
+synthesis_tools_used:
+  - "Excel Spreadsheet Coding"
+---
 
 # Forms MVP Usability Study Research Findings 
 
@@ -77,7 +178,7 @@ This research can impact Veterans across many phases of the Veteran journey from
 
 - Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
 
-**Likely true.** Although improvements to the form itself would make it a better experience for assistive technology users, the majority of the participants responded positively about the process overall.
+**Likely true.** Although improvements to specific form fields would make it a better experience for assistive technology users, participants were able to complete the fields on their mobile device on their own.
 
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
@@ -414,105 +515,3 @@ This research does not include the perspectives of the following marginalized Ve
 <img width="1440" height="522" alt="image" src="https://github.com/user-attachments/assets/3dbaff8a-31e2-44c8-8133-1794b98eec50" />
 <img width="1440" height="243" alt="image" src="https://github.com/user-attachments/assets/de499aba-41df-42c9-a88c-77e8124e7bff" />
 
-
----
-title: "Forms MVP Usability Study 2 - Assistive Technology Users - Research Findings"
-product: "VA Health & Benefits Mobile App"
-team: "Mobile App & Platform Team"
-office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "2025-10-23"
-researchers:
-  - "Christine Julian (Researcher)"
-  - "Jonathan Post (UX Designer)"
-research_goals:
-  - "Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app."
-  - "Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own."
-  - "Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete."
-methodology:
-  - "Moderated Usability Testing"
-devices_used:
-    desktop: X
-    tablet: 4
-    smartphone: 6 
-    assistive_technology: 10
-participants_total: 10
-demographics:
-  veterans: 10
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
-  age:
-    "25-34": X
-    "35-44": 2
-    "45-54": 2
-    "55-64": 4
-    "65+": 3
-  education:
-    high_school: X
-    some_college: 1
-    associates: 2
-    bachelors: 3
-    masters: 4
-    doctorate: X
-    unknown: X
-  location:
-    urban: x
-    rural: x
-    unknown: X
-  race:
-    white: 6
-    black: 4
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
-  disability:
-    cognitive: 1
-    AT_beginner: 1
-    AT_advanced: 9
-    screen_reader_desktop: X
-    screen_reader_mobile: 5
-    magnification_zoom: 5
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
-key_findings:
-- "1. AT users had mixed feelings about the process of completing forms in the app."
-- "2. Veterans expect to find statements in support of a claim under the claims section of the app."
-- "3. The 'What would you like to do?' screen created more doubt to Veterans that they were in the right place to submit their statement in support of a claim." ​
-- "4. Veterans struggle to return to the app from webview. Veterans are not aware that they are on a webview instead of the app." ​  
-- "5. Typing is frustrating for AT users especially on smaller devices, however mobile devices offer easier ways to complete fields."
-- "6. Statuses are unclear both about the form and app form tabs 'active/complete'."​
-recommendations:
-- "1. Address found accessibility issues to improve the app and the digital form.​"
-- "2. The MVP of forms in the app should focus on providing detailed status progression.​"
-- "3. Direct users to the 21-4138 form also under the context of claims, relate the action 'submit a statement' closer to the claim itself." ​
-- "4. Clarify the options on the screen 'What would you like to do?’."
-- "5. Limit or discourage use of webview from the app. "
-- "6. Update the text of the ‘Done’ button so users understand when to use it."​
-- "7. Consider only frequently utilized, short forms that require minimal typing from the user for the app with prefilled data where available." ​
-- "8. Clarify statuses, providing additional explanation and showing progression." ​
-kpi_alignment:
-  - "Trust, satisfaction, and equity"
-outcomes:
-  - user: "Make it simpler and faster for users to interact with VA and complete day-to-day transactions."
-  - business: "Empower business lines to provide targeted communication to Veterans."
-opportunity_areas:
-  - "Introductory screens to form 21-4138"
-  - "Action relationally associated with claims"
-further_research_needed:
-  - "Test with assistive tech users"
-  - "Test the form introductory screens related to 21-4138 after updates to content"
-underserved_groups_missing:
-  - "Live abroad"
-  - "Other than honorable"
-  - "Immigrant origin"
-  - "Expat"
-  - "Identify as LGBTQ+"
-synthesis_tools_used:
-  - "Excel Spreadsheet Coding"
----
-
----
