@@ -315,20 +315,25 @@ Response when not booked ie: no appointments have been booked for this referral)
 }
 
 ```
-Response when an appointment is found
+Appointment data appended to the response object: 
 ```
-{
-  ...the referral response 
-  "appointments": {
-    system: 'VAOS',
-    data: [
-      {
-        id: 12312312312,
+"data" : {
+   ...
+
+   "appointments": {
+      "EPS":  {
+          "data": [
+             { "id": 12345, status: "booked", "start": "2024-11-21T18:00:00Z" }
+          ]
       },
-    ],
-  },
+      "VAOS":  {
+          "data": [
+             { "id": 56789, status: "booked", "start": "2024-11-21T18:00:00Z" }
+          ] 
+      }
 }
 ```
+
 ### * POST `/vaos/v2/appointments/create_draft` (new)
 Request:
 ```
