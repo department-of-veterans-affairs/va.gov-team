@@ -42,13 +42,13 @@ Here are the notes from the retro session:
 
 - Improve information sharing
      - Continue sharing in Sprint Review (we've been doing this for 2 sprints now)
-     - Standardize/templatize reporting
      - Consider watch parties to offer more opportunities for observations
 
 - Make the pace more sustainable
      - Have other DMT team members facilitate sessions
      - Possibility of PBB team conducting some sessions
      - Take a break each quarter
+     - Standardize/templatize documentation and/or reporting
        
 - Improve planning
      - Create ticket for creating artifacts to account for the time folks need to make them
