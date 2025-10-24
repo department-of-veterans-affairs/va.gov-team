@@ -130,10 +130,10 @@ Where will you be holding the research sessions?
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **4**
-- `Caregivers/Family members:` **6**
+- `Veterans:` **6**
+- `Caregivers/Family members:` **7**
 - `Funeral home staff/Representatives:` **2**
-- `Total:` **12**
+- `Total:` **15**
 - `Ideal completed sessions:` **10**
 
 ### Primary criteria (must-haves)
@@ -150,6 +150,8 @@ Where will you be holding the research sessions?
 - Has accessibility needs or uses assistive technology
 
 ## Timeline 🗓️
+
+- **11/10/2025-11/15/2025**
 
 ### Optional Kick-off Call with Perigean
 
