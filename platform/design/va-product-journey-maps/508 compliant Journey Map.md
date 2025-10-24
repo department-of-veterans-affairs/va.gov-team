@@ -1,8 +1,288 @@
 # Journeys of Veterans Map
 
-This map covers ten life stages any Veteran may encounter, from pre-service to end of life. These life stages are organized in three phases in which Veterans' goals and aspirations are distinctly different. Each life stage lists out moments Veterans typically experience and associated VA services, and calls out key "moments that matter" which may have significant impact on Veterans' experiences.
+This map covers ten life stages any Veteran may encounter, from pre-service to end of life. These life stages are organized in three phases in which Veterans' goals and aspirations are distinctly different.
 
 This page contains an image of the map; the next page is an alternate text version of the map's content for screen readers.
+
+## Journey Map Visualization
+
+```mermaid
+graph LR
+    subgraph Phase1["PHASE 1: Serving in and Separating from the Military"]
+        J[Joining]
+        S[Serving]
+        GO[Getting Out]
+    end
+    
+    subgraph Phase2["PHASE 2: Living Civilian Life"]
+        SU[Starting Up]
+        RM[Reinventing Myself]
+        TC[Taking Care of Myself]
+        PD[Putting Down Roots]
+    end
+    
+    subgraph Phase3["PHASE 3: Retiring and Aging"]
+        R[Retiring]
+        A[Aging]
+        D[Dying]
+    end
+    
+    J -->|ENLIST| S
+    S -->|SEPARATE| GO
+    GO --> SU
+    SU --> RM
+    SU --> TC
+    RM --> PD
+    TC --> PD
+    PD -->|RETIRE| R
+    R --> A
+    A --> D
+    
+    style J fill:#e1f5ff
+    style S fill:#e1f5ff
+    style GO fill:#e1f5ff
+    style SU fill:#fff4e1
+    style RM fill:#fff4e1
+    style TC fill:#fff4e1
+    style PD fill:#fff4e1
+    style R fill:#ffe1e1
+    style A fill:#ffe1e1
+    style D fill:#ffe1e1
+```
+
+### Interactive Journey Map Details
+
+<details>
+<summary><strong>PHASE 1: Joining (Pre-Service)</strong></summary>
+
+**Moments:**
+- Leaving home
+- Embracing military culture
+- Being motivated by the mission
+- Understanding future prospects
+- Preparing for military service
+
+**🔴 MOMENT THAT MATTERS:** The promise of VA benefits and services during recruitment is often the first time servicemembers are "introduced" to VA and factors into decision making around their future.
+
+</details>
+
+<details>
+<summary><strong>PHASE 1: Serving</strong></summary>
+
+**Moments:**
+- Adapting to military culture
+- Managing military and family obligations
+- Doing well by my unit
+- Fulfilling my military obligation
+
+**Associated VA Services:**
+- GI Bill
+- VA Home Loan
+- Life insurance
+
+**🔴 MOMENT THAT MATTERS:** Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for servicemembers balancing life inside and outside of the military.
+
+</details>
+
+<details>
+<summary><strong>PHASE 1: Getting Out (Separation)</strong></summary>
+
+**Moments:**
+- Understanding the process of separating
+- Transition Assistance Program (TAP)
+- Completing my paperwork
+- Engaging VA to access benefits and services
+
+**Associated VA Services:**
+- GI Bill
+- Home Loan
+- Pre-discharge Program (Disability Compensation)
+- Healthcare
+
+**🔴 MOMENT THAT MATTERS:** Separation programs pack in a lot of good information but are delivered at a moment when Veterans are not ready or able to absorb the information.
+
+</details>
+
+<details>
+<summary><strong>PHASE 2: Starting Up</strong></summary>
+
+**Moments:**
+- Finding something to do
+- Re-establishing and creating relationships
+- Balancing finances
+- Attending to health needs
+- Finding a place to live
+
+**Associated VA Services:**
+- GI Bill
+- Career Center
+- Vocational Rehab & Employment
+- Vet Center
+- VA Health Care
+- MyHealtheVet
+- Pharmacy
+- Disability Health Condition
+- Compensation & Pension Exam
+- Post-Deployment Clinic
+- Welcome Home Events
+- VA Home Loan
+
+**🔴 MOMENT THAT MATTERS #1:** Finding something to do like returning to school, going to work, or connecting with the community decreases the risk of harmful behaviors like substance abuse.
+
+**🔴 MOMENT THAT MATTERS #2:** Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for service-related conditions.
+
+</details>
+
+<details>
+<summary><strong>PHASE 2: Reinventing Myself</strong></summary>
+
+**Moments:**
+- Building my network
+- Translating my military skills
+- Acquiring the appropriate education, new skills, and credentials
+- Finding the right job
+- Building my professional reputation
+
+**Associated VA Services:**
+- Skills Translator
+- Career Center
+- Resume Builder
+- GI Bill
+- Vocational Rehab & Employment
+- Educational & Vocational Counseling
+- Veterans Job Bank
+- VA Employment
+
+**🔴 MOMENT THAT MATTERS:** Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their education and credentials.
+
+</details>
+
+<details>
+<summary><strong>PHASE 2: Taking Care of Myself</strong></summary>
+
+**Moments:**
+- Recognizing and addressing mental health needs
+- Managing primary care and chronic health issues
+- Seeking support for an acute health event
+- Maintaining my health
+
+**Associated VA Services:**
+- Mental Health Care
+- PTS Services
+- Psychosocial Rehabilitation & Recovery Services
+- Veteran Crisis Line
+- MST Counseling
+- Social work
+- VA Health Care
+- Disability Compensation
+- Prescription Services
+- Inpatient Care
+- Choice Act
+- Emergency Care
+- Specialized Care
+- MyHealtheVet
+- Preventative Care
+- Pharmacy
+
+**🔴 MOMENT THAT MATTERS #1:** Veterans with mental health needs often have a difficult time accessing providers and feeling safe once in care — not just at VA, but in the entire mental healthcare industry.
+
+**🔴 MOMENT THAT MATTERS #2:** A lack of formal or informal knowledge transfer between providers leads to Veterans experiencing discontinuity within VA and between VA and external sources of healthcare.
+
+</details>
+
+<details>
+<summary><strong>PHASE 2: Putting Down Roots</strong></summary>
+
+**Moments:**
+- Starting, growing, or maintaining my family
+- Revisiting housing
+- Maintaining my financial, social, and emotional health
+- Connecting with and serving my community
+- Taking care of my family
+- Saving for my retirement
+- Engaging VA to access benefits and services
+
+**Associated VA Services:**
+- VA Home Loan
+- VA Refinancing
+- Vet Center
+- VA Mental Health Center
+- Social work
+- myVA Communities
+- VSOs
+- GI Bill
+- Life Insurance
+- Veteran's Pension
+- Disability Compensation
+- Home Loan
+- Pre-discharge Program (Disability Compensation)
+- Healthcare
+
+**🔴 MOMENT THAT MATTERS:** Through bonding over shared experiences on social media, at in-person events, and via support networks, Veterans create a sense of community.
+
+</details>
+
+<details>
+<summary><strong>PHASE 3: Retiring</strong></summary>
+
+**Moments:**
+- Finding additional sources of income
+- Taking care of my health
+- Participating in meaningful activities
+
+**Associated VA Services:**
+- VA Veteran's Pension
+- Disability Compensation
+- VA Health Care
+- Audiology
+- Blind & Vision Rehab
+- Specialized Care
+- Vet Center
+
+**🔴 MOMENT THAT MATTERS:** Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this stage.
+
+</details>
+
+<details>
+<summary><strong>PHASE 3: Aging</strong></summary>
+
+**Moments:**
+- Managing my declining health
+- Planning for longer term care
+- Adapting my support network to my new needs
+- Maintaining social and community connections
+
+**Associated VA Services:**
+- VA Health Care
+- Geriatric & Extended Care
+- Home Health Care
+- Caregiver Services
+- PACT teams
+- Holistic end of life planning
+- Geriatric & Extended Health
+
+**🔴 MOMENT THAT MATTERS #1:** Veterans increasingly seek alternatives to institutional based care and instead wish to stay independent for longer, remaining in their homes and communities.
+
+**🔴 MOMENT THAT MATTERS #2:** Sustaining a sense of community and social connection is critical to Veterans' well-being as they age.
+
+</details>
+
+<details>
+<summary><strong>PHASE 3: Dying</strong></summary>
+
+**Moments:**
+- Deciding how and where to be memorialized
+- Scheduling and planning a funeral service
+
+**Associated VA Services:**
+- Burial Benefits
+- Burial Allowance
+- Survivor's Benefits
+- Grief Counseling
+
+**🔴 MOMENT THAT MATTERS:** Often the first time a Veteran's family interacts directly with VA is during the highly-emotional time of a Veteran's death.
+
+</details>
 
 ## Visual Journey Map Overview
 
@@ -31,7 +311,7 @@ This page contains an image of the map; the next page is an alternate text versi
 - VA Home Loan
 - Life insurance
 
-**MOMENT THAT MATTERS:** Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for servicemembers balancing life inside and outside of the military. This is often the first interaction with VA.
+**MOMENT THAT MATTERS:** Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for servicemembers balancing life inside and outside of the military.
 
 #### Getting Out
 - Understanding the process of separating
@@ -70,12 +350,12 @@ This page contains an image of the map; the next page is an alternate text versi
 
 **MOMENT THAT MATTERS:** Finding something to do like returning to school, going to work, or connecting with the community decreases the risk of harmful behaviors like substance abuse.
 
-**MOMENT THAT MATTERS:** Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for a service-related disability or have no other option.
+**MOMENT THAT MATTERS:** Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for service-related conditions.
 
 ---
 
 ## Legend
-- **Moment that matters** - Significant impact on Veterans' experiences
+- **🔴 Moment that matters** - Significant impact on Veterans' experiences
 - **Moment** - Typical experience Veterans encounter
 - **Life Stage** - Broader phase of the Veteran journey
 
@@ -83,9 +363,9 @@ This page contains an image of the map; the next page is an alternate text versi
 
 ## Important Notes
 
-**Not all Veterans are the same** and there is no "one" veteran. There are, however, a broad set of shared moments many Veterans will encounter and live through. Different Veteran personas will experience and navigate these moments in varied and disparate ways. Using this journey as a guide to organize and align around, VA can plan for and design better experiences for Veterans.
+**Not all Veterans are the same** and there is no "one" veteran. There are, however, a broad set of shared moments many Veterans will encounter and live through. Different Veteran personas will experience these moments differently.
 
-**Life events impact individual goals and change priorities.** Events like marriage, divorce, widowhood, birth of a child, obtaining a new degree, loss of housing, empty nesting, major illness and so on have profound effects on people's priorities and how they approach their lives—as well as how they interact and perceive services. These events are unpredictable and may happen at any point across this journey.
+**Life events impact individual goals and change priorities.** Events like marriage, divorce, widowhood, birth of a child, obtaining a new degree, loss of housing, empty nesting, major illness and so forth impact individual Veteran journeys.
 
 ---
 
@@ -108,7 +388,7 @@ This page contains an image of the map; the next page is an alternate text versi
 - Veterans Job Bank
 - VA Employment
 
-**MOMENT THAT MATTERS:** Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their skill sets.
+**MOMENT THAT MATTERS:** Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their education and credentials.
 
 ### Taking Care of Myself
 - Recognizing and addressing mental health needs
@@ -183,7 +463,7 @@ This page contains an image of the map; the next page is an alternate text versi
 - Specialized Care
 - Vet Center
 
-**MOMENT THAT MATTERS:** Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this moment.
+**MOMENT THAT MATTERS:** Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this stage.
 
 ### Aging
 - Managing my declining health
@@ -230,9 +510,9 @@ Each life stage lists out moments Veterans typically experience and associated V
 
 ### Context and Usage Notes
 
-**Not all Veterans are the same** and there is no "one" veteran. There are, however, a broad set of shared moments many Veterans will encounter and live through. Different Veteran personas will experience and navigate these moments in varied and disparate ways. Using this journey as a guide to organize and align around, VA can plan for and design better experiences for Veterans.
+**Not all Veterans are the same** and there is no "one" veteran. There are, however, a broad set of shared moments many Veterans will encounter and live through. Different Veteran personas will experience these moments differently.
 
-**Life events impact individual goals and change priorities.** Events like marriage, divorce, widowhood, birth of a child, obtaining a new degree, loss of housing, empty nesting, major illness and so on have profound effects on people's priorities and how they approach their lives—as well as how they interact and perceive services. These events are unpredictable and may happen at any point across this journey.
+**Life events impact individual goals and change priorities.** Events like marriage, divorce, widowhood, birth of a child, obtaining a new degree, loss of housing, empty nesting, major illness and so forth impact individual Veteran journeys.
 
 ---
 
@@ -266,7 +546,7 @@ Each life stage lists out moments Veterans typically experience and associated V
 - VA Home Loan
 - Life insurance
 
-**Why it matters:** Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for Servicemembers balancing life inside and outside of the military. This is often the first interaction with VA.
+**Why it matters:** Purchasing a home, enrolling in part-time education, and/or maintaining their personal and familial health are often top-of-mind concerns for Servicemembers balancing life inside and outside of the military.
 
 #### Moments:
 - Doing well by my unit
@@ -329,7 +609,7 @@ Each life stage lists out moments Veterans typically experience and associated V
 - Welcome Home Events
 - Vet Center
 
-**Why it matters:** Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for a service-related disability or have no other option.
+**Why it matters:** Veterans select health care coverage according to their individual set of needs and preferences, often choosing private healthcare over VA unless they seek care and compensation for service-related conditions.
 
 #### Moment: Finding a place to live
 
@@ -399,7 +679,7 @@ Each life stage lists out moments Veterans typically experience and associated V
 - Vocational Rehab & Employment
 - Educational & Vocational Counseling
 
-**Why it matters:** Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their skill sets.
+**Why it matters:** Veterans expect to be able to translate their skills and leadership abilities easily from the military to a civilian career and rely on resources to identify and fill gaps in their education and credentials.
 
 #### Moment: Finding the right job
 
@@ -478,7 +758,7 @@ Each life stage lists out moments Veterans typically experience and associated V
 - Audiology
 - Specialized Care
 
-**Why it matters:** Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this moment.
+**Why it matters:** Veterans seek supplemental coverage to fill healthcare coverage gaps caused by insurance changes during retirement. Some Veterans reengage or engage with VA for the first time at this stage.
 
 #### Moment: Participating in meaningful activities
 
@@ -545,7 +825,7 @@ Each life stage lists out moments Veterans typically experience and associated V
 
 The Journey of Veterans map is a project by the Veterans Experience Office.
 
-The Veterans Experience team traveled across the country to meet and learn more about Veterans from all eras and branches of service. We listened to stories about their diverse military experiences and lives as Veterans. The stories we heard emphasized Veterans' deeply positive relationships with VA, an organization dedicated to the well-being of Veterans and their families. We also heard about opportunities to improve the way VA delivers benefits and services, so we might form trusting lifelong relationships with Veterans on their own terms.
+The Veterans Experience team traveled across the country to meet and learn more about Veterans from all eras and branches of service. We listened to stories about their diverse military experiences and their evolving civilian lives.
 
 **The purpose of this effort** is to catalyze action through analysis of customer insights, so we can align what we do with the needs and expectations of who we serve.
 
