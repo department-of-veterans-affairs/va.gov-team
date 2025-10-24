@@ -443,7 +443,9 @@ This research does not include the perspectives of the following marginalized Ve
 
 [VA-recruitment-checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing):
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+| <img src="images/CoS_fig5_-_recruitment_tracker.png" width="700"> |
+|---|
+
 
 #### A more accessible version of the table in the above image:
 | Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 |
