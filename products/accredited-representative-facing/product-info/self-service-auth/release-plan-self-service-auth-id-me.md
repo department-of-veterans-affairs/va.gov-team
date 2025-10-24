@@ -1,32 +1,31 @@
 # Release Plan: Self-Service Authentication, ID.me
 
-### Development
-
 Feature Toggle/flag:
-`TBD` will be disabled in Production prior to staged rollout and will be enabled to users in Production during the staged rollout. This will control visibility of the ID.me authentication method, for Accredited Representative Portal users.
+`TBD` will control visibility of the ID.me authentication method, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
+   - ID.me authentication option
+   - ID.me mentions on the Help page
 
-### Validation
+### Preparation
+- [ ] All "launch blocking" items from Staging Review have been addressed
+- [ ] All critical items from QA have been addressed
+- [ ] The following ID.me user scenarios have been tested
+   - [ ] Authenticated, but not authorized
+   - [ ] Authenticated and authorized
 
-#### Platform Preparation
-- [x] All "launch blocking" items from Staging Review have been addressed
-- [x] All "should fix" items from QA have been addressed
-- [ ] TBD
+Any other issues or requirements that should be addressed prior to rollout?
 
-#### Technical Preparation
-The following will take place right before Staged Rollout:
-- [ ] TBD
-
-#### VSO Engagement Preparation
-- [ ] TBD - anything we need to do with reps?
-
-Any uncovered issues or requirements that should be addressed prior to rollout?
-
-#### Go/No Go meeting TBD
+### Go/No Go meeting TBD
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
-- [ ] isolated Production test? (TBD)
 
 **Verdict:TBD**
+
+## Release Details
+
+- [ ] Enable in Production to 100% of users
+- [ ] Confirm the release to Production, with a test user
+- [ ] Implement Datadog monitoring in Production (Ticket TBD)
+- [ ] Communicate release to ARP pilot users via Teams/Email
 
 ***
 
@@ -50,56 +49,14 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ***
 
-
-## Staged Rollout Details
-**Rollout date range: TBD**
-- The following will be controlled through the frontend feature toggle `TBD`
-   - ID.me authentication option
-   - ID.me mentions on the Help page
-- TBD: Errors will be tracked in Datadog and will trigger a Slack alert to our team channel TBD, to initiate our rollback process (detailed above)
-- For every 10% of users, we expect roughly TBD sessions per day.
-
-## Staged Rollout Schedule
-**Go/No Go meeting TBD**
-1. Stage A: 5% of users on TBD + implement Datadog monitoring in Production (Ticket TBD)
-2. Stage B: 50% of users on TBD
-3. Stage C: 100% of users TBD + announcement? TBD
-
-*** 
-
-### Staged Rollout Metrics
-
-The following will be considered before advancing rollout to the next stage:
-
-1. Errors in Datadog
-2. Test with a user in Production to confirm the experience functioning as expected
-3. Feedback from ARP users
-4. TBD
-
-### Stage A Results (Jan 8-13, 2025)
-
-Errors in Datadog
-1. 
-
-What changes (if any) need to be implemented before proceeding to the next rollout stage?
-
-
-### Stage B Results (Jan 13-23, 2025)
-
-Datadog Endpoint activity 
-1. 
-
-What changes (if any) need to be implemented before proceeding to the next rollout stage?
-
-
 ## Post Launch Metrics
 
-### 1-Week Results Post-Launch (Jan 23-30, 2025)
+### 1-Week Results Post-Launch 
 
 Datadog Endpoint activity 
 1. 
 
-### 1-Month Results Post Launch (Jan 23 - Feb 23, 2025)
+### 1-Month Results Post Launch
 
 Datadog Endpoint activity
 1. 
