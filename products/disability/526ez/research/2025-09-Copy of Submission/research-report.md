@@ -81,11 +81,14 @@ synthesis_tools_used:
 - [Who we talked to](#who-we-talked-to)
 
 ## Background
-At present, Veterans cannot see, download, or print a copy of their completed disability application data (form 526ez, and nested forms) for their records after they submit their claims online. Previous research has shown that Veterans would like this functionality. To address this, we built a prototype by implementing the design platform's pattern "[keep a record of submitted information](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)" in a new confirmation page that enables users to access what they entered on the disability benefits form after they click "Submit." In this prototype, we have also added header titles to make the information hierarchy more scannable.
+At present, Veterans cannot see, download, or print a copy of their completed disability application data (form 526ez, and nested forms) for their records after they submit their claims online. Previous research has shown that Veterans would like this functionality. To address this, we built a prototype by implementing the design platform's pattern "[keep a record of submitted information](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)" in a new confirmation page that enables users to access what they entered on the disability benefits form after they click "Submit." In this prototype, we have also added header titles to make the information hierarchy more scannable. This research evaluates our updates and proposed improvements to online disability benefits form's confirmation page.
 
-This research evaluates our updates and proposed improvements to online disability benefits form's confirmation page.
+_The proposed confirmation page solution. Users expand the gray accordion in order to see the information they have submitted on their form:_
+|<img src="images/CoS_fig1.png" alt="The proposed confirmation page solution. Users expand the gray accordion in order to see the information they have submitted on their form." width="400">|
+|---|
 
-|<img src="images/CoS_fig1.png" alt="The proposed confirmation page solution. Users expand the gray accordion in order to see the information they have submitted on their form." width="400"><img src="images/CoS_fig2.png" alt="The proposed confirmation page solution when the gray accordion is expanded, showing the information a Veteran has submitted on their form." width="400"> | 
+_The proposed confirmation page solution when the gray accordion is expanded, showing the information a Veteran has submitted on their form:_
+<img src="images/CoS_fig2.png" alt="The proposed confirmation page solution when the gray accordion is expanded, showing the information a Veteran has submitted on their form." width="400"> | 
 |---|
 
 
