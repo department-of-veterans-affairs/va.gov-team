@@ -48,6 +48,7 @@ Prescription packages are delivered via one of the following carriers:
 - FedEx
 - DHL
 
+[va/mhv-cmop-data-service](https://github.com/department-of-veterans-affairs/mhv-cmop-data-service#readme) performs ETL operations on Medication Dispense HL7 data from CMOP and loads data into a Postgres instance.
 
 ## Amazon Lambda - Function as a Service
 
@@ -100,4 +101,8 @@ $ curl \
 - [Wikipedia | CMOP](https://en.wikipedia.org/wiki/Consolidated_Mail_Outpatient_Pharmacy)
 - [VA Notify](https://staging.notifications.va.gov/)
 - [VA Enterprise Event Bus](https://department-of-veterans-affairs.github.io/ves-event-bus-developer-portal/)
-- [dova/mhv-cmop-data-service](https://github.com/department-of-veterans-affairs/mhv-cmop-data-service#readme)
+- [va/mhv-cmop-data-service](https://github.com/department-of-veterans-affairs/mhv-cmop-data-service#readme)
+
+## Questions
+
+- What are the small steps we can execute in order to achieve the goal of Rx Tracking Emails being sent via VA Notify and logging the "Rx Tracking Email Sent" event to AAL?
