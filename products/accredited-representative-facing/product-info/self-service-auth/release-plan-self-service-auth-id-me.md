@@ -20,7 +20,7 @@ Any other issues or requirements that should be addressed prior to rollout?
 
 **Verdict:TBD**
 
-## Release Details
+## Release Details (Date TBD)
 
 - [ ] Enable in Production to 100% of users
 - [ ] Confirm the release to Production, with a test user
