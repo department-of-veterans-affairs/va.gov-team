@@ -167,7 +167,7 @@ Where will you be holding the research sessions?
 
 ### Research sessions
 
-- `Planned dates of research:` **11/10/2025-11/15/2025**
+- `Planned dates of research:` **11/10/2025-11/14/2025**
 
 ### Length of sessions
 
