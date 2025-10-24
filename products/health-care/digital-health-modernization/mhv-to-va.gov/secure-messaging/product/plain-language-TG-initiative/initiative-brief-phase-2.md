@@ -16,7 +16,7 @@ Dates may change due to gov shutdown (10/1/25 to ??).
 |---|---|
 |Oct 2025|- [Product] Define roadmap<br>- [Process] Communicate process changes to coordinators|
 |Nov 2025|- [Development] Complete dev work in SM admin portal<br>- [Design] Update all VISN 1 names to new OH guidelines (Tracey Martin leading)<br>- [Design] Explain change to patients on VA.gov|
-|Dec 2025|- [Comms] Communicate change to patients via GovDelivery/email<br>-[Comms] Communicate process changes to coordinators|
+|Dec 2025|- [Comms] Communicate change to patients via GovDelivery/email<br>- [Comms] Communicate process changes to coordinators|
 |Jan 2025|- Launch first week of Jan 2026|
  
 #### Initiative Launch Dates
