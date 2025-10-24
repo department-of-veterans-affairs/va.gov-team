@@ -98,7 +98,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 Test a larger user population to ensure larger usage patterns expose no issues.
 
 **Planning**
--Length of time: 1 day, January 15 (Update Here_
+-Length of time: 1 day, (Update Here_
 -Percentage of Users (and roughly how many users do you expect this to be):**5%**
 
 **Results**
