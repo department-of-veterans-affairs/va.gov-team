@@ -1,5 +1,5 @@
 # Initiative Brief: Plain language triage group names with improved Select list
- 
+We pivoted to using Oracle Health naming guidelines. [Review our follow-on initiative brief here (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief-phase-2.md). 
 
 ## Outcome Summary
 
