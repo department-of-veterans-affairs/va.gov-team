@@ -1,12 +1,15 @@
 ---
-title: "Conversation Guide for [Self Service, Time of Need, 10/2025]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for Memorials Self Service, Time of Need - Schedule a Burial in a National Cemetery (10/2025)"
+author: "Carly Yamrus"
+date_created: "2025-10-24"
+last_modified: "2025-10-24"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "burials-memorials"
+  - "time-of-need"
+  - "usability-testing"
+  - "national-cemetery"
+  - "self-service"
+description: "Research conversation guide for moderated usability testing sessions focused on the Time of Need Schedule a Burial process. Includes logistics, consent procedures, warm-up questions, three key usability actions (entering service period, finding cemetery, determining relationship), and post-task interview questions."
 ---
 # Conversation Guide for [Memorials Self Service, Time of Need Schedule a burial in a national cemetery, 10/2025]
 
