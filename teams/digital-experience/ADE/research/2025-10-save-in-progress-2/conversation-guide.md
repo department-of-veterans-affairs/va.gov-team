@@ -250,7 +250,8 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 ## Task 5: Resume filling out form [from unauth VA.gov]
 OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
 
-- [Record how resume:]
+- [If they're not on the unauth VA.gov home page, ask them click on the Hat button]
+- [Record how resume form:]
   - Sign in --> My VA (Mittens) --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Hat) --> Sign in --> auth form intro --> Continue your request
 
