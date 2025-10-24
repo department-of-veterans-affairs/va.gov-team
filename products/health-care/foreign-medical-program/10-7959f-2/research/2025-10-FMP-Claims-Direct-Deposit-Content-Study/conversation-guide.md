@@ -87,6 +87,7 @@ Before we look at the website, let’s start with a few warm-up questions.
   - If so, are you registered?
   - Can you describe what it is in your own words?
   - Have you ever filed a reimbursement claim before?
+3.  Are you on a mobile device today or a desktop computer?
   
 
 ## First Task: [Introduction Page] - 5 minutes
