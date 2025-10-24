@@ -1,7 +1,7 @@
 # Release Plan: Self-Service Authentication, ID.me
 
 Feature Toggle/flag:
-`TBD` will control visibility of the ID.me authentication method, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
+`accredited_representative_portal_id_me` will control visibility of the ID.me authentication method, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
    - ID.me authentication option
    - ID.me mentions on the Help page
 
@@ -34,7 +34,7 @@ Any other issues or requirements that should be addressed prior to rollout?
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the frontend feature toggle `TBD` 
+1. Turn off the feature toggle `accredited_representative_portal_id_me` 
    1. Submit a PR
 2. Alert the team in [#benefits-accredited-rep-crew](https://dsva.slack.com/archives/C05SUUM4GAW) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
