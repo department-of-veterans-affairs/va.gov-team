@@ -53,9 +53,9 @@ Here are the notes from the retro session:
        
 - Improve planning
      - Design team review the research backlog together from time to time
-     - Ask ourselves, what are we looking to learn from this and is CD the way to do it
+     - Ask ourselves, what are we looking to learn from this and is continuous discovery the way to do it
 
-- Improve pace and planning
+- Improve pace AND planning
      - Pick a "theme" for a quarter and go with that unless something else comes up
      - Quarterly break could allow more time for planning
 
