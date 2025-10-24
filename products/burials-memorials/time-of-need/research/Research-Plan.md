@@ -151,8 +151,6 @@ Where will you be holding the research sessions?
 
 ## Timeline 🗓️
 
-- **11/10/2025-11/15/2025**
-
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`
@@ -164,12 +162,12 @@ Where will you be holding the research sessions?
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Kenneth Santiago**
+- `Date and time of pilot session:` **11/7/2025** 
 
 ### Research sessions
 
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **11/10/2025-11/15/2025**
 
 ### Length of sessions
 
