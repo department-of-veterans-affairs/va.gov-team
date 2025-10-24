@@ -101,20 +101,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Team
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
-- Product Owner: Emily Theis (emily.theis@va.gov)
-- VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
+- Product Owner: Sanja Bajovic (Sanja.Bajovic2@va.gov)
+- VBA Stakeholders and SMEs: Eric Henne, Derek Uttley
   
  Non-Disability Experience Team: 
-- Product manager: Laura Steele
-- Design and Research: Julie Pedke and Fiorella Geedi
-- Engineering: Thomas Blackwell (lead), Dakota Larson, Sean Midgley
-- Delivery: Sarah Ortiz Shields
+- Product manager: Matt Reilly
+- Design and Research: Skyler Schain and Elisabeth Chin
+- Engineering: Matt Knight (lead)
+- Delivery: Anh Platt
 
 
 #### Stakeholders
 
-- VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
+- VBA Stakeholders and SMEs: Eric Henne, Derek Uttley
 - CAIA Team (content review)
 
 #### Privacy officer
- - Renu Roy (renu.roy@va.gov) 
+ - Dontrell Wiggins (dontrell.wiggins@va.gov) 
