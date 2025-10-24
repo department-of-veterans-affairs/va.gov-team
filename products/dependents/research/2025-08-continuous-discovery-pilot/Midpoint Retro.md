@@ -39,7 +39,6 @@ Here are the notes from the retro session:
      - Less time for creating documentation
 
 **Next Steps**
-- Create ticket for creating artifacts to account for the time folks need to make them
 
 - Improve information sharing
      - Continue sharing in Sprint Review (we've been doing this for 2 sprints now)
@@ -52,6 +51,7 @@ Here are the notes from the retro session:
      - Take a break each quarter
        
 - Improve planning
+     - Create ticket for creating artifacts to account for the time folks need to make them
      - Design team review the research backlog together from time to time
      - Ask ourselves, what are we looking to learn from this and is continuous discovery the way to do it
 
