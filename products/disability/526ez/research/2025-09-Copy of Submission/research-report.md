@@ -443,7 +443,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 [VA-recruitment-checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing):
 
-| <img src="images/CoS_fig5_-_recruitment_tracker.png" width="700"> |
+| <img src="images/CoS_fig5%20-%20recruitment_tracker.png" width="500"> |
 |---|
 
 
