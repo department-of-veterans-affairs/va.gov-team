@@ -1,7 +1,7 @@
 ---
 name: ARC Epic
 about: Epics for the ARC team
-title: '[Super Epic] Epic Name`
+title: '[Super Epic] Epic Name'
 labels: ar-crew
 assignees: ''
 type: Epic
