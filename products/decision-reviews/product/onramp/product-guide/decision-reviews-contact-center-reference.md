@@ -348,6 +348,236 @@ Veteran must choose ONE:
 
 ---
 
+# V. TOP 10 COMMON CONFUSION POINTS
+
+*Based on external veteran feedback, VSO testimony, and government oversight reports*
+
+This section addresses the most frequent points of confusion that Contact Center staff should be prepared to clarify when assisting Veterans with decision reviews.
+
+## 1. "New and Relevant Evidence" Definition ⚠️ CRITICAL
+
+**The Confusion:**
+Veterans think "new" means "recently created" or "recent medical records."
+
+**The Reality:**
+"New" means **not previously submitted to VA for this claim** - even if it's decades old.
+
+**How to Explain:**
+> "New evidence means anything VA hasn't reviewed before for this specific claim. That could include:
+> - Old medical records you never sent us
+> - A new doctor's opinion based on your existing records
+> - Buddy statements from people who knew you during service
+> - Private treatment records we don't have
+>
+> It doesn't have to be recently created - a 20-year-old medical record you just found counts as 'new' if we haven't seen it before."
+
+**Common Misconception to Address:**
+- Photos/videos are usually given very little weight as evidence
+- "New" doesn't mean "additional" - it means "not previously in your file"
+
+## 2. Higher-Level Review "No New Evidence" Rule ⚠️ CRITICAL
+
+**The Confusion:**
+This is the **#1 confusion point** across all sources. Veterans file HLR and try to submit evidence, or avoid HLR when they should use it.
+
+**The Reality:**
+HLR does **NOT** allow any new evidence - no medical records, no statements, no documents.
+
+**How to Explain:**
+> "Higher-Level Review is ONLY for situations where you think VA made an error with the evidence already in your file. You CANNOT submit:
+> - New medical records
+> - New statements
+> - New documents of any kind
+>
+> If you have new evidence, you need to file a Supplemental Claim instead. HLR is for pointing out errors VA made with what they already had."
+
+**Red Flags to Watch For:**
+- Veteran says "I have a new doctor's letter" → Supplemental Claim, not HLR
+- Veteran says "I want to submit more records" → Supplemental Claim, not HLR
+- Veteran says "VA just didn't understand my evidence" but has no new evidence → HLR is correct
+
+**Fear to Address:**
+Veterans fear HLR reviewer can reduce their other ratings. **This is false.** Explain: "The reviewer only looks at the specific issue you're appealing, not your entire rating."
+
+## 3. Board Appeal Timelines - Expectation vs Reality
+
+**The Confusion:**
+Veterans see "300-400 days" but experience 3-5 years actual wait time.
+
+**The Reality:**
+Board Appeals commonly take **much longer** than stated timelines, especially with hearing option.
+
+**How to Explain:**
+> "While VA's goal is around 400 days for Board Appeals, actual wait times are often longer - sometimes 2-5 years depending on which option you choose:
+> - Direct Review: Fastest Board option
+> - Evidence Submission: Moderate wait
+> - Hearing: Often 2+ years because you're waiting for a hearing slot with a judge
+>
+> If you need a decision faster, Supplemental Claim or Higher-Level Review both average around 125 days."
+
+**Financial Hardship Guidance:**
+If Veteran reports homelessness, severe financial hardship, or terminal illness, explain expedited processing may be available. [PLACEHOLDER: Insert expedite request procedure]
+
+## 4. Decision Letters Are Hard to Understand
+
+**The Confusion:**
+30% of VA decision letters contain errors (per DAV testimony). Letters test at college reading level, not 8th grade.
+
+**The Reality:**
+Veterans genuinely struggle to understand denial reasons and appeal options.
+
+**How to Explain:**
+> "Decision letters can be complex. The key things to look for are:
+> - **Effective date**: When your benefits would start (check this carefully - VA sometimes gets it wrong)
+> - **Denial reason**: What evidence was missing or why you didn't meet criteria
+> - **Appeal deadline**: One year from the date on the letter
+>
+> If you're confused, that's completely normal. Free help is available from Veterans Service Organizations who can translate the letter for you."
+
+**Recommend VSO Strongly:**
+Given 30% error rate and complexity, **strongly recommend VSO assistance** for understanding decision letters.
+
+## 5. Duty to Assist - VA Should Help You Get Evidence
+
+**The Confusion:**
+42% of claims have duty-to-assist failures (per American Legion). Veterans don't know VA has a legal obligation to help obtain evidence.
+
+**The Reality:**
+VA must help you get federal records (military, VA medical, Social Security) if you tell them where to look.
+
+**How to Explain:**
+> "VA has what's called a 'duty to assist' - we're required to help you get federal records like:
+> - Your military service records
+> - VA medical records
+> - Social Security records
+>
+> You can use VA Form 21-4142 to authorize us to request records from private doctors. You don't have to get everything yourself - we should be helping you."
+
+**When to Suspect Duty-to-Assist Error:**
+- Veteran says "VA denied me for lack of evidence but never asked for my records"
+- Veteran says "I told them where my records were but they didn't get them"
+
+## 6. Pathway Switching and Delays
+
+**The Confusion:**
+Veterans don't understand why their HLR shows "closed" and a supplemental claim was opened.
+
+**The Reality:**
+VA can move claims between pathways if they find duty-to-assist errors or evidence was submitted with HLR.
+
+**How to Explain:**
+> "Sometimes VA will move your claim to a different pathway. Common reasons:
+> - You filed HLR but included evidence → VA moves it to Supplemental Claim
+> - VA found a duty-to-assist error → Claim goes back for development
+>
+> You should receive a letter explaining why this happened. If your status changed unexpectedly, contact us and we can check what's going on."
+
+**Known Issue:**
+16,300 supplemental claims were not established after HLR completion due to software delays (per VA OIG). This is a known system problem.
+
+## 7. Effective Date Errors and Appeals
+
+**The Confusion:**
+Veterans don't know to check effective date or that they can appeal it separately.
+
+**The Reality:**
+Effective date errors are a **common VA processing mistake** that can cost veterans months or years of backpay.
+
+**How to Explain:**
+> "When you receive a decision, check the effective date carefully. This is when your benefits start, which affects how much backpay you receive.
+>
+> Common VA error: Setting effective date as the date of your new medical exam or supplemental claim filing, instead of your original claim date.
+>
+> You can appeal the effective date separately from appealing the rating decision itself."
+
+**Red Flag:**
+If effective date seems wrong (too recent), strongly recommend VSO review before accepting decision.
+
+## 8. VSO Quality and Availability
+
+**The Confusion:**
+VSO quality varies wildly. Some are very helpful, others are unresponsive or give incorrect advice.
+
+**The Reality:**
+Not all VSO representatives have equal experience, especially with the AMA system (implemented 2019).
+
+**How to Explain:**
+> "Veterans Service Organizations provide free help, and I strongly recommend using one. They can:
+> - Help you understand your decision letter
+> - Determine which appeal pathway is right
+> - Complete forms for you
+> - Represent you throughout the process
+>
+> If you contact a VSO and don't get a response within a reasonable time, it's okay to try a different one. You can work with any accredited representative - American Legion, DAV, VFW, state/county VSOs, or private attorneys."
+
+**Set Expectations:**
+VSOs are often overworked. If calls aren't returned, try visiting in person or trying a different VSO chapter.
+
+## 9. Can't File Multiple Pathways for Same Issue
+
+**The Confusion:**
+Veterans try to "hedge their bets" by filing SC + HLR + Board Appeal for the same issue simultaneously.
+
+**The Reality:**
+You can only have **one decision review pending** for the same issue at a time.
+
+**How to Explain:**
+> "You must choose ONE pathway per issue:
+> - Can't file Supplemental Claim AND Higher-Level Review for the same denied condition
+> - Can't file Board Appeal while HLR is pending for same issue
+>
+> You CAN file different pathways for different issues from the same decision letter.
+>
+> If you choose wrong, you can [PLACEHOLDER: withdrawal/switch policy]."
+
+## 10. Expedited Processing for Financial Hardship
+
+**The Confusion:**
+Veterans experiencing homelessness or severe financial hardship don't know expedited processing exists.
+
+**The Reality:**
+Expedited processing is available for:
+- Homelessness or risk of homelessness
+- Serious financial hardship
+- Terminal illness
+- Other serious hardship
+
+**How to Explain:**
+> "If you're experiencing homelessness, severe financial hardship, or terminal illness, you may qualify for expedited processing. This can move your appeal faster.
+>
+> [PLACEHOLDER: Insert specific procedure for requesting expedite - contact info, forms, escalation path]"
+
+**Data Context:**
+MyVA411 data shows "majority of calls regarding expediting the process" and veterans citing "drop in income" and "declaring homelessness." This is a real and significant need.
+
+---
+
+## Quick Reference: "What Veterans Get Wrong"
+
+**Top 5 Misconceptions to Correct:**
+
+1. ❌ "New evidence means recent" → ✅ "New means not previously submitted"
+2. ❌ "HLR allows new evidence" → ✅ "HLR does NOT allow any new evidence"
+3. ❌ "Board appeals take 400 days" → ✅ "Actually 2-5 years common"
+4. ❌ "VA will get my records automatically" → ✅ "You need to tell VA where records are (duty to assist)"
+5. ❌ "Photos prove my case" → ✅ "Photos typically given very little weight"
+
+**Top 3 VA Processing Errors to Watch For:**
+
+1. ⚠️ **Effective date errors** (30% of cases ignore favorable evidence per American Legion)
+2. ⚠️ **Duty-to-assist failures** (42% of cases per American Legion)
+3. ⚠️ **Decision letter errors** (30% error rate per DAV testimony)
+
+**When to Strongly Recommend VSO:**
+
+- Decision letter is confusing (30% contain errors)
+- Veteran unsure about evidence requirements
+- Complex medical conditions or service connection questions
+- Veteran reports possible VA processing error
+- Multiple denied claims or appeals
+
+---
+
 # V. ASSISTING VETERANS WITH THE ONRAMP TOOL
 
 ## When Veterans should use the tool
