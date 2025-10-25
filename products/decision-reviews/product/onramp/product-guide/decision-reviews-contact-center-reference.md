@@ -578,7 +578,7 @@ MyVA411 data shows "majority of calls regarding expediting the process" and vete
 
 ---
 
-# V. ASSISTING VETERANS WITH THE ONRAMP TOOL
+# VI. ASSISTING VETERANS WITH THE ONRAMP TOOL
 
 ## When Veterans should use the tool
 
@@ -675,7 +675,7 @@ No - Onramp only works for disability compensation decision reviews. [PLACEHOLDE
 
 ---
 
-# VI. TROUBLESHOOTING
+# VII. TROUBLESHOOTING
 
 ## Tool technical issues
 
@@ -724,7 +724,7 @@ Escalate when:
 
 ---
 
-# VII. RESOURCES & NEXT STEPS
+# VIII. RESOURCES & NEXT STEPS
 
 ## Key URLs for Veterans
 
@@ -795,7 +795,7 @@ Escalate when:
 
 ---
 
-# VIII. QUICK REFERENCE
+# IX. QUICK REFERENCE
 
 For a one-page printable quick reference card, see: `onramp-tool-quick-reference.md`
 
