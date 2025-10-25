@@ -386,7 +386,7 @@ Thanks for taking the time to look through these parts of the new Health Records
   - What do you like about the new experience?
   - What do you want to do that you can't do?
 
-  ## **Cognitive Disability Interview – <5 minutes**
+## **Cognitive Disability Interview – <5 minutes**
 
 Thank you for taking the time to get through all those tasks with me today and answering all our questions. It has been super helpful.  
 
