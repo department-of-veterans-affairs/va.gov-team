@@ -21,6 +21,12 @@ This document outlines known deficiencies and issues discovered during the Copy 
 4. **Housing Situation**
    - Description: Housing situation information is missing
    - Issue Reference: [#122803](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122803)
+  
+### Page Rendering Issues
+1. **Upload Widget**
+   - Description: pages with upload widget can break submissions confirmation page 
+   - Issue Reference: [#120150](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120159)
+   - PR in review
 
 ### UI/UX Issues
 1. **Toxic Exposure Conditions Page**
