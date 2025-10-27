@@ -27,8 +27,11 @@ Clinicians responded that presenting patient data within a line chart would impr
 * Clinicians responded favorably to seeing the lab history within a nested line chart compared to having to search for it in the EHR or another external tool.
 * Some clinicians preferred a table format for the lab data because to them, it would be more straightforward.
 
+<img width="454" height="80" alt="image (7)" src="https://github.com/user-attachments/assets/6fbff4ba-902f-4dc4-9f35-898809ffe6a8" />
+<img width="708" height="75" alt="image (8)" src="https://github.com/user-attachments/assets/660511e8-66ce-4585-a437-b6876067dba1" />
 
-Example of lab values in the CPRS table that some clinicians prefer to see rather than a line chart
+
+_Example of lab values in the CPRS table that some clinicians prefer to see rather than a line chart_
 
 “I’d give it (line chart) a 5/5 based on ease of interpretation and it being in one place” - Physician 
 
