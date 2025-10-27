@@ -1,6 +1,6 @@
 # Initiative outline: Retire use of the DS Logon credential at VA
 
-**Last Updated: June 30, 2025 -- Updated timeline**
+**Last Updated: October 27, 2025 -- Updated timeline**
      
 ## Table of Contents
 
@@ -52,6 +52,9 @@ VA is now focusing on its effort to deprecate the DS Logon credential at VA afte
 - April 2025: Continuing conversations around how to maintain a shared credential with DoD; Comms planning.
 - May 2025: Initial comms blast went out; exploration of cost differential for federated option.
 - June 2025: Philippines webinar to help users sign up for ID.me; Charles confirmed we should pursue federated option for DoD.
+- August 2025: Determined we are not federating a sign-in option for DoD.
+- September 2025: ITEC approved decision not to continue pursuing a shared credential with DoD.
+- October 2025: DS Logon removal delayed because of the government shutdown.
 
 ## Analytics
 
@@ -87,14 +90,3 @@ From [Datadog]() [Domo](https://va-gov.domo.com/page/1862108618?userId=367226722
 |Number of people using DS Logon|232,453|TBD|
 |% of people using DS Logon|8%|TBD|
 
-## Backend
-
-(Link relevant backend docs)
-
-## Frontend
-
-(Link relevant frontend docs)
-
-## Design and UX
-
-(Link relevant design docs)
