@@ -43,7 +43,7 @@ research_questions:
   - "Are there differences in experience based on device type or internet access?"
 
 hypotheses:
-  - "y utilizing LLM and/or AI in the 3 proof of concept designs, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback. Also, the answers will be clear, trustworty and channel agnostic."
+  - "By utilizing LLM and/or AI in the current proof of concept version of the chatbot, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback. Also, the answers will be clear, trustworty and channel agnostic.  We will rate these parameters by scoring users ranking on a scoring matrix for accuracy, clarity, completeness and cognitive load."
 
 # Recruitment & Participants
 recruitment:
@@ -134,7 +134,7 @@ tags:
 
 **Problem Statement:**
 
-The VA Chatbot aims to help Veterans self-serve and access information on VA.gov more easily, ultimately reducing call volume and supporting task completion without human assistance. The product assumes that improved digital experiences can shift behavior away from phone-based support, but gaps may exist in understanding edge cases, digital literacy, and accessibility for all user groups. 
+The VA Chatbot aims to help Veterans self-serve and access information on VA.gov more easily, ultimately reducing call volume and supporting task completion without human assistance. The product assumes that improved digital experiences can shift behavior away from phone-based support, but gaps may exist in understanding edge cases, digital literacy, and accessibility for all user groups.  The use case of this specific project is login or sign in questions, with a specific focus on unauthenticated questions for the chatbot. The long term goal of the chatbot is to have it in the bottom right corner of every page of VA.gov for use by Veterans and it is well documented that location of the chatbot is a poinpoint for many Veterans at the current time.
   
 **Product Placement:**
 The chatbot is currently designed for unauthenticated users and is available on pages like [Contact Us](https://www.va.gov/contact-us/virtual-agent/). This placement is suitable for broad, early engagement but may need further exploration regarding visibility across the site and integration with authenticated experiences as the product matures.
@@ -169,6 +169,8 @@ To strengthen alignment, the plan could include explicit measures for data secur
 
 > - **Key Result:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
 > - **Key Result:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
+> - **Key Result:** We are currently implementing DeepEval testing for synthetic data as we as chat transcripts to
+create metrics around Hallucination and confidence levels.  It is suggested that at some point in the future the chatbot team should create some sort of human in loop validation workflow to audit transripts on a regular basis.
 
 </details>
 
@@ -212,7 +214,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 ---
 
-**By finding the pain points and increasing the accuracy of the answers we can improve the design of the chatbot which will give Veterans confidence in using the VA chatbot. Ultimately, with confidence that they are getting correct answers, the error rate will decline and total calls to VA call centers will decline as well. The plan to use findings to iterate on chatbot design is appropriate. Additional outcomes to consider: defining accessibility benchmarks, strategies for ongoing improvement, and recommendations for scaling beyond the POC phase.** 
+**By finding the pain points and increasing the accuracy of the answers we can improve the design of the chatbot which will give Veterans confidence in using the VA chatbot. Ultimately, with confidence that they are getting correct answers, the error rate will decline and total calls to VA call centers will decline as well. We will gauge confidence based on a scoring matrix the users give us at the end of their testing session.  The plan to use findings to iterate on chatbot design is appropriate. Additional outcomes to consider: defining accessibility benchmarks, strategies for ongoing improvement, and recommendations for scaling beyond the POC phase.** 
 
 
 ---
@@ -245,7 +247,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 ---
 
-**By utilizing LLM and/or AI in the 3 proof of concept designs, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback. Also, the answers will be clear, trustworty and channel agnostic.** 
+**By utilizing LLM and/or AI in the current proof of concept version of the chatbot, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback. Also, the answers will be clear, trustworty and channel agnostic.  We will rate these parameters by scoring users ranking on a scoring matrix for accuracy, clarity, completeness and cognitive load.** 
 
 
 ---
@@ -285,8 +287,73 @@ Provide a link to any materials you need to run your study, including any materi
 
 
 **Past User Research Data:**
+--
 
-It is worth noting that there was a [ample research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research) for the virtual-agent product and the team includes developers from this product team. The finding from the first round of moderated user testing that was completed in July & August of 2025 can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ResearchFindings.md). All of this user research and feedback has been applied to proof of concept version of the chatbot that users will be using for this round of testing.
+It is worth noting that there was [ample research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research) for the virtual-agent product and the team includes developers from this product team. The finding from the first round of moderated user testing that was completed in July & August of 2025 can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ResearchFindings.md). All of this user research and feedback has been applied to proof of concept version of the chatbot that users will be using for this round of testing.
+
+### Controlled Study Research (2021-2022)
+**Reference:** [Controlled Study Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0628484c84ed3a8cae1819ee9a0f5895dd2c7cda/products/virtual-agent/research/controlled-study/research-report.md)
+
+**Key Findings:**
+
+- Veterans expect the chatbot cannot answer in-depth questions (appropriate expectation-setting)
+- Accuracy shapes trust more than personality/tone
+- Veterans were willing to attempt authentication to get personalized answers (builds case for future authenticated features)
+- Unauthenticated mode inadequate for task completion
+
+**Implications for Round 2:**
+
+- Round 2 should explicitly manage expectations: Include disclaimer messaging testing (RQ3)
+- Focus metrics on accuracy impact on trust, not just accuracy alone
+- Consider future research on authenticated chatbot experience (currently out of scope)
+
+### Sign-In Support Research (January 2023)
+Reference: [Previous research on Sign In Support feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/signin-support) — 12 remote, moderated sessions
+
+**Strategic Connection:**
+
+- Sign-in was a major use case in prior research
+- Current Round 2 focus on unauthenticated use may underexploit learnings from auth flow testing
+- Round 2 could include screening question: "Have you tried the sign-in feature?" to measure adoption
+
+### Chatbot Placement Research (August-September 2022)
+Reference: [Chatbot Placement Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/chatbot-placement.md) and [Move the Chatbot Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/move-the-chatbot)
+
+**Key Findings:**
+
+- Veterans expect chatbot in lower right corner (web convention)
+- Discoverability on Contact Us page alone is limiting factor
+- Screen reader users need skip links and proper ARIA labels
+  
+**Implications for Round 2:**
+
+- RQ10 (device/access differences) should incorporate accessibility learnings:
+	- Test with screen reader users using conversation guide questions specific to ARIA implementation
+	- Validate skip link functionality
+
+### Prescriptions Skill Research (June-October 2023)
+Reference: [Prescriptions initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/prescriptions) — Multiple rounds: Entries/Exits (5 sessions), Skill Prototype (6 sessions), Screenreader testing (1 session)
+
+**Strategic Insight:**
+
+- Multi-round testing approach similar to current Round 1 → Round 2 progression
+- Prescriptions feature ultimately required live agent handoff for complex troubleshooting
+- Implication: Round 2 should measure handoff clarity and escalation triggers
+
+### GenAI Integration Decision Architecture (2025)
+Reference: [Integration of GenAI into VA Chatbot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0903ee278ed9a3671866df1b2a132fd5314788bf/products/virtual-agent/product/genai.md)
+
+**Critical Finding:**
+
+> "The simple RAG-based PoC was found to produce too many hallucinations to be fit for purpose."
+
+**Strategic Implication for Round 2:**
+
+- Round 2 hypothesis assumes LLM improves accuracy, but this architecture document warns of hallucination risks
+- Round 2 should include explicit hallucination detection metrics:
+	- Percentage of responses containing factually incorrect information
+	- User's ability to detect hallucinations
+	- Recommended monitoring mechanisms for production
 
 	
 ## Recruitment 🎯	
