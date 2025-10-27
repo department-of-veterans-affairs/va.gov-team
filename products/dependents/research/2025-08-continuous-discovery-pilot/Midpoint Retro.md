@@ -47,7 +47,7 @@ Here are the notes from the retro session:
 - Make the pace more sustainable
      - Have other DMT team members facilitate sessions
      - Possibility of PBB team conducting some sessions
-     - Take a break each quarter
+     - Consider taking a break each quarter (*PO concerned that it could break the rhythm of continuous discovery)
      - Standardize/templatize documentation and/or reporting
        
 - Improve planning
@@ -56,7 +56,7 @@ Here are the notes from the retro session:
      - Ask ourselves, what are we looking to learn from this and is continuous discovery the way to do it
 
 - Improve pace AND planning
-     - Pick a "theme" for a quarter and go with that unless something else comes up
+     - Pick a "theme" for a quarter and go with that unless something else comes up (*PO concerned that it could take away from the agility of continuous discovery)
      - Quarterly break could allow more time for planning
 
 - In a future round focus on content-specific questions and partner with the content team
