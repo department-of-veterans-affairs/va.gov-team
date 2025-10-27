@@ -156,9 +156,7 @@ If you scroll further down the page, you'll find the following:
 11. The above screenshot shows how to setup the **Monitor** settings (specifically for `Identity - Staging Outbound logingov IAL1 SSOe`). 
     - Set the **Monitor** title to be the same as the test name. 
     - The monitor description should use the following template (where `{TEST NAME HERE}` is replaced with the name of the test):
-        ```
-        {{#is_alert}}{TEST NAME HERE} test failed. Please review [pinned messages](https://dsva.slack.com/archives/C02SBFQ22RL/p1733164438527799) for response procedure documentation. @slack-va-identity-alerts {{/is_alert}} {{#is_alert_recovery}} @slack-va-identity-alerts {{/is_alert_recovery}}
-        ```
+        `{{#is_alert}}{TEST NAME HERE} test failed. Please review [pinned messages](https://dsva.slack.com/archives/C02SBFQ22RL/p1733164438527799) for response procedure documentation. @slack-va-identity-alerts {{/is_alert}} {{#is_alert_recovery}} @slack-va-identity-alerts {{/is_alert_recovery}}`
     
 12. Make sure **Enable renotification** is toggled on and the **renotify** dropdown is set to `60 minutes`.
 
