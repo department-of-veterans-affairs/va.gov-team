@@ -154,6 +154,14 @@ Where will you be holding the research sessions?
 
 ## Timeline 🗓️
 
+- **10/24–10/29:** Finalize research materials & screener  
+- **10/29–10/31:** Kick-off with Perigean + recruitment launch  
+- **11/06:** Pilot session (with quick debrief 11/06 PM)  
+- **11/07–11/08:** Minor protocol adjustments based on pilot  
+- **11/10–11/15:** Main research sessions (6 days; 3 sessions/day = 18 slots available)  
+- **11/17–11/18:** Final sessions if needed (buffer for no-shows)  
+- **11/18–11/20:** Synthesis & preliminary findings
+- 
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`
@@ -193,6 +201,8 @@ Where will you be holding the research sessions?
 - **Wednesday 11/19/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
 
 > **Note:** There are 20 primary time slots (5 days × 4 per day) for initial scheduling and 12 backup slots (3 days × 4 per day), exceeding the minimum required (30) and providing ample flexibility.
+
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
