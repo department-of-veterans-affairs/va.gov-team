@@ -24,13 +24,13 @@ See Roster [here](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 ## Overview
 
-Over the past several months we have found that the results page within the Discovery Your Benefits (DYB) tool is not aligned with design standards. A recent usability study coupled a review of analytics and feedback the previous delivery team received has led the team to a newly designed results page. We will also be taking this opportunity to validate a change in phrasing to the length of service question within the tool.
+Over the past several months we have found that the results page within the Discovery Your Benefits (DYB) tool causes users confusion when it comes to understanding their recommended results. Additionally, the page is not aligned with design system standards. A recent usability study coupled a review of analytics and feedback the previous delivery team received has led the team to a newly designed results page. We will also be taking this opportunity to validate a change in phrasing to the length of service question within the tool.
 
 Feedback this initiative addresses:
 1. Filters
 2. Removed “view all” separate viewing experience and incorporated into filtering experience
-3. Removed copy link to results no one used
-4. Removed "apply now" link 
+3. Removed copy link to results that had very little engagement 
+4. Removed "apply now" link on benefit cards as it could not be used consistently across all benefits
 5. Revisions to intro content on the page to follow design system component usage and standards
 6. Updated cards to ensure all filtering selections are properly attributed/accounted for to align with VADS/a11y
 7. Migrated to VADS search result template for alignment with standards
