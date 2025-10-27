@@ -1,7 +1,7 @@
 # Architecture Decision Record: Vector Search Service for Production Ready LLM based chatbot product
 
 ## Status
-In Review
+Completed
 
 ## Context
 After building out three different proof of concept applications for evaluating LLM based chatbots, the team is moving forward with a RAG agent based LLM feature which is added as an additional component of the existing Chatbot architecture. To build a production RAG pipeline we need a scalable search service that can house content indexed from VA.gov along with potentially other content that is deemed pertinent to our application. 
