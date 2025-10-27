@@ -37,7 +37,7 @@ _Example of lab values in the CPRS table that some clinicians prefer to see rath
 
 “If I could have one, I would choose to see a table.” - Physician
 
-**Recommendation: **
+**Recommendation:**
 
 Think about a table view of charts as a new pattern where clinicians can toggle between seeing  a chart or a table. This recommendation aligns with a prior ADE team recommendation to include tables which appears to be a government best practice. See link below for an example.
 
@@ -60,22 +60,15 @@ Clinicians need to focus on particular points of interest on a line chart. Focus
 
 **Recommendation:**
 
-Introduce customizable chart views. For instance, provide users with the ability to choose the number of data points displayed or to filter data based on specific time ranges. Below are concept mockups I created to visualize some possibilities of this recommendation.
+Introduce customizable chart views. For instance, provide users with the ability to choose the number of data points displayed or to filter data based on specific time ranges. **Below are concept mockups I created to visualize some possibilities of this recommendation.**
 
+<img width="405" height="492" alt="INR - ex" src="https://github.com/user-attachments/assets/97cf589b-c3b2-401f-8060-6d56db9ef64e" />
 
+_In this example, there is a date range picker above the chart_
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="405" height="492" alt="INR - ex 2" src="https://github.com/user-attachments/assets/6aadceb9-268e-44be-9fe2-4b4fb20f40a2" />
 
-
-![alt_text](images/image3.png "image_tooltip")
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
+_In this example, there is a menu where the clinician filter their view_
 
 ### **Finding 3 **
 
@@ -87,35 +80,22 @@ Clinicians cognitive load increases when they are trying to understand terminolo
 * All clinicians were not entirely sure of the specific definition for “labile INR” and this affected the time to make a decision.
 * As clinicians reviewed the ALT/AST/AP labs it was clear that they needed additional information regarding reference ranges.
 
-**Recommendation: **
+**Recommendation:**
 
 Include reference ranges alongside the line chart to provide context for data interpretation. This can be implemented through visual elements such as reference lines on the chart or as supporting helper text that outlines the expected or target ranges and clarifying definitions. Including normal ranges within the key can be good for screen reading software.
 
+<img width="405" height="492" alt="INR - ex 3" src="https://github.com/user-attachments/assets/21550a49-39fa-4810-a9ed-7b4ac0617f8d" />
 
+_In this example, there are guiding lines that outline a "normal range"_
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="405" height="492" alt="INR - ex 4" src="https://github.com/user-attachments/assets/a576eee3-c7aa-4dcc-8f20-559a7fc6b7bd" />
 
+_In this example, the "normal range" is stated within the key_
 
-![alt_text](images/image5.png "image_tooltip")
+<img width="405" height="492" alt="INR - ex 5" src="https://github.com/user-attachments/assets/8e0554a9-40ad-47c0-bc6f-efe5c77d232f" />
 
+_In this example, there is text above the chart that can contain definitions or other supporting information_
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img width="405" height="492" alt="INR - ex 6" src="https://github.com/user-attachments/assets/b9d1adba-3d72-4990-9d3d-d0e0cf22bb86" />
 
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
- 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
-
+_In this example, there is text below the chart that can contain defitions or other supporting information_
