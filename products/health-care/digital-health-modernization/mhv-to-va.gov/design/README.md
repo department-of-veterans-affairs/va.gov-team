@@ -5,7 +5,7 @@ Last updated: 27 Oct 2025
 
 ## Design Documentation
 
-- Decision records (TBC)
+- [Decision records](documentation/decisionrecords.md)
 
 ## Presentations
 
