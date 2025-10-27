@@ -11,8 +11,8 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 
 ## Incident Response
 - Points of Contact
-   - Jacob Worrell (Product Manager) | jacob.worrell@va.gov / jacob.worrell@adhocteam.us | jacobworrell (github)
-   - Wayne Weibel (Engineering Lead) | ? / wayne.weibel@adhocteam.us | wayne-weibel (github)
+   - Alan Werner (Product Manager) | alan.werner@va.gov / alan.werner@adhocteam.us | alwerner (github)
+   - Wayne Weibel (Engineering Lead) | wayne.weibel@va.gov / wayne.weibel@adhocteam.us | wayne-weibel (github)
    - Sanja Bajovic (OCTO Product Owner) | sanja.bajovic2@va.gov | sanjabaj2 (github)
 - [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Monitoring_Playbook.md)
 - [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Playbook_Security.md)
@@ -154,8 +154,8 @@ Dependent information is used accross many forms and experiences on VA.gov (pens
  - OCTO Product Owner: Sanja Bajovic
  - OCTO Technical Lead: Sanja Bajovic
  - OCTO Design Lead: Dene Gabaldon
- - Delivery Lead: Amy Plange
+ - Delivery Lead: Anh Platt
  - Product Manager: Laura Steele
- - Backend Engineering: Matthew Knight (lead), Micah Frazier, Evan Smith
- - Frontend Engineering: Sean Midgley, Dakota Larson
- - Research/Design: Ajia Wallace, Fiorella Geedi, Ruben Sun
+ - Backend Engineering: Matthew Knight (lead), Evan Smith, Tai Corraggio, David Becker
+ - Frontend Engineering: Robin Garrison (lead), Dakota Larson 
+ - Research/Design: David Kennedy (lead), Megan Graham, Gretchen Maciolek, Lauren Russell
