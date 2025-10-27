@@ -1,13 +1,13 @@
 ##  10-10EZR Military service history - Design options review
 
 ### Attendees
-- Heather Justice - PM
-- Andrea Merrill - DM
-- Hieu Vo - UX
-- Premal Shah - PO
-- Angela Fulton (HEC SME)
-- Amanda Scully (HEC Deputy Director)
-- Joshua Faulkner (VES Technical Director)
+- Heather J - PM
+- Andrea M - DM
+- Hieu V - UX
+- Premal S - PO
+- Angela F (HEC SME)
+- Amanda S (HEC Deputy Director)
+- Joshua F (VES Technical Director)
 
 ### Q & A Notes
 
