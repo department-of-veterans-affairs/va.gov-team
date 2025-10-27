@@ -84,9 +84,7 @@ Are there moments that matter?</summary>
 ### Hypotheses
 
 ---
--  **Primary hypothis**
-
-- **Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.**
+-  **Primary hypothis** Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.**
 
 - **Contrasting Hypothesis:** Certain participant segments (e.g., Veterans aged 65+, those with disabilities, or those without reliable internet access) may find the phone-based process more accessible or less stressful than the digital form. This is informed by prior VSO research and medallion form desk research (see Section 9), which found that older Veterans often prefer verbal guidance and that some participants encounter barriers with digital-only options.
 
@@ -161,7 +159,7 @@ Where will you be holding the research sessions?
 - **11/10–11/15:** Main research sessions (6 days; 3 sessions/day = 18 slots available)  
 - **11/17–11/18:** Final sessions if needed (buffer for no-shows)  
 - **11/18–11/20:** Synthesis & preliminary findings
-- 
+  
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`
