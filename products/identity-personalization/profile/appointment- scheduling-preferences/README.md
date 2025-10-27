@@ -5,17 +5,17 @@ The Elizabeth Dole Veterans Program Improvement Act of 2022 includes provisions 
 The act mandates that (VA) must take into account individual veterans' scheduling preferences to a reasonable extent when arranging appointments for healthcare services. This includes preferences for dates, times, and locations that best suit the veterans' needs and availability.
 
 ## Problem Statement
-Veterans have different options and modalities for scheduling community care appointments but nowhere to enter in their preferences for how they'd like to complete scheduling. This means that VA staff may be reaching out in channels or at times that are not convenient to the Veteran or are wasting time and resources calling a veteran who would prefer to self schedule. 
+Veterans have different options and modalities for scheduling health care appointments but nowhere to enter in their preferences for how they'd like to complete scheduling. This means that VA staff may be reaching out in channels or at times that are not convenient to the Veteran or are wasting time and resources calling a veteran who would prefer to self schedule. 
  
 ## Desired User Outcomes
 
-- As a Veteran, I want scheduling a community care appointment to be easy and happen how and when it is convenient for me.
+- As a Veteran, I want scheduling a health care appointment to be easy and happen how and when it is convenient for me.
 - As a Veteran, I want the scheduling of community care appointments to happen quickly and efficiently.
 - As a Veteran, I don't want to be contacted in channels or at times that are not convenient to me.
   
 ## Undesired User Outcomes
-- As a Veteran, I don't want to set preferences for scheduling community care appointments and then have those preferences be ignored.
-- As a Veteran, I don't want it to be confusing what my preferences are for (i.e. community care vs. VA care).
+- As a Veteran, I don't want to set preferences for scheduling health care appointments and then have those preferences be ignored.
+- As a Veteran, I 
 
 
 ## Desired Business Outcomes
@@ -24,7 +24,7 @@ Veterans have different options and modalities for scheduling community care app
 
 ## Undesired Business Outcomes
 
-- Preferences should not lead to more confusion and overhead for VA staff responsible for scheduling community care appointments. 
+- Preferences should not lead to more confusion and overhead for VA staff responsible for scheduling health care appointments. 
 
 
 ---
@@ -61,9 +61,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-As a Veteran I want to document 4 specific preferences related to Veteran self-scheduling in community care. (see below)
+As a Veteran I want to document 4 specific preferences related to Veteran health care appointment scheduling preferences (see below)
 
-Our idea is to store the preferences in VA profile, enable Veterans to update them in VA.gov, and enable schedulers/MSAs to also be able to view/update them in ISS.
+Our idea is to store the preferences in VA profile, enable Veterans to update them in the VA.gov profile, and enable schedulers/MSAs to also be able to view/update them in ISS.
 
 (1) How and when the veteran prefers to be contacted about an appointment for health care.
 (2) Whether the veteran prefers to schedule appointments without the assistance of the Department, if able.
