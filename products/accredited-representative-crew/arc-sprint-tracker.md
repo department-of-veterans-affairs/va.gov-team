@@ -2,10 +2,19 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
-# Sprint 4 (Nov 4 - Nov 17, 2025)
+# Sprint 3 (Nov 4 - Nov 17, 2025)
 
 ## Sprint 3 Goals
-1. **[Rep Data] Stability and Maintenance**: 
+1. **[Rep Data] Stability and Maintenance**: Refactor address validation for reps
+2. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to non-Chapater 6 development
+3. **[Auth] ID.me in ARP**: Internal QA, Staging Review, Contact Center Review, Datadog reporting
+4. **Intent to File**: Outline remaining development and begin implementation accordingly
+5. **Claimant Details**: Outline remaining UX work and begin research/design accordingly
+6. **[ARP Post-MVP] Cleanup Tasks**: Feature flag cleanup, update URLs, update access token
+
+
+
+
 
 # Sprint 2 (Oct 21 - Nov 4, 2025)
 
