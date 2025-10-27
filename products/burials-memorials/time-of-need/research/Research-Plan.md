@@ -152,19 +152,6 @@ Where will you be holding the research sessions?
 - `Total:` **15**
 - `Ideal completed sessions:` **10**
 
-### Primary criteria (must-haves)
-
-- Have considered or experienced burial planning
-- Able to access and use a computer or mobile device
-- English proficiency
-- Willing to participate in a remote usability test
-
-#### Secondary criteria (nice-to-haves)
-
-- Prior experience with VA.gov digital forms
-- Represents an underserved or diverse community
-- Has accessibility needs or uses assistive technology
-
 ## Timeline 🗓️
 
 ### Optional Kick-off Call with Perigean
