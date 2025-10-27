@@ -277,7 +277,8 @@ Follow up questions:
 
 - [ ] Does this warning about using AI effect how you would use the VA Chatbot in the future?
       ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/DISCLAIMER2.png)
-            
+
+- [ ] Where would you expect to find the chatbot on the VA.gov website?
 - [ ] Any other comments or suggestions?
 - [ ] Any questions for me? 
 
