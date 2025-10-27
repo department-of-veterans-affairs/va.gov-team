@@ -152,31 +152,33 @@ Where will you be holding the research sessions?
 
 ## Timeline 🗓️
 
-- **10/24–10/29:** Finalize research materials & screener  
-- **10/29–10/31:** Kick-off with Perigean + recruitment launch  
-- **11/06:** Pilot session (with quick debrief 11/06 PM)  
-- **11/07–11/08:** Minor protocol adjustments based on pilot  
-- **11/10–11/15:** Main research sessions (6 days; 3 sessions/day = 18 slots available)  
-- **11/17–11/18:** Final sessions if needed (buffer for no-shows)  
-- **11/18–11/20:** Synthesis & preliminary findings
+- **10/31–11/05:** Finalize research materials & screener  
+- **11/05–11/07:** Kick-off with Perigean + recruitment launch  
+- **11/12:** Pilot session (with quick debrief)  
+- **11/13-11/14:** Minor protocol adjustments based on pilot  
+- **11/17–11/21:** Finalize recruitment and prep  
+- **12/01–12/05:** Main research sessions (Mon–Fri; 5 days, 4 sessions/day = 20 slots)  
+- **12/08–12/09:** Buffer/final research sessions if needed (Mon–Tue; 4 sessions/day)  
+- **12/10–12/12:** Synthesis & preliminary findings 
   
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`
-- **10/29 10:00-4:00 EST**
-- **10/30 10:00-4:00 EST**
-- **10/31 10:00-4:00 EST**
+- **11/05 10:00-4:00 EST**
+- **11/06 10:00-4:00 EST**
+- **11/07 10:00-4:00 EST**
+
 
 ### Prepare
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
 - `Pilot participant name:` **Kenneth Santiago**
-- `Date and time of pilot session:` **11/6/2025** 
+- `Date and time of pilot session:` **11/28/2025** 
 
 ### Research sessions
 
-- `Planned dates of research:` **11/10/2025-11/19/2025**
+- `Planned dates of research:` **12/01/2025-12/09/2025**
 
 ### Length of sessions
 
@@ -187,19 +189,15 @@ Where will you be holding the research sessions?
 ### Availability
 
 **Primary dates – schedule participants first:**
-- **Monday 11/10/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Tuesday 11/11/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Wednesday 11/12/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Thursday 11/13/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Friday 11/14/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Monday 12/01/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Tuesday 12/02/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Wednesday 12/03/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Thursday 12/04/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Friday 12/05/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
 
 **Backup dates – use only if rescheduling is needed due to cancels/no-shows:**
-- **Monday 11/17/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Tuesday 11/18/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-- **Wednesday 11/19/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
-
-> **Note:** There are 20 primary time slots (5 days × 4 per day) for initial scheduling and 12 backup slots (3 days × 4 per day), exceeding the minimum required (30) and providing ample flexibility.
-
+- **Monday 12/08/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Tuesday 12/09/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
