@@ -105,7 +105,7 @@ We can audit products for accessibility issues on desktop and mobile devices (su
 ### Health check audit
 This is very much like a staging review but done in production! This is useful for older products that were implemented and released before certain standards were put into place.
 
-### Commercial Off-The-Shelf (COTS) product accessibility evaluation
+### Review Commercial Off-the-Shelf (COTS) products for accessibility
 We can evaluate COTS products for accessibility issues. Examples of previous evaluations include ID.me, BHL Touch, and Notable.
 
 Whether the product is already in use or under consideration, we can review the product’s critical path using keyboard navigation and assistive technology. We’ll point out issues that you can report back to the company, and give our honest recommendation as to whether the product should be used in its current state.
