@@ -9,9 +9,6 @@
 - [User Problem Statement](#user-problem-statement)
 - [Project timeline](#project-timeline)
 - [Analytics](#analytics)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Design and UX](#design-and-ux)
 
 
 ## POCs
@@ -89,4 +86,5 @@ From [Datadog]() [Domo](https://va-gov.domo.com/page/1862108618?userId=367226722
 |% authentications happening through ID.me|61%|TBD|
 |Number of people using DS Logon|232,453|TBD|
 |% of people using DS Logon|8%|TBD|
+
 
