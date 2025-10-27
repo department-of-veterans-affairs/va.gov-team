@@ -86,7 +86,7 @@ Are there moments that matter?</summary>
 ---
 -  **Primary hypothis**
 
-**Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.**
+- **Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.**
 
 - **Contrasting Hypothesis:** Certain participant segments (e.g., Veterans aged 65+, those with disabilities, or those without reliable internet access) may find the phone-based process more accessible or less stressful than the digital form. This is informed by prior VSO research and medallion form desk research (see Section 9), which found that older Veterans often prefer verbal guidance and that some participants encounter barriers with digital-only options.
 
@@ -220,10 +220,6 @@ Where will you be holding the research sessions?
 - **Cat Hughes**
 - **Kyle Wren**
 
-## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
-
 - ## Decision-Making, Prioritization, and Iteration 🔄
 
 ### Prioritization of Findings
@@ -240,4 +236,8 @@ Where will you be holding the research sessions?
   - Written synthesis reports and presentations delivered at cross-team meetings
   - Posting insights and documentation in shared VA.gov repositories and burials-memorials channels
   - Collaborative workshops or debriefs to discuss key findings and implications across related products and workflows
+ 
+- ## Approvals ✅
+- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 
