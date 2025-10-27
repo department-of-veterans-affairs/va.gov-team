@@ -33,7 +33,7 @@ projects:
   - date/time
     - <!-- If MR, include type (Blue Button, labs, etc), if BB then date range and options selected, TXT or PDF -->
  
-_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
+_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David/Ni, Meds-Michael, Team-Tom/Bryan/Daniel)_
 
 ### Troubleshooting Steps Performed (by Tier 1 and/or Tier 2)
 - 
@@ -49,7 +49,7 @@ _Note- Reach out to a POC on the team with HRC Dynamics access for user-specific
 ----------------------------
 
 # Tier 3 Notes
-_Note- There is limited view access to these HRC tickets. Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David, Meds-Michael, Team-Tom, Lauren E, Bryan)_
+_Note- There is limited view access to these HRC tickets. Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David/Ni, Meds-Michael, Team-Tom/Bryan/Daniel)_
 
 **HRC ticket number(s):**
 - [HRC](URL)
