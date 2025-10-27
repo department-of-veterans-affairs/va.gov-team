@@ -1,6 +1,6 @@
-## Response from Joshua Faulkner/VES Technical Director
+## Response from Joshua F/VES Technical Director
 - This information is in response to the HEC stakeholders' desire to add a Service History question page to the online 10-10EZR, so that it matches the paper form.
-- Joshua Faulkner has long been an advocate for not asking the Veteran for this information.  At the most, we should ask only for supporting docs (i.e. DD-214).
+- Joshua F has long been an advocate for not asking the Veteran for this information.  At the most, we should ask only for supporting docs (i.e. DD-214).
 
 >Self reported service episode information is completely discarded from any automatic eligibility decisions made by the system, no matter if its from initial application or EZR.
 >
