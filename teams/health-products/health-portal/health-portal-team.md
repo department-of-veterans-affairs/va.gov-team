@@ -54,7 +54,7 @@ This cross-functional group serves as the Company points of contact for the deli
 | Florence McCafferty | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) |
 | Cara Frissell       | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7)       |
 | Sara Sterkenburg    | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25)    |
-| Marcello Antosh     | TBD                                                             |
+| Marcello Antosh     | [@Marcello Antosh](https://dsva.slack.com/team/U09LCFL4YMT)                                                             |
 
 
 ### Medical Records
