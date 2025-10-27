@@ -1,5 +1,5 @@
 ---
-name: Check In Experience Engineering - Hydra
+name: Hydra - Check In Experience Engineering
 about: Template to create an engineering ticket
 title: ''
 labels:
