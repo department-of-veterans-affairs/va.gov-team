@@ -213,19 +213,14 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
+We would like to recruit 12 Veterans through Perigean, who have a mixed experience with the Foreign Medical Program but who are eligible.
 
 ### Recruitment criteria
-
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-
-
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-
-- `Veterans:` **[12]**
-- `Caregivers:` **[0]**
-- `Dependents:` **[0]**
-- `Total:` **[12]**
-- `Ideal completed sessions:` **[8]**
+- Veterans: **[12]**
+- Caregivers: **[0]**
+- Dependents: **[0]**
+- Total: **[12]**
+- Ideal completed sessions: **[8]**
 
 ### Primary criteria (must-haves)
 
