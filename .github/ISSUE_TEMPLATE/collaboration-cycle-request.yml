@@ -223,7 +223,7 @@ body:
           required: true
   - type: markdown
     attributes:
-      value: "## Artifacts"
+      value: "## Collaboration Cycle touchpoints"
   - type: markdown
     attributes:
       value: "</details>"
