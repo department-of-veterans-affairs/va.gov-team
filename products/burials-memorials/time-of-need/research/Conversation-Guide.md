@@ -94,10 +94,8 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-   - If yes: what is your disability rating?
-   - If no, skip to question 2.
-2. 
+1. "Have you previously scheduled a burial? If yes, how did you do it?"
+2. "What was your experience like with that process? 
 
 # Usability Actions & Ratings
 
@@ -150,9 +148,10 @@ On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease o
 
 > [!NOTE]
 > Things to watch for:
-> - Was the list of relationships clear and comprehensive?
-> - Did the participant hesitate or seem unsure?
-> - Did the participant click the Personal Representative definition accordion?
+- Hesitation on terminology
+- Participant using own words vs. form language
+- Clarification requests
+- Usage of additional help within the form, such as help components, information accordians, or external links
 
 ---
 
@@ -163,9 +162,23 @@ After you’ve completed these actions, on a scale of 1 to 5, how easy or diffic
 
 # Post-Task Interview - X minutes
 
-- Were there any parts of this form that you found to be unclear?
-- If you could change one part of the Time of Need Schedule a Burial process, what would you change?
-- Any questions for me? 
+- "What part of the process felt most overwhelming or confusing?"
+- "Were there any parts of this form that you found to be unclear?
+- "Compared to calling in, what would have been easier or harder about this digital approach?"
+
+## Emotional & Cognitive Load Assessment
+
+After completing the form, use these probes:
+
+- "Did the length or complexity of the form feel manageable?"
+- "Were there any questions that felt intrusive or insensitive?"
+- "Would you feel comfortable completing this on your own, or would 
+  you want help or support?"
+
+Moderator notes should track:
+- Emotional shifts (frustration, hesitation, distress)
+- Engagement level (focused vs. distracted)
+- Confidence statements ("I think..." vs. "I'm not sure...")
 
 ## Consent to use video clips
 
