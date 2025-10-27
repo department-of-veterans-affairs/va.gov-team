@@ -1,31 +1,30 @@
 
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/initiative-brief-template.md)*
-
----
-
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+The Elizabeth Dole Veterans Program Improvement Act of 2022 includes provisions aimed at enhancing veterans' access to healthcare services, including specific requirements related to appointment scheduling preferences. Here are some key points:
+
+The act mandates that (VA) must take into account individual veterans' scheduling preferences to a reasonable extent when arranging appointments for healthcare services. This includes preferences for dates, times, and locations that best suit the veterans' needs and availability.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+Veterans have different options and modalities for scheduling community care appointments but nowhere to enter in their preferences for how they'd like to complete scheduling. This means that VA staff may be reaching out in channels or at times that are not convenient to the Veteran or are wasting time and resources calling a veteran who would prefer to self schedule. 
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
+- As a Veteran, I want scheduling a community care appointment to be easy and happen how and when it is convenient for me.
+- As a Veteran, I want the scheduling of community care appointments to happen quickly and efficiently.
+- As a Veteran, I don't want to be contacted in channels or at times that are not convenient to me.
+  
 ## Undesired User Outcomes
+- As a Veteran, I don't want to set preferences for scheduling community care appointments and then have those preferences be ignored.
+- As a Veteran, I don't want it to be confusing what my preferences are for (i.e. community care vs. VA care).
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- VA should be able to scheduling appointments more efficiently and reduce the amount of outreach and time spent on scheduling appointments.
 
 ## Undesired Business Outcomes
+
+- Preferences should not lead to more confusion and overhead for VA staff responsible for scheduling community care appointments. 
 
 
 ---
@@ -61,11 +60,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
-- *What have you explicitly decided to not include in this initial set of functionality, and why?*
-- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.*
+As a Veteran I want to document 4 specific preferences related to Veteran self-scheduling in community care. (see below)
+
+Our idea is to store the preferences in VA profile, enable Veterans to update them in VA.gov, and enable schedulers/MSAs to also be able to view/update them in ISS.
+
+(1) How and when the veteran prefers to be contacted about an appointment for health care.
+(2) Whether the veteran prefers to schedule appointments without the assistance of the Department, if able.
+(3) Whether the veteran prefers to select a provider without the assistance of the Department, if able.
+(4) Whether the veteran prefers appointments to be scheduled during certain days or times.
 
 ### Supporting research
 
