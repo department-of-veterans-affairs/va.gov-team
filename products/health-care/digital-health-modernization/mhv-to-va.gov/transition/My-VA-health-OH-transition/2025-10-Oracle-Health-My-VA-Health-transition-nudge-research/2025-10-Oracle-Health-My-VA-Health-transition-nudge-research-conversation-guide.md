@@ -110,6 +110,7 @@ _Participant navigates to appointments tool. There should be a blue expandable a
 - I wonder if you see that blue alert near the top of the prototype?
   - Did you notice that before?
   - What do you think that alert is for?
+- Without expanding this alert, what do you think that one line of text means?
 - Can you go ahead and expand it and read it?
   - What does this mean to you?
   - How does it make you feel?
@@ -128,7 +129,7 @@ _Participant navigates to appointments tool. There should be a blue expandable a
   - Next time you sign in, would you expect to see these alerts again?
 - What concerns you most about this information and potentially using a new portal to manage your healthcare?
   - "What could go wrong in a transition like this? What's your biggest fear?"
-  - [Listen carefully, then probe:] "You mentioned [concern]. Tell me more about that. What would need to happen to ease that worry?"
+    - [Listen carefully, then probe:] "You mentioned [concern]. Tell me more about that. What would need to happen to ease that worry?"
 - What would encourage you to manage your records right here instead of navigating to the My VA Health portal?
 
 ### Task 2 
