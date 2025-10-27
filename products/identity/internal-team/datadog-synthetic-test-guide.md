@@ -92,7 +92,7 @@ If you scroll further down the page, you'll find the following:
 
 ## Step Details
 
-<img width="2559" height="1077" alt="step2" src="https://github.com/user-attachments/assets/183c6216-cb90-4e72-a2ec-9d1a946fa5fd" />
+<img width="2559" height="1077" alt="step" src="https://github.com/user-attachments/assets/183c6216-cb90-4e72-a2ec-9d1a946fa5fd" />
 
 1. The header of this section contains:
     - The step number
@@ -118,3 +118,54 @@ If you scroll further down the page, you'll find the following:
     - Any errors encountered by the step
     - Content used by the step (for example, text entered into a text field)
     - Core Web Vitals (used to measure user experience)
+
+## Creating Tests
+
+<img width="2560" height="1109" alt="create" src="https://github.com/user-attachments/assets/4f095251-ee53-474d-a342-0df55a3768da" />
+
+1. In the top right of the **Test Results** page, click on **New Test**.
+
+2. On the **New Synthetics Test** menu, click on **Browser Test**.
+
+<img width="2554" height="876" alt="template" src="https://github.com/user-attachments/assets/084ceeb4-902e-433c-a280-9b033114f96e" />
+
+3. On the **New Browser Test** page, you may select any applicable template for your test. In this case, we'll **Start from Scratch**.
+
+<img width="1473" height="1135" alt="step1" src="https://github.com/user-attachments/assets/317a3b70-54f7-4aac-9102-cafcc2a9a5a7" />
+
+4. Enter in the starting URL for your test.
+
+5. There are a variety of advanced options available related to the starting URL. Most notable is the **Ignore server certificate error** option under the **Certificate** submenu, which several Identity tests use.
+
+6. Your test's name should follow the format `Identity - {Environment} Test Name` where `{Environment}` is replaced with the environment the test runs in. The same environment should be selected in the **Enfironment** dropdown. Lastly, select the Identity team in the **Team** dropdown.
+
+<img width="1495" height="960" alt="step2" src="https://github.com/user-attachments/assets/507805da-dc83-4a4e-a4dc-e7381c9583e0" />
+
+7. Set your test's browser to **Chrome** and device to **Laptop Large**.
+
+8. Set your test's location to **West US (AWS GovCloud)**. Remove all **Pricate Locations** from your test.
+
+9. If you want your test to automatically re-run in the case of a failure (see "fast retry" above) then set it to retry `1` time with `3000`-`30000` ms (3-30 seconds) of wait between failures.
+
+<img width="1489" height="482" alt="step3" src="https://github.com/user-attachments/assets/48a54ec8-a90f-4022-93ce-ac0f1995a86c" />
+
+10. Use the **Advanced Scheduling & Alert Conditions** menu to configure your test to match the screenshot above.
+
+<img width="1489" height="1168" alt="step4" src="https://github.com/user-attachments/assets/72daffe4-dc7b-4988-8282-374432d7c08d" />
+
+11. The above screenshot shows how to setup the **Monitor** settings (specifically for `Identity - Staging Outbound logingov IAL1 SSOe`). 
+    - Set the **Monitor** title to be the same as the test name. 
+    - The monitor description should use the following template (where `{TEST NAME HERE}` is replaced with the name of the test):
+        ```
+        {{#is_alert}}{TEST NAME HERE} test failed. Please review [pinned messages](https://dsva.slack.com/archives/C02SBFQ22RL/p1733164438527799) for response procedure documentation. @slack-va-identity-alerts {{/is_alert}} {{#is_alert_recovery}} @slack-va-identity-alerts {{/is_alert_recovery}}
+        ```
+    
+12. Make sure **Enable renotification** is toggled on and the **renotify** dropdown is set to `60 minutes`.
+
+13. Set the priority based on the severity of the test failure.
+
+<img width="1483" height="283" alt="step5" src="https://github.com/user-attachments/assets/e66b72d9-e408-4467-8d93-6f89fb4e7216" />
+
+14. The access permissions for the test can be left on **Unrestricted**.
+
+15. Click on **Save & Start Recording**.
