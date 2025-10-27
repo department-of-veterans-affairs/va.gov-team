@@ -140,7 +140,7 @@ Should be designed mobile-first given the form-filling nature of the experience 
 
 #### Initiative Launch Dates
 
-- **Target Launch Date**: November 2025
+- **Target Launch Date**: December 2025
 - **Actual Launch Date**: TBD
 
 ---
@@ -163,10 +163,10 @@ TBD
 
 <details>
 
-- Team Name: Health Update Form Team / Healthcare Application Team
+- Team Name: Health Application Team
 - GitHub Label(s): 10-10ezr, military-info
-- Slack channel: #1010-health-apps
-- Product POCs: Heather Justice (PM)
+- Slack channel: #health-apps
+- Product POCs: Heather J (PM)
 
 </details>
 
@@ -176,8 +176,8 @@ TBD
 
 <details>
 
-- Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson, Patrick Bateman
+- Office/Department: DSD
+- Contact(s): Lauren A, Premal S
 
 </details>
 
