@@ -163,7 +163,7 @@ Where will you be holding the research sessions?
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
 - `Pilot participant name:` **Kenneth Santiago**
-- `Date and time of pilot session:` **11/7/2025** 
+- `Date and time of pilot session:` **11/6/2025** 
 
 ### Research sessions
 
@@ -177,9 +177,19 @@ Where will you be holding the research sessions?
 
 ### Availability
 
-- `[MM/DD, Day, 9:00 AM-12:00 PM] EST`
-- `[MM/DD, Day, 1:00 PM-4:00 PM] EST`
-- `Add more slots as needed`
+**Primary dates – schedule participants first:**
+- **Monday 11/10/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Tuesday 11/11/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Wednesday 11/12/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Thursday 11/13/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Friday 11/14/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+
+**Backup dates – use only if rescheduling is needed due to cancels/no-shows:**
+- **Monday 11/17/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Tuesday 11/18/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+- **Wednesday 11/19/2025:** 9:00–10:00 AM, 11:00 AM–12:00 PM, 1:00–2:00 PM, 3:00–4:00 PM EST
+
+> **Note:** There are 20 primary time slots (5 days × 4 per day) for initial scheduling and 12 backup slots (3 days × 4 per day), exceeding the minimum required (30) and providing ample flexibility.
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
