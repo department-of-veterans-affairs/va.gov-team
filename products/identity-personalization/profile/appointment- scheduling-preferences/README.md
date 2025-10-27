@@ -39,7 +39,7 @@ Veterans have different options and modalities for scheduling community care app
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      | Error rate  |                    | CSAT               |        |
+| KPI      |             |                    |                    |        |
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
