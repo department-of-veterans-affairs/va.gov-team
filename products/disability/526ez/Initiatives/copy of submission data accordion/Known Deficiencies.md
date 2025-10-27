@@ -42,6 +42,12 @@ This document outlines known deficiencies and issues discovered during the Copy 
    - Description: Condition treated at the private medical facility isn't listed under the facility information
    - Issue Reference: [#122840](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122840) (Marked as duplicate)
 
+### E2E Testing
+1. **Cypress Test**
+  - Description: Create Cypress test for 526ez submission confirmation page
+  - Issue Reference: [#119907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119907)
+  - Test has been created and work is in progress
+
 ### Investigation Required
 1. **General Questions**
    - Description: Discovery of raised questions requiring investigation
