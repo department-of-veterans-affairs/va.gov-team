@@ -39,7 +39,7 @@ Veterans have different options and modalities for scheduling community care app
 
 | Category | Ease of use | Service completion | Trust/Satisfaction | Health |
 |----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
+| KPI      | Error rate  |                    | CSAT               |        |
 | KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
@@ -48,10 +48,11 @@ Veterans have different options and modalities for scheduling community care app
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
+- Objective: Improve the experience of scheduling a community care appointment
+  - Key result: Reduce the # of contact attempts needed to get an appointment scheduled.
+  - Key result: Reduce the time from appt requested to appt scheduled
+  - Key result: Overall usage of appointment scheduling preferences
+  - Key result: CSAT of appointment scheduling preferences   
 
 ---
 
@@ -69,20 +70,15 @@ Our idea is to store the preferences in VA profile, enable Veterans to update th
 (3) Whether the veteran prefers to select a provider without the assistance of the Department, if able.
 (4) Whether the veteran prefers appointments to be scheduled during certain days or times.
 
+
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+This work is not supported by user research because it comes from a specific call out in Congressional legislation with an associated timeline. The first iteration of this project is primarily based off the text of the legislation rather than documented research on a specific problem and will launch without input from research. However, there will be a simultaneous research effort that will inform future work as well as data collected from the initial launched product. 
+
 
 ### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
-- Initiative | [Link to Initiative Brief](#)
-
---- 
+None as of now
 
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
@@ -91,7 +87,7 @@ Our idea is to store the preferences in VA profile, enable Veterans to update th
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - January 2, 2026
 - *Actual Launch Date* 
   - tbd
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
@@ -119,11 +115,11 @@ Our idea is to store the preferences in VA profile, enable Veterans to update th
 
 <details>
 
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Team Name: Authenticated Experience
+- GitHub Label: authenticated-experience, profile
+- Slack channel: #elizabeth-dole-act-in-va-gov-profile-
+- Product POCs: Chante Lantos-Swett, Kay Lawyer
+- Stakeholders: IVC, VA Profile
 
 </details>
 
@@ -131,10 +127,10 @@ Our idea is to store the preferences in VA profile, enable Veterans to update th
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - OCTO Lead: Chante Lantos-Swett 
+ - PM: Pat Siebenlist 
+ - Engineering: Micah Frazier
+ - Research/Design: Janelle Finnerty
  
 </details>
 
