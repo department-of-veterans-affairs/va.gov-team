@@ -559,10 +559,10 @@ Again let’s imagine, **\[Prompt from Task 1\].** You're already logged in. Usi
 
 ## Post-Task Interview \- 5 minutes
 
-You got to experience two different versions of Ask VA today.
+You got to experience two different versions of Ask VA today. The one on the left represents the first experience you had and on the right represents the second experience.
 
-- Which of the experiences did you prefer to submit documentation? On the left represents the first experience you had and on the right represents the second experience.
-- Which of the experiences did you prefer to review a previous submission? On the left represents the first experience you had and on the right represents the second experience.
+- Which of these do you prefer for submitting a question? 
+- Which of these do you prefer for looking into a previous question?
 
 [Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
