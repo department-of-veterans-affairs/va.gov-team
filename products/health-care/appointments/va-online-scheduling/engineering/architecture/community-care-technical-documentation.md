@@ -177,60 +177,6 @@ sequenceDiagram
     Frontend-->>User: Display appointment data
 ```
 
-### Appointment Cancellation (as of 10.22.25)
-```mermaid
-sequenceDiagram
-    participant Client as Frontend Client
-    participant ApptController as AppointmentsController
-    participant EpsController as EpsAppointmentsController
-    participant ApptService as AppointmentsService
-    participant EpsService as Eps::AppointmentService
-    participant VAOS as VAOS API
-    participant EPS as EPS API
-
-    Note over Client: Client determines appointment type
-    Client->>Client: Check appointment.type or appointment.provider?.id
-
-    alt EPS Appointment (type === 'epsAppointment' or has provider.id)
-        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled"}
-
-        EpsController->>EpsService: cancel_appointment(appointment_id)
-        EpsService->>EPS: PATCH /appointments/:id/cancel
-        EPS-->>EpsService: 200 OK {status: "cancelled"}
-        EpsService-->>EpsController: Success
-
-        Note over EpsController: Check if corresponding VAOS appointment exists
-        EpsController->>ApptService: check_vaos_appointment_exists(appointment_id)
-        ApptService->>VAOS: GET /appointments/:id
-        VAOS-->>ApptService: 200 OK or 404 Not Found
-
-        alt VAOS appointment exists
-            ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
-            VAOS-->>ApptService: 200 OK
-            ApptService-->>EpsController: VAOS also cancelled
-        else No VAOS appointment
-            ApptService-->>EpsController: No VAOS appointment to cancel
-        end
-
-        EpsController->>EpsController: assemble_appt_response_object()
-        EpsController-->>Client: 200 OK {data: {appointment}}
-
-    else VAOS Appointment (standard appointment)
-        Client->>ApptController: PUT /appointments/:id {status: "cancelled"}
-
-        ApptController->>ApptService: update_appointment(appt_id, "cancelled")
-        ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
-        VAOS-->>ApptService: 200 OK {appointment data}
-        ApptService-->>ApptController: Updated appointment object
-
-        ApptController->>ApptController: set_facility_error_msg()
-        ApptController->>ApptController: serialize_appointment()
-        ApptController-->>Client: 200 OK {data: {appointment}}
-    end
-
-    Note over Client, EPS: Both systems now reflect cancelled status
-```
-
 ## Key Processes
 
 ### Referral Appointment Scheduling Flow
@@ -595,9 +541,74 @@ Response:
 1. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
 2. Get user data from full auth user object in vets-api to get address and phone and email
 
+## Proposed Cancellation Feature
+The utmost concern is representing appointment data accurately to the veteran, the challenge is dealing with two separate sources of truth for appointment data, VAOS and EPS. This is a "split-brain" problem, neither source has been identified as being the primary source of truth and therefore a given appointment should be present in both systems in an active state ("booked" or "submitted", each source has it's own language to indicate the appointment is active) in order to ensure cancellation will not result in a de-sync of appointment data between the two sources.
+
+### Process
+
+1. In the appointment details fetch check for the presence of the appointment in both VAOS and EPS, include in the response payload the ids of the appointments for their respective sources
+2. On the appointment details screen if the appointment details payload indicates the appointment is present in both sources make available a "cancel appointment" button
+3. The cancel button will send a request to a new endpoint in vets-api containing the appointment ids which will be used to send update requests to their respective sources to update the status of the appointments to "cancelled"
+4. If both requests are successful and the appointment states are updated to "cancelled" return a success response to vets-website to display confirmation of the cancellation to the veteran.
+5. If one or both requests are unsuccessful return an error response to vets-website to indicate to the veteran the cancellation was unsuccessful.
+
+### Flow diagram
+
+```mermaid
+sequenceDiagram
+    participant Client as Frontend Client
+    participant ApptController as AppointmentsController
+    participant EpsController as EpsAppointmentsController
+    participant ApptService as AppointmentsService
+    participant EpsService as Eps::AppointmentService
+    participant VAOS as VAOS API
+    participant EPS as EPS API
+
+    Note over Client: Client determines appointment type
+    Client->>Client: Check appointment.type or appointment.provider?.id
+
+    alt EPS Appointment (type === 'epsAppointment' or has provider.id)
+        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled"}
+
+        EpsController->>EpsService: cancel_appointment(appointment_id)
+        EpsService->>EPS: PATCH /appointments/:id/cancel
+        EPS-->>EpsService: 200 OK {status: "cancelled"}
+        EpsService-->>EpsController: Success
+
+        Note over EpsController: Check if corresponding VAOS appointment exists
+        EpsController->>ApptService: check_vaos_appointment_exists(appointment_id)
+        ApptService->>VAOS: GET /appointments/:id
+        VAOS-->>ApptService: 200 OK or 404 Not Found
+
+        alt VAOS appointment exists
+            ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+            VAOS-->>ApptService: 200 OK
+            ApptService-->>EpsController: VAOS also cancelled
+        else No VAOS appointment
+            ApptService-->>EpsController: No VAOS appointment to cancel
+        end
+
+        EpsController->>EpsController: assemble_appt_response_object()
+        EpsController-->>Client: 200 OK {data: {appointment}}
+
+    else VAOS Appointment (standard appointment)
+        Client->>ApptController: PUT /appointments/:id {status: "cancelled"}
+
+        ApptController->>ApptService: update_appointment(appt_id, "cancelled")
+        ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+        VAOS-->>ApptService: 200 OK {appointment data}
+        ApptService-->>ApptController: Updated appointment object
+
+        ApptController->>ApptController: set_facility_error_msg()
+        ApptController->>ApptController: serialize_appointment()
+        ApptController-->>Client: 200 OK {data: {appointment}}
+    end
+
+    Note over Client, EPS: Both systems now reflect cancelled status
+```
+
+
 ### Open cancellation questions (last updated 10.22.25)
-1. When appointment status is updated in EPS to cancelled, does the status update take effect for the appointment in VAOS via the same manual transfer process as creation (staff / "swivel chair" process)?
-2. If the status of the corresponding VAOS appointment is not updated by staff do we need to send a request to VAOS to update the appointment at the time the EPS appointment status update request is sent? - This is our current plan.
-3. If the appointment is created and cancelled in EPS before it appears in VAOS does the appointment still appear and if so does it appear with cancelled status?
-4. If the appointment is surfaced in EPS but not yet in VAOS should we disallow cancellation until it surfaces in VAOS? - This is our current plan.
-5. If the cancellation request to one of the sources succeeds but the other does not, what notification / appointment status should be displayed to the veteran?
+1. Is it true that we need to consider both EPS and VAOS as equal sources of truth? That is the current assumption and the reasoning behind allowing cancellation only if the appointment is present and in an active state in both EPS and VAOS.
+2. What error message should be displayed if the cancellation is unsuccessful?
+3. If the appointment cancellation request is successful in one source but not the other, do we indicate this in the error message?
