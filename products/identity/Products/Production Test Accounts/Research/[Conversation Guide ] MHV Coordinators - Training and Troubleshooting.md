@@ -116,7 +116,7 @@ My name is [NAME] and I'm here to learn about how you work with Veterans to help
 
 ### Troubleshooting Without PTAs
 
-19. When a Veteran is having trouble with prescription refills and you can't use a PTA, what do you do?
+19. When a Veteran is having trouble with a task online like prescription refills, what do you do?
     - *Probe*: How do you diagnose the problem?
     - *Probe*: What resources do you rely on?
 
