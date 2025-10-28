@@ -69,7 +69,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ---
 
-## 💬 Qualitative Questions
+## 💬 Qualitative Questions (5 minutes)
 
 ### Warm-up Questions
 
@@ -92,7 +92,7 @@ Before we start, I have a few things that I want to go over with you:
     * Ask directly about content while on this question (or at least before they get to the results page)
 > * Observation of process - Is it intuitive? Fast? Do they hesitate on any questions?
 
-### Task 1: Use Discover Your Benefits Tool - Results Page (2 minutes)
+### Task 1: Use Discover Your Benefits Tool - Results Page (15 minutes)
 
 * **Sorting (task)**
     * New options
@@ -121,7 +121,7 @@ Before we start, I have a few things that I want to go over with you:
     * Will we see the same patterns with goals not mapping to benefits explored
     * Will benefits explored change with the new results page
 
-### Task 2
+### Task 2 (15 minutes)
 
 * Show second prototype via feature flag
 * Same observations as first prototype
