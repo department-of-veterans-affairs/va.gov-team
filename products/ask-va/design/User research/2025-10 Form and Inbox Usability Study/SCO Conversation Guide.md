@@ -11,7 +11,7 @@
 
 ### 5-15 minutes before the session
 
-- [ ] Ensure vets.gov.user+41 has no questions in it
+- [ ] Ensure vets.gov.user+41 and +226 have no questions in it
 - [ ] Start a thread in \#feedback-backchannel  
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).  
 - [ ] Ensure Zoom is setup correctly:
