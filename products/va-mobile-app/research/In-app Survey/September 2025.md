@@ -1,4 +1,4 @@
-#In-app Feedback - the VA Health & Benefits App from September, 2025
+# In-app Feedback - the VA Health & Benefits App from September, 2025
 **IN PROGRESS - NOT COMPLETE**
 ---
 
@@ -12,12 +12,12 @@ Feedback includes **134** total responses, each with a rating of 1-5 as defined 
 
 | Rating | % of ratings | # of ratings |
 |--------|--------------|--------------|
-| = 1 (Not at all satisfied)    | 11%          | 13           |
-| = 2 (Dissatisfied)  | 21%          | 24           |
-| = 3 (Neither satisfied or dissatisfied)   | 13%          | 15           |
-| = 4 (Satisfied)   | 22%          | 25           |
-| = 5 (Very Satisfied)   | 33%          | 39           |
-| = Undefined (not set) | 13% | 18 |
+| = 1 (Not at all satisfied)    | 5          | 7           |
+| = 2 (Dissatisfied)  | 13%          | 17           |
+| = 3 (Neither satisfied or dissatisfied)   | 12%          | 16           |
+| = 4 (Satisfied)   | 21%          | 29           |
+| = 5 (Very Satisfied)   | 45%          | 60           |
+| = Undefined (not set) | 4% | 5 |
 
 *Counts include all responses, including those listed as (not set).*
 
@@ -39,8 +39,8 @@ September’s feedback was predominantly positive, with most users describing th
 
 | Rating | % of ratings | # of ratings |
 |--------|--------------|--------------|
-| = 4    | 22%          | 25           |
-| = 5    | 33%          | 39           |
+| = 4 (Satisfied)    | 21%          | 29           |
+| = 5 (Very Satisfied)   | 45%          | 60           |
 
 Most positive comments highlight ease of use, improved navigation, faster processes, and satisfaction with new or updated features. Many users appreciate the app’s efficiency and the ability to manage health needs digitally.
 
@@ -66,8 +66,8 @@ Most positive comments highlight ease of use, improved navigation, faster proces
 
 | Rating | % of ratings | # of ratings |
 |--------|--------------|--------------|
-| = 1    | 11%          | 13           |
-| = 2    | 21%          | 24           |
+| = 1 (Not at all satisfied)    | 5          | 7           |
+| = 2 (Dissatisfied)  | 13%          | 17           |
 
 Negative comments focus on difficulty finding information, challenges with messaging providers, complicated travel pay claims, and navigation issues. Some users feel processes are harder than before, or express frustration with missing features.
 
@@ -93,7 +93,7 @@ Negative comments focus on difficulty finding information, challenges with messa
 
 | Rating | % of ratings | # of ratings |
 |--------|--------------|--------------|
-| = 3    | 13%          | 15           |
+| = 3 (Neither satisfied or dissatisfied)   | 12%          | 16           |
 
 Neutral feedback highlights areas that work adequately but could be improved, mentions of unclear processes, or notes where the app’s functionality does not meet all user needs.
 
