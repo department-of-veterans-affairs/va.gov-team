@@ -1,6 +1,8 @@
 ## Problem Statement and Overview
 In the current content publishing framework, all content is published to VA.gov using static site generators, where the systems export all CMS-generated HTML for each page type and deploy it to S3 buckets. This process runs continuously on a cycle during VA business hours (8:00 a.m. – 8:00 p.m. EST, Monday through Friday). Because content is published in bulk regardless of whether it has changed, this approach limits how quickly updates from the CMS can appear on VA.gov. This issue is further compounded as more content is created in the CMS. 
+
 When asked about their experience using Drupal CMS, editors are asking for faster and more consistent publishing times, so that they can know when to reliably expect their content to go live on VA.gov and ensure the content is published as expected. Predictability is as important as speed; editors need to know exactly when their content will be published. 
+
 To address the slow publishing problem, the CMS team is implementing a Next.js server that will publish content on demand. When content is added or updated in Drupal CMS, the Next.js server will automatically publish the changes within five minutes or less. On demand publishing will allow content to be published both faster and more predictably, and will better scale as more content is added to the system.
 
 ## Desired User Outcomes
