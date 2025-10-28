@@ -96,19 +96,19 @@ Before we start, I have a few things that I want to go over with you:
 
 * **Sorting (task)**
     * New options
-    * Are they seeing?
-    * Are they interacting?
-    * Do we have the right default sort?
-    * Is the label "most time-sensitive" clear?
+       * Are they seeing the options?
+       * Are they interacting with them?
+       * Do we have the right default sort - are they expecting something different?
+       * Is the label "most time-sensitive" clear?
 * **How are users interacting with the new filters (task)**
-    * Do they see them (vs last time)
-    * Are the categories intuitive
+    * Do they see them (compared to last round of testing)?
+    * Are the categories intuitive?
 * **Are they able to make the connection between the filters and the content on the cards (especially the before/after separation filter).**
-    * Are they necessary
-    * Anything missing?
+    * Is there enough meta-content, or too much?
+    * Is there anything missing?
     * Radio button component (task)
     * Recommended vs all benefits (task)
-    * Clear?
+    * Is there anything that isn't clear?
 * **Cards (task)**
     * How does changing filters affect how they’re interacting with cards
     * Tags, eyebrows, scanning, scrolling–how are the cards working
