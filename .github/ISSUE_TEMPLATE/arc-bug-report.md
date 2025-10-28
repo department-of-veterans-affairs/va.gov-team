@@ -13,10 +13,10 @@ assignees: ''
 **Actual**: _What actually happened?_
 
 ## Steps to Reproduce
-_Outline the steps to recreate this bug_
+<!-- _Outline the steps to recreate this bug_ -->
 
 ## Examples
-_Include screenshots or screen recordings of the bug you're reporting_
+<!-- _Include screenshots or screen recordings of the bug you're reporting_ -->
 
 ---
 #### How to configure this issue
