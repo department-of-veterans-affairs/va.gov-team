@@ -8,14 +8,16 @@ assignees: ''
 ---
 
 ## Issue Description
-QA for #
+<!-- Reference the original ticket you were QA-ing, which led you to find these defects. -->
+QA for # 
 
-## Defect 1
-
+### Defect 1
 <!-- Summarize the defect and add notes and screenshots about the defect. -->
 
-## Defect 2
+
+### Defect 2
 <!-- Make more defect sections as needed, or delete this section. -->
+
 
 ## Acceptance Criteria
 - [ ] Defect 1 has been addressed
