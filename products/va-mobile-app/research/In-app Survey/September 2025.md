@@ -12,7 +12,7 @@ Feedback includes **134** total responses, each with a rating of 1-5 as defined 
 
 | Rating | % of ratings | # of ratings |
 |--------|--------------|--------------|
-| = 1 (Not at all satisfied)    | 5          | 7           |
+| = 1 (Not at all satisfied)    | 5%          | 7           |
 | = 2 (Dissatisfied)  | 13%          | 17           |
 | = 3 (Neither satisfied or dissatisfied)   | 12%          | 16           |
 | = 4 (Satisfied)   | 21%          | 29           |
@@ -20,12 +20,6 @@ Feedback includes **134** total responses, each with a rating of 1-5 as defined 
 | = Undefined (not set) | 4% | 5 |
 
 *Counts include all responses, including those listed as (not set).*
-
----
-
-## General/other feedback
-
-**Note:** General feedback includes responses that reflect Veteran experiences with their healthcare teams or the VA in general and may not specifically be related to the VA Health and Benefits app.
 
 ---
 
@@ -125,8 +119,8 @@ Neutral feedback highlights areas that work adequately but could be improved, me
 | Payments        | 5.0           | 1            |
 | Travel Pay     | 3.6           | 5            |
 | Messaging       | 2.9           | 7            |
-| Prescriptions   | 4.2           | 21           |
-| Appointments    | 3.5           | 7            |
+| Prescriptions   | 4           | 18           |
+| Appointments    | 3.25           | 5           |
 
 ---
 
@@ -273,39 +267,6 @@ Travel pay is an area of the app that gets mixed ratings and mostly due to the i
 - Offer travel pay submissions for all appointment types including manual entries for appointments that may not be reflected in the app, such as community care appointments.
 - Improve findability for travel pay by distinquishing it as its own feature and pointing to it from the homescreen of the app.
 
-### Example: Prescriptions
-
-| Feature      | average rating | # of ratings |
-|--------------|---------------|--------------|
-| Prescriptions| 4.2           | 21           |
-
-Overall, prescription management receives high marks for ease of refill and efficiency. Users value the improved refill process, but some note difficulties understanding available refills and request clearer information.
-
-**Representative responses:**
-1. “I really like this app. It makes ordering prescriptions super easy.”
-2. “Makes refill process easy.”
-3. “Don’t like the new app for refills. Hard to understand what’s available.”
-4. “Awesome! Knows when I need to reorder and keeps me on schedule!”
-5. “It says I filled it on 8/28 but I never received them. I have 15 days left before I’m out.”
-
-**Common Themes:**
-- Refill process is easier
-- Quick ordering and reminders
-- Delivery/receipt issues
-- Confusion about available refills
-
-**Pain Points:**
-- Unclear refill counts
-- Occasional delivery issues
-- Navigation can be confusing
-
-**Feature Enhancements:**
-- Display clearer refill information
-- Notifications about eligibility for refill
-
-**Recommendations:**
-- Add more detailed prescription status and refill eligibility
-- Streamline navigation to prescription page
 
 ---
 
@@ -358,13 +319,92 @@ There is no address book. There is no way to search messages for specific text w
 - Add ability to search text in messages.
 
 ---
+### Prescriptions
+
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Prescriptions| 4           | 18           |
+
+Overall, prescription management receives high marks for ease of refill and efficiency. Users value the improved refill process, but some note difficulties understanding available refills and request clearer information.
+
+**Representative responses:**
+>“I really like this app. It makes ordering prescriptions super easy. No more waiting on the phone to order refills. I can also see my appointments and other benefits.”
+<br>
+
+>“It was so much easier to refill your medications before these changes. I just don't understand why you make it so difficult to navigate your medications.”
+<br>
+
+>“I'm not entirely sure if it's the new format for prescriptions, but I have on a few occasions run out of medications and when I attempt to refill them they're available for a refill or they're weeks before the website states they're eligible for a refill. ”
+<br>
+
+>“Awesome! Knows when I need to reorder and keeps me on schedule!”
+<br>
+
+>“It says I filled it on 8/28 but I never received them. I have 15 days left before I’m out.”
+<br>
+
+**Common Themes:**
+- Refill process is easier
+- Quick ordering and reminders
+- Delivery/receipt issues
+- Confusion about available refills
+
+**Pain Points:**
+- Unclear refill counts
+- Occasional delivery issues
+- Navigation can be confusing
+
+**Feature Enhancements:**
+- Display clearer refill information
+- Notifications about eligibility for refill
+
+**Recommendations:**
+- Add more detailed prescription status and refill eligibility
+- Streamline navigation to prescription page
+
+---
+
+### Appointments
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Appointments     | 3.25         | 5            |
+
+Appointments gets mixed reviews and mostly due to a lack of consistent appointment details provided that help users understand what the appointment is for, who it is with, and specific location details that may be needed.
+
+
+**Representative responses:**
+
+>"I have multiple health issues so when an appointment it listed it should state what the appointment is for, not just appointment date and time."
+<br>
+
+>"It would be really helpful if the doctors name and reason for visit would be on the appointment. Several times I went to wrong clinic that the app showed."
+<br>
+
+>"On my healthevet we could see information about our medical appointments. We could see our community appointments also. Very frustrating that now we can't. We see some appointments coming up but zero information about with who or why. Please improve the issue."
+<br>
+
+>"Apt app does not provide attending doctors name or at least ID the MED UNIT. Please provide map IDing the bldg or trailers location especially for newer bldgs like 800 series."
+<br>
+
+>"On the app, it doesn't tell you who or what dept our appointments are with."
+<br>
+
+**Common Themes:**
+- Lack of needed appointment details.
+
+**Pain Points:**
+- Lack of needed appointment details.
+
+**Recommendations:**
+- Investigate varience in appointment details to understand source of variation and ability to streamline data received and displayed.
+
 
 ## Other findings
 
-### Navigation
+### Feature name
 | Feature      | average rating | # of ratings |
 |--------------|---------------|--------------|
-| Navigation      | 4.4           | 5            |
+| Feature Name      | 4.4           | 5            |
 
 Summmary
 
@@ -398,3 +438,27 @@ Summmary
 - 
 
 Additional notable categories include usability improvements, requests for more comprehensive appointment information (such as provider name and visit reason), and frequent praise for staff support. Speed and efficiency were noted as positive attributes, with some suggestions for enhancing travel pay and claim features.
+
+## VA Organization or Services
+
+This feedback includes responses that reflect Veteran experiences with their healthcare teams or the VA in general and may not specifically be related to the VA Health and Benefits app.
+
+**Representative responses:**
+
+>"I'm satisfied with the service I have been receiving.thank you very much."=
+<br>
+
+>"The VA Pharmacy is the best and have the best people working in it they deserve a raise."
+<br>
+
+>"Very good service."
+<br>
+
+>"Great Service - GREAT VA - sometimes items get used more than others, and it's very easy to stay ahead of your pains and problems with this service - THANK YOU - from a US Marine."
+<br>
+
+>"Im unable to find any personal information on my CHAMPVA bills or EOB's.
+I need a help line phone number."
+<br>
+
+---
