@@ -1,3 +1,5 @@
+# 🚧 🚧 🚧 work in progress 🚧 🚧 🚧 
+
 # Research Plan for Financial Management Team, Copay Debt Portal Payment History, October \- November 2025 
 
 # Background
