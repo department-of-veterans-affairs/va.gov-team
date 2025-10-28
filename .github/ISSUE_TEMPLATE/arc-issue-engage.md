@@ -23,7 +23,5 @@ type: Task
 #### How to configure this issue
 1. Associate with the correct AR team
 2. Attach a parent ticket (what body of work is this a part of?)
-
-Optional:
-1. Associate with the proper project
+3. Associate with the proper project
 5. Add an estimate
