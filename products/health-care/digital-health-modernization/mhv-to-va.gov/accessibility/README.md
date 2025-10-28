@@ -5,4 +5,4 @@ Last updated: 28 Oct 2025
 
 ## Process Documentation
 
-- TBC
+- [Team operations](documentation/operations.md) — Processes to follow for engaging with the accessibility team and actioning accessibility issues. 
