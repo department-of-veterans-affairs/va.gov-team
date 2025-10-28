@@ -189,7 +189,8 @@ After you’ve completed these actions, on a scale of 1 to 5, how easy or diffic
 
 - "What part of the process felt most overwhelming or confusing?"
 - "Were there any parts of this form that you found to be unclear?
-- "Compared to calling in, what would have been easier or harder about this digital approach?"
+- "Compared to calling the VA or an in-person visit, how would this compare?"
+
 
 ## Emotional & Cognitive Load Assessment
 
