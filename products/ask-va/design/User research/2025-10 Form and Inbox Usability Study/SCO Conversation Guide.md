@@ -125,6 +125,9 @@ Now show us how you would use Ask VA to submit your documentation.
   - How do you interpret the lists you’re seeing? What do they mean to you?  
   - How important do you think these questions are?  
   - What would you do, if you couldn’t find an option that fit your needs?  
+- **School Facility**  
+  - What does the school facility mean to you?
+
 - **Question**
 
   _(IF STAGING)_ Feel free to type in anything that you normally would here for this kind of task.   
@@ -285,12 +288,10 @@ Again let’s imagine, **\[Prompt from Task 1\]** and you need to review a previ
 - What did you like about reviewing your previous Ask VA submissions? What didn’t you like?
 
 ## Post-Task Interview \- 5 minutes
+You got to experience two different versions of Ask VA today. The one on the left represents the first experience you had and on the right represents the second experience.
 
-- You got to experience two different versions of Ask VA today. 
-
-Which of the experiences did you prefer to submit documentation? On the left represents the first experience you had and on the right represents the second experience.
-
-Which of the experiences did you prefer to review a previous submission? On the left represents the first experience you had and on the right represents the second experience.
+- Which of these experiences do you prefer for submitting documentation? 
+- Which of these experiences do you prefer for reviewing a submission?
 
 [Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
