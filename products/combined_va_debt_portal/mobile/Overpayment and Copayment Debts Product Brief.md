@@ -43,7 +43,8 @@ The mobile app does not have any debt-related information for Veterans to access
 
 ### Key Performance Indicators (KPIs)
 
-* Total number of views of benefit overpayments and medical copayments. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.  
+* Total number of views of benefit overpayments and medical copayments from the **Activity tile**. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.
+* Total number of views of benefit overpayments and medical copayments from the **Payment tab**. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.   
 * Overall app volume. We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis.  
 * Total number of clicks on the link to access VA.gov. We expect that Veterans will want to request help or dispute their debt or copay, and that this non-zero amount will increase. We will track the total number of clicks on the links to access VA.gov on a monthly basis. 
 * Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
