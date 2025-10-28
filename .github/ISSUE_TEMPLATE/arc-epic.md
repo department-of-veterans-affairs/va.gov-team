@@ -9,19 +9,19 @@ type: Epic
 ---
 
 **Goal**: 
-_What is the intended outcome of this project? Include any resources that might help new teams pick up this work._
+ <!-- What is the intended outcome of this project? Include any resources that might help new teams pick up this work. -->
 
 **Deliverable(s) / Acceptance criteria**: 
-- [ ] _What results will confirm this work is complete?_
+- [ ] <!-- What results will confirm this work is complete? -->
 
 **Estimated time**: 
-_How many sprints do you anticipate this project spanning? Break down your estimate (what would you do each sprint, to get to the total?)_
+<!-- How many sprints do you anticipate this project spanning? Break down your estimate (what would you do each sprint, to get to the total?) -->
 
 **Status**: 
-_What is the status of this epic? What should new teams who are just seeing this epic know, when planning to pick up this work?_
+<!-- What is the status of this epic? What should new teams who are just seeing this epic know, when planning to pick up this work? -->
 
 **Resources**: 
-_Include links to product documentation, Figma design files, Mural boards, etc._
+<!-- Include links to product documentation, Figma design files, Mural boards, etc. -->
 
 ---
 
