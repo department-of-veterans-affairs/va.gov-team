@@ -26,7 +26,7 @@ Any other issues or requirements that should be addressed prior to rollout?
 - [ ] Enable in Production to 100% of users
 - [ ] Confirm the release to Production, with a test user
 - [ ] Implement Datadog monitoring in Production (Ticket TBD)
-- [ ] Communicate release to ARP pilot users via Teams/Email
+- [ ] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
 
 ***
 
