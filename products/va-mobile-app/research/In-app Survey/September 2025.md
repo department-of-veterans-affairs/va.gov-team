@@ -129,7 +129,7 @@ Neutral feedback highlights areas that work adequately but could be improved, me
 |--------------|---------------|--------------|
 | Navigation      | 3.6           | 10            |
 
-The majority of responses that mentioned navigation noted how easy it was to navigate the app overall. One Veteran mentioned that it was difficult to navigate medications specifically in the prescriptions area of the app. Additional features that mentioned navigation challenges included the 'Profile' where a user mentioned being unable to locate the sign out option, 1 user noted 'Messages' should be on the homepage due to how difficult it was to find, one user mentioned needing to find specific information in their medical records, and two users mentioned travel pay being difficult to locate.
+The majority of responses that mentioned navigation noted how easy it was to navigate the app overall. Additional mentions of navigation challenges included a single user being unable to locate the sign out option, another user noted 'Messages' should be on the homepage due to how difficult it was to find, and one user mentioned needing to find specific information in their medical records, with two users mentioned travel pay being difficult to locate. 
 
 **Representative responses:**
 
