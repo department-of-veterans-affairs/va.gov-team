@@ -39,7 +39,7 @@ Our solution to improve publishing speed will not create unintended consequences
 You can read through [this report](https://dvagov.sharepoint.com/:w:/r/sites/CMSTeam/Shared%20Documents/Static%20Site%20Generation%20Summary%20and%20Recommendation.docx?d=w98220445f4ca467c834cde562b977d3c&csf=1&web=1&e=WZTeUn) to get a full explanation of alternative solutions we explored and how we decided upon using a Next.js server to implement on demand publishing and solve the slow publishing problem. 
 
 ## Supporting research
-1. Quarterly editor surveys
+1. [Quarterly editor survey reports](https://dvagov.sharepoint.com/sites/CMSTeam/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCMSTeam%2FShared%20Documents%2FGeneral%2FUX%20Research%2FDrupal%20Editorial%20Quarterly%20Feedback%20Survey%2FMonthly%20Data%20Report&viewid=e29c78b4%2D4edd%2D4db3%2D8cbe%2Dd6854eff5740&web=1&FolderCTID=0x0120009F22CB820DBD4444A963BD78D7089AFA)
 
 ## Initiatives
 [On Demand Publishing Initiative](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20202) 
