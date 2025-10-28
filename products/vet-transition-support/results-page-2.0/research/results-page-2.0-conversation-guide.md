@@ -157,7 +157,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ## 🗣️ Post-Task Interview - 10 Minutes
 
-* Is this tool helpful for you in life today?
+* Is this tool helpful for you in your life today?
 * What would you change about this tool to help someone transitioning from Active Duty?
 * What do you think VA should know about your experience getting benefits after transitioning?
 
