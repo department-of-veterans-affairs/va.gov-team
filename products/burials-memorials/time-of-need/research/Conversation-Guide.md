@@ -95,7 +95,8 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. "Have you previously scheduled a burial? If yes, how did you do it?"
-2. "What was your experience like with that process? 
+2. "What was your experience like with that process? What worked well? 
+   What was frustrating?"
 
 # Usability Actions & Ratings
 
@@ -110,6 +111,8 @@ For each of the following actions, please attempt the task as you naturally woul
 **Rating:**  
 On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease of entering a Veteran service period?
 <mark>**[Record rating and comments here]**</mark>
+[If participant hesitates]: "Use your best estimate if you're not certain."
+[After entry]: "How confident are you that you entered the correct dates?"
 
 > [!NOTE]
 > Things to watch for:
@@ -128,13 +131,30 @@ On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease o
 **Rating:**  
 On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease of finding a preferred national cemetery?
 <mark>**[Record rating and comments here]**</mark>
+Task: Please indicate your preferred national cemetery for this burial.
+[Context]: "The deceased Veteran's family prefers to be buried in their 
+home state."
+
+Things to watch for:
+- Does participant understand they're selecting a specific cemetery?
+- Do they use search/filter vs. browse the list?
+- If cemetery options are limited/unavailable, how do they respond?
+- Understanding of what "national cemetery" means?
+- Difficulty with state selection or cemetery availability?
+- How do they know which cemetery to choose?
+
+Post-task probe:
+- "How would you know which cemetery to select?"
+- "What if the preferred cemetery wasn't available?"
 
 > [!NOTE]
-> Things to watch for:
-> - Did the user click on the external link?
-> - Did they locate the bruial information on the site?
-> - Did they successfully find the intended cemetery?
-> - Did they ask for help or express confusion?
+Things to watch for:
+- Does participant understand they're selecting a specific cemetery?
+- Do they use search/filter vs. browse the list?
+- If cemetery options are limited/unavailable, how do they respond?
+- Understanding of what "national cemetery" means?
+- Difficulty with state selection or cemetery availability?
+- How do they know which cemetery to choose?
 
 ---
 
@@ -144,6 +164,9 @@ On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease o
 
 **Rating:**  
 On a scale of 1 (very difficult) to 5 (very easy), how would you rate the ease of determining and selecting your relationship to the Veteran?
+- "Did any of the labels or terms confuse you?"
+- "What did [specific field name] mean to you?"
+- "Were there any questions you didn't understand immediately?"
 <mark>**[Record rating and comments here]**</mark>
 
 > [!NOTE]
@@ -174,6 +197,9 @@ After completing the form, use these probes:
 - "Were there any questions that felt intrusive or insensitive?"
 - "Would you feel comfortable completing this on your own, or would 
   you want help or support?"
+  - "What additional information, help, or support would have made 
+  this process easier for you?"
+- "Is there anything you wish was available on this form or in the process?"
 
 Moderator notes should track:
 - Emotional shifts (frustration, hesitation, distress)
