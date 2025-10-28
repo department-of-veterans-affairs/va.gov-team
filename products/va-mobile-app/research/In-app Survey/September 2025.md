@@ -35,7 +35,7 @@ September’s feedback was predominantly positive, with most users describing th
 | = 4 (Satisfied)    | 21%          | 29           |
 | = 5 (Very Satisfied)   | 45%          | 60           |
 
-Most positive comments highlight ease of use, improved navigation, faster processes, and satisfaction with new or updated features. Many users appreciate the app’s efficiency and the ability to manage health needs digitally.
+Most positive comments highlight ease of use, improved navigation, faster processes, and satisfaction with new or updated features. Many users appreciate the apps efficiency and the ability to manage health needs digitally.
 
 **Representative responses:**
 >“App works great.”
@@ -103,7 +103,8 @@ Neutral feedback highlights areas that work adequately but could be improved, me
 >“The new message part no longer has my doctors, therapists or even Pueblo clinic.”
 <br>
 
-“Cancelled prescriptions to be removed.”
+>“Cancelled prescriptions to be removed.”
+<br>
 
 ---
 
