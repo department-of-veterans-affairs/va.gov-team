@@ -4,7 +4,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 # Sprint 3 (Nov 4 - Nov 17, 2025)
 
-## Sprint 3 Goals
+## Sprint 3 Goals [WIP]
 - [ ] Sprint Goals Approved by Enablement
 
 Tean Accreditation: 
@@ -12,7 +12,7 @@ Tean Accreditation:
 2. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to non-Chapater 6 development
 
 Team Benefits:
-4. **[Auth] ID.me in ARP**: Internal QA, Staging Review, Contact Center Review, Datadog reporting
+1. **[Auth] ID.me in ARP**: Internal QA, Staging Review, Contact Center Review, Datadog reporting
 5. **Intent to File**: Outline remaining development and begin implementation accordingly
 6. **Claimant Details**: Outline remaining UX work and begin research/design accordingly
 7. **[ARP Post-MVP] Cleanup Tasks**: Feature flag cleanup, update URLs, update access token
