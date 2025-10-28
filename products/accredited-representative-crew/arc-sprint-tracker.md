@@ -7,11 +7,11 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 ## Sprint 3 Goals [WIP]
 - [ ] Sprint Goals Approved by Enablement
 
-Tean Accreditation: 
+**Team Accreditation**: 
 1. **[Rep Data] Stability and Maintenance**: Refactor address validation for reps
 2. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to non-Chapater 6 development
 
-Team Benefits:
+**Team Benefits**:
 1. **[Auth] ID.me in ARP**: Internal QA, Staging Review, Contact Center Review, Datadog reporting
 5. **Intent to File**: Outline remaining development and begin implementation accordingly
 6. **Claimant Details**: Outline remaining UX work and begin research/design accordingly
@@ -61,7 +61,7 @@ Team Benefits:
 
 ## Sprint 2 Tickets
 
-### Accreditation Team
+**Accreditation Team**
 
 
 Title | URL | Status | Estimate
@@ -78,7 +78,7 @@ Representative data bug fixes and   stability improvements (during shutdown) | h
 
 
 
-### Benefits Team
+**Benefits Team**
 
 Title | URL | Status | Estimate
 -- | -- | -- | --
@@ -109,7 +109,7 @@ Define details for implementing site   maintenance alerts | https://github.com/d
 
 
 
-### Leadership
+**Leadership**
 
 
 Title | URL | Status | Estimate
@@ -144,6 +144,8 @@ Build CRM for VSO Onboarding and   Management | https://github.com/department-of
 3. **ARP adoption**: VSO follow up, begin shared mailbox setup
 4. **Team setup**: Onboarding a developer, refine processes and communication channels, define on call rotation, determine how to update ARP without feature flags, quick fix for test users
 
+
+
 ## Sprint 1 Delivery
 
 - [x] Sprint Delivery Approved by Enablement - Sam Raudabaugh on October 21, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1761078384414849))
@@ -169,9 +171,11 @@ Build CRM for VSO Onboarding and   Management | https://github.com/department-of
 3. ARP sitewide alerts 
 4. 21a form upload
 
+
+
 ## Sprint 1 Tickets
 
-### Accreditation Team
+**Accreditation Team**
 
 Title | URL | Status | Estimate
 -- | -- | -- | --
@@ -197,7 +201,7 @@ Chapter 6: Document Upload - Create a new   endpoint to handle document uploads 
 
 
 
-### Benefits Team
+**Benefits Team**
 
 
 Title | URL | Status | Estimate
@@ -250,7 +254,7 @@ Update title tag for all pages in the   portal to match content | https://github
 
 
 
-### Leadership
+**Leadership**
 
 Title | URL | Status | Estimate
 -- | -- | -- | --
