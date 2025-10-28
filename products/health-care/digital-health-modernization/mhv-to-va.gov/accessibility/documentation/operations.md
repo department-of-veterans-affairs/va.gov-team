@@ -1,4 +1,4 @@
-# Team Operations
+# Accessibility Team Operations
 Last updated: 28 Oct 2025
 
 ## Engaging with the accessibility team
