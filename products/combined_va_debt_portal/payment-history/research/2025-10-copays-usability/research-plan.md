@@ -78,7 +78,7 @@ The results of the study will help us identify if Veterans encounter any major i
 
 # Methodology
 
-This study will use moderated usability testing to observe Veterans interacting with the Copay payment history from their own accounts in their natural logged-in stage.  Participants will complete tasks while sharing their desktop screens. 
+This study will use moderated usability testing through one on one in depth interviews. There will be no prototypes, Veterans will login in to their own VA accounts, share screens and interact with their Copay payment history. 
 
 ## Location
 
@@ -98,25 +98,34 @@ Note
 
 We would like Perigean support to recruit assistive tech (AT) users and non-AT users eligible participants for the study. We are aiming for **8** sessions total. 
 
-Participants **must have active copay (VHA) balances from the last 6 months and be willing to share screens and data from their personal VA accounts**. We are testing the live experience, there are no prototypes.
+Participants **must have active copay (VHA) balances from the last 6 months and they must be willing to share screens and data from their personal VA accounts**. 
 
-## List the total number and type (Veterans, caregivers, etc.) of participants to recruit for this study:
+We are testing the live experience, there are no prototypes.
 
-* `Veterans:` \[12\]  
-* `Caregivers:` \[0\]  
-* `Dependents:` \[0\]  
-* `Total:` \[12\]
+## Recruitment criteria
+
+* Veterans: 12  
+* Ideal completed sessions: 8
 
 ## Primary criteria
 
-* Must have active copay bills from the past 6 months  
-* Must be willing to screenshare their own [VA.gov](http://VA.gov) account, including visibility of their personal account information  
-* Have a working microphone on their device  
+* Have active copay bills from the past 6 months  
+* Must be willing to screenshare from their own [VA.gov](http://VA.gov) account, including visibility of their copay bill and other sensitive account related information  
+* 4 Assistive Technology users, including 2 Veterans who use screen magnifiers and 2 Veterans who use screen readers
+
+## Secondary criteria
+
 * Have recurring copay bills for prescriptions  
-* All participants must be veterans  
-* 4 Assistive Technology users, including 2 Veterans who use screen magnifiers and 2 Veterans who use screen readers  
-* 3 to 4 Veterans from rural areas  
-* 3 to 4 Veterans over the age of 55
+* At least 6 ages 55+  
+* At least 6 with an annual household income of less than 50K  
+* At least 3 under age 35  
+* At least 6 with cognitive disability  
+* At least 4 people of color  
+* At least 3 in a rural area  
+* At least 3 without a degree  
+* At least 2 with immigrant origins  
+* At least 1 woman  
+* At least 1 from the LGBTQ+ community
 
 ## Screening Questions
 
@@ -140,7 +149,7 @@ Quotas:
 * Yes qualifies them for study  
 * No disqualifies them  
     
-5. Are you willing to screenshare your personal information from your [VA.gov](http://VA.gov) account?  
+5. Are you willing to screenshare your personal account information from your [VA.gov](http://VA.gov) account?  
 * Yes qualifies them for the study  
 * No disqualifies them 
 
@@ -160,6 +169,16 @@ Quotas:
 Quotas (info for Perigean)
 
 * Please recruit at least 6 participants that have an annual household income level of less than $50K
+
+8. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.  
+   1. Yes  
+   2. No  
+   3. Decline to answer
+
+9. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
+   1. Yes *(mark as having a cognitive disability)*  
+   2. No  
+   3. Decline to answer
 
 **For AT Users**
 
