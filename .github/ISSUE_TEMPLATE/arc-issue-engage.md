@@ -9,14 +9,14 @@ type: Task
 ---
 
 ## Background
-_What background/context has led to this work?  What problem are we trying to solve?_
+<!-- What background/context has led to this work?  What problem are we trying to solve? -->
 
 ## Tasks
-_What steps are required to get to the Acceptance Criteria?_
+<!-- What steps are required to get to the Acceptance Criteria? -->
 - [ ]
 
 ## Acceptance Criteria
-_What will be created or happen as a result of this?_
+<!-- What will be created or happen as a result of this? -->
 - [ ] 
 
 ---
