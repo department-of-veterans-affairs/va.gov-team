@@ -1,5 +1,4 @@
 # In-app Feedback - the VA Health & Benefits App from September, 2025
-**IN PROGRESS - NOT COMPLETE**
 ---
 
 ## Summary
@@ -401,45 +400,29 @@ Appointments gets mixed reviews and mostly due to a lack of consistent appointme
 
 ## Other findings
 
-### Feature name
-| Feature      | average rating | # of ratings |
-|--------------|---------------|--------------|
-| Feature Name      | 4.4           | 5            |
+### General - App Overall (55)
 
-Summmary
+Users often provide general sentiment around their app use and rating. Most notably liking the simplicity, conveience, and easy usability of the app. Some compare the app to other resources noting the efficiency the app provides and desirability to use the app for key services. Neutral or negative feedback regarding the app overall mentions issues with unavailability or troubles with uploads (1), the app not updating (1), or the app being hard to use (1). 
 
 **Representative responses:**
 
->
+>"Applications well designed. Intuitive and easy to drill down to the information needed."
 <br>
 
->
+>"Although very simple in its design, the app works well and does what it needs to. I find it very helpful in placing Rx and communicating with my doc."
 <br>
 
->
+>"A tech at the Tulsa clinic helped me open this app. She was very knowledgeable and she set up my account greatly. Now I can make notes to the people that take care of me, refill prescriptions, and peruse all my VA care. I am totally happy with this app now. Thank you and her for enabling VA care for me."
 <br>
 
->
+>"Issues with availability, upload of content."
 <br>
 
->
+>"This is the best app the VA has ever created! The website developers need to take UX lessons from the mobile app team!"
 <br>
 
-**Common Themes:**
-- 
 
-**Pain Points:**
-- 
-
-**Feature Enhancements:**
-- 
-
-**Recommendations:**
-- 
-
-Additional notable categories include usability improvements, requests for more comprehensive appointment information (such as provider name and visit reason), and frequent praise for staff support. Speed and efficiency were noted as positive attributes, with some suggestions for enhancing travel pay and claim features.
-
-## VA Organization or Services
+### VA Organization or Services
 
 This feedback includes responses that reflect Veteran experiences with their healthcare teams or the VA in general and may not specifically be related to the VA Health and Benefits app.
 
@@ -460,5 +443,7 @@ This feedback includes responses that reflect Veteran experiences with their hea
 >"Im unable to find any personal information on my CHAMPVA bills or EOB's.
 I need a help line phone number."
 <br>
+
+
 
 ---
