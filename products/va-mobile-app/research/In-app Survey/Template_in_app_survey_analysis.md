@@ -1,16 +1,16 @@
 # [RX/Give Feedback] In-App Survey Feedback from the VA Health & Benefits App from August, 2025 
 ## Summary
-Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
+Feedback includes **#** total responses, each with a rating of 1-5 as defined in the table below. Ratings of 1-2 (not at all satisified, or dissatisfied) are considered negative, 3 (neither satisfied or dissatisfied) represents neutral, and 4-5 (satisfied, or very satisfied) are positive.
 
 ## Overall distribution of ratings
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = Very satisfied | % | # |
-| = Satisfied | % | # |
-| = Neither satisfied or dissatisfied | % | # |
-| = Dissatisfied | % | # |
-| = Not at all satisfied | % | # |
+| 5 = Very satisfied | % | # |
+| 4 = Satisfied | % | # |
+| 3 = Neither satisfied or dissatisfied | % | # |
+| 2 = Dissatisfied | % | # |
+| 1 = Not at all satisfied | % | # |
 
 
 ## General/other feedback
@@ -70,30 +70,6 @@ Representative responses:
 
 <br>
 
-### Common themes
-
-#### Theme name (# of responses)
-
-1-2 sentences describing the theme.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-Recommendation: Where applicable, 1-2 sentences of recommendations for to investigate, improve, or mitigate this theme.
-
-### User pain points
-
-#### Pain point title
-Brief sentence explaining pain point, noting scale of that pain point (# of reviews related to this pain point).
-
-Recommendation: 1-2 sentences of recommendations that could improve this pain point.
 
 ## Feature specific feedback
 The following feature list may not all be mentioned or comprehensive of the months specific feedback.
@@ -111,5 +87,39 @@ The following feature list may not all be mentioned or comprehensive of the mont
 | Messaging | # | # |
 | Prescriptions | # | # |
 
+### Feature name
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Feature Name      | 4.4           | 5            |
 
+Summmary
+
+**Representative responses:**
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+**Common Themes:**
+- 
+
+**Pain Points:**
+- 
+
+**Feature Enhancements:**
+- 
+
+**Recommendations:**
+- 
 
