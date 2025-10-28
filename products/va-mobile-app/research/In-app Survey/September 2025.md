@@ -118,19 +118,160 @@ Neutral feedback highlights areas that work adequately but could be improved, me
 
 | Feature         | average rating | # of ratings |
 |-----------------|---------------|--------------|
-| Navigation      | 4.8           | 6            |
-| Sign in         | 4.7           | 3            |
-| Disability rating | (not enough data) | 0         |
-| Claims          | 5.0           | 1            |
-| Letters and documents | (not enough data) | 0      |
+| Navigation      | 3.6           | 10            |
+| Sign in      | 4.5           | 2            |
+| Claims          | (not set)        | 1            |
 | Profile         | 4.0           | 1            |
 | Payments        | 5.0           | 1            |
-| Travel Pay      | 3.1           | 8            |
-| Messaging       | 2.4           | 8            |
+| Travel Pay     | 3.6           | 5            |
+| Messaging       | 2.9           | 7            |
 | Prescriptions   | 4.2           | 21           |
 | Appointments    | 3.5           | 7            |
 
 ---
+
+### Navigation
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Navigation      | 3.6           | 10            |
+
+The majority of responses that mentioned navigation noted how easy it was to navigate the app overall. One Veteran mentioned that it was difficult to navigate medications specifically in the prescriptions area of the app. Additional features that mentioned navigation challenges included the 'Profile' where a user mentioned being unable to locate the sign out option, 1 user noted 'Messages' should be on the homepage due to how difficult it was to find, one user mentioned needing to find specific information in their medical records, and two users mentioned travel pay being difficult to locate.
+
+**Representative responses:**
+
+>"Why can't there be a button to go directly to messages ,. I can't find anything since the update  ie messages , pharmacy,  etc very hard for me to use now "
+<br>
+
+>"I love this app....it's easy to navigate."
+<br>
+
+>"It was so much easier to refill your medications before these changes. I just don't understand why you make it so difficult to navigate your medications."
+<br>
+
+>"This app is easy and intuitive to use. Have been able to find what i am looking for very efficiently."
+<br>
+
+>"How do I search my medical records for specific information like optometry or lymphedema or or kidney and on and on and on and on."
+<br>
+
+**Common Themes:**
+- Navigation in the app is easy.
+- Specific features may be hard to find or search within.
+
+**Pain Points:**
+- Inability to access Travel Pay.
+- Not a clear link to Messages.
+- Challenging to search medical records for specifics.
+- Difficult to navigate to prescriptions.
+- Unable to find sign out.
+
+**Feature Enhancements:**
+- Link to messages from the homescreen.
+- Area specific to travel pay.
+
+**Recommendations:**
+- Consider bringing messages to the homescreen.
+- Create a designated area for Travel Pay that includes manual entries for community care appointments.
+
+### Sign in
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Sign in      | 4.5           | 2            |
+
+Only two comments mentioned sign in both had positive rating scores. One mentioned that signing in on the app is a plus and the other needing to change their MFA code to be sent to their mobile phone number. 
+
+**Representative responses:**
+
+>"I would prefer my code be sent to my mobile number."
+<br>
+
+>"Positive, easier than the website. Logon is the plus."
+<br>
+
+
+**Common Themes:**
+- Sign in is a positive experience for mobile app users.
+- Update MFA method.
+
+**Pain Points:**
+- Changing MFA code method.
+
+### Claims
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Claims      | (not set)        | 1            |
+
+Only one app survey response noted claims in their response, and this Veteran simply noted that they were still working on their evidence in support of a claim. 
+
+**Representative responses:**
+
+>"Good, I'm still working on more evidence. Hang in there."
+<br>
+
+### Profile
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Profile      | 4        | 1            |
+
+One survey response simply noted that the user could not sign out of the app. 
+
+**Representative responses:**
+
+>"I think the app is easy to work with.  I wish there a sign out button."
+<br>
+
+### Payments
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Payments      | 5        | 1            |
+
+Another single response mentioned liking direct deposits for making payments instead of checks. 
+
+**Representative responses:**
+
+>" Very user friendly now and making payments as direct deposit now instead of checks has been a plus."
+<br>
+
+### Travel Pay
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Travel Pay     | 3.6           | 5            |
+
+Travel pay is an area of the app that gets mixed ratings and mostly due to the inability to access or file community care appointments for travel pay. There were several users who reported liking the travel claim process through the app, with one sharing sentiment of doubt around acceptance of claim and payment.
+
+**Representative responses:**
+
+>"I am trying to file a travel/mileage claim for my Community Care appointments. This is an impossible task. An appointment has to be shown before I can file a mileage claim. Trying to find the online travel submission form is also very difficult. TRAVEL CLAIM FORMS should be listed under Benefits to make it easy to find."
+<br>
+
+>"I love the ease of this app, especially with being able to file the mileage reimbursements."
+<br>
+
+>"The travel claim implementation was a big improvement, but it automatically goes into manual review and after 3 months poorf, your claim is gone and never paid so it's definitely saving the VA money. Fix it!!"
+<br>
+
+>"When my husband and I go to his outside Community Care Doctor, it's not a place to input the information for him; to get his reimbursement for travel pay? Is there a place for that information to be recorded?"
+<br>
+
+>"I can't get seem to get the travel pay portion to pull up."
+<br>
+
+**Common Themes:**
+- Travel pay is a desirable feature in the app.
+- Access to travel pay is inconsistent and a challenge.
+
+**Pain Points:**
+- Locating or accessing Travel Pay
+- Inability to submit for Community Care appointments.
+- Lack of trust in the system, Claim not received.
+
+**Feature Enhancements:**
+- Manual travel pay submission for all appointment types including community care appointments.
+- Ability to access from a unique entry point specific to Travel Pay (such as the homescreen).
+
+**Recommendations:**
+- Offer travel pay submissions for all appointment types including manual entries for appointments that may not be reflected in the app, such as community care appointments.
+- Improve findability for travel pay by distinquishing it as its own feature and pointing to it from the homescreen of the app.
 
 ### Example: Prescriptions
 
@@ -168,40 +309,92 @@ Overall, prescription management receives high marks for ease of refill and effi
 
 ---
 
-### Example: Messaging
+### Messaging
 
 | Feature     | average rating | # of ratings |
 |-------------|---------------|--------------|
-| Messaging   | 2.4           | 8            |
+| Messaging   | 2.9           | 7            |
 
 Messaging is a pain point for many users, with several reporting the inability to contact their PCP or send secure messages. Requests were made for address book features and more direct messaging.
 
 **Representative responses:**
-1. “Messaging your team / provider is not as simple as it should be.”
-2. “We used to be able to send secure messages to our PCP. That option is not available anymore!”
-3. “Why can't I message my DR. OR anyone?”
-4. “There is no address book.”
-5. “System is improving, only thing missing is the old message delete.”
+>“Messaging your team / provider is not as simple as it should be.”
+<br>
+
+>“We used to be able to send secure messages to our PCP. That option is not available anymore!”
+<br>
+
+>“Why can't I message my DR. OR anyone?”
+<br>
+
+>“There is no ability to forward a message or CC another receiver of a message. This is a basic communication need.
+There is no address book. There is no way to search messages for specific text want to a specific person and or department. ”
+<br>
+
+>“System is improving, only thing missing is the old message delete.”
+<br>
 
 **Common Themes:**
-- Missing secure messaging to PCP
+- Missing PCP
 - No address book
 - Hard to find message feature
 
 **Pain Points:**
 - Unable to contact PCP directly
 - Messaging not intuitive
+- Messaging area difficult to find
+- Inability to delete old messages
 
 **Feature Enhancements:**
 - Add address book
-- Restore secure messaging to providers
+- Add ability to delete old messages
+- Add ability to forward messages
+- Add ability to search messages for specific content
 
 **Recommendations:**
-- Make messaging more prominent and easier to use
-- Add ability to search and forward messages
+- Make messaging more prominent and easier to use, consider locating a link to messaging from the homescreen.
+- Add ability to search for needed receipients.
+- Add ability to forward or delete messages as needed.
+- Add ability to search text in messages.
 
 ---
 
 ## Other findings
+
+### Navigation
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Navigation      | 4.4           | 5            |
+
+Summmary
+
+**Representative responses:**
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+>
+<br>
+
+**Common Themes:**
+- 
+
+**Pain Points:**
+- 
+
+**Feature Enhancements:**
+- 
+
+**Recommendations:**
+- 
 
 Additional notable categories include usability improvements, requests for more comprehensive appointment information (such as provider name and visit reason), and frequent praise for staff support. Speed and efficiency were noted as positive attributes, with some suggestions for enhancing travel pay and claim features.
