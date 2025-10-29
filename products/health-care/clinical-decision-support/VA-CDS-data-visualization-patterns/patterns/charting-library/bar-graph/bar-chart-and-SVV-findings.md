@@ -6,7 +6,6 @@
 
 **Contacts:** Ben Nguyen
 
-Jump to…
 
 
 ## Background
