@@ -25,7 +25,7 @@ Issue tracking:
 ## Contacts
 
 ### Team Members
-- DSVA Product Lead: (name, email)
+- DSVA Product Lead: Skipper Soloman, Laura Stephens
 - Product Manager: Catherine Hughes – catherine.hughes2@va.gov
 - Tech Lead: Kenneth Santiago – kenneth.santiago@va.gov
 - Design / Research: Carly Yamrus - carly.yamrus@va.gov
