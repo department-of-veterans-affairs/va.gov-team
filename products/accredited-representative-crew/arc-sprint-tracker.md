@@ -4,18 +4,24 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 # Sprint 3 (Nov 4 - Nov 17, 2025)
 
-## Sprint 3 Goals [WIP]
+## Sprint 3 Goals
 - [ ] Sprint Goals Approved by Enablement
 
 **Team Accreditation**: 
-1. **[Rep Data] Stability and Maintenance**: Refactor address validation for reps
-2. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to non-Chapater 6 development
+1. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to implementing the multi-file component and addressing known bugs
+2. **[Rep Data] Accreditation API Integration**: Implement fail-safes for the Accreditation API integration
 
 **Team Benefits**:
-1. **[Auth] ID.me in ARP**: Internal QA, Staging Review, Contact Center Review, Datadog reporting
-5. **Intent to File**: Outline remaining development and begin implementation accordingly
-6. **Claimant Details**: Outline remaining UX work and begin research/design accordingly
-7. **[ARP Post-MVP] Cleanup Tasks**: Feature flag cleanup, update URLs, update access token
+1. **[Auth] ID.me in ARP**: Staging Review, Contact Center Review, Schedule Go / No Go for Sprint 4
+5. **[ITF] MVP - Design**: Complete any remaining design work, related to Sprint 2 discussions
+6. **[ITF] MVP - Development**: Begin remaining development, based on Sprint 2 designs and discussions
+7. **[Claimant Details] MVP - Design**: Address open design work, emerging from Sprint 2 UX review
+8. **[ARP Post-MVP] Cleanup Tasks**: Update access token, update URLs, jupdate POA endpoints to send POA data to CorpDB, reintroduce form validation, redact form submissions older than 60 days, add sitewide alerts, investigate a file upload error, feature flag cleanup, investigate test user issues
+9. **[Rep Onboarding] NACVSO**: Check in with NACVSO leadership
+10. **[Rep Onboarding] Veterans of Foreign Wars**: Coordinate bulk contact info update
+
+**General**: 
+1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Implement Review Instances
 
 
 
