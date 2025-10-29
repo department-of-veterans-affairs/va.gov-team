@@ -35,7 +35,7 @@
 - TBD
 
 ### Engineering & Security Checklist
-- TBD
+- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/CVE%20-%20TSA%20Safe%20Travel%20Letter%20-%2010102025.md (NEEDS TO BE UPDATED BEFORE STAGING REVIEW)
   
 ### Endpoint Monitoring Playbook
 - TBD
