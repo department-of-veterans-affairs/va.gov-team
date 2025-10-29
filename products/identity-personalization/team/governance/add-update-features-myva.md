@@ -94,11 +94,14 @@ The following usability best practices should be kept in mind when adding or upd
 
 The following usability best practices should be kept in mind when adding or updating content on My VA.
 
+### Alerts
+- Standard alert compoment - Standard alert compoments should only be used on the My VA page to inform the user of page level information such as a system error or contact verification. My VA is limited to 1 stadard alert at a time which is placed at the top of the page. 
+- Slim alert compoment - All sub section alerts are to be slim alerts and should be placed appropriately throughout My VA. All slim alerts should follow the same content pattern as follows: "We can't show your [section title] right now. Refresh this page or try again later."
+
+    For example, if the API that shows the disability rating is down then a yellow slim alert will populate under the Disability rating H3 header. The copy of the alert will state, "We can't show your disability rating right now. Refresh this page or try again later."
+
+### Headers
 - Headers and links should avoid the use of 'your' or 'VA' unless absolutely necessary, as the content becomes redundant on the page.
 - Keep headers short to help with maginification device usability.
 
-Alerts
-- Standard alert compoment - Standartd alert compoments should only be used on the My VA page to inform the user of high level information such as a system error or contact verification. My VA is limited to 1 stadard alert at a time which is placed at the top of the page. 
-- Slim alert compoment - All sub alerts are to be slim alerts and should be placed appropriately throughout My VA. All slim alerts should follow the same content pattern as follows: "We can't show your [section title] right now. Refresh this page or try again later."
 
-    For example, if the API that shows the disability rating is down then a yellow slim alert will populate under the Disability rating H3 header. The copy of the alert will state, "We can't show your disability rating right now. Refresh this page or try again later."
