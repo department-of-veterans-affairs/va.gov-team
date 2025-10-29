@@ -61,13 +61,12 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Notes**:
 1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
 
-**Sprint 4 Demo ([recording link]())
+**Sprint 4 Demo ([recording link]())**
 1. Intent to File MVP Designs
 2. Multi-file component for Claims Submissions
 3. Content cleanup?
-4. ARP Support Inbox Insights
-5. Representative research panel documentation?
-6. CRM for VSO onboarding and management?
+4. ARP Support Inbox Insights?
+6. CRM for VSO onboarding and management
 7. Review October metrics, including VA Notify monitoring
  
 
