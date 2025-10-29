@@ -299,5 +299,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **[Enter full name]**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Amanda Klausmeier on 10-28-2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
