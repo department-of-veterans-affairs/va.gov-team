@@ -1,4 +1,4 @@
-## Intent to File (ITF) or Form 21-0966
+### Intent to File (ITF) or Form 21-0966
 * [VA.gov form location](https://www.va.gov/find-forms/about-form-21-0966/)
 * [Form Questions](https://github.com/department-of-veterans-affairs/accredited-representative-crew/wiki/ARC-VA-Forms#itf-form)
 * [ITF Figma](https://www.figma.com/design/bquNwm5cr9zHA6CARDuTXm/ARP-ITF-Form-21-0966?m=auto&t=hew9ncAQVGxWbiuz-6)
