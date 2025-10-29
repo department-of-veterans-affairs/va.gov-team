@@ -146,12 +146,6 @@ approvals:
 
 # Background
 
-# 🚧 🚧 🚧 work in progress 🚧 🚧 🚧 
-
-# Research Plan for Financial Management Team, Copay Debt Portal Payment History, October \- November 2025 
-
-# Background
-
 Veterans who visit the debt portal to understand and resolve their debts have been frustrated by the inability to view up-to-date [payment history.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/payment-history/initiative-brief.md) Veterans expect that after making a payment, the system will update their new payment history and balance quickly. This is not the case, owing to the site’s current functionality, which populates copay payment history data from static monthly statements. As a result, payment history updates only monthly, which at best confuses and frustrates Veterans, often increasing call volumes to support centers, and at worst misleads them to make duplicate payments. The latter action decreases trust in the VA and prompts a lengthy VHA investigation to identify and remediate the issue. Additionally, Veterans expect to see details about their medical copay balances in the context of their payment history, which suffers from the same problem.
 
 The team plans to integrate a new Lighthouse API to provide real-time payment history.   
