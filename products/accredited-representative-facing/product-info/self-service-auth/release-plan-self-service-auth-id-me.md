@@ -7,7 +7,6 @@ Feature Toggle/flag:
 
 ### Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed
-- [ ] All critical items from QA have been addressed
 - [ ] Contact Center Review has been submitted
 - [ ] The following ID.me user scenarios have been tested
    - [ ] Authenticated with ID.me, but not authorized
