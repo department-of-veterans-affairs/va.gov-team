@@ -45,11 +45,11 @@ The Data Visualization team conducted semi-structured interviews using interacti
 
 Clinicians will find the SVV useful in gathering quick information to plan out their work week.
 
-**MAYBE TRUE: **The usefulness of the SVVs depended on the level of clinician, for example, if they were in a supervisory role or not.
+**MAYBE TRUE:** The usefulness of the SVVs depended on the level of clinician, for example, if they were in a supervisory role or not.
 
 Clinicians will be able to easily interpret the information that is being presented on the Bar Charts.
 
-**MOSTLY TRUE: **Clinicians were able to quickly identify information on the Bar Charts, however further improvements need to be made in order to eliminate confusion and decrease clinician processing time.
+**MOSTLY TRUE:** Clinicians were able to quickly identify information on the Bar Charts, however further improvements need to be made in order to eliminate confusion and decrease clinician processing time.
 
 
 ## Key Findings
