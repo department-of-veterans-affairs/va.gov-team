@@ -62,7 +62,7 @@ Either option will give the buttons more presence on the page and the accordions
 - Decision date: 2025-10-29
 
 ### Context
-When replacing the current Accordion buttons it was discovered that they would overflow off the screen at a browser width of 288px. There are a few options to fix this issue. 
+When replacing the current Accordion buttons it was discovered that they would overflow off the screen at a browser width of 288px due to the width of the buttons. There are a few options to fix this issue. 
 1. Stack the buttons on small screen sizes
 2. Reduce the width of the accordion buttons
 
