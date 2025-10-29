@@ -1,6 +1,22 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+### **10/29/2025**
+**Notes**
+- Attendees: Andrea M, Melissa C, Cindy C, Dawn H, Eileen C, Jessica S, Melissa J, Alyssa L, Mike M, Christine M, Angela P, Renata K, Premal S, Joie T. 
+- Renata reads the team’s understanding of the 3 types of DTA. Melissa confirms that the three.
+- Any additional forms for bene to fill before DTA start? Melisa states that no additional form or authorization.
+- Any information the bene can provider to help with the DTA process? Name of provider, date of service, provider contact, because the DTA team can use that information to reach out.
+- Shoebox claim; is missing other health insurance a common reason needing help the bene? Melissa notes that it is more common as a kickback. 
+- How does DTA reach out to bene? Phone, then mail. They’ll use VA.box.com to start getting documents from the provider without going through snail mail. Angela notes that they’re not using BOX just yet. 
+- Cindy notes that if they create a doctype, it goes into appeals. 
+- How many attempts does the DTA make to reach out to the provider? Melissa states that by law, they’re required to reach out 2 times. Staff cannot force the provider for information.
+- Premal asks the business to clarify the DTA process, especially in regards to CHAMPVA Claims. Melissa notes that when the business does not have enough information to process, the EOB letter states what's missing. 
+- Joie notes that the bene does not need a written request for DTA, like Appeals, a phone call is sufficient. 
+- Melissa notes that the DTA is program-specific, and staff would direct bene if they’re asking for help with something else. 
+- Premal discusses the possibility of a DTA during the initial Claim, if the bene does not have that information. Andrea asks if the Need Help footer functionally be the DTA in this instance. Angela confirms that the staff would direct the bene to the VSO, but there is no standardized process.
+- Do we need to collect the Bene’s mailing address in the CHAMPVA Claims? Joie confirmed it is required since that is where the VA sends the check, and there is a checkbox indicating it is a new address. 
+
 ### **10/15/2025**
 
 **Agenda**
