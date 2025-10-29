@@ -1,7 +1,7 @@
 # TSA Safe Travel Letter Staging Review Artifacts  
 
 ### Staging URL
-- staging.va.gov/letters
+- https://staging.va.gov/records/download-va-letters/letters
 
 ### Test Users & scenarios
 [Link to passwords for test user +54 and ??](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
