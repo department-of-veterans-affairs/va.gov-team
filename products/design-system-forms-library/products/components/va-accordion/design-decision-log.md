@@ -53,3 +53,25 @@ Either option will give the buttons more presence on the page and the accordions
 ### Open Questions
 
 ---
+
+## ADR: 002 - Button width
+
+### Status: APPROVED
+- Date issue raised: 2025-10-22
+- Decision date: 2025-10-29
+
+### Context
+When replacing the current Accordion buttons it was discovered that they would overflow off the screen at a browser width of 288px. There are a few options to fix this issue. 
+1. Stack the buttons on small screen sizes
+2. Reduce the width of the accordion buttons
+
+### Decision
+* **Reduce the width of the Icon Button component** We will reduce the button padding on the left and right from 20px to 8px. Normally, all of our buttons have 20px padding on the left and right. For this special use case we will reduce the padding for the Icon Button to 8px so that the two buttons will be visible at a 288px screen size.  
+
+### Consequences
+Reducing the width of the buttons creates more opportunities for users to accidently press the wrong button. Even though the buttons will still be above the minimum 40x40px touch target WCAG requirements. Having a larger button button target area is ideal. It would be good to monitor the analytics for the Accordion button toggles to see if there is a change in interaction. 
+
+### Open Questions
+No open questions
+
+---
