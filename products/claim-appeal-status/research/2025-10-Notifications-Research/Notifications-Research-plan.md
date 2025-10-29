@@ -9,6 +9,7 @@
 - [Product Brief](#product-brief)
   - [OCTO-DE Priorities Supported](#octo-de-priorities-supported)
 - [Veteran Journey](#veteran-journey)
+- [Research Scope](#research-scope)
 - [Research Goals](#research-goals)
   - [Goals](#goals)
   - [Outcome](#outcome)
@@ -81,7 +82,10 @@ This research supports Veterans during:
 - **Putting Down Roots** – maintaining access to benefits and records for financial stability  
 
 ---
+## Research Scope
+This study will explore and evaluate how Veterans interpret and act on decision letter and evidence request notifications across channels focusing on clarity, tone, and preferred sequencing. We will not test message delivery mechanics and interface usability at this time.
 
+---
 ## Research Goals
 
 ### Goals
