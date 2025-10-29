@@ -642,3 +642,4 @@ sequenceDiagram
 1. Is it true that we need to consider both EPS and VAOS as equal sources of truth? That is the current assumption and the reasoning behind allowing cancellation only if the appointment is present and in an active state in both EPS and VAOS.
 2. What error message should be displayed if the cancellation is unsuccessful?
 3. If the appointment cancellation request is successful in one source but not the other, do we indicate this in the error message?
+4. Do we need to look up a "cancelReasonId" from eps for every appointment we cancel or can we just submit the cancellation request with `"cancelReasonId": "pat"`, which seems to identify self-cancellation? 
