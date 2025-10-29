@@ -1,5 +1,5 @@
 
-	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, September 2025
+	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, November 2025
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -125,13 +125,13 @@ For the concept testing portion, Veterans will interact with two prototypes:
 - [ ] **In-person**
       
 
-## 🚧 🚧 🚧 Research materials 📔
+## Research materials 📔
 
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/conversation-guide.md)
-- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4006%3A561&hotspot-hints=0)
-- [Link to prototype: design explorations](url goes here)
+- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=min-zoom&content-scaling=responsive&starting-point-node-id=4006%3A561)
+- [Link to prototype: design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A430&node-id=4705-140663&p=f&viewport=-4160%2C-130%2C0.43&t=eljtTOe5JSXsQqyB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4705%3A140663&show-proto-sidebar=1&hotspot-hints=0)
 
 
 	
@@ -213,6 +213,8 @@ We would like our participants to download the Figma app prior to the sessions. 
 - `Received VA medical copay bills in the last year`
 - `Complete session on their smartphone via the Zoom app`
 - `Download the Figma app ahead of time, though not creating an account`
+	- [Figma on Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US)
+	- [Figma on Apple App Store](https://apps.apple.com/us/app/figma/id1152747299)
 - `No assistive technology users or accessibility features turned on`
     - _This is due to prototype limitations; we will be testing with assistive technology at a later date_
 
@@ -228,22 +230,20 @@ We would like our participants to download the Figma app prior to the sessions. 
 - `At least 1 woman`
 - `At least 1 from the LGTBQ+ community`
 
-## 🚧 🚧 🚧 Timeline 🗓️
+## Timeline 🗓️
 
-### Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+#### No kick-off call with Perigean needed
 
 ### Prepare
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Kim McCaskill**
+- `Date and time of pilot session:` **11/3, Monday, 2:30 PM** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **November 12-13, 17-20**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **1 hour**
+- `Session length:` **1 hour**
   
 - `Buffer time between sessions:` **30 minutes**
   
@@ -251,12 +251,13 @@ We would like our participants to download the Figma app prior to the sessions. 
 
 ### Availability
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `11/12, Wednesday, 12:00 PM - 2:30 PM EST`
+- `11/13, Thursday, 9:00 AM - 4:00 PM EST`
+- `11/17, Monday, 10:00 AM - 12:30 PM / 2:30 PM - 3:30 PM EST`
+- `11/18, Tuesday, 9:00 AM - 1:00 PM / 3:00 PM - 4:00 PM / 8:00 PM - 10:30 PM EST`
+	* Tuesday can be up to 5 sessions: 3 during the day, and 2 at night
+- `11/19, Wednesday, 9:00 AM - 2:30 PM EST`
+- `11/20, Thursday, 9:00 AM - 4:00 PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -271,13 +272,13 @@ We would like our participants to download the Figma app prior to the sessions. 
 
 
   - **Natasha Huckleberry**
-  - **Thomas Michaud**
   - **Natalie Davied Gibbons**
   - **Emily Goodrich**
   - **Parker Baranowski**
   - **Michelle Middaugh**
   - **Denise Coveyduc**
   - **Marcela Rojas**
+  - **Megan Gayle**
   - **Risha Lee**
   - **Joseph Lee**
   - **Leo Sporgitas**
@@ -289,6 +290,6 @@ We would like our participants to download the Figma app prior to the sessions. 
   - **Michael Harmer**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Michelle Middaugh, OCTO Product Owner on 10-29-2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
  
