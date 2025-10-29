@@ -10,8 +10,8 @@
 ### List of known issues and bugs
 - TBD
 
-### Content & IA ticket
-- TBD, Megan to complete
+### Content & IA Epic
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/118713
   
 ### Accessibility Test Artifact
 - TBD
