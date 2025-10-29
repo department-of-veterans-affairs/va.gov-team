@@ -141,7 +141,7 @@ We’re now going to move into looking at prototypes. First, I’d like you to s
 
 
 
-* *[send link to prototype](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=min-zoom&content-scaling=responsive&starting-point-node-id=4006%3A561)*
+* *[send link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=min-zoom&content-scaling=responsive&starting-point-node-id=4006%3A561)*
 
 In this example, we’re going to pretend that you have overpayment debt from some disability and education benefits, along with medical copayments from regular doctor visits and prescriptions.
 
