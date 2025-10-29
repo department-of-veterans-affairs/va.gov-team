@@ -41,4 +41,11 @@
 - TBD
 
 ### Logging Silent Failures
-- Silent Failures are not applicable to this work. 
+- Silent Failures are not applicable to this work.
+
+### Product Outline
+
+### User Flows
+- Current state - N/A because this hasn't existed before
+- [Updated state](https://www.figma.com/design/fp7Q9hc1uTh71o7yn60O5g/TSA-Precheck?node-id=92-1733&t=Dsgz14n7nd8du28p-0)
+- [Link to Figma design references](https://www.figma.com/design/fp7Q9hc1uTh71o7yn60O5g/TSA-Precheck?node-id=23-4433&t=Dsgz14n7nd8du28p-0)
