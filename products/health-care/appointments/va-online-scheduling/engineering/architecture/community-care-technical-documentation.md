@@ -554,6 +554,14 @@ The utmost concern is representing appointment data accurately to the veteran, t
 
 ### Flow diagram
 
+Based on the WellHive Care Navigation API documentation, the cancellation process requires:
+
+1. Fetching valid cancellation reasons for the appointment
+2. Submitting the cancellation request with a selected reason
+3. Optionally, polling until the appointment state changes to cancelled
+
+References: [WellHive API](https://wellhive.github.io/api-docs/) · [GitHub docs – “6. Cancel an Appointment”](https://github.com/wellhive/api-docs#6--cancel-an-appointment)
+
 ```mermaid
 sequenceDiagram
     participant Client as Frontend Client
@@ -568,18 +576,40 @@ sequenceDiagram
     Client->>Client: Check appointment.type or appointment.provider?.id
 
     alt EPS Appointment (type === 'epsAppointment' or has provider.id)
-        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled"}
+        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled", cancellation_reason_id?: string}
 
-        EpsController->>EpsService: cancel_appointment(appointment_id)
-        EpsService->>EPS: PATCH /appointments/:id/cancel
-        EPS-->>EpsService: 200 OK {status: "cancelled"}
-        EpsService-->>EpsController: Success
+        Note over EpsController: Step 1: Fetch valid cancellation reasons
+        EpsController->>EpsService: get_cancel_reasons(appointment_id)
+        EpsService->>EPS: GET /appointments/:id/cancel-reasons
+        EPS-->>EpsService: 200 OK {cancelReasons: [...]}
+        EpsService-->>EpsController: Cancel reasons
 
-        Note over EpsController: Check if corresponding VAOS appointment exists
+        Note over EpsController: Step 2: Submit cancellation with reason
+        alt Client provided cancellation_reason_id
+            Note over EpsController: Validate against returned reasons
+        else No reason provided
+            Note over EpsController: Use first/default allowed reason
+        end
+
+        EpsController->>EpsService: cancel_appointment(appointment_id, cancel_reason_id)
+        EpsService->>EPS: POST /appointments/:id/cancel {cancelReasonId: "..."}
+        EPS-->>EpsService: 202 Accepted (may be async)
+        EpsService-->>EpsController: Cancellation request accepted
+
+        opt Optional confirmation: Poll for completion
+            Note over EpsController: Enable if stronger confirmation is required
+            loop until Appointment.state == "cancelled" or error
+                EpsController->>EpsService: get_appointment(appointment_id)
+                EpsService->>EPS: GET /appointments/:id
+                EPS-->>EpsService: 200 OK {appointment state}
+                EpsService-->>EpsController: Appointment status
+            end
+        end
+
+        Note over EpsController: Optional: Keep VAOS consistent when mirrored
         EpsController->>ApptService: check_vaos_appointment_exists(appointment_id)
         ApptService->>VAOS: GET /appointments/:id
         VAOS-->>ApptService: 200 OK or 404 Not Found
-
         alt VAOS appointment exists
             ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
             VAOS-->>ApptService: 200 OK
@@ -589,7 +619,7 @@ sequenceDiagram
         end
 
         EpsController->>EpsController: assemble_appt_response_object()
-        EpsController-->>Client: 200 OK {data: {appointment}}
+        EpsController-->>Client: 200 OK or 202 Accepted {data: {status: "cancelled" or "cancel-pending"}}
 
     else VAOS Appointment (standard appointment)
         Client->>ApptController: PUT /appointments/:id {status: "cancelled"}
@@ -604,7 +634,7 @@ sequenceDiagram
         ApptController-->>Client: 200 OK {data: {appointment}}
     end
 
-    Note over Client, EPS: Both systems now reflect cancelled status
+    Note over Client, EPS: Both systems can reflect cancelled status
 ```
 
 
