@@ -47,23 +47,29 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 ## Sprint 2 Delivery
 - [ ] Sprint Delivery Approved by Enablement
 
-**Planned for Sprint 1**: 35 tickets, 94 points \
-**Added as a Sprint 1 stretch goal**: 22 tickets, 39 points 
+**Planned for Sprint 2**: x tickets, x points \
+**Added as a Sprint 2 stretch goal**: x tickets, x points 
 
-**Completed in Sprint 1**: 42 tickets, 93 points \
-**Team Velocity**: 93 points / 10 days = 9.3 points / day
+**Completed in Sprint 2**: x tickets, x points \
+**Crew Velocity**: x points / x days = x points / day
 
-**Team Count in Sprint 1**: 12 teammates \
-**Average Teammate Velocity**: 93 points / 12 teammates = 7.75 points / teammate
+**Crew Count in Sprint 2**: 14 teammates \
+**Average Teammate Velocity**: x points / x teammates = x points / teammate
 
-**Carrying into Sprint 2**: 11 tickets, 26 points 
+**Carrying into Sprint 3**: x tickets, x points 
 
 **Notes**:
-1. 10 tickets (10 relative points) of Team Benefits' stretch goal work was previously left In-Progress in the past ARF contract, and in Sprint 1 the ARC team merged the related PRs into Staging to maintain iterative code quality and progression.
+1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
 
-**Sprint 1 Demo ([recording link]())
-1. 
-2. Review metrics
+**Sprint 4 Demo ([recording link]())
+1. Intent to File MVP Designs
+2. Multi-file component for Claims Submissions
+3. Content cleanup?
+4. ARP Support Inbox Insights
+5. Representative research panel documentation?
+6. CRM for VSO onboarding and management?
+7. Review October metrics, including VA Notify monitoring
+ 
 
 ## Sprint 2 Tickets
 
