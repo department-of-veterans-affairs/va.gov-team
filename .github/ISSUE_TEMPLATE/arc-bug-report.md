@@ -4,7 +4,7 @@ about: Reporting bugs as they relate to the ARC team
 title: ''
 labels: ar-crew, bug
 assignees: ''
-
+type: Bug
 ---
 
 ## Expected vs. Actual
