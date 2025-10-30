@@ -4,7 +4,9 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 ### Running Agenda
 
 10/30/2025
+* Flagged Facilities - we will talk specifics about process on Monday but want to check in on if there are any outstanding items
 * Benfits detail pages - I saw there was work planned for PW, as a reminder these are in the middle of migrating and will be completed within the next 2 sprints
+* Rescheduling this meeting
 
 10/16/2025
 * Flagged Facilities sync (continuous agenda item)
