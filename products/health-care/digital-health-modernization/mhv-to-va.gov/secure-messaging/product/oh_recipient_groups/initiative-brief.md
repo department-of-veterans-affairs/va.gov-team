@@ -1,4 +1,4 @@
-# VA.gov message Oracle Health recipient groups (Update Start New Message Flow)
+# Product Outline: VA.gov message Oracle Health recipient groups (Update Start New Message Flow)
 #### Overview
 
 VA.gov will become the exclusive web interface for patients at EHRM transitioned ("Oracle Health") facilities. To accomplish this goal, the VA.gov messages tool will need to accomodate a new type of recipient group. This initiative will make conforming changes to the existing VA.gov messaging tool for those new EHRM/Oracle Health recipient groups.
@@ -32,7 +32,7 @@ If we change the user flow for sending a new message then we expect it will be a
 ### What we are building
 Patients that are treated at an EHRM-OH transitioned facility will be asked to select a facility before proceeding to the compose screen. If the facility selected is an EHRM-OH transitioned facility, the messages tool will use this facility selection to narrow down the list of potential EHRM/Oracle Health recipients from system-wide to just those associated with the selected facility.
 
-## Product Outline (Background)
+### Background
 
 ## MVP: Update Start a New Message Flow
 

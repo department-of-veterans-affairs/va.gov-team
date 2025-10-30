@@ -12,7 +12,7 @@ The Data Grid 2.0 pattern will have more interaction capabilities. The consumer 
 
 | Affordance  | Requirement | User Story  | Priority Level  | Status  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|   | Meets accessibility scores by WCAG 2.2 (Section 508)  | When consuming the Data Grid pattern, I want to enable accessibility affordances so that all user types are able to interact with my product.  | P1  | In Progress  |
+|   | Meets accessibility scores by WCAG 2.2 (Section 508)  | When consuming the Data Grid pattern, I want to enable accessibility affordances so that all user types are able to interact with my product.  | P1  | Complete  |
 | Table state  | exporting state  | As a Data Grid user, I need to access the current state of the table and return its value so that I can use it.  | P1  | Complete  |
 | Table state  | importing state  | As a Data Grid consumer, i need to restore the grid to a previous state so that I can return to the desired grid state.  | P1  | Complete  |
 | Filter  | Programmatically accessing client side filter  | As a data grid developer, I need to be able to use filters function from the toolbar so that I can interact with the table  | P1  | Complete  |
@@ -22,20 +22,20 @@ The Data Grid 2.0 pattern will have more interaction capabilities. The consumer 
 | Row interactions  | return column info with row  | As a data grid developer, I need the onCustomRowModelChange prop to return information about the column as well as about the row  | P1  | Complete  |
 | Row interactions  | programmatically apply selected to a row  | As a data grid developer, pass a rowID and apply a select indicator on the select row  | P2  | Out of scope  |
 | Row interactions  | Programmatically return a row record  | As a data grid developer, I need to able to programmatically select a row so I can interact with it directly  | P2  | Out of scope  |
-| Header row  | sticky header  | As a data grid user, I want the header row to be always sticky so that I can reference it as I scroll vertically  | P1  | Not started  |
+| Header row  | sticky header  | As a data grid user, I want the header row to be always sticky so that I can reference it as I scroll vertically  | P1  | Complete  |
 | Managing columns  | making columns sticky  | When a column is pinned, I want that column to stay on the page so that I continue to reference it as I am horizontally scrolling  | P1  | Complete  |
 | Managing columns  | Client side moving column (drag & drop)  | As a user of the data grid, I need to able able to drag and drop columns so I can reorganize columns in a different order  | P3  | Out of scope  |
 | Managing columns  | column reordering  | As a data grid user, I want to reorder the columns so that I can adjust the context of my information  | P2  | Out of scope  |
-| Managing columns  | sticky column  | As a data grid user, I want to know to keep the most important information to stay in context so that I understand the type of information I am reviewing in the table  | P1  | Not started  |
+| Managing columns  | sticky column  | As a data grid user, I want to know to keep the most important information to stay in context so that I understand the type of information I am reviewing in the table  | P1  | Complete  |
 | Column a11y  | accessible column name for pinned columns  | As a screen reader user, I need to know if a pinned column is pinned so that I can navigate in the table header  | P1  | Complete  |
 | Managing errors UI  | Show errors  | As a data grid user that makes an incorrect input or interaction, I want to receive feedback so that I know to make the necessary update  | P1  | Complete  | 
-| Colors for metadata tagging  | Color Status Tag Indicators based on Lung RADS  | As a data grid user, I want to have a reliable color system so that I that the LCS information is easily and consistently conveyed  | P1  | In progress  |
+| Colors for metadata tagging  | Color Status Tag Indicators based on Lung RADS  | As a data grid user, I want to have a reliable color system so that I that the LCS information is easily and consistently conveyed  | P1  | Complete  |
 | Colors for metadata tagging  | Color Status Tag Indicators based on Lung RADS  | (technical spike) Assess if tag component is able to be inside of the table in the data grid  | P1  | Complete  |
 | Colors for metadata tagging  | Tagging & Colors in Data Grid  | As a data grid user, I want to have a reliable color system so that the information is easily and consistently conveyed  | P2  | Out of scope  |
-| A11y for search  | indicate that the search "autocompletes" for Screen Reader  | As a user using a Screen Reader, I need an indication that Search "autocomplete" upon typing so that I know what to expect when using the search field. [part of 508 compliance]  | P1  | Not started  |
+| A11y for search  | indicate that the search "autocompletes" for Screen Reader  | As a user using a Screen Reader, I need an indication that Search "autocomplete" upon typing so that I know what to expect when using the search field. [part of 508 compliance]  | P1  | Complete  |
 | Responsive views  | responsive data grid  | As a user interacting with the data grid, I need to have a great experience using the data grid and the filters on a tablet or mobile device  | P1  | Complete  |
-| Responsive views  | responsive toolbar  | As a product team user, I want to have a responsive view of the toolbar so that the data grid pattern will have a seamless experience across screen sizes  | P1  | In progress  |
-| Responsive views  | responsive table  | As a product team user, I want to have a responsive view of the table so that the data grid pattern will have a seamless experience across screen sizes  | P1  | In progress  |
+| Responsive views  | responsive toolbar  | As a product team user, I want to have a responsive view of the toolbar so that the data grid pattern will have a seamless experience across screen sizes  | P1  | Complete  |
+| Responsive views  | responsive table  | As a product team user, I want to have a responsive view of the table so that the data grid pattern will have a seamless experience across screen sizes  | P1  | Complete  |
 | Delete row  | Client side delete row  | As a user of the data grid, I need to be able to delete a row so that I can remove irrelevant info  | P2  | Out of scope  |
 | Selecting multiple rows  | create a hook on multiple rows click (selected row)  | As a data grid user, I need a hook that returns the row value for each selected rows so that I can reuse that data outside of the data grid  | P2  | Out of scope  |
 | Selecting multiple rows  | Programmatically accessing selected row(s)  | As a data grid developer, I want to getAllSelected  | P3  | Out of scope  |
@@ -177,10 +177,10 @@ _pending_
 <br>
 
 ## Research
-_(words words, lorem ipsum and link to mural?)_
+[Usability research findings on the data grid](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/VA-CDS-data-visualization-patterns/patterns/data-grid/research)
 <br>
 
-## Design
-- https://www.figma.com/design/PoOrLUAvo6SbIJbIJNAlM5/Datagrid?node-id=6246-3
-- https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-grid--docs
+## Artifacts
+- [UI Kit]([https://www.figma.com/design/PoOrLUAvo6SbIJbIJNAlM5/Datagrid?node-id=6246-3](https://www.figma.com/design/f2zr6Zvf9ssGgfBnBan1sY/Clinical-Design-System---V-5.3.1?node-id=5795-94&p=f&t=rk7QsDkOVhMpoN6I-0))
+- [Data Grid in Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-datagrid--docs)
 <br>

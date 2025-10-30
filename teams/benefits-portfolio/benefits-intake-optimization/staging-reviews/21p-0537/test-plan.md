@@ -1,9 +1,8 @@
 # Test Plan
 ## VA Form 21P-0537 - Marital Status Questionnaire for DIC Recipients
 
-**Date:** [DATE]
+**Date:**  10/03/2025
 **Team:** Benefits Intake Optimization (BIOHEART)
-**Tested By:** [YOUR NAME]
 
 ---
 
@@ -47,9 +46,7 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** Form submits successfully with all remarriage details
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
+
 **Staging User:** vets.gov.user+229@gmail.com
 
 ---
@@ -68,9 +65,7 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** Form submits with termination details
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
+
 **Staging User:** vets.gov.user+230@gmail.com
 
 ---
@@ -83,9 +78,7 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** Submit payload includes both IDs
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
+
 **Staging User:** vets.gov.user+231@gmail.com
 
 ---
@@ -102,9 +95,6 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** All saved data loads correctly
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
 **Staging User:** vets.gov.user+232@gmail.com
 
 ---
@@ -117,9 +107,7 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** Form submits successfully
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
+
 
 ---
 
@@ -131,9 +119,6 @@ Manual testing of all user flows and scenarios. Automated E2E tests exist in `te
 
 **Expected Result:** Validation prevents submission
 
-**Status:** ✅ PASS
-**Tested on:** [DATE]
-**Tested by:** [NAME]
 
 ---
 
@@ -159,4 +144,4 @@ None. All test scenarios passed.
 
 **URL:** https://staging.va.gov/supporting-forms-for-claims/marital-status-questionnaire-21p-0537
 
-**Date Range Tested:** [START DATE] - [END DATE]
+

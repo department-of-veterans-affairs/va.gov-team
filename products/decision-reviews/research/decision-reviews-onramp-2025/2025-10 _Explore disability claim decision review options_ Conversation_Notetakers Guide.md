@@ -5,9 +5,9 @@
 Team: Decision Reviews  
 Written by: [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com) & [Lauren Dawson](mailto:lauren.dawson@agile6.com)
 
-Last modified: Oct 1, 2025
+Last modified: Oct 8, 2025
 
-Uploaded to Github:  Oct 1, 2025
+Uploaded to Github:  Oct 8, 2025
 
 **KEY**
 
@@ -17,7 +17,7 @@ Uploaded to Github:  Oct 1, 2025
 
 Thank you so much for joining us today\! My name is **\[NAME\]** and I work at VA.gov to help improve access to benefits and services for Veterans like you. 
 
-**\[NOTETAKER NAME\]** will be taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+**\[NOTETAKER NAME\]** will be taking notes. I also have another colleague in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
 Today we're going to talk about choosing a decision review pathway. We’re working on an online guide to assist Veterans with exploring the review options available after a disability claim decision has been made. I’ll walk you through the guide and ask for your honest feedback so we can improve it.
 
@@ -105,7 +105,7 @@ Note:
 Note:
 
 
-7. Is there currently a decision review option that you are considering filing?
+7. Is there currently a decision review option that you are considering filing?  *(IF ANSWER NO, THEN SKIP \#47)*
 
 Note:
 
@@ -124,29 +124,31 @@ Note:
 
 ## **Section 2: Work through their own situation \- 20-25 minutes**
 
-### Set the Task
-
-“For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way. If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.”
-
-**Caveat**: We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
-
 ### Task 1: Launch the guide
 
 **Navigate to the Intro screen.** “Let's get started. First, I am going to drop a link in the Zoom chat. When you receive the link, please open the web page.”
 
 **Link**:   [https://staging.va.gov/decision-reviews/explore-disability-claim-decision-review-options](https://staging.va.gov/decision-reviews/explore-disability-claim-decision-review-options) 
 
-“Next, I’d like you to **share your screen** for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot.”
+“Next, I’d like you to **share your window** for the remainder of the session. If you need help figuring out how to share your window I am happy to troubleshoot.”
 
 \[Troubleshooting guide for mobile: [https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
 
-General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) \]
+### General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr) \]
 
-#### 
+### 
+
+### Set the Task
+
+“Please do not select any links or leave the page yet.   
+
+For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way. If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.”
+
+**Caveat**: We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
 
 #### Introduction Screen
 
-“**Take some time to read through this screen.** When you’re ready, please talk to me about what you might expect to do before selecting any links. Please do not select any links or leave the page yet – but tell me verbally if there is an action you would like to take.”
+“**Take some time to read through this screen.** When you’re ready, please talk to me about what you might expect to do before selecting any links. ”
 
 #### Intro screen questions
 
@@ -276,7 +278,7 @@ Note:
 26. On a scale of 1-4, how **confident are you in selecting that choice from the Summary Screen**?  
     - [ ] 1 \= Not at all confident  
           - [ ] 2 \= Slightly confident  
-          - [ ] 3 \= Very confident  
+          - [ ] 3 \= Confident  
           - [ ] 4 \= Extremely confident
 
     Note: 
@@ -305,7 +307,7 @@ Note:
 Note:
 
 
-30. On this summary screen, would you describe how you’d explain to a friend **why these option(s) do or don’t fit**.
+30. On this summary screen, if you were explaining to a friend **why these options would or wouldn't fit**, how would you explain your options to them?
 
 Note:
 
@@ -394,8 +396,7 @@ Note:
     - [ ] 1 \= Not at all confident  
     - [ ] 2 \= Slightly confident  
     - [ ] 3 \= Confident  
-    - [ ] 4 \= Very confident  
-    - [ ] 5 \= Extremely confident
+    - [ ] 4 \= Very confident
 
 Note:  
 
@@ -438,7 +439,7 @@ Note:
 
 Note:  
 
-45. On a scale of 1-4, how mentally taxing was it to complete this guide?  
+45. On a scale of 1-4, **how mentally taxing** was it to complete this guide?  
     - [ ] 1 \= Not taxing at all  
     - [ ] 2 \= Slightly taxing  
     - [ ] 3 \= Moderately taxing  
@@ -454,7 +455,7 @@ Note:
 Note:
 
 
-47. At the beginning of the study, we asked if there was a decision review pathway you were considering pursuing. **Have your results of the guide impacted the option** you were considering?
+47. *ASK ONLY IF THEY HAD AN ANSWER AT THE BEGINNING*: At the beginning of the study, we asked if there was a decision review pathway you were considering pursuing. **Have your results of the guide impacted the option** you were considering?
 
 Note:
 
@@ -532,7 +533,12 @@ Note:
 Note:
 
 
-62. Do the observers have any questions?
+62. Do the **observers** have any questions?
+
+Note:
+
+
+63. Do **you** have any final questions for us?
 
 Note:
 
@@ -616,13 +622,13 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ### Section 2, Task 3:  ([page 12](#bookmark=id.g07r0c8ty2dv))
 
-26\. On a scale of 1-4, how **confident are you in selecting that choice**  **from the Summary Screen**?
+26\. On a scale of 1-4, how confident are you in selecting that choice  from the Summary Screen?
 
 1: Not at all confident
 
 2: Slightly confident
 
-3: Very confident
+3: Confident
 
 4: Extremely confident
 
@@ -630,7 +636,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ### Section 2: Rating scale for summary screens:  ([page 18](#rating-scale-for-summary-screens:))
 
-40\. On a scale of 1–4, how well do you feel you **understand the Decision Review options** and which one applies to you? 
+39\. On a scale of 1–4, how well do you feel you understand the Decision Review options and which one applies to you? 
 
 1: Don’t understand at all
 
@@ -641,7 +647,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 4: Understand very well  
  
 
-41\. How **confident are you in selecting a decision review option** from the summary screen?
+40\. On a scale of 1-4, how confident are you in selecting a decision review option from the summary screen?
 
 1:  Not at all confident
 
@@ -651,7 +657,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 4: Very confident
 
-42\. Using this 1–4 scale where 1 is ‘Very judgmental’ and 4 is ‘Very supportive’, how would you rate the **wording, tone, and presentation** of the summary screen?
+41\. Using this 1–4 scale where 1 is ‘Very judgmental’ and 4 is ‘Very supportive’, how would you rate the wording, tone, and presentation of the summary screen?
 
 1: Very judgemental
 
@@ -663,7 +669,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 ### Section 3: Overall rating questions ([page 19](#section-3:-post-session-interview---10-minutes)) {#section-3:-overall-rating-questions-(page-19)}
 
-42\. On a scale of 1 to 4, how well do you feel you **understand the VA decision review options**, their requirements, and which one applies to your situation?
+42\. Now that you’ve used the guide, on a scale of 1 to 4, how well do you feel you understand the VA decision review options, their requirements, and which one applies to your situation?
 
 1: I don’t understand them at all 
 
@@ -673,7 +679,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 4: I understand them very well 
 
-43\. On a scale of 1 to 4, how **easy or difficult was it to complete today’s tasks**, with 1 being very difficult and 4 being very easy? 
+43\. On a scale of 1 to 4, how easy or difficult was it to complete today’s tasks, with 1 being very difficult and 4 being very easy? 
 
 1: Very difficult
 
@@ -683,7 +689,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 4: Very easy
 
-44\. On a scale of 1 to 4, **how confident are you** that the questions you answered are accurate and sufficient to support your choosing a type of decision review?
+44\. On a scale of 1 to 4, how confident are you that the questions you answered are accurate and sufficient to support your choosing a type of decision review?
 
 1: Not at all confident
 
@@ -693,19 +699,12 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 4: Very confident
 
-45\. On a scale of 1-4, how **mentally taxing** was it to complete this guide?
+45\. On a scale of 1-4, how mentally taxing was it to complete this guide?  
+1: Not taxing at all
 
-- [ ] 1 \= Not taxing at all  
-      - [ ] 2 \= Slightly taxing  
-      - [ ] 3 \= Moderately taxing  
-      - [ ] 4 \= Very taxing
+2: Slightly taxing
 
-Section 3: Overall rating questions ([Page 22](#bookmark=id.y8awkt7gqp9q))
+3: Moderately taxing
 
-60\. On a scale of 1-4, how **mentally taxing** was it to complete this guide?
+4: Very taxing
 
-- [ ] 1 \= Not taxing at all  
-      - [ ] 2 \= Slightly taxing  
-      - [ ] 3 \= Moderately taxing  
-      - [ ] 4 \= Very taxing  
-            

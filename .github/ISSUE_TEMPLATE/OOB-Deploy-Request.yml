@@ -1,0 +1,162 @@
+name: OOB Deploy Request
+description: To request Out of band deployment.
+title: "OOB Deploy Request "
+labels: ["platform-tech-team-support"]
+
+
+body:
+  - type: markdown
+    attributes:
+      value: Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below. Answers to all questions are required. 
+  - type: input
+    id: teamName
+    attributes:
+      label: Team Name
+      description: Please list the name of the team requesting this out-of-band deploy 
+    validations:
+      required: true
+  - type: input
+    id: teamPO
+    attributes:
+      label: Federal Product Owner
+      description: Who is the product owner for this team? 
+    validations:
+      required: true
+  - type: input
+    id: teamSlack
+    attributes:
+      label: Team Slack Channel
+      description: What is the slack channel the team who is requesting this OOB uses to communicate most? 
+    validations:
+      required: true
+  - type: textarea
+    id: PR-links
+    attributes:
+      label: Related PRs
+      description: Please provide the list of PRs related to the need for this OOB Deploy
+      placeholder: List of PRs
+    validations:
+      required: true
+  - type: dropdown
+    id: incidentCategory
+    attributes:
+      label: What type of issue does this fix?
+      description: "How would you categorize this incident?"
+      multiple: true
+      options:
+        - Security (PII leak or spill)
+        - Veteran-impacting bug
+        - Other (Explain in description space below)
+    validations:
+      required: true
+  - type: dropdown
+    id: incidentClassification
+    attributes:
+      label: Classify Severity of Incident
+      description: "What level of severity would you classify this incident? Please refer to our [Platform document on Classifying incidents](https://depo-platform-documentation.scrollhelp.site/support/va-platform-incident-playbook#VAPlatformIncidentPlaybook-ClassifyingtheIncident) for our classification rubric"
+      multiple: false
+      options:
+        - Critical
+        - High
+        - Moderate
+        - Low
+    validations:
+      required: true
+  - type: dropdown
+    id: mobileImpact
+    attributes:
+      label: Does this impact VA Mobile?
+      description: "Will you need to make any modifications to VA Mobile?"
+      multiple: false
+      options:
+        - 'Yes (Explain in Description)'
+        - 'No'
+    validations:
+      required: true
+  - type: input
+    id: impactedUsers
+    attributes:
+      label: Active Daily Users Impacted
+      description: How many active users are impacted at this time and day. 
+    validations:
+      required: true
+  - type: dropdown
+    id: stagingCheck
+    attributes:
+      label: Has fix been confirmed in Staging?
+      multiple: false
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: textarea
+    id: stagingBypassReason
+    attributes:
+      label: If not confirmed in Staging, why not?
+      placeholder: Give the reason here. If it has been confirmed in staging, write "Confirmed in staging". 
+    validations:
+      required: true
+  - type: textarea
+    id: oobDescription
+    attributes:
+      label: Description
+      description: Please provide the details/reason for the OOB Deploy
+      placeholder: Add details here... 
+    validations:
+      required: true
+  - type: textarea
+    id: stagingValidation
+    attributes:
+      label: What steps have you taken to verify this fix is working in staging?
+      placeholder: List validation steps here. If no steps have been taken to validate, please explain why instead.  
+    validations:
+      required: true
+  - type: input
+    id: userValidation
+    attributes:
+      label: Who has validated the fix is working for this OOB?
+      description: "name + @username OR va.gov email address"
+    validations:
+      required: true
+  - type: textarea
+    id: prodValidation
+    attributes:
+      label: What is your post-deploy verification plan (link Datadog log query or testing steps)?
+      placeholder: Add links to Datadog log query and/or testing steps here. If you cannot provide this, explain why in detail.  
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Verify the following
+      description: Please review and verify the following requirements for an out-of-band deploy. 
+      options:
+        - label: The OOB Deploy Request is after the cutoff time for the regular deploy.[^1]
+          required: true
+        - label: The OOB Deploy Request is critical and must be resolved before the next automated deploy.
+          required: true
+        - label: You are prepared to create an Incident Post Mortem[^2] within two business days.
+          required: true
+  - type: markdown
+    attributes:
+      value: '[^1] (See [Deployment Policy](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies) and [Deployment Schedules](https://depo-platform-documentation.scrollhelp.site/developer-docs/Deployments.1844641889.html))'
+  - type: markdown
+    attributes:
+      value: '[^2] https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems'
+  - type: checkboxes
+    id: supportChecks
+    attributes:
+      label: '*Performed by Platform Support Team*'
+      description: These steps are for Platform Support to complete.  
+      options:
+        - label: PagerDuty OOB Deploy Incident Opened
+          required: false
+        - label: OCTO-DE staff acknowledgment of Request
+          required: false
+        - label: Notification is posted in the appropriate Slack support and team Channels
+          required: false
+        - label: Infrastructure/Operations has acknowledge the Requests (This applies to revproxy and fwdproxy, but is not required for Frontend and Backend requests)
+          required: false
+        - label: Security Team has Reviewed the requests (This is not necessary for requests that are not related to security) 
+          required: false

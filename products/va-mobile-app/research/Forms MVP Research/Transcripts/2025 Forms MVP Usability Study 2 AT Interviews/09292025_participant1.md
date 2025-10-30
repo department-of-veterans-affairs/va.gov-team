@@ -116,7 +116,9 @@ Let’s start with a few questions...
    - If so, can you tell me about your most recent experience? How did it go? **It was pretty smooth, yes ma'am**
   
 11. Do you have the VA Health and Benefits mobile app downloaded on your device? **I have VA.gov app where I can access my health on there as well**
-   - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far? **Everything, documents, filling out documents, creating documents, email, text, I'm a songwriter so I record a lot** **Accessibility that is out there for me as a blinded veteran is so unique and so convenient.**
+   - If so, can you tell me what you use the mobile app primarily for?  **Everything, documents, filling out documents, creating documents, email, text, I'm a songwriter so I record a lot** **Accessibility that is out there for me as a blinded veteran is so unique and so convenient.**
+- How has your experience been so far?
+   **It's been very well.**
 
 
 # User Tasks
@@ -238,6 +240,8 @@ Thank you for sharing that, You may begin the task to submit a statement in supp
 
 **When I select the apple button, it just says "apple", "apple". Download the form and submit the form, print it out and get someone to fill it out. Download it and submit it that way.**
 
+**At this point the user could not get to the form to complete the remaining tasks**
+
 ### If the user gets lost...
 
 On a path that isn't fully built out and is stuck, you can offer the 'Apple' button at the top to jump them to the forms section of the app.
@@ -267,6 +271,8 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 ### Questions for testing participant: 
 
+**The user could not get to the form to complete the remaining tasks**
+
 - How was your experience navigating to the form from your [assistive tech/device]? 
 
 - How confident do you feel that you're in the right place to submit your statement?
@@ -276,6 +282,8 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
+
+**The user could not get to the form to complete the remaining tasks**
 
 **For screen magnifier participants:**
 [Confirm you're seeing what they are seeing by asking them] First, I'd like to confirm "What is on your screen now? 
@@ -307,6 +315,7 @@ You may continue on with the form.
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
 At this point, I'm going to have you pretend that you need to step away from the form for an extended period of time, you can leave the form now and go back to the homepage of the mobile app. 
 
+**The user could not get to the form to complete the remaining tasks**
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
@@ -319,6 +328,7 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 
 ### Questions for testing participant: 
+**The user could not get to the form to complete the remaining tasks**
 
 - How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
 
@@ -328,7 +338,7 @@ At this point, I'm going to have you pretend that you need to step away from the
 
 ## Task 5: Continue completing the started form and submit
 Now, pretend you are ready to come back to your previous form. 
-
+**The user could not get to the form to complete the remaining tasks**
 Please locate your previous form and continue on.
 
 
@@ -382,7 +392,7 @@ Please locate your previous form and continue on.
  
 ## Task 6: View submitted form
 Now that you have completed the form, please go back to the app.
-
+**The user could not get to the form to complete the remaining tasks**
 
 ### Questions for testing participant: 
 - Based on what you see now, how do you know the form was submitted? 

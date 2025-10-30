@@ -2,7 +2,7 @@
 > ## This information is out of date
 > **2/20/2025:** CAIA accessibility is now the ADE team. This information has moved to our new ADE folder.
 > 
-> New link: [Assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md)
+> New link: [Assistive technology pilot guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md)
 
 # Assistive Technology Pilot Guide
 - Jamie Klenetsky Fay, Accessibility Digital Experience (ADE) Team

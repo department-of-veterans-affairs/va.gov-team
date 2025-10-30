@@ -88,30 +88,31 @@ Before we start, I want to go over a few things:
 
 Let’s start with a few questions... 
 
-1. I understand you are a Veteran. Is that right? 
+1. I understand you are a Veteran. Is that right?**Correct**
     - Thanks for confirming that.
 
-2. What kind of device are you using today? *(Tablet / Smartphone)*
+2. What kind of device are you using today? *(Tablet / Smartphone)* **Smartphone, iphone**
+
     - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system is on your device? *(iOS / Android / _______)*
+3.  What operating system is on your device? *(iOS / Android / _______)* **iOS**
 
-4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
+6. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)* **Chrome**
 
-5. What type of assistive technology are you using right now?
+7. What type of assistive technology are you using right now? **The phone has been a challenge, I try to stay away from it. I usually use VoiceOver on my Mac for anything. So this will be interesting.** **I usually pinch to zoom with my fingers, I've tried to use the built-in magnifier on my phone. But, like, I swear with the new update, it's, like, it's different. Like, I don't know where it is, and it's probably a knowledge gap on my part.**
 
-6. How many years have you been using [assistive technology]?
+8. How many years have you been using [assistive technology]? ** N/A
 
-7. When or how often do you use it?
+9. When or how often do you use it? N/A
 
-8. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert?
+10. How would you rate your level of experience with using a screen reader/magnifier--beginner, intermediate, advanced, or expert? **Beginner**
 
-9. Have you ever shared your screen in Zoom while using a screen reader/magnifier?
+11. Have you ever shared your screen in Zoom while using a screen reader/magnifier? **That I can do.**
 
-10. Have you ever filled out a VA form online before? 
-   - If so, can you tell me about your most recent experience? How did it go?
+13. Have you ever filled out a VA form online before? **Not on my phone, but on a web browser.**
+   - If so, can you tell me about your most recent experience? How did it go? **Oh, it was awful. Trying to do anything on the VA website is terrible. It's just… yeah, it's… I'm gonna try not to get on the soapbox, but generally speaking, when you're comparing to, like, any other major organization. it's just a terrible, like, experience for you. Like, the layout is awful, it's not kind of seamless, like, I feel like they could literally better off with, like, a Google Form or something like that. It would be easier.**
   
-11. Do you have the VA Health and Benefits mobile app downloaded on your device?
+11. Do you have the VA Health and Benefits mobile app downloaded on your device?  **I don't. I didn't even know there was one.** 
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
 
 
@@ -195,7 +196,7 @@ If not, ask the participant to check their settings on their device by navigatin
 3. Zoom
 4. Show while mirroring toggle on
 
-
+**It looks like a, you know, app-based, similar content to when you get on, I think it's, like, My HealthyVet on the VA website, where you can kind of check, pay any appointments passed, prescriptions, it looks Just, like, an app-based version of that screen that you see on the website.**
 
 ## Task 2: Start a statement
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything.
@@ -206,8 +207,11 @@ Today I'd like you to pretend that you need to submit a statement in support of 
 
 - Before we start, what do you expect this process to be like?
   **Veteran assumed they would submit on Claims page with Evidence Request label**
+  **I mean, I would expect there to be, like, a box, kind of like here, that would be, you know, either claims or submit claim, check claim, something about claims. So, you can kind of see it right underneath past appointments.  To me, like, when you look at claims, I think it's, you know, kind of like it says, like, what is that? 5 active, like, that's kind of stuff that's ongoing. I'm gonna guess by going here that there's the option to submit anew, but, you know, it could help if there was, like, a separate, distinct option of submit new claim or something like that, but I'm gonna go here.**
 
 Thank you for sharing that, You may begin the task to submit a statement in support of a new disability claim for yourself.
+
+**So, if I was gonna submit a new claim here, I'd be kinda stuck, but I'm assuming maybe I've got to submit a statement for an existing claim, like this one? Alright, so it's kind of, you know, it is nice how it's got the process laid out, because, I don't know, maybe… I don't have any, but if you have, like, multiple claims, you know, they're probably gonna be in different phases along the way. Stoplights are always good, you know, little check marks, kind of tells you what's been done. And then, like, that's a pretty good call-out of where… where I'm at, just to kind of guide where I need to be. I guess I'm gonna go up to this file, or review file request, because, you know, I'm in that current step, but it appears that there needs to be more information. Or, well, I didn't even see this files, so I'm gonna check that out. So, if I needed to add a new file, I mean, I would… I would guess go to review file quests, because there's no kind of clear call-out of, you know, add file here, or add, you know, evidence, blah blah blah, whatever, whatever terminology you'd want.**
 
 *Allow the user to navigate to and through the form on their own without guiding them through the happy path. 
 
@@ -221,6 +225,8 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
 
  - If Y, where do they go instead?
 
+ **Veteran opened an existing dental claim. "I'd be looking for something just very clear on, like, what… What do I need? it gives me the option to select a file, I mean, that would be really hard on a phone, unless maybe you had one of those, like, scanning apps, but it is nice how, you know, you can take a photo, that's awesome. uper convenient there. You know, you can just take that photo, and I'm assuming, kind of like with, Other apps, it just, you know, it will upload that file."**
+
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
 
  - **Veteran went to Claims page and assumed File Requests was where they'd submit more information**
@@ -231,23 +237,29 @@ On a path that isn't fully built out and is stuck, you can offer the 'Apple' but
  - Did they mention any previous experience or confusion?
 - **They went through Claims**
 
-  **Expected to use File Requests to add a statement and add a new file** 
+  **Expected to use File Requests to add a statement and add a new file.  No, I'd look for something else, and I mean, if I had to type a statement, like, just me, like, I would not want to do that on my phone. Because that little keyboard is awful. But maybe, like, an iPad  could be a little better. But, you know, from here, like, I'd go back and… I would not know where to go, because I don't see, like, an option to… type anything. It's just kind of uploading documents. So I would be stuck.** 
 
  - Did the user comment on this screen?
+   **And then I would have the option, I'm assuming, right here, with start your statement. And just like the VA website, very, very similar.**
 
 - What option did the user select on the 'What would you like to do here?' screen?
 
   - Did the user share any confusion about the options provided?
-**They assumed they should go through Claims; had the most commentary here** 
+**New evidence… what is that? Disagree with VA's decision? New decision review. Provide context, submit faster processing, request my records. What I want to do is enlisted here, so… I mean, I guess, provide more context? Or do I have evidence? I think it was add a statement, so here, I mean, I'd probably go with context, because it's probably about something that I've already submitted, and maybe they needed a little more information or something.
+
+**maybe, like, an Adobe or, like, a DocuSign, where it's, like, the form, and then I can kind of plug and play with filling in that information, but it wouldn't just be, like, an open text box where I'm just, you know, hitting the keyboard, typing away with whatever I want to say that's probably not what they're looking for. So that makes that a little challenging, but it's not… It's not deal-breaker, but, like, once you get to, like, this kind of content, like, it's just hard on a phone.** 
 
 ### Questions for testing participant: 
 
 - How was your experience navigating to the form from your [assistive tech/device]? 
+**I mean, it's kind of choppy, because, like, when you zoom in, like, you know, my fat finger way, like, now… I mean, you gotta scroll across, and it's kind of harder to read that way, so… but again, there's probably a better way to zoom in that…**
 
 - How confident do you feel that you're in the right place to submit your statement?
+**You know, I feel good, like, pretty confident, 80%. I feel like this is the right…**
 
 - Before you start the form itself, what do you expect this form completion process to be like?
 **This is exactly what the from looks like on the website from a look and feel perspective** 
+**Kind of like what I was talking about, I mean, to me, what would be…better is, you know, like, it populates this VA form, and it's in the typical bland government format.And then from there, you know, I'm putting, like, last name, first name, and all that information, but it's kind of giving me the option where it's guiding me by those different fields to put in that information, and then if I'm gonna sign, there's, like, an electronic signature mechanism.**
 
 ## Task 3: Fill out the form [never back out or reload the page]
 As you go through this form I'll ask that you please fill it out using fake details so you don't share your personal information with me. 
@@ -259,16 +271,32 @@ Thank you.
 
 You may continue on with the form.
 
+**What would be really cool, like, with that form, because again, I'm assuming I'm logged in, it knows my information. So a lot of that, like, demographic information that is already in here, like, that should be in the form already. Like, it should pull all that in with whatever cool technology stuff. So, like, I shouldn't have to be putting in, like, my name and social and all that stuff. Like, to me, that should already be in the form, because the VA already has it.**
+
+User gets stuck on because the link wasn't fully built out when they clicked on I want to use form 21--4138 to submit my statement.
+
+**I mean, maybe at this point I could click to get help filling out a form, but usually on the VA website, like, that brings you some bland Page that tells you common sense stuff that you probably already did.**
+
+**to be honest, the very last thing I would ever want to do is try to call the VA for, like, troubleshooting help, like, with that number there, because that just never goes well. But maybe it'll get better, but in past experience, that's like trying to call AT&T, and like, you can never get to a human.  I mean, maybe I'd go back and, like, try to continue again. Like, you know, sometimes, like, there'll be, I don't know, connectivity issues or whatever. And, you know, you just gotta kind of resubmit, and then it'll pop up back up. I'd probably try that once, and then… then from there, go back to the website.**
+
+**Like, again, to me, You have all the stuff. Why do I have to do it again? Like, it's all in the system. Like, why? But, It's the VA. Yeah, like, the only time it would make sense is, like, I don't know, not that my wife would even try to log on to the VA website for me, but I don't know, like, if you had a caregiver that needed to do something, then, like, okay, maybe they would need to do this, but I don't even know if they have, like, an access privilege for, like, that kind of thing.**
+
 ### Watch for:
 - Does the user encounter any errors when entering the data into the form fields? Y/N
+**Yes**
 
  - If Y, what field do they encounter errors on?
+ **SSN**
 
  - What triggered the error specifically?
+ **Let's look at that number again. Can you go back to that field? I think because it says 1, 2, 3, 4, 5, it's like consecutive numbers, it's going to throw the error. If you want to try mixing it up a little bit, it might take it.**
 
  - Does the user understand how to correct the error? 
+ **Yes**
 
 - Does the user experience any difficulty completing the fields from their mobile device Y/N
+
+**No**
 
  - If Y, what specific challenges did they experience?
 
@@ -289,16 +317,20 @@ At this point, I'm going to have you pretend that you need to step away from the
  - Did they mention any previous experience or confusion?
 
 - What does the user do to leave the form?
-"Back to previous page"*
+**Finish this application later. And then I would expect, like, usually up at the top, like, left or right of an app, there's kind of the hamburger, and you can kind of click that, and it'll give you, like different menu options, and then there's usually a home. So, I would normally do that, but now I'm gonna just try clicking VA, because, you know, also kind of when you click, like, top left. It'll kind of bring you back to the home, so… that's what I'm gonna try here.**
+
+**Oh yeah, because if I hit done, then it would probably shut the whole thing down. So, good thing I didn't do that.**
+
+**"At this point, I can try and back out. Back to previous page. Which, that might only get me so far. I'm just gonna… Keep hitting the back button. Because it told me it saved. So… Let's hope it did."**
 - Does the user express doubt that their work will be saved? Y/N
-Yes
+**Yes**
 
 ### Questions for testing participant: 
 
 - How was your experience navigating to the homepage of the app from the partially completed form [screen reader/assistive tech/device]? 
-**Kind of choppy, scrolling across is annoying. "That makes it challenging. Once you get to this kind of content, it's just hard on a phone"**
+**Kind of choppy, scrolling across is annoying. "That makes it challenging. Once you get to this kind of content, it's just hard on a phone. I mean, it's hard… harder with this format, because it's basically taking the website approach and, like, slamming it into an app instead of, like Taking that required information and having, like, an app-based approach**
 - How confident do you feel that your work will be saved?
-- **Not confident at all**
+- **Not confident at all. And then, even if it is saved, like, Why get back to it?**
 
 
 ## Task 5: Continue completing the started form and submit
@@ -311,6 +343,8 @@ Please locate your previous form and continue on.
 
 - In this step, what did the participant expect to happen?
 
+**I don't even know where to go for that. Because it's got me kind of in this loop where I can't get, like, back home. - Went to where there's, like, an open claim, maybe it's there, but I… I don't know. Very common with the VA website, you're, like, always guessing. Guess and hope. That's kind of how you usually feel trying to do anything on the website.**
+
  - Did they mention any previous experience or confusion?
  - **Yes, they've used this on the webste. They would've gone to the website**
 
@@ -320,7 +354,10 @@ Please locate your previous form and continue on.
 
 - Is the user able to complete the started form? Y/N
 
+**No**
+
  - If no, what prohibited them from submitting the initial form?
+ **Weren't sure how to find the previous form**
 
 
 ### Observation points for screen reader users:
@@ -366,11 +403,16 @@ Now that you have completed the form, please go back to the app.
 - What does this status mean to you? 
 
 - If you needed to reference this form submission in a phone call with VA, what information would you look for?
-- **No idea** 
+- **No idea. I'd probably, you know, whatever you do, if you're in a really bad spot and you try and call them, they've always gonna, like, authenticate you, like, with your social and probably, like, a couple other data points that are in here, so it'd be that. And then I try and talk them through what… what claim it was for, to see if they could, like, get to, the statement that I was trying to submit?** 
 
 - What would you expect to see if you needed to check on your submission later?
-
+**Usually, if you, like, submit anything. They'll kind of get you to, like, a final landing page, and, you know, blah blah blah was submitted, and then there… there's usually a number with it.**
+  
 - How would you expect to be notified of updates to this form?
+
+**Hopefully an email, because it's not like you're going to go in and check this all the time. But if it was in the app, And I allowed notifications. Ideally, there's, you know, like, something there, you know, a little pop-up on your phone, you know. Some change to status of thing.**
+
+**The downside is it's usually not, like, emailed to you, so you kind of have it in your record, so you gotta, you know, jot it down on a piece of paper or something. But I would hope that, like, if we went back to that initial menu where it had, you know, hey, here's your 5 claims. That there be, you know, something. Like, hey, statement update on, you know, 10-2 And at least, like, pending review, or I don't know, whatever the status is on that. To be able to show, like, that step was taken, and then… What the status of that step is.**
 
 
 ### Watch for:
@@ -412,13 +454,18 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 ## Thank You and Closing - 3 minutes
 
 - How was this process overall for you?
+**Overall, like… I think that having an app would be great. But it's just kind of making that pivot more to, you know, I keep using that terminology, like, an app-based layout, which probably isn't right. But, like, it's basically, like, the website has just been put into an app, which is not gonna work. Especially with some of the things, like, I would never want to Sit there with a keyboard and type it in an app. Maybe if you had an iPad with, like, one of those keyboards, like. That could work. But with a phone, like, it would just be too hard. But it would be nice to be able to, like  Get a notification on your forum that Hey, something changed in that little pop-up, and then, like, oh, okay, you can probably get enough in, like, an app-based view of, like, here's a status update. I did like, you know, being able to use your camera to take pictures. Like, that's really, really beneficial, like, if, I don't know, people don't have a scanner or something. So that's good. Like, there's definitely. Great applications, it's just kind of refining it a little bit.**
 
 - Was there anything you would change about this process?
+**No, the Face ID would be awesome, because it's really annoying when you have to sign into My HealthyVet, like, you always have to do the multi-factor all the time. It's obnoxious. Even if it, like, logs out, you were just on it, because you, like, stepped away for a minute. So, like, the biometric is really cool**
+  
 - **The website has been transformed into the app. Which is just not gonna work. This type of form 
 
 - What parts required the most concentration?
+**Just being able to read, like, the fine print on some of those screens that are just, like, all this text.**
 
 - Do you feel you would like to complete forms using the mobile app in the future? Why or why not?
+  **Not as is now, maybe if it could be streamlined a little more, potentially. Again, being able to, like, pull in common data points, you know, from existing things in the system to just help kind of, like, cut down, like, you know, name, social, all that stuff, like, especially if I need to just sign something. like, just like a DocuSign, or, like, one of those things? Like, here, you know, read it, tap it, sign it, boom. Like, that'd be really cool.**
 
 
 **Are you still okay if we use any video or audio clips from this session?** 

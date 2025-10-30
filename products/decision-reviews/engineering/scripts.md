@@ -15,7 +15,7 @@ def get_mpi_profile_with_icn(icn)
 end
 
 def get_va_profile(mpi_profile)
-  vet360_profile = VAProfile::ContactInformation::Service.get_person(mpi_profile.vet360_id.to_s)&.person
+  vet360_profile = VAProfile::ContactInformation::V2::Service.get_person(mpi_profile.vet360_id.to_s)&.person
 end
 
 def retrieve_current_email(va_profile)
@@ -141,7 +141,7 @@ def get_email_and_icn_with_lighthouse_upload_id(lighthouse_upload_id)
   mpi_profile = get_mpi_profile_with_user_uuid(user_uuid)
   return nil if mpi_profile.nil?
 
-  va_profile = VAProfile::ContactInformation::Service.get_person(mpi_profile.vet360_id.to_s)&.person
+  va_profile = VAProfile::ContactInformation::V2::Service.get_person(mpi_profile.vet360_id.to_s)&.person
   return nil if va_profile.nil?
 
   current_emails = va_profile.emails.select { |email| email.effective_end_date.nil? }

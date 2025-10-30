@@ -2,7 +2,7 @@
 name: MHV Tier 3 SNOW Issue Template
 about: Issue template for the My HealtheVet development team for further investigation from Tier 3 issues originating in ServiceNow (staff-facing)
 title: 'SM/Admin - '
-labels: MHV-Tier-3, MHV-Secure-Messaging, Liferay/SM Clinician Portal
+labels: MHV-Tier-3, Liferay/SM Clinician Portal, Liferay/SM Admin Portal
 assignees: ''
 projects: ["department-of-veterans-affairs/1776"]
 
@@ -13,7 +13,7 @@ projects: ["department-of-veterans-affairs/1776"]
 
 *ServiceNow ticket number(s):*
 
-- [INC#](URL)
+- [INC](URL)
 
 
 ## Steps to Reproduce

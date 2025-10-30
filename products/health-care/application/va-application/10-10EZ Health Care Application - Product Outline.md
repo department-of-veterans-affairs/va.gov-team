@@ -200,8 +200,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 - Team Name: 10-10 Team
 - GitHub Label: #1010-team, 1010-ez
 - Slack channel: #1010-health-apps
-- Product POCs: Heather Justice, Alex Seelig, Emily Brown (DM)
-- Stakeholders: Lauren Alexanderson, Christopher Hawkins, Bryan Burgan, Stacey Echols
+- Product POCs: Heather J, 
 
 </details>
 
@@ -209,10 +208,10 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 
 <details>
  
- - DEPO Lead: Lauren Alexanderson, Patrick Bateman, Lois Lewis
- - PM: Heather Justice, Alex Seelig
- - Engineering: Matt Long, Mitch Saltykov, Brandon Cooper
- - Research/Design: Jessica Stump, Angela Agosto
+ - OCTO Lead: Lauren A, Premal S, Amanda K
+ - PM: Heather J
+ - Engineering: Matt L, Mitch S, Ray M
+ - Research/Design: Jessica S, Hieu V
  
 </details>
 
@@ -222,19 +221,13 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 <details>
  
 **HEC (Health Eligibility Center) Program Team**
-- Bryan Burgan | bryan.burgan@va.gov -- Program Analyst, ESO - Main POC
-- Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
-- Christopher Hawkins  | christopher.hawkins2@va.gov  -- Supervisory Management Analyst
-- Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
-- Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
-- Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-- Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
-- Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
-- Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-- Shana Watson | shana.watson@va.gov -- Business SME
-- Simone Gully | simone.gully@va.gov -- Business SME
-- Amanda Scully | amanda.scully@va.gov -- Business SME
+- Bryan B -- Program Analyst, ESO - Main POC
+- Amanda S --  Deputy Director, HEC
+- Jessica S -- Management & Program Analyst, BSO Business Policy (Paper forms)
+- Annie R -- Contact Representative office
+- Shana W -- Business SME
+- Simone G -- Business SME
+
 
 **Enrollment System (ES)**
 - Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)

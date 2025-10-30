@@ -2,18 +2,21 @@
 This document contains tidbits, odds & ends, and information about the 10-10EZ form, development, testing and anything else that isn't captured in other documents.
 
 ### Abbreviations
-- ES = Enrollment System/Service
+- ES = Enrollment System/Service (aka VES = VHA Enrollment System)
 - EE/E&E = Eligibility and Enrollment
-- HEC = Heathcare Enrollment Services
+- HEC = Heathcare Enrollment Center
 - HCA - Health Care Application (AKA 10-10EZ)
 - VOA - Veteran Online Application (AKA 10-10EZ)
 - VistA - Legacy health record source, in process of deprecating - Enrollment Systen will be the main source of data
 
 Systems used by Application Processing teams
+- VES - VHA Enrollment System
+     - System primarily used by HEC staff to input and review Veteran information related to health care eligibility and enrollment
+     - Most data from the online 10-10EZ and 10-10EZR is populated in VES upon successful submission
 - VIS - Veteran Information Solution 
      - Provides consolidated view of comprehensive eligibility from VBA and DoD.  Used to locate combat dates, activation peried, South West Asia (SWA), active duty military service, service-connected disability, pension, amount, etc
 - HINQ - Hospital Inquiry System
-     - Provides verificatoin information to include active duty periods, active duty for training only, and service-connected disabilities
+     - Provides verification information to include active duty periods, active duty for training only, and service-connected disabilities
 - SHARE - 
      - Automatically creates claim data in the Benefit Delivery Network and VBA corporate database to support case managment of Compensation & Pension claims
 - VBMS - Veterans Benefit Management System

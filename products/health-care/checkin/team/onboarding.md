@@ -142,6 +142,8 @@ Once you've rebooted, you should be able to log into CyberArk (using your PIV an
 
 To get into AWS, this is the procedure:
 - Login to CyberArk.
+
+#### Old Procedure
 - Click the Connect dropdown and select "Citrix".
 - Wait for everything to happen. If you get the long hang and "licensing failed" failure, reboot again.
 - Eventually, you should be able to access the Citrix Application Store.
@@ -150,6 +152,11 @@ To get into AWS, this is the procedure:
   - This step may fail multiple times. In my case, it failed about five times in a row, always because the connection timed out.
   - Sometimes, I was logged out of CyberArk too and had to log back in there before I could re-attempt the connection to the Citrix Application Store and from there re-attempt a connection to the actual environment I was trying to reach.
 - Eventually, you should arrive at a working desktop, at which point you can go to https://prod.adfs.federation.va.gov/adfs/ls/idpinitiatedsignon.aspx .
+- From there, you can sign in and then select a specific application, e.g. AWS WebGov Cloud.
+- You can select whichever account you want to access, e.g. `vaec-cms` or `vaec-cie`.
+
+#### New Procedure
+- Click the Connect dropdown and select "AWS GovCloud".
 - From there, you can sign in and then select a specific application, e.g. AWS WebGov Cloud.
 - You can select whichever account you want to access, e.g. `vaec-cms` or `vaec-cie`.
 

@@ -111,6 +111,7 @@ Label header
 * Describes the subject of notifications.
 * Limit to 36 characters to keep text on a single line.
 * Don’t use the word ‘notification’.
+* Label headers are managed by the VA Profile API team, so any updates must be coordinated with them. The Authenticated Experience Team does not own or manage the label headers.
 
 Group hint text
 * Provides additional information that applies to all notification types within a single subject.

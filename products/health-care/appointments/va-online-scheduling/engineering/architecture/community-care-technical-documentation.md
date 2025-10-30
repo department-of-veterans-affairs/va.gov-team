@@ -39,30 +39,24 @@ The External Referral Appointment Scheduling System is designed to automate and 
 graph TB
     User((User))
     
-    subgraph "VA.gov"
-        VW[Vets-Website<br>React App]
-        subgraph "CC Experience"
-            VA_API[Vets-API<br>Ruby on Rails]
-            VA_NOTIFY[VA Notify]
-        end
-    end
-    
-    MAP[MAP System]
-    CCRA[CCRA System]
-    EPS[EPS System]
+    MAP[MAP - Services connecting to VISTA and HSRM]
+    HSRM[HSRM - HealthShare Referral Manager]
+    EPS[EPS - Wellhive System for appointments and providers]
+    VW[vets-website]
+    VA_API[vets-api]
 
     User -->|HTTPS| VW
     VW -->|HTTPS| VA_API
     VA_API -->|Send Notifications| VA_NOTIFY
     VA_API -->|Access Referral Data| MAP
-    MAP -->|Retrieves Referral Data| CCRA
+    MAP -->|Retrieves Referral Data| HSRM
     VA_API -->|Schedule Appointments| EPS
-    EPS -- "Manual Entry (Air Gap)" --> CCRA
+    EPS -- "Manual Entry (Air Gap)" --> HSRM
 
     classDef vaSystem fill:#e6f3ff,stroke:#333,stroke-width:2px;
     classDef external fill:#f9f9f9,stroke:#333,stroke-width:2px;
     class VW,VA_API,VA_NOTIFY vaSystem;
-    class MAP,EPS,CCRA external;
+    class MAP,EPS,HSRM external;
 ```
 
 ## Referral Data Model
@@ -185,17 +179,18 @@ sequenceDiagram
 
 ## Key Processes
 
-### User Workflow
-1. User receives SMS/Email with referral link and clicks it.
-2. User is directed to login and authenticate.
-3. After authentication, user is redirected to the referral page.
-4. Frontend retrieves referral data from Vets API and stores it in Redux.
-5. If an appointment exists that matches a referral number of the referral coming in, reject the apppointment, as we are ONLY booking first referral appointments
-6. Frontend checks for EPS appointments and combines them with existing appointments in Redux for the list.
-7. Clicking into the scheduling process shows referral information
-8. After the user verifies this information, they may go to the slots of the provider available (slots are date/time unique points that a user can book an appointment in)
-9. After choosing a slot, the user sees a final verification page
-10. Clicking confirm, will book the appointment in CCRA, and send the user a notification (there are some async processes here in the EPS system and the airgap to the CCRA system)
+### Referral Appointment Scheduling Flow
+
+1. The user receives an SMS or email notification indicating that they can self-schedule an appointment for a referral.  
+2. The notification directs the user to the **Referrals and Requests** page on **vets-website**, which lists all active referrals.  
+3. The user selects the relevant referral from the list.  
+4. **vets-website** retrieves the referral details and displays them to the user.  
+5. If no appointment exists for that referral, the user can begin the scheduling process.  
+6. The user navigates to the **Scheduling View**, where a draft appointment is created and available time slots are displayed.  
+7. After selecting a time slot, the user reviews the appointment details on a **Final Verification** page.  
+8. When the user clicks **Confirm**, the appointment is successfully booked.  
+9. At a later point, the booked appointment is manually synced to external systems by staff.
+
 
 ## Resources
 
@@ -205,67 +200,86 @@ Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) s
 
 ### * GET `/vaos/v2/referrals` (new)
 ```
-[
-  {
-    "uuid": "123_123456",
-    "categoryOfCare": "Physical Therapy",
-    "referralDate": "2025-06-02T10:30:00Z",
-    "expirationDate": "2025-06-02"
-  }
-]
+{
+  "data": [
+    {
+      "id": "6cg8T26YivnL68JzeTaV0w==00",
+      "type": "referrals",
+      "attributes": {
+        "expirationDate": "2026-04-09",
+        "uuid": "6cg8T26YivnL68JzeTaV0w==00",
+        "categoryOfCare": "CHIROPRACTIC",
+        "referralNumber": "VA0000007241",
+        "referralConsultId": "984_646907",
+        "stationId": "659"
+      }
+    }
+  ]
+}
 ```
 ### * GET `/vaos/v2/referrals/{referralNo}`
 Response when not booked ie: no appointments have been booked for this referral)
 ```
 {
-  "uuid": "1234",
-  "referralDate": "2025-06-02T10:30:00Z",
-  "expirationDate": "2024-12-12",
-  "referralNumber": "VA0000009880",
-  "referringFacility": "Batavia VA Medical Center w/ Dr. Moreen S. Rafa",
-  "status": "Approved",
-  "categoryOfCare": "Physical Therapy",
-  "stationID": "528A4",
-  "sta6": "534",
-  "referringFacilityInfo": {
-    "facilityName": "Batavia VA Medical Center",
-    "facilityCode": "528A4",
-    "description": "Batavia VA Medical Center",
-    "address": {
-      "address1": "222 Richmond Avenue",
-      "city": "BATAVIA",
-      "state": "NY",
-      "zipCode": "14020"
-    },
-    "phone": "(585) 297-1000"
-  },
-  "referralStatus": "open",
-  "provider": {
-    "id": 111,
-    "name": "Dr. Moreen S. Rafa",
-    "location": "FHA South Melbourne Medical Complex"
-  },
-  "appointments": []
+  "data": {
+    "id": "6cg8T26YivnL68JzeTaV0w==00",
+    "type": "referrals",
+    "attributes": {
+      "uuid": "6cg8T26YivnL68JzeTaV0w==00",
+      "referralDate": "2023-01-01",
+      "stationId": "659BY",
+      "expirationDate": "2025-06-02",
+      "referralNumber": "VA0000007241",
+      "categoryOfCare": "CHIROPRACTIC",
+      "referralConsultId": "984_646907",
+      "appointments: null,
+      "referringFacility": {
+        "name": "Batavia VA Medical Center",
+        "phone": "(585) 297-1000",
+        "code": "528A4",
+        "address": {
+          "street1": "222 Richmond Avenue",
+          "city": "BATAVIA",
+          "state": "NY",
+          "zip": "14020"
+        }
+      },
+      "provider": {
+        "name": "Dr. Moreen S. Rafa",
+        "npi": "1346206547",
+        "phone": "(937) 236-6750",
+        "facilityName": "fake facility name",
+        "address": {
+          "street1": "76 Veterans Avenue",
+          "city": "BATH",
+          "state": "NY",
+          "zip": "14810"
+        }
+      }
+    }
+  }
 }
 
 ```
-Response when an appointment is found
+Appointment data appended to the response object: 
 ```
-{
-  ...the referral response 
-  "appointments": [
-    {
-      "id": "1234",
-      "startDate": "2025-03-15 10:30 AM",
-      "location": {
-        "address": "123 Main St, Springfield, IL, 62704",
-        "room": "Suite 405"
+"data" : {
+   ...
+
+   "appointments": {
+      "EPS":  {
+          "data": [
+             { "id": 12345, status: "booked", "start": "2024-11-21T18:00:00Z" }
+          ]
       },
-      "confirmationStatus": "confirmed"
-    }
-  ]
+      "VAOS":  {
+          "data": [
+             { "id": 56789, status: "booked", "start": "2024-11-21T18:00:00Z" }
+          ] 
+      }
 }
 ```
+
 ### * POST `/vaos/v2/appointments/create_draft` (new)
 Request:
 ```
@@ -329,46 +343,20 @@ Response:
   }
 }
 ```
-### * GET `/vaos/v2/appointments` (existing)
-* NOTE: Will include eps appointments unless a vaos appointment for a given referral is already returned in the collection.
-
-### * GET `/vaos/v2/appointments/{appointmentId}` (existing)
-* NOTE: this existing endpoint will be utilized for retrieving appointment details for an eps appointment through the use of a parameter flag
+### * GET `/vaos/v2/appointments?_include=facilities,clinics,eps` (existing)
+* NOTE: Will include eps in the includes parameter to tell vets-api to fetch eps appointments.
 
 Request:
 ```
-GET /vaos/v2/appointments/{id}?_include=eps
-```
 
+```
 Response:
-
-```
-{
-  "data": {
-    "id": "string",
-    "type": "appointments",
-    "attributes": {
-      "id": "string",
-      "status": "string", // "booked" or "proposed"
-      "patientIcn": "string",
-      "created": "ISO8601 datetime",
-      "locationId": "string", // Optional
-      "clinic": "string", // Optional
-      "start": "ISO8601 datetime", // Optional
-      "contact": "string", // Optional
-      "referralId": "string", // Optional
-      "referral": { // Optional
-        "referralNumber": "string"
-      },
-      "providerServiceId": "string", // Optional
-      "providerName": "string" // Optional
-    }
-  }
-}
 ```
 
-### * GET `/vaos/v2/eps_appointments/{appointmentId}` (new)
-* NOTE: this endpoint will not be utilized for eps appointment details retrieval for referral appointment creation workflow but will instead use `/vaos/v2/appointments/{appointmentId}` as seen directly above
+```
+
+### * GET `/vaos/v2/eps_appointments/{appointmentId}`
+
 ```
 {
   "data": {
@@ -552,3 +540,106 @@ Response:
 ## Open Questions and Future Considerations
 1. Need to get what will be referred to as the providerID for the EPS system that matches to what's in the CCRA object. Refer to EPS document/yaml/json for the call `provider-services/{providerServiceId}`
 2. Get user data from full auth user object in vets-api to get address and phone and email
+
+## Proposed Cancellation Feature
+The utmost concern is representing appointment data accurately to the veteran, the challenge is dealing with two separate sources of truth for appointment data, VAOS and EPS. This is a "split-brain" problem, neither source has been identified as being the primary source of truth and therefore a given appointment should be present in both systems in an active state ("booked" or "submitted", each source has it's own language to indicate the appointment is active) in order to ensure cancellation will not result in a de-sync of appointment data between the two sources.
+
+### Process
+
+1. In the appointment details fetch check for the presence of the appointment in both VAOS and EPS, include in the response payload the ids of the appointments for their respective sources
+2. On the appointment details screen if the appointment details payload indicates the appointment is present in both sources make available a "cancel appointment" button
+3. The cancel button will send a request to a new endpoint in vets-api containing the appointment ids which will be used to send update requests to their respective sources to update the status of the appointments to "cancelled"
+4. If both requests are successful and the appointment states are updated to "cancelled" return a success response to vets-website to display confirmation of the cancellation to the veteran.
+5. If one or both requests are unsuccessful return an error response to vets-website to indicate to the veteran the cancellation was unsuccessful.
+
+### Flow diagram
+
+Based on the WellHive Care Navigation API documentation, the cancellation process requires:
+
+1. Fetching valid cancellation reasons for the appointment
+2. Submitting the cancellation request with a selected reason
+3. Optionally, polling until the appointment state changes to cancelled
+
+References: [WellHive API](https://wellhive.github.io/api-docs/) · [GitHub docs – “6. Cancel an Appointment”](https://github.com/wellhive/api-docs#6--cancel-an-appointment)
+
+```mermaid
+sequenceDiagram
+    participant Client as Frontend Client
+    participant ApptController as AppointmentsController
+    participant EpsController as EpsAppointmentsController
+    participant ApptService as AppointmentsService
+    participant EpsService as Eps::AppointmentService
+    participant VAOS as VAOS API
+    participant EPS as EPS API
+
+    Note over Client: Client determines appointment type
+    Client->>Client: Check appointment.type or appointment.provider?.id
+
+    alt EPS Appointment (type === 'epsAppointment' or has provider.id)
+        Client->>EpsController: PUT /eps_appointments/:id {status: "cancelled", cancellation_reason_id?: string}
+
+        Note over EpsController: Step 1: Fetch valid cancellation reasons
+        EpsController->>EpsService: get_cancel_reasons(appointment_id)
+        EpsService->>EPS: GET /appointments/:id/cancel-reasons
+        EPS-->>EpsService: 200 OK {cancelReasons: [...]}
+        EpsService-->>EpsController: Cancel reasons
+
+        Note over EpsController: Step 2: Submit cancellation with reason
+        alt Client provided cancellation_reason_id
+            Note over EpsController: Validate against returned reasons
+        else No reason provided
+            Note over EpsController: Use first/default allowed reason
+        end
+
+        EpsController->>EpsService: cancel_appointment(appointment_id, cancel_reason_id)
+        EpsService->>EPS: POST /appointments/:id/cancel {cancelReasonId: "..."}
+        EPS-->>EpsService: 202 Accepted (may be async)
+        EpsService-->>EpsController: Cancellation request accepted
+
+        opt Optional confirmation: Poll for completion
+            Note over EpsController: Enable if stronger confirmation is required
+            loop until Appointment.state == "cancelled" or error
+                EpsController->>EpsService: get_appointment(appointment_id)
+                EpsService->>EPS: GET /appointments/:id
+                EPS-->>EpsService: 200 OK {appointment state}
+                EpsService-->>EpsController: Appointment status
+            end
+        end
+
+        Note over EpsController: Optional: Keep VAOS consistent when mirrored
+        EpsController->>ApptService: check_vaos_appointment_exists(appointment_id)
+        ApptService->>VAOS: GET /appointments/:id
+        VAOS-->>ApptService: 200 OK or 404 Not Found
+        alt VAOS appointment exists
+            ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+            VAOS-->>ApptService: 200 OK
+            ApptService-->>EpsController: VAOS also cancelled
+        else No VAOS appointment
+            ApptService-->>EpsController: No VAOS appointment to cancel
+        end
+
+        EpsController->>EpsController: assemble_appt_response_object()
+        EpsController-->>Client: 200 OK or 202 Accepted {data: {status: "cancelled" or "cancel-pending"}}
+
+    else VAOS Appointment (standard appointment)
+        Client->>ApptController: PUT /appointments/:id {status: "cancelled"}
+
+        ApptController->>ApptService: update_appointment(appt_id, "cancelled")
+        ApptService->>VAOS: PUT /appointments/:id {status: "cancelled"}
+        VAOS-->>ApptService: 200 OK {appointment data}
+        ApptService-->>ApptController: Updated appointment object
+
+        ApptController->>ApptController: set_facility_error_msg()
+        ApptController->>ApptController: serialize_appointment()
+        ApptController-->>Client: 200 OK {data: {appointment}}
+    end
+
+    Note over Client, EPS: Both systems can reflect cancelled status
+```
+
+
+### Open cancellation questions (last updated 10.22.25)
+1. Is it true that we need to consider both EPS and VAOS as equal sources of truth? That is the current assumption and the reasoning behind allowing cancellation only if the appointment is present and in an active state in both EPS and VAOS.
+2. What error message should be displayed if the cancellation is unsuccessful?
+3. If the appointment cancellation request is successful in one source but not the other, do we indicate this in the error message?
+4. Do we need to look up a "cancelReasonId" from eps for every appointment we cancel or can we just submit the cancellation request with `"cancelReasonId": "pat"`, which seems to identify self-cancellation? 

@@ -35,7 +35,9 @@ body:
     label: Refinement Checklist! 
     description: Make this ticket ready to work
     options: 
-      - label: Add description, goal, and tasks
-      - label: Add estimate
-      - label: Add the proper labels, team, and priority
-      - label: Add an Epic or Super Epic
+      - label: Added description, tasks, and acceptance criteria
+      - label: Added estimate
+      - label: Labeled with Practice Area (engineer, design, product, data science)
+      - label: Labeled with issue type and characteristics of the ticket (bug, accessibility, request, discovery, documentation, research, content, ux testing, front-end, back-end, datadog, etc.)
+      - label: Added any other relevant project fields (team, OCTO priority...)
+      - label: Added an Epic or Super Epic

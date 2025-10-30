@@ -1,6 +1,6 @@
 # Initiative outline: Retire use of the DS Logon credential at VA
 
-**Last Updated: June 30, 2025 -- Updated timeline**
+**Last Updated: October 27, 2025 -- Updated timeline; Updated metrics**
      
 ## Table of Contents
 
@@ -9,9 +9,6 @@
 - [User Problem Statement](#user-problem-statement)
 - [Project timeline](#project-timeline)
 - [Analytics](#analytics)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [Design and UX](#design-and-ux)
 
 
 ## POCs
@@ -52,6 +49,9 @@ VA is now focusing on its effort to deprecate the DS Logon credential at VA afte
 - April 2025: Continuing conversations around how to maintain a shared credential with DoD; Comms planning.
 - May 2025: Initial comms blast went out; exploration of cost differential for federated option.
 - June 2025: Philippines webinar to help users sign up for ID.me; Charles confirmed we should pursue federated option for DoD.
+- August 2025: Determined we are not federating a sign-in option for DoD.
+- September 2025: ITEC approved decision not to continue pursuing a shared credential with DoD.
+- October 2025: DS Logon removal delayed because of the government shutdown.
 
 ## Analytics
 
@@ -70,10 +70,10 @@ From [Domo](https://va-gov.domo.com/page/1862108618?userId=367226722)
 
 |Metric|Baseline (March 2025)|September 2025|
 |------|--------------------|-----------------|
-|Total active DS Logon users in the last 24 months|3.87M|TBD|
-|Total DS Logon users active in the last 24 months without Login.gov or ID.me|560,333|TBD|
-|DS Logon users active in the last 24 months with Login.gov|1.24M|TBD|
-|DS Logon users active in the last 24 months with ID.me|2.89M|TBD|
+|Total active DS Logon users in the last 24 months|3.87M|4.05M|
+|Total DS Logon users active in the last 24 months without Login.gov or ID.me|560,333|400,670|
+|DS Logon users active in the last 24 months with Login.gov|1.24M|1.51M|
+|DS Logon users active in the last 24 months with ID.me|2.89M|3.23M|
 
 ### Usage metrics
 
@@ -81,20 +81,11 @@ From [Datadog]() [Domo](https://va-gov.domo.com/page/1862108618?userId=367226722
 
 |Metric|Baseline (March 2025)|September 2025|
 |------|--------------------|-----------------|
-|% authentications happening through DS Logon|5%|TBD|
-|% authentications happening through Login.gov|34%|TBD|
-|% authentications happening through ID.me|61%|TBD|
-|Number of people using DS Logon|232,453|TBD|
-|% of people using DS Logon|8%|TBD|
+|% authentications happening through DS Logon|5%|3%|
+|% authentications happening through Login.gov|34%|31%|
+|% authentications happening through ID.me|61%|66%|
+|Number of people using DS Logon|232,453|148,364|
+|% of people using DS Logon|8%|5%|
 
-## Backend
 
-(Link relevant backend docs)
 
-## Frontend
-
-(Link relevant frontend docs)
-
-## Design and UX
-
-(Link relevant design docs)

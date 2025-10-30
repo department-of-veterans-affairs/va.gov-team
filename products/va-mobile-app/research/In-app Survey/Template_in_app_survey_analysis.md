@@ -1,16 +1,16 @@
 # [RX/Give Feedback] In-App Survey Feedback from the VA Health & Benefits App from August, 2025 
 ## Summary
-Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
+Feedback includes **#** total responses, each with a rating of 1-5 as defined in the table below. Ratings of 1-2 (not at all satisified, or dissatisfied) are considered negative, 3 (neither satisfied or dissatisfied) represents neutral, and 4-5 (satisfied, or very satisfied) are positive.
 
 ## Overall distribution of ratings
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = Very satisfied | % | # |
-| = Satisfied | % | # |
-| = Neither satisfied or dissatisfied | % | # |
-| = Dissatisfied | % | # |
-| = Not at all satisfied | % | # |
+| 5 = Very satisfied | % | # |
+| 4 = Satisfied | % | # |
+| 3 = Neither satisfied or dissatisfied | % | # |
+| 2 = Dissatisfied | % | # |
+| 1 = Not at all satisfied | % | # |
 
 
 ## General/other feedback
@@ -70,32 +70,10 @@ Representative responses:
 
 <br>
 
-### Common themes
-
-#### Theme name (# of responses)
-
-1-2 sentences describing the theme.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-Recommendation: Where applicable, 1-2 sentences of recommendations for to investigate, improve, or mitigate this theme.
-
-### User pain points
-
-#### Pain point title
-Brief sentence explaining pain point, noting scale of that pain point (# of reviews related to this pain point).
-
-Recommendation: 1-2 sentences of recommendations that could improve this pain point.
 
 ## Feature specific feedback
+The following feature list may not all be mentioned or comprehensive of the months specific feedback.
+
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Navigation | # | # |
@@ -109,176 +87,39 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 | Messaging | # | # |
 | Prescriptions | # | # |
 
+### Feature name
+| Feature      | average rating | # of ratings |
+|--------------|---------------|--------------|
+| Feature Name      | 4.4           | 5            |
 
-### Navigation
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Navigation | # | # |
-1-2 sentences summarizing the sentiment of the area.
+Summmary
 
-Representative responses:
+**Representative responses:**
 
-> Quote.
-
+>
 <br>
 
-> Quote.
-
+>
 <br>
 
-### Login
-| Feature | average rating | # of ratings |
-|--|--|--|
-|Login | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
+>
 <br>
 
-> Quote.
-
+>
 <br>
 
-### Disability rating
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Disability rating | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
+>
 <br>
 
-> Quote.
+**Common Themes:**
+- 
 
-<br>
+**Pain Points:**
+- 
 
-### Claims
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Claims | # | # |
-1-2 sentences summarizing the sentiment of the area.
+**Feature Enhancements:**
+- 
 
-Representative responses:
+**Recommendations:**
+- 
 
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Letters and documents
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Letters and documents | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Profile
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Profile | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Payments
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Payments | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Travel Pay
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Travel Pay | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Messaging
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Messaging | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Prescriptions
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Prescriptions | # | # |
-1-2 sentences summarizing the sentiment of the area.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>
-
-### Feature Enhancements
-1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
-
-Representative responses:
-
-> Quote.
-
-<br>
-
-> Quote.
-
-<br>

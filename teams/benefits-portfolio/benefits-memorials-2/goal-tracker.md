@@ -18,21 +18,21 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP4| **Pay.gov Hosted Collection Page (HCP) for Overpayments:**  |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |Finalize design + engineering handover.   | BE, FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |   |
 | QP5| **Pay.gov Hosted Collection Page (HCP) for Copays:**  |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |Target production at end of Sept/Early Oct   |BE, FE | **Pay.gov + HRC/VHA accounting** |  |
 | QP6 | **Veteran Request for Hardship Suspension (VBA):** |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Initiate Design Prototyping & Development handover  UX to finalize engineering handover by end of Sept in preparation for development in October  | Design- FE | **DMC** |  |
-| QP7 | **Indirect Initiative Priority Work:**  | [#112855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112855)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
+| QP7 | **Prioritized Maintenance 2025 (October, November, December):**  |[#121725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121725)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25)
+ - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25) 
 
 ## Sprint Goals - Sprint: 19 [10/8/25 - 10/21/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Prepare conversation guide, research plan for the Payment History pre-launch validation study.| QP3 |--|--|--|
-|UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates.| QP2 |--|--|--|
-|ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|--|
-|ENG: If the shutdown happens: Be fully ready to turn on the Digital Dispute asynchronous submission process alongside the new Emails. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|--|
-|ENG: Validate the Digital Dispute PDF content and formatting.| QP1 |--|--|--|
-|ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work.| QP2 |--|--|--|
-|ENG: Complete Payment History implementation work.| QP3 |--|--|--|
+|UX: Prepare conversation guide, research plan for the Payment History pre-launch validation study.| QP3 |--|10/20/2025|Completed|
+|UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates.| QP2 |See below|--|Incomplete|
+|ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work.| QP1 |See below|--|Incomplete|
+|ENG: If the shutdown happens: Be fully ready to turn on the Digital Dispute asynchronous submission process alongside the new Emails. If the shutdown is averted the goal will be to release this work.| QP1 |--|--|Completed|
+|ENG: Validate the Digital Dispute PDF content and formatting.| QP1 |--|10/21/25|Completed|
+|ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work.| QP2 |See below|--|Incomplete|
+|ENG: Complete Payment History implementation work.| QP3 |See below|--|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/30/25)
@@ -41,13 +41,17 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (09/30/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- For goal: UX/ENG: Complete all One Thing Per Page Staging review “Must” pre-launch updates - Remaining and final launch blocking ticket will be completed in Sprint 20.
+- For goal: ENG: If the shutdown happens: Refine the 3 Digital Dispute Email templates and have them ready to start sending. If the shutdown is averted the goal will be to release this work. - Final stakeholder updates have been provided for     templates and will be completed in Sprint 20.
+- For goal: ENG: If the shutdown happens: Be fully ready to launch One Thing Per Page in production. If the shutdown is averted the goal will be to release this work. - Remaining and final launch blocking ticket will be completed in Sprint 20.
+- For goal: ENG: Complete Payment History implementation work - The BE team completed 5 tickets related to Payment History and additional work remains. 
 
 ## Sprint Goals - Sprint: 20 [10/22/25 - 11/4/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Work with Peregian on recruitment for Payment History pre-launch validation research sessions.| QP3 |--|--|--|
+|UX: Work with Perigean on recruitment for Payment History pre-launch validation research sessions.| QP3 |--|--|--|
 |UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |--|--|--|
 |ENG: Pending Launch of One Thing Per Page - Ramp up the exposure %, Monitor for issues or errors, address any issues.| QP2 |--|--|--|
 |ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.| QP3 |--|--|--|
@@ -62,10 +66,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-<details>
-
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
+
+<details>
     
 **Primary Goals (May shift based on stretch goal dependencies)**
 | Priority ID | Title | S.Epic |  Goal + Info |  Discipline | Dependency |  End of Quarter Status |
@@ -226,14 +230,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 18 [9/24/25 - 10/7/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|--|
-|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|--|
-|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|--|--|
-|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|--|
-|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|--|--|
-|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|--|--|
-|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|--|--|
-|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|--|--|
+|UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items.| QP3 |--|--|Incomplete|
+|UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding.| QP7 |--|--|Incomplete|
+|UX: Share Hardship Suspension mockups with the client, capture feedback, and refine designs as needed.| QP6 |--|10/02/25|Completed|
+|UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience.| QP7 |--|--|Incomplete|
+|UX: Improve clarity of the Marital Status question on the FSR, in response to Medallia feedback.| QP7 |--|10/07/25|Completed|
+|ENG: Ensure all 3 individual emails are set up correctly for Digital Dispute (Failure, In Progress, and Received).| QP1 |--|10/06/25|Completed|
+|ENG: Complete all ADE feedback for OTPP launch.| QP2 |--|09/26/25|Completed|
+|ENG: Continue to drive towards being release ready for the updated Payment History work by identifying all remaining work and BE focusing (4 out of 5 planned tickets) on this initiative. | QP3 |--|10/07/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/23/25)
@@ -242,8 +246,11 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (09/24/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- UX: Add a pagination component to the debt payment history section to improve usability when transaction lines exceed 12 items. - This work will continue on as input is needed from the Platform Design Team due to a pagination error/bug.
+- UX: Review the VBA diary codes, and update messages to ensure clarity and user understanding. - This work will roll into the next sprint, as alignment is needed amongst all stakeholders before Veteran facing messages can be refined and updated.
+- UX: Report on Veteran survey feedback from September 2025 to identify and prioritize problems users encounter in the VA.gov financial management experience. - Per PO guidance, the team pivoted from this work to focus on the upcoming Payment History usability study preparation.
 
 ---
 

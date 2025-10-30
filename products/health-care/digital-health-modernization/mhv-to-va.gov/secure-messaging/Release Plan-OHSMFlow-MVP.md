@@ -1,4 +1,4 @@
-# --DRAFT-- (In Progress)
+
 
 # Release Plan: Update Start a New Message Flow for Oracle Health
 
@@ -116,17 +116,11 @@ Parent [MHV Secure Messaging Metrics Dashboard](https://vagov.ddog-gov.com/dashb
 | [web] click on "Select different care team" link | RUM metrics to track interaction with URL on `/new-message/start-message` page |
 
 
-**User-Facing Metrics (Google Analytics and Call Center)**- Cara
-
-| Metric Name | Description |
-| ----------- | ----------- |
-|  |  |
-| |  |
-|  | |
+Release Monitoring Github: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/feedback-systems/rollout-monitoring/send-new-message-flow0925.md
 
 
 
-## Monitoring (Post Monitoring Documentation)
+## Monitoring (Post Monitoring Documentation)- To be Updated once monitoring begins
 
 
 **Stage A: 5% of users**

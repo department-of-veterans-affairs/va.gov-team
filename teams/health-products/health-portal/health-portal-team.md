@@ -54,7 +54,7 @@ This cross-functional group serves as the Company points of contact for the deli
 | Florence McCafferty | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) |
 | Cara Frissell       | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7)       |
 | Sara Sterkenburg    | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25)    |
-| Marcello Antosh     | TBD                                                             |
+| Marcello Antosh     | [@Marcello Antosh](https://dsva.slack.com/team/U09LCFL4YMT)                                                             |
 
 
 ### Medical Records
@@ -82,9 +82,9 @@ This cross-functional group serves as the Company points of contact for the deli
 | Chris Donelson  | [@Chris Donelson](https://dsva.slack.com/team/U09B1FV641Y)  |
 | Cam Keif        | [@Cam Keif](https://dsva.slack.com/team/U09AF2JEHQS)        |
 | Ian Seabock     | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25)     |
-| Langston Payne  | TBD                                                         |
-| Andrea Uhr      | TBD                                                         |
-| Timothy Powell  | TBD                                                         |
+| Langston Payne  | [@Langston Payne](https://dsva.slack.com/team/U09DVT4NV9V)                                                         |
+| Andrea Uhr      | [@Andrea Uhr](https://dsva.slack.com/team/U09CPTE5L2W)                                                         |
+| Timothy Powell  | [@Tim Powell](https://dsva.slack.com/team/U09E8TNEQKX) |
 | Amy Cashbaugh   | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1)   |
 | Geoff Winner    | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)    |
 
@@ -102,9 +102,9 @@ This cross-functional group serves as the Company points of contact for the deli
 | Clint Wilde      | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
 | Mario Williams   | TBD                                                               |
 | Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
-| Sofia Cordero    | TBD                                                               |
+| Sofia Cordero    | [@Sofia Cordero](https://dsva.slack.com/team/U09F37D0FJ4)         |
 | Fiona Tang       | TBD                                                               |
-| Espy Thomson     | TBD                                                               |
+| Espy Thomson     | [@Espy Thomson](https://dsva.slack.com/team/U09DMMWR3RS)          |
 
 
 
@@ -114,12 +114,12 @@ This cross-functional group serves as the Company points of contact for the deli
 | Name             | DSVA Slack                                                                         |
 |------------------|------------------------------------------------------------------------------------|
 | Carlos Felix     | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R)                           |
-| Sarah Horton     | TBD                                                                                |
+| Sarah Horton     | [@Sarah Horton](https://dsva.slack.com/team/U09HBGL49KN)                                                                                |
 | Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/archives/D09B1CWEMS8)                   |
 | Athena Bozak     | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J)                           |
 | Jonathan Nelson  | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N)                          |
 | Anneka Van Garza | [@Anneka Van Garza](https://dsva.slack.com/team/U09CJ05E2D8)                       |
-| Tanya Malhotra   | TBD                                                                                |
+| Tanya Malhotra   | [@Tanya](https://dsva.slack.com/team/U09FXFQJE84)                                                                                |
 | Laura Simpson    | TBD                                                                                |
 
 ### Customer Support and Triage (Tier 3)

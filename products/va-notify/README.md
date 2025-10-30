@@ -227,7 +227,10 @@ Tech Stack
 **How can we begin sending requests through VA Notify?**
 - We will provide an API key to your team via encrypted VA.gov email
 
-
+**How to configure Push Notifications?**
+- The client service must integrate with the VA Flagship Mobile App Service.
+- The client team must reach out to the VA Notify team to request a new API key that will be associated with the VA Flagship Mobile App Service. This key will be used by the client’s system to authenticate push notification requests.
+- As part of the same onboarding process, the client team must work with the VEText team to create a push notification template and applicable mobile app notification preference. The template and notification preference must be created and approved before any push messages are sent.
 
 **What endpoints will my team need to use?**
 - You will only need to use our API for notification specific actions:
@@ -274,4 +277,20 @@ Tech Stack
        "personalisation": {
            "Name": "Jane"
        }
+    }
+
+**Sample Push request with personalisation**
+`{{notification-api-url}}/v2/notifications/push`
+
+    {
+        "mobile_app": "VA_FLAGSHIP_APP",
+        "template_id": "123ID",
+        "recipient_identifier": {
+            "id_type": "ICN",
+            "id_value": "value"
+        },
+        "personalisation": {
+            "appointment_date": "date",
+            "appointment_time": "time"
+        }
     }

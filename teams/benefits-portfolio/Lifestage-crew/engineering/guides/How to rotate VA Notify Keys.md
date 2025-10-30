@@ -14,9 +14,9 @@ The VA Notify team supplied new keys via va.gov email.
 
 The three keys we care about are: (sandbox and staging use the same key)
 
-- /dsva-vagov/vets-api/sandbox/env_vars/vanotify/services/pensions/api_key
-- /dsva-vagov/vets-api/staging/env_vars/vanotify/services/pensions/api_key
-- /dsva-vagov/vets-api/prod/env_vars/vanotify/services/pensions/api_key
+- /dsva-vagov/vets-api/sandbox/env_vars/vanotify/services/21p_527ez/api_key
+- /dsva-vagov/vets-api/dev/env_vars/vanotify/services/21p_527ez/api_key
+- /dsva-vagov/vets-api/prod/env_vars/vanotify/services/21p_527ez/api_key
 
 
 Find the key you'd like to change, click on it, then edit and change it.

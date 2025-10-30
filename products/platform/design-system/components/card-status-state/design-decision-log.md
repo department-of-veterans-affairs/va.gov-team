@@ -1,5 +1,5 @@
-# Card Component Error State Design Decisions
-Last updated: 08/06/2025
+# Card Status - Design Decisions
+Last updated: 10/16/2025
 
 This document outlines the key design decisions made for implementing error states in the VA Design System Card component. These Architecture Decision Records (ADRs) capture the context, decisions, and consequences of our design choices to ensure consistency and provide guidance for future development.
 
@@ -7,8 +7,10 @@ This document outlines the key design decisions made for implementing error stat
 - [ADR: 001 - Cards will not support success, warning, or info states](#ADR-001---Cards-will-not-support-success-warning-or-info-states)
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
 - [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
-- [ADR: 004 - The card will be interactive when in the error state](#ADR-004---The-card-will-be-interactive-when-in-the-error-state)
+- [ADR: 004 - The error message will be attached to the link when in error mode](#ADR-004---The-error-message-will-be-attached-to-the-link-when-in-error-mode)
 - [ADR: 005 - Existing card will be moved to legacy state in Figma](#ADR-005---Existing-card-will-be-moved-to-legacy-state-in-Figma)
+- [ADR: 006 - Card error state component will become Card status](#ADR-006---Card-error-state-component-will-become-card-status)
+- [ADR: 007 - Card status MVP](#ADR-007---Card-status-MVP)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
@@ -54,66 +56,65 @@ Cards displaying an error state must include a visible secondary action link tha
 N/A
 
 
-## ADR 003 - Default tag will be used for launch
+## ADR 003 - ~~Default~~ New Status tag will be used for launch
 
 ### Status: Accepted
 
 - Date issue raised: 07/31/2025
 - Decision date: 08/04/2025
+- Decision changes: 10/16/2025
 
 ### Context
-The experimental design request specified using a colored tag for the error state. However, colored tags are not currently available in the VA Design System.
+The experimental design request specified using a colored tag for the error state. However, colored tags are now available in the VA Design System.
 
 ### Decision
-We will implement the card error state using the default tag style. Once colored tags become available in the design system, we will update the card component to use the appropriate colored tag.
+We will implement the card status using the new status tag style. O
 
 ### Consequences
-- Cards with error states may need to be refactored when colored tags become available
-- The team is investigating ways to control this styling from a single source to minimize future refactoring effort
+The status tag is a new component not used by teams at this point. There could be some regressions in the card due to the new tag.
 
 ### Open Questions
 N/A
 
 
-## ADR 004 - The card will be interactive when in the error state
+## ADR 004 - The error message will be attached to the link when in error mode
 
 ### Status: Accepted
 
 - Date issue raised: 07/31/2025
 - Decision date: 08/04/2025
+- Decision revised date: 9/12/2025
 
 ### Context
 When users tab away from a card in an error state and then return to it via keyboard navigation, we want to ensure they're still aware that an error needs to be resolved.
 
 ### Decision
-We will make cards interactive (focusable) when they are in an error state.
+Users will be able to know that there's an error when they encounter the link.
 
 #### Accessibility Implementation
-Pages containing cards typically do not include form fields (such as text inputs, select menus, or checkboxes). As a result, screen reader users are unlikely to be in Forms Mode when they encounter these cards. Instead, they will most likely be in Browse Mode (Virtual Cursor Mode), which allows navigation using headings, landmarks, and arrow keys.
+Pages containing cards typically do not include form fields (such as text inputs, select menus, or checkboxes).
 
 To ensure error states remain discoverable and perceivable in Browse Mode:
 
 - **Error announcements:** Error messages use `role="alert"` to trigger immediate screen reader announcements
-- **Keyboard accessibility:** The entire card becomes keyboard-focusable (`tabindex="0"`) when in an error state
 - **Programmatic associations:** Cards use `aria-labelledby` and `aria-describedby` to connect headings with error messages
 - **Semantic structure:** Headings inside cards use semantic `<h2>` tags, enabling navigation via heading shortcuts
 
-This approach ensures screen reader users receive the same information and interaction cues as visual users, regardless of their navigation mode.
+This approach ensures screen reader users receive the same information and interaction cues as visual users.
 
 ### Consequences
-- Cards in error states will be part of the keyboard tab order
-- Some screen reader users may experience unexpected verbosity when encountering focusable cards
-- The interaction pattern provides consistent accessibility across different assistive technologies
+N/A
 
 ### Open Questions
 N/A
 
 ## ADR 005 - Existing card will be moved to legacy state in Figma
 
-### Status: Accepted
+### Status: ~~Accepted~~ Changed
 
 - Date issue raised: 08/04/2025
 - Decision date: 08/06/2025
+- Decision changed: 10/16/2025
 
 ### Context
 To add an error state to the Figma card component, we have two options:
@@ -123,16 +124,15 @@ To add an error state to the Figma card component, we have two options:
 ### Decision
 We will issue a new version of the card component to better align with the coded implementation. This involves:
 
-1. **Separated concerns:** The new card component will have three visual style variants (border, background, drop shadow) with two states each (default and error)
+1. **Separated concerns:** The new card component will have four visual style variants (default border, default error, background, drop shadow) 
 2. **Flexible content:** Card content will be either prebuilt options or a flexible option for teams to add custom content
 
 Currently, the component combines content and visual style into single variants. We are separating these concerns to create a more maintainable structure.
 
-We will maintain and support the current card component by renaming it to "Card - Legacy".
-
+~~We will maintain and support the current card component by renaming it to "Card - Legacy".~~
 
 ### Implementation Plan
-- **Legacy preservation:** The current card component will be renamed to "Card - Legacy"
+~~- **Legacy preservation:** The current card component will be renamed to "Card - Legacy"~~
 - **New default:** The improved card component will use the standard "Card" name
 - **Opt-in adoption:** Teams can choose when to migrate to the new design structure
 - **Error state requirement:** Teams wanting to use error states must adopt the new component design
@@ -146,3 +146,48 @@ We will maintain and support the current card component by renaming it to "Card 
 ### Open Questions
 - How should we communicate this change to affected teams? We are providing a new card that provides an error state and is more aligned with the web component. But, if it is swapped with the legacy card, teams will lose any customizations they have made. Plan accordingly. The current card will be renamed to Card - Legacy.
 - Do we want to then eventually deprecate the legacy version.
+
+
+## ADR 006 - Card error state component will become Card status
+
+### Status: In process
+
+- Date issue raised: 8/31/2025
+- Decision date: 10/16/2025
+
+### Context
+After discussions with DST Engineers, we realized we should just build the card status as a variant that supports an error state. We have many card statuses across VA.gov.
+
+### Decision
+We can build a card status variant based on the work done here. Card statuses need a headline and body copy, at a minimum. Items supporting an error state need a tag, an error message, and a link to resolve the error.
+
+A [discussion board](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4535) was started and teams were invited to contribute. As of 9/12/25 no one has.
+
+### Consequences
+- A consequence could be building a status card component that is too restrictive for teams. 
+
+### Open Questions
+
+
+## ADR 007 - Card status MVP
+
+### Status: Accepted
+
+- Date issue raised: 09/25/2025
+- Decision date: 09/25/2025
+
+### Context
+In the teams attempt to make sure any and all possible card status variants could be handled by the first version of this card status, we started churning a bit, and feeling like we would need to account for every possibility. 
+
+### Decision
+Much like the service list item component was created for a specific and limited use case, we can create the new card status variant to meet our initial needs here. To help with this, wireframes were created to help us focus on the elements of a status card.
+
+[Figma link to branch](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/branch/dmfSX2RQxlMwDHe20vt64t/VADS-Component-Library?m=auto&node-id=38925-799&t=VA0cWeAHNrpwxfMa-1)
+
+<img width="1240" height="640" alt="wireframes for card status" src="https://github.com/user-attachments/assets/3b334691-71dc-4608-b22b-c64bc4977b9d" />
+
+
+### Consequences
+- A consequence could be building a status card component that is too restrictive for teams. But, as we can tell for now, this should meet most current use cases. We can expand later.
+
+### Open Questions

@@ -569,11 +569,11 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 
 - How was this process overall for you?
 
-**Well, it was intresting. It wasn't as bad as I thought it was going to be. When it comes to computers, I'm the worst person in the world. I'm claiming that I did well with my knowledge and experience**
+**Well, it was intresting. It wasn't as bad as I thought it was going to be. When it comes to computers, I'm the worst person in the world to know anything about them. I'm claiming that I did well to myself. I don't know how you thought I did, but I'm claiming that I did well with my knowledge and experience. I'm happy with my progress.**
 
 - Was there anything you would change about this process?
 
-**no, it was fine. It was painless. I feel good about the experience and about myself**
+**no, it was fine. It was painless. I was kind of dreading it. Because I didn't know really what to expect. But it was, was easy enough. I feel good about the experience and about myself**
 
 - What parts required the most concentration?
 

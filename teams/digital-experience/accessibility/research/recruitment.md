@@ -81,9 +81,9 @@ To simplify planning for recruitment, [use our VA recruitment checker spreadshee
 
 If your time and budget does not allow for including groups listed above, please reference the communicating and documenting risk section.
 
-<img width="570" alt="Screen Shot 2021-07-07 at 2 29 57 PM" src="https://user-images.githubusercontent.com/14154792/124810849-cf576400-df2f-11eb-87b4-b26a105dba90.png">
+<img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved community" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
-> An example of a study with 7 Veterans in the MVS checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
+> An example of a study with 11 Veterans in the MVS checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
 
 Should there be unique deviations within the findings based on particular characteristics, we recommend strategically confirming and disconfirming those cases within another iterative study.
 
@@ -100,10 +100,6 @@ The MVS checker should be used to keep track of which underserved communities ha
 - Unable to recruit a high volume of participants. 
 - Experiencing a large volume of no shows.
 - Looking to iterate on findings or need to validate new changes in a design throughout a study.
-
-<img width="859" alt="Screen Shot 2021-07-07 at 2 30 20 PM" src="https://user-images.githubusercontent.com/14154792/124810904-dd0ce980-df2f-11eb-9dfc-f41b11ed646b.png">
-
-> Example of a series of well-planned cohorts in the VA recruitment checker
 
 <br aria-hidden="true"/>
 

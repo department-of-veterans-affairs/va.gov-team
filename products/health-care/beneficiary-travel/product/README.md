@@ -1,131 +1,87 @@
-# [WIP] Travel Pay Migration Effort
+# Primary Product Outline - Travel Pay
+Last Updated: October 3, 2025 
 
-> Period of Performance (PoP): 9/1/23 thru 8/29/24 
+## Overview
+The legacy Beneficiary Travel Self-Service System (BTSSS) is a standalone web application that allows Veterans to submit and manage claims for reimbursement of mileage and other travel related expenses to and from health care appointments. 
 
-This document is a high level snapshot of where we are today and where we want to be at the end of this PoP
+The goal of this body of work is to improve the tool and accessibility of the beneficiary travel system and experience. As part of our mission to improve Veteran’s access to care, the existing claim submission system and processes need to be integrated more intentionally with VA.gov and the VA Health and Benefits (VAHB) mobile application. 
 
-- [\[WIP\] Travel Pay Migration Effort](#wip-travel-pay-migration-effort)
-  - [Goals for this PoP](#goals-for-this-pop)
-  - [Team Breakdowns and Key Personal](#team-breakdowns-and-key-personal)
-    - [Key Stakeholders](#key-stakeholders)
-    - [API Team](#api-team)
-    - [va.gov team](#vagov-team)
-  - [By the end of 2023](#by-the-end-of-2023)
-  - [After 1 year](#after-1-year)
-    - [For the va.gov team](#for-the-vagov-team)
-    - [For the API team](#for-the-api-team)
-  - [Architecture](#architecture)
-    - [1: PCI Integration](#1-pci-integration)
-    - [2: CLaims Ingest API](#2-claims-ingest-api)
-    - [3: Existing BTSSS Portal (MS Dynamics)](#3-existing-btsss-portal-ms-dynamics)
-    - [4: va.gov submission tool](#4-vagov-submission-tool)
-    - [5: Va.gov integration](#5-vagov-integration)
-    - [6: Future integrations](#6-future-integrations)
-    - [7: VA Mobile Integration](#7-va-mobile-integration)
-    - [8: VA Mobile Experience](#8-va-mobile-experience)
+## Problem Statement
+The legacy BTSSS system is siloed off from other systems & services. Veterans cannot easily discover, access, authenticate into and complete travel claims using the portal. Interviews done with Veterans for a homepage iteration project in 2022 identified the BTSSS system as a serious pain point.  The pain centered around two areas: 
+1) having to log into BTSSS despite being logged into VA.gov, and 
+2) the user experience of BTSSS itself. 
 
+One of the Veterans interviewed shared that he stopped filing travel reimbursement claims altogether due to the overall poor experience.  (Supporting links to be provided.) 
 
-## Goals for this PoP
+Submitting travel reimbursement claims is a very common task for Veterans and Caregivers.  Depending on a Veteran’s specific medical needs and their proximity to their provider’s location there can be numerous claims submitted each month. The process should be as simple and seamless as possible.
 
-Full list of [OKRS](./OKRS.md) and full project description in the [README](../README.md)
+UPDATE: As of late 2022 Veterans can access VA.gov and not have to log in again on BTSSS. So that resolved one issue. However, the poor user experience still needed to be addressed. 
 
-- Create a mobile friendly, accessible BT claims submission tool on va.gov for a fully authenticated user
-- Create an integration with the BTSSS system and the Vets-api that can be leveraged for various products on the va.gov ecosystem
+## Desired User Outcomes
+* A seamless and positive health-care travel related reimbursement claim creation, submission and management experience for Veterans and caregivers on the VA.gov website and the VAHB mobile app. 
+* Ability to interact with travel claim functionality where it is needed by leveraging an API-first approach.
+*	Enjoy a simple and intuitive experience that meets all VA accessibility, design and performance standards.
+*	Increased number of claims filed successfully overall.
+*	Positive feedback through Medallia 
 
-## Team Breakdowns and Key Personal
+## Undesired User Outcomes
+*	Continued inefficiencies when moving between BTSSS and the new platforms
+*	Confusion in the claim submission or reimbursement process in the new platforms
+*	Continued frustration with the claims submission process through the new platforms.
+*	Negative impact on VTP staff.
 
-### Key Stakeholders
+## Desired Business Outcomes
+*	Increased number of claims filed successfully through new platform vs BTSSS.
+*	Increased user satisfaction rating
+*	Increased travel claims submission accuracy
+*	Decrease the number of manually reviewed claims.
+*	Positive user survey feedback received.
+*	Increased claim auto-adjudication rate
 
-- OCTO
-  - Mark Dewey
-  - Chris Johnston 
-- OIT 
-  - Chester Peyton
-- VTP
-  - Daryl Richardson
+## Undesired Business Outcomes
+*	Reduced number of claims filed overall. 
+* Increased complaints through the contact center
+*	Creating additional work for VTP staff
+*	Re-writing the BTSSS backend, business rules, or processing pipelines
 
-### API Team
+## Measuring Success
+**Key Performance Indicators (KPIs)**
+*	Data was not available at the time the project was started so baseline values are not available. (Google Analytics loses the user as soon as they click the link to file a claim.)
+*	Steady increase of overall claim submission quantity. (YoY)
+*	Positive shift in claim submission volume from BTSSS to VA.go ecosystem (web + mobile).
 
-This team will focus on iterating and expanding the Claims Ingest API 
+    <img width="675" height="223" alt="image" src="https://github.com/user-attachments/assets/93195568-8b33-402b-827d-7f530a0b6b02" />
 
-### va.gov team
+**Objectives and Key results (OKRs)** 
+*	Replicate the functionality currently available within the legacy BTSSS portal. 
+    * Key result: Full functional parity for Veterans = 100%
+    * Key result: Full functional parity for Caregivers = 100%
+    * Key result: Full functional parity for Donors = TBD
+*	Improve the Veteran’s and Caregivers’s experience operating in VA.gov and on the VAHB mobile app. (DELETE LATER: usability) 
+    * Key result: Increase CSAT score by X% / # of points
+    * Key result: Increase number of users who file a claim through VA.gov by X%
+*	Improve reporting of beneficiary travel claims digital tools usage
+    * Key result: Can accurately track migration progress from BTSSS to VA.gov
+    * Key result: Can establish baseline (MoM and YoY) metrics for the VA.gov experience
+*	Decrease time to payment.
+    * Key result: 90% of SMOCs submitted through VA.gov are auto adjudicated
+    * Key result: 90% of claims are eligible for immediate approval and payment status
 
-This team is focused on create the new experience on va.gov and integration vets-api with the Claims Ingest API
+# Solution Approach
+________________________________________
+## Supporting Research
+* Functionality available on the legacy BTSSS portal. (I will create and link a GH page for this document.)
+*	Partner with other teams to integrate identified functionality on BTSSS into new platforms.
+       OCTO                  VTP          VEO        Call Center        Travel Pay API (BHI)
+ 
+## Strategic Initiatives
+  * Simple, Mileage-Only Claims (SMOC) 			
+  * Claims Status List
+  * Additional Claim Details			
+  * Complex Claims 
+  * Community Care Appointments				
+  * Challenging Mileage
+  * Creating Missing Appointments
 
-
-## By the end of 2023
-
-- digested, aligned, and found an MVP of the items in the [road map](./roadmap.md)
-- Claims Ingest API is integrated with vets-api is successful
-- some simple claim submission is in staging. 
-
-## After 1 year
-
-We should have made significant progress on the [road map](./roadmap.md) for the API and va.gov team 
-
-### For the va.gov team
-
-- A submission tool that is linked to from appointments page (and maybe check in experience)
-- a vets-api integration that exposes functionality from the Claims Ingest API to the va.gov apps 
-- successful integration with the VA Mobile App
-
-### For the API team 
-
-- A performant API that can be used to create valid claims
-- A performant API that can be used to query for claim details
-  
-
-## Architecture 
-
-![Desired Architecture](./assets/scoped-architecture-diagram.png)
-
-Key: 
-
-### 1: PCI Integration
-
-- PCI Integration to allow claims being submitted during the check in process 
-- Already exist today in production, using the Claims Ingest API
-- The API Team will be supporting any production/integrations issues
-
-### 2: CLaims Ingest API
-
-- A proof of concept that got elevated to production. 
-- The main goal is to expand this according to our [road map](./roadmap.md#next-for-api-focused-team---fall-2023)
-- This what the API Team will be working on
-
-### 3: Existing BTSSS Portal (MS Dynamics)
-
-This is the current BTSSS experience. Veterans use this to submit a claim, though we can start to think about this as fancy database
-
-### 4: va.gov submission tool
-
-- This new functionality and applications we are creating on the va.gov
-- This is a main goal of the va.gov team
-- Here is the current proposed [road map](./roadmap.md#next-for-vagov-submission-tool-focused-team---fall-2023) 
-- This includes a module that can accessed and reused by other teams on va.gov
-
-
-### 5: Va.gov integration
-
-- This work is adding functionality to an existing va.gov feature
-- Primarily the va.gov will be working with the Appointments team to provide integration and guidance on integration with the va.gov submission tool
-
-### 6: Future integrations
-> Outside of the scope of this current PoP
-
-- Potential integrations points to consider when building the underlying APIs
-
-
-### 7: VA Mobile Integration  
-
-- Jointly, both teams will be supporting the integration with the VA Mobile App
-- There should be plenty of reuse here since the VA Mobile App uses vets-api
-- Ideally, the Va.gov Team builds the internals that are being used in [4] and the Mobile team build the controllers
-
-### 8: VA Mobile Experience
-
-- We are not building this experience directly, but supporting by answering question.
-- OCTO will field most of these questions with support from both teams.
-
-
+## [Launch Strategy, Dates & Features](https://github.com/orgs/department-of-veterans-affairs/projects/1713/views/2?sliceBy%5Bvalue%5D=%F0%9F%9A%97+Ursa+Minor+%28Travel%29)
 

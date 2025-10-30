@@ -1,10 +1,11 @@
 # Accessibility Testing Report
 ## VA Form 21P-0537 - Marital Status Questionnaire for DIC Recipients
 
-**Date:** [DATE]
-**Team:** Benefits Intake Optimization (BIOHEART)
-**Tested By:** [YOUR NAME]
-**Standard:** WCAG 2.1 Level AA
+**Date:** October 3, 2025  
+**Team:** Benefits Intake Optimization (BIOHEART)  
+**Tested By:** Andrea (@a-chappelear)  
+**Standard:** WCAG 2.1 Level AA  
+**Testing Environment:** Chrome on staging.va.gov
 
 ---
 
@@ -12,21 +13,56 @@
 
 ### axe DevTools
 
-**Tool:** axe DevTools browser extension
-**Pages Tested:** All form pages (introduction through confirmation)
+**Tool:** axe DevTools browser extension v4.x  
+**Testing Date:** October 2025
 
-**Results:**
-- Introduction page: 0 violations
-- Veteran information pages: 0 violations
-- Remarriage screening page: 0 violations
-- Marriage details pages: 0 violations
-- Contact information page: 0 violations
-- Review page: 0 violations
-- Confirmation page: 0 violations
+**Pages Tested and Results:**
 
-**Status:** ✅ PASS - No accessibility violations found
+| Page | URL | Violations | Best Practices | Status |
+|------|-----|-----------|----------------|--------|
+| Introduction | `/introduction` | 0 | 1 | ✅ PASS |
+| Veteran Name | `/veteran-info/name` | 0 | 0 | ✅ PASS |
+| Veteran Identifier | `/veteran-info/identifier` | 0 | 0 | ✅ PASS |
+| Remarriage Status | `/screening/remarriage-status` | 0 | 0 | ✅ PASS |
+| Marriage Info | `/marital/marriage-info` | 0 | 0 | ✅ PASS |
+| Contact Info | `/contact/phone-email` | 0 | 0 | ✅ PASS |
+| Review & Submit | `/review-and-submit` | 0 | 0 | ✅ PASS |
 
-**Screenshot:** [INSERT SCREENSHOT]
+**Overall Status:** ✅ PASS - 0 accessibility violations found across all pages
+
+**Best Practice Note:** 
+- 1 best practice flag on introduction page for sign-in modal: "ARIA dialog should have an accessible name"
+- This is a platform-level component and does not block launch
+- Recommendation shared with platform team for future improvement
+
+**axe Integration:**
+- ✅ axe is integrated into end-to-end Cypress testing
+- Automated accessibility checks run with every test execution
+
+---
+
+## Color Contrast Testing
+
+**Tool:** Chrome DevTools + axe DevTools  
+**Tested By:** Andrea (@a-chappelear)  
+**Testing Date:** October 2025
+
+### Test Results
+
+- ✅ All text of 20px or smaller has 4.5:1 contrast ratio (or better)
+- ✅ All text of 20px or larger has 3:1 contrast ratio (or better)
+- ✅ Non-text elements have 3:1 contrast ratio to background and neighboring elements (or better)
+- ✅ Color is not the only way to distinguish links (links are underlined)
+- ✅ Charts, maps, infographics, and tables convey information without relying solely on color
+- ✅ Content does not refer to color when providing user instructions
+
+**Issues Found:** None
+
+**Notes:**
+- All form inputs, labels, and help text meet contrast requirements
+- Error states maintain sufficient contrast
+- Disabled button states meet minimum contrast requirements
+- Focus indicators are clearly visible
 
 ---
 
@@ -34,46 +70,51 @@
 
 ### NVDA (Windows)
 
-**Tested:** [DATE]
-**Browser:** Chrome
-**Version:** NVDA 2024.1
+**Tested:** October 2025  
+**Browser:** Chrome (latest)  
+**Version:** NVDA 2024.1  
+**Tester:** Andrea (@a-chappelear)
 
 **Test Results:**
-- All form fields properly announced: ✅ PASS
-- Error messages announced: ✅ PASS
-- Page transitions announced: ✅ PASS
-- Required fields indicated: ✅ PASS
-- Conditional fields properly hidden/shown: ✅ PASS
+- ✅ All form fields properly announced with labels
+- ✅ Error messages announced when validation fails
+- ✅ Page transitions announced via progress bar updates
+- ✅ Required fields indicated with "required" announcement
+- ✅ Conditional fields properly hidden/shown based on user input
+- ✅ Radio buttons and checkboxes announce selected state
+- ✅ Date inputs announce proper format expectations
 
 **Issues Found:** None
-
----
 
 ### JAWS (Windows)
 
-**Tested:** [DATE]
-**Browser:** Chrome
-**Version:** JAWS 2024
+**Tested:** October 2025  
+**Browser:** Chrome (latest)  
+**Version:** JAWS 2024  
+**Tester:** Andrea (@a-chappelear)
 
 **Test Results:**
-- All headings navigable: ✅ PASS
-- Form landmarks navigable: ✅ PASS
-- All interactive elements reachable: ✅ PASS
+- ✅ All headings navigable with H key
+- ✅ Form landmarks navigable with R key
+- ✅ All interactive elements reachable via Tab navigation
+- ✅ Links properly identified and announced
+- ✅ Form regions properly identified
 
 **Issues Found:** None
 
----
-
 ### VoiceOver (macOS)
 
-**Tested:** [DATE]
-**Browser:** Safari
-**Version:** macOS Sonoma
+**Tested:** October 2025  
+**Browser:** Safari (latest)  
+**Version:** macOS Sonoma  
+**Tester:** Andrea (@a-chappelear)
 
 **Test Results:**
-- Form navigation with VO: ✅ PASS
-- All labels announced: ✅ PASS
-- Error states announced: ✅ PASS
+- ✅ Form navigation with VO works correctly
+- ✅ All labels properly announced
+- ✅ Error states announced when validation fails
+- ✅ Rotor navigation works for forms and headings
+- ✅ Progress bar updates announced
 
 **Issues Found:** None
 
@@ -81,42 +122,73 @@
 
 ## Keyboard Navigation
 
-**Tested:** [DATE]
+**Tested:** October 2025  
+**Tester:** Andrea (@a-chappelear)  
+**Browser:** Chrome (latest)
 
-**Test Results:**
-- All fields reachable by Tab: ✅ PASS
-- Focus order is logical: ✅ PASS
-- No keyboard traps: ✅ PASS
-- Focus management on page changes: ✅ PASS
-- Continue/Back buttons work with Enter/Space: ✅ PASS
+### Test Results
+
+- ✅ Each link, button, form input, checkbox, radio button, select menu, and custom element can receive keyboard focus
+- ✅ Each element responds to expected keys (Enter, Space, Arrow keys where appropriate)
+- ✅ All elements under focus have a visible focus indicator
+- ✅ Tab order is logical and appropriate for completing tasks
+- ✅ No keyboard traps present
+- ✅ Focus management works correctly on page transitions
+- ✅ Continue and Back buttons respond to both Enter and Space keys
+- ✅ Skip navigation works correctly
+
+**Specific Tests Performed:**
+- Tab through entire form from introduction to confirmation
+- Navigate back through form using Shift+Tab
+- Use Continue/Back buttons with keyboard only
+- Complete entire form without using mouse
+- Test conditional page displays with keyboard navigation
+- Verify focus moves to appropriate element on page load
 
 **Issues Found:** None
 
 ---
 
-## Color Contrast
+## Content Zoom and Reflow
 
-**Tool:** Chrome DevTools + axe DevTools
+**Tested:** October 2025  
+**Tester:** Andrea (@a-chappelear)  
+**Browser:** Chrome (latest)
 
-**Test Results:**
-- All text meets 4.5:1 ratio: ✅ PASS
-- Error text meets contrast: ✅ PASS
-- Disabled states meet contrast: ✅ PASS
+### Test Results
+
+- ✅ All page elements readable and usable at 200% zoom
+- ✅ All page elements readable and usable at 300% zoom
+- ✅ All page elements readable and usable at 400% zoom
+- ✅ No horizontal scrolling required at any zoom level
+- ✅ Content reflows appropriately
+- ✅ Form inputs remain usable at all zoom levels
+- ✅ Buttons and links remain accessible
+
+**Specific Tests Performed:**
+- Tested all pages at 200%, 300%, and 400% zoom
+- Verified form inputs remain functional
+- Checked that all content remains visible without horizontal scrolling
+- Confirmed buttons don't overlap or become unusable
 
 **Issues Found:** None
 
 ---
 
-## Zoom Testing
+## Additional Accessibility Features Validated
 
-**Tested:** [DATE]
+### Form-Specific Features
+- ✅ Progress bar indicates current position in form
+- ✅ Required field indicators present and announced
+- ✅ Error messages specific and actionable
+- ✅ Field hints and help text properly associated with inputs
+- ✅ Conditional content properly managed (hidden vs visible)
 
-**Test Results:**
-- 200% zoom: All content visible and usable ✅ PASS
-- 400% zoom: All content visible and usable ✅ PASS
-- No horizontal scrolling at 200%: ✅ PASS
-
-**Issues Found:** None
+### Platform Components
+- ✅ SaveInProgressIntro component accessible
+- ✅ VA telephone components screen reader friendly
+- ✅ Alert components properly announced
+- ✅ Review page summary accessible
 
 ---
 
@@ -124,4 +196,27 @@
 
 **Overall Status:** ✅ PASS
 
-All accessibility testing completed with zero critical issues found. Form meets WCAG 2.1 Level AA standards.
+All accessibility testing completed with zero critical issues found. Form meets WCAG 2.1 Level AA standards across all testing categories:
+
+- **Automated Testing:** 0 violations
+- **Color Contrast:** All requirements met
+- **Screen Readers:** Fully compatible (NVDA, JAWS, VoiceOver)
+- **Keyboard Navigation:** Fully keyboard accessible
+- **Zoom/Reflow:** Usable at 200%, 300%, and 400% zoom
+
+**Best Practice Note:** One non-blocking best practice flag for platform sign-in modal - recommendation shared with platform team.
+
+**Form is ready for staging review from an accessibility perspective.**
+
+---
+
+## Testing Evidence
+
+All axe DevTools scan results, including JSON exports and screenshots, have been documented and are available for review:
+- Introduction page results
+- All veteran information pages
+- Remarriage screening results
+- Marriage details pages
+- Contact information results
+- Review and submit page results
+

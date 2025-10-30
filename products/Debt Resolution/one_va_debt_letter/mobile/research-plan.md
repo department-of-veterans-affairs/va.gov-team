@@ -1,24 +1,24 @@
 
-	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, September 2025
+	# Research Plan for Mobile Feature Support, One VA Debt Letter in mobile app, November 2025
 
-## 🚧 🚧 🚧 Background 🏗️
+## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**Veterans who have overpayment debts and copayment bills do not have a single place to view all outstanding debts from the VA on the VAHB mobile app. How might we validate that Veterans want a standard format or structure that unifies their debt information on the mobile app, and provides them with a positive user experience?**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**The combined statement is available on VA.gov, authenticated. It is not currently available in the mobile app**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**It is a relatively new product: the combined statement was introduced to VA.gov in April 2025. If we built it in the app, it will be similar to that experience.**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/product-brief.md)**
 
 </details>
 
@@ -33,50 +33,24 @@
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
 
 </details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
-	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+
+`Because the product involves both debt and healthcare, it touches several key points in the Veteran’s overall journey with VA services.`
+
+- `Starting Up (Moment: Balancing Finances)`
+- `Taking Care of Myself (Moment: Maintaining my health)`
+- `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
+- `Retiring (Moment: Taking care of my health)`
+- `Aging (Moment that Matters: Managing my declining health)`
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 
@@ -106,14 +80,14 @@ Are there moments that matter?</summary>
 
 `10.` Is having a downloadable PDF of the combined statement important when using a phone?
 
-`11.` Do Veterans still want access to individual copay statements and debt letters, or would a combined statement fully meet their needs?
+`11.` How do the use cases differ between individual copay statements and debt letters vs combined statements?
 
 `12.` Is there additional information Veterans wish were included in a combined statement?
 
   
 ### Outcome
 
-- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement, saving significant developer effort if it is not desired.
+- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement in the mobile app, saving significant developer effort if it is not desired.
 
 - **Define feature set for MVP:** determine which functions will be essential for launch.
 
@@ -124,177 +98,166 @@ Are there moments that matter?</summary>
 ### Hypotheses
 
 - Veterans currently find it challenging to see the overall financial pictures of their debt and bills.
-- They will like the idea of a combined statement to have all current financial obligations in one place.
+- They will like the idea of a combined statement to have the current financial obligations of overpayments and copays in one place.
 - Veterans will trust that the information provided is accurate and up to date.
 - The current structure of a combined statement will be overwhelming to most.
 - They will want to view details of the debts and bills from combined statements.
 - Veterans will find PDFs of combined statements valuable, both as a familiar format and as a way to save for reference.
 - They will still want access to individual statements and bills, and the combined statement will not be a substitute for these.
   
-## 🚧 🚧 🚧 Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+## Methodology  🛠️
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+**Moderated remote sessions: semi-structured interviews and concept testing**
 
-</details>
+We will use semi-structured interviews and concept testing in this phase of discovery research. The purpose of the interviews is to understand whether or not Veterans would find use in having a combined statement within the mobile app. Concept testing will be conducted by presenting participants with an early-stage design concept for how a combined statement could be displayed, in order to gather feedback on possible user flows and features.
 
-**[Enter methodology here]**
+The interview component will consist of conversation only, without any visual aids such as prototypes or screenshots of existing experiences.
 
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+For the concept testing portion, Veterans will interact with two prototypes:
 
-</details>
+* The first prototype will simulate the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
+* The second prototype will illustrate a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
+
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [X] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
 
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
+## Research materials 📔
 
-## 🚧 🚧 🚧 Research materials 📔
-
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/conversation-guide.md)
+- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=min-zoom&content-scaling=responsive&starting-point-node-id=4006%3A561)
+- [Link to prototype: design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A430&node-id=4705-140663&p=f&viewport=-4160%2C-130%2C0.43&t=eljtTOe5JSXsQqyB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4705%3A140663&show-proto-sidebar=1&hotspot-hints=0)
 
 
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
 	
-## 🚧 🚧 🚧 Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
+## Recruitment 🎯	
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
 
-### Recruitment criteria
+We would like Perigean to recruit Veterans, non-AT (assistive technology) users, for Zoom sessions on smartphones.
+- Veterans who have experience with both VA medical copays and benefit overpayment debt.
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+We would like our participants to download the Figma app prior to the sessions. They should not create an account within the app, only have it downloaded. It is available at the Google Play Store and the Apple App Store.
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+
+### Screener questions
+
+1. Please check all that apply
+
+	a. I currently have an unpaid VA benefits overpayment debt (such as disability compensation, education, or pension benefits overpayments)  
+    b. I previously had a VA benefits overpayment debt in the last year  
+    c. I have not had a VA benefits overpayment debt in the last year (**DISQUALIFY**)  
+    
+    
+2. Have you received a medical copayment bill from VA in the last year?
+
+	a. Yes  
+    b. No (**DISQUALIFY**)  
+
+
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+
+	a. Yes  
+    b. No (**DISQUALIFY**)  
+
+
+4. How often are you using the VA health and benefits app on your phone?
+
+	a. I have never used it, or just tried it once (**DISQUALIFY**)  
+    b. 3-5 times in the past year  
+    c. 1-2 times per month  
+    d. 1-2 times per week  
+    e. Daily or almost daily  
+
+
+5. When interacting with apps on your smartphone, do you usually adjust the standard display or use accessibility features? Please select all that apply.
+
+	a. I mostly use the phone's standard display settings.  
+    b. I often increase the text size significantly. (**DISQUALIFY**)  
+    c. I use screen magnification or zoom features. (**DISQUALIFY**)  
+    d. I use a screen reader (such as VoiceOver or TalkBack). (**DISQUALIFY**)  
+    e. Other (**DISQUALIFY**)  
+    f. Prefer not to say (**DISQUALIFY**)  
+
+
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+
+	a. Yes  
+    b. No  
+    c. Decline to answer  
+
+
+7. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+	a. Yes (*mark as having a cognitive disability*)  
+    b. No  
+    c. Decline to answer  
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **12**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **12**
+- `Ideal completed sessions:` **8**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `Had a debt balance from benefit overpayments in the last year`
+- `Received VA medical copay bills in the last year`
+- `Complete session on their smartphone via the Zoom app`
+- `Download the Figma app ahead of time, though not creating an account`
+	- [Figma on Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US)
+	- [Figma on Apple App Store](https://apps.apple.com/us/app/figma/id1152747299)
+- `No assistive technology users or accessibility features turned on`
+    - _This is due to prototype limitations; we will be testing with assistive technology at a later date_
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `At least 6 ages 55+`
+- `At least 3 under age 35`
+- `At least 6 with cognitive disability`
+- `At least 4 people of color`
+- `At least 3 in a rural area`
+- `At least 3 without a degree`
+- `At least 2 with immigrant origins`
+- `At least 1 woman`
+- `At least 1 from the LGTBQ+ community`
 
-## 🚧 🚧 🚧 Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
+## Timeline 🗓️
 
-### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+#### No kick-off call with Perigean needed
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Kim McCaskill**
+- `Date and time of pilot session:` **11/3, Monday, 2:30 PM** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **November 12-13, 17-20**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` **3**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `11/12, Wednesday, 12:00 PM - 2:30 PM EST`
+- `11/13, Thursday, 9:00 AM - 4:00 PM EST`
+- `11/17, Monday, 10:00 AM - 12:30 PM / 2:30 PM - 3:30 PM EST`
+- `11/18, Tuesday, 9:00 AM - 1:00 PM / 3:00 PM - 4:00 PM / 8:00 PM - 10:30 PM EST`
+	* Tuesday can be up to 5 sessions: 3 during the day, and 2 at night
+- `11/19, Wednesday, 9:00 AM - 2:30 PM EST`
+- `11/20, Thursday, 9:00 AM - 4:00 PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -309,24 +272,24 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 
   - **Natasha Huckleberry**
-  - **Thomas Michaud**
   - **Natalie Davied Gibbons**
-  - **Jason DeHaan**
+  - **Emily Goodrich**
   - **Parker Baranowski**
   - **Michelle Middaugh**
   - **Denise Coveyduc**
   - **Marcela Rojas**
+  - **Megan Gayle**
   - **Risha Lee**
   - **Joseph Lee**
   - **Leo Sporgitas**
   - **Heather Rienks**
   - **Tom Davis**
-  - **Alex Teal**
   - **Dave Formanek**
   - **Kim McCaskill**
   - **Matthew Guest**
   - **Michael Harmer**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Michelle Middaugh, OCTO Product Owner on 10-29-2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+ 

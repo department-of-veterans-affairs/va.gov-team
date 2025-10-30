@@ -2,7 +2,7 @@
 name: Accessibility Digital Experience (ADE) Intake Form
 about: Use this ticket to request collaboration on a new initiative with the Accessibility
   Digital Experience (ADE) team (pronounced /ād/).
-title: "[ADE Intake]:<Team Name><Product><Requesting>"
+title: "[ADE Intake]:<Team Name><Product><Service Type>"
 labels: ADE Intake, ADE
 assignees: artsymartha68, lakper, sara-amanda
 
@@ -17,6 +17,9 @@ assignees: artsymartha68, lakper, sara-amanda
     - [ ] Add your product label to this ticket
 - **Team name**: `Team name goes here`
     - [ ] Add your team label to this ticket
+- Are you a Veteran Facing Services (VFS) team
+    - [ ] Yes
+    - [ ] No 
 - **OCTO product owner**: `OCTO PO goes here`
 - **Product manager**: `PM name goes here`
 - **Designer(s)**: `Name of designer(s)`
@@ -25,8 +28,6 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Accessibility Champ** (if you have one):
 
 ## About Your Work
-> [!TIP]
-> _Tell us briefly about your work and the outcomes you’re aiming to achieve._
 
 ### What's the nature of your initiative and desired outcomes?
 
@@ -47,6 +48,8 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] VA 508 office audit
     - [ ] Prepping for a 508 office audit
     - [ ] Reviewing results from a 508 office audit
+- [ ] Review Commercial Off the Shelf (COTS) products for accessibility
+- [ ] Collaboration Cycle Support
 - [ ] Accessibility test planning
 - [ ] Support design discovery
 - [ ] Review wireframes or mockups
@@ -79,26 +82,28 @@ Provide links to any supporting artifacts that can help us better understand you
 ## Your Timeframe
 
 > [!IMPORTANT]
-> - We work with the majority product teams on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
-> - If you ever have any questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
-> - We will notify VFS Teams via the weekly Team of Teams slide, if our bandwidth is impacted by holidays, PTO, planned research, larger projects, etc.
-> - Additionally, feel free to access our [capacity calendar](https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FNew_York&mode=WEEK&src=Y19mOTgyMzUwZmM3M2E4MTYyYTEwODhhYjE0ZDAwZGQzNzMzNWIyYjU1OWE2MGQ2YjY3ZWI4MDIxNDE2ZjgxYzJhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23616161).
+> - We work with the majority of product teams on VA.gov.  Intake requests are prioritized based on overall workload, along with VA and OCTO priorities. While we aim to support all teams who request our services, VFS teams receive priority status due to the nature of their work.  
+> - If you have questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
 
-### Is this work tied to a specific deadline?
+
+### Is this work tied to a deadline?
 - [ ] Yes (Month/Day/Year)
 - [ ] No
-- [ ] I’m not sure
 
-## Collaboration Cycle
+
+## Collaboration Cycle - VFS Teams Only
+
 ### Ticket Number
-`Link to Ticket` (if applicable)
+`Link to main Collaboration Cycle ticket` (if applicable)
 
 ### Which phases of the collaboration cycle have you completed?
 _Select all that apply._
+- [ ] Kickoff/PO Sync
 - [ ] Design intent
 - [ ] Midpoint review
-- [ ] Staging
-- [ ] None. This initiative isn’t going through the collaboration cycle.
+- [ ] Staging review
+
+
 
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket. 

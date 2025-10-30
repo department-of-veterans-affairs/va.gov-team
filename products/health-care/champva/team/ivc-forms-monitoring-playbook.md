@@ -20,6 +20,10 @@ Keep these items in mind while working through the **Steps** section below:
 - For quick communication/solutioning, prefer Slack Huddles or other video conferencing tools. After a huddle, **be sure to provide the key takeaway in writing** and share it to any relevant incident tickets/slack threads.
 - For visibility, keep all conversations relevant to the incident inside of the main DSVA  [#ivc-forms](https://dsva.slack.com/archives/C05UDS77ZPH) channel.
 
+## See Also
+
+- [Frequently Seen Alerts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/champva/team/frequently-seen-alerts.md)
+
 ## Key Personnel
 
 - Product Owner (PO): Premal Shah

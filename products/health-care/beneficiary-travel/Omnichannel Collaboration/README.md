@@ -75,22 +75,10 @@
 
 - [Userflow for filing for BT claim from past appointment on VA.gov - July 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=ucbacbd1daef36939e8aa2288)
 
-## Team Spaces 
-
-_A place for teams to document any key artifacts or handy links they have produced that do not belong in the Research or Design space_
-
-### Beneficiary Travel
-- [BT team GitHub space](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel)
+## Other Team Spaces 
 
 ### VetLink (Kiosks)
 - [Screenshots of BT flow and other tasks (.zip file)](https://github.com/user-attachments/files/16433520/Travel.Pay.Content.zip)
 
-### Patient Check-in
-
-
-### Appointments 
-
-
-### Mobile app 
 
 

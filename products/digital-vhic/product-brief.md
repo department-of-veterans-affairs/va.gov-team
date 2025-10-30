@@ -14,7 +14,7 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 
 ## Background
 - Veterans Health Identification Cards are available to Veterans enrolled in VA health care. Veterans can apply for a VHIC in person at a VA medical center or online at AccessVA.
-- Regardless of renewal method, cards are printed and mailed from a central off-site location regardless of renewal method.Veterans can expect to receive their card in the mail witin 7-14 days (~30 business days for Veterans living outside the US)
+- Regardless of renewal method, cards are printed and mailed from a central off-site location regardless of renewal method. Veterans can expect to receive their card in the mail witin 7-14 days (~30 business days for Veterans living outside the US).
 - The VHIC also displays the latest branch of service emblem and any special awards received.
 
 ## Measuring Success
@@ -43,11 +43,17 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 ### MVP
 - Build and release a Digital VHIC feature in the VAHB app, mirroring the Veteran Status Card experience already available.
   - Allow Veterans to view their VHIC in-app.
-  - Enable saving VHIC to mobile wallets (Apple/Google).
+- The VHIC team would like the digital VHIC card to match the physical card. The MFS team is assessing technical feasibility and making adjustments due to design restrictions. Therefore, this requirement will need to be negotiated with the VHIC team as the MFS team understands what is technically possible.   
 - Chose this approach due to high Veteran mobile usage and proven success with the digital Veteran Status Card.
 
 ### Adjacent work
-- We may explore how to improve discoverability of the digital card on VA.gov (e.g., Find a Form, R&S article updates).
+- We may explore how to improve discoverability of the digital card on VA.gov (e.g., Find a Form, R&S article updates). This effort will be handled by the VHIC team and confirmed by [this](https://dsva.slack.com/archives/C07S7TJRK0B/p1761241001047899?thread_ts=1761240690.675229&cid=C07S7TJRK0B) Slack message.
+
+--- 
+
+### Out of Scope
+- Allowing Veterans to downloard their VHIC to mobile wallets (Apple/Google) and therefore access their VHIC from their digital wallet (Apple/Google).
+- Any type of push notifications for VHIC. 
 
 --- 
 

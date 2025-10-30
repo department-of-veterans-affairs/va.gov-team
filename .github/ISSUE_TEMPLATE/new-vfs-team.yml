@@ -19,12 +19,25 @@ body:
   - type: input
     id: octo-de-product-owner
     attributes:
-      label: "OCTO Product Owner"
-      description: "Enter the name of your OCTO Product Owner."
+      label: "Product Owner"
+      description: "Enter the name of your Digital Service Delivery Product Owner."
     validations:
       required: true
 
-  - type: dropdown  
+  - type: dropdown
+    id: portfolio
+    attributes:
+      label: "Portfolio"
+      description: "Select the portfolio your team belongs to."
+      options:
+        - "BAM Portfolio"
+        - "Benefits Portfolio"
+        - "Digital Experience"
+        - "Health Portfolio"
+    validations:
+      required: true
+
+  - type: dropdown
     id: va-business-owner  
     attributes:  
       label: "VA Business Owner"  
@@ -46,39 +59,39 @@ body:
       description: "If you selected 'Other' above, specify the VA Business Owner."  
       placeholder: "Enter other VA Business Owner"  
 
-  - type: dropdown  
-    id: crew  
-    attributes:  
-      label: "Crew or Pod"  
-      description: "Select the crew or pod your team belongs to."  
-      options:  
-        - "BAM - Education"
-        - "BAM - Memorials"
-        - "Benefits - Accredited Reps Crew"
-        - "Benefits - Cross-Benefits Crew"
-        - "Benefits - Disability Benefits Crew"
-        - "Benefits - Lifestage Benefits Crew"
-        - "DE - Identity"
-        - "DE - Content, IA, and Editor Experience"
-        - "DE - Core Veteran Experiences"
-        - "DE - Platform Services and Governance"
-        - "DE - Veteran-Facing Platforms"
-        - "Health - Clinical Decision Support (CDS)"
-        - "Health - MHV on VA.gov Patient Portal"
-        - "Health - Unified Appointment Experience"
-        - "Health - VA Health Applications"
-        - "Health - VEText Notifications & Misc"
+  - type: dropdown
+    id: crew
+    attributes:
+      label: "Crew or Pod"
+      description: "Select the crew or pod your team belongs to."
+      options:
+        - "BAM Portfolio - Education"
+        - "BAM Portfolio - Memorials"
+        - "Benefits Portfolio - Accredited Reps Crew"
+        - "Benefits Portfolio - Cross-Benefits Crew"
+        - "Benefits Portfolio - Disability Benefits Crew"
+        - "Benefits Portfolio - Lifestage Benefits Crew"
+        - "Digital Experience - Content, IA, and Editor Experience"
+        - "Digital Experience - Core Veteran Experiences"
+        - "Digital Experience - Identity"
+        - "Digital Experience - Platform Services and Governance"
+        - "Digital Experience - Veteran-Facing Platforms"
+        - "Health Portfolio - Clinical Decision Support (CDS)"
+        - "Health Portfolio - MHV on VA.gov Patient Portal"
+        - "Health Portfolio - Unified Appointment Experience"
+        - "Health Portfolio - VA Health Applications"
+        - "Health Portfolio - VEText Notifications & Misc"
         - "Lighthouse API"
         - "Other (Specify below)"
-    validations:  
+    validations:
       required: true  
 
   - type: input  
     id: crew-other  
     attributes:  
-      label: "Other Crew (if applicable)"  
+      label: "Other Crew or Pod (if applicable)"  
       description: "If you selected 'Other' above, specify the Crew."  
-      placeholder: "Enter other Crew"  
+      placeholder: "Enter other Crew or Pod"  
 
   - type: input  
     id: github-team-name  

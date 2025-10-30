@@ -55,7 +55,7 @@ searches and gets no results.", etc.
 
 - **Instructions to access in Staging** 
 	- `vets.gov.user+14@gmail.com` (Jerry)
-	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
+    - Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging
 	- Click 'Check your balance and resolve your bill' link under 'Debt and bill overview' section
 
@@ -72,8 +72,8 @@ searches and gets no results.", etc.
 	- login via user `vets.gov.user+38@gmail.com` (Pauline)
 	- Passwords stored in [MVI Staging Users doc][mvi-staging-users] \(private repo\)
 	- Navigate to the [Combined Debt Portal](https://staging.va.gov/manage-va-debt/summary) on staging to view combined portal
-	- Navigate to the [Debt Details](https://staging.va.gov/manage-va-debt/summarydebt-balances) on staging to view debt details page with alert
-	- Navigate to the [Copay Details](https://staging.va.gov/manage-va-debt/summarycopay-balances) on staging to view copay details page with alert
+	- Navigate to the [Debt Details](https://staging.va.gov/manage-va-debt/summary/debt-balances) on staging to view debt details page with alert
+	- Navigate to the [Copay Details](https://staging.va.gov/manage-va-debt/summary/copay-balances) on staging to view copay details page with alert
 
 - **Link to designs**
   - [Overview page](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?node-id=0-6778&t=3ws7FSCSqmCcwNU8-1)

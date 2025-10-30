@@ -58,6 +58,12 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   Source: Brandi Traylor (email) 8/11/23
 </details>
 
+<details>
+<summary>Why are dependent names in ALL CAPS in our app? Can't we change it?</summary>
+
+  - We get the names passed to us from whatever data source they're stored in all caps. And we can't transform them on our end because that's too hard to do with names. For example, names like DeShaun, A'ja, Mo'Nique would be improperly transformed.
+
+</details>
 
 ## Claim Processing
 <details>

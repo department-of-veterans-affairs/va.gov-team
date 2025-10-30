@@ -11,7 +11,14 @@ assignees: ''
 _What details are necessary for understanding the specific work or request tracked by this issue?_
 
 ---
+## Appointment systems affected
+Check all appointment systems affected by or relevant to this task
 
+- [x] vistA
+- [x] HSRM
+- [x] CERNER (OH)
+- [ ] N/A
+      
 ## Development Checklist
 Background: the `toggle` toggle is on (remove if not needed)
 

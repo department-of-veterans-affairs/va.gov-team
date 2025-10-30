@@ -14,6 +14,8 @@ body:
         - document-status
         - evidence-requests
         - decision-letter-notifications
+        - intent-to-file (ITF)
+        - platform-health
         - other
     validations:
       required: true
@@ -201,31 +203,6 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: points
-    attributes:
-      label: Points
-      description: Enter a numeric value for story points if needed.  
-        ⚠️ This can be filled upon issue creation and refined during sprint planning.
-      placeholder: "e.g., 3"
-    validations:
-      required: false
-
-  - type: dropdown
-    id: priority
-    attributes:
-      label: Priority
-      description: |
-        Select the priority level for this issue.  
-        ⚠️ This can be set when creating the issue and refined later during backlog grooming or sprint planning.
-      options:
-        - Lowest
-        - Medium
-        - Highest
-        - Pinned
-    validations:
-      required: false
-
   - type: markdown
     attributes:
       value: |
@@ -233,13 +210,13 @@ body:
         ✅ **Reminder:**
 
         **Team Labels**
-        Please apply the correct **Team label** after selecting your team above:
+        Apply the correct **Team label** after selecting your team above:
         - `bmt-team-1` → Mavericks
         - `bmt-team-2` → Bee’s Knees
         - `bmt-team-3` → Phoenix
         - Or another team label if applicable
 
-        **Issue Type**
+        **Issue Type Labels**
         Make sure you select the right **Issue Type** in the dropdown above:
         - **Task** → Work to be done, implementation steps
         - **Bug** → Defect, error, or unexpected behavior
@@ -247,7 +224,26 @@ body:
         - **Question** → Clarification or decision needed
         - **Design** → UX/UI design, mockups, prototypes, content changes
         - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)
+        - **Spike**
+        - **Other**
 
-        **Issue Labels**
-        Apply any additional labels that may be relevant (e.g., issue type, priority).
-        This helps keep issues organized and ensures visibility across the Benefits Management Tools portfolio.
+        **Feature Labels**
+        Use labels to identify which product area the issue belongs to:
+        - `doc-status`
+        - `evidence-requests`
+        - `intent-to-file`
+        - Or other feature-specific labels as appropriate
+
+        **Workstream Labels**
+        Apply labels to indicate the discipline or focus area:
+        - `ux`
+        - `engineering`
+        - `frontend`
+        - `backend`
+        - `accessibility`
+        - `content`
+        - Or other workstream labels as appropriate
+
+        **Organization Labels**
+        Apply these labels to indicate cross-functional or process-related states that support workflow organization and team collaboration:
+        - **needs-refinement** → Apply this label to issues that require additional clarification, grooming, or estimation before prioritization. Remove this label once the issue has been refined and is ready for sprint planning.

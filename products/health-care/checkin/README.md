@@ -55,6 +55,7 @@
 - Slack groups
     - @backend (for BE or FS folks)
     - @frontend (for FE or FS folks)
+- [Onboarding](team/onboarding.md) to VA Enterprise Cloud/PagerDuty/GFE/etc
 - Meetings
     - Planning Meeting - occurs on the last Tuesday of each sprint (Lori owns via VA email)
         - Sprint Review

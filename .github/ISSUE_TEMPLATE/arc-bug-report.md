@@ -8,15 +8,19 @@ assignees: ''
 ---
 
 ## Expected vs. Actual
-**Expected**: _What did you expect to happen?_
+**Expected**: <!-- What did you expect to happen? -->
 
-**Actual**: _What actually happened?_
+
+**Actual**: <!-- What actually happened? -->
+
 
 ## Steps to Reproduce
-_Outline the steps to recreate this bug_
+<!-- Outline the steps to recreate this bug -->
+
 
 ## Examples
-_Include screenshots or screen recordings of the bug you're reporting_
+<!-- Include screenshots or screen recordings of the bug you're reporting -->
+
 
 ---
 #### How to configure this issue

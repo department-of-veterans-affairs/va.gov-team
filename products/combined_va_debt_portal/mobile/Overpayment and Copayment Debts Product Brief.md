@@ -43,13 +43,15 @@ The mobile app does not have any debt-related information for Veterans to access
 
 ### Key Performance Indicators (KPIs)
 
-* Total number of views of benefit overpayments and medical copayments. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.  
+* Total number of views of benefit overpayments and medical copayments from the **Activity tile**. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.
+* Total number of views of benefit overpayments and medical copayments from the **Payment tab**. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.   
 * Overall app volume. We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis.  
 * Total number of clicks on the link to access VA.gov. We expect that Veterans will want to request help or dispute their debt or copay, and that this non-zero amount will increase. We will track the total number of clicks on the links to access VA.gov on a monthly basis. 
 * Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
 * Total number of views of the PDF Copayment statements. We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
 * Total number of error alerts shown to the user. We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis. 
-* Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.  
+* Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
+* Total number of clicks on the copy button within the overpayments and copayment pay screens. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.  
 
 ### Supporting OCTO OKRs:
 
@@ -91,6 +93,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 ## Solution Approach
 
 * The MVP to provide Veterans with the ability to make a debt payment, request help with their debt, or dispute a debt will include linking them to their Debt Portal on VA.gov. In future iterations, we plan to allow Veterans to take these actions within app, so Veterans have a seamless user experience. As of April 2025, this is dependent on the Financial Management Team.
+* As of 10/6/2025 we will be implementing the new Copay API into the MVP release of Overpay/Copay. The MFS team will need to create the mobile API. 
 
 ## Decision Log
 
@@ -127,6 +130,11 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/18/2025| We will not include No History alert for MVP.| For Copayments the MFS engineers found code for this and Tom confirmed in [this](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758214709665539?thread_ts=1756484262.963509&cid=CPE4AJ6Q0) Slack message that we do not need to include this alert. |
 |9/22/2025| MFS will include the "It may take up to 4 business days for payments to reflect on your account" messaging under Current debts.| This decision aligns with the content that is on VA.gov and the decision is tracked in this [Slack](https://dsva.slack.com/archives/CPE4AJ6Q0/p1758204820816849?thread_ts=1757608693.242239&cid=CPE4AJ6Q0) thread. |
 |9/30/2025| Unauthenticated pages will open in web browser, unless it's a form.| This decision was provided to the MFS team during our UX Core Mobile sync.|
+|10/6/2025| The new Copay API data will be included in the MVP.| This decision was made by Denise and Michelle. The MFS team will be working to understand what design and content changes will need to be made. This will push out the release of Overpayments and Copayments to the mobile app.|
+|10/7/2025| Midpoint feedback was vetted and approved.| During our sync it was decided we would move forward with feedback, except that we did not need to immediately act on the copy account number layout for MVP. [Here](https://dsva.slack.com/archives/C07SD9P7XB9/p1759954661735949) is the Slack message to confirm what was discussed during that meeting. |
+|10/8/2025| Overpayments will be used in place of debts throughout design.| This content decision was announced in our FM//MFS sync and was feedback that was provided to the FM team.|
+|10/9/2025| Since MVP release will include the new copay API, we met with the PM of the FM Team to capture the design and content updates that need to be made to MVP.| We will now include transaction history, remove the following content, "any payments you've made will not be reflected here until our system are updated with your next monthly statement", and update content within transaction history to state "Recent statement charges". At the time of our sync, there were no new limited messages that we needed to include.|
+|10/21/2025| Completed Core Mobile Review.| This review occurred during our Core Mobile UX Review and feedback was documented in [this](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/955) ticket.|
 
 ## Features to consider for v2
 This information was collected from [research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/research-findings.md), as well as working with the FM team to understand what is currently implemented when MFS plans to release MVP. 
@@ -136,7 +144,6 @@ This information was collected from [research findings](https://github.com/depar
 |9/23/2025| Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from generic explanation.| Research needed on what is technically feasible.|
 |9/23/2025| Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.| Not currently technically feasible.|
 |9/23/2025| Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app.| Research needed: will PII always block adding letters? Research needed: what is allowed to be written?|
-|9/23/2025| Payment history for copays.|The FM team hopes to release this by EOY and will then work to include updates to mobile designs.|
 |9/23/2025| Notification of an overpayment debt or copayment bill.|Research needed and will want to have the new Copayment API implemented so that data is updated within a 24-hour period.|
 
 ## Reference Materials

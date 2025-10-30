@@ -98,7 +98,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 - [If “**Uncaught runtime errors**”, close with “X” (label “dismiss”) in top right corner, leave site if prompted. 
   - Check my browser window to see if codespace shut down. 
-  - If so, restart it. Then have them click on the Apple button to resume/start over.]
+  - If so, restart it. Then have them click on the Apron button to resume/start over.]
 
 # Warm-up Questions - 5 minutes
 
@@ -193,13 +193,13 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apple** button at the top of the page [to auth intro page and Task 2].
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apron** button at the top of the page [to auth intro page and Task 2].
 
 ### Path 1B: Participant finds form before signing in
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Lemon** button at the top of the page [to unauth intro page and Task 2].
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Umbrella** button at the top of the page [to unauth intro page and Task 2].
 
 [**Sign in to start your request**]
 
@@ -237,7 +237,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
   - To simulate that, could you please sign out now? 
-  - [Or ask to click on the Grapes button -- to Unauth VA.gov]
+  - [Or ask to click on the Hat button -- to Unauth VA.gov]
   
 - What do you think will happen to the information you entered?
   
@@ -250,11 +250,12 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 ## Task 5: Resume filling out form [from unauth VA.gov]
 OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
 
-- [Record how resume:]
-  - Sign in --> My VA (Mango) --> form card --> Continue your request
-  - Search/nav to unauth form intro (click on Grapes) --> Sign in --> auth form intro --> Continue your request
+- [If they're not on the unauth VA.gov home page, ask them click on the Hat button]
+- [Record how resume form:]
+  - Sign in --> My VA (Mittens) --> form card --> Continue your request
+  - Search/nav to unauth form intro (click on Hat) --> Sign in --> auth form intro --> Continue your request
 
-  - [If needed: **Unauth intro (Lemon) / Auth intro (Apple) / My VA (Mango)**]
+  - [If needed: **Unauth intro (Umbrella) / Auth intro (Apron) / My VA (Mittens)**]
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 

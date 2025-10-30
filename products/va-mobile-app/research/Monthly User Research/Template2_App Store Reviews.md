@@ -12,29 +12,6 @@ Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 a
 | = 4 | % | # |
 | = 5 | % | # |
 
-### Outline
-1. [General/other feedback](link)
-- [Positive](link)
-- [Negative](link)
-- [Neutral](link)
-
-2. [Common themes](link)
-
-3. [User pain point](link)
-
-4. [Feature specific feedback](link)
-- [Navigation](link)
-- [Login](link)
-- [Disability rating](link)
-- [Claims](link)
-- [Letters and documents](link)
-- [Profile](link)
-- [Payments](link)
-- [Travel pay](link)
-- [Messaging](link)
-- [Prescriptions](link)
-- [Feedback enhancements](link)
-
 ## General/other feedback
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. 
 
