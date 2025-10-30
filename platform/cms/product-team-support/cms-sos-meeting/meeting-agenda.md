@@ -7,6 +7,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 * Flagged Facilities - we will talk specifics about process on Monday but want to check in on if there are any outstanding items
 * Benfits detail pages - I saw there was work planned for PW, as a reminder these are in the middle of migrating and will be completed within the next 2 sprints
 * CLPs - There are instances of Draft content currently showing on prod, what should we do?
+* Sidenav? Maybe, depends on attendees
 * Rescheduling this meeting
 * First deployment after the code freeze is lifted.
 
