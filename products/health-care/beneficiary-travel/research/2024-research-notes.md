@@ -1,22 +1,4 @@
-# Travel Pay Omnichannel Collaboration 
-
-
-## In Progress
-
-- Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
-     - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
-     - [VA.gov Travel Pay Status Page v1 BT team epic #83824](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83824)
-- File a Mileage-only claim submission on VA.gov from a past Appointment in Collab Cycle(Beneficiary Travel, PCI)
-   - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 Kickoff notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/MeetingNotes/07-22-Mini-kickoff-for-travel-submission-and-Appointments-integration-on-VA.gov.md)
-     - [Joint Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
-     - [BT Discovery team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83828) and [BT Implementation team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
-     - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
-
-
-## Planned Future Work 
-
-- Check a travel claim status on VA.gov (Beneficiary Travel, PCI, Appointments)
-- Complex claim discovery (Beneficiary Travel)
+# Travel Pay Omnichannel Collaboration (Notes from Cara Frissell)
 
 ## Research 
    #### 2024
@@ -74,6 +56,20 @@
 - [Beneficiary Travel team - Figma file for simple milage-only travel reimbursements](https://www.figma.com/design/RzugGEmu4drhCSHTyQ6hjl/Simple-mileage-only-travel-pay-claim-submission?node-id=2111-5020&t=JXGQ8bTz8WPByS08-1)
 
 - [Userflow for filing for BT claim from past appointment on VA.gov - July 2024](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1722263210448/33062955940eb08d097dbd88a8dc98488ac2ffcc?sender=ucbacbd1daef36939e8aa2288)
+
+## Progress Notes from 2024
+- Travel Reimbursement Status Page is due to begin rollout in August 2024 (lead by Beneficiary Travel)
+     - [View in staging](https://staging.va.gov/my-health/travel-claim-status)
+     - [VA.gov Travel Pay Status Page v1 BT team epic #83824](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83824)
+- File a Mileage-only claim submission on VA.gov from a past Appointment in Collab Cycle(Beneficiary Travel, PCI)
+   - This work will leverage the mileage-only claim submission on VA.gov work currently in progress by Beneficiary Travel and PCI see more in [July 22 Kickoff notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/MeetingNotes/07-22-Mini-kickoff-for-travel-submission-and-Appointments-integration-on-VA.gov.md)
+     - [Joint Collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89153)
+     - [BT Discovery team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83828) and [BT Implementation team ticket](https://app.zenhub.com/workspaces/beneficiary-travel-btsss-65147e21930cd900223d8e64/issues/gh/department-of-veterans-affairs/va.gov-team/83829)
+     - [Appointments team ticket](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/issues/gh/department-of-veterans-affairs/va.gov-team/88032)
+
+## Planned Future Work 
+- Check a travel claim status on VA.gov (Beneficiary Travel, PCI, Appointments)
+- Complex claim discovery (Beneficiary Travel)
 
 ## Other Team Spaces 
 
