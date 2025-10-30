@@ -11,7 +11,7 @@ product_area: "authenticated"
 background:
   problem_statement: "Adding direct deposit content around Foreign Medical Program Claims that does not introduce confusion or misunderstanding from the Veteran about set up because it is a different process than other VA benefits."
   product_location: "Health care benefits hub"
-  user_familiarity: "New online form, testing new content additions"
+  user_familiarity: "New online form, testing new content addition comprehension"
   product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md"
 
 # Research Design
@@ -113,7 +113,7 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-**[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims.]**
+**[Understand perceived content comprehension on some proposed content around the direct deposit process for FMP claims for understanding that this operates as a separate process from disability benefits compensation direct deposit, a distinction that could easily confuse Veterans.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -134,12 +134,7 @@ Product Brief
 Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
@@ -157,13 +152,15 @@ Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure
 
 2. Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
 
-3. Gain insight into any improvements or recommendations to increase clairity of the direct deposit content for FMP claims.
+3. Gain insight into any improvements that could be made to increase clairity of the direct deposit process understanding for FMP claims for reimbursement.
   
 ### Outcome
 
 ---
 
 This research will gauge the risk of new direct deposit content on the FMP Registration form and a static page on VA.gov - so that it is not introducing confusion for Veterans or an increase in calls/processing work.
+- Reduction in support calls and outreach realted to FMP claims direct deposit
+- Improvement in the first time setup experience for direct deposit for FMP claims
 
 ---
 
@@ -179,19 +176,24 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 
 5. Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?
 
+6. How confident are Veterans in their understanding to set up direct deposit for FMP claims?
+
+
 
 ### Hypotheses
  
 ---
 
-- We assume that overall there will be some but minimal confusion about direct deposit being a separate process than what is used for VA Benefits.
-- Most Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
+- We assume that overall there will be some confusion about direct deposit being a separate process than what is used for VA Benefits when Veterans are filing an FMP claim.
+- Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
 
 ---
   
 ## Methodology  🛠️
 
-[Semi-structured interviews with a Figma prototype]
+- Semi-structured moderated interviews
+- Mid-fidelity Figma prototype
+	- The Figma prototype will not allow for form field interaction, but allow for navigation while answering interview questions pertaining to the content and comprehension
 
 
 ### Location
@@ -235,13 +237,13 @@ We would like to recruit 12 Veterans through Perigean, who have a mixed experien
     -  While you were living abroad
     -  I have never used my benefits
  
--  At least 2 participants who are female 
--  At least 2 participants who are 55 years or older 
+-  At least 2 out of the 8 participants who are female 
+-  At least 2 out of the 8 participants who are 55 years or older 
 
 
 #### Secondary criteria (nice-to-haves)
-- No more than 3 participants per each race/demographics category
-- No more than 2 particpants per any age category
+- No more than 3 out of the 8 participants per each race/demographics category
+- No more than 2 out of the 8 particpants per any age category
 
 
 ## Timeline 🗓️
