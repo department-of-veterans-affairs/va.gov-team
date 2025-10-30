@@ -100,7 +100,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 # Usability Actions & Ratings
 
+I am going to give you a scenario. You will then fill out the form as if you were this person, and complete a few taks in the prototype.
 For each of the following actions, please attempt the task as you naturally would. After each, I’ll ask you to rate how easy or difficult it was.
+
+Scenarios (alternating with each session)
+
+You are [Name], a funeral home representative. You are applying to schedule a burial for a deceased Veteran.
+or
+You are [Name], a Veteran with VA benefits. You are applying to schedule a burial for your deceased spouse.
 
 ---
 
@@ -186,7 +193,7 @@ After you’ve completed these actions, on a scale of 1 to 5, how easy or diffic
 <mark>**[Record overall rating and comments here]**</mark>
 
 # Post-Task Interview - 8 minutes
-
+- "What do you think happens now after you submit the form?"
 - "What part of the process felt most overwhelming or confusing?"
 - "Were there any parts of this form that you found to be unclear?
 - "Compared to calling the VA or an in-person visit, how would this compare?"
