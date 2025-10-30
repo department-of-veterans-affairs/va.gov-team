@@ -187,5 +187,5 @@ This research supports pursuing additional iterations and variants of Bar Chart 
 
 
 * Research Plan
-* Conversation Guide
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/VA-CDS-data-visualization-patterns/patterns/charting-library/bar-graph/bar-chart-and-svv-conversation-guide.md)
 * Mural Notes
