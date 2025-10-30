@@ -7,8 +7,8 @@
 - [Team Calendar and Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
 - [Product](#product)
-  - [Product Outline, Initiative Briefs and Documentation](#product-outline-initiative-briefs-and-documentation)
   - [Priorities, Sprints and Scrum Boards](#priorities-sprints-and-scrum-boards)
+  - [Initiative Briefs and Documentation](#initiative-briefs-and-documentation)
   - [Research](#research)
   - [Product Designs in Figma](#product-designs-in-figma)
   - [Production Support](#production-support)
@@ -41,7 +41,7 @@
 ## Team Calendar And Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
 - Email Distribution List -[VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
-- GitHub ticket label = `travel-pay'   
+- GitHub Project = [Travel Pay (BTSSS)](https://github.com/orgs/department-of-veterans-affairs/projects/1525/views/3)   
 - Office of CTO @ VA Slack Group
 
     | Channel | Use | 
@@ -62,7 +62,7 @@
 
 #### Initiative Briefs and Documentation
 - [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (As of 10/2/2025)
-- [Initial MVP - Status Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/status-page)
+- [Initial MVP-Status Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/status-page)
 - [Simple, Mileage Only Claim](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/SMOC)
 - [Claims Details V2]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
 - [Complex Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/complex-claims)
