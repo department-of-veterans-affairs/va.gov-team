@@ -18,12 +18,14 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 
 #### Q0
 ![image](https://github.com/user-attachments/assets/735d560d-1623-4045-a9c7-d1ed674bc112)
-- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", BOTH of the following two questions will be conditionally revealed later in the form flow. The Veteran is required to answer those questions. If the API is working and can locate the Veteran, this question will not appear.
+- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the API is working and can locate the Veteran, this question will not appear.
+   - For the 686 add dependent flow: If the Veteran answers "yes", BOTH of the following two questions will be conditionally revealed later in the form flow. The Veteran is required to answer those questions. If the Veteran answers "no", the questions will not appear.
+   - For the 674 flow: If the Veteran answers "yes", the following questions will not appear, but the student income section of the form flow will appear. If the Veteran answers "no", the following questions will not appear, and the student income section will not appear.
 
 -----
 #### Q1
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
-- This question is asked when a dependent is being added. The questions are not asked when a Veteran is only submitted a 674 or removing a dependent.
+- This question is asked when a dependent is being added. The question is not asked when a Veteran is only submitting a 674 or removing a dependent.
 - If yes, the claim will continue through to RBPS.
    - RBPS did ask VA.gov to off-ramp the claim for manual review review because the VA needs a complete income/asset picture via a 21P-0969 or 21P-8416
 - If no, the claim will continue through to RBPS
@@ -31,7 +33,7 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 -----
 #### Q2
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
-- This question is asked at the end of all dependent addition branches.
+- This question is asked at the end of all dependent addition branches in the 686 flow.
 - NOTE: VA.gov originally implemented language that asked if the Veteran's net worth was "greater than" the allowed limit because RBPS is looking for a "no" answer to auto-process these claims, but Jennifer Feuer from Pension and Fiduciary Services flagged that PF&S originally wanted the question to ask if the net worth was "less than" the allowed amount and RBPS would auto process claims that answered "yes". Given the discrepency between the original requirements (yes answer) and what RBPS implemented (no answer). The decision was made on 2025.09.29 by Sanja Bajovic and Jennifer Feuer to align the language of the questions on VA.gov to match what was implemented in the VA Call Center's CRM-UDO system and ask the Veteran if their net worth was "less than" the allowed amount. VA.gov will then reverse the question's answer in the json file that is sent to RBPS to align with the logic implemented in RBPS. If a Veteran indicates that "yes" their net worth is less than the allowed amount, VA.gov will reverse the answer and send a "no" to RBPS, which will allow RBPS to auto process the claim (as long as the answer to Q1 was also "no". Factors that led to this decision:
    - The VA Call Center's CRM-UDO system implemented the "less than" question in 2022, but it was never successful in sending the answers to RBPS (for unknown reasons). At the time VA.gov launched these pension-related questions in 2025, CRM-UDO did not have a maintenance team, and there was no timeline on when it may start sending values to RBPS.
    - RBPS has a backlog of issues and it was unclear when/if it could fix the implementation of this feature and correct the logic to look for a Y answer to the net worth question.
@@ -48,9 +50,9 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer, about the ORIGINAL i
 -----
 
 ### Functionalty Overview
-- If a Veteran who receives pension is adding a dependent, they should see the income and net worth questions.
+- If a Veteran who receives pension is adding a dependent (686), they should see the income and net worth questions.
 - If a Veteran who receives pension is removing a dependent, they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
-- If a Veteran who receives pension is only adding an exsting depndent as a student through the 674-only flow, they should not see the dependent income or net worth questions. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits.
+- If a Veteran who receives pension is only adding an exsting depndent as a student through the 674-only flow, they should not see the dependent income or net worth questions. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits, and that section will be conditionally shown based on the Veteran's pension status (determined through the API or throught Q0).
 - RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
 - DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
 
