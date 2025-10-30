@@ -1,6 +1,55 @@
 # Running Design and Research Agenda
 
 
+## October 30, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda 
+
+### Agenda 
+
+- FMP claims research study updates
+- [Tricare/CHAMPVA eligibility](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=8969-5389&p=f&t=qSMZbSsNaz5D727w-0) check design updates
+- [Duty to assist](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742221275311/1794184f6793a8f3f1a91a54447817403dc39fec)
+
+
+
+### Meeting Notes
+
+Now/next/later will be updated post team roadmap alignment 
+
+
+Talks through Sprint priorities being met, team picking up next items
+
+
+- FMP Research Plan
+Consider time zones and availability
+Time Zone convertor calc shared by Amanda: https://www.timeanddate.com/worldclock/converter.html?iso=20251030T190000&p1=263
+
+Action items: Check with Perigean during kick off call next week if the time slots are sufficient or if we need to adjust more
+
+Tricare Eligibility Flow
+- Walk through API DEERs integration and understanding
+- Some cases might required beneficiary information input which would be more cumbersome
+- Walked through designs using VADS Eligibility Pattern and hybrid
+
+Action items: UX time boxed research around edge use cases of extended family situations, API further understanding around needing to also enter in beneficiary info, not just the Veteran’s 
+
+
+Duty to Assist
+- Walked through three use cases and understanding at this time in the Mural
+1. Shoebox claims
+2. Sendback letter, resubmission flow
+3. Appeals
+
+
+Action items: Implementation to gather data and determine issue frequency, no front end edits (?)
+
+
+## October 23, 2025 - Cancelled
+
+
+
+
 ## October 2, 2025
 
 Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda, 
