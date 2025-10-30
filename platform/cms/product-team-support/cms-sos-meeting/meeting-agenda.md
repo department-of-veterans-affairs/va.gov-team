@@ -5,9 +5,22 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 10/30/2025
 * Flagged Facilities - we will talk specifics about process on Monday but want to check in on if there are any outstanding items
+
+Anything else that was outstanding from the Sitewide team? Renata -- we still have a few questions that we will raise on Monday's meeting. We have a few tickets that are blocked because the new URLs haven't and can't be published during the shutdown. 
+Action item: Renata will send Kelly the blocked tickets. Kelly will explore adding a new board to house both tickets. 
+
 * Benfits detail pages - I saw there was work planned for PW, as a reminder these are in the middle of migrating and will be completed within the next 2 sprints
+
+There's no immediate work, the work is in the future and will only be in Drupal. Fran will coordinate with Laura is there's any immediate issues that comes up with benefit details pages. 
+
 * CLPs - There are instances of Draft content currently showing on prod, what should we do?
+
+There are draft promos that are getting published on campaign landing pages. Randi will spot check the draft promos to make sure there's nothing terribly wrong with them and then published the draft promos. 
+
 * Sidenav? Maybe, depends on attendees
+
+Reverse the original decision. 
+
 * Rescheduling this meeting
 * First deployment after the code freeze is lifted.
 
