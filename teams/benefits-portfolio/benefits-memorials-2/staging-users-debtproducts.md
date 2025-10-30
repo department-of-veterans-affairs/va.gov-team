@@ -7,7 +7,8 @@ Product  | Staging URL |Use Cases|
 | Combined Debt Portal| https://staging.va.gov/manage-va-debt/summary| [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)|
 | Benefit Overpayment Debts |https://staging.va.gov/manage-va-debt/summary/debt-balances
 | Current Copay Balances |https://staging.va.gov/manage-va-debt/summary/copay-balances
-|FSR| https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction|
+|FSR| https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction| [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md) |
+|Digital Dispute| https://staging.va.gov/manage-va-debt/dispute-debt/introduction|
 
 ---
 # Staging Users for Debt Portal 
