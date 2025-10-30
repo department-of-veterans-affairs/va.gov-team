@@ -85,28 +85,15 @@ Production keys?
 We need to finalize the development api first. This will have to happen after the new team takes over.
 
 **How will we handle reminders?**
-Possible solutions:
-
-1. Expected reminders will be sent back with the appointment create response
-  - Pros:
-    - We have control
-    - No onboarding external team necessary
-  - Cons:
-    - We won't know if the appointment has been cancelled or changed in any way (**This is probably a non-starter**)
-2. The new team will be onboarded to VANotify and an dynamics action will trigger the reminder when it's needed
+The new team will be onboarded to VANotify and a dynamics action will trigger the reminder when it's needed
   - Pros:
     - No split brain problems
-  - Cons:
-    - More work for the external team
-    - Will take longer
-   
-
 
 ## Dev access
 
 - We have access to a dev environment referred to as Dev R&D
 - Includes link to interactive swagger
-- We need to be given access by the VASS team individually by providing va.gov emails
+- We have access to dynamics system that the staff uses to manage appointments
 - TODO: Postman collection to be added here(keys and instructions will be in onboarding email)
 - Can only be accessed on network GFE or Remote Desktop
 
