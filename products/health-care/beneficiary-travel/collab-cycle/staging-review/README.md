@@ -5,7 +5,7 @@
 - [x] **Test User Details**: [Travel Pay Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md)
 
 ## Product Artifacts
-- [x] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product-outline-btsss.md)
+- [x] [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md)
 
 ## Content artifacts
 - N/A
