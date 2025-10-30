@@ -1,4 +1,4 @@
-name: Accessibility Testing Artifact update
+name: Accessibility Testing Update Drops
 description: Complete required accessibility testing prior to your Staging review.
 title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
 labels: ["a11y-testing"]
@@ -91,8 +91,6 @@ body:
 
         ### Images
 
-        Ensure all non-text content is accessible.
-
   - type: dropdown
     id: web-111-001
     attributes:
@@ -160,8 +158,6 @@ body:
 
         ### Audio & video
 
-        Ensure multimedia content is perceivable.
-
   - type: dropdown
     id: web-122
     attributes:
@@ -228,8 +224,6 @@ body:
         <br/>
 
         ### Structure & semantics
-
-        Ensure your content is organized with clear, logical structure and proper semantic markup. 
 
   - type: dropdown
     id: web-131-001
@@ -346,8 +340,6 @@ body:
 
         ### Color, contrast, & sensory
 
-        Ensure information is not conveyed by color alone and meets contrast requirements.
-
   - type: dropdown
     id: web-133
     attributes:
@@ -415,8 +407,6 @@ body:
 
         ### Layout & responsiveness
 
-        Ensure content adapts to different screen sizes and zoom levels.
-
   - type: dropdown
     id: web-144
     attributes:
@@ -471,8 +461,6 @@ body:
         <br/>
 
         ### Keyboard & focus
-
-        Ensure all functionality is operable via keyboard and focus is visible.
 
   - type: dropdown
     id: web-211
@@ -565,8 +553,6 @@ body:
 
         ### Timing & interruptions
 
-        Ensure time limits and moving content do not interfere with accessibility.
-
   - type: dropdown
     id: web-222
     attributes:
@@ -585,8 +571,6 @@ body:
         <br/>
 
         ### Navigation & consistency
-
-        Ensure navigation is consistent and users can bypass repeated content.
 
   - type: dropdown
     id: web-241
