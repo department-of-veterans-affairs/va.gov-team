@@ -23,7 +23,6 @@ Outputs (lines + optional GITHUB_OUTPUT / GITHUB_ENV):
   RESEARCH_FILE=...
   RESEARCH_TITLE=...
   KEY_FINDINGS_B64=...
-  AUTHORS=...
   STUDY_DATE=...
   PRODUCT_PATH=...
 -------------------------------------------------------------------------------
@@ -43,7 +42,7 @@ MAX_FINDINGS_CHARS = int(os.environ.get("MAX_FINDINGS_CHARS", "2000") or 2000)
 PREVIEW_LIMIT = int(os.environ.get("PREVIEW_LIMIT", "200") or 200)
 KEY_SECTION_CANDIDATES = os.environ.get(
     "KEY_SECTION_CANDIDATES",
-    "Key findings,Key Findings",
+    "Key findings,Key Findings,Summary,Findings,Results,Insights",
 )
 
 GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
@@ -79,13 +78,6 @@ def run_git(args: List[str], cwd: Optional[Path] = None) -> str:
 def in_git_repo() -> bool:
     return run_git(["rev-parse", "--is-inside-work-tree"]) == "true"
 
-def get_authors(path: Path) -> str:
-    if not in_git_repo():
-        return "Unknown"
-    out = run_git(["log", "--format=%an", "--", str(path)])
-    authors = sorted({a for a in out.splitlines() if a.strip()})[:3]
-    return ", ".join(authors) if authors else "Unknown"
-
 def get_study_date(path: Path) -> str:
     date_str = ""
     if in_git_repo():
@@ -109,25 +101,27 @@ def extract_title(text: str) -> str:
             return line[3:].strip() or "Research Findings"
     return "Research Findings"
 
-def lines_after_heading(text: str, heading_pattern: str, max_lines: int = 20) -> Optional[str]:
+def lines_after_heading(text: str, heading_pattern: str, max_lines: int = 50) -> Optional[str]:
     lines = text.splitlines()
     capture = False
     collected: List[str] = []
-    heading_regex = re.compile(r"^##.*" + re.escape(heading_pattern), re.IGNORECASE)
-    any_h2 = re.compile(r"^##\s+")
+    # Match headings like "## Key Findings" or "# Key Findings" etc.
+    heading_regex = re.compile(r"^#+\s*.*" + re.escape(heading_pattern), re.IGNORECASE)
+    any_heading = re.compile(r"^#+\s+")
+    
     for line in lines:
         if not capture and heading_regex.search(line):
             capture = True
             continue
         if capture:
-            if any_h2.match(line):
+            # Stop when we hit another heading
+            if any_heading.match(line):
                 break
-            if line.strip():
-                collected.append(line)
-            else:
-                collected.append("")
+            collected.append(line)
+            # Stop if we've collected enough content
             if len([l for l in collected if l.strip()]) >= max_lines:
                 break
+                
     if not collected:
         return None
     return "\n".join(collected).strip()
@@ -135,18 +129,12 @@ def lines_after_heading(text: str, heading_pattern: str, max_lines: int = 20) ->
 def extract_key_findings(text: str) -> str:
     candidates = [c.strip() for c in KEY_SECTION_CANDIDATES.split(",") if c.strip()]
     for cand in candidates:
-        section = lines_after_heading(text, cand, max_lines=20)
+        section = lines_after_heading(text, cand, max_lines=50)
         if section:
             return section
     # fallback: first 10 non-empty lines after the first 3 lines
     lines = [l for l in text.splitlines()[3:] if l.strip()]
     return "\n".join(lines[:10])
-
-def flatten(text: str) -> str:
-    parts = [p.strip() for p in text.splitlines() if p.strip()]
-    flat = " ".join(parts)
-    # collapse multiple spaces
-    return re.sub(r"\s+", " ", flat).strip()
 
 def truncate(text: str, limit: int) -> str:
     if len(text) > limit:
@@ -188,10 +176,8 @@ def main() -> int:
         return 0
 
     title = extract_title(text)
-    raw_section = extract_key_findings(text)
-    flattened = flatten(raw_section)
-    key_findings = truncate(flattened, MAX_FINDINGS_CHARS)
-    authors = get_authors(file_path)
+    key_findings = extract_key_findings(text)
+    key_findings = truncate(key_findings, MAX_FINDINGS_CHARS)
     study_date = get_study_date(file_path)
     product_path = derive_product_path(file_path)
     key_findings_b64 = encode_b64(key_findings)
@@ -201,7 +187,6 @@ def main() -> int:
     emit(f"RESEARCH_FILE={file_path.as_posix()}")
     emit(f"RESEARCH_TITLE={title}")
     emit(f"KEY_FINDINGS_B64={key_findings_b64}")
-    emit(f"AUTHORS={authors}")
     emit(f"STUDY_DATE={study_date}")
     emit(f"PRODUCT_PATH={product_path}")
 

@@ -37,38 +37,11 @@ def main() -> int:
     repo = os.environ.get("GITHUB_REPOSITORY", "department-of-veterans-affairs/va.gov-team")
     sha = os.environ.get("GITHUB_SHA", "main")
     event_name = os.environ.get("EVENT_NAME", "")
-
-    # Get author and date from the research file
-    import pathlib
-    import pwd
-    file_path = pathlib.Path(research_file)
-    try:
-        stat = file_path.stat()
-        author = pwd.getpwuid(stat.st_uid).pw_name
-        date = stat.st_mtime
-        import datetime
-        study_date = datetime.datetime.fromtimestamp(date).strftime('%Y-%m-%d')
-    except Exception:
-        author = "Unknown"
-        study_date = "unknown"
-
-    # Extract key findings section from the research file
-    findings = ""
-    try:
-        with open(research_file, encoding="utf-8") as f:
-            lines = f.readlines()
-        in_section = False
-        for line in lines:
-            if line.strip().lower().startswith("# **key findings".lower()):
-                in_section = True
-                continue
-            if in_section and line.strip().startswith("#"):
-                break
-            if in_section:
-                findings += line
-        findings = findings.strip() or 'See full report for details'
-    except Exception:
-        findings = 'See full report for details'
+    study_date = os.environ.get("STUDY_DATE", "unknown")
+    
+    # Get the Key Findings that were properly extracted by process_research_file.py
+    key_findings_b64 = os.environ.get("KEY_FINDINGS_B64", "")
+    key_findings = b64_decode(key_findings_b64) or "See full report for details"
 
     url = f"https://github.com/{repo}/blob/{sha}/{research_file}" if research_file else f"https://github.com/{repo}/tree/{sha}"
     context_msg = "🧪 _Test notification - not tracked as shared_" if event_name == 'workflow_dispatch' else "✨ _Shared after waiting period_"
@@ -81,11 +54,10 @@ def main() -> int:
             {"type": "section", "fields": [
                 {"type": "mrkdwn", "text": f"*Study:*\n{title}"},
                 {"type": "mrkdwn", "text": f"*Product Area:*\n{product_path}"},
-                {"type": "mrkdwn", "text": f"*Date:*\n{study_date}"},
-                {"type": "mrkdwn", "text": f"*Author:*\n{author}"},
+                {"type": "mrkdwn", "text": f"*Date:*\n{study_date}"}
             ]},
             {"type": "divider"},
-            {"type": "section", "text": {"type": "mrkdwn", "text": f"*Key Findings:*\n{findings}"}},
+            {"type": "section", "text": {"type": "mrkdwn", "text": f"*Key Findings:*\n{key_findings}"}},
             {"type": "divider"},
             {"type": "actions", "elements": [
                 {"type": "button", "text": {"type": "plain_text", "text": "📖 Read Full Report", "emoji": True}, "url": url, "style": "primary"}
