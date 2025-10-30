@@ -41,7 +41,6 @@
 ## Team Calendar And Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
 - Email Distribution List -[VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
-- GitHub Project = [Travel Pay (BTSSS)](https://github.com/orgs/department-of-veterans-affairs/projects/1525/views/3)   
 - Office of CTO @ VA Slack Group
 
     | Channel | Use | 
@@ -63,8 +62,8 @@
 #### Initiative Briefs and Documentation
 - [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (As of 10/2/2025)
 - [Initial MVP-Status Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/status-page)
-- [Simple, Mileage Only Claim](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/SMOC)
-- [Claims Details V2]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- [Simple, Mileage Only Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/SMOC)
+- [Claims Details V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
 - [Complex Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/complex-claims)
 - [Community Care Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/community_care_appt_type)
 - Complex Mileage 
@@ -83,18 +82,17 @@
 - Work-In-Progress (Web | Mobile)
 
 #### Production Support
+- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md)
+    - [Individual Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/incidents)
 - Release Notes
 - Feature Flags
 - Responding to Veteran Complaints
 - Production & Training Support
-- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md)
-    - [Individual Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/incidents)
 
 #### Metrics and Medallia Feedback
 - [Datadog Management Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard)
-- [Datadog Monthly Metrics Dashboard]
-- [Google Analytics]
-- How to Request and Process VSignals Feedback
+- Datadog Monthly Metrics Dashboard
+- Google Analytics
 - How to Request and Process Medallia Feedback
 - Medallia URL Exclusion List
 - How to Generate an Analytics Report for VA Stakeholders
@@ -116,19 +114,19 @@
 - Zero Silent Failures 
  
 #### Code Repositories
+- [content-build](https://github.com/department-of-veterans-affairs/content-build)
 - [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
 - [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
 - [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata)
 - octo-vista-api
 - cie-staging-scheduler
-- [content-build](https://github.com/department-of-veterans-affairs/content-build)
 
 #### QA Testing 
+- [Staging Environment Test Account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#staging-user-nolle-barakat)
+- [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - Testing Setup
 - Instructions for Accessing Travel Pay in the Staging Environment
 - QA
-- [Staging Environment Test Account](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#staging-user-nolle-barakat)
-- [Testing for Travel Claim](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4fb13e011b8bdea026e3f39e669602de356c3104/products/health-care/beneficiary-travel/engineering/test.data.md)
 - TestRail Test Plans & Cases
 
 ## Additional Resources 
@@ -137,5 +135,4 @@ For questions, reach out to [Charlotte Reid](https://dsva.slack.com/team/U0959FK
 - [BTSSS Confluence](https://community.max.gov/pages/viewpage.action?pageId=2226803040)
 - [VA Master Product List](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 - [VA Product Document Template Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
-- FAQs
 - Media & Communications Items
