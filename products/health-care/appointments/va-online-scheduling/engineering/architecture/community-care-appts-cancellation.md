@@ -49,7 +49,6 @@ flowchart TD
 
 Notes:
 
-- We do not query for presence of the VAOS appointment; we already have the VAOS appointment ID when initiating cancellation.
 - EPS requires a valid `cancelReasonId`: we first retrieve reasons from EPS for the given appointment, select the one with `name == "Patient"`, and use its ID for the cancellation call.
 - If EPS cancellation fails after a successful VAOS cancellation, we attempt to revert VAOS to avoid divergence.
 - If any API call fails along the way, we send a VA Notify message to the Veteran.
