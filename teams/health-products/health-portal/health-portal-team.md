@@ -169,9 +169,11 @@ This cross-functional group serves as the Company points of contact for the deli
 | Name                                                           | DSVA SLACK |
 |----------------------------------------------------------------|------------|
 | Anthony Gravell                                                |            |
-| Ashish Manandhar                                               |            |
+| Michael Wellman                                                |            |
 | Lauren Cutrell                                                 |            |
-| Matthew Wright                                                 |            |
+| Maurice Johnson                                                |            |
+| Raji Venkatesh                                                 |            |
+| Lucas Davis* temporary                                         |            |
  
  ### Platform
  
