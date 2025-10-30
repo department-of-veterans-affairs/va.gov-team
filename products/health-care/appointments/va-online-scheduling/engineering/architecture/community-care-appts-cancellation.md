@@ -32,14 +32,15 @@ flowchart TD
 
     A[Start: Cancellation Requested] --> B[Cancel in VAOS using VAOS Appointment ID]
     B -->|Success| C[Fetch EPS Cancel Reasons]
-    B -->|Fail| F[Notify Veteran via VA Notify: "Cancellation failed in VAOS"]
+    B -->|Fail| F[Notify Veteran via VA Notify: Cancellation failed in VAOS]
 
-    C --> C1[Select cancelReasonId where name == "Patient"]
-    C1 --> D[Cancel in EPS using EPS Appointment ID + cancelReasonId]
+    C --> C1[Select cancelReasonId where name == Patient]
+    C1 --> D[Cancel in EPS using EPS Appointment ID and cancelReasonId]
 
-    D -->|Success| G[Done ✅ Both systems cancelled]
-    D -->|Fail| E[Revert VAOS to previous state]
-    E --> H[Notify Veteran via VA Notify: "Cancellation failed in EPS; VAOS reverted"]
+    D -->|Accepted| P[Poll EPS until state == cancelled or error]
+    P -->|Cancelled| G[Done - both systems cancelled]
+    P -->|Error/Timeout| E[Revert VAOS to previous state]
+    E --> H[Notify Veteran via VA Notify: Cancellation failed in EPS - VAOS reverted]
 
     F --> I[End]
     G --> I
@@ -70,30 +71,39 @@ sequenceDiagram
 
     Note over Client: Client has both VAOS and EPS appointment IDs
 
-    Client->>ApptController: PUT /vaos/v2/appointments/:vaosId { status: "cancelled" }
-    ApptController->>ApptService: update_appointment(vaosId, "cancelled")
-    ApptService->>VAOS: PUT /appointments/:vaosId { status: "cancelled" }
+    Client->>ApptController: PUT /vaos/v2/appointments/:vaosId { status: cancelled }
+    ApptController->>ApptService: update_appointment(vaosId, cancelled)
+    ApptService->>VAOS: PUT /appointments/:vaosId { status: cancelled }
     alt VAOS cancel succeeds
-        VAOS-->>ApptService: 200 OK { status: "cancelled" }
+        VAOS-->>ApptService: 200 OK { status: cancelled }
         ApptService-->>ApptController: success
 
-        Note over EpsController: Fetch cancel reasons to get cancelReasonId (name == "Patient")
+        Note over EpsController: Fetch cancel reasons to get cancelReasonId (name == Patient)
         ApptController->>EpsController: GET /eps_appointments/:epsId/cancel-reasons
         EpsController->>EpsService: get_cancel_reasons(epsId)
         EpsService->>EPS: GET /appointments/:epsId/cancel-reasons
         EPS-->>EpsService: 200 OK { cancelReasons: [...] }
         EpsService-->>EpsController: reasons
-        EpsController->>EpsController: select reason where name == "Patient"
+        EpsController->>EpsController: select reason where name == Patient
 
         EpsController->>EpsService: cancel_appointment(epsId, cancelReasonId)
         EpsService->>EPS: POST /appointments/:epsId/cancel { cancelReasonId }
-        alt EPS cancel succeeds
-            EPS-->>EpsService: 202 Accepted (or 200 OK)
-            EpsService-->>EpsController: accepted/success
+        EPS-->>EpsService: 202 Accepted
+        EpsService-->>EpsController: accepted
+
+        Note over EpsService: Poll EPS Appointment.show until state == cancelled or error
+        loop until cancelled or error (with timeout/backoff)
+            EpsController->>EpsService: get_appointment(epsId)
+            EpsService->>EPS: GET /appointments/:epsId
+            EPS-->>EpsService: 200 OK { state | error }
+            EpsService-->>EpsController: current state
+        end
+
+        alt EPS returns cancelled
             EpsController-->>ApptController: EPS cancelled
             ApptController-->>Client: 200 OK { both cancelled }
-        else EPS cancel fails
-            EPS-->>EpsService: 4xx/5xx error
+        else EPS returns error/timeout
+            EPS-->>EpsService: 4xx or 5xx error
             EpsService-->>EpsController: error
 
             Note over ApptService: Revert VAOS to avoid split-brain
@@ -103,14 +113,14 @@ sequenceDiagram
             VAOS-->>ApptService: 200 OK
             ApptService-->>ApptController: reverted
 
-            ApptController->>VANotify: send failure notification (EPS cancel failed; VAOS reverted)
-            ApptController-->>Client: 502/500 { cancel failed in EPS }
+            ApptController->>VANotify: send failure notification - EPS cancel failed, VAOS reverted
+            ApptController-->>Client: 502 or 500 - cancel failed in EPS
         end
     else VAOS cancel fails
-        VAOS-->>ApptService: 4xx/5xx error
+        VAOS-->>ApptService: 4xx or 5xx error
         ApptService-->>ApptController: error
-        ApptController->>VANotify: send failure notification (VAOS cancel failed)
-        ApptController-->>Client: 502/500 { cancel failed in VAOS }
+        ApptController->>VANotify: send failure notification - VAOS cancel failed
+        ApptController-->>Client: 502 or 500 - cancel failed in VAOS
     end
 ```
 
@@ -144,7 +154,8 @@ Suggested copy themes (final copy owned by product/content):
 3. Fetch EPS cancel reasons: `GET /appointments/:epsAppointmentId/cancel-reasons`
    - Select the reason with `name == "Patient"` → `cancelReasonId`
 4. Cancel EPS appointment: `POST /appointments/:epsAppointmentId/cancel { cancelReasonId }`
-   - If this fails → revert VAOS appointment to its prior state, then notify via VA Notify
+   - EPS responds 202 Accepted. Then poll `GET /appointments/:epsAppointmentId` until `state == cancelled` or error (with timeout/backoff). See Wellhive docs on cancellation polling [here](https://github.com/wellhive/api-docs#6-cancel-an-appointment).
+   - If EPS returns error or polling times out → revert VAOS appointment to its prior state, then notify via VA Notify
 5. Success: both systems reflect cancelled state
 
 Logging & tracing:
@@ -154,3 +165,7 @@ Logging & tracing:
 Risk considerations:
 
 - If EPS fails and VAOS can’t be reverted, we could end up with conflicting states. Product decision needed for how to message the Veteran and coordinate follow-up.
+
+Implementation notes:
+
+- The polling pattern mirrors appointment submission polling already used in our booking flow; reuse the same backoff/timeout strategy for cancellation to keep behavior consistent.
