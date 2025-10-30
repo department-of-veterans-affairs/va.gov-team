@@ -1,4 +1,4 @@
-# [Onboarding checklist thoughts (WIP)](https://adhoc.slack.com/archives/C0965STG404)
+# [Onboarding Checklist (WIP)](https://adhoc.slack.com/archives/C0965STG404)
 
 **General** 
 
