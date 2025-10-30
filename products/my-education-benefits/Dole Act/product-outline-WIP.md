@@ -19,9 +19,9 @@ How might we allow GI Bill beneficiaries streamlined and easy access to importan
 ## Desired Business Outcomes
 
 Allowing GI Bill beneficiaries access letters and documents relating to their education benefits will:
+- Improve and quicken communications between the VA and GI Bill beneficiaries
 - Reduce Ask VA requests
 - Reduce costs related to printing and mailing of letters
-- Improve and quicken communications between the VA and GI Bill beneficiaries
 - Provide a consolidated secure location for important documentation relating to a GI Bill beneficiaries education benefits, ultimately streamlining and improving the Veteran's experience
 
 ---
