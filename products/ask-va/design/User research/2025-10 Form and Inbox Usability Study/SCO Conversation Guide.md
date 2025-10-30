@@ -154,6 +154,7 @@ Now show us how you would use Ask VA to submit your documentation.
 - On a scale from 1-5, how satisfied were you with this process?   
   	*1 being very unsatisfied, and 5 being very satisfied*
 
+- How do you feel about the length of the form?
 - What did you like about using Ask VA to submit documentation? What didn’t you like?   
 - What would you do next after submitting? What would you expect Ask VA to do next?
 - What differences might you expect when completing the form as a Veteran rather than as an SCO?
