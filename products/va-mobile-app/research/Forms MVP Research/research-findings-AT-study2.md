@@ -370,7 +370,7 @@ In the future we recommend testing further with Android users.
 ## Appendix
 [Product Outline]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/archive/2021/Product-Outline.md))
 
-[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-Plan.md)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-plan-AT.md))
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-plan-AT.md))
 
 [Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide-AT.md)
 
@@ -379,7 +379,8 @@ In the future we recommend testing further with Android users.
 
 ## Tools used for Synthesis
 
-- Excel Spreadsheet 
+- Excel Spreadsheet  
+- Ai Synthesis, Github CoPilot
   
 ## Pages and applications used
 
