@@ -169,7 +169,7 @@ This information was collected from [research findings](https://github.com/depar
 <details>
    
  - PM: Natalie Gibbons  
- - Engineering: Alex Teal  
+ - Engineering: Dave Formanek 
  - Design: Natasha Huckleberry
  - Research: Emily DeWan
 
