@@ -32,7 +32,7 @@ flowchart TD
 
     A[Start: Cancellation Requested] --> B[Cancel in VAOS using VAOS Appointment ID]
     B -->|Success| C[Fetch EPS Cancel Reasons]
-    B -->|Fail| F[Notify Veteran via VA Notify: Cancellation failed in VAOS]
+    B -->|Fail| F[Notify via VA Notify and return error to Frontend]
 
     C --> C1[Select cancelReasonId where name == Patient]
     C1 --> D[Cancel in EPS using EPS Appointment ID and cancelReasonId]
@@ -40,7 +40,7 @@ flowchart TD
     D -->|Accepted| P[Poll EPS until state == cancelled or error]
     P -->|Cancelled| G[Done - both systems cancelled]
     P -->|Error/Timeout| E[Revert VAOS to previous state]
-    E --> H[Notify Veteran via VA Notify: Cancellation failed in EPS - VAOS reverted]
+    E --> H[Notify via VA Notify and return error to Frontend]
 
     F --> I[End]
     G --> I
