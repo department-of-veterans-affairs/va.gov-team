@@ -18,7 +18,7 @@ The online 686c form allows Veterans to add or remove dependents from their VA d
 - [Security Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/686-674_Playbook_Security.md)
 - Engineering [readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/engineering/README.md)
 
-## Vison
+## Vision
 VA’s vision for Dependents Management on VA.gov is to create an accessible, efficient experience for Veterans and their families to manage and verify dependent information. This will ensure appropriate financial calculations and prevent over- (resulting in debt) and under-payments.
 
 ## Problem Statement
