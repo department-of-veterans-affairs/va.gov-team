@@ -29,11 +29,10 @@
   - [Charlotte Reid](https://dsva.slack.com/team/U0959FK0X89)
 - Engineering Lead
   - [Kevin Duensing](https://dsva.slack.com/team/U01NU8D1Q5B)
-- Full Stack Engineers
+- Engineering Team
+  - [Belle Poopongpanit](https://dsva.slack.com/team/U0792S0B4TH)
   - [Calvin Cieslak](https://dsva.slack.com/team/U0894STJS9F)
   - [Peri McLaren](https://dsva.slack.com/team/U06AWAQGJQ4)
-- Mobile Engineers
-  - [Belle Poopongpanit](https://dsva.slack.com/team/U0792S0B4TH)
   - [Sam Cohen](https://dsva.slack.com/team/U0928AG5MGF)
 - Research & User Experience
   - [Kristen Faiferlick](https://dsva.slack.com/team/U03SWD93525)
