@@ -9,4 +9,4 @@ Last updated: 27 Oct 2025
 
 ## Presentations
 
-- [Monospaced Fonts slides (PDF)](files/Supporting-readability-through-proportional-fonts.pdf) from MHV Patient Portal Design CoP Sync 27 Oct 2025
+- [Supporting readability through proportional fonts (PDF)](Supporting-readability-through-proportional-fonts.pdf) — presentation at Monday, Oct 27, 2025 MHV Patient Portal Design CoP Sync to discuss use of monospaced fonts
