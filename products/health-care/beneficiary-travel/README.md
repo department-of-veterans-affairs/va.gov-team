@@ -56,26 +56,25 @@
 
 ## Product
 
-#### Product Outline, Initiative Briefs and Documentation
-- [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (As of 10/2/2025)
-- [Simple, Mileage Only Claim Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/SMOC/smoc_initiative%20brief.md) (As of 5/2025)
-- [Claims Details V2 Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)  (As of 10/13/2025
-- [Complex Claims Initiave Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/complex-claims/complex-claims-initiative-brief.md)   (As of 10/13/2025)
-- Complex Mileage Initiave Brief
-- Community Care Appointments Initiative Brief
-- Non-Existent Appointments Initiative Brief
-- Product Guides 
-  - How to Update Product Guides 
-
 #### Priorities, Sprints And Scrum Boards
 - [Priorities](https://github.com/orgs/department-of-veterans-affairs/projects/1713/views/2?sliceBy%5Bvalue%5D=%F0%9F%9A%97+Ursa+Minor+%28Travel%29) (UAE Roadmap)
 - [Scrum Board & Sprint Goals](https://github.com/orgs/department-of-veterans-affairs/projects/1525)
 
+#### Initiative Briefs and Documentation
+- [Travel Pay Primary Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/README.md) (As of 10/2/2025)
+- [Initial MVP - Status Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/status-page)
+- [Simple, Mileage Only Claim](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/SMOC)
+- [Claims Details V2]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- [Complex Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/complex-claims)
+- [Community Care Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/initiatives/community_care_appt_type)
+- Complex Mileage 
+- Non-Existent Appointments 
+
 #### Research
 - [Beneficiary Travel Blueprints](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712673980094/648adf9a347a7618219b71f7923b48ffa09764f6?wid=126-1718154129143&sender=ucbacbd1daef36939e8aa2288)
-- [Veteran and staff research studies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#research)
+- [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)
+- Veteran and staff research studies
 - Beneficiary travel reimbursement discovery and research findings
-- [Path analysis research plan](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/104)   (POSSIBLY DELETE)
 
 #### Product Designs (Figma)
 - [Design Artifacts & Other Resources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/Omnichannel-Collaboration#design-artifacts-and-other-resources)  (Pre 2024)
@@ -85,13 +84,11 @@
 
 #### Production Support
 - Release Notes
-- Feature Flags- Responding to Veteran Complaints
+- Feature Flags
+- Responding to Veteran Complaints
 - Production & Training Support
-- Incident Reports
-  - Incident Response Playbook
-  - How to Send SNOW Incident Reports
-  - How to Set System Down Window Notifications
-  - Incident Management on VA.gov
+- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md)
+    - [Individual Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/incidents)
 
 #### Metrics and Medallia Feedback
 - [Datadog Management Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard)
