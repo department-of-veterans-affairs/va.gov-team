@@ -1,4 +1,4 @@
-## Travel Pay SMOC (Simple Mileage Only Claims) Quantitative Measures of Success
+## Travel Pay SMOC (Simple Mileage Only Claims) Quantitative Measures of Success  (VAHB)
 This page contains quantitative data intended to measure whether SMOC was successful. 
 
 Helpful links to calculate metrics:
