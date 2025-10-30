@@ -43,6 +43,8 @@ The Data Visualization team will conduct semi-structured interviews using intera
 * Clinicians will find the SVV useful in gathering quick information to plan out their work week.
 * Clinicians will be able to easily interpret the information that is being presented on the Bar Charts.
 
+# Research Materials:
+[Figma Prototype](https://www.figma.com/proto/y2tH8ZpfcFQEekwbTB1WB8/Clinical-Design-System-Sandbox?page-id=17754%3A2&node-id=18273-12847&viewport=-455%2C-29%2C0.03&t=q7bDtm7769sdJRZl-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18273%3A14250&show-proto-sidebar=1)
 
 # Recruitment:
 
