@@ -1,1 +1,0 @@
-# Incident Investigation Traceability Template
