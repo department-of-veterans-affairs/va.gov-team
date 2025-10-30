@@ -156,6 +156,7 @@ Now show us how you would use Ask VA to get help.
 - On a scale from 1-5, how satisfied were you with this process?   
   	*1 being very unsatisfied, and 5 being very satisfied*
 
+- How do you feel about the length of the form you completed?
 - What did you like about using Ask VA to ask a question? What didn’t you like?   
 - What would you do next after submitting your question here? What would you expect Ask VA to do next?
 
