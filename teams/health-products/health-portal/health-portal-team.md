@@ -103,7 +103,7 @@ This cross-functional group serves as the Company points of contact for the deli
 | Mario Williams   | TBD                                                               |
 | Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
 | Sofia Cordero    | [@Sofia Cordero](https://dsva.slack.com/team/U09F37D0FJ4)         |
-| Fiona Tang       | TBD                                                               |
+| Sophia Tang      | [@Soph](https://dsva.slack.com/team/U09LWD8FU3U)                                                              |
 | Espy Thomson     | [@Espy Thomson](https://dsva.slack.com/team/U09DMMWR3RS)          |
 
 
