@@ -1,6 +1,6 @@
 # Identity Team
 
-Welcome to the Identity folder. This directory contains information about user identity on [Va.gov](http://va.gov/). You'll find documentation on things like login, personalization, profile, and more.
+The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
 
 **New to Identity?** Check out [Getting Started with Identity here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity#get-started-with-identity)
 
