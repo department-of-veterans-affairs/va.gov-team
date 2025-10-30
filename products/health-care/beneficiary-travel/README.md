@@ -89,7 +89,7 @@
 - Responding to Veteran Complaints
 - Production & Training Support
 
-#### Metrics and Medallia Feedback
+#### Analytics and Medallia Feedback
 - [Datadog Management Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard)
 - Datadog Monthly Metrics Dashboard
 - Google Analytics
