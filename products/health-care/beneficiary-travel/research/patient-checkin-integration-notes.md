@@ -1,4 +1,4 @@
-# PCI Integration Whiteboard
+# Patient Check-In Integration Whiteboard
 
 ## Notes
 
