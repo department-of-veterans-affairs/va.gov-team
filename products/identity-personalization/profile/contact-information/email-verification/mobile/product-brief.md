@@ -55,6 +55,9 @@ The VA wants to ensure that important email communications reach Veterans on the
   * Initial Launch (TBD on release, but Authenticated Experience is aiming for FY26Q1)
   * Annual reminder (this annual reminder is sent a year from when the user verified their email)
   * When a user adds a new contact email
+* Contact email alerts: 
+  * Contact email not confirmed
+  * Contact email confirmed 
 * Alerts will follow the same pattern that the VA Mobile app team has established and be displayed within the following locations of the VAHB app:
   * Home page
   * Profile
