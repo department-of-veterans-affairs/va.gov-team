@@ -75,7 +75,7 @@ The following section aggregates the themes from the two above open text field q
 * “**The system indicates I have overdue bills,** when I call to pay them, I am told I don't have any outstanding balances.”  
 * “Received letter stating I have a debt and how to pay online.  **Online says I don't owe anything.”**
 
-A few responses mentioned the following difficulties:
+### **A few responses mentioned the following difficulties:** 
 
 * Trouble logging in  
 * Long hold times or no response from call centers  
