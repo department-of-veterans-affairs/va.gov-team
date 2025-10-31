@@ -80,7 +80,8 @@ The VA wants to ensure that important email communications reach Veterans on the
 ## Out of scope for VAHB Email Confirmation
 
 * We will not include the alert within the notification settings of the VAHB app.
-* Interstitials will not be included on the app. 
+* Interstitials will not be included on the app.
+* Push notifications to a user. 
 
 ## Solution Approach
  
