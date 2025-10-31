@@ -230,9 +230,8 @@ Now that you’ve looked at the combined statement, and each individual sections
 
 *[combined statement – alternate showing participants version A or B](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A430&node-id=4705-140663&p=f&viewport=-4160%2C-130%2C0.43&t=eljtTOe5JSXsQqyB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4705%3A140663&show-proto-sidebar=1&hotspot-hints=0)*
 
-Now we’ll look at some designs for the mobile app that currently do not exist. I'd like you to look at this screen as if you were actually opening the app to check on your debt and bills. Take a moment look and tap around and tell me what you're noticing. I'll ask some questions once you've explored a bit.
+Now we’ll look at some designs for the mobile app that currently do not exist.
 
-* Where would you expect to find the combined statement?
 * What are your first impressions?
 * How clear and understandable is everything here?
 * Are there details missing that would be important to you?
@@ -262,6 +261,8 @@ I’ll have you look at the individual sections now – please head to the [eith
 <br></br>
 
 *(wrap-up)*
+
+Where would you expect to find the combined statement?
 
 Any other thoughts about the combined statement?
 
