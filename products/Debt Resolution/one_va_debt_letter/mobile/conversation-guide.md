@@ -263,7 +263,7 @@ I’ll have you look at the individual sections now – please head to the [eith
 
 *(wrap-up)*
 
-Any other thoughts about the combined statement
+Any other thoughts about the combined statement?
 
 Are there other thoughts about managing your finances from the app that you haven't yet shared?
 
