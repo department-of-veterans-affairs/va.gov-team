@@ -46,7 +46,7 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
 * How often do you sign-into your health portal online?
 * Can you tell me about the last time you signed in to do something for your care?
   * How was that experience for you?
-* On a scale of 1-5, one being very uncomfortable and 5 being very comfortable, how do generally feel about learning new websites or apps?
+* On a scale of 1-5, one being very uncomfortable and 5 being very comfortable, how do generally feel about learning new websites or apps? Probe: What makes you say that? Why x instead of 5 or 1?
 
 ## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
 Thanks for answering those questions. I want to transition us to exploring your patient portal together. First I want you to share your screen. Is that something you've done before?
@@ -61,6 +61,8 @@ Great, now I can see your screen!
 ### Sign in and show us how they access their patient portal
 Could you show me how you typically get to your patient portal to manage your healthcare online now?
 [Give user time to sign-in]
+
+Ok, can you describe what you see now.  Tell me about this page. 
 
 **Task 1:** Can you show me how you would check to see details for an upcoming appointment?
 Prompts if needed: 
@@ -90,6 +92,9 @@ Okay, thank you so much for showing us how you navigate your health portal and a
 - Great. In the chat I just dropped a link to the prototype. Can you select that link? It will open up in a web browser momentarily.
 - Like I said before, this is not an actual website, it is a prototype. But it will look a lot like the VA.gov website and we will show you some ideas that we exploring.
 
+**Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
+
+
 ### Task 1 - Appointments
 Okay looks like you have the prototype open. As a reminder, the back button on this screen will not work as you expect. Instead you'll need to use the prototype back and forth arrows to navigate back or forward a screen. Do you have any questions about that? 
 
@@ -98,11 +103,17 @@ Great!
 Just like you showed me before when we were signed into your patient portal, I'd like you to now use this prototype and show me where you'd go to check on details for an upcoming appointment. Please talk out loud as you click things or read things. It's really helpful to understand your thought process and what's clear to you or confusing. 
 
 _Participant "signs in" using simulated sign-in in prototype and lands on My VA page._
+
+**Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
+
 * From here, what would you do to check appointment details for that upcoming appointment? How would you find what time of day that appointment is at?
   * _Does the participant see information in the "upcoming appointment" card on My VA Page? Navigate to My HealtheVet? Other?_
   * Prompt participant to go to appointments if they do not do this on their own.
 
 #### On the appointments page
+
+**Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
+
 _Participant navigates to appointments tool. There should be a blue expandable alert communicating the transition._
 * _Does participant just look for appointment details directly?_
 * _Are they surprised by seeing appointments data on VA.gov?_ 
@@ -142,6 +153,9 @@ Now that you know you can complete tasks here on My HealtheVet on VA.gov, I'd li
 _Observe: How does the user navigate to a different tool?_
 
 _Participant lands on the Medications tool, gets to the Refill page._
+
+**Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
+
 * Does it surprise you to see that blue alert on this page, too?
   * What else do you notice on this page?
 * Would you want to continue refilling your medication here on VA.gov, or would you prefer to go back to My VA Health to complete your prescription refill request?
@@ -149,6 +163,8 @@ _Participant lands on the Medications tool, gets to the Refill page._
 * If you ran into an issue trying to refill it here on VA.gov and needed help with something, what would you do?
 * What makes you feel like you can trust this experience? What makes you feel hesitant?
 * Do you feel confident that this experience would give you accurate information? What makes you say that?
+* What tells you that a website is secure and trustworthy? What do you look for or look to see?
+* What tells you that a website is NOT secure and trustworthy? What does a "red flag" look like to you?
 * Let's say you came home today and realized that My VA Health shut down permanently. How would you feel about that?
 * What's the ONE thing you'd miss from My VA Health?
 * What's the ONE thing that would need to be true about this portal for you to feel confident switching completely?"
