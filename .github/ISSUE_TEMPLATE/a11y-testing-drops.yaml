@@ -12,7 +12,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see #5 Next Steps).
+        This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see #4 Next Steps).
         
         ### Why we ask VFS teams to do accessibility testing
         The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
@@ -27,7 +27,7 @@ body:
 
         The full checklist can be found in the [Prepare for an accessibility staging review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) documentation.
 
-        Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments.
+        Complete all required checks and as many recommended checks as you can. If you can't complete a required check, please explain why in the comments. 
 
         If a check is not applicable to your product, mark it as "N/A".
   - type: checkboxes
@@ -776,9 +776,9 @@ body:
     id: logged
     attributes:
       label: Report identified issues
-      description:  "For any issues identified during your testing, please report them as part of your staging review. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket."
+      description:  "For any issues identified during your testing, please report them as part of your staging review. Use this checklist for each finding. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket."
       options:
-        - label: Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
+        - label: Log each issue individually using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
         - label: Assign to `jasonday` and add the `a11y-testing` label.
         - label: Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
         - label: Provide a link to each issue logged in a comment on this ticket.
