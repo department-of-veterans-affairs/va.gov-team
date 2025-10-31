@@ -70,7 +70,7 @@ Are there moments that matter?</summary>
 
 **Goal 2: Identify Veteran needs, expectations, and preferences for viewing and interacting with a combined statement of outstanding debts on mobile.**
 
-`6.` In what situations would they use a combined statement?
+`6.` How do the use cases differ between individual copay statements and debt letters vs combined statements?
 
 `7.` What actions or decisions would they want to take when viewing a combined statement, and is that different from viewing only individual statements?
 
@@ -80,9 +80,6 @@ Are there moments that matter?</summary>
 
 `10.` Is having a downloadable PDF of the combined statement important when using a phone?
 
-`11.` How do the use cases differ between individual copay statements and debt letters vs combined statements?
-
-`12.` Is there additional information Veterans wish were included in a combined statement?
 
   
 ### Outcome
