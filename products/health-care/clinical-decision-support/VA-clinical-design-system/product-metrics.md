@@ -40,6 +40,10 @@ The breakpoint and elevation tokens became available towards the end of FY25 Q3 
 
 **Mutual Support within the Collaborative** LCS implemented the data grid and provided 4 technial enhancement contributions to the pattern. The CDSC HCD Community of Practice has been actively supporting with feedback and research to the Clinical Design System team in the conception of the menu, multi select, date range picker slim variant, single value visualization, and the chart library. 
 
+#### Reference
+- [FY25 Q4 Survey](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/Shared%20Documents/General/Clinical%20Design%20System/Clinical%20DS%20Metrics/FY25%20Q4%20VA%20Clinical%20Design%20System%20Usage%20Survey.xlsx?d=w9a97791d11894abc8fac3f510f919c78&csf=1&web=1&e=fcdHk3)
+- [FY25 Q4 Synthesis](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/Shared%20Documents/General/Clinical%20Design%20System/Clinical%20DS%20Metrics/FY25%20Q4%20Synthesis%20of%20VA%20CDS%20Design%20System%20Usage%20Metrics.xlsx?d=w26e79d88b9c043abb70a82b0ba75dddc&csf=1&web=1&e=Gw1dn1)
+
 ## Synthesis
 ### FY25 Q3 Summary
 **Usage of Clinical Design System** At the end of June 2025, we surveyed teams on their usage of the Clinical Design System. The metrics indicate that each team is continuing their effort to use the Clinical Design System. The Clinical Decision Support Collaborative has five product teams. The commonly used are the alert, button, date picker, icon, link, modal, and select components. Commonly used is defined as implemented by 4 - 5 teams. 
