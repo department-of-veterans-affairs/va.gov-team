@@ -127,6 +127,7 @@ Now I'd like to ask you about times that you're actively managing these debts an
 * Are there things that prompt you to take action on any of these debts or bills?
 
 Thinking about both the overpayment and the copays together, talk to me about how you think of them both overall within your greater financial realm.
+* How are you organizing that in your head? Do you think of overpayments and copay bills as related or separated?
 * Are you making payments at the same or similar time for both?
 * What is your method for making sure you make these payments in a timely fashion?
 * How are you currently managing any debts and bills that you have? Are you keeping track of anything from both?
@@ -154,6 +155,7 @@ Before tapping on anything: looking at this page, what stands out to you as bein
 * When might you look at your combined statement?
     * Before you tap into that, what do you expect to find in the combined statement?
 * Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
+    * Can you tell me why?
 <br></br>
 
 *(Combined statement)*
@@ -165,6 +167,7 @@ Now tap into that combined statement please
 * How does this compare to what you were expecting?
 * What information would you want here to make this a useful tool?
 * In what situations would you use this combined statement?
+* On a scale of 1-5, how overwhelming does this feel to you?
 * What actions or decisions would you want to make when viewing this? Is it any different than viewing individual statements?
 * How would you prefer to interact with this information? (e.g. email, mobile app, desktop, PDF, physical copy)
 <br></br>
@@ -225,7 +228,7 @@ Now that you’ve looked at the combined statement, and each individual sections
 
 *[combined statement – alternate showing participants version A or B](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A430&node-id=4705-140663&p=f&viewport=-4160%2C-130%2C0.43&t=eljtTOe5JSXsQqyB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4705%3A140663&show-proto-sidebar=1&hotspot-hints=0)*
 
-Now we’ll look at some designs for the mobile app that currently do not exist.
+Now we’ll look at some designs for the mobile app that currently do not exist. I'd like you to look at this screen as if you were actually opening the app to check on your debt and bills. Take a moment look and tap around and tell me what you're noticing. I'll ask some questions once you've explored a bit.
 
 * Where would you expect to find the combined statement?
 * What are your first impressions?
@@ -242,6 +245,11 @@ Now we'll look at another version of this combined statement
 * What are your thoughts on this one?
 * How does it compare to the other version?
 * Is there one you prefer over the other?
+
+Now, considering both of the combined statements:
+* Imagine you had full control over what you're seeing here. What would you add, remove, or change?
+* Is there anything that could be changed to make this easier to use?
+
 <br></br>
 
 *(individual: overpay or copay)*
