@@ -276,7 +276,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - `[November 12, Wednesday, 9:30AM - 6PM] EST`
 - `[November 13, Thursday, 9:30AM - 6PM] EST`
-- `[November 14, Friday, 12:30AM - 6PM] EST`
+- `[November 14, Friday, 12:30PM - 6PM] EST`
 - `[November 17, Monday, 2PM - 6PM] EST`
 - `[November 18, Tuesday, 12:30PM - 6PM] EST`
 - `[November 19, Wednesday, 9:30AM - 6PM] EST`
