@@ -4,8 +4,10 @@ author: "Emily DeWan"
 date_created: "2025-10-07"
 last_modified: "2025-10-29"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
+  - "mobile app"
+  - "overpayment debt"
+  - "copayments"
+  - "discovery research"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
 
