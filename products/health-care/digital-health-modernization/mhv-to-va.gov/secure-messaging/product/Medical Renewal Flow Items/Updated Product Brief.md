@@ -18,10 +18,11 @@ As a Veteran with an expired medication, I need to have a clear way to request a
 User has an expired prescription User has an expired prescription
 Or an active med with 0 refills left and opens up an secure message that is pre-filled to request a prescription renewal.
 
--We need a digital way to submit renewal requests for medications.
+1. We need a digital way to submit renewal requests for medications.
 
 
--We need the ability for patients to send a renewal request via messaging that contains the relevant information for providers and pharmacists so as to expedite the renewal request
+
+2. We need the ability for patients to send a renewal request via messaging that contains the relevant information for providers and pharmacists so as to expedite the renewal request
 
 ### Requirement for RX  Renewal
 
