@@ -107,3 +107,10 @@ sequenceDiagram
     V->>V: Check OTC in Redis
     V-->>F: Return EDIPI if valid
 ```
+
+
+### Questions:
+
+Are we going to need to send the confirmation emails?
+
+
