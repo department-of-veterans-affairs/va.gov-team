@@ -7,6 +7,7 @@ View platform docs [QA Standards](https://depo-platform-documentation.scrollhelp
 Don't forget to update the [collab cycle tikcet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121309)
 
 ## Regression test plan
+The forms we are introducing are brand new to va.gov
 
 ## Test plan
 
