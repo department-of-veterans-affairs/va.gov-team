@@ -1,6 +1,6 @@
 # Prefill Data - Frequently Asked Questions
 
-Last updated: 10/23/2025
+Last updated: 11/03/2025
 
 Definitions:
 - **VA.gov Profile:** This is what the Veteran sees and interacts with. It contains user information including personal information and account settings. It focuses on allowing users to view and manage their information and preferences for the VA. (https://www.va.gov/profile) slack: #accountexp-authexp
