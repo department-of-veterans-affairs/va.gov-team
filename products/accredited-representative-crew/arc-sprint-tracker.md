@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 3 (Nov 4 - Nov 17, 2025)
 
 ## Sprint 3 Goals
-- [ ] Sprint Goals Approved by Enablement
+- [x] Sprint Goals Approved by Enablement
 
 **Team Accreditation**: 
 1. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to implementing the multi-file component and addressing known bugs
