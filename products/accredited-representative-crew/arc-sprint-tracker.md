@@ -13,15 +13,14 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 **Team Benefits**:
 1. **[Auth] ID.me in ARP**: Staging Review, Contact Center Review, Schedule Go / No Go for Sprint 4
-5. **[ITF] MVP - Design**: Complete any remaining design work, related to Sprint 2 discussions
-6. **[ITF] MVP - Development**: Begin remaining development, based on Sprint 2 designs and discussions
+6. **[ITF] MVP - Development**: Development spike for checking POA+ITF status prior to submission + feasibility of the VA Forms flow
 7. **[Claimant Details] MVP - Design**: Address open design work, emerging from Sprint 2 UX review
 8. **[ARP Post-MVP] Cleanup Tasks**: Update access token, update URLs, jupdate POA endpoints to send POA data to CorpDB, reintroduce form validation, redact form submissions older than 60 days, add sitewide alerts, investigate a file upload error, feature flag cleanup, investigate test user issues
 9. **[Rep Onboarding] NACVSO**: Check in with NACVSO leadership
 10. **[Rep Onboarding] Veterans of Foreign Wars**: Coordinate bulk contact info update
 
 **General**: 
-1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Implement Review Instances
+1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Full Stack Engineer, 2 Product Managers
 
 
 
@@ -61,13 +60,13 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Notes**:
 1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
 
-**Sprint 4 Demo ([recording link]())**
-1. Intent to File MVP Designs
-2. Multi-file component for Claims Submissions
-3. Content cleanup?
-4. ARP Support Inbox Insights?
-6. CRM for VSO onboarding and management
-7. Review October metrics, including VA Notify monitoring
+**Sprint 2 Demo ([recording link]())**
+1. CRM for VSO onboarding and management?
+7. VFW rep requests
+8. Greg's content work
+9. Horizontal scrollbar fix
+10. Script for maintaining Staging test users for ARP
+11. Review October metrics, including VA Notify monitoring
  
 
 ## Sprint 2 Tickets
