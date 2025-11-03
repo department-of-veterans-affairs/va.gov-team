@@ -7,6 +7,7 @@ View platform docs [QA Standards](https://depo-platform-documentation.scrollhelp
 Don't forget to update the [collab cycle tikcet](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121310)
 
 ## Regression test plan
+The forms we are introducing are brand new to va.gov
 
 ## Test plan
 
@@ -15,8 +16,12 @@ Don't forget to update the [collab cycle tikcet](https://github.com/department-o
 ## E2E test participation
 
 ## Unit test coverage
-
+### 530a
 <img width="4958" height="2596" alt="530a-unit-test-coverage" src="https://github.com/user-attachments/assets/8e545345-1ae7-412f-b9fa-3696e657c04e" />
+
+### 0779
+<img width="1391" height="1293" alt="image" src="https://github.com/user-attachments/assets/5af7e361-7867-4a6f-8f26-8e20526b2943" />
+<img width="1379" height="576" alt="image" src="https://github.com/user-attachments/assets/9f3ee30a-8415-4aac-b0db-3c1f8d286319" />
 
 ## Endpoint monitoring 
 
