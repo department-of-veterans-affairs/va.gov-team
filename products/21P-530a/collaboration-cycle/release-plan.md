@@ -25,6 +25,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
+**Please read:** The government is currently shut down. Our PO, COR, stakeholders and SMEs are furloughed. This release plan is a suggested/best practices plan that has not been reviewed or approved by the government. Staging review is for contractual purposes only, there is a very high probability that once the government reopens there will be some changes to the product itself and potentially release plan. **We do not have a target release date due to government shut-down and furlough of PO/SMEs.**
+
 ### Define the Rollback process
 
 Our PM and engineering team will monitor analytics, and communicate with our downstream partners. If they see a spike in errors or unexpected behavior we will coordinate and an engineer will disable the feature flag.
@@ -68,79 +70,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary - 1% of users
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-The recommended progression is 1% → 25% → 100%. However, VFS teams have flexibility to add more increments to mitigate risk.
+### Release day: 100% of users
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: 1% of users*)
+This is a release of a new product, digitized form 21p-530a that has not existed before. Our IA partners and friends suggested 100% roll out to simplify. 
 
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: 25% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage C: 50% of users (optional)
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users (optional)
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
+This is a third party unauthenticated form, can work with VBA partners to fill out test forms, have them validate and delete test forms. 
 
 - Length of time: [FILL_IN] (*minimum 2 hours*)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
