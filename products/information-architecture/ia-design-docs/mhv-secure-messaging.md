@@ -42,10 +42,9 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 |Page title |URL | Breadcrumb | Title tag |
 |----|----------|-------------|-----------|
 |[Interstitial page] Only use messages for non-urgent needs | va.gov/my-health/secure-messages/new-message | VA.gov home > My HealtheVet > Start a new message  | Only Use Messages For Non-Urgent Needs \| Veterans Affairs |
-|Recent care teams | va.gov/my-health/secure-messages/new-message/recent | <-Back | Recent Care Teams - Start Message \| Veterans Affairs |
+| Care teams you recently sent messages to | va.gov/my-health/secure-messages/new-message/recent | <-Back | Recently Messaged Care Teams  - Start Message \| Veterans Affairs |
 | Select care team | va.gov/my-health/secure-messages/new-message/select-care-team | <-Back | Select Care Team - Start Message \| Veterans Affairs |
 | Can't find your care team? | va.gov/my-health/secure-messages/new-message/care-team-help | <-Back | Care Team Help - Start Message \| Veterans Affairs |
-| Select care team | va.gov/my-health/secure-messages/new-message/select-care-team | <-Back | Select Care Team - Start Message \| Veterans Affairs |
 | Messages: Contact list | va.gov/my-health/secure-messages/new-message/contact-list | <-Back | Messages: Contact List \| Veterans Affairs |
 | Start message| va.gov/my-health/secure-messages/new-message/start-message | <-Back | Start Message \| Veterans Affairs |
  
