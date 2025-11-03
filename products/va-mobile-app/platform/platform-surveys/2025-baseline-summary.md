@@ -1,4 +1,5 @@
-# Platform Survey - 2025 Baseline (WIP) 
+# Platform Survey - 2025 Baseline
+> [raw data is available separately](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/platform/platform-surveys/2025-baseline-raw-data.md)
 
 ## Methodology
 - The survey was designed to establish baseline metrics for how well we're meeting the needs of teams building features on the VAHB app and to support the prioritization of effors to close any identify gaps
@@ -102,7 +103,7 @@ Based on survey responses, focusing on the following areas will have the greates
 - Enhancements to onboarding, such as closing documentation gaps, adding/improving documentation on best practices, accessibility standards, and information about the differences between building on web and mobile
   - Beyond onboarding, the initiation of a new feature/project could be another valuable time to review the development process, expectations, available developer tools, and documentation
 - Streamlining collab cycle and mobile processes and embedding mobile expertise to ensure feedback is consolidated into a single channel and consistent with mobile experience standards
-- Auditing existing documentation for accuracy and broadening topic coverage, such as unified standards and reusable components
+- Auditing existing documentation for accuracy and broadening topic coverage, such as analytics, unified standards, and reusable components
 
 **Other suggestions**
 - "Would love to be able to connect a date log of found issues and resolutions deployed to cross reference with app review dates so we can see possible correlations or causation between feedback and found issues."
