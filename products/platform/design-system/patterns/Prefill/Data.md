@@ -42,8 +42,19 @@ Definitions:
    - Address: 96%
    - Any telephone number: 86%
    - Email address: 72%
+  
 
-9. Forms and their authentication level
+## Table showing the difference between no auth, loa 1, loa 3
+
+|                | No Auth | LOA 1  | LOA 3 |
+|----------------|---------|--------|-------|
+| Prefill        | ❌      | ❌     | ✅     |
+| VA.gov/Profile | ❌      | ❌     | ✅     | 
+| Form statuses  | ❌      | ✅     | ✅     |
+| My VA          | ❌      | ✅     | ✅     |
+  
+
+## Forms and their authentication level
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
@@ -137,16 +148,6 @@ Definitions:
 - **No Auth: 14 forms** (purely unauthenticated access)
 - **Prefill: 32 fprms** (0 following new pattern)
 
-
-## Table showing the difference between no auth, loa 1, loa 3
-
-|                | No Auth | LOA 1  | LOA 3 |
-|----------------|---------|--------|-------|
-| Prefill        | ✖️      | ✖️     | ✔️     |
-| VA.gov/Profile | ✖️      | ✖️     | ✔️     | 
-| Form statuses  | ✖️      | ✔️     | ✔️     |
-| My VA          | ✖️      | ✔️     | ✔️     |
-  
 
 
 
