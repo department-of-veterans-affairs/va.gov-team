@@ -14,8 +14,8 @@ sequenceDiagram
   A1 ->> P6: Authentication request
   P6 ->> A1: new msg
   P6 ->> P4: User navigates to "/my-health/medications"
-  P4 ->> P5: URL to Secure Messaging "/my-health/secure-messages/new-message?prescriptionId={prescriotion_id}"
-  P5 ->> P1: GET my_health/v1/prescriptions/{prescription_id}
+  P4 ->> P5: URL to Secure Messaging "/my-health/secure-messages/new-message?prescriptionId={mhv_medication_id}"
+  P5 ->> P1: GET my_health/v1/prescriptions/{mhv_medication_id}
   P1 ->> P3: GET
   P3 ->> P1: response
   P1 ->> P5: prescription data
