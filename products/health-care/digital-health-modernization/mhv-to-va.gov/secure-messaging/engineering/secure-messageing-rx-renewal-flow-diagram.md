@@ -36,7 +36,7 @@ graph TD
     X --> H
     Y --> H
     Z --> H
-    n1@{ label: "<span style=\"color:\">User clicks '</span><span style=\"white-space:\">Send a renewal request message'</span>" } --> n3["user is navigated to /my-health/secure-messages/start-message?prescriptionId={prescription_id}"]
+    n1@{ label: "<span style=\"color:\">User clicks '</span><span style=\"white-space:\">Send a renewal request message'</span>" } --> n3["user is navigated to /my-health/secure-messages/start-message?prescriptionId={mhv_medication_id}"]
     AA --> n2["Success alert<br>"]
     n3 --> D
     n5 -- Yes --> n4["Category, subject prefilled. message body prefilled with medication data according to the template"]
