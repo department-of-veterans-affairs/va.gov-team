@@ -156,8 +156,6 @@ Before tapping on anything: looking at this page, what stands out to you as bein
 * When might you look at just your overpayments?
 * When might you look at your combined statement?
     * Before you tap into that, what do you expect to find in the combined statement?
-* Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
-    * Can you tell me why?
 <br></br>
 
 *(Combined statement)*
@@ -222,7 +220,9 @@ Now that you’ve looked at the combined statement, and each individual sections
 * What information is important to you when considering your full financial situation?
 * Any further thoughts on when you might look through the combined statement compared to the individual overpayments or copays sections?
     * Are individual letters still needed?
-* I’ll repeat a question from earlier: Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
+* Tell me your thoughts on how much you trust the information in the combined statement compared to individual statements.
+    * Would having a combined statement increase or decrease your trust in the information presented compared to individual letters?
+    * Can you tell me why?
 * And another question I’ll bring back: any further thoughts on when you would be looking to manage your finances – time or day, your physical location, a situation, etc.
 
 
@@ -250,6 +250,10 @@ Now we'll look at another version of this combined statement
 Now, considering both of the combined statements:
 * Imagine you had full control over what you're seeing here. What would you add, remove, or change?
 * Is there anything that could be changed to make this easier to use?
+
+Let's look at the PDF statements
+* Tell me your thoughts on viewing a PDF of this statement on your phone
+* What might you do with one?
 
 <br></br>
 
