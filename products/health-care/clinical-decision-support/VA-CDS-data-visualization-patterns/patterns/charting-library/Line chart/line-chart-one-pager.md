@@ -70,7 +70,7 @@ _In this example, there is a date range picker above the chart_
 
 _In this example, there is a menu where the clinician filter their view_
 
-### **Finding 3 **
+### **Finding 3**
 
 Clinicians cognitive load increases when they are trying to understand terminology and criteria in a specific context to interpret the data shown.
 
