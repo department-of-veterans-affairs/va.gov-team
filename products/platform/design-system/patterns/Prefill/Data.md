@@ -10,13 +10,13 @@ Definitions:
    - **This is mostly correct**.
    - VA.gov/profile will always have last name. (and probably a first name, but not always, as not everyone has a first name)
    - VA.gov/profile will likely always have full birthday due to the requirements in ID.me and Login.gov, but legacy systems like BIRLS may only have birth month and birth year, but not birth date
-   - VA.gov/profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN
+   - VA.gov/profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN. But VA.gov/profile will not display the SSN to the user. 
    - Digitized Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
   
 2. What information does the ID.Me or Login.gov service pass on to VA.gov/profile (to display & update) or the VA API Profile (to store) (if anything)?
 
 3. What is the minimum amount of information an LOA1 user can see/interact with and add to their VA.gov/profile ?
-   - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. 
+   - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. Due to this LOA1 users cannot edit or see any information we have on file for them in their profile.
 
 5. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?
 
