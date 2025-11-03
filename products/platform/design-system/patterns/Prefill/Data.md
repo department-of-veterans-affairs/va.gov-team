@@ -3,8 +3,9 @@
 Last updated: 10/23/2025
 
 Definitions:
-- **VA.gov Profile:** what the Veteran sees and interacts with (https://www.va.gov/profile) slack: #accountexp-authexp
-- **VA Profile team:** API team. They handle all the data storage and management. slack: #va-profile 
+- **VA.gov Profile:** This is what the Veteran sees and interacts with. It contains user information including personal information and account settings. It focuses on allowing users to view and manage their information and preferences for the VA. (https://www.va.gov/profile) slack: #accountexp-authexp
+- **VA Profile team:** API team. They handle all the data storage and management. slack: #va-profile
+- **My VA** is the personalized authenticated homepage. It focuses on personalized, dynamic, actionable user tasks that are time sensitive. (this is not the same as VA.gov/profile)
 
 1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn data to display to Veterans? 
    - **This is mostly correct**.
@@ -14,29 +15,35 @@ Definitions:
    - Digitized Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
   
 2. What information does the ID.Me or Login.gov service pass on to VA.gov/profile (to display & update) or the VA API Profile (to store) (if anything)?
+   - There is no automagic connection between ID.me or Login.gov; they are disconnected once the credential handshake takes place.
 
 3. What is the minimum amount of information an LOA1 user can see/interact with and add to their VA.gov/profile ?
    - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. Due to this LOA1 users cannot edit or see any information we have on file for them in their profile.
 
-5. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?
+4. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?
 
-6. What is MPI?
+5. What is MPI?
    - MPI = Master Person Index
    - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
    > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787))
    
-7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?
+6. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?
+    - VA.gov/profile does not interact with MPI
+    - VA Profile API uses MPI as the authoritiative source. We have 1:1 correlation when everything is working correctly
 
-8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
+7. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
    - Generally, no. Veterans who have never interacted with VA health systems typically do not have a record in the VA MPI
-   - HOWEVER, some individuals who have never sought VA health care may still have an MPI record if their info came from external sources (for example, DEERS feeds or certain VBA corporate data exchanges). In those cases, an ICN can be assigned.
+   - HOWEVER, some individuals who have never sought VA health care may still have an MPI record if their info came from external sources (for example, DEERS feeds or certain VBA corporate data exchanges). In those cases, an ICN can be assigned. 
 
-10. What percentage of VA.gov/profile or VA Profile API are missing:
-   - Full name
-   - DoB
-   - SSN 
+8. What percentage of VA.gov/profile or VA Profile API have the following information:
+   - Full name - Have to ask MPI
+   - DoB - Have to ask MPI
+   - SSN - Have to ask MPI
+   - Address: 96%
+   - Any telephone number: 86%
+   - Email address: 72%
 
-11. Forms and their authentication level
+9. Forms and their authentication level
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
@@ -130,9 +137,16 @@ Definitions:
 - **No Auth: 14 forms** (purely unauthenticated access)
 - **Prefill: 32 fprms** (0 following new pattern)
 
-To do:
-- Create tables showing the difference between no auth, loa 1, loa 3
-- Show percentage of current va.gov forms that are no auth, loa 1, loa 3
+
+## Table showing the difference between no auth, loa 1, loa 3
+
+|                | No Auth | LOA 1  | LOA 3 |
+|----------------|---------|--------|-------|
+| Prefill        | ✖️      | ✖️     | ✔️     |
+| VA.gov/Profile | ✖️      | ✖️     | ✔️     | 
+| Form statuses  | ✖️      | ✔️     | ✔️     |
+| My VA          | ✖️      | ✔️     | ✔️     |
+  
 
 
 
