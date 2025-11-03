@@ -63,12 +63,16 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
 
 **Sprint 2 Demo ([recording link]())**
-1. CRM for VSO onboarding and management?
-7. VFW rep requests
-8. Greg's content work
-9. Horizontal scrollbar fix
-10. Script for maintaining Staging test users for ARP
-11. Review October metrics, including VA Notify monitoring
+1. Post-MVP content cleanup
+   1. Title tags match the H1 page titles
+   2. Dashboard content updated from `Would you like to get accredited?` to `Would you like to become accredited?`
+   3. Representation request null state and details pages updated to refer to "representation requests" instead of "POA" or "power of attorney"
+   4. Request list/search page updated from `You don't have access to this feature` to `You currently can't receive requests in the portal`
+2. Script for maintaining Staging test users for ARP
+3. Fixing the horizontal scrollbar in the right Contact Us column
+4. Representation requests enabled for Veterans of Foreign Wars
+5. Monitoring VA Notify callbacks in Datadog
+6. Review October metrics
  
 
 ## Sprint 2 Tickets
