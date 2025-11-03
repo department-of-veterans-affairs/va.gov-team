@@ -79,6 +79,8 @@ Prompts if needed:
 
 Okay, thank you so much for showing us how you navigate your health portal and answering those questions, it's really helpful to see how you use it and hear about your experience. Before we move on to the next step, I want to check in: How are you feeling so far? Do you have any questions before we continue?
 
+**MOVE TO PROTOTYPE BY FIRST 15 MIN IF NOT BEFORE**
+
 ## Part 2: Prototype / Reactions to planned tactics (30 mins) 
 
 ### Opening the Figma prototype
@@ -94,17 +96,23 @@ Okay, thank you so much for showing us how you navigate your health portal and a
 
 **Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
 
+- Do you think you can manage your healthcare tasks from here?
+- Go ahead and sign in.
+- _Participant "signs in" using simulated sign-in in prototype and lands on My VA page._
+- Tell me about what you see now.  What do you think that you can do from here?
+- Do you think that you can complete healthcare tasks here?
+- How comfortable would you be completing healthcare tasks here?
+- How would you know that you can complete healthcare tasks here? How would you expect to learn to go here now?
+- How would you like to learn that you can do healthcare tasks on MHV on VA.gov now?
+- What would make you hesitant to do healthcare tasks here?
+- What would make you comfortable completing healthcare tasks here?
+- What would make you comfortable to switch to doing healthcare tasks here as opposed to My VA Health? 
 
-### Task 1 - Appointments
-Okay looks like you have the prototype open. As a reminder, the back button on this screen will not work as you expect. Instead you'll need to use the prototype back and forth arrows to navigate back or forward a screen. Do you have any questions about that? 
 
-Great! 
 
-Just like you showed me before when we were signed into your patient portal, I'd like you to now use this prototype and show me where you'd go to check on details for an upcoming appointment. Please talk out loud as you click things or read things. It's really helpful to understand your thought process and what's clear to you or confusing. 
+### Task 1 - Appointments (starting on My VA page)
 
-_Participant "signs in" using simulated sign-in in prototype and lands on My VA page._
-
-**Probe:** **Describe** what you see now.  What do you think you can do from here? How does it **compare** to what you expect to find here?
+Speaking of healthcare tasks....
 
 * From here, what would you do to check appointment details for that upcoming appointment? How would you find what time of day that appointment is at?
   * _Does the participant see information in the "upcoming appointment" card on My VA Page? Navigate to My HealtheVet? Other?_
