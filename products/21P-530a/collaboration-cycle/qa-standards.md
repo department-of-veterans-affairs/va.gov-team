@@ -25,6 +25,41 @@ The forms we are introducing are brand new to va.gov
 
 ## Endpoint monitoring 
 
+### Form 21P-530a
+
+See [Form 21P-530a Endpoint Monitoring documentation](./endpoint-monitoring.md) for complete details.
+
+**Summary:** Form 21P-530a uses asynchronous submission via the shared `Lighthouse::SubmitBenefitsIntakeClaim` Sidekiq job. Comprehensive monitoring includes:
+- 3 form-specific monitors (traffic, PDF failures, 5xx errors)
+- 3 shared infrastructure monitors (high error rate, silent failures, queue depth)
+- Unified Datadog dashboard with all Aquia forms
+
+### Form 21-0779
+
+See [Form 21-0779 Endpoint Monitoring documentation](../21-0779/collaboration-cycle/endpoint-monitoring.md) for complete details.
+
+**Summary:** Form 21-0779 uses asynchronous submission via the shared `Lighthouse::SubmitBenefitsIntakeClaim` Sidekiq job. Monitoring is identical to Form 21P-530a, as both forms share the same infrastructure.
+
 ## Logging silent failures
+
+### Both Forms (21P-530a & 21-0779)
+
+See [QA7 Silent Failures Analysis](./qa7-silent-failures.md) for complete details covering both forms.
+
+**Summary:** QA7 applies to both forms as they use asynchronous submission processing.
+
+**Key Points:**
+- Forms use shared Sidekiq job (`Lighthouse::SubmitBenefitsIntakeClaim`) with ~22 VA.gov forms
+- Shared job currently lacks ZeroSilentFailures monitoring (systemic platform issue)
+- **Strong mitigation in place:**
+  - ✅ QA6 monitoring alerts team within 10 minutes
+  - ✅ FormSubmissionAttempt tracking for manual remediation
+  - ✅ Lighthouse API >99.5% reliable
+  - ✅ Documented incident response procedures
+- **Post-Launch Plan:** Team commits to platform-wide fix benefiting all 22 forms
+
+**Individual Form Details:**
+- [Form 21P-530a QA7 Analysis](./qa7-silent-failures.md)
+- [Form 21-0779 QA7 Analysis](../21-0779/collaboration-cycle/qa7-silent-failures.md)
 
 ## PDF form version validation
