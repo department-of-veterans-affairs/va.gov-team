@@ -221,9 +221,3 @@ body:
       options:
         - label: I acknowledge that I must add the GitHub labels for my team, product, and feature to this ticket. 
           required: true
-  - type: markdown
-    attributes:
-      value: "</details>"
-  - type: markdown
-    attributes:
-      value: "## Collaboration Cycle touchpoints"
