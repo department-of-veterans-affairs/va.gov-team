@@ -22,6 +22,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 **General**: 
 1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Full Stack Engineer, 2 Product Managers
+2. **November 6th Production Deployment**: Monitor the Production release and connect with a friendly ARP user to confirm Production experiences are functioning as expected.
 
 
 
