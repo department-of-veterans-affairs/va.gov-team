@@ -28,13 +28,15 @@ Definitions:
 7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?
 
 8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?
+   - Generally, no. Veterans who have never interacted with VA health systems typically do not have a record in the VA MPI
+   - HOWEVER, some individuals who have never sought VA health care may still have an MPI record if their info came from external sources (for example, DEERS feeds or certain VBA corporate data exchanges). In those cases, an ICN can be assigned.
 
-9. What percentage of VA.gov/profile or VA Profile API are missing:
+10. What percentage of VA.gov/profile or VA Profile API are missing:
    - Full name
    - DoB
    - SSN 
 
-10. Forms and their authentication level
+11. Forms and their authentication level
     
 | Form Number | Auth Level | New prefill | Old Prefill | No prefill |
 |-------------|------------|-------------|-------------|------------|
