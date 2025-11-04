@@ -5,8 +5,14 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 # Sprint 17 Tickets  [11/05/25 - 11/18/25]
 
 ## Core Form Team
+<img width="1354" height="1231" alt="image" src="https://github.com/user-attachments/assets/83a5275f-afc1-4621-b674-042334c278ea" />
+<img width="1361" height="1088" alt="image" src="https://github.com/user-attachments/assets/b922bbff-470d-44fa-9841-9579262fbeb6" />
+<img width="1357" height="261" alt="image" src="https://github.com/user-attachments/assets/dcffc87a-fd12-4d7d-b834-617c32b7580b" />
+
 
 ## Pathways
+<img width="1355" height="1217" alt="image" src="https://github.com/user-attachments/assets/7a3adb2a-28f6-4433-bcd3-967485b724b2" />
+<img width="1355" height="1141" alt="image" src="https://github.com/user-attachments/assets/6598666b-4d26-4e07-98d9-b534e82d2f16" />
 
 ## Conditions
 <img width="1443" height="1204" alt="image" src="https://github.com/user-attachments/assets/1533f606-92d0-4a4b-9e5c-980812f78cb7" />
