@@ -13,45 +13,50 @@ Definitions:
    - VA.gov/profile will likely always have full birthday due to the requirements in ID.me and Login.gov, but legacy systems like BIRLS may only have birth month and birth year, but not birth date
    - VA.gov/profile may not always have an SSN due to out of country Benefit recepients; Users who sign up with ID.me & login.gov will have an SSN is as it is required; MHV login did not require SSN. But VA.gov/profile will not display the SSN to the user. 
    - Digitized Forms that use central mail, would be rejected without a first name, or an SSN/File Number. 
-  
-**2. What information does the ID.Me or Login.gov service pass on to VA.gov/profile (to display & update) or the VA API Profile (to store) (if anything)?**
+
+**2. If VA.gov/profile is only displaying data, where is all of the various bits of data coming from?**
+   - [See data sources in this sharepoint doc](https://dvagov.sharepoint.com/:x:/r/sites/AuthenticatedExperience2/Shared%20Documents/AE%20Governance/2025%20Profile%20Features.xlsx?d=w0b56d65e21674dab9ff8cd2e84f69ab2&csf=1&web=1&e=58gbK5)
+     
+**3. What information does the ID.Me or Login.gov service pass on to VA.gov/profile (to display & update) or the VA API Profile (to store) (if anything)?**
    - There is no automagic connection between ID.me or Login.gov; they are disconnected once the credential handshake takes place.
 
-**3. What is the minimum amount of information an LOA1 user can see/interact with and add to their VA.gov/profile ?**
+**4. What is the minimum amount of information an LOA1 user can see/interact with and add to their VA.gov/profile ?**
    - LOA1 users do not see their profile on VA.gov. They're forced into Account security and can't access the profile. Due to this LOA1 users cannot edit or see any information we have on file for them in their profile.
 
-**4. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?**
+**5. What is the minimum amount of information an LOA3 user can see/interact with and add to their VA.gov/profile ?**
 
-**5. What is MPI?**
+**6. What is MPI?**
    - MPI = Master Person Index
    - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
    > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787))
    
-**6. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?**
+**7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?**
     - VA.gov/profile does not interact with MPI
     - VA Profile API uses MPI as the authoritiative source. We have 1:1 correlation when everything is working correctly
 
-**7. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?**
+**8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?**
    - Generally, no. Veterans who have never interacted with VA health systems typically do not have a record in the VA MPI
    - HOWEVER, some individuals who have never sought VA health care may still have an MPI record if their info came from external sources (for example, DEERS feeds or certain VBA corporate data exchanges). In those cases, an ICN can be assigned. 
 
-**8. What percentage of VA.gov/profile or VA Profile API have the following information:**
+**9. What percentage of VA.gov/profile or VA Profile API have the following information:**
    - Full name - Have to ask MPI
    - DoB - Have to ask MPI
    - SSN - Have to ask MPI
    - Address: 96%
    - Any telephone number: 86%
    - Email address: 72%
+
+
   
 
 ## Table showing the difference between no auth, loa 1, loa 3
 
 |                | No Auth | LOA 1  | LOA 3 |
 |----------------|---------|--------|-------|
-| Prefill        | ❌      | ❌     | ✅     |
 | VA.gov/Profile | ❌      | ❌     | ✅     | 
-| Form statuses  | ❌      | ✅     | ✅     |
+| Prefill        | ❌      | ❌     | ✅     |
 | My VA          | ❌      | ✅     | ✅     |
+| Form statuses  | ❌      | ✅     | ✅     |
   
 
 ## Forms and their authentication level
