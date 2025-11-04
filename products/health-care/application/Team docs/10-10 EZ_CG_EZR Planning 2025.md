@@ -7,7 +7,7 @@
 
 ### Sprint Goal summary
 - [ ] (continue) EZR Spouse QA findings resolutions, PR merges & resume QA
-- [ ] EZ Investigate Intro page looping
+- [ ] EZ Implement Intro page looping fix
 
 ## 
 ### 10-10EZR
@@ -19,7 +19,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [looping isssue?]
+- [ ] **SPRINT GOAL** [#120330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120330) - [FE] Intro page looping fix
 
 ## 
 ### 10-10CG
@@ -28,7 +28,7 @@
 
 ##
 ### Team PTO
-- Veteran's Day: 11/11 (A6 & Fed Holiday, AH floating)
+- **Veteran's Day**: 11/11 (A6 & Fed Holiday, AH floating)
 - Andrea: 11/10
 - Renata: 11/10
 - Kyle: 11/10
