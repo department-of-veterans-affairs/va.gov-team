@@ -22,6 +22,7 @@
   - [ ] [[FE/QA] 10-10d/10-7959c - Form merge: Add Cypress tests for medium and maximum information scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123994)
   - [ ] [[BE] DISCOVERY: 10-10d/10-7959c - Unable to submit form in RI environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118852)
   - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
+  - [ ] [[QA] 10-10D Extended: Validate VES submissions in preprod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124068)
   
 
 
