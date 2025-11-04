@@ -65,17 +65,17 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Planned for Sprint 2**: 42 tickets, 130 points + 1 spike \
 **Added as a Sprint 2 stretch goal**: 8 tickets, 14 points 
 
-**Completed in Sprint 2**: 33 tickets, 77 points \
-**Crew Velocity**: 77 points / 10 days = 7.7 points / day
+**Completed in Sprint 2**: 34 tickets, 80 points \
+**Crew Velocity**: 80 points / 10 days = 8 points / day
 
 **Crew Count in Sprint 2**: 12 active teammates + 2 onboarding \
-**Average Teammate Velocity**: 77 points / 14 teammates = 5.5 points / teammate
+**Average Teammate Velocity**: 80 points / 14 teammates = 5.7 points / teammate
 
-**Carrying into Sprint 3**: 18 tickets, 67 points 
-1. 4 tickets (18 points) are blocked, due to the government shutdown.
+**Carrying into Sprint 3**: 14 tickets, 51 points 
+1. 5 tickets (21 points) are blocked, due to the government shutdown.
 2. 2 tickets (10 points) have significant progress, but are pending Engineering discovery to finalize
 3. 3 tickets (8 points) are pending external/Platform review
-4. 3 tickets (10 points) are awaiting feedback from Enablement
+4. 2 tickets (7 points) are awaiting feedback from Enablement
 5. 2 tickets (5 points) are pending team review
 
 **Notes**:
@@ -157,10 +157,10 @@ Release Plan for ID.me | https://github.com/department-of-veterans-affairs/va.go
 Epic organization | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122111 | Done | 5 |  
 OOB Deploy Request - Allow ARP   Authentication for Reps with Invalid Addresses | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122449 | Done |   
 Engineering Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122615 | Done | 3 |  
+Representative research panel   documentation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117647 | Done | 3 | 
 Standards of Practices (SOPs) have been   created to define access and management of the mailbox | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121171 | Blocked | 2 | Awaiting Enablement feedback
-General Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122483 | External Review | 3 | Pending VBMS access
+General Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122483 | Blocked | 3 | Pending VBMS access
 Templates and signatures have been   created | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121174 | In Progress | 5 | Work still in progress
-Representative research panel   documentation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117647 | QA | 3 | Awaiting Enablement feedback
 Audit ARC Research for Q1 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/120955 | Sprint Backlog | 3 | Carrying to Sprint 3 as an early UX Research task
 
 
