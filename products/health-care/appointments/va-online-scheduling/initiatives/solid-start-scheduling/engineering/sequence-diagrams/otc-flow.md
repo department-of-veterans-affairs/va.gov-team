@@ -29,7 +29,7 @@ sequenceDiagram
     vassBackend-->>vetsApi: Return agent skills
     vetsApi-->>vetsWebsite: Return agent skills
     user->>vetsWebsite: Select agent skills
-    vetsWebsite: Display review page
+    vetsWebsite->>vetsWebsite: Display review page
 
     %% Step 5: Confirm appointment
     user->>vetsWebsite: Submits appointment (EDIPI)
