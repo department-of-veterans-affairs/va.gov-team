@@ -88,7 +88,7 @@ classDiagram
 ```
 ## Sequence Diagrams
 
-### Workflow starting with VeText
+### Workflow for booked vs not booked
 
 ```mermaid
 sequenceDiagram
@@ -122,62 +122,58 @@ sequenceDiagram
     end
 ```
 
-### Workflow once SMS/Email received
+### Scheduling flow
 ```mermaid
 sequenceDiagram
     participant User
     participant Frontend as Frontend (FE)
     participant VetsAPI as Vets API
-    participant VistA as VistA
+    participant map as MAP services
+    participant vaos as VAOS
     participant EPS as EPS System
     participant VA as VA Notify
 
     Note over User: User clicks link in SMS/Email
-    User->>Frontend: Open appointments page
-    Frontend->>VetsAPI: Get referral data
-    VetsAPI->>Postgres: Fetch referral data (or MAP system once complete possibly)
-    Postgres->>VetsAPI: Return referral data
-    VetsAPI->>VistA: Get VistA appointments
-    VistA->>VetsAPI: Return VistA appointments
-    VetsAPI->>EPS: Get EPS appointments for patientId
-    EPS->>VetsAPI: Return EPS appointments for patientId
-    VetsAPI->>VetsAPI: validateAppointments() (for referrals already made in EPS, for referrals that are already appointments in VistA)
-    VetsAPI-->>Frontend: Return referral data
-    Frontend->>Frontend: Store referral data in Redux
-    
+    User->>Frontend: Opens referrals and requests page
+    Frontend->>VetsAPI: Get referral list data
+    VetsAPI->>map: Fetch referral list data
+    map-->>VetsAPI: Return referral list data
+    VetsAPI-->>Frontend: Return referral list data
 
-    Note over User: Starting appointment process page
-    Frontend->>Frontend: getReferralData() from Redux
-    Frontend->>VetsAPI: Get provider data
-    VetsAPI->>EPS: Create Draft Appointment (patient ID, and referral ID)
-    EPS->>VetsAPI: Get appointmentId from this call
-    VetsAPI->>EPS: Get provider data based on referral / patient preferred provider (NPI? ID?)
+    User->>Frontend: Veteran clicks a referral
+    Note over User: Referral Info/Details Page
+    Frontend->>VetsAPI: Request referral details
+    VetsAPI->>EPS: Get EPS appointments for patientId
+    EPS-->>VetsAPI: Return EPS appointments for patientId
+    VetsAPI->>vaos: Get vaos appointments
+    vaos-->>VetsAPI: Return vaos appointments
+    VetsAPI->>VetsAPI: Combine appointment data with referral data
+    VetsAPI-->>Frontend: Return referral data with appointments
+    Frontend->>Frontend: Determine if booking is allowed
+    User->>Frontend: Click schedule appointment
+    
+    Note over User: Schedule Appointment Page
+    Frontend->>VetsAPI: POST create draft
+    VetsAPI->>EPS: Create Draft Appointment
+    EPS-->>VetsAPI: Return appointment object
+    VetsAPI->>EPS: Get provider data
     VetsAPI->>EPS: Get drive time to provider, combine with provider data
     EPS->>VetsAPI: Return provider data
-    VetsAPI->>Frontend: Return provider data
-    Frontend-->Frontend: Store provider data in referral Redux object
-    Frontend-->>User: Display referral data for this appointment
-
-    Note over User: Schedule your appointment page
-    User->>Frontend: View provider Slot availability
-    Frontend->>VetsAPI: getProviderSlotAvailability()
-    VetsAPI->>EPS: Fetch provider slot availability
-    EPS-->>VetsAPI: Return provider slot availability
-    VetsAPI-->>Frontend: Return provider slot availability
+    VetsAPI->>Frontend: Return provider data with slots
     User->>Frontend: Select date/time and click next
-    Frontend->>Frontend: Store provider and appointment data in Redux
-
-    Note over User: Confirm page
-    Frontend->>Frontend: getReferralData() from Redux
-    Frontend-->>User: Display referral and appointment details
-    User->>Frontend: Click confirm
-    Frontend->>VetsAPI: confirmAppointment()
-    VetsAPI->>EPS: Send appointment details
-    EPS-->>VetsAPI: updateReferralStatus() Confirm appointment scheduled
-    VetsAPI->>Postgres: Mark referral as confirmed appointment
 
     Note over User: Review page
-    Frontend->>Frontend: getReferralData() from Redux
+    User->>Frontend: Click submit
+    Frontend->>VetsAPI: Submit appointment
+    VetsAPI->>EPS: Submit appointment
+    EPS-->>VetsAPI: return success
+    VetsAPI-->>Frontend: return success
+    Frontend->>VetsAPI: Poll for booked status(see polling process)
+    VetsAPI->>EPS: Fetch appointment details
+    EPS-->VetsAPI: Return appointment details
+    VetsAPI-->Frontend: Return booked appointment
+
+    Note over User: Confirm page
     Frontend-->>User: Display appointment data
 ```
 
