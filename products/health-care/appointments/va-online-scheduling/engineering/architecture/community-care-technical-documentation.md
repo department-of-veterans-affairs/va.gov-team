@@ -99,10 +99,14 @@ sequenceDiagram
     participant CCRA
     participant EPS
 
-    Vetext->>Veteran: Sends encoded UCID in short URL
+    Vetext->>Veteran: Sends short URL
     Veteran->>vets-website: Clicks text message
-    vets-website->>vets-api: Calls /referral(s)/:id (encoded UCID)
-    vets-api->>vets-api: Decodes UCID
+    vets-website->>vets-api: Requests referrals
+    vets-api->>CCRA: Requests referrals
+    CCRA-->>vets-api: Returns referrals
+    vets-api->>vets-website: Returns referrals
+    Veteran->>vets-website: Veteran selects referral
+    vets-website->>vets-api: Requests referral details
     vets-api->>CCRA: Requests referral data
     CCRA-->>vets-api: Returns referral data
     vets-api->>EPS: Checks for existing appointments with referral number
