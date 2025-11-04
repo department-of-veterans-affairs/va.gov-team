@@ -17,18 +17,20 @@ sequenceDiagram
     Note over U,E: OTC flow (details below)
     F-->>U: Proceed to scheduling page
 
+    
+    %% Step 3: Select date time
+    F->>V: Request appointment availability
+    V->>S: Get availability
+    S-->>V: Return availability
+    V-->>F: Return availability
+    U->>F: Select time slot
+
     %% Step 4: Scheduling Flow
     F->>V: Request agent skills
     V->>S: Get agent skills
     S-->>V: Return agent skills
     V-->>F: Return agent skills
     U->>F: Select skills
-
-    F->>V: Request appointment availability
-    V->>S: Get availability
-    S-->>V: Return availability
-    V-->>F: Return availability
-    U->>F: Select time slot
 
     %% Step 6: Confirm Appointment
     F->>V: Submit appointment (EDIPI)
