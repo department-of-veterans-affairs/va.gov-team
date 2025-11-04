@@ -92,26 +92,26 @@ sequenceDiagram
 
 ```mermaid
 sequenceDiagram
-    participant U as User (Browser)
-    participant F as VASS Application (vets-website)
-    participant V as vets-api
-    participant S as VASS-API
-    participant N as VANotify
-    participant E as Email Service
-    %% Step 1: request OTC
-    F->>V: Sends Lastname + DOB + UUID
-    V->>S: Validate UUID in VASS-API
-    S-->>V: Return user info (EDIPI) or error
-    V->>V: Check Lastname + DOB match
-    V->>V: Generate One-Time Code (OTC)
-    V->>N: Send OTC email (templateId)
-    N-->>U: OTC email sent
+    participant user as User (Browser)
+    participant vetsWebsite as VASS Frontend (vets-website)
+    participant vetsApi as vets-api
+    participant vassBackend as VASS Backend (API + Email)
+    participant vaNotify as VANotify
+
+    %% Step 1: Request One-Time Code (OTC)
+    vetsWebsite->>vetsApi: Send last name + DOB + UUID
+    vetsApi->>vassBackend: Validate UUID in VASS
+    vassBackend-->>vetsApi: Return user info or error
+    vetsApi->>vetsApi: Verify last name + DOB match
+    vetsApi->>vetsApi: Generate One-Time Code (OTC)
+    vetsApi->>vaNotify: Send OTC email (templateId)
+    vaNotify-->>user: OTC email sent
 
     %% Step 2: User enters OTC
-    U->>F: Enters OTC
-    F->>V: Validate OTC
-    V->>V: Check OTC in Redis
-    V-->>F: Return EDIPI if valid
+    user->>vetsWebsite: Enter OTC
+    vetsWebsite->>vetsApi: Validate OTC
+    vetsApi->>vetsApi: Check OTC in Redis
+    vetsApi-->>vetsWebsite: Return success if valid
 ```
 
 
