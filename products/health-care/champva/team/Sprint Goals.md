@@ -8,7 +8,7 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** Review PRs and manage code deployments 11/5 & 11/6
 - [ ] **SPRINT GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-- [ ] **SPRINT GOAL** 10-10d: Investigate loading issues, add Cypress tests and fix RI Environment
+- [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
 - [ ] **SPRINT GOAL** 10-10d: Validate VES Submissions with 10-10d v2
 - [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and review and confirm pages to match SoT
 - [ ] **SPRINT GOAL** 10-7959a: Implement UX updates to confirmation email
@@ -25,7 +25,7 @@
 
 ##
 ### 10-10d
-- [ ] **SPRINT GOAL** 10-10d: Investigate loading issues, add Cypress tests and fix RI Environment
+- [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
   - [ ] [[FE] 10-10d: Investigate users reporting page loading issues and inability to advance/submit the form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114586)
   - [ ] [[FE/QA] 10-10d/10-7959c - Form merge: Add Cypress tests for medium and maximum information scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123994)
   - [ ] [[BE] DISCOVERY: 10-10d/10-7959c - Unable to submit form in RI environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118852)
