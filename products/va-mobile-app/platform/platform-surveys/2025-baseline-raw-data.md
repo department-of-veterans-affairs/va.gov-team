@@ -1,7 +1,8 @@
-### Raw data from 2025 Mobile Platform Survey
+## Raw data from 2025 Mobile Platform Survey
 > [analysis is separate](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/platform-surveys/2025-baseline-summary.md)
 
-Question 1: How long have you been building on the VAHB app? 
+### Question 1
+How long have you been building on the VAHB app? 
 - 14 out of 14 participants answered
 
 | Answer | # of respondents |  Percentage | 
@@ -11,7 +12,8 @@ Question 1: How long have you been building on the VAHB app?
 | 1 to 2 years | 0 | 0% | 
 | More than 2 years | 1 |  7.1%
 
-Question 2: With which practice is your role most closely aligned?
+### Question 2
+With which practice is your role most closely aligned?
 - 14 out of 14 participants answered
 
 | Answer | # of respondents |  Percentage | 
@@ -20,7 +22,8 @@ Question 2: With which practice is your role most closely aligned?
 | UX (Design/research)| 5| 35.7%
 | Engineering| 6| 42.9%
 
-Question 3: I am comfortable with the type and level of decisions I can make about the feature or experience being built
+### Question 3
+I am comfortable with the type and level of decisions I can make about the feature or experience being built
 - 14 out of 14 participants answered
 
 | Answer | # of respondents |  Percentage | 
@@ -31,7 +34,7 @@ Question 3: I am comfortable with the type and level of decisions I can make abo
 | Somewhat disagree | 1 | 7.1%
 | Strongly disagree | 0 | 0%
 
-Question 4: 
+### Question 4 
 What do you wish were different about your ability to make decisions? (Multi-line text)
 - 12 of 14 participants 
 
@@ -49,7 +52,7 @@ What do you wish were different about your ability to make decisions? (Multi-lin
 - "that i understood who else i should consult with in order to make the decisions"
 
 
-Question 5: 
+### Question 5 
 Which of these represents your role?
 - 14 out of 14 participants 
 
@@ -59,7 +62,10 @@ Which of these represents your role?
 | I am a member of Mobile Feature Support or another experience team which builds mobile features | 4 | 28.6%
 | I am a member of an experience team collaborating with the Core Mobile team or Mobile Feature Support team to build a VAHB experience | 6 | 42.9%
 
-Question 6: [Core Mobile specific]
+### Question 6 
+
+_Core Mobile specific_
+
 How much of your time is spent on feature work?
 - 4 out of 14 participants 
 
@@ -71,7 +77,9 @@ How much of your time is spent on feature work?
 | 51-75% | 2 | 50%
 | More than 75% | 1 |5%
 
-Question 7 : [Core Mobile specific]
+### Question 7 
+_Core Mobile specific_
+
 How much of your time is spent answering questions or supporting other teams building features on the VAHB app?
 - 4 out of 14 participants 
 
@@ -83,7 +91,9 @@ How much of your time is spent answering questions or supporting other teams bui
 | 51-75% | 1 | 25%
 | More than 75% | 0 |0%
 
-Question 8: [Core Mobile specific]
+### Question 8 
+_Core Mobile specific_
+
 How much of your time is spent answering questions or supporting other teams building features on the VAHB app?
 - 4 out of 14 participants 
 
@@ -95,7 +105,9 @@ How much of your time is spent answering questions or supporting other teams bui
 | 51-75% | 1 | 25%
 | More than 75% | 0 |0%
 
-Question 9: [Core Mobile specific]
+### Question 9 
+_Core Mobile specific_
+
 What types of questions do you most often field from other teams? (Multi-select) 
 - 4 out of 14 participants 
 
@@ -109,7 +121,9 @@ What types of questions do you most often field from other teams? (Multi-select)
 | Monitoring | 0 |0%
 | Documentation-related | 3 | 75%
 
-Question 10:  [Core Mobile specific]
+### Question 10 
+_Core Mobile specific_
+
 If you field other types of questions, add information about them here (optional)
 - 0 out of 14 participants
 
@@ -125,7 +139,9 @@ I feel supported in my role on the team
 | Somewhat disagree | 0 | 0%
 | Strongly disagree | 0 | 0%
 
-Question 12:  [Feature/Experience teams specific]
+### Question 12 
+_Feature/Experience teams specific_
+
 Did you go through Mobile onboarding?
 - 4 out of 14 participants
 
@@ -134,7 +150,9 @@ Did you go through Mobile onboarding?
 | Yes |2 |50%
 | No 2 |50%
 
-Question 13:  [Feature/Experience teams specific]
+### Question 13 
+_Feature/Experience teams specific_
+
 How well did onboarding prepare you to be successful building on the VAHB app?
 - 4 out of 14 participants
 
@@ -146,7 +164,9 @@ How well did onboarding prepare you to be successful building on the VAHB app?
 | Only sllightly 0 | 0%
 | Not at all | 0 | 0%
 
-Question 14:  [Feature/Experience teams specific]
+### Question 14 
+_Feature/Experience teams specific_
+
 What about your onboarding experience contributed to your rating?
 - 4 out of 14 participants
 - "I don't think at the time of my onboarding I was presented with mobile docs. The only thing I was aware of was the Release schedule."
@@ -154,7 +174,9 @@ What about your onboarding experience contributed to your rating?
 - "There was some minor confusion on how to get up and running with everything"
 - "I came in about a year ago, and a lot of things were out of date. I know there have been lots of improvements, but there's still quite a bit of stuff missing in the documentation."
 
-Question 15:  [Feature/Experience teams specific]
+### Question 15
+_Feature/Experience teams specific_
+
 I understand how to engage the Mobile team about a new feature for the VAHB app
 - 10 out of 14 participants
 
@@ -166,7 +188,9 @@ I understand how to engage the Mobile team about a new feature for the VAHB app
 | Somewhat disagree | 0 | 0%
 | Strongly disagree | 1 | 10%
 
-Question 16:  [Feature/Experience teams specific]
+### Question 16
+_Feature/Experience teams specific_
+
 I understand how feature requests are prioritized
 - 10 out of 14 participants
 
@@ -178,7 +202,9 @@ I understand how feature requests are prioritized
 | Somewhat disagree | 3 |30%
 | Strongly disagree | 0 | 0%
 
-Question 17:  [Feature/Experience teams specific]
+### Question 17 
+_Feature/Experience teams specific_
+
 I know how to check on the status of a new request or feature in development
 - 10 out of 14 participants
 
@@ -190,7 +216,9 @@ I know how to check on the status of a new request or feature in development
 | Somewhat disagree | 5 |50%
 | Strongly disagree | 0 | 0%
 
-Question 18:  [Feature/Experience teams specific]
+### Question 18
+_Feature/Experience teams specific_
+
 I understand the steps between feature development and release and what is expected of me/my team during each step.
 - 10 out of 14 participants
 
@@ -202,7 +230,9 @@ I understand the steps between feature development and release and what is expec
 | Somewhat disagree | 3 | 30%
 | Strongly disagree | 1 | 10%
 
-Question 19:  [Feature/Experience teams specific]
+### Question 19 
+_Feature/Experience teams specific_
+
 I understand what is expected of my team related to post-release analytics and monitoring
 - 10 out of 14 participants
 
@@ -214,7 +244,9 @@ I understand what is expected of my team related to post-release analytics and m
 | Somewhat disagree | 1 | 10%
 | Strongly disagree | 3 | 30%
 
-Question 20:  [Feature/Experience teams specific]
+### Question 20
+_Feature/Experience teams specific_
+
 I understand how to get support from the Mobile team
 - 10 out of 14 participants
 
@@ -226,7 +258,9 @@ I understand how to get support from the Mobile team
 | Somewhat disagree |1 | 10%
 | Strongly disagree | 0 | 0%
 
-Question 21:  [Feature/Experience teams specific]
+### Question 21 
+_Feature/Experience teams specific_
+
 I know how to find Veteran feedback and other data related to my team's feature/experience
 - 10 out of 14 participants
 
@@ -238,7 +272,9 @@ I know how to find Veteran feedback and other data related to my team's feature/
 | Somewhat disagree | 3 | 30%
 | Strongly disagree | 2 | 20%
 
-Question 22:  [Feature/Experience teams specific]
+### Question 22 
+_Feature/Experience teams specific_
+
 The feedback received from the Mobile team is
 - 10 out of 14 participants
 
@@ -249,7 +285,7 @@ The feedback received from the Mobile team is
 | Consistent with feedback from others outside the Mobile team (i.e., Platform,CoP, or Collab cycle)| 20.0%| 30.0%| 40.0%| 10.0%| 0.0%
 | Consistent with documented VAHB guidance| 10.0%| 40.0%| 50.0%| 0.0% | 0.0%
 
-Question 23: 
+### Question 23  
 I can easily self-serve and find answers to my questions
 - 14 out of 14 participants
 
@@ -261,7 +297,7 @@ I can easily self-serve and find answers to my questions
 | Somewhat disagree |1  | 7.1%
 | Strongly disagree | 0 | 0%
 
-Question 24: 
+### Question 24
 I understand the criteria used to make decisions about the feature or experience being built
 - 14 out of 14 participants
 
@@ -273,7 +309,7 @@ I understand the criteria used to make decisions about the feature or experience
 | Somewhat disagree |1  | 7.1%
 | Strongly disagree | 0 | 0%
 
-Question 25: 
+### Question 25 
 I understand the relationship between the Platform collab cycle and my work/feature in the VAHB app
 - 14 out of 14 participants
 
@@ -285,7 +321,7 @@ I understand the relationship between the Platform collab cycle and my work/feat
 | Somewhat disagree | 5 |35.7%
 | Strongly disagree | 0 | 0%
 
-Question 26: 
+### Question 26 
 I have the knowledge and support I need to deliver a Veteran VAHB app experience consistent with VA standards, mobile team governance, and industry best practices.
 - 14 out of 14 participants
 
@@ -297,7 +333,7 @@ I have the knowledge and support I need to deliver a Veteran VAHB app experience
 | Somewhat disagree | 0 | 0%
 | Strongly disagree | 0 | 0%
 
-Question 27: 
+### Question 27 
 What has been the smoothest part of your experience building on the VAHB app?
 - 13 out of 14 participants
 
@@ -315,8 +351,7 @@ What has been the smoothest part of your experience building on the VAHB app?
 - "Getting the dev environment set up"
 - "quick comms w/ members of the team"
 
-
-Question 28: 
+### Question 28 
 What do you wish you had known earlier about building on the VAHB app?
 - 13 out of 14 participants
 
@@ -327,7 +362,7 @@ What do you wish you had known earlier about building on the VAHB app?
 - "Best standards for writing tests"
 - "that the documentation site existed"
 
-Question 29: 
+### Question 29 
 If we could improve one thing about your experiencebuilding for the VAHB app, what would it be?
 - 9 out of 14 participants
 
@@ -341,7 +376,7 @@ If we could improve one thing about your experiencebuilding for the VAHB app, wh
 - "Better local api testing support"
 - "knowing where to look for for tickets"
 
-Question 30: 
+### Question 30 
 Is there anything else you think we should know?
 - 6 out of 14 participants
 
