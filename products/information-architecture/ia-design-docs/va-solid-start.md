@@ -21,8 +21,7 @@
 VA.gov needs to build a scheduling capability that allows transitioning service-memebers to schedule a phone-call with a representative from the VA Solid Start Program. During this call, a representative will help to walk current military service-members through the process of how to learn about and apply for benefits with VA.gov once they transition from the service. The call scheduling is being built by the appointments team in a LoRota environmen, which means that the service-members do NOT need to have sign-in credentials in order to access the flow and schedule a time.
 
 While most "appointment" scheduling capabilities live with the appointments team in the My HealtheVet on VA.gov portal, this VASS project is distinct from appointments and cannot live in the health portal for a few reasons: 
-1.) It is not health-related in concept, so the transitioning service-member mental model most likely would not be to expect to look for it under the umbrella of healthcare management
-2.) Due to the nature of LoRota being a low level of authentication, it cannot live in the health portal, which requires high-level gating criteria that that can't be met here: a.) LOA3 level authentication and b.) at least one healthcare facility in the user's profile.
+1.) It is not health-related in concept; 2.) due to the nature of LoRota being a low level of authentication environment, this tool cannot live in the health portal, which requires gating criteria that can't be accommodated: a.) LOA3 level authentication and b.) at least one healthcare facility in the user's profile.
 
 So, where _should_ it live? 
 * We determined that it should be associated with the Transitioning Service-Member "hub." Hub is a strong word, since this is really a single hub landing page with multiple cross-links to other benefits and static pages.
