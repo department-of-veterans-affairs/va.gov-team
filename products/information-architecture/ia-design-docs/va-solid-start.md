@@ -18,7 +18,7 @@
 
 
 ## <a name="background"></a>Background <br>
-VA.gov needs to build a scheduling capability that allows transitioning service-memebers to schedule a phone-call with a representative from the VA Solid Start Program. During this call, a representative will help to walk current military service-members through the process of how to learn about and apply for benefits with VA.gov once they transition from the service. The call scheduling is being built by the appointments team in a LoRota environment (which is not full LoA3 authentication) does not require the service-members to have sign-in credentials in order to access and schedule. 
+VA.gov needs to build a scheduling capability that allows transitioning service-memebers to schedule a phone-call with a representative from the VA Solid Start Program. During this call, a representative will help to walk current military service-members through the process of how to learn about and apply for benefits with VA.gov once they transition from the service. The call scheduling is being built by the appointments team in a LoRota environmen, which means that the service-members do NOT need to have sign-in credentials in order to access the flow and schedule a time.
 
 While most "appointment" scheduling capabilities live with the appointments team in the My HealtheVet on VA.gov portal, this VASS project is distinct from appointments and cannot live in the health portal for a few reasons: 
 1.) It is not health-related in concept, so the transitioning service-member mental model most likely would not be to expect to look for it under the umbrella of healthcare management
