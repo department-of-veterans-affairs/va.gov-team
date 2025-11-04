@@ -83,8 +83,8 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 Before we look at the website, let’s start with a couple warm-up questions.
 
-1. Describe your role as a School Certifying Official.   
-2. Walk me through your overall process as a SCO, specifically noting how your role interacts with Veteran Affairs.   
+1. Describe your role as a School Certifying Official / Work Study Site Supervisor.   
+2. Walk me through your overall process as a SCO / WSSS, specifically noting how your role interacts with Veteran Affairs.   
 3. Have you used Ask VA in the last 6 months?  
    - If yes, can you describe your most recent experience with Ask VA?  
      - How frequently are you using Ask VA?   
@@ -110,7 +110,7 @@ I've provided a link for you in the chat. Imagine that you've already logged int
 
 ##
 
-Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
+Now imagine, you’re needing to submit documentation on behalf of a student for their education /work study benefits. You’ve been directed to Ask VA to submit your documentation. Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
 
 
 - As you’re seeing this (for possibly the first time),   
