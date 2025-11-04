@@ -33,8 +33,8 @@ sequenceDiagram
     vetsWebsite->>vetsWebsite: Display review page
 
     %% Step 5: Confirm appointment
-    user->>vetsWebsite: Submits appointment (EDIPI)
-    vetsWebsite->>vetsApi: Submit appointment request (EDIPI)
+    user->>vetsWebsite: Submits appointment 
+    vetsWebsite->>vetsApi: Submit appointment request
     vetsApi->>vassBackend: Save appointment to VASS
     vassBackend->>vaNotify: Triggers confirmation email
     vaNotify-->>user: Confirmation email with cancel link
@@ -70,7 +70,7 @@ sequenceDiagram
     user->>vetsWebsite: Click cancel button
 
     %% Step 4: Cancel appointment
-    vetsWebsite->>vetsApi: Submit cancellation request (EDIPI + appointmentId)
+    vetsWebsite->>vetsApi: Submit cancellation request
     vetsApi->>vassBackend: Cancel appointment in VASS
     
     vassBackend->>vaNotify: Send cancellation confirmation email
