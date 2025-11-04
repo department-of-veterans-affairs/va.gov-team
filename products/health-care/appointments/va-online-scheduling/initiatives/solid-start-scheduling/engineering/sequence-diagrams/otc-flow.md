@@ -38,6 +38,7 @@ sequenceDiagram
     vetsApi->>vassBackend: Save appointment to VASS
     vassBackend->>vaNotify: Triggers confirmation email
     vaNotify-->>user: Confirmation email with cancel link
+    vaNotify-->>vassBackend: Return success
     vassBackend-->>vetsApi: Appointment confirmed
 
     vetsApi-->>vetsWebsite: Return appointment confirmation
@@ -47,42 +48,44 @@ sequenceDiagram
 
 ``` mermaid
 sequenceDiagram
-    participant U as User (Browser)
-    participant F as VASS Application (vets-website)
-    participant V as vets-api
-    participant S as VASS-API
-    participant N as VANotify
-    participant E as Email Service(VASS)
+    participant user as User (Browser)
+    participant vetsWebsite as VASS Frontend (vets-website)
+    participant vetsApi as vets-api
+    participant vassBackend as VASS Backend (API + Email)
+    participant vaNotify as VANotify
 
     %% Step 1: Confirmation Email
-    E->>U: Confirmation with cancel link (UUID)
+    vassBackend->>user: Sends confirmation email with cancel link (UUID)
 
     %% Step 2: User validates identity
-    U->>F: Opens link, enters Lastname + DOB
-    Note over U,E: OTC flow (details below)
-    F-->>U: Proceed to cancellation page
+    user->>vetsWebsite: Opens link, enters last name + date of birth
+    Note over user,vassBackend: One-Time Code (OTC) verification flow
+    vetsWebsite-->>user: Proceed to cancellation page
 
-    %% Step 4: Cancellation Flow
-    F->>V: Request appointment details
-    V->>S: Get appointment details
-    S-->>V: Return appointment details
-    V-->>F: Return appointment details
-    U->>F: Click cancel button
+    %% Step 3: Retrieve appointment details
+    vetsWebsite->>vetsApi: Request appointment details
+    vetsApi->>vassBackend: Get appointment details
+    vassBackend-->>vetsApi: Return appointment details
+    vetsApi-->>vetsWebsite: Return appointment details
+    user->>vetsWebsite: Click cancel button
 
-    %% Step 5: Confirm Cancelled Appointment
-    F->>V: Submit appointment id appointment with (EDIPI)
-    V->>S: Cancel appointment
-    S-->>V: Appointment cancellation confirmed
-    V->>N: Send confirmation email (templateId)
-    N-->>U: Confirmation email with cancelled appointment info and link to reschedule
-    V-->>F: Appointment cancellation confirmed
+    %% Step 4: Cancel appointment
+    vetsWebsite->>vetsApi: Submit cancellation request (EDIPI + appointmentId)
+    vetsApi->>vassBackend: Cancel appointment in VASS
+    
+    vassBackend->>vaNotify: Send cancellation confirmation email
+    vaNotify-->>user: Email with cancelled appointment info and reschedule link
+    vaNotify-->>vassBackend: Return success
+    vassBackend-->>vetsApi: Appointment cancellation confirmed
+    vetsApi-->>vetsWebsite: Return cancellation confirmation
 
-    %% Step 5: If cancel is successful request appointment details again
-    F->>V: Request appointment details
-    V->>S: Get appointment details
-    S-->>V: Return appointment details
-    V-->>F: Return appointment details 
-    F-->>U: Show appointment details with cancelled message
+    %% Step 5: Refresh appointment details
+    vetsWebsite->>vetsApi: Request updated appointment details
+    vetsApi->>vassBackend: Get updated appointment details
+    vassBackend-->>vetsApi: Return updated appointment details
+    vetsApi-->>vetsWebsite: Return updated details
+    vetsWebsite-->>user: Show appointment details with cancelled message
+
 ```
 
 ### One Time Code
