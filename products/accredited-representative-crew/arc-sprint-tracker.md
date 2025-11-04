@@ -85,70 +85,92 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 **Accreditation Team**
 
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | --
+Fix address validation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/116119 | Done | 3 |  
+Create rake task for enabling online   submission of 21-22 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122077 | Done | 3 |
+Submit Request for Production Access | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122078 | Done | 1 |  
+Consider fail-safes for the Accreditation   API integration | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121954 | Done | 3 |  
+Consider alternative ways to validate   locations, for reps who fail Platform's Address Validator | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122133 | Done | 2 |  
+Test the Accreditation API in Staging +   Adjust Appoint Org Search | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114588 | Blocked | 5 | Shutdown prevents ability to troubleshoot with GCLAWS
+Chapter 6: Document Upload - Configure s3   bucket | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114764 | Blocked | 2 | Shutdown prevents Production updates
+Chapter 6: Document Upload - Create a new   endpoint to handle document uploads for 21a | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765 | Blocked | 8 | Shutdown prevents Production updates
+Chapter 6: Document Upload - Create a new   uploader | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114766 | Blocked | 3 | Shutdown prevents Production updates
+Representative data bug fixes and   stability improvements (during shutdown) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122689 | External Review | 3 | Pending Platform review
 
-Title | URL | Status | Estimate
--- | -- | -- | --
-Create rake task for enabling online   submission of 21-22 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122077 | PR Review | 3
-Chapter 6: Document Upload - Configure s3   bucket | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114764 | Blocked | 2
-Chapter 6: Document Upload - Create a new   endpoint to handle document uploads for 21a | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765 | Blocked | 8
-Chapter 6: Document Upload - Create a new   uploader | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114766 | Blocked | 3
-Test the Accreditation API in Staging +   Adjust Appoint Org Search | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114588 | In Progress | 5
-Submit Request for Production Access | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122078 | Sprint Backlog | 1
-Consider fail-safes for the Accreditation   API integration | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121954 | Sprint Backlog | SPIKE
-Consider alternative ways to validate   locations, for reps who fail Platform's Address Validator | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122133 | Sprint Backlog | SPIKE
-Representative data bug fixes and   stability improvements (during shutdown) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122689 | Sprint Backlog | 3
+Added as a stretch goal:
 
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | --
+Accreditation API - Disable stale data   deletion for any errors | https://github.com/department-of-veterans-affairs/va.gov-team/issues/123115 | Done | 3 |  
+Chapter 7: Enforce 3-4 character   reference requirement | https://github.com/department-of-veterans-affairs/va.gov-team/issues/116777 | PR Review | 3 | Pending team review
+Implement fail-safes for the   Accreditation API integration | https://github.com/department-of-veterans-affairs/va.gov-team/issues/123584 | In Progress |   | Work still in progress
 
 
 **Benefits Team**
 
-Title | URL | Status | Estimate
--- | -- | -- | --
-Unauthorized Dashboard: update "Get   accredited" content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119215 | QA | 1
-Update null state for representation   requests | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117892 | QA | 1
-Request list/search page: update   "you don't have access" content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119342 | QA | 1
-Request details page: update   "POA" language | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119189 | QA | 1
-Update the ARP help page content, to   include ID.me mentions | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119954 | QA | 2
-Update title tag for all pages in the   portal to match content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/118559 | PR Review | 1
-Self-Service Authentication - Implement   ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/111033 | PR Review | 5
-21-22 Decision errors | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121385 | Blocked | 1
-Content / Audit Error Alerts | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119677 | In Progress | 5
-Design / ITF Submission Design   (MVP-level) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122013 | Sprint Backlog | 5
-Design / Claimant Details UX Review | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122039 | Sprint Backlog | 3
-Define URL structure for ARP pages | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119728 | Sprint Backlog | 3
-ARP Support Inbox - Data Analysis for   Insights | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122124 | Sprint Backlog | 3
-Content / Error Alerts Revised | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122378 | Sprint Backlog |  
-Script for maintaining Staging test users   for ARP | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121624 | Sprint Backlog | 5
-Feature Flag Cleanup:   accredited_representative_portal_form_526ez | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121875 | Sprint Backlog | 2
-Claims submission - Update multi-file   component to the latest version | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114702 | Sprint Backlog | 5
-Enable Representation Requests for VFW   (Run rake task in Prod) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/118786 | Sprint Backlog | 1
-Datadog - Monitor VA Notify Callbacks and   Surface Failures | https://github.com/department-of-veterans-affairs/va.gov-team/issues/116917 | Sprint Backlog | 5
-Security Review (Rebase lining) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/115948 | Sprint Backlog | 2
-Schedule Architecture Intent for ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121885 | Sprint Backlog | 2
-General Onboarding to ARC [Heather] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122484 | Sprint Backlog | 3
-UX Onboarding to ARC [Heather] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122617 | Sprint Backlog | 5
-Define details for implementing site   maintenance alerts | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122623 | Sprint Backlog | SPIKE
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | --
+Design / Claimant Details UX Review | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122039 | Done | 3 |  
+Script for maintaining Staging test users   for ARP | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121624 | Done | 5 |  
+Feature Flag Cleanup:   accredited_representative_portal_form_526ez | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121875 | Done | 2 |  
+Define details for implementing site   maintenance alerts | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122623 | Done | SPIKE |  
+Claims submission - Update multi-file   component to the latest version | https://github.com/department-of-veterans-affairs/va.gov-team/issues/114702 | Done | 5 |  
+Update title tag for all pages in the   portal to match content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/118559 | Done | 1 | 
+Unauthorized Dashboard: update "Get   accredited" content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119215 | Done | 1 | 
+Update null state for representation   requests | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117892 | Done | 1 | 
+Request list/search page: update   "you don't have access" content | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119342 | Done | 1 | 
+Request details page: update   "POA" language | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119189 | Done | 1 | 
+Self-Service Authentication - Implement   ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/111033 | Done | 5 | 
+Content / Audit Error Alerts | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119677 | Done | 5 | 
+Update the ARP help page content, to   include ID.me mentions | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119954 | Done | 2 | 
+Datadog - Monitor VA Notify Callbacks and   Surface Failures | https://github.com/department-of-veterans-affairs/va.gov-team/issues/116917 | Done | 5 |  
+Enable Representation Requests for VFW | https://github.com/department-of-veterans-affairs/va.gov-team/issues/118786 | Done | 1 |  
+Security Review (Rebase lining) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/115948 | Done | 2 |  
+Schedule Architecture Intent for ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121885 | Done | 2 |  
+Design / ITF Submission Design   (MVP-level) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122013 | Blocked | 5 | Pending Engineering discovery #123981
+Define URL structure for ARP pages | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119728 | Blocked | 5 | Pending Engineering discovery #123998
+ARP Support Inbox - Data Analysis for   Insights | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122124 | QA | 5 | Awaiting Enablement feedback
+Content / Error Alerts Revised | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122378 | In Progress | 5 | Work still in progress
+General Onboarding to ARC [Heather] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122484 | In Progress | 3 | Work still in progress
+
+Added as a stretch goal:
+
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | -- 
+[ Paralyzed Veterans of America ]   Coordinate bulk contact info update | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121673 | Done | 1 | 
+Bug: Horizontal scrollbar appears in   right column Contact Us at a breakpoint of about 960 screen width | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119744 | Done | 1 | 
+Address responsiveness issues on homepage | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119449 | PR Review | 2 | Pending team review |
 
 
 
 **Leadership**
 
 
-Title | URL | Status | Estimate
--- | -- | -- | --
-Create email templates to respond to ARP   interest | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119726 | QA | 2
-Standards of Practices (SOPs) have been   created to define access and management of the mailbox | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121171 | QA | 2
-Audit ARC Research for Q1 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/120955 | Sprint Backlog | 3
-Templates and signatures have been   created | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121174 | Sprint Backlog | 5
-Representative research panel   documentation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117647 | Sprint Backlog | 3
-Kick off with Collab Cycle for ID.me   release | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121996 | Sprint Backlog | 1
-Release Plan for ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122685 | Sprint Backlog | 2
-Epic organization | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122111 | Sprint Backlog | 5
-General Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122483 | Sprint Backlog | 3
-Engineering Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122615 | Sprint Backlog | 3
-Build CRM for VSO Onboarding and   Management | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122647 | Sprint Backlog |  
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | --
+Create email templates to respond to ARP   interest | https://github.com/department-of-veterans-affairs/va.gov-team/issues/119726 | Done | 2 | 
+Build CRM for VSO Onboarding and   Management | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122647 | Done | 3 |  
+Kick off with Collab Cycle for ID.me   release | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121996 | Done | 1 |  
+Release Plan for ID.me | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122685 | Done | 2 |  
+Epic organization | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122111 | Done | 5 |  
+OOB Deploy Request - Allow ARP   Authentication for Reps with Invalid Addresses | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122449 | Done |   
+Engineering Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122615 | Done | 3 |  
+Standards of Practices (SOPs) have been   created to define access and management of the mailbox | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121171 | Blocked | 2 | Awaiting Enablement feedback
+General Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122483 | External Review | 3 | Pending VBMS access
+Templates and signatures have been   created | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121174 | In Progress | 5 | Work still in progress
+Representative research panel   documentation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117647 | QA | 3 | Awaiting Enablement feedback
+Audit ARC Research for Q1 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/120955 | Sprint Backlog | 3 | Carrying to Sprint 3 as an early UX Research task
 
 
+
+Added as a stretch goal:
+
+Title | URL | Status | Estimate | Reason for sprint carry over
+-- | -- | -- | -- | --
+[ Veterans of Foreign Wars ] Confirm   access | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121218 | Done | 1 |
+Post-Mortem for Out of Band deployment | https://github.com/department-of-veterans-affairs/va.gov-team/issues/123038 | Done | 1 |
+New team setup (including Atlas presence) | https://github.com/department-of-veterans-affairs/va.gov-team/issues/123096 | External Review | 2 | Awaiting Platform review | 
 
 
 
@@ -165,6 +187,16 @@ Build CRM for VSO Onboarding and   Management | https://github.com/department-of
 3. **Intent to File**: Review existing UX and development work (from the previous contract) and prepare for UX/development ahead
 3. **ARP adoption**: VSO follow up, begin shared mailbox setup
 4. **Team setup**: Onboarding a developer, refine processes and communication channels, define on call rotation, determine how to update ARP without feature flags, quick fix for test users
+
+
+## Sprint 1 Demo 
+([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251021_100609-Meeting%20Recording.mp4?csf=1&web=1&e=sGMFNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+
+1. Demo video added to ARP homepage
+2. ID.me added as a login/authentication option (in addition to Login.gov)
+2. Updating the Help page content, including ID.me mentions
+3. ARP sitewide alerts 
+4. 21a form upload
 
 
 
@@ -185,13 +217,6 @@ Build CRM for VSO Onboarding and   Management | https://github.com/department-of
 
 **Notes**:
 1. 10 tickets (10 relative points) of Team Benefits' stretch goal work was previously left In-Progress in the past ARF contract, and in Sprint 1 the ARC team merged the related PRs into Staging to maintain iterative code quality and progression.
-
-**Sprint 1 Demo ([recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251021_100609-Meeting%20Recording.mp4?csf=1&web=1&e=sGMFNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))**:
-1. Demo video added to ARP homepage
-2. ID.me added as a login/authentication option (in addition to Login.gov)
-2. Updating the Help page content, including ID.me mentions
-3. ARP sitewide alerts 
-4. 21a form upload
 
 
 
