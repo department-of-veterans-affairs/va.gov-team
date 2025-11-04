@@ -19,31 +19,33 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## **Research goals**
 
-* ## Goal 1: Gather feedback on the instructional content on each page.
+* Goal 1: Gather feedback on the instructional content on each page.
 
-* ## Goal 2: Evaluate the effectiveness of the formatting and visual hierarchy of the information presented.
+* Goal 2: Evaluate the effectiveness of the formatting and visual hierarchy of the information presented.
 
-* ## Goal 3: Evaluate whether users are able navigate through the document upload sections.
+* Goal 3: Evaluate whether users are able navigate through the document upload sections.
 
-* ## Goal 4: Understand how users think through uploading evidence in support of their condition(s).
-
-## 
+* Goal 4: Understand how users think through uploading evidence in support of their condition(s).
+ 
 
 ## **Initial Findings**
 
-### **Finding \#1**: When prompted to predict what would happen after the mental health docs overview page, most people articulated a process that reflected how to upload documents (read instructions, upload docs, review docs). Of the 4 people who were prompted to delete a document, 3 were able to easily imagine and successfully complete the task.
+### **Finding \#1**: When prompted to predict what would happen after the mental health docs overview page, most people articulated a process that accurately reflected how to upload documents (read instructions, upload docs, review docs). 
+Of the 4 people who were prompted to delete a document, 3 were able to easily imagine and successfully complete the task.
 
 * *In response to what they would expect after the mental health documents overview:* “It would give me an area where I could submit those additional documents” –P1
 
 * *In response to how they would imagine deleting a file from the summary screen:* “Go back, hit the back button, and then delete \[the file\].” –P4
 
-### **Finding \#2**: Most people did not understand the three overall steps of tasks (treatment record access, upload mental health docs, upload other conditions docs) that they had to complete in order to upload all of their documents in the correct places. When prompted with the idea of having just one place to upload their documents, many people preferred the simpler solution and didn’t find the separate steps particularly helpful. 
+### **Finding \#2**: Most people did not understand the three overall steps of tasks (treatment record access, upload mental health docs, upload other conditions docs) that they had to complete in order to upload all of their documents in the correct places. 
+A few people thought that the third step was asking them to upload "other documents" that weren't uploaded before. When we explained the differences between the sections, people wondered where they would put documents that didn't fit neatly into either of the two conditions they were tasked with having. When prompted with the idea of having just one place to upload their documents, many people preferred the simpler solution and didn’t find the separate steps particularly helpful. 
 
 * “So you have clinical records request from the VA…then you have a second supporting documents request, and now you have another documents request. Why is… so it's like a main, an other, and an other other?” –P8
 
 * “I was hoping that the point of this was to make things easier. And it kept asking me the same thing over and over again, which was not… helpful, I guess. I was hoping that it would be better in the streamlined process.” –P10
 
-### **Finding \#3**: Many people found the bulleted list of document types to be helpful content. A few commented that it made them consider submitting document types that they hadn’t thought to submit. Still, many of them are looking for even more specific examples than the ones currently listed. 
+### **Finding \#3**: Many people found the bulleted list of document types to be helpful content. 
+A few commented that it made them consider submitting document types that they hadn’t thought to submit. Still, many of them are looking for even more specific examples than the ones currently listed. 
 
 * “I think that this is giving me the tools and the information, like, knowing specifically what to get. It's a very empowering page…I definitely could have provided some more letters that I didn't think would be necessary to send \[back when I applied\], but now I'm like, oh, wow, that would have been helpful back then. I had a lot of military notes and documentation…I didn't realize how specific I could get. I didn't know that.” –P2
 
