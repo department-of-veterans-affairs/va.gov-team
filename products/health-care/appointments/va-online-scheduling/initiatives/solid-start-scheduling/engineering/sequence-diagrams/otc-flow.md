@@ -117,7 +117,8 @@ sequenceDiagram
 
 ### Questions:
 
-Are we going to need to send the confirmation emails?
+#### Are we going to need to send the confirmation emails?
 ANSWER: VASS will be sending the confirmation email
+#### How are we going to handle errors in submit?
 
 
