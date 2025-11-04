@@ -2,8 +2,40 @@
 - Current Sprint first
 
 ---
-## 📆 Sprint 6 (Oct 22 - Nov 4) 
+## 📆 Sprint 7 (Nov 5 - Nov 18) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] (continue) EZR Spouse QA findings resolutions, PR merges & resume QA
+- [ ] EZ Investigate Intro page looping
+
+## 
+### 10-10EZR
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#121661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121661) - [FE] Spouse review page skipped
+- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [looping isssue?]
+
+## 
+### 10-10CG
+
+#### No scheduled work this sprint
+
+##
+### Team PTO
+- Veteran's Day: 11/11 (A6 & Fed Holiday, AH floating)
+- Andrea: 11/10
+- Renata: 11/10
+- Kyle: 11/10
+
+---
+## 📆 Sprint 6 (Oct 22 - Nov 4) 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 - [ ] (continue) EZR Spouse QA findings resolution for Spouse review page skipped - **_Carry over due to unable to merge due to test failures and unable to reproduce_**
