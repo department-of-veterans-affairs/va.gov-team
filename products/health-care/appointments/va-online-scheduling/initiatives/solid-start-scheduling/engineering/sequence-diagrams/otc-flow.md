@@ -41,6 +41,7 @@ sequenceDiagram
 
     vetsApi-->>vetsWebsite: Return appointment confirmation
     vetsWebsite-->>user: Display confirmation message
+```
 ### Cancellation
 
 ``` mermaid
