@@ -49,6 +49,8 @@ Thanks for joining us today! My name is [Moderator Name] and I'll be moderating.
   * How was that experience for you?
 * On a scale of 1-5, one being very uncomfortable and 5 being very comfortable, how do generally feel about learning new websites or apps? Probe: What makes you say that? Why x instead of 5 or 1?
 
+* If an Oregon facility: ask them to describe how they access their healthcare portal, then go straight to pt 2.  If NOT an Oregon facility user, proceed to part 1 to confirm that they are OH users.   
+
 ## Part 1: Production / How participant accesses and manages their healthcare now (20 mins)
 Thanks for answering those questions. I want to transition us to exploring your patient portal together. First I want you to share your screen. Is that something you've done before?
 
