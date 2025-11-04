@@ -1,12 +1,6 @@
 
 # Engineering and Security Checklist
 
-## Instructions
-
-Your document should be brief and high-level.  Please keep it to a single page.  Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
-
-Some of the items below may not apply to your work--that's okay.  You may not be able to fill in some items that _do_ apply to your work--that's also okay.  If you don't have answers, please come to the Architecture Intent ready to ask questions.
-
 ## Engineering Checklist
 
 - Product description
@@ -16,91 +10,138 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + For user-facing changes, link to UX prototype or wireframes if available
     + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
 - Frontend changes
-    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code?
-    + Identify any new design system components needed or changes to current components
-    + Does this update change shared code?
-    + Describe any product analytics being gathered.  How will errors in the FE system be detected?
+    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? No
+    + Identify any new design system components needed or changes to current components 
+    **N/A**
+    + Does this update change shared code? 
+    **N/A**
+    + Describe any product analytics being gathered.  How will errors in the FE system be detected? 
+	 **Frontend tests are captured by unit testing.**
 - Backend changes
-    + Does the project introduce any new or unusual infrastructure dependencies? No
-    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`) No
-    + Do you need to poll any APIs for status?  How is API success or failure determined? No
-    + Are you handling all failure and error cases while in custody of your users's data? Yes
-    + Does this update change shared code? No
-    + What information will be captured in logs or metrics? High-level notifications only if Comparison Tool is down. No data being passed from FE to BE.
-    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? No
-    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? No
+    + Does the project introduce any new or unusual infrastructure dependencies? 
+    **No**
+    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`) 
+    **No**
+    + Do you need to poll any APIs for status?  How is API success or failure determined? 
+    **No**
+    + Are you handling all failure and error cases while in custody of your users's data? 
+    **Yes**
+    + Does this update change shared code? 
+    **No**
+    + What information will be captured in logs or metrics? 
+    **High-level notifications only if Comparison Tool is down. No data being passed from FE to BE.**
+    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? 
+    **No**
+    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? 
+    **No**
 - Internal API changes
-    + List new or modified APIs in `vets-api` N/A
-    + Are you deprecating or removing any APIs? No 
-    + Do you have API documentation? Yes, general API doc 
+    + List new or modified APIs in `vets-api` 
+    **N/A**
+    + Are you deprecating or removing any APIs? 
+    **No** 
+    + Do you have API documentation? 
+    **Yes, general API doc** 
     + Describe expected call patterns Vets website calls Vets API, GIBCT returns data 
-    + Are there new endpoints or services that require rate limiting or throttling? No
-    + Are there any third party integrations, and how are they vetted? No
-    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) No
-    + Is schema validation enforced (ex: using the vets-json-schema repo)? No schema validation 
+    + Are there new endpoints or services that require rate limiting or throttling? 
+    **No**
+    + Are there any third party integrations, and how are they vetted? 
+    **No**
+    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) 
+    **No**
+    + Is schema validation enforced (ex: using the vets-json-schema repo)? 
+    **No schema validation**
 - External API changes
-    + List new or modified APIs for upstream or external systems None
-    + Describe expected call patterns N/A
-    + What PII or PHI will be transmitted to/from the external systems? None 
+    + List new or modified APIs for upstream or external systems 
+    **N/A**
+    + Describe expected call patterns 
+    **N/A**
+    + What PII or PHI will be transmitted to/from the external systems? 
+    **N/A**
 - Background jobs
-    + List any required background processing N/A 
-    + Describe error and dead letter handling N/A 
+    + List any required background processing 
+    **N/A**
+    + Describe error and dead letter handling 
+    **N/A**
 - Data storage
-    + Describe new or modified databases, tables or columns N/A 
-    + Describe indexes and constraints N/A 
-    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted N/A
-    + Is this change introducing a large or new volume of data? No
-    + Do these changes impact database or caching layers (ex: Redis, Postgres)? Do the changes have implications for data volume, memory, or CPU usage to consider? No
-    + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism? N/A 
+    + Describe new or modified databases, tables or columns 
+    **N/A** 
+    + Describe indexes and constraints 
+    **N/A** 
+    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted 
+    **N/A**
+    + Is this change introducing a large or new volume of data? 
+    **No**
+    + Do these changes impact database or caching layers (ex: Redis, Postgres)? Do the changes have implications for data volume, memory, or CPU usage to consider? 
+    **No**
+    + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism? 
+   **N/A** 
 - Libraries and dependencies
-    + List new or updated dependencies N/A 
+    + List new or updated dependencies 
+    **N/A** 
 - Metrics, logging, observability, alerting
     + Identify key areas to monitor 
-    + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost
-    + Are there any sensitive data risks with logging?
+    **N/A**
+    + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost 
+    **No**
+    + Are there any sensitive data risks with logging? 
+**No**
 - Infrastructure and network changes
-    + List any changes or additions
+    + List any changes or additions 
+    **N/A**
 - Test strategy
     + Describe automated, manual and user acceptance test strategy
     + Describe required test data and test user accounts
 - Rollout plan
-    + List scope of any feature flags
-    + Identify other teams to coordinate with
+    + List scope of any feature flags 
+	 **Turning on feature flag to enable new feature** 
+    + Identify other teams to coordinate with 
+    **N/A**
     + Describe rollback plan
+**Turn off feature flag** 
 - Internal administration tasks
-    + What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
+    + What maintenance or administration tasks do you anticipate will need to be performed periodically? 
+    **N/A**
+    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.). 
+    **N/A**
 
 ## Security Checklist
 ### Questions to be Answered
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
-- Please describe what problem this product or feature solves.
+- Please describe what problem this product or feature solves. 
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
-  - The code base is compromised at source- or run-time.
+  - The code base is compromised at source- or run-time. 
+	**We intend to monitor Datadog for any unusual activity.**
     - How does the code base get disabled in the product?
+     **Disable the feature flag.**
     - How would you detect a compromise?
+    **Unusual activity in Datadog.**
     - What process and privilege does the code base execute under?
         - If so, is that process isolated?
+        **Same as vets-api and vets-website.**
         - If so, what additional credentials are available to that process?
-    - The code base is infiltrated or ex-filtrated.
+        **Same as vets-api and vets-website.**
+    - The code base is infiltrated or ex-filtrated. 
+    **Same as vets-api and vets-website.**
   - Links to dashboards that help identify and debug application issues
+  **TBD dashboards will be built out.**
 - Provide your Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
 - Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored?
+**N/A**
 - Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? If so, please answer the following questions:
-    - Is the PHI strongly encrypted?
-    - Is the PII encrypted?
-    - Can the sensitive information be scrubbed?
+    - Is the PHI strongly encrypted? 
+    **No**
+    - Is the PII encrypted? 
+    **No**
+    - Can the sensitive information be scrubbed? 
+    **N/A**
 - Are there any new, modified, or existing Cookies being used?
-    - If so, are there any new Cookies?
-        - If so, why can’t the existing Cookies be used?
-    - If so, are there any modified Cookies?
-        - If so, how are the Cookies modified?
-    - If so, are there any existing Cookies?
-- Is this feature authenticated or unauthenticated? Unauthenticated 
+**No**
+- Is this feature authenticated or unauthenticated? 
+**Unauthenticated**
 - Are there any other specific subjects that you want to highlight or focus additional attention on?
-
+**No**
 ### Artifacts
 Please provide the following documentation as attachments.
 - Architecture Diagram:
@@ -108,31 +149,45 @@ This diagram must go beyond simple boxes and lines. It must clearly indicate whi
 This diagram must also illustrate the following specifics.
   - Which implementation of security approaches were considered along with the approach that was chosen and why?
   - If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
-- Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
-    - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
-- Sequence Diagram:
-This diagram must include any authentication steps if this is an authenticated experience.
-- Data Flow Diagram:
-This diagram must illustrate the following specifics.
-  - What data is collected or used, and where, including information such as credentials used by this system?
-  - Where is the data is stored and how, including information such as any encryption used?
-  - How is the data transferred, including information such as any encryption used?
-  - Who accesses the data and in what capacity (read or read-write)?
-  - What is the audit trail of data access and manipulation?
-- API Endpoint Documentation:
-This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
-- Product Specifics:
-    - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    - A link to the Product Outline
-    - Ensure Product Outline contains Incident Response info, including:
-        - Points of contact for your system and dependent VA back-ends
-        - Links to dashboards that help identify and debug application issues
-    - Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your Product Playbook
-- Code links: Link to relevant code directories in GitHub.
-    - Front-end code links
-    - Back-end code links
-    - DevOps code links
 
+```mermaid
+graph TB
+    subgraph "User Layer"
+        User[Unauthenticated User<br/>Browser]
+    end
+    
+    subgraph "Frontend - vets-website"
+        CT[Comparison Tool]
+        Profile[Institution Profile Page]
+        ComplaintSection["Student Feedback and<br/>Complaints Data Section"]
+    end
+    
+    subgraph "Backend - vets-api"
+        APIEndpoint["/gi/institutions/[facility_code]<br/>GET endpoint"]
+    end
+    
+    subgraph "Data Source - GIBCT"
+        GIBCTEndpoint["/v1/gi/institutions/[facility_code]<br/>GET endpoint"]
+        Serializer["Institution Serializer<br/>(Enhanced with additional<br/>complaint data specifics)"]
+        GIBCT[(GIBCT Database)]
+    end
+    
+    User -->|Navigate & View| CT
+    CT --> Profile
+    Profile --> ComplaintSection
+    
+    ComplaintSection -->|Request institution data| APIEndpoint
+    APIEndpoint -->|Route to GIBCT| GIBCTEndpoint
+    GIBCTEndpoint -->|Query institution data with complaint details| GIBCT
+    GIBCT -->|Return institution data with complaint details| Serializer
+    Serializer -->|Return institution data with expanded complaint data| APIEndpoint
+    APIEndpoint -->|Return data| ComplaintSection
+    
+    style ComplaintSection fill:#e1f5ff
+    style Serializer fill:#fff4e1
+    style GIBCT fill:#f0f0f0
+   ```
+    
 ## Where to put this checklist and what to name it
 
 This document should be in markdown and should be shared in this location:
