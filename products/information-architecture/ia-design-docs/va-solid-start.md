@@ -1,8 +1,8 @@
 # LoRota scheduling for VA Solid Start (VASS) phone calls in the Transitioning Service Member Hub
-**STATUS: In progress**
-**Last updated**: November 4, 2025
+* **STATUS: In progress**
+* **Last updated**: November 4, 2025
 
-**Team:** Online LoRota scheduling being built by My HealtheVet/Appointments team
+* **Team:** Online LoRota scheduling being built by My HealtheVet/Appointments team
   * **Designers**: Steven Strailey, Jenny Wang
   * **OCTO**: Kristen McConnell
     
