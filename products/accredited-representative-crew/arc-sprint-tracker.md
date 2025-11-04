@@ -53,10 +53,11 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
    3. Representation request null state and details pages updated to refer to "representation requests" instead of "POA" or "power of attorney"
    4. Request list/search page updated from `You don't have access to this feature` to `You currently can't receive requests in the portal`
 2. Script for maintaining Staging test users for ARP
-3. Fixing the horizontal scrollbar in the right Contact Us column
-4. Representation requests enabled for Veterans of Foreign Wars
-5. Monitoring VA Notify callbacks in Datadog
-6. Review October metrics
+3. Implementing the multi-file component for Claims Submission
+4. Fixing the horizontal scrollbar in the right Contact Us column
+5. Representation requests enabled for Veterans of Foreign Wars
+6. Monitoring VA Notify callbacks in Datadog
+7. Review October metrics
 
 ## Sprint 2 Delivery
 - [ ] Sprint Delivery Approved by Enablement
