@@ -27,7 +27,7 @@
 ##
 ### 10-10d
 - [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
-  - [ ] []()
+  - [ ] [[FE] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
   - [ ] [[FE] 10-10d: Investigate users reporting page loading issues and inability to advance/submit the form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114586)
   - [ ] [[FE/QA] 10-10d/10-7959c - Form merge: Add Cypress tests for medium and maximum information scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123994)
