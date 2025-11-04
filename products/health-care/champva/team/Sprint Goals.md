@@ -55,8 +55,7 @@
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
   - [ ] [[Research] FMP Claims 10-7959f-2: Kick Off Direct Deposit Comprehension Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124000)
-  - [ ] [[Research] FMP Claims 10-7959f-2: Close Out Direct Deposit Comprehension Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124003)
-  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
+     
 
 
 ##
@@ -79,10 +78,10 @@
 ### WHAT'S NEXT
 - **FE**
 - **UX**
-- [ ] Monthly Metrics for October
-  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
+- [ ] FMP Claims Study Findings and Analysis
+  - [ ] [[Research] FMP Claims 10-7959f-2: Close Out Direct Deposit Comprehension Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124003)
+  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
 - **BE**
-- [ ] [IVC Forms: 2025-04-10 Monitor Incident - The provided stamp content was empty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
 
 
 ##
