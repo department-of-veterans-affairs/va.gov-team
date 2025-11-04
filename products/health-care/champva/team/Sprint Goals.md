@@ -21,7 +21,6 @@
 - [ ] **SPRINT GOAL** UX: 10-7959c: Audit Figma to compare to 10-10d v2 for alignment
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Kick off Direct Deposit Comprehension Study
 - [ ] **SPRINT GOAL** UX: All forms: Begin Audit of OOUX/CTA for 10-10 and IVC Forms
-- [ ] **SPRINT GOAL** [Data] Monthly Metrics Request for Health Apps Team - October 2025
 
 
 ##
@@ -82,8 +81,6 @@
   - [ ] [[BE] Add additional logging for confirmation email attachment counts, etc.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124114)
  - [ ] **SPRINT GOAL** UX: All forms: Begin Audit of OOUX/CTA for 10-10 and IVC Forms
   - [ ] [[UX] Health Apps: OOUX/CTA Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124007)
- - [ ] **SPRINT GOAL** [Data] Monthly Metrics Request for Health Apps Team - October 2025
-  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
 
 
 ## 
