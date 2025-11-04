@@ -9,7 +9,8 @@ sequenceDiagram
     participant vaNotify as VANotify
 
     %% Step 1: Email Invitation
-    vassBackend->>user: Sends email invitation with scheduling link (UUID)
+    vassBackend->>vaNotify: Queues email invitation with (UUID, cohortId)
+    vaNotify-->>user: sends invitation email with scheduling link 
 
     %% Step 2: User validates identity
     user->>vetsWebsite: Opens link, enters last name + date of birth
