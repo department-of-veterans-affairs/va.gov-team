@@ -2,6 +2,76 @@
 
 - Current Sprint first
 
+## 📆 Sprint 7 (Nov 5 - Nov 18) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
+- [ ] STRETCH GOAL: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+
+
+
+##
+### 10-10d
+- [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
+  - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Applicant Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121321)
+
+
+##
+### 10-7959a
+- [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
+  - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
+
+
+     
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
+  - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
+
+
+ 
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
+  - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
+
+
+##
+### All forms or Tech Debt
+- [ ] **SPRINT GOAL** Address Data Transformation and Metadata mislabeling tech debt
+  - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
+  
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+
+
+     
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+- [ ] Monthly Metrics for October
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
+- **BE**
+- [ ] [IVC Forms: 2025-04-10 Monitor Incident - The provided stamp content was empty](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+
+
+##
+### Team PTO
+
+
+---
+
 ## 📆 Sprint 6 (Oct 22 - Nov 4) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
