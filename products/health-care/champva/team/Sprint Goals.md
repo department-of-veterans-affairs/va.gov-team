@@ -23,6 +23,7 @@
   - [ ] [[BE] DISCOVERY: 10-10d/10-7959c - Unable to submit form in RI environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118852)
   - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
   - [ ] [[QA] 10-10D Extended: Validate VES submissions in preprod](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124068)
+  - [ ] [[UX] 10-10d v2: Tricare/Edge Case Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124011)
   
 
 
@@ -41,6 +42,7 @@
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
   - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
   - [ ] [[BE] 10-7959C: Add Datadog widget to track OHI forms submitted via 10-10D merged flow (sent to Pega)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123997)
+  - [ ] [[UX] Form 10-7959C: Audit Figma against 10-10D v2 OHI/Medicare flow for alignment with new PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123904)
 
 
  
@@ -52,7 +54,9 @@
 ##
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Create prototype for direct deposit user testing
-  - [ ] [[UX] FMP Claims Direct Deposit: Create prototype for testing](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121377)
+  - [ ] [[Research] FMP Claims 10-7959f-2: Kick Off Direct Deposit Comprehension Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124000)
+  - [ ] [[Research] FMP Claims 10-7959f-2: Close Out Direct Deposit Comprehension Study](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124003)
+  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
 
 
 ##
@@ -61,6 +65,8 @@
   - [ ] [[BE] All Forms - Monitoring: Revise automated email to Pega for missing status (2-hour trigger & recipients update)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123908)
   - [ ] [[BE] Remove PII from the payload for emails intended for Pega](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123543)
   - [ ] [[BE] Add additional logging for confirmation email attachment counts, etc.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124114)
+  - [ ] [[UX] Health Apps: OOUX/CTA Audit](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124007)
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - October 2025](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122389)
 
 
 ## 
