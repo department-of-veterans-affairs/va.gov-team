@@ -11,7 +11,7 @@
 - [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
 - [ ] **SPRINT GOAL** 10-10d: Validate VES Submissions with 10-10d v2
 - [ ] **SPRINT GOAL** 10-10d: Add Datadog widget to track 10-10d v2 OHI forms
-- [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and review and confirm pages to match SoT
+- [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and audit review and confirm pages to match SoT
 - [ ] **SPRINT GOAL** 10-7959a: Implement UX updates to confirmation email
 - [ ] **SPRINT GOAL** All forms: Revise Automated Emails to PEGA & confirm no PII
 - [ ] **SPRINT GOAL** All forms: Implement more robust logging, including confirmation email attachment counts
@@ -43,7 +43,7 @@
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and review and confirm pages to match SoT
+- [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and audit review and confirm pages to match SoT
   - [ ] [[FE] 10-7959a: Align Review and Confirmation Pages with Figma Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123926)
   - [ ] [[FE] 10-7959a: Update form to use minimal headers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123470)
 - [ ] **SPRINT GOAL** 10-7959a: Implement UX updates to confirmation email
