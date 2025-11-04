@@ -37,10 +37,8 @@ So, where _should_ it live?
 * External team (? unsure who this is) to create e-mails that explain the VASS phone-call scheduling and provide a link to the program where the URL is: `va.gov/service-member/benefits/solid-start/schedule/` - this will be disseminated to transitioning service-members off email lists that are not owned by OCTO.
 
 ## <a name="entry"></a>Entry point <br>
-*Illustration and/or description of how users will flow through the experience. The user flow helps illustrate how visitors will navigate to and through your product/feature, ensures all types of visitors and scenarios are accounted for, and aids in identifying all content and messaging needs.*
-
-* Entry point to LoRota scheduling flow: e-mails sent to transitioning service-members
-* The page for VA Solid Start on VA.gov will not have a link or other access to the LoRota scheduling flow for now, it is just a content page that prevents an empty directory where we want to build the flow, and connects VA.gov with SEO for this program so that it is findable both in site-search and in organic search via search engines. 
+* Entry point to LoRota scheduling flow: e-mails sent to transitioning service-members. 
+* The page for VA Solid Start on VA.gov **will not have a link** or other access to the LoRota scheduling flow for now, it is just a content page that prevents an empty directory where we want to build the flow, and connects VA.gov with SEO for this program so that it is findable both in site-search and in organic search via search engines. 
 
 ## <a name="flows"></a>User/page flows <br> 
 * [Figma designs](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=3-931&p=f&t=p2XO7WlE40z3vO2J-0)
