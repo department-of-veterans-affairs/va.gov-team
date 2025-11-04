@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 3 (Nov 4 - Nov 17, 2025)
 
 ## Sprint 3 Goals
-- [x] Sprint Goals Approved by Enablement
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on November 3, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1762200765604449)) 
 
 **Team Accreditation**: 
 1. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to implementing the multi-file component and addressing known bugs
@@ -44,25 +44,9 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 7. **Onboard accredited representatives into ARP**: support mailbox setup, onboard Veterans of Foreign Wars VSO, build CRM for VSO Onboarding and Management
 8. **ARC Team Onboarding and Setup**: onboard Principal tech lead, UX researcher, epic organization
 
+## Sprint 2 Demo 
+([Recording link]())
 
-## Sprint 2 Delivery
-- [ ] Sprint Delivery Approved by Enablement
-
-**Planned for Sprint 2**: x tickets, x points \
-**Added as a Sprint 2 stretch goal**: x tickets, x points 
-
-**Completed in Sprint 2**: x tickets, x points \
-**Crew Velocity**: x points / x days = x points / day
-
-**Crew Count in Sprint 2**: 14 teammates \
-**Average Teammate Velocity**: x points / x teammates = x points / teammate
-
-**Carrying into Sprint 3**: x tickets, x points 
-
-**Notes**:
-1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
-
-**Sprint 2 Demo ([recording link]())**
 1. Post-MVP content cleanup
    1. Title tags match the H1 page titles
    2. Dashboard content updated from `Would you like to get accredited?` to `Would you like to become accredited?`
@@ -73,6 +57,28 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 4. Representation requests enabled for Veterans of Foreign Wars
 5. Monitoring VA Notify callbacks in Datadog
 6. Review October metrics
+
+## Sprint 2 Delivery
+- [ ] Sprint Delivery Approved by Enablement
+
+**Planned for Sprint 2**: 42 tickets, 130 points + 1 spike \
+**Added as a Sprint 2 stretch goal**: 8 tickets, 14 points 
+
+**Completed in Sprint 2**: 33 tickets, 77 points \
+**Crew Velocity**: 77 points / 10 days = 7.7 points / day
+
+**Crew Count in Sprint 2**: 12 active teammates + 2 onboarding \
+**Average Teammate Velocity**: 77 points / 14 teammates = 5.5 points / teammate
+
+**Carrying into Sprint 3**: 18 tickets, 67 points 
+1. 4 tickets (18 points) are blocked, due to the government shutdown.
+2. 2 tickets (10 points) have significant progress, but are pending Engineering discovery to finalize
+3. 3 tickets (8 points) are pending external/Platform review
+4. 3 tickets (10 points) are awaiting feedback from Enablement
+5. 2 tickets (5 points) are pending team review
+
+**Notes**:
+1. 2 new teammates onboarding this sprint -- Principal Engineering Lead and a UX Researcher
  
 
 ## Sprint 2 Tickets
