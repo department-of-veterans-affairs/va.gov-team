@@ -118,6 +118,6 @@ sequenceDiagram
 ### Questions:
 
 Are we going to need to send the confirmation emails?
-ANSWER: Yes we do
+ANSWER: VASS will be sending the confirmation email
 
 
