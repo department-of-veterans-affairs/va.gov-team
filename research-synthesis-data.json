@@ -1,0 +1,142 @@
+{
+  "annotations": [
+    {
+      "selectedText": "Okay, awesome. Well, we got through all the beginning bit. So I know that was a lot of information. But if anything comes up, just let me know.",
+      "theme": "Accessibility",
+      "themeId": "accessibility",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P10.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P10.md",
+      "id": "1762193096090-c3tskadx1",
+      "createdAt": "2025-11-03T18:04:56.090Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "unsynced",
+      "lastSyncedAt": null,
+      "syncHash": "-gt6q5c"
+    },
+    {
+      "selectedText": "I've done. I've done both, on phone and I've also messaged them through the app, wwhere you can message your provider. I guess, for the care. I'm also calling to find out when I have an appointment.",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P12.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P12.md",
+      "id": "1762193106752-w0rs3z6xy",
+      "createdAt": "2025-11-03T18:05:06.752Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "unsynced",
+      "lastSyncedAt": null,
+      "syncHash": "udmf9k"
+    },
+    {
+      "selectedText": "Alright. So are you comfortable if I record my screen and audio today? Yes.",
+      "theme": "Usability Issues",
+      "themeId": "usability",
+      "subtheme": "",
+      "code": "",
+      "note": "Test annotation sync",
+      "fileName": "P1.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P1.md",
+      "id": "1762277969959-8zqda3819",
+      "createdAt": "2025-11-04T17:39:29.959Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "unsynced",
+      "lastSyncedAt": null,
+      "syncHash": "-2mrlow"
+    }
+  ],
+  "taxonomy": [
+    {
+      "id": "usability",
+      "name": "Usability Issues",
+      "subthemes": [
+        "Navigation",
+        "Form Inputs",
+        "Error Messages"
+      ]
+    },
+    {
+      "id": "accessibility",
+      "name": "Accessibility",
+      "subthemes": [
+        "Screen Reader",
+        "Keyboard Navigation",
+        "Visual Contrast"
+      ]
+    },
+    {
+      "id": "user-needs",
+      "name": "User Needs",
+      "subthemes": [
+        "Information Seeking",
+        "Task Completion",
+        "Support"
+      ]
+    },
+    {
+      "id": "pain-points",
+      "name": "Pain Points",
+      "subthemes": [
+        "Confusion",
+        "Frustration",
+        "Technical Issues"
+      ]
+    }
+  ],
+  "boardState": {
+    "ungrouped": [
+      {
+        "id": "1762277969959-8zqda3819",
+        "text": "Alright. So are you comfortable if I record my screen and audio today? Yes.",
+        "theme": "Usability Issues",
+        "subtheme": "",
+        "code": "",
+        "note": "Test annotation sync",
+        "source": "P1.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P1.md"
+      }
+    ],
+    "themeColumns": [
+      {
+        "id": "1762193138847-u81jgam2y",
+        "name": "Theme 1",
+        "color": "#e3f2fd",
+        "cards": [
+          {
+            "id": "1762193106752-w0rs3z6xy",
+            "text": "I've done. I've done both, on phone and I've also messaged them through the app, wwhere you can message your provider. I guess, for the care. I'm also calling to find out when I have an appointment.",
+            "theme": "User Needs",
+            "subtheme": "",
+            "code": "",
+            "note": "",
+            "source": "P12.md",
+            "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P12.md"
+          }
+        ]
+      },
+      {
+        "id": "1762193147423-6968j9kkd",
+        "name": "Theme 2",
+        "color": "#3228b8",
+        "cards": [
+          {
+            "id": "1762193096090-c3tskadx1",
+            "text": "Okay, awesome. Well, we got through all the beginning bit. So I know that was a lot of information. But if anything comes up, just let me know.",
+            "theme": "Accessibility",
+            "subtheme": "",
+            "code": "",
+            "note": "",
+            "source": "P10.md",
+            "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P10.md"
+          }
+        ]
+      }
+    ]
+  },
+  "syncedAt": "2025-11-04T18:19:49.229Z",
+  "syncedBy": "sstrassberg"
+}
