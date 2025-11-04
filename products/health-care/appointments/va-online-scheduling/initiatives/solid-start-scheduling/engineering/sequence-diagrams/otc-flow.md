@@ -35,7 +35,7 @@ sequenceDiagram
     user->>vetsWebsite: Submits appointment (EDIPI)
     vetsWebsite->>vetsApi: Submit appointment request (EDIPI)
     vetsApi->>vassBackend: Save appointment to VASS
-    vassBackend->>user: Sends confirmation email (via VANotify)
+    vassBackend->>vaNotify: Triggers confirmation email
     vaNotify-->>user: Confirmation email with cancel link
     vassBackend-->>vetsApi: Appointment confirmed
 
