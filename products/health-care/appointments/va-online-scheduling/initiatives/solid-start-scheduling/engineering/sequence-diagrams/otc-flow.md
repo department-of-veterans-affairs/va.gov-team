@@ -7,7 +7,7 @@ sequenceDiagram
     participant V as vets-api
     participant S as VASS-API
     participant N as VANotify
-    participant E as Email Service
+    participant E as Email Service(VASS)
 
     %% Step 1: Email Invitation
     E->>U: Email with scheduling link (UUID)
@@ -51,7 +51,7 @@ sequenceDiagram
     participant V as vets-api
     participant S as VASS-API
     participant N as VANotify
-    participant E as Email Service
+    participant E as Email Service(VASS)
 
     %% Step 1: Confirmation Email
     E->>U: Confirmation with cancel link (UUID)
