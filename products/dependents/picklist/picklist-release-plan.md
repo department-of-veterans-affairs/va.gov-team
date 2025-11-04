@@ -35,14 +35,15 @@ Mitigation: Full e2e testing in Staging environment and phased rollout in Produc
 
   * Silent failures
   * 500-series and 422 errors
+  * /v0/dependents_applications/show endpoint failures
   * Overall error rate
 
 ### Post-launch
 
-* Silent failures trigger alerts at any volume (0 percent threshold)
-* Overall submission error rate does not exceed alert threshold (initial target benchmark: 33 percent)
-* 500 series error rate does not exceed X
-* 422 series error rate does not exceed X
+* Silent failures trigger alerts at any volume (0% threshold)
+* Overall submission error rate does not exceed alert threshold (initial target benchmark: 30%)
+* 500 series error rate does not exceed 5%
+* 422 series error rate does not exceed 5%
 
 ---
 
@@ -68,7 +69,7 @@ Mitigation: Full e2e testing in Staging environment and phased rollout in Produc
 - **Audience**: 1% of live traffic
 - **Duration**: Minimum 2 full business days
 - **Advancement Criteria**:
-  - Silent failures = 0
+  - No silent failures
   - No alerts triggered on 422/500 error charts or overall error rate
   - Downstream confirmation from BGS/BEP
 
