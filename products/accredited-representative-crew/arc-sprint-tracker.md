@@ -55,10 +55,10 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. Script for maintaining Staging test users for ARP
 3. Implementing the multi-file component for Claims Submission
 4. Fixing the horizontal scrollbar in the right Contact Us column
-5. Representation requests enabled for Veterans of Foreign Wars
-6. CRM for VSO onboarding and management
+5. CRM for VSO onboarding and management
+6. Representation requests enabled for Veterans of Foreign Wars
 7. Monitoring VA Notify callbacks in Datadog
-8. Review October metrics
+9. Review October metrics
 
 ## Sprint 2 Delivery
 - [ ] Sprint Delivery Approved by Enablement
