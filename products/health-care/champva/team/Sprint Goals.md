@@ -7,12 +7,11 @@
 
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** Review PRs and manage code deployments 11/5 & 11/6
-- [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
 - [ ] **SPRINT GOAL** 10-10d: Validate VES Submissions with 10-10d v2
 - [ ] **SPRINT GOAL** 10-7959a: Update Minimal Headers, and review and confirm pages to match SoT
 - [ ] **SPRINT GOAL** 10-7959a: Implement UX updates to confirmation email
-- [ ] **SPRINT GOAL** 10-7959a: SPIKE to investigate supporting 3+ health insurance policies
 - [ ] **SPRINT GOAL** 10-7959c: Add Datadog widget to track 10-10d v2 OHI forms
 - [ ] **SPRINT GOAL** All forms: Revise Automated Emails to PEGA & confirm no PII
 - [ ] **SPRINT GOAL** All forms: Implement more robust logging, including confirmation email attachment counts
@@ -21,11 +20,13 @@
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Kick off Direct Deposit Comprehension Study
 - [ ] **SPRINT GOAL** UX: All forms: Begin Audit of OOUX/CTA for 10-10 and IVC Forms
 - [ ] **SPRINT GOAL** Data: Monthly Medallia Metrics - October 2025
+- [ ] **STRETCH GOAL** 10-7959a: SPIKE to investigate supporting 3+ health insurance policies
+
 
 
 ##
 ### 10-10d
-- [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
   - [ ] []()
 - [ ] **SPRINT GOAL** 10-10d: Add Cypress tests and fix RI Environment
   - [ ] [[FE] 10-10d: Investigate users reporting page loading issues and inability to advance/submit the form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114586)
@@ -46,8 +47,7 @@
 - [ ] **SPRINT GOAL** 10-7959a: Implement UX updates to confirmation email
   - [ ] [[BE] 10-7959a: Staging - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123990)
   - [ ] [[BE] 10-7959a: Production - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123993)
-- [ ] **SPRINT GOAL** 10-7959a: SPIKE to investigate supporting 3+ health insurance policies
-  - [ ] [[BE & FE] 10-7959A: Support 3+ health insurance policies by auto-generating additional claim cover sheets (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124069)
+
      
 
 ## 
@@ -85,7 +85,8 @@
 
 ## 
 ### STRETCH GOALS
-
+- [ ] **STRETCH GOAL** 10-7959a: SPIKE to investigate supporting 3+ health insurance policies
+  - [ ] [[BE & FE] 10-7959A: Support 3+ health insurance policies by auto-generating additional claim cover sheets (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124069)
 
      
 ##
