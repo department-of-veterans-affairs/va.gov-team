@@ -10,7 +10,7 @@ assignees: 'jasonday'
 
 ## 1. Introduction
 
-This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as you're able to before your staging review, and update this artifact with that progress. Log any issues you find (see 4. Next Steps).
+This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as possible before your staging review. Then update this artifact with your progress. Log any issues you find. Guidance for logging issues is available in the "4. Next steps" section of this ticket.
         
 ### Why we ask VFS teams to do accessibility testing
 The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
@@ -26,7 +26,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 - [ ] Team label, product label and feature label (if applicable) have been added to this issue.
 
 ## 3. Accessibility Checklist (Required + Recommended Items)
-- If you find an issue while performing a check, mark that item as "Fail".
+- If you find an issue while performing a check, mark that item as `Fail`.
 - You may find multiple issues while performing a single check. Every check should be tested on every page of your flow.
 - For every fail, log the issue (see 4. Next steps)
 - If the check is not applicable to your product, mark it as passed.
