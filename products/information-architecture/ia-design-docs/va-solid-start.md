@@ -25,7 +25,7 @@ While most "appointment" scheduling capabilities live with the appointments team
 
 So, where _should_ it live? 
 * We determined that it should be associated with the Transitioning Service-Member "hub." Hub is a strong word, since this is really a single hub landing page with multiple cross-links to other benefits and static pages.
-* This work is supporting a branded program known as "VA Solid Start" which has its own web pages in Google and in the email design (which is how users will access the URL to even get to this program to schedule an VASS call with the LoRota architecture) uses this language.
+* This work is supporting a branded program known as "VA Solid Start" which has its own web pages. The language has already been established and we need to lean-into this branding. 
 * Based on that, we will create a child page under the Transitioning Service-Member hub for VA Solid Start. There is an open ticket with the Content & IA team to take on the work to create this page. This helps us have a searchable result on VA.gov for the program, which will build SEO for the program in its relationship with VA.gov.
 * This also allows us to build out a URL for scheduling at: `va.gov/service-member-benefits/solid-start/schedule/*` where `/solid-start` is not an empty directory, but is a static page on VA.gov.
 * [Relevant slack thread](https://dsva.slack.com/archives/C01K37HRUAH/p1761678697628269) with decision on sitewide placement & approval from Danielle Thierry, Kristen McConnell 
