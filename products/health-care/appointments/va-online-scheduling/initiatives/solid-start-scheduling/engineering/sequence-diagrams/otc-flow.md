@@ -2,46 +2,45 @@
 
 ``` mermaid
 sequenceDiagram
-    participant U as User (Browser)
-    participant F as VASS Application (vets-website)
-    participant V as vets-api
-    participant S as VASS-API
-    participant N as VANotify
-    participant E as Email Service(VASS)
+    participant user as User (Browser)
+    participant vetsWebsite as VASS Frontend (vets-website)
+    participant vetsApi as vets-api
+    participant vassBackend as VASS Backend (API + Email)
+    participant vaNotify as VANotify
 
     %% Step 1: Email Invitation
-    E->>U: Email with scheduling link (UUID)
+    vassBackend->>user: Sends email invitation with scheduling link (UUID)
 
     %% Step 2: User validates identity
-    U->>F: Opens link, enters Lastname + DOB
-    Note over U,E: OTC flow (details below)
-    F-->>U: Proceed to scheduling page
+    user->>vetsWebsite: Opens link, enters last name + date of birth
+    Note over user,vassBackend: One-Time Code (OTC) verification flow
+    vetsWebsite-->>user: Redirect to scheduling page
 
-    
-    %% Step 3: Select date time
-    F->>V: Request appointment availability
-    V->>S: Get availability
-    S-->>V: Return availability
-    V-->>F: Return availability
-    U->>F: Select time slot
+    %% Step 3: View available times
+    vetsWebsite->>vetsApi: Request appointment availability
+    vetsApi->>vassBackend: Fetch available times
+    vassBackend-->>vetsApi: Return availability data
+    vetsApi-->>vetsWebsite: Return availability
+    user->>vetsWebsite: Select preferred time slot
 
-    %% Step 4: Scheduling Flow
-    F->>V: Request agent skills
-    V->>S: Get agent skills
-    S-->>V: Return agent skills
-    V-->>F: Return agent skills
-    U->>F: Select skills
+    %% Step 4: Agent skills
+    vetsWebsite->>vetsApi: Request agent skills
+    vetsApi->>vassBackend: Fetch agent skills
+    vassBackend-->>vetsApi: Return agent skills
+    vetsApi-->>vetsWebsite: Return agent skills
+    user->>vetsWebsite: Select agent skills
+    vetsWebsite: Display review page
 
-    %% Step 6: Confirm Appointment
-    F->>V: Submit appointment (EDIPI)
-    V->>S: Save appointment
-    S-->>V: Appointment confirmed
-    V->>N: Send confirmation email (templateId)
-    N-->>U: Confirmation email with cancel link
-    V-->>F: Appointment confirmed
-    F-->>U: Show confirmation message
+    %% Step 5: Confirm appointment
+    user->>vetsWebsite: Submits appointment (EDIPI)
+    vetsWebsite->>vetsApi: Submit appointment request (EDIPI)
+    vetsApi->>vassBackend: Save appointment to VASS
+    vassBackend->>user: Sends confirmation email (via VANotify)
+    vaNotify-->>user: Confirmation email with cancel link
+    vassBackend-->>vetsApi: Appointment confirmed
 
-```
+    vetsApi-->>vetsWebsite: Return appointment confirmation
+    vetsWebsite-->>user: Display confirmation message
 ### Cancellation
 
 ``` mermaid
