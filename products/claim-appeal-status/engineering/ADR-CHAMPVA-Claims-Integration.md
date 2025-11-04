@@ -56,6 +56,40 @@ module BenefitsClaims
 end
 ```
 
+### Current Benefits Claims structure from Lighthouse
+This is the structure that both vets-website and va.gov mobile currently consumes:
+```
+{
+  "data": [
+    {
+      "id": "555555555",
+      "type": "claim",
+      "attributes": {
+        "baseEndProductCode": "400",
+        "claimDate": "2017-05-02",
+        "claimPhaseDates": {
+          "phaseChangeDate": "2017-10-18",
+          "phaseType": "COMPLETE"
+        },
+        "claimType": "Compensation",
+        "claimTypeCode": "400PREDSCHRG",
+        "closeDate": "2017-10-18",
+        "decisionLetterSent": false,
+        "developmentLetterSent": false,
+        "documentsNeeded": false,
+        "endProductCode": "404",
+        "evidenceWaiverSubmitted5103": false,
+        "lighthouseId": null,
+        "status": "COMPLETE"
+      }
+    }
+  ]
+}
+```
+The goal is to create a ClaimResponseDTO that vets website understands.
+
+The question is: Can Claim Providers, such as CHAMPVA, transform/map their Claim types close to this for minimal work on the frontend clients?
+
 #### 2. Abstract Provider Interface
 Create a base provider module/class that defines the contract for all claim providers:
 - **Location**: `lib/benefits_claims/providers/benefits_claims/benefits_claims_provider.rb`
@@ -360,3 +394,49 @@ Frontend would:
 - Monitor performance impact with multiple providers
 - Consider caching strategies if latency becomes an issue
 - May need to add source attribution in claim responses (which provider returned each claim)
+
+## Task Responsibilities
+
+### BMT 1's responsibilities:
+
+#### Initial Setup
+Note: Most of these tasks will be setting up the infrastructure
+1. Infra Create/Implement Abstract ClaimsProvider class
+- write unit tests for it
+2. Infra Create ClaimResponseDto (Data Transfer Object)
+- defines interface between vets-api and frontend clients
+- this will be based on what is consumed today from Lighthouse, which both website and mobile app clients already consume
+3. Imple Create/Implement the concrete Provider for Lighthouse
+- create example transformation layer (#transform_to_dto method, even though it is a straight mapping)
+- write unit tests for it
+4. Infra Create/Implement Provider Registry Configuration
+- this is where we can gate providers by feature flag or settings file
+5. Infra Update claims Controllers to use ClaimsProviderRegistry
+- web: BenefitsClaimsController
+- mobile: ClaimsAndAppealsController
+
+#### Ongoing
+6. Infra & Ongoing Write documentation that demonstrates how another ClaimProvider workflow can be added
+- for other teams to be able to use
+7. Infra & Ongoing Main Dashboard for CST ClaimProvider
+- Set up monitoring for aggregated controller(s) responses
+8. Infra & Ongoing Review new ClaimProvider and Services that want to be added to the claim provider list
+
+
+### Claims Provider Teams' responsibilities (per team, i.e. CHAMPVA):
+#### Initial Setup
+1. Imple Create/Implement service that connects to datasource, i.e., an api
+- write unit tests for it
+- this is where an architecture intent review may be necessary if the data source is something new to vets-api (i.e., a connection does not exist yet)
+    - BMT1 would be more than happy to help with this
+2. Imple Create/Implement concrete Provider that inherits from abstract ClaimsProvider class
+- this will include the transformation layer (#transform_to_dto method) that will turn the data returned from the ClaimsProviderService to a ClaimResponseDto
+- write unit tests for it
+3. Infra Register the ClaimsProvider class in ClaimProviderRegistry to be used in mobile and web responses
+
+#### Ongoing
+4. Infra & Ongoing Set up monitoring for service class.
+- Add to main ClaimProvider dashboard
+- Set up alerting for anomalies in provider class and datasource service
+
+
