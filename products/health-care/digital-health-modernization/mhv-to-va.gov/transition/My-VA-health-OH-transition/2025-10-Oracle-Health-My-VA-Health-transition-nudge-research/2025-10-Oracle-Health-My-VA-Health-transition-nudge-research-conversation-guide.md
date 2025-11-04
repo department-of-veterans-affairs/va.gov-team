@@ -27,6 +27,7 @@
 ### Intro - 5 minutes
 Thanks for joining us today! My name is [Moderator Name] and I'll be moderating. One of my colleagues will be taking notes throughout the session. Today we're going to talk about your experience using your VA patient portal to manage your healthcare online. We will ask you to walk us through how you see what's new in your healht portal, schedule an appointment, and refill medications when you need more. We may jump around through these topics depending on what exists in your medical record. Before we start, I have a few things that I want to go over with you:
 
+- Confirm facility used based on roster.  If an Oregon facility, skip pt 1, ask them to describe how they access, then go straight to pt 2.
 - This session will take about 60 minutes.
 - During this session, we'll be asking you to share your screen which will show your personal health records. Your participation is completely voluntary. You can stop at any time. You can choose to show us one thing but not another - this is your choice. There will be no repercussions on your VA benefits if you want to stop at any point or don't want to share some information with us.
 - Are you comfortable sharing your screen while you navigate your VA health records?
