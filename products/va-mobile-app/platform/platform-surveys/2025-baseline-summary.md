@@ -83,8 +83,8 @@ The following analysis is based on responses to questions presented exclusively 
   - Example response: "stuck in a loop where we took what the Collab Cycle told us to do, which aligned with best practices for web. When we met with the Core Mobile team UX, they provided different guidance".     - Example response: "Right now, it feels like our team has to go through the collab cycle and then a mobile design process. These processes at times conflict with one another. I wish that we were given feedback from the collab cycle from the Mobile experts, and that we didn't have to manage various feedback and try to sort out which feedback we need to adhere to. One improvement is if Mobile experts were providing feedback on our designs during Design Intent and Midpoint Review, as well as Mobile engineers were providing feedback during Architecture Intent. This could help our team avoid conflicting feedback, as we would expect to get the source of truth from those individuals."
 
 **Development**
-- There is mixed understanding about feature prioritization. 40% of respondents somewhat understand. The remaining 6 respondents expressed neutral or significant uncertainty. 
-- Most users lack clarity on how to check the status of new requests or features in development. 50% have significant uncertainty in knowing how to track progress.
+- 40% of respondents somewhat understand the prioritization of features. The remaining 6 respondents expressed neutral or significant uncertainty. 
+- 50% have significant uncertainty in knowing how to track the progress of a new request or feature in development.
 - Only 10% of team members feel fully confident in understanding their role in the development process. 40% have significant uncertainty. 
 - Participants wished they had known earlier about the differences between mobile app standards and web experience
   - Example response: "I think it would be helpful to develop processes, such as a product playbook, for the mobile app. All of these items that we are being asked to do on the web should be ideally have a process for mobile. This could also help the Collab Cycle team provide guidance for teams building on the mobile app."
@@ -94,6 +94,7 @@ The following analysis is based on responses to questions presented exclusively 
 - Responses expressed desire for best practices, such as "accessibility standards specific to the mobile app", "debugging with React Native", and "local api testing"
 
 **Post-release**
+- 40% of respondents were slightly or significantly uncertain about the steps between development and release and their role during that phase. An additional 20% were netral in their understanding.
 - Participants indicated confusion about processes, responsibilities, and expectations, especially after release
   - 30% of team members somewhat understand what is expected of their team related to post-release analytics and monitoring. 40% have significant uncertainty. 
 - Most team members struggle to find Veteran feedback and data related to their features, with 50% expressing low to no confidence in their ability to locate this information.
@@ -104,6 +105,7 @@ Based on survey responses, focusing on the following areas will have the greates
   - Beyond onboarding, the initiation of a new feature/project could be another valuable time to review the development process, expectations, available developer tools, and documentation
 - Streamlining collab cycle and mobile processes and embedding mobile expertise to ensure feedback is consolidated into a single channel and consistent with mobile experience standards
 - Auditing existing documentation for accuracy and broadening topic coverage, such as analytics, unified standards, and reusable components
+- Increase visibility into development cycle, from prioritization through post-release 
 
 **Other suggestions**
 - "Would love to be able to connect a date log of found issues and resolutions deployed to cross reference with app review dates so we can see possible correlations or causation between feedback and found issues."
