@@ -6,7 +6,7 @@
   * **Designers**: Steven Strailey, Jenny Wang
   * **OCTO**: Kristen McConnell
     
-**IA Request:** Routed to Sara Sterkenburg, not through Content & IA team directly. 
+**IA Request:** Routed to Sara Sterkenburg, but also involves Joni Chan for work on new Drupal page / best bets. 
 
 **On this page:**
 - [Background](#background)
