@@ -159,7 +159,7 @@ Epic organization | https://github.com/department-of-veterans-affairs/va.gov-tea
 OOB Deploy Request - Allow ARP   Authentication for Reps with Invalid Addresses | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122449 | Done |   
 Engineering Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122615 | Done | 3 |  
 Representative research panel   documentation | https://github.com/department-of-veterans-affairs/va.gov-team/issues/117647 | Done | 3 | 
-Standards of Practices (SOPs) have been   created to define access and management of the mailbox | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121171 | Done | 2 | Awaiting Enablement feedback
+Standards of Practices (SOPs) have been   created to define access and management of the mailbox | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121171 | Done | 2 |
 General Onboarding to ARC [Jeff] | https://github.com/department-of-veterans-affairs/va.gov-team/issues/122483 | Blocked | 3 | Pending VBMS access
 Templates and signatures have been   created | https://github.com/department-of-veterans-affairs/va.gov-team/issues/121174 | In Progress | 5 | Work still in progress
 Audit ARC Research for Q1 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/120955 | Sprint Backlog | 3 | Carrying to Sprint 3 as an early UX Research task
