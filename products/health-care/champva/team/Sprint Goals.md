@@ -6,29 +6,41 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
-- [ ] STRETCH GOAL: Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
-
+- [ ] **SPRINT GOAL** Review PRs and manage code deployments 11/5 & 11/6
+- [ ] **SPRINT GOAL** Begin Staged Launch of 1010d/10-7959c Merge (BLOCKED BY SHUTDOWN)
+- [ ] **SPRINT GOAL** 10-10d: Address page loading and advance/submit issues
+  - [ ] [[FE] 10-10d: Investigate users reporting page loading issues and inability to advance/submit the form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114586)
+  - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Medicare Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121319)
+  - [ ] [[FE/QA] 10-10d/10-7959c - Form merge: Add Cypress tests for medium and maximum information scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123994)
 
 
 ##
 ### 10-10d
 - [ ] **SPRINT GOAL** 10-10d: Implement suggested content updates, address minor bugs, setup pager duty
-  - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Applicant Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121321)
+  - [ ] [[FE] 10-10d: Investigate users reporting page loading issues and inability to advance/submit the form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114586)
+  - [ ] [[FE] 10-10d/10-7950c Merge: Implement additional UX and Content/IA updates for Medicare Chapter](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121319)
+  - [ ] [[FE/QA] 10-10d/10-7959c - Form merge: Add Cypress tests for medium and maximum information scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123994)
+  - [ ] [[BE] DISCOVERY: 10-10d/10-7959c - Unable to submit form in RI environment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118852)
+  - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
+  - [ ] 
+  
 
 
 ##
 ### 10-7959a
 - [ ] **SPRINT GOAL** 10-7959a: Remove Enhanced Claims Flow Metadata Doc to ensure clean submissions
-  - [ ] [[BE] Remove the metadata doc being generated for Resubmissions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121699)
-
-
+  - [ ] [[FE] 10-7959a: Align Review and Confirmation Pages with Figma Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123926)
+  - [ ] [[FE] 10-7959a: Update form to use minimal headers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123470)
+  - [ ] [[BE] 10-7959a: Staging - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123990)
+  - [ ] [[BE] 10-7959a: Production - Implement additional UX and Content/IA updates for Confirmation Email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123993)
+  - [ ] [[BE & FE] 10-7959A: Support 3+ health insurance policies by auto-generating additional claim cover sheets (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124069)
      
 
 ## 
 ### 10-7959c
 - [ ] **SPRINT GOAL** 10-7959c: Review OHI Standalone PDF Updates
   - [ ] [[FE] 10-7959c Review OHI PDF Updates Needed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121684)
+  - [ ] [[BE] 10-7959C: Add Datadog widget to track OHI forms submitted via 10-10D merged flow (sent to Pega)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123997)
 
 
  
@@ -46,8 +58,9 @@
 ##
 ### All forms or Tech Debt
 - [ ] **SPRINT GOAL** Address Data Transformation and Metadata mislabeling tech debt
-  - [ ] [[BE] Tech Debt: Update list of data transformations that need to be moved](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121522)
-  
+  - [ ] [[BE] All Forms - Monitoring: Revise automated email to Pega for missing status (2-hour trigger & recipients update)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123908)
+  - [ ] [[BE] Remove PII from the payload for emails intended for Pega](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123543)
+  - [ ] [[BE] Add additional logging for confirmation email attachment counts, etc.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124114)
 
 
 ## 
