@@ -13,9 +13,10 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## **Note to reader**
 
-* After reaching the minimum of 7 research sessions, we added a design element to the prototype to emphasize for what conditions people would be uploading documents at each step. The initial 7 participants struggled with understanding this architecture, so we wanted to see if making it more obvious would make the workflow more or less clear and give us more nuanced insights.
+* We completed a total of 10 research sessions. After reaching our goal of 7 research sessions, we noticed that participants consistently struggled with understanding that they had to upload documents for mental health conditions first, and then upload documents for all other conditions. For the last 3 sessions, we decided to add a design element to the prototype to emphasize what needed to be uploaded for each step. We wanted to see if making it more obvious would make the instructions more or less clear and give us more nuanced insights.
 
-* Not all participants made it through the entire prototype. In the research report, we will be counting the number of people who have certain opinions, but they will be caveated with a “out of X number of people who saw this screen”. 
+* Not all participants made it through the entire prototype. In the final research report, we will be counting the number of people who have certain opinions, but they will be caveated with a “out of X number of people who saw this screen”.
+
 
 ## **Research goals**
 
@@ -30,19 +31,16 @@ This topline summary is a high level, top of mind summary of trends found in the
 
 ## **Initial Findings**
 
-### **Finding \#1**: When prompted to predict what would happen after the mental health docs overview page, most people articulated a process that accurately reflected how to upload documents (read instructions, upload docs, review docs). 
-Of the 4 people who were prompted to delete a document, 3 were able to easily imagine and successfully complete the task.
-
-* *In response to what they would expect after the mental health documents overview:* “It would give me an area where I could submit those additional documents” –P1
-
-* *In response to how they would imagine deleting a file from the summary screen:* “Go back, hit the back button, and then delete \[the file\].” –P4
-
-### **Finding \#2**: Most people did not understand the three overall steps of tasks (treatment record access, upload mental health docs, upload other conditions docs) that they had to complete in order to upload all of their documents in the correct places. 
-A few people thought that the third step was asking them to upload "other documents" that weren't uploaded before. When we explained the differences between the sections, people wondered where they would put documents that didn't fit neatly into either of the two conditions they were tasked with having. When prompted with the idea of having just one place to upload their documents, many people preferred the simpler solution and didn’t find the separate steps particularly helpful. 
-
+### Finding #1: Most people are likely to not be able to upload all their documents in the correct places, as they did not understand the three overall steps of tasks (treatment record access, upload docs for mental health conditions, upload docs for other conditions).
+A few people thought that the third step was asking them to upload "other documents" that weren't uploaded before. When we explained the differences between the sections, people wondered where they would put documents that didn't fit neatly into either of the two conditions they were tasked with having. When prompted with the idea of having just one place to upload their documents, many people preferred the simpler solution and didn’t find the separate steps particularly helpful.
 * “So you have clinical records request from the VA…then you have a second supporting documents request, and now you have another documents request. Why is… so it's like a main, an other, and an other other?” –P8
-
 * “I was hoping that the point of this was to make things easier. And it kept asking me the same thing over and over again, which was not… helpful, I guess. I was hoping that it would be better in the streamlined process.” –P10
+
+
+### Finding #2: When prompted to predict what would happen after the instruction page for mental health document uploads, most people foresaw a process that accurately reflected how to upload documents (read instructions, then upload docs, then review uploaded docs).
+Most people had this architecture in mind as they navigated the prototype. Of the 4 people who were prompted to delete a document, 3 were able to easily imagine and successfully complete the task.
+* In response to what they would expect after the mental health documents overview page: “It would give me an area where I could submit those additional documents” –P1
+* In response to how they would imagine deleting a file from the summary screen: “Go back, hit the back button, and then delete [the file].” –P4
 
 ### **Finding \#3**: Many people found the bulleted list of document types to be helpful content. 
 A few commented that it made them consider submitting document types that they hadn’t thought to submit. Still, many of them are looking for even more specific examples than the ones currently listed. 
@@ -51,13 +49,13 @@ A few commented that it made them consider submitting document types that they h
 
 * “It sums it all up, you know. All right. And it brings to mind other documents that you could \[submit\]. You're like, oh yeah, I remember….I never thought about getting my police record to document how this has affected me.” –P4
 
-### **Finding \#4**: Many people misunderstood the “Treatment Records” page to be about uploading copies of your records, rather than giving the VA access to your medical records.
+### **Finding \#4**: Many people misunderstood the choice page for treatment records to be about uploading copies of your records, rather than giving the VA access to your medical records.
 
 * “That's the treatment records that you just submitted. If you click yes, you're submitting those claim records. And you would submit them on \[that\] page…the next page would be to support those documents. So you would find them, and then you would click yes to continue…it would say, these are the records that you're submitting.” –P8
 
 * “Are there any treatment records you'd like us to review to support your claim? Yes, there has to be… I think it would be more beneficial if \[the page said\] here is where \[you upload them\].” –P10
 
-### **Finding \#5**: Many people were confused by the Other Supporting Documents upload page. At first, a few people thought they were being asked to upload the same documents again. 
+### **Finding \#5**: Many people's first impression of the upload page for other conditions was that they were being asked to upload the same documents again. 
 
 * “And now it's asking me again, do you have other documents? That's crazy. So are these documents I don't categorize into the other two?” –P3
 
