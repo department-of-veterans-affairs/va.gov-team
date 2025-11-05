@@ -29,7 +29,7 @@
 ##
 ### Team PTO
 - **Veteran's Day**: 11/11 (A6 & Fed Holiday, AH floating)
-- Andrea: 11/10
+- Andrea: 11/7, 11/10
 - Renata: 11/10
 - Kyle: 11/10
 
