@@ -105,31 +105,30 @@ tags:
   - "[participant-type]"
   - "[research-phase]"
 ---
-
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
-	
-`What problem is your product trying to solve?`
+The current online Form 526 only allows Veterans to claim a new condition or request an increase for a previously rated condition. Veterans who wish to file a Supplemental Claim — a contestable issue for a previously denied or previously rated condition, which requires new and relevant evidence — must currently use the separate Supplemental Claim form (VA Form 0995).
 
-**[Enter answer here]**
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+The challenge is to seamlessly incorporate the ability to claim contestable (supplemental) issues directly into the Form 526 online flow, allowing Veterans to claim supplemental conditions, or a mix of new, increase, and supplemental conditions, all within a single application. The design must accommodate this new condition category without disrupting the already successful mental model for "New" and "Increase" conditions.
 
-**[Enter answer here]**
-  
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
+This work will involve iterating on the existing 526 online form, and it will affect authenticated users.
 
-**[Enter answer here]**
+Link to [Product overview](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464)
 
-`Product Brief`
+### Design directions
 
-**[Link to product brief](url goes here).**
+The Conditions team has sketched out several high-level directions for this new feature and have narrowed down to three we want to test.
 
-</details>
+1. **“All the things”:** All a user’s conditions, including those that have been previously denied, are available to select on the start screen.  
+   ![][image1]
+
+2. **“Denials on second screen”:** Denied conditions are on a second screen after the start screen.  
+   ![][image2]
+
+3. **“CFI distinction”:** (This variation will be added to one of the primary directions above) If the user chooses a rated disability, a follow-up screen asks the user to distinguish between a supplemental claim and a claim for increase  
+   ![][image3]
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
@@ -139,303 +138,278 @@ tags:
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
 
 </details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
 - `Getting Out`
-- `Starting Up`
 - `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
-
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
+### Primary goal
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
+* Determine which of the design direction best meets user needs when filing a supplemental claim within the online 526, without negatively impacting the user experience of filing a standard disability claim. 
 
-### Goals
+### Secondary goals
 
-`1.` **[Enter answer here]**
+* Explore Veterans’ mental models and language around disabilities, claims, and appeals to inform how we approach organizing the conditions flow. *(secondary goal)*  
+  * Rationale: This design effort touches on topics that are complicated and nuanced, particularly around types of claims. VA has its own ways of differentiating types of claims, conditions, and statuses, but we don’t know if these mirror how Veterans think of their own situations. This exploration will be especially important for more complicated situations, such as differentiating claims for increase from supplemental claims on rated conditions.
 
-`2.` **[Enter answer here]**
+* Explore some of the recommended changes suggested by Platform in our Design Intent meeting. These include:  
+  * Clustering the conditions list with subheaders  
+  * Using tiles for radio button options
 
-`3.` **[Enter answer here]** 
+* Explore differentiating secondary conditions on the main ‘Add a condition’ screen. 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
+This research will:
 
-**[Enter outcome here]** 
-
+* Inform which design direction to pursue further. After selecting a direction, we’ll develop detailed designs and write content, then further test and iterate on the designs.  
+* Inform the organization of content, user flows, and language choices within the Conditions section of the online 526\. Specifically, it will help us answer questions such as:  
+  * How to group and refer to conditions the VA denied v. conditions the VA granted  
+  * For rated disabilities, how to differentiate between asking for an increase v. asking for a supplemental review  
+  * Whether we should treat secondary conditions as a separate category from other types of conditions  
+  * Can we use the term “secondary”? If not, what might we say instead?  
+  * How to talk about appealing a VA decision (e.g. do we say “appeal,” “disagree with,” “request a review,” or some other term?)  
+  * Can we use the term “service-connected”? If not, what might we say instead?  
+* Provide feedback on changes recommended by the Platform team.
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+**Goal: Determine which of the design direction best meets user needs when filing a supplemental claim within the online 526, without negatively impacting the user experience of filing a standard disability claim.**
 
-**`1.`[Enter Q1]**
+* Is one design easier to navigate and understand than the other?  
+* How well does each design communicate to users that they can create a supplemental claim for a condition within the 526 flow?  
+* How easy it is for users to add a supplemental condition to their claim?  
+* Are there any usability problems introduced by the new design that might affect Veterans’ ability to file a new or increase claim?  
+* How do Veterans react to seeing a list of conditions that have been denied?  
+* Do Veterans experience form fatigue or get overwhelmed by the number of options?  
+* Does the design create confusion, especially in areas which could negatively impact the outcome of their claim?  
+* Which design is perceived by Veterans as easier to use or more supportive?  
+* Does the prototype help Veterans understand the basic evidentiary requirements for supplemental claims?  
+* For “CFI distinction,” do Veterans understand the difference between filing a claim for increase versus a supplemental claim?
 
-**`2.`[Enter Q2]**
+**Goal: Explore Veterans’ mental models and language around disabilities, claims, and appeals to inform how we approach organizing the conditions flow.** 
 
-**`3.`[Enter Q3]**
+* How are conditions and their various statuses (particularly in relation to the VA) perceived?   
+* How do Veterans think about conditions that have been granted v. those that have been denied?   
+  * What about conditions that were granted at 0%?  
+* How do Veterans think about their conditions in terms of causality and relation to military service (e.g. service connection, presumption)  
+  * Do Veterans think of secondary conditions differently from conditions that are directly service-connected or aggravated?  
+* Is there a perceived order to which order claims should be filed, and if yes, what is that order and what are its origins?  
+* How do Veterans think about challenging a VA decision? What words do they use? 
 
-**`4.`[Enter Q4]**
+**Goal: Explore some of the recommended changes suggested by Platform in our Design Intent meeting.**
 
-**`5.`[Enter Q5]**
+* What is the effect of clustering the conditions list with subheads?  
+* What are the advantages and disadvantages of using tiles instead of radio buttons on the Add a condition screen?
 
-> [!TIP]
->Enter more questions as needed
+**Goal: Explore differentiating secondary conditions on the main ‘Add a condition’ screen.** 
 
-### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
-
-**[Enter hypotheses here]** 
+* Are Veterans familiar with the concept of a secondary condition?  
+* Are Veterans familiar with the term “secondary condition”  
+* How would a Veteran add a secondary condition to their claim?
 
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+## **Testing structure**
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+Our methodology will be a combination of semi-structured, exploratory interviews and task-based usability testing comparing two different prototypes. In these sessions, we will ask Veterans to share their screens and think aloud as they fill out a section of the online 526 application. The scenarios will focus on Veterans adding several different types of conditions to a disability claim. We’ll show each Veteran both prototypes and swap the order between sessions.
 
-</details>
+The sessions will last 75 minutes. Structure of the sessions:
 
-**[Enter methodology here]**
+* 5 minutes for introduction and housekeeping.  
+* 10-15 minutes for open discussion of disabilities, claims, and appeals.  
+* 10-15 minutes of scenario-based usability testing for first prototype.  
+* 10-15 minutes of scenario-based usability testing for second prototype.  
+* 5-10 minutes for comparing prototypes.  
+* 5-10 minutes for reflection questions and session wrap-up
 
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+## **Data collection**
 
-</details>
+* Record scenario completion rates  
+* Record post-task satisfaction ratings for each prototype  
+* Capture qualitative feedback through think-aloud protocol  
+* Record observations of user behavior that may reveal points of clarity or confusion, confidence or hesitation, facility or frustration  
+* Collect stated preferences between competing prototypes
 
-### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+## **Location and device**
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
-- [ ] **In-person**
-      
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
+Sessions will be conducted remotely, over Zoom. Participants can join from a computer, tablet or smartphone.
 
 ## Research materials 📔
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
+Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
-
-**For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
+- \[Link to conversation guide\](url goes here)  
+- \[Link to prototype\](url goes here)
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
+We’ll recruit Veterans across the following categories:
 
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
+* Have previously filed a disability claim of any type  
+* Have previously filed an appeal to a disability decision  
+* Have experience helping other Veterans file disability claims (2) (haven’t necessarily filed a claim themselves)
 
-### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+In terms of Veteran backgrounds, we’ll try for a balanced group across demographics. Because we’ll use wireframes for testing, we will not recruit for AT users. We’ll aim to over-recruit for groups that were under-represented in our most recent study (See “2025-06 New/Increase Conditions” tab in the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)). This includes:
+
+* Under age 55  
+* Rural  
+* High school only  
+* Other than honorable discharge  
+* Immigrant origin  
+* Expat  
+* Black or AA, Biracial, Asian, Native, American Indian or Alaska Native  
+* LGBTQ+
+
 
 ### Recruitment criteria
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+#### Primary criteria (must-haves)
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+| Cohorts | Recruit \# |
+| :---- | :---- |
+| 1) Have filed a disability claim within the last 15 years AND have never appealed a disability decision | 5 |
+| 2) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 4 |
+| 3) Have never filed a disability claim | 2 |
+| 4) Have experience helping other Veterans file disability claims (2)  | 3 |
+| **Total** | 14 |
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
+##### Demographics across all cohorts
 
+Education level:  
+- At least 6 with education level of Elementary/Intermediate/GED/High School  
+- No more than 3 with Masters/Professional/Doctoral  
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+Gender:  
+- At least 3 with gender other than Male  
 
-### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
+Race:  
+- At least 2 with Asian, Native, American Indian or Alaska Native  
+- At least 5 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial  
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+Age:  
+- At least 5 who are 34 or younger  
+- At least 4 who are 55+
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+LGBTQ+:  
+- At least 2 who identify as Gay, lesbian, or bisexual, Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman  
+
+Discharge:  
+- At least 2 who have discharge other than honorable
+
+#### Screener questions for Cohorts
+
+1. Have you filed a disability claim with the VA within the last 15 years? [Yes/No] 
+2. Have you ever filed an appeal of a decision the VA made on your disability claim? [Yes/No]   
+3. Do you help other Veterans with their disability claims, in either a volunteer or professional role? [Yes/No]   
+4. If you answered Yes to Question 3, what organization(s) do you work through? [Free text entry]
+
+**Screener instructions for Perigean:**  
+Cohort 1 (Recruit 5\) \= Yes to Question 1 AND No to Question 2  
+Cohort 2 (Recruit 4\) \= Yes to Question 1 AND Yes to Question 2  
+Cohort 3 (Recruit 2\) \= No to Question 1 AND No to Question 2 AND No to Question 3\.  
+Cohort 4 (Recruit 3\) \= Yes to Question 4\. Validate response with Question 5 \-- We are looking for people who have an official or semi-official role advising Veterans on disability claims.
+
+**Question for Perigean:** Do you need us to write screener questions for the other, more standard criteria?
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- Suggested dates and times: TBD
+
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
+\[\!NOTE\] Send pilot participant email in study Slack channel
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+* Pilot participant name: TBD  
+* Date and time of pilot session: TBD
+
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+
+* Planned dates of research: 11/24/2025 - 12/10/2025
+
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
-  
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
-  
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+
+* Session length: 75 min  
+* Buffer time between sessions: 30 min  
+* Maximum Sessions per day: 3 per day
+
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+Mon 11/24 
+- 11am \-3pm ET  
+- 4pm \- 6pm ET
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
+Tues 11/25 
+- 11am \- 6pm ET
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+Wed 11/26 (Day before thanksgiving)
+- 11am \- 2pm ET
+
+Mon 12/1 
+- 11am \- 2pm ET  
+- 2:30pm \- 6pm ET
+
+Tue 12/2 
+- 11am \- 2pm ET
+
+Wed 12/3 
+- 11am \- 1pm ET  
+- 1:30pm \- 2:30pm ET  
+- 4pm \- 6pm ET
+
+Thu 12/4 
+- 10am \- 2pm ET  
+- 3pm \- 6pm ET
+
+Fri 12/5 
+- 11am \- 5pm ET
+
+Mon 12/8 
+- 11am \-3pm ET  
+- 4pm \- 6pm ET
+
+Tues 12/9 
+- 10am \- 6pm ET
+
+Wed 12/10 
+- 10am \- 1pm ET
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+Please list the names of people in each role. In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- Moderator: Kim Ladin, Madeline Fritz  
+    
+- Research guide writing and task development (usually but not always same as moderator): Kim Ladin, Madeline Fritz  
+    
+- Participant recruiting & screening:	\[Enter full name\]  
+    
+- Project point of contact: \[Enter full name\]  
+    
+- Accessibility specialist (for sessions where support for assistive technology may be needed): N/A  
+    
+- Note-takers: Kim Ladin, Madeline Fritz  
+    
+- Observers: TBD
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
