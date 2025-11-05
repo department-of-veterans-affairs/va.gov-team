@@ -154,9 +154,9 @@ Where will you be holding the research sessions?
 
 - **10/31–11/05:** Finalize research materials & screener  
 - **11/05–11/07:** Kick-off with Perigean + recruitment launch  
-- **11/12:** Pilot session (with quick debrief)  
-- **11/13-11/14:** Minor protocol adjustments based on pilot  
-- **11/17–11/21:** Finalize recruitment and prep  
+- **11/25:** Pilot session (with quick debrief)  
+- **11/26–11/27:** Minor protocol adjustments based on pilot  
+- **11/28–11/29:** Finalize recruitment and prep  
 - **12/01–12/05:** Main research sessions (Mon–Fri; 5 days, 4 sessions/day = 20 slots)  
 - **12/08–12/09:** Buffer/final research sessions if needed (Mon–Tue; 4 sessions/day)  
 - **12/10–12/12:** Synthesis & preliminary findings 
