@@ -29,10 +29,12 @@
 
 ---
 
+# UX Research Plan: Benefits Management Notifications Study
+
 ## Background
 
-### Product Overview
-The **Benefits Management Tools (BMT)** portfolio supports Veterans in managing their benefits through VA.gov and the VA Health and Benefits (VAHB) mobile app. The tools include:
+### Briefly Describe the Background of Your Product
+The **Benefits Management Tools (BMT)** portfolio supports Veterans in managing their benefits through **VA.gov** and the **VA Health and Benefits (VAHB)** mobile app. The tools include:
 
 - **Claim Status Tool (CST)** – to track disability compensation claims and appeals  
 - **VA Letters and Documents** – to access official benefit correspondence  
@@ -41,20 +43,25 @@ The **Benefits Management Tools (BMT)** portfolio supports Veterans in managing 
 
 BMT aims to provide Veterans with clear, accessible, and timely updates about their benefits, helping them stay informed and act when needed.
 
-### Problem Statement
-Today, Veterans primarily receive benefits notifications by paper mail. Currently, only **decision letter notifications** are sent digitally via email, while other notifications (e.g., **evidence requests**) are still delivered by paper.
+### What Problem Is Your Product Trying to Solve?
+Today, Veterans primarily receive benefits notifications by **paper mail**. Currently, **decision letter notifications** are the only type sent digitally via email, while all other notifications, including evidence requests, are still delivered by paper.  
 
-As BMT expands to include **text messages (SMS)** and **in-app notifications**, we need to ensure these channels are clear, consistent, and trustworthy. We don’t yet know how Veterans perceive or act on these digital notifications—especially how they distinguish between **informational** and **action-required** messages.
+As the Benefits Management Tools (BMT) team expands to include **text messages (SMS)** and **in-app notifications**, and as we broaden the types of updates Veterans receive, we must ensure these channels work together in a way that is clear, consistent, and trustworthy.
 
-This study focuses on **decision letter** and **evidence request** notifications to understand how Veterans prefer to receive, interpret, and act on these communications across email, text, and in-app channels.
+We don’t yet know how Veterans perceive or act on these new digital notifications, particularly how they distinguish between **informational messages** (like decision letters) and **action-required messages** (like evidence requests). Without shared standards for content, tone, and sequencing, there is a risk of confusion, missed actions, or reduced trust.
 
-Findings will guide VA in creating a cohesive, actionable, and accessible notification experience that helps Veterans quickly understand what happened, what to do, and by when.
+This study will focus on **decision letter** and **evidence request notifications** to understand how Veterans prefer to receive, interpret, and act on these communications across **email**, **text**, and **in-app** channels.  
+The findings will guide VA in creating a cohesive, actionable, and accessible notification experience that helps Veterans quickly understand what happened, what to do, and by when.
 
-### Product Location
-The notification system (**VA Notify**) is integrated across VA.gov’s benefits management ecosystem and the **VA Health and Benefits** mobile app, primarily supporting the **Claim Status Tool** and related features.
+### Where Is Your Product Situated on VA.gov?
+The notification system (**VA Notify**) is integrated across VA.gov’s benefits management ecosystem and the **VA Health and Benefits mobile app**, primarily supporting the **Claim Status Tool (CST)** and related benefits management features.  
 
-### Veteran Familiarity
-Veterans are familiar with receiving notifications by **paper mail** and increasingly through **email**. The new system expands these channels with **in-app alerts** and **notification settings**, giving Veterans more control over how they receive updates.
+CST is an authenticated tool that Veterans use to check the status of their claims and appeals, view and respond to evidence requests, and access claim letters.
+
+### What Is Veterans’ Familiarity with This Tool?
+Veterans are already familiar with receiving benefit notifications through **paper mail** and, more recently, through **email**. The new notification system expands on existing VA digital tools to make communications clearer, more consistent, and more accessible.  
+
+It introduces **in-app alerts** and **notification settings** that give Veterans more control over how they receive updates.
 
 ---
 
@@ -76,96 +83,94 @@ Veterans are familiar with receiving notifications by **paper mail** and increas
 ---
 
 ## Veteran Journey
-This research supports Veterans during:
+This research primarily supports Veterans during:
 
 - **Taking Care of Myself** – managing ongoing disability compensation and appeals  
 - **Putting Down Roots** – maintaining access to benefits and records for financial stability  
 
 ---
+
 ## Research Scope
-This study will explore and evaluate how Veterans interpret and act on decision letter and evidence request notifications across channels focusing on clarity, tone, and preferred sequencing. We will not test message delivery mechanics and interface usability at this time.
+This study will explore and evaluate how Veterans interpret and act on **decision letter** and **evidence request** notifications across channels (**email**, **text**, and **in-app**) — focusing on **clarity, tone, and preferred sequencing**.  
+
+We will **not** test **message delivery mechanics** (e.g., backend timing or system routing) or **interface usability** at this time.  
+Accessibility testing with assistive devices will occur in a separate study.
 
 ---
+
 ## Research Goals
 
 ### Goals
 1. Identify what information Veterans expect and find most useful in **decision letter** vs. **evidence request** notifications.  
-2. Explore which channels (email, text, in-app) Veterans prefer for each type of notification and why.  
+2. Explore which channels (email, text, in-app) Veterans prefer for receiving each type of notification and why.  
 3. Assess how content structure, tone, and sequencing influence understanding, trust, and task completion.  
 4. Explore barriers, trust, and accessibility issues across Veteran segments (e.g., older adults, low-vision users, paper-first users, cognitive deficits).
 
 ### Outcome
-This research will generate **evidence-based insights** to refine and strengthen VA’s notification and design guidance by focusing on how Veterans **receive, understand, and act** on decision letter and evidence request notifications across digital channels.
+This research will generate **evidence-based insights** to refine and strengthen VA’s notification and design guidance by focusing on how Veterans receive, understand, and act on decision letter and evidence request notifications across digital channels.
 
-Specifically, the study will:
+Specifically, this study will:
 
-- Validate and refine **content standards** for digital notifications.  
-- Fill gaps in **tone, structure, and sequencing guidance**.  
-- Identify **design and interaction patterns** that support trust and task completion.  
-- Surface **accessibility needs** and preferences across devices and abilities.
+- Provide **directional insight and recommendations** for digital notifications that communicate claim decisions and evidence requests, defining what information belongs in each channel and how much detail is appropriate.  
+- Fill gaps in **tone, structure, and sequencing guidance** to ensure Veterans clearly understand what happened, what to do, and by when, particularly for time-sensitive requests.  
+- Identify **design and interaction patterns** that support task completion, build trust, and reduce confusion when Veterans receive official updates through digital channels.  
+- Surface **accessibility needs and preferences** to ensure decision letter and evidence request notifications are usable and inclusive for Veterans across devices, abilities, and comfort levels with technology.
 
-Findings will inform the next iteration of the **Benefits Management Tools (BMT)** notification experience, guiding the rollout of digital notifications that are **clear, accessible, and trustworthy**.
+Findings from this study will directly inform the next iteration of the **Benefits Management Tools (BMT)** notification experience, guiding the rollout of digital notifications that are **clear, accessible, and trustworthy** for all Veterans.
 
 ---
 
 ## Research Questions
-
 1. How do Veterans interpret the purpose and importance of decision letter and evidence request notifications?  
-2. What level of detail and tone feels appropriate for each channel (text, email, in-app)?  
-3. What elements (subject line, sender name, preview text) most affect trust and engagement?  
-4. Through which channels do Veterans prefer to receive each notification type, and why?  
+2. What level of detail and tone feels appropriate for each channel (text, email, in-app) for both notification types?  
+3. What elements (e.g., subject line, sender name, preview text) most affect trust and engagement?  
+4. Through which channels do Veterans prefer to receive decision letter vs. evidence request notifications, and why?  
 5. How do Veterans decide which channel to act on first when receiving notifications across multiple channels?  
-6. What types of messages feel too sensitive or urgent for certain channels (e.g., SMS)?  
-7. How do accessibility needs or device use shape channel preferences and actions?  
-   - How easily can assistive tech users read and understand notifications across channels?  
-   - What language, tone, or formatting elements aid or hinder interpretation?  
-   - How does message structure affect comprehension for cognitive or reading challenges?  
-   - How do visual factors (contrast, font size, layout) influence legibility?  
-   - Which channels are more accessible for assistive tech users?  
-   - What challenges arise when switching devices (e.g., mobile to desktop)?  
-8. How do Veterans perceive differences in tone, urgency, and next steps between notification types?  
-9. What sequencing (e.g., text → email → in-app) best supports timely understanding and action?  
-10. How can future design patterns clearly differentiate “informational” vs. “action-required” messages?
+6. What types of messages feel too sensitive or too urgent for certain channels (e.g., SMS)?  
+7. How do Veterans perceive differences in tone, urgency, and next steps between decision letter and evidence request notifications?  
+8. What sequencing (e.g., text → email → in-app) best supports timely understanding and action for evidence requests?  
+9. How can future notification design patterns differentiate “informational” vs. “action-required” messages clearly and consistently?
 
 ---
 
 ## Hypotheses
-
-- Veterans prefer **email** for detailed updates and **text messages** for urgent alerts.  
-- Clear **call-to-action** (what happened, what to do, by when) improves task completion.  
-- **Friendly, plain language** builds trust; bureaucratic tone reduces it.  
-- **Privacy concerns** vary depending on content sensitivity.  
-- **Accessibility needs** reveal unique barriers to interacting with notifications.
+- Veterans prefer **email** for official, detailed updates and **text messages** for urgent or time-sensitive alerts.  
+- The clarity of the **call-to-action** (what happened, what to do, and by when) will significantly impact task completion.  
+- **Friendly and plain language** builds trust, while legal or bureaucratic tones create confusion and anxiety.  
+- **Privacy concerns** about text messages vary depending on content sensitivity (e.g., health vs. compensation updates).
 
 ---
 
 ## Methodology
 
 ### Method
-**Semi-structured interviews** with scenario-based evaluations of sample notifications.  
-Participants review and react to notification examples (text, email, in-app) to evaluate **clarity, tone, actionability, and trust**.
+**Semi-structured interviews** with scenario-based evaluations of sample notifications will explore how Veterans interpret and react to **decision letter** and **evidence request** messages across channels (email, text, and in-app).
 
-### Rationale
-Semi-structured interviews uncover **mental models, trust signals, and tone perceptions** that quantitative data cannot reveal.
+Discussions will focus on **clarity**, **tone**, **trust**, and **next-step understanding** to identify how well each notification communicates what happened and what action is expected.  
+
+Participants will **not perform tasks** within VA.gov or the VA Health and Benefits app.  
+Findings will inform **content and design improvements**, not usability flows or task performance.
+
+### Why This Method
+Semi-structured interviews allow participants to explain their reactions in context, uncovering **mental models**, **trust signals**, and **tone perceptions** that wouldn’t surface in a standard interview.
 
 ---
 
 ## Session Structure
 
-Each 60-minute session includes:
+Each 60-minute session will include:
 
 1. **Introduction:** Explore how participants currently receive and respond to VA notifications.  
-2. **Scenario 1 – Decision Letter:** Review and react to email + text/in-app mockups; discuss tone, clarity, next steps.  
-3. **Scenario 2 – Evidence Request:** Review and react to notifications; probe urgency, trust, and sequencing.  
-4. **Comparative Reflection:** Contrast experiences; discuss preferences for clarity, trust, and usability.
+2. **Scenario 1 – Decision Letter:** Review and react to email + text/in-app mockups; discuss tone, clarity, and next steps.  
+3. **Scenario 2 – Evidence Request:** Review and react to sample notifications; probe urgency, trust, and preferred sequencing.  
+4. **Comparative Reflection:** Ask Veterans to contrast the two experiences — what feels clear, trustworthy, or overwhelming, and how they’d prefer to receive future updates.
 
 ### Location
-**Remote (via Zoom)** with screen share to view examples.
+Remote (via **Zoom** with screen share to view examples).
 
 ---
 
 ## Research Materials
-
 - [Link to Conversation Guide]  
 - [Link to Notification Mockups / Prototypes]
 
@@ -174,32 +179,32 @@ Each 60-minute session includes:
 ## Recruitment
 
 ### Recruitment Approach
-Recruit through **Perigean**, targeting a diverse sample of Veterans representing a range of ages, devices, and digital literacy levels. Focus on Veterans managing **disability compensation claims or appeals** on VA.gov or VAHB.
+Recruit through **Perigean**, targeting a diverse sample of Veterans representing a range of ages, devices, and digital literacy levels.  
+Sampling will focus on Veterans with experience managing **disability compensation claims or appeals** on VA.gov or the VAHB app.
 
 ### Recruitment Criteria
 
-**Primary:**
-- U.S. Veteran using VA.gov or VAHB  
-- Submitted/tracked a disability claim or appeal in the past year  
-- Received a VA notification in the last 6 months  
+#### Primary Criteria
+- U.S. Veteran actively using VA.gov or the VA Health and Benefits mobile app  
+- Has submitted or tracked a disability compensation claim or appeal in the past year  
+- Has received a VA notification within the last 6 months  
 
-**Secondary:**
+#### Secondary Criteria
 - Mix of device use (mobile-only, desktop, both)  
-- ≥4 participants using assistive tech (screen readers, magnifiers)  
-- ≥4 paper-first Veterans transitioning to digital experiences  
+- 2+ paper-first Veterans transitioning to digital experiences  
 
 ### Sample Size
-- **20 total recruited**  
-- **10–12 completed sessions (ideal)**
+- **Veterans:** 15 total recruited  
+- **Ideal Completed Sessions:** 10–12  
 
 ---
 
 ## Timeline
 
 - **Session Length:** 60 minutes  
-- **Observer Debrief:** 15 minutes  
-- **Buffer Between Sessions:** 30 minutes  
-- **Max Sessions/Day:** 3  
+- **Debrief with Observers:** 15 minutes  
+- **Buffer Time Between Sessions:** 30 minutes  
+- **Max Sessions per Day:** 3  
 - **Recruitment Start:** TBD  
 - **Research Review Submission:** TBD  
-- **Study Duration:** 3–4 weeks (including synthesis + shareout)
+- **Study Duration:** 3–4 weeks (including synthesis and shareout)
