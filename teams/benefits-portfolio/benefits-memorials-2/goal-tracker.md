@@ -66,6 +66,29 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 21 [11/5/25 - 11/18/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Continue service blueprint work, including meeting with VEO team, identifying SME’s, finalizing conversation guides.| QP7 |--|--|--|
+|UX: Complete October Medallia reporting, bringing all Medallia reports up the most current state.| QP7 |--|--|--|
+|UX: Submit initial artifacts and schedule Design Intent touchpoint for the pay.gov Overpayments collaboration cycle.| QP4 |--|--|--|
+|ENG: Define remaining backend work for the Lighthouse API and fully draft necessary tickets.| QP3 |--|--|--|
+|ENG: Review Payment History designs with UX team.| QP3 |--|--|--|
+|ENG: Make a Payment History endpoint available for the frontend to consume.| QP3 |--|--|--|
+|TEAM: Initiate the Hardship Suspension collaboration cycle.| QP3 |--|--|--|
+|TEAM: Pending the code though happening, release the One Thing Per Page initiative.| QP2 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (11/4/25)
+ - [X] VA PO & COR sent the Sprint Goals (11/5/25)
+ - [ ] VA PO approved the Sprint Goals (11/XX/25)
+ - [ ] VA COR approved the Sprint Goals (11/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
 
