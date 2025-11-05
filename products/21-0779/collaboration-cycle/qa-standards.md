@@ -17,3 +17,8 @@ See [Form 21-0779 Endpoint Monitoring documentation](./endpoint-monitoring.md) f
 See [QA7 Silent Failures Analysis](./qa7-silent-failures.md) for details.
 
 **Summary:** Form 21-0779 shares infrastructure with Form 21P-530a. Both use the shared Sidekiq job with ~22 forms. See [Forms 21P-530a & 21-0779 QA7 Analysis](../21P-530a/collaboration-cycle/qa7-silent-failures.md) for complete analysis.
+
+## Code Coverage
+
+<img width="1386" height="1353" alt="Screenshot 2025-11-05 at 4 34 54 PM" src="https://github.com/user-attachments/assets/aa242063-69d0-4070-b742-4a6bc6f25821" />
+<img width="1365" height="413" alt="Screenshot 2025-11-05 at 4 35 14 PM" src="https://github.com/user-attachments/assets/0649e9b7-e41e-4ef1-a7a0-198df001136b" />
