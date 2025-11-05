@@ -6,6 +6,8 @@ Definitions:
 - **VA.gov Profile:** This is what the Veteran sees and interacts with. It contains user information including personal information and account settings. It focuses on allowing users to view and manage their information and preferences for the VA. (https://www.va.gov/profile) slack: #accountexp-authexp
 - **VA Profile team:** API team. They handle all the data storage and management. slack: #va-profile
 - **My VA** is the personalized authenticated homepage. It focuses on personalized, dynamic, actionable user tasks that are time sensitive. (this is not the same as VA.gov/profile)
+- **ICN** Integrated Control Number. Format 17 alpha-numeric internal control number (ICN) [format: 10 digits + "V" + 6 digits] 
+- **MPI** MPI is the authoritative identity service within VA, establishing, maintaining and synchronizing identities for all VA persons of interest (e.g. veterans, beneficiaries, dependents, employees, contractors, health professional trainees). ([Source](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000303997/M22-4-Addendum-Glossary-Appendix-B-Common-Terminology?query=ICN#M))
 
 **1. Is it true that if a person is LOA3 verified, VA.gov profile has name, dob, ssn data to display to Veterans?**   
    - **This is mostly correct**.
@@ -46,8 +48,8 @@ Definitions:
    - Any telephone number: 86%
    - Email address: 72%
 
-
-  
+**10. If a person has an ICN, does that mean they are LOA3?**
+Yes, if the person is LOA3 on va.gov, they have an ICN. You should never have a person as LOA3 on va.gov that does not have an ICN. There are situations where MPI might be down (the source of ICN) and we wouldnt have an ICN, but this doesnt mean they dont have a verified account.
 
 ## Table showing the difference between no auth, loa 1, loa 3
 
