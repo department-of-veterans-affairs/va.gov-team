@@ -106,9 +106,8 @@ tags:
   - "[research-phase]"
 ---
 
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+# Research Plan for [Team, Product, Date]
+
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -210,42 +209,49 @@ Are there moments that matter?</summary>
 
 ***Consider bucketing research questions under research goals and think about:***
 	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+`What will I do with what I learn from this question? Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+_"Form output" is the generic term we'll be using in this document. For Veteran's we will most likely refer to it as the "copy of submission". For VSRs, we will most likely refer to it as the "application or form submission."_
 
-**`2.`[Enter Q2]**
+**Goal 1: Understand current user processes/ workflows with regards to accessing and using the form output**
 
-**`3.`[Enter Q3]**
+* Context: When and how would Veterans and VSRs use or encounter this form output?
+* What do Veterans and VSRs do with the information from the form output? What happens next in their workflow?
 
-**`4.`[Enter Q4]**
+**Goal 2: Gauge users' expectations, reactions, and preferences for how the form sections, questions, and answers are laid out**
 
-**`5.`[Enter Q5]**
+* Is the general layout and content hierarchy understood by Veterans and VSRs?
+* Baseline concept: Can Veterans and VSRs easily distinguish sections and repeating subsections (such as multiple children) from another?
 
-> [!TIP]
->Enter more questions as needed
+**Goal 3: Evaluate whether users are able to navigate through the form viewer and identify their preferred methods**
+
+* How do Veterans and VSRs normally navigate form outputs? Scrolling, keyboard tabbing, etc.?
+* Are Veterans and VSRs typically looking for specific information or looking at the form output in it's entirety?  
+* What would Veterans and VSRs expect to happen when they click on the navigational components, and would they use it? 
+
+**Goal 4: Understand what information is most important and preferences for how it would be displayed**
+
+* Is there information that's missing that Veterans and VSRs would like to see?
+    * Is there information that Veterans and VSRs would like to be emphasized?
+* Is there too much information? What would Veterans and VSRs like to remove or de-emphasize?
+
+**Goal 5: Understand how the proposed concepts compare to the current solution and what would be ideal – including how the proposed concepts impact downstream tasks**
+
+* How do these concepts compare to how Veterans and VSRs would normally view the form output?
+    * Are there any features or qualities that are missing?
+* Is there anything Veterans and VSRs would wish to have?
+
+
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
+* Most participants will appreciate the simplified, yet comprehensive nature of the form output.
+* Most participants will comment on the "clean" look (e.g., visual hierarchy, reduction of visual elements like a grid) that makes it easy to read – especially when VSRs compare it to the legacy paper/ PDF form.
+* Some participants will probably desire the ability to use a navigation menu throughout the page, not just at the top of the page (using the "on this page" component).
+* Some will download and/or print the copy of submission for record-keeping and contingency purposes. Others will not do so, expecting the ability to access the copy at another time.
+* When asked how they would access the copy of submission, most will probably agree that accessing it via the confirmation page is appropriate. Some will probably allude to accessing it from their authenticated account (MyVA) if accessed at a time beside immediately post-submission.
+* A few Veterans will probably desire the ability to edit their responses from the form viewer, which is an interaction that is not feasible since the submission is already complete.
+* [If comprehensive form with blanks are presented] Some Veterans may be confused when presented with sections and questions that are not related to what they filled out themselves online.
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
-
-**[Enter hypotheses here]** 
-
----
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
