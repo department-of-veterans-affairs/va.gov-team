@@ -50,8 +50,8 @@ Veterans currently rely on a physical VHIC card for various services and benefit
   - An error messgae for when the digital card is missing data ??
   - An error message for expired date on the VHIC???
   - An error message for a Veteran who does not have a VHIC card???
- - Edge Cases:
-   - 
+- Getting content approved and added to the unathenticated VA.gov VHIC [page](https://www.va.gov/health-care/get-health-id-card/)
+
 
 
 ### Adjacent work
