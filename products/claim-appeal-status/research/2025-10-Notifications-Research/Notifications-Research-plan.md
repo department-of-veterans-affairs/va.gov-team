@@ -2,10 +2,6 @@
 
 ## Table of Contents
 - [Background](#background)
-  - [Product Overview](#product-overview)
-  - [Problem Statement](#problem-statement)
-  - [Product Location](#product-location)
-  - [Veteran Familiarity](#veteran-familiarity)
 - [Product Brief](#product-brief)
   - [OCTO-DE Priorities Supported](#octo-de-priorities-supported)
 - [Veteran Journey](#veteran-journey)
@@ -17,7 +13,6 @@
 - [Hypotheses](#hypotheses)
 - [Methodology](#methodology)
   - [Method](#method)
-  - [Rationale](#rationale)
 - [Session Structure](#session-structure)
   - [Location](#location)
 - [Research Materials](#research-materials)
