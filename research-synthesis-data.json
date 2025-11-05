@@ -12,8 +12,8 @@
       "id": "1762193096090-c3tskadx1",
       "createdAt": "2025-11-03T18:04:56.090Z",
       "createdBy": "sstrassberg",
-      "syncStatus": "unsynced",
-      "lastSyncedAt": null,
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T20:37:37.338Z",
       "syncHash": "-gt6q5c"
     },
     {
@@ -28,8 +28,8 @@
       "id": "1762193106752-w0rs3z6xy",
       "createdAt": "2025-11-03T18:05:06.752Z",
       "createdBy": "sstrassberg",
-      "syncStatus": "unsynced",
-      "lastSyncedAt": null,
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T20:37:38.596Z",
       "syncHash": "udmf9k"
     },
     {
@@ -44,9 +44,57 @@
       "id": "1762277969959-8zqda3819",
       "createdAt": "2025-11-04T17:39:29.959Z",
       "createdBy": "sstrassberg",
-      "syncStatus": "unsynced",
-      "lastSyncedAt": null,
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T20:37:39.966Z",
       "syncHash": "-2mrlow"
+    },
+    {
+      "selectedText": "Alright. So I've started recording. And I'd like to confirm again, are you comfortable if I record my screen and audio as we talk today.",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "Intro",
+      "code": "",
+      "note": "",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762283225789-9yuvqeeu6",
+      "createdAt": "2025-11-04T19:07:05.789Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T20:37:41.311Z",
+      "syncHash": "-go0ak8"
+    },
+    {
+      "selectedText": "Alright. So it looks like we are ready to get started. So just a couple of quick questions at the beginning for us to just learn more about your experience with Va and our online services.",
+      "theme": "Content",
+      "themeId": "1762283242468-qxlmb9p86",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762283251543-lpdn8oxtn",
+      "createdAt": "2025-11-04T19:07:31.543Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T20:37:41.311Z",
+      "syncHash": "-g01rt1"
+    },
+    {
+      "selectedText": "So first off, how long have you been a veteran?",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "test",
+      "code": "",
+      "note": "testing sync function",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762290040115-uckk9f3nk",
+      "createdAt": "2025-11-04T21:00:40.115Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-04T21:00:54.848Z",
+      "syncHash": "2eyfmz"
     }
   ],
   "taxonomy": [
@@ -85,6 +133,11 @@
         "Frustration",
         "Technical Issues"
       ]
+    },
+    {
+      "id": "1762283242468-qxlmb9p86",
+      "name": "Content",
+      "subthemes": []
     }
   ],
   "boardState": {
@@ -98,6 +151,36 @@
         "note": "Test annotation sync",
         "source": "P1.md",
         "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P1.md"
+      },
+      {
+        "id": "1762283225789-9yuvqeeu6",
+        "text": "Alright. So I've started recording. And I'd like to confirm again, are you comfortable if I record my screen and audio as we talk today.",
+        "theme": "User Needs",
+        "subtheme": "Intro",
+        "code": "",
+        "note": "",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
+      },
+      {
+        "id": "1762283251543-lpdn8oxtn",
+        "text": "Alright. So it looks like we are ready to get started. So just a couple of quick questions at the beginning for us to just learn more about your experience with Va and our online services.",
+        "theme": "Content",
+        "subtheme": "",
+        "code": "",
+        "note": "",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
+      },
+      {
+        "id": "1762290040115-uckk9f3nk",
+        "text": "So first off, how long have you been a veteran?",
+        "theme": "User Needs",
+        "subtheme": "test",
+        "code": "",
+        "note": "testing sync function",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
       }
     ],
     "themeColumns": [
@@ -134,9 +217,15 @@
             "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P10.md"
           }
         ]
+      },
+      {
+        "id": "1762283331266-wqwyjwxf9",
+        "name": "Theme 3",
+        "color": "#de21bb",
+        "cards": []
       }
     ]
   },
-  "syncedAt": "2025-11-04T18:28:10.578Z",
+  "syncedAt": "2025-11-05T15:18:41.312Z",
   "syncedBy": "sstrassberg"
 }
