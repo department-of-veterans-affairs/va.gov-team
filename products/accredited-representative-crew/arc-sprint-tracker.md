@@ -8,17 +8,20 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 - [x] Sprint Goals Approved by Enablement - Jen Bertsch on November 3, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1762200765604449)) 
 
 **Team Accreditation**: 
-1. **[21a] v4 - Development**: Work with Platform to remove Chapter 6 blockers, and if not, proceed to implementing the multi-file component and addressing known bugs
-2. **[Rep Data] Accreditation API Integration**: Implement fail-safes for the Accreditation API integration
+1. **[21a] v4 - Development**: Implement the multi-file component, address Review page bugs and remove 21a from Save In Progress tables after submission
+2. **[21a] v5 - Development**: Identify any work that is development ready
+3. **[Rep Data] Accreditation API Integration**: Implement fail-safes for the Accreditation API integration
 
 **Team Benefits**:
-1. **[Auth] ID.me in ARP**: Staging Review, Contact Center Review, Schedule Go / No Go for Sprint 4
-6. **[ITF] MVP - Development**: Development spike for checking POA+ITF status prior to submission + feasibility of the VA Forms flow, and other emergent conversations as the sprint progresses
-7. **[ITF] MVP - Design**: Content revision for MVP designs, small updates that are independent of the Engineering spike
-8. **[Claimant Details] MVP - Design**: Complete content/IA review and begin address open design work with the goal of finalizing MVP designs
-9. **[ARP Post-MVP] Cleanup Tasks**: Update access token, update URLs, jupdate POA endpoints to send POA data to CorpDB, reintroduce form validation, redact form submissions older than 60 days, add sitewide alerts, investigate a file upload error, feature flag cleanup, investigate test user issues
+1. **[Auth] ID.me in ARP**: Staging Review, Contact Center Review
+6. **[ITF] MVP - Development**: Development spike, create a product outline and kick off with Collaboration Cycle
+7. **[ITF] MVP - Design**: Content review for MVP designs
+8. **[Claimant Details] MVP - Design**: Begin addressing open design work with the goal of finalizing MVP designs
+9. **[ARP Post-MVP] Cleanup Tasks**: Update URLs, reintroduce form validation, research redact form submissions older than 60 days, add sitewide alerts, investigate a file upload error, feature flag cleanup, investigate test user issues
 10. **[Rep Onboarding] NACVSO**: Check in with NACVSO leadership to introduce POA acceptance and understand willingness to turn on POA acceptance
 11. **[Rep Onboarding] Veterans of Foreign Wars**: Coordinate bulk contact info update
+12. **[Rep Onboarding] Marine Corps**: Send second follow-up email
+13. **[Rep Communication] Set up shared support mailbox**: Data analysis for insights, create templates and signatures
 
 **General**: 
 1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Full Stack Engineer, 2 Product Managers
