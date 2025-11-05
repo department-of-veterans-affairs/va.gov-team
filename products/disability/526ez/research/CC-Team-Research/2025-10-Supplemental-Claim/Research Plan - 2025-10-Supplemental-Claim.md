@@ -122,13 +122,17 @@ Link to [Product overview](https://github.com/department-of-veterans-affairs/va.
 The Conditions team has sketched out several high-level directions for this new feature and have narrowed down to three we want to test.
 
 1. **“All the things”:** All a user’s conditions, including those that have been previously denied, are available to select on the start screen.  
-   ![][image1]
+   | <img width="222" height="551" alt="image" src="https://github.com/user-attachments/assets/ed5136cb-0dad-420f-ac10-1c6e72b33860" /> |
+   |----|
 
-2. **“Denials on second screen”:** Denied conditions are on a second screen after the start screen.  
-   ![][image2]
 
-3. **“CFI distinction”:** (This variation will be added to one of the primary directions above) If the user chooses a rated disability, a follow-up screen asks the user to distinguish between a supplemental claim and a claim for increase  
-   ![][image3]
+3. **“Denials on second screen”:** Denied conditions are on a second screen after the start screen.  
+   | <img width="485" height="510" alt="image" src="https://github.com/user-attachments/assets/2c14e905-2c5e-4eff-8672-0ec4d737a0fd" /> |
+   |----|
+
+4. **“CFI distinction”:** (This variation will be added to one of the primary directions above) If the user chooses a rated disability, a follow-up screen asks the user to distinguish between a supplemental claim and a claim for increase.  
+   | <img width="491" height="325" alt="image" src="https://github.com/user-attachments/assets/8ed7a465-967b-4b3b-a8e8-c6de5c1cd8af" /> |
+   |----|
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
