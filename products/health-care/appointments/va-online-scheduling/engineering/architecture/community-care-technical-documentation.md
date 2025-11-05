@@ -196,54 +196,59 @@ sequenceDiagram
 
 Since we already have 'Appointment' resource under VAOS (VA Online Scheduling) service, we're going to use that resource. We have discussed this with the VAOS backend engineering team and they are in agreement with this approach. This avoids any confusion for the Appointment resource and object. However the downside is that we're going to have to add logic to retrieve the appointments from EPS and dedupe those within the existing appointments service code, which is going to add complexity and latency for existing consumers.
 
-'Referral' and 'Provider' are going to be a new resources. Endpoints are:
+## Referral Appointments API Specifications
 
-### * GET `/vaos/v2/referrals` (new)
-```
+This document describes the API specifications for VAOS referral appointments, defining the request/response structures between vets-website and vets-api.
+
+### API Endpoints
+
+#### GET /vaos/v2/referrals
+
+Retrieves a list of referrals for the current user.
+
+**Response:**
+```json
 {
   "data": [
     {
       "id": "6cg8T26YivnL68JzeTaV0w==00",
       "type": "referrals",
       "attributes": {
-        "expirationDate": "2026-04-09",
-        "uuid": "6cg8T26YivnL68JzeTaV0w==00",
+        "stationId": "659",
         "categoryOfCare": "CHIROPRACTIC",
         "referralNumber": "VA0000007241",
-        "referralConsultId": "984_646907",
-        "stationId": "659"
+        "uuid": "6cg8T26YivnL68JzeTaV0w==00",
+        "expirationDate": "2026-04-09"
       }
     }
   ]
 }
 ```
-### * GET `/vaos/v2/referrals/{referralNo}`
-Response when not booked ie: no appointments have been booked for this referral)
-```
+
+#### GET /vaos/v2/referrals/{referralId}
+
+Retrieves detailed information about a specific referral.
+
+**Response** (when no appointments have been booked for this referral):
+```json
 {
   "data": {
     "id": "6cg8T26YivnL68JzeTaV0w==00",
     "type": "referrals",
     "attributes": {
       "uuid": "6cg8T26YivnL68JzeTaV0w==00",
-      "referralDate": "2023-01-01",
-      "stationId": "659BY",
-      "expirationDate": "2025-06-02",
-      "referralNumber": "VA0000007241",
       "categoryOfCare": "CHIROPRACTIC",
-      "referralConsultId": "984_646907",
-      "appointments: null,
-      "referringFacility": {
-        "name": "Batavia VA Medical Center",
-        "phone": "(585) 297-1000",
-        "code": "528A4",
-        "address": {
-          "street1": "222 Richmond Avenue",
-          "city": "BATAVIA",
-          "state": "NY",
-          "zip": "14020"
-        }
-      },
+      "status": "ACTIVE",
+      "referralNumber": "VA0000007241",
+      "expirationDate": "2025-06-02",
+      "serviceName": "Referral",
+      "hasAppointments": false,
+      "referralDate": "2023-01-01",
+      "stationId": "659",
+      "facilityName": "VAMC Facility",
+      "facilityPhone": "555-555-5555",
+      "preferredTimesForPhoneCall": [],
+      "timezone": "America/New_York",
       "provider": {
         "name": "Dr. Moreen S. Rafa",
         "npi": "1346206547",
@@ -252,265 +257,227 @@ Response when not booked ie: no appointments have been booked for this referral)
         "address": {
           "street1": "76 Veterans Avenue",
           "city": "BATH",
-          "state": "NY",
+          "state": null,
           "zip": "14810"
         }
-      }
-    }
-  }
-}
-
-```
-Appointment data appended to the response object: 
-```
-"data" : {
-   ...
-
-   "appointments": {
-      "EPS":  {
-          "data": [
-             { "id": 12345, status: "booked", "start": "2024-11-21T18:00:00Z" }
-          ]
       },
-      "VAOS":  {
-          "data": [
-             { "id": 56789, status: "booked", "start": "2024-11-21T18:00:00Z" }
-          ] 
-      }
-}
-```
-
-### * POST `/vaos/v2/appointments/create_draft` (new)
-Request:
-```
-{
-  "referral_id": "add2f0f4-a1ea-4dea-a504-a54ab57c6800"
-}
-```
-Response:
-```
-{
-  "data": {
-    "id": "string",
-    "provider": {
-      "id": "string",
-      "name": "string",
-      "isActive": boolean,
-      "individualProviders": ["string"],
-      "providerOrganization": "string",
-      "location": {
-        "address": "string",
-        "latitude": number,
-        "longitude": number
+      "referringFacility": {
+        "name": "Batavia VA Medical Center",
+        "phone": "(585) 297-1000",
+        "code": "528A4",
+        "address": {
+          "street1": "222 Richmond Avenue",
+          "city": "BATAVIA",
+          "state": null,
+          "zip": "14020"
+        }
       },
-      "networkIds": ["string"],
-      "schedulingNotes": "string",
-      "appointmentTypes": [
-        {
-          "id": "string",
-          "name": "string",
-          "isSelfSchedulable": boolean
-        }
-      ],
-      "specialties": [
-        {
-          "id": "string",
-          "name": "string"
-        }
-      ],
-      "visitMode": "string",
-      "features": {
-        "isDigital": boolean
-      }
+      "providerId": null,
+      "receivingStaffName": null,
+      "receivingStaffPhone": null,
+      "referredToName": null,
+      "sendingStaffEmail": null,
+      "sendingStaffName": null
     },
-    "slots": [ // Optional - Only included if available
-      {
-        "id": "string",
-        "start": "ISO8601 datetime",
-        "end": "ISO8601 datetime"
-      }
-    ],
-    "driveTime": { // Optional - Only included if available
-      "origin": {
-        "latitude": number,
-        "longitude": number
-      },
-      "destination": {
-        "latitude": number,
-        "longitude": number
-      }
-    }
+    "relationships": {}
   }
 }
 ```
-### * GET `/vaos/v2/appointments?_include=facilities,clinics,eps` (existing)
-* NOTE: Will include eps in the includes parameter to tell vets-api to fetch eps appointments.
 
-Request:
+**Note**: When appointments exist for a referral, the `hasAppointments` field will be `true` and appointment data may be included in the response.
+
+#### POST /vaos/v2/appointments/draft
+
+Creates a draft appointment for a referral with available providers and time slots.
+
+**Request:**
+```json
+{
+  "referral_number": "VA0000007241",
+  "referral_consult_id": "984_646907"
+}
 ```
 
-```
-Response:
-```
-
-```
-
-### * GET `/vaos/v2/eps_appointments/{appointmentId}`
-
-```
+**Response:**
+```json
 {
   "data": {
-    "id": "qdm61cJ5",
-    "type": "eps_appointment",
+    "id": "appointment-for-VA0000007241",
+    "type": "draft_appointment",
     "attributes": {
-      "appointment": {
-        "id": "qdm61cJ5",
-        "status": "booked",
-        "patientIcn": "care-nav-patient-casey",
-        "created": "2025-02-10T14:35:44Z",
-        "locationId": "sandbox-network-5vuTac8v",
-        "clinic": "Aq7wgAux",
-        "start": "2024-11-21T18:00:00Z",
-        "referralId": "12345",
-        "referral": {
-          "referralNumber": "12345",
-          "facilityName": "Linda Loma",
-          "facilityPhone": "555-555-5555"
-          "typeOfCare": "Physical Therapy"
-          "modality": "In Person"
-        }
-      },
+      "referralNumber": "VA0000007241",
       "provider": {
-        "id": "test-provider-id",
-        "name": "Timothy Bob",
+        "id": "9mN718pH",
+        "name": "Dr. Bones @ FHA South Melbourne Medical Complex",
         "isActive": true,
         "individualProviders": [
           {
-            "name": "Timothy Bob",
-            "npi": "test-npi"
+            "name": "Dr. Bones",
+            "npi": "91560381x"
           }
         ],
         "providerOrganization": {
-          "name": "test-provider-org-name"
+          "name": "Meridian Health (Sandbox 5vuTac8v)"
         },
         "location": {
-          "name": "Test Medical Complex",
-          "address": "207 Davishill Ln",
-          "latitude": 33.058736,
-          "longitude": -80.032819,
+          "name": "FHA South Melbourne Medical Complex",
+          "address": "1105 Palmetto Ave, Melbourne, FL, 32901, US",
+          "latitude": 28.08061,
+          "longitude": -80.60322,
           "timezone": "America/New_York"
         },
-        "networkIds": [
-          "sandbox-network-test"
-        ],
+        "networkIds": ["sandboxnetwork-5vuTac8v"],
         "schedulingNotes": "New patients need to send their previous records to the office prior to their appt.",
         "appointmentTypes": [
           {
-            "id": "off",
+            "id": "ov",
             "name": "Office Visit",
             "isSelfSchedulable": true
           }
         ],
         "specialties": [
           {
-            "id": "test-id",
+            "id": "208800000X",
             "name": "Urology"
           }
         ],
         "visitMode": "phone",
-        "features": null
-      } 
+        "features": {
+          "isDigital": true,
+          "directBooking": {
+            "isEnabled": true,
+            "requiredFields": ["phone", "address", "name", "birthdate", "gender"]
+          }
+        }
+      },
+      "slots": [
+        {
+          "id": "5vuTac8v-practitioner-1-role-2|e43a19a8-b0cb-4dcf-befa-8cc511c3999b|2025-01-02T15:30:00Z|30m0s|1736636444704|ov0",
+          "providerServiceId": "9mN718pH",
+          "appointmentTypeId": "ov",
+          "start": "2025-01-02T15:30:00Z",
+          "remaining": 1
+        }
+      ],
+      "drivetime": {
+        "origin": {
+          "latitude": 40.7128,
+          "longitude": -74.006
+        },
+        "destination": {
+          "distanceInMiles": 313,
+          "driveTimeInSecondsWithoutTraffic": 19096,
+          "driveTimeInSecondsWithTraffic": 19561,
+          "latitude": 44.475883,
+          "longitude": -73.212074
+        }
+      }
     }
   }
 }
 ```
-### * POST `/vaos/v2/appointments/submit_referral_appointment` (existing)
-Request:
-```
-{
-  "id": "string", // Required - Draft appointment ID
-  "network_id": "string", // Required
-  "provider_service_id": "string", // Required
-  "slot_ids": ["string"], // Required - Array of slot IDs
-  "referral_number": "string", // Required
-  "birth_date": "string", // Optional
-  "email": "string", // Optional
-  "phone_number": "string", // Optional
-  "gender": "string", // Optional
-  "address": { // Optional
-    "type": "string",
-    "line": ["string"],
-    "city": "string",
-    "state": "string",
-    "postal_code": "string",
-    "country": "string",
-    "text": "string"
-  },
-  "name": { // Optional
-    "family": "string",
-    "given": ["string"]
-  }
-}
-```
-Response:
-```
+
+
+#### GET /vaos/v2/eps_appointments/{appointmentId}
+
+Retrieves details for a specific EPS (Community Care) appointment.
+
+**Response:**
+```json
 {
   "data": {
-    "id": "string",
-    "provider": {
-      "id": "string",
-      "name": "string",
-      "isActive": boolean,
-      "individualProviders": ["string"],
-      "providerOrganization": "string",
+    "id": "EEKoGzEf",
+    "type": "epsAppointment",
+    "attributes": {
+      "id": "EEKoGzEf",
+      "status": "booked",
+      "start": "2024-12-05T18:00:00Z",
+      "isLatest": true,
+      "lastRetrieved": "2025-11-05T15:15:07Z",
+      "referralId": "123abc",
+      "past": false,
+      "modality": "communityCareEps",
+      "provider": {
+        "id": "test-provider-id",
+        "name": "Dr. Smith @ Acme Cardiology - Anywhere, USA",
+        "practice": "Acme Cardiology",
+        "phone": "555-555-0001",
+        "location": {
+          "name": "Meridian Health",
+          "address": "7500 CENTRAL AVE, STE 108, PHILADELPHIA, PA 19111-2430",
+          "latitude": 40.06999282694126,
+          "longitude": -75.08769957031448,
+          "timezone": "America/New_York"
+        }
+      },
       "location": {
-        "address": "string",
-        "latitude": number,
-        "longitude": number
-      },
-      "networkIds": ["string"],
-      "schedulingNotes": "string",
-      "appointmentTypes": [
-        {
-          "id": "string",
-          "name": "string",
-          "isSelfSchedulable": boolean
+        "id": "test-location-id",
+        "type": "appointments",
+        "attributes": {
+          "name": "Meridian Health",
+          "timezone": {
+            "timeZoneId": "America/New_York"
+          }
         }
-      ],
-      "specialties": [
-        {
-          "id": "string",
-          "name": "string"
-        }
-      ],
-      "visitMode": "string",
-      "features": {
-        "isDigital": boolean
-      }
-    },
-    "slots": [ // Optional - Only included if available
-      {
-        "id": "string",
-        "start": "ISO8601 datetime",
-        "end": "ISO8601 datetime"
-      }
-    ],
-    "drivetime": { // Optional - Only included if available
-      "origin": {
-        "latitude": number,
-        "longitude": number
-      },
-      "destination": {
-        "latitude": number,
-        "longitude": number
       }
     }
   }
 }
 ```
-### * GET `/vaos/v2/providers` (new)
-### * GET `/vaos/v2/providers/{providerId}/slots` (new)
-### * GET `/vaos/v2/providers/{providerId}/drivetime` (new)
+#### POST /vaos/v2/appointments/submit
+
+Submits a referral appointment for booking.
+
+**Request:**
+```json
+{
+  "id": "EEKoGzEf",
+  "referralNumber": "VA0000007241",
+  "slotId": "5vuTac8v-practitioner-1-role-2|e43a19a8-b0cb-4dcf-befa-8cc511c3999b|2025-01-02T15:30:00Z|30m0s|1736636444704|ov0",
+  "networkId": "sandboxnetwork-5vuTac8v",
+  "providerServiceId": "9mN718pH"
+}
+```
+
+**Response:**
+```json
+{
+  "data": {
+    "id": "EEKoGzEf"
+  }
+}
+```
+### Error Responses
+
+All endpoints may return error responses in the following format:
+
+**404 Not Found:**
+```json
+{
+  "errors": [
+    {
+      "title": "Referral not found",
+      "detail": "Referral with ID {referralId} was not found",
+      "code": "404",
+      "status": "404"
+    }
+  ]
+}
+```
+
+**500 Internal Server Error:**
+```json
+{
+  "errors": [
+    {
+      "title": "Internal Server Error",
+      "detail": "An error occurred while processing the request",
+      "code": "500",
+      "status": "500"
+    }
+  ]
+}
+```
 
 
 ## Removing duplicates and preventing duplicates of referrals
