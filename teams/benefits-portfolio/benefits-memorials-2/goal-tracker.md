@@ -64,7 +64,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] Any Additional details about goals **not** completed will be documented here
+- For goal:ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.- Production API credententials (needed from Lighthouse team) are required to complete this goal. Due to the shutdown, production access has been restricted.
 
 ## Sprint Goals - Sprint: 21 [11/5/25 - 11/18/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
