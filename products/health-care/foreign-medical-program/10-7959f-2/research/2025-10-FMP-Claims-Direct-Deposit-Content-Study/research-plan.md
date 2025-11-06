@@ -208,7 +208,7 @@ This research will gauge the risk of new direct deposit content on the FMP Regis
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
 - [Link to prototype - Mobile](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4372&p=f&t=Dzln41diTGrZVcIU-1&scaling=min-zoom&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
-- [Link to prototype - Desktop](url)
+- [Link to prototype - Desktop](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6941-5267&p=f&t=neJBJ5eSTG2b1b83-0&scaling=min-zoom&content-scaling=fixed&page-id=6941:5218&starting-point-node-id=6941:5267)
 
 
 ## Recruitment 🎯	
