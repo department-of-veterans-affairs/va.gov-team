@@ -1,4 +1,4 @@
-# Time constraints for each domain to prevent latency issues for OH users
+# Domain specific time constraints to prevent latency issues for OH users
 
 ## Background
 
