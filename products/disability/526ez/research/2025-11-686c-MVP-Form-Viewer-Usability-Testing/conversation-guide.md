@@ -1,14 +1,18 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for Employee Experience, Disability Benefits Crew, 11/6/25"
+author: Jessica Sutantio, Riley Orr, Kevin Shih
+date_created: 11/6/25
+last_modified: 11/6/25
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "research"
+  - "usability-testing"
+  - "686c"
+  - "form-viewer"
+  - "fully-digital-forms"
+description: "Conversation guide for usability testing of the 686c MVP Form Viewer concepts."
 ---
-# Conversation Guide for 686C MVP Form Viewer Usability Testing Ver. A
+
+# Conversation Guide for 686c MVP Form Viewer Usability Testing Ver. A
 This version of the conversation guide is for participants who start their testing with the "BID Maximal" concept. For participants who are starting their testing with the "VADS Minimal" concept, please refer to [Ver. B](TBD).
 
 ## Moderator logistics 📋✅
