@@ -32,15 +32,15 @@ Definitions:
    - [Master Patient Index/Patient Demographics Technical Manual](https://www.va.gov/vdl/documents/Infrastructure/Master_Patient_Index_(MPI)/rg1_0_pm.pdf)
    > Regarding the Master Person Index (MPI), the VHA Directive 1906 describes MPI's role as the authoritative source for personal identity information in VA health IT systems. It outlines how changes (e.g., address, date of death) are managed for consistency and synchronization across VA systems. ([Source](https://www.va.gov/VHAPUBLICATIONS/ViewPublication.asp?pub_ID=8787))
    
-**7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?**
+**7. How does MPI interact with VA.gov/profile?  How does MPI interact with VA Profile API?**   
     - VA.gov/profile does not interact with MPI
     - VA Profile API uses MPI as the authoritiative source. We have 1:1 correlation when everything is working correctly
 
-**8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?**
+**8. Do Veterans who have never interacted with Veteran Health IT Systems have an MPI?**   
    - Generally, no. Veterans who have never interacted with VA health systems typically do not have a record in the VA MPI
    - HOWEVER, some individuals who have never sought VA health care may still have an MPI record if their info came from external sources (for example, DEERS feeds or certain VBA corporate data exchanges). In those cases, an ICN can be assigned. 
 
-**9. What percentage of VA.gov/profile or VA Profile API have the following information:**
+**9. What percentage of VA.gov/profile or VA Profile API have the following information:**   
    - Full name - Have to ask MPI
    - DoB - Have to ask MPI
    - SSN - Have to ask MPI
@@ -48,7 +48,7 @@ Definitions:
    - Any telephone number: 86%
    - Email address: 72%
 
-**10. If a person has an ICN, does that mean they are LOA3?**
+**10. If a person has an ICN, does that mean they are LOA3?**   
 Yes, if the person is LOA3 on va.gov, they have an ICN. You should never have a person as LOA3 on va.gov that does not have an ICN. There are situations where MPI might be down (the source of ICN) and we wouldnt have an ICN, but this doesnt mean they dont have a verified account.
 
 ## Table showing the difference between no auth, loa 1, loa 3
