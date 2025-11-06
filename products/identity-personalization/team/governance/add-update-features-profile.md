@@ -56,15 +56,15 @@ Our team does not manage the back-end systems that store Veteran information. Th
 
 There are currently nine available sections to integrate with on VA.gov Profile.
 
-1. Personal information: Users personal information including name, date of birth, preferred name, and disability rating.
-2. Contact information: Users contact information including addresses, phone numbers, and emails.
-3. \[Name TBD] Dependents and contacts: All individuals associated with the user and their account, including dependents, health care contacts, and accredited representatives.
-4. \[Name TBD] Financial information: All of the user's money-in and money-out information with the VA, including direct deposit, payments, debts, and copays.
-5. \[Name TBD] Service history information: Veteran’s period of service including, branch and years of service.
-6. \[Name TBD] Letters and documents: Links to all available documents and letters the user can download.
-7. \[Name TBD] Communication settings: Including email and text notifications, paperless delivery, and message signatures.
-8. Account security: All information having to do with users VA.gov account security.
-9. Connected apps: All 3rd party applications connected to the users VA.gov account.
+1. Personal information: Legal name, date of birth, preferred name, and disability rating.
+2. Contact information: Addresses, phone numbers, and email address.
+3. Service history information: Veteran’s period of service including, branch and years of service.
+4. Financial information: All of the user's money-in and money-out information with the VA, including direct deposit, payments, debts, and copays.
+5. Health care settings: Health care settings such as scheduling preferences, messages signature, and health care contacts.
+6. Dependents and contacts: All individuals associated with the user and their account, including dependents and accredited representatives.
+7. Letters and documents: Links to all available documents and letters the user can download.
+8. FUTURE Communication preferences: Including email and text notifications and paperless delivery.
+9. Account security: All information having to do with users VA.gov account security and connected apps.
 
 If your feature does not fit within one of these nine sections, please work with the Authenticated Experience team to identify if the VA.gov Profile is the right fit for you.
 
@@ -98,6 +98,42 @@ The following usability best practices should be kept in mind when adding or upd
  
 
 ## VA.gov Profile content standards
+### Modal alerts
+#### Cancelling edit changes
+**When is this modal triggered?**
+When a user selects the Cancel button while editing information.
+
+| Section | Content |
+| -------- | -------- |
+| Modal header | Cancel changes? |
+| Body copy | You haven’t saved the changes you made to your [H2 or H3 section title]. If you cancel, we won’t save your changes. |
+| Primary button | Cancel changes |
+| Secondary button | Keep editing |
+
+
+#### Edit new information while editing
+**When is this modal triggered?**
+When a user attempts to edit another dataset while on the same page. Example: User is editing their email address and attempts to edit their mailing address at the same time.
+
+| Section | Content |
+| -------- | -------- |
+| Modal header | Save or cancel your edits to [H2 or H3 section header] |
+| Body copy | Before you can edit a new section of your profile, you need to save or cancel your edits to your [H2 or H3 section header]. If you cancel, we won't save your in-progress edits. |
+| Primary button | OK |
+
+
+#### Remove information
+**When is this modal triggered?**
+When a user removes information from profile an alert triggers to confirm their decision.
+
+| Section | Content |
+| -------- | -------- |
+| Modal header | Remove your Remove your [H2 or H3]? |
+| Body copy | This will remove your [what will this do? If not applicable don’t show this part. You can always add another [H2 or H3] any time. |
+| Primary button | Remove |
+| Secondary button | Cancel change |
+
+
 ### Notification settings
 [Link to current Notification settings production files for examples.](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=4649-8881&t=aeIImeiPytf4vfpe-1)
 
