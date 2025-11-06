@@ -97,7 +97,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I am going to share a link with you to a mobile prototype today. As mentioned, this is a test site and won't function fully.
 - Open the prototype and take a minute to look it over and please remember to think aloud.
 - Based on this page, what would you do next if you were filing your first FMP claim today?
-- [ ] Have participant click anywhere to get to pause screen in prototype before asking the next two questions.
+- [ ] Have participant click on the "Get Started" to get to pause screen in prototype before asking the next two questions.
 - Can you state in your own words what the information and alert on that previous page meant?
 - On a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the clarity of information on this first page?
 
