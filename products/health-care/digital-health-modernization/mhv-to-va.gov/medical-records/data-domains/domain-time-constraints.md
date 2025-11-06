@@ -7,7 +7,7 @@ To improve UX associated with MR on web and VAHB for patients registered at Orac
 1. Labs and tests
 2. Notes and care summaries
 
-Currently there is a date picker toggle implemented in staging for 30 day increments for labs and tests. Engineers have made a bet/hypothesized that the amount of records displayed at one time could increase from this 30 day interval to 90 days. We won't know for sure if 90 days is the sweet spot for avoiding latency until we're testing MHV with OH family and friends users in December. 
+Currently there is a date picker toggle implemented in staging for 30 day increments for labs and tests. Engineers have made a bet/hypothesized that the amount of records displayed at one time could increase from this 30 day interval to 90 days. We won't know for sure if 90 days is the sweet spot for avoiding latency until we're testing MHV with OH "friends and family" users in December. 
 
 [VAHB has a PR open right now to add a 90 day interval filter](https://github.com/department-of-veterans-affairs/va-mobile-app/pull/11817) for labs and tests. One difference that exists between planned designs for web vs. VAHB is VAHB plans to set as default that users can review the last 90 days of labs and tests before engaging with the filter. 
 
