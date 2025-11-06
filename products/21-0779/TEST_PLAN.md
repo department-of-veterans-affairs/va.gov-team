@@ -740,6 +740,6 @@ Testing is considered complete when:
 
 ---
 
-**Test Plan Prepared By:** QA Team
+**Test Plan Prepared By:** Benefits Intake Optimization - Aquia
 **Date:** 2025-11-05
 **Version:** 1.0
