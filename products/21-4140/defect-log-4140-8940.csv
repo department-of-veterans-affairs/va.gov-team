@@ -1,0 +1,225 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Attachment,Attachment,Attachment,Attachment,Custom field (Acceptance Criteria),Custom field (Components),Custom field (Development),Custom field (Epic Link),Custom field (Fix Versions),Custom field (Issue color),Custom field (Rank),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Team Id,Team Name,Custom field (User Story),Custom field (Vulnerability),Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Heading and intro text on Employment Statement section use incorrect labels,VBF-75,10344,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,,,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/6/2025 16:26,11/6/2025 16:28,,,,0,"The *“Employment Application Records”* page does not align with the expected copy and structure defined in the user story and design wireframe for the *Employment Statement → Job Search Efforts* section of VA Form 21-8940.
+
+According to the user story and wireframe:
+
+* The *Page Title* should display: *“Employment Statement” (Page title should always be section header name)*
+* The *Section Header* should display: *“Job Search Efforts”*
+* The *Introductory text* should display:
+“Tell us about your job search efforts.”
+
+In the current implementation:
+
+* The *Page Title* incorrectly displays: *“Employment Application Records”*
+* The *Section Header* incorrectly displays: *“Leaving Your Last Position.”*
+* The *Introductory text* is missing or inconsistent with the expected phrasing.
+
+*Steps to Reproduce:*
+
+# Navigate to *VA Form 21-8940 > Employment Statement* section.
+# Proceed to the screen that asks:
+_“Have you tried to obtain employment since you became too disabled to work?”_
+# Observe the displayed page title, section header, and introductory text.
+
+*Expected Behavior:*
+Per design and acceptance criteria:
+
+* *Page Title:* _Employment Statement_
+* *Section Header:* _Job Search Efforts_
+* *Introductory Text:* _Tell us about your job search efforts._
+* *Primary Question:* _Have you tried to obtain employment since you became too disabled to work?_
+
+*Actual Behavior:*
+
+* Page Title displays *“Employment Application Records.”*
+* Section Header displays *“Leaving Your Last Position.”*
+* Introductory text does not match expected wording.
+
+!image-20251106-212823.png|width=570,alt=""image-20251106-212823.png""!",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,06/Nov/25 4:28 PM;712020:87b25026-494a-49d6-80e4-1bee7918a52b;image-20251106-212823.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10209,,,,,,,,,,0|i00077:,VA Sprint 1,,,,,,,,,,,To Do,11/6/2025 16:26
+"""Time Lost from Illness""� label should use sentence case formatting",VBF-74,10343,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,,,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/6/2025 16:18,11/6/2025 16:21,,,,0,"The label text for the *“Time Lost from Illness (number of days lost)”* field is incorrectly capitalized.
+Currently, each word is capitalized (“Time Lost from Illness”), but per [http://VA.gov|http://VA.gov|smart-link]  style standards, only the first word should be capitalized unless referencing a proper noun.
+
+The label should read:
+*Time lost from illness (number of days lost)*
+
+*Steps to Reproduce:*
+
+# Navigate to the *Employment Details* section of VA Form 21-8940.
+# Scroll to the input field labeled *“Time Lost from Illness (number of days lost)”*.
+# Observe capitalization in the field label.
+
+*Expected Behavior:*
+
+* Label follows sentence-style capitalization:
+*“Time lost from illness (number of days lost)”*
+
+*Actual Behavior:*
+
+* Label displays title-style capitalization:
+*“Time Lost from Illness (number of days lost)”*
+
+*Impact:*
+
+* Introduces minor UI inconsistency.
+
+
+
+!image-20251106-212037.png|width=595,alt=""image-20251106-212037.png""!",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,06/Nov/25 4:21 PM;712020:87b25026-494a-49d6-80e4-1bee7918a52b;image-20251106-212037.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10208,,,,,,,,,,0|i0006z:,VA Sprint 1,,,,,,,,,,,To Do,11/6/2025 16:18
+"""Before Becoming Disabled"" question selection auto-populates the After Becoming Disabled question",VBF-73,10342,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,,,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/6/2025 16:08,11/6/2025 16:13,,,,0,"When a user selects *Yes* or *No* on the _‘Education and Training Before Becoming Disabled’_ question (Page 9 of 13), that same response automatically appears selected on the _‘Education and Training After Becoming Disabled’_ question (Page 10 of 13).
+
+These are two separate questions and should be treated independently. The selection from one should not affect the other.
+
+*Steps to Reproduce:*
+
+# Navigate to *Page 9 of 13  – Education and Training Before Becoming Disabled.*
+# Select either *Yes* or *No* for “Did you have any other education and training before you were too disabled to work?”
+# Click *Continue* to advance to *Page 10 of 13 – Education and Training After Becoming Disabled.*
+# Observe that the same answer automatically appears selected for the “After” question.
+
+*Expected Behavior:*
+
+* The “After Becoming Disabled” question should load with *no pre-selected response* unless the user explicitly selects one.
+* The “Before” and “After” questions should be *independent data fields.*
+
+*Actual Behavior:*
+
+* The “After Becoming Disabled” question auto-populates with the same answer (Yes/No) selected on the “Before Becoming Disabled” screen.
+
+*Impact:*
+
+* User responses may be inaccurate if they overlook the pre-filled selection.
+* Can lead to incorrect data submission and confusion during form completion.
+
+!image-20251106-211328.png|width=707,alt=""image-20251106-211328.png""!",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,06/Nov/25 4:13 PM;712020:87b25026-494a-49d6-80e4-1bee7918a52b;image-20251106-211328.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10207,,,,,,,,,,0|i0006r:,VA Sprint 1,,,,,,,,10000,VBF-1,VA Bio Form: VBA-21-8940,To Do,11/6/2025 16:08
+"(Form 21-8940) ""Street2,"" ""Street3,""� ""City,""� and ""State""� field labels are incorrectly lowercase on Hospital Information screen",VBF-60,10329,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,camden.pendergrass,712020:b01fd94e-16a5-42ad-b184-55eb399226d5,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/6/2025 9:05,11/6/2025 16:00,,,,0,"On the *Hospital Information* screen, the address field labels — “street2,” “street3,” “city,” and “state” — are displayed in lowercase.
+
+All form field labels should begin with a capital letter for consistency and accessibility alignment with VA design standards.
+
+h3. *Steps to Reproduce:*
+
+# Navigate to the *Hospital Information* screen.
+# Observe the field labels below *“Street address.”*
+
+h3. *Actual Result:*
+
+* The following field labels appear in lowercase:
+** “street2”
+** “street3”
+** “city”
+** “state”
+
+h3. *Expected Result:*
+
+* Field labels should follow consistent capitalization with other form labels:
+** “Street 2”
+** “Street 3”
+** “City”
+** “State”
+
+!image-20251106-140620.png|width=510,alt=""image-20251106-140620.png""!",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,06/Nov/25 9:06 AM;712020:87b25026-494a-49d6-80e4-1bee7918a52b;image-20251106-140620.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10137,,,,,,,,,,0|i0006j:,VA Sprint 1,,,,d0fe3615-a22a-4bd8-bab2-8467b26a926f,BIO Forms Front End Dev Team,,,10000,VBF-1,VA Bio Form: VBA-21-8940,To Do,11/6/2025 9:05
+(Form 21-8940) Year field accepts non-digit input on “Peak Earnings page,VBF-59,10328,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,camden.pendergrass,712020:b01fd94e-16a5-42ad-b184-55eb399226d5,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/6/2025 8:52,11/6/2025 10:06,,,,0,"On the *Peak Earnings* screen of VA Form 21-4140, the *“What year did you make your peak earnings?”* field allows the user to proceed after entering a two-digit year (e.g., “25”).
+
+Expected behavior is that the field should require *a 4-digit year format (e.g., 2025)* before allowing the user to continue.
+
+h3. *Steps to Reproduce:*
+
+# Navigate to the *Peak Earnings* screen.
+# Enter a valid numeric value for “What is the most you ever earned in one year?”
+# Enter only *two digits* (e.g., “25”) in the *“What year did you make your peak earnings?”* field.
+# Complete the remaining required fields.
+# Click *Continue*.
+
+h3. *Actual Result:*
+
+* The form allows the user to continue with only a *two-digit year* (e.g., “25”).
+* No validation error is displayed.
+
+h3. *Expected Result:*
+
+* The *year field* should require a *four-digit year format (e.g., 2025)*.
+* Validation message should display for invalid entries:
+“Please enter a valid 4-digit year.”
+
+
+
+!image-20251106-135537.png|width=527,alt=""image-20251106-135537.png""!",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,06/Nov/25 8:56 AM;712020:87b25026-494a-49d6-80e4-1bee7918a52b;image-20251106-135537.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10136,,,,,,,,,,0|i0006b:,VA Sprint 1,,,,d0fe3615-a22a-4bd8-bab2-8467b26a926f,BIO Forms Front End Dev Team,,,10000,VBF-1,VA Bio Form: VBA-21-8940,To Do,11/6/2025 8:52
+(Form 21-8940) Incorrect screen sequence What You Need to Get Started� appears before Let's get started,VBF-58,10295,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,camden.pendergrass,712020:b01fd94e-16a5-42ad-b184-55eb399226d5,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/5/2025 17:13,11/6/2025 10:06,,,,0,"*Description:*
+The “What You Need to Get Started” screen is currently appearing *before* the “Let’s get started” screen.
+This screen should display *after* both “Let’s get started” and “Important Information Before You Start,” and immediately before Section I.
+
+*Steps to Reproduce:*
+
+# Launch the VA Form 21-8940 online form.
+# Begin navigating through the initial screens.
+# Observe that “What You Need to Get Started” appears before “Let’s get started.”
+
+*Expected Behavior:*
+The correct screen sequence should be:
+
+# Application introduction (landing page)
+# Let’s get started
+# Important Information Before You Start
+# *What You Need to Get Started*
+# Section I – Veteran Identification Information
+
+*Actual Behavior:*
+“What You Need to Get Started” appears before “Let’s get started.”
+
+*Impact / Severity:*
+Medium-High. Users see the checklist prior to confirming that they are on the correct form, potentially causing confusion and extra navigation.",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,,,,,,,,,,,0|i00063:,VA Sprint 1,,,,,,,,10000,VBF-1,VA Bio Form: VBA-21-8940,To Do,11/5/2025 17:13
+Incorrect screen sequence - Important Information Before You Start� appears before Let's get started�,VBF-57,10294,Bug,To Do,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,,camden.pendergrass,712020:b01fd94e-16a5-42ad-b184-55eb399226d5,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,11/5/2025 17:05,11/6/2025 9:03,11/6/2025 15:53,,,0,"The Important Information Before You Start page is currently appearing *before* the “Let’s get started” screen in the VA Form 21-8940 flow.
+Per design and content order on the wireframe design, this page must display *after* the “Let’s get started” screen and *before* the “What You Need to Get Started” checklist.
+
+*Steps to Reproduce:*
+
+# Launch the VA Form 21-8940 online form.
+# Begin the flow and observe the initial screens presented.
+# Note that the “Important Information Before You Start” page is displayed *before* “Let’s get started.”
+
+*Expected Behavior:*
+The correct screen sequence should be:
+
+# Application introduction (landing page)
+# Let’s get started
+# *Important Information Before You Start*
+# What You Need to Get Started
+# Section I – Veteran Identification Information
+
+*Actual Behavior:*
+“Important Information Before You Start” displays *before* “Let’s get started.”
+
+*Impact / Severity:*
+Medium-High. The incorrect sequence introduces confusion by presenting instructional content before confirming that the user is on the correct form.",,Ja'Net.Lyons,712020:87b25026-494a-49d6-80e4-1bee7918a52b,,,,,,,,,,,,,,,,,,,,0|i0005v:,VA Sprint 1,,,,d0fe3615-a22a-4bd8-bab2-8467b26a926f,BIO Forms Front End Dev Team,,,10000,VBF-1,VA Bio Form: VBA-21-8940,To Do,11/5/2025 17:05
+Missing work types from Create menu list options,VBF-23,10100,Bug,Done,VBF,VA BIO FORMS,software,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,,Medium,Done,Ricardo Rodriguez,712020:2854b9fd-0b6d-41c3-8824-d9d1320525cb,Petri Brooks,712020:820d072f-3382-4e2e-88b2-7188aa4e4e16,Petri Brooks,712020:820d072f-3382-4e2e-88b2-7188aa4e4e16,10/17/2025 15:20,10/21/2025 12:12,,10/21/2025 12:12,,0,"As a Test Engineer, I am not able to create test when using Xray. Please add the following work type tasks.
+
+Steps:
+
+# Test Set
+# Test Plan
+# Test Execution
+# Precondition
+# Test
+
+Expected Results: Work type menu options
+
+# Task
+# Story
+# Bug
+# Epic
+# Test Set
+# Test Plan
+# Test Execution
+# Precondition
+# Test
+
+Actual Results: Work type menu options
+
+# Task
+# Story
+# Bug
+# Epic
+# Enhancement
+# Request
+# Spike
+# Tech Debt
+# Test & Comment & Document",,Petri Brooks,712020:820d072f-3382-4e2e-88b2-7188aa4e4e16,,,,,,,,,,17/Oct/25 3:18 PM;ac2f6991-1171-4e08-9b04-3ee7402d7f07;Screen Recording 2025-10-17 130710.mp4;https://vabio.atlassian.net/rest/api/3/attachment/content/10007,17/Oct/25 3:18 PM;ac2f6991-1171-4e08-9b04-3ee7402d7f07;Screen Recording 2025-10-17 131929.mp4;https://vabio.atlassian.net/rest/api/3/attachment/content/10004,17/Oct/25 3:17 PM;ac2f6991-1171-4e08-9b04-3ee7402d7f07;Screenshot 2025-10-17 131053.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10006,17/Oct/25 3:17 PM;ac2f6991-1171-4e08-9b04-3ee7402d7f07;Screenshot 2025-10-17 131654.png;https://vabio.atlassian.net/rest/api/3/attachment/content/10005,,,,,,,0|i0004v:,VA Sprint 1,,,,,,,,10033,VBF-4,VA Bio Form: VBA-21-4140,Done,10/21/2025 12:12
