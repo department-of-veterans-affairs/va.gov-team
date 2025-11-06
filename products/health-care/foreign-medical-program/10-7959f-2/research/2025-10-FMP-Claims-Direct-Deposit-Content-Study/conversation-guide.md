@@ -83,7 +83,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
 - If yes: do you mind sharing what your disability rating is ?
-- Do you receive direct deposit for your monthly compensation payments via direct deposit today?
+- Do you receive direct deposit for your monthly compensation payments today?
 2. Have you ever heard of the Foreign Medical Program through the VA before?
   - If so, are you registered?
   - Can you describe what it is in your own words?
