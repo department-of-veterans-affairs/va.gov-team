@@ -49,10 +49,10 @@ Veteran wants VA to remove dependent automatically on the graduation date they p
 
 
 Screenshot from current flow with two options- "Add one or more dependents" and "Remove one or more dependents"
-![Screenshot of the "Add or remove dependents" screen from current "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Round%205/Current-Screenshot.png)
+![Screenshot of the "Add or remove dependents" screen from current "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Rounds%205%266/Current-Screenshot.png)
   
 Potential future design with three options- "Remove one or more dependents", "Add one or more dependents", and "Keep or add back a dependent child who is in school (ages 18-23)"  
-![Potential future design for the "Add or remove dependents" screen in the "Add or remove a dependent on VA benefits" flow, there are three options- the "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Round%205/Design-Future-State.png)
+![Potential future design for the "Add or remove dependents" screen in the "Add or remove a dependent on VA benefits" flow, there are three options- the "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Rounds%205%266/Design-Future-State.png)
 
 
   
