@@ -118,7 +118,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [ ] From pause screen, click continue to get to static page.
 - Now take a minute to look over this page on direct deposit for the Foreign Medical Program.
 - What are your impressions of this page and your understanding of the content here? Please remember to think aloud.
-- [ ] Have participant click anywhere to get to pause screen before asking the next two questions.
 - Can you state in your own words the process and in what order you would do to set up direct deposit for FMP claims?
 - Same as before, on a scale of 1-5, 1 being very difficult and 5 being very easy, what would you rate the instructions on that previous page?
 - Would you call out anything on this page as being either especially helpful or confusing for you?
