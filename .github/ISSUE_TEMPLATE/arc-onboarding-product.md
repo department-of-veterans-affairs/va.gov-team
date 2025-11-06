@@ -16,8 +16,7 @@ To be completed after the General Onboarding to ARC tasks, which all ARC teammat
 
 - [ ] Review [ARC Github Project board](https://github.com/orgs/department-of-veterans-affairs/projects/1809/views/8)
 
-- [ ] Review [ARC Wiki](https://github.com/department-of-veterans-affairs/accredited-representative-crew/wiki)
-
 - [ ] Review [Delivery Management and Github Working Norms.pdf](https://github.com/user-attachments/files/23033053/Delivery.Management.and.Github.Working.Norms.pdf)
+- [ ] Review [ARC Sprint Ceremonies](https://docs.google.com/document/d/16ktYGQ5VrBK4marzil0bXIVWP_pqnCt-J8eVZ-jplJs/edit?tab=t.0) documentation 
 
 
