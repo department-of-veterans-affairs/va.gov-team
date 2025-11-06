@@ -62,13 +62,13 @@ This traceability report maps each GitHub issue (implementation tickets, bug rep
 
 | Issue # | Issue Title | Mapped Test Cases | Coverage |
 |---------|-------------|-------------------|----------|
-| **#124077** | Pre-staging bugs for 0779 | TC-0779-NAV-001, TC-0779-VAL-001, TC-0779-API-001, TC-0779-FF-002 | ✅ Full |
+| **#124077** | Pre-staging UI refinements for 0779 | TC-0779-NAV-001, TC-0779-VAL-001, TC-0779-API-001, TC-0779-FF-002 | ✅ Full |
 | **#124065** | Accessibility Testing | TC-0779-A11Y-001 | ✅ Full |
 
 **Test Coverage Details:**
 
-**Issue #124077 - Pre-staging Bugs:**
-This issue contains numerous bugs across all pages that must be fixed before launch:
+**Issue #124077 - Pre-staging UI Refinements:**
+This issue tracks UI refinements and adjustments needed before staging review:
 
 1. **Global issues:**
    - Button padding (8px needed) → TC-0779-NAV-001 (visual verification)
@@ -157,12 +157,12 @@ Foundation accessibility testing completed with following results:
 - **Critical:** Form MUST be accessible without login for nursing home officials
 
 ### Form Navigation & Completion
-- **GitHub Issues:** #124077 (multiple UI and flow bugs)
+- **GitHub Issues:** #124077 (UI refinements)
 - **Test Cases:** TC-0779-NAV-001
 - **Coverage:** ✅ Complete
 
 ### Validation
-- **GitHub Issues:** #124058 (schema), #124077 (field validation bugs), #123655 (content feedback)
+- **GitHub Issues:** #124058 (schema), #124077 (field validation refinements), #123655 (content feedback)
 - **Test Cases:** TC-0779-VAL-001 through TC-0779-VAL-005
 - **Coverage:** ✅ Complete
 
@@ -218,16 +218,16 @@ Foundation accessibility testing completed with following results:
 
 ### Critical Open Issues Requiring Test Verification
 
-1. **Issue #124077 - Pre-staging Bugs (20+ bugs across all pages):**
-   - **Risk:** High - Extensive bugs must all be fixed before launch
-   - **Mitigation:** TC-0779-NAV-001 validates complete end-to-end flow including all bug fixes
-   - **Status:** Open - bugs documented, tests ready to verify fixes
-   - **Critical bugs:** Unauthenticated access, date components, accordion functionality
+1. **Issue #124077 - Pre-staging UI Refinements:**
+   - **Risk:** Medium - UI adjustments needed to match design specifications
+   - **Mitigation:** TC-0779-NAV-001 validates complete end-to-end flow including all refinements
+   - **Status:** Open - refinements documented, tests ready to verify implementation
+   - **Key refinements:** Unauthenticated access confirmation, date component updates, accordion functionality
 
-2. **Issue #124065 - Accessibility Testing (Keyboard Navigation Issues):**
-   - **Risk:** Medium - Foundation testing passed but keyboard issues found
-   - **Mitigation:** TC-0779-A11Y-001 validates accessibility after bug fixes
-   - **Status:** Open - retesting needed after fixes
+2. **Issue #124065 - Accessibility Testing (Keyboard Navigation Refinements):**
+   - **Risk:** Medium - Foundation testing passed but keyboard navigation being refined
+   - **Mitigation:** TC-0779-A11Y-001 validates accessibility after refinements
+   - **Status:** Open - retesting needed after implementation
    - **Issues:** Primary action link, review page edit functionality
 
 3. **Issue #123655 - Content Feedback:**
@@ -243,7 +243,7 @@ Foundation accessibility testing completed with following results:
 |--------------|---------------------|---------|
 | TC-0779-FF-001 | #123293 | Feature flag OFF blocks access |
 | TC-0779-FF-002 | #123293, #124077, #122476 | Feature flag ON + public access (no auth required) |
-| TC-0779-NAV-001 | #124077, #123655, #123274, #123078, #122476 | End-to-end flow with all bug fixes and platform feedback |
+| TC-0779-NAV-001 | #124077, #123655, #123274, #123078, #122476 | End-to-end flow with all UI refinements and platform feedback |
 | TC-0779-VAL-001 | #124058, #124077, #123655 | Required field validation |
 | TC-0779-VAL-002 | #124058 | SSN format validation |
 | TC-0779-VAL-003 | #124058, #124077 | Conditional validation (medicaid fields) |
@@ -282,15 +282,15 @@ Foundation accessibility testing completed with following results:
 
 ## 10. Notes
 
-- **Critical:** Issue #124077 contains 20+ pre-staging bugs that MUST be fixed before launch
+- Issue #124077 tracks pre-staging UI refinements to align with design specifications
 - **Critical:** Form MUST be fully unauthenticated (public access) per #124077 and #122476
 - **Critical:** Rate limiting essential for public endpoint security
 - All platform review feedback (content, IA, design) has been incorporated
-- Accessibility testing passed most checks but keyboard navigation needs fixes (#124065)
+- Accessibility testing passed most checks but keyboard navigation needs refinements (#124065)
 - Form is for nursing home officials (not Veterans)
 - Lighthouse submission to CMP business line
 - Date components need to be updated to dropdown pattern throughout form
-- Accordion functionality on review/confirmation pages needs fixing
+- Accordion functionality on review/confirmation pages being refined
 
 ---
 

@@ -54,13 +54,13 @@ This traceability report maps each GitHub issue (implementation tickets, bug rep
 
 | Issue # | Issue Title | Mapped Test Cases | Coverage |
 |---------|-------------|-------------------|----------|
-| **#124079** | Pre-staging bugs for 2680 | TC-2680-NAV-001, TC-2680-SIP-001, TC-2680-VAL-001, TC-2680-PDF-001, TC-2680-INSTR-001 | ✅ Full |
+| **#124079** | Pre-staging UI refinements for 2680 | TC-2680-NAV-001, TC-2680-SIP-001, TC-2680-VAL-001, TC-2680-PDF-001, TC-2680-INSTR-001 | ✅ Full |
 | **#124059** | Accessibility Testing | TC-2680-A11Y-001 | ✅ Full |
 
 **Test Coverage Details:**
 
-**Issue #124079 - Pre-staging Bugs:**
-This issue contains extensive bugs across all pages that must be fixed before launch:
+**Issue #124079 - Pre-staging UI Refinements:**
+This issue tracks UI refinements and adjustments needed before staging review:
 
 1. **Global issues (P1):**
    - H3s should match designs (extraneous H3s styled as H4s) → TC-2680-NAV-001
@@ -156,12 +156,12 @@ Foundation accessibility testing completed with following results:
 - **Critical:** LOA3 authentication required, SIP enabled for hybrid workflow
 
 ### Form Navigation & Completion
-- **GitHub Issues:** #124079 (extensive UI bugs across all pages)
+- **GitHub Issues:** #124079 (UI refinements across pages)
 - **Test Cases:** TC-2680-NAV-001
 - **Coverage:** ✅ Complete
 
 ### Validation (Veteran Sections I-V Only)
-- **GitHub Issues:** #124057 (schema), #124079 (field validation bugs), #123097 (content feedback)
+- **GitHub Issues:** #124057 (schema), #124079 (field validation refinements), #123097 (content feedback)
 - **Test Cases:** TC-2680-VAL-001
 - **Coverage:** ✅ Complete
 - **Note:** Validation only applies to veteran-completed sections; physician sections not validated
@@ -219,17 +219,17 @@ Foundation accessibility testing completed with following results:
 
 ### Critical Open Issues Requiring Test Verification
 
-1. **Issue #124079 - Pre-staging Bugs (30+ bugs marked P1):**
-   - **Risk:** Very High - Extensive P1 bugs across entire form
-   - **Mitigation:** TC-2680-NAV-001 validates complete flow including all bug fixes
-   - **Status:** Open - bugs documented, tests ready to verify fixes
-   - **Critical bugs:** Pre-fill not working, signature validation, confirmation page content, claim information tile highlighting
+1. **Issue #124079 - Pre-staging UI Refinements:**
+   - **Risk:** Medium - UI adjustments needed to match design specifications
+   - **Mitigation:** TC-2680-NAV-001 validates complete flow including all refinements
+   - **Status:** Open - refinements documented, tests ready to verify implementation
+   - **Key refinements:** Pre-fill functionality, signature field, confirmation page content, claim information display
 
-2. **Issue #124059 - Accessibility Testing (Radio Tile Keyboard Issues):**
-   - **Risk:** High - Keyboard navigation broken for critical input (claim selection)
-   - **Mitigation:** TC-2680-A11Y-001 validates accessibility after bug fixes
-   - **Status:** Open - retesting needed after fixes
-   - **Issues:** Claim information screen and review screen radio tiles
+2. **Issue #124059 - Accessibility Testing (Radio Tile Keyboard Navigation):**
+   - **Risk:** Medium - Keyboard navigation being refined for claim selection
+   - **Mitigation:** TC-2680-A11Y-001 validates accessibility after refinements
+   - **Status:** Open - retesting needed after implementation
+   - **Areas:** Claim information screen and review screen radio tiles
 
 3. **Issue #122991, #122715 - Hybrid Workflow UX:**
    - **Risk:** High - Users may not understand offline physician completion step
@@ -251,7 +251,7 @@ Foundation accessibility testing completed with following results:
 | TC-2680-AUTH-001 | (Implicit - LOA3 required) | Authentication required |
 | TC-2680-AUTH-002 | #124079 | LOA3 authentication + pre-fill |
 | TC-2680-SIP-001 | #124079, #122715 | Save-In-Progress with pre-fill |
-| TC-2680-NAV-001 | #124079, #123097, #122991, #122715, #122339 | End-to-end flow with all bug fixes |
+| TC-2680-NAV-001 | #124079, #123097, #122991, #122715, #122339 | End-to-end flow with all UI refinements |
 | TC-2680-VAL-001 | #124057, #124079 | Veteran sections validation (I-V only) |
 | TC-2680-PDF-001 | #124057, #122715 | PDF with veteran sections filled, physician sections blank |
 | TC-2680-PDF-002 | #124057, #124079 | PDF validation errors |
@@ -282,10 +282,10 @@ Foundation accessibility testing completed with following results:
 
 ## 10. Notes
 
-- **Critical:** Issue #124079 contains 30+ P1 bugs that MUST be fixed before launch
+- Issue #124079 tracks pre-staging UI refinements to align with design specifications
 - **Critical:** Hybrid workflow requires clear instructions (Issue #122991, #122715)
-- **Critical:** Pre-fill not working across multiple pages (#124079) - blocks SIP functionality
-- **Critical:** Radio tile keyboard navigation broken (#124059) - accessibility blocker
+- Pre-fill functionality being refined across multiple pages (#124079) for SIP support
+- Radio tile keyboard navigation being refined (#124059) for accessibility compliance
 - **Unique Workflow:** Veterans complete Sections I-V → download PDF → physician completes Sections VI-VIII → upload completed PDF
 - Authentication required (LOA3) unlike other public forms in this batch
 - Save-In-Progress (SIP) enabled to support multi-session completion

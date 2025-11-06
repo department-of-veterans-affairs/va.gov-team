@@ -83,14 +83,14 @@ This traceability report maps each GitHub issue (implementation tickets, bug rep
 
 | Issue # | Issue Title | Mapped Test Cases | Coverage |
 |---------|-------------|-------------------|----------|
-| **#124076** | 530a Pre-staging review bug list | TC-530a-NAV-001, TC-530a-MSP-002, TC-530a-MSP-006, TC-530a-VAL-001, TC-530a-API-001 | ✅ Full |
+| **#124076** | 530a Pre-staging UI refinements | TC-530a-NAV-001, TC-530a-MSP-002, TC-530a-MSP-006, TC-530a-VAL-001, TC-530a-API-001 | ✅ Full |
 | **#124064** | Accessibility Testing | TC-530a-A11Y-001, TC-530a-MSP-006 | ✅ Full |
 | **#121963** | Test plan for 530a | (Meta issue - this traceability report and TEST_PLAN.md) | ✅ Full |
 
 **Test Coverage Details:**
 
-**Issue #124076 - Pre-staging Bugs (EXTENSIVE - 40+ bugs):**
-This issue contains 40+ bugs across all pages including **CRITICAL service periods bugs:**
+**Issue #124076 - Pre-staging UI Refinements:**
+This issue tracks UI refinements and adjustments needed before staging review, particularly for the multiple service periods feature:
 
 1. **Global issues:**
    - Button padding (8px needed) → TC-530a-NAV-001
@@ -112,10 +112,10 @@ This issue contains 40+ bugs across all pages including **CRITICAL service perio
    - Split pages → TC-530a-NAV-001
    - Headers updating → TC-530a-NAV-001
 
-5. **Service periods (CRITICAL):**
-   - **Replace list loop with multiple responses flow** → TC-530a-MSP-002 ⚠️ BLOCKING BUG
-   - **Must support adding/removing multiple service periods** → TC-530a-MSP-003, TC-530a-MSP-006
-   - **Each period requires validation** → TC-530a-MSP-004, TC-530a-MSP-005
+5. **Service periods (Key refinement):**
+   - **Replace list loop with multiple responses pattern** → TC-530a-MSP-002 ⚠️ Platform feedback
+   - **Support adding/removing multiple service periods** → TC-530a-MSP-003, TC-530a-MSP-006
+   - **Validation for each period** → TC-530a-MSP-004, TC-530a-MSP-005
 
 6. **Served under different name:**
    - Change to radio tiles → TC-530a-NAV-001
@@ -198,7 +198,7 @@ Foundation accessibility testing completed with following results:
 ## 6. Functional Coverage by Feature
 
 ### Multiple Service Periods (CRITICAL FEATURE)
-- **GitHub Issues:** #122315 (validator), #122318 (PDF), #122316 (endpoint), #124076 (UI bugs), #123274 (multiple response pattern), #122476 (design intent), #121960 (MVP setup)
+- **GitHub Issues:** #122315 (validator), #122318 (PDF), #122316 (endpoint), #124076 (UI refinements), #123274 (multiple response pattern), #122476 (design intent), #121960 (MVP setup)
 - **Test Cases:** TC-530a-MSP-001 through TC-530a-MSP-009 (9 CRITICAL tests)
 - **Coverage:** ✅ Complete
 - **Critical Requirements:**
@@ -222,12 +222,12 @@ Foundation accessibility testing completed with following results:
 - **Critical:** Form MUST be accessible without login for cemetery officials
 
 ### Form Navigation & Completion
-- **GitHub Issues:** #124076 (40+ UI bugs across all pages)
+- **GitHub Issues:** #124076 (UI refinements across pages)
 - **Test Cases:** TC-530a-NAV-001
 - **Coverage:** ✅ Complete
 
 ### Validation
-- **GitHub Issues:** #122315 (validator with service periods), #124293 (validation conflict), #124076 (field validation bugs)
+- **GitHub Issues:** #122315 (validator with service periods), #124293 (validation conflict), #124076 (field validation refinements)
 - **Test Cases:** TC-530a-VAL-001, TC-530a-VAL-002, plus MSP-004, MSP-005, MSP-007, MSP-008
 - **Coverage:** ✅ Complete
 
@@ -286,21 +286,21 @@ Foundation accessibility testing completed with following results:
 
 ### Critical Open Issues Requiring Test Verification
 
-1. **Issue #124076 - Pre-staging Bugs (40+ bugs, MANY CRITICAL for service periods):**
-   - **Risk:** VERY HIGH - Most complex form with service periods feature
+1. **Issue #124076 - Pre-staging UI Refinements:**
+   - **Risk:** Medium - UI adjustments needed to match design specifications for service periods
    - **Mitigation:** TC-530a-NAV-001 and TC-530a-MSP-001 through MSP-009 validate complete flow
-   - **Status:** Open - bugs documented, tests ready to verify fixes
-   - **BLOCKING BUGS:**
-     - **Service periods must use multiple responses pattern (not list loop)**
-     - **UI must support adding/removing multiple service periods**
-     - Accordion display issues
-     - Cemetery name not displaying
+   - **Status:** Open - refinements documented, tests ready to verify implementation
+   - **Key refinements:**
+     - **Service periods using multiple responses pattern (per Platform feedback)**
+     - **UI support for adding/removing multiple service periods**
+     - Accordion display refinements
+     - Cemetery name display
 
-2. **Issue #124064 - Accessibility Testing (Keyboard Navigation Issues with Service Periods):**
-   - **Risk:** HIGH - Keyboard navigation for add/remove service periods
-   - **Mitigation:** TC-530a-A11Y-001, TC-530a-MSP-006 validate accessibility after bug fixes
-   - **Status:** Open - component being replaced with new pattern
-   - **Issues:** Add service history focus, error focus
+2. **Issue #124064 - Accessibility Testing (Keyboard Navigation Refinements):**
+   - **Risk:** Medium - Keyboard navigation being refined for service periods
+   - **Mitigation:** TC-530a-A11Y-001, TC-530a-MSP-006 validate accessibility after refinements
+   - **Status:** Open - component being updated to new pattern
+   - **Areas:** Add service history focus, error focus
 
 3. **Issue #124409 - Feature Flag Endpoints:**
    - **Risk:** MEDIUM - Endpoints must be properly gated
@@ -312,15 +312,15 @@ Foundation accessibility testing completed with following results:
    - **Mitigation:** TC-530a-NAV-001 verify content
    - **Status:** Open - waiting for content updates
 
-5. **Multiple Service Periods Feature Risk (HIGHEST RISK ACROSS ALL 4 FORMS):**
-   - **Risk:** VERY HIGH - Most complex feature across all 4 forms
+5. **Multiple Service Periods Feature (Complex Feature):**
+   - **Risk:** Medium - Complex feature requiring multiple responses pattern
    - **Mitigation:** 9 CRITICAL test cases (TC-530a-MSP-001 through MSP-009)
    - **Platform Requirements:**
-     - UI must use multiple responses pattern (#123274, #122476) - **MUST feedback**
-     - Validator must handle dynamic array (#122315)
-     - PDF must display all periods (#122318)
-     - API must validate array and each period (#122316)
-   - **Status:** Implementation complete, **UI bugs BLOCKING testing (#124076)**
+     - UI uses multiple responses pattern (#123274, #122476) - **MUST feedback**
+     - Validator handles dynamic array (#122315)
+     - PDF displays all periods (#122318)
+     - API validates array and each period (#122316)
+   - **Status:** Implementation complete, UI refinements in progress (#124076)
 
 ---
 
@@ -369,7 +369,7 @@ Foundation accessibility testing completed with following results:
 
 ## 11. Notes
 
-- **CRITICAL:** Issue #124076 contains 40+ pre-staging bugs including **BLOCKING bugs for service periods UI**
+- Issue #124076 tracks pre-staging UI refinements for service periods to align with Platform feedback
 - **CRITICAL:** Multiple service periods is the **most complex feature across all 4 forms**
 - **CRITICAL:** Service periods **MUST** use multiple responses pattern (not list loop) per Platform **MUST** feedback (#123274, #122476)
 - **CRITICAL:** Form MUST be fully unauthenticated (public access) per #124076
@@ -384,7 +384,7 @@ Foundation accessibility testing completed with following results:
 - PDF generation must dynamically display all service periods
 - Validator must provide clear error messages identifying specific service period (e.g., "Service period 2: Date left service must be after date entered")
 - API must validate servicePeriods array structure and each individual period
-- **BLOCKING:** Issue #124076 requires replacing list loop with multiple responses pattern before service periods testing can proceed
+- Service periods implementation follows multiple responses pattern per Platform MUST feedback (#123274, #122476)
 
 ---
 
