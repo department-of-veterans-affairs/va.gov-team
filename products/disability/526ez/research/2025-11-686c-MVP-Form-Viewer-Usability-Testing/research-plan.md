@@ -1,109 +1,140 @@
 ---
-# Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
+title: "686c MVP Form Viewer — Usability Testing Research Plan"
+date: 2025-11-06
+last_updated: 2025-11-06
+team: "Disability Product — 526ez"
+product: "686c MVP Form Viewer (Form Viewer for Structured Submissions)"
+product_area: "authenticated"
 
 # Background Context
 background:
-  problem_statement: "[What problem is your product trying to solve?]"
-  product_location: "[Where is this situated on VA.gov?]"
-  user_familiarity: "[New product or iteration?]"
-  product_brief_url: "[URL]"
+  problem_statement: |
+    The current PDF-based copy-of-submission for VA.gov form submissions often loses or truncates data due to imperfect data-to-PDF mapping and overflow logic. This causes delays and inaccuracies in claims processing and prevents Veterans and VSRs from reliably viewing and saving an accurate, readable copy of what was submitted. The Fully Digital Forms MVP needs a Form Viewer that renders structured form data preserving data integrity, readability, and the ability to save/print a clean copy of submission.
+  product_location: |
+    Authenticated experience on VA.gov: primary surface is the confirmation page after submitting the form (MVP goal). Longer-term surfaces include MyVA and other authenticated user areas to access past submissions.
+  user_familiarity: |
+    Iteration on an existing design pattern: “copy of submission” is an established VA.gov pattern for some forms, but this Form Viewer is a new interface for rendering structured (non-PDF) submission data for both Veterans and VSRs.
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/issues/117360"
 
 # Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+methodology: "Moderated usability testing (remote), interactive prototype evaluation"
 research_format: 
-  location: remote # Options: remote, in-person, hybrid
+  location: remote
   in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
-  moderated: true # Options: true, false
+    facility: ""
+    point_of_contact: ""
+    equipment: ""
+  moderated: true
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[First research goal]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
+  - goal_1: "Understand current user processes and workflows for accessing and using form output (copy of submission / form viewer)."
+  - goal_2: "Gauge users' expectations, reactions, and preferences for layout, content hierarchy, and presentation of sections/questions/answers."
+  - goal_3: "Evaluate navigation behavior and identify preferred navigation methods (e.g., scrolling, on-this-page navigation, keyboard)."
+  - goal_4: "Identify which information users prioritize, what should be emphasized or de-emphasized, and whether any content is missing or confusing."
+  - goal_5: "Compare proposed form viewer concepts to the current PDF-based solution and surface impacts to downstream tasks (VSR workflows, record-keeping)."
 
 research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
+  - "When and how would Veterans and VSRs encounter and use the form output?"
+  - "What do users do with information from the form output and what are the next steps in their workflows?"
+  - "Can Veterans and VSRs easily distinguish sections and repeating subsections in the proposed layouts?"
+  - "How do users prefer to navigate the form output, and would they use an 'on this page' navigation or other mechanisms?"
+  - "Which pieces of information are most important to users and how should those be displayed or emphasized?"
 
 hypotheses:
-  - "[Hypothesis 1]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
+  - "Most participants will appreciate a simplified, comprehensive form output that is easier to read than legacy PDFs."
+  - "Participants (especially VSRs) will prefer the cleaner visual hierarchy and reduced visual chrome compared to legacy PDFs."
+  - "Some participants will want more persistent navigation (e.g., an 'on this page' component throughout the page) rather than only at the top."
+  - "A subset of participants will download or print the copy of submission for record-keeping; others will expect future access via MyVA or confirmation links."
+  - "Some Veterans may express a desire to edit responses from the form viewer, even though submission is final, causing potential confusion."
+  - "When shown comprehensive forms that include skipped sections/blanks, some Veterans may be confused by unrelated sections appearing."
 
-expected_outcomes: "[How will findings advance the product?]"
+expected_outcomes: |
+  Findings will inform whether a single shared Form Viewer component can serve both Veterans and VSRs or whether distinct views are required, guide changes to baseline layout and prioritization of interactive features for MVP, validate ideal access points (confirmation page vs. MyVA), and prioritize features for the MVP (download/print, navigation patterns, emphasis of key data).
 
 # Recruitment & Participants
 recruitment:
   recruiting_partner: "Perigean"
-  approach: "[e.g., lean maximum variation]"
+  approach: "Lean maximum variation (targeting diversity in device, age, cognitive accessibility, and geography)"
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
+    - "Veterans with previous experience filling out VA Form 21-686C within the past year"
+    - "Have previously submitted a form on VA.gov"
+    - "Able to test on a modern device (desktop, laptop, or smartphone) — minimum quotas specified"
     
   secondary_criteria:
-    - "[Nice-to-have criterion 1]"
-    - "[Nice-to-have criterion 2]"
+    - "At least 2 participants with high school degree but no college degree"
+    - "At least 4 participants who identify as having a cognitive disability"
+    - "At least 4 participants aged 55+"
+    - "No more than 4 participants who identify as male"
+    - "At least 3 participants from rural areas and at least 3 from urban areas"
+    - "At least 3 participants who identify as biracial or not White/Caucasian"
     
   screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
+    - question: "Have you ever filled out a form or filed for a claim specifically on VA.gov?"
+      qualifying_response: "Yes (continue)"
+    - question: "Have you completed VA Form 21-686C 'Add or remove a dependent on VA benefits' within the past year?"
+      qualifying_response: "Yes (continue)"
+    - question: "Do you need a screen reader or screen magnifier when you use the Internet?"
+      qualifying_response: "No (do not recruit if Yes for this study as prototype is not AT-friendly)"
+    - question: "Do you find it difficult to remember or learn new things, focus on a task, or make decisions?"
+      qualifying_response: "Yes (recruit to meet minimum cognitive-disability quota), No (also acceptable)"
+    - question: "Which device would you prefer to join a user testing session via Zoom? (Computer, Tablet, Smartphone)"
+      qualifying_response: "Specify preferred device — recruit to meet device quotas (min 3 desktop, min 4 smartphone)"
       
 participants:
-  veterans: 0
+  veterans: 12
   caregivers: 0
   dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  total_recruited: 12
+  completed_sessions_goal: 8
   
 # Timeline & Sessions
 timeline:
-  pilot_date: "YYYY-MM-DD"
-  pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
-  research_review_submission: "YYYY-MM-DD"
+  pilot_date: "2025-11-10"
+  pilot_participant: "TBD"
+  research_dates: "2025-11-17 to 2025-11-25"
+  research_review_submission: "2025-12-01"
   
 session_details:
   duration_minutes: 60
-  buffer_minutes: 30
-  max_sessions_per_day: 0
+  buffer_minutes: 60
+  max_sessions_per_day: 3
   
 # Strategic Alignment
 octo_priorities:
-  - objective: "Objective 1"
+  - objective: "VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits."
     key_results: 
-      - "[Specific KR if applicable]"
-  - objective: "Objective 2"
+      - "Improve readability and reliability of submitted form copies; reduce data loss from PDF mapping/overflow issues"
+  - objective: "Deliver accessible, user-centered digital tools for Veterans and staff"
     key_results:
-      - "[Specific KR if applicable]"
+      - "Validate core UX patterns (navigation, layout, download/print) for MVP"
       
 veteran_journey_phases:
-  - "[e.g., Getting Out]"
-  - "[e.g., Starting Up]"
+  - "Joining"
+  - "Serving"
+  - "Getting Out"
+  - "Starting Up"
+  - "Taking Care of Myself"
+  - "Reinventing Myself"
+  - "Putting Down Roots"
+  - "Retiring"
+  - "Aging"
+  - "Dying"
     
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "[Link to related past research]"
+    - "https://github.com/department-of-veterans-affairs/va.gov-team/issues/117360"
+    - "https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information"
+    - "Figma prototypes: https://www.figma.com/proto/EoYnokGp9aSgy5JrDVqp5L/686c---Form-data-viewer---Fully-Digital-Forms"
     
 tags:
-  - "[product-area]"
-  - "[methodology]"
-  - "[participant-type]"
-  - "[research-phase]"
+  - "disability"
+  - "usability-testing"
+  - "veterans"
+  - "prototype-evaluation"
+  - "form-viewer"
 ---
 
 # Research Plan for 686c MVP Form Viewer Usability Testing
