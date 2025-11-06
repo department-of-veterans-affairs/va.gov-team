@@ -52,7 +52,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Work with Perigean on recruitment for Payment History pre-launch validation research sessions.| QP3 |BLOCKED by government shutdown​|--| Incomplete |
-|UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |BLOCKED by government shutdown​|--|--|
+|UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |BLOCKED by government shutdown​|--|Incomplete|
 |ENG: Pending Launch of One Thing Per Page - Ramp up the exposure %, Monitor for issues or errors, address any issues.| QP2 |BLOCKED by government shutdown​|--|Incomplete|
 |ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.| QP3 |BE is still completing the Lighthouse integration work|--|Incomplete|
 
