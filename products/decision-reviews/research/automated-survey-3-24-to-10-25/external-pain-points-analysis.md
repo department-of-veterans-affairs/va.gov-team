@@ -14,6 +14,7 @@
 This analysis identified **62 specific pain points** veterans experience with the decision review and appeals process, extracted from external online communities, government oversight reports, VSO testimony, and legal resources.
 
 **Critical Findings - Veteran Confusion:**
+
 1. **Choosing between pathways** is the #1 confusion point
 2. **"No new evidence" HLR rule** causes massive confusion and anxiety
 3. **Effective date issues** create feelings of unfairness
@@ -21,6 +22,7 @@ This analysis identified **62 specific pain points** veterans experience with th
 5. **"New and relevant evidence" definition** is poorly understood
 
 **Critical Findings - VA Processing Failures (NEW from VSO/OIG Data):**
+
 6. **42% of claims have duty-to-assist failures** - VA doesn't help veterans obtain evidence
 7. **30% error rate in VA decision letters** per DAV review
 8. **80% of Board decisions remanded** by Court of Appeals for inadequate explanations
@@ -52,12 +54,14 @@ To ensure transparency and verifiability, every pain point in this report is lab
 - **Example:** "42% duty-to-assist failures" - American Legion ROAR Analysis 2025
 
 **⚠️ Tier 3: Community-Reported (Veteran Forums)**
-- Themes synthesized from web searches of veteran communities
-- Includes r/VeteransBenefits, HadIt.com, Veterans Benefits Network
+- **IMPORTANT:** Mostly second-hand references, NOT direct forum access
+- Reddit: Secondary sources only (legal blogs/articles quoting Reddit) - Reddit API blocks LLM access
+- HadIt.com: Mixed (some threads accessed, many 403 errors, supplemented with web search)
+- Veterans Benefits Network: Direct access via WebFetch (HIGH confidence)
+- Legal sites: Direct access to published articles/FAQs
 - Validated where possible by cross-reference with Medallia feedback data
-- Transparent about limitations (Reddit API restrictions, forum access blocks)
-- Useful for understanding veteran experience; lower verifiability
-- **Example:** "Fear of rating reduction in HLR" - Veterans Benefits Network discussions
+- **Use as hypotheses requiring validation through direct user research**
+- **Example:** "Fear of rating reduction in HLR" - Veterans Benefits Network thread (directly accessed)
 
 ### How to Use This Framework
 
@@ -116,9 +120,13 @@ Community-reported pain points (Tier 3) were validated through:
 
 ### Pain Point #2: Confusion Between HLR and Supplemental Claim
 **Severity:** CRITICAL
+
 **Frequency:** Very High
+
 **Quote:** "I don't know if I should file HLR or supplemental claim"
+
 **Impact:** File wrong form, waste months, may lose appeal rights
+
 **Sources:** Veterans Benefits Network, HadIt, Reddit
 
 **Details:**
@@ -1376,40 +1384,78 @@ This section provides complete citations for all sources used in the pain points
 
 ### TIER 3: COMMUNITY FORUMS (Synthesized from Web Search)
 
-**Methodology Note:** Tier 3 sources represent themes synthesized from systematic web searches conducted October-November 2025. Specific thread URLs are not available due to Reddit API restrictions and forum access limitations (403 errors). Themes were validated through:
-- Multiple independent mentions across different forums
-- Cross-reference with internal Medallia feedback data
-- Triangulation with Tier 1/2 government/VSO sources where applicable
-- Consistency over time (2021-2025 discussions)
+**IMPORTANT PROVENANCE DISCLOSURE:**
 
-**Reddit Communities**
+Tier 3 sources represent themes synthesized from systematic web searches conducted October-November 2025. **Reddit was NOT directly accessed.** Here's exactly what happened:
+
+**What We DID:**
+- Used WebSearch tool with queries like "reddit VeteransBenefits supplemental claim confusion"
+- Retrieved articles, blog posts, and legal sites that **quoted or summarized** Reddit discussions
+- Found mentions in other forums (Veterans Benefits Network, HadIt.com) where users referenced Reddit threads
+- Accessed some Veterans Benefits Network threads directly via WebFetch
+
+**What We DID NOT Do:**
+- Did NOT scrape Reddit directly (Reddit API blocks LLM access)
+- Did NOT read actual Reddit thread content
+- Did NOT have specific Reddit post URLs
+- Did NOT verify individual Reddit user claims
+
+**Validation Approach:**
+Tier 3 themes were considered credible only when:
+1. **Multiple independent mentions** - Same theme appeared in different secondary sources
+2. **Cross-reference with internal Medallia data** - VA.gov feedback showed same confusion points
+3. **Triangulation with Tier 1/2 sources** - Government/VSO reports confirmed similar patterns
+4. **Consistency over time** - Same themes appearing in 2021-2025 timeframe
+
+**Transparency:** These are **second-hand references** to community discussions, not direct observation. Use Tier 3 insights as hypotheses requiring validation through direct user research.
+
+---
+
+**Reddit Communities (Secondary References Only)**
 
 11. **r/VeteransBenefits**
-    - **URL:** https://www.reddit.com/r/VeteransBenefits/
+    - **URL:** https://www.reddit.com/r/VeteransBenefits/ (homepage only - no specific threads accessed)
     - **Description:** Largest and most active Reddit community focused on VA disability claims and appeals (100,000+ members)
-    - **Data Collected:** Web search synthesis of discussions about supplemental claims, higher-level reviews, board appeals, decision reviews, new evidence definitions, pathway confusion
+    - **Actual Data Source:** Secondary sources (legal blogs, articles, other forums) that mentioned or quoted r/VeteransBenefits discussions
+    - **Access Method:** WebSearch queries returned articles/blogs describing common questions on this subreddit
+    - **Provenance Example:** Legal blog states "We often see veterans on r/VeteransBenefits confused about HLR vs SC" - we captured the theme but never saw the actual Reddit posts
+    - **Confidence Level:** LOW for specific claims; MODERATE when triangulated with Medallia data
     - **Referenced in:** Multiple Tier 3 pain points (pathway selection, evidence confusion, timeline frustrations)
 
 12. **r/Veterans**
-    - **URL:** https://www.reddit.com/r/Veterans/
+    - **URL:** https://www.reddit.com/r/Veterans/ (homepage only - no specific threads accessed)
     - **Description:** General veteran community with benefits discussions (large membership)
-    - **Data Collected:** Web search synthesis of VA decision appeals discussions
+    - **Actual Data Source:** Secondary sources mentioning this subreddit's discussions
+    - **Access Method:** WebSearch synthesis
+    - **Provenance:** Same as r/VeteransBenefits - secondary references only
+    - **Confidence Level:** LOW
     - **Referenced in:** Various Tier 3 pain points
 
-**Traditional Veteran Forums**
+**Traditional Veteran Forums (Mixed Access)**
 
 13. **HadIt.com Veterans Disability Community**
     - **URL:** https://community.hadit.com/
     - **Description:** Oldest veteran disability forum (founded 1997); 26,000+ registered members; 470,000 posts; 43 million visitors since inception
     - **Founder:** Theresa M. Aldrich "Tbird" (Navy veteran)
-    - **Data Collected:** Web search synthesis; some specific threads accessed, others returned 403 errors
+    - **Actual Data Source:** MIXED - Some WebFetch attempts succeeded, many returned 403 errors; supplemented with WebSearch synthesis
+    - **Access Method:**
+      - Attempted direct WebFetch to specific forum threads
+      - Some threads accessible, others blocked (403 Forbidden error)
+      - Used WebSearch to find articles referencing HadIt discussions
+    - **Provenance:** Combination of directly accessed threads + secondary references
+    - **Confidence Level:** MODERATE for directly accessed threads; LOW for secondary references
     - **Referenced in:** Multiple Tier 3 pain points related to HLR/SC confusion, evidence requirements, VSO quality variation
 
 14. **Veterans Benefits Network**
     - **URL:** https://vetsbenefits.net/
     - **Description:** "Vets Helping Vets Since 2002"; 39,800+ topics, 327,900+ posts focused on VA disability claims
-    - **Data Collected:** Successfully accessed several forum threads via WebFetch; themes synthesized
-    - **Example Thread Topics:** "Higher-Level Review or Supplemental Claim?" (HLR vs SC confusion), "Risk of rating reduction in HLR" (misconception clarification by forum experts)
+    - **Actual Data Source:** DIRECT ACCESS - Successfully used WebFetch to access several specific forum threads
+    - **Access Method:** WebFetch tool retrieved actual thread content from public forum pages
+    - **Provenance Example:** Directly accessed thread titled "Higher-Level Review or Supplemental Claim?" with veteran asking about evidence requirements; forum expert responded "Photos will normally be given very little weight"
+    - **Confidence Level:** HIGH - These are direct observations from accessible public forum threads, not secondary sources
+    - **Specific Evidence:**
+      - Thread on HLR vs SC pathway confusion with veteran questions and expert responses
+      - Thread on "risk of rating reduction in HLR" where forum expert clarified misconception
     - **Referenced in:** Tier 3 pain points on pathway confusion, evidence misunderstandings, fear of rating reductions
 
 **Legal Resource Websites**
