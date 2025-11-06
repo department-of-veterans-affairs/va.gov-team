@@ -354,4 +354,4 @@ Thank you so much again, and enjoy the rest of your day!
 
 # Emergency Exit 🚨
 * Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
-* Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+* Blame technology: I am so sorry, but I just learned that the demo we wanted to test with you today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
