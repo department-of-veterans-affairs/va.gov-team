@@ -51,10 +51,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 20 [10/22/25 - 11/4/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Work with Perigean on recruitment for Payment History pre-launch validation research sessions.| QP3 |--|--| Incomplete |
-|UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |--|--|--|
-|ENG: Pending Launch of One Thing Per Page - Ramp up the exposure %, Monitor for issues or errors, address any issues.| QP2 |--|--|Incomplete|
-|ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.| QP3 |--|--|Incomplete|
+|UX: Work with Perigean on recruitment for Payment History pre-launch validation research sessions.| QP3 |BLOCKED by government shutdown​|--| Incomplete |
+|UX/ENG: Prepare Staging Review artifacts (12 tix) for Payment History.| QP3 |BLOCKED by government shutdown​|--|--|
+|ENG: Pending Launch of One Thing Per Page - Ramp up the exposure %, Monitor for issues or errors, address any issues.| QP2 |BLOCKED by government shutdown​|--|Incomplete|
+|ENG: Complete final ENG Payment History coding and review the final implementation between UX/ENG.| QP3 |BE i still completing the Lighthouse integration work|--|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (09/30/25)
@@ -63,7 +63,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (09/30/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
+- [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
 ## Sprint Goals - Sprint: 21 [11/5/25 - 11/18/25]  
