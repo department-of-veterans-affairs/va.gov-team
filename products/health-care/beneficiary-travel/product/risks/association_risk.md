@@ -21,7 +21,7 @@ we will communicate and handle this problem at that time.
 ### 2. Build a Temporary UI
 * **Approach**: Build a non-associated version of the UI
 * **Main Pro**: We can test integrations with the API in staging and the work is not that difficult
-* **Main Con**: It is not what we tested with users and will need to remove it before prod, still takes time away from complex claims work.
+* **Main Con**: It is not what we tested with users, still takes time away from complex claims work.
 
 ### Build Stop-Gap Association
 * **Approach**: Build/use association table in the vets-api database
