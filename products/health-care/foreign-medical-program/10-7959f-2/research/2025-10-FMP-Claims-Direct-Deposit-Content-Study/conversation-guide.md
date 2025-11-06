@@ -19,6 +19,8 @@ description: "A template for moderating research sessions including logistics, i
 `List and complete any project-specific setup tasks for this study below:`
 
 - [ ] Prepare Figma prototype by having link to intro page and subsequent task starts ready
+- [ ] [Mobile](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4421&p=f&t=dviOYtlT2YZeaJka-0&scaling=scale-down&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
+- [ ] [Desktop](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6941-5267&p=f&t=dviOYtlT2YZeaJka-0&scaling=min-zoom&content-scaling=fixed&page-id=6941%3A5218&starting-point-node-id=6941%3A5267)
 
 ### Day of the session
 
