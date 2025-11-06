@@ -5,7 +5,7 @@
 ## All Login Information
 | Email                         | Password | ICN | EDIPI | Notes |
 | ----------------------------- | ---------- | ---------- | ---------- | ---------- |
-| vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | | | Password doesn't work
+| vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | | | Automatic COE, can download it! 100% Disability Rating
 | vets.gov.user+24@gmail.com   | 168SsNrLgPv5 | | | Automatic COE, 50% SC disability rating
 | vets.gov.user+34@gmail.com   | 303SsNrLgPv5 | 1012829890V001762 | 1005320840 | Automatic COE, 80% SC disability rating
 | vets.gov.user+125@gmail.com   | 116SsNrLgPv5 | 1012830031V654442 | 1005151291 | Needs to file manually
