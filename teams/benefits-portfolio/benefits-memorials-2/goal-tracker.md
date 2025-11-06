@@ -6,7 +6,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
-## Quarterly Priorities for FY26Q1 (October, November, December 2025)  
+## Quarterly Priorities for FY26Q1 (October, November, December 2025) 
 *Quarter Sprints include 19, 20, 21, 22, 23, 24, 25*
     
 **Primary Goals (May shift based on stretch goal dependencies)**
