@@ -89,7 +89,11 @@ Okay, thank you so much for showing us how you navigate your health portal and a
 ### Opening the Figma prototype
 - Moderator put link to prototype in Zoom chat: figma.com/proto/NlczsEfLZj7Pz5OeJGMqTM/My-VA-Health-OH-transition-research-study?node-id=0-1&p=f&t=z3rXmFFIwP5l8ztc-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2496
 
+**If user entered their health portal from VA.gov**
 - https://tinyurl.com/healthytest1
+
+**If user entered via bookmark - show them interstitial**
+- https://tinyurl.com/healthytest2
 
 -  For the next part of our time together, I want to show what we call a prototype. This is not an actual website. It is a file that we use to explore what the website could look like and get feedback from users like yourself before we make any final changes to the website. This prototype will not work exactly like a website, and you won't see your name or your own personal information. For example, not all of the links will work and you cannot click the back button in your browser because it will take you away from the prototype. 
 
