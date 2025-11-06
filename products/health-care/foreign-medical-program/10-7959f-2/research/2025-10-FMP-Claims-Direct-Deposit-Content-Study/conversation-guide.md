@@ -132,7 +132,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## Pause Page - Comparrison Question - 5 minutes
-- You mentioned you receive disability compensation via direct deposit.
+- You mentioned you receive disability compensation via direct deposit. (if they said they receive direct in warm up questions)
 - Now that you've seen both how to set up direct deposit for FMP and what you know about your VA disability compensation setup, do you think the process would be the same or different? Explain your thinking.
 - Would you need to do anything different for FMP claims?
 
