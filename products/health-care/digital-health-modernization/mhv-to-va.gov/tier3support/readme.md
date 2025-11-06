@@ -1,34 +1,30 @@
 # Tier 3 Support Product Outline 
 
 ## Communications
-- Team GitHub Label: my-health-CTO-HEALTH-TEAM 
-- Product GitHub Label: my-health-INTEGRATION
-- Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
+- Team GitHub Label: MHV-Tier-3
+- Product GitHub Label: MHV-Tier-3
+- Slack channel: ????
 - Product POCs: 
   - Lauren Alexanderson - OCTO Sponsor
-  - Marci Mcguire - OCTO Product Owner
-  - Kaitlin Fink - OCTO UX Lead
  
 - Stakeholders: 
    - 
 
 
 ## The Problem
-To get the health care they need, Veterans must find, register for, and learn to use a number of different websites and software products. Our generative research from 2018, repeated in late 2020, shows that Veterans find it extremely difficult to navigate commonplace interactions with VA health care. The VA ecosystem is so complex that Veterans feel discouraged to apply for, manage, and maximize their benefits.
-
-Consider booking a doctor’s appointment: One system locates nearby facilities. Another schedules appointments. Another handles follow-ups like messages and prescriptions. And another reimburses travel expenses. That’s a lot for Veterans to learn. It’s also difficult for VA staff to support so many siloed systems.
+Veterans and VA Staff will occasionally run into issues when using websites and software provided by MHV.  These may be simple or complex, and if they require engineering to resolve, these items will generally be escalated to Tier 3 so that Support can ensure that these problems get surfaced to those who can help solve them.
 
 
 ### User Goals
-- Ability to quickly and easily be assisted with an issues on VA.gov's website
+- Ability to quickly and easily be assisted with issues on VA.gov's website that get escalated to Tier 3 status.
 
 
 ### Business Goals
-- Support Veterans and VA Staff with any issues encountered with VA software services
+- Support Veterans and VA Staff with any issues encountered with VA software services that get escalated to Tier 3 status.
 
 
-## Assumptions
-- 
+## Challenges
+- Tier 3 Support generally will not be allowed to contact Veterans directly, so it may take considerable time to address their concerns due to additional exchanges with other services who are able to communicate with them.
 
 ## Questions
 - Do Tier 1 and 2 centers know how to engage w/ Tier 3?
