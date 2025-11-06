@@ -66,6 +66,59 @@ In Fall 2023, a CEDAR team was hired to [digitize 15 forms](https://github.com/d
   - Expiration: 01/31/2024
   - [Dedicated Github Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program)
 
+Forms that were not built:
+
+~*Power of Attorney form – VA Form 10-0137*~ [descoped 4/30/24](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/advance-directive/descoping-decision.md)
+  - Latest PDF: [Download VA Form 10-0137](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-0137_FILL.pdf) (PDF)
+  - Expiration: 04/30/2024
+  - *This one requires special handling because it is a legal document that requires witnesses and notarization, and must be formally filed at a VA Medical Center. Need to work with stakeholder to understand what part we want to have digitized, and how we handle the subsequent steps - likely offline?*
+  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/advance-directive)
+7.	~* Release of Information (ROI) form – VA Form 10-5345 *~ [descoped]
+  - Latest PDF:  [About form 10-5345](https://www.va.gov/find-forms/about-form-10-5345/)
+  - Expiration: Not shown
+  - *this one also requires special handling because we need to understand where it needs to be routed.*
+  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/medical-records/release-of-health-information-form)
+8.	Spina Bifida Claim Form for Miscellaneous Expense – VA Form 10-7959E
+  - Spina Bifida Claims page: [https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina_claim.asp](https://www.va.gov/COMMUNITYCARE/programs/dependents/spinabifida/spina_claim.asp) 
+  - Latest PDF:  [Download VA Form 10-7959E](https://www.va.gov/vaforms/medical/pdf/vha-10-7959e-fill.pdf) (PDF)
+  - Expiration: Not shown
+  - *Curious if there are other Spina Bifida appliations we need to digitize*
+  - Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/spina-bifida)
+9. Decision Review Request Board Appeal (Notice of Disagreement)  - VA Form 10182*
+  - [Notice of disagreement on VA.gov](https://www.va.gov/find-forms/about-form-10182/) 
+  - Expiration: 03/31/2025
+  - The IVC appeals team receive board requests through the CMP, an online mailbox that the Board of Veterans Appeals uses to route documents they receive in their mail to appropriate agencies. The 10182 form actually
+ goes the board first, then they upload it to the CMP.  We download them and add in the needed documentation to form the board review packet, and then re-upload them there for the board to review. 
+  - [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
+10.	*Decision Review [Request Higher-Level review](https://www.va.gov/decision-reviews/higher-level-review/) - VA Form 20-0996*
+  - Latest PDF: [VA Form 20-0996 on VA.gov](https://www.va.gov/decision-reviews/higher-level-review/request-higher-level-review-form-20-0996/start)
+  - Expiration: 04/30/2024
+  - THis form exists today on va.gov, but only has a pathway for benefits HLR to be filed. We would propose to update this flow and how/where we submit the data to allow for health care HLR to be filed as well. Deeper discovery needed on this.
+  - [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
+11.	*Decision Review [Request Supplemental Claim](https://www.va.gov/decision-reviews/supplemental-claim/) VA Form 20-0995*
+  - Supplemental claim on va.gov:  [[Request Supplemental Claim form on VA.gov today](https://www.va.gov/decision-reviews/supplemental-claim/](https://www.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/start))
+  - Expiration: 04/30/2024
+  -  THis form exists today on va.gov, but only has a pathway for benefits HLR to be filed. We would propose to update this flow and how/where we submit the data to allow for health care HLR to be filed as well. Deeper discovery needed on this.
+  -  [Existing github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
+
+12.	[Camp Lejeune](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/camp-lejeune-water-contamination/) Application Form – VA Form 10-10068
+  - Latest PDF: [VA Form_10-10068-fill.pdf](https://www.va.gov/VA_Form_10-10068.pdf)
+  - Expiration: 8/31/2025
+  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
+13.	Camp Lejeune Treating Physician Report – VA Form 10-10068b
+  - Latest PDF: [VA Form_10-10068b-fill.pdf](https://www.va.gov/VA_Form_10-10068b.pdf)
+  - Expiration: 8/31/2025
+  - *This needs to be completed by a physician. Not sure how to handle this use case.*
+  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
+14.	Camp Lejeune Family Member Program information Update Form – VA Form 10-10068c
+  - Latest PDF: [VA_Form_10-10068c-fill.pdf](https://www.va.gov/vaforms/medical/pdf/VA_Form_10-10068c-fill.pdf)
+  - Expiration: 8/31/2025
+  - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
+
+15.	Camp Lejeune Family Member Program Claim Form – VA Form 10-10068a
+  - Latest PDF: [VA Form_10-10068a-fill.pdf](https://www.va.gov/vaforms/medical/pdf/VA%20Form_10-10068a-fill.pdf)
+  - Expiration: 08/31/2025
+ - [Dedicated Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/camp-lejeune)
 
 
 ## Who are the users and what do we know about them? 
