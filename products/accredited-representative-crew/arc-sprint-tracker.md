@@ -29,7 +29,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 
 
-## Sprint 2 Tickets
+## Sprint 3 Tickets
 
 **Team Accreditation**
 
