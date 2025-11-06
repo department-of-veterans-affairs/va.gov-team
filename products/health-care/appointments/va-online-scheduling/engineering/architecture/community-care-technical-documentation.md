@@ -240,6 +240,7 @@ Retrieves detailed information about a specific referral.
       "categoryOfCare": "CHIROPRACTIC",
       "status": "ACTIVE",
       "referralNumber": "VA0000007241",
+      "referralConsultId": "659_646907"
       "expirationDate": "2025-06-02",
       "serviceName": "Referral",
       "hasAppointments": false,
