@@ -55,6 +55,6 @@ Veterans and VA Staff will occasionally run into issues when using websites and 
 
 - OCTO PO: ??
 - Product Manager: Bryan Ivie (Ad Hoc)
-- Delivery lead: Melissa Ashton (IronArch)
+- Delivery: Melissa Ashton (IronArch)
 - Senior Engineer: Tom Gammons (Ad Hoc)
 
