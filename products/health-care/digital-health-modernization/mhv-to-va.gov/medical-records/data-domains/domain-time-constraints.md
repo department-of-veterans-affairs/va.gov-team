@@ -38,13 +38,6 @@ Yes, decision made in call on 11/6
 ### How far back should the date picker go? 
 Engineers can't know how far back records might go so we've had to decide on a standard. Mark Dewey and Patrick Bateman decided 2.2 years back for 90 day intervals that can be picked from the dropdown. For mobile, that will be it (data goes back only 2.2 years). For web, a custom date field will need to be used to get anything further back in time (will be set up to also run only 90 day intervals). 
 
-### What work is remaining to be implemented on VAHB?
-- Labs and tests currently has the 30 day filter so for that domain what is left is to change that to 90 days.
-- Care notes and summaries BE will need to be adjusted to accepted parameters from FE date picker, and then date picker will need to be added (this is the biggest piece to be done as of meeting on 11/6)
-- Date picker already exists for vitals (PR to remove)
-- Vaccines is working "good enough" for now based on other priorities
-- Liz Townsend expects these changes to all deploy on VAHB on Dec. 2
-
 ### Do we need to direct VAHB patients to web to find add'l records (do we not already do this?)?
 
 ### Is the custom date option shown in designs already in the design system? We won't be able to go through CC so we need to use something already sanctioned/standardized.
