@@ -147,10 +147,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Third Task: [FMP Form Flow and Upload] - 10 minutes
 
 - [ ] From static page pause screen, have participant click continue to jump through the form.
-- Now we are going to go back to the form for filing the claim. Imagine that you have navigated through pages that ask you to confirm you basic information and then you arrive here. 
-- Navigate through the prototype now focusing on the content and instructions. After each section (basic info, bank details, upload, review), pause and tell me: 
+- Now we are going to go back to the form for filing the claim.
+- Imagine that you have navigated through mid-way through the form and that you have already confirmed you basic information and then you arrive here. 
+- Navigate through the prototype now focusing on the content and instructions.
 1. What was that section asking you to do?
 2. Anything unclear?
+
+   
 - [ ] Pause before starting upload screens
 - Before moving on, can you explain your understanding of the content on that previous page?
 - [ ] Upload screens
@@ -164,7 +167,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## Third Task: [Confirmation Page] - 10 minutes
+## Fourth Task: [Confirmation Page] - 10 minutes
 
 
 - [ ] Participant arrives at Confirmation Page in the Figma prototype
@@ -179,12 +182,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## Forth Task: [Content Comprehension and Mental Model] - 10 minutes
+## Fifth Task: [Content Comprehension and Mental Model] - 10 minutes
 
 - What's your understanding on how the direct deposit process for FMP claims works now that you have gone thorugh this prototype?
 - What would be one thing that you would change to make it better for you about the current direct deposit process as you understand it?
 
-- Think about having to contact FSC to set up direct deposit for FMP. What are your thoughts about that extra step?
+- Think about having to contact the VA to set up direct deposit for FMP. What are your thoughts about that extra step?
 - Did anything about the direct deposit process feel confusing, complicated, or like it might cause you to not file your claim online?
 - What would make you confident that your reimbursement would actually get to your bank account once you file?
 
