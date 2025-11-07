@@ -1,3 +1,6 @@
+# MHV Secure Messaging - Medication renewal flow
+
+```mermaid
 flowchart TD
   %% START
   A[Medications List page]:::page
@@ -29,3 +32,4 @@ flowchart TD
   classDef success fill:#e6ffed,stroke:#1a7f37,stroke-width:2px;
   classDef muted fill:#f7f7f7,stroke:#bbb,color:#666;
   classDef note fill:#fff8dc,stroke:#e6b800,color:#5c4b00;
+```
