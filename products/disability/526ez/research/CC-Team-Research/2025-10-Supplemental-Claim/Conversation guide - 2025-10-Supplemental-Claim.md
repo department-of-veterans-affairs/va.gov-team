@@ -1,16 +1,12 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
-tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+Is there front matter we need to add?
+
 -------------------------------------------------------------------------------------------------------------------
 # Conversation Guide for [initiative]
 
 ## Moderator logistics 📋✅
+[Link to prototype](https://docs.google.com/document/d/1NKvlFeVIhA6MLjQSHvG2ydZStfF_JaIesNpB0y_65V8/edit?tab=t.0#heading=h.dplkj8rblxka)
+[Link to research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Plan%20-%202025-10-Supplemental-Claim.md)
 ### Day of the session
 
 * Use [\#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.  
