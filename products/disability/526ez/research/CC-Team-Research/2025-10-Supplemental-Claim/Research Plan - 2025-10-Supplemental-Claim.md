@@ -65,6 +65,19 @@ recruitment:
     - "Have never filed a disability claim"
     - "Have experience helping other Veterans file disability claims (2)"
 
+	primary_demographic_criteria:
+	  - Education level:
+	      - At least 6 with education level of Elementary/Intermediate/GED/High School
+		  - No more than 3 with Masters/Professional/Doctoral
+	  - Gender:
+	      - At least 3 with gender other than Male
+	  - Race:
+	      - At least 2 with Asian, Native, American Indian or Alaska Native
+		  - At least 5 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial
+	  - Age:
+	      - At least 5 who are 34 or younger
+		  - At least 4 who are 55+
+
   secondary_criteria:
     - "At least 2 who identify as Gay, lesbian, or bisexual, Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman"
     - "At least 2 who have discharge other than honorable"
