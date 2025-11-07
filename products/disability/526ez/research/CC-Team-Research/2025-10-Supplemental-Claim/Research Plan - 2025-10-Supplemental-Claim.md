@@ -286,6 +286,8 @@ Sessions will be conducted remotely, over Zoom. Participants can join from a com
 
 # Recruitment 🎯
 
+**Recruit 13 participants for a completed sessions goal of 9.**
+
 We’ll recruit Veterans across the following categories:
 
 * Have previously filed a disability claim of any type  
@@ -301,7 +303,7 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 | Cohorts | Recruit \# |
 | :---- | :---- |
 | 1\) Have filed a disability claim within the last 15 years AND have never appealed a disability decision | 5 |
-| 2\) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 4 |
+| 2\) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 3 |
 | 3\) Have never filed a disability claim | 2 |
 | 4\) Have experience helping other Veterans file disability claims (2) | 3 |
 | **Total** | **14** |
@@ -312,7 +314,7 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 
 Education level:
 
-- At least 6 with education level of Elementary/Intermediate/GED/High School  
+- At least 5 with education level of Elementary/Intermediate/GED/High School  
 - No more than 3 with Masters/Professional/Doctoral
 
 Gender:
@@ -322,11 +324,11 @@ Gender:
 Race:
 
 - At least 2 with Asian, Native, American Indian or Alaska Native  
-- At least 5 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial
+- At least 4 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial
 
 Age:
 
-- At least 5 who are 34 or younger  
+- At least 4 who are 34 or younger  
 - At least 4 who are 55+
 
 ### Secondary criteria (nice-to-haves)
