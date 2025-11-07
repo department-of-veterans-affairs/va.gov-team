@@ -52,12 +52,6 @@ research_questions:
   - "Are Veterans familiar with the term “secondary condition”?"
   - "How would a Veteran add a secondary condition to their claim?"
 
-
-hypotheses:
-  - "Veterans will prefer design directions with clear distinction and grouping of denied/granted conditions."
-  - "Veterans may be confused by unfamiliar terminology (appeal, supplemental, service-connected, secondary)."
-  - "Clustering, tiles, and labeling changes may improve navigation and clarity or, if poorly executed, may increase confusion."
-
 expected_outcomes: "Findings will guide selection of the primary design direction, optimize Veterans' experience filing supplemental claims, clarify content and language, and identify risks impacting usability or equity for diverse groups."
 
 # Recruitment & Participants
