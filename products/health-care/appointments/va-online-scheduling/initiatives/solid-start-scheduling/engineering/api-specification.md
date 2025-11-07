@@ -1,4 +1,4 @@
-# VASS vets-api to vets-website API Specification
+# Vets-website VASS API Specification
 
 This document describes the API specifications for VASS scheduling, defining the request/response structures between vets-website and vets-api.
 
