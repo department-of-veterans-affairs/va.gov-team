@@ -69,7 +69,7 @@ recruitment:
     - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision"
     - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision"
     - "Have never filed a disability claim"
-	- "Have experience helping other Veterans file disability claims (2)"
+    - "Have experience helping other Veterans file disability claims (2)"
 
   secondary_criteria:
     - "At least 2 who identify as Gay, lesbian, or bisexual, Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman"
