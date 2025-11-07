@@ -1,6 +1,6 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025"
+title: "Research plan: 2025-10 Supplemental claims design direction"
 date: 2025-11-07
 last_updated: 2025-11-07
 team: "Disability Benefits Crew - Condition Team"
@@ -33,14 +33,25 @@ research_goals:
 research_questions:
   - "Is one design easier to navigate and understand than the others?"
   - "How well does each design communicate eligibility for supplemental claims?"
-  - "How easy is it for users to add a supplemental condition?"
-  - "Are usability issues introduced for standard disability claims?"
-  - "How do Veterans react to seeing denied conditions?"
-  - "Does the number of options cause fatigue or overwhelm?"
-  - "Does the design introduce confusion or impact claim outcomes?"
-  - "Which design is perceived as easiest or most supportive?"
-  - "Does the prototype help Veterans understand evidentiary requirements for supplemental claims?"
-  - "Do Veterans understand the difference between increase claims and supplemental claims?"
+  - "How easy is it for users to add a supplemental condition to their claim?"
+  - "Are there any usability problems introduced by the new design that might affect Veterans’ ability to file a new or increase claim?"
+  - "How do Veterans react to seeing a list of conditions that have been denied?"
+  - "Do Veterans experience form fatigue or get overwhelmed by the number of options?"
+  - "Does the design create confusion, especially in areas which could negatively impact the outcome of their claim??"
+  - "Which design is perceived by Veterans as easier to use or more supportive?"
+  - "Does the prototype help Veterans understand the basic evidentiary requirements for supplemental claims?"
+  - "For “CFI distinction,” do Veterans understand the difference between filing a claim for increase versus a supplemental claim?"
+  - "How are conditions and their various statuses (particularly in relation to the VA) perceived?"
+  - "How do Veterans think about conditions that have been granted v. those that have been denied? What about conditions that were granted at 0%?"
+  - "How do Veterans think about their conditions in terms of causality and relation to military service (e.g. service connection, presumption)? Do Veterans think of secondary conditions differently from conditions that are directly service-connected or aggravated?"
+  - "Is there a perceived order to which order claims should be filed, and if yes, what is that order and what are its origins?"
+  - "How do Veterans think about challenging a VA decision? What words do they use?"
+  - "What is the effect of clustering the conditions list with subheads?"
+  - "What are the advantages and disadvantages of using tiles instead of radio buttons on the “Add a condition” screen?"
+  - "Are Veterans familiar with the concept of a secondary condition?"
+  - "Are Veterans familiar with the term “secondary condition”?"
+  - "How would a Veteran add a secondary condition to their claim?"
+
 
 hypotheses:
   - "Veterans will prefer design directions with clear distinction and grouping of denied/granted conditions."
@@ -55,13 +66,14 @@ recruitment:
   approach: "Lean maximum variation sampling"
   
   primary_criteria:
-    - "Have filed a disability claim within the last 15 years"
-    - "Have filed an appeal to a disability decision"
-    - "Have experience helping other Veterans file disability claims"
+    - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision"
+    - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision"
+    - "Have never filed a disability claim"
+	- "Have experience helping other Veterans file disability claims (2)"
 
   secondary_criteria:
-    - "Identify as LGBTQ+"
-    - "Discharge other than honorable"
+    - "At least 2 who identify as Gay, lesbian, or bisexual, Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman"
+    - "At least 2 who have discharge other than honorable"
     
   screener_questions:
     - question: "Have you filed a disability claim with VA in the last 15 years?"
