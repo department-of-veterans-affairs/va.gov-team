@@ -139,7 +139,7 @@ tags:
   - "Veteran Journeys: Taking Care Of Themselves"
 ---
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025
+	# Research Plan for Disability Benefits Crew - Condition Team, Supplemental Claim design directions, October 2025
 
 ---
 
