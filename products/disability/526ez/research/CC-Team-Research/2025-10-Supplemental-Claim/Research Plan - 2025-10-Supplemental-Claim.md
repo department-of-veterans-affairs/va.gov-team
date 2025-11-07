@@ -1,109 +1,118 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
+title: "Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025"
+date: 2025-11-07
+last_updated: 2025-11-07
+team: "Disability Benefits Crew - Condition Team"
+product: "Online Form 526 (Disability Claim) - Conditions Section, Supplemental Claims Flow"
+product_area: "authenticated"
 
 # Background Context
 background:
-  problem_statement: "[What problem is your product trying to solve?]"
-  product_location: "[Where is this situated on VA.gov?]"
-  user_familiarity: "[New product or iteration?]"
-  product_brief_url: "[URL]"
+  problem_statement: "Veterans currently cannot file supplemental claims (for previously denied conditions or contestable issues) directly within the online Form 526 flow. The challenge is to seamlessly incorporate supplemental claims filing into the existing process, improving equity, clarity, and usability for Veterans without negatively impacting the standard disability claim experience."
+  product_location: "VA.gov, authenticated disability claim form (Form 526 online)"
+  user_familiarity: "Iteration of an existing product for a new claim type (supplemental claims)"
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464"
 
 # Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+methodology: "Semi-structured, exploratory interviews and task-based usability testing comparing two prototypes"
 research_format: 
-  location: remote # Options: remote, in-person, hybrid
+  location: remote
   in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
-  moderated: true # Options: true, false
+    facility: ""
+    point_of_contact: ""
+    equipment: ""
+  moderated: true
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[First research goal]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
+  - goal_1: "Identify which design direction best supports Veterans in filing supplemental claims within Form 526"
+  - goal_2: "Understand Veterans’ mental models and language around disabilities, claims, and appeals for optimal flow architecture"
+  - goal_3: "Gather feedback on Platform-recommended changes and differentiation of secondary conditions in the flow"
 
 research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
+  - "Is one design easier to navigate and understand than the others?"
+  - "How well does each design communicate eligibility for supplemental claims?"
+  - "How easy is it for users to add a supplemental condition?"
+  - "Are usability issues introduced for standard disability claims?"
+  - "How do Veterans react to seeing denied conditions?"
+  - "Does the number of options cause fatigue or overwhelm?"
+  - "Does the design introduce confusion or impact claim outcomes?"
+  - "Which design is perceived as easiest or most supportive?"
+  - "Does the prototype help Veterans understand evidentiary requirements for supplemental claims?"
+  - "Do Veterans understand the difference between increase claims and supplemental claims?"
 
 hypotheses:
-  - "[Hypothesis 1]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
+  - "Veterans will prefer design directions with clear distinction and grouping of denied/granted conditions."
+  - "Veterans may be confused by unfamiliar terminology (appeal, supplemental, service-connected, secondary)."
+  - "Clustering, tiles, and labeling changes may improve navigation and clarity or, if poorly executed, may increase confusion."
 
-expected_outcomes: "[How will findings advance the product?]"
+expected_outcomes: "Findings will guide selection of the primary design direction, optimize Veterans' experience filing supplemental claims, clarify content and language, and identify risks impacting usability or equity for diverse groups."
 
 # Recruitment & Participants
 recruitment:
   recruiting_partner: "Perigean"
-  approach: "[e.g., lean maximum variation]"
+  approach: "Lean maximum variation sampling"
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
-    
+    - "Have filed a disability claim within the last 15 years"
+    - "Have filed an appeal to a disability decision"
+    - "Have experience helping other Veterans file disability claims"
+
   secondary_criteria:
-    - "[Nice-to-have criterion 1]"
-    - "[Nice-to-have criterion 2]"
+    - "Identify as LGBTQ+"
+    - "Discharge other than honorable"
     
   screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
+    - question: "Have you filed a disability claim with VA in the last 15 years?"
+      qualifying_response: "Yes"
+    - question: "Have you ever appealed a decision the VA made on your disability claim?"
+      qualifying_response: "Yes/No"
+    - question: "Do you help other Veterans with their disability claims (volunteer/professional)?"
+      qualifying_response: "Yes/No"
+    - question: "If yes, what organization(s) do you work through?"
+      qualifying_response: "Free text"
       
 participants:
-  veterans: 0
+  veterans: 14
   caregivers: 0
   dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  total_recruited: 14
+  completed_sessions_goal: 14
   
 # Timeline & Sessions
 timeline:
-  pilot_date: "YYYY-MM-DD"
-  pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
-  research_review_submission: "YYYY-MM-DD"
+  pilot_date: "TBD"
+  pilot_participant: "TBD"
+  research_dates: "2025-11-24 to 2025-12-10"
+  research_review_submission: "TBD"
   
 session_details:
-  duration_minutes: 60
+  duration_minutes: 75
   buffer_minutes: 30
-  max_sessions_per_day: 0
+  max_sessions_per_day: 3
   
 # Strategic Alignment
 octo_priorities:
-  - objective: "Objective 1"
+  - objective: "VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits."
     key_results: 
-      - "[Specific KR if applicable]"
-  - objective: "Objective 2"
-    key_results:
-      - "[Specific KR if applicable]"
-      
+      - "Improve satisfaction with web and mobile products by 5 points."
+
 veteran_journey_phases:
-  - "[e.g., Getting Out]"
-  - "[e.g., Starting Up]"
+  - "Getting Out"
+  - "Taking Care of Myself"
     
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "[Link to related past research]"
+    - "https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464"
     
 tags:
-  - "[product-area]"
-  - "[methodology]"
-  - "[participant-type]"
-  - "[research-phase]"
+  - "authenticated"
+  - "usability-testing"
+  - "veteran"
+  - "disability-claims"
+  - "design-iteration"
 ---
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025
