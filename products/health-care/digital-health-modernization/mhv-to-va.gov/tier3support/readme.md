@@ -37,7 +37,7 @@ Veterans and VA Staff will occasionally run into issues when using websites and 
 - Assignment of issues to proper tool teams
 
 #### Out of Scope
-- 
+- Any Tier 3 Appointments issues
 
 
 ## KPIs
@@ -53,8 +53,9 @@ Veterans and VA Staff will occasionally run into issues when using websites and 
 
 ## Team
 
-- OCTO PO: ??
+- OCTO PO: 
 - Product Manager: Bryan Ivie (Ad Hoc)
-- Delivery: Melissa Ashton (IronArch)
+- Issue Resolution: Melissa Ashton (IronArch)
 - Senior Engineer: Tom Gammons (Ad Hoc)
+- Issue Resolution: Misty Gray (IronArch)
 
