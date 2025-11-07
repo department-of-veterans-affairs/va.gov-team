@@ -92,11 +92,10 @@ Ticket statuses:
 ●	Canceled - 
 
 ### Resolution Comments
-* These are common resolution comment text that may be included in the responses.
+These are common resolution comment text that may be included in the responses.
 * MHV Tier 3 Support does not manage SM triage group membership. For assistance, please contact your local MHV Coordinator (COORDINATOR CONTACT). No further assistance is needed by MHV Tier 3 so this ticket will be closed as resolved.
-
 For SCTASKS
-If MHV Tier 3 support is needed in the future, please open as an INC ticket and not SCTASK ticket.
+* If MHV Tier 3 support is needed in the future, please open as an INC ticket and not SCTASK ticket.
 
 
 ## Creating a Ticket for the Development Team
