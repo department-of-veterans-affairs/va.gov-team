@@ -1,5 +1,5 @@
 ---
-title: "686c MVP Form Viewer — Usability Testing Research Plan"
+title: "Research Plan for 686c Fully Digital Form Viewer MVP Usability Testing"
 date: 2025-11-06
 last_updated: 2025-11-06
 team: "Disability Product — 526ez"
@@ -137,7 +137,7 @@ tags:
   - "form-viewer"
 ---
 
-# Research Plan for 686c MVP Form Viewer Usability Testing
+# Research Plan for 686c Fully Digital Form Viewer MVP Usability Testing
 
 
 ## Background 🏗️
@@ -356,7 +356,11 @@ Which device would you prefer to join a user testing session via Zoom? Select al
 ## Timeline 🗓️
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:`
+	- 11/10 Monday: 12:00 pm - 1:30 pm ET
+	- 11/12 Wednesday: 1:00 pm - 2:30 pm ET
+  	- 11/12 Wednesday: 3:30 pm - 5:00 pm ET
+  	- 11/13 Thursday: 12:30 pm - 3:30 pm ET
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
