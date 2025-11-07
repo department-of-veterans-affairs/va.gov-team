@@ -60,10 +60,10 @@ recruitment:
   approach: "Lean maximum variation sampling"
   
   primary_criteria:
-    - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision"
-    - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision"
-    - "Have never filed a disability claim"
-    - "Have experience helping other Veterans file disability claims (2)"
+    - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision (recruit 5)"
+    - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision (recruit 3)"
+    - "Have never filed a disability claim (recruit 2)"
+    - "Have experience helping other Veterans file disability claims (recruit 3)"
 
   primary_demographic_criteria:
     - Education_level:
@@ -84,7 +84,7 @@ recruitment:
     
   screener_questions:
     - question: "Have you filed a disability claim with VA in the last 15 years?"
-      qualifying_response: "Yes"
+      qualifying_response: "Yes/No"
     - question: "Have you ever appealed a decision the VA made on your disability claim?"
       qualifying_response: "Yes/No"
     - question: "Do you help other Veterans with their disability claims (volunteer/professional)?"
@@ -93,11 +93,11 @@ recruitment:
       qualifying_response: "Free text"
       
 participants:
-  veterans: 14
+  veterans: 13
   caregivers: 0
   dependents: 0
-  total_recruited: 14
-  completed_sessions_goal: 14
+  total_recruited: 13
+  completed_sessions_goal: 9
   
 # Timeline & Sessions
 timeline:
@@ -127,11 +127,16 @@ related_research:
     - "https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464"
     
 tags:
-  - "authenticated"
-  - "usability-testing"
-  - "veteran"
-  - "disability-claims"
-  - "design-iteration"
+  - "BNFT: Disability"
+  - "DSC: Form - Radio Button"
+  - "DSC: Experimental"
+  - "DSP: Ask users for dates"
+  - "DSP: Ask users for multiple responses"
+  - "RESRCH: Concept Testing"
+  - "RESRCH: Generative (Discovery)"
+  - "RESRCH: Interviews"
+  - "RESRCH: Usability Testing"
+  - "Veteran Journeys: Taking Care Of Themselves"
 ---
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025
