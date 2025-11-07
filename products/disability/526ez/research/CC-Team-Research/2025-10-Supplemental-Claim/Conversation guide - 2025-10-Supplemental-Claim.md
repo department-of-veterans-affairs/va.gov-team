@@ -10,7 +10,6 @@ tags:
   - "DSP: Ask users for dates"
   - "DSP: Ask users for multiple responses"
   - "RESRCH: Concept Testing"
-  - "RESRCH: Evaluative"
   - "RESRCH: Generative (Discovery)"
   - "RESRCH: Interviews"
   - "RESRCH: Usability Testing"
