@@ -1,111 +1,116 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
+title: "Research Plan for Benefits Intake Optimization, Form 21P-537 Online Version, November 2025"
+date: 2025-11-07
+last_updated: 2025-11-07
+team: "Benefits Intake Optimization"
+product: "Form 21P-537 (Marital Status Questionnaire) Online Version"
+product_area: "authenticated"
 
 # Background Context
 background:
-  problem_statement: "[What problem is your product trying to solve?]"
-  product_location: "[Where is this situated on VA.gov?]"
-  user_familiarity: "[New product or iteration?]"
-  product_brief_url: "[URL]"
+  problem_statement: "Form 21P-537 is currently a paper-only form that VA sends to surviving spouses receiving pension benefits to verify marital status. The current process creates confusion, delays, and potential benefit terminations due to unexpected mailings, limited guidance, paper processing delays, and missed deadlines."
+  product_location: "Authenticated experience on VA.gov, accessible through My VA dashboard, Pension and Survivor Benefits section, direct links in VA communications, and VA Form Finder"
+  user_familiarity: "New product - while the paper form exists, there is currently no online version"
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-intake-optimization/bio-team-readme.md"
 
 # Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+methodology: "Semi-structured interviews combined with usability concept testing"
 research_format: 
-  location: remote # Options: remote, in-person, hybrid
+  location: remote
   in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
-  moderated: true # Options: true, false
+    facility: ""
+    point_of_contact: ""
+    equipment: ""
+  moderated: true
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[First research goal]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
+  - goal_1: "Understand the current experience with Form 21P-537 - how surviving spouses receive, interpret, complete, and track outcomes"
+  - goal_2: "Identify knowledge gaps about marital status requirements, remarriage rules, reinstatement eligibility, and documentation needs"
+  - goal_3: "Evaluate the value proposition of an online version and understand submission method preferences"
 
 research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
+  - "How do surviving spouses receive and initially react to the form?"
+  - "What challenges do they encounter when completing and submitting it?"
+  - "What do surviving spouses understand about why they're receiving this form and how remarriage affects their benefits?"
+  - "Are they aware that benefits may be reinstated if a remarriage ends?"
+  - "Would an online option be helpful, and for whom?"
 
 hypotheses:
-  - "[Hypothesis 1]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
+  - "The form creates confusion or anxiety - surviving spouses don't anticipate receiving Form 21P-537 and don't fully understand its purpose"
+  - "Knowledge gaps prevent optimal benefit utilization - many surviving spouses don't understand the full impact of remarriage on benefits or reinstatement eligibility"
+  - "Digital preferences vary by user characteristics - an online version will be valuable for digitally comfortable surviving spouses but may not be preferred by those less comfortable with technology"
 
-expected_outcomes: "[How will findings advance the product?]"
+expected_outcomes: "This research will help design better content and information architecture, make informed decisions about features and submission methods, and identify success metrics based on what matters most to surviving spouses"
 
 # Recruitment & Participants
 recruitment:
   recruiting_partner: "Perigean"
-  approach: "[e.g., lean maximum variation]"
+  approach: "Lean maximum variation with 3 cohorts based on marital status scenarios"
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
+    - "Currently receiving VA survivor benefits (Survivors Pension or DIC)"
+    - "Experience with Form 21P-537 or marital status verification in the past 2 years"
+    - "Distribution across 3 marital status cohorts: not remarried (4), remarried and currently married (3), remarried with marriage ended (3)"
+    - "Digital literacy diversity: at least 4 very comfortable, 4 somewhat comfortable, and 3 not very comfortable with online forms"
     
   secondary_criteria:
-    - "[Nice-to-have criterion 1]"
-    - "[Nice-to-have criterion 2]"
+    - "At least 3 participants who have worked with VSO or county veterans office"
+    - "At least 3 participants who typically navigate VA benefits independently"
+    - "Geographic diversity from at least 3 different states including urban, suburban, and rural locations"
+    - "At least 2 participants who report cognitive challenges"
+    - "Mix of those who regularly use VA.gov and those who primarily use paper mail or phone"
     
   screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
+    - question: "Are you currently receiving OR have you previously received VA pension benefits as a surviving spouse? This includes Survivors Pension or Dependency and Indemnity Compensation (DIC)."
+      qualifying_response: "Yes"
       
 participants:
   veterans: 0
   caregivers: 0
-  dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  dependents: 10
+  total_recruited: 15
+  completed_sessions_goal: 10
   
 # Timeline & Sessions
 timeline:
-  pilot_date: "YYYY-MM-DD"
-  pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
-  research_review_submission: "YYYY-MM-DD"
+  pilot_date: "TBD"
+  pilot_participant: "A6 team participant"
+  research_dates: "2025-11-17 to 2025-11-21"
+  research_review_submission: "TBD"
   
 session_details:
-  duration_minutes: 60
+  duration_minutes: 45
   buffer_minutes: 30
-  max_sessions_per_day: 0
+  max_sessions_per_day: 4
   
 # Strategic Alignment
 octo_priorities:
-  - objective: "Objective 1"
+  - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
     key_results: 
-      - "[Specific KR if applicable]"
-  - objective: "Objective 2"
-    key_results:
-      - "[Specific KR if applicable]"
+      - "Improve satisfaction with our web and mobile products by 5 points"
+      - "100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error"
       
 veteran_journey_phases:
-  - "[e.g., Getting Out]"
-  - "[e.g., Starting Up]"
+  - "Taking Care of Myself"
+  - "Retiring"
+  - "Aging"
     
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "[Link to related past research]"
+    - "TBD"
     
 tags:
-  - "[product-area]"
-  - "[methodology]"
-  - "[participant-type]"
-  - "[research-phase]"
+  - "survivor-benefits"
+  - "pension"
+  - "semi-structured-interviews"
+  - "usability-testing"
+  - "surviving-spouses"
+  - "form-21p-537"
+  - "authenticated-experience"
 ---
-
 
 ## **Background**
 
