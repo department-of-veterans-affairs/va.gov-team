@@ -106,14 +106,11 @@ tags:
   - "[research-phase]"
 ---
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025]
-
-* [Research plan md file w/i github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)  
-* [Associated github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121047) \- \#121047
+	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025
 
 ---
 
-# Research plan for 2025-10 Supplemental claims design direction
+# Research plan: 2025-10 Supplemental claims design direction
 
 # Background 🏗️
 
