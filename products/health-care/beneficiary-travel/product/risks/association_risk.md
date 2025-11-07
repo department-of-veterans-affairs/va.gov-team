@@ -1,10 +1,10 @@
 # Expense-to-document association delivery risk
 
 ## The Gist
-There is no Dynamics CRM support for associating expenses to documents, a need for a good user experience on VA.gov.
-After many discussions, Dynamics support for this feature will not be put into place in the near future. To bandaid 
-over this, the API team is putting the document ID into the "notes" field of an expense. There is work needed by the
-API team to expose the document ID through various endpoints. Because of the govt shutdown and other factors, **there is
+There is no Microsoft Dynamics CRM support for associating expenses to documents (e.g. receipts), which is needed for a good user experience on VA.gov.
+After many discussions, we confirmed Dynamics support for this feature will not be put into place in the near future. To bandaid 
+over this, the API team is putting the document ID into the "Notes" field of an expense. There is additional work needed by the
+API team to expose this document ID through various endpoints. Because of the govt shutdown and other factors, **there is
 a risk that delivery of complex claims will be delayed**.
 
 ## The Decision
