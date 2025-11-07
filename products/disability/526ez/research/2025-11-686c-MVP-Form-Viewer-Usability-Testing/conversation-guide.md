@@ -70,7 +70,7 @@ If yes: Once I start recording, I am going to confirm that I have your permissio
 
 
 
-## Warm-up Questions - 5 minutes
+## Warm-up Questions - 3 minutes
 
 Before we look at the form, let’s start with a couple of background questions.
 
@@ -84,7 +84,7 @@ Before we look at the form, let’s start with a couple of background questions.
 
 Thank you for sharing your experience.
 
-## Setting up screenshare
+## Setting up screenshare - 5 minutes
 We are now going to transition into testing a demo version of the "Add or remove a dependent on VA benefits" online form, specifically the materials presented to you immediately after you submit.
 
 I’m going to send you a link in the chat.
@@ -114,7 +114,7 @@ Feel free to take a minute to hide anything, like your personal email or anythin
 Once you open the link, please share your screen. Please do not click on anything at the moment!
 Awesome! Now that I can see your screen.
 
-## Setting up context
+## Setting up context - 2 minutes
 ```
 The participant will encounter the prototypes in the following order:
 - Scenario 1: BID Maximal 
@@ -139,7 +139,7 @@ Let's imagine that you have interacted with all of the accordions on this page (
 
 You have just submitted the online form, which then brings you to the confirmation page.
 
-## Entry points, workflow (comparing current to ideal future)
+## Entry points, workflow (comparing current to ideal future) - 10 minutes
 We'll be mostly focusing on the content that follows. Before we proceed, do you have any questions?
 
 [Answer any questions to help clarify the context and set the scene.]
@@ -171,7 +171,7 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
     * How do you expect to retrieve this information?
         * [Probe for MyVA, email, etc.]
 
-## Scenario 1 (BID Maximal): Form viewer content and layout
+## Scenario 1 (BID Maximal): Form viewer content and layout - 10 minutes
 Now, we'd like your feedback on how the information is displayed on this page. 
 * Is the general layout understandable?
     * [Probe] What do you think about the:
@@ -182,7 +182,7 @@ Now, we'd like your feedback on how the information is displayed on this page.
     * Is there information that should be emphasized?
     * Is there too much information? What would you like to remove or de-emphasize?
 
-### TASK: Could you show us how many children are being added as dependents? And what are their names?  [5 min]
+### TASK: Could you show us how many children are being added as dependents? And what are their names?
 [Answer: 2, Andrew and Anna]
 * Can you easily distinguish repeating sections (such as multiple children)? How?
     * Is there anything you'd change to improve it?
@@ -190,7 +190,7 @@ Now, we'd like your feedback on how the information is displayed on this page.
     * Why?
     * [If low score] What would make it more legible?
 
-### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim? [2 min]
+### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim?
 [Answer: "other_evidence", "disability_evidence", "adoption_papers"]
 
 * Please explain how you found the filenames? 
@@ -205,11 +205,11 @@ Now, we'd like your feedback on how the information is displayed on this page.
     * Is there anything you'd change to improve it?
     * Is it useful for you? How would you use it?
 
-### Typography and hierarchy of information [2 min]
+### Typography and hierarchy of information
 * Can you easily distinguish one section from another? How?
     * [Probe about visual elements like divider, typography, spacing]
 
-### Optional/skipped questions [7 min]
+### Optional/skipped questions
 Thank you for answering our questions so far. I'd like us to look at a specific section on this page. Could you scroll to **Section 4: Remove a divorced spouse?** 
 
 * What do you think is going on here?
@@ -220,14 +220,14 @@ Thanks for that answer!  This section is optional and not required to be filled 
 * How about for sections or questions you did not encounter when you were filling out the form? 
     * How do you feel about seeing these sections displayed like this on this page if you never encountered them in the form while you were filling it out?
 
-## Scenario 2 (VADS Minimal): Form viewer content and layout
+## Scenario 2 (VADS Minimal): Form viewer content and layout - 5 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen]
 
 Now we're going to show you a variation of what you've seen so far. Please click on Scenario 2. Please go ahead and take a moment to review the page. 
 
 * What are your initial impressions?
 
-### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?  [5 min]
+### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
 [Answer: San Mateo CA and San Francisco CA]
 
 * Can you easily distinguish repeating sections (such as multiple children)? How?
@@ -256,11 +256,11 @@ Now we're going to show you a variation of what you've seen so far. Please click
     * [Probe about visual elements like divider, typography, spacing]
 * How do you feel about the sections not being numbered? Why?
 
-## Scenario 1 vs. Scenario 2 comparison conclusion
+## Scenario 1 vs. Scenario 2 comparison conclusion - 2 minutes
 * Out of the two concept variations we showed you so far, which do you prefer? Why?
 * What factor is most important to help you accomplish your intended purpose for page like this? [Reference previously-mentioned goals]
 
-## Scenario 3 (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer
+## Scenario 3 (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
 Now I'd like us to shift gears again, and I'd like your opinion on an interactive version of what you've seen so far with us today. Please click on Scenario 3. 
 
 The form output content remains the same as what we've just reviewed, but now there are a bit more features that are on the page. Let's go through each of the additional features one-by-one:
@@ -329,7 +329,7 @@ Now, if you look at the bottom right hand corner of the page, you'll see "back t
     * How would you go about doing that?
     * [Probe] Would you rather have a search bar on the page or use the keyboard to ctrl + F? Why?
 
-## Comparison to current
+## Comparison to current - 3 minutes
 * How do these concepts compare to how you would normally access a copy of your answers to a form you have submitted?
     * Are there any features or qualities that are missing?
 * Is there anything you'd wish to have?
