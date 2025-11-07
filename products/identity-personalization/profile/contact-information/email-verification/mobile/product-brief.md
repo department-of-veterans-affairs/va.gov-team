@@ -46,22 +46,24 @@ The VA wants to ensure that important email communications reach Veterans on the
   * Initial Launch (TBD on release, but Authenticated Experience is aiming for FY26Q1)
   * Annual reminder (this annual reminder is sent a year from when the user verified their email)
   * When a user adds a new contact email
-* The VA Mobile App team is currently working on an initiative that prompts the Veteran to update or add an email in their profile for Veterans who haven't updated or confirmed their email since March 1, 2025. The email confirmation effort will have overlap with the VA Mobile App team and MFS product is continue to understand the effort of the VA Mobile App team.
+* The VA Mobile App team is currently working on an initiative that prompts the Veteran to update or add an email in their profile for Veterans who haven't updated or confirmed their email since March 1, 2025. The MHV email confirmation is planned to be removed by the end of the year (2025), but the timeline could be impacted by the shutdown.
 * Figma [file](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-22740&t=xAGgVx41WfMhNxVP-0) for VA.gov email confirmation flow. 
  
 ## VAHB Email Confirmation Feature MVP
 
+* To avoid causing Veteran confusion, we won't turn this feature on in the app until the MHV email confirmation alert has been turned off.
+  * The MHV email confirmation is planned to be removed by the end of the year (2025), but the timeline could be impacted by the shutdown.
 * The email confirmation entry point includes:
   * Initial Launch (TBD on release, but Authenticated Experience is aiming for FY26Q1)
   * Annual reminder (this annual reminder is sent a year from when the user verified their email)
-  * When a user adds a new contact email
-* Contact email alerts: 
+  * When a user adds a new contact email (this would be prompted immediately when a user added a new email)
+* Contact email alerts (**these alerts will need to align with mobile formatting and standards**): 
   * Contact email not confirmed
   * Contact email confirmed 
 * Alerts will follow the same pattern that the VA Mobile app team has established and be displayed within the following locations of the VAHB app:
   * Home page
   * Profile
-* The following alerts will be included:
+* The following alerts will be included (**these alerts will need to align with mobile formatting and standards**):
   * Resend contact email confirmation link
   * Temporary email send failure
   * Permanent email send failure
