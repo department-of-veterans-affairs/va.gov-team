@@ -1,4 +1,4 @@
-# MHV Secure Messaging - Medication renewal flow
+# MHV Medication List Page renewal flow
 
 ```mermaid
 flowchart TD
