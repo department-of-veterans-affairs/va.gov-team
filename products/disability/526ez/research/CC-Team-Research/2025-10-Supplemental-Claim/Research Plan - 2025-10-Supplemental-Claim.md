@@ -66,7 +66,7 @@ recruitment:
     - "Have experience helping other Veterans file disability claims (2)"
 
   primary_demographic_criteria:
-    - Education level:
+    - Education_level:
       - At least 6 with education level of Elementary/Intermediate/GED/High School
       - No more than 3 with Masters/Professional/Doctoral
     - Gender:
