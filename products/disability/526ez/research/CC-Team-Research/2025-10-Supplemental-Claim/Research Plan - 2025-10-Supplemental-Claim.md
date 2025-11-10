@@ -444,8 +444,8 @@ Please list the names of people in each role. In the Slack study channel, send a
 
 - Moderator: Kim Ladin, Madeline Fritz  
 - Research guide writing and task development (usually but not always same as moderator): Kim Ladin, Madeline Fritz  
-- Participant recruiting & screening:	\[Enter full name\]  
-- Project point of contact: \[Enter full name\]  
+- Participant recruiting & screening: Perigean
+- Project point of contact: Kim Ladin, Madeline Fritz
 - Accessibility specialist (for sessions where support for assistive technology may be needed): N/A  
 - Note-takers: Kim Ladin, Madeline Fritz  
 - Observers: We'll invite observers to specific sessions based on our observer sign-up sheet
