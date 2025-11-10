@@ -12,7 +12,7 @@ tags:
 description: "Conversation guide for usability testing of the 686c MVP Form Viewer concepts."
 ---
 
-# Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing Ver. A
+# Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing Ver. B
 This version of the conversation guide is for participants who start their testing with the "VADS Minimal" concept. For participants who are starting their testing with the "VADS Maxmial" concept, please refer to [Ver. A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/conversation-guide-a.md).
 
 ## Moderator logistics 📋✅
