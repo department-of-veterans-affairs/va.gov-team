@@ -1,6 +1,6 @@
 # 2025 Income Limits Wizard Analytics
 
-> for analysis of qualitative feedback via Medallia, visit [1Q Medallia feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/analytics/1q2025-medallia.md#medallia-feedback---1q-2025)
+> for analysis of qualitative feedback via Medallia, visit [1Q Medallia feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/analytics/1q2025-medallia.md#medallia-feedback---1q-2025) and [3Q Medallia feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/analytics/3q2025-medallia.md)
 
 ## User and volume data
 
@@ -48,3 +48,17 @@ Summary: Total user counts are lower than January, which might be expected given
  | 	 /health-care/income-limits/year 	 | 	 3,343 	 | 	 1.61 	 | 	99%	 | 	 -   	 | 	 152 	 | 	 914 	 | 	 2,032 	 | 
 
 Summary: Total user counts are similar to January. 56% of those who viewed the intro also view results with a low drop-off rate across other the pages. 51% of users viewing the intorudction are return users.
+
+### April 2025
+
+|  Month	 | 	 Views 	 | 	 Views per session 	 | 	Engagement rate	 | 	 Entrances 	 | 	 Exits 	 | 	 Returning users 	 | 	 Total users 	 | 
+|	---	|	 :---:	|	 :---:	|	 :---:	|	 :---: 	|	  :---: 	|	 :---:	|	  :---:	|
+ | 	 /health-care/income-limits/introduction 	 | 	 28,966 	 | 	 1.4 	 | 	90.3%	 | 	 5,664 	 | 	 4,624 	 | 	 9,006 	 | 	 17,307 	 | 
+ | 	 /health-care/income-limits/review 	 | 	 20,914 	 | 	 1.52 	 | 	98.8%	 | 	 138 	 | 	 290 	 | 	 6,345 	 | 	 12,225 	 | 
+ | 	 /health-care/income-limits/zip 	 | 	 20,914 	 | 	 1.39 	 | 	99%	 | 	 127 	 | 	 334 	 | 	 6,846 	 | 	 13,096 	 | 
+ | 	 /health-care/income-limits/dependents 	 | 	 19,831 	 | 	 1.42 	 | 	98.8%	 | 	 15 	 | 	 190 	 | 	 6,486 	 | 	 12,427 	 | 
+ | 	 /health-care/income-limits/results 	 | 	 16,818 	 | 	 1.22 	 | 	98.8%	 | 	 227 	 | 	 5,167 	 | 	 6,363 	 | 	 12,225 	 | 
+ | 	 /health-care/income-limits/ 	 | 	 4,780 	 | 	 1.05 	 | 	99.2%	 | 	 1,902 	 | 	 11 	 | 	 2,524 	 | 	 4,182 	 | 
+ | 	 /health-care/income-limits/year 	 | 	 3,073 	 | 	 1.51 	 | 	99.5%	 | 	 9   	 | 	 132 	 | 	 998 	 | 	 1,924 	 | 
+
+Summary: Total user counts are lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 58% of those who viewed the intro also view results with a low drop-off rate across other the pages. 52% of users viewing the intrudction are return users.
