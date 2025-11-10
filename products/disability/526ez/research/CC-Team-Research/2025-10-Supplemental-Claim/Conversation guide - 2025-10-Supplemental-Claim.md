@@ -40,7 +40,7 @@ description: "A script and session outline for conducting prototype testing with
 
 Thanks for joining us today\! My name is \_\_\_\_\_\_\_ and \_\_\_\_\_\_\_\_ is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-My colleagues and I work on va.gov, improving the site so that Veterans can submit claims and get benefits as quickly as possible. We hope to improve the process by talking to veterans like you.
+My colleagues and I work on va.gov, improving the site so that Veterans can submit claims and get benefits as quickly as possible. We hope to improve the process by talking to Veterans like you.
 
 Before we start, I have a few things to go over with you:
 
