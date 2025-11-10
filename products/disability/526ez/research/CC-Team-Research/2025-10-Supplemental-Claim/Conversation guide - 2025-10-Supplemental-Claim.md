@@ -14,7 +14,7 @@ tags:
   - "RESRCH: Interviews"
   - "RESRCH: Usability Testing"
   - "Veteran Journeys: Taking Care Of Themselves"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+description: "A script and session outline for conducting prototype testing with a focus on Veterans' experiences with disability benefits and filing Supplemental Claims. It includes step-by-step moderator instructions, consent language, discussion prompts about claims experiences, walkthroughs for interactive prototype scenarios, and post-session debrief questions. The guide helps ensure standardized data collection about user interactions, perceptions, and pain points as participants interact with design concepts for VA.gov disability claim workflows."
 ---
 
 # Conversation Guide: 2025-10 Supplemental claims design direction
