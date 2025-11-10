@@ -13,13 +13,11 @@ status: Inbox
 ## Context
 -
 
-## User story
+## User story or Job story
 
 -As a user, I want... so that...
 
-## Job story
-
--When...   I want to... so that...
+-When...   I want to...  so that...
 
 ## Notes
 - 
@@ -30,3 +28,4 @@ status: Inbox
 ## Acceptance criteria
 
 - [ ] Testing
+- [ ] 
