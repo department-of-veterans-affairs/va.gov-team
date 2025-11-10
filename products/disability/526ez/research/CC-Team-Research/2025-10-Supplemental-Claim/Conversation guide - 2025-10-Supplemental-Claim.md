@@ -241,7 +241,7 @@ Let’s say one of the conditions you are already getting benefits for has gotte
 
 ##### Add a condition screen
 
-Before you click on anything, I want to ask you some questions in this screen.
+Before you click on anything, I want to ask you some questions on this screen.
 
 * \[question from walkthrough\] Where do you think this list of options came from?  
 * What do you think about how they’re organized?  
@@ -270,7 +270,7 @@ Before you click on anything, I want to ask you some questions in this screen.
 
 ##### Add a condition screen
 
-Before you click on anything, I want to ask you some questions in this screen.
+Before you click on anything, I want to ask you some questions on this screen.
 
 * Is there anything you notice that has changed since the first time you saw this screen?  
 * *(If they notice that some conditions have disappeared):*  
@@ -284,8 +284,8 @@ Now let’s add one more condition. This scenario is a little more complicated.
 
 Imagine that about a year ago, you filed a claim for Migraines. VA approved it and gave you a 10% rating. But you believe they should have given you a higher rating, and you want the VA to reconsider their 10% decision. You went back to your employer and got them to write a letter about how many times you had to miss work because of your migraines, going all the way back to when you filed that claim a year ago. This letter should help prove that your migraines were more severe than the VA rating percent.
 
-Do you have any questions about this scenario?  
-What do you think your options would be to ask the VA to reconsider their 10% rating decision?
+* Do you have any questions about this scenario?  
+* What do you think your options would be to ask the VA to reconsider their 10% rating decision?
 
 OK, looking at the screen now, what would you do?
 
@@ -319,13 +319,13 @@ OK, we’re now going to switch to the other prototype. We’ll walk through the
 
 *If necessary, prompt participant to click the Continue button to get to End of Prototype screen.*
 
-➡️ Instruct Veteran to click on either Apple or Banana
+➡️ Instruct Veteran to click on either Apple or Banana, selecting whichever prototype they didn't start with
 
 ## 🍌 Prototype Banana (10-15 min)
 
 ### 🍌 Banana Task 1: Appeal a denied condition (Asthma)
 
-For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT act became law, you think the VA should change its decision.
+For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT Act became law, you think the VA should change its decision.
 
 ##### Intro screen
 
@@ -368,18 +368,18 @@ Let’s say one of the conditions you are already getting benefits for has gotte
 
 * How would you do that?  
 * What do you expect to happen if you click Yes and then Continue?  
-* OK, go ahead and click
+* OK, go ahead and click.
 
 ##### Add a condition screen
 
-Before you click on anything, I want to ask you some questions in this screen.
+Before you click on anything, I want to ask you some questions on this screen.
 
 * \[question from walkthrough\] Where do you think this list of options came from?  
 * What do you think about how they’re organized?  
 * On this screen, can you tell me which things the VA is already giving you benefits for?  
 * OK, back to the scenario. Imagine that you visited your doctor last month, and they told you your hypertension has gotten worse. You want to try for a higher rating. What would you do?  
 * What do you expect to happen next?  
-* OK, go ahead and click Continue
+* OK, go ahead and click Continue.
 
 ##### Rated condition follow-up screen
 
@@ -422,8 +422,6 @@ Before you click on anything, I want to ask you some questions in this screen.
 
 ### 🍌 Banana Task 3: Appeal a rated condition (Migraines)
 
-OK, let’s add one more health issue. Go ahead and click Yes then Continue.
-
 ##### Review your conditions screen(s) (continued from task 2\)
 
 * I’m going to ask you to add one more thing.  
@@ -445,8 +443,8 @@ Now let’s add one more condition. This scenario is a little more complicated.
 
 Imagine that about a year ago, you filed a claim for Migraines. VA approved it and gave you a 10% rating. But you believe they should have given you a higher rating, and you want the VA to reconsider their 10% decision. You went back to your employer and got them to write a letter about how many times you had to miss work because of your migraines, going all the way back to when you filed that claim a year ago. This letter should help prove that your migraines were more severe than the VA rating percent.
 
-Do you have any questions about this scenario?  
-What do you think your options would be to ask the VA to reconsider their 10% rating decision?
+* Do you have any questions about this scenario?  
+* What do you think your options would be to ask the VA to reconsider their 10% rating decision?
 
 OK, looking at the screen now, what would you do?
 
@@ -513,12 +511,12 @@ What other differences did you notice between them?
 
 ## Challenges and surprises
 
-What would you say was the most challenging part of this process?  
-Was there anything surprising or unexpected as you went through these prototypes?
+* What would you say was the most challenging part of this process?  
+* Was there anything surprising or unexpected as you went through these prototypes?
 
 ## Supplemental claims
 
-* Before this session, had you heard the term “Supplemental claim” before?  
+* Before this session, had you heard the term “Supplemental Claim” before?  
 * Now that you’ve done this, could you explain to me in your own words what a Supplemental Claim is?
 
 ## Secondary conditions
