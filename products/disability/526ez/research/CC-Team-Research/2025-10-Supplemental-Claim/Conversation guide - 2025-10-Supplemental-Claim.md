@@ -140,13 +140,13 @@ Do you have any conditions that are rated at 0%?
 It sounds like most of the disabilities you have with VA were caused directly by something that happened while you were in service. But sometimes an injury or illness you got while in service can later cause a whole different health condition. For example, maybe you injured your knee while you were in service. And years later, you’ve been overcompensating for that bad knee and now you’re starting to have back problems.  
 So it’s like an indirect cause, but it’s still because of your military service. 
 
-Have you ever had a situation like that? Have you ever heard of it?   
-Do you happen to know how the VA refers to this situation?
+* Have you ever had a situation like that? Have you ever heard of it?   
+* Do you happen to know how the VA refers to this situation?
 
 ## Claims for increase (if there’s time)
 
 Have you ever asked the VA to give you a higher rating on a disability they’d already granted?  
-Tell me about that
+Tell me about that.
 
 Great, thank you for sharing your experiences with me. One more question…
 
