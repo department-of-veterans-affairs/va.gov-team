@@ -66,6 +66,10 @@ As with everything, when you are unsure about whether something would be conside
 
 Personal contact information for individuals working on VA.gov should generally not be public.
 
+### Internal links
+
+Internal links can be included in publicly facing documentation and must be labeled with `[Internal]` so that public users are informed that internal links won't work for them. 
+
 ### Test user information + credentials for lower environments
 
 Credentials should remain private.
