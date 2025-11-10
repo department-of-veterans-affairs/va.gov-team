@@ -121,5 +121,9 @@ A **Veteran** attends...
     1. V1 - NOT SUPPORTED. The notes field in the backend will capture the unique  Document_ID connecting the file to an expense. If a clerk edits the field or copy/pastes the ID from one notes field into another, the docs and expenses will no longer be associated. Users are sent to TCP to complete their claim. 
     2. V_FUTURE: Will investigate this scenario if it occurs in production.
 
+## Foreign currencies
+34. User incurs an expense in a foreign currency.
+    1. TBD - BTSSS does not support this use case; we are still determining in [this Slack thread](https://dsva.slack.com/archives/C05UTPZRZFY/p1762437727885469) if/how we need to handlet this.
+
 ## Eligibility Status Changes (WIP)
-34. Tori raised something interesting. In some places it says within 30 days of your appointment or of "when you become eligible." Given the eligibility criteria, what does this actually mean? Scenario: A user goes to an appointment, a week later their disability rating changes from 0 to 30%. Does the timer to file reset to the date the rating changed? Based on other eligibility criteria (e.g. user is receiving treatment for a service connected disability), it’s unlikely they’d be traveling for VA care and not already be eligible, but maybe such a scenario exists. 
+35. Tori raised something interesting. In some places it says within 30 days of your appointment or of "when you become eligible." Given the eligibility criteria, what does this actually mean? Scenario: A user goes to an appointment, a week later their disability rating changes from 0 to 30%. Does the timer to file reset to the date the rating changed? Based on other eligibility criteria (e.g. user is receiving treatment for a service connected disability), it’s unlikely they’d be traveling for VA care and not already be eligible, but maybe such a scenario exists. 
