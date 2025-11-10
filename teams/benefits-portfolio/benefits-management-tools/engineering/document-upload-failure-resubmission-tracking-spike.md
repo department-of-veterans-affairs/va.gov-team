@@ -1,9 +1,9 @@
-## 📊 Spike Findings: Document Resubmission Tracking via Google Analytics (GA4)
+# 📊 Spike Findings: Document Resubmission Tracking via Google Analytics (GA4)
 ## 🎯 Objective
 
 Explore options for tracking how often Veterans attempt to resubmit documents after a failure, and determine whether Google Analytics (GA) alone can support this measurement or if backend metadata is required.
 
-### 🧩 1. Feasibility of Measuring Resubmission Attempts Using GA
+## 🧩 1. Feasibility of Measuring Resubmission Attempts Using GA
 
 ✅ Feasible via GA4 custom events and funnel analysis.
 
@@ -42,7 +42,7 @@ GA Configuration
 `document_upload_failed → document_resubmitted → document_upload_success`
 - Segment results by document type and error code to identify retry trends.
 
-### 🧠 2. Backend or File Metadata Requirements
+## 🧠 2. Backend or File Metadata Requirements
 
 Frontend-only tracking is sufficient for the MVP.
 No backend dependency is required to measure retries within a single session.
@@ -64,7 +64,91 @@ For initial analytics, a frontend-only approach meets the spike goal.
 Recommendation:
 Start with total per document type, then expand to per Veteran per error later if trends suggest deeper behavior analysis is needed.
 
-### 🚀 4. Recommended Next Steps
+## 3. Handling Page Reloads
+
+A page reload can clear local state such as `retry_count` or `doc_instance_id`.
+We can persist minimal retry data client-side with sessionStorage so the retry context survives reloads for the same session, without storing PII.
+
+### Example Implementation
+**On failure:**
+```
+const key = `cst:${claimId}:${docType}:failedInstance`;
+const failedInstance = {
+  doc_instance_id: crypto.randomUUID(),
+  retry_count: 0,
+  error_code,
+  failed_at: Date.now(),
+};
+sessionStorage.setItem(key, JSON.stringify(failedInstance));
+
+recordEvent({
+  event: 'document_upload_failed',
+  doc_type: docType,
+  error_code: errorCode,
+  doc_instance_id: failedInstance.doc_instance_id,
+  retry_count: failedInstance.retry_count,
+});
+```
+**On page reload:**
+```
+function loadFailedInstance(key) {
+  try {
+    const raw = sessionStorage.getItem(key);
+    if (!raw) return null;
+    const inst = JSON.parse(raw);
+
+    // optional expiry
+    const TTL = 2 * 60 * 60 * 1000; // 2 hours
+    if (Date.now() - (inst.failed_at || 0) > TTL) {
+      sessionStorage.removeItem(key);
+      return null;
+    }
+    return inst;
+  } catch {
+    sessionStorage.removeItem(key);
+    return null;
+  }
+}
+```
+**On retry:**
+```
+const inst = loadFailedInstance(key);
+if (inst) {
+  inst.retry_count += 1;
+  sessionStorage.setItem(key, JSON.stringify(inst));
+
+  recordEvent({
+    event: 'document_resubmitted',
+    doc_type: docType,
+    error_code: inst.error_code,
+    doc_instance_id: inst.doc_instance_id,
+    retry_count: inst.retry_count,
+    time_since_error: inst.failed_at
+      ? Math.round((Date.now() - inst.failed_at) / 1000)
+      : undefined,
+  });
+}
+```
+**On success:**
+```
+const inst = loadFailedInstance(key);
+if (inst) {
+  recordEvent({
+    event: 'document_upload_success',
+    doc_type: docType,
+    doc_instance_id: inst.doc_instance_id,
+    retry_count: inst.retry_count,
+  });
+  sessionStorage.removeItem(key);
+}
+```
+### Summary
+- Use sessionStorage to retain failure context across reloads.
+- Store only generated IDs and counts (no file names or user data).
+- Optional: Expire after a set time (e.g., 2 hours).
+- Clear data when the user successfully resubmits or uploads a new document.
+
+## 🚀 4. Recommended Next Steps
 
 1. **Frontend Instrumentation**
 - Implement the above recordEvent calls in the CST upload component.
@@ -79,7 +163,7 @@ Start with total per document type, then expand to per Veteran per error later i
 - Add backend correlation for cross-session or offline cases.
 - Explore “average per Veteran per error” aggregation in BigQuery export.
 
-### ⚠️ 5. Risks & Considerations
+## ⚠️ 5. Risks & Considerations
 | Risk                         | Description                                                                      | Mitigation                                                             |
 | ---------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | **High event volume**        | Large numbers of retry/failure events could exceed GA thresholds or inflate cost | Limit redundant events and monitor frequency before production rollout |
@@ -88,7 +172,7 @@ Start with total per document type, then expand to per Veteran per error later i
 | **Cross-session behavior**   | GA session limits make it hard to connect retries after refresh or later logins  | Optional backend join or BigQuery export for deeper analysis           |
 | **Schema drift**             | Inconsistent parameter names across apps can reduce report accuracy              | Confirm schema with VFS Analytics before implementation                |
 
-### 6. Summary Table
+## 6. Summary Table
 | Requirement       | Finding / Recommendation                                        |
 | ----------------- | --------------------------------------------------------------- |
 | **Feasibility**   | ✅ Achievable with GA4 + `recordEvent()` (frontend only)         |
