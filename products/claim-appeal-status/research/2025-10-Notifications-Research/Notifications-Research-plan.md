@@ -1,3 +1,119 @@
+---
+# Research Plan Metadata
+title: "Research Plan for BMT Notifications Study – Decision Letters and Evidence Requests"
+date: 2025-10-26
+last_updated: 2025-10-26
+team: "Benefits Management Tools (BMT)"
+product: "VA Benefits Management Notifications"
+product_area: "authenticated"
+
+# Background Context
+background:
+  problem_statement: "Today, Veterans primarily receive benefits notifications by paper mail, with decision letters also sent via email. Other notifications, such as evidence requests, are still paper-only. While these channels provide official documentation, they offer limited flexibility for timely or interactive communication. As BMT expands to include text messages and in-app notifications, we need to understand how Veterans interpret, trust, and act on messages across these channels. This study focuses on decision letter and evidence request notifications to ensure Veterans receive clear, consistent, and trustworthy communications about their benefits."
+  product_location: "The notification system (VA Notify) is integrated across VA.gov’s benefits management ecosystem and the VA Health and Benefits mobile app, primarily supporting the Claim Status Tool and related benefits management features."
+  user_familiarity: "Veterans are already familiar with receiving benefit updates by email and paper mail. This study builds on that experience by exploring preferences for text and in-app notifications."
+  product_brief_url: "N/A"
+
+# Research Design
+methodology: "Semi-structured interviews with scenario-based evaluation of notification examples."
+research_format: 
+  location: remote
+  in_person_details:
+    facility: "N/A"
+    point_of_contact: "N/A"
+    equipment: "Zoom with screen share; Figma prototype for static content review."
+  moderated: true
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "Understand how Veterans perceive, trust, and act on decision letter and evidence request notifications across channels (email, text, in-app)."
+  - goal_2: "Identify how tone, clarity, and content structure influence understanding and trust in official VA messages."
+  - goal_3: "Determine which channels are most appropriate and effective for informational versus action-required communications."
+
+research_questions:
+  - "How do Veterans interpret and respond to decision letter and evidence request notifications across email, text, and in-app channels?"
+  - "How much information feels appropriate in each channel for both message types?"
+  - "How do tone and message structure affect clarity, trust, and perceived urgency?"
+  - "How do Veterans decide which channel to engage with first when receiving updates from VA?"
+  - "How can VA ensure both decision letters and evidence requests are clear, actionable, and trustworthy across digital channels?"
+
+hypotheses:
+  - "Veterans prefer email for formal, detailed notifications like decision letters, and text or in-app notifications for time-sensitive messages like evidence requests."
+  - "Plain, friendly language increases trust and comprehension compared to formal or bureaucratic tones."
+  - "Veterans’ channel preferences depend on both the sensitivity of content and their comfort level with digital tools."
+
+expected_outcomes: "Findings will inform VA’s content and interaction guidance within the existing design system, defining message tone, content boundaries, and appropriate channels for different notification types. Insights will also identify accessibility and clarity improvements to strengthen trust in digital benefit communications."
+
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Lean maximum variation sampling to ensure a mix of age, device use, and digital comfort levels."
+  
+  primary_criteria:
+    - "U.S. Veteran actively using VA.gov or the VA Health and Benefits mobile app."
+    - "Has submitted or tracked a disability compensation claim or appeal in the past year."
+    - "Has received a VA notification (email or paper) within the past 6 months."
+    
+  secondary_criteria:
+    - "Mix of device use (mobile-only, desktop, both)."
+    - "Include 1–2 paper-first Veterans transitioning to digital tools."
+    
+  screener_questions:
+    - question: "Have you submitted or tracked a disability claim or appeal with VA in the past year?"
+      qualifying_response: "Yes"
+    - question: "Have you received any notifications or letters from VA (by mail or email) in the past 6 months?"
+      qualifying_response: "Yes"
+    - question: "Which device do you usually use to check messages or updates from VA?"
+      qualifying_response: "Any"
+
+participants:
+  veterans: 15
+  caregivers: 0
+  dependents: 0
+  total_recruited: 15
+  completed_sessions_goal: 10-12
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "2025-11-10"
+  pilot_participant: "TBD"
+  research_dates: "2025-11-11 to 2025-12-05"
+  research_review_submission: "2025-11-05"
+  
+session_details:
+  duration_minutes: 60
+  buffer_minutes: 30
+  max_sessions_per_day: 3
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits."
+    key_results: 
+      - "Improve satisfaction with web and mobile products by 5 points."
+      - "Ensure Veterans receive clear, timely notifications when an issue occurs."
+  - objective: "Objective 4: OCTO positively influences VA’s ability to deliver software products and services faster, safer, and with higher quality."
+    key_results:
+      - "Deliver notification design and content guidance that raises consistency and usability across VA products."
+      - "Provide actionable research insights to improve clarity and trust in VA digital communications."
+      
+veteran_journey_phases:
+  - "Taking Care of Myself – managing ongoing disability compensation and appeals."
+  - "Putting Down Roots – maintaining access to benefits and records for financial stability."
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - "N/A (First-phase study focused on benefits notifications.)"
+    
+tags:
+  - "notifications"
+  - "semi-structured-interviews"
+  - "veterans"
+  - "benefits-management"
+  - "decision-letters"
+  - "evidence-requests"
+---
+
 # UX Research Plan: Benefits Management Notifications Study
 
 ## Table of Contents
