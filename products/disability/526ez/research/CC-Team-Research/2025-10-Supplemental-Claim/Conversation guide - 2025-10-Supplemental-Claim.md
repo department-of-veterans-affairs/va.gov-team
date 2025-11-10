@@ -482,8 +482,8 @@ OK, looking at the screen now, what would you do?
 * Is this what you expected to see?  
 * What would you do on this screen?  
 * What date would you enter?  
-* Let’s say you first applied for migraines in November of 2024, about a year ago. And the VA made their decision in January of 2025\.  
-* *Instruct Veteran to enter November 1 2024\.*  
+* Let’s say you first applied for migraines in November of 2024, about a year ago. And the VA made their decision in January of 2025.  
+* *Instruct Veteran to enter November 1 2024.*  
 * Go ahead and click Continue.
 
 ##### Review your conditions screen(s)
@@ -494,7 +494,7 @@ OK, looking at the screen now, what would you do?
 
 ### 🍌 Banana Rating
 
-Great\! Thank you for walking through those different scenarios with me. I’d like you to rate this prototype for ease-of-use on a scale of 1 to 4, where 1 is not at all easy, and 4 is very easy.
+Great! Thank you for walking through those different scenarios with me. I’d like you to rate this prototype for ease-of-use on a scale of 1 to 4, where 1 is not at all easy, and 4 is very easy.
 
 # Compare prototypes
 
