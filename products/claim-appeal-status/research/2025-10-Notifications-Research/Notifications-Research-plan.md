@@ -1,6 +1,6 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for BMT Notifications Study – Decision Letters and Evidence Requests"
+title: "Research Plan for Notifications Study – Decision Letters and Evidence Requests"
 date: 2025-10-26
 last_updated: 2025-10-26
 team: "Benefits Management Tools (BMT)"
