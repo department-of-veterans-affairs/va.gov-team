@@ -177,17 +177,20 @@ Now, we'd like your feedback on how the information is displayed on this page.
 
 * What are your initial impressions?
 
-### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
-[Answer: San Mateo CA and San Francisco CA]
-
+### TASK: Could you show us how many children are being added as dependents? And what are their names?
+[Answer: 2, Andrew and Anna]
 * Can you easily distinguish repeating sections (such as multiple children)? How?
     * Is there anything you'd change to improve it?
 * On a scale from 1-5, 1 being not legible and 5 being very legible... How legible is this page?
     * Why?
     * [If low score] What would make it more legible?
 
-### TASK: Where does it show that Jamie has certified the accuracy of their information on the form they just submitted?
-* How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
+### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim?
+[Answer: "other_evidence", "disability_evidence", "adoption_papers"]
+
+* Please explain how you found the filenames? 
+    * What was your thought process?
+    * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
 ## Scenario 1 (BID Maximal): Form viewer content and layout - 10 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen] 
@@ -203,20 +206,17 @@ Now we're going to show you a variation of what you've seen so far. Please click
     * Is there information that should be emphasized?
     * Is there too much information? What would you like to remove or de-emphasize?
 
-### TASK: Could you show us how many children are being added as dependents? And what are their names?
-[Answer: 2, Andrew and Anna]
+### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
+[Answer: San Mateo CA and San Francisco CA]
+
 * Can you easily distinguish repeating sections (such as multiple children)? How?
     * Is there anything you'd change to improve it?
 * On a scale from 1-5, 1 being not legible and 5 being very legible... How legible is this page?
     * Why?
     * [If low score] What would make it more legible?
 
-### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim?
-[Answer: "other_evidence", "disability_evidence", "adoption_papers"]
-
-* Please explain how you found the filenames? 
-    * What was your thought process?
-    * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
+### TASK: Where does it show that Jamie has certified the accuracy of their information on the form they just submitted?
+* How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
 ### Numbering
 * How do you feel about the section numbering?
