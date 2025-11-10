@@ -101,19 +101,32 @@ There are no flags with this feature.
 
 ### Errors
 
-<details><summary>The claims API is down and we can’t display any claims or appeals information</summary>
+<details><summary>The claims API is down and we can’t display some claims information</summary>
   
-- **Use case:** If an LOA3 user logs in and there is an error with the claims API, then we will not be able to show a card for any recent claim or appeal updates. A link to go to the claims tracker still shows in the section.
+- **Use case:** If an LOA3 user logs in and there is an error with the claims API, then we will not be able to show a card for any recent claim updates. A link to go to the claims tracker still shows in the section.
 - **Status code:** TBD
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5074-19242&t=Qplg9wUFJEDlP70M-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5074-19242&t=yjkBCJLUxO0o87bU-1)
 - [Link to code]
 - **Content:**
 
-We can't show your claims or appeals information right now. Refresh this page or try again later.
+We can't show some of your claims information right now. Refresh this page or try again later.
 
 </details>
 
+
+<details><summary>The appeals API is down and we can’t display some appeals information</summary>
+  
+- **Use case:** If an LOA3 user logs in and there is an error with the appeals API, then we will not be able to show a card for any recent appeal updates. A link to go to the claims tracker still shows in the section.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=8211-14362&t=yjkBCJLUxO0o87bU-1)
+- [Link to code]
+- **Content:**
+
+We can't show some of your appeals information right now. Refresh this page or try again later.
+
+</details>
 
 <details><summary>The API that shows the disability rating is down</summary>
   

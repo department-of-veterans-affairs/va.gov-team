@@ -60,10 +60,10 @@ recruitment:
   approach: "Lean maximum variation sampling"
   
   primary_criteria:
-    - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision"
-    - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision"
-    - "Have never filed a disability claim"
-    - "Have experience helping other Veterans file disability claims (2)"
+    - "Have filed a disability claim within the last 15 years AND have never appealed a disability decision (recruit 5)"
+    - "Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision (recruit 3)"
+    - "Have never filed a disability claim (recruit 2)"
+    - "Have experience helping other Veterans file disability claims (recruit 3)"
 
   primary_demographic_criteria:
     - Education_level:
@@ -84,7 +84,7 @@ recruitment:
     
   screener_questions:
     - question: "Have you filed a disability claim with VA in the last 15 years?"
-      qualifying_response: "Yes"
+      qualifying_response: "Yes/No"
     - question: "Have you ever appealed a decision the VA made on your disability claim?"
       qualifying_response: "Yes/No"
     - question: "Do you help other Veterans with their disability claims (volunteer/professional)?"
@@ -93,11 +93,11 @@ recruitment:
       qualifying_response: "Free text"
       
 participants:
-  veterans: 14
+  veterans: 13
   caregivers: 0
   dependents: 0
-  total_recruited: 14
-  completed_sessions_goal: 14
+  total_recruited: 13
+  completed_sessions_goal: 9
   
 # Timeline & Sessions
 timeline:
@@ -127,14 +127,19 @@ related_research:
     - "https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464"
     
 tags:
-  - "authenticated"
-  - "usability-testing"
-  - "veteran"
-  - "disability-claims"
-  - "design-iteration"
+  - "BNFT: Disability"
+  - "DSC: Form - Radio Button"
+  - "DSC: Experimental"
+  - "DSP: Ask users for dates"
+  - "DSP: Ask users for multiple responses"
+  - "RESRCH: Concept Testing"
+  - "RESRCH: Generative (Discovery)"
+  - "RESRCH: Interviews"
+  - "RESRCH: Usability Testing"
+  - "Veteran Journeys: Taking Care Of Themselves"
 ---
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-	# Research Plan for Disability Benefits Crew - Condition Team, 526EZ Conditions step, October 2025
+	# Research Plan for Disability Benefits Crew - Condition Team, Supplemental Claim design directions, October 2025
 
 ---
 
@@ -281,10 +286,12 @@ Sessions will be conducted remotely, over Zoom. Participants can join from a com
 
 ## Research materials 📔
 
-- [Link to conversation guide](https://docs.google.com/document/d/1NKvlFeVIhA6MLjQSHvG2ydZStfF_JaIesNpB0y_65V8/edit?tab=t.0#heading=h.dplkj8rblxka)  
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20-%202025-10-Supplemental-Claim.md)  
 - [Link to prototype](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6524-47192&viewport=653%2C-7741%2C0.75&t=UWlAy6DgYnnYEKOL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6524%3A47192&show-proto-sidebar=1)
 
 # Recruitment 🎯
+
+**Recruit 13 participants for a completed sessions goal of 9.**
 
 We’ll recruit Veterans across the following categories:
 
@@ -301,10 +308,10 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 | Cohorts | Recruit \# |
 | :---- | :---- |
 | 1\) Have filed a disability claim within the last 15 years AND have never appealed a disability decision | 5 |
-| 2\) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 4 |
+| 2\) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 3 |
 | 3\) Have never filed a disability claim | 2 |
 | 4\) Have experience helping other Veterans file disability claims (2) | 3 |
-| **Total** | **14** |
+| **Total** | **13** |
 
 #### 
 
@@ -312,7 +319,7 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 
 Education level:
 
-- At least 6 with education level of Elementary/Intermediate/GED/High School  
+- At least 5 with education level of Elementary/Intermediate/GED/High School  
 - No more than 3 with Masters/Professional/Doctoral
 
 Gender:
@@ -322,11 +329,11 @@ Gender:
 Race:
 
 - At least 2 with Asian, Native, American Indian or Alaska Native  
-- At least 5 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial
+- At least 4 with Black or African American, Hispanic, Latino, or Spanish origin, or Biracial
 
 Age:
 
-- At least 5 who are 34 or younger  
+- At least 4 who are 34 or younger  
 - At least 4 who are 55+
 
 ### Secondary criteria (nice-to-haves)
@@ -362,7 +369,8 @@ Discharge:
 
 ### Prepare
 
-\[\!NOTE\] Send pilot participant email in study Slack channel
+>[!NOTE]
+>Send pilot participant email in study Slack channel
 
 * Pilot participant name: TBD  
 * Date and time of pilot session: TBD
@@ -436,8 +444,8 @@ Please list the names of people in each role. In the Slack study channel, send a
 
 - Moderator: Kim Ladin, Madeline Fritz  
 - Research guide writing and task development (usually but not always same as moderator): Kim Ladin, Madeline Fritz  
-- Participant recruiting & screening:	\[Enter full name\]  
-- Project point of contact: \[Enter full name\]  
+- Participant recruiting & screening: Perigean
+- Project point of contact: Kim Ladin, Madeline Fritz
 - Accessibility specialist (for sessions where support for assistive technology may be needed): N/A  
 - Note-takers: Kim Ladin, Madeline Fritz  
 - Observers: We'll invite observers to specific sessions based on our observer sign-up sheet

@@ -43,7 +43,7 @@
 - **Use case:** When a user does not have any upcoming appointments, they will see a card that informs them they have no appointments and a link to manage appointments.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5008-17793&t=cZLTEcVoQuXx90AV-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=7605-14422&t=s9B47tQIghdkIdzp-1)
 - [Link to code]
 - **Content:** See designs
 
@@ -69,7 +69,7 @@
 - **Use case:** When a user does not have any unread messages, they will see a card telling them and a link to their inbox.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5008-17793&t=cZLTEcVoQuXx90AV-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=7605-14422&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
 - **Content:** See designs
 
@@ -81,7 +81,7 @@
 - **Use case:** When a user has unread messages, they will see a card informing them they have unread messages, and a link to their inbox.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5022-17383&t=cZLTEcVoQuXx90AV-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5022-17383&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
 - **Content:** See designs
 
@@ -104,7 +104,7 @@ There are no flags with this feature.
    - In rare cases, this error could occur and the page may still load. If this occurs, we display an error in the health care section.
 - **Status code:** TBD
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5333-17024&t=hwoiHCaMFjyRAOid-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5333-17024&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
 - **Content:** 
 
@@ -118,7 +118,7 @@ We can’t show your health care information right now. Refresh this page or try
 - **Use case:** If an LOA3 user logs in who has VA health care and there is an error with the appointments API, then we will be able to detect that they have VA health care but we will not be able to show any upcoming appointment information. If this error occurs, we display a warning alert in the Appointments section.
 - **Status code:** TBD
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5362-14384&t=hwoiHCaMFjyRAOid-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5362-14384&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
 - **Content:**
 
@@ -132,7 +132,7 @@ We can’t show your appointments right now. Refresh this page or try again late
 - **Use case:** If an LOA3 user logs in who has VA health care and the messaging API is down, then we will not be able to detect if a user has unread messages or not. If this error occurs, we provide a warning alert in the Messages section.
 - **Status code:** TBD
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14001&t=cZLTEcVoQuXx90AV-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14001&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
 - **Content:**
 

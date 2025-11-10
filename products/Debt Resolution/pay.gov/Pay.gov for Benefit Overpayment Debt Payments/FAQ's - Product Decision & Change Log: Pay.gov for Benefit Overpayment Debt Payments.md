@@ -9,6 +9,8 @@
 | Date | Source (Who?) | Decision/ Production Code Change |Details |
 | ---- | ---- | ---- |---- |
 | TBD | TBD | TBD |TBD |
+| 11/3/25| Bob Vitt | Minimum payments| Per Bob, we MUST offer partial payments. Amount can't be less than $25.00 (unless the amount due is less than $25- in which case they MUST pay the $25 in full). ACH recurring payment plans ok, but $25 is the min payment and must pay debt in full in 36 months (Bob to get more info/confirm) |
+| 11/3/25| Bob Vitt | School payments| Per Bob,Schools MUST be able to log in, so we will need pay.va.gov AND pay.gov live at the same time.Thousands of schools are making payments! Approx 43,000 accounts for a total of $107 million!! Schools call in to pay money owed using cc's too.  |
 
 ### Product Considerations
 

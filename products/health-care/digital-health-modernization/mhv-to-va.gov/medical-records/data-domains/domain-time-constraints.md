@@ -23,7 +23,7 @@ Description (hint text) added to the dropdown field that we can only show 90 day
 Custom date field will need to be part of the design on web to allow users to access these older records. Users will not be able to access records older than 2.2 years on VAHB.
 
 ## Decisions
-- At this point there's no added benefit that we can imagine for VistA users if we were to add time based filters for the VistA experience. For this reason, we're planning at this time to only show the time based filters for OH and hybrid users. (11/4 - Becky & Marci)
+- ~At this point there's no added benefit that we can imagine for VistA users if we were to add time based filters for the VistA experience. For this reason, we're planning at this time to only show the time based filters for OH and hybrid users. (11/4 - Becky & Marci)~ Change in decision from Marci in slack: "it sounds like the date picker will need to be there for all users due to the new backend". Liz Townsend agreed but added some more clarifying info:  "On thing to note is that yes, it will be for both VistA + OH patients for the new backend, which we are rolling out in chunks. So the existing experience (for VistA only users) will remain no date picker until we turn on the feature flags for all users and transition everyone over to the new Unified Data BE system. If that makes sense. I'm not sure what the timeline is for transitioning everyone over vs. just the 6 OH pilot sites for now (personally, I've been focused more on getting it out for the pilot sites deadline :cold_sweat:)."
 - Add default view to web as it is planned for VAHB: when the date picker is present (labs and tests and notes and care summaries), users arriving on those domain pages will get a list of all items from the past 90 days. (11/6 - meeting with engs Liz Townsend, Adrian Rollett and Mark Dewey, in addition to Becky, Marci, David Koger and others)
 - Will not add a date picker to the vitals domain for now and we'll see what happens with vitals in testing; Victoria Boland shared that there is BE filtering on OH for vitals so we don't need to also do this. We'll need to validate after env refresh (11/6 - meeting with engs Liz Townsend, Adrian Rollett and Mark Dewey, in addition to Becky, Marci, David Koger and others)
 - We won't show a filter accordion to house the date picker at this point. Thinking is this is not really a filter, but more of a search affordance. (11/6 meeting)
@@ -37,8 +37,6 @@ Yes, decision made in call on 11/6
 
 ### How far back should the date picker go? 
 Engineers can't know how far back records might go so we've had to decide on a standard. Mark Dewey and Patrick Bateman decided 2.2 years back for 90 day intervals that can be picked from the dropdown. For mobile, that will be it (data goes back only 2.2 years). For web, a custom date field will need to be used to get anything further back in time (will be set up to also run only 90 day intervals). 
-
-### Do we need to direct VAHB patients to web to find add'l records (do we not already do this?)?
 
 ### Is the custom date option shown in designs already in the design system? We won't be able to go through CC so we need to use something already sanctioned/standardized.
 Start date field we'd want to validate is in VADS. 
