@@ -1,4 +1,4 @@
-# va-select Design Decisions
+# va-sort Design Decisions
 Last updated: 11-10-2025
 
 - [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
