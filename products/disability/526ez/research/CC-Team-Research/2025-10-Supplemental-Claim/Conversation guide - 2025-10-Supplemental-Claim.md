@@ -20,7 +20,7 @@ description: "A script and session outline for conducting prototype testing with
 # Conversation Guide: 2025-10 Supplemental claims design direction
 
 ## Moderator logistics 📋✅
-[Link to prototype](https://docs.google.com/document/d/1NKvlFeVIhA6MLjQSHvG2ydZStfF_JaIesNpB0y_65V8/edit?tab=t.0#heading=h.dplkj8rblxka)
+[Link to prototype](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6524-47192&viewport=653%2C-7741%2C0.75&t=UWlAy6DgYnnYEKOL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6524%3A47192&show-proto-sidebar=1)
 
 [Link to research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Plan%20-%202025-10-Supplemental-Claim.md)
 ### Day of the session
