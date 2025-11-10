@@ -57,7 +57,7 @@ jobs:
             - [ ] Review onboarding deck for any updates
             - [ ] Send calendar invite + Teams meeting link
                - Meeting Description: We're excited to introduce the Accredited Representative Portal and understand how it can be incorporated into the organization's workflow to help Veterans.`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
                 title: 'Conduct meeting',
@@ -78,7 +78,7 @@ jobs:
             - [ ] Assign notetaker
             - [ ] Set up meeting chat thread
             - [ ] Provide highlights to team after the call`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
                 title: 'Send follow-up email',
@@ -90,7 +90,7 @@ jobs:
             - [ ] Contact info spreadsheet
             - [ ] Email template for reps
             - [ ] Appoint a Rep PDF instructions`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
                 title: 'Send second follow-up email',
@@ -100,7 +100,7 @@ jobs:
             ## Tasks
             - [ ] Send follow-up message
             - [ ] Confirm timeline for enabling access`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
                 title: 'Coordinate bulk contact info update',
@@ -110,19 +110,19 @@ jobs:
             ## Tasks
             - [ ] Review spreadsheet
             - [ ] Share with OGC and confirm when org reps will be updated`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
-                title: 'Enable RR for org',
+                title: 'Enable Form 21-22 online submission for org',
                 body: `## Description
-                We want to enable ${orgAbbr} for Representation Requests
+            We want to enable ${orgAbbr} for Form 21-22 online submission
                 
-                This is the documentation describing how to [enable online submission of a 21-22 representation request for a VSO on va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/enabling-online-submission-for-vsos.md).
+            This is the documentation describing how to [enable online submission of a 21-22 representation request for a VSO on va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/enabling-online-submission-for-vsos.md).
                 
                 ## Acceptance Criteria/Conditions of Satisfaction
                 - Veterans have the ability to submit online 21-22 requests in Appoint a Rep, for ${orgAbbr} and affiliated representatives.
                 - ${orgAbbr} representatives can receive and accept/decline online 21-22 requests in ARP.`,
-                labels: ['engagement', 'engineering']
+                labels: ['engagement', 'engineering', 'ar-crew']
               },
               {
                 title: 'Confirm access',
@@ -134,7 +134,7 @@ jobs:
               - [ ] Ability to log into the portal 
               - [ ] View Representation requests, Find claimant, and Submissions
             - [ ] Address any issues`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               },
               {
                 title: 'Report on first months activity',
@@ -147,7 +147,7 @@ jobs:
               - [ ] Claims submissions (total, 526ez, 686c)
             - [ ] Address any issues
             - [ ] Invite org reps for rep panel`,
-                labels: ['engagement']
+                labels: ['engagement','org-onboarding','ar-crew']
               }
             ];
             
@@ -162,10 +162,6 @@ jobs:
                 repo: context.repo.repo,
                 title: `[ ${orgAbbr} ] ${subIssue.title}`,
                 body: `${subIssue.body}
-
-            ---
-            **Parent Issue:** #${parentIssue.number}
-            **Organization:** ${orgAbbr}
             
             Relates to #${parentIssue.number}`,
                 labels: subIssue.labels,
