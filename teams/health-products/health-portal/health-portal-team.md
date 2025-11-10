@@ -114,7 +114,6 @@ This cross-functional group serves as the Company points of contact for the deli
 |---------------------|-------------------------------------------------------------------|
 | Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)       |
 | Clint Wilde         | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
-| Mario Williams      | [@Mario Williams](https://dsva.slack.com/archives/D09DUFANK09)    |
 
 
 ### Shared Portal Support
@@ -125,9 +124,9 @@ This cross-functional group serves as the Company points of contact for the deli
 |------------------|------------------------------------------------------------------------------------|
 | Carlos Felix     | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R)                           |
 | Sarah Horton     | [@Sarah Horton](https://dsva.slack.com/team/U09HBGL49KN)                           |
-| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/archives/D09B1CWEMS8)                   |
-| Tanya Malhotra   | [@Tanya](https://dsva.slack.com/team/U09FXFQJE84)                                  |
-| Laura Simpson    | [@Laura Simpson](https://dsva.slack.com/archives/D09K1URCSD7)                      |
+| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/team/U09BBH4EPDE)                   |
+| Jeffrey Heredia   | [@Jeffrey Heredia](https://dsva.slack.com/team/U09LPSVP9J7)                                  |
+| Laura Simpson    | [@Laura Simpson](https://dsva.slack.com/team/U09GT3BGPGT)                      |
 
 ### Customer Support and Triage (Tier 3)
 - Slack channel: [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV)
