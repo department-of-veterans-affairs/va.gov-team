@@ -311,7 +311,7 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 | 2\) Have filed a disability claim within the last 15 years AND have previously filed an appeal to a disability decision | 3 |
 | 3\) Have never filed a disability claim | 2 |
 | 4\) Have experience helping other Veterans file disability claims (2) | 3 |
-| **Total** | **14** |
+| **Total** | **13** |
 
 #### 
 
