@@ -1,9 +1,7 @@
 # Figma SOP (temporary)
 VA is currently working on a Figma SOP that will be handed down. When that happens, we'll switch over and follow that SOP, and this one will become irrelevant. For that reason, this temporary version is only a write-up of the general idea of how Kaitlin Fink (previous UX design lead of the portal) wanted teams to set up their Figma files. This is all in an attempt to keep this SOP pretty light.
 
-## Figma files should include:
-
-## All MHV tool teams should:
+## All MHV tool teams:
 
 ### Keep Figma docs up to date to always have a "source of truth" that can be referred to in place of prod
 - Depending on how teams want to organize their files, the source of truth can live across multiple different files, but if a stakeholder or another designer needs to view all tool-specific alerts that could come up on a page, that "source of truth" work is ideally prepared for this type of ask
