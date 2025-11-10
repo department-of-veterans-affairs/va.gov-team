@@ -253,7 +253,7 @@ Before you click on anything, I want to ask you some questions on this screen.
 ##### Date worsened screen
 
 * What would you do on this screen?  
-* *Instruct Veteran to enter Oct 1 2025\.*
+* *Instruct Veteran to click on date field to populate with October 1, 2025.*
 
 ##### Review your conditions screen(s)
 
@@ -298,7 +298,7 @@ OK, looking at the screen now, what would you do?
 * What would you do on this screen?  
 * What date would you enter?  
 * Let’s say you first applied for migraines in November of 2024, about a year ago. And the VA made their decision in January of 2025\.  
-* *Instruct Veteran to enter November 1 2024\.*  
+* *Instruct Veteran to click on date field to populate with November 1, 2024.*
 * Go ahead and click Continue.
 
 ##### Review your conditions screen(s)
@@ -395,7 +395,7 @@ Before you click on anything, I want to ask you some questions on this screen.
 
 * What would you do on this screen?  
 * If you saw your doctor in early October, and that’s when you heard your hypertension had gotten worse….  
-* *Instruct Veteran to enter Oct 1 2025/click on field for date in case the field doesn’t work.*
+* *Instruct Veteran to click on date field to populate with October 1, 2025.*
 
 ##### Review your conditions screen(s)
 
@@ -483,7 +483,7 @@ OK, looking at the screen now, what would you do?
 * What would you do on this screen?  
 * What date would you enter?  
 * Let’s say you first applied for migraines in November of 2024, about a year ago. And the VA made their decision in January of 2025.  
-* *Instruct Veteran to enter November 1 2024.*  
+* *Instruct Veteran to click on date field to populate with November 1, 2024.*
 * Go ahead and click Continue.
 
 ##### Review your conditions screen(s)
