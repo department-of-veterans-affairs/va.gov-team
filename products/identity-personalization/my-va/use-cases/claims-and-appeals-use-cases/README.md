@@ -128,6 +128,19 @@ We can't show some of your appeals information right now. Refresh this page or t
 
 </details>
 
+<details><summary>The claims and appeals API is down and we can’t display both claims and appeals information</summary>
+  
+- **Use case:** If an LOA3 user logs in and there is an error with the both claims and appeals API, then we will not be able to show a card for any recent cliams or appeal updates. A link to go to the claims tracker still shows in the section.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=8247-14376&t=rznelY3nvWqXfG8v-1)
+- [Link to code]
+- **Content:**
+
+We can't show some of your claims or appeals information right now. Refresh this page or try again later.
+
+</details>
+
 <details><summary>The API that shows the disability rating is down</summary>
   
 - **Use case:** If an LOA3 user logs in and there is an error with the API that displays the disability rating, then we show an alert informing the user the information is currently unavailable. A link to the disability page is still available in the section.
