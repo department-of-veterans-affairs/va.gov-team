@@ -189,7 +189,7 @@ As you use the prototype, please verbalize your thoughts out loud so we can unde
 Have you heard of the PACT Act?
 
 * *If no, provide this background first:*  
-  * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or agent orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
+  * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or Agent Orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
 * Let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
 
 ➡️ Instruct Veteran to click on either Apple or Banana
