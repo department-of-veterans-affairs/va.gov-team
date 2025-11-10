@@ -77,11 +77,11 @@ Before we start, I have a few things to go over with you:
 
 Let’s get started. I’d like to hear about your experience getting disability benefits. Since we might touch on some parts of your health situation, please know that you don’t need to talk about any topics you don’t want to. I’m most interested in hearing about your experience with the VA disability benefits process itself.
 
-Have you ever filed for disability benefits?  
-About how many times?  
-And how many disabilities has the VA approved?  
-Can you tell me what some of those are?  
-What’s your overall disability percent?
+* Have you ever filed for disability benefits?  
+* About how many times?  
+* And how many disabilities has the VA approved?  
+* Can you tell me what some of those are?  
+* What’s your overall disability percent?
 
 ## Most recent experience
 
