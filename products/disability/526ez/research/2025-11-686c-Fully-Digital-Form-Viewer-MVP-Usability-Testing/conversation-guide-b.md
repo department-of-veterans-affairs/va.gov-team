@@ -117,8 +117,8 @@ Awesome! Now that I can see your screen.
 ## Setting up context - 2 minutes
 ```
 The participant will encounter the prototypes in the following order:
-- Scenario 1: BID Maximal 
-- Scenario 2: VADS Minimal
+- Scenario 2: VADS Minimal 
+- Scenario 1: BID Maximal
 - Scenario 3: VADS Minimal + "a la carte" features
 ```
 For the remainder of the session, I'd like you to imagine that you are a Veteran named Jamie Smith Brooks. (Just to clarify, Jamie isn't a real person, we are using a demo account.) Earlier this week, you spent time on VA.gov filling out the VA form 21-686c to add dependents to your VA benefits. However, you got interrupted so you were logged out right before hitting the submit button. Now you are interested in actually submitting your form.
