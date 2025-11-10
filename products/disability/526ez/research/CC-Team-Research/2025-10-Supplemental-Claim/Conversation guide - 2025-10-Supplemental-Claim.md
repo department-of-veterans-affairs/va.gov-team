@@ -200,7 +200,7 @@ When you get to this screen, you’ve already logged in and started your benefit
 
 ### 🍎 Apple Task 1: Appeal a denied condition (Asthma)
 
-For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT act became law, you think the VA should change its decision.
+For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT Act became law, you think the VA should change its decision.
 
 ##### Intro screen
 
