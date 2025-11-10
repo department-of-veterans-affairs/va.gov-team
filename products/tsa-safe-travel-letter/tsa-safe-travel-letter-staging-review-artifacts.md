@@ -15,7 +15,7 @@
     - NOTE: We would need another sample letter to do this
 - User who doesn't have a valid address on file - +78
     - Should not be able to see any letters even if they have them
-- User who has a system down message - +12, +13
+- User who has a system down message - +12
 - User who has an error notification on the whole page - +9
 
 ### List of known issues and bugs
