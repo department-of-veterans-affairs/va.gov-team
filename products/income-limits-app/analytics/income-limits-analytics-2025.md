@@ -61,4 +61,18 @@ Summary: Total user counts are similar to January. 56% of those who viewed the i
  | 	 /health-care/income-limits/ 	 | 	 4,780 	 | 	 1.05 	 | 	99.2%	 | 	 1,902 	 | 	 11 	 | 	 2,524 	 | 	 4,182 	 | 
  | 	 /health-care/income-limits/year 	 | 	 3,073 	 | 	 1.51 	 | 	99.5%	 | 	 9   	 | 	 132 	 | 	 998 	 | 	 1,924 	 | 
 
-Summary: Total user counts are lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 58% of those who viewed the intro also view results with a low drop-off rate across other the pages. 52% of users viewing the intrudction are return users.
+Summary: Total user counts are lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 58% of those who viewed the intro also view results with a low drop-off rate across other the pages. 52% of users viewing the introduction are return users.
+
+### May 2025
+
+|  Month	 | 	 Views 	 | 	 Views per session 	 | 	Engagement rate	 | 	 Entrances 	 | 	 Exits 	 | 	 Returning users 	 | 	 Total users 	 | 
+|	---	|	 :---:	|	 :---:	|	 :---:	|	 :---: 	|	  :---: 	|	 :---:	|	  :---:	|
+ | 	 /health-care/income-limits/introduction 	 | 	 26,927 	 | 	 1.36 	 | 	90.2%	 | 	 5,419 	 | 	 4,462 	 | 	 8,332 	 | 	 16,255 	 | 
+ | 	 /health-care/income-limits/review 	 | 	 19,063 	 | 	 1.53 	 | 	99.2%	 | 	 150 	 | 	 290 	 | 	5,876 	 | 	 11,415 	 | 
+ | 	 /health-care/income-limits/zip 	 | 	 18,582 	 | 	 1.38 	 | 	99.5%	 | 	 145 	 | 	 299 	 | 	 6,221 	 | 	 12,215 	 | 
+ | 	 /health-care/income-limits/dependents 	 | 	 18,114 	 | 	 1.43 	 | 	99.5%	 | 	 15 	 | 	 184 	 | 	 5,979 	 | 	 11,558 	 | 
+ | 	 /health-care/income-limits/results 	 | 	 15,420 	 | 	 1.23 	 | 	99.2%	 | 	 223 	 | 	 4,903 	 | 	 5,879 	 | 	 11,421 	 | 
+ | 	 /health-care/income-limits/ 	 | 	 4,442 	 | 	 1.07 	 | 	99.11%	 | 	 1,768 	 | 	 23 	 | 	 2,288 	 | 	 3,834 	 | 
+ | 	 /health-care/income-limits/year 	 | 	 3,054 	 | 	 1.53 	 | 	99.4%	 | 	 12   	 | 	 153 	 | 	 964 	 | 	 1,893 	 | 
+
+Summary: Total user counts are lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 57% of those who viewed the intro also view results with a low drop-off rate across other the pages. 51% of users viewing the introduction are return users.
