@@ -1,6 +1,33 @@
 # Figma SOP (temporary)
 VA is currently working on a Figma SOP that will be handed down. When that happens, we'll switch over and follow that SOP, and this one will become irrelevant. For that reason, this temporary version is only a write-up of the general idea of how Kaitlin Fink (previous UX design lead of the portal) wanted teams to set up their Figma files. This is all in an attempt to keep this SOP pretty light.
 
+## Figma file organization:
+All Figma files should include the following pages:
+- Changelog
+- Cover
+- Source of truth 
+- Components
+- Add'l pages for working designs
+
+### Changelog by Design Version
+Changelog is a plugin that allows designers to keep a record of designer-described changes made to design files. This plugin automatically generates a changelog page within a Figma project.
+
+### Cover page
+<details>
+  <summary>Example cover page</summary>
+<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/a0c75a4b-e680-4e58-a924-b1697de85e2e" />
+</details>
+
+### Source of truth
+Componentized documentation of what is currently in prod. More on this below.
+
+### Components
+Any specific-to-tool repeatable design elements
+
+### Add'l pages for working designs
+These pages are where designers can build out design ideas. When designs move to the implementation phase, then designers can take the finalized designs and move them into the source of truth page (or separate file).
+
+
 ## All MHV tool teams:
 
 ### Keep Figma docs up to date to always have a "source of truth" that can be referred to in place of prod
