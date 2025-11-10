@@ -369,7 +369,8 @@ Discharge:
 
 ### Prepare
 
-\[\!NOTE\] Send pilot participant email in study Slack channel
+>[!NOTE]
+>Send pilot participant email in study Slack channel
 
 * Pilot participant name: TBD  
 * Date and time of pilot session: TBD
