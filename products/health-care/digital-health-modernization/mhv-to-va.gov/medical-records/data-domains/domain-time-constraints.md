@@ -38,8 +38,6 @@ Yes, decision made in call on 11/6
 ### How far back should the date picker go? 
 Engineers can't know how far back records might go so we've had to decide on a standard. Mark Dewey and Patrick Bateman decided 2.2 years back for 90 day intervals that can be picked from the dropdown. For mobile, that will be it (data goes back only 2.2 years). For web, a custom date field will need to be used to get anything further back in time (will be set up to also run only 90 day intervals). 
 
-### Do we need to direct VAHB patients to web to find add'l records (do we not already do this?)?
-
 ### Is the custom date option shown in designs already in the design system? We won't be able to go through CC so we need to use something already sanctioned/standardized.
 Start date field we'd want to validate is in VADS. 
 
