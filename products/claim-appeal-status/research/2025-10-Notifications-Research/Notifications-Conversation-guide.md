@@ -10,8 +10,7 @@ description: "A template for moderating research sessions including logistics, i
 ---
 # Conversation Guide
 
-## Study Name
-**Benefits Management Notifications Study**
+## **Benefits Management Notifications Study**
 
 **Product / Team:** Benefits Management Tools (BMT 3) – Notifications  
 **Date:** [ SESSION DATE ]  
