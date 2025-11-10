@@ -104,3 +104,17 @@ Summary: Total user counts continue to be lower than January, which may be expec
  | 	 /health-care/income-limits/year 	 | 	2,722 	 | 	 1.55 	 | 	100%	 | 	 14   	 | 	 140 	 | 	 919 	 | 	 1,724 	 | 
 
 Summary: Total user counts continue to be lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 56% of those who viewed the intro also view results with a low drop-off rate across other the pages. 54% of users viewing the introduction are return users.
+
+### August 2025
+
+|  Month	 | 	 Views 	 | 	 Views per session 	 | 	Engagement rate	 | 	 Entrances 	 | 	 Exits 	 | 	 Returning users 	 | 	 Total users 	 | 
+|	---	|	 :---:	|	 :---:	|	 :---:	|	 :---: 	|	  :---: 	|	 :---:	|	  :---:	|
+ | 	 /health-care/income-limits/introduction 	 | 	 26,938 	 | 	 1.38 	 | 	89.19%	 | 	 5,289 	 | 	 4,636 	 | 	 8,669 	 | 	 16,577 	 | 
+ | 	 /health-care/income-limits/review 	 | 	 18,862 	 | 	 1.48 	 | 	99.53%	 | 	 76 	 | 	 287 	 | 	6,195 	 | 	 11,858 	 | 
+ | 	 /health-care/income-limits/zip 	 | 	 18,491 	 | 	 1.35 	 | 	99.51%	 | 	 110 	 | 	 358 	 | 	 6,687 	 | 	 12,768 	 | 
+ | 	 /health-care/income-limits/dependents 	 | 	 17,904 	 | 	 1.39 	 | 	99.58%	 | 	 14 	 | 	 177 	 | 	 6,350 	 | 	 12,087 	 | 
+ | 	 /health-care/income-limits/results 	 | 	 15,093 	 | 	 1.19 	 | 	99.57%	 | 	 150 	 | 	 4,583 	 | 	 6,175 	 | 	 11,824 	 | 
+ | 	 /health-care/income-limits/ 	 | 	 3,678 	 | 	 1.05 	 | 	97.11%	 | 	 1,510 	 | 	 88 	 | 	 2,009 	 | 	 3,344 	 | 
+ | 	 /health-care/income-limits/year 	 | 	2,450 	 | 	 1.45 	 | 	99.59%	 | 	 0   	 | 	 125 	 | 	 890 	 | 	 1,645 	 | 
+
+Summary: Total user counts continue to be lower than January, which may be expected given we are several months past the start of the year when people will check their income limits. 56% of those who viewed the intro also view results with a low drop-off rate across other the pages. 52% of users viewing the introduction are return users.
