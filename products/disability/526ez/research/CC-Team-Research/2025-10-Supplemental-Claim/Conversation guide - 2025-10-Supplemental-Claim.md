@@ -25,7 +25,7 @@ description: "A script and session outline for conducting prototype testing with
 [Link to research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Plan%20-%202025-10-Supplemental-Claim.md)
 ### Day of the session
 
-* Use [\#feedback-backchannel](https://dsva.slack.com/archives/C40B45NJK) in Slack for real-time feedback from observers.  
+* Use [\#feedback-backchannel](https://dsva.slack.com/archives/feedback-backchannel) in Slack for real-time feedback from observers.  
 * Mute your Slack notifications.  
 * Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [\#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
 
