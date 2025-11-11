@@ -14,15 +14,15 @@
 | Cancellation          | Release cancellation                             | Dec/Jan 2025        |                                          |
 | MVP                   | **Staging review: OH Scheduling**                | Feb 2026            |                                          |
 | Requests              | Build appointment requests                       | Done                | Should be complete, pending testing      |
-| Requests              | Test appointment requests                        |                     | Waiting on B1930 refresh                 |
-| Scheduling            | Finish building scheduling                       |                     |                                          |
-| Scheduling            | Test scheduling                                  |                     |                                          |
-| MVP                   | Release food and nutrition scheduling & requests |                     |                                          |
-| MVP                   | Complete UAT                                     |                     |                                          |
-| MVP                   | Release all scheduling & requests except MH & PC |                     |                                          |
-| MH & PC               | Build MH & PC flows scheduling & requests        |                     |                                          |
-| MH & PC               | Test MH & PC scheduling & requests               |                     |                                          |
-| MH & PC               | Release MH & PC scheduling & requests            |                     |                                          |
+| Requests              | Test appointment requests                        | Dec 2025                    | Waiting on B1930 refresh                 |
+| Scheduling            | Finish building scheduling                       | Feb 2025                    |                                          |
+| Scheduling            | Test scheduling                                  | Feb 2026                    |                                          |
+| MVP                   | **Release food and nutrition scheduling & requests** |March 2026                    |                                          |
+| MVP                   | Complete UAT                                     |March 2026                     |                                          |
+| MVP                   | Release all scheduling & requests except MH & PC |April 2026                    |                                          |
+| MH & PC               | Build MH & PC flows scheduling & requests        | May 2026                    |                                          |
+| MH & PC               | Test MH & PC scheduling & requests               | June 2026                    |                                          |
+| MH & PC               | Release MH & PC scheduling & requests            | June 2026                    |                                          |
 
 ## Future timeline
 | Milestone                                        | Est. Date           | Status                                   |
