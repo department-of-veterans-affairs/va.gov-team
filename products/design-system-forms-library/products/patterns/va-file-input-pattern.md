@@ -42,6 +42,8 @@ VaFileInput components have **8 primary error states**:
 | 6 | `MISSING_ADDITIONAL_INFO` | "This information is required." | Additional input empty | Multiple only |
 | 7 | Network/Upload errors | (Various from API) | Upload failure | Both |
 | 8 | Internal component errors | (Various from component) | Component validation failures | Both |
+| 8 | FILE ALREADY ULPLOADED |" You already uploaded this file. Select a differnt file" | If the user uploads the same file using multi file input| Both |
+
 
 ---
 
