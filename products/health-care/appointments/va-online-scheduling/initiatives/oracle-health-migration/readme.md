@@ -12,11 +12,11 @@
 | Cancellation          | Build cancellation                               | Done                | Should be complete, pending (BE) testing |
 | Cancellation          | Test cancellation                                | Dec 2025            | Waiting on B1930 refresh                 |
 | Cancellation          | Release cancellation                             | Dec/Jan 2025        |                                          |
-| MVP                   | **Staging review: OH Scheduling**                | Feb 2026            |                                          |
 | Requests              | Build appointment requests                       | Done                | Should be complete, pending testing      |
 | Requests              | Test appointment requests                        | Dec 2025                    | Waiting on B1930 refresh                 |
-| Scheduling            | Finish building scheduling                       | Feb 2025                    |                                          |
+| Scheduling            | Finish building scheduling                       | Feb 2026                    |                                          |
 | Scheduling            | Test scheduling                                  | Feb 2026                    |                                          |
+| MVP                   | **Staging review: OH Scheduling**                | Feb 2026            |                                          |
 | MVP                   | **Release food and nutrition scheduling & requests** |March 2026                    |                                          |
 | MVP                   | Complete UAT                                     |March 2026                     |                                          |
 | MVP                   | Release all scheduling & requests except MH & PC |April 2026                    |                                          |
