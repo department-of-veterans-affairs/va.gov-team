@@ -1,6 +1,3 @@
-# Study Session Notes
-
-(Copy this template to take notes)
 ## P# 
 Notetaker: [Insert Name Here]
 
