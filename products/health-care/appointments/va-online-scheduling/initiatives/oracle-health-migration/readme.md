@@ -19,7 +19,7 @@
 | MVP                   | **Staging review: OH Scheduling**                | March 2026            |                                          |
 | MVP                   | **Release food and nutrition scheduling & requests** |March 2026                    |                                          |
 | MVP                   | Complete UAT                                     |March 2026                     |                                          |
-| MVP                   | Release all scheduling & requests except MH & PC |April 2026                    |                                          |
+| MVP                   | **Release all scheduling & requests except MH & PC** |April 2026                    |                                          |
 | MH & PC               | Build MH & PC flows scheduling & requests        | May 2026                    |                                          |
 | MH & PC               | Test MH & PC scheduling & requests               | June 2026                    |                                          |
 | MH & PC               | Release MH & PC scheduling & requests            | June 2026                    |                                          |
