@@ -118,7 +118,8 @@ Perigean will recruit and schedule **12 qualified participants** for each group 
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?*
 
 * Younger Veterans (As many in their **20s** as we can find - last study skewed older).
-* Users of **assistive technology**.
+* 4 users of **assistive technology**.
+* Veterans with shorter lengths of service who served 1-2 enlistment periods - our last study skewed towards longer lengths of service
 
 ### Secondary Criteria (Nice-to-Haves)
 
@@ -164,11 +165,6 @@ Perigean will recruit and schedule **12 qualified participants** for each group 
     * 5-19 years
     * 20 or more years
 
-6.  Did you participate, or are you currently participating, in TAP? (TAP is the Transition Assistance Program run by the Department of Defense for separating service members.)
-    * Yes
-    * No
-    * I’m not sure
-
 7.  Do you have a disability such as TBI, PTSD, or depression that affects mood, energy, or memory? You do not need to have a VA disability rating to answer yes.
     * Yes
     * No
@@ -178,6 +174,8 @@ Perigean will recruit and schedule **12 qualified participants** for each group 
     * Yes
     * No
     * I’m not sure
+    * If yes, what device?
+    * If yes, how long have you been using that device?
 
 ---
 
