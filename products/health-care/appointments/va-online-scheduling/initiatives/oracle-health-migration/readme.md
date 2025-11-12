@@ -9,11 +9,11 @@
 | AVS                   | Release web AVS                                  | Dec 2025            |                                          |
 | AVS                   | Build & test mobile AVS                          | Nov/Dec 2025        |                                          |
 | AVS                   | Release mobile AVS                               | Dec/Jan 2025        |                                          |
-| Cancellation          | :white_check_mark: Build cancellation                               | Done                | Should be complete, pending (BE) testing |
+| Cancellation          | :white_check_mark: Build cancellation                               | Done                | Done |
 | Cancellation          | Test cancellation                                | Dec 2025            | Waiting on B1930 refresh                 |
 | Cancellation          | Release cancellation                             | Dec/Jan 2025        |                                          |
 | Requests              | :white_check_mark: Build appointment requests                       | Done                | Should be complete, pending testing      |
-| Requests              | Test appointment requests                        | Dec 2025                    | Waiting on B1930 refresh                 |
+| Requests              | Test appointment requests                        | Feb 2026                    | Waiting on B1930 refresh                 |
 | Scheduling            | Finish building scheduling                       | Feb 2026                    |                                          |
 | Scheduling            | Test scheduling                                  | Feb 2026                    |                                          |
 | MVP                   | **Staging review: OH Scheduling**                | Feb 2026            |                                          |
