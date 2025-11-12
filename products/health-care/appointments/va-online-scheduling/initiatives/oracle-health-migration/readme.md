@@ -12,9 +12,8 @@
 | Cancellation          | :white_check_mark: Build cancellation                               | Done                | Done |
 | Cancellation          | Test cancellation                                | Dec 2025            | Waiting on B1930 refresh                 |
 | Cancellation          | Release cancellation                             | Dec/Jan 2025        |                                          |
-| MVP              | :white_check_mark: Build appointment requests                       | Done                | Should be complete, pending testing      |
+| MVP              | :white_check_mark: Build appointment requests                       | Done                | Done      |
 | MVP            | Finish building scheduling                       | Mar 2026                    |                                          |
-
 | MVP              | Test appointment requests                        | Mar 2026                    | Waiting on B1930 refresh                 |
 | MVP            | Test scheduling                                  | Marh 2026                    |                                          |
 | MVP                   | **Staging review: OH Scheduling**                | Mar 2026            |                                          |
