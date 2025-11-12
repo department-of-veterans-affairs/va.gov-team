@@ -12,18 +12,21 @@ The Health Portal on VA.gov relies on multiple systems to enable the health expe
 
 This process will evolve as VA tools and capabilities allow us to mature our capabilities.[^1] For the immediate future, we'll need to actively monitor Slack channels for errors from our [MHV Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Amhv).[^2] In the near future, we should be able to have PagerDuty alert engineers when something goes wrong.
 
-### Late 2025 process
+### Process
 
-An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
+An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. We use [PagerDuty schedules](https://ecc.pagerduty.com/schedules-new) to manage the on-call rotation.
+
+On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
+
+Currently, Datadog monitors are not set up to notify on-call engineers directly (as of Nov 2025). These monitors are also used/monitored by MHV Platform.
 
 The OCTO Watch Officer on-call may reach out when a Priority 1 and 2 (P1 and P2) monitor reaches or maintains an "error" state. The on-call engineer will take responsibility to respond to the Watch Officer and provide updates and resolution when needed.
 
-We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. Slack groups will be named according to team, with `-oncall` at the end, e.g. `@mhv-medical-records-oncall`.
+We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. The Slack group handles are:
 
-### Future process
-
-When PagerDuty is migrated and configured to alert engineers when something goes wrong, periodic checking of Slack will be less important. Instead, engineers will acknowledge notifications from PagerDuty and begin the triage process in response.
-
+- `@mhv-medrecords-oncall`
+- `@mhv-meds-oncall`
+- `@mhv-securemsg-oncall`
 
 ### Relation to Investigator On-call
 
