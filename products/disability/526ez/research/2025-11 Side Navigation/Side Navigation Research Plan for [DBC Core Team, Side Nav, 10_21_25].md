@@ -266,7 +266,7 @@ Your total number should equal 1.5x your ideal completed sessions number *(e.g. 
 * Veterans: 13  
 * Caregivers: 0  
 * Dependents: 0  
-* Total: 0  
+* Total: 13  
 * Ideal completed sessions: 9 Total (4 Desktop + 5 Mobile)
 
 ### **Recruitment approach**
