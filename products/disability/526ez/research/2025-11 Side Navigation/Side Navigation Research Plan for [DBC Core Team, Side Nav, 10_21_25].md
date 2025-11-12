@@ -275,12 +275,12 @@ We want to use Perigean to recruit 13 participants for a total of 10 completed s
 
 ### **Recruitment criteria**
 
-All participants should be:
+`All participants should be:`
 
 * Veterans  
 * Able to participate in a Zoom meeting and share their screen through their phone or a computer.
 
-Primary criteria
+`Primary criteria`
 
 * At least 5 participants should participate from a smart phone  
 * At least 3 participants should participate from a desktop or laptop computer  
@@ -289,7 +289,8 @@ Primary criteria
 * At least 3 users aged 55+  
 * At least 2 participants have applied for disability benefits through the online form within the last 2 years  
 * At least 2 participants have applied for disability benefits, through a paper form or VSO within the last 2 years. 
-Secondary criteria (nice-to-haves)
+
+`Secondary criteria (nice-to-haves)`
 
 * At least 3 must identify as a race or ethnicity other than white  
 * 4 or more participants should identify as a gender other than male  
@@ -298,7 +299,7 @@ Secondary criteria (nice-to-haves)
 * 1 or more / with no degree  
 * 1 or more / LGBTQ+
 
-Screener Questions
+`Screener Questions`
 
 1. How will you join the Zoom meeting for your research session?  
    * Desktop/laptop *(qualify for desktop)*  
@@ -320,7 +321,7 @@ Please submit artifacts for [Research Review](https://depo-platform-documentatio
 
 ### **Optional Kick-off Call with Perigean**
 
-* Suggested dates and times: [Nov. 21, Nov. 24]
+* Suggested dates and times: Nov. 21
 
 ### **Prepare**
 
