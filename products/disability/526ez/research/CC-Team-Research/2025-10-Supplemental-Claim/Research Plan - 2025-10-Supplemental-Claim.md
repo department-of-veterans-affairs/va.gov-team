@@ -84,7 +84,7 @@ recruitment:
 Response options: yes or no. (Answering yes would qualify the participant.)_
     - "At least 2 who have discharge other than honorable"
       -_e.g. For eligibility purposes, we’re including participants who were discharged from the military with an ‘Other Than Honorable’ characterization. Would you be comfortable sharing your discharge type?
-Response options: Yes — Other Than Honorable; No — different discharge type; Prefer not to answer. (Answer yes would qualify the participant.)_
+Response options: Yes — Other Than Honorable; No — different discharge type; Prefer not to answer. (Answering yes would qualify the participant.)_
     
   screener_questions:
     - question: "Have you filed a disability claim with VA in the last 15 years?"
