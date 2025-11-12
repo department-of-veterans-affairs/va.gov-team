@@ -45,7 +45,7 @@ Notetaker: Hieu Vo
 - Commented that in the UK, the banking system automatically checks your banking number as your type. So you know at least your information is correct as you go.
 
 **Fifth Task - Content Comprehension & Mental Model**
-- - Would work things in writing (instead of portal access) so they can take it to the providers or other conversations to get the right paperwork.
+- Would work things in writing (instead of portal access) so they can take it to the providers or other conversations to get the right paperwork.
 - In UK, lots of Veterans has the national health service, so 90% of the medical service is taken care of. So there is no claim for the most part.
 - Wants a shortform flow for the FMP if they're already have certain things set up.
 - Hate duplicity, wants the system to provide all the information they'll need if they're going to call.
