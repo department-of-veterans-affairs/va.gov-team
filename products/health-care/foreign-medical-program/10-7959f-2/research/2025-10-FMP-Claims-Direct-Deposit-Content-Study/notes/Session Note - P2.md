@@ -30,5 +30,3 @@ Notetaker: [Insert Name Here]
 
 **Additional Notes**
 - Notes
-
-- - - 
