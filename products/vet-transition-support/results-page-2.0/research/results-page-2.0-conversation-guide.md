@@ -93,6 +93,7 @@ Before we start, I have a few things that I want to go over with you:
 > * Observation of process - Is it intuitive? Fast? Do they hesitate on any questions?
 
 ### Task 1: Use Discover Your Benefits Tool - Results Page (15 minutes)
+Shown via Codespaces
 
 * **Sorting (task)**
     * New options
@@ -123,7 +124,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ### Task 2 (15 minutes)
 
-* Show second prototype via feature flag
+* Show second prototype 
 * Same observations as first prototype
 
 * **Sorting (task)**
