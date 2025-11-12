@@ -78,7 +78,7 @@ How will this research advance your product to the next phase in the design proc
     - Sub-group 1b: Starts with prompt "Find where you would mark how you prefer a scheduler to contact you to schedule a medical appointment."
     - Sub-group 1c: Starts with prompt "Find where you would specify what day and times you prefer to have your medical appointments."
 
-- Group 2: Interview then MyVA landing page prototype interaction
+- Group 2: MyVA landing page prototype interactionthen Interview
     - Sub-group 1a: Starts with prompt "Find where you would select your preference for a male or female provider."
     - Sub-group 1b: Starts with prompt "Find where you would mark how you prefer a scheduler to contact you to schedule a medical appointment."
     - Sub-group 1c: Starts with prompt "Find where you would specify what day and times you prefer to have your medical appointments."
