@@ -299,7 +299,7 @@ We’ll recruit Veterans across the following categories:
 * Have previously filed an appeal to a disability decision  
 * Have experience helping other Veterans file disability claims (2) (haven’t necessarily filed a claim themselves)
 
-In terms of Veteran backgrounds, we’ll try for a balanced group across demographics. Because we’ll use Figma wireframes for testing, we will not recruit for AT users. We’ll aim to over-recruit for groups that were under-represented in our most recent study (See “2025-06 New/Increase Conditions” tab in the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)). 
+In terms of Veteran backgrounds, we’ll try for a balanced group across demographics. Because we’ll use Figma wireframes for testing, **we will not recruit for AT users**. We’ll aim to over-recruit for groups that were under-represented in our most recent study (See “2025-06 New/Increase Conditions” tab in the [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing)). 
 
 ## Recruitment criteria
 
