@@ -5,7 +5,7 @@ The new upload app images to app stores process has been streamlined to make the
 2. If the screen does not have a function built to access it in [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts), a function will need to be created for detox to locate the screen.
 3. When a PR is created and it detects changes to [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts), [screenshot_e2e.yml](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/workflows/screenshot_e2e.yml) will automatically run creating the screenshots.
 4. Once they are created, framed and updated, they will be copied to the folders where they are to go for the App stores.
-5. These will be committed to your PR so they me be reviewed.
+5. These will be committed to your PR so they may be reviewed.
 6. Once approved and merged, These screenshot updated will be pushed to the store on the next release of the app.
 
 ## Updating App Store Images
