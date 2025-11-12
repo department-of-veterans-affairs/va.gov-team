@@ -4,7 +4,7 @@ URLs relevant to UAE tools that we request/review Medallia feedback from.
 
 **Legend**
 - `Sub-URLS?` - Indicates whether or not we should receive feedback from all SUB-urls under the URL
-- `Auth or Public` - Indicates whether the user must be logged in (Auth) when viewing the page, or if it can be accessed by anyone (Public)
+- `Auth or Public` - Indicates whether the user must be logged in/authorized by LoROTA (Auth) when viewing the page, or if it can be accessed by anyone (Public)
 - `CSAT?` - Indicates whether the URL is included in the CSAT calculation in Domo (see [Domo dashboard](https://va-gov.domo.com/page/601491420?userId=917050460))
 
 ## Appointments
@@ -36,5 +36,10 @@ Data is sent **weekly on Monday**
 ## Patient check-in
 Data is sent **weekly on Monday** 
 
-| URL                                                                                         | Sub-URLs? | Auth or Public | CSAT? |
-|---------------------------------------------------------------------------------------------|-----------|----------------|-------|
+| URL                                                                              | Sub-URLs? | Auth or Public | CSAT? |
+|----------------------------------------------------------------------------------|-----------|----------------|-------|
+| va.gov/health-care/appointment-pre-check-in                                      | YES       | Auth           | YES   |
+| va.gov/health-care/appointment/check-in                                          | YES       | Auth           | YES   |
+| va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/  | No        | Public         | No    |
+
+
