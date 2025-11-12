@@ -22,16 +22,16 @@ flowchart TD
     ChildQ3 --> NextDep
     ChildQ1 -- "death" --> ChildQ4[Death details]
     ChildQ4 --> NextDep
-    ChildQ1 -- "adopted" --> ChildQ5[Adopted details]
-    ChildQ5 --> NextDep
     ChildQ1 -- "left school" --> ChildQ2a{disability}
     ChildQ2a -- "Yes" --> ChildQ2x[Still qualifies]
     ChildQ2x --> exit[Exit form]
     ChildQ1 -- "left household" --> ChildQ7{half financial support?}
     ChildQ7 -- "no" --> ChildQ7b[Left household details]
+    ChildQ7b --> NextDep
     ChildQ7 -- "yes" --> ChildQ7x[Still qualifies]
     ChildQ7x --> exit[Exit form]
-
+    ChildQ1 -- "adopted" --> ChildQ5x[Adopted details]
+    ChildQ5x --> exit
 
     DepType -- "Parent" --> ParentQ0{Reason to remove}
     ParentQ0 -- "Other" --> ParentQx[Use different form]
@@ -43,3 +43,5 @@ flowchart TD
     NextDep -- "All done" --> Done[Continue to next page]
   end
 ```
+
+updated: 11/12/2025
