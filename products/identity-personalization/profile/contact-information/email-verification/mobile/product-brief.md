@@ -24,7 +24,7 @@ The VA wants to ensure that important email communications reach Veterans on the
 
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs) - this needs to be updated
 
 * The total number of notifications that will alert Veterans to verify their email address on the mobile app.   
 * The total number of Veterans who verify the email address that is listed is accurate on the mobile app.  
