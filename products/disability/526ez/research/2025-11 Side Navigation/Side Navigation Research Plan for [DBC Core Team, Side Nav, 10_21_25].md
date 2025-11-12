@@ -30,7 +30,7 @@ On mobile devices, the side navigation component converts to an accordion that t
 
 In testing, this will be referred to as the Wave Concept.
 
-![][image1]    ![][image2]
+<img src="products/disability/526ez/research/2025-11 Side Navigation/images/Background_SideNav_Desktop.png" alt="Example" width="200"/>   ![][image2]
 
 *Screenshots of side navigation MVP design on desktop and mobile*
 
