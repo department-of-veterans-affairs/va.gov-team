@@ -1,4 +1,4 @@
-## P# 
+## P3 
 Notetaker: [Insert Name Here]
 
 **Introduction**
