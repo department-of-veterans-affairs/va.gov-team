@@ -2,13 +2,13 @@
 ## Confirm
 1. Inform the following people of a possible incident: 
 - Matt Reilly, Product Manager/Pension & Burial
-- Jacob Worrell, Product Manager/Dependents Management
+- Alan Werner, Product Manager/Dependents Management
 - Matt Knight, Engineering Lead
 - Anh Platt, Delivery Lead/Project Manager
 
 2. One of the following people, in order of preference
 - Sanja Bajovic, OCTO Product Owner
-- Ben Guhin Delphine, OCTO Design Lead
+- TBD, OCTO Design Lead
 
 3. Start the clock. Record the time an opening message in an appropriate incident log.
 4. Confirm if you have / do not have an incident. 
