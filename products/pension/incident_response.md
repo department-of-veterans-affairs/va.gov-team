@@ -94,5 +94,5 @@ Delivery Team
 |----- | -------- | ------------- | ----- |
 | Matt Knight| Engineering Lead (Coforma) | 607-216-8683 | matt.knight@coforma.io |
 | Matt Reilly | Pension and Burial Product Lead | 518-461-7458 | matt.reilly@adhocteam.us |
-| Jacob Worrell | Dependents Maangement Product Lead | To be added | jacob.worrell@adhocteam.us |
+| Alan Werner | Dependents Maangement Product Lead | To be added | alan.werner@adhocteam.us |
 | Anh Platt| Delivery Lead (Coforma) | 805-452-8014 | anh.platt@coforma.io |
