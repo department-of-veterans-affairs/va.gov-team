@@ -305,8 +305,6 @@ In terms of Veteran backgrounds, we’ll try for a balanced group across demogra
 
 ### Primary criteria (must-haves)
 
-Again, because we’ll use Figma wireframes for testing, **we will not recruit for AT users**.
-
 | Cohorts | Recruit \# |
 | :---- | :---- |
 | 1\) Have filed a disability claim within the last 15 years AND have never appealed a disability decision | 5 |
@@ -337,6 +335,9 @@ Age:
 
 - At least 4 who are 34 or younger  
 - At least 4 who are 55+
+
+AT user:
+- no AT users
 
 ### Secondary criteria (nice-to-haves)
 
@@ -371,7 +372,7 @@ Discharge:
 
 ### Optional Kick-off Call with Perigean
 
-- Suggested dates and times: TBD
+- Suggested dates and times: (ideally) Thurs., 11/13 (11:30a-3p est / 8:30a-12p pst; 4-5p est / 1-2p pst) or Fri., 11/14 (11a-1p est; 8a-10a pst)
 
 ### Prepare
 
