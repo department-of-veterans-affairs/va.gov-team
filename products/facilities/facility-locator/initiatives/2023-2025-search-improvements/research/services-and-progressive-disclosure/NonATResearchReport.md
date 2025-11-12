@@ -63,33 +63,43 @@ demographics:
     sighted_keyboard: X
     captions: X
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - 1. Most participants successfully located desired services using the service-type field.
+- 2. Task failure was often due to lack of visible system feedback that created false confidence and unnoticed selection errors.   
+- 3. Participants did not always notice that they could type and scroll in the service-type dropdown.   
+- 4. Some common search terms returned incomplete or unexpected results.  
+- 5. Most participants understood why the service type field was conditionally revealed and changed depending on facility type.   
+- 6. Veterans expressed strong trust in the facility locator and valued the ability to see & choose specific service types.
+
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Increase visibility into what the system is searching and what has been selected to prevent errors"
+  - "Improve content matching"
+  - "Provide helpful next steps when no results are found in the service-type dropdown"
+  - Clarify how to use the service-type field.
+  - Address mobile-specific usability barriers 
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Task success"
+  - "Efficiency"
+  - "Quality"
+  - "Conversion"
+    
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Help Veterans identify the services they need and find a facility that provides specified services within a given location"
+  business: "Reduce phone calls, increase knowedge of services, increase visits to correct facility type"
 opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "Understanding what services VA offers"
+  - "VA Staff usage of this tool"
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "User mental model"
+  - "Taxonomy coverage"
+  - "Evaluate map interactions"
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "AT users"
+
 secondary_research:
   - "Web analytics"
-  - "SME interviews"
 synthesis_tools_used:
   - "Mural"
-  - "Affinity Mapping"
+  - "Excel"
 ---
 
 ---
