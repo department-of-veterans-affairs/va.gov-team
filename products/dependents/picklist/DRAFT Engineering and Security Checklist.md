@@ -22,7 +22,7 @@
       - To support the picklist flow, a custom routing system was developed:    
         -  Review of the built-in form system routing reveals that it would allow the addition of a single follow up page.    
         - The array builder list loop could have worked, but doesn't allow for a custom summary page. It also would force Veterans to "edit" each pre-populated dependent   
-        - - The custom routing system:      
+        - The custom routing system:      
           - Uses a single CustomPage and URL search parameters to determine which page to display.      
           - It steps through all the unique follow up pages for each selected dependent.      
           - Once all dependent follow up questions have been answered, the Veteran is directed to the review & submit page.  
@@ -127,7 +127,7 @@
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
 
 - Please describe what problem this product or feature solves.
-  - `@AlanWerner`
+  - In cases where a Veteran has an existing dependent currently on their disability award and wants to remove them from their benefit, they will no longer be required to fill out the dependent personal information, and instead can choose the dependent from a "picklist" for removal. This will alleviate issues where a Veteran may submit incorrect dependent personal information, and thereby reduce the likelihood of triggering a manual review.
 
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
