@@ -142,7 +142,7 @@ The following product or feature descriptions may be answered with a reference l
   - Links to dashboards that help identify and debug application issues
     - https://vagov.ddog-gov.com/dashboard/txg-mfx-xha/benefits-dependents-686674-v2?fromUser=false&refresh_mode=paused&from_ts=1762446627286&to_ts=1762448427286&live=false
 - Provide your Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/picklist/picklist-release-plan.md
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/686c-674_V3_Picklist_Release_Plan.md
 
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
   - No.  There are no new endpoints.
