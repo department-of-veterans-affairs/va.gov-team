@@ -496,7 +496,7 @@ This research does not include the perspectives of the following marginalized Ve
 #### A more accessible version of the table in the above image
 
 ### Recruitment of underserved groups in this study
-
+---
 _*| Group/Type                                                                                                             | Category    | %      | Count | Col5 | Col6 | Col7 | Col8 | Col9 | Col10 | Col11 | Col12 | Col13 | Col14 | Col15 |*  
 *|------------------------------------------------------------------------------------------------------------------------|-------------|--------|-------|------|------|------|------|------|-------|-------|-------|-------|-------|-------|*  
 *| All participants                                                                                                      | Total       | n/a    | n/a   | 8    | n/a  | n/a  | n/a  | n/a  | n/a   | n/a   | n/a   | n/a   | n/a   | n/a   |*  
@@ -532,3 +532,4 @@ _*| Group/Type                                                                  
 *| Captions                                                                                                              | AT          | n/a    | 1     | 0    | no   | 0    | 0    | 0    | 0     | 0     | 0     | 0     | 0     |       |*  
 *| Switch Device                                                                                                         | AT          | n/a    | 1     | 0    | no   | 0    | 0    | 0    | 0     | 0     | 0     | 0     | 0     |       |*  
 *| Braille Reader                                                                                                        | AT          | n/a    | 1     | 0    | no   | 0    | 0    | 0    | 0     | 0     | 0     | 0     | 0     |       |*
+---
