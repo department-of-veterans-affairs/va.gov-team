@@ -41,7 +41,7 @@
 ## Team Calendar And Communication Groups
 - [Team Google Calendar](https://calendar.google.com/calendar/embed?src=c_120280dbf3b8ebf243e62538c49795f57cc5bcaadea1832d56c5125f63fcb0b9%40group.calendar.google.com&ctz=America%2FNew_York)
 - Email Distribution List -[VA Travel Pay Team](mailto:@va-btsss-team@adhocteam.us)
-- Office of CTO @ VA Slack Group
+- Office of CTO @ VA Slack Groups
 
     | Channel | Use | 
     |---|---|
