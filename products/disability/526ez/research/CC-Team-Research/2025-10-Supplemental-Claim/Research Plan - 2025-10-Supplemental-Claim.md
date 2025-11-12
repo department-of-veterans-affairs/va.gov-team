@@ -341,12 +341,14 @@ Age:
 LGBTQ+:
 
 - At least 2 who identify as Gay, lesbian, or bisexual, Transgender, Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman
-  - _e.g. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve. Response options: yes or no. (Answering yes would qualify the participant.)_
+  - _e.g. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve._
+  - _Response options: yes or no. (Answering yes would qualify the participant.)_
 
 Discharge:
 
 - At least 2 who have discharge other than honorable
-  - _e.g. For eligibility purposes, we’re including participants who were discharged from the military with an ‘Other Than Honorable’ characterization. Would you be comfortable sharing your discharge type? Response options: Yes — Other Than Honorable; No — different discharge type; Prefer not to answer. (Answering yes would qualify the participant.)_
+  - _e.g. For eligibility purposes, we’re including participants who were discharged from the military with an ‘Other Than Honorable’ characterization. Would you be comfortable sharing your discharge type?_
+  - _Response options: Yes — Other Than Honorable; No — different discharge type; Prefer not to answer. (Answering yes would qualify the participant.)_
 
 ### Screener questions for Cohorts
 
