@@ -177,7 +177,7 @@ We’re going to show you two prototypes for designs that we’re working on.
 
 I’m going to put a link to the prototype in the Zoom chat. You can navigate to open that link. Once you have that open, please share your screen so we can see what you’re doing.
 
-* Wait for screen sharing to work.  
+* Wait for screen sharing to work. If needed, refer to [mobile tech assistance guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions).
 
 For this scenario, imagine that you have a few different health conditions that you want disability benefits for, and you’ve come to the VA website today to apply. As you click through this prototype, you’ll notice there’s dummy data in here for an imaginary Veteran. This imaginary Veteran is already receiving disability benefits for a few conditions. Their data doesn’t match yours, but I’d like you to imagine that you really are this person and tell us what you would do as if this were your real situation.
 
