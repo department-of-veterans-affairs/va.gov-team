@@ -63,13 +63,12 @@ demographics:
     sighted_keyboard: X
     captions: X
 key_findings:
-  - 1. Most participants successfully located desired services using the service-type field.
-- 2. Task failure was often due to lack of visible system feedback that created false confidence and unnoticed selection errors.   
-- 3. Participants did not always notice that they could type and scroll in the service-type dropdown.   
-- 4. Some common search terms returned incomplete or unexpected results.  
-- 5. Most participants understood why the service type field was conditionally revealed and changed depending on facility type.   
-- 6. Veterans expressed strong trust in the facility locator and valued the ability to see & choose specific service types.
-
+  - "1. Most participants successfully located desired services using the service-type field."
+  - "2. Task failure was often due to lack of visible system feedback that created false confidence and unnoticed selection errors."
+  - "3. Participants did not always notice that they could type and scroll in the service-type dropdown."
+  - "4. Some common search terms returned incomplete or unexpected results.  "
+  - "5. Most participants understood why the service type field was conditionally revealed and changed depending on facility type. "
+  - "6. Veterans expressed strong trust in the facility locator and valued the ability to see & choose specific service types."
 recommendations:
   - "Increase visibility into what the system is searching and what has been selected to prevent errors"
   - "Improve content matching"
