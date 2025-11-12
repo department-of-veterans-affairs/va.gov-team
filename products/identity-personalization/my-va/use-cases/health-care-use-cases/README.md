@@ -20,7 +20,7 @@
 ## Phase 1, 3.0 Experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
-- Users only see this content if they are defined as health care users, and have a health care facility associated with them. Which means, the facilities attribute in `user` state is greater than 0.
+- Users only see appointment and messages content if they are defined as health care users, and have a health care facility associated with them. Which means, the facilities attribute in `user` state is greater than 0.
 
 ## Common use cases
 
@@ -52,7 +52,7 @@
 
 <details><summary>User has upcoming appointments</summary>
 
-- **Use case:** If a user has a confirmed upcoming appointment, they will see **up to** two cards in this section that tells them the date, time, and location of the appointment, as well as a link to the online scheduling tool.
+- **Use case:** If a user has a confirmed upcoming appointment, they will see **up to** two cards in this section that tells them the date, time, and location of the appointment, as well as a link to the details of the appointment. A link to manage all appointments always shows.
 - **Status code:** 200
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5022-17383&t=cZLTEcVoQuXx90AV-1)
