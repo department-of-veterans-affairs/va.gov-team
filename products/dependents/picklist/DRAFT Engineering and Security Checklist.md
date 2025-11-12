@@ -191,6 +191,7 @@ Please provide the following documentation as attachments.
 - Product Specifics:  @AlanWerner
   - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
   - A link to the Product Outline
+    - [Product Outline: 21-686c (Application Request to Add and/or Remove Dependents) and 21-674 (Request for Approval of School Attendance)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
   - Ensure Product Outline contains Incident Response info, including:
     - Points of contact for your system and dependent VA back-ends
     - Links to dashboards that help identify and debug application issues
