@@ -1,6 +1,6 @@
 # Email Verification (mobile) Product Brief
 
-## Overview
+## Overview 
 
 To create a [VA.gov](http://VA.gov) account, Veterans must first enter an email address and verify their identity. Their email address is necessary if they log in to their account through [ID.me](http://ID.me) or [Login.gov](http://Login.gov). The email address that a Veteran uses to set up their account is then used for important communications from the VA. 
 
@@ -10,7 +10,7 @@ As of July 2025, the Authenticated Experience team is working to implement an em
 
 ## Problem Statement
 
-The VA wants to ensure that important email communications reach Veterans on the mobile app. How might we ensure that the email address a Veteran actively uses is the email address on file within the mobile app and that Veterans are aware of which email address is receiving VA communications from the VAHB app?  
+The VA wants to ensure that important email communications reach Veterans from the mobile app. How might we ensure that the email address a Veteran actively uses is the email address on file within the mobile app and that Veterans are aware of which email address is receiving VA communications from the VAHB app?  
 
 ## Desired User Outcomes
 
@@ -45,6 +45,7 @@ The VA wants to ensure that important email communications reach Veterans on the
 * The email confirmation enrty point include:
   * Initial Launch (TBD on release, but Authenticated Experience is aiming for FY26Q1)
   * Annual reminder (this annual reminder is sent a year from when the user verified their email)
+    * The Authenticated Experience team notes that the team is holding on the annual reminder until post launch.
   * When a user adds a new contact email
 * The VA Mobile App team is currently working on an initiative that prompts the Veteran to update or add an email in their profile for Veterans who haven't updated or confirmed their email since March 1, 2025. The MHV email confirmation is planned to be removed by the end of the year (2025), but the timeline could be impacted by the shutdown.
 * Figma [file](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-22740&t=xAGgVx41WfMhNxVP-0) for VA.gov email confirmation flow. 
@@ -67,13 +68,14 @@ The VA wants to ensure that important email communications reach Veterans on the
   * Resend contact email confirmation link
   * Temporary email send failure
   * Permanent email send failure
-  * Email confirmation link resent
+  * Email confirmation link resent - **Noting that during Midpoint Review this is now appears in a modal** 
 * VAHB will utilize the same emails that the Authenticated Experience team creates. These include emails for user updates or adds a contact email address:
   * Confirm your email address
   * Email address confirmed
   * Contact email changed, no confirmation required
 * VAHB will utilize the same emails that the Authenticated Experience team creates. This includes the initial launch and annual reminder
   * Confirm your email address (initial launch)
+  * Email address confirmed (initial launch)
 * VAHB will direct users to the shared landing pages that are being built by the Authenticated Experience team. A user will get an email with a link, if they clink on the link from their email on their mobile device then it would take them to a landing page on VA.gov using their default browser. These landing pages include: 
   * Email confirmation success page
   * Email confirmation expired linking page
