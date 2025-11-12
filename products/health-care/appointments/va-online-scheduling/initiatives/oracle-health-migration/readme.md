@@ -12,11 +12,12 @@
 | Cancellation          | :white_check_mark: Build cancellation                               | Done                | Done |
 | Cancellation          | Test cancellation                                | Dec 2025            | Waiting on B1930 refresh                 |
 | Cancellation          | Release cancellation                             | Dec/Jan 2025        |                                          |
-| Requests              | :white_check_mark: Build appointment requests                       | Done                | Should be complete, pending testing      |
-| Requests              | Test appointment requests                        | Feb 2026                    | Waiting on B1930 refresh                 |
-| Scheduling            | Finish building scheduling                       | Feb 2026                    |                                          |
-| Scheduling            | Test scheduling                                  | Feb 2026                    |                                          |
-| MVP                   | **Staging review: OH Scheduling**                | Feb 2026            |                                          |
+| MVP              | :white_check_mark: Build appointment requests                       | Done                | Should be complete, pending testing      |
+| MVP            | Finish building scheduling                       | Mar 2026                    |                                          |
+
+| MVP              | Test appointment requests                        | Mar 2026                    | Waiting on B1930 refresh                 |
+| MVP            | Test scheduling                                  | Marh 2026                    |                                          |
+| MVP                   | **Staging review: OH Scheduling**                | Mar 2026            |                                          |
 | MVP                   | **Release food and nutrition scheduling & requests** |March 2026                    |                                          |
 | MVP                   | Complete UAT                                     |March 2026                     |                                          |
 | MVP                   | Release all scheduling & requests except MH & PC |April 2026                    |                                          |
