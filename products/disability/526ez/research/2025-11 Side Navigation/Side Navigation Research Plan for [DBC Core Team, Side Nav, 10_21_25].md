@@ -30,9 +30,9 @@ On mobile devices, the side navigation component converts to an accordion that t
 
 In testing, this will be referred to as the Wave Concept.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Background_SideNav_Desktop.png" alt="Example" style="border: 1px solid #ccc; max-width: 700px;">   ![][image2]
-
-*Screenshots of side navigation MVP design on desktop and mobile*
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Background_New_Desktop_Sidenav.png" alt="Example" style="width: 60%;">   
+*Screenshots of side navigation MVP design on desktop*
+*Screenshots of side navigation MVP design on mobile*
 
 ### Modified Process List V2 (Cloud Concept) 
 After implementing the side navigation component, we will pursue a Version 2 design that visually presents as a process list. This component includes features and treatment styles that more strongly differentiate between the steps that have been completed, the step the user is currently on, and the steps they have yet to complete. 
