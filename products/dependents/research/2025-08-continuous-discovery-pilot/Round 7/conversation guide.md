@@ -102,12 +102,20 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 3. Do you have anything else you want to add?
        
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Keep or add back a dependent - X minutes
 
 - Now let's take a look at the prototype. We don't put any of your personal information in the prototype so the Veteran name you'll see in the prototype is Jordan Pierce.
 - You receive disability compensation benefits and added your two children as dependents. Your daughter Kira is a sophmore in high school. Your son Kai is a freshman at the United States Military Academy.
 - When your disability check came a few months ago you noticed that the amount was less than normal. You called VA and learned that Kai was removed as your dependent on his 18th birthday. They told you that you can re-add him as a dependent if he is a student and you can fill out the paperwork online.
 - So you log into VA.gov and this is what you see *link here* What would you do next?
+
+- Screen: Add or remove dependents: What would you like to do? Check everything that you want to do.
+     - What would you select here?
+   
+     - What are you thinking when you look at this page?
+     - Do you have any questions? Is there any additional information that you need? Is there any information on the page that you think is unnecessary?
+     - What would you do next?
+  
 
 > [!NOTE]
 > ### Things to watch for:
@@ -116,7 +124,19 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 > - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Select which eligible children through accreditation - X minutes
+
+- You may notice we've jumped to Step 3. Step 1 and 2 are the dependent's address and any previous marriages. We're skipping those for the sake of time today.
+
+- 
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of xyz?]
+> - [Does the participant notice xyz?]
+> - [Etc]
+
+## Third Task: Terms and school attendance - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -127,7 +147,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Fourth Task: Income and expenses - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
