@@ -1,15 +1,17 @@
 
 # Product Outline - Self-Service Authentication
----
+
+**Team**: Accredited Representative Crew
+
+Product URL: [VA Accredited Representative Portal](https://www.va.gov/representative)
 
 ## Overview
-Accredited Representatives will need to access the Accredited Representative Portal, with minimal to no account management from the Accredited Rep Facing team. We initially piloted the portal based of a set list of emails. We are iterating to use OGC's database using the ICN API. That way any accredited representative would have access to the portal. We would leverage Login.gov and ID.me as our single sign on authentication.
+Allowing users to authenticate into the Accredited Representative Portal using Login.gov or ID.me authentication services.
 
 ## Problem Statement
 We need a way to provide portal access to accredited representatives. Our current method is maintaining a list of email addresses:
 - email maintenance can be a lot of work
 - the list could get outdated, which could lead to unauthorized access 
-
 
 ## Desired User Outcomes
 
