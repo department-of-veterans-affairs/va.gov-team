@@ -245,7 +245,7 @@ health?
 button to schedule**
 
 **Follow-up After Task Completion:**
-While on the sub-tpye page:
+While on the sub-type page:
   - What do you think about how these mental health appointments are organized?
   - How do the descriptions provided compare to what you expected to be included
 in mental health?
