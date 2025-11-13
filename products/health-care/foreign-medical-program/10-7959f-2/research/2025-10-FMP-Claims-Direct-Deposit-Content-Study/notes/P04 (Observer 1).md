@@ -1,6 +1,3 @@
-## P4
-Observer: Tamika
-
 **Introduction**
 - Notes
 
@@ -51,4 +48,4 @@ Observer: Tamika
 	• P4 seemed less confident about the FSC Vendor File Form, as well as what a VA PIV is
 	• P4 seemed mostly confident reaching out by phone to follow up on claims or get further instructions from VA on how to navigate forms
 	• P4 felt a status page and confirmation of where payment is going - by routing number, last 4 of account number, etc. - would be helpful
-  • P4 felt that a phone call from VA would be faster and more effective than sending an email or mailing a letter if there's an issue with the claim<img width="1102" height="1830" alt="image" src="https://github.com/user-attachments/assets/f4bf3675-1d13-4676-91ab-774f3148bee8" />
+  • P4 felt that a phone call from VA would be faster and more effective than sending an email or mailing a letter if there's an issue with the claim
