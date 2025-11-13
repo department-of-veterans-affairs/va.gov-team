@@ -75,6 +75,9 @@ If yes: Once I start recording, I am going to confirm that I have your permissio
 Before we look at the form, let’s start with a couple of background questions.
 
 * What type of device are you using to access our research session today?
+   * Would you use this device when filling out a form on VA.gov?
+   * [Probe mobile, desktop, laptop, tablet]
+   * In what orientation? (landscape vs. vertical)
 * What types of VA benefits have you applied for before?
 * When you applied for VA benefits, did you keep a copy of the information you submitted in your application(s)?
     - [IF YES] What was your reason behind this decision?
@@ -114,16 +117,16 @@ Feel free to take a minute to hide anything, like your personal email or anythin
 Once you open the link, please share your screen. Please do not click on anything at the moment!
 Awesome! Now that I can see your screen.
 
-## Setting up context - 2 minutes
+## Setting up context and Scenario Orange - 12 minutes
 ```
 The participant will encounter the prototypes in the following order:
-- Scenario 1: BID Maximal 
-- Scenario 2: VADS Minimal
-- Scenario 3: VADS Minimal + "a la carte" features
+- Scenario Orange: BID Maximal 
+- Scenario Lemon: VADS Minimal
+- Scenario Apple: VADS Minimal + "a la carte" features
 ```
 For the remainder of the session, I'd like you to imagine that you are a Veteran named Jamie Smith Brooks. (Just to clarify, Jamie isn't a real person, we are using a demo account.) Earlier this week, you spent time on VA.gov filling out the VA form 21-686c to add dependents to your VA benefits. However, you got interrupted so you were logged out right before hitting the submit button. Now you are interested in actually submitting your form.
 
-* **Please click on Scenario 1**
+* **Please click on 'Enter Orange'**
 
 Imagine that you just signed back into VA.gov and have navigated to the manage dependents page where you have filled out the online form to add or remove dependents. 
 
@@ -144,13 +147,7 @@ We'll be mostly focusing on the content that follows. Before we proceed, do you 
 
 [Answer any questions to help clarify the context and set the scene.]
 
-Before we dive into this page, I have a few questions for you:
-
-* In this scenario, what type of device would you be using?
-    * [Probe mobile, desktop, laptop, tablet]
-    * In what orientation? (landscape vs. vertical)
-
-Thanks for that! Go ahead and do a quick scan of the page, but please do not click on anything - 
+Go ahead and do a quick scan of the page, but please do not click on anything - 
 
 * If you were in Jamie's situation, someone who just submitted their application to add dependents to their VA benefits, what would you do first on this page? 
 * Without doing so yet, what do you think will happen if you click the link that says "Information you submitted on this form"?
@@ -169,15 +166,22 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
 * After leaving this page, are there scenarios in which you would want to retrieve what you see here?
     * When and how would you use this information?
     * How do you expect to retrieve this information?
-        * [Probe for MyVA, email, etc.]
+        * [Probe for MyVA, email, etc. but don't go too deeply]
 
-## Scenario 1 (BID Maximal): Form viewer content and layout - 10 minutes
 Now, we'd like your feedback on how the information is displayed on this page. 
-* Is the general layout understandable?
-    * [Probe] What do you think about the:
-        * sections and subsections
-        * headings
-        * two column layout
+* What are your initial thoughts on this page?
+   * [Probe] What do you think about the:
+      * sections and subsections
+         * How do you feel about the section numbering?
+         * Is there anything you'd change to improve it?
+         * Is it useful for you? How would you use it?
+      * How do you feel about the question numbering?
+         * Is there anything you'd change to improve it?
+         * Is it useful for you? How would you use it?
+      * headings
+      * two column layout
+   * Can you easily distinguish one section from another? How?
+      * [Probe about visual elements like divider, typography, spacing]
 * Is there information that's missing that you'd like to see?
     * Is there information that should be emphasized?
     * Is there too much information? What would you like to remove or de-emphasize?
@@ -193,21 +197,7 @@ Now, we'd like your feedback on how the information is displayed on this page.
 ### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim?
 [Answer: "other_evidence", "disability_evidence", "adoption_papers"]
 
-* Please explain how you found the filenames? 
-    * What was your thought process?
-    * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
-
-### Numbering
-* How do you feel about the section numbering?
-    * Is there anything you'd change to improve it?
-    * Is it useful for you? How would you use it?
-* How do you feel about the question numbering?
-    * Is there anything you'd change to improve it?
-    * Is it useful for you? How would you use it?
-
-### Typography and hierarchy of information
-* Can you easily distinguish one section from another? How?
-    * [Probe about visual elements like divider, typography, spacing]
+* How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
 ### Optional/skipped questions
 Thank you for answering our questions so far. I'd like us to look at a specific section on this page. Could you scroll to **Section 4: Remove a divorced spouse?** 
@@ -223,7 +213,7 @@ Thanks for that answer!  This section is optional and not required to be filled 
 ## Scenario 2 (VADS Minimal): Form viewer content and layout - 5 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen]
 
-Now we're going to show you a variation of what you've seen so far. Please click on Scenario 2. Please go ahead and take a moment to review the page. 
+Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Lemon'. Please go ahead and take a moment to review the page. 
 
 * What are your initial impressions?
 
@@ -239,7 +229,7 @@ Now we're going to show you a variation of what you've seen so far. Please click
 ### TASK: Where does it show that Jamie has certified the accuracy of their information on the form they just submitted?
 * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
-### Exploring the differences between Scenario 1 and Scenario 2
+### Exploring the differences between Orange and Lemon
 
 * Now that you had a chance to interact with this version of the page, what are the major differences between what you see here and the demo page you looked at earlier?
     * Which text styling do you prefer? Why?
@@ -256,11 +246,11 @@ Now we're going to show you a variation of what you've seen so far. Please click
     * [Probe about visual elements like divider, typography, spacing]
 * How do you feel about the sections not being numbered? Why?
 
-## Scenario 1 vs. Scenario 2 comparison conclusion - 2 minutes
+## Orange vs. Lemon comparison conclusion - 2 minutes
 * Out of the two concept variations we showed you so far, which do you prefer? Why?
 * What factor is most important to help you accomplish your intended purpose for page like this? [Reference previously-mentioned goals]
 
-## Scenario 3 (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
+## Scenario Apple (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
 Now I'd like us to shift gears again, and I'd like your opinion on an interactive version of what you've seen so far with us today. Please click on Scenario 3. 
 
 The form output content remains the same as what we've just reviewed, but now there are a bit more features that are on the page. Let's go through each of the additional features one-by-one:
@@ -293,7 +283,7 @@ If you may scroll to the top of the page please. Now I want you to look at the b
 
 * What would you expect happens when you click on one of these links?
 
-**TASK: Please navigate to the information that states Anna Celeste Brooks' date of birth.**  
+**TASK: Please navigate to the date of birth for Jamie's child dependent Anna Celeste Brooks'.**  
 [Answer: 7/29/2015]
 
 * [If they used the link] How was the experience using the link?
@@ -338,7 +328,7 @@ Now, if you look at the bottom right hand corner of the page, you'll see "back t
 ## Thank-You and Closing - 5 minutes
 Thank you! These are all the questions that we have for you today.
 
-**Before we end, I'd like to ask if we can have your permission to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
+**Before we end, I'd like to ask if we can have your permission to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time.
 
 * **Knowing this, do I have your permission if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
 [Record answer here]
