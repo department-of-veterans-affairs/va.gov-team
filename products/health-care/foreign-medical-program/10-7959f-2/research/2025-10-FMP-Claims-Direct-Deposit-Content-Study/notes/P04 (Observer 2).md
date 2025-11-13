@@ -5,7 +5,7 @@ Notetaker: [Jessica]
 
 **Introduction**
 - Yes confirm recording
-- Yes confirm clip
+- Yes confirm clip recording to share is okay
 
 
 **Warm-up Questions**
