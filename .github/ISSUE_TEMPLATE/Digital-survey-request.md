@@ -3,7 +3,7 @@ name: Digital Survey Request
 about: Issue template to request updates to existing digital surveys
 title: Digital Survey Request
 labels: cc-survey-request, vsp-contact-center, medallia
-assignees: atmiddleton, aubreyarcangel
+assignees: atmiddleton, aubreyarcangel, ryan-powers-va
 
 ---
 
