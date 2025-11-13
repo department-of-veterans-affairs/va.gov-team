@@ -1,6 +1,103 @@
 # Running Design and Research Agenda
 
 
+
+
+
+## November 13, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda 
+
+### Agenda: 
+	•	UX roadmap / FMP claims study updates
+	•	School cert
+	•	DTA
+	•	Tricare work
+
+
+### Notes: 
+
+Go over roadmap NOW column by form
+
+
+#### School Certs: 
+
+Verification Process graphic shared in Mural 
+
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1761320853050/2de68dc4ec01b871cab450de6bf79aaf143b5725
+
+Education benefit flow
+
+Flow of a student to VA to School loop of how the decision letter and cert journey
+Questions noted; can’t get ahold of anyone for confirmation yet 
+
+
+
+Comparing against 10-10d CHAMPVA flow version
+- The student is forced to go to school first, before going through the application
+- Form asks for proof of enrollment and has to request letter before continuing 
+- can’t get quick, issue brought up in past studies
+- Paper form notes that it needs more information, slightly different 
+- The student/applicant is on them to get this information
+
+
+On education flow, get decision letter then school will aid you in the ongoing certification 
+
+User burden for documentation from past July study — school certs
+New to require enrollment at time of submitting app
+This could stop people in their tracks if they have school aged children 
+Mental model of comparing processes and benefits across the VA
+
+**Next steps:**
+- pause UX work while Amanda and Premal have policy convos 
+
+
+
+
+#### Duty to Assist
+
+- Suggested sub-flow within the enhanced claims
+
+https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?t=7c0zuIB8dsUWRsh8-0
+
+
+- Showing new flow that happens during resubmission flow after letter upload
+- Borrowed content and additional info components similar to 526 team
+- Provider information screen - brought back from an earlier version based on duty to assist team convos
+- Provider contact info and additional comments screen added in
+- Optional detail and upload pages
+- Can customize some areas of the confirmation page - if you did this… additional information 
+- flow works best for dental and catch all EOBs missing
+
+
+**Next steps:**
+- show to DTA and needed business stakeholders
+- concern of needing to confirm this much information is really needed and if some of the pages could be removed
+
+
+#### Tri Care Eligibility 
+- Outstanding questions to forward
+- Eligibility to Tricare shifting statuses are applicable to CHAMPVA
+
+Next steps ideas proposed by Renata: 
+- Design system has pattern, would like tested by users. 
+- Content could also benefit from testing. 
+- Recommend testing some of the mocks and hybrid approaches 
+
+Premal : fear don’t have a working API, don’t go through this if can’t do it. Prioiritzation question of which order.
+
+- Could test pattern with no API version integrated 
+- could test both, not sure of that status or timeline for API 
+
+**Next steps:**
+- move forward with mocks and design system pattern, test both options
+
+
+
+
+
+
+
 ## October 30, 2025
 
 Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda 
