@@ -350,8 +350,8 @@ LGBTQ+:
 Discharge:
 
 - At least 2 who have discharge other than honorable
-  - _e.g. For eligibility purposes, we’re including participants who were discharged from the military with an ‘Other Than Honorable’ characterization. Would you be comfortable sharing your discharge type?_
-  - _Response options: Yes — Other Than Honorable; No — different discharge type; Prefer not to answer. (Answering yes would qualify the participant.)_
+  - _e.g. What type of discharge did you receive from the military? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve._
+  - _Response options: Honorable discharge; Other type of discharge (such as General, Other than Honorable, BCD, or Dishonorable); Not sure or Decline to state. (Answering 'Other type of discharge' would qualify the participant.)_
 
 ### Screener questions for Cohorts
 
