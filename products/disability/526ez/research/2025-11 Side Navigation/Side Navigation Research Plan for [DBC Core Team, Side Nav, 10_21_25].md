@@ -1,12 +1,3 @@
----
-# Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
-product_area: "[e.g., authenticated/unauthenticated]"
-
 # Side Navigation Research Plan \[WIP\]
 
 DBC Core Team, Side Navigation, 10/21/25  
