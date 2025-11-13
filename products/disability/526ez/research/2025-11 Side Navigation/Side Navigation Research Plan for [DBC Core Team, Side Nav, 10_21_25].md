@@ -1,6 +1,6 @@
 # Side Navigation Research Plan [WIP]
 
-DBC Core Team, Side Navigation, 10/21/25  
+DBC Core Team, Side Navigation, 11/13/25  
 Irene Vailikit, Bianca Rivera Alvelo, Fiorella Geedi
 
 ## **Background 🏗️**
