@@ -1,6 +1,6 @@
 # My VA: Health care use cases
 
-**Last updated: May 2025**
+**Last updated: November 2025**
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746474542228/c397457f63aa34d09dee9f34d785af90cd3b8b96?wid=36-1746474575795&outline=open)
 - [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5353-14055&t=hwoiHCaMFjyRAOid-1)
@@ -106,9 +106,7 @@ There are no flags with this feature.
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5333-17024&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
-- **Content:** 
-
-We can’t show your health care information right now. Refresh this page or try again later.
+- **Content:** See designs 
 
 </details>
 
@@ -120,9 +118,7 @@ We can’t show your health care information right now. Refresh this page or try
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5362-14384&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
-- **Content:**
-
-We can’t show your appointments right now. Refresh this page or try again later.
+- **Content:** See designs 
 
 </details>
 
@@ -134,9 +130,7 @@ We can’t show your appointments right now. Refresh this page or try again late
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14001&t=aKgIoEodncS5nQS1-1)
 - [Link to code]
-- **Content:**
-
-We can't show your messages right now. Refresh this page or try again later.
+- **Content:** See designs 
 
 </details>
 
