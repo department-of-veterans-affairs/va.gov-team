@@ -130,7 +130,7 @@ New team setup (including Atlas presence) | https://github.com/department-of-vet
 9. Review October metrics
 
 ## Sprint 2 Delivery
-- [ ] Sprint Delivery Approved by Enablement
+- [X] Sprint Delivery Approved by Enablement - Jen Bertsch on November 6, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1762460348741159?thread_ts=1762457127.570759&cid=C06GE5N7QJ0))
 
 **Planned for Sprint 2**: 42 tickets, 130 points + 1 spike \
 **Added as a Sprint 2 stretch goal**: 8 tickets, 14 points 
