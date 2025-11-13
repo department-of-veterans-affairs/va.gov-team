@@ -14,6 +14,7 @@ Datadog is enough. We don't need GA
 ## What Datadog Tracks
 
 ### Backend Tracking
+Type 1 and Type 2 Errors are both currently captured in the [[CST] Zero Silent Failures: Document Uploads](https://vagov.ddog-gov.com/dashboard/pps-nf7-ppr/cst-zero-silent-failures-document-uploads) Datadog dashboard.
 
 **1. Rails Logs**  
 File: `vets-api/lib/lighthouse/benefits_documents/service.rb:88-91`
