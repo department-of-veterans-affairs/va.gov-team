@@ -52,7 +52,8 @@ We are introducing a new feature into an already existing product that Veterans 
 
 ### Product Brief
 
-[Link to initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
+[Super Epic: Reduce the burden of navigating through the disability form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
+[Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
 
 ### [**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
@@ -263,15 +264,15 @@ Note
 
 Your total number should equal 1.5x your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-* Veterans: 13  
+* Veterans: 12  
 * Caregivers: 0  
 * Dependents: 0  
-* Total: 13  
-* Ideal completed sessions: 9 Total (4 Desktop + 5 Mobile)
+* Total: 12  
+* Ideal completed sessions: 8 Total (4 Desktop + 4 Mobile)
 
 ### **Recruitment approach**
 
-We want to use Perigean to recruit 13 participants for a total of 10 completed sessions. Ideally, 5 participants will join via mobile. 
+We want to use Perigean to recruit 12 participants for a total of 8 completed sessions. Ideally, 4 participants will join via mobile. 
 
 ### **Recruitment criteria**
 
@@ -282,7 +283,7 @@ We want to use Perigean to recruit 13 participants for a total of 10 completed s
 
 `Primary criteria`
 
-* At least 5 participants should participate from a smart phone  
+* At least 4 participants should participate from a smart phone  
 * At least 3 participants should participate from a desktop or laptop computer  
 * At least 3 participants without a college degree.  
 * At least 3 participants should identify as having a cognitive disability  
@@ -333,18 +334,18 @@ Note
 
 Send pilot participant email in study Slack channel
 
-* Pilot participant name: XXX  
-* Date and time of pilot session: Monday Nov. 24\. 
+* Pilot participant name: Ben Peterson  
+* Date and time of pilot session: Monday Nov. 24 at 12pm ET.
 
 ### **Research sessions**
 
-* Planned dates of research: Mon. Dec. 8 \- Thurs. Dec. 18
+* Planned dates of research: Mon. Dec. 8 - Wed. Dec. 17
 
 ### **Length of sessions**
 
-* Session length: (e.g. 30 minutes, \< 1 hour, up to 2 hours, up to 4 hours) \[1 hour\]  
-* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time) \[1 hour\]  
-* Maximum Sessions per day: (We all have limits \- how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) \[3\]
+* Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours): **1 hour**  
+* Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time): **1 hour**  
+* Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?): **3 sessions max per day**
 
 ### **Availability**
 
@@ -360,15 +361,14 @@ Please request enough dates and at *least double the amount of time slots for th
 
 Place time slots between hash marks when in edit mode.
 
-* \[12/8, Monday, 9:00AM \- 6:00PM\] EST  
-* \[12/9, Tuesday, 9:00AM \- 6:00PM\] EST  
-* \[12/10, Wednesday, 9:00AM \- 6:00PM\] EST  
-* \[12/11, Thursday, 9:00AM \- 6:00PM\] EST  
-* \[12/12, Friday, 8:00AM \- 5:00PM\] EST  
-* \[12/15, Monday, 9:00AM \- 6:00PM\] EST  
-* \[12/16, Tuesday, 9:00AM \- 6:00PM\] EST  
-* \[12/17, Wednesday, 9:00AM \- 6:00PM\] EST  
-* \[12/18, Thursday, 9:00AM \- 6:00PM\] EST
+* `[12/8, Monday, 9:00AM - 6:00PM] EST`  
+* `[12/9, Tuesday, 9:00AM - 6:00PM] EST`  
+* `[12/10, Wednesday, 9:00AM - 6:00PM] EST`  
+* `[12/11, Thursday, 9:00AM - 6:00PM] EST`  
+* `[12/12, Friday, 8:00AM - 5:00PM] EST`  
+* `[12/15, Monday, 9:00AM - 6:00PM] EST`  
+* `[12/16, Tuesday, 9:00AM - 6:00PM] EST`  
+* `[12/17, Wednesday, 9:00AM - 6:00PM] EST`  
 
 ## **Team Roles 🕵️👩‍💻👩‍🔬**
 
@@ -378,8 +378,8 @@ Please do not include email addresses in this section. We previously required em
 
 Please list the names of people in each role. In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-* Moderator: Irene Vailikit, Bianca Rivera Alvelo   
-* Research guide writing and task development (usually but not always same as moderator): Irene Vailikit, Bianca Rivera Alvelo  
+* Moderator: Irene Vailikit, Bianca Rivera Alvelo, Fiorella Geedi   
+* Research guide writing and task development (usually but not always same as moderator): Irene Vailikit, Bianca Rivera Alvelo, Fiorella Geedi  
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Irene Vailikit  
 * Accessibility specialist (for sessions where support for assistive technology may be needed): Etan Berkowitz  
