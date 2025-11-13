@@ -7,6 +7,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
     * Stefanie is updating CMS Team tickets
 * [Investigate Find Forms URL Issues #22299](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22299)
+* Henrico 2 - if we archive a page for a Facility that still comes back from the Facility Locator, how does it behave?
 
   
 
