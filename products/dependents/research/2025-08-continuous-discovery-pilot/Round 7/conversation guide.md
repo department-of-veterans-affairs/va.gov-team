@@ -9,7 +9,7 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for Continuous Discovery- Cohort 7
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -41,7 +41,6 @@ description: "A template for moderating research sessions including logistics, i
 # Intro - 5 minutes
 
 Thanks for joining us today! My name is **Megan** and **[NOTETAKER NAME]** is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
 Today we're going to talk about providing dependents' school information to VA.
 
@@ -89,13 +88,12 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# Warm-up Questions - 10 minutes
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 
 1. Do you have dependents on your disability compensation benefit?
      - What type of dependents?
-     - When, approximately, were they added to your benefit?
 2. Have you ever had a child between the ages of 18 and 23 on your disability benefit as a student?
      - Were they on your benefit when they were a minor?
      - What was the process of notifying VA that they were a student like?
@@ -104,16 +102,17 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## First Task: Keep or add back a dependent - X minutes
 
-- Now let's take a look at the prototype. We don't put any of your personal information in the prototype so the Veteran name you'll see in the prototype is Jordan Pierce.
+- Now let's take a look at the prototype.
+- Share [prototype link](https://www.figma.com/proto/7aJrwvfqkN4yvfMdoZj3XB/686c-674---2025-2026-Improvements?page-id=2200%3A54070&node-id=2205-69936&p=f&viewport=-6113%2C2296%2C0.5&t=ON9DMMXzrbqflfLT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2200%3A64970)
+- We don't put any of your personal information in the prototype so the Veteran name you'll see in the prototype is Jordan Pierce.
 - You receive disability compensation benefits and added your two children as dependents. Your daughter Kira is a sophmore in high school. Your son Kai is a freshman at the United States Military Academy.
 - When your disability check came a few months ago you noticed that the amount was less than normal. You called VA and learned that Kai was removed as your dependent on his 18th birthday. They told you that you can re-add him as a dependent if he is a student and you can fill out the paperwork online.
-- So you log into VA.gov and this is what you see *link here* What would you do next?
+- So you log into VA.gov and this is what you see. What would you do next?
 
-- Screen: Add or remove dependents: What would you like to do? Check everything that you want to do.
+- *Screen: Add or remove dependents: What would you like to do? Check everything that you want to do.*
      - What would you select here?
-   
-     - What are you thinking when you look at this page?
-     - Do you have any questions? Is there any additional information that you need? Is there any information on the page that you think is unnecessary?
+     - How would you decide which option to select?
+     - Do you have any other feedback on this page?
      - What would you do next?
   
 
@@ -128,8 +127,37 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - You may notice we've jumped to Step 3. Step 1 and 2 are the dependent's address and any previous marriages. We're skipping those for the sake of time today.
 
-- 
+- *Screen: Select which eligible children will be in school this year*
+     - Do you have any other feedback on this page?
+     - Is there any additional information that you need? Is there any information on the page that you think is unnecessary?
+     - What would you do next?
+ 
+- *Screen: Other education benefits*
+     - If you have questions about which benefits to select, what would you do?
+     - Do you have any other feedback on this page?
+     - What would you do next?
 
+- *Screen: Federally funded schools or programs*
+     - If you have questions about which benefits to select, what would you do?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
+- *Screen: KAI's federally funded program or school*
+     - Do you have any feedback on this page?
+     - What would you do next?
+ 
+- *Screen: When did KAI start receiving federal education benefits?*
+     - Which date would you fill in here?
+     - If you have questions about which date to enter, what would you do?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
+  - *Screen: KAI's school accreditation status*
+     - Is there anything that you would need to know to answer this question?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+   
+    
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant understand meaning of xyz?]
@@ -138,8 +166,35 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## Third Task: Terms and school attendance - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+  - *Screen: Current or future term*
+     - Which dates would you fill in here?
+     - If you have questions about which date to enter, what would you do?
+     - How would you describe the difference between the first two dates on the page?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+   
+  - *Screen: KAI's Previous term*
+     - Is there anything that you would need to know to answer this question?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
+  - *Screen: KAI's Previous term dates*
+     - How would you decide which dates would you fill in here?
+     - If you have questions about which dates to enter, what would you do?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
+  - *Screen: KAI's school attendance history*
+     - Is there anything that you would need to know to answer this question?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
+  - *Screen: When did KAI stop attending school continuously?*
+     - How would you decide which date to fill in here?
+     - If you have questions about which date to enter, what would you do?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+
 
 > [!NOTE]
 > ### Things to watch for:
