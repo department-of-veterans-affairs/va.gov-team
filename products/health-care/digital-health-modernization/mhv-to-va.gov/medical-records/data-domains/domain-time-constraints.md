@@ -1,4 +1,4 @@
-# Domain specific time constraints in web to prevent latency issues for OH users
+# Domain specific time constraints in web and mobile app to prevent latency issues for OH users
 
 ## Background
 
@@ -7,7 +7,20 @@ To improve UX associated with MR on web and VAHB ~for patients registered at Ora
 1. Labs and tests
 2. Notes and care summaries
 
-Currently there is a date picker implemented in staging for 30 day increments for labs and tests. ~Engineers have made a bet/hypothesized that the amount of records displayed at one time could increase from this 30 day interval to 90 days. We won't know for sure if 90 days is the sweet spot for avoiding latency until we're testing MHV with Trusted Users in December.~ In medical records design sync today 11/10, Patrick Bateman said they've increased the time constraint up to a year without issue so far (where?) and since that mental model will be easier for Veterans (choosing a year instead of a seemingly random 90 day interviewal), we plan to use the already existing in MR in the blue button report flow `date range select` component with options: `Last 3 months` `Last 6 months` `Last 12 months` and `Custom year`. This component is not in VADS but is in the MR tool. Used on the Labs & tests and Care notes & summaries pages, the `date range select` component will be slightly different from what is in the BB report flow in that: (1) there will be no option in the dropdown for `all time` and (2) instead of the `custom` option which opens fields for start and end dates, we'll use a `custom year` option which will allow for the user to type in a year and then click a button to run the search. 
+Currently there is a date picker implemented in staging for 30 day increments for labs and tests. ~Engineers have made a bet/hypothesized that the amount of records displayed at one time could increase from this 30 day interval to 90 days. We won't know for sure if 90 days is the sweet spot for avoiding latency until we're testing MHV with Trusted Users in December.~ In medical records design sync today 11/10, Patrick Bateman said they've increased the time constraint up to a year without issue so far (where?) and since that mental model will be easier for Veterans (choosing a year instead of a seemingly random 90 day interviewal), we plan to use the already existing in MR in the blue button report flow `date range select` component with options: `Last 3 months` `Last 6 months` `Last 12 months` and `Custom year`. 
+
+We initially believed this component was not in VADS, but it is elsewhere in the MR tool, as well as elsewhere on the MHV portal. 
+- [MR tool: located at the beginning of the flow for the blue button report tool, on the page with h1 `Select records and download report`](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=14676-65387&t=obB1pIbjBhU6L5Tc-1)
+- [Appts tool: on past appts page](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=3152-39900&t=odxhvZUd7LCiAFI1-0)
+- [Travel claims: filter](https://www.figma.com/design/RJ6OVm0MWD2WprVfO7E3lp/Travel-reimbursement-status-page?node-id=4020-5422&t=N44ZN7bTb3QcxJiG-0)
+
+[I have since learned that the component is in VADS; it's called Select](https://design.va.gov/components/form/select)
+
+~This component is not in VADS but is in the MR tool. Used on the Labs & tests and Care notes & summaries pages, the `date range select` component will be slightly different from what is in the BB report flow in that: (1) there will be no option in the dropdown for `all time` and (2) instead of the `custom` option which opens fields for start and end dates, we'll use a `custom year` option which will allow for the user to type in a year and then click a button to run the search.~
+
+### Decisions about the Select component in Labs & tests and Care summaries & notes domains (on web)
+- When users arrive in either domain, the default view will be past 30 days (which is the first listed option in this instance of the component's dropdown)
+- In addition to past 30 days, the dropdown provides options for past 60 days, all of 2025, 2024... all the way through 2013. 
 
 [VAHB has a PR open right now to add a 90 day interval filter](https://github.com/department-of-veterans-affairs/va-mobile-app/pull/11817) for labs and tests. ~One difference that exists between planned designs for web vs. VAHB is VAHB plans to set as default that users can review the last 90 days of labs and tests before engaging with the filter.~ ~Decision made during call on 11/6 to align web with VAHB's plan: default when users arrive on page is to have past 90 days of data populated.~ Now that we are using the existing `date range select` component, the default view will be the first option in the dropdown of this instance of the component, which is the last 30 days.
 
@@ -19,7 +32,7 @@ We need to direct them to download their records. At this point, designs do this
 ### If users are unclear about why we're constraining their data in this way
 Description (hint text) added to the dropdown field that we can only show 1 year of data at a time. What specifics could be additionally helpful here?
 
-~### If users want data that goes back further than 2.2 years
+### ~If users want data that goes back further than 2.2 years
 Custom date field will need to be part of the design on web to allow users to access these older records. Users will not be able to access records older than 2.2 years on VAHB.~ No longer relevant 11/10
 
 ## Decisions
