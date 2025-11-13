@@ -218,8 +218,12 @@ Provide a link to any materials you need to run your study, including any materi
 
 For moderated usability tests:
 
-* \[Link to conversation guide\](url goes here)  
-* \[Link to prototype\](url goes here)
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/Side%20Nav%20Conversation%20Guide.md)  
+* [Side Navigation Desktop Prototype](url goes here)
+* [Side Navigation Mobile Prototype](url goes here)
+* [Process List Desktop Prototype](url goes here)
+* [Process List Mobile Prototype](url goes here)
+
 
 
 ## **Recruitment 🎯**
