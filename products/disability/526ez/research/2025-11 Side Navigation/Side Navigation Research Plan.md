@@ -1,7 +1,10 @@
 # Side Navigation Research Plan [WIP]
 
-DBC Core Team, Side Navigation, 11/13/25  
-Irene Vailikit, Bianca Rivera Alvelo, Fiorella Geedi
+Team: `Disability Benefits Crew - Core Team` </br>
+Product: `21-526EZ` </br>
+Proposed Feature: `Side Navigation` </br>
+Authors: `Irene Vailikit`, `Bianca Rivera Alvelo`, `Fiorella Geedi` </br>
+Last Edited: `11/13/25` </br>
 
 ## **Background 🏗️**
 
@@ -40,12 +43,12 @@ We are introducing a new feature into an already existing product that Veterans 
 
 ### Product Brief
 
-[Super Epic: Reduce the burden of navigating through the disability form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289) </br>
-[Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
+- [Super Epic: Reduce the burden of navigating through the disability form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289) </br>
+- [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
 
 ### [**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
-Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.
+`Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.`
 
 Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
@@ -54,7 +57,7 @@ Objective 1: VA’s digital experiences are the easiest and most efficient way t
 
 ### [**Veteran Journey**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-Where does your product fit into the Veteran journey? Are there moments that matter?
+`Where does your product fit into the Veteran journey? Are there moments that matter?`
 
 * Starting Up  
 * Taking Care of Myself
@@ -185,7 +188,7 @@ Each session will test both designs, with the side navigation MVP taking 75% of 
 
 Our target is to have 4 participants test on desktop, and for 4 participants test on mobile devices. For mobile devices, both components would be nested in an accordion. This introduces an additional step where participants would have to identify and expand the accordion to interact with the component. We want to target having 5 participants using a mobile device to assess whether the accordion affects users’ ability to use the component. 
 
-Additional resources
+#### Additional resources
 
 * Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project.  
 * Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support.  
