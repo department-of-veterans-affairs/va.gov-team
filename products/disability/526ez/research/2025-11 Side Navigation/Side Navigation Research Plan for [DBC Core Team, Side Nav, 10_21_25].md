@@ -17,23 +17,24 @@ On mobile devices, the side navigation component converts to an accordion that t
 
 In testing, this will be referred to as the Wave Concept.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Background_New_Desktop_Sidenav.png" alt="Example" style="width: 60%;">   
-*Screenshots of side navigation MVP design on desktop*
-*Screenshots of side navigation MVP design on mobile*
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Side%20Nav%20desktop%20Mobile.png" alt="Example" style="width:100%;">
+
+*Screenshots of side navigation MVP design on desktop and mobile*
+
 
 ### Modified Process List V2 (Cloud Concept) 
 After implementing the side navigation component, we will pursue a Version 2 design that visually presents as a process list. This component includes features and treatment styles that more strongly differentiate between the steps that have been completed, the step the user is currently on, and the steps they have yet to complete. 
 
 In testing, this will be referred to as the Cloud Concept.
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Process%20list%20desktop%20mobile.png" alt="Example" style="width:100%;">
 
-![][image3]    ![][image4]  
 *Screenshot of process list Version 2 design on desktop and mobile.*
 
-Where is your product situated on VA.gov? (ex: auth vs. unauth)
+### Where is your product situated on VA.gov? (ex: auth vs. unauth)
 
 The 526 Disability Benefits form is an authenticated product.
 
-What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+### What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 
 We are introducing a new feature into an already existing product that Veterans are familiar with.
 
