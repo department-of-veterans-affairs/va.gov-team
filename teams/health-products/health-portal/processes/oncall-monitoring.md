@@ -12,15 +12,30 @@ The Health Portal on VA.gov relies on multiple systems to enable the health expe
 
 This process will evolve as VA tools and capabilities allow us to mature our capabilities.[^1] For the immediate future, we'll need to actively monitor Slack channels for errors from our [MHV Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Amhv).[^2] In the near future, we should be able to have PagerDuty alert engineers when something goes wrong.
 
-### Process
+### On-Call Rotation
 
 An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. We use [PagerDuty schedules](https://ecc.pagerduty.com/schedules-new) to manage the on-call rotation.
 
-#### PagerDuty Schedules
+#### 📅 PagerDuty Schedules
 
 - [MHV Medical Records On Call](https://ecc.pagerduty.com/schedules#PFQ1743)
 - [MHV Medications & Supplies Web](https://ecc.pagerduty.com/schedules#PSD1U34)
 - [MHV Secure Messaging On Call](https://ecc.pagerduty.com/schedules#P30J26X)
+
+#### 📞 Slack `-oncall` Groups
+
+We also utilize Slack groups that allow us to provide an easy way for folks to get in touch with the right person. The Slack group handles are:
+
+- `@mhv-medrecords-oncall`
+- `@mhv-meds-oncall`
+- `@mhv-securemsg-oncall`
+
+#### 🤝 Handoff
+
+1. If you are going on-call, please contact the outgoing on-call engineer to gain context on any recent or ongoing issues
+2. Please update your `-oncall` Slack group to include the current on-call engineer and remove the engineer whose shift has ended
+
+### 👀 How to monitor
 
 On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
 
@@ -28,17 +43,11 @@ Currently, Datadog monitors are not set up to notify on-call engineers directly 
 
 The OCTO Watch Officer on-call may reach out when a Priority 1 and 2 (P1 and P2) monitor reaches or maintains an "error" state. The on-call engineer will take responsibility to respond to the Watch Officer and provide updates and resolution when needed.
 
-We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. The Slack group handles are:
-
-- `@mhv-medrecords-oncall`
-- `@mhv-meds-oncall`
-- `@mhv-securemsg-oncall`
-
-### Relation to Investigator On-call
+### 🕵️ Relation to Investigator On-call
 
 In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./oncall-investigator.md) for details.
 
-## How to respond to an alert or incident
+## How to respond to an alert or incident 🚨
 
 Please be familiar with the [VA Platform Incident Response for application teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te). The process outlines 4 steps for determining severity and validity of the alert, communications, working the problem, and wrapping things up. Some additional context for MHV Frontent:
 
