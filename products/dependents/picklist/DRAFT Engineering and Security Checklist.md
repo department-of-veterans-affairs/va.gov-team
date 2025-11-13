@@ -174,13 +174,13 @@ Please provide the following documentation as attachments.
   This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
   - 686c_674-Architecture.Diagram.pdf (@AlanWerner - needs to be attached)
 - Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
+  - [VA Lifestage Incident Response Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/incident_response.md)
   - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
     - `@AlanWerner`
 - Sequence Diagram:
   - 686c_674_Sequence_Diagram.pdf  (@AlanWerner - needs to be attached)
   
 - Data Flow Diagram:
-  This diagram must illustrate the following specifics.
   - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727757799534/c7c5f5a6dc1b8f451ecab5f02afa70a9325b93c8
   - https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/dependents_benefits/documentation/flows.md (the current refactoring effort)
   - https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/dependents_benefits/documentation/legacy_flow.md
@@ -190,6 +190,8 @@ Please provide the following documentation as attachments.
 
 - Product Specifics:  @AlanWerner
   - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+    - [686c Picklist Go/No-Go and Phased Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/686c-674_V3_Picklist_Release_Plan.md)
+    - [686 Picklist Release Plan](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1760709157629/cf91d54b10405601b5653a0020ffc323bfa20d3d)
   - A link to the Product Outline
     - [Product Outline: 21-686c (Application Request to Add and/or Remove Dependents) and 21-674 (Request for Approval of School Attendance)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/README.md)
   - Ensure Product Outline contains Incident Response info, including:
