@@ -38,7 +38,7 @@ permissions:
 jobs:
   share-research-findings:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 45  # Extended for large repository operations
     
     steps:
       - name: Optimized checkout for large repository
@@ -89,10 +89,9 @@ jobs:
             CONTEXT_MESSAGE="✨ _Shared after 3-day revision period_"
           fi
           
-          # Build the JSON payload
+          # Build the JSON payload without channel (will be specified separately)
           cat > slack_payload.json << EOF
           {
-            "channel": "#research-ops",
             "text": "📊 New Research Findings Available: ${RESEARCH_TITLE_ESCAPED}",
             "blocks": [
               {
@@ -167,6 +166,7 @@ jobs:
         if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: 'C03T35ZKM4B'  # research-ops channel ID
           payload-file-path: slack_payload.json
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
@@ -175,16 +175,16 @@ jobs:
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: 'C03T35ZKM4B'  # research-ops channel ID
           payload: |
             {
-              "channel": "#research-ops",
               "text": "❌ Research File Not Found",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "❌ *Could not find the specified research file*\n\n`${{ steps.find-files.outputs.error_message }}`\n\nPlease check the file path and try again."
+                    "text": "❌ *Could not find the specified research file*\\n\\n`${{ steps.find-files.outputs.error_message }}`\\n\\nPlease check the file path and try again."
                   }
                 }
               ]
