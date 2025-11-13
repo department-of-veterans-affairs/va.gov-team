@@ -40,7 +40,7 @@ We are introducing a new feature into an already existing product that Veterans 
 
 ### Product Brief
 
-[Super Epic: Reduce the burden of navigating through the disability form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
+[Super Epic: Reduce the burden of navigating through the disability form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289) </br>
 [Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
 
 ### [**OCTO-DE Priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
