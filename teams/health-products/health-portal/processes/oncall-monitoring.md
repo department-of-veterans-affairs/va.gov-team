@@ -16,6 +16,12 @@ This process will evolve as VA tools and capabilities allow us to mature our cap
 
 An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. We use [PagerDuty schedules](https://ecc.pagerduty.com/schedules-new) to manage the on-call rotation.
 
+#### PagerDuty Schedules
+
+- [MHV Medical Records On Call](https://ecc.pagerduty.com/schedules#PFQ1743)
+- [MHV Medications & Supplies Web](https://ecc.pagerduty.com/schedules#PSD1U34)
+- [MHV Secure Messaging On Call](https://ecc.pagerduty.com/schedules#P30J26X)
+
 On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
 
 Currently, Datadog monitors are not set up to notify on-call engineers directly (as of Nov 2025). These monitors are also used/monitored by MHV Platform.
