@@ -47,7 +47,10 @@ Notetaker: [Renata]
 
 **Post-Task Interview**
 - Wouldn't change the form or process at all "compared to other forms, this was very simple"
-- Right now it's very difficult to get ahold of anyone at VA. They used to be put on hold, sometimes for several hours. Right now you go straight to voicemail. If you can't handle your business online, you're kind of in a bad place. 
+- Right now it's very difficult to get ahold of anyone at VA. They used to be put on hold, sometimes for several hours. Right now you go straight to voicemail. If you can't handle your business online, you're kind of in a bad place.
+- The doctors on the FMP-approved list aren't convenient to P3. It's almost impossible to get urgent care, and medical providers are hard to get appointments. It's just not worth filing a claim, because the medical services are so much cheaper abroad compared to the U.S. costs. I just absorbed the cost myself, that's why I haven't really filed a claim here. The medical providers on the list of approved FMP providers is not accessible.
 
 **Additional Notes**
-- The doctors on the FMP-approved list aren't convenient to P3. It's almost impossible to get urgent care, and medical providers are hard to get appointments. It's just not worth filing a claim, because the medical services are so much cheaper abroad compared to the U.S. costs. I just absorbed the cost myself, that's why I haven't really filed a claim here. The medical providers on the list of approved FMP providers is not accessible. 
+- Participant was very confident in the direct deposit process and did not have any issues with the content, but also did not really pause on the instructions for the portals (did not call out needing a U.S. bank account, for example)
+- P3 said they'd done travel pay claims in the U.S. and was familiar with general process of setting it up
+- P3 noticed the 90 day processing period for FMP claims, said that was longer than with claims they'd filed in the U.S.
