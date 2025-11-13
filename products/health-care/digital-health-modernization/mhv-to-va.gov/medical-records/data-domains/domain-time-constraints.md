@@ -2,10 +2,16 @@
 
 ## Background
 
-To improve UX associated with MR on web and VAHB ~for patients registered at Oracle Health facilities~ for all patients (confirmed w Marci and Mark Dewey in slack 11/6), we will limit how many days worth of data will show/load in **two domains only** (at this time): 
+To improve UX associated with MR on web and VAHB ~for patients registered at Oracle Health facilities~ for all patients (confirmed w Marci and Mark Dewey in slack 11/6), we will limit how many days worth of data will show/load in specific domains.
+
+On web, those domains will be:
 
 1. Labs and tests
 2. Notes and care summaries
+
+On VAHB (mobile app), those domains will be:
+
+1. Labs and tests **only**
 
 Currently there is a date picker implemented in staging on web for 30 day increments for labs and tests. ~Engineers have made a bet/hypothesized that the amount of records displayed at one time could increase from this 30 day interval to 90 days. We won't know for sure if 90 days is the sweet spot for avoiding latency until we're testing MHV with Trusted Users in December.~ In medical records design sync today 11/10, Patrick Bateman said they've increased the time constraint up to a year without issue so far (where?) and since that mental model will be easier for Veterans (choosing a year instead of a seemingly random 90 day interviewal), we plan to use the already existing in MR in the blue button report flow `date range select` component with options: `Last 3 months` `Last 6 months` `All of 2025` `All of 2024` ... `All of 2013`
 
