@@ -22,7 +22,7 @@ We initially believed this component was not in VADS, but it is elsewhere in the
 - When users arrive in either domain, the default view will be past 30 days (which is the first listed option in this instance of the component's dropdown)
 - In addition to past 30 days, the dropdown provides options for past 60 days, all of 2025, 2024... all the way through 2013. 
 
-[VAHB has a PR open right now to add a 90 day interval filter](https://github.com/department-of-veterans-affairs/va-mobile-app/pull/11817) for labs and tests. ~One difference that exists between planned designs for web vs. VAHB is VAHB plans to set as default that users can review the last 90 days of labs and tests before engaging with the filter.~ ~Decision made during call on 11/6 to align web with VAHB's plan: default when users arrive on page is to have past 90 days of data populated.~ Now that we are using the existing `date range select` component, the default view will be the first option in the dropdown of this instance of the component, which is the last 30 days.
+[VAHB has a PR open right now to add a 90 day interval filter](https://github.com/department-of-veterans-affairs/va-mobile-app/pull/11817) for labs and tests. ~One difference that exists between planned designs for web vs. VAHB is VAHB plans to set as default that users can review the last 90 days of labs and tests before engaging with the filter.~ ~Decision made during call on 11/6 to align web with VAHB's plan: default when users arrive on page is to have past 90 days of data populated.~ ~Now that we are using the existing `date range select` component, the default view will be the first option in the dropdown of this instance of the component, which is the last 30 days.~
 
 ## Some UX concerns to address with addition of the time constraining filter
 
@@ -30,7 +30,7 @@ We initially believed this component was not in VADS, but it is elsewhere in the
 We need to direct them to download their records. At this point, designs do this with an additional info component directly below the filter and directly above the filter results: "Need more results?"
 
 ### If users are unclear about why we're constraining their data in this way
-Description (hint text) added to the dropdown field that we can only show 1 year of data at a time. What specifics could be additionally helpful here?
+~Description (hint text) added to the dropdown field that we can only show 1 year of data at a time.~ The recent decisions about the component we'll use and the options in the dropdown have made it unnecessary that we tell users what is happening (that we're constraining them to a year max), so we've removed hint text saying so much for now.
 
 ### ~If users want data that goes back further than 2.2 years
 Custom date field will need to be part of the design on web to allow users to access these older records. Users will not be able to access records older than 2.2 years on VAHB.~ No longer relevant 11/10
