@@ -15,7 +15,7 @@ In this new design, the [VADS segmented progress bar with step labels](https://d
 
 On mobile devices, the side navigation component converts to an accordion that the user expands to see links to the sections of the form. 
 
-In testing, this will be referred to as the Wave Concept.
+In testing, this will be referred to as the **Wave Concept**.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Side%20Nav%20desktop%20Mobile.png" alt="Example" style="width:100%;">
 
@@ -25,7 +25,7 @@ In testing, this will be referred to as the Wave Concept.
 ### Modified Process List V2 (Cloud Concept) 
 After implementing the side navigation component, we will pursue a Version 2 design that visually presents as a process list. This component includes features and treatment styles that more strongly differentiate between the steps that have been completed, the step the user is currently on, and the steps they have yet to complete. 
 
-In testing, this will be referred to as the Cloud Concept.
+In testing, this will be referred to as the **Cloud Concept**.
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Process%20list%20desktop%20mobile.png" alt="Example" style="width:100%;">
 
 *Screenshot of process list Version 2 design on desktop and mobile.*
