@@ -183,7 +183,7 @@ This research study will test the side navigation component MVP and the process 
 
 Each session will test both designs, with the side navigation MVP taking 75% of the session time and the process list V2 taking 25%. Given that the MVP is the priority, we want to ensure the majority of the session time is dedicated to gathering feedback essential to launch.
 
-Our target is to have 3-4 participants test on desktop, and for 5 participants test on mobile devices. For mobile devices, both components would be nested in an accordion. This introduces an additional step where participants would have to identify and expand the accordion to interact with the component. We want to target having 5 participants using a mobile device to assess whether the accordion affects users’ ability to use the component. 
+Our target is to have 4 participants test on desktop, and for 4 participants test on mobile devices. For mobile devices, both components would be nested in an accordion. This introduces an additional step where participants would have to identify and expand the accordion to interact with the component. We want to target having 5 participants using a mobile device to assess whether the accordion affects users’ ability to use the component. 
 
 Additional resources
 
