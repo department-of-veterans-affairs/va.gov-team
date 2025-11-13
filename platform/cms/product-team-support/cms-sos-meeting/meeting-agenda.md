@@ -3,6 +3,13 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 ### Running Agenda
 
+11/13/2025
+* [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
+    * Stefanie is updating CMS Team tickets
+* [Investigate Find Forms URL Issues #22299](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22299)
+
+  
+
 10/30/2025
 * Flagged Facilities - we will talk specifics about process on Monday but want to check in on if there are any outstanding items
 
