@@ -40,24 +40,32 @@ class ResearchContentProcessor:
         """Extract key findings section from markdown content."""
         lines = content.split('\n')
         
-        # Look specifically for "Key Findings" section (case insensitive)
-        key_findings_pattern = r'^##\s*key\s+findings\s*$'
+        # Look for "Key Findings" section at any header level (H1-H6) - case insensitive
+        key_findings_pattern = r'^#{1,6}\s*key\s+findings\s*$'
         
         findings_content = []
         in_findings_section = False
+        findings_header_level = None
         
         for i, line in enumerate(lines):
             # Check if we're entering the Key Findings section
             if not in_findings_section:
                 if re.match(key_findings_pattern, line.strip(), re.IGNORECASE):
                     in_findings_section = True
+                    # Capture the header level to know when to stop
+                    findings_header_level = len(re.match(r'^(#{1,6})', line.strip()).group(1))
                     continue
             
             # If we're in findings section, collect content
             elif in_findings_section:
-                # Stop at next section header
-                if line.startswith('##'):
-                    break
+                # Stop at next section header of same or higher level
+                if line.strip().startswith('#'):
+                    current_header_match = re.match(r'^(#{1,6})', line.strip())
+                    if current_header_match:
+                        current_header_level = len(current_header_match.group(1))
+                        if current_header_level <= findings_header_level:
+                            break
+                
                 # Skip empty lines at start
                 if not findings_content and not line.strip():
                     continue
