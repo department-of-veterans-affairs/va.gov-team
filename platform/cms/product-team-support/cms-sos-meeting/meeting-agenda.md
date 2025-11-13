@@ -8,6 +8,8 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
     * Stefanie is updating CMS Team tickets
 * [Investigate Find Forms URL Issues #22299](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22299)
 * Henrico 2 - if we archive a page for a Facility that still comes back from the Facility Locator, how does it behave?
+    * Facility does not need to be published to have an operating status
+    * Archive the page and mark with 'Coming Soon', add to details to say it is a dental clinic that is not yet open
 
   
 
