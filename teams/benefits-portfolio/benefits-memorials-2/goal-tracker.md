@@ -77,7 +77,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Review Payment History designs with UX team.| QP3 |--|--|--|
 |ENG: Make a Payment History endpoint available for the frontend to consume.| QP3 |--|--|--|
 |TEAM: Initiate the Hardship Suspension collaboration cycle.| QP3 |--|--|--|
-|TEAM: Pending the code thaw happening, release the One Thing Per Page initiative.| QP2 |--|--|--|
+|TEAM: Pending the code thaw happening, release the One Thing Per Page initiative.| QP2 |--|11/12/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (11/4/25)
