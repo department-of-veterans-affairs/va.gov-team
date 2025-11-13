@@ -1,6 +1,6 @@
-# My VA: Outstanding debts use cases
+# My VA: Payments and debts use cases
 
-**Last updated: June 2025**
+**Last updated: November 2025**
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746474542228/c397457f63aa34d09dee9f34d785af90cd3b8b96?wid=36-1746474575795&outline=open)
 - [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14219&t=cZLTEcVoQuXx90AV-1)
@@ -107,9 +107,8 @@ There are no flags with this feature.
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-47879&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
-- **Content:**
+- **Content:** See designs
 
-We can’t show your debt and copay information right now. Refresh this page or try again later.
 
 </details>
 
@@ -121,9 +120,8 @@ We can’t show your debt and copay information right now. Refresh this page or 
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15744&t=cZLTEcVoQuXx90AV-1)
 - [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/debts/getDebts)
-- **Content:**
+- **Content:** See designs
 
-We can’t show your debt information right now. Refresh this page or try again later.
 
 </details>
 
@@ -135,9 +133,8 @@ We can’t show your debt information right now. Refresh this page or try again 
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=cZLTEcVoQuXx90AV-1)
 - [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays)
-- **Content:**
+- **Content:** See designs
 
-We can’t show your copay information right now. Refresh this page or try again later.
 
 </details>
 
