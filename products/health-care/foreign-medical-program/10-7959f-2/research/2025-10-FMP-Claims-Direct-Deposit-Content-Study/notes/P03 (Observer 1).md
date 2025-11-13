@@ -40,7 +40,7 @@ Notetaker: Hieu Vo
 
 **Fourth Task - Confirmation Page**
 - Once you submit a claim, you want to print it out for your record
-- "It has never taken up 90 days, but maybe it is different when you're in of the United States."
+- "It has never taken up 90 days, but maybe it is different when you're [outside] of the United States."
 - Rating 5/5, very confident.
 
 **Fifth Task - Content Comprehension & Mental Model**
