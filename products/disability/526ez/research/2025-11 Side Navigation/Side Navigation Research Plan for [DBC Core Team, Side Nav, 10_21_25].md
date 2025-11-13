@@ -1,13 +1,9 @@
-# Side Navigation Research Plan \[WIP\]
+# Side Navigation Research Plan [WIP]
 
 DBC Core Team, Side Navigation, 10/21/25  
 Irene Vailikit, Bianca Rivera Alvelo, Fiorella Geedi
 
 ## **Background 🏗️**
-
-Briefly describe the background of your product.
-
-`What problem is your product trying to solve?`
 
 ### Problem Statement  
 Historically, the Disability Compensation (VA Form 21-526EZ) application process is one of the longest on [VA.gov](http://VA.gov), and navigation within the form is a major friction point. Users can only navigate the form by clicking the Back and Continue buttons and are unable to jump to previously completed sections. This results in users having to click these buttons multiple times to make changes or edit their responses.  
