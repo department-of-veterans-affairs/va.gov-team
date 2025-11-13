@@ -1,6 +1,6 @@
 # My VA: Forms and applications use cases
 
-**Last updated: June 2025**
+**Last updated: November 2025**
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746474542228/c397457f63aa34d09dee9f34d785af90cd3b8b96?wid=36-1746474575795&outline=open)
 - [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5307-57763&t=KhCgIDPMpZ6FClDG-1)
@@ -98,9 +98,7 @@ There are no flags with this feature.
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5350-14507&t=vSC00tzVjcFZ2rHY-1)
 - [Link to code]
-- **Content:**
-
-We can’t show your forms and applications right now. Refresh this page or try again later.
+- **Content:** See designs 
 
 </details>
 
