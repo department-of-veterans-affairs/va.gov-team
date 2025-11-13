@@ -204,8 +204,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 ## Fourth Task: Income and expenses - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+  - *Screen: KAI's income for this school term*
+     - 
 
 > [!NOTE]
 > ### Things to watch for:
@@ -215,8 +215,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Now that you've seen all of the screens, do you have 
 - Any questions for me? 
 
 ## Consent to use video clips
