@@ -6,7 +6,7 @@ This document outlines the key design decisions made for implementing error stat
 
 - [ADR: 001 - Cards will not support success, warning, or info states](#ADR-001---Cards-will-not-support-success-warning-or-info-states)
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
-- [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
+- [ADR: 003 - New Status tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
 - [ADR: 004 - The error message will be attached to the link when in error mode](#ADR-004---The-error-message-will-be-attached-to-the-link-when-in-error-mode)
 - [ADR: 005 - Existing card will be moved to legacy state in Figma](#ADR-005---Existing-card-will-be-moved-to-legacy-state-in-Figma)
 - [ADR: 006 - Card error state component will become Card status](#ADR-006---Card-error-state-component-will-become-card-status)
@@ -56,7 +56,7 @@ Cards displaying an error state must include a visible secondary action link tha
 N/A
 
 
-## ADR 003 - ~~Default~~ New Status tag will be used for launch
+## ADR 003 - New Status tag will be used for launch
 
 ### Status: Accepted
 
