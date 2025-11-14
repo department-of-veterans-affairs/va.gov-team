@@ -15,3 +15,7 @@ We have added a step to our [PM Checklist Template](https://github.com/departmen
 - To achieve proper testing while in the lower environments
      - Features will be enabled for 100% of registered users and disabled for “guest” users. 
           - This will allow for a dual testing approach to ensure no change is made to the existing functionality while doing a phased-in introduction of future features.
+
+
+### Fun Fact:
+- 11/14/25 Use feature toggle `hca_enrollment_status_override_enabled` to allow for an "Enrolled" status, and view the EZ Intro page as an enrolled Veteran.
