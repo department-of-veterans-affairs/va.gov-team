@@ -113,7 +113,7 @@ Video interviews over Zoom (or other platform)
 
 
 
-* [Conversation guide](https://docs.google.com/document/d/1J_omt-2EdXhbr4AvWOwaSb8XzsR91UtrtvNcjzKTiYs/edit?usp=sharing)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-11-medications-messaging-and-status-labels-usability-study/conversation-guide.md)
 * [Link to test user login and instructions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125061)
 
 
