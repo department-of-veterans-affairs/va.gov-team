@@ -126,7 +126,7 @@ The participant will encounter the prototypes in the following order:
 ```
 For the remainder of the session, I'd like you to imagine that you are a Veteran named Jamie Smith Brooks. (Just to clarify, Jamie isn't a real person, we are using a demo account.) Earlier this week, you spent time on VA.gov filling out the VA form 21-686c to add dependents to your VA benefits. However, you got interrupted so you were logged out right before hitting the submit button. Now you are interested in actually submitting your form.
 
-* **Please click on Scenario 2**
+* **Please click on Enter Lemon**
 
 Imagine that you just signed back into VA.gov and have navigated to the manage dependents page where you have filled out the online form to add or remove dependents. 
 
