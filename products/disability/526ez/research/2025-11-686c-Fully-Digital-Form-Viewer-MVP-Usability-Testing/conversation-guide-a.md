@@ -190,6 +190,11 @@ Thanks for that answer!  This section is optional and not required to be filled 
 * As someone who has just submitted their application, and is reviewing this page, how do you feel about having your skipped questions displayed like this? 
 * How about for sections or questions you did not encounter when you were filling out the form? 
     * How do you feel about seeing these sections displayed like this on this page if you never encountered them in the form while you were filling it out?
+ 
+### Important info prompt
+* Now that you had a chance to review the page, is there information that's missing that you'd like to see?
+    * Is there information that should be emphasized?
+    * Is there too much information? What would you like to remove or de-emphasize?
 
 ## Scenario 2 (VADS Minimal): Form viewer content and layout - 5 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen]
