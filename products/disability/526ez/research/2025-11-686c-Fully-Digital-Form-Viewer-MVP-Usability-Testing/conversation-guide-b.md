@@ -340,3 +340,8 @@ Great! Well we really appreciate you taking the time to share your thoughts with
 Just a heads up, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
+
+# Emergency Exit 🚨
+* Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
+* Blame technology: I am so sorry, but I just learned that the demo we wanted to test with you today is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
+
