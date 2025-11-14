@@ -138,7 +138,7 @@ _This page is typically your last chance to review and edit the answers you prov
 
 Let's imagine that you have interacted with all of the accordions on this page (i.e., the gray boxes, with the plus sign on the side) and you were able to double-check all of your answers for the different sections in the form:
 
-* **Go ahead and press "Continue"**
+* **Go ahead and press "Submit application"**
 
 You have just submitted the online form, which then brings you to the confirmation page.
 
@@ -150,7 +150,7 @@ We'll be mostly focusing on the content that follows. Before we proceed, do you 
 Go ahead and do a quick scan of the page, but please do not click on anything - 
 
 * If you were in Jamie's situation, someone who just submitted their application to add dependents to their VA benefits, what would you do first on this page? 
-* Without doing so yet, what do you think will happen if you click the link that says "Information you submitted on this form"?
+* Without doing so yet, what do you think will happen if you click the link that says "Download or print the information you submitted"?
     * What will you see?
     * [Gauge if they predict new tab or new page/ window or navigate page behavior]
 * If you were to actually be in this scenario, would you click the link? Why (not)?
