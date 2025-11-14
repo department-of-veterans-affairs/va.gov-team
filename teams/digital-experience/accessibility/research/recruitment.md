@@ -42,7 +42,7 @@ For more, read page 125 of [Dana Chisnell's Handbook of Usability Testing](https
 
 <br aria-hidden="true"/>
 
-## Maximum Variation Sampling
+## Maximum Variation Sampling (MVS)
 Purposefully selecting a wide range of social identity categories (like race or disability) among Veterans will help your findings better:
 - Document diversity of needs and behavior
 - Identify important common patterns that cut through the noise of variation on dimensions of interest
