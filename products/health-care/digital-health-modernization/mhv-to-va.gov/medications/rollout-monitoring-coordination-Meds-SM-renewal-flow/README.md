@@ -87,7 +87,7 @@ Monitor the behavior inside SM:
 ## 3. Pre-Launch Tasks
 
 ### 3.1 Collect URLs for VSignals / Medallia Configuration  
-To enable Medallia feedback collection, UX requires all new URLs. *The updated Product Guide must be included in the VSP/Contact Center Team’s intake request when submitting the new URLs for VSignals.*
+To enable Medallia feedback collection, UX requires all new URLs. **The updated Product Guide must be included in the VSP/Contact Center Team’s intake request when submitting the new URLs for VSignals.**
 
 #### Needed from Meds Engineering:
 - Renewal link destination URLs  
