@@ -104,7 +104,7 @@ Not involved — evidence requests are **entirely dynamic**.
 
 To support VA mobile:
 
-1. Add mobile-specific content fields (e.g., `mobileDescription`) into `constants.rb`.  
+1. Add mobile-specific content fields (e.g., `mobileDescription`) into `lib/lighthouse/benefits_claims/constants.rb`.  
 2. Enhance `apply_friendlier_language` to populate mobile-friendly text.  
 3. Expose these new fields in existing vets-api responses.  
 4. Mobile app consumes these shorter variants.  
@@ -238,7 +238,7 @@ Override fields all `null` → UI must use Lighthouse text.
 ### 1. How is override content implemented?
 
 - Fully in vets-api
-- In `constants.rb`
+- In `lib/lighthouse/benefits_claims/constants.rb`
 - Not CMS-driven
 
 ### 2. What is dynamic vs static?
@@ -254,22 +254,84 @@ Static:
 - Section labels  
 - Boilerplate instructions
 
-### 3. What changes are needed for mobile?
+### 3. What would need to change to serve abridged content to mobile?
 
-**Phase 1**:  
-Pass through existing override fields to mobile.
+**Current mobile gap:**
+Mobile app currently does NOT receive override fields at all. The mobile adapter (`lighthouse_individual_claims.rb`) transforms tracked items into `eventsTimeline` format but strips out all override fields:
+- **Text content overrides:**
+  - `friendlyName` ❌ Not passed through
+  - `activityDescription` ❌ Not passed through
+  - `shortDescription` ❌ Not passed through
+  - `supportAliases` ❌ Not passed through
+- **Behavior override:**
+  - `canUploadFile` ❌ Not passed through (mobile uses raw `uploadsAllowed`)
 
-**Phase 2**:  
-Add `mobileDescription` override variants and consume them.
+Mobile only sees raw Lighthouse `displayName` and `description` fields, and raw `uploadsAllowed` boolean.
 
-## 7. Recommendations
+**Required changes:**
 
-### ✅ Add mobile-specific override fields  
-- E.g., `mobileDescription`
+1. **Mobile adapter** (`lighthouse_individual_claims.rb`):
+   - Update `create_tracked_item_event` to pass through override fields
+   - Add text override fields: `friendlyName`, `activityDescription`, `shortDescription`, `supportAliases`
+   - Use `canUploadFile` override instead of raw `uploadsAllowed` when available
 
-### ✅ Centralize override logic in vets-api
+2. **Mobile schema** (`claims_and_appeals_get_claim.json`):
+   - Add override fields to trackedItems schema definition
+   - Update schema contract validation
 
-### ✅ Provide fallback chain  
-- `mobileDescription → shortDescription → activityDescription → description`
+3. **Mobile components:**
+   - Update `FileRequest.tsx` to use `friendlyName || displayName`
+   - Update `FileRequestDetails.tsx` to use override fields with fallback logic
+   - Implement same fallback pattern as web: `mobileDescription || shortDescription || activityDescription || description`
 
-### ✅ Maintain consistent override patterns
+**Current fields:**
+- `activityDescription` → long
+- `shortDescription` → medium
+- `friendlyName` → short
+
+**But:**
+- Many items have only long text
+- Some have only short text
+- Some have none
+- Long-form text is not mobile-friendly
+
+**Proposed changes:**
+
+🔹 Add an explicit mobile abridged content variant in `lib/lighthouse/benefits_claims/constants.rb`
+
+**Example:**
+```ruby
+MOBILE_SHORT_DESCRIPTION_MAPPING = {
+  "21-4142/21-4142a" => "Give us permission to get your private medical records.",
+  ...
+}
+```
+
+🔹 Enhance `apply_friendlier_language` to populate:
+- `mobileDescription` or equivalent
+
+🔹 Mobile app uses this field first
+
+Falls back to:
+- `shortDescription`
+- `activityDescription`
+- Lighthouse `description`
+
+This ensures consistent, intentionally authored mobile content.
+
+**Mobile-specific considerations:**
+
+Since mobile currently doesn't receive override fields, the implementation needs two phases:
+
+**Phase 1: Pass through existing overrides**
+- Update mobile adapter to include override fields in eventsTimeline
+- Update mobile components to consume and display override fields
+- Implement fallback logic matching web pattern
+
+**Phase 2: Add mobile abridged variants**
+- Add `MOBILE_SHORT_DESCRIPTION_MAPPING` to `lib/lighthouse/benefits_claims/constants.rb`
+- Update `apply_friendlier_language` to populate `mobileDescription`
+- Update mobile adapter to pass through `mobileDescription`
+- Update mobile components to prefer `mobileDescription` with fallback chain
+
+This phased approach ensures mobile gets the same content as web first, then adds mobile-specific abridged versions.
