@@ -47,6 +47,10 @@ Monitors for each product are described within product folders. e.g.
 | [Reusable Q&A](#reusable-qa) | . | .  |
 | [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
+| ------------- | ------------- | On-site Search |
+| ------------- | ------------- | Glogal Header and footer |
+| ------------- | ------------- | [Event - Currently published Events](https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All) |
+| ------------- | ------------- | [Events listings](https://www.va.gov/outreach-and-events/events) |
 
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
@@ -65,8 +69,6 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 - [ ] Benefits Detail Page - e.g. https://www.va.gov/health-care/
 - [ ] Benefits Hub Landing Page - e.g. https://www.va.gov/health-care/about-va-health-benefits/
 - [ ] Campaign Landing Page - Currently published CLPs: https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderation_state=published&owner=All
-- [ ] Events Listing - https://www.va.gov/outreach-and-events/events - co-owned with Facilities
-- [ ] Event - Currently published Events (check several): https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All
 - Resources & Support content types
     - [ ] FAQ page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=faq_multiple_q_a&moderation_state=published&owner=All
     - [ ] Resources and Support Detail Page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=support_resources_detail_page&moderation_state=published&owner=All
@@ -79,6 +81,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Support Services
 - [ ] Full width alert - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All)
 - [ ] Promo banner - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All)
+- [ ] News block - (Currently published example: https://www.va.gov/ (the VA News block half-way down the page)
 - [ ] Outreach Hub (Until deprecation) - https://www.va.gov/outreach-and-events/outreach-materials/
 - [ ] Translations widget - e.g. https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/
 - [ ] VA Benefits taxonomy - (Drupal only) - https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
@@ -86,12 +89,12 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 ### React Applications: 
 - [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/
 - [ ] Income Limits app - https://www.va.gov/health-care/income-limits/introduction
-- [ ] PACT Act app - Not yet shipped (12/24): https://staging.va.gov/pact-act-eligibility/introduction
+- [ ] PACT Act app - Not released to Prod - mothballed (12/24): https://staging.va.gov/pact-act-eligibility/introduction
   
 </details>
 
 ## Changelog
-* 8/15/2025: Responsibility for On-site search is moving to the Faceted Search team
+* 8/15/2025: Responsibility for On-site search is moving to the Unifed Search team (Megan Siddle - PM current as of 2025-11-14)
 * 5/15/2025: The Promo banner has been deprecated from the design system because of accessibility defects and low use: see [#4142](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4142)
 * 1/14/2025: Identity team now owns the central vets-website cta-widget application. The MHV Cartography team may have a stake in the content / behavior of the  6 CTA widget invocations that are present on VAMC pages.
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
