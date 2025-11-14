@@ -185,10 +185,10 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
     * Is there information that should be emphasized?
     * Is there too much information? What would you like to remove or de-emphasize?
 
-## Scenario 1 (BID Maximal): Form viewer content and layout - 10 minutes
+## Scenario Orange (BID Maximal): Form viewer content and layout - 10 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen] 
 
-Now we're going to show you a variation of what you've seen so far. Please click on Scenario 1. Please go ahead and take a moment to review the page.
+Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Orange'. Please go ahead and take a moment to review the page.
 
 * What are your initial thoughts on this page?
     * [Probe] What do you think about the:
