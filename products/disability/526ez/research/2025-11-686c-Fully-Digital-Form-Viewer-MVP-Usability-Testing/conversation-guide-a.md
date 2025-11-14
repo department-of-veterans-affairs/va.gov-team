@@ -196,7 +196,7 @@ Thanks for that answer!  This section is optional and not required to be filled 
     * Is there information that should be emphasized?
     * Is there too much information? What would you like to remove or de-emphasize?
 
-## Scenario 2 (VADS Minimal): Form viewer content and layout - 5 minutes
+## Scenario Lemon (VADS Minimal): Form viewer content and layout - 5 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen]
 
 Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Lemon'. Please go ahead and take a moment to review the page. 
