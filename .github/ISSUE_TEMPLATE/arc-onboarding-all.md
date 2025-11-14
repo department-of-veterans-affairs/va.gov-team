@@ -8,7 +8,9 @@ type: Task
 
 ---
 ### General Onboarding to ARC
-Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](http://va.gov) email, you can get access to the following tools: 
+Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](http://va.gov) email, you can get access to the following tools.
+
+**Note**: You won't be able to check the boxes off until your Platform Onboarding Ticket has been completed.
 
 - [ ] **Platform Orientation.** Watch [VA.gov](http://va.gov) Platform Orientation [video](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation). 
 
