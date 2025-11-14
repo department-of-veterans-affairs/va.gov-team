@@ -117,7 +117,7 @@ Feel free to take a minute to hide anything, like your personal email or anythin
 Once you open the link, please share your screen. Please do not click on anything at the moment!
 Awesome! Now that I can see your screen.
 
-## Setting up context and Scenario Orange - 12 minutes
+## Setting up context and Scenario Orange - 7 minutes
 ```
 The participant will encounter the prototypes in the following order:
 - Scenario Orange: BID Maximal 
