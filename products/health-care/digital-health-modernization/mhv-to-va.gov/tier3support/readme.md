@@ -50,7 +50,7 @@ Tier 3 Support should serve as a key source for keeping MHV products and service
 - Do they know what should be escalated?
 
 
-## Requirements
+## Ownership
 #### In Scope 
 - Triange of Tier 3 escalated issues
 - Assignment of issues to proper tool teams
