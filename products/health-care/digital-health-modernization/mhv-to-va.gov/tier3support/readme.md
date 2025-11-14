@@ -42,6 +42,9 @@ Tier 3 Support should serve as a key source for keeping MHV products and service
 ## Challenges
 - Tier 3 Support generally will not be allowed to contact Veterans directly, so it may take considerable time to address their concerns due to additional exchanges with other services who are able to communicate with them.
 
+### Reporting
+- We'll need to be very considerate about what metrics we capture and report on.  We don't want to conflate the performance of this team w/ the performance of MHV.  Certain actions can improve one, the other, or both.
+
 ## Questions
 - Do Tier 1 and 2 centers know how to engage w/ Tier 3?
 - Do they know what should be escalated?
