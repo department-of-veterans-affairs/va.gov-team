@@ -190,7 +190,7 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
 
 Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Orange'. Please go ahead and take a moment to review the page.
 
-* What are your initial thoughts on this page?
+* What are your initial thoughts of this page?
     * [Probe] What do you think about the:
         * sections and subsections
            * How do you feel about the section numbering?
