@@ -3,12 +3,11 @@
 ## Communications
 - Team GitHub Label: MHV-Tier-3
 - Product GitHub Label: MHV-Tier-3
-- Slack channel: ????
-- Product POCs: 
+- Slack channel: TBD once all team members are on DSVA Slack
+- OCTO POCs: 
   - Lauren Alexanderson - OCTO Sponsor
- 
-- Stakeholders: 
-   - 
+  - OCTO UX Support: Becky Phung
+
 
 
 ## The Problem
@@ -61,7 +60,8 @@ Identify and surface issues that inhibit users from successfully accomplishing t
 # Implementation Info
 
 ## Status
-
+- Majority of team members are onboarded to VA, with one awaiting VA credentials.
+- We will begin to pursue accesses to various VA tools to assist the team w/ addressing tickets.
 
 
 ## Team
