@@ -28,16 +28,43 @@
 - TBD
 
 ### Regression Test Plan
-- TBD
+- Our TSA Safe Travel Letter is behind a feature toggle. If major issues arise during release, we will disable the feature toggle.
 
 ### Test Plan
-- TBD
+#### Download letter
+  - As a Veteran, I want to view my TSA Safe Travel Letter, so that I can enroll in TSA PreCheck for free.
+
+    - Preconditions
+      - User is LOA3
+      - User has navigated to `va.gov/records/download-va-letters/letters`
+      - User has the TSA Safe Travel letter in their Efolder
+
+    - Acceptance Criteria
+      - Given I'm on the Letters page
+      - When I scroll down the page to the Letters accordion
+      - Then I click on the TSA accordion item
+      - And I click the download letter link
+      - And I'm prompted to save the letter 
+
+### Ineligible
+  - As a Veteran, I want to know if I'm eligible for the TSA Safe Travel Letter, so that I can download it.
+
+    - Preconditions
+      - User is LOA3
+      - User has navigated to `va.gov/records/download-va-letters/letters`
+      - User does not have the TSA Safe Travel letter in their Efolder
+
+    - Acceptance criteria
+      - Given I'm on the Letters page
+      - When I scroll down the page to the Letters accordion
+      - Then no accordion item exists for the TSA letter
+
 
 ### Coverage for References
-- TBD
+- Functionality has been verified via test users for all user stories - 100%
 
 ### Summary (Defects) Reports
-- TBD
+- No defects were found
 
 ### E2E Tests
 - TBD
