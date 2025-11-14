@@ -199,7 +199,7 @@ Please provide the following documentation as attachments.
     - Links to dashboards that help identify and debug application issues
   - Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your Product Playbook
 - Code links: Link to relevant code directories in GitHub.
-  - Front-end code links
+  - FE: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/dependents/686c-674
   - Back-end code links
   - DevOps code links
 
