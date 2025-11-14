@@ -1,4 +1,4 @@
-# My VA: Payments and debts use cases
+# My VA: Overpayments and copay bills use cases
 
 **Last updated: November 2025**
 
