@@ -253,7 +253,7 @@ Thanks for that answer!  This section is optional and not required to be filled 
 * What factor is most important to help you accomplish your intended purpose for page like this? [Reference previously-mentioned goals]
 
 ## Scenario Apple (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
-Now I'd like us to shift gears again, and I'd like your opinion on an interactive version of what you've seen so far with us today. Please click on Scenario 3. 
+Now I'd like us to shift gears again, and I'd like your opinion on an interactive version of what you've seen so far with us today. Please click on the header again ande click 'Enter Apple'. 
 
 The form output content remains the same as what we've just reviewed, but now there are a bit more features that are on the page. Let's go through each of the additional features one-by-one:
 
