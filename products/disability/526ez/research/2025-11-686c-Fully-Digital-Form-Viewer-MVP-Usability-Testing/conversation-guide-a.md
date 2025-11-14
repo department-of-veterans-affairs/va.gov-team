@@ -201,13 +201,24 @@ Thanks for that answer!  This section is optional and not required to be filled 
 
 Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Lemon'. Please go ahead and take a moment to review the page. 
 
-* What are your initial impressions?
+* What are your initial thoughts on this page?
+    * [Probe] What do you think about the:
+        * sections and subsections
+           * How do you feel about the section numbering?
+           * Is there anything you'd change to improve it?
+           * Is it useful for you? How would you use it?
+        * How do you feel about the question numbering?
+           * Is there anything you'd change to improve it?
+           * Is it useful for you? How would you use it?
+        * headings
+        * two column layout
+  * Can you easily distinguish one section from another? How?
+     * [Probe about visual elements like divider, typography, spacing]  
 
 ### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
 [Answer: San Mateo CA and San Francisco CA]
 
-* Can you easily distinguish repeating sections (such as multiple children)? How?
-    * Is there anything you'd change to improve it?
+* Is there anything you'd change to improve how the children's info is displayed?
 * On a scale from 1-5, 1 being not legible and 5 being very legible... How legible is this page?
     * Why?
     * [If low score] What would make it more legible?
@@ -215,7 +226,12 @@ Now we're going to show you a variation of what you've seen so far. Please click
 ### TASK: Where does it show that Jamie has certified the accuracy of their information on the form they just submitted?
 * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
-### Exploring the differences between Orange and Lemon
+### Important info prompt
+* Now that you had a chance to review the page, is there information that's missing that you'd like to see?
+    * Is there information that should be emphasized?
+    * Is there too much information? What would you like to remove or de-emphasize?
+
+### Orange vs. Lemon differences - 2 minutes
 
 * Now that you had a chance to interact with this version of the page, what are the major differences between what you see here and the demo page you looked at earlier?
     * Which text styling do you prefer? Why?
