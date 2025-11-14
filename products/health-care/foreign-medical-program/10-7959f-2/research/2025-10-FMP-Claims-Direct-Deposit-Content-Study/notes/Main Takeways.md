@@ -37,10 +37,20 @@ Main takeaway from the research sessions
 - Stated would click links about what documents would be needed
 
 **P06**
-- Notes
+- In general, the participant thought that the information was very straightforward and clear
+- Participant wants clarity on what is covered by FMP claims
+- Participant wants additional options to reach out to VA if they are having trouble, such as a chat button or a callback option.
 
 **P07**
-- Notes
+- Wants more confirmation that the banking information entered is correct or verified, both during the form and on the confirmation page
+- Is very familiar with the FMP claims and is excited to see this come online
+- Mentioned there is no reference for what to do if you don't have a domestic bank account (e.g. foreign banking instructions)
+- Very comfortable with va.gov ecosystem and called out consistency
+- Would follow links to get more detailed information when they are available (links to what you need for supporting docs, how to get to fsc site)
+- Wants more confirmation/verfication around banking information - minimum being that all fields are provided during set up, ideal would be including bank name and that it's been verified to be a real bank
+- Overall stated the content and information was clear and the form was consistent with other VA.gov experiences they had
+- Not sure if he thought the bank account information would be entered in the form vs another site...he did state that it would be nice on the confirmation page to at least state the financial institution where the reimbursement would be sent
+- He stated an "online portal for claims submission has been a desire for those of us overseas"
 
 **P08**
 - Notes
