@@ -1,11 +1,10 @@
-# Monitoring & Launch Coordination Addendum  
-### Med Renewal → Secure Messaging Flow (Meds + SM)
+## Med Renewal → Secure Messaging Flow (Meds + SM) Rollout Monitoring Coordination Plan
 
 This document supplements the existing **RX Renewal Flow – MVP Release Plan** and outlines shared monitoring responsibilities, UX and engineering roles, required pre-launch tasks, and post-launch coordination for the medication renewal workflow that routes Veterans from the Medications tool into Secure Messaging.
 
 ---
 
-## 1. Overview of the Cross-Tool Flow
+## 1. Overview of the Meds Renewal SM Flow
 
 The new renewal flow guides Veterans through both Medications and Secure Messaging:
 
@@ -17,20 +16,19 @@ The new renewal flow guides Veterans through both Medications and Secure Messagi
 5. Veteran sees a **prefilled renewal message** in the SM editor  
 6. Veteran sends the message
 
-Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities must be shared**.
+Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities should be shared**.
 
 ---
 
 ## 2. Monitoring Responsibilities
 
 ### 2.1 UX Monitoring (Medallia + Qualitative)  
-**Owners:**  
 - **Meds UX:** Athena  
 - **SM UX:** Espy  
 
 UX will monitor qualitative feedback and user-journey issues using Medallia/VSignals.
 
-#### Meds UX responsibilities  
+#### Meds 
 Monitor the experience *before* a Veteran enters Secure Messaging:
 - Renewal link visibility and accuracy  
 - Confusion between renewal vs refill  
@@ -38,7 +36,7 @@ Monitor the experience *before* a Veteran enters Secure Messaging:
 - Transition issues into Secure Messaging  
 - Veteran comments indicating unclear or missing renewal options  
 
-#### SM UX responsibilities  
+#### SM   
 Monitor the experience *after* the Veteran enters Secure Messaging:
 - Interstitial behavior  
 - Care team selection issues  
@@ -57,8 +55,6 @@ If UX identifies issues:
 ---
 
 ### 2.2 Engineering Monitoring (Datadog + Technical Logging)
-
-**Owners:**  
 - Meds Engineering  
 - SM Engineering  
 
@@ -91,20 +87,19 @@ Monitor the behavior inside SM:
 ## 3. Pre-Launch Tasks
 
 ### 3.1 Collect URLs for VSignals / Medallia Configuration  
-To enable Medallia feedback collection, UX requires all new URLs.
+To enable Medallia feedback collection, UX requires all new URLs. *The updated Product Guide must be included in the VSP/Contact Center Team’s intake request when submitting the new URLs for VSignals.*
 
-#### Required from Meds Engineering:
-- Renewal link destination URL  
+#### Needed from Meds Engineering:
+- Renewal link destination URLs  
 - Any new/updated Medications pages involved in the renewal flow  
 
-#### Required from SM Engineering:
+#### Needed from SM Engineering:
 - SM interstitial URL  
 - Care team selection URL  
 - Prefilled message URL  
 - Any new SM endpoints introduced for the renewal flow  
 
 **Once URLs are provided:**  
-**Owner: Athena (Meds UX)**  
 - [ ] Submit VSignals/Contact Center intake ticket  
 - [ ] Request new URLs be added to Medallia routing  
 - [ ] Confirm updates are completed  
@@ -140,43 +135,11 @@ Both guides should include:
 
 ---
 
-## 4. Rollout Monitoring Integration
-
-During each rollout stage (5% → 25% → 50% → 75% → 100%), both teams confirm:
-
-### UX Checklist  
-- Medallia feedback flowing correctly  
-- No increase in confusion or negative patterns  
-- No unexpected drop-offs between Meds → SM → send  
-
-### Engineering Checklist  
-- No elevated errors in Meds or SM  
-- No routing or interstitial failures  
-- Prefill load + message send stable  
-- Datadog dashboards show expected behavior  
-
-### Decision Making  
-Any anomaly reviewed jointly by:
-- PM  
-- Eng Lead (Meds or SM depending on issue location)  
-- UX Lead  
-- OCTO/DEPO representative (for go/no-go gates)
-
----
-
 ## 5. Success Criteria  
 (To be finalized with Engineering)
 
-Examples of potential metrics:
-- Renewal link click-through rate  
-- Interstitial load success rate  
-- Care team selection completion rate  
-- Prefill load success rate  
-- Message-send success rate  
+Examples of potential metrics (TBD)
+- DataDog API TBD  
+- DataDog RUM Metrics
 - Medallia sentiment changes
 
-Engineering will finalize GA4 + Datadog KPI definitions.
-
----
-
-If anything here needs converting into an issue template or linked sub-tickets, I can generate those too.
