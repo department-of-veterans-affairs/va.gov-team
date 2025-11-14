@@ -10,7 +10,7 @@ We are building a new, online authenticated user flow for prescription renewal r
 
 [Link to Figma file](https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4856-23543&t=IgJL64unibv2ExGT-1)
 
-We have also created a new set of prescription statuses that will be implemented in both Oracle Health and VistA. The existing VistA statuses have been frequently cited as being confusing to users so we have moved to simplify the statuses hoping to more clearly and simply communicate to users what the status of their medication is.
+We have also created a new set of prescription statuses that will be implemented in both Oracle Health and VistA. The existing VistA statuses have been frequently cited as being confusing to users so we have moved to simplify the statuses hoping to more clearly communicate to users the status of their medication.
 
 [Link to Figma file](https://www.figma.com/design/VunyfNQ9x7Bt58D9B2qnW5/%F0%9F%92%A1-Working-file--MHV-Medications---Devices-?m=auto&node-id=2090-14060&t=If8qo2rddrTHtr05-1)
 
@@ -42,8 +42,8 @@ Objective 1: VA’s digital experiences are the easiest and most efficient way t
 
 
 
-1. Evaluate whether Veterans understand the meaning of all of the new prescription statuses and if not, which ones cause confusion and/or Veterans think means something else.
-2. Evaluate if Veterans can successfully use the renewal flow to request a renewal of their medications and if not where they fail in the intended flow.
+1. Evaluate whether Veterans understand the meaning of all of the new prescription statuses and if not, which ones cause confusion and/or Veterans think mean something else.
+2. Evaluate if Veterans can successfully use the renewal flow to request a renewal of their medications and if not, where they fail in the intended flow.
 3. Identify any pain points or uncertainties the Veterans experience while using the new renewal flow that it is possible to address with the design.
 
 
@@ -56,7 +56,7 @@ The results of this study will show if the new medication statuses improve Veter
 
 
 
-1. Do users understand the prescription statuses? If not, what do they think the statuses mean? What parts confuse them?
+1. Do users understand the prescription statuses? If not, what do they think the statuses mean? Which parts confuse them?
 2. Can Veterans successfully and easily request a medication renewal with the new renewal through SM flow on [VA.gov](VA.gov)?
 3. What about this experience appeals to and enables users? 
 4. What changes would Veterans make to the flow to improve their experience?
@@ -66,7 +66,7 @@ The results of this study will show if the new medication statuses improve Veter
 
 
 
-1. Most Veterans will think the new medication statuses are logical.
+1. Most Veterans will understand the revised medication statuses as intended.
 2. Some Veterans will equate refill and renewal and be confused.
 3. Most Veterans will be able to successfully place a renewal request using the new SM flow.
 
