@@ -106,6 +106,61 @@ Before we look at the demo website, we’ll start with a few warm-up questions.
 3. When you’re filling out a long form or application online, how do you usually keep track of where you are or what’s left to do?
 4. What helps you feel confident that you’re making progress when you’re filling out something online?
 
+# Context, Prototype, and Screen Share Set Up - 3 min 
+Before we get started, are you using a desktop or mobile device?
+
+[Participant responds]
+
+Great, I am going to send you our link for X device in the chat. 
+
+Side Nav Desktop [Insert Figma Link]
+Side Nav Mobile [Insert Figma Link]
+Process List Desktop [Insert Figma Link]
+Process List Mobile [Insert Figma Link]
+
+I am going to ask you to share your screen. But please feel free to take a minute to hide anything, like your personal email or anything you don’t want us to see. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
+
+---
+**For “mobile“ participants:**
+Do you have an iPhone or an Android phone?
+- iPhone: [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+- Android: [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+  
+If they are a “mobile” participant but joined on their desktop (and if asking them to rejoin on their phone is too time-consuming):
+Please feel free to access the link on your computer.
+
+**For “desktop” participants:**
+On the bottom of your Zoom screen, there should be a “Share” button in the middle (it should be in green). Please click on that.
+Please make sure “Desktop” is selected/highlighted.
+Please click “Share” again at the bottom.
+
+**For “tablet” participants:**
+*We should not have tablet participants, but in the event that we do, we can send the mobile prototype*
+
+Instructions should be similar to “mobile”
+
+If you are on an iPad or Tablet, the button is hidden in the bottom of your screen. Tap anywhere on your screen, a “tool bar” will show up at the bottom of the screen, and the share button should be within the tool bar (you may need to drag the tool bar to the left to see it). 
+
+---
+
+Once you open the link, please share your screen. Please do not click on anything at the moment!
+
+Awesome! Now you have entered our demo page. It is going to look like the VA.gov website that you may be familiar with. I just want to reiterate that this is a demo website and none of the account information is from a real person. 
+
+For the remainder of the session, I’d like you to imagine that you are a veteran named Jordan Jackson. (Just to clarify, Jordan is not a real person, and the demo that you are looking at is not a real application.) 
+
+I will be asking you to fill out a shortened version of the disability benefits form as Jordan Jackson. The form is not real, and you will not need to type in any information. When you click on an area, text will automatically appear in the box. 
+
+During the session, I’ll ask you to go through several screens.
+
+On some pages, I’ll just ask you to click through to get to the next part -  that will be to help us move along.
+
+On other pages, I’ll ask you to complete a task or share your thoughts as you go - that’s where we’ll focus our discussion.
+
+I’ll let you know which is which as we go.
+
+I want to emphasize that you are testing the form, the form is not testing you. So please feel free to give us honest feedback.
+
 
 ## First Task: [TASK NAME] - X minutes
 
