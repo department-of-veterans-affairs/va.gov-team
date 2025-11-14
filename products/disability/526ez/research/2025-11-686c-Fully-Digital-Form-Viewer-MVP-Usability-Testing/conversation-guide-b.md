@@ -170,7 +170,7 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
 
 ### TASK: Could you show us how many children are being added as dependents? And what are their names?
 [Answer: 2, Andrew and Anna]
-* Is there anything you'd change to improve it?
+* Is there anything you'd change to improve how the children's info is displayed?
 * On a scale from 1-5, 1 being not legible and 5 being very legible... How legible is this page?
     * Why?
     * [If low score] What would make it more legible?
