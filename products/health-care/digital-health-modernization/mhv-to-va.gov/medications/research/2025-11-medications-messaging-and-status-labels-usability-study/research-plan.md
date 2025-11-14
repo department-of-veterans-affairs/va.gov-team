@@ -158,16 +158,6 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 * At least 1 participant who uses a screen reader and 1 who uses screen magnification
 
 
-### VA Equity matrix 
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
 
 ### Screener questions
 
@@ -177,7 +167,8 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
     * Call the pharmacy
     * Send a message to my doctor in my health portal
     * Schedule an appointment with doctor 
-    * I don’t have any VA prescriptions  
+    * I don’t have any VA prescriptions
+    * Other
 * About how often would you say you login to MHV on [VA.gov](VA.gov) to manage your prescriptions? (“Manage” can involve checking on the status, requesting a refill, printing a list, or reading information about a medication).
     * 2 or more times a week
     * At least once a week
