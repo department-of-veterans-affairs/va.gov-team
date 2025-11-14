@@ -14,13 +14,26 @@
 ## The Problem
 Veterans and VA Staff will occasionally run into issues when using websites and software provided by MHV.  These may be simple or complex, and if they require engineering to resolve, these items will generally be escalated to Tier 3 so that Support can ensure that these problems get surfaced to those who can help solve them.
 
+## Objective
+Identify and surface issues that inhibit users from successfully accomplishing the self-service tasks they undertake on MHV on VA.gov, as well as assist internal VA staff with issues preventing successful accomplishment of tasks within internal MHV tools (such as Secure Messaging), to the teams that can address them. 
+
+### Not the goal
+- Keeping the issue backlog low
+  - While this shold be a related outcome of Tier 3 operating as desired, it is not the mission. The mission is surfacing problems to those who can address them. 
+- Resolving the issues without team support
+  - While this may be possible at times, and will certainly be pursued where possible, most legitimate issues that reach Tier 3 should require engineering support.
+### Desirable outcomes
+- When issues arise for a user that exceed Tier 2 capabilities, Tier 3 is able to quickly surmise and identify the issue, then notify the operative team so that they can address it in a short time span.
+- MHV tool teams understand what is expected of them on Tier 3 issues and are able to efficiently perform diagnosis and communicate resolutions.
+### Undesirable outcomes
+- Tier 3 issues go unaddressed at the Triage stage and fail to reach relevant tool teams in a timely manner, allowing issues that are possibly systemic to remain, frustrating users.
 
 ### User Goals
-- Ability to quickly and easily be assisted with issues on VA.gov's website that get escalated to Tier 3 status.
+- Ability to quickly and easily be assisted with issues within MHVT on VA.gov website that require escalation to Tier 3 status.
 
 
 ### Business Goals
-- Support Veterans and VA Staff with any issues encountered with VA software services that get escalated to Tier 3 status.
+- Support Veterans and VA Staff with any issues encountered with MHV services that get escalated to Tier 3 status.
 
 
 ## Challenges
