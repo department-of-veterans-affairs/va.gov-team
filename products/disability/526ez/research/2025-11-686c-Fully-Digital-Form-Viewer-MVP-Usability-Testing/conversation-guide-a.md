@@ -168,24 +168,6 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
     * How do you expect to retrieve this information?
         * [Probe for MyVA, email, etc. but don't go too deeply]
 
-Now, we'd like your feedback on how the information is displayed on this page. 
-* What are your initial thoughts on this page?
-   * [Probe] What do you think about the:
-      * sections and subsections
-         * How do you feel about the section numbering?
-         * Is there anything you'd change to improve it?
-         * Is it useful for you? How would you use it?
-      * How do you feel about the question numbering?
-         * Is there anything you'd change to improve it?
-         * Is it useful for you? How would you use it?
-      * headings
-      * two column layout
-   * Can you easily distinguish one section from another? How?
-      * [Probe about visual elements like divider, typography, spacing]
-* Is there information that's missing that you'd like to see?
-    * Is there information that should be emphasized?
-    * Is there too much information? What would you like to remove or de-emphasize?
-
 ### TASK: Could you show us how many children are being added as dependents? And what are their names?
 [Answer: 2, Andrew and Anna]
 * Can you easily distinguish repeating sections (such as multiple children)? How?
