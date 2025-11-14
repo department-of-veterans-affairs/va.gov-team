@@ -100,7 +100,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 3. Do you have anything else you want to add?
        
 
-## First Task: Keep or add back a dependent - X minutes
+## First Task: Sharing prototype & Keep or add back a dependent - 10 minutes
 
 - Now let's take a look at the prototype.
 - Share [prototype link](https://www.figma.com/proto/7aJrwvfqkN4yvfMdoZj3XB/686c-674---2025-2026-Improvements?page-id=2200%3A54070&node-id=2205-69936&p=f&viewport=-6113%2C2296%2C0.5&t=ON9DMMXzrbqflfLT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2200%3A64970)
@@ -116,14 +116,8 @@ Before we look at the prototype, let’s start with a few warm-up questions.
      - What would you do next?
   
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
 
-## Second Task: Select which eligible children through accreditation - X minutes
+## Second Task: Select which eligible children through accreditation - 5 minutes
 
 - You may notice we've jumped to Step 3. Step 1 and 2 are the dependent's address and any previous marriages. We're skipping those for the sake of time today.
 
@@ -133,12 +127,12 @@ Before we look at the prototype, let’s start with a few warm-up questions.
      - What would you do next?
  
 - *Screen: Other education benefits*
-     - If you have questions about which benefits to select, what would you do?
+     - If you have questions about which benefits to select, what would you do? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
 - *Screen: Federally funded schools or programs*
-     - If you have questions about which benefits to select, what would you do?
+     - If you have questions about which benefits to select, what would you do? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
@@ -148,74 +142,83 @@ Before we look at the prototype, let’s start with a few warm-up questions.
  
 - *Screen: When did KAI start receiving federal education benefits?*
      - Which date would you fill in here?
-     - If you have questions about which date to enter, what would you do?
+     - If you have questions about which date to enter, what would you do? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
   - *Screen: KAI's school accreditation status*
-     - Is there anything that you would need to know to answer this question?
+     - Is there anything that you would need to know to answer this question? If so, how would you find answers to your questions? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
    
     
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
 
-## Third Task: Terms and school attendance - X minutes
+## Third Task: Terms and school attendance - 5 minutes
 
   - *Screen: Current or future term*
      - Which dates would you fill in here?
-     - If you have questions about which date to enter, what would you do?
+     - If you have questions about which date to enter, what would you do? How would you like to find answers to your questions?
      - How would you describe the difference between the first two dates on the page?
      - Do you have any other feedback on this page?
      - What would you do next?
    
   - *Screen: KAI's Previous term*
-     - Is there anything that you would need to know to answer this question?
+     - Is there anything that you would need to know to answer this question? If so, how would you find answers to your questions? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
   - *Screen: KAI's Previous term dates*
-     - How would you decide which dates would you fill in here?
-     - If you have questions about which dates to enter, what would you do?
+     - How would you decide which dates you would fill in here?
+     - If you have questions about which dates to enter, what would you do? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
   - *Screen: KAI's school attendance history*
-     - Is there anything that you would need to know to answer this question?
+     - Is there anything that you would need to know to answer this question? If so, how would you find answers to your questions? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
   - *Screen: When did KAI stop attending school continuously?*
      - How would you decide which date to fill in here?
-     - If you have questions about which date to enter, what would you do?
+     - If you have questions about which date to enter, what would you do? How would you like to find answers to your questions?
      - Do you have any other feedback on this page?
      - What would you do next?
 
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
 
-## Fourth Task: Income and expenses - X minutes
+## Fourth Task: Income and expenses - 5 minutes
 
   - *Screen: KAI's income for this school term*
-     - 
+     - If you have questions about what to enter, what would you do? How would you like to find answers to your questions?
+     - Do you have any other feedback on this page?
+     - What would you do next?
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+  - *Screen: KAI's expected income for next year*
+     - If you have questions about what to enter, what would you do? How would you like to find answers to your questions?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+   
+  - *Screen: Value of student assets*
+     - If you have questions about what to enter, what would you do? How would you like to find answers to your questions?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+   
+  - *Screen: KAI's school expenses*
+     - Is there anything that you would need to know to answer this question? If so, how would you find answers to your questions? How would you like to find answers to your questions?
+     - Do you have any other feedback on this page?
+     - What would you do next?
 
-# Post-Task Interview - X minutes
+  - *Screen: KAI's school expense amounts*
+     - What would you do on this page?
+     - Is there another way that you would like to enter this information?
+     - Do you have any other feedback on this page?
+     - What would you do next?
+       
 
-- Now that you've seen all of the screens, do you have 
+
+# Post-Task Interview - 5 minutes
+
+- Now that you've seen all of the screens, do you have any additional feedback?
 - Any questions for me? 
 
 ## Consent to use video clips
@@ -226,7 +229,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
