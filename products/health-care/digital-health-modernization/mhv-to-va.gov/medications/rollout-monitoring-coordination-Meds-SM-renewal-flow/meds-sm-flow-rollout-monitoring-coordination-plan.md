@@ -1,10 +1,11 @@
 # Med Renewal → Secure Messaging Flow Rollout Monitoring Coordination Plan
 
-This document supplements the **RX Renewal Flow – MVP Release Plan** and outlines shared documentation updates, monitoring responsibilities, required pre-launch tasks, and post-launch coordination for the renewal workflow that routes Veterans from the Medications tool into Secure Messaging.
+This document supplements the **RX Renewal Flow – MVP Release Plan** and outlines shared documentation updates, monitoring responsibilities, required pre-launch tasks, and post-launch coordination for the renewal workflow that routes Veterans from the Medications tool into Secure Messaging. Because monitoring spans both products, this work will require coordinated collaboration across **Meds engineering**, **SM engineering**, and **Data Analytics (Marcello)** to define and build the Datadog dashboards needed for end-to-end visibility.
 
 ---
 
 ## 1. Overview of the Meds → SM Renewal Flow
+
 The renewal flow guides Veterans through both Medications and Secure Messaging:
 
 1. Veteran views their medication list in Medications  
@@ -18,11 +19,11 @@ Because the journey spans two products, **monitoring, URLs, documentation, and r
 
 ---
 
-## **2. Product Guide Updates (Required Early Task)**
+## 2. Product Guide Updates (Required Early Task)
 
 Product Guides must be updated early so UX can submit VSP/Contact Center intake requests and configure VSignals/Medallia.
 
-### **2.1 Medications Product Guide Updates**
+### 2.1 Medications Product Guide Updates
 - Description of the renewal link  
 - Renewal vs refill eligibility logic  
 - Screenshots and link placement  
@@ -30,7 +31,7 @@ Product Guides must be updated early so UX can submit VSP/Contact Center intake 
 - Known limitations (e.g., no available care team)  
 - Integration points with SM  
 
-### **2.2 Secure Messaging Product Guide Updates**
+### 2.2 Secure Messaging Product Guide Updates
 - Overview of receiving medication renewal requests  
 - SM interstitial behavior  
 - Care team selection logic  
@@ -39,22 +40,14 @@ Product Guides must be updated early so UX can submit VSP/Contact Center intake 
 - Error states and known issues  
 - Integration notes with Meds  
 
-### **2.3 Shared Documentation Requirements**
-Both Product Guides should include:
-- Outline of the cross-tool workflow  
-- Shared monitoring responsibilities  
-- All URLs required for Medallia/VSignals  
-- Links to dashboards (GA4, Datadog, Medallia/VSignals)  
-- Staged rollout details and escalation steps  
-
 ---
 
-## **3. Monitoring Responsibilities**
+## 3. Monitoring Responsibilities
 
-### **3.1 UX Monitoring (Medallia / VSignals)**  
+### 3.1 UX Monitoring (Medallia / VSignals)
 Teams: **Meds UX**, **SM UX**
 
-#### **Meds UX Responsibilities**
+#### Meds UX Responsibilities
 Monitor experience *before* the Veteran enters Secure Messaging:
 - Renewal link visibility and accuracy  
 - Confusion between renewal vs refill  
@@ -62,7 +55,7 @@ Monitor experience *before* the Veteran enters Secure Messaging:
 - Transition issues into SM  
 - Veteran comments indicating unclear or missing renewal options  
 
-#### **SM UX Responsibilities**
+#### SM UX Responsibilities
 Monitor experience *after* the Veteran enters Secure Messaging:
 - Interstitial behavior  
 - Care team selection issues  
@@ -71,24 +64,23 @@ Monitor experience *after* the Veteran enters Secure Messaging:
 - Message-send confusion or errors  
 - Veteran comments specific to SM  
 
-#### **UX Escalation**
-1. Identify whether issue occurred in **Meds** or **SM**  
-2. Notify the appropriate engineering team  
-3. Engineering validates through logs/Datadog  
-4. PM + Eng Lead determine severity and action steps  
+#### UX Escalation
+- UX surfaces relevant qualitative feedback to Product and Engineering when patterns or concerning experiences emerge.  
+- UX flags whether the feedback appears related to the Meds portion of the flow or the SM portion.  
+- Engineering teams review and determine next steps based on their internal processes.
 
 ---
 
-### **3.2 Engineering Monitoring (Datadog + Logging)**  
+### 3.2 Engineering Monitoring (Datadog + Logging)
 Teams: **Meds Engineering**, **SM Engineering**
 
-#### **Meds Engineering Responsibilities**
+#### Meds Engineering Responsibilities
 - Renewal link rendering  
 - Eligibility behavior (renewal vs refill)  
 - Errors launching the SM flow  
 - Incorrect routing into SM  
 
-#### **SM Engineering Responsibilities**
+#### SM Engineering Responsibilities
 - Interstitial load errors  
 - Care team API failures  
 - Prefill load issues  
@@ -96,26 +88,26 @@ Teams: **Meds Engineering**, **SM Engineering**
 - Message send errors  
 - SM backend/API errors  
 
-#### **Engineering Escalation**
-1. Validate issues in logs  
-2. Identify whether issue is in **Meds** or **SM**  
-3. Follow severity-based rollback steps  
-4. Coordinate with UX + PM  
+#### Cross-Team Issue Awareness
+- Engineering monitors Datadog logs and system errors in their respective areas.  
+- UX flags qualitative issues surfaced through VSignals/Medallia that relate to the renewal flow.  
+- UX notifies Product and the corresponding engineering team (Meds or SM) when qualitative or logged issues appear connected to this flow.  
+- Engineering owns evaluation and determines appropriate next steps per their standard processes.
 
 ---
 
-## **4. Pre-Launch Tasks**
+## 4. Pre-Launch Tasks
 
-### **4.1 Collect URLs for VSignals / Medallia Configuration**
+### 4.1 Collect URLs for VSignals / Medallia Configuration
 
 To enable Medallia feedback collection, UX requires **all new URLs**.  
 **Updated Product Guides must be attached** to the VSP/Contact Center intake request.
 
-#### **Needed from Meds Engineering**
+#### Needed from Meds Engineering
 - Renewal link destination URLs  
 - Any new/updated Medications pages in the flow  
 
-#### **Needed from SM Engineering**
+#### Needed from SM Engineering
 - SM interstitial URL  
 - Care team selection URL  
 - Prefilled message URL  
@@ -129,13 +121,101 @@ To enable Medallia feedback collection, UX requires **all new URLs**.
 
 ---
 
-## **5. Success Criteria**  
+## 5. Success Criteria
 *(To be finalized with Engineering)*
 
 Potential measures:
 - Datadog API success/error rates  
-- Datadog RUM metrics for each step of the flow  
-- Clear attribution of issues to Meds vs SM  
+- Datadog RUM metrics (TBD)  
 - Medallia sentiment trends related to renewals  
+- Other?
 
 ---
+
+## 6. Rollout Timeline (TBD — Phased Release)
+
+*This rollout will follow a staged exposure approach. Dates and counts will be finalized once engineering confirms readiness.*
+
+---
+
+### Stage A: 5% of users
+Test a small subset of users to validate basic stability and ensure no major blockers in the Meds → SM renewal flow.
+
+#### Planning
+- **Length of time:** TBD  
+- **Percentage of users:** 5%  
+- **Estimated number of users:** TBD  
+
+#### Results
+- **Number of unique users:** XX  
+- **Metrics monitored:** See “Success Criteria”  
+- **Downstream service impacts:** No  
+- **Types of errors logged:** XX  
+- **Changes needed based on logs or qualitative feedback:** TBD  
+
+---
+
+### Stage B: 25% of users
+Expand exposure to confirm system behavior under greater load and validate renewal-routing reliability.
+
+#### Planning
+- **Length of time:** TBD  
+- **Percentage of users:** 25%  
+- **Estimated number of users:** TBD  
+
+#### Results
+- **Number of unique users:** XX  
+- **Metrics monitored:** See “Success Criteria”  
+- **Downstream service impacts:** No  
+- **Types of errors logged:** XX  
+- **Changes needed based on logs or qualitative feedback:** TBD  
+
+---
+
+### Stage C: 50% of users
+Scale further to ensure performance, routing accuracy, and prefill behavior remain stable.
+
+#### Planning
+- **Length of time:** TBD  
+- **Percentage of users:** 50%  
+- **Estimated number of users:** TBD  
+
+#### Results
+- **Number of unique users:** XX  
+- **Metrics monitored:** See “Success Criteria”  
+- **Downstream service impacts:** No  
+- **Types of errors logged:** XX  
+- **Changes needed based on logs or qualitative feedback:** TBD  
+
+---
+
+### Stage D: 75% of users
+Wider rollout to validate stability with near-full production traffic.
+
+#### Planning
+- **Length of time:** TBD  
+- **Percentage of users:** 75%  
+- **Estimated number of users:** TBD  
+
+#### Results
+- **Number of unique users:** XX  
+- **Metrics monitored:** See “Success Criteria”  
+- **Downstream service impacts:** No  
+- **Types of errors logged:** XX  
+- **Changes needed based on logs or qualitative feedback:** TBD  
+
+---
+
+### Stage E: 100% of users
+Full release to all users.
+
+#### Planning
+- **Length of time:** TBD  
+- **Percentage of users:** 100%  
+
+#### Results
+- **Number of unique users:** XX  
+- **Metrics monitored:** See “Success Criteria”  
+- **Downstream service impacts:** No  
+- **Types of errors logged:** XX  
+- **Changes needed based on logs or qualitative feedback:** TBD  
