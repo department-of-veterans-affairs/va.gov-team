@@ -2,11 +2,11 @@
 
 ## Overview 
 
-To create a [VA.gov](http://VA.gov) account, Veterans must first enter an email address and verify their identity. Their email address is necessary if they log in to their account through [ID.me](http://ID.me) or [Login.gov](http://Login.gov). The email address that a Veteran uses to set up their account is then used for important communications from the VA. 
+To create a [VA.gov](http://VA.gov) account, Veterans must first enter an email address and verify their identity. Their email address is necessary if they log in to their account through [ID.me](http://ID.me) or [Login.gov](http://Login.gov). This email is referred to as the identity email. Veterans can also provide an email to receive communications from the VA. This is called the Contact email, and is not attached to the identity email in any way. The contact email address is the email address that receives important communications from the VA and will be the email address that the Authenticated Experience team and MFS team will be focusing on within this initiative.
 
-Currently, there is no verification process on the web and the VAHB app to ensure that, over time, the email address is valid and being monitored by the user. Veterans with stale email addresses can lead to reduced engagement, and the VA is unable to ensure that they are properly communicating with that user. 
+Currently, there is no verification process on the web and the VAHB app to ensure that, over time, the contact email address is valid and being monitored by the user. Veterans with stale email addresses can lead to reduced engagement, and the VA is unable to ensure that they are correctly communicating with that user. 
 
-As of July 2025, the Authenticated Experience team is working to implement an email verification process on [VA.gov](http://VA.gov). They will require the Veteran’s email address stored in [VA.gov](http://VA.gov) Profile to be verified once a year. After this is created on the web, we will need to integrate it with the email verification process on the VAHB mobile app, ensuring that VAHB has the most up-to-date email addresses.   
+As of July 2025, the Authenticated Experience team is working to implement an email verification process on [VA.gov](http://VA.gov) for the contact email. They will require the Veteran’s contact email address stored in [VA.gov](http://VA.gov) Profile to be verified once a year. After this is created on the web, we will need to integrate it with the email verification process on the VAHB mobile app, ensuring that VAHB has the most up-to-date email addresses.    
 
 ## Problem Statement
 
