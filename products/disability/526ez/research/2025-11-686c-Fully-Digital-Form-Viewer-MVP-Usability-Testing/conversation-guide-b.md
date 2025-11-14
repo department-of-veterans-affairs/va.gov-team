@@ -207,8 +207,7 @@ Now we're going to show you a variation of what you've seen so far. Please click
 ### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
 [Answer: San Mateo CA and San Francisco CA]
 
-* Can you easily distinguish repeating sections (such as multiple children)? How?
-    * Is there anything you'd change to improve it?
+* Is there anything you'd change to improve how the children's info is displayed?
 * On a scale from 1-5, 1 being not legible and 5 being very legible... How legible is this page?
     * Why?
     * [If low score] What would make it more legible?
@@ -227,7 +226,12 @@ Thanks for that answer!  This section is optional and not required to be filled 
 * How about for sections or questions you did not encounter when you were filling out the form? 
     * How do you feel about seeing these sections displayed like this on this page if you never encountered them in the form while you were filling it out?
 
-### Exploring the differences between Scenario 1 and Scenario 2
+### Important info prompt
+* Now that you had a chance to review the page, is there information that's missing that you'd like to see?
+    * Is there information that should be emphasized?
+    * Is there too much information? What would you like to remove or de-emphasize?
+
+### Orange vs. Lemon differences - 2 minutes
 
 * Now that you had a chance to interact with this version of the page, what are the major differences between what you see here and the demo page you looked at earlier?
     * Which text styling do you prefer? Why?
@@ -244,11 +248,11 @@ Thanks for that answer!  This section is optional and not required to be filled 
     * [Probe about visual elements like divider, typography, spacing]
 * How do you feel about the sections not being numbered? Why?
 
-## Scenario 1 vs. Scenario 2 comparison conclusion - 2 minutes
+## Orange vs. Lemon comparison conclusion - 2 minutes
 * Out of the two concept variations we showed you so far, which do you prefer? Why?
 * What factor is most important to help you accomplish your intended purpose for page like this? [Reference previously-mentioned goals]
 
-## Scenario 3 (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
+## Scenario Apple (VADS Minimal + a la carte): Gathering feedback on interactive features of form viewer - 10 minutes
 Now I'd like us to shift gears again, and I'd like your opinion on an interactive version of what you've seen so far with us today. Please click on Scenario 3. 
 
 The form output content remains the same as what we've just reviewed, but now there are a bit more features that are on the page. Let's go through each of the additional features one-by-one:
