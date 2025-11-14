@@ -16,11 +16,15 @@ Veterans and VA Staff will occasionally run into issues when using websites and 
 ## Objective
 Identify and surface issues that inhibit users from successfully accomplishing the self-service tasks they undertake on MHV on VA.gov, as well as assist internal VA staff with issues preventing successful accomplishment of tasks within internal MHV tools (such as Secure Messaging), to the teams that can address them. 
 
-### Not the goal
+## Vision
+Tier 3 Support should serve as a key source for keeping MHV products and services robust.  When operating as intended, it will help MHV become aware of any issues in its offerings and address them with minimal user-experienced issues.
+
+### Not the express goal of this team
 - Keeping the issue backlog low
   - While this shold be a related outcome of Tier 3 operating as desired, it is not the mission. The mission is surfacing problems to those who can address them. 
 - Resolving the issues without MHV team support
   - While this may be possible at times, and will certainly be pursued where possible, most legitimate issues that reach Tier 3 should require engineering support.
+
 ### Desirable outcomes
 - When issues arise for a user that exceed Tier 2 capabilities, Tier 3 is able to quickly surmise and identify the issue, then notify the operative team so that they can address it in a short time span.
 - MHV tool teams understand what is expected of them on Tier 3 issues and are able to efficiently perform diagnosis and communicate resolutions.
@@ -45,7 +49,7 @@ Identify and surface issues that inhibit users from successfully accomplishing t
 
 ## Requirements
 #### In Scope 
-- Response to Tier 3 issues
+- Triange of Tier 3 escalated issues
 - Assignment of issues to proper tool teams
 
 #### Out of Scope
