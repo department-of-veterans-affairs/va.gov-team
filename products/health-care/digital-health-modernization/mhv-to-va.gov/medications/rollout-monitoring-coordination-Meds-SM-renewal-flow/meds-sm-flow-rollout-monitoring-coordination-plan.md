@@ -14,7 +14,7 @@ The renewal flow guides Veterans through both Medications and Secure Messaging:
 5. Veteran sees a **prefilled renewal message** in the SM editor  
 6. Veteran sends the message  
 
-Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities must be shared across teams**.
+Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities should be shared across teams**.
 
 ---
 
