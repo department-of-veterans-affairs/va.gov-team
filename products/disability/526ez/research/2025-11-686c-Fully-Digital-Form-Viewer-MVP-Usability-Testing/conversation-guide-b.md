@@ -180,6 +180,11 @@ Let's go ahead and click the link. Please skim through the sections, questions, 
 
 * How easy was that on a scale from 1-5, 1 being very difficult and 5 being very easy. Why?
 
+### Important info prompt
+* Now that you had a chance to review the page, is there information that's missing that you'd like to see?
+    * Is there information that should be emphasized?
+    * Is there too much information? What would you like to remove or de-emphasize?
+
 ## Scenario 1 (BID Maximal): Form viewer content and layout - 10 minutes
 [Instruct participant to click on the VA.gov page header, which will bring them to the variations screen] 
 
@@ -198,9 +203,6 @@ Now we're going to show you a variation of what you've seen so far. Please click
         * two column layout
   * Can you easily distinguish one section from another? How?
      * [Probe about visual elements like divider, typography, spacing]  
-* Is there information that's missing that you'd like to see?
-    * Is there information that should be emphasized?
-    * Is there too much information? What would you like to remove or de-emphasize?
 
 ### TASK: Can you show us what the birthplaces are for the 2 children that are being added to Jamie's VA benefits?
 [Answer: San Mateo CA and San Francisco CA]
