@@ -30,16 +30,27 @@ their document that failed to get to VBMS via Lighthouse (Type 2).
 Currently the presence of Type 2 errors do not fire off events, however it could be interesting to record an event when the user navigates to CST and sees it. This would require adding a new event (maybe named `claims-upload-failure-type-2`) that includes the number of failed documents. Then implement the second funnel below.
 
 #### Recommended Funnels
-Type 1 Drop-off (navigation away from page)
+**Type 1 Drop-off (navigation away from page)**
 1. User Navigates to CST Files page or Evidence Request Page
 1. User uploads file(s) (fires off `claims-upload-start` event)
 1. One or more file(s) fail to upload showing Type 1 Unknown Error message (fires off `claims-upload-failure` event)
 1. User navigates away from CST Files page or Evidence Request Page
 
-Type 2 Drop-off (navigation away from CST - Status Tab or Files Tab)
+**Type 1 Retry**
+1. User Navigates to CST Files page or Evidence Request Page
+1. User uploads file(s) (fires off `claims-upload-start` event)
+1. One or more file(s) fail to upload showing Type 1 Unknown Error message (fires off `claims-upload-failure` event)
+1. User retries one or more of the same file(s) that failed (fires off the `claims-upload-start` event, comparing the file name and size)
+
+**Type 2 Drop-off (navigation away from CST - Status Tab or Files Tab)**
 1. User Navigates to CST Status Tab
-1. User sees Type 2 Error (fires off new `claims-upload-failure-type-2`)
+1. User sees Type 2 Error (fires off new `claims-upload-failure-type-2`event)
 1. User navigates away OR navigates to `/files-we-couldnt-receive` page
+
+**Type 2 Retry**
+1. User Navigates to CST Status Tab
+1. User sees Type 2 Error (fires off new `claims-upload-failure-type-2` event)
+1. User tries to upload any of the failed uploads on that claim matching the file name and size (fires off the `claims-upload-start` event)
 
 ---
 
@@ -161,10 +172,21 @@ Type 2 Drop-off (navigation away from CST - Status Tab or Files Tab)
 3. One or more file(s) fail to upload showing Type 1 Unknown Error message → `claims-upload-failure` event fires
 4. User navigates away from CST Files page or Evidence Request Page
 
+**Type 1 Retry**
+1. User navigates to CST Files page or Evidence Request Page
+2. User uploads file(s) → `claims-upload-start` event fires
+3. One or more file(s) fail to upload showing Type 1 Unknown Error message → `claims-upload-failure` event fires
+4. User uploads **same** file(s) → `claims-upload-start` event fires
+
 **Type 2 Drop-off Funnel (Silent/Delayed Failure)**
 1. User navigates to CST Status Tab
 2. User sees Type 2 Error → `claims-upload-failure-type-2` event fires (new)
 3. User navigates away OR navigates to `/files-we-couldnt-receive` page
+
+**Type 2 Retry**
+1. User navigates to CST Status Tab
+2. User sees Type 2 Error → `claims-upload-failure-type-2` event fires (new)
+3. User uploads a file matching the name and size of a failed evidence submission → `claims-upload-start` event fires
 
 ### Success Criteria
 
@@ -202,12 +224,10 @@ Type 2 Drop-off (navigation away from CST - Status Tab or Files Tab)
 
 #### Analytics Setup
 - [ ] **Consult with vfs-analytics team** on GA funnel configuration
-  - Two recommended funnel structures (Type 1 and Type 2)
+  - Recommended funnel structures (Type 1 and Type 2)
   - Confirm event names and funnel step definitions
   - Determine if custom dimensions or additional metadata are needed
 - [ ] **Set up funnels in Google Analytics**
-  - Configure Type 1 Drop-off Funnel (upload failure → exit)
-  - Configure Type 2 Drop-off Funnel (silent failure discovery → exit)
   - Set up dashboard views for ongoing monitoring
 
 #### Documentation & Communication
