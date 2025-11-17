@@ -6,7 +6,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| TBD | When enabled, a net new letter will surface on the `/records/download-va-letters/letters` page for elibible Veterans. |
+| tsa_safe_travel_letter | When enabled, a net new letter will surface on the `/records/download-va-letters/letters` page for elibible Veterans. |
 
 ## Step 2: Validation
 
