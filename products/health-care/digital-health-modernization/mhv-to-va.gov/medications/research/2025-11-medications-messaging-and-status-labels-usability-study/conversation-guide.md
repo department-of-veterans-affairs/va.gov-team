@@ -128,25 +128,25 @@ First, we’re going to navigate to the medications page by selecting the medica
 
 1. Tell me what you are looking at.
 2. What can you tell me about what’s going on with your prescriptions.
-3. What can you tell me about x medication? (make med in “**active **status”)
+3. What can you tell me about x medication? (make med in “**active** status”)
     1. Probe: what does that mean to you?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
-    3. What do you think “active” means?
-    4. What do you think happens next for your medication?
+        1.  What do you think “active” means?
+        2. What do you think happens next for your medication?
 4. What can you tell me about x medication? (make med in “**in progress** status”)
-    5. Probe: what does that mean to you?
-    6. What is going on with your med? (If needed, call attention to status) and probe: 
-    7. What do you think “in progress” means?
-    8. What do you think happens next for your medication?
+    1. Probe: what does that mean to you?
+    2. What is going on with your med? (If needed, call attention to status) and probe: 
+        1. What do you think “in progress” means?
+        2. What do you think happens next for your medication?
 5. What can you tell me about x medication? (make med in “**inactive** status”)
-    9. Probe: what does that mean to you?
-    10. What is going on with your med? (If needed, call attention to status) and probe: 
-    11. What do you think “inactive” means?
-    12. What do you think happens next for your medication?
+    1. Probe: what does that mean to you?
+    2. What is going on with your med? (If needed, call attention to status) and probe: 
+        3. What do you think “inactive” means?
+        4. What do you think happens next for your medication?
 6. Now, imagine that you take a medication regularly. You notice that you are running out of pills. Using this page, do you think you could get more of your med?
 7. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this page? What would you look for?
-    13. Notice: Do they filter? Do they think of status or just date?
-    14. Probe: What status might that medication be in?
+    Notice: Do they filter? Do they think of status or just date?
+    Probe: What status might that medication be in?
 8. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
     1. Probe: What status would that medication be in?
 
