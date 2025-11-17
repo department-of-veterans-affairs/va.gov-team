@@ -180,4 +180,6 @@ entered by or provided to the user that is required to be entered again in the s
 
 ## VA Design System (VADS) Components
 
-- [ ]  Does your design use the `AdditionalInfo` component? That component is undergoing some redesign right now, and has some accessibility issues. Reconsider using the component.
+- [ ]  Does your design use the `AdditionalInfo` component? Short version: That component is undergoing some redesign right now, and has some accessibility issues. Reconsider using the component. 
+
+    Longer version: Recommend not using the AdditionalInfo component if possible for a few reasons 1) Screen reader users can get trapped inside this component with no way out 2) Design System team is trying to fix this issue by updating this component to use a disclosure element, TBD what the experience will be like then 3) We’ve found in research that folks rarely open these 4) There’s a tracker on there that charges VA $ whenever they do expand the component
