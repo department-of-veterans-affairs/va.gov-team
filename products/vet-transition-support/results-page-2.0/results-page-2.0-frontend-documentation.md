@@ -52,6 +52,7 @@ The card content includes:
 -----
 
 #### After launch
-- [ ] Update documentation.
+- [ ] Update this documentation.
 - [ ] Update content.
 - [ ] Update links to Figma production file.
+- [ ] Update product [documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/fe-documentation.md) as needed.
