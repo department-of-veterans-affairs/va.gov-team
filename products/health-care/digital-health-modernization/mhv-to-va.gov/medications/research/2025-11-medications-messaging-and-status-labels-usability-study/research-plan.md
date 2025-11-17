@@ -146,8 +146,8 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 * At least 2 participants who identify as women
 * At least 4 participants from rural areas
 * At least 4 participants who uses assistive technology
-   * At least 2 participant who uses a screen reader
-   * At least 2 participant who uses screen magnification
+   * At least 2 participants who use a screen reader
+   * At least 2 participants who use screen magnification
 * No more than 2 can have no prescriptions with the VA
 * No more than 3 can not use MHV on [VA.gov](http://VA.gov) to manage their prescriptions 
 
@@ -179,17 +179,16 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
     * Every other month or greater
     * I do not use MHV on [VA.gov](http://VA.gov) to manage my prescriptions
     * I do not use MHV on [VA.gov](VA.gov) *at all *to manage my healthcare (Does not qualify)
-* Do you use a screenreader such as JAWS of VoiceOver?
+* Do you need a screen reader or screen magnifier every time you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
     * Yes
     * No
-* Please select your level of experience with your screen reader.
-    * Beginner
-    * Advanced
-    * Not applicable
-* Have you ever been diagnosed with a traumatic brain injury, PTSD or memory loss? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+  * We want to make sure our website works for people with various levels of experience with screen readers and screen magnification. Please rate your experience level using a screen reader or screen magnifier:
+      * Beginner
+      * Intermediate
+      * Advanced
+* Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
     * Yes
     * No
-
 
 ---
 
