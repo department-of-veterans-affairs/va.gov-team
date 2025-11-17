@@ -18,6 +18,12 @@ Check all appointment systems affected by or relevant to this task
 - [x] HSRM
 - [x] CERNER (OH)
 - [ ] N/A
+
+## Mobile
+Is there a mobile component to this work? If so, is there a mobile ticket made?
+
+- [ ] Yes, ticket link:
+- [ ] N/a
       
 ## Development Checklist
 Background: the `toggle` toggle is on (remove if not needed)
