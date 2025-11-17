@@ -8,12 +8,13 @@ This document supplements the **RX Renewal Flow – MVP Release Plan** and outli
 
 The renewal flow guides Veterans through both Medications and Secure Messaging:
 
-1. Veteran views their medication list in Medications OR their medications details page  
+1. Veteran views their medication list in Medications Or their medications details page  
 2. Renewal-eligible medications display a link: **“Send a renewal request message”**  
 3. Veteran selects the link and is taken to the **SM interstitial**  
 4. Veteran selects a **care team**  
 5. Veteran sees a **prefilled renewal message** in the SM editor  
-6. Veteran sends the message  
+6. Veteran sends the message
+7. Veteran returns to the medications page
 
 Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities should be shared across teams**.
 
