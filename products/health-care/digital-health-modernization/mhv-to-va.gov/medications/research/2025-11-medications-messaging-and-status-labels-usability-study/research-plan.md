@@ -163,8 +163,8 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 
 
 
-* Which of the following ways do you **regularly use** to renew (that is, request a new prescription when your current prescription is out of refills) your VA prescriptions?
-    * Call the pharmacy
+* Which of the following ways would you request more refills after you ran out of your VA prescription?
+    * Call the pharmacy 
     * Send a message to my doctor in my health portal
     * Schedule an appointment with doctor 
     * I don’t have any VA prescriptions
