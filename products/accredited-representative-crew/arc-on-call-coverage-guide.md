@@ -67,8 +67,8 @@ Before your rotation, ensure you have:
 |---------|--------|--------------------------------|-------------------------|
 | Sprint 2 | Oct 21 – Nov 3 | Kevin | Holden |
 | Sprint 3 | Nov 4 – Nov 17 | Patrick | Kevin, Holden |
-| Sprint 4 | Nov 18 – Dec 1 | Greg | Kevin, Holden |
-| Sprint 5 | Dec 2 – Dec 15 | Josh | Kevin, Holden |
+| Sprint 4 | Nov 18 – Dec 1 | Josh | Kevin, Holden |
+| Sprint 5 | Dec 2 – Dec 15 | Greg | Kevin, Holden |
 | Sprint 6 | Dec 16 – Dec 29 | Holden | Kevin |
 | Sprint 7 | Dec 30 – Jan 12 | Alex | Kevin, Holden |
 
