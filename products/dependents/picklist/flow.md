@@ -14,23 +14,21 @@ flowchart TD
     SpouseReasonToRemove -- "death" --> SpouseDeathDetails[Death details]
     SpouseDeathDetails --> NextDep
 
-    DepType -- "Child" --> ChildIsStepchild[Stepchild?]
-    ChildIsStepchild --> ChildReasonToRemove{Reason to remove}
+    DepType -- "Child" --> ChildIsStepchild[Is stepchild?]
+    ChildIsStepchild -- yes/no --> ChildReasonToRemove{Reason to remove}
     ChildHasDisability -- "No" --> ChildLeftSchoolDetails[Left school details]
     ChildLeftSchoolDetails --> NextDep
     ChildReasonToRemove -- "married" --> ChildMarriedDetails[Married details]
     ChildMarriedDetails --> NextDep
     ChildReasonToRemove -- "death" --> ChildDeathDetails[Death details]
     ChildDeathDetails --> NextDep
-    ChildReasonToRemove -- "left school" --> ChildHasDisability{disability}
+    ChildReasonToRemove -- "left school" --> ChildHasDisability{Child has permanent disability?}
     ChildHasDisability -- "Yes" --> ChildStillQualifies[Still qualifies]
     ChildStillQualifies --> exit([Exit form])
-    ChildReasonToRemove -- "left household" --> ChildPayExpenses{Pay living expenses?}
-    ChildPayExpenses -- "no" --> ChildLeftHouseholdDetails[Left household details]
+    ChildReasonToRemove -- "stepchild left household" --> ChildHalfFinancialSupport{Provide at least half financial support?}
+    ChildHalfFinancialSupport -- "no" --> ChildLeftHouseholdDetails[Left household details]
     ChildLeftHouseholdDetails --> NextDep
-    ChildPayExpenses -- "yes" --> ChildFinancialAmount{How much?}
-    ChildFinancialAmount -- "Less than half" --> ChildLeftHouseholdDetails
-    ChildFinancialAmount -- "Half or more than half" --> ChildStillQualifies2[Still qualifies]
+    ChildHalfFinancialSupport -- "yes" --> ChildStillQualifies2[Still qualifies]
     ChildStillQualifies2 --> exit
     ChildReasonToRemove -- "adopted" --> ChildAdoptedDetails[Adopted details]
     ChildAdoptedDetails --> exit
