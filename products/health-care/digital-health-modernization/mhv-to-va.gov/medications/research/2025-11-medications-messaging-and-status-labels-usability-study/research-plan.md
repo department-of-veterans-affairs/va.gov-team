@@ -145,6 +145,9 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 * At least 8 participants who are 54 and under in age
 * At least 2 participants who identify as women
 * At least 4 participants from rural areas
+* At least 4 participants who uses assistive technology
+   * At least 2 participant who uses a screen reader
+   * At least 2 participant who uses screen magnification
 * No more than 2 can have no prescriptions with the VA
 * No more than 3 can not use MHV on [VA.gov](http://VA.gov) to manage their prescriptions 
 
@@ -155,7 +158,6 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 * At least 4 participants with a high school degree but not college
 * At least 2 participants who identify as Black or African American
 * At least 2 participants who identify as Hispanic, Latino, or of Spanish origin
-* At least 1 participant who uses a screen reader and 1 who uses screen magnification
 
 
 
