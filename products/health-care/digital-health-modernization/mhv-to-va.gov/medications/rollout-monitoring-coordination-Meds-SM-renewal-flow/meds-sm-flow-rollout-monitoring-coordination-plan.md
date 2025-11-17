@@ -53,12 +53,11 @@ Monitor experience *before* the Veteran enters Secure Messaging:
 - Renewal link visibility and accuracy  
 - Confusion between renewal vs refill  
 - Difficulty initiating the renewal flow  
-- Transition issues into SM  
+- Interactiong with the continue modal (Transition issues into SM)  
 - Veteran comments indicating unclear or missing renewal options  
 
 #### SM UX Responsibilities
 Monitor experience *after* the Veteran enters Secure Messaging:
-- Interstitial behavior  
 - Care team selection issues  
 - Missing or incorrect prefilled content  
 - Drop-offs inside SM  
@@ -78,11 +77,11 @@ Teams: **Meds Engineering**, **SM Engineering**
 #### Meds Engineering Responsibilities
 - Renewal link rendering  
 - Eligibility behavior (renewal vs refill)  
-- Errors launching the SM flow  
+- Errors launching the SM flow
+- Modal loading errors
 - Incorrect routing into SM  
 
 #### SM Engineering Responsibilities
-- Interstitial load errors  
 - Care team API failures  
 - Prefill load issues  
 - Draft creation failures  
