@@ -58,8 +58,8 @@ Developer and Product Manager will monitor analytics and logging at each rollout
   - Number of users who don't have the Letter:
   - Latency & error rate on /index controller
   - Latency & error rate on /show controller
-- Links to the dashboard(s) showing "success criteria" metrics: TBD
-- Who is monitoring the dashboard(s)?: Product Manager - Megan Commons
+- Links to the dashboard(s) showing "success criteria" metrics: [DD Service Summary](https://vagov.ddog-gov.com/apm/entity/service%3Atsa_letter?dependencyMap.showNetworkMetrics=false&env=eks-staging&errors=qson%3A%28data%3A%28issueSort%3ATOTAL_COUNT%29%2Cversion%3A%210%29&fromUser=false&graphType=flamegraph&groupMapByOperation=null&operationName=rack.request&panels=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&resources=qson%3A%28data%3A%28visible%3A%21t%2Chits%3A%28selected%3Atotal%29%2Cerrors%3A%28selected%3Atotal%29%2Clatency%3A%28selected%3Aavg%29%2CtopN%3Aall%29%2Cversion%3A%211%29&shouldShowLegend=true&traceQuery=&start=1759938786394&end=1762530786394&paused=false)
+- Who is monitoring the dashboard(s)?: Product Manager - Megan Commons; BE Dev - Kris Pethtel
 
 ### Stage A: Canary - 1% of users
 
