@@ -2,46 +2,56 @@ Picklist flow overview within Form 686C
 
 ```mermaid
 flowchart TD
-  Start[Active dependents with checkboxes<br><br>✓ Spouse<br>✓ Child<br>✓ Parent]
+  Start([Active<br>dependents<br>with checkboxes<br><br>✓ Spouse<br>✓ Child<br>✓ Parent])
 
   subgraph DepLoop[Dependent picklist loop]
     direction TB
     DepType{Cycle through checked dependent, what is the dependent type?}
     Start --> DepType
-    DepType -- "Spouse" --> SpouseQ0{Reason to remove}
-    SpouseQ0 -- "divorce" --> SpouseQ1[Divorce details]
-    SpouseQ1 --> NextDep
-    SpouseQ0 -- "death" --> SpouseQ2[Death details]
-    SpouseQ2 --> NextDep@{ shape: hex, label: "Check next dependent" }
+    DepType -- "Spouse" --> SpouseReasonToRemove{Reason to remove}
+    SpouseReasonToRemove -- "divorce" --> SpouseDetails[Divorce details]
+    SpouseDetails --> NextDep
+    SpouseReasonToRemove -- "death" --> SpouseDeathDetails[Death details]
+    SpouseDeathDetails --> NextDep
 
-    DepType -- "Child" --> ChildQ0[Stepchild?]
-    ChildQ0 --> ChildQ1{Reason to remove}
-    ChildQ2a -- "No" --> ChildQ2b[Left school details]
-    ChildQ2b --> NextDep
-    ChildQ1 -- "married" --> ChildQ3[Married details]
-    ChildQ3 --> NextDep
-    ChildQ1 -- "death" --> ChildQ4[Death details]
-    ChildQ4 --> NextDep
-    ChildQ1 -- "left school" --> ChildQ2a{disability}
-    ChildQ2a -- "Yes" --> ChildQ2x[Still qualifies]
-    ChildQ2x --> exit[Exit form]
-    ChildQ1 -- "left household" --> ChildQ7{half financial support?}
-    ChildQ7 -- "no" --> ChildQ7b[Left household details]
-    ChildQ7b --> NextDep
-    ChildQ7 -- "yes" --> ChildQ7x[Still qualifies]
-    ChildQ7x --> exit[Exit form]
-    ChildQ1 -- "adopted" --> ChildQ5x[Adopted details]
-    ChildQ5x --> exit
+    DepType -- "Child" --> ChildIsStepchild[Stepchild?]
+    ChildIsStepchild --> ChildReasonToRemove{Reason to remove}
+    ChildHasDisability -- "No" --> ChildLeftSchoolDetails[Left school details]
+    ChildLeftSchoolDetails --> NextDep
+    ChildReasonToRemove -- "married" --> ChildMarriedDetails[Married details]
+    ChildMarriedDetails --> NextDep
+    ChildReasonToRemove -- "death" --> ChildDeathDetails[Death details]
+    ChildDeathDetails --> NextDep
+    ChildReasonToRemove -- "left school" --> ChildHasDisability{disability}
+    ChildHasDisability -- "Yes" --> ChildStillQualifies[Still qualifies]
+    ChildStillQualifies --> exit([Exit form])
+    ChildReasonToRemove -- "left household" --> ChildPayExpenses{Pay living expenses?}
+    ChildPayExpenses -- "no" --> ChildLeftHouseholdDetails[Left household details]
+    ChildLeftHouseholdDetails --> NextDep
+    ChildPayExpenses -- "yes" --> ChildFinancialAmount{How much?}
+    ChildFinancialAmount -- "Less than half" --> ChildLeftHouseholdDetails
+    ChildFinancialAmount -- "Half or more than half" --> ChildStillQualifies2[Still qualifies]
+    ChildStillQualifies2 --> exit
+    ChildReasonToRemove -- "adopted" --> ChildAdoptedDetails[Adopted details]
+    ChildAdoptedDetails --> exit
 
-    DepType -- "Parent" --> ParentQ0{Reason to remove}
-    ParentQ0 -- "Other" --> ParentQx[Use different form]
-    ParentQx --> exit
-    ParentQ0 -- "death" --> ParentQ1[Death details]
-    ParentQ1 --> NextDep
+    DepType -- "Parent" --> ParentReasonToRemove{Reason to remove}
+    ParentReasonToRemove -- "Other" --> ParentExit[Use different form]
+    ParentExit --> exit
+    ParentReasonToRemove -- "death" --> ParentDeathDetails[Death details]
+    ParentDeathDetails --> NextDep
 
-    NextDep == "More dependents" ==> DepType
-    NextDep -- "All done" --> Done[Continue to next page]
+    NextDep@{ shape: hex, label: "Check next dependent" }
+    NextDep l1@-- "More dependents" --> DepType
+    NextDep -- "All done" --> Done([Continue to next page])
   end
+
+  classDef animate stroke-dasharray: 9,5,stroke-dashoffset: 1200,animation: dash 25s linear infinite, stroke:#ff9500, stroke-width:3px;
+  class l1 animate
+
+  %% Styling
+  style NextDep fill:#ff9500,stroke:#ff6600,stroke-width:2px,color:#000000
+
 ```
 
-updated: 11/12/2025
+updated: 11/17/2025
