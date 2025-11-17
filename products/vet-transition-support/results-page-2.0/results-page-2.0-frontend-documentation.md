@@ -1,20 +1,28 @@
 # Frontend Documentation: Results Page 2.0 (WIP)
 
 ### Background
-This document serves as written blueprint for build purposes - outlining specs for each feature, components used and specific content.
+This document serves as the written blueprint for build purposes - outlining specs for each feature, components used, and specific content.
+
+### Design specs
+The Figma working file includes additional documentation and specs for handoff to dev.
+- [Introduction](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?node-id=1612-39613)
+- [Filter & Sort](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?node-id=1612-18660)
+- [Benefit cards](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?node-id=1612-36383)
 
 ## Introduction
-Based on your answers, we’re recommending programs and benefits for you to explore. You can go back and update your answers if you need to.
+The intro content is:
 
-[Go back and update your answers](https://www.va.gov/discover-your-benefits/review-and-submit)
+_Based on your answers, we’re recommending programs and benefits for you to explore. You can go back and update your answers if you need to._
 
-Remember to check your eligibility for each program or benefit before you apply. Some are available to both you and your dependents. And some are only available for certain amounts of time.
+_[Go back and update your answers](https://www.va.gov/discover-your-benefits/review-and-submit)_
 
-**Benefits for transitioning service members**
+_Remember to check your eligibility for each program or benefit before you apply. Some are available to both you and your dependents. And some are only available for certain amounts of time._
 
-We can help guide you as you transition from active-duty service or from service in the National Guard or Reserves. Some benefits are only available while you're still serving. And some benefits are only available for a certain amount of time after you separate.
+_**Benefits for transitioning service members**_
 
-[Learn more about VA benefits for service members (opens in a new tab)](https://www.va.gov/service-member-benefits/)
+_We can help guide you as you transition from active-duty service or from service in the National Guard or Reserves. Some benefits are only available while you're still serving. And some benefits are only available for a certain amount of time after you separate._
+
+_[Learn more about VA benefits for service members (opens in a new tab)](https://www.va.gov/service-member-benefits/)_
 
 ## Results
 The Results page follows the [Search Results](https://design.va.gov/templates/search-results) template.
@@ -22,7 +30,7 @@ The Results page follows the [Search Results](https://design.va.gov/templates/se
 ### Filters
 The filter functionality uses the [Search Filter](https://design.va.gov/components/search-filter) component. It includes facets to filter by recommended vs all benefits, when someone can apply, and the type of benefit.
 
-By default, "Recommended for you" is selected when the page loads.
+By default, "Recommended for you" is selected when the page loads and when they "Reset filters".
 
 ### Sort
 The sort functionality uses the [Select](https://design.va.gov/components/form/select) component. It includes options to sort by expiration date, name, and type of benefit.
@@ -42,9 +50,6 @@ The card content includes:
 - Link: Learn more
 
 -----
-
-#### To do
-- [ ] Add links to Figma working file.
 
 #### After launch
 - [ ] Update documentation.
