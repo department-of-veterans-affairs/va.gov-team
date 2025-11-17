@@ -204,6 +204,22 @@ Now that you’ve found the renewal link, how would you request more of this med
 * What are you looking for?
 * What would you do next?
 
+*[If they couldn’t find the renewal link]* *[navigate participant to the medication with renewal link]:*
+
+
+
+* Do you see the words “Request a renewal”? What do you think that means?
+* Where would you expect to find that link? 
+
+*[Prefilled Renewal Request Message Content]*
+
+
+
+* What do you notice on this page?
+* Would you try to edit this message at all?
+* If no, why not?
+* If yes, what would you change in the message?
+
 *[After task completion]*
 
 
@@ -212,12 +228,6 @@ Now that you’ve found the renewal link, how would you request more of this med
 * What would you change about this process?
 * What would you keep about this process?
 
-*[If they couldn’t find the renewal link]* *[navigate participant to the medication with renewal link]:*
-
-
-
-* Do you see the words “Request a renewal”? What do you think that means?
-* Where would you expect to find that link? 
 
 *[If they weren’t able to successfully request a renewal after finding the link]*
 
