@@ -10,7 +10,7 @@ The renewal flow guides Veterans through both Medications and Secure Messaging:
 
 1. Veteran views their medication list in Medications Or their medications details page  
 2. Renewal-eligible medications display a link: **“Send a renewal request message”**  
-3. Veteran selects the link and is taken to the **SM interstitial**  
+3. Veteran selects the link and modal pops up asking them if they want to continue to messaging  
 4. Veteran selects a **care team**  
 5. Veteran sees a **prefilled renewal message** in the SM editor  
 6. Veteran sends the message
