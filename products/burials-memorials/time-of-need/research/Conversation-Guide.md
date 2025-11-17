@@ -105,9 +105,11 @@ For each of the following actions, please attempt the task as you naturally woul
 
 Scenarios (alternating with each session)
 
-**You are [Name], a funeral home representative. You are applying to schedule a burial for a deceased Veteran.
+**You are Bram Stoker, a funeral home representative. You are applying to schedule a burial for a deceased Veteran named Jonathon Harker.
+
 or
-You are [Name], a Veteran with VA benefits. You are applying to schedule a burial for your deceased spouse.**
+
+You are Jonathon Harker, a Veteran with VA benefits. You are applying to schedule a burial for your deceased spouse, Mina Harker.**
 
 ---
 
