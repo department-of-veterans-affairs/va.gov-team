@@ -94,7 +94,9 @@ I’m going to send you a link in the chat.
 
 **Prototypes**
 - [Desktop](https://www.figma.com/proto/EoYnokGp9aSgy5JrDVqp5L/686c---Form-data-viewer---Fully-Digital-Forms?node-id=3770-29642&t=wjPq2fgrbIiKrNQS-1)
+   - Backup tinyurl if the participant cannot get to the chat: https://tinyurl.com/mr2w4k2w 
 - [Mobile](https://www.figma.com/proto/EoYnokGp9aSgy5JrDVqp5L/686c---Form-data-viewer---Fully-Digital-Forms?node-id=3770-29959&t=wjPq2fgrbIiKrNQS-1)
+   - Backup tinyurl: https://tinyurl.com/nhd7b89d
 
 Feel free to take a minute to hide anything, like your personal email or anything you don’t want us to see. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
 
