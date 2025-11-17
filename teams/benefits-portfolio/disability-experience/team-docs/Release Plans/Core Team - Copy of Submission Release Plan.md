@@ -54,15 +54,15 @@ Then rollout incrementally 1% for a few days with no issues → 25% for a few da
   - Access limitation method: Flipper flags toggled on incrementally.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - GA interaction with accordion events has increased
-  - Sentry error rate for confirmation page has not increased
+  - Error tracking on frontend with Datadog RUM
 - Links to the dashboard(s) showing "success criteria" metrics: 
   - GA Dashboard: https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/Q8pGsZFFSlyHtJTEvUyBPw
     - Average engagement time per active user [report](https://analytics.google.com/analytics/web/#/a50123418p418218150/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fdisability%252Ffile-disability-claim-form-21-526ez%252Fconfirmation%26_r.explorerCard..startRow%3D0&collectionId=8429216671&ruid=F28DC764-9B7E-4D67-897B-5B2E26915911&r=8478585004)
     - Changes in actions people take on the page [report](https://analytics.google.com/analytics/web/#/a50123418p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..seldim%3D%5B%22eventName%22,%22unifiedPagePathScreen%22%5D%26_r.explorerCard..filterTerm%3D%252Fdisability%252Ffile-disability-claim-form-21-526ez%252Fconfirmation%26_r.explorerCard..startRow%3D0%26_r..dataFilters%3D%5B%5D&r=top-events&ruid=D5BB15C6-755E-4252-9BAF-C1529F91E2AC&collectionId=8429185582)
-    - 526 Overall Form Abandonment [exploration view](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/KHKBycWYRfqDVxVPWNwZyA) 
+    - 526 Overall Form Abandonment [exploration view](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/KHKBycWYRfqDVxVPWNwZyA)
+    - [Frontend 526 overall "new error" alert ](https://vagov.ddog-gov.com/monitors/474722)
+    - [Sessions which user ended on confirmation page](https://vagov.ddog-gov.com/rum/sessions?query=%40type%3Asession%20%40application.id%3Ac7eb541a-30d2-4a00-aba0-04965e8a2668%20%40session.last_view.url_path%3A%22%2Fdisability%2Ffile-disability-claim-form-21-526ez%2Fconfirmation%22&agg_m=count&agg_m_source=base&agg_t=count&cols=&from_ts=1762777030834&to_ts=1763381830834&live=true)
 
-  
-  - Sentry Dashboard: http://sentry.vfs.va.gov/organizations/vsp/discover/results
 - Who is monitoring the dashboard(s)?: PM, Engineering lead, core team engineers
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
