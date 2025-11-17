@@ -30,28 +30,16 @@ The sort functionality uses the [Select](https://design.va.gov/components/form/s
 By default, "Expiration date (soonest first)" is selected when the page loads.
 
 ### Benefit cards
-Add details
+The benefit cards are displayed in the search results. They use the [Card](https://design.va.gov/components/card) component.
+
+The card content includes:
+- Tag: Recommended for you
+- Eyebrow: Benefit type
+- H3: Benefit name
+- Body: Description about the benefit
+- H4: When to apply
+- Body: Details about when someone can apply
+- Link: Learn more
 
 -----
-## Benefit Cards
-These are the cards that appear in the results for the user to see as their "recommended" benefits.
-
-### UX Specs
-- _Link to Figma_
-
-### Visual Specs
-- use the xxx component in the VA design system (link to component in VADS)
-
-### Content
-- _Label (recommended for you)_
-- _Type of benefit_
-- _Title of benefit_
-- _Additional content_
-- _Learn more link_
-
-### Accessibility Specs
-- ...
-- ...
-
-## Filters
-...
+_Add Figma links_
