@@ -1,12 +1,12 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for Benefits Management Notifications Study"
+author: "Naomi Howe"
+date_created: "2025-11-17"
+last_modified: "2025-11-17"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "Benefits Management Tools"
+  - "Notifications Research"
+description: "A guide for moderating research sessions focused on how Veterans receive and interpret benefits-related notifications across different channels (email, SMS, in-app)."
 ---
 # Conversation Guide
 
