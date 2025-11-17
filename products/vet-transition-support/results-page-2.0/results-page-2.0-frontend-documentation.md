@@ -42,4 +42,11 @@ The card content includes:
 - Link: Learn more
 
 -----
-_Add Figma links_
+
+#### To do
+- [ ] Add links to Figma working file.
+
+#### After launch
+- [ ] Update documentation.
+- [ ] Update content.
+- [ ] Update links to Figma production file.
