@@ -177,7 +177,7 @@ You have a prescription for _______ that your pharmacy told you is out of refill
 
 
 
-* Where would you go to request a renewal of this prescription?
+* Where would you go to request more of this medication?
 
 *[Let participant finish task with minimal interruption]*
 
@@ -195,7 +195,7 @@ You have a prescription for _______ that your pharmacy told you is out of refill
 * *Does the participant comment on the ease of locating the link?*
 * *Does the participant seem pleased/frustrated with where the link is located?*
 
-Now that you’ve found the renewal link, how would you request a renewal for this prescription?
+Now that you’ve found the renewal link, how would you request more of this medication?
 
 *[If participant is struggling:]*
 
@@ -208,7 +208,7 @@ Now that you’ve found the renewal link, how would you request a renewal for th
 
 
 
-* How easy or difficult did you find the process of requesting a renewal?
+* How easy or difficult did you find the process of requesting a renewal for this medication?
 * What would you change about this process?
 * What would you keep about this process?
 
