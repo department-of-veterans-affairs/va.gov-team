@@ -101,7 +101,7 @@
   - Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost
     - No
   - Are there any sensitive data risks with logging?
-    - We have taken into consideration how the front-end components may log PII.   `enableAnalytics` is the attribute we would use to determine if a radio button, for example is safe to log.
+    - We have taken into consideration how the front-end components may log PII. `enableAnalytics` is the attribute we would use to determine if a radio button, for example is safe to log.
 - Infrastructure and network changes
   - List any changes or additions
     - None
@@ -112,7 +112,7 @@
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/picklist/picklist-release-plan.md
     - List scope of any feature flags
     - Identify other teams to coordinate with
-    - Describe rollback plan
+    - Describe rollback plan 
   
 - Internal administration tasks  
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
@@ -134,21 +134,21 @@ The following product or feature descriptions may be answered with a reference l
     - How does the code base get disabled in the product?
       - Via a PR and merge
     - How would you detect a compromise?
-      - It isn't really in the scope of our team to detect compromises.  We are conscious to never put PII in query strings and we try to keep PII out of DataDog.
+      - It isn't really in the scope of our team to detect compromises. We are conscious to never put PII in query strings and we try to keep PII out of DataDog.
     - What process and privilege does the code base execute under?
-      - N/A  - Our code is managed by platform.
+      - N/A - Our code is managed by platform.
     - The code base is infiltrated or ex-filtrated.
-      - N/A  - Our code is managed by platform.
+      - N/A - Our code is managed by platform.
   - Links to dashboards that help identify and debug application issues
     - https://vagov.ddog-gov.com/dashboard/txg-mfx-xha/benefits-dependents-686674-v2?fromUser=false&refresh_mode=paused&from_ts=1762446627286&to_ts=1762448427286&live=false
 - Provide your Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/686c-674_V3_Picklist_Release_Plan.md
 
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats.
-  - No.  There are no new endpoints.
+  - No. There are no new endpoints.
 
 - Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored?
-  - No.  The existing monitors will cover the back-end to determine if we have any issues.  On the front-end, we use RUM to look at outcomes.
+  - No. The existing monitors will cover the back-end to determine if we have any issues.  On the front-end, we use RUM to look at outcomes.
 
 - Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? If so, please answer the following questions:
   - Is the PHI strongly encrypted?
@@ -172,13 +172,13 @@ Please provide the following documentation as attachments.
 
 - Architecture Diagram:
   This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
-  - 686c_674-Architecture.Diagram.pdf (@AlanWerner - needs to be attached)
+  - Attached in #111613: [686c_674-Architecture.Diagram.pdf](https://github.com/user-attachments/files/23526826/686c_674-Architecture.Diagram.pdf)
 - Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
   - [VA Lifestage Incident Response Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/incident_response.md)
   - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
     - `@AlanWerner`
 - Sequence Diagram:
-  - 686c_674_Sequence_Diagram.pdf  (@AlanWerner - needs to be attached)
+  - Attached in #111613: [686c_674_Sequence_Diagram.pdf](https://github.com/user-attachments/files/23526856/686c_674_Sequence_Diagram.pdf)
   
 - Data Flow Diagram:
   - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1727757799534/c7c5f5a6dc1b8f451ecab5f02afa70a9325b93c8
@@ -186,7 +186,7 @@ Please provide the following documentation as attachments.
   - https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/dependents_benefits/documentation/legacy_flow.md
 - API Endpoint Documentation:
   This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
-  - https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#
+  - We are not introducing any new API endpoints for this feature.
 
 - Product Specifics:  @AlanWerner
   - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
@@ -200,8 +200,8 @@ Please provide the following documentation as attachments.
   - Is there a playbook included in your product outline, for investigating and handling likely failure modes? If so, link to your Product Playbook
 - Code links: Link to relevant code directories in GitHub.
   - FE: https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/dependents/686c-674
-  - Back-end code links
-  - DevOps code links
+  - Back-end code links: NA
+  - DevOps code links: NA
 
 ## Where to put this checklist and what to name it
 
