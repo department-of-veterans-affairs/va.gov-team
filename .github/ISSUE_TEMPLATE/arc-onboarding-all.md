@@ -38,7 +38,7 @@ Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](
 
 - [ ] **VA Benefits Onboarding.** Your Program Manager will add you to the to[ #benefits-onboarding-offboarding](https://dsva.slack.com/archives/C04JC38EMHC) channel. Complete the to-does for VA Benefits onboarding. 
 
-- [ ] **Other VA Tools.** Coordinate with your lead if you need access to any additional VA Tools. Check out the [Platform Tool Request Processes](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) to request access to any other tools you might need. 
+- [ ] **Request Access to Other VA Tools.** Coordinate with your lead if you need access to any additional VA Tools. Check out the [Platform Tool Request Processes](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) to request access to any other tools you might need. 
 
   - [ ] Figma - Submit your view-only [Ticket Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=figma-access-request.yml). Only request editor access if you are a UX designer.
 
