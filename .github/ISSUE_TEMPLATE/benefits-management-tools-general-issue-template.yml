@@ -173,41 +173,35 @@ body:
     validations:
       required: false
 
-  - type: input
-    id: epic-link
-    attributes:
-      label: Related Epic
-      description: |
-        If this issue belongs to an Epic, paste the link or Epic number here.
-        Example: https://github.com/department-of-veterans-affairs/va.gov-team/issues/123456
-        Or simply: #123456
-      placeholder: "Paste Epic link or reference (e.g., #123456)"
-    validations:
-      required: false
-
-  # ---------- Estimation and Priority ----------
-  - type: dropdown
-    id: estimate
-    attributes:
-      label: Estimate
-      description: |
-        Select an initial effort estimate for this issue.  
-        ⚠️ This can be filled upon issue creation and refined during sprint planning.
-      options:
-        - 1 – Very minuscule, less than a day
-        - 2 – Small, ~1 day
-        - 3 – Medium sized, a couple of days
-        - 5 – Bigger effort, about a week
-        - 8 – Likely about a full sprint
-        - 13 – Big effort, multiple sprints (consider breaking down)
-    validations:
-      required: false
-
+  # ---------- Reminders for Epic, Estimation & Priority (right sidebar) ----------
   - type: markdown
     attributes:
       value: |
         ---
-        ✅ **Reminder:**
+        ✅ **Quick Reminders (Right Sidebar in GitHub):**
+
+        **Epic / Parent work**
+        - Link this issue to the correct **Epic or Super Epic** in the right sidebar.
+        - Make sure the parent Epic clearly reflects the outcome this work contributes to.
+
+        **Estimate**
+        - During refinement or sprint planning, set an **estimate in the right sidebar** using your team’s standard system (story points or similar).
+        - Suggested effort scale (if applicable):
+          - `1` – Very minuscule, less than a day  
+          - `2` – Small, ~1 day  
+          - `3` – Medium sized, a couple of days  
+          - `5` – Bigger effort, about a week  
+          - `8` – Likely about a full sprint  
+          - `13` – Big effort, multiple sprints (consider breaking down)  
+
+        **Priority**
+        - Apply your team’s **priority / severity labels** or milestones on the right:
+          - Examples: `priority: high`, `priority: medium`, `priority: low`, or sprint-specific milestones.
+        - Use these consistently so the backlog view reflects true urgency and impact.
+
+        ---
+
+        ✅ **Labels & Organization**
 
         **Team Labels**
         Apply the correct **Team label** after selecting your team above:
