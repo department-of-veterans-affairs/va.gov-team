@@ -89,6 +89,24 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 22 [11/19/25 - 12/2/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Review service blueprint design artifacts from VEO and synthesize outstanding questions to identify opportunities for next steps.| QP7 |--|--|--|
+|UX: Finalize submission email confirmation and confirmation page to review pay.gov Overpayment designs with Debt Management Center and collect feedback on designs to inform next steps.| QP47 |--|--|--|
+|ENG: Complete backend triage efforts to validate all the Lighthouse API data and present the API contents to Front End confirming that Front End is ready for implementation on the presentation page.| QP3 |--|--|--|
+|ENG: Front end to implement Payment History endpoint Step 1 of 2. (Step 2 will happen after goal #3).| QP3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (11/18/25)
+ - [X] VA PO & COR sent the Sprint Goals (11/18/25)
+ - [ ] VA PO approved the Sprint Goals (11/XX/25)
+ - [ ] VA COR approved the Sprint Goals (11/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
 
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
