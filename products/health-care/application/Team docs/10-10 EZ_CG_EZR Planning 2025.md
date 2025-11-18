@@ -30,7 +30,8 @@
 
 ## 
 ### 10-10CG
-#### No scheduled work this sprint
+#### Obj: [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40164)
+- [ ] **SPRINT GOAL** [#116783](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116783) - [Eng] Address flaky specs
 
 ##
 ### Team PTO
