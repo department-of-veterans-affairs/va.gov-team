@@ -8,19 +8,18 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
-- [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance and begin work
+- [ ] **SPRINT GOAL** 10-7959a: Determine LOE of allowing 3+ health insurance and begin work
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
-- [ ] **SPRINT GOAL** 10-7959c: Backend changes to setup feature toggle and generate new PDF
-- [ ] **SPRINT GOAL** 10-7959c: Begin updating standalone by adding new fields & changing medicare/OHI to match PDF
+- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle and generate PDF
+- [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI 
 - [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation
-- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Figma SOT to use minimal headers
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Close out and begin synthesizing research study findings
-- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics
-- [ ] **STRETCH GOAL** 
+- [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+- [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
 
 
 ##
@@ -50,7 +49,7 @@
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: Setup feature toggle and generate new PDF
+- [ ] **SPRINT GOAL** 10-7959c: Backend changes to setup feature toggle and generate new PDF
   - [ ] [[BE] 10-7959C: Set up BE with feature toggle for new pdf in form version manager #125437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125437)
   - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
 - [ ] **SPRINT GOAL** 10-7959c: Begin updating standalone by adding new fields & changing medicare/OHI to match PDF
@@ -92,18 +91,13 @@
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** 
-  - [ ] 
 
 
 ##
 ### WHAT'S NEXT
 - **FE**
 - **UX**
-- [ ] 
-  - [ ] 
 - **BE**
-- [ ] 
-  - [ ] 
 
 
 ##
