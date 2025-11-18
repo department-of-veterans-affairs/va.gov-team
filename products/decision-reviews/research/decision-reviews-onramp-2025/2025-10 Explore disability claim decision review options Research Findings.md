@@ -1034,84 +1034,49 @@ This research does not include the perspectives of the following marginalized Ve
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 
-A more accessible version of the table in the above image
+
 
 ##   
 
 ## Recruitment of underserved groups in 2025-10 Explore disability claim decision review options Research Study
 
-![enter image description here](https://files.imagetourl.net/uploads/1763484377493-a0837a90-407e-401a-b550-506ff49d5b81.png)
+<img width="795" height="718" alt="image" src="https://github.com/user-attachments/assets/1b69b4ff-3358-4e46-83d0-150a76e02b50" />
 
-````markdown
 
-| Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 |
+A more accessible version of the table in the above image
 
-|--------------------|----------|-----------|-----------|-------------------|----|----|----|----|----|----|----|----|----|
-
-| All participants | Total | n/a | n/a | 9 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-
-| Assistive Tech (AT) users | Total | n/a | n/a | 0 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-
-| No-show participants | Total | n/a | n/a | 2 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
-
-| Age 55-64+ | General | 50% | 5 | 4 | no | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 1 |
-
-| Cognitive Disability | General | 50% | 5 | 3 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |
-
-| Mobile user | General | 50% | 5 | 5 | yes | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 1 |
-
+| Category | Segment | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| All participants | Total | n/a | n/a | 9 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Assistive Tech (AT) users | Total | n/a | n/a | 0 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| No-show participants | Total | n/a | n/a | 2 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Age 55-64+ | General | 50% | 5 | 3 | no | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 | N |
+| Cognitive Disability | General | 50% | 5 | 2 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | N |
+| Mobile user | General | 50% | 5 | 4 | no | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | N |
 | Rural | General | 25% | 3 | 3 | yes | 1 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
-
-| No degree | General | 25% | 3 | 7 | yes | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-
+| No degree | General | 25% | 3 | 5 | yes | 0 | 0 | 1 | 1 | 1 | N | 1 | 1 | N |
 | Other than honorable | General | 21% | 2 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Immigrant origin | General | 17% | 2 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Women | General | 10% | 1 | 2 | yes | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-| Expat (living abroad) | General | .4% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
+| Expat (living abroad) | General | 0.4% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Black or African American | Race | 15% | 2 | 3 | yes | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-
-| Hispanic, Latino, or Spanish origin | Race | 12% | 2 | 1 | no | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-
+| Hispanic, Latino, or Spanish origin | Race | 12% | 2 | 0 | no | 0 | 0 | 0 | 0 | 0 | N | 0 | 0 | 0 |
 | Biracial | Race | 3.9% | 1 | 1 | yes | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
-
 | Asian | Race | 2.7% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-| Native Hawaiian or other Pacific Islander | Race | .3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
+| Native Hawaiian or other Pacific Islander | Race | 0.3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | First Nations (Canada) | Race | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Native, American Indian or Alaska Native | Race | 1.6% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Gay, lesbian, or bisexual | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Transgender | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Beginner AT User | AT | 50% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Experienced AT User | AT | 50% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Desktop Screen Reader (SR) | AT | 20% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Mobile Screen Reader (SR) | AT | 20% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Magnification/Zoom | AT | 20% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Speech Input Tech (Siri, Dragon) | AT | 20% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Hearing Aids | AT | 20% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Sighted Keyboard | AT | 10% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Captions | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Switch Device | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
 | Braille Reader | AT | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-````
