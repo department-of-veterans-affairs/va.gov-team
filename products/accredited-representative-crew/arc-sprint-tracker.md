@@ -58,7 +58,6 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Team Accreditation**
 
 1. Chapter 7: Enforce 3-4 character reference requirement 
-2. Review page: Improve Military Service History and Professional Affiliations accordions 
 3. Chapter 6: Implement multi-file upload component 
 
 **Team Benefits**
