@@ -9,7 +9,7 @@
 - [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
-- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle and generate PDF
+- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle
 - [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI 
 - [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation/playbook
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
@@ -17,6 +17,8 @@
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Close out and begin synthesizing research study findings
+- [ ] **SPRINT GOAL** QA: 10-7959a: QA Enhanced Claims Flow for Launch
+- [ ] **STRETCH GOAL** 10-7959C: Generate new PDF for stand alone
 - [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
 - [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
 
@@ -41,13 +43,14 @@
   - [ ] [[UX] 10-7959A: Update Figma design to use minimal headers #123472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123472)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
   - [ ] [[UX] 10-7959a: Share DTA mocks with DTA team & Submit C/IA Ticket #125436](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125436)
+- [ ] **SPRINT GOAL** QA: 10-7959a: QA Enhanced Claims Flow for Launch
+  - [ ] []()
  
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle and generate PDF
+- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle
   - [ ] [[BE] 10-7959C: Set up BE with feature toggle for new pdf in form version manager #125437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125437)
-  - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
 - [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI
   - [ ] [[FE] 10-7959C: Add new OHI PDF beneficiary fields #125419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125419)
   - [ ] [[FE] 10-7959C: Add Medicare Part C Pages to Medicare Chapter #125429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125429)
@@ -87,6 +90,8 @@
 
 ## 
 ### STRETCH GOALS
+- [ ] **STRETCH GOAL** 10-7959C: Generate new PDF for stand alone
+  - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
 - [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
   - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
 - [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
