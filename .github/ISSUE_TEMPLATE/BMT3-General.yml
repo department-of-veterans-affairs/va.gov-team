@@ -1,7 +1,7 @@
-Name: Benefits Management Tools Team 3 General Issue
-Description: Create a new issue (Task, Bug, Enhancement, Question, Design, Accessibility, or Spike)
-Title: "[Issue Type] [Short descriptive title]"
-Labels: ["benefits-management-tools", "issue", "bmt-team-3"]
+name: Benefits Management Tools Team 3 General Issue
+description: Create a new issue (Task, Bug, Enhancement, Question, Design, Accessibility, or Spike)
+title: "[Issue Type] [Short descriptive title]"
+labels: ["benefits-management-tools", "issue", "bmt-team-3"]
 assignees: []
 
 body:
