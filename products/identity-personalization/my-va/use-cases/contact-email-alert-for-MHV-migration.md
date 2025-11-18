@@ -22,7 +22,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 **There is more logic for whether we show alerts on My VA;** [see section below "Alert on MHV and My VA landing pages"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-mhv-and-my-va-landing-pages)
 
 ## Interstitial after authentication  
-- Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page.
+- Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page. When the Veteran chooses option to either `add email in profile` or `update email in profile`, the text field for contact email opens and focus moves to that open field. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the interstitial again, and never get the alerts. When the Veteran chooses to `skip adding an email`, they will still get the alerts.
 - Note: Built by Identity team
 
 - url: va.gov/sign-in-confirm-contact-email
@@ -40,7 +40,8 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 
 
 ## Alert on MHV and My VA landing pages  
-- Behavior: For MHV, the alert will appear [using the same logic listed above.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts) **For My VA, there is different logic**: the alert will appear only for users who have contact email, phone, and address filled out in their VA.gov profile and the `email.updatedAt` property in VA profile is before March 1, 2025. If any of these fields is missing, a different alert will appear instead with heading `We need your contact info`.
+- Behavior: For MHV, the alert will appear [using the same logic listed above.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts) **For My VA, there is different logic**: the alert will appear only for users who have contact email, phone, and address filled out in their VA.gov profile and the `email.updatedAt` property in VA profile is before March 1, 2025. If any of these fields is missing, a different alert will appear instead with heading `We need your contact info`. When the Veteran chooses option to either `go to profile to update your contact email` or `go to profile to add a contact email`, they will get sent directly to the contact email address area of profile. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the alerts or the interstitial again. When the Veteran chooses to `skip adding an email`, they'll get a success alert and the alert will go away, but only temporarily. The skip action is saved in browser cookies and will expire.
+When the Veteran chooses `confirm` in these alerts, they will receive a success alert and the alerts and interstitial should never get served to them again.
 
 - url: va.gov/my-health and va.gov/my-va
 
@@ -58,8 +59,8 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 </details>
 
 ## Alert on contact information page of profile
-- Behavior: [Same logic as above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts)
-
+- Behavior: [Same logic as above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts). When the Veteran chooses option to either `add a contact email` or `edit contact email`, the text field for contact email opens and focus moves to that open field. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the alerts or the interstitial again. When the Veteran chooses to `skip adding an email`, they'll get a success alert and the alert will go away, but only temporarily. The skip action is saved in browser cookies and will expire.
+- 
 - url: va.gov/profile/contact-information#contact-email-address
 
 <details>
