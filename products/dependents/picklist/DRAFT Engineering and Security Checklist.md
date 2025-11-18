@@ -111,14 +111,14 @@
   - Describe required test data and test user accounts
     - Test user account are located in the `va.gov-team-sensitive` repository: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/dependents-picklist-test-users.md
     - Test users should be populated with data necessary to test dependent removal flows using the Picklist feature. 
-- Rollout plan  `@AlanWerner and @HuyNguyen`
+- Rollout plan
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/picklist/picklist-release-plan.md
     - List scope of any feature flags
       - The `va_dependents_v3` feature flag hides all the previous form version's dependent removal pages and makes the new picklist dependent removal pages visible.   
     - Identify other teams to coordinate with
       - This is a front-end change. We do not anticipate any need for coordination with other systems. However, during rollout we will smoke test the changes with RBPS. 
     - Describe rollback plan
-      - [TBD] 
+      - The rollback plan is described in the [Rollback Criteria section](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/form_updates/686c-674_V3_Picklist_Release_Plan.md#rollback-criteria) of the 686c Picklist Go/No-Go and Phased Release Plan. In short, we will reenable the `va_dependents_v3` feature flag.
   
 - Internal administration tasks  
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
