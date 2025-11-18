@@ -13,7 +13,7 @@ Updated to reflect My VA 3.0 Phase 1 use cases.
 
 - Top level alerts
    - [Missing contact information alert use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md)
-   - Contact email alert for My HealtheVet migration
+   - [Contact email alert for My HealtheVet migration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md)
 - [Claims and appeals use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases)
 - [Forms and applications use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)
 - [Health care use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases)
