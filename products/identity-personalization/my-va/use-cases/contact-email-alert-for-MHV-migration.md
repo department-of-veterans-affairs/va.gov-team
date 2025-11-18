@@ -22,7 +22,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 **There is more logic for whether we show alerts on My VA;** [see section below "Alert on MHV and My VA landing pages"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-mhv-and-my-va-landing-pages)
 
 ## Interstitial after authentication  
-- Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page. When the Veteran chooses option to either `add email in profile` or `update email in profile`, the text field for contact email opens and focus moves to that open field. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the interstitial again, and never get the alerts. When the Veteran chooses to `skip adding an email`, they will still get the alerts.
+- Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page. When the Veteran chooses option to either `add email in profile` or `update email in profile`, they will get sent directly to the contact email address area of profile. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the interstitial again, and never get the alerts. When the Veteran chooses to `skip adding an email`, they will still get the alerts.
 - Note: Built by Identity team
 
 - url: va.gov/sign-in-confirm-contact-email
