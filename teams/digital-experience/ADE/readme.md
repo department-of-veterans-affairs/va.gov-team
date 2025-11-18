@@ -6,7 +6,7 @@
 > **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
 
 
-_Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's new accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
+_Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
 
 ## Our goal
 Our goal is to empower teams to deliver the most accessible products possible for Veterans. We do this by providing teams with insights, training, and support as accessibility subject matter experts.
@@ -32,10 +32,7 @@ What follows is a menu of the services we offer.
 > No worries if you don't know what exactly you need, though, feel free to contact us on the DSVA Slack using our `@accessibility-de` handle on the `#accessibility-help` channel. [View additional ways to reach out for support.](#how-to-contact-us)
 
 ### Research support
-> [!TIP]
-> Good news! We not only have a new name, but we also have new services to offer your team! Be sure to review our recently expanded assistive technology research service offerings in this section of our service menu! 
-
-We can now aid your research work and help you both plan and conduct UX research with users of assistive technology (AT). More specifically, we can provide guidance with
+We can aid your research work and help you both plan and conduct UX research with users of assistive technology (AT). More specifically, we can provide guidance with
 - Writing research plans 
 - Defining recruitment criteria
 - Crafting screening questions for inclusive recruiting
