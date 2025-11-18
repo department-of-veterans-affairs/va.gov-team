@@ -105,14 +105,20 @@
 - Infrastructure and network changes
   - List any changes or additions
     - None
-- Test strategy  `@AlanWerner and @HuyNguyen`
+- Test strategy
   - Describe automated, manual and user acceptance test strategy
+    - [TBD link to test suite]
   - Describe required test data and test user accounts
+    - Test user account are located in the `va.gov-team-sensitive` repository: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/dependents-picklist-test-users.md
+    - Test users should be populated with data necessary to test dependent removal flows using the Picklist feature. 
 - Rollout plan  `@AlanWerner and @HuyNguyen`
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/picklist/picklist-release-plan.md
     - List scope of any feature flags
+      - The `va_dependents_v3` feature flag hides all the previous form version's dependent removal pages and makes the new picklist dependent removal pages visible.   
     - Identify other teams to coordinate with
-    - Describe rollback plan 
+      - This is a front-end change. We do not anticipate any need for coordination with other systems. However, during rollout we will smoke test the changes with RBPS. 
+    - Describe rollback plan
+      - [TBD] 
   
 - Internal administration tasks  
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
