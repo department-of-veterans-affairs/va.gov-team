@@ -11,7 +11,7 @@ Last updated: November 2025
 ## Logic for displaying all interstitial and alerts 
 - User must be ID-verified;
 - User is registered at at least 1 facility (VA profile);
-- User has not updated their contact email address since March 1, 2025 (using email.updatedAt property in VA profile)
+- User has not updated their contact email address since March 1, 2025 (we're using email.updatedAt property in VA profile)
 
 Staging user **without** contact email:
 
@@ -55,7 +55,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 </details>
 
 ## Alert on contact information page of profile
-- Behavior: [Same logic as above]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts))
+- Behavior: [Same logic as above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts)
 
 - url: va.gov/profile/contact-information#contact-email-address
 
