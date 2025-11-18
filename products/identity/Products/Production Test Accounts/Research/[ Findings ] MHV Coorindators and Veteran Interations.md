@@ -27,7 +27,7 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 * Veterans can't access PTAs at home, so showing them PTA workflows is less helpful  
 * Privacy concerns: one coordinator noted discomfort "navigating somebody else's information, even for a demo" (P1)
 
-### The Exception: Remote Support
+**The Exception: Remote Support**
 
 PTAs serve one important veteran-facing function: **creating screenshots and visual guides for remote support**. P1 described using PTAs to "go and do a screenshot, and then I put it in a secure message...with little arrows. I develop, like, a Word document, and, you know, click here, then this."
 
@@ -108,7 +108,7 @@ As P5 emphatically stated: **"When they said there was a rumor that the test pat
 
 ---
 
-### H6: Leveraging PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.
+### H6: Leveraging PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.**
 
 \*\*FINDING: UNCONFIRMED (Insufficient Evidence)
 
