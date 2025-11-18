@@ -53,9 +53,9 @@ All pages have ratings of 2 or below.
 
 1. [What should I bring to my health care appointments?](https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/) (91% good out of 3,288 total responses)
 2. [How to check in with your smartphone for some VA appointments](https://www.va.gov/resources/how-to-check-in-with-your-smartphone-for-some-va-appointments/) (92% good out of 922 total responses)
-3. [Getting started with VA](https://www.va.gov/resources/getting-started-with-va/) (73% good out of 725 total responses)
-4. [VA claim exam (C&P exam)](https://www.va.gov/resources/va-claim-exam/) (93% good out of 703 total responses)
-5. [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (92% good out of 470 total responses)
+3. [VA claim exam (C&P exam)](https://www.va.gov/resources/va-claim-exam/) (93% good out of 703 total responses)
+4. [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits/) (92% good out of 470 total responses)
+5. [About reviewing medical records online](https://www.va.gov/resources/about-reviewing-medical-records-online/) (84% good out of 428 total responses)
          
 ### 5 resources and support pages with the highest volume of total responses and <50% "good" rating
 
