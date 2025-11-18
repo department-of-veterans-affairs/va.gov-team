@@ -4,9 +4,9 @@ Last updated: November 2025
 - Figma files
 
 ## Quick links
-- Interstitial after authentication
-- Alert on MHV and My VA landing pages
-- Alert on contact information page of profile
+- [Interstitial after authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#interstitial-after-authentication)
+- [Alert on MHV and My VA landing pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-mhv-and-my-va-landing-pages)
+- [Alert on contact information page of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-contact-information-page-of-profile)
 
 ## Logic for displaying all interstitial and alerts 
 - User must be ID-verified;
@@ -17,7 +17,7 @@ Staging user **without** contact email:
 
 Staging user **with** contact email: vets.gov.user+11@gmail.com
 
-**There is more logic for whether we show alerts on profile;** see section below "Alert on contact information page of profile"
+**There is more logic for whether we show alerts on My VA;** [see section below "Alert on MHV and My VA landing pages"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-mhv-and-my-va-landing-pages)
 
 ## Interstitial after authentication  
 - Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page.
