@@ -45,10 +45,10 @@
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: Backend changes to setup feature toggle and generate new PDF
+- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle and generate PDF
   - [ ] [[BE] 10-7959C: Set up BE with feature toggle for new pdf in form version manager #125437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125437)
   - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
-- [ ] **SPRINT GOAL** 10-7959c: Begin updating standalone by adding new fields & changing medicare/OHI to match PDF
+- [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI
   - [ ] [[FE] 10-7959C: Add new OHI PDF beneficiary fields #125419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125419)
   - [ ] [[FE] 10-7959C: Add Medicare Part C Pages to Medicare Chapter #125429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125429)
   - [ ] [[FE] 10-7959C: Add new OHI PDF Medicare Part A only upload pages  #125430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125430)
