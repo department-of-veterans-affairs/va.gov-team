@@ -1035,13 +1035,13 @@ This research does not include the perspectives of the following marginalized Ve
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 
 
-
 ##   
 
 ## Recruitment of underserved groups in 2025-10 Explore disability claim decision review options Research Study
 
 <img width="795" height="718" alt="image" src="https://github.com/user-attachments/assets/1b69b4ff-3358-4e46-83d0-150a76e02b50" />
 
+**Note:** P6 was a no-show, P9 was cancelled as it was determined that a total of 7 participants was sufficient.
 
 A more accessible version of the table in the above image
 
