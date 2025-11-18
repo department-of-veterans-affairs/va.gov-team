@@ -11,7 +11,11 @@ Last updated: November 2025
 ## Logic for displaying all interstitial and alerts 
 - User must be ID-verified;
 - User is registered at at least 1 facility (VA profile);
-- User has not updated their contact email address since March 1, 2025 
+- User has not updated their contact email address since March 1, 2025 (using email.updatedAt property in VA profile)
+
+Staging user **without** contact email:
+
+Staging user **with** contact email: vets.gov.user+11@gmail.com
 
 **There is more logic for whether we show alerts on profile;** see section below "Alert on contact information page of profile"
 
@@ -35,9 +39,9 @@ Last updated: November 2025
 
 
 ## Alert on MHV and My VA landing pages
-- Staging user:
+- Staging user: vets.gov.user+11@gmail.com
   
-- Behavior:
+- Behavior: For MHV, the alert will appear [using the same logic listed above.]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts) **For My VA, there is different logic**: the alert will appear only for users who have email, phone, and address filled out in their VA.gov profile and the `email.updatedAt` property in VA profile is before March 1, 2025. If any of these fields is missing, a different alert will appear instead with heading `We need your contact info`.
 
 - url: va.gov/my-health and va.gov/my-va
 
@@ -55,11 +59,11 @@ Last updated: November 2025
 </details>
 
 ## Alert on contact information page of profile
-- Staging user:
+- Staging user: vets.gov.user+11@gmail.com
   
 - Behavior:
 
-- url: va.gov/profile/contact-information/#
+- url: va.gov/profile/contact-information#contact-email-address
 
 <details>
   <summary>For users **without** a contact email address</summary>
