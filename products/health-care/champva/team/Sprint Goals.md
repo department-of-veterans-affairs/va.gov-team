@@ -10,10 +10,11 @@
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
 - [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance and begin work
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
-- [ ] **SPRINT GOAL** 10-7959c: Setup feature toggle and generate new PDF
+- [ ] **SPRINT GOAL** 10-7959c: Backend changes to setup feature toggle and generate new PDF
 - [ ] **SPRINT GOAL** 10-7959c: Begin updating standalone by adding new fields & changing medicare/OHI to match PDF
 - [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+- [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Figma SOT to use minimal headers
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
@@ -39,6 +40,8 @@
   - [ ] [[BE] 10-7959a: Spike - Investigate LOE/Feasibility for allowing 3+ health insurance policies #125411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125411)
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
   - [ ] [[FE] CHAMPVA Claims 10-7959a: Make content resubmission edits to intro page #125519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125519)
+- [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
+  - [ ] [[UX] 10-7959a: Update Itemized Billing Statement/EOB Language #124857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124857)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Figma SOT to use minimal headers
   - [ ] [[UX] 10-7959A: Update Figma design to use minimal headers #123472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123472)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
