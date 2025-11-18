@@ -129,6 +129,28 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 14. Content / Error Alerts Revised
 
 
+## Sprint 3 Delivery
+- [ ] Sprint Delivery Approved by Enablement
+
+**Planned for Sprint 3**: 47 tickets, 128 points + 6 spikes \
+**Added as a Sprint 3 stretch goal**: 8 tickets, 10 points + 2 spikes 
+
+**Completed in Sprint 3**: 47 tickets, 112 points + 8 spikes \
+**Crew Velocity**: 112 points / 9 days =  12.4 points / day
+
+**Crew Count in Sprint 3**: 13 active teammates \
+**Average Teammate Velocity**: 112 points / 13 teammates = 8.6 points / teammate
+
+**Carrying into Sprint 3**: 14 tickets, 51 points 
+1. 1 ticket (3 points) are pending Platform/External Team review 
+2. 1 ticket (5 points) are pending Team review
+3. 3 tickets (6 points) are Blocked
+4. 2 tickets (8 points) are still in progress
+5. 2 tickets (54 points) were over-planned and unable to start due to capacity being reached
+
+**Notes**:
+1. In addition to the pointed crew velocity, 8 spikes were completed in Sprint 3.
+
 
 
 
