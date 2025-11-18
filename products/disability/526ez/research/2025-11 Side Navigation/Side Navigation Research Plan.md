@@ -12,15 +12,16 @@ Last Edited: `11/18/25` </br>
 The Disability Compensation (VA Form 21-526EZ) application process is one of the longest on [VA.gov](http://VA.gov), and navigation within the form is a major friction point. Users can only navigate the form by clicking the Back and Continue buttons and are unable to jump to previously completed sections. This results in users having to click these buttons multiple times to make changes or edit their responses in different sections of the form.  Additionally, it's difficult to have a sense of place and completion within the form because the section titles, visual progress bar indicator, and number of questions are not neatly correlated.
 
 **Side Navigation MVP (Wave Concept)**  
-To solve these problems, we are implementing the \[VADS side navigation component\](https://design.va.gov/components/sidenav) into the 526ez form as an MVP. This will allow the user to jump to previously completed sections of the form, allowing them to review, add, or edit answers faster and with fewer clicks. The side navigation will contain links to the landing pages of the 6 main steps of the form: (1) Veteran details, (2) Conditions, (3) Mental health, (4) Supporting evidence, (5) Additional information, (6) Review and submit. The navigation component also provides an overview of the steps in the form, which will help provide a sense of place and completion within the form.
+To solve these problems, we are implementing the [VADS side navigation component](https://design.va.gov/components/sidenav) into the 526ez form as an MVP. This will allow the user to jump to previously completed sections of the form, allowing them to review, add, or edit answers faster and with fewer clicks. The side navigation will contain links to the landing pages of the 6 main steps of the form: (1) Veteran details, (2) Conditions, (3) Mental health, (4) Supporting evidence, (5) Additional information, (6) Review and submit. The navigation component also provides an overview of the steps in the form, which will help provide a sense of place and completion within the form.
 
-In this new design, the \[VADS segmented progress bar with step labels\](https://design.va.gov/components/progress-bar/) has been removed so that the user is not interacting with two different components that indicate their location in the form. 
+In this new design, the [VADS segmented progress bar with step labels](https://design.va.gov/components/progress-bar) has been removed so that the user is not interacting with two different components that indicate their location in the form. 
 
 On mobile devices, the side navigation component converts to an accordion that the user expands to see links to the sections of the form. 
 
 In testing, this will be referred to as the Wave Concept.
 
-![][image1]    
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Sidenav%20desktop%20mobile.png" alt="Descriptive alt text" style="max-height:300px;">
+    
 
 *Screenshots of side navigation MVP design on desktop and mobile*
 
@@ -29,7 +30,8 @@ After implementing the side navigation component, we plan to pursue a Version 2 
 
 In testing, this will be referred to as the Cloud Concept.
 
-    ![][image2]  
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Process%20list%20desktop%20mobile%202.png" alt="Descriptive alt text" style="max-height:300px;">
+
 *Screenshot of process list Version 2 design on desktop and mobile.*
 
 **Where is your product situated on VA.gov? (ex: auth vs. unauth)**
@@ -182,7 +184,7 @@ Our target is to have 4 participants test on desktop, and 4 participants test on
 
 ### **Location**
 
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. 
 
 [X] Remote  
 [ ] In-person
@@ -259,7 +261,7 @@ We want to use Perigean to recruit 12 participants for a total of 8 completed se
 
 Send pilot participant email in study Slack channel
 
-* Pilot participant name: [Ben Peterson](mailto:ben.peterson@aquia.io)  
+* Pilot participant name: Ben Peterson 
 * Date and time of pilot session: Monday Nov. 24 at 12pm ET
 
 ### **Research sessions**
@@ -273,14 +275,6 @@ Send pilot participant email in study Slack channel
 * Maximum Sessions per day: (We all have limits \- how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?) **[3]**
 
 ### **Availability**
-
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time.
-
-Note
-
-We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.
-
-Tip
 
 Please request enough dates and at *least double the amount of time slots for the number of requested participants*. (e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.; *12 time slots for 6 participants*). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
@@ -296,10 +290,6 @@ Place time slots between hash marks when in edit mode.
 * \[12/17, Wednesday, 9:00AM \- 6:00PM\] EST
 
 ## **Team Roles 🕵️👩‍💻👩‍🔬**
-
-Note
-
-Please do not include email addresses in this section. We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
 
 Please list the names of people in each role. In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
