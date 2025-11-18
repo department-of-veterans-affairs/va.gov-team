@@ -194,19 +194,19 @@ Our report tracks the data recorded in the CSAT score dashboard in the [VA.gov](
 CSAT data includes all of the quantitative measures from the standard questions on the 3 surveys: the Veteran ranks each Survey question on a 1 \- 5 scale. The cumulative percentage of responses out of 100 becomes the CSAT measure. 
 
 | Survey Question | Financial Management Pages October 2025 CSAT Scores | All of VA.gov |
-| ----- | ----- | ----- | ----- |
-| VA.gov Experience Rating | 47.11%, N \=604  |57.93% |
-| Overall User Satisfaction With the Site | 12.53%, N \=881 | 31.63% |
-| Users Understanding of the VA.gov Website | 46.01%, N \= 478 |60.65% |
-| Users Trust in the VA's Commitment to Veterans | 61.50%, N \= 524 |60.48% |
-| Users Trust in the VA in General | 29.70% N \= 390 |36.42% |
+| ----- | -----  | ----- |
+| VA.gov Experience Rating | 64.20%, N \=604  |66.57% |
+| Overall User Satisfaction With the Site | N/A | 43.48% |
+| Users Understanding of the VA.gov Website | 62.27%, N \= 220 | 67.37% |
+| Users Trust in the VA's Commitment to Veterans | 74.68, N \= 308 |69.55% |
+| Users Trust in the VA in General | 47.90% N \= 309 |43.56% |
 
 ## **Monthly comparison of CSAT scores for October 2025 compared to September 2025**
 
 | Survey Question | Financial Management Pages October 2025 CSAT Scores | Financial Management Pages September 2025 CSAT Scores |
 | ----- | ----- | ----- |
-| VA.gov Experience Rating | 63.70%, N = 1,464 | 67.29%, N = 266 |
-| Overall User Satisfaction With the Site | 17.46%, N = 352 | N/A  |
-| Users Understanding of the VA.gov Website | 65.55%, N \= 1,197  | 70.54%, N = 241  |
-| Users Trust in the VA's Commitment to Veterans | 70.75%, N \= 2,301 | 75.72%, N = 321  |
-| Users Trust in the VA in General | 46.53% N \= 1,991 | 44.92% N = 325  |
+| VA.gov Experience Rating | 64.20%, N \=604  | 67.29%, N = 266 |
+| Overall User Satisfaction With the Site | N/A | N/A  |
+| Users Understanding of the VA.gov Website | 62.27%, N \= 220 | 70.54%, N = 241  |
+| Users Trust in the VA's Commitment to Veterans | 74.68, N \= 308  | 75.72%, N = 321  |
+| Users Trust in the VA in General | 47.90% N \= 309 | 44.92% N = 325  |
