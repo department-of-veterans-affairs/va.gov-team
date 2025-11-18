@@ -19,9 +19,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 
 **There is more logic for whether we show alerts on profile;** see section below "Alert on contact information page of profile"
 
-## Interstitial after authentication
-- Staging user:
-  
+## Interstitial after authentication  
 - Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page.
 
 - url: va.gov/sign-in-confirm-contact-email
@@ -38,10 +36,8 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 </details>
 
 
-## Alert on MHV and My VA landing pages
-- Staging user: vets.gov.user+11@gmail.com
-  
-- Behavior: For MHV, the alert will appear [using the same logic listed above.]((https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts) **For My VA, there is different logic**: the alert will appear only for users who have email, phone, and address filled out in their VA.gov profile and the `email.updatedAt` property in VA profile is before March 1, 2025. If any of these fields is missing, a different alert will appear instead with heading `We need your contact info`.
+## Alert on MHV and My VA landing pages  
+- Behavior: For MHV, the alert will appear [using the same logic listed above.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts) **For My VA, there is different logic**: the alert will appear only for users who have contact email, phone, and address filled out in their VA.gov profile and the `email.updatedAt` property in VA profile is before March 1, 2025. If any of these fields is missing, a different alert will appear instead with heading `We need your contact info`.
 
 - url: va.gov/my-health and va.gov/my-va
 
@@ -59,9 +55,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 </details>
 
 ## Alert on contact information page of profile
-- Staging user: vets.gov.user+11@gmail.com
-  
-- Behavior:
+- Behavior: [Same logic as above]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts))
 
 - url: va.gov/profile/contact-information#contact-email-address
 
