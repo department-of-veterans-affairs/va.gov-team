@@ -2,6 +2,30 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 4 (Nov 18 - Dec 1, 2025)
+
+## Sprint 4 Goals
+- [ ] Sprint Goals Approved by Enablement 
+
+**Team Accreditation**: 
+1. **[Rep Data] Accreditation API Integration**: Finish implementing fail-safes for the Accreditation API integration
+4. **[Rep Data] Stability and Maintenance**: Finish bug fixes and stability improvements, Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results, and Refactor Address Validation for agents/attorneys/VSO reps
+5. **[21a] v4 - Development**: Update the confirmation page, work to unblock Chapter 6 after which we can configure an s3 bucket and create a new endpoint to handle document uploads
+6. **ARC Team Onboarding and Setup**: General and Product onboarding for our team Product Manager
+
+**Team Benefits**:
+1. **[Auth] ID.me in ARP**: Staging Review and release, communicate release to ARP users
+6. **[ITF] MVP - Development**: Create a product outline and kick off with Collaboration Cycle, finish creating ITF endpoints in ARP behind feature flag
+7. **[ITF] MVP - Design**: Finish MVP designs, final content review, define the IA/URLs 
+9. **[Claimant Details] ARC Discovery Research: Understanding how Reps manage the claims cycle across all clients**: Create a research plan
+10. **[ARP Post-MVP] Cleanup Tasks**: Update URLs, add Accredited Representative service to PagerDuty for downtime notifications, update POA endpoints to send POA data to CorpDB, udpate the access token to align with NIST, discuss "delete_saved_claim_records_job" usage with Benefits Decision Review team
+11. **[ARF] Accessibility for ARP MVP features**: Internal Accessibility Audit
+12. **[Measure Impact] ARP MVP in Datadog**: Claims submission data in Datadog isn't consistent
+13. **[Rep Communication] Relationship Management**: ARP Support Inbox - Data Analysis for Insights, think about strategy for VSO initial adoption
+14. **ARC Team Onboarding and Setup**: Engineering onboarding for our Sr. Accessibility Engineer, Implement review instances
+
+
+
 # Sprint 3 (Nov 4 - Nov 17, 2025)
 
 ## Sprint 3 Goals
@@ -26,6 +50,35 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **General**: 
 1. **ARC Team Onboarding and Setup**: Onboard UX Researcher, Accessibility Engineer, Full Stack Engineer, 2 Product Managers
 2. **November 6th Production Deployment**: Monitor the Production release and connect with a friendly ARP user to confirm Production experiences are functioning as expected.
+
+
+## Sprint 3 Demo 
+([Recording link]())
+
+**Team Accreditation**
+
+1. Chapter 7: Enforce 3-4 character reference requirement 
+2. Review page: Improve Military Service History and Professional Affiliations accordions 
+3. Chapter 6: Implement multi-file upload component 
+
+**Team Benefits**
+
+1. Staging Review finding: File input error triggered while file is uploading 
+2. Claims Submission - Reintroduce PDF to text converter for form number validation 
+3. Bug: Deleting files breaks the upload component 
+4. Address responsiveness issues on homepage 
+5. Claimant Details Discovery 
+6. Bug: Navigating to Help page requires log in 
+7. Fix ID.me content on Help page 
+8. Site Alerts: integrating relevant alerts from VA.gov 
+9. Update URL to match Representation requests content changes 
+10. Update URLs for 686c and 526ez (Staging review feedback) 
+11. Update URL for Find Claimant 
+12. Update CRM with missing emails, tools, and other org data
+13. Update Contact Center Guide with ID.me mentions
+
+Maybe
+15. Content / Error Alerts Revised - demo if time allows
 
 
 
