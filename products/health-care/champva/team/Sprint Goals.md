@@ -8,7 +8,7 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
-- [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
+- [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes in preparation for enhanced claims launch
 - [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle
 - [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI 
 - [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation/playbook
@@ -35,7 +35,7 @@
 ##
 ### 10-7959a
 
-- [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
+- [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes in preparation for enhanced claims launch
   - [ ] [[FE] CHAMPVA Claims 10-7959a: Make content resubmission edits to intro page #125519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125519)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
   - [ ] [[UX] 10-7959a: Update Itemized Billing Statement/EOB Language #124857](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124857)
