@@ -8,11 +8,10 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Begin Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
-- [ ] **SPRINT GOAL** 10-7959a: Determine LOE of allowing 3+ health insurance and begin work
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
 - [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle and generate PDF
 - [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF incl. add new fields & updates to medicare/OHI 
-- [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation
+- [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation/playbook
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Figma SOT to use minimal headers
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
@@ -28,15 +27,12 @@
   - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d: Fix mislabelling of names on Medicare Summary page
   - [ ] [[FE] 10-10d/10-7959c - Form merge - "Applicant" is appearing instead of the applicant's name on Medicare summary page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125015)
-- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
-  - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
+
 
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance and begin work
-  - [ ] [[BE & FE] 10-7959A: Support 3+ health insurance policies by auto-generating additional claim cover sheets (PDF) #124069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124069)
-  - [ ] [[BE] 10-7959a: Spike - Investigate LOE/Feasibility for allowing 3+ health insurance policies #125411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125411)
+
 - [ ] **SPRINT GOAL** 10-7959a: Update Intro page to reflect content changes
   - [ ] [[FE] CHAMPVA Claims 10-7959a: Make content resubmission edits to intro page #125519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125519)
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
@@ -79,25 +75,31 @@
 
 ##
 ### All forms or Tech Debt
-- [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation
+- [ ] **SPRINT GOAL** All forms: Address outstanding monitor incidents and update documentation/playbook
   - [ ] [IVC Forms: 11/12/2025 Monitor Incident - Request ran for longer than 120000ms #124952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124952)
   - [ ] [IVC Forms: 2025-04-10 Monitor Incident - The provided stamp content was empty #107339](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107339)
+  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Better TmpFile Management #106632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106632)
+  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Add New Logs  #105639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105639)
   - [ ] [[FE/BE] Review the Monitoring Playbook and update it to align with current team practices #121441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121441)
-- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics
-  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - November 2025 #125405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125405)
+
 
 
 
 ## 
 ### STRETCH GOALS
-- [ ] **STRETCH GOAL** 
-
+- [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+  - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
+- [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - November 2025 #125405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125405)
 
 ##
 ### WHAT'S NEXT
 - **FE**
 - **UX**
 - **BE**
+- [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance
+  - [ ] [[BE & FE] 10-7959A: Support 3+ health insurance policies by auto-generating additional claim cover sheets (PDF) #124069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124069)
+  - [ ] [[BE] 10-7959a: Spike - Investigate LOE/Feasibility for allowing 3+ health insurance policies #125411](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125411)
 
 
 ##
