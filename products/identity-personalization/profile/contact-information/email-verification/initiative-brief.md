@@ -1,145 +1,156 @@
-# Initiative Brief - Email Verification 
+# Email Verification Product Outline
+**Last updated:** November, 2025 - development in progress
 
-#### Overview
-
-Currently, there is no verification process to ensure the provided contact email is valid or monitored by the user. This feature introduces a verification process for users' contact emails to ensure secure, reliable communication from VA.gov services.
-
-Veterans who use VA.gov create accounts using ID.me or Login.gov to verify their identity. However, the email address they use to create these accounts may differ from the contact email where they receive important communications from the VA. Verifying an email entails sending the user an email at the address they have entered and having the user click a link to confirm that they have received the email. This is the same process used during the authentication account creation process by [Login.gov](http://login.gov/) and ID.me. Since we don't use the email users use when creating their account, we need to replicate this process for the Contact Email. 
-
-Emails that are not verified can be stale leading to reduced engagement. Contact emails are heavily relied upon by us to communicate with users. We need to be able to communicate with our users in the event of a failure. Accounts with errant email address in the VA.gov Profile make this more difficult. Verification should alleviate this problem. 
-
-There are a number of DE initiatives that are tackling the problem of making sure an account is using the most up to date email address and that we are collecting this as early as possible. 
-
-1. The Auth. Experience Pattern team is working on an update to the pre-fill pattern which should instruct teams on how to update the [VA.gov](http://va.gov/) Profile when a user provides an email address on a form. This will handle both cases where no email exists in Profile and when the email in Profile does not match the email provided on the form. Once that pattern lands in the Design System, we'll require VFS teams to start using it via the Collaboration Cycle.
-2. IIR Profile Completeness: New VA.gov users whose profile information is missing email address, mailing address, or phone number are prompted to fill out this information.
-
-The Email Verification Feature, will focus on ensuring the accuracy of that contact email being collected. 
-
-## POCs
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#va-profile](https://dsva.slack.com/channels/va-profile)
-- [This is currently managed by the VA.gov authenticated experience team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/README.md).
-
-## Outcome Summary
-The objective of this initiative is to improve the accuracy and completeness of contact information within VA.gov user profiles by building a contact email verification process. The goal is to ensure that VA Profile/VA Notify/VA.gov Profile are able to support sending timely and critical communications from the VA to verified email addresses, leading to improved engagement and reduced errors in delivery.
-
-**Related/Associated product(s)**
-- [Contact Information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information#readme)
-  
-## Problem
-Some VA.gov users have outdated or incorrect contact email addresses, leading to missed communications regarding benefits, healthcare, and other services. This issue affects veterans who rely on VA services, as well as VA staff who depend on accurate contact information for outreach.
-
-- Users may provide incorrect, inactive, or outdated contact emails.
-- Veterans are not notified if the contact email they've entered is unreachable.
-- There's no clear indicator to show if a contact email is verified or not.
-
-
-### Key Challenges:
-
-- The current profile setup does not require email confirmation.
-- Inaccurate or outdated emails contribute to missed notifications and delays in service completion
-
-### Root Causes:
-- Lack of mandatory email confirmation during profile setup.
-- Users not being aware of the importance of maintaining updated contact details.
-- Insufficient prompts and frictionless workflows encouraging updates. (IIR launched a product focused on new users onboarding to the VA. This will need to form part and parcel of that process and is something of an extension of what they launched)
-
-## Alignment with OCTO-DE Goals:
-- Enhances user engagement and trust by ensuring seamless communication.
-- Supports VA’s mission of providing timely and accurate information to veterans.
-- Strengthens VA.gov’s data integrity and service effectiveness.
-
----
-## Measuring Success
-
-### Key Performance Indicators (KPIs)
-
-| KPI                                       | Baseline | Target | Data Source               |
-|-------------------------------------------|----------|--------|---------------------------|
-| Percentage of users with confirmed emails | X%       | Y%     | VA Profile                |
-| Reduction in email bounce rate            | X%       | Y%     | GA? VA Profile, VA Notify |
-| Increase in successful email deliveries   | X%       | Y%     | VA Notify                 |
-| Improved user trust/satisfaction score    | X        | Y      | VA.gov feedback surveys   |
-
-### OCTO OKRs:
-1.3: 100% of our transactions receive via our digital experience sare either processed correctly or we have notified the user of an error.
-2.2: We have reduced the total error rates in our platforms by 50% compared to Q4 2024 towards a goal of less than 1% per endpoint.
-Portfolio OKRs:
-Team/Crew/Pod OKRs:
-
+**Communications**  
+- **GitHub Label:** vsa-authenticated-exp; my-va-dashboard  
+- **Slack channel:** #accountexp-authexp  
 
 ---
 
-## Discovery
-### Assumptions/Risks
-
-- **Value Risks** (will people use it): 
-  - Users may not see immediate value in confirming their email addresses.
-  - Some users may abandon the process if it is too complex.
-- **Usability Risks** (can people figure out how to use it):
-  - We're forcing users to navigate to their email, some users w/cognitive impairments may not be able to complete the process end to end
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Ensuring a seamless verification flow without technical glitches (may need VA Notify and Identity team support)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Coordination with multiple VA departments for policy alignment.
-  - Compliance with security and privacy regulations.
-
-### What're you building
-
-#### In Scope
-
-- Implement a mandatory or strongly encouraged email confirmation step during profile updates.
-- Introduce periodic prompts reminding users to verify their email addresses.
-- Provide clearer messaging on why email confirmation is critical.
-- Automate detection and alerts for invalid/bounced emails.
-
-#### Out of Scope:
-- Expanding verification to other contact details such as phone numbers (future consideration).
-
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-
---- 
-
-## Launch Planning
-### Collaboration Cycle
-
-- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107570)
-
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-TK
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+# Table of Contents
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [User Flow Logic](#user-flow-logic)
+4. [User Outcomes](#user-outcomes)
+5. [Business Outcomes](#business-outcomes)
+6. [Measuring Success](#measuring-success)
+7. [OCTO OKRs](#octo-okrs)
+8. [Important Decisions / Notes](#important-decisions--notes)
+9. [Open Questions](#open-questions)
+10. [Research](#research)
+11. [Design](#design)
+12. [Frontend](#frontend)
+13. [Backend](#backend)
+14. [Security](#security)
 
 ---
 
-## Important Artifacts
-- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104525)
-  - [Experience Crew Product/Project Tracking Ticket](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/1252)   
-- [Mural for ideation](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741604960245/d32c6003ed9134cebe4c30284a1e349177e035f7)
-- [VA profile intake ticket CMDMRP-10107](https://jira.devops.va.gov/servicedesk/customer/portal/12/CMDMRP-10107)
-- [VA Notify Intake](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107572)
-   
-## Screenshots
-
-### Before
-
-### After
+# Overview
+This initiative introduces an email verification step for Veterans whose contact email does not match the identity email they use to sign in to VA.gov. When a mismatch is detected, VA.gov asks the user to confirm or update their contact email using a link sent to that address. Veterans with matching emails will not see any prompts. The goal is to ensure the email VA uses for communications is actively monitored. This feature is in support of the zero silent failures initiative.
 
 ---
 
-#### Communications
+# Problem Statement
+There is currently no verification process to confirm that the contact email stored in VA Profile is valid or checked regularly by the user. Some Veterans  may use a different email for sign-in than the one they provide in Profile; however, because we can’t run an upfront cross-system check we cannot get a precise number of how many. While Login.gov and ID.me verify identity emails during account creation, that identity email is not used by VA.gov for ongoing communications. The contact email is what receives important updates from the VA, so the VA needs confidence that it is accurate and monitored. Unverified or outdated emails lead to missed communications, failed outreach, and increased support needs.
+Introducing a light-touch verification flow ensures the VA can reliably reach Veterans when it matters.
 
-- Team Name: Authenticated Experience 
-- GitHub Label(s): authenticated-experience, contact-information
-- Slack channel: #accountexp-authexp
-- Product POCs: Travis Cahill, Chante Lantos-Swett
+---
 
+# User Flow Logic
+A Veteran must verify their contact email whenever it does not match their Login.gov/ID.me identity email. Verification is triggered in two situations:
 
+When a LOA3 user loads any of these pages:
+- My VA  
+- Contact information  
+- Email and text notifications  
 
+When a user adds or updates their contact email, and the new email does not match their identity email.
+
+If the two emails don’t match, the user enters the verification flow. If they do match, no prompts appear and the user is considered fully verified.
+
+The full-page interstitial appears first and includes a “Skip for now” option. If the user skips, they see a persistent alert for the rest of that session. If they return later without completing verification, the interstitial reappears on trigger pages.
+
+### Scenarios
+
+**Scenario 1:**  
+User lands on My VA, Contact information, or Email and text notifications with unmatched emails → system sends a confirmation email and shows the “Check your email” interstitial.
+
+**Scenario 2:**  
+User adds or updates their contact email → system sends a confirmation email and shows the “Check your email” modal.
+
+### Edge Cases
+See temporary and permanent send failure elements below.
+
+### Interactive Elements
+
+| **Element** | **What Triggers It** | **What the User Can Do** |
+|-------------|----------------------|---------------------------|
+| Email Sent | Contact email ≠ identity email AND user lands on My VA / Contact information / Email and text notifications OR user updates/adds a contact email | Resend confirmation link, update email, skip for now (interstitial only) |
+| Temporary Send Failure | Confirmation email had a temporary delivery issue (inbox full, throttling, etc.) | Resend confirmation, update email, skip for now (interstitial only) |
+| Permanent Send Failure | Confirmation email cannot be delivered (invalid address, blocked, etc.) | Update email (restarts flow), skip for now (interstitial only) |
+| Email Confirmed | User clicks a valid confirmation link and loads a trigger page | Dismiss and continue to VA.gov |
+| Email Confirmation Link Resent | User clicks “Resend confirmation link” | Dismiss modal (disappears on next page load) |
+| Check Your Email — Modal | User saves a new/updated contact email that ≠ identity email | Close modal; verification continues through alerts |
+
+---
+
+# User Outcomes
+
+### Desired
+- Users understand which email receives important VA communications and can easily update it if it’s outdated.
+- The confirmation experience feels simple, familiar, and aligned with common industry patterns.
+
+### Undesired
+- Excessive friction or frustration from repeated interstitials or alerts.
+- Users who attempt verification but encounter delivery failures and get stuck seeing repeated prompts.
+
+---
+
+# Business Outcomes
+
+### Desired 
+- Contact emails in Profile are verified and actively monitored, improving communication reliability.
+- Fewer missed notices and fewer downstream failures caused by incorrect email addresses.
+
+### Undesired 
+- Increased call-center volume caused by confusion, delivery issues, or difficulty completing verification.
+
+---
+
+# Measuring Success
+Because we can’t run an upfront cross-system check to see how many Veterans need verification, we can’t calculate a true conversion rate for the full population. Instead, we focus on the overall increase in verified contact emails over time and use a small set of diagnostic signals to understand whether the flow is working.
+
+### Primary Success Metric
+- Total number of verified contact emails
+
+### Diagnostic Metrics
+These help us understand usage and flow effectiveness:
+- Interstitial render count  
+- Skip rate  
+- Same-session verification completion (interstitial → success message)
+
+These don’t measure total conversion, but they show whether the experience is understandable, trustworthy, and technically reliable.
+
+---
+
+# OCTO OKRs
+1.3: 100% of our transactions received via our digital experiences are either processed correctly or we have notified the user of an error.  
+2.2: We have reduced the total error rates in our platform by 50% compared to Q4 2024 towards a goal of less than 1% per endpoint.
+
+---
+
+# Important Decisions / Notes
+- Campaign will run for three months. Afterward, users who never logged in will receive a one-time email prompting them to confirm their contact email.  
+- It is technically too challenging to run a report ahead of this campaign to determine how many Veterans have contact emails on file that do not match their identity email.  
+- In an effort to balance effectiveness with minimal user friction, we are providing a “skip for now” option in all the interstitial prompts. We do not want to disrupt key tasks.
+
+---
+
+# Open Questions
+- Is there a way to determine or record whether a contact email was verified automatically or manually by the user?  
+- Decision still pending on whether this becomes an annual or recurring effort.
+
+---
+
+# Research
+- [Secondary research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-09-email-verification-desk-research/research-findings.md)
+
+---
+
+# Design
+- [Figma files](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-13933&t=ixwiHtvFAXdmxYor-1)
+
+---
+
+# Frontend
+- TBD
+
+---
+
+# Backend
+- Data flow diagram
+
+---
+
+# Security
+- TBD
