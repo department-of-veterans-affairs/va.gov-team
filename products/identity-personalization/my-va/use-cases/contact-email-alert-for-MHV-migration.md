@@ -11,7 +11,7 @@ Last updated: November 2025
 - [Alert on contact information page of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#alert-on-contact-information-page-of-profile)
 
 ## Logic for displaying all interstitial and alerts 
-- User must be ID-verified;
+- User must be ID-verified (LOA3);
 - User is registered at at least 1 facility (VA profile);
 - User has not updated their contact email address since March 1, 2025 (we're using email.updatedAt property in VA profile)
 
@@ -60,7 +60,6 @@ When the Veteran chooses `confirm` in these alerts, they will receive a success 
 
 ## Alert on contact information page of profile
 - Behavior: [Same logic as above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#logic-for-displaying-all-interstitial-and-alerts). When the Veteran chooses option to either `add a contact email` or `edit contact email`, the text field for contact email opens and focus moves to that open field. When the Veteran chooses to `confirm` their contact email, they should get a success alert and never see the alerts or the interstitial again. When the Veteran chooses to `skip adding an email`, they'll get a success alert and the alert will go away, but only temporarily. The skip action is saved in browser cookies and will expire.
-- 
 - url: va.gov/profile/contact-information#contact-email-address
 
 <details>
