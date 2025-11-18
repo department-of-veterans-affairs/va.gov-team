@@ -324,7 +324,7 @@ Now, if you look at the bottom right hand corner of the page, you'll see "back t
     * [Probe] Would you rather have a search bar on the page or use the keyboard to ctrl + F? Why?
 
 ## Comparison to current - 3 minutes
-* How do these concepts compare to how you would normally access a copy of your answers to a form you have submitted?
+* How do these concepts compare to how you would normally access a copy of your answers to a form you have submitted, such as the disability benefits application or your yearly tax return form?
     * Are there any features or qualities that are missing?
 * Is there anything you'd wish to have?
 
