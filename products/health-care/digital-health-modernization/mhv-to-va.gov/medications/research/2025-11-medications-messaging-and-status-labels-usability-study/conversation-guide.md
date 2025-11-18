@@ -216,9 +216,10 @@ Now that you’ve found the renewal link, how would you request more of this med
 
 
 * What do you notice on this page?
-* Would you try to edit this message at all?
-* If no, why not?
-* If yes, what would you change in the message?
+* Would you edit or add additional information to this message at all?
+    * If no, why not?
+    * If yes, what would you change in the message?
+* What would you do next to request more medication?
 
 *[After task completion]*
 
