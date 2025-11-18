@@ -23,6 +23,7 @@ Staging user **with** contact email: vets.gov.user+11@gmail.com
 
 ## Interstitial after authentication  
 - Behavior: When the user logs in, instead of immediately sending the user to the My VA landing page OR returning them to whatever page they were on on VA.gov, they first are taken to this interstitial page.
+- Note: Built by Identity team
 
 - url: va.gov/sign-in-confirm-contact-email
 
