@@ -1,9 +1,3 @@
-
-
-| title | author | date\_created | last\_modified | tags | description |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-| Conversation Guide for \[Team, Product, Date\] | \[AUTHOR NAME\] | \[YYYY-MM-DD\] | \[YYYY-MM-DD\] |  \[Tag1\] \[Tag2\]  | A template for moderating research sessions including logistics, intro script, task outlines, and consent steps. |
-
 # **Conversation Guide for Side Navigation**
 
 ## **Moderator logistics 📋✅**
@@ -23,7 +17,13 @@ List and complete any project-specific setup tasks for this study below:
 
 ### **Day of the session**
 
-* Open prototype 10 min before session: \[insert Figma prototype link\]  
+Open prototype 10 min before session: </br>
+* Desktop
+  * [Desktop Prototype - Side Nav](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=2601%3A22166&node-id=2601-22168&viewport=2012%2C822%2C0.21&t=gXvnjdX1sVKmHo0j-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2601%3A22168&hide-ui=1)
+  * [Desktop Prototype - Process List](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=3317%3A43593&node-id=3317-43778&viewport=4159%2C855%2C0.2&t=Aa9pvILVkH6DnuaC-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3317%3A43778&show-proto-sidebar=1&hide-ui=1) </br>
+* Mobile
+  * [Moble Prototype - Side Nav](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=2601%3A22166&node-id=3096-60661&viewport=2012%2C822%2C0.21&t=gXvnjdX1sVKmHo0j-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3096%3A60661&show-proto-sidebar=1&hide-ui=1)
+  * [Mobile Prototype - Process List](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=3317%3A43593&node-id=3404-36441&viewport=4159%2C855%2C0.2&t=Aa9pvILVkH6DnuaC-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3404%3A36441&show-proto-sidebar=1&hide-ui=1)</br>
 * Open [Emergency Exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies)  
 * Open the appropriate screen share guidance:  
   * iPhone: [Start screen share](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)  
@@ -56,7 +56,7 @@ What we want to do today is get your feedback on a navigation feature on the Dis
 
 If you have filled out this form before, I want you to know that today, I don’t want to add to any frustration you may have had with getting benefits. As a heads up, we may take a look at disability claims experiences that may have caused frustration for you in the past, and I want you to know upfront that I don't have any contact with claims reviewers and I don't have any access to your records. However, I do want to gather your feedback in case there are things we can improve in the future. 
 
-\[PAUSE\] **Do you have any questions so far?**
+[PAUSE] **Do you have any questions so far?**
 
 ***Now we'll talk a little about the session***: 
 
@@ -117,10 +117,8 @@ Before we get started, are you using a desktop or mobile device?
 
 Great, I am going to send you our link for X device in the chat. 
 
-* Side Nav [Desktop Figma Link](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=2601%3A22166&node-id=2601-22168&viewport=2173%2C795%2C0.21&t=J0ROanQCT44BbT7S-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2601%3A22168)  
-* Side Nav Mobile Figma Link  
-* Process List Desktop Figma  
-* Process List Mobile Figma
+  * [Desktop Prototype - Side Nav](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=2601%3A22166&node-id=2601-22168&viewport=2012%2C822%2C0.21&t=gXvnjdX1sVKmHo0j-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2601%3A22168&hide-ui=1)
+  * [Moble Prototype - Side Nav](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=2601%3A22166&node-id=3096-60661&viewport=2012%2C822%2C0.21&t=gXvnjdX1sVKmHo0j-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3096%3A60661&show-proto-sidebar=1&hide-ui=1)
 
 I am going to ask you to share your screen. But please feel free to take a minute to hide anything, like your personal email or anything you don’t want us to see. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
 
@@ -240,6 +238,9 @@ Ok, now that you have finished the tasks, we have some follow up questions:
 
 Now, we are going to ask you to look at another version we have created.
 
+  * [Desktop Prototype - Process List](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=3317%3A43593&node-id=3317-43778&viewport=4159%2C855%2C0.2&t=Aa9pvILVkH6DnuaC-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3317%3A43778&show-proto-sidebar=1&hide-ui=1) </br>
+  * [Mobile Prototype - Process List](https://www.figma.com/proto/pvrA4dBGYhgiRyI0cxN8vE/526---Side-Navigation?page-id=3317%3A43593&node-id=3404-36441&viewport=4159%2C855%2C0.2&t=Aa9pvILVkH6DnuaC-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3404%3A36441&show-proto-sidebar=1&hide-ui=1)</br>
+
 Go back to the Zoom application and in the chat, open the link we have just sent.
 
 ## **Task List (10 minutes)**
@@ -321,16 +322,18 @@ Well we really appreciate you taking the time to share your thoughts with us tod
 
 Thanks\! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
-Thank you so much again, and enjoy the rest of your day\!
+Thank you so much again, and enjoy the rest of your day!
 
+---
 # **Emergency Exit 🚨**
 
 In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.
 
+## Exit Strategy Scripts
+Out of questions: We have covered all the questions I have for you today. Thank you so much for your time and feedback.
 
----
+Blame technology: I am so sorry, but I just learned that the [website/prototype/thing I wanted to test with you today] is unexpectedly not working. I apologize for the inconvenience and thank you for your time.
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+Backup Moderator: This is best to practice beforehand, but can work if there is an emergency with the moderator. Appoint another team member who will be on the call as the backup moderator. You can say “for the next part of this session [backup moderator name] will moderate.” They should be prepared to jump in if something happens to you or you are not comfortable to finish the session.
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
 
