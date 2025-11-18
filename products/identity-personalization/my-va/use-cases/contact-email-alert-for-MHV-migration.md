@@ -15,7 +15,7 @@ Last updated: November 2025
 - User is registered at at least 1 facility (VA profile);
 - User has not updated their contact email address since March 1, 2025 (we're using email.updatedAt property in VA profile)
 
-Staging user **without** contact email:
+Staging user **without** contact email: vets.gov.user+12@gmail.com
 
 Staging user **with** contact email: vets.gov.user+11@gmail.com
 
