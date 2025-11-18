@@ -1,0 +1,200 @@
+name: "Request to Add a Letter to VA Benefits Letters and Documents"
+description: "Intake form to propose new letters for inclusion in VA Benefits Letters and Documents on VA.gov."
+title: "[Letter Request] <Short letter name>"
+labels:
+  - "benefits-letters"
+  - "intake"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Request to Add a Letter to VA Benefits Letters and Documents
+
+        ## What this form is for
+
+        This form helps teams propose new letters for inclusion in **VA Benefits Letters and Documents** — the secure, self-service tool on VA.gov where Veterans and other claimants can view, generate, and download official VA correspondence related to their benefits, service, and eligibility.
+
+        ## How it works
+
+        Letters in this tool are generated from backend services through API endpoints. Each letter must follow VA's eligibility logic and include user-facing content for display on VA.gov.
+
+        By completing this form, you'll help us determine:
+
+        - Whether VA Benefits Letters and Documents is the right place for claimants to access this letter  
+        - What technical dependencies or work are needed to support it  
+        - Which teams will own delivery, review, and ongoing maintenance  
+
+        ## What happens next
+
+        After you submit this form, our team will review your request and follow up within **[X business days]** to discuss next steps and feasibility.
+
+        **Questions?** Contact **[team contact info]** or reach out in **[Slack channel]**.
+
+  # Basic Information
+  - type: markdown
+    attributes:
+      value: |
+        ## Basic Information
+
+  - type: input
+    id: letter_name
+    attributes:
+      label: "1. Name of the letter"
+      description: "For example: “TSA PreCheck Eligibility Letter”."
+      placeholder: "TSA PreCheck Eligibility Letter"
+    validations:
+      required: true
+
+  - type: input
+    id: owning_team
+    attributes:
+      label: "2. Which VA team or office owns this letter?"
+      description: "For example: VBA Compensation Service, VHA Office of Community Care, etc."
+      placeholder: "Owning team or office"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "### 3. Point of contact for follow-up questions"
+
+  - type: input
+    id: poc_name
+    attributes:
+      label: "Point of contact name"
+      placeholder: "First and last name"
+    validations:
+      required: true
+
+  - type: input
+    id: poc_email
+    attributes:
+      label: "Point of contact email"
+      placeholder: "name@va.gov"
+    validations:
+      required: true
+
+  - type: input
+    id: poc_slack
+    attributes:
+      label: "Point of contact Slack handle"
+      placeholder: "@firstname.lastname"
+    validations:
+      required: false
+
+  # Letter Details
+  - type: markdown
+    attributes:
+      value: |
+        ## Letter Details
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: "1. Purpose of the letter"
+      description: "Briefly describe what the letter is for and why a Veteran would need it / how they might use it."
+      placeholder: "Describe the purpose and typical use cases for the letter."
+    validations:
+      required: true
+
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: "2. Eligibility criteria"
+      description: "What determines whether a Veteran can access or generate this letter? Are there specific requirements a Veteran needs to satisfy in order to access this letter, or is it generally available to all Veterans?"
+      placeholder: "Describe eligibility criteria (e.g., benefit type, service era, disability rating, status, etc.)."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency_of_use
+    attributes:
+      label: "3. Frequency of use"
+      description: "Is this a one-time-use letter, or can Veterans generate it multiple times?"
+      options:
+        - "One-time use"
+        - "Can be generated multiple times"
+        - "Not sure / needs discussion"
+    validations:
+      required: true
+
+  - type: textarea
+    id: who_can_access
+    attributes:
+      label: "4. Who can access this letter?"
+      description: "For example: Veterans, dependents, service members, caregivers, etc."
+      placeholder: "List all audiences who should be able to access this letter."
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting_docs_letter_details
+    attributes:
+      label: "5. Supporting documentation or links"
+      description: "Any policy, regulation, or VA site that explains the letter’s purpose."
+      placeholder: "Paste relevant URLs or describe supporting documents and where they can be found."
+    validations:
+      required: false
+
+  # Technical Information
+  - type: markdown
+    attributes:
+      value: |
+        ## Technical Information
+
+  - type: textarea
+    id: source_service
+    attributes:
+      label: "1. Source service / endpoint"
+      description: "Which service provides this letter data? For example: EVSS, LH, or other. If known, include any relevant endpoint names or technical details."
+      placeholder: "Describe the source system and any known API endpoints (optional)."
+    validations:
+      required: false
+
+  # Front-end & Content Needs
+  - type: markdown
+    attributes:
+      value: |
+        ## Front-end & Content Needs
+
+  - type: textarea
+    id: description_summary_text
+    attributes:
+      label: "1. Description or summary text"
+      description: "Provide the copy you'd like shown on the Letters page alongside the letter. This is what users will see before they generate the letter."
+      placeholder: "Proposed user-facing description that appears next to the letter."
+    validations:
+      required: true
+
+  - type: textarea
+    id: supporting_docs_fe
+    attributes:
+      label: "2. Supporting documentation or links"
+      description: "Any policy, regulation, or VA site that explains the letter’s purpose (for content and UX reference)."
+      placeholder: "Paste URLs or describe documents for content/design reference."
+    validations:
+      required: false
+
+  - type: input
+    id: preferred_display_name
+    attributes:
+      label: "3. Preferred display name"
+      description: "How should this letter appear in the user-facing list in VA Benefits Letters and Documents?"
+      placeholder: "Short, clear title as seen by Veterans"
+    validations:
+      required: true
+
+  # Implementation Considerations
+  - type: markdown
+    attributes:
+      value: |
+        ## Implementation Considerations
+
+  - type: input
+    id: desired_launch_date
+    attributes:
+      label: "1. Desired launch or availability date"
+      description: "When would you like this letter to go live? This helps us understand timelines and dependencies."
+      placeholder: "YYYY-MM-DD or a general timeframe (e.g., Q2 FY2026)"
+    validations:
+      required: false
