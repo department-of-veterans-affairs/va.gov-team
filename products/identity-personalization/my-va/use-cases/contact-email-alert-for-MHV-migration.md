@@ -3,7 +3,7 @@ Last updated: November 2025
 - [Figma file designs for interstitial](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=6688-35478)
 - [User flow for interstitial](https://www.figma.com/design/fk8WtgZIRuS2UAjEvWHsey/Untitled?node-id=2-12128&t=t7hyaS0B4QABWYzv-1)
 - [Figma file designs for alerts](https://www.figma.com/design/fk8WtgZIRuS2UAjEvWHsey/Untitled?node-id=5-61241&t=t7hyaS0B4QABWYzv-1)
-- U[ser flow for alerts](https://www.figma.com/design/fk8WtgZIRuS2UAjEvWHsey/Untitled?node-id=5-76624&t=t7hyaS0B4QABWYzv-1)
+- [User flow for alerts](https://www.figma.com/design/fk8WtgZIRuS2UAjEvWHsey/Untitled?node-id=5-76624&t=t7hyaS0B4QABWYzv-1)
 
 ## Quick links
 - [Interstitial after authentication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/contact-email-alert-for-MHV-migration.md#interstitial-after-authentication)
