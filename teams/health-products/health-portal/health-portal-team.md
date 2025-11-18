@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 10/30/2025
+Updated 11/18/2025
 
 ## Table of Contents
 - [Welcome](#welcome)
@@ -35,7 +35,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Eunice Garcia
 - MHV Web and Mobile
    - Greg Kirk
-   - Lauren Ernest (Slack: [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+   - Heather Widmont
 - MHV Platform and API
   - Sean Good
   - Matt Bain
@@ -50,12 +50,12 @@ This cross-functional group serves as the Company points of contact for the deli
 | Name                | DSVA Slack                                                      |
 |---------------------|-----------------------------------------------------------------|
 | Marci McGuire       | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V)       |
-| Bryan Ivie          | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)          |
+| David Koger         | [@davidkoger](https://github.com/davidkoger)                    |
 | Daniel Cloud        | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S)        |
 | Florence McCafferty | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) |
 | Cara Frissell       | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7)       |
 | Sara Sterkenburg    | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25)    |
-| Marcello Antosh     | [@Marcello Antosh](https://dsva.slack.com/team/U09LCFL4YMT)                                                             |
+| Marcello Antosh     | [@Marcello Antosh](https://dsva.slack.com/team/U09LCFL4YMT)     |
 
 
 ### Medical Records
@@ -112,6 +112,7 @@ This cross-functional group serves as the Company points of contact for the deli
 
 | Name                | DSVA Slack                                                        |
 |---------------------|-------------------------------------------------------------------|
+| Bryan Ivie          | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)            |
 | Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)       |
 | Clint Wilde         | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
 
@@ -124,16 +125,18 @@ This cross-functional group serves as the Company points of contact for the deli
 |------------------|------------------------------------------------------------------------------------|
 | Carlos Felix     | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R)                           |
 | Sarah Horton     | [@Sarah Horton](https://dsva.slack.com/team/U09HBGL49KN)                           |
-| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/team/U09BBH4EPDE)                   |
-| Jeffrey Heredia   | [@Jeffrey Heredia](https://dsva.slack.com/team/U09LPSVP9J7)                                  |
-| Laura Simpson    | [@Laura Simpson](https://dsva.slack.com/team/U09GT3BGPGT)                      |
+| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/team/U09BBH4EPDE)                       |
+| Jeffrey Heredia  | [@Jeffrey Heredia](https://dsva.slack.com/team/U09LPSVP9J7)                        |
+| Laura Simpson    | [@Laura Simpson](https://dsva.slack.com/team/U09GT3BGPGT)                          |
 
 ### Customer Support and Triage (Tier 3)
 - Slack channel: [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV)
 
-| Name        | DSVA Slack                                                                              |
-|-------------|-----------------------------------------------------------------------------------------|
-| Tom Gammons | [@Tom Gammons (va)](https://dsva.slack.com/team/U02BBL9L0CU)                            |
+| Name           | DSVA Slack                                                                              |
+|----------------|-----------------------------------------------------------------------------------------|
+| Bryan Ivie     | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)                                  |
+| Tom Gammons    | [@Tom Gammons (va)](https://dsva.slack.com/team/U02BBL9L0CU)                            |
+| Melissa Ashton |                                                                                         |
 
 
 ## Platform and API Team Members
