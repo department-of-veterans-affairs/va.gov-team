@@ -12,7 +12,9 @@ Last updated: November 2025
 - User must be ID-verified;
 - User is registered at at least 1 facility (VA profile);
 - User has not updated their contact email address since March 1, 2025 
-There is more logic for whether we show alerts on profile; see section below "Alert on contact information page of profile"
+
+<br>
+**There is more logic for whether we show alerts on profile;** see section below "Alert on contact information page of profile"
 
 ## Interstitial after authentication
 - Staging user: 
