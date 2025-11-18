@@ -43,7 +43,14 @@
 - [ ] **SPRINT GOAL** 10-7959c: Setup feature toggle and generate new PDF
   - [ ] [[BE] 10-7959C: Set up BE with feature toggle for new pdf in form version manager #125437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125437)
   - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
-- [ ] **SPRINT GOAL** 
+- [ ] **SPRINT GOAL** 10-7959c: Begin updating standalone by adding new fields & changing medicare/OHI to match PDF
+  - [ ] [[FE] 10-7959C: Add new OHI PDF beneficiary fields #125419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125419)
+  - [ ] [[FE] 10-7959C: Add Medicare Part C Pages to Medicare Chapter #125429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125429)
+  - [ ] [[FE] 10-7959C: Add new OHI PDF Medicare Part A only upload pages  #125430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125430)
+  - [ ] [[FE] 10-7959C: Display termination date on Part D carrier page #125432](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125432)
+  - [ ] [[FE] 10-7959C: Remove prescription-related questions from Medicare and Other Health Insurance sections for new pdf #125435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125435)
+  - [ ] [[FE] 10-7959C: Update Medicare Type Question Options and Age-Based Logic for new pdf #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
+  - [ ] [[FE] 10-7959C: Add new OHI PDF Medicare Part only upload pages #125505](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125505)
 
 
 ## 
