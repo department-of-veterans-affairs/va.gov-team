@@ -9,10 +9,10 @@
 #### Note: Code Freeze Thursday 11/27 through Friday 11/28
 - [ ] EZR Spouse - Finalize QA
 - [ ] EZ QA on Intro page looping fix
-- [ ] EZR Financials - Finalize QA findings & QA
+- [ ] EZR Financials - Finalize findings fix & QA
      - [ ] EZR Financials data disappearing
      - [ ] EZR Back button format update
-     - [ ] EZR Date of marriage on spouse card
+
 
 ## 
 ### 10-10EZR
@@ -21,7 +21,6 @@
 - [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
 - [ ] **SPRINT GOAL** [#121401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121401) - [FE] Financials data disappearing from Review & Submit pg
 - [ ] **SPRINT GOAL** [#121396](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121396) - [FE] Back button formatting
-- [ ] **SPRINT GOAL** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [FE] Date of Marriage on Spouse card
 
 ##
 ### 10-10EZ
