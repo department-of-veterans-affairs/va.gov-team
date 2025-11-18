@@ -100,6 +100,20 @@ Mitigation: Full e2e testing in Staging environment and phased rollout in Produc
 - Silent failures detected without accompanying alerts
 - Engineering determines critical fault based on system health or user impact
 
+Depending on when we determine that a rollback is needed and how many Veterans are effected, we will take the following actions:
+
+| Phase | Main action | Transform data? |
+|---|:--:|---|
+| Canary | Disable v3 toggle & Fix problem | No |
+| Stage A (1%) | Disable v3 toggle & Fix problem | No&dagger; |
+| Stage B (25%) | Disable v3 toggle & Fix problem | No&dagger; |
+| Stage C (50%) | Disable v3 toggle & Fix problem | Consider&Dagger; |
+| Stage D (100%) | Disable v3 toggle & Fix problem | Transform&Dagger; |
+
+&dagger; A minimal number of users are effected for a short period of time
+
+&Dagger; We have data utility functions to transform v3 to v2 data for submissions. We don't have any code implemented to convert in-progress v3 to v2 data currently
+
 ---
 
 ## Responsibilities
