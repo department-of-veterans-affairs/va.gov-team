@@ -392,6 +392,10 @@ A reusable notification system used across multiple pages to display success and
   ```
 - Deviations from Design System:
   - Using legacy USWDS `usa-alert` CSS classes instead of modern `<va-alert>` web component
+  - Is using an alert a good practice for "No claims" type messaging?
+- Implementation Bugs:
+  - The is used when there are no claims nor alerts but the content only mentions claims
+  - If there is an error with claims we shouldn't show the no claims message. This has the potential to cause concern from a user who has claims when `/benefit_claims` is down
 
 ### Claims List Item - Requested Evidence Alert
 - Location:
