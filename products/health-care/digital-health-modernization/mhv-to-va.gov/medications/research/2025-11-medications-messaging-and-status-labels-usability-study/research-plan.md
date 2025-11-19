@@ -202,7 +202,9 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 
 
-* Add 3 dates the week of 11/17
+* 11/21 @ 2:30 EST
+* 11/24 @ 2:30 EST
+* 11/25 @ 3:00 EST
 
 
 ### Prepare
@@ -234,7 +236,26 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 
 
 
-* *Will choose dates once we’ve confirmed number of sessions and above timeline*
+* 12/1 @ 12:00 EST
+* 12/1 @ 2:00 EST
+* 12/2 @ 12:00 EST
+* 12/2 @ 2:00 EST
+* 12/3 @ 12:00 EST
+* 12/3 @ 2:00 EST
+* 12/4 @ 12:00 EST
+* 12/4 @ 2:00 EST
+* 12/5 @ 12:00 EST
+* 12/5 @ 2:00 EST
+* 12/8 @ 12:00 EST
+* 12/8 @ 2:00 EST
+* 12/9 @ 12:00 EST
+* 12/9 @ 2:00 EST
+* 12/10 @ 12:00 EST
+* 12/10 @ 2:00 EST
+* 12/11 @ 12:00 EST
+* 12/11 @ 2:00 EST
+* 12/12 @ 12:00 EST
+* 12/12 @ 2:00 EST
 
 
 ### Analysis
