@@ -52,8 +52,8 @@ Vet Centers, Vet Center Outstations, and Community Access Points | operating sta
 
 | Change needed | Process
 | ---	|	--- |
-| Location name, address, phone, or hours | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
-| Location services  | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
+| Location name, address, phone, or hours | Contact Jonathan Katora (email: jonathan.katora@va.gov) or #facilities-support channel |
+| Location services  | Contact Jonathan Katora (email: jonathan.katora@va.gov) or #facilities-support channel |
 | Operating status | Contact the VBA Web Team (WEBADMIN.VBACO@va.gov) |
 
 ## NCA Cemeteries  
