@@ -15,11 +15,11 @@
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Itemized Billing Statement/EOB Language
 - [ ] **SPRINT GOAL** UX: 10-7959a: Update Figma SOT to use minimal headers
 - [ ] **SPRINT GOAL** UX: 10-7959a: Share DTA mocks with DTA team & submit C/IA ticket
-- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Close out and begin synthesizing research study findings
 - [ ] **SPRINT GOAL** QA: 10-7959a: QA Enhanced Claims Flow for Launch
 - [ ] **STRETCH GOAL** 10-7959C: Generate new PDF for stand alone
 - [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+- [ ] **STRETCH GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
 
 
@@ -60,8 +60,6 @@
   - [ ] [[FE] 10-7959C: Update Medicare Type Question Options and Age-Based Logic for new pdf #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
   - [ ] [[FE] 10-7959C: Add new OHI PDF Medicare Part only upload pages #125505](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125505)
   - [ ] [[FE] 10-7959C: Add new OHI PDF Medicare Part A only upload pages #125572](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125572)
-- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
-  - [ ] [[UX] 10-7959c: Add MBI to OHI form for new pdf #96969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96969) 
 
 
 ## 
@@ -94,9 +92,12 @@
   - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
 - [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
   - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+  - [ ] [[UX] 10-7959c: Add MBI to OHI form for new pdf #96969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96969)
 - [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
   - [ ] [[Data] Monthly Metrics Request for Health Apps Team - November 2025 #125405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125405)
-
+     
+        
 ##
 ### WHAT'S NEXT
 - **FE**
