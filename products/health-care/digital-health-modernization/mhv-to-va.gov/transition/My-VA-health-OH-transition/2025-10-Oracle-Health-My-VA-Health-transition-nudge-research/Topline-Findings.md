@@ -64,7 +64,7 @@ A little past the halfway point in the study, we reached a point of feedback sat
 # **Insights**
 
 
-## **Insight 1: User groups**
+##**Insight 1: User groups**
 
 
 
