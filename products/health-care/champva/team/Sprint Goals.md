@@ -92,7 +92,7 @@
   - [ ] [[BE] 10-7959C: Generate new PDF for stand alone #125442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125442)
 - [ ] **STRETCH GOAL** UX: 10-10d: Tricare Eligibility Research Planning
   - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
-- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+- [ ] **STRETCH GOAL** UX: 10-7959c: Add MBI to OHI form
   - [ ] [[UX] 10-7959c: Add MBI to OHI form for new pdf #96969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96969)
 - [ ] **STRETCH GOAL** UX: All forms: November Monthly Metrics
   - [ ] [[Data] Monthly Metrics Request for Health Apps Team - November 2025 #125405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125405)
