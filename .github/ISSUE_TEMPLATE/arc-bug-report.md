@@ -14,6 +14,8 @@ type: Bug
 
 **Impact**:
 
+
+
 **Severity**:
 
 ## Expected vs. Actual
