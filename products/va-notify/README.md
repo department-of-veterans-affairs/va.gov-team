@@ -244,7 +244,9 @@ Tech Stack
 - Our API authentication method is JWT
 
 **How can we begin sending requests through VA Notify?**
-- We will provide an API key to your team via encrypted VA.gov email
+- VA Notify provides API keys for both staging and production. Keys are issued directly by the VA Notify team and delivered over encrypted email to VA.gov addresses of the technical contacts assigned to the service. VA Notify initially provides a staging key so teams can build and test their integration, and a production key is issued once teams are ready to launch.
+*Each API key expires 180 days after creation.* Keys must be rotated before expiration to ensure service continuity and avoid notification failures.
+If multiple teams use the same service, they may request separate API keys. Each key must follow the same rotation schedule.
 
 **How to configure Push Notifications?**
 - The client service must integrate with the VA Flagship Mobile App Service.
