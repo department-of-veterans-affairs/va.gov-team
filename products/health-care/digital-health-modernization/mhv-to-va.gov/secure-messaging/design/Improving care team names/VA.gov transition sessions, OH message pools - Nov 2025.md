@@ -1,4 +1,4 @@
-# VA.gov transition sync on OH message pools - Nov 2025
+# VA.gov transition sessions, OH message pools - Nov 2025
 This doc summarizes discussions on message pools during the all-day multi-stakeholder VA.gov Patient Portal Transition Plan Sessions on 11/12. 
 
 ## In this doc
