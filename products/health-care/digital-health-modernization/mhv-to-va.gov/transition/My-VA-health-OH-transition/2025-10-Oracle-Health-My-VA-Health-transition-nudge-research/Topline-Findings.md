@@ -55,7 +55,7 @@ A little past the halfway point in the study, we reached a point of feedback sat
 # **Insights**
 
 
-##**Insight 1: User groups**
+## Insight 1: User groups
 
 
 
@@ -69,11 +69,11 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
 
    
-2. **The Bookmarkers - **These participants had a direct link to the My VA Health portal bookmarked in their browser or elsewhere.  This accounted for 4 of the 13 participants.  This group can only be reached using an interstitial experience or through other, non-website means (think posters, flyers, etc)
+2. **The Bookmarkers** - These participants had a direct link to the My VA Health portal bookmarked in their browser or elsewhere.  This accounted for 4 of the 13 participants.  This group can only be reached using an interstitial experience or through other, non-website means (think posters, flyers, etc)
    <img width="893" height="411" alt="Screenshot 2025-11-19 at 4 21 39 PM" src="https://github.com/user-attachments/assets/6f129f74-178f-4371-bb17-ca1ef1fd9d59" />
 
 
-4. ** The Random Outliers. -  **2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
+4. **The Random Outliers** - 2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
 
 <img width="884" height="393" alt="Screenshot 2025-11-19 at 4 20 31 PM" src="https://github.com/user-attachments/assets/99168b66-7909-412b-8e58-dbfe0c386db4" />
 
@@ -84,20 +84,17 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
     Quantitative data analysis helps us estimate that somewhere between 2-3% of all current VA patients have “hybrid” facilities, but further breakdown is hard to get at. Many of those users are not receiving active care from both types of facilities. We predict that the vast majority have historical data from VistA facilities that they no longer visit actively. Still, a few “types” of profiles exist, including: 
 
-    * **“Historic” data hybrid user** - The vast majority of My VA Health (OH) users fall into this category. When their facilities transitioned to Oracle Health, only a small subset (between the last 3 months - 1 year) of their complete historical health record was moved to the My VA Health portal, and the remainder still exists in VistA. These users may need to download complete or historical records from My HealtheVet, but this is a “low-touch” use case and is likely not common for many My VA Health users. However, it could impact whether or not Veterans notice “new” information once we integrate OH data into My HealtheVet on VA.gov.  \
+   **“Historic” data hybrid user** - The vast majority of My VA Health (OH) users fall into this category. When their facilities transitioned to Oracle Health, only a small subset (between the last 3 months - 1 year) of their complete historical health record was moved to the My VA Health portal, and the remainder still exists in VistA. These users may need to download complete or historical records from My HealtheVet, but this is a “low-touch” use case and is likely not common for many My VA Health users. However, it could impact whether or not Veterans notice “new” information once we integrate OH data into My HealtheVet on VA.gov.  \
 
-    * **“Active” hybrid users who receive care at both Oracle Health and VistA facilities** - This is a smaller percentage of My VA Health portal users. “Clusters” of users who have these scenarios could include: 
+**“Active” hybrid users who receive care at both Oracle Health and VistA facilities** - This is a smaller percentage of My VA Health portal users. “Clusters” of users who have these scenarios could include: 
         * Patients who live in high-density urban areas that only have one VA on the Oracle Health EHR system could feasibly also receive some specialty care from another VA in their area that is a VistA facility.
         * “Snowbirds” who live in the Midwest and attend a VA facility including North Chicago or Columbus could seasonally head to another place like Florida and temporarily receive care from another VA that uses the VistA EHR system.
+These users have to manage care using two different patient portals. They may be more likely to rely on the VAHB mobile app - a method with long-term sign-in and very easy access to My HealtheVet (VistA), but which has a downside of a very circuitous route to My VA Health (OH). **These users have the most to gain from this integration.**
 
-        These users have to manage care using two different patient portals. They may be more likely to rely on the VAHB mobile app - a method with long-term sign-in and very easy access to My HealtheVet (VistA), but which has a downside of a very circuitous route to My VA Health (OH).
-
-        * **These users have the most to gain from this integration.** 
-
-    * **“Solo” data users** - have only received care at an Oracle Health facility post-EHR migration - these users only use the My VA Health portal, and do not have historical health records that remain in VistA. This group will be an extremely small percentage of users in this transition. 
+**“Solo” data users** - have only received care at an Oracle Health facility post-EHR migration - these users only use the My VA Health portal, and do not have historical health records that remain in VistA. This group will be an extremely small percentage of users in this transition. 
 
 
-## **Insight 2: See, but not register **
+## Insight 2: See, but not register 
 
 
 
@@ -134,37 +131,32 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
 
 
-## **Insight 3: Building confidence in change with reassurance**
+## Insight 3: Building confidence in change with reassurance
 
 
 
 1. Burned before
 
-    Participants expressed frustration with all the transitions.  They were afraid to be a “guinea pig” again.  This frustration was especially resonant with users who had complex or long medical histories.  They expressed fear that their information would be lost or that they would have to go someplace else in the future.  These participants were skeptical and wanted reassurance that putting in the effort now on VA.gov will be worth it.  
+Participants expressed frustration with all the transitions.  They were afraid to be a “guinea pig” again.  This frustration was especially resonant with users who had complex or long medical histories.  They expressed fear that their information would be lost or that they would have to go someplace else in the future.  These participants were skeptical and wanted reassurance that putting in the effort now on VA.gov will be worth it.  
 
-
-    *“I don’t want to be another guinea pig.” - P3*
+_“I don’t want to be another guinea pig.” - P3_
 
 2. Value prop of "one ring to rule them all"
 
-    Participants who were afraid they were “guinea pigs” and would have to go somewhere else wanted greater clarity on why the VA was making this change and *what was in it for them, the Veteran*. They specifically called out that having “one place to do everything” would make them more likely to invest in adoption.  
+Participants who were afraid they were “guinea pigs” and would have to go somewhere else wanted greater clarity on why the VA was making this change and *what was in it for them, the Veteran*. They specifically called out that having “one place to do everything” would make them more likely to invest in adoption.  
 
-
-    *“... would be nice if I had one thing…anytime I have to do with the VA stuff… like a one stop shop on the VA website and then I can do anything I need to do with the VA.” - P8. *
+_“... would be nice if I had one thing…anytime I have to do with the VA stuff… like a one stop shop on the VA website and then I can do anything I need to do with the VA.” - P8._ 
 
 3. Visual confirmation  
 
-    Landing on MHV on [VA.gov](VA.gov) or a child page, users look to *see* what they can do on the page to determine what could do on the website.  Specifically, they called out the contents of MHV on VA.gov landing page and the secondary navigation on the child pages.
+Landing on MHV on [VA.gov](VA.gov) or a child page, users look to *see* what they can do on the page to determine what could do on the website.  Specifically, they called out the contents of MHV on VA.gov landing page and the secondary navigation on the child pages.
 
-
-    *“... the home screen is My HealthyVet. Appointments, messages, medications, records…” - p6*
-
-
-    *““At the upper bar it says VA, My VA Health Home and Appointments, Messaging, Pharmacy…” - P6*
+_“... the home screen is My HealthyVet. Appointments, messages, medications, records…” - p6
+“At the upper bar it says VA, My VA Health Home and Appointments, Messaging, Pharmacy…” - P6_
 
 
 
-## **Insight 4: Build trust by emphasizing ease and consistency **
+## Insight 4: Build trust by emphasizing ease and consistency
 
 
 
@@ -210,12 +202,11 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
     Data integrity was a main fear for every participant.  Primarily, they were concerned about 1) data being lost in the move, as they had experienced before and 2) data not “syncing properly” across two portals.  For this reason, the idea of two portals made participants anxious.  This fear was particularly strong for those who had complex medical histories.
 
-
-    *“It's more than a frustration for me…I have spent two years of my life in a hospital…I'm a stroke survivor, I'm epileptic… I broke my neck,  I've had 14 major operations... you put all that together and you, you can understand better when you have loss of data…it's critical because you can't get a full answer…when [the data] got moved over … some of it was lost.” - P13*
-
+_“It's more than a frustration for me…I have spent two years of my life in a hospital…I'm a stroke survivor, I'm epileptic… I broke my neck,  I've had 14 major operations... you put all that together and you, you can understand better when you have loss of data…it's critical because you can't get a full answer…when [the data] got moved over … some of it was lost.” - P13_
 
 
-## **Insight 5: A personal touch **
+
+## Insight 5: A personal touch 
 
 
 
@@ -242,12 +233,17 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
 1. **Recommendation:** stop the Hoppers on [VA.gov](VA.gov) (step 2). 
     1. To decrease their confusion, and since they are not looking for a redirect to My VA Health, recommend decoupling the informational update from the redirect link to My VA Health.
-    2. Be extremely blunt in the informational text — consider something like “hey you! Yes, you!” to clarify that this now applies to them as well.
-2. **Recommendation: **Give users a sense of timeliness and urgency by** **adding a deadline/date of some sort or providing a sense of how this transition will play out.
-3. **Recommendation:** Given the importance of visual confirmation, consistency and timeliness, have an alert on the child pages.  That alert should be temporary, not persistent, visible early in the experience, and dismissable. 
+    3. Be extremely blunt in the informational text — consider something like “hey you! Yes, you!” to clarify that this now applies to them as well.
+       
+2. **Recommendation:** Give users a sense of timeliness and urgency by** **adding a deadline/date of some sort or providing a sense of how this transition will play out.
+   
+3. **Recommendation:** Given the importance of visual confirmation, consistency and timeliness, have an alert on the child pages.  That alert should be temporary, not persistent, visible early in the experience, and dismissable.
+   
 4. **Recommendation:** Since data integrity is so important to users, address data integrity concerns directly.  If there’s a chance that a user could see different data or duplicate data, acknowledge that and reassure them that it is not cause for concern.  Their early impressions of the data integrity of the new experience is key to their decision to adopt.
-5. **Recommendation: **Partner with Veteran orgs, mail flyers, put up signs in the VA facility, walkthroughs, banners, etc. Consider an overview video or ad.  This will be especially important for the bookmarkers. This will be especially needed to reach the bookmarkers.
-6. **Recommendation: **If you want to ensure that the bookmarkers know that they can go to [VA.gov](VA.gov) for their healthcare needs now, implement some kind of interstitial experience. 
+   
+5. **Recommendation:** Partner with Veteran orgs, mail flyers, put up signs in the VA facility, walkthroughs, banners, etc. Consider an overview video or ad.  This will be especially important for the bookmarkers. This will be especially needed to reach the bookmarkers.
+
+6. **Recommendation:** If you want to ensure that the bookmarkers know that they can go to [VA.gov](VA.gov) for their healthcare needs now, implement some kind of interstitial experience. 
 
 ## Options
 https://www.figma.com/design/MGP7riyGyOxTaJ3RXxP7pX/My-VA-Health-alerts---messaging?node-id=3375-335&t=hlSx3SNRSqz34oUv-1
