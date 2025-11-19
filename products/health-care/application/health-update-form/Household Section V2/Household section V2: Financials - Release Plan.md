@@ -34,12 +34,12 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: **9/30/2025 - 10/10/2025**
+- Desired date range: **12/8/2025 - 12/19/2025**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
      - Links to the dashboard(s) showing "success criteria" metrics:
           - [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
-     - Who is monitoring the dashboard(s)?: Heather Justice - PM, Derrick Ellerbie - Engineer
+     - Who is monitoring the dashboard(s)?: Heather - PM, Mitch - Engineer
 
 #### Objective: Reduce time spent and bounce rates on Household section pages
 - Results #1: Reduction of time spent by 10%
@@ -47,7 +47,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ### Stage A: Canary 5% of users
 #### Planning
-- Length of time: **9/30/2025-10/1/2025**
+- Length of time: **12/8/2025 - 12/9/2025**
 - Percentage of Users (and roughly how many users do you expect this to be): **5% (approximately 11 users per day)**
 
 #### Results
@@ -64,7 +64,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **10/1/2025-10/2/2025**
+- Length of time: **12/10/2025 - 12/11/2025**
 - Percentage of Users (and roughly how many users do you expect this to be): **25% (approximately 54 users per day)**
 
 #### Results
@@ -81,7 +81,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **10/2/2025-10/6/2025**
+- Length of time: **12/12/2025 - 12/14/2025**
 - Percentage of Users (and roughly how many users do you expect this to be): **50% (approximately 108 users per day)**
 
 #### Results
@@ -101,7 +101,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **10/6/2025**
+- Length of time: **12/15/2025**
 - Percentage of Users (and roughly how many users do you expect this to be): **100% (approximately 218 users per day)**
 
 #### Results
