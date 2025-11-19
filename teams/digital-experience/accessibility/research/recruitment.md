@@ -47,7 +47,7 @@ Purposefully selecting a wide range of social identity categories (like race or 
 - Document diversity of needs and behavior
 - Identify important common patterns that cut through the noise of variation on dimensions of interest
 
-Should you use MVS, try to meet the following numbers (based on VA statistics) in your sample as a **minimum** (or collective sample groups from several lean research iterations):
+Try to meet the following numbers (based on VA statistics) in your sample as a **minimum** (or collective sample groups from several lean research iterations):
 - [50% aged 55-64+](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)
 - [50% with an identified cognitive disability](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)
 - [50% primarily mobile users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
@@ -57,7 +57,7 @@ Should you use MVS, try to meet the following numbers (based on VA statistics) i
 - [17% with immigrant origins](https://www.google.com/url?q=https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018&sa=D&source=editors&ust=1625685989316000&usg=AOvVaw3BUzLAZ-kcn0HyefpbWihq)
 - [10% women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 
-If feasible, we also recommend recruiting at least one participant from the following underserved communities:
+You might want to include a participant from the following underserved communities:
 - Native American Veterans, [who have the highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women).
 - Veterans in the LGTBQ+ community, given recent direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
 - Veterans with other than honorable discharge.
@@ -67,23 +67,18 @@ If feasible, we also recommend recruiting at least one participant from the foll
 
 If time and budget allows, we recommend testing with Veterans who use the following AT. Ideally aim to recruit 4-6 of each group across iterative studies:
 - Screen reader (mobile and desktop, beginner and advanced)
-- Keyboard 
 - Magnification 
-- Hearing aids
-- Voice recognition 
-- (We are currently working on guidance for switch devices and braille readers)
+- Voice command/speech recognition apps 
 
 If relevant to your study, your sample may also aim to include:
 - Family members and caregivers
 - Veteran service officers (VSOs)
 
-To simplify planning for recruitment, [use our VA recruitment checker spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to check if you're meeting the right amount of numbers for your study. Google sheets is not accessible within the VA network, so if you're looking to share findings, take a screenshot.
-
-If your time and budget does not allow for including groups listed above, please reference the communicating and documenting risk section.
+To simplify planning for recruitment, [use our VA recruitment checker spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to check if you're meeting the right amount of numbers for your study. To include a summary of participants from underserved groups, put a screenshot of the table into your research findings and readout presentation.
 
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved community" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
-> An example of a study with 11 Veterans in the MVS checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
+> An example of a study with 11 Veterans in the VA recruitment checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
 
 Should there be unique deviations within the findings based on particular characteristics, we recommend strategically confirming and disconfirming those cases within another iterative study.
 
@@ -94,7 +89,7 @@ In most cases, you will be unable to achieve maximum variation in just one study
 
 A lean MVS strategy involves setting up multiple cohorts that isolate key variables. This will make it easier to find participants while still maintaining a diversity of age, gender, education, location, and more. 
 
-The MVS checker should be used to keep track of which underserved communities have been included in research across several cohorts; and to help determine what variables future cohorts should have.
+The VA recruitment checker should be used to keep track of which underserved communities have been included in research across several cohorts; and to help determine what variables future cohorts should have.
 
 ### Use lean MVS strategy when you’re:
 - Unable to recruit a high volume of participants. 
