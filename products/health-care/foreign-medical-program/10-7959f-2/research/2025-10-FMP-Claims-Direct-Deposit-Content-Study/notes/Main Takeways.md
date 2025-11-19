@@ -53,7 +53,12 @@ Main takeaway from the research sessions
 - He stated an "online portal for claims submission has been a desire for those of us overseas"
 
 **P08**
-- Notes
+- P8 wanted content to be clearer, particularly step-by step language and acronyms, and explanation of who the vendor form is for
+- P8 was unclear around whether existing direct deposit information can be used for FMP program, based on the instructions provided
+- P8 liked the page layout, particularly accordion structure on the confirmation page
+- Did seem to call out that the process would be different than setting up direct deposit for disability compensation than for FMP but wanted more of an obvious call out in the content and clearer instructions
+- Mentioned the acronyms being confusing and that they need more context as most Veterans are seeing these for the first time
+- Mentioned a portal to track status and check updates when on confirmation page (just like for disability comp but the FMP version)
 
 **P09**
 - Notes
@@ -68,4 +73,12 @@ Main takeaway from the research sessions
 - Notes
 
 **P13**
-- Notes
+- Participant seemed to think that the FMP direct deposit and disability benefits DD processes were the same
+- Likened the stepped out direct deposit content page to "like TurboTax" and easy to read/follow along
+- Participant was a VA.gov power user, online daily, and also very familiar with/comfortable with seeking support when needed, either in-person at a VA facility, calling in, or requesting a decision review on a claim. Preferred filing a FMP claim online but would not hesitate to utilize other VA resources to help him with the process if needed.
+- Felt the direct deposit process was fairly uniform compared to the process for disability compensation
+- Said the steps and content was easy to follow, they would just follow along one by one
+- Has filed an FMP claim before and understands process, is familiar with overall VA processes for other benefits and has filed appeals before
+- Found the FMP instructions easy to follow, thought the process was straightforward
+- Participant is very familiar with VA.gov, uses it daily and knows who to contact when they need help. --> Trusts the VA, assumes that they would be able to follow the steps to file a claim and that they would get the claim approved. I'm not sure if they were really reading through each step and thinking about how easy they would be to follow, or if they just trusted that they'd be able to figure out what to do when the time comes.
+- Participant already has ID.me set up, has previously taken the time to learn how to scan and upload files. Not every vet is so familiar with VA.gov - participant has helped other vets set up ID.me
