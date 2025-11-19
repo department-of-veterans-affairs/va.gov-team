@@ -2,6 +2,48 @@
 - Current Sprint first
 
 ---
+## 📆 Sprint 9 (Dec 3 - Dec 16) (PREPLANNED 11/19)
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] EZR Service history discovery
+- [ ] EZR Update RUM to avoid PII leak with EC/NOK data (currently turned off because of this)
+- [ ] EZR Date of marriage on Spouse card
+- [ ] EZR Remove print/save PDF feature toggle
+
+
+## 
+### 10-10EZR
+
+#### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] **SPRINT GOAL** [#114497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114497) - [FE, BE] Discovery on Service History - VES or MPI?
+
+#### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM to avoid PII leak with EC/NOK data
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [FE] Date of Marriage on Spouse card
+
+#### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- [ ] **SPRINT GOAL** [#120598](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120598) - [Eng] Remove ezr_download_pdf_enabled feature toggle
+
+
+##
+### 10-10EZ
+#### No scheduled work this sprint
+
+
+## 
+### 10-10CG
+#### No scheduled work this sprint
+
+
+##
+### Team PTO
+- Heather: 11/28 - 12/5
+
+
+---
 ## 📆 Sprint 8 (Nov 19 - Dec 2)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
