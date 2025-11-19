@@ -70,13 +70,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 21 [11/5/25 - 11/18/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Continue service blueprint work, including meeting with VEO team, identifying SME’s, finalizing conversation guides.| QP7 |--|--|--|
-|UX: Complete October Medallia reporting, bringing all Medallia reports up the most current state.| QP7 |--|--|--|
-|UX: Submit initial artifacts and schedule Design Intent touchpoint for the pay.gov Overpayments collaboration cycle.| QP4 |--|--|--|
+|UX: Continue service blueprint work, including meeting with VEO team, identifying SME’s, finalizing conversation guides.| QP7 |--|11/18/25|Completed|
+|UX: Complete October Medallia reporting, bringing all Medallia reports up the most current state.| QP7 |--|11/18/25|Completed|
+|UX: Submit initial artifacts and schedule Design Intent touchpoint for the pay.gov Overpayments collaboration cycle.| QP4 |--|11/17/25|Completed|
 |ENG: Define remaining backend work for the Lighthouse API and fully draft necessary tickets.| QP3 |--|--|--|
-|ENG: Review Payment History designs with UX team.| QP3 |--|--|--|
+|ENG: Review Payment History designs with UX team.| QP3 |--|11/17/25|Completed|
 |ENG: Make a Payment History endpoint available for the frontend to consume.| QP3 |--|--|--|
-|TEAM: Initiate the Hardship Suspension collaboration cycle.| QP3 |--|--|--|
+|TEAM: Initiate the Hardship Suspension collaboration cycle.| QP3 |--|11/18/25|Completed|
 |TEAM: Pending the code thaw happening, release the One Thing Per Page initiative.| QP2 |--|11/12/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
