@@ -26,6 +26,7 @@
 | Aug/Sept 2024 | Sign in page changes for CSP deprecation | 10 remote, moderated usability sessions | [report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2024-08%20Sign%20in%20transition/2024-08%20Research%20Findings.md) |
 | Nov 2024 | Production test accounts | 5 interviews with with internal VA team and contractors | [readout slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Production%20Test%20Accounts/Research/Production%20Test%20Accounts%20Research.pdf) |
 | Nov 2024 | court-appointed guardian access| this research was paused before starting recruitment due to priority change, this work was later repurposed for Apr 2025 delegate access research | [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-11%20Guardian%20access) |
+| Nov 2024 | account creation sign in flow audit | documenting the user flow for creating a new Login.gov and ID.me account on both VA.gov and the VA mobile app | [audit findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sign-in-transition/account-creation-user-flows-for-logingov-and-idme.md) |
 
 ## CY 2023
 
