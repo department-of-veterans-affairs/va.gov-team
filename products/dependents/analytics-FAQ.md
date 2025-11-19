@@ -34,3 +34,12 @@ _This file is intended to record common questions that arise out of the dependen
 - We are counting BGS errors. It's mostly `BGS::DependentService#submit_686c_form method failed` which will go off when VBMS is down as well. Looking at [the dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits---dependents-686674?fromUser=true&index=%2A&refresh_mode=sliding&from_ts=1740580680900&to_ts=1742996280900&live=true), those two big spikes on 3/2 and 3/23 are what's driving up the percentage. Those claims go down the backup path, but they still show up as a failure.
 - The user does see a message saying there is an issue with the submission. If it had gotten to the point where the pdf job started, the claim would have made its way down the backup path.
 - In the lifestage error metric, we only count the error when the retry has exhausted (rather than counting each retry as an error.)
+
+## Dependents Product Analytics
+
+### Picklist: What is the difference between the ``Duplicate Alert`` and the ``Duplicate Modal``?
+- "Duplicate modal" is shown to the Veteran when they are inside the array list loop and navigate away from the page with a duplicate (like DOB)
+   - The modal will only show for duplicate DoB when the user is either adding or editing a dependent
+- "Duplicate alert" is shown on the array list loop summary page. It's a warning if the possible duplicate hasn't been acknowledged, and it's an info if it was acknowledged
+   - The alert will only show on the summary page, but you have to initialize duplicates, so it will only show on the child & spouse summary page
+   - The alert shows every time a user returns to the child and spouse summary page
