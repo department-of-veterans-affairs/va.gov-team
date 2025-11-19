@@ -16,4 +16,4 @@ This doc summarizes a follow-up discussion after the 11/12 transition session. Y
 ## Next steps 
 - Align on how we'll hide internal-only message pools on VA.gov at the next call (Thursday 11/20)
 - Review message pools for more patient-friendly guidance
-- Pivot VistA pilot to align with the message pool guidance instead of the patient display name guidance<img width="829" height="914" alt="image" src="https://github.com/user-attachments/assets/455dfe1d-7952-4e0b-ac01-660896de42fd" />
+- Pivot VistA pilot to align with the message pool guidance instead of the patient display name guidance
