@@ -23,9 +23,8 @@ status: Inbox
 - 
 
 ## Possible tasks:
-- 
+- [ ]
 
 ## Acceptance criteria
 
 - [ ] Testing
-- [ ] 
