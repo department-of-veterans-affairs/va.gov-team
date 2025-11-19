@@ -174,6 +174,8 @@ Open text field provided. Summary of themes follows below.
 * "Possibly add a case manager or a status update reference that we can refer back to, to see when our case has been reviewed, answered, and sent back with a conclusion."
 * "Actually tell Veterans the status of their claims. I had submitted this form three times the last 45 days without any notifications. I have never received mail telling me whether my waivers were accepted or denied."
 
+  Related ticket: [[FSR] Check the status of your form #125412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125412)
+
 
 ### **4\. I would recommend completing this form online instead of paper to another Veteran**
 
