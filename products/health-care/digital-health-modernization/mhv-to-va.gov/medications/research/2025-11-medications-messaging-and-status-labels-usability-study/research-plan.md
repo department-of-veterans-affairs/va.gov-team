@@ -240,20 +240,25 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 * 12/1 @ 2:00 EST
 * 12/2 @ 12:00 EST
 * 12/2 @ 2:00 EST
+* 12/2 @ 3:30 EST
 * 12/3 @ 12:00 EST
 * 12/3 @ 2:00 EST
+* 12/4 @ 11:00 EST
 * 12/4 @ 12:00 EST
 * 12/4 @ 2:00 EST
+* 12/5 @ 11:00 EST
 * 12/5 @ 12:00 EST
 * 12/5 @ 2:00 EST
 * 12/8 @ 12:00 EST
 * 12/8 @ 2:00 EST
 * 12/9 @ 12:00 EST
 * 12/9 @ 2:00 EST
+* 12/9 @ 3:30 EST
 * 12/10 @ 12:00 EST
 * 12/10 @ 2:00 EST
 * 12/11 @ 12:00 EST
 * 12/11 @ 2:00 EST
+* 12/12 @ 11:00 EST
 * 12/12 @ 12:00 EST
 * 12/12 @ 2:00 EST
 
