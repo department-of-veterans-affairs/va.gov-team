@@ -9,7 +9,7 @@
 #### Note: Code Freeze Thursday 11/27 through Friday 11/28
 - [ ] EZR Spouse - Finalize QA
 - [ ] EZ QA on Intro page looping fix
-- [ ] EZR Financials - Finalize findings fix & QA
+- [ ] EZR Financials - Finalize findings fixes
      - [ ] EZR Financials data disappearing
      - [ ] EZR Back button format update
 
@@ -45,10 +45,10 @@
 
 ---
 ## 📆 Sprint 7 (Nov 5 - Nov 18) 
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] (continue) EZR Spouse QA findings resolutions, PR merges & resume QA
+- [x] (continue) EZR Spouse QA findings resolutions, PR merges & resume QA
 - [ ] EZ Implement Intro page looping fix
 
 ## 
