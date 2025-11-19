@@ -180,9 +180,8 @@ Please provide the following documentation as attachments.
   This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
   - Attached in #111613: [686c_674-Architecture.Diagram.pdf](https://github.com/user-attachments/files/23526826/686c_674-Architecture.Diagram.pdf)
 - Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
-  - [VA Lifestage Incident Response Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/incident_response.md)
   - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
-    - `@AlanWerner`
+    - See the [VA Lifestage Incident Response Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/incident_response.md)
 - Sequence Diagram:
   - Attached in #111613: [686c_674_Sequence_Diagram.pdf](https://github.com/user-attachments/files/23526856/686c_674_Sequence_Diagram.pdf)
   
