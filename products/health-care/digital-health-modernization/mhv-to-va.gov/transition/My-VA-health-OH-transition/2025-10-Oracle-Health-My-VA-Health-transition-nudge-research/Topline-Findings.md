@@ -70,9 +70,12 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
    
 2. **The Bookmarkers - **These participants had a direct link to the My VA Health portal bookmarked in their browser or elsewhere.  This accounted for 4 of the 13 participants.  This group can only be reached using an interstitial experience or through other, non-website means (think posters, flyers, etc)
-3. ** The Random Outliers. -  **2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
+   <img width="893" height="411" alt="Screenshot 2025-11-19 at 4 21 39 PM" src="https://github.com/user-attachments/assets/6f129f74-178f-4371-bb17-ca1ef1fd9d59" />
 
-<img width="936" height="571" alt="Screenshot 2025-11-19 at 4 19 59 PM" src="https://github.com/user-attachments/assets/931f3aa1-aeda-4048-a4f6-c953d9e85ca3" />
+
+4. ** The Random Outliers. -  **2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
+
+<img width="884" height="393" alt="Screenshot 2025-11-19 at 4 20 31 PM" src="https://github.com/user-attachments/assets/99168b66-7909-412b-8e58-dbfe0c386db4" />
 
 
 
@@ -89,7 +92,7 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
         These users have to manage care using two different patient portals. They may be more likely to rely on the VAHB mobile app - a method with long-term sign-in and very easy access to My HealtheVet (VistA), but which has a downside of a very circuitous route to My VA Health (OH).
 
-        * **These users have the most to gain from this integration.** \
+        * **These users have the most to gain from this integration.** 
 
     * **“Solo” data users** - have only received care at an Oracle Health facility post-EHR migration - these users only use the My VA Health portal, and do not have historical health records that remain in VistA. This group will be an extremely small percentage of users in this transition. 
 
