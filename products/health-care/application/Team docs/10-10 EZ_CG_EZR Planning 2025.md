@@ -7,7 +7,7 @@
 
 ### Sprint Goal summary
 - [ ] EZR Service history discovery
-- [ ] EZR Update RUM to avoid PII leak with EC/NOK data (currently turned off because of this)
+- [ ] EZR Update RUM to avoid PII leak with EC/NOK data (RUM feature toggle is currently turned off because of this issue)
 - [ ] EZR Date of marriage on Spouse card
 - [ ] EZR Remove print/save PDF feature toggle
 
