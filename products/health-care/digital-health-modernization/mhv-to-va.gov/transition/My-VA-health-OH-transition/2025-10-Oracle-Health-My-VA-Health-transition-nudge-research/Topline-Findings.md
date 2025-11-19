@@ -64,11 +64,16 @@ A little past the halfway point in the study, we reached a point of feedback sat
     Three methods of accessing My VA Health were identified during this study.
 
 1. **The Hoppers** - the Hoppers go step 1) start on [va.gov](va.gov) or VAHB, step 2) go to a health tool page and 3) follow the redirect link in the yellow alert to My VA Health.  These users accounted for 7 out of 13 participants.  **The hoppers are the lowest hanging fruit because they just need to be stopped at step 2 - and they can be with the right communication.**
+
+<img width="862" height="726" alt="Screenshot 2025-11-19 at 4 18 44 PM" src="https://github.com/user-attachments/assets/6b891f88-35d9-444a-9970-7272da0823c3" />
+
+
+   
 2. **The Bookmarkers - **These participants had a direct link to the My VA Health portal bookmarked in their browser or elsewhere.  This accounted for 4 of the 13 participants.  This group can only be reached using an interstitial experience or through other, non-website means (think posters, flyers, etc)
 3. ** The Random Outliers. -  **2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
 
+<img width="936" height="571" alt="Screenshot 2025-11-19 at 4 19 59 PM" src="https://github.com/user-attachments/assets/931f3aa1-aeda-4048-a4f6-c953d9e85ca3" />
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
 
 
 
