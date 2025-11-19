@@ -7,17 +7,17 @@
 
 ### Sprint Goal summary
 #### Note: Code Freeze Thursday 11/27 through Friday 11/28
-- [ ] EZR Spouse - Finalize QA
+- [ ] EZR Spouse - Tech debt & Finalize QA
 - [ ] EZ QA on Intro page looping fix
 - [ ] EZR Financials - Finalize findings fixes
      - [ ] EZR Financials data disappearing
      - [ ] EZR Back button format update
-
+- [ ] CG Unskip flaky attachment specs
 
 ## 
 ### 10-10EZR
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#121661](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121661) - [FE] Spouse review page skipped
+- [ ] **SPRINT GOAL** [#124791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124791) - [FE] Tech debt clean-up
 - [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
 - [ ] **SPRINT GOAL** [#121401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121401) - [FE] Financials data disappearing from Review & Submit pg
 - [ ] **SPRINT GOAL** [#121396](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121396) - [FE] Back button formatting
@@ -36,12 +36,13 @@
 ### Team PTO
 - Thanksgiving Holiday: 11/27
 - Matt: 11/21
+- Kyle: 11/26 - 11/28 (available on slack)
 - Heather: 11/28 - 12/5
 - Andrea: 11/28 (out early, available on slack)
 - Jessica: 11/28
 - Steve: 11/28
-- Kyle: 11/28 (available on slack)
 - Hieu: 11/28
+- Ray: 11/28
 
 ---
 ## 📆 Sprint 7 (Nov 5 - Nov 18) 
