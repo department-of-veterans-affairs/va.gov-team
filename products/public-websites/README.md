@@ -47,10 +47,10 @@ Monitors for each product are described within product folders. e.g.
 | [Reusable Q&A](#reusable-qa) | . | .  |
 | [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
-| ------------- | ------------- | On-site Search |
-| ------------- | ------------- | Glogal Header and footer |
-| ------------- | ------------- | [Event - Currently published Events](https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All) |
-| ------------- | ------------- | [Events listings](https://www.va.gov/outreach-and-events/events) |
+| - | - | On-site Search |
+| - | - | Glogal Header and footer |
+| - | - | [Event - Currently published Events](https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All) |
+| - | - | [Events listings](https://www.va.gov/outreach-and-events/events) |
 
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
@@ -663,7 +663,9 @@ The VA.gov modernization project will take years to bring alllllllll VA content 
 
 The income limits web app is a tool that helps veterans understand if their income will be a factor in benefits eligibility. Veterans are eligible for benefits based on a complex matrix of factors including: income, number of children, location, location of service, known exposure to toxic chemicals, etc. Income limit is one factor. 
 
-Income Limits are set and managed by another team, and provided via an Oracle Database called VES. The Income limits application pulls VES data to establish annual income limits.
+Income Limits are set and managed by another team, and provided via an Oracle Database called VES. The Income limits application automatically pulls VES data to establish annual income limits.
+
+Annual refresh of VES income limits data is automated, as is the text change from year to year on each page (more information below).
 
 **App:** https://www.va.gov/health-care/income-limits/introduction
 
@@ -671,7 +673,7 @@ Income Limits are set and managed by another team, and provided via an Oracle Da
 
 **More info:**
 * Modernized app was shipped in 2023. [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)
-* Annual refresh of VES income limits data for the application is automated ([#16511](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16511)), HOWEVER, creation of a FE alert to let Veterans know that limits have been updated is NOT ([#20008](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20008)).
+* Annual refresh of VES income limits data for the application is automated ([#16511](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16511)), HOWEVER, creation of an FE alert to let Veterans know that limits have been updated is NOT ([#20008](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20008)).
 
 
 ## On-site search (using search.gov)
