@@ -140,9 +140,9 @@ We would like Veteran users who have VA health care, use MHV on [VA.gov](http://
 
 * At least 7 participants able to test on desktop/laptop
 * At least 8 participants able to test on smartphone
-* At least 8 participants who identify as having a cognitive disability
-* At least 8 participants who are 55+ in age
-* At least 8 participants who are 54 and under in age
+* At least 4 participants who identify as having a cognitive disability
+* At least 7 participants who are 55+ in age
+* At least 7 participants who are 54 and under in age
 * At least 2 participants who identify as women
 * At least 4 participants from rural areas
 * At least 4 participants who uses assistive technology
