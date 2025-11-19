@@ -49,10 +49,6 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
 ### Version B: Interstitial (left) and dismissable informational alert (right)
 <img width="962" height="606" alt="Screenshot 2025-11-19 at 4 12 42 PM" src="https://github.com/user-attachments/assets/ca392389-4eac-4c6d-8da8-3bad1cf139ed" />
-
-
-
-![alt_text](images/image3.png "image_tooltip")
  
 
 
