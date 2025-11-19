@@ -8,9 +8,9 @@ Feature Toggle/flag:
 ### Preparation
 - [ ] All "launch blocking" items from Staging Review have been addressed - Our past Architecture Intent has been deemed sufficient and we are approved to skip Staging Review for this release ([Slack confirmation](https://dsva.slack.com/archives/C05SUUM4GAW/p1763569907879669?thread_ts=1761249327.341629&cid=C05SUUM4GAW)) 
 - [x] Contact Center Review has been submitted
-- [ ] The following ID.me user scenarios have been tested
-   - [ ] Authenticated with ID.me, but not authorized
-   - [ ] Authenticated with ID.me and authorized
+- [x] The following ID.me user scenarios have been tested
+   - [x] Authenticated with ID.me, but not authorized (tested with vets.gov.user+133@gmail.com)
+   - [x] Authenticated with ID.me and authorized (tested with vets.gov.user+0@gmail.com)
 
 Any other issues or requirements that should be addressed prior to rollout?
 
