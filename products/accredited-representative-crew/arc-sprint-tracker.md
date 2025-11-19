@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 4 (Nov 18 - Dec 1, 2025)
 
 ## Sprint 4 Goals
-- [ ] Sprint Goals Approved by Enablement 
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on November 18, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1763506689984539)) 
 
 **Team Accreditation**: 
 1. **[Rep Data] Accreditation API Integration**: Finish implementing fail-safes for the Accreditation API integration
@@ -130,7 +130,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 
 ## Sprint 3 Delivery
-- [ ] Sprint Delivery Approved by Enablement
+- [x] Sprint Delivery Approved by Enablement - Jen Bertsch on November 18, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1763506689984539)) 
 
 **Planned for Sprint 3**: 47 tickets, 128 points + 6 spikes \
 **Added as a Sprint 3 stretch goal**: 8 tickets, 10 points + 2 spikes 
