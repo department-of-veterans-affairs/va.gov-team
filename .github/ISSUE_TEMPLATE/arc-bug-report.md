@@ -13,6 +13,7 @@ type: Bug
 <!-- Impact and Severity definitions: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/priority-for-open-bugs.md-->
 
 **Impact**:
+
 **Severity**:
 
 ## Expected vs. Actual
