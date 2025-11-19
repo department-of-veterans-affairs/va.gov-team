@@ -58,11 +58,11 @@ Last Updated: March 21, 2025
 |Sr. Delivery Manager       |Heather Rienks                    |
 |Back End Engineer  |Josh Mills                         |
 |Back End Engineer      |Derek Dyer                                |
-|Lead Front End Engineer |Andrew Rodiek                       |
+|Front End Engineer |Garlon Garth                      |
 |Sr. Front End Engineer |Brandyn Sullins                     |
-|Sr. Front End Engineer |Aaron Ponce                        |
+|Front End Engineer |Rebecca Weir                        |
 |Lead Designer/Researcher |Megan Gayle                         |
-|Sr. UX Researcher       |Charlotte Cesana                    |
+|Sr. UX Researcher       |Risha Lee             |
 |Product Designer        |Joseph Lee                          |
 
 </br>
@@ -162,7 +162,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
 - Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub/ZenHub.
 - Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready" column in GitHub.
 -  All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
@@ -170,7 +170,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - Team Github Label = `vsa-debt`
 - [Team GitHub Board](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/13)
 
-### Popular Labels in ZenHub
+### Popular Labels in GitHub
 * vsa
 * vsa-debt
 * frontend
