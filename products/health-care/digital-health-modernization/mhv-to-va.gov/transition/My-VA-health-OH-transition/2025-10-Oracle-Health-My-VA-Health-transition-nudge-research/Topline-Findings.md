@@ -55,11 +55,6 @@ A little past the halfway point in the study, we reached a point of feedback sat
 ![alt_text](images/image3.png "image_tooltip")
  
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
 
 # **Insights**
 
@@ -75,10 +70,6 @@ A little past the halfway point in the study, we reached a point of feedback sat
 1. **The Hoppers** - the Hoppers go step 1) start on [va.gov](va.gov) or VAHB, step 2) go to a health tool page and 3) follow the redirect link in the yellow alert to My VA Health.  These users accounted for 7 out of 13 participants.  **The hoppers are the lowest hanging fruit because they just need to be stopped at step 2 - and they can be with the right communication.**
 2. **The Bookmarkers - **These participants had a direct link to the My VA Health portal bookmarked in their browser or elsewhere.  This accounted for 4 of the 13 participants.  This group can only be reached using an interstitial experience or through other, non-website means (think posters, flyers, etc)
 3. ** The Random Outliers. -  **2 of 13 participants started at the National Portal - this routes them to My HealtheVet on VA.gov, then to My VA Health portal, meaning they travel through all 3 portals to arrive at the one they can use. 
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![drawing](https://docs.google.com/drawings/d/12345/export/png)
