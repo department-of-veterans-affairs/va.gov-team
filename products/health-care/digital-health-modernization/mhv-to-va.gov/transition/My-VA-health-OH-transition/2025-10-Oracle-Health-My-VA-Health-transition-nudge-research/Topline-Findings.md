@@ -236,7 +236,7 @@ A little past the halfway point in the study, we reached a point of feedback sat
 
 
 
-# **Recommendations **
+## Recommendations
 
 
 
@@ -248,3 +248,6 @@ A little past the halfway point in the study, we reached a point of feedback sat
 4. **Recommendation:** Since data integrity is so important to users, address data integrity concerns directly.  If there’s a chance that a user could see different data or duplicate data, acknowledge that and reassure them that it is not cause for concern.  Their early impressions of the data integrity of the new experience is key to their decision to adopt.
 5. **Recommendation: **Partner with Veteran orgs, mail flyers, put up signs in the VA facility, walkthroughs, banners, etc. Consider an overview video or ad.  This will be especially important for the bookmarkers. This will be especially needed to reach the bookmarkers.
 6. **Recommendation: **If you want to ensure that the bookmarkers know that they can go to [VA.gov](VA.gov) for their healthcare needs now, implement some kind of interstitial experience. 
+
+## Options
+https://www.figma.com/design/MGP7riyGyOxTaJ3RXxP7pX/My-VA-Health-alerts---messaging?node-id=3375-335&t=hlSx3SNRSqz34oUv-1
