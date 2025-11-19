@@ -38,6 +38,21 @@ Mitigation: Full e2e testing in Staging environment and phased rollout in Produc
   * /v0/dependents_applications/show endpoint failures
   * Overall error rate
 
+### Launch user flow
+
+[We also have a decision flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/picklist/transition-strategy.md#decision-flow-diagram)
+
+| # | User type | `va_dependents_v3`<br> flipper status | Form in progress | Visible flow | Data migrated |
+|---|---|---|---|---|---|
+|1| Authenticated user | Enabled | Yes, v1 | v1 | No |
+|2| Authenticated user | Enabled | Yes, v2 | v2 | No |
+|3| Authenticated user | Enabled | Yes, v3 | v3 | v3 to v2 on submission only |
+|4| Authenticated user | Enabled | No | v3 | v3 to v2 on submission only |
+|5| Authenticated user | Disabled | Yes, v1 | v1 | No |
+|6| Authenticated user | Disabled | Yes, v2 | v2 | No |
+|7| Authenticated user | Disabled | Yes, v3 | v2 | No (v3 picklist data hidden & Veteran redirected back to veteran info page) |
+|8| Authenticated user | Disabled | No | v2 | No |
+
 ### Post-launch
 
 * Silent failures trigger alerts at any volume (0% threshold)
