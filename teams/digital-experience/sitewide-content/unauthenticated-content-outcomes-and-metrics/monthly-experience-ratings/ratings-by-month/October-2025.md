@@ -1,4 +1,3 @@
-# Note; this page is draft
 # Unauthenticated page experience ratings: October 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 66.6% (3.4% change from last period)
@@ -16,11 +15,11 @@ All pages have ratings of 4 or above.
         
 ### 5 pages with the lowest experience ratings
 All pages have ratings of 2 or below.
-- Login
-- Verify
-- Support for common [Login.gov](http://login.gov/) and ID.me issues
-- Verifying your identity on [VA.gov](http://va.gov/)
-- Signing in to [VA.gov](http://va.gov/) 
+- Auth/Login
+- [Verify your identity](https://www.va.gov/verify/)
+- [Support for common Login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/)
+- [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
+- [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov/) 
     
 ### Resources and support ratings ("good" or "bad")
 
