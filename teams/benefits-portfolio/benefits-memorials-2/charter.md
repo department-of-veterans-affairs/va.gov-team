@@ -1,5 +1,5 @@
 # **Financial Management Team Charter** 
-Last Updated: March 21, 2025
+Last Updated: November 19, 2025
 
 ### **Table of Contents:**
 
