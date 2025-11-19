@@ -18,7 +18,7 @@
   1. Select "Open in browser".
   1. See "Setting up your codespace", and a browser tab w/command window
   1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
-  1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
+  1. Check for all green text, and "webpack compiled successfully" ~~"Setup complete"~~ (if anything red, slack Colin)
   1. Open standalone browser window with prototype: **https://bit.ly/TBD** (~~https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false~~) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Slack Perigean notetaker a link to the notes doc in GitHub
