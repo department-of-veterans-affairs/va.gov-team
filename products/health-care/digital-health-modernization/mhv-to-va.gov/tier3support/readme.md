@@ -1,9 +1,9 @@
-# Tier 3 Support Product Outline 
+# MHV Tier 3 Support Product Outline 
 
 ## Communications
 - Team GitHub Label: MHV-Tier-3
 - Product GitHub Label: MHV-Tier-3
-- Slack channel: TBD once all team members are on DSVA Slack
+- Slack channel: mhv-tier-3-support
 - OCTO POCs: 
   - Lauren Alexanderson - OCTO Sponsor
   - OCTO UX Support: Becky Phung
