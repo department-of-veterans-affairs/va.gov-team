@@ -8,7 +8,6 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| Need flipper names| TBD |
 |ezr_spouse_confirmation_flow_enabled|Enables the spouse (V2) confirmation flow in the 10-10EZR form|
 
 
@@ -35,12 +34,12 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: **9/TBD/2025 - 9/TBD/2025**
+- Desired date range: **12/TBD/2025 - 12/TBD/2025**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
      - Links to the dashboard(s) showing "success criteria" metrics:
           - [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
-     - Who is monitoring the dashboard(s)?: Heather Justice - PM, Derrick Ellerbie - Engineer
+     - Who is monitoring the dashboard(s)?: Heather - PM, Mitch - Engineer
 
 #### Objective: Reduce time spent and bounce rates on Household section pages
 - Results #1: Reduction of time spent by 10%
@@ -54,13 +53,24 @@ Before enabling your feature toggle in production, you'll need to:
 
 ---
 ### Stage A: Canary
-- We will begin testing at 25% of users (see below)
+- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually 2 full days)
+- Percentage of Users (and roughly how many users do you expect this to be): 10% (approximately 15 users per day)
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"):
+  - Successful link access and actions (printing/saving)
+  - Error rates (should not be above zero)
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ### Stage B: 25% of users
 
 #### Planning
 
-- Length of time: 
+- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually 1-2 full days, depending on how it is going)
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 38 users per day)
 
 #### Results
@@ -77,7 +87,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
+- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually this phase ends up going over the weekend)
 - Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 76 users per day)
 
 #### Results
@@ -97,7 +107,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
+- Length of time: **12/TBD/2025** (Usually a Monday or Tuesday)
 - Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 150 users per day)
 
 #### Results
