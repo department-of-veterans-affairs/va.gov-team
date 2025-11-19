@@ -26,9 +26,9 @@ body:
 
         ## What happens next
 
-        After you submit this form, our team will review your request and follow up within **[X business days]** to discuss next steps and feasibility.
+        After you submit this form, our team will review your request and follow up within **2-3 business days** to discuss next steps and feasibility.
 
-        **Questions?** Contact **[team contact info]** or reach out in **[Slack channel]**.
+        **Questions?** Contact **@benefits-management-tools-team-3 in #benefits-management-tools** on slack.
 
   # Basic Information
   - type: markdown
@@ -161,19 +161,11 @@ body:
     id: description_summary_text
     attributes:
       label: "1. Description or summary text"
-      description: "Provide the copy you'd like shown on the Letters page alongside the letter. This is what users will see before they generate the letter."
+      description: "How would you describe this letter to someone deciding whether it's what they're looking for / whether it's useful for them to download?"
       placeholder: "Proposed user-facing description that appears next to the letter."
     validations:
       required: true
 
-  - type: textarea
-    id: supporting_docs_fe
-    attributes:
-      label: "2. Supporting documentation or links"
-      description: "Any policy, regulation, or VA site that explains the letter’s purpose (for content and UX reference)."
-      placeholder: "Paste URLs or describe documents for content/design reference."
-    validations:
-      required: false
 
   - type: input
     id: preferred_display_name
