@@ -102,6 +102,15 @@ Teams must launch with at least one entry point that allows site visitors to nav
 - The OCTO Content and IA team will create and update this page at https://www.va.gov/find-forms/about-form-22-10278/.
 - The page may be published in advance of launch and updated with the online form link post-launch once the form is released at 100%.
 
+3. **VA records -- hub**
+  - Placement description: Add a link to the topic page and add to section side navigation
+  - Link details
+    - Link label: Disclose personal information to a third party for education benefits
+    - Link destination: va.gov/education/disclose-information-to-third-party/
+  - Notes:
+    - Who will update: Content will update VA records page and IA will add link to side navigation
+    - When will this entry point go live: once launched at 100%
+
 ##  <a name="redirects"></a>Redirects <br>
 No redirects are needed. 
 
