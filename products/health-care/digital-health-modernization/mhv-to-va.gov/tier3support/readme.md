@@ -73,7 +73,7 @@ Tier 3 Support should serve as a key source for keeping MHV products and service
 
 ## Team
 - Product Manager: Bryan Ivie (Ad Hoc)
-- Issue Resolution: Melissa Ashton (IronArch)
+- Resolution Lead: Melissa Ashton (IronArch)
 - Senior Engineer: Tom Gammons (Ad Hoc)
-- Issue Resolution: Misty Gray (IronArch)
+- Issue Resolution engineer: Misty Gray (IronArch)
 
