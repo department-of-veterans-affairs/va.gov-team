@@ -6,10 +6,9 @@ Purpose: Provide internal VA testers a structured, scenario-based template to su
 1. Copy the dogfooding_template worksheet & paste in a new worksheet (add a tab in the same file and label with your name.) Fill one row per scenario execution. If you run the same scenario more than once (different prompt variants), submit in a different row.
 2. If deemed necessary, this will depened on the issue observed, record the full chatbot transcript (copy/paste). Do not input any PII, but if added mistakenly, please redact personal real PII/PHI from transcripts before uploading; mark redactions with [REDACTED].
 3. Capture screenshots and any network/console logs if available.
-4. Rate severity and likelihood using the scoring rubric below.
-5. Add suggested remediation or next steps if you identify a risk.
-6. If you discover content that could cause immediate harm to users (e.g., instructions to self-harm, instructions to perform illegal/harmful acts, or clear PHI leakage), stop testing and flag it as "Critical — immediate attention required" and notify the product manager, Ann-Marie Raposo, via the [#va-chatbot-public](https://dsva.slack.com/archives/C01KTS3F493) channel. 
-7. Please leave columns X, Y, Z, AA, AB, AC blank as this is for Chatbot team use only.
+4. Add suggested remediation or next steps if you identify a risk.
+5. If you discover content that could cause immediate harm to users (e.g., instructions to self-harm, instructions to perform illegal/harmful acts, or clear PHI leakage), stop testing and flag it as "Critical — immediate attention required" and notify the product manager, Ann-Marie Raposo, via the [#va-chatbot-public](https://dsva.slack.com/archives/C01KTS3F493) channel. 
+6. Please leave columns X, Y, Z, AA, AB, AC blank as this is for Chatbot team use only.
 
 ---
 ## Test Report [Template](https://dvagov.sharepoint.com/:x:/r/sites/OmnichannelExperience/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4f072ba6-eaf8-489e-b938-bad6784f2c5a%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1761153586320&web=1)
