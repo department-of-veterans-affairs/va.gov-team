@@ -63,13 +63,14 @@ You might want to also include a participant from some of the following underser
 - Veterans living abroad.
 - Non-English speakers.
 
-We also recommend testing with some Veterans who use the following assistive technologies (ideally several from each group across iterative studies):
+We also recommend testing with some Veterans who use the following assistive technologies (ideally several from each group in your study or across iterative studies):
 - Screen reader (mobile and desktop, beginner and advanced)
 - Magnification 
 - Voice command/speech recognition apps 
 
 If relevant to your study, you may also want to include
-- Family members and caregivers
+- Family members of Veterans
+- Caregivers of Veterans
 - Veteran Service Officers (VSOs)
 
 When planning your study, to figure out **how many people from various categories to recruit**, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
@@ -79,8 +80,6 @@ After your study, use the [VA recruitment checker](https://docs.google.com/sprea
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved group" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
 > Example: VA recruitment checker from a study with 11 Veteran participants, 6 of which used assistive tech. 
-
-If your findings deviate based on particular characteristics, we recommend strategically confirming and disconfirming those cases with another iterative study.
 
 <br aria-hidden="true"/>
 
