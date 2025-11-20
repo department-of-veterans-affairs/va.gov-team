@@ -295,6 +295,7 @@ Primary role:
   * Physician Assistant: X
   * Resident, Intern, or Fellow: X
   * Other: X
+
 Specialty:
   * Cardiology: X
   * Dermatology: X
@@ -315,11 +316,13 @@ Specialty:
   * Pulmonology: X
   * Surgery: X
   * Other: X
+
 Care setting:
   * Outpatient: X
   * Inpatient: X
   * Emergency Department: X
   * Other: X
+
 EHR:
  * CPRS: X
  * Oracle: X 
