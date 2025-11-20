@@ -41,14 +41,38 @@ Sign in problems are the most frequently reported issues in mobile app reviews o
 3. Android users leave significantly more reviews in app stores compared to iOS users.
 Although there were more than double iOS users (1,561,867)of the VHB app than Android users (766,342) in the 3rd quarter, the app received more than triple the number of app store reviews from Android users (1199) compared to  iOS users (303) in Q3. 
 
+### Data Snapshot
+Exhibit 1: Positive experience in Veteran ratings reflected during months July to September 2025
+
+#### Rating Contribution in the 3rd Quarter
+
+<img width="504" height="302" alt="Screenshot 2025-11-10 at 12 03 57 PM" src="https://github.com/user-attachments/assets/3fafac31-e7fc-4479-a8ba-f924c10c4abc" />
+
+This chart shows the distribution of ratings collected from all four sources during the 3rd quarter. Veteran satisfaction scores skew drastically positive this quarter at 75.5% (or 4016 total).
+
+#### Key
+| Color | Rating | Percentage | Count |
+| Blue | 1 | 8.2% | 331 | 
+| Red | 2 | 8.3% | 332 |
+| Yellow | 3 | 8.0% | 321 |
+| Green | 4 | 19.5% | 784 |
+| Orange | 5 | 56% | 2248 | 
+
+
 ### Positive Sentiment Analysis
-eterans who gave the app a positive rating (4 or 5 stars) praise the app as valuable because of its simplicity and ease of use. Noting sentiment of “delight” or “excitement” over how easy the app is to use. Some Veterans note that it improves their access and streamlines their personal healthcare management. 
+Over 76% of Reviews Praised the Mobile App for Ease of Use, Simplicity, and Convenience. Veterans who gave the app a positive rating (4 or 5 stars) praise the app as valuable because of its simplicity and ease of use. Noting sentiment of “delight” or “excitement” over how easy the app is to use. Some Veterans note that it improves their access and streamlines their personal healthcare management. 
 
-The reviews from July through September 2025 shows that the following features are most often praised:
-1. Appointments
-2. Prescriptions
-3. Messaging
+The reviews from July through September 2025 shows that the following elements of the app are highly valued by Veterans.
 
+**Usability:** This is one of the most frequently mentioned and appreciated app elements by Veterans during this quarter, making the process of managing their health easier and convenient. 
+
+
+**Functionality:**  The app is frequently praised for its health features. Veterans note that it is easier to order their prescriptions through the app, communicate with their healthcare providers through messaging, and prepare for their healthcare appointments.
+
+
+**Navigation:** Many reviews this quarter noted the simplicity of the navigation in the app where Veterans can easily find desired features with a short learning curve. 
+
+#### Positive Sentiment User Quotes
 > “I was hesitant to get the app because I didn't know how it would work, period but it is phenomenal, very user friendly for the challenged like me.” - Veteran
 
 <br>
@@ -60,6 +84,27 @@ The reviews from July through September 2025 shows that the following features a
 > “I was impressed! ( That's VERY unusual for a govt site!) This was my first time using it and once I tried each section, found it was straight forward. This did not have the ambiguity that many VA sites have had. This is a very good, concise and easy site to use! "10 out of 10" is my rating! Common sense layout...not much room for error!” - Veteran
 
 <br>
+
+### Notable Events
+Events that have impacted app users can often be mapped to app feedback.
+
+This quarter several notable events could be directly mapped to user feedback based on date, issue, or associated content.
+
+#### Timeline of Notable Events 
+<img width="1222" height="476" alt="Screenshot 2025-11-20 at 9 25 18 AM" src="https://github.com/user-attachments/assets/895fa70e-de9c-465b-a45b-aecb9f6ea48c" />
+
+##### August
+- **Staging link error:** On 8/12/25 Version 2.56 released a staging link into production in place of the sign in button.
+- **Travel pay release:** Many new users came to the app looking for a marketed travel pay section  and were unable to distinctly find it . Marketing email and Youtube video 8/27. Marketing campaign 9/10 & 9/16
+
+##### September
+- **Secure messaging list changes:** On 9/9 a change in how care systems where represented to users made it difficult for some Veterans to locate or send messages to their desired medical team. 
+
+**System downtime:** Periodically maintenance of various app systems often results in scheduled or unexpected downtime with direct effect on users ability to complete a task
+App alerts or messaging often surface found downtimes or errors
+Offline mode (currently in design/build process) will improve Veteran access to previously stored data when areas of the app are unavailable/offline.
+
+
 
 ### Negative Sentiment Analysis
 Veterans who rated the app 3-stars or less often shared common pain points. The most significant numbers of pain points received were in the following categories: 
