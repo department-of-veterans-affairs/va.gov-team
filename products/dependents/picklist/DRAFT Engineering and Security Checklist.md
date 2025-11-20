@@ -76,7 +76,7 @@
     - N/A
 - Background jobs
   - List any required background processing
-    - This isn't new to this work, but our team uses sidekiq
+    - This isn't new to this work, but our team uses Sidekiq
   - Describe error and dead letter handling
     - N/A, but all of our logging is done as described here:  https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/logging
 - Data storage
@@ -138,13 +138,13 @@ The following product or feature descriptions may be answered with a reference l
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
     - How does the code base get disabled in the product?
-      - Via a PR and merge
+      - We will re-enable the `va_dependents_v3` feature flag.
     - How would you detect a compromise?
       - It isn't really in the scope of our team to detect compromises. We are conscious to never put PII in query strings and we try to keep PII out of DataDog.
     - What process and privilege does the code base execute under?
-      - N/A - Our code is managed by platform.
+      - N/A. Our code is managed by platform.
     - The code base is infiltrated or ex-filtrated.
-      - N/A - Our code is managed by platform.
+      - N/A. Our code is managed by platform.
   - Links to dashboards that help identify and debug application issues
     - https://vagov.ddog-gov.com/dashboard/txg-mfx-xha/benefits-dependents-686674-v2?fromUser=false&refresh_mode=paused&from_ts=1762446627286&to_ts=1762448427286&live=false
 - Provide your Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
