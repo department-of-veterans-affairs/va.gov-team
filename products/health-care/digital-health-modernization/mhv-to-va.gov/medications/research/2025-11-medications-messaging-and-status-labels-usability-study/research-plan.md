@@ -79,6 +79,7 @@ The results of this study will show if the new medication statuses improve Veter
 We will conduct remote moderated usability testing sessions with 10 Veterans using a test user on staging and a Figma prototype. We will observe the user behavior and ask follow-up prompts as needed.
 
 Test user login information for SM renewal flow: Emma.smith@id.me/Tester1&
+
 [Figma prototype for status testing](https://www.figma.com/design/puYUxsa9cW7KsKDc1ztAOf/Status-Testing?node-id=0-1&t=8yUfpk633KcLtaI1-1)
 
 We will need to set up a staging user that has the conditions:
