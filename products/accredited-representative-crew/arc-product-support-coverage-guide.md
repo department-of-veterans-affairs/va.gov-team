@@ -1,3 +1,5 @@
+# ARC Product Support Coverage Guide
+
 ## Purpose
 This document defines the product support process for the **Accredited Representative Crew (ARC)** — the team responsible for maintaining and improving tools that help accredited representatives assist veterans with benefits paperwork.
 
