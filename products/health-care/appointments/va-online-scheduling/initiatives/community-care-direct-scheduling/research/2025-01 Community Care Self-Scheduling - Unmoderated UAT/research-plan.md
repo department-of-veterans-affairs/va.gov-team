@@ -47,8 +47,8 @@ When CC scheduling staff contact Veterans and ask them if they would like to opt
 Tests will be conducted online at the participant’s leisure. 
 
 ### Research Materials
-- [Survey link]
-- [Custom recruitment registration]
+- [Survey link](https://touchpoints.app.cloud.gov/touchpoints/1e89e0df)
+- [Custom recruitment registration](https://docs.google.com/forms/d/e/1FAIpQLSeaLpeM0yudkRVQsJzOFRW8yqVqH-f4DKNkXoxxDfP0cRSMCw/viewform)
 
 ## Recruitment
 1 cohort, 5 participants each, total 5 responses. Minimum threshold of 3 completed responses.
