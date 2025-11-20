@@ -23,16 +23,14 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
-  - [SOCKS access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) required
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - If any errors/failures are found within the form, the team will
   - [PM] Communicate the issue to the Product Owner
   - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
@@ -51,7 +49,6 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -72,20 +69,20 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures - PM will open maintenance window in PagerDuty if needed
 - Obtain Veteran contact information (Name, Phone number, Email address)
+     - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
 - Send the Veteran contact information via **secure, encrypted email** (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
-  - Copy PO (Patrick Bateman) and team PMs (VA emails only)
+  - Copy PO and team PMs (VA emails only)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 
@@ -104,19 +101,50 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Obtain Veteran contact information (Name, Phone number, Email address)
+     - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
 - Send the Veteran contact information via **secure, encrypted email** (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
-  - Copy PO (Patrick Bateman) and team PMs (VA emails only)
+  - Copy PO and team PMs (VA emails only)
+
+---
+
+# Monitor: 1010EZR submission job has failed due to Enrollment System validation error
+
+## Slack & Email Alert: "1010EZR submission job has failed due to Enrollment System validation error"
+
+- Form submission job has failed due to data input in the form does not pass validation with VES, and did not retry.
+
+### Required access
+
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+  - #1010-health-apps channel
+  - #health-tools-1010-apm channel
+  - #vfs-platform-support channel
+
+
+### Steps
+
+- Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
+- Obtain Veteran contact information (Name, Phone number, Email address)
+     - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
+- Send the Veteran contact information via **secure, encrypted email** (from va.gov email address) to VHAHECEEDAdministrators@va.gov
+  - Explain what has happened (submission failure) and provide the Veteran contact info.
+  - Copy PO and team PMs (VA emails only)
 
 ---
 
@@ -134,15 +162,14 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Communicate the issue to the Product Owner
 - If any errors/failures are found within the form, the team will
   - Determine if a maintenance banner needs to be in place to stop further failures
@@ -161,7 +188,6 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -182,13 +208,14 @@ _last updated: 5/16/2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps - Needs review & revision for EZR (the info below is specific for EZ)
 - CONFIRM [THIS MONITOR](https://vagov.ddog-gov.com/monitors/370871) IS CORRECT, SPECIFICALLY THE FUNCTION IDENTIFIED. IF DIFFERENT, THE [ZSF DASHBOARD](https://vagov.ddog-gov.com/dashboard/w4w-uc4-u6u/10-10-health-apps-zsf?fromUser=false&fullscreen_end_ts=1747407573916&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1746802773916&fullscreen_widget=8940342090768042&refresh_mode=sliding&from_ts=1746802354974&to_ts=1747407154974&live=true) WILL NEED AN UPDATE
 
 - There should be a corresponding rails log named `Error notification to user failed to deliver` and with metadata containing the notification_id and form id (`{ notification_record_id: notification_record.id, form_number: metadata['form_number'] }`). The form id is `10-10EZ`.
 - Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission. Use this log to:
+- Obtain Veteran contact information (Name, Phone number, Email address)
+     - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
   - Obtain Veteran contact information (Name, Phone number)
   - Send the Veteran contact information via **secure, encrypted email** (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
