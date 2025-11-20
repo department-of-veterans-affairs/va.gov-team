@@ -24,6 +24,8 @@ UX Research: initial notes, thoughts, and questions
 * _(in scope?)_ How are locations using this card? e.g. healthcare centers
     * What types of locations use this card?
     * Are there differences among types of locations in how they use the cards?
+        * Scanning bar code?
+        * Viewing? If viewing, what exactly are they looking for? How quickly are they looking at the card? (i.e. how much could we deviate from the original physical card to still be recognizable?)
     * Can people at these locations be part of our research?
     * 🗓️ Timeline: ideally before designs have been started, to confirm what needs to be on these digital cards so that they will work in locations.
 
