@@ -164,6 +164,8 @@ Perigean mentioned you help other Veterans with disability claims, is that right
 
 # Prototype tasks (20-25 min)
 
+[Link to prototype](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6524-47192&viewport=653%2C-7741%2C0.75&t=UWlAy6DgYnnYEKOL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6524%3A47192&show-proto-sidebar=1)
+
 *Moderator guidance:*
 
 * *As participant clicks through prototype, give them time to review each screen themselves and think aloud before asking questions.*
