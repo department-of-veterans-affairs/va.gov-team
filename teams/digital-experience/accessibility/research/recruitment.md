@@ -109,7 +109,7 @@ Deviant case sampling involves investigating cases that highlight notable outcom
 Critical case sampling is useful in exploratory qualitative research, research with limited resources, as well as research where a single case (or small number of cases) can be decisive in explaining the phenomenon of interest.
 
 ### Use critical case sampling when:
-- You don’t have the resources to test with many participants. Recruiting a smaller number of Veterans who make up the most complex cases will likely cover less complex cases in your study. For example, testing with 1 low vision Veteran who uses browser magnification tools and a screen reader could cover the needs of older age groups, screen reader users, mobile users (reflow), and more.
+- You don’t have the resources to test with many participants. Recruiting a smaller number of Veterans who make up the most complex cases will likely cover less complex cases in your study. For example, testing with one low vision Veteran who uses browser magnification tools and a screen reader could cover the needs of older age groups, screen reader users, mobile users (reflow), and more.
 
 For more, watch [Veronica Lewis’ talk at i24: Why Everyone Should Design For Chiari Malformation](https://www.youtube.com/watch?v=IEnmA4NPjP4) where she explains how designing for her complex condition can cover many other types of disabilities.
 
