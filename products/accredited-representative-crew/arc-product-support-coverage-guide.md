@@ -1,25 +1,26 @@
 ## Purpose
-This document defines the on-call process for the **Accredited Representative Crew (ARC)** — the team responsible for maintaining and improving tools that help accredited representatives assist veterans with benefits paperwork.
+This document defines the product support process for the **Accredited Representative Crew (ARC)** — the team responsible for maintaining and improving tools that help accredited representatives assist veterans with benefits paperwork.
 
-The on-call rotation ensures continuous coverage for alert triage, issue escalation, and overall system reliability following the MVP launch.
+The product support rotation ensures continuous coverage for alert triage, issue escalation, and overall system reliability following the MVP launch.
 
 ---
 
 ## 1. Rotation Length
-- Each on-call rotation lasts **one sprint (two weeks)**.
+- Each support rotation lasts **one sprint (two weeks)**.
 - The rotation is announced during sprint planning.
 
 ---
 
 ## 2. Eligibility
-- On-call rotations are **limited to full-stack developers** capable of triaging both frontend and backend issues.
+- Support rotations are **limited to full-stack developers** capable of triaging both frontend and backend issues.
 - **Production access is not required**; only tech leads have production credentials.
 - Non-full-stack contributors are excluded from the rotation.
 
 ---
 
 ## 3. Responsibilities During Rotation
-The on-call developer acts as **first responder** for alerts, user reports, and system anomalies.
+- The support developer acts as **first responder** for alerts, user reports, and system anomalies.
+- The support developer is only expected to monitor product alerts during business hours.
 
 ### Primary Duties
 - Provide support to Candi if she gets notifications of issues from users.
@@ -59,11 +60,11 @@ Before your rotation, ensure you have:
 
 ---
 
-## 6. On-Call Schedule
+## 6. Product Support Schedule
 - Follows the sprint calendar (two-week cadence).
-- The on-call calendar repeats and is updated each sprint in planning notes.
+- The calendar repeats and is updated each sprint in planning notes.
 
-| Sprint | Dates | On-Call Developer (Full Stack) | Tech Lead (Escalation) |
+| Sprint | Dates | Developer (Full Stack) | Tech Lead (Escalation) |
 |---------|--------|--------------------------------|-------------------------|
 | Sprint 2 | Oct 21 – Nov 3 | Kevin | Holden |
 | Sprint 3 | Nov 4 – Nov 17 | Patrick | Kevin, Holden |
@@ -75,6 +76,6 @@ Before your rotation, ensure you have:
 ---
 
 ## 7. Review & Improvement
-During each sprint retrospective, the on-call developer provides a short report on alerts handled, investigations, and improvement opportunities.
+During each sprint retrospective, the developer provides a short report on alerts handled, investigations, and improvement opportunities.
 
 This guide should evolve as tooling, team composition, or operational needs change.
