@@ -100,12 +100,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (11/18/25)
  - [X] VA PO & COR sent the Sprint Goals (11/18/25)
- - [X] VA PO approved the Sprint Goals (11/18X/25)
+ - [X] VA PO approved the Sprint Goals (11/18/25)
  - [X] VA COR approved the Sprint Goals (11/18/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- For goal: UX: Continue service blueprint work, including meeting with VEO team, identifying SME’s, finalizing conversation guides. the conversation guide was not created or needed as the research was already completed and the results are being folded into our work.
 
 
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
