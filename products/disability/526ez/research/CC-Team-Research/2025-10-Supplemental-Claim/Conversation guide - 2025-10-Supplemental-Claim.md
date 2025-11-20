@@ -163,9 +163,10 @@ Perigean mentioned you help other Veterans with disability claims, is that right
 
 * What terms are particularly confusing for people?
 
-Before we get into testing the prototypes, would you like to take a brief break?
 
 # Prototype tasks (20-25 min)
+
+Before we get into testing the prototypes, would you like to take a brief break?
 
 [Link to prototype](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6524-47192&viewport=653%2C-7741%2C0.75&t=UWlAy6DgYnnYEKOL-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6524%3A47192&show-proto-sidebar=1)
 
