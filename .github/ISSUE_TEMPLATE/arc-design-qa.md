@@ -1,6 +1,6 @@
 ---
-name: ARC Design QA
-about: Design QA of development work
+name: ARC Team QA
+about: Team QA of development work
 title: 'QA updates: '
 labels: ar-crew, engineering
 assignees: ''
