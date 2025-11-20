@@ -58,7 +58,7 @@ Vet Centers, Vet Center Outstations, and Community Access Points | operating sta
 
 ## NCA Cemeteries  
 
-Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov or Jonathan Katora, VA Product owner at jonathan.katora@va.gov.
 
 ## Community care providers and pharmacies 
 
