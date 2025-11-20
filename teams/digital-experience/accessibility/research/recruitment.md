@@ -79,7 +79,7 @@ After your study, use the [VA recruitment checker](https://docs.google.com/sprea
 
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved group" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
-> Example: VA recruitment checker from a study with 11 Veteran participants, 6 of which used assistive tech. 
+> Example: VA recruitment checker from a study with 11 Veteran participants, 6 of whom used assistive tech. 
 
 <br aria-hidden="true"/>
 
