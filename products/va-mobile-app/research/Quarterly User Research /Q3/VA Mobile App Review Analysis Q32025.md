@@ -51,13 +51,15 @@ Exhibit 1: Positive experience in Veteran ratings reflected during months July t
 This chart shows the distribution of ratings collected from all four sources during the 3rd quarter. Veteran satisfaction scores skew drastically positive this quarter at 75.5% (or 4016 total).
 
 #### Key
-| Color | Rating | Percentage | Count |
+|Color |Rating |Percentage |Count |
+|-------|------|-------|------|
 | Blue | 1 | 8.2% | 331 | 
 | Red | 2 | 8.3% | 332 |
 | Yellow | 3 | 8.0% | 321 |
 | Green | 4 | 19.5% | 784 |
 | Orange | 5 | 56% | 2248 | 
 
+*Note: Discrepancies were found in counts of user feedback from in app surveys after it was discovered that a default setting extracted representative sample data only and not comprehensive data. Those full data set counts are reflected in the totals displayed here, but not in the monthly analysis reports.
 
 ### Positive Sentiment Analysis
 Over 76% of Reviews Praised the Mobile App for Ease of Use, Simplicity, and Convenience. Veterans who gave the app a positive rating (4 or 5 stars) praise the app as valuable because of its simplicity and ease of use. Noting sentiment of “delight” or “excitement” over how easy the app is to use. Some Veterans note that it improves their access and streamlines their personal healthcare management. 
@@ -107,12 +109,14 @@ Offline mode (currently in design/build process) will improve Veteran access to 
 
 
 ### Negative Sentiment Analysis
-Veterans who rated the app 3-stars or less often shared common pain points. The most significant numbers of pain points received were in the following categories: 
+Slightly over 16% of Reviews Reported Frustrations with the app – Most linked to known bugs/issues. Veterans who rated the app 3-stars or less often shared common pain points. The most significant numbers of pain points received were in the following categories: 
 
-- Sign in Issues (142 instances): Veterans struggle with the sign in process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. Other notable issues include reported looping, biometric failure, and being logged out.
-- Limited content details in appointments (116 instances): Users often report a desire for more detailed information reflected in their appointments that are needed to help them prepare, and arrive at the correct location.
-- Inability to locate travel pay (38 instances): With the newer release and marketing for the travel pay feature in the app, users reported difficulty finding it at all expecting to see it uniquely identified instead of within existing appointments.
-- Ability to message needed providers: A change in list options made it difficult for Veterans to send messages to their desired medical team or recipients. Some users mention frustration when trying to locate the messaging area within the app altogether.
+- **Sign in Issues:** Veterans struggle with the sign in process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. Other notable issues include reported looping, biometric failure, and being logged out.
+- **Limited content details in appointments:** Users often report a desire for more detailed information reflected in their appointments that are needed to help them prepare, and arrive at the correct location.
+- **Inability to locate travel pay:** With the newer release and marketing for the travel pay feature in the app, users reported difficulty finding it at all expecting to see it uniquely identified instead of within existing appointments.
+- **Ability to message needed providers:** A change in list options made it difficult for Veterans to send messages to their desired medical team or recipients. Some users mention frustration when trying to locate the messaging area within the app altogether.
+
+#### Negative Sentiment User Quotes
 
 > “ID me website has a checkmark to remember me on this device. Yet it does not work. Ex. I use the app, take a break for 5 minutes, then have to repeat the whole process all over. It’s unnecessary.” - Veteran
 
@@ -126,7 +130,7 @@ Veterans who rated the app 3-stars or less often shared common pain points. The 
 
 <br>
 
-### Key Opportunities of Improvement
+### High Priority Opportunities of Improvement
 
 #### Sign in issues
 
@@ -261,6 +265,323 @@ When I need to send a message to my provider, I want to see my provider as an op
 - Forward messages between providers
 - Manage my messages through folders, and deletion.
 
+### Medium Priority Opportunities of Improvement
+
+#### Manage my prescriptions
+
+**Veteran motivation**
+When I need to manage and refill my prescriptions, I want a simple and reliable way to do it
+
+
+**Veteran challenges**
+- Ordering refills for multiple prescriptions
+- Requesting refills for expired prescriptions
+- Communicating with the pharmacy or doctor about the prescription
+- Managing long or outdated prescription lists
+- Tracking prescription refills for delivery
+- Receiving prescriptions 
+
+**Veteran requirements**
+- One-click reordering
+- Automatic renewal requests for expired prescriptions
+- Send a message to my doctor from the prescription screen
+- Communicate with the pharmacy about my prescription
+- Hide or delete cancelled, or old prescriptions
+- Quick delivery
+- Notifications about prescription actions
+
+
+**Metrics to track**
+- **Time on Task:**
+Identify average time on task for a user to complete the prescription ordering workflow in the app as a baseline to compare to after changes in workflow.
+
+- **Funnel Drop-off Rates:**
+Monitor drop-off rates for the prescription ordering task funnel.
+
+
+**Suggestions/Next steps**
+- **Competitive audit:**
+Compare workflows for multi-prescription ordering through commercial apps.
+
+- **Usability testing:**
+Refine prescription workflow and conduct usability testing.
+
+- **Surface needed channels:**
+Add communication methods direct from prescription area.
+
+#### Book and cancel appointments
+
+**Veteran motivation**
+When I need to manage my appointments, I want the ability to book or cancel appointments directly in the app
+
+**Veteran challenges**
+- Waiting on an appointment to be booked and confirmed
+- Being able to directly book an appointment 
+- Being able to cancel or reschedule an appointment
+- Connecting with staff on the phone
+
+**Veteran requirements**
+- Booking an appointment directly in the app
+- Canceling an appointment directly in the app
+- Syncing my appointments with my phone calendar
+- Noting community care appointment referral expiration dates
+
+
+**Metrics to track**
+- **Booking Lead Time:**
+Time from appointment request to confirmation.
+
+
+**Suggestions/Next steps**
+- **Clarify and Validate Requirements:**
+What appointment types could be booked directly in the app?
+What business rules govern cancellations and rescheduling?
+
+- **Map the Current Booking & Cancellation Journey**
+
+
+### Low Priority Opportunities of Improvement
+
+
+#### Find information within the app
+
+**Veteran motivation**
+When I need to find information or complete a task in the app, I want to be able to locate the area of the app I need to navigate to
+
+**Veteran challenges**
+- Finding specific features within the app
+- Learning how to use the app
+- Understand what is available in the app
+- Identify what’s new in the app
+
+
+**Veteran requirements**
+- Ability to easily find what is  available in the app at any given time
+- Ability to search for information in the app
+- Ability to ask questions about the app and receive responses
+
+
+**Metrics to track**
+
+**User Path Metrics:**
+Set up user path monitoring for key app user tasks. 
+- Backtracking rates
+- Drop-off rates
+- Navigation paths
+
+
+**Suggestions/Next steps**
+**Navigation Path Analytics Study:**
+Analyze monitoring metrics from user path  to identify areas for improvement, user mental models, and task drop-off rates. Areas commonly mentioned as difficult for users to find include:
+1. Messaging
+2. Travel Pay
+3. Sign out
+
+
+#### Get support in the app
+
+**Veteran motivation**
+When I need help with the app, I want the ability to request support from VA staff who are well informed about the app specifically
+
+**Veteran challenges**
+- Getting answers to questions regarding information in the app
+- Correcting inaccurate app information
+- Reporting app issues
+- Resolving app related issues
+- Navigating differences between the app and VA.gov
+
+**Veteran requirements**
+- Communicate directly with VA support staff knowledgeable about the app
+- Ability to submit an app related support ticket and receive a response
+- Opportunity to chat with an agent (or chatbot) in the app
+
+
+**Metrics to track**
+- **Case Rates:**
+Identify number of reported app feedback/review where issues are reported that need response or resolution (identify demand)
+
+
+**Suggestions/Next steps**
+- **Surface AskVA:**
+On Homepage under VA resources provide a clear channel for Veterans to submit a support ticket
+
+- **Stand up a dedicated app support channel:**
+Create a feedback loop direct to app teams where VA staff and triage app related issues.
+
+
+### Prioritization of Identified Research Opportunities
+<img width="847" height="771" alt="Screenshot 2025-11-20 at 9 51 22 AM" src="https://github.com/user-attachments/assets/f17e1a57-7d7f-4462-b8ed-8371db50f572" />
+Prioritization available here in [Figjam](https://www.figma.com/board/4UyDWmxQ0ZAiOQzkhw7UyN/Service-Design-Exploration?node-id=728-3467&t=qERHjV7NfPgq9uTu-4)
+
+Estimated research prioritization matrix based on 
+Impact (# of complaints)
+Level of effort (length of time)
+
+Recommended activities to be assessed and conducted by experience teams.
+Prioritization matrix available here in Figjam
+
+Note: Experience team researchers to determine best path and prioritization, mapped recommendations are opportunities and estimates. They are not inclusive of current or already planned initiatives.
+
+### Core App Team Q4 2025 Research Roadmap
+<img width="972" height="566" alt="Screenshot 2025-11-19 at 12 14 49 PM" src="https://github.com/user-attachments/assets/f142e32f-5de9-48b0-95c9-9e4ce8bc14e1" />
+Roadmap available here in [Figjam](https://www.figma.com/board/4UyDWmxQ0ZAiOQzkhw7UyN/Service-Design-Exploration?node-id=728-3467&t=qERHjV7NfPgq9uTu-4)
+
+**October 2025:**
+- Monthly app review analysis
+- Platform research process documentation
+
+**November 2025:**
+- Monthly app review analysis
+- Quarterly app review analysis
+- Notification workshops
+
+**December 2025:**
+- Monthly app review analysis
+- Login feedback survey collection
+
+### Core App Team Q1 2026 Research Roadmap
+
+<img width="961" height="686" alt="Screenshot 2025-11-19 at 12 18 41 PM" src="https://github.com/user-attachments/assets/90478d48-e0fc-4a84-b754-470e35b0dfed" />
+Roadmap available here in [Figjam](https://www.figma.com/board/4UyDWmxQ0ZAiOQzkhw7UyN/Service-Design-Exploration?node-id=728-3467&t=qERHjV7NfPgq9uTu-4)
+
+**January 2026:**
+- Monthly app review analysis
+- Quarterly app review analysis
+- Sign in root cause analysis
+
+**February 2026:**
+- Monthly app review analysis
+- Surface AskVA link exploration
+- Navigation Path Analytics Study
+- Dedicated app support channel (through March)
+
+**March 2026:**
+- Monthly app review analysis
+- Dedicated app support channel
+
+### Experience Team Research Opportunities
+Recommended activities to be assessed and conducted by experience teams.
+Displayed in order of priority by team
+
+<img width="1245" height="800" alt="Screenshot 2025-11-19 at 12 12 38 PM" src="https://github.com/user-attachments/assets/00c1a2c9-ad04-4024-b608-a47fbe7c2c58" />
+
+<img width="1473" height="765" alt="Screenshot 2025-11-19 at 12 28 32 PM" src="https://github.com/user-attachments/assets/09e8f5b6-c797-4ba7-9a40-8e0b13428d21" />
+
+
+Roadmap available here in [Figjam](https://www.figma.com/board/4UyDWmxQ0ZAiOQzkhw7UyN/Service-Design-Exploration?node-id=728-3467&t=qERHjV7NfPgq9uTu-4)
+
+#### Appointments Team:
+1. Appointment Details Data Analysis
+2. Appointment Details Integration Assessment
+3. Appointment Booking/Cancellation Requirements
+4. Appointment Journey Mapping (if not current)
+
+#### Prescriptions Team:
+1. Prescriptions Competitive Audit
+2. Prescriptions Usability Testing
+3. Prescriptions Messaging Links
+
+#### Secure Messaging Team:
+1. Secure Messaging Case Analysis
+
+#### Travel Pay Team:
+2. Travel Pay Tree Testing
+
+#### Sign in Team:
+3. Login survey result review
+
+### Q3 Notable Research Activities
+
+Q1 & Q2 Identified Research Opportunities Conducted During Q3
+This quarter several notable research activities where conducted based on the previous Q1 & Q2 mobile app analysis report.
+
+#### Timeline of Research Activities Conducted in Q3
+<img width="1265" height="452" alt="Screenshot 2025-11-20 at 9 59 23 AM" src="https://github.com/user-attachments/assets/cff8296e-3d66-46e4-a4e1-80a52fafe3c2" />
+
+##### July
+1. [Login Error Review](https://dvagov.sharepoint.com/:x:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Login%20Error%20Research.xlsx?d=w0af150b34ad14752b1910823b97dc37b&csf=1&web=1&e=Qxhaoo)
+7/24-7/31/25
+
+##### August
+1. [Forms MVP Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/research-findings.md)
+8/12-8/15/25 
+
+2. [Offline Review Analysis](https://dvagov.sharepoint.com/:x:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Offline%20access%20user%20research.xlsx?d=w4e446d23f60a4ceea131e3cf792fd87c&csf=1&web=1&e=dn7jHu)
+08/18-9/4/25
+
+##### September
+1. [Data Strategy Defined](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=5IaUxQscQRS0VGge-1)
+9/17/25
+
+2. [Forms AT Usability Study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/research-findings-AT-study2.md)
+09/29-10/03/25 
+
+##### Monthly
+1. [Monthly Analysis:](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/research/Monthly%20User%20Research)
+- App Store + Play Store Reviews
+- RX Intercept Surveys
+- Give Feedback Surveys
+
+### Additional Opportunities from Q3 Research Findings
+
+1. **Forms Status MVP Development:** Usability testing discovered issues with form completion in webview for app users. Recommendations for forms MVP in the app to focus on status view vs. form entry.
+
+2. **Accessibility Audit:** Accessibility issues discovered during usability testing and piloting shed light on app related issues driving the recommendation for a more comprehensive accessibility audit for the app based on core user flows. 
+- (ADE Team Ticketing Process)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md]
+- Supporting documents needed: Core user flows documented to test
+
+3. **Research Processes for App Platform:** A need for experience teams to own research efforts for app related content as it relates to their specific area/feature identified and shared in monthly findings. Additional resources created to support experience team researchers included:
+- [Data Extraction How-to for Researchers](https://dvagov.sharepoint.com/:w:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Research%20Process/How%20to%20Extract%20Raw%20Data%20from%20VHB%20Mobile%20Feedback%20Sources.docx?d=wa4c502ba625e4db692f9f210ee2e4f89&csf=1&web=1&e=eEXPbd)
+- [Mobile App Analysis Code Schema](https://dvagov.sharepoint.com/:x:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Research%20Process/VHB%20App%20Analysis%20Code%20Schema.xlsx?d=w42010167850d4f7aa78a4c7afa4b791f&csf=1&web=1&e=bEYSxS)
+- [Monthly Analysis Process](https://dvagov.sharepoint.com/:w:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Research%20Process/Monthly%20App%20Research%20Process.docx?d=w980adee530cf49c4b25dfceabd83e6e9&csf=1&web=1&e=swC0YR)
+- [Quarterly Analysis Process](https://dvagov.sharepoint.com/:w:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Research/Research%20Process/Quarterly%20App%20Research%20Process.docx?d=w977cbf60cb0c4774ab36ee46082a58de&csf=1&web=1&e=NAPAYo)
+
+## Existing Analytics
+Quantitative Data Exploration
+
+### What operating system are VHB app users on?
+
+<img width="1767" height="714" alt="Screenshot 2025-11-19 at 3 44 39 PM" src="https://github.com/user-attachments/assets/87b57c98-2167-47e2-88e3-89b4a2d331b7" />
+
+**Total app users by operating system during Q3 2025**
+
+Despite more app store feedback being received from Android users, iOS users make up over 66% of the VA Health & Benefits mobile app active users, whereas Android users make up about half that percentage at just over 32%. However new users during this third quarter show a closer percentage difference, with just over 57% of new users utilizing iOS and nearly 43% of new users on Android. 
+
+### What version of the app are users on?
+
+<img width="1767" height="430" alt="Screenshot 2025-11-19 at 1 11 35 PM" src="https://github.com/user-attachments/assets/32d1cbd0-d18f-43af-954d-4e2c42c6f26c" />
+<img width="1767" height="562" alt="Screenshot 2025-11-19 at 1 11 49 PM" src="https://github.com/user-attachments/assets/a41a8cd3-e406-4bf3-94bb-3a3f911578ab" />
+
+**Active app user versions Q3 2025**
+
+For the most part app users are updating their app versions with new releases. Seeing 2.58.0 release users as the majority by the end of the quarter, but only 32% with the 2.59.0 release by Sept. 30th. The majority of users during this quarter full time period were on the 2.57.0 version.
+
+
+### User retention
+
+
+<img width="874" height="410" alt="Screenshot 2025-11-20 at 8 25 27 AM" src="https://github.com/user-attachments/assets/b670ee60-28f6-49f9-89e3-90cd2cf8a9fc" />
+
+**New User counts by day during Quarter 3.**
+
+Spikes in new users occurred on August 12-13th aligning with the staging link release error. Another spike can be seen August 27th and 28th aligning with Travel Pay marketing efforts.
+
+
+<img width="631" height="408" alt="Screenshot 2025-11-20 at 8 29 23 AM" src="https://github.com/user-attachments/assets/16d31035-9d25-43b6-8c14-4ec148d727d0" />
+<img width="125" height="111" alt="Screenshot 2025-11-20 at 10 12 39 AM" src="https://github.com/user-attachments/assets/49470462-8f2f-4e84-8a7b-572518442e81" />
+
+
+**User retention by cohort trend lines during Quarter 3**
+
+Following a consistent trend throughout the quarter with spikes occurring mid-August. 
+
+<img width="556" height="413" alt="Screenshot 2025-11-20 at 8 29 40 AM" src="https://github.com/user-attachments/assets/6c675fc0-33ed-4f86-b630-6ac66d475d94" />
+<img width="125" height="111" alt="Screenshot 2025-11-20 at 10 12 39 AM" src="https://github.com/user-attachments/assets/92baec1f-a0f4-438e-88c7-5f79a8dcf115" />
+
+
+**User engagement by cohort trend lines during Quarter 3**
+
+Showing averages between 1-7 mins for users after 30 days of engagement but seeing similar trends in engagement time between day 1 and day 7 for users. 
 
 
 
