@@ -43,11 +43,9 @@ For more, read page 125 of [Dana Chisnell's Handbook of Usability Testing](https
 <br aria-hidden="true"/>
 
 ## Maximum Variation Sampling (MVS)
-Purposefully selecting a wide range of social identity categories (like race or disability) among Veterans will help your findings better:
-- Document diversity of needs and behavior
-- Identify important common patterns that cut through the noise of variation on dimensions of interest
+Purposefully selecting Veterans with a wide range of social identity categories (like race or disability) will enable your findings to include diversity of needs, behaviors, and patterns.
 
-Try to meet the following numbers (based on VA statistics) in your sample as a **minimum** (or collective sample groups from several lean research iterations):
+Try to achieve the following proportions (based on VA statistics) in the participants in your study or across multiple studies:
 - [50% aged 55-64+](https://www.va.gov/VETDATA/docs/SurveysAndStudies/VETPOP.pdf)
 - [50% with an identified cognitive disability](https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf)
 - [50% primarily mobile users](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125614/#:~:text=The%20rate%20of%20smartphone%20ownership,low%20levels%20of%20current%20engagement.)
@@ -57,26 +55,26 @@ Try to meet the following numbers (based on VA statistics) in your sample as a *
 - [17% with immigrant origins](https://www.google.com/url?q=https://www.migrationpolicy.org/article/immigrant-veterans-united-states-2018&sa=D&source=editors&ust=1625685989316000&usg=AOvVaw3BUzLAZ-kcn0HyefpbWihq)
 - [10% women](https://www.womenshealth.va.gov/womenshealth/latestinformation/facts.asp#:~:text=Women%20Veterans%20Health%20Care,-Facts%20and%20Statistics&text=The%20current%20projected%20percentage%20of,years%20for%20their%20male%20counterparts.)
 
-You might want to include a participant from the following underserved communities:
-- Native American Veterans, [who have the highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women).
+You might want to also include a participant from some of the following underserved communities:
+- Native American Veterans, who have the [highest per-capita involvement of any population to serve in the U.S. military](https://www.nicoa.org/american-indian-veterans-have-highest-record-of-military-service/#:~:text=American%20Indians%20and%20Alaska%20Natives,conflict%20for%20over%20200%20years.&text=Nearly%2020%20percent%20of%20American,all%20other%20servicemembers%20were%20women).
 - Veterans in the LGTBQ+ community, given past direction from the VA secretary for a review of [VA policies to ensure that transgender Veterans and employees do not face discrimination](https://blogs.va.gov/VAntage/85152/secretary-orders-review-vas-transgender-policies/) on the basis of their gender identity and expression.
 - Veterans with other than honorable discharge.
 - Immigrant Veterans or Veterans from immigrant families.
-- Veterans living abroad
-- Non-English speakers
+- Veterans living abroad.
+- Non-English speakers.
 
-If time and budget allows, we recommend testing with Veterans who use the following AT. Ideally aim to include several from each group across iterative studies:
+We also recommend testing with some Veterans who use the following assistive technologies (ideally several from each group across iterative studies):
 - Screen reader (mobile and desktop, beginner and advanced)
 - Magnification 
 - Voice command/speech recognition apps 
 
-If relevant to your study, your sample may also aim to include:
+If relevant to your study, you may also want to include
 - Family members and caregivers
-- Veteran service officers (VSOs)
+- Veteran Service Officers (VSOs)
 
 When planning your study, to figure out **how many people from various categories to recruit**, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
 
-After your study, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to tally and share how many participants you talked to in each of the underserved groups. Take a screenshot of the resulting table and use Github Copilot to generate an accessible version for your research findings report. 
+After your study, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to tally and **share how many participants you talked to from each of the underserved groups**. Take a screenshot of the resulting table and use Github Copilot to generate an accessible version for your research findings report. 
 
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved group" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
