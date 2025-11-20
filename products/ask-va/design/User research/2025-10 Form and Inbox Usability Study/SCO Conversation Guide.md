@@ -1,4 +1,4 @@
-# SCO Conversation Guide for Form and Inbox Usability Study_
+# SCO Conversation Guide for Form and Inbox Usability Study
 
 ## Moderator logistics 📋✅
 
@@ -45,7 +45,7 @@
 
 Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle, here to help us take notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them I have a few things that I want to go over with you about what you can expect from this session. 
 
-- Today we're going be talking about a digital support channel for Veterans and other submitters.
+- Today we're going be talking about a digital support channel for Veterans and other submitters like yourself.
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.  
     
@@ -53,13 +53,12 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
     
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate will not affect your benefits or standing with the VA in any way. If you would like to stop the session or don’t want to answer a question for any reason, that's no problem. Please let me know.  
     
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**  
+- As I mentioned at the start, I've got one or two team members who would like to join us to observe and take notes. **Are you okay with a couple of additional observers during this session?**  
     
   - **If no:** Use Slack to kindly ask the observers to leave the Zoom.  
   - **If yes:** Admit observers.  
   - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)  
   - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-
 
 - During part of our session today, **you'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. We will also be providing you with an account specifically for testing, so you will not see any of your own personal information. 
 
@@ -83,9 +82,10 @@ Thanks for joining us today\! My name is **Elena**. I have my teammate, Danielle
 
 Before we look at the website, let’s start with a couple warm-up questions.
 
-1. Describe your role as a School Certifying Official / Work Study Site Supervisor.   
-2. Walk me through your overall process as a SCO / WSSS, specifically noting how your role interacts with Veteran Affairs.   
-3. Have you used Ask VA in the last 6 months?  
+1. Tell us a little bit about yourself. (Name, role, years of experience in your role, and whether or not you're a Veteran.) 
+2. Describe your role as a School Certifying Official / Work Study Site Supervisor.   
+3. Walk me through your overall process as a SCO / WSSS, specifically noting how your role interacts with Veteran Affairs.   
+4. Have you used Ask VA in the last 6 months?  
    - If yes, can you describe your most recent experience with Ask VA?  
      - How frequently are you using Ask VA?   
      - How many submissions are you completing a week or month?  
@@ -100,17 +100,11 @@ Now we’re going to move into the next part of this session. I’m going to pro
 > [!NOTE]
 > Depending on which Group a participant is in (A or B) they may go through staging or the prototype first. 
 
-**Staging**  
-You’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-
-**Prototype**  
-I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-
-[Link available here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
+[Links available here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
 
-Now imagine, you’re needing to submit documentation on behalf of a student for their education /work study benefits. You’ve been directed to Ask VA to submit your documentation. Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
+Now imagine, you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Before you click on anything to complete this task, take a second to look around and talk out loud about what it is that you’re seeing. 
 
 
 - As you’re seeing this (for possibly the first time),   
@@ -125,13 +119,10 @@ Now show us how you would use Ask VA to submit your documentation.
   - How do you interpret the lists you’re seeing? What do they mean to you?  
   - How important do you think these questions are?  
   - What would you do, if you couldn’t find an option that fit your needs?  
-- **School Facility**  
-  - What does the school facility mean to you?
 
 - **Question**
 
-  _(IF STAGING)_ Feel free to type in anything that you normally would here for this kind of task.   
-  _(IF PROTOTYPE)_ You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
+ You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
 
   -  *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?
   - What information do you think is important to include in your question?  
@@ -157,7 +148,7 @@ Now show us how you would use Ask VA to submit your documentation.
 - How do you feel about the length of the form?
 - What did you like about using Ask VA to submit documentation? What didn’t you like?   
 - What would you do next after submitting? What would you expect Ask VA to do next?
-- What differences might you expect when completing the form as a Veteran rather than as an SCO?
+- _(IF VETERAN)_ What differences might you expect when completing the form as a Veteran rather than as an SCO?
 - What might prompt you to return to Ask VA related to this specific submission? Is there anything in your process that leads you back here?
 
 ## Task 2: Review Question in Inbox \- 5 minutes
@@ -166,12 +157,6 @@ Now show us how you would use Ask VA to submit your documentation.
 
 > [!NOTE]
 > Participants will complete Task 2 in the same environment they completed Task 1. 
-
-**Staging**  
-You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-
-**Prototype**  
-I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 
 [Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
@@ -188,7 +173,6 @@ Now let’s imagine, **\[Prompt from last question\]** and you need to review a 
   - Is there anything else that isn’t here that might be helpful to you in finding your previous question?
   - What order are you seeing your questions in? What order would you like to see them in?
 
-
 #### Things to watch for:
 
 - Where did they struggle, succeed? (Sort, filter, status, clicking a card)
@@ -196,7 +180,7 @@ Now let’s imagine, **\[Prompt from last question\]** and you need to review a 
 #### 	Follow-up questions
 
 - What did you like about reviewing your previous Ask VA submissions? What didn’t you like?
-- What differences might you expect when reviewing questions related as a Veteran rather than as an SCO?
+- What differences might you expect when reviewing questions as a Veteran rather than as an SCO/WSSS?
 
 
 Now we’re going to ask you to complete the same tasks in a slightly different system. Some things may be very similar, while others may be completely different. We want to understand which experience you prefer. 
@@ -210,24 +194,17 @@ Now we’re going to ask you to complete the same tasks in a slightly different 
 > [!NOTE]
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment.
 
-**Staging**  
-Here you’ll need to login through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-
-**Prototype**  
-I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
-
 [Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
 ##
 
-Just as we did before, I want you to imagine you’re needing to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us again how you would use Ask VA to submit your documentation. 
+Just as we did before, I want you to imagine you need to submit documentation on behalf of a student for their education benefits. You’ve been directed to Ask VA to submit your documentation. Show us again how you would use Ask VA to submit your documentation. 
 
 #### Probing questions:
 
 - **Question**
 
-  _(IF STAGING)_ Feel free to type in anything that you normally would here for this kind of task.   
-  _(IF PROTOTYPE)_ You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
+  You won't be able to type anthing into this field, but talk outloud about what you might want to type in here.   
 
   - *(IF STAGING)* How did you determine what to write in the subject field vs. the question field?  
   - What information do you think is important to include in the  question field?  
@@ -257,12 +234,6 @@ Just as we did before, I want you to imagine you’re needing to submit document
 
 > [!NOTE]
 > Participants will now complete the same tasks as 1 and 2 in the opposite environment.
-
-**Staging**  
-You’ll need to login again through ID.me. I've provided a link, email, and password for you in the chat. You can click through the additional login screens after your password to get to where we need to start. 
-
-**Prototype**  
-I've provided a link for you in the chat. Imagine that you've already logged into your VA.gov account. 
 
 [Links here.](https://docs.google.com/document/d/1aDnIBf45PX0PtCS0inuKdzuyuuGfAs8jZdpbqpCAs8Y/edit?tab=t.xqc68vb3ppax#heading=h.8naf3b6w1yra)
 
