@@ -527,7 +527,7 @@ This quarter several notable research activities where conducted based on the pr
 1. **Forms Status MVP Development:** Usability testing discovered issues with form completion in webview for app users. Recommendations for forms MVP in the app to focus on status view vs. form entry.
 
 2. **Accessibility Audit:** Accessibility issues discovered during usability testing and piloting shed light on app related issues driving the recommendation for a more comprehensive accessibility audit for the app based on core user flows. 
-- (ADE Team Ticketing Process)[https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md]
+- [ADE Team Ticketing Process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
 - Supporting documents needed: Core user flows documented to test
 
 3. **Research Processes for App Platform:** A need for experience teams to own research efforts for app related content as it relates to their specific area/feature identified and shared in monthly findings. Additional resources created to support experience team researchers included:
