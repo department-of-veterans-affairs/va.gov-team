@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [5 participants are not enough](#5-Participants-Are-Not-Enough)
-- [Maximum variation sampling](#Maximum-Variation-Sampling)
+- [Maximum variation sampling](#Maximum-Variation-Sampling-mvs)
 - [Lean MVS strategy](#Lean-MVS-Strategy)
 - [Deviant case (outlier) sampling](#Deviant-Case-Sampling)
 - [Critical case sampling](#Critical-Case-Sampling)
