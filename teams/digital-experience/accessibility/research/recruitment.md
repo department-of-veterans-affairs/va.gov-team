@@ -74,15 +74,15 @@ If relevant to your study, your sample may also aim to include:
 - Family members and caregivers
 - Veteran service officers (VSOs)
 
-To figure out **how many people from various categories to recruit**, use the [VA recruitment checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
+When planning your study, to figure out **how many people from various categories to recruit**, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
 
-. To include a summary of participants from underserved groups, put a screenshot of the table into your research findings and readout presentation.
+After your study, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to tally and share how many participants you talked to in each of the underserved groups. Take a screenshot of the resulting table and use Github Copilot to generate an accessible version for your research findings report. 
 
-<img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved community" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
+<img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved group" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
 > Example: VA recruitment checker from a study with 11 Veteran participants, 6 of which used assistive tech. 
 
-Should there be unique deviations within the findings based on particular characteristics, we recommend strategically confirming and disconfirming those cases within another iterative study.
+If your findings deviate based on particular characteristics, we recommend strategically confirming and disconfirming those cases with another iterative study.
 
 <br aria-hidden="true"/>
 
