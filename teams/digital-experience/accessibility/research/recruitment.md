@@ -74,11 +74,13 @@ If relevant to your study, your sample may also aim to include:
 - Family members and caregivers
 - Veteran service officers (VSOs)
 
-To simplify planning for recruitment, [use our VA recruitment checker spreadsheet on Google Sheets](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to check if you're meeting the right amount of numbers for your study. To include a summary of participants from underserved groups, put a screenshot of the table into your research findings and readout presentation.
+To figure out **how many people from various categories to recruit**, use the [VA recruitment checker spreadsheet](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
+
+. To include a summary of participants from underserved groups, put a screenshot of the table into your research findings and readout presentation.
 
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved community" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
-> An example of a study with 11 Veterans in the VA recruitment checker. You can take a screenshot of the tracker and present it to stakeholders in your research readout.
+> Example: VA recruitment checker from a study with 11 Veteran participants, 6 of which used assistive tech. 
 
 Should there be unique deviations within the findings based on particular characteristics, we recommend strategically confirming and disconfirming those cases within another iterative study.
 
