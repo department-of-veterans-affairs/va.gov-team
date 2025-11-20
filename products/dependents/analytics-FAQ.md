@@ -38,8 +38,8 @@ _This file is intended to record common questions that arise out of the dependen
 ## Dependents Product Analytics
 
 ### Picklist: What is the difference between the ``Duplicate Alert`` and the ``Duplicate Modal``?
-- "Duplicate modal" is shown to the Veteran when they are inside the array list loop and navigate away from the page with a duplicate (like DOB)
+- ``Duplicate modal`` is shown to the Veteran when they are inside the array list loop for adding a dependent and navigate away from the page with a duplicate (like DOB). It was released on 11/20/25.
    - The modal will only show for duplicate DoB when the user is either adding or editing a dependent
-- "Duplicate alert" is shown on the array list loop summary page and the review and submit page. It's a warning if the possible duplicate hasn't been acknowledged, and it's an info if it was acknowledged.
+- ``Duplicate alert`` is shown on the array list loop summary page and the review and submit page. It's a warning if the possible duplicate hasn't been acknowledged, and it's an info box if it was acknowledged. It was released on 11/6/25.
    - The alert will show on the summary page, but you have to initialize duplicates, so it will only show on the child & spouse summary page
    - The alert shows every time a user returns to the child and spouse summary page and review and submit page
