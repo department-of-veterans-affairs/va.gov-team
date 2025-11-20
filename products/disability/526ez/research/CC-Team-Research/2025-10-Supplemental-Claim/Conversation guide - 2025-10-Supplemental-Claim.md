@@ -44,6 +44,7 @@ My colleagues and I work on va.gov, improving the site so that Veterans can subm
 
 Before we start, I have a few things to go over with you:
 
+* This session will last about an hour and fifteen minutes - I want to confirm that that still works for you.
 * This session is going to have **two parts**. In the first part, we want to hear about your experience getting disability benefits. In the second part, we’ll look at some designs we’re working on for part of the website and get your feedback.  
 * What I hope to do today is to get a sense of how to best assist Veterans with disability benefits. What I don’t want to do is to add to any **frustration** you may have had with getting benefits. We may review things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the process in case they are with things that we can improve on in the future.  
 * In this session, we want to hear **your honest opinions**. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback.  
