@@ -2,6 +2,20 @@
 This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal CMS for VA.gov are aligned on any shared work or dependencies.
 
 ### Running Agenda
+11/26/2025
+* [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
+    * tickets have been updated
+    * Update to URL publishing process
+    * Setting up a Flagged Facility touchpoint since that is a different audience
+* Template Migration
+    * Launching finished templates in December:
+        * VAMC Health Services listing
+        * VAMC Operating Status
+        * VAMC Policies
+        * Vet Center Locations list
+        * VAMC Billing & Insurance
+        * VAMC Register for care
+        * VAMC Medical Records Office
 
 11/13/2025
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
