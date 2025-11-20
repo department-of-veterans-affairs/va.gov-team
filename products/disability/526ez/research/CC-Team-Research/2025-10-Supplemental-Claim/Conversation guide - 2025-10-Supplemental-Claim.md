@@ -278,8 +278,8 @@ Before you click on anything, I want to ask you some questions on this screen.
   * Why do you think that happened?  
   * What do you think about that?  
 * *(If they don’t notice, explain that Asthma and Hypertension are no longer available as options.)*  
-* Why do you think that happened?  
-* What do you think about that?
+  * Why do you think that happened?  
+  * What do you think about that?
 
 Now let’s add one more condition. This scenario is a little more complicated.
 
@@ -437,8 +437,8 @@ Before you click on anything, I want to ask you some questions in this screen.
   * Why do you think that happened?  
   * What do you think about that?  
 * *(If they don’t notice, explain that Asthma and Hypertension are no longer available as options.)*  
-* Why do you think that happened?  
-* What do you think about that?
+  * Why do you think that happened?  
+  * What do you think about that?
 
 Now let’s add one more condition. This scenario is a little more complicated.
 
