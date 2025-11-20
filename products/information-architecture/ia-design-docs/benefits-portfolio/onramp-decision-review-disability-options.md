@@ -1,5 +1,5 @@
 # IA Design for Onramp to DR tool -- Decision review options for disability claims
-**STATUS: In review (peer reviewed 11/20/25)**
+**STATUS: Complete (11/20/25)**
 
 **Team:** Benefits Decision Reviews
 
