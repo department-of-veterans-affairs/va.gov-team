@@ -80,7 +80,7 @@ We will conduct remote moderated usability testing sessions with 10 Veterans usi
 
 Test user login information for SM renewal flow: Emma.smith@id.me/Tester1&
 
-[Figma prototype for status testing](https://www.figma.com/proto/puYUxsa9cW7KsKDc1ztAOf/Status-Testing?page-id=0%3A1&node-id=2-8758&viewport=243%2C67%2C0.47&t=TX8HR32UqWDF5uF1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A5845)
+[Figma prototype for status testing](https://www.figma.com/proto/puYUxsa9cW7KsKDc1ztAOf/Status-Testing?page-id=0%3A1&node-id=1-5845&viewport=243%2C67%2C0.47&t=TX8HR32UqWDF5uF1-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A5845)
 
 We will need to set up a staging user that has the conditions:
 
