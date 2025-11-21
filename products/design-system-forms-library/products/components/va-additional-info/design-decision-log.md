@@ -7,6 +7,8 @@ Last updated: 11-21-2025
 
 ## ADR 001 - STRUCTURAL UPDATES
 
+Create a slim version of additional info - Design (phase 1) [#4916](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4916)
+
 ### Status: APPROVED
 
 - Date issue raised: 1-7-25  
