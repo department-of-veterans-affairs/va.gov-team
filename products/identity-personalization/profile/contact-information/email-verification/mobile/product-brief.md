@@ -69,7 +69,7 @@ The VA wants to ensure that important email communications reach Veterans from t
   * Resend contact email confirmation link
   * Temporary email send failure
   * Permanent email send failure
-  * Email confirmation link resent - **Noting that during Midpoint Review this is now appears in a modal** 
+  * Email confirmation link resent (modal) - **Noting that during Midpoint Review this is now appears in a modal** 
 * VAHB will utilize the same emails that the Authenticated Experience team creates. These include emails for user updates or adds a contact email address:
   * Confirm your email address
   * Email address confirmed
@@ -91,7 +91,7 @@ The VA wants to ensure that important email communications reach Veterans from t
 ## Solution Approach
  
 * The email verification user flow on the mobile app will align with the web user flow, so that this does not cause confusion for users.
-* Veterans will only see an alert to confirm their email if their login email does not match their email within the profile section of the app. This check will happen on the backend so that it is not disruptive to Veterans with matching emails.
+* Veterans will only see an alert to confirm their email if their login email does not match their contact email within the profile section of the app. This check will happen on the backend so that it is not disruptive to Veterans with matching emails.
 * If a Veteran confirms their email on VA.gov, this confirms a Veteran's email on VAHB; therefore, the alert will be dismissed on the VAHB. The same applies if a Veteran confirms their email through the email confirmation process on the mobile app, it will verify on VA.gov, and a Veteran would not see any additional alerts.
 * The mobile app will use the same landing pages as VA.gov, and will be developed by the Authenticated Experience team.  
 
