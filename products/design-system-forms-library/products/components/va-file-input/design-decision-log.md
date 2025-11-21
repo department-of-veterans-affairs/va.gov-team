@@ -40,9 +40,6 @@ The forms library will be responsible for:
 * Validating the password decrypts the PDF  
 * Transmitting the password securely to the backend along with the file
 
-**Open Item:**
-
-- Currently adding a password times out, which could prevent a user from entering the wrong password.  There is an [initiative](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4914#top) to update the designs to prevent a timeout issue on password.
 
 ### **Backend**
 
@@ -61,21 +58,7 @@ For PDF files with encryption:
 * The backend decrypts the PDF before final submission  
 * If decryption fails, the backend returns an appropriate error
 
-## **Consequences**
 
-* **Clear separation of concerns** \- Each layer (component, forms library, backend) has distinct responsibilities  
-* **Security** \- Password decryption happens server-side, keeping sensitive operations out of the client  
-* **Backend dependency** \- The backend must implement decryption logic for supported file types  
-* **Error handling complexity** \- Failed decryption errors must be communicated back through the forms library to the user  
-* **No client-side validation** \- Cannot verify password correctness before submission  
-* The forms library serves as a pass-through for password data rather than processing it
-
-## **Implementation Notes**
-
-* Applications using the `encrypted` property must handle the `vaPasswordChange` event  
-* The backend API must accept both file data and password parameters
-
-# 
 
 # **ADR 002 \- File Type Validation**
 
@@ -120,14 +103,6 @@ The following standardized error messages will be displayed:
 
 Applications requiring custom error handling outside the forms library can refer to the [implementation example in the DS v3 playground](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ds-v3-playground/pages/VaFileInputMultiple.jsx).
 
-**Consequences**
-
-* Centralized validation logic \- Single source of truth for file validation rules across the platform  
-* Consistent user experience \- Standardized error messages provide uniform feedback  
-* Reduced duplication \- Applications don't need to implement their own validation  
-* Maintainability \- Changes to validation logic only need to be made in one location  
-* Forms library dependency \- Applications using `va-file-input` outside the forms library will need to implement their own validation or extract the validation logic  
-* Applications requiring custom validation behavior can still implement their own logic, as demonstrated in the [DS v3 playground example](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ds-v3-playground/pages/VaFileInputMultiple.jsx)
 
 ## **ADR 001 \- Limiting the built-in functionality for encrypted and password protected files**
 
