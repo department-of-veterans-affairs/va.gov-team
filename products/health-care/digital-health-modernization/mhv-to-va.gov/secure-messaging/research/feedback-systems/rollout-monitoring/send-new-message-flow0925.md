@@ -118,6 +118,10 @@ First 30 days of feedback, November 10th - December 8th, 2025
 - Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
 - Selected quotes:  
   - TBD
+ 
+### Datadog
+- Messages sent: 5.8K messages sent with the new flow out of 12k total
+- Error rates: minimal - "Majority of errors  at ~1% are 403's  coming from expired vets-api token. These requests are automatically retried without any impact on the ultimate result of sending a message."
 
 ### Google analytics
 | Metric Name | Value |
