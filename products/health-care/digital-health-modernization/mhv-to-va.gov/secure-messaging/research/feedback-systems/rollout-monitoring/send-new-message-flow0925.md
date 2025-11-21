@@ -94,6 +94,15 @@
 | Unique users hitting new-flow endpoints | TBD |
 | Error types observed | TBD |
 
+
+### Datadog
+| Metric Name | Value |
+|---|---|
+| “Select different care team” click rate | 621 |
+| Select care team option on "recents" page | 1.57K |
+| Click on care system radio button | 376 |
+| Click on "can't find your care team" | 304 |
+| Click on "Update your contact list" | 122 |
 ---
 
 ## Stage C – **50% of users**
