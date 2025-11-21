@@ -1,5 +1,17 @@
 # **Authenticated Experience Team, Medallia Feedback Report, 10/2025**
 
+Office of the CTO - Digital Experience (OCTO-DE)
+
+Date: 10-2025
+
+Contact: Janelle Finnerty
+
+[Research Readout (PPT](https://dvagov.sharepoint.com/:p:/s/AuthenticatedExperience2/EUTFEA6joiROuyFlCBmyZ28B0nSSi6Go2-bVbKIsuASO5A?e=ItdKV0))
+
+
+
+## Jump to
+
 [My VA recommendations](#my-va-recommendations)
 
 [My VA a11 survey findings](#my-va-a11-survey-findings)
@@ -10,7 +22,7 @@
 
 [Profile a11 survey findings](#profile-a11-survey-findings)
 
-[Profile a11 survey findings](#profile-a11-survey-findings-1)
+[Profile feedback survey findings](#profile-feedback-survey-findings)
 
 
 
