@@ -46,11 +46,11 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the clarifications, start a claim, and add expenses to their claim.
+1. Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the clarifications, start a claim, and add expenses to their claim.
 
-`2.` Test that the content, including error messages and redirects, properly instructs Veterans on how to file their claim.
+2. Test that the content, including error messages and redirects, properly instructs Veterans on how to file their claim.
 
-`3.` Validate that users can leave, and re-enter, a claim in progress.
+3. Validate that users can leave, and re-enter, a claim in progress.
   
 ### Outcome
 
@@ -60,107 +60,48 @@ The learnings from this study will be used to determine critical fixes prior to 
 
 ### Research questions
 
-**`1.Does the user understand the qualifications around filing on VA.gov, and if they are unable to file on VA.gov, does our process successfully route them to BTSSS?
+1. Does the user understand the qualifications around filing on VA.gov, and if they are unable to file on VA.gov, does our process successfully route them to BTSSS?
 
-**`2.Are participants able to add mileage, as well as additional expenses with documentation, to their claim?
+2. Are participants able to add mileage, as well as additional expenses with documentation, to their claim?
 
-**`3.Can the participant successfully edit or delete an expense?
+3. Can the participant successfully edit or delete an expense?
 
-**`4.How does the participant navigate within the tool? 
+4. How does the participant navigate within the tool? 
 
-**`5. Is any functionality missing that prevents users from successfully filing a claim?
-
-> [!TIP]
->Enter more questions as needed
+5. Is any functionality missing that prevents users from successfully filing a claim?
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
-
-**[Enter hypotheses here]** 
+We hypothesize that a beneficiary will be able to complete a claim on Va.gov from start to finish. Beneficiaries may be confused by some of the nuances of complex claims, but our content and direction will allow them to successfully add expenses, leave a claim, re-enter, and submit a claim on VA.gov.
 
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
-
-</details>
-
-**[Enter methodology here]**
-
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-</details>
+User acceptance testing (UAT):
+- We will ask users to test key scenarios outlined in the test plan (TBD)
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [x] **Remote, moderated**
 - [ ] **In-person**
-      
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
+- Test scenarios
+- URL
+- NOTE: We need to determine if we are testing in prod or staging; if in prod, there is a increased risk of PII exposure as users will use their own information
 
 **For moderated usability tests:** 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-
 
 **If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
-	
+- TBD; likely recruitig internally or via Perigean
+
+  
+---- TBD ON RECRUITMENT AND TIMING
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
