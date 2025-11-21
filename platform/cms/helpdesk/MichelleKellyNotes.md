@@ -12,6 +12,10 @@
             * do the redirect, wait until it deploys
             * then do the url change in Drupal and 30 minutes later, it's live. We have a broken link for 30 minutes as opposed to 23 hours.
             * We determined this is a better strategy
+                * We want to look at the process some more to determine where we can streamline
+                * We want the archiving of the Facility page to happen asap after the redirect is complete
+                * We can change the process to archive the Health Services for an Editor so we don't need to wait for them, but we need to check if there are other locations in the System that offer the same HS, otherwise we need to archive at the System level as well
+                * We should look for ways to automate
     * Status of [Flagged Facilities tickets on the board](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
         * Stefanie and Sofia went through and updated all tickets, closing many
     * Mobile Medical Units are VAMC Facilities per Drupal, but they're also not really considered true facilities by VAMC editors.
@@ -19,7 +23,8 @@
         * MMUs at this time: 122 total -- 27 archived, 74 in draft, 21 published
         * May want to consider editor outreach re: whether MMUs are in use and if they need homepages.
             * Ask Justin
-            * Ask Editors what they need 
+            * Ask Editors what they need
+            * There are different kinds of MMUs: mobile units that move on a schedule and offer services to unhoused Veterans, mobile vaccination units, ones used only in emergencies, etc.
         * How strict should we be about enforcing health services with MMUs?
             * Ask Justin
     * St. Paul to Twin Cities Vet Center name change – is it happening? Mixed updates from Jira, would like to confirm.
