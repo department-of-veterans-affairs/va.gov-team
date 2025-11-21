@@ -32,7 +32,7 @@
   - Charts here (if applicable)
 ---
 
-## Stage A – **5% of users**
+## 11/10/25 – **5% of users**
 
 ### Medallia feedback
 - Responses: **TBD**  
@@ -64,7 +64,7 @@
 
 ---
 
-## Stage B – **25% of users**
+## 11/10/25 – **25% of users**
 
 ### Medallia feedback
 - Responses: **TBD**  
@@ -105,7 +105,7 @@
 | Click on "Update your contact list" | 122 |
 ---
 
-## Stage C – **50% of users**
+## 11/12/25 – **50% of users**
 
 ### Medallia feedback
 - Responses: **TBD**  
@@ -137,39 +137,7 @@
 
 ---
 
-## Stage D – **75% of users**
-
-### Medallia feedback
-- Responses: **TBD**  
-- CSAT (avg/distribution): **TBD**  
-- Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
-- Selected quotes:  
-  - TBD
-
-### Google analytics
-| Metric Name | Value |
-|---|---|
-| Unique users (new flow) | TBD |
-| Views per user | TBD |
-| `/start-message` views | TBD |
-| `/select-care-teams` views | TBD |
-| “Select different care team” click rate | TBD |
-| Back breadcrumb events / rate | TBD |
-| Completion rate (start → submit) | TBD |
-| Step drop-offs | TBD |
-| Avg time to complete | TBD |
-
-### Datadog
-| Metric Name | Value |
-|---|---|
-| VA.gov – Endpoint errors (new-flow URLs) | TBD |
-| SM API – Endpoint error count | TBD |
-| Unique users hitting new-flow endpoints | TBD |
-| Error types observed | TBD |
-
----
-
-## Stage E – **100% of users**
+## 11/13/25 – **100% of users**
 
 ### Medallia feedback
 - Responses: **TBD**  
