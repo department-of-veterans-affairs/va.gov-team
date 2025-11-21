@@ -6,11 +6,11 @@
 We will create a digital version of VA Form 21P-601 (Application for Accrued Amounts Due a Deceased Beneficiary) that allows users to apply online for benefits that were owed to a deceased beneficiary. This online form will make it easier to request these benefits without having to mail in a paper form. 
 
 ## Problem Statement
-*As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-601 - Application for Accrued Amounts Due a Deceased Beneficiary - is on the list of those 11 forms. 
+*As part of the Benefits Intake Optimization Project, the VA has a goal to digitize 11 new forms by 11/11/2025. Form 21P-601 - Application for Accrued Amounts Due a Deceased Beneficiary - is on the list of those 11 forms.* 
 
-This is a critical form for survivors of deceased veterans or other VA beneficiaries who may be entitled to benefits that were earned but not paid prior to the beneficiary's death that allows eligible individuals to claim these "accrued" amounts.
+*This is a critical form for survivors of deceased veterans or other VA beneficiaries who may be entitled to benefits that were earned but not paid prior to the beneficiary's death that allows eligible individuals to claim these "accrued" amounts.*
 
-The current process is entirely paper based, and dependent on physical mail. Currently, there is no option to submit this form electronically.*
+*The current process is entirely paper based, and dependent on physical mail. Currently, there is no option to submit this form electronically.*
 
 ## Desired User Outcomes
 
