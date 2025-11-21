@@ -55,6 +55,7 @@ Day 1:
 | Click on "Update your contact list" | 122 |
 <img width="748" height="748" alt="Screenshot 2025-11-21 at 12 43 12 PM" src="https://github.com/user-attachments/assets/03a49782-6b1e-498c-865f-6f03633cf3b6" />
 
+
 Day 2:
 <img width="913" height="736" alt="Screenshot 2025-11-21 at 2 04 32 PM" src="https://github.com/user-attachments/assets/d75b5fab-e306-4ea5-9d51-1c24b63de085" />
 
@@ -82,6 +83,7 @@ Day 2:
   - TBD
 
 User Feedback 11/13 - 11/17:
+
 **Reduced access to providers and past contacts**
 - I have two autoimmune diseases… now I cannot find endo and they are hard to get a hold of by phone.
 - Most of my doctors and dentist are missing on Send Message.
