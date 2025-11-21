@@ -94,7 +94,8 @@ TBD
 ### G. Return to Meds
 - Expected return after sending  
 - Early returns  
-- Unexpected navigation loops  
+- Unexpected navigation loops
+- Return to SM to review "sent message" 
 
 ---
 
