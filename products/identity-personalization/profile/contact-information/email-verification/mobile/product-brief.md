@@ -48,7 +48,8 @@ The VA wants to ensure that important email communications reach Veterans from t
     * The Authenticated Experience team notes that the team is holding on the annual reminder until post launch.
   * When a user adds a new contact email
 * The VA Mobile App team is currently working on an initiative that prompts the Veteran to update or add an email in their profile for Veterans who haven't updated or confirmed their email since March 1, 2025. The MHV email confirmation is planned to be removed by the end of the year (2025), but the timeline could be impacted by the shutdown.
-* Figma [file](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-22740&t=xAGgVx41WfMhNxVP-0) for VA.gov email confirmation flow. 
+* Figma [file](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-22740&t=xAGgVx41WfMhNxVP-0) for VA.gov email confirmation flow.
+* The Authenticated Experience team is looking to launch the Email Verification campaign on April 1st, 2026. TBD if the MFS team can also commit to a timeline that aligns with the Mobile App Release schedule. 
  
 ## VAHB Email Confirmation Feature MVP
 
