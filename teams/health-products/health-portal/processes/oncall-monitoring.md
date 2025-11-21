@@ -64,6 +64,23 @@ Please be familiar with the [VA Platform Incident Response for application teams
 
 VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other systems for data and functionality, and we should be prepared to inform and engage with those system owners to resolve issues
 
+### OCTO Watch Officer
+
+The OCTO Watch Offier will get notified of P1 and P2 alerts from Datadog monitors. The Watch Officer may reach out to the on-call engineer for assistance in investigating and resolving the issue.
+
+The Watch Officer may provide a ticket from [octo_watchofficer/issues](https://github.com/department-of-veterans-affairs/octo_watchofficer/issues) and recommend the following response:
+
+1. Work with your team to determine the root cause of the alert
+2. Depending on the root cause take one of the actions below
+
+|Root cause |	Action |
+|---|---|
+| Error in your application	| Add a comment with a link to the issue tracking the fix |
+| Error in an upstream system |	Add a comment with a link to the issue tracking the conversation with the point of contact for that system |
+| Overly sensitive or 'flapping' monitor | Work with @department-of-veterans-affairs/watch-engineers to adjust the monitor |
+| This alert is not actionable |	Add a comment explaining why it is not actionable |
+
+
 ### Caveats
 
 The alerts that come from Datadog can tell you when something is happening, but won't provide clear information about what is going wrong. The VA's monitors often use a measurement tool called [`statsd`](https://github.com/statsd/statsd) to monitor for statistical anomalies, but at the cost of links to logs that can provide more detail.
