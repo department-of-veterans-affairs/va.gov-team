@@ -1,9 +1,6 @@
 # Rollout Monitoring for **Secure Messaging – Start a New Message** on VA.gov
 First 30 days of feedback, November 10th - December 8th, 2025
 
-## Overall Trends
-
-
 ## Resources
 - **Release plan:** [Update Start a New Message Flow for Oracle Health](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/Release%20Plan-OHSMFlow-MVP.md)
 - **Datadog dashboards:** [MHV Secure Messaging Metrics](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics) | [Additional section](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics?tile_focus=8373464859678247)  
