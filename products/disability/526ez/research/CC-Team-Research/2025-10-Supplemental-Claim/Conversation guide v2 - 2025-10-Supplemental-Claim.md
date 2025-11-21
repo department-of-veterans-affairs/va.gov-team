@@ -107,7 +107,8 @@ Specific probes:
 
 ## Disagreements
 
-Has there been a time when you disagreed with a decision the VA made about your disability benefits?  
+Has there been a time when you disagreed with a decision the VA made about your disability benefits?
+
 *If no:*
 
 * What do you think might be the options if you did disagree with a VA decision?
