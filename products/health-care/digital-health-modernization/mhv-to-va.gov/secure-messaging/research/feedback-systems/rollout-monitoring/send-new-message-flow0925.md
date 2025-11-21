@@ -35,68 +35,11 @@ First 30 days of feedback, November 10th - December 8th, 2025
 
 ## 11/10/25 – **5% of users**
 
-### Medallia feedback
-- Responses: **TBD**  
-- CSAT (avg/distribution): **TBD**  
-- Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
-- Selected quotes:  
-  - TBD
-
-### Google analytics
-| Metric Name | Value |
-|---|---|
-| Unique users (new flow) | TBD |
-| Views per user | TBD |
-| `/start-message` views | TBD |
-| `/select-care-teams` views | TBD |
-| “Select different care team” click rate | TBD |
-| Back breadcrumb events / rate | TBD |
-| Completion rate (start → submit) | TBD |
-| Step drop-offs | TBD |
-| Avg time to complete | TBD |
-
-### Datadog
-| Metric Name | Value |
-|---|---|
-| VA.gov – Endpoint errors (new-flow URLs) | TBD |
-| SM API – Endpoint error count | TBD |
-| Unique users hitting new-flow endpoints | TBD |
-| Error types observed | TBD |
-
 <img width="913" height="454" alt="Screenshot 2025-11-21 at 12 42 40 PM" src="https://github.com/user-attachments/assets/438e1720-6ada-4806-af03-dac385993b99" />
 
 ---
 
 ## 11/10/25 – **25% of users**
-
-### Medallia feedback
-- Responses: **TBD**  
-- CSAT (avg/distribution): **TBD**  
-- Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
-- Selected quotes:  
-  - TBD
-
-### Google analytics
-| Metric Name | Value |
-|---|---|
-| Unique users (new flow) | TBD |
-| Views per user | TBD |
-| `/start-message` views | TBD |
-| `/select-care-teams` views | TBD |
-| “Select different care team” click rate | TBD |
-| Back breadcrumb events / rate | TBD |
-| Completion rate (start → submit) | TBD |
-| Step drop-offs | TBD |
-| Avg time to complete | TBD |
-
-### Datadog
-| Metric Name | Value |
-|---|---|
-| VA.gov – Endpoint errors (new-flow URLs) | TBD |
-| SM API – Endpoint error count | TBD |
-| Unique users hitting new-flow endpoints | TBD |
-| Error types observed | TBD |
-
 
 ### Datadog
 | Metric Name | Value |
@@ -111,38 +54,10 @@ First 30 days of feedback, November 10th - December 8th, 2025
 ---
 
 ## 11/12/25 – **50% of users**
-
-### Medallia feedback
-- Responses: **TBD**  
-- CSAT (avg/distribution): **TBD**  
-- Task completion: Yes **TBD** / No **TBD** / No response **TBD**  
-- Selected quotes:  
-  - TBD
  
 ### Datadog
 - Messages sent: 5.8K messages sent with the new flow out of 12k total
 - Error rates: minimal - "Majority of errors  at ~1% are 403's  coming from expired vets-api token. These requests are automatically retried without any impact on the ultimate result of sending a message."
-
-### Google analytics
-| Metric Name | Value |
-|---|---|
-| Unique users (new flow) | TBD |
-| Views per user | TBD |
-| `/start-message` views | TBD |
-| `/select-care-teams` views | TBD |
-| “Select different care team” click rate | TBD |
-| Back breadcrumb events / rate | TBD |
-| Completion rate (start → submit) | TBD |
-| Step drop-offs | TBD |
-| Avg time to complete | TBD |
-
-### Datadog
-| Metric Name | Value |
-|---|---|
-| VA.gov – Endpoint errors (new-flow URLs) | TBD |
-| SM API – Endpoint error count | TBD |
-| Unique users hitting new-flow endpoints | TBD |
-| Error types observed | TBD |
 
 ---
 
@@ -165,28 +80,6 @@ User Feedback 11/13 - 11/17:
 - I selected add contact list… none of the 37 contacts I chose got added.
 **Search issue (single report so far)**
 - I was trying to contact the eye clinic in Columbia MO and it asked to type the first 3 letters of the facility. I typed COL and nothing. I tried every combination I could think of… eye clinic, Harry S Truman, Green Team… NOTHING. There used to be a drop down list.
-
-
-### Google analytics
-| Metric Name | Value |
-|---|---|
-| Unique users (new flow) | TBD |
-| Views per user | TBD |
-| `/start-message` views | TBD |
-| `/select-care-teams` views | TBD |
-| “Select different care team” click rate | TBD |
-| Back breadcrumb events / rate | TBD |
-| Completion rate (start → submit) | TBD |
-| Step drop-offs | TBD |
-| Avg time to complete | TBD |
-
-### Datadog
-| Metric Name | Value |
-|---|---|
-| VA.gov – Endpoint errors (new-flow URLs) | TBD |
-| SM API – Endpoint error count | TBD |
-| Unique users hitting new-flow endpoints | TBD |
-| Error types observed | TBD |
 
 ---
 
