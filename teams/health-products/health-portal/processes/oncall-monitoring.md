@@ -66,7 +66,7 @@ VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other
 
 ### OCTO Watch Officer
 
-The OCTO Watch Offier will get notified of P1 and P2 alerts from Datadog monitors. The Watch Officer may reach out to the on-call engineer for assistance in investigating and resolving the issue.
+The OCTO Watch Officer will get notified of P1 and P2 alerts from Datadog monitors. The Watch Officer may reach out to the on-call engineer for assistance in investigating and resolving the issue.
 
 The Watch Officer may provide a ticket from [octo_watchofficer/issues](https://github.com/department-of-veterans-affairs/octo_watchofficer/issues) and recommend the following response:
 
