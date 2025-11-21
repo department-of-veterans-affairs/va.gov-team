@@ -44,11 +44,10 @@ My colleagues and I work on va.gov, improving the site so that Veterans can subm
 
 Before we start, I have a few things to go over with you:
 
-* This session will last about an hour and fifteen minutes - I want to confirm that that still works for you. There are opportunities for breaks if you need them, just let us know ~~and we will also prompt you during the session for a break~~.
+* This session will last about an hour and fifteen minutes - I want to confirm that that still works for you. There are opportunities for breaks if you need them, just let us know. 
 * This session is going to have **two parts**. In the first part, we want to hear about your experience getting disability benefits. In the second part, we’ll look at some designs we’re working on for part of the website and get your feedback.  
 * What I hope to do today is to get a sense of how to best assist Veterans with disability benefits. What I don’t want to do is to add to any **frustration** you may have had with getting benefits. We may review things that have caused you frustration in the past, and I want you to know up front that I can’t have an impact on your personal situation. However, I do want to hear about your frustrations with the process in case they are with things that we can improve on in the future.  
 * In this session, we want to hear **your honest opinions**. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback.  
-* ~~This entire session should take about **75 minutes**. I want to be sure not to keep you over time, so I may occasionally prompt you with the next question or topic~~.  
 * If you would like to **stop the session or do not want to answer a question** for any reason at any time, that's no problem, just let me know. You’ll be compensated no matter how much of the session we complete.  
 * Observers  
   * Perigean did ask for your consent to allow some other folks to listen in, but I want to be sure before we get going. Are you okay with another person listening in during this session?  
@@ -104,7 +103,7 @@ Specific probes:
 * When you got ready to actually apply for disability, what was going through your mind?  
 * How did you find out what the VA decided?  
   * If you remember, what kinds of things did the letter tell you?  
-* ~~Probe about service connection.~~ What caused your condition? Did the VA agree with that? 
+* What caused your condition? Did the VA agree with that? 
 
 ## Disagreements
 
@@ -119,30 +118,27 @@ Has there been a time when you disagreed with a decision the VA made about your 
 
 *Specific probes:*
 
-* ~~What had you applied for?~~ 
 * What did the VA decide?  
-* ~~What did VA tell you about their decision?~~
 * Why did they decide that?  
 * What did you disagree with? Why?  
 * What did you do when you found out?  
 * Did you consider making a formal appeal?  
 * What options were available to you?  
 * How did you decide what to do?  
-* ~~(If they appealed) What kind of backup or documentation did you provide?~~
+* (If they appealed) What kind of backup or documentation did you provide?
 * What happened then?  
-* ~~What did you think about the experience?~~  
 * What parts of the process were confusing or unclear?
 
 *If they went through a Supplemental Claim:*
 
 * Imagine you were talking to a buddy who just found out the VA denied their claim and they were thinking of appealing it. How would explain the appeal process to them? What advice would you give them?
 
-## 0% ratings
+## 0% ratings (if there's time)
 
 Do you have any conditions that are rated at 0%?
-
-* How did that happen?  
-* In your own words, could you explain how there could be a disability rated at 0%?
+*If yes:*
+    * How did that happen?  
+    * In your own words, could you explain how there could be a disability rated at 0%?
 
 ## Secondary conditions (if there’s time)
 
@@ -152,12 +148,8 @@ So it’s like an indirect cause, but it’s still because of your military serv
 * Have you ever had a situation like that? Have you ever heard of it?   
 * Do you happen to know how the VA refers to this situation?
 
-~~## Claims for increase (if there’s time)~~
 
-~~Have you ever asked the VA to give you a higher rating on a disability they’d already granted?  
-Tell me about that.~~
-
-~~Great, thank you for sharing your experiences with me.~~ 
+Great, thank you for sharing your experiences with me. 
 
 One more question…
 
@@ -270,12 +262,11 @@ Before you click on anything, I want to ask you some questions on this screen.
 * What can you tell me about what’s changed on this screen?  
 * Is that what you expected?
 
-~~### 🍎 Apple Task 3: Appeal a rated condition (Migraines)~~
+### 🍎 Apple Task 3: Review main screen
 
-~~##### Review your conditions screen(s) (continued from task 2\)
+##### Review your conditions screen(s) (continued from task 2\)
 
-* I’m going to ask you to add one more thing.  
-* Let’s say you want to add another health issue to this form. What would you do?
+* Let’s say you want to add one more health issue to this form. What would you do?
 
 ##### Add a condition screen
 
@@ -289,39 +280,9 @@ Before you click on anything, I want to ask you some questions on this screen.
   * Why do you think that happened?  
   * What do you think about that?
 
-Now let’s add one more condition. This scenario is a little more complicated.
-
-Imagine that about a year ago, you filed a claim for Migraines. VA approved it and gave you a 10% rating. But you believe they should have given you a higher rating, and you want the VA to reconsider their 10% decision. You went back to your employer and got them to write a letter about how many times you had to miss work because of your migraines, going all the way back to when you filed that claim a year ago. This letter should help prove that your migraines were more severe than the VA rating percent.
-
-* Do you have any questions about this scenario?  
-* What do you think your options would be to ask the VA to reconsider their 10% rating decision?
-
-OK, looking at the screen now, what would you do?
-
-* What would you expect to happen next?  
-* Go ahead and click Continue
-
-##### Date worsened screen
-
-* Is this what you expected to see?  
-* What would you do on this screen?  
-* What date would you enter?  
-* Let’s say you first applied for migraines in November of 2024, about a year ago. And the VA made their decision in January of 2025\.  
-* *Instruct Veteran to click on date field to populate with November 1, 2024.*
-* Go ahead and click Continue.
-
-##### Review your conditions screen(s)
-
-* Is that what you expected to see?  
-* What’s going through your mind as you look at the list of things here?  
-* If you’ve finished adding all the conditions you want to your claim, what would you do?
-
-Let’s say that’s everything you want to claim today. What would you do next?
-
-### 🍎 Apple Rating
-
-Great\! Thank you for walking through those different scenarios with me. I’d like you to rate this prototype for ease-of-use on a scale of 1 to 4, where 1 is not at all easy, and 4 is very easy.
-
+#### Transition to next topic
+OK, we're going to stop here and move to a different topic. Click Continue at the bottom. (Should modify prototype so it goes to end screen)
+    
 ## Prototype 2 (10-15 min)
 
 OK, we’re now going to switch to the other prototype. We’ll walk through the same set of tasks, but the screens are a little bit different. Please continue to verbalize your thoughts as we go. Before we begin, would you like to take a brief break now?
@@ -501,20 +462,19 @@ OK, looking at the screen now, what would you do?
 * What’s going through your mind as you look at the list of things here?  
 * Let’s say that’s everything you want to claim today. What would you do next?
 
-### 🍌 Banana Rating
-
-Great! Thank you for walking through those different scenarios with me. I’d like you to rate this prototype for ease-of-use on a scale of 1 to 4, where 1 is not at all easy, and 4 is very easy.
-
 # Compare prototypes
 
 Now I’d like to hear from you how the two prototypes compared to each other. 
 
 * Did you find one of them easier to use?  
 * Why was that one easier?
+* What other differences did you notice between them?
 
-What other differences did you notice between them?
-
-* Follow-up probes
+Direct participant to open compare screen from End of prototype screen.
+* What do you think about the different versions of this screen?
+* If this was actually your disability information, what would show up here?
+* What would show up differently between the two screens?
+* Which one would you prefer to use, and why?
 
 # Post-Task Interview 
 
@@ -530,9 +490,7 @@ What other differences did you notice between them?
 
 ## Secondary conditions
 
-I want to ask a couple more questions about different types of conditions. Let’s look at the main screen in \[second prototype\]. 
-
-*Instruct participant to open Add a condition screen in prototype.* 
+I want to ask a couple more questions about different types of conditions. Let’s look at the Apple screen (in the Compare Prototype page). 
 
 Earlier in the session we talked about a situation where a disability that you got while in service later caused a new, different problem. Let’s say you have this knee condition that you have a VA rating for, but lately you’ve started having a new problem \- you’re getting back pain because you’ve been overcompensating for the knee. So now you want to claim back pain as a disability. 
 
