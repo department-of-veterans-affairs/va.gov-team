@@ -2,7 +2,7 @@ WEBVTT
 
 1
 00:00:02.150 --> 00:00:09.630
-Renata: Okay, I have started the recording, and I'd like to confirm, are you comfortable if I record my screen and the audio as we talk today?
+Moderator: Okay, I have started the recording, and I'd like to confirm, are you comfortable if I record my screen and the audio as we talk today?
 
 2
 00:00:09.630 --> 00:00:10.360
@@ -10,7 +10,7 @@ P8: Yes.
 
 3
 00:00:10.740 --> 00:00:19.389
-Renata: Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
+Moderator: Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
 4
 00:00:19.820 --> 00:00:20.520
@@ -18,7 +18,7 @@ P8: Yes.
 
 5
 00:00:20.810 --> 00:00:30.760
-Renata: Alright, thank you. So, before we look at that prototype that I mentioned before, we have just a few warm-up questions. Do you have a service-connected disability at VA?
+Moderator: Alright, thank you. So, before we look at that prototype that I mentioned before, we have just a few warm-up questions. Do you have a service-connected disability at VA?
 
 6
 00:00:30.760 --> 00:00:31.480
@@ -26,7 +26,7 @@ P8: Yes.
 
 7
 00:00:31.890 --> 00:00:35.640
-Renata: Okay, do you mind sharing what your disability rating is?
+Moderator: Okay, do you mind sharing what your disability rating is?
 
 8
 00:00:35.640 --> 00:00:37.090
@@ -34,7 +34,7 @@ P8: 100%.
 
 9
 00:00:37.090 --> 00:00:44.289
-Renata: Okay, and do you res… Okay, do you receive direct deposit for your monthly compensation payments today?
+Moderator: Okay, and do you res… Okay, do you receive direct deposit for your monthly compensation payments today?
 
 10
 00:00:44.290 --> 00:00:45.030
@@ -42,7 +42,7 @@ P8: They do.
 
 11
 00:00:45.280 --> 00:00:50.210
-Renata: Okay, and have you heard of the Foreign Medical Program through the VA before?
+Moderator: Okay, and have you heard of the Foreign Medical Program through the VA before?
 
 12
 00:00:51.760 --> 00:00:53.689
@@ -50,7 +50,7 @@ P8: Yes, I'm signed up for it.
 
 13
 00:00:54.420 --> 00:01:00.099
-Renata: Awesome, okay. Can you describe what the program is in your own words?
+Moderator: Awesome, okay. Can you describe what the program is in your own words?
 
 14
 00:01:01.080 --> 00:01:02.120
@@ -66,7 +66,7 @@ P8: When I was talking to a VA rep a few years ago, he suggested I sign up for i
 
 17
 00:01:23.570 --> 00:01:24.190
-Renata: Oh, great.
+Moderator: Oh, great.
 
 18
 00:01:24.190 --> 00:01:24.630
@@ -74,7 +74,7 @@ P8: Probably.
 
 19
 00:01:25.660 --> 00:01:34.030
-Renata: I'm curious, who… was the rep at, like, a VA medical facility or regional office, or was it an accredited representative? Who mentioned the program to you?
+Moderator: I'm curious, who… was the rep at, like, a VA medical facility or regional office, or was it an accredited representative? Who mentioned the program to you?
 
 20
 00:01:34.440 --> 00:01:40.110
@@ -86,7 +86,7 @@ P8: veterans' benefits. I don't know if I… I can't remember what I was specifi
 
 22
 00:01:49.220 --> 00:01:49.799
-Renata: Got it.
+Moderator: Got it.
 
 23
 00:01:49.800 --> 00:01:52.230
@@ -98,7 +98,7 @@ P8: So I said, oh, I'll sign up for it.
 
 25
 00:01:54.930 --> 00:01:59.250
-Renata: Did you have any issues with the registration or sign-up process?
+Moderator: Did you have any issues with the registration or sign-up process?
 
 26
 00:01:59.250 --> 00:02:00.280
@@ -110,7 +110,7 @@ P8: Right here, very easy, one sheet.
 
 28
 00:02:03.200 --> 00:02:08.280
-Renata: Okay. And it sounds like you haven't used the benefit before, is that correct?
+Moderator: Okay. And it sounds like you haven't used the benefit before, is that correct?
 
 29
 00:02:08.280 --> 00:02:09.750
@@ -118,7 +118,7 @@ P8: Correct, haven't used it yet.
 
 30
 00:02:09.750 --> 00:02:15.189
-Renata: Okay, gotcha. Are you on a mobile device today, or a laptop desktop computer?
+Moderator: Okay, gotcha. Are you on a mobile device today, or a laptop desktop computer?
 
 31
 00:02:15.190 --> 00:02:16.090
@@ -126,11 +126,11 @@ P8: Desktop.
 
 32
 00:02:16.230 --> 00:02:34.190
-Renata: Okay, thank you. So at this point in the session, I'm gonna share a link with you in the Zoom chat. Once you have it loaded, if you can share your screen, and let me know if you have, any difficulty with the screen sharing process, and I'm more than happy to,
+Moderator: Okay, thank you. So at this point in the session, I'm gonna share a link with you in the Zoom chat. Once you have it loaded, if you can share your screen, and let me know if you have, any difficulty with the screen sharing process, and I'm more than happy to,
 
 33
 00:02:35.330 --> 00:02:37.430
-Renata: Troubleshoot that with you.
+Moderator: Troubleshoot that with you.
 
 34
 00:02:38.100 --> 00:02:39.000
@@ -138,11 +138,11 @@ P8: Alright?
 
 35
 00:02:39.620 --> 00:02:41.749
-Renata: That is the wrong link.
+Moderator: That is the wrong link.
 
 36
 00:02:42.270 --> 00:02:44.220
-Renata: Hold on one second…
+Moderator: Hold on one second…
 
 37
 00:02:44.220 --> 00:02:47.449
@@ -150,11 +150,11 @@ P8: Now, I don't have the chat function… oh, the chat. You want me to put the 
 
 38
 00:02:47.840 --> 00:02:54.339
-Renata: If you can open the chat for me, that would be great, while I am digging up the correct link for you.
+Moderator: If you can open the chat for me, that would be great, while I am digging up the correct link for you.
 
 39
 00:02:54.520 --> 00:02:56.639
-Renata: Didn't paste correctly.
+Moderator: Didn't paste correctly.
 
 40
 00:02:56.640 --> 00:02:57.410
@@ -162,7 +162,7 @@ P8: Alright.
 
 41
 00:02:59.500 --> 00:03:02.339
-Renata: Okay, I have shared that in the chat.
+Moderator: Okay, I have shared that in the chat.
 
 42
 00:03:02.340 --> 00:03:03.540
@@ -170,7 +170,7 @@ P8: Alright, I see it.
 
 43
 00:03:04.680 --> 00:03:10.660
-Renata: So go ahead and open that in a browser, and then once it's loaded, if you could share your screen.
+Moderator: So go ahead and open that in a browser, and then once it's loaded, if you could share your screen.
 
 44
 00:03:17.530 --> 00:03:19.730
@@ -190,11 +190,11 @@ P8: So… Do you want me to share this?
 
 48
 00:03:32.290 --> 00:03:46.860
-Renata: So in Zoom, there's a big green button that should say, like, share, and it'll give you a couple of options. You can either share just the browser, or you can share your whole screen. We usually recommend just sharing your browser so we don't see anything else.
+Moderator: So in Zoom, there's a big green button that should say, like, share, and it'll give you a couple of options. You can either share just the browser, or you can share your whole screen. We usually recommend just sharing your browser so we don't see anything else.
 
 49
 00:03:47.190 --> 00:03:50.779
-Renata: That you might not want shared during the session.
+Moderator: That you might not want shared during the session.
 
 50
 00:03:51.470 --> 00:03:53.479
@@ -206,7 +206,7 @@ P8: Do you see it now?
 
 52
 00:03:56.040 --> 00:03:57.760
-Renata: Nope.
+Moderator: Nope.
 
 53
 00:03:58.210 --> 00:03:59.569
@@ -226,7 +226,7 @@ P8: You see it?
 
 57
 00:04:15.190 --> 00:04:16.740
-Renata: No.
+Moderator: No.
 
 58
 00:04:16.740 --> 00:04:17.180
@@ -234,11 +234,11 @@ P8: fun.
 
 59
 00:04:17.180 --> 00:04:23.559
-Renata: Are you getting a pop-up that's showing you your different sharing options once you click that green button?
+Moderator: Are you getting a pop-up that's showing you your different sharing options once you click that green button?
 
 60
 00:04:24.330 --> 00:04:27.099
-Renata: And are you… you're selecting, like, screen 2?
+Moderator: And are you… you're selecting, like, screen 2?
 
 61
 00:04:27.280 --> 00:04:27.980
@@ -246,7 +246,7 @@ P8: I am.
 
 62
 00:04:28.260 --> 00:04:32.639
-Renata: And then are you clicking… I think it's a button that says broadcast or share?
+Moderator: And then are you clicking… I think it's a button that says broadcast or share?
 
 63
 00:04:33.580 --> 00:04:35.290
@@ -262,7 +262,7 @@ P8: Let me, let me get out of this thing. I just… do you want me to share it w
 
 66
 00:04:41.320 --> 00:04:42.430
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 67
 00:04:44.720 --> 00:04:45.520
@@ -278,11 +278,11 @@ P8: Alright, so what do you want me to do now? I have…
 
 70
 00:04:55.010 --> 00:05:10.790
-Renata: Typically, we just recommend selecting the browser that you have the prototype open in, it's one of your sharing options. It's usually, like, you can share your whole screen or just the browser. So select the browser, and then there should be a button that says share once you've selected it.
+Moderator: Typically, we just recommend selecting the browser that you have the prototype open in, it's one of your sharing options. It's usually, like, you can share your whole screen or just the browser. So select the browser, and then there should be a button that says share once you've selected it.
 
 71
 00:05:11.790 --> 00:05:13.220
-Renata: or start share.
+Moderator: or start share.
 
 72
 00:05:15.880 --> 00:05:17.100
@@ -310,7 +310,7 @@ P8: Let me see if I can get through this.
 
 78
 00:05:47.330 --> 00:05:51.440
-Renata: Is it asking you to change your permissions with the Zoom app, by chance? Yes.
+Moderator: Is it asking you to change your permissions with the Zoom app, by chance? Yes.
 
 79
 00:05:51.660 --> 00:05:53.100
@@ -322,7 +322,7 @@ P8: Is it sharing now?
 
 81
 00:06:02.950 --> 00:06:04.120
-Renata: Nope.
+Moderator: Nope.
 
 82
 00:06:04.600 --> 00:06:07.130
@@ -330,7 +330,7 @@ P8: It'll quit and reopen.
 
 83
 00:06:07.390 --> 00:06:15.269
-Renata: Yeah, if you change your settings, it does force you to, like, leave and come back. Are you comfortable with doing that? I can let you right back into the Zoom session.
+Moderator: Yeah, if you change your settings, it does force you to, like, leave and come back. Are you comfortable with doing that? I can let you right back into the Zoom session.
 
 84
 00:06:15.270 --> 00:06:15.830
@@ -338,7 +338,7 @@ P8: Yeah.
 
 85
 00:06:16.350 --> 00:06:19.740
-Renata: Okay, I will be here, and I will let you back in.
+Moderator: Okay, I will be here, and I will let you back in.
 
 86
 00:06:19.740 --> 00:06:25.570
@@ -366,7 +366,7 @@ P8: I'm sorry about the confusion.
 
 92
 00:06:46.690 --> 00:06:52.889
-Renata: No, no, it's totally fine. I feel like Zoom changes everything on me every couple of months, so…
+Moderator: No, no, it's totally fine. I feel like Zoom changes everything on me every couple of months, so…
 
 93
 00:06:54.540 --> 00:06:56.659
@@ -374,11 +374,11 @@ P8: Alright, how's that now?
 
 94
 00:06:57.550 --> 00:07:02.559
-Renata: I'm still not seeing anything. You might still need to leave and come back to the Zoom meeting.
+Moderator: I'm still not seeing anything. You might still need to leave and come back to the Zoom meeting.
 
 95
 00:07:02.940 --> 00:07:05.009
-Renata: If it's asking you to change your…
+Moderator: If it's asking you to change your…
 
 96
 00:07:05.990 --> 00:07:08.299
@@ -386,11 +386,11 @@ P8: It's not. I'm on my desktop here.
 
 97
 00:07:08.570 --> 00:07:09.320
-Renata: Hmm.
+Moderator: Hmm.
 
 98
 00:07:10.160 --> 00:07:14.589
-Renata: Well, in that case, I can, share my screen.
+Moderator: Well, in that case, I can, share my screen.
 
 99
 00:07:14.590 --> 00:07:15.070
@@ -398,7 +398,7 @@ P8: was.
 
 100
 00:07:15.070 --> 00:07:20.540
-Renata: So that we can… and you can sort of dictate as we're going through. How does that sound?
+Moderator: So that we can… and you can sort of dictate as we're going through. How does that sound?
 
 101
 00:07:20.870 --> 00:07:21.650
@@ -406,7 +406,7 @@ P8: Sounds good.
 
 102
 00:07:21.930 --> 00:07:23.050
-Renata: Alright.
+Moderator: Alright.
 
 103
 00:07:23.380 --> 00:07:25.709
@@ -418,7 +418,7 @@ P8: back, get out of that. Now, I… I see it, you are… Europe on the top left
 
 105
 00:07:37.830 --> 00:07:38.320
-Renata: Okay.
+Moderator: Okay.
 
 106
 00:07:38.320 --> 00:07:39.630
@@ -426,15 +426,15 @@ P8: You don't see this, huh?
 
 107
 00:07:40.510 --> 00:07:42.689
-Renata: No, unfortunately, I do not.
+Moderator: No, unfortunately, I do not.
 
 108
 00:07:45.300 --> 00:07:46.590
-Renata: But…
+Moderator: But…
 
 109
 00:07:47.150 --> 00:07:55.960
-Renata: Do you want to exit… is it showing you that you're sharing on your side? Because if so, if you want to close out of that, I'll share my screen, and we'll just go from there.
+Moderator: Do you want to exit… is it showing you that you're sharing on your side? Because if so, if you want to close out of that, I'll share my screen, and we'll just go from there.
 
 110
 00:07:55.960 --> 00:07:58.690
@@ -450,7 +450,7 @@ P8: Alright.
 
 113
 00:08:06.160 --> 00:08:10.250
-Renata: Okay. What do you want me to do? I can share on my side.
+Moderator: Okay. What do you want me to do? I can share on my side.
 
 114
 00:08:10.250 --> 00:08:13.849
@@ -458,27 +458,27 @@ P8: screen with my chat on the right side there.
 
 115
 00:08:13.990 --> 00:08:15.520
-Renata: Perfect, perfect.
+Moderator: Perfect, perfect.
 
 116
 00:08:16.350 --> 00:08:23.629
-Renata: If… as long as you can see me, I can share on my end, and we can… we can go from there. How does that sound? Sounds good.
+Moderator: If… as long as you can see me, I can share on my end, and we can… we can go from there. How does that sound? Sounds good.
 
 117
 00:08:24.160 --> 00:08:25.310
-Renata: Alright.
+Moderator: Alright.
 
 118
 00:08:25.650 --> 00:08:36.900
-Renata: So basically, how this is gonna work is you get to kind of boss me around, I'll share my screen, you'll tell me if you want me to move or click on something, and then other than that, I'll have some questions for you, but…
+Moderator: So basically, how this is gonna work is you get to kind of boss me around, I'll share my screen, you'll tell me if you want me to move or click on something, and then other than that, I'll have some questions for you, but…
 
 119
 00:08:37.150 --> 00:08:43.240
-Renata: Clicking the share button… Okay…
+Moderator: Clicking the share button… Okay…
 
 120
 00:08:44.300 --> 00:08:51.119
-Renata: Alright, so you should see that prototype that I sent you that you may have already loaded. Okay, gotcha.
+Moderator: Alright, so you should see that prototype that I sent you that you may have already loaded. Okay, gotcha.
 
 121
 00:08:51.120 --> 00:08:52.770
@@ -490,15 +490,15 @@ P8: So easy.
 
 123
 00:08:56.910 --> 00:09:00.899
-Renata: You know, it's Monday. Maybe Zoom's having a case of the Mondays.
+Moderator: You know, it's Monday. Maybe Zoom's having a case of the Mondays.
 
 124
 00:09:02.000 --> 00:09:12.120
-Renata: So, we're gonna look at… as I mentioned before, this is a prototype, so some of the functions in the site might not work quite the way you expect.
+Moderator: So, we're gonna look at… as I mentioned before, this is a prototype, so some of the functions in the site might not work quite the way you expect.
 
 125
 00:09:12.120 --> 00:09:24.689
-Renata: But we're just gonna take a look at this for a minute. You can let me know when you're done reading something and you want to scroll up or down, but thinking aloud, just review the information on this page, and once you're done, I'll ask you some questions.
+Moderator: But we're just gonna take a look at this for a minute. You can let me know when you're done reading something and you want to scroll up or down, but thinking aloud, just review the information on this page, and once you're done, I'll ask you some questions.
 
 126
 00:09:42.030 --> 00:09:44.150
@@ -514,7 +514,7 @@ P8: Okay.
 
 129
 00:09:49.180 --> 00:09:59.400
-Renata: Alright, okay. So, based on this page, what would you do next if you were filing your first FMP claim today?
+Moderator: Alright, okay. So, based on this page, what would you do next if you were filing your first FMP claim today?
 
 130
 00:10:02.830 --> 00:10:06.729
@@ -522,7 +522,7 @@ P8: Find out which, supporting documents…
 
 131
 00:10:07.360 --> 00:10:08.630
-Renata: This, this link right here?
+Moderator: This, this link right here?
 
 132
 00:10:08.630 --> 00:10:10.440
@@ -530,7 +530,7 @@ P8: Yeah, yeah, that's where you need to go, right?
 
 133
 00:10:10.880 --> 00:10:16.900
-Renata: Okay, what would you do after figuring out what supporting documents you need for your claim? Anything else?
+Moderator: Okay, what would you do after figuring out what supporting documents you need for your claim? Anything else?
 
 134
 00:10:17.070 --> 00:10:18.420
@@ -538,7 +538,7 @@ P8: Go to the supporting document.
 
 135
 00:10:19.000 --> 00:10:28.980
-Renata: Okay, gotcha. And let's say that you've done that, you've collected, say, any bills or invoices that you need, anything else that you would do at this point?
+Moderator: Okay, gotcha. And let's say that you've done that, you've collected, say, any bills or invoices that you need, anything else that you would do at this point?
 
 136
 00:10:32.310 --> 00:10:36.170
@@ -550,7 +550,7 @@ P8: This way? Get started.
 
 138
 00:10:39.350 --> 00:10:39.879
-Renata: So you can…
+Moderator: So you can…
 
 139
 00:10:39.880 --> 00:10:41.079
@@ -558,7 +558,7 @@ P8: Yeah, click on that.
 
 140
 00:10:41.080 --> 00:10:43.690
-Renata: Okay, gotcha.
+Moderator: Okay, gotcha.
 
 141
 00:10:43.690 --> 00:10:44.079
@@ -566,7 +566,7 @@ P8: See that?
 
 142
 00:10:44.080 --> 00:10:47.419
-Renata: So, I'm gonna go ahead and click on the Get Started link.
+Moderator: So, I'm gonna go ahead and click on the Get Started link.
 
 143
 00:10:47.420 --> 00:10:48.279
@@ -574,7 +574,7 @@ P8: Click on it.
 
 144
 00:10:48.830 --> 00:10:56.679
-Renata: So here we are, in your own words, can you state the information and the alert that you saw on the previous page?
+Moderator: So here we are, in your own words, can you state the information and the alert that you saw on the previous page?
 
 145
 00:11:05.920 --> 00:11:07.330
@@ -582,7 +582,7 @@ P8: No, you can go back.
 
 146
 00:11:07.770 --> 00:11:12.469
-Renata: Just anything that you remember, anything that stood out to you.
+Moderator: Just anything that you remember, anything that stood out to you.
 
 147
 00:11:12.690 --> 00:11:13.710
@@ -590,7 +590,7 @@ P8: stood out.
 
 148
 00:11:13.890 --> 00:11:15.040
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 149
 00:11:16.690 --> 00:11:19.709
@@ -598,7 +598,7 @@ P8: No, because I thought the instructions were pretty clear.
 
 150
 00:11:20.160 --> 00:11:21.510
-Renata: Okay, gotcha.
+Moderator: Okay, gotcha.
 
 151
 00:11:21.510 --> 00:11:24.809
@@ -606,7 +606,7 @@ P8: So I didn't have any, issues with the special instructions.
 
 152
 00:11:25.070 --> 00:11:34.799
-Renata: Gotcha, gotcha. On a scale of 1 to 5, with 1 being very difficult, 5 being very easy, how would you rate the clarity of information that you saw on that first page?
+Moderator: Gotcha, gotcha. On a scale of 1 to 5, with 1 being very difficult, 5 being very easy, how would you rate the clarity of information that you saw on that first page?
 
 153
 00:11:36.020 --> 00:11:38.110
@@ -614,7 +614,7 @@ P8: Very easy. What is it, 5?
 
 154
 00:11:38.110 --> 00:11:39.709
-Renata: A 5? Okay.
+Moderator: A 5? Okay.
 
 155
 00:11:39.710 --> 00:11:40.400
@@ -622,7 +622,7 @@ P8: easy.
 
 156
 00:11:40.600 --> 00:11:41.879
-Renata: Yes, that's very easy.
+Moderator: Yes, that's very easy.
 
 157
 00:11:42.390 --> 00:11:47.170
@@ -630,7 +630,7 @@ P8: Right. The only change I would make is I would make the Get Started button l
 
 158
 00:11:47.680 --> 00:11:48.750
-Renata: Bigger? Okay.
+Moderator: Bigger? Okay.
 
 159
 00:11:48.750 --> 00:11:49.210
@@ -638,7 +638,7 @@ P8: Yes.
 
 160
 00:11:49.210 --> 00:11:50.370
-Renata: That is fair.
+Moderator: That is fair.
 
 161
 00:11:50.370 --> 00:11:55.740
@@ -646,7 +646,7 @@ P8: Or I would put it… or I'd put it close to that, you know, the forms that y
 
 162
 00:11:56.580 --> 00:11:58.310
-Renata: Okay, got it.
+Moderator: Okay, got it.
 
 163
 00:11:58.460 --> 00:12:01.380
@@ -654,11 +654,11 @@ P8: It's not confusing. Which one do you click?
 
 164
 00:12:01.870 --> 00:12:02.980
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 165
 00:12:04.280 --> 00:12:07.070
-Renata: Get started in front of that paragraph.
+Moderator: Get started in front of that paragraph.
 
 166
 00:12:07.090 --> 00:12:10.019
@@ -666,7 +666,7 @@ P8: If you need additional forms for any crazy ideas.
 
 167
 00:12:10.310 --> 00:12:13.140
-Renata: This one right here, you would put it up here.
+Moderator: This one right here, you would put it up here.
 
 168
 00:12:13.140 --> 00:12:19.480
@@ -678,7 +678,7 @@ P8: I want to get started first. I don't know if I need any supporting documents
 
 170
 00:12:27.820 --> 00:12:29.880
-Renata: Mmm, okay. Got a shot.
+Moderator: Mmm, okay. Got a shot.
 
 171
 00:12:29.880 --> 00:12:30.580
@@ -686,7 +686,7 @@ P8: on that?
 
 172
 00:12:31.070 --> 00:12:32.089
-Renata: Yeah, I think I do.
+Moderator: Yeah, I think I do.
 
 173
 00:12:32.090 --> 00:12:33.560
@@ -710,7 +710,7 @@ P8: I just want to do a standard claim and get started.
 
 178
 00:12:46.880 --> 00:12:56.439
-Renata: Okay. Would there be any additional information you would want to see here to let you know, like, yeah, I'm good, I don't need anything else, we can just click the Get Started link, or…
+Moderator: Okay. Would there be any additional information you would want to see here to let you know, like, yeah, I'm good, I don't need anything else, we can just click the Get Started link, or…
 
 179
 00:12:59.890 --> 00:13:02.309
@@ -722,11 +722,11 @@ P8: After the second, bullet point.
 
 181
 00:13:07.410 --> 00:13:08.080
-Renata: Okay.
+Moderator: Okay.
 
 182
 00:13:08.670 --> 00:13:09.390
-Renata: Got it.
+Moderator: Got it.
 
 183
 00:13:09.530 --> 00:13:14.259
@@ -738,7 +738,7 @@ P8: For other supporting documents, you know, that may be one in a hundred types
 
 185
 00:13:22.210 --> 00:13:22.680
-Renata: Okay.
+Moderator: Okay.
 
 186
 00:13:22.680 --> 00:13:26.040
@@ -746,7 +746,7 @@ P8: I think most people are pretty standard, so they want to get started.
 
 187
 00:13:27.210 --> 00:13:27.820
-Renata: Yeah.
+Moderator: Yeah.
 
 188
 00:13:27.820 --> 00:13:28.370
@@ -754,7 +754,7 @@ P8: Clear.
 
 189
 00:13:28.970 --> 00:13:49.310
-Renata: I hear you on that. Thank you for that feedback. I'm gonna click that Get Started button again. I'm gonna whiz past this page we already looked at. So, now I'd like you to take a minute and look over this page about direct deposit for the foreign medical program. And again, feel free to think out loud as you're reading it, and let me know when you're ready for me to scroll up or down.
+Moderator: I hear you on that. Thank you for that feedback. I'm gonna click that Get Started button again. I'm gonna whiz past this page we already looked at. So, now I'd like you to take a minute and look over this page about direct deposit for the foreign medical program. And again, feel free to think out loud as you're reading it, and let me know when you're ready for me to scroll up or down.
 
 190
 00:13:54.500 --> 00:13:58.860
@@ -766,7 +766,7 @@ P8: the application, I don't know if I linked a direct deposit account to it.
 
 192
 00:14:06.540 --> 00:14:07.380
-Renata: Okay.
+Moderator: Okay.
 
 193
 00:14:07.380 --> 00:14:08.870
@@ -782,7 +782,7 @@ P8: Alright, is there anything, different about the direct deposit account for t
 
 196
 00:14:32.630 --> 00:14:43.900
-Renata: I'm gonna be a little annoying and answer your question with another question. Based on what you're seeing on this page, is it your understanding that they're the same, or your understanding that they're different?
+Moderator: I'm gonna be a little annoying and answer your question with another question. Based on what you're seeing on this page, is it your understanding that they're the same, or your understanding that they're different?
 
 197
 00:14:45.820 --> 00:14:51.030
@@ -802,7 +802,7 @@ P8: why don't I just use that account?
 
 201
 00:15:04.310 --> 00:15:05.130
-Renata: Okay.
+Moderator: Okay.
 
 202
 00:15:05.130 --> 00:15:13.679
@@ -814,7 +814,7 @@ P8: Click here.
 
 204
 00:15:16.410 --> 00:15:17.120
-Renata: Okay.
+Moderator: Okay.
 
 205
 00:15:17.120 --> 00:15:22.730
@@ -822,11 +822,11 @@ P8: You don't have an established direct deposit account, Clicked, you know, num
 
 206
 00:15:23.130 --> 00:15:31.440
-Renata: Okay, so if you had a magic wand that you could wave to change this, you would want some sort of call-out that sort of says, if you're already receiving
+Moderator: Okay, so if you had a magic wand that you could wave to change this, you would want some sort of call-out that sort of says, if you're already receiving
 
 207
 00:15:31.440 --> 00:15:47.209
-Renata: VA disability benefits via direct deposit, go here, or proceed with this form, versus if you need to set it up new. Okay, got it. I'm going to continue to scroll down the page, feel free to take a look at the content, and then once you're done, I'll ask you a few more questions.
+Moderator: VA disability benefits via direct deposit, go here, or proceed with this form, versus if you need to set it up new. Okay, got it. I'm going to continue to scroll down the page, feel free to take a look at the content, and then once you're done, I'll ask you a few more questions.
 
 208
 00:15:47.210 --> 00:15:47.920
@@ -834,7 +834,7 @@ P8: Okay.
 
 209
 00:15:51.230 --> 00:15:53.839
-Renata: And let me know if you want me to scroll up or down.
+Moderator: And let me know if you want me to scroll up or down.
 
 210
 00:15:54.420 --> 00:15:56.800
@@ -846,7 +846,7 @@ P8: Alright, what is the Financial Services Center?
 
 212
 00:16:04.550 --> 00:16:11.720
-Renata: I'm gonna do that annoying thing again where I ask another question. Have you ever heard of that? Does Financial Services Center mean anything to you?
+Moderator: I'm gonna do that annoying thing again where I ask another question. Have you ever heard of that? Does Financial Services Center mean anything to you?
 
 213
 00:16:11.720 --> 00:16:14.850
@@ -854,7 +854,7 @@ P8: No. Is it the VA Financial Services Center?
 
 214
 00:16:15.570 --> 00:16:21.529
-Renata: Okay. Would you want any additional context or description here? Yes. Okay.
+Moderator: Okay. Would you want any additional context or description here? Yes. Okay.
 
 215
 00:16:22.140 --> 00:16:38.460
@@ -862,7 +862,7 @@ P8: VA… if it's the VA Financial Services Center, sign into the VA Financial S
 
 216
 00:16:39.480 --> 00:16:44.099
-Renata: Gotcha. So you want to know if this is a VA thing. You go to number 4.
+Moderator: Gotcha. So you want to know if this is a VA thing. You go to number 4.
 
 217
 00:16:44.230 --> 00:16:47.740
@@ -882,7 +882,7 @@ P8: V, or S… F… SC is.
 
 221
 00:17:08.800 --> 00:17:09.690
-Renata: Gotcha.
+Moderator: Gotcha.
 
 222
 00:17:09.690 --> 00:17:10.219
@@ -890,7 +890,7 @@ P8: So you don't know.
 
 223
 00:17:10.220 --> 00:17:10.819
-Renata: I…
+Moderator: I…
 
 224
 00:17:10.829 --> 00:17:12.449
@@ -906,7 +906,7 @@ P8: That's why it needs to be a little clearer.
 
 227
 00:17:27.740 --> 00:17:45.220
-Renata: Gotcha. So I just want to repeat back some of what I'm hearing. On Step 3, you'd really like it to identify that this is a VA institution or a VA portal, so VA Financial Services Center, and it sounded like you wanted a little bit of an additional description of what that means, so that Step 4 would.
+Moderator: Gotcha. So I just want to repeat back some of what I'm hearing. On Step 3, you'd really like it to identify that this is a VA institution or a VA portal, so VA Financial Services Center, and it sounded like you wanted a little bit of an additional description of what that means, so that Step 4 would.
 
 228
 00:17:45.220 --> 00:17:50.379
@@ -914,11 +914,11 @@ P8: Oh, no sense. No, I just wanted to know what… I just wanted to know whose 
 
 229
 00:17:50.380 --> 00:17:56.039
-Renata: Okay, gotcha. See, this is why I like to repeat back. I want to make sure I'm hearing correctly.
+Moderator: Okay, gotcha. See, this is why I like to repeat back. I want to make sure I'm hearing correctly.
 
 230
 00:17:57.010 --> 00:17:58.890
-Renata: Okay. Alright.
+Moderator: Okay. Alright.
 
 231
 00:17:59.790 --> 00:18:03.210
@@ -926,7 +926,7 @@ P8: Are they, are they recording? Is someone recording?
 
 232
 00:18:03.840 --> 00:18:05.679
-Renata: I am recording right now.
+Moderator: I am recording right now.
 
 233
 00:18:05.680 --> 00:18:07.940
@@ -934,7 +934,7 @@ P8: No, no, I'm talking a note-taker and everything.
 
 234
 00:18:07.940 --> 00:18:09.510
-Renata: Yeah, they're taking notes.
+Moderator: Yeah, they're taking notes.
 
 235
 00:18:09.510 --> 00:18:10.240
@@ -946,7 +946,7 @@ P8: I'll write down what I think that should look like.
 
 237
 00:18:13.440 --> 00:18:14.250
-Renata: Okay.
+Moderator: Okay.
 
 238
 00:18:15.380 --> 00:18:16.730
@@ -962,7 +962,7 @@ P8: Alright.
 
 241
 00:18:38.320 --> 00:18:41.419
-Renata: I can see it. Yes, I can see it.
+Moderator: I can see it. Yes, I can see it.
 
 242
 00:18:41.420 --> 00:18:47.529
@@ -982,7 +982,7 @@ P8: Yeah.
 
 246
 00:19:08.450 --> 00:19:16.600
-Renata: Yeah, I got you. Thank you for that feedback, I appreciate that. Do you want me to scroll up or down anymore before I ask you some questions about this page?
+Moderator: Yeah, I got you. Thank you for that feedback, I appreciate that. Do you want me to scroll up or down anymore before I ask you some questions about this page?
 
 247
 00:19:21.540 --> 00:19:22.529
@@ -990,7 +990,7 @@ P8: No, that's good.
 
 248
 00:19:23.000 --> 00:19:23.840
-Renata: Right?
+Moderator: Right?
 
 249
 00:19:23.840 --> 00:19:27.149
@@ -998,11 +998,11 @@ P8: Well, I, you know, I don't know what a… And, and number 3.
 
 250
 00:19:27.380 --> 00:19:31.069
-Renata: If you don't have a VA PIV, I don't know what a PIV is.
+Moderator: If you don't have a VA PIV, I don't know what a PIV is.
 
 251
 00:19:33.620 --> 00:19:39.289
-Renata: Oh, gotcha, gotcha. Are you familiar with ID.me? Do you have an account that uses ID.me as a login?
+Moderator: Oh, gotcha, gotcha. Are you familiar with ID.me? Do you have an account that uses ID.me as a login?
 
 252
 00:19:39.890 --> 00:19:43.960
@@ -1010,7 +1010,7 @@ P8: I… You're writing this thing for privates. I do.
 
 253
 00:19:44.340 --> 00:19:45.030
-Renata: Okay.
+Moderator: Okay.
 
 254
 00:19:45.030 --> 00:19:48.320
@@ -1018,11 +1018,11 @@ P8: I'm asking the question, I'm wondering myself.
 
 255
 00:19:50.760 --> 00:20:01.409
-Renata: Yeah, I think that, the non-civilian version of a PIV is a CAC card, I think is what I've heard them called, but at VA, they're called PIV, so that's what that is.
+Moderator: Yeah, I think that, the non-civilian version of a PIV is a CAC card, I think is what I've heard them called, but at VA, they're called PIV, so that's what that is.
 
 256
 00:20:01.570 --> 00:20:03.159
-Renata: Just for your awareness.
+Moderator: Just for your awareness.
 
 257
 00:20:03.160 --> 00:20:04.140
@@ -1030,7 +1030,7 @@ P8: VA system?
 
 258
 00:20:04.580 --> 00:20:05.160
-Renata: Yeah.
+Moderator: Yeah.
 
 259
 00:20:05.600 --> 00:20:06.440
@@ -1038,11 +1038,11 @@ P8: They do?
 
 260
 00:20:06.990 --> 00:20:08.649
-Renata: No, no, I'm talking about patients.
+Moderator: No, no, I'm talking about patients.
 
 261
 00:20:09.330 --> 00:20:12.739
-Renata: Oh, no, I'm not sure, actually, that's a good question.
+Moderator: Oh, no, I'm not sure, actually, that's a good question.
 
 262
 00:20:13.110 --> 00:20:14.220
@@ -1050,7 +1050,7 @@ P8: Yeah, what's a PIV?
 
 263
 00:20:16.390 --> 00:20:20.929
-Renata: Any other questions or feedback about this before I ask you some questions?
+Moderator: Any other questions or feedback about this before I ask you some questions?
 
 264
 00:20:21.220 --> 00:20:21.760
@@ -1058,7 +1058,7 @@ P8: No.
 
 265
 00:20:22.010 --> 00:20:28.609
-Renata: Okay. So what are your first impressions and understanding of the content on this page?
+Moderator: Okay. So what are your first impressions and understanding of the content on this page?
 
 266
 00:20:31.770 --> 00:20:33.100
@@ -1066,7 +1066,7 @@ P8: Can you, scroll down?
 
 267
 00:20:33.730 --> 00:20:34.650
-Renata: All the way down.
+Moderator: All the way down.
 
 268
 00:20:35.400 --> 00:20:38.339
@@ -1074,7 +1074,7 @@ P8: No, no, up so I can see the top.
 
 269
 00:20:38.340 --> 00:20:39.210
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 270
 00:20:39.210 --> 00:20:42.920
@@ -1086,7 +1086,7 @@ P8: Right.
 
 272
 00:20:43.900 --> 00:20:44.470
-Renata: Okay.
+Moderator: Okay.
 
 273
 00:20:44.470 --> 00:20:51.569
@@ -1110,7 +1110,7 @@ P8: Oh yeah, you have it right there. You have it right there in the second para
 
 278
 00:21:18.240 --> 00:21:19.279
-Renata: Oh, right here.
+Moderator: Oh, right here.
 
 279
 00:21:19.280 --> 00:21:25.489
@@ -1122,11 +1122,11 @@ P8: All right, yeah, no, I understand. Set up direct deposit, if you don't alrea
 
 281
 00:21:37.690 --> 00:21:38.990
-Renata: Okay, gotcha.
+Moderator: Okay, gotcha.
 
 282
 00:21:39.190 --> 00:21:48.790
-Renata: So now, in your own words, could you state the process and in what order you would have to set up direct deposit for FMP claims?
+Moderator: So now, in your own words, could you state the process and in what order you would have to set up direct deposit for FMP claims?
 
 283
 00:21:53.940 --> 00:21:57.470
@@ -1138,7 +1138,7 @@ P8: If it's a no, go to number 2.
 
 285
 00:22:01.560 --> 00:22:02.380
-Renata: Okay.
+Moderator: Okay.
 
 286
 00:22:02.380 --> 00:22:04.270
@@ -1150,7 +1150,7 @@ P8: Yeah, I understand, yeah, it's clear.
 
 288
 00:22:09.730 --> 00:22:12.450
-Renata: Okay. Same as before…
+Moderator: Okay. Same as before…
 
 289
 00:22:12.450 --> 00:22:23.010
@@ -1158,7 +1158,7 @@ P8: Oh, go ahead. So, 4. Complete the VAFSC vendor file form. Is the vendor file
 
 290
 00:22:25.950 --> 00:22:30.580
-Renata: That's a good question. Would you want it to state some additional detail there to make that clearer?
+Moderator: That's a good question. Would you want it to state some additional detail there to make that clearer?
 
 291
 00:22:31.230 --> 00:22:39.119
@@ -1174,7 +1174,7 @@ P8: Routing numbers, you know, all that sort of thing.
 
 294
 00:22:54.910 --> 00:22:55.830
-Renata: Gotcha.
+Moderator: Gotcha.
 
 295
 00:22:58.400 --> 00:23:00.350
@@ -1186,11 +1186,11 @@ P8: If it's a bank that they're talking about, call it a bank.
 
 297
 00:23:05.200 --> 00:23:06.030
-Renata: Okay.
+Moderator: Okay.
 
 298
 00:23:09.090 --> 00:23:18.969
-Renata: I gotcha. So on that 1 to 5 scale, again, 1 being very difficult, 5 being very easy, what would you rate the instructions that you see on this page?
+Moderator: I gotcha. So on that 1 to 5 scale, again, 1 being very difficult, 5 being very easy, what would you rate the instructions that you see on this page?
 
 299
 00:23:22.220 --> 00:23:24.270
@@ -1198,11 +1198,11 @@ P8: Before or after my critique.
 
 300
 00:23:24.270 --> 00:23:29.500
-Renata: You can give me a rating for both. 3. A 3, okay.
+Moderator: You can give me a rating for both. 3. A 3, okay.
 
 301
 00:23:29.700 --> 00:23:34.469
-Renata: And what would take it from that 3 to a 5? Meaning, very easy.
+Moderator: And what would take it from that 3 to a 5? Meaning, very easy.
 
 302
 00:23:35.760 --> 00:23:37.440
@@ -1210,11 +1210,11 @@ P8: my comments.
 
 303
 00:23:37.710 --> 00:23:38.430
-Renata: Okay.
+Moderator: Okay.
 
 304
 00:23:39.000 --> 00:23:42.339
-Renata: Alright, thank you. I am going to click.
+Moderator: Alright, thank you. I am going to click.
 
 305
 00:23:42.340 --> 00:23:46.280
@@ -1222,7 +1222,7 @@ P8: Especially, number one, Oh.
 
 306
 00:23:47.150 --> 00:23:48.860
-Renata: Making this clearer?
+Moderator: Making this clearer?
 
 307
 00:23:48.900 --> 00:23:53.749
@@ -1234,11 +1234,11 @@ P8: Do this. You don't do this.
 
 309
 00:23:57.320 --> 00:23:57.970
-Renata: Okay.
+Moderator: Okay.
 
 310
 00:23:58.100 --> 00:24:04.419
-Renata: Is there anything you want to call out on this page that's particularly helpful or confusing that you haven't already mentioned?
+Moderator: Is there anything you want to call out on this page that's particularly helpful or confusing that you haven't already mentioned?
 
 311
 00:24:05.350 --> 00:24:06.000
@@ -1246,15 +1246,15 @@ P8: No.
 
 312
 00:24:06.270 --> 00:24:06.950
-Renata: Okay.
+Moderator: Okay.
 
 313
 00:24:07.070 --> 00:24:11.289
-Renata: I'm gonna click that link and go to the next page in our prototype.
+Moderator: I'm gonna click that link and go to the next page in our prototype.
 
 314
 00:24:11.290 --> 00:24:30.000
-Renata: So you mentioned earlier on in the session that you received disability compensation via direct deposit. Now that you've seen, how to set up direct deposit for FMP, and based on what you know about setting up your own disability compensation direct deposit, do you think that the process is the same or different?
+Moderator: So you mentioned earlier on in the session that you received disability compensation via direct deposit. Now that you've seen, how to set up direct deposit for FMP, and based on what you know about setting up your own disability compensation direct deposit, do you think that the process is the same or different?
 
 315
 00:24:33.550 --> 00:24:41.500
@@ -1278,11 +1278,11 @@ P8: through a VA portal, but I think I still had to do, paper and pen copies.
 
 320
 00:24:57.090 --> 00:24:58.540
-Renata: Mmm, okay.
+Moderator: Mmm, okay.
 
 321
 00:24:58.660 --> 00:25:05.219
-Renata: So you think this one is different, it's a digital process. Anything else that would make them different?
+Moderator: So you think this one is different, it's a digital process. Anything else that would make them different?
 
 322
 00:25:06.010 --> 00:25:08.100
@@ -1290,23 +1290,23 @@ P8: No, I think digital process is better.
 
 323
 00:25:08.410 --> 00:25:12.500
-Renata: Alright, gotcha. Gonna click continue to next task.
+Moderator: Alright, gotcha. Gonna click continue to next task.
 
 324
 00:25:12.930 --> 00:25:19.620
-Renata: So, at this point in the session, I'm gonna have you imagine that you're filling out your first FMP claim,
+Moderator: So, at this point in the session, I'm gonna have you imagine that you're filling out your first FMP claim,
 
 325
 00:25:19.620 --> 00:25:38.310
-Renata: And I'm also going to imagine that you've already completed a number of sections of the form. So you've input your name, your social security, mailing and home address, as well as your phone and email. So I'm going to drop you into the middle of the form. Like I said, this prototype is not fully clickable, so some things we're not going to be able to, like, type in any fields.
+Moderator: And I'm also going to imagine that you've already completed a number of sections of the form. So you've input your name, your social security, mailing and home address, as well as your phone and email. So I'm going to drop you into the middle of the form. Like I said, this prototype is not fully clickable, so some things we're not going to be able to, like, type in any fields.
 
 326
 00:25:38.320 --> 00:25:45.100
-Renata: But I'm gonna have you take a look at a couple of screens in the form, and we're gonna talk through them, if that's alright with you.
+Moderator: But I'm gonna have you take a look at a couple of screens in the form, and we're gonna talk through them, if that's alright with you.
 
 327
 00:25:46.820 --> 00:25:53.790
-Renata: Alright, so just take a look at the content on this screen here, and I'm gonna ask you a couple of questions again.
+Moderator: Alright, so just take a look at the content on this screen here, and I'm gonna ask you a couple of questions again.
 
 328
 00:26:20.840 --> 00:26:26.929
@@ -1314,7 +1314,7 @@ P8: All right, yeah, I get that first part. Basically, it's a foreign provider, 
 
 329
 00:26:27.810 --> 00:26:31.590
-Renata: Yes, this would be a foreign provider that we're referring to here.
+Moderator: Yes, this would be a foreign provider that we're referring to here.
 
 330
 00:26:35.070 --> 00:26:38.489
@@ -1322,7 +1322,7 @@ P8: And they have all kinds of crazy addresses, right, to send checks to?
 
 331
 00:26:40.040 --> 00:26:43.039
-Renata: They might. I honestly haven't looked into it.
+Moderator: They might. I honestly haven't looked into it.
 
 332
 00:26:43.390 --> 00:26:45.440
@@ -1334,7 +1334,7 @@ P8: Okay.
 
 334
 00:26:48.620 --> 00:26:55.370
-Renata: So, is there anything unclear about what this section is asking you to do, what you're seeing on the screen?
+Moderator: So, is there anything unclear about what this section is asking you to do, what you're seeing on the screen?
 
 335
 00:27:00.690 --> 00:27:01.839
@@ -1342,11 +1342,11 @@ P8: That's pretty clear.
 
 336
 00:27:02.070 --> 00:27:07.720
-Renata: All right. I'm gonna imagine that you've already paid the provider that you saw overseas. I'm gonna click Veteran.
+Moderator: All right. I'm gonna imagine that you've already paid the provider that you saw overseas. I'm gonna click Veteran.
 
 337
 00:27:07.850 --> 00:27:15.239
-Renata: And I'm gonna click the continue button now. So just take a look again at this page, and I'll ask you another couple of questions.
+Moderator: And I'm gonna click the continue button now. So just take a look again at this page, and I'll ask you another couple of questions.
 
 338
 00:27:41.290 --> 00:27:45.009
@@ -1358,7 +1358,7 @@ P8: Overseas.
 
 340
 00:27:46.920 --> 00:27:48.569
-Renata: I believe so, yeah.
+Moderator: I believe so, yeah.
 
 341
 00:27:49.510 --> 00:27:52.019
@@ -1366,7 +1366,7 @@ P8: Oh, no one's doing them here.
 
 342
 00:27:53.370 --> 00:27:54.100
-Renata: Hmm.
+Moderator: Hmm.
 
 343
 00:27:54.100 --> 00:27:56.469
@@ -1374,11 +1374,11 @@ P8: Alright. No, I understand. Okay.
 
 344
 00:27:56.470 --> 00:28:04.090
-Renata: Okay, before I ask you some questions about this page, could you quickly explain your understanding of the content you saw on the previous page?
+Moderator: Okay, before I ask you some questions about this page, could you quickly explain your understanding of the content you saw on the previous page?
 
 345
 00:28:05.090 --> 00:28:06.639
-Renata: The one right before this?
+Moderator: The one right before this?
 
 346
 00:28:06.640 --> 00:28:08.979
@@ -1394,7 +1394,7 @@ P8: then you want to be reimbursed. I don't think it, said reimbursed anywhere o
 
 349
 00:28:20.310 --> 00:28:20.630
-Renata: Okay.
+Moderator: Okay.
 
 350
 00:28:20.630 --> 00:28:27.579
@@ -1406,7 +1406,7 @@ P8: By the way.
 
 352
 00:28:28.280 --> 00:28:28.810
-Renata: Okay.
+Moderator: Okay.
 
 353
 00:28:29.260 --> 00:28:31.399
@@ -1422,11 +1422,11 @@ P8: So you'd want to check Veteran.
 
 356
 00:28:37.870 --> 00:28:41.309
-Renata: Okay. Is that true? Versus… yeah, yeah.
+Moderator: Okay. Is that true? Versus… yeah, yeah.
 
 357
 00:28:42.210 --> 00:28:53.940
-Renata: Got it. Okay. Is there anything on this page that stands out as confusing, or… or anything, unclear before we move on?
+Moderator: Got it. Okay. Is there anything on this page that stands out as confusing, or… or anything, unclear before we move on?
 
 358
 00:28:56.260 --> 00:28:57.550
@@ -1434,11 +1434,11 @@ P8: It's all… it's clear.
 
 359
 00:28:57.860 --> 00:29:11.340
-Renata: Okay, no additional document explanation needed? All right. I'm gonna click choose from folder, and through the magic of this prototype, you have uploaded an EOB, so I'm gonna click the continue button.
+Moderator: Okay, no additional document explanation needed? All right. I'm gonna click choose from folder, and through the magic of this prototype, you have uploaded an EOB, so I'm gonna click the continue button.
 
 360
 00:29:11.830 --> 00:29:22.370
-Renata: So, at this point, we're on the review page just before you submit. Let me know if you'd like me to expand any of these sections to take a look at them, or what you would do at this point.
+Moderator: So, at this point, we're on the review page just before you submit. Let me know if you'd like me to expand any of these sections to take a look at them, or what you would do at this point.
 
 361
 00:29:26.550 --> 00:29:28.259
@@ -1446,7 +1446,7 @@ P8: Yeah, identification information.
 
 362
 00:29:28.750 --> 00:29:29.560
-Renata: Alright.
+Moderator: Alright.
 
 363
 00:29:32.930 --> 00:29:33.600
@@ -1474,7 +1474,7 @@ P8: Alright. Yeah, that's good.
 
 369
 00:29:56.470 --> 00:29:59.810
-Renata: Okay, anything else you want to look at, or any other comments?
+Moderator: Okay, anything else you want to look at, or any other comments?
 
 370
 00:30:00.910 --> 00:30:06.440
@@ -1482,7 +1482,7 @@ P8: No, I like this functionality. I've seen it in some of the other VA stuff.
 
 371
 00:30:06.670 --> 00:30:26.950
-Renata: I gotcha. Okay. I'm gonna imagine that you've signed the statement of truth. We're gonna click the submit button. Okay. So this is the page where you've submitted your FMP claim online. Can you take a minute to explain to me your understanding of what happens next and any action you might need to take? And feel free to let me know if you want me to scroll up or down this page.
+Moderator: I gotcha. Okay. I'm gonna imagine that you've signed the statement of truth. We're gonna click the submit button. Okay. So this is the page where you've submitted your FMP claim online. Can you take a minute to explain to me your understanding of what happens next and any action you might need to take? And feel free to let me know if you want me to scroll up or down this page.
 
 372
 00:30:28.500 --> 00:30:35.260
@@ -1498,7 +1498,7 @@ P8: You can scroll down a little bit more.
 
 375
 00:31:16.970 --> 00:31:17.970
-Renata: Alright.
+Moderator: Alright.
 
 376
 00:31:25.360 --> 00:31:26.939
@@ -1506,7 +1506,7 @@ P8: Alright, I understand it.
 
 377
 00:31:27.590 --> 00:31:39.420
-Renata: Okay, so, I was just curious, you mentioned you're hoping that the print function works. Have you ever submitted any forms on VA.gov where clicking the print this page function just didn't work?
+Moderator: Okay, so, I was just curious, you mentioned you're hoping that the print function works. Have you ever submitted any forms on VA.gov where clicking the print this page function just didn't work?
 
 378
 00:31:41.260 --> 00:31:42.940
@@ -1514,7 +1514,7 @@ P8: sometimes not.
 
 379
 00:31:43.540 --> 00:31:44.170
-Renata: Okay.
+Moderator: Okay.
 
 380
 00:31:44.170 --> 00:31:44.700
@@ -1522,7 +1522,7 @@ P8: And I, and…
 
 381
 00:31:44.700 --> 00:31:45.530
-Renata: Interesting.
+Moderator: Interesting.
 
 382
 00:31:45.530 --> 00:31:47.899
@@ -1538,7 +1538,7 @@ P8: you know, Google browser, or Microsoft browser, or something.
 
 385
 00:32:02.630 --> 00:32:11.589
-Renata: Okay, gotcha. Have you ever gotten an error message when you tried to print it and it didn't work, or does it just sort of phase out, time out?
+Moderator: Okay, gotcha. Have you ever gotten an error message when you tried to print it and it didn't work, or does it just sort of phase out, time out?
 
 386
 00:32:12.240 --> 00:32:15.999
@@ -1546,7 +1546,7 @@ P8: Yeah, I can't remember. I mean, I think generally many of the pages are work
 
 387
 00:32:16.430 --> 00:32:18.870
-Renata: Okay, cool. I was just curious, so…
+Moderator: Okay, cool. I was just curious, so…
 
 388
 00:32:18.990 --> 00:32:20.670
@@ -1554,7 +1554,7 @@ P8: Safari.
 
 389
 00:32:20.870 --> 00:32:23.120
-Renata: Actually, yes, you know what? DFAS.
+Moderator: Actually, yes, you know what? DFAS.
 
 390
 00:32:23.120 --> 00:32:31.459
@@ -1562,7 +1562,7 @@ P8: Yeah, DFAS. I have to use a Chrome browser to be able to print up my… Reti
 
 391
 00:32:32.570 --> 00:32:33.480
-Renata: Oh, gotcha.
+Moderator: Oh, gotcha.
 
 392
 00:32:33.480 --> 00:32:38.590
@@ -1570,7 +1570,7 @@ P8: proper format. It doesn't print up properly with the Safari browser.
 
 393
 00:32:39.090 --> 00:32:54.270
-Renata: Gotcha, gotcha. So based on this page, I'd like to know your confidence, 1 being very low, 5 being very high, that you know that direct deposit was set up correctly based on what you saw in this prototype, and on this page here.
+Moderator: Gotcha, gotcha. So based on this page, I'd like to know your confidence, 1 being very low, 5 being very high, that you know that direct deposit was set up correctly based on what you saw in this prototype, and on this page here.
 
 394
 00:32:54.570 --> 00:32:55.619
@@ -1578,7 +1578,7 @@ P8: On this page?
 
 395
 00:32:55.940 --> 00:32:57.950
-Renata: Yeah, and in the whole prototype.
+Moderator: Yeah, and in the whole prototype.
 
 396
 00:33:01.580 --> 00:33:07.110
@@ -1586,7 +1586,7 @@ P8: Yeah, as long as… as long as I input the direct deposit information in pro
 
 397
 00:33:07.720 --> 00:33:16.179
-Renata: Okay, so if you could put a numeric value to that, with 1 being very low or 5 being very high, very confident, what number would you give it?
+Moderator: Okay, so if you could put a numeric value to that, with 1 being very low or 5 being very high, very confident, what number would you give it?
 
 398
 00:33:18.140 --> 00:33:24.429
@@ -1594,7 +1594,7 @@ P8: Well, how do you… how do you check that, well, it's the proper account. I 
 
 399
 00:33:24.840 --> 00:33:25.490
-Renata: Okay.
+Moderator: Okay.
 
 400
 00:33:25.780 --> 00:33:28.709
@@ -1602,7 +1602,7 @@ P8: And I have no problem setting up direct deposit, accounts.
 
 401
 00:33:29.360 --> 00:33:36.089
-Renata: Is there anything about the direct deposit process that you saw in this prototype that would make you not want to file your claim online?
+Moderator: Is there anything about the direct deposit process that you saw in this prototype that would make you not want to file your claim online?
 
 402
 00:33:37.500 --> 00:33:38.420
@@ -1610,11 +1610,11 @@ P8: No.
 
 403
 00:33:39.010 --> 00:33:40.900
-Renata: Why wouldn't you?
+Moderator: Why wouldn't you?
 
 404
 00:33:42.410 --> 00:33:49.199
-Renata: Well, if there were any reasons, I'd love to know it, but it sounds like you didn't have any issues with it, so…
+Moderator: Well, if there were any reasons, I'd love to know it, but it sounds like you didn't have any issues with it, so…
 
 405
 00:33:49.450 --> 00:33:50.320
@@ -1622,7 +1622,7 @@ P8: Okay. No.
 
 406
 00:33:50.370 --> 00:33:51.340
-Renata: So…
+Moderator: So…
 
 407
 00:33:51.340 --> 00:33:53.549
@@ -1638,15 +1638,15 @@ P8: Doesn't get processed?
 
 410
 00:34:01.090 --> 00:34:05.939
-Renata: So you'd be… you would expect to be able to track this claim once you filed it? Yes.
+Moderator: So you'd be… you would expect to be able to track this claim once you filed it? Yes.
 
 411
 00:34:06.180 --> 00:34:07.050
-Renata: Okay.
+Moderator: Okay.
 
 412
 00:34:07.300 --> 00:34:11.050
-Renata: And where on VA.gov would you expect to track that claim?
+Moderator: And where on VA.gov would you expect to track that claim?
 
 413
 00:34:12.590 --> 00:34:15.279
@@ -1654,7 +1654,7 @@ P8: on the, FMP, website.
 
 414
 00:34:15.570 --> 00:34:16.120
-Renata: Okay.
+Moderator: Okay.
 
 415
 00:34:16.120 --> 00:34:22.560
@@ -1662,11 +1662,11 @@ P8: or claim portal, you know, check your claim, just like in the VA.gov site fo
 
 416
 00:34:22.980 --> 00:34:30.410
-Renata: Alright, cool. So those were all my questions about those prototypes. I'm gonna stop sharing. I have a few more questions for you before we wrap up.
+Moderator: Alright, cool. So those were all my questions about those prototypes. I'm gonna stop sharing. I have a few more questions for you before we wrap up.
 
 417
 00:34:32.429 --> 00:34:41.249
-Renata: Alright, so what is your understanding of the direct deposit process for F&P claims, now that you've gone through the prototype?
+Moderator: Alright, so what is your understanding of the direct deposit process for F&P claims, now that you've gone through the prototype?
 
 418
 00:34:42.010 --> 00:34:52.590
@@ -1686,11 +1686,11 @@ P8: application for the FMP program.
 
 422
 00:35:04.690 --> 00:35:13.770
-Renata: So you're kind of answering my next question, which is what would be one thing to make it better for you than the current direct deposit process? It sounds like having a bit more
+Moderator: So you're kind of answering my next question, which is what would be one thing to make it better for you than the current direct deposit process? It sounds like having a bit more
 
 423
 00:35:13.930 --> 00:35:19.780
-Renata: reassurance, whether it's recognizing your existing direct deposit for disability benefits payments.
+Moderator: reassurance, whether it's recognizing your existing direct deposit for disability benefits payments.
 
 424
 00:35:19.780 --> 00:35:24.110
@@ -1706,7 +1706,7 @@ P8: account or application for the FMP program.
 
 427
 00:35:42.600 --> 00:35:46.140
-Renata: Yes, just so that folks aren't just zooming past it.
+Moderator: Yes, just so that folks aren't just zooming past it.
 
 428
 00:35:46.140 --> 00:35:48.370
@@ -1722,7 +1722,7 @@ P8: Yeah.
 
 431
 00:35:54.240 --> 00:35:54.740
-Renata: Yeah.
+Moderator: Yeah.
 
 432
 00:35:54.740 --> 00:35:57.559
@@ -1734,11 +1734,11 @@ P8: The FMP program requires its own direct deposit submission.
 
 434
 00:36:02.640 --> 00:36:07.000
-Renata: Okay. On that… Because I'd use the same account.
+Moderator: Okay. On that… Because I'd use the same account.
 
 435
 00:36:07.500 --> 00:36:08.450
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 436
 00:36:08.450 --> 00:36:12.129
@@ -1750,7 +1750,7 @@ P8: set it up under the FMP program. And I can't remember if I did it on this or
 
 438
 00:36:17.800 --> 00:36:18.530
-Renata: Okay.
+Moderator: Okay.
 
 439
 00:36:18.530 --> 00:36:20.150
@@ -1758,7 +1758,7 @@ P8: I applied, I can't remember.
 
 440
 00:36:20.610 --> 00:36:36.820
-Renata: Gotcha, gotcha. So on that page where you saw the instructions for direct deposit, it mentioned that you could also call a VA number to help with setting up direct deposit for FMP. What are your thoughts about contacting VA via phone, and that extra step?
+Moderator: Gotcha, gotcha. So on that page where you saw the instructions for direct deposit, it mentioned that you could also call a VA number to help with setting up direct deposit for FMP. What are your thoughts about contacting VA via phone, and that extra step?
 
 441
 00:36:37.130 --> 00:36:41.660
@@ -1770,7 +1770,7 @@ P8: I would… I would rather fill out it on… on… the computer.
 
 443
 00:36:48.620 --> 00:36:55.449
-Renata: Gotcha. And, what would make you confident that your reimbursement would actually get to your bank account once you file a claim?
+Moderator: Gotcha. And, what would make you confident that your reimbursement would actually get to your bank account once you file a claim?
 
 444
 00:36:57.470 --> 00:36:58.780
@@ -1786,11 +1786,11 @@ P8: electronic ACH transfers work. I… I have no, problems with ACH transfers.
 
 447
 00:37:15.730 --> 00:37:20.419
-Renata: Gotcha, so no problems you've experienced at all with VA and direct deposit?
+Moderator: Gotcha, so no problems you've experienced at all with VA and direct deposit?
 
 448
 00:37:20.990 --> 00:37:21.840
-Renata: Okay.
+Moderator: Okay.
 
 449
 00:37:22.430 --> 00:37:23.970
@@ -1798,7 +1798,7 @@ P8: Nope.
 
 450
 00:37:24.690 --> 00:37:26.470
-Renata: Okay. Do you have any…
+Moderator: Okay. Do you have any…
 
 451
 00:37:26.470 --> 00:37:27.900
@@ -1806,7 +1806,7 @@ P8: Five. Six.
 
 452
 00:37:28.370 --> 00:37:36.260
-Renata: Very, very, very confident. Do you have any additional feedback about the content that we went over today?
+Moderator: Very, very, very confident. Do you have any additional feedback about the content that we went over today?
 
 453
 00:37:39.650 --> 00:37:44.430
@@ -1834,11 +1834,11 @@ P8: You know, is it a vendor list, or is it a bank list?
 
 459
 00:38:28.630 --> 00:38:36.810
-Renata: Gotcha. That's a… that's a very good point to make. I still get some of my acronyms wrong, despite being around them all of the time.
+Moderator: Gotcha. That's a… that's a very good point to make. I still get some of my acronyms wrong, despite being around them all of the time.
 
 460
 00:38:37.100 --> 00:38:39.960
-Renata: Do you have any questions for me before we wrap up?
+Moderator: Do you have any questions for me before we wrap up?
 
 461
 00:38:40.220 --> 00:38:41.220
@@ -1846,7 +1846,7 @@ P8: No, no.
 
 462
 00:38:41.550 --> 00:38:49.010
-Renata: All right, and I wanted to circle back and just reconfirm that you're comfortable if we were to share a video clip of this session with our VA partners?
+Moderator: All right, and I wanted to circle back and just reconfirm that you're comfortable if we were to share a video clip of this session with our VA partners?
 
 463
 00:38:49.010 --> 00:38:49.800
@@ -1854,7 +1854,7 @@ P8: Cool.
 
 464
 00:38:49.800 --> 00:38:54.589
-Renata: Alright, is there any part of our discussion today that you would not want shared in a video clip?
+Moderator: Alright, is there any part of our discussion today that you would not want shared in a video clip?
 
 465
 00:38:54.910 --> 00:39:00.060
@@ -1870,7 +1870,7 @@ P8: to a hospital.
 
 468
 00:39:10.280 --> 00:39:11.669
-Renata: Oh, interesting.
+Moderator: Oh, interesting.
 
 469
 00:39:11.670 --> 00:39:12.800
@@ -1878,7 +1878,7 @@ P8: I don't…
 
 470
 00:39:12.860 --> 00:39:15.800
-Renata: I don't know that, FMP covers…
+Moderator: I don't know that, FMP covers…
 
 471
 00:39:15.800 --> 00:39:16.210
@@ -1886,7 +1886,7 @@ P8: I care.
 
 472
 00:39:16.590 --> 00:39:20.539
-Renata: spouses, I think, yeah, she'd have to do it through TRICARE.
+Moderator: spouses, I think, yeah, she'd have to do it through TRICARE.
 
 473
 00:39:20.540 --> 00:39:21.240
@@ -1894,7 +1894,7 @@ P8: Okay.
 
 474
 00:39:21.670 --> 00:39:28.100
-Renata: But, yeah, that's a good question, and probably something that we should address on the claims form, so that folks know that, to be sure.
+Moderator: But, yeah, that's a good question, and probably something that we should address on the claims form, so that folks know that, to be sure.
 
 475
 00:39:28.100 --> 00:39:36.209
@@ -1906,19 +1906,19 @@ P8: Not dependents or anything like that.
 
 477
 00:39:39.790 --> 00:39:41.330
-Renata: Yeah, yeah.
+Moderator: Yeah, yeah.
 
 478
 00:39:42.810 --> 00:39:55.600
-Renata: Well, I just wanted to say that we really appreciate you taking time out of your day and out of your week to share your thoughts with us. This is super helpful for us as we continue to work on the site to make sure it really works for veterans, so thank you.
+Moderator: Well, I just wanted to say that we really appreciate you taking time out of your day and out of your week to share your thoughts with us. This is super helpful for us as we continue to work on the site to make sure it really works for veterans, so thank you.
 
 479
 00:39:55.600 --> 00:40:05.199
-Renata: Lastly, Perigian will be sending you a thank you note with a little blurb that you can pass along to other veterans you may know to provide them the chance to participate in future research studies.
+Moderator: Lastly, Perigian will be sending you a thank you note with a little blurb that you can pass along to other veterans you may know to provide them the chance to participate in future research studies.
 
 480
 00:40:05.200 --> 00:40:10.149
-Renata: But with that, thank you so much again. Have a really great rest of your day and rest of your week.
+Moderator: But with that, thank you so much again. Have a really great rest of your day and rest of your week.
 
 481
 00:40:10.500 --> 00:40:12.130
@@ -1926,7 +1926,7 @@ P8: Okay, my pleasure.
 
 482
 00:40:12.130 --> 00:40:13.639
-Renata: Alright, take care.
+Moderator: Alright, take care.
 
 483
 00:40:13.640 --> 00:40:15.189
@@ -1934,5 +1934,5 @@ P8: It was a pleasure. Alright, thanks.
 
 484
 00:40:15.520 --> 00:40:16.310
-Renata: Bye.
+Moderator: Bye.
 
