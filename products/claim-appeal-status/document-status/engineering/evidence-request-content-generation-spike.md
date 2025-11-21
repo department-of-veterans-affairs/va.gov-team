@@ -47,7 +47,7 @@ flowchart TD
     B --> C["vets-api - apply_friendlier_language<br/>friendlyName<br/>activityDescription<br/>shortDescription<br/>supportAliases<br/>canUploadFile"]
 
     C --> D1["vets-website - uses override fields"]
-    C --> D2["mobile adapter - strips override fields"]
+    C --> D2["mobile adapter - omits override fields<br/>when building eventsTimeline"]
 
     D2 --> E["va-mobile-app - sees only raw displayName + description"]
 ```
@@ -89,13 +89,12 @@ item.shortDescription || item.activityDescription || truncateDescription(item.de
   - Does NOT use override fields
 
 **Mobile adapter transformation:**
-- [`lighthouse_individual_claims.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/main/modules/mobile/app/models/mobile/v0/adapters/lighthouse_individual_claims.rb) transforms tracked items into `eventsTimeline` format
-- **Issue:** The adapter does NOT pass through override fields (`friendlyName`, `activityDescription`, `shortDescription`, `supportAliases`, `canUploadFile`)
-- Mobile receives raw `displayName` and `description` from Lighthouse, missing all vets-api enhancements
+- [`lighthouse_individual_claims.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/mobile/app/models/mobile/v0/adapters/lighthouse_individual_claims.rb) transforms tracked items into `eventsTimeline` format
+- **Issue:** In the [`create_tracked_item_event`](https://github.com/department-of-veterans-affairs/vets-api/blob/main/modules/mobile/app/models/mobile/v0/adapters/lighthouse_individual_claims.rb) method (lines 144-167), the event hash only includes raw Lighthouse fields (`description`, `displayName`, `uploadsAllowed`) and does NOT copy the override fields (`friendlyName`, `activityDescription`, `shortDescription`, `supportAliases`, `canUploadFile`) that are already present in the `tracked_item` hash.
 
 **Current mobile data flow:**
 ```
-Lighthouse API → vets-api (applies overrides) → Mobile Adapter (strips overrides) → Mobile App (sees raw data)
+Lighthouse API → vets-api (applies overrides) → Mobile Adapter (omits override fields when building eventsTimeline) → Mobile App (sees raw data)
 ```
 
 **Note:** This is why mobile needs the abridged content feature - it's currently missing all override content entirely.
