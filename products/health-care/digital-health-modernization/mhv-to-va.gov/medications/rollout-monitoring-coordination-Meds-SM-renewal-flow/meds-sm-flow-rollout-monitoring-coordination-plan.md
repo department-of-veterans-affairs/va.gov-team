@@ -28,13 +28,13 @@ Product Guides must be updated early so UX can submit VSP/Contact Center intake 
 - Description of the renewal link  
 - Renewal vs refill eligibility logic  
 - Screenshots and link placement  
-- Expected journey from Meds → SM  
+- Expected journey from Meds → SM
+- Modal to continue to SM  
 - Known limitations (e.g., no available care team)  
 - Integration points with SM  
 
 ### 2.2 Secure Messaging Product Guide Updates
 - Overview of receiving medication renewal requests  
-- SM interstitial behavior  
 - Care team selection logic  
 - Prefill rules (included/excluded data)  
 - Expected flow inside SM  
