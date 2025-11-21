@@ -25,52 +25,59 @@ demographics:
   dependents: X
   VA_staff: 
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 1
+    "35-44": 4
+    "45-54": 3
+    "55-64": 3
+    "65+": 6
+    unknown: 0
   education:
-    high_school: X
+    high_school: 1
     some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    associates: 1
+    bachelors: 6
+    masters: 6
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 11
+    rural: 6
+    unknown: 0
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 3
+    black: 5
+    hispanic: 2
+    biracial: 5
+    asian: 1
+    native: 1
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 1
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
+  - "The chatbot is generally well-received, appreciated for concise answers, hyperlinked instructions, and clarity."
+  - "Efficiency was praised compared to traditional support (“I liked that I didn’t have to wait on hold”)."
+  - "Most found the format easy to scan/read, crediting bullet points, links, and breaks in information."
+  - "Multiple sessions (especially among older or less tech-savvy users) noted the value in direct links and succinct instructions."
+  - "Several participants indicated that answers were at a 'third grade reading level,' perceived as accessible."
   # etc.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Clarifying Questions: Participants want fewer generic “please clarify” prompts; chatbot should proactively guide users to rephrase or select from options."
+  - "Accessibility: Session 8 and feedback from visually impaired participants highlight need for streamlined navigation (screen reader click cues, skip navigation), clearer input guidance, and more auditory feedback."
+  - "Choice Overload: Some feedback that too much detail or too many steps can overwhelm or slow the process."
+  - "Longitudinal Use: Follow-up with participants over weeks/months as suggested by Session 8 for more robust insight (“I haven’t interacted with it enough to give a definitive answer”)"
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Resolution Rate: High—Most participants reported being able to resolve issues (average 4.7/5 confidence in task execution)."
+  - "First Contact Resolution: Average participant required 1-2 rephrasings per scenario to get a tailored answer, indicating room for improvement."
+  - "User Satisfaction: 4.8/5 (average), consistent with Domo-reported satisfaction goals."
+  - "Time to Resolution: Chatbot outperformed phone support in speed; delays only occurred when clarification was needed."
 outcomes:
   user: "Desired user outcome"
   business: "Desired business outcome"
@@ -91,17 +98,15 @@ synthesis_tools_used:
   - "Affinity Mapping"
 ---
 
-<br>**This is a template, PLEASE MAKE A COPY**
-
 ---
 
-# [Study] Research Findings 
+# Chatbot User Testing - Round 2 Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Chatbot Team**
 
-**Date:** MM/DD/YYYY
+**Date:** 11/21/2025
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Lucas Wright
 
 **[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
