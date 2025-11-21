@@ -30,7 +30,7 @@ _last updated: 11-21-2025_
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
 - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - If any errors/failures are found within the form, the team will
   - [PM] Communicate the issue to the Product Owner
@@ -76,7 +76,7 @@ _last updated: 11-21-2025_
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
 - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures - PM will open maintenance window in PagerDuty if needed
 - Obtain Veteran contact information (Name, Phone number, Email address)
@@ -109,7 +109,7 @@ _last updated: 11-21-2025_
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
 - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Communicate the issue to the Product Owner
 - If any errors/failures are found within the form, the team will:
