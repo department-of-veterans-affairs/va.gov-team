@@ -34,6 +34,7 @@ First 30 days of feedback, November 10th - December 8th, 2025
 ---
 
 ## 11/10/25 – **5% of users**
+0% error rates
 
 <img width="913" height="454" alt="Screenshot 2025-11-21 at 12 42 40 PM" src="https://github.com/user-attachments/assets/438e1720-6ada-4806-af03-dac385993b99" />
 
@@ -42,6 +43,9 @@ First 30 days of feedback, November 10th - December 8th, 2025
 ## 11/10/25 – **25% of users**
 
 ### Datadog
+70% of the time users choose a "recent care team" over "a different care team".
+
+Day 1:
 | Metric Name | Value |
 |---|---|
 | “Select different care team” click rate | 621 |
@@ -51,10 +55,17 @@ First 30 days of feedback, November 10th - December 8th, 2025
 | Click on "Update your contact list" | 122 |
 <img width="748" height="748" alt="Screenshot 2025-11-21 at 12 43 12 PM" src="https://github.com/user-attachments/assets/03a49782-6b1e-498c-865f-6f03633cf3b6" />
 
+Day 2:
+<img width="913" height="736" alt="Screenshot 2025-11-21 at 2 04 32 PM" src="https://github.com/user-attachments/assets/d75b5fab-e306-4ea5-9d51-1c24b63de085" />
+
+### Medallia feedback
+- I was trying to respond to [redacted] in Norfolk, NWI/Physical Therapy for resources she asked me to have her order. The secure messenger refuses to let me email her... or anyone other than the Holdrege VA CBOC.”
+- “Confused with the new message page, was it a change? Don't trust the change.”
+
 ---
 
 ## 11/12/25 – **50% of users**
- 
+
 ### Datadog
 - Messages sent: 5.8K messages sent with the new flow out of 12k total
 - Error rates: minimal - "Majority of errors  at ~1% are 403's  coming from expired vets-api token. These requests are automatically retried without any impact on the ultimate result of sending a message."
