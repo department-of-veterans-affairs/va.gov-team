@@ -136,9 +136,9 @@ Has there been a time when you disagreed with a decision the VA made about your 
 ## 0% ratings (if there's time)
 
 Do you have any conditions that are rated at 0%?
-*If yes:*
-    * How did that happen?  
-    * In your own words, could you explain how there could be a disability rated at 0%?
+_If yes:_
+  - How did that happen?  
+  - In your own words, could you explain how there could be a disability rated at 0%?
 
 ## Secondary conditions (if there’s time)
 
