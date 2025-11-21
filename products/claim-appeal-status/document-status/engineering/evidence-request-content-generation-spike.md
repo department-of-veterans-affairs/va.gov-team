@@ -352,7 +352,7 @@ item.shortDescription || item.activityDescription || truncateDescription(item.de
 ### 3. What would need to change to serve abridged content to mobile?
 
 **Current mobile gap:**
-Mobile app currently does NOT receive override fields at all. The mobile adapter ([`lighthouse_individual_claims.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/main/modules/mobile/app/models/mobile/v0/adapters/lighthouse_individual_claims.rb)) transforms tracked items into `eventsTimeline` format but strips out all override fields:
+Mobile app currently does NOT receive override fields at all. The mobile adapter ([`lighthouse_individual_claims.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/main/modules/mobile/app/models/mobile/v0/adapters/lighthouse_individual_claims.rb)) transforms tracked items into `eventsTimeline` format and excludes all override fields:
 - **Text content overrides:**
   - `friendlyName` ❌ Not passed through
   - `activityDescription` ❌ Not passed through
