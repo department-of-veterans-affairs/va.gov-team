@@ -140,15 +140,16 @@ Jeff Barnes
  "1012830022V956566",
  "1012830699V134174",
  "1012830899V368969",
- 1012832025V743496 - vets.gov.user+36@gmail.com	
- "1012832249V897380",
- 1012832723V827263 - vets.gov.user+231@gmail.com	- full middle name, also a Jr. at the end - populated on form
- 1012833405V013211 - vets.gov.user+191@gmail.com	- full middle name - not populated on form
- 1012833451V763238 - vets.gov.user+198@gmail.com	- middle initial, also a Jr. at the end
- 1012845633V224390 - vets.gov.user+56@gmail.com - partial year enrollment
- 1012845634V053289 - vets.gov.user+68@gmail.com -  long address
- 1012845638V677813 - vets.gov.user+81@gmail.com - middle initial
- 1012845641V794751 - vets.gov.user+99@gmail.com - no middle
- 1013047802V634522 - vets.gov.user+206@gmail.com - middle initial
+  "1012832249V897380"
+ 
+-  1012832025V743496 - vets.gov.user+36@gmail.com	
+-  1012832723V827263 - vets.gov.user+231@gmail.com	- full middle name, also a Jr. at the end - populated on form
+-  1012833405V013211 - vets.gov.user+191@gmail.com	- full middle name - not populated on form
+-  1012833451V763238 - vets.gov.user+198@gmail.com	- middle initial, also a Jr. at the end
+-  1012845633V224390 - vets.gov.user+56@gmail.com - partial year enrollment
+-  1012845634V053289 - vets.gov.user+68@gmail.com -  long address
+-  1012845638V677813 - vets.gov.user+81@gmail.com - middle initial
+-  1012845641V794751 - vets.gov.user+99@gmail.com - no middle
+-  1013047802V634522 - vets.gov.user+206@gmail.com - middle initial
 
 
