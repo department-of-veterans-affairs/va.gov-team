@@ -3,19 +3,19 @@
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+The goal of the Beneficiary Travel Pay team is to empower users to do more with their travel reimbursement claims on VA.gov. This process allows users to submit claims on [VA.gov](http://VA.gov) that include reimbursement requests for mileage reimbursement only or additional expenses that include receipts.  
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**Authenticated**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**This is a new product**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5ce919720bf75d41c4a62aa1e4f86ecf2cd991d5/products/veteran-status/product.md)**
 
 </details>
 
@@ -23,100 +23,52 @@
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
+Objective 1: Our digital experiences are the best way to access VA health care and benefits.
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
-
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
+* Key Result 1: CSAT for our web products have increased by 5 points.
 
 </details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
-
+1. Starting up  
+2. Taking care of myself  
+3. Putting down roots  
+4. Retiring
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the clarifications, start a claim, and add expenses to their claim.
 
-`2.` **[Enter answer here]**
+`2.` Test that the content, including error messages and redirects, properly instructs Veterans on how to file their claim.
 
-`3.` **[Enter answer here]** 
+`3.` Validate that users can leave, and re-enter, a claim in progress.
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
-
-**[Enter outcome here]** 
+The learnings from this study will be used to determine critical fixes prior to MVP launch, as well as areas for continued monitoring and future improvement. As complex claims is a new product, we need to understand points of friction and confusion in order to make improvements. 
 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+**`1.Does the user understand the qualifications around filing on VA.gov, and if they are unable to file on VA.gov, does our process successfully route them to BTSSS?
 
-**`1.`[Enter Q1]**
+**`2.Are participants able to add mileage, as well as additional expenses with documentation, to their claim?
 
-**`2.`[Enter Q2]**
+**`3.Can the participant successfully edit or delete an expense?
 
-**`3.`[Enter Q3]**
+**`4.How does the participant navigate within the tool? 
 
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
+**`5. Is any functionality missing that prevents users from successfully filing a claim?
 
 > [!TIP]
 >Enter more questions as needed
