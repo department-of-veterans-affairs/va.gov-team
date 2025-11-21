@@ -15,9 +15,9 @@ Benefits Intake Optimization - Agile Six
 - Frontend Engineer: Aaron Ponce @amponce 
 - Product Manager: Mike Collier @MikeC-A6 
 - UX Designer: Melissa Schaff @melissajschaff 
-- UX Researcher: Andrea Chappelear 
+- UX Researcher: Andrea Chappelear @a-chappelear
 - Full Stack Engineer: Michael Clement @michaelclement 
-- Backend Engineer: Joining the project team on Oct. 6, 2025 and is currently VA onboarding.
+- Backend Engineer: Nader (Nate) Kutub @nkutub
 
 **VA Stakeholders and Partners:** 
 - VA Project Lead: Dennis Peterson, Office of Information Technology (OIT), dennis.peterson3@va.gov
