@@ -89,8 +89,10 @@ User Feedback 11/13 - 11/17:
 - Most of my doctors and dentist are missing on Send Message.
 - I used to get a list of all the Depts at Lake Nona… I cannot communicate with my providers.
 - You deleted all of my contact list and gave me just 5 on a list of over twenty I have sent messages to in the past.
+  
 **Adding or updating contacts not working (single report so far)**
 - I selected add contact list… none of the 37 contacts I chose got added.
+  
 **Search issue (single report so far)**
 - I was trying to contact the eye clinic in Columbia MO and it asked to type the first 3 letters of the facility. I typed COL and nothing. I tried every combination I could think of… eye clinic, Harry S Truman, Green Team… NOTHING. There used to be a drop down list.
 
