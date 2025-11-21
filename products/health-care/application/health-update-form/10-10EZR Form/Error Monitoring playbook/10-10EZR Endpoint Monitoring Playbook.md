@@ -1,5 +1,5 @@
 # 10-10EZR Endpoint Monitoring Playbook 
-_last updated: 5/16/2025_  
+_last updated: 11/21/2025_  
 
 ## Overview
 
@@ -9,6 +9,14 @@ _last updated: 5/16/2025_
 ## Audience
 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010).
+
+## ‼️Process for Engineers to obtain Veteran contact information (as of 11/21/2025)
+- New process, now that rails access is revoked, for situations where we would normally look at the database.
+   - We are first to reach out to our VA engineer lead closest to our project  
+      - If they are unavailable or don't have rails access, we can reach out to #vfs-platform-support for rails console access. 
+   - **Please note** that we need to have at least two people on a Teams call peering for running production rails console/terminal commands.
+      - We confirmed that one of our engineers could act as one of the two people
+   - **Reminder** to never record any screen sharing that includes pii and pii can only be sent in teams, never in slack or agency email.
 
 # Monitor: 10-10EZR anomaly monitor
 
