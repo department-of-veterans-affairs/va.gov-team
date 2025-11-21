@@ -69,7 +69,7 @@ Although we aimed to keep the visual updates minimal, the new design is still mo
 - Decision date: 11-18-25  
 
 ### Context
-Although the general design direction was established, the component still drew more focus than desired. Creating a solution that reduced emphasis across various use cases proved challenging. One approach was to offer more control over the component’s width. The original component offered a full-width option, which we wanted to preserve, but we also looked to text inputs for inspiration. Like select and text input components, we determined that predefined width options could help teams better match the component to its context.
+Creating a solution for the new Additional Info component that reduced emphasis across various use cases proved challenging. One approach was to offer more control over the component’s width. The original component uses a full-width option, which we wanted to preserve, but we also looked to text inputs for inspiration. Like select and text input components, we determined that predefined width options could help teams better match the component to its context.
 
 ### Decision
 The component will support custom width, XL, and 2XL options so that the Additional Info component doesn’t appear excessively wide when not appropriate.
