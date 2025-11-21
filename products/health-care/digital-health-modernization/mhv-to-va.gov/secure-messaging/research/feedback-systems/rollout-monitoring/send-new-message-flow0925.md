@@ -62,6 +62,8 @@
 | Unique users hitting new-flow endpoints | TBD |
 | Error types observed | TBD |
 
+<img width="913" height="454" alt="Screenshot 2025-11-21 at 12 42 40 PM" src="https://github.com/user-attachments/assets/438e1720-6ada-4806-af03-dac385993b99" />
+
 ---
 
 ## 11/10/25 – **25% of users**
@@ -103,6 +105,8 @@
 | Click on care system radio button | 376 |
 | Click on "can't find your care team" | 304 |
 | Click on "Update your contact list" | 122 |
+<img width="748" height="748" alt="Screenshot 2025-11-21 at 12 43 12 PM" src="https://github.com/user-attachments/assets/03a49782-6b1e-498c-865f-6f03633cf3b6" />
+
 ---
 
 ## 11/12/25 – **50% of users**
