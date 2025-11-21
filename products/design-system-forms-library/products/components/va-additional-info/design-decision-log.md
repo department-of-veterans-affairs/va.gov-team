@@ -7,7 +7,7 @@ Last updated: 11-21-2025
 
 ## ADR 001 - STRUCTURAL UPDATES
 
-Create a slim version of additional info - Design (phase 1) [#4916](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4916)
+va-additional-info & va-alert-expandable has a link with role=button to expand content  [#3657](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3657)
 
 ### Status: APPROVED
 
@@ -15,7 +15,7 @@ Create a slim version of additional info - Design (phase 1) [#4916](https://gith
 - Decision date: 8-21-25  
 
 ### Context
-A [bug was filed requesting updates to the Additional Info design to improve accessibility and better reflect its button-like behavior](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3657). The current design resembles a link, which is misleading.
+A bug was filed requesting updates to the Additional Info design to improve accessibility and better reflect its button-like behavior. The current design resembles a link, which is misleading.
 
 During investigation, we found that the Additional Info component could be further improved by restructuring it to use the native `<summary>` and `<details>` HTML elements. More information on these elements can be found at [MDN - `<details>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details). While these tags previously raised accessibility concerns, those issues have since been resolved. Using them would provide a more accessible structure and eliminate the need for JavaScript, resulting in a simpler, more robust component.
 
@@ -36,6 +36,8 @@ Changing the component’s structure and markup comes with risks. Because this c
 ---
 
 ## ADR 002 - DESIGN UPDATES
+
+Create a slim version of additional info - Design (phase 1) [#4916](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4916)
 
 ### Status: APPROVED
 
