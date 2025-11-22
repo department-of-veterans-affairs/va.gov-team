@@ -88,12 +88,12 @@ User acceptance testing (UAT):
 
 ## Research materials 📔
 
-- Test scenarios
-- URL
+- [Test scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/test%20scenarios.md)
+- Test URL TBD
 - NOTE: We need to determine if we are testing in prod or staging; if in prod, there is a increased risk of PII exposure as users will use their own information
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](url goes here) - TBD
 - [Link to prototype](url goes here)
 
 
