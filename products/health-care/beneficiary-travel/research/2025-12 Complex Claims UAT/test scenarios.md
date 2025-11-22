@@ -208,28 +208,54 @@ System: if adding or editing either document or expense fails, display error ale
 - In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
 ## Page: Lodging expense
-
--
+- User uploads receipt
+- User enters lodging name
+- User enters check in date, check out date, date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
 ## Page: Meals expense
-
--
+- User uploads receipt
+- User enters where meal was purchased
+- User enters date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
 ## Page: Other travel expenses
-
--
+- User uploads receipt
+- User enters date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
 ## Page: Beneficiary travel agreement
--
+- User confirms informaiton is correct
+- User submits: continue to confirmation page
+    - If failure, system error is displayed on intermediary page
+- User goes back: user is returned to unsubmitted expenses
 
 ## Page: Confirmation
-
--
+- User received confirmation number
+- User views submitted expenses in accordion
+- User prints page
+- User clicks review your appointments link: continue to past appointment
 
 ## System Errors, etc.
+- Failure to create claim: System error displays error "We couldn't start your claim" on intermediary page
+- Failure to add expense (either document or expense fails): System error displays "We couldn't add this expense" on unsubmitted expenses page
+- Failure fo edit expense (either document change or expense change fails): System error displays "We couldn't edit this expense" on unsubmitted expenses page
+- Failure to submit claim: System error displays "We couldn't file your claim" on intermediary page
 
-- 
+Past appointments
+- Failure to access claim: System error displays on appointment details "We can't check your claim status at the moment"
 
+Claim details
+- Failure to access claim details: System error displays "We couldn't get your travel reimbursement claim status in this tool right now"
 
 
 [TODO: Work below into plan as needed]
