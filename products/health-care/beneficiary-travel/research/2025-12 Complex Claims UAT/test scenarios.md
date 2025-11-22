@@ -89,37 +89,54 @@ Test users with the following configurations:
 ## Test cases and steps
 
 A. Verify user can start a complex claim
-1. User navigates to past appointment and selects "File a travel claim"
-2. User is directed to into page
-3. User starts a complex claim
-Success: User is able to see the "select an expense page"
-Failure: User is unable to start a claim. Failure message directs user to other avenues.
+   1. User navigates to past appointment and selects "File a travel claim"
+   2. User is directed to into page
+   3. User starts a complex claim
+
+Success: User is able to see the "select an expense page."   
+Failure: User is unable to start a claim. Failure message directs user to other avenues.   
 
 B. Verify user can select an expense from expense list
-1. User chooses first expense
-2. User is directed to corresponding expense page (ex. If a user selects 'mileage,' they are directed to the next page for mileage)
-Success: User proceeds to secondary questions for mileage OR the corresponding page for the expense they selected
-Failure: User is not directed to the appropriate page that corresponds with their selection.
+   1. User chooses first expense
+   2. User is directed to corresponding expense page (ex. If a user selects 'mileage,' they are directed to the next page for mileage)
+
+Success: User proceeds to secondary questions for mileage OR the corresponding page for the expense they selected.   
+Failure: User is not directed to the appropriate page that corresponds with their selection.   
 
 C. Verify user can add expense information and document to expense page
-1. User adds data and receipt
-2. User hits continue
-3. User is directed to the unsubmitted expenses page
-Success: User sees a success modal on the unsbumitted expenses page
-Failure: User sees an alert that the expense was not added
+   1. User adds receipt and information
+   2. User hits continue
+   3. User is directed to the unsubmitted expenses page
 
-D. Verify user can add more expense from the unsubmitted expense page
-1. User chooses secondary action "add more expenses"
-2. User re-enters steps 'B' and 'C' and continues on the add expense flow
-Success: User is able to select a new expense
-Failure: User is unable return to the select an expense page
+Success: User sees a success alert on the unsbumitted expenses page, confirming their expense was successfully added   
+Failure: User sees a warning alert on the unsubmitted expenses page that explains that the expense was not added   
 
+D. Verify user can add more expenses from the unsubmitted expense page
+   1. User chooses secondary action "add more expenses"
+   2. User re-enters steps 'B' and 'C' and continues on the add expense flow
 
+Success: User is able to select a new expense   
+Failure: User is unable return to the select an expense page   
+
+E. Verify user can edit expenses from the unsubmitted expense page
+   1. User chooses chooses to edit expense
+   2. User re-enters steps 'C' and edits the expense
+
+Success: User sees a success alert on the unsbumitted expenses page, confirming their expense was successfully edited   
+Failure: User sees a warning alert on the unsubmitted expenses page that explains that the expense was not edited   
+
+E. Verify user can delete expenses from the unsubmitted expense page
+   1. User chooses chooses to delete an expense
+   2. A modal confirms the destructive action
+   3. User proceeds
+
+Success: The card is deleted from the accordion.   
+Failure: The card is not deleted from the accordion.   
 
 ## Page: What type of expense do you want to add?
 
 - User selects mileage: continue to mileage expense page to answer corresponding questions
--   If on a subsequent visit to this page the user selects mileage again, show error "You can only add 1 mileage expense for each claim. Select another expense type or submit your claim.
+   -   If on a subsequent visit to this page the user selects mileage again, show error "You can only add 1 mileage expense for each claim. Select another expense type or submit your claim.
 - User selects parking: continue to parking expense page
 - User selects tolls: continue to toll expense page
 - User selects public transportation, taxi, or rideshare: continue to public transportation, taxi, or rideshare expense page
@@ -145,49 +162,74 @@ Failure: User is unable return to the select an expense page
 
 System: if adding or editing either document or expense fails, display error alert on unsubmitted expenses page.
 
-## Patient Indicated Date Page
+## Page: Mileage verification
 
-- User enters preferred date that is not same-day: accept input and continue to next page  
-- User enters same-day date: show warning they can’t schedule today + instructions for immediate medical help  
-- User leaves preferred date blank: show validation error  
+- User selects the address they departed from
+- User selects if the trip was round trip or one way
+- If a user selects EITHER "a different address" or "one way": continue to intermidiary page "You'll need to file this claim in another tool" with link to BTSSS
+- If a user does not select either and attempts to proceed: in-line error
 
-## Page: What date and time do you want for this appointment?
+## Page: Parking expense
+- User uploads receipt
+- User enters date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
-- Appointment time available: display calendar with appointment slots of selected provider  
-- API call to fetch slots fails, requests are enabled: display alert with request option  
-- API call to fetch slots fails, requests are not enabled: display alert with “Call to schedule”  
+## Page: Toll expense
+- User uploads receipt
+- User enters date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
-## Page: What’s the reason for this appointment?
+## Page: Public transporation, taxi, or rideshare expense
+- User uploads receipt
+- User selects transportation type
+- User selects reason for public transportation
+- User enters date on receipt, amount requested, and optional description
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
-- Reason provided: continue  
-- Field left blank: block with validation error  
+## Page: Airfare expense
+- User uploads receipt
+- User enters company name
+- User selects round trip or one way
+     - IF user selects round trip, return date toggles to a required field
+- User enteres departure date, departure airport, arrival airport, return date IF the round trip option is selected, date on receipt, amount requested, and optional description
+     - IF a user enters a return date, modal prompts them to review their selection (mismatch between one way and return date)
+- User selects continue: continue to unsubmitted expenses page
+- User cancels adding expense: user is returned to select expense page
+- User goes back: user is warned of destructive action and taken back to their previous page
+- In-line errors: user is instructed to correct or fill out all fields; if user continues with error, focus state returns them to the first error in the hierarchy
 
-## Contact Info Confirmation
+## Page: Lodging expense
 
-- Contact info confirmed or edited: proceed  
-- Contact info empty: block with validation error  
+-
 
-## Final Review and Confirmation
+## Page: Meals expense
 
-- Show all appointment data: user selects confirm: allow confirmation  
+-
 
-## Request Flow Specifics
+## Page: Other travel expenses
 
-- Facility has requests enabled, direct scheduling is not: continue to request path  
-- Direct scheduling enabled but no time slots available: fallback to request path  
-- User wants different provider: allow request if enabled  
-- Request submitted: confirmation message displayed  
-- Request fails due to limit or error: show failure message  
+-
+
+## Page: Beneficiary travel agreement
+-
+
+## Page: Confirmation
+
+-
 
 ## System Errors, etc.
 
-- System returns no eligible facilities: block, show fallback messaging  
-- User tries to go back and change care type: preserve data and flow  
-- Unexpected errors during scheduling: display general error fallback  
+- 
 
-## Cancelation scenarios
-
-Note: waiting on Spike on cancelation logic to write up testing plan
 
 
 [TODO: Work below into plan as needed]
