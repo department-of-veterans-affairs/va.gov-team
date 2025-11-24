@@ -12,7 +12,7 @@ background:
   problem_statement: "Form 21P-601 (Application for Accrued Amounts Due a Deceased Beneficiary) is currently a paper-only form used to claim VA benefits that were owed but unpaid at the time of a beneficiary's death."
   product_location: "My VA dashboard, Pension and Survivor Benefits section, Find a VA Form search, Potentially linked from DIC/Survivors Pension application flows when relevant"
   user_familiarity: "This is a new product. While Form 21P-601 has existed as a paper form, there's currently no online version. Surviving spouses may be familiar with receiving the paper form in the mail, but have no experience with an online version."
-  product_brief_url: "Link to product brief URL"
+  product_brief_url: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/simple-forms/21P-601/21P-601_product_outline.md
 
 # Research Design
 methodology: "Semi-structured interviews combined with usability concept testing"
@@ -169,7 +169,7 @@ However, we need to understand:
 
 This form is part of VA's broader Benefits Intake Optimization effort and relates to the "11 forms by 11/11/2025" digitization goal.
 
-</details>
+(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/simple-forms/21P-601/21P-601_product_outline.md)
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
