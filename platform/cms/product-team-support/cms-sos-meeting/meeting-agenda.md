@@ -6,14 +6,15 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
     * tickets have been updated
     * Update to URL publishing process
+        * Publishing the URL Redirect before the URL of the Facility in Drupal causes less time for the page to be a 404 so we will be updating the runbook and Mural diagram to match this change.
     * Setting up a Flagged Facility touchpoint since that is a different audience
 * Template Migration
     * Launching finished templates in December:
+        * VAMC Billing & Insurance (11/25/2025)
         * VAMC Health Services listing
         * VAMC Operating Status
         * VAMC Policies
         * Vet Center Locations list
-        * VAMC Billing & Insurance
         * VAMC Register for care
         * VAMC Medical Records Office
 
