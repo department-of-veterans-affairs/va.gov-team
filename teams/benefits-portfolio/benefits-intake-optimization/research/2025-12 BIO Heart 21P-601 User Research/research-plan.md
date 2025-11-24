@@ -171,6 +171,8 @@ This form is part of VA's broader Benefits Intake Optimization effort and relate
 
 (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/simple-forms/21P-601/21P-601_product_outline.md)
 
+</details>
+
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
