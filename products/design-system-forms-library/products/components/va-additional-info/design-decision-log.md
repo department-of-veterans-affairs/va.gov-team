@@ -1,11 +1,11 @@
 # va-additional-info Design Decisions
 Last updated: 11-21-2025
 
-- [ADR: 001 - STRUCTURAL UPDATES](#ADR-001---STRUCTURAL-UPDATES)
-- [ADR: 002 - DESIGN UPDATES](#ADR-002---DESIGN-UPDATES)
-- [ADR: 003 - SIZES](#ADR-003---SIZES)
+- [ADR: 001 - Structural updates](#ADR-001---Structural-updates)
+- [ADR: 002 - Design Updates](#ADR-002---Design-Updates)
+- [ADR: 003 - Sizes](#ADR-003---Sizes)
 
-## ADR 001 - STRUCTURAL UPDATES
+## ADR 001 - Structural updates
 
 va-additional-info & va-alert-expandable has a link with role=button to expand content  [#3657](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3657)
 
@@ -35,7 +35,7 @@ Changing the component’s structure and markup comes with risks. Because this c
 
 ---
 
-## ADR 002 - DESIGN UPDATES
+## ADR 002 - Design updates
 
 Create a slim version of additional info - Design (phase 1) [#4916](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4916)
 
@@ -65,7 +65,7 @@ Although we aimed to keep the visual updates minimal, the new design is still mo
 
 ---
 
-## ADR 003 - SIZES
+## ADR 003 - Sizes
 
 ### Status: APPROVED
 
