@@ -3,11 +3,11 @@
 Date: 10/2025 - 11/2025
 
 ## Interviewees
-10/30: Ashley Hillman
-11/10: Dr. Ami Shah
-11/12: Dr. Tyler Galloway
-11/17: Molly Bruvold and Dr. Jeff Cooney
-11/19: Dr. Richard Morris
+**10/30:** Ashley Hillman
+**11/10:** Dr. Ami Shah
+**11/12:** Dr. Tyler Galloway
+**11/17:** Molly Bruvold and Dr. Jeff Cooney
+**11/19:** Dr. Richard Morris
 
 ## Research goals
 1.	Be able to create a provider service blueprint for receiving a renewal request via SM.
