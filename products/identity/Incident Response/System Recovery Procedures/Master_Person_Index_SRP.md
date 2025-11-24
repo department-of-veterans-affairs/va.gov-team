@@ -42,6 +42,6 @@ There are no technical recovery steps required of the Identity team. The OCTO Pl
    2. [Production MPI PSIM Latency High](https://vagov.ddog-gov.com/monitors/238295?view=spans)  
 2. Manual Testing. To perform this step you will need production credentials.  
    1. Ensure authentication attempts originating from VA.gov are successful   
-      1. Perform either an [SSOe](https://www.va.gov/?next=loginModal\&oauth=false) or [SiS](https://www.va.gov/?next=loginModal\&oauth=true) authentication with any credential service provider.  
+      1. Perform either a [SiS](https://www.va.gov/?next=loginModal\&oauth=true) authentication with any credential service provider.  
       2. After successful authentication navigate to [api.va.gov/v0/user](http://api.va.gov/v0/user) and locate your `icn` to verify VA.gov is successfully connecting to MPI.
-4. State in the `#identity-support` channel that all MPI services have been restored and confirmed to be working as well as srp is complete
+4. State in the `#identity-support` channel that all MPI services have been restored and confirmed to be working as well as srp is complete.
