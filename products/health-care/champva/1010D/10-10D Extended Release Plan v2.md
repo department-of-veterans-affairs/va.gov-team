@@ -85,15 +85,15 @@ Due to the structure of the extended form (as an entirely new app instead of bui
 - a hard cutover with no phased launch which obviously carries a lot of risk for a form with this much volume.
 
 ### PROPOSED LAUNCH PLAN
-Content/IA has given us the green light for our current rollout plan. For the sake of explaining the plan, I'm going to use 9/1 as a launch date. Thats not the actual launch date:
+Content/IA has given us the green light for our current rollout plan. Tentative launch dates below:
 - If a user starts but does not finish the 1010d original at any point in this phased launch, we will store that record and when they return they will continue with the 1010d original
-- 9/1 1010d extended goes up for canary at a new url, 1010d original is still available to all other users at the old url
-- 9/3 1010d extended goes to 25% at it's new url, 1010d original is still available to the other 75% of users at the old url
-- 9/5 1010d extended goes to 50% at its new url, 1010d original is still available to the other 50% of users at the old url
-- 9/7 1010d extended goes to 75% at its new url, 1010d original is still available to the other 25% of users at the old url
-- 9/9 1010d extended fully replaces 1010d original, still at its new url, but 'new' visitors cannot access the 1010d original
+- 12/1 1010d extended goes up for canary at a new url, 1010d original is still available to all other users at the old url
+- 12/3 1010d extended goes to 25% at it's new url, 1010d original is still available to the other 75% of users at the old url
+- 12/5 1010d extended goes to 50% at its new url, 1010d original is still available to the other 50% of users at the old url
+- 12/8 1010d extended goes to 75% at its new url, 1010d original is still available to the other 25% of users at the old url
+- 12/10 1010d extended fully replaces 1010d original, still at its new url, but 'new' visitors cannot access the 1010d original
    - for the standard 60 days that we save forms in progress, users who have an in progress 1010d original will continue the in progress 1010d original if they return
-- 60 days after 9/9, the 1010d extended will fully replace the 1010d original at the old url. no one will be able to access 1010d original
+- 60 days after 12/10, the 1010d extended will fully replace the 1010d original at the old url. no one will be able to access 1010d original
 
 ### Stage A: Canary
 
