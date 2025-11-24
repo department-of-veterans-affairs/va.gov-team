@@ -186,6 +186,8 @@ For this scenario, imagine that you have a few different health conditions that 
 
 As you use the prototype, please verbalize your thoughts out loud so we can understand how it’s working for you.
 
+[Jump link to Banana questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20v2%20-%202025-10-Supplemental-Claim.md#-prototype-banana-10-15-min)
+
 
 ## Prototype 1 / Task 1 setup info
 
