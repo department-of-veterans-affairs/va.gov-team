@@ -12,7 +12,7 @@ meeting to brainstorm all use cases/edge cases early on. Examples of cases that
 could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran
 searches and gets no results.", etc.
 
-# Staging URLS
+## Staging URLS
 Product  | Staging URL |Use Cases|
 |--|--|--|
 | Combined Debt Portal| https://staging.va.gov/manage-va-debt/summary| [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)|
@@ -22,12 +22,14 @@ Product  | Staging URL |Use Cases|
 |Digital Dispute| https://staging.va.gov/manage-va-debt/dispute-debt/introduction|
 
 
+
 **Useful Links:**
 - [Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md)
 - [Designs](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?m=auto&t=YSdPMSoyDrlyv5kI-6)
 
-## On this page
+
+## Use Case Stories
 
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
