@@ -77,3 +77,39 @@ Retrieves available topics for appointment booking or information. Requires a Be
 
 - `topicId`: Unique identifier for the topic.
 - `topicName`: Name or description of the topic.
+
+### POST /vass/v0/appointment
+
+Submits a request for a new appointment. Requires a Bearer Token received after authentication.
+
+**Request:**
+- Method: `POST`
+- Headers:
+  - `Authorization: Bearer <token>`
+  - `Content-Type: application/json`
+- Body:
+```json
+{
+  "topics": [
+    "123",
+    "456"
+    // ...more topicIds
+  ],
+  "dtStartUtc": "2024-07-01T14:00:00Z",
+  "dtEndUtc": "2024-07-01T14:30:00Z"
+}
+```
+- `topics`: An array of topicId values related to the appointment.
+- `dtStartUtc`: ISO8601 UTC datetime string for the appointment start.
+- `dtEndUtc`: ISO8601 UTC datetime string for the appointment end.
+
+**Response:**
+```json
+{
+  "data": {
+    "appointmentId": "abcdef123456"
+  }
+}
+```
+- `success`: Boolean indicating if the appointment was submitted successfully.
+- `appointmentId`: Unique identifier for the newly created appointment.
