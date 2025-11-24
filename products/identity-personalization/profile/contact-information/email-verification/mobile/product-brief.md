@@ -60,7 +60,7 @@ The VA wants to ensure that important email communications reach Veterans from t
   * When a user adds a new contact email (this would be prompted immediately when a user added a new email)
   * Annual reminder (this annual reminder is sent a year from when the user verified their email)
     * The Authenticated Experience team notes that the team is holding on the annual reminder until post launch. 
-* Contact email alerts (**these alerts will need to align with mobile formatting and standards**): 
+* Contact email tags (**these alerts will need to align with mobile formatting and standards**): 
   * Contact email not confirmed
   * Contact email confirmed 
 * Alerts will follow the same pattern that the VA Mobile app team has established and be displayed within the following locations of the VAHB app:
