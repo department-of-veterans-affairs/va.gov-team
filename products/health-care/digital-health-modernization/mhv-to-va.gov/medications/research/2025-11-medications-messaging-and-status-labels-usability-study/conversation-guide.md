@@ -91,7 +91,7 @@ I want to make sure that you're comfortable with a few of my teammates assisting
 
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-* We like to share de-identified clips of these sessions with our teammates and stakeholders so they can see how screen reader users interact with our website. Do I have your permission, [name] to use[...]
+* We like to share de-identified clips of these sessions with our teammates and stakeholders so they can see how screen reader users interact with our website. Do I have your permission, [name] to use[...] *[QUESTION: Is this only for screen reader users or all participants?]*
 
 
 ---
@@ -113,13 +113,14 @@ Would you like assistance sharing your screen?
 
 *[Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)*
 
+*[Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)*
 
 ---
 
 
 ## Participant Coaching
 
-Let’s pause right here on this screen.
+Let’s pause right here on this screen. *[Recommend changing this to, "Before we begin, take a minute or two to look around this page." That will give AT users a chance to see what's on the page.]*
 
 As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says* [name]. [Name]* is our test user. However, we would like you to imagi[...]
 
@@ -133,13 +134,13 @@ If you are ready, we can begin. 
 
 ## First task: Status comprehension
 
-First, we’re going to navigate to the medications page by selecting the medications link in the top menu. 
+First, we’re going to navigate to the medications page by selecting the medications link in the top menu. *[Note: This will be "Meds" in responsive layout]*
 
 *From Medications page:*
 
 
 
-1. Tell me what you are looking at.
+1. Tell me what you are looking at *(Alternative, what you see on the page")*.
 2. What can you tell me about what’s going on with your prescriptions.
 3. What can you tell me about x medication? (make med in “**active** status”)
     1. Probe: what does that mean to you?
@@ -176,9 +177,12 @@ Great, thank you for that feedback. Some quick questions before we move onto our
 
 
 
-* What did you think of the prescription statuses?
+* Were you able to access status information for the medications you looked at?
+* What did you think of the different prescription statuses, and how they are described?
+* Does anything about the different statuses feel overwhelming or hard to process?
+* Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [screen magnification]*?
 * Do you think these are the same statuses that you currently use on MHV on VA.gov?
-* How would you like to learn that statuses have changed, if at all?
+* How would you like to learn that the words we use to describe statuses have changed, if at all? *[Question: Is this update correct, that we're asking about the language we use?]*
 * Anything else about statuses that you’d like to share?
 
 Thank you! Now I’d like you to do something else for me..
@@ -222,14 +226,22 @@ Now that you’ve found the renewal link, how would you request more of this med
 
 
 * Do you see the words “Request a renewal”? What do you think that means?
-* Where would you expect to find that link? 
+* Where would you expect to find that link?
+* What do you expect to happen when you select the link?
 
-*[Prefilled Renewal Request Message Content]*
+*[Modal dialog]*
+
+* What do you think this screen is for?
+* What do you think you should do next?
+
+
+*[Select a caregiver screen]*
 
 
 * "Who would you select here, and why?"
 * "If you weren't sure which provider to choose, what would you do?"
 
+*[Prefilled Renewal Request Message Content]*
 
 * What do you notice on this page?
 * Would you edit or add additional information to this message at all?
@@ -237,13 +249,20 @@ Now that you’ve found the renewal link, how would you request more of this med
     * If yes, what would you change in the message?
 * What would you do next to request more medication?
 
+*[Confirmation; medications list page]*
+
+* Where are you now?
+
 *[After task completion]*
 
 
 
 * How easy or difficult did you find the process of requesting a renewal for this medication?
+* Did anything in the process feel overwhelming or hard to process?
+* Did any part of of the process feel harder because of using *[a screen reader] or [screen magnification]*?
 * What would you change about this process?
 * What would you keep about this process?
+* If you were teaching someone else who uses *[a screen reader] or [screen magnification]* to do this, what would you warn them about?
 
 
 *[If they weren’t able to successfully request a renewal after finding the link]*
@@ -260,28 +279,9 @@ Now that you’ve found the renewal link, how would you request more of this med
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
 * *Does the user express confusion about selecting a provider?*
 * *Does the user edit or change the prefilled medication information?*
+* *Do screen reader users recognize that there is prefilled medication information, and what they need to do with it?*
 * *Does the user notice the success alert after sending the renewal request?*
-
-
----
-
-
-## AT Interview – 5 minutes
-
-Our goal in these studies is to make sure we represent the point of view of all users. This is why we are committed to recruiting participants who rely on assistive technology so that we are designing[...]
-
-We are collecting information on how our participants’ reliance on assistive technology may affect their ability to use My HealtheVet. Would you be willing to answer a couple of questions today?
-
-*[if no]*
-
-That’s no problem.
-
-*[if yes]*
-
-
-
-* How long have you been using [AT]?
-* How does using [AT] affect your use of websites?
+* *Does the user know where they are after submitting the renewal request?*
 
 
 ---
@@ -295,7 +295,6 @@ That’s no problem.
 2. Overall, how easy or difficult would you say it was to understand the prescription statuses?
 3. Of everything you looked at today, what would you say was the most confusing to you and why?
 4. Is there anything else you would like to share that we have not covered?
-
 
 ---
 
