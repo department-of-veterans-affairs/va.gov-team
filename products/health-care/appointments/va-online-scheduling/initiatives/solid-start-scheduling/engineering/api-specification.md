@@ -111,5 +111,59 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
   }
 }
 ```
-- `success`: Boolean indicating if the appointment was submitted successfully.
 - `appointmentId`: Unique identifier for the newly created appointment.
+
+### GET /vass/v0/appointment/{appointmentId}
+
+Retrieves details of a specific appointment by its unique identifier. Requires a Bearer Token received after authentication.
+
+**Request:**
+- Method: `GET`
+- Headers:
+  - `Authorization: Bearer <token>`
+- Path Parameters:
+  - `appointmentId`: The unique identifier of the appointment to retrieve.
+
+**Response:**
+```json
+{
+  "data": {
+    "appointmentId": "abcdef123456",
+    "topics": [
+      {
+        "topicId": "123",
+        "topicName": "General Health"
+      }
+      // ...more topics
+    ],
+    "dtStartUtc": "2024-07-01T14:00:00Z",
+    "dtEndUtc": "2024-07-01T14:30:00Z"
+  }
+}
+```
+
+- `appointmentId`: Unique identifier for the appointment.
+- `topics`: Array of topics associated with the appointment.
+- `dtStartUtc`: Start date and time (UTC, ISO8601).
+- `dtEndUtc`: End date and time (UTC, ISO8601).
+
+### POST /vass/v0/appointment/{appointmentId}/cancel
+
+Cancels an existing appointment. Requires a Bearer Token received after authentication.
+
+**Request:**
+- Method: `POST`
+- Headers:
+  - `Authorization: Bearer <token>`
+- Path Parameters:
+  - `appointmentId`: The unique identifier of the appointment to cancel.
+
+**Response:**
+```json
+{
+  "data": {
+    "appointmentId": "abcdef123456"
+  }
+}
+```
+- `appointmentId`: The unique identifier of the cancelled appointment.
