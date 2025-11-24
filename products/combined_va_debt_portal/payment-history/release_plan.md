@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| show_cdp_one_thing_per_page | Enables the One Thing Per Page feature |
+| TBD | Enables the Payment History feature |
 
 ## Step 2: Validation
 
@@ -15,12 +15,12 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [X] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [X] review the plan with your DEPO/OCTO representative.
-  - [X] review the release plan with your team.
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [ ] review the plan with your DEPO/OCTO representative.
+  - [ ] review the release plan with your team.
      
 NOTE: As this was a general portal update and not a new feature there are no analytics beyond general site traffic to track. We will be monitoring Medallia feedback for any user concerns as well as monitoring for technical issues.
 
@@ -73,22 +73,22 @@ Even though your feature has been tested and ready, production is still a differ
 
 #### Planning
 
-- Desired date range or test duration: N/A
-- Desired number of users: N/A
-- How you'll recruit the right production test users: N/A
-- How you'll conduct the testing: N/A
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
+- Desired date range or test duration: TBD
+- Desired number of users: TBD
+- How you'll recruit the right production test users: TBD
+- How you'll conduct the testing: TBD
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: TBD
 
 #### Results
 
-- Number of users: N/A
-- Number of bugs identified / fixed: N/A
+- Number of users: TBD
+- Number of bugs identified / fixed: TBD
   - [FILL_IN] : list
   - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, No
-- Types of errors logged: N/A
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+  - [FILL_IN] : Tickets of bugs/changes
+- Was any downstream service affected by the change?: yes/no, 
+- Types of errors logged:
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -118,13 +118,32 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
-- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Number of unique users: [FILL_IN] 
+- Metrics at this stage (Number of Page Errors):
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no | 
 - Types of errors logged: [FILL_IN] NO
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 50% of users
+### Stage B: 25% of users
+
+*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+
+The recommended progression is 1% → 25% → 100%. However, VFS teams have flexibility to add more increments to mitigate risk.
+
+#### Planning
+
+- Length of time: 5 days (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 10%
+
+#### Results
+
+- Number of unique users: [FILL_IN] 
+- Metrics at this stage (Number of Page Errors):
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no | 
+- Types of errors logged: [FILL_IN] NO
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -135,13 +154,13 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
-- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Number of unique users: [FILL_IN] 
+- Metrics at this stage (Number of Page Errors):
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no | 
 - Types of errors logged: [FILL_IN] NO
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 100% of users
+### Stage D: 100% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -152,11 +171,11 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
-- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Number of unique users: [FILL_IN] 
+- Metrics at this stage (Number of Page Errors):
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no | 
 - Types of errors logged: [FILL_IN] NO
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ## Post Launch metrics
 
@@ -164,25 +183,25 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN] N/A
-- Post-launch KPI 1 actual: [FILL_IN] N/A
-- Post-launch KPI 2 actual: [FILL_IN] N/A
-- Post-launch KPI 3 actual: [FILL_IN] N/A
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN]
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no | 
 - Types of errors logged: [FILL_IN] N/A
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN] N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no | 
+- If yes, what: [FILL_IN]
 
 ### 1-month results
 
-- Number of unique users: [FILL_IN] N/A
-- Post-launch KPI 1 actual: [FILL_IN] N/A
-- Post-launch KPI 2 actual: [FILL_IN] N/A
-- Post-launch KPI 3 actual: [FILL_IN] N/A
-- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Number of unique users: [FILL_IN]
+- Post-launch KPI 1 actual: [FILL_IN] 
+- Post-launch KPI 2 actual: [FILL_IN]
+- Post-launch KPI 3 actual: [FILL_IN]
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no | 
 - Types of errors logged: [FILL_IN] N/A
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN] N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |
+- If yes, what: [FILL_IN]
 
 ## Post-launch Questions
 
