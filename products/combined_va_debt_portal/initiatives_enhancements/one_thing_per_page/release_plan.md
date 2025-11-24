@@ -21,6 +21,8 @@ Before enabling your feature toggle in production, you'll need to:
 - [X] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [X] review the plan with your DEPO/OCTO representative.
   - [X] review the release plan with your team.
+     
+NOTE: As this was a general portal update and not a new feature there are no analytics beyond general site traffic to track. We will be monitoring Medallia feedback for any user concerns as well as monitoring for technical issues.
 
 ## Step 3: Production rollout
 
