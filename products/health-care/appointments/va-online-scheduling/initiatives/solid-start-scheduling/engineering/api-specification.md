@@ -46,3 +46,34 @@ Retrieves available appointment time slots for an authenticated user. Requires a
 
 - `dtStartUtc`: ISO8601 UTC datetime string indicating the start of the slot.
 - `dtEndUtc`: ISO8601 UTC datetime string indicating the end of the slot.
+
+### GET /vass/v0/topics
+
+Retrieves available topics for appointment booking or information. Requires a Bearer Token received after successful authentication.
+
+**Request:**
+- Method: `GET`
+- Headers:
+  - `Authorization: Bearer <token>`
+
+**Response:**
+```json
+{
+  "data": {
+    "topics": [
+      {
+        "topicId": "123",
+        "topicName": "General Health"
+      },
+      {
+        "topicId": "456",
+        "topicName": "Mental Health"
+      }
+      // ...more topics
+    ]
+  }
+}
+```
+
+- `topicId`: Unique identifier for the topic.
+- `topicName`: Name or description of the topic.
