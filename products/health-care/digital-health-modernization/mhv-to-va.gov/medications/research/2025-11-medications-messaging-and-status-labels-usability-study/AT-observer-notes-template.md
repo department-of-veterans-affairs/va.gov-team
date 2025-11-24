@@ -1,4 +1,4 @@
-# Observer notes template: Meds → SM renewal flow & medication status labels testing
+# Observer notes template including AT: Meds → SM renewal flow & medication status labels testing
 
 ## Instructions
 - Take notes as close to verbatim as possible. Don’t worry about perfection.
