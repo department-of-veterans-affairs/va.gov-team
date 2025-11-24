@@ -55,7 +55,8 @@ RA - Remote Access_
 - [ ] [Request access to tools](https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html) documentation on the Platform Website
 - [ ] [Confluence](https://vfs.atlassian.net/wiki/home)
   - [ ] [VA.Gov Platform Manual](https://vfs.atlassian.net/wiki/spaces/OT/pages/2354315287/Platform+Infrastructure+Manual+WIP)
-  - [ ] [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster) - have a manager or leadership add you
+  - [ ] Have a manager or leadership add you to the [Platform Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)
+  - [ ] Read [Confluence/Platform Website Documentation Orientation](https://vfs.atlassian.net/wiki/spaces/AP/pages/4489445378/Confluence+Platform+Website+Documentation+Orientation)
 
 **Platform overview and design**
 
