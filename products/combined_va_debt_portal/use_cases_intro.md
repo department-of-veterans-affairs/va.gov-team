@@ -2,7 +2,7 @@
 
 **Last updated:** 11/24/2025
 
-**Description:** Track and maintain the various use cases that exist for a given product and is
+**Description:** Centralize, track and maintain the various use cases that exist for a given product and that's
 best maintained alongside the product outline.
 
 **Purpose:** The purpose of this document is for designers, PMs, and engineers to align
