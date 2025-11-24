@@ -2,6 +2,13 @@
 
 Date: 10/2025 - 11/2025
 
+## Interviewees
+10/30: Ashley Hillman
+11/10: Dr. Ami Shah
+11/12: Dr. Tyler Galloway
+11/17: Molly Bruvold and Dr. Jeff Cooney
+11/19: Dr. Richard Morris
+
 ## Research goals
 1.	Be able to create a provider service blueprint for receiving a renewal request via SM.
     a. Also include a flow for if the provider receives an incorrect request and needs to “forward” it to the right provider.
@@ -44,3 +51,7 @@ Date: 10/2025 - 11/2025
 - **Problematic single emails:** Dr. Ami Shah found it "Really problematic" to get many separate emails for renewals, preferring "one message with all the medications that need review."
 - **Extra clicks and nurse work:** For Dr. Shah, opening the email and clicking the message requires 4 or 5 clicks to renew a single medication. She relies on a nurse to organize multiple requests into one message (a task she believes a computer should do), stating that the current method creates "lots of extra work across the board."
 - **Medication Status Ambiguity:** Dr. Ami Shah requested definitions of "Active" vs. "inactive" medication status and information on why a medication is not eligible for renewal to streamline her review process.
+
+## Next steps
+1. Update pre-populated message to include findings from Key finding 1.
+2. Look into adding provider credentials per Tyler Galloway's suggestion
