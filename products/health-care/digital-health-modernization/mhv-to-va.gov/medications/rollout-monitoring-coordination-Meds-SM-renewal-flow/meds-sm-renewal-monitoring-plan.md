@@ -141,3 +141,12 @@ We’ll monitor Medallia and VSignals feedback for anything related to the renew
 - Messages send without errors  
 - Low drop-offs  
 - No new concerning user feedback  
+
+---
+
+### GA4 Event Tracking Spreadsheet
+For full details on GA4 event requirements, priority levels, and VSignals/Datadog notes:
+
+👉 [Download the GA4 Monitoring Spreadsheet](GA4_AB_edits_updated_with_providerflow_notes.xlsx)
+
+---
