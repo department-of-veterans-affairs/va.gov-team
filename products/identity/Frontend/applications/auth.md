@@ -24,7 +24,7 @@ The purpose or goal of the Auth application is to confirm a user is authenticate
 1. User lands on `/auth/login/callback`
 2. We check the `auth` query parameter and it equals `success`
 3. We attempt to validate the session through a series of different requirements
-    1. First we check if its an OAuth request (we know if there is a `state` and `code` query parameter AND both are longer than 3 characters
+    1. First we check if its an OAuth request (we know if there is a `state` and `code` query parameter AND both are longer than 3 characters)
     2. If it IS an OAuth request we validate the `state` and `code_verifier` from the original request
        1. Perform the token exchange according to the OAuth 2.0 specification with our API
     3. We double-check that the `auth` query parameter does not require `FORCE_NEEDED` which will reset the SSOe session

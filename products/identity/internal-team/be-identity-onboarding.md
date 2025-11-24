@@ -30,15 +30,15 @@ __Current Team__
 - [`va.gov-team`](https://github.com/department-of-veterans-affairs/va.gov-team) - the primary documentation repository where you can locate and add to [Identity team documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity).
 
 ## `vets-api` Identity-Owned Systems
-### [Single Sign On - External (SSOe)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sso)
-- SSOe is the legacy authentication system within `vets-api`. It leverages SAML communications with the IBM Security Access Manager (ISAM) identity broker system. This system, managed by the Identity and Access Management (IAM) team, is separate from VA.gov and acts as a middle partner between the client (`vets-api`, including other VA systems that use VA.gov as an intermediary authentication parter) and the credential provider that the user is authenticating with.
-- SSOe is run through the `app/controllers/v1/sessions_controller` controller
-- SAML creation & interpretation code that it depends on can be found in `lib/saml`
-
 ### [Sign in Service (SiS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service)
 - SiS is the Identity team-developed OAuth authentication system that is currently partially live. With SiS `vets-api` communicates directly with the relevant credential provider for authentication, then implements a token-based authentication schema with the end client: `vets-website`, the VA mobile app, or another VA system that consumes the SiS API.
 - SiS is run through the `app/controllers/v0/sign_in_controller` controller
 - SiS also leverages `app/services/sign_in` to manage communications with external systems & `lib/sign_in` for miscellaneous dependencies
+
+### [Single Sign On - External (SSOe)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/sso)
+- SSOe is the legacy authentication system within `vets-api` and is actively being deprecated. It leverages SAML communications with the IBM Security Access Manager (ISAM) identity broker system. This system, managed by the Identity and Access Management (IAM) team, is separate from VA.gov and acts as a middle partner between the client (`vets-api`, including other VA systems that use VA.gov as an intermediary authentication parter) and the credential provider that the user is authenticating with.
+- SSOe is run through the `app/controllers/v1/sessions_controller` controller
+- SAML creation & interpretation code that it depends on can be found in `lib/saml`
 
 ## Common `vets-api` console commands
 - `bundle exec rake parallel:spec` - this command allows you to run the thousands of vets-api unit tests in parallel, greatly reducing the total time needed to run the test suite
