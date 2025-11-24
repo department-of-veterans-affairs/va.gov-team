@@ -6,7 +6,7 @@ labels: a11y-testing
 assignees: 'jasonday'
 ---
 
-# Accessibility Testing Artifact
+# Accessibility checklist: Staging review artifact
 
 ## 1. Introduction
 
