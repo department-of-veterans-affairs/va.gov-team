@@ -22,6 +22,10 @@ Exit links from within the app
 ### Phone Number Clicks
 - GA: https://analytics.google.com/analytics/web/template?uid=F12XDPN9Tq-DcBLOEuRDeA
 
+### Number of clinics
+- GA Dashboard showing total number of clinics that appear on the "choose a clinic page": https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/k9S6Z1vCTeiOhefnK7DOZw
+- Gsheet for rolling up those data over time: https://docs.google.com/spreadsheets/d/1xnJf4oPf_f66FapcSUp-w0Lq3kY7JCvhHFRre2Nru6k/edit?usp=sharing
+
 ---
 
 ## VA Appointments
