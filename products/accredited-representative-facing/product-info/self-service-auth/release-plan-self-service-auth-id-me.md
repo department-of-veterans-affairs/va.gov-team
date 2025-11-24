@@ -26,7 +26,7 @@ Asynchronous Go/No Go on Wednesday, November 19 ([Slack thread](https://dsva.sla
 
 - [x] Enable in Production to 100% of users
 - [x] Confirm the release to Production, with a test user
-- [ ] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
+- [x] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
 
 ***
 
@@ -54,13 +54,11 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ### 1-Week Results Post-Launch 
 
-Datadog Endpoint activity 
-1. 
+No issues reported from our representative users.
 
 ### 1-Month Results Post Launch
 
-Datadog Endpoint activity
-1. 
+
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
 
