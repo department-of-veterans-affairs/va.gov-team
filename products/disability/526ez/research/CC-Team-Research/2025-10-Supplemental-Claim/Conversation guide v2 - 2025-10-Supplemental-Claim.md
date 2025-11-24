@@ -251,7 +251,7 @@ Before you click on anything, I want to ask you some questions on this screen.
 * \[question from walkthrough\] Where do you think this list of options came from?  
 * What do you think about how they’re organized?  
 * On this screen, can you tell me which things the VA is already giving you benefits for?  
-* OK, back to the scenario. Imagine that you visited your doctor last month, and they told you your hypertension has gotten worse. You want to try for a higher rating. What would you do?  
+* OK, back to the scenario. About three years ago you got rated for Hypertension but in the last month you feel as though the Hypertension has gotten worse. You want to try for a higher rating. What would you do?  
 * What do you expect to happen next?  
 * OK, go ahead and click Continue
 
@@ -351,7 +351,7 @@ Before you click on anything, I want to ask you some questions on this screen.
 * \[question from walkthrough\] Where do you think this list of options came from?  
 * What do you think about how they’re organized?  
 * On this screen, can you tell me which things the VA is already giving you benefits for?  
-* OK, back to the scenario. Imagine that you visited your doctor last month, and they told you your hypertension has gotten worse. You want to try for a higher rating. What would you do?  
+* OK, back to the scenario. About three years ago you got rated for Hypertension but in the last month you feel as though the Hypertension has gotten worse. You want to try for a higher rating. What would you do?  
 * What do you expect to happen next?  
 * OK, go ahead and click Continue.
 
