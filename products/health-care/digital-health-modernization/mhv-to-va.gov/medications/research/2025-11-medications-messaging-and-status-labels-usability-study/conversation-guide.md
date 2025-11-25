@@ -231,7 +231,7 @@ Now that you’ve found the renewal link, how would you request more of this med
 * What are you looking for?
 * What would you do next?
 
-*[If they couldn’t find the renewal link]* *[navigate participant to the medication with renewal link]:*
+*[If they couldn’t find the renewal link, navigate participant to the medication with renewal link]:*
 
 
 
@@ -248,8 +248,8 @@ Now that you’ve found the renewal link, how would you request more of this med
 *[Select a caregiver screen]*
 
 
-* "Who would you select here, and why?"
-* "If you weren't sure which provider to choose, what would you do?"
+* Who would you select here, and why?
+* If you weren't sure which provider to choose, what would you do?
 
 *[Prefilled Renewal Request Message Content]*
 
@@ -269,14 +269,14 @@ Now that you’ve found the renewal link, how would you request more of this med
 
 *[After task completion]*
 
-
+Thank you for completing that task. I have a few follow up questions for you:
 
 * How easy or difficult did you find the process of requesting a renewal for this medication?
 * Did anything in the process feel overwhelming or hard to process?
-* Did any part of of the process feel harder because of using *[a screen reader] or [screen magnification]*?
 * What would you change about this process?
 * What would you keep about this process?
-* If you were teaching someone else who uses *[a screen reader] or [screen magnification]* to do this, what would you warn them about?
+* _[For AT users:]_ Did any part of of the process feel harder because of using *[a screen reader] or [screen magnification]*?
+* _[For AT users:]_ If you were teaching someone else who uses *[a screen reader] or [screen magnification]* to do this, what would you warn them about?
 
 
 *[Ask the following questions to all users whether they were able to complete the reqeust or not.]*
