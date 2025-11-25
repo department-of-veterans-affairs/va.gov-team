@@ -9,7 +9,9 @@ The `va-file-input` component allows users to upload one or more files through a
 - The file size  
 - Any applicable error messages  
 - A **Change** button  
-- A **Delete** button  
+- A **Delete** button
+- A **Password** input (optional)
+- An additional field input (optional) 
 
 The component may be marked as *required* or *optional*, depending on the form context.
 
@@ -25,22 +27,6 @@ The component may be marked as *required* or *optional*, depending on the form c
 - Inconsistent behavior across screen readers for dynamic changes  
 - Inaccessible error messaging for invalid file types or sizes  
 - Unexpected focus movement when required fields block submission  
-- Incorrect name/role/value exposure for underlying `<input type="file">`
-
----
-**Primary user tasks:**  
-- Upload a file  
-- Replace a file  
-- Delete a file  
-- Proceed with or without uploading (depending on requirement state)
-
-**Key accessibility risks:**  
-- Focus not returning to the correct location after an upload or deletion  
-- Status messages not announced correctly (upload complete, file errors)  
-- Inconsistent behavior across screen readers for dynamic changes  
-- Inaccessible error messaging for invalid file types or sizes  
-- Unexpected focus movement when required fields block submission  
-- Incorrect name/role/value exposure for underlying `<input type="file">`
 
 ---
 
@@ -101,7 +87,7 @@ Each follows the **When / Then** pattern.
 
 ### Test ID: upload-focus-success
 **Purpose:**  
-Verify that after a successful upload, focus moves to the success state or remains stable without unexpected shifts.
+Verify that after a successful upload, focus remains stable without unexpected shifts.
 
 **WCAG:**  
 - 2.4.3 Focus Order  
@@ -115,12 +101,28 @@ Navigate to a form page containing a single `va-file-input`.
 2. And selects a valid file.  
 
 **Expected Result:**  
-- Then focus remains on the **Change** button or returns to a consistent post-upload anchor (per component spec).  
-- And the success or post-upload UI is announced by screen readers (file name, size).  
-- And no unexpected page-level focus shifts occur.  
+- Then focus moves to the component wrapper text "Selected files".
+- And the post-upload UI is announced by screen readers "Selected files" and File name.  
+- And no unexpected page-level focus shifts occur.
 
-**Notes:**  
-Future improvement: Explicit `role="status"` annotation for dynamic success messages.
+#### Actual behavior:
+
+**Screen readers**
+1. ✅ Chrome + VO: VO Virtual cursor lands on "Selected files" and announces "Selected files: Filename.extension" The next tab is the "Change file" button.
+2. ✅ Safari + VO: VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
+3. ✅ Safari + iOS + VO: Virtual cursor lands on the "Select a file to upload" file input label (not in the uploaded UI). And announces "Selected files filename.extension". The next swipe takes the user to the Change file button
+4. ❌ Chrome + iOS + VO: It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page
+5. ❌ Firefox + JAWS: It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" (And it announces this twice). The next tab does go to the change file button
+6. ❌ Edge + JAWS: It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension". The next tab does go to the change file button.
+
+**Magnifcation & Zoom**
+No identified issues across Safari, Chrome, Edge, Firefox
+
+**Voice control**
+1. Mac voice control - can use voice control to activate initial file upload. However, voice control cannot access the "change file" or "delete" buttons without using the grid
+
+**Additional testing needed**
+1. Android - talkback
 
 ---
 
