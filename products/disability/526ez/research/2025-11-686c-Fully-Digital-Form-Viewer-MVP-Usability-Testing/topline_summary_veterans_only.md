@@ -71,7 +71,7 @@ This document’s purpose is to collect the team’s initial top takeaways throu
 - P1, P2, P3, and P4  preferred the question responses being bold rather than the questions themselves
 
 
-### ✅ Hypothesis validated: All participants intuitively understood how to engage with the “on this page” navigation component, but it wasn’t something they found necessary when interacting with the form output right after submitting their applications.
+### ✅ Hypothesis validated: All participants intuitively understood how to engage with the [“on this page” navigation component](https://design.va.gov/components/on-this-page), but it wasn’t something they found necessary when interacting with the form output right after submitting their applications.
 
 - All participants (8 out of 8) knew intuitively how to engage with the “on this page navigation” component.
 
