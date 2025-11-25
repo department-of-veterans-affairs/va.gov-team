@@ -145,7 +145,7 @@ First, we’re going to navigate to the medications page by selecting the medica
 
 
 
-1. Tell me what you are looking at *(Alternative, what you see on the page")*.
+1. Tell me what you see on the page.
 2. What can you tell me about what’s going on with your prescriptions?
 3. What can you tell me about your PEPCID medication? (make med in “**active** status”)
     1. Probe: what does the **active** status mean to you?
@@ -166,16 +166,16 @@ First, we’re going to navigate to the medications page by selecting the medica
 5. What can you tell me about AMOXICILLIN medication? (make med in “**inactive** status”)
     1. Probe: what does that mean to you?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
-        3. What do you think “inactive” means?
-        4. On a scale of 1-5, how confident are you in that answer?
-        5. What do you think happens next for your medication?
-        6. How would you feel if you saw this status on an important medication?
+        1. What do you think “inactive” means?
+        2. On a scale of 1-5, how confident are you in that answer?
+        3. What do you think happens next for your medication?
+        4. How would you feel if you saw this status on an important medication?
 6. Now, imagine that you take a medication regularly. You notice that you are running out of pills. Using this page, do you think you could get more of your med?
 7. How would you differentiate between a 'refill' and a 'renewal'? Is there a difference between those terms to you?
 8. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this page? What would you look for?
-     Notice: Do they filter? Do they think of status or just date?
-     Probe: What status might that medication be in?
-9. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
+  1. *Notice: Do they filter? Do they think of status or just date?*
+  2. Probe: What status might that medication be in?
+10. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
     1. Probe: What status would that medication be in?
 
 *Things to watch out for:*
