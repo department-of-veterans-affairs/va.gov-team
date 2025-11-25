@@ -128,17 +128,33 @@ Perigean will recruit all participants.
 
 ## Perigean Kick-Off Meeting
 - Yes, date TBD.
-- Perigean notetaker - No
+- Perigean notetaker - Yes, for every session unless noted.
 - Timeline: TBD
 
 ## Pilot Test
-- Pilot participant email:
+- Pilot participant email:~ 
 - Date and time of pilot session:
 
 ## Length of Sessions
 - Session length: 60 minutes
-- Buffer time between sessions: 30 minutes
-- Maximum Sessions per day: Preferably 2, but 3 are acceptable.
+- Buffer time between sessions: 60 minutes
+- Maximum Sessions per day: **See Availability table below.**
+## Availability 
+
+ Moderating Schedule
+
+| Date   | Tim (1-2 sessions)         | Nina    (2-3 sessions)          |
+| ------ | ---------------- | ---------------- |
+| 12/8   | 8-4              | 10-6             | 
+| 12/9   | 10-2             | 10-6             |
+| 12/10  | 8-4              | 10-6             |
+| 12/11  | 8-12 and 2-4           | 10-12   and 2-6         |
+| 12/12  | 8-4              | 10-5             |
+| 12/15  | 8-4              | 10-6             |
+| **Min/Max sessions for a total of 24** | **6-12 sessions**  |**12-18 sessions**|
+
+
+
 
 ## Team Roles
 
