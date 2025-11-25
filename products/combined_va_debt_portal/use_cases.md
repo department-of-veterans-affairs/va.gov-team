@@ -14,10 +14,9 @@ For a high-level overview and links to related product-specific docs, see:\
 - [Designs](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?m=auto&t=YSdPMSoyDrlyv5kI-6)
 
 
-## At a Glance
-
+## Quick View
 <details>
-<summary>[click to expand/collapse a short list of all use cases]</summary>
+<summary>List of use cases in this document</summary>
   
 - [Use Case A - Veteran only has a debt](#use-case-a----veteran-only-has-a-debt)
 - [Use Case B - Veteran only has a copay bill](#use-case-b---veteran-only-has-a-copay-bill)
