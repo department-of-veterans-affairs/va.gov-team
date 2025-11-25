@@ -107,9 +107,9 @@
     - None
 - Test strategy
   - Describe automated, manual and user acceptance test strategy
-    - [Regression test plan](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/QA%20Artifacts/686c%20v3%20Test%20Plan.xlsx?d=w11b77f9e1ad64078a2241fad266e5c78&csf=1&web=1&e=VlfYex&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wNTAwLTAwMDAwMDAwMDAwMH0)
-    - Test plan [Link 1](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/QA%20Artifacts/686c%20v3%20Test%20Plan.xlsx?d=w11b77f9e1ad64078a2241fad266e5c78&csf=1&web=1&e=5m388h&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0) & [Link 2](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/QA%20Artifacts/686c%20v3%20Test%20Plan.xlsx?d=w11b77f9e1ad64078a2241fad266e5c78&csf=1&web=1&e=Gub4Hu&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0)
-    - [Coverage for References](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Dependents%20Management/QA%20Artifacts/686c%20v3%20Test%20Plan.xlsx?d=w11b77f9e1ad64078a2241fad266e5c78&csf=1&web=1&e=er6y8F&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0)
+    - [Regression test plan](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EZ5_txHWGnhAoiQfrSZuXHgBO3FxGnCMTEElOJHvSC_4LA?e=6Br9Cc&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wNTAwLTAwMDAwMDAwMDAwMH0)
+    - Test plan [Link 1](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EZ5_txHWGnhAoiQfrSZuXHgBO3FxGnCMTEElOJHvSC_4LA?e=46DzQf&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0) & [Link 2](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EZ5_txHWGnhAoiQfrSZuXHgBO3FxGnCMTEElOJHvSC_4LA?e=x8XZVz&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0)
+    - [Coverage for References](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EZ5_txHWGnhAoiQfrSZuXHgBO3FxGnCMTEElOJHvSC_4LA?e=R8zh3C&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMzAwLTAwMDAwMDAwMDAwMH0)
   - Describe required test data and test user accounts
     - Test user account are located in the `va.gov-team-sensitive` repository: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/dependents-picklist-test-users.md
     - Test users should be populated with data necessary to test dependent removal flows using the Picklist feature. 
