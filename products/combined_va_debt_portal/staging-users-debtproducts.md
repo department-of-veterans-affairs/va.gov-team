@@ -55,10 +55,11 @@ For a high-level overview of use cases in relation the user list below, see:\
 </br>
 </br>
 
-## Test User Dashboard (TUD)
-- Is behind the SOCKS proxy, so you have to have that setup in order to use TUD.
-- To use TUD, start SOCKS, then go to [https://tud.vfs.va.gov/](https://tud.vfs.va.gov/) and login with GitHub.
-- [https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html)
+## Test User Dashboard (TUD) 
+This section needs updating as TUD isn't functioning properly and SOCKS access is deprecated.
+- ~~Is behind the SOCKS proxy, so you have to have that setup in order to use TUD.~~
+- ~~To use TUD, start SOCKS, then go to [https://tud.vfs.va.gov/](https://tud.vfs.va.gov/) and login with GitHub.~~
+- ~~[https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html](https://depo-platform-documentation.scrollhelp.site/developer-docs/Using-the-Test-User-Dashboard.1910702416.html)~~
 
 
 
