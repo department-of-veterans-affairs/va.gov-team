@@ -1,27 +1,36 @@
-# Combined VA Debt Portal - Use Cases
+# Combined VA Debt Portal - Use Case Overview
 
-**Last updated:** 11/24/2025
+**Last updated:** 11/25/2025
 
-**Description:** Centralize, track and maintain the various use cases that exist for a given product and that's
-best maintained alongside the product outline.
+This document is a centralized starting point for all use cases related to the Combined VA Debt Portal. It is intended for product, design, engineering, policy, and stakeholder teams who need to understand how Veterans and agents interact with VA debt tools and services.
 
-**Purpose:** The purpose of this document is for designers, PMs, and engineers to align
-early on on potential use cases and edge cases so these things aren't coming up
-randomly and late in the process. We recommend the team schedule a 30 minute
-meeting to brainstorm all use cases/edge cases early on. Examples of cases that
-could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran
-searches and gets no results.", etc.
+When starting or evolving a product, we recommend scheduling a 30‑minute working session (as needed) to brainstorm use cases and edge cases and capture them here for ongoing clarity. Examples include: “Veteran logs in but is not LOA3 verified” and “Veteran searches and gets no results.”
+
+## Use case documents
+- Combined VA Debt Portal use case index and details
+  - See: [Debt/Copay – Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+- Financial Status Report (FSR) use cases (subset of the portal flows)
+  - See: [Financial Status Report – Use Cases
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md)
+
+## Scope
+These documents focus on:
+  - End-to-end user flows related to viewing, understanding, and resolving VA debts within the Combined VA Debt Portal.
+  - Shared patterns and cross-cutting flows (navigation, authentication, error handling) that span multiple debt tools.
+  - Product-specific flows (like FSR) that plug into the portal, documented in their own sub-pages but linked from this overview.
+
+If you are adding a new debt-related feature or product, please:
+  - Add the new use cases to the Combined VA Debt Portal index, and
+  - Create a dedicated product-specific use case doc if needed, then link it here under “Use case documents.”
 
 ## Staging URLS
-Product  | Staging URL |Use Cases|
-|--|--|--|
-| Combined Debt Portal| https://staging.va.gov/manage-va-debt/summary| [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)|
+Product  | Staging URL |
+|--|--|
+| Combined Debt Portal| https://staging.va.gov/manage-va-debt/summary|
 | Benefit Overpayment Debts |https://staging.va.gov/manage-va-debt/summary/debt-balances
 | Current Copay Balances |https://staging.va.gov/manage-va-debt/summary/copay-balances
-|FSR| https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction| [Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md) |
+|FSR| https://staging.va.gov/manage-va-debt/request-debt-help-form-5655/introduction|
 |Digital Dispute| https://staging.va.gov/manage-va-debt/dispute-debt/introduction|
-
-
 
 **Useful Links:**
 - [Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)
