@@ -94,7 +94,7 @@ Verify that after a successful upload, focus remains stable without unexpected s
 - 4.1.3 Status Messages  
 
 **Setup:**  
-Navigate to a form page containing a single `va-file-input`.
+Navigate to a form page containing a single `va-file-input`. [Using storybook for this testing on a branch](https://file-input-focus-and-sr--65a6e2ed2314f7b8f98609d8.chromatic.com/iframe.html?globals=&args=&id=uswds-va-file-input--default&viewMode=story)
 
 **Steps:**  
 1. When the user activates the **Choose file** button.  
