@@ -1,10 +1,10 @@
-# **0781 Evidence Upload Research Findings**
+# **0781 Evidence Upload Research Report**
 
 Office of the CTO \- Digital Experience (OCTO-DE), 526/0781, Pathways
 
 Date: October 2025
 
-Contacts: Momo Miyazaki
+Contacts: Momo Miyazaki, Brent Schneider, Amy Goldman
 
 Jump to:
 
@@ -16,7 +16,7 @@ Jump to:
 * [Details of findings](#details-of-findings)  
 * [Appendix](#appendix)
 
-## **Background** {#background}
+## **Background**
 
 At the present, all Veterans upload their documents as supporting evidence of their claim in one step at the very end of VA form 21-526 EZ, the application Veterans use to apply for disability compensation benefits. Veterans who opt into form 0781, which supports claims for mental health conditions, do not currently have a specific section that walks them through the process of uploading documents to support those conditions. Although opting into the 0781 form is optional, once the Veteran does so, they need to provide evidence to support their stated mental health conditions. If the Veteran doesn’t provide the correct evidence, it can delay adjudication or result in their claim being denied. Additionally if the Veteran doesn’t provide enough of the right kind of evidence, the VBA will not be equipped to follow up on these items, leading to their claim being denied. 
 
