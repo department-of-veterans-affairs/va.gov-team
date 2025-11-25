@@ -6,7 +6,7 @@ To create a [VA.gov](http://VA.gov) account, Veterans must first enter an email 
 
 Currently, there is no verification process on the web and the VAHB app to ensure that, over time, the contact email address is valid and being monitored by the user. Veterans with stale email addresses can lead to reduced engagement, and the VA is unable to ensure that they are correctly communicating with that user. 
 
-As of July 2025, the Authenticated Experience team is working to implement an email verification process on [VA.gov](http://VA.gov) for the contact email. They will require the Veteran’s contact email address stored in [VA.gov](http://VA.gov) Profile to be verified once a year. After this is created on the web, we will need to integrate it with the email verification process on the VAHB mobile app, ensuring that VAHB has the most up-to-date email addresses.    
+The Authenticated Experience team is working to implement an email verification process on [VA.gov](http://VA.gov) for the contact email. The MFS team is working to integrate the email verification process on the VAHB mobile app, ensuring that VAHB has the most up-to-date email addresses. As of November 2025, the Authenticated Experience and MFS team is working to align the release to have similar timing on both web and mobile. The targeted release is April 1st, 2026.    
 
 ## Problem Statement
 
@@ -28,7 +28,9 @@ The VA wants to ensure that important email communications reach Veterans from t
 
 * The total number of notifications that will alert Veterans to verify their email address on the mobile app.   
 * The total number of Veterans who verify the email address that is listed is accurate on the mobile app.  
-* The total number of Veterans who have updated their email address to a different address than the one originally listed on the mobile app. 
+* The total number of Veterans who have updated their email address to a different address than the one originally listed on the mobile app.
+* The total number of clicks on the respective alerts.
+* Track the number of emails that the app is automatically sending when a Veteran logins and still needs to update their contact email. 
 
 ### Supporting OCTO OKRs:
 
@@ -49,7 +51,9 @@ The VA wants to ensure that important email communications reach Veterans from t
   * When a user adds a new contact email
 * The VA Mobile App team is currently working on an initiative that prompts the Veteran to update or add an email in their profile for Veterans who haven't updated or confirmed their email since March 1, 2025. The MHV email confirmation is planned to be removed by the end of the year (2025), but the timeline could be impacted by the shutdown.
 * Figma [file](https://www.figma.com/design/qe0ByBX1Ou5PFmVgeayzMG/Email-Verification?node-id=338-22740&t=xAGgVx41WfMhNxVP-0) for VA.gov email confirmation flow.
-* The Authenticated Experience team is looking to launch the Email Verification campaign on April 1st, 2026. TBD if the MFS team can also commit to a timeline that aligns with the Mobile App Release schedule. 
+* The Authenticated Experience team is looking to launch the Email Verification campaign on **April 1st, 2026**. TBD if the MFS team can also commit to a timeline that aligns with the Mobile App Release schedule.
+* If a Veteran does not have a contact email they will not see the alerts and will not be part of the verification flow.
+* Internally, this initiative is referred to as Email Verification, but to Veterans, this initiative is referred to as Email Confirmation. 
  
 ## VAHB Email Confirmation Feature MVP
 
@@ -94,7 +98,7 @@ The VA wants to ensure that important email communications reach Veterans from t
 * The email verification user flow on the mobile app will align with the web user flow, so that this does not cause confusion for users.
 * Veterans will only see an alert to confirm their email if their login email does not match their contact email within the profile section of the app. This check will happen on the backend so that it is not disruptive to Veterans with matching emails.
 * If a Veteran confirms their email on VA.gov, this confirms a Veteran's email on VAHB; therefore, the alert will be dismissed on the VAHB. The same applies if a Veteran confirms their email through the email confirmation process on the mobile app, it will verify on VA.gov, and a Veteran would not see any additional alerts.
-* The mobile app will use the same landing pages as VA.gov, and will be developed by the Authenticated Experience team.  
+* The mobile app will use the same landing pages as VA.gov, and will be developed by the Authenticated Experience team.
 
 ## Reference Materials
 
