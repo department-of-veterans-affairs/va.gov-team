@@ -2,26 +2,7 @@
 Alex Seelig, 3.21.2025
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
 ---
 
 ## Outcome Summary
@@ -29,7 +10,8 @@ Alex Seelig, 3.21.2025
 * Improve the layout of the Household section of the 10-10EZR to be “review and edit” as needed, as opposed to page-by-page updates. This is done with the goal of making the Veteran’s time on the EZR shorter, and the data accuracy that VHA has for Veterans higher.
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [10-10EZR Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- [Figma Design](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR-Working-Files?node-id=6685-29229&p=f&t=jT3676jw4CDLUT5i-0)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
