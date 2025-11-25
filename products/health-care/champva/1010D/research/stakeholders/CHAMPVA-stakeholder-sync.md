@@ -1,6 +1,39 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 11/25/25
+
+**Agenda**
+- MBI number for OHI Cert
+- Future effective dates and allowing users to report their Medicare before it is current
+
+**MBI number**
+- Noted that MBI number is on the new PDF, but not a field in the digital forms (standalone and 10-10d OHI subform). Currently we collect that information through front/back Medicare card uploads, which are required. Does the team want us to include a field for adding the MBI?
+  - **Decision:** Angela P. says yes, but ultimately Tammy is the SME who can make these decisions
+- Andrea asks: are MBI's consistent to the individual regardless of plan?
+  - Unclear, check with Tammy
+- VA.gov team makes it clear that the upcoming 10-10d (with OHI subform) release will not include a field for the MBI number, but team will be able to pull that from card uploads. Standalone OHI will also be missing MBI field until we bring in the work to update the digital form to align with the new PDF. 
+  - Angela acknowledges this fact. No need to action this right now, the team is aware that the 1010d with OHI subform will be released 12/1 without this field, and will be updated once there's sign-off from Tammy.
+
+**Future effective dates and allowing users to report their Medicare before it is current**
+- Premal mentions potential congressional inquiry and helpdesk requests around this issue (not allowing users to report Medicare with future effective dates), it's been a consistent user request in feedback.
+  - Angela checks notes about congressional inquiry and we do want users to be able to report future effective dated Medicare
+  - **Decision:** Angela would like to see future effective dates added and to be resolved before the end of the year
+- Premal wants to understand how "future" is allowable (6 months? 90 days? 30 days?) and how the business currently handles it.
+  - Angela would like all these questions in a follow-up email to Tammy and her employee
+  - Premal suggests we default to whatever the future maximum exists on CMS, and maybe not require the card upload if users don't have the card yet
+  - Mike mentions actual implementation should be fairly quick, Renata notes that content tweaks would be minor and mostly reducing content, as opposed to adding it (aside from telling users how to report their Medicare cards if they don't have them at the time of pre-enrollment)
+ 
+**Other topics**
+- Premal has a question about a related OCTO team handling an OHI backlog (130,000 forms down to 39,000): there seems to be a way to close out an OHI document without actually looking at it. Is there a way to collect OHI documents without looking at them?
+  - This team collected all OHI documents and put everything in a batch into CP&E and batch close OHIs. You can go in and make sure the documents are associated and the same as what's in the form without checking first.
+  - In the latest Pega release, insurance cards with be mapped to OHI cards, not separate OHI submissions.
+  - This will make it easier to see individual form submissions vs. all the associated supplemental documents in Pega
+- Angela gives the whole team kudos for all the continuous improvement
+
+**Action items**
+- Send an email to Tammy and her employee (w/ Keith cc'd) about MBI and future effective dates
+
 ## 09/30/25
 
 **Agenda**
