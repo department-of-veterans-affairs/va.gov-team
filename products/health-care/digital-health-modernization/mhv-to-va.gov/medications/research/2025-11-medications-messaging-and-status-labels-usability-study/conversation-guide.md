@@ -75,23 +75,24 @@ Before we start, I want to give you an idea of what this session will be like:
 
 I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
-*[If yes: ]* Thank you. When they are connected, I will ask them to make a quick introduction.
+_[If yes:]_ Thank you. When they are connected, I will ask them to make a quick introduction.
 
-*[If no:] * I appreciate you letting me know. Please give me a quick moment to let them know.
+_[If no:]_ I appreciate you letting me know. Please give me a quick moment to let them know.
 
 *[When observers are connected to audio, ask them to introduce themselves]*
 
 
 
-* Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-* *[If yes: ] *Once I start recording, I am going to confirm that you are ok with me recording this session once more.
+Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+_[If yes: ]_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *[Start recording.]*
 
 
 
-* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-* We like to share de-identified clips of these sessions with our teammates and stakeholders so they can see how screen reader users interact with our website. Do I have your permission, [name] to use[...] *[QUESTION: Is this only for screen reader users or all participants?]*
+I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+
+We like to share de-identified clips of these sessions with our teammates and stakeholders so they can see how users interact with our website. Do I have your permission, [name] to use clips from your session?
 
 
 ---
