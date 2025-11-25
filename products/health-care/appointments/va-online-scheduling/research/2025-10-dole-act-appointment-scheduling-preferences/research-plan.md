@@ -85,7 +85,7 @@ This MVP expands preferences to include appointment scheduling preferences in Pr
 
 ## Research materials
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-10-dole-act-appointment-scheduling-preferences/conversation-guide.md)
-- [Elizabeth Dole Act, Section 145 MVP Prototype](https://www.figma.com/design/NoK2Isx56zi0ZSSNA510Wd/Dole-Act--Concept-Testing-Prototypes?node-id=2-2&p=f&t=l8XXbLn6Ar2AKhXC-0)
+- [Elizabeth Dole Act, Section 145 MVP Prototype](https://www.figma.com/proto/NoK2Isx56zi0ZSSNA510Wd/Dole-Act--Concept-Testing-Prototypes?node-id=41-24048&p=f&t=NPm1Q2OOD6M9VB5g-1&scaling=min-zoom&content-scaling=fixed&page-id=2%3A2&starting-point-node-id=41%3A24048&show-proto-sidebar=1)
 
 ## Recruitment
 We will partner with Perigean to recruit 22 Veterans; all efforts will be made to recruit a diverse sample. 
