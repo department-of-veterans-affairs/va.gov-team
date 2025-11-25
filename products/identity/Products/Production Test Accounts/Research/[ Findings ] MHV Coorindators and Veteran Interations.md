@@ -20,7 +20,7 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 
 4. **Their own VA.gov accounts** \- "I will sign into my own VA.gov account, just because it's faster" (P3)
 
-**Why PTAs aren't used much for veteran training:**
+**Why PTAs aren't used much for Veteran training:**
 
 * Veterans need to practice on their actual accounts to retain the knowledge  
 * Using PTAs doesn't help with the \#1 problem: login credential issues  
@@ -33,7 +33,7 @@ PTAs serve one important veteran-facing function: **creating screenshots and vis
 
 ### Critical Importance: Staff Training
 
-PTAs are **irreplaceable** for training clinical staff, which is mandatory before staff can use secure messaging:
+PTAs are **irreplaceable** for training clinical staff, which is mandatory before staff can use secure messaging.  Clinical staff are using a staff interface but are shown what secure messaging looks like for the Veteran patients.  MHV coordinators will use the PTAs to send a secure meessage to clinical staff, and the staff member will respond with whichever staff-side interface they are using.:
 
 * **"Without the production test account, you can't launch messages, you can't show them stuff in its natural habitat"** (P4)
 
@@ -120,7 +120,7 @@ As P5 emphatically stated: **"When they said there was a rumor that the test pat
 
 **The Login Credential Crisis**
 
-* The transition from legacy My HealthyVet credentials to ID.me and Login.gov represents the overwhelming challenge, consuming approximately 75-80% of coordinator workload.   
+* The transition from legacy My HealthyVet credentials to ID.me and Login.gov represents the overwhelming challenge.   
 * One MHV coordinator stated that Veterans instinctively click "Login.gov" thinking it means "log in," then struggle with the picture-taking verification process  
 * The Login.gov personal key creates a critical failure point—veterans forget it after browsers auto-save passwords, requiring complete re-verification.   
 * Some coordinators spend 2+ hours daily on hold with ID.me (which doesn't open until 10:30 AM, frustrating early-morning veterans).   
