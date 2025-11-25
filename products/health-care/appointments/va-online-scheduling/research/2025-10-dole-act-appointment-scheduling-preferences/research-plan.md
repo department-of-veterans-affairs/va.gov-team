@@ -10,23 +10,23 @@ Elizabeth Dole Act specifies that VA must enable Veterans to document the follow
 - Whether the Veteran prefers to select a provider without the assistance of the Department, if able.
 - Whether Veterans prefer appointments to be scheduled during certain days or times of day. 
 
-## Desired User Outcomes
+### Desired User Outcomes
 - As a Veteran, I want VA to know my preferences for self-scheduling, so that I am connected to the best and fastest option for me to make my appointments.
 - As a scheduler, I want to know the Veteran's preferences, so I may connect them to the soonest, best care. 
 
-## Where is your product situated on VA.gov? 
+#### Where is your product situated on VA.gov? 
 This is part of the authenticated experience on VA.gov.
 
-## What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
+#### What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?
 This MVP expands preferences to include appointment scheduling preferences in Profile on VA.gov.
 
 ## Product Brief
 [E. Dole Act, Section 145 Appointment Scheduling Preferences product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/appointment-%20scheduling-preferences/README.md) 
 
-### OCTO Priorities
+#### OCTO Priorities
 - VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-### Veteran Journey
+#### Veteran Journey
 - Taking care of myself 
 - Retiring 
 - Aging
@@ -35,12 +35,12 @@ This MVP expands preferences to include appointment scheduling preferences in Pr
 1. Understand the mental model of users to determine where all health preferences should be selected (could be multiple places).  
 2. Identify the preferences that hold significance and relevance to Veterans when they schedule health care appointments.
 
-## Outcome
+### Outcome
 - Determine where these preferences should live
 - Understand the Veteran perceived value of each preference and how Veterans expect VA to utilize their preferences, such as what workflow do they expect to be adjusted based upon their answer 
 - Gather feedback on usability of proposals
 
-## Research questions   
+### Research questions   
 - What problems are Veterans encountering when a scheduler makes their appointment for them? What changes would Veterans like to see?
 - What information do Veterans wish schedulers already knew about their preferences, so they didn't have to share that information with them each time?
 - Where do Veterans expect to find all health preferences?
@@ -55,7 +55,7 @@ This MVP expands preferences to include appointment scheduling preferences in Pr
 - Do Veterans want to see any metadata about changes to a preference?
 - Do Veterans propose additional preference types they would like implemented? 
 
-## Hypotheses
+### Hypotheses
 1. Veterans will not find generic male/female provider preferences of value unless the Veteran can specify the provider’s gender by specialty.     
 2. Veterans will not find the best method of contact of value unless they can specify the method of contact by day and time of day.
 3. Veterans will not find appointment time preferences of value unless they can specify the preferences by the day and time window.
@@ -76,7 +76,7 @@ This MVP expands preferences to include appointment scheduling preferences in Pr
     - Sub-group 1b: Starts with prompt "Find where you would select your preference for a scheduler to contact you to schedule a medical appointment."
     - Sub-group 1c: Starts with prompt "Find where you would specify what day and times you prefer to have your medical appointments. 
 
-## Location
+### Location
 - Sessions will take place remotely via the Zoom meeting platform.
 - POC: Slack feed-back channel and MS Teams chat
     - Nina Anusavice
@@ -111,7 +111,7 @@ Perigean will recruit all participants.
     - 1% LGBTQ
 - Please do not recruit Veterans who use assistive tech devices, as the Figma prototyping tool is not compatible with these devices. 
 
-# Screener Questions
+### Screener Questions
 1. Do you have an email and password for either Login.gov or ID.me that you use to sign into VA.gov?
 - If Yes, then move to question 2.
 - If No, then do not recruit. 
@@ -132,17 +132,13 @@ Perigean will recruit all participants.
 - Timeline: TBD
 
 ## Pilot Test
-
 - Pilot participant email:
 - Date and time of pilot session:
 
 ## Length of Sessions
-
 - Session length: 60 minutes
 - Buffer time between sessions: 30 minutes
 - Maximum Sessions per day: Preferably 2, but 3 are acceptable.
-
-# Research Sessions
 
 ## Team Roles
 
@@ -158,5 +154,5 @@ Perigean will recruit all participants.
   - Nina Anusavice
   - Tim Licitra
 
-# Approvals
+## Approvals
 - Reviewed and approved by TBD on TBD
