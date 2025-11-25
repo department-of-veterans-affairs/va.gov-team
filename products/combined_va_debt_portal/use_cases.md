@@ -1,14 +1,13 @@
 # Debt/Copay Use Cases
 
-**Last updated:** 11/24/2025
+**Last updated:** 11/25/2025
 
-**Purpose:** The purpose of this document is for designers, PMs, and engineers to align
-early on on potential use cases and edge cases so these things aren't coming up
-randomly and late in the process. We recommend the team schedule a 30 minute
-meeting to brainstorm all use cases/edge cases early on. Examples of cases that
-could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran
-searches and gets no results.", etc.
+This document is the main index and detailed reference for use cases across the Combined VA Debt Portal. It is designed to give teams a single place to see how different debt tools and flows fit together.
 
+For a high-level overview and links to related product-specific docs, see:\
+**[Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/use_case_intro.md)**
+<br/>
+<br/>
 **Useful Links:**
 - [Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md)
