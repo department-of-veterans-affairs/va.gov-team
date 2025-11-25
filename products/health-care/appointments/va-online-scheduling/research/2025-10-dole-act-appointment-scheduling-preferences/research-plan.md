@@ -84,7 +84,7 @@ This MVP expands preferences to include appointment scheduling preferences in Pr
     - Kristen McConnell 
 
 ## Research materials
-- Conversation Guide 
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-10-dole-act-appointment-scheduling-preferences/conversation-guide.md)
 - [Elizabeth Dole Act, Section 145 MVP Prototype](https://www.figma.com/design/NoK2Isx56zi0ZSSNA510Wd/Dole-Act--Concept-Testing-Prototypes?node-id=2-2&p=f&t=l8XXbLn6Ar2AKhXC-0)
 
 ## Recruitment
