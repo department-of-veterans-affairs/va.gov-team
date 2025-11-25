@@ -108,12 +108,39 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 #### Actual behavior:
 
 **Screen readers**
-1. ✅ Chrome + VO: VO Virtual cursor lands on "Selected files" and announces "Selected files: Filename.extension" The next tab is the "Change file" button.
-2. ✅ Safari + VO: VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
-3. ✅ Safari + iOS + VO: Virtual cursor lands on the "Select a file to upload" file input label (not in the uploaded UI). And announces "Selected files filename.extension". The next swipe takes the user to the Change file button
-4. ❌ Chrome + iOS + VO: It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page
-5. ❌ Firefox + JAWS: It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" (And it announces this twice). The next tab does go to the change file button
-6. ❌ Edge + JAWS: It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension". The next tab does go to the change file button.
+
+**1. Chrome + VO:**   
+  - ✅ **When using the link:** VO Virtual cursor lands on "Selected files" and announces "Selected files: Filename.extension" The next tab is the "Change file" button.
+  - ❓ **When dragging the file:** When I drag the file, and the UI changes to show the file name, the virtual cursor seems to be on the entire viewport. It reads the page `<title>` tab name, and then will announces "Selected files: filename.extension". The next tab stop is the "Change file" button
+
+**2. Safari + VO:**   
+  - ✅ When using the link: Focus moves from finder to the browser, and the VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
+  - ❌ When dragging the file: Focus does not move to the browser, even though the UI is updating and the file seems to be uploading. When the user changes focus back to the browser the `<title>` is announced, followed by the label of the file input "Select a file to upload" no success message is announced saying the file is selected or uploaded.
+
+**3. Safari + iOS + VO:**   
+  - ✅ **When using the link:** Virtual cursor lands on the "Select a file to upload" file input label (not in the uploaded UI). And announces "Selected files filename.extension". The next swipe takes the user to the Change file button
+  - **When dragging the file:** Not applicable in this test case
+
+**4. Chrome + iOS + VO:**
+  - ❌ **When using the link:** It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page
+  - **When dragging the file:** Not applicable in this test case
+
+**5. Firefox + JAWS:**
+  - ❌ **When using the link:** It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" (And it announces this twice). The next tab does go to the change file button
+  - **When dragging the file:** 
+
+**6. Firefox + NVDA:**
+  - **When using the link:** NVDA Announces "Va-file-input default modular firefox, va-file-input default document, selected files, you have selected the file filename.extension." 
+  - **When dragging the file:** When dragging a file over, initially nothing happens until I focus the browser again. JAWS virtual cursor seems to be on the entire viewport. It seems like something starts to announce, but then something interrupts it and it starts reading the `<title>`. It eventually announces "Selected files" but never announces the file names. The next tab takes me to the change file button.
+    
+**7. Edge + JAWS:**
+  - ❌ **When using the link:** It appears focus is lost. After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension". The next tab does go to the change file button.
+  - **When dragging the file:** 
+
+**8. Edge + NVDA:**
+  - **When using the link:** NVDA Announces "Va-file-input default profile 1 microsoft edge window, selected files, selected files, you have selected the file filename.extension." A Dotted border is around part of the UI.
+  - **When dragging the file:** When dragging a file over, focus goes to the browser, and the virtual cursor is highlightin the entire viewport. However, it announces `<title>` first. And then eventually it will announce "Selected files filename.extension". The next tab takes me to the change file button.
+
 
 **Magnifcation & Zoom**
 No identified issues across Safari, Chrome, Edge, Firefox
