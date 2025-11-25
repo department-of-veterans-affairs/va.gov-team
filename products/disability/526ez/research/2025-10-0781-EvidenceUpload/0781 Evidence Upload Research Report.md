@@ -48,7 +48,7 @@ As part of this semi-structured approach, the researcher asked participants to c
 
 ## Key findings
 
-1. Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.   
+1. [Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience)   
 2. The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.  
 3. 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.  
 4. 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
