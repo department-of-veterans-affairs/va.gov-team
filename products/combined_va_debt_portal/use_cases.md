@@ -12,6 +12,8 @@ When starting or evolving a product, we recommend scheduling a 30‑minute worki
 - Financial Status Report (FSR) use cases (subset of the portal flows)
   - See: [Financial Status Report – Use Cases
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md)
+- Pay.gov use cases
+  - TBD   
 
 ## Scope
 These documents focus on:
