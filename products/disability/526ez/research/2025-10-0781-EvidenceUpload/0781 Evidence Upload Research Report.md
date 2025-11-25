@@ -48,17 +48,17 @@ As part of this semi-structured approach, the researcher asked participants to c
 
 ## Key findings
 
-1. [Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience)   
-2. The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.  
-3. 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.  
-4. 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
-5. 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
-6. 6 out of 10 participants found the detailed list of document types helpful.  
-7. 5 out of 8 participants didn’t find the ‘How to scan a file’ instructions helpful.  
-8. 4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.  
-9. 4 out of 5 participants successfully completed or predicted how to delete a document.  
-10. 6 out of 8 participants expected a summary page to confirm which documents they uploaded.    
-11.  3 out of 5 participants found it confusing that the two upload pages looked identical and therefore they didn’t know what to upload. 
+[Finding #1:](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience) Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.
+[Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.
+[Finding #3:](#finding-3-8-out-of-10-participants-wanted-more-information-up-front-about-the-evidence-they-could-submit-to-support-their-claim)8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.
+[Finding #4:](#finding-4-2-out-of-10-participants-were-drawn-to-the-notice-of-evidence-needed-alert-but-only-skimmed-the-instructional-content-above) 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
+[Finding #5:](#finding-5-6-out-of-10-participants-didnt-understand-they-would-be-asked-for-information-about-the-medical-centers-they-visited-they-had-inaccurate-expectations-for-what-would-happen-next)6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
+[Finding #6:](#finding-6-6-out-of-10-participants-found-the-detailed-list-of-document-types-helpful) 6 out of 10 participants found the detailed list of document types helpful.  
+[Finding #7] (#finding-7-5-out-of-8-participants-didnt-find-the-how-to-scan-a-file-instructions-helpful)5 out of 8 participants didn’t find the ‘How to scan a file’ instructions helpful.  
+[Finding #8](#finding-8-4-out-of-8-participants-appreciated-that-the-examples-of-supporting-documents-accordion-repeated-content-from-the-previous-page-others-felt-the-accordion-should-provide-more-information-about-supporting-documents)4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.  
+[Finding #9](#finding-9-4-out-of-5-participants-successfully-completed-or-predicted-how-to-delete-a-document) 4 out of 5 participants successfully completed or predicted how to delete a document.  
+[Finding #10](#finding-10-6-out-of-8-participants-expected-a-summary-page-to-confirm-which-documents-they-uploaded) 6 out of 8 participants expected a summary page to confirm which documents they uploaded.    
+[Finding #11](#finding-11-3-out-of-5-participants-found-it-confusing-that-the-two-upload-pages-looked-identical-and-didnt-know-what-to-upload) 3 out of 5 participants found it confusing that the two upload pages looked identical and therefore they didn’t know what to upload. 
 
 ## 
 
@@ -87,7 +87,7 @@ Decision page for treatment records: 5 out of 10 participants thought that provi
 
 Decision page for other documents: 8 out of 8 participants who saw the decision page for other documents did not understand that it was asking for documents for other conditions as well as other documents to support the claim. Once they did understand that the page was asking them for two specific things, they were still confused by why they were being asked to submit “additional benefits and supporting forms” at that stage.
 
-* ### *“And now it's asking me again, do you have other documents? That's crazy. So are these documents I don't categorize into the other two?” –P3*
+* *“And now it's asking me again, do you have other documents? That's crazy. So are these documents I don't categorize into the other two?” –P3*
 
 * *“So you have a clinical records request from the VA…then you have a second supporting documents request, and now you have another documents request. Why is… so it's like a main, an other, and an other other?” –P8*  
 * *“Not sure why we’re talking about benefit forms there if it’s about claims and supporting docs. Might want to talk about benefits after you get the claim, not during the submission process. It could be confusing because you’re not done yet.” – P5*
@@ -112,9 +112,9 @@ Since participants struggled with understanding the two supporting evidence uplo
 3. Update the upload component   
    1. The current upload component is V1, and was identified in the Midpoint Review as a launch blocker. We recommend updating it to the V3 component, however, that component will need to be customized to include a document type dropdown so that Veterans can label their uploaded document. 
 
-### **Finding \#2: The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.**
+### **Finding #2: The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.**
 
-### Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may have not been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc.  
+Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may have not been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc.  
 
 **Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
 
