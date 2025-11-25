@@ -143,6 +143,8 @@ Perigean will recruit all participants.
 
  Moderating Schedule
 
+**Note:** All times are in EST.
+
 | Date   | Tim (1-2 sessions)         | Nina    (2-3 sessions)          |
 | ------ | ---------------- | ---------------- |
 | 12/8   | 8-4              | 10-6             | 
