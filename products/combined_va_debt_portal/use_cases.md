@@ -15,7 +15,7 @@ searches and gets no results.", etc.
 - [Designs](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?m=auto&t=YSdPMSoyDrlyv5kI-6)
 
 
-## Stories
+## At a Glance
 
 <details>
 <summary>[click to expand/collapse a short list of all use cases]</summary>
