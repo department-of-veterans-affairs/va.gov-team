@@ -40,5 +40,5 @@ Product  | Staging URL |
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md)
 - [Designs](https://www.figma.com/design/OiiDTTVTCf8j0GngRg0xxD/VA-Debt-Portal?m=auto&t=YSdPMSoyDrlyv5kI-6)
 - [Mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata/blob/master/mock_data_table.md) - Pertains to both local and staging. If local data seems out of synch with staging, then review your local version to see if unpublished changes have been made in your env.
-- [Staging User List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
+- [Staging User List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/staging-users-debtproducts.md)
 - [Debt/Copay Anatomy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/back-end/architecture/debt-and-copay-anatomy.md)
