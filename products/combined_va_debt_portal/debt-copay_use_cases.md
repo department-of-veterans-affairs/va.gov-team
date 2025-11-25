@@ -5,7 +5,7 @@
 This document is the main index and detailed reference for use cases across the Combined VA Debt Portal. It is designed to give teams a single place to see how different debt tools and flows fit together.
 
 For a high-level overview and links to related product-specific docs, see:\
-**[Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases_intro.md)**
+**[Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)**
 <br/>
 <br/>
 **Useful Links:**
