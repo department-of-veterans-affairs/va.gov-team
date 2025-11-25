@@ -19,9 +19,8 @@ Identify and surface issues that inhibit users from successfully accomplishing t
 
 ## Goals and Objectives
 ### Primary Goals
-- Resolve 90% of escalated Tier 3 issues within 5 business days
-- Reduce repeat escalations by 40% through root cause analysis and systemic fixes
-- Maintain 95% user satisfaction rating for issue resolution quality
+- Resolve escalated Tier 3 issues in a timely manner
+- Reduce repeat escalations through root cause analysis and systemic fixes
 - Document and share knowledge to prevent recurring issues
 
 ### Secondary Goals
