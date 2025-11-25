@@ -84,6 +84,7 @@ _[If no:]_ I appreciate you letting me know. Please give me a quick moment to 
 
 
 Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
+
 _[If yes: ]_ Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *[Start recording.]*
@@ -98,7 +99,7 @@ We like to share de-identified clips of these sessions with our teammates and st
 ---
 ## Your set-up - 1 minutes
 
-Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov) *[Note: Add something along these lines to help with setup and screen sharing, so we know what tools people are using]*
+Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov)?
 
 
 ## Screen share/Remote share - 2 minutes
@@ -109,15 +110,13 @@ Would you like assistance sharing your screen?
 
 
 
-* *[if no:]* Go ahead and share your screen for me now.
+_[If no:]_ Go ahead and share your screen for me now.
 
-*[follow protocol for particular OS (Android/iOS)]*
+*[Follow protocol for particular OS (Android/iOS)]*
 
-*[iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)*
-
-*[Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)*
-
-*[Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)*
+_- [iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+- [Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+- [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)_
 
 ---
 
