@@ -114,9 +114,9 @@ _[If no:]_ Go ahead and share your screen for me now.
 
 *[Follow protocol for particular OS (Android/iOS)]*
 
-_- [iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
-- [Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
-- [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)_
+*[iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)*
+*[Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)*
+* [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)*
 
 ---
 
