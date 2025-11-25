@@ -1,4 +1,4 @@
-# 2025 November Research Plan for E. Dole Act Section 145 Veteran's Health Care Scheduling Preferences on VA.gov’s Authenticated Experience
+# 2025 December Research Plan for E. Dole Act Section 145 Veteran's Health Care Scheduling Preferences on VA.gov’s Authenticated Experience
 
 ## Background 
 
