@@ -41,7 +41,7 @@ description: "Conversation guide for remote moderated usability testing of medic
 
 * Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 * Mute your Slack notifications.
-* Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you [...]
+* Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
 * Sign into Zoom website via Google as Perigean w/ credentials provided and start Zoom meeting 5-10 minutes before
 
 
@@ -68,12 +68,12 @@ Before we start, I want to give you an idea of what this session will be like:
 
 
 
-* **This entire session should take up to 60 minutes. **I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-* **In this session, we want to hear your honest opinions**. We are not testing your ability. We just want to improve these tools to better meet Veterans’ needs. I will not be offended by any opinio[...]
-* **You'll be interacting with a test environment. **This is a website with test data that may not be what you would expect to find in someone’s medical records. Since it's a demo, none of your acti[...]
+* **This entire session should take up to 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. We may also end sooner than that, and if we have covered everything I want to cover I'd love to give your time back to you.
+* **In this session, we want to hear your honest opinions**. We are not testing your ability. We just want to improve these tools to better meet Veterans’ needs. I will not be offended by any opinions you express, and I welcome your feedback.
+* **You'll be interacting with a test environment.** This is a website with test data that may not be what you would expect to find in someone’s medical records. Since it's a demo, none of your actions will affect your actual medical information or benefits.
 * **If for any reason and at any time you want to stop the session, please let me know.**
 
-I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. [...]
+I want to make sure that you're comfortable with a few of my teammates assisting me on this call. I have one teammate who will be taking notes to make sure that we accurately represent your feedback. We won't link any notes to your name or other personal information. The others are just here to observe. Do I have your permission to let them into the session?
 
 *[If yes: ]* Thank you. When they are connected, I will ask them to make a quick introduction.
 
@@ -83,7 +83,7 @@ I want to make sure that you're comfortable with a few of my teammates assisting
 
 
 
-* Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we comple[...]
+* Are you comfortable if I record my screen and audio as we talk today?  We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
 * *[If yes: ] *Once I start recording, I am going to confirm that you are ok with me recording this session once more.
 
 *[Start recording.]*
@@ -125,9 +125,9 @@ Would you like assistance sharing your screen?
 
 Let’s pause right here on this screen. *[Recommend changing this to, "Before we begin, take a minute or two to look around this page." That will give AT users a chance to see what's on the page.]*
 
-As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says* [name]. [Name]* is our test user. However, we would like you to imagi[...]
+As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says* [name]. [Name]* is our test user. we would like you to imagine this is your account with your own data, not someone else’s.
 
-Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you[...]
+Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
 
 If you are ready, we can begin. 
 
@@ -170,7 +170,7 @@ First, we’re going to navigate to the medications page by selecting the medica
         6. How would you feel if you saw this status on an important medication?
 6. Now, imagine that you take a medication regularly. You notice that you are running out of pills. Using this page, do you think you could get more of your med?
 7. How would you differentiate between a 'refill' and a 'renewal'? Is there a difference between those terms to you?
-8. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this p[...]
+8. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this page? What would you look for?
      Notice: Do they filter? Do they think of status or just date?
      Probe: What status might that medication be in?
 9. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
@@ -318,7 +318,7 @@ Imagine you tried to request a renewal but saw this message [show error]. What w
 
 ## Consent to use video clips
 
-I want to circle back and re-confirm that you are comfortable if we were to share a video clip of this session with our VA partners? Just to remind you, we will remove all information that could be us[...]
+I want to circle back and re-confirm that you are comfortable if we were to share a video clip of this session with our VA partners? Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
 
 If yes: Is there any part of our discussion you would NOT want shared in a video clip?
 
