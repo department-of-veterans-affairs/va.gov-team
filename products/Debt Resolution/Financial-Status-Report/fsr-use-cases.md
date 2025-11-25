@@ -3,8 +3,8 @@
 This document describes detailed use cases for the Financial Status Report (FSR) experience within the Combined VA Debt Portal.
 
 These FSR use cases are a subset of the broader combined va debt portal use cases. For overall context and other debt-related flows, see:
-- [Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases_intro.md)
-- [Debt/Copay - Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+- [Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+- [Debt/Copay - Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/debt-copay_use_cases.md)
 <br/>
 
 **Useful Links:**
