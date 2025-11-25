@@ -108,3 +108,6 @@ Same question for overpayments: Will Pay.gov be able to process multiple overpay
 **21. [5/20/25:Related to required Information] Is there a spreadsheet or list of information that Pay.gov requires from the user in order to complete a transaction?**
 - TBD
 
+**22. [11/25/25:Related to required Information] In regards to recurring payment logc, in the scenario a Veteran wants to stop the recurring payment subscription will we need a management screen for their selected debts they're sending recurring to? I imagine users will need some sort of control panel and I guess the accompanying pitfalls of such to handle of? Would it live in MyVA which means cross-team collab?**
+- TBD
+ 
