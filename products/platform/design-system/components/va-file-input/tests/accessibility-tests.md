@@ -119,7 +119,8 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 No identified issues across Safari, Chrome, Edge, Firefox
 
 **Voice control**
-1. Mac voice control - can use voice control to activate initial file upload. However, voice control cannot access the "change file" or "delete" buttons without using the grid
+1. Chrome - Mac Voice Control -  can use voice control to activate initial file upload. However, voice control cannot access the "change file" or "delete" buttons without using the grid
+2. Safari - Mac Voice Control - to activate any part of the component, I have to use the grid.
 
 **Additional testing needed**
 1. Android - talkback
@@ -136,16 +137,40 @@ Verify accessible error messaging when uploading an invalid file type.
 - 4.1.3 Status Messages  
 
 **Setup:**  
-Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF only).
+Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF only). [Storybook story](https://file-input-focus-and-sr--65a6e2ed2314f7b8f98609d8.chromatic.com/iframe.html?globals=&id=uswds-va-file-input--accepts-only-specific-file-types&viewMode=story)
 
 **Steps:**  
-1. When the user selects a file type not permitted.  
+1. When the user drags a file type onto the UI that is not permitted.
+
+**Note:** The only way to activate this state is to drag a file type that is not permitted onto it. When using the link in the component, most browsers do not allow you to select files that are not permitted.
 
 **Expected Result:**  
-- Then the file is rejected.  
-- And an error message appears adjacent to the field.  
+- Then the file is not uploaded.  
+- And an error message appears in the UI.  
 - And screen readers announce the error message when it appears.  
-- And focus does not jump unexpectedly.  
+- And focus is on the "Change file" button.
+
+#### Actual behavior:
+
+**Screen readers**
+1. ✅ Chrome + VO: The error state of the Uploaded file UI appears. An error message appears below the file name. Focus is on the Change file button. The screen reader announces "Error. We do not accept .exstension files. Choose a new file."
+2. ✅ Safari + VO: The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "We do not accept .exstension files. Choose a new file."
+3. Safari + iOS + VO: Not testable as you cannot drag files in iOS
+4. Chrome + iOS + VO: Not testable as you cannot drag files in iOS
+5. ⁇ Firefox + JAWS: When dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. It seems like something starts to announce, but then something interrupts it and it starts reading the `<title>`. Once it reads the title (and more info about the browser) eventually it goes down to and announces "Error we do not accept extension files. Choose a new file"
+6. ⁇ Firefox + NVDA: when dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. The page `<title>` is announced, followed by "Selected files. Error we do not accept mp4 files. Choose a new file."
+7. ⁇ Edge + JAWS: When dragging a file over, focus goes to the browser, and the visual focus is on the change file button. However, it announces `<title>` first. And then eventually it will announce "Error we do not accept extension files. Choose a new file."
+8. ⁇ Edge + NVDA: When dragging a file over, focus goes to the browser, and once the UI is updated, the file upload Input is announced first along with the hint text (Input accepts only specific file types". Then it announces "Clickable Change file. Error We do not accept .mp4 files. Choose a new file"
+
+**Magnifcation & Zoom**
+No identified issues across Safari, Chrome, Edge, Firefox
+
+**Voice control**
+1. Chrome - Mac Voice Control -  can use voice control to activate initial file upload. However, voice control cannot access the "change file" or "delete" buttons without using the grid
+2. Safari - Mac Voice Control - to activate any part of the component, I have to use the grid.
+
+**Additional testing needed**
+1. Android - talkback
 
 ---
 
@@ -169,6 +194,22 @@ Component configured with a max file size (e.g., 25 MB).
 - And the error is exposed via the live region (if used) or focus remains stable.  
 - And the instructions suggest correct use (“Choose a file under X MB”).  
 
+#### Actual behavior:
+
+**Screen readers**
+1. Chrome + VO: 
+2. Safari + VO: 
+3. Safari + iOS + VO: 
+4. Chrome + iOS + VO: 
+5. Firefox + JAWS: 
+6. Edge + JAWS: 
+
+**Magnifcation & Zoom**
+
+**Voice control**
+
+**Additional testing needed**
+
 ---
 
 ### Test ID: delete-file
@@ -189,6 +230,23 @@ A file has already been uploaded.
 - Then the UI returns to the empty/upload state.  
 - And screen readers announce the change (e.g., “File removed”).  
 - And focus moves to the next logical interactive element (e.g., **Choose file**).  
+
+#### Actual behavior:
+
+**Screen readers**
+1. Chrome + VO: 
+2. Safari + VO: 
+3. Safari + iOS + VO: 
+4. Chrome + iOS + VO: 
+5. Firefox + JAWS: 
+6. Edge + JAWS: 
+
+**Magnifcation & Zoom**
+
+**Voice control**
+
+**Additional testing needed**
+
 
 ---
 
@@ -213,6 +271,22 @@ The file-upload field is marked as required.
 - And screen readers announce the message.  
 - And focus moves to the error summary (if present) or is placed on the file input.  
 
+#### Actual behavior:
+
+**Screen readers**
+1. Chrome + VO: 
+2. Safari + VO: 
+3. Safari + iOS + VO: 
+4. Chrome + iOS + VO: 
+5. Firefox + JAWS: 
+6. Edge + JAWS: 
+
+**Magnifcation & Zoom**
+
+**Voice control**
+
+**Additional testing needed**
+
 ---
 
 ### Test ID: replace-file
@@ -234,6 +308,23 @@ A valid file is already uploaded.
 - Then the new file replaces the old file in the UI.  
 - And screen readers announce the new file name.  
 - And focus behavior is consistent with initial upload.
+
+#### Actual behavior:
+
+**Screen readers**
+1. Chrome + VO: 
+2. Safari + VO: 
+3. Safari + iOS + VO: 
+4. Chrome + iOS + VO: 
+5. Firefox + JAWS: 
+6. Edge + JAWS: 
+
+**Magnifcation & Zoom**
+
+**Voice control**
+
+**Additional testing needed**
+
 
 ---
 
