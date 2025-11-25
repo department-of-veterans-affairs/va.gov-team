@@ -137,13 +137,9 @@ If you are ready, we can begin. 
 
 ## First task: Status comprehension
 
-First, we’re going to navigate to the medications page by selecting the medications link in the top menu. 
+First, we’re going to open the Figma prototype link that you were sent. This prototype is interactive in that the filter can be used to filter the medication list that appears below.
 
-*[Note: This will be "Meds" in responsive layout]*
-
-*From Medications page:*
-
-
+Now we'll begin our questions. First:
 
 1. Tell me what you see on the page.
 2. What can you tell me about what’s going on with your prescriptions?
@@ -178,33 +174,33 @@ First, we’re going to navigate to the medications page by selecting the medica
     1. Probe: What status would that medication be in?
 9. How would you differentiate between a 'refill' and a 'renewal'? Is there a difference between those terms to you?
 
-*Things to watch out for:*
-
-
+*[Things to watch out for:]*
 
 * *Does the participant seem confused by the statuses?*
 * *How if at all do they compare it to the current statuses?*
 
-*[After feedback is shared]*
-
-Great, thank you for that feedback. Some quick questions before we move onto our next task
+Great, thank you for providing your thoughts on these statuses. Some quick questions before we move onto our next task:
 
 
 
 * Were you able to access status information for the medications you looked at?
 * What did you think of the different prescription statuses, and how they are described?
 * Does anything about the different statuses feel overwhelming or hard to process?
-* Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [screen magnification]*?
 * Have you seen a status like this before on My HealtheVet? How is this similar or different from what you're used to seeing?
-* How would you like to learn that the words we use to describe statuses have changed, if at all? *[Question: Is this update correct, that we're asking about the language we use?]*
+* How would you like to learn that the words we use to describe statuses have changed, if at all?
+* [For AT users:] Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [screen magnification]*?
 * Anything else about statuses that you’d like to share?
 
-Thank you! Now I’d like you to do something else for me..
+Thank you! Now I’d like you to do something else for me...
 
 
 ## Second Task: Request a renewal
 
-You have a prescription for _______ that your pharmacy told you is out of refills. What would you do if you needed more meds?
+Now you're going to log into the staging site for VA.gov with the test user login information you were sent. 
+
+_[Include instructions here on how to log into the test user or will they have already done this?]_
+
+You have a prescription for hydrocortisone cream 2.5% that your pharmacy told you is out of refills. What would you do if you needed more meds?
 
 
 
@@ -263,7 +259,7 @@ Now that you’ve found the renewal link, how would you request more of this med
     * If yes, what would you change in the message?
 * What would you do next to request more medication?
 
-*[Confirmation; medications list page]*
+*[Confirmation: medications list page]*
 
 * Where are you now?
 * How do you know your request was successful?
