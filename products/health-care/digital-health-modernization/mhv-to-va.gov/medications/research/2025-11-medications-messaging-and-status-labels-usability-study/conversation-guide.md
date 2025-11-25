@@ -114,18 +114,18 @@ _[If no:]_ Go ahead and share your screen for me now.
 
 *[Follow protocol for particular OS (Android/iOS)]*
 
-*[iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)*
-*[Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)*
-* [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)*
+* [iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
+* [Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
+* [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
 
 ---
 
 
 ## Participant Coaching
 
-Let’s pause right here on this screen. *[Recommend changing this to, "Before we begin, take a minute or two to look around this page." That will give AT users a chance to see what's on the page.]*
+Before we begin, take a minute or two to look around this page.
 
-As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says* [name]. [Name]* is our test user. we would like you to imagine this is your account with your own data, not someone else’s.
+As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
 
 Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
 
@@ -137,7 +137,9 @@ If you are ready, we can begin. 
 
 ## First task: Status comprehension
 
-First, we’re going to navigate to the medications page by selecting the medications link in the top menu. *[Note: This will be "Meds" in responsive layout]*
+First, we’re going to navigate to the medications page by selecting the medications link in the top menu. 
+
+*[Note: This will be "Meds" in responsive layout]*
 
 *From Medications page:*
 
