@@ -1,4 +1,4 @@
-# Use Cases
+# Debt/Copay Use Cases
 
 **Last updated:** 11/24/2025
 
