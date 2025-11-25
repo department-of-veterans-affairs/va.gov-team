@@ -191,28 +191,35 @@ As you use the prototype, please verbalize your thoughts out loud so we can unde
 
 ## Prototype 1 / Task 1 setup info
 
-Have you heard of the PACT Act?
-
-* *If no, provide this background first:*  
-  * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or Agent Orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
-* Let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
-
 ➡️ Instruct Veteran to click on either Apple or Banana
 
 ## 🍎 Prototype Apple (10-15 min)
 
-When you get to this screen, you’ve already logged in and started your benefits application.
-
-### 🍎 Apple Task 1: Appeal a denied condition (Asthma)
-
-For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT Act became law, you think the VA should change its decision.
-
 ##### Intro screen
+
+When you get to this screen, you’ve already logged in and started your benefits application.
 
 * What’s going through your mind as you see this screen?  
 * What would you do next?  
 * *(if they say “Click continue”)* What do you expect to happen next?  
 * OK, go ahead and click Continue.
+
+### 🍎 Apple Task 0.5: Adding a new condition
+
+For the first scenario, let's say you've started having arthritis in your shoulder that you think is because of an injury you had while in service. How would you ask for disability compensation for that?
+
+_Aim is to understand if first radio button option for adding a condition is noticeable on this screen._
+
+### 🍎 Apple Task 1: Appeal a denied condition (Asthma)
+
+Have you heard of the PACT Act?
+
+* *If no, provide this background first:*  
+  * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or Agent Orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
+
+Let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
+
+So now, you’re going to re-apply for asthma. 
 
 ##### Add a condition screen
 
