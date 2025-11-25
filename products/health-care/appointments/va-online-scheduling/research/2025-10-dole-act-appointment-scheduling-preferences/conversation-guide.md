@@ -1,5 +1,5 @@
 
-# Conversation Guide for 2025 November, E. Dole Act, Section 145 Veteran's Health Care Scheduling Preferences VA.gov’s Authenticated Experience
+# Conversation Guide for 2025 December, E. Dole Act, Section 145 Veteran's Health Care Scheduling Preferences VA.gov’s Authenticated Experience
 
 ### Day of the Session
 
@@ -16,10 +16,10 @@
 
 ## Artifacts for Session
 
-- Dole Act Scheduling Preferences Prototype
+- [Dole Act Scheduling Preferences Prototype](https://www.figma.com/design/NoK2Isx56zi0ZSSNA510Wd/Dole-Act--Concept-Testing-Prototypes?node-id=2-2&p=f&t=l8XXbLn6Ar2AKhXC-0)
 - Dole Act Scheduling Preferences Observer Notes Mural
 - Dole Act Scheduling Preferences Observer Sign-up Schedule
-- Dole Act Scheduling Preferences Research Plan
+- [Dole Act Scheduling Preferences Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-10-dole-act-appointment-scheduling-preferences/research-plan.md)
 - Dole Act Scheduling Preferences Participant Transcripts
 - Dole Act Scheduling Preferences Notetaker’s Notes
 
