@@ -244,12 +244,18 @@ Now that you’ve found the renewal link, how would you request more of this med
 * What do you think this screen is for?
 * What do you think you should do next?
 
+*[Things to watch for:]*
+* *Does the modal cause the user hesitation or confusion about going to messaging?*
 
 *[Select a caregiver screen]*
 
 
 * Who would you select here, and why?
 * If you weren't sure which provider to choose, what would you do?
+
+*[Things to watch for:]*
+* *Does the user express confusion about selecting a provider?*
+
 
 *[Prefilled Renewal Request Message Content]*
 
@@ -259,6 +265,11 @@ Now that you’ve found the renewal link, how would you request more of this med
     * If yes, what would you change in the message?
 * What would you do next to request more medication?
 
+*[Things to watch for:]*
+* *Does the user edit or change the prefilled medication information?*
+* *Do screen reader users recognize that there is prefilled medication information, and what they need to do with it?*
+
+
 *[Confirmation: medications list page]*
 
 * Where are you now?
@@ -266,6 +277,10 @@ Now that you’ve found the renewal link, how would you request more of this med
 * What do you expect to happen next?
 * How will you know when your renewal request has been processed?
 * Imagine you're telling a friend about this experience. Would you tell them this is easy or hard to use? Why?
+
+*[Things to watch for:]*
+* *Does the user notice the success alert after sending the renewal request?*
+* *Does the user know where they are after submitting the renewal request?*
 
 *[After task completion]*
 
@@ -284,19 +299,7 @@ Thank you for completing that task. I have a few follow up questions for you:
 
 
 * "Before we wrap up Task 2, I'd like to show you one more thing. 
-Imagine you tried to request a renewal but saw this message [show error]. What would you do next?"
-
-
-*Things to watch for:*
-
-
-
-* *Does the modal cause the user hesitation or confusion about going to messaging?*
-* *Does the user express confusion about selecting a provider?*
-* *Does the user edit or change the prefilled medication information?*
-* *Do screen reader users recognize that there is prefilled medication information, and what they need to do with it?*
-* *Does the user notice the success alert after sending the renewal request?*
-* *Does the user know where they are after submitting the renewal request?*
+Imagine you tried to request a renewal but saw this message [show error]. What would you do next?
 
 
 ---
