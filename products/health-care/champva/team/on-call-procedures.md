@@ -1,4 +1,19 @@
-# Commands for the rails console on Argo
+# Commands for the Rails Console on Argo
+
+## Production Access
+
+Access to the Rails console in the production environment is restricted.  
+
+The following rules apply:
+
+- We need to have at least two people on a Teams call peering for running production rails console/terminal commands.
+- One of our engineers may act as one of the two people.
+- We are first to reach out to the [federal engineer closest to our project](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/champva/team/key-personnel.md#federal-engineer-fe-closest-to-our-project) for assistance.
+- If they are unavailable or don't have rails access, we can reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) for rails console access.
+
+Reminder to never record any screen sharing that includes PII and PII can only be sent in Teams, never in Slack or email.
+
+## Launching the console
 
 1. On the VA network login to: argocd.vfs.va.gov/applications/vets-api-prod?resources
 2. Find a pod that starts with `vets-api-web` and click on it
