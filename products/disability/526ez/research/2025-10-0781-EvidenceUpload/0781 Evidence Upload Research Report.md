@@ -18,13 +18,13 @@ Jump to:
 
 ## Background
 
-At the present, all Veterans upload their documents as supporting evidence of their claim in one step at the very end of VA form 21-526 EZ, the application Veterans use to apply for disability compensation benefits. Veterans who opt into form 0781, which supports claims for mental health conditions, do not currently have a specific section that walks them through the process of uploading documents to support those conditions. Although opting into the 0781 form is optional, once the Veteran does so, they need to provide evidence to support their stated mental health conditions. If the Veteran doesn’t provide the correct evidence, it can delay adjudication or result in their claim being denied. Additionally if the Veteran doesn’t provide enough of the right kind of evidence, the VBA will not be equipped to follow up on these items, leading to their claim being denied. 
+At present, all Veterans upload their documents as supporting evidence of their claim in one step at the very end of VA form 21-526 EZ, the application Veterans use to apply for disability compensation benefits. Veterans who opt into form 0781, which supports claims for mental health conditions, do not currently have a specific section that walks them through the process of uploading documents to support those conditions. Although opting into the 0781 form is optional, once the Veteran does so, they need to provide evidence to support their stated mental health conditions. If the Veteran doesn’t provide the correct evidence, it can delay adjudication or result in their claim being denied. Additionally, if the Veteran doesn’t provide enough of the right kind of evidence, the VBA will not be equipped to follow up on these items, leading to their claim being denied. 
 
 ## Research goals
 
 * Goal 1: Gather feedback on the instructional content on each page.  
 * Goal 2: Evaluate the effectiveness of the formatting and visual hierarchy of the information presented.  
-* Goal 3: Evaluate whether users are able navigate through the document upload sections.  
+* Goal 3: Evaluate whether users are able to navigate through the document upload sections.  
 * Goal 4: Understand how users think through uploading evidence in support of their condition(s).
 
 ## Methodology
@@ -92,7 +92,7 @@ Decision page for other documents: 8 out of 8 participants who saw the decision 
 * *“So you have a clinical records request from the VA…then you have a second supporting documents request, and now you have another documents request. Why is… so it's like a main, an other, and an other other?” –P8*  
 * *“Not sure why we’re talking about benefit forms there if it’s about claims and supporting docs. Might want to talk about benefits after you get the claim, not during the submission process. It could be confusing because you’re not done yet.” – P5*
 
-For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents). We wanted to see if making it more obvious would make the instructions more clear. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.
+For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents). We wanted to see if making it more obvious would make the instructions clearer. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.
 
 * *“Additional benefits…I don’t know what that means.” – P10*  
 * *“I thought, we're on to the next one, and we're just doing the same process over again, and I don't feel like that's what's happening. I feel like the bullet points changed…” – P10*
@@ -107,14 +107,14 @@ Since participants struggled with understanding the two supporting evidence uplo
 
 1. Make changes to instructional content  
    1. We recommend reviewing all of the content on the existing upload pages and change instructional content based on the findings and recommendations in this document. We believe that having instructions that clearly describe the expectations and actions to be taken will help orient Veterans in the process and eliminate ambiguity around what is expected. Adding more details around accepted documents will help Veterans select more relevant evidence and feel more confident in what they choose to submit.   
-2. Add accordions and additional information design components to support hierarchy of instructional content  
+2. Add accordions and additional information design components to support the hierarchy of instructional content  
    1. Since there will be more instructional and supporting content on the upload pages, we recommend strategically placing accordions and additional information design components. These will help Veteran comprehension by decreasing information overload.   
 3. Update the upload component   
    1. The current upload component is V1, and was identified in the Midpoint Review as a launch blocker. We recommend updating it to the V3 component, however, that component will need to be customized to include a document type dropdown so that Veterans can label their uploaded document. 
 
 ### **Finding #2: The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.**
 
-Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may have not been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc.  
+Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may not have been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc.  
 
 **Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
 
@@ -165,7 +165,7 @@ This is the first page of the prototype where participants are asked to take the
 * *“I have no idea what the non-military police records have to do with your health.” – P1*  
 * *“I mean, you could probably combine that bullet \[about police reports\]…reports from police headquarters, local precincts, or municipal stations, that's still a police report, whether it's from the headquarters, whether it's from the local, it's a police report.” – P5*
 
-**Recommendation**: We recommend continuing to provide this information, and include as much detail as possible around information about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
+**Recommendation**: We recommend continuing to provide this information, and include as much detail as possible about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
 
 ##### Page 4: Upload page for mental health documents
 
@@ -228,7 +228,7 @@ The participants didn’t realize that the second upload page was specifically f
 
 * *“It would be for anxiety, we're still under anxiety” – P8*  
 * *“You don’t want to see the upload again, didn't it work? Should I re-upload everything I uploaded again?” –P5*  
-* *After the researcher explained the difference between the two upload pages: “It looks the same, but if it isn't,… maybe break down into one screen that says upload supporting documentation . And then it should say on the bottom in bold things, uh, upload other documents to support your disability if you have. And you could upload right there, so everything's on there. It feels like you're doing multiple steps for no reason.” – P7*  
+* *After the researcher explained the difference between the two upload pages: “It looks the same, but if it isn't,… maybe break down into one screen that says upload supporting documentation. And then it should say on the bottom in bold things, uh, upload other documents to support your disability if you have. And you could upload right there, so everything's on there. It feels like you're doing multiple steps for no reason.” – P7*  
 * *“I was hoping that the point of this was to make things easier. And it kept asking me the same thing over and over again, which was not… helpful, I guess. I was hoping that it would be better in the streamlined process.” –P10*
 
 ##### Page 8: Summary page for other conditions
