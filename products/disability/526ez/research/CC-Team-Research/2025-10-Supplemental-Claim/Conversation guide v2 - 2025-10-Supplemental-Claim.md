@@ -210,23 +210,28 @@ When you get to this screen, you’ve already logged in and started your benefit
 
 ##### Add a condition screen
 
+* What are you noticing about this screen?
+* If you wanted to ask for disability pay for your arthritis, what would you do? 
+* What is going through your mind as you consider what to do?  
+* Without clicking, tell me what you would do next.
+
 _Aim is to understand if first radio button option for adding a condition is noticeable on this screen._
 
 ### 🍎 Apple Task 1: Appeal a denied condition (Asthma)
 
-Have you heard of the PACT Act?
+Now I have a different scenario for you. Before we start, have you heard of the PACT Act?
 
 * *If no, provide this background first:*  
   * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or Agent Orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
 
-Let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
+For this scenario, let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
 
 So now, you’re going to re-apply for asthma. 
 
 ##### Add a condition screen
 
-* What are you noticing about this screen?  
-* What is going through your mind as you consider what to do?  
+* How would you do that on this screen?
+* What's going through your mind as you think through what to do?
 * What would you do next? Go ahead and do that.
 
 ##### Supplemental claim info screen(s)
@@ -306,21 +311,46 @@ OK, we’re now going to switch to the other prototype. We’ll walk through the
 
 ## 🍌 Prototype Banana (10-15 min)
 
-### 🍌 Banana Task 1: Appeal a denied condition (Asthma)
+### 🍌 Banana task 0.5
 
-For this first scenario, you’re going to re-apply for asthma, which the VA denied when you applied 5 years ago. Since the PACT Act became law, you think the VA should change its decision.
+For the first scenario, let's say you've started having arthritis in your shoulder that you think is because of an injury you had while in service. How would you ask for disability compensation for that?
 
 ##### Intro screen
 
+When you get to this screen, you’ve already logged in and started your benefits application.
+
+* What’s going through your mind as you see this screen?  
 * What would you do next?  
+* *(if they say “Click continue”)* What do you expect to happen next?  
 * OK, go ahead and click Continue.
 
 ##### Add a condition screen
 
+* What are you noticing about this screen?
 * What are you noticing about this screen?  
 * Do you see anything different about this screen from the previous prototype?  
   * What do you think of that?  
+* If you wanted to ask for disability pay for your arthritis, what would you do? 
 * What is going through your mind as you consider what to do?  
+* Without clicking, tell me what you would do next.
+
+_Aim is to understand if first radio button option for adding a condition is noticeable on this screen._
+
+### 🍌 Banana Task 1: Appeal a denied condition (Asthma)
+
+Now I have a different scenario for you. Before we start, have you heard of the PACT Act?
+
+* *If no, provide this background first:*  
+  * The PACT Act is a new law that made a bunch of new health conditions eligible for disability benefits, so that if you were exposed to burn pits or Agent Orange and you now have certain conditions, the VA will just presume that condition was caused by your military service and they’ll approve your benefits.  
+
+For this scenario, let’s pretend you applied for disability benefits for asthma about 5 years ago, but the VA turned down your request because they didn’t think it was caused by your military service. But since the PACT Act was passed, you’ve learned that asthma is now a presumptive condition and they should give you benefits for it. 
+
+So now, you’re going to re-apply for asthma. 
+
+##### Add a condition screen
+
+* How would you do that on this screen?
+* What's going through your mind as you think through what to do?
 * What would you do next? Go ahead and do that.
 
 ##### Previously denied conditions screen
