@@ -195,6 +195,10 @@ As you use the prototype, please verbalize your thoughts out loud so we can unde
 
 ## 🍎 Prototype Apple (10-15 min)
 
+### 🍎 Apple Task 0.5: Adding a new condition
+
+For the first scenario, let's say you've started having arthritis in your shoulder that you think is because of an injury you had while in service. How would you ask for disability compensation for that?
+
 ##### Intro screen
 
 When you get to this screen, you’ve already logged in and started your benefits application.
@@ -204,9 +208,7 @@ When you get to this screen, you’ve already logged in and started your benefit
 * *(if they say “Click continue”)* What do you expect to happen next?  
 * OK, go ahead and click Continue.
 
-### 🍎 Apple Task 0.5: Adding a new condition
-
-For the first scenario, let's say you've started having arthritis in your shoulder that you think is because of an injury you had while in service. How would you ask for disability compensation for that?
+##### Add a condition screen
 
 _Aim is to understand if first radio button option for adding a condition is noticeable on this screen._
 
