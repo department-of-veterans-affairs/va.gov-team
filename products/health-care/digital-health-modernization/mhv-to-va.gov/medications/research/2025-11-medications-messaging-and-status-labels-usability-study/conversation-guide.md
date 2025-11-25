@@ -95,6 +95,9 @@ I want to make sure that you're comfortable with a few of my teammates assisting
 
 
 ---
+## Your set-up - 1 minutes
+
+Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov) *[Note: Add something along these lines to help with setup and screen sharing, so we know what tools people are using]*
 
 
 ## Screen share/Remote share - 2 minutes
