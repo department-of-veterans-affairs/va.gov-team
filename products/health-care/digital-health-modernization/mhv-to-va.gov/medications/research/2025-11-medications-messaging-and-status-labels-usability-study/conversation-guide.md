@@ -144,24 +144,33 @@ First, we’re going to navigate to the medications page by selecting the medica
 
 
 1. Tell me what you are looking at *(Alternative, what you see on the page")*.
-2. What can you tell me about what’s going on with your prescriptions.
-3. What can you tell me about x medication? (make med in “**active** status”)
-    1. Probe: what does that mean to you?
+2. What can you tell me about what’s going on with your prescriptions?
+3. What can you tell me about your PEPCID medication? (make med in “**active** status”)
+    1. Probe: what does the **active** status mean to you?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
         1. What do you think “active” means?
-        2. What do you think happens next for your medication?
-4. What can you tell me about x medication? (make med in “**in progress** status”)
+        2. On a scale of 1-5, how confident are you in that answer?
+        3. What do you think happens next for your medication?
+        4. How would you feel if you saw this status on an important medication?
+4. What can you tell me about your LOPRESSOR medication? (make med in “**in progress** status”)
     1. Probe: what does that mean to you?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
         1. What do you think “in progress” means?
-        2. What do you think happens next for your medication?
-5. What can you tell me about x medication? (make med in “**inactive** status”)
+        2. On a scale of 1-5, how confident are you in that answer?
+        3. What do you think happens next for your medication?
+        4. How long would you expect a medication to stay 'in progress'?
+        5. If you saw this status for several days, what would you think?
+        6. How would you feel if you saw this status on an important medication?
+5. What can you tell me about AMOXICILLIN medication? (make med in “**inactive** status”)
     1. Probe: what does that mean to you?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
         3. What do you think “inactive” means?
-        4. What do you think happens next for your medication?
+        4. On a scale of 1-5, how confident are you in that answer?
+        5. What do you think happens next for your medication?
+        6. How would you feel if you saw this status on an important medication?
 6. Now, imagine that you take a medication regularly. You notice that you are running out of pills. Using this page, do you think you could get more of your med?
-7. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this p[...]
+7. How would you differentiate between a 'refill' and a 'renewal'? Is there a difference between those terms to you?
+8. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this p[...]
      Notice: Do they filter? Do they think of status or just date?
      Probe: What status might that medication be in?
 9. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
@@ -184,7 +193,7 @@ Great, thank you for that feedback. Some quick questions before we move onto our
 * What did you think of the different prescription statuses, and how they are described?
 * Does anything about the different statuses feel overwhelming or hard to process?
 * Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [screen magnification]*?
-* Do you think these are the same statuses that you currently use on MHV on VA.gov?
+* Have you seen a status like this before on My HealtheVet? How is this similar or different from what you're used to seeing?
 * How would you like to learn that the words we use to describe statuses have changed, if at all? *[Question: Is this update correct, that we're asking about the language we use?]*
 * Anything else about statuses that you’d like to share?
 
@@ -255,6 +264,10 @@ Now that you’ve found the renewal link, how would you request more of this med
 *[Confirmation; medications list page]*
 
 * Where are you now?
+* How do you know your request was successful?
+* What do you expect to happen next?
+* How will you know when your renewal request has been processed?
+* Imagine you're telling a friend about this experience. Would you tell them this is easy or hard to use? Why?
 
 *[After task completion]*
 
@@ -268,12 +281,13 @@ Now that you’ve found the renewal link, how would you request more of this med
 * If you were teaching someone else who uses *[a screen reader] or [screen magnification]* to do this, what would you warn them about?
 
 
-*[If they weren’t able to successfully request a renewal after finding the link]*
+*[Ask the following questions to all users whether they were able to complete the reqeust or not.]*
 
 
 
-* *[navigate participant to the step where they incorrectly navigated away]*
-* What if you saw this page [page with error request] instead when requesting a renewal? What would you do?
+* "Before we wrap up Task 2, I'd like to show you one more thing. 
+Imagine you tried to request a renewal but saw this message [show error]. What would you do next?"
+
 
 *Things to watch for:*
 
