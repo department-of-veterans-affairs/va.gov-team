@@ -8,7 +8,7 @@ When starting or evolving a product, we recommend scheduling a 30‑minute worki
 
 ## Use case documents
 - Combined VA Debt Portal use case index and details
-  - See: [Debt/Copay – Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+  - See: [Debt/Copay – Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/debt-copay_use_cases.md)
 - Financial Status Report (FSR) use cases (subset of the portal flows)
   - See: [Financial Status Report – Use Cases
 ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/fsr-use-cases.md)
