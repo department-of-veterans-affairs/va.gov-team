@@ -84,7 +84,8 @@ The first 7 participants struggled at various parts of the prototype with unders
 
 Decision page for treatment records: 5 out of 10 participants thought that providing treatment records and uploading supportive documentation was the same concept, and were confused about why they were being asked to provide them separately. 
 
-* *“Why are treatment records separate from documentation?” – P8*  
+* *“Why are treatment records separate from documentation?” – P8*
+
 * *(After having the participant select “no” to the previous page, which asked “Are there any treatment records you’d like us to review to support your claim?”)  “It was a little confusing, because before it says “do you have any supporting documentation? You hit no, and now it’s asking you for supporting documentation and supporting evidence? Is this something different?” – P7*
 
 Decision page for other documents: 8 out of 8 participants who saw the decision page for other documents did not understand that it was asking for documents for other conditions as well as other documents to support the claim. Once they did understand that the page was asking them for two specific things, they were still confused by why they were being asked to submit “additional benefits and supporting forms” at that stage.
@@ -122,7 +123,9 @@ Throughout the sessions, most of the participants had accurate expectations arou
 
 
  ```Page 1: Introduction page to the supporting evidence section```
- <img  src="images/EvidenceOrientation.png" width="200" style="border: 2px solid grey;">|---|
+ 
+ <table><tr><td><img  src="images/EvidenceOrientation.png" width="200" style="border: 2px solid black;"></td></tr></table>
+ 
 
 ### **Finding #3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
 
@@ -144,7 +147,8 @@ This is the first page of the prototype where participants are asked to take the
 
 
  ```Page 2: Decision page for treatment records ```
-<img width="200" src="images/Treatmentrecords.png">
+ 
+<table><tr><td><img width="200" src="images/Treatmentrecords.png"></td></tr></table>
 
 
 ### **Finding #5: 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.**
@@ -157,8 +161,10 @@ The intent of this section is to collect information about medical centers in wh
 
 **Recommendation:** The current content does not communicate expectations about what exactly will be happening on the following screens. We recommend that the content be reframed to specify that the Veteran will be providing information about the medical centers in which they were treated, so that the VA can get access to all of their treatment records. 
 
+
 ```Page 3: Decision page for mental health documents```
-<img width="200" src="images/MHEvidenceOrientation.png">
+
+<table><tr><td><img width="200" src="images/MHEvidenceOrientation.png"></td></tr></table>
 
 ### **Finding #6: 6 out of 10 participants found the detailed list of document types helpful.**
 
@@ -176,30 +182,17 @@ Still, the participants wanted even more specific examples and guidelines around
 **Recommendation**: We recommend continuing to provide this information, and include as much detail as possible about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
 
 ```Page 4: Upload page for mental health documents```
-<div class="image-gallery">
-  <img src="images/MHUpload.png" alt="Gallery image 1">
-  <img src="images/MHUploadAddtlInfo.png" alt="Gallery image 2">
-  <img src="images/MHUploadAccordion.png" alt="Gallery image 3">
-</div>
 
-<style>
-.image-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 10px;
-  margin: 10px 0;
-}
 
-.image-gallery img {
-  max-width: 200px;
-  object-fit: cover;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-</style>
-<img width="200" src="">
-<img width="200" src="">
-<img width="200" src="">
+  <table>
+   <tr valign="top">
+     <td><img src="images/MHUpload.png" alt="Gallery image 1"></td>
+     <td><img src="images/MHUploadAddtlInfo.png" alt="Gallery image 2"></td>
+     <td><img src="images/MHUploadAccordion.png" alt="Gallery image 3"></td>
+   </tr>
+  </table>
+
+
 
 ### **Finding #7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
 
@@ -236,7 +229,8 @@ Additionally, 2 out of 8 participants wanted the information to be presented bef
 * *“If you wanted to delete, hit back button and delete \[does this without difficulty\].” – P4*
 
 ```Page 5: Summary page for mental health documents```
-<img width="200" src="images/MHEvidenceSummary.png">
+
+<table><tr><td><img width="200" src="images/MHEvidenceSummary.png"></td></tr></table>
 
 ### **Finding #10: 6 out of 8 participants expected a summary page to confirm which documents they uploaded.**  
 
@@ -255,7 +249,8 @@ One participant gave feedback about the lack of distinct hierarchy of informatio
 Findings about this page can be found in the “Overarching Architecture” section at the beginning of the list of findings. 
 
 ```Page 7: Upload page for other documents```
-<img align="left" width="200" src="images/OtherUpload.png">
+
+<table><tr><td><img align="left" width="200" src="images/OtherUpload.png"></td></tr></table>
 
 ### **Finding #11: 3 out of 5 participants found it confusing that the two upload pages looked identical and didn’t know what to upload.** 
 
