@@ -4,7 +4,6 @@
 [WIP]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
 
@@ -24,26 +23,16 @@ We are iterating on an existing product – the Pension application.
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
-
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
-</details>
-
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
 	
 - `Taking Care of Myself`
 - `Retiring`
 
-</details>
-
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
 
 ### Goals
 
@@ -54,17 +43,14 @@ Are there moments that matter?</summary>
 `3.` **Get a better sense of Veterans' understanding of Disability Rating as a concept.** 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
+`How will this research advance our product to the next phase in the design process? What will we do with our learnings?`
 
-**We will iterate on the language or even the overall design if the messaging is shown to be confusing or if it has the opposite of the intended effect.** 
-
----
+We will iterate on the language or even the overall design if the messaging is shown to be confusing or if it has the opposite of the intended effect.
 
 ### Research questions
 
-*Assess clarity of the alert*
+*Assess clarity of the standard alert*
 
 **`1.`Do participants understand what the message is trying to tell them**
 
@@ -80,27 +66,15 @@ Are there moments that matter?</summary>
 
 **`3.`What would Vetearns do after seeing the message?**
 
-### Hypotheses
+## Hypotheses 🔬
 
----
+For the standard alert, the Veteran will recognize that because of their high Disability Rating, filling out the Pension application does not make sense for them.
 
-**The Veteran will be provided an efficient path through the data collection process through up-front and conditional questions that ease their form filling burden.** 
-
-**Participants are able to complete the 0969 form based on the scenarios provided with minimal friction.** 
-
-**Participants are able to understand the terms used in the form and are able to answer all questions asked of them.** 
-
-**Participants express that they would prefer to use this form over a paper version in a real-life scenario.** 
-
----
+For the API-failed version of the alert, the Veteran will recognize that Disability Rating might have an impact on whether or not they should fill out the Pension form, and they will try to figure out what their Disability Rating is.
   
 ## Methodology  🛠️
 
-</details>
-
-**For this study, we will be facilitating semi-structured interviews with Veterans based on a mock profile provided. We will utilize a combination of open-ended questions and conversation stimuli in the form of a high-fidelity prototype of proposed designs for a specific 0969-related scenario in a digitized format.**
-
-</details>
+For this study, we will be facilitating short, semi-structured interviews with Veterans. We will show them message(s) and asssess their comprehension.
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. 
@@ -111,20 +85,19 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-- [Link to prototype](https://www.figma.com/proto/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?page-id=2683%3A84049&node-id=2725-98727&p=f&viewport=340%2C264%2C0.02&t=71qwjH9eCo2HlUI0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2725%3A98727&show-proto-sidebar=1)
+- [Link to conversation guide](--)
+- [Link to prototype]([https://www.figma.com/proto/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?page-id=2683%3A84049&node-id=2725-98727&p=f&viewport=340%2C264%2C0.02&t=71qwjH9eCo2HlUI0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2725%3A98727&show-proto-sidebar=1](https://www.figma.com/design/PBFTGd8vTs6SMSytHJNUNr/Connecting-Rated-Disability-to-Pension?node-id=3-16&t=DIbIcsiffvmMDvZg-4))
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
 ### Recruitment approach
-Due to past experience recruiting hard-to-reach Veterans in the past, we would like to partner with Perigean to partner closely, finalizing exact criteria based on the screener outcomes. The research team would also like to make final determination regarding who is invited to the study with Perigean input. 
-
+Due to past experience recruiting hard-to-reach Veterans in the past, we would like to partner with Perigean to partner closely to try and get as many participants as possible who fit the eligiblity criteria for Pension benefits.
 ### Recruitment criteria
 
 **Intro included below should be included with screener:**
 
-*We are seeking to create an easier and more streamlined way to collect complex financial information for Veterans and their loved ones when they apply for benefits, such as Veterans Pension.*
+*We are seeking to inform Veterans about their eligibility for Pension form, specifically letting them know when they are not eligible due to a high Disability Rating.*
 
 *Due to the nature of this research, we ask that participants meet specific criteria related to their annual income and other personal or financial details. This information will only be used for screening purposes and will never be shared outside the study.* 
 
@@ -133,24 +106,14 @@ Due to past experience recruiting hard-to-reach Veterans in the past, we would l
 **Screener start:**
 
 Are you 65 years or older? 
-* Yes 
-* No (reject)
+* Yes (preferred recruit)
+* No
 
 Please select the annual income that applies closest to you from the list below: 
 * Less than $20,000 (preferred recruit)
 * $20,000 to $49,000 (preferred recruit)
 * $50,000 to $79,000
 * $80,000 or more
-
-Have you ever applied for a mortgage for a home or business? 
-* Yes
-* No (preferred recruit)
-
-Please select all assets that you may have from the list below: 
-* Investments such as stocks or bonds
-* Home or land that is not your primary residence
-* Other personal property not your primary vehicle (such as boat, furniture etc.) valued more than $25,000 in total
-
 
 Have you ever applied for or received a Veterans Pension benefit? (This is different from a military pension, retirement, or disability benefit.) 
 * Yes I applied but was not approved for Veterans Pension 
@@ -160,9 +123,9 @@ Have you ever applied for or received a Veterans Pension benefit? (This is diffe
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **15**
-- `Total:` **15**
-- `Ideal completed sessions:` **7-8**
+- `Veterans:` **10**
+- `Total:` **10**
+- `Ideal completed sessions:` **5-7**
 
 ### Primary criteria (must-haves)
 
@@ -182,24 +145,24 @@ Have you ever applied for or received a Veterans Pension benefit? (This is diffe
 
 ### Kick-off Call with Perigean
 
-- `Suggested dates and times:` **Anytime on 07/09 between 02:00 and 04:00 pm Eastern**
+- `Suggested dates and times:` **Anytime on 12/3 between 9 AM and 5 PM ET**
 
 ### Prepare
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **Jessica Jones**
-- `Date and time of pilot session:` **07/03 at 12 noon EST**  
+- `Pilot participant name:` **TBD**
+- `Date and time of pilot session:` **TBD**  
 
 ### Research sessions
-- `Planned dates of research:` **07/16-08/01**
+- `Planned dates of research:` **TBD**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **up to 90 minutes**
+- `Session length: **30 minutes**
   
-- `Buffer time between sessions: ` **60 minutes**
+- `Buffer time between sessions: ` **30 minutes**
   
-- `Maximum Sessions per day: ` **3**
+- `Maximum Sessions per day: ` **4**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -218,14 +181,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-- `Moderator:` **Chavie Cramer**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Chavie Cramer**		
-- `Participant recruiting & screening:`	**Perigean and Chavie Cramer**	
-- `Project point of contact:` **Chavie Cramer**		
-- `Note-takers:` **Skyler Schain** ***or*** **Melissa Lefevre**	
+- `Moderator:` **Elisabeth Chin** ***or*** **Skyler Schain**
+- `Research guide writing and task development (usually but not always same as moderator):` **Skyler Schain**		
+- `Participant recruiting & screening:`	**Perigean**
+- `Project point of contact:` **Skyler Schain** ***or*** **Elisabeth Chin**	
+- `Note-takers:` **Skyler Schain** ***or*** **Elisabeth Chin** 	***or*** **A'Nita Evans**
 - `Observers:` **TBD**
 
 ## Approvals ✅
-- `Reviewed by Ben Guhin Delphine on [06-27-2025]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by Shannon Ford on --`
+- `Reviewed by OCTO Research-Ops Lead on --`
 
