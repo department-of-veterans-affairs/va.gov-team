@@ -219,11 +219,36 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 
 **7. Edge + JAWS:**
   - **When using the link:** N/A
-  - **When dragging the file:** When dragging a file over, focus goes to the browser, and the visual focus is on the change file button. However, it announces `<title>` first. And then eventually it will announce "Error we do not accept extension files. Choose a new file."
+  - **When dragging the file:** When dragging a file over, focus goes to the browser, and the visual focus is on the change file button. However, it announces `<title>` first. And then eventually it will announce "Change file error we do not accept dot extension files. Choose a new file."
+  - JAWS actual announcement
+    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash Microsoft edge <br />
+    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash Microsoft edge page<br />
+    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash type<br />
+    > Change file error.<br />
+    > We do not accept dot mp4 files.<br />
+    > Choose a new file button to activate press enter. 
+
+
+https://github.com/user-attachments/assets/bf43aacd-0575-4c36-b8ce-ab29da649c49
+
 
 **8. Edge + NVDA:**
   - **When using the link:** N/A
   - **When dragging the file:** When dragging a file over, focus goes to the browser, and once the UI is updated, the file upload Input is announced first along with the hint text (Input accepts only specific file types". Then it announces "Clickable Change file. Error We do not accept .mp4 files. Choose a new file"
+  - NVDA Actual announcement
+    > VA file input accepts only specific file types.<br />
+    > Profile one, Microsoft Edge Window.<br />
+    > Use VA file input accepts only specific file types document.<br />
+    > Clickable input accepts only specific file types, clickable change file.<br />
+    > Error. We do not accept dot mp4 files. Choose a new file.<br />
+    > Button<br />
+    > Clickable delete file.<br />
+    > Error We do not accept dot mp4 files. Choose a new file<br />
+    > Button <br />
+
+
+https://github.com/user-attachments/assets/acb7aba4-7f7e-4178-aca1-04419abb1e23
+
 
 **Magnifcation & Zoom**
 No identified issues across Safari, Chrome, Edge, Firefox
