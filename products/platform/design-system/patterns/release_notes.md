@@ -28,6 +28,9 @@ Improved clarity for name input fields to be more inclusive of international nam
 **Affected Components:**
 - `fullNameUI()`
 - All forms using the full name pattern
+|         | Before | After |
+| ------- | ------ | ----- |
+| Full Name  |<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/6c90fa6d-f655-47be-bcac-88adfff1b14c" />|<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/a761f474-99ce-47be-af58-6d7838c6c702" />|
 
 ---
 
