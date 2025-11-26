@@ -13,7 +13,7 @@ Next week: Chris Donelson
   - Michael S. [informs us][ms-teams--roes-maintenance-window-schedule] the ROES/DALC has a regular maintenance window Sundays 12AM - 8AM MST.
   - [x] Set the channel topic in [#va-cto-supply-reordering-alerts][slack--va-cto-supply-reordering-alerts] with the ROES/DALC maintenance schedule.
   - [x] Created a new [PagerDuty Maintenance Window](https://ecc.pagerduty.com/service-directory/PCSLIAU) for this upcoming Sunday, scheduled for 20251130 0201 through 20251130 1000 EST.
-  - [ ] ⟳ **Reoccuring task**: Set a [PagerDuty Maintenace Window for the MDOT service](pager-duty--mdot-service) for the upcoming Sunday.
+  - [ ] ⟳ **Reoccuring task**: Set a [PagerDuty Maintenace Window for the MDOT service][pager-duty--mdot-service] for the upcoming Sunday.
 
 - 20251127 1:42 PM EST - 2:01 PM [#mhv-medications-alerts-issues](https://dsva.slack.com/archives/C068231MD6V/p1764182561435399) -- 6% of requests return HTTP status 500.
   - The fwdproxy went down due to a bad certificate being deployed. [A fix](https://github.com/department-of-veterans-affairs/vsp-platform-fwdproxy/pull/804) was quickly merged and deployed, resolving the issue.
@@ -34,4 +34,4 @@ Next week: Chris Donelson
 [datadog-roes-outage-log]: https://vagov.ddog-gov.com/logs?query=mdot%20-status%3A%28info%20OR%20ok%29&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1763902800000&to_ts=1763906400000&live=false
 [ms-teams--roes-maintenance-window-schedule]: https://teams.microsoft.com/l/message/19:f0db76db670d4a93881bc64945aacd05@thread.v2/1764018253826?context=%7B%22contextType%22%3A%22chat%22%7D
 [slack--va-cto-supply-reordering-alerts]: https://dsva.slack.com/archives/C07BSFDCK2B
-[pager-duty--mdot-service](https://ecc.pagerduty.com/service-directory/PCSLIAU)
+[pager-duty--mdot-service]: https://ecc.pagerduty.com/service-directory/PCSLIAU
