@@ -309,8 +309,10 @@ Each **60-minute session** will include:
 
 ## Research Materials
 
-- [Link to Conversation Guide]  
-- [Link to Notification Mockups / Prototypes]
+- [Notifications Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/2025-10-Notifications-Research/Notifications-Conversation-guide.md)
+ 
+- [Notifications BMT Figma File](https://www.figma.com/design/db26JCYXJtaakOdG4TiNXN/Notifications-BMT?node-id=2688-356&t=gkeRli85LqLj6qAy-1)
+
 
 ---
 
@@ -325,11 +327,11 @@ Sampling will focus on Veterans with experience managing disability compensation
 **Primary Criteria**
 - U.S. claimant actively using VA.gov or the VA Health and Benefits mobile app  
 - Has submitted or tracked a disability compensation or other benefits claim or decision review in the past year  
-- Has received a VA benefits notification within the last 6 months  
+- Has received a VA benefits notification within the last 2 years  
 
 **Secondary Criteria**
 - Mix of device use (mobile-only, desktop, both)  
-- 2+ paper-first Veterans transitioning to digital experiences  
+- 4+ participants with low digital literacy
 
 ### Sample Size
 - **Veterans:** 15 total recruited  
@@ -343,6 +345,6 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Debrief with Observers:** 15 minutes  
 - **Buffer Time Between Sessions:** 30 minutes  
 - **Max Sessions per Day:** 3  
-- **Recruitment Start:** TBD  
-- **Research Review Submission:** TBD  
+- **Recruitment Start:** 12/1/2025  
+- **Research Review Submission:** 12/1/2025  
 - **Study Duration:** 3–4 weeks (including synthesis and shareout)
