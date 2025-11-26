@@ -72,7 +72,7 @@ Note to reader:
 
 ##### ---- Overarching architecture -----------------
 
-### **Finding \#1: Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.** 
+### **Finding #1: Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.** 
 
 In the prototype, the participants were taken through three sections within the Supporting Evidence step:
 
@@ -120,9 +120,9 @@ Throughout the sessions, most of the participants had accurate expectations arou
 
 **Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
 
-##### ---- Page 1: Introduction page to the supporting evidence section -----------------
-
-### **Finding \#3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
+---- Page 1: Introduction page to the supporting evidence section -----------------
+<img align="left" width="200" src="images/EvidenceOrientation.png">
+### **Finding #3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
 
 Participants wanted more information as they mentally prepared to submit documents for the section. Although they discovered more detailed information in the next screen, their requests for this information on the intro page suggests that the overview that we are providing is not enough. 8 out of 10 requested descriptions of the evidence, visuals of the evidence types, a list of file types, and how to get access to the evidence (similar to finding \#6).
 
