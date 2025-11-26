@@ -200,13 +200,15 @@ Now you're going to log into the staging site for VA.gov with the test user logi
 
 _[Include instructions here on how to log into the test user or will they have already done this?]_
 
+### List page
+
 You have a prescription for hydrocortisone cream 2.5% that your pharmacy told you is out of refills. What would you do if you needed more meds?
 
 
 
 * Where would you go to request more of this medication?
 
-*[Let participant finish task with minimal interruption]*
+*[Let participant finish task with minimal interruption.]*
 
 *[If participant is struggling:]*
 
@@ -235,11 +237,11 @@ Now that you’ve found the renewal link, how would you request more of this med
 
 
 
-* Do you see the words “Request a renewal”? What do you think that means?
+Do you see the words “Request a renewal”? What do you think that means?
 * Where would you expect to find that link?
 * What do you expect to happen when you select the link?
 
-*[Modal dialog]*
+### Modal dialog
 
 * What do you think this screen is for?
 * What do you think you should do next?
@@ -247,7 +249,7 @@ Now that you’ve found the renewal link, how would you request more of this med
 *[Things to watch for:]*
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
 
-*[Select a caregiver screen]*
+### Select a care team
 
 
 * Who would you select here, and why?
@@ -257,7 +259,7 @@ Now that you’ve found the renewal link, how would you request more of this med
 * *Does the user express confusion about selecting a provider?*
 
 
-*[Prefilled Renewal Request Message Content]*
+### Prefilled Renewal Request Message Content
 
 * What do you notice on this page?
 * Would you edit or add additional information to this message at all?
@@ -270,7 +272,7 @@ Now that you’ve found the renewal link, how would you request more of this med
 * *Do screen reader users recognize that there is prefilled medication information, and what they need to do with it?*
 
 
-*[Confirmation: medications list page]*
+### Confirmation: medications list page
 
 * Where are you now?
 * How do you know your request was successful?
