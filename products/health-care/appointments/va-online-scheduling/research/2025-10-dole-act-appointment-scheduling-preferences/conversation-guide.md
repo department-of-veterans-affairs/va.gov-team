@@ -1,3 +1,19 @@
+---
+title: "Conversation Guide for Health Care (Appointments), E.  Dole Act Section 145 Appointment Scheduling Preferences, December 2025"
+author: "Tim Licitra, Nina Anusavice"
+date_created: "2025-11-26"
+last_modified: "2025-11-26"
+tags:
+  - "health-care"
+  - "appointments"
+  - "concept-testing"
+  - "veteran-preferences"
+  - "authenticated"
+  - "dole-act"
+  - "scheduling-preferences"
+  - "moderated-research"
+description: "A conversation guide for moderating remote concept testing sessions to evaluate Veterans' mental models and preferences for health care appointment scheduling settings, testing two prototype placements (My VA and Profile) with split-group design."
+---
 
 # Conversation Guide for 2025 December, E. Dole Act, Section 145 Veteran's Health Care Scheduling Preferences VA.gov’s Authenticated Experience
 
