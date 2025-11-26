@@ -79,8 +79,8 @@ For this study, we will be facilitating short, semi-structured interviews with V
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. 
 
- [X ] **Remote**
-- [ ] **In-person**
+ - [X] **Remote**
+ - [ ] **In-person**
 
 ## Research materials 📔
 
