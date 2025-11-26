@@ -202,8 +202,7 @@ _[Include instructions here on how to log into the test user or will they have a
 
 ### List page
 
-You have a prescription for hydrocortisone cream 2.5% that your pharmacy told you is out of refills. What would you do if you needed more meds?
-
+**You have a prescription for hydrocortisone cream 2.5% that your pharmacy told you is out of refills. What would you do if you needed more meds?**
 
 
 * Where would you go to request more of this medication?
@@ -224,7 +223,9 @@ You have a prescription for hydrocortisone cream 2.5% that your pharmacy told yo
 * *Does the participant comment on the ease of locating the link?*
 * *Does the participant seem pleased/frustrated with where the link is located?*
 
-Now that you’ve found the renewal link, how would you request more of this medication?
+
+
+**Now that you’ve found the renewal link, how would you request more of this medication?**
 
 *[If participant is struggling:]*
 
@@ -237,7 +238,7 @@ Now that you’ve found the renewal link, how would you request more of this med
 
 
 
-Do you see the words “Request a renewal”? What do you think that means?
+**Do you see the words “Request a renewal”? What do you think that means?**
 * Where would you expect to find that link?
 * What do you expect to happen when you select the link?
 
@@ -246,7 +247,7 @@ Do you see the words “Request a renewal”? What do you think that means?
 * What do you think this screen is for?
 * What do you think you should do next?
 
-*[Things to watch for:]*
+*Things to watch for:*
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
 
 ### Select a care team
@@ -255,7 +256,7 @@ Do you see the words “Request a renewal”? What do you think that means?
 * Who would you select here, and why?
 * If you weren't sure which provider to choose, what would you do?
 
-*[Things to watch for:]*
+*Things to watch for:*
 * *Does the user express confusion about selecting a provider?*
 
 
@@ -267,7 +268,7 @@ Do you see the words “Request a renewal”? What do you think that means?
     * If yes, what would you change in the message?
 * What would you do next to request more medication?
 
-*[Things to watch for:]*
+*Things to watch for:*
 * *Does the user edit or change the prefilled medication information?*
 * *Do screen reader users recognize that there is prefilled medication information, and what they need to do with it?*
 
@@ -280,7 +281,7 @@ Do you see the words “Request a renewal”? What do you think that means?
 * How will you know when your renewal request has been processed?
 * Imagine you're telling a friend about this experience. Would you tell them this is easy or hard to use? Why?
 
-*[Things to watch for:]*
+*Things to watch for:*
 * *Does the user notice the success alert after sending the renewal request?*
 * *Does the user know where they are after submitting the renewal request?*
 
