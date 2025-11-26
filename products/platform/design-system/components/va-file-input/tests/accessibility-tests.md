@@ -66,7 +66,7 @@ The component may be marked as *required* or *optional*, depending on the form c
 - Mac OS: Sequioa 15.6.1
 - Safari: Version 18.6 (20621.3.11.11.3)
 - Mac iOS: 18.6.2, iPhone 13
-- JAWS: 2020.2505.43
+- JAWS: 2025.2505.43
 - NVDA: 2025.1.1.36849
 - Chrome - Mac: Version 142.0.7444.176
 - Firefox - Mac: 145.0.2 (aarch64)
