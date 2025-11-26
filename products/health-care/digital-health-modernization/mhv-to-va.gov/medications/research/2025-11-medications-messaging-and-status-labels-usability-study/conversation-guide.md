@@ -202,7 +202,7 @@ _[Include instructions here on how to log into the test user or will they have a
 
 ### List page
 
-**You have a prescription for hydrocortisone cream 2.5% that your pharmacy told you is out of refills. What would you do if you needed more meds?**
+**You have a prescription for CLOBETASOL PROPIONATE 0.05% CREAM that your pharmacy told you is out of refills. What would you do if you needed more meds?**
 
 
 * Where would you go to request more of this medication?
