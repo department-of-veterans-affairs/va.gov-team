@@ -244,7 +244,7 @@ One participant gave feedback about the lack of distinct hierarchy of informatio
 **Recommendation:** We recommend keeping the summary pages as a way for people to confirm their uploads. 
 
 ```Page 6: Decision page for other conditions and other documents```
-<img align="left" width="200" src="images/OtherEvidenceOverview.png">
+<table><tr><td><img align="left" width="200" src="images/OtherEvidenceOverview.png"></td></tr></table>
 
 Findings about this page can be found in the “Overarching Architecture” section at the beginning of the list of findings. 
 
