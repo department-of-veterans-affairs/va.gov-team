@@ -17,6 +17,9 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
         * Vet Center Locations list
         * VAMC Register for care
         * VAMC Medical Records Office
+     * QA needs for upcoming templates
+        * See notes in Template Migration sync: https://docs.google.com/document/d/1Q-0CvPaMBzo6xBCGUU0ofTJIV-KgpEvKlN99QJqCP1o/edit?tab=t.0
+        * VAMC Detail Page and Benefit Detail Page are the first templates that should be ready
 
 11/13/2025
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
