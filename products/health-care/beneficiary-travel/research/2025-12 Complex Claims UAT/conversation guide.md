@@ -118,9 +118,9 @@ Moderator: Now I'm going to ask you to share your screen on Zoom so that we can 
 > - Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed
 
 ## Second Task: [Select expenses round one] - 3-5 minutes
-Moderator: Tell me a little bit about what you're seeing on this page.
+Moderator: Tell me a little bit about what you're seeing on this page. What do you expect to do here?
 - [ ] Step 1 - Select an expense
-- [ ] Step 2
+- [ ] Step 2 - Hit 'Continue'
 
 > [!NOTE]
 > ### Things to watch for:
@@ -129,7 +129,7 @@ Moderator: Tell me a little bit about what you're seeing on this page.
 
 
 ## Third Task: [IF participant selects 'mileage' - Milage questions] - 2 minutes
-
+Moderator: Tell me a little bit about what you're seeing on this page. 
 - [ ] Step 1
 - [ ] Step 2
 
