@@ -122,7 +122,7 @@ Throughout the sessions, most of the participants had accurate expectations arou
 
 
  ```Page 1: Introduction page to the supporting evidence section```
-<img align="left" width="200" src="images/EvidenceOrientation.png">
+ <img  src="images/EvidenceOrientation.png" width="200" style="border: 2px solid grey;">|---|
 
 ### **Finding #3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
 
@@ -159,7 +159,7 @@ The intent of this section is to collect information about medical centers in wh
 **Recommendation:** The current content does not communicate expectations about what exactly will be happening on the following screens. We recommend that the content be reframed to specify that the Veteran will be providing information about the medical centers in which they were treated, so that the VA can get access to all of their treatment records. 
 
 ```Page 3: Decision page for mental health documents```
-<img align="left" width="200" src="images/MHEvidenceOrientation.png">
+<img width="200" src="images/MHEvidenceOrientation.png">
 
 ### **Finding #6: 6 out of 10 participants found the detailed list of document types helpful.**
 
@@ -177,9 +177,9 @@ Still, the participants wanted even more specific examples and guidelines around
 **Recommendation**: We recommend continuing to provide this information, and include as much detail as possible about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
 
 ```Page 4: Upload page for mental health documents```
-<img align="left" width="200" src="images/MHUpload.png">
-<img align="left" width="200" src="images/MHUploadAddtlInfo.png">
-<img align="left" width="200" src="images/MHUploadAccordion.png">
+<img width="200" src="images/MHUpload.png">
+<img width="200" src="images/MHUploadAddtlInfo.png">
+<img width="200" src="images/MHUploadAccordion.png">
 
 ### **Finding #7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
 
@@ -216,7 +216,7 @@ Additionally, 2 out of 8 participants wanted the information to be presented bef
 * *“If you wanted to delete, hit back button and delete \[does this without difficulty\].” – P4*
 
 ```Page 5: Summary page for mental health documents```
-<img align="left" width="200" src="images/MHEvidenceSummary.png">
+<img width="200" src="images/MHEvidenceSummary.png">
 
 ### **Finding #10: 6 out of 8 participants expected a summary page to confirm which documents they uploaded.**  
 
