@@ -144,7 +144,6 @@ This is the first page of the prototype where participants are asked to take the
 
 
  ```Page 2: Decision page for treatment records ```
-
 <img width="200" src="images/Treatmentrecords.png">
 
 
@@ -177,9 +176,30 @@ Still, the participants wanted even more specific examples and guidelines around
 **Recommendation**: We recommend continuing to provide this information, and include as much detail as possible about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
 
 ```Page 4: Upload page for mental health documents```
-<img width="200" src="images/MHUpload.png">
-<img width="200" src="images/MHUploadAddtlInfo.png">
-<img width="200" src="images/MHUploadAccordion.png">
+<div class="image-gallery">
+  <img src="images/MHUpload.png" alt="Gallery image 1">
+  <img src="images/MHUploadAddtlInfo.png" alt="Gallery image 2">
+  <img src="images/MHUploadAccordion.png" alt="Gallery image 3">
+</div>
+
+<style>
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.image-gallery img {
+  max-width: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+</style>
+<img width="200" src="">
+<img width="200" src="">
+<img width="200" src="">
 
 ### **Finding #7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
 
