@@ -1,5 +1,7 @@
 # Proposed payloads
 
+This document demonstrates data coming from the current COE, and then suggests a new shape based on the new COE app designs, and updated paper form. It is organized by the chapters that will appear in the new version of the COE app.
+
 ⭐️ indicates fields that are new.
 
 ## Step 1: Your Information
