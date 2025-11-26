@@ -2,7 +2,7 @@
 title: "Conversation Guide for Benefits Management Notifications Study"
 author: "Naomi Howe"
 date_created: "2025-11-17"
-last_modified: "2025-11-17"
+last_modified: "2025-11-25"
 tags:
   - "Benefits Management Tools"
   - "Notifications Research"
@@ -10,16 +10,15 @@ description: "A guide for moderating research sessions focused on how Veterans r
 ---
 # Conversation Guide
 
-## **Benefits Management Notifications Study**
-
+**Study Name:** Benefits Management Notifications Study  
 **Product / Team:** Benefits Management Tools (BMT 3) – Notifications  
-**Date:** [ SESSION DATE ]  
-**Moderator:** [ MODERATOR NAME ]  
-**Note-taker:** [ NOTETAKER NAME ]  
+**Date:** 12/15–12/19/2025  
+**Moderator:** Naomi Howe  
+**Note-taker:** Melissa Lefevre, Guy Schmidt  
 **Session Duration:** ~60 minutes  
 **Location:** Remote (via Zoom)  
 **Recording:** Yes/No (as per consent)  
-**Observers (if any):** [ Observer Names / Roles ]
+**Observers (if any):** TBD  
 
 ---
 
@@ -29,30 +28,31 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - Confirm Zoom setup: screen share permissions, captioning enabled, device test.  
 - Send observer instructions to any observers (via Slack channel `#feedback-backchannel`).  
 - Mute your Slack notifications during the session.  
-- Ensure the Veteran is provided instructions for sharing their screen.
+- Ensure the participant has instructions for sharing their screen.
 
 ---
 
 ## 2. Introduction and Consent (5 min)
 
-### Moderator Introduction
+**Moderator Introduction**
 
-> “Hi, thank you for joining us today! My name is [NAME] and I will be moderating today's session. [NOTETAKER] will be taking notes. We also have a few colleagues observing the session.  
+> “Hi, thank you for joining us today! My name is [NAME] and I will be moderating today's session.  
+> [NOTETAKER] will be taking notes. We also have a few colleagues observing the session.  
 >
-> Today we’ll be talking about how Veterans receive messages from the VA about their benefits. For example, notifications that tell you a decision has been made on your disability claim, or that the VA needs more information from you.  
+> Today we’ll be talking about how Veterans and other claimants receive messages from the VA about their benefits. For example, notifications that tell you a decision has been made on your disability claim, or that the VA needs more information from you.  
 >
-> During today’s session, you’ll hear me use the word **‘channel’**. When I say channel, I mean the way VA sends you a message — for example, by **email**, **text message (SMS)**, or an **in-app notification** inside the VA Health and Benefits mobile app or VA.gov.  
+> During today’s session, you’ll hear me use the word **‘channel.’** When I say channel, I mean the way the VA sends you a message — for example, by email, text message (SMS), or an in-app notification inside the VA Health and Benefits mobile app or VA.gov.  
 >
-> You'll also hear me talk about **notifications** — in this context, a notification is a message that the VA sends to let you know something important about your benefits, for example, an email, a text, or a message inside the VA Health and Benefits app.  
+> You’ll also hear me talk about **notifications** — a notification in this context refers to a message that the VA sends to let you know something important about your benefits. For example, an email, a text, or a message inside the VA Health and Benefits app.  
 >
-> We’ll look at example notifications of each channel today and we’ll talk about how clear they feel, what stands out to you, and how you’d prefer to get this kind of information.”
+> We’ll look at example notifications for each channel today, and we’ll talk about how clear they feel, what stands out to you, and how you’d prefer to get this kind of information.”  
 
 - This session should take about 60 minutes.  
 - There are no right or wrong answers; we’re interested in your honest thoughts.  
 - Your participation is voluntary and won’t affect your VA benefits in any way.  
 - You can stop or skip any question at any time.
 
-### Consent & Recording
+**Consent & Recording**
 
 - Are you okay with observers being present in the session?  
 - Are you okay with us recording the screen and audio? (If yes, start recording and confirm.)  
@@ -68,27 +68,30 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 **Prompts:**
 
-1. How do you usually hear from the VA about your benefits or claims? (paper mail, email, text, app)  
-2. In the past 6 months, have you received communication about a decision letter, evidence request, or claim status update?  
-3. Which device are you using to communicate with us today? What device do you typically use when reviewing information from the VA?  
-4. Do you use any assistive technologies or accessibility settings? (screen reader, large text, magnifier)  
-5. When you receive a message from the VA, what makes it feel important or urgent to you?
+- Rapport: *“How is your day going? Tell me a little about your past experience receiving notifications or messages from the VA.”*  
+- How do you usually hear from VA about your benefits or claims? (paper mail, email, text, app)  
+- In the past 6 months, have you received communication about a decision letter, evidence request, or claim status update?  
+- Which device are you using to communicate with us today? What device do you typically use when reviewing information from VA?  
+- When you receive a message from VA, what makes it feel important or urgent to you?  
+- Do you ever feel like messages from VA come from different places or use different wording? What helps you know they are legitimate?
 
 ---
 
 ## 4. Screen Sharing (~2 min)
 
 > “I just dropped a link in the Zoom chat. When you click it, it will open something called Figma.  
-> Figma is just the tool we use to show design examples — it will open right in your web browser like a website.”
+> Figma is just the tool we use to show design examples; it will open right in your web browser like a website.”
 
 ### If the participant is using a desktop or laptop
 
-> “Once the page opens, please share your screen so I can see what you’re seeing. Here’s how to do that:”
+> “Once the page opens, please share your screen so I can see what you’re seeing. Here’s how to do that:”  
+>  
+> - Move your mouse to the bottom of the Zoom window.  
+> - Click the green **Share Screen** button.  
+> - Choose the screen or browser window where the Figma link is open.  
+> - Then click the blue **Share** button in the bottom-right corner.”
 
-1. Move your mouse to the bottom of the Zoom window.  
-2. Click the green **Share Screen** button.  
-3. Choose the screen or browser window where the Figma link is open.  
-4. Click the blue **Share** button in the bottom-right corner.
+*(Pause and confirm you can see their screen.)*
 
 > “I can see your screen now. You should see an example message. I’ll guide you through where to click.”
 
@@ -103,43 +106,42 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 ### Set-up
 
-> “Now I’d like you to imagine you’ve just received a notification from VA saying that a decision has been made on your disability claim. I will show you one example of that message in each channel: email, text, and in-app. After viewing each, we’ll talk about how you feel about it and what you’d likely do next.”
+> “Now I’d like you to imagine you’ve just received a notification from VA saying that a decision has been made on your disability claim. I will show you one example of that message in each channel: email, text, and in-app. After viewing each, we’ll talk about what you think about it and what you’d likely do next.”
 
 ### Show the Three Examples
 
-#### Email – Decision Letter
+**Email – Decision Letter**
 
-**Subject:** Your VA claim decision is ready.  
+- **Subject:** “Your VA claim decision is ready.”  
+- **Body:**  
+  > “Dear Sam,  
+  > We’ve made a decision about your VA claim or review request. You can read and download your decision letter online or in our mobile app.  
+  >  
+  > Access your decision letter on VA.gov: {{link}}”
 
-**Body:**  
-Dear {{Veteran First Name}},  
+**Text Message – Decision Letter**
 
-We’ve made a decision about your VA claim or review request.  
-You can read and download your decision letter online or in our mobile app.  
+> “We’ve made a decision about your VA claim or review request. You can read and download your decision letter online: https://va.gov/claim-or-appeal-status  
+>  
+> Have questions? Call 800-287-1000 (TTY: 711). We’re here Monday–Friday, 8:00 a.m. to 9:00 p.m. ET.  
+> Reply STOP to opt out.”
 
-**Access your decision letter on VA.gov:** {{link}}
+**In-App Notification – Decision Letter**
 
-#### Text Message – Decision Letter
-
-We’ve made a decision about your VA claim or review request.  
-You can read and download your decision letter online:  
-https://va.gov/claim-or-appeal-status
-
-#### In-App Notification – Decision Letter
-
-Your VA claims decision is ready. Tap to view.
+> “**VA Claims Update**  
+> Your VA claims decision is ready.”
 
 ### Discussion Prompts (for each example)
 
 - What’s your first reaction to this message?  
-- Let’s discuss clarity — from this message what do you think has happened and what should you do next?  
-- How trustworthy does it feel? What about it makes you feel that way?  
-- Which channel (email, text, in-app) feels easiest for you in this scenario? Why?  
-- What would make this message better (clearer, more trustworthy, easier to act on)?
+- On a scale of 1–5, how confident are you that you understand this message and know what you’re supposed to do next?  
+- Was any aspect of this message (font, color, wording) hard to read or confusing?  
+- On a scale of 1–5, how trustworthy does it feel? What about it makes you feel that way?  
+- Is there anything missing here that you would normally look for to confirm the message is really from VA?
 
-**Wrap-up of Scenario 1**
+### Wrap-up of Scenario 1
 
-- If you had to choose one channel for this type of message, which would it be and why?  
+- If you had to choose email, text, or in-app for this type of message, which would you choose and why?  
 - Is there any aspect of the tone or format of these messages that felt off or confusing?
 
 ---
@@ -148,46 +150,49 @@ Your VA claims decision is ready. Tap to view.
 
 ### Set-up
 
-> “Now let’s look at another type of notification, one where VA needs more information from you (evidence request) to move your claim forward. Again, you’ll see one version in each channel.”
+> “Now let’s look at another type of notification — one where VA needs more information from you (evidence request) to move your claim forward. Again, you’ll see one version in each channel.”
 
 ### Show the Three Examples
 
-#### Email – Evidence Request
+**Email – Evidence Request**
 
-**Subject:** Submit information to continue your claim.  
+- **Subject:** “Submit information to continue your claim”  
+- **Body:**  
+  > “Dear {{Veteran First Name}},  
+  > We need additional information to continue processing your claim. You can review this request online or in our mobile app.  
+  >  
+  > Respond to this request on VA.gov: {{link}}”
 
-**Body:**  
-Dear {{Veteran First Name}},  
+**Text Message – Evidence Request**
 
-We need additional information to continue processing your claim.  
-You can review this request online or in our mobile app.  
+> “VA is reviewing your benefits claim. We need more information from you.  
+> Learn about what we need and what steps to take: https://va.gov/claim-or-appeal-status  
+>  
+> Have questions? Call 800-287-1000 (TTY: 711). We’re here Monday–Friday, 8:00 a.m. to 9:00 p.m. ET.  
+> Reply STOP to opt out.”
 
-**Respond to this request on VA.gov:** {{link}}
+**In-App Notification – Evidence Request**
 
-#### Text Message – Evidence Request
-
-VA is reviewing your benefits claim. We need more information from you.  
-Learn about what we need and what steps to take:  
-https://va.gov/claim-or-appeal-status
-
-#### In-App Notification – Evidence Request
-
-Action needed: We need more information to continue processing your claim.
+> “**VA Claims Update**  
+> We need more information to continue processing your claim.”
 
 ### Discussion Prompts (for each example)
 
 - What stands out to you about this message?  
 - How urgent does it feel compared to the decision letter message?  
-- Is the next step clearly communicated — what you need to do, how to do it, and by when?  
-- Which channel would you prefer for this kind of action-required message, and why?  
-- How confident would you feel clicking or tapping a link in the message?  
-- With your device and settings, how easy would it be to follow through (upload documents, meet deadline)?  
-- What would make this message easier or more trustworthy?
+- On a scale of 1–5, how confident are you that you understand this message and know what you’re supposed to do next?  
+- What should you do after reading this message?  
+- How would you do it?  
+- When does it need to be completed?  
+- Was any aspect of this message (font, color, wording) hard to read or confusing?  
+- On a scale of 1–5, how trustworthy does it feel? What about it makes you feel that way?  
+- How would the device (phone, tablet, computer) you receive the notification on impact your ability to read, trust, or act on it?
 
-**Wrap-up of Scenario 2**
+### Wrap-up of Scenario 2
 
-- If VA could use only one channel for this message, which would you choose and why?  
-- How would you feel about the VA sending you this type of message to all three channels? Why?
+- If VA could use only one channel (email, text, or in-app) for this message, which would you choose and why?  
+- If you got the same notification on your phone and by email, which would you look at first, and why?  
+- How would you feel about VA sending you this type of message to all three channels (email, text, in-app)? Why?
 
 ---
 
@@ -198,12 +203,28 @@ Action needed: We need more information to continue processing your claim.
 **Prompts:**
 
 - When you think about both messages together, what differences stand out to you?  
+- Did you notice any differences in language between channels? Did that affect how quickly you understood the message?  
 - Do these two messages feel like they each serve their purpose — decision letters to inform you and evidence requests to prompt action?  
 - How would you expect the tone or level of detail to differ between these two types of notifications?  
-- For decision letters, which channel or combination of channels feels most appropriate? Why?  
-- For evidence requests, which channel or combination feels most effective? Why?  
-- How could VA make sure both types of messages are clear and easy to understand for all Veterans?  
-- If you could customize how you receive each type of message, what would your ideal setup look like?
+
+**Text Message–Specific Reflection**
+
+- If you wanted to stop getting text messages from VA about your benefits, what would you do?  
+- What type of messages do you think this will stop?  
+- How would you expect to start receiving them again if you changed your mind later?  
+- How would you expect to be able to manage your VA notification preferences?  
+
+**Safety and Privacy Reflection**
+
+> “For some people, getting VA texts on a shared or visible device could create privacy risks.  
+> Is there any situation where you think receiving text messages like these might put someone at risk, or make them feel unsafe?”
+
+**Claim Status Notifications**
+
+> “Claim status notifications are messages that update you on the progress of your benefits claim, for example, letting you know your claim has moved to a new step. These notifications don’t require any action; they’re just meant to keep you informed.”
+
+- How interested are you in receiving regular claim status notifications like these?  
+- How often would you want/expect to receive them?
 
 ---
 
@@ -211,8 +232,8 @@ Action needed: We need more information to continue processing your claim.
 
 - Thank you for your time and valuable feedback.  
 - Is there anything we didn’t cover about how you receive messages from VA that you think is important?  
-- As a reminder: your participation is voluntary and your input helps us improve how VA communicates updates to Veterans.  
-- End session.
+- As a reminder: your participation is voluntary, and your input helps us improve how VA communicates updates to Veterans.  
+- **End session.**
 
 ---
 
@@ -222,8 +243,7 @@ Action needed: We need more information to continue processing your claim.
 - Signs of confusion, fatigue, or frustration.  
 - Accessibility issues or barriers observed/suggested.  
 - Any channel-preference or message-style patterns.  
-- Recommendations for refining future mock-ups or next-phase research.
-
+- Recommendations for refining future mock-ups or next-phase research.  
 
 
 # Emergency Exit 🚨
@@ -232,6 +252,4 @@ In the rare case of an emergency during a session, be prepared with an [emergenc
 
 ---
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
