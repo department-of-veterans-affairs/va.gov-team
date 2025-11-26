@@ -70,7 +70,7 @@ Note to reader:
 
 * Not all participants made it through the entire prototype. In the final research report, we will be counting the number of people who have certain opinions, but they will be caveated with a “out of X number of people who saw this screen.”
 
-##### ---- Overarching architecture -----------------
+```Overarching architecture```
 
 ### **Finding #1: Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.** 
 
@@ -136,7 +136,7 @@ Participants wanted more information as they mentally prepared to submit documen
 
 ##### 
 
-### **Finding \#4: 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.** 
+### **Finding #4: 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.** 
 
 This is the first page of the prototype where participants are asked to take their time and share their thoughts out loud. 2 out of 10 participants quickly read through the instructional content and then started giving feedback on the “Notice” content below it. The researcher guided the participants back to the top of the page to give feedback about the instructional content.
 
@@ -158,9 +158,10 @@ The intent of this section is to collect information about medical centers in wh
 
 **Recommendation:** The current content does not communicate expectations about what exactly will be happening on the following screens. We recommend that the content be reframed to specify that the Veteran will be providing information about the medical centers in which they were treated, so that the VA can get access to all of their treatment records. 
 
-##### Page 3: Decision page for mental health documents
+```Page 3: Decision page for mental health documents```
+<img align="left" width="200" src="images/MHEvidenceOrientation.png">
 
-### **Finding \#6: 6 out of 10 participants found the detailed list of document types helpful.**
+### **Finding #6: 6 out of 10 participants found the detailed list of document types helpful.**
 
 Most participants appreciated the list of examples. 4 out of 10 participants commented that the list made them consider submitting document types that they hadn’t thought to submit.
 
@@ -168,16 +169,19 @@ Most participants appreciated the list of examples. 4 out of 10 participants com
 * *“I could have provided some letters, but I didn’t know I could send this non-military related.” – P2*  
 * *“It’s giving me different ideas…on what would be considered supporting documentation. I think it’s good because it could be anything.” – P7*
 
-### Still, the participants wanted even more specific examples and guidelines around what the VA would accept as evidence.  
+Still, the participants wanted even more specific examples and guidelines around what the VA would accept as evidence.  
 
 * *“I have no idea what the non-military police records have to do with your health.” – P1*  
 * *“I mean, you could probably combine that bullet \[about police reports\]…reports from police headquarters, local precincts, or municipal stations, that's still a police report, whether it's from the headquarters, whether it's from the local, it's a police report.” – P5*
 
 **Recommendation**: We recommend continuing to provide this information, and include as much detail as possible about each document type. Finding \#3 also includes suggested details from participants. It will be helpful to do research with VSOs to understand how they describe requirements to Veterans. 
 
-##### Page 4: Upload page for mental health documents
+```Page 4: Upload page for mental health documents```
+<img align="left" width="200" src="images/MHUpload.png">
+<img align="left" width="200" src="images/MHUploadAddtlInfo.png">
+<img align="left" width="200" src="images/MHUploadAccordion.png">
 
-### **Finding \#7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
+### **Finding #7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
 
 Most participants found the instructions to be too prescriptive about what application to use. They suggested alternative ways that they would capture a document, including using their camera app.
 
@@ -193,7 +197,7 @@ They wanted some more instructional content to help them support their data inpu
 
 **Recommendation:** We recommend changing the content to be less specific about the applications that someone could use, and rather focus on the general process (take a photo, take a screenshot, or scan the document). Additionally, we recommend including guidance around the maximum number of uploaded files and revisiting the “Select a file to upload” and “Upload file” button copy; as currently written, it implies that you can only upload one file overall. It will be more helpful to suggest that multiple files can be uploaded in general, even if the upload component allows for only one file at a time to be uploaded. 
 
-### **Finding \#8: 4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.** 
+### **Finding #8: 4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.** 
 
 * *“\[Helpful to have this content repeated\], keeps you from having to jump back and forth.” – P4*  
 * *“Ok so it’s doubling down \[by showing the same content as the previous page\]. I wasn’t actually expecting that. I thought it might give me…like, a file, and a picture. I was envisioning a document.” – P2*
@@ -204,31 +208,34 @@ Additionally, 2 out of 8 participants wanted the information to be presented bef
 
 **Recommendation:** Although some participants were disappointed in duplicative content, we recommend keeping the content to support those who will use it as a reference when selecting the document type of their uploaded file. We also recommend placing the accordion above the ‘Upload file’ call to action, in case people need it as a reference as they upload files. 
 
-### **Finding \#9: 4 out of 5 participants successfully completed or predicted how to delete a document.**
+### **Finding #9: 4 out of 5 participants successfully completed or predicted how to delete a document.**
 
 (Reminder that not all participants made it through the entire prototype, so the numbers are adjusted to reflect that).
 
 * *“I’d click back, go to specific docs click on that doc, and you should be able to click delete, suggests stacking so she could delete all or just delete one.” – P5*  
 * *“If you wanted to delete, hit back button and delete \[does this without difficulty\].” – P4*
 
-##### Page 5: Summary page for mental health documents
+```Page 5: Summary page for mental health documents```
+<img align="left" width="200" src="images/MHEvidenceSummary.png">
 
-### **Finding \#10: 6 out of 8 participants expected a summary page to confirm which documents they uploaded.**  
+### **Finding #10: 6 out of 8 participants expected a summary page to confirm which documents they uploaded.**  
 
 * *“This is pretty much what I expected.” – P9*  
 * *“Alright, so summary of documents, you're telling me…what you have uploaded, which is good.*” – P7
 
-### One participant gave feedback about the lack of distinct hierarchy of information on the page.  
+One participant gave feedback about the lack of distinct hierarchy of information on the page.  
 
 * *“I wish this could look a little different. It blended so much together that it took me a minute to figure out what I was looking at.” –P2* 
 
 **Recommendation:** We recommend keeping the summary pages as a way for people to confirm their uploads. 
 
-##### Page 6: Decision page for other conditions and other documents
+```Page 6: Decision page for other conditions and other documents```
+<img align="left" width="200" src="images/OtherEvidenceOverview.png">
 
 Findings about this page can be found in the “Overarching Architecture” section at the beginning of the list of findings. 
 
-##### Page 7: Upload page for other documents
+```Page 7: Upload page for other documents```
+<img align="left" width="200" src="images/OtherUpload.png">
 
 ### **Finding #11: 3 out of 5 participants found it confusing that the two upload pages looked identical and didn’t know what to upload.** 
 
@@ -239,7 +246,7 @@ The participants didn’t realize that the second upload page was specifically f
 * *After the researcher explained the difference between the two upload pages: “It looks the same, but if it isn't,… maybe break down into one screen that says upload supporting documentation. And then it should say on the bottom in bold things, uh, upload other documents to support your disability if you have. And you could upload right there, so everything's on there. It feels like you're doing multiple steps for no reason.” – P7*  
 * *“I was hoping that the point of this was to make things easier. And it kept asking me the same thing over and over again, which was not… helpful, I guess. I was hoping that it would be better in the streamlined process.” –P10*
 
-##### Page 8: Summary page for other conditions
+```Page 8: Summary page for other conditions```
 
 2 out of 10 participants viewed this page. It tested favorably, with similar opinions found in finding #10: Most participants expected and appreciated a summary page as a way to confirm their uploaded documents.   
 
