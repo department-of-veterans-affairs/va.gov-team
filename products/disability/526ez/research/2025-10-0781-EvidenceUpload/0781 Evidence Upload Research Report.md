@@ -120,8 +120,10 @@ Throughout the sessions, most of the participants had accurate expectations arou
 
 **Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
 
----- Page 1: Introduction page to the supporting evidence section -----------------
+
+ ```Page 1: Introduction page to the supporting evidence section```
 <img align="left" width="200" src="images/EvidenceOrientation.png">
+
 ### **Finding #3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
 
 Participants wanted more information as they mentally prepared to submit documents for the section. Although they discovered more detailed information in the next screen, their requests for this information on the intro page suggests that the overview that we are providing is not enough. 8 out of 10 requested descriptions of the evidence, visuals of the evidence types, a list of file types, and how to get access to the evidence (similar to finding \#6).
@@ -140,7 +142,8 @@ This is the first page of the prototype where participants are asked to take the
 
 **Recommendation:** The “Notice of evidence” information itself is a legally required part of the process; Veterans need to be informed of the evidence they’ll need and told that they are being informed. Although we observed this skipping behavior in only a few participants, it’s important to consider that the other participants may not have skipped the instructional content because they were in a semi-moderated research session in which they were asked to give feedback on every piece of content. Knowing the natural inclination to skim content, we want to make sure to call attention to this behavioral pattern insight and not overlook it. Therefore, our recommendation is to reduce the visual emphasis on the notice as it takes away from the important information above it. 
 
-Page 2: Decision page for treatment records
+
+ ```Page 2: Decision page for treatment records ```
 
 <img width="200" src="images/Treatmentrecords.png">
 
