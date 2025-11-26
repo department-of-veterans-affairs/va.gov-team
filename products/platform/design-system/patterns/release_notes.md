@@ -14,6 +14,13 @@
 - International phone hint text
 - Date error messages
 ---
+|         | Before | After |
+| ------- | ------ | ----- |
+| Full Name  |<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/6c90fa6d-f655-47be-bcac-88adfff1b14c" />|<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/a761f474-99ce-47be-af58-6d7838c6c702" />|
+| Email |<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/7a19d767-5fee-4d48-8718-dae9b9128961" />|<img width="1111" height="1294" alt="image" src="https://github.com/user-attachments/assets/dc1adc2d-eb4d-4e4a-89f2-19f3a7760e62" />|
+| Int. Phone |<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/76d33340-3435-4df9-bf6c-0113a4805fa6" />|<img width="1111" height="1294" alt="image" src="https://github.com/user-attachments/assets/f062e564-6538-4cf5-9258-485129be20f9" />|
+| SSN |<img width="1056" height="1294" alt="image" src="https://github.com/user-attachments/assets/d8d71029-ea3b-449a-9965-fd0e0899d5b5" />|<img width="1111" height="1294" alt="image" src="https://github.com/user-attachments/assets/05cd2adb-3abb-4dca-9a73-9b7bba703066" />|
+
 
 ## What Changed
 
@@ -28,9 +35,7 @@ Improved clarity for name input fields to be more inclusive of international nam
 **Affected Components:**
 - `fullNameUI()`
 - All forms using the full name pattern
-|         | Before | After |
-| ------- | ------ | ----- |
-| Full Name  |<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/6c90fa6d-f655-47be-bcac-88adfff1b14c" />|<img width="1057" height="1294" alt="image" src="https://github.com/user-attachments/assets/a761f474-99ce-47be-af58-6d7838c6c702" />|
+
 
 ---
 
