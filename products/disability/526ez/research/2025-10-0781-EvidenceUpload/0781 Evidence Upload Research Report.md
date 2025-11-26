@@ -13,7 +13,9 @@ Jump to:
 * [Methodology](#methodology)  
 * [Hypotheses and conclusions](#hypotheses-and-conclusions)  
 * [Key findings](#key-findings)  
-* [Details of findings](#details-of-findings)  
+* [Details of findings](#details-of-findings)
+* [Additional insights](#additional-insights)
+* [What happened next](#what-happened-next) 
 * [Appendix](#appendix)
 
 ## Background
@@ -48,17 +50,17 @@ As part of this semi-structured approach, the researcher asked participants to c
 
 ## Key findings
 
-[Finding #1:](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience) Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.
-[Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.
-[Finding #3:](#finding-3-8-out-of-10-participants-wanted-more-information-up-front-about-the-evidence-they-could-submit-to-support-their-claim)8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.
-[Finding #4:](#finding-4-2-out-of-10-participants-were-drawn-to-the-notice-of-evidence-needed-alert-but-only-skimmed-the-instructional-content-above) 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
-[Finding #5:](#finding-5-6-out-of-10-participants-didnt-understand-they-would-be-asked-for-information-about-the-medical-centers-they-visited-they-had-inaccurate-expectations-for-what-would-happen-next)6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
-[Finding #6:](#finding-6-6-out-of-10-participants-found-the-detailed-list-of-document-types-helpful) 6 out of 10 participants found the detailed list of document types helpful.  
-[Finding #7] (#finding-7-5-out-of-8-participants-didnt-find-the-how-to-scan-a-file-instructions-helpful)5 out of 8 participants didn’t find the ‘How to scan a file’ instructions helpful.  
-[Finding #8](#finding-8-4-out-of-8-participants-appreciated-that-the-examples-of-supporting-documents-accordion-repeated-content-from-the-previous-page-others-felt-the-accordion-should-provide-more-information-about-supporting-documents)4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.  
-[Finding #9](#finding-9-4-out-of-5-participants-successfully-completed-or-predicted-how-to-delete-a-document) 4 out of 5 participants successfully completed or predicted how to delete a document.  
-[Finding #10](#finding-10-6-out-of-8-participants-expected-a-summary-page-to-confirm-which-documents-they-uploaded) 6 out of 8 participants expected a summary page to confirm which documents they uploaded.    
-[Finding #11](#finding-11-3-out-of-5-participants-found-it-confusing-that-the-two-upload-pages-looked-identical-and-didnt-know-what-to-upload) 3 out of 5 participants found it confusing that the two upload pages looked identical and therefore they didn’t know what to upload. 
+* [Finding #1:](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience) Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.
+* [Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.
+* [Finding #3:](#finding-3-8-out-of-10-participants-wanted-more-information-up-front-about-the-evidence-they-could-submit-to-support-their-claim) 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.
+* [Finding #4:](#finding-4-2-out-of-10-participants-were-drawn-to-the-notice-of-evidence-needed-alert-but-only-skimmed-the-instructional-content-above) 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
+* [Finding #5:](#finding-5-6-out-of-10-participants-didnt-understand-they-would-be-asked-for-information-about-the-medical-centers-they-visited-they-had-inaccurate-expectations-for-what-would-happen-next) 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
+* [Finding #6:](#finding-6-6-out-of-10-participants-found-the-detailed-list-of-document-types-helpful) 6 out of 10 participants found the detailed list of document types helpful.  
+* [Finding #7:](#finding-7-5-out-of-8-participants-didnt-find-the-how-to-scan-a-file-instructions-helpful) 5 out of 8 participants didn’t find the ‘How to scan a file’ instructions helpful.  
+* [Finding #8:](#finding-8-4-out-of-8-participants-appreciated-that-the-examples-of-supporting-documents-accordion-repeated-content-from-the-previous-page-others-felt-the-accordion-should-provide-more-information-about-supporting-documents) 4 out of 8 participants appreciated that the “Examples of supporting documents” accordion repeated content from the previous page. Others felt the accordion should provide more information about supporting documents.  
+* [Finding #9:](#finding-9-4-out-of-5-participants-successfully-completed-or-predicted-how-to-delete-a-document) 4 out of 5 participants successfully completed or predicted how to delete a document.  
+* [Finding #10:](#finding-10-6-out-of-8-participants-expected-a-summary-page-to-confirm-which-documents-they-uploaded) 6 out of 8 participants expected a summary page to confirm which documents they uploaded.    
+* [Finding #11:](#finding-11-3-out-of-5-participants-found-it-confusing-that-the-two-upload-pages-looked-identical-and-didnt-know-what-to-upload) 3 out of 5 participants found it confusing that the two upload pages looked identical and therefore they didn’t know what to upload. 
 
 ## 
 
@@ -68,7 +70,7 @@ Note to reader:
 
 * Not all participants made it through the entire prototype. In the final research report, we will be counting the number of people who have certain opinions, but they will be caveated with a “out of X number of people who saw this screen.”
 
-##### Overarching architecture
+##### ---- Overarching architecture -----------------
 
 ### **Finding \#1: Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.** 
 
@@ -118,7 +120,7 @@ Throughout the sessions, most of the participants had accurate expectations arou
 
 **Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
 
-##### Page 1: Introduction page to the supporting evidence section
+##### ---- Page 1: Introduction page to the supporting evidence section -----------------
 
 ### **Finding \#3: 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.**
 
@@ -140,9 +142,9 @@ This is the first page of the prototype where participants are asked to take the
 
 ##### Page 2: Decision page for treatment records
 
-### **Finding \#5: 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.**
+### **Finding #5: 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.**
 
-### The intent of this section is to collect information about medical centers in which the Veteran received treatment so the VA can request treatment records on their behalf. 6 out of 10 participants believed that selecting “yes” would lead to a workflow that would involve them uploading or submitting treatment records or adding information about behavior changes. 
+The intent of this section is to collect information about medical centers in which the Veteran received treatment so the VA can request treatment records on their behalf. 6 out of 10 participants believed that selecting “yes” would lead to a workflow that would involve them uploading or submitting treatment records or adding information about behavior changes. 
 
 * *“If \[you select\] yes, you’re submitting your claim records, if \[you select\] no, you’re not submitting anything.” – P3*  
 * *“Nowhere here links me to where I can go get that information.” – P9*  
@@ -154,7 +156,7 @@ This is the first page of the prototype where participants are asked to take the
 
 ### **Finding \#6: 6 out of 10 participants found the detailed list of document types helpful.**
 
-### Most participants appreciated the list of examples. 4 out of 10 participants commented that the list made them consider submitting document types that they hadn’t thought to submit.
+Most participants appreciated the list of examples. 4 out of 10 participants commented that the list made them consider submitting document types that they hadn’t thought to submit.
 
 * *“List is very useful, it gives you examples for each section.” – P4*  
 * *“I could have provided some letters, but I didn’t know I could send this non-military related.” – P2*  
@@ -171,7 +173,7 @@ This is the first page of the prototype where participants are asked to take the
 
 ### **Finding \#7: 5 out of 8 participants didn’t find the “How to scan a file” instructions helpful.**
 
-### Most participants found the instructions to be too prescriptive about what application to use. They suggested alternative ways that they would capture a document, including using their camera app.
+Most participants found the instructions to be too prescriptive about what application to use. They suggested alternative ways that they would capture a document, including using their camera app.
 
 * *“I’m not aware of the method you’re talking about here. And honestly, it doesn’t make sense to me.” – P2*  
 * *“Almost nobody is going to scan. This is an older process.” – P8*  
@@ -190,7 +192,7 @@ They wanted some more instructional content to help them support their data inpu
 * *“\[Helpful to have this content repeated\], keeps you from having to jump back and forth.” – P4*  
 * *“Ok so it’s doubling down \[by showing the same content as the previous page\]. I wasn’t actually expecting that. I thought it might give me…like, a file, and a picture. I was envisioning a document.” – P2*
 
-### Additionally, 2 out of 8 participants wanted the information to be presented before the ’Upload file’ call to action so they could use the information as a reference before uploading.
+Additionally, 2 out of 8 participants wanted the information to be presented before the ’Upload file’ call to action so they could use the information as a reference before uploading.
 
 * *“I don’t look at samples after I do the upload.” – P1*
 
@@ -222,7 +224,7 @@ Findings about this page can be found in the “Overarching Architecture” sect
 
 ##### Page 7: Upload page for other documents
 
-### **Finding \#11: 3 out of 5 participants found it confusing that the two upload pages looked identical and didn’t know what to upload.** 
+### **Finding #11: 3 out of 5 participants found it confusing that the two upload pages looked identical and didn’t know what to upload.** 
 
 The participants didn’t realize that the second upload page was specifically for other conditions and documents. The visual repetition made the page feel redundant, even if it was asking for different documents.
 
@@ -233,7 +235,8 @@ The participants didn’t realize that the second upload page was specifically f
 
 ##### Page 8: Summary page for other conditions
 
-2 out of 10 participants viewed this page. It tested favorably, with similar opinions found in finding \#10: Most participants expected and appreciated a summary page as a way to confirm their uploaded documents.    
+2 out of 10 participants viewed this page. It tested favorably, with similar opinions found in finding #10: Most participants expected and appreciated a summary page as a way to confirm their uploaded documents.   
+
 ---
 
 ## **Additional insights**
