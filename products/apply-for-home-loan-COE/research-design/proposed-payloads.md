@@ -40,7 +40,7 @@ contactInformation: {
   ⭐️ ssnLast4: '1234', // prefilled
   homePhone: {
     number: '123456789' // US numbers only, (so no country code?)
-    ⭐️ ext: '123456', // 6 digits max. Added just because it's part of the phone pattern?
+    ⭐️ ext: '123456', // 6 digits max. Added just because it's part of the phone pattern
   },
   emailAddress: 'fake@email.com',
   mailingAddress: {
@@ -74,12 +74,12 @@ identity: 'VETERAN', // ADSM, NADNA, DNANA, DRNA
 
 Suggested:
 ```
-service: {
-	⭐️ status: 'ACTIVE_DUTY', // ACTIVE_DUTY, VETERAN, NATIONAL_GUARD_OR_RESERVES, DISCHARGED_NATIONAL_GUARD DISCHARGED_RESERVES. This is on the new form but is true/false. The values are used for conditional logic. Replaces the "identity" field?
+militaryHistory: {
+	⭐️ status: 'ACTIVE_DUTY', // ACTIVE_DUTY, VETERAN, NATIONAL_GUARD_OR_RESERVES, DISCHARGED_NATIONAL_GUARD DISCHARGED_RESERVES. This is on the new paper form but is true/false. The values are used for conditional logic. Replaces the "identity" field?
 	⭐️ activation: 'true', // only used for conditional logic
-	⭐️ separatedDueToDisability: 'true', // This is on the new form
-	⭐️ preDischargeClaim: 'true', // This is on the new form
-	⭐️ purpleHeartRecipient: 'true', // This is on the new form
+	⭐️ separatedDueToDisability: 'true', // This is on the new paper form
+	⭐️ preDischargeClaim: 'true', // This is on the new paper form
+	⭐️ purpleHeartRecipient: 'true', // This is on the new paper form
 	periodsOfService: [ // Question: do we need differentiate current service period from past, or can we just have them all here?
     {
       serviceBranch: 'Air Force',
@@ -114,11 +114,11 @@ relevantPriorLoans: [
 Suggested:
 ```
  loanHistory: {
-	⭐️ certificateUse: 'ENTITLEMENT_INQUIRY_ONLY', // HOME_PURCHASE, CASH_OUT_REFINANCE, INTEREST_RATE_REDUCTION_REFINANCE. This is on the new form
-	⭐️ hadPriorLoans: 'true', // This is on the new form
-	⭐️ currentOnwership: 'true', // This is on the new form
-	⭐️ currentAddressWasVAHomeLoan: 'true', // This is on the new form
-	⭐️ entitlementRestoration: 'ENTITLEMENT_INQUIRY_ONLY', // CASH_OUT_REFINANCE, INTEREST_RATE_REDUCTION_REFINANCE, ONE_TIME_RESTORATION. This is on the new form. It appears once for each previous VA loan. Should it be a part of that data object, or separate, as I have it here?
+	⭐️ certificateUse: 'ENTITLEMENT_INQUIRY_ONLY', // HOME_PURCHASE, CASH_OUT_REFINANCE, INTEREST_RATE_REDUCTION_REFINANCE. This is on the new paper form
+	⭐️ hadPriorLoans: 'true', // This is on the new paper form
+	⭐️ currentOnwership: 'true', // This is on the new paper form
+	⭐️ currentAddressWasVAHomeLoan: 'true', // This is on the new paper form
+	⭐️ entitlementRestoration: 'ENTITLEMENT_INQUIRY_ONLY', // CASH_OUT_REFINANCE, INTEREST_RATE_REDUCTION_REFINANCE, ONE_TIME_RESTORATION. This is on the new paper form. It appears once for each previous VA loan. Should it be a part of that data object, or separate, as I have it here?
 	relevantPriorLoans: [
 	  {
 	    dateRange: {
@@ -126,20 +126,20 @@ Suggested:
 	      to: '2002-01-XX'
 	    },
 	    propertyAddress: {
-	      country: 'USA',
-			  street1: '123 East St.',
-			  ⭐️ street2: '', // Added just because it's part of the address pattern
-			  ⭐️ street3: '', // ditto
-			  city: 'Smallville',
-			  state: 'KS',
-			  ⭐️ postalCode: '66001' // Added just because it's part of the address pattern
+		  country: 'USA',
+		  street1: '123 East St.',
+		  ⭐️ street2: '', // Added just because it's part of the address pattern
+		  ⭐️ street3: '', // ditto
+		  city: 'Smallville',
+		  state: 'KS',
+		  ⭐️ postalCode: '66001' // Added just because it's part of the address pattern
 	    }
-	    ⭐️ vaLoanNumber: '' // 12-digits. This is on the new form
+	    ⭐️ vaLoanNumber: '' // 12-digits. This is on the new paper form
 	    ⭐️ naturalDisaster: {
-				affected: 'true', // This is on the new form
-				dateOfLoss: '2002-01-XX' // This is on the new form
-				// Also on the paper form but not in our designs: remarks
-			}
+			affected: 'true', // This is on the new paper form
+			dateOfLoss: '2002-01-XX' // This is on the new paper form
+			// Also on the paper form but not in our designs: remarks
+		}
 	  }
 	],
 }
