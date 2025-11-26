@@ -167,17 +167,7 @@ Have you ever applied for or received a Veterans Pension benefit? (This is diffe
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `07/16, Wednesday, 12:00 PM-05:00 PM EST`
-- `07/17, Thursday, 10:00 AM-03:00 PM EST`
-- `07/18, Friday, 10:00 AM-05:00 PM EST`
-- `07/22, Tuesday, 10:00 AM-05:00 PM EST`
-- `07/23, Wednesday, 12:00 PM-05:00 PM EST`
-- `07/24, Thursday, 10:00 AM-03:00 PM EST`
-- `07/25, Friday, 10:00 AM-05:00 PM EST`
-- `07/29, Tuesday, 10:00 AM-05:00 PM EST`
-- `07/30, Wednesday, 12:00 PM-05:00 PM EST`
-- `07/31, Thursday, 10:00 AM-03:00 PM EST`
-- `08/01, Friday, 10:00 AM-05:00 PM EST`
+TBD
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
