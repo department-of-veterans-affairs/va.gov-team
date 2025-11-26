@@ -140,7 +140,10 @@ This is the first page of the prototype where participants are asked to take the
 
 **Recommendation:** The “Notice of evidence” information itself is a legally required part of the process; Veterans need to be informed of the evidence they’ll need and told that they are being informed. Although we observed this skipping behavior in only a few participants, it’s important to consider that the other participants may not have skipped the instructional content because they were in a semi-moderated research session in which they were asked to give feedback on every piece of content. Knowing the natural inclination to skim content, we want to make sure to call attention to this behavioral pattern insight and not overlook it. Therefore, our recommendation is to reduce the visual emphasis on the notice as it takes away from the important information above it. 
 
-##### Page 2: Decision page for treatment records
+Page 2: Decision page for treatment records
+
+<img width="200" src="images/Treatmentrecords.png">
+
 
 ### **Finding #5: 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.**
 
