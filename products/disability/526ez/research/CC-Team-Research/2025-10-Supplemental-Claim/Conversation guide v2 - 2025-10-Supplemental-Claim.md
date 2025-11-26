@@ -326,7 +326,6 @@ When you get to this screen, you’ve already logged in and started your benefit
 
 ##### Add a condition screen
 
-* What are you noticing about this screen?
 * What are you noticing about this screen?  
 * Do you see anything different about this screen from the previous prototype?  
   * What do you think of that?  
