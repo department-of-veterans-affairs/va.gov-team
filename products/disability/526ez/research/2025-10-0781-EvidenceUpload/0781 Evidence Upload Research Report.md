@@ -414,19 +414,35 @@ Disability and Assistive Technology (AT):
 * Gay, lesbian, or bisexual: Unknown  
 * Assistive technology users
 
-*Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):*
-
-1. Duplicate the *Template* worksheet  
-2. Enter your participant information (see the *Template Instructions* worksheet for details)  
-3. Make a screenshot of the cells that you want to share and paste it into this report below  
-4. Generate an accessible version of those cells using Github Copilot Chat:  
-   * Start a new Github Copilot chat  
-   * Enter: "I want to convert these spreadsheet cells into a table in markdown:"  
-   * Copy and paste the cells from the recruitment checker spreadsheet that you've filled in  
-   * Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below  
-   * (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
-
-\!\[Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image\](link \- add image to github folder and link here with .png)
+<table><tr><td><img align="left" width="400" src="images/ParticipantTable.png"></td></tr></table>
 
 #### **A more accessible version of the table in the above image**
+
+| Characteristic | Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| All participants | Total | n/a | n/a | 12 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Assistive Tech (AT) users | Total | n/a | n/a | 0 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| No-show participants | Total | n/a | n/a | 2 | n/a | n/a | n/a | n/a | n/a | n/a | 1 | n/a | n/a | n/a | n/a | n/a | 1 |
+| Age 55-64+ | General | 50% | 6 | 7 | yes | 1 | 0 | 0 | 1 | 0 | N | 0 | 1 | 1 | 0 | 1 | N |
+| Cognitive Disability | General | 50% | 6 | 6 | yes | 1 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 1 | 0 | 1 | N |
+| Mobile user | General | 50% | 6 | 6 | yes | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
+| Rural | General | 25% | 3 | 5 | yes | 1 | 0 | 1 | 1 | 0 | N | 0 | 0 | 1 | 0 | 1 | N |
+| No degree | General | 25% | 3 | 4 | yes | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 |
+| Other than honorable | General | n/a | #VALUE! | 0 | #VALUE! | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Immigrant origin | General | n/a | #VALUE! | 0 | #VALUE! | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Women | General | 10% | 2 | 4 | yes | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | N |
+| Expat (living abroad) | General | n/a | #VALUE! | 0 | #VALUE! | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Black or African American | Race | 15% | 2 | 2 | yes | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hispanic, Latino, or Spanish origin | Race | 12% | 2 | 1 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Biracial | Race | 3.9% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | Race | 2.7% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native Hawaiian or other Pacific Islander | Race | .3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | Race | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | Race | 1.6% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | N | 0 | 0 | 0 | 0 | 0 | 0 |
+| Gay, lesbian, or bisexual | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Transgender | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | LGBTQ+ | n/a | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Beginner AT User | AT | 50% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Experienced AT User | AT | 50% | 0 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
 
