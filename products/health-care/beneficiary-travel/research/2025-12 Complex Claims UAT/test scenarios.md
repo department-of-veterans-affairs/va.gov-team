@@ -1,7 +1,7 @@
 # Complex Claims Test Plan
 
 Last Updated: 2024-11-21
-Author: Liza McRuer
+Author: Liza McRuer and Kristen Faiferlick
 Status: Draft
 
 ## Introduction & Overview
