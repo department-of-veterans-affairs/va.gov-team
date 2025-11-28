@@ -7,7 +7,7 @@
 
 ## Overview
 
-Intent to File (ITF), enables claimants (Veterans and dependents) to officially express their intention to apply for VA benefits and establish a potential start date for their benefit payments, maximizing their opportunity for back pay. After submitting the ITF, claimants typically have up to one year to gather evidence and submit a complete application for benefits.\
+Intent to File (ITF), VA Form 21-0966, enables claimants (Veterans and dependents) to officially express their intention to apply for VA benefits and establish a potential start date for their benefit payments, maximizing their opportunity for back pay. After submitting the ITF, claimants typically have up to one year to gather evidence and submit a complete application for benefits.\
 \
 Claimants can submit an ITF themselves online, by mail, or in person at a VA regional office. And submitting ITF on behalf of claimants is a common next step for accredited representatives, after establishing POA.\
 \
