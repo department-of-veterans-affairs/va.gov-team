@@ -97,6 +97,8 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 - If no: Can you share more about why you have not filed before? _Note: This may note be necessary if our criteria is people who have filed/have appointments that are eligible_
 2. _TBD on if we need an additional warm up question_
 
+# Complex claims main task flow
+
 ## Sub Task: [Login to VA.gov] - 5 minutes
 
 - [ ] Moderator: Now we're going to login to VA.gov. Once you're logged in, we're going to navigate to your past appointments. _Note: We may want to have all the steps to get to past appointments ready to coach someone_
@@ -117,7 +119,7 @@ Moderator: Now I'm going to ask you to share your screen on Zoom so that we can 
 > - Does the participant notice and click the action link to create the claim?
 > - Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed
 
-## Second Task: [Select expenses round one] - 3-5 minutes
+## Second Task: [Select expenses: Round one] - 3-5 minutes
 Moderator: Tell me a little bit about what you're seeing on this page. What do you expect to do here?
 - [ ] Step 1 - Select an expense
 - [ ] Step 2 - Hit 'Continue'
@@ -128,10 +130,10 @@ Moderator: Tell me a little bit about what you're seeing on this page. What do y
 > - Does the participant try to select multiple expenses at one time?
 
 
-## Third Task: [IF participant selects 'mileage' - Milage questions] - 2 minutes
+## Third Task: [IF participant selects 'mileage' - Milage questions] - 2 - 4 minutes
 Moderator: Tell me a little bit about what you're seeing on this page. 
 - [ ] Step 1 - Answer mileage questions
-- [ ] Substep - User clicks additional info to learn more about mileage. If user notices link, ask them what the expect the link to do, but keep them in the flow.
+- [ ] Substep - User clicks additional info to learn more about mileage. If user notices link in the expanded, ask them what the expect the link to do, but keep them in the flow.
 - [ ] Step 2 - Hit 'Continue'
 
 > [!NOTE]
@@ -139,26 +141,72 @@ Moderator: Tell me a little bit about what you're seeing on this page.
 > - If the participant answers the questions and is re-directed to BTSSS, _Note: What is our plan to gather info for UAT if they user leaves they system?_
 > - Does the participant have any questions about how mileage is calculated?
 
-## Fourth Task: [Adding more expenses from the unsubmitted expense page] - 2 minutes
-Moderator: Tell me a little bit about what you're seeing on this page. 
-- [ ] Step 1 - User reviews accordion.
-- [ ] Step 2 - User hits 'Add more expenses'
+## Fourth Task: [Actions from the unsubmitted expense page] - 2 - 4 minutes
+Th user should be on the unsubmitted expenses page after adding mileage/or their first expense.
+Moderator: Tell me a little bit about what you're seeing on this page.
+- [ ] Step 1 - User reviews accordion with the added expense.
+- [ ] Step 2 - User hits 'Add more expenses' OR User hits 'sign agreement' if they have no additional expenses
 
 > ### Things to watch for:
 > - Does the participant see their expense was added successfully?
 > - Are they able to easily add more expenses?
 > - Do they understand that nothing is submitted yet?
 
-## Fifth Task: [User continues to add expenses and uploads a receipt] - 4 minutes
-The user should be back on the unsubmitted expenses page for a second time, if they started with mileage.
+## Fifth Task: [Select expenses: Round 2 - User continues to add expenses and uploads a receipt] - 4 minutes
+If the user chose to "Add more expenses," they should be back on the unsubmitted expenses page for a second time, if they started with mileage.
 Moderator: _Prompt user as needed to continue to speak out loud_
-- [ ] Step 1 - User selects another expenses
-- [ ] Step 2 - User hits continue
+- [ ] Step 1 - User selects another expense from the list
+- [ ] Step 2 - User hits 'Continue'
+
+### Expense page
+The user should now be on an expense page, corresponding with their selection.
+Moderator: Tell me about this page. What do you expect to do here? 
+- [ ] Step 1 - User uploads a receipt
+- [ ] Step 2 - User inputs the metadata
+- [ ] Step 3 - User hits 'Continue'
+
+### Unsubmitted expenses page
+The user should not be on the unsubmitted expenses page.
+- [ ] Step 1 - User hits 'Add more expenses' or 'Sign agreemnent.'
+
 
 > ### Things to watch for:
-> - Does the user 
-> - Are they able to easily add more expenses?
-> - Do they understand that nothing is submitted yet?
+> - How do they choose to upload a file? Do they drag and drop or do they upload from their computer?
+> - How do they organize their receipts? Do they mention having some on paper?
+> - Do they mention needing to pause to find more receipts?
+> - Do they understand the metadata and hint text?
+> - When they return to the unsubmitted expenses page, do they notice the successful addition of the new expense?
+
+# Complex claims additional usability tasks
+These are additional actions we would like to see, that may deviate slightly from the happy path.
+
+## Additional Task A: User edits an expense
+Depending on the scenario the moderator can prompt: Let's say you need to edit one of your expenses. What would you do if you realized you had added an expense you would like to edit?
+User should be on the unsubmitted expenses page.
+**User edits a file**
+- [ ] Step 1 - User locates the erroneous expense in the expense accordion.
+- [ ] Step 2 - User selects 'Edit'
+- [ ] Step 3 - User is taken to the corresponding expense pate. The previously input data should be on this page.
+- [ ] Step 4 - User edits the file, by deleting the file and selecting a new one, or just by selecting "Change file."
+- [ ] Step 5 - User adds a new file
+- [ ] Step 6 - User hits 'Continue'
+
+**User edits a metadata**
+Note: Editing file and metadata may occur together, but also can be done individually, i.e. the user had the correct metadata and only needs to change the file OR they have the correct file, but need to edit the data.
+- [ ] Step 1 - User locates the erroneous expense in the expense accordion.
+- [ ] Step 2 - User selects 'Edit'
+- [ ] Step 3 - User is taken to the corresponding expense pate. The previously input data should be on this page.
+- [ ] Step 4 - User edits the metadata
+- [ ] Step 6 - User hits 'Continue'
+
+## Additional Task B: User deletes an expense
+Depending on the scenario the moderator can prompt: Let's say you need to edit one of your expenses. What would you do if you realized you had added an expense you would like to edit?
+User should be on the unsubmitted expenses page.
+- [ ] Step 1 - User locates the erroneous expense in the expense accordion.
+- [ ] Step 2 - User hits delete and the file is deleted.
+
+## Additional Task C: User leaves and re-enters the flow
+
 
 # Post-Task Interview - X minutes
 
