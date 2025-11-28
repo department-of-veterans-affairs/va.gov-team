@@ -130,14 +130,35 @@ Moderator: Tell me a little bit about what you're seeing on this page. What do y
 
 ## Third Task: [IF participant selects 'mileage' - Milage questions] - 2 minutes
 Moderator: Tell me a little bit about what you're seeing on this page. 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Step 1 - Answer mileage questions
+- [ ] Substep - User clicks additional info to learn more about mileage. If user notices link, ask them what the expect the link to do, but keep them in the flow.
+- [ ] Step 2 - Hit 'Continue'
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - If the participant answers the questions and is re-directed to BTSSS, _Note: What is our plan to gather info for UAT if they user leaves they system?_
+> - Does the participant have any questions about how mileage is calculated?
+
+## Fourth Task: [Adding more expenses from the unsubmitted expense page] - 2 minutes
+Moderator: Tell me a little bit about what you're seeing on this page. 
+- [ ] Step 1 - User reviews accordion.
+- [ ] Step 2 - User hits 'Add more expenses'
+
+> ### Things to watch for:
+> - Does the participant see their expense was added successfully?
+> - Are they able to easily add more expenses?
+> - Do they understand that nothing is submitted yet?
+
+## Fifth Task: [User continues to add expenses and uploads a receipt] - 4 minutes
+The user should be back on the unsubmitted expenses page for a second time, if they started with mileage.
+Moderator: _Prompt user as needed to continue to speak out loud_
+- [ ] Step 1 - User selects another expenses
+- [ ] Step 2 - User hits continue
+
+> ### Things to watch for:
+> - Does the user 
+> - Are they able to easily add more expenses?
+> - Do they understand that nothing is submitted yet?
 
 # Post-Task Interview - X minutes
 
