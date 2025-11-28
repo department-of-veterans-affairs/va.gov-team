@@ -1,12 +1,12 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for [Travel Pay, Complex Claims UAT, December 2025 / January 2026]"
+author: "[Liza McRuer, Kristin Faiferlick]"
+date_created: "[2025-11-28]"
+last_modified: "[2025-11-28]"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "[UAT]"
+  - "[Conversation guide]"
+description: "A conversation guide for complex claims user acceptance testing."
 ---
 # Conversation Guide for Complex Claims UAT
 
@@ -16,7 +16,7 @@ description: "A template for moderating research sessions including logistics, i
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
-`List and complete any project-specific setup tasks for this study below:`
+`List and complete any project-specific setup tasks for this study below:` _NOTE: TBD_
 
 - [ ] Step 1
 - [ ] Step 2
@@ -44,10 +44,9 @@ I also have a couple other colleagues in the Zoom waiting room who would like to
 
 Today we're going to talk about filing a travel claim. This is a new product on VA.gov and we are doing early testing to make sure that Veterans can use it to file travel claims. 
 
-
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45-60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
@@ -59,9 +58,9 @@ Before we start, I have a few things that I want to go over with you:
      
 > [!TIP]
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
      
--  **Today we'll be starting a claim for travel pay.** We'll walk through some of the steps to submit, but you do not have to fully submit your claim if you're not ready. Once we start the process, we'll ask you to share your screen. <mark>**This is a live test, so if you file, it will be submitted for review by a travel clerk.**</mark>
+-  **Today we'll be starting a claim for travel pay.** We'll walk through some of the steps to submit, but you do not have to fully submit your claim if you're not ready. Once we start the process, we'll ask you to share your screen. <mark>**This is a live test, so if you file and you have set up direct deposit for travel pay, it will be submitted for review by a travel clerk.**</mark>
   
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
@@ -95,7 +94,7 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 1. Have you ever filed for travel pay on VA.gov before?
 - If yes: Tell me more about your experience.
 - If no: Can you share more about why you have not filed before? _Note: This may note be necessary if our criteria is people who have filed/have appointments that are eligible_
-2. _TBD on if we need an additional warm up question_
+2. Do you have direct deposit set up? _Note: maybe we won't need this if our criteria ensures it's only for people who have filed in the past_
 
 # Complex claims main task flow
 
@@ -138,7 +137,7 @@ Moderator: Tell me a little bit about what you're seeing on this page.
 
 > [!NOTE]
 > ### Things to watch for:
-> - If the participant answers the questions and is re-directed to BTSSS, _Note: What is our plan to gather info for UAT if they user leaves they system?_
+> - If the participant answers the questions and is re-directed to BTSSS, _Note: What is our plan to gather info for UAT if the user leaves they system at this point?_
 > - Does the participant have any questions about how mileage is calculated?
 
 ## Fourth Task: [Actions from the unsubmitted expense page] - 2 - 4 minutes
@@ -147,6 +146,7 @@ Moderator: Tell me a little bit about what you're seeing on this page.
 - [ ] Step 1 - User reviews accordion with the added expense.
 - [ ] Step 2 - User hits 'Add more expenses' OR User hits 'sign agreement' if they have no additional expenses
 
+> [!NOTE]
 > ### Things to watch for:
 > - Does the participant see their expense was added successfully?
 > - Are they able to easily add more expenses?
@@ -166,9 +166,10 @@ Moderator: Tell me about this page. What do you expect to do here?
 - [ ] Step 3 - User hits 'Continue'
 
 ### Unsubmitted expenses page
-The user should not be on the unsubmitted expenses page.
+The user should now be on the unsubmitted expenses page.
 - [ ] Step 1 - User hits 'Add more expenses' or 'Sign agreemnent.'
 
+> [!NOTE]
 > ### Things to watch for:
 > - How do they choose to upload a file? Do they drag and drop or do they upload from their computer?
 > - How do they organize their receipts? Do they mention having some on paper?
@@ -183,6 +184,7 @@ Depending on the scenario, the moderator can prompt: Are you ready to submit you
 - [ ] Step 3 - User hits 'Submit'
 - [ ] Step 4 - User receives confirmation
 
+> [!NOTE]
 > ### Things to watch for:
 > - Does the user understand they need to hit 'Sign Agreement' in order to submit?
 > - What does the user do on the confirmation page? What action do they take next?
@@ -209,6 +211,7 @@ Note: Editing file and metadata may occur together, but also can be done individ
 - [ ] Step 4 - User edits the metadata
 - [ ] Step 6 - User hits 'Continue'
 
+> [!NOTE]
 > ### Things to watch for:
 > - Does the user understand they've been redirected to a page they previously filled out in order to edit?
 > - Are they able to succesfully edit files and/or information?
@@ -226,15 +229,16 @@ Depending on the scenario the moderator can prompt: Let's say you need to pause 
 - [ ] Step 2 - User re-enteres the flow. The user should return to the unsubmitted expenses page.
 - [ ] Step 3 - User hits 'Add more expenses' OR User hits 'sign agreement' if they have no additional expenses
 
+> [!NOTE]
 > ### Things to watch for:
 > - How does the user exit the flow? Do they close the tab or window? Do they navigate somewhere else within VA.gov?
 > - Can the user re-enter the flow? How do they get there?
 > - Does the user re-enter the flow from claims details or past appointment details?
 
-# Post-Task Interview - X minutes
+# Post-Task Interview - 3 minutes
 
-- Question 1
-- Question 2
+- On a scale of 1-5, 1 being 'extremely difficult' and 5 being 'extremely easy,' how would you rate the process to file a travel claim?
+- On a scale of 1-5, 1 being 'extremely unlikely' and 5 being 'extremely likely,' how likely would you be to use this system to file for travel pay in the future?
 - Any questions for me? 
 
 ## Consent to use video clips
