@@ -11,7 +11,7 @@ The goal of the Beneficiary Travel Pay team is to empower users to do more with 
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**This is a new product**
+**This is a new product that replaces functionality from a portal outside of VA.gov**
 
 `Product Brief`
 
@@ -46,9 +46,9 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the clarifications, start a claim, and add expenses to their claim.
+1. Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the limitations, start a claim, add expenses to their claim, and file a claim.
 
-2. Test that the content, including error messages and redirects, properly instructs Veterans on how to file their claim.
+2. Test that the content, including error messages and redirects, appear properly and are clear to users.
 
 3. Validate that users can leave, and re-enter, a claim in progress.
   
@@ -64,7 +64,7 @@ The learnings from this study will be used to determine critical fixes prior to 
 
 2. Are participants able to add mileage, as well as additional expenses with documentation, to their claim?
 
-3. Can the participant successfully edit or delete an expense?
+3. Can the participant successfully edit and delete an expense?
 
 4. How does the participant navigate within the tool? 
 
@@ -72,7 +72,7 @@ The learnings from this study will be used to determine critical fixes prior to 
 
 ### Hypotheses
 
-We hypothesize that a beneficiary will be able to complete a claim on Va.gov from start to finish. Beneficiaries may be confused by some of the nuances of complex claims, but our content and direction will allow them to successfully add expenses, leave a claim, re-enter, and submit a claim on VA.gov.
+We hypothesize that a beneficiary will be able to complete a claim on Va.gov from start to finish. Beneficiaries may be confused by some of the nuances of complex claims, but our content and direction will allow them to successfully add expenses, edit expenses, leave a claim, re-enter, and submit a claim on VA.gov.
 
 ---
   
@@ -90,15 +90,15 @@ User acceptance testing (UAT):
 
 - [Test scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/test%20scenarios.md)
 - Test URL TBD
-- NOTE: We need to determine if we are testing in prod or staging; if in prod, there is a increased risk of PII exposure as users will use their own information
+- NOTE: We are testing in prod.
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here) - TBD
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md)
 - [Link to prototype](url goes here)
 
 
 **If recruiting outside of Perigean’s participant database:**
-- TBD; likely recruitig internally or via Perigean
+- Perigean.
 
   
 ---- TBD ON RECRUITMENT AND TIMING
@@ -131,11 +131,11 @@ User acceptance testing (UAT):
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **[9]**
+- `Caregivers:` **[0]**
+- `Dependents:` **[0]**
+- `Total:` **[9]**
+- `Ideal completed sessions:` **[6]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
@@ -206,12 +206,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Moderator:` **Kristen Faiferlick and Liza McRuer**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Kristen Faiferlick and Liza McRuer**		
+- `Participant recruiting & screening:`	**Kristen Faiferlick and Liza McRuer**	
+- `Project point of contact:` **Kristen Faiferlick and Liza McRuer**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **Kristen Faiferlick and Liza McRuer**	
+- `Note-takers:` **Kristen Faiferlick and Liza McRuer** 
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 - **[Enter full name]**
