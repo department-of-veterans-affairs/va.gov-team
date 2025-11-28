@@ -47,6 +47,7 @@ MVP excludes multiparty signatures; focus is on digitization, improved landing c
 
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+* There are 80,000 paper forms filled out annually, no breakdown avaialble if they are mailed, or uploaded via quick submit. 
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
