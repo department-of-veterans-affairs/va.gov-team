@@ -169,13 +169,23 @@ Moderator: Tell me about this page. What do you expect to do here?
 The user should not be on the unsubmitted expenses page.
 - [ ] Step 1 - User hits 'Add more expenses' or 'Sign agreemnent.'
 
-
 > ### Things to watch for:
 > - How do they choose to upload a file? Do they drag and drop or do they upload from their computer?
 > - How do they organize their receipts? Do they mention having some on paper?
 > - Do they mention needing to pause to find more receipts?
 > - Do they understand the metadata and hint text?
 > - When they return to the unsubmitted expenses page, do they notice the successful addition of the new expense?
+
+## Sixth Task: [User submits a claim] - 4 minutes
+Depending on the scenario, the moderator can prompt: Are you ready to submit your claim?
+- [ ] Step 1 - User hits 'Sign Agreement'
+- [ ] Step 2 - User reviews agreement and confirms
+- [ ] Step 3 - User hits 'Submit'
+- [ ] Step 4 - User receives confirmation
+
+> ### Things to watch for:
+> - Does the user understand they need to hit 'Sign Agreement' in order to submit?
+> - What does the user do on the confirmation page? What action do they take next?
 
 # Complex claims additional usability tasks
 These are additional actions we would like to see, that may deviate slightly from the happy path.
@@ -199,14 +209,27 @@ Note: Editing file and metadata may occur together, but also can be done individ
 - [ ] Step 4 - User edits the metadata
 - [ ] Step 6 - User hits 'Continue'
 
+> ### Things to watch for:
+> - Does the user understand they've been redirected to a page they previously filled out in order to edit?
+> - Are they able to succesfully edit files and/or information?
+> - What, if anything, seems to be confusing about this process?
+
 ## Additional Task B: User deletes an expense
-Depending on the scenario the moderator can prompt: Let's say you need to edit one of your expenses. What would you do if you realized you had added an expense you would like to edit?
+Depending on the scenario the moderator can prompt: Let's say you need to delete one of your expenses. What would you do if you realized you had added an expense you would like to delete?
 User should be on the unsubmitted expenses page.
 - [ ] Step 1 - User locates the erroneous expense in the expense accordion.
 - [ ] Step 2 - User hits delete and the file is deleted.
 
 ## Additional Task C: User leaves and re-enters the flow
+Depending on the scenario the moderator can prompt: Let's say you need to pause or leave before your've submitted your claim. For example, maybe you need to check on something else in your account (prompt user to exit the flow). Now if you needed to get back to your claim, how would you find it again? _Note: It would be great if they did not have to login again and could be encouraged to stay on VA.gov_
+- [ ] Step 1 - User exits the flow.
+- [ ] Step 2 - User re-enteres the flow. The user should return to the unsubmitted expenses page.
+- [ ] Step 3 - User hits 'Add more expenses' OR User hits 'sign agreement' if they have no additional expenses
 
+> ### Things to watch for:
+> - How does the user exit the flow? Do they close the tab or window? Do they navigate somewhere else within VA.gov?
+> - Can the user re-enter the flow? How do they get there?
+> - Does the user re-enter the flow from claims details or past appointment details?
 
 # Post-Task Interview - X minutes
 
