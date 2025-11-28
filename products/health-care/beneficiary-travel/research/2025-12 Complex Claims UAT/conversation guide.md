@@ -95,7 +95,7 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 1. Have you ever filed for travel pay on VA.gov before?
 - If yes: Tell me more about your experience.
 - If no: Can you share more about why you have not filed before? _Note: This may note be necessary if our criteria is people who have filed/have appointments that are eligible_
-2. 
+2. _TBD on if we need an additional warm up question_
 
 ## Sub Task: [Login to VA.gov] - 5 minutes
 
