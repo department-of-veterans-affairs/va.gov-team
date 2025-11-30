@@ -349,8 +349,8 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For moderated usability tests:** 
-* \[[Link to conversation guide](https://docs.google.com/document/d/12uHIPVC_hSoqwhT-hw3Ej7Pku5MGCX4omGd3Z1up1Uo/edit?usp=drive_link)\]  
-* \[Link to prototype\]
+* \[[Conversation guide](https://docs.google.com/document/d/12uHIPVC_hSoqwhT-hw3Ej7Pku5MGCX4omGd3Z1up1Uo/edit?usp=drive_link)\]  
+* \[[Prototype](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-accrued-benefits-form-21p-601/introduction)\]
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
@@ -377,14 +377,14 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ### Recruitment criteria
 
-**Note to Perigean: Please recruit family members who meet the criteria below. This is sensitive research involving recently bereaved families. Screen for those who are at least 6 months post-loss.**
+**Note to Perigean: Please recruit family members who meet the criteria below. This is sensitive research involving recently bereaved families. Screen for those who are at least 6 months post-loss. We would prefer no more than 10 sessions total, once we have hit that mark please cancel or stop recruitment. Ideal dates listed are the 8th through the 12th, but if additional time is needed to schedule, going slightly into the following week is fine. 
 
-**Additionally, if they are unsure or unfamiliar with the form number/name, you can explain that it is a form to get reimbursed for payments made for end of life care (outside of a VA facility) and/or...**
+Additionally, if they are unsure or unfamiliar with the form number/name, you can explain that it is a form to get reimbursed for payments made for end of life care (outside of a VA facility) and/or...**
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
 - `Dependents and spouses:` **10**  
-- `Total recruited:` **12**   
+- `Total recruited:` **15**   
 - `Ideal completed sessions:` **10**
 
 ### Primary criteria (must-haves)
@@ -436,26 +436,21 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ## Timeline 🗓️
 
-### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
-
 ### Prepare
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **\[Enter name\]**
-- `Date and time of pilot session:` **\[Enter time\]**
+- `Pilot participant name:` **Agile6 team**
 
 ### Research sessions
-- `Planned dates of research:` **Dec 8 \- December 12, 2025** 
+- `Planned dates of research:` **Dec 8 - December 12, 2025** 
 
 ### Length of sessions
 - `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **60 minutes**
   
 - `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **30 minutes**
   
-- `Maximum Sessions per day:` **[Enter number]**
+- `Maximum Sessions per day:` **Preference is no more than 2, but 3 is fine if needed.**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
