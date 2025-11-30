@@ -377,9 +377,9 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ### Recruitment criteria
 
-**Note to Perigean: Please recruit family members who meet the criteria below. This is sensitive research involving recently bereaved families. Screen for those who are at least 6 months post-loss. We would prefer no more than 10 sessions total, once we have hit that mark please cancel or stop recruitment. Ideal dates listed are the 8th through the 12th, but if additional time is needed to schedule, going slightly into the following week is fine. 
+**Note to Perigean: Please recruit family members who meet the criteria below. This is sensitive research involving recently bereaved families. Screen for those who are at least 6 months post-loss. We would prefer no more than 10 sessions total, once we have hit that mark please cancel or stop recruitment. Ideal dates listed are the 8th through the 12th, but if additional time is needed to schedule, going slightly into the following week is fine.**
 
-Additionally, if they are unsure or unfamiliar with the form number/name, you can explain that it is a form to get reimbursed for payments made for end of life care (outside of a VA facility) and/or...**
+**Additionally, if they are unsure or unfamiliar with the form number/name, you can explain that it is a form to get reimbursed for payments made for end of life care (outside of a VA facility) and/or...**
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
