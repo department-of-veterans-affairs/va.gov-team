@@ -78,6 +78,11 @@ NOTE-The Help Desk representative may copy the returned notes verbatim to the Ve
 
 
 ## Creating a Ticket for the Development Team
-* For Veteran-facing issues, start with a HRC New Issue 
+* For Veteran-facing issues, start with a HRC New Issue
+* Make sure to add the correct MHV team project to ensure that the new ticket is visible on their board:
+  * MHV-Secure-Messaging
+  * MHV-Medical-Records
+  * MHV-Medications
+  * MHV-Liferay items
 * To update the HRC template, go to this file MHV-Tier-3-HRC.md
 
