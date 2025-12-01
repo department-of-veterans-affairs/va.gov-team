@@ -346,7 +346,7 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Debrief with Observers:** 15 minutes  
 - **Buffer Time Between Sessions:** 30 minutes  
 - **Max Sessions per Day:** 3
-- **Kick Off Call Request:**  12/3-12/5 12pm-2pm ET, 330-430pm ET
+- **Kick Off Call Request:**  30 min block, Availability: 12/3-12/5, 12pm-2pm ET, 330-430pm ET
 - **Recruitment Start:** 12/2/2025  
 - **Research Review Submission:** 12/1/2025  
 - **Study Duration:** 3–4 weeks (including synthesis and shareout)
@@ -364,25 +364,25 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - '12/10, Wed, 10:00 AM EST'
 - `12/10, Wed, 12:00 PM EST`
-- `12/10, Wed, 3:30 PM EST`
+- `12/10, Wed, 4:00 PM EST`
 - '12/11, Thu, 10:00 AM EST'
 - `12/11, Thu, 12:00 PM EST`
-- `12/11, Thu, 3:30 PM EST`
+- `12/11, Thu, 2:00 PM EST`
 - `12/12, Fri, 10:00 AM EST`
 - `12/12, Fri, 12:00 PM EST`
-- `12/12, Fri, 3:30 PM EST`
+- `12/12, Fri, 4:00 PM EST`
 - '12/15, Mon, 10:00 AM EST'
 - `12/15, Mon, 12:00 PM EST`
-- `12/15, Mon, 3:30 PM EST`
+- `12/15, Mon, 4:00 PM EST`
 - `12/16, Tue, 10:00 AM EST`
 - `12/16, Tue, 12:00 PM EST`
-- `12/16, Tue, 3:30 PM EST`
+- `12/16, Tue, 4:00 PM EST`
 - '12/17, Wed, 10:00 AM EST'
 - `12/17, Wed, 12:00 PM EST`
-- `12/17, Wed, 3:30 PM EST`
+- `12/17, Wed, 4:00 PM EST`
 - `12/18, Thu, 10:00 AM EST`
 - `12/18, Thu, 12:00 PM EST`
-- `12/18, Thu, 3:30 PM EST`
+- `12/18, Thu, 2:00 PM EST`
 - `12/19, Fri, 10:00 AM EST`
 - `12/19, Fri, 12:00 PM EST`
-- `12/19, Fri, 3:30 PM EST`
+- `12/19, Fri, 4:00 PM EST`
