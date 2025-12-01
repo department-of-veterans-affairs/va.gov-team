@@ -31,7 +31,7 @@ The study will provide insights to inform the potential solution of a demo mode 
 
 **H4**: Secure messaging and prescription refill training is complex and requires hands on demonstration.
 
-**H6**: Leveraging in PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.
+**H5**: Leveraging in PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.
 
 
 ## Research Methodology
