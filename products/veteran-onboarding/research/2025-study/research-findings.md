@@ -2,17 +2,17 @@
 title: "Veteran Onboarding Modal Research Findings"
 product: "Welcome to VA.gov Onboarding"
 team: "Core Veteran Experience"
-office: "Office of the CTO - Digital Experience (OCTO-DE)"
+office: "Office of the CTO – Digital Experience (OCTO-DE)"
 date: "2025-11-24"
 researchers:
-  - "David Pearl"
+  – "David Pearl"
 research_goals:
-  - "Understand how new Veterans currently approach VA.gov and what causes decision paralysis"
-  - "Evaluate effectiveness and preference between modal design approaches (application-focused vs. exploration-focused)"
+  – "Understand how new Veterans currently approach VA.gov and what causes decision paralysis"
+  – "Evaluate effectiveness and preference between modal design approaches (application-focused vs. exploration-focused)"
 methodology:
-  - "Comparative usability testing with preference ranking"
-  - "Remote moderated sessions"
-  - "45-minute sessions combining semi-structured interviews and prototype testing"
+  – "Comparative usability testing with preference ranking"
+  – "Remote moderated sessions"
+  – "45-minute sessions combining semi-structured interviews and prototype testing"
 devices_used:
     desktop: 7
     tablet: 1
@@ -52,65 +52,65 @@ demographics:
     asian: 1
     native: 0
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "14 of 16 participants (88%) preferred application-focused modal over action-focused"
-  - "Veterans want comprehensive benefit discovery but current tool falls short"
-  - "Eligibility is psychological prerequisite but dense pages overwhelm"
-  - "Veterans want personalized, status-based content using existing profile data"
-  - "Three core benefits (Healthcare, Disability, Education) validated universally"
-  - "My VA terminology creates confusion for new users"
-  - "Content pages need simplification and consistency"
-  - "Product tours universally rejected"
-  - "Show modal first time only but make re-accessible"
-  - "Critical accessibility needs for TBI, PTSD, older Veterans"
+  – "14 of 16 participants (88%) preferred application-focused modal over action-focused"
+  – "Veterans want comprehensive benefit discovery but the current tool falls short"
+  – "Eligibility is psychological prerequisite but dense pages overwhelm"
+  – "Veterans want personalized, status-based content using existing profile data"
+  – "Three core benefits (Health care, Disability, Education) validated universally"
+  – "My VA terminology creates confusion for new users"
+  – "Content pages need simplification and consistency"
+  – "Product tours universally rejected"
+  – "Show modal first time only but make re-accessible"
+  – "Critical accessibility needs for TBI, PTSD, older Veterans"
 recommendations:
-  - "Implement application-focused modal as primary onboarding experience"
-  - "Design fourth 'Discover Your Benefits' option with true personalization"
-  - "Use About/How-to page formats with integrated eligibility context"
-  - "Implement dynamic content based on user enrollment status"
-  - "Ensure consistent structure across all benefit pages"
-  - "Make My VA terminology clearer or replace with alternatives"
-  - "Show modal on first login only with easy re-access method"
-  - "Implement trauma-informed design for cognitive/PTSD considerations"
+  – "Implement application-focused modal as primary onboarding experience"
+  – "Design fourth 'Discover Your Benefits' option with true personalization"
+  – "Use About/How-to page formats with integrated eligibility context"
+  – "Implement dynamic content based on user enrollment status"
+  – "Ensure consistent structure across all benefit pages"
+  – "Make My VA terminology clearer or replace with alternatives"
+  – "Show modal on first login only with easy re-access method"
+  – "Implement trauma-informed design for cognitive/PTSD considerations"
 kpi_alignment:
-  - "Improve satisfaction with web and mobile products by 5 points (OCTO Objective 1, KR 1)"
-  - "Increase successful benefit applications from new Veterans"
-  - "Reduce time to first benefit application"
+  – "Improve satisfaction with web and mobile products by 5 points (OCTO Objective 1, KR 1)"
+  – "Increase successful benefit applications from new Veterans"
+  – "Reduce time to first benefit application"
 outcomes:
   user: "New Veterans can quickly navigate to and apply for the benefits they need during transition without confusion or overwhelm"
   business: "Increased benefit application completion rates and reduced support burden through clearer onboarding"
 opportunity_areas:
-  - "Personalized benefit recommendations based on profile data"
-  - "Interconnected benefit discovery (e.g., disability rating unlocking healthcare)"
-  - "Family/dependent benefit pathways"
-  - "VA facility proximity checking before healthcare enrollment"
+  – "Personalized benefit recommendations based on profile data"
+  – "Interconnected benefit discovery (e.g., disability rating unlocking health care)"
+  – "Family/dependent benefit pathways"
+  – "VA facility proximity checking before health care enrollment"
 further_research_needed:
-  - "Test dynamic content implementation with enrolled vs non-enrolled users"
-  - "Validate fourth DYB option design with comprehensive benefit list"
+  – "Test dynamic content implementation with enrolled vs non-enrolled users"
+  – "Validate fourth DYB option design with comprehensive benefit list"
 underserved_groups_missing:
-  - "Veterans using assistive technology (screen readers, magnification)"
-  - "Veterans with documented cognitive disabilities"
-  - "Non-English speaking Veterans"
+  – "Veterans using assistive technology (screen readers, magnification)"
+  – "Veterans with documented cognitive disabilities"
+  – "Non-English speaking Veterans"
 secondary_research:
 synthesis_tools_used:
-  - "Mural"
-  - "Excel for session notes"
-  - "Affinity Mapping"
+  – "Mural"
+  – "Excel for session notes"
+  – "Affinity Mapping"
 ---
 
 # Welcome to VA.gov Onboarding Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Welcome to VA.gov Onboarding, Core Veteran Experience Team**
+**Office of the CTO – Digital Experience (OCTO-DE), Welcome to VA.gov Onboarding, Core Veteran Experience Team**
 
 **Date:** 11/24/2025
 
@@ -133,7 +133,17 @@ synthesis_tools_used:
 
 ## Research Goals
 
-This research supports Veterans during the critical **Getting Out** and **Starting Up** phases of their journey, specifically addressing the moment when newly transitioned Veterans first access [VA.gov](http://va.gov/) to discover and apply for benefits. New Veterans experience decision paralysis when they first access [VA.gov](http://va.gov/) because the site offers so many options and pathways. Without clear guidance, Veterans struggle to know where to start, leading to frustration and potential abandonment of important tasks.
+This research supports Veterans during the critical **Getting Out** and **Starting Up** phases of their journey, specifically addressing the moment when newly transitioned Veterans first access VA. gov and face decision paralysis about where to begin.
+
+**Key moments this tool supports:**
+- First login to VA.gov after military separation
+- Initial benefit discovery and eligibility assessment
+- First benefit application decisions
+
+**Desired outcomes:**
+- Veterans can quickly identify and access their priority benefits
+- Reduction in confusion and decision paralysis during first visit
+- Increased successful benefit application completion
 
 ## Research Questions
 
@@ -148,19 +158,32 @@ This study aimed to answer the following questions from the research plan:
 ## Methodology
 
 **Comparative Usability Testing with Preference Ranking**
-60-minute remote sessions combining semi-structured interviews (15 minutes) and comparative usability testing of both high-fidelity interactive modal prototypes (45 minutes).
+
+We conducted 60-minute remote moderated sessions via Zoom, combining:
+- Semi-structured interviews (15 minutes) to understand current experiences
+- Comparative usability testing (45 minutes) of two high-fidelity interactive modal prototypes
+
+**Version Testing:**
+- **Version A (Application-focused):** Three benefit application options – VA Health Care, VA Disability Compensation, and VA Education Benefits
+- **Version B (Action-focused):** Three action options – My VA, My HealtheVet, and Discover Your Benefits Tool
+
+**Iterative Approach:**
+- Phase 1 (Participants 1-8, Oct 27-31): Tested "Get benefit" anchor link pages
+- Phase 2 (Participants 9-16, Nov 1-4): Refined "About/How to" pages based on Phase 1 feedback
+
+This iterative methodology allowed us to course-correct based on participant feedback about overwhelming page designs. 
 
 **Version Testing:**
 
-- **Modal Version A (Application-focused):** Three benefit application options - VA Health Care, VA Disability Compensation, and VA Education Benefits
-- **Modal Version B (Action-focused):** Three action options - My VA, My HealtheVet, and Discover Your Benefits Tool
+- **Modal Version A (Application-focused):** Three benefit application options – VA Health Care, VA Disability Compensation, and VA Education Benefits
+- **Modal Version B (Action-focused):** Three action options – My VA, My HealtheVet, and Discover Your Benefits Tool
 
 **Two-Phase Approach:**
 
 - Phase 1 (Participants 1-8): “Get benefit” anchor link pages
 - Phase 2 (Participants 9-16): Refined “About/How to” pages based on Phase 1 feedback
 
-**Study Period:** October 27 - November 4, 2025
+**Study Period:** October 27 – November 4, 2025
 
 **Sessions:** 16 completed (target: 16)
 
@@ -170,27 +193,43 @@ This study aimed to answer the following questions from the research plan:
 
 ## Hypotheses and Conclusions
 
-- **Hypothesis 1:** Both modal versions will result in higher satisfaction and task completion rates compared to no onboarding guidance.
-    - **Definitely True**
-    - Veterans consistently stated that having a modal would have been helpful when they first started using [VA.gov](http://va.gov/), and would make the experience easier for new users.
-    - Multiple participants said the modal "would have been helpful" when they were first transitioning
-    - Participants described current [VA.gov](http://va.gov/) as overwhelming without guidance
-    - The modal concept was universally well-received as a helpful onboarding tool
-- **Hypothesis 2:** Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while action-focused options (Version B) will appeal to Veterans who are still exploring their options.
-    - **Partially True**
-    - 14 of 16 participants (88%) preferred the application-focused modal (Version A), BUT the preference wasn't dependent on whether they "knew what they wanted" - even Veterans who were uncertain preferred the application-focused approach.
-    - Veterans who knew exactly what they wanted: Preferred Version A and Veterans who were uncertain: Also preferred Version A
-    - Only 2 participants preferred Version B (action-focused), and for specific reasons not related to "exploring options"
+**Hypothesis 1:** Both modal versions will result in higher satisfaction and task completion rates compared to no onboarding guidance. 
+- **Definitely True**
+- **Task completion rate:** 16/16 participants (100%) successfully navigated through both modal prototypes and understood their purpose
+- **Preference rate:** 14/16 participants (88%) explicitly preferred the Apply-focused modal
+- **Satisfaction evidence:** All 16 participants stated the modal "would have been helpful" when they first started using VA.gov
+- **Supporting evidence:**
+  - Multiple participants said the modal "would have been helpful" when they were first transitioning
+  - Participants described current VA.gov as "overwhelming without guidance"
+  - The modal concept was universally well-received as a helpful onboarding tool
+  - 100% of participants could articulate what each modal option would help them accomplish
+
+**Hypothesis 2:** Application-focused options (Version A) will be preferred by Veterans who know what they want to apply for, while action-focused options (Version B) will appeal to Veterans who are still exploring. 
+- **Partially True**
+- **Task completion rate:** 16/16 participants (100%) successfully understood both versions
+- **Preference rate:** 14/16 (88%) preferred Version A (Application-focused), regardless of their level of certainty about benefits
+- **Why partially true:** The preference wasn't dependent on whether Veterans "knew what they wanted"
+  - Veterans who knew exactly what they wanted: Preferred Version A
+  - Veterans who were uncertain/exploring: **Also preferred Version A**
+  - Only 2 participants preferred Version B, and for specific reasons unrelated to "exploring options"
+- **Supporting evidence:**
+  - Even participants who stated they were "just browsing" or "seeing what's available" preferred the direct application paths in Version A
+  - The hypothesis incorrectly assumed that exploration-focused users would prefer action-based navigation
+  - Veterans want to explore **benefits** (what they can get), not **actions** (tools to manage things they don't have yet)
+
 
 ## Key Findings
 
 1. **Most Veterans preferred the application-focused modal (Version A)** showing Healthcare, Disability, and Education as direct paths to benefit applications
-2. **Veterans want “Discover Your Benefits” but current tool falls short** - they expect comprehensive personalized lists, not questionnaires
-3. **Eligibility is psychological prerequisite** but dense eligibility pages overwhelm; “How to” formats with integrated context work better
-4. **Veterans expect personalized content** based on existing profile data and enrollment status, not a one-size-fits-all experiences
-5. **Three benefits (Healthcare, Disability, and Education) universally validated** as the core pillars Veterans need during transition
-6. **“Most people” language doesn’t resonate,** but Veterans do like "What would you like to do first?"
-7. **Show modal first time only** but Veterans want easy way to re-access if needed
+2. **Veterans want "Discover Your Benefits" but current tool falls short** - they expect comprehensive personalized lists, not questionnaires
+3. **Eligibility information is a psychological prerequisite before application** but must be contextually integrated, not a separate destination
+4. **"About" and "How to" page formats with integrated eligibility work better than dense anchor link pages** that overwhelm with 10+ options
+5. **Veterans expect personalized content** based on existing profile data and enrollment status, not one-size-fits-all experiences
+6. **Three benefits (Healthcare, Disability, and Education) universally validated** as the core pillars Veterans need during transition
+7. **Veterans reject "most people" framing** and want personalized guidance ("What would you like to do first?")
+8. **Show modal on first login only** but Veterans want easy way to re-access if needed
+9. **Product tours are universally rejected** - Veterans have pop-up fatigue and immediately dismiss multi-step tours
+
 
 # Details of Findings
 
@@ -202,29 +241,29 @@ This study aimed to answer the following questions from the research plan:
 
 - *“These are things that they need to get squared away as they're getting out...there's so much going on during that time that some, you know, laser focus guidance on these are the most important things you need to be focusing right now, at least for VA. Kind of helps them draw priorities.” – P14*
 - *“Having that direct path to that... it would have saved me time, you know, and taking me directly (to) what I was looking for. If you have data that says this is where the people go first, then giving it to them first instead of having to hunt around and find it, I think could be helpful to... a lot of people.” – P12*
-- *“I prefer the left overall quite a bit... I'm here for those things, healthcare, disability, training. So having those three there and then if I get to that, presumably I can get to the others through some sort of a menu." – P17*
-- *“VA healthcare, disability and education... That's what most people are gonna look for first."  –  P15*
+- *“I prefer the left overall quite a bit... I'm here for those things, health care, disability, training. So having those three there and then if I get to that, presumably I can get to the others through some sort of a menu." – P17*
+- *“VA health care, disability and education... That's what most people are gonna look for first."  –  P15*
 - *“Broad enough overview without being too broad and without being too focused in.” – P8*
 - *“It's straight to the point, you have your health care, your, your disability compensation, the education and training benefit, you know, that's all right there. You can click on each one of those and find out a lot of information.” – P21A*
 - *“There is literally nothing more important than applying for benefits. That’s why we’re on [VA.gov](http://va.gov/).” –  P1*
 
-### **The Action Modal (Version B with "Go to My VA," "Manage your healthcare," and "Discover your benefits") didn't work well for several reasons including confusion about "My VA", focus on healthcare benefit, and potential redundancies. First-time users don’t understand what “My VA” means, where it will take them, or how it differs from other sections. The terminology that makes sense to established users is opaque to new Veterans.**
+### **The Action Modal (Version B with "Go to My VA," "Manage your health care," and "Discover your benefits") didn't work well for several reasons including confusion about "My VA", focus on health care benefit, and potential redundancies. First-time users don’t understand what “My VA” means, where it will take them, or how it differs from other sections. The terminology that makes sense to established users is opaque to new Veterans.**
 
-- *“I don't like it as much... I feel like this assumes that you know a little more about the VA and my VA versus the healthcare stuff. But I don't feel like that would be intuitive... the first time you signed on.” – P8*
+- *“I don't like it as much... I feel like this assumes that you know a little more about the VA and my VA versus the health care stuff. But I don't feel like that would be intuitive... the first time you signed on.” – P8*
 - *“Most people think of manage as like an ongoing thing, not like a first thing... You put in your account for the first time, you have really no idea what this means, and then manage. It kind of seems like an ongoing thing, like making recurring things or not setting up for the first time, basically.” – P15*
 - *“This one is focused on health care.” – P3*
 - *“Currently my health is in My VA. I could see almost the same information. So that one kind of cancel each other out... You could see that in MyVA so it's kind of redundant... You don't need two of these.” – P1*
 
 ***Avoid using “My VA” in the onboarding modal. For new users who don’t have established context, this terminology is too vague. Use specific, descriptive benefit names instead. Once users have experience with [VA.gov](http://va.gov/), “My VA” makes sense as a consolidated dashboard.***
 
-### Finding 2: Veterans want “Discover Your Benefits” but current tool falls short
+### Finding 2: Veterans want “Discover Your Benefits” but the current tool falls short
 
 Many participants spontaneously requested adding "Discover Your Benefits" to the Apply modal. However, their expectations reveal a critical gap between what Veterans want and what the current tool provides. Veterans want a comprehensive personalized list of all benefits and a catch all for everything beyond the top 3 benefit, but were met with visual design issues, confusion about the tool's purpose, and more clicks.
 
 - *“It’s missing one. I would like discover your benefits on that one. Like if you instead of three have four… That’d be the first one on the list because somebody that never been there, they want to know what benefits they have.”  – P1*
 - *“I expect to see what I qualify for and all the benefits that VA has for Veterans… Yeah, I would want to know what I, you know, everything that I can get.” – P21A*
 - *“[I expect] any and everything that the VA has for us, the service person and things that we're not aware of.” – P21B*
-- *“For people like me with PTSD and stuff like this. You’re just literally ticking me off…We need straightforward answers, not a bunch of stuff.” - P19*
+- *“For people like me with PTSD and stuff like this. You’re just literally ticking me off…We need straightforward answers, not a bunch of stuff.” – P19*
 - *“Since you’ve already logged in with your profile, so they know who you are… use an AI strategy… to do a search to everything that you could possibly qualify for… since they know your family members, they know your rating. And so when you click on there, when you say discover my benefits, it should give you the ability to see everything that you could possibly qualify for.” – P4*
 - *“Discover your benefits could be nice on the left side, you know, like, as a less targeted option, you know, like more of like a tour thing.” – P17*
 
@@ -238,36 +277,37 @@ Many participants spontaneously requested adding "Discover Your Benefits" to the
 
 ***The "Discover Your Benefits" request reveals four deeper user needs: a catch-all option for topics outside the top three categories, comprehensive visibility of all available benefits, personalized eligibility information based on profile data, and a psychological safety net for Veterans who don't find what they need in the primary options.***
 
-### Finding 3: Eligibility is psychological prerequisite
+**New Finding 3: Eligibility information is a psychological prerequisite before application**
 
-Veterans consistently wanted information before jumping to applications. However, formal “eligibility pages” proved too dense and overwhelming. “About” and “How to” pages that incorporated eligibility context performed significantly better in Phase 2 testing.
+Veterans consistently wanted to confirm eligibility before committing time to applications. However, they don't want to hunt for this information—it needs to be contextually integrated into their path forward.
 
-“I definitely think before any other information comes from that, it should go straight to an eligibility page. 110%… I wouldn’t want to go into something, find something that I’m like, oh, my God, this would be great. Come to find out I’m not eligible.” - P3
-"I’m going to go to eligibility and then within eligibility I would want to see how to apply because once I see if I’m eligible, I don’t want to have to click on another screen to apply.” - P4
-“Maybe if eligibility down to apply online were kind of like the focus of what was on the main page… those are the main things I feel like people would come here for.” - P8
+**What Veterans said:**
 
-- *“These are things that they need to get squared away as they're getting out...there's so much going on during that time that some, you know, laser focus guidance on these are the most important things you need to be focusing right now, at least for VA. Kind of helps them draw priorities.” – P14*
-- *“I wouldn't want to go into something, find something that I'm like, oh, my God, this would be great. Come to find out I'm not eligible.” – P3*
+- *"I definitely think before any other information comes from that, it should go straight to an eligibility page. 110%… I wouldn't want to go into something, find something that I'm like, oh, my God, this would be great. Come to find out I'm not eligible." – P3*
+- *"I'm going to go to eligibility and then within eligibility I would want to see how to apply because once I see if I'm eligible, I don't want to have to click on another screen to apply." - P4*
+- *"Maybe if eligibility down to apply online were kind of like the focus of what was on the main page… those are the main things I feel like people would come here for." - P8*
 
-### The “Get [Benefit]” anchor link pages shown to Phase 1 participants were overwhelming. The “About” and “How to” pages shown to Phase 2 participants performed significantly better.
+**Design implication:** Eligibility shouldn't be a separate destination—it should be woven into the "how to apply" pathway so Veterans can self-qualify as they move toward application.
 
-**Phase 1 (P1, P3, P4, P8, P12, P13, P14, P15**): “Get VA health care”, “Get disability compensation”, “Get GI Bill education benefits”
+**New Finding 4: "About" and "How to" page formats with integrated eligibility work better than dense anchor link pages**
 
-- *“There’s so much info on [VA.gov](http://va.gov/) but sometimes it’s too much so takes time to navigate through everything.” – P1*
-- *“I think there’s too much on this page, I think it’s too cluttered.” – P4*
-- *“There’s a lot… sort of not what I’m looking for at first.” – P3*
-- *“First looking at it, you’re just. It’s overwhelming.” – P8*
+Phase 1 "Get [benefit]" pages with 10+ anchor links overwhelmed participants. Phase 2 "About" and "How to" pages with nested menus and progressive disclosure performed significantly better by creating clear hierarchy and reducing cognitive load.
 
-**Phase 2 (P16, P17, P19, P20, P21A, P21B, P24,P11)**: “About VA health care”, “How to apply for disability compensation”, “Get GI Bill” (unchanged)
+**Phase 1 feedback (Get VA health care, Get disability compensation, Get GI Bill):**
 
-- *“I would be very pleased if I with this page and it would help tremendously as it's the. At the beginning of my journey in familiar. Familiarizing myself to the VA.” – P21B*
-- *"It actually explains like how to, explains what you need to do and then it assists you.” – P20*
-- *“This is very good too... It tells you about VA health benefits that you might not know about. What's covered, what's not covered, how to apply. Learn more about VA healthcare, what happens after you apply. You know, this is very, very good." – P21A*
-- *“It’s helpful. It tells you it's just straightforward. Tells you what you need to apply. There's the link.” – P19*
+- *"There's so much info on VA. gov but sometimes it's too much so takes time to navigate through everything." – P1*
+- *"I think there's too much on this page, I think it's too cluttered." – P4*
+- *"First looking at it, you're just. It's overwhelming." – P8*
 
-***Long pages with 10+ anchor links and dense information performed poorly, while action-oriented "how to" pages with nested menus and progressive disclosure proved more effective by creating clear hierarchy and helping users focus on specific tasks like applying or filing.***
+**Phase 2 feedback (About VA health care, How to apply for disability compensation):**
 
-### Finding 4: Veterans expect personalized content
+- *"I would be very pleased if I with this page and it would help tremendously as it's the. At the beginning of my journey in familiar. Familiarizing myself to the VA." – P21B*
+- *"It actually explains like how to, explains what you need to do and then it assists you." – P20*
+- *"It's helpful. It tells you it's just straightforward. Tells you what you need to apply. There's the link." – P19*
+
+**Design implication:** Long pages with 10+ anchor links and dense information create cognitive overload. Action-oriented "how to" pages with nested menus and progressive disclosure prove more effective.
+
+### Finding 5: Veterans expect personalized content
 
 Veterans consistently expressed desire for dynamic content that changes based on their account status, benefit enrollment, and family situation. The current one-size-fits-all approach creates confusion about which content is relevant.
 
@@ -281,81 +321,120 @@ Veterans consistently expressed desire for dynamic content that changes based on
 - *"If it's pulling my information, if I'm already logged in and it's got my information, I would like it to tell me if I'm eligible right off the rip or not, and then go from there." – P16*
 - *"Depends on how much benefits that you have. So my benefit might be different from somebody else's." – P1*
 
-***Every benefit area serves two distinct user groups—first-timers who need eligibility criteria, application processes, required documentation/how-to guides, and foundational information, versus existing users who need to manage active benefits like appointments, claims status, or remaining education credits, creating fundamentally different navigation and content requirements within healthcare, disability compensation, and education benefits.***
+***Every benefit area serves two distinct user groups—first-timers who need eligibility criteria, application processes, required documentation/how-to guides, and foundational information, versus existing users who need to manage active benefits like appointments, claims status, or remaining education credits, creating fundamentally different navigation and content requirements within health care, disability compensation, and education benefits.***
 
-### Finding 5: Three benefits universally validated
+### Finding 6: Three benefits universally validated
 
-Veterans unanimously confirmed that Health Care, Disability Compensation, and Education Benefits are the right three core priorities for new users. These align with both the “mental model” of what VA does and actual behavior during transition. Based on this research, the most common reasons Veterans created [VA.gov](http://va.gov/) accounts  were to file disability claims / track claims, apply for healthcare, or access education benefits
+Veterans unanimously confirmed that Health Care, Disability Compensation, and Education Benefits are the right three core priorities for new users. These align with both the “mental model” of what VA does and actual behavior during transition. Based on this research, the most common reasons Veterans created [VA.gov](http://va.gov/) accounts  were to file disability claims / track claims, apply for health care, or access education benefits
 
-- *“Those are like the top three things that I've used so far, really, in the VA and [VA.gov](http://va.gov/).” - P20*
+- *“Those are like the top three things that I've used so far, really, in the VA and [VA.gov](http://va.gov/).” – P20*
 - *“The VA does three things” – P3*
 - *“If I’m just starting the transition process… these are the things you should be focusing on as you’re transitioning.” – P14*
-- *"VA does your healthcare, VA does your education, and VA does your disability. Those are the three pillars of the VA." – P4*
+- *"VA does your health care, VA does your education, and VA does your disability. Those are the three pillars of the VA." – P4*
 - *“The disability, the health care and the education benefits, that one was very, just clear. Like a broad enough overview without being too broad and without being too focused in.” – P8*
 - *I like the three because it's not too many choices. I wouldn't want to be inundated with a whole bunch of choices. But I think, you know, these three are probably the most likely. For me, the most likely was VA disability.” – P12*
 - *I think it's got the three most important things people care about when you get out... this is great as far as like especially getting out for first time.” – P13*
-- *Because it's like those are, those are the topics, those are the things that the Veterans want to look for is getting started in healthcare, disability compensation and education benefits.” – P16*
+- *Because it's like those are, those are the topics, those are the things that the Veterans want to look for is getting started in health care, disability compensation and education benefits.” – P16*
 - *I don't know what else there would be beyond that. So that makes sense that most people start with those.” – P17*
 - *For me, those are like the top three things that I've used so far, really, in the VA and my VA.gov.” – P20*
 - *“Monetary over everything else” – P15*
 
-***Disability compensation typically ranks as Veterans' top priority due to its monetary nature and status as the most common reason for creating a VA.gov account, followed by healthcare which many participants identified as critically important, while education benefits showed more variable priority rankings but frequently appeared as the second choice after disability or healthcare.***
+***Disability compensation typically ranks as Veterans' top priority due to its monetary nature and status as the most common reason for creating a VA.gov account, followed by health care which many participants identified as critically important, while education benefits showed more variable priority rankings but frequently appeared as the second choice after disability or health care.***
 
 ---
 
-### Finding 6: “Most people” language doesn’t resonate
+### Finding 7: Veterans reject "most people" framing
 
 Language framing content around “what most people do” or crowd behavior doesn’t resonate with Veterans. They want personal guidance for their situation only. Focus on “you” and “your needs” rather than “most Veterans”
 
 - *“Most people. Because that's not true. Most people don't do that.” – P11*
 - *"I don't really care much about what most people are doing. I know why I'm here,” – P3*
-- *“I prefer the wording of the second, so... Welcome to [VA.gov](http://va.gov/) we verified your account.  You can now start exploring benefits. What would you like to do first via healthcare, via disability compensation, via education." – P24*
+- *“I prefer the wording of the second, so... Welcome to [VA.gov](http://va.gov/) we verified your account.  You can now start exploring benefits. What would you like to do first via health care, via disability compensation, via education." – P24*
 
 ***Veterans want personalized guidance based on their unique situations rather than crowd-sourced recommendations, so framing like "most Veterans start with" creates disconnect by suggesting the site doesn't understand their individual circumstances. Instead, direct Veteran-centered questions like "What would you like to do first?" works better by focusing on "you", aligning with Veterans' desire for personalized support.***
 
-### Finding 7: Show modal first time only
+### Finding 8: Show modal first time only
 
-Most Veterans want to see the modal only on their first login, not repeatedly. However, they want an easy way to access it again if needed. There’s also anxiety about “losing” the modal after clicking one option.
+Most Veterans want to see the modal only on their first login to avoid pop-up fatigue. However, they expressed anxiety about "losing" access to it and want an easy way to retrieve it if needed.
 
-- *“Generally I’m not a big fan. Too many pop ups. If it’s any more than like two, I probably start getting annoying.” - P14*
-- *“I think most of the time when you’re going, you’re going for a specific purpose… I don’t think people do multiple things at once… once you do your one thing, then you’re done with the site.” - P4*
-- *”My impression of it is that it's like, hey, you just signed up. Like, here, this is what we can do for you. So in that regard, the first time I log in would make sense.” - P17*
-- *"If this is the first time I'm logging in, I think it's helpful. If it was every time I logged in, I would not use it, but I think maybe the first couple times you log in, it comes up... maybe that's the first two or three times or something like that. - P12*
+**What Veterans said about frequency:**
+
+- *"Generally I'm not a big fan. Too many pop ups. If it's any more than like two, I probably start getting annoying." - P14*
+- *"I think most of the time when you're going, you're going for a specific purpose… I don't think people do multiple things at once… once you do your one thing, then you're done with that." – P11*
+- *"If this is the first time I'm logging in, I think it's helpful. If it was every time I logged in, I would not use it." - P17*
 - *"That's fine the first time, but if it comes up every time, then I'll be annoyed... I would probably exit the website if it kept on popping up." -P24*
 
-When asked about tours, Veterans typically 
+**What Veterans said about re-access:**
 
-- “Stop with the damn pop ups.” - P15
+- *"If it comes up every time, I would not use it, but I think maybe the first couple times you log in, it comes up... maybe that first week or something." - P17*
+- *"I wouldn't mind if that [Action modal] popped up every time because it gave me the three basic things that I would be doing in there personally. This one [Apply modal] is for first time only." – P11*
 
-- *“How many countless tours I’ve been on. You know what I do with those tours? I just click away. Click, click.” - P1*
-- “I wouldn’t mind if that [Action modal] popped up every time because it gave me the three basic things that I would be doing in there personally. This one [Apply modal] is for first time only.” - P3
+**Design implication:** Display once on first login, then provide persistent access via help menu, profile settings, or a "Getting Started" link in navigation.
 
-***Veterans experience pop-up fatigue, making the modal unnecessary after first use. However, anxiety about losing access suggests a need to provide a persistent, easy-to-find way to re-access it.***
+
+### Finding 9: Product tours are universally rejected by Veterans
+
+Veterans have strong negative reactions to multi-step product tours and pop-ups, viewing them as obstacles rather than helpful guidance.
+
+- *"Stop with the damn pop ups." - P15
+- *"How many countless tours I've been on. You know what I do with those tours? I just click away. Click, click." - P1
+- 
+_**Design implication: The onboarding modal should be a single, focused moment—not a multi-step tour. Veterans experience pop-up fatigue and immediately dismiss tours without engaging.**_
+  
+## Additional Insights
+
+**Trauma-informed design needs:**
+- _"For people like me with PTSD and stuff like this.  You're just literally ticking me off…We need straightforward answers, not a bunch of stuff." – P19_
+- This highlights critical accessibility needs beyond screen readers—Veterans with cognitive disabilities and PTSD require simplified, direct content
+
+**Product tour rejection:**
+- _"Stop with the damn pop ups." – P15_
+- _"How many countless tours I've been on.  You know what I do with those tours? I just click away.  Click, click." – P1_
+- Strong negative reaction to tours suggests modal should be single-appearance, not multi-step
+
+**Family benefit gap:**
+- _"Since they know your family information, where you're eligible for..." – P21A_
+- Points to opportunity area for dependent/family benefit pathways
 
 ---
 
 ## Recommendations
 
-1. **Recommendation:** Implement the Apply-focused modal as the primary onboarding experience. It aligns with how new Veterans approach [VA.gov](http://va.gov/) (with specific benefit goals during transition, not open-ended exploration).
-    1. ***Per Finding 1: Most Veterans preferred the application-focused modal (Version A)***
-2. **Recommendation:** Rather than simply adding the current “Discover Your Benefits” tool, consider a fourth option that provides comprehensive benefit exploration (true benefit finder or complete benefit list), and if possible, uses existing profile data to show personalized eligibility without interaction.
-    1. ***Per Finding 2: Veterans want “Discover Your Benefits” but current tool falls short*** 
-3. **Recommendation:** Use “About” and “How to” page formats that incorporate eligibility context naturally, rather than leading with dense standalone eligibility pages. Provide enough information for Veterans to self-assess relevance without overwhelming them or creating barriers to application.
-    1. ***Per Finding 3: Eligibility is psychological prerequisite*** 
-4. **Recommendation:** Implement dynamic content that changes based on user account status and benefit enrollment. Start with healthcare: test directing users without healthcare to application pathway and users with healthcare to My HealtheVet. Based on reception, expand to disability and education. Show Veterans that VA knows their situation and tailors the experience accordingly.
-    1. ***Per Finding 4: Veterans expect personalized content*** 
-5. **Recommendation:** The modal should maintain three benefit options but prioritize disability compensation as the first option over VA health care, since disability compensation consistently ranks as Veterans' top priority, serving as the most common first action.
-    1. ***Per Finding 5: Three benefits universally validated*** 
-6. **Recommendation:** Replace crowd-sourced framing like "Most Veterans start with…" with "What would you like to do first?" to avoid suggesting the site doesn't understand individual circumstances.
-    1. ***Per Finding 6: Most people” language doesn’t resonate***
-7. **Recommendation:** Display the modal only on first login to reduce pop-up fatigue while providing an easy re-access method if needed. 
-    1. ***Per Finding 7: Show modal first time only***
+1. **Recommendation:** Implement the Apply-focused modal as the primary onboarding experience
+   - **Supporting evidence:** Finding 1 - 88% preference rate; veterans want direct paths to core benefits during transition
+   - **Supporting evidence:** Veterans described current VA.gov as "overwhelming" without this guidance
+
+2. **Recommendation:** Design a fourth "Discover Your Benefits" option with true personalization—comprehensive benefit lists based on profile data, not questionnaires
+   - **Supporting evidence:** Finding 2 - Veterans expected personalized benefit lists, not additional questionnaires
+   - **Supporting evidence:** Current tool creates frustration: "You're sending people all over the place" – P4
+
+3. **Recommendation:** Use "About" and "How to" page formats that integrate eligibility context naturally, rather than leading with dense standalone eligibility pages
+   - **Supporting evidence:** Finding 3 - Eligibility is psychological prerequisite
+   - **Supporting evidence:** Finding 4 - Phase 2 "How to" pages significantly outperformed Phase 1 "Get" pages
+
+4. **Recommendation:** Implement dynamic content that changes based on user enrollment status and benefit eligibility
+   - **Supporting evidence:** Finding 5 - Veterans expect personalized content based on existing profile data
+   - **Supporting evidence:** "If I'm already logged in and it's got my information, I would like it to tell me if I'm eligible right off the rip" – P16
+
+5. **Recommendation:** Maintain three benefit options, prioritizing disability compensation first since it consistently ranks as top priority
+   - **Supporting evidence:** Finding 6 - Three benefits universally validated; disability described as "monetary over everything else" – P15
+
+6. **Recommendation:** Replace "Most Veterans start with…" framing with "What would you like to do first?"
+   - **Supporting evidence:** Finding 7 - "Most people" language doesn't resonate; "I don't really care much about what most people are doing" – P3
+
+7. **Recommendation:** Display modal only on first login with easy re-access method (e.g., persistent "Getting Started" link or help menu option)
+   - **Supporting evidence:** Finding 8 - Veterans want first-time guidance but express pop-up fatigue
+   
+8. **Recommendation:** Avoid multi-step product tours entirely
+   - **Supporting evidence:** Finding 9 - Product tours universally rejected; "Stop with the damn pop ups" – P15
+
+
 
 ## Product User and Business Outcomes
 
 ### Desired User Outcome
 
-This research supports our desired user outcome by reducing confusion and decision paralysis for newly transitioned Veterans, enabling them to quickly find and apply for the benefits they need during an already overwhelming life transition. The Apply-focused modal provides the guidance Veterans requested, directing them to healthcare, disability, and education applications.
+This research supports our desired user outcome by reducing confusion and decision paralysis for newly transitioned Veterans, enabling them to quickly find and apply for the benefits they need during an already overwhelming life transition. The Apply-focused modal provides the guidance Veterans requested, directing them to health care, disability, and education applications.
 
 ### Desired Business Outcome
 
@@ -369,37 +448,49 @@ The strong preference for the Apply-focused modal provides clear direction for i
 
 ## Key Performance Indicators
 
-### KPI 1
+This research supports measurement of OCTO-DE Objective 1, KR 1: "Improve satisfaction with web and mobile products by 5 points."
 
-This research supports measurement of this KPI by validating that the Apply-focused modal provides direct pathways to the three benefits new Veterans prioritize. The high preference rate and strong qualitative feedback indicate this approach will reduce friction in the application initiation process.
+### KPI 1: Increase benefit application initiation rate
+This research supports measurement of this KPI by validating that the Apply-focused modal provides direct pathways to the three benefits new Veterans prioritize (Healthcare, Disability, Education).  
 
-**Baseline measurement:** Track application starts within 30 days of first login
-**Expected impact:** 15% increase in application initiation after modal implementation
+**Baseline measurement approach:**
+- Track application starts within 30 days of first login (current state)
+- Compare against same metric after modal implementation
 
+**Expected impact:** 
+- 15% increase in application initiation within 30 days of first login
+- Reduction in time-to-first-benefit-application by 5+ days
+
+**How research supports this:**
+- 88% preference for direct application pathways
+- Unanimous validation of three core benefits
+- Strong evidence that eligibility clarity reduces abandonment
+  
 ## Next Steps
 
-**Short-term:**
+**Immediate (Week of Nov 25):**
+1. Share findings with stakeholders – David Pearl, PO, Design Lead
+2. Prioritize recommendations with product team – Product Owner
 
-1. Share findings with stakeholders (PO, Design, Content, Product, Engineering)
-2. Prioritize recommendations with product team
-3. Start design work to finalize apply modal
+**Short-term (Dec 2025):**
+3. Finalize Apply modal design – Design team
+4. Begin engineering assessment for dynamic content – Engineering Lead
 
-**Long-term:**
-
-1. Deploy Apply-focused modal
-2. Monitor analytics and Medallia feedback
-3. Consider conducting A/B test if possible (Apply modal vs current experience)
-4. Begin dynamic content implementation (enrolled vs non-enrolled pathways)
+**Long-term (Q1 2026):**
+5. Deploy Apply-focused modal to production
+6. Implement analytics tracking for modal interactions
+7. Monitor Medallia feedback and usage metrics
+8. Begin "Discover Your Benefits" redesign research
 
 ## Further research needed
 
-1. **Assistive technology testing** - This study included no screen reader or magnification users; need to validate modal and page designs with AT users
-2. **Non-English speakers** - All participants were English-speaking; need to validate experience for Spanish and other language speakers
+1. **Assistive technology testing** – This study included no screen reader or magnification users; need to validate modal and page designs with AT users
+2. **Non-English speakers** – All participants were English-speaking; need to validate experience for Spanish and other language speakers
 
 ## Appendix
 
 ### Research Documents
-
+- [Product Outline]
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/research-plan.md)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/conversation-guide.md)
 - [Participant Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-onboarding/research/2025-study/Onboarding%20Research%20Transcripts)
@@ -416,12 +507,12 @@ This research supports measurement of this KPI by validating that the Apply-focu
 ### Pages and applications used
 
 - Figma prototypes (Apply-focused and Action-focused modals)
-    - Benefit landing pages:
-        - Phase 1: “Get VA health care,” “Get disability compensation,” “Get GI Bill education benefits”
-        - Phase 2: “About VA health care,” “How to apply for disability compensation,” “Get GI Bill education benefits”
-    - MyVA complete state / empty state
-    - MyHealtheVet complete state / empty state
-    - Discover Your Benefits tool landing page
+    – Benefit landing pages:
+        – Phase 1: “Get VA health care,” “Get disability compensation,” “Get GI Bill education benefits”
+        – Phase 2: “About VA health care,” “How to apply for disability compensation,” “Get GI Bill education benefits”
+    – MyVA complete state / empty state
+    – MyHealtheVet complete state / empty state
+    – Discover Your Benefits tool landing page
 
 ### Research participants
 
@@ -450,7 +541,7 @@ LGBTQ+:
 
 - Transgender: 0
 - Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
-- Gay, lesbian, or bisexual: Unknown
+- Gay, lesbian, or bisexual: 0
 
 Devices used during study:
 
