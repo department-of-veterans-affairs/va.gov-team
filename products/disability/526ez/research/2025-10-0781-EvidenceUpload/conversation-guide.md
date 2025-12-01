@@ -77,9 +77,9 @@ We are now going to transition into testing a prototype of the form.
 
 I’m going to send you a link to the prototype in the chat and then have you share your screen. Before we do that, please take a minute to close anything you don’t want to share with us, like your personal email.
 
-- [Prototype link](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=832-42129\&t=QRBZPOdTinwvw0vi-0\&scaling=min-zoom\&content-scaling=fixed\&page-id=803%3A39449\&starting-point-node-id=832%3A42129)
-
-- [Path two](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?page-id=803%3A39449\&node-id=1178-8048\&starting-point-node-id=1178%3A8048\&t=23ihi0kyfFy7oehP-1)
+* [Figma](https://www.figma.com/design/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=803-39449&p=f&t=rVD38SF2BE1MWCxC-0) (“Prototype for research” tab)  
+  * [Path 1 prototype:](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=1178-8038&t=K98xjgC6J6mVcyg4-0&scaling=min-zoom&content-scaling=fixed&page-id=803%3A39449&starting-point-node-id=1178%3A8038&show-proto-sidebar=1) For those who have never applied before (includes screens to walk participants through the earlier pages of the application for orienting their understanding of where they are in the form)  
+  * [Path 2 prototype:](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=1178-8048&t=K98xjgC6J6mVcyg4-0&scaling=min-zoom&content-scaling=fixed&page-id=803%3A39449&starting-point-node-id=1178%3A8048&show-proto-sidebar=1) For those who have applied before (skips screens of the earlier pages of the application)
 
 Once you open the link, please share your screen. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
 
