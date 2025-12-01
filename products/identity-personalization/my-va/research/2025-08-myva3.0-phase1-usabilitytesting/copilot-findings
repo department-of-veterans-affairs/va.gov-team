@@ -5,11 +5,11 @@ last modified: 11/24/25
 
 Study overview 
 
-
+Utlized Copoilt to review and analyze the scrubed user research transcripts. Also included the research plan as a guide to assist with keeping the AI tool from hallucinating false findings. 
 Prompt used: Review and analyze the user research transcripts in these text files [attach files] and draft a list of key findings and recommendations. Use the research plan as a guide. 
 
-
-Results: 
+Overall Copoilt did an overall good job of analyzing the user research transcripts. It's findings were aligned to the findings we found during our own analysis of the user testing. Some considerations include missing some on the emotions/sentiments that had participants during the study. 
+Copilt Results: 
 Quick note about evidence and scope
 
 The findings below reflect recurring themes across the nine session transcripts you supplied. I call out when an insight was mentioned by many participants vs. a smaller number. Where participants disagreed, I note the split.
@@ -25,6 +25,7 @@ Participants want more details on refill actions: remaining refills, whether req
 Some participants worry about accidental taps on trackpads / phones and want a secondary confirmation or a safer multi-select workflow (P3).
 Participants who refill many meds want batch/refill-all flows and ability to check boxes for multiple meds (P3).
 Evidence level: consistent across many transcripts.
+
 Appointments and check‑in (task)
 What participants liked
 Quick check‑in from the homepage is valued; many use phone app/mobile for appointment tasks (P6, P9, P12).
@@ -32,6 +33,7 @@ Problems & pain points
 Inconsistent presentation / incomplete appointment data: participants asked for provider name, room number, and clearer clinic location (P6, P4, P11).
 Participants often prefer to use a kiosk or onsite check‑in; mobile check‑in is useful for convenience but must not encourage no‑shows from far away (P3).
 Evidence level: recurring.
+
 Notifications drawer and “Review all notifications”
 What participants liked
 Centralized notifications are highly valued. Participants prefer a notifications bell and chronological, filterable list (many).
@@ -42,6 +44,7 @@ Many want certain types of notifications highlighted/prominent: debts/payments (
 Desire for the ability to review notifications per a date range or pick a date (date picker) and to see more notifications per page (P4, P5).
 Some want notifications to be actionable and link to details (reviewable; participants repeatedly noted links should go to contextual pages).
 Evidence level: strong & consistent.
+
 Information hierarchy & homepage (My VA) organization
 What participants liked
 Yellow highlights (call to action) and status indicators draw attention to required actions and are valued (several).
@@ -50,6 +53,7 @@ Participants overwhelmingly expect healthcare (appointments, meds, messages) to 
 Desktop layout issues: perceived empty whitespace and wasted real estate; participants suggested using it for more above‑the‑fold content (P3).
 Confusion between “My VA” vs “Profile” and overlap with My HealtheVet — participants suggested renaming (see section below) and clearer labels (P3, P4, P6, P13).
 Evidence level: strong.
+
 Claims & appeals card variants
 What participants liked
 The “step X of Y” indicator (option B style) and status bar were repeatedly singled out as very valuable — it reduces uncertainty about progress (P5, P10, P11, P13).
@@ -64,27 +68,33 @@ Problems & pain points
 Confusion for less‑web‑savvy users between “My VA” vs “Profile” vs “My HealtheVet.” Some suggested “My VA Dashboard” or simply “Dashboard” or “My Dashboard” — “My VA Dashboard” performed well as descriptive (P3, P4, P5, P6).
 Participants want “Profile settings” only if it truly contains view settings; otherwise “Profile” is fine (P4).
 Evidence level: consistent.
+
 Payments & debts language & placement
 Problems & pain points
 The word “debt” causes anxiety and anxiety‑driven reactions. Participants want payments/debts to be higher on the page and/or labeled in ways that are less alarming (e.g., “Payments & balances” or “Payment history” + a clear indicator for amounts due) (P3, P13).
 Some wanted upcoming payments visible in the notifications drawer (P3).
 Evidence level: clear theme from multiple participants.
+
 Letters & documents (verification letters)
 Problems & pain points
 Participants need easy access to letters for verification (e.g., income/disability letters) and expect a clear “Letters & Documents” place. They also want the ability to find verification letters quickly (P13).
 Evidence level: recurring.
+
 Mobile vs desktop differences, and app limitations
 Observations
 Many participants primarily use phone/app; a number use desktop (split). Several mentioned features available in the browser or My HealtheVet app that are missing or awkward in the VA app (ordering device parts, paying bills) (P5, P6, P11).
 Evidence level: consistent.
+
 Personalization & ordering
 Mixed opinions
 Some participants liked the idea of reordering dashboard sections to suit personal priorities; others thought filters/notifications make it less necessary. Several recommended a low‑effort solution like client‑side reordering (cookie/local storage) if inexpensive (P3).
 Evidence level: mixed but actionable.
+
 Copy clarity & microcopy
 Problems & pain points
 Copy such as “Messages” vs “Secure Messaging,” “Manage health appointments” vs “Change/Cancel appointment” caused confusion. Better descriptive labels and short descriptions would reduce uncertainty (many).
 Evidence level: widespread.
+
 Recommendations (prioritized: Quick wins → Mid → Long‑term). Each recommendation includes rationale and rough effort signal.
 
 High‑impact, low‑effort (Quick wins)
