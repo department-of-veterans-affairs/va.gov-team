@@ -1,5 +1,5 @@
 ---
-title: "FMP Claims Content Comprehension Study Research FindingsVA Form 10-7959f-2, October 2025"
+title: "FMP Claims Content Comprehension Study Research Findings, VA Form 10-7959f-2, October 2025"
 product: "Product Name"
 team: "Health Applications"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
@@ -92,15 +92,13 @@ synthesis_tools_used:
   - "Affinity Mapping"
 ---
 
-<br>**This is a template, PLEASE MAKE A COPY**
-
 ---
 
-# [Study] Research Findings 
+# [FMP Claims Content Comprehension Study, VA Form 10-7959f-2] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-**Date:** MM/DD/YYYY
+**Date:** November 2025
 
 **Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
 
@@ -122,8 +120,10 @@ synthesis_tools_used:
 - [Research participants](#user-content-research-participants)
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+
+1. Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
+2. Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
+3. Gain insight into any improvements that could be made to increase clairity of the direct deposit process understanding for FMP claims for reimbursement.
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
@@ -133,34 +133,33 @@ synthesis_tools_used:
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
-
-* Question 1
-* Question 2
-* Question 3
-
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+- How do Veterans react to the direct deposit informational alert on the introduction page?
+- Do Veterans most often click to the static page to "learn how to setup" or do they stay in the form flow?
+- Do Veterans confuse or quickly assume that their bank account information for FMP is the same as what they use for disability compensation?
+- Do Veterans express frustration about the separate direct deposit setup process for FMP claims and if so, what is their biggest pain point?
+- Do any Veterans say the direct deposit process mentioned in the content would be a blocker for them in filing online?
+- How confident are Veterans in their understanding to set up direct deposit for FMP claims?
 
 ## Methodology 
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Semi-structured moderated interviews with a mid-fidelity Figma prototype  
+- Method: Semi-structured moderated interviews with a mid-fidelity Figma prototype  
 
 
 ## Hypotheses and Conclusions
 
 *List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
 
-- **Hypothesis Statement:** [Insert statement]  
+- **Hypothesis Statement:** We assume that overall there will be some confusion about direct deposit being a separate process than what is used for VA Benefits when Veterans are filing an FMP claim. 
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
 
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
+- **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
+  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
+  - Supporting evidence  
 
 ## Key Findings
 
