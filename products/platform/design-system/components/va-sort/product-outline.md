@@ -14,7 +14,12 @@
 - Link to properties / architecture document
 
 ## Summary
-- Description of component 
+Users need a way to filter and sort information such as search results, long lists (ie. facilities, providers), and data sets so that they can find relevant information quickly and easily.
+
+- The Filter action allows a user to narrow down results using multiple attributes.
+- The Sort action allows a user to reorder a fixed list of information. The Sort action does not change any information, it simply reorders it based on the users preference.
+
+
   
 ## Purpose & Context
 - What problem does this component solve?
