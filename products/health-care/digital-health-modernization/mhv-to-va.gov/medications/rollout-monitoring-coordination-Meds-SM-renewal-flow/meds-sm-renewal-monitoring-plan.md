@@ -35,14 +35,17 @@ Monitoring focuses on whether each of these steps performs reliably.
 
 ---
 
-## New flow URLs — *placeholders (engineering to confirm)*
+## URL unique parameters
 
-These URLs stem from:
+URL that Meds is using to redirect to Secure Messaging and trigger the renewal flow:
+```
+/my-health/secure-messages/new-message?prescriptionId=12345&redirectPath=%2Fmy-health%2Fmedications
+```
+The flow relies specifically on the query parameters:
+- `prescriptionId`
+- `redirectPath`
 
-- The “Send a renewal request message” link on the Meds list  
-- The same link on the Meds details page  
-- The SM screens that follow (care team selection + prefilled editor)  
-- **Any others? (TBD)**
+
 
 *These URLs will be needed for Medallia/VSignals configuration.*
 
