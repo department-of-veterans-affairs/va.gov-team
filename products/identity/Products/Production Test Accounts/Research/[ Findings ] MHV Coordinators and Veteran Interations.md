@@ -1,8 +1,16 @@
 # **Synopsis of Production Test Account (PTA) Research Findings**
 
-**Critical Role of PTAs in Training and Support**
+## **Overview**
 
-Production test accounts are essential tools for MHV Coordinators across all interviewed sites (Boston, Minneapolis, Maine, and New Hampshire VA). Coordinators unanimously rely on PTAs for staff training, particularly for secure messaging protocols and demonstrating the veteran-facing portal. When PTAs are unavailable, coordinators cancel scheduled trainings entirely, with one noting they had to reschedule multiple sessions and "renegotiate" with busy clinical staff when the system went down.
+**Who We Spoke To**
+
+For this research study, 5 MHV coordinators who leverage production test accounts and 1 additional MHV coordinator who did not use production test accounts were interviewed leveraging this [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Production%20Test%20Accounts/Research/%5BConversation%20Guide%20%5D%20MHV%20Coordinators%20-%20Training%20and%20Troubleshooting.md).
+
+**Critical Role of PTAs in Training Clinical and Support Staff**
+
+MHV coordinators reported that they are provide training to clinical and support staff like physicians, nurses and office administrators.  When they have no other options, production test accounts become essential tools to support this job function across the various sites covered by the coordinators we spoke to (Boston, Minneapolis, Maine, and New Hampshire VA). The coordinator who does not use these PTAs for training leverages her own personal account to train staff (presenting a big personal risk of exposing PII and compromising her own medical records). 
+
+In order to properly train staff, coordinators simulate an interaction from the patient side so that the clinical staff can see what their patients see.  This is particularly important for secure messaging protocols and prescription refills since most staff will not be able to see the patient side user interface. When PTAs were unavailable due to technical reasons a few months ago, coordinators were forced to cancel scheduled trainings entirely, with one noting they had to reschedule multiple sessions and renegotiate available training times with busy clinical staff when the system went down.
 
 **Primary Use Cases**
 
@@ -25,7 +33,7 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 * Veterans need to practice on their actual accounts to retain the knowledge  
 * Using PTAs doesn't help with the \#1 problem: login credential issues  
 * Veterans can't access PTAs at home, so showing them PTA workflows is less helpful  
-* Privacy concerns: one coordinator noted discomfort "navigating somebody else's information, even for a demo" (P1)
+* Privacy concerns: one coordinator noted discomfort "navigating somebody else's information, even for a demo." (P1)
 
 **The Exception: Remote Support**
 
@@ -108,7 +116,7 @@ As P5 emphatically stated: **"When they said there was a rumor that the test pat
 
 ---
 
-### H6: Leveraging PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.**
+### H5: Leveraging PTAs for training correlates positively with Veteran self-sufficiency in both healthcare workflows.**
 
 \*\*FINDING: UNCONFIRMED (Insufficient Evidence)
 
