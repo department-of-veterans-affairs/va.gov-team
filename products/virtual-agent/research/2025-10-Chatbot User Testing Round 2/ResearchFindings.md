@@ -297,8 +297,12 @@ Mural, Copilot
 
 https://dev.va.gov/contact-us/virtual-agent/
 
+<details>
 
-## Secondary research 
+<summary>Secondary research</summary>
+
+---
+
 It is worth noting that there was [ample research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research) for the virtual-agent product and the team includes developers from this product team. The finding from the first round of moderated user testing that was completed in July & August of 2025 can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ResearchFindings.md). All of this user research and feedback has been applied to proof of concept version of the chatbot that users will be using for this round of testing.
 
 ---
@@ -367,6 +371,7 @@ Reference: [Integration of GenAI into VA Chatbot](https://github.com/department-
 	- User's ability to detect hallucinations
 	- Recommended monitoring mechanisms for production
 
+ </details>
    
 ### Research participants 
 
@@ -410,20 +415,21 @@ We talked to 17 participants.
 We had 5 no-show participants.
 
 Audience segment:
-* Veterans: 13
-* Caregivers: 3
+* Veterans: 16
+* Caregivers: 1
 * Family members of a Veteran: 1
+* All 3 (Veteran, Caregiver, Family Member):4 
 
 
 Gender:
-* Male: 10
-* Female: 7
+* Male: 12
+* Female: 10
 
 
 LGBTQ+:
-* Transgender: 1
+* Transgender: 2
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
-* Gay, lesbian, or bisexual: 2
+* Gay, lesbian, or bisexual: 4
 
 
 Devices used during study: 
@@ -435,45 +441,45 @@ Devices used during study:
 
 Age:
 * 25-34: 1
-* 35-44: 4
-* 45-54: 3
-* 55-64: 3
-* 65+: 6
+* 35-44: 6
+* 45-54: 4
+* 55-64: 4
+* 65+: 7
 * Unknown: 0
 
 
 Education:
-* High school degree or equivalent: 1
-* Some college (no degree): 3
+* High school degree or equivalent: 2
+* Some college (no degree): 4
 * Associate's degree, trade certificate or vocational training: 1
-* Bachelor's degree: 6
-* Master's degree: 6
+* Bachelor's degree: 8
+* Master's degree: 7
 * Doctorate degree: 0
 * Unknown: 0
 
 
 Geographic location:
-* Urban: 11
+* Urban: 16
 * Rural: 6
 * Unknown: 0
 
 
 Race:
-* White: 3
-* Black: 5
-* Hispanic: 2
-* Biracial: 5
+* White: 4
+* Black: 7
+* Hispanic: 3
+* Biracial: 6
 * Asian: 1
 * Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: 0
+* Cognitive: 14
 * AT beginner: 0
 * AT advanced user: 0
 * Desktop screen reader: 1
 * Mobile screen reader: 0
-* Magnification/Zoom: 0
+* Magnification/Zoom: 1
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
 * Hearing aids: 0
 * Sighted keyboard: 0
@@ -481,23 +487,11 @@ Disability and Assistive Technology (AT):
 
 
 #### Underserved groups we haven’t talked to 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Expatriot 
+* Mobile User
+* Other than honorable discharge 
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/Demographics.png)
 
