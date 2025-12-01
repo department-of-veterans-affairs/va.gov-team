@@ -29,7 +29,7 @@ As a Veteran, I want [ ], so that [ ].
 ---
 ## Acceptance Criteria/Definition of Done
 -  _What will be created or happen as a result of this story?_
-- [ ] Is featue flag enables (if applicable)
+- [ ] Is featue flag enabled (if applicable)
 - [ ] Required steps in Collaboration will be completed
 - [ ] Decisions will be documented
 - [ ] Related product, design, and technical documentation will be updated
