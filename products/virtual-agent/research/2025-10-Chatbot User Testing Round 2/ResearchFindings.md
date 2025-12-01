@@ -141,239 +141,343 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 `3.` **Improve the design by finding pain points in the current proof of concept designs to accomidate any/all level of users.** 
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
 
-* Question 1
-* Question 2
-* Question 3
+1. Is the chatbot design easy to use and understand for users of all technical ability?
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+2. Are users able to find answers to simple questions without authentication?
+
+3. Are the disclaimers and warnings timely and useful?
+
+4. Are users getting frustrated if questions are not properly answered?
+
+5. Are the lenghts of answers appropriate?
+
+6. How can we improve design?
+
+7. Are interactions quick and get the user to their intended destination in a timely manner?
+
+8. How does the chatbot impact Veterans’ perceptions of VA digital services?
+
+9. What prevents users from trying or returning to the chatbot?
+
+10. Are there differences in experience based on device type or internet access?
+
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+For round 2 of research we will be conducting two differnt methods of research. The first will be hour long moderated usability testing using Veterans recruited from Perigean. The second method will be to recruit internal Veterans from within VA by using a survey to select the users. Those users will then be give 2 weeks to test the chatbot and use it as any user would, after which we will hold qualitative focus group feedback sessions in small 5-7 person groups.
 
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+- Method 1: Moderated usability sessions 
+- Method 2: Unmoderated testing followed by focus group feedback  (Begins DEC 1 2025)
 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
+**Hypothesis Statement:**
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+1. By utilitzing LLM and/or AI in the current proof of concept, the chatbot will accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with test subjects and responding to feedback.
+    1. TRUE: The chatbot is generally appreciated for concise answers by users.  When given follow up questions such as "Did this answer make sense?" or "Was all information provided?" or "Was it easy or difficult to find what you needed?", the overwhelming majority of users had little to no problem getting the chatbot to answer their question. 
+1. The answers will be clear, trustworty and channel agnostic. 
+    1. TRUE: The chatbot is generally well-received and praised for its clarity by test participants.  Most found the format easy to scan/read, crediting bullet points, links, and breaks in information. None of the participants that were tested said that they felt confused nor did they feel that the chatbot provided innacurate or incorrect answers during their sessions. All of them said they trusted the answers and would have no issue using the instructions given in a real-life situation. 
+1. Ratings on the scoring matrix for accuracy, clarity, completeness and cognitive load will be 4.2 or above. 
+    1. TRUE: Overall satisfaction for all categories was 4.8/5
+1. The chatbot will ask relevant follow up questions if needed.
+    1. MAYBE TRUE:  For some tasks the chatbot was able to ask pertinent follow up questions.  However, in some instances the chatbot hallucinated giving no answer at all or giving only partial information. Many found that rephrasing their question improved responses; the bot sometimes required "more details" to give specific guidance.
+1. Compared to other options, users would prefer getting an answer from a chatbot instead of calling VA or talking to a VSO.
+    1. TRUE: Efficiency was praised compared to traditional support (“I liked that I didn’t have to wait on hold”). Most user pointed out that the quick answers from the chatbot were preferred to other options and it was also noted that the load time was minimal for the chatbot to produce the desired answers
 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Users had no problem finding the answers to their questions very quickly.
+1. There needs to be further refinement on clarifying questions.
+1. There are serious issues with accessability for users that require screen readers.
+1. The chatbot is seen by users as accurate, clear, complete and easy to understand.
+1. Only direct links should be used in answers to avoide confusion by users.
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
 ### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
-
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+Users had no problem finding the answers to their questions very quickly.  Only 1 of the 17 users had trouble with finding the exact answers that they needed, and that was due to issues with the accessability of the chatbot.
+“It was easy, because all the information I need is sitting right in front of me, and then there’s the link to just log on and create that account...” — Session 13, Veteran
+“Chatbot is more efficient than phone calls” (several sessions)
 
 ### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+There needs to be further refinement on clarifying questions. While some users who seemed comfortable with the technology were able to rephrase questions to find the desired answers, some users became stuck and said they might give up and have to call the 800 number.  
+“...At points, I felt stuck—it kept asking me to clarify my question.” — Session 16
+“Would call support/VA if stuck” (Fallback behavior after chatbot use)
+
+### Finding 3
+There are serious issues with accessability for users that require screen readers.  The user that was using JAWS had a very tough time getting to the answer after he typed in his question.  
+“When you've accomplished something, if you've got an answer to something...You feel more confident. But if you're in the land of asking one question, and you're not me going on something else...it's not only frustrating but you feel like what am I doing wrong?” — Session 8, visually impaired Veteran using JAWS
+
+### Finding 4
+The chatbot is seen by users as accurate, clear, complete and easy to understand.
+| Category       | Average Score |
+|----------------|--------------|
+| Accuracy       | 4.7          |
+| Clarity        | 4.3          |
+| Completeness   | 4.7          |
+| Cognitive Load | 4.7          |
+
+Overall average of 4.8 rating on all 4 categories.
+
+### Finding 5
+Only direct links should be used in answers to avoide confusion by users. Numerous answers talk about login.gov or id.me and when using those in the answer they are hyperlinked, which causes the users to click on them.  However, further down the answer the direct link with the exact page they need is usually found.  To avoid unwanted clicks and user confusion, only make the direct page with the anser hyperlinked instead of when the website is being referenced.
+
 
 ---
 
 ## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+- Choice Overload: Some feedback that too much detail or too many steps can overwhelm or slow the process.
+- Many users liked the layout with helpful bullet points and hyperlinks. They added it made the answers easy to read. 
+- User Mental Models: Many phrased their questions conversationally (not always matching search intent), expecting the chatbot to infer context. Most recognized quickly that the more details they provided, the better/clearer answer they received (“Chatbot only gives as much as you give it”). Some expressed annoyance at this, preferring one-and-done answers.
+- Choice Overload: Some feedback that too much detail or too many steps can overwhelm or slow the process.
+- “If I can't find it on the VA site, I'll Google it”  — Session 1 participant (illustrating common fallback behavior).
 
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
-
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+1. Clarifying Questions: Participants want fewer generic “please clarify” prompts; chatbot should proactively guide users to rephrase or select from options.
+1. Accessibility: Session 8 and feedback from visually impaired participants highlight need for streamlined navigation (screen reader "click" cues, skip navigation), clearer input guidance, and more auditory feedback.
+1. Expected Placement: The majority expect the chatbot widget in the bottom right corner (industry standard), or “prominent” top placement. Some suggested persistent/floating widget for access from any page.
+1. Reduce Overload, Strengthen Formatting: Continue using bullet points, separate/link out long content; offer options for more/less detail.
+1. Fallback to Human Help: Make “talk to agent” or “call support” obvious after failed chatbot scenarios (especially for lockout or authentication).
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
 
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+This research supports our desired user outcome by giving users answers to their questions in a fast and efficient manner.  By having high confidence and resolution scores, Veterans are more likely to use the chatbot to answer their questions.
  
 ### Desired Business Outcome
-This research supports our desired business outcome by....
+This research supports our desired business outcome by reducing the number of calls to VA call centers. 
 
 
 ## Key Performance Indicators
+The results of this user research directly align with the following areas of KPI: 
+- Resolution Rate: High—Most participants reported being able to resolve issues (average 4.7/5 confidence in task execution).
+- First Contact Resolution: Average participant required 1-2 rephrasings per scenario to get a tailored answer, indicating room for improvement.
+- User Satisfaction: 4.8/5 (average), consistent with Domo-reported satisfaction goals.
+- Time to Resolution: Chatbot outperformed phone support in speed; delays only occurred when clarification was needed.
 
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
 
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+- Work on clarifying questions
+- Improve accessibility, especially for screenreaders
+- Make chatbot ubiquidous and easy to find
+- Give an option for human agent if user becomes frustrated or lost
 
 
 ## Further research needed
-
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+1. Expand Testing for Non-English Speakers and Rural Users: No explicit feedback collected from these groups; future sessions should target these demographics.
+1. Expand Testing to User with Cognitive Disabilities: No users from this demographic have been tested and gaining insight from these users is important.
+1. Expand Testing to Mobile and Tablets: No data has been collected from users on these types of devices.
+1. Expand Testing to Include More Users With Assistive Technology: To date, only 2 users of his demographic have been tested.
 
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/Chatbot%20PoC%20Initiative.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ResearchPlan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ConversationGuide(PerigeanVets).md)
+- [AI Overvirew of transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/Copilot%20analysis.md)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+Mural, Copilot
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+https://dev.va.gov/contact-us/virtual-agent/
 
 
-### Other supporting documents created
+## Secondary research 
+It is worth noting that there was [ample research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research) for the virtual-agent product and the team includes developers from this product team. The finding from the first round of moderated user testing that was completed in July & August of 2025 can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ResearchFindings.md). All of this user research and feedback has been applied to proof of concept version of the chatbot that users will be using for this round of testing.
 
-*Include links to additional materials, e.g., personas, user flows.*  
+---
 
+### Controlled Study Research (2021-2022)
+**Reference:** [Controlled Study Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0628484c84ed3a8cae1819ee9a0f5895dd2c7cda/products/virtual-agent/research/controlled-study/research-report.md)
 
-### Secondary research
+**Key Findings:**
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- Veterans expect the chatbot cannot answer in-depth questions (appropriate expectation-setting)
+- Accuracy shapes trust more than personality/tone
+- Veterans were willing to attempt authentication to get personalized answers (builds case for future authenticated features)
+- Unauthenticated mode inadequate for task completion
 
+**Implications for Round 2:**
+
+- Round 2 should explicitly manage expectations: Include disclaimer messaging testing (RQ3)
+- Focus metrics on accuracy impact on trust, not just accuracy alone
+- Consider future research on authenticated chatbot experience (currently out of scope)
+
+### Sign-In Support Research (January 2023)
+Reference: [Previous research on Sign In Support feature](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/signin-support) — 12 remote, moderated sessions
+
+**Strategic Connection:**
+
+- Sign-in was a major use case in prior research
+- Current Round 2 focus on unauthenticated use may underexploit learnings from auth flow testing
+- Round 2 could include screening question: "Have you tried the sign-in feature?" to measure adoption
+
+### Chatbot Placement Research (August-September 2022)
+Reference: [Chatbot Placement Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/chatbot-placement.md) and [Move the Chatbot Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/move-the-chatbot)
+
+**Key Findings:**
+
+- Veterans expect chatbot in lower right corner (web convention)
+- Discoverability on Contact Us page alone is limiting factor
+- Screen reader users need skip links and proper ARIA labels
+  
+**Implications for Round 2:**
+
+- RQ10 (device/access differences) should incorporate accessibility learnings:
+	- Test with screen reader users using conversation guide questions specific to ARIA implementation
+	- Validate skip link functionality
+
+### Prescriptions Skill Research (June-October 2023)
+Reference: [Prescriptions initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/prescriptions) — Multiple rounds: Entries/Exits (5 sessions), Skill Prototype (6 sessions), Screenreader testing (1 session)
+
+**Strategic Insight:**
+
+- Multi-round testing approach similar to current Round 1 → Round 2 progression
+- Prescriptions feature ultimately required live agent handoff for complex troubleshooting
+- Implication: Round 2 should measure handoff clarity and escalation triggers
+
+### GenAI Integration Decision Architecture (2025)
+Reference: [Integration of GenAI into VA Chatbot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/0903ee278ed9a3671866df1b2a132fd5314788bf/products/virtual-agent/product/genai.md)
+
+**Critical Finding:**
+
+> "The simple RAG-based PoC was found to produce too many hallucinations to be fit for purpose."
+
+**Strategic Implication for Round 2:**
+
+- Round 2 hypothesis assumes LLM improves accuracy, but this architecture document warns of hallucination risks
+- Round 2 should include explicit hallucination detection metrics:
+	- Percentage of responses containing factually incorrect information
+	- User's ability to detect hallucinations
+	- Recommended monitoring mechanisms for production
+
+   
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- `Veterans:` **[15]**
+- `Caregivers:` **[3]**
+- `Dependents:` **[2]**
+- `Total:` **[20]**
+- `Ideal completed sessions:` **[18]**
+- `Minimum completed sessions:` **[10]**
+
+### Primary criteria (must-haves)
+
+- `At least 3 of 20 people must be women`
+- `At least 4 of 20 people must identify as Black or African American`
+- `At least 4 of 20 people must identify as Hispanic/Latina/Latinx`
+- `At least 3 of 20 people must identify as Asian`
+- `At least 1 of 20 people must identify as Native, American Indian or Alaska Native`
+- `At least 1 of 20 people must identify as Native Hawaiian or Pacific Islander`
+- `At least 8 of 20 people must identify as having a cognitive disability`
+- `At least 10 of 20 people must be over the age of 55`
+
+#### Secondary criteria (nice-to-haves)
+
+- `At least 3 of 20 Veterans have been out of service for less than 1 year`
+- `At least 5 of 20 Veterans have a yearly household income of $49,000 or less`
+- `At least 4 of 20 people must live in rural areas`
+- `At least 3 of 20 people must have no degree`
+- `At least 1 of 20 people must be an expatriate`
+- `At least 3 of 20 people must have been discharged with a designation other than honorable`
+- `At least 2 of 20 people must identify as being born outside of the US`
+- `At least 3 of 20 people must identify as gay, lesbian or bisexual`
+- `At least 2 of 20 people must identify as transgender`
+- `At least 2 of 20 people must identify as nonbinary, gender fluid, gender queer or two spirit`
+- `At least 2 of 20 people must use assistive technology to help them complete the user study`
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to 17 participants.
+We had 5 no-show participants.
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 13
+* Caregivers: 3
+* Family members of a Veteran: 1
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 10
+* Female: 7
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 1
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 1
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 17
+* Tablet: 0
+* Smart phone: 0
+* Assistive Technology: 1
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 4
+* 45-54: 3
+* 55-64: 3
+* 65+: 6
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 1
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 6
+* Master's degree: 6
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 11
+* Rural: 6
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 3
+* Black: 5
+* Hispanic: 2
+* Biracial: 5
+* Asian: 1
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 0
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 1
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 #### Underserved groups we haven’t talked to 
@@ -401,13 +505,8 @@ _List all groups in red from the spreadsheet_
 
 #### A more accessible version of the table in the above image
 
-### Recruitment of underserved groups in [Study name]
+### Recruitment of underserved groups in Chatbot User Testing
 
 ➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
 
-
-
-Summarize and examine all 17 uploaded files and give an accurate and complete summary of the data therein.  Give an average rating of the 1-5 sliding scale questions.  Find the items that participants had the most trouble with.  Point out memorable quotes with attributed particpant who quoted this, popular and repeated phrases and sentiments and give an overall detailed analysis of the data from these transcripts. I also request that the data source statements be fact-checked before they appear in any summary. Review for stray range statements or other possible artifacts that may drift in during drafting.
-
-Include information that breaks down the number of each category interviewed.  That is, how many venterans, how many caregivers, how many dependants.  Analyze and compare/contrast those answers in relation to the entire summary previously given. 
 
