@@ -115,7 +115,7 @@ Since participants struggled with understanding the two supporting evidence uplo
 2. Add accordions and additional information design components to support the hierarchy of instructional content  
    1. Since there will be more instructional and supporting content on the upload pages, we recommend strategically placing accordions and additional information design components. These will help Veteran comprehension by decreasing information overload.   
 3. Update the upload component   
-   1. The current upload component is V1, and was identified in the Midpoint Review as a launch blocker. We recommend updating it to the V3 component, however, that component will need to be customized to include a document type dropdown so that Veterans can label their uploaded document. 
+   1. The current upload component is V1, and was identified in the Midpoint Review as a launch blocker. We recommend updating it to the V3 component, however, that component will need to be updated to include the additional field dropdown so that Veterans can select the document type for their uploaded document. 
 
 ### **Finding #2: The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.**
 
@@ -155,13 +155,13 @@ This is the first page of the prototype where participants are asked to take the
 
 ### **Finding #5: 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.**
 
-The intent of this section is to collect information about medical centers in which the Veteran received treatment so the VA can request treatment records on their behalf. 6 out of 10 participants believed that selecting “yes” would lead to a workflow that would involve them uploading or submitting treatment records or adding information about behavior changes. 
+The intent of this section is to collect information about medical centers in which the Veteran received treatment so the VA can request treatment records on their behalf (or for the Veteran to be able to upload treatment records from a private medical center, if they prefer that route). 6 out of 10 participants believed that selecting “yes” would lead to a workflow that would involve them uploading or submitting treatment records or adding information about behavior changes. 
 
 * *“If \[you select\] yes, you’re submitting your claim records, if \[you select\] no, you’re not submitting anything.” – P3*  
 * *“Nowhere here links me to where I can go get that information.” – P9*  
 * *“It asks for treatment records but not what ones to provide.” – P11*
 
-**Recommendation:** The current content does not communicate expectations about what exactly will be happening on the following screens. We recommend that the content be reframed to specify that the Veteran will be providing information about the medical centers in which they were treated, so that the VA can get access to all of their treatment records. 
+**Recommendation:** The current content does not communicate expectations about what exactly will be happening on the following screens. We recommend that the content be reframed to specify that the Veteran will be providing information about the medical centers in which they were treated, so that the VA can get access to all of their treatment records. This finding also supports implementing the recommendation from finding #2; we believe that the list and loop will further support Veterans in understanding what to expect next.   
 
 
 ```Page 3: Decision page for mental health documents```
