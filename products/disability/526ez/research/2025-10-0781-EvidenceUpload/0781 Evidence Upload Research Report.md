@@ -99,10 +99,13 @@ One participant questioned why she had to upload mental health documents separat
 
 * *“I don't know which \[documents\] would go with which conditions, specifically a mental health condition, because a physical condition may be causing a mental health condition.” – P5*
 
-<img src="images/PrototypeChange.png" align="left" width="150"> For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents) (see image to the left). We wanted to see if making it more obvious would make the instructions clearer. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.
-**“Additional benefits…I don’t know what that means.” – P10*  
-**“I thought, we're on to the next one, and we're just doing the same process over again, and I don't feel like that's what's happening. I feel like the bullet points changed…” – P10*
+<img src="images/PrototypeChange.png" align="left" width="100" style="margin-right: 20px;">
 
+For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents) (see image to the left). We wanted to see if making it more obvious would make the instructions clearer. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.<br>
+* *“Additional benefits…I don’t know what that means.” – P10*  </ul></li>
+* *“I thought, we're on to the next one, and we're just doing the same process over again, and I don't feel like that's what's happening. I feel like the bullet points changed…” – P10*</ul></li>
+
+<Br><br><br><Br>
 **Recommendation:**  
 
 Since participants struggled with understanding the two supporting evidence upload sections, we recommend maintaining the current process of having one page for uploading supporting documents. We recommend making changes that support content comprehension. 
