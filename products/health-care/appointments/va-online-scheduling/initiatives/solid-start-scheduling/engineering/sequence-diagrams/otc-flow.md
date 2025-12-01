@@ -22,6 +22,7 @@ sequenceDiagram
     vetsApi->>vassBackend: Fetch available times
     vassBackend-->>vetsApi: Return availability data
     vetsApi-->>vetsWebsite: Return availability
+    vetsWebsite-->user: Display calendar with available slots
     user->>vetsWebsite: Select preferred time slot
 
     %% Step 4: Agent skills
@@ -29,8 +30,9 @@ sequenceDiagram
     vetsApi->>vassBackend: Fetch agent skills
     vassBackend-->>vetsApi: Return agent skills
     vetsApi-->>vetsWebsite: Return agent skills
+    vetsWebsite-->>user: Display agent skills
     user->>vetsWebsite: Select agent skills
-    vetsWebsite->>vetsWebsite: Display review page
+    vetsWebsite->>vetsWebsite: Continue to review page
 
     %% Step 5: Confirm appointment
     user->>vetsWebsite: Submits appointment 
@@ -67,6 +69,7 @@ sequenceDiagram
     vetsApi->>vassBackend: Get appointment details
     vassBackend-->>vetsApi: Return appointment details
     vetsApi-->>vetsWebsite: Return appointment details
+    vetsWebsite-->>user: Display appointment details
     user->>vetsWebsite: Click cancel button
 
     %% Step 4: Cancel appointment
