@@ -34,7 +34,7 @@ curl -G "https://search.usa.gov/api/v2/search/i14y" \
 ```
 3. Check Search APM in datadog for the [SearchController resource](https://vagov.ddog-gov.com/apm/resource/search/rack.request/72b7d62abdbc2323?query=env%3Aeks-prod%20operation_name%3Arack.request%20service%3Asearch&env=eks-prod&summary=qson%3A%28data%3A%28visible%3A%21t%2Cchanges%3A%28%29%2Cerrors%3A%28selected%3Acount%29%2Chits%3A%28selected%3Acount%29%2Clatency%3A%28selected%3Alatency%2Cslot%3A%28agg%3A95%29%2Cdistribution%3A%28isLogScale%3A%21f%29%2CshowTraceOutliers%3A%21t%29%2Csublayer%3A%28slot%3A%28layers%3AserviceAndInferred%29%2Cselected%3Apercentage%29%2ClagMetrics%3A%28selectedMetric%3A%21s%2CselectedGroupBy%3A%21s%29%29%2Cversion%3A%211%29&traces=qson%3A%28data%3A%28%29%2Cversion%3A%210%29&start=1740501980089&end=1740505580089&paused=false). Narrow to the error window, and under "Deployments" check the Error Rate column. If error rate is >40%: 
     - Enable the Search maintenance flipper: https://api.va.gov/flipper/features/search_gov_maintenance
-    - Contact Search.gov: search@gsa.gov, cc PO / PM / DM. Include timing when outage started, and ask for any details about Search.gov outage or maintenance that might have led to our outage. 
+    - Contact Search.gov: search@gsa.gov, cc PO / PM / DM. (**CC Mikki on this request.**) Include timing when outage started, and ask for any details about Search.gov outage or maintenance that might have led to our outage. 
     
 
 ### VA.gov Might Be Experiencing Abnormal Usage Patterns
