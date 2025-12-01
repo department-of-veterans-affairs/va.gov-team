@@ -350,3 +350,39 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Recruitment Start:** 12/2/2025  
 - **Research Review Submission:** 12/1/2025  
 - **Study Duration:** 3–4 weeks (including synthesis and shareout)
+
+  ### Availability
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
+
+> [!NOTE]
+> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+
+> [!TIP]
+> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST)**
+>
+> **Place time slots between `hash marks` when in edit mode.**
+
+- '12/10, Wed, 10:00 AM EST'
+- `12/10, Wed, 12:00 PM EST`
+- `12/10, Wed, 3:30 PM EST`
+- '12/11, Thu, 10:00 AM EST'
+- `12/11, Thu, 12:00 PM EST`
+- `12/11, Thu, 3:30 PM EST`
+- `12/12, Fri, 10:00 AM EST`
+- `12/12, Fri, 12:00 PM EST`
+- `12/12, Fri, 3:30 PM EST`
+- '12/15, Mon, 10:00 AM EST'
+- `12/15, Mon, 12:00 PM EST`
+- `12/15, Mon, 3:30 PM EST`
+- `12/16, Tue, 10:00 AM EST`
+- `12/16, Tue, 12:00 PM EST`
+- `12/16, Tue, 3:30 PM EST`
+- '12/17, Wed, 10:00 AM EST'
+- `12/17, Wed, 12:00 PM EST`
+- `12/17, Wed, 3:30 PM EST`
+- `12/18, Thu, 10:00 AM EST`
+- `12/18, Thu, 12:00 PM EST`
+- `12/18, Thu, 3:30 PM EST`
+- `12/19, Fri, 10:00 AM EST`
+- `12/19, Fri, 12:00 PM EST`
+- `12/19, Fri, 3:30 PM EST`
