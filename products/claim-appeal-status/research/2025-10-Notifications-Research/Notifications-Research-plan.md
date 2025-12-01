@@ -386,3 +386,27 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `12/19, Fri, 10:00 AM EST`
 - `12/19, Fri, 12:00 PM EST`
 - `12/19, Fri, 4:00 PM EST`
+
+  ## Team Roles  🕵️👩‍💻👩‍🔬
+
+> [!NOTE]
+> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
+>
+> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+
+- `Moderator:` **Naomi Howe**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Naomi Howe**		
+- `Participant recruiting & screening:`	**Naomi Howe**	
+- `Project point of contact:` **Naomi Howe**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[N/A]**	
+- `Note-takers:` **Melissa Lefevre** 	
+- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+
+- **[Enter full name]**
+- **[Enter full name]**
+- **[Enter full name]**
+
+## Approvals ✅
+- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+
