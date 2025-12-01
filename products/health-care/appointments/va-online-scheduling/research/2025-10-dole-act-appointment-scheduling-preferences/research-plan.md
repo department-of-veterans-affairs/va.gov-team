@@ -79,7 +79,7 @@ participants:
   veterans: 18
   caregivers: 0
   dependents: 0
-  total_recruited: 22
+  total_recruited: 27
   completed_sessions_goal: 18
   
 # Timeline & Sessions
