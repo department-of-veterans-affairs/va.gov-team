@@ -188,6 +188,8 @@ For round 2 of research we will be conducting two differnt methods of research. 
     1. MAYBE TRUE:  For some tasks the chatbot was able to ask pertinent follow up questions.  However, in some instances the chatbot hallucinated giving no answer at all or giving only partial information. Many found that rephrasing their question improved responses; the bot sometimes required "more details" to give specific guidance.
 1. Compared to other options, users would prefer getting an answer from a chatbot instead of calling VA or talking to a VSO.
     1. TRUE: Efficiency was praised compared to traditional support (“I liked that I didn’t have to wait on hold”). Most user pointed out that the quick answers from the chatbot were preferred to other options and it was also noted that the load time was minimal for the chatbot to produce the desired answers
+1. Even with warnings about privacy information and AI making mistakes, users will still trust the chatbot.
+	1. TURE: All users appreciated privacy disclaimers, most refused to enter personal info on principle, and several wanted reassurance that responses were up-to-date and accurate for important matters (benefits, health, locked accounts).
 
 
 ## Key Findings
@@ -197,6 +199,7 @@ For round 2 of research we will be conducting two differnt methods of research. 
 1. There are serious issues with accessability for users that require screen readers.
 1. The chatbot is seen by users as accurate, clear, complete and easy to understand.
 1. Only direct links should be used in answers to avoide confusion by users.
+1. Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers
 
 ## Details of Findings 
 
@@ -228,6 +231,8 @@ Overall average of 4.6 rating on all 4 categories.
 ### Finding 5
 Only direct links should be used in answers to avoide confusion by users. Numerous answers talk about login.gov or id.me and when using those in the answer they are hyperlinked, which causes the users to click on them.  However, further down the answer the direct link with the exact page they need is usually found.  To avoid unwanted clicks and user confusion, only make the direct page with the anser hyperlinked instead of when the website is being referenced.
 
+### Finding 6
+Even with multiple disclaimers, user trustworthiness with the chatbot is 100%.  Despite the warnings about enetring privacy information and to double-check important information because AI makes mistakes, users still trust the chatbot. At the beginning of the chatbot, users are shown warnings that disuade them from entereind persnonal information before they can use the chatbot.  When asked specifially if they found this to be an issue, all 17 participants said this was an expected warning and did not deter them from using the chatbot. Users were also pointedly asked if an added warning about double-checking important information because AI can make mistakes would keep from them from using the chatbot and all 17 said that it would not effect how they use the chatbot.  
 
 ---
 
@@ -241,11 +246,12 @@ Only direct links should be used in answers to avoide confusion by users. Numero
 
 ## Recommendations
 
-1. Clarifying Questions: Participants want fewer generic “please clarify” prompts; chatbot should proactively guide users to rephrase or select from options.
 1. Accessibility: Session 8 and feedback from visually impaired participants highlight need for streamlined navigation (screen reader "click" cues, skip navigation), clearer input guidance, and more auditory feedback.
-1. Expected Placement: The majority expect the chatbot widget in the bottom right corner (industry standard), or “prominent” top placement. Some suggested persistent/floating widget for access from any page.
 1. Reduce Overload, Strengthen Formatting: Continue using bullet points, separate/link out long content; offer options for more/less detail.
 1. Fallback to Human Help: Make “talk to agent” or “call support” obvious after failed chatbot scenarios (especially for lockout or authentication).
+1. Expected Placement: The majority expect the chatbot widget in the bottom right corner (industry standard), or “prominent” top placement. Some suggested persistent/floating widget for access from any page.
+1. Clarifying Questions: Participants want fewer generic “please clarify” prompts; chatbot should proactively guide users to rephrase or select from options.
+1. Trust and Security: All users appreciated privacy disclaimers, most refused to enter personal info on principle, and several wanted reassurance that responses were up-to-date and accurate for important matters (benefits, health, locked accounts).
 
 ## Product User and Business Outcomes
 
@@ -268,15 +274,14 @@ The results of this user research directly align with the following areas of KPI
 
 ## Next Steps
 
-- Work on clarifying questions
 - Improve accessibility, especially for screenreaders
-- Make chatbot ubiquidous and easy to find
 - Give an option for human agent if user becomes frustrated or lost
-
+- Make chatbot ubiquidous and easy to find
+- Work on clarifying questions
 
 ## Further research needed
 1. Expand Testing for Non-English Speakers and Rural Users: No explicit feedback collected from these groups; future sessions should target these demographics.
-1. Expand Testing to User with Cognitive Disabilities: No users from this demographic have been tested and gaining insight from these users is important.
+1. Further Develop Personas: Use cases for dependants and caregivers need to be further explored with pertinant scenarios for those users.
 1. Expand Testing to Mobile and Tablets: No data has been collected from users on these types of devices.
 1. Expand Testing to Include More Users With Assistive Technology: To date, only 2 users of his demographic have been tested.
 
