@@ -38,7 +38,6 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 * Veterans need to practice on their actual accounts to retain the knowledge  
 * Using PTAs doesn't help with the \#1 problem: login credential issues  
 * Veterans can't access PTAs at home, so showing them PTA workflows is less helpful  
-* Privacy concerns: one coordinator noted discomfort "navigating somebody else's information, even for a demo." (P1)
 
 **The Exception: Remote Support**
 
