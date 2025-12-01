@@ -39,5 +39,16 @@ The VAHB app will include the radiology report/interpretation. However, images w
 - Authenticated browser experience via SSO
 - External link
 
+### Overview recommendation/strategy  
 
+**Lab and test results**, **Allergies**, and **Vaccines** should be retained within the app.
+
+**Medical imaging results** should be separated from **Lab and test results** as a distinct category.
+
+**Care summaries and notes** should be added. 
+
+--------------------------------------------
+Open questions
+
+Do we include Vitals and Health conditions? 
 
