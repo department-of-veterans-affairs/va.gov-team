@@ -31,7 +31,7 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 
 3. **Kiosk computers with veteran credentials** \- "We have a computer that's dedicated to the veterans...I make sure that they understand the steps before I let them leave my office" (P5)
 
-4. **Their own VA.gov accounts** \- "I will sign into my own VA.gov account, just because it's faster" (P3)
+4. **Their own VA.gov accounts** \- "I will sign into my own VA.gov account, just because it's faster." (P3)  
 
 **Why PTAs aren't used much for Veteran training:**
 
@@ -39,9 +39,9 @@ When working directly with veterans, coordinators overwhelmingly prefer to use:
 * Using PTAs doesn't help with the \#1 problem: login credential issues  
 * Veterans can't access PTAs at home, so showing them PTA workflows is less helpful  
 
-**The Exception: Remote Support**
+**The Exception: Training Materials**
 
-PTAs serve one important veteran-facing function: **creating screenshots and visual guides for remote support**. P1 described using PTAs to "go and do a screenshot, and then I put it in a secure message...with little arrows. I develop, like, a Word document, and, you know, click here, then this."
+PTAs serve one important veteran-facing function: **creating screenshots and visual guides for remote support**. P1 described using PTAs to "go and do a screenshot, and then I put it in a secure message...with little arrows. I develop, like, a Word document, and, you know, click here, then this."  However, coordinators rarely create their own training materials and are actively discouraged from creating these types of materials (P1) (P5).  The rationale for this is because the materials need to be standardized and the messaging consistent across the board.  
 
 ### Critical Importance: Staff Training
 
