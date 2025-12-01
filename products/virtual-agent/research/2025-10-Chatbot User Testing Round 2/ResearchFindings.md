@@ -182,8 +182,8 @@ For round 2 of research we will be conducting two differnt methods of research. 
     1. TRUE: The chatbot is generally appreciated for concise answers by users.  When given follow up questions such as "Did this answer make sense?" or "Was all information provided?" or "Was it easy or difficult to find what you needed?", the overwhelming majority of users had little to no problem getting the chatbot to answer their question. 
 1. The answers will be clear, trustworty and channel agnostic. 
     1. TRUE: The chatbot is generally well-received and praised for its clarity by test participants.  Most found the format easy to scan/read, crediting bullet points, links, and breaks in information. None of the participants that were tested said that they felt confused nor did they feel that the chatbot provided innacurate or incorrect answers during their sessions. All of them said they trusted the answers and would have no issue using the instructions given in a real-life situation. 
-1. Ratings on the scoring matrix for accuracy, clarity, completeness and cognitive load will be 4.2 or above. 
-    1. TRUE: Overall satisfaction for all categories was 4.8/5
+1. Ratings on the scoring matrix for accuracy, clarity, completeness and cognitive load will be 4.3 or above. 
+    1. TRUE: Overall satisfaction for all categories was 4.6/5
 1. The chatbot will ask relevant follow up questions if needed.
     1. MAYBE TRUE:  For some tasks the chatbot was able to ask pertinent follow up questions.  However, in some instances the chatbot hallucinated giving no answer at all or giving only partial information. Many found that rephrasing their question improved responses; the bot sometimes required "more details" to give specific guidance.
 1. Compared to other options, users would prefer getting an answer from a chatbot instead of calling VA or talking to a VSO.
@@ -223,7 +223,7 @@ The chatbot is seen by users as accurate, clear, complete and easy to understand
 | Completeness   | 4.7          |
 | Cognitive Load | 4.7          |
 
-Overall average of 4.8 rating on all 4 categories.
+Overall average of 4.6 rating on all 4 categories.
 
 ### Finding 5
 Only direct links should be used in answers to avoide confusion by users. Numerous answers talk about login.gov or id.me and when using those in the answer they are hyperlinked, which causes the users to click on them.  However, further down the answer the direct link with the exact page they need is usually found.  To avoid unwanted clicks and user confusion, only make the direct page with the anser hyperlinked instead of when the website is being referenced.
@@ -499,9 +499,7 @@ _List all groups in red from the spreadsheet_
 * Group 2
 * Group 3
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/Demographics.png)
 
 #### A more accessible version of the table in the above image
 
