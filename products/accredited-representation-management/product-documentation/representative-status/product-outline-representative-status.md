@@ -45,6 +45,9 @@ There is not currently an experience on VA.gov for users to understand their cur
 **Domo Dashboards**
 1. [Accredited Representation Managment](https://va-gov.domo.com/page/1897070864) - User trends for ARM products
 
+**Future Ideas for Measuring Success**
+1. Sign ins from the unauthenticated Widget are on-par or above the "standard" sign in rate for VA.gov
+
 ## **Release History**
 
 #### Version 1.0 (Widget MVP) | [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-1.0.md) and [Demo Video](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Representative%20Status%20Widget%20Demo.mp4?csf=1&web=1&e=nMo14H)
