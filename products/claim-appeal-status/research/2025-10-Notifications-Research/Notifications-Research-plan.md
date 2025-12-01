@@ -362,22 +362,22 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- '12/10, Wed, 10:00 AM EST'
+- `12/10, Wed, 10:00 AM EST`
 - `12/10, Wed, 12:00 PM EST`
 - `12/10, Wed, 4:00 PM EST`
-- '12/11, Thu, 10:00 AM EST'
+- `12/11, Thu, 10:00 AM EST`
 - `12/11, Thu, 12:00 PM EST`
 - `12/11, Thu, 2:00 PM EST`
 - `12/12, Fri, 10:00 AM EST`
 - `12/12, Fri, 12:00 PM EST`
 - `12/12, Fri, 4:00 PM EST`
-- '12/15, Mon, 10:00 AM EST'
+- `12/15, Mon, 10:00 AM EST`
 - `12/15, Mon, 12:00 PM EST`
 - `12/15, Mon, 4:00 PM EST`
 - `12/16, Tue, 10:00 AM EST`
 - `12/16, Tue, 12:00 PM EST`
 - `12/16, Tue, 4:00 PM EST`
-- '12/17, Wed, 10:00 AM EST'
+- `12/17, Wed, 10:00 AM EST`
 - `12/17, Wed, 12:00 PM EST`
 - `12/17, Wed, 4:00 PM EST`
 - `12/18, Thu, 10:00 AM EST`
