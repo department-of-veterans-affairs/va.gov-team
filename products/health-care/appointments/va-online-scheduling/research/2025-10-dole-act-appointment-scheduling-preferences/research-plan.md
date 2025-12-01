@@ -459,7 +459,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 | 12/11  | 8-12 and 2-4           | 10-12 and 2-6         |
 | 12/12  | 8-4              | 10-5             |
 | 12/15  | 8-4              | 10-6             |
-| **Min/Max sessions for a total of 24** | **6-12 sessions**  |**12-18 sessions**|
+| **Min/Max sessions for a total of 22** | **6-10 sessions**  |**12-18 sessions**|
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 
