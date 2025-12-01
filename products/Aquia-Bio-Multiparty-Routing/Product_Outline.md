@@ -18,7 +18,7 @@ This results in:
 
 ## Desired User Outcomes
 - Veterans can complete and sign their portion of a form and digitally route required sections to a third party (e.g., medical provider).  
-- Providers can securely access only their required form sections and sign digitally—without creating a VA account.  
+- Providers can securely access only their required form sections and sign digitally—with ID.me account
 - Users can track the status of their form (sent, received, completed, submitted).  
 - Veterans no longer need to print, mail, hand-carry, or scan multi-party forms.  
 - Errors and missing signatures are reduced automatically by guided digital input.
