@@ -54,7 +54,7 @@ To view the details of the ticket:
 After review of the issue description, we need to take a next action:
 * Provide a resolution if the cause is known
 * Request more information from the reporter if not enough information is included to investigate or understand the issue
-* Create a GitHub ticket for one of our development teams to further investigate
+* Create a GitHub ticket (See guidance below) for one of our development teams to further investigate
 * Reroute to the correct Tier 3 if the issue isn’t under MHV scope (this is rare as our Contact Center partners are pretty good about correctly routing)
 ### Provide a Resolution
 * Add the resolution message to the Case Notes field (e.g. temporary outage, the fix is live).
