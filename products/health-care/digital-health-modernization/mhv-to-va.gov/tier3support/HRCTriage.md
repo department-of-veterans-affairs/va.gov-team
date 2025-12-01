@@ -2,10 +2,6 @@
 ### Standard Operating Procedures
 
 
-## Overview
-The MHV Web and Mobile team is responsible for Tier 3 support for both the Veteran-facing queues and staff-facing queues. It is the expectation that items in these queues are reviewed and triaged every day.
-The Unified Appointments Experience team has their own Production Support representative (Brad Johnson) who manages Appointments items. We do not need to triage these.
-
 ## VA.gov/VAHB (HRC Dynamics)
 Records in Dynamics (i.e. tickets) bounce between Help Desk tiers as compared to tickets with multiple contributors adding comments and status changes like in JIRA or GitHub.
 ### MHV Tier 3 Queue
@@ -81,27 +77,7 @@ These are common resolution comment text that may be included in the responses.
 NOTE-The Help Desk representative may copy the returned notes verbatim to the Veteran. 
 
 
-## Staff/Clinician (ServiceNow)
-Ticket statuses:
-●	New - 
-●	In Progress - 
-●	On Hold - Pending another action
-○	Setting a ticket status to On Hold prevents the Enterprise Service Desk (Tier 1) from taking aging ticket actions - at least until the Follow Up Date.
-●	Resolved - Complete and no further action is required from MHV Tier 3
-●	Closed - SNOW system will automatically close a Resolved ticket after about 3 days
-●	Canceled - 
-
-### Resolution Comments
-These are common resolution comment text that may be included in the responses.
-* MHV Tier 3 Support does not manage SM triage group membership. For assistance, please contact your local MHV Coordinator (COORDINATOR CONTACT). No further assistance is needed by MHV Tier 3 so this ticket will be closed as resolved.
-For SCTASKS
-* If MHV Tier 3 support is needed in the future, please open as an INC ticket and not SCTASK ticket.
-
-
 ## Creating a Ticket for the Development Team
 ●	For Veteran-facing issues, start with a HRC New Issue 
-●	For staff/clinician issues, start with a SNOW New Issue 
-The GitHub issue template folder houses all of the files populating the templates when opening a new issue.
 ●	To update the HRC template, go to this file MHV-Tier-3-HRC.md
-●	To update the SNOW template, go to this file MHV-Tier-3-SNOW.md 
-## Post-Incident Ticket Management
+
