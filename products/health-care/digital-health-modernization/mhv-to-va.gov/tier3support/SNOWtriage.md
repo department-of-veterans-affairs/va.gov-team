@@ -20,7 +20,12 @@ For SCTASKS
 
 
 ## Creating a Ticket for the Development Team
-* For staff/clinician issues, start with a SNOW New Issue 
+* For staff/clinician issues, start with a SNOW New Issue
+* Make sure to add the correct MHV team project to ensure that the new ticket is visible on their board:
+  * MHV-Secure-Messaging
+  * MHV-Medical-Records
+  * MHV-Medications
+  * MHV-Liferay items
 The GitHub issue template folder houses all of the files populating the templates when opening a new issue.
 * To update the SNOW template, go to this file MHV-Tier-3-SNOW.md 
 
