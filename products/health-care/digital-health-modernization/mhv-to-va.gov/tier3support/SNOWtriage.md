@@ -26,6 +26,7 @@ For SCTASKS
   * MHV-Medical-Records
   * MHV-Medications
   * MHV-Liferay items
+
 The GitHub issue template folder houses all of the files populating the templates when opening a new issue.
 * To update the SNOW template, go to this file MHV-Tier-3-SNOW.md 
 
