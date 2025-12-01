@@ -337,6 +337,7 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Veterans:** 15 total recruited  
 - **Ideal Completed Sessions:** 10–12  
 
+- **Kick Off Call Request:**  12/3-12/5 12pm-2pm ET, 330-430pm ET
 ---
 
 ## Timeline
