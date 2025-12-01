@@ -18,7 +18,7 @@ This document outlines what we’ll be watching during and after the rollout.
 
 ---
 
-## Overview of the Meds → SM renewal flow
+## Overview of Meds → SM renewal flow
 
 The renewal flow guides Veterans through both Medications and Secure Messaging:
 
@@ -35,7 +35,7 @@ Monitoring focuses on whether each of these steps performs reliably.
 
 ---
 
-## URL unique parameters
+## URL params that trigger this flow
 
 URL that Meds is using to redirect to Secure Messaging and trigger the renewal flow:
 ```
