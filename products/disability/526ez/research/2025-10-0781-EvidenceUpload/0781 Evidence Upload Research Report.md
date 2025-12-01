@@ -95,14 +95,13 @@ Decision page for other documents: 8 out of 8 participants who saw the decision 
 * *“So you have a clinical records request from the VA…then you have a second supporting documents request, and now you have another documents request. Why is… so it's like a main, an other, and an other other?” –P8*  
 * *“Not sure why we’re talking about benefit forms there if it’s about claims and supporting docs. Might want to talk about benefits after you get the claim, not during the submission process. It could be confusing because you’re not done yet.” – P5*
 
-For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents). We wanted to see if making it more obvious would make the instructions clearer. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.
-
-* *“Additional benefits…I don’t know what that means.” – P10*  
-* *“I thought, we're on to the next one, and we're just doing the same process over again, and I don't feel like that's what's happening. I feel like the bullet points changed…” – P10*
-
 One participant questioned why she had to upload mental health documents separately from physical condition documents. They wanted to know where they would upload documents that don’t neatly fall into those two categories.
 
 * *“I don't know which \[documents\] would go with which conditions, specifically a mental health condition, because a physical condition may be causing a mental health condition.” – P5*
+
+<img src="images/PrototypeChange.png" align="left" width="150"> For the last 3 research sessions, we added labels that indicated to each decision page that said “condition: anxiety” for section two and “condition: arthritis” for section three (we did not call out the other documents) (see image to the left). We wanted to see if making it more obvious would make the instructions clearer. For those 3 participants, the distinction between the sections was clearer than it had been for the previous 7 participants, but they still struggled to understand why the form was asking for additional benefits and  supporting forms.
+**“Additional benefits…I don’t know what that means.” – P10*  
+**“I thought, we're on to the next one, and we're just doing the same process over again, and I don't feel like that's what's happening. I feel like the bullet points changed…” – P10*
 
 **Recommendation:**  
 
@@ -307,9 +306,9 @@ As participants went through the list of accepted documents, they suggested addi
 
 ### **Pages and applications used**
 
-* [Figma prototype](https://www.figma.com/design/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=803-39449&p=f&t=rVD38SF2BE1MWCxC-0) (“Prototype for research” tab)  
-  * Path 1: For those who have never applied before (includes screens to walk participants through the earlier pages of the application for orienting their understanding of where they are in the form)  
-  * Path 2: For those who have applied before (skips screens of the earlier pages of the application)
+* [Figma](https://www.figma.com/design/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=803-39449&p=f&t=rVD38SF2BE1MWCxC-0) (“Prototype for research” tab)  
+  * [Path 1 prototype:](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=1178-8038&t=K98xjgC6J6mVcyg4-0&scaling=min-zoom&content-scaling=fixed&page-id=803%3A39449&starting-point-node-id=1178%3A8038&show-proto-sidebar=1) For those who have never applied before (includes screens to walk participants through the earlier pages of the application for orienting their understanding of where they are in the form)  
+  * [Path 2 prototype:](https://www.figma.com/proto/9idAmDRkCyDwJ7hTemJgAV/0781---Evidence-Upload?node-id=1178-8048&t=K98xjgC6J6mVcyg4-0&scaling=min-zoom&content-scaling=fixed&page-id=803%3A39449&starting-point-node-id=1178%3A8048&show-proto-sidebar=1) For those who have applied before (skips screens of the earlier pages of the application)
 
 ### **Research participants**
 
