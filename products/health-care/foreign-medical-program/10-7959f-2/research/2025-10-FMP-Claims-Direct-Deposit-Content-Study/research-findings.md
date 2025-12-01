@@ -1,7 +1,7 @@
 ---
-title: "[Study] Research Findings"
+title: "FMP Claims Content Comprehension Study Research FindingsVA Form 10-7959f-2, October 2025"
 product: "Product Name"
-team: "Team Name"
+team: "Health Applications"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
 date: "YYYY-MM-DD"
 researchers:
@@ -145,10 +145,7 @@ synthesis_tools_used:
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+- Method 1: Semi-structured moderated interviews with a mid-fidelity Figma prototype  
 
 
 ## Hypotheses and Conclusions
