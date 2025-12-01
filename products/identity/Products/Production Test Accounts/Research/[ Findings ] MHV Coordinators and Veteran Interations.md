@@ -4,17 +4,20 @@
 
 **Who We Spoke To**
 
-For this research study, 5 MHV coordinators who leverage production test accounts and 1 additional MHV coordinator who did not use production test accounts were interviewed leveraging this [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Production%20Test%20Accounts/Research/%5BConversation%20Guide%20%5D%20MHV%20Coordinators%20-%20Training%20and%20Troubleshooting.md).
+For this research study, we spoke with 5 MHV coordinators who leverage production test accounts and 1 additional MHV coordinator who did not use production test accounts; these conversations were guided by the following [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Production%20Test%20Accounts/Research/%5B%20Research%20Plan%20%5D%20Demo%20Mode%20-%20Rx%20refill%20and%20Secure%20Messaging%20Training.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Production%20Test%20Accounts/Research/%5BConversation%20Guide%20%5D%20MHV%20Coordinators%20-%20Training%20and%20Troubleshooting.md).
 
 **Critical Role of PTAs in Training Clinical and Support Staff**
 
 MHV coordinators reported that they are provide training to clinical and support staff like physicians, nurses and office administrators.  When they have no other options, production test accounts become essential tools to support this job function across the various sites covered by the coordinators we spoke to (Boston, Minneapolis, Maine, and New Hampshire VA). The coordinator who does not use these PTAs for training leverages her own personal account to train staff (presenting a big personal risk of exposing PII and compromising her own medical records). 
 
-In order to properly train staff, coordinators simulate an interaction from the patient side so that the clinical staff can see what their patients see.  This is particularly important for secure messaging protocols and prescription refills since most staff will not be able to see the patient side user interface. When PTAs were unavailable due to technical reasons a few months ago, coordinators were forced to cancel scheduled trainings entirely, with one noting they had to reschedule multiple sessions and renegotiate available training times with busy clinical staff when the system went down.
+In order to properly train staff, coordinators simulate an interaction from the patient side so that the clinical staff can see what their patients see.  This is particularly important for secure messaging protocols and prescription refills since most staff will not be able to see the patient side user interface. When PTAs were unavailable due to technical reasons a few months ago, coordinators were forced to cancel scheduled trainings entirely, with one noting they had to reschedule multiple sessions and renegotiate available training times with busy clinical staff.
 
-**Primary Use Cases**
+**Primary Use Cases for PTAs**
 
-Coordinators use PTAs for three main purposes: (1) training clinical staff (all new clinical staff must complete mandatory one-hour secure messaging training before messaging privileges are granted), (2) creating visual guides and screenshots for remote veteran support, and (3) demonstrating portal features during live sessions. One coordinator emphasized hands-on training methodology: "I turn over \[screen sharing\] to the staff member...instead of death by PowerPoint, you're going to be doing the hands-on training."
+Coordinators use PTAs for three main purposes:   
+(1) Training clinical staff (all new clinical staff must complete mandatory one-hour secure messaging training before messaging privileges are granted) by demonstrating portal features during live sessions. One coordinator emphasized hands-on training methodology: "I turn over \[screen sharing\] to the staff member...instead of death by PowerPoint, you're going to be doing the hands-on training." 
+(2) Remote training sessions with Veterans but these sessions are limited since the population who require assistance are not technically savvy.  This means that MHV coordinators are unable to help many of these Veterans remotely and ask that they come in-person for assistance.
+(3) Creating visual guides and screenshots for remote veteran support.  However, this use case isn't as common since the website changes frequently and materials become outdated quickly.  
 
 ## Direct Veteran Support: PTAs Are Rarely Used
 
