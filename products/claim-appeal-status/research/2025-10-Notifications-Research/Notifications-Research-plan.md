@@ -344,7 +344,8 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Session Length:** 60 minutes  
 - **Debrief with Observers:** 15 minutes  
 - **Buffer Time Between Sessions:** 30 minutes  
-- **Max Sessions per Day:** 3  
-- **Recruitment Start:** 12/1/2025  
+- **Max Sessions per Day:** 3
+- **Kick Off Call Request:**  12/3-12/5 12pm-2pm ET, 330-430pm ET
+- **Recruitment Start:** 12/2/2025  
 - **Research Review Submission:** 12/1/2025  
 - **Study Duration:** 3–4 weeks (including synthesis and shareout)
