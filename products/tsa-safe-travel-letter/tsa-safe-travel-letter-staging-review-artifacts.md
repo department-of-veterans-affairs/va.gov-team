@@ -11,8 +11,6 @@
     - Does the no letter copy take forever to populate since it still needs to determine TSA slowly?
 - User who has some letters, no TSA letter - +38
    - Should see a smaller list of letters, should see loading icon below list for TSA but then nothing populates after it disappears.
-- User who only has the TSA letter - +27
-    - NOTE: We would need another sample letter to do this
 - User who doesn't have a valid address on file - +78
     - Should not be able to see any letters even if they have them
 - User who has a system down message - +12
