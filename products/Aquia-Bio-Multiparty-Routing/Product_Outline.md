@@ -25,37 +25,38 @@ This results in:
 
 ## Undesired User Outcomes
 - No user should see another party’s private information beyond what is needed.  
-- The platform should not make form completion slower or more complex.
+- This approach should not make form completion slower or more complex.
 
 ## Desired Business Outcomes
-- Reduce burden and error rates for multi-party forms like 21-2680, 21-4192, 21-0779, 21P-0969, etc.  
+- Reduce burden and error rates for multi-party forms like 21-2680.  
 - Reduce claim-processing cycle time and manual follow-up workload for VBA employees.  
 - Increase accuracy and completeness of data.  
 - Establish a repeatable, scalable capability for multi-party workflows across VA.
 
 ## Undesired Business Outcomes
 - Creating a system difficult to scale to future forms.  
-- Introducing operational or support burdens.  
+- Introducing operational or support burdens.
+- Increased time to complete forms 
 
 ---
 
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- *What data will be used to understand if functionality meets desired outcomes?*  
-- *What metrics matter most? Limit 5–6 KPIs.*  
+- Number of forms filled out 100% online 
+- Time to complete for Veterans/Providers   
 - _Include links to Domo or GA dashboards when available._
 
 ### Baseline KPI Values
-- *Include current baseline values, possibly from eBenefits or other systems.*
+- There are currently 80k forms per year that are all filled out on paper and either maield in or uploaded. It is unknown how Veterans get forms to providers ie bring to appoitment fax, email, mail 
 
 ### Objectives & Key Results (OKRs)
 
 **Objective:** Reduce the burden and delay caused by multi-party medical evidence collection for Aid & Attendance.
 
 - **KR:** Reduce incomplete 2680 submissions by 30% within 90 days of launch.  
-- **KR:** Achieve 50% provider digital completion rate for routed sections within 6 months.  
-- **KR:** Reduce average total completion time from >30 days to <10 days.
+- **KR:** Achieve 50% provider digital completion rate for routed sections within 6 months of known ID.me penetration which is 20-30% 
+- **KR:** Reduce average total completion time from >30 days to <10 days for addressable users (ID.me users) 
 
 ---
 
@@ -117,11 +118,11 @@ This results in:
 ## Communications
 <details>
 
-- Team Name:  
-- GitHub Label:  
-- Slack channel:  
-- Product POCs:  
-- Stakeholders:  
+- Team Name:  Aquia Bo 
+- GitHub Label:  benefits-optimization-aquia | benefits-optimization 
+- Slack channel: #benefits-intake-optimization
+- Product POCs:  Leah Keeler
+- Stakeholders:  Dennis Peterson, Michael Young
 
 </details>
 
