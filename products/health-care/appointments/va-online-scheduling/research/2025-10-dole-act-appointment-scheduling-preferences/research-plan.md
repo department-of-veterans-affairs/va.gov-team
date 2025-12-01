@@ -410,7 +410,11 @@ Perigean will recruit all participants.
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **Date TBD**
+- `Suggested dates and times:
+    - December 1: 2-6pm EST
+    - December 2: 9:30am -1pm EST
+    - Flexible the rest of the week.
+- 
 - Perigean notetaker - Yes, for every session unless noted. 
 - Timeline: TBD
 
