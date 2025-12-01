@@ -290,13 +290,13 @@ Before you click on anything, I want to ask you some questions on this screen.
 
 Before you click on anything, I want to ask you some questions on this screen.
 
-* Is there anything you notice that has changed since the first time you saw this screen?  
+~~* Is there anything you notice that has changed since the first time you saw this screen?  
 * *(If they notice that some conditions have disappeared):*  
   * Why do you think that happened?  
   * What do you think about that?  
 * *(If they don’t notice, explain that Asthma and Hypertension are no longer available as options.)*  
   * Why do you think that happened?  
-  * What do you think about that?
+  * What do you think about that?~~
 
 #### Transition to next topic
 OK, we're going to stop here and move to a different topic. Click Continue at the bottom. (Should modify prototype so it goes to end screen)
