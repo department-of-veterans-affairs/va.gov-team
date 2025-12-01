@@ -1,0 +1,2369 @@
+WEBVTT
+
+00:00:03.840 --> 00:00:06.080
+<v Participant 1>And I've started the recording and I'd like
+
+00:00:06.080 --> 00:00:07.920
+<v Participant 1>to confirm. Are you comfortable if I record
+
+00:00:08.000 --> 00:00:09.840
+<v Participant 1>my screen and audio today?
+
+00:00:10.160 --> 00:00:12.040
+<v Participant 2>I'm comfortable if you record your screen
+
+00:00:12.040 --> 00:00:12.640
+<v Participant 2>and audio.
+
+00:00:13.360 --> 00:00:17.120
+<v Participant 1>Great. Okay, so just kind of getting started.
+
+00:00:18.000 --> 00:00:20.360
+<v Participant 1>Where are you calling in from? Are you in
+
+00:00:20.360 --> 00:00:21.200
+<v Participant 1>San Francisco?
+
+00:00:22.320 --> 00:00:24.640
+<v Participant 2>No, I'm in Tampa. It's just my backdrop.
+
+00:00:24.800 --> 00:00:25.600
+<v Participant 1>Oh, okay.
+
+00:00:25.600 --> 00:00:26.000
+<v Participant 2>Got it.
+
+00:00:26.000 --> 00:00:27.960
+<v Participant 1>Got it. Tampa. Okay. How's the weather out
+
+00:00:27.960 --> 00:00:28.240
+<v Participant 1>there?
+
+00:00:29.650 --> 00:00:32.210
+<v Participant 2>You know, it's good for. You know, it's not
+
+00:00:32.210 --> 00:00:33.850
+<v Participant 2>humid, so it's around 70s, so it's about
+
+00:00:33.850 --> 00:00:35.010
+<v Participant 2>where you want it for Florida.
+
+00:00:35.410 --> 00:00:37.730
+<v Participant 1>Oh, that's nice. Yeah, I'm in Colorado, and
+
+00:00:37.730 --> 00:00:40.130
+<v Participant 1>we're. We're at 20s right now, and it is
+
+00:00:40.530 --> 00:00:41.650
+<v Participant 1>pretty brutal.
+
+00:00:43.730 --> 00:00:46.170
+<v Participant 1>So what branch of service did you serve in
+
+00:00:46.170 --> 00:00:47.810
+<v Participant 1>and when did you transition out?
+
+00:00:49.090 --> 00:00:51.040
+<v Participant 2>Army? 2022.
+
+00:00:51.340 --> 00:00:53.810
+<v Participant 1>2022. Okay.
+
+00:00:53.810 --> 00:00:58.850
+<v Participant 1>And from 2022, how did you make an account
+
+00:00:58.850 --> 00:01:02.730
+<v Participant 1>for va.gov pretty immediately after, while
+
+00:01:02.730 --> 00:01:05.130
+<v Participant 1>you were transitioning out or what was the
+
+00:01:05.130 --> 00:01:05.730
+<v Participant 1>timeline?
+
+00:01:09.730 --> 00:01:11.970
+<v Participant 2>If I recall, I made it just because I know
+
+00:01:11.970 --> 00:01:13.970
+<v Participant 2>you have to. You have to do your claims there
+
+00:01:13.970 --> 00:01:18.050
+<v Participant 2>or you monitor your claims there. So I believe
+
+00:01:18.050 --> 00:01:22.600
+<v Participant 2>I made one as soon as I. During my transition
+
+00:01:22.600 --> 00:01:22.960
+<v Participant 2>time.
+
+00:01:24.320 --> 00:01:24.760
+<v Participant 1>Okay.
+
+00:01:24.760 --> 00:01:26.640
+<v Participant 1>And did anyone help you with this? Part of,
+
+00:01:26.640 --> 00:01:29.880
+<v Participant 1>like, a tap class or something, or was this
+
+00:01:29.880 --> 00:01:30.720
+<v Participant 1>all on your own?
+
+00:01:32.560 --> 00:01:35.280
+<v Participant 2>Imagine that. The. The tap told me.
+
+00:01:35.360 --> 00:01:37.360
+<v Participant 2>I don't. You know, it's all a blur.
+
+00:01:39.680 --> 00:01:42.840
+<v Participant 1>That's fine. And what is your current experience
+
+00:01:42.840 --> 00:01:44.080
+<v Participant 1>with va.gov?
+
+00:01:48.190 --> 00:01:51.950
+<v Participant 2>Basically, it's there for my.
+
+00:01:54.590 --> 00:01:57.950
+<v Participant 2>Basically just for. To get my education benefits.
+
+00:01:58.190 --> 00:02:02.430
+<v Participant 2>So if I have to do something or use my education,
+
+00:02:02.750 --> 00:02:03.790
+<v Participant 2>that's what it's there for.
+
+00:02:04.350 --> 00:02:06.510
+<v Participant 1>For education benefits. Okay.
+
+00:02:07.950 --> 00:02:10.350
+<v Participant 1>How often do you go to va.gov.
+
+00:02:15.400 --> 00:02:17.200
+<v Participant 2>Not really much. I don't need, you know,
+
+00:02:17.200 --> 00:02:21.720
+<v Participant 2>unless. Does it. Does that include your medical
+
+00:02:21.720 --> 00:02:22.120
+<v Participant 2>account?
+
+00:02:24.520 --> 00:02:26.840
+<v Participant 1>Do you have VA health care?
+
+00:02:27.959 --> 00:02:29.800
+<v Participant 2>Yeah, I got my healthy vet. Whatever.
+
+00:02:30.120 --> 00:02:31.480
+<v Participant 1>My healthy vet. Okay.
+
+00:02:31.960 --> 00:02:35.160
+<v Participant 1>Yeah. Yeah. So are there any other benefits
+
+00:02:35.160 --> 00:02:37.480
+<v Participant 1>that you're, like, considering applying for,
+
+00:02:37.480 --> 00:02:41.240
+<v Participant 1>or do you feel like you. You. You have what
+
+00:02:41.240 --> 00:02:41.720
+<v Participant 1>you need?
+
+00:02:42.600 --> 00:02:44.680
+<v Participant 2>I have what I need. Okay.
+
+00:02:45.160 --> 00:02:48.680
+<v Participant 1>Okay. When thinking kind of back on the first
+
+00:02:48.680 --> 00:02:51.840
+<v Participant 1>time you visited VA, what. What would have
+
+00:02:51.840 --> 00:02:54.600
+<v Participant 1>been helpful when you visited VA.gov?
+
+00:02:54.600 --> 00:02:56.840
+<v Participant 1>was it easy and straightforward to use, or
+
+00:02:57.400 --> 00:02:59.640
+<v Participant 1>were there things that weren't as easy?
+
+00:03:02.200 --> 00:03:03.880
+<v Participant 2>I think if I would have to say anything,
+
+00:03:04.390 --> 00:03:07.430
+<v Participant 2>I think it really should emphasize to not
+
+00:03:07.590 --> 00:03:12.550
+<v Participant 2>link it to yours. I think. I think the challenge
+
+00:03:12.790 --> 00:03:14.550
+<v Participant 2>is there needs to be a better way to log
+
+00:03:14.550 --> 00:03:22.270
+<v Participant 2>in. The. The DoD code is, like, clunky at
+
+00:03:22.270 --> 00:03:28.150
+<v Participant 2>best, and I think there should be just, like,
+
+00:03:29.430 --> 00:03:33.650
+<v Participant 2>a passkey option similar to, you know, what
+
+00:03:33.650 --> 00:03:35.810
+<v Participant 2>most sites do, which you can just have a
+
+00:03:35.810 --> 00:03:38.330
+<v Participant 2>pass key on your computer that does your
+
+00:03:38.330 --> 00:03:39.330
+<v Participant 2>fingerprints or your.
+
+00:03:40.450 --> 00:03:44.770
+<v Participant 2>Your a PIN code. Because it just.
+
+00:03:47.250 --> 00:03:50.610
+<v Participant 2>Because I know that it's going to eventually
+
+00:03:50.610 --> 00:03:52.890
+<v Participant 2>be a challenge to, you know, keep recycling
+
+00:03:52.890 --> 00:03:55.570
+<v Participant 2>your code or, you know, people move around.
+
+00:03:55.650 --> 00:03:58.170
+<v Participant 2>So I think having the passkey option would
+
+00:03:58.170 --> 00:03:59.090
+<v Participant 2>be fantastic.
+
+00:04:00.480 --> 00:04:04.640
+<v Participant 1>Okay, so logging in can be a bit of a frustration
+
+00:04:04.640 --> 00:04:08.480
+<v Participant 1>when you go to va.gov. what about, like finding
+
+00:04:09.120 --> 00:04:12.040
+<v Participant 1>benefits you might want to apply for or managing
+
+00:04:12.040 --> 00:04:14.400
+<v Participant 1>them? How do those stack up?
+
+00:04:16.000 --> 00:04:19.160
+<v Participant 2>I don't think the search is the best. I think
+
+00:04:19.160 --> 00:04:20.320
+<v Participant 2>it should be.
+
+00:04:22.640 --> 00:04:24.960
+<v Participant 2>I'm just going to say bigger and bolder and
+
+00:04:25.950 --> 00:04:26.750
+<v Participant 2>less clicks.
+
+00:04:27.470 --> 00:04:30.270
+<v Participant 1>Less clicks. Okay. Just kind of getting you
+
+00:04:30.270 --> 00:04:31.550
+<v Participant 1>to what you want.
+
+00:04:33.230 --> 00:04:33.790
+<v Participant 2>Yeah.
+
+00:04:34.350 --> 00:04:36.150
+<v Participant 2>There's a lot of interpretation that you
+
+00:04:36.150 --> 00:04:38.030
+<v Participant 2>have to use. And I'm not saying like we should,
+
+00:04:38.030 --> 00:04:39.870
+<v Participant 2>we should dumb down everything for everybody,
+
+00:04:40.350 --> 00:04:44.550
+<v Participant 2>but if you don't know specifically what you
+
+00:04:44.550 --> 00:04:46.510
+<v Participant 2>want, I think it can be difficult.
+
+00:04:50.590 --> 00:04:53.070
+<v Participant 1>And you kind of mentioned that the reason
+
+00:04:53.230 --> 00:04:56.360
+<v Participant 1>that you were making the account for va.gov
+
+00:04:56.360 --> 00:05:02.000
+<v Participant 1>to start was for compensation or filing a
+
+00:05:02.000 --> 00:05:05.640
+<v Participant 1>claim. How do you remember that process?
+
+00:05:05.640 --> 00:05:09.000
+<v Participant 1>Was it easy, difficult, neutral?
+
+00:05:10.440 --> 00:05:12.720
+<v Participant 2>It was neutral just because it was my initial
+
+00:05:12.720 --> 00:05:14.560
+<v Participant 2>claim. So I didn't, you know, all my stuff
+
+00:05:14.560 --> 00:05:18.120
+<v Participant 2>was already pretty much uploaded regardless.
+
+00:05:18.120 --> 00:05:20.640
+<v Participant 2>But I just know you have to have one to see
+
+00:05:20.640 --> 00:05:21.000
+<v Participant 2>the results.
+
+00:05:22.080 --> 00:05:28.680
+<v Participant 1>Got it, Got it. Okay. Okay, so now I'm going
+
+00:05:28.680 --> 00:05:32.840
+<v Participant 1>to go ahead and show you a version of a website.
+
+00:05:32.840 --> 00:05:34.800
+<v Participant 1>I'm going to go ahead and share this through
+
+00:05:34.880 --> 00:05:35.440
+<v Participant 1>Zoom.
+
+00:05:35.600 --> 00:05:37.520
+<v Participant 1>Have you ever shared your screen on Zoom?
+
+00:05:38.720 --> 00:05:39.200
+<v Participant 2>Yeah.
+
+00:05:39.440 --> 00:05:46.640
+<v Participant 1>Okay, great. So I'll just go ahead and send
+
+00:05:46.640 --> 00:05:52.550
+<v Participant 1>this over and if you can click on it and
+
+00:05:52.550 --> 00:05:54.150
+<v Participant 1>then share your screen with me, that'd be
+
+00:05:54.150 --> 00:05:55.310
+<v Participant 1>a great start.
+
+00:06:13.720 --> 00:06:14.120
+<v Participant 2>Did you.
+
+00:06:15.880 --> 00:06:18.360
+<v Participant 1>I send it through Zoom. Are you seeing it?
+
+00:06:23.160 --> 00:06:24.760
+<v Participant 2>This figma, I guess.
+
+00:06:25.000 --> 00:06:27.240
+<v Participant 1>Figma? Yeah. So it's kind of long.
+
+00:06:27.960 --> 00:06:28.520
+<v Participant 2>Okay.
+
+00:06:54.690 --> 00:06:55.730
+<v Participant 2>Okay, it's loading up.
+
+00:06:56.450 --> 00:06:57.410
+<v Participant 1>Okay, great.
+
+00:07:58.960 --> 00:07:59.600
+<v Participant 1>Is it working?
+
+00:08:04.000 --> 00:08:04.800
+<v Participant 2>Goes out?
+
+00:08:08.240 --> 00:08:24.270
+<v Participant 2>No, I don't want to record my screen.
+
+00:08:32.270 --> 00:08:33.310
+<v Participant 1>Okay, great.
+
+00:08:36.350 --> 00:08:38.510
+<v Participant 2>Now go to the Figma thing.
+
+00:08:39.070 --> 00:08:39.950
+<v Participant 1>Yes, please.
+
+00:08:51.640 --> 00:08:52.200
+<v Participant 2>There we go.
+
+00:09:00.120 --> 00:09:01.000
+<v Participant 2>All right, I'm there.
+
+00:09:01.960 --> 00:09:05.800
+<v Participant 1>Perfect. Perfect. Okay, so I just want to
+
+00:09:05.800 --> 00:09:08.600
+<v Participant 1>kind of go back to the time when you were
+
+00:09:09.000 --> 00:09:11.480
+<v Participant 1>creating an account for the first time, and
+
+00:09:11.480 --> 00:09:14.690
+<v Participant 1>this is your first time on va. So just kind
+
+00:09:14.690 --> 00:09:16.090
+<v Participant 1>of follow the steps you might.
+
+00:09:21.770 --> 00:09:22.570
+<v Participant 2>ID me.
+
+00:09:23.930 --> 00:09:25.730
+<v Participant 1>Okay. And then you can imagine that that
+
+00:09:25.730 --> 00:09:29.249
+<v Participant 1>whole process finished and this is the first
+
+00:09:29.249 --> 00:09:34.810
+<v Participant 1>thing you see as you come to va.gov. so initially,
+
+00:09:34.890 --> 00:09:36.930
+<v Participant 1>tell me what you're thinking when you see
+
+00:09:36.930 --> 00:09:37.210
+<v Participant 1>this.
+
+00:09:42.260 --> 00:09:43.980
+<v Participant 2>For me, I think I'm just going to have to
+
+00:09:43.980 --> 00:09:46.180
+<v Participant 2>go to disability compensation because that's
+
+00:09:46.180 --> 00:09:54.180
+<v Participant 2>what I'm looking for because we're going
+
+00:09:54.180 --> 00:09:55.860
+<v Participant 2>back to my first time. So we're role playing.
+
+00:09:55.860 --> 00:09:57.540
+<v Participant 2>So that's what I'm. That's what I'd click
+
+00:09:57.540 --> 00:09:57.780
+<v Participant 2>on.
+
+00:09:58.260 --> 00:09:59.380
+<v Participant 1>That's what you would click on.
+
+00:09:59.380 --> 00:10:00.420
+<v Participant 1>Okay. Okay.
+
+00:10:01.620 --> 00:10:02.020
+<v Participant 2>And.
+
+00:10:04.340 --> 00:10:06.580
+<v Participant 1>You mentioned it's like previously you wanted
+
+00:10:06.580 --> 00:10:09.580
+<v Participant 1>to like submit your claims. Does that kind
+
+00:10:09.580 --> 00:10:11.300
+<v Participant 1>of align with what you were expecting to
+
+00:10:11.300 --> 00:10:11.580
+<v Participant 1>see?
+
+00:10:14.940 --> 00:10:17.100
+<v Participant 2>Yeah, I mean, this, this would work. Yeah.
+
+00:10:17.180 --> 00:10:19.900
+<v Participant 2>I mean it's telling you, you know, it's giving
+
+00:10:19.900 --> 00:10:22.860
+<v Participant 2>you the option, the options and that's probably,
+
+00:10:22.940 --> 00:10:25.460
+<v Participant 2>you know, it's what you want to see because
+
+00:10:25.460 --> 00:10:26.620
+<v Participant 2>just one click.
+
+00:10:27.260 --> 00:10:28.780
+<v Participant 1>One click. Okay.
+
+00:10:28.780 --> 00:10:31.660
+<v Participant 1>Okay. Now tell me about the other two options.
+
+00:10:35.270 --> 00:10:37.230
+<v Participant 2>Healthcare would let me know that, you know,
+
+00:10:37.230 --> 00:10:40.630
+<v Participant 2>that my VA healthcare benefits and education
+
+00:10:40.870 --> 00:10:42.510
+<v Participant 2>have even a picture there. So, you know,
+
+00:10:42.510 --> 00:10:44.110
+<v Participant 2>that's going for your education and your
+
+00:10:44.110 --> 00:10:44.470
+<v Participant 2>training.
+
+00:10:45.590 --> 00:10:49.510
+<v Participant 1>Okay. Okay. So what about the text?
+
+00:10:49.750 --> 00:10:52.470
+<v Participant 1>How is the text? Does it resonate with you?
+
+00:10:52.550 --> 00:10:53.430
+<v Participant 1>Is it fine?
+
+00:10:54.870 --> 00:10:56.390
+<v Participant 2>It's fine. It's clear, it's smooth.
+
+00:10:56.390 --> 00:10:59.130
+<v Participant 2>You know, it's, it's, you know, it's what
+
+00:10:59.130 --> 00:11:00.810
+<v Participant 2>I think people are used to from a computer
+
+00:11:00.810 --> 00:11:02.210
+<v Participant 2>screen. You know, you don't want anything
+
+00:11:02.210 --> 00:11:05.730
+<v Participant 2>too scriby like Times New Roman. You don't
+
+00:11:05.730 --> 00:11:08.850
+<v Participant 2>want wing dings and you know, it's reasonable.
+
+00:11:08.850 --> 00:11:13.649
+<v Participant 2>Would I say that maybe like two points bigger
+
+00:11:13.649 --> 00:11:15.770
+<v Participant 2>might be helpful, you know, considering your
+
+00:11:15.770 --> 00:11:16.130
+<v Participant 2>audience.
+
+00:11:16.770 --> 00:11:17.170
+<v Participant 1>Sure.
+
+00:11:17.570 --> 00:11:18.610
+<v Participant 2>A little bit bigger.
+
+00:11:19.170 --> 00:11:20.450
+<v Participant 1>Got it. Got it.
+
+00:11:22.690 --> 00:11:26.130
+<v Participant 1>Let's go ahead and click on disability compensation.
+
+00:11:28.810 --> 00:11:29.170
+<v Participant 1>Okay.
+
+00:11:29.170 --> 00:11:29.530
+<v Participant 2>There.
+
+00:11:30.570 --> 00:11:32.570
+<v Participant 1>Is this what you would expect to see?
+
+00:11:38.090 --> 00:11:40.450
+<v Participant 1>Like, how do you feel about this being the
+
+00:11:40.450 --> 00:11:41.610
+<v Participant 1>page that you're landing on?
+
+00:11:42.890 --> 00:11:46.250
+<v Participant 2>Feel this is extra. I feel this is what makes
+
+00:11:46.250 --> 00:11:48.570
+<v Participant 2>it, what could make it confusing for people.
+
+00:11:53.380 --> 00:11:53.620
+<v Participant 1>Because.
+
+00:11:57.700 --> 00:12:01.540
+<v Participant 2>The. I think, I think these should be more.
+
+00:12:03.700 --> 00:12:07.380
+<v Participant 2>I think if you're already on here, you already
+
+00:12:07.380 --> 00:12:09.220
+<v Participant 2>know you're. You already have an account,
+
+00:12:09.220 --> 00:12:12.660
+<v Participant 2>so you, you should at least know your eligibility.
+
+00:12:12.660 --> 00:12:14.860
+<v Participant 2>That's why you have the account. That's my
+
+00:12:14.860 --> 00:12:16.380
+<v Participant 2>first opinion. So I would.
+
+00:12:16.380 --> 00:12:19.660
+<v Participant 2>I don't think that as needed. And then how
+
+00:12:19.660 --> 00:12:23.830
+<v Participant 2>to file a claim and then finally claim online.
+
+00:12:24.070 --> 00:12:28.310
+<v Participant 2>It just, it seems redundant. How to file
+
+00:12:28.310 --> 00:12:30.710
+<v Participant 2>a claim and then file a claim. I think you.
+
+00:12:30.790 --> 00:12:32.630
+<v Participant 2>Those should be together.
+
+00:12:36.470 --> 00:12:38.390
+<v Participant 1>Got it. Got it. Go ahead.
+
+00:12:39.350 --> 00:12:41.350
+<v Participant 2>And then I'm going to say after you file
+
+00:12:41.350 --> 00:12:43.190
+<v Participant 2>your claim, that should just be.
+
+00:12:45.430 --> 00:12:48.270
+<v Participant 2>I feel all three of those should be in the
+
+00:12:48.270 --> 00:12:51.400
+<v Participant 2>same location. How to file after you file
+
+00:12:55.400 --> 00:12:59.040
+<v Participant 2>because, you know, these are all three things
+
+00:12:59.040 --> 00:13:01.480
+<v Participant 2>that you're going to do. So I don't know
+
+00:13:01.480 --> 00:13:03.320
+<v Participant 2>what. I don't think they should be separate.
+
+00:13:03.320 --> 00:13:07.200
+<v Participant 2>I think they should be all one kind of, you
+
+00:13:07.200 --> 00:13:09.960
+<v Participant 2>know, flowing, read, reading location.
+
+00:13:13.320 --> 00:13:15.760
+<v Participant 1>Got it, got it. If, if you were to click
+
+00:13:15.760 --> 00:13:18.030
+<v Participant 1>on that link, what, what would you hope to
+
+00:13:18.030 --> 00:13:18.310
+<v Participant 1>happen?
+
+00:13:20.390 --> 00:13:22.470
+<v Participant 1>What would have been like the best case scenario
+
+00:13:22.470 --> 00:13:22.950
+<v Participant 1>for you?
+
+00:13:23.750 --> 00:13:25.590
+<v Participant 2>Best case scenario is how to file a claim.
+
+00:13:25.830 --> 00:13:28.470
+<v Participant 2>And then once I click on there, it explains
+
+00:13:28.470 --> 00:13:30.590
+<v Participant 2>how and then it has the hyperlink inside
+
+00:13:30.590 --> 00:13:33.349
+<v Participant 2>there of file your claim online. And then
+
+00:13:33.350 --> 00:13:35.350
+<v Participant 2>even on the bottom as you continue to read
+
+00:13:35.510 --> 00:13:37.710
+<v Participant 2>before, so before you even click file your
+
+00:13:37.710 --> 00:13:40.550
+<v Participant 2>claim online, underneath there it says after
+
+00:13:40.550 --> 00:13:43.990
+<v Participant 2>you file your claim. And so so on that first
+
+00:13:43.990 --> 00:13:46.910
+<v Participant 2>click of how to file your claim, you already
+
+00:13:47.070 --> 00:13:50.830
+<v Participant 2>the, you read it, you see the options.
+
+00:13:51.150 --> 00:13:53.070
+<v Participant 2>There's a hyperlink that says file a claim
+
+00:13:53.070 --> 00:13:55.470
+<v Participant 2>online. And then underneath that it gives
+
+00:13:55.470 --> 00:13:56.990
+<v Participant 2>you the steps of what happens afterwards.
+
+00:13:58.589 --> 00:14:02.070
+<v Participant 1>Okay, so the how to is what you would rather
+
+00:14:02.070 --> 00:14:05.270
+<v Participant 1>be brought to, to start and then you can
+
+00:14:05.270 --> 00:14:06.830
+<v Participant 1>just start from there and go through the
+
+00:14:06.830 --> 00:14:07.390
+<v Participant 1>whole process.
+
+00:14:08.440 --> 00:14:08.840
+<v Participant 2>Yep.
+
+00:14:10.120 --> 00:14:14.600
+<v Participant 1>Okay, let's go ahead and click on the screen
+
+00:14:14.600 --> 00:14:16.680
+<v Participant 1>again anywhere.
+
+00:14:17.240 --> 00:14:18.680
+<v Participant 2>So which one? Oh, anywhere.
+
+00:14:18.760 --> 00:14:19.800
+<v Participant 1>Yeah, anywhere.
+
+00:14:22.920 --> 00:14:25.600
+<v Participant 1>So before clicking on Healthcare, what would
+
+00:14:25.600 --> 00:14:27.800
+<v Participant 1>you expect to happen if you clicked on Healthcare?
+
+00:14:30.280 --> 00:14:36.130
+<v Participant 2>It would take me to my healthcare options.
+
+00:14:36.210 --> 00:14:38.410
+<v Participant 2>Whether, you know, whether I'm signed up
+
+00:14:38.410 --> 00:14:46.330
+<v Participant 2>for tricare for life campus or you know,
+
+00:14:46.330 --> 00:14:48.850
+<v Participant 2>just the information of, you know, where
+
+00:14:48.850 --> 00:14:53.130
+<v Participant 2>I'm signed up at or my potentials to be where
+
+00:14:53.130 --> 00:14:54.770
+<v Participant 2>I'm going to be signed up at. So like if
+
+00:14:54.770 --> 00:14:56.330
+<v Participant 2>I'm already signed up for healthcare, then
+
+00:14:56.330 --> 00:14:59.170
+<v Participant 2>I just click on it and it presents to me,
+
+00:14:59.170 --> 00:15:02.850
+<v Participant 2>you know, my doctors, where they're at and
+
+00:15:02.850 --> 00:15:04.010
+<v Participant 2>if I have any appointments.
+
+00:15:05.930 --> 00:15:08.650
+<v Participant 1>So depending on where you're coming from,
+
+00:15:08.650 --> 00:15:11.570
+<v Participant 1>if you're, if you already have health care,
+
+00:15:11.570 --> 00:15:13.770
+<v Participant 1>you click on this, it will do some one thing,
+
+00:15:13.850 --> 00:15:16.010
+<v Participant 1>it'll show you your doctors, all of that
+
+00:15:16.490 --> 00:15:19.170
+<v Participant 1>if you are here for the first time, what
+
+00:15:19.170 --> 00:15:19.610
+<v Participant 1>would happen.
+
+00:15:21.050 --> 00:15:24.170
+<v Participant 2>So my anticipation of what would happen would
+
+00:15:24.170 --> 00:15:25.390
+<v Participant 2>be I would expect the.
+
+00:15:25.540 --> 00:15:27.460
+<v Participant 2>That once I click on it for the first time,
+
+00:15:27.860 --> 00:15:30.420
+<v Participant 2>it would take me to how I can sign up.
+
+00:15:36.660 --> 00:15:39.380
+<v Participant 1>Okay, go ahead and click that please.
+
+00:15:45.860 --> 00:15:48.100
+<v Participant 1>What do you think being this page.
+
+00:15:54.590 --> 00:15:58.550
+<v Participant 2>Things too busy again, especially for when
+
+00:15:58.550 --> 00:16:01.790
+<v Participant 2>you think about a. Everything should be more
+
+00:16:01.790 --> 00:16:03.710
+<v Participant 2>geared towards mobile because most people
+
+00:16:03.950 --> 00:16:08.150
+<v Participant 2>access things on their mobile phone. So I
+
+00:16:08.150 --> 00:16:10.310
+<v Participant 2>think the, I think there's too much on this
+
+00:16:10.310 --> 00:16:11.710
+<v Participant 2>page, I think it's too cluttered.
+
+00:16:14.270 --> 00:16:19.420
+<v Participant 1>Got it, got it. So of these links which would
+
+00:16:19.420 --> 00:16:22.700
+<v Participant 1>be the one that you'd prefer to be kind of
+
+00:16:22.700 --> 00:16:23.460
+<v Participant 1>routed through.
+
+00:16:31.540 --> 00:16:37.220
+<v Participant 2>So I guess my first thing is I'm going to
+
+00:16:37.220 --> 00:16:43.020
+<v Participant 2>go to how to apply because I think that I'M
+
+00:16:43.020 --> 00:16:45.260
+<v Participant 2>eligible. Well, I guess take that back because
+
+00:16:45.260 --> 00:16:47.640
+<v Participant 2>I got to think of. So first time I'm seeing
+
+00:16:47.640 --> 00:16:50.360
+<v Participant 2>this. Let me do scene.
+
+00:16:52.600 --> 00:16:57.600
+<v Participant 2>All right, so I think I'm going to go to
+
+00:16:57.600 --> 00:17:00.600
+<v Participant 2>eligibility and then within eligibility I
+
+00:17:00.600 --> 00:17:03.800
+<v Participant 2>would want to see how to apply because once
+
+00:17:03.800 --> 00:17:06.040
+<v Participant 2>I'm, once I see if I'm eligible, I don't
+
+00:17:06.040 --> 00:17:07.720
+<v Participant 2>want to have to click on another screen to
+
+00:17:07.800 --> 00:17:08.280
+<v Participant 2>apply.
+
+00:17:12.610 --> 00:17:15.290
+<v Participant 1>So eligibility comes before how to apply
+
+00:17:15.290 --> 00:17:15.810
+<v Participant 1>for you?
+
+00:17:16.850 --> 00:17:21.490
+<v Participant 2>Yes, because I may, I mean, I know I'm eligible.
+
+00:17:21.490 --> 00:17:26.330
+<v Participant 2>Right. But I think, you know, your goal is
+
+00:17:26.330 --> 00:17:29.130
+<v Participant 2>to see other people who didn't retire from
+
+00:17:29.130 --> 00:17:32.650
+<v Participant 2>the military. And so, you know, I'll take
+
+00:17:32.650 --> 00:17:34.730
+<v Participant 2>them into consideration because, you know,
+
+00:17:34.730 --> 00:17:36.050
+<v Participant 2>this is all encompassing.
+
+00:17:37.840 --> 00:17:41.560
+<v Participant 2>And so someone who didn't retire from the
+
+00:17:41.560 --> 00:17:46.040
+<v Participant 2>military and maybe did one tour may not know
+
+00:17:46.040 --> 00:17:49.080
+<v Participant 2>if they're eligible or not. So I think you
+
+00:17:49.080 --> 00:17:51.240
+<v Participant 2>would have to take that in consideration
+
+00:17:51.240 --> 00:17:54.440
+<v Participant 2>and have them have eligibility first to see
+
+00:17:54.440 --> 00:17:58.480
+<v Participant 2>if they're even eligible for health care,
+
+00:17:58.640 --> 00:18:01.440
+<v Participant 2>their va, VA healthcare. Because a lot of
+
+00:18:01.440 --> 00:18:03.600
+<v Participant 2>people don't know that. The first question
+
+00:18:03.600 --> 00:18:05.920
+<v Participant 2>is, am I. I mean most people know about the
+
+00:18:05.920 --> 00:18:10.960
+<v Participant 2>health benefits of, you know, the. But what
+
+00:18:12.160 --> 00:18:13.120
+<v Participant 2>those benefits.
+
+00:18:13.200 --> 00:18:17.800
+<v Participant 2>About the benefits. I think you have to know
+
+00:18:17.800 --> 00:18:19.520
+<v Participant 2>what you're eligible, you know, eligible
+
+00:18:19.520 --> 00:18:22.200
+<v Participant 2>for first before you have, you know, what
+
+00:18:22.200 --> 00:18:24.840
+<v Participant 2>the benefit you look at which benefits that
+
+00:18:24.840 --> 00:18:29.200
+<v Participant 2>the VA covers because you can only be you.
+
+00:18:29.440 --> 00:18:31.480
+<v Participant 2>You'll see what your benefits are or what
+
+00:18:31.480 --> 00:18:33.830
+<v Participant 2>could be your benefits. But once, then you
+
+00:18:33.830 --> 00:18:35.550
+<v Participant 2>click the next thing and you see eligibility
+
+00:18:36.270 --> 00:18:39.150
+<v Participant 2>and you're like, oh, no, but I'm not eligible.
+
+00:18:39.230 --> 00:18:41.630
+<v Participant 2>You know, you kind of raise your hopes up
+
+00:18:41.630 --> 00:18:42.830
+<v Participant 2>seeing what benefits are available.
+
+00:18:43.630 --> 00:18:45.750
+<v Participant 2>But, you know, some of those benefits aren't
+
+00:18:45.750 --> 00:18:48.430
+<v Participant 2>available to you because you don't rate,
+
+00:18:48.430 --> 00:18:50.670
+<v Participant 2>don't qualify or, you know, you don't have
+
+00:18:50.670 --> 00:18:53.870
+<v Participant 2>the eligibility.
+
+00:18:55.230 --> 00:19:00.160
+<v Participant 1>Gotcha. Gotcha. Now I'm wondering on the
+
+00:19:00.160 --> 00:19:04.120
+<v Participant 1>disability compensation page, would you also
+
+00:19:04.120 --> 00:19:07.320
+<v Participant 1>say eligibility or would that be different?
+
+00:19:13.000 --> 00:19:16.080
+<v Participant 2>Great question. You know, now that you. If
+
+00:19:16.080 --> 00:19:19.480
+<v Participant 2>I revisit and feel free to.
+
+00:19:19.560 --> 00:19:21.680
+<v Participant 1>If you tap on the screen, we can revisit
+
+00:19:21.680 --> 00:19:22.600
+<v Participant 1>that page too.
+
+00:19:29.490 --> 00:19:31.570
+<v Participant 2>Well, yeah, I guess eligibility is first,
+
+00:19:32.530 --> 00:19:34.770
+<v Participant 2>which I didn't. I don't think I said I don't.
+
+00:19:34.770 --> 00:19:36.690
+<v Participant 2>Because I think the difference is with healthcare,
+
+00:19:38.530 --> 00:19:41.050
+<v Participant 2>you start off with VA benefits, but then
+
+00:19:41.050 --> 00:19:44.130
+<v Participant 2>when you go back to it does it doesn't like
+
+00:19:46.370 --> 00:19:48.770
+<v Participant 2>you don't go to disability benefits. Right.
+
+00:19:49.660 --> 00:19:51.820
+<v Participant 2>That's, you know, down here.
+
+00:19:51.980 --> 00:19:54.620
+<v Participant 2>So I think it makes more sense. Here is almost
+
+00:19:54.620 --> 00:19:56.380
+<v Participant 2>what I'm talking about where eligibility
+
+00:19:56.380 --> 00:19:59.180
+<v Participant 2>is the first, then the second one would be
+
+00:19:59.180 --> 00:20:01.420
+<v Participant 2>the file, the claim you know, the combination
+
+00:20:01.500 --> 00:20:04.660
+<v Participant 2>of the three claim types for the three claim
+
+00:20:04.660 --> 00:20:08.420
+<v Participant 2>hyperlinks, you know, put those into one.
+
+00:20:08.420 --> 00:20:10.620
+<v Participant 2>That'd be my theory. Or you know, what I
+
+00:20:10.620 --> 00:20:15.760
+<v Participant 2>would expect. And then tertiary survivor
+
+00:20:15.760 --> 00:20:16.960
+<v Participant 2>independent compensation.
+
+00:20:19.040 --> 00:20:22.120
+<v Participant 1>Got it, Got it. Okay. And then let's just
+
+00:20:22.120 --> 00:20:24.600
+<v Participant 1>do the last one as well. So if you tap on
+
+00:20:24.600 --> 00:20:27.680
+<v Participant 1>the screen for educ. Yeah.
+
+00:20:29.280 --> 00:20:30.880
+<v Participant 1>What are you thinking on this page.
+
+00:20:35.920 --> 00:20:37.560
+<v Participant 2>Again? I think eligibility should be the
+
+00:20:37.560 --> 00:20:37.840
+<v Participant 2>first.
+
+00:20:41.050 --> 00:20:44.530
+<v Participant 1>Eligibility should be the first. Okay. You
+
+00:20:44.530 --> 00:20:46.650
+<v Participant 1>figure out if you're eligible and then everything
+
+00:20:46.650 --> 00:20:49.050
+<v Participant 1>else falls into place.
+
+00:20:49.930 --> 00:20:51.050
+<v Participant 2>Everything waterfalls.
+
+00:20:51.690 --> 00:20:53.010
+<v Participant 1>Everything waterfalls.
+
+00:20:53.010 --> 00:20:56.849
+<v Participant 1>Okay, great. If you tap on the screen one
+
+00:20:56.849 --> 00:21:00.410
+<v Participant 1>more time, what would happen if you pressed
+
+00:21:00.410 --> 00:21:02.010
+<v Participant 1>X, what would you expect to happen?
+
+00:21:02.890 --> 00:21:04.650
+<v Participant 2>This white screen would go away and I'd go
+
+00:21:04.650 --> 00:21:07.740
+<v Participant 2>back to my initial login screen. Okay.
+
+00:21:07.740 --> 00:21:08.980
+<v Participant 1>Yeah, go ahead and press X.
+
+00:21:16.260 --> 00:21:18.180
+<v Participant 1>Is this the page you would expect to see?
+
+00:21:20.820 --> 00:21:23.660
+<v Participant 2>Yeah, because I logged in, so I mean, that
+
+00:21:23.660 --> 00:21:24.500
+<v Participant 2>makes some sense.
+
+00:21:25.220 --> 00:21:27.700
+<v Participant 1>That makes sense. Okay. Just wanted to confirm
+
+00:21:27.700 --> 00:21:28.020
+<v Participant 1>that.
+
+00:21:30.340 --> 00:21:33.730
+<v Participant 1>So how would you, would you say that the
+
+00:21:33.730 --> 00:21:37.930
+<v Participant 1>pop up is in your way or is it helpful or
+
+00:21:37.930 --> 00:21:38.770
+<v Participant 1>somewhere in between?
+
+00:21:46.370 --> 00:21:50.490
+<v Participant 2>I think it's helpful. I don't like the setup,
+
+00:21:50.490 --> 00:21:53.530
+<v Participant 2>but I do like the pop up. I like the option
+
+00:21:53.530 --> 00:21:57.850
+<v Participant 2>where it's right there for you. So EA does
+
+00:21:57.850 --> 00:21:59.490
+<v Participant 2>three things and thus the three things that
+
+00:22:00.580 --> 00:22:03.740
+<v Participant 2>it goes through. So it makes it easier just
+
+00:22:03.740 --> 00:22:04.100
+<v Participant 2>in case.
+
+00:22:04.100 --> 00:22:08.460
+<v Participant 2>I mean, I know probably health is probably
+
+00:22:08.460 --> 00:22:10.820
+<v Participant 2>the most popular or, you know, compensation,
+
+00:22:11.860 --> 00:22:15.140
+<v Participant 2>but they give you that decision at the beginning
+
+00:22:15.780 --> 00:22:17.420
+<v Participant 2>so you don't have to go searching. Could
+
+00:22:17.420 --> 00:22:18.340
+<v Participant 2>be beneficial.
+
+00:22:20.420 --> 00:22:22.980
+<v Participant 1>Do you think this would have been beneficial
+
+00:22:22.980 --> 00:22:24.740
+<v Participant 1>for you when you first started?
+
+00:22:26.750 --> 00:22:26.990
+<v Participant 1>Sure.
+
+00:22:29.470 --> 00:22:32.990
+<v Participant 1>Okay. Okay, great. So now I'm going to go
+
+00:22:32.990 --> 00:22:35.070
+<v Participant 1>ahead and share with you another version
+
+00:22:35.390 --> 00:22:37.550
+<v Participant 1>of the same things. I'm going to the same
+
+00:22:37.550 --> 00:22:40.190
+<v Participant 1>thing. I'll share with you a link in Zoom.
+
+00:22:45.710 --> 00:22:46.990
+<v Participant 2>All right, so go to my Zoom.
+
+00:22:47.710 --> 00:22:48.670
+<v Participant 1>Yes, please.
+
+00:22:58.440 --> 00:23:03.800
+<v Participant 2>There. Chat. Yep, new link.
+
+00:23:13.720 --> 00:23:15.520
+<v Participant 1>And we're going to go through the same exact
+
+00:23:15.520 --> 00:23:18.530
+<v Participant 1>process where you are here for the first
+
+00:23:18.530 --> 00:23:22.010
+<v Participant 1>time and you're starting. Yeah.
+
+00:23:26.090 --> 00:23:30.450
+<v Participant 1>Okay. So here we are. Now it's a slightly
+
+00:23:30.450 --> 00:23:33.770
+<v Participant 1>different version. What are your initial
+
+00:23:33.770 --> 00:23:34.650
+<v Participant 1>thoughts about this?
+
+00:23:36.090 --> 00:23:37.370
+<v Participant 2>I like the first one better.
+
+00:23:38.330 --> 00:23:43.250
+<v Participant 2>This is, this is, this is focused to me just
+
+00:23:43.250 --> 00:23:45.940
+<v Participant 2>on healthcare. And since VA does three things,
+
+00:23:45.940 --> 00:23:49.540
+<v Participant 2>three separate things and three, I feel that
+
+00:23:49.540 --> 00:23:51.860
+<v Participant 2>this would create more clicks and more confusion.
+
+00:23:52.260 --> 00:23:56.180
+<v Participant 2>I mean, I'm dumbing it down. I mean, I, I
+
+00:23:56.180 --> 00:23:58.140
+<v Participant 2>know it's like, you know, oh, gosh, your
+
+00:23:58.140 --> 00:23:59.740
+<v Participant 2>thumb's going to hurt from two extra clicks.
+
+00:23:59.740 --> 00:23:59.980
+<v Participant 2>Right?
+
+00:23:59.980 --> 00:24:04.180
+<v Participant 2>It's not. But if you ask me, I like having
+
+00:24:04.180 --> 00:24:06.620
+<v Participant 2>at the beginning all three things that the
+
+00:24:06.620 --> 00:24:09.140
+<v Participant 2>VA does present to me at the beginning.
+
+00:24:12.990 --> 00:24:14.670
+<v Participant 1>All three things that theVA does.
+
+00:24:15.550 --> 00:24:18.110
+<v Participant 2>Yeah, VA does your healthcare, VA does your
+
+00:24:18.110 --> 00:24:20.830
+<v Participant 2>education, and VA does your disability. Those
+
+00:24:20.830 --> 00:24:26.270
+<v Participant 2>are the three pillars of the VA. So having
+
+00:24:26.270 --> 00:24:28.230
+<v Participant 2>the three pillars in the beginning I think
+
+00:24:28.230 --> 00:24:28.750
+<v Participant 2>is better.
+
+00:24:31.150 --> 00:24:33.630
+<v Participant 1>Okay, and tell me about these three options.
+
+00:24:35.630 --> 00:24:38.250
+<v Participant 2>Go to my va, I guess just, you know, goes
+
+00:24:38.250 --> 00:24:40.570
+<v Participant 2>to your account manager, healthcare, obviously
+
+00:24:40.570 --> 00:24:42.530
+<v Participant 2>your healthcare, and then discover your benefits.
+
+00:24:43.170 --> 00:24:45.450
+<v Participant 2>That's going to take you to search for your
+
+00:24:45.450 --> 00:24:47.450
+<v Participant 2>pillars of, you know, are you looking for
+
+00:24:47.450 --> 00:24:51.050
+<v Participant 2>education, are you looking for, you know,
+
+00:24:51.050 --> 00:24:53.570
+<v Participant 2>your disability claims or you know, how to
+
+00:24:53.570 --> 00:24:55.330
+<v Participant 2>file disability, you know, so you're going
+
+00:24:55.330 --> 00:24:56.850
+<v Participant 2>to go through and search for those three
+
+00:24:56.850 --> 00:25:00.010
+<v Participant 2>things. That's why I feel making an extra.
+
+00:25:00.010 --> 00:25:02.210
+<v Participant 1>Step, it's an extra step.
+
+00:25:03.580 --> 00:25:05.420
+<v Participant 1>So what, what is my va?
+
+00:25:07.740 --> 00:25:12.700
+<v Participant 2>My va, I would say, is the repository for
+
+00:25:12.700 --> 00:25:14.540
+<v Participant 2>the three pillars of what the VA does.
+
+00:25:16.780 --> 00:25:19.740
+<v Participant 1>And when you say repository, what is included
+
+00:25:19.740 --> 00:25:21.260
+<v Participant 1>on that repository?
+
+00:25:22.140 --> 00:25:24.300
+<v Participant 2>So basically it's a centralized location
+
+00:25:24.300 --> 00:25:29.660
+<v Participant 2>to find out your, your benefits for, or to
+
+00:25:29.660 --> 00:25:33.060
+<v Participant 2>access your benefits or just, you know, to,
+
+00:25:33.620 --> 00:25:35.620
+<v Participant 2>you know, the file claims for your benefits
+
+00:25:35.860 --> 00:25:38.060
+<v Participant 2>of, you know, either education, disability
+
+00:25:38.060 --> 00:25:38.580
+<v Participant 2>or health.
+
+00:25:40.340 --> 00:25:46.380
+<v Participant 1>Got it. Okay, let's go ahead and click go
+
+00:25:46.380 --> 00:25:47.940
+<v Participant 1>to my VA just to start.
+
+00:25:52.340 --> 00:25:55.460
+<v Participant 1>Does this align with what you were expecting
+
+00:25:55.460 --> 00:25:55.940
+<v Participant 1>to see?
+
+00:25:58.110 --> 00:25:58.350
+<v Participant 1>No.
+
+00:25:59.470 --> 00:26:02.590
+<v Participant 2>Well, yeah, now that I, I scroll down. Yeah,
+
+00:26:02.750 --> 00:26:09.510
+<v Participant 2>that makes sense because it goes along with
+
+00:26:09.510 --> 00:26:12.509
+<v Participant 2>your, you know, what you got going on in
+
+00:26:12.509 --> 00:26:13.710
+<v Participant 2>all three aspects.
+
+00:26:15.870 --> 00:26:18.670
+<v Participant 2>Your health, your claim, and your education.
+
+00:26:20.270 --> 00:26:24.290
+<v Participant 1>Got it, Got it. Okay, and then let's go ahead
+
+00:26:24.290 --> 00:26:26.690
+<v Participant 1>and click again on the screen, just anywhere.
+
+00:26:29.730 --> 00:26:31.890
+<v Participant 1>Tell me more about manage your health care.
+
+00:26:31.890 --> 00:26:34.290
+<v Participant 1>What would you expect to see under that one?
+
+00:26:35.410 --> 00:26:39.010
+<v Participant 2>I'm gonna expect for it to take me to my,
+
+00:26:40.050 --> 00:26:44.130
+<v Participant 2>my appointments or just basically the healthcare
+
+00:26:44.130 --> 00:26:49.260
+<v Participant 2>side. Oh, you know, 100 healthcare, you know,
+
+00:26:49.260 --> 00:26:51.540
+<v Participant 2>and nothing else through the VA. So just,
+
+00:26:51.540 --> 00:26:54.460
+<v Participant 2>you know, solely focused on the healthcare
+
+00:26:54.460 --> 00:26:54.940
+<v Participant 2>aspect.
+
+00:26:56.700 --> 00:26:58.660
+<v Participant 1>Got it. Okay, let's go ahead and click on
+
+00:26:58.660 --> 00:26:58.940
+<v Participant 1>that.
+
+00:27:02.700 --> 00:27:03.900
+<v Participant 2>And that's what I expected.
+
+00:27:09.900 --> 00:27:11.420
+<v Participant 1>Okay, this is what you were expecting to
+
+00:27:11.420 --> 00:27:13.100
+<v Participant 1>see, but my healthy bet.
+
+00:27:14.010 --> 00:27:14.410
+<v Participant 2>Yep.
+
+00:27:15.610 --> 00:27:18.130
+<v Participant 1>Okay, great. And then let's go ahead and
+
+00:27:18.130 --> 00:27:21.530
+<v Participant 1>click on the screen one last time. And what,
+
+00:27:21.530 --> 00:27:23.410
+<v Participant 1>what would discover your benefits be?
+
+00:27:23.410 --> 00:27:24.890
+<v Participant 1>What would you expect to see there?
+
+00:27:26.250 --> 00:27:28.610
+<v Participant 2>Almost like a Google like search engine to
+
+00:27:28.610 --> 00:27:33.930
+<v Participant 2>just to give all the. Well, no, strike that.
+
+00:27:34.650 --> 00:27:36.930
+<v Participant 2>Not a Google and not a Google search engine.
+
+00:27:36.930 --> 00:27:38.650
+<v Participant 2>Although you'd have a search bar on top,
+
+00:27:39.220 --> 00:27:42.460
+<v Participant 2>but I would say a bunch of hyperlinks that
+
+00:27:42.460 --> 00:27:45.820
+<v Participant 2>describe what the benefits could be or the
+
+00:27:45.820 --> 00:27:47.300
+<v Participant 2>benefits that the VA offers.
+
+00:27:48.260 --> 00:27:50.580
+<v Participant 1>Okay, and is this like a personalized list
+
+00:27:50.580 --> 00:28:00.580
+<v Participant 1>or is this like an extensive list Sorry,
+
+00:28:01.220 --> 00:28:03.100
+<v Participant 1>I said I expect to.
+
+00:28:03.100 --> 00:28:04.340
+<v Participant 2>Be extensive generic list.
+
+00:28:05.170 --> 00:28:06.130
+<v Participant 1>A generic list.
+
+00:28:06.770 --> 00:28:07.330
+<v Participant 2>Okay.
+
+00:28:08.610 --> 00:28:09.370
+<v Participant 1>What would you.
+
+00:28:09.370 --> 00:28:12.290
+<v Participant 1>What would you want? What would be like the
+
+00:28:12.290 --> 00:28:13.330
+<v Participant 1>ideal situation?
+
+00:28:16.130 --> 00:28:20.370
+<v Participant 2>The ideal situation would be to. Since you.
+
+00:28:20.609 --> 00:28:22.410
+<v Participant 2>You've already logged in with your profile,
+
+00:28:22.410 --> 00:28:27.170
+<v Participant 2>so they know who you are. To I would say
+
+00:28:27.250 --> 00:28:31.330
+<v Participant 2>use an AI strategy and for it to see your
+
+00:28:31.330 --> 00:28:35.000
+<v Participant 2>profile and to give you instantly, maybe
+
+00:28:35.000 --> 00:28:36.960
+<v Participant 2>not at like, you know, at a snap of a finger,
+
+00:28:36.960 --> 00:28:39.480
+<v Participant 2>but to do a search to everything that you
+
+00:28:39.480 --> 00:28:42.960
+<v Participant 2>could possibly qualify for that the VA offers,
+
+00:28:44.000 --> 00:28:45.840
+<v Participant 2>since they know you are. They know your family
+
+00:28:45.840 --> 00:28:47.120
+<v Participant 2>members, they know your rating.
+
+00:28:47.760 --> 00:28:50.480
+<v Participant 2>And so when you click on there, when you
+
+00:28:50.480 --> 00:28:52.440
+<v Participant 2>say discover my benefits, it should give
+
+00:28:52.440 --> 00:28:54.440
+<v Participant 2>you the ability to see everything that you
+
+00:28:54.440 --> 00:28:58.080
+<v Participant 2>could possibly qualify for.
+
+00:29:00.530 --> 00:29:02.650
+<v Participant 1>So it should already be like, personalized
+
+00:29:02.650 --> 00:29:03.170
+<v Participant 1>to you.
+
+00:29:05.330 --> 00:29:06.850
+<v Participant 2>A shorter way to say it. You're right.
+
+00:29:08.050 --> 00:29:10.450
+<v Participant 1>So go ahead and click on discover your benefits.
+
+00:29:12.770 --> 00:29:14.450
+<v Participant 1>Is this what you expected to see?
+
+00:29:25.340 --> 00:29:30.700
+<v Participant 2>No, because there's no long list of options.
+
+00:29:31.260 --> 00:29:33.900
+<v Participant 2>It just. It's another click of asking a question
+
+00:29:34.220 --> 00:29:38.060
+<v Participant 2>of what you're here for. So. No, not at all.
+
+00:29:38.940 --> 00:29:42.700
+<v Participant 1>No, not at all. Okay. If you clicked on this
+
+00:29:42.700 --> 00:29:46.060
+<v Participant 1>and there was just a whole list of benefits,
+
+00:29:46.700 --> 00:29:48.620
+<v Participant 1>that's what you would be kind of expecting
+
+00:29:48.620 --> 00:29:50.550
+<v Participant 1>and you could dive into each one.
+
+00:29:51.830 --> 00:29:53.910
+<v Participant 2>That's what I was expecting. Is it what I
+
+00:29:53.910 --> 00:29:54.190
+<v Participant 2>want?
+
+00:29:54.190 --> 00:29:56.630
+<v Participant 2>I don't know what I'd want, but it was expecting.
+
+00:29:57.670 --> 00:29:59.670
+<v Participant 1>Okay, yeah, that's what you'd want. Yes.
+
+00:29:59.670 --> 00:30:02.190
+<v Participant 1>Yes, that's true. Expectations are.
+
+00:30:02.190 --> 00:30:04.910
+<v Participant 1>Could be different. Okay, let's go ahead
+
+00:30:04.910 --> 00:30:06.390
+<v Participant 1>and click back on the screen.
+
+00:30:10.150 --> 00:30:12.870
+<v Participant 1>So now that you kind of had a chance to review
+
+00:30:12.870 --> 00:30:16.870
+<v Participant 1>this, what would you say? Would you say this
+
+00:30:16.870 --> 00:30:20.830
+<v Participant 1>is in your way or helpful or somewhere in
+
+00:30:20.830 --> 00:30:21.390
+<v Participant 1>the middle?
+
+00:30:22.510 --> 00:30:24.270
+<v Participant 2>Again, somewhere in the middle. I mean, I
+
+00:30:24.270 --> 00:30:25.870
+<v Participant 2>can see the benefits of both, although I
+
+00:30:25.870 --> 00:30:30.110
+<v Participant 2>think the first one was better. But this
+
+00:30:30.110 --> 00:30:32.430
+<v Participant 2>is helpful too, in a way.
+
+00:30:33.870 --> 00:30:36.270
+<v Participant 1>Okay. Yeah, let's talk about like, the first
+
+00:30:36.270 --> 00:30:38.230
+<v Participant 1>one being better. What about the first one?
+
+00:30:38.230 --> 00:30:40.190
+<v Participant 1>Do you prefer to. This one?
+
+00:30:41.640 --> 00:30:44.440
+<v Participant 2>Like the. Like I mentioned before, the three
+
+00:30:44.440 --> 00:30:47.840
+<v Participant 2>pillars are there for you instantly. So if
+
+00:30:47.840 --> 00:30:50.400
+<v Participant 2>you, if you have at least a modicum of idea
+
+00:30:50.400 --> 00:30:52.240
+<v Participant 2>of what you're searching for, you know, you're
+
+00:30:52.240 --> 00:30:53.800
+<v Participant 2>searching for one of those three things.
+
+00:30:54.520 --> 00:30:58.480
+<v Participant 2>So you can go to at least the section that
+
+00:30:58.480 --> 00:30:59.960
+<v Participant 2>you're searching for information in.
+
+00:31:02.360 --> 00:31:02.720
+<v Participant 2>Are.
+
+00:31:02.720 --> 00:31:05.040
+<v Participant 1>Are all people searching for one of these
+
+00:31:05.040 --> 00:31:05.800
+<v Participant 1>three things?
+
+00:31:08.770 --> 00:31:10.850
+<v Participant 2>I would have to say, yeah, I don't know what
+
+00:31:10.850 --> 00:31:12.210
+<v Participant 2>else the VA does.
+
+00:31:14.610 --> 00:31:16.690
+<v Participant 1>Yeah, there. There are certain other benefits
+
+00:31:16.690 --> 00:31:18.850
+<v Participant 1>too, but maybe less. Less common.
+
+00:31:21.570 --> 00:31:24.010
+<v Participant 1>But like, for example, like family member
+
+00:31:24.010 --> 00:31:25.090
+<v Participant 1>benefits or.
+
+00:31:27.650 --> 00:31:28.810
+<v Participant 1>Yeah, there's a.
+
+00:31:28.810 --> 00:31:29.250
+<v Participant 2>There's a.
+
+00:31:29.250 --> 00:31:32.010
+<v Participant 1>There's a good amount of home loans I think
+
+00:31:32.010 --> 00:31:35.190
+<v Participant 1>is another really big one. Are those, are
+
+00:31:35.190 --> 00:31:37.950
+<v Participant 1>those missing from this or do you feel like.
+
+00:31:39.390 --> 00:31:40.030
+<v Participant 2>I don't feel.
+
+00:31:40.030 --> 00:31:41.630
+<v Participant 2>I don't feel family benefits are missing
+
+00:31:41.630 --> 00:31:43.190
+<v Participant 2>because it would go underneath one of those
+
+00:31:43.190 --> 00:31:46.190
+<v Participant 2>three, whether it was education, disability
+
+00:31:46.430 --> 00:31:51.030
+<v Participant 2>or health care. I feel that family would
+
+00:31:51.030 --> 00:31:53.510
+<v Participant 2>be underneath one of those pillars. But I
+
+00:31:53.510 --> 00:31:56.910
+<v Participant 2>will say the home loan is a. Was one I was
+
+00:31:56.910 --> 00:31:58.190
+<v Participant 2>not thinking of immediately.
+
+00:32:00.040 --> 00:32:00.520
+<v Participant 1>Okay.
+
+00:32:01.240 --> 00:32:04.840
+<v Participant 1>Yeah. So would you want home loan on this
+
+00:32:04.840 --> 00:32:07.800
+<v Participant 1>list or like for example.
+
+00:32:08.520 --> 00:32:10.040
+<v Participant 2>I don't think, I don't think it.
+
+00:32:12.840 --> 00:32:15.720
+<v Participant 2>I don't think it's necessary namely because
+
+00:32:16.040 --> 00:32:19.920
+<v Participant 2>the VA loan, it's not, it's not really through
+
+00:32:19.920 --> 00:32:22.360
+<v Participant 2>the va. It's like, you know, because the,
+
+00:32:22.360 --> 00:32:25.160
+<v Participant 2>it's just insurance at the end of the day.
+
+00:32:26.550 --> 00:32:28.670
+<v Participant 2>So I don't think, I don't think you're going
+
+00:32:28.670 --> 00:32:34.030
+<v Participant 2>to go into va.gov to find out how you get
+
+00:32:34.030 --> 00:32:39.110
+<v Participant 2>a VA loan or I mean you get. Although. Yeah,
+
+00:32:39.110 --> 00:32:39.750
+<v Participant 2>both of those.
+
+00:32:40.230 --> 00:32:43.190
+<v Participant 2>You know, the VA guarantees loans. They don't
+
+00:32:43.190 --> 00:32:44.310
+<v Participant 2>give the loan. Right.
+
+00:32:51.760 --> 00:32:54.640
+<v Participant 2>Yeah, I mean, I know. I mean do I feel it's.
+
+00:32:54.640 --> 00:32:56.160
+<v Participant 2>That would be more of an under education,
+
+00:32:56.400 --> 00:33:00.240
+<v Participant 2>like an educate. Yeah, I mean I think it
+
+00:33:00.240 --> 00:33:01.960
+<v Participant 2>would be good to have information about it.
+
+00:33:01.960 --> 00:33:05.880
+<v Participant 2>So I'll retract my statement and say I think
+
+00:33:05.880 --> 00:33:07.400
+<v Participant 2>having information ready.
+
+00:33:07.400 --> 00:33:09.760
+<v Participant 2>Information about it on the first screen
+
+00:33:13.440 --> 00:33:17.550
+<v Participant 2>could be. I mean. No, it would be good though
+
+00:33:17.550 --> 00:33:20.630
+<v Participant 2>with discover your benefits. I guess that's
+
+00:33:20.630 --> 00:33:22.990
+<v Participant 2>where it would be. I don't think you'd get
+
+00:33:22.990 --> 00:33:29.910
+<v Participant 2>a lot of traffic from it being on this first
+
+00:33:29.910 --> 00:33:30.390
+<v Participant 2>screen.
+
+00:33:32.950 --> 00:33:35.910
+<v Participant 1>Okay. But having a discover your benefits
+
+00:33:35.990 --> 00:33:41.630
+<v Participant 1>type option kind of acts as a bit of a catch
+
+00:33:41.630 --> 00:33:46.790
+<v Participant 1>all for all the other benefits. Yeah. Okay.
+
+00:33:48.550 --> 00:33:49.190
+<v Participant 1>Okay.
+
+00:33:52.070 --> 00:33:55.230
+<v Participant 1>So besides, you know, you preferred having
+
+00:33:55.230 --> 00:33:58.230
+<v Participant 1>the one with the, the. The three options
+
+00:33:58.230 --> 00:34:02.310
+<v Participant 1>in front. Is there anything else you preferred
+
+00:34:02.310 --> 00:34:04.630
+<v Participant 1>about the. The previous version to this one?
+
+00:34:07.990 --> 00:34:09.390
+<v Participant 2>No. I mean because that was just really,
+
+00:34:09.390 --> 00:34:11.190
+<v Participant 2>it was just the ease of navigation. It felt
+
+00:34:11.190 --> 00:34:14.459
+<v Participant 2>easier to navigate. I think in the end if
+
+00:34:14.459 --> 00:34:19.739
+<v Participant 2>you combine these and had four and had the
+
+00:34:19.739 --> 00:34:23.299
+<v Participant 2>pillars and then discover your benefits,
+
+00:34:24.899 --> 00:34:26.499
+<v Participant 2>I think that would be the optimal.
+
+00:34:30.899 --> 00:34:33.379
+<v Participant 1>So the three pillars and discover your benefits
+
+00:34:33.539 --> 00:34:39.929
+<v Participant 1>would be the optimal option. Okay. And why
+
+00:34:39.929 --> 00:34:41.489
+<v Participant 1>would that be optimal for you?
+
+00:34:43.169 --> 00:34:46.209
+<v Participant 2>Because normally I know what I'm going for,
+
+00:34:46.209 --> 00:34:48.609
+<v Participant 2>so it's one of those two things. But you
+
+00:34:48.609 --> 00:34:50.809
+<v Participant 2>have the last search discover your benefits
+
+00:34:50.809 --> 00:34:56.089
+<v Participant 2>as a catch all in case for some reason it
+
+00:34:56.089 --> 00:34:58.009
+<v Participant 2>wasn't one of those three things which would
+
+00:34:58.009 --> 00:34:59.489
+<v Participant 2>be less likely.
+
+00:35:00.769 --> 00:35:04.950
+<v Participant 2>But you do have that option to, you know,
+
+00:35:04.950 --> 00:35:08.670
+<v Participant 2>discover what you may be looking for of the
+
+00:35:08.670 --> 00:35:09.350
+<v Participant 2>outliers.
+
+00:35:10.230 --> 00:35:13.750
+<v Participant 1>Gotcha. Gotcha. Okay.
+
+00:35:18.870 --> 00:35:20.629
+<v Participant 1>Is there anything else you'd like to share
+
+00:35:20.710 --> 00:35:24.990
+<v Participant 1>about these designs or your experience with
+
+00:35:24.990 --> 00:35:25.590
+<v Participant 1>va?
+
+00:35:26.870 --> 00:35:27.510
+<v Participant 2>I'm good.
+
+00:35:27.910 --> 00:35:33.840
+<v Participant 1>You're good. Okay, so a couple last questions,
+
+00:35:34.080 --> 00:35:36.240
+<v Participant 1>but feel free to stop sharing now. I think
+
+00:35:36.240 --> 00:35:39.200
+<v Participant 1>we're, we're done with the prototype part.
+
+00:35:48.560 --> 00:35:48.960
+<v Participant 1>Right.
+
+00:35:52.560 --> 00:35:54.920
+<v Participant 1>So one of the other things we were considering
+
+00:35:54.920 --> 00:35:59.000
+<v Participant 1>for this popup or for like the first time
+
+00:35:59.000 --> 00:36:02.160
+<v Participant 1>people come is a welcome tour. So kind of
+
+00:36:02.160 --> 00:36:05.040
+<v Participant 1>showing people around va. What do you think
+
+00:36:05.040 --> 00:36:08.200
+<v Participant 1>about that as a, as an option? Would that
+
+00:36:08.200 --> 00:36:10.200
+<v Participant 1>be something helpful to you or something
+
+00:36:10.200 --> 00:36:13.880
+<v Participant 1>that might make like that you not would.
+
+00:36:13.960 --> 00:36:15.400
+<v Participant 1>You wouldn't be interested in.
+
+00:36:16.120 --> 00:36:17.240
+<v Participant 2>It's a waste of space.
+
+00:36:19.000 --> 00:36:20.880
+<v Participant 2>I think you're dealing with, you know, a
+
+00:36:20.880 --> 00:36:24.170
+<v Participant 2>majority of, the majority of personalities.
+
+00:36:24.170 --> 00:36:25.650
+<v Participant 2>I don't think would. Would take you up on
+
+00:36:25.650 --> 00:36:26.050
+<v Participant 2>the tour.
+
+00:36:28.690 --> 00:36:31.970
+<v Participant 2>Maybe having an option, maybe a little, like
+
+00:36:31.970 --> 00:36:34.330
+<v Participant 2>a little option in the corner if you, if
+
+00:36:34.330 --> 00:36:36.170
+<v Participant 2>someone might feel it's necessary would be
+
+00:36:36.170 --> 00:36:40.690
+<v Participant 2>helpful. It might be. I, I feel the ROI isn't
+
+00:36:40.690 --> 00:36:44.250
+<v Participant 2>high as in people wouldn't use it, but to
+
+00:36:44.250 --> 00:36:45.810
+<v Participant 2>have, you know, I don't think it's taking
+
+00:36:45.810 --> 00:36:47.850
+<v Participant 2>up that much computing space. If you had
+
+00:36:47.850 --> 00:36:50.440
+<v Participant 2>some, a little bit option in the corner,
+
+00:36:50.440 --> 00:36:52.600
+<v Participant 2>maybe like little flashing or something like
+
+00:36:52.600 --> 00:36:56.000
+<v Participant 2>that would be, that'd be acceptable, but
+
+00:36:56.000 --> 00:36:58.240
+<v Participant 2>I don't think it would be highly used at
+
+00:36:58.240 --> 00:37:01.880
+<v Participant 2>all. I know, I know when I, I know when I
+
+00:37:02.200 --> 00:37:04.240
+<v Participant 2>see those things of, you know, do you want
+
+00:37:04.240 --> 00:37:05.000
+<v Participant 2>to tour the website?
+
+00:37:05.000 --> 00:37:08.200
+<v Participant 2>I. It's an instant no. I'll figure it out.
+
+00:37:12.200 --> 00:37:14.800
+<v Participant 1>So something like a tour would be getting
+
+00:37:14.800 --> 00:37:19.550
+<v Participant 1>in your way. Does this modal. Does this modal
+
+00:37:19.630 --> 00:37:21.470
+<v Participant 1>or pop up get in your way?
+
+00:37:25.710 --> 00:37:30.190
+<v Participant 2>Yeah, you know, I mean, I would compare it
+
+00:37:30.190 --> 00:37:34.430
+<v Participant 2>to what we'd say, you know, the like Clippy
+
+00:37:34.430 --> 00:37:37.790
+<v Participant 2>right. On Microsoft, where, you know, it's
+
+00:37:37.790 --> 00:37:39.790
+<v Participant 2>just an extra click of me avoiding something.
+
+00:37:40.270 --> 00:37:42.230
+<v Participant 2>So it's not like in my way, like, oh my gosh,
+
+00:37:42.230 --> 00:37:44.980
+<v Participant 2>this thing's so annoying. But, you know,
+
+00:37:44.980 --> 00:37:47.220
+<v Participant 2>if it came up every time, every time, I'm
+
+00:37:47.220 --> 00:37:49.300
+<v Participant 2>not, I'm never going to use it. So it's just
+
+00:37:49.300 --> 00:37:50.900
+<v Participant 2>one extra click that I have to do.
+
+00:37:52.340 --> 00:37:55.780
+<v Participant 1>What about the first time you came? Just
+
+00:37:55.780 --> 00:37:56.580
+<v Participant 1>the first time.
+
+00:37:58.980 --> 00:38:00.860
+<v Participant 2>I think if it, if it worked just the first
+
+00:38:00.860 --> 00:38:06.060
+<v Participant 2>time, I think that's okay. I guess I just
+
+00:38:06.060 --> 00:38:07.380
+<v Participant 2>don't think most people would use it, in
+
+00:38:07.380 --> 00:38:07.860
+<v Participant 2>my opinion.
+
+00:38:09.350 --> 00:38:11.310
+<v Participant 1>And are we just to confirm, are we talking
+
+00:38:11.310 --> 00:38:13.750
+<v Participant 1>about the tour or are we talking about the
+
+00:38:13.910 --> 00:38:15.350
+<v Participant 1>popup? We were talking about.
+
+00:38:17.270 --> 00:38:18.070
+<v Participant 2>Oh, the tour.
+
+00:38:18.470 --> 00:38:21.750
+<v Participant 1>The tour. Okay. And for the popup, though,
+
+00:38:22.630 --> 00:38:24.830
+<v Participant 1>Just the one that we were seeing. Does that
+
+00:38:24.830 --> 00:38:26.070
+<v Participant 1>get in your way or no?
+
+00:38:29.910 --> 00:38:32.110
+<v Participant 1>Would you want. How would you want that every
+
+00:38:32.110 --> 00:38:34.310
+<v Participant 1>single time or just the first time you come
+
+00:38:35.920 --> 00:38:36.480
+<v Participant 1>pop up?
+
+00:38:38.400 --> 00:38:40.760
+<v Participant 2>I'd want. Every time. I think, I think, I
+
+00:38:40.760 --> 00:38:44.320
+<v Participant 2>think it would be a quick direction instead
+
+00:38:44.320 --> 00:38:45.800
+<v Participant 2>of having to look for the ribbon of where
+
+00:38:45.800 --> 00:38:46.200
+<v Participant 2>you want.
+
+00:38:46.200 --> 00:38:48.080
+<v Participant 2>I think it, I think it would be good for
+
+00:38:48.080 --> 00:38:50.839
+<v Participant 2>popping up just so you can. I think it'd
+
+00:38:50.839 --> 00:38:52.440
+<v Participant 2>be easier to find what you're looking for
+
+00:38:52.440 --> 00:38:55.240
+<v Participant 2>quicker than to have to scroll and look on
+
+00:38:55.240 --> 00:38:57.920
+<v Participant 2>the ribbon with your arrow.
+
+00:38:59.680 --> 00:39:02.550
+<v Participant 1>Got it. Okay. Every time it.
+
+00:39:05.270 --> 00:39:08.150
+<v Participant 1>Is there another place where this kind of
+
+00:39:08.150 --> 00:39:12.230
+<v Participant 1>pop up would be useful? For example, like,
+
+00:39:12.230 --> 00:39:15.830
+<v Participant 1>like on va.gov maybe when you start a new
+
+00:39:16.710 --> 00:39:20.830
+<v Participant 1>benefit or a new form or is this something
+
+00:39:20.830 --> 00:39:24.390
+<v Participant 1>really for that first time logging in experience?
+
+00:39:25.670 --> 00:39:27.590
+<v Participant 2>I think it's really just good for the first
+
+00:39:27.590 --> 00:39:30.880
+<v Participant 2>time for the. To. For the, the immediate
+
+00:39:30.880 --> 00:39:31.480
+<v Participant 2>login.
+
+00:39:32.440 --> 00:39:35.560
+<v Participant 1>Only the first time. Okay. And why is that?
+
+00:39:36.680 --> 00:39:38.200
+<v Participant 2>I think most of the time when you're going,
+
+00:39:38.280 --> 00:39:40.080
+<v Participant 2>you're going. Most people are going through
+
+00:39:40.080 --> 00:39:42.240
+<v Participant 2>the website and this is obviously me just
+
+00:39:42.240 --> 00:39:42.920
+<v Participant 2>riffing here.
+
+00:39:44.120 --> 00:39:46.440
+<v Participant 2>I think you're going for a specific person,
+
+00:39:47.240 --> 00:39:52.800
+<v Participant 2>specific purpose. And so I mean if you, if
+
+00:39:52.800 --> 00:39:54.240
+<v Participant 2>it popped up again, would it get in your
+
+00:39:54.240 --> 00:39:58.280
+<v Participant 2>way? No, but I feel that once you do your
+
+00:39:58.280 --> 00:40:00.760
+<v Participant 2>one thing, then you're done with the site.
+
+00:40:01.480 --> 00:40:02.840
+<v Participant 2>I don't think, I don't know.
+
+00:40:05.000 --> 00:40:06.880
+<v Participant 2>I don't feel people do multiple things at
+
+00:40:06.880 --> 00:40:08.440
+<v Participant 2>once. But you know, I don't do the research
+
+00:40:08.440 --> 00:40:09.800
+<v Participant 2>either, so I might be wrong.
+
+00:40:12.120 --> 00:40:15.360
+<v Participant 1>So you're saying applying is like a one.
+
+00:40:15.360 --> 00:40:17.040
+<v Participant 1>Like applying for healthcare would be your
+
+00:40:17.040 --> 00:40:19.280
+<v Participant 1>one goal. You wouldn't be going in and applying
+
+00:40:19.280 --> 00:40:23.850
+<v Participant 1>for four things all at once and you might
+
+00:40:23.850 --> 00:40:24.610
+<v Participant 1>return later.
+
+00:40:25.650 --> 00:40:26.130
+<v Participant 2>Yeah.
+
+00:40:27.490 --> 00:40:29.690
+<v Participant 1>Now say I applied for healthcare my first
+
+00:40:29.690 --> 00:40:32.850
+<v Participant 1>time, I saw the pop up and great, I come
+
+00:40:32.850 --> 00:40:33.170
+<v Participant 1>back.
+
+00:40:33.970 --> 00:40:36.130
+<v Participant 1>Would healthcare still be an option on that
+
+00:40:36.130 --> 00:40:36.450
+<v Participant 1>list?
+
+00:40:40.130 --> 00:40:41.730
+<v Participant 2>Like come back later in the day.
+
+00:40:42.370 --> 00:40:46.330
+<v Participant 1>Or later, any other time later. But I already
+
+00:40:46.330 --> 00:40:48.090
+<v Participant 1>have healthcare. Healthcare is something
+
+00:40:48.090 --> 00:40:52.450
+<v Participant 1>I have applied for. Now should I still be
+
+00:40:52.450 --> 00:40:54.170
+<v Participant 1>seeing health care on this list?
+
+00:40:55.450 --> 00:40:55.930
+<v Participant 2>Yes.
+
+00:40:56.890 --> 00:40:58.250
+<v Participant 1>Okay, why is that?
+
+00:40:59.530 --> 00:41:01.810
+<v Participant 2>Because you're still going to have stuff
+
+00:41:01.810 --> 00:41:05.450
+<v Participant 2>to support for the health care. So you know,
+
+00:41:05.770 --> 00:41:08.490
+<v Participant 2>although I've applied for healthcare but
+
+00:41:09.050 --> 00:41:12.290
+<v Participant 2>now you know where, where is my status? Do
+
+00:41:12.290 --> 00:41:13.170
+<v Participant 2>I have appointments?
+
+00:41:13.170 --> 00:41:15.570
+<v Participant 2>So you're working to consistently. You know,
+
+00:41:15.570 --> 00:41:17.090
+<v Participant 2>that'll probably be one of the majority of
+
+00:41:17.090 --> 00:41:21.250
+<v Participant 2>reasons why you're going to of va.gov is
+
+00:41:21.250 --> 00:41:24.250
+<v Participant 2>to manage your health care in some way, form
+
+00:41:24.250 --> 00:41:26.570
+<v Participant 2>or fashion. So it's probably one.
+
+00:41:27.850 --> 00:41:30.410
+<v Participant 1>Would it bring you to the same place so like
+
+00:41:31.530 --> 00:41:35.130
+<v Participant 1>maybe we talked about like how to apply for
+
+00:41:35.130 --> 00:41:38.450
+<v Participant 1>health care. Was the, the best place to go
+
+00:41:38.450 --> 00:41:40.250
+<v Participant 1>to for someone who's brand new?
+
+00:41:40.410 --> 00:41:42.370
+<v Participant 1>Would you be brought to how to apply for
+
+00:41:42.370 --> 00:41:45.610
+<v Participant 1>health care once you've already applied for
+
+00:41:45.610 --> 00:41:47.170
+<v Participant 1>health care or would you be brought somewhere
+
+00:41:47.170 --> 00:41:47.500
+<v Participant 1>else?
+
+00:41:48.690 --> 00:41:50.770
+<v Participant 2>Somewhere else, I'd say just my healthy bet.
+
+00:41:51.250 --> 00:42:01.970
+<v Participant 1>My healthy vet. Okay, great. So we're.
+
+00:42:02.370 --> 00:42:04.730
+<v Participant 1>That's, that's all of my questions. I'm going
+
+00:42:04.730 --> 00:42:07.810
+<v Participant 1>to open it up to my note taker to see if
+
+00:42:07.810 --> 00:42:09.330
+<v Participant 1>she has any questions for you.
+
+00:42:15.020 --> 00:42:17.300
+<v Participant 3>I would like to know. First off, thank you
+
+00:42:17.300 --> 00:42:18.740
+<v Participant 3>so much for meeting with us. This has been
+
+00:42:18.740 --> 00:42:23.740
+<v Participant 3>great. So you talked a little bit about after
+
+00:42:23.900 --> 00:42:26.460
+<v Participant 3>you have applied for health care, you would
+
+00:42:26.460 --> 00:42:28.979
+<v Participant 3>want to go to my healthy vet on subsequent
+
+00:42:28.979 --> 00:42:29.580
+<v Participant 3>visits.
+
+00:42:31.660 --> 00:42:33.900
+<v Participant 3>What. Where would you want to go for like
+
+00:42:34.860 --> 00:42:37.420
+<v Participant 3>the other two options? What were they again?
+
+00:42:37.500 --> 00:42:42.380
+<v Participant 3>Education. And let's start with education.
+
+00:42:42.460 --> 00:42:42.860
+<v Participant 2>Where.
+
+00:42:42.860 --> 00:42:44.820
+<v Participant 3>Where would you want to go on a subsequent
+
+00:42:44.820 --> 00:42:45.580
+<v Participant 3>visit with education?
+
+00:42:47.820 --> 00:42:51.100
+<v Participant 2>Education. Whatever the education homepage
+
+00:42:51.100 --> 00:42:51.500
+<v Participant 2>would be.
+
+00:42:53.580 --> 00:42:58.580
+<v Participant 2>You know, start your, your education inquiry
+
+00:42:58.580 --> 00:43:00.220
+<v Participant 2>here. You know, something that takes you
+
+00:43:00.860 --> 00:43:05.500
+<v Participant 2>to the different education options. You know,
+
+00:43:05.500 --> 00:43:10.000
+<v Participant 2>whether it's chapter 35, 31. You know, something
+
+00:43:10.000 --> 00:43:12.280
+<v Participant 2>that would have a hyperlink list of the different
+
+00:43:12.280 --> 00:43:14.320
+<v Participant 2>type of chapter education. So you know which
+
+00:43:14.320 --> 00:43:16.120
+<v Participant 2>one you're filing for and start there.
+
+00:43:17.480 --> 00:43:20.040
+<v Participant 3>Okay. And then what about for a disability?
+
+00:43:20.200 --> 00:43:23.960
+<v Participant 3>Where would you want to go? If you checked
+
+00:43:23.960 --> 00:43:26.360
+<v Participant 3>your eligibility already applied.
+
+00:43:27.560 --> 00:43:29.560
+<v Participant 2>Immediately to the claim page that shows
+
+00:43:29.560 --> 00:43:31.080
+<v Participant 2>you where the status of your claim is.
+
+00:43:31.320 --> 00:43:32.840
+<v Participant 2>Okay, cool.
+
+00:43:33.890 --> 00:43:35.450
+<v Participant 3>Yeah, I think those are my two questions.
+
+00:43:35.450 --> 00:43:36.930
+<v Participant 3>Thank you so much for meeting with us.
+
+00:43:37.650 --> 00:43:39.010
+<v Participant 2>No problem. Happy to help.
+
+00:43:41.010 --> 00:43:43.970
+<v Participant 1>David, do you have any last minute questions
+
+00:43:43.970 --> 00:43:44.450
+<v Participant 1>for me?
+
+00:43:45.410 --> 00:43:46.130
+<v Participant 2>No, sir.
+
+00:43:46.690 --> 00:43:49.050
+<v Participant 1>No. Okay, great. Well, I wanted to thank
+
+00:43:49.050 --> 00:43:49.650
+<v Participant 1>you so much.
+
+00:43:49.730 --> 00:43:51.930
+<v Participant 1>Your feedback is very helpful for us as we
+
+00:43:51.930 --> 00:43:54.650
+<v Participant 1>continue to work on va.gov and make sure
+
+00:43:54.650 --> 00:43:58.690
+<v Participant 1>it works for other veterans. And Parisian
+
+00:43:58.690 --> 00:44:00.490
+<v Participant 1>will be sending you a thank you note with
+
+00:44:00.490 --> 00:44:02.170
+<v Participant 1>a little blurb that you can pass along to
+
+00:44:02.170 --> 00:44:05.090
+<v Participant 1>other veterans just so they also have a chance
+
+00:44:05.090 --> 00:44:08.410
+<v Participant 1>to participate in future research. Thank
+
+00:44:08.410 --> 00:44:10.450
+<v Participant 1>you again and I hope you enjoy the rest of
+
+00:44:10.450 --> 00:44:10.850
+<v Participant 1>your day.
+
+00:44:11.570 --> 00:44:13.610
+<v Participant 2>You as well. Thank you both have a triple
+
+00:44:13.610 --> 00:44:14.930
+<v Participant 2>good week.
+
+00:44:15.570 --> 00:44:16.050
+<v Participant 3>You too.
+
+00:44:16.050 --> 00:44:16.530
+<v Participant 1>You too.
+
+00:44:16.610 --> 00:44:17.330
+<v Participant 2>Bye. Bye.
+
