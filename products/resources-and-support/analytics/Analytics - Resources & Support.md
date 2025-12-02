@@ -5,6 +5,9 @@
 - [User and traffic metrics](#user-and-traffic-metrics)
 - [Pages with most interactions](#pages-with-most-interactions)
 
+## G4 Analytics
+- 2025 R&S G4 analytics are in [Sharepoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/initiatives/2024-search-experience-enhancements-Phase-1/README.md#analytics-for-tag-chip-clicks)
+
 ## CSAT Scores
 from DOMO 
 
