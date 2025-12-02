@@ -200,7 +200,7 @@ For the second round of research we will be conducting two different methods of 
 1. There are serious issues with accessibility for users that require screen readers.
 1. The chatbot is seen by users as accurate, clear, complete and easy to understand.
 1. Only direct links should be used in answers to avoid confusion by users.
-1. Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers.d
+1. Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers.
 
 ## Details of Findings 
 
