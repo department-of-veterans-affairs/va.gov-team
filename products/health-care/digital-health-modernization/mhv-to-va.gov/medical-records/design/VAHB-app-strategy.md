@@ -151,8 +151,45 @@ Uncertain if Veterans rely on (compared to other domains when tracking health/co
 
 ## Potential implementation general paths:
 
-We already have responsive designs. So, we can do a WebView (understanding there is technical discovery, etc) as soon as possible for the domains we choose to include (Care summaries and notes, potentially Vitals, potentially Health conditions). Then work to build them in the native app for a better experience. **If there is urgency, we can follow this path** 
+**If there is urgency, we can follow this path** We already have responsive designs. So, we can do a WebView (understanding there is technical discovery, etc) as soon as possible for the domains we choose to include (Care summaries and notes, potentially Vitals, potentially Health conditions). Then work to build them in the native app for a better experience. 
 
    Or
 
 **Recommended:** Build each domain natively (and message or point Veterans to VA.gov for their full MR, in whatever way we see best). 
+
+### General content strategy 
+
+We should not message about features/elements that are not available (and never were) within the app. 
+- Could create frustration and tease the user
+- Continue to keep app simple 
+- More content can clutter the interface
+- Every element included must serve a purpose
+
+### Continuity of care and Blue Button
+
+Continuity of Care Document (CCD): Will not be in the app. How do we want to communicate around this? 
+
+- Our strategy should be to not message about features/elements that are not available (and never was available IMHO) 
+- The app currently points Veterans to VA.gov (i.e, Go to VA.gov to view your complete medical record) where a Veteran can access CCD. 
+- Low traffic
+Therefore, 
+- I don’t feel it is necessary to surface CCD and specifically call out CCD within the VAHB app
+
+Blue Button: Will not be in the app. How do we want to communicate around this? 
+
+- I don’t see evidence that Veterans are looking for Blue Button within the app. However, we know that it is the third most accessed feature on MR. 
+- There could be some value language linking Veterans to the download page page 
+- With that being said, I continue to lean towards pointing users back to VA.gov with high level, simple messaging until we have more evidence that different content is needed: 
+
+Go to VA.gov to view your complete medical record: 
+[Link] View medical records on VA.gov
+
+_Note: There is some general disagreement around this approach._
+
+- From Sara S: I disagree- when I read this, it makes me wonder what is missing from the app. This suggests the app is not complete record, so I want to understand what "extra" things will be there if I go to the web.
+
+- From Cara: Veterans don't fully understand that they can do more on VA.gov then in the app.
+
+I would like to see feedback to contextualize it a bit for myself
+
+
