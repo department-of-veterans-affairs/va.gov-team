@@ -127,9 +127,10 @@ This test will take the form of User acceptance testing (UAT). We will ask users
 
 ### Primary criteria (must-haves)
 
-- `All have VA health care as a benefit`
-- `All have successfuly filed for travel reimbursement in the past, using direct deposit`
-- `All have or will have an in-person appointment within 30 days of [DATE TBD] for which they plan to file for travel pay`
+- `All must have VA health care as a benefit`
+- `All must have successfuly filed for travel reimbursement in the past, using direct deposit`
+- `All must have or will have an in-person appointment at a VA facility within 30 days of [DATE OF SESSION; TBD] for which they plan to file for travel pay`
+- `Minimum 4 have a receipt they want to include in the upcoming claim`
 - `Minimum 4 are mobile users`
 
 #### Secondary criteria (nice-to-haves)
