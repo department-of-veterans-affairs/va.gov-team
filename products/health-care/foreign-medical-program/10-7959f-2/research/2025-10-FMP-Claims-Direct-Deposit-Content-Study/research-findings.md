@@ -248,14 +248,14 @@ This research supports measurement of this KPI by....
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/product-outline.md)
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/research-plan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
 - [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/transcripts)
 
 ### Tools used for Synthesis
 
-- Spreadsheet with theme tagging 
+- Spreadsheet broken down by task in conversation guide with thematic tagging 
   
 ### Pages and applications used
 
