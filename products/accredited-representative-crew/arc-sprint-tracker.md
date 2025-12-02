@@ -2,6 +2,31 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 5 (Dec 2-15, 2025)
+
+## Sprint 5 Goals
+- [ ] Sprint Goals Approved by Enablement 
+
+**Team Accreditation**: 
+1. **[Rep Data] GCLAWS Accreditation API Integration**: Test the Accreditation API in Production, enable the integration and retest
+4. **[Rep Data] Stability and Maintenance**: Kick off and Architecture Intent for both the invalid-address approximation API and the SQL API daily job 
+5. **[21a] v4 - Development**: New endpoint to handle document uploads, background job to retrieve the accpilcation ID after posting the file uploads
+6. **ARC Team Onboarding and Setup**: Completing General onboarding for the team Product Manager
+
+**Team Benefits**:
+1. **[Auth] ID.me in ARP**: Remove the feature flag
+6. **[ITF] MVP - Development**: MVP development continuing the first pass of work in Sprint 4, Architecture Intent
+9. **[Claimant Details] ARC Discovery Research: Understanding how Reps manage the claims cycle across all clients**: Revisions to the research plan and conversation guide, recruitment for user interviews
+10. **[Claimant Details] MVP Design**: Design revisions, content and IA review
+11. **[ARP Post-MVP] Cleanup Tasks**: Confirm the access token has been updatedAccessibility audit (Dashboard, submissions page, 526EZ), URL updates and bug fixes
+12. **[Measure Impact] ARP MVP in Datadog**: Update the ARP dashboard to report on claims submissions by POA code
+13. **[Rep Communication] Relationship Management**: Document SOP for bulk contact update, draft VSO outreach email template for VSO Liaison, identify organizations for Batch 1 outreach
+14. **VSO Outreach Strategy**: Coordinate with VSO Liaison for Batch 1 and 2 outreach
+15. **[Rep Communication] Set up shared support mailbox**: Data analysis for insights, draft email address suggestions
+16. **[Rep Onboarding] Cooridnate with LEAF team to produce feature demo videos**: Provide script feedback
+17. **[Rep Onboarding] NACVSO**: Conduct demo meeting
+19. **ARC Team Onboarding and Setup**: Wrap up review instances initial pass
+
 # Sprint 4 (Nov 18 - Dec 1, 2025)
 
 ## Sprint 4 Goals
@@ -23,6 +48,18 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 12. **[Measure Impact] ARP MVP in Datadog**: Claims submission data in Datadog isn't consistent
 13. **[Rep Communication] Relationship Management**: ARP Support Inbox - Data Analysis for Insights, think about strategy for VSO initial adoption
 14. **ARC Team Onboarding and Setup**: Engineering onboarding for our Sr. Accessibility Engineer, Implement review instances
+
+## Sprint 4 Demo 
+([Recording link TBD]())
+
+**Team Accreditation**
+
+1. [21a Confirmation Page update](https://www.loom.com/share/9ba6b74f46424a30a939c2d3de6823b5)
+
+**Team Benefits**
+
+1. ID.me authentication method in ARP
+2. Bug fix: Nav home link broken on form 526/686 app
 
 
 ## Sprint 4 Tickets
