@@ -89,4 +89,4 @@ _Once your PIV card has been obtained:_
 - [ ] [Platform Developer Documentation](https://depo-platform-documentation.scrollhelp.site/) - _Start here for vets-api and vets-website development guidance_
 - [ ] [vets-api local development setup](https://github.com/department-of-veterans-affairs/vets-api#readme) _Backend_
 - [ ] [vets-website local development setup](https://github.com/department-of-veterans-affairs/vets-website#readme) _Frontend_
-- [ ] [What is PII](https://depo-platform-documentation.scrollhelp.site/research-design/what-is-pii) - _Required reading for handling Veteran data_
+- [ ] [What is PII?](https://depo-platform-documentation.scrollhelp.site/research-design/what-is-pii) - _Required reading for handling Veteran data_
