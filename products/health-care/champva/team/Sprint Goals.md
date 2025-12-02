@@ -2,6 +2,72 @@
 
 - Current Sprint first
 
+## 📆 Sprint 8 (Dec 3 – Dec 16) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] **SPRINT GOAL** 
+- [ ] **SPRINT GOAL** 
+- [ ] **STRETCH GOAL** 
+
+
+##
+### 10-10d
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+
+
+##
+### 10-7959a
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+
+
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+     
+
+##
+### All forms or Tech Debt
+- [ ] **SPRINT GOAL** 
+  - [ ] 
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** 
+  - [ ] 
+
+
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+- [ ] 
+  - [ ] 
+- **BE**
+- [ ] 
+  - [ ] 
+
+
+##
+### Team PTO
+
+
+
 ## 📆 Sprint 8 (Nov 19 – Dec 2) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
