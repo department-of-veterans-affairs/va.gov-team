@@ -16,12 +16,6 @@ description: "A conversation guide for complex claims user acceptance testing."
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
-`List and complete any project-specific setup tasks for this study below:` _NOTE: TBD_
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 ### Day of the session
 
 > [!TIP]
@@ -60,7 +54,10 @@ Before we start, I have a few things that I want to go over with you:
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
      
-- **Today we'll be starting a claim for travel pay.** We'll walk through some of the steps to submit, but you do not have to fully submit your claim if you're not ready. Once we start the process, we'll ask you to share your screen. <mark>**This is a live test, so if you file and you have set up direct deposit for travel pay, it will be submitted for review by a travel clerk. Once you file, it will not be possible to edit your submission.**</mark> Do you have any questions about that?
+- **Today we'll be starting a claim for travel pay.** We'll walk through some of the steps to submit, but you do not have to fully submit your claim if you're not ready. Once we start the process, we'll ask you to share your screen.
+- <mark>**This is a live test, so if you file, it will be submitted for review by a travel clerk.</mark> If you have direct deposit for travel pay set up, VA will send you funds via direct deposit. (This is different from the direct deposit used for disability and pension benefits.) Once you file, it will not be possible to edit your submission.**
+- **Filing on the call with us today does not guarentee that your claim will be approved. It will not impact the outcome of your claim in any way.**
+- **Do you have any questions about that?**
 
 > [!NOTE]
 > If the user is not comfortable starting a claim today, end the test. See the exit strategies below.
@@ -94,10 +91,18 @@ Before we start, I have a few things that I want to go over with you:
 
 Moderator: Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever filed for travel pay on VA.gov before? Note that this is different than filing for travel pay on BTSSS.
-- If yes: Tell me more about your experience.
-- If no: Can you share more about why you have not filed before? _Note: This may note be necessary if our criteria is people who have filed/have appointments that are eligible. KF response: I still think it'd be good to ask, as I've had folks join calls where they were suppose to meet certain criteria, but didn't. It'd be good to know earlier in the test vs later. If they don't have it set up, will we end the test, or are there any questions we want to ask them about BTSSS or other travel-pay related stuff?_
-2. Do you have direct deposit for VA Health Benefits set up? Note that this is a different setup than used by other types of claims across VA. _Note: maybe we won't need this if our criteria ensures it's only for people who have filed in the past. KF note: Hm. If we keep the above question, then hopefully that'll cover this one? I don't imagine it hurts to ask though. Will we end the test if they don't have it set up, or don't know if they have it set up?_
+1. Have you ever filed for travel pay before? 
+- If yes: Tell me more about your experience. Did you file on VA.gov or BTSSS?
+- If no:
+  - Can you share more about why you have not filed before?
+  - Do you have VA healthcare?
+  - Do you know if you're eligible for travel pay?
+  - Have you attended an in-person appointment within the last 30 days?
+  - IF yes to the above questions: Would you like to try to file for travel reimbursement on the call with us today? **This will not guarantee that your claim will be approved. (We are not the people who review the claims; we are just testing the tool that allows you to file.)**
+    - IF no: End the call. See exist strategy below.
+    - IF yes: Continue.
+2. Do you have direct deposit for VA Health Benefits set up? Note that this is a different setup than used by disability and pension benefits.
+3. Have you successfully received travel pay reimbursement via direct deposit before? 
 
 # Complex claims main task flow
 
@@ -109,14 +114,15 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
   - Select "Manage health appointments" in the dropdown
   - Select the "Go to your appointments" action link on the page
   - Select the "Past" appointments tab partway down the page
-- Moderator: If you know which appointment for which you'd like to file for reimbursement, find that appoitment. If not, you can click on them to find one that has a link that tells you that you're able to file for travel pay.
+- Moderator: If you know which appointment for which you'd like to file for reimbursement, find that appointment. If not, you can click on them to find one that has a link that tells you that you're able to file for travel pay.
+- NOTE: If the participant struggles to find their appointments, offer to walk them through it with screenshare: Would you like to screenshare with me so that I can walk you through the steps? Know that if you do that, we'll be able to see any information on the screen, possibly including your profile and appointment information. 
 
 > [!NOTE]
 > - If the participant selects an appointment that is over 30 days old, explain that we can file today for the sake of our test and their compensation, but the claim itself will likely be denied due to the filing date being over 30 days after the appointment. 
 
 ## First Task: [Starting a claim] - 5 minutes
 
-Moderator: Now I'm going to ask you to share your screen on Zoom so that we can look at the page together. _KF note: Should we ask them to share their screen earlier, after they've logged in? That could really speed up finding appointments. On the other hand, then we'd see all their past appts, which might feel personal._
+Moderator: Now I'm going to ask you to share your screen on Zoom so that we can look at the page together. 
 - [ ] Step 1 - Reviewing Intro Page information.
      - Moderator: Can you tell me what you're seeing on this page? Please think out loud as you explore.
      - Do you have any questions about this page? _If the user notices the other links on the intro page, ask them what they expect to happen, but encourage them to stay on this page for now._
@@ -140,15 +146,15 @@ Moderator: Tell me about what you're seeing on this page. What do you expect to 
 > - Does the participant try to select multiple expenses at one time?
 
 
-## Third Task: [IF participant selects "mileage" - Milage questions] - 2 - 4 minutes
+## Third Task: [IF participant selects "mileage" - Mileage questions] - 2 - 4 minutes
 Moderator: Tell me about what you're seeing on this page. 
 - [ ] Step 1 - User answers mileage questions.
-- [ ] Substep - User selects additional info to learn more about mileage. If user notices link in the expanded, ask them what the expect the link to do, but keep them in the flow. _KF Note: will we prompt them to expand Additional Info if they don't do it by themselves? Either way is fine, but let's clarify that here._
-- [ ] Step 2 - Selects "Continue"
+- [ ] Optional substep - User selects additional info to learn more about mileage. If user notices link in the expanded, ask them what the expect the link to do, but keep them in the flow. 
+- [ ] Step 2 - Selects "Continue."
 
 > [!NOTE]
 > ### Things to watch for:
-> - If the participant answers the questions and is re-directed to BTSSS, _Note: What is our plan to gather info for UAT if the user leaves they system at this point? KF: I assume we need to end the test. I've added an Exit section below for if they don't meet the criteria or don't want to continue._
+> - If the participant answers the questions and is re-directed to BTSSS, end the call. See exit strategies below. 
 > - Does the participant have any questions about how mileage is calculated?
 
 ## Fourth Task: [Actions from the unsubmitted expense page] - 2 - 4 minutes
@@ -274,19 +280,18 @@ Note: This might occur if a user thinks they need to edit an expense, but then l
 
 ## Additional Task D: User leaves and re-enters the flow
 Depending on the scenario the moderator can prompt: 
-- Let's say you need to pause or leave before your've submitted your claim. For example, maybe you need a few more days to find a receipt that you want to include in the claim. What do you think will happen if you close this window?
-- Thank you for sharing. This claim will be saved, so let's close this window to pretend that you're stepping away for a few days. 
-- Let's pretend that you're ready to continue working on your claim. How would you find it again? (If they struggle to find it, moderator can prompt them on where to navigate. This is not a test of the VA navigational system.) _Note: It would be great if they did not have to login again and could be encouraged to stay on VA.gov. KF: I think they'll stay logged in unless we ask them to log out. I think we can remove this comment._
+- Let's say you need to pause or leave before your've submitted your claim. For example, maybe you need a few more days to find a receipt that you want to include in the claim. What do you think will happen if you close this tab?
+- Thank you for sharing. This claim will be saved, so let's close this tab to pretend that you're stepping away for a few days. 
+- Let's pretend that you're ready to continue working on your claim. How would you find it again? (If they struggle to find it, moderator can prompt them on where to navigate. This is not a test of the VA navigational system.) 
   
 - [ ] Step 1 - User exits the flow.
 - [ ] Step 2 - User re-enteres the flow from either a past appointment or list of travel reimbursement claims. The user should return to the unsubmitted expenses page.
-- [ ] Step 3 - User selects "Add more expenses" OR user selects "Sign agreement" if they have no additional expenses. _KF note: I think we can remove this bullet point. The point of this particular task is that they can leave and come back. If they don't want to add more expenses or submit, the leaving and returning still meets the requriement._
 
 > [!NOTE]
 > ### Things to watch for:
-> - How does the user exit the flow? Do they close the tab or window? Do they navigate somewhere else within VA.gov? _KF note: I've adjusted the script above to have them close the window. I think giving clear directions will save us time, and also avoid them using the Back button to navigate back._
 > - Can the user re-enter the flow?
 > - How do they they return to the flow? (Do they re-enter the flow from claims details or past appointment details?)
+> - What do they want or expect to do at this point?
 
 ## Additional Task E: User leaves the flow while on an expense page
 - [ ] Step 1 - User is viewing the expense page. 
@@ -323,7 +328,7 @@ Thank you so much again, and enjoy the rest of your day!
 
 ## User does not meet testing criteria, or does not want to continue
 
-Thanks for sharing! You've shared some really helpful information with us today. We've covered all the content we can today, so we'll end our call here. (Continue to Thank you and closing section above.)
+Thanks for sharing! You've shared some really helpful information with us today. In order for us to fully test this product, we need an eligible appointment. Given that, we'll wrap up the call. (Modify as needed, then continue to Thank you and closing section above.)
 
 ## Emergency exit 🚨
 
