@@ -127,7 +127,9 @@ To begin, I'm going to have you follow the link that I have just pasted into the
 
 https://staging.va.gov/
 
-This is the staging environment for VA.gov and I'm now going to have you log in as a test user by taking the following steps:
+This is the staging environment for VA.gov where we can test out new ideas to make sure they work before we go live. 
+
+I'm now going to have you log in as a test user by taking the following steps:
 1. Click the Sign In button in the upper right corner
 2. Select ID.me green button
 3. Paste the following email address into the email text box: emma.smith@id.me
