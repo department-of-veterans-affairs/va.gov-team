@@ -316,16 +316,27 @@ Thank you for completing that task. I have a few follow up questions for you:
 
 
 
-* "Before we wrap up Task 2, I'd like to show you one more thing. 
-Imagine you tried to request a renewal but saw this message [show error]. What would you do next?
+* "Before we wrap up Task 2, I'd like to show you one more thing. Please scroll to _________ medication.
+Imagine you tried to request a renewal for this medication, but when you clicked the link (which you can do now) you were taken to this page. What would you do next?
 
+*[Let participant finish task with minimal interruption.]*
+
+* Would you go somewhere to find the information that's missing?
+  * If so, where would you go?
+ 
+*Things to watch for:*
+* *Does the user try to fill in the missing information?*
+* *Do they add additional content to the message to compensate for missing information?*
+* *Do they seem frustrated?*
+
+Great, thank you for tha tadditional input!
 
 ---
 
 
 ## Closing questions
 
-
+That wraps up our tasks. I just have a few closing questions for you:
 
 1. Overall, how easy or difficult would you say it was to request a renewal?
 2. Overall, how easy or difficult would you say it was to understand the prescription statuses?
