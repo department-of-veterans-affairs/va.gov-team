@@ -1,5 +1,5 @@
 # IA Design for Onramp to DR tool -- Decision review options for disability claims
-**STATUS: Complete (11/20/25)**
+**STATUS: Complete (11/20/25; updated 12/2 with updated flow)**
 
 **Team:** Benefits Decision Reviews
 
@@ -24,7 +24,7 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
-<img width="1081" height="714" alt="Screenshot 2025-11-20 123344" src="https://github.com/user-attachments/assets/d5115720-d88a-43df-b73d-82e6a36efc66" />
+<img width="1085" height="712" alt="Screenshot 2025-12-02 151715" src="https://github.com/user-attachments/assets/a61c4950-8391-4083-8821-ae771020e084" />
 
 
 ## <a name="map"></a>Page structure<br>
