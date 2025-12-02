@@ -67,7 +67,7 @@ RA - Remote Access_
 
 - [ ] GitHub
   - [ ] Join the ['department-of-veterans-affairs' organization](https://github.com/department-of-veterans-affairs)
-  - [ ] Even though you're Platform and not VFS, fill out the [New VFS Team Member Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=New-VFS-Team-Member.yml). By filling that out, you'll get added to the `vets-gov-write` GitHub Team which grants you write access to most repos in the org.
+  - [ ] Even though you're Platform and not VFS, fill out the [New VFS Team Member Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=New-VFS-Team-Member.yml). By filling that out, you'll get added to the `vets.gov-write` GitHub Team which grants you write access to most repos in the org.
   - [ ] Make sure you have access to the [devops repo](https://github.com/department-of-veterans-affairs/devops)
   - [ ] [GitHub Copilot](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=github-copilot-onboarding.yml) - _AI pair programming assistant, available after GitHub org access_
 - [ ] [Pagerduty](https://ecc.pagerduty.com/). Follow [these instructions](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-PagerDuty) to request access.
@@ -77,16 +77,16 @@ RA - Remote Access_
 - [ ] [Jenkins](http://jenkins.vfs.va.gov/) _Accessed on VA Network only_
 - [ ] [Sentry](http://sentry.vfs.va.gov/) _Legacy error tracking - being replaced by DataDog. VA Network only_
 - [ ] [Argo CD](http://argocd.vfs.va.gov/) - _GitOps deployment tool for Kubernetes. VA Network only_
+- [ ] [Test User Dashboard](https://tud.vfs.va.gov/) - _Legacy tool for testing with synthetic test users. VA Network only_
 
 _Once your PIV card has been obtained:_
 
 - [ ] [Citrix Access Gateway (CAG)](https://citrixaccess.va.gov/vpn/index_citrix_splash.html) or [Azure Windows Virtual Desktop](https://client.wvd.microsoft.com/arm/webclient/index.html)
 - [ ] [Venafi](https://vfs.atlassian.net/wiki/spaces/OT/pages/1719009302/Venafi+Gain+access+to+manage+internal+TLS+certificates) _DevOps Only_
-- [ ] [Test User Dashboard](https://tud.vfs.va.gov/) - _For testing with synthetic test users. VA Network only_
 
 ### Developer onboarding
 
 - [ ] [Platform Developer Documentation](https://depo-platform-documentation.scrollhelp.site/) - _Start here for vets-api and vets-website development guidance_
 - [ ] [vets-api local development setup](https://github.com/department-of-veterans-affairs/vets-api#readme) _Backend_
 - [ ] [vets-website local development setup](https://github.com/department-of-veterans-affairs/vets-website#readme) _Frontend_
-- [ ] [PII Guidelines](https://depo-platform-documentation.scrollhelp.site/developer-docs/personal-identifiable-information-pii-guidelines) - _Required reading for handling Veteran data_
+- [ ] [What is PII](https://depo-platform-documentation.scrollhelp.site/research-design/what-is-pii) - _Required reading for handling Veteran data_
