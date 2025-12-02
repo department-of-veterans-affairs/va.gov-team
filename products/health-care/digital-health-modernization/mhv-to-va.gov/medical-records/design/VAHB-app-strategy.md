@@ -103,5 +103,18 @@ ___
  
 **Current modality:** Native
 
-**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Allergies more findable
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make vaccines more findable
 ___
+
+### Remaining domains 
+___
+
+### Care summaries and notes 
+
+**Recommendation:** Include 
+
+**Rationale:** Second most accessed domain. Quick access is important for coordinating care. 
+ 
+**Current modality:** Native
+
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
