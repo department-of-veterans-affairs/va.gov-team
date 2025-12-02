@@ -131,7 +131,7 @@ This is the staging environment for VA.gov where we can test out new ideas to ma
 
 I'm now going to have you log in as a test user by taking the following steps:
 1. Click the Sign In button in the upper right corner
-2. Select ID.me green button
+2. Select the ID.me green button
 3. Paste the following email address into the email text box: emma.smith@id.me
 4. Paste the following password into the password text box: Tester1& **Note that this needs to change for each session**
 5. You'll see there is a fake telephone number in this pop up window. Simply click the "Continue" button to continue
