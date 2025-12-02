@@ -25,7 +25,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 15. **[Rep Communication] Set up shared support mailbox**: Data analysis for insights, draft email address suggestions
 16. **[Rep Onboarding] Cooridnate with LEAF team to produce feature demo videos**: Provide script feedback
 17. **[Rep Onboarding] NACVSO**: Conduct demo meeting
-19. **ARC Team Onboarding and Setup**: Wrap up review instances initial pass
+19. **ARC Team Onboarding and Setup**: Review instances
 
 # Sprint 4 (Nov 18 - Dec 1, 2025)
 
