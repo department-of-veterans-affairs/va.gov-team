@@ -258,6 +258,7 @@ Thank you! Now I’d like you to do something else for me...
 
 * What do you think this screen is for?
 * What do you think you should do next?
+* Do you find this screen to be helpful?
 
 *Things to watch for:*
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
