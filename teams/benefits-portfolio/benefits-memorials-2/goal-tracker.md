@@ -111,10 +111,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 23 [12/3/25 - 12/16/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: TBD| QP# |--|--|--|
-|UX: TBD| QP# |--|--|--|
-|ENG: TBD| QP# |--|--|--|
-|ENG: TBD| QP# |--|--|--|
+|BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|--|
+|FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|--|
+|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|--|
+|UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|--|
+|UX: Establish November monthy Meadallia report.| QP7 |--|--|--|
+|UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [] Ready to be sent for approvals (12/x/25)
