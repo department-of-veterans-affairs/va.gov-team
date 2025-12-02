@@ -14,9 +14,17 @@
 
 # Your set-up - 1 minutes
 
-**Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov)?**
+Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov)?
 
 Notes:
+
+---
+
+# Participant coaching & accessing Figma prototype
+
+For the first set of questions, we have created a prototype of the medications experience on VA.gov. To access this prototype, simply click the link that I just pasted in the Zoom chat.
+
+https://tinyurl.com/4ewwp6f5
 
 ---
 
