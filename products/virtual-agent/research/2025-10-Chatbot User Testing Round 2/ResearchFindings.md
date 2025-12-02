@@ -62,12 +62,12 @@ demographics:
     sighted_keyboard: 0
     captions: 0
 key_findings:
-  - Users had no problem finding the answers to their questions very quickly.
-  - There needs to be further refinement on clarifying questions.
-  - There are serious issues with accessability for users that require screen readers.
-  - The chatbot is seen by users as accurate, clear, complete and easy to understand.
-  - Only direct links should be used in answers to avoide confusion by users.
-  - Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers
+  - "Users had no problem finding the answers to their questions very quickly."
+  - "There needs to be further refinement on clarifying questions."
+  - "There are serious issues with accessability for users that require screen readers."
+  - "The chatbot is seen by users as accurate, clear, complete and easy to understand."
+  - "Only direct links should be used in answers to avoide confusion by users."
+  - "Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers."
   # etc.
 recommendations:
   - "Clarifying Questions: Participants want fewer generic “please clarify” prompts; chatbot should proactively guide users to rephrase or select from options."
