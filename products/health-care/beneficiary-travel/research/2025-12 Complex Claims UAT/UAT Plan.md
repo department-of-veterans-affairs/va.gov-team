@@ -3,7 +3,7 @@
 	
 `What problem is your product trying to solve?`
 
-The goal of the Beneficiary Travel Pay team is to empower users to do more with their travel reimbursement claims on VA.gov. This process allows users to submit claims on [VA.gov](http://VA.gov) that include reimbursement requests for mileage reimbursement only or additional expenses that include receipts.  
+The goal of the Beneficiary Travel Pay team is to empower users to do more with their travel reimbursement claims on VA.gov. This process allows users to submit claims on VA.gov that include reimbursement requests for mileage reimbursement only or additional expenses that include receipts.  
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -46,7 +46,7 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Ensure a beneficiary can file a complex claim on VA.gov from start to finish. While there are currently some planned limitations for complex claims on VA.gov, we want to ensure a user can understand the limitations, start a claim, add expenses to their claim, and file a claim.
+1. Ensure a beneficiary can file a complex claim on VA.gov from start to finish. We want to ensure a user can understand the steps and limitations, start a claim, add expenses to their claim, and file a claim.
 
 2. Test that the content, including error messages and redirects, appear properly and are clear to users.
 
@@ -68,18 +68,17 @@ The learnings from this study will be used to determine critical fixes prior to 
 
 4. How does the participant navigate within the tool? 
 
-5. Is any functionality missing that prevents users from successfully filing a claim?
+5. Can the participant successfully submit a claim? 
 
 ### Hypotheses
 
-We hypothesize that a beneficiary will be able to complete a claim on Va.gov from start to finish. Beneficiaries may be confused by some of the nuances of complex claims, but our content and direction will allow them to successfully add expenses, edit expenses, leave a claim, re-enter, and submit a claim on VA.gov.
+We hypothesize that a beneficiary will be able to complete a claim on VA.gov from start to finish. Beneficiaries may be confused by some of the nuances of complex claims, but our content and direction will allow them to successfully add expenses, edit expenses, leave a claim, re-enter, and submit a claim on VA.gov.
 
 ---
   
 ## Methodology  🛠️
 
-User acceptance testing (UAT):
-- We will ask users to test key scenarios outlined in the test plan (TBD)
+This test will take the form of User acceptance testing (UAT). We will ask users to test key scenarios outlined in the [conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md).
 
 ### Location
 
@@ -88,20 +87,10 @@ User acceptance testing (UAT):
 
 ## Research materials 📔
 
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md)
 - [Test scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/test%20scenarios.md)
-- Test URL TBD
-- NOTE: We are testing in prod.
+- Test URL: https://va.gov/my-health/appointments/past (We are testing in the production environment)
 
-**For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md)
-- [Link to prototype](url goes here)
-
-
-**If recruiting outside of Perigean’s participant database:**
-- Perigean.
-
-  
----- TBD ON RECRUITMENT AND TIMING
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
@@ -130,7 +119,6 @@ User acceptance testing (UAT):
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
 - `Veterans:` **[9]**
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
@@ -138,28 +126,41 @@ User acceptance testing (UAT):
 - `Ideal completed sessions:` **[6]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `All have VA health care as a benefit`
+- `All have successfuly filed for travel reimbursement in the past, using direct deposit`
+- `All have or will have an in-person appointment within 30 days of [DATE TBD] for which they plan to file for travel pay`
+- `Minimum 4 are mobile users`
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `Minimum 3 are women`
+- `Minimum 3 are over 55 years of age`
+- `Minimum 3 are under 54 years of age`
+- `Minimum 3 have a cognitive impairment`
+- `Minimum 3 live in rural areas`
+- `Minimum 1 has no degree`
+- `Minimum 4 have a terminal HS degree`
+- `Minimum 2 have a terminal AS degree`
+- `Minimum 2 have a terminal BS degree`
+- `Minimum 1 have a terminal MS degree`
+- `Minimum 2 are Black/African American`
+- `Minimum 2 are Hispanic/Latino`
+- `Minimum 1 is Asian`
+- `Minimum 1 is Native American`
 
 ## Timeline 🗓️
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+Suggested dates and times: 
+- `Monday, Dec 8 at 11:30am ET`
+- `Tuesday, Dec 9 at 2pm ET`
+- `Tuesday, Dec 9 at 3pm ET`
+- `Wednesday, Dec 10 at 10am ET`
+- `Thursday, Dec 11 at 10am ET`
+- `Friday, Dec 12 from 11:30am ET through 3:00pm ET`
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -175,11 +176,9 @@ User acceptance testing (UAT):
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
-  
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
-  
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Session length:` **1 hour**
+- `Buffer time between sessions:` **30 minutes**
+- `Maximum Sessions per day:` **3**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -207,12 +206,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **Kristen Faiferlick and Liza McRuer**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Kristen Faiferlick and Liza McRuer**		
+- `Research guide writing and task development:` **Kristen Faiferlick and Liza McRuer**		
 - `Participant recruiting & screening:`	**Kristen Faiferlick and Liza McRuer**	
 - `Project point of contact:` **Kristen Faiferlick and Liza McRuer**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **Kristen Faiferlick and Liza McRuer**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **TBD**	
 - `Note-takers:` **Kristen Faiferlick and Liza McRuer** 
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Observers:`
 
 - **[Enter full name]**
 - **[Enter full name]**
