@@ -100,7 +100,7 @@ synthesis_tools_used:
 
 **Date:** November 2025
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Health Apps UX Team - Renata K, Jessica S, Hieu V
 
 **[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -141,10 +141,7 @@ synthesis_tools_used:
 - How confident are Veterans in their understanding to set up direct deposit for FMP claims?
 
 ## Methodology 
-
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
-- Method: Semi-structured moderated interviews with a mid-fidelity Figma prototype  
+- Semi-structured moderated interviews with a mid-fidelity Figma prototype  
 
 
 ## Hypotheses and Conclusions
@@ -160,6 +157,8 @@ synthesis_tools_used:
 - **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
+
+
 
 ## Key Findings
 
@@ -250,17 +249,20 @@ This research supports measurement of this KPI by....
 
 ### Research documents
 - [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/conversation-guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/transcripts)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+*Spreadsheet with theme tagging*  
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+**Figma Prototypes**
+- [Link to prototype - Mobile](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4372&p=f&t=Dzln41diTGrZVcIU-1&scaling=min-zoom&content-scaling=fixed&page-id=6895%3A4371&starting-point-node-id=6895%3A4372)
+- [Link to prototype - Desktop](https://www.figma.com/proto/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6941-5267&p=f&t=neJBJ5eSTG2b1b83-0&scaling=min-zoom&content-scaling=fixed&page-id=6941:5218&starting-point-node-id=6941:5267)
+
 
 
 ### Other supporting documents created
@@ -271,6 +273,7 @@ This research supports measurement of this KPI by....
 ### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -283,12 +286,12 @@ _If you had specific criteria that you recruited for, use this space to explain 
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **8 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 8 
+* Caregivers: 0 
+* Family members of a Veteran: 0 
 
 
 Gender:
