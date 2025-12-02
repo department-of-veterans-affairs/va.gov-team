@@ -71,7 +71,16 @@ Mitigation: Full e2e testing in Staging environment and phased rollout in Produc
 
 ---
 
+## Day of release - order of operations
+
+* Disable the `va_dependents_v2` feature flag to hide the v1 form
+* Enable the `va_dependents_v3` feature flag to show the v3 (picklist) form
+
+---
+
 ## Phased Rollout Strategy
+
+***Note:** Matt Knight, Robin Garrison, or Wayne Weibel will control the audience percentage updates
 
 **Canary Phase**
 - **Audience**: Internal only
