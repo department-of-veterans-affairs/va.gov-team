@@ -116,7 +116,8 @@ _[If no:]_ Go ahead and share your screen for me now.
 
 * [iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
 * [Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
-* [Link to screenshare instructions for AT users once we know what AT participants are using](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
+* [Desktop screen readers troubleshooting](https://depo-platform-documentation.scrollhelp.site/research-design/desktop-screen-readers)
+* [Speech recognition troubleshooting](https://depo-platform-documentation.scrollhelp.site/research-design/speech-recognition-instructions-and-troubleshootin#Speechrecognitioninstructionsandtroubleshootingduringresearch-Troubleshooting)
 
 ---
 
