@@ -350,7 +350,8 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Recruitment Start:** 12/2/2025  
 - **Research Review Submission:** 12/1/2025  
 - **Study Duration:** 12/10/2025 - 1/2/2026 (including synthesis and shareout)
-
+- **Contigency Timeline:** Due to holidays 12/10/2025 - 1/9/2026
+   
   ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
