@@ -23,6 +23,7 @@ Keep these items in mind while working through the sections below:
 
 - [Frequently Seen Alerts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/champva/team/frequently-seen-alerts.md)
 - [Key Personnel](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/champva/team/key-personnel.md)
+- [Commands for the Rails Console on Argo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md)
 
 ### Key Personnel
 
