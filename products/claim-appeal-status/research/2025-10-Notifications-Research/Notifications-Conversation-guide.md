@@ -2,7 +2,7 @@
 title: "Conversation Guide for Benefits Management Notifications Study"
 author: "Naomi Howe"
 date_created: "2025-11-17"
-last_modified: "2025-11-25"
+last_modified: "2025-12-02"
 tags:
   - "Benefits Management Tools"
   - "Notifications Research"
@@ -12,7 +12,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 **Study Name:** Benefits Management Notifications Study  
 **Product / Team:** Benefits Management Tools (BMT 3) – Notifications  
-**Date:** 12/15–12/19/2025  
+**Date:** 12/10 – 12/19/2025  (12/22-23 if needed)
 **Moderator:** Naomi Howe  
 **Note-taker:** Melissa Lefevre, Guy Schmidt  
 **Session Duration:** ~60 minutes  
@@ -29,7 +29,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - Send observer instructions to any observers (via Slack channel `#feedback-backchannel`).  
 - Mute your Slack notifications during the session.  
 - Ensure the participant has instructions for sharing their screen.
-
+- mid-session check-in (~30 min mark): "How are you feeling? Do you need a quick break?"
 ---
 
 ## 2. Introduction and Consent (5 min)
@@ -183,10 +183,11 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - On a scale of 1–5, how confident are you that you understand this message and know what you’re supposed to do next?  
 - What should you do after reading this message?  
 - How would you do it?  
-- When does it need to be completed?  
+- When does it need to be completed? How urgent does this message feel to you? 
 - Was any aspect of this message (font, color, wording) hard to read or confusing?  
 - On a scale of 1–5, how trustworthy does it feel? What about it makes you feel that way?  
 - How would the device (phone, tablet, computer) you receive the notification on impact your ability to read, trust, or act on it?
+- The text message says 'we need more information' but doesn't say what kind of information or why. Tell me what you think about that level of specificity?
 
 ### Wrap-up of Scenario 2
 
@@ -204,8 +205,9 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 - When you think about both messages together, what differences stand out to you?  
 - Did you notice any differences in language between channels? Did that affect how quickly you understood the message?  
-- Do these two messages feel like they each serve their purpose — decision letters to inform you and evidence requests to prompt action?  
-- How would you expect the tone or level of detail to differ between these two types of notifications?  
+- If you saw these two messages in your inbox without reading them carefully, what would help you instantly know which one needs urgent action vs. which one is just informational? Should they look or sound different?
+- How would you expect the tone or level of detail to differ between these two types of notifications?
+- For both of these types of messages imagine you receive a text message in the morning, then an email an hour later, and then see the same notification in the app when you log in that afternoon. Walk me through how you'd respond. Which would you engage with first? Would receiving it multiple times feel helpful or overwhelming? 
 
 **Text Message–Specific Reflection**
 
