@@ -12,7 +12,7 @@ background:
   problem_statement: "Today, Veterans primarily receive benefits notifications by paper mail, with decision letters also sent via email. Other notifications, such as evidence requests, are still paper-only. While these channels provide official documentation, they offer limited flexibility for timely or interactive communication. As BMT expands to include text messages and in-app notifications, we need to understand how Veterans interpret, trust, and act on messages across these channels. This study focuses on decision letter and evidence request notifications to ensure Veterans receive clear, consistent, and trustworthy communications about their benefits."
   product_location: "The notification system (VA Notify) is integrated across VA.gov’s benefits management ecosystem and the VA Health and Benefits mobile app, primarily supporting the Claim Status Tool and related benefits management features."
   user_familiarity: "Veterans are already familiar with receiving benefit updates by email and paper mail. This study builds on that experience by exploring preferences for text and in-app notifications."
-  product_brief_url: "N/A"
+  product_brief_url: "[Product Brief](#product-brief)"
 
 # Research Design
 methodology: "Semi-structured interviews with scenario-based evaluation of notification examples."
