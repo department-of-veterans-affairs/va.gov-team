@@ -121,9 +121,28 @@ _[If no:]_ Go ahead and share your screen for me now.
 ---
 
 
-## Participant Coaching
+## Participant coaching & test user login
 
-Before we begin, take a minute or two to look around this page.
+To begin, I'm going to have you follow the link that I have just pasted into the chat.
+
+https://staging.va.gov/
+
+This is the staging environment for VA.gov and I'm now going to have you log in as a test user by taking the following steps:
+1. Click the Sign In button in the upper right corner
+2. Select ID.me green button
+3. Paste the following email address into the email text box: emma.smith@id.me
+4. Paste the following password into the password text box: Tester1& **Note that this needs to change for each session**
+5. You'll see there is a fake telephone number in this pop up window. Simply click the "Continue" button to continue
+6. Similarly, go ahead and click the "Continue" button here as well
+7. Great! You're logged in.
+
+Now we're going to navigate to the medications landing page. To do this:
+1. Select My HealtheVet in the upper right menu
+2. Scroll down to the Medications box and select "Review medications."
+
+Excellent. We're now where we need to be.
+
+Let's take a minute or two to look around this page.
 
 As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
 
@@ -137,9 +156,7 @@ If you are ready, we can begin. 
 
 ## First task: Status comprehension
 
-First, we’re going to open the Figma prototype link that you were sent. This prototype is interactive in that the filter can be used to filter the medication list that appears below.
-
-Now we'll begin our questions. First:
+Now we'll begin our first set of questions.
 
 1. Tell me what you see on the page.
 2. What can you tell me about what’s going on with your prescriptions?
@@ -195,10 +212,6 @@ Thank you! Now I’d like you to do something else for me...
 
 
 ## Second Task: Request a renewal
-
-Now you're going to log into the staging site for VA.gov with the test user login information you were sent. 
-
-_[Include instructions here on how to log into the test user or will they have already done this?]_
 
 ### List page
 
