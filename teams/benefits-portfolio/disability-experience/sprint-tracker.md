@@ -4,6 +4,8 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 
 # Sprint 18 Tickets  [11/19/25 - 12/02/25]
 
+Due to ongoing Platform restrictions (the Shai Hulud worm attach), a few tickets remain in Needs Review and Awaiting Prod Deploy status. These have been reviewed by the team and will move forward once Platform allows.
+
 | Sprint | Team | Title | URL | Estimate | Status | Sprint Notes |
 | :---: | --- | --- | --- | ---: | :---: | --- |
 | Sprint 18 | Core Form Team | Define current rate and reduction goal for Veteran\-provided evidence submissions total failures | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/114657 | 2 | Done |  |
