@@ -179,13 +179,15 @@ How do we want to communicate around this?
 - The app currently points Veterans to VA.gov (i.e, Go to VA.gov to view your complete medical record) where a Veteran can access CCD. 
 - Low traffic
 
-Recommendation: We should avoid surfacing or specifically calling out CCD (Continuity of Care Document) within the VAHB app, as it adds unnecessary complexity. Veterans will still be access the CCD via VA.gov (i.e., Go to VA.gov to view your complete medical record)  
+**Recommendation:** We should avoid surfacing or specifically calling out CCD (Continuity of Care Document) within the VAHB app, as it adds unnecessary complexity. Veterans will still be access the CCD via VA.gov (i.e., Go to VA.gov to view your complete medical record)  
 
-Blue Button: Will not be in the app. How do we want to communicate around this? 
+**Blue Button:** Will not be in the app. 
+
+How do we want to communicate around this? 
 
 - I don’t see evidence that Veterans are looking for Blue Button within the app. However, we know that it is the third most accessed feature on MR. 
-- There could be some value language linking Veterans to the download page page 
-- With that being said, I continue to lean towards pointing users back to VA.gov with high level, simple messaging until we have more evidence that different content is needed: 
+- There could be some value language linking Veterans to the download page. 
+- With that being said, I continue to lean towards pointing users back to VA.gov with high-level, simple messaging until we have more evidence that different content is needed around the Blue Button. 
 
 Go to VA.gov to view your complete medical record: 
 [Link] View medical records on VA.gov
@@ -196,6 +198,21 @@ _Note: There is some general disagreement around this approach._
 
 - From Cara: Veterans don't fully understand that they can do more on VA.gov then in the app.
 
-I would like to see feedback to contextualize it a bit for myself
+<img width="343" height="685" alt="Screenshot 2025-11-24 at 10 33 08 AM" src="https://github.com/user-attachments/assets/8c4a82e0-fca2-41bb-a6ca-134e342d80bc" />
+
+## Future design exploration: 
+
+- Sort
+- Filter
+- Search  
+A combination of the three - To make the domains more findable and improve navigation. 
+
+- Print/download 
+
+What are the issues we are seeing with it? The interaction? The placement? Things out of our control or within our control? 
+
+- Push notifications 
+How can we utilize push notifications on VAHB for MRs on the app?
+
 
 
