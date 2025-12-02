@@ -162,29 +162,26 @@ Now we'll begin our first set of questions.
 
 1. Tell me what you see on the page.
 2. What can you tell me about what’s going on with your prescriptions?
-3. What can you tell me about your PEPCID medication? (make med in “**active** status”)
+3. What can you tell me about your _______ medication? (make med in “**active** status”)
     1. Probe: what does the **active** status mean to you?
+        1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
-        1. What do you think “active” means?
-        2. On a scale of 1-5, how confident are you in that answer?
-        3. What do you think happens next for your medication?
-        4. How would you feel if you saw this status on an important medication?
-4. What can you tell me about your LOPRESSOR medication? (make med in “**in progress** status”)
-    1. Probe: what does that mean to you?
+        1. What do you think happens next for a medication with an **active** status?
+        2. How would you feel if you saw this status on an important medication?
+4. What can you tell me about your ________ medication? (make med in “**in progress** status”)
+    1. Probe: what does the **in progress** status mean to you?
+        1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
-        1. What do you think “in progress” means?
-        2. On a scale of 1-5, how confident are you in that answer?
-        3. What do you think happens next for your medication?
-        4. How long would you expect a medication to stay 'in progress'?
-        5. If you saw this status for several days, what would you think?
-        6. How would you feel if you saw this status on an important medication?
-5. What can you tell me about AMOXICILLIN medication? (make med in “**inactive** status”)
-    1. Probe: what does that mean to you?
+        1. What do you think happens next for a medication with an **in progress** status?
+        2. How long would you expect a medication to stay **in progress**?
+        3. If you saw this status for several days, what would you think?
+    3. How would you feel if you saw this status on an important medication?
+5. What can you tell me about _________ medication? (make med in “**inactive** status”)
+    1. Probe: what does the **inactive** status mean to you?
+        1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
-        1. What do you think “inactive” means?
-        2. On a scale of 1-5, how confident are you in that answer?
-        3. What do you think happens next for your medication?
-        4. How would you feel if you saw this status on an important medication?
+        1. What do you think happens next for your medication?
+        2. How would you feel if you saw this status on an important medication?
 6. Now, imagine that you take a medication regularly. You notice that you are running out of pills. Using this page, do you think you could get more of your med?
 7. Imagine that you had a bad rash a couple of years ago. Your doctor gave you a medication and it went away. Now, that rash is back. Do you think that you could find the medication you took on this page? What would you look for?
     1. [*Notice:] Do they filter? Do they think of status or just date?*
