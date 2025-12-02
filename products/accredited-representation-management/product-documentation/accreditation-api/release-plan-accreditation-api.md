@@ -1,6 +1,6 @@
 # Release Plan: Accreditation API Integration
 
-**Update as of 12/2025**: Due to unexpected data in Staging from the GCLAWS Accreditation API, and the inability to resolve non-Production issues at this time, the team is choosing to forgo the release plan below and instead move forward with Production Testing and Release via the following tickets:
+**Update as of December 2025**: Due to unexpected data in Staging from the GCLAWS Accreditation API, and the inability to resolve non-Production issues at this time, the team is choosing to forgo the release plan below and instead move forward with Production Testing and Release via the following tickets:
 1. [Testing the Accreditation API in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323)
 2. [Enable the Accreditation API Integration in Production
 ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106367)
