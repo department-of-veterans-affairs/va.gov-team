@@ -160,3 +160,6 @@ Coordinators feel isolated from decision-makers. The "Neighborhood" peer network
 
 Most coordinators work alone or with minimal support, and their job responsibilities often expand beyond their official scope.  They handle both veteran support and staff training, manage secure messaging escalations, create training materials, and provide general technology education.  PTAs are one tool in their toolbox that they have come to rely on to enable them to multiply their ability to provide support to Veterans.
 
+## Summary
+If PTAs go away, MHV coordinators will need something they can use to train staff.  Demo mode may or may not be the right solution for that particular issue.  However, there is a larger issue that needs to be addressed, providing support to MHV coordinators who are the front-line staff that assist Veterans with not only gaining access to their digital accounts but also to healthcare and benefits.  From these conversations, coordinators are doing their best to help Veterans transition to modern credentials amongst a myriad of other tasks and are often overwhelmed while also feeling like they are unable to remove roadblocks for their Veterans.  
+
