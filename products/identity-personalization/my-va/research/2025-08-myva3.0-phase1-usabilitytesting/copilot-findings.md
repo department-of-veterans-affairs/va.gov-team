@@ -24,7 +24,7 @@ Overall Copoilt did an overall good job of analyzing the user research transcrip
 
 
 
-## Copilt Results: 
+## Copilot results: 
 Quick note about evidence and scope
 
 The findings below reflect recurring themes across the nine session transcripts you supplied. I call out when an insight was mentioned by many participants vs. a smaller number. Where participants disagreed, I note the split.
