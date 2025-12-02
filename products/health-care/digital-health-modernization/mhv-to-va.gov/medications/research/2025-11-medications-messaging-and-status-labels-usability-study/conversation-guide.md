@@ -214,7 +214,7 @@ Thank you! Now I’d like you to do something else for me...
 
 ### List page
 
-**You have a prescription for CLOBETASOL PROPIONATE 0.05% CREAM that your pharmacy told you is out of refills. What would you do if you needed more meds?**
+**You have a prescription for CLOBETASOL PROPIONATE 0.05% CREAM that your pharmacy told you is out of refills. What would you do if you needed more of this medication?**
 
 
 * Where would you go to request more of this medication?
