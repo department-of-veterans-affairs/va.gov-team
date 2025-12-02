@@ -12,6 +12,14 @@
 
 ---
 
+# Your set-up - 1 minutes
+
+**Before we begin, can you tell us a bit about your computer setup (your device, your settings, any assistive technology tools or strategies you use when you're working with VA.gov)?**
+
+Notes:
+
+---
+
 # First task: Status comprehension
 
 1. **Tell me what you see on the page.**  
