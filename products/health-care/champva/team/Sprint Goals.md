@@ -9,11 +9,9 @@
 - [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d v2: Deploy fix for break statement interrupting 10-10d v2 launch
 - [ ] **SPRINT GOAL** 10-10d v2: Identify and correct all lost submissions from 10-10d v2 launch
-- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery 
+- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
 - [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle
 - [ ] **SPRINT GOAL** 10-7959C: Generate new PDF for stand alone
-- [ ] **SPRINT GOAL** 10-7959C: Proof of Concept to Combine Front and Back OHI/Medicare Card Images
-- [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance
 - [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
 - [ ] **SPRINT GOAL** All forms: Monitor incidents Add New Logs
@@ -21,8 +19,8 @@
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
-- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics
-- [ ] **SPRINT GOAL** Data: Monthly Medallia Metrics - November 2025
+- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
+- [ ] **STRETCH GOAL** 10-7959C: Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 
 
 ##
