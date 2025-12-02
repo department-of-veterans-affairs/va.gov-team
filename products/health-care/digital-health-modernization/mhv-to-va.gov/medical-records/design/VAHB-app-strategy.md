@@ -148,3 +148,11 @@ Uncertain if Veterans rely on (compared to other domains when tracking health/co
 **Current modality:** Native
 
 **Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
+
+## Potential implementation general paths:
+
+We already have responsive designs. So, we can do a WebView (understanding there is technical discovery, etc) as soon as possible for the domains we choose to include (Care summaries and notes, potentially Vitals, potentially Health conditions). Then work to build them in the native app for a better experience. **If there is urgency, we can follow this path** 
+
+   Or
+
+**Recommended:** Build each domain natively (and message or point Veterans to VA.gov for their full MR, in whatever way we see best). 
