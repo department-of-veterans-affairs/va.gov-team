@@ -121,34 +121,17 @@ _[If no:]_ Go ahead and share your screen for me now.
 ---
 
 
-## Participant coaching & test user login
+## Participant coaching & accessing Figma prototype
 
-To begin, I'm going to have you follow the link that I have just pasted into the chat.
+For the first set of questions, we have created a prototype of the medications experience on VA.gov.
 
-https://staging.va.gov/
+To access this prototype, simply click the link that I just pasted in the Zoom chat.
 
-This is the staging environment for VA.gov where we can test out new ideas to make sure they work before we go live. 
+https://tinyurl.com/4ewwp6f5
 
-I'm now going to have you log in as a test user by taking the following steps:
-1. Click the Sign In button in the upper right corner
-2. Select the ID.me green button
-3. Paste the following email address into the email text box: emma.smith@id.me
-4. Paste the following password into the password text box: Tester1& **Note that this needs to change for each session**
-5. You'll see there is a fake telephone number in this pop up window. Simply click the "Continue" button to continue
-6. Similarly, go ahead and click the "Continue" button here as well
-7. Great! You're logged in.
+Great, you are in! You can scroll up and down this page as you would a webpage and while not all the links are functional, you are able to use the filter to filter the medication list below.
 
-Now we're going to navigate to the medications landing page. To do this:
-1. Select My HealtheVet in the upper right menu
-2. Scroll down to the Medications box and select "Review medications."
-
-Excellent. We're now where we need to be.
-
-Let's take a minute or two to look around this page.
-
-As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
-
-Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
+One note before we begin our questions. Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
 
 If you are ready, we can begin. 
 
@@ -162,13 +145,13 @@ Now we'll begin our first set of questions.
 
 1. Tell me what you see on the page.
 2. What can you tell me about what’s going on with your prescriptions?
-3. What can you tell me about your _______ medication? (make med in “**active** status”)
+3. What can you tell me about your PEPCID medication? (make med in “**active** status”)
     1. Probe: what does the **active** status mean to you?
         1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
         1. What do you think happens next for a medication with an **active** status?
         2. How would you feel if you saw this status on an important medication?
-4. What can you tell me about your ________ medication? (make med in “**in progress** status”)
+4. What can you tell me about your LOPRESSOR medication? (make med in “**in progress** status”)
     1. Probe: what does the **in progress** status mean to you?
         1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
@@ -176,7 +159,7 @@ Now we'll begin our first set of questions.
         2. How long would you expect a medication to stay **in progress**?
         3. If you saw this status for several days, what would you think?
     3. How would you feel if you saw this status on an important medication?
-5. What can you tell me about _________ medication? (make med in “**inactive** status”)
+5. What can you tell me about AMOXICILLIN medication? (make med in “**inactive** status”)
     1. Probe: what does the **inactive** status mean to you?
         1. On a scale of 1-5, how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
@@ -189,6 +172,8 @@ Now we'll begin our first set of questions.
 8. Ok, now imagine that you have successfully requested a refill for that rash medication. Where would you look for it?
     1. Probe: What status would that medication be in?
 9. How would you differentiate between a 'refill' and a 'renewal'? Is there a difference between those terms to you?
+10. Is there anything confusing to you about the medications that are out of refills?
+
 
 *[Things to watch out for:]*
 
@@ -211,6 +196,34 @@ Thank you! Now I’d like you to do something else for me...
 
 
 ## Second Task: Request a renewal
+
+For the second set of questions, I'm going to have you follow the link that I have just pasted into the chat.
+
+https://staging.va.gov/
+
+This is the staging environment for VA.gov where we can test out new ideas to make sure they work before we go live. 
+
+I'm now going to have you log in as a test user by taking the following steps:
+1. Click the Sign In button in the upper right corner
+2. Select the ID.me green button
+3. Paste the following email address into the email text box: emma.smith@id.me
+4. Paste the following password into the password text box: Tester1& **Note that this needs to change for each session**
+5. You'll see there is a fake telephone number in this pop up window. Simply click the "Continue" button to continue
+6. Similarly, go ahead and click the "Continue" button here as well
+7. Great! You're logged in.
+
+Now we're going to navigate to the medications landing page. To do this:
+1. Select My HealtheVet in the upper right menu
+2. Scroll down to the Medications box and select "Review medications."
+
+
+Excellent. We're now where we need to be.
+
+Let's take a minute or two to look around this page.
+
+As you can see, this is not your My HealtheVet account. If you look in the top right corner where your name would appear, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
+
+Ok let's begin with the task:
 
 ### List page
 
@@ -316,8 +329,11 @@ Thank you for completing that task. I have a few follow up questions for you:
 
 
 
-* "Before we wrap up Task 2, I'd like to show you one more thing. Please scroll to _________ medication.
-Imagine you tried to request a renewal for this medication, but when you clicked the link (which you can do now) you were taken to this page. What would you do next?
+* "Before we wrap up Task 2, I'd like to show you one more thing.
+
+INSERT INSTRUCTIONS HERE ON HOW THE USER CAN ACCESS THE ERROR PAGE.
+
+Imagine you tried to request a renewal for this medication, but when you clicked the link to send a message to request a renewal, you were taken to this page. What would you do next?
 
 *[Let participant finish task with minimal interruption.]*
 
