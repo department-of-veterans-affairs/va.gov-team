@@ -112,7 +112,7 @@ Would you like assistance sharing your screen?
 
 _[If no:]_ Go ahead and share your screen for me now.
 
-*[Follow protocol for particular OS (Android/iOS)]*
+*[Follow protocol for particular OS (Android/iOS) and AT]*
 
 * [iPhone screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/iphone-start-screen-share)
 * [Android screenshare instructions](https://depo-platform-documentation.scrollhelp.site/research-design/android-start-screen-share)
@@ -126,7 +126,7 @@ _[If no:]_ Go ahead and share your screen for me now.
 
 For the first set of questions, we have created a prototype of the medications experience on VA.gov.
 
-To access this prototype, simply click the link that I just pasted in the Zoom chat.
+To access this prototype, simply select the link that I just pasted in the Zoom chat.
 
 https://tinyurl.com/4ewwp6f5
 
@@ -190,7 +190,7 @@ Great, thank you for providing your thoughts on these statuses. Some quick quest
 * Does anything about the different statuses feel overwhelming or hard to process?
 * Have you seen a status like this before on My HealtheVet? How is this similar or different from what you're used to seeing?
 * How would you like to learn that the words we use to describe statuses have changed, if at all?
-* [For AT users:] Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [screen magnification]*?
+* [For AT users:] Did any part of reviewing the statuses feel harder because of using *[a screen reader] or [speech input]*?
 * Anything else about statuses that you’d like to share?
 
 Thank you! Now I’d like you to do something else for me...
@@ -220,7 +220,7 @@ Now we're going to navigate to the medications landing page. To do this:
 
 Excellent. We're now where we need to be.
 
-Let's take a minute or two get familiar with this page.
+Let's take a minute or two to get familiar with this page.
 
 As you can see, this is not your My HealtheVet account. If you look (in the top right corner) where your name would display, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
 
@@ -321,8 +321,8 @@ Thank you for completing that task. I have a few follow up questions for you:
 * Did anything in the process feel overwhelming or hard to process?
 * What would you change about this process?
 * What would you keep about this process?
-* _[For AT users:]_ Did any part of of the process feel harder because of using *[a screen reader] or [screen magnification]*?
-* _[For AT users:]_ If you were teaching someone else who uses *[a screen reader] or [screen magnification]* to do this, what would you warn them about?
+* _[For AT users:]_ Did any part of of the process feel harder because of using *[a screen reader] or [speech input]*?
+* _[For AT users:]_ If you were teaching someone else who uses *[a screen reader] or [speech input]* to do this, what would you warn them about?
 
 
 *[Ask the following questions to all users whether they were able to complete the reqeust or not.]*
