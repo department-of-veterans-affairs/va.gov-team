@@ -2,7 +2,7 @@
 # Research Plan Metadata
 title: "Research Plan for Notifications Study – Decision Letters and Evidence Requests"
 date: 2025-10-26
-last_updated: 2025-10-26
+last_updated: 2025-12-02
 team: "Benefits Management Tools (BMT)"
 product: "VA Benefits Management Notifications"
 product_area: "authenticated"
@@ -67,18 +67,18 @@ recruitment:
       qualifying_response: "Any"
 
 participants:
-  veterans: 15
+  veterans: 18
   caregivers: 0
   dependents: 0
-  total_recruited: 15
+  total_recruited: 18
   completed_sessions_goal: 10-12
   
 # Timeline & Sessions
 timeline:
-  pilot_date: "2025-11-10"
-  pilot_participant: "TBD"
-  research_dates: "2025-11-11 to 2025-12-05"
-  research_review_submission: "2025-11-05"
+  pilot_date: "2025-12-9"
+  pilot_participant: "Steven Straily"
+  research_dates: "2025-11-11 to 2026-1-02"
+  research_review_submission: "2025-12-01"
   
 session_details:
   duration_minutes: 60
@@ -334,7 +334,7 @@ Sampling will focus on Veterans with experience managing disability compensation
 - 4+ participants with low digital literacy
 
 ### Sample Size
-- **Veterans:** 15 total recruited  
+- **Veterans:** 18 total recruited  
 - **Ideal Completed Sessions:** 10–12  
 
 - **Kick Off Call Request:**  12/3-12/5 12pm-2pm ET, 330-430pm ET
@@ -349,7 +349,7 @@ Sampling will focus on Veterans with experience managing disability compensation
 - **Kick Off Call Request:**  30 min block, Availability: 12/3-12/5, 12pm-2pm ET, 330-430pm ET
 - **Recruitment Start:** 12/2/2025  
 - **Research Review Submission:** 12/1/2025  
-- **Study Duration:** 3–4 weeks (including synthesis and shareout)
+- **Study Duration:** 12/10/2025 - 1/2/2026 (including synthesis and shareout)
 
   ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -392,6 +392,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `12/19, Fri, 12:00 PM EST`
 - `12/19, Fri, 2:00 PM EST`
 - `12/19, Fri, 4:00 PM EST`
+- `12/22, Fri, 10:00 AM EST`
+- `12/22, Fri, 12:00 PM EST`
+- `12/22, Fri, 2:00 PM EST`
+- `12/22, Fri, 4:00 PM EST`
+- `12/23, Fri, 10:00 AM EST`
+- `12/23, Fri, 12:00 PM EST`
+- `12/23, Fri, 2:00 PM EST`
+- `12/23, Fri, 4:00 PM EST`
 
   ## Team Roles  🕵️👩‍💻👩‍🔬
 
