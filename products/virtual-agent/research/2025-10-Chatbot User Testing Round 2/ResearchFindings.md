@@ -8,8 +8,8 @@ researchers:
   - "Lucas Wright"
 research_goals:
   - goal_1: "Increase the accuracy of the answers provided by the VA chatbot."
-  - goal_2: "Present these answers in an easy to read, easy to follow format so Veterans can get the answers they need to complete the tasks they need to on VA.gov."
-  - goal_3: "mprove the design by finding painpoints in the current proof of concept designs to accomidate any/all level of users."
+  - goal_2: "Present these answers in an easy to read, easy to follow format so Veterans can get the answers they need to complete the tasks on VA.gov."
+  - goal_3: "mprove the design by finding pain points in the current proof of concept designs to accommodate any and all user levels."
 methodology:
   "Moderated usability testing"
 devices_used:
@@ -64,9 +64,9 @@ demographics:
 key_findings:
   - "Users had no problem finding the answers to their questions very quickly."
   - "There needs to be further refinement on clarifying questions."
-  - "There are serious issues with accessability for users that require screen readers."
+  - "There are serious issues with accessibility for users that require screen readers."
   - "The chatbot is seen by users as accurate, clear, complete and easy to understand."
-  - "Only direct links should be used in answers to avoide confusion by users."
+  - "Only direct links should be used in answers to avoid confusion by users."
   - "Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers."
   # etc.
 recommendations:
@@ -116,31 +116,31 @@ synthesis_tools_used:
 
 
 **Jump to:**
-- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
-- [Key findings](#user-content-key-findings)
+- [Hypotheses and Conclusions](#user-content-hypotheses-and-conclusions)
+- [Key Findings](#user-content-key-findings)
 - [Recommendations](#user-content-recommendations)
 - [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
 - [Key Performance Indicators](#user-content-key-performance-indicators)
 - [Next Steps](#user-content-next-steps)
-- [Further research needed](#user-content-further-research-needed)
+- [Further Research Needed](#user-content-further-research-needed)
 - [Appendix](#user-content-appendix)
-- [Research participants](#user-content-research-participants)
+- [Research Participants](#user-content-research-participants)
 
 ## Research Goals
-The VA Chatbot aims to help Veterans self-serve and access information on VA.gov more easily, ultimately reducing call volume and supporting task completion without human assistance. The product assumes that improved digital experiences can shift behavior away from phone-based support, but gaps may exist in understanding edge cases, digital literacy, and accessibility for all user groups. The use case of this specific project is login or sign in questions, with a specific focus on unauthenticated questions for the chatbot. The long term goal of the chatbot is to have it in the bottom right corner of every page of VA.gov for use by Veterans and it is well documented that location of the chatbot is a poinpoint for many Veterans at the current time.
+The VA Chatbot aims to help Veterans self-serve and access information on VA.gov more easily. Ultimately reducing call volume and supporting task completion without human assistance. The product assumes that improved digital experiences can shift behavior away from phone-based support, but gaps may exist in understanding edge cases, digital literacy, and accessibility for all user groups. The use case of this specific project is login or sign in questions, with a specific focus on unauthenticated questions for the chatbot. The long term goal of the chatbot is to have it in the bottom right corner of every page of VA.gov for use by Veterans and it is well documented that location of the chatbot is a poinpoint for many Veterans at the current time.
 
 ### Goals
 
 **Clarity & Focus:**
 
-The goals are clear, actionable, and generally measurable (accuracy, readability, pain points). However, specific success metrics (e.g., target accuracy rates, satisfaction thresholds) would make them more robust.
+The goals are clear, actionable, and generally measurable (accuracy, readability, pain points). However, specific success metrics (e.g., target accuracy rates, satisfaction thresholds) would make them more effective.
 
 
 `1.` **Increase the accuracy of the answers provided by the VA chatbot.**
 
-`2.` **Present these answers in an easy to read, easy to follow format so Veterans can get the answers they need to complete the tasks they need to on VA.gov.**
+`2.` **Present these answers in an easy to read, easy to follow format so Veterans can get the answers they need to complete the the tasks they need to complete on VA.gov.**
 
-`3.` **Improve the design by finding pain points in the current proof of concept designs to accomidate any/all level of users.** 
+`3.` **Improve the design by finding pain points in the current proof of concept designs to accommodate all user levels."** 
 
 
 ## Research Questions
@@ -154,7 +154,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 4. Are users getting frustrated if questions are not properly answered?
 
-5. Are the lenghts of answers appropriate?
+5. Are the lengths of answers appropriate?
 
 6. How can we improve design?
 
@@ -169,7 +169,7 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 ## Methodology 
 
-For round 2 of research we will be conducting two differnt methods of research. The first will be hour long moderated usability testing using Veterans recruited from Perigean. The second method will be to recruit internal Veterans from within VA by using a survey to select the users. Those users will then be give 2 weeks to test the chatbot and use it as any user would, after which we will hold qualitative focus group feedback sessions in small 5-7 person groups.
+For the second round of research we will be conducting two different methods of research. The first will be hour long moderated usability testing using Veterans recruited from Perigean. The second method will be to recruit internal Veterans from within VA by using a survey to select the users. Those users will then be give 2 weeks to test the chatbot and use it as any user would, after which we will hold qualitative focus group feedback sessions in small 5-7 person groups.
 
 - Method 1: Moderated usability sessions 
 - Method 2: Unmoderated testing followed by focus group feedback  (Begins DEC 1 2025)
@@ -181,7 +181,7 @@ For round 2 of research we will be conducting two differnt methods of research. 
 
 1. By utilitzing LLM and/or AI in the current proof of concept, the chatbot will accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with test subjects and responding to feedback.
     1. TRUE: The chatbot is generally appreciated for concise answers by users.  When given follow up questions such as "Did this answer make sense?" or "Was all information provided?" or "Was it easy or difficult to find what you needed?", the overwhelming majority of users had little to no problem getting the chatbot to answer their question. 
-1. The answers will be clear, trustworty and channel agnostic. 
+1. The answers will be clear, trustworthy and channel agnostic. 
     1. TRUE: The chatbot is generally well-received and praised for its clarity by test participants.  Most found the format easy to scan/read, crediting bullet points, links, and breaks in information. None of the participants that were tested said that they felt confused nor did they feel that the chatbot provided innacurate or incorrect answers during their sessions. All of them said they trusted the answers and would have no issue using the instructions given in a real-life situation. 
 1. Ratings on the scoring matrix for accuracy, clarity, completeness and cognitive load will be 4.3 or above. 
     1. TRUE: Overall satisfaction for all categories was 4.6/5
@@ -196,11 +196,11 @@ For round 2 of research we will be conducting two differnt methods of research. 
 ## Key Findings
 
 1. Users had no problem finding the answers to their questions very quickly.
-1. There needs to be further refinement on clarifying questions.
-1. There are serious issues with accessability for users that require screen readers.
+1. There needs to be further refinement of clarifying questions.
+1. There are serious issues with accessibility for users that require screen readers.
 1. The chatbot is seen by users as accurate, clear, complete and easy to understand.
-1. Only direct links should be used in answers to avoide confusion by users.
-1. Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers
+1. Only direct links should be used in answers to avoid confusion by users.
+1. Users showed trustworthiness of the chatbot, despite multiple and varied warnings and disclaimers.d
 
 ## Details of Findings 
 
@@ -230,10 +230,10 @@ The chatbot is seen by users as accurate, clear, complete and easy to understand
 Overall average of 4.6 rating on all 4 categories.
 
 ### Finding 5
-Only direct links should be used in answers to avoide confusion by users. Numerous answers talk about login.gov or id.me and when using those in the answer they are hyperlinked, which causes the users to click on them.  However, further down the answer the direct link with the exact page they need is usually found.  To avoid unwanted clicks and user confusion, only make the direct page with the anser hyperlinked instead of when the website is being referenced.
+Only direct links should be used in answers to avoid confusion by users. Numerous answers talk about login.gov or id.me and when using those in the answer they are hyperlinked, which causes the users to click on them.  However, further down the answer the direct link with the exact page they need is usually found.  To avoid unwanted clicks and user confusion, only make the direct page with the anser hyperlinked instead of when the website is being referenced.
 
 ### Finding 6
-Even with multiple disclaimers, user trustworthiness with the chatbot is 100%.  Despite the warnings about enetring privacy information and to double-check important information because AI makes mistakes, users still trust the chatbot. At the beginning of the chatbot, users are shown warnings that disuade them from entereind persnonal information before they can use the chatbot.  When asked specifially if they found this to be an issue, all 17 participants said this was an expected warning and did not deter them from using the chatbot. Users were also pointedly asked if an added warning about double-checking important information because AI can make mistakes would keep from them from using the chatbot and all 17 said that it would not effect how they use the chatbot.  
+Even with multiple disclaimers, user trustworthiness with the chatbot is 100%.  Despite the warnings about entering privacy information and to double-check important information because AI makes mistakes, users still trust the chatbot. At the beginning of the chatbot, users are shown warnings that disuade them from entereind persnonal information before they can use the chatbot.  When asked specifially if they found this to be an issue, all 17 participants said this was an expected warning and did not deter them from using the chatbot. Users were also pointedly asked if an added warning about double-checking important information because AI can make mistakes would keep from them from using the chatbot and all 17 said that it would not effect how they use the chatbot.  
 
 ---
 
@@ -277,12 +277,12 @@ The results of this user research directly align with the following areas of KPI
 
 - Improve accessibility, especially for screenreaders
 - Give an option for human agent if user becomes frustrated or lost
-- Make chatbot ubiquidous and easy to find
+- Make chatbot ubiquitous and easy to find
 - Work on clarifying questions
 
 ## Further research needed
 1. Expand Testing for Non-English Speakers and Rural Users: No explicit feedback collected from these groups; future sessions should target these demographics.
-1. Further Develop Personas: Use cases for dependants and caregivers need to be further explored with pertinant scenarios for those users.
+1. Further Develop Personas: Use cases for dependents and caregivers need to be further explored with pertinent scenarios for those users.
 1. Expand Testing to Mobile and Tablets: No data has been collected from users on these types of devices.
 1. Expand Testing to Include More Users With Assistive Technology: To date, only 2 users of his demographic have been tested.
 
@@ -293,7 +293,7 @@ The results of this user research directly align with the following areas of KPI
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/Chatbot%20PoC%20Initiative.md)
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ResearchPlan.md)
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/ConversationGuide(PerigeanVets).md)
-- [AI Overvirew of transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/Copilot%20analysis.md)
+- [AI Overview of transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-10-Chatbot%20User%20Testing%20Round%202/Copilot%20analysis.md)
 
 ### Tools used for Synthesis
 
