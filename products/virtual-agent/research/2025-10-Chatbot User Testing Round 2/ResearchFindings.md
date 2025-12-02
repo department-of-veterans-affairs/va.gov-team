@@ -190,7 +190,7 @@ For round 2 of research we will be conducting two differnt methods of research. 
 1. Compared to other options, users would prefer getting an answer from a chatbot instead of calling VA or talking to a VSO.
     1. TRUE: Efficiency was praised compared to traditional support (“I liked that I didn’t have to wait on hold”). Most user pointed out that the quick answers from the chatbot were preferred to other options and it was also noted that the load time was minimal for the chatbot to produce the desired answers
 1. Even with warnings about privacy information and AI making mistakes, users will still trust the chatbot.
-	1. TURE: All users appreciated privacy disclaimers, most refused to enter personal info on principle, and several wanted reassurance that responses were up-to-date and accurate for important matters (benefits, health, locked accounts).
+	1. TRUE: All users appreciated privacy disclaimers, most refused to enter personal info on principle, and several wanted reassurance that responses were up-to-date and accurate for important matters (benefits, health, locked accounts).
 
 
 ## Key Findings
