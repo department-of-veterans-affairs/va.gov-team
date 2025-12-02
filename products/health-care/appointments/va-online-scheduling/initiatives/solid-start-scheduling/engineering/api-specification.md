@@ -4,14 +4,75 @@ This document describes the API specifications for VASS scheduling, defining the
 
 ## API Endpoints
 
-### GET /vass/v0/authenticate
+### POST /vass/v0/request-otc
 
-Authenticates user with uuid, lastname, dob
+Requests a One-Time Code (OTC) to be emailed for a user's authentication.
 
 **Request:**
+- Method: `POST`
+- Headers:
+  - `Content-Type: application/json`
+- Body:
+```json
+{
+  "uuid": "c0ffee-1234-beef-5678",
+  "lastname": "Smith",
+  "dob": "1968-06-22"
+}
+```
+
 **Response:**
 ```json
-{...}
+{
+  "data": {
+    "message": "OTC sent to registered email address"
+  }
+}
+```
+
+---
+
+### POST /vass/v0/authenticate-otc
+
+Authenticates user by validating the One-Time Code (OTC).  
+Returns a JWT token for further API access on success.
+
+**Request:**
+- Method: `POST`
+- Headers:
+  - `Content-Type: application/json`
+- Body:
+```json
+{
+  "uuid": "c0ffee-1234-beef-5678",
+  "lastname": "Smith",
+  "dob": "1968-06-22",
+  "otc": "123456"
+}
+```
+
+**Response (Success):**
+```json
+{
+  "data": {
+    "token": "<JWT token string>",
+    "expiresIn": 3600
+  }
+}
+```
+- `token`: JWT token to use as Bearer token for subsequent API calls.
+- `expiresIn`: Token expiration, in seconds.
+
+**Response (Failure):**
+```json
+{
+  "errors": [
+    {
+      "code": "invalid_otc",
+      "detail": "Invalid OTC, please try again"
+    }
+  ]
+}
 ```
 
 ---
