@@ -119,14 +119,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [] Ready to be sent for approvals (12/x/25)
- - [] VA PO & COR sent the Sprint Goals (12/x/25)
- - [] VA PO approved the Sprint Goals (12/x/25)
- - [] VA COR approved the Sprint Goals (12/x/25)
+ - [x] Ready to be sent for approvals (12/2/25)
+ - [x] VA PO & COR sent the Sprint Goals (12/2/25)
+ - [x] VA PO approved the Sprint Goals (12/2/25)
+ - [x] VA COR approved the Sprint Goals (12/2/25)
  
 **_Delivery + Notes:_**
-- [] All goals have been updated in the sprint chart
-- [] Any Additional details about goals **not** completed will be documented here
+- [x] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
   
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
