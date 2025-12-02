@@ -27,8 +27,12 @@ Once the ITF is filed, veterans can receive assistance from VA representatives i
 ***
 
 ### Design Rationale - September 2025
-**Problem** \
-Representatives do not consistently file an ITF as early as they can in the benefits process, which prevents claimants from being paid benefits that they are owed. 
+**Problem**\
+Prior Understanding:\ Representatives do not consistently file an ITF as early as they can in the benefits process, which prevents claimants from being paid benefits that they are owed.\
+\
+ARC team understanding:\ Accredited representatives face challenges in efficiently establishing Intent to File on behalf of Veterans or their dependents, often resulting in delays that can hinder access to benefits. There is a need for a user-friendly tool that streamlines this process, enabling representatives to quickly and accurately submit Intents to File, thereby improving overall service for Veterans and their families.\
+\
+How might we design and implement such a tool to ensure prompt and effective filing?
 
 **Solution** 
 To emphasize the ability to file an ITF as soon as POA is accepted. 
