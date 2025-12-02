@@ -161,7 +161,7 @@ We already have responsive designs. So, we can do a WebView (understanding there
 
 Build each domain natively (and message or point Veterans to VA.gov for their full MR, in whatever way we see best). 
 
-### General content strategy 
+## General content strategy 
 
 We should not message about features/elements that are not available (and never were) within the app. 
 - Could create frustration and tease the user
@@ -194,9 +194,9 @@ Go to VA.gov to view your complete medical record:
 
 _Note: There is some general disagreement around this approach._
 
-- From Sara S: I disagree- when I read this, it makes me wonder what is missing from the app. This suggests the app is not complete record, so I want to understand what "extra" things will be there if I go to the web.
+- "I disagree- when I read this, it makes me wonder what is missing from the app. This suggests the app is not complete record, so I want to understand what "extra" things will be there if I go to the web."
 
-- From Cara: Veterans don't fully understand that they can do more on VA.gov then in the app.
+- "Veterans don't fully understand that they can do more on VA.gov then in the app." 
 
 <img width="343" height="685" alt="Screenshot 2025-11-24 at 10 33 08 AM" src="https://github.com/user-attachments/assets/8c4a82e0-fca2-41bb-a6ca-134e342d80bc" />
 
