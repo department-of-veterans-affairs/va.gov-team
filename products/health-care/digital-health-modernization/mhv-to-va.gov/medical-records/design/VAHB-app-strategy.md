@@ -151,11 +151,15 @@ Uncertain if Veterans rely on (compared to other domains when tracking health/co
 
 ## Potential implementation general paths:
 
-**If there is urgency, we can follow this path** We already have responsive designs. So, we can do a WebView (understanding there is technical discovery, etc) as soon as possible for the domains we choose to include (Care summaries and notes, potentially Vitals, potentially Health conditions). Then work to build them in the native app for a better experience. 
+**If there is urgency, we can follow this path** 
+
+We already have responsive designs. So, we can do a WebView (understanding there is technical discovery, etc) as soon as possible for the domains we choose to include (Care summaries and notes, potentially Vitals, potentially Health conditions). Then work to build them in the native app for a better experience. 
 
    Or
 
-**Recommended:** Build each domain natively (and message or point Veterans to VA.gov for their full MR, in whatever way we see best). 
+**Recommended:** 
+
+Build each domain natively (and message or point Veterans to VA.gov for their full MR, in whatever way we see best). 
 
 ### General content strategy 
 
@@ -167,13 +171,15 @@ We should not message about features/elements that are not available (and never 
 
 ### Continuity of care and Blue Button
 
-Continuity of Care Document (CCD): Will not be in the app. How do we want to communicate around this? 
+**Continuity of Care Document (CCD):** Will not be in the app. 
 
-- Our strategy should be to not message about features/elements that are not available (and never was available IMHO) 
+How do we want to communicate around this? 
+
+- Our strategy should be to not message about features/elements that are not available (and never were available) 
 - The app currently points Veterans to VA.gov (i.e, Go to VA.gov to view your complete medical record) where a Veteran can access CCD. 
 - Low traffic
-Therefore, 
-- I don’t feel it is necessary to surface CCD and specifically call out CCD within the VAHB app
+
+Recommendation: We should avoid surfacing or specifically calling out CCD (Continuity of Care Document) within the VAHB app, as it adds unnecessary complexity. Veterans will still be access the CCD via VA.gov (i.e., Go to VA.gov to view your complete medical record)  
 
 Blue Button: Will not be in the app. How do we want to communicate around this? 
 
