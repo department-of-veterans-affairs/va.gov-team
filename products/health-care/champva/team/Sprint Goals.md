@@ -19,7 +19,7 @@
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
 - [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics
-- [ ] **SPRINT GOAL** Data: Monthly Medallia Metrics - October 2025
+- [ ] **SPRINT GOAL** Data: Monthly Medallia Metrics - November 2025
 - [ ] 10-10d v2 launch issue
 - [ ] 10-10d v2 launch 5 records missing
 
