@@ -115,6 +115,36 @@ ___
 
 **Rationale:** Second most accessed domain. Quick access is important for coordinating care. 
  
+**Modality:** Native
+
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
+___
+
+### Vitals 
+
+**Recommendation:** Include? 
+
+**Rationale:** 
+- This data is important to self-monitoring and self-management. 
+   - Condition monitoring/Trend monitoring 
+Hypertension, etc 
+Appointment preparation and communication 
+
+However, along with Vaccines, Vitals is not utilized often by Veterans. In its current design, what is the utility of including in the app?  
+
+**Current modality:** Native
+
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
+
+___
+
+### Health conditions
+
+**Recommendation:** Uncertain 
+
+**Rationale:** The third most popular domain. But there's a fairly large gap between _Health conditions_ and _Care summaries and notes _
+Uncertain if Veterans rely on (compared to other domains when tracking health/communicating with providers)
+ 
 **Current modality:** Native
 
 **Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
