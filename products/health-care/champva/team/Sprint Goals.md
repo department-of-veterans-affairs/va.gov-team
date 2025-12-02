@@ -6,9 +6,22 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] **SPRINT GOAL** 
-- [ ] **SPRINT GOAL** 
-- [ ] **STRETCH GOAL** 
+- [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery 
+- [ ] **SPRINT GOAL** 10-7959c: BE changes for new PDF to setup feature toggle
+- [ ] **SPRINT GOAL** 10-7959C: Generate new PDF for stand alone
+- [ ] **SPRINT GOAL** Form 10-7959C: Proof of Concept to Combine Front and Back OHI/Medicare Card Images
+- [ ] **SPRINT GOAL** 10-7959a: Determine feasability of allowing 3+ health insurance
+- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
+- [ ] **SPRINT GOAL** All forms: Monitor incidents Add New Logs
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
+- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics
+- [ ] **SPRINT GOAL** Data: Monthly Medallia Metrics - October 2025
+- [ ] 10-10d v2 launch issue
+- [ ] 10-10d v2 launch 5 records missing
 
 
 ##
