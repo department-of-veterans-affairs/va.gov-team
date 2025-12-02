@@ -12,7 +12,8 @@ Data is sent **daily** (weekend data is sent Monday).
 
 | URL                                                                             | Sub-URLs? | Auth or Public | CSAT? |
 |---------------------------------------------------------------------------------|-----------|----------------|-------|
-| va.gov/my-health/appointments                                                   |  YES      |  Auth          | YES   |  
+| va.gov/my-health/appointments                                                   |  YES      |  Auth          | YES   |
+| va.gov/my-health/travel-pay/file-new-claim/                                     |  YES      |  Auth          | ?     |
 | va.gov/health-care/manage-appointments/                                         |  No       |  Public        | No    | 
 | va.gov/resources/what-should-i-bring-to-my-health-care-appointments/            |  No       |  Public        | No    |              
 | va.gov/resources/about-managing-health-appointments-online/                     |  No       |  Public        | No    | 
