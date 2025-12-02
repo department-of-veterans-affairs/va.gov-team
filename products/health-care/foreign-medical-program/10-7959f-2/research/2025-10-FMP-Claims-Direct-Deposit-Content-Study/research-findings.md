@@ -255,7 +255,7 @@ This research supports measurement of this KPI by....
 
 ### Tools used for Synthesis
 
-*Spreadsheet with theme tagging*  
+- Spreadsheet with theme tagging 
   
 ### Pages and applications used
 
@@ -270,19 +270,40 @@ This research supports measurement of this KPI by....
 *Include links to additional materials, e.g., personas, user flows.*  
 
 
+
+
 ### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+#### Primary criteria (must-haves)
+
+-  Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify) 
+
+-  Are you enrolled in the Foreign Medical Program (FMP)? 
+    - Yes = (4 participants)
+    - No or I don’t know = (4 participants)
+
+- (If they answered ‘yes’ to previous question) When have you used your FMP benefits (check all that apply) _[Any are okay]:_
+    -  During a short trip abroad (i.e., a vacation)
+    -  During medical tourism
+    -  While you were living abroad
+    -  I have never used my benefits
+ 
+-  At least 2 out of the 8 participants who are female 
+-  At least 2 out of the 8 participants who are 55 years or older 
+
+
+##### Secondary criteria (nice-to-haves)
+- No more than 3 out of the 8 participants per each race/demographics category
+- No more than 2 out of the 8 particpants per any age category
+
+
 
 #### Demographics 
 
@@ -295,8 +316,8 @@ Audience segment:
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 5 
+* Female: 3 
 
 
 LGBTQ+:
@@ -306,47 +327,47 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 6 
+* Tablet: 0 
+* Smart phone: 2 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 2
+* 45-54: 1
+* 55-64: 2
+* 65+: 1
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 1
+* Bachelor's degree: 1
+* Master's degree: 3
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 4
+* Rural: 4
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 4
+* Black: 2
+* Hispanic: 0
+* Biracial: 1
+* Asian: 1
+* Native: 0
 
 
-Disability and Assistive Technology (AT):
+Disability and Assistive Technology (AT): Used a mid-fidelity prototype and did not recruit for this demographic in this this study
 * Cognitive: x
 * AT beginner: x
 * AT advanced user: x
@@ -374,16 +395,18 @@ _Complete the [VA recruitment checker for marginalized Veteran groups](https://d
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Cognitive Disability
+* LGBTQ+
+* Assistive Technology Users
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image]
+
+<img width="780" height="354" alt="Screenshot 2025-12-02 at 9 58 09 AM" src="https://github.com/user-attachments/assets/986f822d-7935-4947-9923-e93c05e496cd" />
+
 
 #### A more accessible version of the table in the above image
 
-### Recruitment of underserved groups in [Study name]
+### Recruitment of underserved groups in [FMP Direct Deposit Content Sutdy]
 
 ➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
