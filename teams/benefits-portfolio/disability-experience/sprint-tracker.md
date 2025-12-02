@@ -2,6 +2,95 @@
 
 _**Overview:** This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 19 Tickets  [12/03/25 - 12/16/25]
+
+| Sprint | Team | Title | URL | Estimate | Status | Sprint Notes |
+| :---: | --- | --- | --- | ---: | --- | --- |
+| Sprint 19 | Core Form Team | Add Veteran personal and identification information to CoS accordion | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125093 | 5 | Awaiting Prod Deploy |  |
+| Sprint 19 | Core Form Team | Add MST consent question/response to CoS accordion | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125096 | 3 | Awaiting Prod Deploy |  |
+| Sprint 19 | Core Form Team | Discovery \- audit which Features Toggles that Disability Benefits Crew added can be removed | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125238 | 2 | Needs Review |  |
+| Sprint 19 | Core Form Team | Implementation of a flipper for enabling skipped questions in BDD flow for new applications | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125115 | 5 | Needs Review |  |
+| Sprint 19 | Core Form Team | 25% release and monitoring of results | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124964 | 2 | Blocked |  |
+| Sprint 19 | Core Form Team | 100% release and monitoring of results | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124965 | 2 | Blocked |  |
+| Sprint 19 | Core Form Team | Adding numbering to additional events on CoS accordion | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125111 | 5 | Blocked |  |
+| Sprint 19 | Core Form Team | Check into the rated disability timeout we have set and reconcile it with lighthouses service | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/113781 | 3 | In Progress |  |
+| Sprint 19 | Core Form Team | Datadog RUM Quota monitoring and improvements for 526ez | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125587 | 5 | In Progress |  |
+| Sprint 19 | Core Form Team | Discovery \- enabling skipped questions for in\-progress form | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125116 | 3 | In Progress |  |
+| Sprint 19 | Core Form Team | Handle new errors on confirmation page | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126314 | 5 | In Progress |  |
+| Sprint 19 | Core Form Team | Discovery \- Investigate why people might be getting stuck at step 3 of 5 | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/122714 | 5 | Current Sprint |  |
+| Sprint 19 | Core Form Team | Discovery to do full accounting of errors causing 526 to go backup path | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/112648 | 5 | Current Sprint |  |
+| Sprint 19 | Core Form Team | Discovery \- total\-failure emails for ancillary forms | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/114672 | 3 | Current Sprint |  |
+| Sprint 19 | Core Form Team | Rerun discovery queris from 9/15 till now and gather additonal details with LH/BGS issues failed downstream | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/120252 | 2 | Current Sprint |  |
+| Sprint 19 | Core Form Team | Define current rate and reduction goal for ancillary forms submissions total failures | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/114662 | 2 | Current Sprint |  |
+| Sprint 19 | Core Form Team | IPF implementation planning | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125223 |  | Current Sprint |  |
+| Sprint 19 | Core Form Team | contact\-information mailing address imposter — switch to v3 VADS pattern/components | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125872 | 5 | Current Sprint |  |
+| Sprint 19 | Core Form Team | Discovery of 0781 pages without cypress tests or insufficient coverage\. | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126642 |  | Current Sprint |  |
+| Sprint 19 | Pathways Team | fix\(526\): Remove Partial Date Support and Align with Platform Utilities | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123730 | 5 | Awaiting Prod Deploy | Sprint 18: Potentially need to roll over if security issue isn't resolved but is ready to merge into main |
+| Sprint 19 | Pathways Team | \[Blockage Prevention\] Remove disability\_526\_block\_banking\_info\_retrieval flipper | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/121810 | 3 | Needs Review | S18: waiting for Platform to approve changes |
+| Sprint 19 | Pathways Team | feat\(526\): Migrate formatting\.js to date\-fns | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123715 | 5 | Prioritized Backlog |  |
+| Sprint 19 | Pathways Team | 0781 Supporting Documents: Design iteration for Evidence Orientation Page | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123426 | 3 | New Issues |  |
+| Sprint 19 | Pathways Team | feat\(526\): Migrate validations\.js to date\-fns | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123716 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Discovery: Review form flow screens for VA Form 21\-10210 \- Lay/Witness Statement | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126007 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Discovery: Review form flow screens for VA Form 26\-4555 \- Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126009 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Discovery: Review for tech debt in the VA Form 21\-10210 \- Lay/Witness Statement digital form | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126012 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Discovery: Review for tech debt in the VA Form 26\-4555 \- Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant digital form | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126013 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | \[Conditions V2 IPF consulting\] providing support to Conditions team on the new Conditions flow | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126551 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Empty disabilities: Conditions dropdown menu on the Review & Submit page | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126581 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Empty disabilities: Quantify veteran impact from empty disability issue | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126588 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | Sprint 19 \- watchdog duties | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126595 | 5 | New Issues |  |
+| Sprint 19 | Pathways Team | 0781 Supporting Documents: Design iteration for Evidence Choice Page | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126706 | 3 | New Issues |  |
+| Sprint 19 | Conditions Team | \[V2 Phase 1\] Update product guide for contact center review | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123119 | 3 | Needs Review |  |
+| Sprint 19 | Conditions Team | \[V2 Phase 1\] Prepare workflow in production through feature flag | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/122230 | 2 | Blocked |  |
+| Sprint 19 | Conditions Team | Research Planning: file and reference collection | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125502 | 1 | In Progress |  |
+| Sprint 19 | Conditions Team | Fatal Javascript Error on New Condition Add | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126335 | 3 | In Progress |  |
+| Sprint 19 | Conditions Team | Conduct supplemental claim research sessions, pt 2 | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125470 | 8 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Update autosuggestion metric to account for cases where user does not specify laterality in the multi\-step workflow | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124173 | 3 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Discovery \-  copy of submission on confirmation page for new conditions flow\. | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124237 | 5 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Submission confirmation box does not list selected rated disabilities | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124895 | 2 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Prevent In\-progress disability forms from breaking when workflow toggle flips | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/119131 | 5 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Quick fix for secondary condition anti\-pattern \(after deletion of primary condition\) | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126512 | 2 | Current Sprint |  |
+| Sprint 19 | Conditions Team | \[V2 Phase 1\] Release and monitor performance | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/120731 | 5 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Technical spike \- Multi\-step conditions implementation plan for metrics | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/120611 | 5 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Supplemental claim research quick synthesis | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/122159 | 5 | Current Sprint |  |
+| Sprint 19 | Conditions Team | Staging Review finding: "Remember" instead of "Note" | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123226 | 1 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | \[FDF VSR Usability\] Recruit VSR participants | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126052 | 2 | Blocked |  |
+| Sprint 19 | Employee Experience Team | Implement form design pass in new\-page renderer | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126148 | 3 | Blocked |  |
+| Sprint 19 | Employee Experience Team | Release updated Renderer in staging | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125084 | 2 | In Progress | S18: Will carry over slightly into S19 due to Yang being out most of last week \(illness\) |
+| Sprint 19 | Employee Experience Team | Run test of production document redaction process | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125088 | 2 | In Progress | S18: Will carry over slightly into S19 due to Mark responding to the virus/worm affecting platform\. |
+| Sprint 19 | Employee Experience Team | \[FDF Veteran Usability\] Synthesize Veteran findings | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126040 | 5 | In Progress |  |
+| Sprint 19 | Employee Experience Team | \[FDF VSR Usability\] Research prep \- Usability testing pilot | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124152 | 2 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Use feature flag to test new renderer in staging | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125085 | 1 | Current Sprint | S18: Will carry over slightly into S19 due to Yang being out most of last week \(illness\) |
+| Sprint 19 | Employee Experience Team | Refine and begin implementing production document sourcing plan with Alejandro | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125089 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | \[FDF VSR Usability\] Finalize Designs | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125157 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | \[FDF Veteran Usability\] Research readout shareout | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126044 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | \[FDF VSR Usability\] Prep for usability sessions | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126054 | 1 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Design → Engineering handoff for opening renderer in new page | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126142 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Demo ability to toggle between design systems | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126143 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Re\-contact Privacy Office post\-shutdown | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126149 | 2 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Re\-contact OAI Office \(Nel\) post\-shutdown | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126150 | 2 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Define path to production for classifier API | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126151 | 3 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | Assess impact of dual\-renderer approach and prepare alignment brief for VBMS | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126492 | 5 | Current Sprint |  |
+| Sprint 19 | Employee Experience Team | \[FDF VSR Usability\] Finalize Conversation Guide | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126626 | 3 | Current Sprint |  |
+| Sprint 19 | Shared Support Team | Additional copy under "Are you terminally ill?" may be harmful or triggering for some users | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/116513 | 2 | Prioritized Backlog |  |
+| Sprint 19 | Shared Support Team | Staging Review finding: Links should be on separate line \(2\) | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123224 | 1 | New Issues |  |
+| Sprint 19 | Shared Support Team | Staging Review finding: Periods in radio button text | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123232 | 1 | New Issues |  |
+| Sprint 19 | Shared Support Team | \[INTAKE\] Pathways: Remove Directional Language | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123787 | 2 | New Issues |  |
+| Sprint 19 | Shared Support Team | \[INTAKE\] Core team: Copy of Submission Accordion display of homelessness questions/responses | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125103 | 2 | New Issues |  |
+| Sprint 19 | Team 5 | Incorporate additional testing to ensure updated imposter component is working and integrated in the flow as expected | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/120230 | 5 | Needs Review | S18: Work completed and in review; per initial review one change has been requested\. Change has been committed but cannot be pushed as platform has temporarily disabled pushing for this repo |
+| Sprint 19 | Team 5 | Planning of imposter components audit and remediation processes\. | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125609 |  | Blocked | S18 \- identified need for more tooling and guidelines from Platform\. |
+| Sprint 19 | Team 5 | Spike: Investigate feasibility of applying Process List treatment to Side Nav component | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123863 | 5 | In Progress | S18: Brought back into the sprint 11/25 since engineering capacity opened up\. |
+| Sprint 19 | Team 5 | Conduct pilot test \- Mobile \(12/3\) | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124928 | 2 | In Progress | S18: added 12/1; Rollover to S19 due to scheduling with pilot participant falling on the next sprint |
+| Sprint 19 | Team 5 | Set up Note\-taking Mural board | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125221 | 2 | In Progress | S18: added 12/1; Rollover to S19 due to any additional updates that may be needed after all pilots are completed \-> 12/3 |
+| Sprint 19 | Team 5 | Define user test scenarios for bug bash | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126255 |  | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Submit Experimental Component Request for Process List | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/123836 | 2 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Separation Pay — Switch radio buttons to VADS Components | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/125388 | 3 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Draft QA Artifacts for Staging Review | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126030 | 5 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Ensure Side Nav handles CFI scenario | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126257 | 3 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Investigate and ensure Side Nav works with new conditions multi\-step flow | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/124138 | 3 | Prioritized Backlog | S19: This ticket may not be needed |
+| Sprint 19 | Team 5 | Adjust conversation guide from pilots and dry runs | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/126420 | 3 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Conduct 526ez navigation MVP research sessions | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/119823 | 5 | Prioritized Backlog |  |
+| Sprint 19 | Team 5 | Top line summary of Usability Testing | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/119857 | 3 | Prioritized Backlog | S19: It may roll over depending on scheduled interviews |
+
 # Sprint 18 Tickets  [11/19/25 - 12/02/25]
 
 Due to ongoing Platform restrictions (the Shai Hulud worm attach), a few tickets remain in Needs Review and Awaiting Prod Deploy status. These have been reviewed by the team and will move forward once Platform allows.
