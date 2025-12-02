@@ -262,10 +262,13 @@ Thank you! Now I’d like you to do something else for me...
 
 *Things to watch for:*
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
+* *Does the user click through without taking the time to absorb the information in the modal?*
 
-### Select a care team
+### Prefilled Renewal Request Message Content
 
+* What do you notice on this page?
 
+#### Care team selection
 * Who would you select here, and why?
 * If you weren't sure which provider to choose, what would you do?
 
@@ -273,9 +276,8 @@ Thank you! Now I’d like you to do something else for me...
 * *Does the user express confusion about selecting a provider?*
 
 
-### Prefilled Renewal Request Message Content
+####Prefilled message
 
-* What do you notice on this page?
 * Would you edit or add additional information to this message at all?
     * If no, why not?
     * If yes, what would you change in the message?
