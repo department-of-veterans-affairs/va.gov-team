@@ -10,7 +10,7 @@ This playbook is for IVC Forms team members responding to Datadog monitor alerts
 
 - [IVC ChampVA Forms Datadog dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms), read-only access
 - [#ivc-forms-datadog](https://dsva.slack.com/archives/C06RQR7V9CM) Public Slack channel
-- [#ivc-forms](https://dsva.slack.com/archives/C05UDS77ZPH) Public Slack channel
+- [#health-apps](https://dsva.slack.com/archives/CMJ2V70UV) Public Slack channel
 
 ### Best Practices
 
@@ -34,7 +34,7 @@ Keep these items in mind while working through the sections below:
 
 ## Missing Pega Status Alert
 
-See [Resolving Missing PEGA Status Issue](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/resolving-missing-pega-status.md)
+See [Resolving Missing PEGA Status Issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/resolving-missing-pega-status.md)
 
 ## General Datadog Alerts (500 Status, Status other than a 200)
 
