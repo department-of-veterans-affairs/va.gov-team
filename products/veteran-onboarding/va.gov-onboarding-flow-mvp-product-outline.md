@@ -34,7 +34,7 @@ How might we statement: How might we help Veterans take their first step towards
 | Number of clicks on education link                | TBD        |                     |                     |                     |
 | Number of clicks on discover benefits link            | TBD        |                     |                     |                     |
 
-#### 2. Users who click on one of the modal links click AND ALSO click another link on the relevant page (something that isn't in the header or footer).
+#### 2. Users who click on one of the modal links AND ALSO click another link on the relevant page (something that isn't in the header or footer).
 
 | Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
 | ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
