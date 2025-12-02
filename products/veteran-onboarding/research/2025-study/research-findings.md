@@ -118,7 +118,7 @@ synthesis_tools_used:
 
 **Contacts:** David Pearl
 
-**[Research Readout (PDF)](link-here)**  
+**[Research Readout (PDF)](https://docs.google.com/presentation/d/1YBPaLb_4fvdmGysZRSylun4yTH16RE8bUbzTeLN5n_I/edit?usp=sharing)**  
 *Add a link to your research readout deck, if available.*
 
 **Jump to:**
