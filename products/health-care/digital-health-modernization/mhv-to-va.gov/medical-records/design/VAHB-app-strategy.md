@@ -55,11 +55,13 @@ The VAHB app will include the radiology report/interpretation. However, images w
 
 ### Currently included within the VAHB app
 
-**Domain:** Lab and test results 
+___
+
+### Lab and test results 
 
 **Recommendation:** Continue to include 
 
-**Rational:** Access to lab and test results on the app is essential to keeping the Veteran up to date/tracking their health care journey, and communicating with providers. It is the most popular domain Veterans access (quarterly metrics report Oct 11-31). 
+**Rationale:** Access to lab and test results on the app is essential for keeping the Veteran up to date/tracking their healthcare journey, as well as communicating with providers. It is the most popular domain Veterans access (quarterly metrics report Oct 11-31). 
  
 **Current modality:** 
 
@@ -78,6 +80,28 @@ WebView: For medical imaging results
 Further exploration: 
 - Engineering will explore the LOE to include the images natively. 
 - Engineering will explore how WebView works within the app 
+___
 
+### Allergies 
 
+**Recommendation:** Continue to include 
 
+**Rationale:** Allergy information is essential for patient safety, and we should continue to link to Allergies and reactions from the Medications tool. 
+
+This could help the Veteran in the moment, and inclusion in the app can serve as a quick reference for them.
+ 
+**Current modality:** Native
+
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Allergies more findable
+___
+
+### Vaccines 
+
+**Recommendation:** Continue to include 
+
+**Rationale:** Despite the low click-through rate to the Vaccine domain, the availability of vaccines within the app functions as a psychological safety net for some Veterans, mitigating anxieties and addressing concerns such as, "Am I protected from this?"
+ 
+**Current modality:** Native
+
+**Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Allergies more findable
+___
