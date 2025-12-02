@@ -227,7 +227,7 @@ Ok let's begin with the task:
 
 ### List page
 
-**You have a prescription for CLOBETASOL PROPIONATE 0.05% CREAM that your pharmacy told you is out of refills. What would you do if you needed more of this medication?**
+**You have a prescription for SUNSCREEN-30 PABA-FREE COMBINATION LOT that your pharmacy told you is out of refills. What would you do if you needed more of this medication?**
 
 
 * Where would you go to request more of this medication?
@@ -317,7 +317,6 @@ Ok let's begin with the task:
 
 Thank you for completing that task. I have a few follow up questions for you:
 
-* How easy or difficult did you find the process of requesting a renewal for this medication?
 * Did anything in the process feel overwhelming or hard to process?
 * What would you change about this process?
 * What would you keep about this process?
