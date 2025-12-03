@@ -21,8 +21,8 @@
 - [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
 - [ ] **STRETCH GOAL** 10-7959c: FE changes for new PDF to review/update remaining items - the medicare chapter
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
+- [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 - [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
-- [ ] **STRETCH GOAL** 10-7959c: Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 
 
 
