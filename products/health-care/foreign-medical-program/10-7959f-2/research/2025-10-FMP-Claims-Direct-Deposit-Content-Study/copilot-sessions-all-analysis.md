@@ -5,10 +5,19 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 # 1. Executive Summary
 
 - **Comprehension is generally high**: Most Veterans found instructions for direct deposit on FMP claims clear and self-explanatory, rating them 4-5/5 for ease, especially if they already use VA.gov or direct deposit.
+````
+Annotation: This seems misleading, as participants stated the content was clear and similar to their direct deposit for disabiltiy compensation, there was not enough evidence to determine if the FMP process difference was clear to participants. Relates more to process expectations vs. reality differ item.
+
+````
+
 - **Terminology gaps persist**: Ambiguity around terms like "Financial Services Center (FSC)" and "Vendor File Form" led to confusion, especially for first-time claimants and older Vets.
 - **Process expectations vs. reality differ**: Many expected FMP direct deposit to connect automatically to existing VA direct deposit info, but instructions did not clarify if/how that works.
 - **Pain points center on technical friction, jargon, and order of operations**: Key frustrations included navigating multiple portals, ID.me issues for overseas Veterans, upload errors, and unclear sequence of required steps.
 - **Quick wins exist in refining content and process clarity**: Adding step-by-step guidance, glossary pop-outs for jargon, and UI tweaks (bigger buttons, verifications) can greatly improve confidence and task completion.
+````
+Annotation: refine recommendation around content clarificaiton for static page and step-by-step guidance. Ignore AI UI and pop-out suggestions.
+
+````
 
 ---
 
