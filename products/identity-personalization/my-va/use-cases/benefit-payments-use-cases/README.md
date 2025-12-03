@@ -1,6 +1,6 @@
 # My VA: Benefit payments use cases
 
-**Last updated: November 2025**
+**Last updated: December 2025**
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746474542228/c397457f63aa34d09dee9f34d785af90cd3b8b96?wid=36-1746474575795&outline=open)
 - [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14219&t=cZLTEcVoQuXx90AV-1)
@@ -26,9 +26,9 @@
 - **Use case:** If a logged in LOA3 user has no history of payments they receive a message informing them they don't have any and a link to the general payment history tool.
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
+- **Content:** See designs
 - **Request:** `GET /v0/profile/payment_history`
   - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L134)
-- **Content:** See designs
 
 </details>
 
@@ -49,9 +49,9 @@
 - **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
+- **Content:** See designs
  - **Request:** `GET /v0/profile/payment_history`
    - **Reponse:** `200` [no recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L14)
-- **Content:** See designs
 
 </details>
 
@@ -73,9 +73,9 @@
    - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
+- **Content:** See designs
 - **Request:** `GET /v0/profile/payment_history`
   - **Reponse:** `200` [recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L13)
-- **Content:** See designs
 
 </details>
 
@@ -106,9 +106,9 @@ There are no flags with this feature.
 - **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)
+- **Content:** See designs
 - **Request:** `GET /v0/profile/payment_history`
   - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L147)
-- **Content:** See designs 
 
 </details>
 
