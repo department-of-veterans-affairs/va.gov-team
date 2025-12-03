@@ -176,12 +176,18 @@ synthesis_tools_used:
 ## Details of Findings 
 
 
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+### Finding 1: 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
+The content on the introduction page, participants reported as being clear and easy to understand. There were mentions about gathering documents in preparation and clicking on the link to learn more about what documents would be needed. 
+- 6 participants found the content of the Intro Page to be clear and easy to follow
+- 4 participants explicilty indicated that the directions were clear and easy to follow 
+- 3 showed content comprehension as they're explaining the process
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+
+> _Supporting quote: Oh, yeah, it was basically kind of instructions on how to file a claim, for foreign for any foreign medical service that I may have received for my service-related disabilities, and then… yeah, just, you know, the things that I need, a link to getting more information for what I need, and then that link that I clicked to get started. (P5)_ [Restating content but did not call out setting up direct deposit before filing a claim.]
+> _Supporting quote: It seemed pretty straightforward and clear. (P5)_
+> _Supporting quote: But again, it looks like two separate things. This one is the file cover sheet, but then, separately, it's also talking about setting up direct deposit specifically for this.(P2)_
+
+
 
 ### Finding 2  
 Brief description  
