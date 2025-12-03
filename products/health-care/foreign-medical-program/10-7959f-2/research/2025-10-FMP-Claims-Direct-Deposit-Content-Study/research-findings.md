@@ -166,12 +166,6 @@ synthesis_tools_used:
 5. Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.
 
 
-### Secondary Findings
-
-1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow itself and not in another portal/site.
-3. 4 out of 8 partipants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
-
 
 ## Details of Findings 
 
@@ -184,20 +178,51 @@ The content on the introduction page, participants reported as being clear and e
 
 
 > _Supporting quote: Oh, yeah, it was basically kind of instructions on how to file a claim, for foreign for any foreign medical service that I may have received for my service-related disabilities, and then… yeah, just, you know, the things that I need, a link to getting more information for what I need, and then that link that I clicked to get started. (P5)_ [Restating content but did not call out setting up direct deposit before filing a claim.]
+
 > _Supporting quote: It seemed pretty straightforward and clear. (P5)_
+
 > _Supporting quote: But again, it looks like two separate things. This one is the file cover sheet, but then, separately, it's also talking about setting up direct deposit specifically for this.(P2)_
 
 
 
-### Finding 2  
+### Finding 2: 7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page.   
+Almost all participants called out the documents needed to gather and the link to find out what supporting documents would be needed. This seemed to be more prominent mention on the introduction page content as a first step before setting up or calling out the direct deposit content.
+
+
+> _Supporting quote: I see I need at least a billing statement and if I paid, a receipt
+If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
+
+> _I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form. (P7) _
+
+
+
+### Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
+Brief description  
+- _Supporting data: Quote [add context]_
+
+
+
+- ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
+Brief description  
+- _Supporting data: Quote [add context]_
+
+
+
+- ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 Brief description  
 - _Supporting data: Quote [add context]_  
+
 
 ---
 
 ## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+
+1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
+2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow itself and not in another portal/site.
+3. 4 out of 8 partipants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
+
+
+
 
 
 ## Recommendations
@@ -209,6 +234,7 @@ Brief description
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
 
+
 ## Product User and Business Outcomes
 
 *Explain how findings and recommendations align with the product's goals.*
@@ -218,6 +244,8 @@ Brief description
 
 ### Desired User Outcome 
 This research supports our desired user outcome by....
+
+
  
 ### Desired Business Outcome
 This research supports our desired business outcome by....
@@ -254,7 +282,7 @@ This research supports measurement of this KPI by....
 
 ### Tools used for Synthesis
 
-- Spreadsheet broken down by task in conversation guide with thematic tagging 
+- [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/FMP%20Claims%20Analysis.xlsx) broken down by task in conversation guide with thematic tagging 
   
 ### Pages and applications used
 
