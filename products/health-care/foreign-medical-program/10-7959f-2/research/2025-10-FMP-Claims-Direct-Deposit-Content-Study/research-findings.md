@@ -387,6 +387,8 @@ _List all groups in red from the spreadsheet_
 * Cognitive Disability
 * LGBTQ+
 * Assistive Technology Users
+* Other than honorable discharge
+* Hispanic, Latino, or Spanish origin 
 
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image]
