@@ -3,7 +3,7 @@
 
 ## Step 1: Development
 
-Features toggle?
+Feature flag toggle(s):
 
 | Toggle name | Description |
 | ----------- | ----------- |
@@ -16,8 +16,8 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 Before enabling the feature toggle in production, we need to:
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Validate in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work with any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -34,7 +34,7 @@ Before enabling the feature toggle in production, we need to:
 
 To roll the onramp back, we will flip the feature toggle off for 100%
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
+### DECISION POINT: Will we do moderated production testing (User Acceptance Testing, or UAT)?
 
 #### Planning
 
