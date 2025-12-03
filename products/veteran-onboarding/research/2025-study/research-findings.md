@@ -139,7 +139,7 @@ This research directly addresses the product's core problem: **When Veterans sig
 
 This research supports Veterans during the critical **Getting Out** and **Starting Up** phases of their journey, specifically addressing the moment when newly transitioned Veterans first access VA.gov. 
 
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va. gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map. pdf)
+[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 **Key moments this tool supports:**
 - First login to VA.gov after military separation
