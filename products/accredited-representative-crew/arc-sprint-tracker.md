@@ -113,7 +113,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 14. **ARC Team Onboarding and Setup**: Engineering onboarding for our Sr. Accessibility Engineer, Implement review instances
 
 ## Sprint 4 Demo 
-([Recording link TBD]())
+([Recording link](https://dvagov-my.sharepoint.com/:v:/g/personal/lindsay_li-smith_va_gov/EctAWHJi7cpOj6recJYZtUIBPbf4MblkiQWWWmUYYcljIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4torB8))
 
 **Team Accreditation**
 
