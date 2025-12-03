@@ -159,18 +159,22 @@ synthesis_tools_used:
 
 ## Key Findings
 
-1. About half the participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.
-2. Participants called out the content and language around the Financial Services Center (FSC) and other Vendor File Form as new terms to them that would need additional clarification or they suggested improvements. 
-3. 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
-4. 7 participants mentioned document gathering more prominetly than stating they would need to setup direct deposit first when on the introduction page. 
-5. The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
-6. Half of the participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they login to VA.gov.
-7. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow.
+1. 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
+2. 7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page. 
+3. All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
+4. The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
+5. Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.
+
+
+### Secondary Findings
+
+1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
+2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow itself and not in another portal/site.
+3. 4 out of 8 partipants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
 
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
 ### Finding 1
 Brief description  
