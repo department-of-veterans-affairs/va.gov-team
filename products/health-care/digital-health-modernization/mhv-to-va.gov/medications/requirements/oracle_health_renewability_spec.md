@@ -100,12 +100,17 @@ The medication is **NOT RENEWABLE** if ANY of the following are true:
 
 ### Gate 7: Validity Period
 
-**Condition:** Must be within 120 days of the validity period end date
+**Condition:** Must NOT be more than 120 days past the validity period end date
 
-| Days Since Validity End | Renewable? |
-|-------------------------|------------|
-| `≤ 120 days` | **RENEWABLE ✓** |
-| `> 120 days` | **NOT RENEWABLE** |
+A prescription is within the renewal window if:
+- The validity period has not yet ended (prescription is not expired), OR
+- The validity period ended within the last 120 days
+
+| Time Relative to Validity End | Renewable? |
+|-------------------------------|------------|
+| Before validity end (not yet expired) | **RENEWABLE ✓** |
+| 0-120 days after validity end | **RENEWABLE ✓** |
+| More than 120 days after validity end | **NOT RENEWABLE** |
 
 *Rationale: Prescriptions expired more than 120 days ago require a new prescription, not a renewal.*
 
