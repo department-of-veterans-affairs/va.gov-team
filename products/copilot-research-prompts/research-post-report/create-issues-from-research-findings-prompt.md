@@ -17,7 +17,7 @@ The purpose of this prompt is to:
 3. **Open GitHub Copilot** for your research findings document (***TIP: Hit the Copilot icon twice to attach it to the chat.***)
 4.  **Copy the prompt below** and paste it into your GitHub Copilot chat
 5. **Review the generated issue content** and make any necessary adjustments
-6. **Create the issues** in your repository using the generated content
+6. **Create the issues** in your repository using the generated content and add them to your team's project board for visibility and tracking.
 
 ## Best Practices
 
