@@ -331,7 +331,7 @@ Thank you for completing that task. I have a few follow up questions for you:
 
 
 * "Before we wrap up Task 2, I'd like to show you one more thing.
-1. Can you please go to the link I have just pasted into the chat: https://staging.va.gov/my-health/secure-messages/new-message/?prescriptionId=12345&redirectPath=%2Fmy-health%2Fmedications
+1. Can you please go to the link I have just pasted into the chat: https://tinyurl.com/48smhma5
 2. Please select one of the care teams and click "Continue"
 
 Imagine you tried to request a renewal for this medication, but when you clicked the link to send a message to request a renewal, you were taken to this page. What would you do next?
