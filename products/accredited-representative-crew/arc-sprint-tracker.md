@@ -112,8 +112,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 13. **[Rep Communication] Relationship Management**: ARP Support Inbox - Data Analysis for Insights, think about strategy for VSO initial adoption
 14. **ARC Team Onboarding and Setup**: Engineering onboarding for our Sr. Accessibility Engineer, Implement review instances
 
-## Sprint 4 Demo 
-([Recording link](https://dvagov-my.sharepoint.com/:v:/g/personal/lindsay_li-smith_va_gov/EctAWHJi7cpOj6recJYZtUIBPbf4MblkiQWWWmUYYcljIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4torB8))
+## Sprint 4 Demo ([Recording link](https://dvagov-my.sharepoint.com/:v:/g/personal/lindsay_li-smith_va_gov/EctAWHJi7cpOj6recJYZtUIBPbf4MblkiQWWWmUYYcljIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=4torB8))
 
 **Team Accreditation**
 
@@ -239,8 +238,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. **November 6th Production Deployment**: Monitor the Production release and connect with a friendly ARP user to confirm Production experiences are functioning as expected.
 
 
-## Sprint 3 Demo 
-([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251118_130652-Meeting%20Recording.mp4?csf=1&web=1&e=E951eF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+## Sprint 3 Demo ([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251118_130652-Meeting%20Recording.mp4?csf=1&web=1&e=E951eF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 **Team Accreditation**
 
@@ -385,8 +383,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 7. **Onboard accredited representatives into ARP**: support mailbox setup, onboard Veterans of Foreign Wars VSO, build CRM for VSO Onboarding and Management
 8. **ARC Team Onboarding and Setup**: onboard Principal tech lead, UX researcher, epic organization
 
-## Sprint 2 Demo 
-([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251104_130812-Meeting%20Recording.mp4?csf=1&web=1&e=oTvMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+## Sprint 2 Demo ([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251104_130812-Meeting%20Recording.mp4?csf=1&web=1&e=oTvMxD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 1. Post-MVP content cleanup
    1. Title tags match the H1 page titles
@@ -532,8 +529,7 @@ New team setup (including Atlas presence) | https://github.com/department-of-vet
 4. **Team setup**: Onboarding a developer, refine processes and communication channels, define on call rotation, determine how to update ARP without feature flags, quick fix for test users
 
 
-## Sprint 1 Demo 
-([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251021_100609-Meeting%20Recording.mp4?csf=1&web=1&e=sGMFNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+## Sprint 1 Demo ([Recording link](https://dvagov-my.sharepoint.com/:v:/r/personal/lindsay_li-smith_va_gov/Documents/Recordings/ARC%20Sprint%20Demo-20251021_100609-Meeting%20Recording.mp4?csf=1&web=1&e=sGMFNv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
 
 1. Demo video added to ARP homepage
 2. ID.me added as a login/authentication option (in addition to Login.gov)
