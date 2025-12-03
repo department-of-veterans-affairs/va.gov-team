@@ -43,14 +43,26 @@
 
 </details>
 
+
 <details><summary>User has not received any payments from VA in the last 60 days</summary>
 
 - **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
-- [Link to code]
+ - **Request:** `GET /v0/profile/payment_history`
+   - **Reponse:** `200` [no recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L14)
 - **Content:** See designs
+
+</details>
+
+
+<details><summary>User does not have any outstanding VA debts or copays</summary>
+
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [debt count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L1) (dev mock data wip)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
 
 </details>
 
