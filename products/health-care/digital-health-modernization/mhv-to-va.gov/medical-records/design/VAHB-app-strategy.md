@@ -24,7 +24,7 @@ The Blue Button (BB) and Continuity of Care Document (CCD) will permanently be e
 
 **Other considerations:** 
 
-The VAHB app will include the radiology report/interpretation. However, images will not be available on the VAHB app as some results involve thousands of images that need to be downloaded as a zip file. 
+The VAHB app will include the radiology report/interpretation. However, images will not be available on the VAHB app as some results involve many images that need to be downloaded as a zip file. 
 
 ## Goals/Questions 
 
