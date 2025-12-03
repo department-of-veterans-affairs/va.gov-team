@@ -104,11 +104,40 @@ There are no flags with this feature.
 <details><summary>The payments API is down and we can't display any payment information</summary>
 
 - **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
-- **Status code:** TBD
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)
-- [Link to code]
+- **Request:** `GET /v0/profile/payment_history`
+  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L147)
 - **Content:** See designs 
+
+</details>
+
+
+<details><summary>The Lighthouse API is down and we can't display any debts or bills</summary>
+
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-47879&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L261)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1666)
+
+</details>
+
+
+<details><summary>The debts API is down and we cant display any overpayment debt information</summary>
+  
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15744&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L261)
+
+</details>
+
+
+<details><summary>The copays API is down and we can't display any copay information</summary>
+
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1666)
 
 </details>
 
