@@ -71,11 +71,22 @@
 
 - **Use case:** If a LOA3 user has received a payment from VA in the last 60 days, they will see a card in the Benefits payments section that tells them the dollar amount of the payment, the type of benefit payment, the date it was deposited or mailed to them, and a link to the payment history tool. Only the most recent payment is shown.
    - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
-- [Link to code]
+- **Request:** `GET /v0/profile/payment_history`
+  - **Reponse:** `200` [recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L13)
 - **Content:** See designs
+
+</details>
+
+
+<details><summary>User has outstanding overpayment debts and copays</summary>
+
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L7)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
 
 </details>
 
