@@ -148,7 +148,7 @@ synthesis_tools_used:
 
 - **Hypothesis Statement:** We assume that overall there will be some confusion about direct deposit being a separate process than what is used for VA Benefits when Veterans are filing an FMP claim. 
   - **"Maybe True"**
-  - Supporting evidence  
+  - Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 
 
 - **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
@@ -192,12 +192,12 @@ Almost all participants called out the documents needed to gather and the link t
 > _Supporting quote: I see I need at least a billing statement and if I paid, a receipt
 If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
 
-> _I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form. (P7) _
+> _I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form. (P7)_
 
 
 
 ### Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
-This   
+This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to particpants and they wanted more explanation or definition around them.  
 
 > _Supporting quote:_
 
