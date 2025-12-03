@@ -1,6 +1,42 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## 12/03/2025
+
+**Attendees:** Andrew S., Andrea B., Dirk R., Jennifer R., Richard M., Eileen M., Leticia D., Premal S., Andrea M., Jessica S., Mike M., Hieu V., Cindy C.
+
+**Agenda:**
+- Status of FMP Benefits Authorization Letters (Premal's async work)
+- Status of Memo for Direct Deposit (another thing Premals been working on async)
+- Status of FMP claims on VA.gov
+- Foreign direct deposit update forms
+
+**Notes**
+
+**Status of benefits authorization letters** 
+- Premal notes there's work already done for benefits letters, but there's currently a lapse between contract teams working on this, but once ready, we'll be able to pull down and have FMP letters available on the benefits claims status tool.
+   - The API's there, but we need the VA.gov team that handles the front-end to add the letter.
+
+**Status of Direct Deposit Memo**
+- Premal already sent a sneak-peak to the FMP team
+- Reminder of our proposed phases and approach to the direct deposit work:
+   - Phase I: use FSC website to update direct deposit
+   - Phase II: actually use VA.gov, but we need internal policy changes to make sure that's possible and we can pull from VBA). Slow and steady progress there.
+
+**Status of getting FMP claims onto VA.gov**
+- Andrew asks: what are the dependencies there? Is it front-end getting banking information?
+- Premal/Mike respond: we need to clean up content for VA.gov and there's a code freeze. Aiming for early January launch
+- Premal to handle any questions about delivery 
+
+**FMP claims direct deposit from providers** 
+- Jennifer R. and Andrea B. was working with box.com getting the form in there, trying to figure out how each data field in the form is working correctly.
+- Testing to figure out getting provider DD to work out OK. Noticing that every form that comes into Box is titled the exact same way, trying to figure out a workaround (how to get forms from Box to Pega, and have Pega recognize the fields as they're mapped out).
+- Eventually this will be launched to an AWS data repository
+
+**Status/updates on FMP claims research study**
+- Jessica/Hieu give an overview and Mike explains the timeline to launch and why getting all content changes into production before the code freeze may be challenging
+- Andy asks about the sample size for the study, Jessica explains what insights we can get out of smaller sample sizes. 
+
 
 ## **10/08/2025**
 
