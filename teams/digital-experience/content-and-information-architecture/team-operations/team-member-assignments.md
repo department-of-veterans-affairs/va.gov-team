@@ -5,45 +5,46 @@ This document outlines the basic work areas that Content and IA team members cov
 ## Content
 This section shows the current team members and their assigned product teams. If we haven't noted a product team in this list, we're not currently providing extensive content support to them.
 
-**Note:** Identity and Secure Sign-in Transition teams aren't assigned below yet. But we do support them.
+**Note:** VES, Identity, Sign-in, and Sitewide Public Websites teams aren't assigned below yet. But we do support them.
 
 ### Juliana Jara
 - Disability Benefits Crew
   - Subteams: Shared Support, Core 526 Form, Pathways Forms, Employee Experience, Conditions and Evidence
   - Products: 21-526EZ, 21-4142, 21-0781
-- Iterate, Innovate, and Run (IIR) (supported by Marissa Merkt)
-  - Products: various
+- Core Veteran Experiences (CVE) (formerly IIR)
+  - Products: Letters, Chapter 31, Chapter 36, Certificate of Eligibility for VA Home Loan, Welcmoe to VA
 
 **Note:** Juliana also supports translation work.
 
 ### Kaitlyn Hunt
 - Cross Benefits Crew
-  - Subteams: Decision Reviews, BMT 1/2 (new names pending)
-  - Products:
+  - Subteams: Decision Reviews, BMT 1/2/3
+  - Products: Supplemental Claims, Higher-Level Reviews, Notice of Disagreement, Claim Status Tool, VA letters and documents, Disability rating
 
 ### Marcia Volpe
 - Lifestage Benefits Crew
-  - Subteams: Shared Services, Dependents Management Tools, Burial and Pension (soon)
-  - Products:
+  - Subteams: Shared Services, Dependents Management Tools, Burial and Pension
+  - Products: 21P-527EZ, 21P-530EZ, 21P-0969, 21-0538, 21-686c, 21-674, 21-674b
 
-### Marissa Merkt
-- Iterate, Innovate, and Run (IIR) (supporting Juliana Jara)
-- Integrated Veteran Care (IVC) Forms (supporting Rory Cooper)
-
-**Note:** Marissa also supports pulling Medallia data.
+### Monica Lee
+- Health Apps (formerly separate IVC and 10-10 teams)
+  - Products: 10-10d, 10-7959a, 10-7959c, 10-7959f, 10-7959f-2, 10-10EZ, 10-10EZ, 10-10CG
 
 ### Rory Cooper
-- Integrated Veteran Care (IVC) Forms (supported by Marissa Merkt)
-  - Products: 10-10d, 10-7959a, 10-7959c, 10-7959f, 10-7959f-2
 - Financial Management
+  - Products: Debt portal 
 - Authenticated Experience
   - Products: My VA, VA Profile
- 
-### Tamika Matthews
-- 1010 Health Apps team
-  - Products: 10-10EZ, 10-10EZ, 10-10CG
+- Core Veteran Experiences (CVE) (formerly IIR)
+  - Products: Letters, Chapter 31, Chapter 36, Certificate of Eligibility for VA Home Loan, Welcmoe to VA
 
-**Note:** Tamika also support migration of Caregiver Support Program content.
+**Note:** Rory will support Health Apps until Monica is fully onboarded.
+
+### Tamika Matthews
+- Various product teams
+- Content migration and modernization
+
+**Note:** Tamika will support Health Apps until Monica is fully onboarded.
 
 ### Tori Moore
 - MHV Horizon
@@ -74,4 +75,4 @@ These are the cross-functional or platform teams that we support. Team member as
 - All Health and Digital Experience teams
 
 
-Last updated: August 13, 2025
+Last updated: December 3, 2025
