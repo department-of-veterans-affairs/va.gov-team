@@ -33,6 +33,16 @@
 </details>
 
 
+<details><summary>User has never had any outstanding debts or copays</summary>
+
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=hGk8TQXoTYR6Q8xd-0)
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L254)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1661)
+
+</details>
+
 <details><summary>User has not received any payments from VA in the last 60 days</summary>
 
 - **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
