@@ -62,6 +62,30 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. Bug fix: Nav home link broken on form 526/686 app
 
 
+## Sprint 4 Delivery
+- [ ] Sprint Delivery Approved by Enablement
+
+**Planned for Sprint 4**: 37 tickets, 113 points + 2 spikes \
+**Added as a Sprint 4 stretch goal**: 9 tickets, 17 points + 2 spikes 
+
+**Completed in Sprint 4**: 33 tickets, 80 points + 2 spikes \
+**Crew Velocity**: 80 points / 9 days =  8.9 points / day
+
+**Crew Count in Sprint 4**: 16 active teammates \
+**Average Teammate Velocity**: 80 points / 16 teammates = 5 points / teammate
+
+**Carrying into Sprint 5**: 13 tickets, 50 points + 2 spikes
+1. 2 tickets (11 points) are pending Team QA
+2. 5 tickets (16 points) are Blocked
+3. 5 tickets (18 points + 2 spikes) are still In Progress
+6. 1 ticket (5 points) is in Sprint Backlog due to capacity being reached (deprioritized to investigate a bug)
+
+**Notes**:
+1. Thanksgiving was the second Thursday of Sprint 4, and 10 active teammates had reduced capacity in the second half of the sprint. 
+
+
+
+
 ## Sprint 4 Tickets
 
 **Team Accreditation**
@@ -190,12 +214,12 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Crew Count in Sprint 3**: 13 active teammates \
 **Average Teammate Velocity**: 112 points / 13 teammates = 8.6 points / teammate
 
-**Carrying into Sprint 3**: 14 tickets, 51 points 
+**Carrying into Sprint 4**: 9 tickets, 26 points 
 1. 1 ticket (3 points) are pending Platform/External Team review 
 2. 1 ticket (5 points) are pending Team review
 3. 3 tickets (6 points) are Blocked
 4. 2 tickets (8 points) are still in progress
-5. 2 tickets (54 points) were over-planned and unable to start due to capacity being reached
+5. 2 tickets (4 points) were over-planned and unable to start due to capacity being reached
 
 **Notes**:
 1. In addition to the pointed crew velocity, 8 spikes were completed in Sprint 3.
