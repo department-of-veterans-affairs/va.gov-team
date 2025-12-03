@@ -245,9 +245,8 @@ This research supports measurement of this KPI by....
 *Outline immediate actions based on findings, including owners if applicable.*  
 
 > [!TIP]
-> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in  
-> [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
-> Open Copilot on this findings document, paste that prompt, and follow the instructions there to generate well-structured issues.
+> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
+> **After creating issues, add their hyperlinks back here under their corresponding "Recommendation" or "Next Step."**
 
 ## Further research needed
 
