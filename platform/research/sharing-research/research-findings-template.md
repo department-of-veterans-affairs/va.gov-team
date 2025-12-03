@@ -238,12 +238,16 @@ This research supports our desired business outcome by....
 
 ### KPI 1
 This research supports measurement of this KPI by....
-
+  
 
 ## Next Steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
 
+> [!TIP]
+> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in  
+> [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
+> Open Copilot on this findings document, paste that prompt, and follow the instructions there to generate well-structured issues.
 
 ## Further research needed
 
