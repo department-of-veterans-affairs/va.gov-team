@@ -110,7 +110,7 @@ Would you like assistance sharing your screen?
 
 
 
-_[If no:]_ Go ahead and share your screen for me now.
+_[If no:]_ Go ahead and share your screen for me now. Just note that once you start sharing I will be able to see anything on your desktop, so maybe go ahead and close out any windows that you don't want to share with me.
 
 *[Follow protocol for particular OS (Android/iOS) and AT]*
 
@@ -148,7 +148,7 @@ Now we'll begin our first set of questions.
 2. What can you tell me about what’s going on with your prescriptions?
 3. What can you tell me about your PEPCID medication? (make med in “**active** status”)
     1. Probe: what does the **active** status mean to you?
-        1. On a scale of 1-5, how confident are you in that answer?
+        1. On a scale of 1-5 (1 being not confident, 5 being very confident), how confident are you in that answer?
     2. What is going on with your med? (If needed, call attention to status) and probe: 
         1. What do you think happens next for a medication with an **active** status?
         2. How would you feel if you saw this status on an important medication?
@@ -223,6 +223,8 @@ Excellent. We're now where we need to be.
 Let's take a minute or two to get familiar with this page.
 
 As you can see, this is not your My HealtheVet account. If you look (in the top right corner) where your name would display, it says Emma which is our test user name. However, we would like you to imagine this is your account with your own data, not someone else’s.
+
+This task is going to have you navigating through a series of pages. We want to hear your thoughts at each step, so I'd like you to pause at the beginning of each new page/step so I can ask you a few questions. 
 
 Ok let's begin with the task:
 
@@ -319,8 +321,7 @@ Ok let's begin with the task:
 Thank you for completing that task. I have a few follow up questions for you:
 
 * Did anything in the process feel overwhelming or hard to process?
-* What would you change about this process?
-* What would you keep about this process?
+* What, if anything, would you change about this process?
 * _[For AT users:]_ Did any part of of the process feel harder because of using *[a screen reader] or [speech input]*?
 * _[For AT users:]_ If you were teaching someone else who uses *[a screen reader] or [speech input]* to do this, what would you warn them about?
 
