@@ -8,9 +8,9 @@
   
 ## Artifacts
 - link to Design Decision log 
-- Link to discovery research ticket or findings
-- Link to Figma flle
-- Link to Experimental design request if applicable
+- [Research accessibility recommendations](https://docs.google.com/document/d/1kNLPUKnwr-k0sIogzc7MdpUqk4vF4mL3hIEg_qqmZuI/edit?usp=sharing)
+- [Figma flle](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/branch/ZCvzpF0EbyeCbO4fL9u8r0/VADS-Component-Library?m=auto&node-id=40936-5762&t=vFk0h7CyFWqfO1Hw-1) 
+- [Experimental Design Filter and Sort](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3584)
 - Link to properties / architecture document
 
 ## Summary
