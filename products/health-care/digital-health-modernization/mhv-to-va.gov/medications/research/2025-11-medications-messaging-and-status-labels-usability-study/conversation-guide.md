@@ -280,20 +280,20 @@ Ok let's begin with the task:
 * *Does the modal cause the user hesitation or confusion about going to messaging?*
 * *Does the user click through without taking the time to absorb the information in the modal?*
 
-### Prefilled Renewal Request Message Content
+### Care team selection
 
-* What do you notice on this page?
-
-#### Care team selection
 * Who would you select here, and why?
 * If you weren't sure which provider to choose, what would you do?
+
+_[After answering questions, instruct the user to select DERMATOLOGY]_
 
 *Things to watch for:*
 * *Does the user express confusion about selecting a provider?*
 
 
-#### Prefilled message
+### Prefilled Renewal Request Message Content
 
+* What do you notice on this page?
 * Would you edit or add additional information to this message at all?
     * If no, why not?
     * If yes, what would you change in the message?
@@ -331,8 +331,8 @@ Thank you for completing that task. I have a few follow up questions for you:
 
 
 * "Before we wrap up Task 2, I'd like to show you one more thing.
-
-INSERT INSTRUCTIONS HERE ON HOW THE USER CAN ACCESS THE ERROR PAGE.
+1. Can you please go to the link I have just pasted into the chat: https://staging.va.gov/my-health/secure-messages/new-message/?prescriptionId=12345&redirectPath=%2Fmy-health%2Fmedications
+2. Please select one of the care teams and click "Continue"
 
 Imagine you tried to request a renewal for this medication, but when you clicked the link to send a message to request a renewal, you were taken to this page. What would you do next?
 
