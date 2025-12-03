@@ -13,8 +13,8 @@ description: "A conversation guide for complex claims user acceptance testing."
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
 
-> [!NOTE]
-> Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
+- Follow standard procedures listed in the VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
+- Ask observers to plan to assist the notetaker by taking detailed notes if the participant does not want to record the call.
 
 ### Day of the session
 
@@ -66,6 +66,9 @@ Before we start, I have a few things that I want to go over with you:
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
 
    <mark>**[Record answer here]**</mark>
+
+> [!TIP]
+> If the user does not want to record, take extra detailed notes. Observers may serve as backup notetakers.
      
 - **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
    - **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
@@ -105,6 +108,15 @@ Moderator: Before we look at the website, let’s start with a few warm-up quest
 3. Have you successfully received travel pay reimbursement via direct deposit before? 
 
 # Complex claims main task flow
+
+> [!NOTE]
+> If you observe a bug at any point, pause and collect data that will help engineers resolve the issue. Ask the user for their:
+> - Device type and model 
+> - iOS (and version, if possible)
+> - Browser (and version, if possible)
+> - Steps to reproduce the issue (see if you can replicate the problem, but not at the expense of problematically manipulating the user's data)
+> 
+> Take careful notes, especially if you are not recording the session.
 
 ## Sub Task: [Login to VA.gov] - 5 minutes
 
