@@ -135,9 +135,11 @@ synthesis_tools_used:
 
 ## Research Goals
 
-This research supports Veterans during the critical **Getting Out** and **Starting Up** phases of their journey, specifically addressing the moment when newly transitioned Veterans first access VA.gov and face decision paralysis about where to begin. 
+This research directly addresses the product's core problem: **When Veterans sign up for VA. gov, they aren't told what to do next making it complicated and overwhelming to find and access the benefits they earned. ** Our research explores how an onboarding modal can help Veterans take their first step towards applying for benefits. 
 
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map. pdf)
+This research supports Veterans during the critical **Getting Out** and **Starting Up** phases of their journey, specifically addressing the moment when newly transitioned Veterans first access VA.gov. 
+
+[See the Veteran journey](https://github.com/department-of-veterans-affairs/va. gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map. pdf)
 
 **Key moments this tool supports:**
 - First login to VA.gov after military separation
@@ -576,16 +578,15 @@ Veterans have strong negative reactions to multi-step product tours, walkthrough
 8. **Recommendation:** Avoid multi-step product tours entirely
    - **Supporting evidence:** Finding 9 - Product tours universally rejected; "Stop with the damn pop ups" – P15
 
-9. **Recommendation:** Implement trauma-informed design principles for Veterans with PTSD and cognitive disabilities
-   - **Supporting evidence:** Additional Insights - straightforward content reduces frustration for Veterans with PTSD
-
 ## Product User and Business Outcomes
 
 *Explain how findings and recommendations align with the product's goals.*
 
 ### Desired User Outcome
 
-This research supports our desired user outcome by reducing confusion and decision paralysis for newly transitioned Veterans, enabling them to quickly find and apply for the benefits they need during the critical transition period.
+This research directly addresses the product outline's core problem: **When Veterans sign up for VA.gov, they aren't told what to do next making it complicated and overwhelming to find and access the benefits they earned.**
+
+Our research validates that the application-focused modal solves this problem by reducing confusion and decision paralysis for newly transitioned Veterans, enabling them to quickly find and apply for the benefits they need during transition.
 
 **How this research supports the user outcome:**
 - The strong preference (88%) for the Apply-focused modal validates that direct pathways to Healthcare, Disability, and Education align with Veterans' priorities
@@ -594,10 +595,31 @@ This research supports our desired user outcome by reducing confusion and decisi
 - Understanding that Veterans expect personalized content reveals opportunities to leverage existing profile data to create more relevant experiences
 
 **Expected user impact:**
+- Veterans are able to quickly find and apply for the benefits they need (product outline goal)
 - Reduced time to first benefit application
 - Decreased frustration during initial VA.gov experience
 - Increased confidence in eligibility and application processes
-- Improved satisfaction with VA. gov as primary benefits portal
+- Improved satisfaction with VA.gov as primary benefits portal
+
+### Desired Business Outcome
+
+This research supports the product outline's business goal of **increasing action toward benefit application**, including learning about eligibility or how to apply.  It also contributes to **OCTO's Objective #1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+
+When Veterans can navigate directly to benefit information from their first login, they're more likely to complete applications successfully and have positive experiences with VA.gov. 
+
+**How this research supports the business outcome:**
+- Application initiation rates should increase due to clearer pathways
+- Medallia satisfaction scores for first-time users should improve
+- Time-to-first-benefit-application should reduce
+- Support contacts about "where to start" should decrease
+
+The strong preference for the Apply-focused modal provides clear direction for implementation, reducing risk of deploying an approach that doesn't resonate with users.  The identification of the "Discover Your Benefits" gap reveals opportunity to enhance the fourth modal option with true personalization.
+
+**Expected business impact:**
+- 15% increase in benefit application initiation within 30 days of first login
+- 5-point increase in Medallia satisfaction scores for new users
+- Reduction in support tickets related to navigation and "getting started"
+- Decreased bounce rate from benefit landing pages
 
 ### Desired Business Outcome
 
@@ -623,52 +645,88 @@ The strong preference for the Apply-focused modal provides clear direction for i
 
 This research supports measurement of OCTO-DE Objective 1, KR 1: "Improve satisfaction with web and mobile products by 5 points."
 
-### KPI 1: Increase benefit application initiation rate
+The product outline defines three key success metrics that this research validates:
 
-This research supports measurement of this KPI by validating that the Apply-focused modal provides direct pathways to the three benefits new Veterans prioritize (Healthcare, Disability, Education).  The high preference rate and strong qualitative feedback suggest this intervention will reduce barriers to application initiation.
+### KPI 1: Majority of users who see the modal click on one of the links
+
+This research validates strong intent to engage with modal options—14 of 16 participants (88%) chose a benefit option when asked "Where would you click first?"
+
+**Metrics to track:**
+- Number of clicks on disability compensation link
+- Number of clicks on VA health care link
+- Number of clicks on education benefits link
+- Number of clicks on discover benefits link (if added as 4th option)
+- Percentage of users who click any modal link vs. "Not right now"
 
 **Baseline measurement approach:**
-- Track application starts within 30 days of first login (current state)
-- Compare against same metric after modal implementation
+- Track modal display events and click-through rates
+- Monitor which benefit options receive most engagement
+- Analyze time-to-click and dismissal rates
 
 **Expected impact:**
-- 15% increase in application initiation within 30 days of first login
-- Reduction in time-to-first-benefit-application by 5+ days
+- 70%+ click-through rate on modal benefit options
+- Disability compensation link receives highest engagement
+- Less than 30% dismiss modal without clicking
 
 **How research supports this:**
-- 88% preference for direct application pathways
+- 88% preference for application-focused options
 - Unanimous validation of three core benefits
-- Strong evidence that eligibility clarity reduces abandonment
+- Clear user intent demonstrated in usability testing
 
-### KPI 2: Improve user satisfaction scores for new users
+### KPI 2: Users who click on one of the modal links also click another relevant link on the destination page
+
+This KPI measures whether users find value in the destination pages (not just the modal).  "Relevant clicks" are defined as clicks that aren't in the header or footer—indicating true engagement with benefit content.
+
+**Metrics to track:**
+- Number of relevant clicks on disability compensation page (from modal users)
+- Number of relevant clicks on health care page (from modal users)
+- Number of relevant clicks on education page (from modal users)
+- Number of relevant clicks on discover benefits page (from modal users)
+- Scroll depth and time on page
+- Specific in-page element interactions (eligibility checks, "Apply online" button, etc.)
 
 **Baseline measurement approach:**
-- Monitor Medallia feedback specifically from users with accounts less than 30 days old
-- Track "ease of finding information" and "overall satisfaction" metrics
+- Compare engagement metrics for users arriving from modal vs. other entry points
+- Track which page elements receive most interaction
+- Monitor task completion rates for modal-referred users
 
 **Expected impact:**
-- 5-point increase in satisfaction scores for new users
+- 60%+ of modal users engage with destination page content
+- Higher engagement with "How to apply" and eligibility sections
+- Increased progression to application starts
+
+**How research supports this:**
+- Phase 2 "How to" pages significantly improved findability and engagement
+- Integrated eligibility content performed better than separate pages
+- Participants demonstrated clear pathways from modal to action
+
+### KPI 3: No significant drop in CSAT on pages we are linking to
+
+This research identifies potential CSAT risks and provides design recommendations to prevent satisfaction drops.  We'll closely monitor CSAT to ensure the modal enhances (not burdens) the user experience.
+
+**Metrics to track:**
+- My VA CSAT (if included in modal)
+- Disability compensation page CSAT
+- VA health care page CSAT
+- Education benefits page CSAT
+- Discover benefits page CSAT (if implemented)
+- Overall VA.gov CSAT for new users (accounts < 30 days old)
+
+**Baseline measurement approach:**
+- Establish pre-launch CSAT baselines for all destination pages
+- Monitor Medallia feedback for mentions of modal or onboarding
+- Track sentiment in qualitative feedback
+
+**Expected impact:**
+- No decrease (and ideally 5-point increase) in CSAT scores
 - Reduction in negative comments about "overwhelming" or "confusing" experiences
+- Increased positive sentiment about "ease of finding information"
 
 **How research supports this:**
 - 100% of participants said modal "would have been helpful"
 - Phase 2 "How to" pages received consistently positive feedback
 - Clear preference for simplified, action-oriented content
-
-### KPI 3: Reduce bounce rate from benefit landing pages
-
-**Baseline measurement approach:**
-- Track current bounce rates from Healthcare, Disability, and Education landing pages
-- Monitor specifically for users arriving from the modal
-
-**Expected impact:**
-- 10% reduction in bounce rate from these three pages
-- Increased scroll depth and time on page for users who arrive via modal
-
-**How research supports this:**
-- Phase 2 pages performed significantly better than Phase 1
-- "How to" format with integrated eligibility reduces confusion
-- Direct pathways from modal create clearer user intent
+- Strong user preference for first-time-only display reduces pop-up fatigue
 
 ## Next Steps
 
@@ -676,25 +734,35 @@ This research supports measurement of this KPI by validating that the Apply-focu
 
 **Immediate (Week of Nov 25, 2025):**
 1. Share findings with stakeholders (PO, Design, Content, Product, Engineering) - David Pearl
-2. Prioritize recommendations with product team - Product Owner
-3. Schedule design workshop to finalize Apply modal - Design Lead
+2. Share findings with AuthEx team stakeholders - David Pearl
+3.  Prioritize recommendations with product team - Megan Commons (Product Manager)
+4. Schedule design workshop to finalize Apply modal - Design Lead
 
-**Short-term (Dec 2025):**
-4. Finalize Apply modal design incorporating recommendations - Design team
-5. Begin engineering assessment for modal implementation - Engineering Lead
-6. Audit and redesign benefit landing pages using "How to" format - Content team
-7. Assess feasibility of dynamic content based on enrollment status - Engineering Lead
+**Short-term (Dec 2025 - Jan 2026):**
+5. Finalize Apply modal design incorporating recommendations - Design team
+6. Begin engineering assessment for modal implementation - Adam King (Engineering)
+7. Audit and redesign benefit landing pages using "How to" format - Content team
+8. Assess feasibility of dynamic content based on enrollment status - Engineering team
+9. Coordinate with AuthEx team on integration approach - Megan Commons
 
-**Medium-term (Q1 2026):**
-8. Deploy Apply-focused modal to production - Engineering team
-9. Implement analytics tracking for modal interactions - Analytics team
-10. Monitor Medallia feedback and usage metrics - Product Owner
-11. Begin research planning for "Discover Your Benefits" redesign - David Pearl
+**Medium-term (Q1-Q2 2026, targeting April 2026 launch):**
+10. Develop feature flag implementation for gradual rollout - Engineering team
+11. Deploy Apply-focused modal to staging environment - Engineering team
+12. Conduct pre-launch QA and accessibility testing - QA team
+13. Implement analytics tracking for all three KPIs - Analytics team
+14. Begin phased production rollout behind feature flag - Engineering team
+15.  Monitor daily KPI dashboards during rollout - Megan Commons (Product Owner)
 
-**Long-term (Q2 2026):**
-12. Conduct follow-up research to validate modal effectiveness - Research team
-13. Begin dynamic content implementation (enrolled vs non-enrolled pathways) - Engineering team
-14.  Expand personalization based on profile data - Product team
+**Post-Launch (Q2 2026):**
+16.  Monitor Medallia feedback and CSAT metrics - Product Owner
+17. Analyze modal engagement and destination page metrics - Analytics team
+18. Conduct follow-up research to validate modal effectiveness - David Pearl
+19. Begin research planning for "Discover Your Benefits" redesign - David Pearl
+
+**Long-term (Q3 2026 and beyond):**
+20. Begin dynamic content implementation (enrolled vs non-enrolled pathways) - Engineering team
+21.  Expand personalization based on profile data - Product team
+22. Iterate on modal content and design based on data insights - Product team
 
 ## Further research needed
 
@@ -711,7 +779,7 @@ This research supports measurement of this KPI by validating that the Apply-focu
 ## Appendix
 
 ### Research documents
-- [Product Outline](link-to-product-outline)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/va.gov-onboarding-flow-mvp-product-outline.md)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/research-plan.md)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/research/2025-study/conversation-guide.md)
 - [Participant Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-onboarding/research/2025-study/Onboarding%20Research%20Transcripts)
