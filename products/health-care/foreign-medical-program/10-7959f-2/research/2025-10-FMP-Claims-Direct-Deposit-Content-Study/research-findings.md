@@ -197,21 +197,27 @@ If I was doing this for real, I'd click the link to check if the claim I'm filin
 
 
 ### Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
-Brief description  
-- _Supporting data: Quote [add context]_
+This   
+
+> _Supporting quote:_
 
 
 
 - ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
-Brief description  
-- _Supporting data: Quote [add context]_
+There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
+
+
+> _Supporting quote: "Reference to FSC. New term for me. (P2)_
 
 
 
 - ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 Brief description  
-- _Supporting data: Quote [add context]_  
 
+
+> _Supporting quote: Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account? (P8)_  
+
+> _Supporting quote: For me, I already have direct deposit established, so these instructions are redundant. (P3)_
 
 ---
 
@@ -308,7 +314,7 @@ This research supports measurement of this KPI by....
 
 #### Recruitment criteria
 
-#### Primary criteria (must-haves)
+**Primary criteria (must-haves)**
 
 -  Do you currently receive monthly disabilty compensation for a service connected condition? (Must answer yes to qualify) 
 
@@ -326,7 +332,7 @@ This research supports measurement of this KPI by....
 -  At least 2 out of the 8 participants who are 55 years or older 
 
 
-##### Secondary criteria (nice-to-haves)
+**Secondary criteria (nice-to-haves)**
 - No more than 3 out of the 8 participants per each race/demographics category
 - No more than 2 out of the 8 particpants per any age category
 
