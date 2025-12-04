@@ -199,25 +199,26 @@ If I was doing this for real, I'd click the link to check if the claim I'm filin
 ### Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
 This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to particpants and they wanted more explanation or definition around them.  
 
-> _Supporting quote:_
-
+> _Supporting quote: Vendor file form is new. Don't understand who the Vendor is. (P2)_
+> _Supporting quote: So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks. (P8)_
 
 
 - ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
 There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
-
 
 > _Supporting quote: "Reference to FSC. New term for me. (P2)_
 
 
 
 - ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
-Brief description  
+All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants understanding that direct deposit had to be setup specifically for FMP claims and some thinking that their setup for disability compensation will prefill and apply here.   
 
 
 > _Supporting quote: Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account? (P8)_  
 
-> _Supporting quote: For me, I already have direct deposit established, so these instructions are redundant. (P3)_
+> _Supporting quote: For me, I already have direct deposit established, so these instructions are redundant. (P3)_ [Seemed to be referring to their monthly disability compensation]
+
+
 
 ---
 
@@ -235,7 +236,7 @@ Brief description
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
+1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points especially on the proposed static instructional resource page.]  
    - _Supporting evidence: [Insert data]_  
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
@@ -289,6 +290,8 @@ This research supports measurement of this KPI by....
 ### Tools used for Synthesis
 
 - [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/FMP%20Claims%20Analysis.xlsx) broken down by task in conversation guide with thematic tagging 
+- Post manual synthesis, utilized [Copilot AI workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-synthesis/synthesis-workflow.md)
+
   
 ### Pages and applications used
 
