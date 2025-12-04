@@ -245,13 +245,15 @@ All participants self-reported during the warm up questions that they had a disa
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points especially on the proposed static instructional resource page.]  
+1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points of new terminology especially on the proposed static instructional resource page.]  
  _Supporting evidence:_
    - Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
    - Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
        
-2. **Recommendation:** [Insert action]  
+2. **Recommendation:** [Work with C+IA partners to ensure it is clear that this process is separate from direct deposit for VBA payments by additional clarification.]  
    - _Supporting evidence: [Insert data]_
+
+3. **Recommendation:** [Lonf-term: it would be ideal for Veterans to have secure visibiltiy into what account the direct deposit would go to (last 4 of account, instituction name) within the same flow as filing the claim]
 
 
 ## Product User and Business Outcomes
