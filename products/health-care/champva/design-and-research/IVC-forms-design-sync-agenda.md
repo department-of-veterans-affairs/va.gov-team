@@ -1,6 +1,53 @@
 # Running Design and Research Agenda
 
 
+## December 4, 2025
+
+Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda 
+
+### Agenda: 
+		- Review UX roadmap (will be updating shortly)
+		- Duty to Assist and the other health insurance problem
+		- Tricare research plan + next steps
+
+### Notes: 
+
+#### FMP research updates
+- static page and content around FSC and Vendor File form highest pain point based on study
+
+
+#### Duty to Assist: 
+- Concern over having to enter insurance information multiple times
+- One line item
+- Can’t prefill yet, and providing duplicate or unhelpful information
+- Add what is tightly scoped and help use case (resubmission flow)
+- Big claims, back dated - if we tackle that use case need more clarity for information needed
+
+NEXT STEPS:
+- Open content ticket, leave health insurance in a parking lot and not including it at this point
+- prefill blocker, VES migration?
+- with that potential could be shorter
+
+#### OHI 
+- Have what need for design with some little discovery
+- Old vs new identifier for hint text
+- How future an effective date
+- Remove content about can’t do future date 
+
+VES - won’t validate info, but take what is sent
+
+#### Tricare research plan + next steps
+- next steps: open a content ticket, start research planning this sprint
+- Figma prototypes, A/B test
+- MVP not API version, and showing API version and getting feedback on experiences
+- Alerts and error messages, specific to states that could happen for user feedback 
+- Not in MPI, error to API, not in DEERS, or in DEERS and not eligible 
+
+
+#### Content team staffing update
+
+
+------
 
 
 
