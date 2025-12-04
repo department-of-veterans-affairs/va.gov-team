@@ -151,7 +151,10 @@ synthesis_tools_used:
 
 - **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
   - **“Likely True”**  
-  - Supporting evidence  
+  - There was a mix of participants self-reporting that the content was easy to understand and clear while at the same time there being some point of confusion around new terms or processes mentioned.
+  - Introduction Page Clarity Rating: avg 4.75
+  - Static Page Clarity Rating: avg 4
+  - Confidence Post Rating: avg 4.71
 
 
 
@@ -201,8 +204,8 @@ This was a contributing factor to the lower rating on the static page and the co
 - 3 of 8 participants called out the Vendor File Form as confusing or they would want more information about it.
 
 
-> _Supporting quote: Vendor file form is new. Don't understand who the Vendor is. (P2)_
-> _Supporting quote: So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks. (P8)_
+> _Supporting quote: "Vendor file form is new. Don't understand who the Vendor is." (P2)_
+> _Supporting quote: "So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks." (P8)_
 > _one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
 
 
@@ -212,18 +215,18 @@ There was new terminology on the instruction static page that participants had n
 - 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
 
 
-> _Supporting quote: "Reference to FSC. New term for me. (P2)_
-
+> _Supporting quote: "Reference to FSC. New term for me." (P2)_
+> _Supporting quote: "This Vendor file form, because I didn’t have to deal with it, I know nothing about it." (P4)_
 
 
 - ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants understanding that direct deposit had to be setup specifically for FMP claims and some thinking that their setup for disability compensation will prefill and apply here.   
+- 4 out of the 8 participants mentioned some sort of confusion with VBA direct deposit for disability compensation payments.
 
+> _Supporting quote: "Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account?" (P8)_  
 
-> _Supporting quote: Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account? (P8)_  
-
-> _Supporting quote: For me, I already have direct deposit established, so these instructions are redundant. (P3)_ [Seemed to be referring to their monthly disability compensation]
-
+> _Supporting quote: "For me, I already have direct deposit established, so these instructions are redundant." (P3)_ [Seemed to be referring to their monthly disability compensation]
+> _Suproting quote: "I guess again it is self-explanatory, especially if you already went through the process to sign up for FSC. I don’t recall signing up for that, when eBenefits switch, all my information transferred over. Had benefits since 2011." (P4)_
 
 
 ---
@@ -243,7 +246,10 @@ All participants self-reported during the warm up questions that they had a disa
 *Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points especially on the proposed static instructional resource page.]  
-   - _Supporting evidence: [Insert data]_  
+ _Supporting evidence:_
+   - Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
+   - Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
+       
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
 
@@ -278,12 +284,14 @@ This research supports measurement of this KPI by....
 ## Next Steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
+- Work with sitewide C+IA team to incorporate research findings around participant confusion of process and terminology.
 
 
 ## Further research needed
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
+- Accessibility testing with assistive tech users
+- Usability testing with a coded form in staging 
 
 ## Appendix
 
