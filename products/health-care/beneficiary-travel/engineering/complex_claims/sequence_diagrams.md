@@ -37,7 +37,6 @@ sequenceDiagram
       tpfe ->> tpm: POST /travel_pay/v0/claims/:claim_id/expenses
       tpm ->> tpm: validate request body
       tpm ->>+ tpapi: POST /api/v1.2/expenses/<expense_type> {claim.id}
-      tpapi -->>- tpm: {status}
 
       tpapi ->> tpm: 200 - expense_id
       tpm ->> tpfe: 201 - expense_id
@@ -49,4 +48,88 @@ sequenceDiagram
 
     tpm -->> tpfe: {claim}
     tpfe ->> user: Confirmation Page
+```
+
+## Breakout: Expense Ops
+### Add Expense
+
+```mermaid
+sequenceDiagram
+  actor user as User
+  participant tpfe as Travel Pay Front-end
+  participant vaos as VAOS: vets-api
+  participant tpm  as Travel Pay Backend: vets-api
+  participant tpapi as Travel Pay API
+
+  tpfe ->> user: Show expense "form"
+  user ->> tpfe: Add expense details
+  tpfe ->> tpfe: validate entries
+  note over tpfe,tpm: payload includes receipt as base64 encoded data
+  tpfe ->> tpm: POST /travel_pay/v0/claims/:claim_id/expenses
+  tpm ->> tpm: validate request body
+  tpm ->>+ tpapi: POST /api/v1.2/expenses/<expense_type> {claim.id}
+
+  tpapi ->> tpm: 200 - expense_id
+  tpm ->> tpfe: 201 - expense_id
+
+  tpfe ->> user: Confirmation of add
+```
+
+### Edit Expense
+
+```mermaid
+sequenceDiagram
+  actor user as User
+  participant tpfe as Travel Pay Front-end
+  participant vaos as VAOS: vets-api
+  participant tpm  as Travel Pay Backend: vets-api
+  participant tpapi as Travel Pay API
+
+  user ->> tpfe: From Review Page, click "edit expense"
+  tpfe ->> user: Edit page
+  user ->> tpfe: Save
+  tpfe ->> tpfe: validate entries
+
+  tpfe ->> tpm: Save
+  opt if document replaced
+    note over tpfe,tpm: payload includes receipt as base64 encoded data
+    tpm ->> tpapi: DELETE /api/v3/documents/:doc_id
+    tpapi ->> tpm: 200 - document id
+  end
+  
+  tpfe ->> tpm: PATCH /travel_pay/v0/claims/:claim_id/expenses
+  tpm ->> tpm: validate request body
+  tpm ->>+ tpapi: PATCH /api/v1.2/expenses/<expense_type> {claim.id}
+
+  tpapi ->> tpm: 200 - expense_id
+  tpm ->> tpfe: 201 - expense_id
+
+  tpfe ->> user: Confirmation of Edit on review page
+```
+
+### Delete Expense
+
+```mermaid
+sequenceDiagram
+  actor user as User
+  participant tpfe as Travel Pay Front-end
+  participant vaos as VAOS: vets-api
+  participant tpm  as Travel Pay Backend: vets-api
+  participant tpapi as Travel Pay API
+
+  user ->> tpfe: From Review Page, click "delete expense"
+  tpfe ->> user: Confirmation
+  user ->> tpfe: yes
+  
+  tpm ->> tpapi: DELETE /api/v3/documents/:doc_id
+  tpapi ->> tpm: 200 - document id
+
+  tpfe ->> tpm: DELETE /travel_pay/v0/claims/:claim_id/expenses
+  tpm ->> tpm: validate request body
+  tpm ->>+ tpapi: DELETE /api/v1.2/expenses/<expense_type> {claim.id}
+
+  tpapi ->> tpm: 200 - expense_id
+  tpm ->> tpfe: 201 - expense_id
+
+  tpfe ->> user: Confirmation of Delete on review page
 ```
