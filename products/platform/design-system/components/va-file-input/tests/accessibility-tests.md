@@ -272,15 +272,16 @@ Verify error behavior for oversized files.
 - 4.1.3 Status Messages  
 
 **Setup:**  
-Component configured with a max file size (e.g., 25 MB).
+Component configured with a max file size (e.g., 25 MB). Using this [storybook story for testing](https://file-input-focus-and-sr--65a6e2ed2314f7b8f98609d8.chromatic.com/iframe.html?globals=&args=&id=uswds-va-file-input--with-max-file-size). Max file size is 1KB.
 
 **Steps:**  
 1. When the user selects a file larger than the allowed maximum.  
 
 **Expected Result:**  
 - Then the file is not uploaded.  
-- And the error message appears (e.g., “File is too large”).  
-- And the instructions suggest correct use (“Choose a file under X MB”).  
+- And the error message appears (e.g., “We can't upload your file because it's too big.”).  
+- And the instructions suggest correct use (“Files must be less than 1 KB.”).
+- On display, the error message is announced to screen readers. 
 
 #### Actual behavior:
 
