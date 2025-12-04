@@ -7,8 +7,8 @@
 ## **1\. Key Differences from Dependents-on-Disability**
 
 1. Dependency is established as part of the initial pension claim, not as a separate EP. 
-2. Parents cannot be dependents on a veteran’s pension
-3. Spouses cannot have their own aid+attendance increase on pension unless they are also a veteran
+2. Parents cannot be dependents on a veteran’s pension (which they can on disability)
+3. Spouses cannot have their own aid+attendance increase on pension unless they are also a veteran (which they can on disability)
 4. Users can’t just add a dependent with 686 – they will often need to provide more detailed financial information (like from the 0969, 8416, 0518-1 or 0517-1)
 
 **Key Findings that our team CAN impact:**
