@@ -11,13 +11,19 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 - **Terminology gaps persist**: Ambiguity around terms like "Financial Services Center (FSC)" and "Vendor File Form" led to confusion, especially for first-time claimants and older Vets.
 - **Process expectations vs. reality differ**: Many expected FMP direct deposit to connect automatically to existing VA direct deposit info, but instructions did not clarify if/how that works.
 - **Pain points center on technical friction, jargon, and order of operations**: Key frustrations included navigating multiple portals, ID.me issues for overseas Veterans, upload errors, and unclear sequence of required steps.
+
+> Annotation: these were themes and top key findings
+
 - **Quick wins exist in refining content and process clarity**: Adding step-by-step guidance, glossary pop-outs for jargon, and UI tweaks (bigger buttons, verifications) can greatly improve confidence and task completion.
-- 
+ 
 > Annotation: refine recommendation around content clarificaiton for static page and step-by-step guidance. Ignore AI UI and pop-out suggestions.
 
 ---
 
 # 2. Thematic Analysis
+
+> Annotation: Mostly accurate. Concerns around  "process step navigation" and "upload friction" 
+
 
 ## Main Themes
 **Primary**
@@ -51,6 +57,9 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 
 # 3. Sentiment Analysis
 
+> Annotation: Accurate sentiment. The most friction and confusion existed on the static page around new terminology and steps for direct deposit setup.
+
+
 - **Overall Emotional Tone:** Largely neutral-positive, with some frustration spikes.
 - **Emotional Journey:** Most began with curiosity/neutrality, grew confident after reading instructions, but emotional dips occurred at unfamiliar jargon, technical barriers, or process ambiguity.
 - **Pain Points/Intensity (1-5):**
@@ -68,6 +77,8 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 ---
 
 # 4. Affinity Mapping
+
+> Annotation: Bullets under areas represented majority of themes.
 
 ## User Needs
 - Clear step-by-step instructions
@@ -107,6 +118,9 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 ---
 
 # 5. The 5 Whys Analysis (Major Pain Points)
+
+> Annotation: Terminology confusion is a recommendation to take immediate action on and accurate. Not accurate are upload errors as that messaging and functionality was not included in this study, but partipants did talk through their expectations of the file upload.
+
 
 ### Problem: Terminology Confusion (FSC, vendor)
 - **Surface issue:** "What is FSC? What does 'vendor' mean here?"
@@ -182,6 +196,8 @@ Below is a full UX research synthesis, leveraging the content from the supplied 
 ---
 
 # 9. Quote Extraction
+
+> Annotation: Verify quotes from transcripts
 
 - "It sounds self-explanatory, but I don't know what this vendor file form is."
 - "If I'm already getting VA benefits, why can't I just use that account?"
