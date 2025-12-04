@@ -19,6 +19,14 @@ Issues can take various forms.  The main information should be available in the 
   * Add the details in a comment on the ticket
   * Send a message to the mhv-tier-3-support Slack channel to let them know the status.
 * Close the GH ticket
-  * If a technical fix is needed that requires further planning
-    * please include the epic link in the ticket comments
-    * Add instructions to notify Tier 3 to the Acceptance Criteria upon the completion of the fix
+
+### What if a technical fix is needed? 
+If a technical fix is needed that requires further planning:
+* please include the epic link for the new work in the ticket comments
+* Add instructions to the Acceptance Criteria to notify Tier 3 upon the completion of the fix
+* then continue with the typical process of closing it
+   
+### What if more info is needed?
+If additional information is required, Tier 3 can make this request to Tier 2, who will reach out to the user.  The GH ticket will remain on hold while this process occurs.
+* Add comments to the ticket specifying what is needed
+* notify the MHV Tier 3 team in the mhv-tier-3-support slack channel 
