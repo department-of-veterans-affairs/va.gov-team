@@ -23,6 +23,8 @@
 **Example of a "your policy" widget on an insurance website. We could use a similar concept to show a user their active pension benefit, and the important details and actions related to it**
 **<img width="918" height="826" alt="Example auto policy from USAA" src="https://github.com/user-attachments/assets/4cc2dd44-6cb2-4ccc-9b0d-139d75dbb0b1" />
 
+**Here is a basic mockup of this idea for MyVA**
+<img width="750" height="582" alt="Screenshot 2025-12-04 at 2 42 19 PM" src="https://github.com/user-attachments/assets/742e666b-b5a2-4acb-990d-402ab15e6a89" />
 
 
 
