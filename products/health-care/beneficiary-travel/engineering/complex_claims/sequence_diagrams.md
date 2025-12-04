@@ -1,5 +1,43 @@
 # Expenses Sequence Diagrams
+## AuthN/AuthZ
+```mermaid
+sequenceDiagram
+    actor user as User
+    participant tp as Travel Pay Front-end
+    participant tpm as Travel Pay Backend: vets-api
+    participant eis as EIS Platform
+    participant sts as Secure Token Service
+    participant redis as Redis
+    participant tpapi as Travel Pay API
 
+    note over user,tp: Typical VA.gov Sign-In Flow<br/><br/>va.gov-team repo: <br/>products/identity/Products/Sign-In Service/<br/>Engineering Docs/Authentication Types/<br/>Client Auth (User)/<br/>auth_flows/cookie_oauth.md#sequence-diagram
+    
+    user->>tp: /my-health/travel-pay/*
+
+    tp->>tpm: /claims/*
+
+    activate tpm
+        tpm ->> redis: Get cached tokens
+        
+        opt cached tokens missing (TTL expired)
+            tpm ->>+ eis: Get EIS token (OAuth)
+            eis ->>- tpm: EIS token
+
+            tpm ->> tpm: Generate STS Assertion
+            tpm ->>+ sts: Unsigned asssertion
+            sts ->> sts: Validate & sign assertion
+            sts ->>- tpm: Signed STS assertion
+
+            tpm ->>+ tpapi: STS assertion
+            tpapi ->> tpapi: Verify assertion
+            tpapi ->>- tpm: BTSSS access token
+
+            tpm ->> redis: Store EIS and BTSSS tokens
+        end
+    deactivate tpm
+
+    note over user,tpapi: Resource flows (defined below)
+```
 ## Happy Path
 
 ```mermaid
