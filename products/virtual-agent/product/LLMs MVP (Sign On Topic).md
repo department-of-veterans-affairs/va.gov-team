@@ -1,8 +1,8 @@
-# Product Outline: Chatbot - Query Routing with LLMs (Phase 1 MVP) 
+# Product Outline: Chatbot - Query Routing with LLMs & Sign On Topic RAG (MVP) 
 ---
 ## Overview
 
-This initiative is the first phase of a multi-phase program to implement an LLM-driven conversational platform that intelligently handles user queries. The Phase 1 MVP will focus on building foundational capabilities: identifying user intent, routing queries to the right support topics (including sign-on), leveraging Retrieval-Augmented Generation (RAG) for sign-on queries, ensuring safe interactions through moderation endpoints, and monitoring system integrity.
+This initiative is the first phase of implementing an LLM-driven conversational platform that intelligently handles user queries. The MVP will focus on building foundational capabilities: identifying user intent, routing queries to the right support topics (including sign-on), leveraging Retrieval-Augmented Generation (RAG) for sign-on queries, ensuring safe interactions through moderation endpoints, and monitoring system integrity.
 
 ## Objective & Purpose:
 
@@ -115,7 +115,7 @@ As part of the One-Bot approach.
 > *How does this solution address your Assumptions & Risks?
 - **Usability:** Iterative user testing and VA Dogfooding for safety prompts, RAG responses, and routing ensure user understanding.
 - **Value:** Monitoring of feedback and to confirm that users are receiving relevant, helpful responses, especially for sign-on.
-- **Viability:** Demonstrating safety, efficiency, and improved user experience in Phase 1 builds momentum for future FAQ topics. 
+- **Viability:** Demonstrating safety, efficiency, and improved user experience in this phase builds momentum for future FAQ topics. 
 
 ## Go-to-market
 > *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
