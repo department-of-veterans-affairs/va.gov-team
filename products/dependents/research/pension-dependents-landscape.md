@@ -20,7 +20,7 @@
 | There are a lot of details for a pension recipient to know and remember about their pension, but no one place to see that information. (their monthly payment, when the payment comes, which dependents are on the payment, where the money is going, what nursing home they are at, what % disabled they are, etc) In addition to dependents, pension recipients may have a fiduciary, and may need to regularly update the VA as their financial situation changes (ex: running out of money, spouse dies, moving from assisted living to memory care).  | Create a ‘my pension benefit’ for MyVA home screen that shows the user everything about their personal pension benefit in one place – like this type of thing for auto insurance (see image below this table) We could also think about improving the SEO of the pension benefit information by adding keywords and descriptions of the benefit that would appeal |
 
 
-**Example of a "your policy" widget on an insurance website. We could use a similar concept to show a user their active pension benefit.
+**Example of a "your policy" widget on an insurance website. We could use a similar concept to show a user their active pension benefit.**
 **<img width="918" height="826" alt="Example auto policy from USAA" src="https://github.com/user-attachments/assets/4cc2dd44-6cb2-4ccc-9b0d-139d75dbb0b1" />
 
 
