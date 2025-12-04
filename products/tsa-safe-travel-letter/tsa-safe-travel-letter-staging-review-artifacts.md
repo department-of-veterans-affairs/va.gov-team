@@ -23,7 +23,7 @@
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/118713
   
 ### Accessibility Test Artifact
-- TBD
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/126545
 
 ### Regression Test Plan
 - Our TSA Safe Travel Letter is behind a feature toggle. If major issues arise during release, we will disable the feature toggle.
