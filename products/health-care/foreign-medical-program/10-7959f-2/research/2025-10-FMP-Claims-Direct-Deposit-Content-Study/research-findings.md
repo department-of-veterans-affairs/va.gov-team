@@ -49,8 +49,8 @@ demographics:
     biracial: 1
     asian: 1
     native: 0
-  disability: unknown
-    cognitive: unknown
+  disability: X
+    cognitive: X
     AT_beginner: X
     AT_advanced: X
     screen_reader_desktop: X
