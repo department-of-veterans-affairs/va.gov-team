@@ -112,9 +112,10 @@ For each recommendation and next step, please generate:
    - Detailed description of what needs to be done
    - Expected outcome or success criteria
    
-   ## Acceptance Criteria
+      ## Acceptance Criteria
    - Clear, testable criteria for completion
    - Specific user outcomes to achieve
+   - **IMPORTANT: Format each acceptance criterion as a GitHub task list checkbox using `- [ ]` syntax (e.g., `- [ ] Criterion one`) so items can be checked off when completed**
    
    ## Additional Context
    - Related findings from the research
@@ -150,6 +151,7 @@ For each recommendation and next step, please generate:
 - If a next step mentions a specific owner, include that in the issue description
 - Maintain traceability by always linking back to the specific section of the research findings
 - If further research is needed (from the "Further research needed" section), label those issues with `research-needed`
+- **ALWAYS use `- [ ]` checkbox syntax for all acceptance criteria items** to enable task tracking within the issue
 ```
 
 ---
