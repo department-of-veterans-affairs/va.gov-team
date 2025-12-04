@@ -65,10 +65,10 @@
 - No defects were found
 
 ### E2E Tests
-- TBD
+- https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/letters/tests/01-tsa-letter.cypress.spec.js
 
 ### Unit Test Coverage
-- TBD
+<img width="647" height="124" alt="Screenshot 2025-12-04 at 00 04 41" src="https://github.com/user-attachments/assets/37271c0f-38c6-4313-8756-1ba4710b8bd6" />
 
 ### Engineering & Security Checklist
 - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/CVE%20-%20TSA%20Safe%20Travel%20Letter%20-%2010102025.md (NEEDS TO BE UPDATED BEFORE STAGING REVIEW)
