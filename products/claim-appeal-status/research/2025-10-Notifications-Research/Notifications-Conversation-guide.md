@@ -43,7 +43,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 >
 > During today’s session, you’ll hear me use the word **‘channel.’** When I say channel, I mean the way the VA sends you a message — for example, by email, text message (SMS), or an in-app notification inside the VA Health and Benefits mobile app or VA.gov.  
 >
-> You’ll also hear me talk about **notifications** — a notification in this context refers to a message that the VA sends to let you know something important about your benefits. For example, an email, a text, or a message inside the VA Health and Benefits app.  
+> You’ll also hear me talk about **notifications** — a notification in this context refers to a message that the VA sends to let you know something important about your benefits. For example, an email, a text, or a mobile app(push) notification for the VA Health and Benefits app.  
 >
 > We’ll look at example notifications for each channel today, and we’ll talk about how clear they feel, what stands out to you, and how you’d prefer to get this kind of information.”  
 
@@ -106,7 +106,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 ### Set-up
 
-> “Now I’d like you to imagine you’ve just received a notification from VA saying that a decision has been made on your disability claim. I will show you one example of that message in each channel: email, text, and in-app. After viewing each, we’ll talk about what you think about it and what you’d likely do next.”
+> “Now I’d like you to imagine you’ve just received a notification from VA saying that a decision has been made on your disability claim. I will show you one example of that message in each channel: email, text, and mobile app(push) notification. After viewing each, we’ll talk about what you think about it and what you’d likely do next.”
 
 ### Show the Three Examples
 
@@ -126,7 +126,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 > Have questions? Call 800-287-1000 (TTY: 711). We’re here Monday–Friday, 8:00 a.m. to 9:00 p.m. ET.  
 > Reply STOP to opt out.”
 
-**In-App Notification – Decision Letter**
+**Mobile App (Push) Notification – Decision Letter**
 
 > “**VA Claims Update**  
 > Your VA claims decision is ready.”
@@ -171,7 +171,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 > Have questions? Call 800-287-1000 (TTY: 711). We’re here Monday–Friday, 8:00 a.m. to 9:00 p.m. ET.  
 > Reply STOP to opt out.”
 
-**In-App Notification – Evidence Request**
+**Mobile App (Push) Notification – Evidence Request**
 
 > “**VA Claims Update**  
 > We need more information to continue processing your claim.”
@@ -191,9 +191,9 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 ### Wrap-up of Scenario 2
 
-- If VA could use only one channel (email, text, or in-app) for this message, which would you choose and why?  
+- If VA could use only one channel (email, text, or mobile app(push) notification) for this message, which would you choose and why?  
 - If you got the same notification on your phone and by email, which would you look at first, and why?  
-- How would you feel about VA sending you this type of message to all three channels (email, text, in-app)? Why?
+- How would you feel about VA sending you this type of message to all three channels (email, text, mobile app(push) notification)? Why?
 
 ---
 
@@ -207,7 +207,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - Did you notice any differences in language between channels? Did that affect how quickly you understood the message?  
 - If you saw these two messages in your inbox without reading them carefully, what would help you instantly know which one needs urgent action vs. which one is just informational? Should they look or sound different?
 - How would you expect the tone or level of detail to differ between these two types of notifications?
-- For both of these types of messages imagine you receive a text message in the morning, then an email an hour later, and then see the same notification in the app when you log in that afternoon. Walk me through how you'd respond. Which would you engage with first? Would receiving it multiple times feel helpful or overwhelming? 
+- For both of these types of messages imagine you receive a text message in the morning, then an email an hour later, and then see the same notification pushed to you on your cell phone in that afternoon. Walk me through how you'd respond. Which would you engage with first? Would receiving it multiple times feel helpful or overwhelming? 
 
 **Text Message–Specific Reflection**
 
