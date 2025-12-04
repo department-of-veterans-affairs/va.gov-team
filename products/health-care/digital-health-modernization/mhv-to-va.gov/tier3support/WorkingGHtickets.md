@@ -1,15 +1,24 @@
 # How to work Tier 3 Issues assigned to an MHV team 
-MHV Tier 3 Support team triages issues that are communicated and escalated to Tier 3 via VA's Help desk.  The MHV program is responsible for investigating these issues to provide responses,
-and often fixes, for issues encountered.  This document is intended to help an MHV team that is assigned an issue in Github in what is expected from them in addressing these tickets.
+The MHV Tier 3 Support team triages issues that are communicated and escalated to Tier 3 via VA's Help desk.  The entire MHV program is responsible for investigating these issues to provide responses, and/or fixes, for issues encountered.  This document is intended to help an MHV team that gets assigned an issue in Github in what is expected from them in addressing these tickets.
 
 ## How the ticket gets to the team
-To provide Veterans with seamless, reliable access to their healthcare information by maintaining a robust escalation support system that resolves complex technical issues efficiently and drives continuous platform improvement.
+* A veteran or VA staff contacts the Help Desk
+* The Help Desk works to assist with the concern, escalating it up to Tier 1 or 2 as needed.
+* If it's determined to be an issue that requires engineering insight, the ticket gets escalated to MHV Tier 3
+* The MHV Tier 3 Support team triages the ticket, evaluating whether it needs MHV team support. If so, it will either be connected to a GH ticket, or added to a GH ticket with similar issues.
+* This ticket will then be added to a team's Tier 3 column on their GH project board
 
-## Where will teams find tickets meant for them
-Veterans and healthcare providers encounter technical issues with MHV that cannot be resolved through standard help desk support (Tier 1) or technical support (Tier 2). These complex issues require deep technical knowledge, system access, and coordination across multiple VA systems including VistA, CPRS, and integrated third-party applications. Without effective Tier 3 support, these issues result in delayed care access, frustrated users, and diminished trust in digital health services.
+## What do teams do with these tickets?
+The Product Manager is responsbile for ensuring that the team responds to incoming Tier 3 Support tickets.  They will generally review the ticket, assigning a relevant engineer(s) and sprint label.  Then the ticket should be moved into the Current Sprint. 
 
 ## What is the process for addressing a ticket
-Identify and surface issues that inhibit users from successfully accomplishing the self-service tasks they undertake on MHV on VA.gov, as well as assist internal VA staff with issues preventing successful accomplishment of tasks within internal MHV tools (such as Secure Messaging), to the teams that can address them. 
+Issues can take various forms.  The main information should be available in the ticket, but if additional info is needed from the original Tier 3 issue, the Product Manager can access it using the HRC # in the HRC Dynamics queue.  Once sufficient information has been gathered:
 
-## How does a team close out a ticket and communicate that to Tier 3?
-Identify and surface issues that inhibit users
+* The team should investigate if there is a technical problem
+* Report the findings back to the MHV Tier 3 Support team
+  * Add the details in a comment on the ticket
+  * Send a message to the mhv-tier-3-support Slack channel to let them know the status.
+* Close the GH ticket
+  * If a technical fix is needed that requires further planning
+    * please include the epic link in the ticket comments
+    * Add instructions to notify Tier 3 to the Acceptance Criteria upon the completion of the fix
