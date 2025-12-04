@@ -3,21 +3,19 @@ title: "FMP Claims Content Comprehension Study Research Findings, VA Form 10-795
 product: "Product Name"
 team: "Health Applications"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-12-04"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Health Apps UX Team - Renata K, Jessica S, Hieu V"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims."
+  - "Gain insight into any improvements that could be made to increase clairity of the direct deposit process understanding for FMP claims for reimbursement."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated User Interview with mid-fidelity prototype"
 devices_used:
-    desktop: X
-    tablet: X
-    smartphone: X
-    assistive_technology: X
+    desktop: 6
+    tablet: 0
+    smartphone: 2
+    assistive_technology: 0
 participants_total: X
 demographics:
   veterans: X
@@ -189,6 +187,7 @@ The content on the introduction page, participants reported as being clear and e
 Almost all participants called out the documents needed to gather and the link to find out what supporting documents would be needed. This seemed to be more prominent mention on the introduction page content as a first step before setting up or calling out the direct deposit content.
 
 
+
 > _Supporting quote: I see I need at least a billing statement and if I paid, a receipt
 If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
 
@@ -198,13 +197,20 @@ If I was doing this for real, I'd click the link to check if the claim I'm filin
 
 ### Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
 This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to particpants and they wanted more explanation or definition around them.  
+- 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
+- 3 of 8 participants called out the Vendor File Form as confusing or they would want more information about it.
+
 
 > _Supporting quote: Vendor file form is new. Don't understand who the Vendor is. (P2)_
 > _Supporting quote: So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks. (P8)_
+> _one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
 
 
 - ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
 There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
+- 5 out of 8 participants mentioned the sign-in process with 4 of them having a negative sentiment.
+- 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
+
 
 > _Supporting quote: "Reference to FSC. New term for me. (P2)_
 
