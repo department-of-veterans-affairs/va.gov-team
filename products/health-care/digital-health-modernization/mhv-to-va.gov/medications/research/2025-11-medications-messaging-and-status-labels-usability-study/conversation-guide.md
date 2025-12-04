@@ -202,6 +202,8 @@ For the second set of questions, I'm going to have you follow the link that I ha
 
 https://staging.va.gov/
 
+https://www.figma.com/proto/puYUxsa9cW7KsKDc1ztAOf/Status-Testing?node-id=79-16219&p=f&t=FcNj6YTyifvDyU7q-0&scaling=min-zoom&content-scaling=fixed&page-id=79%3A2588&starting-point-node-id=79%3A16219
+
 This is the staging environment for VA.gov where we can test out new ideas to make sure they work before we go live. 
 
 I'm now going to have you log in as a test user by taking the following steps:
