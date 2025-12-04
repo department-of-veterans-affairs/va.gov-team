@@ -16,20 +16,20 @@ devices_used:
     tablet: 0
     smartphone: 2
     assistive_technology: 0
-participants_total: X
+participants_total: 8
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
+  veterans: 8
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 1
+    "35-44": 2
+    "45-54": 1
+    "55-64": 2
+    "65+": 1
+    unknown: 1
   education:
     high_school: X
     some_college: X
@@ -258,40 +258,31 @@ All participants self-reported during the warm up questions that they had a disa
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 ### Desired User Outcome 
 This research supports our desired user outcome by....
-
-
+- Reducing confusion around the process to set up direct deposit for FMP claims and exactly what actions need to take and how that is different for direct deposit they have set up for VBA disability compensation payments
+- Veterans are able to easily fill out the claim cover sheet online on VA.gov
+- Veterans spend less time, effort and money filling out and mailing paperwork
  
 ### Desired Business Outcome
 This research supports our desired business outcome by....
-
+Supporting the need to have direct deposit available for MVP launch of the form:
+- Volume of paperwork being processed is reduced
+- Veterans' information is processed in a timely manner
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
 
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
+### KPI 1: Objective: Veterans can easily file for FMP claims online
+- Removing blockers and confusion around direct deposit initial setup so Veterans feel confident about filing their FMP claim online
 
 
 ## Next Steps
-*Outline immediate actions based on findings, including owners if applicable.*  
-
-- Work with sitewide C+IA team to incorporate research findings around participant confusion of process and terminology.
+- Work with sitewide C+IA team to incorporate research findings around participant confusion of process and terminology
+- Incorporate updates into form for MVP
 
 
 ## Further research needed
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
 - Accessibility testing with assistive tech users
 - Usability testing with a coded form in staging 
 
@@ -318,15 +309,12 @@ This research supports measurement of this KPI by....
 
 
 ### Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
 - Figma Desktop Working File
 - Figma Mobile Working File
 
 
 
 ### Secondary research
-
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 
