@@ -163,11 +163,12 @@ Build each domain natively (and message or point Veterans to VA.gov for their 
 
 ## General content strategy 
 
-We should not message about features/elements that are not available (and never were) within the app. 
-- Could create frustration and tease the user
-- Continue to keep app simple 
-- More content can clutter the interface
-- Every element included must serve a purpose
+- We should only add content that brings value to the Veterans.  
+- We should not message about features/elements that are not available (and never were) within the app. 
+  - Could create frustration and tease the user
+  - Continue to keep app simple 
+  - More content can clutter the interface
+  - Every element included must serve a purpose
 
 ### Continuity of care and Blue Button
 
@@ -175,19 +176,20 @@ We should not message about features/elements that are not available (and never 
 
 How do we want to communicate around this? 
 
+- It does not seem to bring value to the user to surface CCD and specifically call out CCD within the VAHB app
 - Our strategy should be to not message about features/elements that are not available (and never were available) 
 - The app currently points Veterans to VA.gov (i.e, Go to VA.gov to view your complete medical record) where a Veteran can access CCD. 
 - Low traffic
 
-**Recommendation:** We should avoid surfacing or specifically calling out CCD (Continuity of Care Document) within the VAHB app, as it adds unnecessary complexity. Veterans will still be access the CCD via VA.gov (i.e., Go to VA.gov to view your complete medical record)  
+**Recommendation:** We should avoid surfacing or specifically calling out CCD (Continuity of Care Document) within the VAHB app, as it adds unnecessary complexity. Veterans will still be able to access the CCD via VA.gov (i.e., Go to VA.gov to view your complete medical record). 
 
 **Blue Button:** Will not be in the app. 
 
 How do we want to communicate around this? 
 
 - I don’t see evidence that Veterans are looking for Blue Button within the app. However, we know that it is the third most accessed feature on MR. 
-- There could be some value language linking Veterans to the download page. 
-- With that being said, I continue to lean towards pointing users back to VA.gov with high-level, simple messaging until we have more evidence that different content is needed around the Blue Button. 
+- There could be some value in creating content and linking Veterans to the download page. 
+- With that being said, I continue to lean towards pointing users back to VA.gov with high level, simple messaging until we have more evidence that different content is needed as we have to balance the simplicity and real-estate of the app 
 
 Go to VA.gov to view your complete medical record: 
 [Link] View medical records on VA.gov
