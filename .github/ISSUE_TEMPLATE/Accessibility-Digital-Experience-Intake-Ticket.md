@@ -22,7 +22,7 @@ assignees: artsymartha68, lakper, sara-amanda
     - [ ] No 
 - **OCTO product owner**: `OCTO PO goes here`
 - **Product manager**: `PM name goes here`
-- **Designer(s)**: `Name of designer(s)`
+- **Designer/Researcher(s)**: `Name of designer/researcher(s)`
 - **Slack channel**: `Link to channel(s)`
 - **Dedicated accessibility specialist on your team** (if you have one):
 - **Accessibility Champ** (if you have one):
