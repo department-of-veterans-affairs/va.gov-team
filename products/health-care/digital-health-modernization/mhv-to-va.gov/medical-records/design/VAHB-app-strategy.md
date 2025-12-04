@@ -50,6 +50,7 @@ The VAHB app will include the radiology report/interpretation. However, images w
 **_Open questions_** 
 
 - Do we include Vitals and Health conditions?
+- Will these bring value to Veterans to include within the VAHB app?  
 
 ## Details of recommendations 
 
@@ -132,6 +133,8 @@ Appointment preparation and communication
 
 However, along with Vaccines, Vitals is not utilized often by Veterans. In its current design, what is the utility of including in the app?  
 
+Will this bring value to Veterans to include within the VAHB app? 
+
 **Current modality:** Native
 
 **Future considerations:** Introducing a date range, sort, filter, and sort functionality to make Care summaries and notes more findable
@@ -144,6 +147,8 @@ ___
 
 **Rationale:** The third most popular domain. But there's a fairly large gap between _Health conditions_ and _Care summaries and notes _
 Uncertain if Veterans rely on (compared to other domains when tracking health/communicating with providers)
+
+ Will this bring value to Veterans to include within the VAHB app? 
  
 **Current modality:** Native
 
