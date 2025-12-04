@@ -31,26 +31,26 @@ demographics:
     "65+": 1
     unknown: 1
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 0
+    some_college: 3
+    associates: 1
+    bachelors: 1
+    masters: 3
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 4
+    rural: 4
+    unknown: 0
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
-  disability:
-    cognitive: X
+    white: 4
+    black: 2
+    hispanic: 0
+    biracial: 1
+    asian: 1
+    native: 0
+  disability: unknown
+    cognitive: unknown
     AT_beginner: X
     AT_advanced: X
     screen_reader_desktop: X
@@ -80,14 +80,15 @@ further_research_needed:
   - "Area 1"
   - "Area 2"
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "Cognitive Disability"
+  - "LGBTQ+"
+  - "Assistive Technology Users"
+  - "Other than honorable discharge"
+  - "Hispanic, Latino, or Spanish origin"
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "na"
 synthesis_tools_used:
-  - "Mural"
-  - "Affinity Mapping"
+  - "Spreadsheet with thematic tagging"
 ---
 
 ---
@@ -123,10 +124,6 @@ synthesis_tools_used:
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
-
 
 ## Research Questions
 
@@ -243,8 +240,6 @@ All participants self-reported during the warm up questions that they had a disa
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
-
 1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points of new terminology especially on the proposed static instructional resource page.]  
  _Supporting evidence:_
    - Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
@@ -253,7 +248,7 @@ All participants self-reported during the warm up questions that they had a disa
 2. **Recommendation:** [Work with C+IA partners to ensure it is clear that this process is separate from direct deposit for VBA payments by additional clarification.]  
    - _Supporting evidence: [Insert data]_
 
-3. **Recommendation:** [Lonf-term: it would be ideal for Veterans to have secure visibiltiy into what account the direct deposit would go to (last 4 of account, instituction name) within the same flow as filing the claim]
+3. **Recommendation:** [Long-term: it would be ideal for Veterans to have secure visibiltiy into what account the direct deposit would go to (last 4 of account, instituction name) within the same flow as filing the claim]
 
 
 ## Product User and Business Outcomes
@@ -266,7 +261,7 @@ This research supports our desired user outcome by....
  
 ### Desired Business Outcome
 This research supports our desired business outcome by....
-Supporting the need to have direct deposit available for MVP launch of the form:
+- Supporting the need to have direct deposit instructions for MVP launch of the form
 - Volume of paperwork being processed is reduced
 - Veterans' information is processed in a timely manner
 
