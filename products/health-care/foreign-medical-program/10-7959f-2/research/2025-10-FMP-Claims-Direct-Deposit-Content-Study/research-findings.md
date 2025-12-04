@@ -43,13 +43,13 @@ demographics:
     rural: 4
     unknown: 0
   race:
-    white: 4
-    black: 2
-    hispanic: 0
-    biracial: 1
-    asian: 1
-    native: 0
-  disability: X
+    white: X
+    black: X
+    hispanic: X
+    biracial: X
+    asian: X
+    native: X
+  disability:
     cognitive: X
     AT_beginner: X
     AT_advanced: X
