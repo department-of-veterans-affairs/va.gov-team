@@ -1,0 +1,161 @@
+# `va-file-input` Properties / Architecture Template
+_Last updated: 2025-12-04_
+
+## Properties
+
+| Name | Required | Type | Default value | Description |
+|------|----------|------|---------------|-------------|
+| accept | false | string | undefined | A comma-separated list of unique file type specifiers. |
+| enableAnalytics | false | boolean | `false` | Emit component-library-analytics events on the file input change event. |
+| encrypted | false | boolean | `false` | When true, displays a password field. Note: This component does not check if a file is encrypted. For encryption checks, see: [Checking if an uploaded PDF is encrypted](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted) |
+| error | false | string | undefined | The error message to render. |
+| headless | false | boolean | `false` | DST only prop - removes extraneous display for multiple file input |
+| headerSize | false | number | undefined | Optionally specifies the size of the header element to use instead of the base label. Accepts a number from 1 to 6, corresponding to HTML header elements h1 through h6. If not provided, defaults to standard label styling. |
+| hint | false | string | undefined | Optional hint text. |
+| label | false | string | undefined | The label for the file input. |
+| maxFileSize | false | number | `Infinity` | Maximum allowed file size in bytes. |
+| minFileSize | false | number | `0` | Minimum allowed file size in bytes. |
+| name | false | string | undefined | The name for the input element. |
+| passwordError | false | string | undefined | Error message for the encrypted password input |
+| percentUploaded | false | number | `null` | Percent upload completed. For use with va-progress-bar component |
+| readOnly | false | boolean | `false` | Optionally displays the read-only view |
+| required | false | boolean | `false` | Sets the input to required and renders the (*Required) text. |
+| statusText | false | string | undefined | Optional file status, ex: "Uploading...", "Uploaded". |
+| uploadedFile | false | UploadedFile | undefined | Object representing a previously uploaded file. Example: `{ name: string, type: string, size: number}` |
+| uploadMessage | false | HTMLElement | `null` | Custom instructional message in the file input. |
+| value | false | File | undefined | The value attribute for the file view element. |
+
+## Architecture Overview
+
+The `va-file-input` component's `render()` function produces highly dynamic markup that adapts based on component state and prop values.
+
+The component's most fundamental branching occurs based on whether a file has been selected. When no file is present, it renders an initial upload interface with drag-and-drop instructions. Once a file is selected, it switches to a file preview state showing the file's details within a card layout.
+
+The default state (when no file is uploaded) for the "default" variant of the component renders the following markup:
+
+```html
+<Host>
+  <span>
+    <div class="label-header">
+      <label for="fileInputField" part="label" class="usa-label">Select a file to upload</label>
+    </div>
+  </span>
+  <div class="usa-hint" id="input-hint-message">You can upload a .pdf, .gif, .jpg, .bmp, or .txt file.</div>
+  <span id="input-status-message" class="usa-sr-only" aria-live="polite" aria-atomic="true"></span>
+  <div class="file-input-wrapper">
+    <input
+      id="fileInputField"
+      class="file-input"
+      aria-label="Select a file to upload. Drag a file here or choose from folder"
+      style="visibility: unset;"
+      type="file"
+      name="my-file-input"
+      aria-describedby="input-hint-message"
+    >
+    <div>
+      <span id="file-input-error-alert">
+        <span id="input-error-message" class="usa-error-message"></span>
+      </span>
+      <div class="file-input-target">
+        <div class="file-input-box"></div>
+        <div class="file-input-instructions">
+          <span>Drag a file here or <span class="file-input-choose-text">choose from folder</span></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</Host>
+```
+
+## Accessibility considerations
+
+The `va-file-input` component implements sophisticated focus management to ensure optimal screen reader compatibility and keyboard navigation, with particular attention to error handling across different browser behaviors.
+
+### Focus Management
+The component implements intelligent focus management that adapts to different file upload workflows and user interactions. After a file is selected or an error occurs, focus is automatically directed to the most relevant interactive element based on the component's current state and rendered elements. This focus management strategy follows a priority hierarchy to ensure users are guided to the appropriate next action:
+
+1. **Error state**: When file validation fails (wrong file type, size too large/small, empty file), focus moves to the "Change File" button, allowing users to immediately select a different file to resolve the error.
+
+2. **Encrypted file workflow**: When the `encrypted` prop is true and a file is successfully uploaded, focus moves to the password input field (the `<input>` element nested within the `<va-text-input>` component), prompting users to enter the file's password as the next required step.
+
+3. **Slotted content workflow**: When a file is successfully uploaded and the component contains slotted child elements — specifically `<va-select>` or `<va-text-input>` components — focus moves to the first interactive element found in the slotted content (either the nested `<select>` or `<input>` element). This supports form patterns where additional information is required after file selection, such as document type classification or metadata entry.
+
+An important consideration for this component's focus management is that calls to `.focus()` via helper functions are timed conditionally based on whether the browser `window` object currently has focus. By its nature, use of this component frequently causes the browser window to lose focus to the user's native file system dialog, whether through click/keyboard interaction or drag-and-drop. To ensure screen readers properly announce the `aria-label` of the target element, we must defer setting focus on the appropriate interactive element until after the browser window regains focus.
+
+The solution implemented for this functionality can be illustrated with pseudo-code. We'll use an invalid file (a 0 kilobyte `.txt` file) to trigger an internal error for this example:
+
+1. The 0 KB file is uploaded via user interaction.
+2. Local component state updates to display the internal error UI.
+   - The `aria-label` for the "Change File" button is updated to include the error message.
+3. Does the browser window have focus?
+   - **Yes**: Immediately focus on the "Change File" button
+   - **No**: Set an internal flag property so that when focus returns to the window, focus will be set on the "Change File" button.
+
+## Tests (e2e & unit)
+
+Unit tests were written to confirm that the component does the following:
+
+- Renders.
+- Renders hint text.
+- Renders an `aria-label`.
+- Renders a required `span`.
+- The `accept` attribute exists if set.
+- The `accept` attribute does not apply if omitted.
+- The `uploadMessage` attribute changes the text in file input.
+- The component shows default text when `uploadMessage` is not set.
+- Renders a "Change File" button if there is a file.
+- Does not render a "Change File" button if read-only.
+- Renders status text.
+- Emits the `vaChange` event only once.
+- Passes an aXe check.
+- Renders file summary when `uploadedFile` prop is set.
+- Opens a modal when delete button clicked and lets user remove or keep file. (skipped)
+- Opens a modal when delete button clicked and lets user remove the file. (skipped)
+- Displays an error if the file size exceeds max allowed file size.
+- Displays an error if file size is zero bytes.
+- Displays an error if file size is too small.
+- Renders a progress bar if `percent-uploaded` prop is set.
+- Resets the component if the cancel button is clicked during upload.
+- Renders file password field if `encrypted` is true upload.
+- Renders error on password input if password-error is set.
+- Does not render file password field if `encrypted` is unset.
+- Handles placeholder file upload and shows default file icon.
+- Shows progress bar and cancel button when uploading.
+- Shows password input when `encrypted` and not uploading.
+- Renders additional info slot when not uploading.
+- Shows change and delete buttons when file is present and not uploading.
+- Correctly displays error message for MIME type failure.
+- Correctly displays error message for MIME type failure when file has no extension.
+- Shows change and delete buttons when in error state.
+- Renders a screen-reader-only message with uploaded file's name when a file is uploaded successfully.
+- Renders a screen-reader-only message when an uploaded file is deleted.
+- Renders a error message when there is a file input error.
+- Accepts an `.heic` file and displays a generic image icon.
+
+## Storybook Examples
+
+- [Default](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--default)
+- [Required](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--required)
+- [Accepts File Password](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-file-password)
+- [With File Password Error](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-file-password-error)
+- [With Minimum Password Requirement](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-minimum-password-requirement)
+- [Accepts Only Specific File Types](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-only-specific-file-types)
+- [Accepts Any Kind Of Image](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-any-kind-of-image)
+- [Error Message](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--error-message)
+- [With Max File Size](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-max-file-size)
+- [With Min File Size](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-min-file-size)
+- [Header Label](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--header-label)
+- [Additional Form Inputs](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--additional-form-inputs)
+- [Custom Validation](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--custom-validation)
+- [With Analytics](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-analytics)
+- [Uploaded File](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--uploaded-file)
+- [Upload Status](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--upload-status)
+- [File Uploaded](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--file-uploaded)
+- [Read Only](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--read-only)
+- [Read Only With Additional Inputs](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--read-only-with-additional-inputs)
+- [With Percent Uploaded](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-percent-uploaded)
+
+
+## Future Considerations
+- An upcoming change to password behavior will use a password submit button rather than having the `vaPasswordChange` event emit on the `onInput` event of the `<va-text-input>` component used for an encrypted file's password.
+- Accessibility consideration (focus management): Handle the case when a user attempts to submit a form containing a `required` instance of the component without actually uploading a file.
