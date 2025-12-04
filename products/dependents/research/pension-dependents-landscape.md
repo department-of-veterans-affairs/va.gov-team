@@ -1,6 +1,6 @@
 # **Landscape Analysis of the VA's Dependent Management Process for Pension**
 
-**Note**: Read the [disability landscape](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/dependents-disability-landscape.md) first. In this doc we point out differences and make pension-specific recommendations. 
+**Note**: Read the [disability landscape](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/dependents-disability-landscape.md) first. In this doc we point out differences between managing dependents on pension vs disability benefit, and make pension-specific recommendations. 
 
 [Sources](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755642960566/2825754c5b58bb972a5a7f5a594b46d982e2ad58?wid=0-1758224806968)
 
