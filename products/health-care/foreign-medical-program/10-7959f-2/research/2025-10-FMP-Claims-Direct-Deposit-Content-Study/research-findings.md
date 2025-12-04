@@ -284,14 +284,14 @@ This research supports measurement of this KPI by....
 
 
 ## Next Steps
-
 *Outline immediate actions based on findings, including owners if applicable.*  
+
 - Work with sitewide C+IA team to incorporate research findings around participant confusion of process and terminology.
 
 
 ## Further research needed
-
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+
 - Accessibility testing with assistive tech users
 - Usability testing with a coded form in staging 
 
@@ -320,13 +320,16 @@ This research supports measurement of this KPI by....
 ### Other supporting documents created
 
 *Include links to additional materials, e.g., personas, user flows.*  
-
+- Figma Desktop Working File
+- Figma Mobile Working File
 
 
 
 ### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+
+
 
 
 ### Research participants 
@@ -433,20 +436,8 @@ Disability and Assistive Technology (AT): Used a mid-fidelity prototype and did 
 
 
 #### Underserved groups we haven’t talked to 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
 * Cognitive Disability
 * LGBTQ+
 * Assistive Technology Users
@@ -455,7 +446,6 @@ _List all groups in red from the spreadsheet_
 
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image]
-
 <img width="780" height="354" alt="Screenshot 2025-12-02 at 9 58 09 AM" src="https://github.com/user-attachments/assets/986f822d-7935-4947-9923-e93c05e496cd" />
 
 
@@ -463,4 +453,28 @@ _List all groups in red from the spreadsheet_
 
 ### Recruitment of underserved groups in [FMP Direct Deposit Content Sutdy]
 
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
+| Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
+|----------|----------|----------|------------|-------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|
+| All participants | Total | n/a | n/a | 13 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Assistive Tech (AT) users | Total | n/a | n/a | 0 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| No-show participants | Total | n/a | n/a | 5 | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a |
+| Age 55-64+ | General | 50% | 7 | 3 | no | N | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N | 0 |
+| Cognitive Disability | General | 50% | 7 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Mobile user | General | 50% | 7 | 2 | no | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Rural | General | 25% | 4 | 3 | no | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | N | N | 0 |
+| No degree | General | 25% | 4 | 3 | no | 0 | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Other than honorable | General | 21% | 3 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Immigrant origin | General | 17% | 3 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Women | General | 10% | 2 | 3 | yes | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | N | 0 | 0 | N |
+| Expat (living abroad) | General | .4% | 1 | 3 | yes | N | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+| Black or African American | Race | 15% | 2 | 3 | yes | 0 | 0 | 1 | 1 | 0 | 1 | 0 | 0 | N | 0 | 0 | N |
+| Hispanic, Latino, or Spanish origin | Race | 12% | 2 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 | 0 |
+| Biracial | Race | 3.9% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | Race | 2.7% | 1 | 1 | yes | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native Hawaiian or other Pacific Islander | Race | .3% | 1 | 0 | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | Race | n/a | 1 | 0 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | Race | 1.6% | 1 | 0 | no | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Gay, lesbian, or bisexual | LGBTQ+ | n/a | 1 | N/A | yes | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Transgender | LGBTQ+ | n/a | 1 | N/A | yes | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | LGBTQ+ | n/a | 1 | N/A | yes | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Beginner AT User | AT | 50% | 0 | N/A | no | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
