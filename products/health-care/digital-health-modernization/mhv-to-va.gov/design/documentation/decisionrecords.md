@@ -2,7 +2,7 @@
 
 Inventory of design-related decisions along with the rationale for the decision and a list of standards or other factors impacted by the decision.
 
-Last updated: 14 Nov 2025
+Last updated: 4 Dec 2025
 
 ## Wayfinding
 
@@ -46,3 +46,13 @@ Set focus to the level 1 heading (```<H1>```) on page load.
 -  **Rationale:** “Recommend matching the focus management in place on Appointments, Messages, and Medications. When following the nav links to My HealtheVet and Records, focus should be set to the ```<H1>``` using ```tabindex="-1"```.” Excerpted from [Staging Review finding: Keyboard focus goes to different places when following each link #84240](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84240)
 - **Relevant standards:** [SC 2.4.3 Focus Order (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/focus-order.html): If a web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.
 - **Last reviewed:** 24 Oct 2025
+
+## Typography
+
+### Sans-Serif Typeface for Body Text
+
+Provide body text using a sans-serif typeface. Do not use a monospaced typeface, with the exception of code samples and, in some cases, numerical data in tables.
+
+-  **Rationale:** “Use monospace fonts sparingly. Monospace fonts can be difficult to read, especially at small sizes or with poor color contrast. Use monospace fonts for numerical data in tables, code examples, or when precise horizontal alignment is needed. For body text, choose a sans serif typeface.” Excerpted from VADS Typography guidance on [Monospace fonts](https://design.va.gov/foundation/typography#monospace-fonts)
+- **Relevant standards:** [402.4 Characters on Display Screens](https://www.access-board.gov/ict/#402.4)): At least one mode of characters displayed on the screen shall be in a sans serif font.
+- **Last reviewed:** 4 Dec 2025
