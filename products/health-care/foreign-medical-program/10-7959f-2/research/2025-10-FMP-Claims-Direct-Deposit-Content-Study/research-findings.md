@@ -161,7 +161,7 @@ synthesis_tools_used:
 2. 7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page. 
 3. All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
 4. The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
-5. Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.
+5. Half of the participants (4/8) expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit for monthly disability compensation payments.
 
 
 
