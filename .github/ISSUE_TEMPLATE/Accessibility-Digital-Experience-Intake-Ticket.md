@@ -1,7 +1,7 @@
 ---
 name: Accessibility Digital Experience (ADE) Intake Form
 about: Use this ticket to request collaboration on a new initiative with the Accessibility
-  Digital Experience (ADE) team (pronounced /ād/).
+  Digital Experience (ADE) team (pronounced "aide").
 title: "[ADE Intake]:<Team Name><Product><Service Type>"
 labels: ADE Intake, ADE
 assignees: artsymartha68, lakper, sara-amanda
@@ -17,15 +17,15 @@ assignees: artsymartha68, lakper, sara-amanda
     - [ ] Add your product label to this ticket
 - **Team name**: `Team name goes here`
     - [ ] Add your team label to this ticket
-- Are you a Veteran Facing Services (VFS) team
+- Are you a Veteran Facing Services (VFS) team?
     - [ ] Yes
     - [ ] No 
 - **OCTO product owner**: `OCTO PO goes here`
-- **Product manager**: `PM name goes here`
+- **Product Manager**: `PM name goes here`
 - **Designer/Researcher(s)**: `Name of designer/researcher(s)`
 - **Slack channel**: `Link to channel(s)`
-- **Dedicated accessibility specialist on your team** (if you have one):
-- **Accessibility Champ** (if you have one):
+- **Dedicated accessibility specialist on your team** (if you have one): `name`
+- **Accessibility Champ** (if you have one): `name`
 
 ## Collaborate with ADE
 [**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
