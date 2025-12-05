@@ -66,7 +66,7 @@ Tell us more about the **product or feature** that you're working on:
 - `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
 - `Link to product information`
   
-### For accessibility reviews and audits
+### For design, audits, and general guidance
 <details><summary>Share details about what needs reviewing:</summary>
 
 #### Starting URL
