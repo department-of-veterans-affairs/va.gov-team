@@ -8,7 +8,7 @@ researchers:
   - "Health Apps UX Team - Renata K, Jessica S, Hieu V"
 research_goals:
   - "Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims."
-  - "Gain insight into any improvements that could be made to increase clairity of the direct deposit process understanding for FMP claims for reimbursement."
+  - "Gain insight into any improvements that could be made to increase clarity of the direct deposit process understanding for FMP claims for reimbursement."
 methodology:
   - "Moderated User Interview with mid-fidelity prototype"
 devices_used:
@@ -119,7 +119,7 @@ synthesis_tools_used:
 
 1. Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
 2. Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
-3. Gain insight into any improvements that could be made to increase clairity of the direct deposit process understanding for FMP claims for reimbursement.
+3. Gain insight into any improvements that could be made to increase clarity of the direct deposit process understanding for FMP claims for reimbursement.
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
@@ -146,7 +146,7 @@ synthesis_tools_used:
   - Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 
 
-- **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being incovenient.
+- **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being inconvenient.
   - **“Likely True”**  
   - There was a mix of participants self-reporting that the content was easy to understand and clear while at the same time there being some point of confusion around new terms or processes mentioned.
   - Introduction Page Clarity Rating: Average 4.75
@@ -171,7 +171,7 @@ synthesis_tools_used:
 ### Finding 1: 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
 The content on the introduction page, participants reported as being clear and easy to understand. There were mentions about gathering documents in preparation and clicking on the link to learn more about what documents would be needed. 
 - 6 participants found the content of the Intro Page to be clear and easy to follow
-- 4 participants explicilty indicated that the directions were clear and easy to follow 
+- 4 participants explicitly indicated that the directions were clear and easy to follow 
 - 3 showed content comprehension as they're explaining the process
 
 
@@ -208,10 +208,10 @@ This was a contributing factor to the lower rating on the static page and the co
 > _one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
 
 
-- ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
+- ### Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
 There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
 - 5 out of 8 participants mentioned the sign-in process with 4 of them having a negative sentiment.
-- 4 out of 8 participants was unsure what the FSC (Finanical Services Cetner site) is and expressed confusion over it.
+- 4 out of 8 participants was unsure what the FSC (Financial Services Center site) is and expressed confusion over it.
 
 
 > _Supporting quote: "Reference to FSC. New term for me." (P2)_
@@ -229,7 +229,7 @@ All participants self-reported during the warm up questions that they had a disa
 
 > _Supporting quote: "For me, I already have direct deposit established, so these instructions are redundant." (P3)_ [Seemed to be referring to their monthly disability compensation]
 
-> _Suproting quote: "I guess again it is self-explanatory, especially if you already went through the process to sign up for FSC. I don’t recall signing up for that, when eBenefits switch, all my information transferred over. Had benefits since 2011." (P4)_
+> _Supporting quote: "I guess again it is self-explanatory, especially if you already went through the process to sign up for FSC. I don’t recall signing up for that, when eBenefits switch, all my information transferred over. Had benefits since 2011." (P4)_
 
 
 ---
@@ -249,7 +249,7 @@ All participants self-reported during the warm up questions that they had a disa
 1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points of new terminology especially on the proposed static instructional resource page.]  
  _Supporting evidence:_
    - Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
-   - Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
+   - Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
        
 2. **Recommendation:** [Work with C+IA partners to ensure it is clear that this process is separate from direct deposit for VBA payments by additional clarification.]  
    - _Supporting evidence:_
@@ -259,7 +259,7 @@ All participants self-reported during the warm up questions that they had a disa
    - _Supporting evidence:_
 Secondary Findings:  
 1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow itself and not in another portal/site.
+2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
 
 
 ## Product User and Business Outcomes
