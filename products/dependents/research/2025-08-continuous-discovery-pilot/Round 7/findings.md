@@ -37,8 +37,13 @@ We spoke with 9 Veterans.
 
 ## Findings
 
-**Confusion when filling out the 674 for high school students**
+**Filling out the 674 for high school students can be confusing**
 - 4 participants, including the VSR, mentioned confusion resulting from filling out the form for high school students and/or it would nice if the form could be adjusted to better accomodate high school students
+
+Next Steps: Work with Design, Content, and Engineering to assess the feasability of clarifying and/or customizing the form experience for high school and college students
+
+
+**
 
 
 
@@ -59,15 +64,13 @@ We spoke with 9 Veterans.
   
 **Other education benefits**
 - 5 participants expressed confusion about this screen
-     - Details!
 
-- Next Steps: 
+- Next Steps: Add content explaining what each of the education benefits options are on the "Other education benefits" page
 
 **Federally funded schools or programs**
 - 5 participants expressed confusion about this screen
-  - Details!
 
-- Next Steps:
+- Next Steps: Add content explaining what each of the schools or programs options are on the "Federally funded schools or programs" page, especially the "Another federally-funded school or program" option
 
 
 **Dependent's federally funded program or school**
@@ -107,17 +110,16 @@ We spoke with 9 Veterans.
 
 
 **Dependent's previous term dates**
-- 2 participants were confused Details!
+- 2 participants of the 8 that commented on this page were confused
 
-- Next Steps:
+- Next Steps: See other next steps about the confusion caused by filling it out the form for a high school student and rearranging the term date pages
 
 
 **Dependent's school attendance history**
 - Participants' reactions were mixed, about half understood what was being asked and half expressed confusion
-     - Detials!
 - The explanation was well-received
 
-- Next Steps:
+- Next Steps: none*
 
 
 **When did dependent stop attending school continuously?**
@@ -131,18 +133,46 @@ We spoke with 9 Veterans.
 - Next Steps: Add or edit content clarifying what cases need to be reported and which dates should be entered on the "When did dependent stop attending school continuously?" page
 
 
-*the Financial pages were a lower priority in this research study and given time limitations, only a few participants looked at them**
+*The Financial pages were a lower priority in this research study and given time limitations, only a few participants looked at them. Also, the participants were disability compensation recipients, not the pension receipients who would fill out this section of the form.**
 
 
 **Dependent's income for this school term**
+- Of the participants who saw this page, about half said that they understood the questions and half had additional questions
+- 2 partcipants didn't understand why financial questions were necessary
+
+- Next Steps: Consider adding content about why these questions are being asked, add or edit content clarifying what information needs to be provided on the "Dependent's income for this school term" page, consider testing these pages with additional Veterans
+
+
+**Dependent's expected income for next year**
+- Participants were confused or did not see the difference between this page and the previous "Dependent's income for this school term" page, the only difference is the page heading
+     - This may be because on the prototype the page loaded scrolled to the bottom so the header wasn't visible
+
+- Next Steps: Add or edit content clarifying what information needs to be provided on the "Dependent's expected income for next year" page, consider testing these pages with additional Veterans
+
+
+**Value of student assets**
+- Participants were confused or did not see the difference between this page and the previous "Dependent's income for this school term" and "Dependent's expected income for next year" pages
+     - This may be because on the prototype the page loaded scrolled to the bottom
+
+- Next Steps: Add or edit content clarifying what information needs to be provided on the "Value of student assets" page, consider testing these pages with additional Veterans
+
+
+**Dependent's school expenses**
+- Half of the participants who saw this screen described it as easy or clear and the other half had questions
+
+- Next Steps:Add or edit content clarifying which expenses should be entered on the "Dependent's school expenses" page
+
+
+**Dependent's school expense amounts**
+- 4 participants shared that they wanted or expected to upload receipts
+    
+- 2 participants didn't mention\ the format provided for entering expense amounts
+- 1 participant liked the format provided for entering expense amounts
+- 3 participants would like a more structured way of entering expense amounts
+
+- Next Steps: Work with design and engineering to assess the feasability of providing a more structured way of entering expense amounts on the "Dependent's school expense amounts" page
 
 
 
 
 
-## Next Steps  
-- Move forward with the 3 option design
-- Follow up with David on questions that were raised:
-     - Which benefits can and cannot be used at the same time as disability dependent student compensation?
-     - Will student dependents automatically be removed on the graduation date that the Veteran provides?
-     - Can dependents be added to the disability compensation benefit again after they have finished using the education benefit that previously disqualified them?
