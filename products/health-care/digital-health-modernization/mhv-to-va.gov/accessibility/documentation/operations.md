@@ -1,4 +1,6 @@
 # Accessibility Team Operations
+Note that this is an in-progress, living document
+
 Last updated: 5 Dec 2025
 
 ## Engaging with the accessibility team
@@ -22,10 +24,10 @@ Processes to follow for engaging with the accessibility team and actioning acces
 - Include the accessibility team in any standups or ceremonies that may include accessibility-related tickets.
 
 ## Addressing accessibility issues
-Processes followed by the MHV Accessibility team to address accessibility-related issues in MHV products.
+How the MHV Accessibility team addresses accessibility-related issues in MHV products.
 
 ### Creating the backlog
 
-- *Catch accessibility issues:* Review recent [MHV accessibility issues not on the Shared Support board](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Aaccessibility%20%22mhv%22%20-project%3Adepartment-of-veterans-affairs%2F1748) and add "MHV - Shared Support" project and leave status as "No status".
-- *Add to Accessibility project board:* Review issues in "No status" and set correct status for Accessibility board. Clear "No status" column weekly.
-- *Add to corresponding Product board:* Add corresponding Product project board to issue (e.g., MHV - Medications) and set status to "Inbox" (or "Icebox" or "No status").
+- **Catch accessibility issues:** Review recent [MHV accessibility issues not on the Shared Support board](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20label%3Aaccessibility%20%22mhv%22%20-project%3Adepartment-of-veterans-affairs%2F1748) and add "MHV - Shared Support" project and leave status as "No status".
+- **Add to Accessibility project board:** Review issues in "No status" and set correct status for Accessibility board. Clear "No status" column weekly.
+- **Add to corresponding Product board:** Add corresponding Product project board to issue (e.g., MHV - Medications) and set status to "Inbox" (or "Icebox" or "No status").
