@@ -236,9 +236,13 @@ All participants self-reported during the warm up questions that they had a disa
 ## Additional Insights
 
 1. 4 of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
-3. 4 of 8 participants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
+- _Supporting quote: "An online portal for claims submission, has been a desire for those of us who live overseas make it much easier." (P7)_
 
+2. 2 of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
+- _Supporting quote: "I want something that says "hey yes this is a real banking, true and accurate institution...something that says hey yeah we received your direct deposit information and everything checks out" (P7)_
+
+3. 4 of 8 participants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
+- _Supporting quote: "For overseas Veterans, the forced implementation of ID.me; is a struggle. They're not in the states often enough to get new licenses/IDs. It is a "death loop" for video confirmation." (P2)_
 
 
 
@@ -314,8 +318,9 @@ This research supports our desired business outcome by....
 
 
 ### Other supporting documents created
-- Figma Desktop Working File
-- Figma Mobile Working File
+- [Figma Desktop Working File](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6941-5218&p=f&t=VWBSP3YyUyoIrzJA-0)
+- [Figma Mobile Working File](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6895-4588&t=VWBSP3YyUyoIrzJA-0)
+- [Figma File - POST Research Working File](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=7287-5911&p=f&t=VWBSP3YyUyoIrzJA-0)
 
 
 ### Research participants 
