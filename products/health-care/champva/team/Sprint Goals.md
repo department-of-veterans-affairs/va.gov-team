@@ -29,9 +29,10 @@
 ##
 ### 10-10d
 - [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
+  - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d v2: Address critical launch issues, including record updates and a priority bug fix
-  - [ ] 10-10d v2: Deploy fix for break statement interrupting 10-10d v2 launch
-  - [ ] 10-10d v2: Identify and correct all lost submissions from 10-10d v2 launch
+  - [ ] [IVC Forms: 12/1/2025 Monitor Incident - Unsuccessful 1010dx submissions #126636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126636)
+  - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
 
