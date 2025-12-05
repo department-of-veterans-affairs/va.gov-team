@@ -237,8 +237,8 @@ All participants self-reported during the warm up questions that they had a disa
 ## Additional Insights
 
 1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursment will be sent within the form flow itself and not in another portal/site.
-3. 4 out of 8 partipants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
+2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
+3. 4 out of 8 participants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
 
 
 
@@ -255,7 +255,7 @@ All participants self-reported during the warm up questions that they had a disa
    - _Supporting evidence:_
    - Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 
-3. **Recommendation:** [Long-term: it would be ideal for Veterans to have secure visibiltiy into what account the direct deposit would go to (last 4 of account, instituction name) within the same flow as filing the claim]
+3. **Recommendation:** [Long-term: it would be ideal for Veterans to have secure visibility into what account the direct deposit would go to (last 4 of account, institution name) within the same flow as filing the claim]
    - _Supporting evidence:_
 Secondary Findings:  
 1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
