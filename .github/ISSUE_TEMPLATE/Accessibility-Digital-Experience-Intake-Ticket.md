@@ -127,7 +127,7 @@ _Select all that apply:_
 <details><summary>For VFS teams only</summary>
 
 #### Ticket Number (if applicable)
-`Link to main Collaboration Cycle ticket` (if applicable)
+`Link to main Collaboration Cycle ticket`
 
 #### Which phases of the collaboration cycle have you completed?
 _Select all that apply:_
