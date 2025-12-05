@@ -212,7 +212,7 @@ As mentioned in Finding 3, there was new terminology on the instruction static p
 - 4 out of 8 participants was unsure what the FSC (Financial Services Center site) is and expressed confusion over it.
 
 
-> _Reference to FSC. [That]s a] new term for me. (P2)_
+> _Reference to FSC. [That's a] new term for me. (P2)_
 
 > _This Vendor file form, because I didn’t have to deal with it, I know nothing about it. (P4)_
 
@@ -220,7 +220,7 @@ As mentioned in Finding 3, there was new terminology on the instruction static p
 
 
 - ### Finding 5: 4 of 8 participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
-All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants' understanding that direct deposit mentioned in relation to the Foreign Medical Program had to be setup specifically for FMP claims, with some participants thinking that their setup for disability compensation would prefill and apply to FMP Claims automatically.   
+All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants' understanding that direct deposit mentioned in relation to the Foreign Medical Program had to be set up specifically for FMP claims, with some participants thinking that their setup for disability compensation would prefill and apply to FMP Claims automatically.   
 - 4 of 8 participants mentioned some sort of confusion with VBA direct deposit for disability compensation payments.
 - 1 participant clearly re-iterated he expected to see something in the form flow about the account where the deposit will be sent.
   
