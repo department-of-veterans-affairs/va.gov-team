@@ -67,6 +67,11 @@ The default state (when no file is uploaded) for the "default" variant of the co
 </Host>
 ```
 
+## Custom Events
+- `vaChange` - The event emitted when the file input value changes.
+- `vaPasswordChange` - The event emitted when the file input password value changes.
+- `vaFileInputError` - The event emitted when adding a file results in an error, e.g. exceeding max file size.
+
 ## Accessibility considerations
 
 The `va-file-input` component implements sophisticated focus management to ensure optimal screen reader compatibility and keyboard navigation, with particular attention to error handling across different browser behaviors.
