@@ -31,28 +31,28 @@ assignees: artsymartha68, lakper, sara-amanda
 [**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
 
 ### How would you like to collaborate with ADE?
-- [ ] Research support [(if yes, please open an additional research ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml)
-    - [ ] Discuss research plan / conversation guide / recruitment of AT users
-    - [ ] Advise on accessible prototypes
-    - [ ] Schedule a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md) with an ADE Accessibility Specialist
+- [ ] Research support for assistive technology (AT)
+    - [ ] Research planning and recruitment for AT
+    - [ ] Pilot participants who use AT
+    - [ ] Technical support and observation during AT sessions
     - [ ] Schedule technical support during AT research sessions
     - [ ] Document accessibility-related issues during AT research sessions
-    - [ ] Conduct research for your team
-- [ ] VA 508 office audit
-    - [ ] Prepping for a 508 office audit
-    - [ ] Reviewing results from a 508 office audit
-- [ ] Review Commercial Off the Shelf (COTS) products for accessibility
-- [ ] Collaboration Cycle Support
-- [ ] Accessibility test planning
-- [ ] Support design discovery
-- [ ] Review wireframes or mockups
-- [ ] PDF audit
-- [ ] Staging / CodePen / Codespaces / Production audit
-- [ ] Health check audit
-- [ ] Training and education
-- [ ] Spot check, general guidance
-- [ ] **Something else:**  `insert type of collaboration`
-- [ ] **Unsure?** _Check this box if you're not sure what kind of support you need, need multiple types of support, and/or want to meet with us. We'll schedule an introductory meeting to learn more about your team and project._
+- [ ] Design
+    - [ ] Support design discovery
+    - [ ] Design review
+- [ ] Audits
+    - [ ] Full accessibility audit
+    - [ ] Critical user flow test
+    - [ ] Accessibility testing artifact for the Collaboration Cycle
+    - [ ] Audit to prepare for a VA Section 508 Office review
+    - [ ] Commercial-Off-The-Shelf (COTS) product audit
+    - [ ] PDF Audit
+    - [ ] Email audit
+- [ ] General accessibility guidance
+    - [ ] Review of results from VA Section 508 Office
+    - [ ] Answer questions about accessibility
+    - [ ] **Something else:**  `insert type of collaboration`
+    - [ ] **Unsure?** _Check this box if you're not sure what kind of support you need and/or want to meet with us._
 
 ## Your Timeframe
 
