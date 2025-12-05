@@ -28,7 +28,7 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Accessibility Champ** (if you have one): `name`
 
 ## Collaborate with ADE
-[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:
+[**Review our menu of services**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support for assistive technology (AT)
@@ -126,7 +126,7 @@ _Select all that apply:_
 ### Collaboration Cycle 
 <details><summary>For VFS teams only</summary>
 
-#### Ticket Number (if applicable)
+#### Ticket number (if applicable)
 `Link to main Collaboration Cycle ticket`
 
 #### Which phases of the collaboration cycle have you completed?
@@ -140,8 +140,8 @@ _Select all that apply:_
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket. 
 - [ ] Save and submit this intake ticket.
-- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging @Lakwi Perera.
+- [ ] Start a new thread and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging @Lakwi Perera.
 - [ ] If you're planning user research, read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users).
 - [ ] If you're creating an experimental design, read more about [ experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) and how you might [suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update).
-- [ ] Please don't close this intake when work is complete - ADE will close and track.
+- [ ] Please don't close this intake when work is complete -- ADE will close and track.
 
