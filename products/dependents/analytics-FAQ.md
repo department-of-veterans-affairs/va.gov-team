@@ -40,7 +40,14 @@ _This file is intended to record common questions that arise out of the dependen
 ### Picklist: What is the difference between the ``Duplicate Alert`` and the ``Duplicate Modal``?
 - ``Duplicate modal`` released on 11/20/25.
    - For children: "Duplicate modal" is shown to the user when they are inside the array list loop and navigate away from the page that asks for the child's DOB and they’ve entered a DOB that matches another dependent’s DOB (based on API call)
+<img width="600" height="1188" alt="image" src="https://github.com/user-attachments/assets/f4d6992d-949e-495f-828a-ab0dc966ad7a" />
+
    - For spouse: "Duplicate modal" is shown to the user when they navigate away from the page that asks for the spouse DOB and they’ve entered a DOB that matches another dependent’s DOB (based on API call)
+<img width="600" height="1322" alt="image" src="https://github.com/user-attachments/assets/e6f40785-1c7d-4d6c-bba7-2a251d935b10" />
+
+
 - ``Duplicate alert`` is shown on the array list loop summary page and the review and submit page. It's a warning if the possible duplicate hasn't been acknowledged, and it's an info box if it was acknowledged. It was released on 11/6/25.
    - For children: “Duplicate alert" is shown on the array list loop summary page when the user has entered dependents with the same first name, last name, and DOB within the array. (No check against the API). It’s always an info alert. It shows within the card for the dependents that have the matching data. There would never be only one alert on a summary screen—it appears within each card with the matching data (see screenshot)
    - For spouse: There are no duplicate alerts, only the modal. A user can only enter one spouse which means we don’t use the array pattern and there’s not a summary screen for spouse that could show the alert.
+<img width="301" height="746" alt="image" src="https://github.com/user-attachments/assets/c94e03ab-3781-4da8-b723-cd5f7ff068a6" />
+
