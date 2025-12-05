@@ -191,7 +191,7 @@ Almost all participants called out the documents needed to gather and the link t
 > _Supporting quote: I see I need at least a billing statement and if I paid, a receipt
 If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
 
-> _I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form. (P7)_
+> _Supporting quote: "I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form." (P7)_
 
 
 
@@ -205,7 +205,7 @@ This was a contributing factor to the lower rating on the static page and the co
 
 > _Supporting quote: "So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks." (P8)_
 
-> _one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
+> _Supporting quote: one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
 
 
 - ### Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
@@ -224,7 +224,8 @@ There was new terminology on the instruction static page that participants had n
 - ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants understanding that direct deposit had to be setup specifically for FMP claims and some thinking that their setup for disability compensation will prefill and apply here.   
 - 4 out of the 8 participants mentioned some sort of confusion with VBA direct deposit for disability compensation payments.
-
+- 1 participant clearly re-iterated he expected to see something in the form flow about the account where the deposit will be sent.
+  
 > _Supporting quote: "Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account?" (P8)_  
 
 > _Supporting quote: "For me, I already have direct deposit established, so these instructions are redundant." (P3)_ [Seemed to be referring to their monthly disability compensation]
