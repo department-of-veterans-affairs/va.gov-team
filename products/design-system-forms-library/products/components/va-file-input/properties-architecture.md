@@ -1,4 +1,4 @@
-# `va-file-input` Properties / Architecture Template
+# `va-file-input` Properties / Architecture Template _(Work In Progress)_
 _Last updated: 2025-12-04_
 
 ## Properties
@@ -16,7 +16,8 @@ _Last updated: 2025-12-04_
 | `maxFileSize` | false | `number` | `Infinity` | Maximum allowed file size in bytes. |
 | `minFileSize` | false | `number` | `0` | Minimum allowed file size in bytes. |
 | `name` | false | `string` | `undefined` | The name for the input element. |
-| `passwordError` | false | `string` | `undefined` | Error message for the encrypted password input |
+| `passwordError` | false | `string` | `undefined` | Error message for the encrypted password input **This prop will be removed when password submit button is live** |
+| `passwordSubmissionSuccess` | false | `boolean` | `null` | Denotes if user submission of encrypted file password was successful. **This prop is WIP and will not be supported until password submit button is live** |
 | `percentUploaded` | false | `number` | `null` | Percent upload completed. For use with va-progress-bar component |
 | `readOnly` | false | `boolean` | `false` | Optionally displays the read-only view |
 | `required` | false | `boolean` | `false` | Sets the input to required and renders the (*Required) text. |
@@ -70,7 +71,46 @@ The default state (when no file is uploaded) for the "default" variant of the co
 ## Custom Events
 - `vaChange` - The event emitted when the file input value changes.
 - `vaPasswordChange` - The event emitted when the file input password value changes.
+  - **This event will be removed when password submit button is live**
+- `vaPasswordSubmit` - The event emitted when the file input password is submitted via click of "Submit password" button.
+  -  **This event and will not be supported until password submit button is live**
 - `vaFileInputError` - The event emitted when adding a file results in an error, e.g. exceeding max file size.
+
+## Password functionality for encrypted files (WIP)
+The password submit button appears when the `encrypted` prop is set to `true` on the file input component. This feature enables users to submit a password for encrypted files (such as password-protected PDFs).
+
+Key Features:
+
+### User Interaction Flow:
+
+1. When an encrypted file is selected, a password text input field and submit button are displayed.
+2. The user enters their password in the password field.
+3. When the "Submit password" button is clicked, the component validates the input.
+
+### Validation:
+
+- If the password field is empty, the component displays an error message: "Password cannot be blank".
+- The `passwordError` prop updates to show this validation error.
+
+### Loading State:
+
+- Upon submission with a valid password entry, the button enters a loading state.
+- The button text changes from "Submit password" to "Verifying password...".
+- The `loading` attribute is set on the button element.
+
+### Event Emission:
+
+- When a password is entered and submitted, the component emits a `vaPasswordSubmit` event
+- This event contains the password value: `{ password: this.passwordValue }`.
+- The parent component/application is responsible for handling this event and verifying the password against the encrypted file.
+
+### Submission Result Handling:
+
+- The `passwordSubmissionSuccess` prop tracks whether password verification succeeded or failed.
+- If successful `(passwordSubmissionSuccess = true)`: Any existing password errors are cleared.
+- If failed `(passwordSubmissionSuccess = false)`: The button resets to its original state ("Submit password") and removes the loading indicator.
+
+**Important Note:** The component itself does not verify file encryption or validate passwords. It provides the UI interface and event mechanism for the parent application to implement password verification logic. Developers must implement their own encryption checking as documented in the [platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted).
 
 ## Accessibility considerations
 
@@ -121,7 +161,9 @@ Unit tests were written to confirm that the component does the following:
 - Displays an error if file size is too small.
 - Renders a progress bar if `percent-uploaded` prop is set.
 - Resets the component if the cancel button is clicked during upload.
-- Renders file password field if `encrypted` is true upload.
+- Renders a slim warning alert, a file password input, and a password submit button if encrypted is `true`.
+- Updates password submit button loading state when clicked.
+- Removes password input and submit button and shows success alert when `passwordSubmissionSuccess` is true.
 - Renders error on password input if password-error is set.
 - Does not render file password field if `encrypted` is unset.
 - Handles placeholder file upload and shows default file icon.
@@ -162,5 +204,4 @@ Unit tests were written to confirm that the component does the following:
 
 
 ## Future Considerations
-- An upcoming change to password behavior will use a password submit button rather than having the `vaPasswordChange` event emit on the `onInput` event of the `<va-text-input>` component used for an encrypted file's password.
 - Accessibility consideration (focus management): Handle the case when a user attempts to submit a form containing a `required` instance of the component without actually uploading a file.
