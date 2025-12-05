@@ -5,25 +5,25 @@ _Last updated: 2025-12-04_
 
 | Name | Required | Type | Default value | Description |
 |------|----------|------|---------------|-------------|
-| accept | false | string | undefined | A comma-separated list of unique file type specifiers. |
-| enableAnalytics | false | boolean | `false` | Emit component-library-analytics events on the file input change event. |
-| encrypted | false | boolean | `false` | When true, displays a password field. Note: This component does not check if a file is encrypted. For encryption checks, see: [Checking if an uploaded PDF is encrypted](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted) |
-| error | false | string | undefined | The error message to render. |
-| headless | false | boolean | `false` | DST only prop - removes extraneous display for multiple file input |
-| headerSize | false | number | undefined | Optionally specifies the size of the header element to use instead of the base label. Accepts a number from 1 to 6, corresponding to HTML header elements h1 through h6. If not provided, defaults to standard label styling. |
-| hint | false | string | undefined | Optional hint text. |
-| label | false | string | undefined | The label for the file input. |
-| maxFileSize | false | number | `Infinity` | Maximum allowed file size in bytes. |
-| minFileSize | false | number | `0` | Minimum allowed file size in bytes. |
-| name | false | string | undefined | The name for the input element. |
-| passwordError | false | string | undefined | Error message for the encrypted password input |
-| percentUploaded | false | number | `null` | Percent upload completed. For use with va-progress-bar component |
-| readOnly | false | boolean | `false` | Optionally displays the read-only view |
-| required | false | boolean | `false` | Sets the input to required and renders the (*Required) text. |
-| statusText | false | string | undefined | Optional file status, ex: "Uploading...", "Uploaded". |
-| uploadedFile | false | UploadedFile | undefined | Object representing a previously uploaded file. Example: `{ name: string, type: string, size: number}` |
-| uploadMessage | false | HTMLElement | `null` | Custom instructional message in the file input. |
-| value | false | File | undefined | The value attribute for the file view element. |
+| `accept` | false | `string` | `undefined` | A comma-separated list of unique file type specifiers. |
+| `enableAnalytics` | false | `boolean` | `false` | Emit component-library-analytics events on the file input change event. |
+| `encrypted` | false | `boolean` | `false` | When true, displays a password field. Note: This component does not check if a file is encrypted. For encryption checks, see: [Checking if an uploaded PDF is encrypted](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted) |
+| `error` | false | `string` | `undefined` | The error message to render. |
+| `headless` | false | `boolean` | `false` | DST only prop - removes extraneous display for multiple file input |
+| `headerSize` | false | `number` | `undefined` | Optionally specifies the size of the header element to use instead of the base label. Accepts a number from 1 to 6, corresponding to HTML header elements h1 through h6. If not provided, defaults to standard label styling. |
+| `hint` | false | `string` | `undefined` | Optional hint text. |
+| `label` | false | `string` | `undefined` | The label for the file input. |
+| `maxFileSize` | false | `number` | `Infinity` | Maximum allowed file size in bytes. |
+| `minFileSize` | false | `number` | `0` | Minimum allowed file size in bytes. |
+| `name` | false | `string` | `undefined` | The name for the input element. |
+| `passwordError` | false | `string` | `undefined` | Error message for the encrypted password input |
+| `percentUploaded` | false | `number` | `null` | Percent upload completed. For use with va-progress-bar component |
+| `readOnly` | false | `boolean` | `false` | Optionally displays the read-only view |
+| `required` | false | `boolean` | `false` | Sets the input to required and renders the (*Required) text. |
+| `statusText` | false | `string` | `undefined` | Optional file status, ex: "Uploading...", "Uploaded". |
+| `uploadedFile` | false | `UploadedFile` | `undefined` | Object representing a previously uploaded file. Example: `{ name: string, type: string, size: number}` |
+| `uploadMessage` | false | `HTMLElement` | `null` | Custom instructional message in the file input. |
+| `value` | false | `File` | `undefined` | The value attribute for the file view element. |
 
 ## Architecture Overview
 
