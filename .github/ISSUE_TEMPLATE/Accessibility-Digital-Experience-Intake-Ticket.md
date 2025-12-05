@@ -122,17 +122,19 @@ _Select all that apply:_
 </details>
 
 
-### Collaboration Cycle - VFS Teams Only
+### Collaboration Cycle 
+<details><summary>For VFS teams only</summary>
 
 #### Ticket Number
 `Link to main Collaboration Cycle ticket` (if applicable)
 
 #### Which phases of the collaboration cycle have you completed?
-_Select all that apply._
+_Select all that apply:_
 - [ ] Kickoff/PO Sync
 - [ ] Design intent
 - [ ] Midpoint review
 - [ ] Staging review
+</details>
 
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket. 
