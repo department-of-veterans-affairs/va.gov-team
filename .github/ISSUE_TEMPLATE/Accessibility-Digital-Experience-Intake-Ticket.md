@@ -88,7 +88,7 @@ Provide links to any supporting artifacts that can help us better understand you
 
 <details><summary>Fill in whatever research details you know at this time:</summary>
 
-#### Links to artifacts
+#### Links to artifacts:
 - [Research plan](`insert URL here`)
 
 - [Conversation guide](`insert URL here`)
