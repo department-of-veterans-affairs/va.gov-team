@@ -28,7 +28,7 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Accessibility Champ** (if you have one): `name`
 
 ## Collaborate with ADE
-[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
+[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support for assistive technology (AT)
@@ -78,7 +78,7 @@ Tell us more about the **product or feature** that you're working on:
 #### Are there any custom (non-VADS) components in use? Where?
 `custom components`
 #### Additional artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. This could include your project overview, user flow diagrams, etc.
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. 
 - [Artifact 1](`insert URL here`)
 - [Artifact 2](`insert URL here`)
 
