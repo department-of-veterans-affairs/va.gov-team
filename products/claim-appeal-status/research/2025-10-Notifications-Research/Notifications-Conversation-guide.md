@@ -58,7 +58,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - Are you okay with us recording the screen and audio? (If yes, start recording and confirm.)  
 - Are you comfortable with us sharing a short, anonymous clip of this session with VA partners for research purposes?
 
-**Then:** Start recording, enable captions, and proceed.
+**Then:** Start recording, enable captions,welcome observers and allow short introduction and proceed.
 
 ---
 
