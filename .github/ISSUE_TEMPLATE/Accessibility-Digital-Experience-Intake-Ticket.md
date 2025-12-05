@@ -27,13 +27,6 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Dedicated accessibility specialist on your team** (if you have one):
 - **Accessibility Champ** (if you have one):
 
-## About Your Work
-
-### What's the nature of your initiative and desired outcomes?
-
-- `PLACEHOLDER TEXT for the nature of your initiative`
-- `PLACEHOLDER TEXT for your desired outcomes`
-  
 ## Collaborate with ADE
 [**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
 
@@ -61,8 +54,32 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] **Something else:**  `insert type of collaboration`
 - [ ] **Unsure?** _Check this box if you're not sure what kind of support you need, need multiple types of support, and/or want to meet with us. We'll schedule an introductory meeting to learn more about your team and project._
 
+## Your Timeframe
 
-## Supporting information
+> [!IMPORTANT]
+> - We work with the majority of product teams on VA.gov.  Intake requests are prioritized based on overall workload, along with VA and OCTO priorities. While we aim to support all teams who request our services, VFS teams receive priority status due to the nature of their work.  
+> - If you have questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
+
+
+### Is this work tied to a deadline?
+- [ ] Yes (Month/Day/Year)
+- [ ] No
+
+
+
+
+## About Your Work
+
+### Tell us more about the product or feature that you're working on
+
+- `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
+- `Link to product information`
+  
+### Supporting information
+<details><summary>For accessibility reviews and audits</summary>
+  
+</details>
+
 ### Starting URL
 (URL)
 ### Login information (if applicable)
@@ -79,16 +96,9 @@ Provide links to any supporting artifacts that can help us better understand you
 - [Artifact 2](Placeholder2)
 - [Artifact 3](Placeholder3)
 
-## Your Timeframe
-
-> [!IMPORTANT]
-> - We work with the majority of product teams on VA.gov.  Intake requests are prioritized based on overall workload, along with VA and OCTO priorities. While we aim to support all teams who request our services, VFS teams receive priority status due to the nature of their work.  
-> - If you have questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
-
-
-### Is this work tied to a deadline?
-- [ ] Yes (Month/Day/Year)
-- [ ] No
+<details><summary>For user research (fill in whatever you know at this time)</summary>
+  
+</details>
 
 
 ## Collaboration Cycle - VFS Teams Only
