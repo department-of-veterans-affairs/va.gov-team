@@ -141,7 +141,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 ### Wrap-up of Scenario 1
 
-- If you had to choose email, text, or in-app for this type of message, which would you choose and why?  
+- If you had to choose email, text, or mobile app(push) notification for this type of message, which would you choose and why?  
 - Is there any aspect of the tone or format of these messages that felt off or confusing?
 
 ---
