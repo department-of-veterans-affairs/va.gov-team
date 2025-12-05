@@ -196,7 +196,7 @@ If I was doing this for real, I'd click the link to check if the claim I'm filin
 
 
 ### Finding 3: Participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
-This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to particpants and they wanted more explanation or definition around them.  
+This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to participants and they wanted more explanation or definition around them.  
 - 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
 - 3 of 8 participants called out the Vendor File Form as confusing or they would want more information about it.
 
