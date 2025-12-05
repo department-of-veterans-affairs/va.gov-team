@@ -84,7 +84,7 @@ Provide links to any supporting artifacts that can help us better understand you
 
 </details>
 
-### For user research support
+### For research support
 
 <details><summary>Fill in whatever research details you know at this time:</summary>
 
