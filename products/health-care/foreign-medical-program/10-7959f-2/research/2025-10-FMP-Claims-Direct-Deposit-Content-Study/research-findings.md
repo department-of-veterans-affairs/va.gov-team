@@ -183,7 +183,7 @@ Participants reported the content on the introduction page as being clear and ea
 
 
 ### Finding 2: 7 of 8 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page.   
-Almost all participants called out the documents needed to gather and the link to find out what supporting documents would be needed. This was more prominent in users' initial reaction to the introduction page and recall as a first step before setting up or calling out the direct deposit content.
+Almost all participants called out the documents they needed to gather and the link to find out what supporting documents would be needed. This was more prominent in users' initial reaction to the introduction page and recall as a first step before setting up or calling out the direct deposit content.
 
 
 
