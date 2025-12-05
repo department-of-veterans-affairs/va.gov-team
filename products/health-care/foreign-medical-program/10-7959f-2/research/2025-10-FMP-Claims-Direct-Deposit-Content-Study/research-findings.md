@@ -211,7 +211,7 @@ This was a contributing factor to the lower rating on the static page and the co
 - ### Finding 4: The static page seemed to be the most confusing for particpants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
 There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
 - 5 out of 8 participants mentioned the sign-in process with 4 of them having a negative sentiment.
-- 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
+- 4 out of 8 participants was unsure what the FSC (Finanical Services Cetner site) is and expressed confusion over it.
 
 
 > _Supporting quote: "Reference to FSC. New term for me." (P2)_
