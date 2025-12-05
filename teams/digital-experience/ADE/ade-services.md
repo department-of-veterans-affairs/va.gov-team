@@ -17,10 +17,10 @@ Our accessibility service offerings are described below.
 
 ### **Research support for assistive technology (AT)**
 
-#### **Research planning and recruitment for AT**
-
 <details>
-<summary>ADE helps you plan your upcoming research with participants who use AT. ADE can discuss research ideas and participant recruiting, and review research plans and conversation guides.</summary>
+<summary> Research planning and recruitment for AT </summary>
+
+ADE helps you plan your upcoming research with participants who use AT. ADE can discuss research ideas and participant recruiting, and review research plans and conversation guides.
 
 
 * When to use this service:  
@@ -36,10 +36,10 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * You need to wait to receive feedback and act on it before submitting your research plan and conversation guide for VA Research Ops review. </details>
 
-#### Pilot participants who use AT
-
 <details>
-<summary>ADE pilots your upcoming research using AT. You practice running a session and get experience with participants that use assistive technology.</summary>
+<summary> Pilot participants who use AT</summary>
+
+ADE pilots your upcoming research using AT. You practice running a session and get experience with participants that use assistive technology.
 
 * When to use this service:  
   * You are preparing for research with AT users and want a trial run before the study begins.  
@@ -55,10 +55,10 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * The accessibility specialist who serves as a pilot participant isn't a Veteran and so may not encounter some potential issues.</details>
 
-#### Technical support and observation during AT sessions
-
 <details>
-<summary>ADE provides technical assistance for your research participants, as well as accessibility-informed observations of research sessions.</summary>
+<summary>Technical support and observation during AT sessions</summary>
+
+ADE provides technical assistance for your research participants, as well as accessibility-informed observations of research sessions.
 
 * When to use this service:  
   * You are doing user research with participants that use assistive technology.  
@@ -78,10 +78,10 @@ Our accessibility service offerings are described below.
 
 ### **Design**
 
-#### Support design discovery
-
 <details>
-<summary>ADE helps your team consider accessibility from the very start of the design process.</summary>
+<summary>Support design discovery</summary>
+
+ADE helps your team consider accessibility from the very start of the design process.
 
 * When to use this service:  
   * You understand the problem space you’re trying to address and are just beginning to ideate on design solutions like user flow diagrams and workflows.  
@@ -96,11 +96,11 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * It may take time to revise your designs if ADE recommends major adjustments to ensure accessibility.</details>
 
-#### Design review
-
 <details>
-<summary>ADE evaluates your mockups and helps you create more accessible designs before engineering handoff.</summary>
+<summary>Design review</summary>
 
+
+ADE evaluates your mockups and helps you create more accessible designs before engineering handoff.
 * When to use this service:  
   * You’ve created a mockup of your product and want to have it evaluated for accessibility issues before engineering handoff.  
 * Time needed:  
@@ -117,10 +117,10 @@ Our accessibility service offerings are described below.
 
 ### **Audits**
 
-#### Full accessibility audit
-
 <details>
-<summary>ADE conducts a full accessibility review of a live product or coded prototype–every page/screen and every interaction.</summary>
+<summary>Full accessibility audit</summary>
+
+ADE conducts a full accessibility review of a live product or coded prototype–every page/screen and every interaction.
 
 * When to use this service:   
   * You want to test the accessibility of your entire product. This is typically done to prepare for a Collaboration Cycle Staging Review or as a “health check” after launch.  
@@ -138,10 +138,10 @@ Our accessibility service offerings are described below.
   * Slower turnaround than other audits because it’s so comprehensive.  
   * The ADE audit does not replace the Collaborating Cycle Staging Review.</details>
 
-#### Critical user flow test
-
 <details>
-<summary>ADE tests critical user paths identified by your team using a screen reader, a magnifier, and/or a voice input app on different devices.</summary>
+<summary>Critical user flow test</summary>
+
+ADE tests critical user paths identified by your team using a screen reader, a magnifier, and/or a voice input app on different devices.
 
 * When to use this service:   
   * You have a product and want to test the accessibility of important user paths, but don’t have time or resources to conduct user research.  
@@ -159,10 +159,10 @@ Our accessibility service offerings are described below.
   * No feedback from actual Veterans.</details>
 
 
-#### Accessibility testing artifact for the Collaboration Cycle
-
 <details>
-<summary>ADE can help your team prepare for an upcoming Staging Review by doing an accessibility testing artifact on your behalf.</summary>
+<summary>Accessibility testing artifact for the Collaboration Cycle</summary>
+
+ADE can help your team prepare for an upcoming Staging Review by doing an accessibility testing artifact on your behalf.
 
 * When to use this service:  
   * Your product is going through the Collaboration Cycle. You've requested a Staging Review and development is paused. You don't have time or staffing to complete the required [Accessibility Testing Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-testing-md.md).   
@@ -178,10 +178,10 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * You don’t test the product yourself so you’ll miss out on better understanding accessibility and the issues your product may have.</details> 
 
-#### Audit to prepare for a VA Section 508 Office review
-
 <details>
-<summary>The VA Section 508 Office focuses on WCAG compliance and reports violations with WCAG 2.0 AA success criteria. ADE can audit your product beforehand.</summary>
+<summary>Audit to prepare for a VA Section 508 Office review</summary>
+
+The VA Section 508 Office focuses on WCAG compliance and reports violations with WCAG 2.0 AA success criteria. ADE can audit your product beforehand.
 
 * When to use this service:  
   * You are planning to submit your product to the 508 Office for an accessibility compliance review.  
@@ -198,10 +198,10 @@ Our accessibility service offerings are described below.
   * 508 Office reviewers and ADE sometimes disagree about whether something is an issue, and so ADE may not flag every issue that the 508 Office will report.  
   * The ADE audit does not replace the VA Section 508 Office audit.</details>
 
-#### Commercial-Off-The-Shelf (COTS) product audit
-
 <details>
-<summary>ADE evaluates a COTS product for accessibility issues.</summary>
+<summary>Commercial-Off-The-Shelf (COTS) product audit</summary>
+
+ADE evaluates a COTS product for accessibility issues.
 
 * When to use this service:  
   * Your service is public-facing and uses a COTS product (e.g., BHL Touch or [ID.me](http://ID.me)). You want to evaluate the accessibility of that product to encourage the company to make improvements.  
@@ -220,10 +220,10 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * You may discover that the COTS product is inaccessible, but it’s already been launched. This would lead to tough questions about how to move forward.</details>
 
-#### PDF audit
-
 <details>
-<summary>ADE reviews a PDF for accessibility issues and provides remediation recommendations.</summary>
+<summary>PDF audit</summary>
+
+ADE reviews a PDF for accessibility issues and provides remediation recommendations.
 
 * When to use this service:  
   * A PDF is part of your product (or *is* the product). The PDF is public-facing and used by Veterans.  
@@ -241,9 +241,10 @@ Our accessibility service offerings are described below.
   * We may not be able to remediate the PDF if it’s being generated by another service.  
   * If the document is locked or password protected,ADEwill be unable to do remediation but only an audit.</details>
 
-#### Email audit
 <details>
-<summary>Description goes here</summary>
+<summary>Email audit</summary>
+ADE reviews HTML emails for accessibility issues and provides remediation recommendations.
+
 * When to use this service:  
   * Your team creates or updates automated emails (e.g., confirmations, reminders, notifications) that go out through VA Notify or VA.gov, and you need an accessibility review for 508 compliance.  
 * Time needed:  
@@ -261,10 +262,10 @@ Our accessibility service offerings are described below.
 
 ### **General accessibility guidance** 
 
-#### Review of results from VA Section 508 Office
-
 <details>
-<summary>Findings from the VA Section 508 Office can be hard to interpret. ADE can review those results, explain the findings, and provide recommendations for remediating them.</summary>
+<summary>Review of results from VA Section 508 Office</summary>
+
+Findings from the VA Section 508 Office can be hard to interpret. ADE can review those results, explain the findings, and provide recommendations for remediating them.
 
 * When to use this service:  
   * You’ve received feedback from the 508 Office, and need help interpreting defects and resolving them.  
@@ -284,10 +285,10 @@ Our accessibility service offerings are described below.
 * Considerations:   
   * This is not a full audit and so there may be additional accessibility issues that neither ADE nor the 508 Office encountered. </details>
 
-#### Answer questions about accessibility
-
 <details>
-<summary>ADE can answer your accessibility questions in Slack or in Accessibility Office Hours.</summary>
+<summary>Answer questions about accessibility</summary>
+
+ADE can answer your accessibility questions in Slack or in Accessibility Office Hours.
 
 * When to use this service:  
   * You have questions about accessibility, but don’t need ongoing ADE support. Questions can range from accessibility test planning to color contrast issues, and anything in between.  
