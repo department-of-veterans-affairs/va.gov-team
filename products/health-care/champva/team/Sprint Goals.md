@@ -32,19 +32,21 @@
 - [ ] **SPRINT GOAL** 10-10d v2: Address critical launch issues, including record updates and a priority bug fix
   - [ ] 10-10d v2: Deploy fix for break statement interrupting 10-10d v2 launch
   - [ ] 10-10d v2: Identify and correct all lost submissions from 10-10d v2 launch
+- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
+- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
 
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 
-  - [ ] 
+- No work this sprint
 
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: Implement backend changes and feature toggles to generate the new standalone PDF
-  - [ ] BE changes for new PDF to setup feature toggle
-  - [ ] 10-7959c: Generate new PDF for stand alone
+- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
+  - [ ] 
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
 
 
 ## 
@@ -54,19 +56,28 @@
 
 ##
 ### 10-7959f-2 FMP Claims
-- [ ] **SPRINT GOAL** 
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
   - [ ] 
      
 
 ##
 ### All forms or Tech Debt
-- [ ] **SPRINT GOAL** 
+- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
   - [ ] 
+- [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
+  - [ ] 
+- [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
+  - [ ] 
+- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
 
 
 ## 
 ### STRETCH GOALS
-- [ ] **STRETCH GOAL** 
+- [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
+- [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
+- [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
+- [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
+- [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
   - [ ] 
 
 
@@ -74,11 +85,7 @@
 ### WHAT'S NEXT
 - **FE**
 - **UX**
-- [ ] 
-  - [ ] 
 - **BE**
-- [ ] 
-  - [ ] 
 
 
 ##
