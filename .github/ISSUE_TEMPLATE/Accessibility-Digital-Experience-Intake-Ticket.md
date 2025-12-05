@@ -144,6 +144,7 @@ _Select all that apply:_
 - [ ] If you're creating an experimental design, read more about [ experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) and how you might [suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update).
 - [ ] Please don't close this intake when work is complete - ADE will close and track.
 
+<!--
 ## ADE Internal
 ### Ticket Updates
 - [ ] Receive new intake ticket
@@ -164,3 +165,4 @@ _Select all that apply:_
 - [ ] _Update date in `Last Checked` field_
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
+-->
