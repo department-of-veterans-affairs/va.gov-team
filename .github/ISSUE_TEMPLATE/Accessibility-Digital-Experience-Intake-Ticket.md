@@ -122,12 +122,12 @@ _Select all that apply:_
 </details>
 
 
-## Collaboration Cycle - VFS Teams Only
+### Collaboration Cycle - VFS Teams Only
 
-### Ticket Number
+#### Ticket Number
 `Link to main Collaboration Cycle ticket` (if applicable)
 
-### Which phases of the collaboration cycle have you completed?
+#### Which phases of the collaboration cycle have you completed?
 _Select all that apply._
 - [ ] Kickoff/PO Sync
 - [ ] Design intent
