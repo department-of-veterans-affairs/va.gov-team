@@ -32,9 +32,10 @@
   - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d v2: Address critical launch issues, including record updates and a priority bug fix
   - [ ] [IVC Forms: 12/1/2025 Monitor Incident - Unsuccessful 1010dx submissions #126636](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126636)
-  - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
 - [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
+  - [ ] [[BE] 10-10d v2: Tricare API Discovery #126459](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126459)
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+  - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
 
 
 ##
@@ -45,9 +46,15 @@
 ## 
 ### 10-7959c
 - [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
-  - [ ] 
+  - [ ] [[FE] 10-7959c: Update Intro & Confirmation Pages #126787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126787)
+  - [ ] [[FE] 10-7959c: Update signer and beneficiary chapters #126796](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126796)
+  - [ ] [[FE] 10-7959c: Update Other Health Insurance (OHI) chapter #126793](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126793)
+  - [ ] [[FE] 10-7959c: Remove dynamic pronouns to updated form #126795](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126795)
+  - [ ] [[FE] 10-7959c: Apply minimal header for updated form experience #126794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126794)
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+  - [ ] [[UX] 10-7959c: Add MBI to OHI form for new pdf #96969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96969)
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
+  - [ ] [[UX] Update Medicare to allow future effective date #127045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127045)
 
 
 ## 
@@ -58,28 +65,34 @@
 ##
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
-  - [ ] 
+  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report #124004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
      
 
 ##
 ### All forms or Tech Debt
 - [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
-  - [ ] 
+  - [ ] [[BE] 10-10D v2: Prevent stale data and documents from being submitted to Pega #126437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126437)
 - [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
-  - [ ] 
+  - [ ] [IVC Forms: 12/2/2025 Monitor Incident - Missing Pega Status after VES JSON release #126641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126641)
 - [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
-  - [ ] 
+  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Add New Logs  #105639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105639)
 - [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
+  - [ ] [[UX] November Medallia Report #126598](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126598)
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - November 2025 #125405](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125405)
 
 
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
+  - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
 - [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
+  - [ ] [[FE] 10-7959c: Update Medicare chapter #126790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126790)
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
+  - [ ] [[BE] 10-7959C: Set up BE with feature toggle for new pdf in form version manager #125437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125437)
 - [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
+  - [ ] [[BE] Form 10-7959C: Proof of Concept to Combine Front and Back OHI/Medicare Card Images #123392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123392)
 - [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
-  - [ ] 
+  - [ ] []()
 
 
 ##
