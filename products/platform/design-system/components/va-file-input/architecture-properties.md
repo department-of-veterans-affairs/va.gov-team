@@ -1,112 +1,210 @@
-## The Web Components
+# `va-file-input` Properties / Architecture Template _(Work In Progress)_
+_Last updated: 2025-12-04_
 
-File uploads on [va.gov](http://va.gov) can be handled by using either the `va-file-input` component (for single file uploads) or the `va-file-input-multiple` component (for multiple file uploads).
+## Properties
 
-I. `va-file-input`  
+| Name | Required | Type | Default value | Description |
+|------|----------|------|---------------|-------------|
+| `accept` | false | `string` | `undefined` | A comma-separated list of unique file type specifiers. |
+| `enableAnalytics` | false | `boolean` | `false` | Emit component-library-analytics events on the file input change event. |
+| `encrypted` | false | `boolean` | `false` | When true, displays a password field. Note: This component does not check if a file is encrypted. For encryption checks, see: [Checking if an uploaded PDF is encrypted](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted) |
+| `error` | false | `string` | `undefined` | The error message to render. |
+| `headless` | false | `boolean` | `false` | DST only prop - removes extraneous display for multiple file input |
+| `headerSize` | false | `number` | `undefined` | Optionally specifies the size of the header element to use instead of the base label. Accepts a number from 1 to 6, corresponding to HTML header elements h1 through h6. If not provided, defaults to standard label styling. |
+| `hint` | false | `string` | `undefined` | Optional hint text. |
+| `label` | false | `string` | `undefined` | The label for the file input. |
+| `maxFileSize` | false | `number` | `Infinity` | Maximum allowed file size in bytes. |
+| `minFileSize` | false | `number` | `0` | Minimum allowed file size in bytes. |
+| `name` | false | `string` | `undefined` | The name for the input element. |
+| `passwordError` | false | `string` | `undefined` | Error message for the encrypted password input **This prop will be removed when password submit button is live** |
+| `passwordSubmissionSuccess` | false | `boolean` | `null` | Denotes if user submission of encrypted file password was successful. **This prop is WIP and will not be supported until password submit button is live** |
+| `percentUploaded` | false | `number` | `null` | Percent upload completed. For use with va-progress-bar component |
+| `readOnly` | false | `boolean` | `false` | Optionally displays the read-only view |
+| `required` | false | `boolean` | `false` | Sets the input to required and renders the (*Required) text. |
+| `statusText` | false | `string` | `undefined` | Optional file status, ex: "Uploading...", "Uploaded". |
+| `uploadedFile` | false | `UploadedFile` | `undefined` | Object representing a previously uploaded file. Example: `{ name: string, type: string, size: number}` |
+| `uploadMessage` | false | `HTMLElement` | `null` | Custom instructional message in the file input. |
+| `value` | false | `File` | `undefined` | The value attribute for the file view element. |
 
-| property                | Component              | Pattern                                                          | default                                          | required | common property                                                                                                                                                                                               | Single only                                                                                                                                                                                                                                                                                                                                     |
-| ----------------------- | ---------------------- | ---------------------------------------------------------------- | ------------------------------------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| title                   |                        |                                                                  | The property key for the field (not recommended) | no       | The title that appears above the component                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                 |
-| required                |                        |                                                                  | –                                                | yes      | Boolean specifying if the component is required                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                 |
-| fileUploadUrl           |                        |                                                                  | –                                                | yes      | The url to which the component will upload the file                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                 |
-| accept                  |                        |                                                                  | .pdf,.jpeg,.pdf. heic                            | no       | A string or an array of extensions (file-types) that the component will upload                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                 |
-| hint                    |                        |                                                                  | –                                                | no       | A hint string that will display above the component                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                 |
-| headerSize              |                        |                                                                  | —                                                | no       | The heading level to render the title; if omitted title will be in a span                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                 |
-| formNumber              |                        |                                                                  | –                                                | yes      | The number of the form which the component is part                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                 |
-| disallowEncryptedPdfs   |                        |                                                                  | –                                                | no       | If set to true, encrypted pdfs will not be uploaded                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                 |
-| skipUpload              |                        |                                                                  | –                                                | no       | If set to true, the component will not enter into an error state if the upload fails - this is useful during development if you do not have a backend to process the file                                     |                                                                                                                                                                                                                                                                                                                                                 |
-| maxFileSize             | Same                   | Same                                                             | –                                                | no       | The maximum size of a single file in bytes that can be uploaded                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                 |
-| minFileSize             | Same                   | Passing the values through                                       | –                                                | no       | The minimum size a single file must have in bytes to be uploaded                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                 |
-| errorMessages           | Displays error message | Client side part of the library - mime, ….<br>File size          | –                                                | no       | An object that contains one property, additionalInput, which holds as a string the error that will be displayed if a required additionalInput is missing.                                                     |                                                                                                                                                                                                                                                                                                                                                 |
-| additionalInputRequired |                        |                                                                  | –                                                | no       | Boolean specifying if the component requires the user to select additional information                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                 |
-| additionalInput         |                        | Ties the uploaded document to what was selected in the drop down | –                                                | no       | –                                                                                                                                                                                                             | A function that returns JSX for the additional input. The function accepts arguments error and data.<br><br>error is either null or a string. data is the data associated with the additional input field in the Redux store for the component.<br>.<br>The function should use error and data to update the additional input that is rendered. |
-| handleAdditionalInput   |                        | Ties the uploaded document to what was selected in the drop down | –                                                | no       | The JSX that renders the additional input should fire an event when that information changes. handleAdditionalInput is a function that accepts the event and returns the data to be added to the Redux store. |                                                                                                                                                                                                                                                                                                                                                 |
-| additionalInputUpdate   |                        | Ties the uploaded document to what was selected in the drop down |                                                  |          | –                                                                                                                                                                                                             |                                                                                                                                                                                                                                                       ## All Error States
+## Architecture Overview
 
-VaFileInput components have **9 primary error states**:
+The `va-file-input` component's `render()` function produces highly dynamic markup that adapts based on component state and prop values.
 
-| # | Error Constant | Error Message | Trigger Condition | Components |
-|---|----------------|---------------|-------------------|------------|
-| 1 | `FILE_TYPE_MISMATCH_ERROR` | "The file extension doesn't match the file format. Please choose a different file." | File type/extension mismatch | Both |
-| 2 | `UNSUPPORTED_ENCRYPTED_FILE_ERROR` | "We weren't able to upload your file. Make sure the file is not encrypted and an accepted format." | Encrypted file when not allowed | Both |
-| 3 | `UTF8_ENCODING_ERROR` | "The file's encoding is not valid" | Invalid UTF-8 encoding | Both |
-| 4 | `MISSING_PASSWORD_ERROR` | "Encrypted file requires a password." | Encrypted PDF needs password | Both |
-| 5 | `MISSING_FILE` | "File is required." | Required field empty | Multiple only |
-| 6 | `MISSING_ADDITIONAL_INFO` | "This information is required." | Additional input empty | Multiple only |
-| 7 | Network/Upload errors | (Various from API) | Upload failure | Both |
-| 8 | Internal component errors | (Various from component) | Component validation failures | Both |
-| 9 | `FILE_ALREADY_UPLOADED`  | You already uploaded this file. Select a different file. | If they upload the same file twice, on second attempt| Both |
-                                                                                          |
+The component's most fundamental branching occurs based on whether a file has been selected. When no file is present, it renders an initial upload interface with drag-and-drop instructions. Once a file is selected, it switches to a file preview state showing the file's details within a card layout.
 
-Events:
+The default state (when no file is uploaded) for the "default" variant of the component renders the following markup:
 
-* `va-change`: fires after adding the file. The payload of this event is an object: `{ files: [ { <file details> } ] }`  
-* `va-password-change:` fires on every keystroke entering the password. The payload of this event is an object`: { password: <password_entered> }`  
-* `va-file-input-error:` fires when an error is set internally. The payload of this event is an object`: { error: <error> }.` Mainly used by forms-system for validation.
+```html
+<Host>
+  <span>
+    <div class="label-header">
+      <label for="fileInputField" part="label" class="usa-label">Select a file to upload</label>
+    </div>
+  </span>
+  <div class="usa-hint" id="input-hint-message">You can upload a .pdf, .gif, .jpg, .bmp, or .txt file.</div>
+  <span id="input-status-message" class="usa-sr-only" aria-live="polite" aria-atomic="true"></span>
+  <div class="file-input-wrapper">
+    <input
+      id="fileInputField"
+      class="file-input"
+      aria-label="Select a file to upload. Drag a file here or choose from folder"
+      style="visibility: unset;"
+      type="file"
+      name="my-file-input"
+      aria-describedby="input-hint-message"
+    >
+    <div>
+      <span id="file-input-error-alert">
+        <span id="input-error-message" class="usa-error-message"></span>
+      </span>
+      <div class="file-input-target">
+        <div class="file-input-box"></div>
+        <div class="file-input-instructions">
+          <span>Drag a file here or <span class="file-input-choose-text">choose from folder</span></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</Host>
+```
 
-II. `va-file-input-multiple`  
-The UI states and associated props for the multiple component map to those of the single component 1:1. The key difference is that va-file-input-multiple often requires its props to be an array. The following props are arrays, where the first entry in the array will be passed to the first va-file-input instance, and so on.
+## Custom Events
+- `vaChange` - The event emitted when the file input value changes.
+- `vaPasswordChange` - The event emitted when the file input password value changes.
+  - **This event will be removed when password submit button is live**
+- `vaPasswordSubmit` - The event emitted when the file input password is submitted via click of "Submit password" button.
+  -  **This event and will not be supported until password submit button is live**
+- `vaFileInputError` - The event emitted when adding a file results in an error, e.g. exceeding max file size.
 
-* `errors`  
-* `Encrypted`  
-* `Percent-uploaded`  
-* `Reset-visual-state`  
-* `Password-errors`  
-* `Uploaded-files`
+## Password functionality for encrypted files (WIP)
+The password submit button appears when the `encrypted` prop is set to `true` on the file input component. This feature enables users to submit a password for encrypted files (such as password-protected PDFs).
 
-`Other props are applied to every underlying va-file-input instance:`
+Key Features:
 
-* `Accept`  
-* `Required`  
-* `Max-file-size`  
-* `Min-file-size`  
-* `status-text`
+### User Interaction Flow:
 
-| initial  | <img width="922" height="276" alt="image" src="https://github.com/user-attachments/assets/581b72ea-d215-45fa-b5fa-f865f9ff6aa3" />
- |
-| :---- | :---- |
-|  | ![][image15] |
+1. When an encrypted file is selected, a password text input field and submit button are displayed.
+2. The user enters their password in the password field.
+3. When the "Submit password" button is clicked, the component validates the input.
 
-## The Forms System
+### Validation:
 
-A page in a form should import and instantiate instances of the matching schema and uiSchema:
+- If the password field is empty, the component displays an error message: "Password cannot be blank".
+- The `passwordError` prop updates to show this validation error.
 
-**Single**:  
-<img width="1178" height="248" alt="image" src="https://github.com/user-attachments/assets/714b2513-ab4d-493b-8f32-fcc0e0998c35" />
+### Loading State:
 
-See an example of `fileInputUI` and `fileInputSchema` [here](https://github.com/department-of-veterans-affairs/vets-website/blob/1b31ebb67e27f0f8389de1a79b41965350970fa0/src/applications/simple-forms/mock-simple-forms-patterns/pages/mockFileInput.js#L11).
+- Upon submission with a valid password entry, the button enters a loading state.
+- The button text changes from "Submit password" to "Verifying password...".
+- The `loading` attribute is set on the button element.
 
-**Multiple**:  
-<img width="1162" height="252" alt="image" src="https://github.com/user-attachments/assets/0dca673e-4d87-42e0-b63d-071060ac9429" />
+### Event Emission:
 
-See an example of `fileInputMultipleUI` and `fileInputMultipleSchema` [here](https://github.com/department-of-veterans-affairs/vets-website/blob/1b31ebb67e27f0f8389de1a79b41965350970fa0/src/applications/simple-forms/mock-simple-forms-patterns/pages/mockFileInputMultiple.js#L12).
+- When a password is entered and submitted, the component emits a `vaPasswordSubmit` event
+- This event contains the password value: `{ password: this.passwordValue }`.
+- The parent component/application is responsible for handling this event and verifying the password against the encrypted file.
 
-### Properties for configuring fileInputSchema and fileInputMultipleSchema
+### Submission Result Handling:
 
-`fileInputSchema` and `fileInputMultipleSchema` take an object of properties that configure the file upload field. 
+- The `passwordSubmissionSuccess` prop tracks whether password verification succeeded or failed.
+- If successful `(passwordSubmissionSuccess = true)`: Any existing password errors are cleared.
+- If failed `(passwordSubmissionSuccess = false)`: The button resets to its original state ("Submit password") and removes the loading indicator.
 
-| property | Component | Pattern | default | required | common property | Single only | Multiple only |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| `title` |  |  | The property key for the field (not recommended) | no | The title that appears above the component |  |  |
-| `required` |  |  | – | yes | Boolean specifying if the component is required |  |  |
-| `fileUploadUrl` |  |  | – | yes | The url to which the component will upload the file |  |  |
-| `accept` |  |  | `.pdf,.jpeg,.pdf` | no | A string or an array of extensions (file-types) that the component will upload |  |  |
-| `hint` |  |  | `–` | no | A hint string that will display above the component |  |  |
-| `headerSize` |  |  | `—` | no | The heading level to render the title; if omitted title will be in a `span` |  |  |
-| `formNumber` |  |  | `–` | yes | The number of the form which the component is part |  |  |
-| `disallowEncryptedPdfs` |  |  | `–` | no | If set to `true`, encrypted pdfs will not be uploaded |  |  |
-| `skipUpload` |  |  | `–` | no | If set to true, the component will not enter into an error state if the upload fails \- this is useful during development if you do not have a backend to process the file |  |  |
-| `maxFileSize` | `Same` | `Same` | `–` | no | The maximum size of a single file in bytes that can be uploaded |  |  |
-| `minFileSize` | `Same` | `Passing the values through` | `–` | no | The minimum size a single file must have in bytes to be uploaded |  |  |
-| `errorMessages` | `Displays error message` | `Client side part of the library - mime, …. File size` | `–` | no | An object that contains one property, `additionalInput`, which holds as a string the error that will be displayed if a required `additionalInput` is missing. |  |  |
-| `additionalInputRequired` |  |  | `–` | no | Boolean specifying if the component requires the user to select additional information |  |  |
-| `additionalInput` |  | `Ties the uploaded document to what was selected in the drop down` | `–` | no | – | A function that returns JSX for the additional input. The function accepts arguments `error` and `data`. `error` is either null or a string. `data` is the data associated with the additional input field in the Redux store for the component. .The function should use `error` and `data` to update the additional input that is rendered. | A function that renders the JSX for the additional input. Takes no arguments. Whatever is entered here will be rendered in the slot for each underlying va-file-input instance. |
-| `handleAdditionalInput` |  | `Ties the uploaded document to what was selected in the drop down` | `–` | no | The JSX that renders the `additional input` should fire an event when that information changes. `handleAdditionalInput` is a function that accepts the event and returns the data to be added to the Redux store. |  |  |
-| `additionalInputUpdate` |  | `Ties the uploaded document to what was selected in the drop down` |  |  | – |  | A function used to update a single underlying additional input instance.The function takes three arguments:  `instance`, the additional input instance; `error`, the error for the instance; and `data`, the new value of the instance.The function should update the attributes of the additional input instance. |
+**Important Note:** The component itself does not verify file encryption or validate passwords. It provides the UI interface and event mechanism for the parent application to implement password verification logic. Developers must implement their own encryption checking as documented in the [platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted).
 
-### File validation:
+## Accessibility considerations
 
-The forms-system performs validates every file before upload for:
+The `va-file-input` component implements sophisticated focus management to ensure optimal screen reader compatibility and keyboard navigation, with particular attention to error handling across different browser behaviors.
+
+### Focus Management
+The component implements intelligent focus management that adapts to different file upload workflows and user interactions. After a file is selected or an error occurs, focus is automatically directed to the most relevant interactive element based on the component's current state and rendered elements. This focus management strategy follows a priority hierarchy to ensure users are guided to the appropriate next action:
+
+1. **Error state**: When file validation fails (wrong file type, size too large/small, empty file), focus moves to the "Change File" button, allowing users to immediately select a different file to resolve the error.
+
+2. **Encrypted file workflow**: When the `encrypted` prop is true and a file is successfully uploaded, focus moves to the password input field (the `<input>` element nested within the `<va-text-input>` component), prompting users to enter the file's password as the next required step.
+
+3. **Slotted content workflow**: When a file is successfully uploaded and the component contains slotted child elements — specifically `<va-select>` or `<va-text-input>` components — focus moves to the first interactive element found in the slotted content (either the nested `<select>` or `<input>` element). This supports form patterns where additional information is required after file selection, such as document type classification or metadata entry.
+
+An important consideration for this component's focus management is that calls to `.focus()` via helper functions are timed conditionally based on whether the browser `window` object currently has focus. By its nature, use of this component frequently causes the browser window to lose focus to the user's native file system dialog, whether through click/keyboard interaction or drag-and-drop. To ensure screen readers properly announce the `aria-label` of the target element, we must defer setting focus on the appropriate interactive element until after the browser window regains focus.
+
+The solution implemented for this functionality can be illustrated with pseudo-code. We'll use an invalid file (a 0 kilobyte `.txt` file) to trigger an internal error for this example:
+
+1. The 0 KB file is uploaded via user interaction.
+2. Local component state updates to display the internal error UI.
+   - The `aria-label` for the "Change File" button is updated to include the error message.
+3. Does the browser window have focus?
+   - **Yes**: Immediately focus on the "Change File" button
+   - **No**: Set an internal flag property so that when focus returns to the window, focus will be set on the "Change File" button.
+
+## Tests (e2e & unit)
+
+Unit tests were written to confirm that the component does the following:
+
+- Renders.
+- Renders hint text.
+- Renders an `aria-label`.
+- Renders a required `span`.
+- The `accept` attribute exists if set.
+- The `accept` attribute does not apply if omitted.
+- The `uploadMessage` attribute changes the text in file input.
+- The component shows default text when `uploadMessage` is not set.
+- Renders a "Change File" button if there is a file.
+- Does not render a "Change File" button if read-only.
+- Renders status text.
+- Emits the `vaChange` event only once.
+- Passes an aXe check.
+- Renders file summary when `uploadedFile` prop is set.
+- Opens a modal when delete button clicked and lets user remove or keep file. (skipped)
+- Opens a modal when delete button clicked and lets user remove the file. (skipped)
+- Displays an error if the file size exceeds max allowed file size.
+- Displays an error if file size is zero bytes.
+- Displays an error if file size is too small.
+- Renders a progress bar if `percent-uploaded` prop is set.
+- Resets the component if the cancel button is clicked during upload.
+- Renders a slim warning alert, a file password input, and a password submit button if encrypted is `true`.
+- Updates password submit button loading state when clicked.
+- Removes password input and submit button and shows success alert when `passwordSubmissionSuccess` is true.
+- Renders error on password input if password-error is set.
+- Does not render file password field if `encrypted` is unset.
+- Handles placeholder file upload and shows default file icon.
+- Shows progress bar and cancel button when uploading.
+- Shows password input when `encrypted` and not uploading.
+- Renders additional info slot when not uploading.
+- Shows change and delete buttons when file is present and not uploading.
+- Correctly displays error message for MIME type failure.
+- Correctly displays error message for MIME type failure when file has no extension.
+- Shows change and delete buttons when in error state.
+- Renders a screen-reader-only message with uploaded file's name when a file is uploaded successfully.
+- Renders a screen-reader-only message when an uploaded file is deleted.
+- Renders a error message when there is a file input error.
+- Accepts an `.heic` file and displays a generic image icon.
+
+## Storybook Examples
+
+- [Default](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--default)
+- [Required](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--required)
+- [Accepts File Password](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-file-password)
+- [With File Password Error](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-file-password-error)
+- [With Minimum Password Requirement](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-minimum-password-requirement)
+- [Accepts Only Specific File Types](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-only-specific-file-types)
+- [Accepts Any Kind Of Image](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--accepts-any-kind-of-image)
+- [Error Message](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--error-message)
+- [With Max File Size](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-max-file-size)
+- [With Min File Size](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-min-file-size)
+- [Header Label](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--header-label)
+- [Additional Form Inputs](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--additional-form-inputs)
+- [Custom Validation](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--custom-validation)
+- [With Analytics](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-analytics)
+- [Uploaded File](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--uploaded-file)
+- [Upload Status](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--upload-status)
+- [File Uploaded](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--file-uploaded)
+- [Read Only](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--read-only)
+- [Read Only With Additional Inputs](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--read-only-with-additional-inputs)
+- [With Percent Uploaded](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-percent-uploaded)
+
+
+## Future Considerations
+- Accessibility consideration (focus management): Handle the case when a user attempts to submit a form containing a `required` instance of the component without actually uploading a file.
 
 * Mime-type / file-type match (e.g. my-pdf.png)  
 * UTF encoding  
