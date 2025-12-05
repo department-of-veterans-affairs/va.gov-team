@@ -4,20 +4,19 @@
 - https://staging.va.gov/records/download-va-letters/letters
 
 ### Test Users & scenarios
-[Link to passwords for test user +54 and ??](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+[Link to passwords](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - User who has all letters, including TSA letter - +54
-    - Should see all letters in the accordion, TSA letter loads slowly last.
+    - Should see all letters in the accordion, TSA letter loads slowly at the bottom of the list (20 - 30 seconds). If it errors out, refresh and try again.
+    - Open accordion item for TSA letter. Again, this will take some time. Once populated, click download link - we do not generate this PDF, we simply show whatever is in the Veteran's efolder. 
 - User who has no letters - +44
-    - Does the no letter copy take forever to populate since it still needs to determine TSA slowly?
+    - Shouldn't see any letters populate. No long loading indicators either. Should only see the "You don't have any benefit letters..." content.
 - User who has some letters, no TSA letter - +38
-   - Should see a smaller list of letters, should see loading icon below list for TSA but then nothing populates after it disappears.
-- User who doesn't have a valid address on file - +78
-    - Should not be able to see any letters even if they have them
-- User who has a system down message - +12
-- User who has an error notification on the whole page - +9
+    - Should see some letters in the accordion. The TSA letter loading indicator will still appear but no TSA letter will show up. 
+- User who doesn't have a valid address on file - +260
+    - Should not be able to see any letters even if they have them. (Don't add an address because once added, you can't remove it.)
 
 ### List of known issues and bugs
-- TBD
+- The latency for the endpoints we are using are very slow, hence the slow load times. We are looking to move over to some newly released Lighthouse endpoints but we don't know for sure if the latency will be faster. 
 
 ### Content & IA Epic
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/118713
@@ -26,7 +25,13 @@
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/126545
 
 ### Regression Test Plan
-- Our TSA Safe Travel Letter is behind a feature toggle. If major issues arise during release, we will disable the feature toggle.
+- Our TSA Safe Travel Letter is behind a feature toggle. We have already tested the following scenarios with the feature toggle off and on to ensure there are no other unintended consequences to the letters page. If major issues arise during release, we will disable the feature toggle.
+     - Loading letters page with a user who has all letters
+     - Loading letters page with a user who has no letters
+     - Loading letters page with a user who have some letters
+     - Loading letters page with a user who has no address
+     - Opening each letter accordion item
+     - Clicking each download link in each accordion item
 
 ### Test Plan
 #### Download letter
@@ -71,7 +76,7 @@
 <img width="647" height="124" alt="Screenshot 2025-12-04 at 00 04 41" src="https://github.com/user-attachments/assets/37271c0f-38c6-4313-8756-1ba4710b8bd6" />
 
 ### Engineering & Security Checklist
-- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/CVE%20-%20TSA%20Safe%20Travel%20Letter%20-%2010102025.md (NEEDS TO BE UPDATED BEFORE STAGING REVIEW)
+- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/CVE%20-%20TSA%20Safe%20Travel%20Letter%20-%2010102025.md
   
 ### Endpoint Monitoring Playbook
 - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/tsa-safe-travel-letter.md
