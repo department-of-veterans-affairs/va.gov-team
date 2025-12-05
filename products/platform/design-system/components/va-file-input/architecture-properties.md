@@ -206,10 +206,11 @@ Unit tests were written to confirm that the component does the following:
 ## Future Considerations
 - Accessibility consideration (focus management): Handle the case when a user attempts to submit a form containing a `required` instance of the component without actually uploading a file.
 
+## Forms library
 * Mime-type / file-type match (e.g. my-pdf.png)  
 * UTF encoding  
 * PDF encryption  
-  * THe forms library sends the password to the backend the backend would have to decrypt the file before submission. 
+  * The forms library sends the password to the backend the backend would have to decrypt the file before submission. 
 
 If a file fails any of these validations, an error is set on the component.
 
