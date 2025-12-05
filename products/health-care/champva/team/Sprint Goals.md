@@ -9,7 +9,7 @@
 - [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10d v2: Address critical launch issues, including record updates and a priority bug fix
 - [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
-- [ ] **SPRINT GOAL** 10-7959c: FE changes for new PDF to review/update anything not blocked by vets-website - intro page, confirmation page, signer/bene chapter, and ohi chapter
+- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
 - [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
 - [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
@@ -19,7 +19,7 @@
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
 - [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
 - [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
-- [ ] **STRETCH GOAL** 10-7959c: FE changes for new PDF to review/update remaining items - the medicare chapter
+- [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
 - [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 - [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
