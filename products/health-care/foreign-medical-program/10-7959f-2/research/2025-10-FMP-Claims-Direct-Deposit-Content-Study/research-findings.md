@@ -1,6 +1,6 @@
 ---
 title: "FMP Claims Content Comprehension Study Research Findings, VA Form 10-7959f-2, October 2025"
-product: "Product Name"
+product: "10-7959f-2 Foreign Medical Program Claim Cover Sheet"
 team: "Health Applications"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
 date: "2025-12-04"
@@ -61,24 +61,27 @@ demographics:
     sighted_keyboard: X
     captions: X
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
+  - "6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity"
+  - "7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page."
+  - "Participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements."
+  - "The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5."
+  - "Half of the participants (4/8) expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit for monthly disability compensation payments."
   # etc.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Work with C+IA to adjust content to clarify confusion points of new terminology especially on the proposed static instructional resource page."
+  - "Work with C+IA partners to ensure it is clear that this process is separate from direct deposit for VBA payments by additional clarification."
+  - "Long-term: it would be ideal for Veterans to have secure visibility into what account the direct deposit would go to (last 4 of account, institution name) within the same flow as filing the claim."
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Objective: Veterans can easily file for FMP claims online. Removing blockers and confusion around direct deposit initial setup so Veterans feel confident about filing their FMP claim online"
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Reducing confusion around the process to set up direct deposit for FMP claims and exactly what actions need to take and how that is different for direct deposit they have set up for VBA disability compensation payments"
+  business: "Supporting the need to have direct deposit instructions for MVP launch of the form"
 opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "Work with sitewide C+IA team to incorporate research findings around participant confusion of process and terminology"
+  - "Incorporate updates into form for MVP"
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "Accessibility testing with assistive tech users"
+  - "Usability testing with a coded form in staging"
 underserved_groups_missing:
   - "Cognitive Disability"
   - "LGBTQ+"
@@ -95,14 +98,14 @@ synthesis_tools_used:
 
 # [FMP Claims Content Comprehension Study, VA Form 10-7959f-2] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Foreign Medical Program (FMP) Claim Coversheet 10-7959f-2, Health Applications Team**
 
 **Date:** November 2025
 
 **Contacts:** Health Apps UX Team - Renata K, Jessica S, Hieu V
 
 **[Research Readout (PDF)](link-here)**  
-*Add a link to your research readout deck, if available.*
+*TBD*
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
@@ -118,12 +121,8 @@ synthesis_tools_used:
 ## Research Goals
 
 1. Understand perceived content comprehension for the topic of direct deposit specifically for FMP claims.
-2. Discover, if any, of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
+2. Discover if any of the direct deposit content is confusing or misunderstood by the Veteran and could be a potential risk.
 3. Gain insight into any improvements that could be made to increase clarity of the direct deposit process understanding for FMP claims for reimbursement.
-
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
 ## Research Questions
 
@@ -141,12 +140,12 @@ synthesis_tools_used:
 ## Hypotheses and Conclusions
 
 
-- **Hypothesis Statement:** We assume that overall there will be some confusion about direct deposit being a separate process than what is used for VA Benefits when Veterans are filing an FMP claim. 
+- **Hypothesis 1:** We assume that overall there will be some confusion about direct deposit being a separate process than what is used for VA Benefits when Veterans are filing an FMP claim. 
   - **"Maybe True"**
   - Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 
 
-- **Hypothesis Statement:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being inconvenient.
+- **Hypothesis 2:** Some Veterans will not have an issue with the one-time setup instructions directed to FSC, but may comment on it being inconvenient.
   - **“Likely True”**  
   - There was a mix of participants self-reporting that the content was easy to understand and clear while at the same time there being some point of confusion around new terms or processes mentioned.
   - Introduction Page Clarity Rating: Average 4.75
@@ -158,10 +157,10 @@ synthesis_tools_used:
 ## Key Findings
 
 1. 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
-2. 7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page. 
+2. 7 of 8 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page. 
 3. Participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
 4. The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
-5. Half of the participants (4/8) expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit for monthly disability compensation payments.
+5. Half of the participants (4 of 8) expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit for monthly disability compensation payments.
 
 
 
@@ -169,77 +168,76 @@ synthesis_tools_used:
 
 
 ### Finding 1: 6 out of the 8 participants felt the introduction page content was clear with easy to understand instructions and they rated the page the highest with an average of 4.75 out of 5 for clarity.
-The content on the introduction page, participants reported as being clear and easy to understand. There were mentions about gathering documents in preparation and clicking on the link to learn more about what documents would be needed. 
-- 6 participants found the content of the Intro Page to be clear and easy to follow
-- 4 participants explicitly indicated that the directions were clear and easy to follow 
-- 3 showed content comprehension as they're explaining the process
+Participants reported the content on the introduction page as being clear and easy to understand. They mentioned gathering documents in preparation to file a claim, and clicking on the link to learn more about what documents would be needed. 
+- 6 of 8 participants found the content of the Intro Page to be clear and easy to follow
+- 4 of 8 participants explicitly indicated that the "What you need to do before you apply" instructions on the intro page were clear and easy to follow 
+- 3 of 8 showed content comprehension during the recall task, explaining the claims process completely
 
 
-> _Supporting quote: Oh, yeah, it was basically kind of instructions on how to file a claim, for foreign for any foreign medical service that I may have received for my service-related disabilities, and then… yeah, just, you know, the things that I need, a link to getting more information for what I need, and then that link that I clicked to get started. (P5)_ [Restating content but did not call out setting up direct deposit before filing a claim.]
+> _Oh, yeah, it was basically kind of instructions on how to file a claim, for foreign for any foreign medical service that I may have received for my service-related disabilities, and then… yeah, just, you know, the things that I need, a link to getting more information for what I need, and then that link that I clicked to get started. (P5)_ [Restating content but did not call out setting up direct deposit before filing a claim.]
 
-> _Supporting quote: It seemed pretty straightforward and clear. (P5)_
+> _It seemed pretty straightforward and clear. (P5)_
 
-> _Supporting quote: But again, it looks like two separate things. This one is the file cover sheet, but then, separately, it's also talking about setting up direct deposit specifically for this.(P2)_
-
-
-
-### Finding 2: 7 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page.   
-Almost all participants called out the documents needed to gather and the link to find out what supporting documents would be needed. This seemed to be more prominent mention on the introduction page content as a first step before setting up or calling out the direct deposit content.
+> _But again, it looks like two separate things. This one is the file cover sheet, but then, separately, it's also talking about setting up direct deposit specifically for this.(P2)_
 
 
 
-> _Supporting quote: I see I need at least a billing statement and if I paid, a receipt
-If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
-
-> _Supporting quote: "I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form." (P7)_
+### Finding 2: 7 of 8 participants mentioned document gathering more prominently than stating they would need to setup direct deposit first when on the introduction page.   
+Almost all participants called out the documents needed to gather and the link to find out what supporting documents would be needed. This was more prominent in users' initial reaction to the introduction page and recall as a first step before setting up or calling out the direct deposit content.
 
 
 
-### Finding 3: Participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
-This was a contributing factor to the lower rating on the static page and the confusion there. These terms were unfamiliar to participants and they wanted more explanation or definition around them.  
-- 4 out of 8 participants was unsure what exact the FSC is and expressed confusion over it.
-- 3 of 8 participants called out the Vendor File Form as confusing or they would want more information about it.
+> _I see I need at least a billing statement and if I paid, a receipt. If I was doing this for real, I'd click the link to check if the claim I'm filing for requires a certain type of document. (P5)_
+
+> _I would, knowing that this information here about what I need to prepare before, I'd make sure I have all that information available. I'm always looking for that extra layer of information so I'd click that link here in this supporting documents and make notes of what documents do I need to prepare before I went to fill out the form. (P7)_
 
 
-> _Supporting quote: "Vendor file form is new. Don't understand who the Vendor is." (P2)_
 
-> _Supporting quote: "So 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks." (P8)_
+### Finding 3: Participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, and PIV as new terms to them that would need additional clarification or they suggested improvements. 
+Confusion around these terms was a contributing factor to the lower clarity rating on the static page and subsequent confusion during the recall task. These terms were unfamiliar to participants and they wanted more explanation or definition around them.  
+- 4 of 8 participants were unsure what exactly the FSC is, and expressed confusion over it.
+- 3 of 8 participants called out the Vendor File Form as confusing, or they would want more information about it.
 
-> _Supporting quote: one change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
+
+> _Vendor file form is new. Don't understand who the Vendor is. (P2)_
+
+> _"So [Step] 4, complete the VA Vendor File Form? Is that your bank? The Vendor File form. They don’t ‘think banks are vendors, they think banks are banks. (P8)_
+
+> _One change: the Vendor Information, because they have no experience dealing with it. It would be helpful to have a representative walk you through it. (P4)_
 
 
-- ### Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.  
-There was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these as being new, some more confused and concerned as others and some still stating the page was clear with step by step instructions.  
+- ### Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before. It also received the lowest rating for ease-of-use at an average of 4 out of 5.  
+As mentioned in Finding 3, there was new terminology on the instruction static page that participants had never seen or heard of before: Financial Services Center, FSC, Vendor File Form and VA PIV were all mentioned. Every participant called out at least one of these terms as being new to them. Some participants expressed more confusion and concern than others: some participants stated the page was clear with step by step instructions.  
 - 5 out of 8 participants mentioned the sign-in process with 4 of them having a negative sentiment.
 - 4 out of 8 participants was unsure what the FSC (Financial Services Center site) is and expressed confusion over it.
 
 
-> _Supporting quote: "Reference to FSC. New term for me." (P2)_
+> _Reference to FSC. [That]s a] new term for me. (P2)_
 
-> _Supporting quote: "This Vendor file form, because I didn’t have to deal with it, I know nothing about it." (P4)_
+> _This Vendor file form, because I didn’t have to deal with it, I know nothing about it. (P4)_
 
-> _Supporting quote: "a little more consistency in how the FSC Customer Support Portal was labeled across all content. Use the same abbreviations across the steps and sections." (P5)_
+> _[A] little more consistency in how the FSC Customer Support Portal was labeled across all content. Use the same abbreviations across the steps and sections. (P5)_
 
 
-- ### Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
-All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants understanding that direct deposit had to be setup specifically for FMP claims and some thinking that their setup for disability compensation will prefill and apply here.   
-- 4 out of the 8 participants mentioned some sort of confusion with VBA direct deposit for disability compensation payments.
+- ### Finding 5: 4 of 8 participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
+All participants self-reported during the warm up questions that they had a disability rating and receive monthly compensation via direct deposit today. There was a mix of participants' understanding that direct deposit mentioned in relation to the Foreign Medical Program had to be setup specifically for FMP claims, with some participants thinking that their setup for disability compensation would prefill and apply to FMP Claims automatically.   
+- 4 of 8 participants mentioned some sort of confusion with VBA direct deposit for disability compensation payments.
 - 1 participant clearly re-iterated he expected to see something in the form flow about the account where the deposit will be sent.
   
-> _Supporting quote: "Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account?" (P8)_  
+> _Well.. not that you have sent me to a direct deposit page, I am confused. IF I am already getting VA benefits, and having it direct deposited, why wouldn’t I use that account? (P8)_  
 
-> _Supporting quote: "For me, I already have direct deposit established, so these instructions are redundant." (P3)_ [Seemed to be referring to their monthly disability compensation]
+> _For me, I already have direct deposit established, so these instructions are redundant. (P3)_ [Seemed to be referring to their monthly disability compensation]
 
-> _Supporting quote: "I guess again it is self-explanatory, especially if you already went through the process to sign up for FSC. I don’t recall signing up for that, when eBenefits switch, all my information transferred over. Had benefits since 2011." (P4)_
+> _I guess again it is self-explanatory, especially if you already went through the process to sign up for FSC. I don’t recall signing up for that, when eBenefits switch, all my information transferred over. Had benefits since 2011. (P4)_
 
 
 ---
 
 ## Additional Insights
 
-1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
-3. 4 out of 8 participants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
+1. 4 of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
+2. 2 of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
+3. 4 of 8 participants commented that signing in with ID.me was a pain point or that they did not know what a PIV was when they were going through the direct deposit static page instructions. 
 
 
 
@@ -248,7 +246,7 @@ All participants self-reported during the warm up questions that they had a disa
 ## Recommendations
 
 1. **Recommendation:** [Work with C+IA to adjust content to clarify confusion points of new terminology especially on the proposed static instructional resource page.]  
- _Supporting evidence:_
+   - _Supporting evidence:_
    - Finding 3: All participants called out the content and language around the Financial Services Center (FSC), other Vendor File Form, or PIV as new terms to them that would need additional clarification or they suggested improvements. 
    - Finding 4: The static page seemed to be the most confusing for participants, partly due to new terminology and processes they have not encountered at the VA before, and it also received the lowest rating for ease-of-use at an average of 4 out of 5.
        
@@ -256,11 +254,11 @@ All participants self-reported during the warm up questions that they had a disa
    - _Supporting evidence:_
    - Finding 5: Four participants expressed or suggested that the direct deposit process for FMP was confusing in relation of their current direct deposit setup they have for monthly disability compensation payments.  
 
-3. **Recommendation:** [Long-term: it would be ideal for Veterans to have secure visibility into what account the direct deposit would go to (last 4 of account, institution name) within the same flow as filing the claim]
+3. **Recommendation:** [Long-term: it would be ideal for Veterans to have secure visibility into what account the direct deposit would go to (last 4 of account, institution name) within the same flow as filing the claim.]
    - _Supporting evidence:_
-Secondary Findings:  
-1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
-2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
+   - Secondary Findings:  
+   1. 4 out of 8 participants said on the confirmation page or post-questions that they would expect to see their status of their FMP claim when they log in to VA.gov.
+   2. 2 out of 8 participants commented that they expected to see verification of their bank account where the reimbursement will be sent within the form flow itself and not in another portal/site.
 
 
 ## Product User and Business Outcomes
@@ -304,7 +302,7 @@ This research supports our desired business outcome by....
 ### Tools used for Synthesis
 
 - [Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/foreign-medical-program/10-7959f-2/research/2025-10-FMP-Claims-Direct-Deposit-Content-Study/FMP%20Claims%20Analysis.xlsx) broken down by task in conversation guide with thematic tagging 
-- Post manual synthesis, utilized [Copilot AI workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-synthesis/synthesis-workflow.md)
+- Post-manual synthesis, utilized [Copilot AI workflow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-synthesis/synthesis-workflow.md)
 
   
 ### Pages and applications used
@@ -318,13 +316,6 @@ This research supports our desired business outcome by....
 ### Other supporting documents created
 - Figma Desktop Working File
 - Figma Mobile Working File
-
-
-
-### Secondary research
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
-
-
 
 
 ### Research participants 
