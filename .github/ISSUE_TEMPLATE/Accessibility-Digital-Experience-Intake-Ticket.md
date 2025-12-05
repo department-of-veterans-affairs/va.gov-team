@@ -86,7 +86,7 @@ Provide links to any supporting artifacts that can help us better understand you
 
 ### For user research support
 
-<details><summary>Fill in whatever research details you know at this time)</summary>
+<details><summary>Fill in whatever research details you know at this time</summary>
 
 - [Research plan](`insert URL here`)
 
