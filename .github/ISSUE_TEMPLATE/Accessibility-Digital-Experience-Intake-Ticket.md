@@ -140,8 +140,8 @@ _Select all that apply:_
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket
 - [ ] Save and submit this intake ticket
-- [ ] Start a new thread and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging @Lakwi Perera
+- [ ] Start a new thread and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel and tag @Lakwi Perera
 - [ ] If you're planning user research, read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users)
 - [ ] If you're creating an experimental design, read more about [ experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) and how you might [suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
-- [ ] Please don't close this intake when work is complete -- ADE will close and track
+- [ ] Please don't close this intake ticket when work is complete -- ADE will close and track
 
