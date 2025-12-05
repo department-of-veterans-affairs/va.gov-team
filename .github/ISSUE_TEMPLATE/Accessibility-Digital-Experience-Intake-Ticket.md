@@ -57,7 +57,7 @@ assignees: artsymartha68, lakper, sara-amanda
 ### When would you like to have this work done? 
 `If you have a fixed deadline, let us know`
 
-ADE supports all teams, with priority given to Veteran-Facing Service (VFS) teams. We aim to work within your product schedule as much as possible. 
+ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
 
 ## About Your Work
 
@@ -144,25 +144,3 @@ _Select all that apply:_
 - [ ] If you're creating an experimental design, read more about [ experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) and how you might [suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update).
 - [ ] Please don't close this intake when work is complete - ADE will close and track.
 
-<!--
-## ADE Internal
-### Ticket Updates
-- [ ] Receive new intake ticket
-- [ ] Verify team label has been added
-- [ ] Verify product label has been added
-- [ ] Respond to Slack message sent by VFS team upon submission
-- [ ] Reach out to the VFS team to set up Kickoff (if requested)
-- [ ] Reviewed by OCTO/Martha
-- [ ] Connect related tickets in this ticket
-- [ ] Create child tickets, as they apply to the work requested.
-- [ ] Create Quick Summary for top of ticket as a note.
-- [ ] _Label with `Originator/Team` (product team or stakeholder requesting support)_
-- [ ] _Label date in the `Open Date` field_
-- [ ] _Label with `Estimate` (level of effort expected for this ticket)_
-- [ ] _Add `Assignee(s)` name(s) to ticket_ (include Lakwi)
-- [ ] _Add `Assignee(s) name(s) to each task` they will complete via handle tag (if known)_
-- [ ] _Select a `Priority Level`_
-- [ ] _Update date in `Last Checked` field_
-- [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
-- [ ] _Update date in_ `Closed Date`
--->
