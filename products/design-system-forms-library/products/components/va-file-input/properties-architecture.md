@@ -16,7 +16,7 @@ _Last updated: 2025-12-04_
 | `maxFileSize` | false | `number` | `Infinity` | Maximum allowed file size in bytes. |
 | `minFileSize` | false | `number` | `0` | Minimum allowed file size in bytes. |
 | `name` | false | `string` | `undefined` | The name for the input element. |
-| `passwordError` | false | `string` | `undefined` | Error message for the encrypted password input |
+| `passwordSubmissionSuccess` | false | `boolean` | `null` | Denotes if user submission of encrypted file password was successful. |
 | `percentUploaded` | false | `number` | `null` | Percent upload completed. For use with va-progress-bar component |
 | `readOnly` | false | `boolean` | `false` | Optionally displays the read-only view |
 | `required` | false | `boolean` | `false` | Sets the input to required and renders the (*Required) text. |
