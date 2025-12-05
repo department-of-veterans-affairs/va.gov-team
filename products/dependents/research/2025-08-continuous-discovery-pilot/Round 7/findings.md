@@ -40,59 +40,105 @@ We spoke with 9 Veterans.
 **Confusion when filling out the 674 for high school students**
 - 4 participants, including the VSR, mentioned confusion resulting from filling out the form for high school students and/or it would nice if the form could be adjusted to better accomodate high school students
 
-**Veteran 3**
 
 
-## School Form Experience
+
+## Feedback broken down by page
   
-**Veteran 1**
-- “I don't remember it being complicated. I don't know… nothing really stands out, I guess.”
-  
-**Veteran 2**
-- "It wasn't too difficult, otherwise I'd probably remember it more."
-- Filled out the form digitally
-- It took 5 or 6 months to be processed and they had to follow up, VA didn’t ask for any additional information
+**What would you like to do?**
+- All participants selected the option of "Keep or add back a dependent child who is in school (ages 18-23)", generally with little to no hesitation
+    
+- Next Steps: none
 
-**Veteran 3**
-- Unknown
+    
+**Select which eligible children will be in school this year**
+- All participants selected the dependent without issue
 
-
-
-Screenshot from current flow with two options- "Add one or more dependents" and "Remove one or more dependents"
-![Screenshot of the "Add or remove dependents" screen from current "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Rounds%205%266/Current-Screenshot.png)
-  
-Potential future design with three options- "Remove one or more dependents", "Add one or more dependents", and "Keep or add back a dependent child who is in school (ages 18-23)"  
-![Potential future design for the "Add or remove dependents" screen in the "Add or remove a dependent on VA benefits" flow, there are three options- the "Add or remove a dependent on VA benefits" flow, there are two buttons with the options are "Add one or more dependents" and "Remove one or more dependents"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Rounds%205%266/Design-Future-State.png)
-
+- Next Steps: none
 
   
-## Design Feedback
+**Other education benefits**
+- 5 participants expressed confusion about this screen
+     - Details!
 
-**Current Design with two options- "Add one or more dependents" and "Remove one or more dependents"**
-- When asked which option they would choose to submit information for an **existing dependent**, the Veterans were confused by the options
-     - All of the Veterans were confused and expressed that the action they needed to take was not adding or removing
-     - 2 of the 3 Veterans said that given the options they would choose the add option
-          - The third Veteran said "It doesn't give me an option to… remove a dependent. I'm certainly not adding one. So I wouldn't know what to click on, to be honest."
-     - 2 of the 3 Veterans shared they thought of the use case as "update". The third Veteran was the one with the more complicated situation and shared that they were looking for a third button where they could submit the information that they had for consideration, even if they weren't trying to add or remove.
-       
-- When asked which option they would choose to submit information for a **new** dependent, all of the Veterans said that they would choose the add option
-     - This choice seemed very clear and straightforward to the Veterans
-     - One commented "That one’s pretty obvious"
+- Next Steps: 
 
-**Potential future design with three options- "Remove one or more dependents", "Add one or more dependents", and "Keep or add back a dependent child who is in school (ages 18-23)"**
-- When asked which option they would choose to submit information for an **existing dependent**, 3 of the 3 Veterans said that they would choose the keep or add back option
-     - The 2 Veterans who had said they expected an update option when looking at the current design shared that this second design was what they had in mind
-     - Veterans did not express confusion or concern about the wording
-          - One said that the 90 days information was helpful
-       
-- When asked which option they would choose to submit information for a **new** dependent, all of the Veterans said that they would choose the add option
-     - This choice seemed very clear and straightforward to the Veterans
-       
-- __All 3 Veterans preferred this design!__
+**Federally funded schools or programs**
+- 5 participants expressed confusion about this screen
+  - Details!
 
-## Additional Finding
-- 2 of the 3 Veterans said that they would not want to take more than 1 action at the same time (for example, adding and removing)
-- 1 Veteran said that they would do that if the situation called for it and in that case they would like to add dependents before removing
+- Next Steps:
+
+
+**Dependent's federally funded program or school**
+- 4 participants stated that they would prefer to use a dropdown, list, or type-ahead field when adding this information
+- 1 participant preferred the free-text entry field
+
+- Next Steps: Work with engineers and David Reis to investigate if it would be possible to create a list of federally funded programs or schools
+
+
+**When did KAI start receiving federal education benefits?**
+- 5 participants stated that the date would be the first date of school or of the program
+- 3 participants believed that the date related to benefit payment dates
+
+- Next Steps: Add content clarifying which date should be entered on the "When did KAI start receiving federal education benefits?" page
+
+
+**KAI’S school accreditation status**
+- 7 participants stated that they liked the "How to tell if a school is accredited" help option
+    
+- Next Steps: none
+
+
+**Current or future term**
+- 5 participants thought that the first question "What is the official start date of the current or upcoming term?(*Required) For example, if the student’s school uses semesters, tell us when the student’s current semester started. Or if the student is in a certificate program, what is the first day of class?" and the second question "When did the student start or expect to start their term? (*Required)" were asking for the same date
+- 3 participants said that they understood the difference between the questions
+     - 1 shared an example indicating that they understood the difference
+- 2 participants expressed confusion about the graduation date
+     - 1 participant said her dependent had chosen a major that required secondary admission into the degree program, since she had not been admitted yet they didn't know which date to put
+     - 1 participant asked what they should do if their dependent didn't finish at the planned time and if graduation date is when they get their diploma, or when they finish classes?
+
+- Next Steps: Add or edit content clarifying which dates should be entered on the "Current or future term" page
+
+**Dependent's Previous term**
+- No major questions or confusion
+
+- Next Steps: none
+
+
+**Dependent's previous term dates**
+- 2 participants were confused Details!
+
+- Next Steps:
+
+
+**Dependent's school attendance history**
+- Participants' reactions were mixed, about half understood what was being asked and half expressed confusion
+     - Detials!
+- The explanation was well-received
+
+- Next Steps:
+
+
+**When did dependent stop attending school continuously?**
+- The majority of the participants expressed confusion about how to answer this question
+- It was unclear to some participants what situations might occur that would need to be reported
+     - I wonder if this would have been easier if they were filling out the paperwork for their own dependent instead of a fictitous dependent/situation
+- 2 participants said that they would enter their dependent's graduation date
+- 2 participants asked about additional date fields to put the date that they returned to school or multiple dates if they had stopped attending school multiple times
+
+
+- Next Steps: Add or edit content clarifying what cases need to be reported and which dates should be entered on the "When did dependent stop attending school continuously?" page
+
+
+*the Financial pages were a lower priority in this research study and given time limitations, only a few participants looked at them**
+
+
+**Dependent's income for this school term**
+
+
+
+
 
 ## Next Steps  
 - Move forward with the 3 option design
