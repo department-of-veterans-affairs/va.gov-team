@@ -54,15 +54,10 @@ assignees: artsymartha68, lakper, sara-amanda
 
 ## Your Timeframe
 
-> [!IMPORTANT]
-> - We work with the majority of product teams on VA.gov.  Intake requests are prioritized based on overall workload, along with VA and OCTO priorities. While we aim to support all teams who request our services, VFS teams receive priority status due to the nature of their work.  
-> - If you have questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
+### When would you like to have this work done? 
+`If you have a fixed deadline, let us know`
 
-
-### Is this work tied to a deadline?
-- [ ] Yes (Month/Day/Year)
-- [ ] No
-
+ADE supports all teams, with priority given to Veteran-Facing Service (VFS) teams. We aim to work within your product schedule as much as possible. 
 
 ## About Your Work
 
@@ -101,6 +96,29 @@ Provide links to any supporting artifacts that can help us better understand you
 
 - [Prototype or mockups](`insert URL here`)
 
+#### What types of AT do you want to test?
+_Select all that apply:_
+- [ ] Screen readers
+- [ ] Screen magnifiers
+- [ ] Voice command/speech recognition
+- [ ] Other: `insert type(s) of AT`
+
+#### How many total participants using AT are you planning? 
+`number of people`
+
+#### What devices do you want to test?
+_Select all that apply:_
+- [ ] Mobile phones
+- [ ] Desktop/laptop computers
+- [ ] Tablets
+- [ ] Other: `insert device`
+
+#### What kind of prototypes (if any) are you planning?
+- [ ] GitHub Codespace
+- [ ] CodePen
+- [ ] Staging
+- [ ] Other: `type of prototype`
+
 </details>
 
 
@@ -116,15 +134,12 @@ _Select all that apply._
 - [ ] Midpoint review
 - [ ] Staging review
 
-
-
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket. 
 - [ ] Save and submit this intake ticket.
-- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
-- [ ] If you're requesting accessibility support for user research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
-- [ ] If you're creating an experimental design, also contact the design system team: [Read more about experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) 
-- [ ] [Suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update)
+- [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging @Lakwi Perera.
+- [ ] If you're planning user research, read Platform guidance on [research with assistive technology users](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users).
+- [ ] If you're creating an experimental design, read more about [ experimental designs](https://design.va.gov/about/contributing-to-the-design-system/experimental-components-and-patterns#what-is-an-experimental-component-or-pattern?) and how you might [suggest an addition or update to the design system team](https://design.va.gov/about/contributing-to-the-design-system/suggest-an-addition-or-update).
 - [ ] Please don't close this intake when work is complete - ADE will close and track.
 
 ## ADE Internal
