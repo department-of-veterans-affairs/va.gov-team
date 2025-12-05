@@ -6,9 +6,4 @@ projects:
 type: Task
 
 body:
-
 - type: textarea
-  attributes:
-    label: User Need 
-    description: |
-      ```Description```
