@@ -35,8 +35,6 @@ assignees: artsymartha68, lakper, sara-amanda
     - [ ] Research planning and recruitment for AT
     - [ ] Pilot participants who use AT
     - [ ] Technical support and observation during AT sessions
-    - [ ] Schedule technical support during AT research sessions
-    - [ ] Document accessibility-related issues during AT research sessions
 - [ ] Design
     - [ ] Support design discovery
     - [ ] Design review
@@ -66,38 +64,43 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] No
 
 
-
-
 ## About Your Work
 
-### Tell us more about the product or feature that you're working on
+Tell us more about the **product or feature** that you're working on:
 
 - `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
 - `Link to product information`
   
-### Supporting information
-<details><summary>For accessibility reviews and audits</summary>
-  
+### For accessibility reviews and audits
+<details><summary>Share details about what needs reviewing:</summary>
+
+#### Starting URL
+`URL`
+#### Login information (if applicable)
+`username and password`
+#### What screens need to be tested?
+`user flow diagram, mockup, or list of screens`
+#### Are there any custom (non-VADS) components in use? Where?
+`custom components`
+#### Additional artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. This could include your project overview, user flow diagrams, etc.
+- [Artifact 1](`insert URL here`)
+- [Artifact 2](`insert URL here`)
+
 </details>
 
-### Starting URL
-(URL)
-### Login information (if applicable)
-(answer)
-### What screens need to be tested?
-(answer)
-### Are there any custom (non-VADS) components in use? Where?
-(answer)
-### Are there any conditional fields or screens? Where?
-(answer)
-### Additional artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. This could include your project overview, user flow diagrams, etc.
-- [Artifact 1](Placeholder1)
-- [Artifact 2](Placeholder2)
-- [Artifact 3](Placeholder3)
+### For user research support
 
-<details><summary>For user research (fill in whatever you know at this time)</summary>
-  
+<details><summary>Fill in whatever research details you know at this time)</summary>
+
+- [Research plan](`insert URL here`)
+
+- [Conversation guide](`insert URL here`)
+
+- [Research folder in github](`insert URL here`)
+
+- [Prototype or mockups](`insert URL here`)
+
 </details>
 
 
