@@ -5,6 +5,13 @@ Synopsis of first 30 days of feedback, November 17 - December 17, 2025:
 
 ## Overall Trends
 TBD
+Info to Date: 
+High Level Number of how many viewed the alert:
+How many Confirmed (%)
+How Many Skipped
+How Mnay Edited/Added
+My VA vs My Healthy Vet traffic
+Percent of Errors
 
 ---
 ### 11/18/25 
