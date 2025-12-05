@@ -46,25 +46,43 @@ This is a new component that will be part of the search filter pattern.
 ### Research
 - [Accessibility recommendations](https://docs.google.com/document/d/1kNLPUKnwr-k0sIogzc7MdpUqk4vF4mL3hIEg_qqmZuI/edit?usp=sharing)
 
-
 ### Design & UX
-- Label must say “Sort by"
-- For sorting, the pre-selected selection on page load should reflect the way sort is happening on page load
+- Label must say “Sort by".
+- For sorting, the pre-selected selection on page load should reflect the way sort is happening on page load.
 - When sorting accompanies filtering or other results, the “Sort” description can be added to a “results description”. For example, “Showing 1–10 of 999 results for "2020" with 5 filters applied. Sorted by [Sort method].”
-- The sort control must use a native <select> element for predictable keyboard and AT behavior.  
-- Changing a sort value must not cause unexpected navigation; only the relevant results region updates.  
-- Focus must remain stable and visible after sorting.  
-- Live region must announce sorting changes with dataset and page context.  
-- The sort must re-sort the entire data set, not just the data available in a paginated view. 
-- When navigating through paginated results, the sort criteria must be maintained
+- The sort control must use a native `<select>` element for predictable keyboard and AT behavior.
+- Changing a sort value must not cause unexpected navigation; only the relevant results region updates.
+- Focus must remain stable and visible after sorting.
+- Live region must announce sorting changes with dataset and page context.
+- The sort must re-sort the entire data set, not just the data available in a paginated view.
+- When navigating through paginated results, the sort criteria must be maintained.
 - Following Loading state rules for sorting that may take awhile.
 - Focus stay on sort component after a selection is made
 - When sorting paginated results, the dataset resets the user to page 1.
 
-
 ### Content Considerations
-- Is there new content that needs to be run by CIA?
-- Error states, hint text?
+- **A default sort option should always be provided.** It should also be the one that users would expect the most. In contexts that include Searches, `Relevance` is often the default. Note that the `- Select-` option that is native to the Select component should not be available to the user.
+- **Name sort options consistently.** Sort options (aside from the option to sort by Relevance or another algorithmic method) should follow this convention:`[Sort attribute] (sort method)`. For example:
+    - *Date entered (newest to oldest)*
+    - *Medication name (A to Z)*
+    - *Refills remaining (least to most)*
+    
+    While the `[Sort attribute]` can vary greatly, `[sort methods]` should be consistent. Deviations are permissible depending on the context, but teams should aim to align with the following list:
+    - **Alphabetical**
+        - A to Z      
+    - **Chronological**
+        - Newest to oldest
+    - **Numerical**
+        - Least to most
+        - Closest to furthest
+        - Smallest to largest
+        - Lowest to highest
+        - Shortest to longest
+  - **If there is no visible label for the sort attribute, create one for the sort option.** A standalone `[sort method]` (aside from Relevance or another algorithmic method) is not recommended.
+  - **Align Sort option labels across mobile and desktop experiences.** If the mobile experience for Prescriptions uses `Date filled (newest to oldest)`, then the desktop experience should use the same as opposed to using something like `Fill date (newest to oldest)`.
+  - **Users should generally be able to sort data in both directions.** For example, a user should be able to sort medication names from A to Z and Z to A.
+    * Sorting in the opposite direction is not necessary if it doesn't reasonably represent a user goal. For example, it may not make sense to allow a user to sort VA locations from furthest to closest.
+  - **Only include a sort option if it is relevant to the user.** Just because information can be sorted does not mean it should. Use best judgement to determine whether a user would reasonably need a sort option. 
 
 ### Structure & Content
 - What are the required and optional props/inputs?
