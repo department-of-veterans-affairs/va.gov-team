@@ -49,8 +49,8 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] General accessibility guidance
     - [ ] Review of results from VA Section 508 Office
     - [ ] Answer questions about accessibility
-    - [ ] **Something else:**  `insert type of collaboration`
-    - [ ] **Unsure?** _Check this box if you're not sure what kind of support you need and/or want to meet with us._
+- [ ] **Something else:**  `insert type of collaboration`
+- [ ] **Unsure?** _Check this box if you're not sure what kind of support you need and/or want to meet with us._
 
 ## Your Timeframe
 
@@ -66,23 +66,6 @@ Tell us more about the **product or feature** that you're working on:
 - `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
 - `Link to product information`
   
-### For design, audits, and general guidance
-<details><summary>Share details about what needs reviewing:</summary>
-
-#### Starting URL
-`URL`
-#### Login information (if applicable)
-`username and password`
-#### What screens need to be tested?
-`user flow diagram, mockup, or list of screens`
-#### Are there any custom (non-VADS) components in use? Where?
-`custom components`
-#### Additional artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. 
-- [Artifact 1](`insert URL here`)
-- [Artifact 2](`insert URL here`)
-
-</details>
 
 ### For research support
 
@@ -122,8 +105,26 @@ _Select all that apply:_
 
 </details>
 
+### For design, audits, and general guidance
+<details><summary>Share details about what needs reviewing:</summary>
 
-### Collaboration Cycle 
+#### Starting URL
+`URL`
+#### Login information (if applicable)
+`username and password`
+#### What screens need to be tested?
+`user flow diagram, mockup, or list of screens`
+#### Are there any custom (non-VADS) components in use? Where?
+`custom components`
+#### Additional artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. 
+- [Artifact 1](`insert URL here`)
+- [Artifact 2](`insert URL here`)
+
+</details>
+
+
+### For Collaboration Cycle related support
 <details><summary>For VFS teams only</summary>
 
 #### Ticket number (if applicable)
