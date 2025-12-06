@@ -2,7 +2,7 @@
 
 *We pronounce “ADE” like the word “aide”*
 
-ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance. ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
+ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance throughout the product development lifecycle. ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
 
 Our accessibility service offerings are described below. 
 
@@ -218,7 +218,8 @@ ADE evaluates a COTS product for accessibility issues.
   * You’ll have a better understanding of the COTS product’s accessibility and whether to use it for your project.  
   * You’ll get a list of defects that you can share with the COTS provider, who may be willing to revise their product.  
 * Considerations:   
-  * You may discover that the COTS product is inaccessible, but it’s already been launched. This would lead to tough questions about how to move forward.</details>
+  * You may discover that the COTS product is inaccessible, but it’s already been launched. This would lead to tough questions about how to move forward.
+  * The ADE audit does not replace audits that may be a mandatory part of the procurement process, such as an audit by the VA Section 508 Office. </details>
 
 <details>
 <summary>PDF audit</summary>
