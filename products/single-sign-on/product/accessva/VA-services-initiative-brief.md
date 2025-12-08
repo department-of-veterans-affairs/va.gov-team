@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# "AccessVA" to "VA services" Initiative Brief
 #### Overview
 
 <details>
@@ -25,16 +25,17 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* Eliminate the custom, external AccessVA site by providing a place on VA.gov for the various types of users to access their needed applications. 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Single-Sign On (External) | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/single-sign-on#product-outline) 
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Business case: AccessVA is a custom site which costs overhead to maintain => moving to VA.gov would help lesseon/remove this overhead.
+* UX case: AccessVA is a "legacy" site and does not meet modern VA experience standards => redesigning the page according to the VA Design System will help guarantee the site is compliant and accessible.
+* "Technology" case: AccessVA uses ISVA. As the VA works to modernize it's SSO architecture, continued use of ISVA is unclear => moving off ISVA removes the risk of a "rug pull" via the removal of the underlying technology.
+* "VA Strategy" case: Visiting AccessVA is the 1st step for accessing some key services that don't have an unauth state to offer users. Consolidating services to VA.gov falls in line with the ["Digital Front Door" campaign](https://digital.va.gov/office-of-information-and-technology/digital-front-door/).
 
 <!--
 ## Desired User Outcomes
@@ -67,9 +68,10 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Users must use this page to access certain services they currently access via AccessVA.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - We're using the same categories from AccessVA on the new page + the accordion method of organizing application links. This should feel somewhat familiar to AccessVA users.
+  - Because the page is relatively simple, we could do unmoderated testing if needed.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
