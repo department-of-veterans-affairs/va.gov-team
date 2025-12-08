@@ -25,7 +25,8 @@ ADE helps you plan your upcoming research with participants who use AT. ADE can 
 
 * **When to use this service:**  
   * You want to conduct user research with participants who use assistive technology.  
-* **Time needed:** 1-2 days  
+* **Time needed:** 
+  * 1-2 days  
 * **Who does what:**  
   * **Requesting team:** Schedule a time during Accessibility Office Hours or submit a research intake ticket. If available, share your research plan and conversation guide.   
   * **ADE:** Answer questions about accessibility research, review research plan and conversation guide and provide feedback, (optional) observe pilot sessions to provide feedback on research moderation.  
@@ -85,7 +86,8 @@ ADE helps your team consider accessibility from the very start of the design pro
 
 * **When to use this service:**  
   * You understand the problem space you’re trying to address and are just beginning to ideate on design solutions like user flow diagrams and workflows.  
-* **Time needed:** 1-2 days  
+* **Time needed:** 
+  * 1-2 days  
 * **Who does what:**  
   * **Requesting team:** Submit an intake ticket. Provide whatever you have at this point \-- description of the problem you’re trying to solve, user flow diagrams, initial wireframes \-- and a way to get in touch with you.   
   * **ADE:** Review your artifacts and write up recommendations. Meet with you or share feedback asynchronously.  
