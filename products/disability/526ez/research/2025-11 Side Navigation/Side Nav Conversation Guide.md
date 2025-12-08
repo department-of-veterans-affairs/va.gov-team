@@ -46,48 +46,54 @@ Tip
 
 # **Introduction (5 minutes)**
 
-**Welcome**, and thank you so much for taking the time to join us today. My name is \[NAME\], I am a Designer and Researcher that works on a team to improve the experience Veterans have when submitting disability claims and help them get benefits as quickly as possible.
+[Moderator Introduction]
+Welcome and thank you so much for taking the time to join us today. 
 
-**I'm going to start by sharing what we hope to do today** and providing an overview of the session. Then we'll do some introductions and get started with our exercise.
+My name is [NAME], I am a Designer and Researcher and will be moderating our session today. XX is joining us as a notetaker today.I am part of a team that focuses on improving the Veteran experience when submitting disability claims on VA.gov.
 
-\[PAUSE\] Does that sound good?
+[Goal]
+Today we will be getting your feedback on a new navigation feature for the Disability Benefits form.
 
-What we want to do today is get your feedback on a navigation feature on the Disability Benefits form (526EZ form) so we can make it easier to fill out the form.
+[Disclaimer]
+If you have filled out this form before or have applied for disability benefits in the past, we may go over parts that have caused frustration. We don’t intend to bring up any challenges you may have experienced with getting benefits.
+We also do not contact or work with claims reviewers, and we do not have any access to your personal or medical records. 
 
-If you have filled out this form before, I want you to know that today, I don’t want to add to any frustration you may have had with getting benefits. As a heads up, we may take a look at disability claims experiences that may have caused frustration for you in the past, and I want you to know upfront that I don't have any contact with claims reviewers and I don't have any access to your records. However, I do want to gather your feedback in case there are things we can improve in the future. 
+[Session Details]
+A few things about today’s session: 
+This entire session should take about 75 minutes. I want to be sure we end on time, so I may occasionally prompt you with the next question or topic.
+In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. We also welcome any of your feedback, and we won't be offended by any opinions you express.
 
-[PAUSE] **Do you have any questions so far?**
+Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your VA benefits. If you would like to stop the session at any time or do not want to answer a question for any reason, please let me know.
+The folks who invited you to participate in this interview asked if it was ok to allow people to observe, but I want to double-check with you before we keep going. Are you okay with a couple of additional observers during this session?
 
-***Now we'll talk a little about the session***: 
+[If no: Use Slack to ask the observers to leave the Zoom.]
+[If yes: Admit observers.]
 
-* **This entire session should take about 60 minutes**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.  
-* **In this session, we want to hear your honest opinions**. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.  
-* **Your participation in this interview is completely voluntary**. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.  
-* I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**  
-  * If no: Use Slack to kindly ask the observers to leave the Zoom.  
-  * If yes: Admit observers.
+[Notetaker and observers: camera ON, mic UNMUTED]
+I’ll now pass it over to my colleagues briefly introduce themselves.
+- [Notetaker] Hi, my name is [NOTETAKER NAME] and I am a [ROLE].
+- [Observers] Hi, my name is [OBSERVER NAME] and I am a [ROLE].
+- [Notetaker and observers: turn camera OFF, and mic MUTED]
+  
+If you don’t mind, we would also like to get to know you a little bit. Could you introduce yourself and share your connection to VA?
 
-Tip
+Before we start, I want to go over what you’ll be testing. We are working to improve the experience of completing the disability benefits form on VA.gov, specifically going back and forth between different sections of the form. We’ll be asking for your feedback on two different concepts. 
 
-* Then, ask the notetaker and observers to give **a brief, camera-on introduction, like their first name and position with VA.gov**. (This is meant to humanize the interaction of observation for the participant.)  
-* Also ask the participant to give a brief introduction of themselves. ("Would you mind telling us a bit about yourself and your connection to the VA?")  
-* Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+You will be interacting with a prototype today. This is a demo version that is shorter than the regular version of the form and may not function exactly as you expect. Some areas of the prototype will be clickable, and some will not.
 
-***Now, I’ll talk a little bit about what you’ll be testing***. We are working to improve the online disability benefits form, specifically how someone might navigate between different sections in the form. We are looking to incorporate your feedback on our work in progress. To do so, we will be asking you to interact with a demo version of the form, which is shorter than the regular version of the form, and we’d like to gather your thoughts as you interact with it. We’ll be asking for your feedback on two concepts today. 
+For some of the areas that are clickable, we have prefilled information so that you do not have to spend time typing answers to certain questions. None of this information is real and therefore your actions during the demo will not affect your VA information or benefits.
 
-Just so you know, you will be seeing some prefilled data as you interact with our demo. None of the data you see is real veteran data. Also, none of your actions during the demo will affect your VA information or benefits.
+[PAUSE] Do you have any questions for me before we get started?
 
-\[PAUSE\] Do you have any questions for me before we get started?
+[Screen record consent]
+To ensure we have captured your opinions accurately, we would like to record your screen and audio for today’s session. These recordings serve for notetaking purposes only. None of your comments will be attributed to you directly.
 
-**Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. None of your comments will be attributed to you directly.
+Are you comfortable with us recording your screen and audio for today’s session?
+[If yes]
+I will start recording now. Once it begins, I am going to ask again if you are okay with us recording this session.
+➡️ [Start recording]
+Are you comfortable with us recording your screen and audio for today’s session?
 
-**Knowing that, are you comfortable if I record my screen and audio as we talk today?**
-
-**\[Record answer here\]**
-
-If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
-
-➡️ Start recording.
 
 Tip: 
 
