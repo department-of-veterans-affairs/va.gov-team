@@ -73,11 +73,8 @@ Tell us more about the **product or feature** that you're working on:
 
 #### Links to artifacts:
 - [Research plan](`insert URL here`)
-
 - [Conversation guide](`insert URL here`)
-
 - [Research folder in github](`insert URL here`)
-
 - [Prototype or mockups](`insert URL here`)
 
 #### What types of AT do you want to test?
@@ -97,7 +94,7 @@ _Select all that apply:_
 - [ ] Tablets
 - [ ] Other: `insert device`
 
-#### What kind of prototypes (if any) are you planning?
+#### What kind of prototypes (if any) are you planning to use?
 - [ ] GitHub Codespace
 - [ ] CodePen
 - [ ] Staging
