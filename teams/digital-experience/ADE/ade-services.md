@@ -109,7 +109,7 @@ ADE evaluates your mockups and helps you create more accessible designs before e
   * **Requesting team:** Submit an intake ticket. Provide a description of the product and a link to your mockup, ideally with accessibility annotations.   
   * **ADE:** Review your mockup for accessibility issues related to color, spacing, headings, intended focus management, and structure.  
 * **Results:**  
-  * ADE writes up findings and provides them to you either as comments in Github or in the Figma file, whichever works best for you.  
+  * ADE writes up findings and provides them to you either as comments in GitHub or in the Figma file, whichever works best for you.  
 * **Benefits:**  
   * Potential issues are spotted and able to be addressed before development begins, saving time, effort, and money.  
 * **Considerations:**   
