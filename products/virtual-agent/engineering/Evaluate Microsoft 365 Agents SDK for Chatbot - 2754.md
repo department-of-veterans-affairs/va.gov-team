@@ -278,7 +278,7 @@ Use manual Express setup when you need custom middleware, specific routing, or f
 
 ## Migration strategy recommendations
 
-**Phase 1 (Week 1-2)**: Update dependencies and imports
+**Phase 1**: Update dependencies and imports
 
 - Replace all `botbuilder-*` packages with `@microsoft/agents-*` equivalents
 - Update import statements using find-and-replace
@@ -289,7 +289,7 @@ Use manual Express setup when you need custom middleware, specific routing, or f
 - Deal with all test that are broken ie all the things
 - Test authentication in development and staging
 
-**Phase 2 (Week 3-4)**: Feature migration
+**Phase 2**: Feature migration
 
 - Update TurnContext static method calls to Activity instance methods
 - Refactor skills architecture if applicable
@@ -299,4 +299,14 @@ Use manual Express setup when you need custom middleware, specific routing, or f
 
 ## Conclusion
 
-The migration from Bot Framework SDK to Microsoft 365 Agents SDK maintains backward compatibility for core patterns while introducing a more modular, AI-service-agnostic architecture. The most critical changes—explicit JWT middleware and environment variable renaming—require immediate attention, but dialog-based applications can migrate with minimal code changes beyond import statements. The December 31, 2025 end-of-support deadline provides adequate time for a phased migration approach, with the Agents Playground offering a streamlined testing experience throughout the process.
+The migration from Bot Framework SDK to Microsoft 365 Agents SDK claims to maintain backward compatibility for core patterns, but this isn't really the case. 
+
+- The largest breaking change is the removal of DialogTestClient. ALL of our main conversational tests, along with our deepeval integration rely on this, and it being removed will cause significant pain.
+
+- `botbuilder-azure` will need to be replaced with the azure blob storage. We will need to verify that the connection works in dev and that conversation state makes it into the desired container
+
+- The main server implemenation with the new Agents SDK uses Express, and we are using Restify. We should move to Express and evaluate whether this causes any issues.
+
+- Skill creation is an unknown at this time, but signs point to us needing to possibly rewrite skills to use something like langchain or agent frameworks.
+
+- The most critical deployment related changes include explicit JWT middleware for server authentication and environment variable renaming. This would require immediate attention for deployments to continue to function if we move to the Agents SDK.
