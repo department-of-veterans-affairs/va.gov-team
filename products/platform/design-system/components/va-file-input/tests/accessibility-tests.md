@@ -286,6 +286,7 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
 #### Actual behavior:
 
 **Screen readers**
+
 **1. Chrome + VO:**
    - ✅ **When using the link:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
    - ✅ **When dragging the file:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
@@ -357,12 +358,18 @@ A file has already been uploaded.
 **1. 🛑 Chrome + VO:** Inconsistent results with VO.   
   - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title   
   - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."   
-  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."   
+  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."
+
 **2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."     
+
 **3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.   
+
 **4. ✅ Chrome + iOS + VO:** When activating the modal for the first time, sometimes, all I hear are the button labels within the modal. On subsequent loads (without reloading the component page) I hear the modal as expected. In all cases after choosing to delete the file I hear, "Choose from folder. File deleted. No file selected." The virtual cursor is on the text "Choose from folder"   
+
 **5. ✅  Firefox + JAWS:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."   
+
 **6. ✅ Firefox + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "Drag a file here or choose from folder. File deleted. No file selected."    
+
 **7. ✅ Edge + JAWS:**  The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."   
 **8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."   
 
@@ -444,12 +451,17 @@ A valid file is already uploaded.
 #### Actual behavior:
 
 **Screen readers**
-1. Chrome + VO: 
-2. Safari + VO: 
-3. Safari + iOS + VO: 
-4. Chrome + iOS + VO: 
-5. Firefox + JAWS: 
-6. Edge + JAWS: 
+**2. ✅ Chrome + VO:** Behavior is consistent with initial upload. When focus returns to the browser window, VO announces. "Change file. You have selected the file filename.ext"
+**2. ✅ Safari + VO:** Behavior is consistent with initial upload. When focus returns to the browser window, VO announces. "Change file. Selected file filename.ext"
+**3. ✅ Safari + iOS + VO:** First announces the labe, "Input accepts only specific file types. then announces "You have selected filename.ext" Focus indicator is on the change file button but it is not announced.
+**4. ✅ Chrome + iOS + VO:** First announces page `<url>` then "You have selected a file filename.ext"
+**5. ✅ Firefox + JAWS:** Announces firefox tabs, then page `<title>, then "Change file filename.ext You have selected filename.ext." In some cases parts of the announcement are duplicated.   
+
+**6. ✅ Firefox + NVDA:** Announces firefox tabs, then page `<title>, then "Button change file filename.ext. You have selected the file filename.ext." In some cases parts of the announcement are duplicated.
+
+**7. ✅ Edge + JAWS:** Announces edge tabs, then page `<title>, then "Change file filename.ext You have selected filename.ext." In some cases parts of the announcement are duplicated.
+
+**8. ✅ Edge + NVDA:** Announces edge tabs, then page `<title>, then "Button change file filename.ext You have selected the file filename.ext." In some cases parts of the announcement are duplicated.
 
 **Magnifcation & Zoom**
 
