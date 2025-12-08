@@ -61,10 +61,9 @@ Currently, Veterans have no way of seeing actions performed on their account.
 * Users want to see this information.
 
 ## Solution Approach: 
-* 
+<img width="1262" height="798" alt="Screenshot 2025-12-08 at 10 37 56 AM" src="https://github.com/user-attachments/assets/8f49f4ab-f48e-4462-be6a-c00c6bea8422" />
+
   
-
-
 
 ## Measuring Success:
 | KPI           | Notes         | 
