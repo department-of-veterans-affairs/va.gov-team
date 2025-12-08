@@ -61,11 +61,18 @@ ADE supports all teams, with priority given to Veteran Facing Services (VFS) tea
 
 ## About Your Work
 
+Tell us more about what you're working on:
+
+- `Briefly describe your goals or outcomes`
+- `Link to product outline or information`
+  
+  -----
+ORIGINAL:
+
 Tell us more about the **product or feature** that you're working on:
 
 - `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
 - `Link to product information`
-  
 
 ### Research support
 
