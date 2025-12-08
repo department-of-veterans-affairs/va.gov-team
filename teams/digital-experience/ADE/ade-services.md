@@ -136,7 +136,7 @@ ADE conducts a full accessibility review of a live product or coded prototype–
   * Issues mapped to WCAG and CC Collaboration Cycle, and recommendations provided.  
 * **Considerations:**   
   * Slower turnaround than other audits because it’s so comprehensive.  
-  * The ADE audit does not replace the Collaborating Cycle Staging Review.</details>
+  * The ADE audit does not replace the Collaboration Cycle Staging Review.</details>
 
 <details>
 <summary>Critical user flow test</summary>
