@@ -1,4 +1,4 @@
-# **Accessibility Digital Experience (ADE) Team**
+# Accessibility Digital Experience (ADE) Team
 
 *We pronounce “ADE” like the word “aide”*
 
@@ -6,16 +6,16 @@ ADE can help your team deliver accessible products to Veterans and others. We ar
 
 Our accessibility service offerings are described below. 
 
-## **How to contact ADE**
+## How to contact ADE
 
 * Reach out via Slack using `@accessibility-de` on [\#accessibility-help](https://dsva.slack.com/archives/C8E985R32)  
 * [Sign up](https://calendly.com/platform-office-hours/accessibility-office-hours) for our weekly office hours on Zoom (Wed 3-4 pm ET)  
 * Submit an [intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) in GitHub  
 * For research help specifically, submit a [research intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) in GitHub.
 
-## **ADE Services**
+## ADE Services
 
-### **Research support for assistive technology (AT)**
+### Research support for assistive technology (AT)
 
 <details>
 <summary> Research planning and recruitment for AT </summary>
@@ -76,7 +76,7 @@ ADE provides technical assistance for your research participants, as well as acc
 * **Considerations:**   
   * This takes coordination among the team, ADE, and Perigean, and there could be scheduling issues.</details>
 
-### **Design**
+### Design
 
 <details>
 <summary>Support design discovery</summary>
@@ -115,7 +115,7 @@ ADE evaluates your mockups and helps you create more accessible designs before e
 * **Considerations:**   
   * It may take time to revise your designs if ADE recommends major adjustments to ensure accessibility.</details>
 
-### **Audits**
+### Audits
 
 <details>
 <summary>Full accessibility audit</summary>
@@ -261,7 +261,7 @@ ADE reviews HTML emails for accessibility issues and provides remediation recomm
   * Some fixes may need design or engineering updates.   
   * HTML rendering can differ across email clients.</details>
 
-### **General accessibility guidance** 
+### General accessibility guidance 
 
 <details>
 <summary>Review of results from VA Section 508 Office</summary>
