@@ -215,7 +215,7 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 
 **6. Firefox + NVDA:**
   - **When using the link:** N/A
-  - ❓ **When dragging the file:** when dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. The page `<title>` is announced, followed by "Selected files. Error we do not accept mp4 files. Choose a new file. **File deleted. No file selected**" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+  - ✅  **When dragging the file:** when dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. The page `<title>` is announced, followed by "Selected files. Error we do not accept mp4 files. Choose a new file. File deleted. No file selected" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. Note: No other browser is announcing that the file has been deleted. This may feel like a mistake. But I believe it is not.
 
 **7. Edge + JAWS:**
   - **When using the link:** N/A
@@ -287,43 +287,44 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
 
 **Screen readers**
 **1. Chrome + VO:**
-   - ✅ **When using the link:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
-   - ✅ **When dragging the file:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
+   - ✅ **When using the link:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - ✅ **When dragging the file:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
 
 **2. Safari + VO:**
-   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
-   - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."
+   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
 
 **3. Safari + iOS + VO:**
-   - ❌ **When using the link:** After the file uploads, the screen displays the error but focus goes to the label and says "input hasa maximum file-size restriction (specified in bytes)
-   - **When dragging the file:**  N/A 
+   - ❌ **When using the link:** After the file uploads, the screen displays the error but focus goes to the label and says "input hasa maximum file-size restriction (specified in bytes)   
+   - **When dragging the file:**  N/A    
 
 **4. Chrome + iOS + VO:**
-   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
-   - **When dragging the file:**  N/A
+   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - **When dragging the file:**  N/A   
 
 **5. Firefox + JAWS:**
-    - ✅ **When using the link:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly
-    - ✅ **When dragging the file k:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. **It does end up also announcing "File deleted. No file selected"**. When a user does land on the "Change file" button, the error is announced plainly and quickly
+   - ✅ **When using the link:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly   
+   - ✅ **When dragging the file k:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. File deleted. No file selected" This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly
 
 **6. Edge + JAWS:**
   - ✅ **When using the link:** Focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
   - ✅ **When dragging the file:** When dragging the file, focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
 
 **7. Firefox + NVDA:**
-    - ❓ **When using the link:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces the input label hint text and form controls I hear it announce "Drag a file here or choose from folder". Then it announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. **It does end up also announcing "File deleted. No file selected"** When a user does land on the "Change file" button, the error is announced plainly and quickly
-    - ❓ **When dragging the file k:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. **It does end up also announcing "File deleted. No file selected"**. When a user does land on the "Change file" button, the error is announced plainly and quickly
+    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+    - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
 
 **8. Edge + NVDA:**
-  - ✅ **When using the link:** Focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-  - ✅ **When dragging the file:** When dragging the file, focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-  - 
+    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Selected files. Selected Files. jaws-segmented-filename.mp4. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+    - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Input has a maximum file size restruction specified in bytes. Drag a file here or choose from folder. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+  
 **Magnifcation & Zoom**
 
 **Voice control**
 
 **Additional testing needed**
-
+1. Android - talkback
+   
 ---
 
 ### Test ID: delete-file
@@ -338,30 +339,39 @@ Ensure deleting a file updates the interface correctly and annunciation is acces
 A file has already been uploaded.
 
 **Steps:**  
-1. When the user activates the **Delete** button.  
+1. User navigates to the **Delete** button and activates it 
 
 **Expected Result:**  
+- The accessible name of the button includes the name of the file being deleted.
 - Then the UI displays a modal confirming the deletion.
-- And the user confirms the deletion
+- And focus is on the close button of the modal.
+- The modal announces "Close delete this file modal button"
+- And the user tabs to the delete button to confirm the deletion
 - And the user is returned to the empty/upload state.  
-- And screen readers announce the change (e.g., “File removed”).  
+- And screen readers announce the change “File deleted, no file selected”  
 - And focus moves to the next logical interactive element  
 
 #### Actual behavior:
 
 **Screen readers**
-1. Chrome + VO: 
-2. Safari + VO: 
-3. Safari + iOS + VO: 
-4. Chrome + iOS + VO: 
-5. Firefox + JAWS: 
-6. Edge + JAWS: 
+**1. 🛑 Chrome + VO:** Inconsistent results with VO.
+  - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title
+  - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."
+  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."
+**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."  
+**3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.
+**4. ✅ Chrome + iOS + VO:** When activating the modal for the first time, sometimes, all I hear are the button labels within the modal. On subsequent loads (without reloading the component page) I hear the modal as expected. In all cases after choosing to delete the file I hear, "Choose from folder. File deleted. No file selected." The virtual cursor is on the text "Choose from folder"
+**5. ✅  Firefox + JAWS:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."
+**6. ✅ Firefox + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "Drag a file here or choose from folder. File deleted. No file selected. 
+**7. ✅ Edge + JAWS:**  The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."
+**8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."
 
 **Magnifcation & Zoom**
 
 **Voice control**
 
 **Additional testing needed**
+1. Android - talkback
 
 
 ---
