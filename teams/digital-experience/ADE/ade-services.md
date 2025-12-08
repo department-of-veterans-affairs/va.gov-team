@@ -130,7 +130,7 @@ ADE conducts a full accessibility review of a live product or coded prototype–
   * **Requesting team:** Request via intake ticket with the scope of the product (including a user flow diagram, so ADE knows about all screens and interactions).   
   * **ADE:** Perform a comprehensive audit. Test keyboard functionality, color contrast, magnification, heading structure, tab order, focus management, and AT usage across a variety of devices for every page/screen.  
 * **Results:**   
-  * ADE provides a list of AT issues, each with a description, severity level, steps to reproduce, screenshots / video, and recommendations to fix.  
+  * ADE provides a list of AT issues, each with a description, severity level, steps to reproduce, screenshots/video, and recommendations to fix.  
 * **Benefits:**   
   * The most comprehensive accessibility audit at VA (more than both Collaboration Cycle and 508).  
   * Issues mapped to WCAG and CC Collaboration Cycle, and recommendations provided.  
@@ -188,10 +188,10 @@ The VA Section 508 Office focuses on WCAG compliance and reports violations with
 * **Time needed:**   
   * Audits can take anywhere between a day to a week, depending on the size of the product.   
 * **Who does what:**  
-  * **Requesting team:** Submit an intake ticket at least 2 weeks before you plan to submit your product to the 508 Office. Unless there are major fixes, this should give your team time to make changes based on ADE feedback.   
+  * **Requesting team:** Submit an intake ticket at least 2 weeks before you plan to submit your product to the 508 Office. Unless there are major fixes, this should give your team time to make changes based on feedback from ADE.   
   * **ADE:** Perform a comprehensive audit. Test keyboard functionality, color contrast, magnification, heading structure, tab order, focus management, and AT usage across a variety of devices for every page/screen.  
 * **Results:**   
-  * ADE provides a list of accessibility issues with descriptions, what WCAG violations apply to each issue, screenshots and/or video, and recommendations for remediation.  
+  * ADE provides a list of accessibility issues with descriptions, what WCAG violations apply to each issue, screenshots/video, and recommendations for remediation.  
 * **Benefits:**   
   * You’ll have a better understanding of what the 508 Office will likely find, and time to fix issues before they do.  
 * **Considerations:**   
@@ -229,7 +229,7 @@ ADE reviews a PDF for accessibility issues and provides remediation recommendati
 * **When to use this service:**  
   * A PDF is part of your product (or *is* the product). The PDF is public-facing and used by Veterans.  
 * **Time needed:**   
-  * Varies depending on the complexity of the content and number of pages  
+  * Varies depending on the complexity of the content and number of pages.  
   * Roughly one hour per 10 pages   
 * **Who does what:**  
   * **Requesting team:** Submit an intake ticket. Attach a copy of the PDF with PII/PHI removed. Share when and how the PDF is generated, and how users access the PDF.   
@@ -271,9 +271,9 @@ Findings from the VA Section 508 Office can be hard to interpret. ADE can review
 * **When to use this service:**  
   * You’ve received feedback from the 508 Office, and need help interpreting defects and resolving them.  
 * **Time needed:**   
-  * Generally 1-2 days.  
+  * Generally 1-2 days  
 * **Who does what:**  
-  * **Requesting team:** ADE receives OCTO 508 Office findings and will contact you to offer help interpreting the results and fixing issues. Respond if you want help.  
+  * **Requesting team:** ADE receives 508 Office findings and will contact you to offer help interpreting the results and fixing issues. Respond if you want help.  
   * **ADE:** (If requested) Reviews the issues, investigates to determine if any issue originates from a different team (e.g., Sitewide, Design System team), and writes up tickets as needed.  
 * **Results:**  
   * A summary that includes the following:  
@@ -294,7 +294,7 @@ ADE can answer your accessibility questions in Slack or in Accessibility Office 
 * **When to use this service:**  
   * You have questions about accessibility, but don’t need ongoing ADE support. Questions can range from accessibility test planning to color contrast issues, and anything in between.  
 * **Time needed:**   
-  * Via Slack, within a day.  
+  * Via Slack, within a day  
   * Office Hours sessions are 25 minutes  
 * **Who does what:**  
   * **Requesting team:**   
