@@ -439,4 +439,52 @@ Note: Most of these tasks will be setting up the infrastructure
 - Add to main ClaimProvider dashboard
 - Set up alerting for anomalies in provider class and datasource service
 
+## vets-website integration
 
+### Issue: How to navigate to an individual claim from a dynamically rendered claim provider in vets-website with minimal disruption/blast radius and scalability. 
+
+Summary: Adding type Parameter to Claims URLs
+
+  Goal
+
+  Pass a claim type (champva, benefit-claim, appeal) to the backend while preserving backward compatibility with existing bookmarks.
+
+  ---
+  Two Approaches Considered
+
+  | Approach     | URL Pattern                   | Backward Compatible?  |
+  |--------------|-------------------------------|-----------------------|
+  | Query Param  | /your-claims/123?type=champva | ✅ Old URLs work as-is |
+  | Path Segment | /your-claims/champva/123      | ⚠️ Requires redirect  |
+
+  ---
+  Recommendation: Query Parameter
+
+  Why it's the better fit:
+
+  1. Zero breaking changes - /your-claims/123/status continues to work, defaults to benefit-claim
+  2. No route changes - Existing nested routes (/status, /files, /overview) remain untouched
+  3. Semantic fit - type is a modifier/filter, not a hierarchical parent of the claim
+  4. Simple implementation - Just read useSearchParams() in ClaimPage
+
+  Implementation:
+  - ClaimPage.jsx: Read type from query params, pass to getClaim
+  - getClaim action: Append ?type= to API call when provided
+  - Links to new claim types include ?type=champva; legacy links unchanged
+
+  ---
+  Alternative: Path Segment with Redirect
+
+  If you prefer the cleaner URL aesthetic of /your-claims/champva/123:
+
+  - Add redirect route: /your-claims/:id → /your-claims/benefit-claim/:id
+  - Canonical route: /your-claims/:type/:id with nested children
+  - Old bookmarks redirect to new URL pattern
+
+  Tradeoff: URL changes in address bar after redirect.
+
+  ---
+  Bottom Line
+
+  Query param is the pragmatic choice - least disruption, full backward compatibility, and semantically appropriate for optional metadata. Path-based works but
+  requires more routing changes and redirects.
