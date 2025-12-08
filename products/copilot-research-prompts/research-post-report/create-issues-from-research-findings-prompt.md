@@ -145,7 +145,7 @@ By following these steps, you can ensure that your research insights are transla
 ## Prompt (Copy and Paste - No Editing Required)
 
 ```
-I need to create GitHub issues from the Recommendations and Next Steps sections of this research findings report.  
+/create-issue I need to create GitHub issues from the Recommendations and Next Steps sections of this research findings report.  
 
 **IMPORTANT: You MUST create these issues ONE AT A TIME.  After creating each draft issue in the workbench, STOP and ask me for feedback before proceeding to the next recommendation or next step.**
 
