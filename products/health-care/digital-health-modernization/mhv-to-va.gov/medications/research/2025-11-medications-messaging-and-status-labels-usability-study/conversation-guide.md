@@ -142,6 +142,7 @@ If you are ready, we can begin. 
 
 ## First task: Status comprehension
 
+Before we begin, you may notice that these medications are not familiar. This is a test example , but it does scroll like a normal website would. 
 Now we'll begin our first set of questions.
 
 1. Tell me what you see on the page.
