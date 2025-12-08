@@ -839,20 +839,18 @@ A reusable notification system used across multiple pages to display success and
     </div>
   </li>
   ```
-- Alert Types (11 types defined in `utils/appeals-v2-helpers.jsx`):
+- Alert Types (9 types defined in `utils/appeals-v2-helpers.jsx`):
   - **Take Action alerts** (usa-alert-warning):
     - `form9Needed` - Return VA Form 9 by due date
     - `scheduledHearing` - Upcoming hearing scheduled
     - `hearingNoShow` - Missed hearing, action required
     - `heldForEvidence` - Evidence submission window open
-    - `cavcOption` - Court appeal option available
   - **Info alerts** (usa-alert-info):
     - `rampEligible` - RAMP program eligibility notification
     - `rampIneligible` - RAMP program ineligibility notice
     - `decisionSoon` - Decision timeline information
     - `blockedByVso` - VSO representation blocking
     - `evidentiaryPeriod` - Evidence submission period
-    - `amaPostDecision` - Post-decision options available
 - Deviations from Design System:
   - **Legacy USWDS classes**: Uses `usa-alert`, `usa-alert-warning`, `usa-alert-info` instead of modern `<va-alert>` web components
   - **Alerts in list items**: Wraps alerts in `<li>` elements, which is non-standard for alerts
