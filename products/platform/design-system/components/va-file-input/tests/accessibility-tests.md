@@ -307,15 +307,15 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
    - ✅ **When dragging the file k:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. File deleted. No file selected" This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly
 
 **6. Edge + JAWS:**
-  - ✅ **When using the link:** Focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-  - ✅ **When dragging the file:** When dragging the file, focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+  - ✅ **When using the link:** Focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.   
+  - ✅ **When dragging the file:** When dragging the file, focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.   
 
-**7. Firefox + NVDA:**
-    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
-    - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+**7. Firefox + NVDA:**   
+    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
+    - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
 
-**8. Edge + NVDA:**
-    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Selected files. Selected Files. jaws-segmented-filename.mp4. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+**8. Edge + NVDA:**   
+    - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Selected files. Selected Files. jaws-segmented-filename.mp4. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
     - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Input has a maximum file size restruction specified in bytes. Drag a file here or choose from folder. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
   
 **Magnifcation & Zoom**
@@ -353,18 +353,18 @@ A file has already been uploaded.
 
 #### Actual behavior:
 
-**Screen readers**
-**1. 🛑 Chrome + VO:** Inconsistent results with VO.
-  - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title
-  - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."
-  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."
-**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."  
-**3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.
-**4. ✅ Chrome + iOS + VO:** When activating the modal for the first time, sometimes, all I hear are the button labels within the modal. On subsequent loads (without reloading the component page) I hear the modal as expected. In all cases after choosing to delete the file I hear, "Choose from folder. File deleted. No file selected." The virtual cursor is on the text "Choose from folder"
-**5. ✅  Firefox + JAWS:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."
-**6. ✅ Firefox + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "Drag a file here or choose from folder. File deleted. No file selected. 
-**7. ✅ Edge + JAWS:**  The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."
-**8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."
+**Screen readers**   
+**1. 🛑 Chrome + VO:** Inconsistent results with VO.   
+  - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title   
+  - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."   
+  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."   
+**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."     
+**3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.   
+**4. ✅ Chrome + iOS + VO:** When activating the modal for the first time, sometimes, all I hear are the button labels within the modal. On subsequent loads (without reloading the component page) I hear the modal as expected. In all cases after choosing to delete the file I hear, "Choose from folder. File deleted. No file selected." The virtual cursor is on the text "Choose from folder"   
+**5. ✅  Firefox + JAWS:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."   
+**6. ✅ Firefox + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "Drag a file here or choose from folder. File deleted. No file selected."    
+**7. ✅ Edge + JAWS:**  The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."   
+**8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."   
 
 **Magnifcation & Zoom**
 
@@ -392,20 +392,26 @@ The file-upload field is marked as required.
 1. When the user activates **Continue** without uploading a file.  
 
 **Expected Result:**  
-- Then the UI shows an error message (“Please upload a file”).  
-- And the error is linked to the field using `aria-describedby` or error associations.  
+- Then the UI shows an error message (“Upload a file”).
+  - The error message should be descriptive, perhaps explaing again the file expected.   
+- And the error is linked to the field using `aria-describedby`.  
 - And screen readers announce the message.  
-- And focus moves to the error summary (if present) or is placed on the file input.  
+- And focus is placed on the file input.  
 
 #### Actual behavior:
+
+> [!NOTE]
+> This cannot be tested in storybook at this time. For anyone implementing this pattern the expected results should drive your testing.
 
 **Screen readers**
 1. Chrome + VO: 
 2. Safari + VO: 
 3. Safari + iOS + VO: 
 4. Chrome + iOS + VO: 
-5. Firefox + JAWS: 
-6. Edge + JAWS: 
+5. Firefox + JAWS:
+6. Firefox + NVDA:
+7. Edge + JAWS:
+8. Edge + NVDA
 
 **Magnifcation & Zoom**
 
