@@ -1,10 +1,10 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Team, Product, Date]"
-date: YYYY-MM-DD
-last_updated: YYYY-MM-DD
-team: "[Team Name]"
-product: "[Product Name]"
+title: "Research Plan for [Health Applications, 10-10d CHAMPVA , January 2026]"
+date: 2026-01-DD
+last_updated: 2025-12-08
+team: "[Health Applications]"
+product: "[10-10d]"
 product_area: "[e.g., authenticated/unauthenticated]"
 
 # Background Context
@@ -106,14 +106,16 @@ tags:
   - "[research-phase]"
 ---
 
-	# Research Plan for [Team, Product, Date]
-> [!NOTE]
-> *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
+	# Research Plan for [Health Applications, 10-10d CHAMPVA Application, December 2025]
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
+
+Explore two options around the tricare eligibility check and new flow
+
+
 
 **[Enter answer here]**
   
@@ -195,11 +197,11 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**
 
-`2.` **[Enter answer here]**
+`2.` **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**
 
-`3.` **[Enter answer here]** 
+`3.` **[Learn if there are any usability issues with the new VADS eligibility pattern ]** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
