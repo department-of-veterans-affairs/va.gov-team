@@ -2,6 +2,12 @@
 This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal CMS for VA.gov are aligned on any shared work or dependencies.
 
 ### Running Agenda
+12/11/2025
+* Unpublished content in right-hand menu on Content Build page: https://www.va.gov/decision-reviews/
+    * We have seen similar issue with CB showing unpublished content previously.
+    * Do we want to just publish this content since Editors and Veterans are acustomed to seeing it already?
+* 
+
 11/26/2025
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
     * tickets have been updated
