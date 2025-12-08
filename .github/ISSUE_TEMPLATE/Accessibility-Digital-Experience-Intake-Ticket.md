@@ -67,9 +67,9 @@ Tell us more about the **product or feature** that you're working on:
 - `Link to product information`
   
 
-### For research support
+### Research support
 
-<details><summary>Fill in whatever research details you know at this time:</summary>
+<details><summary>Share any research details you know at this time:</summary>
 
 #### Links to artifacts:
 - [Research plan](`insert URL here`)
@@ -102,8 +102,8 @@ _Select all that apply:_
 
 </details>
 
-### For design, audits, and general guidance
-<details><summary>Share details about what needs reviewing:</summary>
+### Design, audits, and general guidance
+<details><summary>Share details about your product or design:</summary>
 
 #### Starting URL
 `URL`
@@ -121,8 +121,8 @@ Provide links to any supporting artifacts that can help us better understand you
 </details>
 
 
-### For Collaboration Cycle related support
-<details><summary>For VFS teams only</summary>
+### Collaboration Cycle related support (VFS teams only)
+<details><summary>Share details about your touch points:</summary>
 
 #### Ticket number (if applicable)
 `Link to main Collaboration Cycle ticket`
