@@ -127,13 +127,12 @@ Provide links to any supporting artifacts that can help us better understand you
 #### Ticket number (if applicable)
 `Link to main Collaboration Cycle ticket`
 
-#### Which phases of the collaboration cycle have you completed?
-_Select all that apply:_
-- [ ] Kickoff/PO Sync
-- [ ] Design intent
-- [ ] Midpoint review
-- [ ] Staging review
-</details>
+#### What is the last phase of the Collaboration Cycle that you completed?
+`phase name`
+
+#### What is the next phase of the Collaboration Cycle that you plan to attend?
+`phase name`
+
 
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket
