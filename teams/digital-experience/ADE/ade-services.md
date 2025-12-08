@@ -27,7 +27,7 @@ ADE helps you plan your upcoming research with participants who use AT. ADE can 
   * You want to conduct user research with participants who use assistive technology.  
 * **Time needed:** 1-2 days  
 * **Who does what:**  
-  * **Requesting team:** Schedule a time during Accessibility Office Hours or submit a research intake ticket. If available, share research plan and conversation guide.   
+  * **Requesting team:** Schedule a time during Accessibility Office Hours or submit a research intake ticket. If available, share your research plan and conversation guide.   
   * **ADE:** Answer questions about accessibility research, review research plan and conversation guide and provide feedback, (optional) observe pilot sessions to provide feedback on research moderation.  
 * **Results:**   
   * Your team’s researcher learns about planning and conducting AT research, and their research plan and conversation guide include AT research best practices.   
@@ -39,7 +39,7 @@ ADE helps you plan your upcoming research with participants who use AT. ADE can 
 <details>
 <summary> Pilot participants who use AT</summary>
 
-ADE pilots your upcoming research using AT. You practice running a session and get experience with participants that use assistive technology.
+ADE pilots your upcoming research using AT. You practice running a session and get experience with participants who use assistive technology.
 
 * **When to use this service:**  
   * You are preparing for research with AT users and want a trial run before the study begins.  
