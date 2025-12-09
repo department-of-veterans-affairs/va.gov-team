@@ -1,8 +1,6 @@
 
 	# Research Plan for Pension Burial Benefits, Pension Form (527EZ), Dec 2025
 
-[WIP]
-
 ## Background 🏗️
 	
 `What problem is your product trying to solve?`
