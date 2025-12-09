@@ -16,7 +16,7 @@ a. If this is an incident:
    - Create incident log
    - Determine and record the severity. Severity matrix from VA Platform
 
-From VA Pension Benefits Incident Response (IR) Standard Operating Procedure, report ANY event actually or potentially jeopardizing:
+Report ANY event actually or potentially jeopardizing:
 - Confidentiality/integrity/availability of systems
 - Information processed, stored, or transmitted
 - Constituting a violation / imminent threat of violation of VA security policies, procedures, or acceptable use policies
@@ -78,7 +78,7 @@ The Incident Coordinator role transfers to PdM
 - Long-term items prioritized as needed in the roadmap
 - Impact analysis completed
 
-## VA Pension Benefits Key Contact Roster
+## VA Lifestage Benefits Key Contact Roster
 
 If people are unresponsive via Slack and email, here are alternate communication channels.
 OCTO Enablement Team
@@ -86,7 +86,7 @@ OCTO Enablement Team
 | Name | Position | Primary Phone | Email |
 |----- | -------- | ------------- | ----- |
 | Sanja Bajovic| OCTO Product Owner | 510-520-1195 | Sanja.Bajovic2@va.gov |
-| Ben Guhin Delphine | OCTO Design Lead | To Be Added | Benjamin.Delphine@va.gov |
+| TBD| OCTO Design Lead | To Be Added | To Be Added|
 
 Delivery Team
 
