@@ -30,8 +30,6 @@ assignees: artsymartha68, lakper, sara-amanda
 ## Collaborate with ADE
 [**Read about ADE and our services**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md)
 
-<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md" target="_blank" rel="noreferrer noopener">**Read about ADE and our services**</a>
-
 ### How would you like to collaborate with ADE?
 - [ ] Research support for assistive technology (AT)
     - [ ] Research planning and recruitment for AT
