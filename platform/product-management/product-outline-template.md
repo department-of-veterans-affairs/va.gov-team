@@ -1,5 +1,5 @@
 
-# Product Outline Template
+# Product Outline
 
 
 ## Overview
