@@ -1,14 +1,14 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
+title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026]"
 author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+date_created: "[2025-12-09]"
+last_modified: "[2025-12-09]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -42,12 +42,12 @@ description: "A template for moderating research sessions including logistics, i
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about making updates to health care information.
+Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) application and eligibility.
 
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
