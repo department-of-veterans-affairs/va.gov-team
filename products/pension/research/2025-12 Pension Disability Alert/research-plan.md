@@ -135,20 +135,20 @@ We want to recruit Veteran participants who have a 100% Disability Rating. These
 
 ### Kick-off Call with Perigean
 
-- `Suggested dates and times:` **TBD**
+- `Suggested dates and times:` **Dec 10-12**
 
 ### Prepare
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **TBD**
-- `Date and time of pilot session:` **TBD**  
+- `Pilot participant name:` **Rocio Santiago**
+- `Date and time of pilot session:` **Dec 16, 1:30-2:15 PM ET**  
 
 ### Research sessions
-- `Planned dates of research:` **TBD**
+- `Planned dates of research:` **Jan 6-12, 2026 (5 business days)**
 
 ### Length of sessions
-- `Session length: **30 minutes**
+- `Session length:` **30 minutes**
   
 - `Buffer time between sessions: ` **30 minutes**
   
@@ -157,7 +157,9 @@ We want to recruit Veteran participants who have a 100% Disability Rating. These
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-TBD
+Jan 6 - 12, 2026 (5 business days)
+
+Available 9 AM - 5 PM ET each of those days
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
