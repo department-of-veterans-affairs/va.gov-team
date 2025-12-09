@@ -37,13 +37,13 @@ description: "A guide for moderating research sessions focused on how Veterans r
 **Moderator Introduction**
 
 > “Hi, thank you for joining us today! My name is [NAME] and I will be moderating today's session.  
-> [NOTETAKER] will be taking notes. We also have a few colleagues observing the session.  
+> [NOTETAKER] will be taking notes. We also have a colleague planning to observe today's session currently in the waiting room.  
 >
-> Today we’ll be talking about how Veterans and other claimants receive messages from the VA about their benefits. For example, notifications that tell you a decision has been made on your disability claim, or that the VA needs more information from you.  
+> Today we’ll be talking about how Veterans and other claimants receive messages from VA about their benefits. For example, notifications that tell you a decision has been made on your disability claim, or that VA needs more information from you.  
 >
-> During today’s session, you’ll hear me use the word **‘channel.’** When I say channel, I mean the way the VA sends you a message — for example, by email, text message (SMS), or an in-app notification inside the VA Health and Benefits mobile app or VA.gov.  
+> During today’s session, you’ll hear me use the word **‘channel.’** When I say channel, I mean the way VA sends you a message — for example, by email, text message (SMS), or a mobile app (push) notification associated with the VA Health and Benefits mobile app or VA.gov.  
 >
-> You’ll also hear me talk about **notifications** — a notification in this context refers to a message that the VA sends to let you know something important about your benefits. For example, an email, a text, or a mobile app(push) notification for the VA Health and Benefits app.  
+> You’ll also hear me talk about **notifications** — a notification in this context refers to a message that VA sends to let you know something important about your benefits. For example, an email, a text, or a mobile app(push) notification for the VA Health and Benefits app.  
 >
 > We’ll look at example notifications for each channel today, and we’ll talk about how clear they feel, what stands out to you, and how you’d prefer to get this kind of information.”  
 
@@ -51,10 +51,11 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - There are no right or wrong answers; we’re interested in your honest thoughts.  
 - Your participation is voluntary and won’t affect your VA benefits in any way.  
 - You can stop or skip any question at any time.
+- If you decide you need to stop at any time, you’ll still be compensated for your time.
 
 **Consent & Recording**
 
-- Are you okay with observers being present in the session?  
+- Are you okay with an observer being present in the session?  
 - Are you okay with us recording the screen and audio? (If yes, start recording and confirm.)  
 - Are you comfortable with us sharing a short, anonymous clip of this session with VA partners for research purposes?
 
@@ -68,7 +69,7 @@ description: "A guide for moderating research sessions focused on how Veterans r
 
 **Prompts:**
 
-- Rapport: *“How is your day going? Tell me a little about your past experience receiving notifications or messages from the VA.”*  
+- Before we look at anything together, I’d like to start by getting to know a bit about how you typically hear from VA. Can you tell me about your past experience receiving notifications or messages from VA — for example, things like letters in the mail, emails, text messages, or app notifications?  
 - How do you usually hear from VA about your benefits or claims? (paper mail, email, text, app)  
 - In the past 6 months, have you received communication about a decision letter, evidence request, or claim status update?  
 - Which device are you using to communicate with us today? What device do you typically use when reviewing information from VA?  
@@ -78,6 +79,9 @@ description: "A guide for moderating research sessions focused on how Veterans r
 ---
 
 ## 4. Screen Sharing (~2 min)
+
+> [Notifications BMT Figma Prototype - Desktop](https://www.figma.com/proto/db26JCYXJtaakOdG4TiNXN/Notifications-BMT?page-id=2556%3A6200&node-id=2764-622&viewport=220%2C537%2C0.12&t=gPDuvgO4bofaBB0z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2764%3A622&show-proto-sidebar=1)
+> [Notifications BMT Figma Prototype - Mobile](https://www.figma.com/proto/db26JCYXJtaakOdG4TiNXN/Notifications-BMT?page-id=2556%3A6200&node-id=2688-356&viewport=220%2C537%2C0.12&t=gPDuvgO4bofaBB0z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2688%3A356&show-proto-sidebar=1)
 
 > “I just dropped a link in the Zoom chat. When you click it, it will open something called Figma.  
 > Figma is just the tool we use to show design examples; it will open right in your web browser like a website.”
