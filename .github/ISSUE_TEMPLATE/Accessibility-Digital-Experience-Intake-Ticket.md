@@ -17,7 +17,7 @@ assignees: artsymartha68, lakper, sara-amanda
     - [ ] Add your product label to this ticket
 - **Team name**: `Team name goes here`
     - [ ] Add your team label to this ticket
-- Are you a Veteran Facing Services (VFS) team?
+- Are you a Veteran-Facing Services (VFS) team?
     - [ ] Yes
     - [ ] No 
 - **OCTO product owner**: `OCTO PO goes here`
@@ -57,7 +57,7 @@ assignees: artsymartha68, lakper, sara-amanda
 ### When would you like to have this work done? 
 `If you have a fixed deadline, let us know`
 
-ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
+ADE supports all teams, with priority given to Veteran-Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
 
 ## About Your Work
 
@@ -66,14 +66,6 @@ Tell us more about what you're working on:
 - `Briefly describe your goals or outcomes`
 - `Link to product outline or information`
   
-  -----
-ORIGINAL:
-
-Tell us more about the **product or feature** that you're working on:
-
-- `Briefly describe what you're working on (i.e., goals/outcomes, product outline)`
-- `Link to product information`
-
 ### Research support
 
 <details><summary>Share any research details you know at this time:</summary>
@@ -134,10 +126,10 @@ Provide links to any supporting artifacts that can help us better understand you
 #### Ticket number (if applicable)
 `Link to main Collaboration Cycle ticket`
 
-#### What is the last phase of the Collaboration Cycle that you completed?
+#### What is the last touchpoint of the Collaboration Cycle that you completed?
 `phase name`
 
-#### What is the next phase of the Collaboration Cycle that you plan to attend?
+#### What touchpoint of the Collaboration Cycle do you need help with?
 `phase name`
 
 
