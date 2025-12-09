@@ -1,6 +1,4 @@
-# WIP CONCEPT
-
-# va-file-input — Accessibility Test Plan
+# va-file-input — Accessibility Tests
 
 ## 🧭 Component Overview
 **Description:**  
