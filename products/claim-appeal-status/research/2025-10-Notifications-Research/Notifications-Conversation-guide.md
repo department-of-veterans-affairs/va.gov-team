@@ -53,8 +53,10 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - You can stop or skip any question at any time.
 - If you decide you need to stop at any time, you’ll still be compensated for your time.
 
-**Consent & Recording**
+- Before we begin, do you have any questions for me about the session or what we’ll be doing today?
 
+**Consent & Recording**
+To ensure everything is clear and comfortable for you, I have a few questions regarding consent before we get started.
 - Are you okay with an observer being present in the session?  
 - Are you okay with us recording the screen and audio? (If yes, start recording and confirm.)  
 - Are you comfortable with us sharing a short, anonymous clip of this session with VA partners for research purposes?
