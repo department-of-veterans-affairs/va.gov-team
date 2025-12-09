@@ -53,6 +53,8 @@ description: "A guide for moderating research sessions focused on how Veterans r
 - You can stop or skip any question at any time.
 - If you decide you need to stop at any time, you’ll still be compensated for your time.
 
+- I want you to know that although I work on the VA.gov website, I have no access to your records or benefits. I don't have the ability to change your claims or benefits in any way. I'm not a specialist in benefits. My primary focus is to understand your experience with the website and mobile app.
+
 - Before we begin, do you have any questions for me about the session or what we’ll be doing today?
 
 **Consent & Recording**
