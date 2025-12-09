@@ -126,8 +126,12 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
   - ✅ **When dragging the file:** When I drag the file, and the UI changes to show the file name, the virtual cursor seems to be on the entire viewport. It reads the page `<title>` tab name, and then will announces "Selected files: filename.extension". The next tab stop is the "Change file" button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
 
 **2. Safari + VO:**   
-  - ✅ When using the link: Focus moves from finder to the browser, and the VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
-  - ✅ When dragging the file: Focus does not move to the browser, even though the UI is updating and the file seems to be uploading. When the user changes focus back to the browser the `<title>` is announced, followed by the label of the file input "Select a file to upload" no success message is announced saying the file is selected or uploaded. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+  - ✅ **When using the link:** Focus moves from finder to the browser, and the VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
+  - ❌ **Retested behavior on 12/9/25**
+      -  **When using the link:** When testing today, Safari is no longer announcing the "Selected files: filename.extension". After selecting a file, it will announce the page `<title>`  and then "You are currently on web content. To enter the web area, press Control-Option-Shift-Down arrow" When doing that, the virtual cursr goes to the label of the component. When pressing tab, focus goes to the change file button, and it announces "Change file filename.ext"
+      -  **Decision:** This round of testing has been focused on error messaging. In this "failed" test the user can tab to the change file button and hear the file name announced. We will address this in v2.  It is hard to announce states when there is a non-interactive element that is being put in focus.
+  - ✅ **When dragging the file:** Focus does not move to the browser, even though the UI is updating and the file seems to be uploading. When the user changes focus back to the browser the `<title>` is announced, followed by the label of the file input "Select a file to upload" no success message is announced saying the file is selected or uploaded. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+
 
 **3. Safari + iOS + VO:**   
   - ✅ **When using the link:** Virtual cursor lands on the "Select a file to upload" file input label (not in the uploaded UI). And announces "Selected files filename.extension". The next swipe takes the user to the Change file button
@@ -296,7 +300,7 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
    - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
 
 **3. Safari + iOS + VO:**
-   - ❌ **When using the link:** After the file uploads, the screen displays the error but focus goes to the label and says "input hasa maximum file-size restriction (specified in bytes)   
+   - ✅ **When using the link:** After the file uploads, the screen displays the error but focus goes to the change file button and it announces, " Change file error. We can't upload your file because it's too big. Files must be less than 1 KB"
    - **When dragging the file:**  N/A    
 
 **4. Chrome + iOS + VO:**
@@ -473,23 +477,23 @@ A valid file is already uploaded.
 ---
 
 ## 🧩 Edge Cases
-- Uploading multiple files where only one is invalid  
 - Very fast uploads not announcing changes properly  
 - Very slow uploads requiring status messaging (“Uploading…”)  
-- File name truncation not announced meaningfully  
-- Errors disappearing without AT notification  
-- Browser differences in file input focus handling  
 
 ---
 
-## 🔁 Regression Tests
-- Historically, VoiceOver sometimes fails to announce file-upload changes.  
-- Some Windows AT versions mis-handle dynamic error messages.  
-- Past issues around incorrect file-type instructions (bytes vs. megabytes).  
+### 🔎 Findings
+
+| Date found | Issue | Date retested fix | Status |
+| ---------- | ----- | ----------------- | ------ |
+| 12/9/25    | Mac, Chrome, VO: loses focus after file deleted, and file deletion is not announced |   | Triage |
+| 12/9/25    | iOS, Chrome, VO: when file is successfully uploaded, focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. Since this is in regards to success state, we will address this in v2 | | Known, save for v2| 
+| 12/9/25    | Mac, Safari, VO: No success state being announced; This worked once, but no longer. Will address in v2. |    | Known, save for v2 | 
 
 ---
 
 ## 📄 Version History
 | Date | Author | Change |
 |------|--------|--------|
+| 2025-12-09 | Jeana  | Initial accessibility tests completed |
 | 2025-11-24 | Jeana  | Initial accessibility test plan |
