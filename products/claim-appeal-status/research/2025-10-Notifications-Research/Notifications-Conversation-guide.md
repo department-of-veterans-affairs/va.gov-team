@@ -73,12 +73,12 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 
 **Prompts:**
 
-- Before we look at anything together, I’d like to start by getting to know a bit about how you typically hear from VA. Can you tell me about your past experience receiving notifications or messages from VA — for example, things like letters in the mail, emails, text messages, or app notifications?  
+- Before we look at anything together, I’d like to start by getting to know a bit about how you typically hear from VA. Can you tell me about your past experience receiving notifications or messages from VA — for example, things like letters in the mail, emails, text messages, or app notifications?  (Determines how often they receive messages and familiarity)
 - How do you usually hear from VA about your benefits or claims? (paper mail, email, text, app)  
-- In the past 6 months, have you received communication about a decision letter, evidence request, or claim status update?  
+- In the past 6 months, have you received communication about a decision letter, evidence request, or claim status update? If not when did you last receive this type of communication? 
 - Which device are you using to communicate with us today? What device do you typically use when reviewing information from VA?  
 - When you receive a message from VA, what makes it feel important or urgent to you?  
-- Do you ever feel like messages from VA come from different places or use different wording? What helps you know they are legitimate?
+- What helps you know that messages you are receiving from VA are legitimate?
 
 ---
 
@@ -186,21 +186,23 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 
 ### Discussion Prompts (for each example)
 
-- What stands out to you about this message?  
+- What stands out to you about this message?  9What’s your first reaction to this message?)
 - How urgent does it feel compared to the decision letter message?  
 - On a scale of 1–5, how confident are you that you understand this message and know what you’re supposed to do next?  
 - What should you do after reading this message?  
 - How would you do it?  
-- When does it need to be completed? How urgent does this message feel to you? 
+- When does it need to be completed? How urgent does this message feel to you? (Compare urgency of mobile app, text to email)
 - Was any aspect of this message (font, color, wording) hard to read or confusing?  
 - On a scale of 1–5, how trustworthy does it feel? What about it makes you feel that way?  
 - How would the device (phone, tablet, computer) you receive the notification on impact your ability to read, trust, or act on it?
+
+  
 - The text message says 'we need more information' but doesn't say what kind of information or why. Tell me what you think about that level of specificity?
 
 ### Wrap-up of Scenario 2
 
 - If VA could use only one channel (email, text, or mobile app(push) notification) for this message, which would you choose and why?  
-- If you got the same notification on your phone and by email, which would you look at first, and why?  
+- If you got the same notification via text, mobile app (push) and by email, which would you look at first, and why?  
 - How would you feel about VA sending you this type of message to all three channels (email, text, mobile app(push) notification)? Why?
 
 ---
