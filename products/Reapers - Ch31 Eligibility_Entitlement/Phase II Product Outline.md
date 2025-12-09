@@ -19,7 +19,7 @@ Veterans are unaware of the status of their application/case. Users are unaware 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?* Allows direct communication with the Veteran and provides information to the Veteran with the next steps. This will ultimately create a seamless experience for the Veteran when the Counselor has the information that they need to process a case.
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* The self-management portal will allow the Veteran to monitor and manager their VR&E journey. The Veteran will be able to take the appropiate steps to make sure they have provided all necessary information/documentation for their case to be processed.
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* The self-management portal will allow the Veteran to monitor and manage their VR&E journey. The Veteran will be able to take the appropiate steps to make sure they have provided all necessary information/documentation for their case to be processed.
 
 ## Undesired Business Outcomes
 Reapers team does not meet contract timeline. All work must be completed and in production by March 12, 2026.
