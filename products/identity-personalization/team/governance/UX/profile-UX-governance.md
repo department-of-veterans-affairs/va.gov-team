@@ -31,7 +31,7 @@ This document includes UX governance for adding or updating features to the VA.g
 ## Profile files 
 
 * [Product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)  
-* Architecture, design, and content standards  
+* [Architecture, design, and content standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md)
 * [Figma files](https://www.figma.com/files/1499394822283304153/project/176473451)  
 * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research)  
 * [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/use-cases)
