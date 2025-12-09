@@ -310,3 +310,7 @@ The migration from Bot Framework SDK to Microsoft 365 Agents SDK claims to maint
 - Skill creation is an unknown at this time, but signs point to us needing to possibly rewrite skills to use something like langchain or agent frameworks.
 
 - The most critical deployment related changes include explicit JWT middleware for server authentication and environment variable renaming. This would require immediate attention for deployments to continue to function if we move to the Agents SDK.
+
+## A note on Microsoft Agents Framework
+
+This framework essentially fills the same functional goal as CrewAI, LangChain or any other open source AI orchestration library. It has prebuilt connectors for Azure OpenAI and Azure Search Service but a lot of the other options do too as these are mostly just API calls under the hood. This framework is only .NET and Python. This is NOT a direct replacement for our current botbuilder backend as it doesn't connect to directline or deal with JWT authentication. It could be hosted on any platform and is not required to be hosted on Azure similar to how botbuilder or agents SDK are. This framework is essentially a combination of [AutoGen](https://github.com/microsoft/autogen) and [Semantic Kernel](https://github.com/microsoft/semantic-kernel) which are both Microsoft projects and this brings them together under one product.
