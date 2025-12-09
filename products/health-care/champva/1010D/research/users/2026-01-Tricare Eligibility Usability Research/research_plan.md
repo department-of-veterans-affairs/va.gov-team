@@ -17,16 +17,12 @@ background:
 # Research Design
 methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
 research_format: 
-  location: remote # Options: remote, in-person, hybrid
-  in_person_details:
-    facility: "[Location name if applicable]"
-    point_of_contact: "[Name if applicable]"
-    equipment: "[Equipment details if applicable]"
-  moderated: true # Options: true, false
+  location: remote 
+  moderated: true 
   
 # Research Goals & Questions
 research_goals:
-  - goal_1: "[First research goal]"
+  - goal_1: "[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]"
   - goal_2: "[Second research goal]"
   - goal_3: "[Third research goal]"
 
@@ -38,7 +34,7 @@ research_questions:
   - "[Research question 5]"
 
 hypotheses:
-  - "[Hypothesis 1]"
+  - "[We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.]"
   - "[Hypothesis 2]"
   - "[Hypothesis 3]"
 
