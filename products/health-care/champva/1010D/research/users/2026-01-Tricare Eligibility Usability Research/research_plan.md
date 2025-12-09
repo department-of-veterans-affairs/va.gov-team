@@ -113,22 +113,15 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-Explore two options around to better understand how Veterans and family members understand the eligibility content, flow and alerts related to Tricare. 
-
-
-
-**[Enter answer here]**
+**[Explore two options around to better understand how Veterans and family members understand the eligibility content, flow and alerts related to Tricare.]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-- Can be access both authenticated and unauthenticated. Signer can be a Veteran, applicant/beneficiary or represenative. 
 
-**[Enter answer here]**
+**[Can be access both authenticated and unauthenticated. Signer can be a Veteran, applicant/beneficiary or represenative.]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-
-
-**[Enter answer here]**
+**[We are recruiting participants who are not currently enrolled in CHAMPVA and shouldn't have too much familiarity with the online applications, VA Form 10-10d.]**
 
 `Product Brief`
 
@@ -147,29 +140,8 @@ Explore two options around to better understand how Veterans and family members 
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
-
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
@@ -179,19 +151,13 @@ Are there moments that matter?</summary>
 - `Getting Out`
 - `Starting Up`
 - `Taking Care of Myself`
-- `Reinventing Myself`
 - `Putting Down Roots`
 - `Retiring`
 - `Aging`
-- `Dying`
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
-
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
 
 
 ### Goals
@@ -200,12 +166,12 @@ Are there moments that matter?</summary>
 
 `2.` **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**
 
-`3.` **[Learn if there are any usability issues with the new VADS eligibility pattern ]** 
+`3.` **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]** 
+
+
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
-
-
 
 ---
 
@@ -214,8 +180,6 @@ Are there moments that matter?</summary>
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 
 **`1.`[Do participants find the introduction page eligibility content clear and easy to understand?]**
@@ -228,8 +192,7 @@ Are there moments that matter?</summary>
 
 **`5.`[Enter Q5]**
 
-> [!TIP]
->Enter more questions as needed
+
 
 ### Hypotheses
 > [!NOTE]
@@ -267,10 +230,8 @@ Are there moments that matter?</summary>
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/conversation_guide.md)
 - [Link to prototype](url goes here)
 
 
@@ -293,11 +254,9 @@ Cohort 1:
 - `Veterans:` **[8]**
 - `Spouses and dependents:` **[8]**
 - `Total:` **[16]**
-- `Ideal completed sessions:` **[10 - 5 each]**
+- `Ideal completed sessions:` **[10, total 5 each cohort]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
-
 - `[Place primary criteria here between hash marks when in edit mode]`
 - `primary criteria`
 - `primary criteria`
@@ -310,6 +269,8 @@ Cohort 1:
 - `secondary criteria`
 - `secondary criteria`
 - **`Add more criteria as needed`**
+
+
 
 ## Timeline 🗓️
 > [!NOTE]
@@ -333,18 +294,13 @@ Cohort 1:
 - `Planned dates of research:` **[Enter dates January TBD, 2026 - January TBD, 2026]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[45 minutes]**
+- `Session length:` **[45 minutes]**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[45 minutes]**
+- `Buffer time between sessions:` **[45 minutes]**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[3]**
+- `Maximum Sessions per day:` **[3]**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 >
