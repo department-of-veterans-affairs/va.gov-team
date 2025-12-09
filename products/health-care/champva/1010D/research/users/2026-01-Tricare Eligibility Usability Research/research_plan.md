@@ -164,11 +164,11 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**
+`1. **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**`
 
-`2.` **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**
+`2. **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**`
 
-`3.` **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]** 
+`3. **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]**`
 
 
   
@@ -183,7 +183,7 @@ Are there moments that matter?</summary>
 
 ### Research questions
 
-`Goal 1. **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**`
+`Goal 1: Learn where there are content comprehension issues within the eligibility questions and error messages options tested.`
 
 **`1.`[Do participants find the introduction page eligibility content clear and easy to understand?]**
 
@@ -193,18 +193,18 @@ Are there moments that matter?</summary>
 
 
 
-`Goal 2. **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**`
+`Goal 2: Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.`
 
 **`1.`[Is the flow of prototype A and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
 
 **`2.`[What flow do participants seem to find easier via self-reported ratings and quotes?]**
 
 
-`Goal 3.` **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]** 
+`Goal 3: Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.`
 
 **`1.`[Do participants clearly understand the eligibility gray results box with the icons in the pattern?]**
 
-**`2.`[Enter Q5]**
+**`2.`[Do the error alerts in the hybrid option add any confusion or do participants state incorrect actions needed?]**
 
 
 
@@ -255,27 +255,69 @@ Our intended audience for this study is Veterans with high disability ratings an
 - **Cohort 2 (5 completed)**: Spouses and dependent children of Veterans with a 100% service connected disabilty rating, who are not currently enrolled in CHAMPVA benefits.
 
 
+
 ### Recruitment criteria
 
-Cohort 1:
 - `Veterans:` **[8]**
 - `Spouses and dependents:` **[8]**
 - `Total:` **[16]**
 - `Ideal completed sessions:` **[10, total 5 each cohort]**
 
 ### Primary criteria (must-haves)
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+
+**All participants must:**
+- Be on a computer or mobile device
+- During the session, be willing to share a web browser window on their device
+- Have a working microphone
+- Have Zoom downloaded to their device prior to the session and know how to share their screen
+
+**Cohort 1 must:**
+- Be a Veteran with a service-connected disability rating of 100%
+- Have a spouse and/or dependent children
+
+**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
+_Response otions: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+2. Do you have a spouse or dependent children?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (disqualify)
+* No (Qualifies for study, RECORD as enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
+**Cohort 2 must:**
+- Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
+
+**Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
+1. Please select the answer that best fits you:
+_Response options: Spouse of a Veteran, Dependent child of a Veteran (Answering either would qualify the participant)_
+
+2. Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?
+_Response options: YES, NO (Answering YES would qualify the participant)_
+
+3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (disqualify)
+* No (Qualifies for study, RECORD as enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+- `4 must be aged 55-64+`
+- `At least 3 women`
+- `At least 2 who self-report a cognitive disabiltiy`
+- `At least 2 don't have any degree or vocational training after high school`
+- `At least 2 are 35-44`
+- `At least 2 live in a rural or remote area`
+- `At least 4 people who identify as Hispanic, Latino or Spanish origin, or Asian or Biracial`
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
 
 
 
