@@ -164,11 +164,13 @@ I want to emphasize that you are testing the form, the form is not testing you. 
 
 # **Wave Concept: Side Navigation (30 minutes total)**
 ## Task List (25 minutes)
+
+*Note: The ordering of tasks is slightly different for Mobile since the participant would have to actively open the accordion in order to notice the way that the nagivation menu is laid out, versus just being able to visually see the navigation component right away.* 
 | Page Title | Participant Tasks or Actions |
 | :---- | :---- |
-| Sign in Screen | This is the sign in screen to help you imagine that you are logging in to start the disability compensation form.</br> For the next 15 minutes we will test our first concept.</br> → Go ahead and click “Submit” |
-| **Step 1  Veteran details** /veteran- information | We’re going to pause here and focus on this page.</br> **Tasks**</br> - As you look around this page, what stands out to you first?</br> - Can you describe what you notice about how the page is organized?</br> - If you wanted to move to another part of this application, what would you do?</br> - Why would you choose that?</br> - (If they notice the navigation) What do you notice about how the sections are labeled?</br> - *Follow-up:* How do you interpret the word ‘Step’ here?</br> - What does that mean to you?</br> **Happy Path**</br> Participant mentions side navigation as helping them to understand where they are in the form.</br> Participant indicates that “Step” is helpful language or not.</br> *→ Go ahead and click “Continue”* |
-| **Step 1  Veteran details**  /contact-information | Take a few seconds to read this page.</br> We won’t focus on this page.</br> *→ Go ahead and click “Continue”* |
+| Sign in Screen | This is the sign in screen to help you imagine that you are logging in to start the disability compensation form.</br> For the next 15 minutes we will test our first concept.</br> I want to share that we will mostly be trying to understand how you navigate the form.</br> → Go ahead and click “Submit” |
+| **Step 1  Veteran details** /veteran- information | We’re going to pause here and focus on this page.</br> **Tasks**</br> - As you look around this page, what stands out to you first?</br> - If you wanted to move to another part of this application, what would you do?</br> - Why would you choose that?</br> - (If they notice the navigation) What do you notice about how the sections are labeled?</br> - *Follow-up:* How do you interpret the word ‘Step’ here?</br> - What does that mean to you?</br> **Happy Path**</br> Participant mentions side navigation as helping them to understand where they are in the form.</br> Participant indicates that “Step” is helpful language or not.</br> *→ Go ahead and click “Continue”* |
+| **Step 1  Veteran details**  /contact-information | Talk me through what you are seeing on this page.</br> We won’t focus on this page.</br> *→ Go ahead and click “Continue”* |
 | **Step 2 Conditions**  /new- disabilities/add | Take a few seconds to read this page.</br> We won’t focus on this page, but to help move us along, we are going to have you enter the condition Tinnitus in the box.</br> Go ahead and click the box.</br> It will populate automatically.</br> *→ Add “Tinnitus”, click “Save”* |
 | **Step 2 Conditions**  /new- disabilities/add | Tinnitus is Saved. |
 | **Step 2 Conditions**  /new- disabilities/follow-up/0 | *Take a few seconds to read this page.</br> These are follow up questions about Tinnitus, the condition you claimed as Jordan Jackson.</br> Go ahead and → Select the radio button “My condition was caused by an injury or exposure during my military service”</br> → The description will fill in automatically.*</br> Now we’re going to pause here for a moment and I have some questions.</br> **Tasks**</br> - What step are you in?</br> - How do you know what step you are on?</br> - What steps have you finished?</br> - How do you know which steps you have finished?</br> - Let’s say you wanted to skip ahead to the Review and Submit page. </br> - How would you do that? </br> - What do you think is happening there? </br> - What steps do you still need to do?</br> - How do you know what steps you still need to do?</br> - Why do you think those steps are not available?</br> - What helped you understand whether that step was available to you or not?</br> **Happy Path**</br> Participant shares that they are on the Conditions section and that they have more sections to go.</br> Participant shares that they would try to click on the Supporting Evidence text in the Side Nav.</br> Participant shares that they don’t think they could skip a section because the links aren’t blue.</br> *→ Now go ahead and click “Continue”* |
@@ -200,7 +202,7 @@ Ok, now that you have finished the tasks, we have some follow up questions:
 
 * If you wanted to make a change to your answers on the form, on a scale from 1-4, 1 being easy and 4 being very difficult, how easy or difficult was it to find your way back to that section?
 
-* On a scale of 1 to 4, how helpful is this version in helping you navigate the form? 
+* On a scale of 1 to 4, how helpful was the navigation menu in helping you **completet the tasks**? 
 
   * 1 \- Not helpful at all
 
@@ -210,35 +212,46 @@ Ok, now that you have finished the tasks, we have some follow up questions:
 
   * 4 \- Extremely helpful 
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what steps you have completed**?
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **what steps you have completed**?
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what step you are on?**
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **which step you are on?**
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what steps you need to complete?**
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **which steps you need to complete?**
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
+ 
+* On a scale of 1 to 4, how effective was the navigation menu at helping you **to go back and change your answers on the form**
+
+  * 1 \- Not effective at all
+
+  * 2 \- Somewhat effective
+
+  * 3 \- Effective 
+
+  * 4 \- Very effective
+
 
 # **Cloud Concept: Process List (15 minutes total)**
 
@@ -254,7 +267,7 @@ Go back to the Zoom application and in the chat, open the link we have just sent
 | Page Title | Participant Tasks or Actions |
 | :---- | :---- |
 | Sign in Screen | We’re going to start the same way.</br> → Go ahead and click “Submit” |
-| **Step 1  Veteran details** /veteran- information | We’re going to pause here and focus on this page.</br> **Tasks**</br> - As you look around this page, what stands out to you first?</br> - Can you describe what is different in comparison to the previous version?</br> - \[If mobile, ask this as question #2\] If you wanted to move to another part of this form, what would you do?</br> **Happy Path**</br> Participant identifies the process list</br> Participant identifies the process list UI components</br> Circles (filled vs. not filled)</br> Line (contrast)</br> Blue fill ‘In Progress’ indicator</br> *→ Go ahead and click “Continue”* |
+| **Step 1  Veteran details** /veteran- information | We’re going to pause here and focus on this page.</br> **Tasks**</br> - As you look around this page, what stands out to you first?</br> - Can you describe what is different in comparison to the previous version?</br> - \[If mobile, ask this as question first\] If you wanted to move to another part of this form, what would you do?</br> **Happy Path**</br> Participant identifies the process list</br> Participant identifies the process list UI components</br> Circles (filled vs. not filled)</br> Line (contrast)</br> Blue fill ‘In Progress’ indicator</br> *→ Go ahead and click “Continue”* |
 | **Step 1  Veteran details**  /contact-information | Same as before.</br> *→ Go ahead and click “Continue”* |
 | **Step 2 Conditions**  /new- disabilities/add | Take a few seconds to read this page.</br> **Tasks**</br> \[Skip for mobile\]</br> - What are your overall impressions of this page?</br> - Is there anything different on this version?</br> - If they identify any UI changes: What do you think the \[insert answer\] mean or do?</br> - What step are you in?</br> - How do you know what step you are on?</br> - What steps have you done?</br> - Let’s say you wanted to skip ahead to the Review and Submit page. </br> - How would you do that? </br> - What do you think is happening there? </br> - How do you know which steps you have done?</br> - What steps do you still need to do?</br> - How do you know what steps you still need to do?</br> - Why do you think those sections are not available?</br> - What helped you understand whether that section was available to you or not?</br> **Happy Path**</br> Participant identifies change in UI components</br> Change in circles (color, filled/empty)</br> ‘Complete’ status indicator</br> Line (contrast)</br> Blue fill ‘In Progress’ indicator</br> Participant shares that they are on the Conditions section because of the blue fill indicator and that they have more sections to go.</br> Participant shared they know what steps have been completed because of the ‘Complete’ status indicator.</br> Participant shares that they would try to click on the Supporting Evidence text in the Process List.</br> Participant shares that they don’t think they could skip a section because there is no link treatment and/or the circles are not filled.</br> Go ahead and click on the ‘Enter your condition’ box.</br> It will populate automatically.</br> *→ Add “Tinnitus”, click “Save”*</br> \[If we are running out of time, stop here. If we have 5 more minutes, continue.\] |
 | **Step 2 Conditions**  /new- disabilities/add | Tinnitus is Saved. |
@@ -277,7 +290,9 @@ Ok, now that you have reviewed everything we wanted your feedback on, we have so
 
 ### **Scale**
 
-* On a scale of 1 to 4, how helpful is this version in helping you navigate the form? 
+* If you wanted to make a change to your answers on the form, on a scale from 1-4, 1 being easy and 4 being very difficult, how easy or difficult was it to find your way back to that section?
+
+* On a scale of 1 to 4, how helpful was the navigation menu in helping you **completet the tasks**? 
 
   * 1 \- Not helpful at all
 
@@ -287,35 +302,45 @@ Ok, now that you have reviewed everything we wanted your feedback on, we have so
 
   * 4 \- Extremely helpful 
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what steps you have completed**?
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **what steps you have completed**?
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what step you are on?**
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **which step you are on?**
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
 
-* On a scale of 1 to 4, how effective is this version at helping you know **what steps you need to complete?**
+* On a scale of 1 to 4, how effective was the navigation menu at helping you know **which steps you need to complete?**
 
-  * 1 \- It doesn’t work; I can’t use it for what I need.
+  * 1 \- Not effective at all
 
-  * 2 \- It works a little; I can use it, but it’s frustrating or confusing.
+  * 2 \- Somewhat effective
 
-  * 3 \- It works well; It works the way I expect most of the time.
+  * 3 \- Effective 
 
-  * 4 \- It works very well; It works exactly how I want it to.
+  * 4 \- Very effective
+ 
+* On a scale of 1 to 4, how effective do you think the navigation menu would be at helping you to **go back and change your answers on the form if you used it?**
+
+  * 1 \- Not effective at all
+
+  * 2 \- Somewhat effective
+
+  * 3 \- Effective 
+
+  * 4 \- Very effective
 
 ## **Consent to use video clips**
 
