@@ -306,13 +306,12 @@ _Response options: YES, NO, UNSURE_
 
 
 #### Secondary criteria (nice-to-haves)
-- `4 must be aged 55-64+`
-- `At least 3 women`
+- `At least 2 women`
 - `At least 2 who self-report a cognitive disabiltiy`
 - `At least 2 don't have any degree or vocational training after high school`
 - `At least 2 are 35-44`
 - `At least 2 live in a rural or remote area`
-- `At least 4 people who identify as Hispanic, Latino or Spanish origin, or Asian or Biracial`
+- `At least 5 people who identify as Black or African American or Hispanic, Latino or Spanish origin, or Asian or Biracial`
 
 
 
