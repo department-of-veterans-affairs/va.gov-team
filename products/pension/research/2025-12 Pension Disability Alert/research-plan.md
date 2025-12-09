@@ -135,7 +135,7 @@ We want to recruit Veteran participants who have a 100% Disability Rating. These
 
 ### Kick-off Call with Perigean
 
-- `Suggested dates and times:` **Anytime on 12/3 between 9 AM and 5 PM ET**
+- `Suggested dates and times:` **TBD**
 
 ### Prepare
 
