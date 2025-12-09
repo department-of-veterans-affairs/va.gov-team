@@ -46,7 +46,7 @@ Profile information should be personalized and editable whenever possible. When 
 
 * A data storage system. Our team does not manage the back-end systems that store Veteran information. The back-end systems we are integrated with are VA Profile, VA Notify, VEText, MPI, and Lighthouse.  
 * An FAQ or informational page. Informational content that is not personal to the user, or would be helpful to unauthenticated users as well, should not live within the profile.  
-* For specifics about individual pages, refer to the linked UX Architecture guidance.
+* For specifics about individual pages, refer to the [linked UX Architecture guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md#pages).
 
 # How to know if a feature belongs in VA.gov profile 
 
