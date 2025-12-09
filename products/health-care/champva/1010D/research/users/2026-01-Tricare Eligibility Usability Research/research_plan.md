@@ -1,6 +1,6 @@
 ---
 # Research Plan Metadata
-title: "Research Plan for [Health Applications, 10-10d CHAMPVA , January 2026]"
+title: "Research Plan for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026]"
 date: 2026-01-DD
 last_updated: 2025-12-08
 team: "[Health Applications]"
