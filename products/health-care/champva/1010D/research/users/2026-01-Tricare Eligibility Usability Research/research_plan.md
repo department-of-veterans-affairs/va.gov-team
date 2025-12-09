@@ -187,9 +187,9 @@ Are there moments that matter?</summary>
 
 **`1.`[Do participants find the introduction page eligibility content clear and easy to understand?]**
 
-**`2.`[Do participants find the eligibilty questions asked in the pattern flow confusing, unclear or state they need additional information?]**
+**`2.`[Do participants find the eligibilty questions asked in the VADS pattern flow confusing, unclear or state they need additional information?]**
 
-**`3.`[Enter Q3]**
+**`3.`[Do participants understand the content in the error messages clear enough to state what specific action, if any, they would need to take when applying for benefits?]**
 
 
 
@@ -202,7 +202,7 @@ Are there moments that matter?</summary>
 
 `Goal 3.` **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]** 
 
-**`1.`[Enter Q4]**
+**`1.`[Do participants clearly understand the eligibility gray results box with the icons in the pattern?]**
 
 **`2.`[Enter Q5]**
 
