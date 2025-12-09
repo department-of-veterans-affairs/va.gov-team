@@ -2,7 +2,7 @@
 
 *We pronounce “ADE” like the word “aide”*
 
-ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance throughout the product development lifecycle. ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
+ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance throughout the product development lifecycle. ADE supports all teams, with priority given to Veteran-Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
 
 Our accessibility service offerings are described below. 
 
@@ -11,7 +11,6 @@ Our accessibility service offerings are described below.
 * Reach out via Slack using `@accessibility-de` on [\#accessibility-help](https://dsva.slack.com/archives/C8E985R32)  
 * [Sign up](https://calendly.com/platform-office-hours/accessibility-office-hours) for our weekly office hours on Zoom (Wed 3-4 pm ET)  
 * Submit an [intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) in GitHub  
-* For research help specifically, submit a [research intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) in GitHub.
 
 ## ADE Services
 
@@ -28,7 +27,7 @@ ADE helps you plan your upcoming research with participants who use AT. ADE can 
 * **Time needed:** 
   * 1-2 days  
 * **Who does what:**  
-  * **Requesting team:** Schedule a time during Accessibility Office Hours or submit a research intake ticket. If available, share your research plan and conversation guide.   
+  * **Requesting team:** Schedule a time during Accessibility Office Hours or submit an intake ticket. If available, share your research plan and conversation guide.   
   * **ADE:** Answer questions about accessibility research, review research plan and conversation guide and provide feedback, (optional) observe pilot sessions to provide feedback on research moderation.  
 * **Results:**   
   * Your team’s researcher learns about planning and conducting AT research, and their research plan and conversation guide include AT research best practices.   
@@ -47,7 +46,7 @@ ADE pilots your upcoming research using AT. You practice running a session and g
 * **Time needed:**   
   * The length of the research session, plus a day or two to receive AT notes.  
 * **Who does what:**  
-  * **Requesting team:** Submit a research intake ticket. Create a research plan and conversation guide. During the pilot, the researcher moderates the session, and other team members observe.  
+  * **Requesting team:** Submit an intake ticket. Create a research plan and conversation guide. During the pilot, the researcher moderates the session, and other team members observe.  
   * **ADE:** Coordinate schedule and provide the pilot participant(s) and notetaker for AT issues, plus optionally a researcher to observe research moderation and provide feedback. ADE doesn't review the materials beforehand–just like a real participant.   
 * **Results:**   
   * Team gets exposure to AT, practices running their study with AT, and uncovers accessibility issues that may interfere with AT use during the study.  
@@ -66,7 +65,7 @@ ADE provides technical assistance for your research participants, as well as acc
 * **Time needed:**   
   * As long as the study takes; ADE will support every session it can based on team members’ availability.  
 * **Who does what:**  
-  * **Requesting team:** Submit a research intake ticket. Provide all the information you have about the upcoming sessions, including dates, times, and device \+ AT information.  After ADE determines availability, provide email addresses to Perigean to invite to the sessions.  
+  * **Requesting team:** Submit an intake ticket. Provide all the information you have about the upcoming sessions, including dates, times, and device \+ AT information.  After ADE determines availability, provide email addresses to Perigean to invite to the sessions.  
   * **ADE:** Determine availability, assign team members to each AT session, attend those sessions, provide technical support and feedback about accessibility issues encountered.  
 * **Results:**   
   * Technical support to help AT users share their screen, sound, and access prototypes using their technology.  
