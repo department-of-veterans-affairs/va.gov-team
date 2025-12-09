@@ -93,12 +93,13 @@ _Select all that apply:_
 - [ ] Tablets
 - [ ] Other: `insert device`
 
-#### What (if anything) do you plan to show to research participants?
-In order to be accessible to screen readers, it must be coded, which Figma is not. 
+#### What (if anything) are you planning to show to research participants?
 - [ ] URL on Staging or Production
 - [ ] GitHub Codespace
 - [ ] CodePen
 - [ ] Other: `type of prototype`
+
+- Note: In order to be accessible to screen readers, a prototype must be coded, which Figma is not. 
 
 </details>
 
