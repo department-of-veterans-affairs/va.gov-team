@@ -128,7 +128,7 @@ ADE conducts a full accessibility review of a live product or coded prototype–
 * **Time needed:**   
   * A day, a week, or more, depending on the size of the product.  
 * **Who does what:**  
-  * **Requesting team:** Request via intake ticket with the scope of the product (including a user flow diagram, so ADE knows about all screens and interactions).   
+  * **Requesting team:** Submit an intake ticket with the scope of the product (including a user flow diagram, so ADE knows about all screens and interactions).   
   * **ADE:** Perform a comprehensive audit. Test keyboard functionality, color contrast, magnification, heading structure, tab order, focus management, and AT usage across a variety of devices for every page/screen.  
 * **Results:**   
   * ADE provides a list of AT issues, each with a description, severity level, steps to reproduce, screenshots/video, and recommendations to fix.  
@@ -149,7 +149,7 @@ ADE tests critical user paths identified by your team using a screen reader, a m
 * **Time needed:**   
   * Depends on the size and number of user flows, but generally 1-2 days.  
 * **Who does what:**  
-  * **Requesting team:** Request via intake ticket. Provide context for the tester, the link to start from, and very specific instructions about the user flows to test. Option for team members to observe.  
+  * **Requesting team:** Submit an intake ticket. Provide context for the tester, the link to start from, and very specific instructions about the user flows to test. Option for team members to observe.  
   * **ADE:** Review the user flows using AT.  
 * **Results:**   
   * ADE assesses whether the flows are currently usable by AT, reports AT issues encountered during flow testing, and recommends fixes or improvements.  
