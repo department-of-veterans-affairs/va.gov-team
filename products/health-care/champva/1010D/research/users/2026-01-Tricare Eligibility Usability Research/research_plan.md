@@ -5,7 +5,7 @@ date: 2026-01-DD
 last_updated: 2025-12-08
 team: "[Health Applications]"
 product: "[10-10d]"
-product_area: "[e.g., authenticated/unauthenticated]"
+product_area: "[authenticated and unauthenticated]"
 
 # Background Context
 background:
@@ -15,7 +15,7 @@ background:
   product_brief_url: "[URL]"
 
 # Research Design
-methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+methodology: "[semi-structured interviews usability test with mid-fidelity prototype]"
 research_format: 
   location: remote 
   moderated: true 
@@ -23,8 +23,8 @@ research_format:
 # Research Goals & Questions
 research_goals:
   - goal_1: "[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]"
-  - goal_2: "[Second research goal]"
-  - goal_3: "[Third research goal]"
+  - goal_2: "[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]"
+  - goal_3: "[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]"
 
 research_questions:
   - "[Research question 1]"
@@ -35,8 +35,8 @@ research_questions:
 
 hypotheses:
   - "[We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.]"
-  - "[Hypothesis 2]"
-  - "[Hypothesis 3]"
+  - "[We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and family members.]"
+  - "[The changes in the flow and the signer information section will be easy for Veterans and family mbmers to follow with less confusion than previous studies.]"
 
 expected_outcomes: "[How will findings advance the product?]"
 
@@ -59,11 +59,11 @@ recruitment:
       qualifying_response: "[Expected answer]"
       
 participants:
-  veterans: 0
+  veterans: 8
   caregivers: 0
-  dependents: 0
-  total_recruited: 0
-  completed_sessions_goal: 0
+  dependents: 8
+  total_recruited: 16
+  completed_sessions_goal: 10
   
 # Timeline & Sessions
 timeline:
@@ -93,7 +93,7 @@ veteran_journey_phases:
 # Research Repository Tracking
 related_research:
   previous_studies: 
-    - "[Link to related past research]"
+    - "[OHI Merge Usability](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability)"
     
 tags:
   - "[product-area]"
