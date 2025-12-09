@@ -93,6 +93,6 @@ There are currently nine available sections to integrate with on VA.gov profile.
 
 If your feature does not fit within one of these nine sections, please work with the Authenticated Experience team to identify if the VA.gov profile is the right fit for you.
 
-# Have feedback? {#have-feedback?}
+# Have feedback?
 
 If there is any content that you have feedback on, or is missing, please reach out to the Authenticated Experience team in Slack on the \#accountexp-authexp channel.
