@@ -1,6 +1,6 @@
 # Medallia review process
 
-Last updated by @enaids: October 2025
+Last updated by @enaids: December 2025
 
 This document describes how we plan to review Medallia feedback to improve Ask VA. It continues to evolve as we streamline processes and iron out details between teams.
 
@@ -33,7 +33,7 @@ During launch, we will review feedback daily. We will focus on VSignals feedback
 
 ### Frequency
 
-After launch, we will continue to monitor feedback monthly and include it in a comprehensive Metrics + Feedback report with the following information:
+After launch, we will continue to monitor feedback monthly and include it in a comprehensive Metrics + Feedback report with the following information. This report will be presented to AVA POs on a quarterly basis. 
 - Overall Engagement (Inquiries submitted, top categories and topics, etc.) 
 - [Performance KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md#performance-kpis)
 - Veteran Feedback (Satisfaction ratings and qualitative feedback)
