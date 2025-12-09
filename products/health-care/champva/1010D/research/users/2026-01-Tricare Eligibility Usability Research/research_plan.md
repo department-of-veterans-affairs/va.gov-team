@@ -113,23 +113,26 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-Explore two options around the tricare eligibility check and new flow
+Explore two options around to better understand how Veterans and family members understand the eligibility content, flow and alerts related to Tricare. 
 
 
 
 **[Enter answer here]**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+- Can be access both authenticated and unauthenticated. Signer can be a Veteran, applicant/beneficiary or represenative. 
 
 **[Enter answer here]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
+
+
 **[Enter answer here]**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline%20v2.md).**
 
 </details>
 
@@ -173,8 +176,6 @@ Explore two options around the tricare eligibility check and new flow
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
 - `Getting Out`
 - `Starting Up`
 - `Taking Care of Myself`
@@ -192,8 +193,6 @@ Are there moments that matter?</summary>
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -206,9 +205,11 @@ Are there moments that matter?</summary>
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
+
+
 ---
 
-**[Enter outcome here]** 
+**[Testing two approaches - one using a newer VADS design system pattern to contribute back there; the second using a hybrid approach that includes integrating with an API and possible error messages. We are doing research as engineering will be working on technical discovery.]** 
 
 ---
 
@@ -216,15 +217,10 @@ Are there moments that matter?</summary>
 > [!NOTE]
 > Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+**`1.`[Do participants find the introduction page eligibility content clear and easy to understand?]**
 
-**`2.`[Enter Q2]**
+**`2.`[Is the flow of prototype A and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
 
 **`3.`[Enter Q3]**
 
@@ -256,47 +252,15 @@ Are there moments that matter?</summary>
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
 
-</details>
+**[Semi-structured interviews/usabilty testing with mid-fidelty prototypes to explore two options of implementation and content options for alerts]**
 
-**[Enter methodology here]**
-
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-</details>
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [x] **Remote**
 - [ ] **In-person**
       
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
@@ -305,24 +269,11 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
-
 **For moderated usability tests:** 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
 
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
-	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
