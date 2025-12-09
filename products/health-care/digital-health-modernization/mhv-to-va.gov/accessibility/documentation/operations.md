@@ -1,7 +1,7 @@
 # Accessibility Team Operations
-Note that this is an in-progress, living document
+How the MHV Accessibility team operates to provide support and addresss accessibility issues.
 
-Last updated: 9 Dec 2025
+Last updated: 9 Dec 2025 (Note that this is an in-progress, living document)
 
 ## Addressing accessibility issues
 How the MHV Accessibility team addresses accessibility-related issues in MHV products.
