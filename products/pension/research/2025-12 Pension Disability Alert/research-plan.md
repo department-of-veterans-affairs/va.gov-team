@@ -1,5 +1,5 @@
 
-	# Research Plan for Pension Burial Benefits, Pension Form (527EZ), Dec 2025
+	# Research Plan for Pension Burial Benefits, Pension Form (527EZ), Jan 2026
 
 ## Background 🏗️
 	
