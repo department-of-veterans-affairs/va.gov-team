@@ -1,6 +1,68 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 12/09/25
+
+**Agenda**
+
+* Updates on the 10-10d v2 launch
+* Reminder regarding birth certificates in 10-10d/10-7959c
+* Dropoff rate in 10-10d in November
+
+**Attendees** 
+Renata K., Hieu V., Andrea M., Mike M., Cindy C., Keith B., Rogelio C., Elizabeth L., Ballard M., Angela C., Premal S., Angela P., Joie T., Tammy T., Elizabeth S., Arleen S. 
+
+### Notes
+
+**Updates on the 10-10d v2 launch**
+
+* Mike M.: 10-10d v2 launched last Monday, but it was turned off within 45min because of a bug (5 submissions were completely blank outside of some light contact information)
+  * Reached out to the contact team to tell the users so they can resubmit. Everyone was contacted
+    * Premal asks if we'd heard back from anyone about the missing statuses on forms (Keith says no)
+  * Mid-last week, form was turned back on and went to 25% rollout with no issues
+  * Increased to 50% of logged in users as of yesterday 
+  * We are seeing an increase in OHI uploads (both original applicant as well as all applicants attached)
+* Premal asks about the current backlog and when they will currently start to be processed
+    * Elizabeth L says they're 7 days out in the backlog, so next week for sure (as of today, processing apps from 12/1-3). 
+    * Andrea M. notes that the first apps may hit in the next day or two, actually. Between Wednesday and Friday there were 26 applications
+    * Premal notes there are about 50% new applications (1010dx). Asks that the applications team flag anything of note
+* **AI:** Health Apps team to share analytics (Tammy T. asks for them
+    * Mike M. to talk to engineers to find the right app to look at in the Pega instance
+
+**Reminder regarding birth certificates in 10-10d/10-7959c**
+
+* Mike notes that back in April there was a discussion around requirements-setting for the 10-10d v2
+  * On the PDF stamping, no matter what relationship the child has to the sponsor, they're stamped with a generic "Child" status.
+    * Health Apps is concerned that will introduce some confusion. If adopted/step-child, it will be stamped "child" but have a birth cert attached. If bio child, it will be stamped "child" with no birth cert attached
+    * Premal notes PDF stamping = just what we print in that field on the PDF
+  * Health Apps discussed possibly changing how that's stamped
+    * **Decision**: Angela C. says it would be nice to have that change in the stamping, but ultimately the team does go look to verify that information.
+      * **AI:** team to look into updating stamping by child-type
+    * Elizabeth L. asks where in the form that's asked (Mike M. explains it)
+        * Elizabeth L. asks that it be stamped as CHILD but indicated what type of child the user selected. 
+        * Mike M. notes that in the meantime teams should know if a PDF is currently stamped "CHILD" but there's no birth cert, it means it's a biological child. 
+  * Elizabeth L. brings up newborn cases: "we may be the first person we report a newborn to" because adding a second dependent won't change payments on the VBA side, but updating health benefits will confer health insurance to the newborn child. 
+    * In these cases, the user needs to provide a birth cert since it's the first instance of a dependent in the system. 
+    * Keith shares an example: "an app rerouted back to Lead of the Week because it is a newborn baby application, currently in the NICU being treated for serious illness/"
+    * In a newborn case, CHAMPVA issues a HEC alert to notify the rest of VA that there's a newborn associated with the Veteran, to add to VBMS
+    * **AI:** Health Apps team to work on a solution for adding birth cert for a newborn (and newborns-only)
+* Premal asks what VES will show
+    * Elizabeth L. says that they're in VES and working in it right now (clarification: paper-only). 
+    * Premal asks that Elizabeth L. share what they're seeing in VES (what's sending to VES vs. what's displaying).
+    * **AI:** Health Apps to check what it shows in VES (work with Elizabeth and team to clarify that)
+
+**10-10d drop-off rate**
+
+* In monthly metrics, we saw a roughly 30% drop-off in submission volume for the 10-10d 
+* Is this drop-off normal?
+    * Rogelio C. asks if this is specific to VA.gov submissions?
+    * Mike M. clarifies no, this is total submission volume
+    * Rogelio says they'll need to look at a couple of years of submission volume
+    * Some discussion about how historic data has it difficult to parse because of changes to eligibility and Veteran benefits enrollment (PACT Act)
+    * Eligibility team also notes that the backlog has been worked through, so this may also be a combination of duplicates dropping off, and people actually getting enrolled
+    * **AI:** Rogelio and Elizabeth to report back with annual submission volume (if we normally see a drop in the fall/winter). 
+
+
 ## 11/25/25
 
 **Agenda**
