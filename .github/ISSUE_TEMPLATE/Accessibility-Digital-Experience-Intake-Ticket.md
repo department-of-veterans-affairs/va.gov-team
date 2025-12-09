@@ -28,9 +28,7 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Accessibility Champ** (if you have one): `name`
 
 ## Collaborate with ADE
-~~[**Read about ADE's services**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:~~
-
-<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md" target="_blank" rel="noreferrer noopener">**Read about ADE's services**</a>
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md" target="_blank" rel="noreferrer noopener">**Read about ADE and our services**</a>
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support for assistive technology (AT)
