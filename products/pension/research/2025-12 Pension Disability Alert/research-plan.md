@@ -35,7 +35,7 @@ We are iterating on an existing product – the Pension application.
 
 `1.` **Ensure that the message is clear to Veterans and that they understand what it is trying to say.**
 
-`2.` **See if Veterans who understand the message and have a 100%$ rating will be encouraged or discouraged from filling out the Pension form.**
+`2.` **See if Veterans who understand the message and have a 100% rating will be encouraged or discouraged from filling out the Pension form.**
   
 ### Outcome
 
@@ -51,7 +51,7 @@ We will iterate on the language or even the overall design if the messaging is s
 
 **`2.`After seeing the message, are Veterans more or less likely to fill out the pension form?**
 
-**`3.`What would Vetearns do after seeing the message?**
+**`3.`What would Veterans do after seeing the message?**
 
 *Assess clarity of the API-failed alert*
 
@@ -59,7 +59,7 @@ We will iterate on the language or even the overall design if the messaging is s
 
 **`2.`After seeing the message, are Veterans more or less likely to fill out the pension form?**
 
-**`3.`What would Vetearns do after seeing the message?**
+**`3.`What would Veterans do after seeing the message?**
 
 ## Hypotheses 🔬
 
@@ -80,8 +80,8 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Link to conversation guide](--)
-- [Link to prototype]([https://www.figma.com/proto/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?page-id=2683%3A84049&node-id=2725-98727&p=f&viewport=340%2C264%2C0.02&t=71qwjH9eCo2HlUI0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2725%3A98727&show-proto-sidebar=1](https://www.figma.com/design/PBFTGd8vTs6SMSytHJNUNr/Connecting-Rated-Disability-to-Pension?node-id=3-16&t=DIbIcsiffvmMDvZg-4))
+- [Link to conversation guide] In progress
+- [Link to prototype](https://www.figma.com/design/PBFTGd8vTs6SMSytHJNUNr/Connecting-Rated-Disability-to-Pension?node-id=3-16&t=07Kf46mwQalrYsiT-4)
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
@@ -94,10 +94,6 @@ We want to recruit Veteran participants who have a 100% Disability Rating. These
 **Intro included below should be included with screener:**
 
 *We are seeking to inform Veterans about their potential compensation for Veterans Pension, specifically letting them know when their compensation would not change  due to a high Disability Rating.*
-
-*Due to the nature of this research, we ask that participants meet specific criteria related to their annual income and other personal or financial details. This information will only be used for screening purposes and will never be shared outside the study.*
-
-*You will not be required to disclose personal financial details during the sessions. Instead, you will be given a fictional profile to use as you complete an online form as part of evaluating the experience.* 
 
 **Screener start:**
 
@@ -166,7 +162,7 @@ Available 9 AM - 5 PM ET each of those days
 - `Participant recruiting & screening:`	**Perigean**
 - `Project point of contact:` **Elisabeth Chin** ***or*** **David Kennedy**	
 - `Note-takers:`  **Elisabeth Chin** ***or*** **A'Nita Evans** ***or*** **David Kennedy**
-- `Observers:` Elisabeth Chin, David Kennedy, Matt Reilly, A’Nita Evans
+- `Observers:` **Elisabeth Chin, David Kennedy, Matt Reilly, A’Nita Evans**
 
 ## Approvals ✅
 - `Reviewed by Shannon Ford on 12/5/25`
