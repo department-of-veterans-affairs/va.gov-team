@@ -14,7 +14,7 @@ As a Veteran, I want to manage the full lifecycle of my VR&E journey. As a Backe
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?* The Veteran will be able to view real-time updates and status information on their VR&E cases. Tools and resources will also be available to help Veterans understand and navigate the VR&E program, including guides, tutorials, and informational content.
 
 ## Undesired User Outcomes
-Veterans are unaware of what is the status of their application/case. Users are unaware of next steps. Unexpected errors or outages.
+Veterans are unaware of the status of their application/case. Users are unaware of next steps. Unexpected errors or outages.
 
 ## Desired Business Outcomes
 
