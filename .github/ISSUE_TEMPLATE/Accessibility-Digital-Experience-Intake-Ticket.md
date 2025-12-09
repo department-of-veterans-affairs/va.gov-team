@@ -28,7 +28,9 @@ assignees: artsymartha68, lakper, sara-amanda
 - **Accessibility Champ** (if you have one): `name`
 
 ## Collaborate with ADE
-[**Review our menu of services**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:
+~~[**Read about ADE's services**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting:~~
+
+<a href="**Read about ADE's services**" target="_blank" rel="noreferrer noopener">[Link text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer)</a>
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support for assistive technology (AT)
@@ -93,10 +95,11 @@ _Select all that apply:_
 - [ ] Tablets
 - [ ] Other: `insert device`
 
-#### What kind of prototypes (if any) are you planning to use?
+#### What (if anything) do you plan to show to research participants?
+In order to be accessible to screen readers, it must be coded, which Figma is not. 
+- [ ] URL on Staging or Production
 - [ ] GitHub Codespace
 - [ ] CodePen
-- [ ] Staging
 - [ ] Other: `type of prototype`
 
 </details>
@@ -106,8 +109,9 @@ _Select all that apply:_
 
 #### Starting URL
 `URL`
-#### Login information (if applicable)
-`username and password`
+#### Test users (if applicable)
+`Test user name`
+Reach out to the ADE team if you have any passwords to share.
 #### What screens need to be tested?
 `user flow diagram, mockup, or list of screens`
 #### Are there any custom (non-VADS) components in use? Where?
