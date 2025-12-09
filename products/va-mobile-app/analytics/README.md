@@ -9,6 +9,7 @@
 - [August 2025 (8/1-8/31)](#August-2025)
 - [September 2025 (9/1-9/30)](#September-2025)
 - [October 2025 (10/1-10/31)](#October-2025)
+- [November 2025 (11/1-11/30)](#November-2025)
 
 ## Where to gather the data
 
@@ -29,6 +30,31 @@
 - Monthly Veteran Status Views (Google Analytics, [pages & screens](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/explorer?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0%26_r.explorerCard..filterTerm%3Dveteran&r=all-pages-and-screens&ruid=85114BBE-2F4B-42D6-AF54-5A24E62195CF&collectionId=3022309925))
 - Average App Store Rating ([App store](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596))
 - Average Play Store Rating ([Play store](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US))
+
+## November 2025
+
+**Date range for metrics**: November 1, 2025 - November 30, 2025
+
+- **Total downloads since launch**: 1,525,283(A) + 2,505,355(iOS) = 4,030,638
+- **New monthly downloads**: 29,432(A) + 42,283(iOS) = 71,715
+- **Monthly active users**: 1,620,480
+- **Monthly new users**: 176,216
+- **Monthly appointment detail views**: 3,072,383
+- **Monthly Rx Refill**: 565,505
+- **Monthly Letter Downloads**: 529,253
+- **Monthly Secure Messages Sent**: 665,697
+- **Monthly Veteran Status Views**: 683,950
+
+
+### Android
+
+- **Android installs**: 29,432
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 42,283
+- **Average App Store Rating**: 4.8
 
 ## October 2025
 
@@ -56,7 +82,7 @@
 
 ## September 2025
 
-**Date range for metrics**: September 1, 2025 - September 3o, 2025
+**Date range for metrics**: September 1, 2025 - September 30, 2025
 
 - **Total downloads since launch**: ~1.45M (A) + ~2.42M (iOS) = ~3.87M 
 - **New monthly downloads**: 41k (A) + 53.3k (iOS) = 94.3k
