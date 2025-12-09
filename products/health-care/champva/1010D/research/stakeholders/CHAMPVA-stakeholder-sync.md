@@ -26,7 +26,7 @@ Renata K., Hieu V., Andrea M., Mike M., Cindy C., Keith B., Rogelio C., Elizabet
     * Elizabeth L says they're 7 days out in the backlog, so next week for sure (as of today, processing apps from 12/1-3). 
     * Andrea M. notes that the first apps may hit in the next day or two, actually. Between Wednesday and Friday there were 26 applications
     * Premal notes there are about 50% new applications (1010dx). Asks that the applications team flag anything of note
-* **AI:** Health Apps team to share analytics (Tammy T. asks for them
+* **AI:** Health Apps team to share analytics (Tammy T. specifically wants them)
     * Mike M. to talk to engineers to find the right app to look at in the Pega instance
 
 **Reminder regarding birth certificates in 10-10d/10-7959c**
