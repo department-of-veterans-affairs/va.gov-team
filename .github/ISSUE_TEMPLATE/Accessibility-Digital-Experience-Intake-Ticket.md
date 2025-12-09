@@ -129,10 +129,10 @@ Provide links to any supporting artifacts that can help us better understand you
 `Link to main Collaboration Cycle ticket`
 
 #### What is the last touchpoint of the Collaboration Cycle that you completed?
-`phase name`
+`name of touchpoint`
 
 #### What touchpoint of the Collaboration Cycle do you need help with?
-`phase name`
+`name of touchpoint`
 
 
 ## Next Steps for Your Team
