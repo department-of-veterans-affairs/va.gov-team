@@ -106,7 +106,9 @@ tags:
   - "[research-phase]"
 ---
 
-	# Research Plan for [Health Applications, 10-10d CHAMPVA Application, December 2025]
+
+# Research Plan for [Health Applications, 10-10d CHAMPVA Application, December 2025/January 2026]
+
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -181,36 +183,41 @@ Are there moments that matter?</summary>
 
 ### Research questions
 
+`Goal 1. **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**`
 
 **`1.`[Do participants find the introduction page eligibility content clear and easy to understand?]**
 
-**`2.`[Is the flow of prototype A and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
+**`2.`[Do participants find the eligibilty questions asked in the pattern flow confusing, unclear or state they need additional information?]**
 
 **`3.`[Enter Q3]**
 
-**`4.`[Enter Q4]**
 
-**`5.`[Enter Q5]**
+
+`Goal 2. **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**`
+
+**`1.`[Is the flow of prototype A and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
+
+**`2.`[What flow do participants seem to find easier via self-reported ratings and quotes?]**
+
+
+`Goal 3.` **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]** 
+
+**`1.`[Enter Q4]**
+
+**`2.`[Enter Q5]**
 
 
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
 
 ---
 
-**[Enter hypotheses here]** 
+**[We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.]** 
+
+**[We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and family members.]**
+
+**[The changes in the flow and the signer information section will be easy for Veterans and family mbmers to follow with less confusion than previous studies.]**
+
 
 ---
   
