@@ -1,7 +1,7 @@
 # Working with MHV Accessibility
 Different ways to connect and work with the MHV Accessibility team.
 
-Last updated: 5 Dec 2025 (Note that this is an in-progress, living document)
+Last updated: 9 Dec 2025 (Note that this is an in-progress, living document)
 
 ## Requesting accessibility team support
 
