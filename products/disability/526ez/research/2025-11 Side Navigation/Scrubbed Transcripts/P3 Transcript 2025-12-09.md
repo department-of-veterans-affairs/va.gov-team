@@ -1,6 +1,5 @@
-Participant 3 12/09/2025
+Participant 3 Side Navigation - 12/09/2025
 
-WEBVTT
 
 1
 00:00:02.110 --> 00:00:05.050
