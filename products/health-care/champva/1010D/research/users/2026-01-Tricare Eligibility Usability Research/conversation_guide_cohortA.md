@@ -88,7 +88,7 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever applied for the CHAMPVA program?
+1. Have you ever applied for the the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program?
 - Should not be **enrolled** to qualify for study
 
 2. Have you ever heard about the CHAMPVA program before?
@@ -99,7 +99,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you recieved health care benefits through Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+1. Do you recieved health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 - If yes: should be no to have qualified for study
 
 2. Have you heard of the program before or have ever thought about applying?
@@ -120,10 +120,12 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 - [ ] iPad: Broadcast screen
 
 
-- On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
+- On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you.
 - Is there anything here that would give you pause?
-- Is the eligibility criteria clear here and would that be enough information for you to choose to proceed or not? Why or why not?
-- If you proceed, would you sign in first? What is your thinking behind completing the application that way?
+- Is the eligibility criteria clear here and would that be enough information for you to choose to proceed? Why or why not?
+- If you proceed, would you sign in first and what do you expect to be different by signing in vs not?
+- Do you have all that information on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
+- On a scale of 1-5 (with 1 being poorly and 5 being very well) - how informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
 
 
 > [!NOTE]
@@ -143,9 +145,9 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - [ ] Pause them when the arrive at the gray box eligibility screen
 
-- In your own words, tell me what this page means and what you would do next if you were applying today?
+- In your own words, tell me what this page means and what you would do next if you were applying today.
   
-- On a scale of 1 - 5, 1 being difficult and 5 being very easy, how would you rate the easy-of-use of this protototype so far?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section of the form? Why did you give it that rating?
 
 
 > [!NOTE]
@@ -157,7 +159,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 ## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
 
-Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+- Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
 - [ ] Share link in chat of appropriate prototype B
 
@@ -168,6 +170,7 @@ Now we are going to switch gears and look through that second prototye I had men
   
 - [ ] State their answer during the first task of prototype A - would they proceed or not
 
+- Would you give this page a different rating from the first prorotype of how informed do you feel about the application? Why or why not?
 
 
 > [!NOTE]
@@ -188,7 +191,7 @@ Now we are going to switch gears and look through that second prototye I had men
 
 - What is your reaction to this eligibility determination you see on this screen?
 
-- On a scale of 1 - 5, 1 being difficult and 5 being very easy, how would you rate the easy-of-use of this second prototype?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
 
 
 
@@ -217,10 +220,13 @@ Now that we have gone through that second prototype, I want to walk through some
 
 [Warning Alert - Veteran not in DEERS] 
 
-- In this next scenario, you entered in your information just as before, but now you see the following information.
+- In this next scenario, you entered in your information just as before, but now you see the following information:
 
 - [ ] Page with warning alert shown
 
+- Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
+
+- Would you want to apply for CHAMPVA benefits despite the warning here and what actions, if any, would you take before doing so?
 
 [Warning Alert - Veteran found in DEERS, eligible for Tricare] 
 
@@ -228,19 +234,23 @@ Third scenario, you see the following alert:
 
 - [ ] Page with warning alert shown
 
+- Again, same thing, think aloud about your impressions of this alert message.
+
+- For this scenario, would you feel more confident now before appling? 
 
 
-[Success Alert - maybe be eligible for CHAMPVA] In this next scenario, you entered in the 
+[Success Alert - maybe be eligible for CHAMPVA] 
 
+- And the last scenario to go over, you see the following alert:
 
-- [ ] Page with warning alert shown
+- [ ] Page with success alert shown
+
 
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant state they would not complete the application if they see one of the warning alert options?]
 > - [Does the participant state any actions they would need to take or what they would do if they thought the alert warning was incorrect?]
-> - [Etc]
 
 
 # Post-Task Interview - 5 minutes
