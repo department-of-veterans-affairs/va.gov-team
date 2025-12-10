@@ -13,6 +13,12 @@ body:
 #> - **Testing Environment:** `TBD` if waiting to receive from team
 #> - **Assistive Tech Being Used**: (screen readers, screen magnifiers, text to speech)
 
+
+- type: markdown
+  attributes:
+    value: "> [!CAUTION]
+            > This template is no longer in use. Fill out this [ADE intake ticket](Accessibility-Digital-Experience-Intake-Ticket.md) for research support."
+
 - type: markdown
   attributes:
     value: "## About your team"
