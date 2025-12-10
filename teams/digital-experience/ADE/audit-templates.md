@@ -4,7 +4,7 @@
 # Templates for Accessibility Audits
 The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
 
-ADE support offerings are detailed in the [ADE Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/digital-experience/ADE#services-we-offer).
+ADE support offerings are detailed in the [ADE service list](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/digital-experience/ADE/ade-services.md).
 
 > [!TIP]
 > - Each Google Document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly.
