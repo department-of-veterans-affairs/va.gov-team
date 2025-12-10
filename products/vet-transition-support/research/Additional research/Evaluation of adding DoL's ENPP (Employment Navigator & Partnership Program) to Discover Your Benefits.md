@@ -1,7 +1,7 @@
 # Evaluation of adding DoL's ENPP (Employment Navigator & Partnership Program) to Discover Your Benefits
 
-Oct 3, 2025  
-Anna Higgins
+Dec 10, 2025  - added link to figma resource file (AJ)
+
 
 ## Summary
 
@@ -131,3 +131,5 @@ You must be a (1) transitioning service member or their spouse (2) within two ye
 * NSB New London  
 * Yokosuka
 
+## Resources 
+[Figma file](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?node-id=1573-32067&t=FJ4jhywbvFziZTYn-0)
