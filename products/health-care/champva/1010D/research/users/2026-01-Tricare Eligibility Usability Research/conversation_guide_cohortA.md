@@ -105,7 +105,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. Have you heard of the program before or have ever thought about applying?
 
 
-## Share prep
+
+
+
+
+## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
 I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
 
@@ -117,9 +121,6 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 - [ ] Tap on the button that says Share. Then there will be options for what to share. Please choose "Screen" (phone) or your web browser.
 - [ ] iPad: Broadcast screen
 
-
-
-## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
 - On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
 - Is there anything here that would give you pause?
@@ -142,7 +143,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 - Whose information would you be entering on those screens? Was that easy to understand?
 
 
-- [ ] Pause them when the arrive at a gray eligibility screen
+- [ ] Pause them when the arrive at the gray box eligibility screen
 
 - In your own words, tell me what this page means and what you would do next if you were applying today?
   
@@ -158,10 +159,18 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 ## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
 
-Now we are going to switch gears and look through that second prototye I had mententioned at the start.
+Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Share link in chat of appropriate prototype B
+
+- Again, on this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
+- Is there anything that stands out to you compared to the first prototype you saw?
+
+- Would you take the same or a different action as compared to the other prototype? Would you still proceed with the application?
+  
+- [ ] State their answer during the first task of prototype A - would they proceed or not
+
+
 
 > [!NOTE]
 > ### Things to watch for:
@@ -196,9 +205,11 @@ Now we are going to switch gears and look through that second prototye I had men
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Is there any other feedback you would like to add about these two prototypes?
+- Do you have a preference for how eligibility clarity should be added to an online form? 
 - Any questions for me? 
+
+
 
 ## Consent to use video clips
 
@@ -208,7 +219,7 @@ Now we are going to switch gears and look through that second prototye I had men
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 1 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
@@ -222,7 +233,3 @@ Thank you so much again, and enjoy the rest of your day!
 In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
 
 ---
-
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
