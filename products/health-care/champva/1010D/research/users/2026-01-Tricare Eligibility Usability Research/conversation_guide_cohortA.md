@@ -1,5 +1,5 @@
 ---
-title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026]"
+title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
 last_modified: "[2025-12-09]"
@@ -13,7 +13,7 @@ description: "A template for moderating research sessions including logistics, i
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
 - [ ] Make sure convo guide using aligns with participant - Veteran or family member
-- [ ] Copy link to either desktop or mobile prototype to have it ready
+- [ ] Have links to desktop or mobile prototypes for both versions ready
 - [ ] Have both prototypes ready if need to pivot to backup plan of moderator sharing screen
 
 ### Day of the session
@@ -37,7 +37,7 @@ description: "A template for moderating research sessions including logistics, i
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) application and eligibility.
+Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -87,8 +87,11 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
+1. Have you ever applied for the CHAMPVA program?
+- Should not be **enrolled** to qualify for study
+
+2. Have you ever heard about the CHAMPVA program before?
+3. If so, can you explain to me in your own words what you know about eligibility of that program?
 
 
 # Warm-up Questions (COHORT 2 - FAMILY MEMBER) - 5 minutes
@@ -102,9 +105,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## First Task: [PROTOTYPE A - INTRO PAGE] - X minutes
+## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
-- [ ] Step 1
+I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today?
+
+- [ ] Share link in chat of appropriate prototype A 
 - [ ] Step 2
 
 > [!NOTE]
