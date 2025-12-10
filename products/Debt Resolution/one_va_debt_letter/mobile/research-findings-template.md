@@ -121,83 +121,101 @@ synthesis_tools_used:
 - [Appendix](#user-content-appendix)
 - [Research participants](#user-content-research-participants)
 
-## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+## Research Goals and Questions
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
+**Goal 1: Assess veteran interest, value, and trust in a combined VA debt statement on mobile.**
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+`1.` How do Veterans currently manage or track multiple debts from the VA?
 
-## Research Questions
+`2.` What challenges or pain points do Veterans face without a centralized debt view?
 
-*List the research questions that guided this study.*  
+`3.` Do Veterans see value in a single place to view all outstanding financial obligations on mobile?
 
-* Question 1
-* Question 2
-* Question 3
+`4.` Does having a combined statement increase or decrease Veterans’ trust in the information presented compared to individual letters?
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+`5.` Does the combined statement make it easier or harder for Veterans to understand their total financial situation?
+
+**Goal 2: Identify Veteran needs, expectations, and preferences for viewing and interacting with a combined statement of outstanding debts on mobile.**
+
+`6.` How do the use cases differ between individual copay statements and debt letters vs combined statements?
+
+`7.` What actions or decisions would they want to take when viewing a combined statement, and is that different from viewing only individual statements?
+
+`8.` What information or features would make a combined statement most useful?
+
+`9.` How would Veterans prefer to interact with this document? (e.g. PDF, email, mobile app, web)
+
+`10.` Is having a downloadable PDF of the combined statement important when using a phone?
+
+### Veteran Journey
+
+This touches many areas of the Veteran's journey, as the product deals with debt and healthcare. [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+
+- Starting Up (Moment: Balancing Finances)
+- Taking Care of Myself (Moment: Maintaining my health)
+- Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)
+- Retiring (Moment: Taking care of my health)
+- Aging (Moment that Matters: Managing my declining health)
+
+### Outcomes we were aiming to achieve
+- **Provide a Go or No-Go decision:** determine if Veterans see sufficient value in a combined statement in the mobile app, saving significant developer effort if it is not desired.
+- **Define feature set for MVP:** determine which functions will be essential for launch.
+- **Establish information architecture and content:** inform the design, labeling, and content hierarchy, ensuring that the combined statement is clear and reliable.
+- **Determine UX flow and digital strategy:** seeing how Veterans prefer to interact with a combined statement will guide the user flow in the app.
+
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Description  
-- Method 2: Description  
+**Moderated remote sessions: semi-structured interviews and concept testing**
 
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+We used semi-structured interviews and concept testing in this phase of discovery research. The purpose of the interviews was to understand whether or not Veterans would find use in having a combined statement within the mobile app. Concept testing was conducted by presenting participants with an early-stage design concept for how a combined statement could be displayed, in order to gather feedback on possible user flows and features.
+
+The interview component consisted of conversation only, without any visual aids such as prototypes or screenshots of existing experiences.
+
+For the concept testing portion, Veterans interacted with two prototypes:
+
+* The first prototype simulated the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
+* The second prototype illustrated a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+* Veterans currently find it challenging to see the overall financial pictures of their debt and bills.
+    * **Likely false**
+    * Most participants use their own tools to see their entire financial situation, and are not concerned with seeing only VA ones.
+* They will like the idea of a combined statement to have the current financial obligations of overpayments and copays in one place.
+    * **Likely false**
+    * While a handful found value in an at-a-glance overview, most participants preferred separate statements for managing each debt.
+* Veterans will trust that the information provided is accurate and up to date.
+    * **Definitely true**
+    * Most participants report equal trust in combined and individual statements, as trust comes from details and transparency and not format. The only concern is delays in copay updates, which are expected to improve.
+* The current structure of a combined statement will be overwhelming to most.
+    * **Not enough information**
+    * Participant overwhelm ratings ranged from 1 to 5, with slightly more responses skewing toward the lower end. No clear trend indicates that the combined statement’s current structure is overwhelming.
+* They will want to view details of the debts and bills from combined statements.
+    * **Likely false**
+    * While participants wanted to see details, they emphasized a preference for managing (and therefore viewing) debts separately. Individual statements meet this need just as well as a combined statement.
+* Veterans will find PDFs of combined statements valuable, both as a familiar format and as a way to save for reference.
+    * **Maybe true**
+    * PDFs are valued for record-keeping and sharing, particularly when printed or viewed on larger screens; however, these needs are also met by individual statements.
+* They will still want access to individual statements and bills, and the combined statement will not be a substitute for these.
+    * **Definitely true**
+    * Everyone found value in the individual sections of debts and bills for separate management.
 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Participants manage VA debts alongside other bills, focusing on due dates rather than viewing VA debt as a distinct category.  
+2. Format preferences outweigh grouping; participants are more concerned with how information is presented than whether statements are individual or combined.  
+3. Most participants desire consistent features across all statements, regardless of grouping.  
+4. Most combined statement needs can be met with individual ones, as overpayments and copayments must be managed separately.  
+5. Trust is tied to details and transparency, not format.  
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
-
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
-
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
 
 ### Finding 1
 Participants manage VA debts alongside other bills, focusing on due dates rather than viewing VA debt as a distinct category.  
