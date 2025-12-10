@@ -18,9 +18,9 @@ description: "A template for moderating research sessions including logistics, i
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Make sure convo guide using aligns with participant - Veteran or family member
+- [ ] Copy link to either desktop or mobile prototype to have it ready
+- [ ] Have both prototypes ready if need to pivot to backup plan of moderator sharing screen
 
 ### Day of the session
 
@@ -52,7 +52,9 @@ Before we start, I have a few things that I want to go over with you:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-  
+
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
    - **If yes:** Admit observers.
@@ -60,9 +62,7 @@ Before we start, I have a few things that I want to go over with you:
 > [!TIP]
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
-  
+       
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
 
@@ -88,14 +88,24 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# Warm-up Questions (COHORT 1 - VETERAN) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
 - If no, skip to question 2.
-2. 
+
+# Warm-up Questions (COHORT 2 - FAMILY MEMBER) - 5 minutes
+
+Before we look at the website, let’s start with a few warm-up questions.
+
+1. Do you recieved health care benefits through Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+- If yes: should be no to have qualified for study
+
+2. Have you heard of the program before or have ever thought about applying?
+
+
 
 ## First Task: [TASK NAME] - X minutes
 
