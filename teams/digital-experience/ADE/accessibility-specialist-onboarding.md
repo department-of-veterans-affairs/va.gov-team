@@ -152,7 +152,7 @@ In all cases, you have a pivotal role to play in the accessibility of your team'
 - Conduct accessibility audits of products on staging and in production
 - Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md)
 - Assist teams with assistive technology research sessions with participants with disabilities
-Review ADE's full [menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/README.md#services-we-offer) to learn more.
+Review ADE's full [list of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md) to learn more.
 </details>
 
 ### Supporting the Platform Governance team
