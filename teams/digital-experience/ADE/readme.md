@@ -28,6 +28,11 @@
 - **GitHub:** [@artsymartha68](https://github.com/artsymartha68)
 - **Role:** OCTO-DE Lead
 
+### About This Team
+ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance throughout the product development lifecycle. 
+
+ADE supports all teams, with priority given to Veteran Facing Services (VFS) teams. We aim to work within your product schedule as much as possible.
+
 ## Products We Own
 
 _Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
