@@ -5,7 +5,7 @@ date_created: "[2025-12-09]"
 last_modified: "[2025-12-09]"
 tags:
   - "[Moderated]"
-  - "[Tag2]"
+  - "[Mid-Fidelity Prototype]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT A]
@@ -186,7 +186,12 @@ Now we are going to switch gears and look through that second prototye I had men
 - [ ] API Checks step 
 
 - Explain to me in your own words what happened once you clicked continue on this prototype and what this message means.
-- 
+
+- What is your reaction to this eligibility determination you see on this screen?
+
+- On a scale of 1 - 5, 1 being difficult and 5 being very easy, how would you rate the easy-of-use of this second prototype?
+
+
 
 > [!NOTE]
 > ### Things to watch for:
@@ -197,8 +202,36 @@ Now we are going to switch gears and look through that second prototye I had men
 
 ## Fifth Task: [PROTOTYPE B - ALERTS] - 10 minutes
 
+Now that we have gone through that second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
+
+
+[Warning Alert - Veteran not in VA System] In this first scenario, you entered in the 
+
+
+
 - [ ] Step 1
 - [ ] Step 2
+
+[Warning Alert - Veteran not in DEERS] In this next scenario, you entered in the 
+
+
+- [ ] Step 1
+- [ ] Step 2
+
+
+[Warning Alert - Veteran found in DEERS, eligible for Tricare] In this next scenario, you entered in the 
+
+
+- [ ] Step 1
+- [ ] Step 2
+
+
+[Success Alert - maybe be eligible for CHAMPVA] In this next scenario, you entered in the 
+
+
+- [ ] Step 1
+- [ ] Step 2
+
 
 > [!NOTE]
 > ### Things to watch for:
