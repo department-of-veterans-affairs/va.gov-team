@@ -135,6 +135,7 @@ Provide links to any supporting artifacts that can help us better understand you
 #### What touchpoint of the Collaboration Cycle do you need help with?
 `name of touchpoint`
 
+</details>
 
 ## Next Steps for Your Team
 - [ ] Make sure your team and product labels are on this ticket
