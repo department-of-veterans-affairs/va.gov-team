@@ -53,7 +53,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 ---
 ### Stage A: Canary
-- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually 2 full days)
+- Length of time: **12/10/2025 - 12/11/2025**
 - Percentage of Users (and roughly how many users do you expect this to be): 10% (approximately 15 users per day)
 
 #### Results
@@ -70,7 +70,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually 1-2 full days, depending on how it is going)
+- Length of time: **12/11/2025 - 12/15/2025** 
 - Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 38 users per day)
 
 #### Results
@@ -87,7 +87,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **12/TBD/2025 - 12/TBD/2025** (Usually this phase ends up going over the weekend)
+- Length of time: **12/15/2025 - 12/16/2025** 
 - Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 76 users per day)
 
 #### Results
@@ -107,7 +107,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **12/TBD/2025** (Usually a Monday or Tuesday)
+- Length of time: **12/16/2025** 
 - Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 150 users per day)
 
 #### Results
