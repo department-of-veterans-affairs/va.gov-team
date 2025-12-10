@@ -108,6 +108,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 > “When you tap the link in the chat, it might ask if you want to open it in an app called Figma or in your browser. You can choose browser.  
 > Once it opens, you’ll see an example of a message we’ll be talking about. You can scroll or tap on the blue areas to move forward.”
 
+> To screen share on Zoom from an Android phone, join your meeting, tap the green "Share" button, select "Screen," grant permissions when prompted (it tells you you're recording your screen), and tap "Start Now" to begin sharing your whole device; tap "Stop Share" in the controls to end it
 ---
 
 ## 5. Scenario 1: Decision Letter Notifications (~15 min)
