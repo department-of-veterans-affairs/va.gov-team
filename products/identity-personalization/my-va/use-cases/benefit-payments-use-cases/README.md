@@ -43,17 +43,6 @@
 </details>
 
 
-<details><summary>User has never had any outstanding debts or copays</summary>
-
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=hGk8TQXoTYR6Q8xd-0)
-- **Request:** `GET /v0/debts`
-  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L254)
-- **Request:** `GET /v0/medical_copays`
-  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1661)
-
-</details>
-
-
 <details><summary>User has not received any payments from VA in the last 60 days</summary>
 
 - **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
@@ -62,17 +51,6 @@
 - **Content:** See designs
  - **Request:** `GET /v0/profile/payment_history`
    - **Reponse:** `200` [no recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L14)
-
-</details>
-
-
-<details><summary>User does not have any outstanding VA debts or copays</summary>
-
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=hGk8TQXoTYR6Q8xd-0)
-- **Request:** `GET /v0/debts`
-  - **Reponse:** `200` [debt count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L1) (dev mock data wip)
-- **Request:** `GET /v0/medical_copays`
-  - **Reponse:** `200` [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
 
 </details>
 
@@ -89,16 +67,6 @@
 
 </details>
 
-
-<details><summary>User has outstanding overpayment debts and copays</summary>
-
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=hGk8TQXoTYR6Q8xd-0)
-- **Request:** `GET /v0/debts`
-  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L7)
-- **Request:** `GET /v0/medical_copays`
-  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
-
-</details>
 
 
 ### Benefit payments edge cases
@@ -162,16 +130,19 @@ There are no flags with this feature.
    - A copay debt is an amount that a Veteran must pay for VA health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
 
 
-### Overpayments and copay bills ommon use cases
+### Overpayments and copay bills common use cases
 
 <details><summary>User has never had any outstanding debts or copays</summary>
 
 - **Use case:** If a logged in LOA3 user has no history of outstanding debts or copays they receive a message informing them they don't have any and a link to the general debts and copays tool.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L254)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1661)
 
 </details>
 
@@ -181,11 +152,14 @@ There are no flags with this feature.
 <details><summary>User does not have any outstanding VA debts</summary>
 
 - **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding debts.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [debt count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L1) (dev mock data wip)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
 
 </details>
 
@@ -193,11 +167,14 @@ There are no flags with this feature.
 <details><summary>User has outstanding overpayment debts</summary>
 
 - **Use case:** If a logged in LOA3 user has any outstanding overpayment debts in the debt portal, they will see a card in this section that tells them how many overpayment debts they have, the date this information was last updated, and a link to the debts page of the combined debt portal.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L7)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
 
 </details>
 
@@ -207,11 +184,15 @@ There are no flags with this feature.
 <details><summary>User does not have any outstanding copays</summary>
 
 - **Use case:** If a logged in LOA3 user does not have any copays in the combined debt portal or their total copays equals 0, they will see a card informing them that they have no copays.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [debt count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L1) (dev mock data wip)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
+  
 
 </details>
 
@@ -219,11 +200,14 @@ There are no flags with this feature.
 <details><summary>User has outstanding copays</summary>
 
 - **Use case:** If a logged in LOA3 user has any outstanding copay debts in the debt portal, they will see a card in this section that tells them how many copay debts they have, the date this information was last updated, and a link to the copays page of the combined debt portal.
-- **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
+- **Request:** `GET /v0/debts`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L7)
+- **Request:** `GET /v0/medical_copays`
+  - **Reponse:** `200` [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
 
 </details>
 
