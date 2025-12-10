@@ -25,7 +25,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Eliminate the custom, external AccessVA site by providing a place on VA.gov for the various types of users to access their needed applications. 
+* Eliminate the custom, external AccessVA site by providing a place on VA.gov for various types of users to access their needed applications. 
 
 **Related/Associated product(s)**
 - Single-Sign On (External) | [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/single-sign-on#product-outline) 
@@ -68,67 +68,75 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - Users must use this page to access certain services they currently access via AccessVA.
+  - (to be filled in by product)
 - **Usability Risks** (can people figure out how to use it):
-  - We're using the same categories from AccessVA on the new page + the accordion method of organizing application links. This should feel somewhat familiar to AccessVA users.
-  - Because the page is relatively simple, we could do unmoderated testing if needed.
+  - Risk: Users may initially be confused by the dramatically different style of VA.gov vs AccessVA which does not use the VADS.
+    - We're using the same user categories from AccessVA on the new page + the accordion method of organizing application links. This should feel somewhat familiar to AccessVA users.
+    - Because the page is relatively simple, we could do unmoderated testing to verify task success.
+  - Risk: Users may initially have a difficult time finding the application they want if they were depending on "muscle-memory" to navigate to the correct app + the logo. Since this is a static page, we cannot display the application logos via Drupal.
+    - Applications will be links, served in alphabetical order, and grouped by user type. This should help with findability.
+    - This is something we can test for via unmoderated studies for task success.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
+  - (to be filled in by engineering)
   - Examples:
     - Upstream/Downstream API/Data availability and reliability
     - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+  - (to be filled in by product)
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+- *Is this work supported by user research?*
+  - Yes, some apps on AccessVA do not have an unauth state and rely upon AccessVA as the first step in their sign-on process.
+  - [AccessVA research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/single-sign-on/research/user-discovery/2025-08-AccessVA)*
+>  - *If this work is **not supported by existing user research**, will this work include user research?*
+>    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
+>    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
 
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
- 
+- (to be filled in by product?)  
 > *What have you explicitly decided to **not** include and why?*
-
+- (to be filled in by product?)
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
-
+- (to be filled in by product, but my guess is no)
 > *How does this solution address your Assumptions & Risks?*
-
+- (to be filled in my product)
 #### Go-to-market 
 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
-
+- (to be filled by product?)
 > *Which groups/orgs are necessary to make this happen?*
-
+- We are working with OCTO-Identity who is helping support this project. Because the page is a static page, the OCTO - Sitewide Content and IA Team will be building and updating the page.
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
 > 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket (will file for one once this outline is done)
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) (separate document to be filled in by product)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - tbd (to be filled in by product)
 - *Actual Launch Date* 
-  - tbd
+  - tbd (to be filled in by product)
 
 ---
    
 ## Screenshots
 
 ### Before
+<img width="1206" height="638" alt="image" src="https://github.com/user-attachments/assets/41290a7e-b0c7-49d3-8bef-355ecb2bed05" />
 
 ### After
 
@@ -139,10 +147,18 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
+- Team Name: ICAM Portfolio Services - External SSO
+- GitHub Label(s): ICAM-external-SSO
+- Slack channel: [#icam-svcs-external-sso](https://dsva.slack.com/archives/C07T842J0TY)
 - Product POCs:
+  - Amos Stone | ICAM Technical Advisor & SSOe Product Owner:
+    - john.stone3@va.gov
+  - Sherry Smith | ICAM Product Lead/Product Line Manager & SSOe Product Owner:
+    - sherry-lynne.smith@va.gov
+  - Damien DeAntonio | ICAM Services Portfolio - Architect:
+    - damien.deantonio@va.gov
+  - Joel Calumpong | ICAM SSO UX lead:
+    - joeljon.calumpong@va.gov
 
 </details>
 
@@ -152,8 +168,18 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: VA OCTO - Identity
+- Contact(s):
+  - Samara Strauss | OCTO Identity crew lead
+    - samara.strauss@va.gov
+  - Lainey Trahan | VA.gov Identity Team - Product Manager
+    - Elaine.Trahan@va.gov
+  - Joelle Wells | Identity Experience, Product Manager
+    - joelle.wells@va.gov
+  - Clayton Zook | Identity Experience Team - UX Reseacher
+    - Clayton.Zook@VA.gov
+  - Megan Driscoll | Identity Experience - Content Designer
+    - megan.driscoll2@va.gov
  
 </details>
 
