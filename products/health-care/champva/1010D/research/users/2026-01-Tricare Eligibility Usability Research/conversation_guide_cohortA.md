@@ -8,7 +8,7 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026]
+# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT A]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -124,19 +124,26 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 - On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
 - Is there anything here that would give you pause?
 - Is the eligibility criteria clear here and would that be enough information for you to choose to proceed or not? Why or why not?
+- If you proceed, would you sign in first? What is your thinking behind completing the application that way?
 
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
+> - [Does the participant state they reason the have not applied or would not qualify as being the Tricare eligibility?]
+> - [Does the participant state that they would proceed with the application anyways?]
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
 
-## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - 5 minutes
+
+- For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
+- Okay, go ahead and "?click on the blue alert box to move forward in the prototype)"
+- Go through these next few questions and please remember to think aloud. A reminder, this is a protoype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
+
+- [ ] Pause them when the arrive at a buffer screen
+
+- On a scale of 1 - 5, 1 being difficult and 5 being very easy, how would you rate the easy-of-use of this protototype so far?
+
 
 > [!NOTE]
 > ### Things to watch for:
@@ -144,7 +151,10 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [PROTOTYPE B - INTRO] - X minutes
+
+## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
+
+Now we are going to switch gears and look through that second prototye I had mententioned at the start.
 
 - [ ] Step 1
 - [ ] Step 2
