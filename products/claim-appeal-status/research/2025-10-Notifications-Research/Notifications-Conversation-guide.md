@@ -194,7 +194,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 - When does it need to be completed? How urgent does this message feel to you? (Compare urgency of mobile app, text to email)
 - Was any aspect of this message (font, color, wording) hard to read or confusing?  
 - On a scale of 1–5, how trustworthy does it feel? What about it makes you feel that way?  
-- How would the device (phone, tablet, computer) you receive the notification on impact your ability to read, trust, or act on it?
+- If you received this type of notification requiring action from you on your phone. How comfortable would you be acting on it from your phone?At any point would you feel the need to switch to a desktop?
 
   
 - The text message says 'we need more information' but doesn't say what kind of information or why. Tell me what you think about that level of specificity?
@@ -233,7 +233,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 
 **Claim Status Notifications**
 
-> “Claim status notifications are messages that update you on the progress of your benefits claim, for example, letting you know your claim has moved to a new step. These notifications don’t require any action; they’re just meant to keep you informed.”
+> Lastly I wanted to talk about another type of notification you may receive.“Claim status notifications are messages that update you on the progress of your benefits claim, for example, letting you know your claim has moved to a new step. These notifications don’t require any action; they’re just meant to keep you informed.”
 
 - How interested are you in receiving regular claim status notifications like these?  
 - How often would you want/expect to receive them?
