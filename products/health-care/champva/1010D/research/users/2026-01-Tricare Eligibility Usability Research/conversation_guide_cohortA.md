@@ -4,7 +4,7 @@ author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
 last_modified: "[2025-12-09]"
 tags:
-  - "[Tag1]"
+  - "[Moderated]"
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
