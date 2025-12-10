@@ -201,9 +201,7 @@ Thank you! Now I’d like you to do something else for me...
 
 For the second set of questions, I'm going to have you follow the link that I have just pasted into the chat.
 
-https://staging.va.gov/
-
-https://tinyurl.com/mwvcamhn
+https://staging.va.gov/  (See below for instructions on using the prototype if the test user is not working.)
 
 This is the staging environment for VA.gov where we can test out new ideas to make sure they work before we go live. 
 
@@ -222,6 +220,15 @@ Now we're going to navigate to the medications landing page. To do this:
 
 
 Excellent. We're now where we need to be.
+
+--
+
+**Prototype instructions:**
+https://tinyurl.com/mwvcamhn
+
+Like the previous task, this is a prototype and it is clickable scrollable a website. We want you to imagine that this is the actual live website.
+
+--
 
 Let's take a minute or two to get familiar with this page.
 
@@ -336,6 +343,13 @@ Thank you for completing that task. I have a few follow up questions for you:
 * "Before we wrap up Task 2, I'd like to show you one more thing.
 1. Can you please go to the link I have just pasted into the chat: https://tinyurl.com/48smhma5
 2. Please select one of the care teams and click "Continue"
+
+--
+**Prototype instructions**
+
+Say you're trying to request a renewal of your Zyrtec medication and you click the request a renewal via secure message link on that Zyrtec medication. Go ahead and do that.
+
+--
 
 Imagine you tried to request a renewal for this medication, but when you clicked the link to send a message to request a renewal, you were taken to this page. What would you do next?
 
