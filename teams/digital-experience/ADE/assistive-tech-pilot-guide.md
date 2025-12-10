@@ -13,7 +13,7 @@ The ADE Accessibility team can help by running a pilot session with you before y
 - Get valuable feedback about your prototype and conversation guide, which you can then adjust before your study begins 
 
 ## First steps
-- Review this guide, as part of your [ADE Intake Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=aAccessibility-Digital-Experience-Intake-Ticket.md) ticket
+- Review this guide, as part of your [ADE Intake Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
 - After beginning to collaborate with ADE, let us know that you want to do a pilot
   - If you do, we'll create a child ticket to keep track of that work and provide feedback
 
