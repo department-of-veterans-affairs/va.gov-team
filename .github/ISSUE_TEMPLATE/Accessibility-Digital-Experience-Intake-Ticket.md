@@ -99,7 +99,7 @@ _Select all that apply:_
 - [ ] CodePen
 - [ ] Other: `type of prototype`
 
-- Note: In order to be accessible to screen readers, a prototype must be coded, which Figma is not. 
+- Note: Figma prototypes are not accessible to screen readers. 
 
 </details>
 
