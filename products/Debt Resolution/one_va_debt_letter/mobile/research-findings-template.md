@@ -199,6 +199,64 @@ Brief description
 Brief description  
 - _Supporting data: Quote [add context]_  
 
+### Finding 1
+Participants manage VA debts alongside other bills, focusing on due dates rather than viewing VA debt as a distinct category.  
+- They use tools such as spreadsheets, calendars, and automation to manage their overall financial picture.  
+
+    > _"Auto pay usually helps a lot, but other than that, I do keep a a spreadsheet as well. With who's the company that I need to pay and how much is the bill? And I also keep a tab on how much money is in my checking account to pay those bills." -P06_
+
+    > _"I have all my recurring bills in my Google Calendar set up with reminders at least a day before, saying this bill is due on this day. So I'll go in and take a look – let me see what other bills are due within a couple of days of that." -P07_
+
+- Payments are generally planned around due dates and income cycles, without special treatment for VA debt.  
+
+    > _"The end of the month is when I make sure that all bills have been paid. Most of my bills are actually due at the beginning of the following month, so I just try to have it paid by the first few days of the end of the prior month." -P06_
+
+    > _"With my pay period, if it lands on the 15th, I try to get everything from the 1st to the 14th or 15th and pay it around that time. Then, for anything toward the end of the month, I plan around those dates so the bills are paid at that time." -P09_
+
+- Most participants feel neutral about whether combined statements make it easier or harder to understand their overall financial situation. A few appreciate quick overviews, but still need separate details for any management.  
+- No one reported challenges from the lack of a centralized debt view.  
+
+### Finding 2
+Format preferences outweigh grouping; participants are more concerned with how information is presented than whether statements are individual or combined.  
+- PDFs are valued for record keeping or error review, primarily for printing or viewing on a larger screen.  
+
+    > _[when might you use this PDF?] "Only if I knew that there were errors that I needed to discuss, like line item by line item. But that's the only situation where I've ever felt any kind of need to do anything like that." -P04_
+    > _"I like to print things out and be able to physically see it if I need to keep it for my records, because if the computer's down or the cell phones down, I don't have quick enough access to it." -P01_
+    > _"I have to zoom in to see stuff – that's why I like the like the laptop and all that. -P03_
+
+- A few suggested sharing the PDF with someone who assists with finances.  
+
+    > _"If I wanted to download the statement, like I'm trying to get financial help and all that. This'd be a good where I could download it and print it out and send it to somebody that's going to help me with payment." - P03_
+
+- List views are seen as helpful for resolving bills or debt, and reviewing transaction details.  
+
+### Finding 3
+Most participants desire consistent features across all statements, regardless of grouping.  
+- Key needs include transaction details, contact information, and resolution methods.  
+
+    > _Only one participant had different desires: options to resolve on the individual, and details of transactions on the combined._
+
+### Finding 4
+Most combined statement needs can be met with individual ones, as overpayments and copayments must be managed separately.
+
+- There’s limited perceived value in a combined view, especially on mobile.  
+
+    > _"But me in general, I would not use the whole combined PDF statement. I'm the type of person that wants to attack one bill at a time." -P03_
+
+- The few who do see value want immediate answers about what is owed, but still want separated details to manage each one.  
+
+- Although some participants want combined PDFs to share with others, detailed management always requires separated information.  
+
+    > _"I honestly kind of like them separated because there are two primary categories. It's probably just the way that my brain likes to compartmentalize things and shift things from one to the next. 1 is straight up just a bill, and then one is an error in my favor of that turned out to not be in my favor, you know, however you want to say it." -P04_
+
+### Finding 5
+Trust is tied to details and transparency, not format.  
+- Most participants report equal trust in both, so long as statements are transparent and detailed.
+
+    > _"It's the same information, it's just displayed differently." -P04_
+
+    > _"So either being separated or together: I don't think that one seems more trustworthy to me." -P07_
+
 ---
 
 ## Additional Insights
