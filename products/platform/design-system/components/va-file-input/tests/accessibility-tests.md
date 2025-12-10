@@ -137,7 +137,7 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
   - **When dragging the file:** Not applicable in this test case
 
 **4. Chrome + iOS + VO:**
-  - ❌ **When using the link:** It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page
+  - ✅ **When using the link:** It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. But after the announcemnt of the url, it does announce "You have selected a file filename.extension". 
   - **When dragging the file:** Not applicable in this test case
 
 **5. Firefox + JAWS:**
@@ -475,9 +475,9 @@ A valid file is already uploaded.
 
 | Date found | Issue | Date retested fix | Status |
 | ---------- | ----- | ----------------- | ------ |
-| 12/9/25    | Mac, Chrome, VO: loses focus after file deleted, and file deletion is not announced |   | Triage |
-| 12/9/25    | iOS, Chrome, VO: when file is successfully uploaded, focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. Since this is in regards to success state, we will address this in v2 | | Known, save for v2| 
-| 12/9/25    | Mac, Safari, VO: No success state being announced; This worked once, but no longer. Will address in v2. |    | Known, save for v2 | 
+| 12/9/25    | **PR:** Mac, Chrome, VO: After deleting a file, the virtual cursor highlights the viewport. and the page `<title>` is announced. The next tab takes the user to the component (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport). <br /><br /> **Current:** Mac, Chrome, VO: After deleting a file, focus goes to the "input" and  this is announced "Select a file to upload Drag a file here or choose from folder. No file selected." |   |  |
+| 12/9/25    | **PR:** iOS, Chrome, VO: when file is successfully uploaded, the Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. And then, "You have selected a file filename.ext" is announced. <br /><br /> **Current:** In the existing component, focus goes to the change file button and annouces "Change file button filename.ext"  | | | 
+| 12/9/25    | **PR:** Mac, Safari, VO: After uploading, the page `<title>` is announced. The next tab takes the user to the component; (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport).  This worked once, but no longer. <br /><br />**Current:** After uploading, the page `<title>` is announced. The next tab takes the user to the component; (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport).   |    |  | 
 
 ---
 
