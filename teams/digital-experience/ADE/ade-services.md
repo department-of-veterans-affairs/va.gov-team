@@ -1,6 +1,6 @@
 # Accessibility Digital Experience (ADE) Team
 
-*We pronounce “ADE” like the word “aide”*
+*We pronounce “ADE” like the word “aid”*
 
 ADE can help your team deliver accessible products to Veterans and others. We are a team of accessibility experts who can support you on product design, user research with assistive technologies, accessibility audits, and general accessibility guidance throughout the product development lifecycle. ADE supports all teams, with priority given to Veteran-Facing Services (VFS) teams. We aim to work within your product schedule as much as possible. 
 
