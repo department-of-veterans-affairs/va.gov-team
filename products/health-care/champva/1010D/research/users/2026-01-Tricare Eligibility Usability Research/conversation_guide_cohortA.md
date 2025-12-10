@@ -2,7 +2,7 @@
 title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
-last_modified: "[2025-12-09]"
+last_modified: "[2025-12-10]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
@@ -174,7 +174,6 @@ Now we are going to switch gears and look through that second prototye I had men
 > ### Things to watch for:
 > - [Does the participant have a different reaction to the intro page?]
 > - [Note: be aware of familiarity bias being so similar (? What are the differences exaclty? if any?)]
-> - [Etc]
 
 
 ## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
@@ -183,7 +182,7 @@ Now we are going to switch gears and look through that second prototye I had men
 - Go through these next few questions and please remember to think aloud. As the other one, you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here too.
 - Whose information would you be entering on those screens? Was that easy to understand?
 
-- [ ] API Checks step 
+- [ ] API Check step in prototype flow
 
 - Explain to me in your own words what happened once you clicked continue on this prototype and what this message means.
 
@@ -195,48 +194,52 @@ Now we are going to switch gears and look through that second prototye I had men
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - [Does the participant call out any differences from the first prototype - good or bad?]
+> - [Does the participant seem to appreciate the API alert or are they thrown off by it thinking they did something wrong?]
+> - [Would the participant want to proceed through the form despite what the alert stated?]
 
 
 ## Fifth Task: [PROTOTYPE B - ALERTS] - 10 minutes
 
-Now that we have gone through that second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
+Now that we have gone through that second prototype, I want to walk through some scenarios and messaging with you to get your feedback. I will read a scenario to you before you click continue, then review the page you are shown and please state any questions you may have or feedback you could provide.
 
 
-[Warning Alert - Veteran not in VA System] In this first scenario, you entered in the 
+[Warning Alert - Veteran not in VA System] 
+
+- In this first scenario, you entered in your information but for some reason your information, and you see the following message:
+
+- [ ] Page with warning alert shown
+
+- Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
+
+- In this scenario, would you want to apply for CHAMPVA benefits despite the warning?
 
 
+[Warning Alert - Veteran not in DEERS] 
 
-- [ ] Step 1
-- [ ] Step 2
+- In this next scenario, you entered in your information just as before, but now you see the following information.
 
-[Warning Alert - Veteran not in DEERS] In this next scenario, you entered in the 
-
-
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Page with warning alert shown
 
 
-[Warning Alert - Veteran found in DEERS, eligible for Tricare] In this next scenario, you entered in the 
+[Warning Alert - Veteran found in DEERS, eligible for Tricare] 
 
+Third scenario, you see the following alert:
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Page with warning alert shown
+
 
 
 [Success Alert - maybe be eligible for CHAMPVA] In this next scenario, you entered in the 
 
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Page with warning alert shown
 
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
+> - [Does the participant state they would not complete the application if they see one of the warning alert options?]
+> - [Does the participant state any actions they would need to take or what they would do if they thought the alert warning was incorrect?]
 > - [Etc]
 
 
