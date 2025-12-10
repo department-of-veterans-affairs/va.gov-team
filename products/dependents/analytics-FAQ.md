@@ -47,7 +47,7 @@ _This file is intended to record common questions that arise out of the dependen
 
 
 - ``Duplicate alert`` is shown on the array list loop summary page and the review and submit page. It's a warning if the possible duplicate hasn't been acknowledged, and it's an info box if it was acknowledged. It was released on 11/6/25.
-   - For children: “Duplicate alert" is shown on the array list loop summary page when the user has entered dependents with the same first name, last name, and DOB within the array. (No check against the API). It’s always an info alert. It shows within the card for the dependents that have the matching data. There would never be only one alert on a summary screen—it appears within each card with the matching data (see screenshot)
+   - For children: “Duplicate alert" is shown on the array list loop summary page when the user has entered dependents with the same first name, last name, and DOB within the array. (No check against the API). It’s always an info alert. It shows within the card for the dependents that have the matching data. There would never be only one alert on a summary screen—-it appears within each card with the matching data (because two of the same children were entered), so the data within the duplicate alert widget in datadog is divided by 2 to avoid double counting the appearance of the alert.
    - For spouse: There are no duplicate alerts, only the modal. A user can only enter one spouse which means we don’t use the array pattern and there’s not a summary screen for spouse that could show the alert.
 <img width="301" height="746" alt="image" src="https://github.com/user-attachments/assets/c94e03ab-3781-4da8-b723-cd5f7ff068a6" />
 
