@@ -1,4 +1,4 @@
-# My VA: Benefit payments use cases
+# My VA: Payments and debts use cases
 
 **Last updated: December 2025**
 
@@ -6,7 +6,7 @@
 - [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14219&t=cZLTEcVoQuXx90AV-1)
 - Test Rail QA
 
-<details><summary>Archive | How to reproduce in staging</summary>
+<details><summary>Archive | How to reproduce benefit payments in staging</summary>
 
 - [User has not received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/no-recent-payments.md#how-to-reproduce)
 - [User has received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/has-recent-payments.md#how-to-reproduce)
@@ -14,12 +14,22 @@
 
 </details>
 
-## Phase 1, 3.0 experience
+<details><summary>Archive | How to reproduce overpayments and copay bills in staging</summary>
+
+- [User does not have any outstanding VA debt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/no-outstanding-debt.md#how-to-reproduce)
+- [User has outstanding overpayment debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/overpayment-debts.md#how-to-reproduce)
+- [User has outstanding copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-debts.md#how-to-reproduce)
+- [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md#how-to-reproduce)
+- [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md#how-to-reproduce)
+
+</details>
+
+## Phase 1, 3.0 benefit payment experience
 - For all of these use cases, the user must be LOA3 (identity verified). **If the user is not LOA3, the user will not see this section on My VA.**
 - Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out monthly via direct deposit or paper check.
 - This feature on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show.
 
-## Common use cases
+### Common benefit payment use cases
 
 <details><summary>User has never had any benefits payments</summary>
 
@@ -91,15 +101,15 @@
 </details>
 
 
-## Edge cases
+### Benefit payments edge cases
 
-### Validation
+#### Validation
 This feature has no validation use cases.
 
-### Flags
+#### Flags
 There are no flags with this feature.
 
-### Errors
+#### Errors
 
 <details><summary>The payments API is down and we can't display any payment information</summary>
 
@@ -141,6 +151,131 @@ There are no flags with this feature.
 
 </details>
 
+
+
+
+
+## Phase 1, 3.0 Overpayments and copay bills experience
+- For all of these use cases, the user must be LOA3 (identity verified). **If the user is not LOA3, the user will not see this section on My VA.**
+- Outstanding debts encompasses overpayment debts and copay debts.
+   - Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons, but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt.
+   - A copay debt is an amount that a Veteran must pay for VA health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
+
+
+### Overpayments and copay bills ommon use cases
+
+<details><summary>User has never had any outstanding debts or copays</summary>
+
+- **Use case:** If a logged in LOA3 user has no history of outstanding debts or copays they receive a message informing them they don't have any and a link to the general debts and copays tool.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+#### Overpayment debts
+
+<details><summary>User does not have any outstanding VA debts</summary>
+
+- **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding debts.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+<details><summary>User has outstanding overpayment debts</summary>
+
+- **Use case:** If a logged in LOA3 user has any outstanding overpayment debts in the debt portal, they will see a card in this section that tells them how many overpayment debts they have, the date this information was last updated, and a link to the debts page of the combined debt portal.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+#### Copays
+
+<details><summary>User does not have any outstanding copays</summary>
+
+- **Use case:** If a logged in LOA3 user does not have any copays in the combined debt portal or their total copays equals 0, they will see a card informing them that they have no copays.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+<details><summary>User has outstanding copays</summary>
+
+- **Use case:** If a logged in LOA3 user has any outstanding copay debts in the debt portal, they will see a card in this section that tells them how many copay debts they have, the date this information was last updated, and a link to the copays page of the combined debt portal.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+### Overpayments and copay bills edge cases
+
+#### Validation
+This feature has no validation use cases.
+
+#### Flags
+There are no flags with this feature.
+
+#### Errors
+
+<details><summary>The Lighthouse API is down and we can't display any debts or bills</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the Lighthouse API showing debts and copays, show a warning alert to the user in the card with a link to the debts tool.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-47879&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+
+</details>
+
+
+<details><summary>The debts API is down and we can't display any overpayment debt information</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the debt API (DMC), show a warning alert to the user in the card with a link to the debts tool.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15744&t=cZLTEcVoQuXx90AV-1)
+- [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/debts/getDebts)
+- **Content:** See designs
+
+
+</details>
+
+
+<details><summary>The copays API is down and we can't display any copay information</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the copay API (VBS), show a warning alert to the user in the card with a link to the debts tool.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=cZLTEcVoQuXx90AV-1)
+- [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays)
+- **Content:** See designs
+
+
+</details>
+
 ---
 
 <details><summary>Archive | My VA: Benefit Payments Use Cases, December 2022</summary>
@@ -172,3 +307,38 @@ There are no flags associated with this feature.
 - [User flow for benefit payments on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7514&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
 </details>
+
+<details><summary>Archive | My VA: Outstanding debts use cases, February 2024</summary>
+
+# My VA: Outstanding debts use cases
+
+**Last updated:** February 16, 2024 - added Figma link
+
+## Overview of Outstanding Debts
+* Outstanding debts encompasses overpayment debts and copay debts.
+  * Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt. 
+  * A copay debt is an amount that a Veteran must pay for health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
+* This feature on My VA gives the user an overview of their outstanding debts if there are any to show and links them to the combined debt portal.
+* For all of these use cases, the user must be LOA3 (identity verified).
+* [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases) will not see this section on My VA.
+
+## Common use cases
+- [User has outstanding overpayment debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/overpayment-debts.md)
+- [User has outstanding copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-debts.md)
+- [User does not have any outstanding VA debt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/no-outstanding-debt.md)
+
+## Edge cases
+
+### Flags
+There are no flags associated with this feature.
+
+### System
+- [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md)
+- [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md)
+- [Both the debts and copays APIs are down and we can't display information for either of them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debt-and-copay-error.md)
+
+## Flow diagrams
+- [Outstanding debts on My VA user flow](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7422&mode=design)
+
+</details>
+
