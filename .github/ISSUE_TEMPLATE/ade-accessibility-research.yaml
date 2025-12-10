@@ -16,7 +16,7 @@ body:
 
 - type: markdown
   attributes:
-    value: "**This template is no longer in use. Fill out this [ADE intake ticket](Accessibility-Digital-Experience-Intake-Ticket.md) for research support.**"
+    value: "**This template is no longer in use. Fill out this [ADE intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) for research support.**"
 
 - type: markdown
   attributes:
