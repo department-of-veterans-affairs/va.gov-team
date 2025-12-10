@@ -137,19 +137,23 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 ## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - 5 minutes
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
-- Okay, go ahead and "?click on the blue alert box to move forward in the prototype)"
+- Okay, go ahead and "?click on the blue alert box to move forward in the prototype)" (only if they state they would proceed)
 - Go through these next few questions and please remember to think aloud. A reminder, this is a protoype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
+- Whose information would you be entering on those screens? Was that easy to understand?
 
-- [ ] Pause them when the arrive at a buffer screen
 
+- [ ] Pause them when the arrive at a gray eligibility screen
+
+- In your own words, tell me what this page means and what you would do next if you were applying today?
+  
 - On a scale of 1 - 5, 1 being difficult and 5 being very easy, how would you rate the easy-of-use of this protototype so far?
 
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - [Does the participant clearly understand they are entering in their own information first being the Veteran?]
+> - [Does the participant state they would stop or leave the form and not apply at any time during the pattern flow?]
+> - [Does the participant say that anything is confusing, unclear or would need additional context?]
 
 
 ## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
