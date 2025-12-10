@@ -107,8 +107,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-
-
 ## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
 I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
@@ -174,12 +172,30 @@ Now we are going to switch gears and look through that second prototye I had men
 
 > [!NOTE]
 > ### Things to watch for:
+> - [Does the participant have a different reaction to the intro page?]
+> - [Note: be aware of familiarity bias being so similar (? What are the differences exaclty? if any?)]
+> - [Etc]
+
+
+## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
+
+- For this prototype, proceed the same as you did before "?click on the blue alert box to move forward in the prototype)"
+- Go through these next few questions and please remember to think aloud. As the other one, you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here too.
+- Whose information would you be entering on those screens? Was that easy to understand?
+
+- [ ] API Checks step 
+
+- Explain to me in your own words what happened once you clicked continue on this prototype and what this message means.
+- 
+
+> [!NOTE]
+> ### Things to watch for:
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
 > - [Etc]
 
 
-## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - X minutes
+## Fifth Task: [PROTOTYPE B - ALERTS] - 10 minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -191,19 +207,7 @@ Now we are going to switch gears and look through that second prototye I had men
 > - [Etc]
 
 
-## Fifth Task: [PROTOTYPE B - ALERTS] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-
-# Post-Task Interview - X minutes
+# Post-Task Interview - 5 minutes
 
 - Is there any other feedback you would like to add about these two prototypes?
 - Do you have a preference for how eligibility clarity should be added to an online form? 
