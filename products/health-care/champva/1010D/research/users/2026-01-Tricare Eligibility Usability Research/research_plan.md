@@ -222,6 +222,10 @@ Are there moments that matter?</summary>
 
 **[Semi-structured interviews/usabilty testing with mid-fidelty prototypes to explore two options of implementation and content options for alerts]**
 
+<img width="5674" height="3316" alt="Showing main sections of prototype A and B for each Veteran and family member cohorts" src="https://github.com/user-attachments/assets/e61b6202-83fa-407d-a3ca-13aa8a393f5f" />
+
+
+
 
 ### Location
 - [x] **Remote**
@@ -236,6 +240,7 @@ Are there moments that matter?</summary>
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/conversation_guide.md)
 - [Link to prototype](url goes here)
+
 
 
 ## Recruitment 🎯	
