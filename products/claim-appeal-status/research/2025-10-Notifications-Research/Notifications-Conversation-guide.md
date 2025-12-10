@@ -63,7 +63,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 - Are you okay with us recording the screen and audio? (If yes, start recording and confirm.)  
 - Are you comfortable with us sharing a short, anonymous clip of this session with VA partners for research purposes?
 
-**Then:** Start recording, enable captions,welcome observers and allow short introduction and proceed.
+**Then:** Welcome observers and allow short introduction. Start recording, enable captions.
 
 ---
 
