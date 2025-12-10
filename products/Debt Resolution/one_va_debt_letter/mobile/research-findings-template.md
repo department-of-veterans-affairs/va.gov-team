@@ -284,12 +284,15 @@ Trust is tied to details and transparency, not format.
 
 ## Recommendations
 
+
+1. **Recommendation**: Hold off on building a centralized combined debt view on mobile until strong user need is established in future research.
+    - *Supporting evidence: Most participants found little added value in a combined statement, especially on mobile. No one reported challenges due to the lack of a centralized view.*
+2. **Recommendation**: Hold off on adding a combined debt PDF to the mobile experience until future research identifies a strong user need for this feature.
+    - *Supporting evidence: Although almost everyone found value in the combined statement PDF, their needs were met with individual statements, especially for print and large-screen use.*
+3. **Recommendation**: Conduct user research on the existing combined statement on the website (both the HTML and PDF versions) to assess whether Veterans find it valuable in ways that differ from individual statements. Use the results to further inform whether a combined statement should be built in the mobile app.
+    - *Supporting evidence: Participants appreciated the combined PDF’s familiar format and summary view, but most needs were met by individual statements. Sending the combined PDF to someone for financial assistance was a unique use case, but it remains unclear whether Veterans would routinely download and use it in practice. Further research will clarify how Veterans actually interact with these statements and inform mobile app decisions.*
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
 
 ## Product User and Business Outcomes
 
