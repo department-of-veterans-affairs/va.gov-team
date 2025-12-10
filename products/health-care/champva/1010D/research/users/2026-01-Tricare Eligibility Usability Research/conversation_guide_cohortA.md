@@ -83,6 +83,7 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
+
 # Warm-up Questions (COHORT 1 - VETERAN) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
@@ -104,13 +105,26 @@ Before we look at the website, let’s start with a few warm-up questions.
 2. Have you heard of the program before or have ever thought about applying?
 
 
+## Share prep
+
+I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
+
+- Great, I'm going to share that prototype link in the chat now.
+- [ ] Share link in chat of appropriate prototype A
+
+- Please open this link, it might take a minute to load being a prototype, and share that screen. Please let me know if you need help with that.
+  
+- [ ] Tap on the button that says Share. Then there will be options for what to share. Please choose "Screen" (phone) or your web browser.
+- [ ] iPad: Broadcast screen
+
+
 
 ## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
-I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today?
+- On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
+- Is there anything here that would give you pause?
+- Is the eligibility criteria clear here and would that be enough information for you to choose to proceed or not? Why or why not?
 
-- [ ] Share link in chat of appropriate prototype A 
-- [ ] Step 2
 
 > [!NOTE]
 > ### Things to watch for:
