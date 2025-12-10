@@ -12,12 +12,6 @@ description: "A template for moderating research sessions including logistics, i
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
-
-> [!NOTE]
-> Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
-
-`List and complete any project-specific setup tasks for this study below:`
-
 - [ ] Make sure convo guide using aligns with participant - Veteran or family member
 - [ ] Copy link to either desktop or mobile prototype to have it ready
 - [ ] Have both prototypes ready if need to pivot to backup plan of moderator sharing screen
@@ -36,6 +30,7 @@ description: "A template for moderating research sessions including logistics, i
 > - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 > - Check your [screensharing setup] and share permissions for participants.
 > - When the participant is ready, begin the session with the following intro*
+
 
 # Intro - 5 minutes
 
@@ -94,7 +89,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. Do you have a service-connected disability at VA?
 - If yes: what is your disability rating?
-- If no, skip to question 2.
+
 
 # Warm-up Questions (COHORT 2 - FAMILY MEMBER) - 5 minutes
 
@@ -107,7 +102,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [PROTOTYPE A - INTRO PAGE] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -119,7 +114,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 > - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -130,7 +125,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [PROTOTYPE B - INTRO] - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -140,6 +135,31 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
 > - [Etc]
+
+
+## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - X minutes
+
+- [ ] Step 1
+- [ ] Step 2
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of xyz?]
+> - [Does the participant notice xyz?]
+> - [Etc]
+
+
+## Fifth Task: [PROTOTYPE B - ALERTS] - X minutes
+
+- [ ] Step 1
+- [ ] Step 2
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand meaning of xyz?]
+> - [Does the participant notice xyz?]
+> - [Etc]
+
 
 # Post-Task Interview - X minutes
 
