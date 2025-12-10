@@ -345,6 +345,7 @@ Thank you for completing that task. I have a few follow up questions for you:
 2. Please select one of the care teams and click "Continue"
 
 --
+
 **Prototype instructions**
 
 Say you're trying to request a renewal of your Zyrtec medication and you click the request a renewal via secure message link on that Zyrtec medication. Go ahead and do that.
