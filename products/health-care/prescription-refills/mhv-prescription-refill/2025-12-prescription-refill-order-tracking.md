@@ -24,10 +24,6 @@ A dedicated **Order History** screen would allow veterans to:
   - **Failed** - if the refill request was rejected
 - Filter orders by date range (e.g., "Last 30 days")
 
-![Order History Mockup](./order-history-mockup.png)
-
-*Mockup shows Order #099247 placed on February 11, 2024, containing three medications: IBUPROFEN 200 MG TAB (shipped), TACROLIMUS 25 MG TAB (in pharmacy review), and METFORMIN HYDROCHLOROTHIAZIDE 50 MG TAB (in pharmacy review).*
-
 ### Current API Limitations
 
 **There is currently no API to support this order view.** 
