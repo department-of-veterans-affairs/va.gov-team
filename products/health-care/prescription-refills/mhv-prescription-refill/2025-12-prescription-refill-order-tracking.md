@@ -1,5 +1,33 @@
 # Prescription Refill Order Tracking Analysis
 
+## Table of Contents
+
+- [Introduction](#introduction)
+  - [Problem Statement](#problem-statement)
+  - [Desired User Experience](#desired-user-experience)
+  - [Current API Limitations](#current-api-limitations)
+- [Existing Data Analysis](#existing-data-analysis)
+  - [Data Sources Overview](#data-sources-overview)
+  - [Vista Data Structure](#vista-data-structure)
+  - [Oracle Health (FHIR) Data Structure](#oracle-health-fhir-data-structure)
+  - [Data Comparison Table](#data-comparison-table)
+  - [Data Available for Order Tracking](#data-available-for-order-tracking)
+  - [Refill/Dispense Record Unique IDs](#refilldispense-record-unique-ids)
+  - [Items Requiring Further Verification](#items-requiring-further-verification)
+- [Unified Prescription Model Output](#unified-prescription-model-output)
+  - [Prescription Model Attributes](#prescription-model-attributes)
+  - [Dispenses Array Structure](#dispenses-array-structure)
+  - [Data NOT Currently in Unified Model](#data-not-currently-in-unified-model)
+  - [Gap Analysis Summary](#gap-analysis-summary)
+  - [Conclusion](#conclusion)
+- [Order Tracking Proposed Solution](#order-tracking-proposed-solution)
+  - [Data Needed for Order Tracking](#data-needed-for-order-tracking)
+  - [Proposed Solution](#proposed-solution)
+  - [Benefits of This Approach](#benefits-of-this-approach)
+  - [Considerations](#considerations)
+  - [Caching Strategy](#caching-strategy)
+  - [Security and Privacy](#security-and-privacy)
+
 ## Introduction
 
 ### Problem Statement
@@ -12,32 +40,30 @@ After submitting a bulk refill:
 - They must remember which prescriptions they ordered and manually locate each one
 - The prescription list can be large, making it difficult to find specific refill information
 
+This document will analyze:
+1. What data is currently available from the pharmacy systems
+2. How we can provide order tracking data to support the Order History view
+3. Design options for implementing order tracking in vets-api
+
 ### Desired User Experience
+
+We define an **order** as a group of one or more prescription refill requests submitted together in a single action by the veteran.
 
 A dedicated **Order History** screen would allow veterans to:
 - View all past refill requests grouped by order
 - See an order confirmation number (e.g., "Order #099247")
 - See when the order was placed
 - View the status of each medication within that order:
-  - **Shipped** - with shipping date and tracking information
-  - **In pharmacy review** - pending processing
-  - **Failed** - if the refill request was rejected
 - Filter orders by date range (e.g., "Last 30 days")
 
 ### Current API Limitations
 
 **There is currently no API to support this order view.** 
 
-The existing prescription refill flow:
+The existing prescription refill flow is:
 1. Frontend sends array of prescription IDs to refill
 2. Backend submits individual refill requests to source pharmacy systems (Vista, Oracle Health)
-3. Backend returns per-prescription success/failure status
-4. **No order grouping, no confirmation number, no persistent record of the bulk submission**
-
-This document will analyze:
-1. What data is currently available from the pharmacy systems
-2. How we can provide order tracking data to support the Order History view
-3. Design options for implementing order tracking in vets-api
+3. Backend returns a list of per-prescription success/failure status
 
 ## Existing Data Analysis
 
@@ -157,8 +183,8 @@ The following table compares data availability between Vista and Oracle Health s
 | Data Field | Vista | Oracle Health | Notes |
 |------------|-------|---------------|-------|
 | **Prescription Identification** ||||
-| Prescription ID | ✅ `prescriptionId` | ✅ `MedicationRequest.id` | Different ID formats |
-| Prescription Number (Rx#) | ✅ `prescriptionNumber` | ⚠️ Not in VCR | May be in identifier array |
+| Prescription ID | ✅ `prescriptionId` | ✅ `MedicationRequest.id` | Different ID formats (string vs integer) |
+| Prescription Number (Rx#) | ✅ `prescriptionNumber` | ⚠️ Not in VCR | May be the same as Prescription ID |
 | **Prescription Details** ||||
 | Medication Name | ✅ `prescriptionName` | ✅ `medicationCodeableConcept.text` | |
 | Quantity | ✅ `quantity` | ✅ `dispenseRequest.quantity.value` | |
@@ -213,14 +239,12 @@ Based on the analysis, the following data is available to support an Order Histo
 | Shipped Date | ✅ Available | Both sources (OH needs verification) |
 | Tracking Number | ✅ Available | Both sources (OH needs verification) |
 | Quantity | ✅ Available | Both sources |
+| Refills Remaining | ✅ `refillRemaining` (Vista) / Computed (OH) | Both sources |
+| Total Refills Allowed | ✅ Computed (Vista) / `numberOfRepeatsAllowed` (OH) | Both sources |
 
-### Refill/Dispense Record Unique IDs
+### Dispense Record Unique IDs
 
-Both Vista and Oracle Health provide unique identifiers for each refill/dispense event. This is critical for the Order History view, as it allows veterans to click on a specific refill to navigate to detailed prescription information.
-
-#### Vista - Refill Record IDs
-
-**✅ Confirmed: Each refill record has a unique `prescriptionId`**
+Both Vista and Oracle Health provide unique identifiers for each dispense event. This could be useful for the Order History view, as it could allow veterans to click on a specific refill to navigate to detailed dispensing information.
 
 Vista refill records (`rxRFRecords.rfRecord[]`) contain:
 ```json
@@ -237,11 +261,7 @@ Vista refill records (`rxRFRecords.rfRecord[]`) contain:
 ```
 
 - Each refill event has its own `prescriptionId` (different from parent prescription)
-- `prescriptionNumberIndex` shows the refill sequence (e.g., "RF3" = 3rd refill)
-
-#### Oracle Health - Dispense Record IDs
-
-**✅ Confirmed: Each MedicationDispense has a unique `id`**
+- `prescriptionNumberIndex` shows the refill sequence (e.g., "RF3" = 3rd refill), but need to verify the format.
 
 Oracle Health dispenses (`contained MedicationDispense[]`) contain:
 ```json
@@ -265,7 +285,6 @@ The following items were not present in VCR cassettes and should be verified:
 2. **Oracle Health Prescription Number** - Verify presence in `MedicationRequest.identifier[]`
 3. **Vista Days Supply** - Verify if available in full API response
 4. **Oracle Health Remarks/Notes** - Check for extensions containing remarks
-5. **Refill Request Grouping** - Determine if UHD API provides any grouping for bulk refill submissions
 
 ## Unified Prescription Model Output
 
@@ -351,7 +370,7 @@ The current unified prescription model contains sufficient data to display indiv
 
 ## Order Tracking Proposed Solution
 
-This section proposes a solution for tracking prescription refill orders. Note that not all data fields are required, and there is flexibility in what is displayed to veterans.
+This section proposes a solution for tracking prescription refill orders.
 
 ### Data Needed for Order Tracking
 
@@ -457,16 +476,42 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
 | `prescription_id` | String | Prescription ID from source system |
 | `station_number` | String | VA station number |
 
+**Entity Relationship Diagram:**
+
+```mermaid
+erDiagram
+    user_accounts {
+        uuid id PK
+    }
+
+    prescription_refill_orders {
+        uuid id PK
+        string order_number
+        uuid account_uuid FK
+        timestamp submitted_at
+    }
+
+    prescription_refill_order_items {
+        uuid id PK
+        uuid order_id FK
+        string prescription_id
+        string station_number
+    }
+
+    user_accounts ||--o{ prescription_refill_orders : "has many"
+    prescription_refill_orders ||--o{ prescription_refill_order_items : "contains"
+```
+
 > **Note:** The database records are write-once and never updated. All status, error messages, and tracking information are fetched real-time from the UHD API.
 
 #### API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/my_health/v2/prescriptions/refill` | **Modified**: Now returns `order_id` in response |
-| `GET` | `/my_health/v2/prescriptions/orders` | List veteran's orders (paginated, filterable by date) |
+| `POST` | `/my_health/v2/prescriptions/refill` | **Modify**: Return `order_id` in response |
+| `GET` | `/my_health/v2/prescriptions/orders` | **New**: List veteran's orders (paginated, filterable by date) |
 
-#### Response Format
+#### Response Format for Orders Endpoint
 
 **GET /my_health/v2/prescriptions/orders**
 
@@ -487,6 +532,9 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
             "prescription_name": "IBUPROFEN 200 MG TAB",
             "prescription_number": "2721173",
             "quantity": 60,
+            "refill_number": 3,
+            "total_refills": 5,
+            "dispense_id": "26020143",
             "status": "shipped",
             "shipped_date": "2024-02-17T00:00:00Z",
             "tracking_number": "9400111899223033335555"
@@ -496,6 +544,9 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
             "prescription_name": "TACROLIMUS 25 MG TAB",
             "prescription_number": "2721174",
             "quantity": 20,
+            "refill_number": 1,
+            "total_refills": 3,
+            "dispense_id": "1461548858",
             "status": "in_pharmacy_review",
             "shipped_date": null,
             "tracking_number": null
@@ -505,6 +556,9 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
             "prescription_name": "METFORMIN HYDROCHLORIDE 50 MG TAB",
             "prescription_number": "2721175",
             "quantity": 20,
+            "refill_number": 2,
+            "total_refills": 4,
+            "dispense_id": "1461537023",
             "status": "in_pharmacy_review",
             "shipped_date": null,
             "tracking_number": null
@@ -571,3 +625,6 @@ The order tracking tables store minimal data to avoid PII/PHI:
 | `prescription_id` | No | Opaque identifier from source system, not PHI |
 | `station_number` | No | VA facility identifier |
 
+#### Redis (Cache) Storage
+
+We would store the same data as in the database, so the analysis is the same as above.
