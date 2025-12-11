@@ -88,7 +88,7 @@ body:
         - [ ] Follow-up with requester to address any open questions/concerns
         - [ ] Create epic/tickets as needed for the Public Websites team to implement
         
-       #### If Translation widget request
+       **If Translation widget request**
         - [ ] Translation toggles added
         - [ ] IA team notified via Slack to add the Spanish translated left nav: #content-ia-centralized-team
         - [ ] Spanish left nav shows when the toggle is on Spanish
