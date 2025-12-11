@@ -1,6 +1,6 @@
-name: "New VFS team member"
+name: "VA.gov Platform Orientation - Individual"
 description: "New VFS team members fill out this form."
-title: "New VFS Team Member Template Your name here"
+title: "VA.gov Platform Orientation - Individual - Your name here"
 labels: ["platform-orientation", "new-vfs-team-member", "platform-tech-team-support"]
 body:
   - type: markdown
@@ -92,7 +92,7 @@ body:
       description: 
       options:
         - label: Schedule a PM intro via [Calendly](https://calendly.com/collaboration-cycle/product-manager-intro) with Shira Goodman (Platform Governance Team PM).
-        - label: If your team is new, please complete the [New VFS Team ticket](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
+        - label: If your team is new, please complete the [VA.gov Platform Orientation - Team](https://depo-platform-documentation.scrollhelp.site/getting-started/guidance-for-new-teams-and-team-members#Guidancefornewteamsandteammembers-NewVFSteams). If you're joining an existing team, you can skip this step.
   - type: markdown
     attributes:
       value: "---"
