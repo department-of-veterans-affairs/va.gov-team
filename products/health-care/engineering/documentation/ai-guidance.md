@@ -130,6 +130,8 @@ The following AI tools are approved for use within VA.gov Health Applications:
 - AI-powered PR review tools integrated with approved platforms
 - Static analysis tools with AI-enhanced detection
 
+If there are tools that not approved but are believed to be beneficial, please contact the engineering leadership team for evaluation and potential approval.
+
 ### Implementation Guidelines
 
 #### Pull Request Review Process
