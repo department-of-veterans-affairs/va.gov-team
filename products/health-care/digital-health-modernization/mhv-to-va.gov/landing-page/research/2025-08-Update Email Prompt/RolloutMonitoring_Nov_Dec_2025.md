@@ -9,10 +9,11 @@ Synopsis of first 30 days of feedback, November 17 - December 17, 2025:
 |Number of how many viewed the alert:|184.13k|
 | How many Confirmed (%):|108.46k|
 |How Many Skipped:|262|
-|How Many Edited/Added:||
+|Percent of Errors:|0.08%|
+|How Many Edited/Added:|26,714|
 |My VA "update/add email" traffic:|17571| 
 |My Healthy Vet "update/add email traffic:|9143| 
-|Percent of Errors:|0.08%|
+
 
 ---
 ### 11/18/25 
