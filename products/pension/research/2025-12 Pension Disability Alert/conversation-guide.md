@@ -42,9 +42,6 @@ I have started recording. Just to confirm: Are you comfortable if I record my sc
 We’ll start with a couple questions about your past experiences applying for benefits with the VA before moving into the prototype.
 
 * In the screening process for this research, you indicated that you have filed a claim on VA.gov before. Do you use [VA.gov](http://VA.gov)? Have you ever filed a claim? 
-
-  ~~First I want to confirm that you have in fact filed a claim on VA.gov before?~~  
-  *  ~~Can you walk me through the process of filing that claim?~~  
 * You also indicated that you have a 100% disability rating. Can you confirm that that’s your current rating? 
 
 ## **Task: Disability rating successfully returned (10 min) until \[time\]**
