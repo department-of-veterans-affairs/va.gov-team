@@ -2,11 +2,11 @@
 title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
-last_modified: "[2025-12-10]"
+last_modified: "[2025-12-11]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "Convo guide for CHAMPVA eligility study for Veteran participants."
+description: "For CHAMPVA eligility study for Veteran participants."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT A]
 
@@ -37,7 +37,7 @@ description: "Convo guide for CHAMPVA eligility study for Veteran participants."
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
+Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (also known as CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -124,7 +124,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
 
-## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - 5 minutes
+## Second Task: [PROTOTYPE A - ELIGIBILITY PATTERN] - 5 minutes
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
 - Okay, go ahead and "?click on the blue alert box to move forward in the prototype)" (only if they state they would proceed)
@@ -136,7 +136,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - In your own words, tell me what this page means and what you would do next if you were applying today.
   
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section of the form? Why did you give it that rating?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section? Why did you give it that rating?
 
 
 > [!NOTE]
@@ -148,7 +148,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 ## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
 
-- Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+- Now we are going to switch gears and look through that second prototype I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
 - [ ] Share link in chat of appropriate prototype B
 
@@ -159,13 +159,13 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
   
 - [ ] State their answer during the first task of prototype A - would they proceed or not
 
-- Would you give this page a different rating from the first prorotype of how informed do you feel about the application? Why or why not?
+- Would you give this page a different rating from the first prototype of how informed do you feel about the application? Why or why not?
 
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant have a different reaction to the intro page?]
-> - [Note: be aware of familiarity bias being so similar (? What are the differences exaclty? if any?)]
+> - [Note: be aware of familiarity bias being so similar (? What are the differences? if any?)]
 
 
 ## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
