@@ -3,30 +3,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-  - [Problem Statement](#problem-statement)
-  - [Desired User Experience](#desired-user-experience)
-  - [Current API Limitations](#current-api-limitations)
 - [Existing Data Analysis](#existing-data-analysis)
-  - [Data Sources Overview](#data-sources-overview)
-  - [Vista Data Structure](#vista-data-structure)
-  - [Oracle Health (FHIR) Data Structure](#oracle-health-fhir-data-structure)
-  - [Data Comparison Table](#data-comparison-table)
-  - [Data Available for Order Tracking](#data-available-for-order-tracking)
-  - [Refill/Dispense Record Unique IDs](#refilldispense-record-unique-ids)
-  - [Items Requiring Further Verification](#items-requiring-further-verification)
 - [Unified Prescription Model Output](#unified-prescription-model-output)
-  - [Prescription Model Attributes](#prescription-model-attributes)
-  - [Dispenses Array Structure](#dispenses-array-structure)
-  - [Data NOT Currently in Unified Model](#data-not-currently-in-unified-model)
-  - [Gap Analysis Summary](#gap-analysis-summary)
-  - [Conclusion](#conclusion)
 - [Order Tracking Proposed Solution](#order-tracking-proposed-solution)
-  - [Data Needed for Order Tracking](#data-needed-for-order-tracking)
-  - [Proposed Solution](#proposed-solution)
-  - [Benefits of This Approach](#benefits-of-this-approach)
-  - [Considerations](#considerations)
-  - [Caching Strategy](#caching-strategy)
-  - [Security and Privacy](#security-and-privacy)
 
 ## Introduction
 
