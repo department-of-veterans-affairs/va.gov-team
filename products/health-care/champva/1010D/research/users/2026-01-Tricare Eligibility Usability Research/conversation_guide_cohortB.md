@@ -89,7 +89,7 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you recieved health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+1. Do you receive health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 - If yes: should be no to have qualified for study
 
 2. Have you heard of the program before or have ever thought about applying?
@@ -129,7 +129,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
 - Okay, go ahead and "?click on the blue alert box to move forward in the prototype)" (only if they state they would proceed)
-- Go through these next few questions and please remember to think aloud. A reminder, this is a protoype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
+- Go through these next few questions and please remember to think aloud. A reminder, this is a prototype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
 - Whose information would you be entering on those screens? Was that easy to understand?
 
 
@@ -150,7 +150,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 ## Third Task: [PROTOTYPE A - SIGNER SECTION] - 5 minutes
 
-- Being a prototype imagine that you have navigated through mid-way through the form and that you have already confirmed you basic information and then you arrive here.
+- Being a prototype imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
 - For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
 - Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
 
@@ -159,7 +159,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 ## Fourth Task: [PROTOTYPE B - INTRO] - 5 minutes
 
-- Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+- Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
 - [ ] Share link in chat of appropriate prototype B
 
@@ -170,13 +170,13 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
   
 - [ ] State their answer during the first task of prototype A - would they proceed or not
 
-- Would you give this page a different rating from the first prorotype of how informed do you feel about the application? Why or why not?
+- Would you give this page a different rating from the first prototype of how informed do you feel about the application? Why or why not?
 
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant have a different reaction to the intro page?]
-> - [Note: be aware of familiarity bias being so similar (? What are the differences exaclty? if any?)]
+> - [Note: be aware of familiarity bias being so similar (? What are the differences exactly? if any?)]
 
 
 ## Fifth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
@@ -242,7 +242,7 @@ Third scenario, you see the following alert:
 
 - Again, same thing, think aloud about your impressions of this alert message.
 
-- For this scenario, would you feel more confident now before appling? 
+- For this scenario, would you feel more confident now before applying? 
 
 
 [Success Alert - maybe be eligible for CHAMPVA] 
