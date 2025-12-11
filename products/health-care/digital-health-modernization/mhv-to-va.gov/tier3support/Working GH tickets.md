@@ -15,9 +15,10 @@ The Product Manager is responsbile for ensuring that the team responds to incomi
 Issues can take various forms.  The main information should be available in the ticket, but if additional info is needed from the original Tier 3 issue, the Product Manager can access it using the HRC # in the HRC Dynamics queue.  Once sufficient information has been gathered:
 
 * The team should investigate if there is a technical problem
-* Report the findings back to the MHV Tier 3 Support team
-  * Add the details in a comment on the ticket
+* The findings should then be reported back to the MHV Tier 3 Support team
+  * Add the details in a comment on the Github ticket
   * Send a message to the mhv-tier-3-support Slack channel to let them know the status.
+    * include a link to the GH ticket and the relevant SNOW or HRC ticket if available.
 * Close the GH ticket
 
 ### What if a technical fix is needed? 
@@ -29,4 +30,5 @@ If a technical fix is needed that requires further planning:
 ### What if more info is needed?
 If additional information is required, Tier 3 can make this request to Tier 2, who will reach out to the user.  The GH ticket will remain on hold while this process occurs.
 * Add comments to the ticket specifying what is needed
-* notify the MHV Tier 3 team in the mhv-tier-3-support slack channel 
+* notify the MHV Tier 3 team in the mhv-tier-3-support slack channel
+  * If the needed information is sensitive, the team can reach out to you via VA email to maintain security.
