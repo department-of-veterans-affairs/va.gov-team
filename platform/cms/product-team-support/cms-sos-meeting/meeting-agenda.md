@@ -8,6 +8,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
     * Do we want to just publish this content since Editors and Veterans are acustomed to seeing it already?
 * Homepage QA
     * Can this follow the same process with Dave and Jacqueline helping with QA?
+ * CMS team will be picking up Migration: Outreach Hub landing page (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20544) and Migration: Outreach Hub Publications listing (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20590)
 
 11/26/2025
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
