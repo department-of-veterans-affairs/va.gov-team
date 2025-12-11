@@ -6,7 +6,7 @@ last_modified: "[2025-12-10]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+description: "Convo guide for CHAMPVA eligility study for Veteran participants."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT A]
 
