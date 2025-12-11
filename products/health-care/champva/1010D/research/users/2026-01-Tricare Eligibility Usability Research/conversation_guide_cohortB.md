@@ -125,7 +125,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
 
-## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - 5 minutes
+## Second Task: [PROTOTYPE A - ELIGIBILITY PATTERN] - 5 minutes
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
 - Okay, go ahead and click to start the application (only if they state they would proceed)
