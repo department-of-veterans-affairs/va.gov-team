@@ -8,10 +8,12 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
     * Do we want to just publish this content since Editors and Veterans are acustomed to seeing it already?
     * [Source Slack convo](https://dsva.slack.com/archives/CT4GZBM8F/p1764891158001159)
 * QAing Support for Template Migration
-      *    Ready Now - Homepage (Accessibility QA ticket (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22960) / Functionality QA ticket (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22961))
-            * Can this follow the same process with Dave and Jacqueline helping with QA? 
-      *    Ready after 1/7/2026 - Benefit Detail Page and VAMC Detail Page 
-* CMS team will be picking up Migration: Outreach Hub landing page (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20544) and Migration: Outreach Hub Publications listing (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20590)
+    * Ready Now - Homepage ([Accessibility QA ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22960) / [Functionality QA ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22961))
+  
+  Can this follow the same process with Dave and Jacqueline helping with QA?
+  
+    * Ready after 1/7/2026 - Benefit Detail Page ([Accessibility QA ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22966) / [Functionality QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22965)) and VAMC Detail Page ([Accessibility QA ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22864) / [Functionality QA Ticket](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/22865))
+* CMS team will be picking up [Migration: Outreach Hub landing page](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20544) and [Migration: Outreach Hub Publications listing](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20590)
 
 11/26/2025
 * [Flagged Facilities](https://github.com/orgs/department-of-veterans-affairs/projects/1859/views/1)
