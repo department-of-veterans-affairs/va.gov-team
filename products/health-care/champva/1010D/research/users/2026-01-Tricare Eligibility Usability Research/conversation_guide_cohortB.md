@@ -85,7 +85,7 @@ Before we start, I have a few things that I want to go over with you:
 
 
 
-# Warm-up Questions (COHORT 2 - FAMILY MEMBER) - 5 minutes
+# Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -147,7 +147,17 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Does the participant say that anything is confusing, unclear or would need additional context?]
 
 
-## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
+
+## Third Task: [PROTOTYPE A - SIGNER SECTION] - 5 minutes
+
+- Being a prototype imagine that you have navigated through mid-way through the form and that you have already confirmed you basic information and then you arrive here.
+- For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
+- Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
+
+
+
+
+## Fourth Task: [PROTOTYPE B - INTRO] - 5 minutes
 
 - Now we are going to switch gears and look through that second prototye I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
@@ -169,7 +179,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Note: be aware of familiarity bias being so similar (? What are the differences exaclty? if any?)]
 
 
-## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
+## Fifth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
 
 - For this prototype, proceed the same as you did before "?click on the blue alert box to move forward in the prototype)"
 - Go through these next few questions and please remember to think aloud. As the other one, you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here too.
@@ -192,7 +202,13 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Would the participant want to proceed through the form despite what the alert stated?]
 
 
-## Fifth Task: [PROTOTYPE B - ALERTS] - 10 minutes
+
+## Sixth Task: [PROTOTYPE B - SIGNER SECTION] - 5 minutes
+
+
+
+
+## Seventh Task: [PROTOTYPE B - ALERTS] - 10 minutes
 
 Now that we have gone through that second prototype, I want to walk through some scenarios and messaging with you to get your feedback. I will read a scenario to you before you click continue, then review the page you are shown and please state any questions you may have or feedback you could provide.
 
