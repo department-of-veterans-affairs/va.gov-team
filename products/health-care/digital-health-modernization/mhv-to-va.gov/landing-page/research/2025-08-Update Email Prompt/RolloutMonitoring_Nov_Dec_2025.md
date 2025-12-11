@@ -651,3 +651,32 @@ TBD for 12/09/25.
 | Confirmation Successful | 1.94k |
 | Confirmation Skipped | 10 |
 | Confirmation Errors | 3 |
+
+### 12/10/25
+#### Medallia Feedback
+TBD for 12/10/25.
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||1,091|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|567|
+  ||/my-va/|149|
+  ||/my-health/|146|
+  ||/my-health|94|
+  ||/my-health?postlogin=true|43|
+  ||/my-health/?postlogin=true|17|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|51|
+  ||/my-health|19|
+  ||/my-health?postlogin=true|3|
+  ||/my-health/?postlogin=true|2|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 3.8k |
+| Confirmation Successful | 1.94k |
+| Confirmation Skipped | 10 |
+| Confirmation Errors | 3 |
