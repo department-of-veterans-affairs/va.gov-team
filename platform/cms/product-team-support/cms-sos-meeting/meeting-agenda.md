@@ -6,6 +6,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 * Unpublished content in right-hand menu on Content Build page: https://www.va.gov/decision-reviews/
     * We have seen similar issue with CB showing unpublished content previously.
     * Do we want to just publish this content since Editors and Veterans are acustomed to seeing it already?
+    * [Source Slack convo](https://dsva.slack.com/archives/CT4GZBM8F/p1764891158001159)
 * Homepage QA
     * Can this follow the same process with Dave and Jacqueline helping with QA?
  * CMS team will be picking up Migration: Outreach Hub landing page (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20544) and Migration: Outreach Hub Publications listing (https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20590)
