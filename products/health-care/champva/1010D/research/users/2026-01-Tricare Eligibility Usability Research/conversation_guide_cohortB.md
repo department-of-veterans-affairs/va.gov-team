@@ -2,11 +2,11 @@
 title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
-last_modified: "[2025-12-10]"
+last_modified: "[2025-12-11]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "Convo guide for CHAMPVA eligility study for family member participants."
+description: "Specific for CHAMPVA eligility study for family member participants."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT B]
 
@@ -129,15 +129,14 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
 - Okay, go ahead and click to start the application (only if they state they would proceed)
-- Go through these next few questions and please remember to think aloud. A reminder, this is a prototype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
-- Whose information would you be entering on those screens? Was that easy to understand?
-
+- Go through these next few questions and please remember to think aloud. A reminder, this is a prototype and you will only be able to click on the "Continue" button and proceed to the next question, you won't be entering in your information. We want to hear your thoughts on the content and information here.
+- Whose information would you be entering on those screens if this was a working form? Was that easy to understand?
 
 - [ ] Pause them when the arrive at the gray box eligibility screen
 
 - In your own words, tell me what this page means and what you would do next if you were applying today.
   
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section of the form? Why did you give it that rating?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section? Why did you give it that rating?
 
 
 > [!NOTE]
