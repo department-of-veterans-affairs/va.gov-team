@@ -80,7 +80,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025-07%200969%20Usability%20Study/conversation-guide.md)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025-12%20Pension%20Disability%20Alert/conversation-guide.md)
 - [Link to prototype](https://www.figma.com/proto/0hU7Y56EO2skWUjS8HxFjf/Usability-Prototypes?page-id=589%3A3&node-id=589-6631&p=f&t=0p1budEblOPAbwoC-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=589%3A6631)
 	
 ## Recruitment 🎯	
