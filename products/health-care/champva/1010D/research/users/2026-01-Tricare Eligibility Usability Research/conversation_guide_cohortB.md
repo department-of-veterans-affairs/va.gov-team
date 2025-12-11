@@ -6,7 +6,7 @@ last_modified: "[2025-12-10]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+description: "Research plan for moderated user-interview usability generative study around eligibiltiy pattern and hybrid option with API for Tricare eligibility and CHAMPVA."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT B]
 
