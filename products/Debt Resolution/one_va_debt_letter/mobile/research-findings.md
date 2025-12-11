@@ -333,7 +333,11 @@ _A combined effort with the Financial Management team_
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+Additional research could be conducted to address gaps from the current study, including:
+- Refining screener questions to better identify Veterans with recent benefit overpayment debt.
+- Refining screener questions to better recruit Veterans who currently use the VA mobile app.
+- Exploring perspectives from Veterans who have not used the VA mobile app but have current VA debt or bills to see if there are needs that could be solved by the app.
+- Assessing the experiences of caregivers who assist Veterans in managing debt and bills.
 
 
 ## Appendix
