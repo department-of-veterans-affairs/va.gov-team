@@ -167,7 +167,7 @@ This touches many areas of the Veteran's journey, as the product deals with debt
 ## Methodology 
 
 
-**Moderated remote sessions: semi-structured interviews and concept testing**
+**Moderated remote sessions with Veterans: semi-structured interviews and concept testing**
 
 We used semi-structured interviews and concept testing in this phase of discovery research. The purpose of the interviews was to understand whether or not Veterans would find use in having a combined statement within the mobile app. Concept testing was conducted by presenting participants with an early-stage design concept for how a combined statement could be displayed, in order to gather feedback on possible user flows and features.
 
@@ -177,6 +177,8 @@ For the concept testing portion, Veterans interacted with two prototypes:
 
 * The first prototype simulated the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
 * The second prototype illustrated a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
+
+We recruited Veterans who, according to screening responses, had both benefit overpayments and VA medical copays in the past year and had used the VA mobile app at least 3–5 times during that period. However, during the interviews, it became clear that some participants did not fully understand what overpayments were, and not all were current mobile app users. Despite these discrepancies, the interviews provided valuable insights.
 
 
 ## Hypotheses and Conclusions
@@ -305,7 +307,6 @@ Some participants reported challenges when working with community care.
     - *Supporting evidence: Although almost everyone found value in the combined statement PDF, their needs were met with individual statements, especially for print and large-screen use.*
 3. **Recommendation**: Conduct user research on the existing combined statement on the website (both the HTML and PDF versions) to assess whether Veterans find it valuable in ways that differ from individual statements. Use the results to further inform whether a combined statement should be built in the mobile app.
     - *Supporting evidence: Participants appreciated the combined PDF’s familiar format and summary view, but most needs were met by individual statements. Sending the combined PDF to someone for financial assistance was a unique use case, but it remains unclear whether Veterans would routinely download and use it in practice. Further research will clarify how Veterans actually interact with these statements and inform mobile app decisions.*
-*Summarize actionable recommendations based on findings.*  
 
 
 ## Product User and Business Outcomes
@@ -316,47 +317,19 @@ This research supports our desired user outcome by confirming limited need for a
 ### Desired Business Outcome
 This research supports our desired business outcome by guiding us to focus developer resources on features that match Veteran needs and reducing risk from developing under-used features.
 
-4. Key Performance Indicators
-Percentage of Veterans who actively use each statement/view format (combined, individual) in the mobile app
-Number of support requests or help desk tickets related to debt statement comprehension, navigation, or trust
-User satisfaction scores on clarity, transparency, and trust of the statements (from surveys or app ratings)
-Rate of statement downloads, shares, or usage for record keeping and third-party support
-Time to task completion for reviewing and resolving individual debts within the app
-Adoption rate for essential MVP features identified in the research (e.g., transaction details, contact info, resolution tools)
-
-
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-### Desired User Outcome 
-This research supports our desired user outcome by....
- 
-### Desired Business Outcome
-This research supports our desired business outcome by....
-
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+Since we are not recommending development of the combined statement feature, we do not propose any new KPIs at this time.
 
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
-  
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+Conduct targeted user research on the current combined statement experience on VA.gov (both HTML and PDF).
+_A combined effort with the Financial Management team_
+- Specifically assess whether Veterans find unique value in the combined statement compared to individual statements, and identify practical use cases.
+- Use these insights to inform future decisions about implementing a combined statement view or PDF in the mobile app.
 
-> [!TIP]
-> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
-> **After creating issues, add their hyperlinks back here under their corresponding "Recommendation" or "Next Step."**
-> 
-> If you need Github Copilot Enterprise Access, please complete this [Issue](https://github.com/department-of-veterans-affairs/copilot-onboarding/issues/new?template=copilot-onboarding.yml).
 
 ## Further research needed
 
