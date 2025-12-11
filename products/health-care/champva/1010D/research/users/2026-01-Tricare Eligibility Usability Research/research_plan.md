@@ -173,7 +173,8 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Testing two approaches - one using a newer VADS design system pattern to contribute back there; the second using a hybrid approach that includes integrating with an API and possible error messages. We are doing research as engineering will be working on technical discovery.]** 
+**[Determine which approach (VADS pattern vs. hybrid/API) best reduces confusion, and potentially inform future wider adoption within VA.gov, including contributions to the VADS design system.]** 
+
 
 ---
 
@@ -249,10 +250,10 @@ Are there moments that matter?</summary>
 
 We would like Perigean to recruit Veterans and family members (spouses and dependents)
 
-Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, are not currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
+Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, are **not currently enrolled** in the CHAMPVA program. We don't want prior knowledge or previous tool exposures affect understanding of the new content in the prototypes.
 
+We will split this study into two cohorts:
 - **Cohort 1 (5 completed)**: Veterans with a 100% service connected disability rating with spouse and/or dependent children, who are not currently enrolled in CHAMPVA benefits.
-
 - **Cohort 2 (5 completed)**: Spouses and dependent children of Veterans with a 100% service connected disabilty rating, who are not currently enrolled in CHAMPVA benefits.
 
 
