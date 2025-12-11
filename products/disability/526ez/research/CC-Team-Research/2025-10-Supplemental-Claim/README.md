@@ -5,7 +5,7 @@ _(add links as these are created)_
 
 #### Main folders:
 - [Google folder for drafts](https://drive.google.com/drive/folders/14rY-ZqtqptcllLbHS6USnNDwWjovVvLI?usp=drive_link)
-- [Research folder on Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim)
+- [Research folder on GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim)
 - [Study folder on SharePoint](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-11%20526EZ%20Supplemental%20Claims%20Design%20Direction?csf=1&web=1&e=bXiWUN)
 
 #### Research planning artifacts:
