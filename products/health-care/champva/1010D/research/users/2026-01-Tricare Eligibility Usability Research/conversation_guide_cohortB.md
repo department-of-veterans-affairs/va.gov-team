@@ -154,7 +154,12 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 - For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
 - Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
 
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant have any issues with the content or understanding of the signer section?]
+> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
 
+----
 
 
 ## Fourth Task: [PROTOTYPE B - INTRO] - 5 minutes
@@ -206,6 +211,16 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 ## Sixth Task: [PROTOTYPE B - SIGNER SECTION] - 5 minutes
 
 
+- Same scenario, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
+- You have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
+- Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant have any issues with the content or understanding of the signer section?]
+> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
+
+
 
 
 ## Seventh Task: [PROTOTYPE B - ALERTS] - 10 minutes
@@ -251,12 +266,16 @@ Third scenario, you see the following alert:
 
 - [ ] Page with success alert shown
 
+- What are your thoughts if you would see this message? What would you do next?
+
+- On a scale of 1-5 (with 1 being not confident and 5 being very confident) - how do you feel about your eligibility for CHAMPVA benefits? Why did you give it that rating?
 
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant state they would not complete the application if they see one of the warning alert options?]
 > - [Does the participant state any actions they would need to take or what they would do if they thought the alert warning was incorrect?]
+
 
 
 # Post-Task Interview - 5 minutes
