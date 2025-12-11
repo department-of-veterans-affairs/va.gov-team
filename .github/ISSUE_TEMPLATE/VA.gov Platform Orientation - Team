@@ -1,6 +1,6 @@
-name: "New VFS Team"
+name: "VA.gov Platform Orientation - Team"
 description: "Complete this form to provide essential information about your new VFS team."
-title: "[New VFS Team]: Team Name Here "  
+title: "[VA.gov Platform Orientation - Team]: Team Name Here "  
 labels: ["new-vfs-team", "platform-orientation", "platform-tech-team-support"]  
 body:  
   - type: markdown  
