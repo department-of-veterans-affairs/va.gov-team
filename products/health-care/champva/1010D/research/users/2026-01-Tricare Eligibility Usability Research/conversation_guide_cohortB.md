@@ -128,7 +128,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 ## Second Task: [PROTOTYPE A - ELIGIBILTY PATTERN] - 5 minutes
 
 - For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
-- Okay, go ahead and "?click on the blue alert box to move forward in the prototype)" (only if they state they would proceed)
+- Okay, go ahead and click to start the application (only if they state they would proceed)
 - Go through these next few questions and please remember to think aloud. A reminder, this is a prototype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
 - Whose information would you be entering on those screens? Was that easy to understand?
 
@@ -196,7 +196,7 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - What is your reaction to this eligibility determination you see on this screen?
 
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype? Why did you give it that rating?
 
 
 
@@ -298,7 +298,7 @@ Third scenario, you see the following alert:
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans and family members you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 
