@@ -1,14 +1,13 @@
-<!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
-**This is a template, PLEASE MAKE A COPY**
 
-# [Research Name] Topline Summary
-[link research plan]()
-[link conversation guide]()
-[link interview transcripts]()
-
+# 2025-10 Supplemental Claim Design Direction in 526EZ Top-line Summary
+[research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Plan%20-%202025-10-Supplemental-Claim.md)
+[conversation guide v2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20v2%20-%202025-10-Supplemental-Claim.md)
+[conversation guide v1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20-%202025-10-Supplemental-Claim.md)
+[interview transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-11%20526EZ%20Supplemental%20Claims%20Design%20Direction?csf=1&web=1&e=bXiWUN)
 
 
-This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
+
+This topline summary is a high-level, top-of-mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
 **The goal of this document is:**
  - To make sure everyone who observed the study is in alignment with the perceived findings
