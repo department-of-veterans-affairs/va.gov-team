@@ -310,6 +310,21 @@ Some participants reported challenges when working with community care.
 
 ## Product User and Business Outcomes
 
+### Desired User Outcome
+This research supports our desired user outcome by confirming limited need for a combined statement in the mobile app, allowing us to prioritize clear, transparent individual statements and features that better match how Veterans manage their debts. This helps us avoid unnecessary complexity and redundancy.
+
+### Desired Business Outcome
+This research supports our desired business outcome by guiding us to focus developer resources on features that match Veteran needs and reducing risk from developing under-used features.
+
+4. Key Performance Indicators
+Percentage of Veterans who actively use each statement/view format (combined, individual) in the mobile app
+Number of support requests or help desk tickets related to debt statement comprehension, navigation, or trust
+User satisfaction scores on clarity, transparency, and trust of the statements (from surveys or app ratings)
+Rate of statement downloads, shares, or usage for record keeping and third-party support
+Time to task completion for reviewing and resolving individual debts within the app
+Adoption rate for essential MVP features identified in the research (e.g., transaction details, contact info, resolution tools)
+
+
 *Explain how findings and recommendations align with the product's goals.*
 
 > [!NOTE] 
