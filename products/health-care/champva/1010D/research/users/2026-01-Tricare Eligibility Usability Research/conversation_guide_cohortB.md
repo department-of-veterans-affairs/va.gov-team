@@ -94,7 +94,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 2. Have you heard of the program before or have ever thought about applying?
 
-
+3. Can you explain your understanding of the program and eligibility in your own words?
 
 
 ## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
