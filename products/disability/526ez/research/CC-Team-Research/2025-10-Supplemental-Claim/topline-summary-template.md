@@ -18,32 +18,32 @@ This topline summary is a high-level, top-of-mind summary of trends found in the
   
 ## Initial Findings
 
-_Add ~5-10 top of mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
+_Add ~5-10 top-of-mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
 
 
-**Finding #1**
+**There is a strong preference for viewing all of a user's conditions, both rated and denied, on a single page.**
 
 - More details on Finding #1
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
-**Finding #2**
+**There is no discernable difference between a Claim for Increase and a Supplemental Claim in how they are presented.**
 
 - More details on Finding #2
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
-**Finding #3**
+**Most participants were able to add a new condition on both versions of the 'Add a condition' screen, but some did have some difficulty.**
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
-**Finding #4**
+**Users expect the opportunity to add more information, especially evidentiary support, about their claim, regardless of claim type (ie Claim for Increase, Supplemental Claim, etc.).**
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
-**Finding #5**
+**'Add a condition' language caused confusion.**
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
