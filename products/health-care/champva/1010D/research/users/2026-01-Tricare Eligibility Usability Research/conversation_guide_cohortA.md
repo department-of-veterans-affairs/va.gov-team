@@ -95,17 +95,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 3. If so, can you explain to me in your own words what you know about eligibility of that program?
 
 
-# Warm-up Questions (COHORT 2 - FAMILY MEMBER) - 5 minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-1. Do you recieved health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
-- If yes: should be no to have qualified for study
-
-2. Have you heard of the program before or have ever thought about applying?
-
-
-
 
 ## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
 
