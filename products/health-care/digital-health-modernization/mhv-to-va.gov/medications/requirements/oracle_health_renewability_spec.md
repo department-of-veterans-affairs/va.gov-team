@@ -23,7 +23,7 @@ A medication is **renewable** only if **ALL** of the following conditions are me
 
 ### Gate 2: Medication Classification
 
-**Condition:** Must be classified as a **VA Prescription** or **Clinic Administered Medication** (NOT a Documented/Non-VA medication)
+**Condition:** Must be classified as a **VA Prescription** (NOT a Clinic/Documented/Non-VA medication)
 
 Medication classification is determined by the combination of `reportedBoolean`, `intent`, and `category` values:
 
@@ -32,8 +32,8 @@ Medication classification is determined by the combination of `reportedBoolean`,
 | reportedBoolean | intent | categories | Classification | Renewable? |
 |-----------------|--------|------------|----------------|------------|
 | `true` | `plan` | `community` AND `patient-specified` | **Documented/Non-VA Medication** | **NOT RENEWABLE** |
+| `false` | `order` | `outpatient` | **Clinic Administered Medication** | **NOT RENEWABLE** |
 | `false` | `order` | `community` AND `discharge` | **VA Prescription** | Continue to next gate |
-| `false` | `order` | `outpatient` | **Clinic Administered Medication** | Continue to next gate |
 | Any other combination | | | **Unclassified** | **NOT RENEWABLE** |
 
 #### Detailed Classification Logic
@@ -43,17 +43,17 @@ Medication classification is determined by the combination of `reportedBoolean`,
 - `MedicationRequest.intent == 'plan'`
 - `MedicationRequest.category` includes BOTH `community` AND `patient-specified`
 
+**Clinic Administered Medication** (NOT RENEWABLE):
+- `MedicationRequest.reportedBoolean == false`
+- `MedicationRequest.intent == 'order'`
+- `MedicationRequest.category` is exactly `outpatient`
+
 **VA Prescription** (May be renewable):
 - `MedicationRequest.reportedBoolean == false`
 - `MedicationRequest.intent == 'order'`
 - `MedicationRequest.category` includes BOTH `community` AND `discharge`
 
-**Clinic Administered Medication** (May be renewable):
-- `MedicationRequest.reportedBoolean == false`
-- `MedicationRequest.intent == 'order'`
-- `MedicationRequest.category` is exactly `outpatient`
-
-*Rationale: Medications documented from outside VA or non-VA sources (Documented/Non-VA) are not managed through VA renewal process. Only VA Prescriptions and Clinic Administered Medications are eligible for renewal consideration.*
+*Rationale: Medications documented from outside VA or non-VA sources (Documented/Non-VA) are not managed through VA renewal process. Only VA Outpatient Prescriptions are eligible for renewal consideration.*
 
 ---
 
@@ -134,7 +134,7 @@ flowchart TD
     Gate2{Gate 2:<br/>Medication Classification?}
     Gate2 -->|Documented/Non-VA| NotRenewable2[NOT RENEWABLE]
     Gate2 -->|Unclassified| NotRenewable2
-    Gate2 -->|VA Prescription or<br/>Clinic Administered| Gate3
+    Gate2 -->|VA Outpatient Prescription| Gate3
 
     Gate3{Gate 3:<br/>Dispense count > 0?}
     Gate3 -->|No| NotRenewable3[NOT RENEWABLE]
@@ -168,7 +168,7 @@ flowchart TD
 | Gate | Condition | Fail Result |
 |------|-----------|-------------|
 | 1 | `MedicationRequest.status == 'active'` | NOT RENEWABLE |
-| 2 | Medication is classified as **VA Prescription** or **Clinic Administered Medication** (see classification rules) | NOT RENEWABLE |
+| 2 | Medication is classified as **VA Outpatient Prescription** (see classification rules) | NOT RENEWABLE |
 | 3 | Dispense count > 0 | NOT RENEWABLE |
 | 4 | Refills remaining == 0 | NOT RENEWABLE |
 | 5 | No web/mobile refill requested AND no dispense `in-progress` or `preparation` | NOT RENEWABLE |
