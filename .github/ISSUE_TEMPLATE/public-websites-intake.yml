@@ -33,6 +33,7 @@ body:
         - label: Implementation of REACT sign-in widgets
         - label: Support for UAT testing or phased roll out of app/tool landing page
         - label: Implementation of Translation widgets. 
+         options:
           - label: Add translation widgets
         - label: Something else
   - type: textarea
