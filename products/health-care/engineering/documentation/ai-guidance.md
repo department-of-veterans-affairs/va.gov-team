@@ -1,5 +1,13 @@
 # AI Tools: Engineering Guidance for Health Applications
 
+## TL;DR
+
+- Have a AI-first mindset for all tasks
+- Integration of good AI tools for local development
+- Use built in AI tools for PR reviews
+- Invest time in learning AI tools
+- You are responsible for all code you submit, including AI-generated code
+
 ## Purpose
 
 This document provides guidance on the responsible and effective use of AI-powered tools within VA.gov Health Applications engineering teams. Our goal is to leverage AI to enhance productivity, code quality, and engineering excellence while maintaining accountability and security standards. There is an expectation that any engineer working on VA.gov Health Applications is familiar with and responsibly uses AI tools as part of their regular workflow.
