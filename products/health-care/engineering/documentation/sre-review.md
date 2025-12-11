@@ -59,7 +59,7 @@ For each meeting,, the team should prepare the following:
 
 ## Rough Review Agenda
 
-### 1. Incidents and Postmortems (15 min)
+<!-- ### 1. Incidents and Postmortems (15 min)
 
 **Discussion Points:**
 
@@ -72,32 +72,7 @@ For each meeting,, the team should prepare the following:
 - Use blameless postmortem approach
 - Focus on systemic improvements, not individual actions
 - Track action items with clear owners and deadlines
-- Celebrate incident prevention and quick resolution
-
-<!-- ### 2. Monitoring and Alerting (10 min)
-
-**Discussion Points:**
-
-- Alert volume and quality (signal vs. noise)
-- Response times to alerts
-- Gaps in monitoring coverage
-- Dashboard effectiveness
-- SLO/SLI compliance
-
-**Best Practices:**
-
-- Review alert fatigue indicators (ack'd without action, false positives)
-- Ensure alerts are actionable and have clear runbooks
-- Monitor key user journeys, not just infrastructure
-- Balance coverage with alert noise
-
-**Checklist:**
-
-- [ ] Are all critical user paths monitored?
-- [ ] Do we have appropriate thresholds set?
-- [ ] Are alerts documented with runbooks?
-- [ ] Are we tracking error budgets?
-- [ ] Are dashboards up to date and accessible? -->
+- Celebrate incident prevention and quick resolution -->
 
 ### 1. Performance (10 min)
 
@@ -150,79 +125,42 @@ For each meeting,, the team should prepare the following:
 - [ ] Are runbooks tested and up to date?
 - [ ] Is there a plan to address reliability-impacting tech debt?
 
-### 5. Upcoming Changes and Risks (10 min)
+### 2. Monitoring and Alerting (10 min)
 
 **Discussion Points:**
 
-- Planned deployments and changes
-- New features with reliability implications
-- Infrastructure updates or migrations
-- Dependency upgrades
-- Known risks and mitigation plans
+- Alert volume and quality (signal vs. noise)
+- Response times to alerts
+- Gaps in monitoring coverage
+- Dashboard effectiveness
+- SLO/SLI compliance
 
 **Best Practices:**
 
-- Assess blast radius of changes
-- Plan for gradual rollouts when possible
-- Identify rollback strategies before deployment
-- Consider timing (avoid high-traffic periods)
-- Communicate changes to stakeholders
+- Review alert fatigue indicators (ack'd without action, false positives)
+- Ensure alerts are actionable and have clear runbooks
+- Monitor key user journeys, not just infrastructure
+- Balance coverage with alert noise
 
-**Questions to Ask:**
+**Checklist:**
 
-- What could go wrong with this change?
-- How will we know if something goes wrong?
-- What's our rollback plan?
-- Are there any dependencies or prerequisites?
-- Do we need additional monitoring or alerting?
-
-### 6. Action Items and Follow-ups (5 min)
-
-**Discussion Points:**
-
-- Review outstanding action items from previous meeting
-- Assign new action items with owners and due dates
-- Prioritize based on impact and urgency
-- Identify blockers or needs for support
-
-**Best Practices:**
-
-- Keep action items specific and measurable
-- Assign clear owners (not "the team")
-- Set realistic deadlines
-- Follow up on overdue items
-
-## Red Flags to Watch For
-
-🚨 **Immediate Attention Required:**
-
-- Multiple incidents in the same area
-- Increasing alert volume without investigation
-- High on-call burden (excessive pages)
-- Lack of monitoring for critical paths
-- Deployments frequently rolled back
-- Action items repeatedly carried over
-
-⚠️ **Needs Discussion:**
-
-- Gradual performance degradation
-- Increasing resource utilization trends
-- Gaps in runbook coverage
-- Long time to detection for incidents
-- Team expressing concerns about reliability
+- [ ] Are all critical user paths monitored?
+- [ ] Do we have appropriate thresholds set?
+- [ ] Are alerts documented with runbooks?
+- [ ] Are we tracking error budgets?
+- [ ] Are dashboards up to date and accessible?
 
 ## Documentation Standards
 
 All SRE reviews should maintain:
 
-1. **Incident Log:** Centralized tracking of all incidents
-2. **Postmortems:** Completed within 1 week of major incidents
-3. **Action Item Tracker:** Shared document with status updates
-4. **Runbook Repository:** Up-to-date operational procedures
-5. **Dashboard Catalog:** Links to all key monitoring dashboards
-6. **Architecture Diagrams:** Current system architecture and data flows
+1. **Postmortems:** Completed within 1 week of major incidents
+2. **Action Item Tracker:** Shared document with status updates
+3. **Runbook Repository:** Up-to-date operational procedures
+4. **Dashboard Catalog:** Links to all key monitoring dashboards
+5. **Architecture Diagrams:** Current system architecture and data flows
 
-## Best Practices for Lead Engineers
+## Best Practices for SRE meetings
 
 ### Creating Psychological Safety
 
@@ -230,29 +168,6 @@ All SRE reviews should maintain:
 - Encourage sharing of mistakes and near-misses
 - Celebrate good catches and prevention
 - Ask "how can we make this easier?" rather than "why didn't you...?"
-
-### Providing Effective Feedback
-
-- Be specific with examples
-- Offer actionable suggestions
-- Balance critique with recognition
-- Follow up on previous feedback
-
-### Supporting the Team
-
-- Remove blockers and escalate as needed
-- Connect teams with resources and expertise
-- Advocate for reliability investments
-- Shield team from unnecessary operational burden
-
-### Leading by Example
-
-- Show up prepared
-- Follow through on commitments
-- Demonstrate blameless postmortem culture
-- Prioritize reliability alongside features
-
-## Best Practices for Teams
 
 ### Coming Prepared
 
@@ -274,22 +189,6 @@ All SRE reviews should maintain:
 - Communicate if deadlines need adjustment
 - Update documentation and runbooks
 - Share progress between meetings
-
-## Continuous Improvement
-
-SRE reviews should evolve based on:
-
-- Team maturity and needs
-- System complexity changes
-- Incident trends and learnings
-- Feedback from participants
-
-**Quarterly Review:**
-
-- Assess effectiveness of check-ins
-- Adjust agenda or cadence as needed
-- Update metrics and focus areas
-- Gather feedback from team members
 
 ## Related Resources
 

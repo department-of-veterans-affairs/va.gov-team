@@ -23,6 +23,6 @@ OCTO Health Engineering needs to have ownership and a voice on all health apps o
 
 - Any Hot Topics from the day
 - Announcements from OCTO
-- Review SRE Numbers
 - Chat about any outstanding issues/questions
+- Upcoming Risks to be aware of
 - Open Floor
