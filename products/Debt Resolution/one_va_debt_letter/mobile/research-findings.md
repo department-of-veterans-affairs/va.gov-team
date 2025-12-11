@@ -123,7 +123,7 @@ synthesis_tools_used:
 
 ## Research Goals and Questions
 
-**Goal 1: Assess veteran interest, value, and trust in a combined VA debt statement on mobile.**
+**Goal 1: Assess Veteran interest, value, and trust in a combined VA debt statement on mobile.**
 
 `1.` How do Veterans currently manage or track multiple debts from the VA?
 
