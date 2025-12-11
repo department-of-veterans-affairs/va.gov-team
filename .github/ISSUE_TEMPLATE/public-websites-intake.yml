@@ -32,7 +32,12 @@ body:
         - label: Content audit
         - label: Implementation of REACT sign-in widgets
         - label: Support for UAT testing or phased roll out of app/tool landing page
-        - label: Implementation of Translation widgets
+        - label: Implementation of Translation widgets. Engineering team will:
+          - Add translation toggles
+          - Notify the IA team via Slack to add the Spanish translated left nav: #content-ia-centralized-team
+          - Confirm Spanish left nav shows when the toggle is on Spanish; the English left nav doesn't display.
+          - Notify ticket creator when done.
+          - Close ticket when all of the above has been validated.
         - label: Something else
   - type: textarea
     id: customer-request
