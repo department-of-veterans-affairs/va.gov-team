@@ -62,4 +62,4 @@ Email the name of the facility and the missing or inaccurate detail to NCA throu
 
 ## Community care providers and pharmacies 
 
-Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Jon Katora, VA Product Owner at jonathan.katora@va.gov
