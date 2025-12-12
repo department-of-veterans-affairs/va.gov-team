@@ -824,6 +824,19 @@ A reusable notification system used across multiple pages to display success and
 - Code:
   ```jsx
   // AlertsList container
+  const alertsList = allAlertsContent.map((alert, index) => {
+    const key = `${alert.type}-${index}`;
+    return (
+      <Alert
+        key={key}
+        title={alert.title}
+        description={alert.description}
+        displayType={alert.displayType}
+      />
+    );
+  });
+  ...
+  
   <div className="alerts-list-container">
     {takeActionHeader}
     <ul className="alerts-list">{alertsList}</ul>
