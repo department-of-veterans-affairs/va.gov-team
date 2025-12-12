@@ -189,8 +189,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 
 ### Discussion Prompts (for each example)
 
-- What stands out to you about this message? What’s your first reaction to this message?)
-- How urgent does it feel compared to the decision letter message?  
+- What stands out to you about this message? What’s your first reaction to this message?) 
 - On a scale of 1–5, how confident are you that you understand this message and know what you’re supposed to do next?  
 - What should you do after reading this message?  
 - How would you do it?  
