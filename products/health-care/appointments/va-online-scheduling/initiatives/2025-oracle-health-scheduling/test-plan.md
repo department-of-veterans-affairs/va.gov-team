@@ -46,7 +46,7 @@ TODO: Link to any relevant design documents, user stories, or specifications (e.
 
 ### Approach
 
-Manually testing each scenario.
+Manually testing each scenario in Staging environment.
 
 ## Test Environment & Setup
 
