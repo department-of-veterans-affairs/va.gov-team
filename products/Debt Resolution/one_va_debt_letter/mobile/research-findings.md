@@ -290,7 +290,7 @@ Several participants expressed frustration over the lack of details in overpayme
 
     > _"Is this balance increase supposed to give us a payment or time frame where the balance increase happened? So, where was it stemming from, what payment, whatever information would help." -P09_
 
-    > _"What is happening behind the scenes, like why there would be a a decrease or whatever – it just says increase or decrease." -P11_
+    > _"What is happening behind the scenes, like why there would be a decrease or whatever – it just says increase or decrease." -P11_
 
 Some participants reported challenges when working with community care.
 - Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Participants described difficulties with submitting claims and navigating separate systems.
