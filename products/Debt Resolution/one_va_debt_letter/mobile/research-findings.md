@@ -267,7 +267,7 @@ Most combined statement needs can be met with individual ones, as overpayments a
 
 - The few who do see value want immediate answers about what is owed, but still want separated details to manage each one.  
 
-- Although some participants want combined PDFs to share with others, detailed management always requires separated information.  
+- Although a few (2 of 10) participants want combined PDFs to share with others, detailed management always requires separated information.  
 
     > _"I honestly kind of like them separated because there are two primary categories. It's probably just the way that my brain likes to compartmentalize things and shift things from one to the next. 1 is straight up just a bill, and then one is an error in my favor of that turned out to not be in my favor, you know, however you want to say it." -P04_
 
