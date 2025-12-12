@@ -9,7 +9,7 @@
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
 - [ ] EZR Launch V2 Financials
 - [ ] EZR Service history BE schema update
-- [ ] EZR Service history Add initial display & yes/no question page
+- [ ] EZR Service history Add branch/dates question page
 - [ ] EZR Service Blueprint
 - [ ] EZR Update RUM to avoid PII leak with EC/NOK data (RUM feature toggle is currently turned off because of this issue)
 
@@ -24,7 +24,7 @@
 - [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history question page (refer to EZ)
+- [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
 - [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema (refer to EZ)
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
