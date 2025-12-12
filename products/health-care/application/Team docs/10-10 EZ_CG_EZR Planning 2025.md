@@ -29,7 +29,7 @@
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [ ] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
-- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM to avoid PII leak with EC/NOK data
+- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [FE] Update RUM to avoid PII leak with EC/NOK data
 
 ##
 ### 10-10EZ
