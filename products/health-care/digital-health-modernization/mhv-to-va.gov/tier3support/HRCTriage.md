@@ -37,10 +37,16 @@ To view the details of the ticket:
 
 ### Next Action
 After review of the issue description, we need to take a next action:
+* Investigate the issue 
 * Provide a resolution if the cause is known
 * Request more information from the reporter if not enough information is included to investigate or understand the issue
 * Create a GitHub ticket (See guidance below) for one of our development teams to further investigate
 * Reroute to the correct Tier 3 if the issue isn’t under MHV scope (this is rare as our Contact Center partners are pretty good about correctly routing)
+
+### Investigate the issue
+* The Tier 3 Support member should use the avaialble tools to attempt to solve or address the issue that has been surfaced.  One of the best tools for this is with the Admin Portal.
+* The Admin Portal allows a user to investigate Usage Logs to evaluate whether a Veteran is continuing to experience a failure mode, or if it was a temporary issue that has been resolved by the system or correctoin of user error.
+* By logging into the Admin Portal, then Manage MHV Users and entering the MHV ID or SS#, the Usage logs can be accessed for the needed detail.
 
 ### Provide a Resolution
 * Add the resolution message to the Case Notes field (e.g. temporary outage, the fix is live).
