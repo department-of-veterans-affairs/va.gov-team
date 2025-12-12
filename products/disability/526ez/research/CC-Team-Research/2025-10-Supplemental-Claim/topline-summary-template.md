@@ -40,9 +40,9 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
 
 
 **There is no discernable difference between a Claim for Increase and a Supplemental Claim in how they are presented.**
-<img width="263" height="568" alt="Screenshot 2025-12-12 at 11 57 04" src="https://github.com/user-attachments/assets/e0298658-cbc3-4042-a64f-d6a5e14cc301" />
 
-- 
+- In Prototype Banana, we tested two scenarios that required the participant to decide whether they wanted to file a Supplemental Claim or a Claim for Increase.
+- !NOTE In Prototype Apple, their decision was made for them - if they chose a rated condition from the 'Add a condition' screen, they were directed through a Claim for Increase flow, and if they chose a denied condition, they were directed through a Supplemental Claim flow. 
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
