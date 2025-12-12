@@ -254,7 +254,7 @@ Format preferences outweigh grouping; participants are more concerned with how i
 
 ### Finding 3
 Most participants desire consistent features across all statements, regardless of grouping.  
-- Key needs include transaction details, contact information, and resolution methods.  
+- 9 of 10 listed key needs for both as transaction details, contact information, and resolution methods.
 
     > _Only one participant had different desires: options to resolve on the individual, and details of transactions on the combined._
 
