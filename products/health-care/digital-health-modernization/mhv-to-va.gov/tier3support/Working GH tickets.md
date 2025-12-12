@@ -1,4 +1,4 @@
-# How to work Tier 3 Issues assigned to an MHV team 
+# How to work a Tier 3 Issue assigned to your MHV team 
 The MHV Tier 3 Support team triages issues that are communicated and escalated to Tier 3 via VA's Help desk.  The entire MHV program is responsible for investigating these issues to provide responses, and/or fixes, for issues encountered.  This document is intended to help an MHV team that gets assigned an issue in Github in what is expected from them in addressing these tickets.
 
 ## How the ticket gets to your MHV team
