@@ -1,5 +1,5 @@
 # IA Design for Hosted Collections page on Pay.gov
-**STATUS: In progress
+**STATUS: Needs review
 
 **Team:** Financial Management
 
@@ -16,12 +16,13 @@
 - [Meeting notes](#notes)
 
 ## <a name="flows"></a>User/page flows <br>
-*The new flow will live within the debt portal and can be accessed through the debt detail page or summary.*
-<img width="2532" height="2070" alt="Pay gov hosted collections_2025-12-12_23-37-49" src="https://github.com/user-attachments/assets/bfaf435d-d12e-443d-9474-b9e3896ba8c3" />
+*The new flow will live within the debt portal and can be accessed through the auth debt detail page or summary. *
+<img width="3596" height="2066" alt="updated pay hosted" src="https://github.com/user-attachments/assets/fe1e8e34-e815-4ae6-8c46-45217d816de3" />
 
 ## <a name="map"></a>Page structure<br>
 *The new flow start with the Resolve page. The Resolve page will be at the same level as Disputes and FSR.*
-<img width="1879" height="1822" alt="Pay gov hosted collections_2025-12-12_20-20-29" src="https://github.com/user-attachments/assets/cc70b76d-9fa7-4e21-a2b5-f3ce51f7c491" />
+<img width="1879" height="1822" alt="Pay gov hosted collections_2025-12-12_20-20-29" src="https://github.com/user-attachments/assets/5cf2ad05-2cc4-45df-a1f8-c811dd8fb588" />
+
 
 ## <a name="url"></a>URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site.*
@@ -71,6 +72,4 @@ Current URL | Redirect to | Notes
 
 <hr>
 <hr>
-
-## <a name="notes"></a>Meetings notes and background info
 
