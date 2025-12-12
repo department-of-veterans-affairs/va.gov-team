@@ -166,13 +166,13 @@ flowchart TD
 
 ## Summary Table
 
-| Gate | Condition | Fail Result |
-|------|-----------|-------------|
+| Gate | Condition (must be TRUE to pass) | Fail Result |
+|------|----------------------------------|-------------|
 | 1 | `MedicationRequest.status == 'active'` | NOT RENEWABLE |
 | 2 | Medication is classified as **VA Prescription** (see classification rules) | NOT RENEWABLE |
 | 3 | Dispense count > 0 | NOT RENEWABLE |
-| 4 | Current date - validity period end ≤ 120 days | NOT RENEWABLE |
-| 5 | Refills remaining == 0 OR prescription is expired | NOT RENEWABLE (use refill process) |
-| 6 | No web/mobile refill requested AND no dispense `in-progress` or `preparation` | NOT RENEWABLE |
+| 4 | Prescription is not expired, OR expired ≤ 120 days ago | NOT RENEWABLE |
+| 5 | Refills remaining == 0, OR prescription is expired | NOT RENEWABLE |
+| 6 | No active processing (no web/mobile refill requested, no dispense `in-progress` or `preparation`) | NOT RENEWABLE |
 
 **If all gates pass → RENEWABLE ✓**
