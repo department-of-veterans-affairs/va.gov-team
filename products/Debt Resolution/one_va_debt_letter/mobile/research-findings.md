@@ -233,7 +233,7 @@ Participants manage VA debts alongside other bills, focusing on due dates rather
 
     > _"With my pay period, if it lands on the 15th, I try to get everything from the 1st to the 14th or 15th and pay it around that time. Then, for anything toward the end of the month, I plan around those dates so the bills are paid at that time." -P09_
 
-- Most participants feel neutral about whether combined statements make it easier or harder to understand their overall financial situation. A few appreciate quick overviews, but still need separate details for any management.  
+- Most participants (7 of 10) feel neutral about whether combined statements make it easier or harder to understand their overall financial situation. A few (2 of 10) appreciate quick overviews, but still need separate details for any management.
 - No one reported challenges from the lack of a centralized debt view.  
 
 ### Finding 2
