@@ -29,10 +29,12 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
    - 0 participants favored Prototype Banana
    - 3 participants liked the presentation of Banana, which featured [tiled radio buttons](https://design.va.gov/components/form/radio-button#tile), but liked the content choices of Apple (showing both rated and denied conditions)
    - 2 sessions were limited in time and didn't review both prototypes (both only made it through Apple)
-   - There was frequent mention of wishing the conditions, regardless of being rated or denied, were presented in an ordered list, either alphabetically by condition or numerically by rating percentage
-   - A common reason for preferring the presentation of one's denied conditions was the likelihood of not being able to remember received past denials, and saving the user from research or document sourcing
+- There was frequent mention of wishing the conditions, regardless of being rated or denied, were presented in an ordered list, either alphabetically by condition or numerically by rating percentage
+- A common reason for preferring the presentation of one's denied conditions was the likelihood of not being able to remember received past denials, and saving the user from research or document sourcing
 > P2: "I don't like the boxes. I don't know why. Apple breaks down the categories. Banana looks like a big blob. The way my brain works I start sorting by groups. Banana, I have to read everything in it. Apple, I can scan the headers and go straight to denied conditions."
+
 > P8: "I MUCH preferred Apple. It tells you everything right up front. No second guessing. Banana makes you go through an additional step. With Apple, I can do everything right away from the first screen... Apple looks nicer than Banana. I don't like the little boxes. The bold print - rated disabilities, denied conditions -- there's something I like. With the boxes, my brain stops flowing. I see the boxes as limitations. It's lacking flow... I didn't find anything in Apple particularly challenging. Banana requires more focus, more reading, more attention. I really had to look at the whole thing... which maybe you should do anyway before you start clicking on stuff. Banana, lack of continuity. I don't know why, even when I'm looking at my current ratings, even though Banana has them in a box, it's easier to read the percentages in Apple. With boxes, it doesn't pop out to me right away."
+
 > P13: "I like Apple. All the information is in one spot: all my rated disabilities and my denied conditions. So you can see - like what if i don't remember what i applied for."
 
 **There is no discernable difference between a Claim for Increase and a Supplemental Claim in how they are presented.**
