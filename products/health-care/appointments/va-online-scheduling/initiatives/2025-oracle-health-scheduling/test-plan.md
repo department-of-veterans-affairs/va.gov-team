@@ -57,7 +57,12 @@ Describe the environment(s) where testing will occur (e.g., Development, Staging
 Staging Environment: staging.va.gov
 
 Test users:
-- judy.morrison@idme
+| Login Option  | Name |Username                   | Password |
+|---------------|-----------------------------|----------|---|
+| ID.me         | BEARDEDIPO, VANCE J (Patient/72228720) |vagovohtestpatient+beardedipo@gmail.com | ni^FcZ@3g0Md@slh |
+
+Login Option	Name	Username	Password
+ID.me	BEARDEDIPO, VANCE J (Patient/72228720)	vagovohtestpatient+beardedipo@gmail.com	ni^FcZ@3g0Md@slh
 
 ### Test Data Requirements
 
