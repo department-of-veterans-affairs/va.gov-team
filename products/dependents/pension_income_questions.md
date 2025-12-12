@@ -4,9 +4,9 @@
 - [Design files](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=5390-102987&t=YbZTPEYFhEHZIpFt-1) for this project.
 - [Question logic](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690311086208/96d5f59b299912bc8c69542e6943d5b2213b9c72?wid=3-1750949761424)
 
-The pension line of business requested that VA.gov add two income-related questions to the 686/674 interview-style form flow on VA.gov, so dependent additions impacting pension benefits could be more efficiently processed. The y/n answers from those questions are to be sent by VA.gov to RBPS. RBPS will then determine if the claim can be auto-processed or if it needs to be off-ramped for manual review.
+The pension line of business requested that VA.gov add two income-related questions to the 21-686c interview-style form flow on VA.gov that are not on the pdf, so dependent additions impacting pension benefits could be more efficiently processed. The y/n answers from those questions are sent by VA.gov to RBPS. RBPS then determines if the claim can be auto-processed or if it needs to be off-ramped for manual review. If the new dependent has any impact on the Veteran's net worth, the claim is off-ramped by RBPS for manual review. If the dependent addition does not have an impact on the Veteran's net worth, the claim is auto-processed by RBPS.
 
-Currently, all dependency pension claims submitted to RBPS off-ramp for manual processing because a person must review income and net worth information. Until VA.gov integrates the income questions and sends the answers to RBPS, these dependent additions impacting pension claims cannot be processed through RBPS and will continue to be off ramped for manual processing. Dependent removals from pension benefits will continue to be off-ramped for manual review. 
+Prior to the implementation of these questions on VA.gov, all 686c claims from VA.gov that impacted pension benefits were off-ramped by RBPS for manual processing, so the VA could to review the Veteran's new net worth. Dependent removals from pension benefits will continue to be off-ramped for manual review. 
 
 -----
 
@@ -25,22 +25,43 @@ Currently, all dependency pension claims submitted to RBPS off-ramp for manual p
 -----
 #### Q1
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
-- This question is asked when a dependent is being added. The question is not asked when a Veteran is only submitting a 674 or removing a dependent.
+- This question is asked when a dependent is being added via a 21-686c
 
 -----
 #### Q2
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
 - This question is asked at the end of all dependent addition branches in the 686 flow.
 - VA.gov will flip the answer before sending to RBPS for reasons outlined in [historical context section](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/dependents/pension_income_questions.md#historical-context). (If the user answered Y, VA.gov will send RBPS N, etc.)
+- The net worth limit is updated each year in October. VA.gov leverages an API to automatically update the limit within this question, but the pdf (overflow) and the backup quesiton if the API fails need to be manually updated each year.
 
 -----
 
 ### Functionalty Overview
 - If a Veteran who receives pension is adding a dependent (686), they should see the income and net worth questions.
-- If a Veteran who receives pension is removing a dependent, they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
+- If a Veteran who receives pension is removing a dependent (686), they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
 - If a Veteran who receives pension is only adding an exsting depndent as a student through the 674-only flow, they should not see the dependent income or net worth questions. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits, and that section will be conditionally shown based on the Veteran's pension status (determined through the API or throught Q0).
 - RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
 - DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
+
+Conditional Question Behavior in 686c Flow
+| In receipt of Pension? Q0 | See Q1 | See Q2  |
+| ------------------------- | ------ | ------- |
+| Yes                       | Y      | Y       |
+| No                        | N      | N       |
+
+Values sent to RBPS for Net Worth Question (Q1)
+| Question language | VA.gov GUI | RBPS         | PDF/eFolder | CRM-UDO   |
+| ----------------- | ---------- | ------------ | ----------- | --------- |
+| Question language | less than  | greater than | less than   | less than |
+| Yes answer to Q1  | Y          | N            | Y           | Y         |
+| No answer to Q1   | N          | Y            | N           | N         |
+
+Values sent to RBPS for Dependent Income Question (Q2)
+| Q2                | VA.gov GUI | RBPS         | PDF/eFolder | CRM-UDO |
+| ----------------- | ---------- | ------------ | ----------- | ------- |
+| Yes answer to Q2  | Y          | Y            | Y           | Y       |
+| No answer to Q2   | N          | N            | N           | N       |
+
 
 -----
 
@@ -70,7 +91,7 @@ The annual net worth limit is [automatically updated](https://github.com/departm
 - not usually memorized (time to gather)
 - affect benefits
 
-My recommendation is to add a bullet: "Their income status"
+The Content Team's recommendation is to add a bullet: "Their income status"
 
 _Note: if that question will only apply to certain cases, we can explain that there._
 

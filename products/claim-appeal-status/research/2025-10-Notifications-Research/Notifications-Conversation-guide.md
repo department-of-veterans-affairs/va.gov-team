@@ -105,7 +105,7 @@ To ensure everything is clear and comfortable for you, I have a few questions re
 
 ### If the participant is using a mobile phone or tablet
 
->tap the green "Share" button, select "Website URL," paste your link, and tap "Share
+>Copy the link, tap the green "Share" button, select "Website URL," paste your link, and tap "Share
 >
 >“When you tap the link in the chat, it might ask if you want to open it in an app called Figma or in your browser. You can choose browser.  
 > Once it opens, you’ll see an example of a message we’ll be talking about. You can scroll or tap on the blue areas to move forward.”

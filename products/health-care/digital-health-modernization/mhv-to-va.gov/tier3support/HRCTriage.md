@@ -76,5 +76,8 @@ NOTE-The Help Desk representative may copy the returned notes verbatim to the Ve
   * MHV-Medical-Records
   * MHV-Medications
   * MHV-Liferay items
+ * Add the MHV-Tier-3 label
+ * Select Tier 3 Support as the Status for the ticket.
+    
 * To update the HRC template, go to this file MHV-Tier-3-HRC.md
 

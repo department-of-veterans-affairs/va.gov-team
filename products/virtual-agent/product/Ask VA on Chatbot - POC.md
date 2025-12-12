@@ -13,6 +13,7 @@ From [this document of routing queues](https://dvagov.sharepoint.com/:x:/s/AskVA
 ---
 
 ## Problem Statement:
+When the Chatbot cannot resolve a Veteran’s sign‑in or technical issue, users cannot reliably escalate to Ask VA human support via the bot. As a result, they abandon the chatbot and seek help through other channels (potentially even multiple channels,) creating duplicate requests, poorer user experience (repeated steps and longer time to resolution), and increased contact center workload. Currently, agents do not receive any Chatbot context, which further slows resolution (as the agent may provide the same information the Chatbot has already provided,) and reduces trust in the channel.
 
 
 ## Desired User Outcomes
@@ -121,7 +122,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - GitHub Label(s): Virtual-Agent
 - Slack channel: #va-chatbot-public
 - Product POCs: 
-   - Nathalie Rayter / Luciana Morais (Product Owner)
+   - Luciana Morais (Product Owner)
    - Selia Strauss (Project Manager)
    - Ann-Marie Raposo (Product Manager)
    - Anita Dewitt (Tech Lead) 

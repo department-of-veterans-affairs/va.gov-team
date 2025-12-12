@@ -265,7 +265,7 @@ Most combined statement needs can be met with individual ones, as overpayments a
 
     > _"But me in general, I would not use the whole combined PDF statement. I'm the type of person that wants to attack one bill at a time." -P03_
 
-- The few who do see value want immediate answers about what is owed, but still want separated details to manage each one.  
+- The few who do see value for their own use (2 of 10) want immediate answers about what is owed and to pay all debts at once, but only one would want to do so in the app.
 
 - Although a few (2 of 10) participants want combined PDFs to share with others, detailed management always requires separated information.  
 
@@ -290,14 +290,14 @@ Several participants expressed frustration over the lack of details in overpayme
 
     > _"Is this balance increase supposed to give us a payment or time frame where the balance increase happened? So, where was it stemming from, what payment, whatever information would help." -P09_
 
-    > _"What is happening behind the scenes, like why there would be a a decrease or whatever – it just says increase or decrease." -P11_
+    > _"What is happening behind the scenes, like why there would be a decrease or whatever – it just says increase or decrease." -P11_
 
 Some participants reported challenges when working with community care.
-- Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Participants described difficulties with submitting claims and navigating separate systems.
+- Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Two participants described difficulties with submitting claims and navigating separate systems.
 
-    > _"It's still just a pain in the butt that comes with the hurry up and wait to even get a community care appointment. Sometimes the mileage claims are difficult, especially when it's a community care appointment, because you can't use the regular VA website. … It has to go through manual review status, which can take weeks to months to get approved or denied. I have had claims denied even though they were community care appointments." -P07_
+    > _"It's still just a pain in the butt that comes with the hurry-up-and-wait to even get a community care appointment. Sometimes the mileage claims are difficult, especially when it's a community care appointment, because you can't use the regular VA website. … It has to go through manual review status, which can take weeks to months to get approved or denied. I have had claims denied even though they were community care appointments." -P07_
 
-    > _"Community care kind of gets lost. So it's even though it's still the VA have to go elsewhere to do that and it's very clunky. I eventually I get this referral number, which gives me the authorization to seek the care. But there is no link between the community care system and the VA system, even though they're both called VA systems. I have to go to different websites – different passwords, different websites." -P08_
+    > _"Community care kind of gets lost. So it's even though it's still the VA I have to go elsewhere to do that and it's very clunky. I eventually I get this referral number, which gives me the authorization to seek the care. But there is no link between the community care system and the VA system, even though they're both called VA systems. I have to go to different websites – different passwords, different websites." -P08_
 
 
 ## Recommendations

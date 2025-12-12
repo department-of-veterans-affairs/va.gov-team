@@ -62,6 +62,7 @@ Then rollout incrementally 1% for a few days with no issues → 25% for a few da
     - Confirmation page [exploration view](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/Q8pGsZFFSlyHtJTEvUyBPw)
     - 526 Overall Form Abandonment [exploration view](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/KHKBycWYRfqDVxVPWNwZyA)
   - DataDog  
+    - [Confirmation page new error alert](https://vagov.ddog-gov.com/monitors/485476)
     - [Frontend 526 overall "new error" alert ](https://vagov.ddog-gov.com/monitors/474722)
     - [Confirmation page "total failure" high priority alert ](https://vagov.ddog-gov.com/monitors/476386)
     - [Confirmation page error dashboard](https://vagov.ddog-gov.com/rum/sessions?query=%40type%3Aerror%20%40application.id%3Ac7eb541a-30d2-4a00-aba0-04965e8a2668%20%40session.type%3Auser%20env%3Aproduction%20%40view.name%3A%22%2Fdisability%2F%3F%2Fconfirmation%22&agg_m=count&agg_m_source=base&agg_t=count&cols=&fromUser=false&viz=stream&from_ts=1763574565087&to_ts=1763660965087&live=true)
