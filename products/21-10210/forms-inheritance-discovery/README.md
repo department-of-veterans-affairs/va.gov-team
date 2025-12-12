@@ -1,6 +1,6 @@
 
 
-# Design
+# Design and Tech Debt 
 
 ## Audit results 10/20/2025
 
