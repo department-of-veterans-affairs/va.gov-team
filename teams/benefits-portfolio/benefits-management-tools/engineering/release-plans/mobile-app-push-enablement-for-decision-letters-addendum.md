@@ -1,4 +1,4 @@
-# VANotify Mobile App Push Enablement for Decision Letters Release Plan
+# VANotify Mobile App Push Enablement for Decision Letters Release Plan - Addendum
 
 ## 1. Overview
 
