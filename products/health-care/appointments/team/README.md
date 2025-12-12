@@ -34,12 +34,11 @@
 #### OCTO Leads
 
 - **Name:** Kay Lawyer
-- **GitHub:** [@klawyer](https://github.com/klawyer)
-- **Role:** OCTO Product Lead
-
+  - **GitHub:** [@klawyer](https://github.com/klawyer)
+  - **Role:** OCTO Product Lead
 - **Name:** Kristen McConnell
-- **GitHub:** [@kristenmcconnell](https://github.com/kristenmcconnell)
-- **Role:** OCTO Design Lead
+  - **GitHub:** [@kristenmcconnell](https://github.com/kristenmcconnell)
+  - **Role:** OCTO Design Lead
 
 ## About This Team
 
