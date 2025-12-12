@@ -293,7 +293,7 @@ Several participants expressed frustration over the lack of details in overpayme
     > _"What is happening behind the scenes, like why there would be a decrease or whatever – it just says increase or decrease." -P11_
 
 Some participants reported challenges when working with community care.
-- Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Participants described difficulties with submitting claims and navigating separate systems.
+- Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Two participants described difficulties with submitting claims and navigating separate systems.
 
     > _"It's still just a pain in the butt that comes with the hurry up and wait to even get a community care appointment. Sometimes the mileage claims are difficult, especially when it's a community care appointment, because you can't use the regular VA website. … It has to go through manual review status, which can take weeks to months to get approved or denied. I have had claims denied even though they were community care appointments." -P07_
 
