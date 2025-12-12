@@ -22,7 +22,11 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
 
 
 **There is a strong preference for viewing all of a user's conditions, both rated and denied, on a single page.**
+
+**Prototype Apple:**
 <img width="263" height="592" alt="Screenshot 2025-12-12 at 11 57 44" src="https://github.com/user-attachments/assets/4503c71f-b793-4c8e-b6f0-55c04ab936c5" />
+
+**Prototype Banana:**
 <img width="264" height="555" alt="Screenshot 2025-12-12 at 11 58 13" src="https://github.com/user-attachments/assets/5531d424-29be-4941-8949-a887226ed67f" />
 
 - The primary intent of this research study is to understand which design direction is preferred by users. Prototypes Apple and Banana were tested, with Prototype Apple featuring all of a user's conditions, including both rated and denied, on the 'Add a condition' page, while Prototype Banana showed only a user's rated conditions and featured an option to view their denied conditions on another screen. 
