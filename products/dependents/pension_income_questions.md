@@ -4,9 +4,9 @@
 - [Design files](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=5390-102987&t=YbZTPEYFhEHZIpFt-1) for this project.
 - [Question logic](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690311086208/96d5f59b299912bc8c69542e6943d5b2213b9c72?wid=3-1750949761424)
 
-The pension line of business requested that VA.gov add two income-related questions to the 21-686c interview-style form flow on VA.gov that are not on the pdf, so dependent additions impacting pension benefits could be more efficiently processed. The y/n answers from those questions are sent by VA.gov to RBPS. RBPS then determines if the claim can be auto-processed or if it needs to be off-ramped for manual review.
+The pension line of business requested that VA.gov add two income-related questions to the 21-686c interview-style form flow on VA.gov that are not on the pdf, so dependent additions impacting pension benefits could be more efficiently processed. The y/n answers from those questions are sent by VA.gov to RBPS. RBPS then determines if the claim can be auto-processed or if it needs to be off-ramped for manual review. If the new dependent has any impact on the Veteran's net worth, the claim is off-ramped by RBPS for manual review. If the dependent addition does not have an impact on the Veteran's net worth, the claim is auto-processed by RBPS.
 
-The answers to these two new income-related questions allow RBPS to determine if the new dependent has any impact on the Veteran's net worth. If yes, the claim is off-ramped by RBPS for manual review. If no, the claim is auto-processed by RBPS. Prior to the implementation of these income-related pension questions on VA.gov, all 686c claims from VA.gov that impacted pension benefits were off-ramped by RBPS for manual processing because the VA needed to review the Veteran's new income and net worth information. Dependent removals from pension benefits will continue to be off-ramped for manual review. 
+Prior to the implementation of these questions on VA.gov, all 686c claims from VA.gov that impacted pension benefits were off-ramped by RBPS for manual processing, so the VA could to review the Veteran's new net worth. Dependent removals from pension benefits will continue to be off-ramped for manual review. 
 
 -----
 
