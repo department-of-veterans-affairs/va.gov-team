@@ -43,6 +43,26 @@ Prior to the implementation of these questions on VA.gov, all 686c claims from V
 - RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
 - DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
 
+Conditional Question Behavior in 686c Flow
+| In receipt of Pension? Q0 | See Q1 | See Q2  |
+| ------------------------- | ------ | ------- |
+| Yes                       | Y      | Y       |
+| No                        | N      | N       |
+
+Values sent to RBPS for Net Worth Question (Q1)
+| Question language | VA.gov GUI | RBPS         | PDF/eFolder | CRM-UDO   |
+| ----------------- | ---------- | ------------ | ----------- | --------- |
+| Question language | less than  | greater than | less than   | less than |
+| Yes answer to Q1  | Y          | N            | Y           | Y         |
+| No answer to Q1   | N          | Y            | N           | N         |
+
+Values sent to RBPS for Dependent Income Question (Q2)
+| Q2                | VA.gov GUI | RBPS         | PDF/eFolder | CRM-UDO |
+| ----------------- | ---------- | ------------ | ----------- | ------- |
+| Yes answer to Q2  | Y          | Y            | Y           | Y       |
+| No answer to Q2   | N          | N            | N           | N       |
+
+
 -----
 
 ### Automate Annual Net Worth Limit
