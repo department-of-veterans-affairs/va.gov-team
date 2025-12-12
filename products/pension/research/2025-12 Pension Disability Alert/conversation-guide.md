@@ -72,7 +72,9 @@ Success Criteria:
 * They mention that they already receive more money from disability payments  
 * They mention their next step as not continuing to apply for Veterans Pension
 
-Now we’ll move onto the next scenario. I want you to imagine the same scenario – that you’re learning about Veterans Pension benefits.
+Now we’ll move onto the next scenario. In order to move onto the next screen, can you navigate to the top-left corner and click on the VA.gov logo? The website won’t behave this way, this is just how we’ve set it up for our prototype.
+
+I want you to imagine the same scenario – that you’re learning about Veterans Pension benefits.
 
 ## **Task: Disability rating cannot be found (10 min) until \[time\]**
 
