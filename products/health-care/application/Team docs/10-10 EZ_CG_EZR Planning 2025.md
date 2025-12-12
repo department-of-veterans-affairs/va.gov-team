@@ -24,8 +24,8 @@
 - [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **SPRINT GOAL** [#114029](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114029) - [FE] Add initial service history display & yes/no question page
-- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema
+- [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history question page (refer to EZ)
+- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema (refer to EZ)
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [ ] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
