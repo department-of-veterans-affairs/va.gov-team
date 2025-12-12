@@ -92,7 +92,7 @@
 - Kyle: 12/25 - 1/2
 
 ---
-## 📆 Sprint 9 (Dec 3 - Dec 16) (PREPLANNED 11/19)
+## 📆 Sprint 9 (Dec 3 - Dec 16)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
