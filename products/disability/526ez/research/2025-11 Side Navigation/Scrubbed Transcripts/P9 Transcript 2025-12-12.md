@@ -1,6 +1,5 @@
 <h1>Participant 9 Side Navigation - 12/12/2025</h1>
 
-WEBVTT
 
 1
 00:00:02.570 --> 00:00:09.279
