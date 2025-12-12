@@ -2,12 +2,102 @@
 - Current Sprint first
 
 ---
+## 📆 Sprint 11 (Dec 31 - Jan 13) (PREPLANNED)
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+#### Note: Code Freeze Monday 12/22 through Monday 1/5
+- [ ] EZR Launch V2 Financials
+- [ ] EZR Service history BE schema update
+- [ ] EZR Service history Add initial display & yes/no question page
+- [ ] EZR Service Blueprint
+- [ ] EZR Update RUM to avoid PII leak with EC/NOK data (RUM feature toggle is currently turned off because of this issue)
+
+
+## 
+### 10-10EZR
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#120277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120277) - [Eng, PM] Launch financials at 5%
+- [ ] **SPRINT GOAL** [#120278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120278) - [Eng, PM] Launch financials at 25%
+- [ ] **SPRINT GOAL** [#120279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120279) - [Eng, PM] Launch financials at 50%
+- [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
+
+#### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] **SPRINT GOAL** [#114029](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114029) - [FE] Add initial service history display & yes/no question page
+- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema
+
+#### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
+- [ ] **SPRINT GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM to avoid PII leak with EC/NOK data
+
+##
+### 10-10EZ
+#### No scheduled work this sprint
+
+## 
+### 10-10CG
+#### No scheduled work this sprint
+
+
+##
+### Team PTO
+- New Year’s Day Holiday: 1/1
+- Ray: 12/24 - 1/2
+- Kyle: 12/25 - 1/2
+- Andrea: 12/31
+
+---
+## 📆 Sprint 10 (Dec 17 - Dec 30)
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+#### Note: Code Freeze Monday 12/22 through Monday 1/5
+- [ ] EZR Financials - Finalize QA & launch prep
+- [ ] EZR Service history discovery
+- [ ] EZR Remove PDF feature toggle
+- [ ] EZ Service Blueprint
+
+## 
+### 10-10EZR
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
+
+#### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] **STRETCH GOAL** [#114497](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114497) - [FE, BE] Discovery on Service History - VES or MPI?
+
+#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- [ ] **SPRINT GOAL** [#120598](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120598) - [Eng] Remove ezr_download_pdf_enabled feature toggle
+
+
+##
+### 10-10EZ
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [#124102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124102) - [UX] Service blueprint for EZ
+
+## 
+### 10-10CG
+#### No scheduled work this sprint
+
+##
+### Team PTO
+- Christmas Holiday: 12/25
+- Mike: 12/22 
+- Steve: 12/22 - 12/26
+- Allan: 12/24 - 12/26
+- Jessica: 12/24 - 12/26
+- Andrea: 12/24
+- Ray: 12/24 - 1/2
+- Kyle: 12/25 - 1/2
+
+---
 ## 📆 Sprint 9 (Dec 3 - Dec 16) (PREPLANNED 11/19)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Spouse - Tech debt & Finalize QA (Carried forward)
-- [ ] EZ QA on Intro page looping fix (Carried forward)
+- [x] EZR Spouse - Tech debt & Finalize QA (Carried forward)
+- [x] EZ QA on Intro page looping fix (Carried forward)
 - [ ] EZR Financials - Finalize findings fixes (Carried forward)
      - [ ] EZR Financials data disappearing
      - [ ] EZR Back button format update
@@ -59,7 +149,7 @@
 
 ---
 ## 📆 Sprint 8 (Nov 19 - Dec 2)
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 #### Note: Code Freeze Thursday 11/27 through Friday 11/28
