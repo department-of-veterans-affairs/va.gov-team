@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD024 -->
 # VANotify Mobile App Push Enablement for Decision Letters Release Plan
 
-For more details, see this addendum
+For more details, see this [addendum](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-management-tools/engineering/release-plans/mobile-app-push-enablement-for-decision-letters-addendum.md)
 
 ## Step 1: Development
 
