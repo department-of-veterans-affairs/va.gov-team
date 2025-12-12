@@ -246,7 +246,7 @@ Format preferences outweigh grouping; participants are more concerned with how i
 
     > _"I have to zoom in to see stuff – that's why I like the like the laptop and all that. -P03_
 
-- A few suggested sharing the PDF with someone who assists with finances.  
+- A few (2 of 10) suggested sharing the PDF with someone who assists with finances.  
 
     > _"If I wanted to download the statement, like I'm trying to get financial help and all that. This'd be a good where I could download it and print it out and send it to somebody that's going to help me with payment." - P03_
 
