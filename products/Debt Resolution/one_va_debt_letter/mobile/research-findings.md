@@ -285,7 +285,7 @@ Trust is tied to details and transparency, not format.
 
 _These insights either do not reflect major patterns and require further research for validation, or they are out of scope._
 
-Several participants expressed frustration over the lack of details in overpayment transactions.
+Several participants (4 of 10) expressed frustration over the lack of details in overpayment transactions.
 - Currently, overpayment debt transactions can only show "balance increase" and "balance decrease." Four participants wanted clearer information about what triggers the changes and the sources of payment.
 
     > _"Is this balance increase supposed to give us a payment or time frame where the balance increase happened? So, where was it stemming from, what payment, whatever information would help." -P09_
