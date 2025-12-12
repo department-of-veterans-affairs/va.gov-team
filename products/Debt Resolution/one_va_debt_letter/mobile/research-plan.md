@@ -127,8 +127,8 @@ For the concept testing portion, Veterans will interact with two prototypes:
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/conversation-guide.md)
-- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4006-561&p=f&viewport=80%2C-1169%2C1.41&t=6TwzteHxmnScDTzu-1&scaling=min-zoom&content-scaling=responsive&starting-point-node-id=4006%3A561)
-- [Link to prototype: design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A430&node-id=4705-140663&p=f&viewport=-4160%2C-130%2C0.43&t=eljtTOe5JSXsQqyB-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4705%3A140663&show-proto-sidebar=1&hotspot-hints=0)
+- [Link to prototype: rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4560-156431&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0)
+- [Link to prototype: design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4906-146809&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0)
 
 
 	
