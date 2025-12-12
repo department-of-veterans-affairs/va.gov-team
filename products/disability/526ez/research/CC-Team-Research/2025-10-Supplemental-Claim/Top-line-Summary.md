@@ -41,14 +41,18 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
 
 **There is no discernable difference between a Claim for Increase and a Supplemental Claim in how they are presented.**
 
-- In Prototype Banana, we tested two scenarios that required the participant to decide whether they wanted to file a Supplemental Claim or a Claim for Increase.
-- 
+- In Prototype Banana, we tested two scenarios that required the participant to decide whether they wanted to file a Supplemental Claim or a Claim for Increase. After the first few sessions, we made a content change to Prototype Banana in an effort to further clarify the difference between the two claim types, and still received feedback that the two claim options seemed the same.
 
 >[!NOTE] 
->In Prototype Apple, their decision was made for them - if they chose a rated condition from the 'Add a condition' screen, they were directed through a Claim for Increase flow, and if they chose a denied condition, they were directed through a Supplemental Claim flow.
+>In Prototype Apple, this decision was made for them - if they chose a rated condition from the 'Add a condition' screen, they were directed through a Claim for Increase flow, and if they chose a denied condition, they were directed through a Supplemental Claim flow.
 
-- These details could be key words, actions, or test outcomes
-> Quote (if relevant)
+- Contextually, a majority of participants perceived both avenues of action as a means of declaring that a condition had gotten worse.
+> P1: "For both, you're trying to get an increase."
+
+> P3: "[It's] giving me two options, two ways to claim this. They seem very closely similar... It seems like new & relevant evidence is the same as I'm trying to get an increase. Two things saying the same exact thing."
+
+> P4: "To me, 'Supplemental Claim' and 'Appealing' aren't very close together. We know rating means you got a rating, [and if] you don't agree, you're going to appeal  it. And [a] Supplemental Claim means I want you to rerate me for this disability. My generation of VA is you either get reevaluated or you redo your claim. I think the [term] 'Supplemental Claim' is what's confusing. I don't get supplemental anything, I'm 100% disabled. There's nothing supplemental in my life. 'Appeal' is way more clear than 'Supplemental Claim.'"
+
 
 **Most participants were able to add a new condition on both versions of the 'Add a condition' screen, but some did have some difficulty.**
 - More details on Finding #3
