@@ -262,8 +262,9 @@ Most participants desire consistent features across all statements, regardless o
 Most combined statement needs can be met with individual ones, as overpayments and copayments must be managed separately.
 
 - There’s limited perceived value in a combined view, especially on mobile.  
-
     > _"But me in general, I would not use the whole combined PDF statement. I'm the type of person that wants to attack one bill at a time." -P03_
+
+    - One participant did see specific value in a combined statement – particularly the PDF format – preferring to review all VA debts together and pay them at the same time. However, they preferred to view everything on a large screen, and did not have a use for the combined statement in the app.
 
 - The few who do see value want immediate answers about what is owed, but still want separated details to manage each one.  
 
