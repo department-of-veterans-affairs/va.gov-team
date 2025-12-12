@@ -31,6 +31,12 @@ First 30 days of feedback, November 10th - December 8th, 2025
   - Positive themes: TBD  
   - Pain points: TBD  
   - Charts here (if applicable)
+ 
+- **Selection of recent care teams:**
+
+- **Selection of a different care teams:**
+
+- - **Selection of can't find my care teams:**
 ---
 
 ## 11/10/25 – **5% of users**
