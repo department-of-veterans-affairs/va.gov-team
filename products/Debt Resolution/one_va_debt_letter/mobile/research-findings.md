@@ -175,8 +175,8 @@ The interview component consisted of conversation only, without any visual aids 
 
 For the concept testing portion, Veterans interacted with two prototypes:
 
-* The first prototype simulated the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
-* The second prototype illustrated a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
+* [The first prototype](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4560-156431&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0) simulated the current experience: accessing the combined statement currently available on the website, plus viewing details for overpayment debts and copayment bills individually.
+* [The second prototype](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4906-146809&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0) illustrated a potential new design for the mobile app, showing how Veterans could view both debts and bills together.
 
 We recruited Veterans who, according to screening responses, had both benefit overpayments and VA medical copays in the past year and had used the VA mobile app at least 3–5 times during that period. However, during the interviews, it became clear that some participants did not fully understand what overpayments were, and not all were current mobile app users. Despite these discrepancies, the interviews provided valuable insights.
 
