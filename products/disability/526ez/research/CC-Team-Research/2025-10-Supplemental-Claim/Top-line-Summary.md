@@ -18,9 +18,7 @@ This topline summary is a high-level, top-of-mind summary of trends found in the
   
 ## Initial Findings
 
-_Add ~5-10 top-of-mind findings. Include quotes if they are available or particularly noteworthy. [Example top line summary.](https://portigal.com/reading-ahead-topline-summary/)_
-
-
+### Finding 1
 **There is a strong preference for viewing all of a user's conditions, both rated and denied, on a single page.**
 
 - The primary intent of this research study is to understand which design direction is preferred by users. Prototypes Apple and Banana were tested, with Prototype Apple featuring all of a user's conditions, including both rated and denied, on the 'Add a condition' page, while Prototype Banana showed only a user's rated conditions and featured an option to view their denied conditions on another screen. 
@@ -38,7 +36,7 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
 > P13: "I like Apple. All the information is in one spot: all my rated disabilities and my denied conditions. So you can see - like what if i don't remember what i applied for."
 
 
-
+### Finding 2
 **There is no discernable difference between a Claim for Increase and a Supplemental Claim in how they are presented.**
 
 - In Prototype Banana, we tested two scenarios that required the participant to decide whether they wanted to file a Supplemental Claim or a Claim for Increase. After the first few sessions, we made a content change to Prototype Banana in an effort to further clarify the difference between the two claim types, and still received feedback that the two claim options seemed the same.
@@ -54,16 +52,21 @@ _Add ~5-10 top-of-mind findings. Include quotes if they are available or particu
 > P4: "To me, 'Supplemental Claim' and 'Appealing' aren't very close together. We know rating means you got a rating, [and if] you don't agree, you're going to appeal  it. And [a] Supplemental Claim means I want you to rerate me for this disability. My generation of VA is you either get reevaluated or you redo your claim. I think the [term] 'Supplemental Claim' is what's confusing. I don't get supplemental anything, I'm 100% disabled. There's nothing supplemental in my life. 'Appeal' is way more clear than 'Supplemental Claim.'"
 
 
+### Finding 3
 **Most participants were able to add a new condition on both versions of the 'Add a condition' screen, but some did have some difficulty.**
 - More details on Finding #3
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
+
+### Finding 4
 **Users expect the opportunity to add more information, especially evidentiary support, about their claim, regardless of claim type (ie Claim for Increase, Supplemental Claim, etc.).**
 - More details on Finding #4
 - These details could be key words, actions, or test outcomes
 > Quote (if relevant)
 
+
+### Finding 5
 **'Add a condition' language caused confusion.**
 - More details on Finding #5
 - These details could be key words, actions, or test outcomes
