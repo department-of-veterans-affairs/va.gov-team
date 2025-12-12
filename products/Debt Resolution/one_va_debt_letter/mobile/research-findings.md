@@ -241,7 +241,9 @@ Format preferences outweigh grouping; participants are more concerned with how i
 - PDFs are valued for record keeping or error review, primarily for printing or viewing on a larger screen.  
 
     > _[when might you use this PDF?] "Only if I knew that there were errors that I needed to discuss, like line item by line item. But that's the only situation where I've ever felt any kind of need to do anything like that." -P04_
+
     > _"I like to print things out and be able to physically see it if I need to keep it for my records, because if the computer's down or the cell phones down, I don't have quick enough access to it." -P01_
+
     > _"I have to zoom in to see stuff – that's why I like the like the laptop and all that. -P03_
 
 - A few suggested sharing the PDF with someone who assists with finances.  
