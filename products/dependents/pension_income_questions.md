@@ -25,19 +25,20 @@ Prior to the implementation of these questions on VA.gov, all 686c claims from V
 -----
 #### Q1
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
-- This question is asked when a dependent is being added. The question is not asked when a Veteran is only submitting a 674 or removing a dependent.
+- This question is asked when a dependent is being added via a 21-686c
 
 -----
 #### Q2
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
 - This question is asked at the end of all dependent addition branches in the 686 flow.
 - VA.gov will flip the answer before sending to RBPS for reasons outlined in [historical context section](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/dependents/pension_income_questions.md#historical-context). (If the user answered Y, VA.gov will send RBPS N, etc.)
+- The net worth limit is updated each year in October. VA.gov leverages an API to automatically update the limit within this question, but the pdf (overflow) and the backup quesiton if the API fails need to be manually updated each year.
 
 -----
 
 ### Functionalty Overview
 - If a Veteran who receives pension is adding a dependent (686), they should see the income and net worth questions.
-- If a Veteran who receives pension is removing a dependent, they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
+- If a Veteran who receives pension is removing a dependent (686), they should not see the income and net worth questions. All dependent removals that might impact pension benefits are manually reviewed by the VBA.
 - If a Veteran who receives pension is only adding an exsting depndent as a student through the 674-only flow, they should not see the dependent income or net worth questions. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits, and that section will be conditionally shown based on the Veteran's pension status (determined through the API or throught Q0).
 - RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
 - DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
@@ -70,7 +71,7 @@ The annual net worth limit is [automatically updated](https://github.com/departm
 - not usually memorized (time to gather)
 - affect benefits
 
-My recommendation is to add a bullet: "Their income status"
+The Content Team's recommendation is to add a bullet: "Their income status"
 
 _Note: if that question will only apply to certain cases, we can explain that there._
 
