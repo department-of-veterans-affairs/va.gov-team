@@ -246,7 +246,7 @@ Format preferences outweigh grouping; participants are more concerned with how i
 
     > _"I have to zoom in to see stuff – that's why I like the like the laptop and all that. -P03_
 
-- A few suggested sharing the PDF with someone who assists with finances.  
+- A few (2 of 10) suggested sharing the PDF with someone who assists with finances.  
 
     > _"If I wanted to download the statement, like I'm trying to get financial help and all that. This'd be a good where I could download it and print it out and send it to somebody that's going to help me with payment." - P03_
 
@@ -254,7 +254,7 @@ Format preferences outweigh grouping; participants are more concerned with how i
 
 ### Finding 3
 Most participants desire consistent features across all statements, regardless of grouping.  
-- Key needs include transaction details, contact information, and resolution methods.  
+- 9 of 10 listed key needs for both as transaction details, contact information, and resolution methods.
 
     > _Only one participant had different desires: options to resolve on the individual, and details of transactions on the combined._
 
@@ -267,7 +267,7 @@ Most combined statement needs can be met with individual ones, as overpayments a
 
 - The few who do see value want immediate answers about what is owed, but still want separated details to manage each one.  
 
-- Although some participants want combined PDFs to share with others, detailed management always requires separated information.  
+- Although a few (2 of 10) participants want combined PDFs to share with others, detailed management always requires separated information.  
 
     > _"I honestly kind of like them separated because there are two primary categories. It's probably just the way that my brain likes to compartmentalize things and shift things from one to the next. 1 is straight up just a bill, and then one is an error in my favor of that turned out to not be in my favor, you know, however you want to say it." -P04_
 
