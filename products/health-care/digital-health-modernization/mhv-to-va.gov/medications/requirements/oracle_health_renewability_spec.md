@@ -70,7 +70,20 @@ Medication classification is determined by the combination of `reportedBoolean`,
 
 ---
 
-### Gate 4: Validity Period
+### Gate 4: Validity Period Exists
+
+**Condition:** Must have a validity period end date
+
+| Validity Period End Date | Renewable? |
+|--------------------------|------------|
+| Exists | Continue to next gate |
+| Not available | **NOT RENEWABLE** |
+
+*Rationale: Prescriptions without a validity period end date cannot be evaluated for renewal eligibility.*
+
+---
+
+### Gate 5: Validity Period Window
 
 **Condition:** Must NOT be more than 120 days past the validity period end date
 
@@ -88,21 +101,21 @@ A prescription is within the renewal window if:
 
 ---
 
-### Gate 5: Refills Remaining
+### Gate 6: Refills Remaining
 
 **Condition:** Must have zero refills remaining OR prescription is expired (validity period has ended)
 
 | Scenario | Renewable? |
 |----------|------------|
-| Refills remaining == 0 | Continue to next gate |
-| Refills remaining > 0 AND prescription is expired (validity period ended) | Continue to next gate |
+| Refills remaining == 0 AND prescription is NOT expired | Continue to next gate |
+| Refills remaining >= 0 AND prescription is expired (validity period ended) | Continue to next gate |
 | Refills remaining > 0 AND prescription is NOT expired | **NOT RENEWABLE** |
 
-*Rationale: If refills are available AND the prescription is still valid (not expired), patient should use the refill process instead of renewal. However, if the prescription is expired (even with refills remaining), renewal is the appropriate path since refills cannot be processed on an expired prescription.*
+*Rationale: If refills are available AND the prescription is still valid (not expired), patient should use the refill process instead of renewal. However, if the prescription is expired (even with zero or more refills remaining), renewal is the appropriate path since refills cannot be processed on an expired prescription.*
 
 ---
 
-### Gate 6: Active Processing
+### Gate 7: Active Processing
 
 **Condition:** No active refill request or in-progress dispense
 
@@ -141,17 +154,21 @@ flowchart TD
     Gate3 -->|No| NotRenewable3[NOT RENEWABLE]
     Gate3 -->|Yes| Gate4
 
-    Gate4{Gate 4:<br/>Within 120 days of<br/>validity period end?}
-    Gate4 -->|No, expired > 120 days| NotRenewable4[NOT RENEWABLE]
+    Gate4{Gate 4:<br/>Validity period end date exists?}
+    Gate4 -->|No| NotRenewable4[NOT RENEWABLE]
     Gate4 -->|Yes| Gate5
 
-    Gate5{Gate 5:<br/>Refills remaining == 0<br/>OR prescription expired?}
-    Gate5 -->|No, has refills AND not expired| NotRenewable5[NOT RENEWABLE<br/>Use refill process]
+    Gate5{Gate 5:<br/>Within 120 days of<br/>validity period end?}
+    Gate5 -->|No, expired > 120 days| NotRenewable5[NOT RENEWABLE]
     Gate5 -->|Yes| Gate6
 
-    Gate6{Gate 6:<br/>No active processing?<br/>- No web/mobile refill<br/>- No in-progress dispense<br/>- No preparation dispense}
-    Gate6 -->|No| NotRenewable6[NOT RENEWABLE]
-    Gate6 -->|Yes| Renewable[RENEWABLE ✓]
+    Gate6{Gate 6:<br/>Prescription expired?<br/>OR Refills remaining == 0?}
+    Gate6 -->|No, has refills AND not expired| NotRenewable6[NOT RENEWABLE<br/>Use refill process]
+    Gate6 -->|Yes, expired OR no refills| Gate7
+
+    Gate7{Gate 7:<br/>No active processing?<br/>- No web/mobile refill<br/>- No in-progress dispense<br/>- No preparation dispense}
+    Gate7 -->|No| NotRenewable7[NOT RENEWABLE]
+    Gate7 -->|Yes| Renewable[RENEWABLE ✓]
 
     style Renewable fill:#28a745,color:#fff
     style NotRenewable1 fill:#dc3545,color:#fff
@@ -160,6 +177,7 @@ flowchart TD
     style NotRenewable4 fill:#dc3545,color:#fff
     style NotRenewable5 fill:#dc3545,color:#fff
     style NotRenewable6 fill:#dc3545,color:#fff
+    style NotRenewable7 fill:#dc3545,color:#fff
 ```
 
 ---
@@ -171,8 +189,9 @@ flowchart TD
 | 1 | `MedicationRequest.status == 'active'` | NOT RENEWABLE |
 | 2 | Medication is classified as **VA Prescription** (see classification rules) | NOT RENEWABLE |
 | 3 | Dispense count > 0 | NOT RENEWABLE |
-| 4 | Prescription is not expired, OR expired ≤ 120 days ago | NOT RENEWABLE |
-| 5 | Refills remaining == 0, OR prescription is expired | NOT RENEWABLE |
-| 6 | No active processing (no web/mobile refill requested, no dispense `in-progress` or `preparation`) | NOT RENEWABLE |
+| 4 | Validity period end date exists | NOT RENEWABLE |
+| 5 | Prescription is not expired, OR expired ≤ 120 days ago | NOT RENEWABLE |
+| 6 | Prescription is expired, OR refills remaining == 0 | NOT RENEWABLE |
+| 7 | No active processing (no web/mobile refill requested, no dispense `in-progress` or `preparation`) | NOT RENEWABLE |
 
 **If all gates pass → RENEWABLE ✓**
