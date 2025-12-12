@@ -1,9 +1,11 @@
 <!-- markdownlint-disable MD024 -->
+# VANotify Mobile App Push Enablement for Decision Letters Release Plan
+
+For more details, see this addendum
+
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
+Development was done behind a feature flag, following the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
 | Toggle name | Description |
 | ----------- | ----------- |
@@ -15,9 +17,9 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [ ] Work with any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -32,32 +34,7 @@ Before enabling your feature toggle in production, you'll need to:
 - This change does not impact user flows through tasks
 - This change does not affect traffic to backend services
 
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
-
-### Define the Rollback process
+### Rollback process
 
 Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
 
@@ -67,34 +44,34 @@ Our PM and PO will monitor analytics, e.g. DataDog. If they notice a spike in er
 
 #### Planning
 
-- Desired date range or test duration: June 16, 2025
-- Desired number of users: 1
-- How you'll recruit the right production test users: We have already contacted Robin Garrison, who has agreed to let us use his participant ID.
-- How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with Robin Garrison's participant ID.
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Gateway will **not** be connected to the production Kafka topic at this time, so our manual testing will be the only email being sent.
+- Desired date range or test duration: ___
+- Desired number of users: ___
+- How you'll recruit the right production test users: ___
+- How you'll conduct the testing: ___
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: ___
 
 #### Results
 
-- Number of users: 1
-- Number of bugs identified / fixed: 0
-- Was any downstream service affected by the change?: no
-- Types of errors logged: None
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: no
-- If yes, what: N/A
+- Number of users: ___
+- Number of bugs identified / fixed: ___
+- Was any downstream service affected by the change?: ___
+- Types of errors logged: ___
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: ___
+- If yes, what: ___
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
+We recommend that the rollout plan has ___ stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
 #### Rollout Planning
 
-- Desired date range: June 17, 2025 - June 27, 2025
-- How will you make the product available in production while limiting the number of users who can find/access it: Gateway will **not** be connected to the full production Kafka topic at this time, but rather a series of iteratively-larger subsets of messages.
+- Desired date range: ___
+- How will you make the product available in production while limiting the number of users who can find/access it: ___
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - DataDog error rate below 5%
   - Click through rate above xx%
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: Ian Donovan
+- Who is monitoring the dashboard(s)?: ___
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
@@ -109,13 +86,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: 200
+- Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
-    - [x] DataDog errors < 5%
-    - [x] 31.4% click through rate
-- Was any downstream service affected by the change?: no
-- Types of errors logged: Some VA Notify delivery errors that are out of scope for this work, but we are ensuring we maintain awareness of
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No changes are absolutely required; we have some thoughts around additional logging we can add and potentially retrying some of the errors, but no blockers identified.
+    - [ ] DataDog errors < 5%
+    - [ ] 31.4% click through rate
+- Was any downstream service affected by the change?: __
+- Types of errors logged: ___
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage B: 25% of users
 
@@ -128,14 +105,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Ran on 6/18 from 8am - 4pm ET and again from 6/20 @ 1:30pm ET through 6/22 8am ET
-- Number of unique users: 3702
+- Ran on ____ from 8am - 4pm ET and again from ___
+- Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
-    - [x] DataDog errors < 5%
-    - [x] 52.0% click through rate overall
-- Was any downstream service affected by the change?: No
-- Types of errors logged: Some VA Notify delivery errors that are out of scope for this work, but we are ensuring we maintain awareness of
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Nothing new
+    - [ ] DataDog errors < 5%
+    - [ ] 52.0% click through rate overall
+- Was any downstream service affected by the change?: ___
+- Types of errors logged: ___
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage C: 50% of users
 
@@ -148,13 +125,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: 4994
+- Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
-    - [x] DataDog errors < 5%
-    - [x] 40.7% click through rate overall
-- Was any downstream service affected by the change?: no
+    - [ ] DataDog errors < 5%
+    - [ ] 40.7% click through rate overall
+- Was any downstream service affected by the change?: ___
 - Types of errors logged: 
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? n/a
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage D: 75% of users
 
@@ -167,13 +144,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: 8123
+- Number of unique users: ____
 - Metrics at this stage (per your "success criteria"):
-    - [x] DataDog errors < 5%
-    - [x] 38.2% click through rate overall
-- Was any downstream service affected by the change?: no
+    - [ ] DataDog errors < 5%
+    - [ ] 38.2% click through rate overall
+- Was any downstream service affected by the change?: __
 - Types of errors logged: 
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? n/a
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage E: 100% of users
 
@@ -188,7 +165,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
     - [ ] xx.x% click through rate overall
-- Was any downstream service affected by the change?: no
+- Was any downstream service affected by the change?: ___
 - Types of errors logged: 
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? 
 
