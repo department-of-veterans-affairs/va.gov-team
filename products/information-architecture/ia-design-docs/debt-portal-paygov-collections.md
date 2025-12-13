@@ -17,7 +17,8 @@
 
 ## <a name="flows"></a>User/page flows <br>
 *The new flow will live within the debt portal and can be accessed through the auth debt detail page or summary. *
-<img width="3596" height="2066" alt="updated pay hosted" src="https://github.com/user-attachments/assets/fe1e8e34-e815-4ae6-8c46-45217d816de3" />
+<img width="3596" height="2066" alt="updated pay hosted" src="https://github.com/user-attachments/assets/f5deba45-0bea-49bd-ab7c-fbc5ff73151f" />
+
 
 ## <a name="map"></a>Page structure<br>
 *The new flow start with the Resolve page. The Resolve page will be at the same level as Disputes and FSR.*
@@ -50,12 +51,17 @@
   - Placement description: Body copy (transaction tile)
   - Link label: TBD by content
   - Link destination:  https://www.va.gov/manage-va-debt/resolve-overpayment/
-  - Notes: The summary page can get really long if a Veteran has a long transaction history, so the resolve page will have the payment/dispute/financial help methods.
+  - Notes: The summary page can get really long if a Veteran has a long transaction history, so the resolve page will have the payment/dispute/financial help methods. The summary/overview page is where Veterans land when they log in from the Manage VA, Dispute, Requestion Financial Help, or Resolve page.
 
 2. [Debt detail page]- [Modify]
   - Placement description: Body copy (transaction CTA)
   - Link label: TBD by content
   - Link destination:  https://www.va.gov/manage-va-debt/resolve-overpayment/
+
+3. [Manage VA debt unauth page](https://www.va.gov/manage-va-debt/) - [Modify]
+   - Placement description: Body copy
+   - Link label: TBD by content
+   - Link destination: https://www.va.gov/manage-va-debt/resolve-overpayment/
 
 ## <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience. For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jennymayoco%2C+kristinoletmuskat%2C+strelichl%2C+FranECross&labels=sitewide+CAIA%2C+Sitewide+IA%2C+Public+Websites%2C+VA.gov+frontend%2C+Redirect+request&projects=&template=redirect-request.md&title=Redirect+Request) at least 2 weeks in advance.*  
