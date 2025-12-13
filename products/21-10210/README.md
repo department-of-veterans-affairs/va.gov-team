@@ -35,4 +35,4 @@ VA Form 21-10210 (Lay/Witness Statement) is a separate, but supporting form to 5
 
 ## Discovery
 
-* Design and Tech Debt
+* [Design and Tech Debt](forms-inheritance-discovery/README.md)
