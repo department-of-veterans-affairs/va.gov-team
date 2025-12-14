@@ -1,15 +1,16 @@
 # Evaluation of adding DoL's ENPP (Employment Navigator & Partnership Program) to Discover Your Benefits
 
 Dec 10, 2025  - added link to figma resource file (AJ)
+Dec 14, 2025  - updated to reflect that this benefit is only available to TSMs (Jessica)
 
 
 ## Summary
 
 After researching this program and comparing it to what we know about user needs, I recommend adding this benefit to DYB. 
 
-We know that many of our users are looking for career assistance including training, mentorship, networking, referrals and internships, as well as one-on-one guidance. ENPP provides both. It’s similar to Skillbridge but available for a longer time period both before and after separation. Unlike VR&E, it does not require having a disability rating to use. 
+We know that many of our users are looking for career assistance including training, mentorship, networking, referrals and internships, as well as one-on-one guidance. ENPP provides both. It’s similar to Skillbridge but available for a longer time period before separation. Unlike VR&E, it does not require having a disability rating to use. 
 
-It is available to service members and their spouses in their last two years of service who are enrolled in TAP and Veterans in their first year of separation. Some user research participants wanted to see spouse and family benefits in DYB, and this benefit meets that need.
+It is available to service members and their spouses in their last two years of service who are enrolled in TAP. Some user research participants wanted to see spouse and family benefits in DYB, and this benefit meets that need.
 
 The only significant con to adding it is that it is only available to transitioning Service Members in some locations (see list below). It will be important to put the location limitations of eligibility on the benefit card to avoid wasting users’ time and diminishing trust.
 
@@ -27,7 +28,7 @@ The only significant con to adding it is that it is only available to transition
 ### Cons
 
 * No other benefits have location limitations  
-* Adds a little complexity but not much to time sensitivity. It’s a different time sensitivity length (2 years before separation, 1 year after), but most of the time sensitive benefits are different lengths of time
+* Adds a little complexity but not much to time sensitivity. It’s a different time sensitivity length (2 years before separation), but most of the time sensitive benefits are different lengths of time
 
 ## Program description:
 
