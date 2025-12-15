@@ -2,10 +2,22 @@
 
 ## Table of Contents
 
+- [Terminology](#terminology)
 - [Introduction](#introduction)
 - [Existing Data Analysis](#existing-data-analysis)
 - [Unified Prescription Model Output](#unified-prescription-model-output)
+- [Latency and Data Availability](#latency-and-data-availability)
 - [Order Tracking Proposed Solution](#order-tracking-proposed-solution)
+
+## Terminology
+
+| Term | Definition |
+|------|------------|
+| **Medication** | A drug or pharmaceutical product (e.g., "Ibuprofen 200 MG"). Refers to the drug itself, independent of how it was prescribed or dispensed. |
+| **Prescription** | A provider's order for a specific medication for a patient. A prescription includes the medication, dosage instructions, quantity, and number of allowed refills. |
+| **Dispense / Dispensing Event** | A single instance of a pharmacy fulfilling a prescription. Each time the pharmacy prepares and provides medication to the patient, it creates a new dispense record. A prescription may have multiple dispense events over its lifetime. |
+| **Refill** | A subsequent dispense of an existing prescription **after** the initial fill. Refills are limited by the number of refills allowed on the prescription. "Refill 2 of 5" means this is the second refill out of five allowed. |
+| **Order** | A group of one or more prescription refill requests submitted together by the veteran in a single action.
 
 ## Introduction
 
@@ -256,6 +268,51 @@ Oracle Health dispenses (`contained MedicationDispense[]`) contain:
 - Each dispense event has its own FHIR `id`
 - The adapter extracts this into the `dispenses` array with `id` field
 
+### Refill Submission Response Data
+
+When submitting prescription refills via the UHD API, the response contains the following data:
+
+**Request Format:**
+```json
+{
+  "patientId": "xxxxICNxxxx",
+  "orders": [
+    { "orderId": "15220389459", "stationNumber": "556" },
+    { "orderId": "0000000000001", "stationNumber": "570" }
+  ]
+}
+```
+
+**Response Format:**
+```json
+[
+  {
+    "success": true,
+    "orderId": "15220389459",
+    "stationNumber": "556",
+    "message": "Already in Queue"
+  },
+  {
+    "success": false,
+    "orderId": "0000000000001",
+    "stationNumber": "570",
+    "message": "Prescription is not Found"
+  }
+]
+```
+
+| Response Field | Description |
+|----------------|-------------|
+| `success` | Boolean indicating if refill was accepted |
+| `orderId` | The prescription ID that was submitted (echoed back) |
+| `stationNumber` | The station number that was submitted (echoed back) |
+| `message` | Status message (e.g., "Already in Queue", "Prescription is not Found") |
+
+**Key Observation:** The refill response does **not** return a dispense ID. It only echoes back the prescription ID (`orderId`) and station number that were sent in the request. This is sufficient for our order tracking design since:
+- We store the `prescription_id` in `prescription_refill_order_items`
+- The `dispense_id` is only known later when fetching prescription details for the Order History view
+- The dispense record is created asynchronously by the pharmacy system after the refill is processed
+
 ### Items Requiring Further Verification
 
 The following items were not present in VCR cassettes and should be verified:
@@ -264,7 +321,6 @@ The following items were not present in VCR cassettes and should be verified:
 2. **Oracle Health Prescription Number** - Verify presence in `MedicationRequest.identifier[]`
 3. **Vista Days Supply** - Verify if available in full API response
 4. **Oracle Health Remarks/Notes** - Check for extensions containing remarks
-
 ## Unified Prescription Model Output
 
 After both adapters process their respective source data (Vista or Oracle Health), they output a unified `UnifiedHealthData::Prescription` model. This section documents what data is available in this common format and identifies gaps for the Order History feature.
@@ -347,6 +403,116 @@ The following data exists in the source systems but is **not extracted** into th
 
 The current unified prescription model contains sufficient data to display individual prescription details within an order (medication name, status, quantity, tracking). However, **the concept of an "order" that groups multiple prescriptions together does not exist**. The following section explores what additional data and infrastructure is needed to support the Order History feature.
 
+## Latency and Data Availability
+
+### Dual API Architecture
+
+The vets-api codebase uses two different APIs for prescription data:
+
+| API | Client Library | Endpoints | Date Filtering |
+|-----|----------------|-----------|----------------|
+| **MHV Prescription API** | `Rx::Client` (`lib/rx/`) | `getactiverx`, `gethistoryrx`, `medications` | ❌ Not supported |
+| **UHD API** | `UnifiedHealthData::Client` (`lib/unified_health_data/`) | `medications?patientId=&startDate=&endDate=` | ✅ Supported |
+
+The V2 prescriptions controller (which handles bulk refills) uses **UHD API**, which supports date filtering:
+
+```
+GET {base_path}/medications?patientId={icn}&startDate={start_date}&endDate={end_date}
+```
+
+The UHD service currently fetches with very broad date ranges:
+- **Start date:** `1900-01-01` (effectively "all time")
+- **End date:** Today's date
+
+### Data Availability Limitations
+
+Even with date filtering support, there are limitations from the underlying source systems:
+
+| Source | Active Prescriptions | Inactive Prescriptions |
+|--------|---------------------|------------------------|
+| **Vista** | All active prescriptions | Inactive within last 180 days only |
+| **Oracle Health** | All active prescriptions | TBD - may have similar limitations |
+
+This means:
+- **Orders older than ~180 days** may reference prescriptions that can no longer be retrieved
+- The Order History view may need to handle "prescription not found" scenarios gracefully
+
+### Latency Mitigation Strategies
+
+For Order History, we need to fetch prescription details for all items in displayed orders. Several strategies can reduce latency:
+
+1. **Pagination with Lazy Loading**
+   - Load orders first (from database/cache) - fast
+   - Load prescription details for visible orders only
+   - Load additional prescription details as user scrolls
+
+2. **Single Request, Client-Side Filtering**
+   - UHD API does not support fetching by prescription ID - it only accepts date ranges
+   - One API call returns all prescriptions within the date range
+   - Filter `vets-api`-side to find prescriptions matching order items
+   - This means fetching one prescription is as expensive as fetching all of them
+
+3. **Date-Bounded Requests (Limited Benefit)**
+   - The UHD API supports `startDate` and `endDate` parameters
+   - Currently, vets-api always fetches from `1900-01-01` to today (all prescriptions)
+   - We could pass narrower date ranges based on the orders being viewed
+   - **However:** The response payload is primarily driven by number of prescriptions, not date range
+   - Since we need prescription details for specific orders (not date ranges), this may not help much
+   - The 180-day limitation on inactive prescriptions is a **source system limitation**, not something we can work around with date filtering
+
+4. **Graceful Degradation**
+   - If prescription details cannot be fetched, show order metadata with "Details unavailable"
+
+### Handling Unavailable Prescription Data
+
+For orders where prescription details cannot be retrieved (e.g., >180 days old), show partial data with the order metadata we have stored:
+
+```json
+{
+  "prescription_id": "90281734",
+  "prescription_name": null,
+  "status": "unavailable",
+  "message": "Prescription details no longer available"
+}
+```
+
+> **Note:** We cannot store medication names in the database as they are considered PHI. This means for orders older than ~180 days where the prescription is no longer retrievable from the source system, we can only display the prescription ID and a message indicating details are unavailable.
+
+### Optimization: Completed Order Flag
+
+To reduce latency for users who check Order History regularly, we could add a `completed` boolean flag to the order table. This would allow us to skip fetching prescription data for orders we already know are complete.
+
+**How it works:**
+1. When fetching Order History, load orders from database
+2. For orders where `completed = true`, skip the UHD API call entirely
+3. For orders where `completed = false`, fetch prescription data and check if all items are now complete
+4. If all items are complete, update `completed = true` for future requests
+
+**Schema change:**
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `completed` | Boolean | `true` if all prescriptions in order have been dispensed, default `false` |
+
+**Trade-offs:**
+
+| Pros | Cons |
+|------|------|
+| Reduces UHD API calls for completed orders | Adds write operations (updates) to previously write-once table |
+| Lower latency for repeat Order History views | Increases schema and code complexity |
+| Completed orders won't fail if prescription data becomes unavailable (>180 days) | Need logic to determine "complete" status |
+| Not PHI - just a boolean flag | Only risk is if a prescription is updated after completion (not expected) |
+| Good optimization for users frequently view Order History | Will not help for users who seldom see their orders |
+| | **Cannot display medication names for completed orders** (PHI not stored) |
+
+> ⚠️ **Critical Consideration:** If the Order History page must always display medication names, **this optimization is not viable**. Medication names are PHI and cannot be stored in the database, so they must be fetched from the UHD API. If we always need to fetch prescription data to display medication names, then the `completed` flag provides no benefit - we'd make the UHD API call regardless of completion status.
+>
+> **This optimization only works if:**
+> - Completed orders can display without medication names (e.g., just "Order #099247 - 3 prescriptions - Completed"), OR
+> - We accept that completed orders older than 180 days will show "Details unavailable"
+
+The latency savings could be substantial for users with many historical orders, as completed orders would require no external API calls. However, it does deviate from the pure "write-once, fetch real-time" model.
+
 ## Order Tracking Proposed Solution
 
 This section proposes a solution for tracking prescription refill orders.
@@ -363,6 +529,8 @@ To support the Order History view, the following data must be captured and store
 | User ID | From authenticated session | Link to veteran's account (UUID or ICN) |
 | Submitted At | Captured at submission time | Timestamp when order was placed |
 | Order Status | Computed | Overall status: `submitted`, `partial_success`, `complete`, `failed` |
+
+
 
 #### Order Item Data (Must Create)
 
@@ -413,25 +581,56 @@ sequenceDiagram
 
 **Order History View Flow:**
 
+The following diagram shows the data flow when a veteran views their Order History, including the optional completed flag optimization:
+
 ```mermaid
 sequenceDiagram
     participant Veteran
     participant Frontend
     participant vets-api
+    participant Redis
     participant Database
     participant UHD API
 
-    Veteran->>Frontend: Opens Order History
-    Frontend->>vets-api: GET /prescriptions/orders
-    vets-api->>Database: Fetch orders for user
-    vets-api->>Database: Fetch order items (prescription IDs)
-    vets-api->>UHD API: Fetch current prescription details
-    UHD API-->>vets-api: Return prescription data (name, status, tracking)
+    Veteran->>Frontend: Opens Order History page
+    Frontend->>vets-api: GET /prescriptions/orders?page=1
+
+    vets-api->>Redis: Check cache for orders
+    alt Cache hit
+        Redis-->>vets-api: Return cached orders
+    else Cache miss
+        vets-api->>Database: Fetch orders for user
+        Database-->>vets-api: Return orders + items
+        vets-api->>Redis: Cache orders
+    end
+
+    vets-api->>vets-api: Separate orders by completed flag
+
+    alt Has incomplete orders
+        vets-api->>UHD API: GET /medications (all prescriptions)
+        UHD API-->>vets-api: Return prescription data
+        vets-api->>vets-api: Match prescriptions to order items by ID + refill_number
+        vets-api->>vets-api: Check if all items in order are now complete
+        alt All items complete
+            vets-api->>Database: UPDATE order SET completed = true
+            vets-api->>Redis: Invalidate cached orders
+        end
+    end
+
     vets-api->>vets-api: Merge order metadata + prescription details
-    vets-api->>vets-api: Compute order status from prescription statuses
+    vets-api->>vets-api: Compute overall order status
+
     vets-api-->>Frontend: Return orders with prescription info
     Frontend-->>Veteran: Display Order History
 ```
+
+**Key Points:**
+- Completed orders skip the UHD API call entirely, reducing latency
+- Incomplete orders always fetch real-time data from UHD API
+- The `completed` flag is updated opportunistically when viewing orders
+- Cache is invalidated when an order is marked as complete
+- Order metadata (order number, submitted date) is always available from the database
+- If UHD API is unavailable, incomplete orders show "status unavailable"
 
 #### Database Schema
 
@@ -446,6 +645,8 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
 | `account_uuid` | UUID | Foreign key to `user_accounts.id` |
 | `submitted_at` | Timestamp | When order was placed (also serves as record creation time) |
 
+⚠️Need to add the `completed` flag and an `updated_at` column as discussed in [Optimization: Completed Order Flag](#optimization-completed-order-flag) if desired
+
 **`prescription_refill_order_items`** - Stores per-prescription data
 
 | Column | Type | Description |
@@ -453,7 +654,9 @@ Two new tables are needed. Note that **no status fields are stored** - all statu
 | `id` | UUID | Primary key |
 | `order_id` | UUID | Foreign key to `prescription_refill_orders` |
 | `prescription_id` | String | Prescription ID from source system |
-| `station_number` | String | VA station number |
+| `refill_number` | Integer | Which refill this order is requesting (1, 2, 3, etc.) |
+
+⚠️Need to add the `completed` flag and an `updated_at` column as discussed in [Optimization: Completed Order Flag](#optimization-completed-order-flag) if desired
 
 **Entity Relationship Diagram:**
 
@@ -474,14 +677,29 @@ erDiagram
         uuid id PK
         uuid order_id FK
         string prescription_id
-        string station_number
+        int refill_number
     }
 
     user_accounts ||--o{ prescription_refill_orders : "has many"
     prescription_refill_orders ||--o{ prescription_refill_order_items : "contains"
 ```
 
-> **Note:** The database records are write-once and never updated. All status, error messages, and tracking information are fetched real-time from the UHD API.
+#### Why `refill_number` is Required
+
+A veteran can refill the same prescription multiple times, creating multiple orders with the same `prescription_id`. To correctly display Order History, we need to know which specific dispense corresponds to which order.
+
+**Example Scenario:**
+1. **Order 1 (Feb 1):** User refills Ibuprofen → Refill 1 is dispensed
+2. **Order 2 (Feb 15):** User refills Ibuprofen again → Refill 2 is dispensed
+
+Without `refill_number`, both orders would have the same `prescription_id`, and we couldn't determine which dispense to show for each order.
+
+**Solution:** At submission time, we store the `refill_number` that this order is requesting. When displaying Order History, we:
+1. Fetch the prescription's dispense history from UHD API
+2. Find the dispense record matching the stored `refill_number`
+3. Display that specific dispense's status, tracking info, etc.
+
+> **Note:** The database records are write-once and never updated. All status, error messages, and tracking information are fetched real-time from the UHD API and matched to the stored `refill_number`.
 
 #### API Endpoints
 
@@ -602,7 +820,7 @@ The order tracking tables store minimal data to avoid PII/PHI:
 | `account_uuid` | No | References `user_accounts.id`, not directly identifying |
 | `submitted_at` | No | Timestamp only |
 | `prescription_id` | No | Opaque identifier from source system, not PHI |
-| `station_number` | No | VA facility identifier |
+| `refill_number` | No | Integer only, no health information |
 
 #### Redis (Cache) Storage
 
