@@ -99,7 +99,6 @@ Test cases below wll focus on the main scenarios for testing the flow as well as
 | [C157702](https://dsvavsp.testrail.io/index.php?/cases/view/157702) | Verify Contact Info Confirmation for OH Scenarios | 
 | [C157704](https://dsvavsp.testrail.io/index.php?/cases/view/157704) | Verify fetch error for choose a location for OH | 
 | [C157698](https://dsvavsp.testrail.io/index.php?/cases/view/157698) | Verify Page: Which Provider do you want to schedule with scneairos | 
-| [C157699](https://dsvavsp.testrail.io/index.php?/cases/view/157699) | Verify Patient Indicated date Page Scenarios | 
 | [C157703](https://dsvavsp.testrail.io/index.php?/cases/view/157703) | Verify permutations for types of care work for direct scheduling flow | 
 | [C157709](https://dsvavsp.testrail.io/index.php?/cases/view/157709) | Verify Schedule Vista appt error states | 
 | [C157707](https://dsvavsp.testrail.io/index.php?/cases/view/157707) | Verify Schedule Vista appt Multiple Facilities Regression for New OH Flow Added |
