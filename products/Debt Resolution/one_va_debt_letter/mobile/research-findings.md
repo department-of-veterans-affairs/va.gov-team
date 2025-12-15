@@ -333,11 +333,13 @@ _A combined effort with the Financial Management team_
 - Use these insights to inform future decisions about implementing a combined statement view or PDF in the mobile app.
 
 
-## Further research needed
+## Further research directions
 
 Additional research could be conducted to address gaps from the current study, including:
 - Refining screener questions to better identify Veterans with recent benefit overpayment debt.
+    - All participants reported overpayments, but some confused the term with other types of medical debt beyond copays.
 - Refining screener questions to better recruit Veterans who currently use the VA mobile app.
+    - Everyone declared they used the VA mobile app at least 3-5 times per year. However, one mistook the mobile website for the app, another described My HealtheVet, and one had not used the app in over a year.
 - Exploring perspectives from Veterans who have not used the VA mobile app but have current VA debt or bills to see if there are needs that could be solved by the app.
 - Assessing the experiences of caregivers who assist Veterans in managing debt and bills.
 
