@@ -34,10 +34,10 @@ demographics:
     "65+": 1
     unknown: 0
   education:
-    high_school: 3
+    high_school: 0
     some_college: 2
     associates: 1
-    bachelors: 3
+    bachelors: 6
     masters: 1
     doctorate: 0
     unknown: 0
