@@ -89,7 +89,7 @@ Test users with the following configurations:
 
 ## Test cases 
 
-Test cases below wll focus on the main scenarios for testing the flow as well as additional paths for testing. These test cases are housed in [DSVA Testrail](https://dsvavsp.testrail.io/index) instance.
+Test cases below wll focus on the main scenarios for testing the flow as well as additional paths/regression for testing. These test cases are housed in [DSVA Testrail](https://dsvavsp.testrail.io/index) instance.
 
 | Test Case ID | Test Case Name | 
 | :---: | :--- |
@@ -108,6 +108,8 @@ Test cases below wll focus on the main scenarios for testing the flow as well as
 | [C157695](https://dsvavsp.testrail.io/index.php?/cases/view/157695) | Verify user cannot request appointments after limit of creating 2 existing ones | 
 | [C157696](https://dsvavsp.testrail.io/index.php?/cases/view/157696) | Verify User see messaging for not having relationships with providers in OH 
 | [C157701](https://dsvavsp.testrail.io/index.php?/cases/view/157701) | Verify What's the reason for this appointment page OH scenarios |
+| [C157697 ](https://dsvavsp.testrail.io/index.php?/cases/view/157697) | OH Page: "Which Va Location would you like to go to" states |
+| [C157708](https://dsvavsp.testrail.io/index.php?/cases/view/157708) | Schedule Vista appt Single facility Regression for New OH Flow Added |
 
 ### Page Behavior based on flow
 
