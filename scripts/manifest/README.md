@@ -1,233 +1,160 @@
-# Product Manifest Tool
+# Collaboration Cycle Team Dropdown Sync
 
-This directory contains Ruby scripts for managing the VA.gov product manifest and validating product documentation.
+This directory contains the script for synchronizing the team dropdown in the Collaboration Cycle request template.
 
-## Scripts
+## Overview
 
-### 1. `generate_product_manifest.rb`
-
-Scans product YAML files across the products directory and generates a consolidated product manifest in the main products README file.
-
-**Features:**
-
-- Scans `products/` directory for `*-details.yml` files
-- Extracts product information from YAML files containing required fields
-- Groups products by category based on directory structure  
-- Updates the `## Current product manifest` section in `products/README.md`
-- Includes comprehensive URL information (Production, Staging, Application code, Measurement dashboards)
-- Filters out placeholder and invalid URLs
-- Provides statistics on total products, active products, and categories
-
-**Usage:**
-
-```bash
-# Basic usage
-ruby generate_product_manifest.rb
-
-# Preview changes without writing files
-ruby generate_product_manifest.rb --dry-run
-
-# Enable detailed output
-ruby generate_product_manifest.rb --verbose
-
-# Combine options
-ruby generate_product_manifest.rb --dry-run --verbose
-```
-
-**Environment Variables:**
-
-- `REPO_ROOT` - Path to repository root (auto-detected if not set)
-- `VERBOSE` - Set to enable detailed logging
-
-### 2. `validate_products.rb`
-
-Validates product YAML files for completeness by checking for required fields and placeholder content.
-
-**Features:**
-
-- Discovers all `*-details.yml` files in the products directory
-- Validates each product YAML against the template requirements
-- Checks for placeholder content and missing required fields
-- Generates detailed validation reports with completion status
-- Identifies specific fields that need attention
-- Supports validation of individual products or all products
-
-**Usage:**
-
-```bash
-# Basic usage - validate all products
-ruby validate_products.rb
-
-# Validate with verbose output
-ruby validate_products.rb --verbose
-
-# Validate a specific product
-ruby validate_products.rb --product "design-system"
-
-# Write report to file
-ruby validate_products.rb --output=validation_report.md
-
-# Combine options
-ruby validate_products.rb --output=product_status.md --verbose
-```
-
-**Environment Variables:**
-
-- `REPO_ROOT` - Path to repository root (auto-detected if not set)
-- `VERBOSE` - Set to enable detailed logging
-
-## File Structure
-
-```text
-scripts/manifest/
-├── generate_product_manifest.rb  # Product manifest generator script
-├── validate_products.rb          # Product YAML validator
-├── lib/
-│   └── markdown_utils.rb         # Markdown manipulation helpers
-└── README.md                     # This file
-```
-
-## Requirements
-
-- Ruby 2.7 or higher
-- Must be run from within the va.gov-team repository
+The `sync-collab-cycle-teams.rb` script reads team data from `team-lookup.json` (sourced from va.gov-team-sensitive) and updates the VFS team name field in `.github/ISSUE_TEMPLATE/collaboration-cycle-request.yml` to be a dropdown with all current teams.
 
 ## How It Works
 
-### Product Manifest Generation Process
+1. **Reads** team-lookup.json containing canonical team data (team IDs, names, portfolios)
+2. **Generates** sorted dropdown options in format: "Team Name (12345)"
+3. **Updates** collaboration-cycle-request.yml template with dropdown options
+4. **Preserves** all other template fields and structure
 
-1. **Discovery**: Scans products directory for `*-details.yml` files
-2. **Parsing**: Extracts product information from YAML files with valid structure
-3. **Categorization**: Groups products by category based on directory structure
-4. **URL Validation**: Filters out placeholder URLs and invalid links
-5. **Statistics**: Calculates total products, active products, and category counts
-6. **Generation**: Creates formatted manifest content with rich metadata
-7. **Update**: Replaces the `## Current product manifest` section in `products/README.md`
+## Usage
 
-### Product Validation Process
+### Manual Execution
 
-1. **Discovery**: Finds all `*-details.yml` files in the products directory
-2. **Schema Validation**: Checks each YAML file against the expected template structure
-3. **Content Analysis**: Scans for placeholder patterns and missing required fields
-4. **Progress Calculation**: Counts completed vs remaining fields for each product
-5. **Report Generation**: Creates comprehensive validation report with actionable feedback
+```bash
+# Basic usage (assumes team-lookup.json in current directory)
+ruby scripts/manifest/sync-collab-cycle-teams.rb
 
-### Data Extraction
-
-From each qualifying YAML file, the script extracts:
-
-- **Product Name** (from `name` field)
-- **Team** (from `team` field)
-- **Status** (active, maintenance, sunset)
-- **URLs** (production, staging, application code)
-- **Measurement URLs** (Datadog, Domo, Google Analytics, Project Board, Research Repository)
-- **GitHub Label** (for issue tracking)
-- **Category** (inferred from directory structure)
-
-### Product Categories
-
-Products are automatically categorized based on their directory structure:
-
-- **Health Care** - `health-care/` directory
-- **Platform & Infrastructure** - `platform/` directory  
-- **Disability Benefits** - `disability/` directory
-- **Education & Careers** - `education-careers/` directory
-- **Identity & Personalization** - `identity-personalization/` directory
-- **And more** - Automatically derived from directory names
-
-### Validation Output Format
-
-The validation report follows this structure:
-
-```markdown
-# Product Documentation Validation Report
-
-## Health Care
-
-### ✅ 10-7959C CHAMPVA Other Health Insurance Certification form
-- **All required fields completed**
-- **Status:** Active
-- **Team:** ivc-forms
-
-### ❌ Example Product Name
-- ❌ **Production URL:** Contains placeholder text
-- ❌ **Team:** Missing required field
-- ✅ All other fields completed
-- ℹ️  **Progress:** 8/10 required fields completed
-
-## Summary
-- **Total Products:** 4
-- **Fully Completed:** 1
-- **Needs Attention:** 3
-- **Completion Rate:** 25%
+# With custom paths
+ruby scripts/manifest/sync-collab-cycle-teams.rb path/to/team-lookup.json \
+  --template path/to/template.yml \
+  --verbose
 ```
 
-### Manifest Output Format
+### Automated Workflow
 
-The generated manifest follows this structure:
+This script runs automatically via GitHub Actions:
 
-```markdown
-## Current product manifest
+1. **Private repo** (va.gov-team-sensitive) pushes team-lookup.json to this repo via PR
+2. **PR is labeled** with "team-data-sync"
+3. **Workflow triggers** (`.github/workflows/update-templates-on-team-data-sync.yml`)
+4. **Script runs** to regenerate template from team-lookup.json
+5. **Template committed** to same PR for atomic review
 
-This manifest lists all VA.gov products that have product details YAML files.
+## Testing
 
-### Statistics
+The script has comprehensive test coverage using RSpec.
 
-- Total Products: 4
-- Active Products: 4
-- Categories: 2
+### Running Tests
 
-### Health Care (2)
+```bash
+cd scripts/manifest
 
-- [Product Name](products/path/to/product-details.yml)
-  - Status: 🟢 Active
-  - Team: team-name
-  - [Production URL](https://...)
-  - [Staging URL](https://staging...)
-  - [Application code](https://github.com/...)
-  - [Project Board](https://github.com/orgs/...)
-  - [GitHub Issues](https://github.com/.../issues?q=...)
+# Install dependencies
+bundle install
 
-### Platform & Infrastructure (2)
+# Run all tests
+bundle exec rspec
 
-- [Another Product](products/platform/product-details.yml)
-  - Status: 🟢 Active
-  - Team: platform-team
-  - [Production URL](https://...)
+# Run with documentation format
+bundle exec rspec --format documentation
 
----
-
-*Last updated: YYYY-MM-DD HH:MM:SS*
+# Run specific test file
+bundle exec rspec spec/sync_collab_cycle_teams_spec.rb
 ```
 
-## Error Handling
+### Test Coverage
 
-The scripts include robust error handling:
+- ✅ Basic functionality (reads JSON, updates template)
+- ✅ Alphabetical sorting of teams
+- ✅ Team ID format in options (e.g., "Team Name (12345)")
+- ✅ Required field validation
+- ✅ Error handling (missing files, invalid JSON, missing fields)
+- ✅ Large dataset handling (100+ teams)
+- ✅ Template preservation (doesn't modify other fields)
 
-- Skip files with invalid YAML syntax
-- Log warnings for products missing required information
-- Gracefully handle malformed product files
-- Validate repository structure before processing
-- Filter out placeholder and invalid URLs
+## Architecture
 
-## URL Validation
+### Two-Step Sync Pattern
 
-The manifest generator includes smart URL filtering:
+```
+va.gov-team-sensitive (private)          va.gov-team (public)
+───────────────────────────             ────────────────────
+Team manifest changes
+       ↓
+sync-team-metadata.yml
+       ↓
+Pushes team-lookup.json ─────────────→  PR with "team-data-sync" label
+                                                ↓
+                                        Workflow triggers
+                                                ↓
+                                        sync-collab-cycle-teams.rb
+                                                ↓
+                                        Updates template
+                                                ↓
+                                        Commits to same PR
+```
 
-- **Placeholder Detection**: Filters out URLs like "https://..." or "https://"
-- **Empty Value Handling**: Skips empty or null URL fields
-- **Valid URL Display**: Only shows legitimate, working URLs as clickable links
+### Security Model
 
-## Contributing
+- **Token stored in private repo only** (write to public, not read from private)
+- **Public repo workflow** uses default GITHUB_TOKEN (no additional secrets)
+- **If public compromised** → cannot access private team data
+- **If private compromised** → only visible changes to public (reversible)
 
-When modifying these scripts:
+### 45GB Repo Handling
 
-1. Follow Ruby best practices
-2. Maintain backward compatibility with existing YAML files
-3. Update tests if available
-4. Update this documentation
-5. Test with both valid and invalid product YAML files
+The workflow uses sparse checkout to avoid cloning the entire 45GB repository:
 
-## Support
+```yaml
+sparse-checkout: |
+  .github/ISSUE_TEMPLATE
+  scripts/manifest
+  team-lookup.json
+sparse-checkout-cone-mode: false
+```
 
-For questions or issues with these scripts, please create an issue in the va.gov-team repository.
+This downloads only ~7MB instead of 45GB.
+
+## Files
+
+- `sync-collab-cycle-teams.rb` - Main script
+- `Gemfile` - RSpec dependency
+- `spec/sync_collab_cycle_teams_spec.rb` - Test suite
+- `spec/spec_helper.rb` - RSpec configuration
+- `.rspec` - RSpec output formatting
+
+## Troubleshooting
+
+### Script fails with "Team lookup file not found"
+
+**Cause:** team-lookup.json not in expected location
+
+**Solution:**
+
+- Ensure team-lookup.json exists
+- Use `--template` flag to specify custom path
+- Check workflow sparse checkout includes team-lookup.json
+
+### Template not updating in PR
+
+**Cause:** Workflow may have failed or label not applied
+
+**Solution:**
+
+1. Check GitHub Actions logs for errors
+2. Verify PR has "team-data-sync" label
+3. Re-run workflow if needed
+
+### Tests failing
+
+**Cause:** Dependencies not installed or script changes
+
+**Solution:**
+
+```bash
+cd scripts/manifest
+bundle install
+bundle exec rspec --format documentation
+```
+
+## Related Documentation
+
+- [VFS Team Automation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/scripts/manifest/VFS_TEAM_AUTOMATION.md) (private repo)
+- [Implementation Plan](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/scripts/manifest/docs/plans/2025-12-15-collab-cycle-team-dropdown-sync.md) (private repo)
