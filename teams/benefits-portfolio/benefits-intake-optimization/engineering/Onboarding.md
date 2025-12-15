@@ -117,37 +117,6 @@ Use `depends` functions to show/hide pages or fields based on form data. Example
 // Example depends function
 depends: (formData) => formData.isSpouseVeteran === true
 ```
-
----
-
-## Staging Review Process
-
-The staging review is a critical milestone where the Platform Governance team evaluates your product against experience standards. Thorough preparation is essential to avoid launch-blocking issues.
-
-### Required Artifacts
-
-Prepare these documents before requesting staging review:
-
-| Artifact | Description |
-|----------|-------------|
-| Test Plan | Manual test scenarios documenting all user flows |
-| Regression Test Plan | Validation that changes don't break existing functionality |
-| Coverage for References | User story to test case traceability matrix |
-| Unit Test Coverage Report | Screenshot showing ≥80% coverage in all categories |
-| Accessibility Testing | axe DevTools scans, keyboard nav, screen reader testing |
-| E2E Test Evidence | Cypress test results showing all tests passing |
-| Release Plan | Rollout strategy, contacts, monitoring, rollback procedures |
-
-### Launch-Blocking Issues to Avoid
-
-> ⚠️ **These will block your launch - address proactively:**
-
-- **Unit test coverage below 80%** in any category (Statements, Branches, Functions, Lines)
-- **Imposter components:** Using non-VADS components that mimic design system
-- **Accessibility violations:** Any axe DevTools errors or WCAG failures
-- **Missing breadcrumbs:** Navigation must match IA requirements
-- **Entry point issues:** Form must be discoverable from parent page
-
 ---
 
 ## QA Standards
