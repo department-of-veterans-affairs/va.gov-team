@@ -117,7 +117,7 @@ synthesis_tools_used:
 - [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
 - [Key Performance Indicators](#user-content-key-performance-indicators)
 - [Next Steps](#user-content-next-steps)
-- [Further research needed](#user-content-further-research-needed)
+- [Further research needed](#user-content-further-research-directions)
 - [Appendix](#user-content-appendix)
 - [Research participants](#user-content-research-participants)
 
