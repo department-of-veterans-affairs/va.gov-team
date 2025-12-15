@@ -41,10 +41,13 @@
 - Tightly integrated with AWS ecosystem. Most documentation pushed towards using AWS RDS (relational database service) or other AWS bassed services when it come to integrating logging and storage services.
 - Simpler architecture overall (serverless by default). While simpler, I have encountered difficulties troubleshooting and debugging serverless issues because there isn't a centralized backend and running serverless locally is challenging vs just running a backend server.
 - Requires Lambda functions for custom slot validation and business logic. Again using serverless lambdas can be challenging to debug.
+- Note: Amazon Lex V2 is the latest version with improved features over V1. The V2 version was released in February 2021. The hope is that it is more mature and stable now, and that there are less breaking changes introduced over time than the MS Bot Framework SDK has had. Most features are tied directly to the overall Amazon Web Services sdks releases, and less on a separate bot framework sdk. [Examples from the SDK](https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/lex-examples.html)
+- [Lex specific SDK docs](https://docs.aws.amazon.com/lexv2/latest/dg/what-is.html)
+- [Frontend example](https://github.com/aws-samples/aws-lex-web-ui) - I couldn't test this out, but it provied instructions on how to set up a simple web chat interface using Lex.
 
 **Azure Bot Service:**
 
-- Bot Framework provides development tools, SDKs, and frameworks. This is a pro and a con because while they have various SDKs, we have been bit by having been tied to the Bot Framework SDK and needing to migrate to the MS 365 Agents SDK. 
+- Bot Framework provides development tools, SDKs, and frameworks. This is a pro and a con because while they have various SDKs, we have been bit by having been tied to the Bot Framework SDK and needing to migrate to the MS 365 Agents SDK.
 - More comprehensive tooling (Bot Framework Composer, Bot Framework SDK).
 - Also pretty tightly integrated to services and MS Azure ecosystem. We are using various blob storage, Cosmos DB, and Azure Search services
 - Overall better SDK support across multiple languages (JavaScript, Python, .NET, Ruby, etc), but see the first point about
@@ -88,6 +91,20 @@
 
 - Support for "30+ languages"
 - They also mention GPT-4o integrations for 100+ languages
+
+## Migration
+
+- Migrating to Amazon Lex would require re-architecting the bot to fit into Lex's conversational model. This includes redesigning intents, slots, and dialog flows. We can't use any of the existing Direct Line code or Bot Framework SDK code.
+- The largest risk is the need to re-implement all custom business logic currently in the bot using AWS Lambda functions. This includes any custom validation, data retrieval, and the core logic. It's starting from scratch in this regard.
+
+## Support
+
+**Amazon Lex:**
+- AWS Support Plans (Basic, Developer, Business, Enterprise)
+- Each level of support has different response times and access to support resources. Enterprise support includes a Technical Account Manager (TAM) and 24/7 access to Cloud Support Engineers.
+
+**Azure Bot Service:**
+- We have already seen the level of support through Microsoft and our support plan.
 
 ## Conclusion
 
