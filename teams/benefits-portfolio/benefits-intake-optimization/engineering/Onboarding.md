@@ -49,7 +49,10 @@ Before starting development, ensure you have:
 2. **GitHub access** to department-of-veterans-affairs repositories
 3. **Staging environment credentials** (test user accounts like vets.gov.user+228@gmail.com)
 4. **Datadog access** for monitoring and debugging
-5. **Slack access** to #benefits-intake-optimization and platform channels
+1. **GitHub access** to department-of-veterans-affairs repositories
+2. **Staging environment credentials** (test user accounts like vets.gov.user+228@gmail.com)
+3. **Datadog access** for monitoring and debugging
+4. **Slack access** to #benefits-intake-optimization and platform channels
 
 ### Key Skills & Knowledge
 
