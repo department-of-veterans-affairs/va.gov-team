@@ -5,8 +5,7 @@ This document is intended to help an MHV team that gets assigned an issue in Git
 
 ## How the ticket gets to your MHV team
 * A veteran or VA staff contacts the Help Desk
-* The Help Desk works to assist with the concern, escalating it up to Tier 1 or 2 as needed.
-* If it's determined to be an issue that requires engineering insight, the ticket gets escalated to MHV Tier 3
+* The Help Desk works to assist with the concern, escalating it upward as needed. If it's determined to be an issue that requires engineering insight, the ticket gets escalated to MHV Tier 3
 * The MHV Tier 3 Support team triages the ticket, evaluating whether it needs MHV team support. If so, it will either be connected to a GH ticket, or added to a GH ticket with similar issues.
 * This ticket will then be added to a team's Tier 3 column on their GH project board
 
