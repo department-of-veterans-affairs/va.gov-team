@@ -347,18 +347,24 @@ Additional research could be conducted to address gaps from the current study, i
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+
+- [Research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/research-findings.md)
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/product-brief.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/conversation-guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/one_va_debt_letter/mobile/transcripts)
+- [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/one_va_debt_letter/mobile/session-notes)
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffair[…]fe8c3e32346aba1ff9371dca9ab84?sender=u456b54784628aa29fbf80697)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- Mural (observer notes, affinity mapping)
+- Spreadsheets (notes during sessions, tagging keywords, pulling quotes)
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Prototype: Rough current experience](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4560-156431&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0)
+- [Prototype: Design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4906-146809&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0)
 
 
 ### Other supporting documents created
@@ -371,13 +377,30 @@ Additional research could be conducted to address gaps from the current study, i
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Primary criteria (must-haves)
+
+- `Had a debt balance from benefit overpayments in the last year`
+- `Received VA medical copay bills in the last year`
+- `Complete session on their smartphone via the Zoom app`
+- `Download the Figma app ahead of time, though not creating an account`
+- `No assistive technology users or accessibility features turned on`
+    - _This is due to prototype limitations; we will be testing with assistive technology at a later date_
+
+Secondary criteria (nice-to-haves)
+
+- `At least 6 ages 55+`
+- `At least 3 under age 35`
+- `At least 6 with cognitive disability`
+- `At least 4 people of color`
+- `At least 3 in a rural area`
+- `At least 3 without a degree`
+- `At least 2 with immigrant origins`
+- `At least 1 woman`
+- `At least 1 from the LGTBQ+ community`
+
 
 #### Demographics 
 
