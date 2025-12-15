@@ -192,7 +192,7 @@ Are there moments that matter?</summary>
 
 `Goal 2: Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.`
 
-**`1.`[Is the flow of prototype A and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
+**`1.`[Is the flow of prototype Blueberry and the VADS eligibility pattern easy for participants - both Veterans and family members?]**
 
 **`2.`[What flow do participants seem to find easier via self-reported ratings and quotes?]**
 
