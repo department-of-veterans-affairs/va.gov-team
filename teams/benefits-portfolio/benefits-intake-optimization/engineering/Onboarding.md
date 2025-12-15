@@ -93,7 +93,7 @@ Each form follows this standard structure under `src/applications/simple-forms/<
 ### Local Setup
 
 1. Clone vets-website and vets-api repositories
-2. Run `yarn install` in vets-website
+2. Run `yarn safe-install` (post shai-hulud) in vets-website
 3. Start local development server with `yarn watch`
 4. Configure mock API or connect to staging backend
 5. Access form at `localhost:3001/<form-url-path>`
