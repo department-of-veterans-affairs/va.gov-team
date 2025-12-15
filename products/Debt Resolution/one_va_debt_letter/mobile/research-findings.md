@@ -111,7 +111,7 @@ synthesis_tools_used:
 
 **Contacts:** Emily DeWan (UX Researcher), Natasha Huckleberry (UX Designer)
 
-**[Research Readout (PDF)](link-here)**  
+**🚧 🚧 🚧[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
 
 **Jump to:**
@@ -371,12 +371,12 @@ Additional research could be conducted to address gaps from the current study, i
 - [Prototype: Design explorations](https://www.figma.com/proto/yJDDdSrZkBRl7Obk0gUbxi/MFS---One-VA-Debt-Letter?page-id=2001%3A429&node-id=4906-146809&viewport=41%2C413%2C0.13&t=Bk69rL6mPXUkAaFP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4560%3A156431&show-proto-sidebar=1&hotspot-hints=0)
 
 
-### Other supporting documents created
+### 🚧 🚧 🚧Other supporting documents created
 
 *Include links to additional materials, e.g., personas, user flows.*  
 
 
-### Secondary research
+### 🚧 🚧 🚧Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
