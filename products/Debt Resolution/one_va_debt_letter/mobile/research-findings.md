@@ -493,6 +493,7 @@ This research does not include the perspectives of the following marginalized Ve
 - Native Hawaiian or other Pacific Islander
 - First Nations (Canada)
 - Native, American Indian or Alaska Native
+
 Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers:
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/supporting-files/VA_recruitment_checker.png)
