@@ -581,25 +581,56 @@ sequenceDiagram
 
 **Order History View Flow:**
 
+The following diagram shows the data flow when a veteran views their Order History, including the optional completed flag optimization:
+
 ```mermaid
 sequenceDiagram
     participant Veteran
     participant Frontend
     participant vets-api
+    participant Redis
     participant Database
     participant UHD API
 
-    Veteran->>Frontend: Opens Order History
-    Frontend->>vets-api: GET /prescriptions/orders
-    vets-api->>Database: Fetch orders for user
-    vets-api->>Database: Fetch order items (prescription IDs)
-    vets-api->>UHD API: Fetch current prescription details
-    UHD API-->>vets-api: Return prescription data (name, status, tracking)
+    Veteran->>Frontend: Opens Order History page
+    Frontend->>vets-api: GET /prescriptions/orders?page=1
+
+    vets-api->>Redis: Check cache for orders
+    alt Cache hit
+        Redis-->>vets-api: Return cached orders
+    else Cache miss
+        vets-api->>Database: Fetch orders for user
+        Database-->>vets-api: Return orders + items
+        vets-api->>Redis: Cache orders
+    end
+
+    vets-api->>vets-api: Separate orders by completed flag
+
+    alt Has incomplete orders
+        vets-api->>UHD API: GET /medications (all prescriptions)
+        UHD API-->>vets-api: Return prescription data
+        vets-api->>vets-api: Match prescriptions to order items by ID + refill_number
+        vets-api->>vets-api: Check if all items in order are now complete
+        alt All items complete
+            vets-api->>Database: UPDATE order SET completed = true
+            vets-api->>Redis: Invalidate cached orders
+        end
+    end
+
     vets-api->>vets-api: Merge order metadata + prescription details
-    vets-api->>vets-api: Compute order status from prescription statuses
+    vets-api->>vets-api: Compute overall order status
+
     vets-api-->>Frontend: Return orders with prescription info
     Frontend-->>Veteran: Display Order History
 ```
+
+**Key Points:**
+- Completed orders skip the UHD API call entirely, reducing latency
+- Incomplete orders always fetch real-time data from UHD API
+- The `completed` flag is updated opportunistically when viewing orders
+- Cache is invalidated when an order is marked as complete
+- Order metadata (order number, submitted date) is always available from the database
+- If UHD API is unavailable, incomplete orders show "status unavailable"
 
 #### Database Schema
 
@@ -794,56 +825,3 @@ The order tracking tables store minimal data to avoid PII/PHI:
 #### Redis (Cache) Storage
 
 We would store the same data as in the database, so the analysis is the same as above.
-
-### Order History Data Flow
-
-The following diagram shows the data flow when a veteran views their Order History, including the optional completed flag optimization:
-
-```mermaid
-sequenceDiagram
-    participant Veteran
-    participant Frontend
-    participant vets-api
-    participant Redis
-    participant Database
-    participant UHD API
-
-    Veteran->>Frontend: Opens Order History page
-    Frontend->>vets-api: GET /prescriptions/orders?page=1
-
-    vets-api->>Redis: Check cache for orders
-    alt Cache hit
-        Redis-->>vets-api: Return cached orders
-    else Cache miss
-        vets-api->>Database: Fetch orders for user
-        Database-->>vets-api: Return orders + items
-        vets-api->>Redis: Cache orders
-    end
-
-    vets-api->>vets-api: Separate orders by completed flag
-
-    alt Has incomplete orders
-        vets-api->>UHD API: GET /medications (all prescriptions)
-        UHD API-->>vets-api: Return prescription data
-        vets-api->>vets-api: Match prescriptions to order items by ID + refill_number
-        vets-api->>vets-api: Check if all items in order are now complete
-        alt All items complete
-            vets-api->>Database: UPDATE order SET completed = true
-            vets-api->>Redis: Invalidate cached orders
-        end
-    end
-
-    vets-api->>vets-api: Merge order metadata + prescription details
-    vets-api->>vets-api: Compute overall order status
-
-    vets-api-->>Frontend: Return orders with prescription info
-    Frontend-->>Veteran: Display Order History
-```
-
-**Key Points:**
-- Completed orders skip the UHD API call entirely, reducing latency
-- Incomplete orders always fetch real-time data from UHD API
-- The `completed` flag is updated opportunistically when viewing orders
-- Cache is invalidated when an order is marked as complete
-- Order metadata (order number, submitted date) is always available from the database
-- If UHD API is unavailable, incomplete orders show "status unavailable"
