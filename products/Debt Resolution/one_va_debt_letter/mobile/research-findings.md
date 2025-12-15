@@ -297,7 +297,7 @@ Some participants reported challenges when working with community care.
 
     > _"It's still just a pain in the butt that comes with the hurry-up-and-wait to even get a community care appointment. Sometimes the mileage claims are difficult, especially when it's a community care appointment, because you can't use the regular VA website. … It has to go through manual review status, which can take weeks to months to get approved or denied. I have had claims denied even though they were community care appointments." -P07_
 
-    > _"Community care kind of gets lost. So it's even though it's still the VA I have to go elsewhere to do that and it's very clunky. I eventually I get this referral number, which gives me the authorization to seek the care. But there is no link between the community care system and the VA system, even though they're both called VA systems. I have to go to different websites – different passwords, different websites." -P08_
+    > _"Community care kind of gets lost. So even though it's still the VA I have to go elsewhere to do that and it's very clunky. I eventually I get this referral number, which gives me the authorization to seek the care. But there is no link between the community care system and the VA system, even though they're both called VA systems. I have to go to different websites – different passwords, different websites." -P08_
 
 
 ## Recommendations
