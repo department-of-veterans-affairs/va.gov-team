@@ -24,7 +24,7 @@ jobs:
           # CRITICAL: Sparse checkout to avoid 45GB clone
           sparse-checkout: |
             .github/ISSUE_TEMPLATE
-            .github/scripts
+            scripts/manifest
             team-lookup.json
           sparse-checkout-cone-mode: false
 
@@ -45,7 +45,7 @@ jobs:
       - name: Update collaboration cycle template
         run: |
           echo "🔄 Updating collaboration cycle team dropdown"
-          ruby .github/scripts/sync-collab-cycle-teams.rb team-lookup.json --verbose
+          ruby scripts/manifest/sync-collab-cycle-teams.rb team-lookup.json --verbose
 
       - name: Check for changes
         id: check_changes
