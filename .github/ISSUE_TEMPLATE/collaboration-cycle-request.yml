@@ -38,7 +38,6 @@ body:
   attributes:
     label: VFS team name
     description: Select your team from the list (sorted alphabetically)
-    placeholder:
     options:
     - 1010 Health Apps (33001)
     - ADE (23001)
