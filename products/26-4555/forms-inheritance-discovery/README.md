@@ -5,32 +5,7 @@
 
 ### Design & Tech Findings (VA Form 26-4555)
 
-
-
 Detailed technical analysis of VA Form 26-4555 codebase.
-
-## Issue Summary
-
-| Category | Critical | High | Medium | Low |
-|----------|----------|------|--------|-----|
-| Code Quality & Legacy Patterns | 1 | 2 | 1 | 0 |
-| Form System Compliance | 0 | 1 | 1 | 0 |
-| Accessibility | 0 | 0 | 3 | 1 |
-| Testing Coverage | 0 | 3 | 2 | 0 |
-| Code Organization | 0 | 0 | 1 | 0 |
-| Platform Integration | 1 | 2 | 1 | 0 |
-| Content Compliance | 3 | 0 | 1 | 0 |
-| Imposter Components | 0 | 0 | 0 | 0 |
-| **Total** | **5** | **8** | **11** | **1** |
-
-### Tshirt size estimation
-_Teams often start with T‑shirt sizes during early planning, then refine into story points later._
-* 👕 Small = Design
-* 👕 Medium = Content
-* 👕 Small = Monitoring
-* 👕 Extra Large = Engineering
-
-
 
 ## Imposter Components Audit: PASSED
 
@@ -339,15 +314,42 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 
 **No page definitions depend on simple-forms shared code.**
 
+## Issue Summary
 
+| Category | Critical | High | Medium | Low |
+|----------|----------|------|--------|-----|
+| Code Quality & Legacy Patterns | 1 | 2 | 1 | 0 |
+| Form System Compliance | 0 | 1 | 1 | 0 |
+| Accessibility | 0 | 0 | 3 | 1 |
+| Testing Coverage | 0 | 3 | 2 | 0 |
+| Code Organization | 0 | 0 | 1 | 0 |
+| Platform Integration | 1 | 2 | 1 | 0 |
+| Content Compliance | 3 | 0 | 1 | 0 |
+| Imposter Components | 0 | 0 | 0 | 0 |
+| **Total** | **5** | **8** | **11** | **1** |
 
-### Aditional notes:
+### Tshirt size estimation
+_Teams often start with T‑shirt sizes during early planning, then refine into story points later._
+* 👕 Small = Design
+* 👕 Medium = Content
+* 👕 Small = Monitoring
+* 👕 Extra Large = Engineering
 
-Design flow and Figma components largely comply with expected VADS component standards.
+### Aditional design notes:
+
+Figma components largely comply with expected VADS component standards, to-do items from forms team:
+
+- Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
+- Confirm with CAIA that “application” is the right use on this form
+- Check prefill notice in the form. Doesn’t match figma.
+- Check autosave notice under stepper. Staging says “in-progress  ID number”, Figma says “application ID number”
+- Save in progress notice on staging calls it an application ID number, but it uses the same “in-progress ID” from the top of the page.
 
 
 ## Next
 
 - Write tickets for epic
-- Endpoint API Spike
-- Mini project plan
+- Architectural decision record (ADR) decouple APIs from simple-forms engine
+- Identify research opportunities
+- Review user stories and writing KPI's
+- Plan roadmap
