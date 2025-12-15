@@ -139,6 +139,17 @@ RSpec.describe CollabCycleTeamSync do
       expect(team_field['attributes']['description']).to eq('Select your team from the list (sorted alphabetically)')
     end
 
+    it 'removes placeholder attribute (not valid for dropdowns)' do
+      sync = described_class.new(team_lookup_file.path, template_file.path, verbose: false)
+
+      sync.run
+
+      updated_template = YAML.load_file(template_file.path)
+      team_field = updated_template['body'].find { |field| field['id'] == 'product-team' }
+
+      expect(team_field['attributes']).not_to have_key('placeholder')
+    end
+
     it 'does not modify other fields in the template' do
       sync = described_class.new(team_lookup_file.path, template_file.path, verbose: false)
 

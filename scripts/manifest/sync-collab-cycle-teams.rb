@@ -69,6 +69,8 @@ class CollabCycleTeamSync
     team_field['type'] = 'dropdown'
     team_field['attributes']['label'] = 'VFS team name'
     team_field['attributes']['description'] = 'Select your team from the list (sorted alphabetically)'
+    # Remove input-specific attributes that aren't valid for dropdowns
+    team_field['attributes'].delete('placeholder')
     team_field['attributes']['options'] = dropdown_options
     team_field['validations'] ||= {}
     team_field['validations']['required'] = true
