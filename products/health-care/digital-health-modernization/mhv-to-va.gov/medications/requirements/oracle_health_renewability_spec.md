@@ -23,46 +23,37 @@ A medication is **renewable** only if **ALL** of the following conditions are me
 
 ### Gate 2: Medication Classification
 
-**Condition:** Must be classified as a **VA Prescription** (NOT a Clinic/Documented/Non-VA medication)
+**Condition:** Must be classified as an **Outpatient Medication** or **Clinical Medication** (NOT Documented/Historical, Inpatient, or Pharmacy Charges)
 
-Medication classification is determined by the combination of `reportedBoolean`, `intent`, and `category` values:
+Medication classification is determined by the `MedicationRequest.category` array. See [Oracle Health Medications - Categorization and Filtering Specification](oracle_health_categorization_spec.md) for complete categorization rules.
 
-#### Classification Rules
+#### Classification for Renewability
 
-| reportedBoolean | intent | categories | Classification | Renewable? |
-|-----------------|--------|------------|----------------|------------|
-| `true` | `plan` | `community` AND `patient-specified` | **Documented/Non-VA Medication** | **NOT RENEWABLE** |
-| `false` | `order` | `outpatient` | **Clinic Administered Medication** | **NOT RENEWABLE** |
-| `false` | `order` | `community` AND `discharge` | **VA Prescription** | Continue to next gate |
-| Any other combination | | | **Unclassified** | **NOT RENEWABLE** |
+| Display Category | Renewable? |
+|------------------|------------|
+| **Outpatient Medication** (`community` + `discharge`) | Continue to next gate |
+| **Clinical Medication** (`outpatient`) | Continue to next gate |
+| **Documented/Historical** (`community` + `patientspecified`) | **NOT RENEWABLE** |
+| **Pharmacy Charges** (`charge-only`) | **NOT RENEWABLE** |
+| **Inpatient Medication** (`inpatient`) | **NOT RENEWABLE** |
+| **Uncategorized** | **NOT RENEWABLE** |
 
-#### Detailed Classification Logic
+#### Additional Classification Criteria
 
-**Documented/Non-VA Medication** (NOT RENEWABLE):
-- `MedicationRequest.reportedBoolean == true`
-- `MedicationRequest.intent == 'plan'`
-- `MedicationRequest.category` includes BOTH `community` AND `patient-specified`
-
-**Clinic Administered Medication** (NOT RENEWABLE):
+Beyond category, the following `MedicationRequest` fields must also match for **Outpatient Medication**:
 - `MedicationRequest.reportedBoolean == false`
 - `MedicationRequest.intent == 'order'`
-- `MedicationRequest.category` is exactly `outpatient`
 
-**VA Prescription** (May be renewable):
-- `MedicationRequest.reportedBoolean == false`
-- `MedicationRequest.intent == 'order'`
-- `MedicationRequest.category` includes BOTH `community` AND `discharge`
-
-*Rationale: Medications documented from outside VA or non-VA sources (Documented/Non-VA) are not managed through VA renewal process. Only VA Outpatient Prescriptions are eligible for renewal consideration.*
+*Rationale: Outpatient Medications (prescriptions dispensed for home use) and Clinical Medications (administered in outpatient clinical settings) are eligible for renewal. Documented/Historical medications are patient-reported and not managed through VA renewal. Inpatient medications are administered during hospital stays and not self-managed.*
 
 ---
 
 ### Gate 3: Dispense History
 
-**Condition:** Must have at least one MedicationDispense associated with the request
+**Condition:** Must have at least one `MedicationDispense` resource associated with the `MedicationRequest`
 
-| Dispense Count | Renewable? |
-|----------------|------------|
+| MedicationDispense Count | Renewable? |
+|--------------------------|------------|
 | `> 0` | Continue to next gate |
 | `0` | **NOT RENEWABLE** |
 
@@ -72,10 +63,10 @@ Medication classification is determined by the combination of `reportedBoolean`,
 
 ### Gate 4: Validity Period Exists
 
-**Condition:** Must have a validity period end date
+**Condition:** `MedicationRequest.dispenseRequest.validityPeriod.end` must exist
 
-| Validity Period End Date | Renewable? |
-|--------------------------|------------|
+| `MedicationRequest.dispenseRequest.validityPeriod.end` | Renewable? |
+|--------------------------------------------------------|------------|
 | Exists | Continue to next gate |
 | Not available | **NOT RENEWABLE** |
 
@@ -85,14 +76,14 @@ Medication classification is determined by the combination of `reportedBoolean`,
 
 ### Gate 5: Validity Period Window
 
-**Condition:** Must NOT be more than 120 days past the validity period end date
+**Condition:** Must NOT be more than 120 days past `MedicationRequest.dispenseRequest.validityPeriod.end`
 
 A prescription is within the renewal window if:
 - The validity period has not yet ended (prescription is not expired), OR
 - The validity period ended within the last 120 days
 
-| Time Relative to Validity End | Renewable? |
-|-------------------------------|------------|
+| Time Relative to `MedicationRequest.dispenseRequest.validityPeriod.end` | Renewable? |
+|-------------------------------------------------------------------------|------------|
 | Before validity end (not yet expired) | Continue to next gate |
 | 0-120 days after validity end | Continue to next gate |
 | More than 120 days after validity end | **NOT RENEWABLE** |
@@ -103,7 +94,10 @@ A prescription is within the renewal window if:
 
 ### Gate 6: Refills Remaining
 
-**Condition:** Must have zero refills remaining OR prescription is expired (validity period has ended)
+**Condition:** Refills remaining must be zero OR prescription is expired (validity period has ended)
+
+Refills remaining is calculated as:
+`MedicationRequest.dispenseRequest.numberOfRepeatsAllowed` minus the count of associated `MedicationDispense` resources (excluding the original fill)
 
 | Scenario | Renewable? |
 |----------|------------|
@@ -121,15 +115,15 @@ A prescription is within the renewal window if:
 
 The medication is **NOT RENEWABLE** if ANY of the following are true:
 - A refill has been requested via web or mobile
-- Any dispense has status `in-progress`
-- Any dispense has status `preparation`
+- Any `MedicationDispense.status` == `in-progress`
+- Any `MedicationDispense.status` == `preparation`
 
 | Processing State | Renewable? |
 |------------------|------------|
 | No active processing | **RENEWABLE ✓** |
 | Refill requested via web/mobile | **NOT RENEWABLE** |
-| Any dispense `in-progress` | **NOT RENEWABLE** |
-| Any dispense in `preparation` | **NOT RENEWABLE** |
+| Any `MedicationDispense.status` == `in-progress` | **NOT RENEWABLE** |
+| Any `MedicationDispense.status` == `preparation` | **NOT RENEWABLE** |
 
 *Rationale: Cannot request renewal while a previous request is still being processed.*
 
@@ -146,11 +140,11 @@ flowchart TD
     Gate1 -->|Yes| Gate2
 
     Gate2{Gate 2:<br/>Medication Classification?}
-    Gate2 -->|Documented/Non-VA| NotRenewable2[NOT RENEWABLE]
-    Gate2 -->|Unclassified| NotRenewable2
-    Gate2 -->|VA Prescription| Gate3
+    Gate2 -->|Documented/Historical| NotRenewable2[NOT RENEWABLE]
+    Gate2 -->|Inpatient/Pharmacy Charges/Other| NotRenewable2
+    Gate2 -->|Outpatient or Clinical Medication| Gate3
 
-    Gate3{Gate 3:<br/>Dispense count > 0?}
+    Gate3{Gate 3:<br/>MedicationDispense count > 0?}
     Gate3 -->|No| NotRenewable3[NOT RENEWABLE]
     Gate3 -->|Yes| Gate4
 
@@ -187,11 +181,11 @@ flowchart TD
 | Gate | Condition (must be TRUE to pass) | Fail Result |
 |------|----------------------------------|-------------|
 | 1 | `MedicationRequest.status == 'active'` | NOT RENEWABLE |
-| 2 | Medication is classified as **VA Prescription** (see classification rules) | NOT RENEWABLE |
-| 3 | Dispense count > 0 | NOT RENEWABLE |
-| 4 | Validity period end date exists | NOT RENEWABLE |
-| 5 | Prescription is not expired, OR expired ≤ 120 days ago | NOT RENEWABLE |
-| 6 | Prescription is expired, OR refills remaining == 0 | NOT RENEWABLE |
-| 7 | No active processing (no web/mobile refill requested, no dispense `in-progress` or `preparation`) | NOT RENEWABLE |
+| 2 | Medication is classified as **Outpatient Medication** or **Clinical Medication** (see [categorization spec](oracle_health_categorization_spec.md)) | NOT RENEWABLE |
+| 3 | `MedicationDispense` count > 0 | NOT RENEWABLE |
+| 4 | `MedicationRequest.dispenseRequest.validityPeriod.end` exists | NOT RENEWABLE |
+| 5 | Current date ≤ `MedicationRequest.dispenseRequest.validityPeriod.end` + 120 days | NOT RENEWABLE |
+| 6 | Current date > `MedicationRequest.dispenseRequest.validityPeriod.end`, OR refills remaining == 0 | NOT RENEWABLE |
+| 7 | No active processing (no web/mobile refill requested, no `MedicationDispense.status` == `in-progress` or `preparation`) | NOT RENEWABLE |
 
 **If all gates pass → RENEWABLE ✓**
