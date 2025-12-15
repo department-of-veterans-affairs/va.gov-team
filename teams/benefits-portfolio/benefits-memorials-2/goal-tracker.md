@@ -114,7 +114,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 |BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|Completed|
 |FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|Completed|
-|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|--|
+|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|Not Completed|
 |UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|--|
 |UX: Establish November monthy Meadallia report.| QP7 |--|--|--|
 |UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|--|
