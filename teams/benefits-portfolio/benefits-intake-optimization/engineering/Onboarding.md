@@ -15,7 +15,6 @@
 6. [QA Standards](#qa-standards)
 7. [Accessibility Testing](#accessibility-testing)
 8. [Team Contacts & Resources](#team-contacts--resources)
-9. [Quick Reference Checklist](#quick-reference-checklist)
 
 ---
 
@@ -50,7 +49,10 @@ Before starting development, ensure you have:
 2. **GitHub access** to department-of-veterans-affairs repositories
 3. **Staging environment credentials** (test user accounts like vets.gov.user+228@gmail.com)
 4. **Datadog access** for monitoring and debugging
-5. **Slack access** to #benefits-intake-optimization and platform channels
+1. **GitHub access** to department-of-veterans-affairs repositories
+2. **Staging environment credentials** (test user accounts like vets.gov.user+228@gmail.com)
+3. **Datadog access** for monitoring and debugging
+4. **Slack access** to #benefits-intake-optimization and platform channels
 
 ### Key Skills & Knowledge
 
@@ -68,7 +70,7 @@ Before starting development, ensure you have:
 
 - **Frontend:** `vets-website/src/applications/simple-forms/<formId>/`
 - **Backend:** `vets-api/modules/simple_forms_api/`
-- **Documentation:** `va.gov-team/teams/benefits-portfolio/benefits-intake-optimization/`
+- **Documentation: ** `https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/benefits-intake-optimization`
 
 ### Frontend Directory Structure
 
@@ -91,7 +93,7 @@ Each form follows this standard structure under `src/applications/simple-forms/<
 ### Local Setup
 
 1. Clone vets-website and vets-api repositories
-2. Run `yarn install` in vets-website
+2. Run `yarn safe-install` (post shai-hulud) in vets-website
 3. Start local development server with `yarn watch`
 4. Configure mock API or connect to staging backend
 5. Access form at `localhost:3001/<form-url-path>`
@@ -115,37 +117,6 @@ Use `depends` functions to show/hide pages or fields based on form data. Example
 // Example depends function
 depends: (formData) => formData.isSpouseVeteran === true
 ```
-
----
-
-## Staging Review Process
-
-The staging review is a critical milestone where the Platform Governance team evaluates your product against experience standards. Thorough preparation is essential to avoid launch-blocking issues.
-
-### Required Artifacts
-
-Prepare these documents before requesting staging review:
-
-| Artifact | Description |
-|----------|-------------|
-| Test Plan | Manual test scenarios documenting all user flows |
-| Regression Test Plan | Validation that changes don't break existing functionality |
-| Coverage for References | User story to test case traceability matrix |
-| Unit Test Coverage Report | Screenshot showing ≥80% coverage in all categories |
-| Accessibility Testing | axe DevTools scans, keyboard nav, screen reader testing |
-| E2E Test Evidence | Cypress test results showing all tests passing |
-| Release Plan | Rollout strategy, contacts, monitoring, rollback procedures |
-
-### Launch-Blocking Issues to Avoid
-
-> ⚠️ **These will block your launch - address proactively:**
-
-- **Unit test coverage below 80%** in any category (Statements, Branches, Functions, Lines)
-- **Imposter components:** Using non-VADS components that mimic design system
-- **Accessibility violations:** Any axe DevTools errors or WCAG failures
-- **Missing breadcrumbs:** Navigation must match IA requirements
-- **Entry point issues:** Form must be discoverable from parent page
-
 ---
 
 ## QA Standards
@@ -211,15 +182,44 @@ VA.gov must meet WCAG 2.1 Level AA standards. Accessibility issues are launch-bl
 
 ## Team Contacts & Resources
 
-### BIOHEART Team
+### About the Project
 
-| Role | Name | Contact |
-|------|------|---------|
-| DSVA Product Lead | Dennis Peterson | dennis.peterson3@va.gov |
-| Product Manager | Michael Collier | michael.collier@agile6.com |
-| Product Manager | Berni Xiong | berni.xiong@agile6.com |
-| Engineering | Aaron Ponce | aaron.ponce@agile6.com |
-| Engineering | Michael Clement | michael.clement@adhocteam.us |
+**Official VFS Team Name:** Benefits Intake Optimization - Agile Six
+
+**Mission:** To advance VA's goal to digitize 11 forms by 11/11/2025 by streamlining benefits intake through the digital transformation of Forms 601 and 537, improving efficiency and the Veteran experience.
+
+**Products:**
+- Form 21P-0537 (Marital Status Questionnaire)
+- Form 21P-601 (Application for Accrued Amounts Due a Deceased Beneficiary)
+
+### BIO-HEART Team Roster
+
+*Benefits Intake Optimization - Helping Ensure Accrued & Relationship Transitions*
+
+| Role | Name | GitHub |
+|------|------|--------|
+| Program Manager | Berni Bernardini Xiong | @bernixionga6 |
+| Product Manager | Mike Collier | @MikeC-A6 |
+| Frontend Engineer | Aaron Ponce | @amponce |
+| Full Stack Engineer | Michael Clement | @michaelclement |
+| Backend Engineer | Nader (Nate) Kutub | @nkutub |
+| UX Designer | Melissa Schaff | @melissajschaff |
+| UX Researcher | Andrea Chappelear | @a-chappelear |
+
+### VA Stakeholders and Partners
+
+| Role | Name | Organization | Contact |
+|------|------|--------------|---------|
+| VA Project Lead | Dennis Peterson | Office of Information Technology (OIT) | dennis.peterson3@va.gov |
+| OCTO Rep | Matt Dingee | Office of CTO (OCTO) | matthew.dingee@va.gov |
+| Contracting Officer's Rep (COR) | Jacqueline E. Meadows-Stokes | Office of Information and Technology (OIT) | jacqueline.meadows-stokes@va.gov |
+| Contracting Officer (CO) | Troy Loveland | Office of Acquisition, Logistics, and Construction (OALC) | troy.loveland@va.gov |
+| Contract Specialist (CS) | John Adamitis | Office of Acquisition, Logistics, and Construction (OALC) | john.adamitis1@va.gov |
+
+### Product Information
+
+- **21P-0537 Product Outline:** [GitHub - 21P-537 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/simple-forms/21P-537/21P-537_product_outline.md)
+- **21P-601 Product Outline:** [GitHub - 21P-601 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/simple-forms/21P-601/21P-601_product_outline.md)
 
 ### Key Resources
 
@@ -235,49 +235,6 @@ VA.gov must meet WCAG 2.1 Level AA standards. Accessibility issues are launch-bl
 - **#vfs-platform-support** - Platform questions
 - **#accessibility** - Accessibility guidance
 - **#design-system** - VADS component questions
-
----
-
-## Quick Reference Checklist
-
-Use this checklist to ensure you're ready for staging review:
-
-### Pre-Development
-
-- [ ] SOCKS proxy access configured
-- [ ] GitHub access to VA repositories
-- [ ] Staging user credentials obtained
-
-### Development
-
-- [ ] Form config follows SimpleForms pattern
-- [ ] All VADS components used (no imposters)
-- [ ] Conditional logic tested
-- [ ] Save in Progress working
-
-### Testing
-
-- [ ] Unit test coverage ≥80% (all categories)
-- [ ] E2E tests passing
-- [ ] axe DevTools: 0 violations on all pages
-- [ ] Keyboard navigation verified
-- [ ] Screen reader testing complete
-
-### Documentation
-
-- [ ] Test plan written
-- [ ] Regression test plan complete
-- [ ] Traceability matrix created
-- [ ] Accessibility test results documented
-- [ ] Release plan complete
-
-### Staging Review
-
-- [ ] Form deployed to staging
-- [ ] Entry point configured
-- [ ] Breadcrumbs correct
-- [ ] Collaboration Cycle ticket submitted
-- [ ] Platform governance team notified
 
 ---
 
