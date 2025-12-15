@@ -1,4 +1,12 @@
-# Incident Response Plan
+# Monitoring And Incident Response Playbook
+
+## What We're Monitoring
+Monitoring is in place for multiple features across Travel Pay. There are no standard threshholds set for every feature. We continue to update and tweek levels in order to reduce noise and highlight key indicaors of an budding issue. As strategic deliverables are released the team will release new Datadog dashboards or add to existing ones to cover the updated functions. 
+
+[Simple Mileage Only Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/performance-monitoring.md)
+Claims Status / Additional Claims Details (TBD Dec, 2025)
+Complex Claims  (TBD Jan, 2026)
+
 ## 🚨 First Reaction
 Do these 3 steps first, _before any investigation of root cause is done_.
 
