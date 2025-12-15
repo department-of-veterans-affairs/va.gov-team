@@ -471,12 +471,35 @@ _List all groups in red from the spreadsheet_
 * Group 2
 * Group 3
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers:
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/supporting-files/VA_recruitment_checker.png)
 
 #### A more accessible version of the table in the above image
 
-### Recruitment of underserved groups in [Study name]
+### Recruitment of underserved groups in One VA Debt Letter
 
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
+| Category                                                                                                                                   | Target Group | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------|----------|------------|------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|
+| All participants                                                                                                                           | Total        | n/a      | n/a      | 12         | n/a              | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a  | n/a  | n/a  |
+| Assistive Tech (AT) users                                                                                                                  | Total        | n/a      | n/a      | 0          | n/a              | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a | n/a  | n/a  | n/a  |
+| No-show participants                                                                                                                       | Total        | n/a      | n/a      | 2          | n/a              | n/a | n/a | 1   | n/a | n/a | n/a | n/a | n/a | n/a | n/a  | n/a  | 1    |
+| Age 55-64+                                                                                                                                 | General      | 50%      | 6        | 3          | no               | 0   | 0   | 0   | 0   | 1   | 0   | 0   | 1   | 0   | 1    | 0    | 0    |
+| Cognitive Disability                                                                                                                       | General      | 50%      | 6        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Mobile user                                                                                                                                | General      | 50%      | 6        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Rural                                                                                                                                      | General      | 25%      | 3        | 3          | yes              | 1   | 0   | 0   | 0   | 1   | 0   | 0   | 0   | 1   | 0    | 0    | 0    |
+| No degree                                                                                                                                  | General      | 25%      | 3        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Other than honorable                                                                                                                       | General      | 21%      | 3        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Immigrant origin                                                                                                                           | General      | 17%      | 3        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Women                                                                                                                                      | General      | 10%      | 2        | 2          | yes              | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 1   | 1    | 0    | 0    |
+| Expat (living abroad)                                                                                                                      | General      | .4%      | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Black or African American                                                                                                                  | Race         | 15%      | 2        | 4          | yes              | 1   | 0   | 1   | 0   | 0   | 1   | 0   | 0   | 1   | 0    | 0    | 0    |
+| Hispanic, Latino, or Spanish origin                                                                                                        | Race         | 12%      | 2        | 1          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 1   | 0   | 0    | 0    | 0    |
+| Biracial                                                                                                                                   | Race         | 3.9%     | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Asian                                                                                                                                      | Race         | 2.7%     | 1        | 1          | yes              | 0   | 0   | 0   | 0   | 0   | 0   | 1   | 0   | 0   | 0    | 0    | 0    |
+| Native Hawaiian or other Pacific Islander                                                                                                  | Race         | .3%      | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| First Nations (Canada)                                                                                                                     | Race         | n/a      | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Native, American Indian or Alaska Native                                                                                                   | Race         | 1.6%     | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Gay, lesbian, or bisexual                                                                                                                  | LGBTQ+       | n/a      | 1        | 2          | yes              | 0   | 0   | 0   | 0   | 0   | 1   | 0   | 0   | 1   | 0    | 0    | 0    |
+| Transgender                                                                                                                                | LGBTQ+       | n/a      | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman                                 | LGBTQ+       | n/a      | 1        | 0          | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0    | 0    |
