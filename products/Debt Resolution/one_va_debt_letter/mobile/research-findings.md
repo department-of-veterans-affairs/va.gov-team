@@ -1,101 +1,111 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "One VA Debt Letter in mobile app Research Findings"
+product: "Mobile app One VA Debt Letter"
+team: "Mobile App Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-12-16"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Emily DeWan"
+  - "Natasha Huckleberry"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Assess Veteran interest, value, and trust in a combined VA debt statement on mobile."
+  - "Identify Veteran needs, expectations, and preferences for interacting with a combined statement in the app."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated remote sessions"
+  - "Semi-structured interviews"
+  - "Concept testing with prototypes"
 devices_used:
-    desktop: X
-    tablet: X
-    smartphone: X
-    assistive_technology: X
-participants_total: X
+    desktop: 0
+    tablet: 0
+    smartphone: 10
+    assistive_technology: 0
+participants_total: 10
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
+  veterans: 10
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 1
+    "35-44": 2
+    "45-54": 4
+    "55-64": 2
+    "65+": 1
+    unknown: 0
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 3
+    some_college: 2
+    associates: 1
+    bachelors: 3
+    masters: 1
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 7
+    rural: 3
+    unknown: 0
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 4
+    black: 4
+    hispanic: 1
+    biracial: 0
+    asian: 1
+    native: 0
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - "Participants manage VA debts alongside other bills, focusing on due dates rather than viewing VA debt as a distinct category."
+  - "Format preferences outweigh grouping; participants are more concerned with how information is presented than whether statements are individual or combined."
+  - "Most participants desire consistent features across all statements, regardless of grouping."
+  - "Most combined statement needs can be met with individual ones, as overpayments and copayments must be managed separately."
+  - "Trust is tied to details and transparency, not format."
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Hold off on building a centralized combined debt view on mobile until strong user need is established in future research."
+  - "Hold off on adding a combined debt PDF to the mobile experience until future research identifies a strong user need for this feature."
+  - "Conduct user research on the existing combined statement on the website (both the HTML and PDF versions) to assess whether Veterans find it valuable in ways that differ from individual statements."
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Since we are not recommending development of the combined statement feature, we do not propose any new KPIs at this time."
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "This research supports our desired user outcome by confirming limited need for a combined statement in the mobile app, allowing us to prioritize clear, transparent individual statements and features Veterans truly want."
+  business: "This research supports our desired business outcome by guiding us to focus developer resources on features that match Veteran needs and reducing risk from developing under-used features."
 opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "More research on unique value of the combined statement compared to individual statements."
+  - "Better screening to recruit current VA mobile app users."
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "Refining screener questions to better identify Veterans with recent benefit overpayment debt."
+  - "Refining screener questions to better recruit Veterans who currently use the VA mobile app."
+  - "Exploring perspectives from Veterans who have not used the VA mobile app but have current VA debt or bills to see if there are needs that could be solved by the app."
+  - "Assessing the experiences of caregivers who assist Veterans in managing debt and bills."
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "Cognitive Disability"
+  - "No degree"
+  - "Other than honorable"
+  - "Immigrant origin"
+  - "Expat (living abroad)"
+  - "Biracial"
+  - "Native Hawaiian or other Pacific Islander"
+  - "First Nations (Canada)"
+  - "Native, American Indian or Alaska Native"
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "n/a"
 synthesis_tools_used:
   - "Mural"
-  - "Affinity Mapping"
+  - "Spreadsheets"
 ---
-
 
 # One VA Debt Letter in mobile app: Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Mobile app Debt Portal, Mobile Feature Support**
+**Office of the CTO - Digital Experience (OCTO-DE), Mobile app One VA Debt Letter, Mobile Feature Support**
 
 **Date:** 12/16/2025
 
