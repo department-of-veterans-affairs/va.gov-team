@@ -1,6 +1,6 @@
 name: Update Templates on Team Data Sync
 
-# Triggered when PR is labeled with "team-data-sync"
+# Triggered when PR is labeled with "team-manifest-maintenance"
 on:
   pull_request:
     types: [labeled]
@@ -11,8 +11,8 @@ permissions:
 
 jobs:
   update-templates:
-    # Only run when team-data-sync label is added
-    if: github.event.label.name == 'team-data-sync'
+    # Only run when team-manifest-maintenance label is added
+    if: github.event.label.name == 'team-manifest-maintenance'
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
