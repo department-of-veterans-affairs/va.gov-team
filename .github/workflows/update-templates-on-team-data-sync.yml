@@ -67,9 +67,7 @@ jobs:
           git add .github/ISSUE_TEMPLATE/collaboration-cycle-request.yml
           git commit -m "chore: regenerate collaboration cycle template from team-lookup.json
 
-          Automatically updated team dropdown with latest teams.
-
-          🤖 Generated with [Claude Code](https://claude.com/claude-code)"
+          Automatically updated team dropdown with latest teams."
 
           git push
 
