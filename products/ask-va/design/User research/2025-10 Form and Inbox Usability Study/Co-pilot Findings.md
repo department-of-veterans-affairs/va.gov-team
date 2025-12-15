@@ -109,6 +109,20 @@ synthesis_tools_used:
 
 ---
 
+**[Research Readout (PDF)](https://dvagov.sharepoint.com/:p:/r/sites/AskVA/Shared%20Documents/General/AVA%20VA.gov%20Team/Research%20%26%20Design/Form%20+%20Inbox%20Usability%20Study%20Findings%20and%20Recommendations.pptx?d=w103f154b310d45b6b1a2ecda33c9c268&csf=1&web=1&e=07CuV1)**  
+
+**Jump to:**
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
+- [Key Performance Indicators](#user-content-key-performance-indicators)
+- [Next Steps](#user-content-next-steps)
+- [Further research needed](#user-content-further-research-needed)
+- [Appendix](#user-content-appendix)
+- [Research participants](#user-content-research-participants)
+
+
 ## Research Goals
 This research supports Veterans and business submitters during the "Access Support & Submit Inquiries" phase of the VA digital journey.  
 **Key moments:** Completing and submitting a support form for education/work study issues, returning to review previous questions, and handling follow-up with VA.  
