@@ -1,5 +1,4 @@
-WEBVTT
-
+# Participant 11 Side Navigation - 12/15/2025
 1
 00:00:02.460 --> 00:00:07.759
 Moderator: Alright, so once again, are you comfortable with us recording your screen and audio for today's session?
