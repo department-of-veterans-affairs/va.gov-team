@@ -70,7 +70,7 @@ Before starting development, ensure you have:
 
 - **Frontend:** `vets-website/src/applications/simple-forms/<formId>/`
 - **Backend:** `vets-api/modules/simple_forms_api/`
-- **Documentation:** `va.gov-team/teams/benefits-portfolio/benefits-intake-optimization/`
+- **Documentation: ** `https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/benefits-intake-optimization`
 
 ### Frontend Directory Structure
 
