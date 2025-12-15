@@ -47,7 +47,7 @@
     | Channel | Use | 
     |---|---|
     | #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or user experience communication for the team working on migrating the BTSSS functionality to the VA's VA.gov (web) and VAHB (mobile) modalities. |
-      | #beneficiary-travel-team-alerts | Automated alerts triggered from the traffic monitoring in place for Travel Pay Claims submitted via VA.gov (web) and VAHB (mobile) modalities. |
+    | #beneficiary-travel-team-alerts | Automated alerts triggered from the traffic monitoring in place for Travel Pay Claims submitted via VA.gov (web) and VAHB (mobile) modalities. |
     | #btsss-product-ux-eng | Communication channel for OCTO primary stakeholders and the current Travel Pay delivery team. |
     | #travel-pay | Coordinated cross team communication related to the Travel Pay experience across web and mobile teams. |
   
