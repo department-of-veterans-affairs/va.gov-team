@@ -2,6 +2,80 @@
 
 - Current Sprint first
 
+## 📆 Sprint 10 (Dec 17 – Dec 30) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] **SPRINT GOAL** 10-10d: Monitor health of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
+- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
+- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
+- [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
+- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
+- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
+- [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
+- [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
+- [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
+- [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
+- [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
+
+
+##
+### 10-10d
+- [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
+  - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
+
+
+##
+### 10-7959a
+- No work this sprint
+
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
+  - [ ] [[FE] 10-7959c: Update Intro & Confirmation Pages #126787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126787)
+
+
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
+  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report #124004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
+     
+
+##
+### All forms or Tech Debt
+- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
+  - [ ] [[BE] 10-10D v2: Prevent stale data and documents from being submitted to Pega #126437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126437)
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
+  - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
+
+
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+- **BE**
+
+
+##
+### Team PTO
+
+
+
 ## 📆 Sprint 9 (Dec 3 – Dec 16) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
@@ -23,7 +97,6 @@
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
 - [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 - [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
-
 
 
 ##
