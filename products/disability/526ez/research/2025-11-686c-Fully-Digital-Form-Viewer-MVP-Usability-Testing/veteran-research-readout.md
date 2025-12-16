@@ -105,9 +105,17 @@ _Some participants commented that the grey header text did not stand out, which 
 
 _"Every time it goes to another section \[it\] has that line right there. It's not just one big application. It kind of breaks it up a bit so you can kind of know where you are, and you're not discombobulated by this one big, long application." (P10, mobile)_
 
+<img width="707" height="449" alt="divider example" src="https://github.com/user-attachments/assets/61b751ac-59ff-4737-be0a-607a98487f3c" />
+
+_Caption: Horizontal grey lines break up sections such as ‘Add one or more children’, ‘Additional information’, and ‘Certification and signature’._
+
 **Bolded Q or A text** - Bolding either questions or answers help distinguish the questions and answers apart; thus increasing the ability to skim and review the page. Many preferred when the answers were bolded because it made the text that they input or "change" stand out more, which helps them quickly review their answers at a glance.  
 
 _"I like the fact that some of the information is bold, which stands out." (P1, desktop)_  
+
+<img width="463" height="301" alt="VADS with bolded answers and numbers" src="https://github.com/user-attachments/assets/6bca87bf-50e8-43e0-b17c-a15e64a90e30" />
+
+_One of the prototypes tested that includes numbered questions with bold answers._ 
 
 **Numbering** - Numbering questions and (sub)sections also help differentiate one question or (sub)section from another, facilitating quick review and spot-checking. If the Veteran has to later communicate with a VA representative regarding their submission, the participants noted that the numbered questions help pinpoint areas that need addressing, especially when different sections ask similar questions.  
 
@@ -126,6 +134,10 @@ Regardless of device type, most prefer the VADS Minimal concept because the text
 * _"The letters are so little. It would be better when they were big." (P10, mobile)_  
 
 Although less preferred, Veterans are tolerant of the text styling of the BAM design system. The formatting for both concepts is considered legible and usable and achieves the Veteran goals when they choose to  save a copy of their submission.
+
+<img width="1024" height="635" alt="Side by side comparison" src="https://github.com/user-attachments/assets/7f381322-573b-49fe-998b-97f2ddcce060" />
+
+_A side-by-side comparison of the BAM text styling (left) and the VADS text styling (right)._
 
 #### Recommendation: 
 
@@ -152,7 +164,11 @@ There were many suggestions on how to improve the layout so it's less cluttered,
 * Potentially displaying the form data in a table format (P9, desktop)
 * Nesting sections inside of an accordion with the existing section headers becoming the accordion headers (P6, mobile)
 * Consolidating similarly related data fields into one line. For example, a name could be consolidated into one line of the full name rather than split into 3 separate lines of first name, middle name, and last name (P1, desktop)
-* 2 participants mentioned removing redundant information and explicitly called out the child section where the child's full name is in the heading and is immediately listed below again as three lines (P1, desktop; P6, mobile) 
+* 2 participants mentioned removing redundant information and explicitly called out the child section where the child's full name is in the heading and is immediately listed below again as three lines (P1, desktop; P6, mobile)
+
+<img width="697" height="282" alt="Add a child example" src="https://github.com/user-attachments/assets/c705d484-ee24-461b-9849-6c903d690bf0" />
+
+_One of the “Add one or more children” sections participants were shown. This is an example of redundant information that participants pointed out._
 
 #### Recommendation: 
 
@@ -182,6 +198,14 @@ After navigating through the BAM Maximal and VADS Minimal designs, participants 
 
 #### Feature 1: OMB Timestamp 
 
+<img width="695" height="184" alt="OMB timestamp in header" src="https://github.com/user-attachments/assets/48a736e2-5ca0-4298-8fe6-639e5e78e285" />
+
+_The OMB and timestamp as shown below the page’s header._
+
+<img width="752" height="302" alt="timestamp in cert section" src="https://github.com/user-attachments/assets/58011a7e-66d2-42eb-8322-5c6e29bedbb7" />
+
+_The timestamp as shown on the bottom of the page as part of the Certification and Signature section._
+
 4 participants mentioned that they found it helpful seeing the time of submission.
 
 * 1 participant (P10, mobile) noted that they didn't think the details needed to be positioned on both the top and bottom of the page and that they're more used to seeing this information towards the bottom. 
@@ -196,6 +220,10 @@ _"I like the fact that it's, it's giving me information about when it was signed
 
 #### Feature 2: Print button 
 
+<img width="707" height="352" alt="Print button" src="https://github.com/user-attachments/assets/5f7c66ec-fd11-4eb9-b00c-9b552dd624ba" />
+
+_The print button was placed in between the OMB/timestamp and “On this page” sections towards the top of the page._
+
 4 participants desired having an explicit print button, although 3 of those same participants did note that they would be able to print using the browser's print feature. Participants understood the print button's functionality, with 5 explicitly stating that they'd expect the print dialogue modal to come up if they clicked it. 2 participants mentioned that they'd be able to print a physical copy or save it to their computer.   
 
 * _\[With no print button\] "it would be kind of like more tedious for me to print it." (P2, desktop)_
@@ -207,6 +235,10 @@ _"I like the fact that it's, it's giving me information about when it was signed
 * Provide this data to the VA Design System team to link from [the research findings section](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information) of the Keep a record of submitted information pattern page.     
 
 #### Feature 3: Summary box 
+
+<img width="688" height="318" alt="Summary box" src="https://github.com/user-attachments/assets/5942cb61-f533-48fd-b90b-7e24280a855b" />
+
+_The application details summary box utilized the blue card design from the VA Design System and displayed: the claim ID, time of submission, and list of supporting documents uploaded._
 
 It's inconclusive if the summary box is needed, as some participants mentioned finding it helpful for specific reasons while others mentioned not needing to view it right after submitting their form. 
 
@@ -224,6 +256,14 @@ It's inconclusive if the summary box is needed, as some participants mentioned f
 * This pattern should be tested within the context of another form as the team scales to building the form viewer for additional forms. 
 
 #### Feature 4: "On this page" + "Back to top" component combination 
+
+<img width="343" height="264" alt="On this page component" src="https://github.com/user-attachments/assets/d158f1d8-fa45-4834-b596-47bda269c266" />
+
+_The “On this page” section contains hyperlinks to the section headers throughout the form viewer page._
+
+<img width="703" height="344" alt="Back to top component" src="https://github.com/user-attachments/assets/5274bf59-00a4-4163-a3f8-6b8554167681" />
+
+_The “Back to top” component as displayed to the right of Child 2’s information would take participants back to the top of the page._
 
 6 participants explicitly stated how they expected the component to work and it aligned with the component's interaction design. 5 participants liked the component, with 4 mentioning they would use it to navigate to specific information they're looking for rather than scrolling.   
 
@@ -439,6 +479,8 @@ This research does not include the perspectives of the following marginalized Ve
 * Any AT users
 
 Note: It's possible some of the groups above are represented. However, we didn't explicitly track some data including "Other than honorable", "Immigrant origin", or LGBTQ+ in this study. It's possible our participants identify as being part of those groups. Additionally, one of our participants chose to not disclose their ethnicity. 
+
+<img width="845" height="736" alt="demographic table" src="https://github.com/user-attachments/assets/1d621121-1edd-425e-bad5-75fa15057005" />
 
 #### A more accessible version of the table in the above image  
 
