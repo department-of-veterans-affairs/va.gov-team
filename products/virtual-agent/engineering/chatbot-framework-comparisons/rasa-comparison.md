@@ -6,49 +6,46 @@ Rasa offers three primary pricing tiers:
 
 **Developer Edition:** Free for individual developers with limitations of up to 1,000 conversations/month for external use or 100 conversations/month for internal use. Limited to one use case per organization. License valid for 12 months with renewal available.
 
-**Growth Tier:** Starting at $35,000 annually, designed for teams handling up to 500,000 conversations per year. Includes full platform access, basic support, and Rasa Studio (no-code UI).
+**Growth Tier:** This wasn't explicitly mentioned on their website, but they have an announcement buried in their forum talking about how this is a "lower price point" for their enterprise offering, and also had an entry on [g2.com stating the details about the Growth level plan](https://www.g2.com/products/rasa/pricing). Starting at $35,000 annually, designed for teams handling up to 500,000 conversations per year. Includes full platform access, basic support, and Rasa Studio (no-code UI).
 
-**Enterprise Tier:** Custom pricing based on scale, deployment requirements, and support levels. Includes premium support, advanced security features, and dedicated resources.
+**Enterprise Tier:** Custom pricing based on scale, deployment requirements, and support levels. Includes premium support, advanced security features, and dedicated resources. No actual mention of pricing for this tier on their website.
 
-**Infrastructure Costs:** For self-hosted deployments (the primary deployment model), organizations are responsible for infrastructure costs including servers, storage, databases, and any required cloud services. LLM integration costs (OpenAI, Anthropic, etc.) are separate and paid directly to the LLM provider.
-
-**Cost Model:** Unlike fully managed cloud services, Rasa's self-hosted model means costs are more predictable but require dedicated infrastructure investment and operational overhead.
+**Infrastructure Costs:** For self-hosted deployments, we are responsible for infrastructure costs including servers, storage, databases, and any required cloud services. LLM integration costs are separate and paid through the LLM provider. Also no specific mention of costs for licensing Rasa Pro for self-hosted deployments, so this would need to be clarified with Rasa sales.
 
 ## **FedRAMP Compliance**
 
-**Not FedRAMP Authorized:** Rasa as a software platform does not have FedRAMP authorization. This is a significant compliance gap for government use.
+**Not FedRAMP Authorized:** Rasa as a software platform does not have FedRAMP authorization.
 
-**Self-Hosted Advantage:** Because Rasa can be fully self-hosted on your own infrastructure, organizations can potentially deploy it on FedRAMP-authorized cloud infrastructure (like Azure Government or AWS GovCloud). However, achieving compliance requires extensive work to implement required security controls, monitoring, and documentation.
+**Self-Hosted:** Because Rasa can be fully self-hosted on your own infrastructure, we could potentially deploy it on infrastructure like Azure Government or AWS GovCloud and rely on similar services that we use with the Bot Service for maintaining compliance.
 
-**Compliance Responsibility:** The burden of achieving FedRAMP compliance falls entirely on the implementing organization. This includes security assessments, continuous monitoring, documentation, and auditing.
 
-**Restricted Industries:** Rasa's Developer Terms explicitly require prior authorization for use in several restricted industries:
+**Restricted Industries:** TRasa's Developer Terms explicitly require prior authorization for use in several restricted industries, and the VA could technically fall under the military/law enforcement category. Some of the restricted industries include:
 - Military, industrial, or law enforcement purposes
 - Nuclear technology and weaponry
-- Biotechnology and genetic engineering
 - Surveillance technologies
-- Adult entertainment and gambling
+- Biotechnology and genetic engineering
 
-**Government Use Concern:** The requirement for "Rasa's prior authorization" at their "sole discretion" for military and law enforcement purposes creates uncertainty for government agencies, as this authorization could be revoked at any time.
 
-**Data Ownership:** Rasa's terms grant them broad rights to use feedback and may require data sharing for telemetry. This conflicts with government data sovereignty requirements.
+**Government Use:** The requirement for "Rasa's prior authorization" at their "sole discretion" for military and law enforcement purposes could be of concern. This authorization could be revoked at any time, so we would need to look into this further with Rasa legal to understand if VA.gov use would be permissible, and if we would need to get explicit permission from Rasa.
+
+**Data Ownership:** Rasa's terms grant them broad rights to use feedback and may require data sharing for telemetry. They have telemetry that can't be opted out when using the Developer Edition. This could conflict with federal data handling requirements, so we would need to clarify data ownership and usage terms with Rasa legal.
 
 ## **Dev Experience**
 
-**CALM Architecture:** Rasa Pro's core innovation is CALM (Conversational AI with Language Models), which separates dialogue understanding from business logic. LLMs handle natural language interpretation while deterministic flows control what actions are executed.
+**CALM Architecture:** Rasa Pro's core innovation is CALM (Conversational AI with Language Models), which separates dialogue understanding from business logic. LLMs handle natural language interpretation while deterministic flows control what actions are executed. This is actually pretty similar to the LLM router approach we prototyped with MS Bot Service, but Rasa has fully embraced this architecture and built their platform around it.
 
-**Flows-Based Design:** Instead of mapping every conversation path with intents and stories, developers define business logic as structured flows. This significantly reduces development time compared to traditional intent-based systems.
+**Flows-Based Design:** Instead of mapping every conversation path with intents and stories, developers define business logic as structured flows.
 
 **Multiple Development Interfaces:**
 - Rasa Pro: Code-first framework for developers (Python, YAML-based configuration)
-- Rasa Studio: No-code UI for business users to build and optimize assistants
-- Rasa Open Source: Fully open-source framework (Apache 2.0 license) for complete customization
+- Rasa Studio: No-code UI
+- Rasa Open Source: Fully open-source framework (Apache 2.0 license) for complete customization, but doesn't include CALM features. The OSS version requires more manual setup and lacks a lot of the key features.
 
-**LLM Flexibility:** Supports multiple LLM providers (OpenAI, Anthropic, etc.) and can work with smaller fine-tuned models like Llama 8B for cost efficiency. Can also use traditional NLU alongside LLMs in hybrid mode.
+**LLM Flexibility:** Supports multiple LLM providers (OpenAI, Anthropic, etc.) and can work with smaller fine-tuned models like Llama 8B for cost efficiency. Can also use traditional NLU alongside LLMs in hybrid mode. The OSS version doesn't include any LLM integrations out of the box.
 
-**Learning Curve:** Requires significant Python development skills and understanding of conversational AI concepts. The CALM paradigm is fundamentally different from traditional chatbot frameworks, requiring a mental shift in how conversations are designed.
+**Learning Curve:** Requires solid Python skills and understanding of conversational AI concepts. The CALM paradigm is pretty different from our traditional chatbot approach.
 
-**Self-Hosting Complexity:** Organizations must manage deployment, scaling, monitoring, and maintenance of the entire Rasa stack. This includes setting up action servers, databases, and integration with external services.
+**Self-Hosting Complexity:** Have to manage deployment, scaling, monitoring, and maintenance of the entire Rasa stack when self hosting.
 
 **Documentation:** Extensive documentation available at rasa.com/docs with learning center, community forum support, and example projects. However, enterprise features and CALM are only available with paid licenses.
 
