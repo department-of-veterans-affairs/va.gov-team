@@ -17,6 +17,18 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. **[ITF] MVP Epic - Design**: Content center guide updates
 11. **[ARP Post-MVP] Cleanup Tasks**: Accessibility audit (686c)
 
+## Sprint 7 Demos
+
+## Sprint 7 Delivery
+
+## Sprint 7 Tickets
+
+**Team Accreditation**
+|Title|URL|Status|Estimate|
+|---|---|---|---|
+|Chapter 6: Ensure fields align, use schema for validation, unit tests|https://github.com/department-of-veterans-affairs/va.gov-team/issues/112535|Prioritized Backlog|3|
+|Confirm Form 21a 'currently' schema booleans are added to GCLAWS API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/91776|Prioritized Backlog|2|
+|Update existing Accreditation API job to include fallback (SQL API)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126324|Prioritized Backlog|3|
 
 
 # Sprint 6 (Dec 16-29, 2025)
@@ -35,7 +47,27 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. **[ITF] MVP Epic - Design**: Draft content updates for the Help page
 11. **[ARP Post-MVP] Cleanup Tasks**: Accessibility audit (submissions page, 526EZ, 686c)
 
+## Sprint 6 Demos
 
+## Sprint 6 Delivery
+
+## Sprint 6 Tickets
+
+**Team Accreditation**
+|Title|URL|Status|Estimate|
+|---|---|---|---|
+|Create Product Outline for invalid-address approximation API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126527|QA|2|
+|Add existing edge-case-handling code from VSOs to address validation for Reps|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126952|External Review|3|
+|Testing the Accreditation API in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323|PR Review|3|
+|Chapter 6: Document Upload - Create a new endpoint to handle document uploads for 21a|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765|In Progress|8|
+|Chapter 6: Document Upload - Create a background job that's called after the form has been posted to GCLAWS to post the file uploads|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114767|In Progress|5|
+|Prepare for Architecture Intent for invalid-address approximation API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126258|In Progress|2|
+|Prepare for Architecture Intent for SQL API Daily Job|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126544|In Progress|2|
+|Chapter 6: Document Upload - Enable s3 bucket in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125901|Sprint Backlog|1|
+|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|Sprint Backlog|SPIKE|
+|Assess state of existing design work and research for Contact Info Updates|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127209|Sprint Backlog|3|
+|Discovery for SQL API fallback|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127915|Sprint Backlog|2|
+|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5|
 
 
 # Sprint 5 (Dec 2-15, 2025)
@@ -77,6 +109,20 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 ## Sprint 5 Delivery
 - [ ] Sprint Delivery Approved by Enablement
 
+**Planned for Sprint 5**: y tickets, z points + z spikes \
+**Added as a Sprint 5 stretch goal**: y tickets, z points + z spikes 
+
+**Completed in Sprint 5**: y tickets, z points + z spikes \
+**Crew Velocity**: y points / 10 days =  z points / day
+
+**Crew Count in Sprint 5**: y active teammates \
+**Average Teammate Velocity**: z points / y teammates = x points / teammate
+
+**Carrying into Sprint 6**: y tickets, z points + z spikes
+1. y tickets (z points) are pending Team QA
+2. y tickets (z points) are Blocked
+3. y tickets (z points) are still In Progress
+4. y tickets (z points) is in Sprint Backlog due to capacity being reached (deprioritized to investigate a bug)
 
 ## Sprint 5 Tickets
 
@@ -150,7 +196,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 1. **[Rep Data] Accreditation API Integration**: Finish implementing fail-safes for the Accreditation API integration
 4. **[Rep Data] Stability and Maintenance**: Finish bug fixes and stability improvements, Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results, and Refactor Address Validation for agents/attorneys/VSO reps
 5. **[21a] v4 - Development**: Update the confirmation page, work to unblock Chapter 6 after which we can configure an s3 bucket and create a new endpoint to handle document uploads
-6. **ARC Team Onboarding and Setup**: General and Product onboarding for our team Product Manager
+6. **ARC Team Onboarding and Setup**: General and Product onboarding for our team Product Managers
 
 **Team Benefits**:
 1. **[Auth] ID.me in ARP**: Staging Review and release, communicate release to ARP users
