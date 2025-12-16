@@ -79,11 +79,37 @@ Secondary study goals will be addressed in the full research report.
 - However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
   - The participant noticed the correct option when first looking at the screen but then scrolled down so the option was no longer visible.
   - Then, when asked how to a new condition, they focused on the rated and denied disabilities and did not go back to the “add a new condition” option.
-  > **P5:** “If you wanted to file, it does offer you the knee replacement, sleep apnea, asthma… Nothing really about a shoulder situation.”
+  - **P5:** “If you wanted to file, it does offer you the knee replacement, sleep apnea, asthma… Nothing really about a shoulder situation.”
   - It’s a little unclear why this happened. One hypothesis is that the first option did not stand out enough visually to be memorable.
 - Another participant had a moment’s confusion, but then was able to select the right option.
 
+### Finding 4
+**Users expect the opportunity to add more information, especially evidentiary support, about their claim. Many were confused when this didn’t happen.**
 
+- In the current design, only new conditions have substantial follow-up questions in the Conditions flow. Because the testing scenarios focused on Supplemental and Increase claims, participants were surprised and confused by the lack of opportunity to add more details about their conditions.
+  > **P8:** “Wouldn't they want some sort of explanation for why I want my hypertension reviewed?? Are they just going to do that by looking at my medical records without any input from me?!?”
 
+- Although we didn’t specifically ask about it, 6 of the 10 participants volunteered that they expected the opportunity to add more details about their conditions.
+- Participants most often mentioned expecting to upload evidence.
+  > **P1:** “I expect I’ll be able to upload my evidence on the next screen.”
+  > **P10:** “I have new evidence so I'm expecting something on the next page where I have the opportunity to provide that new evidence”
+  > **P13:** “I would hit edit once again for the Hypertension... It would bring up a screen and I could show them my new evidence to prove the rating needs to go up.”
 
+- They also mentioned explaining why they’re asking for an increase or appealing, providing a personal statement, or indicating whether a Supplemental Claim was based on new, relevant evidence or on a change in law.
+  > **P5:** “I could do some kind of edit – state my case why it should be increased.”
+  > **P8:** “I'd want to see a screen where I can say why I want to have the percentage increase on my hypertension.”
 
+- Because their expectations weren’t met, many participants were confused when they got to the Review your conditions screen. Several thought they should click the Edit button to add additional information.
+  > **P5:** “If I was pursuing the Hypertension, I would click Edit and it would give me more detailed options. I'd be looking for how my condition has worsened or gotten better. Or related things to hypertension[...] Why I'm filing the claim.”
+  > **P13:** “I would hit Edit and see if I can edit what they want me to edit. I would put down ‘due to the fact that the law has changed.’”
+
+- We included text explaining that evidence could be uploaded in a later step of the application. Two participants noticed it and said it was reassuring.
+  > **P4:** “I don’t know when I'll get to step 4, because this looks like I'm on step 2. I'm thinking I'll go to step 4 to upload my docs next. I like that because it makes it very simple.”
+
+### Finding 5
+**'Add a condition' language caused confusion.**
+
+- On both the ‘Add a condition’ and ‘Review your conditions’ screens, Veterans were confused by use of the word ‘add,’ especially for Supplemental Claim or Claim for Increase scenarios (in which the original claim for a condition was being modified).
+- This was not an issue in a related study ([2026-06 New or Increase at Condition Level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md#2025-06-newincrease-at-condition-level-research-findings): [related finding #1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md#1a-participants-easily-chose-between-a-condition-i-havent-claimed-before-and-the-rated-conditions), [related finding #2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md#1e-all-participants-were-easily-able-to-use-the-list--loop-structure-with-a-continuation-question-on-the-last-screen)). We hypothesize the difference between studies may be due to the earlier study’s focus on new conditions, versus the current study’s focus on denied and rated conditions.
+  > **P4:** “It's still confusing to me because I'm not adding, I'm editing or adding to the claim. If it was said to me like that, that I'm editing a current claim or denial, then it would make more sense.”
+  > **P12:** “Me knowing [what I know] as a VSO, I would say Yes to ‘add another condition.’ But I don't know that a regular person would know. ADD another condition - I'm already rated for migraines, I don't want to ADD that. Do you want to add, or do you want an increase? ‘Add,’ to me, means something new.”
