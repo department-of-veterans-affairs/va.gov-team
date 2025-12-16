@@ -46,9 +46,44 @@ Secondary study goals will be addressed in the full research report.
   - 2 sessions were limited in time and didn't review both prototypes (both only made it through Apple)
 
 - A common reason for preferring the presentation of one's denied conditions was the likelihood of not being able to remember received past denials, and saving the user from research or document sourcing
-  > P2: "Apple breaks down the categories. Banana looks like a big blob. The way my brain works I start sorting by groups. Banana, I have to read everything in it. Apple, I can scan the headers and go straight to denied conditions."
+  > **P2:** "Apple breaks down the categories. Banana looks like a big blob. The way my brain works I start sorting by groups. Banana, I have to read everything in it. Apple, I can scan the headers and go straight to denied conditions."
 
-  > P8: "I MUCH preferred Apple. It tells you everything right up front. No second guessing. Banana makes you go through an additional step. With Apple, I can do everything right away from the first screen."
+  > **P8:** "I MUCH preferred Apple. It tells you everything right up front. No second guessing. Banana makes you go through an additional step. With Apple, I can do everything right away from the first screen."
 
-  > P13: "I like Apple. All the information is in one spot: all my rated disabilities and my denied conditions. So you can see – like, what if I don't remember what I applied for?"
+  > **P13:** "I like Apple. All the information is in one spot: all my rated disabilities and my denied conditions. So you can see – like, what if I don't remember what I applied for?"
+
+### Finding 2
+**It is extremely difficult for Veterans to distinguish between a Claim for Increase and a Supplemental Claim for a rated condition.**
+
+- In Prototype Banana, we tested two scenarios that required the participant to decide whether to file a Supplemental Claim or a Claim for Increase on a rated disability. In the first four sessions, Veterans were very confused about the difference. We then updated the content in Prototype Banana to better distinguish between the two claim types. But participants still couldn’t understand the difference.
+  > [!NOTE]
+  > Note: This distinction only appeared in Prototype Banana; Prototype Apple did not offer the choice of a Supplemental Claim on a rated disability.
+
+- A majority of participants perceived both avenues of action as a means of declaring that a condition had gotten worse.
+  > **P1:** "For both, you're trying to get an increase."
+
+  > **P3:** "[It's] giving me two options, two ways to claim this. They seem very closely similar... It seems like new & relevant evidence is the same as I'm trying to get an increase. Two things saying the same exact thing."
+
+- Additionally, users did not understand what a Supplemental Claim is. While some Veterans had heard the term, they understood it to mean something different from the VA’s meaning.
+  > **P4:** "To me, 'Supplemental Claim' and 'Appealing' aren't very close together. We know rating means you got a rating, [and if] you don't agree, you're going to appeal  it… I think the [term] 'Supplemental Claim' is what's confusing. I don't get supplemental anything, I'm 100% disabled. There's nothing supplemental in my life. 'Appeal' is way more clear than 'Supplemental Claim.'
+
+  > **P7:** “Supplemental claim… means adding something [like asthma] on to the already existing disability claims that I have. But if you do that, you start the process from Day 1, and you lose all that time that your first part was being evaluated.”
+
+### Finding 3
+**Most participants were able to add a new condition on both versions of the 'Add a condition' screen, but some did have some difficulty.**
+
+- For prototype Apple, we were concerned that the visual hierarchy created by the bold subheads between options would make it harder for Veterans to find the option to add a new disability.
+[image?]
+
+- Most participants had no trouble identifying “A condition I haven’t claimed before” as the option for adding a new condition.
+- However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
+  - The participant noticed the correct option when first looking at the screen but then scrolled down so the option was no longer visible.
+  - Then, when asked how to a new condition, they focused on the rated and denied disabilities and did not go back to the “add a new condition” option.
+  > **P5:** “If you wanted to file, it does offer you the knee replacement, sleep apnea, asthma… Nothing really about a shoulder situation.”
+  - It’s a little unclear why this happened. One hypothesis is that the first option did not stand out enough visually to be memorable.
+- Another participant had a moment’s confusion, but then was able to select the right option.
+
+
+
+
 
