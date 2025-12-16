@@ -73,7 +73,9 @@ Secondary study goals will be addressed in the full research report.
 **Most participants were able to add a new condition on both versions of the 'Add a condition' screen, but some did have some difficulty.**
 
 - For prototype Apple, we were concerned that the visual hierarchy created by the bold subheads between options would make it harder for Veterans to find the option to add a new disability.
-[image?]
+
+<img width="301" height="678" alt="Screenshot 2025-12-16 at 12 02 40" src="https://github.com/user-attachments/assets/239d1799-72ff-4304-9f34-51d4d8f3046c" />
+
 
 - Most participants had no trouble identifying “A condition I haven’t claimed before” as the option for adding a new condition.
 - However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
