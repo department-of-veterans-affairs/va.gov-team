@@ -158,7 +158,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 ## Third Task: [PROTOTYPE BLUEBERRY - SIGNER SECTION] - 5 minutes
 
-- Being a prototype imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
+- Being a prototype, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
 - For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
 - Navigate through the prototype now, focusing on the content and instructions around the next few pages. Please remember to think aloud. 
 
