@@ -110,20 +110,21 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 ## Sprint 5 Delivery
 - [ ] Sprint Delivery Approved by Enablement
 
-**Planned for Sprint 5**: y tickets, z points + z spikes \
-**Added as a Sprint 5 stretch goal**: y tickets, z points + z spikes 
+**Planned for Sprint 5**: 38 tickets, 115 points + 2 spikes \
+**Added as a Sprint 5 stretch goal**: 11 tickets, 40 points
 
-**Completed in Sprint 5**: y tickets, z points + z spikes \
-**Crew Velocity**: y points / 10 days =  z points / day
+**Completed in Sprint 5**: 31 tickets, 90 points + 1 spike \
+**Crew Velocity**: 90 points / 10 days =  9 points / day
 
-**Crew Count in Sprint 5**: y active teammates \
-**Average Teammate Velocity**: z points / y teammates = x points / teammate
+**Crew Count in Sprint 5**: 15 active teammates \
+**Average Teammate Velocity**: 90 points / 15 teammates = 6 points / teammate
 
-**Carrying into Sprint 6**: y tickets, z points + z spikes
-1. y tickets (z points) are pending Team QA
-2. y tickets (z points) are Blocked
-3. y tickets (z points) are still In Progress
-4. y tickets (z points) is in Sprint Backlog due to capacity being reached (deprioritized to investigate a bug)
+**Carrying into Sprint 6**: 18 tickets, 65 points + 1 spikes
+1. 2 tickets (4 points) are pending Team QA
+2. 1 ticket (3 points) is pending External Review
+3. 2 tickets (6 points) are pending PR Review
+4. 1 tickets (3 points) is Blocked
+5. 12 tickets (49 points) are still In Progress
 
 ## Sprint 5 Tickets
 
@@ -145,7 +146,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 
 **Team Benefits**
-|Title                                                                           |URL                                                                        |Status     |Estimate|Stretch goal?|Reason for Carry Over                |
+|Title                                                                           |URL                                                                        |Status     |Estimate|Stretch goal?|Reason for carry over                |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------|--------|-------------|----------------------|
 |General Onboarding to ARC [Sam]                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125504|Done       |5       |             |                      |
 |Kick off Collab Cycle for invalid-address approximation API                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126534|Done       |1       |             |                      |
