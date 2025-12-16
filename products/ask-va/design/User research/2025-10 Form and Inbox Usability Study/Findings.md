@@ -53,9 +53,10 @@ In this research we are specifically exploring Veteran and business (education) 
 
 
 ## Key Findings
-1. Finding 1: Veterans (77% of inquiries) and business submitters (19% of inquiries) have very different use cases for the category/topic, subject, question, and attachments. ​
-2. Finding 2: Both submitters, but primarily Veterans, need reassurance throughout their experience with Ask VA to ask their question “correctly”, so that it gets them the answer they are searching for. ​
-3. Finding 3: The list view aligned more closely with users’ mental models and supported easier navigation.​
+**1. Finding 1:** Veterans (77% of inquiries) and business submitters (19% of inquiries) have very different use cases for the category/topic, subject, question, and attachments. ​
+**2. Finding 2:** Both submitters, but primarily Veterans, need reassurance throughout their experience with Ask VA to ask their question “correctly”, so that it gets them the answer they are searching for. ​
+**3. Finding 3:** The list view aligned more closely with users’ mental models and supported easier navigation.
+**4. Finding 4:**​ Business submitters need different fields in their inbox than Veterans do
 
 ## Details of Findings 
 
@@ -127,9 +128,15 @@ Tickets are also closed before a business submitter can respond. Forcing them to
 
 ### Research Gaps
 
-- Evaluate real-world use of attachments by category for validity of further enabling/disabling logic and field presence.
-- Test new taxonomy and visual representations of category/topic lists with representative sample of Veterans, especially those who find current implementation overwhelming.
-- Assess needs and satisfaction of mobile, assistive, and non-English users.
+- Better understand how Agents use the different fields submitted in the form​
+   - How can we streamline categories and topics based on agent processes? ​
+   - Explore statuses and response processes​
+   - Learn business rules about attachments for different categories ​
+   - Learn business rules around submission history on inquiries​
+   - Understand subject use in the backend​
+- Business vs. personal ​
+   - Explore the potential for more information to be stored within a “business profile” for AVA​
+- Usability testing after enhancements have been designed​
 
 ### Underserved Groups Not Yet Studied
 
@@ -148,23 +155,13 @@ Tickets are also closed before a business submitter can respond. Forcing them to
 - [Business User Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/SCO%20Conversation%20Guide.md)
 - [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Transcripts)
 
-### Tools used for Synthesis
-
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
   
 ### Pages and applications used
 
 *Link to prototypes or pages tested during the study.*  
 
-
-### Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
-
-
 ### Secondary research
-
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+-[Previous research synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Prior%20Research%20Assessment.md)
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -173,108 +170,83 @@ _Complete the demographic info below using information from the Perigean recruit
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+## Research Participants
 
-#### Demographics 
+### Recruitment Criteria
 
-We talked to **x participants.**
+We talked to **13 participants.**
 
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+**Audience segment:**
+* Veterans: 9 
+* Business submitters (SCO/WSSS): 4
 
+**Gender:**
+* Male: 6 
+* Female: 6 
+* Other/Nonbinary: 1
 
-Gender:
-* Male: x 
-* Female: x 
+**LGBTQ+:**
+* Nonbinary/gender fluid/gender queer: 1
+* Gay, lesbian, or bisexual: 0
+* Transgender: 0
 
+**Devices used during study:** 
+* Desktop: 13 
+* Tablet: 0 
+* Smartphone: 0 
+* Assistive Technology: 0
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+**Age:**
+* 25-34: 1
+* 35-44: 2
+* 45-54: 1
+* 55-64: 5
+* 65+: 0
+* Unknown: 4
 
+**Education:
+*** High school degree or equivalent: x
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 1
+* Master's degree: 3
+* Doctorate degree: 1
+* Unknown: 4
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+  
+**Geographic location:**
+* Urban: 5
+* Rural: 4
+* Unknown: 4
 
+**Race:**
+* White: 0
+* Black: 3
+* Hispanic: 2
+* Biracial: 0
+* Asian: 1
+* Native, American Indian or Alaska Native: 1
 
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+**Disability and Assistive Technology:**
+* Cognitive: 7
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* Speech Input Technology: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
+---
 
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
-
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
-
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
-
-
-#### Underserved groups we haven’t talked to 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
+### Underserved groups we haven’t talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Mobile device users
+* Veterans with physical, hearing, or vision disabilities
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+**Recommendation:** Specifically recruit these groups in future rounds to ensure representation.
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-
-### Recruitment of underserved groups in [Study name]
-
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
+<img width="638" height="736" alt="image" src="https://github.com/user-attachments/assets/39227e66-8c8d-4050-a124-480674c7b7e2" />
