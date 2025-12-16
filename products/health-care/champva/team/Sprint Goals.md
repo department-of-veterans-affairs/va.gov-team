@@ -15,7 +15,7 @@
 - [ ] **SPRINT GOAL** 10-7959c: BE Prepare for launch
 - [ ] **SPRINT GOAL** All forms: Investigate and reproduce 403/422 errors in DD, report issues to platform
 - [ ] **SPRINT GOAL** All forms: Update Datadog dashboards to ensure consistency and accuracy 
-- [ ] **SPRINT GOAL** All forms: Implement improved logging to trace submissions end to end, identify specific error points, and provide PEGA with additional info for troubleshooting
+- [ ] **SPRINT GOAL** All forms: Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
