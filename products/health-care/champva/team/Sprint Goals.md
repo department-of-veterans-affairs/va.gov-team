@@ -7,9 +7,9 @@
 
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Monitor health of 1010d/10-7959c Merge
-- [ ] **SPRINT GOAL** 10-10d v2: Tricare API Discovery
-- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
-- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10d: VES fwd proxy and turn on VES data feed
+- [ ] **SPRINT GOAL** 10-10dv2: Prevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10dv2: FE Add MBI
 - [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
 - [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
@@ -17,6 +17,8 @@
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
 - [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
+- [ ] **STRETCH GOAL** 10-7959c: Discovery for OHI - VES Integration
+- [ ] **STRETCH GOAL** 10-7959c: FE Add MBI to OHI form
 - [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
 - [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
