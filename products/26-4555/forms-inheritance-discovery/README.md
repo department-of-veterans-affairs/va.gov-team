@@ -1,37 +1,43 @@
-# 26-4555 form inheritance discovery
-
+# 26-4555 Form inheritance discovery
 
 ## Now (12/15/2025)
 
 ### Table of Contents
-- [Design Findings](#design-findings) 
+
+- [Design Findings](#design-findings)
 - [Technical Findings](#technical-findings)
 - [Level of Effort](#level-of-effort)
 - [Next](#next)
-
 
 ## Design Findings
 
 Category: Design
 
-* Figma components largely comply with expected VADS component standards, to-do items from forms team.
+- Figma components largely comply with expected VADS component standards, to-do items from forms team.
 
 Category: User flow
-* Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
+
+- Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
 
 Category: Design patterns
-* Check prefill notice in the form. Doesn’t match figma.
-* Check autosave notice under stepper. Staging says “in-progress  ID number”, Figma says “application ID number”
-* Save in progress notice on staging calls it an application ID number, but it uses the same “in-progress ID” from the top of the page.
+
+- Check prefill notice in the form. Doesn't match figma.
+- Check autosave notice under stepper. Staging says "in-progress  ID number", Figma says "application ID number"
+- Save in progress notice on staging calls it an application ID number, but it uses the same "in-progress ID" from the top of the page.
 
 Category: Content
-* Confirm with CAIA that “application” is the right use on this form
+
+- Confirm with CAIA that "application" is the right use on this form
 
 ## Technical Findings
 
 Detailed technical analysis of VA Form 26-4555 codebase.
 
-## Imposter Components Audit: PASSED
+### Pre-Discovery Issues
+
+Issues identified before this discovery and already tracked.
+
+### Imposter Components Audit: PASSED
 
 This form was audited for imposter components. **No imposter components were found.**
 
@@ -51,9 +57,11 @@ The form correctly uses VADS web components:
 
 **This form can serve as a reference implementation for VADS compliance.**
 
-## 1. Content Compliance
+## Discovery Findings
 
-### 1.1 Expired OMB Control Number (CRITICAL)
+### 1. Content Compliance
+
+#### 1.1 Expired OMB Control Number (CRITICAL)
 
 **File:** `containers/IntroductionPage.jsx:15-19`
 
@@ -69,7 +77,7 @@ const ombInfo = {
 
 **Action:** Update immediately or remove from production.
 
-### 1.2 Hardcoded Phone Numbers (CRITICAL)
+#### 1.2 Hardcoded Phone Numbers (CRITICAL)
 
 **File:** `containers/ConfirmationPage.jsx:19, 28, 39, 66`
 
@@ -77,21 +85,21 @@ const ombInfo = {
 
 **Impact:** Changes require code modifications instead of content updates.
 
-### 1.3 Hardcoded Content (CRITICAL)
+#### 1.3 Hardcoded Content (CRITICAL)
 
 **File:** `containers/IntroductionPage.jsx:6-13, 21-29`
 
 **Issue:** Form content and help instructions hardcoded in component.
 
-### 1.4 Status Messages (MEDIUM)
+#### 1.4 Status Messages (MEDIUM)
 
 **File:** `containers/ConfirmationPage.jsx:24-41`
 
 **Issue:** Three status branches (REJECTED, DUPLICATE, default) hardcoded.
 
-## 2. Code Quality & Legacy Patterns
+### 2. Code Quality & Legacy Patterns
 
-### 2.1 Mixed Redux Patterns (CRITICAL)
+#### 2.1 Mixed Redux Patterns (CRITICAL)
 
 **File:** `containers/ConfirmationPage.jsx:3, 9, 109-115`
 
@@ -103,7 +111,7 @@ import { connect, useSelector } from 'react-redux';
 // Lines 109-115: mapStateToProps and connect HOC
 ```
 
-### 2.2 Enzyme Usage (HIGH)
+#### 2.2 Enzyme Usage (HIGH)
 
 **File:** `tests/containers/ConfirmationPage.unit.spec.jsx:4, 35, 70, 90`
 
@@ -111,7 +119,7 @@ import { connect, useSelector } from 'react-redux';
 
 **Impact:** Enzyme is deprecated, creates inconsistent test patterns.
 
-### 2.3 hasOwnProperty Anti-pattern (HIGH)
+#### 2.3 hasOwnProperty Anti-pattern (HIGH)
 
 **File:** `config/submit-transformer.js:1, 38`
 
@@ -124,15 +132,15 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Should use:** `Object.prototype.hasOwnProperty.call()` or `in` operator.
 
-### 2.4 PropTypes Not Enforced (MEDIUM)
+#### 2.4 PropTypes Not Enforced (MEDIUM)
 
 **File:** `containers/ConfirmationPage.jsx:90-107`
 
 **Issue:** PropTypes defined but nested `response` property not properly typed.
 
-## 3. Form System Compliance
+### 3. Form System Compliance
 
-### 3.1 Downtime Service Mismatch (HIGH)
+#### 3.1 Downtime Service Mismatch (HIGH)
 
 **Files:**
 
@@ -143,7 +151,7 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Impact:** Inconsistent downtime handling.
 
-### 3.2 Incomplete Address Fields (MEDIUM)
+#### 3.2 Incomplete Address Fields (MEDIUM)
 
 **Files:**
 
@@ -153,9 +161,9 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Issue:** Address fields commented as "omitted because unused, will be restored when vets-json-schema is changed."
 
-## 4. Platform Integration
+### 4. Platform Integration
 
-### 4.1 Minimal Prefill Transformer (HIGH)
+#### 4.1 Minimal Prefill Transformer (HIGH)
 
 **File:** `config/prefill-transformer.js:2-16`
 
@@ -167,19 +175,19 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - Living situation
 - Phone contact info
 
-### 4.2 Missing Error Boundary (HIGH)
+#### 4.2 Missing Error Boundary (HIGH)
 
 **Issue:** No error boundary implementation.
 
 **Impact:** JavaScript errors crash entire form.
 
-### 4.3 Missing Feature Toggle Runtime (MEDIUM)
+#### 4.3 Missing Feature Toggle Runtime (MEDIUM)
 
 **Issue:** No runtime feature toggle check in App.jsx.
 
-## 5. Accessibility
+### 5. Accessibility
 
-### 5.1 Limited Accessibility Testing (MEDIUM)
+#### 5.1 Limited Accessibility Testing (MEDIUM)
 
 **File:** `tests/e2e/4555-adapted-housing.cypress.spec.js:48`
 
@@ -192,7 +200,7 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - Living situation pages
 - Remarks page
 
-### 5.2 Custom Styled Labels (MEDIUM)
+#### 5.2 Custom Styled Labels (MEDIUM)
 
 **File:** `sass/4555-adapted-housing.scss:9-35`
 
@@ -206,21 +214,21 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Impact:** ID selectors and negative margins could affect screen readers.
 
-### 5.3 Missing ARIA Labels (MEDIUM)
+#### 5.3 Missing ARIA Labels (MEDIUM)
 
 **File:** `containers/ConfirmationPage.jsx:24-41`
 
 **Issue:** Conditional content blocks have no aria labels or roles.
 
-### 5.4 Heading Hierarchy (LOW)
+#### 5.4 Heading Hierarchy (LOW)
 
 **File:** `pages/remarks.js:35`
 
 **Issue:** `<va-additional-info>` with no explicit heading hierarchy.
 
-## 6. Testing Coverage
+### 6. Testing Coverage
 
-### 6.1 Inconsistent Test Approach (HIGH)
+#### 6.1 Inconsistent Test Approach (HIGH)
 
 **Location:** `tests/pages/` (10 files)
 
@@ -233,13 +241,13 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - Error message display tests
 - Data transformation tests
 
-### 6.2 ConfirmationPage Test Issues (HIGH)
+#### 6.2 ConfirmationPage Test Issues (HIGH)
 
 **File:** `tests/containers/ConfirmationPage.unit.spec.jsx:84-101`
 
 **Issue:** Test expects error but doesn't verify error message.
 
-### 6.3 Incomplete E2E Coverage (HIGH)
+#### 6.3 Incomplete E2E Coverage (HIGH)
 
 **File:** `tests/e2e/4555-adapted-housing.cypress.spec.js`
 
@@ -252,7 +260,7 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - Remarks/conditions checkbox combinations
 - Error handling on submission
 
-### 6.4 Test Fixtures Incomplete (MEDIUM)
+#### 6.4 Test Fixtures Incomplete (MEDIUM)
 
 **File:** `tests/e2e/fixtures/data/minimal-test.json`
 
@@ -264,7 +272,7 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - Only otherConditions text
 - Different living situation combinations
 
-### 6.5 Submit Transformer Tests (MEDIUM)
+#### 6.5 Submit Transformer Tests (MEDIUM)
 
 **File:** `tests/config/submit-transformer.unit.spec.jsx:7-14`
 
@@ -276,9 +284,9 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 - otherConditions only
 - Checkbox combinations
 
-## 7. Code Organization
+### 7. Code Organization
 
-### 7.1 Remarks Transformation Logic (MEDIUM)
+#### 7.1 Remarks Transformation Logic (MEDIUM)
 
 **File:** `config/submit-transformer.js:11-25`
 
@@ -295,13 +303,13 @@ function appendRemarksString() {
 
 ## Positive Findings
 
-1. **VADS Compliant** - All pages use web-component-patterns correctly
-2. **Good Structure** - Pages use split naming (1/2) consistently
-3. **Clean Organization** - 11 pages properly organized in `/pages/`
-4. **Minimal Container Code** - Logic in pages/config, not containers
-5. **Well-Organized Constants** - Field objects and lists
-6. **Platform Integration** - Uses `footerContent`, save-in-progress, `currentOrPastDateUI()`
-7. **Mobile Responsive** - Platform address/phone patterns
+- VADS Compliant - All pages use web-component-patterns correctly
+- Good Structure - Pages use split naming (1/2) consistently
+- Clean Organization - 11 pages properly organized in `/pages/`
+- Minimal Container Code - Logic in pages/config, not containers
+- Well-Organized Constants - Field objects and lists
+- Platform Integration - Uses `footerContent`, save-in-progress, `currentOrPastDateUI()`
+- Mobile Responsive - Platform address/phone patterns
 
 ## Platform Pattern Gaps
 
@@ -338,7 +346,7 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 
 **No page definitions depend on simple-forms shared code.**
 
-## Level of Effort
+## Level Of Effort
 
 ### Issue Summary
 
@@ -355,13 +363,19 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 | **Total** | **5** | **8** | **11** | **1** |
 
 ### Tshirt size estimation
-_Teams often start with T‑shirt sizes during early planning, then refine into story points later._
-* 👕 Small = Design
-* 👕 Medium = Content
-* 👕 Small = Monitoring
-* 👕 Extra Large = Engineering
 
-# Next
+_Teams often start with T-shirt sizes during early planning, then refine into story points later._
+
+- 👕 Small = Design
+- 👕 Medium = Content
+- 👕 Small = Monitoring
+- 👕 Large = Engineering
+
+### Aditional notes
+
+Design flow and Figma components largely comply with expected VADS standards. This form passed the imposter components audit and can serve as a reference implementation for VADS compliance. Key concerns are the expired OMB control number (CRITICAL), hardcoded content, and testing coverage gaps.
+
+## Next
 
 - Write tickets for epic
 - Architectural decision record (ADR) decouple APIs from simple-forms engine
