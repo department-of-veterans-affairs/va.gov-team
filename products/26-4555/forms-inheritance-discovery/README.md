@@ -1,9 +1,33 @@
-# Form inheritance discovery
+# 26-4555 form inheritance discovery
 
 
 ## Now (12/15/2025)
 
-### Design & Tech Findings (VA Form 26-4555)
+### Table of Contents
+- [Design Findings](#design-findings) 
+- [Technical Findings](#technical-findings)
+- [Level of Effort](#level-of-effort)
+- [Next](#next)
+
+
+## Design Findings
+
+Category: Design
+
+* Figma components largely comply with expected VADS component standards, to-do items from forms team.
+
+Category: User flow
+* Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
+
+Category: Design patterns
+* Check prefill notice in the form. Doesn’t match figma.
+* Check autosave notice under stepper. Staging says “in-progress  ID number”, Figma says “application ID number”
+* Save in progress notice on staging calls it an application ID number, but it uses the same “in-progress ID” from the top of the page.
+
+Category: Content
+* Confirm with CAIA that “application” is the right use on this form
+
+## Technical Findings
 
 Detailed technical analysis of VA Form 26-4555 codebase.
 
@@ -314,7 +338,9 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 
 **No page definitions depend on simple-forms shared code.**
 
-## Issue Summary
+## Level of Effort
+
+### Issue Summary
 
 | Category | Critical | High | Medium | Low |
 |----------|----------|------|--------|-----|
@@ -335,18 +361,7 @@ _Teams often start with T‑shirt sizes during early planning, then refine into 
 * 👕 Small = Monitoring
 * 👕 Extra Large = Engineering
 
-### Aditional design notes:
-
-Figma components largely comply with expected VADS component standards, to-do items from forms team:
-
-- Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
-- Confirm with CAIA that “application” is the right use on this form
-- Check prefill notice in the form. Doesn’t match figma.
-- Check autosave notice under stepper. Staging says “in-progress  ID number”, Figma says “application ID number”
-- Save in progress notice on staging calls it an application ID number, but it uses the same “in-progress ID” from the top of the page.
-
-
-## Next
+# Next
 
 - Write tickets for epic
 - Architectural decision record (ADR) decouple APIs from simple-forms engine
