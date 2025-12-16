@@ -172,7 +172,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 ----
 
 
-## Fourth Task: [PROTOTYPE B - INTRO] - 5 minutes
+## Fourth Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
 
 - Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
