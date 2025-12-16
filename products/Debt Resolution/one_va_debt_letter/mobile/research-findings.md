@@ -1,7 +1,7 @@
 ---
 title: "One VA Debt Letter in mobile app Research Findings"
 product: "Mobile app One VA Debt Letter"
-team: "Mobile App Team"
+team: "Mobile Feature Support"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
 date: "2025-12-16"
 researchers:
@@ -105,7 +105,7 @@ synthesis_tools_used:
 
 # One VA Debt Letter in mobile app: Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Mobile app One VA Debt Letter, Mobile Feature Support**
+**Office of the CTO - Digital Experience (OCTO-DE), Mobile app One VA Debt Letter, Mobile Feature Support Team**
 
 **Date:** 12/16/2025
 
