@@ -53,79 +53,65 @@ In this research we are specifically exploring Veteran and business (education) 
 
 
 ## Key Findings
-
-*Summarize the 5–10 most impactful findings from your study.* 
-
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Finding 1: Veterans (77% of inquiries) and business submitters (19% of inquiries) have very different use cases for the category/topic, subject, question, and attachments. ​
+2. Finding 2: Both submitters, but primarily Veterans, need reassurance throughout their experience with Ask VA to ask their question “correctly”, so that it gets them the answer they are searching for. ​
+3. Finding 3: The list view aligned more closely with users’ mental models and supported easier navigation.​
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
+### Finding 1: Veterans and business submitters have distinct needs with the Ask VA form 
+**Category:**
+- As a Veteran, without the category and topic to frame my question I would feel less confident and confused that I’m submitting a question in the right place. (7/9 participants)
+- As a Veteran, the list of categories and topics is helpful, but also long and overwhelming. (4/9 participants)
+   - _Supporting data: **P6:** "I like the, the detailed drop-down box with all the information in it. I think it narrows—it really helps seeing that you're getting directed to the right place." (Veteran)_
 
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+- As a Business Submitter, my category never changes, but I am required to enter it anyway. (4/4 participants)
+   - _Supporting data: **P3:** "It is tedious to do. Click, click. Click. Click, click when every single time it's the same thing." (Work Study Site Supervisor)_
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+**Subject:**
+- As a Veteran, the subject field is redundant to the category and topic, but I am required to enter it in anyway for education submissions. As a Veteran, the subject field is redundant to the category and topic, but I am required to enter it in anyway for education submissions. (6/9 participants)
+- As a Business Submitter, I primarily use subject to identify the student I am submitting something for, but the subject field is not reflected in the inbox. (4/4 participants)
+
+**Attachments:**
+- As a Veteran, I want to be able to include attachments related to any question I ask, but that’s not possible on all categories. 
+- As a Business Submitter, most of my submissions include attachments and I use the question field as a description of my attachment. (2/4 participants) 
+  
+### Finding 2: Submitters needs reassurance that they are asking their question "correctly", so they can get what they want which is the answer to their question.
+This was observed throughout our research more specifically with Veterans. The burden is on Veterans to correctly navigate the Ask VA form to ask their question. If they choose something incorrectly, it may increase the response time and/or decrease the quality of the response they receive. 
+- As a Veteran, I need a simple way to correctly and confidently fill out all the information the VA needs to answer my question.
+- As a Veteran, I want to make sure my question gets to the right team to ensure I get a timely and quality response. 
+
+### Finding 3: The list view inbox aligned more closely with users’ mental models and supported easier navigation.​
+Participants (Veteran and business) indicated that a list format made it easier to scan, sort, and find information.
+- As a Veteran or Business Submitter, I want to be able to clearly and quickly view my questions, but the card formatting makes it difficult to understand order, content or status.
+   - _Supporting data: **P4:** "I can follow it easier because of the way it's laid out…In an orderly fashion categories, Submitted date, question, status. You know, updates and details. Instead of trying to go through one block versus another block. Trying to figure out what's going on there, so I can see everything." (Veteran)_
+- As a Business Submitter, I have different needs for the inbox than a Veteran. 
+
+- _Supporting data: 5 of 9 Veterans and 4 of 4 business submitters preferred list view._
+
+### Finding 4: Business submitters need different fields in their inbox than Veterans do​
+Veterans want to search by keyword and category/status. Business submitters look for student name and reference number (not always surfaced in inbox).
 
 ---
 
 ## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+### Finding 5: Business users need longer inbox history and better identification for submissions
+Business submitters conduct audits and need to refer to old submissions, but limited history and poor surfacing of identifiers (e.g., student name) make this difficult.
+   - _Supporting data: All 4 business submitters reported using inbox for audits/records and cited limits on history as a pain point._
 
+### Finding 6: Business users all experience challenges with the way they receive responses from Ask VA
+The email responses from Ask VA are not helpful in determining an inquiries' status, which requires them to go into the system for each "response"
+   - _Example: "Is the response that the time card was received and is being processed? or is it that the time card was submitted incorrectly and needs to be updated?_
+
+Tickets are also closed before a business submitter can respond. Forcing them to open a new ticket and putting them at the back of the queue. This can cause financial hardships for students.​
 
 ## Recommendations
-
-*Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_  
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
-
-## Product User and Business Outcomes
-
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-### Desired User Outcome 
-This research supports our desired user outcome by....
- 
-### Desired Business Outcome
-This research supports our desired business outcome by....
-
-
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
-  
 
 ## Next Steps
 
@@ -139,16 +125,28 @@ This research supports measurement of this KPI by....
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+### Research Gaps
 
+- Evaluate real-world use of attachments by category for validity of further enabling/disabling logic and field presence.
+- Test new taxonomy and visual representations of category/topic lists with representative sample of Veterans, especially those who find current implementation overwhelming.
+- Assess needs and satisfaction of mobile, assistive, and non-English users.
+
+### Underserved Groups Not Yet Studied
+
+- Mobile device users
+- Participants with physical, hearing, or vision disabilities
+- Non-English speaking submitters
+- Veterans over age 65
+- Veterans without degrees
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Research%20Plan.md)
+- [Veteran Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Veteran%20Conversation%20Guide.md)
+- [Business User Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/SCO%20Conversation%20Guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study/Transcripts)
 
 ### Tools used for Synthesis
 
