@@ -123,6 +123,7 @@ TBD
 |Bug: Confirmation page for 526EZ does not load                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127885|Sprint Backlog |3       |
 |Provide video feedback                                                          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/121183|Sprint Backlog |2       |
 |Claimant Lifecycle - Scrub transcripts                                          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127948|Sprint Backlog |5       |
+|Adjust Claimant Details MVP designs                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127981|Sprint Backlog |1       |
 
 
 # Sprint 5 (Dec 2-15, 2025)
