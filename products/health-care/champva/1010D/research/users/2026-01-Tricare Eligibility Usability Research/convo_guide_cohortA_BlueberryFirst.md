@@ -201,7 +201,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 > - [Would the participant want to proceed through the form despite what the alert stated?]
 
 
-## Fifth Task: [ALERTS MESSAGES] - 10 minutes
+## Fifth Task: [ALERT MESSAGES] - 10 minutes
 
 - Now that we have gone through the second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
 - If you scroll down from the Prototype's main menu, you'll find a gray button labelled "warning alerts", go ahead and click on that.
