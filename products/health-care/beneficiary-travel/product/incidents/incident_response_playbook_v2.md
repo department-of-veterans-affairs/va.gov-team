@@ -1,4 +1,16 @@
-# Incident Response Plan
+# Application Monitoring And Incident Response Playbook
+
+## What We're Monitoring
+Monitoring is in place for multiple features across Travel Pay. There are no standard threshholds set for every feature. We continue to update and tweek levels in order to reduce noise and highlight key indicaors of an budding issue. As strategic deliverables are released the team will release new Datadog dashboards or add to existing ones to cover the updated functions. 
+
+  - [SMOC Web Performance Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=true&index=%2A&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754571611026&to_ts=1754658011026&live=true)
+  - [SMOC Mobile Performance Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754591648680&to_ts=1754678048680&live=true)
+  - [Travel Pay General Performance Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754663672000&to_ts=1754678072000&live=true)
+  - [Platform E2E Dashboard](https://vagov.ddog-gov.com/dashboard/u27-88d-58v/platform-e2e?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1754505297084&to_ts=1754678097084&live=true)
+  - [Claims Status Mobile Performance Dashboard] TBD - December, 2025
+  - [Complex Claims Performance Dashboard] TBD - January, 2026
+
+
 ## 🚨 First Reaction
 Do these 3 steps first, _before any investigation of root cause is done_.
 
@@ -129,6 +141,8 @@ be proactive in noticing and fixing production issues, we adhere to the followin
   - [SMOC Mobile Performance Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754591648680&to_ts=1754678048680&live=true)
   - [Travel Pay General Performance Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754663672000&to_ts=1754678072000&live=true)
   - [Platform E2E Dashboard](https://vagov.ddog-gov.com/dashboard/u27-88d-58v/platform-e2e?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1754505297084&to_ts=1754678097084&live=true)
+  - [Claims Status Mobile Dashboard] TBD - December, 2025
+  - [Complex Claims Performance Dashboard] TBD - January, 2026
 
 - Recent changes
   - [Merged PRs](https://github.com/search?q=repo%3Adepartment-of-veterans-affairs%2Fvets-website+type%3APR+author%3Akjduensing+author%3Aseesleestak+author%3Aliztownd+author%3Abellepx0+author%3Ascohen-theta+author%3Aasiisii+author%3Apmclaren19+is%3Amerged+&type=pullrequests)

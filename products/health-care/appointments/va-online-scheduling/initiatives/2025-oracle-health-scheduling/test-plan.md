@@ -1,9 +1,8 @@
 
-# Oracle Health Scheduling Test Plan
+# Oracle Health Scheduling Staging QA Test Plan
 
-Last Updated: YYYY-MM-DD
-Author: [Your Name/Team]
-Status: Draft
+Last Updated: 2025-12-15
+Author: [Shaimun Nakib/Appointments]
 
 ## Introduction & Overview
 
@@ -11,11 +10,12 @@ Status: Draft
 
 Adding support for scheduling Oracle Health appointments to the Appointments tool on VA.gov. 
 
-TODO: Link to any relevant design documents, user stories, or specifications (e.g., "Feature Spec Document").
+[Figma designs for OH scheduling flow](https://www.figma.com/design/EHR9zBpGnAgc7bHqeIGEoT/OH-Scheduling-MVP-%7C-Appointments-FE?node-id=7744-17062&t=dRXcalqg4bJq2uHJ-0)
+
 
 ### Goals of this Test Plan
 
-- Verify functionality of features
+- Verify functionality of features related to the new Oracle health scheduling flow
 
 ## Scope of Testing
 
@@ -27,7 +27,7 @@ TODO: Link to any relevant design documents, user stories, or specifications (e.
 
 ### Out of Scope
 
-[TBD]
+- Cancellation Flow
 
 ## Testing Objectives
 
@@ -52,17 +52,15 @@ Manually testing each scenario in Staging environment.
 
 ### Test Environment
 
-Describe the environment(s) where testing will occur (e.g., Development, Staging/QA, UAT).
+Testing will occure in the staging environment for va.gov
 
-Staging Environment: staging.va.gov
+Staging Environment: [staging.va.gov](https://staging.va.gov/)
 
-Test users:
+OH Test users:
 | Login Option  | Name |Username                   | Password |
 |---------------|-----------------------------|----------|---|
 | ID.me         | BEARDEDIPO, VANCE J (Patient/72228720) |vagovohtestpatient+beardedipo@gmail.com | ni^FcZ@3g0Md@slh |
 
-Login Option	Name	Username	Password
-ID.me	BEARDEDIPO, VANCE J (Patient/72228720)	vagovohtestpatient+beardedipo@gmail.com	ni^FcZ@3g0Md@slh
 
 ### Test Data Requirements
 
@@ -72,39 +70,47 @@ Test users with the following configurations:
 - No providers available for scheduling
 - No relationships with any providers
 
-[TODO] Review scenarios and fill this out.
-
 ### Tools
 
 - Manual testing
 - [Accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/accessibility-testing-checklist.md)
 
-## Test scenarios
+## Main Test scenarios
 
-| ID | Description                                                                         | Test Cases |
-|----|-------------------------------------------------------------------------------------|------------|
-|    | Verify user can access scheduling flow                                              |            |
-|    | Verify user is alerted if home address is missing from profile                      |            |
+- Verify user can access scheduling flow for Oracle health      
+- Verify User can request up to 2 appointment requests
+- Verify user cannot request appointments after having 2 existing requests
+- Verify user sees messaging for not having relationships with Providers in OH
 
+## Regression testing scnearios
 
+- Verify User can access Vista scheduling flow
+- Verify user can request appointments for Vista clincs
 
-## Test cases and steps
+## Test cases 
 
-Verify user is alerted if home address is missing from profile
-1. Remove home address from Profile
-2. Navigate to [URL]
-Success: Alert displays at top of page “To use some of the tool’s features, you need a home address on file”
-Failure: Alert does not display
+Test cases below wll focus on the main scenarios for testing the flow as well as additional paths/regression for testing. These test cases are housed in [DSVA Testrail](https://dsvavsp.testrail.io/index) instance.
 
-Verify user is not alerted if home address is present in profile
-1. Add home address to Profile
-2. Navigate to [URL]
-Success: Alert does not display at top of page
-Failure: Alert displays at top of page “To use some of the tool’s features, you need a home address on file”
- 
+| Test Case ID | Test Case Name | 
+| :---: | :--- |
+| [C157693](https://dsvavsp.testrail.io/index.php?/cases/view/157693)  | Verify user can schedule OH appointment flow | 
+| [C157705](https://dsvavsp.testrail.io/index.php?/cases/view/157705) | Verify Direct Scheduling when only single facility When request limit reached messaged  |
+| [C157700](https://dsvavsp.testrail.io/index.php?/cases/view/157700) | Verify Page: What date and time do you want for this appointment OH scenarios | 
+| [C157702](https://dsvavsp.testrail.io/index.php?/cases/view/157702) | Verify Contact Info Confirmation for OH Scenarios | 
+| [C157704](https://dsvavsp.testrail.io/index.php?/cases/view/157704) | Verify fetch error for choose a location for OH | 
+| [C157698](https://dsvavsp.testrail.io/index.php?/cases/view/157698) | Verify Page: Which Provider do you want to schedule with scneairos | 
+| [C157703](https://dsvavsp.testrail.io/index.php?/cases/view/157703) | Verify permutations for types of care work for direct scheduling flow | 
+| [C157709](https://dsvavsp.testrail.io/index.php?/cases/view/157709) | Verify Schedule Vista appt error states | 
+| [C157707](https://dsvavsp.testrail.io/index.php?/cases/view/157707) | Verify Schedule Vista appt Multiple Facilities Regression for New OH Flow Added |
+| [C157706](https://dsvavsp.testrail.io/index.php?/cases/view/157706) | Verify Single Facility is displayed | 
+| [C157694](https://dsvavsp.testrail.io/index.php?/cases/view/157694) | Verify user can request appointment for OH scheduling request flow | 
+| [C157695](https://dsvavsp.testrail.io/index.php?/cases/view/157695) | Verify user cannot request appointments after limit of creating 2 existing ones | 
+| [C157696](https://dsvavsp.testrail.io/index.php?/cases/view/157696) | Verify User see messaging for not having relationships with providers in OH 
+| [C157701](https://dsvavsp.testrail.io/index.php?/cases/view/157701) | Verify What's the reason for this appointment page OH scenarios |
+| [C157697 ](https://dsvavsp.testrail.io/index.php?/cases/view/157697) | OH Page: "Which Va Location would you like to go to" states |
+| [C157708](https://dsvavsp.testrail.io/index.php?/cases/view/157708) | Schedule Vista appt Single facility Regression for New OH Flow Added |
 
-
-
+### Page Behavior based on flow
 
 ## Page: Which VA location would you like to go to?
 
@@ -124,18 +130,15 @@ Failure: Alert displays at top of page “To use some of the tool’s features, 
 
 ## Page: Which provider do you want to schedule with?
 
+- Page displays providers the user can direct-schedule with for the selected type of care. 
+- Page displays providers the user can request appointments with for the selected type of care. 
+- Verify that provider's recent-visit configuration is correct for the type of care
+- Verify user can't request if over the limit 
+- Users can request appointments with providers they have seen before          
+- Display providers a user can call to schedule with.             
+- If system errors out when loading the list of providers, display an alert.            
 
-| ID | Description                                                                         | Test Cases |
-|----|-------------------------------------------------------------------------------------|------------|
-|    | Page displays providers the user can direct-schedule with for the selected type of care. |            |
-|    | Page displays providers the user can request appointments with for the selected type of care. |            |
-|    | Verify that provider's recent-visit configuration is correct for the type of care |       |
-|    | Verify user can't request if over the limit |   |
-|    | Users can request appointments with providers they have seen before |            |
-|    | Display providers a user can call to schedule with. |            |
-|    | If system errors out when loading the list of providers, display an alert. |            |
-
-
+## Direct Scheduling
 - Direct scheduling for type of care can be enabled or disabled
 
 System: Attempts to fetch available providers (GET /vaos/v2/relationships)
@@ -147,8 +150,7 @@ IF call succeeds, Continue
 
 System: Checks if direct scheduling and requests are enabled in VPG.
 
-
-
+## Provider Relantionship conditions
 - If the Veteran has had an appointment with a provider at this facility for this type of care in the past 36 months: include that provider in the list  
 
 - If at least one of the user’s registered or recent facilities has direct scheduling enabled and availability for this type of care:  
@@ -201,160 +203,17 @@ System: Checks if direct scheduling and requests are enabled in VPG.
 - User tries to go back and change care type: preserve data and flow  
 - Unexpected errors during scheduling: display general error fallback  
 
-## Cancelation scenarios
+## Defect Reporting
 
-Note: waiting on Spike on cancelation logic to write up testing plan
+During testing, any bugs/issues found will be documented and communicated to internal and external teams
 
+## Requirement Traciability Matrix
 
-[TODO: Work below into plan as needed]
+Testrail will house the test cases above and those test cases will have references to what features are tested. Once test execution is complete a coverage for references document will be linked to the [Staging collab cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87703)
 
-7. Entry and Exit Criteria
-7.1. Entry Criteria (Start Testing):
+## Risk Mitigation
 
-Conditions that must be met before testing can begin.
+Based on testing and any identification of Launch blocker issues, Staging review completeness may be adjusted given discussion between internal/ external teams and stakeholders. 
 
-Examples:
-
-Feature development is complete and deployed to the test environment.
-
-Test environment is stable and accessible.
-
-Required test data is available.
-
-Test plan reviewed and approved.
-
-Relevant documentation (specs, user stories) is available.
-
-7.2. Suspension Criteria (Pause Testing):
-
-Conditions under which testing will be temporarily halted.
-
-Examples:
-
-Critical bug blocks further testing of major functionality.
-
-Test environment becomes unstable or unavailable.
-
-7.3. Resumption Criteria (Resume Testing):
-
-Conditions under which testing will resume after suspension.
-
-Examples:
-
-Blocking defects are fixed and verified.
-
-Test environment is restored.
-
-7.4. Exit Criteria (End Testing):
-
-Conditions that signify testing is complete for the current phase.
-
-Examples:
-
-All planned test cases have been executed.
-
-A certain percentage of test cases have passed (e.g., 95% pass rate).
-
-No outstanding Critical or Major defects related to the core feature.
-
-All High priority bugs are fixed and verified.
-
-Test summary report is generated and reviewed.
-
-8. Test Deliverables
-List all documents or outputs that will be produced as part of the testing process.
-
-Examples:
-
-Test Plan (this document).
-
-Test Cases (if separate from this plan).
-
-Test Data.
-
-Bug Reports (logged in the tracking system).
-
-Test Execution Logs.
-
-Test Summary Report (detailing results, coverage, outstanding defects).
-
-Automation Scripts (if applicable).
-
-9. Risks and Mitigation
-Identify potential risks that could impact the testing effort and outline mitigation strategies.
-
-Examples:
-
-Risk: Feature requirements are ambiguous or change frequently.
-
-Mitigation: Regular meetings with product owners/developers for clarification; establish a clear change management process.
-
-Risk: Test environment instability.
-
-Mitigation: Dedicated support for the test environment; pre-testing environment checks.
-
-Risk: Insufficient time allocated for testing.
-
-Mitigation: Prioritize test cases based on risk; communicate resource needs early.
-
-Risk: Lack of appropriate test data.
-
-Mitigation: Plan and prepare test data in advance; develop scripts to generate data if needed.
-
-10. Roles and Responsibilities
-Define the roles involved in the testing process and their responsibilities.
-
-Examples:
-
-Test Lead/Manager: Overall test strategy, planning, resource allocation, reporting.
-
-QA Tester(s): Test case design, execution, bug reporting, retesting.
-
-Developer(s): Unit testing, bug fixing, providing technical support to QA.
-
-Product Owner/Manager: Clarifying requirements, UAT, approving releases.
-
-DevOps/SysAdmin: Environment setup and maintenance.
-
-11. Schedule (Optional)
-Provide a high-level timeline for testing activities.
-
-Examples:
-
-Test Plan Creation: YYYY-MM-DD to YYYY-MM-DD
-
-Test Environment Setup: YYYY-MM-DD
-
-Test Case Design: YYYY-MM-DD to YYYY-MM-DD
-
-Test Execution (Cycle 1): YYYY-MM-DD to YYYY-MM-DD
-
-Bug Fixing & Retesting: YYYY-MM-DD to YYYY-MM-DD
-
-Regression Testing: YYYY-MM-DD to YYYY-MM-DD
-
-Test Sign-off: YYYY-MM-DD
-
-12. Metrics
-Define the metrics that will be used to track testing progress and quality.
-
-Examples:
-
-Test Case Coverage (Executed Test Cases / Total Test Cases).
-
-Pass/Fail Rate (Passed Test Cases / Executed Test Cases).
-
-Defect Density (Number of Defects / Size of Feature or KLOC).
-
-Defect Severity Distribution (Number of Critical, Major, Minor defects).
-
-Defect Resolution Time.
-
-Requirements Coverage.
-
-Appendix (Optional)
-Glossary of terms.
-
-References to other relevant documents.
 
 

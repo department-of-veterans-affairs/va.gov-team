@@ -1,3 +1,5 @@
+**Deprecated on Sep 25, 2025. This initiative has been deprioritized and the document remains in draft mode.
+**
 # Intro (5 min)
 
 * Spiel, disclaimers, consent  

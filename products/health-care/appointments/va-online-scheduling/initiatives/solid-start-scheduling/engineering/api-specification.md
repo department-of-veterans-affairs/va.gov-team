@@ -32,7 +32,8 @@ Requests a One-Time Code (OTC) to be emailed for a user's authentication.
 {
   "data": {
     "message": "OTC sent to registered email address",
-    "expiresIn": 600
+    "expiresIn": 600,
+    "email": "e***@email.com"
   }
 }
 ```

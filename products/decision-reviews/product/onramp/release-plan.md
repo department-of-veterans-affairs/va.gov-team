@@ -5,9 +5,9 @@
 
 Feature flag toggle(s):
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+* There is no feature toggle.
+* The app is registered in the content-build repository in its registry.json file, which has a vagovprod flag currently set to false, meaning it does not deploy to production.
+* When we are ready to officially launch the app, we'll set this value to true, merge in the code, and wait for a content-build deployment, which happens daily at 10am ET.
 
 ## Step 2: Validation
 

@@ -12,7 +12,7 @@ We have the full file of all Accredited Representatives and VSOs, but not all ar
 
 Because data for current Accredited Representatives (VSOs, attorneys and claims agents) was collected from paper applications, addresses and other contact information was not validated at the time of submission.
 
-As a result, [number] of Accredited Reps have partial or invalid addresses on file in GCLAWS. We want to make these representatives discoverable in FAR, which matches either directly on Rep name or returning a list of matches using location and miles-away distance.
+As a result, 350+ Accredited Reps have partial or invalid addresses on file in GCLAWS. We want to make these representatives discoverable in FAR, which matches either directly on Rep name or returning a list of matches using location and miles-away distance.
 
 #### Out of scope: 
 
@@ -23,13 +23,13 @@ As a result, [number] of Accredited Reps have partial or invalid addresses on fi
 
 At a high level, we want to implement a vet-api backend-only behavior change -- no frontend UX changes or new public endpoints are needed.
 
-Because the search uses geocoding, but we have [number/proportion] of bad data, we would like to approximate the locations of these Reps using the information they have provided to the greatest extent possible. [A proportion] of the entries without valid addresses still contain a valid ZIP code or city-state pair (we prefer ZIP, where available, for greater precision).
+Because the search uses geocoding, but 3% of entries have invalid address data, we would like to approximate the locations of these Reps using the information they have provided to the greatest extent possible. Approximately 1/3 of the entries without valid addresses still contain a valid ZIP code or city-state pair (we prefer ZIP, where available, for greater precision).
 
 We propose using the Geocoder gem to create a lookup table mapping existing partial/invalid addresses (i.e., those with a valid ZIP or city-state pair) onto lat/long values, and adding these values to FAR so that these reps can be returned in a search. The use of a lookup table at runtime minimizes processing time and avoids duplicative API calls -- a given ZIP (or city-state pair) can be geocoded asynchronously, and once cached will be retrieved for all matching entries with O(1). 
 
 The Geocoder gem is compatible with a variety of APIs; we will use US Census ZCTA data as the initial source for the table, and we propose using the API Geocodio to handle city-state pairs and as a fallback for missing ZIPs. While this will require creating a Geocodio account, our expected level of utilization falls within the free service tier, and our permanent retention in the lookup table complies with their Terms of Service (which is not the case for, for example, the Google Maps geocoding API).
 
-In the longer term, other features in our roadmap (see Out of Scope above) should eventually moot the issue.
+In the longer term, other features in our roadmap (see Out of Scope above) should eventually moot the issue. That said, USPS does periodically update ZIP codes (additions/changes), and so in the meantime we'll need to conduct infrequent checks to see if any of our entries are affected.
 
 
 #### Desired User Outcomes

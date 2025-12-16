@@ -2,7 +2,8 @@
 
 **Quick Links**
 
-- [Team Members](#team-members) 
+- [Team Members](#team-members)
+- [Application Monitoring & Incident Response Planbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md) 
 - [Team Charter](https://docs.google.com/document/d/1Gk3Ry3avBGy9ExpSxS8M9XBQ2eY-CHMNmkMrqsAA_T8/edit?tab=t.0) (For Team Members Only)
 - [Team Calendar and Communication Groups](#team-calendar-and-communication-groups)
 - [Terminology](#terminology)
@@ -46,8 +47,10 @@
     | Channel | Use | 
     |---|---|
     | #beneficiary-travel-team | Start here. Main channel for any general product, engineering, or user experience communication for the team working on migrating the BTSSS functionality to the VA's VA.gov (web) and VAHB (mobile) modalities. |
+    | #beneficiary-travel-team-alerts | Automated alerts triggered from the traffic monitoring in place for Travel Pay Claims submitted via VA.gov (web) and VAHB (mobile) modalities. |
     | #btsss-product-ux-eng | Communication channel for OCTO primary stakeholders and the current Travel Pay delivery team. |
     | #travel-pay | Coordinated cross team communication related to the Travel Pay experience across web and mobile teams. |
+  
 
 ## Terminology
  - [Acronyms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/other/Acronyms.md)
@@ -82,7 +85,7 @@
 - Work-In-Progress (Web | Mobile)
 
 #### Production Support
-- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md)
+- [Monitoring & Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/incidents/incident_response_playbook_v2.md)
     - [Individual Incident Reports](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/beneficiary-travel/product/incidents)
 - Release Notes
 - Feature Flags

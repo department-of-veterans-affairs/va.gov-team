@@ -1,14 +1,14 @@
 ---
-title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
+title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort B]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
 last_modified: "[2025-12-11]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "For CHAMPVA eligility study for Veteran participants."
+description: "Specific for CHAMPVA eligibility study for family member participants."
 ---
-# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usabilty Study - January 2026 - COHORT A]
+# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usability Study - January 2026 - COHORT B, Blueberry First]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -37,7 +37,7 @@ description: "For CHAMPVA eligility study for Veteran participants."
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (also known as CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
+Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -84,30 +84,33 @@ Before we start, I have a few things that I want to go over with you:
  <mark>**[Record answer here]**</mark>
 
 
-# Warm-up Questions (COHORT 1 - VETERAN) - 5 minutes
+
+# Warm-up Questions (COHORT B - APPLICANT) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever applied for the the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program?
-- Should not be **enrolled** to qualify for study
+1. Do you receive health care benefits through the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+- If yes: should be no to have qualified for study
 
-2. Have you ever heard about the CHAMPVA program before?
-3. If so, can you explain to me in your own words what you know about eligibility of that program?
+2. Have you heard of the program before or have ever thought about applying?
 
+3. Can you explain your understanding of the program and eligibility in your own words?
 
-
-## First Task: [PROTOTYPE A - INTRO PAGE] - 5 minutes
-
-I'm going to share a link in chat with you of the first prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
+## Screenshare & Prototype Setup
+I'm going to share a link in chat with you of the prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
 
 - Great, I'm going to share that prototype link in the chat now.
-- [ ] Share link in chat of appropriate prototype A
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/research_plan.md#:~:text=Prototype%20for%20Applicants
+- [ ] Share link in chat of appropriate prototype for Veterans
 
 - Please open this link, it might take a minute to load being a prototype, and share that screen. Please let me know if you need help with that.
   
 - [ ] Tap on the button that says Share. Then there will be options for what to share. Please choose "Screen" (phone) or your web browser.
 - [ ] iPad: Broadcast screen
 
+- For our first task, please select Prototype Blueberry.
+
+## First Task: [PROTOTYPE BLUEBERRY - INTRO PAGE] - 5 minutes
 
 - On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you.
 - Is there anything here that would give you pause?
@@ -124,19 +127,25 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 
 
-## Second Task: [PROTOTYPE A - ELIGIBILITY PATTERN] - 5 minutes
+## Second Task: [PROTOTYPE BLUEBERRY - ELIGIBILITY PATTERN] - 5 minutes
 
-- For the scenario today, let's proceed with the application anyways (only if they state that they would not proceed)
-- Okay, go ahead and "?click on the blue alert box to move forward in the prototype)" (only if they state they would proceed)
-- Go through these next few questions and please remember to think aloud. A reminder, this is a protoype and you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here.
-- Whose information would you be entering on those screens? Was that easy to understand?
+- If they state they WOULD NOT proceed: For the scenario today, let's proceed with the application anyway.
+- If they state they WOULD proceed: Okay, go ahead and click on the blue alert box to move forward in the prototype.
 
 
-- [ ] Pause them when the arrive at the gray box eligibility screen
+- Since this is a prototype, we've pre-filled all of the information like you would if you're doing this for real.
+- Please go through these next few questions and remember to think aloud as much as possible. We want to hear your thoughts on the content and information here. You can click the "Continue" button when you're ready to proceed to the next page. (They can go back if they click on the breadcrumb link).
+
+
+- Was there anything confusing to you?
+
+- [ ] Pause them when they arrive at the gray box eligibility screen
 
 - In your own words, tell me what this page means and what you would do next if you were applying today.
   
 - On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section? Why did you give it that rating?
+
+- Go ahead and click on the "Continue" button at the bottom of the screen.
 
 
 > [!NOTE]
@@ -146,32 +155,49 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Does the participant say that anything is confusing, unclear or would need additional context?]
 
 
-## Third Task: [PROTOTYPE B - INTRO] - 5 minutes
 
-- Now we are going to switch gears and look through that second prototype I had mententioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+## Third Task: [PROTOTYPE BLUEBERRY - SIGNER SECTION] - 5 minutes
 
-- [ ] Share link in chat of appropriate prototype B
+- Being a prototype, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
+- For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
+- Navigate through the prototype now, focusing on the content and instructions around the next few pages. Please remember to think aloud. 
 
-- Again, on this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you?
+- Go ahead and click on the "Continue" button at the bottom of the screen, it will bring you back to the Prototype's main page.
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant have any issues with the content or understanding of the signer section?]
+> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
+
+----
+
+
+## Fourth Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
+
+- Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+
+- Go ahead and click on "Prototype Pineapple".
+
+- Again, on this first page, take a minute or so to look over the instructions, and when you're ready, in your own words, tell me what this means to you?
 - Is there anything that stands out to you compared to the first prototype you saw?
 
 - Would you take the same or a different action as compared to the other prototype? Would you still proceed with the application?
   
-- [ ] State their answer during the first task of prototype A - would they proceed or not
+- [ ] State their answer during the first task of prototype Blueberry - would they proceed or not
 
 - Would you give this page a different rating from the first prototype of how informed do you feel about the application? Why or why not?
-
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant have a different reaction to the intro page?]
-> - [Note: be aware of familiarity bias being so similar (? What are the differences? if any?)]
+> - [Note: be aware of familiarity bias being so similar (? What are the differences exactly? if any?)]
 
 
-## Fourth Task: [PROTOTYPE B - ELIGIBILITY] - 5 minutes
+## Fifth Task: [PROTOTYPE PINEAPPLE - ELIGIBILITY] - 5 minutes
 
-- For this prototype, proceed the same as you did before "?click on the blue alert box to move forward in the prototype)"
-- Go through these next few questions and please remember to think aloud. As the other one, you will only be able to click on the "Continue" button to proceed to the next question. We want to hear your thoughts on the content and information here too.
+- For this prototype, proceed the same as you did before by click on the blue alert box to move forward in the prototype.
+- Please go through these next few questions and remember to think aloud as much as possible. We want to hear your thoughts on the content and information here. You can click the "Continue" button when you're ready to proceed to the next page. (They can go back if they click on the breadcrumb link).
+
 - Whose information would you be entering on those screens? Was that easy to understand?
 
 - [ ] API Check step in prototype flow
@@ -180,9 +206,11 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 
 - What is your reaction to this eligibility determination you see on this screen?
 
+- [ ] Pause them when they arrive at the gray box eligibility screen
+
 - On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
 
-
+- (API Check Step, if they expressed confusion) Where would you like for for the system to give you that message instead? 
 
 > [!NOTE]
 > ### Things to watch for:
@@ -191,44 +219,56 @@ I'm going to share a link in chat with you of the first prototype, I'd like you 
 > - [Would the participant want to proceed through the form despite what the alert stated?]
 
 
-## Fifth Task: [PROTOTYPE B - ALERTS] - 10 minutes
 
-Now that we have gone through that second prototype, I want to walk through some scenarios and messaging with you to get your feedback. I will read a scenario to you before you click continue, then review the page you are shown and please state any questions you may have or feedback you could provide.
+## Sixth Task: [PROTOTYPE PINEAPPLE - SIGNER SECTION] - 5 minutes
 
 
-[Warning Alert - Veteran not in VA System] 
+- Same scenario, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
+- You have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
+- Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
 
-- In this first scenario, you entered in your information but for some reason your information, and you see the following message:
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant have any issues with the content or understanding of the signer section?]
+> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
 
-- [ ] Page with warning alert shown
+
+
+
+## Seventh Task: [ALERT MESSAGES] - 10 minutes
+
+- Now that we have gone through the second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
+- If you scroll down from the Prototype's main menu, you'll find a gray button labelled "warning alerts", go ahead and click on that.
+- I will read a scenario, then you'll review the message. Please state any questions you may have or feedback you could provide. 
+
+[Warning Alert A - Veteran not in VA System] 
+
+- In this first scenario, you entered in your information but for some reason your information and you see the following message:
 
 - Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
 
 - In this scenario, would you want to apply for CHAMPVA benefits despite the warning?
 
 
-[Warning Alert - Veteran not in DEERS] 
+[Warning Alert B - Veteran not in DEERS] 
 
 - In this next scenario, you entered in your information just as before, but now you see the following information:
-
-- [ ] Page with warning alert shown
 
 - Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
 
 - Would you want to apply for CHAMPVA benefits despite the warning here and what actions, if any, would you take before doing so?
 
-[Warning Alert - Veteran found in DEERS, eligible for Tricare] 
+
+[Warning Alert C  - Veteran found in DEERS, eligible for Tricare] 
 
 Third scenario, you see the following alert:
 
-- [ ] Page with warning alert shown
-
 - Again, same thing, think aloud about your impressions of this alert message.
 
-- For this scenario, would you feel more confident now before appling? 
+- For this scenario, would you feel more confident now before applying? 
 
 
-[Success Alert - maybe be eligible for CHAMPVA] 
+[Success Alert D - maybe be eligible for CHAMPVA] 
 
 - And the last scenario to go over, you see the following alert:
 
@@ -236,10 +276,12 @@ Third scenario, you see the following alert:
 
 
 
+
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant state they would not complete the application if they see one of the warning alert options?]
 > - [Does the participant state any actions they would need to take or what they would do if they thought the alert warning was incorrect?]
+
 
 
 # Post-Task Interview - 5 minutes
@@ -262,7 +304,7 @@ Third scenario, you see the following alert:
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans and family members you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 

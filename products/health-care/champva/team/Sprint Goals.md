@@ -2,6 +2,85 @@
 
 - Current Sprint first
 
+## 📆 Sprint 10 (Dec 17 – Dec 30) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
+- [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
+- [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
+- [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
+- [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
+- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
+- [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
+- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
+- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
+- [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
+- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
+- [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
+
+
+##
+### 10-10d
+- [ ] **SPRINT GOAL** 10-10d: Continue Staged Launch of 1010d/10-7959c Merge
+  - [ ] [[Product] 10-10d/10-7959c: Launch the 10-10d v2 and track progress](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124312)
+
+
+##
+### 10-7959a
+- No work this sprint
+
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** 10-7959c: Unblocked FE changes for new PDF to review/update - Intro page, Confirmation page, Signer, Bene, and OHI chapters
+  - [ ] [[FE] 10-7959c: Update Intro & Confirmation Pages #126787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126787)
+
+
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+
+##
+### 10-7959f-2 FMP Claims
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
+  - [ ] [[Research] FMP Claims 10-7959f-2: Direct Deposit Comprehension Analysis & Findings Report #124004](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124004)
+     
+
+##
+### All forms or Tech Debt
+- [ ] **SPRINT GOAL** All forms: Discovery for preventing stale data and documents from being submitted to Pega
+  - [ ] [[BE] 10-10D v2: Prevent stale data and documents from being submitted to Pega #126437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126437)
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
+  - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
+
+
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+- **BE**
+- [ ] **SPRINT GOAL** 10-10d: BE Turn on VES
+- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add MBI for 10-10dv2 and OHI standalone
+- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add future effective date for 10-10dv2 and OHI standalone
+
+
+##
+### Team PTO
+
+
+
 ## 📆 Sprint 9 (Dec 3 – Dec 16) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
@@ -23,7 +102,6 @@
 - [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
 - [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
 - [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
-
 
 
 ##

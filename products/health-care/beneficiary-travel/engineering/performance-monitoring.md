@@ -1,5 +1,5 @@
 
-## Attributes to monitor
+## Attributes to monitor (SMOC Web V1)
 |Attribute|Definition|Impact|Units|Status|
 |---------|----------|------|-----|------|
 |VA.gov - Endpoint error count|Number of non-200,201 status codes to va.gov endpoints|We're the first to know if our application begins experiencing errors|Count per `time_unit`|**Implemented**|

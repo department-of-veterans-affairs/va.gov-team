@@ -1,77 +1,85 @@
-# [WIP] Product Outline 
+# [WIP] Finding Claims Product Outline 
 
 
 ## Overview
-Veteran Readiness and Employment (VR&E) services are vital for Veterans with service-connected disabilities who are seeking employment and independent living. The RES-powered VR&E portal integrated within VA.gov directly addresses key usability and accessibility issues, transforming VA.gov into a personalized gateway for Veterans to determine eligibility, apply for benefits, and track their progress throughout the program lifecycle. This will provide a self-service case management hub that will allow Veterans to manage the full lifecycle of their VR&E journey. The Veteran will have capabilities from eligibility determination to comprehensive case management, including a Case Progress tracker, orientation tools, scheduling, VBMS upload functionality, and a career planning page. 
+The Claim Status Tool (CST) currently displays all claims in a single list without any functionality to help claimants easily locate a specific claim. As additional claim types are added, it will become increasingly important for claimants to find and review their claims efficiently within CST on the VA Mobile App and VA.gov.
+
+To start, we want to give users the ability to view open vs closed claims. But as new claim types are added, we'll want to explore possible alternatives for filtering (or sorting).
 
 ## Problem Statement
-As a Veteran, I want to manage the full lifecycle of my VR&E journey. As a Backend Developer I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. As a Frontend Developer I want to see the pages to chose from so users can access the information they need and perform actions as needed. As a UX Designer I want to confirm that users are able to navigate the self-management portal with little-to-no errors so that they can access the information they need and perform actions as needed. By creating a new page the Reapers team can ensure users have easy access to information and comply with CAIA guidelines.
- 
+As a Veteran or other claimant I want to filter all my open vs closed claims so that I can easily track down a specific claim.
+
 ## Desired User Outcomes
 
-- *Why would a user want to use this?* The self-management portal will allow the Veteran to manage the full lifecycle of their VR&E journey. The Veteran will have access to orientation tools, scheduling, VBMS uploads, and a career planning module.
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?* The Veteran will be able to view real-time updates and status information on their VR&E cases. Tools and resources will also be available to help Veterans understand and navigate the VR&E program, including guides, tutorials, and informational content.
+- *Why would a user want to use this?* 
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?* 
 
 ## Undesired User Outcomes
-Veterans are unaware of the status of their application/case. Users are unaware of next steps. Unexpected errors or outages.
+[lorem ipsum]
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?* Allows direct communication with the Veteran and provides information to the Veteran with the next steps. This will ultimately create a seamless experience for the Veteran when the Counselor has the information that they need to process a case.
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* The self-management portal will allow the Veteran to monitor and manager their VR&E journey. The Veteran will be able to take the appropiate steps to make sure they have provided all necessary information/documentation for their case to be processed.
+- *Why would your business want this to exist?* 
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
 
 ## Undesired Business Outcomes
-Reapers team does not meet contract timeline. All work must be completed and in production by March 12, 2026.
+
+[lorem ipsum]
 
 ---
 ## Measuring Success
-Transform and build on the existing eligibility page on VA.gov into a more interactive and personalized experience for Veterans. Integrate secure RES data Application Programming Interfaces (APIs) to enable real-time interactions with VA.gov. Enhance user experience (UX) components, including case progress tracker, orientation tools and resources, scheduling assistance, career planning module, and other usability improvements to facilitate smoother navigation and better interaction. Develop and implement a user-friendly portal User Interface (UI) that integrates seamlessly with the existing VA.gov infrastructure. Utilize the Single Sign On (SSO) capabilities to streamline the login process and enhance security for users accessing the VR&E portal.
+[lorem ipsum]
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
 
 #### Baseline KPI Values
+[lorem ipsum]
 
 ### Objectives and Key results (OKRs)
-Users navigate to the self-management portal and track and interact with their VR&E case journey.
-
+[lorem ipsum]
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?* Build a case progress tracker. Allow the user to view/schedule their orientation through the self-management portal. Give the Veteran the ability to assess their skills/hobbies to assist with a career plan/benefits.
-- *Why this solution / approach over other solutions / approaches?* This approach is best because it gives the Veteran the ability to monitor their case status and proceed with next steps without major delays.
+- *What are you going to build now, and why have you decided to start there?* 
+- *Why this solution / approach over other solutions / approaches?* 
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 - *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.* 
 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?* Banners throughout the pages Work with VA communications teams
-- *What marketing, outreach, or communications are necessary for this product to be successful?* Will create an updated user guide
+- *How are Veterans and others using this product going to know it exists?* 
+- *What marketing, outreach, or communications are necessary for this product to be successful?* 
 
 ## Launch Dates
 - *Target Launch Date*
-  - March 12, 2026
+  - [lorem ipsum]
 - *Actual Launch Date* 
-  - March 12, 2026
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?* April 2026
-
+  - [lorem ipsum]
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+  - [lorem ipsum]
+ 
 ---
 
 ## Solution Narrative
 
 ### Current Status
+[lorem ipsum]
 
 ### Key Decisions
+[lorem ipsum]
 
 ---
    
 ## Screenshots
 
 ### Before
+[lorem ipsum]
 
 ### After
+[lorem ipsum]
 
 ---
 
@@ -79,11 +87,11 @@ Users navigate to the self-management portal and track and interact with their V
 
 <details>
 
-- Team Name: Reapers
+- Team Name: Benefits Management Tools Team 1 of the Cross Benefits Crew (Mavericks) 
 - GitHub Label: 
-- Slack channel: 
-- Product POCs: Sunna Bennett, Robert Allender, Donna Robinson
-- Stakeholders: Sunna Bennett, Robert Allender, Donna Robinson
+- Slack channel: https://dsva.slack.com/archives/C08PBUZGP0Q
+- Product POCs: Amy Lai
+- Stakeholders: 
 
 </details>
 
@@ -92,9 +100,9 @@ Users navigate to the self-management portal and track and interact with their V
 <details>
  
  - DEPO Lead: 
- - PM: Stan Gardner
- - Engineering: Taras Kurilo, Mahfuzul Haque, Seth Solomon, Alvaro Escobar
- - Research/Design: Valentina Wickham
+ - PM: Kaiden Anderson 
+ - Engineering: Aurora Hampton
+ - Research/Design: Dina Beigelman
  
 </details>
 

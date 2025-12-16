@@ -112,12 +112,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 23 [12/3/25 - 12/16/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|--|
-|FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|--|
-|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|--|
-|UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|--|
-|UX: Establish November monthy Meadallia report.| QP7 |--|--|--|
-|UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|--|
+|BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|Completed|
+|FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|Completed|
+|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|Not Completed|
+|UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|Completed|
+|UX: Establish November monthy Meadallia report.| QP7 |--|--|Completed|
+|UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|Not Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [x] Ready to be sent for approvals (12/2/25)
@@ -127,6 +127,29 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  
 **_Delivery + Notes:_**
 - [x] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+## Sprint Goals - Sprint: 24 [12/17/25 - 12/30/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Complete Pay.gov Overpayments design revisions based off design intent feedback.| QP4 |--|--|--|
+|UX: Begin building the Pay.gov Overpayments research prototype (step 1).| QP4 |--|--|--|
+|UX: Draft the Pay.gov Overpayments research plan for the prototype stage research study.| QP4 |--|--|--|
+|UX: Create initial draft of Product Guide for “Managing Overpayments| QPX |--|--|--|
+|TEAM: Review open tickets in OTPP S.Epic #106610 and reassign as appropriate to Payment History S.Epic #18859 in order to close completed epics.| QP2 |--|--|--|
+|ENG: Complete Veteran facing post release items for digital dispute.| QP1 |--|--|--|
+|ENG: Create the Lighthouse API endpoint test coverage &swagger documentation.| QP4 |--|--|--|
+|ENG: Complete the mock data setup for the Lighthouse copay API endpoint cross referencing the ID’s as needed.| QP4 |--|--|--|
+|ENG: Obtain client id and successfully gain access to the Lighthouse production API.| QP4 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [x] Ready to be sent for approvals (12/16/25)
+ - [x] VA PO & COR sent the Sprint Goals (12/16/25)
+ - [ ] VA PO approved the Sprint Goals (12/XX/25)
+ - [ ] VA COR approved the Sprint Goals (12/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
   
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  

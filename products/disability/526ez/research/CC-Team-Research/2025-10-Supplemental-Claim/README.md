@@ -17,7 +17,7 @@ _(add links as these are created)_
 - [Prototype(s)](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6524-47192&viewport=487%2C-7286%2C0.7&t=iysFGHlWrbJqCNTW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6524%3A47192&show-proto-sidebar=1)
 
 #### Research summation artifacts:
-- Top-line summary
+- [Top-line summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Top-line-Summary.md)
 - [VA recruitment checker for equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1601397161#gid=1601397161&range=A1)
 - Final report
 - Presentation PDF (optional)
