@@ -40,13 +40,12 @@ EDS offers three classes of inquiry: Family, Family Member, and Person
 
 **Required Information**
 All inquires must include the following information:
-- Inquiry type: Family, Family Member, or Person
-- Business context
-- Inquiry healthcare program type
-- Begin and end dates for the inquiry period
-- The begin date may not be greater than six (6) years in the past from the current date and the end date may not be greater than six (6) months into the future
-- Person identification number for either sponsor, or inquiry person, or both
-- Person identification type code for sponsor, inquiry person, or both
+- [Inquiry Type](#choosing-an-inquiry-type): Family, Family Member, or Person
+- [Business context](#business-context)
+- [Inquiry healthcare program type](#inquiry-healthcare-program-type-healthcare-delivery-program-hcdp-type)
+- [Begin and end dates for the inquiry period](#inquiry-date-range)
+- [Person identification number](#identification-number-type-codes) for either sponsor, or inquiry person, or both
+- [Person identification type code](#identification-number-type-codes) for sponsor, inquiry person, or both
 
 **Flow diagram of client requests and responses**:
 <img width="884" height="522" alt="image" src="https://github.com/user-attachments/assets/87e25506-f639-47d0-bf6e-d2aba750985f" />
