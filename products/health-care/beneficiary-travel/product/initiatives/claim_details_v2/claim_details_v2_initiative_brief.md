@@ -44,14 +44,14 @@ Veterans often have denied travel pay claims, and research has shown that while 
 | Call center volume re: appeals                                  | \--      | \-30%  | Call Center      |
 
 ### How will we determine what VAHB travel pay entry points are used by Veterans? What entry points should remain or be removed?
-- Each month for 3 months post release, calculate:
+- Each month for 3 months post data monitoring availability, calculate:
   - Total clicks to the travel pay claim status section via all of the following entry points:
     - Health landing page
     - Benefits > Claims landing page
     - Payments landing page
   - Total clicks to travel pay claim status section for each entry point
   - % of total clicks to travel pay claim status section each entry point makes up
-- 3 months after release, review % averages for each entry point and make a decision on what entry points remain. If an entry point falls below 10% usage of total clicks, then remove that entry point.
+- 3 months data availability, review % averages for each entry point and make a decision on what entry points remain. If an entry point falls below 10% usage of total clicks, then remove that entry point.
 ---
 
 ## Discovery
