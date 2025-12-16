@@ -123,8 +123,8 @@
 - [ ] **STRETCH GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM to avoid PII leak with EC/NOK data
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#124791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124791) - [FE] Tech debt clean-up
-- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
+- [x] **SPRINT GOAL** [#124791](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124791) - [FE] Tech debt clean-up
+- [x] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
 - [ ] **SPRINT GOAL** [#121401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121401) - [FE] Financials data disappearing from Review & Submit pg
 - [ ] **SPRINT GOAL** [#121396](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121396) - [FE] Back button formatting
 
@@ -138,7 +138,7 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#125597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125597) - [QA] Complete testing on Intro page looping fix
+- [x] **SPRINT GOAL** [#125597](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125597) - [QA] Complete testing on Intro page looping fix
 
 
 ## 
