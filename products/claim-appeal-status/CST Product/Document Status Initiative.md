@@ -1,9 +1,10 @@
 # CST: Document Status Initiative
 
-* GitHub Label:
-* Slack channel: #benefits-management-tools
-* Product: CST
-* GitHub Issue: [Link Pending]
+- GitHub Label: `evidence-submission-status`, `document-status`
+- Slack channel: #benefits-management-tools
+- Product: Claim Status Tool (CST) - Document Status
+- GitHub Issue:
+  - Collaboration Cycle for Benefits Management Tools Team 1, Claim Status Tool, Document Status Initiative [#96773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96773)
 
 # Executive Summary
 
@@ -11,28 +12,28 @@ This initiative aims to validate the value of providing Veterans with real-time,
 
 # Problem Statement(s)
 
-* Veterans currently lack real-time visibility into the status of their evidence submissions within CST, leading to uncertainty and unnecessary stress.
-* Veterans may only learn about failed document submissions after delays, which reduces their opportunity to take timely corrective action.
-* A lack of clarity on document submission statuses results in increased support inquiries from Veterans seeking information.
-* When a document submission fails, Veterans may not understand the appropriate next steps, potentially causing a loop of re-uploads that lead to further silent failures.
+- Veterans currently lack real-time visibility into the status of their evidence submissions within CST, leading to uncertainty and unnecessary stress.
+- Veterans may only learn about failed document submissions after delays, which reduces their opportunity to take timely corrective action.
+- A lack of clarity on document submission statuses results in increased support inquiries from Veterans seeking information.
+- When a document submission fails, Veterans may not understand the appropriate next steps, potentially causing a loop of re-uploads that lead to further silent failures.
 
 # Desired Outcomes
 
-* Veterans gain real-time transparency into the status of their evidence submissions, allowing them to track each stage in the process (e.g., "Pending," "Received," "Failed").
-* Veterans experience reduced anxiety due to timely updates, gaining confidence in the document submission process.
-* Veterans receive clear, actionable feedback on failed submissions, including instructions on how to resolve issues, empowering them to take immediate corrective action.
-* CST experiences a decrease in support inquiries related to document submission status.
+- Veterans gain real-time transparency into the status of their evidence submissions, allowing them to track each stage in the process (e.g., "Pending," "Received," "Failed").
+- Veterans experience reduced anxiety due to timely updates, gaining confidence in the document submission process.
+- Veterans receive clear, actionable feedback on failed submissions, including instructions on how to resolve issues, empowering them to take immediate corrective action.
+- CST experiences a decrease in support inquiries related to document submission status.
 
 # Audiences Served
 
-* Veterans with pending evidence submissions for disability compensation claims within CST.
+- Veterans with pending evidence submissions for disability compensation claims within CST.
 
 # Assumptions
 
-* Veterans will benefit from increased clarity in document status updates and failure notifications within CST.
-* Real-time status transparency will enhance Veterans' confidence and reduce anxiety during the evidence submission process.
-* Providing in-app failure notifications will improve Veterans' ability to take effective, timely corrective actions.
-* In-app status updates will complement email notifications, providing Veterans with additional clarity and reducing the need for support inquiries.
+- Veterans will benefit from increased clarity in document status updates and failure notifications within CST.
+- Real-time status transparency will enhance Veterans' confidence and reduce anxiety during the evidence submission process.
+- Providing in-app failure notifications will improve Veterans' ability to take effective, timely corrective actions.
+- In-app status updates will complement email notifications, providing Veterans with additional clarity and reducing the need for support inquiries.
 
 # Core Bet
 
@@ -42,60 +43,72 @@ Our core bet is that by providing real-time, in-app status updates and failure n
 
 ## Approach
 
-* Create a low-fidelity interactive prototype to test the in-app status update and failure notification features with Veterans.
-* Conduct user interviews and usability testing to gather insights on user expectations, preferred feedback types for submission failures, and general satisfaction with real-time updates.
+- Create a low-fidelity interactive prototype to test the in-app status update and failure notification features with Veterans.
+- Conduct user interviews and usability testing to gather insights on user expectations, preferred feedback types for submission failures, and general satisfaction with real-time updates.
 
 ## In Scope
 
-* Real-time status updates for document submissions within CST.
-* In-app failure notifications with instructions on next steps for failed submissions.
+- Real-time status updates for document submissions within CST.
+- In-app failure notifications with instructions on next steps for failed submissions.
 
 ## Out of Scope
 
-* Notification types or failure statuses unrelated to evidence submissions within CST.
-* Other claim tools or status notifications outside the CST environment.
+- Notification types or failure statuses unrelated to evidence submissions within CST.
+- Other claim tools or status notifications outside the CST environment.
 
 ## How we will know if we are right (KPIs)
 
-* Improvement in user comprehension of document submission statuses, as measured by survey responses and task completion rates in usability tests.
-* Increased engagement with in-app status updates, shown through metrics on how frequently users check document status in the app.
-* Higher success rates in Veterans taking appropriate corrective actions following in-app failure notifications.
-* Reduction in related support inquiries or complaints to the Contact Center.
+- Improvement in user comprehension of document submission statuses, as measured by survey responses and task completion rates in usability tests.
+- Increased engagement with in-app status updates, shown through metrics on how frequently users check document status in the app.
+- Higher success rates in Veterans taking appropriate corrective actions following in-app failure notifications.
+- Reduction in related support inquiries or complaints to the Contact Center.
 
 ## Open Questions
 
-* What type of feedback is most effective for Veterans in the event of a submission failure?
-* How can we best communicate next steps or corrective actions when a submission fails?
-* What metrics can we use to measure user anxiety reduction and overall satisfaction with the submission process?
-* How can we ensure that in-app status updates complement the information Veterans receive via email?
+- What type of feedback is most effective for Veterans in the event of a submission failure?
+- How can we best communicate next steps or corrective actions when a submission fails?
+- What metrics can we use to measure user anxiety reduction and overall satisfaction with the submission process?
+- How can we ensure that in-app status updates complement the information Veterans receive via email?
 
 ## Incident Response Info
+
 ### POC:
-* Enablement Team:
+
+- Enablement Team:
+
   - Amy Lai (amy.lai2@va.gov)
   - Julie Strothman (Julie.Strothman@va.gov)
   - Cory Sohrakoff (Cory.Sohrakoff@va.gov)
- 
-* Slack Channels:
-  * [#benefits-bmt-team-2](https://dsva.slack.com/archives/C09ADJQ0KUZ)
-  * [#benefits-management-tools](https://dsva.slack.com/archives/C04KHCT3ZMY)
-  * [#benefits-management-tools-notifications](https://dsva.slack.com/archives/C0600QN7CFJ)
 
-### Monitoring: 
-* [GA Dashboard](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
-* [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard)
-* [Datadog Monitors](https://vagov.ddog-gov.com/monitors/manage?q=claim%20status%20tool)
+- Slack Channels:
+  - [#benefits-bmt-team-2](https://dsva.slack.com/archives/C09ADJQ0KUZ)
+  - [#benefits-management-tools](https://dsva.slack.com/archives/C04KHCT3ZMY)
+  - [#benefits-management-tools-notifications](https://dsva.slack.com/archives/C0600QN7CFJ)
+
+### Monitoring:
+
+- [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard)
+- [GA Dashboard](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
+- [Datadog Monitors](https://vagov.ddog-gov.com/monitors/manage?q=claim%20status%20tool)
 
 ### Response:
-Feature will remain behind the feature flag while being developed and for a monitoring period defined in the [Release Plan](../document-status/release-plan.md). 
+
+Feature will remain behind the feature flag while being developed and for a monitoring period defined in the [Release Plan](../document-status/release-plan.md).
 
 In the event of an incident during release or post-release monitoring period:
-  1. the feature flag [cst_show_document_upload_status](https://api.va.gov/flipper/features/cst_show_document_upload_status) will be disabled
-  2. Fix identified and implemented
-  3. Fix applied and deployed (OOB if necessary)
-  4. Feature re-enabled
-  5. Continue Monitoring
+
+1. the feature flag [cst_show_document_upload_status](https://api.va.gov/flipper/features/cst_show_document_upload_status) will be disabled
+2. Fix identified and implemented
+3. Fix applied and deployed (OOB if necessary)
+4. Feature re-enabled
+5. Continue Monitoring
+
+### Playbook
+
+- [CST Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/claims-status-tool-montoring-playbook.md)
+- [BMT Watch Duty](https://dsva.slack.com/docs/T03FECE8V/F09LHQ1BRJN)
 
 ## Resources
-* [Release Plan](../document-status/release-plan.md)
-* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md)
+
+- [Release Plan](../document-status/release-plan.md)
+- [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md)

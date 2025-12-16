@@ -1,47 +1,51 @@
-# Your VA Benefit Letters and Documents Release Plan
+# Document Status Release Plan
 
 | Toggle name                                                                                              | Description                                                         |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [`cst_show_document_upload_status`](https://api.va.gov/flipper/features/cst_show_document_upload_status) | Enables ability to show upload status from EvidenceSubmission table |
+| [`cst_update_evidence_submission_on_show`](https://api.va.gov/flipper/features/cst_update_evidence_submission_on_show) | Enables ability to poll Lighthouse for up-to-date evidence submission status (backend polling) |
 
-[DataDog Dashboard](#) // TODO: Link Datadog Dashboard
+Dashboards and Monitoring
+- [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits-claim-status-tool-dashboard)
+- [Monitors](https://vagov.ddog-gov.com/monitors/manage?q=claim%20status%20tool)
+- [GA Dashboard](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
+
 
 #### Rollout Planning
 
-- Desired date range: TBD
+- Desired date range: _**Tentatively, Jan/Feb 2026**_
 - How will you make the product available in production while limiting the number of users who can find/access it:
-  - We will leverage the existing feature flipper to control the percentage of users who should be able to access.
+  - We will leverage the existing feature toggle to control the percentage of users who will be able to access the new functionality.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - TBD
+  - Datadog error rates for claims `#index` and `#show` endpoints (consistent with the previous pages, excluding 401/403 authentication issues)
+  - Low error rates <5% for `#files-we-couldnt-receive` endpoint (excluding 401/403 authentication issues)
 - Links to the dashboard(s) showing "success criteria" metrics:
-  - TBD
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits-claim-status-tool-dashboard)
 - Who is monitoring the dashboard(s)?:
   - BMT2 Team
 
-_The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs._
 
 ### Stage A: 25% of users
-
-_Test a small Veteran population to ensure any obvious bugs/edge cases are found._
-
-25% seems like a safe starting point since we aren't modifying any underlying data, and we are just providing a new experience in the way Veterans view these pages in the Claim Status Tool.
+25% seems like a safe starting point as we are just providing a new experience in the way Veterans view these pages in the Claim Status Tool.
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: 2-3 days
 - Percentage of Users: 25%
 
 #### Results
 
-- Number of unique users: TBD
+- Estimated number of users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - TBD
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Was any downstream service affected by the change?:
-  - TBD
+  - [FILL_IN]
 - Types of errors logged:
-  - TBD
+  - [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-  - TBD
+  - [FILL_IN]
 
 ### Stage B: 50% of users
 
@@ -49,20 +53,22 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: [FILL_IN]
 - Percentage of Users: 50%
 
 #### Results
 
-- Number of unique users: TBD
+- Estimated number of users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - TBD
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Was any downstream service affected by the change?:
-  - TBD
+  - [FILL_IN]
 - Types of errors logged:
-  - TBD
+  - [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-  - TBD
+  - [FILL_IN]
 
 ### Stage C: 75% of users
 
@@ -70,20 +76,22 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: [FILL_IN]
 - Percentage of Users: 75%
 
 #### Results
 
-- Number of unique users: TBD
+- Estimated number of users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - TBD
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Was any downstream service affected by the change?:
-  - TBD
+  - [FILL_IN]
 - Types of errors logged:
-  - TBD
+  - [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-  - TBD
+  - [FILL_IN]
 
 ### Stage D: 100% of users
 
@@ -91,20 +99,22 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: TBD
+- Length of time: [FILL_IN]
 - Percentage of Users: 100%
 
 #### Results
 
-- Number of unique users: TBD
+- Estimated number of users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - TBD
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Was any downstream service affected by the change?:
-  - TBD
+  - [FILL_IN]
 - Types of errors logged:
-  - TBD
+  - [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
-  - TBD
+  - [FILL_IN]
 
 ## Post Launch metrics
 
@@ -112,10 +122,12 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+
+- Estimated number of users: [FILL_IN]
+- Post-launch KPI - Error Rates:
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no | N/A
@@ -123,10 +135,11 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-month results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Estimated number of users: [FILL_IN]
+- Post-launch KPI - Error Rates:
+  - #index: [FILL_IN]
+  - #show: [FILL_IN]
+  - #files-we-couldnt-receive: [FILL_IN]
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no | N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no | N/A
