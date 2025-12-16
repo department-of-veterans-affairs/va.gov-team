@@ -81,11 +81,11 @@ Users navigate to the self-management portal and track and interact with their V
 
 <details>
 
-- Team Name: Reapers
+- Team Name: Benefits Management Tools Team 1 of the Cross Benefits Crew (Mavericks) 
 - GitHub Label: 
-- Slack channel: 
-- Product POCs: Sunna Bennett, Robert Allender, Donna Robinson
-- Stakeholders: Sunna Bennett, Robert Allender, Donna Robinson
+- Slack channel: https://dsva.slack.com/archives/C08PBUZGP0Q
+- Product POCs: Amy Lai
+- Stakeholders: 
 
 </details>
 
@@ -94,9 +94,9 @@ Users navigate to the self-management portal and track and interact with their V
 <details>
  
  - DEPO Lead: 
- - PM: Stan Gardner
- - Engineering: Taras Kurilo, Mahfuzul Haque, Seth Solomon, Alvaro Escobar
- - Research/Design: Valentina Wickham
+ - PM: Kaiden Anderson 
+ - Engineering: Aurora Hampton
+ - Research/Design: Dina Beigelman
  
 </details>
 
