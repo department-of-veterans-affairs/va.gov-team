@@ -74,10 +74,8 @@ Secondary study goals will be addressed in the full research report.
 
 - For prototype Apple, we were concerned that the visual hierarchy created by the bold subheads between options would make it harder for Veterans to find the option to add a new disability.
 
-<p align="center">
-  <img width="300" height="640" src="https://github.com/user-attachments/assets/239d1799-72ff-4304-9f34-51d4d8f3046c" alt="Screenshot of the 'Add a condition' screen from Prototype Apple, showing sections for rated and denied conditions." style="border: 2px solid #b0b0b0; border-radius: 2px;"/>
-</p>
-
+|<img width="200" height="429" src="https://github.com/user-attachments/assets/239d1799-72ff-4304-9f34-51d4d8f3046c" alt="Screenshot of the 'Add a condition' screen from Prototype Apple, showing sections for rated and denied conditions."/>|
+|---|
 
 - Most participants had no trouble identifying “A condition I haven’t claimed before” as the option for adding a new condition.
 - However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
