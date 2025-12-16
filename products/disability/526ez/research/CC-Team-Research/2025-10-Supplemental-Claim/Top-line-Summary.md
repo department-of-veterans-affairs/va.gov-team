@@ -76,6 +76,8 @@ Secondary study goals will be addressed in the full research report.
 
 <img width="301" height="678" alt="Screenshot 2025-12-16 at 12 02 40" src="https://github.com/user-attachments/assets/239d1799-72ff-4304-9f34-51d4d8f3046c" />
 
+<img src= "[image.jpg](https://github.com/user-attachments/assets/239d1799-72ff-4304-9f34-51d4d8f3046c)" alt="Screenshot of the 'Add a condition' screen from Prototype Apple, showing sections for rated and denied conditions." style="border: 2px solid grey;">
+
 
 - Most participants had no trouble identifying “A condition I haven’t claimed before” as the option for adding a new condition.
 - However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
