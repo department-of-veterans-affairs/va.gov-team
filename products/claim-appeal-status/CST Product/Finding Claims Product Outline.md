@@ -15,6 +15,7 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?* 
 
 ## Undesired User Outcomes
+[lorem ipsum]
 
 ## Desired Business Outcomes
 
@@ -22,19 +23,20 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
 
 ## Undesired Business Outcomes
-
+[lorem ipsum]
 ---
 ## Measuring Success
-
+[lorem ipsum]
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
 
 #### Baseline KPI Values
+[lorem ipsum]
 
 ### Objectives and Key results (OKRs)
-
+[lorem ipsum]
 
 ## Solution Approach
 
@@ -51,26 +53,31 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 
 ## Launch Dates
 - *Target Launch Date*
-  - 
+  - [lorem ipsum]
 - *Actual Launch Date* 
+  - [lorem ipsum]
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+  - [lorem ipsum]
   - 
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?* April 2026
-
 ---
 
 ## Solution Narrative
 
 ### Current Status
+[lorem ipsum]
 
 ### Key Decisions
+[lorem ipsum]
 
 ---
    
 ## Screenshots
 
 ### Before
+[lorem ipsum]
 
 ### After
+[lorem ipsum]
 
 ---
 
