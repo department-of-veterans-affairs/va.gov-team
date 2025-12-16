@@ -18,13 +18,11 @@
 - [ ] **SPRINT GOAL** All forms: Update Datadog dashboards for the Overall dashboard and 10-10dv2 dashboard to ensure consistency and accuracy 
 - [ ] **SPRINT GOAL** All forms: Implement improved logging to trace submissions end to end, identify specific error points, and provide PEGA with additional info for troubleshooting
 - [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning & Prototyping
-- [ ] **SPRINT GOAL** UX: 10-10d: Add MBI to merged form
+- [ ] **SPRINT GOAL** UX: 10-10d: Add MBI to 10-10d form
 - [ ] **SPRINT GOAL** UX: 10-10d: Add birth cert for newborns
-- [ ] **STRETCH GOAL** 10-10d: FE Staging Review Findings
+- [ ] **STRETCH GOAL** 10-10d: FE Add MBI to 10-10d form
 - [ ] **STRETCH GOAL** 10-10d/10-7959c: FE Add future effective medicare to OHI and 10-10d
-- [ ] **STRETCH GOAL** 10-7959a: FE Staging Review Findings
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
-- [ ] **STRETCH GOAL** 10-7959c: FE Add MBI to OHI form
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit Edits
 - [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
 
