@@ -8,7 +8,6 @@
 
 
 **Jump to:**
-- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
 - [Key findings](#user-content-key-findings)
 - [Recommendations](#user-content-recommendations)
 - [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
@@ -40,16 +39,6 @@ In this research we are specifically exploring Veteran and business (education) 
 **Moderation style:** Moderated \- facilitator led  
 **Location:** Remote over Zoom  
 **Timeframe:** 60 minutes
-
-
-## Hypotheses and Conclusions
-| Hypothesis | Evidence | Conclusion |
-| :---- | :---- | :---- |
-| Business submitters have to use workarounds to get the information they need from Ask VA. | | |
-| Using Ask VA to submit education and work study documentation is overly burdensome to business submitters. | | |  
-| Veteran submitters expect a simple contact form allowing them to ask any question. | | |
-| Veteran submitters don’t understand the internal routing processes to get their question to the right person. | | |
-
 
 
 ## Key Findings
