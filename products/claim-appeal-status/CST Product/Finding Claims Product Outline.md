@@ -23,7 +23,9 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
 
 ## Undesired Business Outcomes
+
 [lorem ipsum]
+
 ---
 ## Measuring Success
 [lorem ipsum]
@@ -58,7 +60,7 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
   - [lorem ipsum]
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - [lorem ipsum]
-  - 
+ 
 ---
 
 ## Solution Narrative
