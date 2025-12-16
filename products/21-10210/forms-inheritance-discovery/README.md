@@ -399,7 +399,7 @@ _Teams often start with T-shirt sizes during early planning, then refine into st
 - 👕 Small = Monitoring
 - 👕 Extra Large = Engineering
 
-### Aditional notes
+### Additional notes
 
 Design flow and Figma components largely comply with expected VADS standards, but several imposter components and outdated patterns still require replacement with DST v3 elements to ensure consistency. Content patterns and punctuation remain out of sync, with Figma text differing from staging and production; labels and body text need edits to correct punctuation, misplaced commas, and em dash usage so that design and content align across all environments.
 
