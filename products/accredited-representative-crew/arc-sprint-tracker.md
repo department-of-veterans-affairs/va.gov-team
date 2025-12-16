@@ -61,7 +61,8 @@ TBD
 **Team Benefits**:
 1. **[ITF] MVP - Development**: MVP development, team QA, prepare for release
 2. **[ITF] MVP Epic - Design**: Draft content updates for the Help page
-3. **[Claimant Details] ARC Discovery Research: Understanding how Reps manage the claims cycle across all clients**: Ongoign recruitment and interviews
+3. **[Claimant Details] MVP - Design**: Design adjustments
+4. **[Claimant Details] ARC Discovery Research: Understanding how Reps manage the claims cycle across all clients**: Ongoign recruitment and interviews
 11. **[ARP Post-MVP] Cleanup Tasks**: Accessibility audit (submissions page, 526EZ, 686c), Representation Requests - Update POA endpoints to send POA data to CorpDb
 12. **[Rep Onboarding] Paralyzed Veterans of America**: Resolve issues from bulk contact update
 13. **[Rep Onboarding] Coordinate with LEAF team to produce feature demo videos**: Provide video feedback
