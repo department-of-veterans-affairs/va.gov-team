@@ -50,7 +50,7 @@ All inquires must include the following information:
 **Flow diagram of client requests and responses**:
 <img width="884" height="522" alt="image" src="https://github.com/user-attachments/assets/87e25506-f639-47d0-bf6e-d2aba750985f" />
 
-#### Choosing an Inquiry Type
+### Choosing an Inquiry Type
 
 <img width="822" height="155" alt="image" src="https://github.com/user-attachments/assets/1afcd9eb-34c4-4108-85ea-481e9da16183" />
 
