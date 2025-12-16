@@ -81,19 +81,20 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 ## Sprint 5 Tickets
 
 **Team Accreditation**
-|Title                                                                                                                               |URL                                                                        |Status        |Estimate|
-|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|
-|Chapter 6: Document Upload - Create a new endpoint to handle document uploads for 21a                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765|In Progress   |8       |
-|General Onboarding to ARC [Sam]                                                                                                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125504|In Progress   |5       |
-|Chapter 6: Document Upload - Create a background job that's called after the form has been posted to GCLAWS to post the file uploads|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114767|Sprint Backlog|5       |
-|Testing the Accreditation API in Production                                                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323|Sprint Backlog|3       |
-|Enable the Accreditation API Integration in Production                                                                              |https://github.com/department-of-veterans-affairs/va.gov-team/issues/106367|Sprint Backlog|3       |
-|Create Product Outline for invalid-address approximation API                                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126527|Sprint Backlog|2       |
-|Kick off Collab Cycle for invalid-address approximation API                                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126534|Sprint Backlog|1       |
-|Prepare for Architecture Intent for invalid-address approximation API                                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126258|Sprint Backlog|2       |
-|Create Product Outline for SQL API Daily Job                                                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126542|Sprint Backlog|2       |
-|Kick off Collab Cycle for SQL API Daily Job                                                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126543|Sprint Backlog|1       |
-|Prepare for Architecture Intent for SQL API Daily Job                                                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126544|Sprint Backlog|2       |
+|Title|URL|Status|Estimate|Stretch goal?|Reason for carry over|
+|---|---|---|---|---|---|
+|General Onboarding to ARC [Sam]|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125504|Done|5|||
+|Kick off Collab Cycle for invalid-address approximation API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126534|Done|1|||		
+|Create Product Outline for SQL API Daily Job|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126542|Done|2|||
+|Kick off Collab Cycle for SQL API Daily Job|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126543|Done|1|||
+|Create Product Outline for invalid-address approximation API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126527|QA|2||Work still in progress|
+|Add existing edge-case-handling code from VSOs to address validation for Reps|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126952|External Review|3|Yes|Pending Platform/External Team review|
+|Testing the Accreditation API in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323|PR Review|3||Work still in progress|
+|Enable the Accreditation API Integration in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/106367|Blocked|3||Blocked|
+|Chapter 6: Document Upload - Create a new endpoint to handle document uploads for 21a|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765|In Progress|8||Work still in progress|
+|Chapter 6: Document Upload - Create a background job that's called after the form has been posted to GCLAWS to post the file uploads|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114767|In Progress|5||Work still in progress|
+|Prepare for Architecture Intent for invalid-address approximation API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126258|In Progress|2||Work still in progress|
+|Prepare for Architecture Intent for SQL API Daily Job|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126544|In Progress|2||Work still in progress|
 
 
 **Team Benefits**
