@@ -97,11 +97,64 @@ The email responses from Ask VA are not helpful in determining an inquiries' sta
 Tickets are also closed before a business submitter can respond. Forcing them to open a new ticket and putting them at the back of the queue. This can cause financial hardships for students.​
 
 ## Recommendations
+#### NOW (Near-term / In scope)
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+### 1. Keep categories first in the flow
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Veteran, without categories or topics to frame my question, I feel less confident and unsure whether I’m submitting my question in the right place.
+
+### 2. Reorganize the categories and topics taxonomy
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Veteran, the list of categories and topics is helpful but feels long and overwhelming.
+
+### 3. Research which Veteran-used categories do not allow attachments
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Veteran, I want to include attachments with any question I ask, but attachments aren’t allowed for all categories.
+
+### 4. Review business requirements related to attachments (Agent Research)
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User stories:**  
+  - As a Veteran, I want to include attachments with any question I ask.  
+  - As a Business Submitter, most of my submissions include attachments, and I use the question field to describe the attachment.
+
+### 5. Determine whether attachments should be allowed across all question types
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Veteran, I want to include attachments with any question I ask.
+
+### 6. Keep attachments on the same page as the question field
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Business Submitter, most of my submissions include attachments, and I use the question field to describe the attachment.
+
+### 7. Evaluate removing or repurposing the subject field; explore adding a student name field
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User stories:**  
+  - As a Veteran, the subject field is redundant with category and topic but required for education submissions.  
+  - As a Business Submitter, I use the subject field to identify the student, but it does not appear in the inbox.
+
+### 8. Introduce a dedicated flow for Business Submitters
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Business Submitter, my category never changes, but I am required to enter it every time.
+
+### 9. Move away from card-based layouts toward a table/list view
+- **Related finding:** List view aligned more closely with users’ mental models and supported easier navigation  
+- **User story:** As a Veteran or Business Submitter, I want to clearly and quickly view my questions, but card formatting makes it difficult to understand order, content, or status.
+
+### 10. Extend horizontal space for filters/search and add a third column
+- **Related finding:** List view aligned more closely with users’ mental models and supported easier navigation  
+- **User story:** As a Veteran or Business Submitter, I want to more easily scan, filter, and understand the status of my submissions.
+
+---
+
+#### NEXT / LATER (Future exploration)
+
+### 11. Explore more engaging, less list-heavy ways to display category/topic options
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Veteran, the list of categories and topics is helpful but feels long and overwhelming.
+
+### 12. Explore editable contact information for Business Submitters
+- **Related finding:** Different use cases for Veterans and Business Submitters  
+- **User story:** As a Business Submitter, my school and contact information never change, but I am required to re-enter them.
+
 
 ## Next Steps
 
