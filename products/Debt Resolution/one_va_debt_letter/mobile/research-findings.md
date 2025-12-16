@@ -111,8 +111,7 @@ synthesis_tools_used:
 
 **Contacts:** Emily DeWan (UX Researcher), Natasha Huckleberry (UX Designer)
 
-**🚧 🚧 🚧[Research Readout (PDF)](link-here)**  
-*Add a link to your research readout deck, if available.*
+**[Research Readout (PDF)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/One-VA-Debt-Letter-mobile-app_research_readout_presentation.pdf)**  
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
