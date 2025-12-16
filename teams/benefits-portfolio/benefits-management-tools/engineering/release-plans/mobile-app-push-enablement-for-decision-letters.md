@@ -5,11 +5,14 @@ For more details, see this [addendum](https://github.com/department-of-veterans-
 
 ## Step 1: Development
 
-Development was done behind a feature flag, following the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
+Development was done behind a feature flag, following the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide).
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [event_bus_gateway_emails_enabled](https://api.va.gov/flipper/features/event_bus_gateway_emails_enabled) | When enabled, vets-api opens an endpoint to Event Bus Gateway for sending notification emails. |
+| [va_notify_push_notifications](https://api.va.gov/flipper/features/va_notify_push_notifications) | When enabled, va-notify will lazily initialize a new Client that allows for the send_push method to be called |
+| [event_bus_gateway_push_notifications](https://api.va.gov/flipper/features/event_bus_gateway_push_notifications) | When enabled, for each non-filtered event, eventbus-gateway will call the new vets-api endpoint send_notifications which will asyncronousy send emails and push notifications |
+| [event_bus_gateway_letter_ready_push_notifications](https://api.va.gov/flipper/features/event_bus_gateway_letter_ready_push_notifications) | Flag that will be used for the progressive rollout, it can be enabled for a specifc user or a percentage of actors. We will be using the icn as the determining feature |
+
 
 ## Step 2: Validation
 
@@ -17,38 +20,31 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work with any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Testing of all permutations of the feature flags. Confirm no regression in the send_email endpoint as well as correct push notifications sent.
+- [ ] Confirm that logging has not changed and that existing Dashboards are working
+- [ ] Implement dashboard or add to existing dashboard to track push notifications
+- [ ] Previously the eventbus-gateway sign-on token was scoped only to the `send_email` endpoint.  Confirm that the identity team has updated the config in production to accept both the `send_email` and `send_notifications` endpoints
+- [ ] Similar to above the eventbus-gateway vsp-infra-application-manifests configuration for `tokenScope` must be updated to accept both `send_email` and `send_notifications`
+- [ ] Confirm that VANotify has, in production, created the preferences for "Benefits Claims and Decision Reviews" 
+- [ ] Confirm that VANotify has populated the preference retroactively to all users
+- [ ] Confirm the Mobile App team has completed any desired testing
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-### Rollback process
-
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
-
-Our PM and PO will monitor analytics, e.g. DataDog. If they notice a spike in errors, they will alert the team to disable the feature flipper.
+We will be performing a progressive rollout to be able to minimize the production impact of any issues.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: ___
-- Desired number of users: ___
-- How you'll recruit the right production test users: ___
-- How you'll conduct the testing: ___
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: ___
+- Desired date range or test duration: TBD
+- Desired number of users: 1
+- How you'll recruit the right production test users: Liana Fleming has identified a veteran who is willing to assist.
+- How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with the recruit's participant ID.
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: Gateway will not be connected to the production Kafka topic at this time, so our manual testing will be the only push notificatio being sent. We will also set the `event_bus_gateway_letter_ready_push_notifications` to only be enabled for the recruit's icn.
 
 #### Results
 
@@ -56,24 +52,21 @@ Our PM and PO will monitor analytics, e.g. DataDog. If they notice a spike in er
 - Number of bugs identified / fixed: ___
 - Was any downstream service affected by the change?: ___
 - Types of errors logged: ___
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: ___
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?: ___
 - If yes, what: ___
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
-We recommend that the rollout plan has ___ stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
 #### Rollout Planning
 
-- Desired date range: ___
-- How will you make the product available in production while limiting the number of users who can find/access it: ___
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - DataDog error rate below 5%
-  - Click through rate above xx%
+- Desired date range: TBD
+- How will you make the product available in production while limiting the number of users who can find/access it: By using the feature flag `event_bus_gateway_letter_ready_push_notifications` and the `enable_percentage_of_actors` feature to enable it for a percentages of users by icn. 
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: TBD - we are still analyzing success metrics
+  - [ ] DataDog error rate below 5%
+  - [ ] Click through rate above xx%
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: ___
+- Who is monitoring the dashboard(s)?: BMT3 (Liana Fleming)
 
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
 ### Stage A: Canary
 
@@ -82,14 +75,15 @@ We recommend that the rollout plan has ___ stages, each increasing the number of
 #### Planning
 
 - Length of time: 4 hours / 150-200 users
-- Percentage of Users (and roughly how many users do you expect this to be): 2% of Kafka messages
+- Percentage of Users (and roughly how many users do you expect this to be): 2% of icns
 
 #### Results
 
 - Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
-    - [ ] 31.4% click through rate
+    - [ ] xx.x% click through rate (if we can determine this)
+    - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: __
 - Types of errors logged: ___
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
@@ -109,7 +103,8 @@ We recommend that the rollout plan has ___ stages, each increasing the number of
 - Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
-    - [ ] 52.0% click through rate overall
+    - [ ] xx.x% click through rate overall
+    - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: ___
 - Types of errors logged: ___
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
@@ -128,7 +123,8 @@ We recommend that the rollout plan has ___ stages, each increasing the number of
 - Number of unique users: ___
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
-    - [ ] 40.7% click through rate overall
+    - [ ] xx.x% click through rate overall
+    - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: ___
 - Types of errors logged: 
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
@@ -147,7 +143,8 @@ We recommend that the rollout plan has ___ stages, each increasing the number of
 - Number of unique users: ____
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
-    - [ ] 38.2% click through rate overall
+    - [ ] xx.x% click through rate overall
+    - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: __
 - Types of errors logged: 
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
@@ -165,9 +162,14 @@ We recommend that the rollout plan has ___ stages, each increasing the number of
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
     - [ ] xx.x% click through rate overall
+    - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: ___
 - Types of errors logged: 
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? 
+
+### Rollback process
+
+Rollback will be done by disabling feature flags. To disable all push notifications we will set `event_bus_gateway_letter_ready_push_notifications` to 0%.  This will ensure that all push notifications are stopped. To be thorough we can also disable the other feature flags mentioned above.
 
 ## Post Launch metrics
 
