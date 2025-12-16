@@ -373,6 +373,7 @@ Additional research could be conducted to address gaps from the current study, i
 ### 🚧 🚧 🚧Other supporting documents created
 
 *Include links to additional materials, e.g., personas, user flows.*  
+- [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1645174246#gid=1645174246)
 
 
 ### 🚧 🚧 🚧Secondary research
