@@ -66,9 +66,11 @@ The learnings from this study will be used to determine critical fixes prior to 
 
 3. Can the participant successfully edit and delete an expense?
 
-4. How does the participant navigate within the tool? 
+4. How does the participant navigate within the tool?
 
-5. Can the participant successfully submit a claim? 
+5. Can a participant leave their claim and then return to it at a later time to add expenses or submit?
+
+6. Can the participant successfully submit a claim? 
 
 ### Hypotheses
 
