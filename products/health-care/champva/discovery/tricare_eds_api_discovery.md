@@ -54,9 +54,6 @@ All inquires must include the following information:
 
 <img width="822" height="155" alt="image" src="https://github.com/user-attachments/assets/1afcd9eb-34c4-4108-85ea-481e9da16183" />
 
-Providing any of the identification number types listed in the table above offers the fastest and most complete response to a query.
-Some form of identification number is required in all types of EDS queries.
-
 - If you require only the personal information for a sponsor and do not need information on that sponsor’s family, create a `person` pull using one of the sponsor’s known identification numbers
 - Use a `family` pull if you are certain of the sponsor’s identity but have limited or no information on a dependent of the sponsor
 - A `familyMember` pull using a sponsor’s ID (sponsorPersonID) and the dependent’s details (personId and personIdTypeCode, OR personFirstName, OR personBirthDate) will return the eligibility information for that dependent under that specific sponsor, along with that sponsor’s information. In the event that multiple dependents within the family are a match, such as in the case of twins sharing a date of birth, both dependents’ information will be returned.
@@ -85,6 +82,8 @@ DMDC works with new users of EDS to identify the appropriate business context to
 If the inquiry is within the valid inquiry period the CCD totals will only return the current fiscal year and two (2) years prior.
 
 ### Identification Number Type Codes
+Providing any of the identification number types listed in the table below offers the fastest and most complete response to a query. Some form of identification number is required in all types of EDS queries.
+
 EDS will attempt to match on both current and past identification numbers but will filter out matches on past IDs if multiple instances of the same ID are returned.
 
 <img width="343" height="385" alt="image" src="https://github.com/user-attachments/assets/163b6d0e-1ed9-486d-9618-c80a232f9465" />
