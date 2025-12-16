@@ -12,7 +12,6 @@
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
 - [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
-- [ ] **SPRINT GOAL** 10-7959c: BE Prepare for launch
 - [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
 - [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
 - [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
