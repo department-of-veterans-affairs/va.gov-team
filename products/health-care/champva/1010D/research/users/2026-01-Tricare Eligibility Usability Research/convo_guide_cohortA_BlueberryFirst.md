@@ -6,7 +6,7 @@ last_modified: "[2025-12-11]"
 tags:
   - "[Moderated]"
   - "[Mid-Fidelity Prototype]"
-description: "For CHAMPVA eligility study for Veteran participants."
+description: "For CHAMPVA eligibility study for Veteran participants."
 ---
 # Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usability Study - January 2026 - COHORT A, Blueberry First]
 
