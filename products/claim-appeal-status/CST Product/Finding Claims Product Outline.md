@@ -1,4 +1,4 @@
-# [WIP] Product Outline 
+# [WIP] Finding Claims Product Outline 
 
 
 ## Overview
