@@ -99,7 +99,7 @@ Returns a JWT token for further API access on success.
     "token": "<JWT token string>",
     "expiresIn": 3600,
     "tokenType": "Bearer",
-    "email": "test@email.com"
+    "email": "e***@email.com"
   }
 }
 ```
