@@ -53,45 +53,44 @@ Rasa offers three primary pricing tiers:
 
 **Self-Hosted Scaling:** Scaling is entirely the organization's responsibility. Can be deployed on Kubernetes for horizontal scaling, but requires proper infrastructure configuration and monitoring.
 
-**LLM Efficiency:** CALM architecture is designed to work with smaller, fine-tuned models, which can reduce latency and costs compared to using large models for every interaction. The deterministic flows prevent unnecessary LLM calls.
+**LLM Efficiency:** CALM architecture is designed to work with smaller, fine-tuned models, which can reduce latency and costs compared to using large models for every interaction. The deterministic flows prevent unnecessary LLM calls. I think this is because the LLM is only used for understanding user input, while the flow logic is handled separately, similarly to our LLM router prototype.
 
-**Infrastructure Requirements:** Organizations need to provision and maintain adequate server resources, including compute for the Rasa server, action server, database storage, and potentially hosting their own LLM models.
+**Infrastructure Requirements:** We need to provision and maintain adequate server resources, including compute for the Rasa server, action server, database storage, and potentially hosting their own LLM models. NOTE: the action server is separate from the main Rasa server and is where custom Python actions run, so this does add additional infrastructure complexity.
 
-**Performance Optimization:** Full control over infrastructure allows for optimization specific to use case, but requires DevOps expertise. Can be optimized for voice applications with fast response times.
+Infrastructure deployment guides:
+- [AWS playbook](https://www.rasa.com/docs/learn/deployment/aws/aws-playbook-intro)
+- [Azure playbook](https://www.rasa.com/docs/learn/deployment/azure/azure-playbook-intro)
+- [GCP playbook](https://www.rasa.com/docs/learn/deployment/gcp/gcp-playbook-intro)
+
+**Performance Optimization:** Full control over infrastructure allows for optimization specific to use case, but requires DevOps expertise, which we don't have dedicated staff for.
 
 ## **Integration Capabilities**
 
-**Custom Actions:** Python-based custom actions provide unlimited integration possibilities with any API, database, or internal system. However, all integrations must be developed and maintained by the organization.
+**Custom Actions:** Python custom actions are what power the custom integrations with any API, database, or internal system. However, all integrations must be developed and maintained by the organization, and they run in a separate action server.
 
-**Channel Support:** Built-in connectors for common messaging platforms (Slack, Facebook Messenger, Telegram, etc.) and web chat. Custom channel connectors can be developed for specific needs.
+**Channel Support:** Built-in connectors for common messaging platforms (Slack, Facebook Messenger, Telegram, etc.) and web chat. We would be just concerned with web chat at this time.
 
-**Open Architecture:** Because it's self-hosted with open APIs, Rasa can integrate with any system an organization can access. No vendor lock-in for integrations.
-
-**LLM Provider Integration:** Seamless integration with major LLM providers through configurable endpoints. Organizations can also host their own LLM models for complete data sovereignty.
-
-**Development Required:** Unlike managed services, most integrations require custom development work. Pre-built integrations are limited compared to cloud-native platforms.
+**Development Required:** Unlike managed services, most integrations are going to require custom dev work. Pre-built integrations are pretty limited compared to cloud-native platforms like Lex or even Bot Framework.
 
 ## **Language & Multi-lingual Support**
 
-**Extensive Language Support:** Rasa's NLU components support many languages, with performance varying based on available training data and the LLM used for dialogue understanding.
+**Extensive Language Support:** The NLU components support many languages, but performance is really based on available training data and the LLM used for dialogue understanding. If the LLM supports multiple languages, then the NLU will perform well across those languages.
 
-**LLM-Based Understanding:** When using CALM with LLMs, language support depends on the chosen LLM provider. Modern LLMs like GPT-4 support 100+ languages, providing strong multi-lingual capabilities.
-
-**Training Data Requirements:** For non-English languages using traditional NLU, significant training data may be required for good performance. The CALM architecture reduces this burden by leveraging LLMs.
+**Training Data Requirements:** For non-English languages using traditional NLU (OSS or more stripped down functionality), a pretty large amount of training data would be required for good performance. The CALM architecture reduces this burden by leveraging LLMs, so if the LLM supports multiple languages, then it will help the overall performance.
 
 ## **Migration**
 
-**Complete Rebuild Required:** Migrating from MS Bot Service to Rasa requires complete re-architecture of the chatbot. There is no compatibility with Bot Framework SDK code, Direct Line protocol, or existing Azure integrations.
+**Complete Rebuild Required:** Migrating from MS Bot Service to Rasa would require a complete re-architecture of the chatbot. There is no compatibility with Bot Framework SDK code, Direct Line protocol, or existing Azure integrations.
 
 **Paradigm Shift:** Moving to CALM requires rethinking conversation design from intent-based to flow-based patterns. This is not just a code migration but a conceptual shift in how conversations are structured.
 
-**Infrastructure Migration:** All infrastructure must be rebuilt for self-hosting, including deployment pipelines, monitoring, logging, and scaling configurations.
+**Infrastructure Migration:** Infrastructure must be updated for the requirements of self-hosting Rasa specific requirements, including deployment pipelines, monitoring, logging, and scaling configurations. We wouldn't really know up front what those exact requirements would be without a full architecture design, but we do know that the actions server would be a new component to manage, in addition to the main Rasa/application server.
 
 **Integration Rewrite:** Every custom action, API integration, and external service connection must be reimplemented in Python using Rasa's action server framework.
 
-**Testing & Validation:** Extensive testing required to ensure feature parity and correct behavior in the new system. Training data collection and flow design are critical to success.
+**Testing & Validation:** All new tests, because it's an all new system.
 
-**Timeline:** Expect a migration timeline of several months to a year for complex systems, depending on the number of features, integrations, and conversation flows.
+**Timeline:** Considering the complete rebuild and learning curve, a migration project could take several months to a year depending... just a guess.
 
 ## **Support**
 
@@ -103,28 +102,29 @@ Rasa offers three primary pricing tiers:
 
 **Community Resources:** Active community forum, extensive documentation, learning center with tutorials, and open-source codebase on GitHub for transparency and community contributions.
 
-**Professional Services:** Available for consultation, implementation assistance, and training. Additional cost beyond licensing.
+## **Conclusion on Rasa Pro**
 
-## **Conclusion**
-
-Rasa Pro represents a fundamentally different approach to conversational AI compared to MS Bot Service. Its CALM architecture is innovative, combining LLM flexibility with deterministic control. The self-hosted model provides complete data sovereignty and eliminates vendor lock-in, which can be advantageous for organizations with strict security requirements.
+Rasa Pro represents a fundamentally different approach to conversational AI compared to MS Bot Service. Its CALM architecture is rather innovative, combining LLM flexibility with deterministic control. The self-hosted model provides full control over data and infrastructure, which means that hosting on Azure or AWS GovCloud is feasible for compliance.
 
 However, for VA.gov specifically, Rasa presents several critical challenges:
 
-**Compliance Blockers:** Lack of FedRAMP authorization and restrictive terms requiring Rasa's prior authorization for government/military use create significant compliance uncertainty. The terms around restricted industries and data ownership conflict with federal requirements.
+**Compliance Blockers:** Lack of FedRAMP authorization and restrictive terms requiring Rasa's prior authorization for government/military use create significant compliance uncertainty. The terms around restricted industries and data ownership could conflict with federal requirements.
 
-**Infrastructure Investment:** The self-hosted model requires substantial infrastructure, DevOps expertise, and ongoing maintenance. Organizations must build and maintain their own deployment pipelines, monitoring systems, and scaling solutions.
+**Infrastructure Investment:** The self-hosted model requires substantial infrastructure, DevOps expertise, and ongoing maintenance. Our Bot Service setup offloads much of this burden to Microsoft and Direct Line. We only had to manage the application code and integrations like blob storage and Cosmos, and we would need to manage a bit more with Rasa.
 
-**Development Expertise:** Requires deep Python expertise and understanding of the CALM paradigm. The learning curve is steep, and the pool of developers with Rasa experience is smaller than for mainstream platforms.
+**Development Expertise:** Requires solid Python expertise and understanding of the CALM paradigm. The learning curve is a bit steep, and the pool of developers with Rasa experience is smaller than for mainstream platforms. Especially around Rasa Pro, their documenation is good, but the online resources and community articles are much more limited compared to other longer established platforms or frameworks like Langchain.
 
-**Migration Complexity:** Moving from MS Bot Service would be a complete rebuild rather than a migration. This represents significant development time and risk with no incremental migration path.
+**Migration Complexity:** Moving from MS Bot Service would be a complete rebuild rather than a migration.
 
-While Rasa's technical capabilities are impressive and the CALM architecture solves real problems in conversational AI, the lack of government authorization, restrictive licensing terms, and self-hosting complexity make it a high-risk choice for VA.gov. The existing MS Bot Service infrastructure, despite its limitations, provides FedRAMP compliance and managed services that reduce operational burden - factors that are critical for government applications serving millions of veterans.
+While Rasa's technical capabilities are impressive and the CALM architecture solves real problems in conversational AI, the lack of government authorization, restrictive licensing terms, and self-hosting complexity make it a high-risk choice for VA.gov.
 
+**Lack of Benefits for the Cost:** While Rasa Pro's CALM architecture is indeed somewhat innovative, I don't see the massive benefit, especially when the pricing for the Growth tier starts at $35,000 annually, which is not insignificant. If we still have to host and manage the entire stack ourselves, and we have to get Rasa's permission to use it for VA.gov, then the value proposition is pretty weak compared to moving to an OSS solution like Langchain or even sticking with Bot Framework and dealing with the migration to MS365 Agents SDK.
+
+---
 
 ## Rasa OSS spike work - setup and POC exploration notes
 
-Previous explorations in the spike work that we built out used 'rasa-pro' which requires an license key, does transmit some telemetry, and would be limited to 1000 conversations a month. Generally I think that if we were going to host Rasa on azure we would want to go with the OSS version, and to investigate further we should spool up a backend not using rasa-pro.
+Previous explorations in the spike work that we built out used 'rasa-pro' which requires an license key, does transmit some telemetry, and would be limited to 1000 conversations a month on the Developer Plan. Generally I think that if we were going to host Rasa on azure we would want to go with the OSS version, and to investigate further we should spool up a backend not using rasa-pro. The following notes are from that exploration.
 
 ## Installation and initialization
 
@@ -147,3 +147,6 @@ Spun up a set of training data from the root-bot-artifact-dev.json to reformat i
 ## Using CQA for intent classification
 
 Instead of using the locally trained model for intent classification, I figured it would be more realistic to hook directly up to the CQA endpoint and use it for intent classification and see how easily a custom action is configured for such a process. This process involved building out the CQA client in python module, integrating it into an action for Rasa, and then configuring `rules.yml` file to use the action. I encountered some trouble trying to set up a "global override" so that every intent/query would use the CQA action by default, so I had to configure every intent to use the action, which made the rules file over 1000 lines itself, which seems like a code smell. I was able to get the setup to work and use the external dev endpoint for CQA calls in the end and it performed similarly for single queries to how the chatbot behaves.
+
+## Conclusion for Rasa OSS spike
+Rasa OSS is very similar to Rasa Pro in terms of architecture and development experience, but lacks the CALM features and LLM integrations. Rasa Pro is really built around the CALM paradigm, so without it, Rasa OSS feels more like a traditional chatbot framework with basic NLU capabilities. It is basically the Bot Framework SDK equivalent, but in a different flavor. From a configuration standpoint, it is very YAML heavy, which can be both a pro and a con depending on developer preferences. Adam personally doesn't love YAML for large configurations, because it is easy to make syntax mistakes that are hard to debug, and linking from one file to another can get tricky without relying on "magic strings" for references.
