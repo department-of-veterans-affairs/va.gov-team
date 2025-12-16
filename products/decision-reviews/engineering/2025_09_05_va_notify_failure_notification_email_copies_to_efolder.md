@@ -1,5 +1,7 @@
 # Uploading a Copy of VA Notify-sent Failure Notification Emails to a Veteran's eFolder LOE (Option 4) Spike Writeup 
 
+Note: For details on what was actually implemented, see: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/engineering/2025_12_16_va_notify_failure_notification_email_copies_to_efolder_updated.md
+
 ## Table of Contents
 
 - [Background Context](#background-context)
