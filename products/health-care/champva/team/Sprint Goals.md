@@ -7,23 +7,26 @@
 
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10d: Monitor health of 1010d/10-7959c Merge
-- [ ] **SPRINT GOAL** 10-10d: VES fwd proxy and turn on VES data feed
-- [ ] **SPRINT GOAL** 10-10dv2: Prevent stale data and documents from being submitted to Pega
-- [ ] **SPRINT GOAL** 10-10dv2: FE Add MBI
-- [ ] **SPRINT GOAL** All forms: Troubleshoot and fix issues with VES JSON
-- [ ] **SPRINT GOAL** All forms: Monitor incidents - Add New Logs
-- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning
-- [ ] **SPRINT GOAL** UX: 10-7959c: Add MBI to OHI form
-- [ ] **SPRINT GOAL** UX: 10-7959c: Add Medicare Future Eligibility to OHI form
-- [ ] **SPRINT GOAL** UX: 10-7959f-2: Synthesize research study findings
-- [ ] **SPRINT GOAL** UX: All forms: November Monthly Metrics & Medallia
-- [ ] **STRETCH GOAL** 10-7959c: Discovery for OHI - VES Integration
+- [ ] **SPRINT GOAL** 10-10d: Update access to VES fwd proxy to prep for launch
+- [ ] **SPRINT GOAL** 10-10d: Prevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10d: Object type cleanup and confirmation email updates
+- [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
+- [ ] **SPRINT GOAL** 10-7959c: FE Add MBI to OHI form
+- [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
+- [ ] **SPRINT GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF to prepare for launch
+- [ ] **SPRINT GOAL** All forms: Investigate and reproduce 403/422 errors in DD, report issues to platform
+- [ ] **SPRINT GOAL** All forms: Update Datadog dashboards for the Overall dashboard and 10-10dv2 dashboard to ensure consistency and accuracy 
+- [ ] **SPRINT GOAL** All forms: Implement improved logging to trace submissions end to end, identify specific error points, and provide PEGA with additional info for troubleshooting
+- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning & Prototyping
+- [ ] **SPRINT GOAL** UX: 10-10d: Add MBI to merged form
+- [ ] **SPRINT GOAL** UX: 10-10d: Add birth cert for newborns
+- [ ] **STRETCH GOAL** 10-10d: FE Staging Review Findings
+- [ ] **STRETCH GOAL** 10-10d/10-7959c: FE Add future effective medicare to OHI and 10-10d
+- [ ] **STRETCH GOAL** 10-7959a: FE Staging Review Findings
+- [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
 - [ ] **STRETCH GOAL** 10-7959c: FE Add MBI to OHI form
-- [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
-- [ ] **STRETCH GOAL** 10-7959c: Blocked FE changes for new PDF to review/update remaining items - Medicare chapter
-- [ ] **STRETCH GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF
-- [ ] **STRETCH GOAL** 10-7959c: BE Proof of Concept to Combine Front and Back OHI/Medicare Card Images
-- [ ] **STRETCH GOAL** 10-7959a: Eng Update Itemized Billing Statement/EOB Language
+- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit Edits
+- [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
 
 
 ##
