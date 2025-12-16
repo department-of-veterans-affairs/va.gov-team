@@ -1,6 +1,6 @@
 ---
 title: "VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing, 12/16/25"
-author: Jessica Sutantio, Riley Orr, Kevin Shih
+author: Jessica Sutantio, & Riley Orr
 date_created: 12/16/25
 last_modified: 12/16/25
 tags:
@@ -13,7 +13,8 @@ description: "VSR conversation guide for usability testing of the 686c MVP Form 
 ---
 
 # VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing Ver. Grape
-This is the grape-first (showing digital PDF first after the current PDF) version of the conversation guide. The orange-first (showing baseline minimal first after the current PDF) conversation guide is located here.
+This is the grape-first (showing digital PDF first after the current PDF) version of the conversation guide. The orange-first (showing baseline minimal first after the current PDF) conversation guide is located in [VSR-conversation-guide-orange.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/VSR-conversation-guide-orange.md).
+
 NTH = "nice to have" questions that are not required and will be asked if time permits
 
 ## Moderator logistics 📋✅
