@@ -7,15 +7,15 @@
 
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10dv2: Monitor health of 1010d/10-7959c Merge
-- [ ] **SPRINT GOAL** 10-10dv2: Update access to VES fwd proxy to prep for launch
-- [ ] **SPRINT GOAL** 10-10dv2: Prevent stale data and documents from being submitted to Pega
-- [ ] **SPRINT GOAL** 10-10dv2: Object type cleanup and confirmation email updates
+- [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
 - [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
 - [ ] **SPRINT GOAL** 10-7959c: BE Prepare for launch
-- [ ] **SPRINT GOAL** All forms: Investigate and reproduce 403/422 errors in DD, report issues to platform
-- [ ] **SPRINT GOAL** All forms: Update Datadog dashboards to ensure consistency and accuracy 
-- [ ] **SPRINT GOAL** All forms: Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
+- [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
+- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
+- [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
