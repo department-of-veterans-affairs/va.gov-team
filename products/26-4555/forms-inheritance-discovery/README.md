@@ -371,7 +371,7 @@ _Teams often start with T-shirt sizes during early planning, then refine into st
 - 👕 Small = Monitoring
 - 👕 Large = Engineering
 
-### Aditional notes
+### Additional notes
 
 Design flow and Figma components largely comply with expected VADS standards. This form passed the imposter components audit and can serve as a reference implementation for VADS compliance. Key concerns are the expired OMB control number (CRITICAL), hardcoded content, and testing coverage gaps.
 
