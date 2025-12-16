@@ -2,11 +2,13 @@
 
 
 ## Overview
-Veteran Readiness and Employment (VR&E) services are vital for Veterans with service-connected disabilities who are seeking employment and independent living. The RES-powered VR&E portal integrated within VA.gov directly addresses key usability and accessibility issues, transforming VA.gov into a personalized gateway for Veterans to determine eligibility, apply for benefits, and track their progress throughout the program lifecycle. This will provide a self-service case management hub that will allow Veterans to manage the full lifecycle of their VR&E journey. The Veteran will have capabilities from eligibility determination to comprehensive case management, including a Case Progress tracker, orientation tools, scheduling, VBMS upload functionality, and a career planning page. 
+The Claim Status Tool (CST) currently displays all claims in a single list without any functionality to help claimants easily locate a specific claim. As additional claim types are added, it will become increasingly important for claimants to find and review their claims efficiently within CST on the VA Mobile App and VA.gov.
+
+To start, we want to give users the ability to view open vs closed claims. But as new claim types are added, we'll want to explore possible alternatives for filtering (or sorting).
 
 ## Problem Statement
-As a Veteran, I want to manage the full lifecycle of my VR&E journey. As a Backend Developer I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. As a Frontend Developer I want to see the pages to chose from so users can access the information they need and perform actions as needed. As a UX Designer I want to confirm that users are able to navigate the self-management portal with little-to-no errors so that they can access the information they need and perform actions as needed. By creating a new page the Reapers team can ensure users have easy access to information and comply with CAIA guidelines.
- 
+As a Veteran or other claimant I want to filter all my open vs closed claims so that I can easily track down a specific claim.
+
 ## Desired User Outcomes
 
 - *Why would a user want to use this?* The self-management portal will allow the Veteran to manage the full lifecycle of their VR&E journey. The Veteran will have access to orientation tools, scheduling, VBMS uploads, and a career planning module.
