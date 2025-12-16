@@ -346,7 +346,7 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 
 **No page definitions depend on simple-forms shared code.**
 
-## Level Of Effort
+## Level of Effort
 
 ### Issue Summary
 
