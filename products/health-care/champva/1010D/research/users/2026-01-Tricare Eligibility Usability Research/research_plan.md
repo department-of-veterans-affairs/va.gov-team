@@ -160,11 +160,11 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1. **[Learn where there are content comprehension issues within the eligibility questions and error messages options tested.]**`
+`1. **Learn where there are content comprehension issues within the eligibility questions and error messages options tested.**`
 
-`2. **[Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.]**`
+`2. **Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.**`
 
-`3. **[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]**`
+`3. **Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.**`
 
 
   
@@ -173,7 +173,7 @@ Are there moments that matter?</summary>
 
 ---
 
-**[Determine which approach (VADS pattern vs. hybrid/API) best reduces confusion, and potentially inform future wider adoption within VA.gov, including contributions to the VADS design system.]** 
+**Determine which approach (VADS pattern vs. hybrid/API) best reduces confusion, and potentially inform future wider adoption within VA.gov, including contributions to the VADS design system.** 
 
 
 ---
@@ -209,11 +209,11 @@ Are there moments that matter?</summary>
 
 ---
 
-**[We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.]** 
+**We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.** 
 
-**[We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and family members.]**
+**We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and family members.**
 
-**[The changes in the flow and the signer information section will be easy for Veterans and family mbmers to follow with less confusion than previous studies.]**
+**The changes in the flow and the signer information section will be easy for Veterans and family mbmers to follow with less confusion than previous studies.**
 
 
 ---
@@ -240,10 +240,13 @@ Are there moments that matter?</summary>
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
 **For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/conversation_guide.md)
-- [Figma with Prototype](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=10068-32316&t=IG3jW1bmGA0pmJ36-1)
-- [Prototype for Veterans](https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10114%3A20511&show-proto-sidebar=1)
+- [Link to conversation guide - cohort A](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/convo_guide_cohortA_BlueberryFirst.md)
+- [Prototype for Veterans - cohort A](https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10114%3A20511&show-proto-sidebar=1)
+- [Link to conversation guide - cohort B](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/convo_guide_cohortB_BlueberryFirst.md)
 - [Prototype for Applicants](https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10123%3A13173&show-proto-sidebar=1)
+
+- [Figma with Prototype](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=10068-32316&t=IG3jW1bmGA0pmJ36-1)
+
 
 
 
