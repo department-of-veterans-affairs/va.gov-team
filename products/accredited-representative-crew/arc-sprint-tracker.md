@@ -72,7 +72,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 3. Claimant Background page
 4. Claimant Information page (for Veterans)
 5. Claimant Information page (for non-Veterans)
-6. Review Page
+
 
 ## Sprint 5 Delivery
 - [ ] Sprint Delivery Approved by Enablement
