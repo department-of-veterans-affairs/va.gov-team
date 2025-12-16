@@ -98,7 +98,8 @@ Returns a JWT token for further API access on success.
   "data": {
     "token": "<JWT token string>",
     "expiresIn": 3600,
-    "tokenType": "Bearer"
+    "tokenType": "Bearer",
+    "email": "test@email.com"
   }
 }
 ```
