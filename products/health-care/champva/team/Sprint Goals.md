@@ -6,10 +6,11 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] **SPRINT GOAL** 10-10dv2: Monitor health of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
+- [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
 - [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
