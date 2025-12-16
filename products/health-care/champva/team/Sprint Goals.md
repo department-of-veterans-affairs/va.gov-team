@@ -6,24 +6,23 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] **SPRINT GOAL** 10-10d: Monitor health of 1010d/10-7959c Merge
-- [ ] **SPRINT GOAL** 10-10d: Update access to VES fwd proxy to prep for launch
-- [ ] **SPRINT GOAL** 10-10d: Prevent stale data and documents from being submitted to Pega
-- [ ] **SPRINT GOAL** 10-10d: Object type cleanup and confirmation email updates
+- [ ] **SPRINT GOAL** 10-10dv2: Monitor health of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10dv2: Update access to VES fwd proxy to prep for launch
+- [ ] **SPRINT GOAL** 10-10dv2: Prevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10dv2: Object type cleanup and confirmation email updates
 - [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes and itemized billing content language
-- [ ] **SPRINT GOAL** 10-7959c: FE Add MBI to OHI form
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
-- [ ] **SPRINT GOAL** 10-7959c: BE Finish implementation of generating the new standalone PDF to prepare for launch
+- [ ] **SPRINT GOAL** 10-7959c: BE Prepare for launch
 - [ ] **SPRINT GOAL** All forms: Investigate and reproduce 403/422 errors in DD, report issues to platform
 - [ ] **SPRINT GOAL** All forms: Update Datadog dashboards for the Overall dashboard and 10-10dv2 dashboard to ensure consistency and accuracy 
 - [ ] **SPRINT GOAL** All forms: Implement improved logging to trace submissions end to end, identify specific error points, and provide PEGA with additional info for troubleshooting
-- [ ] **SPRINT GOAL** UX: 10-10d: Tricare Eligibility Research Planning & Prototyping
-- [ ] **SPRINT GOAL** UX: 10-10d: Add MBI to 10-10d form
-- [ ] **SPRINT GOAL** UX: 10-10d: Add birth cert for newborns
-- [ ] **STRETCH GOAL** 10-10d: FE Add MBI to 10-10d form
-- [ ] **STRETCH GOAL** 10-10d/10-7959c: FE Add future effective medicare to OHI and 10-10d
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
+- [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
+- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
+- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
-- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit Edits
+- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
 - [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
 
 
@@ -72,6 +71,9 @@
 - **FE**
 - **UX**
 - **BE**
+- [ ] **SPRINT GOAL** 10-10d: BE Turn on VES
+- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add MBI for 10-10dv2 and OHI standalone
+- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add future effective date for 10-10dv2 and OHI standalone
 
 
 ##
