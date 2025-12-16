@@ -253,7 +253,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 - [If they're not on the unauth VA.gov home page, ask them click on the Hat button]
 - [Record how resume form:]
   - Sign in --> My VA (Mittens) --> form card --> Continue your request
-  - Search/nav to unauth form intro (click on Hat) --> Sign in --> auth form intro --> Continue your request
+  - Search/nav to unauth form intro (click on Umbrella) --> Sign in --> auth form intro --> Continue your request
 
   - [If needed: **Unauth intro (Umbrella) / Auth intro (Apron) / My VA (Mittens)**]
 
