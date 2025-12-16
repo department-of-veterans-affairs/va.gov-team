@@ -2,6 +2,42 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+
+# Sprint 7 (Dec 30 - Jan 12, 2025)
+
+## Sprint 6 Goals
+- [ ] Sprint Goals Approved by Enablement 
+
+**Team Accreditation**: 
+1. **[Rep Data] GCLAWS SQL Server API Integration**: Update existing Accreditation API job to include fallback (SQL API)
+5. **[21a] v4 - Development**: Unit tests, confirm `currently` schema booleans are added to GCLAWS API
+
+**Team Benefits**:
+1. **[ITF] MVP - Development**: Prepare for release
+2. **[ITF] MVP Epic - Design**: Content center guide updates
+11. **[ARP Post-MVP] Cleanup Tasks**: Accessibility audit (686c)
+
+
+
+# Sprint 6 (Dec 16-29, 2025)
+
+## Sprint 6 Goals
+- [ ] Sprint Goals Approved by Enablement 
+
+**Team Accreditation**: 
+1. **[Rep Data] GCLAWS Accreditation API Integration**: Continue testing the Accreditation API in Production
+2. **[Rep Data] GCLAWS SQL Server API Integration**: Discovery for the SQL API fallback, write the service to connect to the SQL API
+5. **[21a] v4 - Development**: Continuing with new endpoint to handle document uploads and background job to retrieve the application ID after posting the file uploads, enable s3 bucket in production
+6. **[Contact Info] Profile Information MVP - Design**: Assess state of existing designs
+
+**Team Benefits**:
+1. **[ITF] MVP - Development**: MVP development, team QA, prepare for release
+2. **[ITF] MVP Epic - Design**: Draft content updates for the Help page
+11. **[ARP Post-MVP] Cleanup Tasks**: Accessibility audit (submissions page, 526EZ, 686c)
+
+
+
+
 # Sprint 5 (Dec 2-15, 2025)
 
 ## Sprint 5 Goals
