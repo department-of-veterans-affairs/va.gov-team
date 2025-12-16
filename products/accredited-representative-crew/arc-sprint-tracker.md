@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 # Sprint 7 (Dec 30 - Jan 12, 2025)
 
-## Sprint 6 Goals
+## Sprint 7 Goals
 - [ ] Sprint Goals Approved by Enablement 
 
 **Team Accreditation**: 
