@@ -89,7 +89,7 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. Have you ever applied for the the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program?
-- Should not be **enrolled** to qualify for study
+- (NOTE: Should not be **enrolled** to qualify for study)
 
 2. Have you ever heard about the CHAMPVA program before?
 
