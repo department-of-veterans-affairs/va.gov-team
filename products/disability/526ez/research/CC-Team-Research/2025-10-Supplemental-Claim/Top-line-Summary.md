@@ -79,6 +79,7 @@ Secondary study goals will be addressed in the full research report.
 - However, one participant could not figure out how to add a new condition when asked to claim a new condition, arthritis in the shoulder.
   - The participant noticed the correct option when first looking at the screen but then scrolled down so the option was no longer visible.
   - Then, when asked how to a new condition, they focused on the rated and denied disabilities and did not go back to the “add a new condition” option.
+  
   > **P5:** “If you wanted to file, it does offer you the knee replacement, sleep apnea, asthma… Nothing really about a shoulder situation.”
   - It’s a little unclear why this happened. One hypothesis is that the first option did not stand out enough visually to be memorable.
 - Another participant had a moment’s confusion, but then was able to select the right option.
