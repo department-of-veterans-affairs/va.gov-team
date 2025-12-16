@@ -95,7 +95,7 @@ Before we start, I have a few things that I want to go over with you:
 Moderator: Before we look at the website, let’s start with a few warm-up questions.
 
 1. Have you ever filed for travel pay before? 
-- If yes: Tell me more about your experience. Did you file on VA.gov or BTSSS?
+- If yes: Tell me more about your experience. Did you file on VA.gov, the mobile app, or BTSSS?
 - If no:
   - Can you share more about why you have not filed before?
   - Do you have VA healthcare?
