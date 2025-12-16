@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Last Updated:** `7/28/2025`
+> **Last Updated:** `12/16/2025`
 
 # Templates for Accessibility Audits
 The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
@@ -30,7 +30,7 @@ ADE support offerings are detailed in the [ADE service list](https://github.com/
 - [Mobile Audit: Google Doc](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link) (permissions needed)
 - [Mobile Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/templates/mobile-audit-template.md)
 - [Email Audit: Google Doc](https://docs.google.com/document/d/1cDzjdQ9FLQ3ioHd7xPIIp8CpaDfVw6muzijipPFW3Zw/edit?tab=t.l6vvm0ovczzj#heading=h.4sfyxb3bb3bf) (permissions needed)
-- [Email Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/teams/digital-experience/ADE/templates/email-audit-template.md)
+- [Email Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/templates/email-audit-template.md)
 
 <!-- ## Health Check Audit
 
