@@ -63,6 +63,20 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 17. **[Rep Onboarding] NACVSO**: Conduct demo meeting
 19. **ARC Team Onboarding and Setup**: Review instances
 
+## Sprint 5 Demo ([Recording link TBD]())
+
+**Team Benefits**
+
+1. Update ARP Datadog Dashboard to Use New Form Submission Counter Metrics
+2. Introduction page
+3. Claimant Background page
+4. Claimant Information page (for Veterans)
+5. Claimant Information page (for non-Veterans)
+6. Review Page
+
+## Sprint 5 Delivery
+- [ ] Sprint Delivery Approved by Enablement
+
 
 ## Sprint 5 Tickets
 
