@@ -170,7 +170,7 @@ Moderator: Tell me about what you're seeing on this page.
 > - Does the participant have any questions about how mileage is calculated?
 
 ## Fourth Task: [Actions from the unsubmitted expense page] - 2 - 4 minutes
-Th user should be on the unsubmitted expenses page after adding mileage/or their first expense.
+The user should be on the unsubmitted expenses page after adding mileage/or their first expense.
 Moderator: Tell me about what you're seeing on this page.
 - [ ] Step 1 - User reviews accordion with the added expense.
 - [ ] Step 2 - User selects "Add more expenses" OR user selects "Sign agreement" if they have no additional expenses.
