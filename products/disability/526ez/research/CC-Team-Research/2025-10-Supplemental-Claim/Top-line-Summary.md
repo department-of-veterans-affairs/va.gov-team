@@ -56,8 +56,7 @@ Secondary study goals will be addressed in the full research report.
 **It is extremely difficult for Veterans to distinguish between a Claim for Increase and a Supplemental Claim for a rated condition.**
 
 - In Prototype Banana, we tested two scenarios that required the participant to decide whether to file a Supplemental Claim or a Claim for Increase on a rated disability. In the first four sessions, Veterans were very confused about the difference. We then updated the content in Prototype Banana to better distinguish between the two claim types. But participants still couldn’t understand the difference.
-  > [!NOTE]
-  > Note: This distinction only appeared in Prototype Banana; Prototype Apple did not offer the choice of a Supplemental Claim on a rated disability.
+  > [!NOTE] Note: This distinction only appeared in Prototype Banana; Prototype Apple did not offer the choice of a Supplemental Claim on a rated disability.
 
 - A majority of participants perceived both avenues of action as a means of declaring that a condition had gotten worse.
   > **P1:** "For both, you're trying to get an increase."
