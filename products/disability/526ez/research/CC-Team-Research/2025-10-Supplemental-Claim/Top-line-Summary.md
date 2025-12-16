@@ -36,7 +36,7 @@ Secondary study goals will be addressed in the full research report.
   
 ## Initial Findings
 
-#### Finding 1
+##### Finding 1
 **Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen. (🍎 for the win).**
 
 - Of the 10 participants:
