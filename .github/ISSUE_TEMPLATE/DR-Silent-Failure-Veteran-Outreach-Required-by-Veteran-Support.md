@@ -1,3 +1,11 @@
+---
+name: DR Silent Failure – Veteran Outreach Required
+about: Decision Review silent failure requiring Contact Center outreach to ensure Veteran remediation and closure.
+title: "DR Silent Failure – Veteran Outreach"
+labels: vsp-contact-center
+assignees: 'kimberley2023-csm'
+---
+
 # DR Silent Failure – Veteran Outreach Required
 
 ## Summary
