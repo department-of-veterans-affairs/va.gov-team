@@ -47,7 +47,7 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
     - Licensing or Certification Test Fee Reimbursement (VA Form 22-0803) | Veterans Affairs
 
 **2) Request licensing or certification test fees reimbursement online - New (form)**
-- URL: va.gov/forms/form-22-0810/request-reimbursement-licensing-or-certification-test-fees-online/
+- URL: va.gov/forms/form-22-0803/request-reimbursement-licensing-or-certification-test-fees-online/
 - H1: Request licensing or certification test fees reimbursement online
 - Sub-heading: Request for Reimbursement of Licensing or Certification Test Fees (VA Form 22-0803)
 - Breadcrumb: VA.gov > VA forms > Licensing or certification test fee reimbursement (VA Form 22-0803) > Request licensing or certification test fees reimbursement online
@@ -58,9 +58,9 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 **Structuring URLs for individual pages within the form flows**
 - All pages within form flows will exist as child pages of the core/canonical URL.
   - Examples:
-      - va.gov/forms/form-22-0810/request-reimbursement-licensing-or-certification-test-fees-online/introduction/
-      - va.gov/forms/form-22-0810/request-reimbursement-licensing-or-certification-test-fees-online/review-and-submit/
-      - va.gov/forms/form-22-0810/request-reimbursement-licensing-or-certification-test-fees-online/confirmation/
+      - va.gov/forms/form-22-0803/request-reimbursement-licensing-or-certification-test-fees-online/introduction/
+      - va.gov/forms/form-22-0803/request-reimbursement-licensing-or-certification-test-fees-online/review-and-submit/
+      - va.gov/forms/form-22-0803/request-reimbursement-licensing-or-certification-test-fees-online/confirmation/
   - Please refer to [URL standards for form flows](https://design.va.gov/components/url-standards/#guidelines-for-urls-in-form-flows) when defining the URLs for these pages.  Reach out to #content-ia-centralized-team with any questions.
 
 
@@ -77,7 +77,7 @@ Teams must launch with at least one entry point that allows site visitors to nav
   - Placement description: Add a link to the form as appropriate
   - Link details
     - Link label: TBD by content
-    - Link destination: va.gov/forms/form-22-0810/request-reimbursement-licensing-or-certification-test-fees-online/
+    - Link destination: va.gov/forms/form-22-0803/request-reimbursement-licensing-or-certification-test-fees-online/
   - Notes:
     - Who will update: Content will add the link
     - When will this entry point go live: at launch
