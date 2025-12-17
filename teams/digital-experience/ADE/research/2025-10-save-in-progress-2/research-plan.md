@@ -8,13 +8,11 @@ This research is being planned to get user feedback on a revised design that hop
 
 ### Figure 1 shows the new interstitial page
 
-<img src="./images/FILENAME.png" width="50%" height="50%" alt="The new interstitial page...">
-
-<!--INSERT SCREENSHOT WHEN DESIGN IS READY-->
+<img src="./images/interstitial.png" width="50%" height="50%" alt="The new interstitial page explains that the information you enter in the form will saved, and that you can select the Finish later button anytime to stop">
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-This research supports the following OCTO priorities:
+This research supports the following 2025 OCTO priorities:
 
 Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 - Key Result 1: Improve satisfaction with our web and mobile products by 5 points.
@@ -73,7 +71,7 @@ This is remote research over Zoom.
 ## Research materials 📔
 
 - [Link to conversation guide](./conversation-guide.md)
-- [Link to prototype](TBD)
+- [Link to prototype](https://bit.ly/456nrPv)
 
 	
 ## Recruitment 🎯	
