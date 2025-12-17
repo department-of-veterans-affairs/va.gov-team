@@ -115,7 +115,7 @@ Let’s start with a few questions...
 
 1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
-   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/4lXVLTV)
+   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/456nrPv)
 
 ### For only assistive tech users
 
