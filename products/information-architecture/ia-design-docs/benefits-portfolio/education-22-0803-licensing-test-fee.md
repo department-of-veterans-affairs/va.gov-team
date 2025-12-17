@@ -94,10 +94,9 @@ The identified entry point is the existing About form page. That section is bein
 *Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
 | Key task | Responsibility | When to complete | Additional info |
+| ------------- | ------------- | ------------- | ------------- |
 | Communicate if staged/incremental launch is planned | VEBT | ASAP | initiates coordination of widget creation |
-
 | Communicate date of staging review | VEBT | Once scheduled | Allows OCTO to prepare entry point preview links |
-
 | Communicate launch date | VEBT | Once scheduled | Allows OCTO to plan for updates to About and static pages |
 
 
