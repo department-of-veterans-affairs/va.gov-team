@@ -138,7 +138,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Create initial draft of Product Guide for “Managing Overpayments| QPX |--|--|--|
 |TEAM: Review open tickets in OTPP S.Epic #106610 and reassign as appropriate to Payment History S.Epic #18859 in order to close completed epics.| QP2 |--|--|--|
 |ENG: Complete Veteran facing post release items for digital dispute.| QP1 |--|--|--|
-|ENG: Create the Lighthouse API endpoint test coverage &swagger documentation.| QP4 |--|--|--|
+|ENG: Create the Lighthouse API endpoint test coverage & swagger documentation.| QP4 |--|--|--|
 |ENG: Complete the mock data setup for the Lighthouse copay API endpoint cross referencing the ID’s as needed.| QP4 |--|--|--|
 |ENG: Obtain client id and successfully gain access to the Lighthouse production API.| QP4 |--|--|--|
 
