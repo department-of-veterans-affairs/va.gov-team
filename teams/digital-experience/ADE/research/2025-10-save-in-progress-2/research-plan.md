@@ -172,7 +172,7 @@ Cindy is available for a kickoff call during any of these times:
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
 - `Dates and times of pilot sessions:` 
-  - **Jan 2 from y-z pm ET** with TBD
+  - **Jan 6 from y-z pm ET** with TBD
   - **Jan 7 from y-z ET** with TBD
   - **Jan 8 from y-z pm ET** with TBD
 
