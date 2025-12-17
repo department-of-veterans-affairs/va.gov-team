@@ -111,6 +111,7 @@ There are no flags with this feature.
 #### Benefit overpayments
 
 <details><summary>User does not have any outstanding benefit overpayments</summary>
+ 
 * Use case: If a logged in LOA3 user does not have any benefit overpayments in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding benefit overpayments and a link to the overpayment balances tool within the card.  
 * Format: [Card component](https://design.va.gov/components/card)  
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)  
