@@ -25,8 +25,9 @@ When I:
 * go to https://staging.va.gov/pension/aid-attendance-housebound/apply-form-21-2680/introduction and click start
 * an API call is made to https://staging-api.va.gov/v0/in_progress_forms/21-2680
   * If a form was previously in progress for that user, the `InProgressForm` is returned from the database.
-  * If there is no current `InProgressForm` a new form is pre-filled [source](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/in_progress_forms_controller.rb#L16
-  * The structure & content of the prefill is defined [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/form_profile_mappings/21-2680.yml)
+  * If there is no current `InProgressForm` a new form is pre-filled [source](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/in_progress_forms_controller.rb#L16) and returned as an `InProgressForm`
+  * The structure & content of the prefill is defined [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/form_profile_mappings/21-2680.yml) . The documentation for additional attributes we could map isn't great but the code is [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/form_profile.rb#L10)
+
 
 <details>
 <summary>Example /v0/in_progress_forms/21-2680 response with newly prefilled data</summary>
