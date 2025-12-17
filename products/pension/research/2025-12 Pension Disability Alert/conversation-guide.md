@@ -65,12 +65,13 @@ I’ll give you some time to review this page– go ahead and talk out loud as y
 * Is there any other information that you think would be helpful to see here?  
 * What would you do if you wanted more information?  
 * What would you do next?  
-* Can you tell me if this information would influence your decision to apply or not?
+* Can you tell me if this information would influence your decision to apply or not? Why?
 
 Success Criteria: 
 
 * They mention that they already receive more money from disability payments  
 * They mention their next step as not continuing to apply for Veterans Pension
+* They understand the content as intended (ie. no misinterpretations)
 
 Now we’ll move onto the next scenario. In order to move onto the next screen, can you navigate to the top-left corner and click on the VA.gov logo? The website won’t behave this way, this is just how we’ve set it up for our prototype.
 
@@ -78,15 +79,18 @@ I want you to imagine the same scenario – that you’re learning about Veteran
 
 ## **Task: Disability rating cannot be found (10 min) until \[time\]**
 
-* How would you use this information?  
-* What questions do you have, if any?  
+* \[Probe if needed\] What do you think is the purpose of this message?  
+* Is there anything confusing about the message here?  
+* In your own words, what do you think this is telling you?  
+* What questions do you have, if any? 
 * What would you do if you wanted more information?  
 * What would you do next?   
-* Can you tell me if this information would influence your decision to apply or not?
+* Can you tell me if this information would influence your decision to apply or not? Why?
 
 Success Criteria: 
 
 * They mention their next step as not continuing to apply for Veterans Pension
+* They understand the content as intended (ie. no misinterpretations)
 
 ## **Wrap-Up & Thank You (2 min)**
 
