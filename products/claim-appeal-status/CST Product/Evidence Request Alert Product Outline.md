@@ -68,7 +68,7 @@ Users navigate to the self-management portal and track and interact with their V
 ---
    
 ## Screenshots
-
+- https://www.figma.com/design/XXVKpM3DfeLgKzIGBI6r2W/CST-Alert-Improvements?node-id=2210-1904&t=Tn3ZAP1EmUQKKkLl-1 
 ### Before
 
 ### After
