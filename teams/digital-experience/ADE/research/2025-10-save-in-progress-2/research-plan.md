@@ -166,17 +166,18 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **Month X**: 12-5 pm ET
+- **Jan 2**: 2-5 pm ET
+- **Jan 5**: 12-1 or 2-4 pm ET
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
 - `Dates and times of pilot sessions:` 
-  - **Month X from y-z pm ET** with TBD
-  - **Month X from y-z ET** with TBD
-  - **Month X from y-z pm ET** with TBD
+  - **Jan 2 from y-z pm ET** with TBD
+  - **Jan 7 from y-z ET** with TBD
+  - **Jan 8 from y-z pm ET** with TBD
 
 ### Research sessions
-- `Planned dates of research:` **Oct TBD**
+- `Planned dates of research:` **Jan 12-21**
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -190,11 +191,30 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `OCT TBD, Mon, 12 - 1 or 1:30 PM ET`
-- `OCT TBD, Mon, 2 - 3 or 3:30 PM ET`
-- `OCT TBD, Mon, 5 - 6 or 6:30 PM ET`
-- `OCT TBD, Mon, 7 - 8 or 8:30 PM ET`
-
+- `Jan 12, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 12, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 13, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 13, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 13, Mon, 5 - 6 or 6:30 PM ET`
+- `Jan 13, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 14, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 14, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 14, Mon, 5 - 6 or 6:30 PM ET`
+- `Jan 14, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 15, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 15, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 15, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 16, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 16, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 16, Mon, 5 - 6 or 6:30 PM ET`
+- `Jan 16, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 20, Mon, 12 - 1 or 1:30 PM ET`
+- `Jan 20, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 20, Mon, 5 - 6 or 6:30 PM ET`
+- `Jan 20, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 21, Mon, 2 - 3 or 3:30 PM ET`
+- `Jan 21, Mon, 5 - 6 or 6:30 PM ET`
+- `Jan 21, Mon, 7 - 8 or 8:30 PM ET`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
