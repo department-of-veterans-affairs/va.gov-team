@@ -6,13 +6,13 @@ Synopsis of first 30 days of feedback, November 17 - December 17, 2025:
 ## Overall Trends
 |Nov 17 - to Date (12/10)||
 |---|---|
-|Number of how many viewed the alert:|186.93k|
-| How many Confirmed (%):|109.76k|
-|How Many Skipped:|266|
+|Number of how many viewed the alert:|197.37k|
+| How many Confirmed (%):|114.85k|
+|How Many Skipped:|288|
 |Percent of Errors:|0.09%|
-|How Many Edited/Added:|27,662|
-|My VA "update/add email" traffic:|18220| 
-|My Healthy Vet "update/add email traffic:|9442| 
+|How Many Edited/Added:|31228|
+|My VA "update/add email" traffic:|20570| 
+|My Healthy Vet "update/add email traffic:|10658| 
 
 
 ---
@@ -569,7 +569,7 @@ No feedback for 12/06/25.
 
 ### 12/07/25
 #### Medallia Feedback
-No feedback for for 12/07/25.
+No feedback for 12/07/25.
 #### Google Analytics 
 
 |Link text | Page Path + Query String | Event Count |
@@ -627,7 +627,7 @@ No feedback for for 12/07/25.
 
 ### 12/09/25
 #### Medallia Feedback
-No feedback for  for 12/09/25.
+No feedback for 12/09/25.
 #### Google Analytics 
 
 |Link text | Page Path + Query String | Event Count |
@@ -711,3 +711,149 @@ No feedback for  for 12/09/25.
 | Confirmation Successful | 1.3k |
 | Confirmation Skipped | 4 |
 | Confirmation Errors | 4 |
+
+### 12/12/25
+#### Medallia Feedback
+TBD feedback for 12/12/25.
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||897|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|480|
+  ||/my-va/|123|
+  ||/my-health/|121|
+  ||/my-health|74|
+  ||/my-health?postlogin=true|25|
+  ||/my-health/?postlogin=true|12|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|32|
+  ||/my-health|21|
+  ||/my-health?postlogin=true|7|
+  ||/my-health/?postlogin=true|2|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 2.53k |
+| Confirmation Successful | 1.23k |
+| Confirmation Skipped | 4 |
+| Confirmation Errors | 5 |
+
+### 12/13/25
+#### Medallia Feedback
+TBD feedback for 12/13/25. 
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||438|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|241|
+  ||/my-va/|63|
+  ||/my-health/|59|
+  ||/my-health|38|
+  ||/my-health?postlogin=true|7|
+  ||/my-health/?postlogin=true|5|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|12|
+  ||/my-health|9|
+  ||/my-health?postlogin=true|2|
+  ||/my-health/?postlogin=true|2|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 1.19k |
+| Confirmation Successful | 583 |
+| Confirmation Skipped | 4 |
+| Confirmation Errors | -- |
+
+### 12/14/25
+#### Medallia Feedback
+TBD feedback for 12/14/25. 
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||449|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|232|
+  ||/my-va/|56|
+  ||/my-health/|55|
+  ||/my-health|53|
+  ||/my-health?postlogin=true|13|
+  ||/my-health/?postlogin=true|10|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|13|
+  ||/my-health|12|
+  ||/my-health?postlogin=true|3|
+  ||/my-health/?postlogin=true|2|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 1.24k |
+| Confirmation Successful | 599 |
+| Confirmation Skipped | 2 |
+| Confirmation Errors | 1 |
+
+### 12/15/25
+#### Medallia Feedback
+TBD feedback for 12/15/25.
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||1,066|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|559|
+  ||/my-health/|149|
+  ||/my-va/|145|
+  ||/my-health|106|
+  ||/my-health?postlogin=true||
+  ||/my-health/?postlogin=true|24|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|37|
+  ||/my-health|20|
+  ||/my-health?postlogin=true|4|
+  ||/my-health/?postlogin=true|1|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 2.81k |
+| Confirmation Successful | 1.37k |
+| Confirmation Skipped | 8 |
+| Confirmation Errors | 2 |
+
+### 12/16/25
+#### Medallia Feedback
+TBD feedback for 12/16/25. 
+#### Google Analytics 
+
+|Link text | Page Path + Query String | Event Count |
+  |---| --- | ---|
+  |Totals||972|
+  |Go to Profile to update your contact email|||
+  ||/my-va/?postlogin=true|523|
+  ||/my-va/|138|
+  ||/my-health/|135|
+  ||/my-health|75|
+  ||/my-health?postlogin=true|17|
+  ||/my-health/?postlogin=true|11|
+  |Go to Profile to add a contact email|||
+  ||/my-health/|48|
+  ||/my-health|14|
+  ||/my-health?postlogin=true|8|
+  ||/my-health/?postlogin=true|3|
+
+#### DataDog
+| Metric Name | Description |
+| ----------- | ----------- |
+| Alert Views | 2.67k |
+| Confirmation Successful | 1.31k |
+| Confirmation Skipped | 4 |
+| Confirmation Errors | -- |
+
