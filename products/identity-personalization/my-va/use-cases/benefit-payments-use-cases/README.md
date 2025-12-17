@@ -24,73 +24,6 @@
 
 </details>
 
-## Phase 1, 3.0 benefit payment experience
-- For all of these use cases, the user must be LOA3 (identity verified). **If the user is not LOA3, the user will not see this section on My VA.**
-- Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out monthly via direct deposit or paper check.
-- This feature on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show.
-
-### Common benefit payment use cases
-
-<details><summary>User has never had any benefits payments</summary>
-
-- **Use case:** If a logged in LOA3 user has no history of payments they receive a message informing them they don't have any and a link to the general payment history tool.
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
-- **Content:** See designs
-- **Request:** `GET /v0/profile/payment_history`
-  - **Reponse:** `200` [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L134)
-
-</details>
-
-
-<details><summary>User has not received any payments from VA in the last 60 days</summary>
-
-- **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
-- **Content:** See designs
- - **Request:** `GET /v0/profile/payment_history`
-   - **Reponse:** `200` [no recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L14)
-
-</details>
-
-
-<details><summary>User has received any payments from VA in the last 60 days</summary>
-
-- **Use case:** If a LOA3 user has received a payment from VA in the last 60 days, they will see a card in the Benefits payments section that tells them the dollar amount of the payment, the type of benefit payment, the date it was deposited or mailed to them, and a link to the payment history tool. Only the most recent payment is shown.
-   - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
-- **Content:** See designs
-- **Request:** `GET /v0/profile/payment_history`
-  - **Reponse:** `200` [recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L13)
-
-</details>
-
-
-
-### Benefit payments edge cases
-
-#### Validation
-This feature has no validation use cases.
-
-#### Flags
-There are no flags with this feature.
-
-#### Errors
-
-<details><summary>The payments API is down and we can't display any payment information</summary>
-
-- **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
-- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)
-- **Content:** See designs
-- **Request:** `GET /v0/profile/payment_history`
-  - **Reponse:** `500` [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L147)
-
-</details>
-
-
 
 ## Phase 1, 3.0 benefit payment experience
 
@@ -100,7 +33,7 @@ There are no flags with this feature.
 
 ### Common benefit payment use cases
 
-User has never had any benefits payments
+<details><summary>User has never had any benefits payments</summary>
 
 * Use case: If a logged in LOA3 user has no history of benefit payments they receive a message informing them they don't have any and a link to the general payment history tool.  
 * Format: [Card component](https://design.va.gov/components/card)  
@@ -108,15 +41,20 @@ User has never had any benefits payments
 * Request: GET /v0/profile/payment\_history  
   * Response: 200 [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L134)
 
-User has not received any benefit payments from VA in the last 60 days
+</details>
+
+
+<details><summary>User has not received any benefit payments from VA in the last 60 days</summary>
 
 * Use case: If a LOA3 user signs in and has not received any benefit payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.  
 * Format: [Card component](https://design.va.gov/components/card)  
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)  
 * Request: GET /v0/profile/payment\_history  
   * Response: 200 [no recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L14)
+ 
+</details>
 
-User has received any benefit payments from VA in the last 60 days
+<details><summary>User has received any benefit payments from VA in the last 60 days</summary>
 
 * Use case: If a LOA3 user has received a benefit payment from VA in the last 60 days, they will see a card in the Benefits payments section that tells them the type of benefit payment, the dollar amount of the payment, the date it was deposited or mailed to them, and a link to the payment history tool. Only the most recent payment is shown.  
   * If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".  
@@ -124,6 +62,8 @@ User has received any benefit payments from VA in the last 60 days
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)  
 * Request: GET /v0/profile/payment\_history  
   * Response: 200 [recent payment mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L13)
+
+</details>
 
 ### Benefit payments edge cases
 
@@ -137,13 +77,15 @@ There are no flags with this feature.
 
 #### Errors
 
-The benefit payments API is down and we can't display any benefit payment information
+<details><summary>The benefit payments API is down and we can't display any benefit payment information</summary>
 
 * Use case: If an LOA3 user logs in and there is an error with the benefit payments API we hide the benefit payment card, show a warning alert, and a link to the payment tool.   
 * Format: [Warning slim alert](https://design.va.gov/components/alert/#web-2)  
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)  
 * Request: GET /v0/profile/payment\_history  
   * Response: 500 [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/payment-history/index.js#L147)
+ 
+</details>
 
 ## Phase 1, 3.0 Overpayments and copay bills experience
 
@@ -154,7 +96,7 @@ The benefit payments API is down and we can't display any benefit payment inform
 
 ### Overpayments and copay bills common use cases
 
-User has never had any outstanding benefit overpayments or copay bills
+<details><summary>User has never had any outstanding benefit overpayments or copay bills</summary>
 
 * Use case: If a logged in LOA3 user has no history of outstanding benefit overpayments or copay bills they will see two cards in this section. One for no benefits overpayments with a link to the overpayment balances tool. One for no copay bills with a link to the copay balances tool.  
 * Format: [Card component](https://design.va.gov/components/card)  
@@ -164,10 +106,11 @@ User has never had any outstanding benefit overpayments or copay bills
 * Request: GET /v0/medical\_copays  
   * Response: 200 [empty mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1661)
 
+</details>
+
 #### Benefit overpayments
 
-User does not have any outstanding benefit overpayments
-
+<details><summary>User does not have any outstanding benefit overpayments</summary>
 * Use case: If a logged in LOA3 user does not have any benefit overpayments in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding benefit overpayments and a link to the overpayment balances tool within the card.  
 * Format: [Card component](https://design.va.gov/components/card)  
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)  
@@ -176,7 +119,9 @@ User does not have any outstanding benefit overpayments
 * Request: GET /v0/medical\_copays  
   * Response: 200 [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
 
-User has outstanding benefit overpayments 
+</details>
+
+<details><summary>User has outstanding benefit overpayments</summary> 
 
 * Use case: If a logged in LOA3 user has any outstanding benefit overpayment debts in the debt portal, they will see a card in this section that tells them how many benefit overpayments they have and a link to the overpayment balances page of the combined debt portal.  
 * Format: [Card component](https://design.va.gov/components/card)  
@@ -186,9 +131,11 @@ User has outstanding benefit overpayments
 * Request: GET /v0/medical\_copays  
   * Response: 200 [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
 
+</details>
+
 #### Copay bills
 
-User does not have any outstanding copay bills
+<details><summary>User does not have any outstanding copay bills</summary>
 
 * Use case: If a logged in LOA3 user does not have any copay bills in the combined debt portal or their total copays equals 0, they will see a card informing them that they have no copay bills and a link to the copay balances tool.  
 * Format: [Card component](https://design.va.gov/components/card)  
@@ -198,7 +145,10 @@ User does not have any outstanding copay bills
 * Request: GET /v0/medical\_copays  
   * Response: 200 [copay count zero mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459) (dev mock data wip)
 
-User has outstanding copay bills
+</details>
+
+
+<details><summary>User has outstanding copay bills</summary>
 
 * Use case: If a logged in LOA3 user has any outstanding copay bills in the debt portal, they will see a card in this section that tells them how many copay bills they have, the date this information was last updated, and a link to the copays page of the combined debt portal.  
 * Format: [Card component](https://design.va.gov/components/card)  
@@ -207,6 +157,8 @@ User has outstanding copay bills
   * Response: 200 [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L7)  
 * Request: GET /v0/medical\_copays  
   * Response: 200 [success mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L459)
+
+</details>
 
 ### Overpayments and copay bills edge cases
 
@@ -220,7 +172,7 @@ There are no flags with this feature.
 
 #### Errors
 
-The Lighthouse API is down and we can't display any benefit overpayments or copay bills
+<details><summary>The Lighthouse API is down and we can't display any benefit overpayments or copay bills</summary>
 
 * Use case: If an LOA3 user logs in and there is an error with the Lighthouse API showing benefit overpayments and copay bills, show a warning alert to the user in the card with a link to the overpayments and copay bills page ([va.gov/manage-va-debt/summary](http://va.gov/manage-va-debt/summary)).   
 * Format: [Warning slim alert](https://design.va.gov/components/alert/#web-2)  
@@ -230,7 +182,9 @@ The Lighthouse API is down and we can't display any benefit overpayments or copa
 * Request: GET /v0/medical\_copays  
   * Response: 500 [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/medical-copays/index.js#L1666)
 
-The benefit overpayment debts API is down and we can't display any benefit overpayments information
+</details>
+
+<details><summary>The benefit overpayment debts API is down and we can't display any benefit overpayments information</summary>
 
 * Use case: If an LOA3 user logs in and there is an error with the benefit overpayments debt API (DMC), show a warning alert to the user in the card with a link to the overpayment balances tool.  
 * Format: [Warning slim alert](https://design.va.gov/components/alert/#web-2)  
@@ -239,18 +193,24 @@ The benefit overpayment debts API is down and we can't display any benefit overp
 * Request: GET /v0/debts  
   * Response: 500 [failure mock](https://github.com/department-of-veterans-affairs/vets-website/blob/v0.1.8621/src/applications/personalization/dashboard/mocks/debts/index.js#L261)
 
-The copays API is down and we can't display any copay bill information
+</details>
+
+<details><summary>The copays API is down and we can't display any copay bill information</summary>
 
 * Use case: If an LOA3 user logs in and there is an error with the copay API (VBS), show a warning alert to the user in the card with a link to the copay balances tool.  
 * Format: [Warning slim alert](https://design.va.gov/components/alert/#web-2)  
 * [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=cZLTEcVoQuXx90AV-1)  
 * [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays)  
 * Request: GET /v0/medical\_copays  
-  * Response: 500 
+  * Response: 500
+ 
+</details>
 
 Anything below this line is old/archived documentation for posterity.
 
-Archive | My VA: Benefit Payments Use Cases, December 2022
+---
+
+<details><summary>Archive | My VA: Benefit Payments Use Cases, December 2022</summary>
 
 # My VA: Benefit Payments Use Cases
 
@@ -282,7 +242,9 @@ There are no flags associated with this feature.
 
 * [User flow for benefit payments on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7514&mode=design&t=ZhUs1Oeae2EQjVFh-1)
 
-Archive | My VA: Outstanding debts use cases, February 2024
+</details>
+
+<details><summary>Archive | My VA: Outstanding debts use cases, February 2024</summary>
 
 # My VA: Outstanding debts use cases
 
@@ -318,4 +280,4 @@ There are no flags associated with this feature.
 ## Flow diagrams
 
 * [Outstanding debts on My VA user flow](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7422&mode=design)
-
+</details>
