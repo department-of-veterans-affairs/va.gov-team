@@ -223,8 +223,7 @@ Are there moments that matter?</summary>
 
 **[Semi-structured interviews/usabilty testing with mid-fidelty prototypes to explore two options of implementation and content options for alerts]**
 
-<img width="5674" height="3316" alt="Prototype Flow" src="https://github.com/user-attachments/assets/38e81f7f-9ab7-4e22-a2b9-83a0766f4ee3" />
-
+<img width="5674" height="3316" alt="Prototype Flow(1)" src="https://github.com/user-attachments/assets/99585c3c-0ed1-43c8-8f1c-99409781f46d" />
 
 
 
