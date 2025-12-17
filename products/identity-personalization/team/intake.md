@@ -1,6 +1,6 @@
 # Authenticated Experience Team Intake Process
 
-`Version 3.1` **Updated 5/14/2025**
+`Version 3.2` **Updated 12/2025:** Added UX governance for profile.
 
 
 ## Our Team 
@@ -28,7 +28,8 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 
 ### For Profile
 - [Add or Update Features on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/add-update-features-profile.md)
-- Add Email or Text Notification Settings (COMING SOON!)
+- [VA.gov profile UX governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-UX-governance.md)
+   - [VA.gov profile architecture, design, and content standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md)
 
 
 ## Our Intake Process
