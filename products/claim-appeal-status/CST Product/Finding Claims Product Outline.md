@@ -76,7 +76,7 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 ## Screenshots
 
 ### Before
-[lorem ipsum]
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1765579248519/1787b3efc821df27a1a21fc2f525c562aa247fdf?wid=26-1765579317816
 
 ### After
 [lorem ipsum]
