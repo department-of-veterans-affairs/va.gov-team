@@ -156,23 +156,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 
 
-## Third Task: [PROTOTYPE BLUEBERRY - SIGNER SECTION] - 5 minutes
-
-- Being a prototype, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
-- For this scenario, you have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
-- Navigate through the prototype now, focusing on the content and instructions around the next few pages. Please remember to think aloud. 
-
-- Go ahead and click on the "Continue" button at the bottom of the screen, it will bring you back to the Prototype's main page.
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant have any issues with the content or understanding of the signer section?]
-> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
-
-----
-
-
-## Fourth Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
+## Third Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
 
 - Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
 
@@ -193,7 +177,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 > - [Note: be aware of familiarity bias being so similar (? What are the differences exactly? if any?)]
 
 
-## Fifth Task: [PROTOTYPE PINEAPPLE - ELIGIBILITY] - 5 minutes
+## Fourth Task: [PROTOTYPE PINEAPPLE - ELIGIBILITY] - 5 minutes
 
 - For this prototype, proceed the same as you did before by click on the blue alert box to move forward in the prototype.
 - Please go through these next few questions and remember to think aloud as much as possible. We want to hear your thoughts on the content and information here. You can click the "Continue" button when you're ready to proceed to the next page. (They can go back if they click on the breadcrumb link).
@@ -220,22 +204,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 
 
-## Sixth Task: [PROTOTYPE PINEAPPLE - SIGNER SECTION] - 5 minutes
-
-
-- Same scenario, imagine that you have navigated through mid-way through the form and that you have already confirmed your basic information and then you arrive here.
-- You have filled out the Veteran Information section, the Application Information section, the Medicare Information section, and the Health Insurance Information section.
-- Navigate through the prototype now focusing on the content and instructions around the next few pages. Please remember to think aloud. 
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant have any issues with the content or understanding of the signer section?]
-> - [Does the participant seem to state it is clear this is their information and not the Veteran's?]
-
-
-
-
-## Seventh Task: [ALERT MESSAGES] - 10 minutes
+## Fifth Task: [ALERT MESSAGES] - 10 minutes
 
 - Now that we have gone through the second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
 - If you scroll down from the Prototype's main menu, you'll find a gray button labelled "warning alerts", go ahead and click on that.
