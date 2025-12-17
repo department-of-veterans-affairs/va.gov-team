@@ -82,11 +82,12 @@ I want you to imagine the same scenario – that you’re learning about Veteran
 * \[Probe if needed\] What do you think is the purpose of this message?  
 * Is there anything confusing about the message here?  
 * In your own words, what do you think this is telling you?  
-* What questions do you have, if any? 
+* What questions do you have, if any?  
+* Is there any other information that you think would be helpful to see here?  
 * What would you do if you wanted more information?  
-* What would you do next?   
+* What would you do next?  
 * Can you tell me if this information would influence your decision to apply or not? Why?
-
+* 
 Success Criteria: 
 
 * They mention their next step as not continuing to apply for Veterans Pension
