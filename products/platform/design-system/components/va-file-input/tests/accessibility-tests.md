@@ -219,10 +219,12 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 **1. Chrome + VO:**   
   - **When using the link:** N/A
   - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Focus is on the Change file button. The screen reader announces "Error. We do not accept .exstension files. Choose a new file."
+    - ✅ **Retested behavior on 12/17/25 when dragging** Announces: "change file. Error. We do not accept .mov files. Choose a new file. button, group"
 
 **2. Safari + VO:**    
   - **When using the link:** N/A
-  - ✅  **When dragging the file:**  The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "We do not accept .extension files. Choose a new file."
+  - ✅  **When dragging the file:**  The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "We do not accept .extension files. Choose a new file."   
+    - ✅ **Retested behavior on 12/17/25 when dragging** Announces "change file. Error. We do not accept .mp4 files. Choose a new file. button"
 
 **3. Safari + iOS + VO:**      
   - **When using the link:** N/A
@@ -311,12 +313,15 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
 **Screen readers**
 
 **1. Chrome + VO:**
-   - ✅ **When using the link:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - ✅ **When using the link:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
+
    - ✅ **When dragging the file:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
 
 **2. Safari + VO:**
-   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
-   - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
+     - ✅ **Retested behavior on 12/17/25 when using the link** Announces, "change file. Error. We can't upload your file because it's too big. Files must be less than 1 KB. button"
+   - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."  
+     - ✅  **Retested behavior on 12/17/25 when dragging the file** Announces, "change file. Error. We can't upload your file because it's too big. Files must be less than 1 KB. button"  
 
 **3. Safari + iOS + VO:**
    - ✅ **When using the link:** After the file uploads, the screen displays the error but focus goes to the change file button and it announces, " Change file error. We can't upload your file because it's too big. Files must be less than 1 KB"
@@ -377,9 +382,11 @@ A file has already been uploaded.
 **1. 🛑 Chrome + VO:** Inconsistent results with VO.   
   - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title   
   - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."   
-  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. N file selected."
+  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. No file selected."
+  -  ✅ **Retested behavior on 12/17/25** This is great. It announces "File deleted. No file selected. Select a file to upload..."
 
-**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."     
+**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."    
+    - ✅ **Retested behavior on 12/17/25** This is great. Announces "File deleted. No file selected. Select a file to upload. Drag a file here or choose from folder You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. Press Control-Option-Command-Slash to bring up the more content menu. To exit this web area, press Control-Option-Shift-Up Arrow.
 
 **3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.   
 
@@ -390,6 +397,7 @@ A file has already been uploaded.
 **6. ✅ Firefox + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "Drag a file here or choose from folder. File deleted. No file selected."    
 
 **7. ✅ Edge + JAWS:**  The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear "File deleted. No file selected."      
+
 **8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."   
 
 **Additional testing needed**
