@@ -30,3 +30,6 @@ _Add any OKRs, including year and full text, that this initiative maps to (if an
 - Designs
      - Desktop
      - Mobile
+ 
+## Decisions 
+- Include date, title and details
