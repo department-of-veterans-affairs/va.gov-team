@@ -508,6 +508,8 @@ A valid file is already uploaded.
 | 12/9/25    | **PR:** Mac, Safari, VO: After uploading, the page `<title>` is announced. The next tab takes the user to the component; (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport).  This worked once, but no longer. <br /><br />**Current:** After uploading, the page `<title>` is announced. The next tab takes the user to the component; (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport).   | Pre-existing |  | 
 
 
+## Dec 17 Afternoon Testing "Good Enough"
+
 | AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | Notes |
 | -- | ----- | ---- | ---- | ---- | ---- | --- |
 | Safari + VO | ❌ | Yes | ✅ | Yes | ✅  | I can tab to select the file input and when the whole thing is selected, it announces "No file selected" and only announces file name with tabbing to the change file button | 
