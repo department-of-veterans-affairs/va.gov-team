@@ -510,18 +510,18 @@ A valid file is already uploaded.
 
 ## Dec 17 Afternoon Testing "Good Enough"
 
-| AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | Notes |
+| AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | FileInput Component After upload announces selected file |
 | -- | ----- | ---- | ---- | ---- | ---- | --- |
-| Safari + VO | ❌ | Yes | ✅ | Yes | ✅  | I can tab to select the file input and when the whole thing is selected, it announces "No file selected" and only announces file name with tabbing to the change file button | 
-| Chrome + VO | ✅  | Yes | ✅  | Yes | ✅ | When tabbing to select the file input I first hear announced "File selected filename.jpg No file selected" | 
-| Edge + JAWS | ✅ announces hint text too | Yes | ✅ announces hint text too | Yes | ✅ | When tabbing to select the file input I first hear announced "You have selected filename.jpg No file selected" |
-| Firefox + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | When tabbing to select the file input I first hear announced "File selected filename.jpg No file selected" |
-| Chrome + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | When tabbing to select the file input I first hear announced "You have selected filename.jpg No file selected" |  
-| Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  When tabbing to select the file input I first hear announced "You have selected filename.jpg No file selected" |
-| Firefox + NVDA | ✅ announces instructional & hint text too (announced 2x) | Yes | ✅ announces instructional & hint text too | Yes | ✅  | When tabbing to select the file input I first hear announced "You have selected filename.jpg No file selected" |
-| Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | When tabbing to select the file input I first hear announced "You have selected filename.jpg No file selected" |
-| ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | When selecting the input after a file upload, it announces you have selected file name |
-| ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | When selecting the input after a file upload, it announces you have selected file name, followed by no file selected |
+| Safari + VO | ❌ | Yes | ✅ | Yes | ✅  | ❌ Announces no file selected | 
+| Chrome + VO | ✅  | Yes | ✅  | Yes | ✅ | ✅ | 
+| Edge + JAWS | ✅ announces hint text too | Yes | ✅ announces hint text too | Yes | ✅ | ✅ |
+| Firefox + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | ✅ |
+| Chrome + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | ✅ |  
+| Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
+| Firefox + NVDA | ✅ announces instructional & hint text too (announced 2x) | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
+| Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
+| ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
+| ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
 
 ---
 
