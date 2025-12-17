@@ -27,7 +27,7 @@ Both the **Veteran** and the **Claimant** (if the claimant is not the veteran) a
 The info we prefill the form with is pulled from the logged in user us mapped to the form data here. It is little effort to map it to different attributes/form data. and https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/form_profile_mappings/21-2680.yml  
 
 ### Anna's proposal: 
-
+(all parts 100% up for debate)
 If the user is logged in an identity-verified we prefill the claimant info with the info of the logged in user. The Claimant is someone we are certain is alive, but the veteran may not be.
 
 reorder the secitons:
