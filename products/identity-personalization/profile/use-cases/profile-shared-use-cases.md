@@ -145,7 +145,7 @@ Links to designs
 * [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1119-2228&t=C4fKcUFWpn2pUvgo-1)
 
 
-
+---
 
 
 <details><summary>Archive | Profile shared use cases, July 2025</summary>
