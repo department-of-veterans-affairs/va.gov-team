@@ -95,7 +95,9 @@ The identified entry point is the existing About form page. That section is bein
 
 | Key task | Responsibility | When to complete | Additional info |
 | Communicate if staged/incremental launch is planned | VEBT | ASAP | initiates coordination of widget creation |
+
 | Communicate date of staging review | VEBT | Once scheduled | Allows OCTO to prepare entry point preview links |
+
 | Communicate launch date | VEBT | Once scheduled | Allows OCTO to plan for updates to About and static pages |
 
 
