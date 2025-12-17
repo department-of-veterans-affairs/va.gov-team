@@ -18,9 +18,22 @@ In our initial iteration of the form, we assumed that the **User** was the **Vet
 
 ## New proposal
 
-### New Assumptions
+### New Assumptions/Context
 (validate with stakeholders)
 Both the **Veteran** and the **Claimant** (if the claimant is not the veteran) are likely (certain?) to have had previous contact with the VA. Because of this previous interaction, the Claimiant is likely in VA data sources like MPI (the master person index, where id's such as SSN and file number are stored) and VA Profile (the VA's central location for contact info such as addresses and phone numbers).
 
+The info we prefill the form with is pulled from the logged in user us mapped to the form data here. It is little effort to map it to different attributes/form data. and https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/form_profile_mappings/21-2680.yml  
 
-TODO: finish...
+### Anna's proposal: 
+
+If the user is logged in an identity-verified we prefill the claimant info with the info of the logged in user. The Claimant is someone we are certain is alive, but the veteran may not be.
+
+reorder the secitons:
+* What's your role?
+* Claimant info 
+  * name, SSN, DOB, AND address, phone, email
+* Veteran info (if veteran is not claimint, otherwise duplicate info from claimant section. 
+  * name, SSN, File number?, Service number?, DOB
+
+Login is optional for the veteran/claimant portion of the form. The level of effort is small (just update the start link and related messaging).  This allows caregivers to more easily assist the claimant. This is important when the claimant is unable to complete the task or is hospitalized. Requiring 2FA of a hospitalized person with a disability is a lot. There are times when a user would prefer to type all info rather than create/log in with an identity-verifeid account.
+
