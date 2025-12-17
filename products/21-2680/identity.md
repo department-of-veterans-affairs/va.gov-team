@@ -30,16 +30,26 @@ https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/model
 ### UX
 Some examples of how we progressively let people know they need to do more:
 
-![LOA1](./images/form526_LOA1.png)
-![form 526 unauth](./images/form526_unauth.png)
-![VA Profile L0A1](./images/vaprofile_LOA1.png)
+![LOA1](https://github.com/annaswims/va-docs/blob/main/images/form526_LOA1.png)
+![form 526 unauth](https://github.com/annaswims/va-docs/blob/main/images/form526_unauth.png)
+![VA Profile L0A1](https://github.com/annaswims/va-docs/blob/main/images/vaprofile_LOA1.png)
   
 ## Now what?
+Our stakeholders have shown interest in validating that the logged in user is a health professional.  Id.me 
 
-TODO: 
+Id.me references:
+[Verify with ID.me to Access Healthcare Services](https://www.id.me/individuals/healthcare-services)
+[Secure Healthcare Identity Verification for Patients and Providers](https://network.id.me/solutions/industries/healthcare/)
+[implementation details](https://docs.id.me/guides/learn-more/attributes-exchange/overview#medical-providers)
 
-Id.me 
-https://www.id.me/individuals/healthcare-services 
-https://network.id.me/solutions/industries/healthcare/
-https://docs.id.me/guides/learn-more/attributes-exchange/overview#medical-providers
-> 20% of the U.S. medical provider population already verified with id.me
+> 20% of the U.S. medical provider population already verified with id.me 
+> 
+## Open questions
+What is the cost associated with id.me and who and who has the authority to authorize it?
+
+What does the user expeirence look like in these senarios?
+* Someone without an accont on VA.gov
+* Someone with an identity-verified id.me account, that does not have the healthcare provider attribute from id.me
+* Someone who logged into VA.gov with login.gov before they arrived at our form?
+  
+
