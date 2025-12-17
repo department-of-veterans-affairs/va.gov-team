@@ -1,3 +1,5 @@
+<details><summary>Archive | Profile shared use cases, July 2025</summary>
+
 # Profile shared use cases
 **Last updated: July 2025**
 
@@ -158,5 +160,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 - **Content:**
 
 We're sorry. Something went wrong on our end and we can't load your [h3 section header]. Try again later.
+
+</details>
 
 </details>
