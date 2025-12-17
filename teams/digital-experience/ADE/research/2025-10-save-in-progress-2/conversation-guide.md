@@ -18,8 +18,8 @@
   1. Select "Open in browser".
   1. See "Setting up your codespace", and a browser tab w/command window
   1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
-  1. Check for all green text, and "webpack compiled successfully" ~~"Setup complete"~~ (if anything red, slack Colin)
-  1. Open standalone browser window with prototype: **https://bit.ly/TBD** (~~https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false~~) and test it
+  1. Check for all green text (no red), and "webpack compiled successfully"
+  1. Open standalone browser window with prototype: **https://bit.ly/456nrPv** (https://legendary-yodel-46rpq9g49pj37wv5-3002.app.github.dev/) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Slack Perigean notetaker a link to the notes doc in GitHub
 - Post p# and "observer instructions" in #feedback-backchannel
@@ -164,7 +164,7 @@ We can help guide you through this if you need help. Please say what you're doin
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/TBD** 
+I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/456nrPv** 
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
 - Backup codespace: https://bit.ly/TBD
@@ -225,9 +225,7 @@ Please fill out this form to request your own military records, but I want you t
 - [Click on links on the interstitial page? My VA / form intro page]
   - [If so, ASK] What did you expect? What did you find?
 
-~~- [Notice "We'll save your application on every change"? Y / N]~~
-
-[Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
+[Note: If click on anything that goes outside the codespace, ask participant to go back in your browser.]
 
 ## Task 4: Take a break in filling out form (after enter phone number, before email address) 
 Let's say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
