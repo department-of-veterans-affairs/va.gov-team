@@ -2,12 +2,10 @@
 
 
 ## Overview
-The Claim Status Tool (CST) currently displays all claims in a single list without any functionality to help claimants easily locate a specific claim. As additional claim types are added, it will become increasingly important for claimants to find and review their claims efficiently within CST on the VA Mobile App and VA.gov.
-
-To start, we want to give users the ability to view open vs closed claims. But as new claim types are added, we'll want to explore possible alternatives for filtering (or sorting).
+The Claim Status Tool (CST) currently displays stacked alerts... 
 
 ## Problem Statement
-As a Veteran or other claimant I want to filter all my open vs closed claims so that I can easily track down a specific claim.
+As a Veteran or other claimant I want to 
 
 ## Desired User Outcomes
 
@@ -74,9 +72,10 @@ As a Veteran or other claimant I want to filter all my open vs closed claims so 
 ---
    
 ## Screenshots
-
+- https://www.figma.com/design/XXVKpM3DfeLgKzIGBI6r2W/CST-Alert-Improvements?node-id=3066-22662&m=dev&t=Tn3ZAP1EmUQKKkLl-1
+- https://www.figma.com/design/XXVKpM3DfeLgKzIGBI6r2W/CST-Alert-Improvements?node-id=3066-22662&t=Tn3ZAP1EmUQKKkLl-1 
 ### Before
-https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1765579248519/1787b3efc821df27a1a21fc2f525c562aa247fdf?wid=26-1765579317816
+
 
 ### After
 [lorem ipsum]
