@@ -18,6 +18,53 @@ See [identity](./identity.md) for a description of login/accounts.  TL;DR Anybod
 ## Assumptions Made
 In our initial iteration of the form, we assumed that the **User** was the **Veteran**. However, [we received feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127988) from our stakeholders that this should be changed.
 
+## Prefill
+How prefill works,technically.
+
+When I:
+* go to https://staging.va.gov/pension/aid-attendance-housebound/apply-form-21-2680/introduction and click start
+* an API call is made to https://staging-api.va.gov/v0/in_progress_forms/21-2680
+  * If a form was previously in progress for that user, the `InProgressForm` is returned from the database.
+  * If there is no current `InProgressForm` a new form is pre-filled [source](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/in_progress_forms_controller.rb#L16
+  * The structure & content of the prefill is defined [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/form_profile_mappings/21-2680.yml)
+
+<details>
+<summary>Example /v0/in_progress_forms/21-2680 response with newly prefilled data</summary>
+ 
+(some values altered for privacy, but you get the idea)
+
+````JSON
+{
+    "formData": {
+        "veteranInformation": {
+            "veteranFullName": {
+                "first": "Veronica",
+                "last": "Smith"
+            },
+            "veteranDob": "1942-07-09",
+            "phoneNumber": "3176666666",
+            "email": "test@gmail.com",
+            "veteranAddress": {
+                "street": "123 test st line 1",
+                "street2": "test line 2",
+                "city": "city",
+                "state": "AL",
+                "country": "USA",
+                "postalCode": "12345"
+            },
+            "veteranSsn": "1231231234"
+        }
+    },
+    "metadata": {
+        "version": 0,
+        "prefill": true,
+        "returnUrl": "/veteran-information"
+    }
+}
+````
+</details>
+
+
 ## New proposal
 
 ### New Assumptions/Context
