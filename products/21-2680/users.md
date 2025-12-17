@@ -13,6 +13,8 @@ Sometimes the **Claimant** is the **Child**, **Spouse** or **Parent** of the **V
 
 We know (by the nature of the form) that the **Claimant** is someone who needs assistance in personal care, due to a disability. Therefore, we should be especially cognicent of the challenges of this form. It's not unlikely that the Claimant is currently hospitalized.
 
+See [identity](./identity.md) for a description of login/accounts.  TL;DR Anybody can create an accout and log in. If the account is idenitity verified, and the VA has data about the person (as a veteran, dependent or similar) it will be connected to their account. 
+
 ## Assumptions Made
 In our initial iteration of the form, we assumed that the **User** was the **Veteran**. However, [we received feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127988) from our stakeholders that this should be changed.
 
