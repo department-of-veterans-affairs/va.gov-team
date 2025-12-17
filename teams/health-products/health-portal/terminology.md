@@ -29,5 +29,6 @@
 - _VCHIO_ - (pronounced _vee-chee-oh_) - Veterans and Consumers Health Informatics Office.
 - _VHIE_ (pronounced _vee-hee_) - Veterans Health Information Exchange.  This team owns the Share My Health Data website.
 - _VIA_ (pronouced _vee-yuh_) - A data service used by My HealtheVet APIs to retrieve some health data from VistA (see next entry).  VIA is slated to be sunset (no set date), and our team is in the process of migrating to HDR and Lighthouse.
-- _VistA_ - Veterans Health Information Systems and Technology Architecture.  One of the first Electronic Health Records (EHR) in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN). 
+- _VistA_ - Veterans Health Information Systems and Technology Architecture.  One of the first Electronic Health Records (EHR) in the country, and one of the only open source EHRs.  There are 147 different installations for each of the VA medical centers (VISN).
+- _VTT_ - VistA Transition Team
 - _WTF bot_ - a bot in the DSVA Slack workspace that can be used to look up the meaning of acronyms.  Enter the command `/WTF` followed by the abbreviation in question.
