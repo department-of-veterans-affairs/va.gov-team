@@ -2,7 +2,7 @@
 
 1. Download the spreadsheet sent by Contact Center to your machine/locally on the VA network. 
 
-2. Scrub the feedback of PII/PHI. Scan the entire dataset for open text fields and replace personal information with codes as follows:
+2. Scrub the feedback of PII/PHI. Scan the entire dataset for open text fields and replace personal information (including the name of the person submitting the feedback, VA staff, or any other names) with codes as follows:
 - Email addresses - PII_EMAIL
 - Names - PII_NAME
 - Social security numbers - PII_SSN
