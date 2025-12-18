@@ -2,7 +2,7 @@
 title: "VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing, 12/16/25"
 author: Jessica Sutantio & Riley Orr
 date_created: 12/16/25
-last_modified: 12/16/25
+last_modified: 12/18/25
 tags:
   - "research"
   - "usability-testing"
@@ -167,7 +167,11 @@ This is the current file view with the current 686c PDF form. You might be famil
 ### Evaluating Orange (Baseline Minimal) - 10 mins (start @ :20)
 _Instruct participant to click on the "Edit Properties" button at the top left, which will bring them to the variations screen._
 
-Now we're going to show you a variation of what you've seen so far. Like a cooking show, I want you to describe what you're seeing, thinking, and doing. If you're scrolling, using the keyboard, or repositioning the window, I'd like you to narrate your actions. Before we proceed, do you have any questions?
+Now we're going to show you a variation of what you've seen so far. Two things to note: 
+1. These concepts contain future header designs for VBMS Home. We won't focus on these headers and top navigation bar today but wanted to set that context.
+2. We will assume a scenario in which Jamie's 686c form was submitted online via VA.gov.
+
+Like a cooking show, I want you to describe what you're seeing, thinking, and doing. If you're scrolling, using the keyboard, or repositioning the window, I'd like you to narrate your actions. Before we proceed, do you have any questions?
 Please click on 'Enter Orange'. Just like PDF form, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please skim through the sections, questions, and answers until you get to the bottom of the page. We don't expect you to read everything, but we want you to get a feel for the type of the information and how it's being displayed. Please think aloud as you review the page.
 
 `Observe navigation methods (e.g., scrolling, tabbing)`
@@ -183,7 +187,7 @@ Please click on 'Enter Orange'. Just like PDF form, imagine that this is what yo
     * Why?
     * [If low score] What would make it more easier?
 
-#### TASK: Can you find the filenames of the supporting documents that were uploaded with the claim?
+#### TASK: Within this page, can you find the filenames of the supporting documents that were uploaded with the claim?
 
 [Answer: "other_evidence", "disability_evidence", "adoption_papers"]
 
@@ -204,20 +208,6 @@ Please click on 'Enter Orange'. Just like PDF form, imagine that this is what yo
         * [Probe about visual elements like divider, typography, spacing]
 * How does this compare to what you're used to?
     * What is your preference? Why?
-
-#### Syntax (incl. online vs PDF)
-
-* Did you notice a difference in the wording being used in the questions and answers?
-
-The order and wording of the questions and answers here reflect the Q&A that Veteran was shown online, rather than what is shown on the 686c PDF/ paper.
-
-* What are your thoughts on how the online questions slightly differ from the paper/ PDF version
-    * Which Q&A syntax do you prefer? The online version or the paper/ PDF version? Why?
-        * What are the pros and cons?
-* [NTH] Do you want to see full SSNs? Or censored versions that reveal only the last 4 digits.
-* [NTH] Which format for names do you prefer? All in one line or broken out in separate lines for first, middle, and last name?
-* [NTH] Which format for addresses do you prefer? Broken out in separate fields or condensed in postal format?
-    * Looking at question 4, what are your thoughts on the the country field preceding the rest of the address?
 
 
 #### Numbering
@@ -268,7 +258,6 @@ Now we're going to show you a variation of what you've seen so far. Please click
     * [If low score] What would make it more easier?
 
 
-
 #### TASK: Where does it show that Jamie has certified the accuracy of their information on the form they just submitted?
 
 * On a scale from 1-5, 1 being very difficult and 5 being very easy... How easy was it to find the answer?
@@ -293,13 +282,6 @@ Now we're going to show you a variation of what you've seen so far. Please click
 * How would you navigate through this page?
     * [Probe scrolling, tabbing]
 
-
-#### [NTH] Online vs. PDF
-
-This variation uses the numbering and question wording of the current PDF version of 686c. Therefore, the order and verbiage is slightly different than what is displayed and asked of Veteran Jamie, who filled out the form online on VA.gov.
-
-* How do you feel about that?
-    * What version of wording would you prefer? Why?
 ---
 
 ### Concept comparisons (Digital PDF vs Minimal)  - 5 minutes (start @ :30)
@@ -381,6 +363,25 @@ Observe navigation methods (e.g., scrolling vs sidenav)
     * How would you use it? 
     * How often and in what scenarios?
     * How does it compare to your previous method of navigating?
+ 
+
+
+#### Syntax (online vs PDF)
+* What do you think about the wording being used in the headers, questions and answers?
+If you may navigate to question 63 (child's disability status question).
+
+`Observe how they navigate`
+
+The order and wording of the questions and answers here reflect the Q&A that Veteran was shown when filling out the form on VA.gov, rather than what is shown on the 686c PDF/ paper.
+
+* What are your thoughts on how the online questions slightly differ from the paper/ PDF version
+    * Which Q&A syntax do you prefer? The online version or the paper/ PDF version? Why?
+        * What are the pros and cons?
+* [NTH] Do you want to see full SSNs? Or censored versions that reveal only the last 4 digits.
+* [NTH] Which format for names do you prefer? All in one line or broken out in separate lines for first, middle, and last name?
+* [NTH] Which format for addresses do you prefer? Broken out in separate fields or condensed in postal format?
+    * Looking at question 4, what are your thoughts on the the country field preceding the rest of the address?
+
 
 
 #### [If not asked earlier] Skipped sections & questions
@@ -398,17 +399,16 @@ This section was not required to be filled out, so our demo Veteran, Jamie, didn
 * Is it helpful to know when a Veteran is asked an optional question, but they do not provide an answer?
     * [Clarifying note: The Veteran should not be able to submit the form online if the question is required.]
 
+#### Download button (opens "save-as" dialog box)
 
-#### Search
-
-* Is there a scenario when you would search for specific information on this page?
-    * What are you searching for? Why?
-    * How often?
-    * How would you go about doing that?
-* What's the difference between having a search bar on the page versus using the keyboard to ctrl + F?
-    * What's your preferred method?
-    * [If search bar] Where would you put the search bar?
-
+* What do you think happens when you click the button?
+* Is this useful to you? 
+    * How would you use it? 
+    * How often and in what scenarios?
+    * [Probe] If there was no download button, how would you save this document?
+* Would you want to print this form? 
+    * How would you achieve that? 
+    * What's ideal?
 
 #### [NTH] 3 column layout + accordions
 
@@ -427,18 +427,6 @@ This section was not required to be filled out, so our demo Veteran, Jamie, didn
         * [If not asked yet] What are you thoughts on the "Not applicable" text?
         * Would you want the default for all skipped sections to be collapsed? Included at all?
 
-
-
-#### [NTH] Download button (opens "save-as" dialog box)
-
-* What do you think happens when you click the button?
-* Is this useful to you? 
-    * How would you use it? 
-    * How often and in what scenarios?
-    * [Probe] If there was no download button, how would you save this document?
-* Would you want to print this form? 
-    * How would you achieve that? 
-    * What's ideal?
 
 #### Closing Apple
 * [If not previously asked] What feature or aspect, is most important to help you accomplish your goal when adjudicating a 686c claim? [Reference previously-mentioned goals]
@@ -463,14 +451,13 @@ This section was not required to be filled out, so our demo Veteran, Jamie, didn
 ---
 
 ### Transition implications and impact on workflow - 3 minutes (start @ :55)
-
-* How would you imagine your and your team's workflow and process would change if this was implemented?
-* What are things we must consider if you and your team are handling both the current PDF output and a permutation of these concepts at the same time – with the goal of eventually transitioning out the current PDF solution?
-* What would the training look like? 
-    * What information or features should be included to help new VSRs train and acclimate to the adjudication process?
-    * How does it differ from training with the current PDF output?
-* How would you rate your willingness to switch over from the PDF output to a permutation of the concepts we showed to you today, from a scale of 1-5, 1 being not willing at all, 5 being extremely willing? Why?
-    * Would you say most of your coworkers would agree with you?
+* How would you imagine your and your team's workflow and process would change if this was implemented? 
+* How would you rate your willingness to switch over from the PDF output to a permutation of the concepts we showed to you today, from a scale of 1-5, 1 being not willing at all, 5 being extremely willing? Why? 
+  * Would you say most of your coworkers would agree with you? 
+* What would the training look like?  
+  * What information or features should be included to help new VSRs train and acclimate to the adjudication process? 
+  * How does it differ from training with the current PDF output? 
+* [NTH] What are things we must consider if you and your team are handling both the current PDF output and a permutation of these concepts at the same time – with the goal of eventually transitioning out the current PDF solution? 
 
 ---
 
