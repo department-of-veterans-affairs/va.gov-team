@@ -6,34 +6,54 @@ Evidence request display content is distributed across multiple systems in the V
 
 ## Architecture Diagram
 
-```
-┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                           DATA FLOW                                               │
-└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+%%{init: {'flowchart': {'wrappingWidth': 400, 'useMaxWidth': false}}}%%
+flowchart TB
+    subgraph Lighthouse["Lighthouse (VBMS/BGS)"]
+        LH["`id (integer)
+displayName (string)
+description (string)
+status (string)
+requestedDate (string)
+receivedDate (string|null)
+closedDate (string|null)
+suspenseDate (string|null)
+overdue (boolean)
+uploaded (boolean)
+uploadsAllowed (boolean)`"]
+    end
 
-                                                              ┌─────────────────────────────────────┐
-                                                         ┌───▶│           vets-website              │
-                                                         │    └─────────────────────────────────────┘
-                                                         │                    │
-┌──────────────────┐     ┌──────────────────┐           │                    ▼
-│   Lighthouse     │────▶│    vets-api      │───────────┤      + longDescription (JSX)
-│   (VBMS/BGS)     │     │                  │           │      + nextSteps (JSX)
-└──────────────────┘     └──────────────────┘           │      + isProperNoun
-        │                        │                       │      + noActionNeeded
-        │                        │                       │      + isDBQ
-        ▼                        ▼                       │      + isSensitive
-  id                      + friendlyName                │      + noProvidePrefix
-  displayName             + activityDescription         │
-  description             + shortDescription            │    ┌─────────────────────────────────────┐
-  status                  + supportAliases              └───▶│          va-mobile-app              │
-  requestedDate           + canUploadFile                    └─────────────────────────────────────┘
-  receivedDate            + status overrides                              │
-  closedDate              + suppression                                   ▼
-  suspenseDate                                                 (No additional content layer)
-  overdue                                                      Uses Lighthouse fields directly:
-  uploaded                                                     - displayName (as title)
-  uploadsAllowed                                               - description (raw VBMS text)
-                                                               Does NOT use vets-api enrichment
+    subgraph VetsAPI["vets-api"]
+        API["`+ friendlyName (string|null)
++ activityDescription (string|null)
++ shortDescription (string|null)
++ supportAliases (string[])
++ canUploadFile (boolean)`"]
+    end
+
+    subgraph VetsWebsite["vets-website"]
+        Web["`+ longDescription (JSX)
++ nextSteps (JSX)
++ isProperNoun (boolean)
++ noActionNeeded (boolean)
++ isDBQ (boolean)
++ isSensitive (boolean)
++ noProvidePrefix (boolean)`"]
+    end
+
+    subgraph MobileApp["va-mobile-app"]
+        Mobile["`(No additional content layer)
+
+Uses Lighthouse fields directly:
+<br>
+- displayName (as title)<br>
+- description (raw VBMS text)
+    `"]
+    end
+
+    Lighthouse --> VetsAPI
+    VetsAPI --> VetsWebsite
+    VetsAPI --> MobileApp
 ```
 
 ### Content Layer Summary
@@ -279,8 +299,6 @@ These tracked items are hidden from users when feature flags are enabled:
 
 ## 3. vets-website (Frontend Content Layer)
 
-**Repo**: [department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website)
-
 **Key File**: [`src/applications/claims-status/utils/evidenceDictionary.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/evidenceDictionary.jsx)
 
 The frontend maintains a dictionary of rich content for evidence requests. This content is currently implemented as JSX (React components) but the underlying content (text, links, lists) could potentially be moved to vets-api and served as structured data (JSON, markdown, etc.).
@@ -344,8 +362,6 @@ The frontend maintains a dictionary of rich content for evidence requests. This 
 ---
 
 ## 4. VA Mobile App
-
-**Repo**: [department-of-veterans-affairs/va-mobile-app](https://github.com/department-of-veterans-affairs/va-mobile-app)
 
 **Key Files**: 
 - [`VAMobile/src/screens/BenefitsScreen/ClaimsScreen/ClaimDetailsScreen/ClaimStatus/ClaimFileUpload/FileRequest.tsx`](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/src/screens/BenefitsScreen/ClaimsScreen/ClaimDetailsScreen/ClaimStatus/ClaimFileUpload/FileRequest.tsx)
@@ -471,13 +487,3 @@ export type ClaimEventData = {
 > **21-4142/21-4142a**
 > 
 > VA Form 21-4142
-
----
-
-## Related Issues & Resources
-
-- GitHub Issue: [#126870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126870) - Suppressed evidence requests documentation
-- [vets-api `constants.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/constants.rb) - Content mapping definitions
-- [vets-api `service.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/service.rb) - See `apply_friendlier_language` method
-- [vets-website `evidenceDictionary.jsx`](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/evidenceDictionary.jsx) - Frontend content dictionary
-
