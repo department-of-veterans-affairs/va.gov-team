@@ -21,9 +21,9 @@ def is_markdown_file(filename):
 class ResearchContentProcessor:
     """Processes research files to extract key information."""
     
-···· def __init__(self, file_path: str):
-········normalized_path = unicodedata. normalize('NFKC', str(file_path).strip())
-········self.file_path = Path(normalized_path)
+    def __init__(self, file_path: str):
+        normalized_path = unicodedata. normalize('NFKC', str(file_path).strip())
+        self.file_path = Path(normalized_path)
         
     def extract_title(self, content:  str) -> str:
         """Extract title from markdown content."""
