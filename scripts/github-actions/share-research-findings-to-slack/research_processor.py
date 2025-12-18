@@ -13,6 +13,9 @@ from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
 
+def is_markdown_file(filename):
+    """Check if a file has a markdown extension."""
+    return os.path.splitext(filename)[1].lower() == '.md'
 
 class ResearchContentProcessor:
     """Processes research files to extract key information."""
