@@ -56,6 +56,30 @@ The existing prescription refill flow is:
 2. Backend submits individual refill requests to source pharmacy systems (Vista, Oracle Health)
 3. Backend returns a list of per-prescription success/failure status
 
+**Current Refill Flow:**
+
+```mermaid
+sequenceDiagram
+    participant Veteran
+    participant Frontend
+    participant vets-api
+    participant UHD API
+    participant Vista/OH
+
+    Veteran->>Frontend: Selects prescriptions & clicks "Refill"
+    Frontend->>vets-api: POST /prescriptions/refill<br/>[prescription_id_1, prescription_id_2, prescription_id_3]
+    
+    loop For each prescription ID
+        vets-api->>UHD API: Submit refill request
+        UHD API->>Vista/OH: Process refill
+        Vista/OH-->>UHD API: Success/Failure
+        UHD API-->>vets-api: {success: true/false, message: "..."}
+    end
+    
+    vets-api-->>Frontend: Return array of results<br/>[{id: 1, success: true}, {id: 2, success: false}, ...]
+    Frontend-->>Veteran: Show per-prescription status
+```
+
 ## Existing Data Analysis
 
 This section analyzes the data currently available from both Oracle Health (OH) and Vista prescription sources.
