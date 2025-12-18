@@ -188,7 +188,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 ### Path 1A: Participant signs in before finding form
 
-[If p says that they'd sign in, let them click --> **Sign in** --> My VA]
+[If p says they'd sign in, let them click --> **Sign in** --> My VA]
 
 [What do they want to do next?]
 
@@ -234,7 +234,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
   - To simulate that, could you please sign out now? 
-  - [Or ask to click on the Hat button -- to Unauth VA.gov]
+  - [Or ask to click on the **Hat** button -- to Unauth VA.gov]
   
 - What do you think will happen to the information you entered?
   
@@ -247,7 +247,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 ## Task 5: Resume filling out form [from unauth VA.gov]
 OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
 
-- [If they're not on the unauth VA.gov home page, ask them click on the Hat button]
+- [If they're not on the unauth VA.gov home page, ask them click on the **Hat** button]
 - [Record how resume form:]
   - Sign in --> My VA (Mittens) --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Umbrella) --> Sign in --> auth form intro --> Continue your request
@@ -267,7 +267,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 # Post-Task Interview - 5 minutes
 
 [**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
-1. Overall, about everything on the website in this session...What worked *well* for you?
+1. Overall, about everything you've seen in this session...What worked *well* for you?
 1. What was *unclear or did not work well* for you?
      - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
@@ -309,7 +309,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - **STOP the Codespace**:
   1. Open the stop/start URL in github
   1. Click on green "<> Code" button
-  1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-musical space goggles)
+  1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-legendary-yodel)
   1. Click on the ellipsis (...) next to your codespace 
   1. Select "Stop codespace"
 
