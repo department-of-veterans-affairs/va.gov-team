@@ -1,7 +1,7 @@
 # Profile hub use cases
 
 Last updated: December 2025  
-* [User flow](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=526-8464&t=5gNJl8nwBlsZFsSR-1)  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753115099089/92e988a77435d7b4d90635dd97ed8ec54af5ee14?sender=u36b374887f74c9a3de2d0750)  
 * [Figma files](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=526-8464&t=xMJXoKPJELHyWbSl-1)
 
 
