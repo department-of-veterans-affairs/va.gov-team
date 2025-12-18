@@ -1,11 +1,18 @@
-# [WIP]  Stacked Alerts - Evidence Requests Product Outline 
+# [WIP]  CST - Alerts - Product Outline 
 
 
 ## Overview
-The Claim Status Tool (CST) currently displays stacked alerts... 
+The Claim Status Tool (CST) currently displays alerts everywhere through out the claim status tool such as stacked or on a different page. There are cards to help organize alerts related to the claim. 
+When a veteran logins to mobile web or desktop an alert is displayed, there veteran would not have been notified of this via email or badge notifications. Currently, the veteran is not always able to resolve the alert (e.g. tracked items). Dismissable alerts are the only alerts that a veteran dismisses on their own (such as informational alerts) thus leaving the veteran with many alerts on their tool. 
 
 ## Problem Statement
-As a Veteran or other claimant I want to 
+As a Veteran or other claimant I want to be notified of: 
+- Evidence Requests (stacked) 
+- Board Appeals (pages)
+- Services Unavilable (legacy design to cards) 
+- Confirmation Alerts (UI consistency) 
+Currently, there are too many alerts in too many places and
+Alerts don't always mean the same things, yellow = warnings, blue = informational, red = errors, green = success
 
 ## Desired User Outcomes
 
@@ -13,16 +20,21 @@ As a Veteran or other claimant I want to
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?* 
 
 ## Undesired User Outcomes
-[lorem ipsum]
-
+- Veterans call for support regarding their claims and alerts about the claims.
+- Veterans don't know how or where to take action after being notified of their alert.
+  
 ## Desired Business Outcomes
-
 - *Why would your business want this to exist?* 
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* 
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Build trust with the tool
+- Decrease need to contact call centers for support
+- Reduce operational inefficiences 
 
 ## Undesired Business Outcomes
-
-[lorem ipsum]
+- Increase Calls  volume to contact centers ....
+- Missing court date / hearings
+- Administrative burden to the VA
+- distrust with the VA 
 
 ---
 ## Measuring Success
@@ -33,7 +45,9 @@ As a Veteran or other claimant I want to
 * _What are the most important metrics that track with this product/initiative's success?_
 
 #### Baseline KPI Values
-[lorem ipsum]
+- how frequently veterans are logging into MyVA check alerts regarding their claims
+- trust with the claim status tool
+- trust with 
 
 ### Objectives and Key results (OKRs)
 [lorem ipsum]
