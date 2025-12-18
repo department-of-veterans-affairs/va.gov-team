@@ -49,7 +49,7 @@ TBD
 # Sprint 6 (Dec 16-29, 2025)
 
 ## Sprint 6 Goals
-- [ ] Sprint Goals Approved by Enablement 
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on December 17, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1765993055977109?thread_ts=1765927459.310269&cid=C06GE5N7QJ0)) 
 
 **Team Accreditation**: 
 1. **[Rep Data] GCLAWS Accreditation API Integration**: Continue testing the Accreditation API in Production
@@ -129,7 +129,7 @@ TBD
 # Sprint 5 (Dec 2-15, 2025)
 
 ## Sprint 5 Goals
-- [ ] Sprint Goals Approved by Enablement 
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on December 3, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1764797730747719?thread_ts=1764777609.876169&cid=C06GE5N7QJ0)) 
 
 **Team Accreditation**: 
 1. **[Rep Data] GCLAWS Accreditation API Integration**: Test the Accreditation API in Production, enable the integration and retest
@@ -164,7 +164,7 @@ TBD
 
 
 ## Sprint 5 Delivery
-- [ ] Sprint Delivery Approved by Enablement
+- [x] Sprint Delivery Approved by Enablement - Jen Bertsch on December 17, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1765993055977109?thread_ts=1765927459.310269&cid=C06GE5N7QJ0)) 
 
 **Planned for Sprint 5**: 38 tickets, 115 points + 2 spikes \
 **Added as a Sprint 5 stretch goal**: 11 tickets, 40 points
@@ -283,7 +283,7 @@ TBD
 
 
 ## Sprint 4 Delivery
-- [ ] Sprint Delivery Approved by Enablement
+- [x] Sprint Delivery Approved by Enablement - Jen Bertsch on December 3, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1764797841956309?thread_ts=1764777609.876169&cid=C06GE5N7QJ0)) 
 
 **Planned for Sprint 4**: 37 tickets, 113 points + 2 spikes \
 **Added as a Sprint 4 stretch goal**: 9 tickets, 17 points + 2 spikes 
