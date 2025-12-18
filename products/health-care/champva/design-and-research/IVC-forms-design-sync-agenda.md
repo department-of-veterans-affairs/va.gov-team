@@ -1,6 +1,86 @@
 # Running Design and Research Agenda
 
 
+## December 18, 2025
+
+Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea 
+
+### Agenda: 
+		- Review UX roadmap (now column) 
+		
+
+### Notes: 
+
+
+
+NOW: 
+
+Monthly metrics + Medalia reporting and tagging, revisit 
+Incorporate call center logs for November/December
+
+EZ/EZR Service Blueprinting
+
+10-10D
+- Eligibility check, with content then will do testing
+- Birth certificate for newborns
+- Staging review findings: buckets with a focus on content or VADS
+
+Claims
+- Duty to assist with content
+
+
+FMP 
+- Research study closed out
+- Adjusted static page content from team, update source of truth 
+
+FMP regroup - 
+More concerning of timing of background items, understand business wants things moving faster but there are a lot of parts
+No real concrete timeline of portal integration for direct deposit
+
+
+OHI 
+- MBI and future effective date, with content 
+
+CG
+- Service blueprinting 
+
+
+STAGING REVIEW STUFF
+
+- content bucketed items via one intake ticket
+
+
+
+Talked through content priority list 
+1. FMP claims
+2. OHI Medicare
+3. Birth certificate for newborn
+4. Tricare eligibility 
+5. DTA
+6. 10-10d v2 staging review findings + intro page update
+
+Third bucket need UX discovery
+- adopted dependent, drop down for single doc type
+- Do additional doc types exist?
+If not, can we delete
+
+Signer and Veteran section are repetitive, for Veterans completing the form
+- This could potentially be addressed via the Tricare eligibility work that will also impact the flow
+
+
+File Upload component 
+All are using V1
+V3 did a big release back in October with fixes, encrypted files, not supported in V3
+
+Service blueprints coming on health enrollment side
+- talk about journeys of service connected rating and impacting the blueprint
+
+
+
+
+-----
+
+
 ## December 4, 2025
 
 Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda 
