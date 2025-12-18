@@ -199,7 +199,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Jan 14, Wed, 12 - 1 or 1:30 PM ET`
 - `Jan 14, Wed, 2 - 3 or 3:30 PM ET`
 - `Jan 14, Wed, 5 - 6 or 6:30 PM ET`
-- `Jan 14, Wed, 7 - 8 or 8:30 PM ET`
 - `Jan 15, Thu, 12 - 1 or 1:30 PM ET`
 - `Jan 15, Thu, 2 - 3 or 3:30 PM ET`
 - `Jan 15, Thu, 7 - 8 or 8:30 PM ET`
