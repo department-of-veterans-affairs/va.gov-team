@@ -168,8 +168,6 @@ This is the current file view with the current 686c PDF form. You might be famil
 
 _Instruct participant to click on the "Edit Properties" button at the top left, which will bring them to the variations screen._
 
-Now we're going to show you a variation of what you've seen so far. 
-
 Now we're going to show you a variation of what you've seen so far. Two things to note: 
 1. These concepts contain future header designs for VBMS Home. We won't focus on these headers and top navigation bar today but wanted to set that context.
 2. We will assume a scenario in which Jamie's 686c form was submitted online via VA.gov.
