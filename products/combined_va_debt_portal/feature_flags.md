@@ -4,22 +4,22 @@
 
 | Flag Name                                                   | Client | API |
 | ----------------------------------------------------------- | :----: | :-: |
-| combinedDebtPortalAccess, combined_debt_portal_access       |  ✅ | ✅ |
-| debtLettersShowLettersVBMS, debt_letters_show_letters_vbms  |  ✅   | ✅  |
-| CdpPaymentHistoryVba, cdp_payment_history_vba               |  ✅   | ✅  |
-| showCDPOneThingPerPage, show_cdp_one_thing_per_page         |   ✅   | ✅  |
-| showVHAPaymentHistory, vha_show_payment_history             |   ✅   | ✅  |
+| combined_debt_portal_access       |  ✅ | ✅ |
+| debt_letters_show_letters_vbms  |  ✅   | ✅  |
+| cdp_payment_history_vba               |  ✅   | ✅  |
+| show_cdp_one_thing_per_page         |   ✅   | ✅  |
+| vha_show_payment_history             |   ✅   | ✅  |
 
 ## Financial Status Report
 
 | Flag Name                                                              | Client | API |
 | ---------------------------------------------------------------------- | :----: | :-: |
-| showFinancialStatusReport, show_financial_status_report                |   ✅   | ✅  |
-| showFinancialStatusReportWizard, show_financial_status_report_wizard   |   ✅   | ✅  |
-| showFinancialStatusReportStreamlinedWaiver, show_financial_status_report_streamlined_waiver |   ✅   | ✅  |
-| financialStatusReportReviewPageNavigation, financial_status_report_review_page_navigation |   ✅   | ✅  |
-| fsrConfirmationEmail, fsr_confirmation_email                           |   ✅   |     |
-| fsrServerSideTransform, fsr_5655_server_side_transform                 |   ✅   | ✅  |
+| show_financial_status_report                |   ✅   | ✅  |
+| how_financial_status_report_wizard   |   ✅   | ✅  |
+| show_financial_status_report_streamlined_waiver |   ✅   | ✅  |
+| financial_status_report_review_page_navigation |   ✅   | ✅  |
+| fsr_confirmation_email                           |   ✅   |     |
+| fsr_5655_server_side_transform                 |   ✅   | ✅  |
 | financial_management_vbs_only                                          |   ✅   |     |
 | fsr_zero_silent_errors_in_progress_email                               |   ✅   |     |
 | combined_financial_status_report                                       |        |     |
