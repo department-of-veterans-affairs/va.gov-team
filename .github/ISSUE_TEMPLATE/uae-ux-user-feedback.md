@@ -1,7 +1,7 @@
 ---
 name: UAE UX User Feedback Synthesis Template
 about: User Feedback Synthesis for the Unified Appointments Experience Team
-title: "[Team] User Feedback Synthesis - Week # 2025"
+title: "[Team] User Feedback Synthesis - Week # 2026"
 labels: ''
 assignees: ''
 
@@ -10,10 +10,9 @@ assignees: ''
 ## Description
 Process feedback from Medallia and Mobile app surveys.
 
-## Appointments Team
-[Feedback Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/how-to-request-medallia-feedback.md)
-
-Link to Analytics team ticket: [Replace with Link]
+## Resources
+- [Steps to process user feedback](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/how-to/medallia-feedback)
+- [Epic for tracking user feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128236)
 
 ## Tasks
 - [ ] Request feedback
