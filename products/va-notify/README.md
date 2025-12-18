@@ -8,15 +8,6 @@ VA Notify will not start new notification intakes after November 15. Our focus w
 ### Holiday launches:
 Once the government reopens, teams may continue to push approved notifications to production. However, please avoid launching new notifications right before the holidays unless there’s a business-critical deadline. The VA platform code freeze runs [December 22, 2025 – January 5, 2026](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Holidayreleasefreezeschedule), with limited support during that period. If you have urgent needs that must be addressed before year end, please reach out as soon as possible for review.
 
-### Government shutdown:
-Please note that during the ongoing government shutdown the current processes remain in effect:
-Discovery and staging work can continue.
-Edits to existing notifications that are in-production are allowed.
-We are unable to accommodate new phone number requests (short code, 10DLC).
-New notification templates must be evaluated on a case-by-case basis before moving to production. Please contact us ASAP for evaluation of your business case.
-If you have questions about our Year-End Intake Pause and/or government shutdown processes please contact us.
-
-
 # VA Notify, Enterprise Notification Platform
 
 **Mission**
@@ -197,6 +188,9 @@ Please reach out to [va-notify-public](https://dsva.slack.com/archives/C010R6AUP
 
 ## FAQ
 ### Business & Process FAQ
+
+**Are there any blackout hours for sending SMS?**
+- Yes. SMS messages are subject to legally required “courtesy hours,” also known as quiet hours. Messages should generally be sent only between 8:00 AM and 9:00 PM in the recipient’s local time. Please plan your notifications accordingly to remain compliant.
 
 **How can Veterans opt in and opt out of SMS messages?**
 
