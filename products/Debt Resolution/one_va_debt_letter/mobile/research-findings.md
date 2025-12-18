@@ -295,6 +295,10 @@ Several participants expressed frustration over the lack of details in overpayme
 
     > _"What is happening behind the scenes, like why there would be a decrease or whatever – it just says increase or decrease." -P11_
 
+    > _"Looking at this, I'd like to know what the heck this balance increase in the amount of $15 per month is. Why is that done? And then this just says balance decrease $100.00." -P07_
+
+    > _"So who paid that $100? [balance decrease] Was that paid by insurance, was that paid by a third party carrier? It doesn't give me enough information at all to tell me how that was done." -P08_
+
 Some participants reported challenges when working with community care.
 - Community care allows Veterans to receive medical services from external providers when VA cannot deliver. Two participants described difficulties with submitting claims and navigating separate systems.
 
