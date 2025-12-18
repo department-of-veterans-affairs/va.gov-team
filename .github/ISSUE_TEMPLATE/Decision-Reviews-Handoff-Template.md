@@ -24,7 +24,7 @@ projects: ["department-of-veterans-affairs/1434"]
 * _Edit/update list as needed_
 
 ## Process
-- [ ] Handoff materials pepared
+- [ ] Handoff materials prepared
 - [ ] Handoff meeting scheduled
 - [ ] Handoff conducted
 - [ ] Any follow-up questions addressed
