@@ -134,7 +134,7 @@ Should be designed mobile-first given the form-filling nature of the experience 
 ### Timeline
 
 **Major milestones:**
-- Design completion using arrayBuilder and existing 10-10EZ patterns: [TBD]
+- Design completion displaying previous history and existing 10-10EZ question pages patterns: [TBD]
 - File upload capability enhancement/content changes: [TBD]
 - Integration testing: [TBD]
 
