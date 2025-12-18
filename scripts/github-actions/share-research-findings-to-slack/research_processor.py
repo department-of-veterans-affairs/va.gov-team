@@ -22,7 +22,7 @@ class ResearchContentProcessor:
     """Processes research files to extract key information."""
     
     def __init__(self, file_path: str):
-        normalized_path = unicodedata. normalize('NFKC', str(file_path).strip())
+        normalized_path = unicodedata.normalize('NFKC', str(file_path).strip())
         self.file_path = Path(normalized_path)
         
     def extract_title(self, content:  str) -> str:
@@ -36,7 +36,7 @@ class ResearchContentProcessor:
                 
         # Fall back to H2 if no H1 found
         for line in lines: 
-            if line. startswith('## '):
+            if line.startswith('## '):
                 return line[3:].strip()
                 
         return "Research Findings"
@@ -69,9 +69,9 @@ class ResearchContentProcessor:
             # Check if we're entering a summary section
             if not in_summary_section: 
                 for pattern in summary_patterns:
-                    if re.match(pattern, line. strip(), re.IGNORECASE):
+                    if re.match(pattern, line.strip(), re.IGNORECASE):
                         in_summary_section = True
-                        header_match = re.match(r'^(#{1,6})', line. strip())
+                        header_match = re.match(r'^(#{1,6})', line.strip())
                         summary_header_level = len(header_match. group(1)) if header_match else 1
                         break
                 continue
@@ -110,7 +110,7 @@ class ResearchContentProcessor:
                     if re.match(r'^\[!\[', line) or re.match(r'^<', line):
                         continue
                     # Collect paragraph lines until empty line
-                    if line. strip():
+                    if line.strip():
                         summary_content.append(line)
                     else:
                         if summary_content:
@@ -151,7 +151,7 @@ class ResearchContentProcessor:
                 if re.match(key_findings_pattern, line.strip(), re.IGNORECASE):
                     in_findings_section = True
                     # Capture the header level to know when to stop
-                    findings_header_level = len(re. match(r'^(#{1,6})', line.strip()).group(1))
+                    findings_header_level = len(re.match(r'^(#{1,6})', line.strip()).group(1))
                     continue
             
             # If we're in findings section, collect content
@@ -165,7 +165,7 @@ class ResearchContentProcessor:
                             break
                 
                 # Skip empty lines at start
-                if not findings_content and not line. strip():
+                if not findings_content and not line.strip():
                     continue
                 findings_content.append(line)
                 
@@ -204,7 +204,7 @@ class ResearchContentProcessor:
                 continue
             
             # Handle numbered lists (1. 2. 3. etc.)
-            numbered_match = re. match(r'^(\d+)[.\)]\s*(. +)$', stripped)
+            numbered_match = re.match(r'^(\d+)[.\)]\s*(.+)$', stripped)
             if numbered_match:
                 finding_number += 1
                 text = numbered_match. group(2)
@@ -230,7 +230,7 @@ class ResearchContentProcessor:
             
             # Regular paragraph text
             text = self._convert_markdown_formatting(stripped)
-            formatted_lines. append(text)
+            formatted_lines.append(text)
         
         # Join with newlines to preserve list structure
         return '\n'.join(formatted_lines).strip()
@@ -246,7 +246,7 @@ class ResearchContentProcessor:
         
         # Italic: *text* or _text_ -> _text_ (Slack uses underscores)
         # Be careful not to convert already-converted bold
-        text = re. sub(r'(? <!\*)_(.+?)_(?!\*)', r'_\1_', text)
+        text = re.sub(r'(? <!\*)_(.+?)_(?!\*)', r'_\1_', text)
         
         # Links: [text](url) -> <url|text>
         text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<\2|\1>', text)
@@ -268,8 +268,8 @@ class ResearchContentProcessor:
             else: 
                 return datetime.now().strftime('%Y-%m-%d')
                 
-        except subprocess. CalledProcessError: 
-            return datetime. now().strftime('%Y-%m-%d')
+        except subprocess.CalledProcessError: 
+            return datetime.now().strftime('%Y-%m-%d')
             
     def get_product_path(self) -> str:
         """Extract product/team path from file location."""
