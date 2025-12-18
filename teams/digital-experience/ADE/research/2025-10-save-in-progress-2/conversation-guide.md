@@ -167,7 +167,6 @@ Now I'd like you to open a website that I'm going to share with you.
 I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://bit.ly/456nrPv** 
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 - *(Might need to hold tablet horizontally so easier to read)*
-- Backup codespace: https://bit.ly/TBD
 
 Did you get the link? 
 
