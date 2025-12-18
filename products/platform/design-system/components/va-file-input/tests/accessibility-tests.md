@@ -530,7 +530,7 @@ A valid file is already uploaded.
 | Safari + VO | ❌ | No | ✅ | No | ✅  | ✅  | 
 | Chrome + VO | ✅  | No | ✅  | No | ✅ | ✅ | 
 | Edge + JAWS | ✅  | No | ✅  | No | ✅ | ✅ |
-| Firefox + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | ✅ |
+| Firefox + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |
 | Chrome + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |  
 | Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
 | Firefox + NVDA | ✅ | No | ✅ | No | ✅  | ✅ |
