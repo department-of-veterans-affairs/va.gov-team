@@ -315,7 +315,10 @@ Some participants reported challenges when working with community care.
 2. **Recommendation**: Hold off on adding a combined debt PDF to the mobile experience until future research identifies a strong user need for this feature.
     - *Supporting evidence: Although almost everyone found value in the combined statement PDF, their needs were met with individual statements, especially for print and large-screen use.*
 3. **Recommendation**: Conduct user research on the existing combined statement on the website (both the HTML and PDF versions) to assess whether Veterans find it valuable in ways that differ from individual statements. Use the results to further inform whether a combined statement should be built in the mobile app.
+    - Track how frequently individual users return to download the combined PDF multiple times, not only how often it's downloaded.
+    - Gather qualitative feedback on the unique benefits of combined statements compared to individual statements.
     - *Supporting evidence: Participants appreciated the combined PDF’s familiar format and summary view, but most needs were met by individual statements. Sending the combined PDF to someone for financial assistance was a unique use case, but it remains unclear whether Veterans would routinely download and use it in practice. Further research will clarify how Veterans actually interact with these statements and inform mobile app decisions.*
+
 
 
 ## Product User and Business Outcomes
