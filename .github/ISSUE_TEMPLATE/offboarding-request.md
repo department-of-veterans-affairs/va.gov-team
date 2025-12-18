@@ -73,4 +73,4 @@ _The following steps are performed by **Platform Support Tier 2 DevOps**. Detail
  - [ ] Figma editor access removed (if applicable. Check [Figma settings](https://www.figma.com/files/team-admin-console/1278375444205744118/VA.gov-Platform-Admin-Console/members?fuid=779427834564242065))
  - [ ] Removed from Monday Design Meeting invite
 
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins, @department-of-veterans-affairs/platform-design
+ CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/platform-analytics-insights-team , @department-of-veterans-affairs/confluence-admins , @department-of-veterans-affairs/platform-design , @department-of-veterans-affairs/flagship-mobile-admin
