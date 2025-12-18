@@ -237,7 +237,7 @@ jobs:
         uses: slackapi/slack-github-action@v1.26.0
         with:
           channel-id: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
-          payload-file-path: slack_payload. json
+          payload-file-path: slack_payload.json
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
 
