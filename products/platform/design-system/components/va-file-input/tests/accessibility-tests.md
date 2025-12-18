@@ -523,6 +523,21 @@ A valid file is already uploaded.
 | ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
 | ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
 
+## Dec 17 Evening Testing "Good Enough" Success state
+
+| AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | FileInput Component After upload announces selected file |
+| -- | ----- | ---- | ---- | ---- | ---- | --- |
+| Safari + VO | ❌ | No | ✅ | No | ✅  | ✅  | 
+| Chrome + VO | ✅  | No | ✅  | No | ✅ | ✅ | 
+| Edge + JAWS | ✅  | No | ✅  | No | ✅ | ✅ |
+| Firefox + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | ✅ |
+| Chrome + JAWS | ✅  | No | ✅ | Yes | ✅  | ✅ |  
+| Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
+| Firefox + NVDA | ✅ | No | ✅ | No | ✅  | ✅ |
+| Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
+| ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
+| ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
+
 ---
 
 ## 📄 Version History
