@@ -66,6 +66,15 @@ sequenceDiagram
     participant UHD API
     participant Vista/OH
 
+    Veteran->>Frontend: Opens Prescriptions page
+    Frontend->>vets-api: GET /prescriptions (fetch active prescriptions)
+    vets-api->>UHD API: GET /medications?patientId={icn}
+    UHD API->>Vista/OH: Fetch prescription data
+    Vista/OH-->>UHD API: Return prescriptions
+    UHD API-->>vets-api: Return prescription list
+    vets-api-->>Frontend: Return active/refillable prescriptions
+    Frontend-->>Veteran: Display prescription list
+    
     Veteran->>Frontend: Selects prescriptions & clicks "Refill"
     Frontend->>vets-api: POST /prescriptions/refill<br/>[prescription_id_1, prescription_id_2, prescription_id_3]
     
