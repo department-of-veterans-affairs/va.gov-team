@@ -7,20 +7,20 @@ on:
       - 'products/**/[Rr]eport.md'
       - 'products/**/[Ii]nsights.md'
       - 'products/**/[Rr]esearch-[Ff]indings.md'
-      - 'products/**/[Rr]esearch-[Rr]eport. md'
-      - 'products/**/[Rr]esearch-[Ii]nsights. md'
+      - 'products/**/[Rr]esearch-[Rr]eport.md'
+      - 'products/**/[Rr]esearch-[Ii]nsights.md'
       - 'products/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
-      - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport. md'
+      - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
       - 'products/**/[Ss]tudy-[Ff]indings.md'
       - 'products/**/[Ss]tudy-[Rr]eport.md'
       - 'teams/**/[Ff]indings.md'
       - 'teams/**/[Rr]eport.md'
       - 'teams/**/[Ii]nsights.md'
       - 'teams/**/[Rr]esearch-[Ff]indings.md'
-      - 'teams/**/[Rr]esearch-[Rr]eport. md'
-      - 'teams/**/[Rr]esearch-[Ii]nsights. md'
+      - 'teams/**/[Rr]esearch-[Rr]eport.md'
+      - 'teams/**/[Rr]esearch-[Ii]nsights.md'
       - 'teams/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
-      - 'teams/**/[Uu]ser-[Rr]esearch-[Rr]eport. md'
+      - 'teams/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
       - 'teams/**/[Ss]tudy-[Ff]indings.md'
       - 'teams/**/[Ss]tudy-[Rr]eport.md'
     branches: 
@@ -59,6 +59,7 @@ jobs:
             . github/workflows/
             scripts/github-actions/
             products/
+            teams/
           sparse-checkout-cone-mode: false
           token: ${{ secrets. GITHUB_TOKEN }}
 
