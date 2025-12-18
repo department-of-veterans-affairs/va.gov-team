@@ -13,6 +13,16 @@ on:
       - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
       - 'products/**/[Ss]tudy-[Ff]indings.md'
       - 'products/**/[Ss]tudy-[Rr]eport.md'
+      - 'teams/**/[Ff]indings.md'
+      - 'teams/**/[Rr]eport.md'
+      - 'teams/**/[Ii]nsights.md'
+      - 'teams/**/[Rr]esearch-[Ff]indings.md'
+      - 'teams/**/[Rr]esearch-[Rr]eport.md'
+      - 'teams/**/[Rr]esearch-[Ii]nsights.md'
+      - 'teams/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
+      - 'teams/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
+      - 'teams/**/[Ss]tudy-[Ff]indings.md'
+      - 'teams/**/[Ss]tudy-[Rr]eport.md'
     branches:
       - master
       - main
