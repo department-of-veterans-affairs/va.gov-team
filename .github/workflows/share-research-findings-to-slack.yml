@@ -93,12 +93,25 @@ jobs:
           
           def escape_for_slack_mrkdwn(text):
               """Escape special characters while preserving Slack mrkdwn formatting."""
-              # Don't escape * and _ as they're used for Slack formatting
-              # Escape < and > that aren't part of links
               import re
-              # Preserve Slack links <url|text> but escape other < >
-              text = re.sub(r'<(? ![^|>]+\|[^>]+>)', '&lt;', text)
-              text = re.sub(r'(? <![^|>]+\|[^>]+)>(?![^<]*\|)', '&gt;', text)
+          
+              # Protect Slack links (<url|text>) so we don't escape their angle brackets
+              protected = []
+              def _protect(match):
+                  idx = len(protected)
+                  token = f"__SLACK_LINK_{idx}__"
+                  protected.append((token, match.group(0)))
+                  return token
+          
+              text = re.sub(r'<[^|>]+?\|[^>]+?>', _protect, text)
+          
+              # Escape remaining angle brackets
+              text = text.replace('<', '&lt;').replace('>', '&gt;')
+          
+              # Restore protected links
+              for token, link in protected:
+                  text = text.replace(token, link)
+          
               return text
           
           # Read environment variables
