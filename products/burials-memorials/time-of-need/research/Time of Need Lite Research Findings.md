@@ -165,10 +165,13 @@ Findings will inform iterative improvements to the form's design, content, and w
 
 - **Hypothesis Statement:**
   
-- **Primary Hypothis:** Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.
+- **Primary Hypothesis:** Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.
+- i. MAYBE TRUE - Participants overall gave feedback saying the digital form was less stressful and more streamlined. However, we cannot determine if the participants would have had less errors without our guidance completing the form on their own. 
 - **Contrasting Hypothesis:** Certain participant segments (e.g., Veterans aged 65+, those with disabilities, or those without reliable internet access) may find the phone-based process more accessible or less stressful than the digital form. This is informed by prior VSO research and medallion form desk research (see Section 9), which found that older Veterans often prefer verbal guidance and that some participants encounter barriers with digital-only options.
+- i. NOT ENOUGH INFORMATION - Multiple participants in the study who were over the age of 65 said they would prefer the online form vs. being on the phone. However, no participants in the study had disabilities and all had reliable internet access. 
 - **Form Completion Time Hypothesis:** Most users will complete the digital form in 10–15 minutes. However, family members or representatives unfamiliar with military terminology or VA processes may require 20+ minutes to complete all required fields.
-- 
+- i. LIKELY TRUE - Most participants completed the form in an average of 20+ minutes. This may be influenced by the fact that the moderators were pausing participants frequently to ask research questions. 
+  
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
 
@@ -186,13 +189,14 @@ Findings will inform iterative improvements to the form's design, content, and w
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. Users experienced confusion with terminology when asked "What is your relationship to the Veteran (deceased)?"
+2. Most users understood the definition of "personal representative". However, few understood its relation to their specific scenario in the form. 
+3. Some users were confused with "eligibility" terminology used prior to the previous burials section. There was confusion about existing burials - some users might unintentionally start a case as a new burial rather than a subsequent one.
+4. Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all of the options/resources available to them.
+5. Users expressed confusion regarding burial terminology, notably "cremains green", "intact green", and "cremains". 
+6. When describing the overall length of the form, users agreed that the form was quite long but the questions asked were necessary.
+7. Majority of users found the form to be manageable, straightforward, and easy to use. The average rating out of 5 was a 4.5.
+8. Issues users encountered during the study could be alleviated by adding to or changing description text on some screens.
 
 ## Details of Findings 
 
