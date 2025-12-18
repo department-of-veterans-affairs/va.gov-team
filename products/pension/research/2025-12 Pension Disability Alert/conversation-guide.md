@@ -5,6 +5,8 @@
 * Ensure that the message is clear to Veterans and that they understand what it is trying to say.  
 * See if Veterans who understand the message and have a 100% rating will be encouraged or discouraged from filling out the Pension form.
 
+> **Note:** We will alter which of the Tasks listed below the participant sees first, so as to unbias as much as possible the feedback around message comprehension for both messages. Hopefully we will get 50% of participants having seen the standard message first, and 50% having seen the error message first.
+
 ## **Intro (5 minutes)**
 
 Thanks for joining us today\! My name is \[Name\] and I’m a \[role\] working on VA.gov.
