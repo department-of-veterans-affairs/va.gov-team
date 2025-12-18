@@ -603,13 +603,18 @@ sequenceDiagram
 
     Veteran->>Frontend: Selects prescriptions & clicks "Refill"
     Frontend->>vets-api: POST /prescriptions/refill
-    vets-api->>vets-api: Generate Order ID
-    vets-api->>Database: Create order record
-    vets-api->>Database: Create order items (one per prescription)
     vets-api->>UHD API: Submit refill requests
     UHD API-->>vets-api: Return success/failure per prescription
-    vets-api-->>Frontend: Return Order ID + results
-    Frontend-->>Veteran: Show confirmation with Order #
+    alt Refills accepted
+        vets-api->>vets-api: Generate Order ID
+        vets-api->>Database: Create order record
+        vets-api->>Database: Create order items (one per prescription)
+        vets-api-->>Frontend: Return Order ID + results
+        Frontend-->>Veteran: Show confirmation with Order #
+    else API error or all refills rejected
+        vets-api-->>Frontend: Return error
+        Frontend-->>Veteran: Show error message
+    end
 ```
 
 **Order History View Flow:**
