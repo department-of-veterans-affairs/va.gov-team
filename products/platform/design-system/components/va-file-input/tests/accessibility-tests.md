@@ -60,6 +60,7 @@ The component may be marked as *required* or *optional*, depending on the form c
 - NVDA + Edge
 - VoiceOver + Safari 
 - VoiceOver + Chrome
+- Talkback + Chrome
 
 #### Version numbers for these tests
 - Mac OS: Sequioa 15.6.1
@@ -71,6 +72,8 @@ The component may be marked as *required* or *optional*, depending on the form c
 - Firefox - Mac: 145.0.2 (aarch64)
 - Firefox - Windows: 145.0.2 (64-bit)
 - Edge: 142.0.3595.94
+- Android: v12, Galaxy S10e
+- Talkback
 
 ### Keyboard only  
 - Chrome  
@@ -116,25 +119,20 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 - And the post-upload UI is announced by screen readers "Selected files" and File name.  
 - And no unexpected page-level focus shifts occur.
 
-#### Actual behavior:
+#### Actual behavior - Last Test 12/19/25:
 
 **Screen readers**
 
-**1. Chrome + VO:**   
-  - ✅ **When using the link:** VO Virtual cursor lands on "Selected files" and announces "Selected files: Filename.extension" The next tab is the "Change file" button.
-    - ✅ **Retested behavior on 12/17/25 When using the link:** I hear "Closing dialog You have selected the file: Irish Book 2015.pdf. Select a file to upload. Drag a file here or choose from folder: No file chosen You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. button"      
-  - ✅ **When dragging the file:** When I drag the file, and the UI changes to show the file name, the virtual cursor seems to be on the entire viewport. It reads the page `<title>` tab name, and then will announces "Selected files: filename.extension". The next tab stop is the "Change file" button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-    - ❌ ✅ **Retested behavior on 12/17/25 When dragging the file** Mixed results
-      - ❌ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window uswds-va-file-input--default web content." It is not nnouncing anything about  selected file
+**1. Chrome + VO - **   
+  - ✅ **When using the link:** VO Announces: "Closing dialog. You have selected the file: VBA-21P-601-ARE.pdf.: VBA-21P-601-ARE.pdf button" **Note:** Closing dialog is referring to the dialog of the file picker.    
+  - ❌ ✅ **When dragging the file:** Mixed results
+      - ❌ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window uswds-va-file-input--default web content." It is not announcing anything about selected file but the next tab takes you into the component and announces the selected file on the change file button.
       - ✅ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window You have selected the file: safari-file-input-121725.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. button has keyboard focus"
 
 **2. Safari + VO:**   
-  - ✅ **When using the link:** Focus moves from finder to the browser, and the VO virtual cursor lands on the viewport, and announces "Selected files: filename.extension". The next tab is the "Change file" button.
-    - ❌ **Retested behavior on 12/17/25 When using the link:** I hear "no file selected You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. Closing dialog no file selected You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. file upload button. You have selected the file: mid-form.png. Select a file to upload. Drag a file here or choose from folder You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. Press Control-Option-Command-Slash to bring up the more content menu. To exit this web area, press Control-Option-Shift-Up Arrow.
-      - https://github.com/user-attachments/assets/515f5b5a-6f1e-4a26-8fec-010f66c10b52
-      - It takes 14 seconds from when it says "no file selected" when it says "You hae selected the file". This seems too long to me.
-  - ✅ **When dragging the file:** Focus does not move to the browser, even though the UI is updating and the file seems to be uploading. When the user changes focus back to the browser the `<title>` is announced, followed by the label of the file input "Select a file to upload" no success message is announced saying the file is selected or uploaded. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-    - ❌ **Retested behavior on 12/17/25 When dragging the file** Once you return to the browser, the behavior and announcements are exactly the same as selecting a link
+  - ❌ **When using the link - with keyboard:**, "Closing dialog no action available file upload button" But the next tab takes you into the component, and announces the selected file on the change file button
+  - ✅ **When using the link - with mouse:**, VO Announces, "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow".
+  - ✅ **When dragging the file:** Focus does not immediately move back to the browser after dragging a file, even though the UI is updating and the file seems to be uploading. This is expected. When the user changes focus back to the browser the `<title>` is announced, followed by "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow."
 
 
 **3. Safari + iOS + VO:**   
