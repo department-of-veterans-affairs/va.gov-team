@@ -1,5 +1,5 @@
 ---
-title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Cohort A]"
+title: "Conversation Guide for [Health Applications, 10-10d CHAMPVA, January 2026 - Blueberry First]"
 author: "[AUTHOR NAME]"
 date_created: "[2025-12-09]"
 last_modified: "[2025-12-11]"
@@ -8,7 +8,7 @@ tags:
   - "[Mid-Fidelity Prototype]"
 description: "For CHAMPVA eligibility study for Veteran participants."
 ---
-# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usability Study - January 2026 - COHORT A, Blueberry First]
+# Conversation Guide for [10-10d CHAMPVA Tricare Eligibility Usability Study - January 2026 - Blueberry First]
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -84,11 +84,11 @@ Before we start, I have a few things that I want to go over with you:
  <mark>**[Record answer here]**</mark>
 
 
-# Warm-up Questions (COHORT A - VETERAN) - 5 minutes
+# Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Have you ever applied for the the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program?
+1. Have you ever applied for the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) program?
 - (NOTE: Should not be **enrolled** to qualify for study)
 
 2. Have you ever heard about the CHAMPVA program before?
@@ -99,7 +99,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 I'm going to share a link in chat with you of the prototype, I'd like you to open in your browser and share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. I'd like to confirm, are you on a (desktop or mobile) device today? 
 
 - Great, I'm going to share that prototype link in the chat now.
-- https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10114%3A20511&show-proto-sidebar=1
+- Veteran flow
+  - mobile: https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10114%3A20511&show-proto-sidebar=1
+  - desktop: https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32317&p=f&t=r8QA77r1hjXJfo1Z-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=10298%3A44146&show-proto-sidebar=1
+- Applicant flow
+  - mobile:https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32316&p=f&t=IG3jW1bmGA0pmJ36-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=10123%3A13173&show-proto-sidebar=1
+  - desktop: https://www.figma.com/proto/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA-10-10d-and-OHI-Certification-10-7559c-WIP?node-id=10068-32317&p=f&t=r8QA77r1hjXJfo1Z-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=10298%3A58551&show-proto-sidebar=1
 - [ ] Share link in chat of appropriate prototype for Veterans
 
 - Please open this link, it might take a minute to load being a prototype, and share that screen. Please let me know if you need help with that.
@@ -141,6 +146,8 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 - [ ] Pause them when they arrive at the gray box eligibility screen
 
 - In your own words, tell me what this page means and what you would do next if you were applying today.
+
+- What options did you think were available to you at this point?
   
 - On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section? Why did you give it that rating?
 
@@ -155,7 +162,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 ## Third Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
 
-- Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works and we are really interested in your feedback and understanding of the information presented.
+- Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works, and we are really interested in your feedback and understanding of the information presented.
 
 - Go ahead and click on "Prototype Pineapple".
 
@@ -182,15 +189,19 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 - [ ] API Check step in prototype flow
 
-- Explain to me in your own words what happened once you clicked continue on this prototype and what this message means.
+- Explain to me in your own words what happened once you clicked continue on this prototype and what this message means. 
+
+- Did this step feel slow, abrupt, or unexpected?
+
+- Did you understand what the system was checking?
 
 - What is your reaction to this eligibility determination you see on this screen?
 
 - [ ] Pause them when they arrive at the gray box eligibility screen
 
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
+- Would you take the same or a different action as compared to the other prototype? Would you still proceed with the application?
 
-- (API Check Step, if they expressed confusion) Where would you like for for the system to give you that message instead? 
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
 
 - Go ahead and click on the "Continue" button at the bottom of the screen.
 
@@ -240,7 +251,7 @@ Third scenario, you see the following alert:
 
 - [ ] Page with success alert shown
 
-
+- [ ] End of screenshare
 
 > [!NOTE]
 > ### Things to watch for:
