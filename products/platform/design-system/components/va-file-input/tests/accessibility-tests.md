@@ -531,7 +531,7 @@ A valid file is already uploaded.
 | Chrome + VO | ✅  | No | ✅  | No | ✅ | ✅ | 
 | Edge + JAWS | ✅  | No | ✅  | No | ✅ | ✅ |
 | Firefox + JAWS | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  | ✅ |
-| Chrome + JAWS | ✅  | No | ✅ | Yes | ✅  | ✅ |  
+| Chrome + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |  
 | Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
 | Firefox + NVDA | ✅ | No | ✅ | No | ✅  | ✅ |
 | Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
