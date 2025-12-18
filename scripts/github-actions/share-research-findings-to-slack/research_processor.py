@@ -236,7 +236,7 @@ class ResearchContentProcessor:
         return '\n'.join(formatted_lines).strip()
     
     def _convert_markdown_formatting(self, text: str) -> str:
-        """Convert common markdown formatting to Slack mrkdwn format.
+        """Convert common markdown formatting to Slack mrkdwn format. 
         
         Slack mrkdwn is similar but not identical to markdown. 
         """
@@ -247,6 +247,13 @@ class ResearchContentProcessor:
         # Italic: *text* or _text_ -> _text_ (Slack uses underscores)
         # Be careful not to convert already-converted bold
         text = re.sub(r'(?<!\*)_(.+?)_(?!\*)', r'_\1_', text)
+        
+        # Links: [text](url) -> <url|text>
+        text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<\2|\1>', text)
+        
+        # Inline code: `code` stays the same in Slack
+        
+        return text
         
         # Links: [text](url) -> <url|text>
         text = re.sub(r'\[([^\]]+)\]\(([^\)]+)\)', r'<\2|\1>', text)
