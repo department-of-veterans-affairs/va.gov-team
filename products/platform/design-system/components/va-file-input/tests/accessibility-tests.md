@@ -537,6 +537,7 @@ A valid file is already uploaded.
 | Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
 | ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
 | ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
+| Android + Chrome + Talkback | ✅ | No | N/A | N/A | ✅ | ✅ |
 
 ---
 
