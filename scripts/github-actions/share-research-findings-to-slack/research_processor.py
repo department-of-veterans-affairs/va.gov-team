@@ -9,6 +9,7 @@ import os
 import re
 import sys
 import subprocess
+import unicodedata
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
@@ -20,8 +21,11 @@ def is_markdown_file(filename):
 class ResearchContentProcessor:
     """Processes research files to extract key information."""
     
-    def __init__(self, file_path: str):
-        self.file_path = Path(file_path)
+    def __init__(self, file_path:  str):
+    # Normalize the file path to handle Unicode and special characters
+    import unicodedata
+    normalized_path = unicodedata. normalize('NFKC', str(file_path).strip())
+    self.file_path = Path(normalized_path)
         
     def extract_title(self, content:  str) -> str:
         """Extract title from markdown content."""
