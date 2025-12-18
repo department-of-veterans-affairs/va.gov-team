@@ -4,11 +4,11 @@
 
 | Flag Name                                                   | Client | API |
 | ----------------------------------------------------------- | :----: | :-: |
-| combinedDebtPortalAccess, combined_debt_portal_access       |  <ul><li>[x] item1</li><li>[ ] item2</li></ul> | - [x] |
-| debtLettersShowLettersVBMS, debt_letters_show_letters_vbms  |  - [ ]   | ✅  |
-| CdpPaymentHistoryVba, cdp_payment_history_vba               |  - [ ]   | ✅  |
-| showCDPOneThingPerPage, show_cdp_one_thing_per_page         |   [ ]   | ✅  |
-| showVHAPaymentHistory, vha_show_payment_history             |   [ ]   | ✅  |
+| combinedDebtPortalAccess, combined_debt_portal_access       |  ✅ | ✅ |
+| debtLettersShowLettersVBMS, debt_letters_show_letters_vbms  |  ✅   | ✅  |
+| CdpPaymentHistoryVba, cdp_payment_history_vba               |  ✅   | ✅  |
+| showCDPOneThingPerPage, show_cdp_one_thing_per_page         |   ✅   | ✅  |
+| showVHAPaymentHistory, vha_show_payment_history             |   ✅   | ✅  |
 
 ## Financial Status Report
 
