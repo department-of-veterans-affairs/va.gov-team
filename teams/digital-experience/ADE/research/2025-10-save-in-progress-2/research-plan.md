@@ -192,28 +192,28 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - `Jan 12, Mon, 12 - 1 or 1:30 PM ET`
 - `Jan 12, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 13, Mon, 12 - 1 or 1:30 PM ET`
-- `Jan 13, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 13, Mon, 5 - 6 or 6:30 PM ET`
-- `Jan 13, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 14, Mon, 12 - 1 or 1:30 PM ET`
-- `Jan 14, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 14, Mon, 5 - 6 or 6:30 PM ET`
-- `Jan 14, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 15, Mon, 12 - 1 or 1:30 PM ET`
-- `Jan 15, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 15, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 16, Mon, 12 - 1 or 1:30 PM ET`
-- `Jan 16, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 16, Mon, 5 - 6 or 6:30 PM ET`
-- `Jan 16, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 20, Mon, 12 - 1 or 1:30 PM ET`
-- `Jan 20, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 20, Mon, 5 - 6 or 6:30 PM ET`
-- `Jan 20, Mon, 7 - 8 or 8:30 PM ET`
-- `Jan 21, Mon, 2 - 3 or 3:30 PM ET`
-- `Jan 21, Mon, 5 - 6 or 6:30 PM ET`
-- `Jan 21, Mon, 7 - 8 or 8:30 PM ET`
+- `Jan 13, Tue, 12 - 1 or 1:30 PM ET`
+- `Jan 13, Tue, 2 - 3 or 3:30 PM ET`
+- `Jan 13, Tue, 5 - 6 or 6:30 PM ET`
+- `Jan 13, Tue, 7 - 8 or 8:30 PM ET`
+- `Jan 14, Wed, 12 - 1 or 1:30 PM ET`
+- `Jan 14, Wed, 2 - 3 or 3:30 PM ET`
+- `Jan 14, Wed, 5 - 6 or 6:30 PM ET`
+- `Jan 14, Wed, 7 - 8 or 8:30 PM ET`
+- `Jan 15, Thu, 12 - 1 or 1:30 PM ET`
+- `Jan 15, Thu, 2 - 3 or 3:30 PM ET`
+- `Jan 15, Thu, 7 - 8 or 8:30 PM ET`
+- `Jan 16, Fri, 12 - 1 or 1:30 PM ET`
+- `Jan 16, Fri, 2 - 3 or 3:30 PM ET`
+- `Jan 16, Fri, 5 - 6 or 6:30 PM ET`
+- `Jan 16, Fri, 7 - 8 or 8:30 PM ET`
+- `Jan 20, Tue, 12 - 1 or 1:30 PM ET`
+- `Jan 20, Tue, 2 - 3 or 3:30 PM ET`
+- `Jan 20, Tue, 5 - 6 or 6:30 PM ET`
+- `Jan 20, Tue, 7 - 8 or 8:30 PM ET`
+- `Jan 21, Wed, 2 - 3 or 3:30 PM ET`
+- `Jan 21, Wed, 5 - 6 or 6:30 PM ET`
+- `Jan 21, Wed, 7 - 8 or 8:30 PM ET`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
