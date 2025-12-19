@@ -31,7 +31,7 @@ Release criteria:
 ### Testing
 For this release we will not perform UAT testing with Veterans. Due to testing constraints with the specific VISN population, we will be unlikely to identify users who fit the criteria in a timely manner to conduct the testing prior to release.
 
-We will conduct testing in the va.gov staging environment, and particiapte in integrated testing with the VA Profile team to:
+We will conduct testing in the va.gov staging environment, and participate in integrated testing with the VA Profile team to:
 - Validate all content and interactions match the approved designs;
 - Validate API transaction data matches the front-end user interactions;
 - Validate all data is stored and saved appropriately.
