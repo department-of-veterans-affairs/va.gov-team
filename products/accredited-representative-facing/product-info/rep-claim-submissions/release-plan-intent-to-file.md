@@ -14,19 +14,19 @@ Feature Toggle/flag:
 
 Any other issues or requirements that should be addressed prior to rollout?
 
-### Go/No Go meeting 
-Asynchronous Go/No Go on Wednesday, November 19 ([Slack thread](https://dsva.slack.com/archives/C05SUUM4GAW/p1763573743867439))
+### Go/No Go meeting pending
+Asynchronous Go/No Go
 
-- [x] review the release plan with your team.
-- [x] review the plan with your OCTO representative.
+- [] review the release plan with your team.
+- [] review the plan with your OCTO representative.
 
 **Verdict:Go**
 
-## Release Details (November 20, 2025)
+## Release Details (Pending in January)
 
-- [x] Enable in Production to 100% of users
-- [x] Confirm the release to Production, with a test user
-- [x] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
+- [] Enable in Production to 100% of users
+- [] Confirm the release to Production, with a test user
+- [] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
 
 ***
 
@@ -35,7 +35,7 @@ Asynchronous Go/No Go on Wednesday, November 19 ([Slack thread](https://dsva.sla
 While we cannot think of any events that would be critical enough to merit a rollback, the following rollback process has been outlined just in case we need it.
 
 **The rollback process is:**
-1. Turn off the feature toggle `accredited_representative_portal_id_me` 
+1. Turn off the feature toggle `accredited_representative_portal_intent_to_file` 
    1. Submit a PR
 2. Alert the team in [#benefits-accredited-rep-crew](https://dsva.slack.com/archives/C05SUUM4GAW) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
