@@ -72,7 +72,7 @@ Business rules (gotchas) in generating links:
   - Need to have insurance up to date (click toggle in the web UI for that user)
   - Patient's phone number can not be assigned to more than one user
 - Pre-check-in
-  - Needs to be within pre check in window (2 weeks?). It's much longer I usually just schedule for the next day.
+  - Needs to be within Pre-check-in window (between tomorrow and 14 days from now)
   - Insurance needs to be up to date
   - Patient's phone number can not be assigned to more than one user
 - Standalone travel for Oracle Health
