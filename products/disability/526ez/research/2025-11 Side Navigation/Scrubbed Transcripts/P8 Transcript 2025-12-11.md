@@ -1267,7 +1267,7 @@ Participant 8: And it tells you what the next steps are, and what you'll be doin
 
 317
 00:30:28.160 --> 00:30:32.799
-Moderator: Because without the navigation, you don't know what the next steps are and what's gonna ask you.
+Participant 8: Because without the navigation, you don't know what the next steps are and what's gonna ask you.
 
 318
 00:30:33.210 --> 00:30:46.299
