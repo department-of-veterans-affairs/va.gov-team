@@ -303,15 +303,6 @@ These tracked items are hidden from users when feature flags are enabled:
 
 The frontend maintains a dictionary of rich content for evidence requests. This content is currently implemented as JSX (React components) but the underlying content (text, links, lists) could potentially be moved to vets-api and served as structured data (JSON, markdown, etc.).
 
-### Why Content Lives in vets-website Today
-
-| Reason | Could Be Solved? |
-|--------|------------------|
-| Content includes JSX components (`<va-link>`, `<ul>`, etc.) | ✅ Yes - serve as structured JSON, render as JSX on frontend |
-| Content includes VA.gov-specific links | ✅ Yes - serve link URLs from API |
-| Faster iteration without API deploys | ⚠️ Tradeoff - API changes require vets-api deploy |
-| Mobile app doesn't need same JSX format | ✅ Yes - structured data works for both platforms |
-
 ### Fields Defined
 
 | Field | Type | Description |
