@@ -91,11 +91,16 @@ The component may be marked as *required* or *optional*, depending on the form c
 
 ---
 
-## 🧪 Test Scenarios
+## 🧪 Test Scenarios - Last Test 12/19/25
 
 The following scenarios validate expected accessibility behavior.  
 Each follows the **When / Then** pattern.
 
+**Key:**
+- ✅ Meets expectations and criteria
+- 🟡 This is good enough. Does not block the user, but due to browser and AT quirks may not work repeatedly every time.
+- ❌ Does not work as expected, blocks user.
+- 
 ---
 
 ### Test ID: upload-focus-success
@@ -119,12 +124,7 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 - And the post-upload UI is announced by screen readers "Selected files" and File name.  
 - And no unexpected page-level focus shifts occur.
 
-#### Actual behavior - Last Test 12/19/25:
-
-**Key:**
-- ✅ Meets expectations and criteria
-- 🟡 This is good enough. Does not block the user, but due to browser and AT quirks may not work repeatedly every time.
-- ❌ Does not work as expected, blocks user.
+#### Actual behavior
 
 **Screen readers**
 
