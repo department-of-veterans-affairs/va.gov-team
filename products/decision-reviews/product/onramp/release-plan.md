@@ -13,6 +13,12 @@
 - [ ] If no, update release plan accordingly.
 - [ ] If yes, coordinate with enablement to plan UAT
 
+### Align on the success metrics we plan to track
+
+- [ ] Three GA synthetic analytics already defined and benchmarks
+- [ ] Success metrics suggested by Veteran pain point research
+- [ ] Other qualitative and quantitative CSAT signals (Contact Center, Medallia, etc.)
+
 ### Board/OAR (+ OGC Benefits) approval
 
 - [ ] Determine relative size of userbase for new (edge case?) scenarios
