@@ -2,17 +2,16 @@
 
 # Sections
 1. [Overview](#overview-section)
-2. [Pre check-in and day of check-in Testing Workflow](#pre-check-in-and-day-of-check-in-testing-workflow)
-    1. [Web Tool](#web-tool)
-    2. [Manual Testing Without the web tool (scheduling tool)](#manual-testing-without-the-web-tool-scheduling-tool)
-        1. [Pre-check-in (skipping cellphone step)](#pre-check-in-skipping-cellphone-step)
-        2. [Check-in day of End to End Testing Workflow with cell phone](#check-in-day-of-end-to-end-testing-workflow-with-cell-phone)
-3. [VistA Configuration Data](#vista-configuration-data-section)
+2. [Scheduling Tool](#scheduling-tool)
+3. [Old process without the scheduling tool](#old-process-without-the-scheduling-tool)
+    1. [Pre-check-in (skipping cellphone step)](#pre-check-in-skipping-cellphone-step)
+    2. [Check-in day of End to End Testing Workflow with cell phone](#check-in-day-of-end-to-end-testing-workflow-with-cell-phone)
+4. [VistA Configuration Data](#vista-configuration-data)
     1. [Available Clinics (station 530)](#available-clinics-station-530)
     2. [Available Clinics (station 500)](#available-clinics-station-500)
     3. [Available Clinics (station 442)](#available-clinics-station-442)
     4. [Assigned DFNs](#assigned-dfns)
-4. [Endpoints](#endpoints-section)
+5. [Endpoints](#endpoints)
     1. [Appointments Endpoint](#appointments-endpoint)
         1. [POST - Make Appointment](#post---make-appointment)
         2. [GET - Get Appointments for Date](#get---get-appointments-for-date)
@@ -22,7 +21,7 @@
     2. [Patients Endpoint](#patients-endpoint)
         1. [GET - Get all demographics data for a specific test user](#get---get-all-demographics-data-for-a-specific-test-user)
         2. [PUT - Update only the phone number for a specific test user](#put---update-only-the-phone-number-for-a-specific-test-user)
-5. [VistA Access](#vista-access)
+6. [VistA Access](#vista-access)
     1. [SSH connectivity for dev](#ssh-connectivity-for-dev)
     2. [How to update insurance verification timestamp](#how-to-update-insurance-verification-timestamp)
 <a name=""></a>
@@ -82,7 +81,7 @@ Business rules (gotchas) in generating links:
 - Standalone travel for Oracle Health
   - Does not use this as it is for VISTA sites and Standalone travel is only for oracle health sites
 
-## Before the scheduling tool
+## Old process without the scheduling tool
 
 ## Pre-check-in (skipping cellphone step)
 
