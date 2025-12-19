@@ -136,7 +136,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Begin building the Pay.gov Overpayments research prototype (step 1).| QP4 |--|--|--|
 |UX: Draft the Pay.gov Overpayments research plan for the prototype stage research study.| QP4 |--|--|--|
 |UX: Create initial draft of Product Guide for “Managing Overpayments."| QPX |--|--|--|
-|TEAM: Review open tickets in OTPP S.Epic #106610 and reassign as appropriate to Payment History S.Epic #18859 in order to close completed epics.| QP2 |--|--|--|
+|TEAM: Review open tickets in OTPP S.Epic #106610 and reassign as appropriate to Payment History S.Epic #18859 in order to close completed epics.| QP2 |--|12/19/25|Complete|
 |ENG: Complete Veteran facing post-release items for digital dispute.| QP1 |--|--|--|
 |ENG: Create the Lighthouse API endpoint test coverage & swagger documentation.| QP4 |--|--|--|
 |ENG: Complete the mock data setup for the Lighthouse copay API endpoint cross referencing the ID’s as needed.| QP4 |--|--|--|
