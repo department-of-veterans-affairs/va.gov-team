@@ -3,15 +3,61 @@
 
 ## Step 0: Resolve all launch blockers
 
-### Coordinate with owners of incoming links
+### Prepare entry points for launch
 
-- [ ] Document the steps in this plan for requesting a scheduled update
-- [ ] Document the steps required in case a rollback is needed.
+Per [IA Design for Onramp: Entry Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/benefits-portfolio/onramp-decision-review-disability-options.md#entry-points-):
 
-### Determine whether we plan to do UAT (user acceptance testing post-launch)
+**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. Updates that will be done by the Content and IA team, as noted below, should be requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). Two weeks of advanced knowledge is preferred when possible. Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
 
-- [ ] If no, update release plan accordingly.
-- [ ] If yes, coordinate with enablement to plan UAT
+### Required entry points
+
+1. **VA decision reviews and appeals**
+  - Entry page URL: https://www.va.gov/decision-reviews/
+  - Placement description: Add a link to the tool under More information and resources
+  - Link details
+    - Link label: Link and content TBD by content
+    - Link destination: va.gov/decision-reviews/explore-disability-claim-options/
+  - Notes:
+    - Who will update: Content will add the link and any related content
+    - When will this entry point go live: at launch
+
+2. **Decision reviews hub side navigation**
+   - Placement description: Add a link to the tool under More resources
+   - Link details
+    - Link label: Explore disability claim decision review options
+    - Link destination: va.gov/decision-reviews/explore-disability-claim-options/
+  - Notes:
+    - Who will update: IA will add the link
+    - When will this entry point go live: at launch
+
+### Additional key entry points
+
+1. **Crosslinks within DR hub**
+  - Placement description: Add a link to the tool as appropriate and determined by content to the following pages
+    - [Supplemental claims](https://www.va.gov/decision-reviews/supplemental-claim/)
+    - [Higher-level reviews](https://www.va.gov/decision-reviews/higher-level-review/)
+    - [Board appeals](https://www.va.gov/decision-reviews/board-appeal/)
+    - [DR R&S page](https://www.va.gov/resources/choosing-a-decision-review-option/)
+  - Link details
+    - Link label: TBD by content
+    - Link destination: va.gov/decision-reviews/explore-disability-claim-options/
+  - Notes:
+    - Who will update: Content will update post launch
+    - When will this entry point go live: post launch
+
+
+##  <a name="redirects"></a>Redirects <br>
+No redirects are needed. 
+
+
+## <a name="launch"></a>Launch coordination <br>
+*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
+
+| Key task | Responsibility | When to complete | Additional info |
+| --- | --- | --- | --- |
+| Staging review | DR | TBD | OCTO to prepare entry point preview link -- Product team to link to IA spec |
+| Communicate launch date | DR | Once scheduled | Allows OCTO to plan for content updates as needed |
+
 
 ### Align on the success metrics we plan to track
 
