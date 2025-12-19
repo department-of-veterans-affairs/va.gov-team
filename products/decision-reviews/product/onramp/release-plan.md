@@ -94,29 +94,7 @@ Before enabling the feature toggle in production, we need to:
 
 ### Rollback
 
-To roll the onramp back, we would need the owners of the public-facing pages to revert or temporarily remove any links to the onramp
-
-### DECISION POINT: Will we do moderated production testing (User Acceptance Testing, or UAT)?
-
-#### Planning
-
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
-#### Results
-
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+To roll the onramp back, we would need coordinate with centralized Content & IA.
 
 ### Results Tracking (Post-Launch)
 
