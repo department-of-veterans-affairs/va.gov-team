@@ -57,3 +57,14 @@ While we cannot think of any events that would be critical enough to merit a rol
 No issues reported from our representative users.
 
 ### 1-Month Results Post Launch
+
+**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
+
+
+## Post-Launch Questions
+
+1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
+2. **What qualitative feedback have you gathered from users or other stakeholders?** 
+3. **Which assumptions you listed in your product outline were/were not validated?**
+4. **How might your product evolve now or in the future based on these results?** 
+5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?**
