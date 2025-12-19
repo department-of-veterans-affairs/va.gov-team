@@ -24,9 +24,6 @@
 6. [VistA Access](#vista-access)
     1. [SSH connectivity for dev](#ssh-connectivity-for-dev)
     2. [How to update insurance verification timestamp](#how-to-update-insurance-verification-timestamp)
-<a name=""></a>
-<a name=""></a>
-<a name="overview-section"></a>
 
 # Overview
 Check In Experience is a mobile workflow that will be tested on mobile device browsers, or mobile device simulators on a computer.
@@ -71,7 +68,7 @@ Steps to test:
 
 Business rules (gotchas) in generating links:
 - Check-in
-  - Need to be within the 45 minute check-in window
+  - Need to be within the 60 minute check-in window(45 minutes before 15 minutes after)
   - Need to have insurance up to date (click toggle in the web UI for that user)
   - Patient's phone number can not be assigned to more than one user
 - Pre-check-in
