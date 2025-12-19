@@ -1,7 +1,7 @@
 # Release Plan: Intent to File [Draft]
 
 Feature Toggle/flag:
-`accredited_representative_portal_id_me` will control visibility of the ID.me authentication method, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
+`accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
 1. ID.me authentication option
 2. ID.me mentions on the Help page
 
