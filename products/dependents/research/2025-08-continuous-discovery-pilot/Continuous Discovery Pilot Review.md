@@ -65,8 +65,8 @@ Research questions:
 - Do Veterans understand that life changes may impact their dependents’ status? Do they understand which life changes?   
 - Do they understand the effect that adding or removing dependents has on their benefit?  
 - What do they think might happen if a Veteran doesn't update their dependent information after a life change?  
-- Where do Veterans expect to manage their dependents? If on [VA.gov](http://VA.gov), where? On the VA app?  
-- Do they view their dependents on [VA.gov](http://VA.gov)? And why and when do they view them? If they don’t view them, have they ever wanted to or are there specific cases where they would want to?  
+- Where do Veterans expect to manage their dependents? If on VA.gov, where? On the VA app?  
+- Do they view their dependents on VA.gov? And why and when do they view them? If they don’t view them, have they ever wanted to or are there specific cases where they would want to?  
 - Where do they go to learn about VA benefits, the Disability Compensation benefit, and dependents management?  
 - What does that phrase 'dependent verification’ mean to them in the context of VA benefits?  
 - Has VA ever asked them to verify their dependents?  
@@ -75,9 +75,11 @@ Research questions:
 
 Participants: 3 completed, 2 no-shows 
 
-Findings: (See findings in Cohort 2\)
+Findings: (See findings in Cohort 2)
 
-Outcome: We wanted more participants so we repeated the study with Cohort 2\.
+Next Steps: (See findings in Cohort 2)
+
+Outcome: We wanted more participants so we repeated the study with Cohort 2.
 
 ### Cohort 2
 
@@ -171,7 +173,7 @@ Research questions:
 - Do you ever review your dependents? Have you ever discovered a problem with their status or information?  
 - Has VA ever asked you to review your dependents’ information?  
 - Have you ever manually removed a dependent from your benefit? Do you feel that you have a good understanding of why you might need to manually remove a dependent from your benefit? How did you learn about these cases?  
-- Do you use [VA.gov](http://va.gov/)? What do you use it for?  
+- Do you use VA.gov? What do you use it for?  
 - How does VA communicate with you (email, letter, etc)? How would you like VA to communicate with you?  
 - What language is mostly helpful when communicating to Veterans about verification: verification, re-verification, confirmation of dependents? (In past studies Veterans have assumed verification meant the documentation that was requested when they added dependents, such as a birth certificate or marriage license.)  
 - What language is most helpful in communicating to Veterans about the optional yearly verifications: VA advises . . ., VA asks . . ., VA recommends . . .?  
@@ -227,9 +229,9 @@ Research questions:
 
 Participants: 4 completed, 1 no show
 
-Findings: (See findings in Cohort 6\)
+Findings: (See findings in Cohort 6)
 
-Next Steps: (See next steps in Cohort 6\)
+Next Steps: (See next steps in Cohort 6)
 
 Outcome: We wanted more participants so we repeated the study with Cohort 6\.
 
