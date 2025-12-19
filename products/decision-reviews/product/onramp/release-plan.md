@@ -9,7 +9,7 @@ Per [IA Design for Onramp: Entry Points](https://github.com/department-of-vetera
 
 **Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. Updates that will be done by the Content and IA team, as noted below, should be requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). Two weeks of advanced knowledge is preferred when possible. Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
 
-### Required entry points
+#### Required entry points
 
 1. **VA decision reviews and appeals**
   - Entry page URL: https://www.va.gov/decision-reviews/
@@ -30,7 +30,7 @@ Per [IA Design for Onramp: Entry Points](https://github.com/department-of-vetera
     - Who will update: IA will add the link
     - When will this entry point go live: at launch
 
-### Additional key entry points
+#### Additional key entry points
 
 1. **Crosslinks within DR hub**
   - Placement description: Add a link to the tool as appropriate and determined by content to the following pages
@@ -45,19 +45,13 @@ Per [IA Design for Onramp: Entry Points](https://github.com/department-of-vetera
     - Who will update: Content will update post launch
     - When will this entry point go live: post launch
 
-
-##  <a name="redirects"></a>Redirects <br>
-No redirects are needed. 
-
-
-## <a name="launch"></a>Launch coordination <br>
+#### <a name="launch"></a>Launch coordination <br>
 *Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
 | Key task | Responsibility | When to complete | Additional info |
 | --- | --- | --- | --- |
 | Staging review | DR | TBD | OCTO to prepare entry point preview link -- Product team to link to IA spec |
 | Communicate launch date | DR | Once scheduled | Allows OCTO to plan for content updates as needed |
-
 
 ### Align on the success metrics we plan to track
 
