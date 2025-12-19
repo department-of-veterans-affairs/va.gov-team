@@ -188,7 +188,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything.
 
 ### Path 1A: Participant signs in before finding form
 
-[If p says they'd sign in, let them click --> **Sign in** --> My VA]
+[If p says they'd sign in, let them click --> **Sign in** --> (green) "Continue" button --> My VA]
 
 [What do they want to do next?]
 
@@ -200,7 +200,7 @@ OK, let's pretend that you just [searched/whatever they say] and you landed on a
 
 OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Umbrella** button at the top of the page [to unauth intro page and Task 2].
 
-[**Sign in to start your request**]
+[(green) "Continue" button --> **Sign in to start your request**]
 
 ## Task 2: Start your request [from Auth Intro Page]
 
@@ -234,7 +234,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
   - To simulate that, could you please sign out now? 
-  - [Or ask to click on the **Hat** button -- to Unauth VA.gov]
+  - [Please click on the **Hat** button]
   
 - What do you think will happen to the information you entered?
   
@@ -301,7 +301,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## After Session 
 - Click "End" on zoom website
-- Return to form and click **Start a new request** to remove all info entered
+- Return to form (Finish Later or auth form intro page) and click **Start a new request** to remove all info entered
 - Download recording and closed caption (.vtt file)
 - Rename and save transcript file from Finder
 - Download notes
