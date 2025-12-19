@@ -44,9 +44,9 @@ Make sure you have an assigned test user DFN before setting up appointment tests
 
 <a name="end-to-end-testing-workflow-section"></a>
 
-# Pre check-in and day of check-in Testing Workflow
 
-## Web Tool
+
+# Scheduling tool
 
 A web UI is available (for staging only) [here](https://vigilant-couscous-ab7fb4a4.pages.github.io). It is accessible on VPN (GFE/CAG) to anyone with access to [the staging scheduler repo](https://github.com/department-of-veterans-affairs/cie-staging-scheduler/). It allows you to:
 
@@ -82,27 +82,27 @@ Business rules (gotchas) in generating links:
 - Standalone travel for Oracle Health
   - Does not use this as it is for VISTA sites and Standalone travel is only for oracle health sites
 
-## Manual Testing Without the web tool (scheduling tool)
+## Before the scheduling tool
 
-### Pre-check-in (skipping cellphone step)
+## Pre-check-in (skipping cellphone step)
 
-#### Network access
+### Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
 
-#### Test harness
+### Test harness
 
 You will need the CHIP Insomnia collection, ask a CHIP team member for it. When using Insomnia make sure to have `Validate certificates` unchecked in the Request/Response section of the Insomnia preferences.
 
 You can download Insomnia at [http://insomnia.rest](http://insomnia.rest)
 
-#### Create Appointment
+### Create Appointment
 
 Using the 'Make Appointment' endpoint under the `VEText Appointments` heading, create an appointment for any time between tomorrow and 14 days from now. Note the `appointmentIEN` in the response, you'll need it for the next step.
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
-#### Call the pre-checkin endpoint
+### Call the pre-checkin endpoint
 
 Using the CHIP/Test Harness Insomnia collection:
 
@@ -113,22 +113,22 @@ Using the CHIP/Test Harness Insomnia collection:
 
 http://staging.va.gov/health-care/appointment-pre-check-in/?id={uuid}
 
-### Check-in day of End to End Testing Workflow with cell phone
+## Check-in day of End to End Testing Workflow with cell phone
 
-#### Network access
+### Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
 
-#### Assign Phone Number
+### Assign Phone Number
 If you have not already done so, [use the `/patients` endpoint to add your phone number to your assigned VistA test patient](#put---update-only-the-phone-number-for-a-specific-test-user).
 
-#### Create Appointment
+### Create Appointment
 
 Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the `clinicIen` at the time specified in `startDateTime`.
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
-#### Send Text
+### Send Text
 Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
 
 - **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 5 minutes past the appointment start time.
@@ -141,7 +141,7 @@ Once an appointment has been created, send `check in` as a text message to `254-
 Check in for your VA appointment at https://go.usa.gov/xyz123
 ```
 
-#### Access Check In Experience va.gov Workflow
+### Access Check In Experience va.gov Workflow
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
