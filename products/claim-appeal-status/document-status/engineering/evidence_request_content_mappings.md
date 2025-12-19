@@ -45,10 +45,12 @@ uploadsAllowed (boolean)`"]
         Mobile["`(No additional content layer)
 
 Uses Lighthouse fields directly:
-<br>
-- displayName (as title)<br>
-- description (raw VBMS text)
-    `"]
+
+displayName (as title)
+
+description (raw VBMS text)
+
+Does NOT use vets-api enrichment`"]
     end
 
     Lighthouse --> VetsAPI
@@ -60,10 +62,24 @@ Uses Lighthouse fields directly:
 
 | Layer | Content Added | Used By |
 |-------|---------------|---------|
-| **Lighthouse** | Raw tracked item data (id, displayName, description, status, dates, etc.) | vets-api, vets-website, va-mobile-app |
-| **vets-api** | Friendlier display names, descriptions, upload rules, suppression | vets-website (partially), va-mobile-app (NOT USED) |
-| **vets-website** | Rich JSX content (longDescription, nextSteps), UI flags (isDBQ, isSensitive, etc.) | vets-website only |
-| **va-mobile-app** | None - displays raw Lighthouse content | N/A |
+| **Lighthouse** | Raw tracked item data (id, displayName, description, status, dates, etc.) | All platforms |
+| **vets-api** | Friendlier display names, descriptions, upload rules, suppression | ⚠️ vets-website ONLY (mobile receives but ignores these fields) |
+| **vets-website** | Rich JSX content (longDescription, nextSteps), UI flags (isDBQ, isSensitive, noProvidePrefix, etc.) | vets-website only |
+| **va-mobile-app** | None - displays raw Lighthouse content directly | N/A |
+
+### Platform Content Comparison
+
+| Field | vets-website | va-mobile-app |
+|-------|--------------|---------------|
+| `displayName` (Lighthouse) | Used as fallback for title | ✅ **Used as title** |
+| `description` (Lighthouse) | ⚠️ Used as fallback when `longDescription` not available | ✅ **Used as description** |
+| `friendlyName` (vets-api) | ✅ Used as title | ❌ Not used |
+| `shortDescription` (vets-api) | ✅ Used | ❌ Not used |
+| `activityDescription` (vets-api) | ✅ Used | ❌ Not used |
+| `canUploadFile` (vets-api) | ✅ Used | ❌ Not used (uses `uploadsAllowed`) |
+| `longDescription` (vets-website) | ✅ Rich JSX content (overrides `description`) | ❌ N/A |
+| `nextSteps` (vets-website) | ✅ Action items with links | ❌ N/A |
+| UI flags (`isDBQ`, `isSensitive`, `noProvidePrefix`, etc.) | ✅ Used | ❌ N/A |
 
 ---
 
@@ -115,6 +131,8 @@ The Lighthouse API returns tracked items (evidence requests) with multiple field
 - [`lib/lighthouse/benefits_claims/constants.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/constants.rb) - Content mapping definitions
 
 vets-api intercepts the Lighthouse response and applies "friendlier language" transformations via the `apply_friendlier_language` method in `service.rb`.
+
+> ⚠️ **Important**: While vets-api adds these enriched fields to the API response, **only vets-website uses them**. The mobile app receives these fields but ignores them entirely, displaying raw Lighthouse content instead.
 
 ### How Content is Applied
 
@@ -361,19 +379,21 @@ The frontend maintains a dictionary of rich content for evidence requests. This 
 
 ### Mobile's Approach
 
-The mobile app does **NOT** maintain a separate content dictionary like vets-website. It uses fields directly from the API response:
+> ⚠️ **Critical Difference**: The mobile app does **NOT** use any of the vets-api enriched fields (`friendlyName`, `shortDescription`, `activityDescription`, etc.). It displays **raw Lighthouse data** directly to users.
 
-#### Fields Used from Lighthouse (via vets-api)
+The mobile app does **NOT** maintain a separate content dictionary like vets-website. It uses only raw Lighthouse fields from the API response:
+
+#### Fields Used (Raw Lighthouse Data Only)
 
 | Field | Used In | How It's Used |
 |-------|---------|---------------|
-| `displayName` | FileRequest.tsx, FileRequestDetails.tsx | Displayed as the request title/name |
-| `description` | FileRequestDetails.tsx | **Displayed directly to users** as the request description |
+| `displayName` | FileRequest.tsx, FileRequestDetails.tsx | **Displayed as the request title** (NOT `friendlyName`) |
+| `description` | FileRequestDetails.tsx | **Displayed directly to users** as the request description (raw VBMS text) |
 | `status` | Multiple files | Determines UI state (pending, reviewed, closed) |
 | `type` | Multiple files | Categorizes request type (still_need_from_you, received_from_you, etc.) |
 | `trackedItemId` | Upload flows | Used for document uploads and analytics |
 | `uploaded` | FileRequest.tsx | Shows upload status indicator |
-| `uploadsAllowed` | claims.tsx | Filters which requests can accept uploads |
+| `uploadsAllowed` | claims.tsx | Filters which requests can accept uploads (NOT `canUploadFile` from vets-api) |
 | `uploadDate` | FileRequestDetails.tsx | Shows when documents were uploaded |
 | `documents` | FileRequestDetails.tsx | Lists uploaded file names |
 | `requestedDate` | Used for sorting/display | When the request was created |
@@ -382,14 +402,19 @@ The mobile app does **NOT** maintain a separate content dictionary like vets-web
 | `suspenseDate` | Not directly displayed | Due date (could be used for overdue logic) |
 | `overdue` | Available but usage varies | Overdue indicator |
 
-#### Fields NOT Used from vets-api Enrichment
+#### Fields NOT Used (vets-api Enrichment Ignored)
 
-The mobile app does **NOT** currently use the vets-api enriched fields:
-- ❌ `friendlyName` - Not used; mobile shows raw `displayName`
-- ❌ `activityDescription` - Not used
-- ❌ `shortDescription` - Not used  
-- ❌ `supportAliases` - Not used
-- ❌ `canUploadFile` - Uses `uploadsAllowed` from Lighthouse instead
+The mobile app receives these vets-api enriched fields but **completely ignores them**:
+
+| vets-api Field | Mobile Uses Instead | Impact |
+|----------------|---------------------|--------|
+| `friendlyName` | `displayName` (raw) | Users see "21-4142/21-4142a" instead of "Authorization to disclose information" |
+| `shortDescription` | `description` (raw) | Users see raw VBMS text instead of user-friendly description |
+| `activityDescription` | Not displayed | No activity feed descriptions |
+| `supportAliases` | Not used | N/A |
+| `canUploadFile` | `uploadsAllowed` (Lighthouse) | Functionally similar |
+
+**This means mobile users see significantly less friendly content than web users for the same evidence requests.**
 
 ### Key Types
 
