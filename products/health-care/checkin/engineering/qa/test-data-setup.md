@@ -83,25 +83,25 @@ Business rules (gotchas) in generating links:
 
 ## Old process without the scheduling tool
 
-## Pre-check-in (skipping cellphone step)
+### Pre-check-in (skipping cellphone step)
 
-### Network access
+#### Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
 
-### Test harness
+#### Test harness
 
 You will need the CHIP Insomnia collection, ask a CHIP team member for it. When using Insomnia make sure to have `Validate certificates` unchecked in the Request/Response section of the Insomnia preferences.
 
 You can download Insomnia at [http://insomnia.rest](http://insomnia.rest)
 
-### Create Appointment
+#### Create Appointment
 
 Using the 'Make Appointment' endpoint under the `VEText Appointments` heading, create an appointment for any time between tomorrow and 14 days from now. Note the `appointmentIEN` in the response, you'll need it for the next step.
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
-### Call the pre-checkin endpoint
+#### Call the pre-checkin endpoint
 
 Using the CHIP/Test Harness Insomnia collection:
 
@@ -112,22 +112,22 @@ Using the CHIP/Test Harness Insomnia collection:
 
 http://staging.va.gov/health-care/appointment-pre-check-in/?id={uuid}
 
-## Check-in day of End to End Testing Workflow with cell phone
+### Check-in day of End to End Testing Workflow with cell phone
 
-### Network access
+#### Network access
 
 You must use CAG or GFE to follow this testing workflow, the endpoints are not accessible via SOCKS.
 
-### Assign Phone Number
+#### Assign Phone Number
 If you have not already done so, [use the `/patients` endpoint to add your phone number to your assigned VistA test patient](#put---update-only-the-phone-number-for-a-specific-test-user).
 
-### Create Appointment
+#### Create Appointment
 
 Execute the POST to the `/appointments` endpoint described above to create a new appointment. There must be an open time slot for the `clinicIen` at the time specified in `startDateTime`.
 
 - **Note**: use the `/appointments/slots` GET request to find available appointment slots to schedule into. Use the `startDatetime` from the slot you wish to use and set the endDatetime to be 30 minutes after the start.
 
-### Send Text
+#### Send Text
 Once the appointment has been scheduled, send a text message to initiate the Check In Experience workflow.
 
 - **Note**: Currently the time window that an appointment can be checked in to is 30 minutes prior to and 5 minutes past the appointment start time.
@@ -140,7 +140,7 @@ Once an appointment has been created, send `check in` as a text message to `254-
 Check in for your VA appointment at https://go.usa.gov/xyz123
 ```
 
-### Access Check In Experience va.gov Workflow
+#### Access Check In Experience va.gov Workflow
 
 Click on the link returned in the SMS to access the va.gov Health Care Experience workflow.
 
