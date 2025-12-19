@@ -539,9 +539,9 @@ We established our "Good Enough" criteria
 | Edge + JAWS | ✅  | No | ✅  | No | ✅ | ✅ |
 | Firefox + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |
 | Chrome + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |  
-| Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
+| Edge + NVDA | 🟡 announces instructional &  hint text too | Yes | 🟡 announces instructional &  hint text too | Yes | ✅  |  ✅ |
 | Firefox + NVDA | ✅ | No | ✅ | No | ✅  | ✅ |
-| Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
+| Chrome + NVDA |  🟡 announces instructional & hint text too | Yes | 🟡 announces instructional & hint text too | Yes | ✅  | ✅ |
 | ios + Safari + VO | 🟡 | No | N/A | N/A | ✅ | ✅ |
 | ios + Chrome + VO | 🟡 | No | N/A | N/A | ✅ | ✅ |
 | Android + Chrome + Talkback | ✅ | No | N/A | N/A | ✅ | ✅ |
