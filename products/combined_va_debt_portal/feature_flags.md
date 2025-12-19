@@ -14,7 +14,7 @@ To maintain a single, shared document that lists the feature flags used by the C
 | cdp_payment_history_vba     |   Enables showing the overpayment and summary pages for the CDP Payment History    |   x   | x  |       0   |          |         |
 | show_cdp_one_thing_per_page |    Enables the Payment History MVP features for development   |   x   | x  |      100%    |          |         |
 | vha_show_payment_history    |   Enables the VHA Payment history (including copay resolution) feature for combined debt portal    |   x   | x  |     0     |          |         |
-| show_one_vba_debt_letter    |       |        |     |          |      x    |    x     |
+| show_one_vba_debt_letter    |    Controls the One VA Debt letter feature visibility |        |     |          |      x    |    x     |
 
 ## Financial Status Report
 
