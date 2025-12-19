@@ -3,7 +3,17 @@
 
 ## Step 0: Resolve all launch blockers
 
-### Board/OAR (+ OGC Benefits) review
+### Coordinate with owners of incoming links
+
+- [ ] Document the steps in this plan for requesting a scheduled update
+- [ ] Document the steps required in case a rollback is needed.
+
+### Determine whether we plan to do UAT (user acceptance testing post-launch)
+
+- [ ] If no, update release plan accordingly.
+- [ ] If yes, coordinate with enablement to plan UAT
+
+### Board/OAR (+ OGC Benefits) approval
 
 - [ ] Determine relative size of userbase for new (edge case?) scenarios
 - [ ] Assess the case for launching with the existing fidelity
