@@ -1,11 +1,19 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan
 
+## Step 0: Resolve all launch blockers
+
+### Board/OAR (+ OGC Benefits) review
+
+- [ ] Determine relative size of userbase for new (edge case?) scenarios
+- [ ] Assess the case for launching with the existing fidelity
+  - [ ] Potentially with "legal diclaimer language"
+  - [ ] Refine success metrics to be tracked post-launch
+- [ ] Obtain approval for launch
+
 ## Step 1: Development
 
-Feature flag toggle(s):
-
-* There is no feature toggle.
+There is no feature toggle.
 * The app is registered in the content-build repository in its registry.json file, which has a vagovprod flag currently set to false, meaning it does not deploy to production.
 * When we are ready to officially launch the app, we'll set this value to true, merge in the code, and wait for a content-build deployment, which happens daily at 10am ET.
 
@@ -24,15 +32,13 @@ Before enabling the feature toggle in production, we need to:
 
 ## Step 3: Production rollout
 
-1. Roll out to 50% of audience for one week.
-2. Track aggregate baseline metrics among the two populations for one week.
-3. If negative anomalous data, rollback and investigate.
-4. If data within normal range or positive, roll out to 100%
-
+1. Roll out to audience (accomplished by update to public-facing Drupal pages owned by centralized Content)
+2. Track success metrics against benchmarks starting with the first week's worth of data and refining as more data comes in.
+3. If negative anomalous data detected, rollback and investigate.
 
 ### Rollback
 
-To roll the onramp back, we will flip the feature toggle off for 100%
+To roll the onramp back, we would need the owners of the public-facing pages to revert or temporarily remove any links to the onramp
 
 ### DECISION POINT: Will we do moderated production testing (User Acceptance Testing, or UAT)?
 
@@ -56,41 +62,7 @@ To roll the onramp back, we will flip the feature toggle off for 100%
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
 - If yes, what: [FILL_IN] with ticket numbers
 
-### Phase II: Staged Rollout (also known as unmoderated production testing)
-
-#### Rollout Planning
-
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Path Switching Rate (PSR) : 8.5% benchmark
-  - Form Abandonment Rate (FAR) : 45.8% benchmark
-  - First-Attempt Success Rate (FASR) : 83.7%
-- Links to the dashboard(s) showing "success criteria" metrics: (tbd post completion of #126738)
-- Who is monitoring the dashboard(s)?: @mediajunkie
-
-
-### Stage A: Bucket Test - 50% of users
-
-#### Planning
-
-- Length of time: one week (day?)
-- 50% 
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: 100% of users
-
-#### Planning
-
-- Length of time: indefinite
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+### Results Tracking (Post-Launch)
 
 #### Results
 
