@@ -121,58 +121,66 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 
 #### Actual behavior - Last Test 12/19/25:
 
+**Key:**
+- ✅ Meets expectations and criteria
+- 🟡 This is good enough. Does not block the user, but due to browser and AT quirks may not work repeatedly every time.
+- ❌ Does not work as expected, blocks user.
+
 **Screen readers**
 
-**1. Chrome + VO - **   
+**1. Chrome + VO**   
   - ✅ **When using the link:** VO Announces: "Closing dialog. You have selected the file: VBA-21P-601-ARE.pdf.: VBA-21P-601-ARE.pdf button" **Note:** Closing dialog is referring to the dialog of the file picker.    
-  - ❌ ✅ **When dragging the file:** Mixed results
-      - ❌ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window uswds-va-file-input--default web content." It is not announcing anything about selected file but the next tab takes you into the component and announces the selected file on the change file button.
+  - 🟡 ✅ **When dragging the file:** Mixed results
+      - 🟡 Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window uswds-va-file-input--default web content." It is not announcing anything about selected file but the next tab takes you into the component and announces the selected file on the change file button.
       - ✅ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window You have selected the file: safari-file-input-121725.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. button has keyboard focus"
 
 **2. Safari + VO:**   
-  - ❌ **When using the link - with keyboard:**, "Closing dialog no action available file upload button" But the next tab takes you into the component, and announces the selected file on the change file button
+  - 🟡 **When using the link - with keyboard:**, "Closing dialog no action available file upload button" But the next tab takes you into the component, and announces the selected file on the change file button
   - ✅ **When using the link - with mouse:**, VO Announces, "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow".
   - ✅ **When dragging the file:** Focus does not immediately move back to the browser after dragging a file, even though the UI is updating and the file seems to be uploading. This is expected. When the user changes focus back to the browser the `<title>` is announced, followed by "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow."
 
 
 **3. Safari + iOS + VO:**   
-  - ✅ **When using the link:** Virtual cursor lands on the "Select a file to upload" file input label (not in the uploaded UI). And announces "Selected files filename.extension". The next swipe takes the user to the Change file button
-    - ❌ **Retested behavior on 12/17/25 when using the link** It just announces "Select a file to upload" with the virtual cursor on the same place. It does not announce the selected file name. But, once I move focus into the component, it does announce "You have selected filename.ext. Select a file to upload. Drag a file here or choose from folder. Description. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. No file selected. Button"
+  - 🟡 **When using the link:** Virtual cursor lands on the "Select a file to upload" file input label with the virtual cursor on the same place. It does not announce the selected file name. But, once I move focus into the component, it does announce "You have selected filename.ext. Select a file to upload. Drag a file here or choose from folder. Description. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. No file selected. Button"
   - **When dragging the file:** Not applicable in this test case
 
 **4. Chrome + iOS + VO:**
-  - ✅ **When using the link:** It appears focus is lost. The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. But after the announcemnt of the url, it does announce "You have selected a file filename.extension".
-    - ✅ **Retested behavior on 12/17/25 When using the link**  No regression
+  - 🟡 **When using the link:**  The Virtual Cursor ends up in the URL bar of the browser, and begins announcing the URL of the page. But after the announcemnt of the url, it does announce "You have selected a file filename.extension".
   - **When dragging the file:** Not applicable in this test case
 
 **5. Firefox + JAWS:**
-  - ✅ **When using the link:** JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" (And it announces this twice). The next tab does go to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.   
-    - ✅ **Retested behavior on 12/17/25 when using the link** Mixed results. 
-      - Sometimes "You have selected a file filename.extesion. Select a file to upload. Drag a file here or choose from folder browse. No file selected. Button. You can upload a pdf, gif, jpb. bmp or txt file."   
-      - Sometimes, it will announce the page title first, and then "No file selected. Select a file to upload. Drag a file here or choose from folder" And never announces the file name.   
-  - **When dragging the file:** When dragging a file over, initially nothing happens until I focus the browser again. There is no visiblefocus. It seems like something starts to announce, but then something interrupts it and it starts reading the `<title>`. It eventually announces "Selected files filename extension". The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.   
-    - ✅ **Retested behavior on 12/17/25 when dragging** Announces: "You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected. Button. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. To activate press Enter."   
+  - ✅ **When using the link:** Announces "You have selected a file filename.extesion. Select a file to upload. Drag a file here or choose from folder browse. No file selected. Button. You can upload a pdf, gif, jpb. bmp or txt file."   (The announcement of "No file selected" is expected)
+  - **When dragging the file:** Announces: "You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected. Button. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. To activate press Enter."   
       - Sometimes it will announce the page `<title>` first.
 
 **6. Firefox + NVDA:**
-  - ✅ **When using the link:** NVDA Announces "va-file-input default modular firefox, va-file-input default document, selected files, you have selected the file filename.extension."   
-    - ✅ **Retested behavior on 12/17/25 when using the link** Announces "uswds-va-file-input--default — Mozilla Firefox, uswds-va-file-input--default.  document. Button. You have selected the file: jaws-heading-links.mp4. Select a file to upload. Drag a file here or choose from folder. You have selected the file: jaws-heading-links.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected."
-    - ✅ **Retested behavior on 12/17/25 when dragging** uswds-va-file-input--default — Mozilla Firefox. uswds-va-file-input--default.  document. Select a file to upload. You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected.  button    You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file.   
-  - ✅ **When dragging the file:** When dragging a file over, initially nothing happens until I focus the browser again. NVDA virtual cursor seems to be on the entire viewport. It seems like something starts to announce, but then something interrupts it and it starts reading the `<title>`. It eventually announces "Selected files" but never announces the file names. The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-    - ✅ **Retested behavior on 12/17/25 when dragging** uswds-va-file-input--default — Mozilla Firefox. uswds-va-file-input--default.  document. Select a file to upload. You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected.  button    You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file.   
+  - ✅ **When using the link:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)
+  - ✅ **When dragging the file:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)  
     
 **7. Edge + JAWS:**
-  - ✅ **When using the link:** After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension". The next tab does go to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-    - ❓❓❓ **Retested behavior on 12/17/25 when using the link** Announces "You have selected the file: VBA-20-10206-ARE.pdf. Select a file to upload. Drag a file here or choose from folder: No file chosen. uswds-va-file-input--default - Microsoft Edge Unavailable. uswds-va-file-input--default - Microsoft Edge page. uswds-va-file-input--default. Select a file to upload. Drag a file here or choose from folder: No file chosen Button. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file."
-  - ✅ **When dragging the file:** When dragging a file over, focus shifts to the browser, and it appears focus is lost. There's no virtual cursor or outline appearing as to where focus is.  What is being announced is the page `<title>` (several times). Eventually it does announce "Selected files: filename.extenstion". When I press tab the next item to receive focus is the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-    - ❓❓❓ **Retested behavior on 12/17/25 when dragging the filek** Announces: "You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen. uswds-va-file-input--default - Microsoft Edge
-uswds-va-file-input--default - Microsoft Edge page. uswds-va-file-input--default. You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen Button. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. To activate press Enter."
+  - ✅ **When using the link:** After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" Button. To activate press enter." The next tab does go to the change file button. 
+  - ✅ **When dragging the file:** When dragging a file over, focus shifts to the browser. The page `<title>` is announced (several times). Eventually it does announce "Selected files: filename.extenstion". When I press tab the next item to receive focus is the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
 
 **8. Edge + NVDA:**
-  - ✅ **When using the link:** NVDA Announces "Va-file-input default profile 1 microsoft edge window, selected files, selected files, you have selected the file filename.extension." A Dotted border is around part of the UI. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.   
-    - ❓❓❓ **Retested behavior on 12/17/25 when using link** Annoounces, "uswds-va-file-input--default and 3 more pages - Profile 1 - Microsoft​ Edge  window. uswds-va-file-input--default  document. button. Select a file to upload. Drag a file here or choose from folder: No file chosen. You have selected the file: VBA-20-10206-ARE.pdf. Select a file to upload. Drag a file here or choose from folder: No file chosen."   
-  - ✅ **When dragging the file:** When dragging a file over, focus goes to the browser, and the virtual cursor is highlighting the entire viewport. However, it announces `<title>` first. And then eventually it will announce "Selected files filename.extension". The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-   - ❓❓❓ **Retested behavior on 12/17/25 when dragging** Announces, "uswds-va-file-input--default and 3 more pages - Profile 1 - Microsoft​ Edge  window. uswds-va-file-input--default  document. clickable  Select a file to upload. You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen  button    You can upload a .pdf, .gif, .jpg, .bmp, or .txt file."
+- 🟡 **When using the link:** Announces, "Select a file to upload: Drag a file here or choose from folder: No file chosen. You have selected the file: Filename ext."
+  - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced
+- 🟡 **When dragging the file:** Announces, "You have selected the file: filename.extension. No file chosen Button"
+  - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced 
+
+**9. Chrome + JAWS:**
+- ✅ **When using the link:** Announces, "You have selected the file: filename.extension. Button"
+- ✅ **When dragging the file:** Announces, "You have selected the file: filename.extension. Button"
+  - In both Chrome + JAWS cases, it may read the browser `<title>` first before announcing the selection 
+
+**10. Chrome + NVDA:**
+- 🟡 **When using the link:** Announces, "Select a file to upload: Drag a file here or choose from folder: No file chosen. You have selected the file: Filename ext."
+  - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced
+- 🟡 **When dragging the file:** Announces, "You have selected the file: filename.extension. No file chosen Button"
+  - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced 
+
+**11. Chrome + Talkback (Android)**
+- ✅ **When using the link:** Announces "You have **selected** the file.extension."
+- ✅ **When dragging the file:**  N/A can't drag on android
 
 
 **Magnifcation & Zoom**
@@ -183,7 +191,7 @@ No identified issues across Safari, Chrome, Edge, Firefox
 2. Safari - Mac Voice Control - to activate any part of the component, I have to use the grid.
 
 **Additional testing needed**
-1. Android - talkback
+
 
 ---
 
@@ -216,13 +224,11 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 
 **1. Chrome + VO:**   
   - **When using the link:** N/A
-  - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Focus is on the Change file button. The screen reader announces "Error. We do not accept .exstension files. Choose a new file."
-    - ✅ **Retested behavior on 12/17/25 when dragging** Announces: "change file. Error. We do not accept .mov files. Choose a new file. button, group"
+  - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Focus is on the Change file button. The screen reader announces "Error. We do not accept .extension files. Choose a new file."
 
 **2. Safari + VO:**    
   - **When using the link:** N/A
-  - ✅  **When dragging the file:**  The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "We do not accept .extension files. Choose a new file."   
-    - ✅ **Retested behavior on 12/17/25 when dragging** Announces "change file. Error. We do not accept .mp4 files. Choose a new file. button"
+  - ✅  **When dragging the file:**  The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "change file. Error. We do not accept .mp4 files. Choose a new file. button"
 
 **3. Safari + iOS + VO:**      
   - **When using the link:** N/A
@@ -234,44 +240,26 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 
 **5. Firefox + JAWS:**
   - **When using the link:** N/A
-  - ✅ **When dragging the file:** When dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. It seems like something starts to announce, but then something interrupts it and it starts reading the `<title>`. Once it reads the title (and more info about the browser) eventually it goes down to and announces "Error we do not accept extension files. Choose a new file" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+  - ✅ **When dragging the file:** When dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button Once it reads the page `<title>` (and more info about the browser) eventually it goes down to and announces "Error we do not accept extension files. Choose a new file" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
 
 **6. Firefox + NVDA:**
   - **When using the link:** N/A
-  - ✅  **When dragging the file:** when dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. The page `<title>` is announced, followed by "Selected files. Error we do not accept mp4 files. Choose a new file. File deleted. No file selected" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. Note: No other browser is announcing that the file has been deleted. This may feel like a mistake. But I believe it is not.
+  - ✅  **When dragging the file:** when dragging a file over, initially nothing happens until I focus the browser again. Visible focus is on the change file button. The page `<title>` is announced, followed by "Selected files. **Error** we do not accept mp4 files. Choose a new file. File deleted. No file selected" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. Note: No other browser is announcing that the file has been deleted. This may feel like a mistake. But I believe it is not.
 
 **7. Edge + JAWS:**
   - **When using the link:** N/A
   - ✅ **When dragging the file:** When dragging a file over, focus goes to the browser, and the visual focus is on the change file button. However, it announces `<title>` first. And then eventually it will announce "Change file error we do not accept dot extension files. Choose a new file." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-  - JAWS actual announcement
-    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash Microsoft edge <br />
-    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash Microsoft edge page<br />
-    > dash va dash file dash input dash dash accepts dash only dash specific dash file dash types dash type<br />
-    > Change file error.<br />
-    > We do not accept dot mp4 files.<br />
-    > Choose a new file button to activate press enter. 
-
-
-https://github.com/user-attachments/assets/bf43aacd-0575-4c36-b8ce-ab29da649c49
 
 
 **8. Edge + NVDA:**
   - **When using the link:** N/A
   - ✅ **When dragging the file:** When dragging a file over, focus goes to the browser, and once the UI is updated, the file upload Input is announced first along with the hint text (Input accepts only specific file types". Then it announces "Clickable Change file. Error We do not accept .mp4 files. Choose a new file" The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
-  - NVDA Actual announcement
-    > VA file input accepts only specific file types.<br />
-    > Profile one, Microsoft Edge Window.<br />
-    > Use VA file input accepts only specific file types document.<br />
-    > Clickable input accepts only specific file types, clickable change file.<br />
-    > Error. We do not accept dot mp4 files. Choose a new file.<br />
-    > Button<br />
-    > Clickable delete file.<br />
-    > Error We do not accept dot mp4 files. Choose a new file<br />
-    > Button <br />
 
+**9. Chrome + JAWS:**
 
-https://github.com/user-attachments/assets/acb7aba4-7f7e-4178-aca1-04419abb1e23
+**10. Chrome + NVDA:**
 
+**11. Chrome + Talkback (Android):**
 
 **Magnifcation & Zoom**
 No identified issues across Safari, Chrome, Edge, Firefox
@@ -281,7 +269,7 @@ No identified issues across Safari, Chrome, Edge, Firefox
 2. Safari - Mac Voice Control - to activate any part of the component, I have to use the grid.
 
 **Additional testing needed**
-1. Android - talkback
+
 
 ---
 
@@ -316,8 +304,7 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
    - ✅ **When dragging the file:** After the file uploads, the screen displays the error and focus goes to the Change file button and says "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
 
 **2. Safari + VO:**
-   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
-     - ✅ **Retested behavior on 12/17/25 when using the link** Announces, "change file. Error. We can't upload your file because it's too big. Files must be less than 1 KB. button"
+   - ✅ **When using the link:** Screen displays error state and announces "change file. Error. We can't upload your file because it's too big. Files must be less than 1 KB. button"
    - ✅ **When dragging the file:** The error state of the Uploaded file UI appears. An error message appears below the file name. Until the user returns focus to the browser, the virtual cursor is on the viewport window of the browser, once the user returns focus to the browser, focus goes to the Change file button. The screen reader announces "Change file Error. We can't upload your file because it's too big. FIles must be less than 1 KB."  
      - ✅  **Retested behavior on 12/17/25 when dragging the file** Announces, "change file. Error. We can't upload your file because it's too big. Files must be less than 1 KB. button"  
 
@@ -326,11 +313,11 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
    - **When dragging the file:**  N/A    
 
 **4. Chrome + iOS + VO:**
-   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."   
+   - ✅ **When using the link:** Screen displays error state and announces "Change file error. We can't upload your file because it's too big. FIles must be less than 1 KB."
    - **When dragging the file:**  N/A   
 
 **5. Firefox + JAWS:**
-   - ✅ **When using the link:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly   
+   - ✅ **When using the link:** The announcement is very verbose. It announces the browser, number of tabs, then the window `<title>` Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly   
    - ✅ **When dragging the file k:** The announcement is very verbose. It announces the browser, number of tabs, then the window <title> Visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. File deleted. No file selected" This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window. It just takes a long time to get there. When a user does land on the "Change file" button, the error is announced plainly and quickly   
 
 **6. Edge + JAWS:**
@@ -338,15 +325,21 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
   - ✅ **When dragging the file:** When dragging the file, focus goes to the browser, and the visual focus is on the change file button. It announces `<title>` first.  And then announces "Change file error We can't upload your file because it's too big. Files must be less than 1 kb." The next tab takes me to the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the  browser window.    
 
 **7. Firefox + NVDA:**   
-  - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
-  - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
+  - ✅ **When using the link:** It announces the browser `<title>` then page `<title>` then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
+  - ✅ **When dragging the file:** It announces the browser `<title>` then page `<title>` then announces, "Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
 
 **8. Edge + NVDA:**   
-  - ✅ **When using the link:** It announces the browser <title> then page <title> then announces, "Selected files. Selected Files. jaws-segmented-filename.mp4. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
-  - ✅ **When dragging the file:** It announces the browser <title> then page <title> then announces, "Input has a maximum file size restruction specified in bytes. Drag a file here or choose from folder. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
-  
+  - ✅ **When using the link:** It announces the browser `<title>` then page `<title>` then announces, "Selected files. Selected Files. jaws-segmented-filename.mp4. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button."    
+  - ✅ **When dragging the file:** It announces the browser `<title>` then page `<title>` then announces, "Input has a maximum file size restruction specified in bytes. Drag a file here or choose from folder. Clickable Change file. Error. We can't upload your file because it's too big. Files must be less than 1 kb. Button." 
+
+**9. Chrome + JAWS:**
+
+**10. Chrome + NVDA:**
+
+**11. Chrome + Talkback (Android):**
+
 **Additional testing needed**
-1. Android - talkback
+
    
 ---
 
@@ -377,14 +370,9 @@ A file has already been uploaded.
 #### Actual behavior:
 
 **Screen readers**   
-**1. 🛑 Chrome + VO:** Inconsistent results with VO.   
-  - One time, after activating the delete button in the modal, focus was completely lost, no other announcement other than the page title   
-  - Another time, after activating the delete button in the modal, I heard "File deleted. No file selected."   
-  - Another time, after activating the delete button in the modal "Object replacement character , File deleted. No file selected."
-  -  ✅ **Retested behavior on 12/17/25** This is great. It announces "File deleted. No file selected. Select a file to upload..."
+**1. ✅ Chrome + VO:**  It announces "File deleted. No file selected. Select a file to upload..."
 
-**2. ✅ Safari + VO:** Modal announces as expected, delete button activated, user returned to browser window, virtual cursor on the entire window. Screen reader announces "File deleted. No file selected."    
-    - ✅ **Retested behavior on 12/17/25** This is great. Announces "File deleted. No file selected. Select a file to upload. Drag a file here or choose from folder You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. Press Control-Option-Command-Slash to bring up the more content menu. To exit this web area, press Control-Option-Shift-Up Arrow.
+**2. ✅ Safari + VO:** Announces as expected "File deleted. No file selected. Select a file to upload. Drag a file here or choose from folder You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. Press Control-Option-Command-Slash to bring up the more content menu. To exit this web area, press Control-Option-Shift-Up Arrow.
 
 **3. ✅ Safari + iOS + VO:** In iOS, all of the contents of the modal are announced when opened. But when I activate the delete button, iOS announces "File deleted. No file selected." when it returns to the file input. There is no focus ring visible.   
 
@@ -398,8 +386,14 @@ A file has already been uploaded.
 
 **8. ✅ Edge + NVDA:** The modal works as expected, after selecting "Yes, delete file," focus returns to browser window and I hear " Choose from folder. no file chosen. file deleted. No file selected."   
 
+**9. Chrome + JAWS:**
+
+**10. Chrome + NVDA:**
+
+**11. Chrome + Talkback (Android):**
+
 **Additional testing needed**
-1. Android - talkback
+
 
 ---
 
@@ -439,9 +433,11 @@ The file-upload field is marked as required.
 6. Firefox + NVDA:
 7. Edge + JAWS:
 8. Edge + NVDA
+9. Chrome + JAWS:
+10. Chrome + NVDA:
+11. Chrome + Talkback + Android
 
 **Additional testing needed**
-1. Android - talkback
 
 ---
 
@@ -485,8 +481,11 @@ A valid file is already uploaded.
 
 **8. ✅ Edge + NVDA:** Announces edge tabs, then page `<title>, then "Button change file filename.ext You have selected the file filename.ext." In some cases parts of the announcement are duplicated.
 
-**Additional testing needed**
-1. Android - talkback
+**9. Chrome + JAWS:**
+
+**10. Chrome + NVDA:**
+
+**11. Chrome + Talkback (Android):**
 
 
 ---
@@ -499,6 +498,9 @@ A valid file is already uploaded.
 
 ### 🔎 Findings
 
+#### December 14 Testing summary
+Error states worked out well, but we needed to check for regressions on the success state.
+
 | Date found | Issue | Regression or Existing | Status |
 | ---------- | ----- | ---------------------- | ------ |
 | 12/9/25    | **PR:** Mac, Chrome, VO: After deleting a file, the virtual cursor highlights the viewport. and the page `<title>` is announced. The next tab takes the user to the component (Not sure if that's because that's where focus should be, or because that is the very next focusable thing in the viewport). <br /><br /> **Current:** Mac, Chrome, VO: After deleting a file, focus goes to the "input" and  this is announced "Select a file to upload Drag a file here or choose from folder. No file selected." |   |  |
@@ -507,6 +509,8 @@ A valid file is already uploaded.
 
 
 ## Dec 17 Afternoon Testing "Good Enough" Success state
+
+After fixing success regressions we identified some additional differences.
 
 | AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | FileInput Component After upload announces selected file |
 | -- | ----- | ---- | ---- | ---- | ---- | --- |
@@ -523,9 +527,14 @@ A valid file is already uploaded.
 
 ## Dec 17 Evening Testing "Good Enough" Success state
 
+We established our "Good Enough" criteria
+
+1. When tabbing through the component in the success and error state, we can hear the file name on the change and delete button
+2. In the success state at some point we do hear “File selected - file name”
+
 | AT | Keyboard Announces selected file| Keyboard Announced No file selected | Mouse Announces selected file | Mouse Announced No file selected | Keyboard Change file & Delete file Announce file name | FileInput Component After upload announces selected file |
 | -- | ----- | ---- | ---- | ---- | ---- | --- |
-| Safari + VO | ❌ | No | ✅ | No | ✅  | ✅  | 
+| Safari + VO | 🟡 | No | ✅ | No | ✅  | ✅  | 
 | Chrome + VO | ✅  | No | ✅  | No | ✅ | ✅ | 
 | Edge + JAWS | ✅  | No | ✅  | No | ✅ | ✅ |
 | Firefox + JAWS | ✅  | No | ✅ | No | ✅  | ✅ |
@@ -533,8 +542,8 @@ A valid file is already uploaded.
 | Edge + NVDA | ✅ announces instructional &  hint text too | Yes | ✅ announces instructional &  hint text too | Yes | ✅  |  ✅ |
 | Firefox + NVDA | ✅ | No | ✅ | No | ✅  | ✅ |
 | Chrome + NVDA |  ✅ announces instructional & hint text too | Yes | ✅ announces instructional & hint text too | Yes | ✅  | ✅ |
-| ios + Safari + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
-| ios + Chrome + VO | ❌ | No | N/A | N/A | ✅ | ✅ |
+| ios + Safari + VO | 🟡 | No | N/A | N/A | ✅ | ✅ |
+| ios + Chrome + VO | 🟡 | No | N/A | N/A | ✅ | ✅ |
 | Android + Chrome + Talkback | ✅ | No | N/A | N/A | ✅ | ✅ |
 
 ---
@@ -542,6 +551,7 @@ A valid file is already uploaded.
 ## 📄 Version History
 | Date | Author | Change |
 |------|--------|--------|
+| 2025-12-25 | Jeana  | Added Android Talkback testing results + Chrome on Windows |
 | 2025-12-17 | Jeana  | Testing updated PR Changes |
 | 2025-12-09 | Jeana  | Initial accessibility tests completed |
 | 2025-11-24 | Jeana  | Initial accessibility test plan |
