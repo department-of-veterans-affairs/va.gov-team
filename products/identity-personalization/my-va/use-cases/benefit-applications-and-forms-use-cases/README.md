@@ -87,7 +87,8 @@
 This feature has no validation use cases.
 
 ### Flags
-There are no flags with this feature.
+
+- `myVaFormPdfLink`: Allows the render of the PDF download UI button
 
 ### Errors
 
