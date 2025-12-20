@@ -100,9 +100,10 @@ Once you open the link, please share your screen. Please do not click on anythin
 
 ```The participant will encounter the prototypes in the following order:
 - Current PDF
-- Orange: Baseline Minimal (uses online questions)
-- Grape: Digital PDF (uses PDF questions)
+- Orange: BAM Minimal (uses online questions)
+- Mango: VADS Minimal (uses online questions)
 - Apple: Extra Features (uses online questions)
+- Grape: Digital PDF (uses PDF questions)
 ```
 
 For the remainder of the session, I'd like you to imagine that you have a new 686c application you need to review. For this variation, we will not be covering topics that relate to form 674 (Request for Approval of School Attendance).
@@ -138,8 +139,6 @@ This is the current file view with the current 686c PDF form. You might be famil
         * [Probe copying info into other locations in VBMS]
     * Do you need the instructional information at the beginning of the form? Why or why not
         * Is there a time you would ever need these instructions? [Probe other forms]
-        * Would you want the VA.gov online instructions? 
-            * [Probe knowledge of differences between PDF and online instructions]
 
 
 ## Evaluating Mango (VADS Minimal) - 10 mins (start @ :12)
