@@ -273,7 +273,7 @@ unique_user_metrics:
   processor_job:
     # Configurable batch size (tune based on load)
     batch_size: <%= ENV['unique_user_metrics__processor_job__batch_size'] || 500 %>
-
+    
     # Maximum queue depth before alerting
     max_queue_depth: <%= ENV['unique_user_metrics__processor_job__max_queue_depth'] || 10000 %>
 ```
@@ -285,7 +285,7 @@ unique_user_metrics:
 
 **Tuning Parameters:**
 - **batch_size**: Start at 500, increase to 1000 if queue depth grows
-- **job_interval_seconds**: Reduce to 30 if processing lags behind
+- **Job frequency**: Fixed at every 60 seconds via Sidekiq Enterprise periodic jobs (hardcoded in `lib/periodic_jobs.rb`)
 
 ### Implementation Components
 
@@ -300,7 +300,7 @@ unique_user_metrics:
 #### 2. Sidekiq Processor Job (`app/sidekiq/unique_user_metrics_processor_job.rb`)
 
 **Responsibilities:**
-- Run every 60 seconds (configurable)
+- Run every 60 seconds via Sidekiq Enterprise periodic jobs
 - Pop batch of events from Redis list
 - Deduplicate within batch (in-memory)
 - Batch-check Redis cache (read_multi)
@@ -328,20 +328,26 @@ unique_user_metrics:
 
 | Metric | Type | Description | Alert Threshold |
 |--------|------|-------------|-----------------|
-| `uum.unique_user_metrics..buffer.pending_count` | Gauge | Events waiting in Redis list | > 10,000 for 5 min |
-| `uum.unique_user_metrics.batch.cache_hit_ratio` | Gauge | % of events already cached | N/A (informational) |
-| `uum.unique_user_metrics.batch.db_insert_count` | Gauge | New events inserted to DB | N/A (informational) |
-| `uum.unique_user_metrics.batch.total_duration` | Measure | Total batch processing time (ms) | > 5000ms |
-| `uum.unique_user_metrics.batch.db_insert_duration` | Measure | Database insert time (ms) | > 3000ms |
-| `uum.unique_user_metrics.unique_event_recorded` | Increment | Counter for new unique events | N/A (analytics) |
+| `uum.processor_job.queue_depth` | Gauge | Events remaining in Redis buffer after processing | > 10,000 for 5 min |
+| `uum.processor_job.queue_overflow` | Increment | Fires when queue depth exceeds threshold | Any increment |
+| `uum.processor_job.batch_size` | Gauge | Events popped from buffer this batch | N/A (informational) |
+| `uum.processor_job.inserted_count` | Gauge | New events inserted to DB | N/A (informational) |
+| `uum.processor_job.cache_hits` | Gauge | Events filtered by cache (already recorded) | N/A (informational) |
+| `uum.processor_job.duration_ms` | Histogram | Total batch processing time (ms) | > 5000ms |
+| `uum.unique_user_metrics.event` | Increment | Counter for new unique events (tagged by event_name) | N/A (analytics) |
+
+**Buffer Backup Detection:**
+
+The `queue_depth` gauge is emitted every job run to detect when processing can't keep up with incoming events. If the buffer grows unbounded, this metric will trend upward. The `queue_overflow` counter fires when depth exceeds `max_queue_depth` (default 10,000), providing an immediate alert signal.
 
 **DataDog Alerts:**
-- **Queue Depth Alert**: If `pending_count > 10,000` for 5+ minutes → Processing falling behind
-- **Processing Duration Alert**: If `total_duration > 5000ms` → Batch size too large or DB slow
+- **Queue Depth Alert**: If `queue_depth > 10,000` for 5+ minutes → Processing falling behind
+- **Queue Overflow Alert**: If `queue_overflow` increments → Immediate action needed
+- **Processing Duration Alert**: If `duration_ms` p95 > 5000ms → Batch size too large or DB slow
 
 **Runbook Actions:**
-1. Check `uum.unique_user_metrics.buffer.pending_count` trend
-2. If growing: Reduce `job_interval_seconds` to 30 OR increase `batch_size` to 1000
+1. Check `uum.processor_job.queue_depth` trend in DataDog
+2. If growing: Increase `batch_size` to 1000 via AWS Parameter Store
 
 ### Migration Strategy
 
@@ -378,7 +384,7 @@ unique_user_metrics:
 - ✅ **User Experience**: Immediate response instead of blocking waits
 
 **Operational Benefits:**
-- ✅ **No data loss**: Redis persistence + Sidekiq retry logic ensures reliability
+- ✅ **Resilient to transient failures**: Sidekiq retry logic handles temporary DB/Redis issues
 - ✅ **Configurable tuning**: AWS Parameter Store allows rapid performance adjustments without deployment
 - ✅ **Horizontal scalability**: Can handle 10x traffic growth without infrastructure changes
 
@@ -387,3 +393,40 @@ unique_user_metrics:
 - ⚠️ **Redis memory**: Additional ~50KB per 500 events buffered (minimal compared to database savings)
 - ⚠️ **Monitoring overhead**: New component to monitor (Redis list queue depth)
 - ⚠️ **System complexity**: Two-phase system (buffer + processor) vs single-phase synchronous approach
+- ⚠️ **Potential event loss on failure**: See Failure Handling below
+
+### Failure Handling
+
+**What happens if the Sidekiq job fails mid-batch?**
+
+Events are popped from the Redis buffer (`RPOP`) before processing begins. If the job fails after popping but before completing the database insert, those events are lost — they are not re-queued.
+
+**Why no dead-letter queue or re-queue mechanism?**
+
+We intentionally chose simplicity over guaranteed delivery:
+
+1. **Non-critical data**: These are analytics metrics, not transactional data. Losing a small percentage of events does not materially affect aggregate counts.
+2. **Sidekiq retries**: The job is configured with 3 retries. If the failure is transient (e.g., brief DB unavailability), subsequent job runs will succeed for new events.
+3. **Complexity trade-off**: Implementing a dead-letter queue or atomic pop-and-process would add significant complexity (e.g., Lua scripts, two-phase commit) for minimal benefit.
+4. **Self-healing**: Users who lost events will simply trigger new events on their next session, which will be recorded normally.
+
+**Failure scenarios and impact:**
+
+| Scenario | Events Lost | Mitigation |
+|----------|-------------|------------|
+| Job fails after RPOP, before DB insert | Up to one batch (e.g. 500) | Sidekiq retry won't recover these; next batch proceeds normally |
+| Redis crashes | All buffered events | Redis persistence (RDB/AOF) minimizes window; acceptable for analytics |
+| Database unavailable | Current batch | Sidekiq retries; new events continue buffering |
+| Sidekiq worker crashes | Current batch | Same as job failure |
+
+**Acceptable risk**: Given peak volume of ~240 events/min, a single failed batch (500 events) represents ~2 minutes of data — a negligible impact on monthly unique user counts.
+
+### Alternative Storage Considerations: S3 Migration
+
+Two brief options were considered for using S3 to reduce database size. Both have important drawbacks because the metrics system requires a reliable way to determine whether an event was *ever* recorded for a user.
+
+- **Option A — Keep the DB for active queries, periodically migrate rows to S3 for archival**: this reduces the live table size, but it violates the core requirement that "event ever recorded" be readily answerable from the database. Once records are archived to S3 they are no longer available for fast existence checks; reinstating that capability requires an additional index (DynamoDB/Redis) or expensive S3 lookups and complex reconciliation logic — added operational complexity we want to avoid.
+
+- **Option B — Store everything in S3 (per-event objects or batch files)**: S3 can hold the data cheaply, but it does not provide low-latency indexed existence checks or simple deduplication. Per-event PUTs are slow and costly at scale; batch-file writes are efficient but require an external index for deduplication and queryability (e.g., DynamoDB or a separate database), which reintroduces the complexity we were trying to remove.
+
+Both approaches move complexity elsewhere and make the "was this event ever recorded" query either slow or dependent on additional systems.
