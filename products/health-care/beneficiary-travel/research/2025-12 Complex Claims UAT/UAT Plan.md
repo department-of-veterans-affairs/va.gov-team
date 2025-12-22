@@ -92,7 +92,11 @@ This test will take the form of User acceptance testing (UAT). We will ask users
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md)
 - [Test scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/test%20scenarios.md)
 - Test URL: https://va.gov/my-health/appointments/past (We are testing in the production environment)
-- For research review, you can see the product in staging (link TBD). To access, travel pay staging credentials can be found in our [repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md).
+- For research review:
+  - Log into the Staging site using the credentials found in our [repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md).
+  - Navigate to your past appointments at https://staging.va.gov/my-health/appointments/past.
+  - You will see several appointments for the morning of Monday, December 22. Select any of them to view the appointment details.
+  - From the appointment details, begin the process to file a travel claim. Our conversation guide (linked to above) includes the questions we'll ask participants as they begin this process. 
 
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
