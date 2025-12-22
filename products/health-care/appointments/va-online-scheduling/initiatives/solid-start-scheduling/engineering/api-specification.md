@@ -195,6 +195,7 @@ Retrieves available appointment time slots for an authenticated user.  Requires 
 ```json
 {
   "data": {
+    "appointmentId": "e61e1a40-1e63-f011-bec2-001dd80351ea",
     "availableTimeSlots": [
       {
         "dtStartUtc": "2024-07-01T14:00:00Z",
@@ -212,6 +213,50 @@ Retrieves available appointment time slots for an authenticated user.  Requires 
 
 - `dtStartUtc`: ISO8601 UTC datetime string indicating the start of the slot. 
 - `dtEndUtc`: ISO8601 UTC datetime string indicating the end of the slot.
+
+**Response (already booked for current cohort):**
+
+```json
+{
+    "errors": [
+        {
+            "code": "appointment_already_booked",
+            "detail": "already scheduled",
+            "appointment": {
+                "appointmentId": "e61e1a40-1e63-f011-bec2-001dd80351ea",
+                "dtStartUTC": "2025-12-20T14:00:00Z",
+                "dtEndUTC": "2025-12-20T14:30:00Z"
+            }
+        }
+    ]
+}
+```
+
+**Response (current date outside of cohort date ranges):**
+
+```json
+{
+    "errors": [
+        {
+            "code": "not_within_cohort",
+            "detail": "Current date outside of appointment cohort date ranges"
+        }
+    ]
+}
+```
+
+**Response (no slots available):**
+
+```json
+{
+    "errors": [
+        {
+            "code": "no_slots_available",
+            "detail": "No available appointment slots"
+        }
+    ]
+}
+```
 
 ### GET /vass/v0/topics
 
