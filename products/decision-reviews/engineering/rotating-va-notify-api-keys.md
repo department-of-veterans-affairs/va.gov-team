@@ -63,6 +63,7 @@ AppealSubmissionUpload example:
 - Lighthouse Upload ID: `1c542c2d-c0f6-4852-ba33-bdd962cd599e`
 
 **Run the test command:**
+**Note:** Run this on [Argo](https://argocd.vfs.va.gov/applications/vets-api-staging) using the Rails console in CAG.
 
 Test with your newly created submission (replace with your AppealSubmission ID):
 ```bash
