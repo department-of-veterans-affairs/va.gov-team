@@ -133,7 +133,6 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Complete Pay.gov Overpayments design revisions based off Design Intent feedback.| QP4 |--|--|--|
-|UX: Begin building the Pay.gov Overpayments research prototype (step 1).| QP4 |--|--|--|
 |UX: Draft the Pay.gov Overpayments research plan for the prototype stage research study.| QP4 |--|--|--|
 |UX: Create initial draft of Product Guide for “Managing Overpayments."| QPX |--|--|--|
 |TEAM: Review open tickets in OTPP S.Epic #106610 and reassign as appropriate to Payment History S.Epic #18859 in order to close completed epics.| QP2 |--|12/19/25|Complete|
