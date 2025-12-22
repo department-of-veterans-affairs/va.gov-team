@@ -27,7 +27,9 @@
 ## Research Goals
 
 **Goals:**  
-1) Understand perceptions, trust, and actions across channels; 2) Identify tone/clarity effects; 3) Determine channel appropriateness for informational vs. action-required notifications.  
+1) Understand perceptions, trust, and actions across channels;
+2) Identify tone/clarity effects;
+3) Determine channel appropriateness for informational vs. action-required notifications.  
 
 ## Research Questions
 
@@ -36,7 +38,7 @@
 * How do tone and structure affect clarity, trust, and urgency?  
 * Which channel do Veterans engage with first, and why?  
 * How can messages be clear, actionable, and trustworthy across digital channels?  
-(From the provided research plan.)
+
 
 ## Methodology 
 
@@ -49,86 +51,76 @@
 
 - **Hypothesis:** Veterans prefer email for formal, detailed notifications, and text/in-app for time-sensitive messages.  
   - **Likely True**  
-  - Evidence: Many participants reviewed notifications on phone (text/push) first but completed actions on desktop or via app; several preferred email for reading decision letters and text/push for urgent evidence requests (e.g., P4, P8, P10, P17). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+  - Evidence: Many participants reviewed notifications on phone (text/push) first but completed actions on desktop or via app; several preferred email for reading decision letters and text/push for urgent evidence requests (e.g., P4, P8, P10, P17). 
 
 - **Hypothesis:** Plain, friendly language increases trust and comprehension compared to bureaucratic tone.  
   - **Likely True**  
-  - Evidence: Participants repeatedly praised straightforward, “cut and dried” wording and bold emphasis; vague messages reduced urgency (e.g., P4: “straightforward,” P5: “cut and dried,” P7: “pretty cut and dry,” while multiple participants requested clearer deadlines and CTAs). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+  - Evidence: Participants repeatedly praised straightforward, “cut and dried” wording and bold emphasis; vague messages reduced urgency (e.g., P4: “straightforward,” P5: “cut and dried,” P7: “pretty cut and dry,” while multiple participants requested clearer deadlines and CTAs). 
 
 - **Hypothesis:** Channel preference depends on sensitivity and comfort with digital tools.  
   - **Definitely True**  
-  - Evidence: Strong variation: several distrust text links and prefer to log in directly (P1, P5, P6, P15, P16), while others click links readily (P4, P8, P10, P17). Trust in push/in-app was high for most due to prior installation and authentication. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+  - Evidence: Strong variation: several distrust text links and prefer to log in directly (P1, P5, P6, P15, P16), while others click links readily (P4, P8, P10, P17). Trust in push/in-app was high for most due to prior installation and authentication. 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
-1. **Evidence requests feel more urgent than decision letters; participants want explicit due dates.** (8/11 mentioned higher urgency and/or requested deadlines). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-2. **Push/in-app notifications are widely trusted; text messages are most suspect.** (Majority rated push trust at 5/5; ~6/11 expressed reluctance to click text links). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-3. **Clear sender signals (VA logo, .gov domain, known short codes) drive trust.** Participants referenced VA logo/letterhead, .gov addresses, and known numbers (e.g., 53079). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-4. **Many prefer to authenticate via VA.gov or the app rather than follow links in messages.** (≈5/11 stated they’d navigate directly). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-5. **Multi-channel delivery is welcomed, especially for action-required items.** Most participants favored receiving via all three channels; some prefer staggered timing to reduce pressure. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-6. **Tone should be direct and action-oriented; vague phrasing reduces urgency.** Requests for “what, why, by when” were common. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-7. **Device choice affects actionability.** Participants often check notifications on phones but complete evidence uploads on desktops/laptops. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
-
+1. **Evidence requests feel more urgent than decision letters; participants want explicit due dates.** (8/11 mentioned higher urgency and/or requested deadlines).
+2. **Push/in-app notifications are widely trusted; text messages are most suspect.** (Majority rated push trust at 5/5; ~6/11 expressed reluctance to click text links). 
+3. **Clear sender signals (VA logo, .gov domain, known short codes) drive trust.** Participants referenced VA logo/letterhead, .gov addresses, and known numbers (e.g., 53079). 
+4. **Many prefer to authenticate via VA.gov or the app rather than follow links in messages.** (≈5/11 stated they’d navigate directly). 
+5. **Multi-channel delivery is welcomed, especially for action-required items.** Most participants favored receiving via all three channels; some prefer staggered timing to reduce pressure. 
+6. **Tone should be direct and action-oriented; vague phrasing reduces urgency.** Requests for “what, why, by when” were common. 
+7. **Device choice affects actionability.** Participants often check notifications on phones but complete evidence uploads on desktops/laptops. 
 ## Details of Findings 
-
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
 ### Finding 1 — Evidence requests feel more urgent; deadlines are essential  
 Participants wanted explicit due dates and urgency cues.  
-- “The first thing is that I could easily miss this one… I probably want something telling me that this is urgent… act soon.” — **Pilot (Scenario 2, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “Very urgent… more urgency on this one, because… this is requiring an actual action.” — **P1 (Scenario 2, Push)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “It should say it’s time sensitive.” — **P10 (Comparative Reflection)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-**Count:** 8/11 participants described evidence requests as more urgent than decision letters or asked for deadlines (P1, P3, P5, P6, P8, P10, P16, P17). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- “The first thing is that I could easily miss this one… I probably want something telling me that this is urgent… act soon.” — **Pilot (Scenario 2, Email)** 3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “Very urgent… more urgency on this one, because… this is requiring an actual action.” — **P1 (Scenario 2, Push)** 3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “It should say it’s time sensitive.” — **P10 (Comparative Reflection)**   
+**Count:** 8/11 participants described evidence requests as more urgent than decision letters or asked for deadlines (P1, P3, P5, P6, P8, P10, P16, P17).
 
 ### Finding 2 — Push/in-app trusted; text links distrusted  
 Push feels legitimate due to prior installation and authentication; many avoid clicking text links.  
-- “I trust text messages the least… I’d be least likely to actually open a link from a text.” — **P1 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “I’m not going to click that link… I rarely click links on texts.” — **P1 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “I would go to VA.gov and log in.” — **P15 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “5/5 trust… if it’s coming directly from the VA app.” — **P3 (Scenario 1, Push)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-**Count:** ~6/11 expressed reluctance to click text links (P1, P3, P5, P6, P15, P16); most rated push as highly trustworthy. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- “I trust text messages the least… I’d be least likely to actually open a link from a text.” — **P1 (Scenario 1, Text)** 
+- “I’m not going to click that link… I rarely click links on texts.” — **P1 (Scenario 1, Text)** 
+- “I would go to VA.gov and log in.” — **P15 (Scenario 1, Text)** 
+**Count:** ~6/11 expressed reluctance to click text links (P1, P3, P5, P6, P15, P16); most rated push as highly trustworthy.
 
 ### Finding 3 — Sender signals (.gov, logo, known short code) increase trust  
 Participants look for letterhead, .gov domains, and familiar numbers.  
-- “It’s a .gov email… that makes it legitimate.” — **P1 (Warm-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “There’s that specific, 53079 number. I know is coming from the VA.” — **P4 (Warm-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “VA logo… letterhead.” — **P10, P16 (Scenario responses)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- “It’s a .gov email… that makes it legitimate.” — **P1 (Warm-up)** 
+- “There’s that specific, 53079 number. I know is coming from the VA.” — **P4 (Warm-up)** 
+- “VA logo… letterhead.” — **P10, P16 (Scenario responses)** 
 
 ### Finding 4 — Preference to authenticate directly vs. clicking links  
 Logging in is a common behavior to confirm legitimacy before acting.  
-- “I wouldn’t click on the link in my email… I would navigate there myself.” — **P1 (Scenario 1, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “I wouldn’t click the link… I’d go to VA.gov.” — **P6 (Scenario 1, Text)**; **P15 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-**Count:** 5/11 preferred to log in rather than click (P1, P5, P6, P15, P16). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
-
+- “I wouldn’t click on the link in my email… I would navigate there myself.” — **P1 (Scenario 1, Email)** 
+- “I wouldn’t click the link… I’d go to VA.gov.” — **P6 (Scenario 1, Text)**; **P15 (Scenario 1, Text)** 
+**Count:** 5/11 preferred to log in rather than click (P1, P5, P6, P15, P16). 
 ### Finding 5 — Multi-channel delivery welcomed; timing matters  
 Participants favored receiving action-required messages via email + text + push; some prefer staggered timing to reduce pressure.  
-- “Please send it on all channels… maybe even multiple times… I don’t want to miss that.” — **P1 (Scenario 2 Wrap-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “Fine… adds legitimacy.” — **P3 (Scenario 2 Wrap-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “All at once is fine; staggered feels like pressure.” — **P5 (Comparative Reflection)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-**Count:** ~10/11 were OK with multi-channel delivery; several noted staggered reminders can help without overwhelming. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- “Please send it on all channels… maybe even multiple times… I don’t want to miss that.” — **P1 (Scenario 2 Wrap-up)**
+- “Fine… adds legitimacy.” — **P3 (Scenario 2 Wrap-up)** 
+- “All at once is fine; staggered feels like pressure.” — **P5 (Comparative Reflection)** 
+**Count:** ~10/11 were OK with multi-channel delivery; several noted staggered reminders can help without overwhelming.
 
 ### Finding 6 — Direct, action-oriented tone improves clarity  
 Vague phrasing reduces urgency; people want “what, why, by when.”  
-- “There’s no due date… I have to click the link to find out.” — **P4 (Scenario 2, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “It would be helpful if it said what they were looking for, why, and how soon.” — **P6 (Scenario 2, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “No sense of urgency… nothing telling me what’s needed and when.” — **P7, P16 (Scenario 2, Push/Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- “There’s no due date… I have to click the link to find out.” — **P4 (Scenario 2, Email)** 
+- “It would be helpful if it said what they were looking for, why, and how soon.” — **P6 (Scenario 2, Text)** 
+- “No sense of urgency… nothing telling me what’s needed and when.” — **P7, P16 (Scenario 2, Push/Text)** 
 
 ### Finding 7 — Device choice affects actionability  
 Many check on phones but switch to desktop to upload or complete steps.  
-- “I usually start off with my phone… then initiate reading… [but] not likely to submit from phone.” — **P4 (Scenario 1 Wrap, Scenario 2 Wrap)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- “I’d get my laptop… log in.” — **P5 (Scenario 2, Email/Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
-
----
+- “I usually start off with my phone… then initiate reading… [but] not likely to submit from phone.” — **P4 (Scenario 1 Wrap, Scenario 2 Wrap)** 
+- “I’d get my laptop… log in.” — **P5 (Scenario 2, Email/Text)** 
 
 ## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
 
-- **VSO/Lawyer support:** Some participants rely on VSOs/lawyers for evidence submission or clarification (e.g., P1, P6, P10). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- **Short code familiarity varies:** Known numbers (e.g., 53079) helped some participants; unfamiliar codes reduced trust (P4 vs. P16). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- **Opt-out expectations:** Many expect “STOP” to halt texts, but are unsure whether it stops all VA texts or just claims-related; they expect re‑enrollment via settings on VA.gov or in-app (multiple participants). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
-
+- **VSO/Lawyer support:** Some participants rely on VSOs/lawyers for evidence submission or clarification (e.g., P1, P6, P10). 
+- **Short code familiarity varies:** Known numbers (e.g., 53079) helped some participants; unfamiliar codes reduced trust (P4 vs. P16). 
+- **Opt-out expectations:** Many expect “STOP” to halt texts, but are unsure whether it stops all VA texts or just claims-related; they expect re‑enrollment via settings on VA.gov or in-app (multiple participants). 
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
@@ -136,17 +128,15 @@ Many check on phones but switch to desktop to upload or complete steps.
 1. **Add explicit due dates and urgency cues for evidence requests (High).**  
    - Rationale: Drives timely action; participants perceive evidence requests as urgent but need clear deadlines.  
    - Evidence: Requests for due dates/time sensitivity across participants (e.g., P1, P4, P6, P10, P16).  
-   - Expected impact: Faster evidence submission; fewer missed deadlines. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-
+   - Expected impact: Faster evidence submission; fewer missed deadlines.
 2. **Standardize trust signals across channels (High).**  
    - Actions: Prominent VA logo/letterhead, consistent “From” name; display verified .gov URLs; use known short codes; include “Do not click—log in at VA.gov” guidance when appropriate.  
    - Evidence: Participants looked for VA logo, .gov domain, familiar short codes; many prefer authenticating directly (P1, P4, P5, P6, P15, P16).  
-   - Impact: Reduced phishing concerns; higher engagement. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-
+   - Impact: Reduced phishing concerns; higher engagement. 
 3. **Favor “Authenticate & act” over “Click this link” (High).**  
    - Actions: Encourage users to open the VA app or go to VA.gov to view details; minimize direct links in text messages.  
    - Evidence: ~5/11 said they’d navigate to VA.gov/app rather than click; text links are widely distrusted (P1, P3, P5, P6, P15, P16).  
-   - Impact: Increased security and trust. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+   - Impact: Increased security and trust.  
 
 4. **Use channel-appropriate content boundaries (Medium).**  
    - Actions:  
@@ -154,17 +144,16 @@ Many check on phones but switch to desktop to upload or complete steps.
      - **Email:** More detail on context and next steps; still avoid PII.  
      - **Push:** Concise + “Open app to continue,” with urgency indicator for evidence requests.  
    - Evidence: Participants wanted clarity without specifics in text; email seen as better for detail; push trusted due to app context (P1, P3, P4, P8, P10, P17).  
-   - Impact: Improved comprehension; maintained privacy. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-
+   - Impact: Improved comprehension; maintained privacy.
 5. **Sequence multi-channel delivery (Medium).**  
    - Actions: For evidence requests, send **push** immediately, **email** within an hour, and **text** as a same‑day reminder; allow users to set preferences.  
    - Evidence: Most favored multi-channel; staggered timing reduces pressure and helps as reminders (P1, P3, P4, P5).  
-   - Impact: Better visibility without overload. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+   - Impact: Better visibility without overload.
 
 6. **Strengthen action-oriented tone and structure (Low).**  
    - Actions: Use “what, why, by when” framing; add bolded cues (“Action needed”), and clear CTA (“Respond on VA.gov”).  
    - Evidence: Requests for clearer CTAs and deadlines (P4, P6, P7, P16).  
-   - Impact: Higher task completion and reduced confusion. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+   - Impact: Higher task completion and reduced confusion.
 
 ## Product User and Business Outcomes
 
@@ -211,13 +200,13 @@ By adding deadlines and sequencing delivery, we can measure reduced time from no
 ### Research documents
 - Product Outline  
 - Research plan  
-- Conversation guide (Notifications) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- Prototypes: Desktop / Mobile [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
-- [Interview transcripts] (in dataset) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- Conversation guide (Notifications) 
+- Prototypes: Desktop / Mobile 
+- [Interview transcripts] 
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+
 - Affinity Mapping, Thematic Coding
 
 ### Pages and applications used
