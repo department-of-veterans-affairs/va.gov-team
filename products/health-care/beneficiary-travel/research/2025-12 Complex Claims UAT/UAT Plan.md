@@ -92,6 +92,7 @@ This test will take the form of User acceptance testing (UAT). We will ask users
 - [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/conversation%20guide.md)
 - [Test scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-12%20Complex%20Claims%20UAT/test%20scenarios.md)
 - Test URL: https://va.gov/my-health/appointments/past (We are testing in the production environment)
+- For research review, you can see the product in staging (link TBD). To access, travel pay staging credentials can be found in our [repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md).
 
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
@@ -171,11 +172,11 @@ Suggested dates and times:
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` We're planning a pilot session with an internal the week of 1/12.
+- `Date and time of pilot session:` We're planning a pilot session with an internal team member the week of 1/12.
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **[Enter dates 01/16-01/22], excluding 1/19, which is a federal holiday**
 
 ### Length of sessions
 - `Session length:` **1 hour**
