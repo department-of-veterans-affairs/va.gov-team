@@ -1,4 +1,4 @@
-# [Research Name] Top-line Summary
+# Side Navigation Top-line Summary
 [Side Navigation Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/Side%20Navigation%20Research%20Plan.md)</br>
 [Side Navigation Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/Side%20Nav%20Conversation%20Guide.md) </br>
 [Side Navigaiton Interview Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/2025-11%20Side%20Navigation/Scrubbed%20Transcripts)
