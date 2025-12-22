@@ -1,5 +1,5 @@
 # Onboarding Guide: Accessibility Specialist for VA.gov
-`Last updated September 24, 2025`
+`Last updated December 22, 2025`
 
 
 > [!TIP]
@@ -147,12 +147,17 @@ In all cases, you have a pivotal role to play in the accessibility of your team'
 
 <details><summary>Toggle to learn more about supporting ADE :accessibility:</summary>
 
-  The **Accessibility Digital Experience** team (ADE) is a sitewide support team. If you're on ADE, your role is to support product teams as they build their products. To do this, you will:
-- Review products in the design phase for accessibility concerns
-- Conduct accessibility audits of products on staging and in production
-- Run [assistive technology research pilots](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md)
-- Assist teams with assistive technology research sessions with participants with disabilities
-Review ADE's full [list of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md) to learn more.
+The Accessibility Digital Experience team (ADE) supports product teams with accessibility throughout the product lifecycle.  As a member of the ADE team, you’ll assist teams across OCTO by: 
+
+* Reviewing products in the design phase for accessibility concerns  
+* Performing  accessibility audits of products, emails, and PDFs  
+* Interpreting VA Section 508 Office findings and providing remediation suggestions  
+* Discussing and reviewing plans for user research with participants who use AT  
+* Serving as pilot participants using AT for research studies  
+* Assisting participants during AT research studies  
+* Answering general questions about accessibility
+
+Review ADE's [full list of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md) to learn more.
 </details>
 
 ### Supporting the Platform Governance team
