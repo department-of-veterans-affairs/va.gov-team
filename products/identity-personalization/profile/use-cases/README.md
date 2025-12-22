@@ -10,7 +10,7 @@ UPDATED for Profile 2.0
    - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - [Profile hub use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/use-cases/profile-hub)
 - [Health care settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/health-care-settings-landingpg.md)
-   - CURRENTLY NOT IN PRODUCTION [Health care contacts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/use-cases/README.md)
+   - NOT IN PRODUCTION [Health care contacts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/use-cases/README.md)
    - [Scheduling preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/scheduling-preferences.md)
 
 IN PROGRESS of updating
