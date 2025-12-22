@@ -13,9 +13,9 @@
 - [ ] Start a thread in slack with observers  
 - [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to observers \- **reminder folks to keep titles generic**  
 - [ ] Ensure Teams is setup correctly:  
-      - [ ] Keep all participants in Lobby  
-      - [ ] Don’t notify when someone’s joined the meeting  
-      - [ ] Make sure participants have permission to share  
+   - [ ] Keep all participants in Lobby  
+   - [ ] Don’t notify when someone’s joined the meeting  
+   - [ ] Make sure participants have permission to share  
 - [ ] Open interview script  
 - [ ] Mute your Slack notifications
 
@@ -82,7 +82,7 @@ We’ve introduced ourselves, so we’d love to start by learning more about you
 7. **Form fields**  
    1. What fields are most important to you throughout the process?  
    2. What fields influence whether something is rerouted?   
-      1. What else factors into rerouting something to?  
+      1. What else factors into rerouting a submission?  
       2. How do you know which queue it should go to?  
       3. What is the impact of rerouting submissions?
 
