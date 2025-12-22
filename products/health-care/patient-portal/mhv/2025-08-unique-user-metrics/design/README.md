@@ -273,16 +273,13 @@ unique_user_metrics:
   processor_job:
     # Configurable batch size (tune based on load)
     batch_size: <%= ENV['unique_user_metrics__processor_job__batch_size'] || 500 %>
-    
-    # Job execution frequency (seconds)
-    job_interval_seconds: <%= ENV['unique_user_metrics__processor_job__job_interval_seconds'] || 60 %>
-    
+
     # Maximum queue depth before alerting
-    max_queue_depth: <%= ENV['unique_user_metrics__processor_job__max_queue_depth'] || 50000 %>
+    max_queue_depth: <%= ENV['unique_user_metrics__processor_job__max_queue_depth'] || 10000 %>
 ```
 
 **AWS Parameter Store Configuration:**
-- Values for `batch_size`, `job_interval_seconds`, and `max_queue_depth` are managed via AWS Parameter Store
+- Values for `batch_size` and `max_queue_depth` are managed via AWS Parameter Store
 - Allows rapid tuning of performance parameters without code deployment
 - Defaults provided as fallbacks if Parameter Store values unavailable
 
