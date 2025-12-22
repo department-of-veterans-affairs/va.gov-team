@@ -6,19 +6,18 @@ The One-Time Code (OTC) flow is designed for scenarios where users access VA sch
 
 1. **Invitation:**  
    The VASS backend system emails an invitation to the user, containing a unique scheduling link (with UUID and cohort ID).  
-   VANotify handles the email distribution.
 
 2. **Identity Validation:**  
    When the user clicks the scheduling link, they're prompted to enter their last name and date of birth.  
-   VASS and vets-api coordinate to confirm these details and validate the UUID.
+   VASS and Vets API coordinate to confirm these details and validate the last name, date of birth, and UUID.
 
 3. **One-Time Code Generation:**  
-   After initial validation, the VASS API generates an OTC and sends it to the user's email via VANotify.
+   After initial validation, the Vets API generates an OTC and sends it to the user's email via VANotify.
 
 4. **Authentication and Appointment Access:**  
-   The user enters the OTC in the browser.  
-   VASS API verifies the code.  
-   Upon successful verification, the user can access appointment scheduling features (view availability, book/cancel, etc.) without needing a full SSO or persistent token.
+   The user enters the OTC in the browser.
+   Vets API verifies the code.  
+   Upon successful verification, the user can access appointment scheduling features (view availability, book/cancel, etc.) without needing full SSO.
 
 5. **Scoped Access:**  
    The OTC is single-use and grants time-limited, purpose-specific access for scheduling activities, ensuring security without requiring session tokens from va.gov's Sign-In Service.  
