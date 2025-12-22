@@ -94,8 +94,8 @@ This test will take the form of User acceptance testing (UAT). We will ask users
 - Test URL: https://va.gov/my-health/appointments/past (We are testing in the production environment)
 - For research review:
   - Log into the Staging site using the credentials found in our [repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md).
-  - Navigate to your past appointments at https://staging.va.gov/my-health/appointments/past.
-  - You will see several appointments for the morning of Monday, December 22. Select any of them to view the appointment details.
+  - Navigate to your past appointments at https://staging.va.gov/my-health/appointments/past. 
+  - You will see several appointments for the morning of Monday, December 22. Select any of them to view the appointment details. (If you see an error instead of appointments, refresh the page a few times. This is a general Staging latency issue which has been experienced this past couple of weeks.)
   - From the appointment details, begin the process to file a travel claim. Our conversation guide (linked to above) includes the questions we'll ask participants as they begin this process. 
 
 ## Recruitment 🎯	
