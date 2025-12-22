@@ -1,7 +1,7 @@
 ---
 name: MHV Tier 3 HRC Issue Template
 about: Issue template for the My HealtheVet development team for further investigation from Tier 3 issues originating in HRC Dynamics
-title: 'MR/SM/Med on VA.gov/VAHB - '
+title: 'Tier 3 issue - '
 labels: MHV-Tier-3, MHV-Secure-Messaging, PRODUCT-mhv-medical-records, mhv-medications, mhv-horizon
 assignees: ''
 projects: 
@@ -12,47 +12,18 @@ projects:
 <!-- A brief description of the bug -->
 
 
-## Steps to Reproduce
-1. 
-2. 
-3. 
+## HRC ticket numbers:
+- [HRC](URL)
+- [HRC](URL)
+- [HRC](URL)
 
-- Reported device(s):
-- Reported OS:
-- Reported browser(s):
-- Reported VAHB app version: 
+## How to get to issue information
+Your team's Product Manager has access to the original Issue Details (which contain PII).  Please have them access the information and share with the assigned engineeer(s) for this ticket.
 
-### Expected Behavior
-<!-- What you expected to happen; you can reference a Figma design -->
-
-### Actual Behavior
-<!-- What actually happened -->
-
-
-- Dates occurred (approximate):
-  - date/time
-    - <!-- If MR, include type (Blue Button, labs, etc), if BB then date range and options selected, TXT or PDF -->
- 
-_Note- Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David/Ni, Meds-Michael, Team-Tom/Bryan/Daniel)_
-
-### Troubleshooting Steps Performed (by Tier 1 and/or Tier 2)
-- 
+[Guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/tier3support/Working%20GH%20tickets.md) for addressing Tier 3 Support tickets.
 
 ## Acceptance Criteria
 - [ ] Identified the cause of the issue
 - [ ] Issue is resolved
-
-## Definition of Done
-- [ ] Meets acceptance criteria
-- [ ] Notified MHV Tier 3 Support of resolution
-
-----------------------------
-
-# Tier 3 Notes
-_Note- There is limited view access to these HRC tickets. Reach out to a POC on the team with HRC Dynamics access for user-specific details if needed for investigation (MR-David/Ni, Meds-Michael, Team-Tom/Bryan/Daniel)_
-
-**HRC ticket number(s):**
-- [HRC](URL)
-- [HRC](URL)
-- [HRC](URL)
+- [ ] Notify Tier 3 Support once complete (#mhv-tier-3-support)
 
