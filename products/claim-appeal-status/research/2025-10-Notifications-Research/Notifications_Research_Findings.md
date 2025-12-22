@@ -1,395 +1,448 @@
----
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+
+title: Benefits Management Notifications Research Findings
+product: "Benefits Management Tools (BMT) – Notifications"
+team: "Benefits & Claims Notifications (OCTO-DE)"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-12-19"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Naomi Howe"
+  - "Melissa Lefevre"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Understand how Veterans perceive, trust, and act on decision letter and evidence request notifications across channels (email, text, in-app)."
+  - "Identify how tone, clarity, and content structure influence understanding and trust in official VA messages."
+  - "Determine which channels are most appropriate and effective for informational versus action-required communications."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Semi-structured interviews with scenario-based evaluation of notification examples."
+  - "Qualitative coding and affinity mapping of participant responses."
 devices_used:
-    desktop: X
-    tablet: X
-    smartphone: X
-    assistive_technology: X
-participants_total: X
+    desktop: 6
+    tablet: 2
+    smartphone: 8
+    assistive_technology: 0
+participants_total: 11
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
+  veterans: 11
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 0
+    "35-44": 0
+    "45-54": 0
+    "55-64": 0
+    "65+": 0
+    unknown: 11
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 0
+    some_college: 0
+    associates: 0
+    bachelors: 0
+    masters: 0
+    doctorate: 0
+    unknown: 11
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 0
+    rural: 0
+    unknown: 11
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 0
+    black: 0
+    hispanic: 0
+    biracial: 0
+    asian: 0
+    native: 0
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - "Evidence requests are perceived as more urgent than decision letters; participants want explicit deadlines and stronger urgency cues." 
+  - "Push/in-app notifications are widely trusted; many avoid clicking links in text messages and sometimes email, preferring to log in directly."
+  - "Clear sender signals (VA logo, .gov domain, known short code) and consistent wording increase trust and reduce phishing concerns."
+  - "Participants want multi-channel delivery—especially for action-required messages—yet some prefer staggered timing to avoid pressure."
+  - "Tone that is plain, direct, and action-oriented helps comprehension across channels; vague messages reduce perceived urgency."
+  - "Device choice affects actionability: many review on phone but complete evidence uploads on desktop/laptop."
+  - "Participants expect guidance on 'what, why, and by when' for evidence requests; lack of specifics leads to hesitancy or reliance on VSO/lawyer."
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Add explicit due dates and urgency cues to evidence request notifications across all channels."
+  - "Strengthen trust signals (sender name, .gov URL display, VA logo, short code) and guide users to authenticate rather than click inline links."
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Increase notification comprehension and trust."
+  - "Shorten time-to-action for evidence requests."
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Veterans quickly understand what happened, what to do, and by when; they trust the notification and complete actions promptly."
+  business: "Improved clarity and consistency in notifications; faster evidence submission; fewer missed deadlines; higher satisfaction."
 opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "Define content boundaries per channel (email vs text vs push) and strengthen urgency and CTA patterns for action-required messages."
+  - "Improve preference management (opt-in/out, channel sequencing) and guidance for users with low digital literacy."
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "Accessibility/usability testing with assistive technologies and screen readers."
+  - "Deeper exploration with paper-first or low-literacy Veterans on message comprehension."
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "Caregivers and dependents."
+  - "Veterans relying primarily on paper mail or with limited device access."
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "None in-scope for this report; findings are based solely on provided study data."
 synthesis_tools_used:
-  - "Mural"
   - "Affinity Mapping"
+  - "Thematic Coding"
+
 ---
 
 <br>**This is a template, PLEASE MAKE A COPY**
 
 ---
 
-# [Study] Research Findings 
+# [Benefits Management Notifications] Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Benefits Management Tools (BMT) – Notifications, Benefits & Claims Notifications (OCTO-DE)**
 
-**Date:** MM/DD/YYYY
+**Date:** 12/19/2025
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Naomi Howe, Melissa Lefevre
 
-**[Research Readout (PDF)](link-here)**  
+**Research Readout (PDF)**  
 *Add a link to your research readout deck, if available.*
 
 > [!TIP] 
 > Add "user-content-" in front of each link generated by Markdown in order to move the focus correctly for keyboard navigation.
 
 **Jump to:**
-- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
-- [Key findings](#user-content-key-findings)
-- [Recommendations](#user-content-recommendations)
-- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
-- [Key Performance Indicators](#user-content-key-performance-indicators)
-- [Next Steps](#user-content-next-steps)
-- [Further research needed](#user-content-further-research-needed)
-- [Appendix](#user-content-appendix)
-- [Research participants](#user-content-research-participants)
+- Hypotheses and conclusions
+- Key findings
+- Recommendations
+- Product User and Business Outcomes
+- Key Performance Indicators
+- Next Steps
+- Further research needed
+- Appendix
+- Research participants
 
 ## Research Goals
 *Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+See the Veteran journey  
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+**Goals from the plan:**  
+1) Understand perceptions, trust, and actions across channels; 2) Identify tone/clarity effects; 3) Determine channel appropriateness for informational vs. action-required notifications.  
+(From the provided research plan.)
 
 ## Research Questions
 
 *List the research questions that guided this study.*  
 
-* Question 1
-* Question 2
-* Question 3
-
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+* How do Veterans interpret and respond to decision letter and evidence request notifications across email, text, and in-app?  
+* How much information feels appropriate in each channel (decision letter vs. evidence request)?  
+* How do tone and structure affect clarity, trust, and urgency?  
+* Which channel do Veterans engage with first, and why?  
+* How can messages be clear, actionable, and trustworthy across digital channels?  
+(From the provided research plan.)
 
 ## Methodology 
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Description  
-- Method 2: Description  
+- Semi‑structured interviews with scenario-based evaluation of notification examples (email, text, in-app).  
+- Qualitative coding and affinity mapping of open-ended responses.  
+(From the provided research plan and the study spreadsheet.) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
-
+[Conversation guide and prototypes were referenced in the data file.]  
+- Conversation guide: link in dataset  
+- Figma prototypes: Desktop & Mobile links in dataset [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ## Hypotheses and Conclusions
 
 *List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
+- **Hypothesis:** Veterans prefer email for formal, detailed notifications, and text/in-app for time-sensitive messages.  
+  - **Likely True**  
+  - Evidence: Many participants reviewed notifications on phone (text/push) first but completed actions on desktop or via app; several preferred email for reading decision letters and text/push for urgent evidence requests (e.g., P4, P8, P10, P17). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
+- **Hypothesis:** Plain, friendly language increases trust and comprehension compared to bureaucratic tone.  
+  - **Likely True**  
+  - Evidence: Participants repeatedly praised straightforward, “cut and dried” wording and bold emphasis; vague messages reduced urgency (e.g., P4: “straightforward,” P5: “cut and dried,” P7: “pretty cut and dry,” while multiple participants requested clearer deadlines and CTAs). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
+- **Hypothesis:** Channel preference depends on sensitivity and comfort with digital tools.  
+  - **Definitely True**  
+  - Evidence: Strong variation: several distrust text links and prefer to log in directly (P1, P5, P6, P15, P16), while others click links readily (P4, P8, P10, P17). Trust in push/in-app was high for most due to prior installation and authentication. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ## Key Findings
 
 *Summarize the 5–10 most impactful findings from your study.* 
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
+1. **Evidence requests feel more urgent than decision letters; participants want explicit due dates.** (8/11 mentioned higher urgency and/or requested deadlines). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+2. **Push/in-app notifications are widely trusted; text messages are most suspect.** (Majority rated push trust at 5/5; ~6/11 expressed reluctance to click text links). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+3. **Clear sender signals (VA logo, .gov domain, known short codes) drive trust.** Participants referenced VA logo/letterhead, .gov addresses, and known numbers (e.g., 53079). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+4. **Many prefer to authenticate via VA.gov or the app rather than follow links in messages.** (≈5/11 stated they’d navigate directly). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+5. **Multi-channel delivery is welcomed, especially for action-required items.** Most participants favored receiving via all three channels; some prefer staggered timing to reduce pressure. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+6. **Tone should be direct and action-oriented; vague phrasing reduces urgency.** Requests for “what, why, by when” were common. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+7. **Device choice affects actionability.** Participants often check notifications on phones but complete evidence uploads on desktops/laptops. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ## Details of Findings 
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+### Finding 1 — Evidence requests feel more urgent; deadlines are essential  
+Participants wanted explicit due dates and urgency cues.  
+- “The first thing is that I could easily miss this one… I probably want something telling me that this is urgent… act soon.” — **Pilot (Scenario 2, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “Very urgent… more urgency on this one, because… this is requiring an actual action.” — **P1 (Scenario 2, Push)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “It should say it’s time sensitive.” — **P10 (Comparative Reflection)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+**Count:** 8/11 participants described evidence requests as more urgent than decision letters or asked for deadlines (P1, P3, P5, P6, P8, P10, P16, P17). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+### Finding 2 — Push/in-app trusted; text links distrusted  
+Push feels legitimate due to prior installation and authentication; many avoid clicking text links.  
+- “I trust text messages the least… I’d be least likely to actually open a link from a text.” — **P1 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “I’m not going to click that link… I rarely click links on texts.” — **P1 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “I would go to VA.gov and log in.” — **P15 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “5/5 trust… if it’s coming directly from the VA app.” — **P3 (Scenario 1, Push)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+**Count:** ~6/11 expressed reluctance to click text links (P1, P3, P5, P6, P15, P16); most rated push as highly trustworthy. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+### Finding 3 — Sender signals (.gov, logo, known short code) increase trust  
+Participants look for letterhead, .gov domains, and familiar numbers.  
+- “It’s a .gov email… that makes it legitimate.” — **P1 (Warm-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “There’s that specific, 53079 number. I know is coming from the VA.” — **P4 (Warm-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “VA logo… letterhead.” — **P10, P16 (Scenario responses)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+
+### Finding 4 — Preference to authenticate directly vs. clicking links  
+Logging in is a common behavior to confirm legitimacy before acting.  
+- “I wouldn’t click on the link in my email… I would navigate there myself.” — **P1 (Scenario 1, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “I wouldn’t click the link… I’d go to VA.gov.” — **P6 (Scenario 1, Text)**; **P15 (Scenario 1, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+**Count:** 5/11 preferred to log in rather than click (P1, P5, P6, P15, P16). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+
+### Finding 5 — Multi-channel delivery welcomed; timing matters  
+Participants favored receiving action-required messages via email + text + push; some prefer staggered timing to reduce pressure.  
+- “Please send it on all channels… maybe even multiple times… I don’t want to miss that.” — **P1 (Scenario 2 Wrap-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “Fine… adds legitimacy.” — **P3 (Scenario 2 Wrap-up)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “All at once is fine; staggered feels like pressure.” — **P5 (Comparative Reflection)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+**Count:** ~10/11 were OK with multi-channel delivery; several noted staggered reminders can help without overwhelming. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+
+### Finding 6 — Direct, action-oriented tone improves clarity  
+Vague phrasing reduces urgency; people want “what, why, by when.”  
+- “There’s no due date… I have to click the link to find out.” — **P4 (Scenario 2, Email)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “It would be helpful if it said what they were looking for, why, and how soon.” — **P6 (Scenario 2, Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “No sense of urgency… nothing telling me what’s needed and when.” — **P7, P16 (Scenario 2, Push/Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+
+### Finding 7 — Device choice affects actionability  
+Many check on phones but switch to desktop to upload or complete steps.  
+- “I usually start off with my phone… then initiate reading… [but] not likely to submit from phone.” — **P4 (Scenario 1 Wrap, Scenario 2 Wrap)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- “I’d get my laptop… log in.” — **P5 (Scenario 2, Email/Text)** [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ---
 
 ## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+- **VSO/Lawyer support:** Some participants rely on VSOs/lawyers for evidence submission or clarification (e.g., P1, P6, P10). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- **Short code familiarity varies:** Known numbers (e.g., 53079) helped some participants; unfamiliar codes reduced trust (P4 vs. P16). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- **Opt-out expectations:** Many expect “STOP” to halt texts, but are unsure whether it stops all VA texts or just claims-related; they expect re‑enrollment via settings on VA.gov or in-app (multiple participants). [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+1. **Add explicit due dates and urgency cues for evidence requests (High).**  
+   - Rationale: Drives timely action; participants perceive evidence requests as urgent but need clear deadlines.  
+   - Evidence: Requests for due dates/time sensitivity across participants (e.g., P1, P4, P6, P10, P16).  
+   - Expected impact: Faster evidence submission; fewer missed deadlines. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+
+2. **Standardize trust signals across channels (High).**  
+   - Actions: Prominent VA logo/letterhead, consistent “From” name; display verified .gov URLs; use known short codes; include “Do not click—log in at VA.gov” guidance when appropriate.  
+   - Evidence: Participants looked for VA logo, .gov domain, familiar short codes; many prefer authenticating directly (P1, P4, P5, P6, P15, P16).  
+   - Impact: Reduced phishing concerns; higher engagement. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+
+3. **Favor “Authenticate & act” over “Click this link” (High).**  
+   - Actions: Encourage users to open the VA app or go to VA.gov to view details; minimize direct links in text messages.  
+   - Evidence: ~5/11 said they’d navigate to VA.gov/app rather than click; text links are widely distrusted (P1, P3, P5, P6, P15, P16).  
+   - Impact: Increased security and trust. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+
+4. **Use channel-appropriate content boundaries (Medium).**  
+   - Actions:  
+     - **Text:** Short, privacy-safe alerts + clear CTA to authenticate (“We need info to keep your claim moving. Check VA.gov/app.”).  
+     - **Email:** More detail on context and next steps; still avoid PII.  
+     - **Push:** Concise + “Open app to continue,” with urgency indicator for evidence requests.  
+   - Evidence: Participants wanted clarity without specifics in text; email seen as better for detail; push trusted due to app context (P1, P3, P4, P8, P10, P17).  
+   - Impact: Improved comprehension; maintained privacy. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+
+5. **Sequence multi-channel delivery (Medium).**  
+   - Actions: For evidence requests, send **push** immediately, **email** within an hour, and **text** as a same‑day reminder; allow users to set preferences.  
+   - Evidence: Most favored multi-channel; staggered timing reduces pressure and helps as reminders (P1, P3, P4, P5).  
+   - Impact: Better visibility without overload. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+
+6. **Strengthen action-oriented tone and structure (Low).**  
+   - Actions: Use “what, why, by when” framing; add bolded cues (“Action needed”), and clear CTA (“Respond on VA.gov”).  
+   - Evidence: Requests for clearer CTAs and deadlines (P4, P6, P7, P16).  
+   - Impact: Higher task completion and reduced confusion. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ## Product User and Business Outcomes
 
 *Explain how findings and recommendations align with the product's goals.*
 
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 ### Desired User Outcome 
-This research supports our desired user outcome by....
- 
-### Desired Business Outcome
-This research supports our desired business outcome by....
+This research supports our desired user outcome by clarifying **what happened, what to do, and by when**—especially for evidence requests—so Veterans act confidently and promptly across trusted channels.
 
+### Desired Business Outcome
+This research supports our desired business outcome by improving **consistency and trust** in notifications, reducing delays in evidence submission, and supporting OCTO-DE priorities to deliver clearer, timely communications.
 
 ## Key Performance Indicators
 
 *Explain how findings will support KPI measurement.*  
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+### KPI 1 — Notification comprehension & trust  
+This research supports measurement by defining urgency cues and trust signals (logo, .gov, short code, authenticate-first), enabling surveys and analytics to track comprehension/trust changes post-implementation.  
 
-### KPI 1
-This research supports measurement of this KPI by....
-  
+### KPI 2 — Time-to-action for evidence requests  
+By adding deadlines and sequencing delivery, we can measure reduced time from notification to evidence submission via VA.gov/app analytics.
 
 ## Next Steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
 
-> [!TIP]
-> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
-> **After creating issues, add their hyperlinks back here under their corresponding "Recommendation" or "Next Step."**
-> 
-> If you need Github Copilot Enterprise Access, please complete this [Issue](https://github.com/department-of-veterans-affairs/copilot-onboarding/issues/new?template=copilot-onboarding.yml).
+- **Content design update (High):** Add explicit due dates and “Action needed” cues to evidence request templates (Owner: Content Designer).  
+- **Sender & URL standards (High):** Standardize sender display, verified short code, and URL rendering; add guidance to authenticate vs. click (Owner: Engineering + Content).  
+- **Channel playbook (Med):** Define content boundaries per channel; create sequencing rules for action-required messages (Owner: Product + Content).  
+- **Preference management (Med):** Clarify opt-in/out behavior (what “STOP” affects) and surface settings in VA.gov/app (Owner: Product + Eng).  
+- **Accessibility study (Med):** Plan follow-on testing with AT users to validate comprehension/trust with screen readers and zoom (Owner: Research).  
+- **Create GitHub issues:** Convert recommendations into actionable issues (link back here).
 
 ## Further research needed
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+- Validate notification accessibility with screen readers and magnification.  
+- Explore comprehension with low literacy/paper-first Veterans.  
+- Quantify optimal sequencing cadence (how often reminders help vs. overwhelm).  
+- Clarify opt-out/re-enroll flows and their user mental models.
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- Product Outline  
+- Research plan  
+- Conversation guide (Notifications) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- Prototypes: Desktop / Mobile [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- [Interview transcripts] (in dataset) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ### Tools used for Synthesis
 
 *List tools or techniques used, e.g., Mural, affinity mapping.*  
-  
+- Affinity Mapping, Thematic Coding
+
 ### Pages and applications used
 
 *Link to prototypes or pages tested during the study.*  
-
+- VA.gov (Claim Status Tool context) and VA Health & Benefits App (as referenced in prototypes) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ### Other supporting documents created
 
 *Include links to additional materials, e.g., personas, user flows.*  
-
+- N/A (this phase)
 
 ### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- None included in this report; insights based solely on provided study data. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
-
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+- U.S. Veteran actively using VA.gov or the VA Health and Benefits mobile app.  
+- Has submitted or tracked a disability compensation claim or appeal in the past year.  
+- Has received a VA notification (email/paper) within the past 6 months.  
+(From the provided research plan.)
 
-#### Demographics 
+---
 
-We talked to **x participants.**
+## Appendix A1. Codebook (themes, definitions, example quotes)
 
-Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+| Theme | Definition | Frequency (participants) | Representative quotes | Linked questions |
+|---|---|---:|---|---|
+| Urgency & Deadlines | Desire for explicit due dates and urgency indicators for evidence requests | 10 | “I wish it would say, please respond… by such-and-such date.” — P6 (Scenario 2, Email/Text) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 2 (Email/Text/Push) |
+| Trust in Push/App | Push trusted due to prior installation/authentication | 8 | “5/5… coming directly from the VA app.” — P3 (Scenario 1, Push) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 1 & 2 (Push) |
+| Text Link Hesitancy | Reluctance to click links in SMS; preference to log in | 6 | “I’m not going to click that link… I rarely click links on texts.” — P1 (Scenario 1, Text) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 1 & 2 (Text) |
+| Sender Signals | Importance of VA logo, .gov domain, known short code | 7 | “It’s a .gov email… legitimate.” — P1; “53079… coming from the VA.” — P4 (Warm-up) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Warm-up; Scenario 1 |
+| Authenticate-First Behavior | Preference to open VA.gov/app rather than click | 5 | “I would navigate there myself.” — P1 (Scenario 1, Email) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 1 |
+| Channel Sequencing | Preference for multi-channel and/or staggered reminders | 9 | “Please send it on all channels… don’t want to miss.” — P1; “Staggered reminders helpful.” — P4/P5 (Wrap-ups) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 2 Wrap-up; Comparative Reflection |
+| Action-Oriented Tone | Need for “what, why, by when” clarity | 8 | “It would be helpful if it said what… why… how soon.” — P6 (Scenario 2, Text) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 2 |
+| Device Shift to Complete | Check on phone; act on desktop/laptop | 5 | “Get my laptop… log in.” — P5 (Scenario 2) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Scenario 2 |
 
+> *Frequency note:* Counts reflect participants with completed data (P1, P3–P8, P10, P15–P17). Pilot data was used for refinement but excluded from counts.
 
-Gender:
-* Male: x 
-* Female: x 
+---
 
+## Appendix A2. Evidence Traceability Table
 
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+| Participant | Question/Scenario | Quote/Note | Theme |
+|---|---|---|---|
+| P1 | Scenario 1 – Text | “I’m not going to click that link… I rarely click links on texts.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Text Link Hesitancy |
+| P4 | Warm-up | “There’s that specific, 53079 number. I know is coming from the VA.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Sender Signals |
+| P6 | Scenario 2 – Email/Text | “I wish it would say… respond by such‑and‑such date.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Urgency & Deadlines |
+| P3 | Scenario 1 – Push | “5/5… if it’s coming directly from the VA app.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Trust in Push/App |
+| P5 | Scenario 2 – Email | “I would get my laptop… log in.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Device Shift to Complete |
+| P1 | Scenario 2 – Wrap | “Please send it on all channels… don’t want to miss that.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Channel Sequencing |
+| P6 | Scenario 2 – Text | “Helpful if it said what they were looking for, why, and how soon.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Action-Oriented Tone |
+| P10 | Comparative Reflection | “It should say it’s time sensitive.” [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) | Urgency & Deadlines |
 
+*(Full traceability available upon request; the above samples illustrate linkage of quotes to themes.)*
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+---
 
+## Appendix A3. Tables (Per-question summaries; frequencies)
 
-Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+**A3.1 Trust & Link Behavior (Scenario 1 — Decision Letter)**
 
+| Behavior/Rating | Count (of 11) | Notes |
+|---|---:|---|
+| Push trust rated high (≈5/5) | 8 | P1, P3, P4, P5, P6, P7, P8, P10, P17 cited high trust; P15/P16 less trusting of push. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
+| Avoid clicking text links | 6 | P1, P3, P5, P6, P15, P16. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
+| Prefer to log in (VA.gov/app) | 5 | P1, P5, P6, P15, P16. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
 
-Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+**A3.2 Urgency & Deadlines (Scenario 2 — Evidence Request)**
 
+| Item | Count | Notes |
+|---|---:|---|
+| Evidence request perceived more urgent than decision letter | 8 | P1, P3, P5, P6, P8, P10, P16, P17. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
+| Requested explicit deadline | 10 | P1, P3, P4, P5, P6, P7, P8, P10, P16, P17. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
 
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+**A3.3 Multi-channel Delivery Preferences (Scenario 2 Wrap-up)**
 
+| Preference | Count | Notes |
+|---|---:|---|
+| OK with email + text + push | ~10 | Most participants favored multi-channel; some prefer staggered. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
+| First channel engaged | Mixed | Text/push often first; email preferred by a subset. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true) |
 
-Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+---
 
+## Appendix A4. Methods & Protocol details (from plan)
 
-Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+- **Method:** Semi‑structured interviews; scenario review of decision letter and evidence request messages across email, text, and push.  
+- **Moderation:** Remote (Zoom) with screen share; static content review in Figma.  
+- **Session structure:** Warm-up → Scenario 1 (Decision letter) → Scenario 2 (Evidence request) → Comparative reflection.  
+- **Recruitment:** Perigean; Veterans actively using VA.gov/VAHB, with recent claim activity and notifications; mix of devices/digital comfort.  
+- **Timeline:** Pilot 12/9/2025; sessions 11/11/2025–1/02/2026 (contingency to 1/09/2026).  
+(From the provided research plan.)
 
+---
 
-#### Underserved groups we haven’t talked to 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
+## Limitations & Confidence
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+- **Missing data:** Several “No Show” participants (e.g., P2, P9, P11–P14) and blank cells (“no response”) reduce the breadth of perspectives; pilot responses were used for refinement, not counts. [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)  
+- **Self-report only:** No task performance was tested; findings reflect perceptions and intended behaviors.  
+- **Demographics:** Limited/unknown demographic details restrict subgroup analysis.  
+- **Confidence level:** **Moderate**—patterns are consistent across 11 completed sessions but should be validated with broader and AT-inclusive samples.
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+---
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-
-### Recruitment of underserved groups in [Study name]
-
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
+**End of Report**
