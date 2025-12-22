@@ -8,6 +8,8 @@ This guide explains how to set up test data and validate the standalone travel c
 
 Standalone Travel for Oracle Health lets veterans file travel claims for appointments. It stores appointment data in LoROTA and uses **VeText** for patient notifications.
 
+For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/medications/test-accounts.md
+
 ---
 
 ## Setting Up Test Data for Staging
