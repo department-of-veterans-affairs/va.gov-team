@@ -1,8 +1,8 @@
 ---
-title: "VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing, 12/16/25"
+title: "VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing"
 author: Jessica Sutantio & Riley Orr
 date_created: 12/16/25
-last_modified: 12/19/25
+last_modified: 12/22/25
 tags:
   - "research"
   - "usability-testing"
@@ -12,8 +12,8 @@ tags:
 description: "VSR conversation guide for usability testing of the 686c MVP Form Viewer concepts."
 ---
 
-# VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing Ver. Mango
-_This is the mango-first (showing BAM minimal first after the current PDF) version of the conversation guide. The orange-first (showing VADS minimal first after the current PDF) conversation guide is located in the [VSR-conversation-guide-orange.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/VSR-conversation-guide-orange.md)._
+# VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing
+_There are two "Minimal" concepts (Orange and Mango) which will alternate order with half of the participants to avoid order bias._
 
 _NTH = "nice to have" questions that are not required and will be asked if time permits_
 
@@ -84,8 +84,8 @@ I’m going to send you a link in the chat.
 
 **Prototypes**
 
-* NEED TO UPDATE!!!! [Desktop](https://www.figma.com/proto/CVpC4IQI7IpVZeypPoCI8x/D2D-Solutioning-V2?node-id=3801-37940&t=4F0Y5cF4SnzUjpUE-8&scaling=contain&content-scaling=fixed&page-id=3197%3A2003&starting-point-node-id=3801%3A37940&show-proto-sidebar=1&hide-ui=1)
-    * Backup tinyurl if the participant cannot get to the chat: https://tinyurl.com/vsr2026fdf
+* [Desktop](https://www.figma.com/proto/EoYnokGp9aSgy5JrDVqp5L/686c---Form-data-viewer---Fully-Digital-Forms?node-id=4670-16703&t=BdjweiRXqUS7XhzL-8&scaling=scale-down-width&content-scaling=fixed&page-id=4670%3A14022&starting-point-node-id=4670%3A16703&show-proto-sidebar=1&hide-ui=1)
+    * Backup tinyurl if the participant cannot get to the chat: [https://tinyurl.com/FDFVSR](https://tinyurl.com/FDFVSR)
 
 Feel free to take a minute to hide anything, like your email or anything you don’t want us to see. Let me know if you need help. I am more than happy to walk you through the steps you can take to share your screen:
 
@@ -97,14 +97,6 @@ Once you open the link, please share your screen. Please do not click on anythin
 
 
 ## Setting up context- 2 minutes (start @ :07)
-
-```The participant will encounter the prototypes in the following order:
-- Current PDF
-- Orange: BAM Minimal (uses online questions)
-- Mango: VADS Minimal (uses online questions)
-- Apple: Extra Features (uses online questions)
-- Grape: Digital PDF (uses PDF questions)
-```
 
 For the remainder of the session, I'd like you to imagine that you have a new 686c application you need to review. For this variation, we will not be covering topics that relate to form 674 (Request for Approval of School Attendance).
 
@@ -141,7 +133,7 @@ This is the current file view with the current 686c PDF form. You might be famil
         * Is there a time you would ever need these instructions? [Probe other forms]
 
 
-## Evaluating Mango (VADS Minimal) - 10 mins (start @ :12)
+## Evaluating 1st Minimal concept - 10 mins (start @ :12)
 _Instruct participant to click on the "Edit Properties" button at the top left, which will bring them to the variations screen._
 
 Now we're going to show you a variation of what you've seen so far. Two things to note: 
@@ -149,7 +141,7 @@ Now we're going to show you a variation of what you've seen so far. Two things t
 2. We will assume a scenario in which Jamie's 686c form was submitted online via VA.gov.
 
 Like a cooking show, I want you to describe what you're seeing, thinking, and doing. If you're scrolling, using the keyboard, or repositioning the window, I'd like you to narrate your actions. Before we proceed, do you have any questions?
-Please click on 'Enter Mango'. Just like PDF form, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please skim through the sections, questions, and answers until you get to the bottom of the page. We don't expect you to read everything, but we want you to get a feel for the type of the information and how it's being displayed. Please think aloud as you review the page.
+Please click on 'Enter Mango/ Orange'. Just like PDF form, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please skim through the sections, questions, and answers until you get to the bottom of the page. We don't expect you to read everything, but we want you to get a feel for the type of the information and how it's being displayed. Please think aloud as you review the page.
 
 `Observe navigation methods (e.g., scrolling, tabbing)`
 
@@ -191,11 +183,11 @@ I'd like us to look at a specific section on this page. Could you scroll to the 
 
 
 
-## Evaluating Orange (BAM minimal) - 3 minutes (start @ :22)
+## Evaluating 2nd Minimal Concept - 3 minutes (start @ :22)
 
 _Instruct participant to click on the "VBMS Home" button at the top left, which will bring them to the variations screen_
 
-Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Mango'. Just like the last page, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please go ahead and take a moment to review the page.
+Now we're going to show you a variation of what you've seen so far. Please click on 'Enter Mango/ Orange'. Just like the last page, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please go ahead and take a moment to review the page.
 
 * What are your initial thoughts of this page?
 
@@ -228,7 +220,7 @@ What do you think about the:
 * What is your preference? Why?
 
 
-## Evaluating Apple  (Extra Features) -  15 minutes (start @ :28)
+## Evaluating Apple (Extra Features) -  15 minutes (start @ :28)
 
 _Instruct participant to click on the "VBMS Home" button at the top left, which will bring them to the variations screen_
 
