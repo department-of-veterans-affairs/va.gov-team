@@ -25,20 +25,11 @@
 - Research participants
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-See the Veteran journey  
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-**Goals from the plan:**  
+**Goals:**  
 1) Understand perceptions, trust, and actions across channels; 2) Identify tone/clarity effects; 3) Determine channel appropriateness for informational vs. action-required notifications.  
-(From the provided research plan.)
 
 ## Research Questions
-
-*List the research questions that guided this study.*  
 
 * How do Veterans interpret and respond to decision letter and evidence request notifications across email, text, and in-app?  
 * How much information feels appropriate in each channel (decision letter vs. evidence request)?  
@@ -49,19 +40,12 @@ See the Veteran journey
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
 - Semi‑structured interviews with scenario-based evaluation of notification examples (email, text, in-app).  
 - Qualitative coding and affinity mapping of open-ended responses.  
-(From the provided research plan and the study spreadsheet.) [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
-
-[Conversation guide and prototypes were referenced in the data file.]  
-- Conversation guide: link in dataset  
-- Figma prototypes: Desktop & Mobile links in dataset [1](https://dvagov-my.sharepoint.com/personal/melissa_lefevre_va_gov/_layouts/15/Doc.aspx?sourcedoc=%7B488E43AE-39DC-4C2C-8B38-3A20A8B77446%7D&file=BMT%20Notification%20Research%2012_25.xlsx&action=default&mobileredirect=true)
+- Conversation guide
+- Figma prototypes: [Desktop](https://www.figma.com/proto/db26JCYXJtaakOdG4TiNXN/Notifications-BMT?page-id=2556%3A6200&node-id=2764-622&viewport=220%2C537%2C0.12&t=gPDuvgO4bofaBB0z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2764%3A622&show-proto-sidebar=1) & [Mobile](https://www.figma.com/proto/db26JCYXJtaakOdG4TiNXN/Notifications-BMT?page-id=2556%3A6200&node-id=2688-356&viewport=220%2C537%2C0.12&t=gPDuvgO4bofaBB0z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2688%3A356&show-proto-sidebar=1) 
 
 ## Hypotheses and Conclusions
-
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
 
 - **Hypothesis:** Veterans prefer email for formal, detailed notifications, and text/in-app for time-sensitive messages.  
   - **Likely True**  
