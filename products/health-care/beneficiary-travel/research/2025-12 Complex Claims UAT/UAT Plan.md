@@ -158,12 +158,11 @@ This test will take the form of User acceptance testing (UAT). We will ask users
 
 ### Optional Kick-off Call with Perigean
 Suggested dates and times: 
-- `Monday, Dec 8 at 11:30am ET`
-- `Tuesday, Dec 9 at 2pm ET`
-- `Tuesday, Dec 9 at 3pm ET`
-- `Wednesday, Dec 10 at 10am ET`
-- `Thursday, Dec 11 at 10am ET`
-- `Friday, Dec 12 from 11:30am ET through 3:00pm ET`
+- `Monday, January 12 at 11:30am ET`
+- `Monday, January 12 at 3pm ET`
+- `Tuesday, January 13 at 1pm ET`
+- `Tuesday, Janaruy 13 at 3pm ET`
+- `Wednesday, January 14 at 10am ET`
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -194,10 +193,10 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[01/16, Friday, 10 AM:4 PM] EST`
+- `[01/20, Tuesday, 10 AM:4 PM] EST`
+- `[01/21, Wednesday, 10 AM:4 PM] EST`
+- `[01/22, Thursday, 10 AM:4 PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `Add more slots as needed`
   
