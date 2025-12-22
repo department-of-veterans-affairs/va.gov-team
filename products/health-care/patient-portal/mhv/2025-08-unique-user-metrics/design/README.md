@@ -1,5 +1,9 @@
 # Unique User Metrics for the MHV Portal
 
+## Table of Contents
+- [Unique Logged Events](#unique-logged-events)
+- [Re-architecture: Asynchronous Batch Processing (December 2025)](#re-architecture-asynchronous-batch-processing-december-2025)
+
 The goal of the Unique User Metrics (UUM) for the My HealtheVet (MHV) Portal is to collect unique user metrics on how many users have accessed the MHV on VA.gov patient portal. The patient portal is comprised of any application that is accessed via the `/my-health` root URL and includes the MHV landing page. Note that Google Analytics can collect these same metrics, but this effort aims to provide more accurate metrics since we do not want users to be able to opt out of these analytics.
 
 ### A Note on Account Activity Logs
@@ -134,6 +138,8 @@ The `mhv_metrics_unique_user_events` table is expected to grow significantly bas
 
 ### Other considerations
 - Using a Sidekiq job - We could use a Sidekiq job in `vets-api` to asynchronously perform the logging operation, so not to incurr a performance hit on the backend, but it is expected that this operation will take a minimal amount of time to perform and hence can be done inline. Regardless, we could migrate in the future to using a Sidekiq job if we find the burden is too high.
+
+---
 
 ## Re-architecture: Asynchronous Batch Processing (December 2025)
 
