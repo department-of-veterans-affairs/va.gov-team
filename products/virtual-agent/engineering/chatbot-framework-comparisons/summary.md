@@ -174,7 +174,7 @@ However, LangGraph is **not a chatbot framework** and cannot replace DirectLine,
 
 ---
 
-### Recommended Path Forward (Updated)
+### Recommended Path Forward
 
 #### Short Term (0–6 months): Option A — Backend-Only Adoption
 
