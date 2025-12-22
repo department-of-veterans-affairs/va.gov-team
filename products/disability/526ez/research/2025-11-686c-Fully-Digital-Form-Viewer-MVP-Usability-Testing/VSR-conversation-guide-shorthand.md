@@ -1,5 +1,5 @@
 # VSR Conversation Guide for 686c Fully Digital Form Viewer MVP Usability Testing - Moderator Shorthand
-_This is the shorthand version of the conversation guide for moderator use. Some language is removed for easier scanability while moderating. Please refer to the more complete conversation guides ([orange](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/VSR-conversation-guide-orange.md) or [mango](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/VSR-conversation-guide-mango.md)) for more context._
+_This is the shorthand version of the conversation guide for moderator use. Some language is removed for easier scanability while moderating. Please refer to the [complete conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11-686c-Fully-Digital-Form-Viewer-MVP-Usability-Testing/VSR-conversation-guide.md) for more context._
 
 ## Introduction - 2 minutes (start @ :00)
 
@@ -43,8 +43,8 @@ Before we look at the form, let’s start with a couple of background questions.
 Thank you for sharing your experience. We are now going to transition into testing a prototype version 686c form output on VBMS.
 I’m going to send you a link in the chat. 
 
-* NEED TO UPDATE!!!! [Desktop](https://www.figma.com/proto/CVpC4IQI7IpVZeypPoCI8x/D2D-Solutioning-V2?node-id=3801-37940&t=4F0Y5cF4SnzUjpUE-8&scaling=contain&content-scaling=fixed&page-id=3197%3A2003&starting-point-node-id=3801%3A37940&show-proto-sidebar=1&hide-ui=1)
-    * Backup tinyurl: https://tinyurl.com/vsr2026fdf
+* [Desktop](https://www.figma.com/proto/EoYnokGp9aSgy5JrDVqp5L/686c---Form-data-viewer---Fully-Digital-Forms?node-id=4670-16703&t=BdjweiRXqUS7XhzL-8&scaling=scale-down-width&content-scaling=fixed&page-id=4670%3A14022&starting-point-node-id=4670%3A16703&show-proto-sidebar=1&hide-ui=1)
+    * Backup tinyurl if the participant cannot get to the chat: [https://tinyurl.com/FDFVSR](https://tinyurl.com/FDFVSR)
 
 * Have you interacted with a Figma prototype link before?
     * [If not] This link will open an online program called Figma, which allows us to visually represent potential VBMS webdesigns. It should let you scroll and click on some of the buttons and links, but some of the functionality will be limited and may not work.
