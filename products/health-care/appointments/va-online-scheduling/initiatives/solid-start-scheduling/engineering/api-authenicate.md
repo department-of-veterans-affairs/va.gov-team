@@ -1,26 +1,28 @@
-# API Authentication
+## API Authentication: OTC Flow Authentication with VASS API
 
-## Basic Idea
+The One-Time Code (OTC) flow is designed for scenarios where users access VA scheduling services through a direct invitation—not via a full va.gov sign-in. Instead of authenticating with standard credentials, users validate their identity using brief personal details and an emailed OTC, enabling secure access to appointment scheduling.
 
-- VASS API and va.gov API are both configured with the Sign in Service (SiS)
-- Veteran logs into va.gov
-- va.gov asks for a JWT Token from SiS
-  - that token includes the information we need to pass around
-- va.gov uses that token to make calls to the VASS API and obtain a VASS API token
-- va.gov uses the VASS API token to make calls
-  - the token should contain the information we need
+**How the OTC flow works with VASS API:**
 
-## Documentation
+1. **Invitation:**  
+   The VASS backend system emails an invitation to the user, containing a unique scheduling link (with UUID and cohort ID).  
+   VANotify handles the email distribution.
 
-- [SiS documentation in GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/readme.md)
-- [We will most likely be doing Service Account Auth (STS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS))
+2. **Identity Validation:**  
+   When the user clicks the scheduling link, they're prompted to enter their last name and date of birth.  
+   VASS and vets-api coordinate to confirm these details and validate the UUID.
 
-## Examples
+3. **One-Time Code Generation:**  
+   After initial validation, the VASS API generates an OTC and sends it to the user's email via VANotify.
 
-### Travel Pay on va.gov
+4. **Authentication and Appointment Access:**  
+   The user enters the OTC in the browser.  
+   VASS API verifies the code.  
+   Upon successful verification, the user can access appointment scheduling features (view availability, book/cancel, etc.) without needing a full SSO or persistent token.
 
-This is an application sits on va.gov and uses MS Dynamics as a back end API
+5. **Scoped Access:**  
+   The OTC is single-use and grants time-limited, purpose-specific access for scheduling activities, ensuring security without requiring session tokens from va.gov's Sign-In Service.  
+   All subsequent API calls to VASS for scheduling actions are authorized based on this OTC validation.
 
-[High level idea:](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/authentication-paths.md#use-vagov-sign-in-service)
-
-[Sequence Diagram of the Authorization process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/auth-seq-diagram.md)
+**For a visual and step-by-step breakdown, see:**  
+[OTC Flow Sequence Diagrams](#otc-flow)
