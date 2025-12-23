@@ -8,12 +8,12 @@ Feature Toggle/flag:
 - [ ] Contact Center Review has been submitted
 - [ ] The following user flows have been tested
    - Successful ITF submission
-   -    [ ] Veteran pathway
-   -    [ ] non-Veteran pathway
+      -    [ ] Veteran pathway
+      -    [ ] non-Veteran pathway
    -  Various ITF statuses
-   -    [ ] User does not have POA for the claimant
-   -    [ ] Existing ITF is found
-   -    [ ] Can't check ITF status
+      -    [ ] User does not have POA for the claimant
+      -    [ ] Existing ITF is found
+      -    [ ] Can't check ITF status
    - [ ] Failed Submission
 
 Any other issues or requirements that should be addressed prior to rollout?
