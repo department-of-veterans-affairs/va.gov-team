@@ -19,18 +19,18 @@ methodology:
   
 devices_used:
     desktop: X
-    tablet: X
+    tablet: 
     smartphone: X
     assistive_technology: X
-participants_total: X
+participants_total: 14
 demographics:
   veterans: X
   service_members: X
-  caregivers: X
-  dependents: X
+  caregivers: 
+  dependents: 
   VA_staff: X
   age:
-    "25-34": X
+    "25-34": 
     "35-44": X
     "45-54": X
     "55-64": X
@@ -203,15 +203,18 @@ Findings will inform iterative improvements to the form's design, content, and w
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 ### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+Users experienced confusion with terminology when asked "What is your relationship to the Veteran (deceased)?" 
+- _Supporting data: (Regarding the term Sponsor) "and this is a military term, I think some people might not know, if they were, like, a family member, might not know that a sponsor means, like, the primary Person with the, you know, and others are dependents." - P5 
 
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
 ### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
+Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.
+- _Supporting data: "I have (a pre-need decision letter) myself, but I didn't know it was called pre-need. That sounds like you need something. That's kind of poorly titled, to be honest with you." - P7
+
+### Finding 3  
+Most users understood the definition of personal representative, but few understood its relation to their specific scenario.
+- _Supporting data: (Regarding who is the personal rep) "to me...that would be the wife who was doing it on my behalf. To me, the personal representative is not the actual veteran, it's the person who's caring for the veteran, because the veteran's unable to care for themselves." - P13
 
 ---
 
@@ -219,15 +222,18 @@ Brief description
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+- Some participants were confused with "eligibility" terminology. There was confusion about existing burials — some participants might unintentionally start a case as a new burial rather than as a subsequent burial.
+
+- Participants expressed confusion regarding burial terminology, particularly with the terms "cremains green," "intact green," and "cremains."
 
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+1. **Recommendation:** Consider reviewing and clarifying the wording for the "Relationship to deceased" question. Exploring more specific options could help address situations with multiple possible selections.
+   - _Supporting evidence: 9/13 participants either expressed confusion when selecting the relationship to deceased, or wanted to select multiple options when interacting with this question.  
+2. **Recommendation:** Collaboratively exploring ways to add more descriptive text may help users better understand what the pre-need letter is and how it connects to the Time of Need burial scheduling form.  
+   - _Supporting evidence: 6 different participants were confused by the wording of what a pre-need decision letter is. This and other issues across the form could be recitified by including more specific and inclusive description text underneath headers for screens where terminology might be unfamiliar to users.
 
 ## Product User and Business Outcomes
 
@@ -283,13 +289,13 @@ This research supports measurement of this KPI by....
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Flow 1 prototype - funeral home representative applying for the burial of a deceased Veteran](https://www.figma.com/design/uwD8YNp1g3W6XHR5Bn9sjF/Time-of-Need-Lite---Baseline-Prototypes?node-id=41-9324&t=y3dcbm46PAHILmNy-1)
+- [Flow 2 prototype - Veteran applying for the burial of their deceased spouse](https://www.figma.com/design/uwD8YNp1g3W6XHR5Bn9sjF/Time-of-Need-Lite---Baseline-Prototypes?node-id=1365-87172&t=y3dcbm46PAHILmNy-1) 
 
 
 ### Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
-
+[User flows for usability testing sessions](https://www.figma.com/board/2DhA2V8uPBwJXT2cI8vEo2/Time-of-Need-Lite-Process-Diagrams?node-id=688-3397&t=zzePDVMKWLl89Maf-1)
 
 ### Secondary research
 
@@ -306,67 +312,67 @@ _If you had specific criteria that you recruited for, use this space to explain 
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **14 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 14 
+* Caregivers: 0
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 8 
+* Female: 6 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
+* Gay, lesbian, or bisexual: unknown
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 11 
+* Tablet: 0 
+* Smart phone: 3 
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 0
+* 35-44: 1
+* 45-54: 4
+* 55-64: 3
+* 65+: 5
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 3
+* Master's degree: 5
+* Doctorate degree: 1
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 11
+* Rural: 3
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 7
+* Black: 2
+* Hispanic: 2
+* Biracial: 5
+* Asian: 2
+* Native: 1
 
 
-Disability and Assistive Technology (AT):
+Disability and Assistive Technology (AT): none used
 * Cognitive: x
 * AT beginner: x
 * AT advanced user: x
