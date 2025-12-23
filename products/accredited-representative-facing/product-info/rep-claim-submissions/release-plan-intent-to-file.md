@@ -1,16 +1,20 @@
 # Release Plan: Intent to File [Draft]
 
 Feature Toggle/flag:
-`accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release. The following will be controlled through the feature toggle:
-1. ID.me authentication option
-2. ID.me mentions on the Help page
+`accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release.
 
 ### Preparation
-- [ ] All "launch blocking" items from Staging Review have been addressed - Our past Architecture Intent has been deemed sufficient and we are approved to skip Staging Review for this release ([Slack confirmation](https://dsva.slack.com/archives/C05SUUM4GAW/p1763569907879669?thread_ts=1761249327.341629&cid=C05SUUM4GAW)) 
-- [x] Contact Center Review has been submitted
-- [x] The following ID.me user scenarios have been tested
-   - [x] Authenticated with ID.me, but not authorized (tested with vets.gov.user+133@gmail.com)
-   - [x] Authenticated with ID.me and authorized (tested with vets.gov.user+0@gmail.com)
+- [ ] All "launch blocking" items from Architecture Intent has been addressed - We are approved to skip Staging Review for this release [Ticket confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126226#issuecomment-3613894627)
+- [] Contact Center Review has been submitted
+- [] The following user flows have been tested
+   - [] Successful ITF submission
+   -    [ ] Veteran pathway
+   -    [ ] non-Veteran pathway
+   - [] Various ITF statuses
+   -    [ ] User does not have POA for the claimant
+   -    [ ] Existing ITF is found
+   -    [ ] Can't check ITF status
+   - [] Failed Submission
 
 Any other issues or requirements that should be addressed prior to rollout?
 
@@ -20,13 +24,13 @@ Asynchronous Go/No Go
 - [] review the release plan with your team.
 - [] review the plan with your OCTO representative.
 
-**Verdict:Go**
+**Verdict:**
 
 ## Release Details (Pending in January)
 
 - [] Enable in Production to 100% of users
 - [] Confirm the release to Production, with a test user
-- [] Communicate release to ARP pilot users via Teams/Email, including Wounded Warrior Project (who expressed interest in ID.me)
+- [] Communicate release to ARP pilot users via Teams/Email
 
 ***
 
