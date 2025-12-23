@@ -22,6 +22,7 @@ Synchronous Go/No Go (Placeholder)
 
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
+- [ ] Finalize the release date
 
 **Verdict:**
 
