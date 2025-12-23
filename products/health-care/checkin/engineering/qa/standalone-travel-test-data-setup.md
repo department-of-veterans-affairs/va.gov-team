@@ -122,6 +122,7 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
 | At least 1 appointment today       | Error message: No appointment for today                      | No                            |
 | Appointment valid status           | Ineligible appointments filtered                             | No (if none left)             |
 | Service type is eligible           | Only `IN_PERSON_VA_ONSITE` or `TELEHEALTH_VA_ONSITE` qualify | No (if none left)             |
+| Appointment's station is in pilot  | Ineligible appointments filtered                             | No (if none left)             |
 
 _Only if all requirements are satisfied will a travel claim URL be sent to the user._
 
