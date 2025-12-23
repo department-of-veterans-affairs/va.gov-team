@@ -403,6 +403,30 @@ Retrieves details of a specific appointment by its unique identifier. Requires a
 }
 ```
 
+**Response (Appointment not found):**
+```json
+{
+  "errors": [
+    {
+      "code": "appointment_not_found",
+      "detail": "Appointment not found"
+    }
+  ]
+}
+```
+
+**Response (Missing appointment id):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_appointment_id",
+      "detail": "Appointment ID is required"
+    }
+  ]
+}
+```
+
 - `appointmentId`: Unique identifier for the appointment.
 - `topics`: Array of topics associated with the appointment.
 - `dtStartUtc`: Start date and time (UTC, ISO8601). 
