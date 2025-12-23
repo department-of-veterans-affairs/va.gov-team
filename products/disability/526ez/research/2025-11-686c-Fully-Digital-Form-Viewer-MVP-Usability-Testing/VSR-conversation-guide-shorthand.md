@@ -81,14 +81,14 @@ We'll be mostly focusing on the content that follows the link.
 
 This is the current file view with the current 686c PDF form. You might be familiar with this form.
 
-* What are your goals when reviewing 686c?
+* What are your **goals** when reviewing 686c?
     * How does this information help achieve those goals?
-* Are you typically looking for specific information?
+* Are you typically looking for **specific information**?
     * keyword search vs skip specific sections
     * pieces or whole
     * [Probe copying info into other locations in VBMS]
-    * Do you need the instructional information at the beginning of the form?
-        * other forms
+* Do you need the **instructional information** at the beginning of the form?
+    * other forms
 
 
 ## 1st minimal - 10 mins (start @ :12)
@@ -99,7 +99,12 @@ Now we're going to show you a variation of what you've seen so far. Two things t
 2. We will assume a scenario in which Jamie's 686c form was submitted online via VA.gov.
 
 Like a **cooking show**, I want you to describe what you're seeing, thinking, and doing. If you're scrolling, using the keyboard, or repositioning the window, I'd like you to narrate your actions. Before we proceed, do you have any questions?
-Please click on 'Enter Orange'. Just like PDF form, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. Please skim through the sections, questions, and answers until you get to the bottom of the page. We **don't expect you to read everything**, but we want you to get a feel for the type of the information and how it's being displayed. Please **think aloud** as you review the page.
+
+Please click on 'Enter Orange/Mango'. 
+
+Just like PDF form, imagine that this is what you would see if you were to click on the "VA Form 21-686c" link from Jamie's eFolder. 
+
+Please skim through the sections, questions, and answers until you get to the bottom of the page. We **don't expect you to read everything**, but we want you to get a feel for the type of the information and how it's being displayed. Please **think aloud** as you review the page.
 
 `Observe navigation methods (e.g., scrolling, tabbing)`
 
@@ -157,18 +162,17 @@ Now we're going to show you the two concepts side-by-side.
 `Change concept`
 
 
-* Do you see any difference between the two concepts, orange and mango? If so, what?
+* Do you see any **difference between the two** concepts, orange and mango? If so, what?
 
 What do you think about the:
-* Text styling (headers, bold text, size, capitalization [title vs sentence case])
+* Text styling (headers, bold text, **size**, capitalization [title vs sentence case])
     * Legibility
     * Scan-ability
-* Q&A layout and spacing (two column, side-by-side vs stacked)
-* Can you easily distinguish one section from another? How?
+* Q&A layout and **spacing** (two column, side-by-side vs stacked)
+* Can you easily **distinguish one section** from another? How?
     * [Probe about visual elements like divider, typography, spacing]
-* How does this compare to what you're used to in VBMS?
-* What is your preference? Why?
-
+* **What is your preference?**
+* [NTH] How does this compare to what you're used to in VBMS?
 
 ## Evaluating Apple  (Extra Features) -  15 minutes (start @ :28)
 `Change concept`
@@ -187,23 +191,16 @@ The form output content remains the same as what we've just reviewed, but now th
 
 
 ### Summary box
-
-If you may go to the top of the page please. Now I want you to look at the blue box that says "Application Summary".
-
-* Is having the "Application Summary" box useful for you? Why?
-    * What would you use it for?
-* Is the information within this box useful to you?
-    * Supporting docs: Would you like for the supporting documents to be listed elsewhere? [In this design, they are only listed within the Application Summary box.]
+* Is having the "Application Summary" box **useful** for you? Why? What for?
+* Type of information to include?
+    * **Supporting docs location**
         * [NTH Probe] Would you want the supporting documents to be linked out from this page? 
             * What is the ideal interaction?
-    * Submission date: Would you want the submission date within the box?
-    * Signature and certification: Would you want this text to be here?
-        * Would you desire the whole language, which includes "Signee signed with an identity-verified account." at the end?
-    * What would you add or remove from this box so that it's useful to you?
-    * What information would you like to see?
-    * Is the language used here appropriate?
-        * [Probe confirmation, claim, file number]
-* What do you think about the position of this box being at the top of the page?
+    * **Submission date**
+    * **Signature and certification**
+        * [NTH] Would you desire the whole language, which includes "Signee signed with an identity-verified account." at the end?
+    * What would you **add or remove** from this box so that it's useful to you?
+* [NTH] What do you think about the **position** of this box being at the top of the page?
 
 ### Side navigation
 
@@ -230,15 +227,12 @@ Observe navigation methods (e.g., scrolling vs sidenav)
 
 ### Syntax (online vs PDF)
 * What do you think about the wording being used in the headers, questions and answers?
-If you may navigate to question 63 (child's disability status question).
-
-`Observe how they navigate`
+If you may go to question 63 (child's disability status question).
 
 The order and wording of the questions and answers here reflect the Q&A that Veteran was shown when filling out the form on VA.gov, rather than what is shown on the 686c PDF/ paper.
 
-* What are your thoughts on how the online questions slightly differ from the paper/ PDF version
-    * Which Q&A syntax do you prefer? The online version or the paper/ PDF version? Why?
-        * What are the pros and cons?
+* What are your thoughts on how the online questions slightly differ from the paper/ PDF version?
+    * Which Q&A syntax do you **prefer**? The online version or the paper/ PDF version? Why?
 * [NTH] SSN
 * [NTH] names (single line vs broken out)
 * [NTH] address (block vs broken out)
@@ -254,9 +248,9 @@ I'd like us to look at a specific section on this page. Could you scroll to Sect
 This section was not required to be filled out, so our demo Veteran, Jamie, didn't fill it out in their application.
 
 * How do you feel about having the skipped questions displayed like this?
-    * Would you like to see the skipped sections and questions?
-    * What are you thoughts on the "Not applicable" text beside the section names?
-* Is it helpful to know the questions even when the Veteran isn't asked them?
+    * **Would you like to see** the skipped sections and questions?
+    * What are you thoughts on the **"Not applicable" text** beside the section names?
+* Is it helpful to know the questions even when the **Veteran isn't asked them**?
 * Is it helpful to know when a Veteran is asked an optional question, but they do not provide an answer?
     * [Clarifying note: The Veteran should not be able to submit the form online if the question is required.]
 
@@ -285,10 +279,9 @@ This section was not required to be filled out, so our demo Veteran, Jamie, didn
         * [If not asked yet] What are you thoughts on the **"Not applicable"** text?
         * Would you want the default for all skipped sections to be collapsed? Included at all?
 
-
 ### Closing Apple
-* [If not previously asked] What feature or aspect, is most important to help you accomplish your goal when adjudicating a 686c claim? [Reference previously-mentioned goals]
-* Would your opinions be the same or different for forms beyond 686c?
+* [If not previously asked] What feature or aspect, is **most important** to help you accomplish your goal when adjudicating a 686c claim? [Reference previously-mentioned goals]
+* Would your opinions be the same or different for **forms beyond 686c**?
 
 
 ## Evaluating Grape (Digital PDF) - 5 minutes (start @ :43)
@@ -326,13 +319,13 @@ This section was not required to be filled out, so our demo Veteran, Jamie, didn
         * level of info
     * Which variation, including the current PDF,  would be easiest to **locate information**?
     * what feature or aspect, is most **important** to help you accomplish your goal when adjudicating a 686c claim? [Reference previously-mentioned goals]
-* missing or should be emphasized + remove or de-emphasize?
+* Information **missing** or should be **emphasized** + remove or de-emphasize?
 
 
 ### Comparison to current PDF
 
 * Are there any features or qualities that are **missing**?
-    * [Probe about use of annotations and if they use it on other forms as well]
+    * [Probe about use of **annotations** and if they use it on other forms as well]
 * Is there anything you'd **wish** to have?
 * Would your ideal concept be adaptable to **other forms** beyond 686c?
     * Are there other aspects we must consider to accommodate other forms?
