@@ -17,8 +17,34 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
 ### Prerequisites
 
 - Access to the staging Oracle Health system (server **B1930**).
-- Phone number you can receive SMS messages on.
-- Patient's **last name** and **date of birth**.
+- A test patient with a phone number you can receive SMS messages on.
+- Patient's **last name** and **date of birth** for authentication.
+
+---
+
+### Test Steps
+
+1. **Set Up Appointment**
+   - Log in to staging Oracle Health.
+   - Create a **booked, in-person appointment** for your test patient, with your SMS-accessible phone number and note the last name and DOB.
+
+2. **Text 'travel'**
+   - On the appointment day, text `travel` to:
+     ```
+     707-200-7446
+     ```
+   - VeText will search for a matching patient and appointment.
+
+3. **Watch for Response**
+   - If everything matches, you’ll get a link via SMS.
+   - If not, VeText will send a failure message like "Phone number not found."
+
+4. **File the Claim**
+   - Open the link and complete the process.
+   - You should see a success message if the claim is accepted.
+
+5. **Final Notification**
+   - Later, a follow-up text will confirm if the claim was submitted successfully (may take some time).
 
 ---
 
@@ -89,32 +115,6 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
 | Service type is eligible           | Only `IN_PERSON_VA_ONSITE` or `TELEHEALTH_VA_ONSITE` qualify | No (if none left)             |
 
 _Only if all requirements are satisfied will a travel claim URL be sent to the user._
-
----
-
-### Test Steps
-
-1. **Set Up Appointment**
-   - Log in to staging Oracle Health.
-   - Create a **booked, in-person appointment** for your test patient, with your SMS-accessible phone number and note the last name and DOB.
-
-2. **Text 'travel'**
-   - On the appointment day, text `travel` to:
-     ```
-     707-200-7446
-     ```
-   - VeText will search for a matching patient and appointment.
-
-3. **Watch for Response**
-   - If everything matches, you’ll get a link via SMS.
-   - If not, VeText will send a failure message like "Phone number not found."
-
-4. **File the Claim**
-   - Open the link and complete the process.
-   - You should see a success message if the claim is accepted.
-
-5. **Final Notification**
-   - Later, a follow-up text will confirm if the claim was submitted successfully (may take some time).
 
 ---
 
