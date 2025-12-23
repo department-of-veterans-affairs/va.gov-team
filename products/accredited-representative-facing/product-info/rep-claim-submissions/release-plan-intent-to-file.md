@@ -1,4 +1,4 @@
-# Release Plan: Intent to File [Draft]
+# Release Plan: Intent to File
 
 Feature Toggle/flag:
 `accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release.
