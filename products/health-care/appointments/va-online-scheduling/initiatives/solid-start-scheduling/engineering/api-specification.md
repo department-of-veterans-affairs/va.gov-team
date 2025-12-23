@@ -453,6 +453,18 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 ```
 - `appointmentId`: The unique identifier of the cancelled appointment.
 
+**Response (Cancellation failed):**
+```json
+{
+  "errors": [
+    {
+      "code": "cancellation_failed",
+      "detail": "Failed to cancel appointment"
+    }
+  ]
+}
+```
+
 ---
 
 ### External Service Errors
