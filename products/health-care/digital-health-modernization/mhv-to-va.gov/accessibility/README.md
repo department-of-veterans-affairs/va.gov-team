@@ -1,7 +1,7 @@
 # MHV on VA.gov — Accessibility
 Repository of accessibility-related documentation, including planning and process documents
 
-Last updated: 9 Dec 2025
+Last updated: 23 Dec 2025
 
 ## Process Documentation
 
