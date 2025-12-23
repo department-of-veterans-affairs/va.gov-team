@@ -1,4 +1,4 @@
-# Product Outline: Chatbot - Query Routing with LLMs & Sign On Topic RAG (MVP) 
+# Initiative Brief: Chatbot - Query Routing with LLMs & Sign On Topic RAG (MVP) 
 ---
 ## Overview
 
