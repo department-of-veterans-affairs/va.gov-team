@@ -18,7 +18,7 @@ Feature Toggle/flag:
 Any other issues or requirements that should be addressed prior to rollout?
 
 ### Go/No Go meeting pending
-Asynchronous Go/No Go
+Synchronous Go/No Go (Placeholder)
 
 - [ ] review the release plan with your team.
 - [ ] review the plan with your OCTO representative.
