@@ -89,6 +89,15 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
 
 ---
 
+### Pilot
+
+6. **Is the station in pilot**
+   - The appointment's station needs to be included in the pilot(hard coded list in chip)
+   - If none qualify:
+     _Respond:_ "Sorry, this phone number isn't in our records. Please try again. Or ask a staff member for help."
+
+---
+
 ### Result: Sending the Travel Claim Link
 
 - If all the above requirements are met:
@@ -122,7 +131,7 @@ _Only if all requirements are satisfied will a travel claim URL be sent to the u
 
 - **No link received:** Reach out to VeText they may have turned off notifications for the testing service, or some other connectivity issue.
 - **Failure SMS from VeText:** Compare appointment details to eligibility requirements above.
-- **No final status:** The claim process is async; delays are normal.
+- **No final status:** Some error may have occured with the BTSSS api, Check datadog vagov datadog for error logs.
 
 ---
 
