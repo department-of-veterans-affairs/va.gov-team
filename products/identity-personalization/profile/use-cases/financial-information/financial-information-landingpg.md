@@ -10,11 +10,11 @@ Last updated: December 2025
 
 [Experience](#experience)
 
-# Overview {#overview}
+# Overview
 
 **Financial information** is a sub page in profile that encompasses all the users financial tasks, such as direct deposit, payments, and debts.
 
-# Experience {#experience}
+# Experience 
 
 * The **Financial information** page includes links to the **Direct deposit information** page in profile.  
   * Links to **Payment history** and **Overpayments and copay bills** also exist on the page and link the user to their respective tools not in the profile.  
