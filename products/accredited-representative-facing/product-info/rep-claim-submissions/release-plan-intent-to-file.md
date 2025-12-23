@@ -4,7 +4,6 @@ Feature Toggle/flag:
 `accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release.
 
 ### Preparation
-- [ ] All "launch blocking" items from Architecture Intent has been addressed - We are approved to skip Staging Review for this release [Ticket confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126226#issuecomment-3613894627)
 - [ ] Contact Center Review has been submitted
 - [ ] The following user flows have been tested
    - Successful ITF submission
