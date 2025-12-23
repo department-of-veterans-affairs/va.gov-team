@@ -1,4 +1,4 @@
-# Product Outline: Chatbot - Claims & Appeals RAG 
+# Initiative Brief: Chatbot - Claims & Appeals RAG 
 ---
 ## Overview
 
