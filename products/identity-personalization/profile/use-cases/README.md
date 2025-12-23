@@ -9,6 +9,7 @@ UPDATED for Profile 2.0
    - [Blocked users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
    - [LOA1 users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - [Profile hub use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/use-cases/profile-hub)
+- [Financial information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/financial-information/financial-information-landingpg.md)
 - [Health care settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/health-care-settings-landingpg.md)
    - NOT IN PRODUCTION [Health care contacts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-health-care-contacts/use-cases/README.md)
    - [Messages signature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/messages-signature.md)
