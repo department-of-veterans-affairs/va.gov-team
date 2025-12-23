@@ -44,7 +44,7 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
    - You should see a success message if the claim is accepted.
 
 5. **Final Notification**
-   - Later, a follow-up text will confirm if the claim was submitted successfully (may take some time).
+   - Later, a follow-up text will confirm if the claim was submitted successfully (may take a minute).
 
 ---
 
