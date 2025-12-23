@@ -16,7 +16,7 @@ For OH test users: https://github.com/department-of-veterans-affairs/va.gov-team
 
 ### Prerequisites
 
-- Access to the staging Oracle Health system (often server **B1930**).
+- Access to the staging Oracle Health system (server **B1930**).
 - Phone number you can receive SMS messages on.
 - Patient's **last name** and **date of birth**.
 
