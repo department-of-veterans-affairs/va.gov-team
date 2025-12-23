@@ -324,6 +324,56 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
 ```
 - `appointmentId`: Unique identifier for the newly created appointment.
 
+**Response (Missing topics):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_topics",
+      "detail": "Topics are required"
+    }
+  ]
+}
+```
+
+**Response (Missing start time):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_start_time",
+      "detail": "Start time is required"
+    }
+  ]
+}
+```
+
+**Response (Missing end time):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_end_time",
+      "detail": "End time is required"
+    }
+  ]
+}
+```
+
+**Response (Appointment save failed):**
+```json
+{
+  "errors": [
+    {
+      "code": "appointment_save_failed",
+      "detail": "Failed to save appointment"
+    }
+  ]
+}
+```
+
+
+
 ### GET /vass/v0/appointment/{appointmentId}
 
 Retrieves details of a specific appointment by its unique identifier. Requires a Bearer Token received after authentication.
@@ -380,6 +430,33 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 - `appointmentId`: The unique identifier of the cancelled appointment.
 
 ---
+
+### External Service Errors
+
+**Response (Bad Gateway):**
+```json
+{
+  "errors": [
+    {
+      "code": "vass_api_error",
+      "detail": "Unable to connect to scheduling service"
+    }
+  ]
+}
+```
+
+**Response (Service Unavailable):**
+```json
+{
+  "errors": [
+    {
+      "code": "service_error",
+      "detail": "Service temporarily unavailable"
+    }
+  ]
+}
+```
+
 
 ## Security Considerations
 
