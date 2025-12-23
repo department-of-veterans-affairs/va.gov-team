@@ -5,32 +5,32 @@ Feature Toggle/flag:
 
 ### Preparation
 - [ ] All "launch blocking" items from Architecture Intent has been addressed - We are approved to skip Staging Review for this release [Ticket confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126226#issuecomment-3613894627)
-- [] Contact Center Review has been submitted
-- [] The following user flows have been tested
-   - [] Successful ITF submission
+- [ ] Contact Center Review has been submitted
+- [ ] The following user flows have been tested
+   - Successful ITF submission
    -    [ ] Veteran pathway
    -    [ ] non-Veteran pathway
-   - [] Various ITF statuses
+   -  Various ITF statuses
    -    [ ] User does not have POA for the claimant
    -    [ ] Existing ITF is found
    -    [ ] Can't check ITF status
-   - [] Failed Submission
+   - [ ] Failed Submission
 
 Any other issues or requirements that should be addressed prior to rollout?
 
 ### Go/No Go meeting pending
 Asynchronous Go/No Go
 
-- [] review the release plan with your team.
-- [] review the plan with your OCTO representative.
+- [ ] review the release plan with your team.
+- [ ] review the plan with your OCTO representative.
 
 **Verdict:**
 
 ## Release Details (Pending in January)
 
-- [] Enable in Production to 100% of users
-- [] Confirm the release to Production, with a test user
-- [] Communicate release to ARP pilot users via Teams/Email
+- [ ] Enable in Production to 100% of users
+- [ ] Confirm the release to Production, with a test user
+- [ ] Communicate release to ARP pilot users via Teams/Email
 
 ***
 
