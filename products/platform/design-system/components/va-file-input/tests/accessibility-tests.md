@@ -1,20 +1,32 @@
 # va-file-input — Accessibility Tests
 
+## 🎯 Purpose
+
+This document defines **expected accessibility behavior** for the `va-file-input` component and records **known assistive technology (AT) differences** observed during testing.
+
+It is intended to:
+- Guide component development and review
+- Support consistent accessibility testing
+- Distinguish **product defects** from **AT/browser quirks**
+- Document “good enough” decisions to avoid regressions and rework
+
+This is a **living document** and should be updated as behavior, browsers, or ATs change.
+
+
 ## 🧭 Component Overview
-**Description:**  
-The `va-file-input` component allows users to upload one or more files through a browser interface. After upload, the UI updates to display:  
-- The file name  
-- The file size  
-- Any applicable error messages  
-- A **Change** button  
-- A **Delete** button
-- Future iterations
-   - A **Password** input (optional)
-   - An additional field input (optional) 
 
-The component may be marked as *required* or *optional*, depending on the form context.
+### Description:
+The `va-file-input` component allows users to upload a single file through a browser interface.
+After upload, the UI updates to display:
+- File name and size
+- Status or error messages
+- **Change** and **Delete** actions
 
-**Primary user tasks:**  
+Future iterations may include:
+- Optional password input
+- Additional related inputs
+
+### Primary user tasks:   
 - Upload a file  
 - Replace a file  
 - Delete a file  
@@ -29,29 +41,7 @@ The component may be marked as *required* or *optional*, depending on the form c
 
 ---
 
-## 📚 Related Standards & References
-
-### WCAG 2.2 Success Criteria
-- **1.3.1 Info and Relationships**  
-- **1.3.5 Identify Input Purpose**  
-- **2.1.1 Keyboard**  
-- **2.1.2 No Keyboard Trap**  
-- **2.4.3 Focus Order**  
-- **2.4.7 Focus Visible**  
-- **3.2.2 On Input**  
-- **3.3.1 Error Identification**  
-- **3.3.3 Error Suggestion**  
-- **4.1.2 Name, Role, Value**  
-- **4.1.3 Status Messages**
-
-### Additional references
-- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/error-states.md  )
-- [Design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/design-decisions-log.md)
-- [Architecture & properties](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/architecture-properties.md)
-
----
-
-## 📦 Assistive Technology + Browser Matrix
+## 📦 Supported Testing Environments
 
 ### Screen readers  
 - JAWS + Chrome
@@ -90,6 +80,37 @@ The component may be marked as *required* or *optional*, depending on the form c
 - TalkBack (Android Chrome)
 
 ---
+## ✅ Accessibility Requirements (Summary)
+
+Across all supported environments, the following outcomes must be true:
+
+- Users can complete file upload, replacement, and deletion using a keyboard
+- Focus remains logical and recoverable after state changes
+- Errors are announced when they occur and describe how to fix the issue
+- Status changes (upload success, deletion) are announced
+- Users can determine the current state of the component (empty, success, error)
+
+Differences in **announcement order**, **verbosity**, or **browser chrome announcements** do not constitute failures if these outcomes are met.
+
+### WCAG 2.2 Success Criteria
+- **1.3.1 Info and Relationships**  
+- **1.3.5 Identify Input Purpose**  
+- **2.1.1 Keyboard**  
+- **2.1.2 No Keyboard Trap**  
+- **2.4.3 Focus Order**  
+- **2.4.7 Focus Visible**  
+- **3.2.2 On Input**  
+- **3.3.1 Error Identification**  
+- **3.3.3 Error Suggestion**  
+- **4.1.2 Name, Role, Value**  
+- **4.1.3 Status Messages**
+
+### Additional references
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/error-states.md  )
+- [Design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/design-decisions-log.md)
+- [Architecture & properties](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/components/va-file-input/architecture-properties.md)
+
+---
 
 ## 🧪 Test Scenarios - Last Test 12/19/25
 
@@ -124,20 +145,26 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
 - And the post-upload UI is announced by screen readers "Selected files" and File name.  
 - And no unexpected page-level focus shifts occur.
 
+
+#### Acceptance criteria
+- 🟢 After selecting a valid file, the UI updates to the success state and the selected file name is announced at some point (immediately or when the user tabs into the component).
+- 🟡 The browser/AT may announce browser chrome or page title first, may include “closing dialog,” or may announce “no file selected” briefly, as long as the selected file is eventually conveyed and the user can proceed.
+- 🔴 Focus is lost with no reasonable recovery path (user cannot tab back into the component), or the selected file is never announced/available to confirm, making the outcome ambiguous.
+
 #### Actual behavior
 
 **Screen readers**
 
 **1. Chrome + VO**   
-  - ✅ **When using the link:** VO Announces: "Closing dialog. You have selected the file: VBA-21P-601-ARE.pdf.: VBA-21P-601-ARE.pdf button" **Note:** Closing dialog is referring to the dialog of the file picker.    
-  - 🟡 ✅ **When dragging the file:** Mixed results
+  - 🟢 **When using the link:** VO Announces: "Closing dialog. You have selected the file: VBA-21P-601-ARE.pdf.: VBA-21P-601-ARE.pdf button" **Note:** Closing dialog is referring to the dialog of the file picker.    
+  - 🟡 🟢 **When dragging the file:** Mixed results
       - 🟡 Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window uswds-va-file-input--default web content." It is not announcing anything about selected file but the next tab takes you into the component and announces the selected file on the change file button.
-      - ✅ Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window You have selected the file: safari-file-input-121725.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. button has keyboard focus"
+      - 🟢 Sometimes it announces "Chrome uswds-va-file-input--default - Google Chrome - Jeana (Ad Hoc) window You have selected the file: safari-file-input-121725.mp4. Select a file to upload. Drag a file here or choose from folder: No file chosen You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. button has keyboard focus"
 
 **2. Safari + VO:**   
   - 🟡 **When using the link - with keyboard:**, "Closing dialog no action available file upload button" But the next tab takes you into the component, and announces the selected file on the change file button
-  - ✅ **When using the link - with mouse:**, VO Announces, "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow".
-  - ✅ **When dragging the file:** Focus does not immediately move back to the browser after dragging a file, even though the UI is updating and the file seems to be uploading. This is expected. When the user changes focus back to the browser the `<title>` is announced, followed by "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow."
+  - 🟢 **When using the link - with mouse:**, VO Announces, "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow".
+  - 🟢 **When dragging the file:** Focus does not immediately move back to the browser after dragging a file, even though the UI is updating and the file seems to be uploading. This is expected. When the user changes focus back to the browser the `<title>` is announced, followed by "You have selected the file: mid-form.png. You are currently on a file upload button, inside of web content. To click this button, press Control-Option-Space. To exit this web area, press Control-Option-Shift-Up Arrow."
 
 
 **3. Safari + iOS + VO:**   
@@ -149,17 +176,17 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
   - **When dragging the file:** Not applicable in this test case
 
 **5. Firefox + JAWS:**
-  - ✅ **When using the link:** Announces "You have selected a file filename.extesion. Select a file to upload. Drag a file here or choose from folder browse. No file selected. Button. You can upload a pdf, gif, jpb. bmp or txt file."   (The announcement of "No file selected" is expected)
+  - 🟢 **When using the link:** Announces "You have selected a file filename.extesion. Select a file to upload. Drag a file here or choose from folder browse. No file selected. Button. You can upload a pdf, gif, jpb. bmp or txt file."   (The announcement of "No file selected" is expected)
   - **When dragging the file:** Announces: "You have selected the file: jaws2409-radio-relationship.mp4. Select a file to upload. Drag a file here or choose from folder Browse… No file selected. Button. You can upload a .pdf, .gif, .jpg, .bmp, or .txt file. To activate press Enter."   
       - Sometimes it will announce the page `<title>` first.
 
 **6. Firefox + NVDA:**
-  - ✅ **When using the link:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)
-  - ✅ **When dragging the file:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)  
+  - 🟢 **When using the link:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)
+  - 🟢 **When dragging the file:** NVDA Announces "You have selected the file: fileename.extension." (This is sometimes duplicated)  
     
 **7. Edge + JAWS:**
-  - ✅ **When using the link:** After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" Button. To activate press enter." The next tab does go to the change file button. 
-  - ✅ **When dragging the file:** When dragging a file over, focus shifts to the browser. The page `<title>` is announced (several times). Eventually it does announce "Selected files: filename.extenstion". When I press tab the next item to receive focus is the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
+  - 🟢 **When using the link:** After the UI indicates a change, JAWS begins announcing the `<title>` of the page, and eventually announces "You have selected files filename.extension" Button. To activate press enter." The next tab does go to the change file button. 
+  - 🟢 **When dragging the file:** When dragging a file over, focus shifts to the browser. The page `<title>` is announced (several times). Eventually it does announce "Selected files: filename.extenstion". When I press tab the next item to receive focus is the change file button. This is expected behavior because the screen reader detected a change out of the browser, and announces `<title>` to signal to the user it is back in the browser window.
 
 **8. Edge + NVDA:**
 - 🟡 **When using the link:** Announces, "Select a file to upload: Drag a file here or choose from folder: No file chosen. You have selected the file: Filename ext."
@@ -168,8 +195,8 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
   - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced 
 
 **9. Chrome + JAWS:**
-- ✅ **When using the link:** Announces, "You have selected the file: filename.extension. Button"
-- ✅ **When dragging the file:** Announces, "You have selected the file: filename.extension. Button"
+- 🟢 **When using the link:** Announces, "You have selected the file: filename.extension. Button"
+- 🟢 **When dragging the file:** Announces, "You have selected the file: filename.extension. Button"
   - In both Chrome + JAWS cases, it may read the browser `<title>` first before announcing the selection 
 
 **10. Chrome + NVDA:**
@@ -179,8 +206,8 @@ Navigate to a form page containing a single `va-file-input`. [Using storybook fo
   - It's not ideal for it to announce that no file is chosen.  But the next tab takes the user to the change file button and the selected file is announced 
 
 **11. Chrome + Talkback (Android)**
-- ✅ **When using the link:** Announces "You have **selected** the file.extension."
-- ✅ **When dragging the file:**  N/A can't drag on android
+- 🟢 **When using the link:** Announces "You have **selected** the file.extension."
+- 🟢 **When dragging the file:**  N/A can't drag on android
 
 
 **Magnifcation & Zoom**
@@ -217,6 +244,11 @@ Navigate to a `va-file-input` configured with a file-type whitelist (e.g., PDF o
 - And an error message appears in the UI.  
 - And screen readers announce the error message when it appears.  
 - And focus is on the "Change file" button.
+
+#### Acceptance criteria
+- 🟢 When an invalid file type is provided (usually via drag/drop), an error message appears and is announced, and the user is able to reach the Change file action to correct the issue.
+- 🟡 Announcement phrasing/order may vary; it’s acceptable if the user must return focus to the browser window before the error is announced, as long as the error is announced once focus returns and the correction path is clear.
+- 🔴 The invalid file error is not announced at all, or the user cannot locate a clear corrective action (e.g., Change file), resulting in a blocked or confusing dead end.
 
 #### Actual behavior:
 
@@ -292,7 +324,12 @@ Component configured with a max file size (e.g., 25 MB). Using this [storybook s
 - Then the file is not uploaded.  
 - And the error message appears (e.g., “We can't upload your file because it's too big.”).  
 - And the instructions suggest correct use (“Files must be less than 1 KB.”).
-- On display, the error message is announced to screen readers. 
+- On display, the error message is announced to screen readers.
+
+#### Acceptance criteria
+- 🟢 For an oversized/undersized file, the component displays an error state and announces an error that includes what went wrong and what constraint to meet (e.g., “must be less than…”).
+- 🟡 AT may announce page title/browser context first, may be verbose, or may include additional unrelated announcements, as long as the error + next step are ultimately announced and actionable.
+- 🔴 The user receives no announced error (or cannot understand the constraint), or the component does not present a usable path to correct the file.
 
 #### Actual behavior:
 
@@ -365,7 +402,12 @@ A file has already been uploaded.
 - And the user tabs to the delete button to confirm the deletion
 - And the user is returned to the empty/upload state.  
 - And screen readers announce the change “File deleted, no file selected”  
-- And focus moves to the next logical interactive element  
+- And focus moves to the next logical interactive element
+
+#### Acceptance criteria
+- 🟢 Deleting a file results in the component returning to the empty/upload state and a status message is announced (e.g., “File deleted” / “No file selected”), and the user can continue by tabbing to the next logical control (often the upload control).
+- 🟡 Focus may land on the browser window or the next focusable element, and announcement order may vary, as long as deletion is announced and the user can reliably re-enter the component via normal tabbing.
+- 🔴 After confirming deletion, focus is lost such that the user cannot re-enter the component, or deletion is not communicated, leaving the user unsure whether the action succeeded.
 
 #### Actual behavior:
 
@@ -419,6 +461,11 @@ The file-upload field is marked as required.
 - And screen readers announce the message.  
 - And focus is placed on the file input.  
 
+#### Acceptance criteria
+- 🟢 Attempting to continue without uploading (when required) presents an error message that is announced, clearly indicates the missing requirement, and is programmatically associated with the file input (so the user can perceive and resolve it).
+- 🟡 Focus placement may vary (file input, page error summary, or first error), as long as the user is clearly informed what to do and can navigate to the file input without hunting.
+- 🔴 The user is blocked from progressing but receives no announced explanation of what’s wrong or how to fix it, or focus moves somewhere that makes the error hard to discover.
+
 #### Actual behavior:
 
 > [!NOTE]
@@ -461,6 +508,11 @@ A valid file is already uploaded.
 - And screen readers announce the new file name.  
 - And focus behavior is consistent with initial upload.
 
+#### Acceptance criteria
+- 🟢 Replacing a file updates the UI to the new file and the new file name is announced at some point, and the Change/Delete actions reflect the new file.
+- 🟡 AT may announce additional context first (title, browser chrome), may duplicate announcements, or may require tabbing back into the component for the updated file to be spoken, as long as the new file is ultimately conveyed and the UI is consistent.
+- 🔴 The replacement occurs visually but is not conveyed to AT, or the old file remains announced/represented, creating uncertainty about which file is currently selected.
+
 #### Actual behavior:
 
 **Screen readers**
@@ -490,13 +542,21 @@ A valid file is already uploaded.
 
 ---
 
-## 🧩 Edge Cases
-- Very fast uploads not announcing changes properly  
-- Very slow uploads requiring status messaging (“Uploading…”)  
+## 🟡 Known AT Differences & “Good Enough” Decisions
+
+The following behaviors differ across AT/browser combinations but are considered acceptable
+because users can still complete the task and understand the component state.
+
+- Safari + VoiceOver may announce “No file selected” even after a successful upload
+- Some screen readers announce the page `<title>` after file selection
+- Mouse vs keyboard interaction may produce different announcement timing
+- Firefox + JAWS may announce browser chrome before component updates
+
+These behaviors are documented to prevent false positives and regressions.
 
 ---
 
-### 🔎 Findings
+### 🔎 Findings & Regression Tracking
 
 #### December 14 Testing summary
 Error states worked out well, but we needed to check for regressions on the success state.
