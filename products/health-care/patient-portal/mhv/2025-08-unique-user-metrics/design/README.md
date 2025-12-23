@@ -397,29 +397,69 @@ The `queue_depth` gauge is emitted every job run to detect when processing can't
 
 ### Failure Handling
 
-**What happens if the Sidekiq job fails mid-batch?**
+**Peek-then-Trim Pattern (Safe Processing)**
 
-Events are popped from the Redis buffer (`RPOP`) before processing begins. If the job fails after popping but before completing the database insert, those events are lost — they are not re-queued.
+To minimize event loss, the processor uses a **peek-then-trim** pattern instead of destructive pops:
 
-**Why no dead-letter queue or re-queue mechanism?**
+```ruby
+# 1. PEEK: Read events without removing them
+events = redis.lrange('uum:pending_events', -batch_size, -1)
 
-We intentionally chose simplicity over guaranteed delivery:
+# 2. PROCESS: Insert to database, update cache, emit metrics
+process_events(events)
 
-1. **Non-critical data**: These are analytics metrics, not transactional data. Losing a small percentage of events does not materially affect aggregate counts.
-2. **Sidekiq retries**: The job is configured with 3 retries. If the failure is transient (e.g., brief DB unavailability), subsequent job runs will succeed for new events.
-3. **Complexity trade-off**: Implementing a dead-letter queue or atomic pop-and-process would add significant complexity (e.g., Lua scripts, two-phase commit) for minimal benefit.
-4. **Self-healing**: Users who lost events will simply trigger new events on their next session, which will be recorded normally.
+# 3. TRIM: Only remove events after successful processing
+redis.ltrim('uum:pending_events', 0, -(events.count + 1))
+```
+
+**Why this is safer:**
+- Events remain in Redis until processing succeeds
+- If the job fails mid-processing, events are still in the list
+- Next job run will re-process the same events (idempotent due to `unique_by` constraint)
+- Only successful completion removes events from the buffer
+
+**Trade-off**: Potential for duplicate processing if job fails after DB insert but before trim. This is acceptable because:
+- Database `insert_all` with `unique_by: [:user_id, :event_name]` is idempotent
+- StatsD increments may double-count on retry, but this is rare and acceptable for analytics
+
+**Failure Tracking & Alerting**
+
+All job failures are tracked with metrics and logging:
+
+| Metric | Type | Description | Alert Threshold |
+|--------|------|-------------|-----------------|
+| `uum.processor_job.failure` | Increment | Fires when job fails (tagged by error class) | Any increment |
+| `uum.processor_job.events_at_risk` | Gauge | Number of events in batch when failure occurred | N/A (diagnostic) |
+
+**Failure Logging:**
+```ruby
+# On any job failure, log details for investigation
+Rails.logger.error(
+  'UniqueUserMetricsProcessorJob failed',
+  error: exception.class.name,
+  message: exception.message,
+  events_at_risk: batch_size,
+  queue_depth: remaining_events
+)
+```
+
+**DataDog Alerts:**
+- **Job Failure Alert**: If `uum.processor_job.failure` increments → Immediate PagerDuty notification
+- **Sustained Failures**: If 3+ failures in 30 minutes → Escalate to on-call engineer
 
 **Failure scenarios and impact:**
 
 | Scenario | Events Lost | Mitigation |
 |----------|-------------|------------|
-| Job fails after RPOP, before DB insert | Up to one batch (e.g. 500) | Sidekiq retry won't recover these; next batch proceeds normally |
-| Redis crashes | All buffered events | Redis persistence (RDB/AOF) minimizes window; acceptable for analytics |
-| Database unavailable | Current batch | Sidekiq retries; new events continue buffering |
-| Sidekiq worker crashes | Current batch | Same as job failure |
+| Job fails before DB insert | **None** | Peek-then-trim pattern; events remain in buffer for retry |
+| Job fails after DB insert, before trim | **None** | Events re-processed on retry; DB insert is idempotent |
+| Redis crashes | All buffered events | Redis persistence (RDB/AOF) minimizes window; `uum.processor_job.failure` metric fires |
+| Database unavailable | **None** | Job fails, events remain in buffer; Sidekiq retries |
+| Sidekiq worker crashes mid-trim | Partial batch | Rare edge case; some events may be lost or duplicated |
 
-**Acceptable risk**: Given peak volume of ~240 events/min, a single failed batch (500 events) represents ~2 minutes of data — a negligible impact on monthly unique user counts.
+**With 10-minute intervals**: At peak (~240 events/min), the buffer may contain ~2,400 events. The peek-then-trim pattern ensures these events survive most failure scenarios. Only catastrophic Redis failure or the rare trim-interrupt edge case can cause data loss.
+
+**Acceptable risk**: The combination of peek-then-trim, idempotent processing, and failure alerting reduces event loss to edge cases representing < 0.1% of total events — negligible impact on monthly unique user counts.
 
 ### Alternative Storage Considerations: S3 Migration
 
