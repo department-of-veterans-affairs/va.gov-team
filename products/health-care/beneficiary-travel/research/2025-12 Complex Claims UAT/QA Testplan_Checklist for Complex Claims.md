@@ -1,6 +1,6 @@
 # Quality Assurance (QA) Test Plan for Complex Claims 
 
-# **Introduction**
+### **Introduction**
 
 This document serves as a guideline geared towards QA testing for the Complex Claims features that will be implemented and going through the Staging Review process
 
@@ -31,8 +31,6 @@ Verify features are working as intended as well as perform regression testing an
 * System errors
 
 ### **Out of Scope**
-
-TBD
 
 * Appointments that are ineligible for travel pay (e.g. virtual appointments and community care appointments)  
 * Direct Deposit set up cases
@@ -110,9 +108,6 @@ The user wants a table with 3 columns and an unspecified number of rows to be in
 * This testing will be based on the functionality meeting acceptance criteria for the development tickets associated with this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126761)  
 * This testing will also look to validate the [Complex Claims Figma Designs](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=9065-51243&t=3Fk8LgLajWLH38cX-1)  as documented from a workflow user perspective
 
-**Api Testing**
-
-* API testing may be conducted to check endpoints of the new Travel Pay complex claims functionality. This may not be the main approach but it may contribute to uncover issues for endpoints and the responses within an API testing tool such as Postman, Insomnia etcc…(Not sure if this is included or needed for staging review)
 
 **Accessibility testing**
 
@@ -153,11 +148,6 @@ Intro Page
 - [ ] Change "Travel pay" from "General health" in Step 3  
 - [ ] Confirm that all links work. The only link that should open in a new tab is the BTSSS link. 
 
-Confirmation Page
-
-- [ ] Action link "Review" instead of "View"  
-- [ ] Direct deposit link: “travel pay” instead of “travel reimbursement”  
-- [ ] 
 
 [Integration: Intro \#122763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122763)
 
@@ -376,10 +366,13 @@ Estimated expenses are calculated correctly
       - [ ] “Print this page for your records” button  
       - [ ] “Submitted expenses” accordions opens and displays all expenses as created by the user  
       - [ ] What happens next section  
-            - [ ] Ensure all links work  
-- [ ] Unit tests created & pass  
-- [ ] Cypress tests created and pass  
-- [ ] Testing plan (rough draft created)
+            - [ ] Ensure all links work
+   
+
+- [ ] Action link "Review" instead of "View"  
+- [ ] Direct deposit link: “travel pay” instead of “travel reimbursement”  
+
+
 
 Need help/footer
 
