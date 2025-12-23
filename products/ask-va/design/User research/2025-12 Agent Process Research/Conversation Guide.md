@@ -11,7 +11,13 @@
 ### 5-15 minutes before the session
 
 - [ ] Start a thread in slack with observers  
-- [ ] Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to observers \- **reminder folks to keep titles generic**  
+- [ ] Send out the observer instructions to observers
+   1. You may change your video conference display name to be just your first or preferred name. We encourage you **not** to change your name to “observer.”
+   2. Sign into the session with your microphone muted.
+   3. If you aren’t admitted directly: - Wait in the Zoom waiting room while the moderator begins the session - If the participant approves your presence, as in the majority of cases, the moderator will soon admit observers into the session - If there are issues, the moderator should be in contact via slack
+   4. At the moderator’s prompt, unmute your camera and microphone and briefly introduce yourself with: - Your first or preferred name - **"VA.gov team member" \- Please keep titles generic**
+   5. When that’s done: - Mute your microphone - Turn off your camera
+   6. Confine all messaging to the backchannel thread in Slack for the session: - Don’t message within the video conference app - Don’t expect the moderator to interact with you
 - [ ] Ensure Teams is setup correctly:  
    - [ ] Keep all participants in Lobby  
    - [ ] Don’t notify when someone’s joined the meeting  
