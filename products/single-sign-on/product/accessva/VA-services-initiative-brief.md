@@ -119,14 +119,16 @@
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+
 In discussion with Amos, we feel a [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) isn't needed. 
 - Does the feature you are working on moderately or significantly affect the Veteran experience of the product?
-  - The new "VA services" page works just like AccessVA: identity your grouping, open the accordion, access the desired application via unique link, sign-in
+  - The new "VA services" page works just like AccessVA: identify your grouping, open the accordion, access the desired application via unique link, sign-in.
 - Does the feature you are working on change the structure of the underlying data?
   - No
 - Does the feature's backend or downstream interactions change?
   - No
 - Is this a brand new experience for a Veteran?
+  - No, the core experience is very similar to what AccessVA does today.
 
 #### Initiative Launch Dates
 - *Target Launch Date*
