@@ -271,20 +271,31 @@ The system uses configurable settings in `config/settings.yml`:
 ```yaml
 unique_user_metrics:
   processor_job:
-    # Configurable batch size (tune based on load)
+    # Events processed per iteration (tune based on DB write performance)
     batch_size: <%= ENV['unique_user_metrics__processor_job__batch_size'] || 500 %>
     
-    # Maximum queue depth before alerting
+    # Maximum iterations per job run (safeguard against runaway execution)
+    # 20 iterations × 500 batch = 10,000 events max per job
+    max_iterations: <%= ENV['unique_user_metrics__processor_job__max_iterations'] || 20 %>
+    
+    # Maximum job duration in seconds (safeguard to prevent worker monopolization)
+    max_job_duration_seconds: <%= ENV['unique_user_metrics__processor_job__max_job_duration_seconds'] || 60 %>
+    
+    # Maximum queue depth before alerting (buffer backup detection)
     max_queue_depth: <%= ENV['unique_user_metrics__processor_job__max_queue_depth'] || 10000 %>
 ```
 
 **AWS Parameter Store Configuration:**
-- Values for `batch_size` and `max_queue_depth` are managed via AWS Parameter Store
+- All values are managed via AWS Parameter Store environment variables
 - Allows rapid tuning of performance parameters without code deployment
 - Defaults provided as fallbacks if Parameter Store values unavailable
+- All values are validated at class load time to be positive integers
 
 **Tuning Parameters:**
-- **batch_size**: Start at 500, increase to 1000 if queue depth grows
+- **batch_size** (default: 500): Events per iteration. Increase to 1000 if queue depth grows.
+- **max_iterations** (default: 20): Safeguard to cap events per job run (20 × 500 = 10,000 max). Handles 4x peak load.
+- **max_job_duration_seconds** (default: 60): Time limit to prevent worker monopolization. Typical job completes in ~20 seconds.
+- **max_queue_depth** (default: 10,000): Alert threshold for buffer backup detection.
 - **Job frequency**: Fixed at every 60 seconds via Sidekiq Enterprise periodic jobs (hardcoded in `lib/periodic_jobs.rb`)
 
 ### Implementation Components
@@ -297,30 +308,58 @@ unique_user_metrics:
 - Return immediately without blocking
 - Handle Oracle Health site-specific event generation
 
-#### 2. Sidekiq Processor Job (`app/sidekiq/unique_user_metrics_processor_job.rb`)
+#### 2. Sidekiq Processor Job (`app/sidekiq/mhv/unique_user_metrics_processor_job.rb`)
 
 **Responsibilities:**
 - Run every 60 seconds via Sidekiq Enterprise periodic jobs
-- Pop batch of events from Redis list
+- **Loop until queue is empty** (with configurable safeguards)
+- Pop batch of events from Redis list per iteration
 - Deduplicate within batch (in-memory)
 - Batch-check Redis cache (read_multi)
 - Bulk insert to database (insert_all)
 - Batch-mark Redis cache (write_multi)
 - Emit StatsD metrics
 
-**Processing Flow:**
-1. **Pop batch**: `RPOP uum:pending_events 500` (atomic)
-2. **In-memory dedup**: Use `Set` to remove duplicates within batch
+**Looping Architecture:**
+
+The job processes events in a loop until the queue is empty or safeguard limits are reached:
+
+```ruby
+loop do
+  break if iterations >= MAX_ITERATIONS           # Default: 20
+  break if Time.current - start_time > MAX_JOB_DURATION_SECONDS  # Default: 60s
+  
+  events = peek_events_from_buffer(BATCH_SIZE)    # Default: 500
+  break if events.empty?
+  
+  process_events(events)
+  trim_processed_events(events.size)
+  
+  iterations += 1
+end
+```
+
+**Why looping?**
+- **Faster queue drain**: With 10-min job intervals and 2,400 peak events, a single-batch approach would leave 1,900 events waiting 10+ minutes
+- **Smaller DB writes**: 500 events per INSERT instead of 2,400+ (reduces transaction size and lock contention)
+- **Configurable limits**: Safeguards prevent runaway execution while allowing growth headroom
+
+**Processing Flow (per iteration):**
+1. **Peek batch**: `LRANGE uum:pending_events -500 -1` (non-destructive)
+2. **In-memory dedup**: Use `uniq` to remove duplicates within batch
 3. **Cache check**: `Rails.cache.read_multi(keys)` - batch check existing events
 4. **Filter uncached**: Remove events already in cache
 5. **Bulk insert**: `insert_all(..., unique_by: [:user_id, :event_name], returning: true)`
 6. **Cache new events**: `Rails.cache.write_multi(...)` - mark newly inserted
 7. **Increment StatsD**: Only for rows actually inserted (new events)
+8. **Trim batch**: `LTRIM uum:pending_events 0 -(count+1)` (remove processed events)
+9. **Repeat** until queue empty or safeguard limit reached
 
 **Performance Optimization:**
 - Redis pipelining via `read_multi`/`write_multi` reduces round-trips from 500 to 1
 - Database `insert_all` with `ON CONFLICT DO NOTHING` handles DB-level deduplication
 - In-memory dedup reduces unnecessary cache/DB operations
+- Looping drains queue in a single job run (typically 5-10 iterations at peak)
 
 #### 3. Monitoring & Alerting
 
@@ -328,12 +367,13 @@ unique_user_metrics:
 
 | Metric | Type | Description | Alert Threshold |
 |--------|------|-------------|-----------------|
+| `uum.processor_job.iterations` | Gauge | Number of batch iterations completed this job run | N/A (informational) |
+| `uum.processor_job.total_events_processed` | Gauge | Total events processed across all iterations | N/A (informational) |
 | `uum.processor_job.queue_depth` | Gauge | Events remaining in Redis buffer after processing | > 10,000 for 5 min |
 | `uum.processor_job.queue_overflow` | Increment | Fires when queue depth exceeds threshold | Any increment |
-| `uum.processor_job.batch_size` | Gauge | Events popped from buffer this batch | N/A (informational) |
-| `uum.processor_job.inserted_count` | Gauge | New events inserted to DB | N/A (informational) |
-| `uum.processor_job.cache_hits` | Gauge | Events filtered by cache (already recorded) | N/A (informational) |
-| `uum.processor_job.duration_ms` | Histogram | Total batch processing time (ms) | > 5000ms |
+| `uum.processor_job.job_duration_ms` | Histogram | Total job processing time across all iterations (ms) | > 30000ms |
+| `uum.processor_job.failure` | Increment | Job failure (tagged by error class) | Any increment |
+| `uum.processor_job.events_at_risk` | Gauge | Events remaining in buffer when job failed | N/A (diagnostic) |
 | `uum.unique_user_metrics.event` | Increment | Counter for new unique events (tagged by event_name) | N/A (analytics) |
 
 **Buffer Backup Detection:**
@@ -389,7 +429,7 @@ The `queue_depth` gauge is emitted every job run to detect when processing can't
 - ✅ **Horizontal scalability**: Can handle 10x traffic growth without infrastructure changes
 
 **Trade-offs:**
-- ⚠️ **Metric delay**: Up to 60-second delay before metrics appear in DataDog (acceptable for analytics use case)
+- ⚠️ **Metric delay**: Delay before metrics appear in DataDog (acceptable for analytics use case)
 - ⚠️ **Redis memory**: Additional ~50KB per 500 events buffered (minimal compared to database savings)
 - ⚠️ **Monitoring overhead**: New component to monitor (Redis list queue depth)
 - ⚠️ **System complexity**: Two-phase system (buffer + processor) vs single-phase synchronous approach
