@@ -7,7 +7,7 @@
 
 Per [IA Design for Onramp: Entry Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/benefits-portfolio/onramp-decision-review-disability-options.md#entry-points-):
 
-**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. Updates that will be done by the Content and IA team, as noted below, should be requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). Two weeks of advanced knowledge is preferred when possible. Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
+**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. The Centralized Content and IA team will be adding a link to the entry pages, as noted below, and this needs to requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). **Two weeks of advanced knowledge is preferred when possible.** Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
 
 #### Required entry points
 
