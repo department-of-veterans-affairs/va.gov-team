@@ -1,6 +1,7 @@
 # Initiative Overview: Creating Plain language triage group names 
-There are several artifacts that have been part of this effort.  This is an attempt to capture the current approach after several pivots due to learnings and decisions.  The goal here
-is to have a reference that reflects the current thinking and intention.
+There are several artifacts that have been part of this effort.  This is an attempt to capture the current approach after several pivots due to learnings and decisions.  The goal here is to have a reference that reflects the current thinking and intention.
+
+### Earlier reference documents:
 
 We pivoted to using Oracle Health naming guidelines. [Review our follow-on initiative brief here 
 (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief-phase-2.md). 
