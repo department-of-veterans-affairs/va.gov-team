@@ -102,6 +102,8 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 - Introduce a tool with selectable options that allows MHV Coordinators to build a Care Teams name that adheres to a standardized plain language format (i.e. location, provider/team name, and care type).
 - Utilize the OH format (need link) to better prepare for eventual migration, and minimize the need to update this tool multiple times.
 - Introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process  (need more info on this)
+
+- OH Guidelines [document](https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=507F343853675BE13D895065839D73B7931C164FC2DF9D73%2D9B767031BDF59473D3AAC509A9BD89C4AD3F2824377E9CBF13C213F47404E526&redirect%5Furi=https%3A%2F%2Fdvagov%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=0f39e6a1%2D00dd%2Da000%2Ded6c%2D75873af19e99&sso_reload=true) that we're basing this new format on.
 ---
 ### User stories
 
