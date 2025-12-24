@@ -6,7 +6,7 @@ There are several artifacts that have been part of this effort.  This is an atte
 - Initiative [brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief.md) (original)
 - Pivot to [updated brief (phase 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief-phase-2.md). 
 
-## Desirable Outcomes
+## Goal of this work
 
 *  Increase satisfaction in the Secure Messaging experience and trust in the VA generally through more plain language, patient-friendly, and accessible triage groups names. 
     * Result: Veterans more quickly and confidently identify who to send the message a message tool. 
@@ -52,15 +52,17 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 ## Desired User Outcomes
 - Veterans take less time to select the provider when composing messages. 
 - Veterans report increased confidence in the correct selection. 
-- Veterans have a higher success rate in actually selecting the correct triage group for their use case. 
+- Veterans have a higher success rate in actually selecting the correct triage group for their use case.
+- Veterans use SM at a higher rater instead of turning to phone calls due to frustration.
 
 ## Undesired User Outcomes
 - The new ordering of information in triage group names is not intuitive for Veterans.
 - Adding new information to make selection options becomes overwhelmingly long.
+- List of names is extremely long leading to attention fatigue the lessens rate of user success in locating correct contacts.
 
 ## Desired Business outcomes
 - Clinicians and SM administrators (MHV Coordinators) spend less time re-routing messages. Staff are able to spend more time on higher value tasks, like their direct interactions with patients. Staff are less burdened by activities that lead to burnout.
-- The number of messages that re-routed is reduced. 
+- The number of messages that are re-routed is reduced. 
 
 ## Undesired Business Outcomes
 - We make changes to the names that break the connections with names rendering in SM Clinician tool or with internal data analytics tools that rely on these names (e.g. VSSC Reports).
@@ -93,12 +95,11 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
   - We are starting with small pilot with facilities in VISN 1 (Boston, Connecticut, and Providence) and will scale up from here to convert the backend data into the format we need for the front-end improvements.
 
 
-### What're you building
+### What we're going to build to solve this
 
--  (Outside of VA.gov) Backend API updates and enhancements to SM Administrative Portal tool to standardize data
-- On VA.gov/VAHB, introduce standardized plain language identifiers (i.e. location, provider/team name, and care type) from Select list options so users can quickly and confidently identify the right team to message. 
-- On VA.gov/VAHB, introduce [opt groups tag ](https://www.w3schools.com/TAgs/tag_optgroup.asp#:~:text=The%20%3Coptgroup%3E%20tag%20is%20used%20to%20group%20related,options%20are%20easier%20to%20handle%20for%20a%20user)<optground> to create category labels and group related triage groups by healthcare system in the Select list.
-- On VA.gov/VAHB, introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process
+- Introduce a tool with selectable options that allows MHV Coordinators to build a Care Teams name that adheres to a standardized plain language format (i.e. location, provider/team name, and care type).
+- Utilize the OH format (need link) to better prepare for eventual migration, and minimize the need to update this tool multiple times.
+- Introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process  (need more info on this)
 
 ### User stories
 
