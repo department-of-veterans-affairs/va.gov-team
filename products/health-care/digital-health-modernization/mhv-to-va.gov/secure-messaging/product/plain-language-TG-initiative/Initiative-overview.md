@@ -142,4 +142,6 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 
 
 ### After on VA.gov
-Mockup in Figmat: (add image)
+Mockup in Figma:
+<img width="440" height="710" alt="image" src="https://github.com/user-attachments/assets/4dfb07f1-4ec8-4a3a-b74c-93d1d80aeccd" />
+
