@@ -61,10 +61,9 @@ Per [IA Design for Onramp: Entry Points](https://github.com/department-of-vetera
 
 ### Board/OAR (+ OGC Benefits) approval
 
-- [ ] Determine relative size of userbase for new (edge case?) scenarios
-- [ ] Assess the case for launching with the existing fidelity
-  - [ ] Potentially with "legal diclaimer language"
-  - [ ] Refine success metrics to be tracked post-launch
+- [x] Assess the case for launching with the existing fidelity (likely too risky)
+- [ ] Address logical scenarios raised by board
+- [ ] Enablement team to manage OGC review
 - [ ] Obtain approval for launch
 
 ## Step 1: Development
