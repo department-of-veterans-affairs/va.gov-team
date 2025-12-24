@@ -11,7 +11,24 @@
 
 ## Design Findings
 
-*
+Category: Imposter Components
+
+* Reconsider Preparer qualification checkboxes (#636)→ Open
+
+Category: Content & IA
+
+* Staging and Figma content and steps seem out of sync → Todo
+
+Category: Accessibility
+
+* Focus is lost on the review page when editing items. (#734) → Open
+
+Category: Documentation Debt
+
+* Is story book used for documenting changes outside of the design system? 
+What is the source of truth for product teams to follow? → Open Question
+
+
 
 
 ## Technical Findings and Recommendations for Form 21-0972
@@ -183,8 +200,20 @@ This table prioritizes the technical findings and recommendations based on their
 
 ## Level of Effort
 
-* 
+### Tshirt size estimation
+
+_Teams often start with T-shirt sizes during early planning, then refine into story points later._
+
+- 👕 Small = Design
+- 👕 Small = Content
+- 👕 Medium = Engineering
+
+### Additional notes
+
+N/A
 
 ## Next
 
-* 
+- Write tickets for epic
+- Identify research opportunities
+- Plan roadmap
