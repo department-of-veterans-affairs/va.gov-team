@@ -156,7 +156,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 1. Have you filled out a VA form online before? 
      1. No *(RECRUIT 4 and RECORD as NOT filled out VA form online)*
      2. Yes *(RECRUIT 4 and RECORD as filled out VA form online)*
-     3. Don't know 
+     3. Don't know *(OK to RECRUIT for "No" if having trouble finding others)*
 
 ## Timeline 🗓️
 > [!NOTE]
