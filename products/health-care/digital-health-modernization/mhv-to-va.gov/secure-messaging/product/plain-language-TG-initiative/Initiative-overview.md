@@ -3,35 +3,31 @@ There are several artifacts that have been part of this effort.  This is an atte
 
 ### Earlier reference documents:
 
-We pivoted to using Oracle Health naming guidelines. [Review our follow-on initiative brief here 
-(GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief-phase-2.md). 
+- Initiative [brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief.md) (original)
+- Pivot to [updated brief (phase 2)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/plain-language-TG-initiative/initiative-brief-phase-2.md). 
 
-## Outcome Summary
+## Desirable Outcomes
 
 *  Increase satisfaction in the Secure Messaging experience and trust in the VA generally through more plain language, patient-friendly, and accessible triage groups names. 
     * Result: Veterans more quickly and confidently identify who to send the message a message tool. 
     * Result: Veterans report higher satisfaction with the messaging tool overall.
     * Result (beyond scope of VA.gov analytics): SM Administrators (i.e. MHV Coordinators) spend less time re-routing messages because more patients are selecting the current triage group initially. 
 
-
-
-
-**Associated product**
-- Secure messaging, or Messages, on VA.gov |[ Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
-
 ## Problem
-* Today, the Secure Messaging (SM) tool does not render care team names, referred to as “triage groups”, in plain language for patients despite their central importance in using the tool. 
-* These care team names use a host of internal abbreviations, acronyms, and symbols that are indecipherable to patients, creating significant cognitive load when attempting to parse and decide who to send a message to. For example, a patient will see REN PAC 03 WH with no further explanation or support in translating meaning. 
-* Example of current state:
+* Today, the Secure Messaging (SM) tool does not render care team names, referred to as “triage groups”, in a format that is easily understood or consistent.  Given that this tool is of central importance to patients and clinical staff, this is an experiential and functional gap that we want to address. 
+* Example issues:
+  * These care team names use a host of internal abbreviations, acronyms, and symbols that are indecipherable to patients, creating significant cognitive load when attempting to parse and decide who to send a message to. For example, a patient will see REN PAC 03 WH with no further explanation or support in translating meaning. 
+  * Example of current state:
 ![image](https://github.com/user-attachments/assets/759906a4-fd7b-4d12-8451-d0cf67cbfa6e)
 * This reality undermines the patient experience by creating frustration/confusion and leads to greater admin burden for SM Administrators (MHV Coordinators) who spend more time re-routing messages to the correct group. 
 * On their face, the existing names violate basic plain language and accessibility principles, as outlined in the 21st Century IDEA Act and supporting [2023 policy guidance from the OMB M-23-22 memo](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/) as well as internal VA [guidelines on capitalization](https://design.va.gov/content-style-guide/capitalization) and abbreviations.
-* Qualitative research by the SM team has validated that the current state negatively impacts Veteran satisfaction, creates confusion and frustration, and leads to a loss of trust in the VA.  Researchers also heard from Veterans about task abandonments instances where Veterans are so frustrated they want to give up or rely on the MHV coordinator by phone or caregivers. This is also one of the biggest, recurring themes we hear in user feedback while Secure Messaging exists in a “Try Me” beta state (Phase 1) on [VA.gov](http://va.gov/). See below for sample feedback:
+* Qualitative research by the SM team has validated that the current state negatively impacts Veteran satisfaction, creates confusion and frustration, and leads to a loss of trust in the VA.  Researchers also heard from Veterans about task abandonments instances where Veterans are so frustrated they want to give up or rely on the MHV coordinator by phone or caregivers. This is also one of the biggest recurring themes we hear in user feedback while Secure Messaging exists in a “Try Me” beta state (Phase 1) on [VA.gov](http://va.gov/). See below for sample feedback:
      * The name should be English, not some coding.” 
      * Sometimes, it is confusing because they use these really long codes and names; it’s hard to figure out which one [I need].” 
      * “If it was simpler, I would use [the tool] more.” 
      * I have no idea where to send my message to. It would really be beneficial if somehow a name could be associated or made available within this system as I know my doctors but, to repeat myself, I have no idea which group each belongs to.” 
-* An overview of previous research informing this initiative is below:
+
+### An overview of previous research informing this initiative is below:
 
 Date | Description | Links
 -- | -- | --
