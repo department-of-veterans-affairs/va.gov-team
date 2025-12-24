@@ -93,7 +93,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `4 must use a screen reader every time they access the internet`
-  - `2 of the screen reader users must be willing to use a smartphone for the session`
+  - `At least 2 of the screen reader users must be willing to use a smartphone for the session`
 - `3 must use a screen magnifier every time they access the internet`
 - `5 must NOT use a screen reader or screen magnifier`
 - `At least 5 have a computer and are willing to use it for the session`
