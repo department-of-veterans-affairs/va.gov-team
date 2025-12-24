@@ -92,14 +92,15 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 ### Primary criteria (must-haves) in *decreasing* order of priority
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `3 must use a screen reader every time they access the internet`
+- `4 must use a screen reader every time they access the internet`
+  - `2 of the screen reader users must be willing to use a smartphone for the session`
 - `3 must use a screen magnifier every time they access the internet`
-- `6 must NOT use a screen reader or screen magnifier`
+- `5 must NOT use a screen reader or screen magnifier`
 - `At least 5 have a computer and are willing to use it for the session`
 - `At least 5 have a smartphone and are willing to use it for the session`
 - `At least 4 have a cognitive disability (e.g., TBI)` 
 - `At least 4 have filled out a VA form online before`
-- `At least 4 have NOT filled out a VA form online before`
+- `At least 4 have NOT filled out a VA form online before or don't know`
 - `ALL `
   - `Have Zoom downloaded to their device prior to the session and know how to share their screen` 
   - `Are willing to share over Zoom a web browser window` 
@@ -135,7 +136,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
     - If they say something non-digital like "magnifying glass", *DISQUALIFY* 
-    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 3 and ask next question*
+    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 4 and ask next question*
     - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 3 and ask next question*
     - If they say "increase font size" or "zoom in the browser", ask  what percentage they zoom to. 
       - If 200% or greater, *RECORD as **screen magnifier user**, RECRUIT 3, and ask next question*
@@ -144,7 +145,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using?
 *(RECORD)*
 
-    1. Smartphone  *(RECRUIT 5 and ask next question)*
+    1. Smartphone *(RECRUIT 5 and ask next question. 2 must be screen reader users.)*
     1. Computer *(RECRUIT 5 and ask next question)*
     1. Tablet *(RECRUIT no more than 2, and ask next question)*
 
