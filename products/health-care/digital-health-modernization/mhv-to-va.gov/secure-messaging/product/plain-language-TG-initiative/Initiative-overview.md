@@ -94,13 +94,15 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
   - We are conducting internal VA stakeholder testing with MHV Coordinators on monthly calls where 50-100 Coordinators regularly attend.
   - We are starting with small pilot with facilities in VISN 1 (Boston, Connecticut, and Providence) and will scale up from here to convert the backend data into the format we need for the front-end improvements.
 
+--- 
+## Approach
 
 ### What we're going to build to solve this
 
 - Introduce a tool with selectable options that allows MHV Coordinators to build a Care Teams name that adheres to a standardized plain language format (i.e. location, provider/team name, and care type).
 - Utilize the OH format (need link) to better prepare for eventual migration, and minimize the need to update this tool multiple times.
 - Introduce [combo box component from USWDS](https://designsystem.digital.gov/components/combo-box/) to combine select with typehead to make improved names even quicker to find. Note: this is a new component that needs to be introduced with VADS team to jumpstart that process  (need more info on this)
-
+---
 ### User stories
 
 #### Admin user
