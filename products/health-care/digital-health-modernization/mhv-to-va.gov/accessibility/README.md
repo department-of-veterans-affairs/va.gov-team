@@ -6,6 +6,7 @@ Last updated: 23 Dec 2025
 ## Process Documentation
 
 - [Working with MHV Accessibility](documentation/working-with-mhv-accessibility.md) — Different ways to connect and work with the MHV Accessibility team.
+- [Program charter](documentation/program-charter.md) - MHV Accessibility’s purpose, goals, target audience, and success measures.
 - [Team operations](documentation/operations.md) — How the MHV Accessibility team operates to provide support and addresss accessibility issues.
 
 ## Presentations
