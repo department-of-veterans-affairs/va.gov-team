@@ -142,8 +142,4 @@ August 2024 | Comparative study for new care team names | [Study plan on Github]
 
 
 ### After on VA.gov
-Note: In the mock up below, the Maryland and DC healthcare systems are using the new method. Providence is still operating as status quo. This is shown for illustration that for the pilot, it is an accepted state that some (most all) systems will be status quo while the 3 pilot sites will not. Users may see a mix like this when registered across systems.
-
-Updated: 9/26/2024
-
-![image](https://github.com/user-attachments/assets/d61efdc4-c270-4c63-9fe8-7a37daa80a80)
+Mockup in Figmat: (add image)
