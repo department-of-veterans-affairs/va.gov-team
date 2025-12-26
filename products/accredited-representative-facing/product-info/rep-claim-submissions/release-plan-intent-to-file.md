@@ -14,7 +14,8 @@ Feature Toggle/flag:
       -    [ ] Existing ITF is found
       -    [ ] Can't check ITF status
    - [ ] Failed Submission
-
+- [ ] Any "launch blocking" findings from Team QA have been addressed.
+- [ ] Datadog monitoring is set up to track submission attempts, successes and errors.
 Any other issues or requirements that should be addressed prior to rollout?
 
 ### Go/No Go meeting pending
