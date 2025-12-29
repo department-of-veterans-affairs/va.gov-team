@@ -10,7 +10,6 @@
 - [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
-- [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **SPRINT GOAL** 10-7959a: itemized billing content language
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
 - [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
@@ -19,9 +18,10 @@
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
+- [ ] **STRETCH GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
-- [ ] **SPRINT GOAL** 10-7959a: FE Accessability changes
+- [ ] **STRETCH GOAL** 10-7959a: FE Accessability changes
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
 - [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
