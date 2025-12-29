@@ -7,17 +7,17 @@ To maintain a single, shared document that lists the feature flags used by the C
 
 ## Combined Debt Portal
 
-| Name                        | Notes                                               | Client | API | Staging % | Prod % | Deprecated | Removed |
+| Name                        | Notes                                               | Client | API | Staging % | Prod % | Referenced | Removed |
 | --------------------------- | --------------------------------------------------- | :----: | :-: | :-------: | :----: | :--------: | :-----: |
-| combined_debt_portal_access | [details](#combined_debt_portal_access)             |   x    |  x  |           |  100%  |            |         |
-| debt_letters_show_letters_vbms | [details](#debt_letters_show_letters_vbms)       |   x    |  x  |           |  0%    |            |         |
-| cdp_payment_history_vba     | [details](#cdp_payment_history_vba)                 |   x    |  x  |           |  0%    |            |         |
-| show_cdp_one_thing_per_page | [details](#show_cdp_one_thing_per_page)             |   x    |  x  |           |  100%  |            |         |
-| vha_show_payment_history    | [details](#vha_show_payment_history)                |   x    |  x  |           |  0%    |            |         |
-| show_one_vba_debt_letter    | [details](#show_one_vba_debt_letter)                |        |     |           |        |     x      |    x    |
-| medical_copays_six_mo_window| [details](#medical_copays_six_mo_window)            |        |  x  |           |  100%  |            |         |
-| medical_copays_zero_debt    | [details](#medical_copays_zero_debt)                |        |  x  |           |   0%   |            |         |
-| debts_copay_logging         | [details](#debts_copay_logging)                     |        |     |           |  50%   |            |         |
+| combined_debt_portal_access | [details](#combined_debt_portal_access)             |   x    |  x  |           |  100%  |     x      |         |
+| debt_letters_show_letters_vbms | [details](#debt_letters_show_letters_vbms)       |   x    |  x  |           |  0%    |     x      |         |
+| cdp_payment_history_vba     | [details](#cdp_payment_history_vba)                 |   x    |  x  |           |  0%    |     x      |         |
+| show_cdp_one_thing_per_page | [details](#show_cdp_one_thing_per_page)             |   x    |  x  |           |  100%  |     x      |         |
+| vha_show_payment_history    | [details](#vha_show_payment_history)                |   x    |  x  |           |  0%    |     x      |         |
+| show_one_vba_debt_letter    | [details](#show_one_vba_debt_letter)                |        |     |           |        |            |    x    |
+| medical_copays_six_mo_window| [details](#medical_copays_six_mo_window)            |        |  x  |           |  100%  |     x      |         |
+| medical_copays_zero_debt    | [details](#medical_copays_zero_debt)                |        |  x  |           |   0%   |     x      |         |
+| debts_copay_logging         | [details](#debts_copay_logging)                     |        |  x  |           |  50%   |     x      |         |
 
 
 ### Combined Debt Portal Notes
@@ -56,21 +56,21 @@ To maintain a single, shared document that lists the feature flags used by the C
 
 ## Financial Status Report
 
-| Flag Name                                   | Notes                                                      | Client | API | Staging % | Prod % | Deprecated | Removed |
+| Flag Name                                   | Notes                                                      | Client | API | Staging % | Prod % | Referenced | Removed |
 | ------------------------------------------- | ---------------------------------------------------------- | :----: | :-: | :-------: | :----: | :--------: | :-----: |
-| show_financial_status_report                | [details](#show_financial_status_report)                   |   x    |  x  |           |  100%  |            |         |
-| show_financial_status_report_wizard         | [details](#show_financial_status_report_wizard)            |   x    |  x  |           |  100%  |            |         |
-| show_financial_status_report_streamlined_waiver | [details](#show_financial_status_report_streamlined_waiver) | x  |  x  |           |  100%  |            |         |
-| financial_status_report_review_page_navigation | [details](#financial_status_report_review_page_navigation) | x  |  x  |           |  100%  |            |         |
-| fsr_confirmation_email                      | [details](#fsr_confirmation_email)                         |   x    |     |           |        |            |         |
-| fsr_5655_server_side_transform              | [details](#fsr_5655_server_side_transform)                 |   x    |  x  |           |  100%  |            |         |
-| financial_management_vbs_only               | [details](#financial_management_vbs_only)                  |        |  x  |           |  100%  |            |         |
-| fsr_zero_silent_errors_in_progress_email    | [details](#fsr_zero_silent_errors_in_progress_email)       |        |  x  |           |   25%  |            |         |
-| combined_financial_status_report            | [details](#combined_financial_status_report)               |        |     |           |  100%  |            |         |
-| financial_status_report_debts_api_module    | [details](#financial_status_report_debts_api_module)       |        |     |           |  100%  |            |         |
-| fsr_wizard                                  | [details](#fsr_wizard)                                     |        |     |           |  100%  |            |         |
-| financial_status_report_expenses_update     | [details](#financial_status_report_expenses_update)        |        |     |           |  100%  |            |         |
-| debts_silent_failure_mailer                 | [details](#debts_silent_failure_mailer)                    |        |     |           |   25%  |            |         |
+| show_financial_status_report                | [details](#show_financial_status_report)                   |   x    |  x  |           |  100%  |      x     |         |
+| show_financial_status_report_wizard         | [details](#show_financial_status_report_wizard)            |   x    |  x  |           |  100%  |      x     |         |
+| show_financial_status_report_streamlined_waiver | [details](#show_financial_status_report_streamlined_waiver) | x  |  x  |           |  100%  |      x     |         |
+| financial_status_report_review_page_navigation | [details](#financial_status_report_review_page_navigation) | x  |  x  |           |  100%  |      x     |         |
+| fsr_confirmation_email                      | [details](#fsr_confirmation_email)                         |   x    |     |           |        |      x     |         |
+| fsr_5655_server_side_transform              | [details](#fsr_5655_server_side_transform)                 |   x    |  x  |           |  100%  |      x     |         |
+| financial_management_vbs_only               | [details](#financial_management_vbs_only)                  |        |  x  |           |  100%  |      x     |         |
+| fsr_zero_silent_errors_in_progress_email    | [details](#fsr_zero_silent_errors_in_progress_email)       |        |  x  |           |   25%  |      x     |         |
+| combined_financial_status_report            | [details](#combined_financial_status_report)               |        |  x  |           |  100%  |      x     |         |
+| financial_status_report_debts_api_module    | [details](#financial_status_report_debts_api_module)       |   x    |  x  |           |  100%  |            |         |
+| fsr_wizard                                  | [details](#fsr_wizard)                                     |   x    |  x  |           |  100%  |            |         |
+| financial_status_report_expenses_update     | [details](#financial_status_report_expenses_update)        |   x    |  x  |           |  100%  |      x     |         |
+| debts_silent_failure_mailer                 | [details](#debts_silent_failure_mailer)                    |        |  x  |           |   25%  |            |         |
 
 
 ### Financial Status Report Notes
@@ -124,12 +124,12 @@ To maintain a single, shared document that lists the feature flags used by the C
 
 ## Digital Dispute
 
-| Flag                               | Notes                                           | Client | API | Staging % | Prod % | Deprecated | Removed |
+| Flag                               | Notes                                           | Client | API | Staging % | Prod % | Referenced | Removed |
 | ---------------------------------- | ----------------------------------------------- | :----: | :-: | :-------: | :----: | :--------: | :-----: |
-| digital_dispute_email_notifications| [details](#digital_dispute_email_notifications) |        |  x  |           |  100%  |            |         |
-| digital_dmc_dispute_service        | [details](#digital_dmc_dispute_service)         |        |  x  |           |  100%  |            |         |
-| dispute_debt                       | [details](#dispute_debt)                        |   x    |  x  |           |  100%  |            |         |
-| digital_dispute_duplicate_prevention | [details](#digital_dispute_duplicate_prevention) |      |  x  |           |   0%   |            |         |
+| digital_dispute_email_notifications| [details](#digital_dispute_email_notifications) |        |  x  |           |  100%  |     x      |         |
+| digital_dmc_dispute_service        | [details](#digital_dmc_dispute_service)         |        |  x  |           |  100%  |     x      |         |
+| dispute_debt                       | [details](#dispute_debt)                        |   x    |  x  |           |  100%  |     x      |         |
+| digital_dispute_duplicate_prevention | [details](#digital_dispute_duplicate_prevention) |      |  x  |           |   0%   |      x     |         |
 
 
 ### Digital Dispute Notes
