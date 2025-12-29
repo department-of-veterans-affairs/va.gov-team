@@ -1,5 +1,18 @@
 # Knowledge Transfer: Authentication and Authorization for BTS Travel Pay API Access
 
+## Quick Grabs
+
+### Datadog Dashboards
+Make sure to check timeframes on these links (and whenever you are looking into something or showing someone something).
+|Dashboard|Description|
+|---|---|
+|[Leadership Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-86m-7bc/travel-pay-leadership-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1766423621863&to_ts=1767028421863&live=true)|A dashboard that generates and sends a weekly report to leadship, reporting on higher-level metrics.|
+|[Mobile SMOC Performance](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1767014023677&to_ts=1767028423677&live=true)|Measures key performance indicators of mobile SMOC requests|
+|[Monthly Metrics](https://vagov.ddog-gov.com/dashboard/3ku-7e3-539/travel-pay-monthly-metrics?fromUser=false&refresh_mode=paused&from_ts=1754020800000&to_ts=1756699199999&live=false)|Shows metrics that are useful for monthly metrics reporting|
+|[Performance Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&overlay=events&overlayQuery=service%3Avets-api%20%40payload.controller%3ATravelPay%2A%20AND%20%40http.status_code%3A200%20%40payload.controller%3A%22TravelPay%3A%3AV0%3A%3AClaimsController%22&refresh_mode=sliding&from_ts=1767027526097&to_ts=1767028426097&live=true)|A catch-all performance dashboard for Travel Pay. Needs a better name and probably an update|
+|[SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1767027526971&to_ts=1767028426971&live=true)|Measures key performance indicators of web SMOC requests|
+|[Platform E2E Dashboard](https://vagov.ddog-gov.com/dashboard/u27-88d-58v/platform-e2e?fromUser=false&refresh_mode=sliding&from_ts=1767026627708&to_ts=1767028427708&live=true)|A dashboard for measuring end-to-end platform performance. Useful when/suspected something big is going on.|
+
 ## Key Components
 
 The authentication flow involves several key services and tokens:
