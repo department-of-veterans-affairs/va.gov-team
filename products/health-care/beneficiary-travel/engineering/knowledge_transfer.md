@@ -156,13 +156,13 @@ For machine-readable data or pulling down a comprehensive list without navigatin
 
 ---
 
-## 3\. Portal Access (Legacy BTS TCP)
+## Portal Access (Legacy BTS TCP)
 
-### 3.1 Portal URL
+### Portal URL
 
 * **QA Version URL:** https://dvagov-btsss-qa.dynamics365portals.us/
 
-### 3.2 Login Procedure
+### Login Procedure
 
 1. Navigate to the portal URL.  
 2. Click on **Access VA to log in**.  
@@ -171,3 +171,31 @@ For machine-readable data or pulling down a comprehensive list without navigatin
 5. Click **Sign in with ID.me**.  
 6. Follow the standard ID.me verification process.  
    * Use test user Nolle Barakat for standard access
+---
+
+## Forms library
+We currently do NOT use the forms library for claim submission (simple or complex). The reason is because there is a high chance that a user could have multiple claims "open" (and being worked on) at the same time. I spoke with Chris Valarida and he had an idea for using the forms library and still allowing for the use case of multiple in-flight claims:
+
+> Okay, I'm back. The somewhat longer version looks like this:
+API changes
+We'd need a way to store and retrieve instance IDs for a saved form
+Ideally, this is a separate identifier from the formId, but we could concatenate it to the "normal" formId defined in the formConfig if we need to
+If we don't concatenate it
+We'd need a new endpoint: /in_progress_forms/{formId}/{instanceId} or something (not sure if we'll need multiple for storing and retrieving)
+We'd also need to return a new instanceId property to add to entries in user.profile.savedForms 
+If we do concatenate it
+We'd need to make sure that the formId-instanceId pair gets associated with the correct form (that may be taken care of with the returnUrl already; I'm not sure if that's a fully-qualified URL or a path fragment without the app's base route)
+FE changes
+On the app's landing page, we'd need to check if there were multiple saved forms (in user.profile.savedForms) matching this form
+Again, either with just formId-instanceId or two separate properties
+If there are, we'd need a new UI pattern to select one
+There's some non-trivial design work here
+If we concatenate the formId-instanceId
+It may require no changes to the forms library--I'm not sure
+If we do concatenate the formId-instanceId
+It will require some changes to create the instanceId and store / retrieve from that new endpoint(s) mentioned above
+These changes are constrained to the save-in-progress/reducers.js and save-in-progress/api.js, I think :fingers_crossed: 
+
+> Next steps: I'd recommend exploring using a concatenated formId-instanceId in the place of formId first because the barrier to entry seems lower. It's worth noting that it's definitely more of a hack than introducing first-party support for multiple saved forms with a dedicated instanceId, though, and the level of effort on that doesn't seem to be too high. :fingers_crossed:
+
+> To start, I think you'd have to somehow jack into the SiP creation and modify the formId in the redux store when a new prefill is made. :thinking_face: I'm not sure where to look for that just now, though, nor what levers you have available to make that change without somehow manhandling the redux store in a custom component or something impolite like that. :sweat_smile: :see_no_evil:
