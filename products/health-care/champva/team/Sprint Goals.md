@@ -65,6 +65,8 @@
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** 10-7959c: FE wire up changes to new backend PDF
   - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
+- [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
+  - [ ] [[QA] Validate updated 10-7959c OHI standalone form #128049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128049)
 
 
 ##
