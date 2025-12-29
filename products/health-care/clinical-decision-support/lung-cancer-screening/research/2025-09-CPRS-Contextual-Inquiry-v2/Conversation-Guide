@@ -1,0 +1,133 @@
+---
+title: "Conversation Guide for LCS Team, CPRS v2, October 2025""
+
+author: "Ben Peterson" 
+date_created: "2025-12-29" 
+last_modified: "2025-12-29" 
+
+tags: 
+- "Lung Cancer Screening" 
+- "Contextual Inquiry" 
+- "CPRS" 
+
+
+description: "A Conversation guide for research sessions including logistics, intro script, task outlines, and consent steps.""
+---
+# Conversation Guide for LCS CPRS Contextual Inquiry
+
+## Moderator logistics 📋✅
+### 2-3 days before the session
+
+`List and complete any project-specific setup tasks for this study below:`
+
+- [x] Email participants 1:1 via VA email or Message participants via Teams chat 
+- [x] Create Teams link for interviews 
+- [x] Invite team members to observe sessions as available 
+
+
+### Notetaker and Silent Obeserver Guide
+- Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
+- If you can notetake, please do! It helps researchers a lot to see what you captured. There’s a note taking template in this Mural with screenshots. If you find it easier to write your notes or use a word doc, that's fine too! If you take running notes, please be sure to make a clear reference to the screen in question or the scenario being mentioned.
+- Write what you hear and see as much as possible. For some it can be easier to write in first person, as it is said, so that you don't need to paraphrase anything. Try to capture what they said without adding your own interpretation of what they meant. E.g. "I'm not sure about this checkbox" does not equal "Doesn't understand checkbox."
+- Share your notes back with the facilitator via Slack if taken outside of the mural. Do not include ANY PII in this chat.
+- For design testing, try to write down things that aren't said—for instance, when someone misunderstood some copy or clicked the wrong element. It helps us figure out what needs to be revisited.
+- Share a few raw impressions with the facilitator via Slack or in the notetaking document after the interview is done, if possible. It helps with synthesis!
+
+**Protecting PII**
+- It's important to protect the privacy of our VHA staff participants AND any Veterans. 
+- Do not include the participants name or other identifiers -- such as a very specific title that can be easy to identify them with in your notes. Instead, use a general role description, such as "primary care provider" and "also works in informatics"
+- In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.
+
+
+### Starting the session
+
+# Intro - 5 minutes
+
+Thanks so much for taking the time to speak with us today. My name is Ben and these are my colleagues ____ and ____.  
+We are part of the Lung Cancer Screening Platform team and are exploring how a new tool may aid your experience managing and tracking patients in the Lung Cancer Screening process.  
+Before we begin, I’d like to establish a few ground rules for our conversation:  
+
+●	Our conversation should take about an hour. Is that still okay for you? I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. You will be interacting with a prototype today so the functions and features will be limited and may not function exactly as you expect. 
+●	Think aloud: This may not come naturally to you but we ask that as you react to what is shown to you today--that you say out loud what you’re thinking. Where and why you’re clicking on things, what you don’t like or like. 
+●	There are no right or wrong answers. I won’t be offended by any feedback, so please be honest. We are testing the product, not you or your capabilities. Not all things shared may be implemented but we value your feedback and it will help us improve our product. 
+●	I may not answer your questions immediately as we want to see how you interact with the tool and are interested in what you think. If I can answer your questions, I will do so at the end. 
+●	Everything you share is confidential and any quotes we share will be anonymized and not personally attributed to you. You also have the right to revoke permission to use your quotes at any time, even after our session today. 
+●	We can pause or stop the session at any point in the process. 
+
+Do you have any questions so far? 
+If it’s ok with you, we would like to record this conversation? This is so we don’t miss anything in our notes. The recording will only be used by members of our team and as mentioned before any information shared outside our immediate team will be anonymized in the form of unattributed quotes. 
+Please let me know if you consent to recording our session? 
+
+### Task Scenarios 
+
+#### Warmup and set up (5min) 
+
+I’d like to start by asking a few background questions about your Lung Cancer Screening process before I ask you to log into the test environment. 
+
+●	What tasks do you do to manage patients in the LCS program? 
+○	Are there people or tools that support your work? 
+●	How has your LCS process evolved over time?  
+○	Tell me about using reports in PowerBI? 
+○	What’s working well for you? What’s working less well?  
+●	What would make it easier for you to do your work?  
+
+Today, you will be interacting with our test environment and everything you see is mock data so it might not be 100% medically accurate. As you’re working through the tasks, we ask that you please think aloud so we can understand how you’re processing things. This includes reading aloud, sharing what you’re looking for, and asking questions. 
+
+#### Task 1: Overall impressions and information (5 min) 
+
+Could you please open the site and wait to click on anything. 
+●	What are your initial thoughts on this platform/ First impressions? 
+○	Anything that stands out to you? Why? 
+●	Is there any information that is not helpful? 
+●	Is there any information you are looking for that would be helpful to include? Why? 
+●	(if required probe) Any information from the grid itself? 
+●	And where would you expect this information to live? 
+
+
+#### Scenario 1: Assignment and comments. (15 min) 
+
+Please search for X (insert mock patient name). 
+●	Take a look at the details about this patient.  
+●	What else would you want to know to manage this patient as part of your workflow? 
+
+Could you talk me through how you would typically manage this patient? 
+●	Please go ahead and assign the patient to their proper cohort  
+●	Please include a comment 
+
+Could you please edit a comment for me 
+●	What are your thoughts on this experience? 
+●	How often do you currently edit your comments? why? 
+●	When do you add a new comment vs edit your older comment? 
+
+(Follow up question of the order user completes actions)  
+●	Why this particular order of actions? 
+●	What are your thoughts on the assignment experience? 
+○	Did anything seem particularly challenging or confusing to you in this workflow? 
+○	Any thoughts on the experience of adding a comment? 
+●	What are your thoughts on the “task” section of the page? How might that support your work?  
+
+How might you add more details about this patient? 
+
+●	(if needed) prompt to access the columns 
+●	What do you think would happen in “columns”?  
+●	Add the details that would help you know more about your patient 
+●	Is that what you expected would happen?  
+●	Any thoughts about that experience?  
+
+  Did anything seem particularly challenging or confusing so far? 
+
+#### Scenario 2: Navigation (5 min) 
+
+●	If you wanted to move on to work on the next patient how would you do so? 
+●	Any thoughts on this experience? 
+●	This is just a prototype so we know it could be improved, what might make this tool more useful for you?  
+○	Was there anything missing that would have helped you manage Patient X? 
+
+
+### Closing (5 min) 
+
+●	Did any of the tasks seem particularly challenging or easy to you today?  
+●	Is there anything we didn’t talk about that you think we should know? 
+●	Do you have any questions that came up while using the tool or anything you’d like us to know about the LCS process?  
+
+That's all I had for today! Thanks again for your time. We really appreciate your input. It will help us make sure we build this tool to be most helpful and intuitive to use. If something comes up that you’d like to share in the future please feel free to email me. Have a good day! 
