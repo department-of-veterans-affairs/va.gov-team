@@ -53,16 +53,16 @@ Slack channel is [#beneficiary-travel-team](https://dsva.slack.com/archives/C05U
 - Slack Handle: @Charlotte Reid
 
 #### Backup Coordinator:
-- Name: Kevin Duensing
-- Slack Handle: @Kevin Duensing
-
-#### Technical Lead: The primary investigator, focused on technical debugging and resolution.
-- Name: Kevin Duensing
-- Slack Handle: @Kevin Duensing
-
-#### Backup Technical Lead:
 - Name: Calvin Cieslak
 - Slack Handle: @Calvin Cieslak
+
+#### Technical Lead: The primary investigator, focused on technical debugging and resolution.
+- Name: Calvin Cieslak
+- Slack Handle: @Calvin Cieslak
+
+#### Backup Technical Lead:
+- Name: Peri-Ann McLaren
+- Slack Handle: @peri.mclaren
 
 ### OCTO Roles
 #### Technical Lead: The person supporting and leading the engineering on the product from OCTO
@@ -85,19 +85,19 @@ Reachable on Slack and Microsoft Teams
 Slack Channel: `#beneficiary-travel-team`
 
 ##### Contacts
-##### Blaise Fox
-- Role: Business Analyst
-- Slack Handle: @Blaise Fox
+##### Maurice DeBeary
+- Role: Product Manager
+- Slack Handle: @Maurice
 Reachable on Slack and Microsoft Teams.
 
-##### Josh Patterson
+##### Nathan Burgess
 - Role: Technical Lead
-- Slack Handle: @Josh Patterson
+- Slack Handle: @Nathan Burgess
 Reachable on Slack and Microsoft Teams.
 
-##### Tim Hawkins
-- Role: Developer
-- @Slack Handle: @Tim Hawkins
+##### Naomi Eke
+- Role: Task Manager - Scrum Lead
+- @Slack Handle: @Naomi Eke
 Reachable on Slack and Microsoft Teams.
 
 #### VFS Platform Team:
