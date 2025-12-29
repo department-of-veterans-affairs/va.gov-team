@@ -41,7 +41,6 @@
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
   - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
   - [ ] [[Design] 10-10d Tricare Eligibility: Prototype for Usability Testing #126861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126861)
-
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
   - [ ] [[UX] 10-10d/10-7959c: Add MBI to 10-10dv2 form #128011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128011) 
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
