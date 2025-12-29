@@ -59,7 +59,7 @@ To maintain a single, shared document that lists the feature flags used by the C
 | Flag Name                                   | Notes                                                      | Client | API | Staging % | Prod % | Referenced | Removed |
 | ------------------------------------------- | ---------------------------------------------------------- | :----: | :-: | :-------: | :----: | :--------: | :-----: |
 | show_financial_status_report                | [details](#show_financial_status_report)                   |   x    |  x  |           |  100%  |      x     |         |
-| show_financial_status_report_wizard         | [details](#show_financial_status_report_wizard)            |   x    |  x  |           |  100%  |      x     |         |
+| show_financial_status_report_wizard         | [details](#show_financial_status_report_wizard)            |   x    |  x  |           |  100%  |            |         |
 | show_financial_status_report_streamlined_waiver | [details](#show_financial_status_report_streamlined_waiver) | x  |  x  |           |  100%  |      x     |         |
 | financial_status_report_review_page_navigation | [details](#financial_status_report_review_page_navigation) | x  |  x  |           |  100%  |      x     |         |
 | fsr_confirmation_email                      | [details](#fsr_confirmation_email)                         |   x    |     |           |        |      x     |         |
