@@ -1,4 +1,4 @@
-# Research Plan for Orion, Appointments, January, 2026
+# Research Plan for Orion, OH Appointment Scheduling, January, 2026
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
@@ -89,8 +89,8 @@ Test whether the basic functionality of the tool works on production for trusted
 
 ---
 
-- Users will be able to complete the functionality we test.
-- Users will identify other features or pieces of information that would help them choose a provider more easily.
+- Users will be able to complete the scheduling scenarios they test with little difficulty.
+- Users will identify other features or details that would help them choose a provider more easily.
 
 ---
   
@@ -123,17 +123,17 @@ Where will you be holding the research sessions? Be sure to include whether this
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-oh-scheduling-web-uat/conversation-guide.md)
-- [Link to synthesis doc](#) TBD
+- [Link to research notes doc](#) [TBD - the thought here is to have a Sharepoint doc where notetakers can capture their insights from the sessions in one spot. Need to determine if we want more than that for synthesis, like a task success matrix]
 	
 ## Recruitment 🎯	
 
 ### Recruitment approach
 
-- OCTO will recruit "Trusted Users" who have access to the scheduling tool who can test on their account in production.
+OCTO will recruit "Trusted Users" who have access to the scheduling tool who can test on their account in production.
 
 ### Recruitment criteria
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+#### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
@@ -141,36 +141,40 @@ Where will you be holding the research sessions? Be sure to include whether this
 - `Total:` **7**
 - `Ideal completed sessions:` **5**
 
-### Primary criteria (must-haves)
+#### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
--  6 "trusted user" participants who can schedule and request appointments at VA Central Ohio Health Care System
+"Trusted user" participants who can schedule and request appointments at VA Central Ohio Health Care System
+- Participant must be registered at VA Central Ohio Health Care System
+- Participant must have completed an appointment with a provider in a type of care that is schedulable through the tool. We'll need to know the type of care and provider.
 
 ## Timeline 🗓️
 
 ### Prepare
 
 ### Research sessions
-- `Planned dates of research:` **01/14-01/30** - Pushed forward as needed depending on feature complete date
+- `Planned dates of research:` **01/14-01/30** - To be pushed forward as needed depending on feature complete date
 
 ### Length of sessions
-- `Session length:` **45m** - Expecting 30 minute sessions, with a 15 minute buffer to dig into any odd issues that arise
+- `Session length:` **45m** - Expecting 30 minute sessions, with a 15 minute buffer to dig into any odd issues that arise.
 - `Buffer time between sessions:` **None**
 - `Maximum Sessions per day:` **5**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-[TBD] - Any time/weekday during the planned interview period. We will note any times that no one is available in this section.
+[TBD - Note any times that no one is available in this section once we have dates solidified.]
   
-## Team Roles  🕵️👩‍💻👩‍🔬
+## Team Roles  🕵️👩‍💻👩‍🔬       
+
+[TBD - work with OCTO to fill out this section.]
 
 - `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
+- `Research guide writing and task development (usually but not always same as moderator):` **Peter Russo**		
 - `Participant recruiting & screening:`	**[Enter full name]**	
 - `Project point of contact:` **[Enter full name]**		
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Note-takers:` **Peter Russo** 	
+- [TBD - not sure if we're allowing observers]`Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 - **[Enter full name]**
 - **[Enter full name]**

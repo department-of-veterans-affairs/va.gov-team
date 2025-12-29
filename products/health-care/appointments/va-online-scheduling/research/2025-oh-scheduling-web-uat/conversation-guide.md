@@ -1,5 +1,5 @@
 
-# Conversation Guide for [initiative]
+# Conversation Guide for OH Appointment Scheduling
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -9,22 +9,18 @@
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Confirm the type of care and provider that will be used during the test.
+- [ ] Add section in research notes doc for participant.
 
 ### Day of the session
 
 > [!TIP]
-> - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-> - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+> - OCTO will set up a Teams channel for discussion. Do not use the participant's name, or otherwise identify the participant outside of that channel
 
 ### Starting the session
 
 > [!TIP]
 > - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 > - Check your [screensharing setup] and share permissions for participants.
 > - When the participant is ready, begin the session with the following intro*
 
@@ -37,11 +33,13 @@ Today we're going to talk about making updates to health care information.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+- **Your participation in this study is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+
+[TODO - check with OCTO if we've allowed observers in other similar studies - if not, remove this section.]
   
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
@@ -51,6 +49,7 @@ Before we start, I have a few things that I want to go over with you:
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
      
+[TODO - check with OCTO if we've recorded participants in other similar studies. If not, remove this section]
 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
@@ -73,72 +72,69 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
  
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
 
- <mark>**[Record answer here]**</mark>
+## First Task: Schedule an appointment at an OH facility - X minutes
 
-# Warm-up Questions (Optional) - 5 minutes
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
-
-## First Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Click "Schedule an appointment"
+- [ ] Click "Start scheduling"
+- [ ] Choose a type of care - this should have been provided before the test started
+- [ ] Choose a location - should be Columbus
+- [ ] Choose a provider - should have been provided before the test started
+- [ ] Finish scheduling appointment
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+> - Does the participant run into any errors or dead ends?
+> - Is the participant able to schedule the appointment?
+> - What was confusing, or gave them pause?
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Cancel the appointment you just scheduled - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Find the appointment you just scheduled.
+- [ ] Click the cancel option and follow the prompts.
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - Does the participant run into any errors or dead ends?
+> - Is the participant able to cancel the appointment? - **If not, note the appointment ID**
+> - What was confusing, or gave them pause?
+
+## Third Task: Request an appointment at an OH facility - X minutes
+
+- [ ] Click "Schedule an appointment"
+- [ ] Click "Start scheduling"
+- [ ] Choose a type of care - this should have been provided before the test started
+- [ ] Choose a location - should be Columbus
+- [ ] On the "Choose a provider" page, choose the request option
+- [ ] Finish requesting appointment
+
+> [!NOTE]
+> ### Things to watch for:
+> - Does the participant run into any errors or dead ends?
+> - Is the participant able to request the appointment?
+> - What was confusing, or gave them pause?
+
+## Fourth Task: Cancel the request you just submitted - X minutes
+
+- [ ] Find the appointment you just requested.
+- [ ] Click the cancel option and follow the prompts.
+
+> [!NOTE]
+> ### Things to watch for:
+> - Does the participant run into any errors or dead ends?
+> - Is the participant able to schedule the appointment?
+> - What was confusing, or gave them pause?
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- Think about all the tasks you just completed. What was confusing or challenging?
+- What other scheduling features or information would be helpful for you?
 - Any questions for me? 
-
-## Consent to use video clips
-
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
 
 
 ## Thank-You and Closing - X minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
 Thank you so much again, and enjoy the rest of your day!
 
