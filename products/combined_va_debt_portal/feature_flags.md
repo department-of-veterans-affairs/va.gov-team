@@ -12,7 +12,7 @@ Maintain a single, shared document listing the feature flags used by the Combine
 | combined_debt_portal_access | [details](#combined_debt_portal_access)             |   x    |  x  |    100%   |  100%  |     x      |         |
 | debt_letters_show_letters_vbms | [details](#debt_letters_show_letters_vbms)       |   x    |  x  |     0%    |  0%    |     x      |         |
 | cdp_payment_history_vba     | [details](#cdp_payment_history_vba)                 |   x    |  x  |     0%    |  0%    |     x      |         |
-| show_cdp_one_thing_per_page | [details](#show_cdp_one_thing_per_page)             |   x    |  x  |     0%    |  100%  |     x      |         |
+| show_cdp_one_thing_per_page | [details](#show_cdp_one_thing_per_page)             |        |     |           |        |            |    x    |
 | vha_show_payment_history    | [details](#vha_show_payment_history)                |   x    |  x  |  1 actor  |  0%    |     x      |         |
 | show_one_vba_debt_letter    | [details](#show_one_vba_debt_letter)                |        |     |           |        |            |    x    |
 | medical_copays_six_mo_window| [details](#medical_copays_six_mo_window)            |        |  x  |     0%    |  100%  |     x      |         |
