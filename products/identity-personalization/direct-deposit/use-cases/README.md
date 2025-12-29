@@ -24,31 +24,13 @@ Last updated: December 2025
 
 [Use cases](#use-cases)
 
-- [Payments detected: Direct deposit set up](#payments-detected:-direct-deposit-set-up)
-
-- [Payments detected: No direct deposit set up](#payments-detected:-no-direct-deposit-set-up)
-
-- [Ineligible: No payments detected](#ineligible:-no-payments-detected)
-
 [Edge cases](#edge-cases)
 
-[Validation](#validation)
+- [Validation](#validation)
 
-- [InvalidRoutingNumber: Invalid routing number entered](#invalidroutingnumber:-invalid-routing-number-entered)
+- [Flags](#flags)
 
-- [UpdatePhoneNumberError: Invalid home or work number entered](#updatephonenumbererror:-invalid-home-or-work-number-entered)
-
-- [UpdateAddressError: Invalid address entered](#updateaddresserror:-invalid-address-entered)
-
-[Flags](#flags)
-
-- [Direct deposit information flags](#direct-deposit-information-flags)
-
-- [Profile shared flags](#profile-shared-flags)
-
-[Errors](#errors)
-
-- [Profile shared errors](#profile-shared-errors)
+- [Errors](#errors)
 
 # Overview 
 
