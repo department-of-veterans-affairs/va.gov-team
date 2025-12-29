@@ -39,6 +39,9 @@
   - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email #123987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
   - [ ] [[FE] 10-10d/10-7959c - Form merge: Update applicant birth sex data structure #126629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126629)
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
+  - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
+  - [ ] [[Design] 10-10d Tricare Eligibility: Prototype for Usability Testing #126861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126861)
+
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
   - [ ] [[UX] 10-10d/10-7959c: Add MBI to 10-10dv2 form #128011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128011) 
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
