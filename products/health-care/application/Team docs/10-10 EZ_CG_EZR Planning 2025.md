@@ -81,8 +81,11 @@
 - New Year’s Day Holiday: 1/1
 - Ray: 12/24 - 1/2
 - Kyle: 12/25 - 1/2
-- Andrea: 12/31
+- Mitch: 12/29 - 12/30
+- Andrea: 12/31 - 1/2
+- Hieu: 12/31 - 1/2
 - Jessica: 1/2
+- Derrick: 1/2
 
 ---
 ## 📆 Sprint 10 (Dec 17 - Dec 30)
@@ -94,7 +97,7 @@
 - [ ] EZR Financials - Finalize QA & launch prep
 - [x] EZR Service history discovery
 - [x] EZR Remove PDF feature toggle
-- [ ] EZ Service Blueprint
+- [x] EZ Service Blueprint
 
 ## 
 ### 10-10EZR
