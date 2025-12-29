@@ -7,8 +7,7 @@ Monitoring is in place for multiple features across Travel Pay. There are no sta
   - [SMOC Mobile Performance Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754591648680&to_ts=1754678048680&live=true)
   - [Travel Pay General Performance Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1754663672000&to_ts=1754678072000&live=true)
   - [Platform E2E Dashboard](https://vagov.ddog-gov.com/dashboard/u27-88d-58v/platform-e2e?fromUser=false&refresh_mode=sliding&tpl_var_env%5B0%5D=eks-prod&from_ts=1754505297084&to_ts=1754678097084&live=true)
-  - [Claims Status Mobile Performance Dashboard] TBD - December, 2025
-  - [Complex Claims Performance Dashboard] TBD - January, 2026
+  - [Claims Status Mobile Performance Dashboard - Features](https://vagov.ddog-gov.com/dashboard/sgq-3rb-re5/travel-pay-mobile-claims-list-dashboard?fromUser=false&overlay=events&refresh_mode=sliding&tpl_var_Environment%5B0%5D=eks-prod&from_ts=1767022904667&to_ts=1767023804667&live=true)
 
 
 ## 🚨 First Reaction
