@@ -4,6 +4,9 @@
 
 ### Datadog Dashboards
 Make sure to check timeframes on these links (and whenever you are looking into something or showing someone something).
+
+In order to manage reports, etc, you'll probably need write access (vs. the default "standard" access). Not _everyone_ needs write access, but would be good for the PM to get.
+
 |Dashboard|Description|
 |---|---|
 |[Leadership Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-86m-7bc/travel-pay-leadership-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1766423621863&to_ts=1767028421863&live=true)|A dashboard that generates and sends a weekly report to leadship, reporting on higher-level metrics.|
