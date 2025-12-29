@@ -1,23 +1,24 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for LCS Team, CPRS v2, October 2025"
+author: "Ben Peterson"
+date_created: "2025-12-29"
+last_modified: "2025-12-29"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "Lung Cancer Screening"
+  - "Contextual Inquiry"
+  - "CPRS"
+description: "A Conversation guide for moderated research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for LCS CPRS Contextual Inquiry
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [x] Email participants 1:1 via VA email or Message participants via Teams chat
+- [x] Create Teams link for interviews
+- [x] Invite team members to observe sessions as available
 
 ### Day of the session
 
@@ -40,162 +41,100 @@ description: "A template for moderating research sessions including logistics, i
 - In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.
 
 
-### Starting the session
+### Introduction and Consent (5 min)
 
-> [!TIP]
-> - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
+Thanks so much for taking the time to speak with us today. My name is Ben and these are my colleagues ____ and ____. 
 
-# Intro - 5 minutes
+We are part of the Lung Cancer Screening Platform team and are exploring how a new tool may aid your experience managing and tracking patients in the Lung Cancer Screening process. 
 
-Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** & **[NOTETAKER NAME]** is/are here to help with note taking and observing the session. Is that OK?
-> [!TIP]
-> - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+Before we begin, I’d like to establish a few ground rules for our conversation: 
+●	Our conversation should take about an hour. Is that still okay for you? I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. You will be interacting with a prototype today so the functions and features will be limited and may not function exactly as you expect.
+●	Think aloud: This may not come naturally to you but we ask that as you react to what is shown to you today--that you say out loud what you’re thinking. Where and why you’re clicking on things, what you don’t like or like.
+●	There are no right or wrong answers. I won’t be offended by any feedback, so please be honest. We are testing the product, not you or your capabilities. Not all things shared may be implemented but we value your feedback and it will help us improve our product.
+●	I may not answer your questions immediately as we want to see how you interact with the tool and are interested in what you think. If I can answer your questions, I will do so at the end.
+●	Everything you share is confidential and any quotes we share will be anonymized and not personally attributed to you. You also have the right to revoke permission to use your quotes at any time, even after our session today.
+●	We can pause or stop the session at any point in the process.
 
-Today we're going to talk about [insert topic]
+Do you have any questions so far?
 
-Before we start, I have a few things that I want to go over with you:
+If it’s ok with you, we would like to record this conversation? This is so we don’t miss anything in our notes. The recording will only be used by members of our team and as mentioned before any information shared outside our immediate team will be anonymized in the form of unattributed quotes.
 
-- **This entire session should take about 60 minutes.** I want to make sure I leave some space for your questions too, so I may occasionally prompt you with the next question or topic.
-  
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-  
-- **Your participation in this session is completely voluntary.** You do not have to participate if you don't want to. Your responses will remain confidential and your anonymity protected. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-       
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. 
-  
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we use a general role, like primary care physiciant or give you a participant ID, like P7. A general role or care setting helps provide a lens for the quote.
-  
-   - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
+ Please let me know if you consent to recording our session?
 
-   <mark>**[Record answer here]**</mark>
-     
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+Is it ok for us to start recording this conversation?
 
-➡️ **Start recording.**
+[Start recording.]
 
-> [!TIP]
-> After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
+### Task Scenarios
+#### Warmup and set up (5min)
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+I’d like to start by asking a few background questions about your Lung Cancer Screening process before I ask you to log into the test environment.
 
- <mark>**[Record answer here]**</mark>
- 
+●	What tasks do you do to manage patients in the LCS program?
+○	Are there people or tools that support your work?
+●	How has your LCS process evolved over time? 
+○	Tell me about using reports in PowerBI?
+○	What’s working well for you? What’s working less well? 
+●	What would make it easier for you to do your work? 
 
-# Warm-up Questions (Optional) - 5 minutes
+Today, you will be interacting with our test environment and everything you see is mock data so it might not be 100% medically accurate. As you’re working through the tasks, we ask that you please think aloud so we can understand how you’re processing things. This includes reading aloud, sharing what you’re looking for, and asking questions.
 
-Before we look at [the prototype/etc], I'd like to learn a little bit about you. 
+#### Task 1: Overall impressions and information (5 min)
 
-> [!TIP]
-> - These are placeholder questions, but work well across a lot of situations. Adjust as you need for your study.
-> - If it's a prior participant, consider skipping or modifying the intro questions or following up on something you previously learned from them.
+Could you please open the site and wait to click on anything.
 
-1. Can you tell me about your current role at the VA and how long have you been at the VA?
-2. How often have you been using [insert product]?
-3. Can you breifly walk be through what your experience was like the last time you used [product or thing]?
-4. What, if anything, was challenging about that experience? Why?
-5. What, if anything, was straightforward about that experience? Why?
+●	What are your initial thoughts on this platform/ First impressions?
+○	Anything that stands out to you? Why?
+●	Is there any information that is not helpful?
+●	Is there any information you are looking for that would be helpful to include? Why?
+●	(if required probe) Any information from the grid itself?
+●	And where would you expect this information to live?
 
-## Prototype Intro - Moderator Controls:
-Next we’re going to look at a prototype of the [insert thing]. There are a few things I’d like you to keep in mind: 
+#### Scenario 1: Assignment and comments. (15 min)
 
-- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
-- This is a prototype and not the real application. [Non-coded interactive prototype: It closely matches the real application, but some things may not work as expected.] You may see placeholder information that doesn't match your own situation exactly and that's ok.
-- I'm going to share my screen and you can tell me what to do, what to click, where to scroll. 
-- There are questions that will ask to input information. When we get to these points, you can tell me what you would input, and then we'll move on. 
-- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review a page. 
-- If at any point you feel uncomfortable or confused, please let me know. We are testing the designs and gathering feedback and not testing you. We’re here to support and learn from you. 
-- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this application without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
-- And please feel free to be as honest as possible – it won’t hurt our feelings. 
+Please search for X (insert mock patient name).
+●	Take a look at the details about this patient. 
+●	What else would you want to know to manage this patient as part of your workflow?
 
-`[Describe clinical scenario and pull up prototype and share screen]`
-
-## Prototype Intro - Participant Controls:
-Next we’re going to look at a prototype of the application. There are a few things I’d like you to keep in mind: 
-- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
-- This is a prototype and not the real application. It closely matches the real application, but some things may not work as expected. Non-coded interactive prototype: It closely matches the real site, but some things may not work as expected. You may see placeholder information that doesn't match your own situation exactly and that's ok.
-- I'm going to send you a link to the prototype in the chat and ask you to open the prototype and share your screen so I can follow along as you go. Does this sound okay to you? [If participant is uncomfortable - Alternatively, I can share my screen and you can tell me where to click and what to do. Switch to moderator controls prototype intro]. 
-- [Send link to prototype in chat, confirm has it open]
-- Before you share your screen, please close down any open windows that contain patient information so we don't accidentally record Veteran PII.
-- Can you share your screen now? (MS Teams) You can share your screen by clicking on the green "Share screen" button in the top bar. Then, select on the option that has the website open. Let me know if you need any help with this. 
-- Before we continue, I have some more information for you. 
-- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review this application. 
-- If at any point you feel uncomfortable or confused, please let me know. We are testing the application and gathering feedback and not testing you. We’re here to support and learn from you. 
-- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this website without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
-- And please feel free to be as honest as possible – it won’t hurt our feelings. 
-
-`[Describe clinical scenario and pull up prototype and share screen]`
-
-## First Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
-
-# Post-Task Interview - X minutes
-
-> [!TIP]
-> - These are placeholder questions, but work well across a lot of situations. Adjust as you need for your study.
-- On a scale of 1-5, with 5 being greatly improves your workflow, how much does having [insert thing] help you? Why?
-- Of all the things we've reviewed today, what was a highlight for you?
-- What was most challenging or confusing? Why?
-- Before we end, do you have any questions for me?
-- Any last thoughts or feedback we didn't get to discuss already?
+Could you talk me through how you would typically manage this patient?
+●	Please go ahead and assign the patient to their proper cohort 
+●	Please include a comment
 
 
-## Thank-You and Closing - X minutes
+Could you please edit a comment for me
+●	What are your thoughts on this experience?
+●	How often do you currently edit your comments? why?
+●	When do you add a new comment vs edit your older comment?
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on these tools to better meet clinician needs.
-
-Thanks! Lastly, would you be interested in participating in another study like this for [this product] or [another product on the CDS console]? And do you have other colleagues who you think might be interested in participating in sessions like this? Would you be willing to share a link for them to sign-up?
-
-Thank you so much again, and enjoy the rest of your day!
-
-
-# Emergency Exit 🚨
-
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
-
----
-
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Calculator Detail Page - Line Chart Testing Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/medical-calculators/research/2025-09-Calculator-Detail-Page-Line-Chart-Testing/conversation-guide.md)
+(Follow up question of the order user completes actions) 
+●	Why this particular order of actions?
+●	What are your thoughts on the assignment experience?
+○	Did anything seem particularly challenging or confusing to you in this workflow?
+○	Any thoughts on the experience of adding a comment?
+●	What are your thoughts on the “task” section of the page? How might that support your work? 
 
 
+How might you add more details about this patient?
+●	(if needed) prompt to access the columns
+●	What do you think would happen in “columns”? 
+●	Add the details that would help you know more about your patient
+●	Is that what you expected would happen? 
+●	Any thoughts about that experience? 
+
+
+Did anything seem particularly challenging or confusing so far?
+
+#### Scenario 2: Navigation (5 min)
+
+●	If you wanted to move on to work on the next patient how would you do so?
+●	Any thoughts on this experience?
+●	This is just a prototype so we know it could be improved, what might make this tool more useful for you? 
+○	Was there anything missing that would have helped you manage Patient X?
+
+### Closing (5 min)
+
+●	Did any of the tasks seem particularly challenging or easy to you today? 
+●	Is there anything we didn’t talk about that you think we should know?
+●	Do you have any questions that came up while using the tool or anything you’d like us to know about the LCS process? 
+
+That's all I had for today! Thanks again for your time. We really appreciate your input. It will help us make sure we build this tool to be most helpful and intuitive to use. If something comes up that you’d like to share in the future please feel free to email me. Have a good day!
