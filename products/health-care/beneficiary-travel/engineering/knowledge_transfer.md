@@ -16,6 +16,21 @@ In order to manage reports, etc, you'll probably need write access (vs. the defa
 |[SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1767027526971&to_ts=1767028426971&live=true)|Measures key performance indicators of web SMOC requests|
 |[Platform E2E Dashboard](https://vagov.ddog-gov.com/dashboard/u27-88d-58v/platform-e2e?fromUser=false&refresh_mode=sliding&from_ts=1767026627708&to_ts=1767028427708&live=true)|A dashboard for measuring end-to-end platform performance. Useful when/suspected something big is going on.|
 
+### Channels
+These channels are good to know about.
+|Channel|Description|
+|---|---|
+|[#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)|The main BTSSS migration DSVA slack channel. We use this channel to talk to stakeholders, the API team, and to work in the open with each other and across teams/|
+|[#beneficiary-travel-team-alerts](https://dsva.slack.com/archives/C076YMDJRBQ)|The alerts channel. As of 12/23/2025, it is VERY noisy.|
+|[#travel-pay](https://dsva.slack.com/archives/C05Q9HH47PS)|The channel where all things travel-pay come together. Useful for working with other teams or sharing initiative-wide information.|
+|[#unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)|The main UAE channel for cross-team, UAE-specific communication. It's where the UAE Scrum-of-Scrums canvas lives.|
+|[#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)|The main VA mobile app channel. Use this channel to inform and stay up-to-date on mobile concerns.|
+|[#va-mobile-app-engineering](https://dsva.slack.com/archives/C08MEUZSG5V)|The engineering-specific mobile channel. Use this channel to request PRs and talk mobile-eng shop with the mobile platform.|
+|[#identity-support](https://dsva.slack.com/archives/CSFV4QTKN)|The channel for getting help with identity issues. We used this channel a lot in the past, but our identity needs are pretty solid these days. Still useful.|
+|[#appointments-team](https://dsva.slack.com/archives/CMNQT72LX)|The main appointments feature channel. Good for asking general appointments-related questions.|
+|[#appointments-fe-eng](https://dsva.slack.com/archives/CSCD0B1V3)|Good for technical questions, requesting PRs for changes to the appointment details frontend, etc.|
+|[#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV)|This is where we can ask questions about the MHV entry points, like the landing page.|
+
 ## Key Components
 
 The authentication flow involves several key services and tokens:
