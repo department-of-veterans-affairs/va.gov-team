@@ -8,7 +8,7 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
-- [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Prevent stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
 - [ ] **SPRINT GOAL** 10-7959a: FE itemized billing content language
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
@@ -32,8 +32,10 @@
 - [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
   - [ ] [[Product] 10-10d/10-7959c: Monitor 10-10d v2 #127991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127991)
 - [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
-- [ ] **SPRINT GOAL** 10-10dv2: FE/BEPrevent stale data and documents from being submitted to Pega
+  - [ ] [[BE] 1010d: VES - Add Route to fwdproxy Prod Config #127378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127378)
+- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Prevent stale data and documents from being submitted to Pega
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
+  - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email #123987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
@@ -63,8 +65,15 @@
 ### All forms or Tech Debt
 - [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
   - [ ] [[Product/BE] Escalate rising 403 CSRF errors blocking form submissions #128008](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128008)
-- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
+  - [ ] [IVC Forms: 10/2/2025 Monitor Incident - 422 Validation Error #121135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121135)
+- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy
+  - [ ] [[Data] Update 10-10d Extended Dashboard #127435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127435)
 - [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
+  - [ ] [[BE] All Forms - Monitoring: Revise automated email to Pega for missing status (2-hour trigger & recipients update) #123908](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123908)
+  - [ ] [[BE] Remove PII from the payload for emails intended for Pega #123543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123543)
+  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Add New Logs  #105639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105639)
+  - [ ] [[BE] All forms: Create rake tasks for missing status work per platform guidance #128009](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128009)
+  - [ ] [[BE] All forms: Add logging and update metrics on missing Pega status job #128000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128000)
 
 
 ## 
@@ -74,6 +83,7 @@
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
 - [ ] **STRETCH GOAL** 10-7959a: FE Accessability changes
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
+  - [ ] [[BE] VES Discovery: OHI integration for standalone 10-7959c and 10-10dv2 OHI #128047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128047)
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
 - [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
   - [ ] [[QA] Validate updated 10-7959c OHI standalone form #128049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128049)
