@@ -6,7 +6,6 @@ Last updated: 9 Dec 2025 (Note that this is an in-progress, living document)
 ## Requesting accessibility team support
 
 - Use the @mhvaccessibility Slack user group to request support, for example, for staging reviews.
-- Attend our weekly office hours, Mondays from 10:30 to 11:00am ET on Zoom (see the [#mhv-shared-portal-support channel on Slack](https://dsva.slack.com/archives/C096KNK21SB) for meeting details).
 
 ## Reporting accessibility issues
 
