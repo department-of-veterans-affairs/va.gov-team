@@ -45,6 +45,9 @@
   - [ ] [[UX] 10-10d/10-7959c: Add MBI to 10-10dv2 form #128011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128011) 
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
   - [ ] [[UX] 10-10d v2: allow users to upload birth cert for newborns #127274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127274)
+- [ ] **INJECTION** UX: 10-10dv2 Staging Review Findings
+  - [ ] [[UX] 10-10d v2: Address Content-Specific Staging Review Findings #128235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128235)
+  - [ ] [[UX] 10-10d v2: Resolve VADS components and formatting Staging Review Findings #128237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128237)
 
 
 ##
