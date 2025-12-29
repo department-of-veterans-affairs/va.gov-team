@@ -34,21 +34,29 @@
 - [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
   - [ ] [[BE] 1010d: VES - Add Route to fwdproxy Prod Config #127378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127378)
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Prevent stale data and documents from being submitted to Pega
+  - [ ] [[FE] 10-10D v2: Prevent stale data and documents from being submitted to Pega #127759](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127759)
 - [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
   - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email #123987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
+  - [ ] [[FE] 10-10d/10-7959c - Form merge: Update applicant birth sex data structure #126629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126629)
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
+  - [ ] [[UX] 10-10d/10-7959c: Add MBI to 10-10dv2 form #128011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128011) 
 - [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
+  - [ ] [[UX] 10-10d v2: allow users to upload birth cert for newborns #127274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127274)
 
 
 ##
 ### 10-7959a
 - [ ] **SPRINT GOAL** 10-7959a: FE itemized billing content language
+  - [ ] [[FE] 10-7959A: Update itemized billing content language based on business and content/IA feedback #127787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127787)
 
 
 ## 
 ### 10-7959c
 - [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
+  - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
+  - [ ] [10-7959c: Unable to upload files for health insurance section #128171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128171)
+  - [ ] [[FE] 10-7959c: Update Medicare chapter #126790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126790)
 
 
 ## 
@@ -82,6 +90,7 @@
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
 - [ ] **STRETCH GOAL** 10-7959a: FE Accessability changes
+  - [ ] [[FE] 10-7959a - Address accessibility issues for resubmission flow #115605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115605)
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
   - [ ] [[BE] VES Discovery: OHI integration for standalone 10-7959c and 10-10dv2 OHI #128047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128047)
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
