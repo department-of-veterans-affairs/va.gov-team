@@ -103,6 +103,7 @@
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
   - [ ] [[BE] VES Discovery: OHI integration for standalone 10-7959c and 10-10dv2 OHI #128047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128047)
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
+  - [ ] [[FE] 10-7959F-2: Update Direct Deposit content to reflect latest FMP guidance #128695](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128695)
 - [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
   - [ ] [[QA] Validate updated 10-7959c OHI standalone form #128049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128049)
      
