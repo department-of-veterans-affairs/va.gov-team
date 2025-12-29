@@ -45,7 +45,7 @@ While we cannot think of any events that would be critical enough to merit a rol
 2. Alert the team in [#benefits-accredited-rep-crew](https://dsva.slack.com/archives/C05SUUM4GAW) that the rollback process has been initiated
    1. Include any details as to what triggered the rollback
    2. Tag relevant teammates
-3. Create a ticket to document:
+3. Create a ticket to document ( [Ref.](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems#instructions-for-creating-a-new-postmortem) for current Postmortem process):
    1. A summary of what caused the rollback process
    2. Confirmation that the feature toggle has been turned off (or that a PR has been submitted)
    3. Next step ideas for solving the rollback trigger
