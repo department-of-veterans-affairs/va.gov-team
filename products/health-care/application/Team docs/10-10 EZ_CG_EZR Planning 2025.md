@@ -2,7 +2,7 @@
 - Current Sprint first
 
 ---
-## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNED)
+## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNING - work in progress)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
