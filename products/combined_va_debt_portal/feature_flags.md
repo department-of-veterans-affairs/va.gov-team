@@ -3,7 +3,7 @@
 This page references: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/general/old-man-reference.md
 
 ## Purpose
-To maintain a single, shared document that lists the feature flags used by the Combined Debt Portal (debts and copays), Digital Dispute, and Financial Status Report (FSR). It also helps track which flags are no longer in use so that related configuration and code can be cleaned up more easily over time.
+Maintain a single, shared document listing the feature flags used by the Combined Debt Portal (debts and copays), Digital Dispute, and Financial Status Report (FSR). It tracks which environments each flag is defined in, its percentage settings in the Flipper admin for Staging and Prod, whether the flag is referenced in the codebase, and whether it has been removed. This helps ensure deprecated flags and related configuration can be cleaned up more easily over time.
 
 ## Combined Debt Portal
 
