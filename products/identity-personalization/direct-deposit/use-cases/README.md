@@ -2,7 +2,7 @@
 
 Last updated: December 2025  
 
-* [User flow](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2-19060&t=9ojLRO7c6FffSgwT-1)  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465334851/afdc4978dfd4cd9880a90f4066e236095170365b?sender=u36b374887f74c9a3de2d0750)  
 * [Figma files](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2-19060&t=9ojLRO7c6FffSgwT-1)
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -138,7 +138,7 @@ There are several shared editing interactions that are used in profile. The link
     * GET 403 Forbidden user  
     * GET 502 Bad gateway, API not receiving answer from back end server  
     * GET 503 Service unavailable  
-* [Section only, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#section-only-backend-system-down)  
+* [Saving information: Error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#saving-information-error)
   * **Description:** Used as generic Bank account information PUT/UPDATE error.  
   * **Status codes:**  
     * PUT 400 Bad request to BGS  
