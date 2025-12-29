@@ -89,7 +89,7 @@
 - [ ] **STRETCH GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
   - [ ] [[Product/BE] 10-10d v2: Tricare API Integration Discovery #128005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128005)
 - [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
-  - [ ] [BE] 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127786) 
+  - [ ] [BE 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127786) 
   - [ ] [[FE] 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127785)
   - [ ] [[BE] 10-7959c: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #128012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128012) 
   - [ ] [[FE] 10-7959c: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #128013](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128013)
