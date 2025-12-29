@@ -46,7 +46,6 @@
 - [ ] EZR Financials - Finalize QA
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
-- [ ] EZR Service Blueprint
 - [ ] All Forms `find-forms` URL audit
 
 ## 
@@ -58,9 +57,6 @@
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
 - [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema (refer to EZ)
-
-#### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- [ ] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
 
 ##
 ### All FORMS
@@ -97,7 +93,7 @@
 - [ ] EZR Financials - Finalize QA & launch prep
 - [x] EZR Service history discovery
 - [x] EZR Remove PDF feature toggle
-- [x] EZ Service Blueprint
+- [x] EZ & EZR Service Blueprint
 
 ## 
 ### 10-10EZR
@@ -113,11 +109,13 @@
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
 - [x] **SPRINT GOAL** [#120598](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120598) - [Eng] Remove ezr_download_pdf_enabled feature toggle
 
+#### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [x] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
 
 ##
 ### 10-10EZ
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#124102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124102) - [UX] Service blueprint for EZ
+- [x] **SPRINT GOAL** [#124102](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124102) - [UX] Service blueprint for EZ
 
 ## 
 ### 10-10CG
