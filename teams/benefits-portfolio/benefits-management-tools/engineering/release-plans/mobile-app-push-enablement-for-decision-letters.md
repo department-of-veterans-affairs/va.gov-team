@@ -28,6 +28,8 @@ Before enabling your feature toggle in production, you'll need to:
 - [ ] Confirm that VANotify has, in production, created the preferences for "Benefits Claims and Decision Reviews" 
 - [ ] Confirm that VANotify has populated the preference retroactively to all users
 - [ ] Confirm the Mobile App team has completed any desired testing
+- [ ] Confirm the Mobile App team has deployed their analytics update (Planned for release on 1/13/26)
+- [ ] Gather details for single user test
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -40,7 +42,7 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Planning
 
-- Desired date range or test duration: TBD
+- Desired date range or test duration: January 15, 2026
 - Desired number of users: 1
 - How you'll recruit the right production test users: Liana Fleming has identified a veteran who is willing to assist.
 - How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with the recruit's participant ID.
@@ -59,12 +61,14 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Rollout Planning
 
-- Desired date range: TBD
+- Desired date range: January 19, 2026 - January 30, 2026
 - How will you make the product available in production while limiting the number of users who can find/access it: By using the feature flag `event_bus_gateway_letter_ready_push_notifications` and the `enable_percentage_of_actors` feature to enable it for a percentages of users by icn. 
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: TBD - we are still analyzing success metrics
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
   - [ ] DataDog error rate below 5%
   - [ ] Click through rate above xx%
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Links to the dashboard(s) showing "success criteria" metrics: 
+  - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/wvx-g6k-u6c/bmt---eventbus-gateway-cloned?fromUser=false&refresh_mode=sliding&from_ts=1766512554238&to_ts=1767117354238&live=true)
+  - [Google Analytics Report]()
 - Who is monitoring the dashboard(s)?: BMT3 (Liana Fleming)
 
 
@@ -95,7 +99,7 @@ We will be performing a progressive rollout to be able to minimize the productio
 #### Planning
 
 - Length of time: 8 hours (one day)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% of Kafka messages
+- Percentage of Users (and roughly how many users do you expect this to be): 25% of ICNs
 
 #### Results
 
