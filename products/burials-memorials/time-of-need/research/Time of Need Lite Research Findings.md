@@ -318,13 +318,19 @@ _Complete the demographic info below using information from the Perigean recruit
 
 Participants must be a family member, VSO, funeral home representative of a Veteran, or a Veteran themselves, interested in scheduling a burial in a National Cemetery. Participants must be computer literate, able to access a mobile, tablet, or desktop device and have reliable internet access to be considered for this study.
 
--Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past? [yes/no]
--Are you a family member, funeral home staff, VSO officer, cemetery staff, or personal representative (non-family) involved in burial planning for a Veteran, spouse, or adult-dependent child? [yes/no, specify role]
--Do you use a computer or mobile device to access VA.gov? [yes/no]
--Do you have reliable internet access? [yes/no]
--Have you considered or experienced burial planning with VA.gov or the VA? [yes/no]
--What is your age range? [18–54, 55–64, 65+]
--Do you use assistive technology or have accessibility needs? [yes/no, specify]
+1. Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past? [yes/no]
+
+2. Are you a family member, funeral home staff, VSO officer, cemetery staff, or personal representative (non-family) involved in burial planning for a Veteran, spouse, or adult-dependent child? [yes/no, specify role]
+
+3. Do you use a computer or mobile device to access VA.gov? [yes/no]
+
+4. Do you have reliable internet access? [yes/no]
+
+5. Have you considered or experienced burial planning with VA.gov or the VA? [yes/no]
+
+6. What is your age range? [18–54, 55–64, 65+]
+
+7. Do you use assistive technology or have accessibility needs? [yes/no, specify]
 
 #### Demographics 
 
