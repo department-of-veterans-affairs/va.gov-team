@@ -27,39 +27,14 @@
 
 ##
 ### 10-10d
-- [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
-  - [ ] [[Product] 10-10d/10-7959c: Monitor 10-10d v2 #127991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127991)
-- [ ] **SPRINT GOAL** 10-10dv2: BE Update access to VES fwd proxy to prep for launch
-  - [ ] [[BE] 1010d: VES - Add Route to fwdproxy Prod Config #127378](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127378)
-- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Prevent stale data and documents from being submitted to Pega
-  - [ ] [[FE] 10-10D v2: Prevent stale data and documents from being submitted to Pega #127759](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127759)
-- [ ] **SPRINT GOAL** 10-10dv2: FE/BE Object type cleanup and confirmation email updates
-  - [ ] [[BE] 10-10d/10-7950c Merge: Production - Implement additional UX and Content/IA updates for Confirmation Email #123987](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123987)
-  - [ ] [[FE] 10-10d/10-7959c - Form merge: Update applicant birth sex data structure #126629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126629)
-- [ ] **SPRINT GOAL** UX: 10-10dv2: Tricare Eligibility Research Planning & Prototyping
-  - [ ] [[Research] 10-10d Tricare Eligibility: Usability Research Planning #125434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125434)
-  - [ ] [[Design] 10-10d Tricare Eligibility: Prototype for Usability Testing #126861](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126861)
-- [ ] **SPRINT GOAL** UX: 10-10dv2: Add MBI to 10-10dv2 form
-  - [ ] [[UX] 10-10d/10-7959c: Add MBI to 10-10dv2 form #128011](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128011) 
-- [ ] **SPRINT GOAL** UX: 10-10dv2: Add birth cert for newborns to 10-10dv2
-  - [ ] [[UX] 10-10d v2: allow users to upload birth cert for newborns #127274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127274)
-- [ ] **INJECTION** UX: 10-10dv2 Staging Review Findings
-  - [ ] [[UX] 10-10d v2: Address Content-Specific Staging Review Findings #128235](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128235)
-  - [ ] [[UX] 10-10d v2: Resolve VADS components and formatting Staging Review Findings #128237](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128237)
 
 
 ##
 ### 10-7959a
-- [ ] **SPRINT GOAL** 10-7959a: FE itemized billing content language
-  - [ ] [[FE] 10-7959A: Update itemized billing content language based on business and content/IA feedback #127787](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127787)
 
 
 ## 
 ### 10-7959c
-- [ ] **SPRINT GOAL** 10-7959c: FE Medicare Chapter updates and wire up changes to new backend PDF to prepare for launch
-  - [ ] [[FE] 10-7959c: Update Medicare Type Question Options and Age-Based Logic for new PDF #125465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125465)
-  - [ ] [10-7959c: Unable to upload files for health insurance section #128171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128171)
-  - [ ] [[FE] 10-7959c: Update Medicare chapter #126790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126790)
 
 
 ## 
@@ -74,42 +49,10 @@
 
 ##
 ### All forms or Tech Debt
-- [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
-  - [ ] [[Product/BE] Escalate rising 403 CSRF errors blocking form submissions #128008](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128008)
-  - [ ] [IVC Forms: 10/2/2025 Monitor Incident - 422 Validation Error #121135](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121135)
-- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy
-  - [ ] [[Data] Update 10-10d Extended Dashboard #127435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127435)
-- [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
-  - [ ] [[BE] All Forms - Monitoring: Revise automated email to Pega for missing status (2-hour trigger & recipients update) #123908](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123908)
-  - [ ] [[BE] Remove PII from the payload for emails intended for Pega #123543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123543)
-  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Add New Logs  #105639](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105639)
-  - [ ] [[BE] All forms: Create rake tasks for missing status work per platform guidance #128009](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128009)
-  - [ ] [[BE] All forms: Add logging and update metrics on missing Pega status job #128000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128000)
-  - [ ] [IVC Forms: 2025-02-19 Monitor Incident - Better TmpFile Management #106632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106632)
 
 
 ## 
 ### STRETCH GOALS
-- [ ] **STRETCH GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
-  - [ ] [[Product/BE] 10-10d v2: Tricare API Integration Discovery #128005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128005)
-- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
-  - [ ] [[BE] 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127786) 
-  - [ ] [[FE] 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127785)
-  - [ ] [[BE] 10-7959c: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #128012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128012) 
-  - [ ] [[FE] 10-7959c: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #128013](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128013)
-- [ ] **STRETCH GOAL** 10-10dv2 & 10-7959c: FE & BE Add future effective date for 10-10dv2 and OHI standalone
-  - [ ] [[BE] 10-10D v2: Add support for future effective dates to Medicare Chapter #128041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128041)
-  - [ ] [[FE] 10-10D v2: Add support for future effective dates to Medicare Chapter #128037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128037)
-  - [ ] [[BE] 10-7959c: Add support for future effective dates to Medicare Chapter #128042](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128042)
-  - [ ] [[FE] 10-7959c: Add support for future effective dates to Medicare Chapter #128039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128039)
-- [ ] **STRETCH GOAL** 10-7959a: FE Accessability changes
-  - [ ] [[FE] 10-7959a - Address accessibility issues for resubmission flow #115605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115605)
-- [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
-  - [ ] [[BE] VES Discovery: OHI integration for standalone 10-7959c and 10-10dv2 OHI #128047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128047)
-- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
-  - [ ] [[FE] 10-7959F-2: Update Direct Deposit content to reflect latest FMP guidance #128695](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128695)
-- [ ] **STRETCH GOAL** QA: 10-7959c: Test OHI Standalone
-  - [ ] [[QA] Validate updated 10-7959c OHI standalone form #128049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128049)
      
   
 ##
@@ -117,9 +60,6 @@
 - **FE**
 - **UX**
 - **BE**
-- [ ] **SPRINT GOAL** 10-7959c: OHI and VES Integration
-- [ ] **SPRINT GOAL** 10-7959f-2: FMP Claims remaining changes
-- [ ] **SPRINT GOAL** UX: 10-10d: Prep Tricare Study
 
 
 ## 📆 Sprint 10 (Dec 17 – Dec 30) 
