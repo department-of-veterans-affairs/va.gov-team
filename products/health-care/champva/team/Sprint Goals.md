@@ -11,7 +11,7 @@
 - [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **SPRINT GOAL** 10-10dv2: Eng Launch VES
 - [ ] **SPRINT GOAL** 10-10dv2: Eng Launch CHAMPVA Claims
-- [ ] **SPRINT GOAL** 10-10dv2: FE birth sex data structure cleanup
+- [ ] **SPRINT GOAL** 10-10dv2: FE birth sex data structure cleanup & discovery for moving signer section 
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: BE/FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: BE/FE Add future effective date for 10-10dv2 and OHI standalone
 - [ ] **SPRINT GOAL** 10-7959c: Finish OHI Standalone
