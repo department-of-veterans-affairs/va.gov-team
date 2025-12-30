@@ -1,5 +1,4 @@
 # 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
-- Current Sprint first
 
 ---
 ## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNED)
