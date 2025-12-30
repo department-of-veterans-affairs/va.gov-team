@@ -1,7 +1,7 @@
 # Personal information use cases
 
 Last updated: December 2025  
-* User flow  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753459771642/6c6889e40ac249724ef1b9968f6b0ba7c57a05ad?sender=u36b374887f74c9a3de2d0750)
 * [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1235-18927&t=UZZx6NpdeDPQTxDT-1)
 
 <details><summary>Archive | How to reproduce in staging</summary>
