@@ -20,7 +20,9 @@
 - [ ] **SPRINT GOAL** All forms: BE Continue investigating 403 errors in DD, report issues to platform, update dashboards to reflect handling
 - [ ] **SPRINT GOAL** All forms: BE Continue updating Datadog dashboards including new error tracking logic to ensure consistency and accuracy
 - [ ] **SPRINT GOAL** All forms: BE Continue improving logging to trace submissions end to end
-- [ ] **SPRINT GOAL** All forms: UX: Dec and Year End Metrics
+- [ ] **SPRINT GOAL** UX: All forms: Dec and Year End Metrics
+- [ ] **SPRINT GOAL** UX: 10-7959c: Add bene age 65+ indicator
+- [ ] **SPRINT GOAL** UX: 10-7959f-2: Compile and Finalize direct deposit
 
 
 ##
