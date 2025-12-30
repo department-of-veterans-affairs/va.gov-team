@@ -43,8 +43,9 @@
 
 ### Sprint Goal summary
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
+- [ ] EZ & EZR RUM logs active in production
+- [ ] VA Notify API Keys rotated in prod
 - [ ] EZR Financials - Finalize QA
-- [ ] VA Notify API Keys (prod release, pending code freeze lift)
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
 - [ ] All Forms `find-forms` URL audit
