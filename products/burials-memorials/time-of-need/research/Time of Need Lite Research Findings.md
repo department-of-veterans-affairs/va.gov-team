@@ -166,11 +166,11 @@ Findings will inform iterative improvements to the form's design, content, and w
 - **Hypothesis Statement:**
   
 - **Primary Hypothesis:** Users will be able to complete and submit the burial request form digitally with fewer errors and less stress than the current phone-based process. Most usability issues will stem from unfamiliar terminology or unclear instructions, and accessibility improvements may be needed for specific cohorts. Digital submission will be perceived as more convenient and less emotionally taxing.
-- **LIKELY TRUE** - Participants overall gave feedback saying the digital form was less stressful and more streamlined. However, we cannot determine if the participants would have had less errors without our guidance completing the form on their own. 
+  **LIKELY TRUE** - Participants overall gave feedback saying the digital form was less stressful and more streamlined. However, we cannot determine if the participants would have had less errors without our guidance completing the form on their own. 
 - **Contrasting Hypothesis:** Certain participant segments (e.g., Veterans aged 65+, those with disabilities, or those without reliable internet access) may find the phone-based process more accessible or less stressful than the digital form. This is informed by prior VSO research and medallion form desk research (see Section 9), which found that older Veterans often prefer verbal guidance and that some participants encounter barriers with digital-only options.
-- **NOT ENOUGH INFORMATION** - Multiple participants in the study who were over the age of 65 said they would prefer the online form vs. being on the phone. However, no participants in the study had disabilities and all had reliable internet access. 
+  **NOT ENOUGH INFORMATION** - Multiple participants in the study who were over the age of 65 said they would prefer the online form vs. being on the phone. However, no participants in the study had disabilities and all had reliable internet access. 
 - **Form Completion Time Hypothesis:** Most users will complete the digital form in 10–15 minutes. However, family members or representatives unfamiliar with military terminology or VA processes may require 20+ minutes to complete all required fields.
-- i. **LIKELY TRUE** - Most participants completed the form in an average of 20+ minutes. This may be influenced by the fact that the moderators were pausing participants frequently to ask research questions. 
+   **LIKELY TRUE** - Most participants completed the form in an average of 20+ minutes. This may be influenced by the fact that the moderators were pausing participants frequently to ask research questions. 
   
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
