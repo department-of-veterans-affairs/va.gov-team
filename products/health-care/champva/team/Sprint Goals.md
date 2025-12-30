@@ -16,7 +16,7 @@
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: BE/FE Add future effective date for 10-10dv2 and OHI standalone
 - [ ] **SPRINT GOAL** 10-7959c: Finish OHI Standalone
 - [ ] **SPRINT GOAL** 10-7959c: BE Discovery for OHI - VES Integration
-- [ ] **SPRINT GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
+- [ ] **SPRINT GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes & Upload Component investigation
 - [ ] **SPRINT GOAL** All forms: BE Continue investigating 403 errors in DD, report issues to platform, update dashboards to reflect handling
 - [ ] **SPRINT GOAL** All forms: BE Continue updating Datadog dashboards including new error tracking logic to ensure consistency and accuracy
 - [ ] **SPRINT GOAL** All forms: BE Continue improving logging to trace submissions end to end
