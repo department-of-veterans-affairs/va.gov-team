@@ -89,7 +89,7 @@
 - Kyle: 12/25 - 1/2
 - Mitch: 12/29 - 12/30
 - Andrea: 12/31 - 1/2
-- Hieu: 12/31 - 1/2
+- Hieu: 12/31
 - Jessica: 1/2
 - Derrick: 1/2 - 1/5
 - Renata: 1/5
