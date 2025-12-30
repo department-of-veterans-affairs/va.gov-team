@@ -20,7 +20,7 @@
 
 
 ## Development & Test Plan
-The VA Profile team is working on the API connections to and from the downstream systems (MAP, ISS), and va.gov is supporting the front end development and API transaction development of the healthcare settings page in the va.gov Profile. The va.gov Profile team is putting this development behind a feature flag, **profile_health_care_settings_page**.
+The VA Profile team is working on the API connections to and from the downstream systems (MAP, ISS), and va.gov is supporting the front end development and API transaction development of the healthcare settings page in the va.gov Profile. The va.gov Profile team is putting this development behind a feature flag, **profile_scheduling_preferences**.
 
 This release is for a pilot segmentation dicated by the Elizabeth Dole Act. 
 Release criteria:
