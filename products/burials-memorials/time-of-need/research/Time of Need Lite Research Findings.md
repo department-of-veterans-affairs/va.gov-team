@@ -199,7 +199,7 @@ Findings will inform iterative improvements to the form's design, content, and w
 
 ### Finding 1
 Users experienced confusion with terminology when asked "What is your relationship to the Veteran (deceased)?" 
-- _Supporting data:
+- Supporting data:
 - (Regarding the term Sponsor) "and this is a military term, I think some people might not know, if they were, like, a family member, might not know that a sponsor means, like, the primary Person with the, you know, and others are dependents." - P5
 - "I could be either the spouse, or the representative spouse, or whatever in that sense." P6
 
