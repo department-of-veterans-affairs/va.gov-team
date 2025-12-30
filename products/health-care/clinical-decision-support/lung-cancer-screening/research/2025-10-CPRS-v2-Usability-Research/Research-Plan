@@ -1,5 +1,5 @@
 
-	# Research Plan for [LCS, v2, Oct 2025]
+# Research Plan for [LCS, v2, Oct 2025]
 
 ## Background 🏗️
 `What problem is your product or feature trying to solve?`
@@ -24,16 +24,10 @@
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
-
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-</details>
-
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Clinician Journey](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712167298060/95432abc60ba8f7d49dc09faa22c244e30b2a64e)
 
@@ -59,7 +53,7 @@
 ### Research questions
 
 **`1.`Identify opportunities for future iterations and improvements to LCSPv2**
-** 2.`Identify any gaps in current LCSPv2 Tracking experience for users on CPRS**
+**`2.`Identify any gaps in current LCSPv2 Tracking experience for users on CPRS**
 
 ## Methodology  🛠️
 Usability testing with live prototype with fake patient data with LCS cooridnator use cases.
