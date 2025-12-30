@@ -316,7 +316,7 @@ _Complete the demographic info below using information from the Perigean recruit
 
 #### Recruitment criteria
 
-Participants must be a family member, VSO, funeral home representative of a Veteran, or a Veteran themselves, interested in scheduling a burial in a National Cemetery. Participants must be computer literate, able to access a mobile, tablet, or desktop device and have reliable internet access to be considered for this study.
+Participants must be a family member, VSO, funeral home representative of a Veteran, or a Veteran themselves, interested in scheduling a burial in a National Cemetery. Participants must be computer literate, able to access a mobile phone, tablet, or desktop device and have reliable internet access to be considered for this study.
 
 1. Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past? [yes/no]
 
