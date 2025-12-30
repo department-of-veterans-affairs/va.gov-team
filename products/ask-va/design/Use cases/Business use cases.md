@@ -44,7 +44,7 @@ We observed a few types of business inquiries based on frequency of submission, 
 |Example|Topic > Subtopic|Actual questions|Role|
 |---|---|---|---|
 |Submit a PDF application|Work study > Application|- Spring 2026 Application for [Name]<br>- [Name] App 26/SP<br>- Please see Work Study Application for [Name] for Winter 2026.|Work study site supervisor|
-|Submit a time card|Work study > Time card|- Timecard for [Name] 2025-12-22<br>- time for [Name]<br>- [Name] final|Work study site supervisor|
+|Submit a time card|Work study > Time card|- Timecard for [Name] [Date]br>- time for [Name]<br>- [Name] final|Work study site supervisor|
 |Submit a work study contract|Work study > Signed contract|- Please see signed Work Study Contract for [Name]<br>- Signed SP26 contract [Name]1 attachment<br>- Can you please process the signed contract for this veteran?|Work study site supervisor|
 |Submit position description|Work study > Position description|- Job Description Attached.|Work study site supervisor|
 |Submit work study work site application|Work study > Position description|- Completed annual work site form, and description of work study duties.<br>- Attached is the VA Work Study Worksite Application and Duties for [Location]. This is a resubmission and please let me know if you have any questions or require further information.<br>- Attached is form 22-10219 as well as worksite duties for approval.|Work study site supervisor|
@@ -60,12 +60,12 @@ We observed a few types of business inquiries based on frequency of submission, 
 - **Categories**: Submissions were spread across all categories.
 - **Examples**: Ad hoc questions varied across all categories. Some examples include:
    - Doc submission:
-      - Accredited Representative: I am submitting a debt waiver request for the veteran. This was also uploaded to VBMS on 10/8/2025. (Debt for benefit overpayments and health care copay bills > Disability compensation overpayments)
+      - Accredited Representative: I am submitting a debt waiver request for the veteran. This was also uploaded to VBMS on [Date]. (Debt for benefit overpayments and health care copay bills > Disability compensation overpayments)
    - Questions:
-      - Fiduciary: How Do I report this death ? [Name] on 12/16/2025 (Disability compensation > Guardianship, custodianship, or fiduciary issues)
+      - Fiduciary: How Do I report this death ? [Name] on [Date] (Disability compensation > Guardianship, custodianship, or fiduciary issues)
    - Requests:
       - School Certifying Official (SCO): Requesting a copy of the DMC debt letter to send money for tuition back to VA. (Debt for benefit overpayments and health care copay bills > Education benefit overpayments (for school officials))
-      - School Certifying Official (SCO): We are requesting a copy of the student's DMC debt letter for term: May 04, 2020 - May 30, 2020. (Debt for benefit overpayments and health care copay bills > Education benefit overpayments (for school officials))
+      - School Certifying Official (SCO): We are requesting a copy of the student's DMC debt letter for term: [Dates]. (Debt for benefit overpayments and health care copay bills > Education benefit overpayments (for school officials))
       - School Certifying Official (SCO): Would you please provide our current debt list for facility codes [Code] and [Code]? (Debt for benefit overpayments and health care copay bills > Education benefit overpayments (for school officials))
    - Issue reports:
       - School Certifying Official (SCO): The PO number provided is not recognized in [Location]. (Veteran Readiness and Employment > Financial issues)
