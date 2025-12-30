@@ -8,15 +8,18 @@
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
 - [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
-- [ ] **SPRINT GOAL** 10-10dv2: BE Launch VES
+- [ ] **SPRINT GOAL** 10-10dv2: Eng Launch VES
+- [ ] **SPRINT GOAL** 10-10dv2: Eng Launch CHAMPVA Claims
 - [ ] **SPRINT GOAL** 10-10dv2: FE birth sex data structure cleanup
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: FE Add MBI to 10-10dv2 for 10-10dv2 and OHI standalone
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: FE Add future effective date for 10-10dv2 and OHI standalone
+- [ ] **SPRINT GOAL** 10-7959c: Finish OHI Standalone
 - [ ] **SPRINT GOAL** 10-7959c: BE Discovery for OHI - VES Integration
 - [ ] **SPRINT GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
 - [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
 - [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
 - [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
+- [ ] **SPRINT GOAL** All forms: UX: Dec and Year End Metrics
 
 
 ##
@@ -111,10 +114,9 @@
 - **FE**
 - **UX**
 - **BE**
-- [ ] **SPRINT GOAL** 10-10d: BE Turn on VES
-- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add MBI for 10-10dv2 and OHI standalone
-- [ ] **SPRINT GOAL** 10-10d & 10-7959c: BE Add future effective date for 10-10dv2 and OHI standalone
-
+- [ ] **SPRINT GOAL** 10-7959c: OHI and VES Integration
+- [ ] **SPRINT GOAL** 10-7959f-2: FMP Claims remaining changes
+- [ ] **SPRINT GOAL** UX: 10-10d: Prep Tricare Study
 
 
 ## 📆 Sprint 10 (Dec 17 – Dec 30) 
