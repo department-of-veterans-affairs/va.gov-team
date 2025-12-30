@@ -4,7 +4,7 @@ This doc explains how and why business submitters use Ask VA. A business submitt
 [Learn more about business inquiries (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Business%20vs.%20Personal.md).
 
 We also conducted a qualitative analysis on 2025 business inquiries. [Learn more (GitHub ticket)](https://github.com/department-of-veterans-affairs/ask-va/issues/2087).
-<img width="808" height="655" alt="image" src="https://github.com/user-attachments/assets/73363c26-933b-4c15-9601-9b431b210558" />
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/73363c26-933b-4c15-9601-9b431b210558" />
 
 
 **In this doc**
