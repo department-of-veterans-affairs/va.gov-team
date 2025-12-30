@@ -51,6 +51,10 @@
 ## 
 ### 10-10EZR
 
+#### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)/[BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109437)
+- [ ] **SPRINT GOAL** [#128772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128772) - [FE] Turn EZ and EZR RUM log feature toggles on in production
+
+
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
 
@@ -60,7 +64,7 @@
 
 ##
 ### All FORMS
-#### Obj: EZR [Improvements shared across forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
+#### Obj: [Improvements shared across forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
 - [ ] **SPRINT GOAL** [#127525](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127525) - [UX] Audit forms for `find-forms` URL
 
 ##
@@ -94,6 +98,7 @@
 - [x] EZR Service history discovery
 - [x] EZR Remove PDF feature toggle
 - [x] EZ & EZR Service Blueprint
+- [x] (Stretch Goal) EZR Update RUM to avoid PII leak with EC/NOK data (RUM feature toggle is currently turned off because of this issue)
 
 ## 
 ### 10-10EZR
@@ -118,6 +123,7 @@
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [x] **SPRINT GOAL** [#124104](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124104) - [UX] Service blueprint for EZR
+- [x] **STRETCH GOAL** [#120127](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120127) - [Eng] Update RUM to avoid PII leak with EC/NOK data
 
 ##
 ### 10-10EZ
