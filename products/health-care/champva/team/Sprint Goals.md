@@ -7,6 +7,7 @@
 
 ### Sprint Goal summary
 - [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of 1010d/10-7959c Merge
+- [ ] **SPRINT GOAL** 10-10dv2: Prod GA/Domo dashboard audit
 - [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **SPRINT GOAL** 10-10dv2: Eng Launch VES
 - [ ] **SPRINT GOAL** 10-10dv2: Eng Launch CHAMPVA Claims
@@ -16,9 +17,9 @@
 - [ ] **SPRINT GOAL** 10-7959c: Finish OHI Standalone
 - [ ] **SPRINT GOAL** 10-7959c: BE Discovery for OHI - VES Integration
 - [ ] **SPRINT GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes
-- [ ] **SPRINT GOAL** All forms: BE Investigate and reproduce 403/422 errors in DD, report issues to platform
-- [ ] **SPRINT GOAL** All forms: BE Update Datadog dashboards to ensure consistency and accuracy 
-- [ ] **SPRINT GOAL** All forms: BE Improve logging to trace submissions end to end, identify errors, and capture  additional info for troubleshooting
+- [ ] **SPRINT GOAL** All forms: BE Continue investigating and reproduce 403/422 errors in DD, report issues to platform
+- [ ] **SPRINT GOAL** All forms: BE Continue updating Datadog dashboards to ensure consistency and accuracy 
+- [ ] **SPRINT GOAL** All forms: BE Continue improving logging to trace submissions end to end
 - [ ] **SPRINT GOAL** All forms: UX: Dec and Year End Metrics
 
 
