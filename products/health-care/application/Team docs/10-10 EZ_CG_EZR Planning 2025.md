@@ -38,7 +38,7 @@
 - Renata: 1/15 - 1/20
 
 ---
-## 📆 Sprint 11 (Dec 31 - Jan 13) (PREPLANNED)
+## 📆 Sprint 11 (Dec 31 - Jan 13)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
@@ -94,7 +94,7 @@
 
 ---
 ## 📆 Sprint 10 (Dec 17 - Dec 30)
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
