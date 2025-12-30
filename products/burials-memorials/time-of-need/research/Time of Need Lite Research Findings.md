@@ -239,25 +239,39 @@ Most users understood the definition of personal representative, but few underst
 
 *Explain how findings and recommendations align with the product's goals.*
 
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+This research supports our desired user outcome so that:
+- Organizations can submit requests more effectively and efficiently, providing better service to their clients in a difficult time.
+- Family members and personal representatives can easily request a burial through VA.gov – streamlining the process.
+- Users can easily schedule a burial via computer or mobile phone, instead of calling in.
  
 ### Desired Business Outcome
-This research supports our desired business outcome by....
+This research supports our desired business outcome so that:
+- The NCSO can provide the best possible experience for Veteran’s family members and representatives in a difficult time.
+- Increased efficiency and accuracy with data input and processing.
+- In compliance with the Paperwork Reduction Act (PRA.)
+- Free up more time for NCSO agents by reducing need for manual entry of information.
+- Build on VA.gov’s efforts to enhance digitization and convenience.
 
 
 ## Key Performance Indicators
 
 *Explain how findings will support KPI measurement.*  
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+- **Percentage of ToN Requests Submitted via Self-Service:**  
+  Findings will inform improvements to the form’s clarity and usability, helping to increase self-service submissions from 50% to over 70%.
 
-### KPI 1
-This research supports measurement of this KPI by....
+- **Reduction in Call Center Volume for ToN Submissions:**  
+  By identifying common user obstacles, we’ll enhance self-service guidance and reduce the need for call center support, targeting a 40% decrease in calls.
+
+- **User Satisfaction Rating (Target 4+ out of 5):**  
+  Research will guide specific enhancements to boost overall user satisfaction to at least 4 out of 5.
+
+- **Successful Form Submission Rate (Target: 95%):**  
+  Findings will help address pain points and errors, raising the form successful completion rate to 95%.
+
+- **Average Submission Time (Target: <15 minutes):**  
+  Process streamlining based on user feedback will support an average completion time of under 15 minutes.
   
 
 ## Next Steps
