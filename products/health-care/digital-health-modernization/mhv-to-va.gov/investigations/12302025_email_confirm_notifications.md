@@ -20,7 +20,6 @@ Code trace outline (bottom up):
             * Mobile::V0::Profile::SyncUpdateService#save_and_await_response
               * Mobile::V0::EmailsController#update
 
-
 Code trace:
 * [Alert rendered here](https://github.com/department-of-veterans-affairs/vets-website/blob/1daa25512f2bd312702be87089abf03030eadcc4/src/platform/mhv/components/MhvAlertConfirmEmail/MhvAlertConfirmEmail.jsx#L100)
   * [onConfirm triggered off of the confirm action](https://github.com/department-of-veterans-affairs/vets-website/blob/1daa25512f2bd312702be87089abf03030eadcc4/src/platform/mhv/components/MhvAlertConfirmEmail/MhvAlertConfirmEmail.jsx#L53)
@@ -30,3 +29,6 @@ Code trace:
         * `write_valid_record!` - dead end
         * `create_user_audit_log` - dead end
         * `render_new_transaction!`
+         * creates a new email transaction via `#start` and `#create` on the AsyncTransaction::VAProfile::Base class
+         * A thought I'm having is that yes, we don't poll on the web for this, but is there something on the web-side that calls `#refresh_transaction_statuses` behind the scenes?
+          * I saw a TransactionController - looking into where that might be called from the frontend
