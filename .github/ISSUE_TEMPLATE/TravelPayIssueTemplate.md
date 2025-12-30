@@ -3,10 +3,12 @@ name: Travel Pay Issue
 about: For implementing any ticket related to travel pay
 title: Travel Pay Issue
 labels: travel-pay
-Sprint: ''
 assignees: ''
 
 ---
+
+## Is this ticket being created for the current sprint?
+_Yes or No
 
 ## Context
 _How did the need for this ticket arise? What is currently happening?_
