@@ -5,7 +5,7 @@ This doc explains how and why business submitters use Ask VA. A business submitt
 
 **In this doc**
 - [Methodology](#methodology)
-- [Business use cases](#business-use-cases)
+- [Types of business inquiries](#types-of-business-inquiries)
 
 ## Methodology
 Our goal was to understand how and why business submitters use Ask VA. These are the steps we took to review inquiries: 
