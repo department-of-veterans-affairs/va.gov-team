@@ -52,7 +52,7 @@ We observed a few types of business inquiries based on frequency of submission, 
 **Category: Health care**
 |Example|Topic > Subtopic|Actual questions|Role|
 |---|---|---|---|
-|Submit CHAMPVA school enrollment certification letter|Family health benefits > CHAMPVA benefits|- Please process this Champ VA School Verification letter. <br>- I am submitting the CHAMPVA School Enrollment Certification Letter for [Name]([SSN]).<br>- Please see the attached CHAMPVA request for [Name]. (dependent)|School Certifying Official (SCO)|
+|Submit CHAMPVA school enrollment certification letter|Family health benefits > CHAMPVA benefits|- Please process this Champ VA School Verification letter. <br>- I am submitting the CHAMPVA School Enrollment Certification Letter for [Name][SSN].<br>- Please see the attached CHAMPVA request for [Name]. (dependent)|School Certifying Official (SCO)|
 
 ### Type 2: Ad hoc submissions, sometimes includes attachments**
 - **Who**: All (Accredited rep, Other, Fiduciary, Funeral director, etc.)
