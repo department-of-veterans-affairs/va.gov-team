@@ -9,6 +9,7 @@
 - [ ] EZR Launch V2 Financials
 - [ ] EZR Service history FE schema update
 - [ ] CG Service Blueprint
+- [ ] CG Restrict facilities parameters
 
 ## 
 ### 10-10EZR
