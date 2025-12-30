@@ -148,7 +148,6 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 | Sprint 3 |  | \[0781\] Update Page button styling | https://github\.com/department\-of\-veterans\-affairs/va\.gov\-team/issues/107738 |  | Done |  |
 
 
-
 # Sprint 19 Tickets  [12/03/25 - 12/16/25]
 
 | Sprint | Team | Title | URL | Estimate | Status | Sprint Notes |
