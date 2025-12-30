@@ -39,6 +39,7 @@ We observed a few types of business inquiries based on frequency of submission, 
    - Debt for benefit overpayments and health care copay bills
 
 **Examples of Type 1**
+
 **Category: Education benefits and work study**
 |Example|Topic > Subtopic|Actual questions|Role|
 |---|---|---|---|
