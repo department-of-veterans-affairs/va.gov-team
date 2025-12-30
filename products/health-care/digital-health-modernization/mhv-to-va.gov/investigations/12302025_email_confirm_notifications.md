@@ -20,6 +20,8 @@ Code trace outline (bottom up):
             * Mobile::V0::Profile::SyncUpdateService#save_and_await_response
               * Mobile::V0::EmailsController#update
 
+Updates definitely occur when the email is updated, however this investigation is looking at simple confirmations potentially triggering notifications. The way emails are confirmed is an update to the confirmation date field, so that would still trigger a notification, especially due to the way polling work w/in the mobile codebase.
+
 Code trace:
 * [Alert rendered here](https://github.com/department-of-veterans-affairs/vets-website/blob/1daa25512f2bd312702be87089abf03030eadcc4/src/platform/mhv/components/MhvAlertConfirmEmail/MhvAlertConfirmEmail.jsx#L100)
   * [onConfirm triggered off of the confirm action](https://github.com/department-of-veterans-affairs/vets-website/blob/1daa25512f2bd312702be87089abf03030eadcc4/src/platform/mhv/components/MhvAlertConfirmEmail/MhvAlertConfirmEmail.jsx#L53)
