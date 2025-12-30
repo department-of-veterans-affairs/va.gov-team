@@ -1,14 +1,14 @@
 # Personal information use cases
 
 Last updated: December 2025  
-Last uploaded: December 2025
-
 * User flow  
 * [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1235-18927&t=UZZx6NpdeDPQTxDT-1)
 
-Archive | How to reproduce in staging
+<details><summary>Archive | How to reproduce in staging</summary>
 
 * [User needs to add or update personal information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/add-edit-personal-info.md#add-or-edit-personal-info)
+
+</details>
 
 # Jump to
 
@@ -16,32 +16,26 @@ Archive | How to reproduce in staging
 
 [Use cases](#use-cases)
 
-[Read-only: Legal name and Date of birth](#read-only:-legal-name-and-date-of-birth)
-
-[Editing: Preferred name](#editing:-preferred-name)
-
-[Read-only: Disability rating](#read-only:-disability-rating)
-
 [Edge cases](#edge-cases)
 
-[Flags](#flags)
+- [Flags](#flags)
 
-[Errors](#errors)
+- [Errors](#errors)
 
-# Overview {#overview}
+# Overview 
 
 The **Personal information** page allows users to view their legal name, date of birth, and disability rating. And manage their preferred name, which is not removable once added. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
 
-# Use cases {#use-cases}
+# Use cases 
 
-## Read-only: Legal name and Date of birth {#read-only:-legal-name-and-date-of-birth}
+## Read-only: Legal name and Date of birth 
 
 * **Description:** Legal name and date of birth are read-only. Users are provided links on how to update their information. Since accounts have to be verified, this information always shows.  
 * **Status code:** 200  
 * **Format:** See designs  
 * [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1235-18929&t=UZZx6NpdeDPQTxDT-1)
 
-## Editing: Preferred name {#editing:-preferred-name}
+## Editing: Preferred name 
 
 * **Description:** Preferred name can be added and edited, but not removed. Preferred names can be up to 25 alphabetic characters. Special characters, spaces, and numbers are not accepted. Once a preferred name has been added the authenticated header updates to reflect their name.  
 * **Status code:** 200  
@@ -61,23 +55,23 @@ There are several shared editing interactions that are used in profile. The link
 
 [Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-interactions)
 
-## Read-only: Disability rating {#read-only:-disability-rating}
+## Read-only: Disability rating 
 
 * **Description:** Disability rating is read only. The section displays the users percentage of disability rating, or that they don’t have a disability rating. The user is also provided links to learn more about disability ratings and the PACT Act.  
 * **Status code:** 200  
 * **Format:** See designs  
 * [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1239-6314&t=UZZx6NpdeDPQTxDT-1)
 
-# Edge cases {#edge-cases}
+# Edge cases 
 
-## Flags {#flags}
+## Flags 
 
 ### Profile shared flags
 
 * [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
 * [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
-## Errors {#errors}
+## Errors 
 
 ### Profile shared errors
 
