@@ -44,6 +44,7 @@
 ### Sprint Goal summary
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
 - [ ] EZR Financials - Finalize QA
+- [ ] All forms VA Notify API Keys (prod release, pending code freeze lift)
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
 - [ ] All Forms `find-forms` URL audit
@@ -68,6 +69,7 @@
 ### All FORMS
 #### Obj: [Improvements shared across forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
 - [ ] **SPRINT GOAL** [#127525](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127525) - [UX] Audit forms for `find-forms` URL
+- [ ] **SPRINT GOAL** [#125897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125897) - [BE] Rotate API keys for VA Notify
 
 ##
 ### 10-10EZ
