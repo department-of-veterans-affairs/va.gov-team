@@ -57,6 +57,8 @@
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
+     - [ ] [#128256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128256) - [FE] Selecting "No" to adding income and then going back leads to empty page 
+     - [ ] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
@@ -109,9 +111,9 @@
 - [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
      - [x] [#121396](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121396) - [FE] Format "Back" button on Financial Info page to be consistent 
      - [x] [#121401](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121401) - [FE] Financials data is disappearing from Review & Submit page upon submission 
-     - [ ] [#128248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128248) - [FE] Financial section headers are not the same font size 
-     - [ ] [#128252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128252) - [FE] Unexpected text when editing financial information 
-     - [ ] [#128254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128254) - [FE] Missing content in hint text 
+     - [x] [#128248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128248) - [FE] Financial section headers are not the same font size 
+     - [x] [#128252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128252) - [FE] Unexpected text when editing financial information 
+     - [x] [#128254](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128254) - [FE] Missing content in hint text 
      - [ ] [#128256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128256) - [FE] Selecting "No" to adding income and then going back leads to empty page 
      - [ ] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled 
 
