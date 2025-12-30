@@ -92,7 +92,8 @@
 - Andrea: 12/31 - 1/2
 - Hieu: 12/31 - 1/2
 - Jessica: 1/2
-- Derrick: 1/2
+- Derrick: 1/2 - 1/5
+- Renata: 1/5
 
 ---
 ## 📆 Sprint 10 (Dec 17 - Dec 30)
