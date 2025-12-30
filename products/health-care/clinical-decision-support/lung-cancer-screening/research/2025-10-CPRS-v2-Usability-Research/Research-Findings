@@ -1,0 +1,162 @@
+---
+title: "2025-10-CPRS v2 Usabiliy Testing Research Findings"
+product: "LCSPv2"
+team: "LCS"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2025-12-29"
+researchers:
+  - "Ben Peterson"
+research_goals:
+  - "Assess the degree to which LCSPv2 meets users tracking needs, is efficient and intuitive."
+methodology:
+  - "Usability Testing"
+devices_used:
+    desktop: 7
+participants_total: 7
+Primary role:
+  Lung Cancer Screening Coordinator: 7
+
+EHR:
+ CPRS: X 
+
+key_findings:
+  - "Coordinators used the “Notes to Self” feature as a main part of their workflow to document patient information about tracking "
+  - "Coordinators Primary workflow starts with the Done not Documented report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards."
+  - "v1 fits in the LCS coordinator workflow as a primary way of managing LCS or as one tool in an ecosystem of other tools (CPRS, CMT, TM, Excel) "
+  - "Coordinator wishes for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+  - "Reminders are a core part of Coordinator workflow to help them prioritize their work and keep track of critical tasks. There are multiple ways they use reminders and different tools that support those tasks, including CPRS, LCSP, CMT and TM."
+  - "Coordinator wish for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+
+recommendations:
+  - "Assess how closely v2 meets coordinators needs and enhances their ability to achieve their workflow."
+
+# [Study] Research Findings 
+
+**Office of the CTO - Digital Experience (OCTO-DE), LCSPv2, LCS**
+**Date:** 12/30/2025
+**Contacts:** Ben Peterson
+**[Research Readout (word doc)](https://dvagov-my.sharepoint.com/:w:/r/personal/benjamin_peterson_va_gov/Documents/2025-09-CPRS-Contextual-Inquiry-Research-Findings.docx?d=w43b55f8643fc40ca90540dcb351e2844&csf=1&web=1&e=G65fXf)**  
+
+**Jump to:**
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
+- [Next Steps](#user-content-next-steps)
+- [Further research needed](#user-content-further-research-needed)
+- [Appendix](#user-content-appendix)
+- [Research participants](#user-content-research-participants)
+
+## Research Goals
+*Assess the degree to which LCSPv2 meets users tracking needs, is efficient and intuitive.*  
+
+## Research Questions
+* `Identify any gaps in current LCSPv2 Tracking experience for users on CPRS
+* `Identify opportunities for future iterations and improvements to LCSPv2
+
+## Methodology 
+- Method 1: Usability Testing of live CPRS LCSPv2 with test data
+
+## Key Findings
+
+1. "5 of 7 CPRS Coordinators rated LSCPv2 as "Easy," or "Very easy," to use."
+2. "The LCSPv2 CPRS Tracking experience met Coordinators needs and improved of the current process through Fewer clicks and reduced load time to open tracking reports and patient details, customized column visibility ​in the datagrid and the ability to search within a column." ​
+3. "Coordinators initial expectations were to interact with v2 similar to the current process but quickly adapted."
+4. "The details in the patient drawer save time by surfacing details that coordinators "dig" for in CPRS."
+5. "Coordinators experienced friction to understanding the comments feature."
+6. "Coordinators ideas for improving the patient drawer through ui changes to feature placement."
+7. "Coordinators were confused by different content labels related to tracking process and words to describe data being presented."
+8. "Coordinators encountered friction when their search term did not match how content was labeled in v2."
+  
+
+## Details of Findings 
+
+### Finding 1
+5 of 7 CPRS Coordinators rated LSCPv2 as "Easy," or "Very easy," to use
+  - _Supporting data: Each coordinator responded to the Question: “On a scale from zero to five, with zero being very difficult to use, or five being very easy, what would you rate (LSCPv2)?”​ _  
+
+### Finding 2  
+The LCSPv2 CPRS Tracking experience met Coordinators needs and improved of the current process through Fewer clicks and reduced load time to open tracking reports and patient details, customized column visibility ​in the datagrid and the ability to search within a column. ​
+- _Supporting data: “I think that there's a lot of little extras that …(are) pretty neat and pretty helpful."
+
+### Finding 3  
+Coordinators initial expectations were to interact with v2 similar to the current process but quickly adapted.
+- _Supporting data: “"Oh OK, I can just enter my name. I thought it was, (like the current way, where) you just do a click (to sort)."
+
+### Finding 4
+The details in the patient drawer save time by surfacing details that coordinators "dig" for in CPRS
+  - _Supporting data: “"Consolidating health factors, smoking history, and Lung-RADS history in one view reduces manual digging in CPRS."
+
+### Finding 5
+Coordinators experienced friction to understanding the comments feature.
+  - _Supporting data: “[Coordinator clicks on datagrid kebab menu to add a comment] "maybe clicking over here?  No, that's a search."
+### Finding 6
+Coordinators ideas for improving the patient drawer through ui changes to feature placement.
+  - _Supporting data: "I would like (comments area to be) at the top just so they don't get missed."
+  
+### Finding 7
+Coordinators were confused by different content labels related to tracking process and words to describe data being presented.
+  - _Supporting data: “[patient drawer -TPY] "'Current,' what does that mean?... What would be the other word that would be there, Incomplete or Non-current?"
+  
+### Finding 8
+Coordinators encountered friction when their search term did not match how content was labeled in v2.
+  - _Supporting data: Coordinator tried to search "Completed" instead of "Complete" for order status.​
+
+
+## Recommendations
+
+1. **Recommendation:** Focus on keeping comments a core feature of the v2 experience   
+   - _Supporting evidence: Finding 1 - The “Notes to Self” feature as a main part of their workflow to document patient information about tracking._  
+2. **Recommendation:** Ensure the experience of filtering patient data follows the coordinator workflow    
+   - _Supporting evidence: Finding 2 - Primary coordinator workflow starts with the "Done not Documented" report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards._
+
+## Product User and Business Outcomes
+
+This research will help determine feature development in line with observing patients in a grouped way, allowing prioritization for patient care with an interoperable tool that works with legacy (CPRS/VistA Lung Cancer Screening Platform version 1) sites and Oracle Health sites
+
+### Desired User Outcome 
+This research supports our desired user outcome by documenting the expectations and feature ideas of the LCS coordinators. 
+ 
+### Desired Business Outcome
+This research supports our desired business outcome by creating an understanding of core features to support the LCS workflow across the VHA EHRs.
+
+
+## Next Steps
+
+Onboard CPRS coordinators to LCSPv2
+
+## Further research needed
+
+*Determine the degree to which CPRS LCSPv2 improves the experience of cooridnator LCS workflow.* 
+
+
+## Appendix
+
+### Research documents
+- [Product Outline](link here)
+- [Research plan](link here)
+- [Conversation guide](link here)
+
+### Tools used for Synthesis
+
+*[Mural for affinity mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759153268429/a161a531240a76529b56586f1d5f3043fe846df8?sender=u51c7a6fc075dea16929e5394)**  
+**[Excel spreadsheet for analysis](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track/issues/3159) and [synthesis](https://dvagov-my.sharepoint.com/:w:/r/personal/benjamin_peterson_va_gov/Documents/S25%20Research%20Findingds.docx?d=w9db8ed97e2e74139a9bb6b5f59017264&csf=1&web=1&e=lY4wzo))**
+
+#### Demographics 
+
+We talked to **7 participants.**
+
+Primary role:
+ * Lung Cancer Screening Coordinator: 7
+
+Specialty:
+  * Lung Cancer Screening: 7
+
+EHR:
+ * CPRS: 7
+
+Devices used during study: 
+* Desktop: 7 
+
+Geographic location:
+* Urban: 7
