@@ -2,7 +2,7 @@
 - Current Sprint first
 
 ---
-## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNING - work in progress)
+## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNED)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
@@ -31,6 +31,7 @@
 ### 10-10CG
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
 - [ ] **SPRINT GOAL** [#124105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124105) - [UX] Service blueprint for CG
+- [ ] **SPRINT GOAL** [#128114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128114) - [Eng] Restrict facilities parameters
 
 
 ##
