@@ -292,7 +292,7 @@ This research supports our desired business outcome so that:
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+Mural
   
 ### Pages and applications used
 
@@ -316,7 +316,15 @@ _Complete the demographic info below using information from the Perigean recruit
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Participants must be a family member, VSO, funeral home representative of a Veteran, or a Veteran themselves, interested in scheduling a burial in a National Cemetery. Participants must be computer literate, able to access a mobile, tablet, or desktop device and have reliable internet access to be considered for this study.
+
+-Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past? [yes/no]
+-Are you a family member, funeral home staff, VSO officer, cemetery staff, or personal representative (non-family) involved in burial planning for a Veteran, spouse, or adult-dependent child? [yes/no, specify role]
+-Do you use a computer or mobile device to access VA.gov? [yes/no]
+-Do you have reliable internet access? [yes/no]
+-Have you considered or experienced burial planning with VA.gov or the VA? [yes/no]
+-What is your age range? [18–54, 55–64, 65+]
+-Do you use assistive technology or have accessibility needs? [yes/no, specify]
 
 #### Demographics 
 
