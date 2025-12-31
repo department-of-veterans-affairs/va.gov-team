@@ -73,14 +73,85 @@
 
 ### New OKRs from 2022 Workshop
 #### Objective 1: Increase use of the VA Health Care program
-- *Key result 1: Increase % of Veterans who successfully apply for benefits online*
-   - As of 10/2022, we have seen a 6 month overall increasing trend of the number of applications started and subsequently submitted.  We are noticing a significant drop from September to October, and will continue to monitor for the cause.
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
-|-------|----|----|----|----|----|----|----|----|----|----|----|----|
-|10-10 EZ	|53.87%	|71.97%	|66.33%	|86.51%	|89.46%	|91.87%|63.40%|62.13%|68.39%|67.33%|68.14%|TBD|
+<details>
+ <Summary>Key result 1: Increase % of Veterans who successfully apply for benefits online</Summary>
+| Month    | Started | Submitted | % start to complete |
+| -------- | ------- | --------- | ------------------- |
+| Jan 2020 | 13344   | 9045      | 67.78%              |
+| Feb 2020 | 10982   | 7426      | 67.62%              |
+| Mar 2020 | 9855    | 7020      | 71.23%              |
+| Apr 2020 | 8233    | 6140      | 74.58%              |
+| May 2020 | 8170    | 5850      | 71.60%              |
+| Jun 2020 | 9127    | 6590      | 72.20%              |
+| Jul 2020 | 10753   | 7806      | 72.59%              |
+| Aug 2020 | 10978   | 8003      | 72.90%              |
+| Sep 2020 | 10525   | 7726      | 73.41%              |
+| Oct 2020 | 11308   | 8021      | 70.93%              |
+| Nov 2020 | 10207   | 7366      | 72.17%              |
+| Dec 2020 | 12604   | 8480      | 67.28%              |
+| Jan 2021 | 22381   | 14896     | 66.56%              |
+| Feb 2021 | 21673   | 15173     | 70.01%              |
+| Mar 2021 | 26342   | 19395     | 73.63%              |
+| Apr 2021 | 12536   | 8787      | 70.09%              |
+| May 2021 | 11179   | 7518      | 67.25%              |
+| Jun 2021 | 11757   | 8188      | 69.64%              |
+| Jul 2021 | 11805   | 8279      | 70.13%              |
+| Aug 2021 | 13122   | 9294      | 70.83%              |
+| Sep 2021 | 11977   | 8443      | 70.49%              |
+| Oct 2021 | 11499   | 8385      | 72.92%              |
+| Nov 2021 | 11416   | 8186      | 71.71%              |
+| Dec 2021 | 10586   | 7379      | 69.71%              |
+| Jan 2022 | 12758   | 9397      | 73.66%              |
+| Feb 2022 | 17495   | 12206     | 69.77%              |
+| Mar 2022 | 22357   | 15382     | 68.80%              |
+| Apr 2022 | 24908   | 11432     | 45.90%              |
+| May 2022 | 24767   | 14813     | 59.81%              |
+| Jun 2022 | 25299   | 14975     | 59.19%              |
+| Jul 2022 | 20091   | 11787     | 58.67%              |
+| Aug 2022 | 18549   | 10316     | 55.61%              |
+| Sep 2022 | 15810   | 10470     | 66.22%              |
+| Oct 2022 | 17810   | 11292     | 63.40%              |
+| Nov 2022 | 17509   | 10878     | 62.13%              |
+| Dec 2022 | 15124   | 10343     | 68.39%              |
+| Jan 2023 | 18,634  | 12,546    | 67.33%              |
+| Feb 2023 | 16,025  | 10,920    | 68.14%              |
+| Mar 2023 | 18,305  | 12,665    | 69.19%              |
+| Apr 2023 | 16,713  | 10,380    | 62.11%              |
+| May 2023 | 17,436  | 11,867    | 68.06%              |
+| Jun 2023 | 22,837  | 12,271    | 53.73%              |
+| Jul 2023 | 25,469  | 13,086    | 51.38%              |
+| Aug 2023 | 31,400  | 23,146    | 73.71%              |
+| Sep 2023 | 41,215  | 39,630    | 96.15%              |
+| Oct 2023 | 14,703  | 12,760    | 86.79%              |
+| Nov 2023 | 13,691  | 11,953    | 87.31%              |
+| Dec 2023 | 12,704  | 11,260    | 88.63%              |
+| Jan 2024 | 16,085  | 13,500    | 83.93%              |
+| Feb 2024 | 13,797  | 11,696    | 84.77%              |
+| Mar 2024 | 20,551  | 17,674    | 86.00%              |
+| Apr 2024 | 16,962  | 15,958    | 94.08%              |
+| May 2024 | 16,207  | 14,214    | 87.70%              |
+| Jun 2024 | 17,302  | 13,680    | 79.07%              |
+| Jul 2024 | 18,965  | 15,094    | 79.59%              |
+| Aug 2024 | 17,512  | 14,507    | 82.84%              |
+| Sep 2024 | 14,230  | 13,602    | 95.59%              |
+| Oct 2024 | 20,530  | 19,916    | 97.01%              |
+| Nov 2024 | 30,801  | 21,530    | 69.90%              |
+| Dec 2024 | 26,198  | 21,485    | 82.01%              |
+| Jan 2025 | 32,658  | 24,868    | 76.15%              |
+| Feb 2025 | 34,062  | 21,614    | 63.45%              |
+| Mar 2025 | 36,624  | 22,831    | 62.34%              |
+| Apr 2025 | 33,383  | 21,220    | 63.57%              |
+| May 2025 | 32,310  | 20,060    | 62.09%              |
+| Jun 2025 | 33,389  | 22,285    | 66.74%              |
+| Jul 2025 | 36,251  | 24,638    | 67.97%              |
+| Aug 2025 | 32,628  | 23,146    | 70.94%              |
+| Sep 2025 | 30,564  | 21,583    | 70.62%              |
+| Oct 2025 | 28,420  | 14,966    | 52.66%              |
+| Nov 2025 | 27,662  | 13,386    | 48.39%              |
+| Dec 2025 | #REF!   | #REF!     | #REF!               |
 
-
+</details>
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
 - *Key result 1: Increase number of application completions across multiple devices for ease of use*
@@ -95,17 +166,31 @@
 
 
 #### Objective 3: Provide an effortless application completion process
-- *Key result 1: Increase number of application completions in a single session*
-   - As of 10/2022, we have seen a 6-month increasing trend for the percentage of applications completed in a single session
 
-|Product|	Apr|	May|	Jun|	Jul|	Aug|	Sep|Oct|Nov|Dec|Jan|Feb|Mar|
-|-------|----|----|----|----|----|----|----|----|----|----|----|----|
-|Avg sessons to complete|	1.80|	1.61|	1.52|	1.43|	1.45|	1.45|1.48|1.44|1.43|1.46|1.44|TBD|
-|% of 1 session|	59.20%|	65.44%|	67.88%|	72.45%|	71.74%|	71.76%|71.59%|72.50%|72.88|70.93%|72.51%|TBD|
-|% of 2 sessions|	22.89%|	21.93%|	21.27%|	19.74%|	20.32%|	19.97%|19.76%|19.74%|19.27%|20.50%|19.54%|TBD|
-|% of 3 sessions|	17.91%	|12.63%|	10.85%|	7.81%	|7.94%	|8.27%|8.65%|7.76%|7.85%|8.57%|7.95%|TBD|
-|Totals	|11,903	|14,737	|14,065	|11,548	|10,673	|9,391	|10,277|9,829|9,341|11,537|9,815|TBD|
+<details>
+ <Summary>Key result 1: Increase number of application completions in a single session</Summary>
 
+- 2022
+| Product            | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 10-10 EZ - Average | 1.80 | 1.61 | 1.52 | 1.43 | 1.45 | 1.45 | 1.48 | 1.44 | 1.43 |
+
+- 2023
+| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 10-10 EZ - Average | 1.46 | 1.44 | 1.44 | 1.42 | 1.48 | 1.42 | 1.50 | 1.42 | 1.47 | 1.42 | 1.41 | 1.39 |
+
+- 2024
+| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul | Aug | Sep | Oct  | Nov  | Dec  |
+| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | --- | --- | --- | ---- | ---- | ---- |
+| 10-10 EZ - Average | 1.42 | 1.45 | 1.44 | 1.41 | 1.41 | 1.41 |data error|data error|data error| 1.41 | 1.39 | 1.42 |
+
+- 2025
+| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec   |
+| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
+| 10-10 EZ - Average | 1.39 | 1.40 | 1.41 | 1.39 | 1.38 | 1.39 | 1.36 | 1.38 | 1.37 | 1.37 | 1.37 | TBD |
+
+</details>
 
 ---
 
