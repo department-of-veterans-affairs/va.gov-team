@@ -1,6 +1,4 @@
 # How to Message a Provider using Secure Messaging 
-
-## Steps to Message a Provider
 v1 - Revised 12/30/25
 
 ### Messaging
