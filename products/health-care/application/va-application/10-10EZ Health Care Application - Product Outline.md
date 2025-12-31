@@ -134,24 +134,25 @@
 Note: 10-10 EZ form has been available online for a number of years.  Only in 2019, had the form been regularly revisited for updates and improvements. ([archived docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/vets-application/product))
 - 2012: Fillable PDF avalable to submit online (vets.gov)
 - May 2016: Launched Online form with data fields and submission online (no more PDF), content & data fields match PDF form (vets.gov)
-- 6/3/2019: Launched Enrollment record validation when user enters personal info, if no record found, user can proceed through the form
-- 8/23/2022: Launched Medicare Claim number field added to the form
+- 06/03/2019: Launched Enrollment record validation when user enters personal info, if no record found, user can proceed through the form
+- 08/23/2022: Launched Medicare Claim number field added to the form
 - 10/11/2022: Launched American Indian question added to the form
 - 10/31/2022: Launched 10-10EZ Short Form flow
-- 11/1/2022: Launched 10-10EZ Saved-in-progress email reminders
-- 3/8/2023: American Indian question REMOVED from the form
-- 6/27/2023: Moved submission failure email from govdelivery service to VA Notify template
-- 8/10/2023: Launched Household section optimization
-- 8/29/2023: Removed "screener" page for unauthenticated users (duplicate questions to confirm name/DOB/SSN)
-- 3/5/2024: Launched Toxic Exposure questions added to form
-- 5/6/2024: Root URL updated from `va.gov/health-care/apply/application/` to `va.gov/health-care/apply-for-health-care-form-10-10ez/`
-- 8/27/2024: Update Facilities list to use LH Facilities API (and compare to Enrollment system data to avoid validation errors)
-- 9/3/2024: Update "Need Help" section with new Accredited Representative content (replacing VSO content)
-- 10/9/2024: Launched Registration Only MVP 3-month experiment (Ended 1/6/2025)
+- 11/01/2022: Launched 10-10EZ Saved-in-progress email reminders
+- 03/08/2023: American Indian question REMOVED from the form
+- 06/27/2023: Moved submission failure email from govdelivery service to VA Notify template
+- 08/10/2023: Launched Household section optimization
+- 08/29/2023: Removed "screener" page for unauthenticated users (duplicate questions to confirm name/DOB/SSN)
+- 03/05/2024: Launched Toxic Exposure questions added to form
+- 05/06/2024: Root URL updated from `va.gov/health-care/apply/application/` to `va.gov/health-care/apply-for-health-care-form-10-10ez/`
+- 08/27/2024: Update Facilities list to use LH Facilities API (and compare to Enrollment system data to avoid validation errors)
+- 09/03/2024: Update "Need Help" section with new Accredited Representative content (replacing VSO content)
+- 10/09/2024: Launched Registration Only MVP 3-month experiment (Ended 1/6/2025)
 - 10/21/2024: Remove "Minimum Essential Coverage" checkbox from Facility page
-- 11/5/2024: Launched Toxic Exposure improvements (question branching logic and content updates)
+- 11/05/2024: Launched Toxic Exposure improvements (question branching logic and content updates)
 - 11/25/2024: Launched Updates to Submission failure and In-progress email templates within VA Notify (aligning with CAIA and VAN templates)
 - 11/25/2024: Created Temporary BGS-disable feature toggle to disable during COLA update on 11/29-12/2
+- 02/25/2025: Upgraded to Lighthouse Facilities API v2 (for facility search page)
 - 05/05/2025: Launched PDF Download (on submission or submission failure)
 - 06/24/2025: Allow PDF downloads after initial failures (3 retries)
 - 07/14/2025: Used Temporary BGS-disable feature toggle to turn off during BGS to BEP migration. (7/11-7/14)
@@ -159,27 +160,26 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 - 08/03/2025: Launched update to Dependents section for List & Loop fix to allow Save-in-progress within the loop
 - 08/03/2025: Updated headers throughout form to align with DST
 - 08/04/2025: Launched UI update to phone number field to strip international phone numbers that do not match the 10-digit format (until downstream systems can support)
+- 09/09/2025: Launched List & Loop for Insurance section
+- 11/14/2025: Updated Intro page with Dental coverage information
+- TBD: Form status updates on MyVA to include submission in progress & received
+- TBD: Updated Intro page alerts for enrollment statuses of Pending (pendingMT (financials) and pendingOther (missing information) to direct to EZR
 ---
 
 ## Solution Narrative
 
-### Current Status
-
-- As of 11/2022, we are:
-   - Preparing for moderated research sessions on the Household section optimization design in December
-   - Preparing for moderated research sessions on the entire form to gather baseline data and feedback
-        - This will help inform our next initiatives
-
 ### Designs
-- [Sketch file](https://www.sketch.com/s/da85cf44-4503-4e98-834e-ff068b242ef6) with wireflows and page designs (including proposals and experiments)
+- [Figma production file](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=JhxW0BXZeM2oyPIO-0) for production source of truth
+- [Figma working file](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=0-1&p=f&t=07vffO2rqs00iBsG-0) for work in progress, proposals and experiments
 
 ### Key Decisions
 - Reference the ["Things to know" document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/10-10EZ%20-%20Things%20to%20know.md) for various notes that we collected and documented
 - American Indian question
    - The decision to phrase the Indian health question, by listing the qualifications/definitions of "Indian", was made due to the HEC Leadership stakeholders questioning our decision to phrase the question initially as "Are you an American Indian or Alaska Native?" rather than match the paper form verbiage "Are you an Indian?".  Our initial Online language had been approved in late 2021, however once we were ready to release in August 2022, the language format came up again.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from August and September 2022.
-   - As of December 2022, there was notice from the HEC stakeholders that the question may be removed from both the Online and Paper versions of the application, per the Member Services leadership. On 2/23/2023, we were notified that the 10-10EZ Paper form had been updated, and the question was removed. As of 2/27/2023, we have removed the American Indian question from the Online form.
+   - As of December 2022, there was notice from the HEC stakeholders that the question may be removed from both the Online and Paper versions of the application, per the Member Services leadership. On 2/23/2023, we were notified that the 10-10EZ Paper form had been updated, and the question was removed. As of 2/27/2023, we have removed the American Indian question and code from the Online form.
 - Self-Identifying Gender Identity (SIGI)
-   - The decision to use the terms on this feature to identify various Gender types was made based on extensive research on this topic in 2021, aligning with the current format in the VA.gov Profile, and using plain language to reflect a comfortable, conversational format.  The HEC Leadership stakeholders have questioned the use of the terms on the Online form being different from the paper form (Man vs Male, Woman vs Female, etc), and have submitted to CICPO (Compliance integrity) for review.  Reference the [Stakeholder meeting notes]https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes from October and November 2022.
+   - The decision to use the terms on this feature to identify various Gender types was made based on extensive research on this topic in 2021, aligning with the current format in the VA.gov Profile, and using plain language to reflect a comfortable, conversational format.  The HEC Leadership stakeholders have questioned the use of the terms on the Online form being different from the paper form (Man vs Male, Woman vs Female, etc), and have submitted to CICPO (Compliance integrity) for review.  Reference the [Stakeholder meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes) from October and November 2022.
+   - This work never came to fruition and all code was removed from the form.
 ---
    
 ## Screenshots
@@ -189,7 +189,7 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
  
 
 ### After
-[Figma File of all screens](https://www.figma.com/file/UljiHam46o5DItC5iDgmPd/10-10EZ?type=design&node-id=109-59846&mode=design&t=NG4WSpLntVopG3ox-0)
+[Figma File of all screens](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=JhxW0BXZeM2oyPIO-0)
 
 ---
 
@@ -230,6 +230,6 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 
 
 **Enrollment System (ES)**
-- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+- Joshua F -- Technical Director, EHBD (Enrollment system)
  
 </details>
