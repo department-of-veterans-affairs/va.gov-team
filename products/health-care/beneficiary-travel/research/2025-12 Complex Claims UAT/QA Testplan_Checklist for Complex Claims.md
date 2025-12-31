@@ -462,5 +462,5 @@ A Requirements Traceability Matrix (RTM) will be developed to formally map the a
 
 * [Complex Claims Post Midpoint Figma Design](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=9065-51243&t=3Fk8LgLajWLH38cX-1)  
 * [Frontend Complex Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126761)  
-* TBD(More references to be added)
+
 
