@@ -22,14 +22,14 @@ v1 - Revised 12/30/25
 6. You should be at the screen titled "Start Message." Follow steps 6-10 listed above under "Steps to Message a Provider."
 
 #### Still don't see your Care Team?
-If you have followed all these steps and still do not see your Care Team
+If you have followed all these steps and still do not see your Care Team:
 1. Click on the link called <b>WHAT TO DO IF YOU CAN'T FIND YOUR CARE TEAM</b>.
 2. Follow the instructions listed and click on the link <b>UPDATE YOUR CONTACT LIST</b>.
 3. From there you should be able to select and save the Care Teams that apply to you.
 4. Click on <b>SAVE CONTACT LIST</b> to save your choices.
 
 If you are still not able to find your Care Team, please contact your VA healthcare facility to have a team added to your list 
-by clicking the link FIND YOUR VA HEALTH FACILITY.
+by clicking the link <b>FIND YOUR VA HEALTH FACILITY</b>.
 
 ## Things to note:
 1. Secure messages are NOT sent directly to a Provider.  They are sent to your Care Team, who will in turn send your message (unopened) to your Provider.  That is the way the system is designed.
