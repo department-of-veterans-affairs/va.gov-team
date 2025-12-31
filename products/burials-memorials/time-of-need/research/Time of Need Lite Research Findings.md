@@ -373,8 +373,8 @@ We talked to **14 participants.**
 
 Audience segment:
 * Veterans: 14 
-* Caregivers: 0
-* Family members of a Veteran: 0  
+* Caregivers: 4
+* Family members of a Veteran: 4 
 
 
 Gender:
