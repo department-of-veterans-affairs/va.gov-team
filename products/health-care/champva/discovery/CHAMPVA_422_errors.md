@@ -1,6 +1,6 @@
 # 422 Errors Investigation
 
-During the month of December 2025, the team noticed an uptick in 422 response codes across the CHAMPVA forms portfolio. This documents the findings of those 422's with some possible root causes and remedies.
+During the month of December 2025, the team noticed an uptick in 422 response codes across the CHAMPVA forms portfolio. This documents the findings of those 422's with next steps for root cause identification.
 
 ## `Common::Exceptions::ValidationErrors: Validation error`
 
