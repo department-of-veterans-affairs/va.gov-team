@@ -10,18 +10,18 @@
 - [ ] **SPRINT GOAL** 10-10dv2: Prod GA/Domo dashboard audit
 - [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
 - [ ] **SPRINT GOAL** 10-10dv2: BE/FE Launch VES
-- [ ] **SPRINT GOAL** 10-10dv2: FE data structure cleanup and discovery for moving sections
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: BE/FE Add MBI & future effective date
 - [ ] **SPRINT GOAL** 10-7959a: BE/FE Launch CHAMPVA Claims
 - [ ] **SPRINT GOAL** 10-7959c: BE/FE Finish OHI Standalone & Prep for Launch
-- [ ] **SPRINT GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes & Upload Component investigation
 - [ ] **SPRINT GOAL** All forms: Prod/BE Continue investigating 403 errors in DD, report issues to platform
 - [ ] **SPRINT GOAL** All forms: BE Continue updating Datadog dashboards including new error and volume tracking logic to ensure consistency and accuracy
 - [ ] **SPRINT GOAL** All forms: BE Continue improving logging to trace submissions end to end
 - [ ] **SPRINT GOAL** UX: All forms: Dec and Year End Metrics
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add bene age 65+ indicator
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Compile and Finalize direct deposit changes for engineering
+- [ ] **STRETCH GOAL** 10-10dv2: FE data structure cleanup and discovery for moving sections
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
+- [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes & Upload Component investigation
 
 
 ##
