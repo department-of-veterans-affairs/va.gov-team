@@ -119,9 +119,9 @@
 
 ## Solution Approach
 
-- As of 11/2022, we're going to focus on:
-   - Improving the flow and burden of completing the Household section of the form
-   - Continue gaining insights from various metrics and Medallia feedback
+- In 2026, we're going to focus on:
+   - Improve the communication of application statuses
+   - Look at creating less of a form experience and more of a wholistic health experience, minimize the burden for the Veteran
 
 --- 
 
