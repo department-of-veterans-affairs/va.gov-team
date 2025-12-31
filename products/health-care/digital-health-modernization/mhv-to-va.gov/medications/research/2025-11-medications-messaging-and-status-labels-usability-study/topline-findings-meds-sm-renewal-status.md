@@ -35,6 +35,7 @@ The product is situated within authenticated VA.gov, specifically the medication
 ### <a name="overview"></a>Overview
 
 We conducted remote, moderated usability testing sessions with **12 Veterans** to evaluate how they understand new prescription status labels and use the Secure Messaging–based prescription renewal flow on VA.gov.
+
 Sessions were 60 minutes and used a think-aloud approach, combining a staging environment test user and Figma prototypes to cover both interactions and additional scenarios that could not be reliably tested in staging.
 
 Sessions were divided into two primary parts:
@@ -61,44 +62,39 @@ The goals of this research were to:
 
 ### <a name="testing"></a>Screens and paths used in testing
 
-This study used a combination of **live or staging experiences** and **design prototypes** to evaluate user behavior, understanding, and decision-making. Screens and paths are grouped by **design intent**, rather than by tool, to clarify what each version was meant to test.
+This study used a combination of **Figma prototypes** and a **staging test environment** to evaluate Veterans’ understanding of medication statuses and their ability to complete a prescription renewal request via Secure Messaging.
 
-#### Version A: Baseline or current xperience
+#### Version A: Medication status evaluation (Figma)
 
 **Description:**  
-[Brief explanation of what this version represents (e.g., live experience, staging environment, or current-state design).]
+Figma prototypes were used to evaluate how Veterans noticed and interpreted medication status labels across different medication states.
+
+<!-- INSERT FIGMA SCREENSHOTS HERE -->
+<img width="900" alt="Medication list showing revised status labels" src="LINK" />
+<img width="900" alt="Medication list showing expired status variation" src="LINK" />
 
 **Screens and states included:**
-- [Screen or page type]
-- [Key states, variations, or conditions shown]
-- [Relevant entry points or actions]
-
-<!-- Screenshot placeholder -->
-<!-- Screenshot placeholder -->
+- Medication list with revised status labels
+- Variations across Active, In Progress, and Expired/Inactive statuses
+- Status messaging presented with and without associated actions
 
 ---
 
-#### Version B: Updated or exploratory prototypes
+#### Version B: Secure Messaging renewal flow (staging)
 
 **Description:**  
-[Brief explanation of what changed in this version and why it was introduced.]
+A staging test environment was used to walk through the end-to-end prescription renewal flow via Secure Messaging, including key steps and potential error states.
+
+<!-- INSERT STAGING SCREENSHOTS HERE -->
+<img width="900" alt="Renewal entry point from medication details" src="LINK" />
+<img width="900" alt="Secure Messaging renewal message composition" src="LINK" />
+<img width="900" alt="Renewal confirmation state" src="LINK" />
 
 **Screens and states included:**
-- [Screen or page type]
-- [Key states, variations, or conditions shown]
-- [Relevant entry points or actions]
-
-<!-- Screenshot placeholder -->
-<!-- Screenshot placeholder -->
-
----
-
-#### (Optional) Version C: Additional variants or edge cases
-
-**Description:**  
-[Optional additional version or edge case tested.]
-
-<!-- Screenshot placeholder -->
+- Medication list and details pages with renewal entry points
+- Secure Messaging renewal message composition
+- Confirmation states after submitting a renewal request
+- Error or missing-information states encountered during the flow
 
 ---
 
@@ -138,8 +134,8 @@ This study used a combination of **live or staging experiences** and **design pr
 
 ## <a name="recommendations"></a>Recommendations
 
-1. **Recommendation:** [Actionable recommendation tied to insights]
-2. **Recommendation:** [Actionable recommendation tied to insights]
+1. **Recommendation:** [Actionable recommendation tied to insights]  
+2. **Recommendation:** [Actionable recommendation tied to insights]  
 3. **Recommendation:** [Actionable recommendation tied to insights]
 
 ---
