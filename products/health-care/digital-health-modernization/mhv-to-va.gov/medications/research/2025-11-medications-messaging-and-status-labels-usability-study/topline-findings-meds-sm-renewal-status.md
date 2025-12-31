@@ -140,7 +140,7 @@ A staging test environment was used to walk through the end-to-end prescription 
 
 ---
 
-## <a name="options"></a>Options
+## <a name="options"></a>Resources
 
 [Figma prototype for status testing](https://www.figma.com/proto/puYUxsa9cW7KsKDc1ztAOf/Status-Testing?page-id=0%3A1&node-id=1-5845&viewport=243%2C67%2C0.47&t=TX8HR32UqWDF5uF1-1&scaling=min-zoom)
 
