@@ -9,7 +9,7 @@
 - [Context](#context)
   - [Background](#background)
   - [Overview](#overview)
-  - [Research goals](#goals)
+  - [Research goals and questions](#goals)
   - [Screens and paths used in testing](#testing)
 - [Insights](#insights)
   - [Insight 1](#insight-1)
@@ -56,6 +56,16 @@ The goals of this research were to:
 2. Evaluate whether Veterans can successfully and efficiently use the new Secure messaging renewal flow on VA.gov to request renewals, and identify where they struggle or drop off.
 3. Identify pain points, uncertainties, and other usability issues in the new renewal flow and status messaging that can reasonably be addressed through design and content changes.
 
+### Research questions
+1. Do Veterans understand the revised prescription statuses as we intend, and if not, how are they interpreting them (especially around refill vs. renewal)?
+
+2. Can Veterans successfully and easily complete a medication renewal request using the new Secure Messaging flow on VA.gov, from entry point through confirmation?
+
+3. At what points in the renewal flow or when viewing statuses do Veterans feel uncertain, confused, or stuck, and what is driving that confusion (e.g., wording, layout, navigation)?
+
+4. What aspects of the new statuses and renewal flow (e.g., clarity of language, visibility of key information, guidance on next steps) make the experience easier or more reassuring for Veterans?
+
+5. What changes or improvements do Veterans suggest to the statuses, messaging, or renewal flow to better support how they actually manage their medications today?
 ---
 
 ### <a name="testing"></a>Screens and paths used in testing (Figma and Staging)
