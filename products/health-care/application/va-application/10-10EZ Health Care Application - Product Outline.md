@@ -155,16 +155,17 @@
 </details>
 
 #### Objective 2: Increase trust and satisfaction with the VA Health Care application process
-- *Key result 1: Increase number of application completions across multiple devices for ease of use*
-     - As of 10/2022, the percentage of device use across desktop, mobile and tablet devices have held steady for 7 months
+<details>
+ <summary>Key result 1: Increase number of application completions across multiple devices for ease of use</summary>
+     - in 2022, the percentage of device use across desktop, mobile and tablet devices held steady 
 
-|Device	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|Nov|Dec|Jan|Feb|Mar|
+|Device (2022)	|Apr	|May	|Jun	|Jul	|Aug	|Sep	|Oct|Nov|Dec|Jan|Feb|Mar|
 |-------|----|----|----|----|----|----|----|----|----|----|----|----|
 |Desktop	|71.0%	|70.30%	|70.7%	|71.3%	|73.5%	|72.3%	|72.3%|70.8%|70.2%|71.6%|72.4%|TBD|
 |Mobile|	27.6%	|28.10%	|27.9%	|27.0%	|24.9%	|26.2%|	26.3%|27.6%|28.4%|26.8%|26.2%|TBD|
 |Tablet|	1.4%	|1.50%	|1.4%|	1.6%	|1.6%	|1.5%	|1.4%|1.5%|1.4%|1.6%|1.4%|TBD|
 
-
+</details>
 
 #### Objective 3: Provide an effortless application completion process
 
