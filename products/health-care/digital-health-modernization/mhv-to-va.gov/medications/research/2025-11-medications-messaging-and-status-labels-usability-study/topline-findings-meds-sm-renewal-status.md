@@ -34,19 +34,19 @@ The product is situated within authenticated VA.gov, specifically the medication
 
 ### <a name="overview"></a>Overview
 
-We conducted remote, moderated usability testing sessions with **12 Veterans** to evaluate how they understand new prescription status labels and use the Secure Messaging–based prescription renewal flow on VA.gov.
+We conducted remote, moderated usability sessions with **12 Veterans** to better understand how they interpret new prescription status labels and how confidently they can request a prescription renewal using Secure Messaging on VA.gov.
 
-Sessions were 60 minutes and used a think-aloud approach, combining Figma prototypes and a staging environment test user to support different parts of the study based on what could be reliably evaluated in each environment.
+Sessions were 60 minutes and followed a **think-aloud approach**, using **Figma prototypes** and a **staging test environment** intentionally based on what could be most reliably evaluated in each context.
 
 Sessions were divided into two primary parts:
 
-**Part 1: Participants reviewed prescription statuses**  
-Participants reviewed medication list screens featuring the new prescription status labels using Figma prototypes and described what they noticed, how they interpreted each status, and what actions they believed were available. This helped us understand Veterans’ mental models around medication state, whether participants noticed renewal-related actions, and where status language or presentation caused confusion or misinterpretation.
+**Part 1: Reviewing prescription statuses**  
+Participants reviewed medication list screens featuring the new prescription status labels using Figma prototypes. They described what stood out, how they understood each status, and what actions they believed were available. This helped us understand Veterans’ mental models around medication state, whether renewal-related actions were noticeable, and where status language or presentation introduced confusion or uncertainty.
 
-**Part 2: Participants attempted to request a prescription renewal**  
-Participants attempted to request a medication renewal starting from the Medications tool using a staging test user. After selecting the renewal link, participants were routed to Secure Messaging with a pre-populated renewal request message. This helped us understand whether participants noticed the renewal link, how they interpreted what would happen after selecting it, and whether they could successfully move from Medications into Secure Messaging to complete the request.
+**Part 2: Requesting a prescription renewal**  
+Participants attempted to request a medication renewal starting from the Medications tool using a staging test user. After selecting the renewal link, they were routed into Secure Messaging with a pre-populated renewal request message. This allowed us to observe whether participants noticed the renewal link, how they interpreted what would happen next, and how easily they were able to move from Medications into Secure Messaging to complete the request.
 
-We also tested an error state in which the renewal message was not pre-populated. This allowed us to observe how participants interpreted missing information, how confident they felt completing the request without prefilled content, and whether this state influenced hesitation, trust, or willingness to proceed.
+We also tested an error state where the renewal message was not pre-populated. This helped us understand how participants responded to missing information, how confident they felt continuing without guidance, and whether this experience introduced hesitation or reduced trust in the flow.
 
 ---
 
@@ -55,35 +55,37 @@ We also tested an error state in which the renewal message was not pre-populated
 The goals of this research were to:
 
 1. Evaluate whether Veterans understand the meaning of the new prescription statuses and identify which statuses or label elements cause confusion or misinterpretation.
+
 2. Evaluate whether Veterans can successfully and efficiently use the new Secure Messaging renewal flow on VA.gov to request renewals, and identify where they struggle or drop off.
+
 3. Identify pain points, uncertainties, and other usability issues in the new renewal flow and status messaging that can reasonably be addressed through design and content changes.
 
 ---
 
 ### <a name="testing"></a>Screens and paths used in testing
 
-This study used a combination of Figma prototypes and a staging test environment to evaluate Veterans’ understanding of medication statuses and their ability to complete a prescription renewal request via Secure Messaging.
+This study used a combination of **Figma prototypes** and a **staging test environment** to support different parts of the evaluation.
 
 #### Version A: Medication status evaluation (Figma)
 
 **Description:**  
-Figma prototypes were used to evaluate how Veterans noticed and interpreted medication status labels across different medication states.
+Figma prototypes were used to focus specifically on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
 
 <!-- INSERT FIGMA SCREENSHOTS HERE -->
 <img width="900" alt="Medication list showing revised status labels" src="LINK" />
 <img width="900" alt="Medication list showing expired status variation" src="LINK" />
 
 **Screens and states included:**
-- Medication list with revised status labels
-- Variations across Active, In Progress, and Expired/Inactive statuses
-- Status messaging presented with and without associated actions
+- Medication list with revised status labels  
+- Variations across Active, In Progress, and Expired/Inactive statuses  
+- Status messaging presented with and without associated actions  
 
 ---
 
 #### Version B: Secure Messaging renewal flow (staging)
 
 **Description:**  
-A staging test environment was used to walk through the end-to-end prescription renewal flow via Secure Messaging, including key steps and potential error states.
+A staging test environment was used to walk through the end-to-end prescription renewal flow, beginning in the Medications tool and continuing into Secure Messaging.
 
 <!-- INSERT STAGING SCREENSHOTS HERE -->
 <img width="900" alt="Renewal entry point from medication details" src="LINK" />
@@ -91,16 +93,16 @@ A staging test environment was used to walk through the end-to-end prescription 
 <img width="900" alt="Renewal confirmation state" src="LINK" />
 
 **Screens and states included:**
-- Medication list and details pages with renewal entry points
-- Secure Messaging renewal message composition
-- Confirmation states after submitting a renewal request
-- Error or missing-information states encountered during the flow
+- Medication list and details pages with renewal entry points  
+- Secure Messaging renewal message composition (pre-populated and non-pre-populated states)  
+- Confirmation states after submitting a renewal request  
+- Error or missing-information states encountered during the flow  
 
 ---
 
 ## <a name="insights"></a>Insights
 
-> Insights summarize observed patterns in participant behavior and feedback. Each insight should connect back to one or more research goals.
+> Insights summarize observed patterns in participant behavior and feedback. Each insight connects back to one or more research goals.
 
 ### <a name="insight-1"></a>Insight 1: [Insight title]
 
@@ -136,7 +138,7 @@ A staging test environment was used to walk through the end-to-end prescription 
 
 1. **Recommendation:** [Actionable recommendation tied to insights]  
 2. **Recommendation:** [Actionable recommendation tied to insights]  
-3. **Recommendation:** [Actionable recommendation tied to insights]
+3. **Recommendation:** [Actionable recommendation tied to insights]  
 
 ---
 
