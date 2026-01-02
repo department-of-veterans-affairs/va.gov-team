@@ -26,27 +26,23 @@
 
 ### <a name="background"></a>Background
 
-We are building a new authenticated prescription renewal request flow on VA.gov (via Secure Messaging) to reduce Veterans’ dependence on phone calls and ad-hoc communication for renewals. We are also introducing a new, simplified set of prescription status labels across Oracle Health and VistA to replace existing VistA statuses that are frequently cited as confusing or misleading. We need to understand whether these changes improve Veterans’ ability to understand medication state and manage renewals independently.
+We are building a new authenticated prescription renewal request flow on VA.gov (via Secure messaging) to reduce Veterans’ dependence on phone calls and ad-hoc communication for renewals. We are also introducing a new, simplified set of prescription status labels across Oracle Health and VistA to replace existing VistA statuses that are frequently cited as confusing or misleading. We need to understand whether these changes improve Veterans’ ability to understand medication state and manage renewals independently.
 
-The product is situated within authenticated VA.gov, specifically the medications management and Secure Messaging experiences within My HealtheVet on VA.gov. The experience builds on existing My HealtheVet and VA.gov medications and Secure Messaging tools that many Veterans already use. The status labels and the specific renewal flow design are new iterations on existing functionality, not an entirely new product.
+The product is situated within authenticated VA.gov, specifically the Medications management and Secure messaging experiences within My HealtheVet on VA.gov. The experience builds on existing My HealtheVet and VA.gov Medications and Secure messaging tools that many Veterans already use. The status labels and the specific renewal flow design are new iterations on existing functionality, not an entirely new product.
 
 ---
 
 ### <a name="overview"></a>Overview
 
-We conducted remote, moderated usability sessions with **12 Veterans** to better understand how they interpret new prescription status labels and how confidently they can request a prescription renewal using Secure Messaging on VA.gov.
+We conducted remote, moderated usability sessions with **12 Veterans** to better understand how they interpret new prescription status labels and how confidently they can request a prescription renewal using Secure messaging on VA.gov. Sessions were 60 minutes and followed a think-aloud approach, using Figma prototypes and a staging test environment.
 
-Sessions were 60 minutes and followed a **think-aloud approach**, using **Figma prototypes** and a **staging test environment** intentionally based on what could be most reliably evaluated in each context.
-
-Sessions were divided into two primary parts:
+Sessions were divided into two parts:
 
 **Part 1: Reviewing prescription statuses**  
-Participants reviewed medication list screens featuring the new prescription status labels using Figma prototypes. They described what stood out, how they understood each status, and what actions they believed were available. This helped us understand Veterans’ mental models around medication state, whether renewal-related actions were noticeable, and where status language or presentation introduced confusion or uncertainty.
+Participants reviewed medication list screens featuring the new prescription status labels using a Figma prototype. They described what stood out, how they understood each status, and what actions they believed were available. This helped us understand Veterans’ mental models around medication state, whether renewal-related actions were noticeable, and where status language or presentation introduced confusion or uncertainty.
 
 **Part 2: Requesting a prescription renewal**  
-Participants attempted to request a medication renewal starting from the Medications tool using a staging test user. After selecting the renewal link, they were routed into Secure Messaging with a pre-populated renewal request message. This allowed us to observe whether participants noticed the renewal link, how they interpreted what would happen next, and how easily they were able to move from Medications into Secure Messaging to complete the request.
-
-We also tested an error state where the renewal message was not pre-populated. This helped us understand how participants responded to missing information, how confident they felt continuing without guidance, and whether this experience introduced hesitation or reduced trust in the flow.
+Participants attempted to request a medication renewal starting from the Medications tool using a staging test user. After selecting the renewal link, they were routed into Secure Messaging with a pre-populated renewal request message. This allowed us to observe whether participants noticed the renewal link, how they interpreted what would happen next, and how easily they were able to move from Medications into Secure Messaging to complete the request. We also tested an error state where the renewal message was not pre-populated. This helped us understand how participants responded to missing information, how confident they felt continuing without guidance, and whether this experience introduced hesitation or reduced trust in the flow.
 
 ---
 
@@ -56,7 +52,7 @@ The goals of this research were to:
 
 1. Evaluate whether Veterans understand the meaning of the new prescription statuses and identify which statuses or label elements cause confusion or misinterpretation.
 
-2. Evaluate whether Veterans can successfully and efficiently use the new Secure Messaging renewal flow on VA.gov to request renewals, and identify where they struggle or drop off.
+2. Evaluate whether Veterans can successfully and efficiently use the new Secure messaging renewal flow on VA.gov to request renewals, and identify where they struggle or drop off.
 
 3. Identify pain points, uncertainties, and other usability issues in the new renewal flow and status messaging that can reasonably be addressed through design and content changes.
 
@@ -67,9 +63,8 @@ The goals of this research were to:
 This study used a combination of **Figma prototypes** and a **staging test environment** to support different parts of the evaluation.
 
 #### Version A: Medication status evaluation (Figma)
-
-**Description:**  
-Figma prototypes were used to focus specifically on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
+  
+A Figma prototype was used to focus on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
 
 <!-- INSERT FIGMA SCREENSHOTS HERE -->
 <img width="900" alt="Medication list showing revised status labels" src="LINK" />
@@ -78,13 +73,12 @@ Figma prototypes were used to focus specifically on how Veterans noticed and int
 **Screens and states included:**
 - Medication list with revised status labels  
 - Variations across Active, In Progress, and Expired/Inactive statuses  
-- Status messaging presented with and without associated actions  
-
+- Status messaging shown both with and without a visible renewal link
+  
 ---
 
 #### Version B: Secure Messaging renewal flow (staging)
 
-**Description:**  
 A staging test environment was used to walk through the end-to-end prescription renewal flow, beginning in the Medications tool and continuing into Secure Messaging.
 
 <!-- INSERT STAGING SCREENSHOTS HERE -->
