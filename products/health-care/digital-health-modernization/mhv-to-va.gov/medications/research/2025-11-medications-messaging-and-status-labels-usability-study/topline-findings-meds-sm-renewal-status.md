@@ -34,7 +34,10 @@ The product is situated within authenticated VA.gov, specifically the Medication
 
 ### <a name="overview"></a>Overview
 
-We conducted remote, moderated usability sessions with **12 Veterans** to better understand how they interpret new prescription status labels and how confidently they can request a prescription renewal using Secure messaging on VA.gov. Sessions were 60 minutes and followed a think-aloud approach, using Figma prototypes and a staging test environment.
+We conducted remote moderated usability sessions with **12 Veterans** to explore how they make sense of new prescription status labels and how comfortably they can request a prescription renewal using Secure messaging on VA.gov.
+
+Sessions were 60 minutes and followed a think-aloud approach using a Figma prototype and a staging test environment. Beyond whether participants could complete the flow, this research looked at where the experience felt unclear and what aspects of the designs created friction that could be improved in future iterations.
+
 
 Sessions were divided into two parts:
 
@@ -58,13 +61,13 @@ The goals of this research were to:
 
 ---
 
-### <a name="testing"></a>Screens and paths used in testing
+### <a name="testing"></a>Screens and paths used in testing (Figma and Staging)
 
-This study used a combination of Figma prototypes and a staging test environment to support different parts of the evaluation.
+This research used a combination of a Figma prototype and a staging test environment to support different parts of the study.
 
-#### Version A: Medication status evaluation (Figma)
+#### Figma: Medication status evaluation
   
-A Figma prototype was used to focus on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
+A prototype was used to focus on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
 
 <img
   width="600"
@@ -78,17 +81,17 @@ A Figma prototype was used to focus on how Veterans noticed and interpreted medi
 
 ---
 
-#### Version B: Secure Messaging renewal flow (staging)
+#### Staging: Secure Messaging renewal flow
 
-A staging test environment was used to walk through the end-to-end prescription renewal flow, beginning in the Medications tool and continuing into Secure messaging.
+A staging environment was used to walk through the end-to-end prescription renewal flow starting in the Medications list, routing into Secure Messaging, and returning to the Medications list after the message was successfully sent.
 
 <img width="2874" height="1774" alt="image" src="https://github.com/user-attachments/assets/e7df5640-f9f2-4a06-a458-53ab68c6c551" />
 
-**Screens and states included:**
-- Medication list and details pages with renewal entry points  
-- Secure Messaging renewal message composition (pre-populated and non-pre-populated states)  
-- Confirmation states after submitting a renewal request  
-- Error or missing-information states encountered during the flow  
+1. Medications list with an eligible prescription card displaying a “Send a renewal request” link
+2. Exit modal informing the Veteran they are leaving the Medications tool to send a secure message
+3. Care team selection screen in Secure messaging after initiating the renewal request
+4. Pre-populated renewal message in Secure messaging including medication details
+5. Success alert displayed after the Veteran is routed back to the Medications list page confirming the renewal request message was sent
 
 ---
 
