@@ -47,17 +47,17 @@ Alex Seelig, 3.21.2025
 - Results #1: Reduction of time spent by 10%
 - Results #2: Reduction of bounce rates by 10%
 
-|Spouse | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|Spouse | Baseline Monthly Avg (Jan-Aug 2025) | Target | Dec 2025 (half month)|
 |---| --- | --- | ---|
 |Spouse page views| 4,490 | N/A | N/A|
-|Spouse page Avg time per session| 1m 22s | 1m 15s | TBD|
-|Spouse page Bounce rate| 1.24% | 1.12% | TBD|
+|Spouse page Avg time per session| 1m 22s | 1m 15s | 1m 52s|
+|Spouse page Bounce rate| 1.24% | 1.12% | 1.41%|
 
-|Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
+|Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | Dec 2025|
 |---| --- | --- | ---|
 |Dependents page views| 10,536 | N/A | N/A|
-|Dependents page Avg time per session| 1m 33s | 1m 23s | TBD|
-|Dependents page Bounce rate| 1.37% | 1.23% | TBD|
+|Dependents page Avg time per session| 1m 33s | 1m 23s | 2m 1s|
+|Dependents page Bounce rate| 1.37% | 1.23% | 1.17%|
 
 |Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
 |---| --- | --- | ---|
