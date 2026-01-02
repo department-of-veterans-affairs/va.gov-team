@@ -5,8 +5,7 @@
 ## Overview
 Providing the 10-10EZR health benefits update form online experience allows the Veteran to quickly and easily submit updates to their personal information for the purpose of increasing or maintaining their health benefits, without having to call VA, mail in a paper form or visit a facility to provide the updated information.
 
-**MVP**: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
-Target Delivery: Late November 2023
+**MVP**: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully. Target Delivery: Late November 2023, actual Delivery: Dec 2023 phased launch through April 2024
 
 ## Problem Statement
 
@@ -129,7 +128,7 @@ In future iterations, we plan to review for alternative locations and other syst
      - [x] Infrastructure, Privacy & Security
 
 ### Incident Response info
-- The 1010EZR form is a new form on VA.gov
+- The 1010EZR form is a new form on VA.gov (as of 12/2023)
 - Full form flow
 - Dependent Backend systems
      - Enrollment System
@@ -147,10 +146,10 @@ In future iterations, we plan to review for alternative locations and other syst
           - Day 1-30 - Continue to monitor performance
           - Day 1-10 - Proceed with Release Plan
 - Contacts:
-     - Product Manager - Alex Seelig (alex.seelig@agile6.com), Heather Justice (heather.justice@adhocteam.us)
-     - Product Owner - Patrick Bateman (patrick.bateman@va.gov)
-     - Backend: Lihan Li (lihan@adhocteam.us)
-     - Frontend: Matt Long (matt.long@adhocteam.us)
+     - Product Manager - Alex S, Heather J
+     - Product Owner - Patrick B
+     - Backend: Lihan L
+     - Frontend: Matt L
 
 ## Launch Dates
 - *Target Launch Date*
@@ -194,18 +193,18 @@ In future iterations, we plan to review for alternative locations and other syst
 - 9/1/2023 Key Decision Made to pivot our MVP scope that will reduce the timeline for Design and Frontend development.   
 :bangbang: We are now targeting a Late November release :calendar: 
      - MVP: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully.
-     - In-Scope: 
-          - Authenticated flow
-          - Display all data fields with the applicable pre-filled data, if any (exception Dependents & Insurance)
-          - Provide context/alert informing the Veteran that data has been pre-filled for them (existing on EZ)
-          - Veteran name, DOB & SSN information will be displayed as read-only (existing on EZ)
-          - Dependents and Insurance screens will utilize the multiple response pattern (existing in Dependents page on EZ)
-          - Standard Review screen will be displayed at the end of the form (existing on EZ)
-     - Out of Scope:
-          - Read-only/Review-type pages in place of each section (in-line editing)
-          - Read-only/Review-type pages in between each section (yes/no update questions)
-          - Short-form flows (specifically for those with 50% or higher disability rating)
-          - Unauthenticated flow
+          - In-Scope: 
+               - Authenticated flow
+               - Display all data fields with the applicable pre-filled data, if any (exception Dependents & Insurance)
+               - Provide context/alert informing the Veteran that data has been pre-filled for them (existing on EZ)
+               - Veteran name, DOB & SSN information will be displayed as read-only (existing on EZ)
+               - Dependents and Insurance screens will utilize the multiple response pattern (existing in Dependents page on EZ)
+               - Standard Review screen will be displayed at the end of the form (existing on EZ)
+          - Out of Scope:
+               - Read-only/Review-type pages in place of each section (in-line editing)
+               - Read-only/Review-type pages in between each section (yes/no update questions)
+               - Short-form flows (specifically for those with 50% or higher disability rating)
+               - Unauthenticated flow
 
 ### Key Dates
 
@@ -242,7 +241,7 @@ In future iterations, we plan to review for alternative locations and other syst
 - Team Name: 10-10 Health Apps team
 - GitHub Label(s): 1010-ezr
 - Slack channel: #1010-health-apps
-- Product POCs: Alex Seelig, Heather Justice
+- Product POCs: Alex S, Heather J
 
 </details>
 
@@ -250,11 +249,11 @@ In future iterations, we plan to review for alternative locations and other syst
 
 <details>
  
- - DEPO Lead: Patrick Bateman
- - PM: Alex Seelig
- - Engineering: Matt Long (FE), Lihan Li (BE), Joshua Drumm (BE)
- - QA: Fletcher Bonds
- - Research/Design: Hieu Vo
+ - DEPO Lead: Patrick B
+ - PM: Alex S
+ - Engineering: Matt L (FE), Lihan L (BE), Joshua D (BE)
+ - QA: Fletcher B
+ - Research/Design: Hieu V
  
 </details>
 
@@ -264,15 +263,15 @@ In future iterations, we plan to review for alternative locations and other syst
 <details>
  
 - Health Enrollment Centers
-     - Stacey Echols
-     - Edward Horne
-     - Simone Gully
-     - Shana Watson
-     - Jessica Soza
-     - Bryan Burgan
-     - Jennifer Mdoe
-     - Ambroja Watson
-     - Amanda Scully
+     - Stacey E
+     - Edward H
+     - Simone G
+     - Shana W
+     - Jessica S
+     - Bryan B
+     - Jennifer M
+     - Ambroja W
+     - Amanda S
  
 </details>
 
@@ -283,21 +282,21 @@ In future iterations, we plan to review for alternative locations and other syst
      - Slack Channel: #va-profile
      - [VA Profile Sharepoint](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB) (must be on VA network)
      - [VA Profile SwaggerUI docs](https://dvagov.sharepoint.com/sites/OITEPMOVAPROPUB/SitePages/VA-Profile-SwaggerUI-Links.aspx?csf=1&web=1&e=1BdP8h) (must be on VA network)
-     - Emily Gupta is part of this team and had been contacted in February 2023 regarding the EZR and some data that might be available.  While the communication did not offer any answers to our questions at the time, we were able to get the email contact (above) and VA Profile sharepoint site with some details.
+     - Emily G is part of this team and had been contacted in February 2023 regarding the EZR and some data that might be available.  While the communication did not offer any answers to our questions at the time, we were able to get the email contact (above) and VA Profile sharepoint site with some details.
 
 - MyHealtheVet (MHV on VA.gov)
-     - Lynne Johnson - Delivery Manager
-     - Tom Anderson - Product Manager
-     - Patrick Bateman - OCTO PO
+     - Lynne J - Delivery Manager
+     - Tom A - Product Manager
+     - Patrick B - OCTO PO
      - Slack Channel: #mhv-on-vagov-portal-home
 
 - Digital Health Pathway (not sure if these folks can help)
-     - Abbie Burton - Product Manager
-     - Stefany Holguin - OCTO PO
+     - Abbie B - Product Manager
+     - Stefany H - OCTO PO
 
 - MHV Secure Messaging and MHV Medica Records
-     - Bryan Riley - Delivery/Product Manager
-     - Leila Rassi - OCTO PO
+     - Bryan R - Delivery/Product Manager
+     - Leila R - OCTO PO
 
 </details>
 
