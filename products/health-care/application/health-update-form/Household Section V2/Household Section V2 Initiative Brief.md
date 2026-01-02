@@ -139,8 +139,10 @@ Alex Seelig, 3.21.2025
 ## Screenshots
 
 ### Before
+<img width="373" height="736" alt="image" src="https://github.com/user-attachments/assets/7a5e999b-f5bc-4ffa-8c0e-f3671acce1e2" />
 
 ### After
+<img width="2172" height="1426" alt="image" src="https://github.com/user-attachments/assets/3763aa01-b5c9-4503-93f2-68a7e73d1a90" />
 
 ---
 
