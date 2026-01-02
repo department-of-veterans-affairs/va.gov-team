@@ -32,7 +32,7 @@ We will conduct QA testing in the va.gov staging environment, and participate in
 - Staged rollout TBD.
 - Monitoring by development team, product & delivery leads.
 
-- ### Rollback Plan: 
+### Rollback Plan: 
 Tech Lead, Design Lead, PM, and PO will monitor DataDog analytics. If the team notices a spike in errors, the team will disable the feature, debug, and re-release.
 
 
