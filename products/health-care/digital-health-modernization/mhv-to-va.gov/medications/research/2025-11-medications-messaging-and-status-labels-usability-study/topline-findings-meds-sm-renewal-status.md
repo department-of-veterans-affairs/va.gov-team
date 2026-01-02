@@ -60,31 +60,29 @@ The goals of this research were to:
 
 ### <a name="testing"></a>Screens and paths used in testing
 
-This study used a combination of **Figma prototypes** and a **staging test environment** to support different parts of the evaluation.
+This study used a combination of Figma prototypes and a staging test environment to support different parts of the evaluation.
 
 #### Version A: Medication status evaluation (Figma)
   
 A Figma prototype was used to focus on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
 
-<!-- INSERT FIGMA SCREENSHOTS HERE -->
-<img width="900" alt="Medication list showing revised status labels" src="LINK" />
-<img width="900" alt="Medication list showing expired status variation" src="LINK" />
+<img
+  width="600"
+  alt="Medication list showing prescription status variations"
+  src="https://github.com/user-attachments/assets/829fbc55-5813-408b-93cd-e65b1561ec78"
+/>
 
-**Screens and states included:**
-- Medication list with revised status labels  
-- Variations across Active, In Progress, and Expired/Inactive statuses  
-- Status messaging shown both with and without a visible renewal link
-  
+- Expanded filter view showing medication statuses
+- Medication list with individual medication cards each displaying a different status (Active, In Progress, or Expired)
+- Medication cards shown both with and without a visible "send a renewal request message" link
+
 ---
 
 #### Version B: Secure Messaging renewal flow (staging)
 
-A staging test environment was used to walk through the end-to-end prescription renewal flow, beginning in the Medications tool and continuing into Secure Messaging.
+A staging test environment was used to walk through the end-to-end prescription renewal flow, beginning in the Medications tool and continuing into Secure messaging.
 
-<!-- INSERT STAGING SCREENSHOTS HERE -->
-<img width="900" alt="Renewal entry point from medication details" src="LINK" />
-<img width="900" alt="Secure Messaging renewal message composition" src="LINK" />
-<img width="900" alt="Renewal confirmation state" src="LINK" />
+<img width="2874" height="1774" alt="image" src="https://github.com/user-attachments/assets/e7df5640-f9f2-4a06-a458-53ab68c6c551" />
 
 **Screens and states included:**
 - Medication list and details pages with renewal entry points  
