@@ -136,6 +136,16 @@ We built a standalone EZR form online.  This is an authenticated experience only
 - 10/21/2024: Update "Need Help" section with new Accredited Representative content (replacing VSO content)
 - 10/15/2024: Launched Updates to Submission failure and In-progress email templates within VA Notify (aligning with CAIA and VAN templates)
 - 12/04/2024: Launched Toxic Exposure improvements (question branching logic and content updates)
+- 08/18/2025: Launched prefill for Dependents section
+- 09/22/2025: Launched Emergency Contact and Next of Kin pages, prefilled (maximum of 2 contacts each)
+- 09/25/2025: Launched PDF Download (on submission or submission failure)
+- 11/14/2025: Updated Intro page with Dental coverage information
+- 12/24/2025: Launched prefill for Spouse section
+- TBD: Launch read-only content to display previous year's reported financials (income, deductibles)
+- TBD: Launch Military Service History questions pages
+- TBD: Launch Form status updates on MyVA to include submission in progress & received
+- TBD: Launch Choose your own adventure (aka task list), redesigning the workflow of the form
+- TBD: Launch edit function on VA.gov profile page for Emergency Contact & Next of Kin
 
 
 
@@ -143,29 +153,9 @@ We built a standalone EZR form online.  This is an authenticated experience only
 ---
 
 ## Solution Narrative
-
-### Current Status
-- New form being built online
-     - 12/20/2023 - EZR Form launched at 10% over the holiday week
-     - 04/11/2024 - Full launch at 100%
-
-### [Zero Silent Failures Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Zero%20Silent%20Failure%20Checklist.MD)
-
-#### Key deliverables
-
-- Design documentation
-   - [Proposed wireflows](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/p/2243222A-201E-413F-8CC2-8A8C237726DC/canvas)
-   - [Sketch Design and User Flow](https://www.sketch.com/s/912cab8e-d234-44dd-be1f-2bedb3f50b22/v/Mrk8ab/p/A0C657F6-3318-45A0-93CB-246BA8722E37/canvas?posX=-3289.158203125&posY=-10403.73046875&zoom=0.25)
-   - [Content Source of Truth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR-application-content.md)
-- [Research/Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research)
-- [Technical documentation folder]
-- How to access and test
-    - [Staging env](https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
-    - [Testing documentation - TestRail](https://dsvavsp.testrail.io/index.php?/runs/view/4963&group_by=cases:section_id&group_order=asc)
-    - [Test/Use cases & users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-1010EZR-Update-health-care-benefits.md)
-    - [A11y test case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/69253)
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
-- [Production env](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
+### Designs
+- [Figma production file](https://www.figma.com/design/FIol4hCGVx9eTrY0AXDmnl/10-10EZR-Production?node-id=0-1399&p=f&t=ey2ypoqbR0FpA8aE-0) for production source of truth
+- [Figma working file](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=0-1&p=f&t=97ZZGWDgjbxuR6BE-0) for work in progress, proposals and experiments
 
 ### Key Decisions
 - 8/15/2023 - After talking with our HEC Stakeholders and the PRA team (Paper Reduction Act) in [July's Stakeholder meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/product/Bi-weekly%20Stakeholder%20Mtg%20notes/2023-07-24%20PRA%20discussion%20on%20EZR%20with%20HEC%20stakeholders.md), and explaining our proposal to incorporate EZR updates within the VA.gov Profile page, it was communicated from PRA team to our PO, Patrick Bateman, that they would like us to stick closer to something like a standalone authenticated workflow.
@@ -185,19 +175,11 @@ We built a standalone EZR form online.  This is an authenticated experience only
                - Read-only/Review-type pages in between each section (yes/no update questions)
                - Short-form flows (specifically for those with 50% or higher disability rating)
                - Unauthenticated flow
-
-### Key Dates
-
-- May 2023: Initial discovery
-- August 2023: Kickoff with outline & begin design
-- Sept: Design work ready
-- Oct: Development complete
-- Oct: Usability testing kickoff
-- Nov: Complete QA
-- Nov: Complete UAT
-- Dec: Complete E2E testing
-- Dec 20: Launched to 10% of users
-- April: Complete phased launch at 100%
+      
+- Spring 2025 - Decision to include maximum 2 each of Emergency Contact and Next of Kin contacts. This was decided due to the VES system having 2 contacts each and to limit to only one on the form would cause data conflicts
+     - If the contact is removed online, the secondary contact will take its place (in VES) but the Veteran would not see this on the online form.
+     - It could cause confusion for the Veteran who would be expecting to see both of their contacts listed.
+ 
 
 ---
    
