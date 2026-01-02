@@ -174,3 +174,6 @@
 | 172 | [How to resolve a dispute with your builder](https://www.va.gov/resources/how-to-resolve-a-dispute-with-your-builder/) | Housing assistance | 9/30/25 |
 | 173 | [Getting vaccines at VA or in-network community facilities](https://www.va.gov/resources/getting-vaccines-at-va-or-in-network-community-facilities/) | Health care | 11/7/25 |
 | 174 | [Legal and financial planning services for Primary Family Caregivers](https://www.va.gov/resources/legal-and-financial-planning-services-for-primary-family-caregivers/) | Family and caregiver benefits | 11/7/25 |
+| 175 | [How can I get my 1095-B tax form as a Veteran?](https://www.va.gov/resources/how-can-i-get-my-irs-1095-b-tax-form-as-a-veteran/) | Health care | 11/19/25 |
+| 176 | [How can I get my 1095-B tax form as a family member?](https://www.va.gov/resources/how-can-i-get-my-irs-1095-b-tax-form-as-a-family-member/) | Health care | 11/19/25 |
+| 177 | [What's an informatl conference and how do I ask for one?](https://www.va.gov/resources/whats-an-informal-conference-and-how-do-i-ask-for-one/) | Decision reviews and appeals | 12/9/25 |
