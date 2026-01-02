@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: November 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 67.4% (0.0% change from last period)
