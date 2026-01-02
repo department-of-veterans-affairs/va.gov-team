@@ -5,7 +5,7 @@
 - [Research Checklist](#research-checklist)
 - [Handling Sensitive Information](#handling-sensitive-information)
 - [Research Planning](#research-planning)
-- [Recruitment](#recruitment)
+- [Recruitment and Scheduling](#recruitment-and-scheduling)
 - [Conduct User Sessions](#conduct-user-sessions)
 - [Synthesis](#synthesis)
 - [Share and document research](#Share-and-document-research)
@@ -59,6 +59,7 @@ While the details of each step may differ based on the type of research being co
 
 
 ## Recruitment and Scheduling
+While the make-up of research participants may vary based on the product's target user group (such as primary care physicians or LCS coordinators), every research study should strive to include a 50/50 split between CPRS and Oracle Health EHR users and as we are getting started, a minimum of 1 Oracle Health EHR user. Unless the product being researched will never be used by both EHRs.
 
 ### Recruitment Channels 
 1. **CDS Research Participant Database**  
@@ -78,33 +79,32 @@ While the details of each step may differ based on the type of research being co
 
 <details>
 
-- Program and Product leads should only have access by request if they need to interact with the data and research activities (such as doing recruitment). 
-
-- Other staff and projects conducting research in support of understanding the clinical experience and building clinical decision support tools may need either a participant list to help with their recruitment efforts or access to the database depending on the frequency of the need. 
-
-- All requests beyond the CDS Collaborative HCD members should be sent to and approved by the VA HCD lead
-
-- Members who no longer need access should be removed. 
-
-- Shared support services owns the database (can add/remove permissions)
-
-- The database is synced to the sign-up form and monitored by the research lead to ensure it's staying synced, however, all CDS HCD practitioners should add their own contacts to the database and update "last contacted" when contacting participants to participate in studies.
-
+**Syncing and Updating**
+- The database is synced to the sign-up form which covers the blue columns. The yellow-orange columns are not associated with form fields and are for our own notes and management purposes.
+- While the database syncs to the sign-up form, it does not overwrite changes to any of the blue columns. For example, if a user marked CPRS as their EHR and then they migrated to Oracle Health, we can change the cell to Oracle Health and it will not revert back to CPRS when syncing. The syncing process looks for new records and adds them to the bottom of the list.
+- Only one submission is allowed per VA email. Therefore HCD pratitioners need to manually add new particpants directly into the spreadsheet. Check first to ensure the participant is not already in the database. Duplicates will arise only from manual entires.
+- All CDS HCD practitioners should add their own contacts to the database and update "last contacted" when contacting participants to participate in studies.
 - "Last contacted" column ensures we are not contacting participants for multiple studies at the same time. Use only MM/YYYY format so we do not create an opportunity for people to be connected to specific studies.
-  
-- For reserach participants who no longer want to be contacted, mark "No" in the "Agree to Participate" column.
-
-- Soft limit - do not contact a participant for more than 1 study every 2 months. So if they participated in something in September, don't reach out again until November. Use your judgement based on the rapport you have with a participant to decide if additional outreach would be OK. You can also ask another researcher if they have a sense of how much a particular clinician likes to engage.
-
-- Every research study should strive to include a 50/50 split between CPRS and Oracle Health EHR users and as we are getting started, a minimum of 1 Oracle Health EHR user. Unless the product being researched will never be used by both EHRs.
+- Soft limit: do not contact a participant for more than 1 study every 2 months. So if they participated in something in September, don't reach out again until November. Use your judgement based on the rapport you have with a participant to decide if additional outreach would be OK. You can also ask another researcher if they have a sense of how much a particular clinician likes to engage.
+- For research participants who no longer want to be contacted, mark "No" in the "Agree to Participate" column.
 - This research participant database should **NOT** be used as a study level participant tracker. We do not want to be able to connect the dots of participants to quotes or comments to maintain participant's anonymity.
 - Study level trackers should be created in the VA space but on the researcher's personal OneDrive (not in a shared team drive) and shared with either the HCD lead or another HCD member to have one backup person with access. [Here is an example template that can be copied for individual use.](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/_layouts/15/Doc.aspx?sourcedoc=%7BCB1A98E8-3826-46BD-9279-CBCC5D8149CF%7D&file=CDSC%20Research%20Participant%20Study%20Tracker.xlsx&action=default&mobileredirect=true)
+
+**Database Access**
+- Program and Product leads should only have access by request if they need to interact with the data and research activities (such as doing recruitment). 
+- Other staff and projects conducting research in support of understanding the clinical experience and building clinical decision support tools may need either a participant list to help with their recruitment efforts or access to the database depending on the frequency of the need. 
+- All requests beyond the CDS Collaborative HCD members should be sent to and approved by the VA HCD lead
+- Members who no longer need access should be removed. 
+- Shared support services owns the database (can add/remove permissions)
+
+**Sharing the sign-up form**
+
 - Do not mass email [this sign-up form](https://forms.office.com/pages/responsepage.aspx?id=Ixtf6a-r7kWCHberJRqzvwJmS8KCiL9DiWDzYKVU_XFUQUVLTjNNUjNPSDc3MkVNUjE2M0pERUtaOS4u&origin=lprLink&route=shorturl) to distribution lists, however, you can put the link in your email signature or share directly with other clinicians to pass along to their colleagues.
 
 
 </details>
 
-### Outreach Templates  
+### Outreach & Scheduling  
 The following templates can be used and modified to fit the purpose of your outreach to clinicians when recruiting participants for HCD research.
 
 When connecting with clinicians, it's important to:
@@ -115,6 +115,10 @@ When connecting with clinicians, it's important to:
 - let them know that their participation is voluntary and their responses are kept confidential and their anonymity is protected
 - give them a way to opt out of future outreach for research activities
 
+> [!TIP]
+> Start recruitment about 2-4 weeks out from your first session. Send outreach emails in batches. Start with emailing 4-6 potential candidates. Every 24-48 hours, email about 2-3 more until you reach your target number of participants.
+> 
+#### Outreach Templates
 <details>
  
 **Cold outreach**
