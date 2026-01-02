@@ -132,7 +132,7 @@ We built a standalone EZR form online.  This is an authenticated experience only
 - 12/20/2023: EZR Form launched at 10% over the holiday week
 - 04/11/2024: Full launch at 100%
 - 03/05/2024: Launched Toxic Exposure questions added to form
-- 06/20?/2024: Launched aility to upload documents with submission
+- 06/20/2024: Launched ability to upload documents with submission
 - 10/21/2024: Update "Need Help" section with new Accredited Representative content (replacing VSO content)
 - 10/15/2024: Launched Updates to Submission failure and In-progress email templates within VA Notify (aligning with CAIA and VAN templates)
 - 12/04/2024: Launched Toxic Exposure improvements (question branching logic and content updates)
