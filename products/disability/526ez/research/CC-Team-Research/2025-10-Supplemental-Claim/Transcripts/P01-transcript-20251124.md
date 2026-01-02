@@ -17,24 +17,24 @@ P01: Yes.
 00:00:39
 Maddie - Moderator: Okay, and about how many times?
  
-P01: Maybe aboutÉ I think I'm on my third right now.
+P01: Maybe about... I think I'm on my third right now.
  
 00:00:48
 Maddie - Moderator: Okay. And do you have an idea of how many disabilities the VA has approved?
  
-P01: They've approvedÉ Maybe 5?
+P01: They've approved... Maybe 5?
  
 P01: I think 5, maybe more than that, but I think 5.
  
 00:01:09
 Maddie - Moderator: Okay, okay. And do you mind telling me what some of those are?
  
-P01: Yes, so PTSD, back, right shoulder, kneeÉ
+P01: Yes, so PTSD, back, right shoulder, knee...
  
 P01: Actually, maybe 4. I think that might be it right now.
  
 00:01:27
-Maddie - Moderator: Okay, okay, great. And whatÉ do you have an idea of what your overall disability percent is?
+Maddie - Moderator: Okay, okay, great. And what... do you have an idea of what your overall disability percent is?
  
 P01: I'm currently 80%.
  
@@ -48,13 +48,13 @@ Maddie - Moderator: And so we're going to be evaluating a couple of prototypes. 
 Maddie - Moderator: And so I'm going to put a link to the prototype in the Zoom chat, and then you can navigate to open that link, and once you have it open, please share your screen so we can see what you're doing. Okay. So I am going to copy and paste that in the Zoom chat now.
  
 00:02:23
-Maddie - Moderator: Let's see here, chatÉ
+Maddie - Moderator: Let's see here, chat...
  
-P01: AlrightÉ
+P01: Alright...
  
 P01: Let's see
  
-P01: AndÉ let me get to sharing my screen.
+P01: And... let me get to sharing my screen.
  
 00:02:46
 Maddie - Moderator: Okay.
@@ -94,7 +94,7 @@ Kim: Good question. I'm not seeing P01's screen. Do you see it, Maddie?
 00:04:00
 Maddie - Moderator: I do.
  
-Kim: Okay, I wonderÉ What is wrong with my thing?
+Kim: Okay, I wonder... What is wrong with my thing?
  
 00:04:05
 Maddie - Moderator: I've noticed there's been a Zoom update, and sometimes it appears as another tab within the Zoom window.
@@ -114,7 +114,7 @@ Maddie - Moderator: Okay.
 00:04:44
 Maddie - Moderator: And so, what are you noticing about this screen?
  
-P01: So I'm adding my, looking for the condition that I'm trying toÉ
+P01: So I'm adding my, looking for the condition that I'm trying to...
  
 P01: trying to claim, I guess.
  
@@ -126,9 +126,9 @@ Maddie - Moderator: Okay.
 00:05:08
 Maddie - Moderator: And so, what's going through your mind as, you're considering what to do here?
  
-P01: So it's prettyÉ it's pretty self-explanatory. If I'm trying to,
+P01: So it's pretty... it's pretty self-explanatory. If I'm trying to,
  
-P01: I guess, reclaim a condition that was denied before. It'sÉ
+P01: I guess, reclaim a condition that was denied before. It's...
  
 P01: it's giving me everything that I'm really looking for. It's not, you know, does it seem too difficult right now?
  
@@ -140,7 +140,7 @@ Maddie - Moderator: So you've selected, a condition the VA previously denied, th
  
 P01: And then it says, add a condition. What condition would I like to add?
  
-P01: It seems like it repeated whatÉ adjusted.
+P01: It seems like it repeated what... adjusted.
  
 00:05:54
 Maddie - Moderator: You know.
@@ -157,7 +157,7 @@ P01: Alright, so previously denied conditions, you can appeal the denied conditi
  
 P01: That your service calls your conditioner.
  
-P01: What condition would you like to file a supplemental claim for? Okay, so it gives me the three claims that were denied previously, and I'm gonna add asthma, because that's what IÉ
+P01: What condition would you like to file a supplemental claim for? Okay, so it gives me the three claims that were denied previously, and I'm gonna add asthma, because that's what I...
  
 P01: Want to reclaim.
  
@@ -172,13 +172,13 @@ P01: Neither relevant evidence. We haven't considered it before.
  
 P01: Any deadlines made.
  
-P01: PrettyÉ seemsÉ again, it seems pretty simple. There's nothing,
+P01: Pretty... seems... again, it seems pretty simple. There's nothing,
  
-P01: nothing too difficult, I mean, self-explanatory. If I want to, claim a condition that was denied before, one of the first bullets says I need to newÉ either have new or relevant evidence, which,
+P01: nothing too difficult, I mean, self-explanatory. If I want to, claim a condition that was denied before, one of the first bullets says I need to new... either have new or relevant evidence, which,
  
-P01: makes sense, and then if the law is changed, as well, which, I guess thatÉ with the condition thatÉ the asthma that was denied before, I don't know the,
+P01: makes sense, and then if the law is changed, as well, which, I guess that... with the condition that... the asthma that was denied before, I don't know the,
  
-P01: The reason behind thatÉ ButÉ
+P01: The reason behind that... But...
  
 P01: if I have all the proper documents, then I could continue to
  
@@ -187,35 +187,35 @@ P01: continue to, I guess, file this claim again.
 00:08:01
 Maddie - Moderator: Okay.
  
-P01: It seems like it doesn't seemÉ again, it doesn't seemÉ
+P01: It seems like it doesn't seem... again, it doesn't seem...
  
 P01: Like anything that's too difficult on here.
  
 00:08:07
 Maddie - Moderator: Okay, so what would you do next, now that you've selected asthma?
  
-P01: SoÉ I will continue.
+P01: So... I will continue.
  
 00:08:13
 Maddie - Moderator: Okay. Yeah, you can go ahead and do that.
  
 P01: You submit a supplemental claim if you disagree with our previous decision, which is what I'm doing. I do disagree with the previous condition, decision, so, you have a new irrelevant evidence.
  
-P01: So it'sÉ it'sÉ
+P01: So it's... it's...
  
 P01: saying the same thing as in, like, the previous, I guess, screens, just to make sure that I understand that,
  
 P01: if I want to,
  
-P01: Submit another claim thatÉ Submit a claim that was previously denied, that I make sure I need to have either new or relevant evidence.
+P01: Submit another claim that... Submit a claim that was previously denied, that I make sure I need to have either new or relevant evidence.
  
 P01: You'd like to review us to review. You'd like to review your claim based on a new law, such as the PAT Act. Okay, new evidence is information we haven't considered before. Relevant evidence is information that proves or disapproves something in your claim.
  
-P01: Except for the form, you can upload evidence. Okay, so this, thisÉ they're just letting me know that, I can upload my new, orÉ
+P01: Except for the form, you can upload evidence. Okay, so this, this... they're just letting me know that, I can upload my new, or...
  
 P01: Relevant evidence, coming up.
  
-P01: On the next screen, I assume, soÉ This isÉ Again, pretty self-explanatory.
+P01: On the next screen, I assume, so... This is... Again, pretty self-explanatory.
  
 00:09:24
 Maddie - Moderator: It doesn't seem too difficult.
@@ -230,44 +230,44 @@ Maddie - Moderator: Okay, yep, go ahead.
  
 P01: Review your conditions as undeniable by the VA on March 14th, supplemental claim based on new relevant evidence or change in law. Okay.
  
-P01: Okay, so they're letting me know that what, I need toÉ they're just letting me know, or showing me that
+P01: Okay, so they're letting me know that what, I need to... they're just letting me know, or showing me that
  
-P01: trying to claim my asthma again, letting me know that it was denied, and that I understand that I need to have either relevant or evidence, new evidence, or if it's a change in law. If I have another condition, yes or no, but whichÉ
+P01: trying to claim my asthma again, letting me know that it was denied, and that I understand that I need to have either relevant or evidence, new evidence, or if it's a change in law. If I have another condition, yes or no, but which...
  
 P01: Not right now, I'm just blaming to asthma.
  
 P01: So I would hit no.
  
 00:10:09
-Maddie - Moderator: Okay, well, what, before weÉ
+Maddie - Moderator: Okay, well, what, before we...
  
 P01: I'm sorry.
  
 00:10:12
-Maddie - Moderator: That's okay, before we progress past this screen, what is going through your mind as you look at it, or anything about the information here? Does it feelÉ
+Maddie - Moderator: That's okay, before we progress past this screen, what is going through your mind as you look at it, or anything about the information here? Does it feel...
  
 00:10:23
 Maddie - Moderator: Yeah, I won't finish that, I'll let you.
  
-P01: No, no, yeah, yeah, so again, no, it's getting right to the point. It's not giving me any information that I don't need. It's like, look, you know, if youÉ if you're filing for asthma again, or whatever claim it may be, this is what you need to have, and it jumps right to the point, so it doesn'tÉ
+P01: No, no, yeah, yeah, so again, no, it's getting right to the point. It's not giving me any information that I don't need. It's like, look, you know, if you... if you're filing for asthma again, or whatever claim it may be, this is what you need to have, and it jumps right to the point, so it doesn't...
  
-P01: give me a whole bunch of unnecessary information, which is what I like, soÉ
+P01: give me a whole bunch of unnecessary information, which is what I like, so...
  
 00:10:48
 Maddie - Moderator: Okay, and so we're going to say that one of the conditions that you're already getting benefits for has gotten worse, and you want to ask for a rating increase within this same form. So, without clicking, tell me what you would do next.
  
-P01: HmmÉ I'll probably clickÉ
+P01: Hmm... I'll probably click...
  
-P01: Do you have another condition to add? Now, maybe edit, because maybe I misread something, or saw something that, I didn't see something that I should have clicked, but I don't see anywhereÉ
+P01: Do you have another condition to add? Now, maybe edit, because maybe I misread something, or saw something that, I didn't see something that I should have clicked, but I don't see anywhere...
  
 P01: And I have not seen anywhere to where I can add
  
 P01: Or click on something that says that
  
-P01: I'm sorry, you said that I'm trying to claim something that's gotten worse. Yeah, I hadn'tÉ I didn't see anything that says I should claim something that's gotten worse. It's allÉ it's only, like, new evidence or relevant evidence.
+P01: I'm sorry, you said that I'm trying to claim something that's gotten worse. Yeah, I hadn't... I didn't see anything that says I should claim something that's gotten worse. It's all... it's only, like, new evidence or relevant evidence.
  
 00:11:48
-Maddie - Moderator: Okay, so, let's seeÉ whereÉ this is going toÉ we're thinking of this almost as, like, let's say you have another condition that you're already getting benefits for that's gotten worse. So in the same claim where you're filing a supplemental claim for asthma.
+Maddie - Moderator: Okay, so, let's see... where... this is going to... we're thinking of this almost as, like, let's say you have another condition that you're already getting benefits for that's gotten worse. So in the same claim where you're filing a supplemental claim for asthma.
  
 P01: And then you have another condition that's gotten worse.
  
@@ -292,13 +292,13 @@ Maddie - Moderator: Okay, so yeah, you can go ahead and do that.
 00:12:34
 Maddie - Moderator: Okay, and so before we click on anything here, I want to ask you some questions about this screen. So what do you think about how some of the content here is organized?
  
-P01: GeeÉ So it shows me everything that's, that I am currently,
+P01: Gee... So it shows me everything that's, that I am currently,
  
 P01: getting benefits for, are things that I've claimed before. It shows me my rating, which is good.
  
-P01: ConditionÉ
+P01: Condition...
  
-P01: But I don't seeÉ I guess ifÉ if IÉ one of theÉ these are my only, conditions that I'mÉ aside of the asthma, the other conditions that I'm receiving benefits for, so if I want to increase one of these, then I would select one of, one of these, but I don't seeÉ
+P01: But I don't see... I guess if... if I... one of the... these are my only, conditions that I'm... aside of the asthma, the other conditions that I'm receiving benefits for, so if I want to increase one of these, then I would select one of, one of these, but I don't see...
  
 P01: I'm assuming these are the only conditions that I'm receiving currently.
  
@@ -312,12 +312,12 @@ Maddie - Moderator: Okay.
  
 P01: Did we have to add?
  
-P01: Okay, and thenÉ I will click continue.
+P01: Okay, and then... I will click continue.
  
 00:14:10
 Maddie - Moderator: Okay, and before you do that, what do you expect to happen?
  
-P01: I expect theÉ the next screen would be something to where I could add, maybe,
+P01: I expect the... the next screen would be something to where I could add, maybe,
  
 P01: A reason, maybe add some type of documents or something showing my reason for, wanting that increase.
  
@@ -333,20 +333,20 @@ P01: Okay, previous rating, like a new relevant item.
  
 P01: appealing.
  
-P01: SeemsÉ to me, it seems kind of the same, but it's just worded differently. Because both of them, you're, receiving anÉ You're trying to get an increase.
+P01: Seems... to me, it seems kind of the same, but it's just worded differently. Because both of them, you're, receiving an... You're trying to get an increase.
  
 00:15:23
 Maddie - Moderator: Okay, is there something that's, like, specifically unclear or confusing about the two options?
  
 P01: People's radio, and I have new relevant evidence.
  
-P01: Yeah, it's justÉ it's just the wordiness of, I'm appealing, but if my condition's gotten worse and I'm applying for an increase, that means I'm appealing that as well.
+P01: Yeah, it's just... it's just the wordiness of, I'm appealing, but if my condition's gotten worse and I'm applying for an increase, that means I'm appealing that as well.
  
-P01: So, yeah, it seemsÉ I honestly wouldn't know which one.
+P01: So, yeah, it seems... I honestly wouldn't know which one.
  
-P01: To click on, becauseÉ
+P01: To click on, because...
  
-P01: if I have, relevant evidence as well, because that's what I'm expecting, because if my condition got worse and I'm applying for an increase, I'm gonna have to show some type of documentation, showing that, I, you know, I should get that increase, so ifÉ
+P01: if I have, relevant evidence as well, because that's what I'm expecting, because if my condition got worse and I'm applying for an increase, I'm gonna have to show some type of documentation, showing that, I, you know, I should get that increase, so if...
  
 P01: Yeah, I honestly wouldn't know which one to click on.
  
@@ -354,9 +354,9 @@ P01: Yeah, I honestly wouldn't know which one to click on.
 Maddie - Moderator: Okay, so for this study, for, let's say, for this scenario specifically,
  
 00:16:19
-Maddie - Moderator: again, we'reÉ so imagine that you visited your doctor last month, they told you your hypertension had gotten worse, and you want to try for a higher rating. If you had to pick one of these options, which one would you pick, and why?
+Maddie - Moderator: again, we're... so imagine that you visited your doctor last month, they told you your hypertension had gotten worse, and you want to try for a higher rating. If you had to pick one of these options, which one would you pick, and why?
  
-P01: TheÉ my condition has gotten worse, because, again, it's the wording. It's specifically what I'm trying to do. My condition has gotten worse, and I'm applying for an increase.
+P01: The... my condition has gotten worse, because, again, it's the wording. It's specifically what I'm trying to do. My condition has gotten worse, and I'm applying for an increase.
  
 00:16:43
 Maddie - Moderator: Okay, so you can, go ahead and do that.
@@ -371,7 +371,7 @@ Maddie - Moderator: Okay.
 00:17:12
 Maddie - Moderator: And so, what would you do on this screen?
  
-P01: So I wouldÉ Select the, I mean.
+P01: So I would... Select the, I mean.
  
 P01: in my opinion, I honestly wouldn't know exactly when the month, day, and year, like, it started to get worse. Like, in my previous experience, like, I don't pay attention to the exact day. Things start to hurt or get worse. I just notice overall that things get worse, so that would be difficult for me to answer.
  
@@ -390,11 +390,11 @@ P01: It's just giving me a brief overview of the things that I'm trying to,
  
 P01: the conditions that I'm trying to add are reclaimed.
  
-P01: AndÉ claim for increase or worsen.
+P01: And... claim for increase or worsen.
  
 P01: Okay,
  
-P01: Okay, so it's showing me that my asthma was denied, and I'm trying to show themÉ give them the evidence that proves that I should receive that,
+P01: Okay, so it's showing me that my asthma was denied, and I'm trying to show them... give them the evidence that proves that I should receive that,
  
 P01: condition, as claim. And then my hypertension, it shows that my current rating, and that I'm trying to get an increase for that.
  
@@ -402,7 +402,7 @@ P01: condition, as claim. And then my hypertension, it shows that my current rat
 Maddie - Moderator: Okay.
  
 00:18:54
-Maddie - Moderator: And isÉ WhatÉ what you're seeing on the screen, what you expected to see?
+Maddie - Moderator: And is... What... what you're seeing on the screen, what you expected to see?
  
 P01: Yes, as far as review your conditions, yes.
  
@@ -411,10 +411,10 @@ Maddie - Moderator: Okay, and so what do you think of the detailed information u
  
 P01: Again, it doesn't give me too much. It gives me the minimum, information, tells me exactly what I'm trying to reclaim, or,
  
-P01: claim, and then it shows me exactly what my current rating is, or if myÉ if I was denied, it shows me everything that I'm, looking for. It doesn't give me unnecessary information, I guess.
+P01: claim, and then it shows me exactly what my current rating is, or if my... if I was denied, it shows me everything that I'm, looking for. It doesn't give me unnecessary information, I guess.
  
 00:19:36
-Maddie - Moderator: Okay, and soÉ and to dig into that a little bit, why do you think it says claim for increase under hypertension?
+Maddie - Moderator: Okay, and so... and to dig into that a little bit, why do you think it says claim for increase under hypertension?
  
 P01: Cause I have a current rating for that, and I'm looking for an increase for that.
  
@@ -439,16 +439,16 @@ P01: And I'll click continue.
 00:20:17
 Maddie - Moderator: Okay, and so again, once again, before you click on anything, there's a couple questions I've got for you on this screen. Is there anything that you notice that has changed since the first time you saw this screen?
  
-P01: Yeah, so, when I add a condition or, Yeah, and when IÉ
+P01: Yeah, so, when I add a condition or, Yeah, and when I...
  
-P01: when I've added a condition, it takes it away, from the screen, which is good, so IÉ
+P01: when I've added a condition, it takes it away, from the screen, which is good, so I...
  
-P01: don't see that again, so it shows me what I have left toÉ to add.
+P01: don't see that again, so it shows me what I have left to... to add.
  
 00:20:43
 Maddie - Moderator: Hmm, and why do you think that that happened?
  
-P01: Maybe so that, I don't make a mistake and clickÉ try to claim the same thing that I've already claimed before, so that I know that, oh, I've already, selected that option before.
+P01: Maybe so that, I don't make a mistake and click... try to claim the same thing that I've already claimed before, so that I know that, oh, I've already, selected that option before.
  
 00:20:58
 Maddie - Moderator: Okay, and what do you think about that change on the screen?
@@ -467,7 +467,7 @@ Maddie - Moderator: And this letter should help prove that your migraines are mo
 00:21:53
 Maddie - Moderator: So before we continue, do you have any questions about this scenario?
  
-P01: So, I understand that I'm trying to get an increase for my migraine. I have a letter proving, that my condition has worsened, essentially. AndÉ no, so, yeah, I understand that. I have all the information that I need.
+P01: So, I understand that I'm trying to get an increase for my migraine. I have a letter proving, that my condition has worsened, essentially. And... no, so, yeah, I understand that. I have all the information that I need.
  
 00:22:14
 Maddie - Moderator: Okay, so what do you think your options would be to ask the VA to reconsider that 10% rating?
@@ -504,7 +504,7 @@ P01: How do you want to play in disconditioning?
  
 P01: again.
  
-P01: So, this oneÉ It's a little tricky, becauseÉ
+P01: So, this one... It's a little tricky, because...
  
 P01: my condition has gotten worse, and I would be applying for an increase, but I also have relevant evidence proving that.
  
@@ -519,14 +519,14 @@ P01: One, just because I have the evidence, I guess.
 Maddie - Moderator: Okay.
  
 00:23:57
-Maddie - Moderator: Is there, anything thatÉ before we do that, is there anything that's going through your head as you look at thisÉ see the screen for a second time?
+Maddie - Moderator: Is there, anything that... before we do that, is there anything that's going through your head as you look at this... see the screen for a second time?
  
 P01: I hope that's the right selection.
  
 00:24:07
 Maddie - Moderator: Okay, fair enough.
  
-P01: Other thanÉ other than that, IÉ yeah, because like I said, the wording isÉ I really wouldn't know which one to click.
+P01: Other than... other than that, I... yeah, because like I said, the wording is... I really wouldn't know which one to click.
  
 00:24:14
 Maddie - Moderator: Okay, okay. So you can go ahead and, yeah, choose the option that you think is most appropriate here.
@@ -549,16 +549,16 @@ Maddie - Moderator: So, what's going through your head as you look at this scree
  
 P01: So, it only shows me this if I clicked, appealing,
  
-P01: one. However, if you click theÉ
+P01: one. However, if you click the...
  
 P01: the increase, I may have evidence for that as well.
  
 00:24:58
 Maddie - Moderator: But it doesn't show me this.
  
-P01: when I click on theÉ The increase.
+P01: when I click on the... The increase.
  
-P01: So, I think that's a littleÉ I think that's misinformation.
+P01: So, I think that's a little... I think that's misinformation.
  
 00:25:12
 Maddie - Moderator: Okay.
@@ -566,7 +566,7 @@ Maddie - Moderator: Okay.
 00:25:14
 Maddie - Moderator: And so, looking at the content that's here, how do you think what's written here relates to your migraine scenario?
  
-P01: Being that I alreadyÉ that I have the documents,
+P01: Being that I already... that I have the documents,
  
 P01: And it shows me what relevant evidence means. I think this matches perfectly with what I'm trying to do right now.
  
@@ -591,12 +591,12 @@ P01: I'm sorry.
 00:26:10
 Maddie - Moderator: That's okay.
  
-P01: SoÉ
+P01: So...
  
 00:26:18
 Maddie - Moderator: So what do you think's happening here?
  
-P01: So it'sÉ It doesn't give meÉ it just jumps straight to the review.
+P01: So it's... It doesn't give me... it just jumps straight to the review.
  
 00:26:24
 Maddie - Moderator: Everything that I'm trying to claim, and I'm not seeing anywhere to where I can add anything.
@@ -609,23 +609,23 @@ P01: So maybe on the next screen?
 00:26:33
 Maddie - Moderator: Okay, can you tell me what's changed on the screen?
  
-P01: Yeah, soÉ So, it's a couple of things that's different,
+P01: Yeah, so... So, it's a couple of things that's different,
  
 P01: So, for my asthma, that was denied.
  
 P01: It says supplemental claim based on new relevant evidence of changing law. Okay.
  
-P01: ButÉ My migraines, my current rating is 10%, and it also says supplemental claim based on new relevant evidence.
+P01: But... My migraines, my current rating is 10%, and it also says supplemental claim based on new relevant evidence.
  
-P01: But my hypertensionÉ see, that oneÉ
+P01: But my hypertension... see, that one...
  
-P01: So both of thoseÉ so my hypertension and migraine headaches both show the current rating, 10%, but one's a supplemental plane based on new relevant evidence, and one's justÉ
+P01: So both of those... so my hypertension and migraine headaches both show the current rating, 10%, but one's a supplemental plane based on new relevant evidence, and one's just...
  
 P01: claim for increase.
  
 P01: I don't know why those are.
  
-P01: it'sÉ it's just that oneÉ that one question that really doesn'tÉ I don't understand why it's worded the way it's worded, because I have documents showing
+P01: it's... it's just that one... that one question that really doesn't... I don't understand why it's worded the way it's worded, because I have documents showing
  
 P01: Boom.
  
@@ -633,9 +633,9 @@ P01: are the relevant evidence showing for, I guess, all of these conditions?
  
 P01: So why is it an option?
  
-P01: Why doesn't it give me an option forÉ
+P01: Why doesn't it give me an option for...
  
-P01: I don't know whyÉ I guess, why is that an option for the claim for increase, but not the relevant evidence?
+P01: I don't know why... I guess, why is that an option for the claim for increase, but not the relevant evidence?
  
 P01: If I have evidence for all of them.
  
@@ -643,7 +643,7 @@ P01: If I have evidence for all of them.
 Maddie - Moderator: Okay, okay.
  
 00:27:55
-Maddie - Moderator: IsÉ let's seeÉ
+Maddie - Moderator: Is... let's see...
  
 00:27:59
 Maddie - Moderator: Is there any, additional thoughts you have on how the information on this screen is organized?
@@ -655,42 +655,42 @@ P01: The claims. I first selected asthma, then hypertension, then migraine heada
 00:28:23
 Maddie - Moderator: Oh.
  
-P01: My invoice on October 1st. It shows me when my claim was working. That's what I clicked on. Denied on OctoberÉ or March 14th.
+P01: My invoice on October 1st. It shows me when my claim was working. That's what I clicked on. Denied on October... or March 14th.
  
-P01: So, ifÉ for the migraine headache, it didn't give me an option for when That, started toÉ
+P01: So, if... for the migraine headache, it didn't give me an option for when That, started to...
  
 P01: Worsen as well, but it did for the hypertension.
  
 00:28:52
 Maddie - Moderator: And why do you think that is?
  
-P01: MmmÉ
+P01: Mmm...
  
-P01: Probably because I clicked on the relevant evidence one, and if I have the evidence, then I guess the evidence proved when it started, I guess? I'm not sure, because I don't have toÉ
+P01: Probably because I clicked on the relevant evidence one, and if I have the evidence, then I guess the evidence proved when it started, I guess? I'm not sure, because I don't have to...
  
-P01: For the hypertension, I didn't have to show any type ofÉ
+P01: For the hypertension, I didn't have to show any type of...
  
-P01: evidence, I guess. It just gaveÉ gave me an option to choose when, the conditions worsen.
+P01: evidence, I guess. It just gave... gave me an option to choose when, the conditions worsen.
  
 00:29:21
 Maddie - Moderator: Okay, okay.
  
 00:29:22
-Maddie - Moderator: And, let's see, is there anythingÉ any other commentary on the detailed information under each of these conditions? Anything you think maybe could be added, or be removed, or anything to make it more clear?
+Maddie - Moderator: And, let's see, is there anything... any other commentary on the detailed information under each of these conditions? Anything you think maybe could be added, or be removed, or anything to make it more clear?
  
-P01: I thinkÉ I think that would be the biggest,
+P01: I think... I think that would be the biggest,
  
-P01: The biggest, thing that needed to be changed, like, theÉ
+P01: The biggest, thing that needed to be changed, like, the...
  
-P01: Like, do they want me to add documentation for the hypertension as well, if I'm choosing a claim for increase, or do I just have to chooseÉ are they just going by the date that I selected?
+P01: Like, do they want me to add documentation for the hypertension as well, if I'm choosing a claim for increase, or do I just have to choose... are they just going by the date that I selected?
  
 P01: versus if I have relevant evidence, I think that would be the biggest one. So, I'm not sure if I need to show proof for the hypertension, or they're just going by what I selected, or what.
  
 00:30:15
-Maddie - Moderator: Okay, okay. No, that's great. So, let's seeÉ AndÉ
+Maddie - Moderator: Okay, okay. No, that's great. So, let's see... And...
  
 00:30:27
-Maddie - Moderator: Okay, and so when we're lookingÉ
+Maddie - Moderator: Okay, and so when we're looking...
  
 00:30:32
 Maddie - Moderator: Okay, so, sorry, I had to get my bearings there. Let's say that, for the sake of this prototype, that that's everything that you wanted to claim today. What would you do next?
@@ -711,9 +711,9 @@ Maddie - Moderator: Okay.
 00:31:02
 Maddie - Moderator: So, let's see, since we were only able to do one prototype today, I do have a couple of follow-up questions. What would you say was the most challenging part of this process?
  
-P01: Just figuring out, whatÉ
+P01: Just figuring out, what...
  
-P01: whatÉ what documents areÉ not what documents I need, but what, claim I need to have documents for, and what claim I don't need to have documents for. That would be my biggest thing, because I'm still, like, thinking about it now. I'm still unsure if I need to provide documents for theÉ if my claim is worsened or not.
+P01: what... what documents are... not what documents I need, but what, claim I need to have documents for, and what claim I don't need to have documents for. That would be my biggest thing, because I'm still, like, thinking about it now. I'm still unsure if I need to provide documents for the... if my claim is worsened or not.
  
 00:31:38
 Maddie - Moderator: Okay, okay. And was there anything that was otherwise surprising or unexpected to you as you went through this prototype?
@@ -744,9 +744,9 @@ P01: just assumed that it was just, just wording, I assumed it was the same thin
  
 P01: Just generic claims.
  
-P01: I didn't think it would be anythingÉ
+P01: I didn't think it would be anything...
  
-P01: I guess anything different than the claim that I'm filing for. I thought maybe it was calledÉ that's what it's called, supplemental claims, or something like that. I didn't think anything else of it.
+P01: I guess anything different than the claim that I'm filing for. I thought maybe it was called... that's what it's called, supplemental claims, or something like that. I didn't think anything else of it.
  
 00:33:11
 Maddie - Moderator: Okay, okay, great. So I know we're in our last few minutes here, so just to wrap up this session, I'm gonna ask if anyone else on the line has any questions for you.
@@ -767,17 +767,17 @@ Kim: Through a lawyer, and do you know, what type of appeal they're gonna do?
  
 P01: I honestly don't know, which is why I got the lawyer.
  
-Kim: Got it. And whatÉ and if you don't mind, telling me, what are you appealing?
+Kim: Got it. And what... and if you don't mind, telling me, what are you appealing?
  
-P01: It claims for, dotÉ I guess, increase.
+P01: It claims for, dot... I guess, increase.
  
-Kim: Things thatÉ things that were denied as well, denied, and, claiming, increase as well.
+Kim: Things that... things that were denied as well, denied, and, claiming, increase as well.
  
 Kim: Okay, so you've got, like, a condition that they just flat-out denied that you're appealing.
  
 P01: I have a couple of conditions that were denied.
  
-Kim: Okay, and then it sounds like there's another condition that theyÉ
+Kim: Okay, and then it sounds like there's another condition that they...
  
 P01: There's some increases as well.
  
