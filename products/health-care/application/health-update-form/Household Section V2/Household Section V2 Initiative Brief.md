@@ -50,8 +50,8 @@ Alex Seelig, 3.21.2025
 |Spouse | Baseline Monthly Avg (Jan-Aug 2025) | Target | Dec 2025 (half month)|
 |---| --- | --- | ---|
 |Spouse page views| 4,490 | N/A | N/A|
-|Spouse page Avg time per session| 1m 22s | 1m 15s | 1m 52s|
-|Spouse page Bounce rate| 1.24% | 1.12% | 1.41%|
+|Spouse page Avg time per session| 1m 22s | 1m 15s | 1m 53s|
+|Spouse page Bounce rate| 1.24% | 1.12% | 1.38%|
 
 |Dependents | Baseline Monthly Avg (Jan-Aug 2025) | Target | Dec 2025|
 |---| --- | --- | ---|
