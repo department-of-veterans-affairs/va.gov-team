@@ -1,6 +1,6 @@
 # Elizabeth Dole Appointment Scheduling Preferences Release Plan
 
-**Last Updated 12/30/2025**
+**Last Updated 1/2/2026**
  
 
 ## Communication
@@ -14,6 +14,9 @@
 - [Data Dog Dashboard](https://app.ddog-gov.com/sb/f327ad72-c02a-11ec-a50a-da7ad0900007-bd93d62d37a448b2511fce5becc4b731?fromUser=false&refresh_mode=sliding&from_ts=1712242328583&to_ts=1712328728583&live=true)
 - [Domo Dashboard](https://va-gov.domo.com/page/825663825?userId=932934509)
 - [Figma Designs](https://www.figma.com/design/smldak4d56moGObUR5jifE/E.-Dole-Act--Appointment-Scheduling-Preferences-in-VA-Profile?node-id=653-59136&t=r7DSpWU0Lhalm45x-1)
+- Relevant Use Cases
+  - [Healthcare Settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/health-care-settings-landingpg.md)
+  - [Scheduling Preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/scheduling-preferences.md)
 - QA Test Plan - in progress
 - Staging Users - in progress
 
