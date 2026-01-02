@@ -1,7 +1,7 @@
 # Product Outline - Health care application
 ---
 - [10-10EZ - Zero Silent Failures Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Form/Endpoint%20Monitoring%20&%20Zero%20Silent%20Failures/10-10EZ%20Zero%20Silent%20Failures%20checklist.md)
-- [10-10EZ downloadable PDF from VA.gov](https://www.va.gov/vaforms/medical/pdf/VA%20Form-10-10EZ.pdf)
+- [10-10EZ downloadable PDF from VA.gov](https://www.va.gov/forms/10-10ez/)
 
 ---
 ## Problem Statement
