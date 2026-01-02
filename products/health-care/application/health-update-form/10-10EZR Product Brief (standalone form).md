@@ -1,15 +1,10 @@
 
 # Product Outline - 10-10EZR Health Benefits Update form
+- [Zero Silent Failure Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Form/Error%20Monitoring%20playbook/10-10EZR%20Zero%20Silent%20Failure%20Checklist.MD)
+- [10-10EZR downloadable PDF from VA.gov](https://staging.va.gov/forms/10-10ezr/)
 ---
 
-## Overview
-Providing the 10-10EZR health benefits update form online experience allows the Veteran to quickly and easily submit updates to their personal information for the purpose of increasing or maintaining their health benefits, without having to call VA, mail in a paper form or visit a facility to provide the updated information.
-
-**MVP**: Build a pre-filled 10-10EZR form online so that a Veteran can review and edit the pre-filled data, submitting successfully. Target Delivery: Late November 2023, actual Delivery: Dec 2023 phased launch through April 2024
-
 ## Problem Statement
-
-Veterans who want to provide updates to their personal information for increasing or maintaining their health benefits are burdened with the manual processes of calling VA, mailing in a paper form and/or visiting a facility. This is driven by the lack of an online experience and pathway to provide these updates at a more convenient time and place for the Veteran. For Veterans who must provide these updates annually, the burden is multiplied.
 
 How might we provide an online experience where the Veteran can quickly and easily provide updates for their health benefits?
 
@@ -40,38 +35,68 @@ How might we provide an online experience where the Veteran can quickly and easi
 ## Measuring Success
 
 ### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
-#### **Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online
+<details>
+<summary>**Key Result #1:** Increase % of Veterans who successfully update their health care benefits information online</summary>
 
 - Data source
      - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
 
-**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
-| Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |15,000 (estimated) |4,000 (25%) | TBD |TBD |
-|Online Submissions |NEW |11,000 (75%) | TBD |TBD |
-|Submission Failures |NEW |None | TBD |TBD |
-|Veteran Validation errors |NEW |None | TBD |TBD |
+| Month    | Started | Submitted | % start to submit |
+| -------- | ------- | --------- | ----------------- |
+| Dec 2023 | 77      | 32        | 41.56%            |
+| Jan 2024 | 302     | 184       | 60.93%            |
+| Feb 2024 | 295     | 209       | 70.85%            |
+| Mar 2024 | 412     | 270       | 65.53%            |
+| Apr 2024 | 1347    | 880       | 65.33%            |
+| May 2024 | 6,938   | 4,598     | 66.27%            |
+| Jun 2024 | 5,930   | 4,310     | 72.68%            |
+| Jul 2024 | 5,253   | 4,378     | 83.34%            |
+| Aug 2024 | 4,886   | 4,276     | 87.52%            |
+| Sep 2024 | 4,921   | 4,329     | 87.97%            |
+| Oct 2024 | 6,270   | 5,213     | 83.14%            |
+| Nov 2024 | 5,137   | 4,696     | 91.42%            |
+| Dec 2024 | 5,097   | 4,549     | 89.25%            |
+| Jan 2025 | 5,674   | 5,478     | 96.55%            |
+| Feb 2025 | 4,493   | 4,220     | 93.92%            |
+| Mar 2025 | 4,696   | 4,674     | 99.53%            |
+| Apr 2025 | 4,765   | 4,607     | 96.68%            |
+| May 2025 | 4,549   | 4,389     | 96.48%            |
+| Jun 2025 | 5,482   | 5,169     | 94.29%            |
+| Jul 2025 | 5,235   | 5,202     | 99.37%            |
+| Aug 2025 | 5,335   | 5,159     | 96.70%            |
+| Sep 2025 | 5,113   | 5,105     | 99.84%            |
+| Oct 2025 | 5,023   | 4,815     | 95.86%            |
+| Nov 2025 | 4,874   | 4,459     | 91.49%            |
+| Dec 2025 | TBD   | TBD     | TBD             |
 
+</details>
 
-#### **Key Result #2:** Capture 75% of form submissions in a single session
+<details>
+     <summary>**Key Result #2:** Capture 75% of form submissions in a single session</summary>
 
 - Data source
      - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
      - [Google Analytics PDF Downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231217&_u.date01=20231221&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart&_r.drilldown=analytics.eventAction:PDF%20Downloaded%20-%20Download%20VA%20Form%2010-10EZR/)
 
-| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
+| 2024 Average sessions to submit | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| ------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 10-10 EZR - Average | 1.17 | 1.09 | 1.11 | 1.15 | 1.17 | 1.16 | 1.23 | 1.17 | 1.17 | 1.20 | 1.17 | 1.18 |
+
+| 2025 Average sessions to submit | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| ------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 10-10 EZR - Average | 1.19 | 1.17 | 1.19| 1.19| 1.17 | 1.18 | 1.16 | 1.17 | 1.18 | 1.19 | 1.19 | TBD |
+
+</details>
+
+<details>
+     <Summary>**Key Result #3:** Reduce number of EZR form downloads from VA.gov</Summary>
+
+| Product KPI | Historical Monthly avg | Target Monthly avg | June 2024-Dec 2024 Monthly avg |Jan 2025-Dec 2025 Monthly avg |
 |------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |75% of submitted forms (8,250)| TBD |TBD |
+|EZR PDF Downloads | 10,400  |2,600 (25%) | 2,215 (21%) |1,832 (18%) |
 
-
-#### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
-
-| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|EZR PDF Downloads |avg 10,400 monthly |2,600 monthly (25%) | TBD |TBD |
-
+</details>
 
 ---
 
@@ -81,84 +106,39 @@ How might we provide an online experience where the Veteran can quickly and easi
 - This will contribute to stakeholder relationships and business processes, as it should reduce the number of paper EZRs processed, the number of phone calls to update information, and the number of Veterans who need to update their information during pre-check in.
 
 ## Solution Approach
-We are going to build a standalone EZR form online.  This will be an authenticated experience only, so the Veteran must have a VA.gov account **_and_** enrolled/registered for VA health care to complete and submit the form.
-This solution was chosen as the easiest path to get the update capability online, while also meeting expectations from HEC stakeholders and the Paper Reduction Act team.
-In future iterations, we plan to review for alternative locations and other systems that we can leverage where Veterans can provide an update to their information in one place, and that data cascades to all systems that are dependent on the update.  
+We built a standalone EZR form online.  This is an authenticated experience only, so the Veteran must have a VA.gov account **_and_** enrolled/registered for VA health care to complete and submit the form.
+- This solution was chosen as the easiest path to get the update capability online, while also meeting expectations from HEC stakeholders and the Paper Reduction Act team.
+- In future iterations, we plan to review for alternative locations and other systems that we can leverage where Veterans can provide an update to their information in one place, and that data cascades to all systems that are dependent on the update.  
 
 **In-scope**:
 - Build a standalone 10-10EZR form online
 - Provide an authenticated experience only
 - Check for enrolled or registered for VA health care
-- Pre-fill all available fields with data from Enrollment System - Veteran info and Medicare/Medicaid Insurance only
+- Pre-fill all available fields with data from Enrollment System, VA Profile
 - Include legal/regulatory verbiage on Review page (similar to 10-10EZ for copays, assignment of benefits, etc)
-- Allow Veterans to print Confirmation page
+- Allow Veterans to print Confirmation page and PDF copy of their submitted form
 - Enrollment system will trigger generic email confirming receipt of the form
+- Submission failures will trigger an email to the Veteran & alert the team in Slack
 - Skipping Household section if a Means test is already on record for the Veteran
 
  
 **Out of scope**:
 - Unauthenticated experience
-- Integrating update capabilities with VA.gov Profile Page or MHV on VA.gov 
+- Integrating update capabilities with VA.gov Profile Page or MHV on VA.gov (possible future work, starting with Emergency Contact & Next of Kin)
 - Short Form flow
-- Printing generated PDF of the completed form after submission with all data input
-- Prefill on Dependents and Private Insurance - due to validation issue found with EZ (solution coming)
 
-### Initiatives
-- [EZR online epic #57417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57417)
-- Preceding page URL to the new 10-10EZR landing page
-     - https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction
-- [EZR - V2 form Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66837)
-- [Original EZR Update Capabilities Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/MVP%2010-10EZR%20Standalone%20form%20-%20Initiative%20Brief.md)
 
---- 
+### Initiatives Launch Dates
+- 12/20/2023: EZR Form launched at 10% over the holiday week
+- 04/11/2024: Full launch at 100%
+- 03/05/2024: Launched Toxic Exposure questions added to form
+- 06/20?/2024: Launched aility to upload documents with submission
+- 10/21/2024: Update "Need Help" section with new Accredited Representative content (replacing VSO content)
+- 10/15/2024: Launched Updates to Submission failure and In-progress email templates within VA Notify (aligning with CAIA and VAN templates)
+- 12/04/2024: Launched Toxic Exposure improvements (question branching logic and content updates)
 
-## Launch Strategy
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/EZR%20Release%20Plan.md)
 
-### Collaboration Cycle
 
-- Collab Cycle ticket [#63773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/63773)
-     - [N/A] Design Intent
-     - [x] Content, Accessibility and IA - Kickoff 9/12/23 at 4p ET
-     - [x] Midpoint - Scheduled 10/27/2023
-     - [x] Research
-     - [x] Contact Center guide
-     - [x] Analytics
-     - [x] Staging - Scheduled 11/17/2023
-     - [x] Infrastructure, Privacy & Security
-
-### Incident Response info
-- The 1010EZR form is a new form on VA.gov (as of 12/2023)
-- Full form flow
-- Dependent Backend systems
-     - Enrollment System
-- [1010EZR - Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr)
-- Rollback & Fix plan (1-3 days to triage and implement fix)
-     - In the event of a security vulnerability incident, we will:
-          - Immediately - Turn off feature using feature toggle
-          - Immediately - Triage incident
-          - Day 1 - Assess viable solutions
-          - Day 1-3 - Implement solution
-          - Day 1-3 - Complete solution testing
-          - Day 1 - Implement additional monitoring, if applicable
-          - Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
-          - Day 1-3 - Complete post-mortem document
-          - Day 1-30 - Continue to monitor performance
-          - Day 1-10 - Proceed with Release Plan
-- Contacts:
-     - Product Manager - Alex S, Heather J
-     - Product Owner - Patrick B
-     - Backend: Lihan L
-     - Frontend: Matt L
-
-## Launch Dates
-- *Target Launch Date*
-  - 11/27/2023
-- *Actual Launch Date* 
-  - 12/20/2023
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - Evaluate: End of January 2024
-  - Impact Review: February/March 2024
 
 ---
 
