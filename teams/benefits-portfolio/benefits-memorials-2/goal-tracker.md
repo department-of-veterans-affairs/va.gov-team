@@ -93,8 +93,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 22 [11/19/25 - 12/2/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Review service blueprint design artifacts from VEO and synthesize outstanding questions to identify opportunities for next steps.| QP7 |--|--|Completed|
-|UX: Finalize submission email confirmation and confirmation page to review pay.gov Overpayment designs with Debt Management Center and collect feedback on designs to inform next steps.| QP4 |--|--|--|
+|UX: Review service blueprint design artifacts from VEO and synthesize outstanding questions to identify opportunities for next steps.| QP7 |--|--|Complete|
+|UX: Finalize submission email confirmation and confirmation page to review pay.gov Overpayment designs with Debt Management Center and collect feedback on designs to inform next steps.| QP4 |--|--|Complete|
 |ENG: Complete backend triage efforts to validate all the Lighthouse API data and present the API contents to Front End confirming that Front End is ready for implementation on the presentation page.| QP3 |--|--|Complete|
 |ENG: Front end to implement Payment History endpoint Step 1 of 2. (Step 2 will happen after goal #3).| QP3 |--|--|Incomplete|
 
@@ -112,12 +112,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 23 [12/3/25 - 12/16/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|Completed|
-|FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|Completed|
-|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|Not Completed|
-|UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|Completed|
-|UX: Establish November monthly Medallia report.| QP7 |--|--|Completed|
-|UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|Not Completed|
+|BE: Finish the service/model layer, manage fetching all the data, and format it to match our proposed payload for Payment History initiative.| QP3 |--|--|Complete|
+|FE: Implement Digital Dispute timelines  in emails and confirmation page.|QP1 |--|--|Complete|
+|TEAM: Prepare final artifacts for Payment History VHA Staging Review (on 12/18/25).| QP3 |--|--|Not Complete|
+|UX: Review and integrate DMC project team Hardship Suspension design feedback.| QP6 |--|--|Complete|
+|UX: Establish November monthly Medallia report.| QP7 |--|--|Complete|
+|UX: Prepare Pay.gov artifacts for Design Intent and Midpoint Review touchpoints (on 12/4/25 and 12/11/25). | QP4 |--|--|Not Complete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [x] Ready to be sent for approvals (12/2/25)
