@@ -81,7 +81,7 @@ A prototype was used to focus on how Veterans noticed and interpreted medication
 
 ---
 
-#### Staging: Secure Messaging renewal flow
+#### Staging: Secure messaging renewal flow
 
 A staging environment was used to walk through the end-to-end prescription renewal flow starting in the Medications list, routing into Secure Messaging, and returning to the Medications list after the message was successfully sent.
 
