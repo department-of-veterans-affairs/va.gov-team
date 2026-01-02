@@ -16,3 +16,4 @@ Veterans will be able to find information more easily, understand where things b
 ## Artifacts
 - [Profile Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/a4c22fdc7963b2b03b6b0b292a80b7c828d116fb/products/identity-personalization/profile#products--features)
 - [Designs](https://www.figma.com/design/5bxmQiCLaXdXrEfPhqMmdJ/Profile-2.0?node-id=52-19111&t=Gaz3RWoInFTeXIMX-1)
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113546)
