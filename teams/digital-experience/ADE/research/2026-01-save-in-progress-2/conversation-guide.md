@@ -316,7 +316,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 ## Approvals
 - Martha Wilkes, OCTO Accessibility Strategist/Designer, on 12/18/2025
-- Shane Strassberg, Research-Ops Lead, on XX-XX-2025
+- Kevin Hoffman (in place of Shane Strassberg, Research-Ops Lead) on 12/23/2025
 
 
 # Emergency Exit 🚨
