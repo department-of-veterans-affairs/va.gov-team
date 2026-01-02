@@ -97,43 +97,42 @@ A staging environment was used to walk through the end-to-end prescription renew
 
 ## <a name="insights"></a>Insights
 
-> Insights summarize observed patterns in participant behavior and feedback. Each insight connects back to one or more research goals.
 
-### <a name="insight-1"></a>Insight 1: [Insight title]
+### <a name="insight-1"></a>Insight 1: 
 
-[Insight summary]
 
----
-
-### <a name="insight-2"></a>Insight 2: [Insight title]
-
-[Insight summary]
 
 ---
 
-### <a name="insight-3"></a>Insight 3: [Insight title]
+### <a name="insight-2"></a>Insight 2: 
 
-[Insight summary]
 
----
-
-### <a name="insight-4"></a>Insight 4: [Insight title]
-
-[Insight summary]
 
 ---
 
-### <a name="insight-5"></a>Insight 5: [Insight title]
+### <a name="insight-3"></a>Insight 3: 
 
-[Insight summary]
+
+
+---
+
+### <a name="insight-4"></a>Insight 4: 
+
+
+
+---
+
+### <a name="insight-5"></a>Insight 5: 
+
+
 
 ---
 
 ## <a name="recommendations"></a>Recommendations
 
-1. **Recommendation:** [Actionable recommendation tied to insights]  
-2. **Recommendation:** [Actionable recommendation tied to insights]  
-3. **Recommendation:** [Actionable recommendation tied to insights]  
+1. **Recommendation:** 
+2. **Recommendation:** 
+3. **Recommendation:**  
 
 ---
 
