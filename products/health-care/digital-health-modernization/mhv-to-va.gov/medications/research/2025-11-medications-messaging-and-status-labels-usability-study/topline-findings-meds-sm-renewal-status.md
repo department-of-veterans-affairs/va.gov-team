@@ -1,4 +1,4 @@
-# **Topline Findings: Medication statuses and Secure Messaging renewal flow**
+# **Topline Findings: Medication statuses and Secure messaging renewal flow**
 
 **Authors:** Athena Bozak, Anneka VanGarza, Cara Frissell  
 **Date:** January 1, 2026
@@ -38,7 +38,6 @@ We conducted remote moderated usability sessions with **12 Veterans** to explore
 
 Sessions were 60 minutes and followed a think-aloud approach using a Figma prototype and a staging test environment. Beyond whether participants could complete the flow, this research looked at where the experience felt unclear and what aspects of the designs created friction that could be improved in future iterations.
 
-
 Sessions were divided into two parts:
 
 **Part 1: Reviewing prescription statuses**  
@@ -54,9 +53,7 @@ Participants attempted to request a medication renewal starting from the Medicat
 The goals of this research were to:
 
 1. Evaluate whether Veterans understand the meaning of the new prescription statuses and identify which statuses or label elements cause confusion or misinterpretation.
-
 2. Evaluate whether Veterans can successfully and efficiently use the new Secure messaging renewal flow on VA.gov to request renewals, and identify where they struggle or drop off.
-
 3. Identify pain points, uncertainties, and other usability issues in the new renewal flow and status messaging that can reasonably be addressed through design and content changes.
 
 ---
@@ -66,7 +63,7 @@ The goals of this research were to:
 This research used a combination of a Figma prototype and a staging test environment to support different parts of the study.
 
 #### Figma: Medication status evaluation
-  
+
 A prototype was used to focus on how Veterans noticed and interpreted medication status labels across different medication states, without requiring them to complete a renewal task.
 
 <img
@@ -110,8 +107,6 @@ A staging environment was used to walk through the end-to-end prescription renew
 ---
 
 ### <a name="insight-5"></a>Insight 5:
-
-
 ---
 
 ## <a name="recommendations"></a>Recommendations
