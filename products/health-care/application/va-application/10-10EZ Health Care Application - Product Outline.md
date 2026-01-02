@@ -269,10 +269,10 @@ Note: 10-10 EZ form has been available online for a number of years.  Only in 20
 
 ### Before
 
- 
+ Fillable PDF form
 
 ### After
-[Figma File of all screens](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=JhxW0BXZeM2oyPIO-0)
+[Production URL](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
 
 ---
 
