@@ -172,9 +172,9 @@ Cindy is available for a kickoff call during any of these times:
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
 - `Dates and times of pilot sessions:` 
-  - **Jan 6 from y-z pm ET** with TBD
-  - **Jan 7 from y-z ET** with TBD
-  - **Jan 8 from y-z pm ET** with TBD
+  - **Wed Jan 7 from 4-5 pm ET** with Jamie Klenetsky Fay (screen magnification)
+  - **Thu Jan 8 from 2-3:30 pm ET** with Maria Mutia (screen reader on desktop)
+  - **Fri Jan 9 from 2:30-4 pm ET** with Maria Mutia (screen reader on mobile)
 
 ### Research sessions
 - `Planned dates of research:` **Jan 12-21**
