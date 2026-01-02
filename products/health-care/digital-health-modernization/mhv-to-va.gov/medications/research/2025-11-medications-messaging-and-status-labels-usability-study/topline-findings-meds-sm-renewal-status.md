@@ -97,33 +97,19 @@ A staging environment was used to walk through the end-to-end prescription renew
 
 ## <a name="insights"></a>Insights
 
-
-### <a name="insight-1"></a>Insight 1: 
-
-
-
+### <a name="insight-1"></a>Insight 1:
 ---
 
-### <a name="insight-2"></a>Insight 2: 
-
-
-
+### <a name="insight-2"></a>Insight 2:
 ---
 
-### <a name="insight-3"></a>Insight 3: 
-
-
-
+### <a name="insight-3"></a>Insight 3:
 ---
 
-### <a name="insight-4"></a>Insight 4: 
-
-
-
+### <a name="insight-4"></a>Insight 4:
 ---
 
-### <a name="insight-5"></a>Insight 5: 
-
+### <a name="insight-5"></a>Insight 5:
 
 
 ---
