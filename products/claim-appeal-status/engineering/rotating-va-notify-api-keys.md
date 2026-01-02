@@ -1,4 +1,4 @@
-# Rotating VA Notify API Keys (DRAFT! c/p from Decision Review's [document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/engineering/rotating-va-notify-api-keys.md))
+# Rotating VA Notify API Keys (for Benefits Management Tools)
 
 ## Overview
 
@@ -34,12 +34,14 @@ Update the following parameters in AWS Parameter Store with the new API key:
 
 **Staging Environment:**
 ```
-/dsva-vagov/vets-api/staging/env_vars/vanotify/services/benefits_decision_review/api_key
+/dsva-vagov/vets-api/staging/env_vars/vanotify/services/benefits_management_tools/api_key
+/dsva-vagov/vets-api/staging/env_vars/vanotify/services/benefits_management_tools/push_api_key
 ```
 
 **Production Environment:**
 ```
-/dsva-vagov/vets-api/prod/env_vars/vanotify/services/benefits_decision_review/api_key
+/dsva-vagov/vets-api/prod/env_vars/vanotify/services/benefits_management_tools/api_key
+/dsva-vagov/vets-api/prod/env_vars/vanotify/services/benefits_management_tools/push_api_key
 ```
 
 
@@ -53,13 +55,14 @@ Update the following parameters in AWS Parameter Store with the new API key:
 
 After updating the AWS Parameter Store, you must wait for vets-api to deploy before testing. This typically occurs the following day.
 
-**Verify the API Key in Rails Console:**
+**Verify the API Keys in Rails Console:**
 
 1. Access the Rails console via [Argo Staging](https://argocd.vfs.va.gov/applications/vets-api-staging) in the CAG environment
-2. Run the following command to verify the API key has been updated:
+2. Run the following commands to verify the API key has been updated:
 
 ```ruby
-Settings.vanotify.services.benefits_decision_review.api_key
+Settings.vanotify.services.benefits_management_tools.api_key
+Settings.vanotify.services.benefits_management_tools.push_api_key
 ```
 
 3. Confirm that the output matches the new API key you updated in AWS Parameter Store
@@ -70,44 +73,35 @@ Settings.vanotify.services.benefits_decision_review.api_key
 
 After verifying the settings have been updated, test the new key using test data.
 
-**Create Test Data:**
-
-To test the email delivery, create an AppealSubmission in staging with your own email address. This will allow you to verify that emails are sent successfully to your inbox.
-
-**Test Data (Example):**
-
-`AppealSubmissionUpload id: 260 lighthouse_upload_id: "1c542c2d-c0f6-4852-ba33-bdd962cd599e"`
-
-AppealSubmissionUpload example:
-- ID: `260`
-- Lighthouse Upload ID: `1c542c2d-c0f6-4852-ba33-bdd962cd599e`
-
-**Run the test command:**
-
-> **Note:** Execute this command using the Rails console in the CAG environment via [Argo Staging](https://argocd.vfs.va.gov/applications/vets-api-staging).
-
-Test with your newly created submission (replace with your AppealSubmission ID):
-```bash
-UPLOAD_TO_S3=false DRY_RUN=false APPEAL_SUBMISSION_IDS='<your-submission-id>' bundle exec rake decision_reviews:remediation:send_form_recovery_emails
+1. Login as [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv), noting its ICN
+2. Change the [user's email](https://staging.va.gov/profile/contact-information) to an address you have access to
+3. Open a rails console on [vets-api-staging](https://argocd.vfs.va.gov/applications/vets-api-staging)
+4. Execute this code to get the participant_id of the test user
+```ruby
+mpi_service = MPI::Service.new
+icn='[ICN of test user]'
+mpi_service.find_profile_by_identifier(identifier: icn, identifier_type: 'ICN')&.profile.participant_id
 ```
+5. Open a rails console on [eventbus-gateway-staging](https://argocd.vfs.va.gov/applications/eventbus-gateway-staging)
+6. Execute this code to trigger a notification email to yourself
+```ruby
+consumer = DecisionLetterAvailabilityConsumer.new
+veteran_id="[participant_id of test user]"
+claim_type_code="310RTPIDES"
 
-**Verify Email Delivery:**
+response = consumer.send(:send_notifications, veteran_id, claim_type_code)
+puts "Push and email notification sent successfully: #{response.success?}"
+puts "Response status: #{response.status}"
+puts "Response body: #{response.body}"
 
-After running the command, check your email inbox to confirm you received the notification. This verifies that the new API key is working correctly.
+```
+7. Check your email inbox for the test email
 
-### Step 5: Verify Delivery in Datadog
-
-Check Datadog monitors to confirm emails were delivered successfully:
-
-- [**Evidence recovery emails monitor**](https://vagov.ddog-gov.com/logs?query=env%3Aeks-staging%20%40payload.callback_metadata.email_type%3Aevidence_recovery&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=flex_tier&stream_sort=desc&viz=stream&from_ts=1763753509926&to_ts=1764012709926&live=true)
-- [**Form recovery emails monitor**](https://vagov.ddog-gov.com/logs?query=env%3Aeks-staging%20%40payload.callback_metadata.email_type%3Aform_recovery&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=flex_tier&stream_sort=desc&viz=stream&from_ts=1763915240805&to_ts=1764088040805&live=true)
-
-
-### Step 6: Update Production
+### Step 5: Update Production
 
 Once staging is verified:
 1. Update the production parameter in AWS Parameter Store
-2. Monitor production Datadog dashboards for any issues
+2. Monitor production [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/diy-2n4-4my/bmt---eventbus-gateway) and the [#benefits-management-tools-ev-gateway-alerts](https://dsva.slack.com/archives/C09DE77DRA6) slack channel for any issues
 
 ## Future Improvements
 
@@ -129,4 +123,4 @@ For issues with key rotation or VA Notify integration, contact:
 
 ## Last Updated
 
-Document created: December 22, 2025
+Document created: 1/2/2026
