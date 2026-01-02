@@ -171,27 +171,19 @@
 <details>
  <Summary>Key result 1: Increase number of application completions in a single session</Summary>
 
-- 2022
-
-| Product            | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+| 2022 Average sessions to submit | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
 | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 10-10 EZ - Average | 1.80 | 1.61 | 1.52 | 1.43 | 1.45 | 1.45 | 1.48 | 1.44 | 1.43 |
 
-- 2023
-
-| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
+|2023 Average sessions to submit | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec  |
 | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 10-10 EZ - Average | 1.46 | 1.44 | 1.44 | 1.42 | 1.48 | 1.42 | 1.50 | 1.42 | 1.47 | 1.42 | 1.41 | 1.39 |
 
-- 2024
-
-| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul | Aug | Sep | Oct  | Nov  | Dec  |
+|2024 Average sessions to submit | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul | Aug | Sep | Oct  | Nov  | Dec  |
 | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | --- | --- | --- | ---- | ---- | ---- |
 | 10-10 EZ - Average | 1.42 | 1.45 | 1.44 | 1.41 | 1.41 | 1.41 |data error|data error|data error| 1.41 | 1.39 | 1.42 |
 
-- 2025
-
-| Product            | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec   |
+|2025 Average sessions to submit | Jan  | Feb  | Mar  | Apr  | May  | Jun  | Jul  | Aug  | Sep  | Oct  | Nov  | Dec   |
 | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
 | 10-10 EZ - Average | 1.39 | 1.40 | 1.41 | 1.39 | 1.38 | 1.39 | 1.36 | 1.38 | 1.37 | 1.37 | 1.37 | TBD |
 
