@@ -76,7 +76,6 @@ Suggested:
 ```
 militaryHistory: {
 	⭐️ status: 'ACTIVE_DUTY', // ACTIVE_DUTY, VETERAN, NATIONAL_GUARD_OR_RESERVES, DISCHARGED_NATIONAL_GUARD DISCHARGED_RESERVES. This is on the new paper form but is true/false. The values are used for conditional logic. Replaces the "identity" field?
-	⭐️ activation: 'true', // only used for conditional logic
 	⭐️ separatedDueToDisability: 'true', // This is on the new paper form
 	⭐️ preDischargeClaim: 'true', // This is on the new paper form
 	⭐️ purpleHeartRecipient: 'true', // This is on the new paper form
