@@ -1,0 +1,96 @@
+name: Update Templates on Team Data Sync
+
+# Triggered when PR is labeled with "teams-manifest-data-sync"
+on:
+  pull_request:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-templates:
+    # Only run when teams-manifest-data-sync label is added
+    if: github.event.label.name == 'teams-manifest-data-sync'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout PR branch (SPARSE - repo is 45GB)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          # CRITICAL: Sparse checkout to avoid 45GB clone
+          sparse-checkout: |
+            .github/ISSUE_TEMPLATE
+            scripts/manifest
+            team-lookup.json
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Verify team-lookup.json exists
+        run: |
+          if [ ! -f team-lookup.json ]; then
+            echo "❌ team-lookup.json not found in PR"
+            exit 1
+          fi
+          echo "✅ team-lookup.json found"
+          echo "📊 Team count: $(ruby -rjson -e 'puts JSON.parse(File.read("team-lookup.json")).keys.size')"
+
+      - name: Update collaboration cycle template
+        run: |
+          echo "🔄 Updating collaboration cycle team dropdown"
+          ruby scripts/manifest/sync-collab-cycle-teams.rb team-lookup.json --verbose
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet .github/ISSUE_TEMPLATE/collaboration-cycle-request.yml; then
+            echo "No changes to template"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "Template updated"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit template update to same PR
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .github/ISSUE_TEMPLATE/collaboration-cycle-request.yml
+          git commit -m "chore: regenerate collaboration cycle template from team-lookup.json
+
+          Automatically updated team dropdown with latest teams."
+
+          git push
+
+      - name: Comment on PR
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ Collaboration cycle template automatically updated with latest teams from `team-lookup.json`'
+            })
+
+      - name: Comment on PR (no changes)
+        if: steps.check_changes.outputs.has_changes == 'false'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'ℹ️ No changes needed to collaboration cycle template (already up to date)'
+            })
