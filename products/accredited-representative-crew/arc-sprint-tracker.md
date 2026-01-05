@@ -6,7 +6,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 7 (Dec 30 - Jan 12, 2025)
 
 ## Sprint 7 Goals
-- [ ] Sprint Goals Approved by Enablement 
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on December 30, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1767117172790029?thread_ts=1767054358.624309&cid=C06GE5N7QJ0))
 
 **Team Accreditation**: 
 1. **[Rep Data] GCLAWS SQL Server API Integration**: Update existing Accreditation API job to include fallback (SQL API)
@@ -94,7 +94,7 @@ TBD
 Due to limited holiday availability, Sprint 6 demos will be held on 1/13 alongside those from Sprint 7.
 
 ## Sprint 6 Delivery
-Sprint Delivery Approved by Enablement - Jen Bertsch on December 30, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1767117172790029?thread_ts=1767054358.624309&cid=C06GE5N7QJ0))
+- [x] Sprint Delivery Approved by Enablement - Jen Bertsch on December 30, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1767117172790029?thread_ts=1767054358.624309&cid=C06GE5N7QJ0))
 
  Planned for Sprint 6: 35 tickets, 115 points + 3 spikes \
  Added as a Sprint 6 stretch goal: 2 tickets, 2 points
