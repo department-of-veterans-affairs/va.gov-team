@@ -1,4 +1,3 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: December 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 66.3% (0.0% change from last period)
@@ -45,7 +44,7 @@ All pages have ratings of 2 or below.
 ### 5 resources and support pages with the lowest "good" ratings percentage overall and at least 10 total responses
 
 1. [How do I report a complaint or concern about a community provider?](https://www.va.gov/resources/how-do-i-report-a-complaint-or-concern-about-a-community-provider/) (6% good out of 16 total responses)
-2. [Support fo common Login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) (15% good out of 210 total responses)
+2. [Support for common Login.gov and ID.me issues](https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/) (15% good out of 210 total responses)
 3. [How to get help with concerns at a VA facility](https://www.va.gov/resources/how-to-get-help-with-concerns-at-a-va-health-facility/) (18% good out of 11 total responses)
 4. [Choosing a GI Bill approved school](https://www.va.gov/resources/choosing-a-gi-bill-approved-school/) (19% good out of 16 total responses)
 5. [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov/) (22% good out of 209 total responses)
@@ -67,9 +66,12 @@ All pages have ratings of 2 or below.
 5. [Accessing Veteran Readiness and Employment through IDES](https://www.va.gov/resources/accessing-veteran-readiness-and-employment-through-ides/) (45% good out of 55 total responses)
            
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20December%202025.xlsx?d=w60aec1829e9f4ea89e4002cd8673d218&csf=1&web=1&e=B1fUj8)
 - We came close but didn't meet our goal this month of 75% good rating for resources and support pages, with an average rating this month of 74%. 
 - Performance isn't as high when broken down to individual pages:
   - 29% of pages are scoring at 90% or higher "good"
   - 55% of pages are meeting our goal of 75% or higher "good," while 59% of pages are scoring 70% or higher
   - 17% of pages are scoring at less than 50% "good," with 3% scoring at less than 10% "good" 
+- We continue to have high numbers of "bad" responses for sign-in-related pages.
+- For a 7th month in a row we had a high number of responses (1,593) for the page "How to renew a VA prescription." This page scored 57% "good."
+- Four pages have consistently gotten the highest volume of total responses and >75% "good" rating over the past 6 months: "What should I bring to my health care appointments," "VA claim exam," The PACT Act and your VA benefits," and "How to check in with your smartphone for some VA appointments"
