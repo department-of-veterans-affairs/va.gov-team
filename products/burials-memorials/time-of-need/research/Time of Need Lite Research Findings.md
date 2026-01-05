@@ -184,13 +184,17 @@ Findings will inform iterative improvements to the form's design, content, and w
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Users experienced confusion with terminology when asked "What is your relationship to the Veteran (deceased)?"
-2. Most users understood the definition of "personal representative". However, few understood its relation to their specific scenario in the form. 
-3. Some users were confused with "eligibility" terminology used prior to the previous burials section. There was confusion about existing burials - some users might unintentionally start a case as a new burial rather than a subsequent one.
-4. Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all of the options/resources available to them.
-5. Users expressed confusion regarding burial terminology, notably "cremains green", "intact green", and "cremains". 
-6. When describing the overall length of the form, users agreed that the form was quite long but the questions asked were necessary.
-7. Majority of users found the form to be manageable, straightforward, and easy to use. The average rating was 4.5/5.
+1. Users had difficulty interpreting the terminology used in the question, “What is your relationship to the Veteran (deceased)?”​
+​​
+2. Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.
+   ​
+3. Most users understood the definition of personal representative, but few understood its relation to their specific scenario.​
+​
+4. Some users found the term "eligibility" unclear. Additionally, the distinction between existing and new burials was not always evident, leading some users to unintentionally begin a case as a new burial instead of a subsequent burial.​
+​
+5. Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.​
+​
+6. Users expressed confusion regarding burial terminology, notably ​"cremains green", "intact green", and "cremains". 
 
 ## Details of Findings 
 
@@ -198,13 +202,12 @@ Findings will inform iterative improvements to the form's design, content, and w
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
 ### Finding 1
-Users experienced confusion with terminology when asked "What is your relationship to the Veteran (deceased)?" 
-- Supporting data:
+Users had difficulty interpreting the terminology used in the question, “What is your relationship to the Veteran (deceased)?”- Supporting data:
 - (Regarding the term Sponsor) "and this is a military term, I think some people might not know, if they were, like, a family member, might not know that a sponsor means, like, the primary Person with the, you know, and others are dependents." - P5
 - "I could be either the spouse, or the representative spouse, or whatever in that sense." P6
 
 ### Finding 2  
-Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.
+Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.​
 - Supporting data:
 - "I have (a pre-need decision letter) myself, but I didn't know it was called pre-need. That sounds like you need something. That's kind of poorly titled, to be honest with you." - P7
 - "It's just not clear to me, what they're asking for, but I realize now that must be the social security number of the eligibility or existing letter from the VA, correct?" - P11
@@ -215,52 +218,45 @@ Most users understood the definition of personal representative, but few underst
 - (Regarding who is the personal rep) "to me...that would be the wife who was doing it on my behalf. To me, the personal representative is not the actual veteran, it's the person who's caring for the veteran, because the veteran's unable to care for themselves." - P13
 - "I would assume it would be, like, a legal representative, or it would be a family member who has been… who's gotten power of attorney." P5
 
-### Finding 4  
-Some users were confused with "eligibility" terminology. There was confusion about existing burials—some users might unintentionally start a case as a new burial rather than as a subsequent burial.
-- Supporting data:
-- "I find the phrase 'buried under Veteran's eligibility' very confusing, I'm not sure what that's asking" - P11
-- "How does the funeral director know if someone used the benefit before?" - P3
-
-### Finding 5
-Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.
+### Finding 4
+Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.​
 - Supporting data:
 - "Can I go to any of those cemeteries? Or does it have to be somewhere near me, near the deceased?" - P2
 - (regarding picking a national cemetery) "So, I personally didn't know that anybody can basically, you know, pick any of them, and I just was like, well, which one's closest to my town? Now, later on, I learned that you can pick any of them. So, I did not have that information available." - P13
 
-### Finding 6 
+### Finding 5
 Users expressed confusion regarding burial terminology, particularly with the terms "cremains green," "intact green," and "cremains."
 - Supporting data:
 - "Just the part on the cremation. I don't know what green cremate… I don't know if that's more eco-friendly. ... I just remember being asked, do you want a casket or a cremation?" P4
 - "I don't know what intact green and cream means green. I don't know what that is." P2
-
-### Finding 7
-When describing overall length of the form, the consensus was that the form was long, but the questions asked were necessary.
-- Supporting data:
-- "There were 10 steps. That seemed like a lot... If that could be condensed, like two birds with one stone, so to speak, on some of the steps, now you can get it down to 7 or 8, maybe." P4
-- "In general the VA site works really good...I would make it a little more streamlined and remove a couple of steps...but it is pretty intuitive overall." P10
 
 ---
 
 ## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
 
-- A few participants were confused with "eligibility" terminology. There were questions about the possibility of existing burials — some participants might unintentionally start a case as a new burial rather than as a subsequent burial.
-
-- Participants expressed confusion regarding burial terminology, particularly with the terms "cremains green," "intact green," and "cremains."
-
+- Users were aware of the required documents that they needed to upload or use to fill out the form. There were strong acknowledgments of having all of the required documents ready before starting the form.​
+​
+- Some users were surprised to learn that criminal history could affect eligibility for burial, or other benefits, even after service with an honorable discharge. ​
+​
+- When describing overall length of the form, the consensus was that the form was long, but the questions asked were necessary. The experience was about comparable to other VA.gov forms.
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** Consider reviewing and clarifying the wording for the "Relationship to deceased" question. Exploring more specific options could help address situations with multiple possible selections.
-   - Supporting evidence: 9/13 participants either expressed confusion when selecting the relationship to deceased, or wanted to select multiple options when interacting with this question.  
-2. **Recommendation:** Collaboratively exploring ways to add more descriptive text may help users better understand what the pre-need letter is and how it connects to the Time of Need burial scheduling form.  
+1. **Recommendation:** ​
+Review and clarify the “Relationship to Deceased” question. Offer more specific options or enable multiple selections to accommodate diverse relationships.
+   - Supporting evidence: 9/13 participants either expressed confusion when selecting the relationship to deceased, or wanted to select multiple options when interacting with this question.
+2. **Recommendation:**  Optimize the placement of the personal representative question. Assess where this question best fits within the user flow for clarity and effectiveness.
+    -Supporting evidence: 8 out of 13 participants were confident with the definition of "personal representative," but few expressed confusion with giving the personal representatives information after they had already indicated that they were a family member or funeral home representative.​
+4. **Recommendation:**​
+Enhance supporting text for the pre-need decision letter. Collaborate to add clear descriptions explaining the letter’s role and relevance to the Time of Need burial scheduling process.
    - Supporting evidence: 6 different participants were confused by the wording of what a pre-need decision letter is. This and other issues across the form could be recitified by including more specific and inclusive description text underneath headers for screens where terminology might be unfamiliar to users.
-3. **Recommendation:** Improving cemetery selection screen to further support users in selecting a cemetery when their preferred option is unavailable and making users aware of resources available.
+5. **Recommendation:** Streamline cemetery selection guidance. Work together on solutions to better assist users when their preferred cemetery is unavailable.​
    - Supporting evidence: 9/13 participants wanted expanded capabilities with cemetery selection, or were unaware of the features offered via the external link. This can be resolved by further highlighting the external link and expanding on descriptive text.
-4. **Recommendation:** Consider clarifying terminology and offering additional context about each option, including any cemetery-specific limitations.
+6. **Recommendation:** ​Clarify terminology and context for cemetery options. Add explanations about each choice, including any cemetery-specific restrictions.
    - Supporting evidence: 6/13 participants expressed confusion regarding burial method terminology, especially "green" burial methods and "cremains". 
-5. **Recommendation:** Consider removal of emblem of belief screen with absence of other questions on headstones/markers.
+7. **Recommendation:** Consider removal of emblem of belief screen with absence of other questions on headstones/markers.
    - Supporting evidence: 8/13 users mentioned the form being "too long" or "lengthy". Removing extraneous screens that don't add vital data can cut down on user time spent completing the form and overall user satisfaction.
 
 ## Product User and Business Outcomes
