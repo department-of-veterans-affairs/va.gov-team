@@ -27,6 +27,9 @@ projects: ["department-of-veterans-affairs/1434"]
 - [ ] Handoff materials prepared
 - [ ] Handoff meeting scheduled
 - [ ] Handoff conducted
-- [ ] Any follow-up questions addressed
+- [ ] Any initial questions addressed
 - [ ] Engineering confirms receipt of any needed deliverables
+
+## Followup questions for [Role doing handoff - update from above]
+- _Eng to add any followup questions here._
 
