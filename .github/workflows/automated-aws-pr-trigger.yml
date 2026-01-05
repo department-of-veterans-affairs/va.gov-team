@@ -1,0 +1,25 @@
+name: AWS Access Issue Trigger
+
+permissions:
+  contents: read
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  relay:
+    if: startsWith(github.event.issue.title, 'AWS access')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send dispatch to DevOps repo
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          repository: department-of-veterans-affairs/devops
+          event-type: aws-access-request
+          client-payload: |
+            {
+              "issue_number": ${{ github.event.issue.number }},
+              "issue_repo": "${{ github.repository }}"
+            }
