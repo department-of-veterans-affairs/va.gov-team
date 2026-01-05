@@ -1,5 +1,8 @@
 name: AWS Access Issue Trigger
 
+permissions:
+  contents: read
+
 on:
   issues:
     types: [opened]
@@ -12,7 +15,7 @@ jobs:
       - name: Send dispatch to DevOps repo
         uses: peter-evans/repository-dispatch@v3
         with:
-          token: ${{ secrets.DEVOPS_DISPATCH_TOKEN }}
+          token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
           repository: department-of-veterans-affairs/devops
           event-type: aws-access-request
           client-payload: |
