@@ -66,6 +66,7 @@ While the details of each step may differ based on the type of research being co
 - Write your research plan and guide.
 - Create stimuli (Figma or Mural)
 - Get peer reviews and run a pilot session.
+- Additional tips and support in [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va). Do not use the TEMPLATES provided in the Quick Resources section here. Templates have been adapted for staff-facing research and are in the [clinical decision support folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates).
 
 > [!TIP]
 > Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section). Keep in mind tables will not copy over directly and it's best to copy sections at a time to maintain the formatting in the markdown files.
@@ -98,7 +99,10 @@ While the make-up of research participants may vary based on the product's targe
 2. **Clinical Business Owner & SMEs**  
    - The clinical business owner and stakeholder of a particular product or integration along with SMEs can be a good source for clinical contacts to add to the CDS research participant pool.
 3. **Snowball Recruitment**
-   - Ask clinicians and staff you already are connected with to share the research participant sign-up form with their colleagues. 
+   - Ask clinicians and staff you already are connected with to share the research participant sign-up form with their colleagues.
+4. **Support and Feedback Forms**
+   - The "Get Help" feedback form that is monitored by Shared Support Services can be a good place to find clinicians who are engaged with the product. Check for feedback related to the product or thing you are testing and be clear in your email to the clinician where you got their contact information from.
+   - Other support or feedback channels end users might engage with (eg Share Support Office Hours)
 
 > [!NOTE]
 > It is important not to over contact from our limited participant pool. Therefore, we have a soft-limit for contact frequency. Do not contact a participant for more than 1 study every 2 months. For example, if a clinician participated in something in September, don't reach out again until November. Use your judgement based on the rapport you have with a participant to decide if additional outreach would be OK. You can also ask another researcher if they have a sense of how much a particular clinician likes to engage.
@@ -183,7 +187,7 @@ We are working on a project to [insert your project area or application name] th
 
 Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential and your anonymity protected.
 
-If you are interested in participating, please [insert next step].   If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database.
+If you are interested in participating, please [insert next step].   If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database. If you are aware of other colleagues who may be interested in participating in this type of activity, please share [this sign-up form](https://forms.office.com/pages/responsepage.aspx?id=Ixtf6a-r7kWCHberJRqzvwJmS8KCiL9DiWDzYKVU_XFUQUVLTjNNUjNPSDc3MkVNUjE2M0pERUtaOS4u&origin=lprLink&route=shorturl) with them!
 
 Thank you for your time!
 
@@ -203,7 +207,7 @@ We are working on a project to develop medical calculators and risk assessments 
 
 Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential and your anonymity protected.
 
-If you are interested in participating, please [insert next step].  If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database.
+If you are interested in participating, please [insert next step].  If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database. If you are aware of other colleagues who may be interested in participating in this type of activity, please share [this sign-up form](https://forms.office.com/pages/responsepage.aspx?id=Ixtf6a-r7kWCHberJRqzvwJmS8KCiL9DiWDzYKVU_XFUQUVLTjNNUjNPSDc3MkVNUjE2M0pERUtaOS4u&origin=lprLink&route=shorturl) with them!
 
 Thank you for your time!
 
@@ -228,6 +232,14 @@ Cheers,
 ## Conduct User Sessions
 
 *Summarize the 5–10 most impactful findings from your study.* 
+
+- Have your conversation guide ready, prototype or stimuli on the screen or link handy to share, and a glass of water!
+- Introduce yourself with cameras on, as well as any notetakers or observers. Then notetakers and observers can go off camera for the duration of the session.
+- Get informed consent and verbal agreement from the clinician to record the session. 
+- **Do not record screens that share actual patient data.** We do not have informed consent from the patient for recording their data.
+- If you need to record a session where a clinician is showing patient data on a screen, you can record "transcript only" and not the screen. Ensure to have an extra observer to be able to capture notes. Do not capture any PHI/PII
+- If you need to record a screen, ensure only a test patient is used.
+- If PHI/PII is accidentally shared, stop the recording as quickly as possible. Let the research lead know for awareness. Delete the recording as soon as possible after you collected what you needed for synthesis. An incident does not need to be reported since MS Teams is used for the recordings and approved by security for sharing PHI and PII. Remember, we do not record patient PHI and PII because we do not have informed consent from them to record. Sometimes when deleting a recording, you need to delete from more than one folder. 
 
 > [!TIP] 
 > Write findings as stand-alone insights that are easy to scan. For example:  
