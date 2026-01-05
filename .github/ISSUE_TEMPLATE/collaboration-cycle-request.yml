@@ -37,7 +37,7 @@ body:
   id: product-team
   attributes:
     label: VFS team name
-    description: Select your team from the list (sorted alphabetically)
+    description: Select your team from the list (sorted alphabetically). Not seeing your team here? [Add your team to the manifest](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/teams-manifest-user-guide.md)
     options:
     - 1010 Health Apps (33001)
     - Accelerate Cybersecurity Excellence (ACE) (24001)
