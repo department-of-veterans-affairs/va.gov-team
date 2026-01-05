@@ -10,16 +10,16 @@ A medication is **refillable** only if **ALL** of the following conditions are m
 
 ### Gate 1: Medication Classification
 
-**Condition:** Must be classified as an **Outpatient Medication**
+**Condition:** Must be classified as a **VA Prescription**
 
 See [Oracle Health Medications - Categorization and Filtering Specification](oracle_health_categorization_spec.md) for complete categorization rules.
 
-| Classification | Refillable? |
-|----------------|-------------|
-| Outpatient Medication | Continue to next gate |
-| Any other category | **NOT REFILLABLE** |
+| Classification     | Refillable?           |
+| ------------------ | --------------------- |
+| VA Prescription    | Continue to next gate |
+| Any other category | **NOT REFILLABLE**    |
 
-*Rationale: Only Outpatient Medications (VA-dispensed prescriptions for home use) can be refilled through the VA pharmacy system.*
+_Rationale: Only VA Prescriptions (VA-dispensed prescriptions for home use) can be refilled through the VA pharmacy system._
 
 ---
 
@@ -27,12 +27,12 @@ See [Oracle Health Medications - Categorization and Filtering Specification](ora
 
 **Condition:** `MedicationRequest.status` must be `'active'`
 
-| Status | Refillable? |
-|--------|-------------|
-| `active` | Continue to next gate |
-| Any other status | **NOT REFILLABLE** |
+| Status           | Refillable?           |
+| ---------------- | --------------------- |
+| `active`         | Continue to next gate |
+| Any other status | **NOT REFILLABLE**    |
 
-*Rationale: Inactive, cancelled, completed, or on-hold requests cannot be refilled.*
+_Rationale: Inactive, cancelled, completed, or on-hold requests cannot be refilled._
 
 ---
 
@@ -41,16 +41,17 @@ See [Oracle Health Medications - Categorization and Filtering Specification](ora
 **Condition:** Prescription must NOT be expired
 
 The prescription is NOT expired if:
+
 - `MedicationRequest.dispenseRequest.validityPeriod.end` exists AND
 - Current date/time ≤ `MedicationRequest.dispenseRequest.validityPeriod.end`
 
-| Validity Period State | Refillable? |
-|-----------------------|-------------|
-| `validityPeriod.end` does not exist | **NOT REFILLABLE** |
-| Current date > `validityPeriod.end` (expired) | **NOT REFILLABLE** |
+| Validity Period State                             | Refillable?           |
+| ------------------------------------------------- | --------------------- |
+| `validityPeriod.end` does not exist               | **NOT REFILLABLE**    |
+| Current date > `validityPeriod.end` (expired)     | **NOT REFILLABLE**    |
 | Current date ≤ `validityPeriod.end` (not expired) | Continue to next gate |
 
-*Rationale: Expired prescriptions cannot be refilled; they require renewal instead.*
+_Rationale: Expired prescriptions cannot be refilled; they require renewal instead._
 
 ---
 
@@ -67,12 +68,12 @@ refills_remaining = numberOfRepeatsAllowed - max(completed_dispenses - 1, 0)
 
 Where `completed_dispenses` = count of `MedicationDispense` resources with `status == 'completed'`
 
-| Refills Remaining | Refillable? |
-|-------------------|-------------|
-| `> 0` | Continue to next gate |
-| `0` | **NOT REFILLABLE** |
+| Refills Remaining | Refillable?           |
+| ----------------- | --------------------- |
+| `> 0`             | Continue to next gate |
+| `0`               | **NOT REFILLABLE**    |
 
-*Rationale: If no refills remain, the patient must request a renewal instead of a refill.*
+_Rationale: If no refills remain, the patient must request a renewal instead of a refill._
 
 ---
 
@@ -80,12 +81,12 @@ Where `completed_dispenses` = count of `MedicationDispense` resources with `stat
 
 **Condition:** Must have at least one `MedicationDispense` resource associated with the `MedicationRequest`
 
-| MedicationDispense Count | Refillable? |
-|--------------------------|-------------|
-| `> 0` | Continue to next gate |
-| `0` | **NOT REFILLABLE** |
+| MedicationDispense Count | Refillable?           |
+| ------------------------ | --------------------- |
+| `> 0`                    | Continue to next gate |
+| `0`                      | **NOT REFILLABLE**    |
 
-*Rationale: A medication that has never been dispensed cannot be refilled. The initial fill must be processed first.*
+_Rationale: A medication that has never been dispensed cannot be refilled. The initial fill must be processed first._
 
 ---
 
@@ -94,25 +95,26 @@ Where `completed_dispenses` = count of `MedicationDispense` resources with `stat
 **Condition:** Most recent `MedicationDispense` must NOT have an in-progress status
 
 In-progress statuses are:
+
 - `preparation`
 - `in-progress`
 - `on-hold`
 
 The most recent dispense is determined by the latest `MedicationDispense.whenHandedOver` date.
 
-| Most Recent `MedicationDispense.status` | Refillable? |
-|-----------------------------------------|-------------|
-| `completed` | Continue to next gate |
-| `cancelled` | Continue to next gate |
-| `declined` | Continue to next gate |
-| `entered-in-error` | Continue to next gate |
-| `stopped` | Continue to next gate |
-| `unknown` | Continue to next gate |
-| `preparation` | **NOT REFILLABLE** |
-| `in-progress` | **NOT REFILLABLE** |
-| `on-hold` | **NOT REFILLABLE** |
+| Most Recent `MedicationDispense.status` | Refillable?           |
+| --------------------------------------- | --------------------- |
+| `completed`                             | Continue to next gate |
+| `cancelled`                             | Continue to next gate |
+| `declined`                              | Continue to next gate |
+| `entered-in-error`                      | Continue to next gate |
+| `stopped`                               | Continue to next gate |
+| `unknown`                               | Continue to next gate |
+| `preparation`                           | **NOT REFILLABLE**    |
+| `in-progress`                           | **NOT REFILLABLE**    |
+| `on-hold`                               | **NOT REFILLABLE**    |
 
-*Rationale: Cannot request a new refill while a previous dispense is still being processed or prepared.*
+_Rationale: Cannot request a new refill while a previous dispense is still being processed or prepared._
 
 ---
 
@@ -121,18 +123,19 @@ The most recent dispense is determined by the latest `MedicationDispense.whenHan
 **Condition:** Must NOT have a pending refill request (refill_status != 'submitted')
 
 A pending refill request exists if:
+
 - A `Task` resource exists with `intent='order'`, `status='requested'`, and `focus.reference` matching the parent `MedicationRequest`
 - AND no `MedicationDispense` with `whenPrepared` or `whenHandedOver` date after the `Task.executionPeriod.start`
 
-| Refill Status | Refillable? |
-|---------------|-------------|
-| `active` | **REFILLABLE ✓** |
-| `expired` | Already failed Gate 3 or 4 |
-| `refillinprocess` | Already failed Gate 6 |
-| `submitted` | **NOT REFILLABLE** |
-| Other statuses | **REFILLABLE ✓** |
+| Refill Status     | Refillable?                |
+| ----------------- | -------------------------- |
+| `active`          | **REFILLABLE ✓**           |
+| `expired`         | Already failed Gate 3 or 4 |
+| `refillinprocess` | Already failed Gate 6      |
+| `submitted`       | **NOT REFILLABLE**         |
+| Other statuses    | **REFILLABLE ✓**           |
 
-*Rationale: Cannot request a new refill while a previous refill request is still pending.*
+_Rationale: Cannot request a new refill while a previous refill request is still pending._
 
 ---
 
@@ -143,9 +146,9 @@ flowchart TD
     Start([Is Medication Refillable?]) --> Gate1
 
     Gate1{Gate 1:<br/>Medication Classification?}
-    Gate1 -->|Documented/Historical| NotRefillable1[NOT REFILLABLE<br/>Non-VA Medication]
-    Gate1 -->|Clinical/Inpatient/Pharmacy Charges/Other| NotRefillable1
-    Gate1 -->|Outpatient Medication| Gate2
+    Gate1 -->|Documented/Non-VA Medication| NotRefillable1[NOT REFILLABLE<br/>Non-VA Medication]
+    Gate1 -->|Clinic Administered/Inpatient/Pharmacy Charges/Other| NotRefillable1
+    Gate1 -->|VA Prescription| Gate2
 
     Gate2{Gate 2:<br/>Status == 'active'?}
     Gate2 -->|No| NotRefillable2[NOT REFILLABLE]
@@ -187,15 +190,15 @@ flowchart TD
 
 ## Summary Table
 
-| Gate | Condition (must be TRUE to pass) | Fail Result |
-|------|----------------------------------|-------------|
-| 1 | Medication is classified as **Outpatient Medication** (see [categorization spec](oracle_health_categorization_spec.md)) | NOT REFILLABLE |
-| 2 | `MedicationRequest.status == 'active'` | NOT REFILLABLE |
-| 3 | `MedicationRequest.dispenseRequest.validityPeriod.end` exists AND current date ≤ `validityPeriod.end` | NOT REFILLABLE |
-| 4 | Refills remaining > 0 | NOT REFILLABLE |
-| 5 | `MedicationDispense` count > 0 | NOT REFILLABLE |
-| 6 | Most recent `MedicationDispense.status` is NOT `preparation`, `in-progress`, or `on-hold` | NOT REFILLABLE |
-| 7 | No pending refill request (refill_status != 'submitted') | NOT REFILLABLE |
+| Gate | Condition (must be TRUE to pass)                                                                                  | Fail Result    |
+| ---- | ----------------------------------------------------------------------------------------------------------------- | -------------- |
+| 1    | Medication is classified as **VA Prescription** (see [categorization spec](oracle_health_categorization_spec.md)) | NOT REFILLABLE |
+| 2    | `MedicationRequest.status == 'active'`                                                                            | NOT REFILLABLE |
+| 3    | `MedicationRequest.dispenseRequest.validityPeriod.end` exists AND current date ≤ `validityPeriod.end`             | NOT REFILLABLE |
+| 4    | Refills remaining > 0                                                                                             | NOT REFILLABLE |
+| 5    | `MedicationDispense` count > 0                                                                                    | NOT REFILLABLE |
+| 6    | Most recent `MedicationDispense.status` is NOT `preparation`, `in-progress`, or `on-hold`                         | NOT REFILLABLE |
+| 7    | No pending refill request (refill_status != 'submitted')                                                          | NOT REFILLABLE |
 
 **If all gates pass → REFILLABLE ✓**
 
@@ -205,12 +208,12 @@ flowchart TD
 
 Understanding when to use refill vs renewal:
 
-| Scenario | Action |
-|----------|--------|
-| Refills remaining > 0 AND not expired | **REFILL** |
-| Refills remaining == 0 AND not expired (or expired ≤ 120 days) | **RENEW** |
-| Expired AND within 120 days of expiration | **RENEW** |
-| Expired > 120 days | New prescription required |
+| Scenario                                                       | Action                    |
+| -------------------------------------------------------------- | ------------------------- |
+| Refills remaining > 0 AND not expired                          | **REFILL**                |
+| Refills remaining == 0 AND not expired (or expired ≤ 120 days) | **RENEW**                 |
+| Expired AND within 120 days of expiration                      | **RENEW**                 |
+| Expired > 120 days                                             | New prescription required |
 
 See [Oracle Health VA Dispensed Medications - Renewability Specification](oracle_health_renewability_spec.md) for renewal eligibility rules.
 
