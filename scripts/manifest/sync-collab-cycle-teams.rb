@@ -68,7 +68,7 @@ class CollabCycleTeamSync
     # Convert from input to dropdown
     team_field['type'] = 'dropdown'
     team_field['attributes']['label'] = 'VFS team name'
-    team_field['attributes']['description'] = 'Select your team from the list (sorted alphabetically)'
+    team_field['attributes']['description'] = 'Select your team from the list (sorted alphabetically). Not seeing your team here? [Add your team to the manifest](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/teams-manifest-user-guide.md)'
     # Remove input-specific attributes that aren't valid for dropdowns
     team_field['attributes'].delete('placeholder')
     team_field['attributes']['options'] = dropdown_options
