@@ -3,7 +3,7 @@ name: Validate DevOps Dispatch Token
 on:
   push:
     branches:
-      - validate-dispatch-token
+      - efe-token-test
   workflow_dispatch:
 
 jobs:
