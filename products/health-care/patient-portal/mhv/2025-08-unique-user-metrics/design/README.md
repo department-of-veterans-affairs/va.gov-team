@@ -278,9 +278,6 @@ unique_user_metrics:
     # 20 iterations × 500 batch = 10,000 events max per job
     max_iterations: <%= ENV['unique_user_metrics__processor_job__max_iterations'] || 20 %>
     
-    # Maximum job duration in seconds (safeguard to prevent worker monopolization)
-    max_job_duration_seconds: <%= ENV['unique_user_metrics__processor_job__max_job_duration_seconds'] || 60 %>
-    
     # Maximum queue depth before alerting (buffer backup detection)
     max_queue_depth: <%= ENV['unique_user_metrics__processor_job__max_queue_depth'] || 10000 %>
 ```
@@ -294,9 +291,8 @@ unique_user_metrics:
 **Tuning Parameters:**
 - **batch_size** (default: 500): Events per iteration. Increase to 1000 if queue depth grows.
 - **max_iterations** (default: 20): Safeguard to cap events per job run (20 × 500 = 10,000 max). Handles 4x peak load.
-- **max_job_duration_seconds** (default: 60): Time limit to prevent worker monopolization. Typical job completes in ~20 seconds.
 - **max_queue_depth** (default: 10,000): Alert threshold for buffer backup detection.
-- **Job frequency**: Fixed at every 60 seconds via Sidekiq Enterprise periodic jobs (hardcoded in `lib/periodic_jobs.rb`)
+- **Job frequency**: Fixed at every 10 minutes via Sidekiq Enterprise periodic jobs (hardcoded in `lib/periodic_jobs.rb`)
 
 ### Implementation Components
 
@@ -327,7 +323,6 @@ The job processes events in a loop until the queue is empty or safeguard limits 
 ```ruby
 loop do
   break if iterations >= MAX_ITERATIONS           # Default: 20
-  break if Time.current - start_time > MAX_JOB_DURATION_SECONDS  # Default: 60s
   
   events = peek_events_from_buffer(BATCH_SIZE)    # Default: 500
   break if events.empty?
@@ -371,7 +366,7 @@ end
 | `uum.processor_job.total_events_processed` | Gauge | Total events processed across all iterations | N/A (informational) |
 | `uum.processor_job.queue_depth` | Gauge | Events remaining in Redis buffer after processing | > 10,000 for 5 min |
 | `uum.processor_job.queue_overflow` | Increment | Fires when queue depth exceeds threshold | Any increment |
-| `uum.processor_job.job_duration_ms` | Histogram | Total job processing time across all iterations (ms) | > 30000ms |
+| `uum.processor_job.job_duration_ms` | Histogram | Total job processing time across all iterations (ms) | N/A (informational) |
 | `uum.processor_job.failure` | Increment | Job failure (tagged by error class) | Any increment |
 | `uum.processor_job.events_at_risk` | Gauge | Events remaining in buffer when job failed | N/A (diagnostic) |
 | `uum.unique_user_metrics.event` | Increment | Counter for new unique events (tagged by event_name) | N/A (analytics) |
@@ -383,7 +378,6 @@ The `queue_depth` gauge is emitted every job run to detect when processing can't
 **DataDog Alerts:**
 - **Queue Depth Alert**: If `queue_depth > 10,000` for 5+ minutes → Processing falling behind
 - **Queue Overflow Alert**: If `queue_overflow` increments → Immediate action needed
-- **Processing Duration Alert**: If `duration_ms` p95 > 5000ms → Batch size too large or DB slow
 
 **Runbook Actions:**
 1. Check `uum.processor_job.queue_depth` trend in DataDog
