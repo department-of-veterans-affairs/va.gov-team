@@ -229,9 +229,9 @@ The form output content remains the same as what we've just reviewed, but now th
 
 `Observe navigation methods (e.g., scrolling, tabbing)`
 
-### TASK: Can you show us what the birthdates are for the 2 children that are being added to Jamie's VA benefits?
+### TASK: Can you show us when Jamie got married to their current spouse?
 
-[Answer: October 18, 2020 and July 29, 2015]
+[Answer: 09/15/2023]
 
 * On a scale from 1-5, 1 being very difficult and 5 being very easy... How easy was it to find the answer?
     * Why?
