@@ -10,10 +10,10 @@ assignees: 'jasonday'
 
 ## 1. Introduction
 
-This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you can submit as part of your staging review. Try to resolve as many issues as possible before your staging review. Then update this artifact with your progress. Log any issues you find. Guidance for logging issues is available in the "4. Next steps" section of this ticket.
+This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you must submit as part of your staging review. Try to resolve as many issues as possible before your staging review. Then update this artifact with your progress. Log any issues you find. Guidance for logging issues is available in the "4. Next steps" section of this ticket.
         
 ### Why we ask VFS teams to do accessibility testing
-The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found along the way. It also helps us understand your product better before we do our review.
+The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found during testing. It also helps us understand your product better before we do our review.
 
 ## 2. Before you begin
 
@@ -35,14 +35,14 @@ Complete all required checks and as many recommended checks as you can. If you c
 
 ### Automated testing
 #### Required
-- [ ] **Axe DevTools has been run on every page (Automated-001)**  
+- **Axe DevTools has been run on every page (Automated-001)**  
   Axe Devtools has been run against every page in your flow, including page variations, interactive states of content, etc.
   [Learn more about testing with Axe DevTools](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
   - [ ] Pass  
   - [ ] Fail
   - [ ] Include screenshots or output of AXE results in a comment on this ticket
 
-- [ ] **Axe-core has been integrated in end to end testing (Automated-002)**  
+- **Axe-core has been integrated in end to end testing (Automated-002)**  
   End to end testing with Cypress or other libraries includes Axe-core scanning.
   [Learn more about integrating Axe-core in end-to-end testing](https://depo-platform-documentation.scrollhelp.site/developer-docs/end-to-end-testing-with-cypress). 
   - [ ] Pass  
@@ -75,7 +75,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Background images are not used for informative content (WEB-111-004)**  
-  CSS background images contain no meaningful content, or that content is available through other means.  
+  CSS background images must not be used to convey meaningful information unless that same information is also provided in an accessible form elsewhere.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -89,7 +89,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Transcripts or audio descriptions are included for videos (WEB-123)**  
-  For non-live video, a full descriptive transcript or an audio description is provided.  
+  Non‑live video includes a full descriptive transcript or an audio description.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -145,7 +145,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Content is organized into sections (WEB-2410)**  
-  Where content is organized in sections, section headings are provided.  
+  Content organized in sections includes section headings.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -184,7 +184,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Important graphics and icons have sufficient contrast (WEB-1411-002)**  
-  Essential graphical objects maintain a 3:1 contrast ratio.  
+  Essential graphical objects have a 3:1 contrast ratio against adjacent colors  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -223,7 +223,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **No keyboard trap (WEB-212)**  
-  Keyboard focus can always move away from any element using standard keys.  
+  Users can move keyboard focus away from any element using standard keys.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -239,7 +239,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **The element with focus is always visible (WEB-2411)**  
-  The visible focus indicator is not completely obscured by other content.  
+  The element with focus remains visible and on‑screen and is not obscured by other content. 
   - [ ] Pass  
   - [ ] Fail  
 
@@ -249,7 +249,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Interacting with form fields doesn't trigger unexpected changes (WEB-322)**  
-  Changing form values does not automatically cause navigation or context changes.  
+  Changing form values does not automatically cause navigation or context changes without warning.  
   - [ ] Pass  
   - [ ] Fail  
 
@@ -283,7 +283,7 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 - **Help options appear in the same location on all pages (WEB-326)**  
-  Help mechanisms such as contact details, messaging, chat, or self-help options must be in the same relative order on all pages where the information is present..  
+  Help mechanisms such as contact details, messaging, chat, or self-help options must be in the same relative order on all pages where the information is present.
   - [ ] Pass  
   - [ ] Fail  
 
@@ -327,8 +327,8 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Pass  
   - [ ] Fail  
 
-- **Required fields are clearly marked with text and in code (WEB-131-007)**  
-  Required fields/controls are identified in text and programmatically.  
+- **Required fields are identified programmatically (WEB-131-007)**  
+  Required fields/controls are identified programmatically for assistive technology  
   - [ ] Pass  
   - [ ] Fail  
 
