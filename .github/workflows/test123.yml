@@ -1,0 +1,18 @@
+name: Validate DevOps Dispatch Token
+
+on:
+  push:
+    branches:
+      - validate-dispatch-token
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test repository_dispatch to DevOps repo
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
+          repository: department-of-veterans-affairs/devops
+          event-type: token-validation-test
