@@ -452,12 +452,19 @@ _Complete the [VA recruitment checker for marginalized Veteran groups](https://d
 >    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
+* Cognitive Disability
+* Other than Honorable
+* Immigrant Origin
+* Expat
+* Native Hawaiian or Pacific Islander
+* First Nations (Canada)
+* LGBTQ+
+* Transgender
+* Non-Binary
+* Assistive Tech 
+
+<img width="317" height="433" alt="Screenshot 2026-01-05 at 4 14 17 PM" src="https://github.com/user-attachments/assets/e4bbeb8b-e02b-47ab-8ba9-e46b0a97f4c2" />
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 
