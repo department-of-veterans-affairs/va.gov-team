@@ -1,37 +1,49 @@
-# CDS Research Operations (WORK IN PROGRESS 1/2/2025)
+# CDS Research Operations (WORK IN PROGRESS 1/5/2025)
 
 
 **Jump to:**
 - [Research Checklist](#research-checklist)
 - [Handling Sensitive Information](#handling-sensitive-information)
-- [Research Planning](#research-planning)
+- [Prepare Research Materials](#prepare-research-materials)
 - [Recruitment and Scheduling](#recruitment-and-scheduling)
 - [Conduct User Sessions](#conduct-user-sessions)
 - [Synthesis](#synthesis)
-- [Share and document research](#Share-and-document-research)
+- [Share and document research](#share-and-document-research)
 - [Research close-out](#research-close-out)
 
 ## Research Checklist
 While the details of each step may differ based on the type of research being conducted, this checklist provides a genearl overveiew of the work that needs to be completed and can serve as a basis for covering research related tasks.
 
-1. **Planning for research:**  
-   - Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
+1. **Prepare Research Materials**  
+   - Check if any related research exists in the OCTO GitHub Research Repository. 
+   - Deterimine research method.
    - Write your research plan and guide.
-   - Create stimuli
+   - Create stimuli.
    - Get peer reviews and run a pilot session.
 2. **Recruitment and Scheduling** 
-   - Prep and modify outreach templates
-   - Identify potential participants
-   - Send emails
-   - Create MS Teams event for remote sessions
+   - Prep and modify outreach templates.
+   - Identify potential participants.
+   - Send emails.
+   - Create MS Teams event for remote sessions.
+   - Find notetakers and observers.
 3. **Conduct Sessions** 
-   - Prep and modify outreach templates
-   - Identify potential participants
-   - Send emails
-4. **Synthesize Data** 
-5. **Share and document research**
-6. **Research close-out**
-  
+   - Have the conversation guide ready and a glass of water.
+   - If recording, get verbal consent before recording and right after you start the recording.
+   - Do not record screens when patient data is showing.
+   - Debrief or capture a few top takeaways immediately after the sesion.
+4. **Synthesize Data**
+   - test
+6. **Share and document research**
+   - Create GitHub research folder
+   - Copy guide and plan
+   - Copy findings
+   - Share out in HCD CoP or async via a recording
+7. **Research close-out**
+   - Send participants thank you emails
+   - Update "last contacted" data in research participant database to reflect MM/YYYY of session.
+   - Scrub PII or PHI from raw notes or transcripts being retained.
+   - Delete recordings
+   
 
 ## Handling Sensitive Information
 > [!NOTE]
@@ -45,18 +57,34 @@ While the details of each step may differ based on the type of research being co
 
 [Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
 
-## Research Planning 
+## Prepare Research Materials 
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Description  
-- Method 2: Description
+- Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
+- Determine your research methodology.
+- Write your research plan and guide.
+- Create stimuli (Figma or Mural)
+- Get peer reviews and run a pilot session.
 
 > [!TIP]
-> Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section).
+> Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section). Keep in mind tables will not copy over directly and it's best to copy sections at a time to maintain the formatting in the markdown files.
 
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+#### VHA Union and PRA considerations for staff-facing research
+<details>
+   
+**Interviews, Usability Studies, and Surveys**  
+When reaching out to clinicians about participating in ANY form of research, clearly communicate that participation in this survey is voluntary, and employees will be assured that their responses will remain confidential, and their anonymity protected. Research focus should remain related to the research subject and the duties of their role as it relates to the product being researched.
 
+When considering using a questionnaire or survey as a method to collect data on the clinician's experience, note that the survey questions will need to go through a VHA/DHO and labor relations approval process.
+
+Coordinate with your OCTO HCD Lead who can assist with getting materials through the labor relations process.
+
+**Paperwork Reduction Act (PRA)** 
+
+PRA does not apply to surveys of government employees if the questions are related to their official duties. Generally, research focus should remain related to the research subject and their official duties vs the nature of engaging the federal workforce in government research as participants. For more detailed instructions, see this guide to the PRA on digital.gov: https://pra.digital.gov/do-i-need-clearance/ 
+
+</details>
 
 ## Recruitment and Scheduling
 While the make-up of research participants may vary based on the product's target user group (such as primary care physicians or LCS coordinators), every research study should strive to include a 50/50 split between CPRS and Oracle Health EHR users and as we are getting started, a minimum of 1 Oracle Health EHR user. Unless the product being researched will never be used by both EHRs.
@@ -80,8 +108,8 @@ While the make-up of research participants may vary based on the product's targe
 <details>
 
 **Syncing and Updating**
-- The database is synced to the sign-up form which covers the blue columns. The yellow-orange columns are not associated with form fields and are for our own notes and management purposes.
-- While the database syncs to the sign-up form, it does not overwrite changes to any of the blue columns. For example, if a user marked CPRS as their EHR and then they migrated to Oracle Health, we can change the cell to Oracle Health and it will not revert back to CPRS when syncing. The syncing process looks for new records and adds them to the bottom of the list.
+- The database is synced to the sign-up form inputs which are the blue columns in the spreadsheet. The yellow-orange columns are not associated with form fields and are for our own notes and management purposes.
+- While the database syncs to the sign-up form, it does not overwrite changes to any of the blue columns. For example, if a user marked CPRS as their EHR and then they migrated to Oracle Health, we can change the cell to Oracle Health and it will not revert back to CPRS when syncing. The syncing process looks for new records and adds them to the bottom of the list, so it is okay to adjust and correct form inputs as needed.
 - Only one submission is allowed per VA email. Therefore HCD pratitioners need to manually add new particpants directly into the spreadsheet. Check first to ensure the participant is not already in the database. Duplicates will arise only from manual entires.
 - All CDS HCD practitioners should add their own contacts to the database and update "last contacted" when contacting participants to participate in studies.
 - "Last contacted" column ensures we are not contacting participants for multiple studies at the same time. Use only MM/YYYY format so we do not create an opportunity for people to be connected to specific studies.
@@ -105,9 +133,9 @@ While the make-up of research participants may vary based on the product's targe
 </details>
 
 ### Outreach & Scheduling  
-The following templates can be used and modified to fit the purpose of your outreach to clinicians when recruiting participants for HCD research.
+The following templates can be used and modified to fit the purpose of your outreach to clinicians when recruiting participants for HCD research. 
 
-When connecting with clinicians, it's important to:
+Make the adjustments you need while ensuring the outreach contains the following information: 
 
 - identify who we are
 - share how we got their contact information
@@ -141,6 +169,47 @@ Cheers,
 
 [researcher name]
 
+**Referral**
+
+Hello, [Clinician name]
+
+My name is [researcher name] and I’m part of a team of contractors working with the Clinical Decision Support Collaborative (CDSC) in partnership with the Veteran’s Health Administration (VHA) and the Office of the Chief Technology Officer (OCTO). 
+
+We’ve received your contact information from [name or group] who thought you might be a good fit for this project as [e.g., a clinician working with _____].
+
+We are working to improve clinical decision support (CDS) tools that are available within the VA to help clinicians provide best in class care for Veterans. 
+
+We are working on a project to [insert your project area or application name] that are available nationally to VA clinicians from the CDS platform. We are inviting you, as a clinician who works in [insert area], to help us identify the most needed calculators and risk assessments as well as provide feedback on designs and workflows.
+
+Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential and your anonymity protected.
+
+If you are interested in participating, please [insert next step].   If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database.
+
+Thank you for your time!
+
+Cheers,
+
+[researcher name]
+
+**Previous Participation**
+
+Hello, [Clinician name]
+
+My name is [researcher name] and I’m part of a team of contractors working with the Clinical Decision Support Collaborative (CDSC) in partnership with the Veteran’s Health Administration (VHA) and the Office of the Chief Technology Officer (OCTO). We are working together to improve clinical decision support (CDS) tools that are available within the VA to help clinicians provide best in class care for Veterans. 
+
+You’ve previously participated in [project name] with [researcher name] and expressed interest in participating in other related projects. We are gearing up for another round of design research and looking for more help.
+
+We are working on a project to develop medical calculators and risk assessments that are available nationally to VA clinicians from the CDS platform. We are inviting you, as a clinician who works in [insert area], to help us identify the most needed calculators and risk assessments as well as provide feedback on designs and workflows. The session will take place over MS Teams and take 60 minutes of your time.
+
+Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential and your anonymity protected.
+
+If you are interested in participating, please [insert next step].  If you are interested in participating, but not available for this session, please keep an eye out for future opportunities. If you are not interested in participating and do not want to be contacted about any future design research sessions, please respond to this email indicating that so I can make note in our database.
+
+Thank you for your time!
+
+Cheers,
+
+[researcher name]
  
 </details>
 
@@ -212,33 +281,6 @@ Brief description
 
 > [!NOTE] 
 > Refer back to your Product Outline. 
-
-### Desired User Outcome 
-This research supports our desired user outcome by....
- 
-### Desired Business Outcome
-This research supports our desired business outcome by....
-
-
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
-
-
-## Next Steps
-
-*Outline immediate actions based on findings, including owners if applicable.*  
-
-
-## Further research needed
-
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
 
 ## Appendix
