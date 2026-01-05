@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send dispatch to DevOps repo
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         with:
-          token: ${{ env.VA_VSP_BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.VA_VSP_BOT_GITHUB_TOKEN }}
           repository: department-of-veterans-affairs/devops
           event-type: aws-access-request
           client-payload: |
