@@ -464,42 +464,43 @@ This research does not include the perspectives of the following marginalized Ve
 * Non-Binary
 * Assistive Tech
 
-  | Group                                                  | Category     | %      | #   | Study | Achieved? |
-|--------------------------------------------------------|-------------|--------|-----|-------|-----------|
-| All participants                                      | Total       | n/a    | n/a | 14    | n/a       |
-| Assistive Tech (AT) users                             | Total       | n/a    | n/a | 0     | n/a       |
-| No-show participants                                  | Total       | n/a    | n/a | 0     | n/a       |
-| Age 55-64+                                            | General     | 50%    | 7   | 8     | yes       |
-| Cognitive Disability                                  | General     | 50%    | 7   | 0     | no        |
-| Mobile user                                           | General     | 50%    | 7   | 3     | no        |
-| Rural                                                 | General     | 25%    | 4   | 3     | no        |
-| No degree                                             | General     | 25%    | 4   | 3     | no        |
-| Other than honorable                                  | General     | 21%    | 3   | 0     | no        |
-| Immigrant origin                                      | General     | 17%    | 3   | 0     | no        |
-| Women                                                 | General     | 10%    | 2   | 6     | no        |
-| Expat (living abroad)                                 | General     | 0.4%   | 1   | 0     | no        |
-| Black or African American                             | Race        | 15%    | 3   | 2     | no        |
-| Hispanic, Latino, or Spanish origin                   | Race        | 12%    | 3   | 2     | no        |
-| Biracial                                              | Race        | 3.9%   | 1   | 5     | yes       |
-| Asian                                                 | Race        | 2.7%   | 1   | 2     | yes       |
-| Native Hawaiian or other Pacific Islander             | Race        | 0.3%   | 1   | 0     | no        |
-| First Nations (Canada)                                | Race        | n/a    | 1   | 0     | no        |
-| Native, American Indian or Alaska Native              | Race        | 1.6%   | 1   | 1     | yes       |
-| Gay, lesbian, or bisexual                             | LGBTQ+      | n/a    | 1   | 0     | no        |
-| Transgender                                           | LGBTQ+      | n/a    | 1   | 0     | no        |
-| Nonbinary, gender fluid, gender queer, Two-Spirit     | LGBTQ+      | n/a    | 1   | 0     | no        |
-| Beginner AT User                                      | AT          | 50%    | 0   | 0     | no        |
-| Experienced AT User                                   | AT          | 50%    | 0   | 0     | no        |
-| Desktop Screen Reader (SR)                            | AT          | 20%    | 0   | 0     | no        |
-| Mobile Screen Reader (SR)                             | AT          | 20%    | 0   | 0     | no        |
-| Magnification/Zoom                                    | AT          | 20%    | 0   | 0     | no        |
-| Speech Input Tech (Siri, Dragon)                      | AT          | 20%    | 0   | 0     | no        |
-| Hearing Aids                                          | AT          | 20%    | 0   | 0     | no        |
-| Sighted Keyboard                                      | AT          | 10%    | 0   | 0     | no        |
-| Captions                                              | AT          | n/a    | 0   | 0     | no        |
-| Switch Device                                         | AT          | n/a    | 1   | 0     | no        |
-| Braille Reader                                        | AT          | n/a    | 1   | 0     | no        |
-
+Here's the spreadsheet data converted to a markdown table:
+
+| Category | % | # | Study | Achieved?  |
+|----------|---|---|-------|-----------|
+| **All participants** | Total | n/a | n/a | 14 | n/a |
+| **Assistive Tech (AT) users** | Total | n/a | n/a | 0 | n/a |
+| **No-show participants** | Total | n/a | n/a | 0 | n/a |
+| Age 55-64+ | General | 50% | 7 | 8 | yes |
+| Cognitive Disability | General | 50% | 7 | 0 | no |
+| Mobile user | General | 50% | 7 | 3 | no |
+| Rural | General | 25% | 4 | 3 | no |
+| No degree | General | 25% | 4 | 3 | no |
+| Other than honorable | General | 21% | 3 | 0 | no |
+| Immigrant origin | General | 17% | 3 | 0 | no |
+| Women | General | 10% | 2 | 6 | yes |
+| Expat (living abroad) | General | 4% | 1 | 0 | no |
+| Black or African American | Race | 15% | 3 | 2 | no |
+| Hispanic, Latino, or Spanish origin | Race | 12% | 2 | 2 | yes |
+| Biracial | Race | 3. 9% | 1 | 5 | yes |
+| Asian | Race | 2.7% | 1 | 2 | yes |
+| Native Hawaiian or other Pacific Islander | Race | 3% | 1 | 0 | no |
+| First Nations (Canada) | Race | n/a | 1 | 0 | no |
+| Native, American Indian or Alaska Native | Race | 1.6% | 1 | 1 | yes |
+| Gay, lesbian, or bisexual | LGBTQ+ | n/a | 1 | 0 | no |
+| Transgender | LGBTQ+ | n/a | 1 | 0 | no |
+| Nonbinary, gender fluid, gender queer, Two-Spirit | LGBTQ+ | n/a | 1 | 0 | no |
+| Beginner AT User | AT | 50% | 0 | 0 | no |
+| Experienced AT User | AT | 50% | 0 | 0 | no |
+| Desktop Screen Reader (SR) | AT | 20% | 0 | 0 | no |
+| Mobile Screen Reader (SR) | AT | 20% | 0 | 0 | no |
+| Magnification/Zoom | AT | 20% | 0 | 0 | no |
+| Speech Input Tech (Siri, Dragon) | AT | 20% | 0 | 0 | no |
+| Hearing Aids | AT | 20% | 0 | 0 | no |
+| Sighted Keyboard | AT | 10% | 0 | 0 | no |
+| Captions | AT | n/a | 1 | 0 | no |
+| Switch Device | AT | n/a | 1 | 0 | no |
+| Braille Reader | AT | n/a | 1 | 0 | no |
 
 <img width="317" height="433" alt="Screenshot 2026-01-05 at 4 14 17 PM" src="https://github.com/user-attachments/assets/e4bbeb8b-e02b-47ab-8ba9-e46b0a97f4c2" />
 
