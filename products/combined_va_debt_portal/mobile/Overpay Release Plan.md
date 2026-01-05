@@ -1,4 +1,4 @@
-# **Web Redesign Release Plan**
+# **Mobile: Overpay MVP Release Plan**
 
 ## **Step 1: Development**
 
@@ -38,7 +38,7 @@ Before enabling your feature toggle in production, you'll need to:
 2. Work with the VA Mobile App Lead, Jon Bindbeutel to create a UAT group with the Veterans' emails within Test Flight.  
 3. Testers will need to install Test Flight, select “**insert build name**” and toggle on the “**insert name**” remote configuration.
 4. UAT testing is scheduled from **insert dates once confirmed**
-5. Refer to our \*insert **UAT AC documentation**
+5. Refer to our **insert UAT AC documentation** 
 
 #### **Results**
 
