@@ -462,7 +462,13 @@ This research does not include the perspectives of the following marginalized Ve
 * LGBTQ+
 * Transgender
 * Non-Binary
-* Assistive Tech 
+* Assistive Tech
+
+  | Group                                                  | Category     | %      | #   | Study | Achieved? |
+|--------------------------------------------------------|-------------|--------|-----|-------|-----------|
+| All participants                                      | Total       | n/a    | n/a | 14    | n/a       |
+| Assistive Tech (AT) users                            
+
 
 <img width="317" height="433" alt="Screenshot 2026-01-05 at 4 14 17 PM" src="https://github.com/user-attachments/assets/e4bbeb8b-e02b-47ab-8ba9-e46b0a97f4c2" />
 
