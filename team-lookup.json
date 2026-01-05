@@ -1,0 +1,542 @@
+{
+  "21001": {
+    "team_id": 21001,
+    "team_name": "Content and Information Architecture",
+    "short_name": "content-ia",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Content, IA, and Editor Experience",
+    "readme_path": "teams/digital-experience/content-and-information-architecture/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/content-and-information-architecture/README.md"
+  },
+  "21004": {
+    "team_id": 21004,
+    "team_name": "Faceted Search",
+    "short_name": "faceted-search",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Content, IA, and Editor Experience",
+    "readme_path": "teams/digital-experience/faceted-search/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/faceted-search/README.md"
+  },
+  "21002": {
+    "team_id": 21002,
+    "team_name": "VA Chatbot",
+    "short_name": "vfs-virtual-agent-chatbot",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Content, IA, and Editor Experience",
+    "readme_path": "teams/digital-experience/chatbot/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/chatbot/README.md"
+  },
+  "21003": {
+    "team_id": 21003,
+    "team_name": "VES Transition Experience",
+    "short_name": "ves-transition-experience",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Content, IA, and Editor Experience",
+    "readme_path": "teams/digital-experience/ves-transition-experience/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/ves-transition-experience/README.md"
+  },
+  "22008": {
+    "team_id": 22008,
+    "team_name": "Ask VA",
+    "short_name": "ask-va",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/ask-va/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/ask-va/README.md"
+  },
+  "22001": {
+    "team_id": 22001,
+    "team_name": "Authenticated Experience",
+    "short_name": "authenticated-experience",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/authenticated-experience/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/authenticated-experience/README.md"
+  },
+  "22004": {
+    "team_id": 22004,
+    "team_name": "Core Veteran Experience 1",
+    "short_name": "iir",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/cve-1/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/cve-1/README.md"
+  },
+  "22009": {
+    "team_id": 22009,
+    "team_name": "Core Veteran Experience 2",
+    "short_name": "cve-2",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/cve-2/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/cve-2/README.md"
+  },
+  "22003": {
+    "team_id": 22003,
+    "team_name": "Financial Management",
+    "short_name": "financial-management",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/financial-management/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/financial-management/README.md"
+  },
+  "22005": {
+    "team_id": 22005,
+    "team_name": "Mobile App and Platform",
+    "short_name": "mobile-app-and-platform",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/mobile-app-and-platform/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/mobile-app-and-platform/README.md"
+  },
+  "22006": {
+    "team_id": 22006,
+    "team_name": "Mobile Feature Support",
+    "short_name": null,
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/mobile-feature-support/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/mobile-feature-support/README.md"
+  },
+  "22010": {
+    "team_id": 22010,
+    "team_name": "Notify Experience",
+    "short_name": "notify-experience",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/notify-experience/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/notify-experience/README.md"
+  },
+  "22002": {
+    "team_id": 22002,
+    "team_name": "Notify Platform",
+    "short_name": "notify-platform",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/notify-platform/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/notify-platform/README.md"
+  },
+  "22007": {
+    "team_id": 22007,
+    "team_name": "Veteran Support",
+    "short_name": "veteran-support",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Core Veteran Experiences",
+    "readme_path": "teams/digital-experience/veteran-support/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/veteran-support/README.md"
+  },
+  "20001": {
+    "team_id": 20001,
+    "team_name": "Identity",
+    "short_name": "identity",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Identity",
+    "readme_path": "teams/digital-experience/identity/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/identity/README.md"
+  },
+  "23001": {
+    "team_id": 23001,
+    "team_name": "Accessibility Digital Experience (ADE)",
+    "short_name": "ade",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Platform Services and Governance",
+    "readme_path": "teams/digital-experience/ADE/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/ADE/README.md"
+  },
+  "23002": {
+    "team_id": 23002,
+    "team_name": "Analytics and Insights",
+    "short_name": "analytics-and-insights",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Platform Services and Governance",
+    "readme_path": "teams/digital-experience/analytics-and-insights/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/analytics-and-insights/README.md"
+  },
+  "23003": {
+    "team_id": 23003,
+    "team_name": "Design & Forms Systems",
+    "short_name": "design-forms-systems",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Platform Services and Governance",
+    "readme_path": "teams/digital-experience/design-forms-systems/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md"
+  },
+  "23004": {
+    "team_id": 23004,
+    "team_name": "Governance",
+    "short_name": "governance",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Platform Services and Governance",
+    "readme_path": "teams/digital-experience/governance/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/governance/README.md"
+  },
+  "23005": {
+    "team_id": 23005,
+    "team_name": "Platform Support",
+    "short_name": "platform-support",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Platform Services and Governance",
+    "readme_path": "teams/digital-experience/platform-support/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/platform-support/README.md"
+  },
+  "29001": {
+    "team_id": 29001,
+    "team_name": "Facilities",
+    "short_name": "facilities",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Sitewide",
+    "readme_path": "teams/digital-experience/facilities/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/facilities/README.md"
+  },
+  "29003": {
+    "team_id": 29003,
+    "team_name": "Public Websites",
+    "short_name": "public-websites",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Sitewide",
+    "readme_path": "teams/digital-experience/public-websites/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/public-websites/README.md"
+  },
+  "29002": {
+    "team_id": 29002,
+    "team_name": "Reapers",
+    "short_name": "govcio-vfep-codereviewers",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Sitewide",
+    "readme_path": "teams/digital-experience/govcio-vfep-codereviewers/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/govcio-vfep-codereviewers/README.md"
+  },
+  "24001": {
+    "team_id": 24001,
+    "team_name": "Accelerate Cybersecurity Excellence (ACE)",
+    "short_name": "ace",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/ace/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/ace/README.md"
+  },
+  "24002": {
+    "team_id": 24002,
+    "team_name": "Content Management System",
+    "short_name": "cms",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/cms/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/cms/README.md"
+  },
+  "24003": {
+    "team_id": 24003,
+    "team_name": "Platform Infrastructure Services",
+    "short_name": "platform-infrastructure-services",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/platform-infrastructure-services/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/platform-infrastructure-services/README.md"
+  },
+  "24004": {
+    "team_id": 24004,
+    "team_name": "Platform Security",
+    "short_name": "platform-security",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/platform-security/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/platform-security/README.md"
+  },
+  "24005": {
+    "team_id": 24005,
+    "team_name": "Platform Site Reliability Engineering",
+    "short_name": "platform-sre",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/platform-sre/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/platform-sre/README.md"
+  },
+  "24006": {
+    "team_id": 24006,
+    "team_name": "Watch Engineers",
+    "short_name": "watch-engineers",
+    "portfolio": "Digital Experience",
+    "crew_or_pod": "Veteran-Facing Platforms",
+    "readme_path": "teams/digital-experience/watch-engineers/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/watch-engineers/README.md"
+  },
+  "10001": {
+    "team_id": 10001,
+    "team_name": "Accredited Reps. - Accreditation",
+    "short_name": "ar-accreditation",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Accredited Reps Crew",
+    "readme_path": "teams/benefits-portfolio/ar-accreditation/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/ar-accreditation/README.md"
+  },
+  "10002": {
+    "team_id": 10002,
+    "team_name": "Accredited Reps. - Appoint",
+    "short_name": "ar-appoint",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Accredited Reps Crew",
+    "readme_path": "teams/benefits-portfolio/ar-appoint/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/ar-appoint/README.md"
+  },
+  "10003": {
+    "team_id": 10003,
+    "team_name": "Accredited Reps. - Benefits",
+    "short_name": "ar-benefits",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Accredited Reps Crew",
+    "readme_path": "teams/benefits-portfolio/ar-benefits/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/ar-benefits/README.md"
+  },
+  "19002": {
+    "team_id": 19002,
+    "team_name": "BIO Aquia",
+    "short_name": "bio-aquia",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Benefits Intake Optimization (BIO)",
+    "readme_path": "teams/benefits-portfolio/bio-aquia/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/bio-aquia/README.md"
+  },
+  "19003": {
+    "team_id": 19003,
+    "team_name": "BIO HEART",
+    "short_name": "bio-heart",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Benefits Intake Optimization (BIO)",
+    "readme_path": "teams/benefits-portfolio/bio-heart/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/bio-heart/README.md"
+  },
+  "19004": {
+    "team_id": 19004,
+    "team_name": "BIO Huntridge",
+    "short_name": "vfs-bio-huntridgelabs",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Benefits Intake Optimization (BIO)",
+    "readme_path": "teams/benefits-portfolio/bio-huntridgelabs/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/bio-huntridgelabs/README.md"
+  },
+  "19001": {
+    "team_id": 19001,
+    "team_name": "BIO Pingwind",
+    "short_name": "benefits-intake-pingwind",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Benefits Intake Optimization (BIO)",
+    "readme_path": "teams/benefits-portfolio/benefits-intake-pingwind/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-intake-pingwind/README.md"
+  },
+  "11001": {
+    "team_id": 11001,
+    "team_name": "Benefits Management Tools 1",
+    "short_name": "benefits-management-tools-1",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Cross-Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/benefits-management-tools-1/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-management-tools-1/README.md"
+  },
+  "11002": {
+    "team_id": 11002,
+    "team_name": "Benefits Management Tools 2",
+    "short_name": null,
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Cross-Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/benefits-management-tools-2/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-management-tools-2/README.md"
+  },
+  "11003": {
+    "team_id": 11003,
+    "team_name": "Benefits Management Tools 3",
+    "short_name": "benefits-management-tools-3",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Cross-Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/benefits-management-tools-3/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-management-tools-3/README.md"
+  },
+  "11004": {
+    "team_id": 11004,
+    "team_name": "Decision Reviews",
+    "short_name": "decision-reviews",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Cross-Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/decision-reviews/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/decision-reviews/README.md"
+  },
+  "12001": {
+    "team_id": 12001,
+    "team_name": "Conditions",
+    "short_name": "conditions",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Disability Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/conditions/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/conditions/README.md"
+  },
+  "12002": {
+    "team_id": 12002,
+    "team_name": "Disability Core 526",
+    "short_name": "disability-benefits-1",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Disability Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/disability-core-526/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/disability-core-526/README.md"
+  },
+  "12003": {
+    "team_id": 12003,
+    "team_name": "Disability Pathways",
+    "short_name": "disability-benefits-2",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Disability Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/disability-pathways/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/disability-pathways/README.md"
+  },
+  "11005": {
+    "team_id": 11005,
+    "team_name": "Employee Experience",
+    "short_name": "employee-experience",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Disability Crew",
+    "readme_path": "teams/benefits-portfolio/employee-experience/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/employee-experience/README.md"
+  },
+  "13001": {
+    "team_id": 13001,
+    "team_name": "Dependents Management Tools",
+    "short_name": "DMT",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Lifestage Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/dependents-management/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/dependents-management/README.md"
+  },
+  "13002": {
+    "team_id": 13002,
+    "team_name": "Pension & Burial Benefits",
+    "short_name": "pension-burial-benefits",
+    "portfolio": "Benefits Portfolio",
+    "crew_or_pod": "Lifestage Benefits Crew",
+    "readme_path": "teams/benefits-portfolio/pension-burials-benefits/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/pension-burials-benefits/README.md"
+  },
+  "30001": {
+    "team_id": 30001,
+    "team_name": "Clinical Design System - Data Visualization Design Patterns",
+    "short_name": "clinical-design-system",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "Clinical Decision Support (CDS)",
+    "readme_path": "teams/health-portfolio/clinical-design-system/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/clinical-design-system/README.md"
+  },
+  "31001": {
+    "team_id": 31001,
+    "team_name": "Horizon",
+    "short_name": "horizon",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "MHV on VA.gov Patient Portal",
+    "readme_path": "teams/health-portfolio/horizon/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/horizon/README.md"
+  },
+  "31002": {
+    "team_id": 31002,
+    "team_name": "Medical Records",
+    "short_name": "medical-records",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "MHV on VA.gov Patient Portal",
+    "readme_path": "teams/health-portfolio/medical-records/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/medical-records/README.md"
+  },
+  "31003": {
+    "team_id": 31003,
+    "team_name": "Medications, Medical Devices and Supplies",
+    "short_name": "medications-medical-devices-and-supplies",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "MHV on VA.gov Patient Portal",
+    "readme_path": "teams/health-portfolio/medications-medical-devices-supplies/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/medications-medical-devices-supplies/README.md"
+  },
+  "31004": {
+    "team_id": 31004,
+    "team_name": "Messaging",
+    "short_name": "messaging",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "MHV on VA.gov Patient Portal",
+    "readme_path": "teams/health-portfolio/messaging/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/messaging/README.md"
+  },
+  "32001": {
+    "team_id": 32001,
+    "team_name": "Hydra",
+    "short_name": "hydra",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "Unified Appointment Experience",
+    "readme_path": "teams/health-portfolio/hydra/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/hydra/README.md"
+  },
+  "32002": {
+    "team_id": 32002,
+    "team_name": "Orion",
+    "short_name": "orion",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "Unified Appointment Experience",
+    "readme_path": "teams/health-portfolio/orion/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/orion/README.md"
+  },
+  "32003": {
+    "team_id": 32003,
+    "team_name": "Ursa Minor",
+    "short_name": "ursa-minor",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "Unified Appointment Experience",
+    "readme_path": "teams/health-portfolio/ursa-minor/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ursa-minor/README.md"
+  },
+  "33001": {
+    "team_id": 33001,
+    "team_name": "1010 Health Apps",
+    "short_name": "1010-health-apps",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "VA Health Applications",
+    "readme_path": "teams/health-portfolio/1010-health-apps/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/1010-health-apps/README.md"
+  },
+  "33002": {
+    "team_id": 33002,
+    "team_name": "IVC Forms",
+    "short_name": "ivc-forms",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "VA Health Applications",
+    "readme_path": "teams/health-portfolio/ivc-forms/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md"
+  },
+  "39001": {
+    "team_id": 39001,
+    "team_name": "VEText",
+    "short_name": "vetext",
+    "portfolio": "Health Portfolio",
+    "crew_or_pod": "VEText Notifications & Misc",
+    "readme_path": "teams/health-portfolio/vetext/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/vetext/README.md"
+  },
+  "40002": {
+    "team_id": 40002,
+    "team_name": "GovCIO VEBT",
+    "short_name": "govcio-vebt",
+    "portfolio": "BAM Portfolio",
+    "crew_or_pod": "Education",
+    "readme_path": "teams/bam-portfolio/govcio-vebt/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/bam-portfolio/govcio-vebt/README.md"
+  },
+  "40003": {
+    "team_id": 40003,
+    "team_name": "My Education Benefits",
+    "short_name": null,
+    "portfolio": "BAM Portfolio",
+    "crew_or_pod": "Education",
+    "readme_path": "teams/bam-portfolio/my-education-benefits/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/bam-portfolio/my-education-benefits/README.md"
+  },
+  "41001": {
+    "team_id": 41001,
+    "team_name": "Memorials Self-Service",
+    "short_name": "memorials-self-service",
+    "portfolio": "BAM Portfolio",
+    "crew_or_pod": "Memorials",
+    "readme_path": "teams/bam-portfolio/memorials-self-service/README.md",
+    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/bam-portfolio/memorials-self-service/README.md"
+  }
+}
