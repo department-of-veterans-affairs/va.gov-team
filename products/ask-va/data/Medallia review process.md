@@ -67,7 +67,7 @@ When analyzing feedback, we will tag pain points themes for all items received t
   
 > Is Muscogee Education omniscience above and beyond ever making a mistake?
     
-**AVA related pain point, in one of the predefined categories** (Listed in order of prevelance)
+#### AVA related pain point, in one of the predefined categories (Listed in order of prevelance)
 
 _[These pain point categories were created based on previous synthesis of Ask VA's experience challenges
 ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734559665587/c07692f1c825558a1869a09ca311d6dda1964ebe)_
