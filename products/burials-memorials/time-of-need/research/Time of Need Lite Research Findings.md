@@ -188,13 +188,11 @@ Findings will inform iterative improvements to the form's design, content, and w
 ​​
 2. Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.
    ​
-3. Most users understood the definition of personal representative, but few understood its relation to their specific scenario.​
+3. Most users understood the definition of personal representative, but few understood its relation to their specific scenario.​​
 ​
-4. Some users found the term "eligibility" unclear. Additionally, the distinction between existing and new burials was not always evident, leading some users to unintentionally begin a case as a new burial instead of a subsequent burial.​
+4. Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.​
 ​
-5. Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.​
-​
-6. Users expressed confusion regarding burial terminology, notably ​"cremains green", "intact green", and "cremains". 
+5. Users expressed confusion regarding burial terminology, notably ​"cremains green", "intact green", and "cremains". 
 
 ## Details of Findings 
 
@@ -240,6 +238,8 @@ Users expressed confusion regarding burial terminology, particularly with the te
 - Some users were surprised to learn that criminal history could affect eligibility for burial, or other benefits, even after service with an honorable discharge. ​
 ​
 - When describing overall length of the form, the consensus was that the form was long, but the questions asked were necessary. The experience was about comparable to other VA.gov forms.
+  
+- Some users found the term "eligibility" unclear. Additionally, the distinction between existing and new burials was not always evident, leading some users to unintentionally begin a case as a new burial instead of a subsequent burial.
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
