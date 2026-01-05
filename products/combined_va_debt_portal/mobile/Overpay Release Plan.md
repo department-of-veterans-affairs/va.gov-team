@@ -6,7 +6,7 @@ List the feature toggles here.
 
 | Toggle name | Description |
 | ----- | ----- |
-| Overpayments Feature Flag | When enabled, Veterans will be able to view and take actions on their Overpayments within the mobile App. Veterans will see the Overpayments tile on the Home tab under the Activity tile, and in the Payments tab. Once a user clicks on Overpayments they will have a new page displaying the debts list and can access the debt detail page as well as resolve an overpayment. New pages will open if a Veteran makes a payment, requests help, or disputes an Overpayment.   |
+| Overpayments Feature Flag | When enabled, Veterans will be able to view and take actions on their Overpayments within the mobile App. Veterans will see the Overpayments tile on the Home tab under the Activity tile, and in the Payments tab. Once a user clicks on Overpayments they will have a new page displaying the debts list and can access the debt detail page as well as resolve an overpayment. New pages will open if a Veteran makes a payment, requests help, or disputes an Overpayment.|
 
 ## **Step 2: Validation**
 
@@ -18,8 +18,8 @@ Before enabling your feature toggle in production, you'll need to:
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.  
 - [ ] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.  
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:  
-      - [ ] Review the plan with your DEPO/OCTO representative.  
-      - [ ] Review the release plan with your team.
+  - [ ] Review the plan with your DEPO/OCTO representative.  
+  - [ ] Review the release plan with your team.
 
 ## **Step 3: Production rollout**
 
@@ -36,8 +36,9 @@ Before enabling your feature toggle in production, you'll need to:
 
 1. Working with Denise Coveyduc on finding Veterans to test in Test Flight.  
 2. Work with the VA Mobile App Lead, Jon Bindbeutel to create a UAT group with the Veterans' emails within Test Flight.  
-3. Testers will need to install Test Flight, select “**insert build name**” and toggle on the “**insert name**” remote configuration.  
-4. Refer to our \*insert **UAT AC documentation**
+3. Testers will need to install Test Flight, select “**insert build name**” and toggle on the “**insert name**” remote configuration.
+4. UAT testing is scheduled from **insert dates once confirmed**
+5. Refer to our \*insert **UAT AC documentation**
 
 #### **Results**
 
@@ -53,14 +54,12 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### **Rollout Planning**
 
 * Desired date range: **February 24 \- March 2, 2026**  
-  * **Note**: For the mobile release to occur on February 24, 2026 all work needs to be finalized by the release branch of February 11, 2026\.  
+  * **Note**: For the mobile release to occur on February 24, 2026 all work needs to be finalized by the release branch of **February 11, 2026\.**  
 * How will you make the product available in production while limiting the number of users who can find/access it:   
   * We will be turning on the feature flag for a small percentage of users and increasing every few days as long if metrics meet our success criteria.   
   * We will plan to check the metrics around 9:00am ET and then determine to increase at that time, so that the MFS and FM team can immediately identify any issues.   
 * **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")**?: **Work in Progress**  
   * Debts Controller Latency (measure of time for when the debts came through and when they are able to respond) \- Want this less than 2 seconds within a given 24-hour period.   
-    * Are they tracking at their layer or tracking to the downstream server?    
-    *   
   * DMC Get Debts Endpoint Success (Mobile equivalent): NEEDS TO BE CREATED  
     * Endpoint success calls  
     * We will need to track counts of success and failure and will go into a graph of percentages  
@@ -189,54 +188,5 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 2. What qualitative feedback have you gathered from users or other stakeholders?  
 3. Which assumptions you listed in your product outline were/were not validated?  
 4. How might your product evolve now or in the future based on these results?  
-5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
-
-Message from Natasha: 
-
-**Core UX Latency Thresholds (Human Perception)**  
-**0–100 ms — Instant**
-
-* Feels immediate  
-* Ideal for micro-interactions (button taps, toggles, hover states)  
-* Users perceive the system as *directly responding*
-
-**100–300 ms — Perceptible but smooth**
-
-* Still feels fast and responsive  
-* Common for UI transitions, lightweight animations, simple API calls
-
-**300 ms – 1 second — Noticeable delay**
-
-* Users notice the wait, but attention is maintained  
-* Acceptable for:  
-* Page transitions  
-* Loading partial content  
-* Small data fetches  
-* Best practice: show **visual feedback** (spinner, skeleton loader)
-
-**1–3 seconds — Tolerable with feedback**
-
-* User patience starts to drop  
-* Must show:  
-* Progress indicators  
-* Loading messages  
-* Common for:  
-* Search results  
-* Complex queries  
-* Initial app load
-
-**3–10 seconds — High friction**
-
-* Many users perceive the system as slow or broken  
-* Strongly recommend:  
-* Explicit progress updates  
-* Ability to cancel or multitask
-
-**10+ seconds — Abandonment risk**
-
-* Users often leave or retry  
-* Only acceptable for:  
-* Large uploads/downloads  
-* Data processing tasks  
-* Requires clear expectations (“This may take \~30 seconds”)
+5. What technical tasks are needed to clean up (i.e., removal of feature toggles) 
 
