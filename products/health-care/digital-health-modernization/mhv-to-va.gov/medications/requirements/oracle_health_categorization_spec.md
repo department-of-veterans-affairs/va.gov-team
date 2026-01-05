@@ -9,39 +9,40 @@ This specification defines how medications are categorized based on the `Medicat
 ## Categorization Rules
 
 Medication category is determined by evaluating the following `MedicationRequest` fields:
+
 - `category` - Array of coding values indicating medication context
 - `intent` - The intent of the medication request (e.g., `order`, `plan`)
 - `reportedBoolean` - Whether the medication was reported by the patient (`true`) or ordered by a provider (`false`)
 
 ### Category Mapping
 
-| reportedBoolean | intent | Category Codes | Display Category | Renewal Eligible? | Description |
-|-----------------|--------|----------------|------------------|-------------------|-------------|
-| `false` | `order` | `community` + `discharge` | **VA Prescription** | ✓ Yes* | VA-prescribed medications for home use, dispensed by VA or retail pharmacies |
-| `true` | `plan` | `community` + `patientspecified` | **Documented/Non-VA Medication** | ✗ No | Non-VA medications documented from patient history |
-| `false` | `order` | `outpatient` | **Clinic Administered Medication** | ✓ Yes* | Medications administered in outpatient clinical settings |
-| — | — | `charge-only` | **Pharmacy Charges** | ✗ No | Billing-only pharmacy entries |
-| — | — | `inpatient` | **Inpatient Medication** | ✗ No | Medications administered during inpatient stays |
+| reportedBoolean | intent  | Category Codes                   | Display Category                   | Renewal Eligible? | Description                                                                  |
+| --------------- | ------- | -------------------------------- | ---------------------------------- | ----------------- | ---------------------------------------------------------------------------- |
+| `false`         | `order` | `community` + `discharge`        | **VA Prescription**                | ✓ Yes\*           | VA-prescribed medications for home use, dispensed by VA or retail pharmacies |
+| `true`          | `plan`  | `community` + `patientspecified` | **Documented/Non-VA Medication**   | ✗ No              | Non-VA medications documented from patient history                           |
+| `false`         | `order` | `outpatient`                     | **Clinic Administered Medication** | ✗ No              | Medications administered in outpatient clinical settings                     |
+| —               | —       | `charge-only`                    | **Pharmacy Charges**               | ✗ No              | Billing-only pharmacy entries                                                |
+| —               | —       | `inpatient`                      | **Inpatient Medication**           | ✗ No              | Medications administered during inpatient stays                              |
 
-*\*Renewal eligibility requires additional criteria to be met. See [Renewability Specification](oracle_health_renewability_spec.md).*
+_\*Renewal eligibility requires additional criteria to be met. See [Renewability Specification](oracle_health_renewability_spec.md)._
 
 ### Categorization Logic
 
 ```
-IF reportedBoolean = false 
-   AND intent = 'order' 
+IF reportedBoolean = false
+   AND intent = 'order'
    AND category is exactly ['community', 'discharge']:
     → VA Prescription (renewal eligible)
 
-ELSE IF reportedBoolean = true 
-   AND intent = 'plan' 
+ELSE IF reportedBoolean = true
+   AND intent = 'plan'
    AND category is exactly ['community', 'patientspecified']:
     → Documented/Non-VA Medication (NOT renewal eligible)
 
-ELSE IF reportedBoolean = false 
-   AND intent = 'order' 
+ELSE IF reportedBoolean = false
+   AND intent = 'order'
    AND category is exactly ['outpatient']:
-    → Clinic Administered Medication (renewal eligible)
+    → Clinic Administered Medication (NOT renewal eligible)
 
 ELSE IF category is exactly ['charge-only']:
     → Pharmacy Charges
@@ -53,7 +54,7 @@ ELSE:
     → Uncategorized
 ```
 
-*Note: Category arrays must match exactly in both values and count. Additional or missing codes result in Uncategorized.*
+_Note: Category arrays must match exactly in both values and count. Additional or missing codes result in Uncategorized._
 
 ---
 
@@ -63,16 +64,16 @@ Only specific medication categories are visible to Veterans in the medication li
 
 ### Visibility Matrix
 
-| Display Category | Visible to Veteran? | Renewal Eligible? | Rationale |
-|------------------|---------------------|-------------------|-----------|
-| **VA Prescription** | ✓ Yes | ✓ Yes* | Primary VA prescriptions managed by Veterans |
-| **Documented/Non-VA Medication** | ✓ Yes | ✗ No | Provides complete medication history visibility; not VA-managed |
-| **Clinic Administered Medication** | ✓ Yes | ✓ Yes* | Relevant for Veterans to track administered medications |
-| **Pharmacy Charges** | ✗ No | ✗ No | Billing entries, not actionable medications |
-| **Inpatient Medication** | ✗ No | ✗ No | Administered during hospital stays, not self-managed |
-| **Uncategorized** | ✓ Yes | — | Included pending further testing to determine appropriate handling |
+| Display Category                   | Visible to Veteran? | Renewal Eligible? | Rationale                                                          |
+| ---------------------------------- | ------------------- | ----------------- | ------------------------------------------------------------------ |
+| **VA Prescription**                | ✓ Yes               | ✓ Yes\*           | Primary VA prescriptions managed by Veterans                       |
+| **Documented/Non-VA Medication**   | ✓ Yes               | ✗ No              | Provides complete medication history visibility; not VA-managed    |
+| **Clinic Administered Medication** | ✓ Yes               | ✗ No              | Relevant for Veterans to track administered medications            |
+| **Pharmacy Charges**               | ✗ No                | ✗ No              | Billing entries, not actionable medications                        |
+| **Inpatient Medication**           | ✗ No                | ✗ No              | Administered during hospital stays, not self-managed               |
+| **Uncategorized**                  | ✓ Yes               | —                 | Included pending further testing to determine appropriate handling |
 
-*\*Additional criteria must be met for renewal eligibility. See [Renewability Specification](oracle_health_renewability_spec.md).*
+_\*Additional criteria must be met for renewal eligibility. See [Renewability Specification](oracle_health_renewability_spec.md)._
 
 ### Filtering Logic
 
@@ -92,16 +93,16 @@ EXCLUDE medication IF category is:
 
 ## Summary Table
 
-| reportedBoolean | intent | Category Codes | Display Category | Visible? | Renewal Eligible? |
-|-----------------|--------|----------------|------------------|----------|-------------------|
-| `false` | `order` | `community` + `discharge` | VA Prescription | ✓ Yes | ✓ Yes* |
-| `true` | `plan` | `community` + `patientspecified` | Documented/Non-VA Medication | ✓ Yes | ✗ No |
-| `false` | `order` | `outpatient` | Clinic Administered Medication | ✓ Yes | ✓ Yes* |
-| — | — | `charge-only` | Pharmacy Charges | ✗ No | ✗ No |
-| — | — | `inpatient` | Inpatient Medication | ✗ No | ✗ No |
-| — | — | Other/None | Uncategorized | ✓ Yes | — |
+| reportedBoolean | intent  | Category Codes                   | Display Category               | Visible? | Renewal Eligible? |
+| --------------- | ------- | -------------------------------- | ------------------------------ | -------- | ----------------- |
+| `false`         | `order` | `community` + `discharge`        | VA Prescription                | ✓ Yes    | ✓ Yes\*           |
+| `true`          | `plan`  | `community` + `patientspecified` | Documented/Non-VA Medication   | ✓ Yes    | ✗ No              |
+| `false`         | `order` | `outpatient`                     | Clinic Administered Medication | ✓ Yes    | ✗ No              |
+| —               | —       | `charge-only`                    | Pharmacy Charges               | ✗ No     | ✗ No              |
+| —               | —       | `inpatient`                      | Inpatient Medication           | ✗ No     | ✗ No              |
+| —               | —       | Other/None                       | Uncategorized                  | ✓ Yes    | —                 |
 
-*\*Additional criteria must be met. See [Renewability Specification](oracle_health_renewability_spec.md).*
+_\*Additional criteria must be met. See [Renewability Specification](oracle_health_renewability_spec.md)._
 
 ---
 
