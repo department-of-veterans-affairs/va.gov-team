@@ -294,7 +294,7 @@ This research supports our desired business outcome so that:
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+We will now prioritize the top problem areas identified in the study and begin collaborative solutioning. The team will discuss feasibility, develop practical updates and reflect these changes in updated designs or prototypes. Key actions and decisions will be tracked through implementation tickets to support transparency and accountability as we improve the Time of Need form experience.
 
 > [!TIP]
 > Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-post-report/create-issues-from-research-findings-prompt.md).  
@@ -304,7 +304,7 @@ This research supports our desired business outcome so that:
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+The study notably lacked representation from users of assistive technology and many minority or intersectional demographic groups. Further research should focus on recruiting and understanding the needs of AT users, additional underrepresented racial and ethnic backgrounds, and LGBTQ+ participants to ensure the study’s findings are inclusive.
 
 
 ## Appendix
@@ -335,9 +335,6 @@ Mural
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
 
 #### Recruitment criteria
 
@@ -447,6 +444,14 @@ This research does not include the perspectives of the following marginalized Ve
 * Non-Binary
 * Assistive Tech
 
+<img width="317" height="433" alt="Screenshot 2026-01-05 at 4 14 17 PM" src="https://github.com/user-attachments/assets/e4bbeb8b-e02b-47ab-8ba9-e46b0a97f4c2" />
+
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image]
+
+#### A more accessible version of the table in the above image
+
+### Recruitment of underserved groups in [Study name]
+
 Here's the spreadsheet data converted to a markdown table:
 
 | Category | % | # | Study | Achieved?  |
@@ -485,12 +490,3 @@ Here's the spreadsheet data converted to a markdown table:
 | Switch Device | AT | n/a | 1 | 0 | no |
 | Braille Reader | AT | n/a | 1 | 0 | no |
 
-<img width="317" height="433" alt="Screenshot 2026-01-05 at 4 14 17 PM" src="https://github.com/user-attachments/assets/e4bbeb8b-e02b-47ab-8ba9-e46b0a97f4c2" />
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-
-### Recruitment of underserved groups in [Study name]
-
-➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
