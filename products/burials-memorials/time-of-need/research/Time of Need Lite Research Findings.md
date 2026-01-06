@@ -123,6 +123,12 @@ synthesis_tools_used:
 Findings will inform iterative improvements to the form's design, content, and workflow. Insights will be used to optimize the user experience, prioritize accessibility and clarity, and refine the MVP for public launch. User feedback will directly influence next-phase feature development and business process alignment.
 [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
+1. **Evaluate the usability and accessibility of the Time of Need Lite digital form for scheduling a burial.**
+
+2. **Identify pain points and barriers that Veterans' family members, personal representatives, and funeral home staff experience when using the form.**
+
+3. **Gauge user satisfaction with the digital experience compared to the current phone-based process.**
+
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey? 
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
@@ -240,18 +246,17 @@ Users expressed confusion regarding burial terminology, particularly with the te
 
 1. **Recommendation:** ​
 Review and clarify the “Relationship to Deceased” question. Offer more specific options or enable multiple selections to accommodate diverse relationships.
-   - Supporting evidence: 9/13 participants either expressed confusion when selecting the relationship to deceased, or wanted to select multiple options when interacting with this question.
+   - Supporting evidence: 9 out of 14 participants hesitated when selecting their relationship to the deceased; some were uncertain which option best described their connection to the deceased, while others wanted the ability to choose more than one relationship type.
 2. **Recommendation:**  Optimize the placement of the personal representative question. Assess where this question best fits within the user flow for clarity and effectiveness.
-    -Supporting evidence: 8 out of 13 participants were confident with the definition of "personal representative," but few expressed confusion with giving the personal representatives information after they had already indicated that they were a family member or funeral home representative.​
-4. **Recommendation:**​
-Enhance supporting text for the pre-need decision letter. Collaborate to add clear descriptions explaining the letter’s role and relevance to the Time of Need burial scheduling process.
-   - Supporting evidence: 6 different participants were confused by the wording of what a pre-need decision letter is. This and other issues across the form could be recitified by including more specific and inclusive description text underneath headers for screens where terminology might be unfamiliar to users.
-5. **Recommendation:** Streamline cemetery selection guidance. Work together on solutions to better assist users when their preferred cemetery is unavailable.​
-   - Supporting evidence: 9/13 participants wanted expanded capabilities with cemetery selection, or were unaware of the features offered via the external link. This can be resolved by further highlighting the external link and expanding on descriptive text.
-6. **Recommendation:** ​Clarify terminology and context for cemetery options. Add explanations about each choice, including any cemetery-specific restrictions.
-   - Supporting evidence: 6/13 participants expressed confusion regarding burial method terminology, especially "green" burial methods and "cremains". 
-7. **Recommendation:** Consider removal of emblem of belief screen with absence of other questions on headstones/markers.
-   - Supporting evidence: 8/13 users mentioned the form being "too long" or "lengthy". Removing extraneous screens that don't add vital data can cut down on user time spent completing the form and overall user satisfaction.
+   - Supporting evidence: 8 out of 14 participants were confident with the definition of "personal representative," but few expressed confusion with giving the personal representatives information after they had already indicated that they were a family member or funeral home representative.​
+4. **Recommendation:** Enhance supporting text for the pre-need decision letter. Collaborate to add clear descriptions explaining the letter’s role and relevance to the Time of Need burial scheduling process.
+   - Supporting evidence: 6 out of 14 participants were unclear about the meaning of “pre-need decision letter.” 
+6. **Recommendation:** Streamline cemetery selection guidance. Work together on solutions to better assist users when their preferred cemetery is unavailable.​
+   - Supporting evidence: 9 out of 14 participants wanted expanded capabilities with cemetery selection, or were unaware of the features offered via the external link. 
+7. **Recommendation:** ​Clarify terminology and context for cemetery options. Add explanations about each choice, including any cemetery-specific restrictions.
+   - Supporting evidence: 6 out of 14 participants had questions about the unique burial types beyond the traditional "casket" or "cremation" selections.
+8. **Recommendation:** ​Evaluate the relevance of the emblem of belief screen. Consider whether to ​keep this screen if there are no additional questions on headstones or markers.
+   - Supporting evidence: 8 out of 14 users noted the form's length, even though most though it was on par with other VA.gov forms. Removing extraneous screens that don't add vital data can cut down on user time spent completing the form and overall user satisfaction.
 
 ## Product User and Business Outcomes
 
