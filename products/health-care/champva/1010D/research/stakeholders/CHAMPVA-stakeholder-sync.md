@@ -1,6 +1,36 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 01/06/26
+
+**Agenda**
+
+* Age-based birth cert logic
+* 10-10d v2 launch updates
+
+**Attendees**
+Renata K., Mike M., Andrea M., Premal S., Amanda K., Cindy C., Angela P., Kimi S., Tammy T., Rogelio C., Angela D., Gina L., Ballard M., Elizabeth S.
+
+### Notes
+
+**Age-based birth cert logic**
+
+* Renata walks through the new birth cert. flow in the Applicant chapter to allow users to add a newborn's birth certificate
+* **Decision:** Rogelio C. confirms that under 12 months old is considered a newborn by CHAMPVA. Team would like this documentation from everyoneThis should be a required screen for everyone, not optional (remove optional language?).
+* **AI:** UX to add in required status on the birth cert upload page, update age-based logic, hand off to engineers
+
+**10-10d v2 launch updates**
+
+* Have there been any trends in 10-10d/OHI processing?
+     * No trends yet, haven't gone into the data
+     * Rogelio reports a little over 5,271 OHI cert coming in from VA.gov
+* Is the backlog going down?
+     * Tammy announces that OHI backlog is back up to over 50k (was down to 20k at one point). OHI team needs to dig in to see if that's OHI certs or coming in from VA.gov, or by mail.
+     * Elizabeth S. says they're getting between 2-3,000 OHIs per day (including health insurance cards)
+     * Tammy: the submission numbers are jumping up and down, haven't been able to investigate why
+* Cindy C. says that OHI cert numbers in Pega are filtering down by PDF without the cards, as of January (released in December). This means the metrics we pull from Pega every month should be more accurate
+* **AI:** Premal would like the OHI/EEV team to report back if they're seeing more duplicate health insurance card uploads so we can change that behavior on the frontend if needed. Follow up on this item from time to time. 
+
 ## 12/09/25
 
 **Agenda**
