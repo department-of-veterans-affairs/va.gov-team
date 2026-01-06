@@ -2,6 +2,12 @@
 This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal CMS for VA.gov are aligned on any shared work or dependencies.
 
 ### Running Agenda
+
+1/08/2026
+* Next Build QA
+    * Expectations around testing Drupal functionality during different QA phases? [Slack thread](https://dsva.slack.com/archives/C01SR56755H/p1767659089629849)
+    * 
+
 12/11/2025
 * Unpublished content in right-hand menu on Content Build page: https://www.va.gov/decision-reviews/
     * We have seen similar issue with CB showing unpublished content previously.
