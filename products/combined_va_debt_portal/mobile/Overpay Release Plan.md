@@ -57,7 +57,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   * **Note**: For the mobile release to occur on February 24, 2026 all work needs to be finalized by the release branch of **February 11, 2026\.**  
 * How will you make the product available in production while limiting the number of users who can find/access it:   
   * We will be turning on the feature flag for a small percentage of users and increasing every few days as long if metrics meet our success criteria.   
-  * We will plan to check the metrics around 9:00am ET and then determine to increase at that time, so that the MFS and FM team can immediately identify any issues.   
+  * We will plan to check the metrics around 10:00am ET and then determine to increase at that time, so that the MFS and FM team can immediately identify any issues.   
 * **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")**?: **Work in Progress**  
   * Debts Controller Latency (measure of time for when the debts came through and when they are able to respond) \- Want this less than 2 seconds within a given 24-hour period.   
   * DMC Get Debts Endpoint Success (Mobile equivalent): Needs to be created
