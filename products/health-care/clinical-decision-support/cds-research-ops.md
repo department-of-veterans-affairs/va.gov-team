@@ -116,6 +116,7 @@ While the make-up of research participants may vary based on the product's targe
 - While the database syncs to the sign-up form, it does not overwrite changes to any of the blue columns. For example, if a user marked CPRS as their EHR and then they migrated to Oracle Health, we can change the cell to Oracle Health and it will not revert back to CPRS when syncing. The syncing process looks for new records and adds them to the bottom of the list, so it is okay to adjust and correct form inputs as needed.
 - Only one submission is allowed per VA email. Therefore HCD pratitioners need to manually add new particpants directly into the spreadsheet. Check first to ensure the participant is not already in the database. Duplicates will arise only from manual entires.
 - All CDS HCD practitioners should add their own contacts to the database and update "last contacted" when contacting participants to participate in studies.
+- When adding manually, align to the feedback form entries to maintain standardization and consistency for easier filtering, add the new participant directly to the spreadsheet view because there is only one submission of the form per email to prevent clinicians from filling it out multiple times and creating duplicate entries. Ctrl + f to search for and confirm the participant is not already in the database before adding them.
 - "Last contacted" column ensures we are not contacting participants for multiple studies at the same time. Use only MM/YYYY format so we do not create an opportunity for people to be connected to specific studies.
 - Soft limit: do not contact a participant for more than 1 study every 2 months. So if they participated in something in September, don't reach out again until November. Use your judgement based on the rapport you have with a participant to decide if additional outreach would be OK. You can also ask another researcher if they have a sense of how much a particular clinician likes to engage.
 - For research participants who no longer want to be contacted, mark "No" in the "Agree to Participate" column.
@@ -275,7 +276,19 @@ Brief description
 
 ## Share and document research
 *Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+
+#### Set-up your Github product folder
+Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
+
+- This folder should have the following files: research plan, conversation guide, research findings. 
+- Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
+- [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
+- These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
+- The templates maintain the same structure as the VFS templates as that will assist with copilot use
+- The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
+- The mural testing template was updated to reflect these sections so you can write there first if your preference and place in the github files when complete.
+- 
+> **TIP:** A folder needs a .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the new research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
 
 
 ## Research close-out
