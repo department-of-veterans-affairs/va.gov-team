@@ -146,14 +146,27 @@ OCTO will recruit "Trusted Users" who have access to the scheduling tool who can
 
 "Trusted user" participants who can schedule and request appointments at VA Central Ohio Health Care System
 - Participant must be registered at VA Central Ohio Health Care System
-- Participant must have completed an appointment with a provider in a type of care that is schedulable through the tool. We'll need to know the type of care and provider.
+- Participant must have completed an appointment within the last 3 years with a provider in a type of care that is schedulable through the tool. 
+- Available types of care to schedule:
+    - Amputation care
+    - Audiology - Routine hearing exam
+    - Audiology - Hearing aid support
+    - Eye care - Opthalmology
+    - Eye care - Optometry
+    - MOVE! weight management program
+    - Nutrition and food
+    - Pharmacy
+    - Sleep medicine - CPAP
+    - Sleep medicine - General (including home sleep testing)
+    - Social work
+- We'll need to know the type of care and provider we can test with for each participant
 
 ## Timeline 🗓️
 
 ### Prepare
 
 ### Research sessions
-- `Planned dates of research:` **01/14-01/30** - To be pushed forward as needed depending on feature complete date
+- `Planned dates of research:` **01/14-01/28** - To be pushed forward as needed depending on feature complete date
 
 ### Length of sessions
 - `Session length:` **45m** - Expecting 30 minute sessions, with a 15 minute buffer to dig into any odd issues that arise.
@@ -167,18 +180,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
   
 ## Team Roles  🕵️👩‍💻👩‍🔬       
 
-[TBD - work with OCTO to fill out this section.]
-
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Peter Russo**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Note-takers:` **Peter Russo** 	
-- [TBD - not sure if we're allowing observers]`Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Moderator:` **Peter Russo**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Peter Russo** - @outerpress		
+- `Participant recruiting & screening:`	**OCTO**	
+- `Project point of contact:` **Peter Russo and Kristen McConnell**		
+- `Note-takers:` **Steve Straily** 	
+- Observer sign up sheet - [TODO for UAE only]
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
