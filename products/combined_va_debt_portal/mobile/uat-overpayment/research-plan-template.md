@@ -109,7 +109,6 @@ tags:
 	# Research Plan for [Team, Product, Date]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
 
 _This is a User Acceptance Test (UAT) as a follow-up from the Usability Test of [Overpayments and Copayments on mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/research-plan.md?plain=1)._
 
@@ -145,10 +144,8 @@ Authenticated section of VA Mobile App, to be added to the existing "Payments" t
 Veterans currently manage their debt on VA.gov; this will be a new addition to the mobile app.
 
 `Product Brief`
-
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Overpayment%20and%20Copayment%20Debts%20Product%20Brief.md)
 
-</details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
@@ -157,12 +154,11 @@ Veterans currently manage their debt on VA.gov; this will be a new addition to t
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-</details>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
+Where does your product fit into the Veteran journey?
+Are there moments that matter?
 	
 - `Starting Up (Moment: Balancing Finances)`
 - `Taking Care of Myself (Moment: Maintaining my health)`
@@ -170,7 +166,6 @@ Are there moments that matter?</summary>
 - `Retiring (Moment: Taking care of my health)`
 - `Aging (Moment that Matters: Managing my declining health)`
 
-</details>
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
