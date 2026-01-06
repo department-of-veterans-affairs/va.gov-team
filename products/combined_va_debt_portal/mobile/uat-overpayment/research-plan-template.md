@@ -106,7 +106,7 @@ tags:
   - "[research-phase]"
 ---
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for Mobile Feature Support, Debt Portal: Overpayments in mobile app UAT, January 2026
 
 ## Background 🏗️
 
