@@ -75,7 +75,7 @@ This study addressed all five research questions. Veterans generally understood 
 
 ### <a name="screens-and-paths-used-in-testing"></a>Screens and paths used in testing
 
-Testing used a combination of a Figma prototype (status undersatnding) and a staging environment (renewal flow).
+Testing used a combination of a Figma prototype (status evaluation) and a staging environment (renewal flow).
 
 #### Figma: Medication status evaluation
 
@@ -113,50 +113,59 @@ Testing used a combination of a Figma prototype (status undersatnding) and a sta
 
 Participants generally understood what each prescription status meant, but questions emerged around how long statuses last, when action is needed, and what actions are available.
 
-#### **Active**
+#### Active
 
 All **11 of 11 participants** understood **Active** as a medication they are currently taking.
 
-- **7 of 11 participants** assumed *Active* implied refillability  
-- **4 of 11 participants** viewed *Active* as informational only  
-- Several participants wanted clearer signals when no refills remained
+- **7 of 11 participants** assumed Active implied refillability  
+- **4 of 11 participants** viewed Active as informational only  
+- Several participants wanted clearer signals when no refills remained  
 
-> “Something’s active, so you have refills.” (P1)  
-> “What I don’t see is whether it has refills.” (P12)
+*“Something’s active, so you have refills.”* (P1)  
+*“What I don’t see is whether it has refills.”* (P12)
 
-#### **In Progress**
+#### In Progress
 
 All **11 of 11 participants** interpreted **In Progress** as a medication being actively worked on.
 
 - **9 participants** expected it to be short-lived  
-- **1 participant** expressed reduced trust based on past experience
+- **1 participant (P6)** expressed reduced trust based on past experience  
 
-> “Someone is working on it… after it’s done it should be shipped.” (P1)  
-> “I don’t trust in-progress… it went on way too long.” (P6)
+*“Someone is working on it… after it’s done it should be shipped.”* (P1)  
+*“I don’t trust in-progress… it went on way too long.”* (P6)
 
-#### **Inactive**
+#### Inactive
 
 All **11 of 11 participants** understood **Inactive** as no longer refillable.
 
-- **9 participants** associated *Inactive* with provider follow-up  
-- Older or duplicate inactive medications increased cognitive load
+- **9 participants** associated Inactive with needing provider follow-up  
+- Older or duplicate inactive medications increased cognitive load  
 
-> “You need to call doctor to get a new script.” (P5)  
-> “I got all these medications I used to take… but they’re still there.” (P5)
+*“You need to call doctor to get a new script.”* (P5)  
+*“I got all these medications I used to take… but they’re still there.”* (P5)
 
 ---
 
 ### <a name="insight-2-renewal-link-discovery-varied-and-often-followed-familiar-paths"></a>Insight 2: Renewal link discovery varied and often followed familiar paths
 
-Discovery of the renewal link was mixed and strongly shaped by prior habits.
+Participants varied in how easily they discovered the renewal link, often defaulting to familiar paths first. Discovery of the renewal link was mixed and strongly shaped by participants’ existing mental models for requesting medications.
 
-- **6 of 13 participants** noticed the renewal link organically  
-- **7 of 13 participants** defaulted to familiar actions (refill CTAs or Secure Messaging)
+**7 of 12 participants** noticed the renewal link organically once they reached the correct medication card. These participants typically scrolled through the medication list and interpreted the link as a natural next step for getting more medication.
 
-> “That’s… I’ve not seen that before.” (P6)  
-> “I would just send a secure message.” (P2)
+*“That’s… I’ve not seen that before, that’s a new thing for me.”*  
+*“It says Send a renewal request message, I don’t think I’ve seen that!”*
 
-Even after finding the link, some participants remained unsure whether it was the correct action.
+**5 of 12 participants** did not initially notice the renewal link and instead relied on familiar behaviors, including:
+
+- Using the **Start a refill request** CTA  
+- Navigating directly to **Secure Messaging**  
+- Looking for a **phone number to call**  
+- Scrolling the page without recognizing the renewal link as actionable  
+
+*“I would just send a secure message.”*  
+*“Send a secure message to your care team.”*
+
+For several participants, the **Start a refill request** CTA acted as a competing entry point. When the medication did not appear there, this led to confusion and task detours, including navigating away from Medications to message a provider. Some participants treated refill and renewal entry points as interchangeable, reflecting uncertainty about which action was appropriate.
 
 ---
 
@@ -164,23 +173,23 @@ Even after finding the link, some participants remained unsure whether it was th
 
 Most participants proceeded through provider selection, but several expressed uncertainty about who should receive the request.
 
-> “Hopefully it’s my doctor, but it doesn’t tell you.” (P1)  
-> “I don’t know who it directs it to.” (P2)
+*“Hopefully it’s my doctor, but it doesn’t tell you.”* (P1)  
+*“I don’t know who it directs it to.”* (P2)
 
 Participants often relied on medication type to infer the correct care team.
 
-#### **Modal as a transition to Secure Messaging**
+#### Modal as a transition to Secure Messaging
 
 Most participants understood the modal as an informational transition and continued without hesitation.
 
-> “It means I’m going to a different screen, but I’m still logged in.”  
-> “It’s telling me I’m leaving this page.”  
-> “Instead of me coming out of the medication and going into the messages, it put me in there.”
+*“It means I’m going to a different screen, but I’m still logged in.”*  
+*“It’s telling me I’m leaving this page.”*  
+*“Instead of me coming out of the medication and going into the messages, it put me in there.”*
 
 A small number briefly questioned whether it was a warning or error.
 
-> “I always wonder if it’s just a warning or if I did something wrong.”  
-> “I appreciate having a message letting me know I’m going to a different page.”
+*“I always wonder if it’s just a warning or if I did something wrong.”*  
+*“I appreciate having a message letting me know I’m going to a different page.”*
 
 ---
 
@@ -188,38 +197,38 @@ A small number briefly questioned whether it was a warning or error.
 
 **10 of 12 participants** explicitly noticed and valued the prefilled message.
 
-> “Oh everything’s already there, I love it.” (P1)  
-> “That saves people a lot of time.” (P2)
+*“Oh everything’s already there, I love it.”* (P1)  
+*“That saves people a lot of time.”* (P2)
 
 All **12 participants** reviewed at least part of the prefilled content.
 
 - **9 participants** sent the message as-is  
-- **3 participants** wanted optional personalization
+- **3 participants** wanted optional personalization  
 
-> “I’d just send it and be done with it.”  
-> “Everything is already there.”  
-> “I would add my phone number for faster processing.”
+*“I’d just send it and be done with it.”*  
+*“Everything is already there.”*  
+*“I would add my phone number for faster processing.”*
 
-When medication details were missing, participants hesitated or abandoned the flow.
+When medication details were missing, participants hesitated and expressed uncertainty about whether they could proceed without additional information.
 
-> “There’s nothing to be sent.” (P1)  
-> “You don’t know the medication unless you have it with you.” (P2)
+*“There’s nothing to be sent.”* (P1)  
+*“You don’t know the medication unless you have it with you.”* (P2)
 
 ---
 
 ### <a name="insight-5-confirmation-cues-were-not-consistently-noticed-or-trusted"></a>Insight 5: Confirmation cues were not consistently noticed or trusted
 
 - **9 of 12 participants** noticed the success alert  
-- **3 participants** sought confirmation elsewhere
+- **3 participants** sought confirmation elsewhere  
 
-> “It says Message sent.”  
-> “I went to messages to confirm it was sent.” (P1)  
-> “Just knowing whether the message went through.” (P12)
+*“It says Message sent.”*  
+*“I went to messages to confirm it was sent.”* (P1)  
+*“Just knowing whether the message went through.”* (P12)
 
 Participants inferred next steps based on past experience.
 
-> “Once the doc approves it, it should appear as in progress.”  
-> “It will take up to three days for the status to change.”
+*“Once the doc approves it, it should appear as in progress.”*  
+*“It will take up to three days for the status to change.”*
 
 ---
 
@@ -227,15 +236,15 @@ Participants inferred next steps based on past experience.
 
 Most participants described the experience as familiar or routine.
 
-- **8 of 12 participants** said it was easy or intuitive
+- **8 of 12 participants** said it was easy or intuitive  
 
-> “It was awesome… easy… simple… to the point.”  
-> “Pretty simple, once you do it a few times.”
+*“It was awesome… easy… simple… to the point.”*  
+*“Pretty simple, once you do it a few times.”*
 
 Opportunities remain to reduce cognitive load from inactive medications and clarify status progression.
 
-> “I don’t want to see all those… it’s convoluted.”  
-> “Instead of just ‘In progress,’ say getting ready to ship.”
+*“I don’t want to see all those… it’s convoluted.”*  
+*“Instead of just ‘In progress,’ say getting ready to ship.”*
 
 ---
 
@@ -247,7 +256,7 @@ Opportunities remain to reduce cognitive load from inactive medications and clar
 - Improve communication when information is missing  
 - Strengthen confirmation and next-step feedback  
 - Reduce cognitive load from inactive medications  
-- Clarify refill vs renewal at the point of action  
+- Clarify refill versus renewal at the point of action  
 
 ---
 
@@ -255,12 +264,12 @@ Opportunities remain to reduce cognitive load from inactive medications and clar
 
 | Area | RQ1 | RQ2 | RQ3 | RQ4 | RQ5 |
 |------|-----|-----|-----|-----|-----|
-| Status clarity | ✓ |  | ✓ |  | ✓ |
-| Renewal discovery |  | ✓ | ✓ |  | ✓ |
+| Status labels and timing clarity | ✓ |  | ✓ |  | ✓ |
+| Renewal link discovery |  | ✓ | ✓ |  | ✓ |
 | Provider selection |  | ✓ | ✓ |  | ✓ |
-| Prefilled content |  | ✓ | ✓ | ✓ | ✓ |
-| Confirmation |  | ✓ | ✓ | ✓ | ✓ |
-| Experience-wide clarity | ✓ |  | ✓ |  | ✓ |
+| Prefilled vs missing information |  | ✓ | ✓ | ✓ | ✓ |
+| Confirmation and next steps |  | ✓ | ✓ | ✓ | ✓ |
+| Experience-wide clutter and clarity | ✓ |  | ✓ |  | ✓ |
 
 ---
 
