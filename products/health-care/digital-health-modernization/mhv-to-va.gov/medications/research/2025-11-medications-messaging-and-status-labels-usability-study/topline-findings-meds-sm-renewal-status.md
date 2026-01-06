@@ -72,7 +72,7 @@ Participants attempted to request a renewal starting from the Medications tool. 
 
 ### Research question coverage
 
-This study addressed all five research questions. Findings show that Veterans generally understood the revised prescription statuses, but interpretations varied around actionability, timing, and next steps. Most Veterans were able to complete the Secure Messaging renewal flow, though ease and confidence depended on renewal link discovery, message prefill, and confirmation cues. Points of confusion and hesitation were consistently tied to visibility of key information, competing entry points, and reliance on prior mental models. Recommendations reflect observed Veteran behavior and feedback throughout the flow.
+his study addressed all five research questions. Veterans generally understood the updated prescription statuses, but their expectations varied around when they could take action, how long things should take, and what would happen next. Most were able to complete the Secure Messaging renewal flow, though confidence was closely tied to finding the renewal link, having details prefilled, and receiving clear confirmation. Moments of confusion tended to stem from limited visibility of key information, competing entry points, and reliance on prior experience. Recommendations are based on these observations and Veteran feedback.
 
 ---
 
@@ -197,7 +197,7 @@ Expectations about what would happen next came from prior experience, not on-scr
 
 Participants varied in how clearly they distinguished refill from renewal.
 
-- **8 of 13 participants** clearly differentiated the two.
+- **8 of 12 participants** clearly differentiated the two.
 - **5 participants** used the terms interchangeably or were unsure.
 
 This confusion influenced how confidently participants navigated renewal actions.
