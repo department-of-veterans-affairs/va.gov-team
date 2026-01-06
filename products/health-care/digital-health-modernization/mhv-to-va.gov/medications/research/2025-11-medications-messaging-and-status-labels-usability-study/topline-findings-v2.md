@@ -129,7 +129,7 @@ All **11 of 11 participants** understood **Active** as a medication they are cur
 All **11 of 11 participants** interpreted **In Progress** as a medication being actively worked on.
 
 - **9 participants** expected it to be short-lived  
-- **2 participants** expressed reduced trust based on past experience
+- **1 participant** expressed reduced trust based on past experience
 
 > “Someone is working on it… after it’s done it should be shipped.” (P1)  
 > “I don’t trust in-progress… it went on way too long.” (P6)
