@@ -18,7 +18,7 @@ While the details of each step may differ based on the type of research being co
    - Check if any related research exists in the OCTO GitHub Research Repository. 
    - Deterimine research method.
    - Write your research plan and guide.
-   - Create stimuli.
+   - Create stimuli if needed.
    - Get peer reviews and run a pilot session.
 2. **Recruitment and Scheduling** 
    - Prep and modify outreach templates.
@@ -34,15 +34,14 @@ While the details of each step may differ based on the type of research being co
 4. **Synthesize Data**
    - test
 6. **Share and document research**
-   - Create GitHub research folder
-   - Copy guide and plan
-   - Copy findings
-   - Share out in HCD CoP or async via a recording
+   - Create GitHub research folder and copy markdown files.
+   - Add research ticket to GitHub board and link to the research folder. Close the ticket. We do not need to do a PR review.
+   - Share out in HCD CoP or async via a recording.
 7. **Research close-out**
-   - Send participants thank you emails
+   - Send participants thank you emails.
    - Update "last contacted" data in research participant database to reflect MM/YYYY of session.
    - Scrub PII or PHI from raw notes or transcripts being retained.
-   - Delete recordings
+   - Delete recordings.
    
 
 ## Handling Sensitive Information
@@ -55,7 +54,6 @@ While the details of each step may differ based on the type of research being co
 * Question 2
 * Question 3
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
 
 ## Prepare Research Materials 
 
@@ -64,13 +62,13 @@ While the details of each step may differ based on the type of research being co
 1. Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
 2. Determine your research methodology.
 3. Write your research plan and guide.
-   - **Mural** research plan and conversation guide template
+   - **Mural** [all-in-one research plan and conversation guide](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1739412803667/0269ae06130cf79e1e1cae0d085e8ae6fd708ccd?wid=0-1759452909310) template.
    - **Slack canvas** research plan template
    - **Slack canvas** conversation guide template. 
 > [!TIP]
-> Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section). This makes it easier to share and collaborate and incorporate feedback. Keep in mind tables will not copy over directly and it's best to copy sections at a time to maintain the formatting in the markdown files.
+> Write your research plan and conversation guide using Mural or Slack Canvas templates since this makes it easier to share and collaborate and incorporate feedback compared to writing initially in the markdown files. Copy over your materials to the markdown files when they are finalized. Documentation in GitHub can be completed at the end of your research study. See the documentation in GitHub section for details.
 
-4. Create stimuli (Figma or Mural)
+4. Create stimuli (Figma or Mural).
 5. Get peer reviews and run a pilot session. Put your request in the [#cds-hcd-cop](https://dsva.slack.com/archives/C06043YBWTC) Slack channel, and give at least 48 hours notice for peer reviews and pilot sessions.
 
 > [!NOTE]
@@ -102,7 +100,7 @@ While the make-up of research participants may vary based on the product's targe
    - The CDS Reserach Participant Database is connected to an MS Form that allows clinicians to self select to sign-up to be contacted for user research. It also includes staff who were manually added who we connected with through other channels.
    - [Link to research participant database](https://dvagov-my.sharepoint.com/:x:/r/personal/jana_smith-post_va_gov/_layouts/15/doc2.aspx?sourcedoc=%7Be5dac0d3-c637-463a-99d2-fcd508feb6be%7D&action=edit&activeCell=%27Sheet1%27!M123&wdinitialsession=1ac6a8c9-c283-7ee6-84e4-39363ae877d0&wdrldsc=3&wdrldc=1&wdrldr=AccessTokenExpiredWarningUnauthenticated%2CRefreshin)
 > [!NOTE]
-> The research participant database includes PII and access to the database must be limited to adhere to VA privacy policies and Labor Relations agreements. Therefore, to protect PII, access is provided to those who will need to interact with the data and research activities (HDC team members) and assist in maintaining data (Shared Support Services).
+> The research participant database includes PII and access to the database must be limited to adhere to VA privacy policies and Labor Relations agreements. Therefore, to protect PII, access is provided to those who will need to interact with the data and research activities (HCD team members) and assist in maintaining data (Shared Support Services).
 2. **Clinical Business Owner & SMEs**  
    - The clinical business owner and stakeholder of a particular product or integration along with SMEs can be a good source for clinical contacts to add to the CDS research participant pool.
 3. **Snowball Recruitment**
@@ -255,32 +253,30 @@ Cheers,
 ## Share and document research
 Research must be added to the OCTO research repository board.  
 
-#### Set-up your Github product folder
-Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
+#### Document your research in GitHub
+1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
+> **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the new research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
+2. This folder should have the following files: research plan, conversation guide, research findings. 
+   - Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
+   - [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
+   - These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
+   - The templates maintain the same structure as the VFS templates as that will assist with copilot use
+   - The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
+3. After your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
 
-- This folder should have the following files: research plan, conversation guide, research findings. 
-- Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
-- [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
-- These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
-- The templates maintain the same structure as the VFS templates as that will assist with copilot use
-- The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
-- The mural testing template was updated to reflect these sections so you can write there first if your preference and place in the github files when complete.
-
-> **TIP:** A folder needs a .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the new research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
 
 
 ## Research close-out
+Tasks for when synthesis and documentation is completed.
 
-*Tasks for when synthesis and documentation is completed.*  
-
-1. **Delete recordings:** 
+1.**Remove PII/PHI from transcripts if keeping**
+   - If keeping any transcripts of recordings for future reference, remove PII/PHI. You might consider keeping transcripts for topics that you know will carry forward into future research studies. 
+2. **Delete recordings:** 
    - When synthesis is completed, delete recordings.
    - Go to your OneDrive and the Recodrings folder. Select the recordings you need to delete and click "Delete."
    - Then click on the recycle bin and confirm they are deleted from there. If you don't see anything, and see "Can't find what you're looking for? Check the Second-stage recycle bin" and delet from there if it is still available.
-2. **Confirm raw notes do not contain PII/PHI**
+3. **Confirm raw notes do not contain PII/PHI**
    - Remember that PII includes the name of the participant. This sometimes is copied accidentally when coping from a transcript to Mural stickies! Double-check!
-3. **Remove PII/PHI from transcripts if keeping**
-   - If keeping any transcripts of recordings for future reference, remove PII/PHI. You might consider keeping transcripts for topics that you know will carry forward into future research studies. 
    - Store transcripts in a folder that has limited access.
 4. **Send participant a thank-you note**
    - A small note of appreciation goes a long way! Thank them for their time and include something specific to them to make it personal. This could be a surprise takeaway or even a common interest you learned about, like living in the same state. 
