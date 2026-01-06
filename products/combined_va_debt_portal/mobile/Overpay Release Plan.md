@@ -60,12 +60,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
   * We will plan to check the metrics around 9:00am ET and then determine to increase at that time, so that the MFS and FM team can immediately identify any issues.   
 * **What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")**?: **Work in Progress**  
   * Debts Controller Latency (measure of time for when the debts came through and when they are able to respond) \- Want this less than 2 seconds within a given 24-hour period.   
-  * DMC Get Debts Endpoint Success (Mobile equivalent): NEEDS TO BE CREATED  
-    * Endpoint success calls  
-    * We will need to track counts of success and failure and will go into a graph of percentages  
-    * **Beneficial: if the FM team SHOW the error and success percentages (we would understand if we are getting 4xx and 5xx errors)**  
-      * This would be an effort for the FM   
-      * MFS \- min. We needs counts of success and failures: this will help us understand mobile traffic  
+  * DMC Get Debts Endpoint Success (Mobile equivalent): NEEDS TO BE CREATED    
+    * We will track counts of success and failure and will define 
 * Who is monitoring the dashboard(s)?: Natalie Gibbons, Dave Formanek, and FM Management Team BE 
 
 ### **Stage A: Canary**
