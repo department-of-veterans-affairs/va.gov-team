@@ -20,16 +20,13 @@ EHR:
  Cerner: X 
 
 key_findings:
-  - "Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information"
-A number of users have mentioned that the drawer seems too large, and have asked for the ability to adjust their drawer size which would give them more flexibility 
-A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer. 
-Most users preferred needing to close a patient drawer before navigating to the next
-A number of users foud the font small and felt there was little distinction between the section title, crititcal information and the user action information. 
-Enhance heirarchy within the drawer structure
-Condense Patient detail section
+- "Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information"
+- "A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+- "Most users preferred needing to close a patient drawer before navigating to the next."
 
 recommendations:
-  - "Assess how closely v2 meets coordinators needs and enhances their ability to achieve their workflow."
+  - "Enhance UX interaction and UI heirarchy within the drawer structure."
+  - "Include coordinator priority information in the Patient drawer."
 
 
 # [Study] Research Findings 
@@ -61,19 +58,32 @@ recommendations:
 
 ## Key Findings
 
-1. " "
+1. "Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information."
+2. "A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+3. "Most users preferred needing to close a patient drawer before navigating to the next."
   
 
 ## Details of Findings 
 
 ### Finding 1
-
+"Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information."
   - _Supporting data: _
+
+### Finding 2
+"A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+  - _Supporting data: _
+
+### Finding 3
+"Most users preferred needing to close a patient drawer before navigating to the next."  
+- _Supporting data: _
 
 ## Recommendations
 
-1. **Recommendation:**   
-   - _Supporting evidence: _
+1. **Recommendation: Enhance UX interaction and UI heirarchy within the drawer structure."**   
+   - _Supporting evidence:A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer._
+
+2. **Recommendation:Include coordinator priority information in the Patient drawer.**   
+   - _Supporting evidence: Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information._
   
 ## Product User and Business Outcomes
 
