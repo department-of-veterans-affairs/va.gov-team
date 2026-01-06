@@ -1,14 +1,13 @@
 # Task-level insights: Medication renewal flow and status study
 
-This report summarizes findings from a usability study with 12 Veterans focused on how they understand medication statuses and how they request medication renewals on VA.gov. Participants used a range of devices and assistive technologies, including Dragon voice control, JAWS screen reader, mobile phones, and tablets.
+This report summarizes findings from a usability study with **12 Veterans** examining recent updates to medication status labels and the medication renewal experience on My HealtheVet (MHV) on VA.gov. The research focused on whether these changes help Veterans understand the current state of their medications, successfully request renewals using the Medications and Secure Messaging flow, and where confusion or drop-off occurs. Findings highlight what is working well and where targeted design or content improvements could improve clarity and confidence.
 
----
 
 ## Part 1: Understanding Medication Statuses
 
-**First impressions on the Medications list page**
+**What they noticed first on Meds list page**
 
-When participants first landed on the Medications list page, what they noticed - and how they oriented themselves - varied.
+When participants first landed on the Medications list page, what they noticed and how they oriented themselves - varied.
 
 - **Refill actions (P1, P9, P10):** Some participants immediately focused on calls to action like "Refill medications" or "Start refill request."
 - **Medication list (P5, P6, P8):** Others oriented first to the medication names and list itself.
