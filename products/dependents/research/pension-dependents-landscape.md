@@ -10,6 +10,7 @@
 2. Parents cannot be dependents on a veteran’s pension (which they can on disability)
 3. Spouses cannot have their own aid+attendance increase on pension unless they are also a veteran (which they can on disability)
 4. Users can’t just add a dependent with 686 – they will often need to provide more detailed financial information (like from the 0969, 8416, 0518-1 or 0517-1)
+5. VBA discontinued mandatory dependent verification for pension recipients several years ago. This used to be mandatory send of forms 0518-1 or 0517-1. Those forms can still be used to make changes, but are not mandatory.
 
 **Key Findings that our team CAN impact:**
 | Finding                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Recommendation                                                                                                                                                                                                                                                                                                                         |
