@@ -1,4 +1,4 @@
-#Task-level insights: Medication renewal flow and status study
+# Task-level insights: Medication renewal flow and status study
 
 This report summarizes findings from a usability study with 12 Veterans focused on how they understand medication statuses and how they request medication renewals on VA.gov. Participants used a range of devices and assistive technologies, including Dragon voice control, JAWS screen reader, mobile phones, and tablets.
 
@@ -6,7 +6,7 @@ This report summarizes findings from a usability study with 12 Veterans focused 
 
 ## Part 1: Understanding Medication Statuses
 
-### First impressions on the Medications list page
+**First impressions on the Medications list page**
 
 When participants first landed on the Medications list page, what they noticed - and how they oriented themselves - varied.
 
@@ -23,9 +23,9 @@ When participants first landed on the Medications list page, what they noticed -
 
 ---
 
-### How participants interpreted the "Active" status
+**How participants interpreted the "Active" status**
 
-#### What "Active" meant
+**What "Active" meant**
 
 All 11 participants who completed this task understood **Active** to mean a medication that is current and being taken. However, assumptions about what could be done with an active medication varied.
 
@@ -37,14 +37,14 @@ All 11 participants who completed this task understood **Active** to mean a medi
 - **4 participants (P2, P9, P10, P12)** understood the medication was current but did not assume refills were available:
   - **P2:** "If a medication is active, then you don't need a refill - it means you're taking it right now."
 
-#### Confidence and uncertainty
+**Confidence and uncertainty**
 
 While many participants felt reasonably confident, some hesitated or second-guessed themselves:
 
 - **P4:** "Hold on, I may be confused. I'm confused now."
 - **P6:** "The way things have gone on this site…50/50."
 
-#### What participants wanted to see
+**What participants wanted to see**
 
 Several participants said refill counts would help remove ambiguity:
 
@@ -53,9 +53,9 @@ Several participants said refill counts would help remove ambiguity:
 
 ---
 
-### How participants interpreted the "In Progress" status
+**How participants interpreted the "In Progress" status**
 
-#### General understanding
+**General understanding**
 
 All 11 participants understood **In Progress** to mean a medication or refill was actively being worked on and had not yet shipped.
 
@@ -69,7 +69,7 @@ All 11 participants understood **In Progress** to mean a medication or refill wa
 - **P6** expressed distrust based on past experiences:
   - **P6:** "I don't trust in-progress in some ways… it went on way too long."
 
-#### How long "In Progress" felt reasonable
+**How long "In Progress" felt reasonable**
 
 Expectations varied:
 
@@ -82,9 +82,9 @@ Most said they would reach out if the status did not change within that window.
 
 ---
 
-### How participants interpreted the "Inactive" status
+**How participants interpreted the "Inactive" status**
 
-#### What "Inactive" meant
+**What "Inactive" meant**
 
 All 11 participants understood **Inactive** as a medication that was finished, expired, discontinued, or no longer refillable.
 
@@ -93,7 +93,7 @@ All 11 participants understood **Inactive** as a medication that was finished, e
   - **P5:** "You need to call doctor to get a new script."
   - **P12:** "If I need it I need to get back with my provider."
 
-#### Confusion and frustration
+**Confusion and frustration**
 
 - **P1** noticed that some inactive medications showed renewal links while others did not, which made next steps unclear.
 - Several participants were frustrated that very old medications remained visible:
@@ -105,9 +105,9 @@ Some participants wished inactive medications could be acted on directly:
 
 ---
 
-### Refill vs. renewal: how well participants understood the difference
+**Refill vs. renewal: how well participants understood the difference**
 
-#### Clear understanding (8 participants)
+**Clear understanding (8 participants)**
 
 Participants **P1, P3, P4, P6, P8, P9, P11, P12** clearly distinguished between refills and renewals:
 
@@ -115,7 +115,7 @@ Participants **P1, P3, P4, P6, P8, P9, P11, P12** clearly distinguished between 
 - **P3:** "Renewal most likely I need a new order for it."
 - **P11:** "A refill is… they ran out of refills. A renewal is the entire medication."
 
-#### Mixed or unclear understanding (5 participants)
+**Mixed or unclear understanding (5 participants)**
 
 Participants **P2, P5, P10, P14** sometimes used the terms interchangeably or expressed uncertainty:
 
@@ -125,7 +125,7 @@ Participants **P2, P5, P10, P14** sometimes used the terms interchangeably or ex
 
 ---
 
-### Where confusion actually came from
+**Where confusion actually came from**
 
 Participants were generally comfortable with the labels themselves. Confusion more often came from how statuses behaved in practice.
 
@@ -141,7 +141,7 @@ Others found the experience straightforward:
 
 ---
 
-### Clutter and organization concerns
+**Clutter and organization concerns**
 
 Several participants felt overwhelmed by long medication histories and older medications remaining visible.
 
@@ -152,9 +152,9 @@ Several participants felt overwhelmed by long medication histories and older med
 
 ---
 
-### Accessibility observations
+**Accessibility observations**
 
-#### Dragon (P3)
+**Dragon (P3)**
 
 - No technical issues selecting elements by voice
 - Content below the fold was often missed
@@ -163,7 +163,7 @@ Several participants felt overwhelmed by long medication histories and older med
 - Suggested a legend to explain statuses
 - Repeated label text caused confusion ("Reason for use not available")
 
-#### JAWS (P11)
+**JAWS (P11)**
 
 - Valued detailed information: "I like to be informed."
 - Instructional text without links could be missed
@@ -171,7 +171,7 @@ Several participants felt overwhelmed by long medication histories and older med
 - Missed an error alert
 - Trusted auto-generated content: "If it's auto generated, I'm going to leave it alone."
 
-#### Mobile and tablet (P4, P10)
+**Mobile and tablet (P4, P10)**
 
 - **P10:** "Very very difficult to navigate through mobile device, too small to see."
 
@@ -179,7 +179,7 @@ Several participants felt overwhelmed by long medication histories and older med
 
 ## Part 2: Renewal Flow
 
-### Finding the renewal link
+**Finding the renewal link**
 
 Discovery of the renewal link varied widely.
 
@@ -193,7 +193,7 @@ When participants followed familiar paths and could not find their medication, s
 
 ---
 
-### Questions after discovering the link
+**Questions after discovering the link**
 
 Even after noticing the renewal link, some participants were not fully confident it was the right action.
 
@@ -204,7 +204,7 @@ Even after noticing the renewal link, some participants were not fully confident
 
 ---
 
-### Understanding the modal
+**Understanding the modal**
 
 Most participants understood the modal as a handoff to Secure Messaging and continued without hesitation.
 
@@ -215,7 +215,7 @@ Any uncertainty was brief and resolved quickly.
 
 ---
 
-### Choosing a care team
+**Choosing a care team**
 
 Participants selected care teams using different strategies:
 
@@ -226,7 +226,7 @@ Having multiple options was helpful for some, including **P11**.
 
 ---
 
-### Reaction to the prefilled message
+**Reaction to the prefilled message**
 
 The prefilled message was one of the strongest positive moments in the flow.
 
@@ -239,7 +239,7 @@ Most participants sent the message as-is or with only a brief personal note.
 
 ---
 
-### Confirmation and next steps
+**Confirmation and next steps**
 
 - **9 participants** noticed the green confirmation alert.
 - **3 participants** looked elsewhere for reassurance, such as checking Sent messages.
@@ -257,7 +257,7 @@ When key medication details were missing from the prefilled message, confidence 
 
 Participants were generally unwilling to guess important information.
 
-### Workarounds and abandonment
+**Workarounds and abandonment**
 
 Participants described several strategies:
 - Returning to medication details
@@ -271,14 +271,14 @@ Some participants exited the flow entirely to try again later.
 
 ## Part 4: Experience-wide insights
 
-### Overall impressions
+**Overall impressions**
 
 Despite moments of confusion, **8 of 12 participants** described the experience as easy, simple, or intuitive.
 
 - **P1:** "It was awesome… easy… simple… to the point."
 - **P9:** "Seems very intuitive and very basic."
 
-### Ongoing opportunities for improvement
+**Ongoing opportunities for improvement**
 
 Participants consistently pointed to:
 - Information density and clutter
@@ -289,7 +289,7 @@ Participants consistently pointed to:
 
 ## Key recommendations
 
-### High priority
+**High priority**
 
 - Make renewal links easier to find on medication cards
 - Reduce competing paths that lead to dead ends
@@ -297,13 +297,13 @@ Participants consistently pointed to:
 - Improve handling of missing information
 - Reduce clutter from older, inactive medications
 
-### Medium priority
+**Medium priority**
 
 - Strengthen confirmation signals
 - Clarify refill vs. renewal terminology
 - Provide more guidance when selecting care teams
 
-### Accessibility-specific
+**Accessibility-specific**
 
 - Improve screen reader flow and alert visibility
 - Address mobile navigation challenges
