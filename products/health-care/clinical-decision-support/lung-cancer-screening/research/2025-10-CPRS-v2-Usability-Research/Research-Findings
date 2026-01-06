@@ -20,12 +20,14 @@ EHR:
  CPRS: X 
 
 key_findings:
-  - "Coordinators used the “Notes to Self” feature as a main part of their workflow to document patient information about tracking "
-  - "Coordinators Primary workflow starts with the Done not Documented report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards."
-  - "v1 fits in the LCS coordinator workflow as a primary way of managing LCS or as one tool in an ecosystem of other tools (CPRS, CMT, TM, Excel) "
-  - "Coordinator wishes for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
-  - "Reminders are a core part of Coordinator workflow to help them prioritize their work and keep track of critical tasks. There are multiple ways they use reminders and different tools that support those tasks, including CPRS, LCSP, CMT and TM."
-  - "Coordinator wish for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+- "5 of 7 CPRS Coordinators rated LSCPv2 as "Easy," or "Very easy," to use."
+- "The LCSPv2 CPRS Tracking experience met Coordinators needs and improved of the current process through Fewer clicks and reduced load time to open tracking reports and patient details, customized column visibility ​in the datagrid and the ability to search within a column." ​
+- "Coordinators initial expectations were to interact with v2 similar to the current process but quickly adapted."
+- "The details in the patient drawer save time by surfacing details that coordinators "dig" for in CPRS."
+- "Coordinators experienced friction to understanding the comments feature."
+- "Coordinators ideas for improving the patient drawer through ui changes to feature placement."
+- "Coordinators were confused by different content labels related to tracking process and words to describe data being presented."
+- "Coordinators encountered friction when their search term did not match how content was labeled in v2."
 
 recommendations:
   - "Assess how closely v2 meets coordinators needs and enhances their ability to achieve their workflow."
@@ -35,7 +37,7 @@ recommendations:
 **Office of the CTO - Digital Experience (OCTO-DE), LCSPv2, LCS**
 **Date:** 12/30/2025
 **Contacts:** Ben Peterson
-**[Research Readout (word doc)](https://dvagov-my.sharepoint.com/:w:/r/personal/benjamin_peterson_va_gov/Documents/2025-09-CPRS-Contextual-Inquiry-Research-Findings.docx?d=w43b55f8643fc40ca90540dcb351e2844&csf=1&web=1&e=G65fXf)**  
+**[Research Readout (poewrpoint)](https://dvagov-my.sharepoint.com/:p:/r/personal/benjamin_peterson_va_gov/Documents/LCS%20CPRS%20Tracking%20Research%20snapshot%20Nov25.pptx?d=w618f066459db4fbf9e75df3f86ed441f&csf=1&web=1&e=8GNs4u)**  
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
@@ -105,10 +107,10 @@ Coordinators encountered friction when their search term did not match how conte
 
 ## Recommendations
 
-1. **Recommendation:** Focus on keeping comments a core feature of the v2 experience   
-   - _Supporting evidence: Finding 1 - The “Notes to Self” feature as a main part of their workflow to document patient information about tracking._  
-2. **Recommendation:** Ensure the experience of filtering patient data follows the coordinator workflow    
-   - _Supporting evidence: Finding 2 - Primary coordinator workflow starts with the "Done not Documented" report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards._
+1. **Recommendation:** Enhance the ux and discoverability of column search
+   - _Supporting evidence: Finding 8 - Coordinators encountered friction when their search term did not match how content was labeled in v2._  
+2. **Recommendation:** Surface patient data in the drawer to align with the coordinator workflow    
+   - _Supporting evidence: Finding 6 - Coordinators ideas for improving the patient drawer through ui changes to feature placement_
 
 ## Product User and Business Outcomes
 
