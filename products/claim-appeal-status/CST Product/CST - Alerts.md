@@ -1,5 +1,5 @@
-# [WIP]  CST - Alerts - Product Outline 
-
+# [Archived]  CST - Alerts - Product Outline 
+The super epic https://github.com/department-of-veterans-affairs/va.gov-team/issues/121959 is being used for the Collab Cycle product outline for this work.
 
 ## Overview
 The Claim Status Tool (CST) currently uses alerts to notify users of status updates across various pages within the tool. Veterans currently don’t receive claim or appeal notifications outside of being logged into VA.gov, so they rely on an authenticated experience for viewing alerts in their specific context to understand the information being conveyed to them related to their claims, appeals, and decision reviews.
