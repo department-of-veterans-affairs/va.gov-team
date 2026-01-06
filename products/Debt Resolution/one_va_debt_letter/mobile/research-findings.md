@@ -381,7 +381,7 @@ Additional research could be conducted to address gaps from the current study, i
 
 - [VA Recruitment Checker for Equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1645174246#gid=1645174246)
 - [Transcripts with tags and quotes](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/Documents/Mobile%20Feature%20Support%20(MFS)/2025-11_OneVADebtLetter/Supporting%20Documents/Transcripts%20with%20tags%20and%20quotes%20-%201VADL.xlsx?d=wf2b7c36b7e6e4a7e85c0cfdf5e2e3661&csf=1&web=1&e=Did9TR)
-- [Notes with synthesis and insights](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/Documents/Mobile%20Feature%20Support%20(MFS)/2025-11_OneVADebtLetter/Supporting%20Documents/Notes%20_%20Synthesis%20_%20Insights%20-%201VADL.xlsx?d=wb08bdc76effb4261af1d6b2d2d6ca8c6&csf=1&web=1&e=nhDuK0)
+- [Notes with synthesis and insights](https://dvagov.sharepoint.com/:x:/r/sites/vamobilefeaturesupport/Shared%20Documents/2025-12%20One%20VA%20Debt%20Letter/Supporting%20Documents/Notes%20_%20Synthesis%20_%20Insights%20-%201VADL.xlsx?d=w2fce4a819da04e35bfda0aab1071fbb0&csf=1&web=1&e=kLRtb2)
 - [Study participants](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/Documents/Mobile%20Feature%20Support%20(MFS)/2025-11_OneVADebtLetter/Supporting%20Documents/Study%20participants.xlsx?d=w202b76fc4fbe45c4b7ece32b6971399b&csf=1&web=1&e=qhPuFK)
 - [Study prep logistics](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/Documents/Mobile%20Feature%20Support%20(MFS)/2025-11_OneVADebtLetter/Supporting%20Documents/Study%20prep%20logistics%20-%201VADL.xlsx?d=wc61bb0864a5248d9975334d0b5581e33&csf=1&web=1&e=J4y645)
 
