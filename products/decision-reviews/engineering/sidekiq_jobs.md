@@ -21,6 +21,8 @@ The primary purpose of these jobs are to check for the latest LH statuses for su
 
 [FailureNotificationEmailJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/failure_notification_email_job.rb) sends emails to the Veteran using VANotify for any form or evidence errors that occur after submission.
 
-[DeleteSavedClaimRecordsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/delete_saved_claim_records_job.rb) is used to delete `SavedClaim` records that have been successfully processed by downstream services and have passed the allowed retention period.
+[DeleteSavedClaimRecordsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/delete_saved_claim_records_job.rb) is used to delete Decision Reviews `SavedClaim` records that have been successfully processed by downstream services and have passed the allowed retention period.
+
+[DeleteSecondaryAppealFormsJob](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/decision_reviews/app/sidekiq/decision_reviews/delete_secondary_appeal_forms_job.rb) is used to delete `SecondaryAppealForm` records that have been successfully processed by downstream services and have passed the allowed retention period.
 
 These jobs are scheduled to run as defined in https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/periodic_jobs.rb
