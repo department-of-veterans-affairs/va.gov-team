@@ -48,11 +48,7 @@ While the details of each step may differ based on the type of research being co
 > [!NOTE]
 > Sensitive information includes **both** the PHI and PII of a veteran patient, as well as the PHI and PII of our research participant. Because we do not get informed consent from the patient to record their PHI and PII, we **do not record research sessions** where a patient's PHI/PII may be shown on the screen when we are observing how a clinician is interacting with tools, even though MS Teams is an approved tool for sharing sensistive information. 
 
-*List the research questions that guided this study.*  
 
-* Question 1
-* Question 2
-* Question 3
 
 
 ## Prepare Research Materials 
@@ -243,7 +239,7 @@ Cheers,
 > - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
 > - "Participants struggled with the secondary caregiver section on the form."  
 
-
+If keeping a video clip from a user session, review the tips here on how to scrub PHI/PII from recordings.
 
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
@@ -257,15 +253,23 @@ Completed research must be added to the OCTO research repository board. Since th
 1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), 
    - Click into your respective folder.
    - Click add file.
-   - Type the name of the study folder with the format: titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
-   - Type **/research-plan.md** and then click save.
-> **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the newly created research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
+   - Type the name of the study folder with the format: titled with date then study name [YYYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
+     <img width="1203" height="179" alt="image" src="https://github.com/user-attachments/assets/87488734-27e8-4850-bbb4-ab87f348ca6b" />
+
+   - Type **/** then **research-plan.md** and then **Commit changes**.
+     <img width="1239" height="215" alt="image" src="https://github.com/user-attachments/assets/f1c86a09-f463-47e7-aea5-ca300a6f85c1" />
+
+> **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the **copy raw data** icon near the top right. Then you can paste all of the content into the newly created research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
+
 2. This new folder should have the following files: research-plan.md, conversation-guide.md, research-findings.md. Do not rename these files.
    - Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
    - [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
    - These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
    - The templates maintain the same structure as the VFS templates as that will assist with copilot use
    - The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
+
+  > **TIP:** Select the **Copy raw data** to copy from the templates to your own folder. Then edit the markdown files and copy from your Mural or Slack research-plans and conversation guides. You'll want to copy and paste over in sections to maintain the formatting.  
+
 3. After your research folder is created and your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
    - Go to the OCTO Research Repository board.
    - Scroll to the **Complete** column and click **Add item**.
@@ -275,9 +279,13 @@ Completed research must be added to the OCTO research repository board. Since th
    - Follow the naming convention for the Title.
    - Copy the path from the new research folder you created that contains the study's markdown files and paste into the Research Folder field.
    - Complete the **Summary** and **Key Findings** sections and add the following labels:
-   - Click **Create**
-   - 
+   - Click **Create** and then click **Edit** and edit the Summary to put the Veteran Journeys and Benefits below the **Key Findings** section for easier reading since those sections are not relevant for the clinical & staff facing research.
+   - Update ticket with start and end dates.
+   - Click **Close** to close the ticket.
 
+#### Share findings with your team
+1. Consider signing up for a research readout in the weekly CDS HCD CoP and/or the OCTO weekly Design CoP meeting.
+2. Consider recording a readout to share async in Slack channels for your product and the HCD CoP.
 
 
 ## Research close-out
