@@ -153,7 +153,7 @@ Findings will inform iterative improvements to the form's design, content, and w
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: We conducted remote moderated research sessions that included usability testing to evaluate the user experience and gather actionable feedback.
+We conducted remote moderated research sessions that included usability testing to evaluate the user experience and gather actionable feedback.
 
 
 [Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
@@ -200,9 +200,10 @@ Findings will inform iterative improvements to the form's design, content, and w
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
 ### Finding 1
-Users had difficulty interpreting the terminology used in the question, “What is your relationship to the Veteran (deceased)?”- Supporting data:
+Users had difficulty interpreting the terminology used in the question, “What is your relationship to the Veteran (deceased)?”
+- Supporting data:
 - (Regarding the term Sponsor) "and this is a military term, I think some people might not know, if they were, like, a family member, might not know that a sponsor means, like, the primary Person with the, you know, and others are dependents." - P5
-- "I could be either the spouse, or the representative spouse, or whatever in that sense." P6
+- "I could be either the spouse, or the representative spouse, or whatever in that sense." - P6
 
 ### Finding 2  
 Some users were familiar with the concept of the pre-need decision letter but didn't recognize terminology. Others were unaware of what the letter was and have never done it before.​
@@ -214,7 +215,7 @@ Some users were familiar with the concept of the pre-need decision letter but di
 Most users understood the definition of personal representative, but few understood its relation to their specific scenario.
 - Supporting data:
 - (Regarding who is the personal rep) "to me...that would be the wife who was doing it on my behalf. To me, the personal representative is not the actual veteran, it's the person who's caring for the veteran, because the veteran's unable to care for themselves." - P13
-- "I would assume it would be, like, a legal representative, or it would be a family member who has been… who's gotten power of attorney." P5
+- "I would assume it would be, like, a legal representative, or it would be a family member who has been… who's gotten power of attorney." - P5
 
 ### Finding 4
 Users were wanting better context and more functionality when selecting a preferred cemetery. Some users were unsure of all the options and resources available to them.​
@@ -225,8 +226,8 @@ Users were wanting better context and more functionality when selecting a prefer
 ### Finding 5
 Users expressed confusion regarding burial terminology, particularly with the terms "cremains green," "intact green," and "cremains."
 - Supporting data:
-- "Just the part on the cremation. I don't know what green cremate… I don't know if that's more eco-friendly. ... I just remember being asked, do you want a casket or a cremation?" P4
-- "I don't know what intact green and cream means green. I don't know what that is." P2
+- "Just the part on the cremation. I don't know what green cremate… I don't know if that's more eco-friendly. ... I just remember being asked, do you want a casket or a cremation?" - P4
+- "I don't know what intact green and cream means green. I don't know what that is." - P2
 
 ---
 
@@ -323,6 +324,7 @@ The study notably lacked representation from users of assistive technology and m
 ### Tools used for Synthesis
 
 Mural
+FigJam
   
 ### Pages and applications used
 
