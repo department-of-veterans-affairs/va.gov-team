@@ -251,25 +251,39 @@ Cheers,
 ---
 
 ## Share and document research
-Research must be added to the OCTO research repository board.  
+Completed research must be added to the OCTO research repository board. Since the CDS research processes differ from the VFS research processes and we are not relying on other workflow integrations or reruitment services, we can add our research to GitHub when studies are completed. 
 
 #### Document your research in GitHub
-1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
-> **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the new research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
-2. This folder should have the following files: research plan, conversation guide, research findings. 
+1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), 
+   - Click into your respective folder.
+   - Click add file.
+   - Type the name of the study folder with the format: titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
+   - Type **/research-plan.md** and then click save.
+> **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the newly created research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
+2. This new folder should have the following files: research-plan.md, conversation-guide.md, research-findings.md. Do not rename these files.
    - Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
    - [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
    - These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
    - The templates maintain the same structure as the VFS templates as that will assist with copilot use
    - The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
-3. After your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
+3. After your research folder is created and your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
+   - Go to the OCTO Research Repository board.
+   - Scroll to the **Complete** column and click **Add item**.
+   - Begin typing and then click Create new issue.
+   - A modal will pop-up and confirm the Repository listed is department-of-veterans-affairs/va.gov-research-repository
+   - Then select Research Intake Form.
+   - Follow the naming convention for the Title.
+   - Copy the path from the new research folder you created that contains the study's markdown files and paste into the Research Folder field.
+   - Complete the **Summary** and **Key Findings** sections and add the following labels:
+   - Click **Create**
+   - 
 
 
 
 ## Research close-out
 Tasks for when synthesis and documentation is completed.
 
-1.**Remove PII/PHI from transcripts if keeping**
+1. **Remove PII/PHI from transcripts if keeping**
    - If keeping any transcripts of recordings for future reference, remove PII/PHI. You might consider keeping transcripts for topics that you know will carry forward into future research studies. 
 2. **Delete recordings:** 
    - When synthesis is completed, delete recordings.
