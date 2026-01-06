@@ -75,7 +75,7 @@ This study addressed all five research questions. Veterans generally understood 
 
 ### <a name="screens-and-paths-used-in-testing"></a>Screens and paths used in testing
 
-Testing used a combination of a Figma prototype (status evaluation) and a staging environment (renewal flow).
+Testing used a combination of a Figma prototype (status undersatnding) and a staging environment (renewal flow).
 
 #### Figma: Medication status evaluation
 
