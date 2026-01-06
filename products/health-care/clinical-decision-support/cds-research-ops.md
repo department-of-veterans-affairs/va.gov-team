@@ -1,4 +1,4 @@
-# CDS Research Operations (WORK IN PROGRESS 1/5/2025)
+# CDS Research Operations (WORK IN PROGRESS 1/6/2025)
 
 
 **Jump to:**
@@ -61,15 +61,22 @@ While the details of each step may differ based on the type of research being co
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
-- Determine your research methodology.
-- Write your research plan and guide.
-- Create stimuli (Figma or Mural)
-- Get peer reviews and run a pilot session.
-- Additional tips and support in [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va). Do not use the TEMPLATES provided in the Quick Resources section here. Templates have been adapted for staff-facing research and are in the [clinical decision support folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates).
-
+1. Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
+2. Determine your research methodology.
+3. Write your research plan and guide.
+   - **Mural** research plan and conversation guide template
+   - **Slack canvas** research plan template
+   - **Slack canvas** conversation guide template. 
 > [!TIP]
-> Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section). Keep in mind tables will not copy over directly and it's best to copy sections at a time to maintain the formatting in the markdown files.
+> Write your research plan and conversation guide using Mural or Slack Canvas templates until they are finalized and ready to publish in GitHub templates (see Share and document research section). This makes it easier to share and collaborate and incorporate feedback. Keep in mind tables will not copy over directly and it's best to copy sections at a time to maintain the formatting in the markdown files.
+
+4. Create stimuli (Figma or Mural)
+5. Get peer reviews and run a pilot session. Put your request in the [#cds-hcd-cop](https://dsva.slack.com/archives/C06043YBWTC) Slack channel, and give at least 48 hours notice for peer reviews and pilot sessions.
+
+> [!NOTE]
+> Additional tips and support in [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va). Do not use the TEMPLATES provided in the Quick Resources section here. Templates have been adapted for staff-facing research and are in the [clinical decision support folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates).
+
+
 
 #### VHA Union and PRA considerations for staff-facing research
 <details>
@@ -218,21 +225,7 @@ Cheers,
  
 </details>
 
-
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
-
 ## Conduct User Sessions
-
-*Summarize the 5–10 most impactful findings from your study.* 
 
 - Have your conversation guide ready, prototype or stimuli on the screen or link handy to share, and a glass of water!
 - Introduce yourself with cameras on, as well as any notetakers or observers. Then notetakers and observers can go off camera for the duration of the session.
@@ -242,40 +235,25 @@ Cheers,
 - If you need to record a screen, ensure only a test patient is used.
 - If PHI/PII is accidentally shared, stop the recording as quickly as possible. Let the research lead know for awareness. Delete the recording as soon as possible after you collected what you needed for synthesis. An incident does not need to be reported since MS Teams is used for the recordings and approved by security for sharing PHI and PII. Remember, we do not record patient PHI and PII because we do not have informed consent from them to record. Sometimes when deleting a recording, you need to delete from more than one folder. 
 
+
+## Synthesis
+
+*Summarize the 5–10 most impactful findings from your study.* 
+
 > [!TIP] 
 > Write findings as stand-alone insights that are easy to scan. For example:  
 > - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
 > - "Participants struggled with the secondary caregiver section on the form."  
 
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
-
-## Synthesis
-
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
-### Finding 1
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
 
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
-### Finding 2  
-Brief description  
-- _Supporting data: Quote [add context]_  
 
 ---
 
 ## Share and document research
-*Include insights that do not represent patterns but are still valuable.*  
+Research must be added to the OCTO research repository board.  
 
 #### Set-up your Github product folder
 Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), titled with date then study name [YYY-MM-Name-of-Study]. Example: 2025-09-Calculator-Detail-Page-Line-Chart-Testing
@@ -287,25 +265,25 @@ Create a GitHub research folder for your study inside the [respective CDS produc
 - The templates maintain the same structure as the VFS templates as that will assist with copilot use
 - The conversation guide template has all of the intro text around participant privacy and recording such that only small modifications may be needed for these sections.
 - The mural testing template was updated to reflect these sections so you can write there first if your preference and place in the github files when complete.
-- 
+
 > **TIP:** A folder needs a .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the "copy raw data" icon near the top right. Then you can paste all of the content into the new research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
 
 
 ## Research close-out
 
-*Summarize actionable recommendations based on findings.*  
+*Tasks for when synthesis and documentation is completed.*  
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
-
-## Product User and Business Outcomes
-
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
+1. **Delete recordings:** 
+   - When synthesis is completed, delete recordings.
+   - Go to your OneDrive and the Recodrings folder. Select the recordings you need to delete and click "Delete."
+   - Then click on the recycle bin and confirm they are deleted from there. If you don't see anything, and see "Can't find what you're looking for? Check the Second-stage recycle bin" and delet from there if it is still available.
+2. **Confirm raw notes do not contain PII/PHI**
+   - Remember that PII includes the name of the participant. This sometimes is copied accidentally when coping from a transcript to Mural stickies! Double-check!
+3. **Remove PII/PHI from transcripts if keeping**
+   - If keeping any transcripts of recordings for future reference, remove PII/PHI. You might consider keeping transcripts for topics that you know will carry forward into future research studies. 
+   - Store transcripts in a folder that has limited access.
+4. **Send participant a thank-you note**
+   - A small note of appreciation goes a long way! Thank them for their time and include something specific to them to make it personal. This could be a surprise takeaway or even a common interest you learned about, like living in the same state. 
 
 
 ## Appendix
