@@ -150,7 +150,7 @@ When required medication details were missing, participants paused and questione
 
 ### Insight 5: Confirmation cues were generally noticed, but did not fully resolve uncertainty
 
-**Most Veterans noticed the success alert, but some still sought additional reassurance or inferred next steps based on past experience.**
+**Most Veterans noticed the success alert, but some still sought additional reassurance or inferred next steps that did not always align with how the system works.**
 
 **9 of 12 participants** noticed the success alert and recognized it as confirmation that their request was sent.
 
@@ -161,8 +161,9 @@ When required medication details were missing, participants paused and questione
 
 “I went to messages to confirm it was sent.” (P1)
 
-Even when confirmation cues were noticed, participants often relied on prior experience to infer what would happen next.
+Even when confirmation cues were noticed, participants often relied on prior experience to infer what would happen next. These expectations did not always match the actual behavior of the renewal flow.
 
 “Once the doc approves it, it should appear as in progress.”  
 “It will take up to three days for the status to change.”
+
 
