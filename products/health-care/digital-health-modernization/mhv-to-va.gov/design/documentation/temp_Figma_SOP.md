@@ -13,7 +13,7 @@ All Figma SOT files should include the following pages:
 **Please note:** All MHV tool teams should have an updated source of truth both for web and for the mobile app. This can be one file if desired, or split into more than (i.e. two separate SOTs, one for web, one for mobile).
 
 ### Cover page
-Some teams include the names of designers in the cover page. That can be a team by team decision. The cover page should include:
+Some teams include the names of designers in the cover page. That can be a team by team decision. At a minimum, the cover page should include:
 - Team name, i.e. Messaging
 - Name of file, which should be a concise description of what the file covers, i.e. "Web source of truth" or "Triage group flows" or "Filter UI" 
 <details>
