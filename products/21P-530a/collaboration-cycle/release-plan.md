@@ -25,7 +25,6 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
-**Please read:** The government is currently shut down. Our PO, COR, stakeholders and SMEs are furloughed. This release plan is a suggested/best practices plan that has not been reviewed or approved by the government. Staging review is for contractual purposes only, there is a very high probability that once the government reopens there will be some changes to the product itself and potentially release plan. **We do not have a target release date due to government shut-down and furlough of PO/SMEs.**
 
 ### Define the Rollback process
 
