@@ -91,4 +91,4 @@ At this point the new data will be processed overnight at 3 AM ET by `Representa
 
 ### If you need the data updated sooner
 
-1. In the prod console run `Representatives::QueueUpdates.new.perform` and `Organizations::QueueUpdates.new.perform`.  This will enqueue all of the changed records for address validation again.  Just like the overnight job, it will process 30 records a minute and it is possible it may be several hours before all of the data is updated.  If you are updating the data to check the results for a particular representative there is no good way to prioritize that record or tell when it will be validated and visible on the site.
+1. In the prod console run `Representatives::QueueUpdates.new.perform` and `Organizations::QueueUpdates.new.perform`.  Just like the overnight job, it will process 30 records a minute and it is possible it may be several hours before all of the data is updated.  If you are updating the data to check the results for a particular representative there is no good way to prioritize that record or tell when it will be validated and visible on the site.
