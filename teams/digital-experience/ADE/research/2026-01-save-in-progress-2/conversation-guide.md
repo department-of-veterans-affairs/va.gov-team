@@ -21,7 +21,7 @@
   1. Check for all green text (no red), and "webpack compiled successfully"
   1. Open standalone browser window with prototype: **https://bit.ly/456nrPv** (https://legendary-yodel-46rpq9g49pj37wv5-3002.app.github.dev/) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
-- Slack Perigean notetaker a link to the notes doc in GitHub
+<!-- - Slack Perigean notetaker a link to the notes doc in GitHub -->
 - Post p# and "observer instructions" in #feedback-backchannel
   - @mention observers
   - Share brief summary of participant demographic info
