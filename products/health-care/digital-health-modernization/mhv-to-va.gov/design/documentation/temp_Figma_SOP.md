@@ -23,6 +23,11 @@ Componentized documentation of what is currently in prod on both web and mobile 
 - User flows for the various interactions within the app. Some teams across VA.gov separate source of truth files into key user interactions and include a user flow of that interaction at the top and screens demonstrating what each step of that interaction look like in prod lower on the same page. Other teams have one page that is all the user flows, and come up with a system to somehow connect user flows to specific design pages in the file (whether that is by link or naming convention, or some other method).
 - All tool-specific alerts
 
+#### Why keep a source of truth (copy of what is in prod) in a Figma file?
+- Implementation errors in which the design in prod does not match source of truth are more quickly identified and addressed
+- When we're trying to standardize design elements and/or content across the portal, having documented everything that shows up in a tool makes this much quicker and easier
+- Staging users with specific attributes that are needed to access certain designs in prod can be non-existant or hard to find. Also, staging could be down at a time when this information is needed. Lastly, staging is not always a reliable way to see what is in prod because sometimes staging and prod show different experiences.
+
 #### Organization
 Here are some examples of how teams have organized the web SOT page in their file. 
 <details>
@@ -49,11 +54,6 @@ Here are some examples of how teams have organized the web SOT page in their fil
 Any specific-to-tool repeatable design elements that you are using in designs.
 
 ## All MHV tool teams:
-
-### Why keep a source of truth (copy of what is in prod) in a Figma file?
-- Implementation errors in which the design in prod does not match source of truth are more quickly identified and addressed
-- When we're trying to standardize design elements and/or content across the portal, having documented everything that shows up in a tool makes this much quicker and easier
-- Staging users with specific attributes that are needed to access certain designs in prod can be non-existant or hard to find. Also, staging could be down at a time when this information is needed
 
 ### As much as possible, autolayout should be used 
 - It should be as easy and simple as possible to add and remove elements from the design of a screen without interrupting spacing
