@@ -202,6 +202,121 @@ Unit tests were written to confirm that the component does the following:
 - [Read Only With Additional Inputs](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--read-only-with-additional-inputs)
 - [With Percent Uploaded](https://design.va.gov/storybook/?path=/story/uswds-va-file-input--with-percent-uploaded)
 
+## Backend description
+
+This upload flow uses the Simple Forms API in vets-api to stage, validate, convert, and submit documents to Lighthouse Benefits Intake. It is designed to normalize user-provided files into a standards-compliant PDF, apply minimal stamping, and provide clear, structured errors when issues are detected. The primary entry points live in SimpleFormsApi::V1::ScannedFormUploadsController and associated services.
+
+### Responsibilities and scope
+- Accept files from the client and stage them server-side (persistent attachments)
+- Optionally decrypt password-protected PDFs (when the user provides a password)
+- Convert non-PDF inputs into a normalized PDF
+- Validate the resulting PDF against platform and Intake limits
+- Stamp the PDF minimally (form number, LOA, timestamp)
+- Submit the final PDF (and supporting documents when enabled) to Lighthouse Benefits Intake
+- Record submission attempts and correlate with the Intake UUID for traceability
+
+Key code references:
+- Controller (staging/submit flows): [modules/simple_forms_api/app/controllers/simple_forms_api/v1/scanned_form_uploads_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/f78fd1f5009aed3827c0ccf882c479908a583032/modules/simple_forms_api/app/controllers/simple_forms_api/v1/scanned_form_uploads_controller.rb#L10-L169)
+- Processor (decrypt/convert/validate/persist): [modules/simple_forms_api/app/services/simple_forms_api/scanned_form_processor.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/e62253a7ef694a43711edfb04f453d074653cfff/modules/simple_forms_api/app/services/simple_forms_api/scanned_form_processor.rb#L41-L150)
+- Intake client and validation options: [lib/lighthouse/benefits_intake/service.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/e62253a7ef694a43711edfb04f453d074653cfff/lib/lighthouse/benefits_intake/service.rb#L66-L156)
+
+### Endpoints and flow
+- POST /simple_forms_api/v1/scanned_form_upload
+  - Stages a file in PersistentAttachments and returns a serialized record (includes a GUID).
+  - If a password is provided for an encrypted PDF, the backend attempts decryption during processing.
+- POST /simple_forms_api/v1/submit_scanned_form
+  - Uses the staged GUID (confirmation_code) to locate the file, validates metadata, stamps the PDF, and submits to Lighthouse Benefits Intake. Returns status and the Intake UUID.
+- POST /simple_forms_api/v1/supporting_documents_upload
+  - Feature-flagged path for supporting documents; delegates to a service that coordinates multi-file uploads with Lighthouse.
+
+### Processing pipeline
+1. Stage
+   - Store the raw upload via PersistentAttachments.
+   - If a password is provided and the file is an encrypted PDF, attempt to decrypt before validation.
+2. Convert
+   - Convert non-PDF formats to PDF; keep PDFs intact for validation/stamping.
+3. Validate
+   - Enforce size, page dimensions, encryption, and basic PDF integrity checks locally (before hitting Intake).
+4. Stamp
+   - Apply minimal stamps (form number, LOA, timestamp) to the final PDF.
+5. Submit
+   - Request an Intake upload location and UUID, upload the stamped PDF, and persist submission attempt metadata.
+
+### Data and observability
+- FormSubmission and FormSubmissionAttempt records capture metadata and the Intake UUID.
+- Structured logging and Datadog tags (e.g., form_id, uuid) aid diagnostics while avoiding PII leakage.
+
+### Errors and responses
+- Validation and conversion failures return HTTP 422 with a standard error array: `{ errors: [{ title, detail }] }`.
+- Upstream or persistence issues return appropriate 4xx/5xx codes and messages.
+- Common error cases: zero-byte file, invalid MIME type, oversized pages, file too large, corrupted PDF, incorrect/missing password.
+
+### Feature flags
+- simple_forms_upload_supporting_documents
+  - Controls whether uploads follow the legacy single-doc flow or the service-backed flow that supports supporting documents.
+
+---
+
+## Common tools and utilities (shared behavior)
+
+These utilities underpin the PDF validation and decryption behavior across file-upload flows.
+
+### PDFUtilities::PDFValidator::Validator
+- Purpose: Local validation of PDFs before contacting external services; returns structured, human-readable errors.
+- Checks:
+  - File size limit
+  - Page dimensions
+  - Encryption status (distinguishes user vs. owner protection)
+  - Basic PDF readability
+- Defaults:
+  - size_limit_in_bytes: 100 MB
+  - check_page_dimensions: true
+  - check_encryption: true
+  - width_limit_in_inches: 21, height_limit_in_inches: 21
+- Intake-specific overrides commonly used:
+  - width_limit_in_inches: 78, height_limit_in_inches: 101
+- Reference: [lib/pdf_utilities/pdf_validator.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/e62253a7ef694a43711edfb04f453d074653cfff/lib/pdf_utilities/pdf_validator.rb)
+
+Example:
+```ruby
+opts = {
+  size_limit_in_bytes: 100_000_000,
+  check_page_dimensions: true,
+  check_encryption: true,
+  width_limit_in_inches: 78,
+  height_limit_in_inches: 101
+}
+result = PDFUtilities::PDFValidator::Validator.new(path_to_pdf, opts).validate
+if result.valid_pdf?
+  # proceed
+else
+  # return 422 with result.errors
+end
+```
+
+### Common::PdfHelpers.unlock_pdf
+- Purpose: Decrypt password-protected PDFs using a user-provided password, writing a temporary decrypted file.
+- Behavior:
+  - Signature: `Common::PdfHelpers.unlock_pdf(input_path, password, output_path)`
+  - On success, the decrypted PDF is written to `output_path`.
+  - On failure (e.g., wrong password), raises `Common::Exceptions::UnprocessableEntity`.
+- Typical usage:
+  - Attempt decryption if a password is provided, then validate the decrypted PDF.
+  - Always clean up decrypted temporary files after processing (even on failure).
+- Reference (usage in processor): [scanned_form_processor.rb (decrypt and validate)](https://github.com/department-of-veterans-affairs/vets-api/blob/e62253a7ef694a43711edfb04f453d074653cfff/modules/simple_forms_api/app/services/simple_forms_api/scanned_form_processor.rb#L83-L109)
+
+Example:
+```ruby
+output_path = Tempfile.new(['decrypted', '.pdf']).path
+begin
+  Common::PdfHelpers.unlock_pdf(encrypted_pdf_path, password, output_path)
+  result = PDFUtilities::PDFValidator::Validator.new(output_path, PDF_VALIDATOR_OPTIONS).validate
+  raise "Invalid PDF: #{result.errors}" unless result.valid_pdf?
+ensure
+  File.delete(output_path) if File.exist?(output_path)
+end
+```
+
 
 ## Future Considerations
 - Accessibility consideration (focus management): Handle the case when a user attempts to submit a form containing a `required` instance of the component without actually uploading a file.
