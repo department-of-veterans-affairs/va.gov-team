@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Unique Logged Events](#unique-logged-events)
+- [Re-architecture: Backend-Only Event Logging (November 2025)](#re-architecture-backend-only-event-logging-november-2025)
 - [Re-architecture: Asynchronous Batch Processing (December 2025)](#re-architecture-asynchronous-batch-processing-december-2025)
 
 The goal of the Unique User Metrics (UUM) for the My HealtheVet (MHV) Portal is to collect unique user metrics on how many users have accessed the MHV on VA.gov patient portal. The patient portal is comprised of any application that is accessed via the `/my-health` root URL and includes the MHV landing page. Note that Google Analytics can collect these same metrics, but this effort aims to provide more accurate metrics since we do not want users to be able to opt out of these analytics.
