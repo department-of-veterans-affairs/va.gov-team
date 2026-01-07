@@ -74,12 +74,13 @@ We will use insights from this study to make **data-informed decisions** about t
 3.  Are the redesigned benefit cards usable and accessible?
 4.  Are time sensitivity, recommendation, and potential eligibility clear?
 5.  Is the redesigned sorting function usable and accessible?
-6.  Is the rewritten length of service question easy to understand, and does it align with Veterans’ mental models around length of service?
-7.  What effect, if any, does the new results page interface have on the benefits users explore?
+6.  Which prototype has better filtering usability for seeing recommended benefits vs all benefits - radio buttons or checkbox?
+7.  Is the rewritten length of service question easy to understand, and does it align with Veterans’ mental models around length of service?
+8.  What effect, if any, does the new results page interface have on the benefits users explore?
 
 ### Hypotheses
 
-Our hypothesis is that the redesigned Results page will make it **easier for users to discover, explore, and understand the benefits** that are most relevant to them.
+Our hypothesis is that the redesigned Results page will make it **easier for users to discover, explore, and understand the benefits** that are most relevant to them. We anticipate that the radio button prototype has better usability. 
 
 ---
 
@@ -97,7 +98,8 @@ Our hypothesis is that the redesigned Results page will make it **easier for use
 ## Research Materials 📔
 
 * [Conversation Guide](https://github.dev/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/research)
-* [Prototype](https://staging.va.gov/discover-your-benefits/introduction)
+* [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
+* [Prototype 2 (checkbox)]()
 
 ---
 
@@ -232,8 +234,3 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 * Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]
 * Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
 
----
-
-I fixed the inconsistent list markers, converted the non-standard `[OCTO-DE Priorities]` and `[Veteran Journey]` into proper level-two headings, removed the unclosed `<details>` tags, and cleaned up the table formatting in the Team Roles section.
-
-Is there anything else I can help you format or refine?
