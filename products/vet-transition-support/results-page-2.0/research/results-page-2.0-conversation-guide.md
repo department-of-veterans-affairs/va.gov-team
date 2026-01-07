@@ -1,4 +1,4 @@
-# Conversation Guide for Veteran Transition Experience: Discover Your Benefits Tool Research (November 2025)
+# Conversation Guide for Veteran Transition Experience: Discover Your Benefits Tool Research (January 2026)
 
 ---
 
