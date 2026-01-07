@@ -1,4 +1,4 @@
-# Topline Findings: Medication renewal flow and prescription statuses comprehension study
+# Topline Findings: Medication renewal flow and prescription statuses study
 
 **Authors:** Athena Bozak, Anneka VanGarza, Cara Frissell  
 **Date:** January 6, 2026
