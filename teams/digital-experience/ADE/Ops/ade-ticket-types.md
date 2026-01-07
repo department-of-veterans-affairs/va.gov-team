@@ -9,19 +9,6 @@ This is [the intake tickets through which VFS teams request ADE support](https:/
 
 
   
-## ADE Research Intake  
-[This is the initial ticket for teams to request collaboration with ADE on research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
-
-* This ticket can be opened as a standalone ticket, or be opened after or during an intake request.  
-* ADE will attach new research work tickets to capture individual support tasks needed, based on the selections made in the research ticket. This is typically done by Delivery Lead or Team Lead.   
-* Pilots: If a pilot is requested, ADE will [create a research pilot ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-Research-Pilot-Ticket.md) to this research ticket.  
-* [Research support child tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) will be created (based on the tasks required):  
-  * Review Research Materials  
-  * Provide Technical Support  
-  * Help with Research Sessions  
-* Research Feedback: If AT research support takes place, a [research child feedback ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) will be opened by ADE for each issue found, and attached to the main research ticket (see process below). This is to quantify issues found.
-
-
 ### Child Ticket Creation Workflow for ADE Research 
 The child ticket creation workflow for issues found during pilots and research sessions.
 
