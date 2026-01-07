@@ -17,12 +17,29 @@ on:
 jobs:
   update_research_plans:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
     if: github.ref != 'refs/heads/master'
 
     steps:
-      - name: Checkout code
+      - name: Checkout code with sparse checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            .github/workflows/
+            .github/scripts/
+            platform/research/
+            products/**/*.md
+            teams/**/*.md
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name:  Exclude binary files from working directory
+        run:  |
+          # Remove any binary files that may have been checked out
+          find . -type f \( -name "*. pdf" -o -name "*.doc" -o -name "*.docx" -o -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.zip" -o -name "*.pptx" -o -name "*.xlsx" \) -delete 2>/dev/null || true
+          echo "Binary files excluded from working directory"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,17 +56,86 @@ jobs:
         run: |
           curl -o labels.yml https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-research-repository/master/.github/labels.yml
 
-      - name: Run NLP Frontmatter Script
-        id: nlp_script
+      - name:  Step 1 - Add incomplete YAML frontmatter template to research plans
         env:
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+          TEMPLATE_PATH: "platform/research/research-plan-template.md"
+        run: |
+          #!/bin/bash
+          set -e
+          
+          # Extract YAML frontmatter from template
+          echo "Extracting YAML frontmatter from template..."
+          TEMPLATE_FRONTMATTER=$(awk '/^---$/{if(f){print;exit}else{f=1}} f' "$TEMPLATE_PATH")
+          
+          if [ -z "$TEMPLATE_FRONTMATTER" ]; then
+            echo "Error: Could not extract frontmatter from template"
+            exit 1
+          fi
+          
+          echo "Template frontmatter extracted successfully"
+          
+          # Process each file path
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)  # Trim whitespace
+            
+            if [ !  -f "$file" ]; then
+              echo "Warning: File not found - $file"
+              continue
+            fi
+            
+            echo "Processing: $file"
+            
+            # Check if file already has frontmatter
+            if head -1 "$file" | grep -q "^---$"; then
+              echo "  - File already has frontmatter, will be updated by NLP script"
+            else
+              echo "  - Adding incomplete YAML frontmatter template..."
+              # Create temp file with frontmatter prepended
+              {
+                echo "$TEMPLATE_FRONTMATTER"
+                echo ""
+                cat "$file"
+              } > "${file}.tmp"
+              mv "${file}.tmp" "$file"
+              echo "  - Frontmatter template added successfully"
+            fi
+          done
+          
+          echo "Step 1 complete:  All research plans now have YAML frontmatter (incomplete)"
+
+      - name:  Step 2 - Complete YAML frontmatter using NLP
+        id: nlp_script
+        env: 
           FILE_PATHS: ${{ github.event.inputs.file_paths }}
           LABELS_FILE: labels.yml
         run: |
+          echo "Running NLP script to auto-populate frontmatter fields..."
           python .github/scripts/update_research_plan_frontmatter.py \
             --file-paths "$FILE_PATHS" \
             --labels-file "$LABELS_FILE" \
-            --template-path ".github/research-templates/research-plan-template.md" \
-            --report-path "frontmatter_report.md"
+            --template-path "platform/research/research-plan-template.md" \
+            --report-path "frontmatter_report. md"
+          
+          echo "Step 2 complete:  YAML frontmatter populated using NLP"
+
+      - name: Verify frontmatter updates
+        env:
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+        run: |
+          echo "Verifying frontmatter in processed files..."
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)
+            if [ -f "$file" ]; then
+              echo "=== $file ==="
+              # Display first 30 lines to show frontmatter
+              head -30 "$file"
+              echo ""
+              echo "---"
+            fi
+          done
 
       - name: Commit changes
         run: |
@@ -57,6 +143,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b research-plan-frontmatter-update-${{ github.run_id }}
           git add ${{ github.event.inputs.file_paths }}
+          git add frontmatter_report.md || true
           git commit -m "Add and auto-populate frontmatter to research plans"
           git push origin research-plan-frontmatter-update-${{ github.run_id }}
 
@@ -64,12 +151,21 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           branch: research-plan-frontmatter-update-${{ github.run_id }}
-          base: ${{ github.event.inputs.base_branch }}
+          base: ${{ github.event.inputs. base_branch }}
           title: "Add frontmatter to research plans using NLP"
           body: |
-            This PR was created automatically to add and populate YAML frontmatter in research plans using NLP.
-            Please see the confidence report below for fields and tags requiring review.
-
+            This PR was created automatically to add and populate YAML frontmatter in research plans using NLP. 
+            
+            ## What this PR does:
+            1. ✅ Added YAML frontmatter template to research plans that were missing it
+            2. ✅ Auto-populated frontmatter fields using NLP analysis of document content
+            
+            ## Files processed:
+            ${{ github.event.inputs.file_paths }}
+            
+            ## Review required:
+            Please see the confidence report below for fields and tags that may need manual review.
+            
             ---
             $(cat frontmatter_report.md)
           reviewers: sstrassberg
