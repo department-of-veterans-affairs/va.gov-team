@@ -215,7 +215,7 @@ jobs:
           # Check if base branch exists, if not use the default branch
           if !  git ls-remote --heads origin "$BASE_BRANCH" | grep -q "$BASE_BRANCH"; then
             echo "Warning: Base branch '$BASE_BRANCH' not found.  Using default branch."
-            DEFAULT_BRANCH=$(gh repo view --json defaultBranchRef -q '. defaultBranchRef.name')
+            DEFAULT_BRANCH=$(gh repo view --json defaultBranchRef -q '.defaultBranchRef.name')
             BASE_BRANCH="$DEFAULT_BRANCH"
           fi
           
