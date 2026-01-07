@@ -20,8 +20,6 @@ Track request origins for the legacy `v0/evss_claims` endpoint to identify calle
 - `va-mobile-app`: Confirmed no production code calls `v0/evss_claims`. `/v0/evss_claims` is not used anywhere in the mobile app codebase. Only reference found: JSON:API resource type string evss_claims in local test fixture
 
 - Over a 24 hour period we had 652 recorded calls to `v0/evss_claims`. Of the 652 recorded calls there were 54 unique ip addresses.
-<!-- TODO:: update these numbers Wed. Morning -->
-- Over 48 hours we had 1.15k recorded calls to `v0/evss_claims`. Of the 1.15k recorded calls there were 80 unique ip addresses.
 - These are real users with legitimate web browsers, NOT mobile apps.
 - All requests (100%) route through `x_forwarded_host: api.va.gov:443`.
 - No variation in routing. All traffic goes through the API gateway.
