@@ -207,7 +207,7 @@ jobs:
       - name: Create Pull Request
         if:  steps.commit.outputs.has_changes == 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.WORKFLOWS_PERMISSIONS }}
           FILE_PATHS: ${{ github.event.inputs.file_paths }}
           BASE_BRANCH: ${{ github.event.inputs.base_branch }}
           BRANCH_NAME: ${{ steps.commit.outputs.branch_name }}
