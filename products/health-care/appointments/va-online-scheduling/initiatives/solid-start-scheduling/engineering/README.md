@@ -22,9 +22,9 @@ Main technical recommendations and feedback document:
 
 Authentication implementation strategy:
 
-- Sign in Service (SiS) integration approach
-- JWT token flow between va.gov and VASS API
-- Real-world example from Travel Pay implementation
+- One time passcode
+- JWT token flow between va.gov and vets-api
+- Uses redis cache for user session very short lived
 - Authentication sequence diagrams and patterns
 
 ### [🏗️ high-level-architecture.md](./high-level-architecture.md)
@@ -66,7 +66,7 @@ Low Risk One Time Authentication diagrams and implementation ideas:
 1. **Frontend/Backend Split**: Veterans use va.gov interface, staff use Dynamics interface
 2. **Data Storage**: All data stored in MS Dynamics database
 3. **API Layer**: Standardized REST API between va.gov and Dynamics
-4. **Authentication**: Sign in Service (SiS) integration with JWT tokens
+4. **Authentication**: One time passcode with JWT tokens
 5. **Notifications**: VA Notify integration for SMS and email
 
 ## Getting Started
