@@ -1,13 +1,3 @@
-## IMPORTANT: Year-End Intake Pause & Shutdown Impact
-
-As we approach the end of the year, please note the following.
-
-### Intake pause:
-VA Notify will not start new notification intakes after November 15. Our focus will shift to in-progress notifications and completing 2025 initiatives. New intake forms submitted after November 15 will be scheduled for January 2026 kickoffs.
-
-### Holiday launches:
-Once the government reopens, teams may continue to push approved notifications to production. However, please avoid launching new notifications right before the holidays unless there’s a business-critical deadline. The VA platform code freeze runs [December 22, 2025 – January 5, 2026](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies#DeploymentPolicies-Holidayreleasefreezeschedule), with limited support during that period. If you have urgent needs that must be addressed before year end, please reach out as soon as possible for review.
-
 # VA Notify, Enterprise Notification Platform
 
 **Mission**
