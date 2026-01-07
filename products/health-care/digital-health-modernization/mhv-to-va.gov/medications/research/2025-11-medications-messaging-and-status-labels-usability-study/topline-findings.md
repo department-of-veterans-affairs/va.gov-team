@@ -337,4 +337,4 @@ A smaller group of participants (**P8, P14**) reported little to no confusion at
 ## Resources
 
 - Figma prototype  
-- Task-level analysis
+- [Task-level findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-11-medications-messaging-and-status-labels-usability-study/task-level-findings.md)
