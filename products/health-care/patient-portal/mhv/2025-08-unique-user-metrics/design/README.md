@@ -141,6 +141,30 @@ The `mhv_metrics_unique_user_events` table is expected to grow significantly bas
 
 ---
 
+## Re-architecture: Backend-Only Event Logging (November 2025)
+
+### Background
+
+The initial UUM implementation included two mechanisms for logging events:
+1. **Frontend API endpoint**: A dedicated `POST /my_health/v1/metrics/log_event` endpoint that the frontend could call to log events
+2. **Backend inline logging**: Direct event logging from existing vets-api controllers (e.g., Prescriptions, Secure Messaging)
+
+### Change: Deprecation of Frontend API Endpoint
+
+On **November 24, 2025**, we removed the use of the frontend API endpoint for UUM event logging. Events are now logged **exclusively from existing backend endpoints**.
+
+**Rationale:**
+- **Reduced network overhead**: Eliminated extra HTTP round-trips from the frontend to log events
+- **Simplified frontend code**: Removed the need for frontend logic to determine when to call the logging endpoint
+- **UUM changes made only in one repo**: This limits duplication of code on both `vets-website` and the mobile app
+
+**Implementation:**
+- All MHV health tool controllers (Prescriptions, Secure Messaging, Medical Records, etc.) now log UUM events inline when serving requests
+- The `UniqueUserEvents.log_event` method is called directly from controller actions
+- The frontend logging endpoint remains available but is no longer used by the MHV portal frontend
+
+---
+
 ## Re-architecture: Asynchronous Batch Processing (December 2025)
 
 ### Problem Statement
@@ -310,7 +334,7 @@ Redis list size is **not a concern**:
 The key constraint is ensuring the job can process all incoming events within the 10-minute window:
 
 | Parameter | Recommended |
-|-----------|--------------|
+|-----------|--------------|-------------|
 | batch_size | 1,000 |
 | max_iterations |150 | 10,000 | **150,000** |
 | Handles 74k peak? |✅ Yes (~100% headroom) |
@@ -324,8 +348,6 @@ The key constraint is ensuring the job can process all incoming events within th
 | Iterations at peak | ~74 |
 | Estimated job duration | ~3-5 seconds |
 | Postgres insert_all @ 1000 records | ~20-50ms |
-
-Note that, due to deduplication before the database check, that the insert_all is expected to be significantly less than 1000 records.
 
 #### Database Performance
 
