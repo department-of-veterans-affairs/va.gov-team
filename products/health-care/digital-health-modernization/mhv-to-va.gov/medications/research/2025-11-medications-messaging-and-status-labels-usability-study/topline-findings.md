@@ -257,7 +257,7 @@ Most participants (**9 of 12: P1, P2, P3, P4, P5, P6, P9, P10, P12**) expressed 
 
 ### Automation and confirmation cues increased confidence
 
-Reassurance most often came from automation and clear feedback rather than explanatory text alone. The prefilled renewal message was repeatedly described as calming and confidence-building (**P1, P2, P4, P9, P11**), particularly when it included the medication name and provider details.
+Reassurance most often came from automation and clear feedback rather than explanatory text alone. Participants repeatedly called out the prefilled renewal message as helpful and time-saving (P1, P2, P4, P9, P11), particularly when it included the medication name and provider details..
 
 *“Everything’s already there, I love it.”*  
 *“That saves people a lot of time.”*
@@ -271,7 +271,7 @@ Visible confirmation cues also helped reduce doubt. Several participants describ
 
 ### Overall impressions were positive, with consistent opportunities to reduce cognitive load
 
-Participants generally described the medication statuses and renewal flow as familiar and easy to use, especially when compared to past VA experiences. Most felt confident completing the renewal request and did not view the flow itself as difficult.
+Participants generally described the medication statuses and renewal flow as familiar and easy to use. Most felt confident completing the renewal request and did not view the flow itself as difficult.
 
 **8 of 12 participants** (**P1, P2, P4, P5, P6, P9, P10, P14**) described the overall experience as easy, simple, or intuitive.
 
@@ -314,9 +314,9 @@ A smaller group of participants (**P8, P14**) reported little to no confusion at
 - Explore ways to make renewal actions easier to notice  
 - Clarify where renewal requests are routed  
 - Continue leveraging prefilled medication details  
-- Improve communication when information is missing  
-- Strengthen confirmation and next-step feedback  
-- Reduce cognitive load from inactive medications  
+- Set clearer expectations earlier in the renewal flow when additional information may be required 
+- Provide clearer guidance on what to expect after submitting a renewal request  
+- Reduce cognitive load from inactive and historical medications  
 - Clarify refill versus renewal at the point of action  
 
 ---
