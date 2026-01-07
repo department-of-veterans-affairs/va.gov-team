@@ -10,11 +10,13 @@
 * **If applicant is a dependent age 18-23:** School cert/ Proof of enrollment
 * **If applicant remarried to a new eligible sponsor:** Marriage certification for remarriage
 * **If applicant remarried to a new eligible sponsor:** Legal Separation Docs to previous sponsor
+* **If applicant is newborn biological dependent:** Dependent Birth Certificate
 * **If applicant is a stepchild:** Dependent Birth Certificate
 * **If applicant is a stepchild:** Marriage cert between sponsor and dependent’s parent for stepchildren
 * **If applicant is an adopted dependent:**  Dependent Birth Certificate
 * **If applicant is an adopted dependent:** Adoption Papers
 
+Note: All birth certificate must be government-issued, not temporary hospital-issued certificates of birth.
 
 ### OHI Related
 
