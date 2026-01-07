@@ -44,6 +44,11 @@ Rotation runs on a **per-sprint basis**. Each rotation starts on the first day o
 | Sprint 3 | **Nov 20 – Dec 3, 2025** | **Dwight Doran** |
 | Sprint 4 | **Dec 4 – Dec 17, 2025** | **Ian Donovan** |
 | Sprint 5 | **Dec 18, 2025 – Jan 7, 2026** *(includes holidays)* | **Colin O’Sullivan** |
+| Sprint 6 | **Jan 8 - Jan 21, 2026** | **Ian Donovan** |
+| Sprint 7 | **Jan 22 – Feb 4, 2026** | **Colin O’Sullivan** |
+| Sprint 8 | **Feb 5 – Feb 18, 2026** | **Dwight Doran** |
+| Sprint 9 | **Feb 19 – March 4, 2026** | **Ian Donovan** |
+| Sprint 10 | **March 5 – March 18, 2026** | **Colin O’Sullivan** |
 
 > Rotation order repeats after Sprint 5. Adjust as needed for holidays, vacations, or team capacity.
 
