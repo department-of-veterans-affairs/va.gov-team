@@ -1,0 +1,125 @@
+
+# Research Plan for [LCS, v2, May 2025]
+
+## Background 🏗️
+`What problem is your product or feature trying to solve?`
+
+**The LCSPv2 Patient drawer redesign focuses on improving user experience by streamlining patient context into one unified view, reducing the need for coordinators to switch between tabs. This update also supports the broader goal of aligning with the CDSP design system, ensuring scalability and consistency across the products in the CDS space. **
+`Where is your product situated within the clinicians' or VA staff's toolset (ex: CDS Console > LCS )`
+
+**CDS Console > LCS**
+  
+`What is clinicians' familiarity with this tool? Is this a new product or an iteration on an existing one?`
+
+**The patient drawer redesign is an iteration of LCSPv2**
+
+`Product Brief`
+
+**[Link to product brief](https://dvagov.sharepoint.com/:u:/r/sites/CDSProgramTeam/SitePages/LCSPv2/LCSPv2-Learn-More.aspx?csf=1&web=1&e=cmrEFc).**
+
+</details>
+
+### OCTO-DSD Priorities 
+
+<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+
+
+`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+
+> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+
+</details>
+
+### [Clinician Journey](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712167298060/95432abc60ba8f7d49dc09faa22c244e30b2a64e)
+
+<details><summary>Where does your product fit into the Clinician or VA staff journey?
+	
+- `Patient follow-up`
+- `Making clinical decisions`
+- `Documentation or charting`
+- `Reviewing results`
+
+</details>
+
+## Research Goals 🥅	
+`What are you trying to learn from this research?` 
+
+### Goals
+
+`1.` **Assess that the new patient drawer design meets user need, is efficient and intuitive. **
+`2.` **Identify motivations and opportunities for future iterations. **
+
+### Outcome
+***Determine opportunities for future iterations and improvements to LCSPv2**
+
+### Research questions
+
+**`1.`How well does the new patient drawer design experience fit with user needs?**
+
+## Methodology  🛠️
+Remote, moderated 1:1 sessions to be conducted via Teams, lasting  30- 45 minutes. 
+
+Methods:
+
+Usability testing - summative 
+Stimuli used: Patient drawer in Staging environment with mock data
+
+### Location
+Currently, all clinical research for CDSC takes place remotely over MS Teams. We do not have processes in place to conduct in-person research with clinicians and VA staff. We will update this guide as things change.
+
+- [x] **Remote**
+
+## Research materials 📔
+**For moderated interviews:** 
+	
+- [Link to conversation guide](https://confluence.devops.va.gov/display/VA/Patient+Drawer+v2+Cerner+discussion+detail)
+	
+## Recruitment 🎯	
+
+### Recruitment approach
+- Email participants 1:1 via VA email
+- Create Teams link for interviews
+- Invite team members to observe sessions as available
+
+### Recruitment criteria
+Targeting a minimum of 5 participants
+- Primary user type - LCS Coordinators currenly on Cerner EHR 
+Other Criteria
+-At least one coordinator per Cerner site. 
+
+### List the ideal completed sessions and total number and type (clinicians, VHA administrative staff, coordinators, etc.) of participants for this study:
+- `Clinicians - Cerner:` **8**
+- `Total:` **8**
+- `Ideal completed sessions:` **8**
+
+### Primary criteria (must-haves)
+*What demographics, experience, and scenarios do you need participants to meet to effectively run your study. For example, is it important to capture both inpatient and outpatient care settings? Or are you looking for a certain specialty or role such as a nurse practitionaer or physician?* 
+
+- `Cerner LCS Coordionator`
+
+
+### Length of sessions
+- `Session length: **[30-45 minutes]**
+  
+  
+## Team Roles  🕵️👩‍💻👩‍🔬
+
+> [!NOTE]
+- `Moderator:` **Ayangbe Mannen**	
+- `Research guide writing and task development (usually but not always same as moderator):`  **Ayangbe Mannen**			
+- `Participant recruiting & screening:`	 **Ayangbe Mannen**		
+- `Project point of contact:`  **Ayangbe Mannen**			
+
+### Notetaker and Silent Obeserver Guide
+- Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
+- If you can notetake, please do! It helps researchers a lot to see what you captured. There’s a note taking template in this Mural with screenshots. If you find it easier to write your notes or use a word doc, that's fine too! If you take running notes, please be sure to make a clear reference to the screen in question or the scenario being mentioned.
+- Write what you hear and see as much as possible. For some it can be easier to write in first person, as it is said, so that you don't need to paraphrase anything. Try to capture what they said without adding your own interpretation of what they meant. E.g. "I'm not sure about this checkbox" does not equal "Doesn't understand checkbox."
+- Share your notes back with the facilitator via Slack if taken outside of the mural. Do not include ANY PII in this chat.
+- For design testing, try to write down things that aren't said—for instance, when someone misunderstood some copy or clicked the wrong element. It helps us figure out what needs to be revisited.
+- Share a few raw impressions with the facilitator via Slack or in the notetaking document after the interview is done, if possible. It helps with synthesis!
+
+**Protecting PII**
+- It's important to protect the privacy of our VHA staff participants AND any Veterans. 
+- Do not include the participants name or other identifiers -- such as a very specific title that can be easy to identify them with in your notes. Instead, use a general role description, such as "primary care provider" and "also works in informatics"
+- In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.

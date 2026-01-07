@@ -1,0 +1,103 @@
+---
+title: "Conversation Guide for LCS Team, CPRS v2, October 2025""
+
+author: "Ben Peterson" 
+date_created: "2025-12-30" 
+last_modified: "2025-12-30" 
+
+tags: 
+- "Lung Cancer Screening" 
+- "Usability Testing" 
+- "CPRS" 
+
+description: "A Conversation guide for research sessions including logistics, intro script, task outlines, and consent steps.""
+---
+# Conversation Guide for LCS CPRS Usability Testing
+
+## Moderator logistics 📋✅
+### 2-3 days before the session
+
+`List and complete any project-specific setup tasks for this study below:`
+
+- [x] Email participants 1:1 via VA email or Message participants via Teams chat 
+- [x] Create Teams link for interviews 
+- [x] Invite team members to observe sessions as available 
+
+### Notetaker and Silent Obeserver Guide
+- Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
+- If you can notetake, please do! It helps researchers a lot to see what you captured. There’s a note taking template in this Mural with screenshots. If you find it easier to write your notes or use a word doc, that's fine too! If you take running notes, please be sure to make a clear reference to the screen in question or the scenario being mentioned.
+- Write what you hear and see as much as possible. For some it can be easier to write in first person, as it is said, so that you don't need to paraphrase anything. Try to capture what they said without adding your own interpretation of what they meant. E.g. "I'm not sure about this checkbox" does not equal "Doesn't understand checkbox."
+- Share your notes back with the facilitator via Slack if taken outside of the mural. Do not include ANY PII in this chat.
+- For design testing, try to write down things that aren't said—for instance, when someone misunderstood some copy or clicked the wrong element. It helps us figure out what needs to be revisited.
+- Share a few raw impressions with the facilitator via Slack or in the notetaking document after the interview is done, if possible. It helps with synthesis!
+
+**Protecting PII**
+- It's important to protect the privacy of our VHA staff participants AND any Veterans. 
+- Do not include the participants name or other identifiers -- such as a very specific title that can be easy to identify them with in your notes. Instead, use a general role description, such as "primary care provider" and "also works in informatics"
+- In the event a participant needs to share their screen or a tool with an actual patient (since test patients don't always work to show how the tool functions), stop the recording before they share. DO NOT RECORD THE PARTICIPANT'S SCREEN IF THEY ARE SHOWING A REAL PATIENT.
+
+
+### Starting the session
+
+#### Introduction and Consent (5 min)
+Thanks so much for taking the time to speak with us today. My name is Ben and these are my colleague ____. I will be the main person talking with you today. ____ is here to learn more and take notes. 
+
+As I mentioned in my emails  we are part of the Lung Cancer Screening Platform team and are exploring how a new tool may aid your experience managing and tracking patients in the Lung Cancer Screening process. 
+
+Before we begin, I’d like to establish a few ground rules for our conversation:
+
+Our conversation should take about 30 minutes. Is that still okay? I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic. 
+Everything you share is confidential and any quotes we share will be anonymized and not personally attributed to you. You also have the right to revoke permission to use your quotes at any time, even after our session today. 
+We can pause or stop the call if you need to at any point.
+Do you have any questions so far?
+
+If it’s ok with you, we would like to record this conversation? This is so we don’t miss anything in our notes. The recording will only be used by members of our team and as mentioned before any information shared outside our immediate team will be anonymized in the form of unattributed quotes.
+Please let me know if you consent to recording our session?
+Is it ok for us to start recording this conversation?
+ 
+[Start recording.}
+
+### Warmup (5-10min)
+#### Overview
+I’d like to start by asking a few background questions about your work.
+
+- How do you describe your work to friends or family?
+- What is most important to you about your work managing Lung Cancer Screening? 
+- Reflecting back to when you started, what would you tell your past self about LCS that you wish you knew when you started?
+
+#### LCS Process
+- When does tracking LCS patients happen in your week? How does it fit into your day?
+- What information do you use to make decisions or manage patients?
+- Where do you go to for that? (tools, people, etc)
+- How do you move between different ways of documenting and tracking patients?
+- What’s working well for you? What’s working less well?
+- What would make it easier for you to do your work? 
+- Is anything confusing about the way the LCS process works?
+
+### LCS & V1(5-10 min)
+Now I'll ask you share your screen and go to your PowerBI reports. 
+
+#### Prioritization
+Please go to the test patient data and go to the report you use most often.
+
+- (as data loads) what are you thinking about when the data loads, what would change about your work if the data had a shorter load time). 
+- Pretend you were going about your normal work and talk out loud about what you are doing and why. 
+- (if that prompt doesn't lead to a discussion ask the following)
+- What do you do with the information in that report? How does it help your work?
+- (as time allows) please navigate to the the report you use the second most. (repeat line of questioning above).
+
+#### Data lag
+How does the 24hr data delay impact your work?
+How might a 18 hour or 48 hour delay impact your work differently?
+(Note from previous research that lags in data create an impression that patients are overdue when they are not.)
+How else would you want to organize the patient data? How would that impact your work?
+
+#### Magic wand
+What workarounds do you have to make the tools better support you preferred workflow?
+If you had a magic wand and could change one thing to make your work easier what would that be? 
+
+### Closing (5 min)
+- Is there anything we didn’t talk about that you think we should know?
+- Do you have any questions that came up while using the tool or anything you’d like us to know about the LCS process?
+
+Thanks again for your time! If something comes up that you’d like to share in the future please feel free to email me. Have a good rest of your day!
