@@ -166,7 +166,7 @@ def main():
 
     if is_placeholder(frontmatter.get('methodology')):
         frontmatter['methodology'] = methodology if methodology else ["[TODO:  Add methodology]"]
-        report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:. 2f})" + (" – review needed" if meth_conf < 0.8 else ""))
+        report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:.2f})" + (" – review needed" if meth_conf < 0.8 else ""))
     else: 
         report_lines.append(f"**methodology**: (kept existing value)")
 
