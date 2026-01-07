@@ -148,18 +148,21 @@ When required medication details were missing, participants paused and questione
 
 ---
 
-### Insight 5: Confirmation cues were not consistently noticed
+### Insight 5: Confirmation cues were generally noticed, but did not fully resolve uncertainty
 
-**Veterans did not always notice confirmation cues and sometimes sought reassurance elsewhere.**
+**Most Veterans noticed the success alert, but some still sought additional reassurance or inferred next steps based on past experience.**
 
-- **9 of 12 participants** noticed the success alert
-- **3 participants** sought confirmation elsewhere
+**9 of 12 participants** noticed the success alert and recognized it as confirmation that their request was sent.
 
 “It says Message sent.”  
-“I went to messages to confirm it was sent.” (P1)  
 “Just knowing whether the message went through.” (P12)
 
-Participants inferred next steps based on past experience.
+**3 participants** sought confirmation elsewhere, such as navigating to Secure Messaging to verify the message had been sent.
+
+“I went to messages to confirm it was sent.” (P1)
+
+Even when confirmation cues were noticed, participants often relied on prior experience to infer what would happen next.
 
 “Once the doc approves it, it should appear as in progress.”  
 “It will take up to three days for the status to change.”
+
