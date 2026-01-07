@@ -113,7 +113,7 @@ jobs:
         run: |
           echo "Running NLP script to auto-populate frontmatter fields..."
           python .github/scripts/update_research_plan_frontmatter.py \
-            --file-paths "$FILE_PATHS" \
+            --file-path "$FILE_PATHS" \
             --labels-file "$LABELS_FILE" \
             --template-path "platform/research/research-plan-template.md" \
             --report-path "frontmatter_report. md"
