@@ -310,7 +310,7 @@ Redis list size is **not a concern**:
 The key constraint is ensuring the job can process all incoming events within the 10-minute window:
 
 | Parameter | Recommended |
-|-----------|--------------|-------------|
+|-----------|--------------|
 | batch_size | 1,000 |
 | max_iterations |150 | 10,000 | **150,000** |
 | Handles 74k peak? |✅ Yes (~100% headroom) |
