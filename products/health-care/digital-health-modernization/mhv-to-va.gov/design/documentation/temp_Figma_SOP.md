@@ -50,12 +50,7 @@ Any specific-to-tool repeatable design elements that you are using in designs.
 
 ## All MHV tool teams:
 
-### Keep Figma docs up to date to always have a "source of truth" that can be referred to in place of prod
-- Depending on how teams want to organize their files, the source of truth can live across multiple different files, but if a stakeholder or another designer needs to view all tool-specific alerts that could come up on a page, that "source of truth" work is ideally prepared for this type of ask
-- Both mobile versions and desktop versions should be available
-- Some tool teams have created a single page in a Figma file to be that source of truth and have componentized their designs so alerts and other elements can be turned on and off using Figma variables. Other teams have created a source of truth file that contains no designs besides mock-ups of what is in prod
-
-#### Why do this?
+### Why keep a source of truth (copy of what is in prod) in a Figma file?
 - Implementation errors in which the design in prod does not match source of truth are more quickly identified and addressed
 - When we're trying to standardize design elements and/or content across the portal, having documented everything that shows up in a tool makes this much quicker and easier
 - Staging users with specific attributes that are needed to access certain designs in prod can be non-existant or hard to find. Also, staging could be down at a time when this information is needed
