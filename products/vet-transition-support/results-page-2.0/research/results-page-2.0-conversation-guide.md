@@ -48,7 +48,7 @@ Before we start, I have a few things that I want to go over with you:
         > [!TIP]
         > * Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
         > * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-* *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+**You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
     * **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
         <mark>**[Record answer here]**</mark>
@@ -84,7 +84,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ### Task 1: Use Discover Your Benefits Tool - Questionnaire (2 minutes)
 
-* [ ] Complete questionnaire
+* [ ] Complete questionnaire in Codespaces using prototype with radio buttons
 
 > [!NOTE]
 > **Things to watch for:**
@@ -92,10 +92,12 @@ Before we start, I have a few things that I want to go over with you:
     * Ask directly about content while on this question (or at least before they get to the results page)
 > * Observation of process - Is it intuitive? Fast? Do they hesitate on any questions?
 
-### Task 1: Use Discover Your Benefits Tool - Results Page (15 minutes)
+### Task 2: Use Discover Your Benefits Tool - Results Page prototype with radio buttons (15 minutes)
 Shown via Codespaces
-
-* **Sorting (task)**
+   * Are they seeing the options?
+       * Are they interacting with them?
+       * Do we have the right default sort - are they expecting something different?
+* **Sorting with radio button prototype (task)**
     * New options
        * Are they seeing the options?
        * Are they interacting with them?
@@ -107,7 +109,7 @@ Shown via Codespaces
 * **Are they able to make the connection between the filters and the content on the cards (especially the before/after separation filter).**
     * Is there enough meta-content, or too much?
     * Is there anything missing?
-    * Radio button component (task)
+    * Interact with radio button component (task)
     * Recommended vs all benefits (task)
     * Is there anything that isn't clear?
 * **Cards (task)**
@@ -122,25 +124,25 @@ Shown via Codespaces
     * Will we see the same patterns with goals not mapping to benefits explored
     * Will benefits explored change with the new results page
 
-### Task 2 (15 minutes)
+### Task 3: Results Page prototype with check boxes (15 minutes)
 
-* Show second prototype 
+* Show second prototype with checkboxes 
 * Same observations as first prototype
 
 * **Sorting (task)**
     * New options
-    * Are they seeing?
-    * Are they interacting?
-    * Do we have the right default sort?
-    * Is the label "most time-sensitive" clear?
+     * Are they seeing the options?
+       * Are they interacting with them?
+       * Do we have the right default sort - are they expecting something different?
+       * Is the label "most time-sensitive" clear?
 * **How are users interacting with the new filters (task)**
     * Do they see them (vs last time)
     * Are the categories intuitive
 * **Are they able to make the connection between the filters and the content on the cards (especially the before/after separation filter).**
-    * Are they necessary
+    * Are they necessary?
     * Anything missing?
-    * Radio button component (task)
-    * Recommended vs all benefits (task)
+    * Checkbox component (essestial to task)
+    * Recommended vs all benefits (essential to task)
     * Clear?
 * **Cards (task)**
     * How does changing filters affect how they’re interacting with cards
