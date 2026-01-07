@@ -138,11 +138,25 @@ jobs:
           done
 
       - name: Commit changes
-        run: |
+        env:
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+        run:  |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b research-plan-frontmatter-update-${{ github.run_id }}
-          git add ${{ github.event.inputs.file_paths }}
+          
+          # Add each file individually with proper quoting for paths with spaces
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)  # Trim whitespace
+            if [ -f "$file" ]; then
+              git add "$file"
+              echo "Added:  $file"
+            else
+              echo "Warning: File not found - $file"
+            fi
+          done
+          
           git add frontmatter_report.md || true
           git commit -m "Add and auto-populate frontmatter to research plans"
           git push origin research-plan-frontmatter-update-${{ github.run_id }}
