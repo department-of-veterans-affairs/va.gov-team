@@ -229,7 +229,8 @@ Please fill out this form to request your own military records, but I want you t
 ## Task 4: Take a break in filling out form (after enter phone number, before email address) 
 Let's say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
 
-- [leave open in browser / close browser / Finish later button / Sign out __________________]
+- [leave open in browser / close browser / Finish later button / Sign out 
+  - *(if p  says they want to Sign out, record that and ask them to* not *do it; if they do and leave the codespace, ask them to use the **Back** button in browser)* __________________]
 
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
