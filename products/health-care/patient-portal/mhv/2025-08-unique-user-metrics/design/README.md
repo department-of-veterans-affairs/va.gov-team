@@ -325,6 +325,8 @@ The key constraint is ensuring the job can process all incoming events within th
 | Estimated job duration | ~3-5 seconds |
 | Postgres insert_all @ 1000 records | ~20-50ms |
 
+Note that, due to deduplication before the database check, that the insert_all is expected to be significantly less than 1000 records.
+
 #### Database Performance
 
 `insert_all` with 1,000 records remains very fast because:
