@@ -34,4 +34,6 @@ The OTP flow leverages the existing Redis cache in `vets-api`, allowing the syst
 
 ## Notes
 
-This decision aligns the authentication approach with VASS’s actual data persistence needs while minimizing unnecessary infrastructure reuse.
+August 22 - Met with Adrian Rollett over zoom to discuss possible solutions where a OTP(OTC) flow was proposed as an alternative to using LoROTA.
+
+Some slack discussion around pitfalls of lorota and answers for other team members: https://dsva.slack.com/archives/C06RMRJCLHH/p1755806986474159
