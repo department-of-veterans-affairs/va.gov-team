@@ -213,7 +213,9 @@ Please share any **thoughts, reactions, or questions** you have about the curren
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
 
-## Task 3: Fill out form [never reload the page]
+## Task 3: Fill out form 
+*[never reload the page; use **Back** button in browser if ever see a spinning cursor]*
+
 Please fill out this form to request your own military records, but I want you to make up fake details so you don't share your personal information with me. 
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
@@ -229,8 +231,8 @@ Please fill out this form to request your own military records, but I want you t
 ## Task 4: Take a break in filling out form (after enter phone number, before email address) 
 Let's say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
 
-- [leave open in browser / close browser / Finish later button / Sign out 
-  - *(if p  says they want to Sign out, record that and ask them to* not *do it; if they do and see a spinning cursor, ask them to use the **Back** button in browser)* __________________]
+- [leave open in browser / close browser / Finish later button / Sign out / __________________]
+
 
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
@@ -250,7 +252,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 
 - [If they're not on the unauth VA.gov home page, ask them click on the **Hat** button]
 - [Record how resume form:]
-  - Sign in --> My VA (Mittens) --> form card --> Continue your request
+  - Sign in --> My VA --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Umbrella) --> Sign in --> auth form intro --> Continue your request
 
   - [If needed: **Unauth intro (Umbrella) / Auth intro (Apron) / My VA (Mittens)**]
