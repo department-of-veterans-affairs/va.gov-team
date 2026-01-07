@@ -5,7 +5,7 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 1/08/2026
 * Next Build QA
-    * Expectations around testing Drupal functionality during different QA phases? [Slack thread](https://dsva.slack.com/archives/C01SR56755H/p1767659089629849)
+    * Next Build environments on Tugboats don't reference the content on that Tugboat ([slack](https://dsva.slack.com/archives/C01SR56755H/p1767737279782409)) 
     * 
 
 12/11/2025
