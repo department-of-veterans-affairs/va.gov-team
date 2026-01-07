@@ -192,7 +192,7 @@ graph TB
         API -->|Return response<br/>immediately| Frontend
     end
     
-    subgraph "Background Processing (Asynchronous - Every 60s)"
+    subgraph "Background Processing (Asynchronous - Every 10 mins)"
         Job[Sidekiq Job<br/>UniqueUserMetricsProcessorJob]
         Redis[(Redis Cache)]
         Database[(PostgreSQL)]
@@ -220,7 +220,7 @@ sequenceDiagram
     participant Frontend as Frontend<br/>Mobile/web
     participant API as vets-api<br/>Controller
     participant RedisBuffer as Redis List<br/>uum:pending_events
-    participant Job as Sidekiq Job<br/>(Every 60s)
+    participant Job as Sidekiq Job<br/>(Every 10 mins)
     participant RedisCache as Redis Cache<br/>unique_user_metrics
     participant Database as PostgreSQL
     participant DataDog
@@ -239,7 +239,7 @@ sequenceDiagram
     
     API-->>Frontend: API response (immediate return)
     
-    Note over Job,DataDog: BACKGROUND PROCESSING (Every 60 seconds)
+    Note over Job,DataDog: BACKGROUND PROCESSING (Every 10 mins)
     Job->>RedisBuffer: RPOP 500 events (batch)
     RedisBuffer-->>Job: Array of event payloads
     
@@ -294,6 +294,47 @@ unique_user_metrics:
 - **max_queue_depth** (default: 10,000): Alert threshold for buffer backup detection.
 - **Job frequency**: Fixed at every 10 minutes via Sidekiq Enterprise periodic jobs (hardcoded in `lib/periodic_jobs.rb`)
 
+### Configuration Sizing Analysis
+
+Based on production metrics, we observed a **maximum of 74,000 events in a 10-minute window** at peak times (before deduplication).
+
+#### Redis List Capacity
+
+Redis list size is **not a concern**:
+- 74k events × ~150 bytes each = ~11 MB
+- Redis lists handle millions of items easily
+- Memory footprint is trivial
+
+#### Processing Capacity Calculation
+
+The key constraint is ensuring the job can process all incoming events within the 10-minute window:
+
+| Parameter | Recommended |
+|-----------|--------------|-------------|
+| batch_size | 1,000 |
+| max_iterations |150 | 10,000 | **150,000** |
+| Handles 74k peak? |✅ Yes (~100% headroom) |
+
+**Why these values:**
+
+| Metric | Value |
+|--------|-------|
+| Capacity per run | 150,000 events |
+| Peak load | 74,000 events (74% capacity) |
+| Iterations at peak | ~74 |
+| Estimated job duration | ~3-5 seconds |
+| Postgres insert_all @ 1000 records | ~20-50ms |
+
+#### Database Performance
+
+`insert_all` with 1,000 records remains very fast because:
+- Single round-trip to Postgres
+- Bulk insert is O(n) not O(n²)
+- `unique_by` constraint handles duplicates server-side
+- No ActiveRecord object instantiation overhead
+
+**Note:** If sustained traffic exceeds capacity, the `max_queue_depth` alert fires, signaling the need to increase `batch_size` or `max_iterations` via AWS Parameter Store.
+
 ### Implementation Components
 
 #### 1. Redis List Buffer (`lib/unique_user_events/buffer.rb`)
@@ -307,7 +348,7 @@ unique_user_metrics:
 #### 2. Sidekiq Processor Job (`app/sidekiq/mhv/unique_user_metrics_processor_job.rb`)
 
 **Responsibilities:**
-- Run every 60 seconds via Sidekiq Enterprise periodic jobs
+- Run every 10 mins via Sidekiq Enterprise periodic jobs
 - **Loop until queue is empty** (with configurable safeguards)
 - Pop batch of events from Redis list per iteration
 - Deduplicate within batch (in-memory)
