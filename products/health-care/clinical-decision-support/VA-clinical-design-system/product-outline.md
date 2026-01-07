@@ -26,12 +26,12 @@ VACDS create efficiencies for developers and a unified experience across apps fo
 #### Team Members
 
  - VA Product Owner: Amanda Klausmeier
- - Product Manager: n/a
+ - Product Manager: Nitheesha Karnati
  - Design/Research: Kira Davies
- - Engineering: John Hutchinson
- - Accessibility: n/a
+ - Engineering: Helene McCarron, SangMee Specht
+ - Accessibility engineer: Alex Mendoza
 
 #### Stakeholders
 
 - Office/Department: Clinical Decision Support Collaborative (CDSC), OCTO/VA Design System
-- Stakeholders: Peter Koutsovitis and Shane Elliot (CDSC Product owners), Matt Dingee (VADS), Kevin Hoffman (VADS)
+- Stakeholders: Peter Koutsovitis and Shane Elliot (CDSC Product owners), Matt Dingee (VADS), USWDS
