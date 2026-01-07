@@ -89,13 +89,13 @@ To be established using current CHAMPVA operational data.
 ## Solution Approach
 This initiative will explore and potentially implement one or more complementary approaches to early eligibility guidance.
 
-### 1. Content / UI / Branching Logic (Phase 1)
+### 1. Content / UI / Branching Logic
 - Add clear, plain-language explanations of the difference between CHAMPVA and Tricare.
 - Introduce early questions that strongly correlate with Tricare eligibility.
 - Use branching logic to guide users to informational content when Tricare eligibility is likely.
 - Ensure messaging is supportive, non-blocking, and policy-compliant.
 
-### 2. Soft Eligibility Check via DoD API (Discovery / Phase 2)
+### 2. Soft Eligibility Check via DoD API
 - Investigate feasibility of using the Eligibility and Demographics Service (EDS) backed by DEERS.
 - Explore available inquiry types (Person, Family, Family Member) and relevant business contexts (Eligibility / EligibilityLite).
 - Assess:
@@ -108,7 +108,6 @@ This initiative will explore and potentially implement one or more complementary
 ---
 
 ## Launch Strategy
-- Phased rollout beginning with content and branching logic.
 - Internal reviews with Design Sync and CHAMPVA stakeholders.
 - Open C/IA ticket if technical integration is pursued.
 - Monitor early metrics closely and iterate based on findings.
