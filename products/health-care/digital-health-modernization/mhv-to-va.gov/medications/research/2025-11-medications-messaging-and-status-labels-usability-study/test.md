@@ -83,7 +83,7 @@ For these participants, discovery occurred **within the Medications list**, with
 When the renewal link was not immediately visible or recognized, participants commonly:
 
 - Used the **Start a refill request** CTA
-- Navigated directly to the **Secure Messaging** tool to send a message outside of the renewal flow
+- Navigated directly to the **Secure messaging** tool to send a message outside of the renewal flow
 - Looked for a **phone number to call**
 - Scrolled the page without recognizing the renewal link as an available action
 
@@ -107,7 +107,7 @@ Participants often relied on medication type to infer the correct care team.
 
 #### Modal supported a clear transition to Secure messaging
 
-**The modal effectively communicated a transition to Secure Messaging and did not prevent participants from continuing the flow.**
+**The modal effectively communicated a transition to Secure messaging and did not prevent participants from continuing the flow.**
 
 Most participants interpreted the modal as informational and proceeded without hesitation.
 
@@ -145,7 +145,6 @@ When required medication details were missing, participants paused and questione
 “There’s nothing to be sent.” (P1)  
 “You don’t know the medication unless you have it with you.” (P2)
 
-
 ---
 
 ### Insight 5: Confirmation cues were generally noticed and increased confidence, but did not fully resolve uncertainty
@@ -162,7 +161,7 @@ Several participants described visible confirmation cues—such as the green *�
 “Seems very intuitive and very basic.”  
 “When it says message sent, it went… 99% of the time.”
 
-**3 participants** sought confirmation elsewhere, such as navigating to Secure Messaging to verify the message had been sent.
+**3 participants** sought confirmation elsewhere, such as navigating to **Secure messaging** to verify the message had been sent.
 
 “I went to messages to confirm it was sent.” (P1)
 
@@ -171,5 +170,27 @@ Even when confirmation cues were noticed, participants often relied on prior exp
 “Once the doc approves it, it should appear as in progress.”  
 “It will take up to three days for the status to change.”
 
+---
 
+## Recommendations
 
+### Make renewal actions easier to notice in the Medications experience
+Explore ways to help Veterans more easily recognize when a renewal is the appropriate next step—particularly when refill options are unavailable—so they don’t need to rely on trial and error or familiar workarounds to move forward.
+
+### Clarify where renewal requests are routed
+Consider providing clearer cues about who will receive a renewal request to help Veterans feel confident that their message is reaching the appropriate provider or care team.
+
+### Continue leveraging prefilled medication details to reduce effort
+Maintain and build on the use of prefilled medication and provider details in renewal messages, as automation consistently supported confidence and reduced effort during the renewal process.
+
+### Set clearer expectations when additional information may be required
+Explore opportunities to signal earlier in the flow when a renewal may require additional information, so Veterans can anticipate what’s needed and avoid hesitation later.
+
+### Provide clearer guidance after submitting a renewal request
+Consider adding lightweight, reassuring guidance after a renewal request is sent to help Veterans understand what typically happens next—such as whether a response is expected, how long it may take, what actions (if any) they need to take, and how prescription status updates may or may not change.
+
+### Reduce cognitive load from inactive and historical medications
+Explore ways to better organize or de-emphasize inactive and historical medications so Veterans can more easily focus on prescriptions that are current or actionable.
+
+### Clarify refill versus renewal at the point of action
+Provide clearer, in-context distinctions between refill and renewal actions at key decision points, helping Veterans choose the appropriate path without needing to rely on prior knowledge or assumptions.
