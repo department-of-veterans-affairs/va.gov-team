@@ -23,6 +23,8 @@
 - [ ] **SPRINT GOAL** [#125472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125472) - [FE] Update FE Schema (refer to EZ)
 
 
+- [ ] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Revisit previous research on CYOA for EZ
+
 ##
 ### 10-10EZ
 #### No scheduled work this sprint
