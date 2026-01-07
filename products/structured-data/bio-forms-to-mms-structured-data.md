@@ -1,5 +1,4 @@
 # BIO-to-MMS Structured Data Connection
-<br>
 ## Purpose
 To send structured form data from vets-api (VA.gov) to the GovCIO external endpoint, the Platform requires that outbound traffic route through the fwdproxy, which manages secure egress and mTLS connections.
 <br>
@@ -7,13 +6,12 @@ To send structured form data from vets-api (VA.gov) to the GovCIO external endpo
 The fwdproxy acts as the outbound gateway for vets-api when calling external services and responsible for:
 * Performing mutual TLS (mTLS) authentication
 * Managing outbound routing to approved external hosts
-# Certificates in SSM Parameter Store
+## Certificates in SSM Parameter Store
 GovCIO requires mTLS for their API endpoint (dev-api.digitization.gcio.com). To support this, the VA Platform stores the client certificate and private key in AWS SSM Parameter Store.
 For DEV, the parameters we created were:
 * /dsva-vagov/vets-api/dev/tls/bio/dev-api.digitization.gcio.com.crt
 * /dsva-vagov/vets-api/dev/tls/bio/dev-api.digitization.gcio.com.key
 These should allow the fwdproxy deployment in DEV to retrieve and install the correct certificate bundle when connecting to GovCIO.
-<br>
 ## fwdproxy Deployment Config
 Once the certificates are in SSM:
 * A combined PEM file is generated for mTLS
@@ -23,14 +21,12 @@ The PR includes:
 * A new fwdproxy task that installs the mTLS bundle
 * A new service definition that vets-api will reference when calling the GovCIO endpoint
 PR: https://github.com/department-of-veterans-affairs/vsp-platform-fwdproxy/pull/816
-<br>
 ## Resulting Data Flow (High-Level)
 1. vets-api sends form data to GovCIO (via fwdproxy)
 2. fwdproxy receives the outbound request
 3. fwdproxy attaches the correct mTLS certificate bundle
 4. The request is forwarded to GovCIO’s API endpoint
 5. GovCIO verifies the client certificate and processes the request
-<br>
 ## Environment Mapping
 1. dev
     1. corpDB - WebTest
