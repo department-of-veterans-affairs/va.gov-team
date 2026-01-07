@@ -12,7 +12,7 @@
 **10-15 min before each session**: 
 - **START the Codespace**:
 
-  1. Open the stop/start URL in github
+  1. Open the stop/start URL in github: https://github.com/department-of-veterans-affairs/vets-website/tree/co-110525-adding-interstitial-page 
   1. Click on green "<> Code" button
   1. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-legendary-yodel)
   1. Select "Open in browser".
@@ -307,7 +307,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Download notes
 - Debrief to my spreadsheet
 - **STOP the Codespace**:
-  1. Open the stop/start URL in github
+  1. Open the stop/start URL in github: https://github.com/department-of-veterans-affairs/vets-website/tree/co-110525-adding-interstitial-page
   1. Click on green "<> Code" button
   1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-legendary-yodel)
   1. Click on the ellipsis (...) next to your codespace 
