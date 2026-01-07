@@ -195,7 +195,7 @@ The product Codespaces and conversation guide are currently ready.
 
 ### Research Sessions
 
-* **Planned dates of research:** **Jan 12-21**
+* **Planned dates of research:** **Jan 12-23**
 
 ### Session Logistics
 
