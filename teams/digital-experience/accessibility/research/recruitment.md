@@ -73,9 +73,11 @@ If relevant to your study, you may also want to include
 - Caregivers of Veterans
 - Veteran Service Officers (VSOs)
 
-When planning your study, to figure out **how many people from various categories to recruit**, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
+When planning your study, to figure out **how many people from various categories to recruit**, use the [VA recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/accessibility/research/RecruitmentCheckerSpreadsheet.xlsx). Enter the total number of people you plan to recruit, and the tool suggests target numbers for the recruitment criteria in your research plan.
 
-After your study, use the [VA recruitment checker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to tally and **share how many participants you talked to from each of the underserved groups**. Take a screenshot of the resulting table and use Github Copilot to generate an accessible version for your research findings report. 
+You will need to download your own copy of the [VA recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/accessibility/research/RecruitmentCheckerSpreadsheet.xlsx) (an Excel spreadsheet) and use the tool locally on your own computer.
+
+After your study, use the [VA recruitment checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/accessibility/research/RecruitmentCheckerSpreadsheet.xlsx) to tally and **share how many participants you talked to from each of the underserved groups**. Take a screenshot of the resulting table and use Github Copilot to generate an accessible version for your research findings report. 
 
 <img width="600" alt="Screen Shot of the VA recruitment checker spreadsheet filled out for a study with 11 research participants that shows the representation of each underserved group" src="https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/teams/digital-experience/accessibility/images/recruitment-checker.png">
 
