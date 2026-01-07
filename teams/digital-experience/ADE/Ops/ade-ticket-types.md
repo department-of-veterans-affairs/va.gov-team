@@ -42,7 +42,7 @@ Please fill all fields in the GitHub ticket (originator team, closed date, sprin
 | **VFS Template** | Description/When to use | Title Format (Suggested) |   
 |------------------|------------------|-------------------------------------|  
 | [Accessibility Digital Experience (ADE) Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) | Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team | \[ADE Intake\]:\[Team Name\]\[Product\] |  
-| [Research Support Ticket (ADE)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) | Request support for user research with Veterans who are using assistive technology (AT)	|\[ADE Research\]:\[Team Name\]\[Product\]\[Researching\](Month Year of Research) | 
+
 
 ## ADE Work Ticket  
 These are sub-issues/child tickets created by ADE.
