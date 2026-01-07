@@ -2,11 +2,10 @@
 
 ## ADE Intake Requests
 
-This is [the intake tickets through which VFS teams request ADE support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md). The intake may be created by a VFS team or by a member of ADE on behalf of VFS teams. This intake ticket is the parent and will contain all the work relating to this request.
+This is [the intake ticket through which VFS teams request ADE support](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md). The intake may be created by a VFS team or by a member of ADE on behalf of VFS teams. This intake ticket is the parent and will contain all the work relating to this request.
 
 * During refinement ADE will create/attach child tickets to capture individual support tasks needed. This is typically done by Delivery Lead or Team Lead.   
 * ADE SMEs will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
-
 
   
 ### Child Ticket Creation Workflow for ADE Research 
@@ -20,7 +19,7 @@ The child ticket creation workflow for issues found during pilots and research s
 3\. Generate Tickets: If any issues were found, create connected child tickets using the ADE [Research Feedback template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md)
 * Ensure that this child has the label ADE Research Feedback, by default.
 
-4\. Close Tickets: Close the child tickets after connecting them to the research intake.  
+4\. Close Tickets: Close the child tickets after connecting them to the intake.  
 Please fill all fields in the GitHub ticket (originator team, closed date, sprint, etc) before closing. Ref. Closing Tickets Section  
 5\. Track Closed Tickets: Ensure all the tickets you closed and all of the ticket’s relevant information are entered into the closed tickets tracker in the sheet for the appropriate sprint.
 
@@ -42,9 +41,9 @@ These are sub-issues/child tickets created by ADE.
 
 | **Internal Template** | Description/When to use | Title Format (Suggested) |   
 |------------------|------------------|-------------------------------------|  
-| [ADE Research Child Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) | Template for ADE Research Child Tickets \- based on the work requested in the research intake ticket. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research]:[Team Name][Product][Researching] - [Type of Support Requested]   |  
+| [ADE Research Child Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) | Template for ADE Research Child Tickets \- based on the work requested in the intake ticket. These will be created as sub-issues, under the parent intake ticket. | [ADE Research]:[Team Name][Product][Researching] - [Type of Support Requested]   |  
 | [ADE Pilot Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-Research-Pilot-Ticket.md) | Template for pilots conducted prior to research, created based on requests made to ADE. | [ADE Research - Pilot]:[Team Name][Product][Researching]- [Device Type](Month Year of Research) |  
-| [ADE Research Accessibility Feedback Issue Quantification Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) |Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research - Feedback] - [Team Name]: [Study] (Type of accessibility issue encountered) |  
+| [ADE Research Accessibility Feedback Issue Quantification Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) |Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent intake ticket. | [ADE Research - Feedback] - [Team Name]: [Study] (Type of accessibility issue encountered) |  
 | [ADE Accessibility Short Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-Short-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket outside the intake process such as a child ticket or an internal ADE work ticket. | [ADE Support]:[Team][Product][Requesting]   
 | [ADE 508 Accessibility Audit Support Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-508-Audit-Support-Ticket.md) | Template for ADE members to utilize, when needing to create a 508 Audit Support Ticket as either a primary parent intake ticket c/o email report received by Martha, or as a child ticket aka sub-issue. | **Parent Ticket:** [ADE 508 Audit]: `TEAM NAME`: `PRODUCT AUDITED`: 508 Audit Report Findings Support <br> <br> **Child ticket (sub-issue)** [ADE Support]: `TEAM NAME\`: `PRODUCT AUDITED`: 508 Audit Report Findings -`Name of Specific Finding` Issue |   
 | [ADE CC Work Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-CC-Work-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or a parent/epic for work being done to support the CC. | [ADE CC]:[Team][Product][Requesting][Stage] |   
