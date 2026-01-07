@@ -183,26 +183,23 @@ Perigean will recruit and schedule **12 qualified participants** for each group 
 
 ## Timeline 🗓️
 
-### Optional Kick-off Call with Perigean
-
-* **Suggested dates and times:** **X**
 
 ### Prepare
 
-The product in staging and conversation guide are currently ready.
+The product Codespaces and conversation guide are currently ready.
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.**
 
-* **Pilot participant name:** **X**
-* **Date and time of pilot session:** **X**
+* **Pilot participant name:** **Raquel Eadie**
+* **Date and time of pilot session:** **Friday, Jan 9 2:00-2:45**
 
 ### Research Sessions
 
-* **Planned dates of research:** **TBD**
+* **Planned dates of research:** **Jan 12-21**
 
 ### Session Logistics
 
-* **Session length:** 1 hour
+* **Session length:** 45 minutes
 * **Buffer time between sessions:** 30 minutes
 * **Maximum Sessions per day:** 3
 
@@ -210,9 +207,13 @@ The product in staging and conversation guide are currently ready.
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
 
-* *Example: 07/19, Friday, 12:00 PM-7:00 PM EST*
-* **[Insert Availability Here]**
-
+- `Jan 12, Mon, 11:00 AM - 5:00 PM`
+- `Jan 15, Thu, 11:00 AM - 5:00 PM`
+- `Jan 16, Fri, 11:00 AM - 5:00 PM`
+- `Jan 20, Tue, 11:00 AM - 5:00 PM`
+- `Jan 21, Wed, 11:00 AM - 5:00 PM`
+- `Jan 22, Thu, 11:00 AM - 5:00 PM`
+- `Jan 23, Fri, 11:00 AM - 5:00 PM`
 ---
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
