@@ -169,6 +169,9 @@ Are there moments that matter?
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
+The purpose of this User Acceptance Testing (UAT) study is to validate that all elements in the Overpayments functionality operate as expected for end users with real user data. Unlike usability testing, this study focuses on verifying expected behavior, not on whether users can find or discover features.
+
+
 > [!NOTE]
 > Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
