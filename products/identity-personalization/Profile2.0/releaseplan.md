@@ -32,6 +32,20 @@ We will conduct QA testing in the va.gov staging environment, and participate in
 - Staged rollout TBD.
 - Monitoring by development team, product & delivery leads.
 
+### Metrics-based criteria for staged rollout
+Profile 2.0 does not introduce new or updated backend services or API calls (with the exception of Health Care Settings, which is governed by a separate release plan). The changes in this release are limited to front-end information architecture, navigation, content, and accessibility updates.
+
+Because no backend behavior is changing, we do not expect any variance in API error rates or latency. As a result, backend performance metrics are not used as advancement criteria for this rollout.
+
+Instead, the purpose of staged rollout metrics for Profile 2.0 is to ensure that the updated information architecture and navigation do not introduce user confusion, misnavigation, or new friction compared to the existing Profile experience.
+
+Before advancing rollout to the next stage, we will review the following indicators:
+- **Veteran Support Center contact volume and logs**: Monitored for spikes or recurring themes related to Profile navigation, findability, missing information, or perceived breakage following the rollout.
+- **Qualitative Medallia feedback**: Reviewed for sustained or recurring comments indicating difficulty locating information, misunderstanding section changes, or frustration with the new Profile structure. Medallia feedback is treated as a qualitative signal and is not evaluated against fixed quantitative targets.
+- **Real User Monitoring (RUM) frustration signals**: Including rage clicks, dead clicks, and error clicks, reviewed directionally to identify potential usability or navigation regressions introduced by the new information architecture.
+
+These signals are evaluated holistically and over time. No single metric is used as a pass/fail gate. Rollout may be paused if multiple signals consistently indicate increased user friction or confusion attributable to Profile 2.0 changes.
+
 ### Rollback Plan: 
 Tech Lead, Design Lead, PM, and PO will monitor DataDog analytics. If the team notices a spike in errors, the team will disable the feature, debug, and re-release.
 
