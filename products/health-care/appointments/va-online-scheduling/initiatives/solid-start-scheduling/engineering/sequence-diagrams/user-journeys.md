@@ -1,4 +1,4 @@
-### First touch point (OTC)
+### First touch point
 
 ``` mermaid
 sequenceDiagram
