@@ -84,3 +84,11 @@ Save the file before continuing.
 1. Push the changes to the remote repository.
 1. Create a pull request to merge the changes into the main branch.
 1. If all checks pass, merge the pull request.
+
+## Automated Data Processing
+
+At this point the new data will be processed overnight at 3 AM ET by `Representatives::QueueUpdates` and `Organizations::QueueUpdates`.  Both of those jobs enqueue address validation jobs that process 30 records a minute.  Depending on the number of changed records that requires address validation, it may take several hours for all of the data to be updated.  It is typically done by 8 AM ET.
+
+### If you need the data updated sooner
+
+1. In the prod console run `Representatives::QueueUpdates.new.perform` and `Organizations::QueueUpdates.new.perform`.  Just like the overnight job, it will process 30 records a minute and it is possible it may be several hours before all of the data is updated.  If you are updating the data to check the results for a particular representative there is no good way to prioritize that record or tell when it will be validated and visible on the site.
