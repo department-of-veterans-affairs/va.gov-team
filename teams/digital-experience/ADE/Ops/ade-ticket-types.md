@@ -34,7 +34,7 @@ Please fill all fields in the GitHub ticket (originator team, closed date, sprin
 ## ADE Work Ticket  
 These are sub-issues/child tickets created by ADE.
 
-* Child tickets are created for each type of service requested in the main intake, based on the [ADE menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer).  
+* Child tickets are created for each type of service requested in the main intake, based on the [ADE menu of services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/ade-services.md).  
 * Product teams can see work tickets attached to their intake, but these work tickets are for ADE use.  
 * ADE SMEs can add notes in comments and checklists to help you track your progress and move the ticket through the status swim lanes described below.
 
