@@ -148,14 +148,19 @@ When required medication details were missing, participants paused and questione
 
 ---
 
-### Insight 5: Confirmation cues were generally noticed, but did not fully resolve uncertainty
+### Insight 5: Confirmation cues were generally noticed and increased confidence, but did not fully resolve uncertainty
 
-**Most Veterans noticed the success alert, but some still sought additional reassurance or inferred next steps that did not always align with how the system works.**
+**Automation and clear confirmation cues reassured most Veterans that their request was sent; however, some still sought additional reassurance or inferred next steps that did not always align with how the system works.**
 
 **9 of 12 participants** noticed the success alert and recognized it as confirmation that their request was sent.
 
 “It says Message sent.”  
 “Just knowing whether the message went through.” (P12)
+
+Several participants described visible confirmation cues—such as the green *“Message sent”* alert—as a clear signal that their request had gone through.
+
+“Seems very intuitive and very basic.”  
+“When it says message sent, it went… 99% of the time.”
 
 **3 participants** sought confirmation elsewhere, such as navigating to Secure Messaging to verify the message had been sent.
 
@@ -165,5 +170,6 @@ Even when confirmation cues were noticed, participants often relied on prior exp
 
 “Once the doc approves it, it should appear as in progress.”  
 “It will take up to three days for the status to change.”
+
 
 
