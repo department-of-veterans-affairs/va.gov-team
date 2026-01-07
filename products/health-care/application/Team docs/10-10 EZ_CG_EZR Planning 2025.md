@@ -22,17 +22,14 @@
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#125472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125472) - [FE] Update FE Schema (refer to EZ)
 
-
-- [ ] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Revisit previous research on CYOA for EZ
-
 ##
 ### 10-10EZ
-#### No scheduled work this sprint
+#### Obj: EZR Multi-Form MVP
+- [ ] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Revisit previous research on CYOA for EZ
 
 ## 
 ### 10-10CG
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [ ] **SPRINT GOAL** [#124105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/124105) - [UX] Service blueprint for CG
 - [ ] **SPRINT GOAL** [#128114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128114) - [Eng] Restrict facilities parameters
 
 
