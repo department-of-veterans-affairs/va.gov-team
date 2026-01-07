@@ -28,7 +28,6 @@ Here are some examples of how teams have organized the web SOT page in their fil
 <details>
   <summary>Medications SOT page sections</summary>
 <img width="495" height="615" alt="image" src="https://github.com/user-attachments/assets/96ae3ac3-c20b-4673-9ac9-db7c1a83648b" />
-/>
 </details>
 
 <details>
