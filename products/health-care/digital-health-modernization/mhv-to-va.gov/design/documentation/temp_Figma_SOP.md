@@ -16,10 +16,6 @@ All Figma SOT files should include the following pages:
 Some teams include the names of designers in the cover page. That can be a team by team decision. At a minimum, the cover page should include:
 - Team name, i.e. Messaging
 - Name of file, which should be a concise description of what the file covers, i.e. "Web source of truth" or "Triage group flows" or "Filter UI" 
-<details>
-  <summary>Example cover page</summary>
-<img width="960" height="481" alt="image" src="https://github.com/user-attachments/assets/a0c75a4b-e680-4e58-a924-b1697de85e2e" />
-</details>
 
 ### Source of truth
 Componentized documentation of what is currently in prod on both web and mobile app. This should include:
