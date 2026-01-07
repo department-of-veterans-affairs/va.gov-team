@@ -144,10 +144,8 @@ This initiative will explore and potentially implement one or more complementary
 ## Screenshots
 
 ### Before
-Current CHAMPVA application flow without early eligibility guidance.
 
 ### After
-Proposed early eligibility guidance screens and branching logic (TBD).
 
 ---
 
@@ -161,5 +159,5 @@ Proposed early eligibility guidance screens and branching logic (TBD).
 ## Team Members
 - DEPO Lead: Premal Shah
 - PM: Mike Mooney
-- Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
-- Research/Design: Rachel Pope, Jamie Fiore, Renata Keck
+- Engineering: Kyle Brost, Derrick Ellerbie, Steve Long
+- Research/Design: Renata Keck, Hieu Vo, Jessica Stump
