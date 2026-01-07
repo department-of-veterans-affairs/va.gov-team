@@ -29,9 +29,9 @@
 
 ### Background
 
-We are building a new authenticated prescription renewal request flow on VA.gov (via Secure Messaging) to reduce Veterans’ dependence on phone calls and ad hoc communication for renewals. We are also introducing a simplified set of prescription status labels across Oracle Health and VistA to replace existing VistA statuses that are frequently cited as confusing or misleading.
+We are building a new authenticated prescription renewal request flow on VA.gov (via Secure messaging) to reduce Veterans’ dependence on phone calls and ad hoc communication for renewals. We are also introducing a simplified set of prescription status labels across Oracle Health and VistA to replace existing VistA statuses that are frequently cited as confusing or misleading.
 
-This experience lives within authenticated VA.gov, specifically the Medications management and Secure Messaging experiences within My HealtheVet on VA.gov. The work builds on tools that many Veterans already use. The updated status labels and renewal flow are iterations on existing functionality, not a new product.
+This experience lives within authenticated VA.gov, specifically the Medications management and Secure messaging experiences within My Healthevet on VA.gov. The work builds on tools that many Veterans already use. The updated status labels and renewal flow are iterations on existing functionality, not a new product.
 
 ---
 
