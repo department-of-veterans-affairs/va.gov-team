@@ -1,4 +1,109 @@
 # Contact information use cases
+
+Last updated: January 2026  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-30336&t=yzNzB1imsV3uo2LL-1)
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+* [User needs to add, edit, or remove contact information (addresses, phone numbers, or contact email)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#how-to-reproduce)  
+* [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md#staging-users)  
+* [Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#how-to-reproduce)  
+* [Mailing address is flagged as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md#how-to-reproduce)
+
+</details>
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+[Edge cases](#edge-cases)
+
+[Validation](#validation)
+
+- [Mailing and Home address validations](#mailing-and-home-address-validations)
+
+- [Mobile phone validations](#mobile-phone-validations)
+
+[Flags](#flags)
+
+- [Mailing and home address flags](#mailing-and-home-address-flags)
+
+- [Profile shared flags](#profile-shared-flags)
+
+[Errors](#errors)
+
+- [Profile shared errors](#profile-shared-errors)
+
+# Overview 
+
+The **Contact information** page allows users to update their addresses, phone numbers, and contact email. All information can be removed, except Mailing address. The **Contact information** page does not store users information. Information is stored in the VA Profile API. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+# Use cases 
+
+## Shared profile editing interactions 
+
+There are several shared editing interactions that are used in profile. The linked documentation includes the following:
+
+* Adding information  
+* Inline editing and validation  
+* Save in progress  
+* Saving information: Success  
+* Saving information: Error  
+* Removing information  
+* Canceling edit changes  
+* Edit new information while editing  
+* Edit-as-a-subtask flow
+
+[Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-interactions)
+
+# Edge cases 
+
+## Validation 
+
+### Mailing and Home address validations 
+
+* [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)  
+* [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md)
+
+### Mobile phone validations 
+
+#### User enters an international phone number 
+
+* **Description:** If a user enters an international phone number in the mobile phone section they will be informed via modal that they cannot receive text notifications with an international phone number. They are not stopped from completing this task.  
+* **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32694&t=8bYeomyYEZZgmvu7-1)
+
+## Flags 
+
+### Mailing and home address flags 
+
+* [Address is marked as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
+
+### Profile shared flags 
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Profile shared errors 
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)  
+  * **Status code:** 296: Success with some external service errors. External services could be: vet360\_contact\_information (Vet360), va\_profile (MVI), veteran\_status (EMIS). [Link to pull request.](https://github.com/department-of-veterans-affairs/vets-api/pull/2738)  
+* [Section only, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#section-only-backend-system-down)
+
+
+
+---
+
+
+
+<details><summary>Archive | Contact information use cases, July 2025</summary>
+
+# Contact information use cases
 **Last updated: July 2025** Added in shared profile use cases.
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?wid=0-1749014970296&outline=open)
@@ -78,7 +183,13 @@ Secondary button: Edit the number you entered
 
 - [System error: Cannot display section information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
----
+</details>
+
+
+
+
+
+
 
 <details><summary>Archive | Contact information use cases, June 2025</summary>
 
