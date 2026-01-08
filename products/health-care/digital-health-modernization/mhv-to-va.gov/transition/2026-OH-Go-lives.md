@@ -85,7 +85,7 @@ Maintenance window alerts related to this effort could compete with other alerts
 
 
 # <a name="designs">Alert designs</a>
-
+In progress - will update later.
 
 # <a name="plan">Implementation plan</a>
 
