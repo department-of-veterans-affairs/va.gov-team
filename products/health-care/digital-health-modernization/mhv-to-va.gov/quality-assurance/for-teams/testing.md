@@ -5,7 +5,7 @@ folder, and information on other aspects of QA can be found in their respective 
 
 ## Epics and Large Bodies of Work
 This is defined as anything that will require a staging review, individual tickets that will eventually 
-be included in a staging review should still follow the smaller bodies of work rules.
+be included in a staging review should still follow the [smaller bodies of work rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/quality-assurance/for-teams/testing.md#tickets-and-small-bodies-of-work).
 
 ### Before Testing
 - Loop QA in early
