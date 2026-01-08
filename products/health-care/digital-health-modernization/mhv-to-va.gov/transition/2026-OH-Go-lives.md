@@ -72,6 +72,8 @@ In many cases this year (and in coming years), alert 1 (warning alert) for an up
 In general, alerts should always render in severity order, meaning: alert 2 (warning alert) should display hierarchically _above_ warning alerts for upcoming maintenance windows at other facilities. 
 
 ### Competing alert logic 
+SHOULD BE ADDRESSED AT TOOL TEAM LEVEL:
+
 Maintenance window alerts related to this effort could compete with other alerts in the user experience, and edge-case scenarios should be mapped out and planned so that the rendering logic is clear and repeatable for all tools. 
 
 
