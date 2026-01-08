@@ -50,7 +50,10 @@ The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which 
 |VA Alaska Healthcare System| Anchorage, AK| 20 | `VHA_463` | 
 
 # <a name="complexity">Complexity</a>
-Each go-live round will need to display 2 alerts per health tool landing page in the front-end user experience. These alerts will warn users about a loss of functionality across multiple health tools while their facilities are transitioning their EHR system. At some stages, a passive "moment in time" data capture will be visible to users, but tasks and actions will be suspended until **7 days after** the site go-live date.
+Each go-live round will need to display 2 alerts per health tool landing page in the front-end user experience. These alerts will first 1.) warn users about planned maintenance window (downtime) and 2.)notify them of active loss of functionality across multiple health tools while their facilities are transitioning their EHR systems. 
+
+At some point in the transition period (active maintenance window), "moment in time" data will be visible to users, but any healthcare touchpoints that happen during hte window will not be reflected in their record until after the maintenance window takes elapses. During the active maintenance window, all user tasks and actions will be suspended until **7 days after** the site go-live date.
+
 1. **Warning alert** - upcoming maintenance window (will render for between 15-30 days, depending on the health tool)
 2. **Error alert** - active maintenance window (active 30 days prior to go-live date until 7 days after go-live)
 
