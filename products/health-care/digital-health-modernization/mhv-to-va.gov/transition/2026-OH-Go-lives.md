@@ -50,7 +50,18 @@ The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which 
 |VA Alaska Healthcare System| Anchorage, AK| 20 | `VHA_463` | 
 
 # <a name="complexity">Complexity</a>
+Each go-live round will need to display 2 alerts per health tool landing page in the front-end user experience. These alerts will warn users about a loss of functionality across multiple health tools while their facilities are transitioning their EHR system. At some stages, a passive "moment in time" data capture will be visible to users, but tasks and actions will be suspended until **7 days after** the site go-live date.
+1. **Warning alert** - upcoming maintenance window (will render for between 15-30 days, depending on the health tool)
+2. **Error alert** - active maintenance window (active 30 days prior to go-live date until 7 days after go-live)
 
+The My HealtheVet locations where these alerts need to render include: 
+|Tool name | Web URL | Mobile app page|  
+|----------|---------|----------------|
+| My HealtheVet landing page | va.gov/my-health/| N/A | 
+| Appointments landing page | va.gov/my-health/appointments/ | Appointments page | 
+| Medications landing page | va.gov/my-health/medications/ | Prescriptions page | 
+| Messages inbox | va.gov/my-health/secure-messages/inbox/ | Messages page | 
+| Medical records landing page | va.gov/my-health/medical-records/ | Medical records page(s)?|
 
 # <a name="designs">Alert designs</a>
 
