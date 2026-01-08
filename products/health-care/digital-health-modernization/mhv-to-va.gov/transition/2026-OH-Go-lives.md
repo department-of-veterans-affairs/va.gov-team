@@ -102,10 +102,10 @@ In progress - will update later.
   * T-45 / show warning alert
   * T-30 / switch to showing error alert
   * T+?? / pull down error alert for these users; _do we need alternate alert to describe anything? Unclear in documentation_
-Messages: 
-T-45 / show warning alert
-T-30 / switch to showing error alert
-T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names may look different. even though they’ve been updated, you can still find all your old messages and reply to them; you can continue to message all providers"
+* Messages: 
+  * T-45 / show warning alert
+  * T-30 / switch to showing error alert
+  * T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names may look different. even though they’ve been updated, you can still find all your old messages and reply to them; you can continue to message all providers"
 
 ### Round 1: go-live date April 11, 2026
 
