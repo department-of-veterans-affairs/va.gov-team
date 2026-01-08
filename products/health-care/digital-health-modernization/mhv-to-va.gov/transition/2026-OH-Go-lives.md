@@ -73,8 +73,8 @@ In most cases, facilities that are being transitioned are from the same US regio
 
 This will require a _singular_ verison of the alerts and a _multiple_ version with correct verb tenses and pluralization. Horizon should work with content to consider how best to template this. 
 
-### Overlapping go-live timelines 
-In many cases this year (and in coming years), alert 1 (warning alert) for an upcoming round of go-live sites will overlap with the timeline for alert 2 (active maintenance window for earlier round of go-live sites). It is possible that many users could facilities in each of these groups and see both alerts. 
+### Users with facilities from different go-live rounds in their profile
+In some cases, alert 1 (warning alert) for an upcoming round of go-live sites will overlap with the timeline for alert 2 (active maintenance window for earlier round of go-live sites). It is possible that  users could have facilities in their profile from each of these groups and see both alerts. 
 
 In general, alerts should always render in severity order, meaning: alert 2 (warning alert) should display hierarchically _above_ warning alerts for upcoming maintenance windows at other facilities. 
 
