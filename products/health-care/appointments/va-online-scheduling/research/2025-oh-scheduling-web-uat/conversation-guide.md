@@ -114,8 +114,23 @@ Before we start, I have a few things that I want to go over with you:
 > [!NOTE]
 > ### Things to watch for:
 > - Does the participant run into any errors or dead ends?
-> - Is the participant able to schedule the appointment?
+> - Is the participant able to cancel the request? - **If not, note the request ID**
 > - What was confusing, or gave them pause?
+
+## Fifth Task: Find and access an after-visit summary - X minutes
+
+- [ ] Find an after-visit summary for one of your appointments
+- [ ] Go to Past appointments
+- [ ] Open any appointments where you'd expect to find an after-visit summary
+- [ ] View the after visit summary
+
+> [!NOTE]
+> ### Things to watch for:
+> - Does the participant run into any errors or dead ends?
+> - Is the participant able to find the AVS?
+> - Is the participant able to view the AVS?
+> - What was confusing, or gave them pause?
+
 
 # Post-Task Interview - X minutes
 

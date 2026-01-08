@@ -50,14 +50,16 @@ Are there moments that matter?</summary>
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-Test whether the basic functionality of the tool works on production for trusted users, and identify any issues that arise. 
+Test whether the basic functionality of OH scheduling and AVS works on production for trusted users, and identify any issues that arise. 
 
 
 ### Goals
 
 `1.` **Test Oracle Health scheduling functionality, and report any issues with the feature.**
 
-`2.` **(Stretch Goal) Better understand a user's mental model around how they choose providers.**
+`2.` **Test Oracle Health after-visit summary functionality, and report any issues with the feature.**
+
+`3.` **(Stretch Goal) Better understand a user's mental model around how they choose providers.**
 
 
   
@@ -74,7 +76,7 @@ Test whether the basic functionality of the tool works on production for trusted
 > [!NOTE]
 > Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-**`1.`Are participants able to easily complete all of the scheduling scenarios?**
+**`1.`Are participants able to easily complete all of the scheduling and after-visit summary scenarios?**
 
 **`2.`Are any scenarios difficult to complete?**
 
@@ -90,6 +92,7 @@ Test whether the basic functionality of the tool works on production for trusted
 ---
 
 - Users will be able to complete the scheduling scenarios they test with little difficulty.
+- Users will be able to easily access and view their after-visit summaries
 - Users will identify other features or details that would help them choose a provider more easily.
 
 ---
@@ -123,7 +126,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 	
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-oh-scheduling-web-uat/conversation-guide.md)
-- [Link to research notes doc](#) [TBD - the thought here is to have a Sharepoint doc where notetakers can capture their insights from the sessions in one spot. Need to determine if we want more than that for synthesis, like a task success matrix]
+- [Link to research notes doc](#) [TODO - the thought here is to have a Sharepoint doc where notetakers can capture their insights from the sessions in one spot. Need to determine if we want more than that for synthesis, like a task success matrix]
 	
 ## Recruitment 🎯	
 
@@ -176,7 +179,7 @@ OCTO will recruit "Trusted Users" who have access to the scheduling tool who can
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-[TBD - Note any times that no one is available in this section once we have dates solidified.]
+[TODO - Note any times that no one is available in this section once we have dates solidified.]
   
 ## Team Roles  🕵️👩‍💻👩‍🔬       
 
