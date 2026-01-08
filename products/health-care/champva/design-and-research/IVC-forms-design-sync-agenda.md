@@ -1,6 +1,98 @@
 # Running Design and Research Agenda
 
 
+## January 8, 2026
+
+Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea, John 
+
+### Agenda: 
+- Review the UX roadmap
+- Discuss upcoming priorities for CHAMPVA/FMP forms (UX has cleared some staging review findings and UX debt and is ahead by a couple of sprints!)
+
+### Notes: 
+
+Roadmap 
+
+Teamwide - Metrics are blocked, no action on Medallia ticket to move forward
+
+
+EZ/EZR - Service blueprints wrapped up, next up revisit statuses and EZR CYOA, Mutli form pattern exploration
+
+10-10d/OHI - 
+- content unblocked in 2 weeks ish to kick off research study in about 3 weeks
+- Staging review findings, completed and close, pending some will be addressed with Tricare eligibility work
+- One small pending item with content
+- New content specialist
+
+CHAMPVA Claims
+- Duty to assist with content 
+
+FMP 
+- Direct deposit work for claims is done
+- User flows, SOT
+- Future effective date, with engineers
+- Birth certificate and adoption paperwork 
+
+
+CG 
+- Service blueprint 
+
+
+Staging Review Findings 
+
+- Concerns about File Upload component v3
+- List of pattern discovery on what issues/missing items exists
+- Next steps: to schedule a meeting to all get on same page
+
+
+Authenticated experience FMP direct deposit update
+Timing - of them are in Collab Cycle, won’t be part of Profile 2.0, so timing will be later
+Engineers will get access and add in content needed 
+
+
+Confusion with direct deposit - IVC contact center folks now exactly what is happening, make it clear
+
+
+
+Next up priorities / UX capacity 
+
+Beyond Tricare work, next UX:
+
+
+EZR CYOA 
+- The choose your own adventure background on EZR health update form
+
+Amanda - prioritize choose your own adventure 
+
+Premal - big list of tickets, what needs to be prioritized. New forms asked to work on, 
+
+
+Task List / CYOA concerns 
+
+- Exploration and task list has not gone through collab cycle. Would be a big engineering and UX lift, needs VADS and platform oversight.
+
+- Premal does not have a form list priority list yet of new forms. 
+
+Appeals 
+- discovery work how might our forms map into existing appeals work. How might health care forms fit into existing appeals flow. 
+
+
+Power of Attorney 
+- not specific to health care decisions, blanket form?
+- multiple signatures and notary, possible upload paper form route
+- 2122 specific for representing in VA benefit cases, 
+
+Top pain points from Medallia
+
+Statuses -  the one in scope, previous submission check 
+
+Medicare - Premal would love to do this, but not sure what is possible with CMS Medicare. Needs Tech discovery before UX. Gov’t person to work across agencies from that side to help with discovery 
+
+Multiple CHAMPVA claims
+OCR LLM on CHAMPVA claims 
+
+------
+
 ## December 18, 2025
 
 Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea 
