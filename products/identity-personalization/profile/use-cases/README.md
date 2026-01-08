@@ -20,6 +20,7 @@ UPDATED for Profile 2.0
    - [Messages signature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/messages-signature.md)
    - [Scheduling preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/scheduling-preferences.md)
 - [Dependents and contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/dependents-contacts/dependents-contacts-landingpg.md)
+   - [Dependents on file](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)*
  
 _*Pages with an asterisk link to pages outside the profile and are not managed by the Authenticated Experience team. We have linked to the respective product pages for reference only._
 
