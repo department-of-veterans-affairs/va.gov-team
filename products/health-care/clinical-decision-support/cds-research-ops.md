@@ -53,8 +53,6 @@ While the details of each step may differ based on the type of research being co
 
 ## Prepare Research Materials 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
 1. Check if any related research exists in the OCTO GitHub Research Repository. Filter using keywords and labels or use GitHub co-pilot to help you search. Labels specific to CDS research include: AUD:clinicians, PRDT:clinical decision support
 2. Determine your research methodology.
 3. Write your research plan and guide.
