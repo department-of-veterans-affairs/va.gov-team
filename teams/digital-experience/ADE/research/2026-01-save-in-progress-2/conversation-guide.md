@@ -286,10 +286,10 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 1. **How long do you expect the information you entered to be saved if you haven’t submitted the form?**
      1. VA saves your information for 60 days. What do you think happens to your information after 60 days? [deleted / __________________________]
      1. Would it be helpful if you were notified that you had incomplete forms that haven’t been submitted? 
-          1. If so, how often would you like to be notified?
+          1. If so, when would you like to be notified? How often? 
+     1. Have you left a VA form unfinished before?
      1. Would you like to be able to delete a form you started but didn't finish?
           1. If so, why? 
-
 
 1. If you had a magic wand and could change *anything* about *how we save your information* before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
