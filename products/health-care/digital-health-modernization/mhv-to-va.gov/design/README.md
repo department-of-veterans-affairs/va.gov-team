@@ -5,7 +5,7 @@ Last updated: 8 Jan 2026
 
 ## Design Documentation
 
-- [Decision records](../accessibility/documentation/decisionrecords.md) — Inventory of design-related decisions impacting accessibility along with the rationale for the decision and a list of standards or other factors impacted by the decision (moved to MHV Accessibility documentation).
+- [Decision records](../accessibility/documentation/decision-records.md) — Inventory of design-related decisions impacting accessibility along with the rationale for the decision and a list of standards or other factors impacted by the decision (moved to MHV Accessibility documentation).
 
 ## Presentations
 
