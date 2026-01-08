@@ -161,7 +161,7 @@ All **11 of 11 participants** understood **Inactive** as no longer refillable.
 *“…they know a renewal is the entire medication. A refill is, like, oh, they ran out of refills.”*  
 *“Because some, some, medications expire.”*
 
-**5 participants** (P2, P5, P10, P14, and partially P5) showed uncertainty or used the terms interchangeably. Some described renewal as simply “getting more medication,” were unsure who requests were routed to, or stated there was no meaningful difference between the two terms.
+**4 participants** (P2, P5, P10, P14, and partially P5) showed uncertainty or used the terms interchangeably. Some described renewal as simply “getting more medication,” were unsure who requests were routed to, or stated there was no meaningful difference between the two terms.
 
 *“Refill and what? [renewal]”*  
 *“Medication may or may not be active, however, you still may need the medication.”*  
