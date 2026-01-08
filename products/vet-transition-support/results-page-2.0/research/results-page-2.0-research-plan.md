@@ -39,7 +39,7 @@ recruitment:
   approach: "Lean maximum variation strategy"
   primary_criteria:
     - "Younger Veterans (prioritize those in their 20s)"
-    - "4 users of assistive technology"
+    - "6 users of assistive technology" 
     - "Veterans with shorter lengths of service (1-2 enlistment periods)"
   secondary_criteria:
     - "At least 3 women"
@@ -49,7 +49,7 @@ recruitment:
 
 participants:
   veterans: 18
-  total_recruited: 18
+  total_recruited: 24
   completed_sessions_goal: 12
 
 timeline:
@@ -284,7 +284,11 @@ Perigean will recruit and schedule **12 qualified participants** for each group 
     * Very uncomfortable
   
 10. What's the highest level of education you have completed?
-    *
+    * High school
+    * Some college
+    * Associate's degree
+    * Bachelor's degree
+    * Master's degree or higher
 
 ---
 
@@ -302,7 +306,7 @@ The product Codespaces and conversation guide are currently ready.
 
 ### Research Sessions
 
-* **Planned dates of research:** **Jan 16-23**
+* **Planned dates of research:** **Jan 16-26**
 
 ### Session Logistics
 
@@ -319,6 +323,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Jan 21, Wed, 11:00 AM - 5:00 PM`
 - `Jan 22, Thu, 11:00 AM - 5:00 PM`
 - `Jan 23, Fri, 11:00 AM - 5:00 PM`
+- `Jan 26, Fri, 11:00 AM - 5:00 PM`
 ---
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
