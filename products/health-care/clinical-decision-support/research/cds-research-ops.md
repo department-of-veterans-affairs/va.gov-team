@@ -32,7 +32,7 @@ While the details of each step may differ based on the type of research being co
    - Do not record screens when patient data is showing.
    - Debrief or capture a few top takeaways immediately after the sesion.
 4. **Synthesize Data**
-   - test
+   - Identify top themes
 6. **Share and document research**
    - Create GitHub research folder and copy markdown files.
    - Add research ticket to GitHub board and link to the research folder. Close the ticket. We do not need to do a PR review.
