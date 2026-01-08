@@ -161,6 +161,7 @@ Shown via Codespaces
 ## 🗣️ Post-Task Interview - 10 Minutes
 
 * Is this tool helpful for you in your life today?
+* How would you rate your satisfaction with this tool from 1-5?
 * What would you change about this tool to help someone transitioning from Active Duty?
 * What do you think VA should know about your experience getting benefits after transitioning?
 
