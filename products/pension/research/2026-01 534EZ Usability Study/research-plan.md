@@ -187,7 +187,7 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 - `Maximum Sessions per day:` 3
 
 ### Length of AT sessions
-- `Session length:` 2 hours
+- `Session length:` 1.5 hours
 - `Buffer time between sessions:` 30 minutes
 - `Maximum Sessions per day:` 2
 
