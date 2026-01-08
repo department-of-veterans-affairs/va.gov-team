@@ -28,14 +28,14 @@ This describes what the experience with medications will be like for patients at
 ### UX tactics 
 How will we communicate these changes to Veterans? 
 
-1. Alerts strategy: 
+1. **Alerts strategy:** 
   - Yellow warning alert: beginning T-45, communicate upcoming dates when patients cannot refill or renew medications.
   - Red alert: beginning T-3 (confirm with Kay), communicate can't request  med refills.
   - Put alerts on /medicaitions?page=1 and /medications/refill
 
-2. Blocking functionality:
+2. **Blocking functionality:**
   - T-5: disable renewal links. Add content in medication card (maybe?) telling patients they can't renew.
   - T-3: disable refill functionality. Include error message if try to submit order? Need to discuss what's feasible.
 
-3. Letting them know they can do stuff again and what's different
+3. **Letting them know they can do stuff again and what's different**
   - Yellow alert: T+2 - T+30 - message telling patients they can do thing. Content pointing towards R&S page describing what's different. 
