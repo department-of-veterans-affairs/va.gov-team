@@ -1,5 +1,6 @@
 # 2026 Oracle Health Go-Live Sites 
-Front-end alert + maintenance window planning
+* MHVFE Horizon Team / January 2026
+* Front-end alert + maintenance window planning
 
 ## On this page
 * [Background](#background)
