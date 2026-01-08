@@ -147,7 +147,7 @@ Let’s start with a few questions...
 
 ## Task 0: Share screen
 
-I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
+**I would like you to share your screen** with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now.
 - *(refer to Screen sharing instructions above, if needed)*
 - *STOP TECH TROUBLESHOOTING **< 15 min into session** if want a replacement participant from Perigean b/c not likely to be successful*
 
@@ -178,13 +178,13 @@ Please click the (green) "Continue" button.
 **You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 ## Task 1: Find Form to fill out
-[start on unauthenticated VA.gov page]
+[start on unauthenticated VA.gov home page]
 
-I'd like you to fill out a VA form to request your own military records. How would you start? 
+**(If using screen magnifier but can’t see zoomed screen over Zoom)** Is your screen magnified? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
 
 Please **talk aloud** about what you're thinking BEFORE clicking on anything. 
 
-**(If using screen magnifier but can’t see zoomed screen over Zoom)** Is your screen magnified? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
+I'd like you to fill out VA form 20-10206 ["20 10 206"] to request your military records. How might you find that form? 
 
 ### Path 1A: Participant signs in before finding form
 
@@ -248,14 +248,14 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
   - [Noticed "Your records request has been saved"? Y / N]
 
 ## Task 5: Resume filling out form [from unauth VA.gov]
-OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. 
+[If they're not on the unauth VA.gov home page, ask them click on the **Hat** button]
 
-- [If they're not on the unauth VA.gov home page, ask them click on the **Hat** button]
+OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. How would you get back to your unfinished form?
+
 - [Record how resume form:]
   - Sign in --> My VA --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Umbrella) --> Sign in --> auth form intro --> Continue your request
-
-  - [If needed: **Unauth intro (Umbrella) / Auth intro (Apron) / My VA (Mittens)**]
+  - [If they say “Umbrella”] How would you do this with the real VA.gov web page if we weren’t in this session together?
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
@@ -275,13 +275,21 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
      - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
 
-1. When did you expect the information you entered into this VA  form to be saved?
+1. **When did you expect the information you entered into this VA form to be saved?**
 
-     1. [After every field / page / Finish later / Continue button / only after submitting?]
+     1. [After every change / field / page / Finish later / Continue button / only after submitting]
      1. How do you know? 
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
      1. [Did they remember what the interstitial page said? Y / N]
+
+1. **How long do you expect the information you entered to be saved if you haven’t submitted the form?**
+     1. VA saves your information for 60 days. What do you think happens to your information after 60 days? [deleted / __________________________]
+     1. Would it be helpful if you were notified that you had incomplete forms that haven’t been submitted? 
+          1. If so, how often would you like to be notified?
+     1. Would you like to be able to delete a form you started but didn't finish?
+          1. If so, why? 
+
 
 1. If you had a magic wand and could change *anything* about *how we save your information* before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
