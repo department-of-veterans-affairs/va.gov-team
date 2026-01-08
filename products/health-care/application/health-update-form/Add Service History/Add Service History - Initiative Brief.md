@@ -110,7 +110,8 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 ### What're you building?
 
 **In scope:**
-- V2 Confirmation Flow design displaying existing service periods - **TBD on Last Service period or all service periods (pending discovery)**
+- Integrating with VA Profile as the data source for military service history
+- V2 Confirmation Flow design displaying existing service periods
 - Question referencing service period and whether the most recent is accurate.
 - Military Service question page (consistent with 10-10EZ patterns)
 - Service history page with checkboxes (consistent with 10-10EZ patterns)
@@ -119,14 +120,11 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 
      - **Decisions made**
           - We will have a single file upload page conditional upon whether the Veteran answers Yes to adding service history (either/or) TERA questions
-          - We will look at VES, DOD and/or MPI for Service History periods
-               - What is available for us to pull?
-               - How easy will it be to pull?
-               - Are we already connected or will it require more integration work?
-               - Should we narrow down to the last service period?
+          - 1/8/2026 - Decision made to use VA Profile as data source
 
 **Explicitly not included:**
 - Historical service record corrections (focuses on new/recent periods)
+     - Any DOD records that need corrections can only be initiated by the Veteran through specific channels
 - Integration with other benefit applications beyond healthcare
 
 **Mobile application consideration:**
