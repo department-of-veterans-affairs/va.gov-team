@@ -244,7 +244,7 @@ Write up your findings following the structure of the research-findings.md templ
 
 If keeping a video clip from a user session, [review the tips here on how to scrub PHI/PII from recordings](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-scrub-a-video-clip-of-pii-and-phi).
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
 
 ---
@@ -253,6 +253,8 @@ If keeping a video clip from a user session, [review the tips here on how to scr
 Completed research must be added to the OCTO research repository board. Since the CDS research processes differ from the VFS research processes and we are not relying on other workflow integrations or reruitment services, we can add our research to GitHub when studies are completed. 
 
 #### Document your research in GitHub
+For research conducted and documented prior to October 1, 2025, refer to this section for adding older research findings to the GitHub repository.
+
 1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), 
    - Click into your respective folder.
    - Click add file.
@@ -281,7 +283,23 @@ Completed research must be added to the OCTO research repository board. Since th
    - Then select Research Intake Form.
    - Follow the naming convention for the Title.
    - Copy the path from the new research folder you created that contains the study's markdown files and paste into the Research Folder field.
-   - Complete the **Summary** and **Key Findings** sections and add the following labels:
+   - Complete the **Summary** and **Key Findings** sections and add the following labels: AUD:clinicians, PRDT:clinical decision support, and relevant RESRCH label.
+   - Click **Create** and then click **Edit** and edit the Summary to put the Veteran Journeys and Benefits below the **Key Findings** section for easier reading since those sections are not relevant for the clinical & staff facing research.
+   - Update ticket with start and end dates.
+   - Click **Close** to close the ticket.
+     
+#### Document older studies in GitHub
+For studies conducted prior to October 1, 2025, only the summary ticket needs to be created in GitHub with links back to the original source such as Confluence. [Here is an example of a prior study added to GitHub.](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1710)
+
+After your research folder is created and your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
+   - Go to the OCTO Research Repository board.
+   - Scroll to the **Complete** column and click **Add item**.
+   - Begin typing and then click Create new issue.
+   - A modal will pop-up and and confirm the Repository listed is department-of-veterans-affairs/va.gov-research-repository
+   - Then select Research Intake Form.
+   - Follow the naming convention for the Title.
+   - Put the link to the original documentation source in the Research Folder field (like Confluence).
+   - Complete the **Summary** and **Key Findings** sections and add the following labels: AUD:clinicians, PRDT:clinical decision support, and relevant RESRCH label.
    - Click **Create** and then click **Edit** and edit the Summary to put the Veteran Journeys and Benefits below the **Key Findings** section for easier reading since those sections are not relevant for the clinical & staff facing research.
    - Update ticket with start and end dates.
    - Click **Close** to close the ticket.
