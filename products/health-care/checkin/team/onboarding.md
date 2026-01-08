@@ -1,5 +1,40 @@
 # Onboarding
 
+## Prod support resources and steps
+
+[Current Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/zero-failures/production-support-playbook.md)
+
+- Get Access Pager Duty
+  - [ecc.pagerduty.com](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-PagerDuty) 
+  - https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools#Requestaccesstotools-PagerDuty
+  - Teams to be added to
+    - ecc.pageryduty - PCI-API - PBIMUWN
+    - ecc.pagerduty - CIE - P5TJKID
+- Get Access DataDog 
+  - https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog
+  - This will likely get you vagov datadog and it would be nice to have tevi and vetext datadog access too
+- Add Slack Channels
+   - [#check-in-production-support](https://dsva.slack.com/archives/C02UP02HHGX)
+   - [#check-in-monitoring](https://dsva.slack.com/archives/C04G3EY2F5W)
+   - [#check-in-experience-apm](https://dsva.slack.com/archives/C02U11L00TF)
+
+- Adjust alert settings in slack and pagerduty so that you are notified when on call.
+  - Response time should be within 15 minutes
+
+## Dashboards
+
+bookmark these
+
+- [Check in travel](https://vagov.ddog-gov.com/dashboard/5pd-req-u6d/check-in-travel-claims?fromUser=false&refresh_mode=sliding&from_ts=1760028402822&to_ts=1760042802822&live=true)
+- [Check in](https://vagov.ddog-gov.com/dashboard/zps-5fk-azw/check-in-vets-api?fromUser=false&refresh_mode=sliding&from_ts=1760028495865&to_ts=1760042895865&live=true)
+- [Community care direct scheduling](https://vagov.ddog-gov.com/dashboard/t4t-axu-zvb/vaos-community-care-direct-scheduling?fromUser=false&refresh_mode=paused&from_ts=1756904152500&to_ts=1756915094727&live=false)
+
+## Holiday freeze
+
+When there is a federal holiday we should silence alerts.
+[Docs](https://github.com/department-of-veterans-affairs/checkin-devops/blob/main/docs/holiday-alerting-freeze.md)
+
+
 ## ePAS and VAEC/AWS Access
 
 ### Introduction
