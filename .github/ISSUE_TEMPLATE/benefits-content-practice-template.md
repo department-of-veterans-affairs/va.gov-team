@@ -1,3 +1,11 @@
+---
+name: Benefits Content Practice Template
+about: Issue template for Content work for Decision Reviews/BMT 1/BMT 2
+title: '[Content] Product: Feature - Request'
+labels: content
+assignees: cinlackey, guy-schmidt
+---
+
 ## Value Statement
 **As a** [user type]  
 **I want to** [goal]  
@@ -45,4 +53,4 @@
 **Remember to:**
 - Add label: `content`
 - Add relevant team labels (e.g., `benefits-management-tools`, `decision-reviews`)
-- Assign to: Cindy Lackey (@cinlackey) or Guy Schmidt (@guy-schmidt)
+- Assign to: Cindy Lackey (@cinlackey) OR Guy Schmidt (@guy-schmidt)
