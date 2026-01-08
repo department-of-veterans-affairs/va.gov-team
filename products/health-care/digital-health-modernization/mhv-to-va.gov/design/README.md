@@ -1,11 +1,11 @@
 # MHV on VA.gov — Design
 Repository of design-related documentation, including planning documents, design artifacts, and requirements
 
-Last updated: 27 Oct 2025
+Last updated: 8 Jan 2026
 
 ## Design Documentation
 
-- [Decision records](documentation/decisionrecords.md)
+- [Decision records](../accessibility/documentation/decisionrecords.md) — Inventory of design-related decisions impacting accessibility along with the rationale for the decision and a list of standards or other factors impacted by the decision (moved to MHV Accessibility documentation).
 
 ## Presentations
 
