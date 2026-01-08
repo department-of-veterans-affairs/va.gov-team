@@ -18,8 +18,7 @@ Issues can take various forms.  The main information should be available in the 
 * The team should investigate if there is a technical problem
 * If it can be addressed quickly, the engineer should move forward with correction of the issue, then report back to the MHV Tier 3 Support team once it is resolved.
   * Add the details in a comment on the Github ticket
-  * Send a message to the mhv-tier-3-support Slack channel to let them know the status once resolved.
-    * include a link to the GH ticket and the relevant SNOW or HRC ticket if available.
+  * Tier 3 will receive an email notification of this update and communicate the resolution back to the Help Desk
 * Close the GH ticket
 
 ### What if a technical fix is needed? 
