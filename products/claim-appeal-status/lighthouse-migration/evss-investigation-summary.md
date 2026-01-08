@@ -2,7 +2,7 @@
 
 ## Objective
 
-Track request origins for the legacy `v0/evss_claims` endpoint to identify callers and support endpoint retirement scheduled for 01/26/26.
+Track request origins for the legacy `v0/evss_claims` endpoint to identify callers and support endpoint retirement scheduled for 01/28/26.
 
 ## Implementation Details
 
@@ -38,7 +38,7 @@ Possible explanations for missing referer on EVSS endpoint: **(Can we reach out 
 
 ## Outstanding Technical Debt
 
-- vets-api: lots of EVSS removal needed after 01/26/26
+- vets-api: lots of EVSS removal needed after 01/28/26
 - vets-website: 6 Cypress test mocks still reference `/v0/evss_claims`.
 - va-mobile-app: 1 test fixture uses type: 'evss_claims' string
 
