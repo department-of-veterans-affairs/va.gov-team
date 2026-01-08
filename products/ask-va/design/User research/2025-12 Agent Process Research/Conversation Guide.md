@@ -80,11 +80,13 @@ We’ve introduced ourselves, so we’d love to start by learning more about you
 
 6. **Walkthrough** \- Walk me through your processes of what happens after someone submits something through Ask VA. At this time, it would be great if you would be willing to share your screen with us to walk through the process.  
    1. What workforce management process is your business line using? Why?   
-   2. How are your responses crafted to questions submitted?  
-      1. What resources are you leveraging to respond to submissions?  
-      2. How do you decide when to use “Standard Text” to respond to submissions?   
-      3. How do you know if you’ve answered something correctly and/or completely?
-      4. Describe a situation where you might have back and forth responses with a submitter. 
+   
+7. **Responses**
+      1. How are your responses crafted to questions submitted?  
+         1. What resources are you leveraging to respond to submissions?  
+         2. How do you decide when to use “Standard Text” to respond to submissions?   
+         3. How do you know if you’ve answered something correctly and/or completely?
+         4. Describe a situation where you might have back and forth responses with a submitter. 
 
 7. **Form fields**  
    1. What fields are most important to you throughout the process?  
