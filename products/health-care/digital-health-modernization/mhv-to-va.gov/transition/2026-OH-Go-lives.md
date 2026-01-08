@@ -2,12 +2,12 @@
 Front-end alert + maintenance window planning
 
 ## On this page
-* Background(#background)
-* Go-live timelines(#timelines)
-* Complexity(#complexity)
-* Alert designs(#designs)
-* Implementation plan(#plan)
-* Other(#other)
+* [Background](#background)
+* [Go-live timelines](#timelines)
+* [Complexity](#complexity)
+* [Alert designs](#designs)
+* [Implementation plan](#plan)
+* [Other](#other)
 
 # <a name="background">Background</a>
 
