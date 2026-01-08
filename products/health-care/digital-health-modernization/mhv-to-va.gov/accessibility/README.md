@@ -1,7 +1,11 @@
 # MHV on VA.gov — Accessibility
 Repository of accessibility-related documentation, including planning and process documents
 
-Last updated: 23 Dec 2025
+Last updated: 8 Jan 2025
+
+## Foundations
+
+- [Decision Records](documentation/decision-records.md) — Inventory of design-related decisions impacting accessibility, along with the rationale for the decision and a list of standards or other factors impacted by the decision.
 
 ## Process Documentation
 
