@@ -1,3 +1,87 @@
+---
+title: "Research Plan for Veteran Transition Experience - Results Page 2.0"
+date: "2025-11-01"
+last_updated: "2026-01-08"
+team: "Veteran Transition Support"
+product: "Discover Your Benefits - Results Page 2.0"
+product_area: "unauthenticated"
+
+background:
+  problem_statement: "Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are overwhelmed by the transition process. The tool aims to help them discover, explore, and understand benefits most relevant to them."
+  product_location: "Unauthenticated questionnaire hosted on VA.gov at https://www.va.gov/discover-your-benefits/introduction"
+  user_familiarity: "Existing product - iteration"
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/vet-transition-support/README.md"
+
+methodology: "Usability testing of prototype results page and questionnaire"
+research_format:
+  location: "remote"
+  moderated: true
+
+research_goals:
+  - "Test usability of the redesigned results page"
+  - "Test usability of the rewritten length of service question"
+  - "Test the product with adaptive technology users"
+
+research_questions:
+  - "Do the design changes to the results page make users better able to accomplish their goals of discovering, exploring, and understanding benefits?"
+  - "Are the redesigned filters usable and accessible?"
+  - "Are the redesigned benefit cards usable and accessible?"
+  - "Are time sensitivity, recommendation, and potential eligibility clear?"
+  - "Is the redesigned sorting function usable and accessible?"
+  - "Which prototype has better filtering usability - radio buttons or checkbox?"
+  - "Is the rewritten length of service question easy to understand and aligned with Veterans' mental models?"
+  - "What effect does the new results page interface have on the benefits users explore?"
+
+expected_outcomes: "Use insights to make data-informed decisions about the design of the results page and questionnaire for the next phase of development."
+
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Lean maximum variation strategy"
+  primary_criteria:
+    - "Younger Veterans (prioritize those in their 20s)"
+    - "4 users of assistive technology"
+    - "Veterans with shorter lengths of service (1-2 enlistment periods)"
+  secondary_criteria:
+    - "At least 3 women"
+    - "At least 3 people of color"
+    - "Geographic distribution: 7 east coast, 2 midwest, 3 west coast"
+    - "At least 4 people under age 30"
+
+participants:
+  veterans: 18
+  total_recruited: 18
+  completed_sessions_goal: 12
+
+timeline:
+  pilot_date: "2026-01-09"
+  pilot_participant: "Raquel Eadie"
+  research_dates: "2026-01-12 to 2026-01-23"
+
+session_details:
+  duration_minutes: 45
+  buffer_minutes: 30
+  max_sessions_per_day: 3
+
+octo_priorities:
+  - objective: "VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
+  - objective: "OCTO's platforms are the fastest, most efficient, and most secure way to deliver products at VA"
+
+veteran_journey_phases:
+  - "Getting Out"
+  - "Starting Up"
+  - "Taking Care of Myself"
+  - "Reinventing Myself"
+  - "Putting Down Roots"
+  - "Retiring"
+
+tags:
+  - "veteran-transition-support"
+  - "usability-testing"
+  - "adaptive-technology"
+  - "evaluative-research"
+---
+
+
 # 📝 Research Plan for Veteran Transition Experience
 
 ## Research Plan for Veteran Transition Experience, Discover Your Benefits tool, November 2025
