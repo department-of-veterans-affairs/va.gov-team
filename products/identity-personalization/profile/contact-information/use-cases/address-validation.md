@@ -11,20 +11,6 @@ Last updated: January 2026
 
 [Use cases](#use-cases)
 
-- [SHOW\_SUGGESTIONS\_OVERRIDE | User can select from address entered or suggested address](#show_suggestions_override-|-user-can-select-from-address-entered-or-suggested-address)
-
-- [BAD\_UNIT\_OVERRIDE | Unit number can’t be confirmed with USPS, and a suggestion is not found](#bad_unit_override-|-unit-number-can’t-be-confirmed-with-usps,-and-a-suggestion-is-not-found)
-
-- [MISSING\_UNIT\_OVERRIDE | Address is missing a unit number](#missing_unit_override-|-address-is-missing-a-unit-number)
-
-- [SHOW\_SUGGESTIONS\_NO\_CONFIRMED\_OVERRIDE | Address entered is viable, and no suggestions from USPS](#show_suggestions_no_confirmed_override-|-address-entered-is-viable,-and-no-suggestions-from-usps)
-
-- [NO\_SUGGESTIONS\_NO\_OVERRIDE | Address can't be confirmed with USPS and is not viable](#no_suggestions_no_override-|-address-can't-be-confirmed-with-usps-and-is-not-viable)
-
-- [SHOW\_SUGGESTIONS\_NO\_OVERRIDE | Entered address is invalid, but USPS found a suggested address](#show_suggestions_no_override-|-entered-address-is-invalid,-but-usps-found-a-suggested-address)
-
-- [SYSTEM\_ERROR | API call fails](#system_error-|-api-call-fails)
-
 # Overview 
 
 If a user changes their address from the VA.gov Profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to closer match their address to USPS. This is to reduce the number of incorrect addresses. For each scenario, the user is presented with a [warning alert component](https://design.va.gov/components/alert#warning-alert) that appears within the address field, under the section header.
