@@ -1,8 +1,8 @@
 # Decision Records
 
-Inventory of design-related decisions along with the rationale for the decision and a list of standards or other factors impacted by the decision.
+Inventory of design-related decisions impacting accessibility, along with the rationale for the decision and a list of standards or other factors impacted by the decision.
 
-Last updated: 4 Dec 2025
+Last updated: 8 Jan 2026
 
 ## Wayfinding
 
@@ -49,9 +49,9 @@ Set focus to the level 1 heading (```<H1>```) on page load.
 
 ## Typography
 
-### Sans-Serif Typeface for Body Text
+### Monospace Fonts
 
-Provide body text using a sans-serif typeface. Do not use a monospaced typeface, with the exception of code samples and, in some cases, numerical data in tables.
+Use a monospaced typeface to address alignment issues for plain text content that includes fixed-width space-separated data tables.
 
 -  **Rationale:** “Use monospace fonts sparingly. Monospace fonts can be difficult to read, especially at small sizes or with poor color contrast. Use monospace fonts for numerical data in tables, code examples, or when precise horizontal alignment is needed. For body text, choose a sans serif typeface.” Excerpted from VADS Typography guidance on [Monospace fonts](https://design.va.gov/foundation/typography#monospace-fonts)
 - **Relevant standards:** Section 508: [402.4 Characters on Display Screens](https://www.access-board.gov/ict/#402.4): At least one mode of characters displayed on the screen shall be in a sans serif font.
