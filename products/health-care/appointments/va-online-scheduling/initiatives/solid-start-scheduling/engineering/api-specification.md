@@ -388,18 +388,17 @@ Retrieves details of a specific appointment by its unique identifier. Requires a
 **Response:**
 ```json
 {
-  "data": {
-    "appointmentId": "abcdef123456",
-    "topics": [
-      {
-        "topicId": "123",
-        "topicName": "General Health"
-      }
-      // ...more topics
-    ],
-    "dtStartUtc": "2024-07-01T14:00:00Z",
-    "dtEndUtc": "2024-07-01T14:30:00Z"
-  }
+    "data": {
+        "appointmentId": "e61e1a40-1e63-f011-bec2-001dd80351ea",
+        "startUTC": "2025-12-24T10:00:00Z",
+        "endUTC": "2025-12-24T10:30:00Z",
+        "agentId": "353dd0fc-335b-ef11-bfe3-001dd80a9f48",
+        "agentNickname": "Agent Smith",
+        "appointmentStatusCode": 1,
+        "appointmentStatus": "Confirmed",
+        "cohortStartUtc": "2025-12-01T00:00:00Z",
+        "cohortEndUtc": "2026-02-28T23:59:59Z"
+    }
 }
 ```
 
