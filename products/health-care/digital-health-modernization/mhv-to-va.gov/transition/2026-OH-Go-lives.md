@@ -2,17 +2,17 @@
 Front-end alert + maintenance window planning
 
 ## On this page
-* Background
-* Timelines
-* Complexity
-* Alert designs
-* Implementation plan
-* Other
+* Background(#background)
+* Go-live timelines(#timelines)
+* Complexity(#complexity)
+* Alert designs(#designs)
+* Implementation plan(#plan)
+* Other(#other)
 
-## Background
+# <a name="background">Background</a>
 
 
-## Timelines
+# <a name="timelines">Go-live timelines</a>
 The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which each includes a cluster of 2-4 VA health care facilities that will migrate from VistA to Oracle Health. These are as follows: 
 
 ### Round 1 (Go-live: April 11, 2026)
@@ -48,3 +48,13 @@ The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which 
 |Louis Stokes Cleveland Department of Veterans Affairs Medical Center | Cleveland, OH | 10 | `VHA_541` | 
 |VA Alaska Healthcare System| Anchorage, AK| 20 | `VHA_463` | 
 
+# <a name="complexity">Complexity</a>
+
+
+# <a name="designs">Alert designs</a>
+
+
+# <a name="plan">Implementation plan</a>
+
+
+# <a name="other">Other</a>
