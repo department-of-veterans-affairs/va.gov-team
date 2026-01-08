@@ -11,7 +11,9 @@
 * [Open questions](#questions)
 
 # <a name="background">Background</a>
+Beginning on April 11, 2026 a number of VA health care facilities will begin to transition their electronic health record (EHR) system from VistA to Oracle Health (OH). This is a facility-only transition, and users will not need to adopt a new patient portal or transition to any new experiences. My HealtheVet on VA.gov will continue to be their patient portal, where they can manage their care online. 
 
+However, in order for their facilities to make this transition, each will need a dedicated "downtime" period when they freeze patient health-care records, store a copy, and then begin to handle a massive data transfer effort to the new system. During this window of time (37 days), users will not be able to use their core health tools online. They can still call their facility or pharmacy over the phone to schedule and receive care and support.  The MHVFE teams will need to create alerts in the user experience to communicate these downtime windows to users.
 
 # <a name="timelines">Go-live timelines</a>
 The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which each includes a cluster of 2-4 VA health care facilities that will migrate from VistA to Oracle Health. These are as follows: 
