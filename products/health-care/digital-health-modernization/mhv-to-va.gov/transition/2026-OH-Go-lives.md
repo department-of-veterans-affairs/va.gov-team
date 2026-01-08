@@ -68,6 +68,11 @@ The My HealtheVet locations where these alerts need to render include:
 | Messages inbox | va.gov/my-health/secure-messages/inbox/ | Messages page | 
 | Medical records landing page | va.gov/my-health/medical-records/ | Medical records page(s)?|
 
+### Users with multiple facilities from the same go-live round in their user profile
+In most cases, facilities that are being transitioned are from the same US region. It's highly likely that users may have multiple facilities that are being transitioned at the same time in their profile. In order to plan for this and prevent stacking the same exact alert for multiple facilities on landing page, we should template alerts that are prepared to string multiple facility_names together in the body content. 
+
+This will require a _singular_ verison of the alerts and a _multiple_ version with correct verb tenses and pluralization. Horizon should work with content to consider how best to template this. 
+
 ### Overlapping go-live timelines 
 In many cases this year (and in coming years), alert 1 (warning alert) for an upcoming round of go-live sites will overlap with the timeline for alert 2 (active maintenance window for earlier round of go-live sites). It is possible that many users could facilities in each of these groups and see both alerts. 
 
