@@ -154,7 +154,7 @@ All **11 of 11 participants** understood **Inactive** as no longer refillable.
 
 **Veterans had mixed understanding of the difference between refill and renewal. Some clearly differentiated the two, while others used the terms interchangeably.**
 
-**8 of 13 participants** (P1, P3, P4, P6, P8, P9, P11, P12) clearly differentiated the two concepts. These participants generally described refill as continuing an existing prescription with refills remaining, and renewal as requiring provider review or action once refills had run out or a prescription had expired. Several framed renewal as involving the entire medication rather than an incremental refill.
+**8 of 12 participants** (P1, P3, P4, P6, P8, P9, P11, P12) clearly differentiated the two concepts. These participants generally described refill as continuing an existing prescription with refills remaining, and renewal as requiring provider review or action once refills had run out or a prescription had expired. Several framed renewal as involving the entire medication rather than an incremental refill.
 
 *“Refill means you have refill medications and can order anytime.”*  
 *“Renewal most likely I need a new order for it.”*  
