@@ -55,7 +55,7 @@ participants:
 timeline:
   pilot_date: "2026-01-09"
   pilot_participant: "Raquel Eadie"
-  research_dates: "2026-01-12 to 2026-01-23"
+  research_dates: "2026-01-16 to 2026-01-23"
 
 session_details:
   duration_minutes: 45
@@ -280,7 +280,7 @@ The product Codespaces and conversation guide are currently ready.
 
 ### Research Sessions
 
-* **Planned dates of research:** **Jan 12-23**
+* **Planned dates of research:** **Jan 16-23**
 
 ### Session Logistics
 
@@ -292,8 +292,6 @@ The product Codespaces and conversation guide are currently ready.
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
 
-- `Jan 12, Mon, 11:00 AM - 5:00 PM`
-- `Jan 15, Thu, 11:00 AM - 5:00 PM`
 - `Jan 16, Fri, 11:00 AM - 5:00 PM`
 - `Jan 20, Tue, 11:00 AM - 5:00 PM`
 - `Jan 21, Wed, 11:00 AM - 5:00 PM`
