@@ -74,7 +74,7 @@ We will conduct remote moderated usability testing to observe research participa
 
 ## Research materials 📔
 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2026-01%20534EZ%20Usability%20Study/conversation-guide.md)
 - [Link to prototype](https://www.va.gov/find-forms/about-form-21p-534ez/)
 - Link to research notetaking Mural (TBD)
 	
