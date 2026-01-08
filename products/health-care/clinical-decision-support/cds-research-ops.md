@@ -48,7 +48,7 @@ While the details of each step may differ based on the type of research being co
 > [!NOTE]
 > Sensitive information includes **both** the PHI and PII of a veteran patient, as well as the PHI and PII of our research participant. Because we do not get informed consent from the patient to record their PHI and PII, we **do not record research sessions** where a patient's PHI/PII may be shown on the screen when we are observing how a clinician is interacting with tools, even though MS Teams is an approved tool for sharing sensistive information. 
 
-
+[Read more about about PHI and PII here.](https://depo-platform-documentation.scrollhelp.site/research-design/what-is-pii#)
 
 
 ## Prepare Research Materials 
@@ -232,14 +232,19 @@ Cheers,
 
 ## Synthesis
 
-*Summarize the 5–10 most impactful findings from your study.* 
+Use whatever method and tool that works for you and your team. The key things you’ll want to get out of your research to write up your research findings are:
+1. 5-10 top findings/themes, along with supporting quotes
+2. Determine whether you proved your hypotheses true or false
+3. Come up with recommendations based on your findings, including supporting evidence.
+
+Write up your findings following the structure of the research-findings.md template so it's easy to copy and paste into the markdown file when you are ready.
 
 > [!TIP] 
 > Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
+> - "All users felt having a search function for patient name would be more useful in the calendar view rather than search for a column."  
+> - "Clinicians didn't notice when certain values in the Key Data section were elevated, and wanted to see abnormal values display in red and normal ranges to help provide context to how far above the normal range a patient is."  
 
-If keeping a video clip from a user session, review the tips here on how to scrub PHI/PII from recordings.
+If keeping a video clip from a user session, [review the tips here on how to scrub PHI/PII from recordings](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-scrub-a-video-clip-of-pii-and-phi).
 
 > **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
