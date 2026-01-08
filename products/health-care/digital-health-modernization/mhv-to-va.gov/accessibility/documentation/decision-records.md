@@ -56,3 +56,5 @@ Use a monospaced typeface to address alignment issues for plain text content tha
 -  **Rationale:** “Use monospace fonts sparingly. Monospace fonts can be difficult to read, especially at small sizes or with poor color contrast. Use monospace fonts for numerical data in tables, code examples, or when precise horizontal alignment is needed. For body text, choose a sans serif typeface.” Excerpted from VADS Typography guidance on [Monospace fonts](https://design.va.gov/foundation/typography#monospace-fonts)
 - **Relevant standards:** Section 508: [402.4 Characters on Display Screens](https://www.access-board.gov/ict/#402.4): At least one mode of characters displayed on the screen shall be in a sans serif font.
 - **Last reviewed:** 4 Dec 2025
+- **Updated:** 8 Jan 2026
+
