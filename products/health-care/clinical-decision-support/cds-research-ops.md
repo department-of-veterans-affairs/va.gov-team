@@ -253,7 +253,7 @@ For details on how to write descriptive links that are accessible to assistive t
 Completed research must be added to the OCTO research repository board. Since the CDS research processes differ from the VFS research processes and we are not relying on other workflow integrations or reruitment services, we can add our research to GitHub when studies are completed. 
 
 #### Document your research in GitHub
-For research conducted and documented prior to October 1, 2025, refer to this section for adding older research findings to the GitHub repository.
+For research conducted and documented prior to October 1, 2025, refer to this section for adding older research findings to the GitHub repository. 
 
 1. Create a GitHub research folder for your study inside the [respective CDS product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support), 
    - Click into your respective folder.
