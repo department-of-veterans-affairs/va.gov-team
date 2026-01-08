@@ -39,7 +39,7 @@ QA might need clarification on expected behavior.
 ### After testing
 A final quick summary call between QA and product will take place. Issues discovered should be reviewed, 
 prioritized, and separated into items that must be fixed now vs items that can wait for a fast follow.
-QA will also submit a summary in a related located on slack so that the entire team can have visibility. 
+QA will also submit a summary in a related location on slack so that the entire team can have visibility. 
 
 ## Tickets and Small Bodies of Work
 Extremely minor changes such as adjustments to padding may skip this step. It is strongly encouraged
