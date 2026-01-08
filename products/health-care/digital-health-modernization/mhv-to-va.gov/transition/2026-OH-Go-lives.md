@@ -84,9 +84,90 @@ Maintenance window alerts related to this effort could compete with other alerts
 
 # <a name="plan">Implementation plan</a>
 
+**Alert template**
+* Appointments 
+  * T-60 / show warning alert
+  * T-30 / switch to showing error alert
+  * T+7 / pull down error alert for these users; tool team will need to put up alert that explains to users “your clinic names may look different”
+* Medications
+  * T-45 / show warning alert
+  * T-30 / switch to showing error alert
+  * T+2 / pull down error alert for these users; tool team will need alert that explains to users “you will now see duplicate medications in your list”
+* Medical records
+  * T-45 / show warning alert
+  * T-30 / switch to showing error alert
+  * T+?? / pull down error alert for these users; _do we need alternate alert to describe anything? Unclear in documentation_
+Messages: 
+T-45 / show warning alert
+T-30 / switch to showing error alert
+T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names may look different. even though they’ve been updated, you can still find all your old messages and reply to them; you can continue to message all providers"
+
+### Round 1: go-live date April 11, 2026
+
+* **Appointments**
+  * Warn users about upcoming maintenance window from 02/10/2026-03/11/2026
+  * Active maintenance window from 03/12/2026-04/18/2026
+* **Medications**
+  * Warn users about upcoming maintenance window from 02/25/2026-03/11/2026
+  * Active maintenance window from 03/12/2026-04/13/2026
+* **Medical records**
+  * Warn users about upcoming maintenance window from 02/25/2026-03/11/2026
+  * Active maintenance window from 03/12/2026-04/??/2026
+* **Messages**
+  * Warn users about upcoming maintenance window from 02/25/2026-03/11/2026
+  * Active maintenance window from 03/12/2026-04/13/2026
+
+
+
+Round 2: go-live date June 6, 2026
+
+* **Appointments**
+  * Warn users about upcoming maintenance window from 04/07/2026-05/05/2026
+  * Active maintenance window from 05/06/2026-06/13/2026
+* **Medications**
+  * Warn users about upcoming maintenance window from 04/22/2026-05/05/2026
+  * Active maintenance window from 05/06/2026-06/08/2026
+* **Medical records**
+  * Warn users about upcoming maintenance window from 04/22/2026-05/05/2026
+  * Active maintenance window from 05/06/2026-06/??/2026
+* **Messages**
+  * Warn users about upcoming maintenance window from 04/22/2026-05/05/2026
+  * Active maintenance window from 05/06/2026-06/08/2026
+ 
+Round 3: go-live date August 22, 2026
+* **Appointments**
+  * Warn users about upcoming maintenance window from 06/23/2026-07/21/2026
+  * Active maintenance window from 07/22/2026-08/29/2026
+* **Medications**
+  * Warn users about upcoming maintenance window from 07/08/2026-07/21/2026
+  * Active maintenance window from 07/22/2026-08/24/2026
+* **Medical records**
+  * Warn users about upcoming maintenance window from 07/08/2026-07/21/2026
+  * Active maintenance window from 07/22/2026-08/2?/2026
+* **Messages**
+  * Warn users about upcoming maintenance window from 07/08/2026-07/21/2026
+  * Active maintenance window from 07/22/2026-08/24/2026
+
+
+Round 4: go-live date October 24, 2026
+* **Appointments**
+  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
+  * Active maintenance window from 09/24/2026-10/31/2026
+* **Medications**
+  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
+  * Active maintenance window from 09/24/2026-10/26/2026
+* **Medical records**
+  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
+  * Active maintenance window from 09/24/2026-10/??/2026
+* **Messages**
+  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
+  * Active maintenance window from 09/24/2026-10/26/2026
+
 
 # <a name="questions">Open questions</a>
 1. Can each tool team look at the most common alerts (DD logs) that fire for users in the UI? Would be helpful to get an audit of alerts that could display simultaneously to understand the stacking hierarchy that we need to account for. 
 3. Does content within existing alerts in each tool potentially need to be evaluated (or updated?) to acknowledge this effort, or are we good?
 4. How can we make this a repeatable pattern that is low lift over time?
-  a. While the process is the same, re-using the same alerts is challenging b/c content in the alert body text must be updated to reflect 1.) different date ranges for each round, 2.) different facility names for each round, 3.) different facility_ids that they will render for over time, 4.) potentially different versions on web + VAHB mobile app  
+  a. While the process is the same, re-using the same alerts is challenging b/c content in the alert body text must be updated to reflect 1.) different date ranges for each round, 2.) different facility names for each round, 3.) different facility_ids that they will render for over time, 4.) potentially different versions on web + VAHB mobile app
+5. T+ how many days after go-live until we can pull medical records error alert (active downtime maintenance)? Meds/SM are +2 days; appointments is +7. Documentation is unclear about MR.
+6. Do we need these alerts on travel pay? Are reimbursement claims impacted online as well?  
