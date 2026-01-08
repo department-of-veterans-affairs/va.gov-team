@@ -82,8 +82,7 @@ Maintenance window alerts related to this effort could compete with other alerts
 
 
 # <a name="questions">Open questions</a>
-1. What is the inventory of alerts that could display in the user experience on each tool's landing page?
-2. Which of those are error, warning, or informational alerts?
+1. Can each tool team look at the most common alerts (DD logs) that fire for users in the UI? Would be helpful to get an audit of alerts that could display simultaneously to understand the stacking hierarchy that we need to account for. 
 3. Does content within existing alerts in each tool potentially need to be evaluated (or updated?) to acknowledge this effort, or are we good?
 4. How can we make this a repeatable pattern that is low lift over time?
   a. While the process is the same, re-using the same alerts is challenging b/c content in the alert body text must be updated to reflect 1.) different date ranges for each round, 2.) different facility names for each round, 3.) different facility_ids that they will render for over time, 4.) potentially different versions on web + VAHB mobile app  
