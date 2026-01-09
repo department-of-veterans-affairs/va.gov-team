@@ -286,7 +286,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
      1. [Did they remember what the interstitial page said? Y / N]
 
 1. **How long do you expect the information you entered to be saved if you haven’t submitted the form?**
-     1. VA saves your information for 60 days. What do you think happens to your information after 60 days? [deleted]
+     1. VA saves your information for 60 days from the last time you made changes. What do you think happens to your information after 60 days? 
      1. Would it be helpful if you were notified if you have incomplete forms that haven’t been submitted? 
           1. [If so] When would you like to be notified and why? [How often?]
      1. Have you left a VA form unfinished before?
