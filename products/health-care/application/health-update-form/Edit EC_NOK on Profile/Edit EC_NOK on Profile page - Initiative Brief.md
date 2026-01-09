@@ -16,6 +16,13 @@
 - Relying on the 10-10EZR form for such updates is cumbersome and not user-friendly.
 - Allowing these updates directly on the profile page will provide a more seamless and efficient experience for Veterans.
 
+### Note
+- The existing ECNOK section in the VA.gov Profile page is currently behind a feature toggle, and not available in production - per OCC requirement
+     - There is a production issue causing the correct EC or NOK data to not be visible
+     - The OCC has required the section be removed from production until it can be fixed
+- We want to address the production issue, and also add the Add, Edit and Remove functionality
+     - This will require design changes to include the buttons, content changes, modals, and edit user flows
+
 #### How does this initiative help further OCTO-DE's mission and goals? This initiative directly supports OCTO-DE's mission to deliver seamless, proactive, and personalized experiences by:
 - Reducing veteran burden by allowing the action where the Veteran is, replacing the form for this simple action
 - Building trust through improved experiences
