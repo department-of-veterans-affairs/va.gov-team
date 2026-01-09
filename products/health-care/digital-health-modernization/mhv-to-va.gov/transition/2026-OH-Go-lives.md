@@ -77,6 +77,11 @@ In some cases, alert 1 (warning alert) for an upcoming round of go-live sites wi
 
 In general, alerts should always render in severity order, meaning: alert 2 (warning alert) should display hierarchically _above_ warning alerts for upcoming maintenance windows at other facilities. 
 
+### Data suppression during active downtime windows
+Because users could have multiple facilities in their profile (some of which are included in migrations Rounds; but potentially some that are not), it could be considered a patient safety risk to suppress all task functionality across tools. It will be complex to first read if they have other facilities that are not actively being migrated before determining whether to show this functionality - and may not be worth the lift to build this out for a temporary 32-37 day window. 
+
+Instead, in-product tactics within the tools themselves will be more advantageous from a user-experience perspective. For example, within the appointments flow, direct-schedule appointment types could suppress _specific facility names_ within the flow, or even allow them but lead the user to a page that requires a phone-call to complete scheduling instead of allowing direct online scheduling. For Secure messaging, teams should evaluate whether they can suppress the health care system (facilities) from the care team drop-down list in the new message flow (and also disallow replies during this time frame on existing message threads that would otherwise be routed to any of these care teams underneath that facility). 
+
 ### Competing alert logic 
 SHOULD BE ADDRESSED AT TOOL TEAM LEVEL:
 
