@@ -1,4 +1,120 @@
-     # Research Plan for Bio-Huntridgelabs, VA Form 21P-534EZ (Application for DIC, Survivors Pension, and/or Accrued Benefits), Jan 2026
+---
+# Research Plan Metadata
+title: "Research Plan for Bio-Huntridgelabs, VA Form 21P-534EZ (Application for DIC, Survivors Pension, and/or Accrued Benefits), Jan 2026"
+date: 2026-01-07
+last_updated: 2026-01-07
+team:  "Bio-Huntridgelabs"
+product: "VA Form 21P-534EZ"
+product_area: "authenticated/unauthenticated"
+
+# Background Context
+background: 
+  problem_statement:  "The current process for surviving spouses and children to apply for Dependency and Indemnity Compensation (DIC), Survivors Pension, and accrued benefits using VA Form 21P-534EZ requires the manual completion and mailing of paper forms. Our objective is to modernize this experience by moving the form online."
+  product_location: "Available under Family and caregiver benefits on VA.gov"
+  user_familiarity: "This is for surviving spouses and children of a Veteran. The online application offers a modernized experience that builds upon the familiar foundation of the traditional PDF form."
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/product-outline-21-534EZ. md"
+
+# Research Design
+methodology:  "usability testing"
+research_format: 
+  location: remote
+  in_person_details: 
+    facility: ""
+    point_of_contact: ""
+    equipment: ""
+  moderated:  true
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "The questions are clear and easy enough for surviving spouses and children to understand and confidently answer."
+  - goal_2: "The flow aligns with the mental model and expected information-gathering process of surviving family members."
+  - goal_3: "Surviving spouses and children can understand which supporting documents they should upload and how to successfully upload them for their claim to be processed faster."
+
+research_questions:
+  - "What feedback do family members have on individual questions?"
+  - "What feedback do family members have on the entire form flow? (Total number of questions, order questions appear, the amount of information needed)"
+  - "Do family members understand what supporting documents are needed for their specific claim scenario?"
+
+hypotheses:
+  - "Surviving spouses and children will find the questions to be clear and easy to understand."
+  - "Family members won't find the number and content of the questions to be overly burdensome."
+  - "Family members will understand what supporting documents are needed to support their claim."
+
+expected_outcomes:  "Learnings will refine questions and improve other pain points in the form so that family members can provide the data needed to efficiently and effectively process claims."
+
+# Recruitment & Participants
+recruitment: 
+  recruiting_partner: "Perigean"
+  approach: "lean maximum variation"
+  
+  primary_criteria:
+    - "At least 5 that have applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits"
+    - "At least 5 that have NOT applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits"
+    - "At least 5 people with a cognitive disability (e.g., TBI)"
+    - "At least 5 have a smartphone to use for the session"
+    - "ALL assistive tech users must use a screen reader or screen magnifier every time they access the Internet"
+    
+  secondary_criteria:
+    - "At least 5 people who are age 55 or older"
+    - "At least 2 people who are LGBTQ+"
+    - "At least 2 people of color"
+    - "At least 2 women"
+    - "At least 3 people who don't have any degree or vocational training after high school"
+    - "At least 3 people who live in a rural or remote area"
+    
+  screener_questions:
+    - question:  "Have you ever applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits?"
+      qualifying_response: "Mix of Yes and No"
+    - question: "Do you find it difficult to remember or learn new things, focus on a task, or make decisions?"
+      qualifying_response: "Yes for 5 participants"
+    - question: "Do you use a screen reader or screen magnifier every time you use the Internet?"
+      qualifying_response: "Yes for assistive tech sessions"
+      
+participants:
+  veterans:  0
+  caregivers:  0
+  dependents: 15
+  total_recruited: 15
+  completed_sessions_goal: 10
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "2026-01-14 to 2026-01-22"
+  pilot_participant: "TBD"
+  research_dates: "2026-01-22 to 2026-01-30"
+  research_review_submission: "2026-01-13"
+  
+session_details:
+  duration_minutes: 60
+  buffer_minutes: 30
+  max_sessions_per_day: 3
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
+    key_results: 
+      - "Key Result 1: Improve satisfaction with our web and mobile products by 5 points"
+      - "Key Result 2: We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction"
+      - "Key Result 3: 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error"
+      
+veteran_journey_phases:
+  - "Dying"
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - ""
+    
+tags:
+  - "pension"
+  - "survivors-benefits"
+  - "21P-534EZ"
+  - "usability-testing"
+  - "dependents"
+  - "family-benefits"
+---
+
+	 # Research Plan for Bio-Huntridgelabs, VA Form 21P-534EZ (Application for DIC, Survivors Pension, and/or Accrued Benefits), Jan 2026
 
 ## Background 🏗️
 	
