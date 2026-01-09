@@ -213,6 +213,8 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 
 - `At least 5 that have applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits`
 - `At least 5 that have NOT applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits`
+- `At least 4 are surviving spouses of a Veteran`
+- `At least 4 are surviving children of a Veteran`
 - `At least 5 people with a cognitive disability (e.g., TBI)`
 - `At least 5 have a smartphone to use for the session and...`
     - `Have Zoom downloaded to their smartphone prior to the session and know how to share their screen`
@@ -228,8 +230,8 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 
 - `At least 5 people who are age 55 or older`
 - `At least 2 people who are LGBTQ+`
-- `At least 2 people of color`
-- `At least 2 women`
+- `At least 5 people of color`
+- `At least 6 women`
 - `At least 3 people who don't have any degree or vocational training after high school`
 - `At least 3 people who live in a rural or remote area`
 
@@ -238,16 +240,21 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 1. Have you ever applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits?
     - No (RECRUIT 5)
     - Yes (RECRUIT 5)
-2. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+2. Which of the following best describes your relationship to the deceased Veteran?
+    - Surviving spouse (RECRUIT 4)
+    - Adult child who is 18-23 years old and still in school (RECRUIT 4 adult children of either group)
+    - Adult child who developed a permanent disability before age 18 (RECRUIT 4 adult children of either group)
+    - Other (DISQUALIFY)
+3. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
     - No
     - Yes (RECRUIT 5 and RECORD as having a cognitive disability)
-3. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+4. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
     - No
     - Yes (RECRUIT 2)
-4. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
+5. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
     - No
     - Yes (RECRUIT 5)
-5. What time zone are you located in? (RECORD)
+6. What time zone are you located in? (RECORD)
 
 ### Screening questions for AT
 
@@ -317,6 +324,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `01/28, Day, 10:00 AM-4:00 PM EST`
 - `01/29, Day, 10:00 AM-4:00 PM EST`
 - `01/30, Day, 10:00 AM-4:00 PM EST`
+- `02/02, Day, 10:00 AM-4:00 PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
