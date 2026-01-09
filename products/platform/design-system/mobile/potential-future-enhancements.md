@@ -4,8 +4,45 @@ This is a document to keep track of big picture future enhancements around the m
 
 As of the creation in January 2026, this is comprised of ideas carried over from the prior mobile design system team when it was part of the VA Mobile App contract before being rolled into the VA Design and Forms Systems contract. That may change over time.
 
-List of projects:
-* Placeholder
+Note: VAHB stands for "VA Health and Benefits" AKA the flagship mobile app.
+
+General template of potential projects:
+>* Project title
+>   * Summary: A brief explanation of what it intends to do
+>   * Justification: A brief explanation of why it should be done
+>   * Ticket(s): Any ticket(s) associated with the work including: old tickets for it that were closed, the ticket that originated the potential future enhancement, etc.
+
+List of projects (in no particular order):
+* Component search and statistic gathering
+   * Summary: Create a tool to determine component usage by consumers of the mobile components
+   * Justification: Tooling exists for web components, is a gap that it doesn't for mobile components
+   * Ticket(s) below: 56
+* Evaluate Patterns
+   * Summary: Determine how mobile wishes to handle patterns (in components package? separate package?)
+   * Justification: One pattern-like behavior was noted around the Link component where almost every instance of a phone number in the VAHB app is accompanied by the TTY number--two Link's stacked together
+   * Ticket(s) below: 83
+* Native Components/Functionality
+   * Summary: Explore implementing native iOS/Android (non-React Native) components or functionality
+   * Justification: We already encountered one case with the Link's add to calendar variant which in VAHB uses native code/functionality to determine the user's default calendar app and then pull it up prefilling the details; in an ideal world the components are platform-level logic that would/could handle such platform-level operations so app teams wouldn't have to
+      * In theory, it's ideal for the components to pull out such functionality to streamline using components for consumers
+      * In practice, it's technically challenging (potentially not possible) because native code needs to be integrated with the build process of the app and it's not readily clear if/how that might work for logic being pulled in via an NPM package--at the very least, it'd require special app-level config
+      * As long as VAHB is the only consumer of the components, this is a lesser priority because they already have the native code for any current uses and components can just provide a passthrough
+      * There's an argument to be made such native code doesn't belong in the components themselves since it's likely more business logic than UI
+         * Potentially if we ever did this, it should be a new package for sharing the core business logic--used by default in the components, but living separately and also accessible by consumers separately
+   * Ticket(s) below: 124, 169, 192, 204, 514 (potentially--it's possible React Native adds support for custom focus style functionality eventually)
+* Explore Improved Components Package Publish Config
+   * Summary: The components package has a messy try/catch logic to determine if it's being loaded from our Storybook sandbox environment or a consuming app--this effort would fix that
+   * Justification: This is a very simple change for significant improvement, but was not implemented for one reason: Yarn is bugged, posting about having it fixed was ignored, and 2 years later it still is believed bugged--if the bug is ever fixed by Yarn to work correctly (or we move to pnpm where it does work), this is a no brainer to do
+   * Ticket(s) below: 136
+* Link Post-MVP Improvements
+   * Summary: Improvements identified for the Link component during creating it or during implementation in VAHB
+   * Justification: Simply items that were determined out of scope for incorporation in the Link MVP implementation for one reason or another
+   * Ticket(s) below: 169, 172, 186, 211, 214, 221, 225, 315, 571
+* Inline Link Component
+   * Summary: Tied to above Post-MVP items, but intended to be part of MVP until running into technical hurdles and only having one use case in VAHB
+   * Justification: A nice-to-have companion to the Link component
+   * Ticket(s) below: 186, 203
+* In progress @ ticket 212
 
 
 The source material from [a comment on Ticket 5344](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/5344#issuecomment-3687644923) that went through the old board:
