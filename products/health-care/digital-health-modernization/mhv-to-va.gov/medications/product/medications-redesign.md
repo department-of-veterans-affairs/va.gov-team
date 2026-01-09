@@ -19,15 +19,15 @@ Related/Associated product(s) [Medications product outline](https://github.com/d
 
 ## <a name="problem"></a>Problem statement
 
-Today, users are experiencing significant findability issues and struggling to accomplish several of these tasks. These problems have been consistently reported for over 18 months in the product, and despite small changes, we are not seeing marked improvements as reported by users.
+Today, users are experiencing significant findability issues and struggling to accomplish key medication management tasks. These problems have been consistently reported for over 18 months in the product, and despite small changes, we are not seeing marked improvements as reported by users.
 
-**Significant user challenges include: **
-* What they need to "do" to get more of their medication (renewal v. refill) and where to do that,
+**User pain points:**
+* Users regularly report difficulty figuring out what they need to "do" to get more of their medication (renewal v. refill) and where to do that,
 * Finding status information on refills after they've been requested,
 * Understanding the refill process and what various statuses in this process mean,
 * How to view/print/download a list of their "current" or "active" medications to share with providers at appointments
 
-These problems cross several medications tasks, touch most objects in the data model, impact the majority of users, and have been known for a long time. This have led us to take on "blue sky" design discovery ideation to explore changing (expanding) the footprint of the existing Medications tool. 
+These problems cross several medications tasks, touch most objects in the data model, impact the majority of users, and have been known for a long time. This has led us to take on "blue sky" design discovery ideation to explore changing (expanding) the footprint of the existing Medications tool. 
 
 ## <a name="user"></a>User outcomes
 ### Desired user outcomes
