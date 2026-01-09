@@ -36,7 +36,7 @@
 
 **Date range for metrics**: December 1, 2025 - December 31, 2025
 
-- **Total downloads since launch (01/01/2020)**: 1,562,153(A) + 2,547,955(iOS) =
+- **Total downloads since launch (01/01/2020)**: 1,562,153(A) + 2,547,955(iOS) = 4,110,108
 - **New monthly downloads**: 36,870(A) + 42,672(iOS) = 71,715
 - **Monthly active users**: 1,647,628
 - **Monthly new users**: 189,284
