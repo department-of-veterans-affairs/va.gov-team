@@ -98,7 +98,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 - [If “**Uncaught runtime errors**”, close with “X” (label “dismiss”) in top right corner, leave site if prompted. 
   - Check my browser window to see if codespace shut down. 
-  - If so, restart it. Then have them click on the Apron button to resume/start over.]
+  - If so, restart it. Then have them click on the Apron link to resume/start over.]
 
 # Warm-up Questions - 5 minutes
 
@@ -182,7 +182,7 @@ Please click the (green) "Continue" button.
 
 **(If using screen magnifier but can’t see zoomed screen over Zoom)** Is your screen magnified? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
 
-Please **talk aloud** about what you're thinking BEFORE clicking on anything. 
+Please **talk aloud** about what you're thinking BEFORE you click/tap on anything. 
 
 I'd like you to fill out VA form 20-10206 ["20 10 206"] to request your military records. How might you find that form? 
 
@@ -192,19 +192,20 @@ I'd like you to fill out VA form 20-10206 ["20 10 206"] to request your military
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apron** button at the top of the page [to auth intro page and Task 2].
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Apron** link at the top of the page [to auth intro page and Task 2].
 
 ### Path 1B: Participant finds form before signing in
 
 [What do they want to do next?]
 
-OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Umbrella** button at the top of the page [to unauth intro page and Task 2].
+OK, let's pretend that you just [searched/whatever they say] and you landed on a new page. Please click the **Umbrella** link at the top of the page [to unauth intro page and Task 2].
 
 [(green) "Continue" button --> **Sign in to start your request**]
 
-## Task 2: Start your request [from Auth Intro Page]
+[If p looking for “Skip to the content” link and the page loaded scrolled down, tell them to look farther up on the page]
 
-Please share any **thoughts, reactions, or questions** you have about the current page.
+
+## Task 2: Start your request [from Auth Intro Page]
 
 ### Watch for:
 - [Any comments about this page looking like the page before? Y / N]
@@ -218,12 +219,13 @@ Please share any **thoughts, reactions, or questions** you have about the curren
 
 Please fill out this form to request your own military records, but I want you to make up fake details so you don't share your personal information with me. 
 
-[If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
+And please **talk aloud** with any thoughts, reactions, or questions you have.
 
 ### Watch for:
 - [Feedback on form fields]
 - [Feedback on interstitial page about saving]
-- [Click on links on the interstitial page? My VA / form intro page]
+- [Any confusion re links being on the interstitial page? Y / N] 
+  - [Clicked on them? My VA / form intro page]
   - [If so, ASK] What did you expect? What did you find?
 
 [Note: If click on anything that goes outside the codespace, ask participant to go back in your browser.]
@@ -231,13 +233,13 @@ Please fill out this form to request your own military records, but I want you t
 ## Task 4: Take a break in filling out form (after enter phone number, before email address) 
 Let's say that you're hungry and need to take a break to eat a snack/lunch/dinner. What will you do with the form that you're filling out?
 
-- [leave open in browser / close browser / Finish later button / Sign out / __________________]
+- [leave open in browser / close browser / Finish later button / Chris > Sign out]
 
 
 - [If didn't sign out or close browser] 
   - In 30 minutes, your session will time out and you will be signed out. 
   - To simulate that, could you please sign out now? 
-  - [Please click on the **Hat** button]
+  - [Please click on the **Hat** link]
   
 - What do you think will happen to the information you entered?
   
@@ -248,7 +250,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
   - [Noticed "Your records request has been saved"? Y / N]
 
 ## Task 5: Resume filling out form [from unauth VA.gov]
-[If they're not on the unauth VA.gov home page, ask them click on the **Hat** button]
+[If they're not on the unauth VA.gov home page, ask them click on the **Hat** link]
 
 OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. How would you get back to your unfinished form?
 
@@ -284,12 +286,13 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
      1. [Did they remember what the interstitial page said? Y / N]
 
 1. **How long do you expect the information you entered to be saved if you haven’t submitted the form?**
-     1. VA saves your information for 60 days. What do you think happens to your information after 60 days? [deleted / __________________________]
-     1. Would it be helpful if you were notified that you had incomplete forms that haven’t been submitted? 
-          1. If so, when would you like to be notified? How often? 
+     1. VA saves your information for 60 days. What do you think happens to your information after 60 days? [deleted]
+     1. Would it be helpful if you were notified if you have incomplete forms that haven’t been submitted? 
+          1. [If so] When would you like to be notified and why? [How often?]
      1. Have you left a VA form unfinished before?
+          1. [If so] What happened? Did you go back?
      1. Would you like to be able to delete a form you started but didn't finish?
-          1. If so, why? 
+          1. [If so] Why? 
 
 1. If you had a magic wand and could change *anything* about *how we save your information* before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
