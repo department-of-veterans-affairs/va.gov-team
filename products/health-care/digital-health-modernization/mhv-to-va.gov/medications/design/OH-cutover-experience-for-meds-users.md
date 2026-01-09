@@ -49,4 +49,5 @@ How will we communicate these changes to Veterans?
 ### Questions to answer: 
 1. Renewals rely on SM, which goes dark on T-6. So I think we need to cut off renewal link functionality at T-6 rather than T-5. Thoughts?
 2. How best to handle the fact that renewals and refills go dark at diff times? Was thinking to keep alert content focused on refills functionality, and then include the messaging of "you can't request a renewal" in the Meds cards where renewals are eligible. Thoughts?
-3. How long should we keep the Yellow "you can do stuff" alert up for? 
+3. Should we hold on launching the revised experience for Meds? Given that it will affect where things will be surfaced. 
+4. How long should we keep the Yellow "you can do stuff" alert up for? 
