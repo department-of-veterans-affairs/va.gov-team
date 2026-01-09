@@ -101,6 +101,10 @@ Longer term ideas are stored in our [ARM Future Ideas](https://dvagov.sharepoint
 3. [Representative Status Widget Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status/technical-documentation/product-playbook-incident-response-plan.md)
 4. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status/contact-center) (with screenshots)
 
+Related Profile documentation
+1. [Figma files](https://www.figma.com/design/FTwQPg1HxfiYsSh0e1HqvN/Profile---Dependents-and-contacts?node-id=1-27&t=Q8Naquq1eob20Deg-1)
+2. [GH use case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
+
 ## **Communications**
 
 1. **Team Name**: Accredited Representation Management
