@@ -70,7 +70,7 @@ These problems cross several medications tasks, touch most objects in the data m
 ### Assumptions/Risks
 
 ### What you're building
-We are making several front-endd architectural changes to the medications product (**WEB only for now**) with this initiative (pending user research results, which could change some planned approaches): 
+We are making several front-end architectural changes to the medications product (**WEB only for now**) with this initiative (pending user research results, which could change some planned approaches): 
 1. Updating the Medications landing page (entry point) to be action-oriented. Page hierarchy will prioritize top-tasks in the tool 
 2. Moving refill functionality to the landing page and removing the dedicated `/medications/refill` page from the product
 3. Building a new  `/medications/in-progress` page to surface status and shipping information for in-progress refills
