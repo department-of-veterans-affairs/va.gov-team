@@ -35,7 +35,7 @@ How will we communicate these changes to Veterans?
 
 2. **Blocking functionality:**
   - T-5: disable renewal links. Add content in medication card (maybe?) telling patients they can't renew.
-  - T-3: disable refill functionality. Include error message if try to submit order? Need to discuss what's feasible.
+  - T-3: disable refill functionality. Include error message if try to submit order? Need to discuss what's feasible. Remember to think about how this might be impacted if we surface refill link on cards. 
 
 3. **Letting them know they can do stuff again and what's different**
   - Yellow alert: T+2 - TBD - message telling patients they can do thing. Content pointing towards R&S page describing what's different.
@@ -46,7 +46,7 @@ How will we communicate these changes to Veterans?
 - I believe they will receive a single alert listing the facilities cutting over, but need to confirm with DK's write-up
 
 **What will this be like for folks with multiple facilities cutting over at different times?**
-- If they have facilities overlapping in cutover time, they will receive multiple alerts communicating different dates, depending on when facilities are cutting over. This is not great but is the least bad option. 
+- If they have facilities overlapping in cutover time, they will receive multiple alerts communicating different dates, depending on when facilities are cutting over. This is not great but is the least bad option.
 
 ### Questions to answer: 
 1. Renewals rely on SM, which goes dark on T-6. So I think we need to cut off renewal link functionality at T-6 rather than T-5. Thoughts?
