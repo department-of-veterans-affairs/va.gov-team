@@ -52,15 +52,21 @@ How will we communicate these changes to Veterans?
 
 ### Questions to answer: 
 1. Renewals rely on SM, which goes dark on T-6. So I think we need to cut off renewal link functionality at T-6 rather than T-5. Thoughts?
-     Decision: Renewals gets cut off at T-6
+
+   Decision: Renewals gets cut off at T-6
 3. How best to handle the fact that renewals and refills go dark at diff times? Was thinking to keep alert content focused on refills functionality, and then include the messaging of "you can't request a renewal" in the Meds cards where renewals are eligible. Thoughts?
-     Decision: That's the ideal solution; need to do some technical vetting on how best to enable. 
+
+    Decision: That's the ideal solution; need to do some technical vetting on how best to enable. 
 5. Should we hold on launching the revised experience for Meds? Given that it will affect where things will be surfaced.
+
      Decision: Hold until end of April.
 7. What is the best COA for patients during the down time? Call number on prescription label?
+
      Decision: Yes
 9. How long should we keep the Yellow "you can do stuff" alert up for?
+
      Decision: Discuss w/ portal team in Thurs mtg
 11. For users with multiple facilities with one cutting over and another not: can we only disable refill functionality for meds at cutover facilities? If no, can we surface an error message ONLY for the meds submitted to cutover facilities? What is technically feasible?
-     Decision: Try to simply disable refill functionality. Meds at facility that transitioning do NOT surface in widget. Meds at facility that's NOT transitioning (in case of multiple facilities) do surface.
+
+      Decision: Try to simply disable refill functionality. Meds at facility that transitioning do NOT surface in widget. Meds at facility that's NOT transitioning (in case of multiple facilities) do surface.
       If can't do that -> surface all meds and then throw up error message at point of submitting refill request w/ CTA. 
