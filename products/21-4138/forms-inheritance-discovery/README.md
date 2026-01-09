@@ -11,8 +11,8 @@
 
 ## Design Findings
 
--
-
+- Design files set for staging as of Sep,2 2025 ([Staging 21-4138 Figma](https://www.figma.com/design/w2tRlZ5qJSOF968XoWzBRg/Staging-%7C-21-4138---Submit-a-statement-to-support-a-claim?node-id=3822-19206))
+- No imposter components found at this time
 
 ## Technical Findings
 
@@ -89,9 +89,14 @@
 
 ## Level of Effort
 
--
+_Teams often start with T-shirt sizes during early planning, then refine into story points later._
+
+- 👕 Design = Small
+- 👕 Content = Small
+- 👕 Monitoring = Small
+- 👕 Engineering = Small
 
 
 ## Next
-
-- 
+- Pathways to continue work: Blocked untill deployment
+- Follow [forms team progress](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4138/readme.md#current-state-of-things)
