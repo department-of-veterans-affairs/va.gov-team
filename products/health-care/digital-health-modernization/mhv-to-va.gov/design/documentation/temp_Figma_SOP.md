@@ -1,5 +1,5 @@
-# Figma SOP (temporary)
-VA is currently working on a Figma SOP that will be handed down. When that happens, we'll switch over and follow that SOP, and this one will become irrelevant. For that reason, this temporary version is only a write-up of the general idea of how Kaitlin Fink (previous UX design lead of the portal) wanted teams to set up their Figma files. This is all in an attempt to keep this SOP pretty light.
+# Figma Standard Operating Procedure (SOP)
+VA is currently working on a Figma SOP that will be handed down. When that happens, we'll switch over and follow that SOP, and this one will become irrelevant. For that reason, this temporary version is only a write-up of the general idea of how Kaitlin Fink (previous UX design lead of the portal) wanted teams to set up their Figma files with some changes to include mobile app designs.
 
 ## Figma file organization:
 All products should have both a source of truth (SOT) file and a work in progress (WIP) file. When designs move from a work in progress to production, that is the time to update the SOT file with the new designs and/or an updated UX flow. 
@@ -8,9 +8,9 @@ All Figma SOT files should include the following pages:
 - Cover
 - Source of truth (can include UX flow as well as designs and can also be split between multiple pages)
 - Separate UX flow page (if desired)
-- Components (if applicable)
+- Components (if the team has local components that they use)
 
-**Please note:** All MHV tool teams should have an updated source of truth both for web and for the mobile app. This can be one file if desired, or split into more than (i.e. two separate SOTs, one for web, one for mobile).
+**Please note:** All MHV tool teams should have an updated source of truth both for web and for the mobile app. This can be one file if desired, or split into more than (i.e. two separate SOTs, one for web, one for mobile app).
 
 ### Cover page
 Some teams include the names of designers in the cover page. That can be a team by team decision. At a minimum, the cover page should include:
@@ -20,8 +20,8 @@ Some teams include the names of designers in the cover page. That can be a team 
 ### Source of truth
 Componentized documentation of what is currently in prod on both web and mobile app. This should include:
 - All pages/screens within the app with sample content. There's of course no need to create designs for every version of a details page, for example, covering all the content that could possibly show up there. However, if different types of users conditionally get different versions of the page, those different versions should all be in a source of truth file with explanation for which user characteristic/data triggers which version.
-- User flows for the various interactions within the app. Some teams across VA.gov separate source of truth files into key user interactions and include a user flow of that interaction at the top and screens demonstrating what each step of that interaction look like in prod lower on the same page. Other teams have one page that is all the user flows, and come up with a system to somehow connect user flows to specific design pages in the file (whether that is by link or naming convention, or some other method).
-- All tool-specific alerts
+- User flows for the various interactions within the app. Some teams across VA.gov separate source of truth files into pages that each include a key user interaction or flow. On each of those pages, they include a user flow and the screens involved in that flow. Other teams have one page in their file that includes all user flows, and come up with a system to somehow connect user flows to specific design pages in the file (whether that is by link or naming convention, or some other method). Both of these methods are fine.
+- All tool-specific alerts. If these alerts are on a specific page only, then they should show on that page in the SOT (with some information about when the alerts display) but if the alerts are tool-wide, then the alerts as components alone can be displayed with some information about where they show and in what circumstances.
 
 #### Why keep a source of truth (copy of what is in prod) in a Figma file?
 - Implementation errors in which the design in prod does not match source of truth are more quickly identified and addressed
@@ -46,7 +46,7 @@ Here are some examples of how teams have organized the web SOT page in their fil
 </details>
 
 **Some things of note:**
-- You may notice that these examples are not inclusive of mobile web designs. Ideally, they would include mobile designs alongside the desktop designs.
+- Ideally, SOT would include mobile designs alongside all desktop designs and vice versa (so when there is a web design, there is both a version for mobile phones and for desktop computers)
 - All designs are within labeled sections and there are no additional screens/designs that are floating on the sides or elsewhere on the page. This is crucial. The most important thing about these SOT files (besides that they contain all in prod designs) is that they are clearly organized and tidy.
 - The way these teams have organized their SOTs in the past have included all their designs on one page. That is very helpful for stakeholders and others who are not familiar with your team's figma file structure to find what they're looking for (since they're all clearly labeled on one page). If your team decides to split the SOT into multiple pages, please work to make this as intuitive as possible for folks who might be new to or very rarely see your file. 
 
