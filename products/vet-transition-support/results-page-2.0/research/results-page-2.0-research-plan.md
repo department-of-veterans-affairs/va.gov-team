@@ -194,7 +194,7 @@ If the redesigned Results Page does not improve ease of use or satisfaction, we 
 
 ## Research Materials 📔
 
-* [Conversation Guide]([https://github.dev/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/results-page-2.0/research/results-page-2.0-conversation-guide.md)
+* [Conversation Guide](https://github.dev/department-of-veterans-affairs/va.gov-team/tree/master/products/vet-transition-support/research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/results-page-2.0/research/results-page-2.0-conversation-guide.md)
 * [Prototype in Figma](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?node-id=1440-17227&p=f&t=lx8QzjGrOZy0eUR2-0)
 * [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
 * [Prototype 2 (checkbox)](https://fuzzy-disco-9v77w75p4q3x7rj-3001.app.github.dev/discover-your-benefits)
