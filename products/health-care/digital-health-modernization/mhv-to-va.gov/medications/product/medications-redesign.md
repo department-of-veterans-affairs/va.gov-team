@@ -57,7 +57,8 @@ These problems cross several medications tasks, touch most objects in the data m
   
 ## <a name="metrics"></a>Measuring success
 
-### OKRs
+### Post-launch metrics monitoring plan
+TBD
 
 ### KPIs
 
@@ -81,9 +82,8 @@ We are making several front-end architectural changes to the medications product
 
 
 ## <a name="solution"></a>Solution approach
-### Launch strategy
-### Launch planning
-**Collaboration cycle**
+
+### Collaboration Cycle
 * [Kickoff ticket] (Link)
 * PO Sync [Date]
 * Architecture review [Date]
@@ -91,10 +91,12 @@ We are making several front-end architectural changes to the medications product
 * Midpoint review [Date]
 * Staging review [Date]
 
+### Launch plan
+* [Release plan documented here] - [_make copy of this .md file and draft release plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
 **Timeline for release**
 * **Target launch date**: end of March 2026
 * **Actual launch date**: TBD
-
 
 ## Additional resources
 * [Figma file](https://www.figma.com/design/VunyfNQ9x7Bt58D9B2qnW5/%F0%9F%92%A1-Working-file--MHV-Medications---Devices-?node-id=6299-8780&p=f&t=pKPeR79R5PbD23z0-0)
