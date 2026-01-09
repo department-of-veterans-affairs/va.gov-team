@@ -20,6 +20,7 @@ UPDATED for Profile 2.0
    - [Messages signature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/messages-signature.md)
    - [Scheduling preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/health-care-settings/scheduling-preferences.md)
 - [Dependents and contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/dependents-contacts/dependents-contacts-landingpg.md)
+   - [Accredited representative or VSO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
    - [Dependents on file](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)*
  
 _*Pages with an asterisk link to pages outside the profile and are not managed by the Authenticated Experience team. We have linked to the respective product pages for reference only._
@@ -27,7 +28,6 @@ _*Pages with an asterisk link to pages outside the profile and are not managed b
 IN PROGRESS of updating
 - [Military information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/military-information/use-cases#readme)
 - [Veteran Status Card use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2a42df2061f41efc2d25fe9a33ffd0e3578961b5/products/veteran-status/v2-IIR/Research/use-cases.md)
-- [Accredited representative or VSO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
 - **Communication settings**
   - [Notification settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
   - NEEDS UPDATING [Paperless delivery use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
