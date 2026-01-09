@@ -52,13 +52,11 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
 ## A user is returned as ELIGIBLE from `/eligibility/determination`
 
-- Automatic COEs:
-
-  - If the determination comes back as ELIGIBLE, and a 404 response is returned from `/eligibility/application`, this means that no COE application was found and an automatic COE is created. The user will see this page - a green alert with the reference number and a download link below.
+- If the determination comes back as ELIGIBLE, and a 404 response is returned from `/eligibility/application`, this means that no COE application was found and an automatic COE is created. The user will see this page - a green alert with the reference number and a download link below.
 
 <img width="803" height="785" alt="Screenshot 2026-01-07 at 4 24 13 PM" src="https://github.com/user-attachments/assets/72c1c213-5bee-4cba-90a1-dd4fbd3de078" />
 
-  - If the determination comes back as ELIGIBLE, and a 200 response is returned from `/eligibility/application`, this means that a COE application was found and an active COE exists (not created automatically). The user will see this page - no green alert but a link to download their COE.
+- If the determination comes back as ELIGIBLE, and a 200 response is returned from `/eligibility/application`, this means that a COE application was found and an active COE exists (not created automatically). The user will see this page - no green alert but a link to download their COE.
 
 <img width="773" height="667" alt="Screenshot 2026-01-07 at 4 25 48 PM" src="https://github.com/user-attachments/assets/5ef2c6a2-eb77-4d21-8ced-d83f07866d05" />
 
