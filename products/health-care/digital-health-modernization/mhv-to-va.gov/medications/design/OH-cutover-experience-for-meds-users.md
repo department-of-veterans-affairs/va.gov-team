@@ -43,11 +43,15 @@ How will we communicate these changes to Veterans?
 ### Considerations
 
 **What will this be like for folks with multiple facilities cutting over at the same time?**
+- I believe they will receive a single alert listing the facilities cutting over, but need to confirm with DK's write-up
 
 **What will this be like for folks with multiple facilities cutting over at different times?**
+- If they have facilities overlapping in cutover time, they will receive multiple alerts communicating different dates, depending on when facilities are cutting over. This is not great but is the least bad option. 
 
 ### Questions to answer: 
 1. Renewals rely on SM, which goes dark on T-6. So I think we need to cut off renewal link functionality at T-6 rather than T-5. Thoughts?
 2. How best to handle the fact that renewals and refills go dark at diff times? Was thinking to keep alert content focused on refills functionality, and then include the messaging of "you can't request a renewal" in the Meds cards where renewals are eligible. Thoughts?
-3. Should we hold on launching the revised experience for Meds? Given that it will affect where things will be surfaced. 
-4. How long should we keep the Yellow "you can do stuff" alert up for? 
+3. Should we hold on launching the revised experience for Meds? Given that it will affect where things will be surfaced.
+4. What is the best COA for patients during hte down time? Call number on prescription label? 
+5. How long should we keep the Yellow "you can do stuff" alert up for?
+6. For users with multiple facilities with one cutting over and another not: can we only disable refill functionality for meds at cutover facilities? If no, can we surface an error message ONLY for the meds submitted to cutover facilities? What is technically feasible? 
