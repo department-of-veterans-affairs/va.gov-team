@@ -155,7 +155,7 @@ We will use insights from this study to make **data-informed decisions** about t
 
 1.  Do the design changes we’ve made to the results page make users better able to accomplish their goals of discovering, exploring, and understanding benefits that are most relevant to them?
 2.  Are the redesigned filters usable and accessible? Criteria: 70% of users independently find filters. 70% of users who interact with filters are able to use them successfully. 
-3.  Are the redesigned benefit cards usable and accessible? Criteria: No more than 2 assisitve technology errors while exploring results page. For non-AT users, usability will be evaluated by comparing to questions asked and negative feedback from July 2025 study. 
+3.  Are the redesigned benefit cards usable and accessible? Criteria: No more than 2 assistive technology errors while exploring results page. For non-AT users, usability will be evaluated by comparing to questions asked and negative feedback from July 2025 study. 
 4.  Are time sensitivity, recommendation vs non-recommendation of benefits, and potential eligibility clear? Criteria: Usability will be evaluated by comparing to questions asked and negative feedback from July 2025 study. This study identified user challenges with the framing of "recommended" vs "all", and the prototype we're testing is designed to address this confusion.
 5.  Is the redesigned sorting function usable and accessible? Criteria: 70% of users correctly identify that the default sort is by time sensitivity/expiration date. 
 6.  Which prototype has better filtering usability for seeing recommended benefits vs all benefits - radio buttons or checkbox? Criteria: Comparing observational insights of overall ease of interaction with the results page. 
@@ -323,7 +323,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Jan 21, Wed, 11:00 AM - 5:00 PM`
 - `Jan 22, Thu, 11:00 AM - 5:00 PM`
 - `Jan 23, Fri, 11:00 AM - 5:00 PM`
-- `Jan 26, Fri, 11:00 AM - 5:00 PM`
+- `Jan 26, Mon, 11:00 AM - 5:00 PM`
 ---
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
