@@ -48,4 +48,4 @@ N/A
 1. Should we let then know transition is done T+0 or T+2 to align with Sm and Meds?
 2. Where are we on the in-app messaging for differences related to BB and CCD?
 3. How to handle L&T notifications disparities? Surface in R&S? 
-4. How to handle 
+4. I've never heard mention of this, but they're not duplicating the records correct? It's not a medications situation? Will the records look any different? 
