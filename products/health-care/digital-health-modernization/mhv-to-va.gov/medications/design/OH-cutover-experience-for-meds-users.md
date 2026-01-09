@@ -1,7 +1,7 @@
 # WIP
 
 # Meds experience during data migration for transitioning OH sites
-This doc explains patients' medications experience during the data migration period when their facility transitions to OH. The migration period is when we'll block users from sending or replying to messages at transitioning facilities. This is to prevent data loss.
+This doc explains patients' medications experience during the data migration period when their facility transitions to OH. The migration period is when we'll block users from requesting medication refills or renewals at transitioning facilities. This is to prevent data loss and silent failures.
 
 In this doc: 
 - [Upcoming sites](#upcoming-sites)
