@@ -43,8 +43,11 @@ In this research we are specifically exploring Veteran and business (education) 
 
 ## Key Findings
 **1. Finding 1:** Veterans (77% of inquiries) and business submitters (19% of inquiries) have very different use cases for the category/topic, subject, question, and attachments. ​
+
 **2. Finding 2:** Both submitters, but primarily Veterans, need reassurance throughout their experience with Ask VA to ask their question “correctly”, so that it gets them the answer they are searching for. ​
-**3. Finding 3:** The list view aligned more closely with users’ mental models and supported easier navigation.
+
+**3. Finding 3:** The list view aligned more closely with users’ mental models and supported easier navigation
+
 **4. Finding 4:**​ Business submitters need different fields in their inbox than Veterans do
 
 ## Details of Findings 
