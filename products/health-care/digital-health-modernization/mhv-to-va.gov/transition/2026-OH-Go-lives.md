@@ -24,7 +24,7 @@ The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which 
 |-----|-----|-----|----|
 |VA Detroit Healthcare System | Detroit, MI | 10 | `VHA_553` |  
 |VA Saginaw Healthcare System | Saginaw, MI | 10 | ?? | 
-|VA Ann ARbor Healthcare System | Ann Arbor, MI | 10 | `VHA_506` | 
+|VA Ann Arbor Healthcare System | Ann Arbor, MI | 10 | `VHA_506` | 
 |VA Battle Creek Medical Center | Battle Creek, MI | 10 | `VHA_515` | 
 
 ### Round 2 (Go-live: June 6, 2026)
