@@ -10,6 +10,7 @@
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 - [ ] EZ Tech discovery on additional form statuses on MyVA
 - [ ] CG Restrict facilities parameters
+- [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
 ### 10-10EZR
@@ -19,6 +20,9 @@
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121080](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121080) - [UX] Update EZR SOT for Household sections
+
+#### Obj: EZR [ECNOK on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
+- [ ] **SPRINT GOAL** [#129581](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129581) - [UX] Review existing designs
 
 ##
 ### 10-10EZ
@@ -41,8 +45,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Financials - Wrap up QA & prep for launch
-- [ ] EZR Launch V2 Financials
+- [ ] EZR Complete Launch V2 Financials
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
 - [ ] EZR Service history Attend VA Profile meeting
@@ -53,11 +56,6 @@
 ### 10-10EZR
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
-     - [ ] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled
-
-#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#120277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120277) - [Eng, PM] Launch financials at 5%
 - [ ] **SPRINT GOAL** [#120278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120278) - [Eng, PM] Launch financials at 25%
 - [ ] **SPRINT GOAL** [#120279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120279) - [Eng, PM] Launch financials at 50%
 - [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
@@ -93,7 +91,8 @@
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
 - [x] EZ & EZR RUM logs active in production
 - [x] VA Notify API Keys rotated in prod
-- [ ] EZR Financials - Wrap up QA & prep for launch
+- [x] EZR Financials - Wrap up QA & prep for launch
+- [ ] EZR Financials - Begin launching at 10%
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
 - [ ] All Forms `find-forms` URL audit
@@ -107,9 +106,10 @@
 
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
+- [x] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
      - [x] [#128256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128256) - [FE] Selecting "No" to adding income and then going back leads to empty page 
-     - [ ] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled
+     - [x] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled
+- [ ] **SPRINT GOAL** [#120277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120277) - [Eng, PM] Launch financials at 10%
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
