@@ -38,4 +38,14 @@ How will we communicate these changes to Veterans?
   - T-3: disable refill functionality. Include error message if try to submit order? Need to discuss what's feasible.
 
 3. **Letting them know they can do stuff again and what's different**
-  - Yellow alert: T+2 - T+30 - message telling patients they can do thing. Content pointing towards R&S page describing what's different. 
+  - Yellow alert: T+2 - T+30 - message telling patients they can do thing. Content pointing towards R&S page describing what's different.
+
+### Considerations
+
+**What will this be like for folks with multiple facilities cutting over at the same time?**
+
+**What will this be like for folks with multiple facilities cutting over at different times?**
+
+### Questions to answer: 
+1. Renewals rely on SM, which goes dark on T-6. So I think we need to cut off renewal link functionality at T-6 rather than T-5. Thoughts?
+2. How best to handle the fact that renewals and refills go dark at diff times? Was thinking to keep alert content focused on refills functionality, and then include the messaging of "you can't request a renewal" in the Meds cards where renewals are eligible. Thoughts? 
