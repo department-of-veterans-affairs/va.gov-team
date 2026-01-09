@@ -207,6 +207,8 @@ OK, let's pretend that you just [searched/whatever they say] and you landed on a
 
 ## Task 2: Start your request [from Auth Intro Page]
 
+I'd like you to fill out VA form 20-10206 [“20 10 206”] to request your military records. 
+
 ### Watch for:
 - [Any comments about this page looking like the page before? Y / N]
 
@@ -217,7 +219,7 @@ OK, let's pretend that you just [searched/whatever they say] and you landed on a
 ## Task 3: Fill out form 
 *[never reload the page; use **Back** button in browser if ever see a spinning cursor]*
 
-Please fill out this form to request your own military records, but I want you to make up fake details so you don't share your personal information with me. 
+Please fill out this form to request your military records, but I want you to make up fake details so you don't share your personal information with me. 
 
 And please **talk aloud** with any thoughts, reactions, or questions you have.
 
@@ -252,7 +254,7 @@ Let's say that you're hungry and need to take a break to eat a snack/lunch/dinne
 ## Task 5: Resume filling out form [from unauth VA.gov]
 [If they're not on the unauth VA.gov home page, ask them click on the **Hat** link]
 
-OK, now let's say that you're back from eating. Please resume filling out the form that you were working on. How would you get back to your unfinished form?
+OK, now let's say that you're back from eating. Please resume filling out the form that you were working to request your military records. How would you get back to your unfinished form?
 
 - [Record how resume form:]
   - Sign in --> My VA --> form card --> Continue your request
@@ -260,6 +262,10 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
   - [If they say “Umbrella”] How would you do this with the real VA.gov web page if we weren’t in this session together?
 
 [If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
+
+[If p isn’t proceeding] Now you can continue filling out the form.
+
+[If get runtime error with Edit citizenship button, close it twice with the X at far R side of the page]
 
 ### Watch for:
 - [Realize that they have to sign in before returning to the form?]
@@ -279,7 +285,7 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
 
 1. **When did you expect the information you entered into this VA form to be saved?**
 
-     1. [After every change / field / page / Finish later / Continue button / only after submitting]
+     1. [After every change / field / page / Finish later / Continue button / only after submitting--–ASK for clarification if needed]
      1. How do you know? 
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
