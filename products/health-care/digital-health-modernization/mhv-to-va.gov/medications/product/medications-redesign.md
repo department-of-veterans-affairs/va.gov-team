@@ -78,7 +78,7 @@ We are making several front-end architectural changes to the medications product
 4. De-prioritizing the medications history list, which was formerly the entrypoint to the tool. This content will move off of the /medications landing page and to a new `/medications/history` page in the tool that we route users to for specific tasks only, including: (a) Viewing / printing / downloading a list of their medications (can be filtered/sorted); and (b) linking users to medications that require renewals (we'll pre-filter this list to only display meds that need renewals)
 
 **Diagram: planned sitemap changes:**
-<img width="1615" height="928" alt="Screenshot 2026-01-09 at 4 17 47 PM" src="https://github.com/user-attachments/assets/81d7ecf7-5154-4e41-af37-b5f35d0d7932" />
+<img width="1460" height="776" alt="Screenshot 2026-01-10 at 3 05 54 PM" src="https://github.com/user-attachments/assets/0adb459a-0979-4e05-9a7c-d6891911527a" />
 
 
 ## <a name="solution"></a>Solution approach
