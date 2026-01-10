@@ -1,57 +1,190 @@
 ## Updating the content
 
-### Product: Create the ticket
+The new App Store Images process has been streamlined to make the process easier and complete and navigate.  If a new image is required, steps need to happen in this order:
+1. Data is made to [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) as a block of code in the current file.  (Eplination of usage below)
+2. If the screen does not have a function built to access it in [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts), a function will need to be created for detox to locate the screen.
+3. When a PR is created and it detects changes to [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts), [screenshot_e2e.yml](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/workflows/screenshot_e2e.yml) will automatically run creating the screenshots.
+4. Once they are created, framed and updated, they will be copied to the folders where they are to go for the App stores.
+5. These will be committed to your PR so they may be reviewed.
+6. Once approved and merged, These screenshot updated will be pushed to the store on the next release of the app.
 
-1. Create a new ticket for the app store updates.
-2. Include content for the "What's New" section of the app stores.
-3. If content changes are needed for the app store images themselves, include the necessary updates.
-4. Request screenshots from engineering in the following sizes:
+## Updating App Store Images
 
-   - **iPhone**: 360 x 760 px (iOS Simulator or device using a 6.5” device such as iPhone 13 or 14)
-   - **iPad**: 1040 x 1504 px (iOS Simulator or device using iPad Pro 12.9”)
-   - **Android**: 180 x 380 px (Android Emulator or device using Pixel 4)
+Explanation of files:
 
-     - Make sure the corners are **not** rounded. Taking a screenshot using the camera icon in Android Emulator will result in rounded corners. To bypass this:
+### `VAMobile/e2e/screenshots`
 
-       - Go to View > Tool Windows > Logcat
-       - In the panel that pops up, click the camera icon in the left toolbar to take a screenshot without rounded corners
+```bash
+#va-mobile-app/VAMobile/e2e
+├── detoxMapping.js
+├── environment.js
+├── screenshots
+│   ├── screenshot_data.ts
+│   ├── screenshot.e2e.ts
+│   └── screenshot.utils.ts
+└── setup.ts
+```
 
-       ![Screenshot of Android emulator](/img/app-store/android-emulator.png)
+#### [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
 
-   - Engineering should then add the screenshots to [Google Drive](https://drive.google.com/drive/folders/1RdW9zwKs6savg8Eg96M556unwV_9fz8y) so that the designer can access them and the link should be added to the ticket.
+---
 
-5. Assign the ticket to a designer (typically Brea does the app store image updates)
+This file is the core of the update. The image names, devices and description is pulled from here to create the screenshots. When this file is modified and checked into a PR, A workflow will trigger, build the new images and add them to the PR.
 
-### Designer: Update the app store images
+#### [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts)
 
-1. Create a branch in the [Figma file](https://www.figma.com/file/UOTRHWoB1eNZE0M3P16Su2/%F0%9F%A7%B0-App-Store-Images---Resource---VAMobile%F0%9F%A7%B0?node-id=68%3A62&t=NFKdcdXC3Q52ZkTu-1)
-2. Update the screenshots on the “Step 1: Update screenshots” page
-3. Update images on the “Step 2: Update images” page according to the following image requirements:
+---
 
-| App Store                                                                                                    | Quantity | Category        | Image size     | Naming convention          |
-| ------------------------------------------------------------------------------------------------------------ | -------- | --------------- | -------------- | -------------------------- |
-| [iOS](https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications)                | 10       | iPhone 5.5      | 1242 x 2208 px | iphone55-screen-1.png      |
-|                                                                                                              |          | iPhone 6.7      | 1290 x 2796 px | iphone65-screen-1.png      |
-|                                                                                                              |          | iPad 12.9       | 2048 x 2732 px | ipadPro129-screen-1.png    |
-|                                                                                                              |          | iPad 2nd gen    | 2048 x 2732 px | ipadPro2ndGen-screen-1.png |
-| [Android](https://support.google.com/googleplay/android-developer/answer/9866151?hl=en#zippy=%2Cscreenshots) | 8        | Images          | 320 x 569 px   | 1_en-US.png                |
-|                                                                                                              | 1        | Feature graphic | 1024 x 500 px  | featureGraphic.png         |
+This file holds the setup functions that detox will run when it gathers the screenshots. They are named by screen and are added in [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts).
 
-4. Export the images.
+#### [screenshot_e2e.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot.e2e.ts)
 
-   - **Important:** Verify that both “ignore overlapping layers” and “include bounding box” are checked before exporting.
+---
 
-   ![Screenshot of Figma export options](/img/app-store/figma-export.png)
+This file is what detox runs when it grabs the images from the simulators. This file calls in data from [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) to make grab the correct device type. It also calls in the functions from [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts) to access the correct screens.
 
-   - For **iOS**, images must not include a transparency/alpha layer. Figma does not have a way to remove this from your PNG export, but the [Export Opaque PNG plugin](https://www.figma.com/community/plugin/1052463252412045420/Export-Opaque-PNG) can be installed and used. Alternatively, you can [follow these steps](https://stackoverflow.com/questions/26171739/remove-alpha-channel-in-an-image) using the Preview app on Mac.
-   - For **Android**, images should be exported at 4x and can be up to 8 MB per screen. The
-     - The feature graphic should be exported at 1x and can be up to 1 MB.
-   - Frames in Figma are currently named according to the app store requirements.
+### [.github/workflows/screenshot_e2e.yml](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/workflows/screenshot_e2e.yml)
 
-5. Optimize the images using [Imageoptim](https://imageoptim.com/mac).
-6. Upload the images to the [Google Drive](https://drive.google.com/drive/folders/1t_WOjaZkJKNR9oXEMczjtIePAFef2ym6).
-7. In the Github ticket, alert product that the images are located in the [Google Drive](https://drive.google.com/drive/folders/1t_WOjaZkJKNR9oXEMczjtIePAFef2ym6) and are ready for review.
-8. After product approval, the branch can be merged into the main [Figma file](https://www.figma.com/file/UOTRHWoB1eNZE0M3P16Su2/%F0%9F%A7%B0-App-Store-Images---Resource---VAMobile%F0%9F%A7%B0?node-id=68%3A62&t=NFKdcdXC3Q52ZkTu-1).
+---
+
+This is the new action that triggers when [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) is updated. This will
+
+- Run detox on ios
+- Run detox on ipad
+- Run detos on android
+
+After detox runs and gathers all the images [move_screenshots.sh](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/scripts/app-store-images/move_screenshots.sh) is run. This moves all the screenshots from there current folder `VAMobile/artifacts` to `.github/scripts/app-store-images/fastlane/screenshots/en-US`. Once they are moved [process_images.sh](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/.github/scripts/app-store-images/process_images.sh) is run. This will:
+
+- Resize all images to the proper screenshot size for the device.
+- Use `Fastlane FrameIt` to frame all the images with the correct device frames.
+- Apply the VA blue gradient to all images
+- Apply the description text from [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts) to the image in the VA chosen font.
+- Resize the images to their final size
+- Move the images from `.github/scripts/app-store-images/fastlane/screenshots/en-US` to `.github/scripts/app-store-images/framed-images`.
+
+Each screenshot group is captured as an artifact in the pipeline in case it is needed for later use. The final framed images are also captrued as an artifact so they may be viewed. When the PR is merged, it will update the images in the image folders and once the app is released to the store, the images will be updated.
+
+the proccess of getting the new images to the app store remains unchanged. when `upolad_app_store` is called from the the review lane, it will upload all screenshots in `ios/fastlane/screenshots/en-US` for ios and `android/fastlane/metadata/android/en-US/images/phoneScreenshots` for android screenshots.
+
+### Upload_app_store definition
+
+---
+
+```ts
+def upload_app_store
+    deliver(
+        submit_for_review: true,
+        automatic_release: false,
+        force: true,
+        overwrite_screenshots: true, // This line is what updates the screenshots. It will overwrite what is currently in the store with what is in the above folders
+        screenshot_processing_timeout: 300, # 5min
+        run_precheck_before_submit: false,
+        submission_information: {
+          add_id_info_uses_idfa: false
+        },
+      )
+  end
+
+```
+
+## Excerpt of [screenshot_utils.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_utils.ts)
+
+```javascript
+import { by, element, expect, waitFor } from 'detox'
+
+import {
+  ...
+  openMessages,
+  openPayments,
+  openPrescriptions,
+  openProfile,
+  openVAPaymentHistory,
+} from '../tests/utils'
+
+export const claimsId = {
+  CLAIM_1_ID_BOX:
+    'Compensation Received December 05, 2021 Step 1 of 5: Claim received Moved to this step on December 05, 2021',
+}
+
+// A collection of reusable setup functions for screenshot tests.
+// Each function should navigate to a specific screen.
+const utils = {
+  goHome: async () => {
+    await element(by.text(CommonE2eIdConstants.HOME_TAB_BUTTON_TEXT)).tap()
+    await disableAF(undefined, 'WG_Home', undefined, undefined, 'skipAppInstall')
+  },
+
+  skipUpdate: async () => {
+    try {
+      await element(by.text('Skip this update')).tap()
+    } catch (e) {}
+  },
+  ...
+
+  appointmentDetails: async () => {
+    await openHealth()
+    await openAppointments()
+    // NOTE: This is an example of specific navigation logic
+    await waitFor(element(by.text('Vilanisi Reddy')))
+      .toBeVisible()
+      .whileElement(by.id(CommonE2eIdConstants.APPOINTMENTS_SCROLL_ID))
+      .scroll(200, 'down')
+    await element(by.text('Vilanisi Reddy')).tap()
+  },
+```
+
+## Excerpt of [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
+
+```javascript
+export interface ScreenshotData {
+  testId: string
+  imageName: string | { ios?: string; android?: string; ipad?: string }
+  description: string | string[]
+  deviceType: ('ios' | 'android' | 'ipad')[]
+  setupFunction: string | string[] // The name of the function to call in screenshot.utils.ts
+  skipScreenshot?: boolean
+}
+
+export const screenshotData: ScreenshotData[] = [
+  {
+    testId: 'HomeScreen',
+    imageName: {
+      ios: 'iphone67-screen-1',
+      android: '1_en-US',
+      ipad: 'ipadPro129-screen-1',
+    },
+    description: ['Complete health care and', 'benefits transactions'],
+    deviceType: ['ios', 'android', 'ipad'],
+    setupFunction: ['goHome', 'skipUpdate'],
+  },
+  {
+    testId: 'HealthScreen',
+    imageName: {
+      ios: 'iphone67-screen-2',
+      android: '2_en-US',
+      ipad: 'ipadPro129-screen-2',
+    },
+    description: 'Access health care tools',
+    deviceType: ['ios', 'android', 'ipad'],
+    setupFunction: 'healthScreen',
+    ...
+```
+
+## Explination of data block in [screenshot_data.ts](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/e2e/screenshots/screenshot_data.ts)
+
+```javascript
+{
+    testId: 'HomeScreen', // This is the name of the screen
+    imageName: { // Image names per device
+      ios: 'iphone67-screen-1', // default ios image name
+      android: '1_en-US', // Default android image name
+      ipad: 'ipadPro129-screen-1', // Default ipad image name
+    },
+    description: ['Complete health care and', 'benefits transactions'], // Text that is to be added to the image
+    deviceType: ['ios', 'android', 'ipad'], // Devices that should be targeted by this screen update
+    setupFunction: ['goHome', 'skipUpdate'], // Functions that are to be executed.
+  },
+```
 
 ## Product: Publish the content
 
