@@ -172,7 +172,7 @@ Learnings will refine questions and improve other pain points in the form so tha
 
 ### Hypotheses
 
-`1.` Surviving spouses and children will find the questions to be clear and easy to understand.
+`1.` Surviving spouses and children will understand questions with minimal clarification.
 
 `2.` Family members won't find the number and content of the questions to be overly burdensome.
 
@@ -215,6 +215,11 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 - `At least 5 that have NOT applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits`
 - `At least 4 are surviving spouses of a Veteran`
 - `At least 4 are surviving children of a Veteran`
+- `At least 2 have or are applying for Dependency Indemnity Compensation (DIC)`
+- `At least 2 have or are applying for Survivors Pension`
+- `At least 2 have or are applying for accrued benefits`
+- `At least 2 whose loss occurred within the last 6 months`
+- `At least 2 whose loss occurred over a year ago`
 - `At least 5 people with a cognitive disability (e.g., TBI)`
 - `At least 5 have a smartphone to use for the session and...`
     - `Have Zoom downloaded to their smartphone prior to the session and know how to share their screen`
@@ -240,21 +245,29 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 1. Have you ever applied for Dependency Indemnity Compensation (DIC), Survivors Pension, or accrued benefits?
     - No (RECRUIT 5)
     - Yes (RECRUIT 5)
-2. Which of the following best describes your relationship to the deceased Veteran?
+2. Which type of benefits have you applied for or plan to apply for?
+    - Dependency Indemnity Compensation (DIC) (RECRUIT 2)
+    - Survivors Pension (RECRUIT 2)
+    - Accrued benefits (RECRUIT 2)
+3. Which of the following best describes your relationship to the deceased Veteran?
     - Surviving spouse (RECRUIT 4)
     - Adult child who is 18-23 years old and still in school (RECRUIT 4 adult children of either group)
     - Adult child who developed a permanent disability before age 18 (RECRUIT 4 adult children of either group)
     - Other (DISQUALIFY)
-3. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+4. How long has it been since the Veteran passed away?
+    - Less than 6 months ago (RECRUIT 2)
+    - 6 months to 1 year
+    - More than 1 year ago (RECRUIT 2)
+5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
     - No
     - Yes (RECRUIT 5 and RECORD as having a cognitive disability)
-4. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+6. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
     - No
     - Yes (RECRUIT 2)
-5. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
+7. Have you downloaded the Zoom app to your smartphone, do you know how to screen share, and do you have a working microphone on your phone?
     - No
     - Yes (RECRUIT 5)
-6. What time zone are you located in? (RECORD)
+8. What time zone are you located in? (RECORD)
 
 ### Screening questions for AT
 
@@ -282,9 +295,9 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:`
-- `01/12, Anytime`
 - `01/13, 12-1 or after 3:30 ET`
 - `01/14, 1-3:30 ET`
+- `01/15, 10:30-2:30 or 4-5 ET`
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -302,7 +315,7 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 - `Date and time of pilot session:` 01/14-01/22
 
 ### Research sessions
-- `Planned dates of research:` 01/22-01/30 (7 business days)
+- `Planned dates of research:` 01/26-02/04 (8 business days)
 
 ### Length of sessions
 - `Session length:` 1 hour
@@ -317,14 +330,14 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `01/22, Day, 10:00 AM-4:00 PM EST`
-- `01/23, Day, 10:00 AM-4:00 PM EST`
 - `01/26, Day, 10:00 AM-4:00 PM EST`
 - `01/27, Day, 10:00 AM-4:00 PM EST`
 - `01/28, Day, 10:00 AM-4:00 PM EST`
 - `01/29, Day, 10:00 AM-4:00 PM EST`
 - `01/30, Day, 10:00 AM-4:00 PM EST`
 - `02/02, Day, 10:00 AM-4:00 PM EST`
+- `02/03, Day, 10:00 AM-4:00 PM EST`
+- `02/04, Day, 10:00 AM-4:00 PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
