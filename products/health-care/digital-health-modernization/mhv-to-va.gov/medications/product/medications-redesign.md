@@ -13,7 +13,7 @@ January 2026
 
 
 ## <a name="overview"></a>Overview
-Medications on My HealtheVet is a critical health tool that allows users to 1.) get more the medications they need (through refills and renewals), 2.) get important directions and instructions related to managing those medications (instructions for use, dosage, etc.), 3.) check the status of requested mediations that are in-progress, and 4.) review, print, or download a list of their medications (whether "active" medications or a fuller, more comprehensive list of them). 
+Medications on My HealtheVet is a critical health tool that allows users to 1.) get more of the medications they need (through refills and renewals), 2.) get important directions and instructions related to managing those medications (instructions for use, dosage, etc.), 3.) check the status of requested mediations that are in-progress, and 4.) review, print, or download a list of their medications (whether "active" medications or a fuller, more comprehensive list of them). 
 
 Related/Associated product(s) [Medications product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications#mhv-on-vagov-medications-product-outline)
 
