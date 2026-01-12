@@ -8,6 +8,7 @@ January 2026
 * [Business outcomes](#business)
 * [Measuring success](#metrics)
 * [Discovery](#discovery)
+* [Technical](#technical)
 * [Solution approach](#solution)
 * [Communications](#communications)
 
@@ -82,6 +83,12 @@ We are making several front-end architectural changes to the medications product
 
 **Diagram: planned sitemap changes:**
 <img width="1460" height="776" alt="Screenshot 2026-01-10 at 3 05 54 PM" src="https://github.com/user-attachments/assets/0adb459a-0979-4e05-9a7c-d6891911527a" />
+
+
+## <a name="technical"></a>Technical Decisions
+
+### Technical Decisions & Architectural Changes
+* 
 
 
 ## <a name="solution"></a>Solution approach
