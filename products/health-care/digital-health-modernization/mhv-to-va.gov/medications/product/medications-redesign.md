@@ -87,7 +87,7 @@ We are making several front-end architectural changes to the medications product
 ## <a name="solution"></a>Solution approach
 
 ### Collaboration Cycle
-* [Kickoff ticket] (Linked)
+* Kickoff ticket: [linked](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129699)
 * PO sync: [Date TBD]
 * Architecture review: [Date TBD]
 * Midpoint review: [Date TBD]
