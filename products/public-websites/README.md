@@ -32,7 +32,7 @@ Monitors for each product are described within product folders. e.g.
 
 ## 
 
-| [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
+| [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) / No longer supported |
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
 | [Benefits Detail Page](#benefits-detail-page) |  [Header / footer injection](#header--footer-injection) | [Disability rating calculator](#disability-rating-calculator) |
