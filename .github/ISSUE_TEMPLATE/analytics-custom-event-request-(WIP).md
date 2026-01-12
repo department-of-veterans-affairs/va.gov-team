@@ -4,7 +4,7 @@ about: This for is for VFS teams to audit the list of custom events for each of 
   products.
 title: VFS Custom Events for [Team Name] & [Product(s)]
 labels: analytics-insights, analytics-request, new
-assignees: 'Blivaditis'
+assignees: 'markfallows'
 
 ---
 
