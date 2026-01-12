@@ -1,4 +1,4 @@
-# My HealtheVet - Medications Management Improvements / Initiative Brief
+# My HealtheVet - Meds Management Improvements / Initiative Brief
 January 2026
 
 ## On this page
