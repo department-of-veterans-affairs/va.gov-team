@@ -92,10 +92,10 @@
 - [x] EZ & EZR RUM logs active in production
 - [x] VA Notify API Keys rotated in prod
 - [x] EZR Financials - Wrap up QA & prep for launch
-- [ ] EZR Financials - Begin launching at 10%
+- [x] EZR Financials - Begin launching at 10%
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
-- [ ] All Forms `find-forms` URL audit
+- [x] All Forms `find-forms` URL audit
 - [x] CG Service Blueprint
 
 ## 
