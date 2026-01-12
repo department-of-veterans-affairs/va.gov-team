@@ -157,8 +157,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
   ## Sprint Goals - Sprint: 25 [12/31/25 - 1/13/26]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Utilize Figjam board to collaborate with team on Pay.gov overpayments| QP4 |--|--|--|
-|UX: Establish December monthly Medallia report| QP7 |--|--|--|
+|UX: Utilize Figjam board to collaborate with team on Pay.gov overpayments| QP4 |--|--|Complete|
+|UX: Establish December monthly Medallia report| QP7 |--|--|Complete|
 |ENG: Post code-freeze (January 5, 2026), confirm successful connection to Lighthouse production API.| QP4 |--|--|
 |ENG: Front end implementation of digital dispute design to eventually allow a user to one be able to submit ONE dispute per debt.| QP1 |--|--|--|
 |ENG: Implement copy functionality to allow Veterans to easily enter account numbers when paying online.| QP4 |--|--|
