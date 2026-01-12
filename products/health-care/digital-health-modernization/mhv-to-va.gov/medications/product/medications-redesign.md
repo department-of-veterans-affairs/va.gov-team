@@ -75,7 +75,7 @@ We are making several front-end architectural changes to the medications product
 1. Updating the Medications landing page (entry point) to be action-oriented. Page hierarchy will prioritize top-tasks in the tool 
 2. Moving refill functionality to the landing page and removing the dedicated `/medications/refill` page from the product
 3. Building a new  `/medications/in-progress` page to surface status and shipping information for in-progress refills
-4. De-prioritizing the medications history list, which was formerly the entrypoint to the tool. This content will move off of the /medications landing page and to a new `/medications/history` page in the tool that we route users to for specific tasks only, including: (a) Viewing / printing / downloading a list of their medications (can be filtered/sorted); and (b) linking users to medications that require renewals (we'll pre-filter this list to only display meds that need renewals)
+4. De-prioritizing the medications history list, which was formerly the entrypoint to the tool. This content will move off of the `/medications` landing page and to a new `/medications/history` page in the tool that we route users to for specific tasks only, including: (a) Viewing / printing / downloading a list of their medications (can be filtered/sorted); and (b) linking users to medications that require renewals (we'll pre-filter this list to only display meds that need renewals)
 
 **Diagram: planned sitemap changes:**
 <img width="1460" height="776" alt="Screenshot 2026-01-10 at 3 05 54 PM" src="https://github.com/user-attachments/assets/0adb459a-0979-4e05-9a7c-d6891911527a" />
