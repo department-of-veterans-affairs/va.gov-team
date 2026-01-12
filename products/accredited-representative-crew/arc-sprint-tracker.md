@@ -2,8 +2,47 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 8 (Jan 13-26, 2026)
 
-# Sprint 7 (Dec 30 - Jan 12, 2025)
+## Sprint 8 Goals
+- [ ] Sprint Goals Approved by Enablement
+
+**Team Accreditation**: 
+1. **[ARP MVP clean up] Enable individual acceptance of representation requests**: Develop data models and research all features in ARP that may need updating, design review to understand if any frontend changes will be needed
+2. **[Rep Data] Stability and Maintenance**: Job to pooulate new accredited entities, address approximation (when full rep address is invalid)
+
+**Team Benefits**:
+1. **[ITF] MVP - Development**: Launch-blocking QA findings, Datadog setup, release
+2. **[ITF] MVP - Design**: Update designs and URLs to match development
+11. **[Claimant Details] MVP - Design**: Claimant Details URLs
+
+**Team Appoint**:
+1. **ARC Team Onboarding and Setup**: General onboarding to VA and ARC onboarding
+2. **[Filter and Details] Find a Rep v3 Epic - Design**: Update v3 designs, reducing scope to only adding the organization filter
+3. **[21-22a] Research: Understand the 21-22a representation relationship and supporting VA processes**: Initial (desk) research to review past findings
+4. Address outstanding bugs
+
+**Engagement**: 
+1. **[Rep Onboarding] National Association of County Veterans Service Officers (NACVSO)**: Generate spreadsheet with missing emails (single accredited reps)
+2. **[Rep Onboarding] Colorado Division of Veteran Affairs**: Schedule meeting and generate spreadsheet with missing emails
+3. **[Rep Onboarding] Batch Outreach Strategy for SEP VSOs**: Identify unaccredited certifying officials
+4. **[Rep Communication] Set up shared support mailbox**: Investigate sending emails from shared support mailbox
+
+## Sprint 8 Demos
+
+TBD
+
+## Sprint 8 Delivery
+
+TBD
+
+## Sprint 8 Tickets
+
+TBD
+
+
+
+# Sprint 7 (Dec 30, 2025 - Jan 12, 2026)
 
 ## Sprint 7 Goals
 - [x] Sprint Goals Approved by Enablement - Jen Bertsch on December 30, 2025 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1767117172790029?thread_ts=1767054358.624309&cid=C06GE5N7QJ0))
@@ -18,9 +57,21 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 11. **[ARP Post-MVP] Cleanup Tasks**: Continue accessibility audit (686c), Create ARC SavedClaims Deletion Job, Cont. Representation Requests - Update POA endpoints to send POA data to CorpDb
 13. **[Rep Communication] Research Panel Epic**: Determine how to utilize the representative research panel, with recruitment in mind 
 
-## Sprint 7 Demos
+## Sprint 6+7 Demos (Recording Link TBD)
 
-TBD
+**Team Accreditation**:
+1. Design work on Address Approximation
+2. Document upload endpoint for Form 21a
+
+**Team Benefits**:
+1. Review Page
+2. ITF Status page: No POA
+3. ITF Status Page: Cannot Confirm ITF status
+4. ITF Status page: Existing ITF
+5. Confirmation page - ITF submission: Failed
+6. Display ITF activity in the "Recent Submissions" section of the Submissions page
+
+December Metrics Review
 
 ## Sprint 7 Delivery
 
