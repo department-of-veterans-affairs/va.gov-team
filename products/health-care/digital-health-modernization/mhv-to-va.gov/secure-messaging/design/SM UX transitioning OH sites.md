@@ -27,4 +27,8 @@ We'll display these alerts to users.
 Here's what users will and won't be able to do during the transition: 
 |What users can do during transition|What users can't do during transition|
 |---|---|
-|- Review past messages<br>- xx |- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- xx  | 
+|- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>-Save draft<br>-Create folder (VA.gov only)<br>-Edit preferred care team list (VA.gov only)<br>-Delete folder (VA.gov only)<br>-Edit folder (VA.gov only)<br>-Delete thread (VA.gov only)<br>-Move thread (VA.gov only)| 
+
+### Open questions
+- If BE will disable care teams at transitioning MI sites, can users still select them in the combobox drop down or recent recipients page?
+
