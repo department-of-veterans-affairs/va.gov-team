@@ -147,9 +147,9 @@ A few requested quicker follow-up from the VA about 5655 status
 | 4 | Agree | 20 |
 | 5 | Strongly Agree | 56 |
 
-# **Monthly CSAT Score for Debt Portal (Quantitative data from all 3 surveys combined)**
+# **Monthly CSAT Score for Financial Management**
 
-Our report tracks the data recorded in the CSAT score dashboard in the [VA.gov](http://VA.gov) [Domo tool](https://va-gov.domo.com/page/1545882322).  We have filtered directories by ‘manage va debt’ to include all of the surveys referencing /manage-va-debt.
+Our report tracks the data recorded in the CSAT score dashboard in the [VA.gov](http://VA.gov) [Domo tool](https://va-gov.domo.com/page/1545882322). We have filtered directories by ‘manage va debt’ to include all of the surveys referencing pages with /manage-va-debt.
 
 CSAT data includes all of the quantitative measures from the standard questions on the 3 surveys: the Veteran ranks each Survey question on a 1 \- 5 scale. The cumulative percentage of responses out of 100 becomes the CSAT measure. 
 
