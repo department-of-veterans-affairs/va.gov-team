@@ -1,17 +1,3 @@
-# **Process for Adding Benefits to DYB**
-
-## **Introduction**
-
-This document outlines the process for evaluating and adding new benefits to the Do You Benefit (DYB) tool. It serves as a guide for the team to systematically assess whether a benefit should be included, and if so, how to implement it.
-
-### **What is DYB?**
-
-**Product Link:** [Discover Your Benefits | Veterans Affairs](https://www.va.gov/discover-your-benefits/introduction)
-
-**Purpose:** The primary goal of Discover Your Benefits is to aid in simplifying the enrollment process by acting as a hub for Transitioning Service members (TSMs) or recently separated Veterans (RSVs) to discover their benefits and understand eligibility. The product is an unauthenticated questionnaire hosted on VA.gov and is publicly accessible.
-
-**Main Goals:**
-
 * Increase the utilization of benefits  
 * Improve awareness of benefits beyond the most well-known (healthcare, disability, home loan) as well as other non-VA benefits (SBA, DoL, etc.)  
 * Create earlier engagement between VA and active service members  
