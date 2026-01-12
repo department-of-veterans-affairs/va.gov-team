@@ -12,11 +12,25 @@ General template of potential projects:
 >   * Justification: A brief explanation of why it should be done
 >   * Ticket(s): Any ticket(s) associated with the work including: old tickets for it that were closed, the ticket that originated the potential future enhancement, etc.
 
-List of projects (in no particular order):
+List of technical debt/targeted efforts (in no particular order):
+* #### Explore Improved Components Package Publish Config
+   * Summary: The components package has a messy try/catch logic to determine if it's being loaded from our Storybook sandbox environment or a consuming app--this effort would fix that
+   * Justification: This is a very simple change for significant improvement, but was not implemented for one reason: Yarn is bugged, posting about having it fixed was ignored, and 2 years later it still is believed bugged--if the bug is ever fixed by Yarn to work correctly (or we move to pnpm where it does work), this is a no brainer to do
+   * Ticket(s) below: 136
+* #### Document type, variable, and function naming conventions
+   * Summary: Expand [documentation for naming conventions](https://github.com/department-of-veterans-affairs/va-mobile-library/blob/main/documentation/namingConventions.md) to include types, variables, and functions in addition to the props it already has
+   * Justification: Good practice to establish naming conventions as product matures for consistency and communication; this maybe should be combined to some degree with web--an effort that would likely require significant reconciliation between the two
+   * Ticket(s) below: 508, 529
+* #### ESLint Rule to Separate Local and External Imports
+   * Summary: Explore ESLint rule to enforce external package imports (e.g. `react`, `react-native`) appear in a separate alphabetical list above local imports (e.g. custom `utils` folder)
+   * Justification: Good practice used by the VAHB app that is [often a source of styling mishaps](https://github.com/department-of-veterans-affairs/va-mobile-library/pull/503#discussion_r1779005218) due to how VS Code adds new imports automatically--believed VAHB is using an ESLint rule to automate it and the components should too
+   * Ticket(s) below: 509
+
+List of new components/full projects (in no particular order):
 * #### Component search and statistic gathering
    * Summary: Create a tool to determine component usage by consumers of the mobile components
    * Justification: Tooling exists for web components, is a gap that it doesn't for mobile components
-   * Ticket(s) below: 56
+   * Ticket(s) below: 56, 243
 * #### Evaluate Patterns
    * Summary: Determine how mobile wishes to handle patterns (in components package? separate package?)
    * Justification: One pattern-like behavior was noted around the Link component where almost every instance of a phone number in the VAHB app is accompanied by the TTY number--two Link's stacked together
@@ -30,10 +44,6 @@ List of projects (in no particular order):
       * There's an argument to be made such native code doesn't belong in the components themselves since it's likely more business logic than UI
          * Potentially if we ever did this, it should be a new package for sharing the core business logic--used by default in the components, but living separately and also accessible by consumers separately
    * Ticket(s) below: 124, 169, 192, 204, 514 (potentially--it's possible React Native adds support for custom focus style functionality eventually)
-* #### Explore Improved Components Package Publish Config
-   * Summary: The components package has a messy try/catch logic to determine if it's being loaded from our Storybook sandbox environment or a consuming app--this effort would fix that
-   * Justification: This is a very simple change for significant improvement, but was not implemented for one reason: Yarn is bugged, posting about having it fixed was ignored, and 2 years later it still is believed bugged--if the bug is ever fixed by Yarn to work correctly (or we move to pnpm where it does work), this is a no brainer to do
-   * Ticket(s) below: 136
 * #### Link Post-MVP Improvements
    * Summary: Improvements identified for the Link component during creating it or during implementation in VAHB
    * Justification: Simply items that were determined out of scope for incorporation in the Link MVP implementation for one reason or another
@@ -42,7 +52,14 @@ List of projects (in no particular order):
    * Summary: Tied to above Post-MVP items, but intended to be part of MVP until running into technical hurdles and only having one use case in VAHB
    * Justification: A nice-to-have companion to the Link component
    * Ticket(s) below: 186, 203
-* In progress @ ticket 212
+* #### Create Paragraph component
+   * Summary: Proposed component to handle paragraphs of text including embedded links, styling (italics, bold, etc.), and other behavior in a more intuitive way than the React Native Text component (need to apply unique styles manually with nested Text's) and the Text component (just a convenience function to leverage typography tokens, doesn't handle more robust behavior)
+   * Justification: Tied to Link Post-MVP and Inline Link, created around shortcomings of Inline Link behavior and other challenges with general styling with React Native that is baked into browsers for web--component would ideally deliver a more web-like experience with just simple wrapping functions within what's sent to the Paragraph component
+   * Ticket(s) below: 214, 571
+* #### Require Components Integration Test Pass to Publish
+   * Summary: Proposal to require the "Check Component Integrations" action to pass before a package update is published to NPM
+   * Justification: In theory a good idea as a safeguard we aren't adding breaking changes for VAHB by running their unit test suite against the changes prior to publishing, but see details below on Ticket 230 for challenges with the concept that justified this being a potential future enhancement instead of planned to be done anytime soon
+   * Ticket(s) below: 230
 
 
 The source material from [a comment on Ticket 5344](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/5344#issuecomment-3687644923) that went through the old board:
@@ -147,3 +164,8 @@ The source material from [a comment on Ticket 5344](https://github.com/departmen
 >   * See Ticket 214 above for more details; track with rest of Paragraph component proposal  
 >   * \#LINKPOSTMVP
 
+Notes: 
+* Ticket 212 (Snackbar post-MVP items) actually did not need to be tracked since both items were fairly targetted and carried forward individually as nearer term work
+* Ticket 504 (v1.0.0 publication/breaking changes) actually did not need to be tracked since both items were fairly targetted (even if breaking) and carried forward individually as nearer term work
+   * Additionally, the general idea of publishing v1.0.0 at some point is naturally on our radar depending on reprioritization of more mobile component work, but with the current (January 2026) lull in favor of more general shared web/mobile efforts it is not a near term priority
+* Tickets 517, 518, and 535 were no longer appropriate to keep with mobile enhancements due to [in progress work to combine web/mobile tokens](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4648) and will instead be tracked with that
