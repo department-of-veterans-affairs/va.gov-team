@@ -8,22 +8,27 @@
 - [Technical Findings](#technical-findings)
 - [Level of Effort](#level-of-effort)
 - [Next](#next)
+- [Epics](#epics)
 
 ## Design Findings
 
 Category: Design
 
-- Figma components largely comply with expected VADS component standards, to-do items from forms team.
+- Figma components largely comply with expected VADS component standards,
+  to-do items from forms team.
 
 Category: User flow
 
-- Update sign-in component flows (Currently figma is in a future state (that has since changed) and does not match production
+- Update sign-in component flows (Currently figma is in a future state
+  (that has since changed) and does not match production)
 
 Category: Design patterns
 
 - Check prefill notice in the form. Doesn't match figma.
-- Check autosave notice under stepper. Staging says "in-progress  ID number", Figma says "application ID number"
-- Save in progress notice on staging calls it an application ID number, but it uses the same "in-progress ID" from the top of the page.
+- Check autosave notice under stepper. Staging says "in-progress ID number",
+  Figma says "application ID number"
+- Save in progress notice on staging calls it an application ID number,
+  but it uses the same "in-progress ID" from the top of the page.
 
 Category: Content
 
@@ -43,17 +48,17 @@ This form was audited for imposter components. **No imposter components were fou
 
 The form correctly uses VADS web components:
 
-| Pattern | Location |
-|---------|----------|
-| `fullNameNoSuffixUI()` | personalInformation1.js |
-| `dateOfBirthUI()` | personalInformation1.js |
-| `ssnUI()` | personalInformation2.js |
-| `addressUI()` | contactInformation1.js |
-| `phoneUI()`, `emailToSendNotificationsUI()` | contactInformation2.js |
-| `yesNoUI()` | livingSituation1.js, previousSahApplication1.js, previousHiApplication1.js |
-| `currentOrPastDateUI()`, `selectUI()` | previousSahApplication2.js, previousHiApplication2.js |
-| `checkboxGroupUI()`, `VaTextAreaField` | remarks.js |
-| `<va-alert>`, `<va-telephone>`, `<va-link>`, `<va-omb-info>` | ConfirmationPage.jsx |
+| Pattern                        | Location                   |
+| ------------------------------ | -------------------------- |
+| `fullNameNoSuffixUI()`         | personalInformation1.js    |
+| `dateOfBirthUI()`              | personalInformation1.js    |
+| `ssnUI()`                      | personalInformation2.js    |
+| `addressUI()`                  | contactInformation1.js     |
+| `phoneUI()`, `emailUI()`       | contactInformation2.js     |
+| `yesNoUI()`                    | livingSituation1.js, etc.  |
+| `currentOrPastDateUI()`        | previousSahApplication2.js |
+| `checkboxGroupUI()`            | remarks.js                 |
+| `<va-alert>`, `<va-telephone>` | ConfirmationPage.jsx       |
 
 **This form can serve as a reference implementation for VADS compliance.**
 
@@ -151,16 +156,6 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Impact:** Inconsistent downtime handling.
 
-#### 3.2 Incomplete Address Fields (MEDIUM)
-
-**Files:**
-
-- `pages/previousSahApplication2.js:20-21, 35-39`
-- `pages/previousHiApplication2.js:20-21, 35-39`
-- `pages/livingSituation2.js:34, 50-57`
-
-**Issue:** Address fields commented as "omitted because unused, will be restored when vets-json-schema is changed."
-
 ### 4. Platform Integration
 
 #### 4.1 Minimal Prefill Transformer (HIGH)
@@ -185,22 +180,16 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Issue:** No runtime feature toggle check in App.jsx.
 
+#### 4.4 Missing DataDog RUM Integration (MEDIUM)
+
+**Issue:** No DataDog Real User Monitoring integration for form analytics.
+
+**Impact:** Limited visibility into user behavior, form abandonment,
+and performance metrics.
+
 ### 5. Accessibility
 
-#### 5.1 Limited Accessibility Testing (MEDIUM)
-
-**File:** `tests/e2e/4555-adapted-housing.cypress.spec.js:48`
-
-**Issue:** Only one `cy.axeCheck()` on contact-information-1 page.
-
-**Missing:** Accessibility testing on:
-
-- Personal info pages
-- Previous application pages
-- Living situation pages
-- Remarks page
-
-#### 5.2 Custom Styled Labels (MEDIUM)
+#### 5.1 Custom Styled Labels (MEDIUM)
 
 **File:** `sass/4555-adapted-housing.scss:9-35`
 
@@ -214,13 +203,13 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Impact:** ID selectors and negative margins could affect screen readers.
 
-#### 5.3 Missing ARIA Labels (MEDIUM)
+#### 5.2 Missing ARIA Labels (MEDIUM)
 
 **File:** `containers/ConfirmationPage.jsx:24-41`
 
 **Issue:** Conditional content blocks have no aria labels or roles.
 
-#### 5.4 Heading Hierarchy (LOW)
+#### 5.3 Heading Hierarchy (LOW)
 
 **File:** `pages/remarks.js:35`
 
@@ -247,32 +236,7 @@ if (transformedData.hasOwnProperty('otherConditions')) {
 
 **Issue:** Test expects error but doesn't verify error message.
 
-#### 6.3 Incomplete E2E Coverage (HIGH)
-
-**File:** `tests/e2e/4555-adapted-housing.cypress.spec.js`
-
-**Issue:** Uses generic `testForm()` helper with minimal custom hooks.
-
-**Missing coverage:**
-
-- Conditional page flows (living situation facility details)
-- Previous application details rendering
-- Remarks/conditions checkbox combinations
-- Error handling on submission
-
-#### 6.4 Test Fixtures Incomplete (MEDIUM)
-
-**File:** `tests/e2e/fixtures/data/minimal-test.json`
-
-**Issue:** Missing remarks section.
-
-**Should add:**
-
-- No conditions selected
-- Only otherConditions text
-- Different living situation combinations
-
-#### 6.5 Submit Transformer Tests (MEDIUM)
+#### 6.3 Submit Transformer Tests (MEDIUM)
 
 **File:** `tests/config/submit-transformer.unit.spec.jsx:7-14`
 
@@ -313,36 +277,35 @@ function appendRemarksString() {
 
 ## Platform Pattern Gaps
 
-| Aspect | Current | Recommended |
-|--------|---------|-------------|
-| Config Structure | Flat (3 files) | Modular subdirs with barrel exports |
-| Barrel Exports | None | Comprehensive index.js files |
-| Page Export Style | Default export | Named exports + index.js barrel |
-| JSDoc Coverage | ~10% | ~90% |
-| Transformer Helpers | Minimal (~50 lines) | Modular (300+ lines, 7+ helpers) |
-| Prefill Transformer | Minimal (17 lines) | Full implementation (160+ lines) |
-| Error Handling | None | Error constants + boundary |
-| README | None | Comprehensive documentation |
+| Aspect              | Current           | Recommended                  |
+| ------------------- | ----------------- | ---------------------------- |
+| Config Structure    | Flat (3 files)    | Modular subdirs              |
+| Barrel Exports      | None              | Comprehensive index.js files |
+| Page Export Style   | Default export    | Named exports + barrel       |
+| JSDoc Coverage      | ~10%              | ~90%                         |
+| Transformer Helpers | Minimal (~50 LOC) | Modular (300+ LOC)           |
+| Prefill Transformer | Minimal (17 LOC)  | Full (160+ LOC)              |
+| Error Handling      | None              | Error constants + boundary   |
+| README              | None              | Comprehensive docs           |
 
 ## Non-Issues (Platform-Level)
 
 The following were initially flagged but confirmed as platform-level concerns:
 
-| Item | Reason |
-|------|--------|
-| DataDog RUM Integration | Handled at platform level |
-| `devOnly` props | Standard pattern across VA forms |
-| `delete` operator usage | Standard pattern in submit transformers |
+| Item                    | Reason                            |
+| ----------------------- | --------------------------------- |
+| `devOnly` props         | Standard pattern across VA forms  |
+| `delete` operator usage | Standard in submit transformers   |
 
 ## Dependencies Summary
 
 This form has only 3 dependencies on `simple-forms/shared/`:
 
-| Dependency | Replacement |
-|------------|-------------|
-| `IntroductionPageView` | Custom component |
-| `GetFormHelp` | Local component |
-| `sharedTransformForSubmit` | Platform import |
+| Dependency                 | Replacement      |
+| -------------------------- | ---------------- |
+| `IntroductionPageView`     | Custom component |
+| `GetFormHelp`              | Local component  |
+| `sharedTransformForSubmit` | Platform import  |
 
 **No page definitions depend on simple-forms shared code.**
 
@@ -350,21 +313,22 @@ This form has only 3 dependencies on `simple-forms/shared/`:
 
 ### Issue Summary
 
-| Category | Critical | High | Medium | Low |
-|----------|----------|------|--------|-----|
-| Code Quality & Legacy Patterns | 1 | 2 | 1 | 0 |
-| Form System Compliance | 0 | 1 | 1 | 0 |
-| Accessibility | 0 | 0 | 3 | 1 |
-| Testing Coverage | 0 | 3 | 2 | 0 |
-| Code Organization | 0 | 0 | 1 | 0 |
-| Platform Integration | 1 | 2 | 1 | 0 |
-| Content Compliance | 3 | 0 | 1 | 0 |
-| Imposter Components | 0 | 0 | 0 | 0 |
-| **Total** | **5** | **8** | **11** | **1** |
+| Category                       | Critical | High  | Medium | Low   |
+| ------------------------------ | -------- | ----- | ------ | ----- |
+| Code Quality & Legacy Patterns | 1        | 2     | 1      | 0     |
+| Form System Compliance         | 0        | 1     | 0      | 0     |
+| Accessibility                  | 0        | 0     | 2      | 1     |
+| Testing Coverage               | 0        | 2     | 1      | 0     |
+| Code Organization              | 0        | 0     | 1      | 0     |
+| Platform Integration           | 1        | 2     | 2      | 0     |
+| Content Compliance             | 3        | 0     | 1      | 0     |
+| Imposter Components            | 0        | 0     | 0      | 0     |
+| **Total**                      | **5**    | **7** | **9**  | **1** |
 
 ### Tshirt size estimation
 
-_Teams often start with T-shirt sizes during early planning, then refine into story points later._
+_Teams often start with T-shirt sizes during early planning,
+then refine into story points later._
 
 - 👕 Small = Design
 - 👕 Medium = Content
@@ -373,7 +337,10 @@ _Teams often start with T-shirt sizes during early planning, then refine into st
 
 ### Additional notes
 
-Design flow and Figma components largely comply with expected VADS standards. This form passed the imposter components audit and can serve as a reference implementation for VADS compliance. Key concerns are the expired OMB control number (CRITICAL), hardcoded content, and testing coverage gaps.
+Design flow and Figma components largely comply with expected VADS standards.
+This form passed the imposter components audit and can serve as a reference
+implementation for VADS compliance. Key concerns are the expired OMB control
+number (CRITICAL), hardcoded content, and testing coverage gaps.
 
 ## Next
 
@@ -382,3 +349,10 @@ Design flow and Figma components largely comply with expected VADS standards. Th
 - Identify research opportunities
 - Review user stories and writing KPI's
 - Plan roadmap
+
+## Epics
+
+The following epics track the work identified in this discovery:
+
+- [VA Form 26-4555 Adapted Housing Grant - Technical Debt](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129649)
+- [feat(26-4555): Add Datadog RUM browser monitoring](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129662)
