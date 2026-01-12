@@ -23,6 +23,8 @@ UPDATED for Profile 2.0
 - [Dependents and contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/dependents-contacts/dependents-contacts-landingpg.md)
    - [Accredited representative or VSO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
    - [Dependents on file](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents)*
+- [Letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/letters-and-documents/letters-and-documents-landingpg.md)
+   - [VA benefit letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-letters)*
  
 _*Pages with an asterisk link to pages outside the profile and are not managed by the Authenticated Experience team. We have linked to the respective product pages for reference only._
 
