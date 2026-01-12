@@ -58,7 +58,7 @@ These problems cross several medications tasks, touch most objects in the data m
 ## <a name="metrics"></a>Measuring success
 
 ### Post-launch metrics monitoring plan
-TBD
+* TBD
 
 ### KPIs
 
