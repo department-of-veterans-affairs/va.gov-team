@@ -85,42 +85,86 @@
 ##
 ### 10-10d
 - [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of launches
+  - [ ] [[Product] 10-7959A: CHAMPVA Claims Launch Preparation and Readiness #128519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128519)
 - [ ] **SPRINT GOAL** 10-10dv2: Prod GA/Domo dashboard audit
+  - [ ] Need to file Domo tickets to update
 - [ ] **SPRINT GOAL** 10-10dv2: Prod/BE Tricare Discovery continued
+  - [ ] [[Product/BE] 10-10d v2: Tricare API Integration Discovery #128005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128005)
 - [ ] **SPRINT GOAL** 10-10dv2: BE/FE Launch VES
+  - [ ] [[Product] 1010d: VES - Go live and production monitoring  #108816](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108816)
 - [ ] **SPRINT GOAL** 10-10dv2 & 10-7959c: BE/FE Add MBI & future effective date
+  - [ ] [[BE] 10-10D v2: Verify Medicare Beneficiary Identifier (MBI) field is added to Medicare Chapter on pdf #127786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127786)
+  - [ ] [[BE] 10-7959c: Populate Medicare Beneficiary Identifier (MBI) field in pdf #128012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128012)
+  - [ ] [[BE] 10-10d v2 and 10-7959c Discovery: Validate support for future Medicare effective dates across  #128041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128041)
+  - [ ] [[FE] 10-10D v2: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #127785](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127785)
+  - [ ] [[FE] 10-10D v2: Add support for future effective dates to Medicare Chapter #128037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128037)
+  - [ ] [[FE] 10-7959c: Add support for future effective dates to Medicare Chapter #128039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128039)
+  - [ ] [[FE] 10-7959c: Add Medicare Beneficiary Identifier (MBI) field to Medicare Chapter #128013](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128013)
+     
+  - [ ] [[UX] 10-10d v2: Discuss adoption supporting docs to address staging review finding #128239](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128239)
+
 
 ##
 ### 10-7959a
 - [ ] **SPRINT GOAL** 10-7959a: BE/FE Launch CHAMPVA Claims
 
+
 ## 
 ### 10-7959c
 - [ ] **SPRINT GOAL** 10-7959c: BE/FE Finish OHI Standalone & Prep for Launch
+  - [ ] [[BE] 10-7959c: Update submit transformer for standalone 10-7959c form experience #113871](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113871)
+  - [ ] [[FE] 10-7959c: Update submit transformer to shape data for new form flow #129268](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129268)
+  - [ ] [[FE] 10-7959c: Make file upload fields required for all users #129274](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129274)
+  - [ ] [[FE] 10-7959c: Update Medicare chapter #126790](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126790)
 - [ ] **SPRINT GOAL** UX: 10-7959c: Add bene age 65+ indicator
+  - [ ] [[UX] 10-7959c: Add beneficiary age 65+ indicator to support age-based Medicare logic #128696](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128696)
+
 
 ## 
 ### 10-7959f-1 FMP Enrollment
-- No work this sprint
+  - [ ] [[UX] FMP Registration 10-7959f-1: Create Production Form Flow #120325](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120325)
 
 
 ##
 ### 10-7959f-2 FMP Claims
 - [ ] **SPRINT GOAL** UX: 10-7959f-2: Compile and Finalize direct deposit changes for engineering
+  - [ ] [Design: Update Figma Source of Truth for Form 10-7959f2 #114866](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114866)
+  - [ ] [[UX] 10-7959f-2 FMP Claims: Create Production Form Flow #120327](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120327)
+  - [ ] [[UX] 10-7959F-2: Compile and finalize direct deposit content updates for engineering handoff #128697](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128697)
      
 
 ##
 ### All forms or Tech Debt
 - [ ] **SPRINT GOAL** All forms: Prod/BE Continue investigating 403 errors in DD, report issues to platform
+  - [ ] [[Product/BE] Escalate rising 403 CSRF errors blocking form submissions #128008](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128008)
 - [ ] **SPRINT GOAL** All forms: BE Continue updating Datadog dashboards including new error and volume tracking logic to ensure consistency and accuracy
+  - [ ] [[BE] 1010d - Improvement: Explore monitoring options for application volume #119691](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119691)
+  - [ ] [Update IVC "API Alert (limited view)" monitor to alert on error rate anomalies #127397](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127397)
+  - [ ] [[Data] Update OHI submission counts for standalone and 10-10d v2 #129035](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129035)
+  - [ ] [IVC Forms: 12/16/2025 Monitor Incident - Failed to generate stamped file #127995](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127995)
 - [ ] **SPRINT GOAL** All forms: BE Continue improving logging to trace submissions end to end
+  - [ ] [[BE] All Forms - Monitoring: Revise automated email to Pega for missing status (2-hour trigger & recipients update) #123908](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123908)
+  - [ ] [[BE] Remove PII from the payload for emails intended for Pega #123543](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123543)
+  - [ ] [[BE] All forms: Create rake tasks for missing status work per platform guidance #128009](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128009)
+  - [ ] [[BE] All forms: Add logging and update metrics on missing Pega status job #128000](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128000)
+  - [ ] [[BE] Add rake task to query Pega Reporting API to verify missing statuses #129074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129074)
+  - [ ] [[BE] Ignore VES JSON files in missing pega status job #129157](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129157)
 - [ ] **SPRINT GOAL** UX: All forms: Dec and Year End Metrics
+  - [ ] [[Data] Monthly Metrics Request for Health Apps Team - December 2025 #128379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128379)
+  - [ ] [[UX] Health Apps Medallia Year End Report #128494](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128494)
+  
 
 ## 
 ### STRETCH GOALS
 - [ ] **STRETCH GOAL** 10-10dv2: FE data structure cleanup and discovery for moving sections
+  - [ ] [[FE] 10-10D v2: Technical discovery for moving signer section to end of form flow #128507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128507)
+  - [ ] [[FE] 10-7959F-2: Technical discovery for migration to VaFileInputField pattern #120242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120242)
+  - [ ] [[FE] 10-10d/10-7959c - Form merge: Update applicant birth sex data structure #126629](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126629)
 - [ ] **STRETCH GOAL** 10-7959c: BE Discovery for OHI - VES Integration
+  - [ ] [[BE] VES Discovery: OHI integration for standalone 10-7959c and 10-10dv2 OHI #128047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128047)
 - [ ] **STRETCH GOAL** 10-7959f-2: FE FMP Claims Direct Deposit changes & Upload Component investigation
+  - [ ] [[FE] 10-7959F-2: Update Direct Deposit content to reflect latest FMP guidance #128695](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128695)
+
   
 ##
 ### WHAT'S NEXT
