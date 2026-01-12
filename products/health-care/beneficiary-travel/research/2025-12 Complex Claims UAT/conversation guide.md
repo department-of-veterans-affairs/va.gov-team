@@ -149,6 +149,7 @@ Moderator: Now I'm going to ask you to share your screen on Zoom so that we can 
 
 ## Second Task: [Select expenses: Round one] - 3-5 minutes
 Moderator: Tell me about what you're seeing on this page. What do you expect to do here?
+Prior to prompting the user to continue, ask the participant where they would expect the 'back' breadcrumb to take them. 
 - [ ] Step 1 - User select an expense.
 - [ ] Step 2 - User selects "Continue."
 
@@ -172,6 +173,8 @@ Moderator: Tell me about what you're seeing on this page.
 ## Fourth Task: [Actions from the unsubmitted expense page] - 2 - 4 minutes
 The user should be on the unsubmitted expenses page after adding mileage/or their first expense.
 Moderator: Tell me about what you're seeing on this page.
+Prior to prompting the user to continue, ask the participant where they would expect the 'back' breadcrumb to take them. 
+
 - [ ] Step 1 - User reviews accordion with the added expense.
 - [ ] Step 2 - User selects "Add more expenses" OR user selects "Sign agreement" if they have no additional expenses.
 
