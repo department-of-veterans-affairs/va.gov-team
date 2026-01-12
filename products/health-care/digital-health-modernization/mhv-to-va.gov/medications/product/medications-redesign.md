@@ -84,24 +84,23 @@ We are making several front-end architectural changes to the medications product
 ## <a name="solution"></a>Solution approach
 
 ### Collaboration Cycle
-* [Kickoff ticket] (Link)
-* PO Sync [Date]
-* Architecture review [Date]
-* Design intent [Date]
-* Midpoint review [Date]
-* Staging review [Date]
+* [Kickoff ticket] (Linked)
+* PO sync: [Date]
+* Architecture review: [Date]
+* Midpoint review: [Date]
+* Staging review: [Date]
 
 ### Launch plan
 * [Release plan documented here] - [_make copy of this .md file and draft release plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 **Timeline for release**
-* **Target launch date**: end of March 2026
+* **Target launch date**: March 31, 2026
 * **Actual launch date**: TBD
 
 ## Additional resources
-* [Figma file](https://www.figma.com/design/VunyfNQ9x7Bt58D9B2qnW5/%F0%9F%92%A1-Working-file--MHV-Medications---Devices-?node-id=6299-8780&p=f&t=pKPeR79R5PbD23z0-0)
-* [Research kickoff Figjam file](https://www.figma.com/board/GFsQQlHtXdjF06nz6B7ZAo/Research-Kickoff--Meds-Order-History-page?t=pKPeR79R5PbD23z0-0)
-* "Blue sky" discovery artifacts from 2025
+* Figma Designs: [linked](https://www.figma.com/design/VunyfNQ9x7Bt58D9B2qnW5/%F0%9F%92%A1-Working-file--MHV-Medications---Devices-?node-id=6299-8780&p=f&t=pKPeR79R5PbD23z0-0)
+* Research Kickoff Figjam: [linked](https://www.figma.com/board/GFsQQlHtXdjF06nz6B7ZAo/Research-Kickoff--Meds-Order-History-page?t=pKPeR79R5PbD23z0-0)
+* "Blue Sky" Discovery Artifacts from 2025: [linked](https://github.com/orgs/department-of-veterans-affairs/projects/1727/views/1?filterQuery=is%3Aclosed%2C+status%3AEpic+&pane=issue&itemId=120834844&issue=department-of-veterans-affairs%7Cva.gov-team%7C114110)
 
 ## <a name="communications"></a>Communications
 ### Medications team
