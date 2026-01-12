@@ -27,7 +27,7 @@ Because the search uses geocoding, but 3% of entries have invalid address data, 
 
 We propose using the Geocoder gem to create a lookup table mapping existing partial/invalid addresses (i.e., those with a valid ZIP or city-state pair) onto lat/long values, and adding these values to FAR so that these reps can be returned in a search. The use of a lookup table at runtime minimizes processing time and avoids duplicative API calls -- a given ZIP (or city-state pair) can be geocoded asynchronously, and once cached will be retrieved for all matching entries with O(1). 
 
-The Geocoder gem is compatible with a variety of APIs; we will use US Census ZCTA data as the initial source for the table, and we propose using the API Geocodio to handle city-state pairs and as a fallback for missing ZIPs. While this will require creating a Geocodio account, our expected level of utilization falls within the free service tier, and our permanent retention in the lookup table complies with their Terms of Service (which is not the case for, for example, the Google Maps geocoding API).
+The Geocoder gem is compatible with a variety of APIs; we will use US Census ZCTA data as the initial source for the table, and we propose using the API Mapbox to handle city-state pairs and as a fallback for missing ZIPs. While this will require creating a Mapbox API key, our expected level of utilization is <1,000/month, and our permanent retention in the lookup table complies with their Terms of Service (which is not the case for, for example, the Google Maps geocoding API).
 
 In the longer term, other features in our roadmap (see Out of Scope above) should eventually moot the issue. That said, USPS does periodically update ZIP codes (additions/changes), and so in the meantime we'll need to conduct infrequent checks to see if any of our entries are affected.
 
@@ -74,7 +74,7 @@ In the longer term, other features in our roadmap (see Out of Scope above) shoul
 ## Supporting Documentation
 
 1. [Research spike](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122133) exploring approaches and deciding on Geocoder gem
-2. [Research spike](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126249) selecting the the Geocodeo API
+2. [Research spike](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126249) selecting an API provider
 
 
 ## Communications
