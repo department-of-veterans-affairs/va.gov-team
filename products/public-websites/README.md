@@ -48,7 +48,7 @@ Monitors for each product are described within product folders. e.g.
 | [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
 | - | - | On-site Search |
-| - | - | Glogal Header and footer |
+| - | - | Global Header and footer |
 | - | - | [Event - Currently published Events](https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All) |
 | - | - | [Events listings](https://www.va.gov/outreach-and-events/events) |
 
