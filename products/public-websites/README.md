@@ -38,7 +38,7 @@ Monitors for each product are described within product folders. e.g.
 | [Benefits Detail Page](#benefits-detail-page) |  [Header / footer injection](#header--footer-injection) | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Income limits web application](#income-limits-web-application) | [Downtime messaging](#downtime-messaging) |
 | [Events](#events) | [Sitewide Content Redirects](#sitewide-content-redirects) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
+| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) (Never released/only on Staging) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) |[Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
 | [VA.gov Homepage](#vagov-homepage) | . | [Promo Banner](#promo-banner) | 
