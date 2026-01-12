@@ -1,4 +1,4 @@
-# My HealtheVet - Medications Redesign Initiative Brief
+# My HealtheVet - Medications Management Improvements / Initiative Brief
 January 2026
 
 ## On this page
@@ -26,6 +26,7 @@ Today, users are experiencing significant findability issues and struggling to a
 * Finding status information on refills after they've been requested,
 * Understanding the refill process and what various statuses in this process mean,
 * Being overwhelmed by the full list of medications,
+* Frequent reports about users not wanting to see a full list of all meds they've ever taken,
 * How to view/print/download a list of their "current" or "active" medications to share with providers at appointments
 
 These problems cross several medications tasks, touch most objects in the data model, impact the majority of users, and have been known for a long time. This has led us to take on "blue sky" design discovery ideation to explore changing (expanding) the footprint of the existing Medications tool. 
@@ -63,9 +64,10 @@ These problems cross several medications tasks, touch most objects in the data m
 
 ### KPIs
 
-* Reduce call center volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)- TBD: verifying we have access to this information
-* Reduce Health Chat volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)- TBD: verifying we have access to this information
-* Reduce Medallia volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)- TBD: verifying we have access to this information
+* Reduce call center volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo) - TBD: verifying we have access to this information
+* Reduce Medallia volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA) - TBD: verifying information
+* Improve CSAT scores for the medications app | Baseline | Target | Link to data source (e.g. Domo) - TBD: verifying information
+
 
 ## <a name="discovery"></a>Discovery
 
@@ -86,10 +88,10 @@ We are making several front-end architectural changes to the medications product
 
 ### Collaboration Cycle
 * [Kickoff ticket] (Linked)
-* PO sync: [Date]
-* Architecture review: [Date]
-* Midpoint review: [Date]
-* Staging review: [Date]
+* PO sync: [Date TBD]
+* Architecture review: [Date TBD]
+* Midpoint review: [Date TBD]
+* Staging review: [Date TBD]
 
 ### Launch plan
 * [Release plan documented here] - [_make copy of this .md file and draft release plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
