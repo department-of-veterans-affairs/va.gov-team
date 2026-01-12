@@ -106,6 +106,11 @@ tags:
   - "[research-phase]"
 ---
 
+> [!TIP]
+> **Complete the frontmatter section above AFTER you've filled out your research plan below.** 
+> 
+> Use the [GitHub Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/research-plan-frontmatter-completion-prompt.md) to automatically generate structured metadata from your completed research plan.  The prompt uses natural language processing to extract key information and apply appropriate research repository tags. 
+
 	# Research Plan for [Team, Product, Date]
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
@@ -438,5 +443,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **[Enter full name]**
 
 ## Approvals ✅
+> [!NOTE]
+> Before submitting for review, ensure you've completed the YAML frontmatter section at the top of this document using the [Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/research-plan-frontmatter-completion-prompt.md).
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
