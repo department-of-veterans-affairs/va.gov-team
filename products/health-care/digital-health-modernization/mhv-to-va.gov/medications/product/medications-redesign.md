@@ -106,7 +106,7 @@ We are making several front-end architectural changes to the medications product
 ### Medications team
 * Team name: My HealtheVet Medications
 * Product PoCs: Kay Lawyer (PO), Robyn Singleton (UX Lead)
-* Github Label(s):
-* Slack channel(s):
+* Github Label(s): `mhv-medications`
+* Slack channel(s): `#mhv-medications-rx` and `#mhv-medications-devs`
 ### Stakeholders
 * OCC: Dr. Eric Spahn (Pharmacy)
