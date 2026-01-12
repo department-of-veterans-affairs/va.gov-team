@@ -71,7 +71,7 @@ TBD
 5. Confirmation page - ITF submission: Failed
 6. Display ITF activity in the "Recent Submissions" section of the Submissions page
 
-December Metrics Review
+**December Metrics Review**
 
 ## Sprint 7 Delivery
 
