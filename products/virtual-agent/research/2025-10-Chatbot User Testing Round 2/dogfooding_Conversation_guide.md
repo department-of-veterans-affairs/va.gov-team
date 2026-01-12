@@ -59,7 +59,7 @@ For each section, discuss with the group who tried the scenario(s), what they ob
 - Did you notice consistency, empathy, clarity, and inclusiveness in the chatbot’s responses?
 - Were responses too formal, too casual, or just right?
 - Were instructions concise and easy to understand, or overly complicated?
-- What is your response tp casual responses like "OK" and "goodbye" being used by the Chatbot?
+- Do you feel that responses like "OK" and "goodbye" being used by the Chatbot are acceptable or would you consider them too formal?
 - Did you ever feel frustrated or feel like you were overreaching to elicit an answer from the Chatbot?
 
 ### H. Long Conversation/Moderation Stress
@@ -90,7 +90,7 @@ For each section, discuss with the group who tried the scenario(s), what they ob
 
 - Did the chatbot ever provide answers that you know to be incorrect?
 - If you did encounter any inaccurate incormation, can you share examples?
-- Were there any scenarios where you felt uncertain about the accuracy of the advice or details given?
+- Were there any scenarios where you felt uncertain about the accuracy of the advice or details given by the Chatbot?
 - Did you have to double-check the information provided by the chatbot against other official sources?
 
 ---
