@@ -51,12 +51,33 @@ QA -
 
 ##### Explanation of failure to meet standard (if applicable):
 
+#### E2E Tests - Best Practice Adherence
+
+- [ ] Standard has been met
+- [ ] Standard has not been met
+
+##### Explanation of failure to meet standard (if applicable):
+
+#### E2E Test Execution Time
+
+- [ ] Standard has been met
+- [ ] Standard has not been met
+
+##### Explanation of failure to meet standard (if applicable):
+
 #### Unit Test Coverage
 
 - Statements %: 
 - Branches %: 
 - Functions %: 
 - Lines %: 
+
+- [ ] Standard has been met
+- [ ] Standard has not been met
+
+##### Explanation of failure to meet standard (if applicable):
+
+#### Unit Tests - Best Practice Adherence
 
 - [ ] Standard has been met
 - [ ] Standard has not been met
@@ -92,6 +113,10 @@ QA -
 
 ##### Explanation of failure to meet standard (if applicable):
 
+#### No Cross-App Dependencies
+
+- [ ] Standard has been met
+- [ ] Standard has not been met
 
 ---
 
