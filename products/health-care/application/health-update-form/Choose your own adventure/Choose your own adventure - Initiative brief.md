@@ -1,6 +1,11 @@
 # Choose-your-own-adventure - Initiative Brief
 - Epic - [#123087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123087)
 
+## This work has been descoped as of 1/9/2026
+- Previous research showed 50% interest, at best
+- Engineering effort will require 6 months to a year for a complete new build due to the complexity, avoiding buggy retrofitting
+- The feature does not serve an urgent need or solve an urgent problem at this time
+- Decision made with input from UX, Engineering, Product and OCTO/DSD PO and Design Lead.
 
 ## Outcome Summary
 - Creating a "Choose Your Own Adventure" (CYOA) path on the 10-10EZR form that displays all prefilled information, allows the Veteran to review and edit it, and add any missing information. This will improve data accuracy, streamline the process for Veterans with varying data completeness, and enhance the overall user experience.
