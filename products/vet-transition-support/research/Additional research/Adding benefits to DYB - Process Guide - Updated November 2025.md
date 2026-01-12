@@ -23,7 +23,10 @@ This document outlines the process for evaluating and adding new benefits to the
 
 This document describes the **happy path/baseline** for adding benefits. Not every benefit will require all steps (for example, some additions may not need new research if existing research already validates the need). Use this as a framework and adapt as needed for each specific case.
 
- Link to [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1761571241741/728bec469b2ef56279adda11062861c2d094f37f)
+ Link to [Mural board](https://app.mural.co/t/adhoccorporateworkspace2583/m/adhoccorporateworkspace2583/1761571241741/728bec469b2ef56279adda11062861c2d094f37f) with a flow chart of this process. 
+
+ ![Process diagram showing the process for adding a new benefit to Discover Your Benefits tool including stakeholder collaboration, research, design, product, and engineering activities](Process-diagram-for-adding-new-benefits-to-DYB.png)
+
 
 ## **Step 1: Summary and Context**
 
