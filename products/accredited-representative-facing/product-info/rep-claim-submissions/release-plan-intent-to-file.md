@@ -15,6 +15,7 @@ Feature Toggle/flag:
       -    [ ] Can't check ITF status
    - [ ] Failed Submission
 - [ ] Any "launch blocking" findings from Team QA have been addressed.
+- [ ] The feature flag `accredited_representative_portal_skip_itf_check`has been set to `Off` to ensure the experience is checking for exsiting ITFs.
 - [ ] Datadog monitoring is set up to track submission attempts, successes and errors.
 Any other issues or requirements that should be addressed prior to rollout?
 
