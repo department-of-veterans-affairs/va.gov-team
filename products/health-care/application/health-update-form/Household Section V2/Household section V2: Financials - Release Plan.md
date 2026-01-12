@@ -45,10 +45,10 @@ Before enabling your feature toggle in production, you'll need to:
 - Results #1: Reduction of time spent by 10%
 - Results #2: Reduction of bounce rates by 10%
 
-### Stage A: Canary 5% of users
+### Stage A: Canary 10% of users
 #### Planning
 - Length of time: **01/12/2026 - 01/13/2026**
-- Percentage of Users (and roughly how many users do you expect this to be): **5% (approximately 11 users per day)**
+- Percentage of Users (and roughly how many users do you expect this to be): **10% (approximately 11 users per day)**
 
 #### Results
 
