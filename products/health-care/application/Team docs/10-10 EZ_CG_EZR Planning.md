@@ -102,14 +102,14 @@
 ### 10-10EZR
 
 #### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)/[BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109437)
-- [ ] **SPRINT GOAL** [#128772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128772) - [FE] Turn EZ and EZR RUM log feature toggles on in production
+- [x] **SPRINT GOAL** [#128772](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128772) - [FE] Turn EZ and EZR RUM log feature toggles on in production
 
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [x] **SPRINT GOAL** [#121089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121089) - [QA] Additional V2 Financials QA
      - [x] [#128256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128256) - [FE] Selecting "No" to adding income and then going back leads to empty page 
      - [x] [#125887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125887) - Financial information is not being pre-filled
-- [ ] **SPRINT GOAL** [#120277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120277) - [Eng, PM] Launch financials at 10%
+- [x] **SPRINT GOAL** [#120277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120277) - [Eng, PM] Launch financials at 10%
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
@@ -118,7 +118,7 @@
 ##
 ### All FORMS
 #### Obj: [Improvements shared across forms](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
-- [ ] **SPRINT GOAL** [#127525](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127525) - [UX] Audit forms for `find-forms` URL
+- [x] **SPRINT GOAL** [#127525](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127525) - [UX] Audit forms for `find-forms` URL
 - [x] **SPRINT GOAL** [#125897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125897) - [BE] Rotate API keys for VA Notify
 
 ##
