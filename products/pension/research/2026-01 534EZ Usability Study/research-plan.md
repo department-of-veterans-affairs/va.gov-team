@@ -332,12 +332,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - `01/26, Day, 10:00 AM-4:00 PM EST`
 - `01/27, Day, 10:00 AM-4:00 PM EST`
-- `01/28, Day, 10:00 AM-4:00 PM EST`
+- `01/28, Day, 10:00 AM-11:00 AM, 1:00 PM-4:00 PM`
 - `01/29, Day, 10:00 AM-4:00 PM EST`
-- `01/30, Day, 10:00 AM-4:00 PM EST`
+- `01/30, Day, 10:00 AM-11:00 AM, 1:00 PM-4:00 PM`
 - `02/02, Day, 10:00 AM-4:00 PM EST`
 - `02/03, Day, 10:00 AM-4:00 PM EST`
-- `02/04, Day, 10:00 AM-4:00 PM EST`
+- `02/04, Day, 10:00 AM-11:00 AM, 1:00 PM-4:00 PM`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
