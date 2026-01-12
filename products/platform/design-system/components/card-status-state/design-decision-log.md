@@ -11,6 +11,8 @@ This document outlines the key design decisions made for implementing error stat
 - [ADR: 005 - Existing card will be moved to legacy state in Figma](#ADR-005---Existing-card-will-be-moved-to-legacy-state-in-Figma)
 - [ADR: 006 - Card error state component will become Card status](#ADR-006---Card-error-state-component-will-become-card-status)
 - [ADR: 007 - Card status MVP](#ADR-007---Card-status-MVP)
+- [ADR: 008 - Card status will use the action link](#ADR-008---Card-status-will-use-the-action-link)
+- [ADR: 009 - Card status links will be verbose](#ADR-009---Card-status-links-will-be-verbose)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
@@ -189,5 +191,41 @@ Much like the service list item component was created for a specific and limited
 
 ### Consequences
 - A consequence could be building a status card component that is too restrictive for teams. But, as we can tell for now, this should meet most current use cases. We can expand later.
+
+### Open Questions
+
+## ADR 008 - Card status will use the action link
+
+### Status: Accepted
+
+- Date issue raised: 01/12/2026
+- Decision date: 01/12/2026
+
+### Context
+The original design of the card status from the AEDP team used the active link. It was updated to use the action link.
+
+### Decision
+We will use the [action link](https://design.va.gov/components/link/action#when-to-use-an-action-link), not the active link. The link is a call to action, or the primary action the user needs to take. Because we may have multiple cards with primary action links in it, we will use the secondary action link. The [active link](https://design.va.gov/components/link/#when-to-use-an-active-link) is used in a collection of links (in this case it's a collection of cards, not links). We will use the primary action link.
+
+### Consequences
+- Need to make sure we update screenshots in figma to make sure they reflect the new design
+
+### Open Questions
+
+## ADR 009 - Card status links will be verbose
+
+### Status: Accepted
+
+- Date issue raised: 01/12/2026
+- Decision date: 01/12/2026
+
+### Context
+For accessibility reasons, we want to not use as much hidden sr-text, and make sure our link text is as visibly descriptive as we make it for screen reader users. This means that the text links will not just display "Add" or "Edit", but instead it will say "Add [the thing]" or "Edit [the thing]".
+
+### Decision
+We will do this, and it will be written into guidance.  
+
+### Consequences
+- The component will not support adding an accessible name to the link. `aria-describedby` however will be used to manage the error message announcement when the card goes into an error state
 
 ### Open Questions
