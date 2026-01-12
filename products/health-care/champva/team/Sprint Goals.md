@@ -107,6 +107,7 @@
 ##
 ### 10-7959a
 - [ ] **SPRINT GOAL** 10-7959a: BE/FE Launch CHAMPVA Claims
+  - [ ] [[Product] 10-7959A: CHAMPVA Claims Launch Preparation and Readiness #128519](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128519)
 
 
 ## 
