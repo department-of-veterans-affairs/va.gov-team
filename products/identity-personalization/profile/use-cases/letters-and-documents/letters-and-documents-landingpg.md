@@ -1,4 +1,4 @@
-# Letters and documents
+# Letters and documents use cases
 
 Last updated: January 2026  
 * [Figma files](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=1-12272&t=e0M5UWTlvjhI7lLs-1)
