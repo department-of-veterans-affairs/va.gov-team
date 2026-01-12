@@ -25,6 +25,7 @@ Today, users are experiencing significant findability issues and struggling to a
 * Users regularly report difficulty figuring out what they need to "do" to get more of their medication (renewal v. refill) and where to do that,
 * Finding status information on refills after they've been requested,
 * Understanding the refill process and what various statuses in this process mean,
+* Being overwhelmed by the full list of medications,
 * How to view/print/download a list of their "current" or "active" medications to share with providers at appointments
 
 These problems cross several medications tasks, touch most objects in the data model, impact the majority of users, and have been known for a long time. This has led us to take on "blue sky" design discovery ideation to explore changing (expanding) the footprint of the existing Medications tool. 
