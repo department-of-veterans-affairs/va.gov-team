@@ -12,7 +12,7 @@ General template of potential projects:
 >   * Justification: A brief explanation of why it should be done
 >   * Ticket(s): Any ticket(s) associated with the work including: old tickets for it that were closed, the ticket that originated the potential future enhancement, etc.
 
-List of technical debt/targeted efforts (in no particular order):
+### List of technical debt/targeted efforts (in no particular order):
 * #### Explore Improved Components Package Publish Config
    * Summary: The components package has a messy try/catch logic to determine if it's being loaded from our Storybook sandbox environment or a consuming app--this effort would fix that
    * Justification: This is a very simple change for significant improvement, but was not implemented for one reason: Yarn is bugged, posting about having it fixed was ignored, and 2 years later it still is believed bugged--if the bug is ever fixed by Yarn to work correctly (or we move to pnpm where it does work), this is a no brainer to do
@@ -26,7 +26,7 @@ List of technical debt/targeted efforts (in no particular order):
    * Justification: Good practice used by the VAHB app that is [often a source of styling mishaps](https://github.com/department-of-veterans-affairs/va-mobile-library/pull/503#discussion_r1779005218) due to how VS Code adds new imports automatically--believed VAHB is using an ESLint rule to automate it and the components should too
    * Ticket(s) below: 509
 
-List of new components/full projects (in no particular order):
+### List of new components/full projects (in no particular order):
 * #### Component search and statistic gathering
    * Summary: Create a tool to determine component usage by consumers of the mobile components
    * Justification: Tooling exists for web components, is a gap that it doesn't for mobile components
@@ -165,7 +165,7 @@ The source material from [a comment on Ticket 5344](https://github.com/departmen
 >   * \#LINKPOSTMVP
 
 Notes: 
-* Ticket 212 (Snackbar post-MVP items) actually did not need to be tracked since both items were fairly targetted and carried forward individually as nearer term work
-* Ticket 504 (v1.0.0 publication/breaking changes) actually did not need to be tracked since both items were fairly targetted (even if breaking) and carried forward individually as nearer term work
+* Ticket 212 (Snackbar post-MVP items) actually did not need to be tracked since both items were fairly targeted and carried forward individually as nearer term work
+* Ticket 504 (v1.0.0 publication/breaking changes) actually did not need to be tracked since both items were fairly targeted (even if breaking) and carried forward individually as nearer term work
    * Additionally, the general idea of publishing v1.0.0 at some point is naturally on our radar depending on reprioritization of more mobile component work, but with the current (January 2026) lull in favor of more general shared web/mobile efforts it is not a near term priority
 * Tickets 517, 518, and 535 were no longer appropriate to keep with mobile enhancements due to [in progress work to combine web/mobile tokens](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4648) and will instead be tracked with that
