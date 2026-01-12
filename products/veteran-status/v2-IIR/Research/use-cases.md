@@ -1,3 +1,117 @@
+# Veteran Status Card use cases
+
+Last updated: January 2026  
+* [User flow](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=2-19060&t=e0M5UWTlvjhI7lLs-1)  
+* [Figma files](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=2-19060&t=e0M5UWTlvjhI7lLs-1)  
+* [Test Rail QA](https://dsvavsp.testrail.io/index.php?/suites/view/3627&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)  
+  * See individual use cases below for staging user accounts.
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+[Edge cases](#edge-cases)
+
+[Flags](#flags)
+
+- [Profile shared flags](#profile-shared-flags)
+
+[Errors](#errors)
+
+- [Veteran Status Card errors](#veteran-status-card-errors)
+
+- [Profile shared errors](#profile-shared-errors)
+
+# Overview 
+
+The **Veteran Status Card** page allows Veterans to view their Veteran Status Card, which allows Veterans to receive discounts. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+The **Veteran Status Card** is currently owned by the **Core Veteran Experience Team**. The Authenticated Experience Team does not own or manage this page.
+
+# Use cases 
+
+## User can successfully view their Veteran Status Card 
+
+* **Description:** User has accurate data that can be gathered from their military service history and vet verification status records. The **DoD ID number** does not show if it is not present. The **VA disability rating** does not show if there is no rating. The **How do I get a physical version of my Veteran Status Card?** Accordion information ***only*** shows in this view.  
+* **Staging user:** vets.gov.user+127@gmail.com  
+* **Status code:** Service history: 200, Vet verification status: 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=2-19062&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L239)
+
+## User is not Title 38 eligible 
+
+* **Description:** User is not Title 38 eligible. Show when Not Confirmed Reason is NOT\_TITLE\_38.  
+* **Staging user:** vets.gov.user+32@gmail.com  
+* **Status code:** Service history: 200, Vet verification status: 200  
+* **Format:** [Standard warning alert component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=4013-3727&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L188)
+
+## Discharge status requires research or other eligibility issues 
+
+* **Description:** Show when discharge status requires research or other eligibility issues. Show when Not Confirmed Reason is MORE\_RESEARCH\_NEEDED, PERSON\_NOT\_FOUND, or other non-NOT\_TITLE\_38 reasons. Also shown when user is CONFIRMED but has no service history.  
+* **Staging user:** vets.gov.user+57@gmail.com  
+* **Status codes:** Service history: 200, Vet verification status: 200  
+* **Format:** [Standard warning alert component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=4013-4059&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L203)
+
+## NotInDEERSAlert, NoServiceHistoryAlert: User does not have a Department of Defense ID or service history 
+
+* **Description:** Message shows if:  
+  * ‘GET service\_history’ returns a 403\. Meaning the user does not have a DoD ID in DEERS.  
+  * \`GET service\_history\` returned an empty service history array. Meaning the user does not have a service history in DEERS.  
+* **Staging user:** vets.gov.user+90@gmail.com  
+* **Status code:** Service history: 200 (with no service history) or 403 error, Vet verification status: 200  
+* **Format:** [Standard warning alert component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=4013-5530&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L211)
+
+# Edge cases 
+
+## Flags 
+
+### Profile shared flags 
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Veteran Status Card errors 
+
+#### Error downloading PDF 
+
+* **Description:** Error occurs when user clicks "Print your Veteran Status Card (PDF)" link. The **How do I get a physical version of my Veteran Status Card?** section of the FAQ shows in this use case.  
+* **Status code:** None, PDF generation is done client-side.  
+* **Format:** [Error alert component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--error)  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=4013-5918&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/2efc99e6c2c3049197d083cb9b9216b55af264f3/src/applications/personalization/profile/components/veteran-status-card/FrequentlyAskedQuestions.jsx#L44)
+
+#### Vet verification status responds with an error 
+
+* **Description:** Vet verification status responds with an error.   
+* **Staging user:** vets.gov.user+41@gmail.com  
+* **Status codes:** Service history: any response, Vet verification status: 4xx & 5xx response  
+* **Format:** [Standard warning alert component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)  
+* [Link to designs](https://www.figma.com/design/wFavpgKzRyeDjVEVMkA8du/Profile---Letters-and-documents?node-id=4013-6206&t=e0M5UWTlvjhI7lLs-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L214)
+
+### Profile shared errors 
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)
+
+
+
+---
+
+
+
+<details><summary>Archive | Veteran Status Card Use Cases, July 2025</summary>
+
 # Veteran Status Card Use Cases
 
 Last updated: July 31, 2025
@@ -150,4 +264,6 @@ There are no validation use cases for this page.
 - **Link to code:** [Display PDF Error Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/2efc99e6c2c3049197d083cb9b9216b55af264f3/src/applications/personalization/profile/components/veteran-status-card/FrequentlyAskedQuestions.jsx#L44)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
+</details>
+
 </details>
