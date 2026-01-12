@@ -19,7 +19,6 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 - [Andrew Pearce](https://dsva.slack.com/team/U087T7L4GTB)
   
 ### Product Management
-- [Joelle Wells](https://dsva.slack.com/team/U07K7BHCX0D)
 - [Lainey Trahan](https://dsva.slack.com/team/U07Q8PYJNMR)
 
 ### Engineering lead
@@ -29,7 +28,6 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 - Riley Anderson
 - John Bramley
 - Emily Nguyen
-- Robert Rodriguez
 
 ### DevOps Engineering Team
 - Josh Houston
