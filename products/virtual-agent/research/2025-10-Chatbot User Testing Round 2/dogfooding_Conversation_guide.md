@@ -3,6 +3,11 @@
 - Thank you for joining today’s group discussion. We want to hear about your independent experiences testing the VA chatbot using the scenarios provided.
 - We'll cover all major areas in the scenario bank—please share your thoughts, findings, and concerns—especially around privacy, security, and accessibility.
 
+I wanted to go over a few things about this meeting quickly before we begin:
+- This entire session should take about 60 minutes. 
+- In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- Are you comfortable if I record my screen and audio as we talk today?
+
 ---
 
 ## 1. General Experience
