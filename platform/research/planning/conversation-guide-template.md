@@ -8,6 +8,12 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
+
+> [!TIP]
+> **Complete the frontmatter section above AFTER you've filled out your conversation guide below.**
+> 
+> Use the [GitHub Copilot Conversation Guide Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/conversation-guide-frontmatter-completion-prompt.md) to automatically generate structured metadata from your completed conversation guide.  The prompt uses natural language processing to extract key information and apply appropriate research repository tags based on your tasks and research objectives.
+
 # Conversation Guide for [initiative]
 
 ## Moderator logistics 📋✅
@@ -159,6 +165,12 @@ Thank you so much again, and enjoy the rest of your day!
 In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
 
 ---
+
+## After You Save This Convo Guide ✅
+
+- [ ] Complete the YAML frontmatter at the top of this file using the [Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/conversation-guide-frontmatter-completion-prompt.md)
+- [ ] Review alignment with your research plan tags
+- [ ] Update the last_modified date
 
 ### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
 
