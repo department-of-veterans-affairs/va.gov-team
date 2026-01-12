@@ -9,7 +9,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 **Team Accreditation**: 
 1. **[ARP MVP clean up] Enable individual acceptance of representation requests**: Develop data models and research all features in ARP that may need updating, design review to understand if any frontend changes will be needed
-2. **[Rep Data] Stability and Maintenance**: Job to pooulate new accredited entities, address approximation (when full rep address is invalid)
+2. **[Rep Data] Stability and Maintenance**: Job to popoulate new Accredited Entities tables (beginning migration from Veteran Service tables, address approximation (when full rep address is invalid)
 
 **Team Benefits**:
 1. **[ITF] MVP - Development**: Launch-blocking QA findings, Datadog setup, release
