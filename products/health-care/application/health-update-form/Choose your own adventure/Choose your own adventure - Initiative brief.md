@@ -1,7 +1,7 @@
 # Choose-your-own-adventure - Initiative Brief
 - Epic - [#123087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123087)
 
-## This work has been descoped as of 1/9/2026
+## ‼️This work has been descoped as of 1/9/2026
 - Previous research showed 50% interest, at best
 - Engineering effort will require 6 months to a year for a complete new build due to the complexity, avoiding buggy retrofitting
 - The feature does not serve an urgent need or solve an urgent problem at this time
