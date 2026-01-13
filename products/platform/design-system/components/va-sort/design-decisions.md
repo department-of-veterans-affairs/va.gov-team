@@ -25,7 +25,7 @@ _Describe the change we are proposing/doing._
 ### Consequences
 _Describe the consequences of the decision. This could include positive and negative impacts, as well as any risks and how they will be mitigated._
 - Contraindicated by original ticket (user must navigate through Filter options to Sort when they simply want to Sort)
-
+- Filter is placed left-side rail which occupies a lot of horizontal space. Using this type of design for just Sort uses space inefficiently.
 
 ### Open Questions
 
@@ -44,7 +44,7 @@ _Describe the status of the decision. Options are "proposed", "accepted", "rejec
 
 ### Context
 Current placement of Sort below the Filter creates an issue where its focus can be skipped if a filter is applied because guidance indicates that focus should move to the Results Description (which is after the Sort component). A SR user would have to navigate backwards to use the Sort.
-- <img width="200" height="424" alt="image" src="https://github.com/user-attachments/assets/b77f2245-dcd4-449d-916f-02e540598920" />
+- <img width="300" height="693" alt="image" src="https://github.com/user-attachments/assets/59a81281-275d-42e9-a4c6-19ea565c2d75" />
 
 
 
