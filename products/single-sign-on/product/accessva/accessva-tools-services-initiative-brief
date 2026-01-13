@@ -1,28 +1,5 @@
-# "AccessVA" to "VA services" Initiative Brief
-#### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
+# "AccessVA" to "VA services" Initiative Brief 
 ---
-
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * Simplying the interface and UI of AccessVA while maintaining its functionality on VA.gov. A key part of its functionality is to provide a starting point for the sign-in process for applications that don't have an unauth state.
@@ -145,7 +122,7 @@ In discussion with Amos, we feel a [release plan](https://github.com/department-
 
 ### After
 the following visual is from figma
-<img width="1023" height="767" alt="image" src="https://github.com/user-attachments/assets/fa6997e4-cb2f-4819-940d-d27f463edc22" />
+<img width="856" height="747" alt="screenshot of figma mockup that shows revised page on va.gov with the h1 AccessVA tools and services" src="https://github.com/user-attachments/assets/8ffad158-d5e4-497a-a20a-21e339b2eb09" />
 
 ---
 
@@ -155,8 +132,8 @@ the following visual is from figma
 <details>
 
 - Team Name: ICAM Portfolio Services - External SSO
-- GitHub Label(s): ICAM-external-SSO
-- Slack channel: [#icam-svcs-external-sso](https://dsva.slack.com/archives/C07T842J0TY)
+- GitHub Label(s): ICAM-SVCS
+- Slack channel: [#identity](https://dsva.slack.com/archives/C04LFGY2SJK)
 - Product POCs:
   - Amos Stone | ICAM Technical Advisor & SSOe Product Owner:
     - john.stone3@va.gov
