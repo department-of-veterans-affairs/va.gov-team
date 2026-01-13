@@ -9,7 +9,7 @@
 **Topics covered**: 5
 
 * Veterans’ understanding of dependents management  
-* Unexpected results in analytics  
+* Unexpected results seen in form analytics  
 * Ways to improve communication with Veterans about verification  
 * How Veterans begin the process of providing student information to VA  
 * Usability of the 674 form experience
@@ -39,7 +39,7 @@ From the Continuous Discovery Pilot Process document: "The goal is to improve us
 
 - Our Product Manager, HCD Lead, and researcher collaborated on a document outlining a suggested plan for the Continuous Discovery pilot, including team roles and responsibilities, topic selection guidelines, and timelines.  
 - We shared this document with other team members and our stakeholders and incorporated their feedback.  
-- Then we collaborated with Shane Strassberg to plan for how Continuous Discovery’s frequent, small studies could work with OCTO’s research approval process and Perigean’s recruiting timelines. The approach we settled on was to submit a research plan for a set amount of rounds of Continuous Discovery, in this case three months.   
+- Then we collaborated with Shane Strassberg, OCTO Research Operations Lead, to plan for how Continuous Discovery’s frequent, small studies could work with OCTO’s research approval process and Perigean’s recruiting timelines. The approach we settled on was to submit a research plan for a set amount of time, in this case three months.
 - We also held a kickoff call with Perigean to make sure that we were aligned. We requested 5 participants each round.  
   
 
@@ -48,9 +48,11 @@ From the Continuous Discovery Pilot Process document: "The goal is to improve us
 
 - Our team works in two-week sprints, so that is what we based our Continuous Discovery cycles on. During the first week we prepared for and conducted the research sessions. In the second week we analyzed the findings from the research sessions, documented findings in Github, decided on a topic for the next research cohort, and communicated our participant needs to Perigean. 
 
-- Midway through the pilot we conducted a retro to reflect on the process so far and make adjustments for the rest of the experiment. The team found that the successful aspects of the pilot included positive feedback from stakeholders who perceived the work as nimble and opportunities for team members to observe the research. The research benefits were receiving feedback on incremental aspects of design, receiving timely feedback, the regular contacts with Veterans, and the insights we had surfaced,  
-  There were also opportunities for improvement. The pace of continuous discovery could be draining, and did not allow for extensive preparation and limited digesting, sharing, and documenting findings after the study.  
+- Midway through the pilot we conducted a retro to reflect on the process so far and make adjustments for the rest of the experiment. The team found that the successful aspects of the pilot included positive feedback from stakeholders who perceived the work as nimble and opportunities for team members to observe the research. The research benefits were receiving feedback on incremental aspects of design, receiving timely feedback, the regular contacts with Veterans, and the insights we had surfaced.  
+  There were also opportunities for improvement. The pace of continuous discovery could be draining and did not allow for extensive preparation. The time for digesting, sharing, and documenting findings after the study was limited.  
   The team discussed many opportunities for improvement and next steps and there were 3 that we took action on immediately. The first was that we would continue to share the results of the research in the Sprint Reviews. This was important for communicating the findings with POs and team members outside the HCD team. We began to include the findings in sprint review shortly before the retro, after Sanja requested more updates on the continuous discovery work. We also began to create tickets when artifacts were needed to support the research. This allowed us to account for design and content team members’ time and how that would affect other work. Finally, in light of the pace of the continuous discovery work, we are taking a break over the holidays to accommodate team members’ varied schedules and fully review the results of the pilot.
+
+  [Full notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-continuous-discovery-pilot/Midpoint%20Retro.md) from the retro are available in Github.
 
 - We did conduct one larger study during the continuous discovery pilot. This was accomplished by having the researcher conduct those interviews during the second week of the continuous discovery cycle. Other HCD team members completed the continuous discovery planning and analysis that is done during this second week. We also requested that Perigean recruit additional participants during our last continuous discovery cohort and it became similar to a larger, standard moderated user study.
 
