@@ -44,7 +44,7 @@ Third-party
 **User flow**
 
 There appears to be two different paths for these forms: one path via the public-facing va.gov website and a second specifically for accredited representatives.
-Meeting with engineering lead Justing and another previous lead engineer on the accredited representative portal, determined that the forms are seperate, the portal follows updates from the VA forms pool.
+Meeting with engineering lead Justin and another previous lead engineer on the accredited representative portal, determined that the forms are separate, the portal follows updates from the VA forms pool.
 
 * Portal https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1710857598969/32219746df15eb2602a01b1b3b1b3ccf9fa8760d
 
