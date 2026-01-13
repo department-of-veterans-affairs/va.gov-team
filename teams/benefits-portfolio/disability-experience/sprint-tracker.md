@@ -2,6 +2,89 @@
 
 _**Overview:** This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 22 Tickets  [01/14/26 - 1/27/26]
+
+|Sprint|Team|Title|URL|Estimate|Status|Sprint Notes|
+|---|---|---|---|---|---|---|
+|Sprint 22|Core Form Team|[INTAKE] Core team: Copy of Submission Accordion display of homelessness questions/responses|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125103|2|Needs Review|S21: C&IA intake ticket created. It was assigned to Juliana. Waiting for her review.|
+|Sprint 22|Core Form Team|Check into the rated disability timeout we have set and reconcile it with lighthouses service|https://github.com/department-of-veterans-affairs/va.gov-team/issues/113781|3|Blocked| |
+|Sprint 22|Core Form Team|Test impact of enabling previously skipped questions on backend (BDD claims)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127190|5|In Progress|S21: Discovery took longer than expected + OOO|
+|Sprint 22|Core Form Team|Bug: Evidence upload fails for Form526Submission.id=4086274 with Errno::ENAMETOOLONG (undefined method `errors` for error object)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129489|3|In Progress|S21: added 1/9 - prod issue Evidence upload fail. will roll. unplanned work|
+|Sprint 22|Core Form Team|Security issue for PDF endpoint vulnerability|https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/5063| |In Progress| |
+|Sprint 22|Core Form Team|Update BDD 526ez Product Guide with new pages and update the call center|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127049|3|Current Sprint|S21: Deprioritized to progress on roadmapping activities|
+|Sprint 22|Core Form Team|Discovery - User Supplied Documents -  	Failed To Read Document (IO)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126285|5|Current Sprint|S21: Multiple urgent prod issues and improvements were done in it's place.|
+|Sprint 22|Core Form Team|Rerun discovery queries from 9/15 till now and gather additional details with LH/BGS issues failed downstream|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120252|2|Current Sprint| |
+|Sprint 22|Core Form Team|Discovery - Investigate uploader version for Veteran evidence submission & virus-checking capabilities|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129858|3|Current Sprint| |
+|Sprint 22|Core Form Team|Finalize Platform Review: AddressUI Pattern Update|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129914|5|Current Sprint| |
+|Sprint 22|Core Form Team|Staging Validation: AddressUI Pattern Update|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129916|3|Current Sprint| |
+|Sprint 22|Core Form Team|Discovery: programmatic solution for silent failures of 526 PDF uploads to LightHouse |https://github.com/department-of-veterans-affairs/va.gov-team/issues/112683|2|Prioritized Backlog| |
+|Sprint 22|Core Form Team|Discovery - Backup Path Cause - Common::Exceptions::UnprocessableEntity|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128767|3|Prioritized Backlog| |
+|Sprint 22|Core Form Team|Discovery - risks and accuracy improvements using LH final_status for failure emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129218|5|Prioritized Backlog| |
+|Sprint 22|Core Form Team|Discovery: check saved claims for startedFormVersion|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129547| |Prioritized Backlog| |
+|Sprint 22|Pathways Team|Enhanced Monitoring for Toxic Exposure Data Purge in vets-api|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128789|3|Needs Review|S21: waiting for Platform review. Expecting to deploy by EOD|
+|Sprint 22|Pathways Team|Frontend date handling - Monitor 422 bugs in data dog to confirm resolving of purge issue on the R&S|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126555|2|Blocked|S21: will be unblocked after #126577 deploys to prod at EOD. Carry over|
+|Sprint 22|Pathways Team|Frontend date handling - 25% re-release and monitoring of Toxic Exposure purging results|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126563|2|Blocked|S21: will be unblocked after #126577 deploys to prod at EOD. Carry over|
+|Sprint 22|Pathways Team|Replace logic for Toxic Exposure date to accept no/partial date|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128641|5|Blocked|S21: Requires schema update & team/Platform review|
+|Sprint 22|Pathways Team|VFF Forms - Establish directional roadmap for inherited forms to be updated|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120156|5|In Progress| |
+|Sprint 22|Pathways Team|0781 Supporting Documents: discovery - how to configure tracking metrics in Google Analytics (GA4)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/123497|5|Current Sprint| |
+|Sprint 22|Pathways Team|Sprint 22 - watchdog duties|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129344|5|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - set up a feature flag|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129443|2|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Evidence orientation page|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129610|3|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Medical records choice pages - multiple responses pattern|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129612|5|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Evidence choice page|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129620|3|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Evidence upload page - replace with V3 File Input component|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129622|5|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Evidence upload page - updating content and add accordion|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129623|3|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - Evidence summary page|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129624|3|Current Sprint| |
+|Sprint 22|Pathways Team|Form 26-4555 - update the components in Figma|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129625|3|Current Sprint| |
+|Sprint 22|Pathways Team|Form 26-4555 - update the Figma content to match staging|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129626|3|Current Sprint| |
+|Sprint 22|Pathways Team|Blockage Prevention - Monitoring datadog for 422, 502, 503, 504 errors on the UUIDs that were impacted by the blockage prevention|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129674|2|Current Sprint| |
+|Sprint 22|Pathways Team|0781 enhancements - designers provide feedback, review, and approval - Sprint 22|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129819|5|Current Sprint| |
+|Sprint 22|Pathways Team|feat(526): Update vets-json-schema to accept YYYY-MM dates|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129871|2|Current Sprint| |
+|Sprint 22|Conditions Team|[V2 Phase 1]  Build out datadog dashboard|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128796|5|Done| |
+|Sprint 22|Conditions Team|Supporting Evidence does not list rated disabilities|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128731|2|In Progress| |
+|Sprint 22|Conditions Team|[V2 Phase 1] Test multi-step conditions updates in staging before canary release|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129933|2|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Product go/no go collab review|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127448|3|Prioritized Backlog| |
+|Sprint 22|Conditions Team|[V2 Phase 1] Canary release in prod and capture performance behavior|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120731|5|Prioritized Backlog| |
+|Sprint 22|Conditions Team|[V2 Phase 1] Monitor performance of Canary release|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129782|3|Prioritized Backlog| |
+|Sprint 22|Conditions Team|discovery/triage: canary release, ensure user doesn't get stuck when continuing a SiP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128747|1|Prioritized Backlog| |
+|Sprint 22|Conditions Team|SiP Forms SPIKE:  Feature Toggle Change Causes Disabilities Workflow Mismatch on Resume - Option 3|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129681|5|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Discovery: Update logic for Benefits Delivery Before Discharge (BDD) claims so conditions questions (step 2) are not skipped|https://github.com/department-of-veterans-affairs/va.gov-team/issues/119925|2|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Discovery: New condition field can be left blank and in error state by going back in form|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120824|3|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Update spreadsheet of classifier historical metrics, Sprint 22|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129299|1|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Finalize research report for supplemental claim|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127699|2|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Draft mental model report|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129717|3|Prioritized Backlog| |
+|Sprint 22|Conditions Team|Socialize research ticket templates for updates|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125450|1|Prioritized Backlog| |
+|Sprint 22|Conditions Team|[v2 phase1] Update internal documentation with V2 Phase 1 flow|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125680|5|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Migrate renderer to vets-website|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127582|5|Needs Review|S21: Currently in review, just waiting on review platform FE cop. Will be done as soon as we have that.|
+|Sprint 22|Employee Experience Team|Implement additional engineering updates for FDF “new page” demo|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127583|3|Needs Review|S21: Currently in review, just waiting on review platform FE cop. Will be done as soon as we have that.|
+|Sprint 22|Employee Experience Team|Improve the auto-redaction script to be closer to HIPAA "safe harbor" + re-run on prod documents|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128827|5|Needs Review|S21: we're working on shoring up the names, addresses, dates still, should be good to close this out after one more Prod/Eng review on 11/13, or 11/14.|
+|Sprint 22|Employee Experience Team|Investigate using an ordered list for form-renderer|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128559|2|In Progress|S21: Prototyping in progress, waiting to hear back from accessibility, and sharing with team tomorrow (expecting to complete in a day or two)|
+|Sprint 22|Employee Experience Team|[FDF VSR Usability] Generate topline summary|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126056|3|Prioritized Backlog|Pulling into sprint 22 now that the usability sessions were completed on the last day of sprint 21.|
+|Sprint 22|Employee Experience Team|[FDF VSR Usability] Synthesize VSR findings|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126057|8|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|[FDF VSR Usability] Research readout shareout|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126060|2|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|[FDF VSR Usability] Generate usability testing video clips for presentation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127879|3|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Adapt Doc Classifier for local setup|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129138|3|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Begin discussion of special issue for MVP rollout with Dependents team|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129630|3|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Review + start prepping for AI Governance process|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129631|2|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Preliminary deep dive on CAVES codebase|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129632|2|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Sync with Nel on running classifier code, eval pipeline, and sample documents|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129634|2|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Pull 10 more prod documents for evaluation (with Alejandro)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129635|3|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Design<>Eng pass for FDF “new page” renderer|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129822|3|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Local demo of FDF new page renderer|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129829|2|Prioritized Backlog| |
+|Sprint 22|Employee Experience Team|Capacity hold for work coming out of Forms API/swagger meeting|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129909|3|Prioritized Backlog| |
+|Sprint 22|Team 5|Meet with the Design council on 1/15|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128571|2|Blocked|S21: added 1/6; will roll over to S22 due to scheduled meeting falling on 1/15|
+|Sprint 22|Team 5|Submit Analytics Request for Side Nav MVP GA4 custom events|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129506|2|Blocked| |
+|Sprint 22|Team 5|Datadog RUM logging for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127743|3|In Progress|S21: Will roll over to S22 due to a recent team transition – ticket will be reassigned.|
+|Sprint 22|Team 5|Finalize research report & plan shareout|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128205|3|Current Sprint| |
+|Sprint 22|Team 5|Explore baseline metrics for current start/restart experience|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129313|5|Current Sprint| |
+|Sprint 22|Team 5|Prepare Artifacts and Environment for Staging Review|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129466|3|Current Sprint| |
+|Sprint 22|Team 5|Submit ADE Team Request for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129467|2|Current Sprint| |
+|Sprint 22|Team 5|Spike: Adding event tracking for Side Nav MVP launch|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129504|3|Current Sprint| |
+|Sprint 22|Team 5|Refine requirements and scope for Side Nav post-MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129507|3|Current Sprint| |
+|Sprint 22|Team 5|Address Bug Bash Findings|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129543|3|Current Sprint| |
+|Sprint 22|Team 5|Research "| Create and finalize readout presentation deck|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129587|2|Current Sprint| |
+|Sprint 22|Team 5|Spike: Explore how VAGPT/Copilot could be leveraged to speed up intercept survey analysis|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129913|2|Current Sprint| |
+
 # Sprint 21 Tickets  [12/31/25 - 1/13/26]
 
 # Sheet1
