@@ -4,6 +4,7 @@ This doc explains patients' secure messaging experience during the data migratio
 In this doc: 
 - [Upcoming sites](#upcoming-sites)
 - [UX during transition](#ux-during-transition)
+- [Questions](#questions)
 
 ## Upcoming sites
 Upcoming transitioning sites in Michigran for April 2026: 
@@ -27,8 +28,20 @@ We'll display these alerts to users.
 Here's what users will and won't be able to do during the transition: 
 |What users can do during transition|What users can't do during transition|
 |---|---|
-|- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>-Save draft<br>-Create folder (VA.gov only)<br>-Edit preferred care team list (VA.gov only)<br>-Delete folder (VA.gov only)<br>-Edit folder (VA.gov only)<br>-Delete thread (VA.gov only)<br>-Move thread (VA.gov only)| 
+|- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>- Save draft<br>- Create folder (VA.gov only)<br>- Edit preferred care team list (VA.gov only)<br>- Delete folder (VA.gov only)<br>- Edit folder (VA.gov only)<br>- Delete thread (VA.gov only)<br>- Move thread (VA.gov only)| 
 
-### Open questions
+## Questions
 - If BE will disable care teams at transitioning MI sites, can users still select them in the combobox drop down or recent recipients page?
-
+   - Care teams at MI transition sites won't appear on either recent recipients page or combobox.  
+- What should the experience for replies be for MI transition sites?
+   - There's an alert we display for people trying to message blocked TG.
+- What about the other actions (ex: Create folder, Delete folder, etc.)?
+   - User gets routine red error message
+- If someone already has a draft to that care team at MI, how will this work?
+   - Their care team will still display
+   - Idea: Prevent any editing for fields in draft
+   - Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
+- Should we add an alert to the pages where you select a care team?
+   - Yes
+- For error messages, should we have a custom alert?
+   - Yes, can be more specific messages. Engineering will create custom alerts.
