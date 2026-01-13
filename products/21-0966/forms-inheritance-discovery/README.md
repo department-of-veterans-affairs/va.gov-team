@@ -1,4 +1,4 @@
-# 21-0966 Form Inhearitence Discovery
+# 21-0966 Form Inheritance Discovery
 
 ## Now (01/12/2026)
 
