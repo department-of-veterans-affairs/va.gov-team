@@ -6,8 +6,21 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] **SPRINT GOAL** 10-10dv2: Prod Monitor health of launches
-
+- [ ] **SPRINT GOAL** 10-10d: Resolve minor VES/PEGA data feed bugs and disable legacy 10-10d feed to PEGA
+- [ ] **SPRINT GOAL** 10-10d: BE VES launch
+- [ ] **SPRINT GOAL** 10-10d: Staging review findings
+- [ ] **SPRINT GOAL** 10-7959a: BE/FE fix issues in CHAMPVA Claims (document types, form pathing, save-in-progress)
+- [ ] **SPRINT GOAL** 10-7959a: Final QA, after fixes and before launch
+- [ ] **SPRINT GOAL** 10-7959a: BE/FE CHAMPVA Claims launch
+- [ ] **SPRINT GOAL** 10-7959f-2: Final QA, finalize launch prep
+- [ ] **SPRINT GOAL** UX: 1010d: Prepare for upcoming TRICARE study
+- [ ] **SPRINT GOAL** UX: All forms: Dec and Year End Metrics
+- [ ] **SPRINT GOAL** All forms: Final dashboard tweaks, logging, and monitoring
+- [ ] **SPRINT GOAL** All forms: Clarify and validate GA and Domo reporting views
+- [ ] **STRETCH GOAL** 10-7959a: Investigate combining documents in 10-7959a claims flow
+- [ ] **STRETCH GOAL** 10-7959c: Explore POC for combining front/back of cards for OHI
+- [ ] **STRETCH GOAL** 10-7959c: Begin OHI Standalone VES integration (dependent on VES timing)
+- [ ] **STRETCH GOAL** 10-7959c: BE/FE OHI Standalone launch
 
 
 ##
