@@ -24,7 +24,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
 
-## Sprint Goals - Sprint: 26 [01/14/26 - 01/27/26]  
+## Sprint: 26 [01/14/26 - 01/27/26]  
 | Sprint Goal | Goal P  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: | PX |--|--|--|
