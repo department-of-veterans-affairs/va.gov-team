@@ -9,7 +9,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 
 **Team Accreditation**: 
 1. **[ARP MVP clean up] Enable individual acceptance of representation requests**: Develop data models and research all features in ARP that may need updating, design review to understand if any frontend changes will be needed
-2. **[Rep Data] Stability and Maintenance**: Job to popoulate new Accredited Entities tables (beginning migration from Veteran Service tables, address approximation (when full rep address is invalid)
+2. **[Rep Data] Stability and Maintenance**: Job to popoulate new Accredited Entities tables (beginning migration from Veteran Service tables, address approximation (when full rep address is invalid), programmatically get Trexler file from SQL server
 
 **Team Benefits**:
 1. **[ITF] MVP - Development**: Launch-blocking QA findings, Datadog setup, release
@@ -38,7 +38,18 @@ TBD
 
 ## Sprint 8 Tickets
 
-TBD
+**Team Accreditation**
+
+|Title|URL|Status|Estimate|
+|---|---|---|---|
+|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|In Progress|SPIKE|
+|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5|
+|Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results	|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120822|Sprint Backlog|5|
+|Write a job to populate the 'new' accredited entities using data from Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129161|Sprint Backlog|5|
+|Architecture: develop data models for Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129163|Sprint Backlog|SPIKE|
+|Research: all features touching Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129164|Sprint Backlog|SPIKE|
+|Design review - Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129165	|Sprint Backlog|3|
+|Implementing frontend changes associated with Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129436|Sprint Backlog|5|
 
 
 
@@ -80,19 +91,24 @@ TBD
 ## Sprint 7 Tickets
 
 **Team Accreditation**
-|Title|URL|Status|Estimate|
-|---|---|---|---|
-|Testing the Accreditation API in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323|QA|3|
-|Update deprecated AddressPOU values|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128643|PR Review|1|
-|Chapter 6: Document Upload - Create a new endpoint to handle document uploads for 21a|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765|Blocked|8|
-|Chapter 6: Document Upload - Create a background job that's called after the form has been posted to GCLAWS to post the file uploads|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114767|Blocked|5|
-|Chapter 6: Document Upload - Enable s3 bucket in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125901|Blocked|1|
-|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|In Progress|SPIKE|
-|Discovery for SQL API fallback|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127915|In Progress|2|
-|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|In Progress|5|
-|Chapter 6: Ensure fields align, use schema for validation, unit tests|https://github.com/department-of-veterans-affairs/va.gov-team/issues/112535|Prioritized Backlog|3|
-|Confirm Form 21a 'currently' schema booleans are added to GCLAWS API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/91776|Prioritized Backlog|2|
-|Update existing Accreditation API job to include fallback (SQL API)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126324|Prioritized Backlog|3|
+
+Moving forward, Team Accreditation will be dropping to the backlog tickets that have blockers with an uncertain / externally-dependent timetable for resolution -- so many of the non-Done tickets in the table will not immediately appear in Sprint 8 planning. This work will be pulled in as it becomes unblocked.
+
+|Title|URL|Status|Estimate|Stretch Goal|Reason for carry over|
+|---|---|---|---|---|---|
+|Chapter 6: Document Upload - Create a new endpoint to handle document uploads for 21a|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114765|Done|8|||		
+|Design / Discovery Suppressing Invalid Rep Addresses|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128101	|Done|3|Yes||	
+|Update deprecated AddressPOU values|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128643|Done|1|||		
+|Investigate data discrepancies between sources and prod database|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129399|Done|SPIKE|Yes||	
+|Discovery for SQL API fallback|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127915|Done|2	|||	
+|Testing the Accreditation API in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323|QA|3|	|Blocked|
+|Chapter 6: Document Upload - Enable s3 bucket in Production|https://github.com/department-of-veterans-affairs/va.gov-team/issues/125901|QA|1|		|Blocked|
+|Chapter 6: Document Upload - Create a background job that's called after the form has been posted to GCLAWS to post the file uploads|https://github.com/department-of-veterans-affairs/va.gov-team/issues/114767|Blocked|5|		|Blocked|
+|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|Blocked|SPIKE|		|Work still in progress|
+|Chapter 6: Ensure fields align, use schema for validation, unit tests|https://github.com/department-of-veterans-affairs/va.gov-team/issues/112535|Sprint Backlog|3|	|Blocked|
+|Confirm Form 21a 'currently' schema booleans are added to GCLAWS API|https://github.com/department-of-veterans-affairs/va.gov-team/issues/91776|Sprint Backlog|2|	|Blocked|
+|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5|	|Work still in progress|
+|Update existing Accreditation API job to include fallback (SQL API)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126324|Sprint Backlog|3|	|Blocked|
 
 **Team Benefits**
 
