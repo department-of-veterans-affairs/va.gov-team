@@ -54,7 +54,8 @@ The flow relies specifically on the query parameters:
 ## Resources
 
 **Figma file:**  
-[Source of truth – Secure Messaging](https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4510-97564&p=f&t=FSjDUaFgluAS4poD-0)
+- [Source of truth – Secure Messaging](https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4510-97564&p=f&t=FSjDUaFgluAS4poD-0)
+- [Google Analytics: Meds renewal flow event tracking](https://analytics.google.com/analytics/web/#/analysis/a50123418p418218150/edit/etkIBLZyTDevzFP07tdiQA)
 
 **Product guides:**  
 TBD
