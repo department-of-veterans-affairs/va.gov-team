@@ -10,7 +10,7 @@
 
 ## Jump to:
 
-* [Background & Context](#background-and-context)  
+* [Background and Context](#background-and-context)  
 * [Research Goals](#research-goals)  
 * [Research Methodology](#research-methodology)  
 * [Key Findings](#key-findings)  
@@ -20,7 +20,7 @@
 
 ---
 
-## Background and Context {#background-and-context}
+## Background and Context
 
 The Decision Reviews team conducted a broad search of key themes and top Veteran pain points across 2 sources: Call Center and Medallia data. Call Center data is qualitative free-form text; the input coming from Call Center representative notes based on incoming calls with Veterans. Medallia is quantitative data which comes from Veterans answering surveys in various places on [VA.gov](http://VA.gov). We leveraged traceable parsing tools to produce a high-level overview of areas of top concern for Veterans. This will give us the ability to prioritize key focuses of improvement, as well as identifying areas for future more in-depth research. 
 
@@ -32,7 +32,7 @@ Analyzing data from both the Call Center and Medallia survey feedback touches on
 * The “*Putting down roots*” stage, specifically the “Engaging VA to access benefits and services” phase.  
 * And the “*Retiring*” stage, specifically within the “Finding additional sources of incomes”  and “Taking care of myself” phase.
 
-## Research Goals {#research-goals}
+## Research Goals
 
 The scope of this research included the Call Center logs and Medallia feedback data from March 2024 to October 2025\. 
 
@@ -72,7 +72,7 @@ The scope of this research included the Call Center logs and Medallia feedback d
 
 ---
 
-## Research Methodology {#research-methodology}
+## Research Methodology
 
 **Method:** Desk research / Review of existing data
 
@@ -100,7 +100,7 @@ UX then reviewed and cross-checked the AI-generated spreadsheets, then manually 
 
 ---
 
-## Key Findings {#key-findings}
+## Key Findings
 
 There is some crossover between Call Center and Medallia data, with both showing similar issues: poor claim status visibility, technical failures, document handling issues, unclear guidance, and appeal workflow breakdowns. Call Center data tends to emphasize the outcomes and frustrations from the perspective of the Veteran, as reported to Call Center representatives, whereas Medallia data emphasizes the root causes in the digital systems \- both UX and system behavior. Call Center data captures the downstream impact on Veterans, while Medallia data provides a more detailed insight into why these problems might occur. Some of these issues are within the scope of the Decision Reviews Team, while others are the responsibilities of other teams and considered Out Of Scope (OOS).
 
@@ -119,11 +119,11 @@ The top pain points listed here are merged from findings across both Call Center
 
 1. **Delays and long wait times to receive claim and decision review decisions**
 
-*Frequency: 1,614 of 13,161 total Call Center responses (12.3%)*
+    *Frequency: 1,614 of 13,161 total Call Center responses (12.3%)*
 
 2. **Informal conferences – Missed or Cancelled**
 
-*Frequency: \~450 of 3,800 total Call Center responses (NOD only) (11.84%)*
+    *Frequency: \~450 of 3,800 total Call Center responses (NOD only) (11.84%)*
 
 3. **Veterans disagree with denials of their claims and appeals**  
    *Frequency: 1,472 of 13,161 total Call Center responses (11.2%)*
@@ -142,8 +142,8 @@ The top pain points listed here are merged from findings across both Call Center
      
 8. **Lost or Missing Documentation / FOIA and Records Access Problems**  
    Frequency:   
-* *Lost or Missing Documentation: 978 of 13,161 total Call Center responses (7.4%)*   
-* *FOIA and Records Access: 578 of 13,161 total Call Center responses (4.4%)*
+    * Lost or Missing Documentation: 978 of 13,161 total Call Center responses (7.4%)*   
+    * FOIA and Records Access: 578 of 13,161 total Call Center responses (4.4%)*
 
 9. **Disagreement with decisions (ratings)**   
    *Frequency: 912 of 13,161 total Call Center responses (6.9%)*  
@@ -202,7 +202,7 @@ These are issues not commonly found in Call Center data:
 * Submission confirmation date issues  
 * Automated form misclassification (QuickSubmit errors \- OOS)
 
-## Design/Research Suggestions {#design/research-suggestions}
+## Design/Research Suggestions
 
 * Conduct UX Spikes for further research on:  
   * Supporting Veteran frustration on delays and long wait times to receive decision review decisions  
@@ -235,7 +235,7 @@ These are issues not commonly found in Call Center data:
 
 ---
 
-## Appendix 1: Links {#appendix-1:-links}
+## Appendix 1: Links
 
 **Call Center** data spreadsheets in SharePoint:
 
@@ -249,7 +249,7 @@ These are issues not commonly found in Call Center data:
 - [a11-filtered-empty-qual.xlsx](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/a11-filtered-empty-qual.xlsx?d=w4b70b1bdd1514177952ae642ea333f78&csf=1&web=1&e=0JIfDU)  
 - [vfs-filtered-empty-qual.xlsx](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/vfs-filtered-empty-qual.xlsx?d=w8fcb9ccd92a14a6b969f3f8424236dc2&csf=1&web=1&e=nQuWa8)
 
-SharePoint links to:
+**SharePoint** links to:
 
 * [Top Decision Reviews Pain Points Call Center Data from March 2024-October 2025.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Call%20Center%20Data%20from%20March%202024-October%202025.docx?d=wcb75f9ab3b3845c0b9420eb659ed9d7e&csf=1&web=1&e=u7YWHR)  
 * [Top Decision Reviews Pain Points Medallia Data from March 2024-October 2025.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Medallia%20Data%20from%20March%202024-October%202025.docx?d=w16862d3f7e27414b9dc9cefb3917c3fc&csf=1&web=1&e=0Yt6KJ)
@@ -263,9 +263,10 @@ SharePoint link to [Top 15 Overall Pain Point Issues by Frequency.docx](https://
 [Desk research: Synthesizing veteran pain points and keywords Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F09NLN0PHKN)
 
 [Google sheet of prioritized work](https://docs.google.com/spreadsheets/d/1I5HEyzdXLpc3fMY7DKkw40_MhLla87oMvEKfglOcZ3o/edit?gid=0#gid=0)
+
 [Excel Spreadsheet of prioritized work](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BA0EB5B15-0C27-47F3-B446-EDE9FA49CA73%7D&file=Veteran%20Pain%20Point%20Work%20Backlog.xlsx&action=default&mobileredirect=true)
 
-## Appendix 2: Medallia Research Questions {#appendix-2:-medallia-research-questions}
+## Appendix 2: Medallia Research Questions
 
 (From Ticket: [\[Eng\] Parse Medallia datasets according to UX requirements \#126908](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126908))
 
