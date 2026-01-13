@@ -224,6 +224,10 @@ Depending on the scenario, the moderator can prompt: Are you ready to submit you
 - [ ] Step 2 - User reviews agreement and selects "Submit claim."
 - [ ] Step 3 - User views confirmation page.
 
+User views confirmation page. 
+
+Moderator can prompt: Tell me about what you're seeing on this page. 
+
 > [!NOTE]
 > ### Things to watch for:
 > - Does the user understand they need to select "Sign Agreement" in order to submit?
