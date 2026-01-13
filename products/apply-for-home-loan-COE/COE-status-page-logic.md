@@ -50,6 +50,8 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
 ## [Simplified Mural of this process](https://app.mural.co/t/cve1274/m/cve1274/1767825762733/8a744b31a654e2aeb0a0a218323c0aae9cb7c72c)
 
+## [Test Users for each of the status page scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/Test%20and%20Launch/CoE%20Staging%20Test%20User%20Information.md#all-login-information)
+
 ## A user is returned as ELIGIBLE from `/eligibility/determination`
 
 - If the determination comes back as ELIGIBLE, and a 404 response is returned from `/eligibility/application`, this means that no COE application was found and an automatic COE is created. The user will see this page - a green alert with the reference number and a download link below.
