@@ -70,7 +70,15 @@ Before we start, I have a few things that I want to go over with you:
 
 *After you start the recording, click the Show captions (CC) button to enable transcription for the recording.*
 
-I can add screen sharing instructions and how to find the Zoom chat here if needed. 
+## Screen sharing instructions (if needed)
+- In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
+    - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+    - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+- Now I'd like you to share your screen with me. Tap on the button that says Share. You will then see options for what to share. Please choose "Screen" (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+- iPad: Broadcast screen
+- Backup plan if they cannot figure out how to share screen:
+    - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control--doesn't work w/iPhones] Can you click and see if you can move your mouse around on my screen?
 
 ## Warm-up Questions
 
@@ -78,17 +86,32 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a surviving spouse/child of a Veteran. Is that right?  
    1. Thanks for confirming that.  
-2. What kind of device are you using today? (Computer / Tablet / Smartphone)  
+2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
+    - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.  
 3. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat.   
 4. What do you know about survivor benefits?  
 5. Are you familiar with how to get survivor benefits?  
    1. (If Y) Have you applied for survivor benefits in the past? i.   
       * (If Y) Can you tell me about your experience? (when, how, results)  
          * Once you realized you might be eligible for benefits, what was the very first step you took to get started?  
-         * Where did you go to find information about what you were entitled to?  
+         * Where did you go to find information about what you were entitled to?
+         * Did you experience any difficulty finding information”
+             * If Y: At what point in the process did that occur?
+         * Were there any aspects of that application experience, positive or negative, that stand out in your memory? 
+             * (If Y)Can you talk about that?
    2. (If N) No problem. You'll learn about it as we go through this session.
+         * As someone new to this process, what are your immediate thoughts or concerns about applying for VA benefits for the first time?
 
-## First Task: Open form
+## First Task: Wayfinding
+
+- If you wanted to learn more about survivors benefits, what would you do first on VA.gov? 
+    - Prompt: How would you expect to find this specific form on the VA.gov site?
+    - Note what they would use*: Google / VA.gov / key words looking/searching for: _______________________
+- Do you understand the difference between Dependency and Indemnity Compensation (DIC), Survivors Pension, and Accrued Benefits? If not, where would you go to find that information?
+
+**The new test form is not especially searchable/findable yet on staging, so they may demo their approach - but reassure them that it may not be effective on the test site.** 
+
+## Second Task: Open form
 
 Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)
 
@@ -97,13 +120,17 @@ Did you get the link?
 * If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)  
 * If link doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)
 
-## Second Task: Go through questions in form
+Please look over the section under “Follow these steps to get started.” Do the steps make sense to you? 
+
+## Third Task: Go through questions in form
 
 I want to make sure that you feel comfortable, so please know that you don’t have to stick to your real-life situation when answering any of the following questions. If it feels easier, you’re welcome to create a fictional scenario or adjust the details in any way that works for you. **Our goal is to test how the system works and make sure each question is clear**, we’re not testing your specific answers.
 
 Please try to **talk aloud** about what you're thinking and what you plan to do BEFORE selecting anything.
 
 (RECORD all feedback on questions and if they get an alert to provide a supporting document)
+
+- If you had to stop and come back to the form, would you know how to save your progress and return? What would make you decide to save and exit versus completing the form in one session?
 
 *Note: This form uses conditional logic, certain questions don’t appear on every flow. The following steps highlight key pages where we could prompt participants for feedback.*
 
@@ -117,7 +144,8 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
       * *Navigate back a page and select a different relationship.*  
   * Benefit type  
     * In your own words, what is the benefit you selected for?  
-    * Is there any term on this page that feels unfamiliar or confusing?  
+    * Is there any term on this page that feels unfamiliar or confusing?
+    * Do you feel confident that you selected the right benefit type for your situation (DIC vs. Survivors Pension vs. Accrued Benefits)? Why or why not?
 * Step 3: Military history  
 * Step 4: Household info  
   * *Surviving spouses will see marriage and dependent sections*  
@@ -146,7 +174,8 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
     * What would you do now?  
   * Income and assets  
     * Looking at the information on this page, are there any items you own that you are unsure about including as an asset? You don’t have to tell me what they might be, just a simple “yes” or “no” is fine.   
-    * Is there anyone that you aren't sure whether to include in this total?  
+    * Is there anyone that you aren't sure whether to include in this total?
+    * If you accidentally entered a wrong number, how would you go about correcting it? (Observe error recovery.)
   * Gross monthly income   
     * (On intro page) After reading the note, how would you decide which income sources to include or exclude?  
     * (On summary page) How comfortable would you feel submitting this income information as it stands right now?  
@@ -161,26 +190,31 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 
 *Pause on the supporting documents list.*
 
-## Third Task: Supporting documents list
+## Fourth Task: Supporting documents list
 
 Please tell me about what you see here.
 
-1. What does this mean to you?  
-2. If you had to start gathering these documents today, which one would you look for first? Why?  
-3. Which specific items on this list, if any, feel difficult to obtain?  
-4. How long do you estimate it would take you to collect the documents you need?  
-5. Are there any documents on this list that seem confusing? ~~more~~ If you needed more details about them, is this the page where you’d expect to find that?  
-6. Are there any forms that you would need assistance filling out?  
-7. Was there anything you expected to see here that is missing?
+1. What does this mean to you?
+2. If you had to start gathering these documents today, would you know where to find them and/or how to obtain them?
+3. Which specific items on this list, if any, feel difficult to obtain?
+4. How long do you estimate it would take you to collect the documents you need?
+5. Was there anything you expected to see here that is missing?
+6. How comfortable are you with uploading sensitive personal documents (like a death or marriage certificate) to VA.gov? What would increase your comfort level?
+7. Imagine you do not have one of these documents with you right now. What would you do? (To test real-world failure scenarios.)
 
-## Fourth Task: Review
+## Fifth Task: Review
 
 Please tell me about what you see here.
 
 What does this mean to you?  
 What would you do now?
 
-## Fifth Task: Confirmation
+On a scale of 1-5, one being not confident at all and five being very confident, how confident are you that you have provided all the necessary information and that your application is complete? 
+
+Do you have any concerns that the information you provided might lead to an issue like an over- or underpayment?]
+- If Y: Can you talk briefly about why you might have those concerns?
+
+## Sixth Task: Confirmation
 
 Please tell me about what you see here.
 
@@ -188,14 +222,20 @@ Please tell me about what you see here.
 2. What does this page mean to you?  
 3. Is there anything that’s unclear to you?  
 4. What would you do next?
+5. What concerns do you have, if any, about your application being processed correctly after you hit submit? 
 
 ## Post-Task Interview
 
 *Type into \#feedback-backchannel:* "Any questions you want me to ask?"
 
-1. What worked well for you?  
-2. What was unclear or didn't work well for you?  
-3. What would you like to change or add?  
+**For those who have applied before:**
+1. "How does this online experience compare to your previous experience?"
+2. "What information do you wish you had known before applying the first time?"
+
+**For all:**
+1. What worked well for you?
+2. What was unclear or didn't work well for you?
+3. What would you like to change or add?
 4. Is there anything else that we haven't talked about that you think I should know?
 
 ## Consent to use video clips
