@@ -20,8 +20,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25) 
 
-## Sprint Goals - Sprint: 19 [10/8/25 - 10/21/25]  
-| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+## Sprint Goals - Sprint: 26 [01/14/26 - 01/27/26]  
+| Sprint Goal | Goal P  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: | PX |--|--|--|
 |ENG: | PX |--|--|--|
