@@ -432,9 +432,7 @@ end
 | `uum.processor_job.total_events_processed` | Gauge | Total events processed across all iterations | N/A (informational) |
 | `uum.processor_job.total_db_inserts` | Gauge | Total events inserted to database (new unique events) | N/A (tuning) |
 | `uum.processor_job.queue_depth` | Gauge | Events remaining in Redis buffer after processing | > 10,000 for 5 min |
-| `uum.processor_job.queue_overflow` | Increment | Fires when queue depth exceeds threshold | Any increment |
 | `uum.processor_job.job_duration_ms` | Histogram | Total job processing time across all iterations (ms) | N/A (informational) |
-| `uum.processor_job.failure` | Increment | Job failure (tagged by error class) | Any increment |
 | `uum.processor_job.events_at_risk` | Gauge | Events remaining in buffer when job failed | N/A (diagnostic) |
 | `uum.unique_user_metrics.event` | Increment | Counter for new unique events (tagged by event_name) | N/A (analytics) |
 
