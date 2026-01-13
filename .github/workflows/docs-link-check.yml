@@ -1,11 +1,10 @@
 name: Docs internal link check (remark)
 
+permissions:
+  contents: read
+
 on:
   push:
-    paths:
-      - "products/identity/**"
-      - ".github/workflows/docs-link-check.yml"
-  pull_request:
     paths:
       - "products/identity/**"
       - ".github/workflows/docs-link-check.yml"
@@ -23,7 +22,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install remark tooling (ephemeral)
+      - name: Install remark tooling
         run: |
           npm install -g remark-cli remark remark-validate-links
 
