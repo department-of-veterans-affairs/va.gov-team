@@ -20,7 +20,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 
 ## Quarterly Sprint Goals for FY26Q2 (Jan, Feb, Mar 2026)  
-*Quarter Sprints include 26, 1, 2, 3, 4 & 5
+*Quarter Sprints include 26, 1, 2, 3 & 4
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
 
