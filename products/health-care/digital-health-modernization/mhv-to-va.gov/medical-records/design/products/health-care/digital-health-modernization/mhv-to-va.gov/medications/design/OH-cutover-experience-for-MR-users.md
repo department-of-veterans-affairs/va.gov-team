@@ -52,11 +52,11 @@ N/A
 ### Questions to answer: 
 1. Should we let then know transition is done T+0 or T+2 to align with Sm and Meds?
 
-    Decision: 
+   Decision: T+2 due to potential lag in records appearing. 
    
-2. How do we need to rework messaging about BB and CCD discrepancies for MI/ future cutover sites? Message = your current records are in BB, but moving forward from this date they'll be in CCD (confirm)?
+2. How do we need to rework messaging about BB and CCD discrepancies for MI/ future cutover sites? 
 
-   Decision: 
+   Decision: Message = your current records are in BB, but moving forward from this date they'll be in CCD (confirm)? Any tweaks? 
    
 3. How to handle L&T notifications disparities?
 
