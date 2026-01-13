@@ -187,7 +187,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 
 ## **Key findings**
 
-1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple.](#finding-1:-veterans-strongly-prefer-viewing-all-of-their-conditions,-both-rated-and-denied,-on-the-‘add-a-condition’-screen,-as-in-prototype-apple.)
+1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple.](#finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
 
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#finding-2:-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim.)
 
