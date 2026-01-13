@@ -5,17 +5,17 @@
 ## All Login Information
 | Email                         | Password | ICN | EDIPI | Notes |
 | ----------------------------- | ---------- | ---------- | ---------- | ---------- |
-| vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | | | Automatic COE, can download it! 100% Disability Rating
-| vets.gov.user+24@gmail.com   | 168SsNrLgPv5 | | | Automatic COE, 50% SC disability rating
-| vets.gov.user+34@gmail.com   | 303SsNrLgPv5 | 1012829890V001762 | 1005320840 | Automatic COE, 80% SC disability rating
-| vets.gov.user+125@gmail.com   | 116SsNrLgPv5 | 1012830031V654442 | 1005151291 | Needs to file manually
-| vets.gov.user+41@gmail.com   | 109SsNrLgPv5 | 1012643310V921518 | 1019061961 | Needs to file manually, disability rating blank
-| vets.gov.user+54@gmail.com   | 242SsNrLgPv5 | 1012666073V986297 | 1293307390 | Needs to file manually, 60% SC disability rating, US Army
-| vets.gov.user+111@gmail.com   | 211SsNrLgPv5 | 1012845647V175093 | 1322564410 | Needs to file manually
-| vets.gov.user+141@gmail.com   | 393SsNrLgPv5 | 1013112726V768481 | 1015781374 | Needs to file manually
-| vets.gov.user+192@gmail.com   | 157SsNrLgPv5 | 1012845059V795233 | 1014019258 | Needs to file manually
-| vets.gov.user+212@gmail.com   | 145SsNrLgPv5 | 1012845700V116007 | 1100647822 | Needs to file manually
-| vets.gov.user+258@gmail.com   | 152SsNrLgPv5 | 1012851504V621829 | 1023820672 | Needs to file manually
+| vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | 1012592956V095840 | 1013590059 | Someone who has is ELIGIBLE and does not have an application (aka, automatic COE)
+| vets.gov.user+34@gmail.com    | 303SsNrLgPv5 | 1012829890V001762 | 1005320840 | Someone who has is ELIGIBLE and does not have an application (aka, automatic COE)
+| vets.gov.user+212@gmail.com   | 145SsNrLgPv5 | 1012845700V116007 | 1100647822 | TBD, request is out to LGY to make it someone who is ELIGIBLE and has an application (aka, non-automatic COE). Should have attached documents/letters
+| vets.gov.user+258@gmail.com   | 152SsNrLgPv5 | 1012851504V621829 | 1023820672 | Someone who is ELIGIBLE and has an application (aka, non-automatic COE). Has no attached documents/letters. 
+| vets.gov.user+141@gmail.com   | 393SsNrLgPv5 | 1013112726V768481 | 1015781374 | Someone who is PENDING and their application status is RETURNED and has attached documents/letters
+| vets.gov.user+192@gmail.com   | 157SsNrLgPv5 | 1012845059V795233 | 1014019258 | Someone who is PENDING and their application status is RETURNED and has no attached documents/letters
+| vets.gov.user+111@gmail.com   | 211SsNrLgPv5 | 1012845647V175093 | 1322564410 | Someone who is NOT ELIGIBLE and has no attached documents/letters.
+| vets.gov.user+24@gmail.com    | 168SsNrLgPv5 | 1012833459V456494 | 1005649761 | Someone who is NOT ELIGIBLE and has attached documents/letters.
+| vets.gov.user+125@gmail.com   | 116SsNrLgPv5 | 1012830031V654442 | 1005151291 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
+| vets.gov.user+41@gmail.com    | 109SsNrLgPv5 | 1012643310V921518 | 1019061961 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
+| vets.gov.user+54@gmail.com    | 242SsNrLgPv5 | 1012666073V986297 | 1293307390 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
 
 ## Request a COE
 Users can request a Certificate of Eligibility by signing into VA.gov and completing the form online. 
