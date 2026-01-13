@@ -1,6 +1,6 @@
 # VA.gov profile UX governance
 
-Last updated: December 2025
+Last updated: January 2026  
 
 # Jump to
 
@@ -8,17 +8,17 @@ Last updated: December 2025
 
 [Profile files](#profile-files)
 
-[What VA.gov profile is](#what-va.gov-profile-is)
+- [What VA.gov profile is](#what-va.gov-profile-is)
 
-[What VA.gov profile is not](#what-va.gov-profile-is-not)
+- [What VA.gov profile is not](#what-va.gov-profile-is-not)
 
-[How to know if a feature belongs in VA.gov profile](#how-to-know-if-a-feature-belongs-in-va.gov-profile)
+- [How to know if a feature belongs in VA.gov profile](#how-to-know-if-a-feature-belongs-in-va.gov-profile)
 
 [Team touchpoints](#team-touchpoints)
 
-[Before launch](#before-launch)
+- [Before launch](#before-launch)
 
-[After launch](#after-launch)
+- [After launch](#after-launch)
 
 [Profile sections](#profile-sections)
 
@@ -31,7 +31,7 @@ This document includes UX governance for adding or updating features to the VA.g
 ## Profile files 
 
 * [Product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)  
-* [Architecture, design, and content standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md)
+* [Design and content standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md)  
 * [Figma files](https://www.figma.com/files/1499394822283304153/project/176473451)  
 * [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research)  
 * [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/use-cases)
@@ -88,11 +88,11 @@ There are currently nine available sections to integrate with on VA.gov profile.
 5. Health care settings: Health care settings such as scheduling preferences, messages signature, and health care contacts.  
 6. Dependents and contacts: All individuals associated with the user and their account, including dependents and accredited representatives.  
 7. Letters and documents: Links to all available documents and letters the user can download.  
-8. Communication preferences: Including email and text notifications and paperless delivery.  
+8. Communication settings: Including email and text notifications and paperless delivery.  
 9. Account security: All information having to do with users VA.gov account security and connected apps.
 
 If your feature does not fit within one of these nine sections, please work with the Authenticated Experience team to identify if the VA.gov profile is the right fit for you.
 
-# Have feedback?
+# Have feedback? 
 
 If there is any content that you have feedback on, or is missing, please reach out to the Authenticated Experience team in Slack on the \#accountexp-authexp channel.
