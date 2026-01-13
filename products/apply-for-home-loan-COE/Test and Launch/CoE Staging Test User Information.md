@@ -14,7 +14,6 @@
 | vets.gov.user+111@gmail.com   | 211SsNrLgPv5 | 1012845647V175093 | 1322564410 | Someone who is NOT ELIGIBLE and has no attached documents/letters.
 | vets.gov.user+24@gmail.com    | 168SsNrLgPv5 | 1012833459V456494 | 1005649761 | Someone who is NOT ELIGIBLE and has attached documents/letters.
 | vets.gov.user+125@gmail.com   | 116SsNrLgPv5 | 1012830031V654442 | 1005151291 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
-| vets.gov.user+41@gmail.com    | 109SsNrLgPv5 | 1012643310V921518 | 1019061961 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
 | vets.gov.user+54@gmail.com    | 242SsNrLgPv5 | 1012666073V986297 | 1293307390 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
 
 ## Request a COE
