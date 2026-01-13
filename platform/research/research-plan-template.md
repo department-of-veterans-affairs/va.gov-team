@@ -136,35 +136,44 @@ tags:
 
 </details>
 
-### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO%20FY26%20goals%20supported.md) 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
+> **NOTE:** If a Key Result does not have a ***Research Ops Plain Language*** equivalent, it does not map to research supporting it as a key result for the parent objective.
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+`Objective 1:  Optimize software delivery for Veteran impact.`  
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
+> - **Key Result 1.1:** All C100 products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on Product.VA.gov.
+  - ***Research Ops Plain Language:** Supports up to three Veteran-impacting Key Performance Indicators documented for this on Product.VA.gov*
+> - **Key Result 1.2:** Delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs.
+  - ***Research Ops Plain Language:** Supports a production release that will measurably improved a product's Veteran-impacting KPIs.*
+> - Key Result 1.3:** OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems.
+  - ***Research Ops Plain Language:** Supports the decommissioning of a legacy system.*
 
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
+`Objective 2: Operate products with high reliability and security.`
 
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
+> - **Key Result 2.1:** All C100 systems have an incident free time of 99.8 or better.
+> - **Key Result 2.2:** All C100 systems are monitoring the 4 “golden signals” of latency, error rate, volume, and saturation.
+> - **Key Result 2.3:** All C100 systems have baselined cycle time from planning to production, and at least one C100 system in each DSD portfolio has reduced its cycle time from planning to production by more than 50% without increasing change failure rate.
+  - ***Research Ops Plain Language:** Supports reducing this product’s cycle time from planning to production by more than 50% without increasing change failure rate.*
+> - **Key Result 2.4:** By 31 March 2026, DSD has enhanced system security by moving or decommissioning 100% of existing of Systems or Applications leveraging SiteMinder integration for SSOi to Entra ID.
 
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
+`Objective 3: Relentlessly improve the user experience.`
 
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
+> - **Key Result 3.1:** Each OIT portfolio will improve customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.
+  - ***Research Ops Plain Language:** Supports this product’s OIT portfolio (Health, Benefits, etc) in improving customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.*
+> - **Key Result 3.2:** 100% of end-user facing C100 systems maintain a ranked list of user pain points.
+  - ***Research Ops Plain Language:** Supports maintaining the ranked list of user pain points for Veteran-facing Products and Services.*
+> - **Key Result 3.3:** 100% of C-100 systems have delivered at least one release that directly addresses a documented user pain point with that system.
+  - ***Research Ops Plain Language:** Supports the delivery of at least one release that directly addresses a documented user pain point within this product.*
 
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
+`Objective 4: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
+
+> - **Key Result 4.1:** More than 25% of VA employees report AI has helped them deliver better services to Veterans.
+> - **Key Result 4.2:** All “VA Way” delivery attributes have an adoption indicator established, baselined and communicated to product delivery staff.
+> - **Key Result 4.3:** 50% of product delivery staff report that a practice group (design) has helped them deliver better software.
 
 </details>
 
