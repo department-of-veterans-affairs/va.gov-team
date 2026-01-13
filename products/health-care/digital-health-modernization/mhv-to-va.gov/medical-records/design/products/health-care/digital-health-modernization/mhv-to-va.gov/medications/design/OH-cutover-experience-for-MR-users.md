@@ -64,4 +64,9 @@ N/A
       
 4. Confirming whether or not records are being duplicated for April/ beyond. Then determine UX treatment.
 
-   Decision: There will be duplicate records for MI patients. Unknown for future sites but need to figure out where to flag in content. 
+   Decision: There will be duplicate records for MI patients. Unknown for future sites but need to figure out where to flag in content.
+   
+6. Where will *historic* VistA data used to compile Blue Button reports come from?  Or will we just stop providing BB reports for converted facilities?
+
+7. Will CCDs derived from OH contain any/less/different VistA data than what was previously included in the VHIE CCD for the converted facility? 
+
