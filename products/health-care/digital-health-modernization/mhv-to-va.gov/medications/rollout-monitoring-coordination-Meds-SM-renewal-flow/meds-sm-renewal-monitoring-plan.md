@@ -54,11 +54,13 @@ The flow relies specifically on the query parameters:
 ## Resources
 
 **Figma file:**  
-- [Source of truth – Secure Messaging](https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4510-97564&p=f&t=FSjDUaFgluAS4poD-0)
-- [Google Analytics: Meds renewal flow event tracking](https://analytics.google.com/analytics/web/#/analysis/a50123418p418218150/edit/etkIBLZyTDevzFP07tdiQA)
+[Source of truth – Secure Messaging](https://www.figma.com/design/s1lAPraSoTHsevgl84SDoo/Source-of-truth---SM?node-id=4510-97564&p=f&t=FSjDUaFgluAS4poD-0)
+
+[Google Analytics: Meds renewal flow event tracking](https://analytics.google.com/analytics/web/#/analysis/a50123418p418218150/edit/etkIBLZyTDevzFP07tdiQA)
+
 
 **Product guides:**  
-TBD
+[Medications on VA.gov and VAHB Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/product/product-guides/va-gov-medications-product-guide-q4-2025.docx)
 
 ---
 
