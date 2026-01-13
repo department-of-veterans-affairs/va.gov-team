@@ -14,9 +14,9 @@
 * [Research Goals](#research-goals)  
 * [Research Methodology](#research-methodology)  
 * [Key Findings](#key-findings)  
-* [Design/Research Suggestions](#design/research-suggestions)  
-* [Appendix 1: Links](#appendix-1:-links)  
-* [Appendix 2: Medallia Research Questions](#appendix-2:-medallia-research-questions)
+* [Design and Research Suggestions](#design-and-research-suggestions)  
+* [Appendix 1 Links](#appendix-1-links)  
+* [Appendix 2 Medallia Research Questions](#appendix-2-medallia-research-questions)
 
 ---
 
