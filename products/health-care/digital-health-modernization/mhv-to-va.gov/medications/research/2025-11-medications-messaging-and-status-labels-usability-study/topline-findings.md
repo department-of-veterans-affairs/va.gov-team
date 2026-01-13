@@ -41,7 +41,7 @@ We conducted remote moderated usability sessions with **12 Veterans** to explore
 
 Sessions lasted 60 minutes and followed a think-aloud approach using a Figma prototype and a staging test environment. In addition to task success, this research focused on moments of uncertainty, hesitation, and friction.
 
-**Study structure**
+#### Study structure
 
 - **Part 1: Reviewing prescription statuses**  
   Participants reviewed medication list screens featuring updated status labels and described what stood out, how they understood each status, and what actions they believed were available.
@@ -101,7 +101,7 @@ Sessions lasted 60 minutes and followed a think-aloud approach using a Figma pro
 
 ### <a name="summary-of-key-findings"></a>Summary of key findings
 
-Veterans generally understood prescription status labels, but clarity broke down around timing, available actions, and what would happen next. 
+Veterans generally understood prescription status labels, but clarity broke down around timing, available actions, and what would happen next.
 
 Most participants were able to complete the renewal flow once they found the correct entry point, though paths varied based on prior habits and expectations. Confidence was shaped by link visibility, clarity around provider routing, the presence of prefilled information, and confirmation cues. Differences in experience were driven more by mental models and wayfinding than by difficulty completing the renewal request itself.
 
@@ -113,9 +113,11 @@ Most participants were able to complete the renewal flow once they found the cor
 
 ---
 
-### <a name="insight-1-prescription-statuses-were-largely-understood-refill-vs-renewal-understanding-varied"></a>Insight 1: Prescription statuses were largely understood; refill vs. renewal understanding varied
+## <a name="insight-1-prescription-statuses-were-largely-understood-refill-vs-renewal-understanding-varied"></a>Insight 1: Prescription statuses were largely understood; refill vs. renewal understanding varied
 
-**Veterans understood what prescription statuses meant, but did not always understand what actions were available or when to take them.**
+**Veterans understood what prescription statuses meant, but did not always understand what actions were available or when to take them—and some did not notice that the labels themselves had changed.**
+
+---
 
 #### Active
 
@@ -128,6 +130,8 @@ All **11 of 11 participants** understood **Active** as a medication they are cur
 *“Something’s active, so you have refills.”*  
 *“What I don’t see is whether it has refills.”*
 
+---
+
 #### In Progress
 
 All **11 of 11 participants** interpreted **In Progress** as a medication being actively worked on.
@@ -138,6 +142,8 @@ All **11 of 11 participants** interpreted **In Progress** as a medication being 
 *“Someone is working on it… after it’s done it should be shipped.”*  
 *“I don’t trust in-progress… it went on way too long [sharing prior experience].”*
 
+---
+
 #### Inactive
 
 All **11 of 11 participants** understood **Inactive** as no longer refillable.
@@ -147,6 +153,18 @@ All **11 of 11 participants** understood **Inactive** as no longer refillable.
 
 *“You need to call doctor to get a new script.”*  
 *“I got all these medications I used to take… but they’re still there.”*
+
+---
+
+#### Status label changes were not explicitly noticed
+
+While participants generally understood what each prescription status meant, **some participants described the status labels shown during testing as familiar or the same as what they were already used to seeing**.
+
+- **3 participants (P6, P8, P10)** explicitly described the status labels as familiar or unchanged  
+- **P6 identified the “Active–non VA” status as unfamiliar**, noting that this label does not usually appear on their medications list; other status labels felt familiar  
+
+*“I can’t imagine them changing this.”* (P8)  
+*“They’re the same thing… just a different way of putting it.”* (P10)
 
 ---
 
@@ -170,7 +188,7 @@ All **11 of 11 participants** understood **Inactive** as no longer refillable.
 
 ---
 
-### <a name="insight-2-renewal-link-discovery-varied-and-often-followed-familiar-paths"></a>Insight 2: Renewal link discovery varied and often followed familiar paths
+## <a name="insight-2-renewal-link-discovery-varied-and-often-followed-familiar-paths"></a>Insight 2: Renewal link discovery varied and often followed familiar paths
 
 **Veterans did not consistently notice the renewal link and often relied on familiar refill or messaging paths instead.**
 
@@ -203,7 +221,7 @@ For several participants, the **Start a refill request** CTA acted as a competin
 
 ---
 
-### <a name="insight-3-participants-had-questions-about-who-would-receive-the-renewal-request"></a>Insight 3: Participants had questions about who would receive the renewal request
+## <a name="insight-3-participants-had-questions-about-who-would-receive-the-renewal-request"></a>Insight 3: Participants had questions about who would receive the renewal request
 
 **Veterans were able to proceed, but did not consistently understand who renewal requests were routed to.**
 
@@ -212,26 +230,24 @@ Most participants proceeded through provider selection, but several expressed qu
 *“Hopefully it’s my doctor, but it doesn’t tell you.”*  
 *“I don’t know who it directs it to.”*
 
-Participants often relied on medication type to infer the correct care team.
+#### Modal was understood as a transition step rather than a destination
 
-#### Modal supported a clear transition to Secure messaging
+Participants largely interpreted the modal as a brief transition between screens, not as a step that required close attention or explanation of what would happen next.
 
-**The modal effectively communicated a transition to Secure messaging and did not prevent participants from continuing the flow.**
-
-Most participants interpreted the modal as informational and proceeded without hesitation.
+**Most participants skimmed the modal content, often not reading past the header, and treated it as an informational handoff. Only a small subset explicitly recognized that the flow was transitioning into Secure Messaging.**
 
 *“It means I’m going to a different screen, but I’m still logged in.”*  
 *“It’s telling me I’m leaving this page.”*  
-*“Instead of me coming out of the medication and going into the messages, it put me in there.”*
-
-A small number of participants briefly questioned whether the modal was a warning or error, but still continued.
-
-*“I always wonder if it’s just a warning or if I did something wrong.”*  
+*“Instead of me coming out of the medication and going into the messages, it put me in there.”*  
 *“I appreciate having a message letting me know I’m going to a different page.”*
+
+A small number of participants briefly questioned whether the modal was a warning or error, but still continued through the flow without stopping.
+
+*“I always wonder if it’s just a warning or if I did something wrong.”*
 
 ---
 
-### <a name="insight-4-prefilled-messages-supported-completion-but-missing-information-caused-participants-to-stumble"></a>Insight 4: Prefilled messages supported completion, but missing information caused participants to stumble
+## <a name="insight-4-prefilled-messages-supported-completion-but-missing-information-caused-participants-to-stumble"></a>Insight 4: Prefilled messages supported completion, but missing information caused participants to stumble
 
 **Prefilled messages made the renewal process easier and more efficient; however, missing medication details introduced hesitation and briefly disrupted progress.**
 
@@ -256,7 +272,7 @@ When required medication details were missing, participants paused and questione
 
 ---
 
-### <a name="insight-5-confirmation-cues-were-generally-noticed-and-increased-confidence-but-did-not-fully-resolve-uncertainty"></a>Insight 5: Confirmation cues were generally noticed and increased confidence, but did not fully resolve uncertainty
+## <a name="insight-5-confirmation-cues-were-generally-noticed-and-increased-confidence-but-did-not-fully-resolve-uncertainty"></a>Insight 5: Confirmation cues were generally noticed and increased confidence, but did not fully resolve uncertainty
 
 **Pre-filled information and clear confirmation cues reassured most Veterans that their request was sent, however, some still sought additional reassurance or made assumptions about next steps that did not always match how the system works**
 
@@ -358,3 +374,4 @@ At the same time, participants consistently identified opportunities to reduce c
 
 - Figma prototype  
 - [Task-level findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-11-medications-messaging-and-status-labels-usability-study/task-)
+
