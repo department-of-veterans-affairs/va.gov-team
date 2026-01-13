@@ -10,7 +10,7 @@
 
 ## Jump to:
 
-* [Background & Context](#background-&-context)  
+* [Background & Context](#background-and-context)  
 * [Research Goals](#research-goals)  
 * [Research Methodology](#research-methodology)  
 * [Key Findings](#key-findings)  
@@ -20,7 +20,7 @@
 
 ---
 
-## Background & Context {#background-&-context}
+## Background and Context {#background-and-context}
 
 The Decision Reviews team conducted a broad search of key themes and top Veteran pain points across 2 sources: Call Center and Medallia data. Call Center data is qualitative free-form text; the input coming from Call Center representative notes based on incoming calls with Veterans. Medallia is quantitative data which comes from Veterans answering surveys in various places on [VA.gov](http://VA.gov). We leveraged traceable parsing tools to produce a high-level overview of areas of top concern for Veterans. This will give us the ability to prioritize key focuses of improvement, as well as identifying areas for future more in-depth research. 
 
