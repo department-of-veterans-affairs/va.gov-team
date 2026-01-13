@@ -1,7 +1,9 @@
 # BIO-to-MMS Structured Data Connection
 ## Purpose
 To send structured form data from vets-api (VA.gov) to the GovCIO external endpoint, the Platform requires that outbound traffic route through the fwdproxy, which manages secure egress and mTLS connections.
-<br>
+## Overview
+VA.gov forms that are connected to the Mail Management Service (MMS) will follow this flow. When a user submits their form via the VA.gov frontend, the VETS-API backend will generate their submitted data into a PDF version of the form. VETS-API will send that PDF to the Benefits Intake API. **Only when the Benefits Intake API indicates a successful receipt,** the VETS-API backend will then generate a structured data payload of the form's key value pairs. The VETS-API backend then sends that payload to the MMS endpoint, which ingests the data and makes it available to downstream processing systems.
+![BIO - User Data Flow Diagram 2026-01-13](https://github.com/user-attachments/assets/90fa3e56-0729-4c01-896f-cf6e34a86ed5)
 ## Connectivity and Forward Proxy Role
 The fwdproxy acts as the outbound gateway for vets-api when calling external services and responsible for:
 * Performing mutual TLS (mTLS) authentication
