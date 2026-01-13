@@ -138,12 +138,15 @@ Files that requires removing unused libraries
 
 Teams often start with T-shirt sizes during early planning, then refine into story points later.
 
-👕 Design = 
-👕 Content = 
-👕 Monitoring = 
-👕 Engineering = 
+* 👕 Design = Small
+* 👕 Content = Small
+* 👕 Monitoring = Medium
+* 👕 Engineering = Large
 
 
 ## Next
 
-- 
+* Write tickets for epic
+* Identify research opportunities
+* Review user stories and writing KPI's
+* Plan roadmap
