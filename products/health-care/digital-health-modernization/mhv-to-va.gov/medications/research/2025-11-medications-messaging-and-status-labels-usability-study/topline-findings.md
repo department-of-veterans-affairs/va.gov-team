@@ -346,17 +346,77 @@ At the same time, participants consistently identified opportunities to reduce c
 
 ## <a name="recommendations"></a>Recommendations
 
-**Clarify when to use refill vs renewal in the Medications experience:** Help Veterans understand the difference between refill and renewal and recognize when each is appropriate—supporting confident selection through clearer cues, such as surfacing refills remaining on med cards.
+### Clarify when to use refill vs. renewal
+**Outcome:** Veterans can confidently choose the right action without second-guessing.
 
-**Clarify where renewal requests are routed:** Provide clearer cues about who receives renewal requests so Veterans feel confident their message is reaching the right care team.
+**Rationale:**  
+Participants generally understood prescription statuses, but refill and renewal actions were sometimes conflated or treated as interchangeable.
 
-**Continue leveraging prefilled medication details:** Prefilled content consistently reduced effort and supported confidence during the renewal process.
+**Design and content considerations:**  
+- Surface refills remaining directly on medication cards so Veterans can quickly assess what action is available  
+- Use clearer, more plain language to distinguish refill vs. renewal  
+- Reduce competing or overlapping entry points where possible, such as multiple refill-related CTAs  
 
-**Set clearer expectations when additional information may be required:** Signal earlier when missing prescription information could affect progress, so Veterans can anticipate what’s needed.
+---
 
-**Provide clearer guidance after submitting a renewal request:** Use the confirmation alert to help Veterans understand what happens next (i.e., expected timing, whether a response is anticipated, and how status updates may appear.)
+### Clarify where renewal requests are routed
+**Outcome:** Veterans feel confident their renewal request is reaching the right care team.
 
-**Reduce cognitive load from inactive and historical medications:** Consider approaches such as default filters or clearer grouping that help Veterans focus on current, actionable prescriptions first.
+**Rationale:**  
+Participants were able to proceed through the flow, but often questioned who would receive the renewal request.
+
+**Design and content considerations:**  
+- Provide clearer routing cues earlier in the experience, such as on the medication card, within the modal, and in the confirmation state  
+- Reinforce destination context within Secure Messaging (for example, clearly showing the care team name)  
+
+---
+
+### Provide clearer guidance after submitting a renewal request
+**Outcome:** Veterans understand what to expect next and do not feel the need to seek additional confirmation.
+
+**Rationale:**  
+Confirmation cues were generally noticed and reassuring, but did not always resolve uncertainty about timing or next steps.
+
+**Design and content considerations:**  
+- Use the confirmation alert and/or follow-up content to set expectations about what may happen next (for example, whether Veterans should expect a reply, a status change, or no immediate update)  
+- Clarify whether a response is expected or if a status change is the primary signal of progress  
+
+---
+
+### Set clearer expectations when additional information may be required
+**Outcome:** Veterans are prepared when missing prescription information could affect progress.
+
+**Rationale:**  
+When required medication details were missing, participants paused and expressed uncertainty about how to proceed.
+
+**Design and content considerations:**  
+- Signal earlier in the flow when additional information may be required  
+- Provide guidance beyond error states when information is incomplete  
+- Offer clearer paths for retrieving needed medication information (for example, linking to medication details, supporting copy/paste, or clarifying what information is required)  
+
+---
+
+### Continue leveraging prefilled medication details
+**Outcome:** Renewal requests remain fast, low-effort, and confidence-building.
+
+**Rationale:**  
+Prefilled messages were consistently noticed, valued, and often sent without modification.
+
+**Design and content considerations:**  
+- Maintain prefilled medication context by default  
+- Allow optional personalization without adding friction or increasing effort  
+
+---
+
+### Reduce cognitive load from inactive and historical medications
+**Outcome:** Veterans can more easily focus on current, actionable medications.
+
+**Rationale:**  
+Older, inactive, or duplicate medications increased cognitive load for some participants.
+
+**Design and content considerations:**  
+- Consider default filters or clearer grouping of inactive and historical medications  
+- Explore ways to visually de-emphasize older medications while keeping them accessible  
 
 ---
 
