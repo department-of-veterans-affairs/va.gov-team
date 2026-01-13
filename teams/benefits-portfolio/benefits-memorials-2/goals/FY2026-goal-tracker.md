@@ -29,8 +29,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Define the scope and feasibility of recurring payments for Pay.gov Overpayments. | P2 |--|--|--|
 |UX: Complete the confirmation page/Email content and layout for Pay.gov Overpayments. | P2 |--|--|--|
 |UX: Complete Pay.gov Overpayments usability study discussion guide and submit for review and approval. | P2 |--|--|--|
-|ENG: Complete the post-launch code cleanup and close the Digital Dispute ENG Epic and Super Epic.
-| PX |--|--|--|
+|ENG: Complete the post-launch code cleanup and close the Digital Dispute ENG Epic and Super Epic.| PX |--|--|--|
 |ENG: Implement DataDog metrics for Payment History.| P1 |--|--|--|
 |ENG: Complete and verify the 3 separate API calls that Back End provides to Front End to properly segment and display the data for Payment History.| P1 |--|--|--|
 |ENG: Complete 5 maintenance & prioritized maintenance tickets related to any bugs and code reliability. | P4 |--|--|--|
