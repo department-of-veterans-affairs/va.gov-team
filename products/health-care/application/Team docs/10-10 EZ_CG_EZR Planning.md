@@ -9,7 +9,7 @@
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 - [ ] EZ Tech discovery on additional form statuses on MyVA
-- [ ] CG Restrict facilities parameters
+
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
@@ -32,8 +32,7 @@
 
 ## 
 ### 10-10CG
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [ ] **SPRINT GOAL** [#128114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128114) - [Eng] Restrict facilities parameters
+#### Obj: 
 
 
 ##
@@ -41,7 +40,7 @@
 - ...
 
 ---
-## 📆 Sprint 12 (Jan 14 - Jan 27) (PREPLANNED)
+## 📆 Sprint 12 (Jan 14 - Jan 27)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
@@ -51,6 +50,7 @@
 - [ ] EZR Service history Attend VA Profile meeting
 - [ ] EZR improvement opportunities research
 - [ ] EZ Multiple related forms pattern research
+- [ ] CG Restrict facilities parameters
 
 ## 
 ### 10-10EZR
@@ -62,7 +62,7 @@
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
-- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema (refer to EZ)
+- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema - PR Reviews
 - [ ] **SPRINT GOAL** [#129511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129511) - [Eng, PM] Attend VA Profile kickoff meeting
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
@@ -75,7 +75,8 @@
 
 ## 
 ### 10-10CG
-#### No scheduled work this sprint
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [ ] **SPRINT GOAL** [#128114](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128114) - [Eng] Restrict facilities parameters
 
 
 ##
@@ -87,7 +88,8 @@
 
 ---
 ## 📆 Sprint 11 (Dec 31 - Jan 13)
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed**
+     - Delay due to more time needed for Financials QA finding and some production errors that came up
 
 ### Sprint Goal summary
 #### Note: Code Freeze Monday 12/22 through Monday 1/5
