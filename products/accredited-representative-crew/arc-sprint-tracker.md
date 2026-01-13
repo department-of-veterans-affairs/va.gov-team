@@ -66,8 +66,8 @@ TBD
 **Team Benefits**:
 1. Review Page
 2. ITF Status page: No POA
-3. ITF Status Page: Cannot Confirm ITF status
-4. ITF Status page: Existing ITF
+3. ITF Status page: Existing ITF
+4. ITF Status Page: Cannot Confirm ITF status
 5. Confirmation page - ITF submission: Failed
 6. Display ITF activity in the "Recent Submissions" section of the Submissions page
 
