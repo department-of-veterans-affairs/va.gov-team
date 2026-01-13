@@ -52,7 +52,7 @@ sequenceDiagram
     Note over EAuth: EAuth checks for cerner_consent cookie, not found
     EAuth ->> VA.gov: GET /terms-of-use/myvahealth/?ssoeTarget={patient portal url} 200
     VA.gov ->> vets_api: PUT /v0/terms_of_use_agreements/update_provisioning 200
-    vets_api ->> SuS_API: PUT /provisioning/cerner 200
+    vets_api ->> SuS_API: PUT /signup/v1/patients/{icn}/provisioning/cerner 200
     Note over vets_api: Cerner_Consent=Accepted Cookie set
     VA.gov ->> EAuth: HEAD /keepalive (check for current valid session) 200
     VA.gov ->> EAuth: GET /isam/sps/auth?PartnerId=https://staging-patientportal 200
