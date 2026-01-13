@@ -118,55 +118,53 @@ The top pain points listed here are merged from findings across both Call Center
  
 
 1. **Delays and long wait times to receive claim and decision review decisions**
+   *Frequency: 1,614 of 13,161 total Call Center responses (12.3%)*
 
-    *Frequency: 1,614 of 13,161 total Call Center responses (12.3%)*
+3. **Informal conferences – Missed or Cancelled**
+   *Frequency: \~450 of 3,800 total Call Center responses (NOD only) (11.84%)*
 
-2. **Informal conferences – Missed or Cancelled**
-
-    *Frequency: \~450 of 3,800 total Call Center responses (NOD only) (11.84%)*
-
-3. **Veterans disagree with denials of their claims and appeals**  
+5. **Veterans disagree with denials of their claims and appeals**  
    *Frequency: 1,472 of 13,161 total Call Center responses (11.2%)*
 
-4. **Errors: Incorrect Effective Dates or Retroactive Pay**  
+6. **Errors: Incorrect Effective Dates or Retroactive Pay**  
    *Frequency: 1,108 of 13,161 total Call Center responses (8.4%)*
 
-5. **Lack of confirmation of submissions, follow‑up**  
+7. **Lack of confirmation of submissions, follow‑up**  
    *Frequency: 50 out of 559 total Call Center responses (NOD only) (8.35%)*
 
-6. **Technical issues: submission, upload, tracking, general**  
+8. **Technical issues: submission, upload, tracking, general**  
    *Frequency: 1,032 of 13,161 total Call Center responses (7.8%)*
 
-7. **Veterans find site navigation confusing and discoverability low**  
+9. **Veterans find site navigation confusing and discoverability low**  
    *Frequency: 89 of 1213 total Medallia responses (7.347%)*  
      
-8. **Lost or Missing Documentation / FOIA and Records Access Problems**  
-   Frequency:   
-    * Lost or Missing Documentation: 978 of 13,161 total Call Center responses (7.4%)*   
-    * FOIA and Records Access: 578 of 13,161 total Call Center responses (4.4%)*
+10. **Lost or Missing Documentation / FOIA and Records Access Problems**  
+   *Frequency:*
+    * *Lost or Missing Documentation: 978 of 13,161 total Call Center responses (7.4%)*   
+    * *FOIA and Records Access: 578 of 13,161 total Call Center responses (4.4%)*
 
-9. **Disagreement with decisions (ratings)**   
+11. **Disagreement with decisions (ratings)**   
    *Frequency: 912 of 13,161 total Call Center responses (6.9%)*  
      
-10. **C\&P Exams (rushed/inaccurate/multiple; scheduling issues)**   
+12. **C\&P Exams (rushed/inaccurate/multiple; scheduling issues)**   
     *Frequency: 912 of 13,1611 total Call Center responses (6.9%)*  
       
-11. **Veterans have difficulty finding their claim status and decision letters**  
+13. **Veterans have difficulty finding their claim status and decision letters**  
     *Frequency: 83 of 1213 total Medallia responses (6.84%)*
 
-12. **Process confusion / Inconsistent information**  
+14. **Process confusion / Inconsistent information**  
     *Frequency: 823 of 13,161 total Call Center responses (6.3%)*
 
-13. **Document upload constraints and failures cause friction and delays**  
+15. **Document upload constraints and failures cause friction and delays**  
     *Frequency: 70 of 1213 total Medallia responses (5.77%)*
 
-14. **Bugs, outages, and site performance create frustration that delay and block progress**  
+16. **Bugs, outages, and site performance create frustration that delay and block progress**  
     *Frequency: 24 of 1213 total Medallia responses (2.97%)*
 
-15. **Veterans find character limits insufficient**  
+17. **Veterans find character limits insufficient**  
     *Frequency: 24 of 1213 total Medallia responses (1.98%)*
 
-[Top 15 Overall Pain Point Issues by Frequency.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%2015%20Overall%20Pain%20Point%20Issues%20by%20Frequency.docx?d=w9603c1aa204c483d82720432f2e77f34&csf=1&web=1&e=4EuNcP)
+[Top 15 Overall Pain Point Issues by Frequency.docx (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%2015%20Overall%20Pain%20Point%20Issues%20by%20Frequency.docx?d=w9603c1aa204c483d82720432f2e77f34&csf=1&web=1&e=4EuNcP)
 
 ### Crossover Between Call Center & Medallia Data
 
@@ -239,32 +237,31 @@ These are issues not commonly found in Call Center data:
 
 **Call Center** data spreadsheets (SharePoint):
 
-- [Supplemental\_claim.csv](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/supplemental_claim.csv?d=w64d0a5f3d6504ea3bd9a3e6b9ae0dbf1&csf=1&web=1&e=nacG7Q)  
-- [Higher\_level\_review.csv](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/higher_level_review.csv?d=we8550de5d7c944d2a93bc30d0171aaf2&csf=1&web=1&e=lYYBl5)  
-- [Board\_appeal.csv](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/board_appeal.csv?d=w6a6800defff04444ba78e04ee8dd9636&csf=1&web=1&e=04e2Lo)  
-- [Notice\_of\_disagreement.csv](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/notice_of_disagreement.csv?d=wd8baad09a2114f79ba3dce941b9f3c57&csf=1&web=1&e=ZVTwTe)
+- [Supplemental\_claim.csv (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/supplemental_claim.csv?d=w64d0a5f3d6504ea3bd9a3e6b9ae0dbf1&csf=1&web=1&e=nacG7Q)  
+- [Higher\_level\_review.csv (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/higher_level_review.csv?d=we8550de5d7c944d2a93bc30d0171aaf2&csf=1&web=1&e=lYYBl5)  
+- [Board\_appeal.csv (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/board_appeal.csv?d=w6a6800defff04444ba78e04ee8dd9636&csf=1&web=1&e=04e2Lo)  
+- [Notice\_of\_disagreement.csv (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/CallCenterData_SortedByCategory/notice_of_disagreement.csv?d=wd8baad09a2114f79ba3dce941b9f3c57&csf=1&web=1&e=ZVTwTe)
+
+* [Top Decision Reviews Pain Points Call Center Data from March 2024-October 2025.docx (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Call%20Center%20Data%20from%20March%202024-October%202025.docx?d=wcb75f9ab3b3845c0b9420eb659ed9d7e&csf=1&web=1&e=u7YWHR)  
 
 **Medallia** data spreadsheets (SharePoint):
 
-- [a11-filtered-empty-qual.xlsx](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/a11-filtered-empty-qual.xlsx?d=w4b70b1bdd1514177952ae642ea333f78&csf=1&web=1&e=0JIfDU)  
-- [vfs-filtered-empty-qual.xlsx](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/vfs-filtered-empty-qual.xlsx?d=w8fcb9ccd92a14a6b969f3f8424236dc2&csf=1&web=1&e=nQuWa8)
+- [a11-filtered-empty-qual.xlsx (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/a11-filtered-empty-qual.xlsx?d=w4b70b1bdd1514177952ae642ea333f78&csf=1&web=1&e=0JIfDU)  
+- [vfs-filtered-empty-qual.xlsx (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/MedalliaData_SortedBySurveyType/vfs-filtered-empty-qual.xlsx?d=w8fcb9ccd92a14a6b969f3f8424236dc2&csf=1&web=1&e=nQuWa8)
 
-**SharePoint** links to:
+* [Top Decision Reviews Pain Points Medallia Data from March 2024-October 2025.docx (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Medallia%20Data%20from%20March%202024-October%202025.docx?d=w16862d3f7e27414b9dc9cefb3917c3fc&csf=1&web=1&e=0Yt6KJ)
 
-* [Top Decision Reviews Pain Points Call Center Data from March 2024-October 2025.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Call%20Center%20Data%20from%20March%202024-October%202025.docx?d=wcb75f9ab3b3845c0b9420eb659ed9d7e&csf=1&web=1&e=u7YWHR)  
-* [Top Decision Reviews Pain Points Medallia Data from March 2024-October 2025.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%20Decision%20Reviews%20Pain%20Points%20Medallia%20Data%20from%20March%202024-October%202025.docx?d=w16862d3f7e27414b9dc9cefb3917c3fc&csf=1&web=1&e=0Yt6KJ)
+* [Top 15 Overall Pain Point Issues by Frequency.docx (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%2015%20Overall%20Pain%20Point%20Issues%20by%20Frequency.docx?d=w9603c1aa204c483d82720432f2e77f34&csf=1&web=1&e=4EuNcP)
 
-* [Top 15 Overall Pain Point Issues by Frequency.docx](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/CSAT%20and%20Product%20Analytics%20-%20decision%20reviews/2025-12%20pain%20point%20analysis%20-%20decision%20reviews/Top%2015%20Overall%20Pain%20Point%20Issues%20by%20Frequency.docx?d=w9603c1aa204c483d82720432f2e77f34&csf=1&web=1&e=4EuNcP)
+[URL to Data Analysis Mural (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1764865611148/cc0fad9824e217588ffae479f660eeb23f98da0e)
 
-[URL to Data Analysis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1764865611148/cc0fad9824e217588ffae479f660eeb23f98da0e)
-
-[Call center data analysis Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F0A39J7J6F9)  
-[Medallia data analysis Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F0A5X4T5R5W)  
+[Call center data analysis canvas (Slack)](https://dsva.slack.com/docs/T03FECE8V/F0A39J7J6F9)  
+[Medallia data analysis canvas (Slack)](https://dsva.slack.com/docs/T03FECE8V/F0A5X4T5R5W)  
 [Desk research: Synthesizing veteran pain points and keywords Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F09NLN0PHKN)
 
-[Google sheet of prioritized work](https://docs.google.com/spreadsheets/d/1I5HEyzdXLpc3fMY7DKkw40_MhLla87oMvEKfglOcZ3o/edit?gid=0#gid=0)
+[Spreadsheet of prioritized work (Google Docs)](https://docs.google.com/spreadsheets/d/1I5HEyzdXLpc3fMY7DKkw40_MhLla87oMvEKfglOcZ3o/edit?gid=0#gid=0)
 
-[Excel Spreadsheet of prioritized work](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BA0EB5B15-0C27-47F3-B446-EDE9FA49CA73%7D&file=Veteran%20Pain%20Point%20Work%20Backlog.xlsx&action=default&mobileredirect=true)
+[Spreadsheet of prioritized work (Excel SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BA0EB5B15-0C27-47F3-B446-EDE9FA49CA73%7D&file=Veteran%20Pain%20Point%20Work%20Backlog.xlsx&action=default&mobileredirect=true)
 
 
 ## Appendix 2 Medallia Research Questions
@@ -286,7 +283,7 @@ For all respondents that answered the VFS survey, what is the overall...
   * 4 overall satisfaction rating?  
   * 5 overall satisfaction rating?
 
-[Overall VFS Ratings Report](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/vfs-overall-ratings.txt?csf=1&web=1&e=es3IN5)
+[Overall VFS Ratings Report (SharePoint)](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/vfs-overall-ratings.txt?csf=1&web=1&e=es3IN5)
 
 #### Tech & Access
 
@@ -304,7 +301,7 @@ For all respondents that answered the VFS survey, what is the overall...
 * percentage of each screen resolution respondents accessed from?  
 * percentage of respondents accessing from each unique url?
 
-[VFS Tech and Access Report](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/vfs-tech-and-access.txt?csf=1&web=1&e=qhfOgn)
+[VFS Tech and Access Report (SharePoint)](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/vfs-tech-and-access.txt?csf=1&web=1&e=qhfOgn)
 
 The Engineering Team refined the data sets by filtering for lines that have a response in "what task were you..." and omitted lines of data that did not have responses, creating a second data set for the UX Team to further tag and look into. 
 
@@ -325,7 +322,7 @@ For all respondents that answered the a11 confirmation pages, group b and questi
 * average general VA trust score?  
 * average trust in VA commitment to Veterans score?
 
-[Overall a11 Rating Report](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-overall-ratings.txt?csf=1&web=1&e=UUTdue)
+[Overall a11 Rating Report (SharePoint)](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-overall-ratings.txt?csf=1&web=1&e=UUTdue)
 
 #### Tech & Access
 
@@ -342,7 +339,7 @@ For all respondents that answered the A11 confirmation pages, group b and questi
 * percentage of each operating systems respondents accessed from?  
 * percentage of each screen resolution respondents accessed from?
 
-[A11 Tech and Access Report](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-tech-and-access.txt?csf=1&web=1&e=TcSRfd)
+[A11 Tech and Access Report (SharePoint)](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-tech-and-access.txt?csf=1&web=1&e=TcSRfd)
 
 #### Decision Reviews
 
@@ -365,7 +362,7 @@ For all respondents that answered the A11 confirmation pages, group b and questi
     * general VA trust score?  
     * trust in VA commitment to Veterans score?
 
-[A11 Decision Reviews Report](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-average-dr-scores.txt?csf=1&web=1&e=BmmKcA)
+[A11 Decision Reviews Report (SharePoint)](https://dvagov.sharepoint.com/:t:/r/sites/vaabdvro/Shared%20Documents/Decision%20Reviews/UX/Analyzing%20Veteran%20pain%20points%2012-2025/MedalliaData_SortedBySurveyType/Reports/a11-average-dr-scores.txt?csf=1&web=1&e=BmmKcA)
 
 We filtered for only responses that had a response in "why did you..." and omitted lines of data that did not have responses. This created a second Medallia data set for further tagging to look into. 
 
