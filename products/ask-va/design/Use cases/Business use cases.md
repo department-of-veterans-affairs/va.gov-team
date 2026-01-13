@@ -13,7 +13,8 @@ We also conducted a qualitative analysis on 2025 business inquiries. [Learn more
 - [Types of business inquiries](#types-of-business-inquiries)
 
 ## Takeaways
-- ...
+- **Type 1: Recurring submissions, usually includes documents** are most dissimilar to the general Ask VA experience. 
+- **Type 2: Ad hoc submissions, sometimes includes attachments** align more with the Ask VA experience.
 
 ## Methodology
 Our goal was to understand how and why business submitters use Ask VA. These are the steps we took to review inquiries: 
