@@ -33,7 +33,7 @@ This topline summary is a high level, top-of-mind summary of trends found in the
 
 > “I like this one much better...they show where you're at, what progress you're in..." - P5 (Mobile)
 
-##### Finding #3: Most participants primarily relied on text-based cues to interpret progress and status within the navigation.
+#### Finding #3: Most participants primarily relied on text-based cues to interpret progress and status within the navigation.
 - Most participants relied heavily on text-based cues such as labels, font weight, and text color to determine which steps were complete, in progress, or unavailable. Additional visual indicators, including the border beside the “in progress” step on the Side Navigation and the subway map circles on the Process List, were mentioned less consistently.
 > “Because they're a different color. They're all, you know, black. They haven't turned blue yet. They haven't turned light… I know this… I know I finished this. That's how, you know, I know this is finished, and it's light blue, so I'm… I'm imagining that when I finish each step, it's gonna look like this one here. Light blue.” - P3 (Desktop)
 
