@@ -20,20 +20,25 @@ You can [review the full EHR deployment schedule on this VA page](https://digita
 This describes what the experience with medical records will be like for patients at the transitioning sites on VA.gov and VAHB.
 
 ### What will happen on both VA.gov and VAHB
-- T-45: Veterans understand that their facility will be moving to Oracle but their data will continue to show up here. 
+- T-45: Veterans understand that their facility will be moving to Oracle but their data will continue to show up here.
+- T-0: There may be a lag in records appearing.
+- T+2: We expect all records to be in UI. 
 
 ### UX tactics 
 How will we communicate these changes to Veterans? 
 
 1. **Alerts strategy:** 
   - Yellow warning alert: beginning T-45, let Veterans know the change is happening and link to R&S page
+  - Red warning alert: beginning T-0, let Veterans know there might be a lag in records appearing until T+2.
 
 2. **Blocking functionality:**
 N/A 
 
 3. **Letting them know they can do stuff again and what's different**
-  - Yellow alert: T+0 - TBD - message telling patients it's done. Content pointing towards R&S page describing what's different.
-  - Messaging on differences in-app: BB/ CCD, what else? 
+  - Yellow alert: T+2 - TBD - message telling patients it's done. Content pointing towards R&S page describing what's different.
+  - Messaging on differences in-app:
+        a. Content describing differences in records in BB vs CCD
+        b. UX treatment flagging that there will be duplicate records, point towards R&S for more information
 
 ### Considerations
 
@@ -46,6 +51,17 @@ N/A
 
 ### Questions to answer: 
 1. Should we let then know transition is done T+0 or T+2 to align with Sm and Meds?
-2. How do we need to rework messaging about BB and CCD discrepancies for MI/ future cutover sites? Message = your current records are in BB, but moving forward from this date they'll be in CCD (confirm)? 
-3. How to handle L&T notifications disparities? Surface in R&S? 
-4. Confirming whether or not records are being duplicated for April/ beyond. Then determine UX treatment. 
+
+    Decision: 
+   
+2. How do we need to rework messaging about BB and CCD discrepancies for MI/ future cutover sites? Message = your current records are in BB, but moving forward from this date they'll be in CCD (confirm)?
+
+   Decision: 
+   
+3. How to handle L&T notifications disparities?
+
+   Decision: Include in R&S only.
+      
+4. Confirming whether or not records are being duplicated for April/ beyond. Then determine UX treatment.
+
+   Decision: There will be duplicate records for MI patients. Unknown for future sites but need to figure out where to flag in content. 
