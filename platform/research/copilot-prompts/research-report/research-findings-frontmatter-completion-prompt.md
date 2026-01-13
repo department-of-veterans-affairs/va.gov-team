@@ -117,8 +117,8 @@ Use this prompt **after completing your research study and drafting your finding
 - **Tag for patterns:** If findings reveal patterns like "navigation issues" or "trust concerns," include relevant theme tags. 
 - **Consider assistive technology:** Tag specifically for AT types used (screen readers, magnification, speech input).
 - **Include research phase:** Tag whether this was discovery, evaluative, generative, or validation research.
-- **Review the full taxonomy:** For comprehensive tagging, review https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/.github/labels.yml
-- **Layer your metadata:** Use this frontmatter prompt for report-level tags, then use "add-metadata-labels-to-findings-prompt.md" for individual key finding labels.
+- **Review the full taxonomy:** For comprehensive tagging, review [`labels.yml`](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/.github/labels.yml)
+- **Layer your metadata:** Use this frontmatter prompt for report-level tags, then use [`add-metadata-labels-to-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/add-metadata-labels-to-findings-prompt.md) for individual key finding labels.
 
 ---
 
