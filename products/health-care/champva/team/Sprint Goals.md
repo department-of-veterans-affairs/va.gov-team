@@ -13,7 +13,8 @@
 - [ ] **SPRINT GOAL** 10-7959a: Final QA, after fixes and before launch
 - [ ] **SPRINT GOAL** 10-7959a: BE/FE CHAMPVA Claims launch
 - [ ] **SPRINT GOAL** 10-7959f-2: Final QA, finalize launch prep
-- [ ] **SPRINT GOAL** UX: 1010d: Prepare for upcoming TRICARE study
+- [ ] **SPRINT GOAL** UX: 1010d: Prep for upcoming TRICARE study
+- [ ] **SPRINT GOAL** UX: All forms: Backlog and debt review, tags/themes audit for Medallia
 - [ ] **SPRINT GOAL** UX: All forms: Dec and Year End Metrics
 - [ ] **SPRINT GOAL** All forms: Final dashboard tweaks, logging, and monitoring
 - [ ] **SPRINT GOAL** All forms: Clarify and validate GA and Domo reporting views
