@@ -18,7 +18,6 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | P5 | **Prioritized Maintenance**  |[#121725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121725)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] VA PO approved end of quarter status of Quarterly Goals (XX/XX/25) 
 
 ## Sprint Goals - Sprint: 26 [01/14/26 - 01/27/26]  
 | Sprint Goal | Goal P  | Reason if Not Complete | Update Date | End of Sprint Status |
@@ -35,3 +34,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+
+
+**Completed Goals**
+| Priority | Title | S.Epic |  Goal + Info |  Discipline | Dependency | Status/Notes |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| N/A | **Digital Debt Dispute (VBA):**  |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Target production launch in June/July | UX-BE | **DMC** | Epics closed on 01/00/26 |
