@@ -23,7 +23,7 @@ The 2026 EHR modernization timeline names 4 "rounds" of facility updates, which 
 |Facility name | Location | VISN | VHA_ID | 
 |-----|-----|-----|----|
 |VA Detroit Healthcare System | Detroit, MI | 10 | `VHA_553` |  
-|VA Saginaw Healthcare System | Saginaw, MI | 10 | ?? | 
+|VA Saginaw Healthcare System | Saginaw, MI | 10 | `VHA_655` | 
 |VA Ann Arbor Healthcare System | Ann Arbor, MI | 10 | `VHA_506` | 
 |VA Battle Creek Medical Center | Battle Creek, MI | 10 | `VHA_515` | 
 
