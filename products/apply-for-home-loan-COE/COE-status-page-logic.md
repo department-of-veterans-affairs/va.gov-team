@@ -2,7 +2,7 @@
 
 This documentation is an explanation of how the [VA.gov COE status page](https://www.va.gov/housing-assistance/home-loans/check-coe-status/your-coe/) works depending on certain COE data coming from the LGY API. 
 
-### Questions from stakeholders on 12/22:
+## Questions from stakeholders on 12/22:
 
 - Does it show the most recent COE? Does it show multiple versions?
 
@@ -38,9 +38,9 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
   - Does it only show automatic COEs? What shows if it’s a non-automatic COE?
 
-### [LGY Swagger Documentation](https://services.lgy.va.gov/eligibility-manager/swagger-ui/index.html?configUrl=/eligibility-manager/v3/api-docs/swagger-config)
+## [LGY Swagger Documentation](https://services.lgy.va.gov/eligibility-manager/swagger-ui/index.html?configUrl=/eligibility-manager/v3/api-docs/swagger-config)
 
-### Overview of the calls [VA.gov](http://va.gov) makes to LGY \[[link to flow chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/engineering/coe_status.md)]:
+## Overview of the calls [VA.gov](http://va.gov) makes to LGY \[[link to flow chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/engineering/coe_status.md)]:
 
 - VA.gov calls both `/eligibility/determination` and `/eligibility/application` every time the status page is visited
 
