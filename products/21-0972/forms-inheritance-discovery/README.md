@@ -204,9 +204,9 @@ This table prioritizes the technical findings and recommendations based on their
 
 _Teams often start with T-shirt sizes during early planning, then refine into story points later._
 
-- 👕 Small = Design
-- 👕 Small = Content
-- 👕 Medium = Engineering
+- 👕 Design = Small
+- 👕 Content = Small
+- 👕 Engineering = Medium
 
 ### Additional notes
 
