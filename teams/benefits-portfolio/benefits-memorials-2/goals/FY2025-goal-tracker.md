@@ -159,9 +159,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |--|--|--|--|--|
 |UX: Utilize Figjam board to collaborate with team on Pay.gov overpayments| QP4 |--|--|Complete|
 |UX: Establish December monthly Medallia report| QP7 |--|--|Complete|
-|ENG: Post code-freeze (January 5, 2026), confirm successful connection to Lighthouse production API.| QP4 |--|--|
-|ENG: Front end implementation of digital dispute design to eventually allow a user to one be able to submit ONE dispute per debt.| QP1 |--|--|--|
-|ENG: Implement copy functionality to allow Veterans to easily enter account numbers when paying online.| QP4 |--|--|
+|ENG: Post code-freeze (January 5, 2026), confirm successful connection to Lighthouse production API.| QP4 |--|--|Incomplete
+|ENG: Front end implementation of digital dispute design to eventually allow a user to one be able to submit ONE dispute per debt.| QP1 |--|--|Complete|
+|ENG: Implement copy functionality to allow Veterans to easily enter account numbers when paying online.| QP4 |--|--|Complete
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [x] Ready to be sent for approvals (12/31/25)
@@ -172,7 +172,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
-- [ ] 
+- For goal: ENG: Post code-freeze (January 5, 2026), confirm successful connection to Lighthouse production API.- PR was merged after daily deployment on 1.13.26. Team to pair with a federal engineer tomorrow to confirm a successful connection.
+  
 ## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
 
