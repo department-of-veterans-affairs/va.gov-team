@@ -101,9 +101,9 @@ Sessions lasted 60 minutes and followed a think-aloud approach using a Figma pro
 
 ### <a name="summary-of-key-findings"></a>Summary of key findings
 
-Veterans generally understood prescription status labels, but clarity broke down around timing, available actions, and what would happen next. Most participants were able to complete the renewal flow once they found the correct entry point, though paths varied based on prior habits and expectations.
+Veterans generally understood prescription status labels, but clarity broke down around timing, available actions, and what would happen next. 
 
-Confidence was shaped by link visibility, clarity around provider routing, the presence of prefilled information, and confirmation cues. Differences in experience were driven more by mental models and wayfinding than by difficulty completing the renewal request itself.
+Most participants were able to complete the renewal flow once they found the correct entry point, though paths varied based on prior habits and expectations. Confidence was shaped by link visibility, clarity around provider routing, the presence of prefilled information, and confirmation cues. Differences in experience were driven more by mental models and wayfinding than by difficulty completing the renewal request itself.
 
 ---
 
