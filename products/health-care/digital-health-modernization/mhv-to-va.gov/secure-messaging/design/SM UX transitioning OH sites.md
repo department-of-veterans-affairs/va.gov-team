@@ -41,6 +41,8 @@ Here's what users will and won't be able to do during the transition:
    - Their care team will still display
    - Idea: Prevent any editing for fields in draft
    - Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
+   - Idea: Surface modal when user tries to edit values
+   - Idea: Adding some indication on list page (a tag?) that draft is read-only right now
 - Should we add an alert to the pages where you select a care team?
    - Yes
 - For error messages, should we have a custom alert?
