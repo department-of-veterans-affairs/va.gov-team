@@ -1,6 +1,6 @@
 ## API Authentication: OTP Flow Authentication with VASS API
 
-The One-Time Code (OTP) flow is designed for scenarios where users access VA scheduling services through a direct invitation—not via a full va.gov sign-in. Instead of authenticating with standard credentials, users validate their identity using brief personal details and an emailed OTC, enabling secure access to appointment scheduling.
+The One-Time Passcode (OTP) flow is designed for scenarios where users access VA scheduling services through a direct invitation—not via a full va.gov sign-in. Instead of authenticating with standard credentials, users validate their identity using brief personal details and an emailed OTC, enabling secure access to appointment scheduling.
 
 **How the OTP flow works with VASS API:**
 
