@@ -1,14 +1,14 @@
 
 HEADLINE
 
-# DBC-Pathways Form Inhearitence Discovery
+# DBC-Pathways Form Inheritance Discovery
 
 ## **VA Form 21-0966**
 
  
 
 Team: DBC-Pathways  
-Ticket: Inhearitence Discovery 
+Ticket: Inheritance Discovery 
 
 ### **Parent Super Epic:** 
 
