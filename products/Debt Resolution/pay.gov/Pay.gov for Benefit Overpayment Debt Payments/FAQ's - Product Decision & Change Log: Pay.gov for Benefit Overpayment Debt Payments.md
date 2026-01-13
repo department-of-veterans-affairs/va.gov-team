@@ -33,7 +33,7 @@ The following were considered but rejected.
 - TBD
 
  **3. What will a Veteran see when a payment is in 'pending' state?**
-- TBD
+- When would a payment be in a pending state? and where are we asking they will "see" the information that the question is referring to? 
 
 **4. Can we pre-fill data for Veterans that they normally have to type out themselves on pay.va.gov?** 
 - This is a recurring issue that Veterans find frustrating when having to make a payment externally.
@@ -56,7 +56,6 @@ Answer from 4/24 meeting with team, Bob, and Denise:
 > It sounds like there is flexibility around this, UX thinks ability for unauthenticated payments is important
 
 **7. What is the MVP amount of information to collect in order to process a payment?** 
-
 So far, there are 5 steps (pages) to 
 collect payment from Veterans for copays. 
 > Is it possible to consolidate these 5 pages on one hosted page?
@@ -66,28 +65,28 @@ collect payment from Veterans for copays.
   - *Can custom styles be applied to the content of the page (form area)?*
 
 **9. Pay.va.gov uses pay.gov under the hood? If so, do we have a contact there?**
-- TBD
+- Yes, we have contacts for both pay.va.gov and pay.gov.  Heather can share a recording from when we met with pay.va.gov
   
 **10. How do we support/do we support paying multiple debts with one payment? Seems like pay.va.gov just uses an account number to associate a payment with a veteran? In fact, how do we even associate a single debt to a payment?**
-- TBD
+- Pay.VA.gov only processes a payment (or recurring payment) for a single debt. They do not allow multiple debts to be selected at one time.
   
 **11. It looks like pay.gov sends emails including confirmation and recurring payment reminders. Are there any others? For example, what happens if a recurring payment method goes bad?**
-- TBD
+- Need to pose this question to pay.va.gov team if we want to understand this. 
 
 **12. How does DMC find out about payments made?**
-- TBD
+- Pay.gov sends information to DMC about all payments made. This information comes in the form of spreadsheets which are manually uploaded into CARS 
 
 **13. Is there any particular reason we are not using "non-interactive services"? Just curious. Seems like the Hosted collection approach has been chosen already.**
-- TBD
+-  Not sure what "non-interactive service" is - would need to better understand this [DC]
   
 **14. Who was the latest integration? Peace corps? Is there another example with a payment being tied to an entity like in our case possibly a debt? How long did the PeaceCorps/latest integration take?**
-- TBD
+- No idea - that is a pay.gov question
 
 **15. Do we need to store anything like the tracking ID?**
 - [See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
  
 **16. [6/3/25:Related to combining payments] Can the UX team see an example of a payment review page?** 
-- TBD
+- "Payment Review Page" can you clarify?
 
 **17. [5/20/25:Related to combining payments] Will Pay.gov be able to process multiple copays AND overpayments within the same transaction?**
 - Answer from 5/28 email from Danielle and updates from Denise:
@@ -110,4 +109,59 @@ Same question for overpayments: Will Pay.gov be able to process multiple overpay
 
 **22. [11/25/25:Related to required Information] In regards to recurring payment logc, in the scenario a Veteran wants to stop the recurring payment subscription, will we need a management screen for their selected debts they're sending recurring to? And if so does Pay.gov handle just recurring submission updates, the same as debt/overpayments, or is it a separate path/endpoint/transaction and UI that's required? I imagine users will need some sort of control panel and I guess the accompanying pitfalls of such to handle it? Would it live in MyVA which means cross-team collab?**
 - TBD
- 
+
+**23. Will VA accept PayPal as a form of payment?**
+- No VA does not accept PayPal as a form of payment at this time (Jan 13, 2027) Will be considered in the future. 
+
+**24. We understand that a minimum of $25 is required for a payment plan and that any payment plans set up through pay.gov need to be under 60 months. Is that accurate? Are there any additional details missing that are required for establishing a payment plan through pay.gov**
+- Yes, this is correct
+
+**25. We understand that any payment plans over 60 months will require the Veteran to complete an FSR and submit it to DMC.  Is that accurate?**
+ - Yes, this is correct
+
+**26. Can we get clarity on when a Veteran would receive late fees for an overpayment debt?**
+    - Veterans will not receive late fees for an overpayment debt.
+
+**27. Should the payment always be charged on a specific date of the month? We need to know when to charge the Veteran on a payment plan so they do not incur a late fee.**
+- No, there are no specific dates a payment should be processed on. If a Veteran is setting up recurring payments through pay.gov today, it would be ok to set the next payment a month from that day.
+
+**28. Does DMC store payment plan details set up through pay.gov? If so, where is the system of record and is that information available on the DMC API or is there another API to that system of record?**
+  -  TBD (1/13/26 - open question; under investigation. Payment plans set up over the phone are stored in VAMS)
+
+**29. Where is an individual's full transaction history stored?**
+    - TBD (1/13/26 - open question; under investigation)
+
+**30. Does DMC track payment plans that are under 60 months?**
+- TBD (1/13/26 - open question; under investigation)
+
+**31. Can we see a copy of a spreadsheet/s that DMC uses to track an individual's transaction history?**
+  - Yes - Denise will share via email.
+
+**32. If it is okay for a veteran to create their own payment plan digitally, what information would need to be captured? (eg. amount, frequency, number of payments)**
+    - As long as a payment plan is set up to pay a minimum of $25 (unless the entire debt is less than $25), the debt is paid off in under 60 months then yes it is ok for a Veteran to set up a payment plan digitally thru pay.gov. Pay.gov would need to outline what information needs to be captured to set that up. 
+
+**33. Are there any restrictions on what information we can share on the confirmation page? For example, last 4 digits of credit card.**
+- Would need to check with privacy and security. No restrictions from DMC's perspective
+
+**34. Any restrictions on information shared on any confirmation emails we may send?**
+  Would need to check with privacy and security. No restrictions from DMC's perspective
+
+**35. What information is currently shared on the existing confirmation page and email?**
+- For Payment (confirmation page and email)
+  - Veterans information
+  - Payment amount
+  - date and time of transaction
+  - payment method
+  - description of overpayment
+- For Recurring payment
+  - Veterans information
+  - Start date
+  - end date
+  - amount per charge
+  - billing frequency
+  - next charge date
+  - payment method and last 4 digits
+  - statement descriptor (what will appear on their bank statement) 
+
+**36. Can a Veteran change their payment plan details on the PAY.VA.GOV experience today?**
+- Edit? TBD (still under investigation) but they CAN cancel it. 
