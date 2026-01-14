@@ -42,7 +42,7 @@ body:
   id: repro
   attributes:
     label:  👣 Steps to recreate
-    description: "Describe how to trigger. Include test user and any relevant device, browser, and assistive technology, e.g, 1. Navigate to [page] with [browser, username, AT, etc], 2. Use [method] to access [component, content, etc], 3. Notice [issue].
+    description: "Describe how to trigger the issue. Include test user and any relevant device, browser, and assistive technology, e.g, 1. Navigate to [page] with [browser, username, AT, etc], 2. Use [method] to access [component, content, etc], 3. Notice [issue].
   validations:
     required: true
 
