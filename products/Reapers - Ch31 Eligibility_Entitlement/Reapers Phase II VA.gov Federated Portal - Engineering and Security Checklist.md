@@ -88,7 +88,7 @@ The following product or feature descriptions may be answered with a reference l
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats. 
 - Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored? **We are only tracking logs and error logs**
 - Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? **No**
-- If so, please answer the following questions: **N/A **
+- If so, please answer the following questions: **N/A**
     - Is the PHI strongly encrypted?
     - Is the PII encrypted?
     - Can the sensitive information be scrubbed?
