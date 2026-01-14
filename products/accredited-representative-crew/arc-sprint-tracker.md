@@ -131,7 +131,7 @@ TBD
 11. **[ARP Post-MVP] Cleanup Tasks**: Continue accessibility audit (686c), Create ARC SavedClaims Deletion Job, Cont. Representation Requests - Update POA endpoints to send POA data to CorpDb
 13. **[Rep Communication] Research Panel Epic**: Determine how to utilize the representative research panel, with recruitment in mind 
 
-## Sprint 6+7 Demos (Recording Link TBD)
+## Sprint 6+7 Demos ([Recording Link](https://dvagov-my.sharepoint.com/:v:/g/personal/lindsay_li-smith_va_gov/IQBA40Aq755tSJ9EtJKG1U3lAQsVov1D2sXk_gqtHXnOkOY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QZOSQ0))
 
 **Team Accreditation**:
 1. Design work on Address Approximation
@@ -155,14 +155,10 @@ Total Completed in Sprint 7: 31 tickets, 88 points + 3 spikes\
 Planned Tickets Completed: 19 tickets, 61 points + 2 spikes\
 Stretch Goal Tickets Comleted: 12 tickets, 27 points + 1 spike
 
-Carrying into Sprint 8: 6 tickets, 22 points
-
-Crew Velocity: 88 points / 9 days = 9.7 points / day\
 Crew Count in Sprint 7: 13 active teammates (not including Principal Leads)\
-Average Teammate Velocity: 88 points / 15 teammates = 6.8 points / teammate (not including Principal Leads)
+Average Teammate Velocity in Sprint 7: 88 points / 15 teammates = 6.8 points / teammate (not including Principal Leads)
 
-
-
+Carrying into Sprint 8: 6 tickets, 22 points
 
 ## Sprint 7 Tickets
 
