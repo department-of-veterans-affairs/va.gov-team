@@ -65,6 +65,42 @@ Requests a One-Time Code (OTC) to be emailed for a user's authentication.
 }
 ```
 
+**Response (Missing uuid):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: uuid"
+    }
+  ]
+}
+```
+
+**Response (Missing last name):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: last_name"
+    }
+  ]
+}
+```
+
+**Response (Missing dob):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: dob"
+    }
+  ]
+}
+```
+
 ---
 
 ### POST /vass/v0/authenticate-otc
@@ -146,6 +182,55 @@ Returns a JWT token for further API access on success.
   ]
 }
 ```
+
+**Response (Missing uuid):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: uuid"
+    }
+  ]
+}
+```
+
+**Response (Missing last name):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: last_name"
+    }
+  ]
+}
+```
+
+**Response (Missing dob):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: dob"
+    }
+  ]
+}
+```
+
+**Response (Missing otc):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: otc"
+    }
+  ]
+}
+```
+
 
 ---
 
@@ -329,8 +414,8 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
 {
   "errors": [
     {
-      "code": "missing_topics",
-      "detail": "Topics are required"
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: topics"
     }
   ]
 }
@@ -341,8 +426,8 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
 {
   "errors": [
     {
-      "code": "missing_start_time",
-      "detail": "Start time is required"
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: dtStartUtc"
     }
   ]
 }
@@ -353,8 +438,8 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
 {
   "errors": [
     {
-      "code": "missing_end_time",
-      "detail": "End time is required"
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: dtEndUtc"
     }
   ]
 }
@@ -419,8 +504,8 @@ Retrieves details of a specific appointment by its unique identifier. Requires a
 {
   "errors": [
     {
-      "code": "missing_appointment_id",
-      "detail": "Appointment ID is required"
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: appointment_id"
     }
   ]
 }
@@ -459,6 +544,18 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
     {
       "code": "cancellation_failed",
       "detail": "Failed to cancel appointment"
+    }
+  ]
+}
+```
+
+**Response (Missing appointment id):**
+```json
+{
+  "errors": [
+    {
+      "code": "missing_parameter",
+      "detail": "param is missing or the value is empty: appointment_id"
     }
   ]
 }
