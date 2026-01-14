@@ -9,7 +9,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 ## Engineering Checklist
 
 - Product description
-    + Brief overview of motivation for the change from an engineering & security point of view - Allow Veterans to check the status of their benefits claim with confidence for CH31 benefits by pulling information from authorative sources on eligibility and displaying benefit information.
+    + Brief overview of motivation for the change from an engineering & security point of view - Allow Veterans to check the status of their benefits claim with confidence for CH31 benefits by pulling information from authorative sources on application/case status and displaying next steps.
     + Link to Collaboration Cycle Request issue - https://github.com/department-of-veterans-affairs/va.gov-team/issues/127317
 - UX design description
     + Wireframes - https://www.figma.com/design/T9tPpLgo9QTAE0URYJ4l9K/My-VR-E-Benefits-Tracker?node-id=617-67249&p=f&t=2CYsV05qjNSxUTuQ-0
