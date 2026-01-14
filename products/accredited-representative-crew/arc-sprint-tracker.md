@@ -10,11 +10,16 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Team Accreditation**: 
 1. **[ARP MVP clean up] Enable individual acceptance of representation requests**: Develop data models and research all features in ARP that may need updating, design review to understand if any frontend changes will be needed
 2. **[Rep Data] Stability and Maintenance**: Job to popoulate new Accredited Entities tables (beginning migration from Veteran Service tables, address approximation (when full rep address is invalid), programmatically get Trexler file from SQL server
+3. **[Rep Data] GCLAWS SQL Server API Integration**: Write the service to connect to the SQL API and handle the response
+4. **[21a] v4 - Development**: Determine how applicants can follow up with OGC, when documents fail to upload to GCLAWS
 
 **Team Benefits**:
 1. **[ITF] MVP - Development**: Launch-blocking QA findings, Datadog setup, release
 2. **[ITF] MVP - Design**: Update designs and URLs to match development
 11. **[Claimant Details] MVP - Design**: Claimant Details URLs
+12. **[Discovery Research] Understanding how Reps manage the claims cycle across all clients**: Wrap up interviews and begin analysis.
+13. **[526ez submission v2] v2 form 526 submission - UX**: Desk review of past UX research related to claims submission.
+14. **[ARP Post-MVP] Cleanup Tasks**: Finish creating the SavedClaims deletion job
 
 **Team Appoint**:
 1. **ARC Team Onboarding and Setup**: General onboarding to VA and ARC onboarding
@@ -27,6 +32,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 2. **[Rep Onboarding] Colorado Division of Veteran Affairs**: Schedule meeting and generate spreadsheet with missing emails
 3. **[Rep Onboarding] Batch Outreach Strategy for SEP VSOs**: Identify unaccredited certifying officials
 4. **[Rep Communication] Set up shared support mailbox**: Investigate sending emails from shared support mailbox
+5. **[Rep Onboarding] Coordinate with LEAF team to produce feature demo videos**: Provide video feedback
 
 ## Sprint 8 Demos
 
@@ -149,7 +155,7 @@ TBD
 
 ## Sprint 7 Delivery
 
-- [ ] Sprint Delivery Approved by Enablement
+- [x] Sprint Delivery Approved by Enablement - Jen Bertsch on January 14, 2026 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1768417478049189?thread_ts=1768410008.688459&cid=C06GE5N7QJ0)) 
 
 Total Completed in Sprint 7: 31 tickets, 88 points + 3 spikes\
 Planned Tickets Completed: 19 tickets, 61 points + 2 spikes\
