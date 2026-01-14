@@ -28,7 +28,7 @@
   - Mural link for notetaking
 - Wear HEADPHONES to prevent the user's screen reader from echoing back to them
 - Paste prototype link into Zoom chat (but don't hit enter)
-- Do Not Disturb ON so no notifications
+- Do Not Disturb ON so no notifications on computer and phone
 - Make sure everyone is muted except me and the participant
 
 When the participant is ready, turn on your camera and begin session with the intro
@@ -87,6 +87,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: **Broadcast screen**
+- iPhone: **Screen broadcast** or **Start broadcast**
 ## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
