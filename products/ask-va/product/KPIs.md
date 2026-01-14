@@ -30,8 +30,8 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |[Performance] Throughput, Successful Submit reply calls|2341|6819|4836|8593|9019|10042|9607|8095|
 |[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)||||||
 |[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|14% (217)||||||
-|[Form] Completion rate|36%|39%|35%|||||
-|[Dashboard] Reply rate|21%|23%|20%|||||
+|[Form] Completion rate|36%|39%|35%|27%|29%|31%|28%|27%
+|[Dashboard] Reply rate|21%|23%|20%|22%|21%|24%|24%|21%
 |[Form] Time to submit form|x|x|x|X|||||
 |[Dashboard] Time to reply|x|x|x|X|||||
 
