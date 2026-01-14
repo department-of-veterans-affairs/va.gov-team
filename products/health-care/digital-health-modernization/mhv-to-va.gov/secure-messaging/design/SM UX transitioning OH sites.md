@@ -16,8 +16,10 @@ Upcoming transitioning sites in Michigran for April 2026:
 You can [review the full EHR deployment schedule on this VA page](https://digital.va.gov/ehr-modernization/ehr-deployment-schedule/). 
 
 ## UX during transition
-This describes how patients at the transitioning sites will experience messaging on VA.gov
-
+This describes how patients at the transitioning sites will experience messaging on VA.gov. In this section: 
+- Alerts
+- Functionality during transition
+  
 ### Alerts 
 We'll display these alerts to users.
 - Before transition: "You can't send/reply to messages during this upcoming period of time"
@@ -30,20 +32,19 @@ Here's what users will and won't be able to do during the transition:
 |---|---|
 |- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>- Save draft<br>- Create folder (VA.gov only)<br>- Edit preferred care team list (VA.gov only)<br>- Delete folder (VA.gov only)<br>- Edit folder (VA.gov only)<br>- Delete thread (VA.gov only)<br>- Move thread (VA.gov only)| 
 
-## Questions
-- If BE will disable care teams at transitioning MI sites, can users still select them in the combobox drop down or recent recipients page?
-   - Care teams at MI transition sites won't appear on either recent recipients page or combobox.  
-- What should the experience for replies be for MI transition sites?
-   - There's an alert we display for people trying to message blocked TG.
-- What about the other actions (ex: Create folder, Delete folder, etc.)?
-   - User gets routine red error message
-- If someone already has a draft to that care team at MI, how will this work?
-   - Their care team will still display
-   - Idea: Prevent any editing for fields in draft
-   - Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
-   - Idea: Surface modal when user tries to edit values
-   - Idea: Adding some indication on list page (a tag?) that draft is read-only right now
-- Should we add an alert to the pages where you select a care team?
-   - Yes
-- For error messages, should we have a custom alert?
-   - Yes, can be more specific messages. Engineering will create custom alerts.
+**Send new messages to care teams at transitioning sites**
+- Users won't be able to select care teams at MI transition sites. For VA.gov: On either recent recipients page or select a care team page. For VAHB: On the compose message screen.
+
+**Reply to messages from care teams at transitioning sites**
+- There's an alert we display for people trying to message blocked TG.
+- Going to create custom alert with more specific language.
+
+**Create folder, Delete folder, etc.**
+- User gets routine red error message
+
+**Edit draft to care team at transitioning site**
+- Their care team will still display
+- Idea: Prevent any editing for fields in draft
+- Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
+- Idea: Surface modal when user tries to edit values
+- Idea: Adding some indication on list page (a tag?) that draft is read-only right now
