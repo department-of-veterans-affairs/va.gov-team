@@ -10,65 +10,65 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 
 - Product description
     + Brief overview of motivation for the change from an engineering & security point of view
-    + Link to Collaboration Cycle Request issue
+    + Link to Collaboration Cycle Request issue - https://github.com/department-of-veterans-affairs/va.gov-team/issues/127317
 - UX design description
-    + For user-facing changes, link to UX prototype or wireframes if available
-    + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
+    + Wireframes - https://www.figma.com/design/T9tPpLgo9QTAE0URYJ4l9K/My-VR-E-Benefits-Tracker?node-id=617-67249&p=f&t=2CYsV05qjNSxUTuQ-0
+    + Already conducted design intent and recieved feedback on adjustments.
 - Frontend changes
-    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? Yes- adding in 3 new pages for the user to track their VR&E journey.
-    + Identify any new design system components needed or changes to current components. We are using all existing components. No new componenets were added or modified.
-    + Does this update change shared code? N/A
-    + Describe any product analytics being gathered.  How will errors in the FE system be detected? Will track the button clicks.
+    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? **Yes**- adding in 3 new pages for the user to track their VR&E journey. A connection between VA.gov and RES already exists.
+    + Identify any new design system components needed or changes to current components. **We are using all existing components. No new componenets were added or modified.**
+    + Does this update change shared code? **N/A**
+    + Describe any product analytics being gathered.  How will errors in the FE system be detected? **Will track the button clicks.**
 - Backend changes
-    + Does the project introduce any new or unusual infrastructure dependencies? No
-    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`)We are using an existing connection with RES to retrieve new information.
-    + Do you need to poll any APIs for status?  How is API success or failure determined? Yes, but either reaching information or not with error handling on frontend
-    + Are you handling all failure and error cases while in custody of your users's data? Yes
-    + Does this update change shared code? Yes
-    + What information will be captured in logs or metrics? No PII data. Using a generalized failure message that does not include PII.
-    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? N/A
-    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? N/A
+    + Does the project introduce any new or unusual infrastructure dependencies? **No**
+    + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`) - **We are using an existing connection with RES to retrieve new information.**
+    + Do you need to poll any APIs for status?  How is API success or failure determined? **Yes, but either reaching information or not with error handling on frontend**
+    + Are you handling all failure and error cases while in custody of your users's data? **Yes**
+    + Does this update change shared code? **Yes**
+    + What information will be captured in logs or metrics? **No PII data. Using a generalized failure message that does not include PII.**
+    + Does this project/update involve user-uploaded data? Are user-uploaded files being scanned for viruses? **N/A**
+    + Does this project/update generate intermediate or "temporary" files during processing? If so, where and how are the temporary files materialized? What is the cleanup/removal process or mechanism? **N/A**
 - Internal API changes
-    + List new or modified APIs in `vets-api` We have modified the VRE CH31 service
-    + Are you deprecating or removing any APIs? No
-    + Do you have API documentation? No
-    + Describe expected call patterns. No
-    + Are there new endpoints or services that require rate limiting or throttling? No
-    + Are there any third party integrations, and how are they vetted? No
-    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?)No
-    + Is schema validation enforced (ex: using the vets-json-schema repo)? N/A
+    + List new or modified APIs in `vets-api` - **We have modified the VRE CH31 service**
+    + Are you deprecating or removing any APIs? **No**
+    + Do you have API documentation? **No**
+    + Describe expected call patterns. **N/A**
+    + Are there new endpoints or services that require rate limiting or throttling? **No**
+    + Are there any third party integrations, and how are they vetted? **No**
+    + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) **No**
+    + Is schema validation enforced (ex: using the vets-json-schema repo)? **N/A**
 - External API changes
-    + List new or modified APIs for upstream or external systems. getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation. **Need to add in API name here**
-    + Describe expected call patterns. REST API
-    + What PII or PHI will be transmitted to/from the external systems? ICN
+    + List new or modified APIs for upstream or external systems. **getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation. using the update-key-milestone API**
+    + Describe expected call patterns. **REST API**
+    + What PII or PHI will be transmitted to/from the external systems? **ICN**
 - Background jobs
-    + List any required background processing N/A
-    + Describe error and dead letter handling N/A
-- Data storage N/A to the entire section
+    + List any required background processing **N/A**
+    + Describe error and dead letter handling **N/A**
+- Data storage **N/A to the entire section**
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
     + Is this change introducing a large or new volume of data?
     + Do these changes impact database or caching layers (ex: Redis, Postgres)? Do the changes have implications for data volume, memory, or CPU usage to consider?
     + Does this project/update expect to persist information? What is the expiration policy for data added to the system? What is the cleanup/removal process or mechanism?
-- Libraries and dependencies N/A
+- Libraries and dependencies **N/A**
     + List new or updated dependencies
 - Metrics, logging, observability, alerting 
-    + Identify key areas to monitor. Using datadog for monitoring and logging.
-    + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost No
-    + Are there any sensitive data risks with logging? No
+    + Identify key areas to monitor. **Using datadog for monitoring and logging.**
+    + Are you introducing any custom metric tags? Have you considered their cost and potential cardinality? High cardinality = higher cost **No**
+    + Are there any sensitive data risks with logging? **No**
 - Infrastructure and network changes 
-    + List any changes or additions No changes
+    + List any changes or additions **No changes**
 - Test strategy
-    + Describe automated, manual and user acceptance test strategy. Created test users - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vre-ch31.md. We will also be performing UAT testing.
-    + Describe required test data and test user accounts https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vre-ch31.md
+    + Describe automated, manual and user acceptance test strategy. **Created test users** - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vre-ch31.md. **We will also be performing UAT testing.**
+    + Describe required test data and test user accounts **https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-vre-ch31.md**
 - Rollout plan
-    + List scope of any feature flags. Release the new page that has a feature flag on the frontend
-    + Identify other teams to coordinate with  Working with RES team to create the API and push it to production before our go live date
-    + Describe rollback plan The API will go live ahead of time, we will remove the feature flag on 03/26 to display new functionality. If anything was to go wrong we will turn off the feature flag hiding all the functionality until necessary repairs were completed
+    + List scope of any feature flags. **Release the new page that has a feature flag on the frontend**
+    + Identify other teams to coordinate with  **Working with RES team to create the API and push it to production before our go live date**
+    + Describe rollback plan **The API will go live ahead of time, we will remove the feature flag on 03/26 to display new functionality. If anything was to go wrong we will turn off the feature flag hiding all the functionality until necessary repairs were completed**
 - Internal administration tasks
-    + What maintenance or administration tasks do you anticipate will need to be performed periodically? None
-    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.). N/A
+    + What maintenance or administration tasks do you anticipate will need to be performed periodically? **None**
+    + Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.). **N/A**
 
 ## Security Checklist
 ### Questions to be Answered
@@ -77,8 +77,8 @@ The following product or feature descriptions may be answered with a reference l
 - Please describe what problem this product or feature solves.
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
-    - How does the code base get disabled in the product? Team will review and disable and submit PR. We also have a maintenance window via pager duty that can be used to take it down without having to push code.
-    - How would you detect a compromise? Datadog monitoring and alerts
+    - How does the code base get disabled in the product? **Team will review and disable and submit PR. We also have a maintenance window via pager duty that can be used to take it down without having to push code.**
+    - How would you detect a compromise? **Datadog monitoring and alerts**
     - What process and privilege does the code base execute under?
         - If so, is that process isolated?
         - If so, what additional credentials are available to that process?
@@ -86,19 +86,19 @@ The following product or feature descriptions may be answered with a reference l
   - Links to dashboards that help identify and debug application issues
 - Provide your Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Are there any new application endpoints, front- or back-end? If so, please give examples of how any of the endpoints could be abused by unauthorized parties, as well as a plan to mitigate such threats. 
-- Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored? We are only tracking logs and error logs
-- Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? No
-- If so, please answer the following questions: N/A 
+- Is there any new logging data being captured? If so, what data is being captured, how, and where is it stored? **We are only tracking logs and error logs**
+- Is Personal Health Information/PHI, Personal Identifiable Information/PII, or any other Personal Information/PI being captured? **No**
+- If so, please answer the following questions: **N/A **
     - Is the PHI strongly encrypted?
     - Is the PII encrypted?
     - Can the sensitive information be scrubbed?
-- Are there any new, modified, or existing Cookies being used? No
+- Are there any new, modified, or existing Cookies being used? **No**
     - If so, are there any new Cookies?
         - If so, why can’t the existing Cookies be used?
     - If so, are there any modified Cookies?
         - If so, how are the Cookies modified?
     - If so, are there any existing Cookies?
-- Is this feature authenticated or unauthenticated? Authenticated
+- Is this feature authenticated or unauthenticated? **Authenticated**
 - Are there any other specific subjects that you want to highlight or focus additional attention on? Work with Stan
 
 ### Artifacts
