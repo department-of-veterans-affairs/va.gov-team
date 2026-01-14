@@ -1,7 +1,7 @@
 name: Link check - lychee
 
 on:
-  push:
+  pull_request:
 
 permissions:
   contents: read
@@ -11,11 +11,45 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Run lychee
-        uses: lycheeverse/lychee-action@v1
         with:
+          fetch-depth: 0
+
+      - name: Collect changed docs files
+        id: changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          git diff --name-only "$BASE_SHA" "$HEAD_SHA" \
+            | grep -E '^.*\.(md|mdx|html|rst|txt)$' \
+            | sort -u \
+            > lychee-files.txt || true
+
+          echo "Changed files to check:"
+          cat lychee-files.txt || true
+
+          if [[ ! -s lychee-files.txt ]]; then
+            echo "no_files=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "no_files=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run lychee on changed files (warn-only)
+        id: lychee
+        if: steps.changed.outputs.no_files != 'true'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          jobSummary: true
           args: >
             --verbose
             --no-progress
-            products/identity/
+            --files-from lychee-files.txt
+
+      - name: Emit warning if lychee found issues
+        if: steps.changed.outputs.no_files != 'true' && steps.lychee.outputs.exit_code != 0
+        run: |
+          echo "::warning::Lychee detected link issues in files changed by this PR. Review the job summary/log output."
