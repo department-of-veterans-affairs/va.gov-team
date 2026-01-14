@@ -5,7 +5,7 @@
 ### Table of Contents
 
 - [Design Findings](#design-findings)
-- [Technical Findings](#technical-indings-and-recommendations-for-form-21-0972)
+- [Technical Findings](#technical-findings-and-recommendations-for-form-21-0972)
 - [Level of Effort](#level-of-effort)
 - [Next](#next)
 
