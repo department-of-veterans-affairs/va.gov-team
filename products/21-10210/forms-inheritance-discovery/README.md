@@ -380,7 +380,7 @@ The following were initially flagged but confirmed as platform-level concerns:
 | DataDog RUM Integration | Handled at platform level |
 | `devOnly` props | Standard pattern across VA forms |
 
-## Level Of Effort
+## Level of Effort
 
 ### Issue Summary
 
