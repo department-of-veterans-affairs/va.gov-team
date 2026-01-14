@@ -73,10 +73,9 @@ Before we start, I have a few things that I want to go over with you:
 
 ### Warm-up Questions
 
-1.  The last time you interacted with VA, what did you do?
-    * How did it go?
-    * What would you have changed?
-    * What would you like VA to know about your experience?
+**What services do you use on VA.gov?**
+
+**How often do you use them?**
 
 ---
 
@@ -84,7 +83,11 @@ Before we start, I have a few things that I want to go over with you:
 
 ### Task 1: Use Discover Your Benefits Tool - Questionnaire (2 minutes)
 
-* [ ] Complete questionnaire in Codespaces using prototype with radio buttons
+* [ ] Complete questionnaire in Codespaces using radio button prototype for odd numbered participants and checkbox prototype for even numbered participants
+
+* [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
+* [Prototype 2 (checkbox)](https://fuzzy-disco-9v77w75p4q3x7rj-3001.app.github.dev/discover-your-benefits)
+
 
 > [!NOTE]
 > **Things to watch for:**
@@ -92,18 +95,18 @@ Before we start, I have a few things that I want to go over with you:
     * Ask directly about content while on this question (or at least before they get to the results page)
 > * Observation of process - Is it intuitive? Fast? Do they hesitate on any questions?
 
-### Task 2: Use Discover Your Benefits Tool - Results Page prototype with radio buttons (15 minutes)
+### Task 2: Use Discover Your Benefits Tool - Results Page prototype (20 minutes)
 Shown via Codespaces
    * Are they seeing the options?
        * Are they interacting with them?
        * Do we have the right default sort - are they expecting something different?
-* **Sorting with radio button prototype (task)**
+* **Sorting (task)**
     * New options
        * Are they seeing the options?
        * Are they interacting with them?
        * Do we have the right default sort - are they expecting something different?
        * Is the label "most time-sensitive" clear?
-* **How are users interacting with the new filters (task)**
+* **Filtering: How are users interacting with the new filters (task)**
     * Do they see them (compared to last round of testing)?
     * Are the categories intuitive?
 * **Are they able to make the connection between the filters and the content on the cards (especially the before/after separation filter).**
@@ -112,38 +115,6 @@ Shown via Codespaces
     * Interact with radio button component (task)
     * Recommended vs all benefits (task)
     * Is there anything that isn't clear?
-* **Cards (task)**
-    * How does changing filters affect how they’re interacting with cards
-    * Tags, eyebrows, scanning, scrolling–how are the cards working
-    * Learn more vs apply now
-    * **Timing (task)**
-        * Apply before separation
-        * Apply after
-        * Ambiguities and edge cases
-* **User paths (observational/post-test analysis)**
-    * Will we see the same patterns with goals not mapping to benefits explored
-    * Will benefits explored change with the new results page
-
-### Task 3: Results Page prototype with check boxes (15 minutes)
-
-* Show second prototype with checkboxes 
-* Same observations as first prototype
-
-* **Sorting (task)**
-    * New options
-     * Are they seeing the options?
-       * Are they interacting with them?
-       * Do we have the right default sort - are they expecting something different?
-       * Is the label "most time-sensitive" clear?
-* **How are users interacting with the new filters (task)**
-    * Do they see them (vs last time)
-    * Are the categories intuitive
-* **Are they able to make the connection between the filters and the content on the cards (especially the before/after separation filter).**
-    * Are they necessary?
-    * Anything missing?
-    * Checkbox component (essestial to task)
-    * Recommended vs all benefits (essential to task)
-    * Clear?
 * **Cards (task)**
     * How does changing filters affect how they’re interacting with cards
     * Tags, eyebrows, scanning, scrolling–how are the cards working
