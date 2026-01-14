@@ -43,23 +43,6 @@ We’re continually iterating to make it easier for you to build better, faster.
 | vets-api repo     | Backend for VA.gov.                              | [vets-api](https://github.com/department-of-veteran-affairs/vets-api) |
 | vets-website repo | Frontend for VA.gov.                             | [vets-website](https://github.com/department-of-veteran-affairs/vets-website) |
 | VFS Toolkit (VTK) | Ruby gem that helps engineers to quickly start developing on VA.gov. Provides a command line interface that allows the use of simple commands and parameters to do everything from setting up a development environment to building out a directory structure and creating necessary files for separating code into its own module. | [VTK repo](https://github.com/department-of-veteran-affairs/vtk) |
-| Forms Library     | VA.gov Forms Library provides a simple way to create a consistent experience for complex ```markdown
-| Tool              | Description                                      | Links                                      |
-|-------------------|--------------------------------------------------|--------------------------------------------|
-| Design System     | Guidance, standards, and tools to help teams build a consistent, intuitive, and Veteran-centered experience across VA.gov. | [VA.gov Design System](https://design.va.gov) |
-| Sketch            | Digital design tool used for UX and UI design. VA.gov design system library is Sketch-compatible. | [Sketch.com](https://www.sketch.com) \| [Sketch for Teams at VA](https://sketch.com/teams) |
-| GitHub            | Used for documenting research.                   | [GitHub.com](https://github.com) \| [VA.gov Research Hub](https://github.com/department-of-veteran-affairs) |
-| OptimalWorkshop   | Optimal Workshop provides research methods you need to test your user experiences. | [OptimalWorkshop.com](https://www.optimalworkshop.com) |
-
-## Development Tools
-
-### Platform-built Tools
-
-| Tool              | Description                                      | Links                                      |
-|-------------------|--------------------------------------------------|--------------------------------------------|
-| vets-api repo     | Backend for VA.gov.                              | [vets-api](https://github.com/department-of-veteran-affairs/vets-api) |
-| vets-website repo | Frontend for VA.gov.                             | [vets-website](https://github.com/department-of-veteran-affairs/vets-website) |
-| VFS Toolkit (VTK) | Ruby gem that helps engineers to quickly start developing on VA.gov. Provides a command line interface that allows the use of simple commands and parameters to do everything from setting up a development environment to building out a directory structure and creating necessary files for separating code into its own module. | [VTK repo](https://github.com/department-of-veteran-affairs/vtk) |
 | Forms Library     | VA.gov Forms Library provides a simple way to create a consistent experience for complex forms for Veterans. | [VA.gov Forms Library](https://github.com/department-of-veteran-affairs/forms-library) |
 | React Component Library | Documentation and examples of VA.gov UI design system components. | [VA.gov Design System](https://design.va.gov) \| [Component Library](https://design.va.gov/components) |
 | Feature Toggles   | Can be used in both vets-api and vets-website to manage unreleased features in a continuous integration environment. | [Platform Feature Toggles documentation](https://github.com/department-of-veteran-affairs/feature-toggles) |
