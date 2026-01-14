@@ -74,8 +74,8 @@ Before we start, I have a few things that I want to go over with you:
 ### Warm-up Questions
 
 **What services do you use on VA.gov?**
-
-**How often do you use them?**
+- How often do you use them?
+- Follow up question if appropriate
 
 ---
 
@@ -83,16 +83,24 @@ Before we start, I have a few things that I want to go over with you:
 
 ### Task 1: Use Discover Your Benefits Tool - Questionnaire (2 minutes)
 
+**Let's get started with our test. I'm going to drop a link in the chat for you. Please click it and share your screen.**
+
+After the participant shares their screen
+**I would like you to use this tool just like you would if I weren't here. I may stop you for questions along the way. Please say what you're thinking and noticing as you go.**
+
+
 * [ ] Complete questionnaire in Codespaces using radio button prototype for odd numbered participants and checkbox prototype for even numbered participants
 
 * [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
 * [Prototype 2 (checkbox)](https://fuzzy-disco-9v77w75p4q3x7rj-3001.app.github.dev/discover-your-benefits)
 
+Before submitting:
+**What do expect to happen next?**
 
 > [!NOTE]
 > **Things to watch for:**
 > * New length of service question
-    * Ask directly about content while on this question (or at least before they get to the results page)
+    * Ask directly about content only if they hesitate or offer feedback spontaneously
 > * Observation of process - Is it intuitive? Fast? Do they hesitate on any questions?
 
 ### Task 2: Use Discover Your Benefits Tool - Results Page prototype (20 minutes)
