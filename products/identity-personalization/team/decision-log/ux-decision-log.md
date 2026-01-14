@@ -36,6 +36,10 @@
 - Content team approved swapping State to States and territories with the removal of US Territories as countries from the address fields.
 - [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1753189539164579)
 
+### Service history information
+#### 01/14/2026 VSC alert updates
+- Mobile team is updating VSC alerts to direct to the VA call center. Determined Service history information will not be changing to match at this time.
+- [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1767895127894269)
 
 ## Shared projects
 ### Email verification
