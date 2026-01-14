@@ -1,5 +1,5 @@
-# [WIP] Finding Claims Product Outline 
-
+# [Archive] Finding Claims Product Outline 
+Using the epic for this work as the product outline: https://github.com/department-of-veterans-affairs/va.gov-team/issues/122238
 
 ## Overview
 The Claim Status Tool (CST) currently displays all claims in a single list without any functionality to help claimants easily locate a specific claim. As additional claim types are added, it will become increasingly important for claimants to find and review their claims efficiently within CST on the VA Mobile App and VA.gov.
