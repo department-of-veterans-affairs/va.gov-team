@@ -87,10 +87,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. I understand you are a surviving spouse/child of a Veteran. Is that right?  
    1. Thanks for confirming that.  
 2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
-    - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.  
-3. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat.   
-4. What do you know about survivor benefits?  
-5. Are you familiar with how to get survivor benefits?  
+    - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.
+3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
+4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat.   
+5. What do you know about survivor benefits?  
+6. Are you familiar with how to get survivor benefits?  
    1. (If Y) Have you applied for survivor benefits in the past? i.   
       * (If Y) Can you tell me about your experience? (when, how, results)  
          * Once you realized you might be eligible for benefits, what was the very first step you took to get started?  
@@ -101,6 +102,19 @@ Before we look at the website, let’s start with a few warm-up questions.
              * (If Y)Can you talk about that?
    2. (If N) No problem. You'll learn about it as we go through this session.
          * As someone new to this process, what are your immediate thoughts or concerns about applying for VA benefits for the first time?
+
+## User Tasks
+
+### Screen sharing
+
+I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now. - (refer to Screen sharing instructions above, if needed) - STOP TECH TROUBLESHOOTING < 20 min into session if want a replacement participant from Perigean b/c not likely to be successful
+
+We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
+
+1. Make sure that the Zoom application has focus
+2. Navigate to the screen share button
+3. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
+4. Activate the screen share
 
 ## First Task: Wayfinding
 
