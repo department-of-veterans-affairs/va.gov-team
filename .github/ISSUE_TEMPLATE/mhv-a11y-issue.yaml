@@ -1,4 +1,4 @@
-laname: "MHV Accessibility Issue Ticket"
+name: "MHV Accessibility Issue Ticket"
 description: "Please use this form to report or create an accessibility issue ticket for MHV"
 title: "[MHV [Product] / Accessibility] [Issue description]"
 labels: ["accessibility", "needs-refinement"]
