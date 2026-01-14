@@ -20,7 +20,7 @@ research_format:
 research_goals:
   - "Test usability of the redesigned results page"
   - "Test usability of the rewritten length of service question"
-  - "Test the product with adaptive technology users"
+  - "Test the product with adaptive technology users to confirm usability"
 
 research_questions:
   - "Do the design changes to the results page make users better able to accomplish their goals of discovering, exploring, and understanding benefits?"
