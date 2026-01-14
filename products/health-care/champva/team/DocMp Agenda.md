@@ -1,5 +1,119 @@
 <h1>DOCMP/PEGA & IVC FORMS WEEKLY SYNC</h1>
 
+
+**Date:** January 14, 2026  
+  
+---
+
+## 1. Bundling Request (DocMP)
+- VA.gov checked in on previously requested bundling work.
+- Cindy reported bundling is **not currently prioritized** on the DocMP side.
+- No timeline estimate is available.
+
+**Decision / Outcome**
+- No immediate action; bundling remains unprioritized.
+
+**Timeline**
+- None provided.
+
+---
+
+## 2. Missing Statuses & Retry Logic
+- Retry logic has reduced, but not eliminated, missing statuses.
+- Cindy confirmed she is seeing the same results on the DocMP side.
+- Current DocMP retry behavior:
+  - Constant wait time between retries
+  - Three retry attempts
+  - Retries triggered by **503 Bad Gateway** or **no response**
+- VA.gov platform team is implementing fixes at the API level to prevent failures upstream.
+
+**Next Steps**
+- Cindy will review additional options over the next few days.
+
+**Timeline**
+- Cindy review: next few days  
+- Platform fixes: in progress (no date provided)
+
+---
+
+## 3. Email Alert Testing for Missing Statuses
+- Steve requested testing email notifications that alert both teams when a status is missing.
+- Plan is to simulate an outage in staging overnight so the email job can run.
+- Cindy will take DocMP offline in staging and restore it the next morning.
+
+**Decision**
+- Proceed with the test.
+
+**Timeline**
+- **January 15, 5:00 PM ET:** outage begins in staging  
+- **January 16 (morning):** service restored
+
+---
+
+## 4. DocMP Project Manager Transit
+- **Michael Halbrook** introduced as the new DocMP Project Manager.
+- Transition will occur over the next few weeks.
+- Andrea Merrill and Michael Mooney will meet with him to:
+  - Introduce themselves
+  - Align on request intake and sharing
+  - Establish ongoing communication norms
+
+**Timeline**
+- Intro meeting: next week  
+- Full transition: next few weeks
+
+---
+
+## 5. VES / 1010D & OGI Ingest
+- VES requested a resend of the original ~1,000 1010D submissions.
+- VES is experiencing issues; Katrina is supporting with focused work.
+- OHI ingest is delayed until 1010D ingest issues are resolved.
+
+**Timeline**
+- No resolution date provided.
+
+---
+
+## 6. Enhanced Claims Flow (CHAMPVA)
+- Target launch date for enhanced CHAMPVA claims flow: **January 26**.
+- Dependencies:
+  - VA.gov must resolve attachment IDs converting from APDI numbers to CBA penny responses.
+  - DocMP attachment bundling work is still outstanding.
+- Training question:
+  - Cindy was unsure if users have been trained.
+  - Premal was directed to check with **Melissa J** and **Joie**.
+
+**Decision**
+- Continue toward January 26 launch, acknowledging risks.
+
+---
+
+## 7. Health Status Team & Ownership Updates
+- A new Health Status team will support users being able to track statuses and integrate them into the Benefits tool.
+- Cindy shared:
+  - Status data is available via reports (open/closed).
+  - Statuses are not currently available via callable endpoints.
+  - Work is on the backlog but not prioritized (Eileen is aware).
+- VA.gov updates:
+  - Supporting team onboarding in the next week or two.
+  - **Mike Mooney** moving into Product Manager role.
+  - **Andrea Merrill** stepping into a hybrid Delivery Manager / Product Manager role.
+- Moving forward:
+  - Dedicated meeting cadences will be established.
+- Escalation note:
+  - **Lamar** remains the OIT escalation contact for Premal.
+  - **Mike Halgren** noted as taking over related responsibilities.
+
+---
+
+## Key Decisions & Dates
+- Bundling: not prioritized, no timeline
+- Retry logic: continued monitoring; API fixes in progress
+- Email alert test: January 15, 5:00 PM ET (overnight)
+- Enhanced CHAMPVA launch target: January 26
+- PM transition: next few weeks
+- Health Status team onboarding: next 1–2 weeks
+
 ## Meeting notes 8.13.2025
 
 ### JSON for Multiple Beneficiaries
