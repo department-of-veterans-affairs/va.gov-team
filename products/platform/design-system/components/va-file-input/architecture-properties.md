@@ -215,6 +215,40 @@ This upload flow uses the Simple Forms API in vets-api to stage, validate, conve
 - Submit the final PDF (and supporting documents when enabled) to Lighthouse Benefits Intake
 - Record submission attempts and correlate with the Intake UUID for traceability
 
+Supported File Types (for conversion)
+PDF (direct processing)
+JPG, JPEG
+PNG
+GIF
+BMP
+TXT
+HEIC (Apple screenshots and photos)
+
+Two utilities are used in different contexts:
+
+1) Common::ConvertToPdf (generic uploads)
+- Reference: [lib/common/convert_to_pdf.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/convert_to_pdf.rb)
+- Behavior:
+  - PDF input: returned as‑is.
+  - image/*: converted to letter‑sized PDF via MiniMagick.
+  - Otherwise: raises IOError (unsupported type).
+- Usage:
+```ruby
+pdf_path = Common::ConvertToPdf.new(uploaded_file).run
+```
+
+2) BenefitsIntakeService::Utilities::ConvertToPdf (with cover page)
+- Reference: [lib/benefits_intake_service/utilities/convert_to_pdf.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/benefits_intake_service/utilities/convert_to_pdf.rb)
+- Allowlist:
+  - Images: .jpg .jpeg .png .gif .bmp
+  - Text: .txt (rendered via Prawn)
+- Behavior: Adds auto‑generated cover page (filename + timestamp), then converts.
+- Usage:
+```ruby
+converted = BenefitsIntakeService::Utilities::ConvertToPdf.new('/tmp/file.txt')
+pdf_path = converted.converted_filename
+```
+
 Key code references:
 - Controller (staging/submit flows): [modules/simple_forms_api/app/controllers/simple_forms_api/v1/scanned_form_uploads_controller.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/f78fd1f5009aed3827c0ccf882c479908a583032/modules/simple_forms_api/app/controllers/simple_forms_api/v1/scanned_form_uploads_controller.rb#L10-L169)
 - Processor (decrypt/convert/validate/persist): [modules/simple_forms_api/app/services/simple_forms_api/scanned_form_processor.rb](https://github.com/department-of-veterans-affairs/vets-api/blob/e62253a7ef694a43711edfb04f453d074653cfff/modules/simple_forms_api/app/services/simple_forms_api/scanned_form_processor.rb#L41-L150)
