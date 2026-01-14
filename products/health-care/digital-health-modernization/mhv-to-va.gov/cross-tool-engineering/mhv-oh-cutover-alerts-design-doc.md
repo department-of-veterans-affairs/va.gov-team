@@ -6,7 +6,7 @@ As facilities transition to OH we will need to begin messaging them information 
 To accomplish this we will implement a feature that allows us to use the pending transition date of the facility to populate the appropriated messages for users in MHV. The applications that will be impacted include Appointments, Medications, and Secure Messaging.
 
 An overview of the **relative** timing for cutover messaging:
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## Important Factors
 - Each MHV tool will need its own "phase" schedule
@@ -25,7 +25,7 @@ Because of these important factors, the approach will be to handle anything that
 This avoids Mobile release woes, such as lengthy deploy windows and users not seeing the changes due to out-of-cadence releases.
 
 ### Design
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 At a high level, the frontend (vets-website) requests information about the user. As part of the response, vets-api parses the migration+facility information in the AWS param store, and builds a JSON representation of the parsed, phased migration information per facility. When MHV has access to this information, each tool can use the values in redux to display the appropriate migration information per facility.
 
