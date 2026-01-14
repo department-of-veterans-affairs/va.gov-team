@@ -153,7 +153,7 @@ Let’s start with a few questions...
 
 We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
 1. Make sure that the Zoom application has focus
-1. Navigate to the screen share button
+1. Navigate to the screen share button (maybe via More menu)
 1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
 1. Activate the screen share
 
