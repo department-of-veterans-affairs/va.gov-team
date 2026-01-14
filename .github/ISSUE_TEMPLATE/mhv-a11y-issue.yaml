@@ -1,9 +1,9 @@
 name: "MHV Accessibility Issue Ticket"
 description: "Please use this form to report or create an accessibility issue ticket for MHV"
-title: "[MHV[Product] / Accessibility] [Issue description]"
+title: "[MHV [Product] / Accessibility] [Issue description]"
 labels: ["accessibility", "needs-refinement"]
 assignees: ["steveg-IAT", "sarahhortonadhoc"]
-projects: ["department-of-veterans-affairs/1748"]
+projects: ["department-of-veterans-affairs/1898"]
 type: bug
 body:
 - type: markdown
@@ -13,8 +13,7 @@ body:
 - type: markdown
   attributes:
     value: |      
-      > [!TIP]
-      > Title format: [MHV [Product > MR | Meds | SM | Portal] / Accessibility] [Brief Issue description]
+      > [!TIP] Use this format for the issue title: [MHV [Product > Appts | MR | Meds | SM | Portal] / Accessibility] [Brief Issue description]
 
 - type: markdown
   attributes:
@@ -25,52 +24,38 @@ body:
   id: details
   attributes:
     label: 📝 User story
-    description: "Define the user story. Don't forget the 'SO THAT' statement."
-    placeholder: |
-      As a [user role], 
-      I want to [action]       
-      so that [I can achieve my goal]
-      ...
+    description: "Use this format for the user story: As a [user role], I want [an action] so that [a benefit]."    
     
 - type: textarea
   id: problem
   attributes:
     label: 📝 Problem statement
-    description: "Illustrate how the defect affects users. If you have a screenshot or video, add those here and/or to the attachments field after the ticket is created."
-    placeholder: |
-      [Instead of the desired action, this happens...]
-      ...
+    description: "Describe how the defect affects users, e.g., Instead of the desired action, [x] happens."
 
 - type: textarea
   id: evidence
   attributes:
-    label: 🌌 Supporting screenshots or videos
+    label: 🌌 Supporting screenshots, videos, code snippets
     description: "Attach any supporting material. An annotated picture is worth a 1,000 meetings."
-    placeholder: |
-      [Add screenshot or video here]
-      ...
 
 - type: textarea
   id: repro
   attributes:
-    label:  👣 Reproduction steps
-    description: "How do you trigger this issue? Please walk us through it step by step. Include test user and any relevant device, browser, and assistive technology."
-    placeholder: |
-      1. Using [browser] with [assistive technology] as [test user],
-      2. Navigate to... this page
-      3. Navigate to...
-      4. Use component...
-      5. Notice issue...  
-      ...
+    label:  👣 Steps to recreate
+    description: "Describe how to trigger. Include test user and any relevant device, browser, and assistive technology, e.g, 1. Navigate to [page] with [browser, username, AT, etc], 2. Use [method] to access [component, content, etc], 3. Notice [issue].
   validations:
     required: true
 
+- type: markdown
+  attributes:
+    value: |
+      ## Issue Details
+    
 - type: input
   id: contact
   attributes:
     label: 🔗 Point of contact
-    description: The person who wrote or is responsible for this ticket. Usually an a11y specialist.
-    placeholder: "Name (GitHub ID) - Sarah Horton (@sarahhortonadhoc) | Steven Gallagher (@steveg-IAT)"
+    description: "The person/people submitting the ticket with responsibility for actioning the issue."
   validations:
     required: true
 
@@ -78,7 +63,7 @@ body:
   id: severity
   attributes:
     label: ⚠️ Severity level
-    description: "Don't forget to add a corresponding label to this ticket once it's created (a11y-defect-0, a11y-defect-1, etc.)"
+    description: "Use the following user impact guide to determine severity level: 0 - potentially harmful, 1 - prevents task completion, 2 - prevents straightforward task completion, 3 - hinders progress, 4 - noticed, not hindered. Add a corresponding label to the ticket once it's created (a11y-defect-0, a11y-defect-1, etc)."
     options:
       - 0, Launchblocker. Potentially Harmful. Must be fixed immediately.
       - 1, Launchblocker. Critical. Must be fixed before launch.
@@ -89,21 +74,14 @@ body:
 - type: textarea
   id: references
   attributes:
-    label: 🔎 Relevant standards
-    description: "Provide any relevant documentation, VADS component, or other evidence as to why this is an issue or how to fix it. Don't forget to add a corresponding label(s) to this ticket once it's created. (wcag-1.1.1, 508-issue-cognition, etc)."
-    placeholder: |
-      #### Accessibility Standards
-      1. [Understanding WCAG 2.2 (W3C)](https://www.w3.org/WAI/WCAG22/Understanding/)
-      2.
-      #### Experience Standards
-      1. [VA Design System Experience Standards](https://design.va.gov/about/experience-standards/)
-      2.
-      ...
-
-- type: markdown
+    label: 📝 Related issues
+    description: "Link to tickets that are related to this issue."
+    
+- type: textarea
+  id: references
   attributes:
-    value: |
-      ---
+    label: 🔎 Accessibity standards
+    description: "Accessibility standards (e.g., [WCAG](https://www.w3.org/WAI/WCAG22/Understanding/), [ICT Standards and Guidelines](https://www.access-board.gov/ict/)) impacted by the issue. Link to the impacted requirement(s) (e.g., [SC 2.1.1: Keyboard (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/keyboard) and add the corresponding label(s) to the ticket once it's created (e.g., wcag-2.1.1)."
 
 - type: markdown
   attributes:
@@ -114,21 +92,25 @@ body:
   id: solution
   attributes:
     label: 𝌣 Proposed solution or next steps
-    description: "If there is an easy HTML, CSS, or JavaScript markup fix, add it after creating this ticket. If it is a longer fix or you do not have a ready solution, provide next steps."
-    placeholder: |
-      [Do this action to bring the issue into compliance.]
-      ...
-      
+    description: "Describe the proposed solution and, where possible, provide recommended HTML, CSS, or JavaScript code snippets. For more complex issues, provide a list of recommended next steps."
+
+- type: textarea
+  id: resources
+  attributes:
+    label: 🔎 Supporting resources
+    description: "Share links to supporting components, patterns, examples, techniques that support the proposed solution." 
+    
 - type: textarea
   id: acceptance
   attributes:
     label:  ✅ Acceptance criteria
-    description: "What will success look like?"
-    placeholder: |
-      - The system displays...
-      - The system provides...
-      - The user can...
+    description: "Checklist of acceptance criteria describing what will change as a result of addressing the issue, e.g., [ ] The system supports arrow key navigation, [ ] The keyboard user can use arrow keys to navigate menu items."
 
+- type: markdown
+  attributes:
+    value: |
+      ## Next Steps
+      
 - type: checkboxes
   id: tasks
   attributes:
@@ -142,10 +124,8 @@ body:
     
 - type: markdown
   attributes:
-    value: |
-      > [!NOTE]
-      > **QUICK SUMMARY:** _Helpful links to documentation_
-      ### 🔎 Supporting resources:
+    value: 
+      ### 🔎 General resources:
       - USWDS Docs: [USWDS Documentation](https://designsystem.digital.gov/)
       - VADS Docs: [VADS Experience Standards](https://design.va.gov/components/)
       - VADS Docs: [VADS Components Documentation](https://design.va.gov/components/)
