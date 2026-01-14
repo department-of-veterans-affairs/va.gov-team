@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 8 (Jan 13-26, 2026)
 
 ## Sprint 8 Goals
-- [ ] Sprint Goals Approved by Enablement
+- [x] Sprint Goals Approved by Enablement - Jen Bertsch on January 14, 2026 ([Slack conversation](https://dsva.slack.com/archives/C06GE5N7QJ0/p1768429272660239?thread_ts=1768410008.688459&cid=C06GE5N7QJ0)) 
 
 **Team Accreditation**: 
 1. **[ARP MVP clean up] Enable individual acceptance of representation requests**: Develop data models and research all features in ARP that may need updating, design review to understand if any frontend changes will be needed
