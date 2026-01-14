@@ -29,7 +29,7 @@ We will conduct QA testing in the va.gov staging environment, and participate in
 
 ## Release
 - Flip feature flag to on.
-- Staged rollout TBD.
+- Staged rollout 25, 50, 100%
 - Monitoring by development team, product & delivery leads.
 
 ### Metrics-based criteria for staged rollout
