@@ -64,7 +64,7 @@
 
 ---
 
-## 5. VES / 1010D & OGI Ingest
+## 5. VES / 1010D & OHI Ingest
 - VES requested a resend of the original ~1,000 1010D submissions.
 - VES is experiencing issues; Katrina is supporting with focused work.
 - OHI ingest is delayed until 1010D ingest issues are resolved.
@@ -77,7 +77,7 @@
 ## 6. Enhanced Claims Flow (CHAMPVA)
 - Target launch date for enhanced CHAMPVA claims flow: **January 26**.
 - Dependencies:
-  - VA.gov must resolve attachment IDs converting from APDI numbers to CBA penny responses.
+  - VA.gov must resolve attachment IDs for submissions with PDI numbers to be "CVA Bene response".
   - DocMP attachment bundling work is still outstanding.
 - Training question:
   - Cindy was unsure if users have been trained.
@@ -102,7 +102,7 @@
   - Dedicated meeting cadences will be established.
 - Escalation note:
   - **Lamar** remains the OIT escalation contact for Premal.
-  - **Mike Halgren** noted as taking over related responsibilities.
+  - **Mike Halbrook** noted as taking over Project Manager responsibilities on DocMP team.
 
 ---
 
