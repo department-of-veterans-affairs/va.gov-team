@@ -92,7 +92,13 @@ synthesis_tools_used:
   - "Affinity Mapping"
 ---
 
-<br>**This is a template, PLEASE MAKE A COPY**
+> [!TIP]
+> **Complete the frontmatter section above AFTER you've finished and saved your research findings report below.**
+> 
+> Use the [GitHub Copilot Research Findings Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/research-findings-frontmatter-completion-prompt.md) to automatically generate structured metadata from this completed research findings report. The prompt uses natural language processing to extract key findings, participant demographics, recommendations, and apply appropriate research repository tags.
+
+> [!IMPORTANT]
+> **This is a template, <mark>PLEASE MAKE A COPY</mark>** 📑
 
 ---
 
@@ -280,6 +286,15 @@ This research supports measurement of this KPI by....
 ### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+
+> [!IMPORTANT]
+> **After completing the demographic information below and saving this file**, use the [GitHub Copilot Research Findings Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/research-findings-frontmatter-completion-prompt.md) to automatically populate the YAML frontmatter section at the top of this document with: 
+> - Participant demographics (counts, age ranges, education levels, etc.)
+> - Key findings and recommendations
+> - Research goals and methodology
+> - Appropriate research repository tags
+>
+> The prompt will parse the demographic data from this section and structure it correctly for the frontmatter's nested YAML format. 
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
