@@ -2,7 +2,7 @@
 name: Platform Support Incident Tracking
 about: Base template for va.gov Platform Support Tier 1 incident tracking.
 title: '[MM/DD/YYYY] (PII) Incident'
-labels: Platform-Support-Sprint-Work, platform-tech-team-support
+labels: Platform-Support-Sprint-Work, platform-tech-team-support, incident management
 assignees: ''
 
 ---
