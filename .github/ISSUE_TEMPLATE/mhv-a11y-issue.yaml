@@ -43,7 +43,7 @@ body:
   attributes:
     label: 👣 Steps to reproduce the issue
     description: "Describe how to trigger the issue. Include test user and any relevant device, browser, and assistive technology, e.g, 1. Navigate to [page] with [browser, username, AT, etc], 2. Use [method] to access [component, content, etc], 3. Notice [issue]."
-   validations:
+  validations:
     required: true
 
 - type: markdown
@@ -120,11 +120,11 @@ body:
       - label: Update ticket information (title, assignee, labels, project(s), etc.)
       - label: Fix and/or document decisions made.
       - label: Product manager to move ticket in their respective product board to 'QA/A11y Review' after reviewing documented decisions / validating fix.
-      - label: Accessibility specialist will close the ticket after reviewing documented decisions / validating the fix.    
+      - label: Accessibility specialist will close the ticket after reviewing documented decisions / validating the fix.
     
 - type: markdown
   attributes:
-    value: 
+    value: |
       ### 🔎 General resources:
       - USWDS Docs: [USWDS Documentation](https://designsystem.digital.gov/)
       - VADS Docs: [VADS Experience Standards](https://design.va.gov/components/)
