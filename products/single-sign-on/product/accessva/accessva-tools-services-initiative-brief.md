@@ -1,4 +1,4 @@
-# "AccessVA" to "VA services" Initiative Brief 
+# "AccessVA" to "AccessVA tools and services" on VA.gov Initiative Brief 
 ---
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
