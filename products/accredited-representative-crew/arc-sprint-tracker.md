@@ -17,7 +17,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 1. **[ITF] MVP - Development**: Launch-blocking QA findings, Datadog setup, release
 2. **[ITF] MVP - Design**: Update designs and URLs to match development
 11. **[Claimant Details] MVP - Design**: Claimant Details URLs
-12. **[Discovery Research] Understanding how Reps manage the claims cycle across all clients**: Wrap up interviews and begin analysis.
+12. **[Discovery Research] Understanding how Reps manage the claims cycle across all clients**: Wrap up interviews, analyze and draft a report.
 13. **[526ez submission v2] v2 form 526 submission - UX**: Desk review of past UX research related to claims submission.
 14. **[ARP Post-MVP] Cleanup Tasks**: Finish creating the SavedClaims deletion job
 
