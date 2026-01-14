@@ -9,6 +9,7 @@
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 - [ ] EZ Tech discovery on additional form statuses on MyVA
+- [ ] EZ Display submission statuses on MyVA
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
@@ -28,6 +29,7 @@
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - [ ] **SPRINT GOAL** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
 - [ ] **SPRINT GOAL** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on additional EZ form statuses on MyVA
+- [ ] **Stretch** [#130010](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130010) - [FE] Display submission statuses on MyVA
 
 ## 
 ### 10-10CG
