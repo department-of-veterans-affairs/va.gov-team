@@ -57,7 +57,7 @@
 ### 10-10EZR
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] **SPRINT GOAL** [#120278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120278) - [Eng, PM] Launch financials at 25%
+- [x] **SPRINT GOAL** [#120278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120278) - [Eng, PM] Launch financials at 25%
 - [ ] **SPRINT GOAL** [#120279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120279) - [Eng, PM] Launch financials at 50%
 - [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
 
