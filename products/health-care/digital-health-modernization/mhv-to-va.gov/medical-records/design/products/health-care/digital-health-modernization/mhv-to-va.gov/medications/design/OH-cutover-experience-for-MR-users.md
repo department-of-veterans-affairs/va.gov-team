@@ -22,7 +22,7 @@ This describes what the experience with medical records will be like for patient
 ### What will happen on both VA.gov and VAHB
 - T-45: Veterans understand that their facility will be moving to Oracle but their data will continue to show up here.
 - T-0: There may be a lag in records appearing.
-- T+2: We expect all records to be in UI. 
+- T+2: We expect all records to be in UI. There will be duplicate records (until data deduplication efforts are finalized).
 
 ### UX tactics 
 How will we communicate these changes to Veterans? 
