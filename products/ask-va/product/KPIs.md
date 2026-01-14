@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @jacobworrell on September 2, 2025
+Last updated by @StephanieVargoIBM on January 14, 2026
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
@@ -18,22 +18,22 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 - This only includes a few primary CRM endpoints
 - Number in parenthesis represent the total (AKA the denominator for a percentage)
 
-|KPI|May|Jun|Jul|Aug|
-|:--|:--|:--|:--|:--|
-|[Performance] Error rate, Submit inquiry (auth)|0.4% (16850)|0.3% (43517)|0.8% (49123)|.17% (57451)||
-|[Performance] Error rate, Submit inquiry (unauth)|0.9% (248)|⚠️5.1% (574)|⚠️14.5% (556)|10.75% (584)||
-|[Performance] Error rate, Submit reply|0.2% (2462)|0.1% (6827)|0.5% (6870)|.13% (8601)||
-|[Performance] AVG p95 Latency, Submit inquiry (auth)|⚠️6.1s|⚠️5.8s|⚠️8.0s|6.26s||
-|[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.7s| 1.57s||
-|[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|⚠️4.3s|4.35s||
-|[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|49219|57842||
-|[Performance] Throughput, Successful Submit reply calls|2341|6819|4836|8593||
-|[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)||
-|[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|14% (217)||
-|[Form] Completion rate|36%|39%|35%||
-|[Dashboard] Reply rate|21%|23%|20%||
-|[Form] Time to submit form|x|x|x|X|
-|[Dashboard] Time to reply|x|x|x|X|
+|KPI|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|[Performance] Error rate, Submit inquiry (auth)|0.4% (16850)|0.3% (43517)|0.8% (49123)|.17% (57451)|.62% (62841)|.39% (69368)|.83% (52030)|1.31% (52559)|
+|[Performance] Error rate, Submit inquiry (unauth)|0.9% (248)|⚠️5.1% (574)|⚠️14.5% (556)|10.75% (584)|⚠️13.6% (578)|⚠️13.46% (630)|⚠️10.63% (494)|3.14% (500)|
+|[Performance] Error rate, Submit reply|0.2% (2462)|0.1% (6827)|0.5% (6870)|.13% (8601)|0.2% (9029)|.54% (10092)|.48% (9653)|.95% (8173)|
+|[Performance] AVG p95 Latency, Submit inquiry (auth)|⚠️6.1s|⚠️5.8s|⚠️8.0s|6.26s|⚠️5.95s|⚠️6.56s|⚠️8.29s|⚠️9.5s|
+|[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.7s|1.57s|1.59s|1.65s|1.97s|1.9s|
+|[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|⚠️4.3s|4.35s|3.4s|⚠️4.82s|⚠️5.3s|⚠️6.15s|
+|[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|49219|57842|62942|69589|52035|52303|
+|[Performance] Throughput, Successful Submit reply calls|2341|6819|4836|8593|9019|10042|9607|8095|
+|[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)||||||
+|[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|14% (217)||||||
+|[Form] Completion rate|36%|39%|35%|||||
+|[Dashboard] Reply rate|21%|23%|20%|||||
+|[Form] Time to submit form|x|x|x|X|||||
+|[Dashboard] Time to reply|x|x|x|X|||||
 
 ## User experience KPIs
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
@@ -65,7 +65,7 @@ These are secondary metrics we can track
 - Disaggregate by device, demographics, other filters, etc.
 
 ## Performance KPIs
-Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing workloads.
+Performance KPIs measure the technical aspects of Ask VA, such as speed, reliability, and scalability. They help assess how efficiently the software functions and whether it can handle increasing work[...]
 
 The OCTO error rate target is less than 1% and for latency is less than 4s.
 
@@ -83,7 +83,7 @@ These are secondary metrics we can track
 - Non-CRM API error rates: API owners have their own dashboards we can monitor
 
 ## Business lines
-The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). 
+The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pb[...]
 
 This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
 
@@ -92,7 +92,7 @@ This section explains how we calculate each KPI.
 
 ### User experience KPIs
 - **Satisfaction (intercept and feedback button)**:((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
-- **[Form] Completion rate**: Count of successful Submit inquiry (auth + unauth) calls `divided by` Count of total users who visited /contact-us/ask-va/introduction & /contact-us/ask-va/ `multiplied by` 100
+- **[Form] Completion rate**: Count of successful Submit inquiry (auth + unauth) calls `divided by` Count of total users who visited /contact-us/ask-va/introduction & /contact-us/ask-va/ `multiplied b[...]
 - **[Dashboard] Reply rate**: Count of successful Reply calls `divided by` Count of total users who visited /contact-us/ask-va/user/dashboard/[inquiry number] `multiplied by` 100
 
 ### Performance KPIs
@@ -102,13 +102,13 @@ This section explains how we calculate each KPI.
    - Filter: `payload.action` unauth_create
  - **Error Rate: Error rate, Reply**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
    - Filter: `payload.action` is create_reply
-- **AVG p95 Latency, Submit inquiry (auth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
-- **AVG p95 Latency, Submit inquiry (unauth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
-- **AVG p95 Latency, Submit reply**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
+- **AVG p95 Latency, Submit inquiry (auth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refres[...]
+- **AVG p95 Latency, Submit inquiry (unauth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refr[...]
+- **AVG p95 Latency, Submit reply**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=pa[...]
 - **Throughput, Successful Submit inquiry (auth + unauth) calls**: Count of 2xx requests
    - Filter: `payload.action` is unauth_create OR create
 
 **Data sources**
 - [GA4 exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/hQrn2ZlVRFGs0p-tT9Mgwg)
-- [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753209203948&live=false)
+- [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753209203948&live=[...]
 - Medallia/VSignals feedback (DM Becky for access)
