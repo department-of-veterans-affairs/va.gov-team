@@ -1,7 +1,7 @@
 ---
 title: "Research Plan for 686c Fully Digital Form Viewer MVP Usability Testing"
 date: 2025-11-06
-last_updated: 2025-11-06
+last_updated: 2025-01-14
 team: "Disability Product — 526ez"
 product: "686c MVP Form Viewer (Form Viewer for Structured Submissions)"
 product_area: "authenticated"
@@ -265,6 +265,12 @@ _"Form output" is the generic term we'll be using in this document. For Veteran'
 * When asked how they would access the copy of submission, most will probably agree that accessing it via the confirmation page is appropriate. Some will probably allude to accessing it from their authenticated account (MyVA) if accessed at a time beside immediately post-submission.
 * A few Veterans will probably desire the ability to edit their responses from the form viewer, which is an interaction that is not feasible since the submission is already complete.
 * [If comprehensive form with blanks are presented] Some Veterans may be confused when presented with sections and questions that are not related to what they filled out themselves online.
+* Most VSRs desire a smaller text size so that more content is visible on the screen.
+* VSRs will appreciate that extraneous content (instructional) have been removed, which reduces cognitive load.
+* Some VSRs will appreciate that they are provided the same content that the Veteran saw.
+* Some VSRs will appreciate that the content that would originally be written in the "Remarks" section within the paper/ PDF form is now positioned beside contextually related content. This reduces back-and-forth navigation between sections.
+*  Some, if not most VSRs may voice concerns with the adoption process of using the proposed concept, as it's a divergence from their usual processes that many are familiar with.
+*  A few VSRs may voice concerns with the lack of consistent, static elements that may help with way-finding (e.g., the spouse's name is always at the top left of page 5).
 
   
 ## Methodology  🛠️
