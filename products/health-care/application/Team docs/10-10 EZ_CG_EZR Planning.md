@@ -5,18 +5,17 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Service history FE schema update
+- [ ] EZR Service History add checkbox page
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 - [ ] EZ Tech discovery on additional form statuses on MyVA
-
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **SPRINT GOAL** [#125472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/125472) - [FE] Update FE Schema (refer to EZ)
+- [ ] **SPRINT GOAL** [#121743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121743) - [FE] Add Service History checkbox page
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121080](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121080) - [UX] Update EZR SOT for Household sections
