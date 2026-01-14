@@ -65,7 +65,40 @@ This document summarizes findings about how health record data is filtered in th
 - [Example lab/test adapter in vets-api](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/unified_health_data/adapters/lab_or_test_adapter.rb)
 - [VistA documentation – laboratory result workflow](https://www.va.gov/vdl/documents/Clinical/CPRS-Chart/)
 
+
+## FHIR Standard: Signature Field Support by Health Record Domain
+
+### Does the FHIR standard for each health record domain include a signature field?
+
+| FHIR Resource / Domain         | Native Signature Field? | How Responsibility/Sign-off is Indicated              | Digital Signature Support via Extension?                       | Notes                                                                                                              |
+|-------------------------------|:-----------------------:|------------------------------------------------------|:--------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------|
+| `DiagnosticReport` <br> (Labs, Tests, Imaging)        | No                    | `resultsInterpreter`, `performer`                     | Yes (e.g., [`Provenance.signature`](https://hl7.org/fhir/provenance.html)) or [Signature extension](https://hl7.org/fhir/extension-signature.html) | Status "final" means complete and released; digital signature possible with extensions but not standard.            |
+| `Observation` <br> (Vitals, Results, Metrics)         | No                    | `performer`                                           | Yes                                                           | No standard field for signature; signer may be in `performer`; digital signature via Provenance/extension optional. |
+| `AllergyIntolerance`                                  | No                    | `recorder`, `asserter`                                | Yes                                                           | Responsibility indicated via provider/person recorded, not cryptographic signature.                                 |
+| `DocumentReference` <br> (Clinical Notes, Image Reports) | No (core)             | `author`, `attester`                                  | Yes                                                           | Can embed signed documents (e.g., PDF) in `content.attachment`; sign-off via extension or Provenance if present.    |
+| `Immunization` <br> (Vaccines)                        | No                    | `performer`                                           | Yes                                                           | No signature field; provider in `performer`.                                                                        |
+| `Condition` <br> (Problems/Diagnoses)                 | No                    | `asserter`                                            | Yes                                                           | No signature; person responsible is named.                                                                          |
+| `MedicationRequest`, `MedicationStatement` <br> (Prescriptions) | No            | `recorder`, `requester`, `informationSource`          | Yes                                                           | No standard signature; prescriber field available; digital signature with extension possible.                       |
+
+**Key Points:**
+- **No major clinical resource in “core” FHIR includes a built-in cryptographic signature field.**
+- **Sign-off/responsibility** is modeled via participant references (`performer`, `recorder`, `author`, etc.), not by signature.
+- **Digital signatures** can be attached using the [`Signature`](https://hl7.org/fhir/datatypes.html#Signature) type or extensions, or in supporting resources like [`Provenance`](https://hl7.org/fhir/provenance.html). This is not commonly implemented in VA data integrations.
+- **"final" status** is used as a proxy for release/review, but does not mean a digital signature is present.
+
+**References:**
+- [FHIR Signature DataType](https://hl7.org/fhir/datatypes.html#Signature)
+- [FHIR Provenance Resource](https://hl7.org/fhir/provenance.html)
+- [FHIR Extension: Signature](https://hl7.org/fhir/extension-signature.html)
+- [FHIR DiagnosticReport](https://hl7.org/fhir/diagnosticreport.html)
+- [FHIR DocumentReference](https://hl7.org/fhir/documentreference.html)
+- [FHIR Observation](https://hl7.org/fhir/observation.html)
+- [FHIR AllergyIntolerance](https://hl7.org/fhir/allergyintolerance.html)
+- [FHIR Condition](https://hl7.org/fhir/condition.html)
+- [FHIR MedicationRequest](https://hl7.org/fhir/medicationrequest.html)
+
 ---
+
 
 *Prepared by: Marci McGuire, 2026-01-14*
 
