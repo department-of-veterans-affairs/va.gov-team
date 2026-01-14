@@ -5,16 +5,18 @@
 - What products does it affect? (optional, if applicable)
 - Link to the conversation (GitHub, Slack, other)
 
+---
 
 ## My VA
-#### 07/08/2025 Naming convention for form and application cards for cards that are not in SiP
-- Content team approved using the form number as a title in the Forms and applications cards when no name is available from SiP. This is to support efforts with allowing uploaded forms onto My VA.
-- [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1751978322068579)
-
 #### 11/07/2025, Direction on the List item component for Notifications
 - Platform team verfied that using "Shift + return" to create two lines of text in the simple content version of the List item component instead of two seperape text box comomponents. 
 - [Link to the conversation](https://dsva.slack.com/archives/C01DBGX4P45/p1762530150287459)
 
+#### 07/08/2025 Naming convention for form and application cards for cards that are not in SiP
+- Content team approved using the form number as a title in the Forms and applications cards when no name is available from SiP. This is to support efforts with allowing uploaded forms onto My VA.
+- [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1751978322068579)
+
+---
 
 ## Profile
 ### All profile
@@ -40,6 +42,8 @@
 #### 01/14/2026 VSC alert updates
 - Mobile team is updating VSC alerts to direct to the VA call center. Determined Service history information will not be changing to match at this time.
 - [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1767895127894269)
+
+---
 
 ## Shared projects
 ### Email verification
