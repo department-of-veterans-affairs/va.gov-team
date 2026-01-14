@@ -151,16 +151,17 @@ TBD
 
 - [ ] Sprint Delivery Approved by Enablement
 
-Planned Tickets Completed in Sprint 7: 19 tickets, 61 points + 2 spikes\
-Stretch Goal Tickets Comleted in Sprint 7: 12 tickets, 27 points + 1 spike\
-Total Completed in Sprint 7: 31 tickets, 88 points + 3 spikes
-
-Crew Velocity: 88 points / 9 days = 9.7 points / day
-
-Crew Count in Sprint 7: 13 active teammates (not including Principal Leads)\
-Average Teammate Velocity: 88 points / 15 teammates = 6.8 points / teammate
+Total Completed in Sprint 7: 31 tickets, 88 points + 3 spikes\
+Planned Tickets Completed: 19 tickets, 61 points + 2 spikes\
+Stretch Goal Tickets Comleted: 12 tickets, 27 points + 1 spike
 
 Carrying into Sprint 8: 6 tickets, 22 points
+
+Crew Velocity: 88 points / 9 days = 9.7 points / day\
+Crew Count in Sprint 7: 13 active teammates (not including Principal Leads)\
+Average Teammate Velocity: 88 points / 15 teammates = 6.8 points / teammate (not including Principal Leads)
+
+
 
 
 ## Sprint 7 Tickets
