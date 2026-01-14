@@ -85,7 +85,7 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a surviving spouse/child of a Veteran. Is that right?  
-   1. Thanks for confirming that.  
+    - Thanks for confirming that.  
 2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
     - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.
 3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
