@@ -13,8 +13,8 @@ body:
 - type: markdown
   attributes:
     value: |      
-    > [!TIP]
-    > Use this format for the issue title: [MHV [Product > Appts | MR | Meds | SM | Portal] / Accessibility] [Brief Issue description]
+      > [!TIP]
+      > Use this format for the issue title: [MHV [Product > Appts | MR | Meds | SM | Portal] / Accessibility] [Brief Issue description]
 
 - type: markdown
   attributes:
