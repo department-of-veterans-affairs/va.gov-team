@@ -307,12 +307,12 @@ Ask Perigean to recruit 15 surviving spouses or children of a Veteran who meet t
 > **Send pilot participant email in study Slack channel**
 
 **Pilot 1**
-- `Pilot participant name:` TBD
-- `Date and time of pilot session:` 01/14-01/22
+- `Pilot participant name:` Karissa Pesicka 
+- `Date and time of pilot session:` 01/16, 12:00 PM ET
 
 **Pilot 2 (with AT user)**
-- `Pilot participant name:` TBD
-- `Date and time of pilot session:` 01/14-01/22
+- `Pilot participant name:` Jamie Klenetsky
+- `Date and time of pilot session:` 01/16, 10:00 AM ET
 
 ### Research sessions
 - `Planned dates of research:` 01/26-02/04 (8 business days)
@@ -354,4 +354,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 ## Approvals ✅
 - `Reviewed by Eric Henne, Lead Program Analyst, Pension and Fiduciary Service on 01-07-2026`
 - `Reviewed by Christopher Scott Bell, Program Analyst, Office of Survivors Assistance on 01-07-2026`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on 01-12-2026`
