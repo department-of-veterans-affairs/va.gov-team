@@ -22,7 +22,7 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
 - Test behavior of automatic COEs, test behavior for manual COE.
 
-  - We don’t have test users for manual request and approval. I believe we would need help from Nick Fisseler to do that.
+  - We tested on web and mobile and they both surface as expected - COEs are visible regardless if it is automatic or not.
 
 - What about a person who has a valid COE, then another one which is closed, does it show the valid one?
 
