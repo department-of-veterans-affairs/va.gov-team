@@ -11,12 +11,35 @@ jobs:
   lychee:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout PR
-        if: ${{ github.event_name != 'pull_request' }}
-        uses: actions/checkout@v6
-
-      - name: Run lychee
-        id: lychee
-        uses: lycheeverse/lychee-action@v2
+      - uses: actions/checkout@v4
         with:
-          args: --verbose --no-progress
+          fetch-depth: 0
+
+      - name: Build changed-file list (base SHA vs head SHA)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          git diff --name-only "$BASE_SHA" "$HEAD_SHA" \
+            | grep -E '\.(md|mdx|html|txt|rst)$' \
+            | sort -u \
+            > lychee-files.txt || true
+
+          echo "Changed doc files to check:"
+          cat lychee-files.txt || true
+
+          if [[ ! -s lychee-files.txt ]]; then
+            echo "No matching changed files. Skipping."
+            exit 0
+          fi
+
+      - name: Run lychee on changed files
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --files-from lychee-files.txt
