@@ -1,13 +1,13 @@
 HEADLINE
 
-# DBC-Pathways Form Inhearitence Discovery
+# DBC-Pathways Form Inheritance Discovery
 
 ## VA Form 21-0972 (Alternate Signer Certification)
 
  
 
 Team: DBC-Pathways  
-Ticket: Inhearitence Discovery 
+Ticket: Inheritance Discovery 
 
 ### **Parent Super Epic:** 
 
