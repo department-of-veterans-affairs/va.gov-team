@@ -24,7 +24,6 @@ This describes how patients at the transitioning sites will experience messaging
 We'll display these alerts to users.
 - Before transition: "You can't send/reply to messages during this upcoming period of time"
 - During transition: "You can't send/reply to messages right now until [date]"
-- After transition: "You can send/reply to messages now"
 
 ### Functionality during transition
 Here's what users will and won't be able to do during the transition: 
