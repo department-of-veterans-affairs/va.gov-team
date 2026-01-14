@@ -1,0 +1,21 @@
+name: Mark stale Platform Support Requests
+
+on:
+  schedule:
+  - cron: '30 * * * *'
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/stale@v5
+      with:
+        repo-token: ${{ secrets.BOT_GITHUB_TOKEN }}
+        days-before-stale: 1
+        stale-issue-label: 'Action Required'
+        only-labels: 'Platform-Support-Ticket'
