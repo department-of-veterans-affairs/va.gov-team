@@ -30,13 +30,11 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
 - Mobile - what is the logic for the COE to show up in the letters list?
 
-  - Does it only show for users who come back as ELIGIBLE? What about the other determination statuses?
-
-- Mobile - if a user has never had a COE, what do they see? 
+  - It only shows up for users who come back as ELIGIBLE? If they come back as somemthing else, it doesn't show up at all.
 
 - Mobile - what is the logic for the COE to actually display if it is selected in the letters list?
 
-  - Does it only show automatic COEs? What shows if it’s a non-automatic COE?
+  - Same as web - if there is an application, it is not an automatic COE and still displays. If there isn'at an application, it is an automatic COE and it displays with the automatic COE alert above it.
 
 ## [LGY Swagger Documentation](https://services.lgy.va.gov/eligibility-manager/swagger-ui/index.html?configUrl=/eligibility-manager/v3/api-docs/swagger-config)
 
