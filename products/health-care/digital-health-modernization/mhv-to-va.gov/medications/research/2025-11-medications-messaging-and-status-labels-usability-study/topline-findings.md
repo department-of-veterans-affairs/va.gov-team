@@ -166,7 +166,6 @@ While participants generally understood what each prescription status meant, **s
 - **3 participants (P6, P8, P10)** explicitly described the status labels as familiar or unchanged  
 - **P6 identified the “Active–non VA” status as unfamiliar**, noting that this label does not usually appear on their medications list; other status labels felt familiar  
 
-> *“I can’t imagine them changing this.”* (P8)  
 > *“They’re the same thing… just a different way of putting it.”* (P10)
 
 ---
