@@ -1,4 +1,4 @@
-name: "MHV Accessibility Issue Ticket"
+laname: "MHV Accessibility Issue Ticket"
 description: "Please use this form to report or create an accessibility issue ticket for MHV"
 title: "[MHV [Product] / Accessibility] [Issue description]"
 labels: ["accessibility", "needs-refinement"]
@@ -72,7 +72,7 @@ body:
       - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
 
 - type: textarea
-  id: references
+  id: related
   attributes:
     label: 📝 Related issues
     description: "Link to tickets that are related to this issue."
