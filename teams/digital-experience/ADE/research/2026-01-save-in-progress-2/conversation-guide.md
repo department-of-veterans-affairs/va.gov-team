@@ -216,8 +216,6 @@ Please talk aloud with any thoughts, reactions, or questions you have. And tell 
 
 [**Start your request**]
 
-[When they get to the form:] Please stop here so I can give you the next instruction.
-
 ## Task 3: Fill out form 
 *[never reload the page; use **Back** button in browser if ever see a spinning cursor]*
 
@@ -263,6 +261,8 @@ OK, now let's say that you're back from eating. Please resume filling out the fo
   - Sign in --> My VA --> form card --> Continue your request
   - Search/nav to unauth form intro (click on Umbrella) --> Sign in --> auth form intro --> Continue your request
   - [If they say “Umbrella”] How would you do this with the real VA.gov web page if we weren’t in this session together?
+  - [If don’t know what to do, give hint:] You need to sign in.
+
 
 [If p sees UNAUTH form intro page after clicking Umbrella] Could you please click Umbrella again?
 
