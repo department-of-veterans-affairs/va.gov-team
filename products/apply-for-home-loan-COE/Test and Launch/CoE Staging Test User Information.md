@@ -11,6 +11,8 @@
 | vets.gov.user+258@gmail.com   | 152SsNrLgPv5 | 1012851504V621829 | 1023820672 | Someone who is ELIGIBLE and has an application (aka, non-automatic COE). Has no attached documents/letters. 
 | vets.gov.user+141@gmail.com   | 393SsNrLgPv5 | 1013112726V768481 | 1015781374 | Someone who is PENDING and their application status is RETURNED and has attached documents/letters
 | vets.gov.user+192@gmail.com   | 157SsNrLgPv5 | 1012845059V795233 | 1014019258 | Someone who is PENDING and their application status is RETURNED and has no attached documents/letters
+|    |  |  |  | Someone who is PENDING and their application status is SUBMITTED and has attached documents/letters
+|   |  | | | Someone who is PENDING and their application status is SUBMITTED and has no attached documents/letters
 | vets.gov.user+111@gmail.com   | 211SsNrLgPv5 | 1012845647V175093 | 1322564410 | Someone who is NOT ELIGIBLE and has no attached documents/letters.
 | vets.gov.user+24@gmail.com    | 168SsNrLgPv5 | 1012833459V456494 | 1005649761 | Someone who is NOT ELIGIBLE and has attached documents/letters.
 | vets.gov.user+125@gmail.com   | 116SsNrLgPv5 | 1012830031V654442 | 1005151291 | Someone who is UNABLE TO DETERMMINE AUTOMATICALLY
