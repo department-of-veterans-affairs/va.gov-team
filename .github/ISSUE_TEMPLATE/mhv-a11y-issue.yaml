@@ -134,8 +134,8 @@ body:
             decisions / validating the fix.
   - type: markdown
     attributes:
-      value: >
-        ### 🔎 General resources:
+      value: |
+        ### 🔎 General resources
         - USWDS Docs: [USWDS Documentation](https://designsystem.digital.gov/)
         - VADS Docs: [VADS Experience Standards](https://design.va.gov/components/)
         - VADS Docs: [VADS Components Documentation](https://design.va.gov/components/)
