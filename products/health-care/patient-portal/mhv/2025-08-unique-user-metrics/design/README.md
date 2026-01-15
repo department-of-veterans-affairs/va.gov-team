@@ -576,3 +576,81 @@ Two brief options were considered for using S3 to reduce database size. Both hav
 - **Option B — Store everything in S3 (per-event objects or batch files)**: S3 can hold the data cheaply, but it does not provide low-latency indexed existence checks or simple deduplication. Per-event PUTs are slow and costly at scale; batch-file writes are efficient but require an external index for deduplication and queryability (e.g., DynamoDB or a separate database), which reintroduces the complexity we were trying to remove.
 
 Both approaches move complexity elsewhere and make the "was this event ever recorded" query either slow or dependent on additional systems.
+
+---
+
+## Re-architecture: API Simplification (January 2026)
+
+### Background
+
+We want to simplify certain aspects of this code as described below.
+
+### Changes
+
+#### 1. Simplified Return Values
+
+**Before:**
+```ruby
+# Returns detailed hash for each event
+UniqueUserEvents.log_event(user:, event_name:)
+# => [{ event_name: 'rx_accessed', status: 'buffered', new_event: nil }]
+
+# When disabled
+# => [{ event_name: 'rx_accessed', status: 'disabled', new_event: false }]
+```
+
+**After:**
+```ruby
+# Returns simple array of buffered event names
+UniqueUserEvents.log_event(user:, event_name:)
+# => ['rx_accessed', 'rx_accessed_oh_757']
+
+# When disabled
+# => []
+```
+
+**Rationale:**
+- Does not affect any current callers
+- Eliminates `Service.build_*_result` methods
+- Simpler interface for future callers
+
+#### 2. Batch Redis LPUSH
+
+The `Buffer.push_batch` method pushes all events in a single Redis call, reducing round-trips from N to 1.
+
+### Updated API Interface
+Only the return values are changed.
+
+```ruby
+module UniqueUserEvents
+  # Log a single event (delegates to log_events)
+  # @return [Array<String>] Event names buffered (empty if disabled)
+  def self.log_event(user:, event_name:)
+  
+  # Log multiple events in a single Redis call
+  # @return [Array<String>] Event names buffered (empty if disabled)
+  def self.log_events(user:, event_names:)
+  
+  # Check if event exists (unchanged)
+  # @return [Boolean]
+  def self.event_logged?(user:, event_name:)
+end
+```
+
+### Migration Notes
+
+**Breaking change for `UniqueUserMetricsController`:**
+
+The controller uses the return value to determine HTTP status code. Update required:
+
+```ruby
+# Before
+results = event_names.flat_map { |name| UniqueUserEvents.log_event(...) }
+new_events_count = results.count { |r| r[:new_event] }
+
+# After
+buffered_events = event_names.flat_map { |name| UniqueUserEvents.log_event(...) }
+# Can't determine new_event status until batch processing completes
+# Return 202 Accepted with buffered event names
+render json: { buffered_events: }, status: :accepted
+```
