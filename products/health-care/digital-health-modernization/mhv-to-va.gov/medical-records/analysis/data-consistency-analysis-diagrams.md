@@ -410,3 +410,39 @@ These diagrams should help identify where to focus your consistency analysis eff
 3. Create a test matrix covering all platform/format combinations
 4. Establish monitoring for data consistency across platforms
 5. Define acceptable variance thresholds for non-critical differences
+
+-------------
+
+Prompt:
+The purpose of this analysis is to identify and flag any inconsistences that would impact data presented in three different formats on four different platforms, based on the data sources, backend, middleware, and user interface layers, and variations in transformations and business rules applied in any of those layers to clearly identify discrepancies in the final user-facing outputs.
+
+For the purposes of this analysis, here are some definitions:
+
+There are four platforms that will be part of this analysis:
+- My Healthevet Classic, which includes URLs starting with myhealth.va.gov
+- My HealtheVet on VA.gov, which includes URLs starting with va.gov/my-health
+- VA Health and Benefits mobile application for iOS
+- VA Health and Benefits mobile application for Android
+
+There are three native data sources:
+- VistA for VA facilities that have not transitioned to Oracle, and potentially for historical VistA data for facilities that have.
+- Oracle Millennium for facilities that have transitioned to Oracle
+- CVIX for imaging data
+
+There are also different formats in which data can be presented to end users:
+- In the user interface on My HealtheVet Classic
+- In the user interface on My HealtheVet on VA.gov
+- In a Blue Button report on My HealtheVet Classic
+- In a Blue Button report on My HealtheVet on VA.gov
+- In a CCD/VA Health Summary on My HealtheVet Classic
+- In a VistA-derived CCD on My HealtheVet on VA.gov
+- In an Oracle-derived CCD on My HealtheVet on VA.gov
+- In a self-entered data file on My HealtheVet on VA.gov
+- In an image download file on My HealtheVet Classic
+- In an image download file on My HealtheVet on VA.gov
+
+There are also four "generations" of backends 
+- 1st Gen used the PHR API on My HealtheVet Classic
+- 2nd Gen used a FHIR-compatible version of the PHR API
+- 3rd Gen (referred to as V1 in code and repo) used a Spring Cloud Data Flow (SCDF) backend that got VistA data though Lighthouse Patient Health API (FHIR)
+- 4th Gen (referred to as V2 in code and repo) uses a Spring Cloud Data Flow (SCDF) backend that gets VistA data from HDR/VPR
