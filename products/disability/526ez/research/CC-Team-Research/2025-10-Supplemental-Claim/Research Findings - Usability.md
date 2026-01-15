@@ -1,108 +1,95 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "[2025-10 Supplemental Claims Design Directions] Research Findings - Usability"
+product: "Online Form 526 (Disability Claim) - Conditions Section, Supplemental Claims Flow"
+team: "Conditions Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2026-01-15"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Clara Fritz"
+  - "Kim Ladin"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Identify which design direction best supports Veterans in filing Supplemental Claims within Form 526."
+  - "Gather feedback on Platform-recommended changes and differentiation of secondary conditions in the flow."
+  - "Explore differentiating secondary conditions on the main ‘Add a condition’ screen."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Semi-structured, exploratory interviews and task-based usability testing comparing two prototypes."
 devices_used:
-    desktop: X
-    tablet: X
-    smartphone: X
-    assistive_technology: X
-participants_total: X
+    desktop: 7
+    tablet: 2
+    smartphone: 1
+    assistive_technology: 0
+participants_total: 10
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
+  veterans: 10
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 2
+    "35-44": 0
+    "45-54": 2
+    "55-64": 1
+    "65+": 5
+    unknown: 0
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 5
+    some_college: 0
+    associates: 2
+    bachelors: 2
+    masters: 1
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 7
+    rural: 3
+    unknown: 0
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 5
+    black: 4
+    hispanic: 0
+    biracial: 1
+    asian: 0
+    native: 0
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
+  - "Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple."
+  - "It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim."
+  - "Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to."
+  - "Most participants were able to add a new condition on both versions of the ‘Add a condition’ screen, but a few struggled."
+  - "Users were successful in adding secondary conditions, although they don’t know VA terminology."
   # etc.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
-kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
-outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
-opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "Implement Prototype Banana’s ‘Add a condition’ screen once the decision to support Supplemental Claims in the 526 form is finalized."
+  - "Assume a Claim for Increase for rated conditions (vs a Supplemental Claim) to remove decision burden for users."
+  - "Provide decision support to help Veterans understand the differences between a Claim for Increase and a Supplemental Claim."
+  - "Make room for users to provide context and justification right after adding a condition."
+  - "Make it clear and explicit that Veterans will be asked for evidence at a specific point later in the form."
+  - "List conditions in alphabetical order on the ‘Add a condition’ screen."
+  - "Explore asking Veterans to indicate whether their Supplemental Claim is based on new evidence or a change in law."
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "The ease with which a Veteran can add a new condition on the ‘Add a condition’ screen that features tiled radio buttons, subheaders, list order method, and/or a combination of these UI adjustments."
+  - "How Veterans respond to and interpret intent-oriented content changes to the screens regarding Supplemental Claims and Claims for Increase."
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
-secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "While we recruited for Veterans with other than honorable discharge, and had sessions scheduled with them, both either cancelled beforehand or were a no show."
+  - "Additionally, because we tested in Figma we were not able to test with AT users."
 synthesis_tools_used:
-  - "Mural"
-  - "Affinity Mapping"
+  - "[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1763754263362/8090932e8c64bf7b1ce609df56a7f1ab1170e1ed): post-session debrief notes with observers, screen-specific feedback mapping, task-specific success/failure tracking, affinity mapping, analysis and synthesis, mental model mind maps"
+  - "[Spreadsheet](https://docs.google.com/spreadsheets/d/1Wo8TDMxRVE3M7Wtc_HWiL0rsD8-S3EbLbRYAxNKONt0/edit?gid=1109817157#gid=1109817157): timestampled notes collection during sessions "
 ---
 
-> [!TIP]
-> **Complete the frontmatter section above AFTER you've finished and saved your research findings report below.**
-> 
-> Use the [GitHub Copilot Research Findings Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/research-findings-frontmatter-completion-prompt.md) to automatically generate structured metadata from this completed research findings report. The prompt uses natural language processing to extract key findings, participant demographics, recommendations, and apply appropriate research repository tags.
 
-> [!IMPORTANT]
-> **This is a template, <mark>PLEASE MAKE A COPY</mark>** 📑
-
----
-
-# [Study] Research Findings 
+# [2025-10 Supplemental Claims Design Directions] Research Findings - Usability 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
