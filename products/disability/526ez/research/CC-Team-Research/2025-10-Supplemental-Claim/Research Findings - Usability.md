@@ -324,15 +324,28 @@ In 2025, new conditions typically represented 82-86% of all conditions submitted
 ### Finding 5: Users were successful in adding secondary conditions, although they don’t know VA terminology.
 Due to time constraints, we were only able to ask 4 of the 10 participants about secondary conditions, but all 4 correctly guessed that they’d claim a secondary condition by selecting ‘A condition I haven’t claimed before’ from the ‘Add a condition’ screen. 
 
+[IMAGE - FORTHCOMING]
+
 All 4 expressed familiarity with the concept, but weren’t sure how the VA referred to it (except for an adviser). We introduced the concept by describing a situation in which a secondary condition was present, and asked the participants if they knew what this might be called and if they were familiar with that scenario.
   - _“Yes! I’ve heard of it and I’m sure I’m experiencing it.” **(P4)**_ (When asked if they might know how VA refers to this situation, they said _“No.”_)
   - _“Oh, like a secondary?” **(P12, adviser)**_
 
+
 ---
 
+
 ## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+
+### 1. The “Cancel adding this condition” button draws negative attention
+The “Cancel adding this condition” button is the first button that appears on every screen in the Conditions loop right after the primary information entry. Several participants paused on this button as they were looking to move to the next screen. Two participants reacted negatively to its prominence, interpreting it as the VA’s way of discouraging them from claiming the condition.
+  - _“They really want you to cancel adding this condition because it’s really highlighted - they’re fishing!” **(P7)**_
+  - _“I would hit continue because I don’t want to cancel - I want more money, thank you!” **(P8)**_
+
+The prominence of the “Cancel…” button also made the Review screen more confusing. When Veterans saw the ‘Delete’ button on each condition card on the Review screen, it seemed redundant but inconsistent with the previous ‘Cancel…’ button. 
+  - _“Edit or delete? I don’t understand … Why delete if it gave me the opportunity to cancel on the previous screen?” **(P8)**_
+
+[IMAGE - FORTHCOMING - "Sequential screens featuring large ‘Cancel’ buttons and red all-caps ‘Delete’ buttons are perceived as discouraging to some Veterans."]
+
 
 
 ## Recommendations
