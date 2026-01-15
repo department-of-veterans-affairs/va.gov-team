@@ -200,7 +200,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
 4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
-5. [Users were successful in adding secondary conditions, although they don’t know VA terminology.](#user-content-users-were-successful-in-adding-secondary-conditions-althrough-they-dont-know-va-terminology)
+5. [Users were successful in adding secondary conditions, although they don’t know VA terminology.](#user-content-users-were-successful-in-adding-secondary-conditions-althrough-they-don't-know-va-terminology)
 
 
 ## Details of Findings 
