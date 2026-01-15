@@ -200,7 +200,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
 4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
-5. Users were successful in adding secondary conditions, although they don’t know VA terminology.
+5. [Users were successful in adding secondary conditions, although they don’t know VA terminology.](#user-content-users-were-successful-in-adding-secondary-conditions-althrough-they-dont-know-va-terminology)
 
 
 ## Details of Findings 
@@ -288,7 +288,7 @@ Although one information screen mentions they’ll be able to upload evidence in
 #### Telling their story
 Veterans expect more than the ability to upload evidence—they also want to provide context and justify their request. As a result, participants found a selection-only flow insufficient. Many expressed surprise and confusion when they were not given an opportunity to add details about their conditions, describing the experience as incomplete. Notably, even without being prompted, 6 of the 10 participants volunteered that they expected to be able to add more detail.
   - _“I’m expecting the next screen to be something where I could add a reason, maybe some documents, for wanting that increase.” **(P1)**_
-  - _“The next screen will probably ask me … why I’m filing for asthma. I’m hoping it comes up with something for me to say why.” **(P6)**_
+  - _“The next screen will probably ask me … why I’m filing for asthma. I’m hoping it comes up with something for me to say why.” **(P6, Adviser)**_
   - _“Wouldn't they want some sort of explanation for why I want my hypertension reviewed? Are they just going to do that by looking at my medical records without any input from me?!” **(P8)**_
 
 Some Veterans also wanted to indicate the basis for their Supplemental Claim. Participant 13, for example, looked for a radio button on the Supplementary Claim info screen. When that didn’t show up and she landed on the Review your conditions screen, she wanted to click “Edit” to make the selection.
@@ -328,7 +328,7 @@ Due to time constraints, we were only able to ask 4 of the 10 participants about
 
 All 4 expressed familiarity with the concept, but weren’t sure how the VA referred to it (except for an adviser). We introduced the concept by describing a situation in which a secondary condition was present, and asked the participants if they knew what this might be called and if they were familiar with that scenario.
   - _“Yes! I’ve heard of it and I’m sure I’m experiencing it.” **(P4)**_ (When asked if they might know how VA refers to this situation, they said _“No.”_)
-  - _“Oh, like a secondary?” **(P12, adviser)**_
+  - _“Oh, like a secondary?” **(P12, Adviser)**_
 
 
 ---
