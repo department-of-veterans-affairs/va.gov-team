@@ -64,7 +64,7 @@ Move Sort below Results description.
 - Decision date: 01-15-2026, Slack Discussion (Derek, Jeana, Sarah Horton, Shawn Collins)
 
 ### Context
-Current results description mentions the sort which is redundant. It is also awkward to mention that results are being sorted in a particular way before the sort controls are shown (in the reading order). 
+Current results description mentions the sort which is redundant (the component will announce sort state). It is also awkward to mention that results are being sorted in a particular way before the sort controls are shown (in the reading order). 
 
 ### Decision
 Remove mention of Sort in the results description.
