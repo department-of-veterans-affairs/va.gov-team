@@ -47,3 +47,9 @@ Here's what users will and won't be able to do during the transition:
 - Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
 - Idea: Surface modal when user tries to edit values
 - Idea: Adding some indication on list page (a tag?) that draft is read-only right now
+
+**Care team names on pre-cutover messages**
+- All the old messages will maintain the same name. Further replies or new messages to the transitioning care teams will have the new name.
+
+**Recent recipients names**
+- (Needs confirmation) For users with messages only from OH transitioning facilities, they won't have any recent recipients.
