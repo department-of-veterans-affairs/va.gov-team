@@ -15,6 +15,9 @@
 **Anna: Are all artifacts (Research plan, conversation guide, note taking template, “Study Roster & Schedule”, slack space(s) for back channel/support) ready?**
 - Answer: 
 
+**Anna: Have we completed the pilot session(s)?**
+- Answer: 
+
 **Mikal: Are the prototypes ready to be used in the study?**
 - Answer: 
 
