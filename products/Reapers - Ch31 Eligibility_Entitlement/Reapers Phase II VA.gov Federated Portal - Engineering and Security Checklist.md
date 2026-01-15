@@ -106,17 +106,18 @@ Please provide the following documentation as attachments.
 - Architecture Diagram:
 This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
 This diagram must also illustrate the following specifics.
-  - Which implementation of security approaches were considered along with the approach that was chosen and why?
-  - If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected?
-- Incident Response Plan, including Points of Contact for your system and dependent VA back-ends.
+  - Which implementation of security approaches were considered along with the approach that was chosen and why? **Utilizing Single Sign On, API with RES is authenticated and only providies data related to the specific Veterans MPI.**
+  - If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected? N/A
+- Incident Response Plan, including Points of Contact for your system and dependent VA back-ends. 
     - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
+    - **Reapers Team will monitor for errors and if they see a spike or unexpected behavior, they will disable the toggle.**
 - Sequence Diagram:
-This diagram must include any authentication steps if this is an authenticated experience.
+This diagram must include any authentication steps if this is an authenticated experience. **N/A**
 - Data Flow Diagram:
-This diagram must illustrate the following specifics.
-  - What data is collected or used, and where, including information such as credentials used by this system?
+This diagram must illustrate the following specifics. **N/A to the entire section**
+  - What data is collected or used, and where, including information such as credentials used by this system? 
   - Where is the data is stored and how, including information such as any encryption used?
-  - How is the data transferred, including information such as any encryption used?
+  - How is the data transferred, including information such as any encryption used? 
   - Who accesses the data and in what capacity (read or read-write)?
   - What is the audit trail of data access and manipulation?
 - API Endpoint Documentation:
