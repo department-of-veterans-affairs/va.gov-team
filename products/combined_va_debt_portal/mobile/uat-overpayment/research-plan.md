@@ -248,6 +248,10 @@ Pre-release app builds
 - for iOS (TestFlight)
 - for Android (Firebase)
 
+Directions on using pre-release app build
+- for iOS (TestFlight)
+- for Android (Firebase)
+
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
