@@ -72,7 +72,7 @@ The profile sub pages are link groups for each sub section of profile. Content s
 
 ### Information architecture 
 
-The Email and text notifications page allows teams to add a way for users to opt into emails from VA Notify and texts from VEText. The page has an underlying technology structure that allows new sections to be added through the VA Profile API.
+The Email and text notifications page allows teams to add a way for users to opt in or out of emails from VA Notify and texts from VEText. The page has an underlying technology structure that allows new sections to be added through the VA Profile API.
 
 No other methods of notifications are supported on this page at this time. If you have a notification setting that does not fit within this structure please reach out to the team to discuss.
 
