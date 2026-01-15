@@ -74,4 +74,6 @@ How will we communicate these changes to Veterans?
 
       Decision: Try to simply disable refill functionality. Meds at facility that transitioning do NOT surface in widget. Meds at facility that's NOT transitioning (in case of multiple facilities) do surface.
     
-      If can't do that -> surface all meds and then throw up error message at point of submitting refill request w/ CTA. 
+      If can't do that -> surface all meds and then throw up error message at point of submitting refill request w/ CTA.
+
+7. What will be the experience when mhv_medications_cerner_pilot flipper gets turned on? Will medications being shifted over to OH begin appearing at that point? If so, how to handle? 
