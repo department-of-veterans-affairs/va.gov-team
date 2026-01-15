@@ -11,6 +11,7 @@
 | TBD | TBD | TBD |TBD |
 | 11/3/25| Bob Vitt | Minimum payments| Per Bob, we MUST offer partial payments. Amount can't be less than $25.00 (unless the amount due is less than $25- in which case they MUST pay the $25 in full). ACH recurring payment plans ok, but $25 is the min payment and must pay debt in full in 36 months (Bob to get more info/confirm) |
 | 11/3/25| Bob Vitt | School payments| Per Bob,Schools MUST be able to log in, so we will need pay.va.gov AND pay.gov live at the same time.Thousands of schools are making payments! Approx 43,000 accounts for a total of $107 million!! Schools call in to pay money owed using cc's too.  |
+|1/15/26| Denise Coveyduc |Removing payment plans from MVP scope| In discussion with the UX team we have decided to focus the MVP on single payments at a time. A Veteran will be able to make a payment in full OR make a partial payment but they will not be able to set up a recurring payment plan as part of this initial MVP release. The UX team will outline for users that repayment plans are still an option with them and provide the necessary instruction on how to set one up. Online payment plans will be developed as part of a future release.|
 
 ### Product Considerations
 
