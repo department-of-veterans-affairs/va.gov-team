@@ -1,20 +1,21 @@
 # Context Diagram (Level 0)
 ```mermaid
 flowchart LR
-    User[User (Browser)]
-    VASSAPI[VASS API<br/>(External Service)]
-    VANotify[VA Notify<br/>(VA Infra)]
+    User["User Browser"]
+    VASSAPI["VASS API External"]
+    VANotify["VA Notify"]
 
-    System[VASS Scheduling Experience]
+    System["VASS Scheduling Experience"]
 
-    User -->|Requests, Identity Data| System
-    System -->|Availability, Confirmations| User
+    User -->|Requests and identity data| System
+    System -->|Availability and confirmations| User
 
-    System -->|Scheduling, Cancellation Requests| VASSAPI
-    VASSAPI -->|Availability, Appointment Data| System
+    System -->|Scheduling and cancellation requests| VASSAPI
+    VASSAPI -->|Availability and appointment data| System
 
-    System -->|Email Requests| VANotify
-    VANotify -->|Emails (OTC, Confirmation)| User
+    System -->|Email requests| VANotify
+    VANotify -->|OTC and confirmation emails| User
+
 
 ```
 
@@ -22,100 +23,89 @@ flowchart LR
 # Level 1 DFD — Scheduling
 ```mermaid
 flowchart LR
-    %% External Entities
-    User[User (Browser)]
-    VASSAPI[VASS API]
-    VANotify[VA Notify]
+    User["User Browser"]
+    VASSAPI["VASS API"]
+    VANotify["VA Notify"]
 
-    %% Processes
-    P1[Verify Identity & OTC]
-    P2[Request Availability]
-    P3[Submit Appointment]
+    P1["Verify identity and OTC"]
+    P2["Request availability"]
+    P3["Submit appointment"]
 
-    %% Data Stores (Internal)
-    D1[(Invitation / Veteran Data)]
-    D2[(OTC Store)]
+    D1[("Invitation and veteran data")]
+    D2[("OTC store")]
 
-    %% Identity Verification
-    User -->|Last Name, DOB, UUID| P1
+    User -->|Last name DOB UUID| P1
     P1 --> D1
     P1 --> D2
-    P1 -->|OTC Email Request| VANotify
-    VANotify -->|OTC Email| User
+    P1 -->|OTC email request| VANotify
+    VANotify -->|OTC email| User
     User -->|Entered OTC| P1
 
-    %% Availability
-    User -->|Availability Request| P2
-    P2 -->|Availability Query| VASSAPI
-    VASSAPI -->|Available Slots| P2
-    P2 -->|Available Slots| User
+    User -->|Availability request| P2
+    P2 -->|Availability query| VASSAPI
+    VASSAPI -->|Available slots| P2
+    P2 -->|Available slots| User
 
-    %% Create Appointment
-    User -->|Selected Slot, Agent Skills| P3
-    P3 -->|Create Appointment| VASSAPI
-    P3 -->|Confirmation Email Request| VANotify
-    VANotify -->|Confirmation Email| User
+    User -->|Selected slot and skills| P3
+    P3 -->|Create appointment| VASSAPI
+    P3 -->|Confirmation email request| VANotify
+    VANotify -->|Confirmation email| User
+
+
 
 ```
 # Level 1 DFD — Cancellation
 ```mermaid
 flowchart LR
-    %% External Entities
-    User[User (Browser)]
-    VASSAPI[VASS API]
-    VANotify[VA Notify]
+    User["User Browser"]
+    VASSAPI["VASS API"]
+    VANotify["VA Notify"]
 
-    %% Processes
-    P1[Verify Identity & OTC]
-    P4[Retrieve Appointment Details]
-    P5[Cancel Appointment]
+    P1["Verify identity and OTC"]
+    P4["Retrieve appointment details"]
+    P5["Cancel appointment"]
 
-    %% Data Stores
-    D2[(OTC Store)]
+    D2[("OTC store")]
 
-    %% Identity Verification
-    User -->|Last Name, DOB, UUID| P1
+    User -->|Last name DOB UUID| P1
     P1 --> D2
     User -->|Entered OTC| P1
 
-    %% Retrieve Appointment
-    User -->|View Appointment Request| P4
-    P4 -->|Get Appointment Details| VASSAPI
-    VASSAPI -->|Appointment Details| P4
-    P4 -->|Appointment Details| User
+    User -->|View appointment| P4
+    P4 -->|Get appointment details| VASSAPI
+    VASSAPI -->|Appointment details| P4
+    P4 -->|Appointment details| User
 
-    %% Cancel Appointment
-    User -->|Cancel Request| P5
-    P5 -->|Cancel Appointment| VASSAPI
-    P5 -->|Cancellation Email Request| VANotify
-    VANotify -->|Cancellation Confirmation Email| User
+    User -->|Cancel request| P5
+    P5 -->|Cancel appointment| VASSAPI
+    P5 -->|Cancellation email request| VANotify
+    VANotify -->|Cancellation email| User
+
+
 
 ```
 # Level 1 DFD - OTP
-```
+```mermaid
 flowchart LR
-    %% External Entities
-    User[User (Browser)]
-    VASSAPI[VASS API]
-    VANotify[VA Notify]
+    User["User Browser"]
+    VASSAPI["VASS API"]
+    VANotify["VA Notify"]
 
-    %% Process
-    P1[Verify Identity & OTP]
+    P1["Verify identity and OTC"]
 
-    %% Data Stores
-    D1[(Invitation / Veteran Data)]
-    D2[(OTP Store)]
+    D1[("Invitation and veteran data")]
+    D2[("OTC store")]
 
-    %% Request OTP
-    User -->|Last Name, DOB, UUID| P1
+    User -->|Last name DOB UUID| P1
     P1 -->|Validate UUID| VASSAPI
-    VASSAPI -->|Veteran / Invitation Data| P1
+    VASSAPI -->|Veteran data| P1
     P1 -->|Generated OTC| D2
-    P1 -->|OTP Email Request| VANotify
-    VANotify -->|OTP Email| User
+    P1 -->|OTC email request| VANotify
+    VANotify -->|OTC email| User
 
-    %% Validate OTP
-    User -->|Entered OTP| P1
-    P1 -->|OTP Lookup| D2
+    User -->|Entered OTC| P1
+    P1 -->|OTC lookup| D2
+
+
 
 ```
