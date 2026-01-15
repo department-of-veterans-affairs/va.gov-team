@@ -89,13 +89,13 @@ synthesis_tools_used:
 ---
 
 
-# [2025-10 Supplemental Claims Design Directions] Research Findings - Usability 
+# 2025-10 Supplemental Claims Design Directions Research Findings - Usability 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), Online Form 526 (Disability Claim) - Conditions Section, Supplemental Claims Flow, Conditions Teame**
 
-**Date:** MM/DD/YYYY
+**Date:** 01/15/2026
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** [Clara Fritz], [Kim Ladin]
 
 **[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -113,6 +113,13 @@ synthesis_tools_used:
 - [Further research needed](#user-content-further-research-needed)
 - [Appendix](#user-content-appendix)
 - [Research participants](#user-content-research-participants)
+
+## Background
+The current online Form 526 only allows Veterans to claim a new condition or request an increase for a previously rated condition. Veterans who wish to file a Supplemental Claim — a contestable issue for a previously denied or previously rated condition, which requires new and relevant evidence — must currently use the separate Supplemental Claim form (VA Form 0995).
+The challenge is to seamlessly incorporate the ability to claim contestable (supplemental) issues directly into the Form 526 online flow, allowing Veterans to claim supplemental conditions, or a mix of new, increase, and supplemental conditions, all within a single application. This enhanced filing approach supports VA’s “no wrong door” policy, ensuring a Veteran is connected to necessary services regardless of how they seek help. The design must accommodate this new condition category without disrupting the already successful mental model for "New" and "Increase" conditions.
+This work will involve iterating on the existing 526 online form, and it will affect authenticated users.
+In addition, there is a companion report that focuses specifically on Veterans’ mental models around disability claims. These insights will directly inform our work on the Conditions flow, and we hope also be of value to other teams across the VA working on the disability benefits user experience.
+Link to [Product overview](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115464)
 
 ## Research Goals
 *Provide context for this research by explaining how it fits into the Veteran’s journey.*  
