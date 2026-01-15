@@ -200,7 +200,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
 4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
-5. [Users were successful in adding secondary conditions, although they don’t know VA terminology.](#user-content-users-were-successful-in-adding-secondary-conditions-althrough-they-don't-know-va-terminology)
+5. [Users were successful in adding secondary conditions, although they do not know VA terminology.](#user-content-finding-5-users-were-successful-in-adding-secondary-conditions-although-they-do-not-know-va-terminology)
 
 
 ## Details of Findings 
@@ -321,7 +321,7 @@ With prototype Banana, participants had an easier time. We believe it’s due in
 In 2025, new conditions typically represented 82-86% of all conditions submitted in the online 526 (per [Datadog](https://dsva.slack.com/archives/C04AZ8T7XN1/p1767819120902409?thread_ts=1767818877.619919&cid=C04AZ8T7XN1)). Given that adding a new condition is the most common use case for this form, this is a risk with the Apple design. 
 
 
-### Finding 5: Users were successful in adding secondary conditions, although they don’t know VA terminology.
+### Finding 5: Users were successful in adding secondary conditions, although they do not know VA terminology.
 Due to time constraints, we were only able to ask 4 of the 10 participants about secondary conditions, but all 4 correctly guessed that they’d claim a secondary condition by selecting ‘A condition I haven’t claimed before’ from the ‘Add a condition’ screen. 
 
 [IMAGE - FORTHCOMING]
