@@ -141,16 +141,17 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ## First Task: Wayfinding
 
-- If you wanted to learn more about survivors benefits, what would you do first on VA.gov? 
-    - Prompt: How would you expect to find this specific form on the VA.gov site?
+- If you wanted to learn more about survivors benefits, what would you do first on VA.gov?  
+    - Prompt: How would you go about finding this specific form on the VA.gov site?
     - Note what they would use*: Google / VA.gov / key words looking/searching for: _______________________
-- Do you understand the difference between Dependency and Indemnity Compensation (DIC), Survivors Pension, and Accrued Benefits? If not, where would you go to find that information?
+- Do you understand the difference between Dependency and Indemnity Compensation (DIC), Survivors Pension, and Accrued Benefits?
+    - If N: where would you go to find that information?
 
 **The new test form is not especially searchable/findable yet on staging, so they may demo their approach - but reassure them that it may not be effective on the test site.** 
 
 ## Second Task: Open form
 
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)
+Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits. As you work, please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)
 
 Did you get the link?
 
