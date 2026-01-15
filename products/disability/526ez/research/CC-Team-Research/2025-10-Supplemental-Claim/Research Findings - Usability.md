@@ -199,7 +199,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
-4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
+4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-Protoype-Apple)
 5. [Users were successful in adding secondary conditions, although they do not know VA terminology.](#user-content-finding-5-users-were-successful-in-adding-secondary-conditions-although-they-do-not-know-va-terminology)
 
 
