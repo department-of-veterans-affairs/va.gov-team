@@ -95,7 +95,7 @@ synthesis_tools_used:
 
 **Date:** 01/15/2026
 
-**Contacts:** [Clara Fritz], [Kim Ladin]
+**Contacts:** [Clara Fritz](https://github.com/maddiefritz), [Kim Ladin](https://github.com/KimLadin)
 
 **[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -140,13 +140,27 @@ When time allowed, we also asked Veterans about secondary conditions to understa
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+### Goal: Determine which of the design directions best meets user needs when filing a Supplemental Claim within the online 526, without negatively impacting the user experience of filing a standard disability claim.
+- Is one design easier to navigate and understand than the others?
+- How well does each design communicate to users that they can create a Supplemental Claim for a condition within the 526 flow?
+- How easy is it for users to add a supplemental condition to their claim?
+- Are there any usability problems introduced by the new design that might affect Veterans’ ability to file a new or increase claim?
+- How do Veterans react to seeing a list of conditions that have been denied?
+- Do Veterans experience form fatigue or get overwhelmed by the number of options?
+- Does the design create confusion, especially in areas which could negatively impact the outcome of their claim?
+- Which design is perceived by Veterans as easier to use or more supportive?
+- Does the prototype help Veterans understand the basic evidentiary requirements for Supplemental Claims?
+- For “CFI distinction,” do Veterans understand the difference between filing a Claim for Increase versus a Supplemental Claim?
 
-* Question 1
-* Question 2
-* Question 3
+### Goal: Explore some of the recommended changes suggested by Platform in our Design Intent meeting.
+- What is the effect of clustering the conditions list with subheads?
+- What are the advantages and disadvantages of using tiles instead of radio buttons on the “Add a condition” screen?
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+### Goal: Explore differentiating secondary conditions on the main ‘Add a condition’ screen.
+- Are Veterans familiar with the concept of a secondary condition?
+- Are Veterans familiar with the term “secondary condition”?
+- How would a Veteran add a secondary condition to their claim?
+
 
 ## Methodology 
 
