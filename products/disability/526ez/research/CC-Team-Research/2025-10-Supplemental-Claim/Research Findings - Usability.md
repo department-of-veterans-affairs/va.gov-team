@@ -129,7 +129,9 @@ This research had two goals:
 
 1. Primarily, we want to learn which of two design directions best meets user needs when filing a Supplemental Claim within the online 526EZ form, without negatively impacting the user experience of filing a standard disability claim, and
 2. Secondly, we want to understand Veterans’ mental models around disabilities and the claims and appeals processes so we can adjust the structure of the conditions flow to best meet Veteran expectations.
-   a. [!NOTE] Another report document contains the mental model definition. This report is dedicated to our usability-oriented findings from our research.
+
+>[!NOTE]
+>Another report document contains the mental model definition. This report is dedicated to our usability-oriented findings from our research.
 
 Both of these goals support the Getting Out, Taking Care of Myself, and Retiring stages of the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf). In the Getting Out stage, Veterans are engaging with VA to access benefits and services, especially healthcare and disability support. In the Taking Care of Myself stage, they are continuing to engage in support services, like seeking disability compensation for service-related chronic and/or mental health needs. In the Retiring stage, Veterans are finding additional sources of income, like disability compensation. Regardless of the specific experiences unique to each stage, enhancements made to the form as a result of this research will improve the overall disability filing experience.
 
