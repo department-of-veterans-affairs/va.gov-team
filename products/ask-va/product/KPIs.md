@@ -28,12 +28,12 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|⚠️4.3s|4.35s|3.4s|⚠️4.82s|⚠️5.3s|⚠️6.15s|
 |[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|49219|57842|62942|69589|52035|52303|
 |[Performance] Throughput, Successful Submit reply calls|2341|6819|4836|8593|9019|10042|9607|8095|
-|[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)||||||
-|[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|14% (217)||||||
+|[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)|30% (168)|32% (173)|26% (177)|34% (168)|31% (150)|
+|[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|14% (217)|13% (212)|12% (204)|7% (253)|5% (308)|4% (423)|
 |[Form] Completion rate|36%|39%|35%|27%|29%|31%|28%|27%
 |[Dashboard] Reply rate|21%|23%|20%|22%|21%|24%|24%|21%
-|[Form] Time to submit form|x|x|x|X|||||
-|[Dashboard] Time to reply|x|x|x|X|||||
+|[Form] Time to submit form|x|x|x|x|x|x|x|x|
+|[Dashboard] Time to reply|x|x|x|x|x|x|x|x|
 
 ## User experience KPIs
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
