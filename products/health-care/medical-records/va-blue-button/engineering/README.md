@@ -10,6 +10,8 @@
 
 As we move all users to SCDF as the source of truth for medical records data, what is the role of BB? As more users move to OH (and by extension SCDF) drifting of data will happen. How can we work to reimagine BB in a way that continues to provide value to Veterans?
 
+Answer-ish: We are operating under the mindset that BB should continue and show the Veteran the same data they see in the Medical Records section on va.gov. This means that for OH users, BB would pull from SCDF. For VistA users, BB would continue to pull from the existing datasources (PHR APIs).
+
 **What data are we legally required to provide that we are using BB to deliver?**
 Are there any data categories that we must provide to Veterans that we are currently delivering via BB? If so, what are they and how can we ensure they continue to be delivered as we evolve our architecture?
 
