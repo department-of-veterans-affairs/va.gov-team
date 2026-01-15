@@ -43,6 +43,11 @@
 - Mobile team is updating VSC alerts to direct to the VA call center. Determined Service history information will not be changing to match at this time.
 - [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1767895127894269)
 
+### Email and text notifications
+#### 08/25/2025 Email and text notifications content standards
+- C&IA team provided content standards for the Email and text notifications page in anticipation of Profile 2.0 and new notification asks.
+- [Link to ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113398)
+
 ---
 
 ## Shared projects
