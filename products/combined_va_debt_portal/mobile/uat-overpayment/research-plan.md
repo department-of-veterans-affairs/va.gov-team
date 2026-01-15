@@ -169,71 +169,65 @@ Are there moments that matter?
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-The purpose of this User Acceptance Testing (UAT) study is to validate that all elements in the Overpayments functionality operate as expected for end users with real user data. Unlike usability testing, this study focuses on verifying expected behavior, not on whether users can find or discover features.
+The purpose of this User Acceptance Testing (UAT) study is to verify that all elements of the Overpayments functionality operate as intended for end users with real data. Unlike usability testing, UAT focuses on confirming that features work as expected, rather than on users’ ability to find or discover them.
 
+Specifically, this study will validate that end users can successfully view, manage, and resolve overpayments using the app, meeting all criteria outlined in the defined user paths.
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
-### Goals
-
-`1.` **[Enter answer here]**
-
-`2.` **[Enter answer here]**
-
-`3.` **[Enter answer here]** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
+Findings from this research will confirm whether the Overpayments functionality is fully ready for production release. If all success criteria are met, we will proceed with launch and communicate readiness to stakeholders. If any issues are identified, we will prioritize and resolve them before deployment. 
 
-**[Enter outcome here]** 
 
----
+### Test paths and success criteria
 
-### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
-
-**`1.`[Enter Q1]**
-
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
+| Category                  | Activity                                      | Screen                      | Success                                                                                                                                                                                                                  |
+|---------------------------|-----------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Elements on home          | See the number of overpayments on home screen | Home                        | Activity card "Overpayments" shows "n overpayments" where "n" is the quantity of current overpayment debts                                                                       |
+| Elements on Payments      | Locate all payment information                | Payments tab                | • "Overpayments" card lists total amount due and total quantity of debts<br>• "Overpayments" card opens overpayment list view                                                    |
+| Elements on list view     | Review overall info of all overpayments       | Overpay list                | Each debt card shows:<br>• name of debt<br>• current balance<br>• message                                                                                                         |
+| Elements on list view     | Help menu from list screen                    | Overpay list                | • Help menu opens via modal<br>• Help menu displays instructions for calling Debt Management Center<br>• Help menu is closed via "close" CTA                                      |
+| Elements on detail view   | Review details of overpayment detail          | Overpay detail              | • Date updated appears at top                                                                                                                                                     |
+| Elements on detail view   | Review details of overpayment detail          | Overpay detail              | • Alert message shows due date where applicable<br>• Alert message expands with additional information<br>• Alert message collapses                                                |
+| Elements on detail view   | Review details of overpayment detail          | Overpay detail              | • "Why might I have this overpayment balances" opens in a modal<br>• message matches the type of debt<br>• message closes via "close" CTA                                         |
+| Elements on detail view   | Review details of overpayment detail          | Overpay detail              | Debt info card shows:<br>• name of debt<br>• current balance<br>• original amount<br>• payment due date                                                                           |
+| Elements on detail view   | Review overpayment letter history             | Overpay detail              | • accordion expands<br>• correct dates are listed<br>• accordion collapses                                                                                                        |
+| Elements on detail view   | Review notice of rights and responsibilities  | Overpay detail              | • accordion expands<br>• correct dates are listed<br>• accordion collapses                                                                                                        |
+| Resolve from list view    | Resolve overpayment menu from list screen     | Overpay list                | Four menu options:<br>• Make a payment<br>• Request help<br>• Dispute overpayment<br>• Cancel<br>"Cancel" closes menu                                                            |
+| Resolve from list view    | Resolve overpayment: pay                      | Overpay list                | • "Make a payment" from "Resolve overpayment" opens "Pay online" screen                                                                                                           |
+| Resolve from list view    | Resolve overpayment: pay                      | Pay online                  | Details are correct for debt:<br>• Current balance<br>• Receivable ID (education) File number (all other debts)<br>• Payee number<br>• Person entitled<br>• Deduction code<br>"What these terms mean" opens in modal and closes<br>External link for "pay on pay.va.gov" opens payment site |
+| Resolve from list view    | Resolve overpayment: pay                      | Pay online / pay.va.gov     | Switching between app and browser keeps location for both<br>Copy/paste works for each detail                                                                                     |
+| Resolve from list view    | Resolve overpayment: request help             | Overpay list                | • "Request help" from "Resolve overpayment" opens "Request help" screen                                                                                                           |
+| Resolve from list view    | Resolve overpayment: request help             | Request help                | • "Questions about overpayments" accordion opens and closes<br>• "How to get financial help" accordion opens and closes                                                           |
+| Resolve from list view    | Resolve overpayment: request help             | Request help                | • "Request help with this overpayment" inside "How to get financial help" opens "Request help with VA debt for overpayments and copay bills" page in webview<br>• "Start your request now" opens Financial Status Report and personal details are already filled in<br>• "Done" returns to "Request help" screen in app        |
+| Resolve from list view    | Resolve overpayment: dispute overpayment      | Overpay list                | • "Dispute overpayment" from "Resolve overpayment" opens "Dispute overpayment" screen                                                                                            |
+| Resolve from list view    | Resolve overpayment: dispute overpayment      | Dispute overpayment         | • "Start an overpayment dispute" opens "Dispute your VA debt" in website<br>• "Start your dispute" opens dispute form and personal details are already filled in<br>• "Done" returns to "Dispute overpayment" screen in app           |
+| Resolve from detail view  | Resolve overpayment menu from detail screen   | Overpay detail              | Four menu options:<br>• Make a payment<br>• Request help<br>• Dispute overpayment<br>• Cancel<br>"Cancel" closes menu                                                            |
+| Resolve from detail view  | Resolve overpayment: pay                      | Overpay detail              | • "Make a payment" from "Resolve overpayment" opens "Pay online" screen                                                                                                           |
+| Resolve from detail view  | Resolve overpayment: pay                      | Pay online                  | Details are correct for debt:<br>• Current balance<br>• Receivable ID (education) File number (all other debts)<br>• Payee number<br>• Person entitled<br>• Deduction code<br>"What these terms mean" opens in modal and closes<br>External link for "pay on pay.va.gov" opens payment site |
+| Resolve from detail view  | Resolve overpayment: pay                      | Pay online / pay.va.gov     | Switching between app and browser keeps location for both<br>Copy/paste works for each detail                                                                                     |
+| Resolve from detail view  | Resolve overpayment: request help             | Overpay detail              | • "Request help" from "Resolve overpayment" opens "Request help" screen                                                                                                           |
+| Resolve from detail view  | Resolve overpayment: request help             | Request help                | • "Questions about overpayments" accordion opens and closes<br>• "How to get financial help" accordion opens and closes                                                           |
+| Resolve from detail view  | Resolve overpayment: request help             | Request help                | • "Request help with this overpayment" inside "How to get financial help" opens "Request help with VA debt for overpayments and copay bills" page in webview<br>• "Start your request now" opens Financial Status Report and personal details are already filled in<br>• "Done" returns to "Request help" screen in app        |
+| Resolve from detail view  | Resolve overpayment: dispute overpayment      | Overpay detail              | • "Dispute overpayment" from "Resolve overpayment" opens "Dispute overpayment" screen                                                                                            |
+| Resolve from detail view  | Resolve overpayment: dispute overpayment      | Dispute overpayment         | • "Start an overpayment dispute" opens "Dispute your VA debt" in website<br>• "Start your dispute" opens dispute form and personal details are already filled in<br>• "Done" returns to "Dispute overpayment" screen in app           |
+| Breadcrumbs               | Check breadcrumbs                             | Overpayments list           | Breadcrumb returns to Payments                                                                                                                                                    |
+| Breadcrumbs               | Check breadcrumbs                             | Overpayments Detail         | Breadcrumb returns to Overpayments                                                                                                                                                |
+| Breadcrumbs               | Check breadcrumbs                             | Make a payment from Details | Breadcrumb returns to Details                                                                                                                                                     |
+| Breadcrumbs               | Check breadcrumbs                             | Make a payment from List    | Breadcrumb returns to List                                                                                                                                                        |
+| Breadcrumbs               | Check breadcrumbs                             | Request help from Details   | Breadcrumb returns to Details                                                                                                                                                     |
+| Breadcrumbs               | Check breadcrumbs                             | Request help from List      | Breadcrumb returns to List                                                                                                                                                        |
+| Breadcrumbs               | Check breadcrumbs                             | Dispute overpayment from Details | Breadcrumb returns to Details                                                                                                                                                |
+| Breadcrumbs               | Check breadcrumbs                             | Dispute overpayment from List | Breadcrumb returns to List                                                                                                                                                    |
+| Breadcrumbs               | Check breadcrumbs                             | Notice of rights and responsibilities | Breadcrumb returns to Details                                                                                                                              |
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
+- Users will be able to view, manage, and resolve their overpayments using the Overpayment feature.
+- Users will access overpayment information, complete key actions, and navigate between screens without issues.
+- The Overpayments functionality will operate correctly and meet all success criteria during user acceptance testing.
 
----
-
-**[Enter hypotheses here]** 
-
----
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
