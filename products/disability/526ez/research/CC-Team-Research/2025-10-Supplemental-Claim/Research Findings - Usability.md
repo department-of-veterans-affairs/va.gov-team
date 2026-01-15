@@ -199,7 +199,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
-4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-Protoype-Apple)
+4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-Prototype-Apple.)
 5. [Users were successful in adding secondary conditions, although they do not know VA terminology.](#user-content-finding-5-users-were-successful-in-adding-secondary-conditions-although-they-do-not-know-va-terminology)
 
 
@@ -316,7 +316,7 @@ Eventually, all but one of the 8 participants who were given this task in Protot
   - _“Maybe under Knee condition? If I clicked, it might take me to another survey with more options.” **(P5)**_
   - _“I would make an assumption and hit knee replacement… ” **(P13)**_
 
-With prototype Banana, participants had an easier time. We believe it’s due in part to the tiled radio buttons which have the effect of individually emphasizing each available option within the condition list. Of the 7 participants who were given the task, all were successful without . 
+With prototype Banana, participants had an easier time. We believe it’s due in part to the tiled radio buttons which have the effect of individually emphasizing each available option within the conditions list. Of the 7 participants who were given the task, all were successful without . 
 
 In 2025, new conditions typically represented 82-86% of all conditions submitted in the online 526 (per [Datadog](https://dsva.slack.com/archives/C04AZ8T7XN1/p1767819120902409?thread_ts=1767818877.619919&cid=C04AZ8T7XN1)). Given that adding a new condition is the most common use case for this form, this is a risk with the Apple design. 
 
@@ -373,7 +373,7 @@ But it also heightened Veterans’ anxiety about how they would provide that evi
 2 non-adviser participants understood both requirements and were able to clearly articulate the difference.
 
 
-### 4. Subheaders that group conditions by type (rated or denied) support quick recognition and scannability of the condition list.
+### 4. Subheaders that group conditions by type (rated or denied) support quick recognition and scannability of the conditions list.
 4 of the 10 participants expressed explicit preference for condition grouping via subheaders.
   - _“The way my brain works, I start sorting by groups. Banana, I have to read everything in it. Apple, I can scan the headers and go straight to denied conditions.” **(P3)**_
   - _“I like the bold print that divided the conditions.” **(P12)**_
@@ -389,7 +389,7 @@ But it also heightened Veterans’ anxiety about how they would provide that evi
   - _“I’d rather see these in alpha order. It’s not even listed by percentage. I would do something like that, not random like this.” **(P13)**_
 
 
-### 6. The dynamic condition list was understood and appreciated
+### 6. The dynamic conditions list was understood and appreciated
 Most participants noticed that conditions disappeared from the ‘Add a condition’ screen after they’d been added to the claim. They appreciated this behavior as a way to prevent errors. This echoes our finding in the previous study.
   - _“Makes sense because you don’t want to create multiple of the same [claim] by accident.” **(P3)**_
   - _“It’s good that hypertension is gone so I don’t make a mistake and claim the same thing I claimed before. I could forget.” **(P1)**_
