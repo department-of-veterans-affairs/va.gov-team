@@ -1,12 +1,11 @@
 # va-sort Design Decisions
 Last updated: 01-15-2026
 
-- [ADR: 001 - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: 002 - Swap position of Sort component and results description](#ADR-002---Swap position of Sort component and results description.)
-- [ADR: 003 - DECISION LABEL](#ADR-XXX---Decision-Label)
+- [ADR: 001 - Add a Filter and Sort variant to Search Filter component](#adr-001---add-a-filter-and-sort-variant-to-search-filter-component)
+- [ADR: 002 - Swap position of Sort component and results description](#adr-002---swap-position-of-sort-component-and-results-description)
 
 
-## ADR 001 - Add a Filter & Sort variant to Search Filter component
+## ADR 001 - Add a Filter and Sort variant to Search Filter component
 
 ### Status: Proposed
 _Describe the status of the decision. Options are "proposed", "accepted", "rejected", "deprecated", "superseded"._
