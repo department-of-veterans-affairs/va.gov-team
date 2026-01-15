@@ -74,7 +74,7 @@ During this phase we are creating an OH focused experience on va.gov Medical Rec
 
 | Action                                                    | Target Date |
 | --------------------------------------------------------- | ----------- |
-| Update Accelerated Toggles to be for                      | Jan 2026    |
+| Update Accelerated Toggles to be for OH user only         | Jan 2026    |
 | Update BB to use SCDF for OH users                        | Feb 2026    |
 | Update Vaccines to use SCDF                               | Jan 2026    |
 | Complete this documentation for stakeholder communication | Jan 2026    |
