@@ -167,7 +167,6 @@ Are there moments that matter?
 
 
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
 
 The purpose of this User Acceptance Testing (UAT) study is to verify that all elements of the Overpayments functionality operate as intended for end users with real data. Unlike usability testing, UAT focuses on confirming that features work as expected, rather than on users’ ability to find or discover them.
 
@@ -175,7 +174,6 @@ Specifically, this study will validate that end users can successfully view, man
 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 Findings from this research will confirm whether the Overpayments functionality is fully ready for production release. If all success criteria are met, we will proceed with launch and communicate readiness to stakeholders. If any issues are identified, we will prioritize and resolve them before deployment. 
 
