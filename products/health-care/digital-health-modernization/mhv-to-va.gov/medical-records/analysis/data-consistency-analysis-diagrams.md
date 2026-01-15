@@ -358,7 +358,7 @@ graph LR
     S2A -.-> S3A
     S3A -.-> S4A
     S4A -.-> S5A
-    S5A -. -> S6A
+    S5A -.-> S6A
 
     style S1A fill:#ffcccc
     style S1B fill:#ffcccc
