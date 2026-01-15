@@ -198,8 +198,8 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 
 1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
-3. Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.
-4. Participants had trouble adding a new condition in the prototype Apple.
+3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.](#user-content-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-weren't-able-to)
+4. [Participants had trouble adding a new condition in prototype Apple.](#user-content-participants-had-trouble-adding-a-new-condition-in-protoype-apple]
 5. Users were successful in adding secondary conditions, although they don’t know VA terminology.
 
 
@@ -263,7 +263,7 @@ The confusion prompted some Veterans to express distrust.
 
 #### Task success vs. conceptual understanding
 On the other hand, most participants actually chose the correct option on the CFI Distinction screen in Banana. It was when we asked them to explain the difference or when they reached the ‘Review your conditions’ screen that they became confused.
-- We believe their ability to choose correctly may be an artifact of the test environment. The moderator laid out clear scenarios and set intent specific to either increase or appeal. In the real world, Veterans are likely to reach this screen with the intention to "get a higher %" and then become confused about which option to choose.
+- We believe their ability to choose correctly may be an artifact of the test environment. The moderator laid out clear scenarios and set intent specific to either increase or appeal. In the real world, Veterans are likely to reach this screen with the intention to "get a higher percentage" and then become confused about which option to choose.
 
 #### Context screens work when they resolve uncertainty
 The ‘Supplemental Claim info’ screen (which appeared after the user chose a denied condition to add) was valued when it answered a decision question, but was otherwise redundant or confusing.
@@ -276,9 +276,47 @@ Telling their story and providing evidence are primary pillars of Veterans’ me
 
 [IMAGE - FORTHCOMING]
 
+#### Submitting evidence
+In particular, Veterans know that evidence is critical to getting their claim approved. When the form doesn’t clearly show where, when, and how to add that evidence, it reduces confidence and causes confusion.
+
+Participants often mentioned expecting to upload evidence. 
+  > **P1:** “I expect I’ll be able to upload my evidence on the next screen.”
+
+  > **P10:** “I have new evidence so I'm expecting something on the next page where I have the opportunity to provide that new evidence.”
+
+  > **P13:** “I would hit edit once again for the Hypertension... It would bring up a screen and I could show them my new evidence to prove the rating needs to go up.”
+
+Although one information screen mentions they’ll be able to upload evidence in a later step, it was not enough to set expectations, and most did not read or acknowledge the text at all. (Version 1, which explicitly mentions “step 4,” did garner more attention than the more general “later in this application” in version 2).
+- This pattern / perspective combined with the literal interpretation of language (see Additional Insights) inform the evidence-first reasoning and narrative expectation pillars of Veterans’ mental model around disabilities, claims, and appeals.
+
+[IMAGE - FORTHCOMING]
+
+#### Telling their story
+Veterans expect more than the ability to upload evidence—they also want to provide context and justify their request. As a result, participants found a selection-only flow insufficient. Many expressed surprise and confusion when they were not given an opportunity to add details about their conditions, describing the experience as incomplete. Notably, even without being prompted, 6 of the 10 participants volunteered that they expected to be able to add more detail.
+  > **P1:** “I’m expecting the next screen to be something where I could add a reason, maybe some documents, for wanting that increase.”
+
+  > **P6:** “The next screen will probably ask me … why I’m filing for asthma. I’m hoping it comes up with something for me to say why.”
+
+  > **P8:** “Wouldn't they want some sort of explanation for why I want my hypertension reviewed? Are they just going to do that by looking at my medical records without any input from me?!”
+
+Some Veterans also wanted to indicate the basis for their Supplemental Claim. Participant 13, for example, looked for a radio button on the Supplementary Claim info screen. When that didn’t show up and she landed on the Review your conditions screen, she wanted to click “Edit” to make the selection.
+  > **P13:** “I would expect it to have a bubble [radio button] to say whether you have new evidence or you would like to review based on the new law.”
+
+#### Collateral damage on the Review screen
+The lack of follow-up questions also led to confusion when users reached the ‘Review your conditions’ screen. Getting to this screen feels sudden, as though a step is missing.
+  > **P1:** “The biggest challenge is that it just jumps straight to the review. I’m not seeing where I can add anything [re: evidence].”
+
+  > **P3:** “I’d expect it to be like: here’s my issue, here’s my documents, then on to the next one [condition].”
+
+This confusion may be one reason our participants were eager to interact with the ‘Edit’ buttons within each condition card on the review page:
+  > **P5:** “I would click edit to re-open the case so I can re-file … I could state my case why it should be increased.”
+
+  > **P13:** “I would hit edit and see if I can edit what they want me to edit I would put down due to the fact that the law has changed … I would expect that it would bring up a screen and I could show them my new evidence to prove the rating needs to go up.”
+
+We did not see this kind of confusion in our previous study, probably because that study focused more heavily on adding new conditions. New conditions have the kind of follow-up questions that Veterans expect, so the Review your conditions screen made sense when they reached it.
 
 
-
+### Finding 4: Participants had trouble adding a new condition in Prototype Apple.
 
 
 ---
