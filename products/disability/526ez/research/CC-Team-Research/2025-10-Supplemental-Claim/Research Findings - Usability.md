@@ -439,144 +439,125 @@ This will promote scannability and user wayfinding at the outset of the Conditio
 
 
 ### 7. Explore asking Veterans to indicate whether their Supplemental Claim is based on new evidence or a change in law.
-Consistent with recommendation 5, Veterans expect the opportunity to not only contextualize the why of how they’re filing, but to provide justification as well. They are outcome-oriented when it comes to filing for disability benefits. 
+Consistent with [recommendation 5](#user-content-5-make-it-clear-and-explicit-that-veterans-will-be-asked-for-evidence-at-a-specific-point-later-in-the-form), Veterans expect the opportunity to not only contextualize the why of how they’re filing, but to provide justification as well. They are outcome-oriented when it comes to filing for disability benefits. 
 
 
 ## Next Steps
-
-*Outline immediate actions based on findings, including owners if applicable.*  
-
-> [!TIP]
-> Once your **Recommendations** and **Next Steps** are finalized, you can quickly turn them into GitHub issues using the reusable Copilot prompt in [`create-issues-from-research-findings-prompt.md`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/create-issues-from-research-findings-prompt.md).  
-> **After creating issues, add their hyperlinks back here under their corresponding "Recommendation" or "Next Step."**
-> 
-> If you need Github Copilot Enterprise Access, please complete this [Issue](https://github.com/department-of-veterans-affairs/copilot-onboarding/issues/new?template=copilot-onboarding.yml).
-
-## Further research needed
-
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+  - Further work on these designs is on hold until outstanding questions about the paper version of the forms (526 and 0995), specifically whether or not it will support the filing of Supplemental Claims, are resolved.
+  - There are opportunities for further research, specifically:
+    - The ease with which a Veteran can add a new condition on the ‘Add a condition’ screen that features tiled radio buttons, subheaders, list order method, and/or a combination of these UI adjustments.
+    - How Veterans respond to and interpret intent-oriented content changes to the screens regarding Supplemental Claims and Claims for Increase.
 
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+  - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Plan%20-%202025-10-Supplemental-Claim.md)
+  - [Conversation guide V1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20-%202025-10-Supplemental-Claim.md)
+  - [Conversation guide V2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Conversation%20guide%20v2%20-%202025-10-Supplemental-Claim.md)
+  - [Interview transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-11%20526EZ%20Supplemental%20Claims%20Design%20Direction?csf=1&web=1&e=bXiWUN)
 
 ### Tools used for Synthesis
+  - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1763754263362/8090932e8c64bf7b1ce609df56a7f1ab1170e1ed): post-session debrief notes with observers, screen-specific feedback mapping, task-specific success/failure tracking, affinity mapping, analysis and synthesis, mental model mind maps
+  - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Wo8TDMxRVE3M7Wtc_HWiL0rsD8-S3EbLbRYAxNKONt0/edit?gid=1109817157#gid=1109817157): timestampled notes collection during sessions
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
-  
 ### Pages and applications used
+  - [Prototype Apple](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6225-28762&viewport=487%2C-7286%2C0.7&t=iysFGHlWrbJqCNTW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6225%3A28762&show-proto-sidebar=1)
+  - [Prototype Banana](https://www.figma.com/proto/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?page-id=6174%3A18589&node-id=6241-54179&viewport=487%2C-7286%2C0.7&t=iysFGHlWrbJqCNTW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6241%3A54179&show-proto-sidebar=1)
 
-*Link to prototypes or pages tested during the study.*  
-
-
-### Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
-
-
-### Secondary research
-
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
-
-> [!IMPORTANT]
-> **After completing the demographic information below and saving this file**, use the [GitHub Copilot Research Findings Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-report/research-findings-frontmatter-completion-prompt.md) to automatically populate the YAML frontmatter section at the top of this document with: 
-> - Participant demographics (counts, age ranges, education levels, etc.)
-> - Key findings and recommendations
-> - Research goals and methodology
-> - Appropriate research repository tags
->
-> The prompt will parse the demographic data from this section and structure it correctly for the frontmatter's nested YAML format. 
+### Previous research on Conditions flow
+  - [2025-06 New/Increase at Condition Level](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md)
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-findings.md#research-participants)
-
 #### Recruitment criteria
+We, in partnership with Perigean, recruited Veterans across the following categories:
+  - Have previously filed a disability claim of any type within the last 15 years AND never appealed a disability decision
+  - Have previously filed a disability claim of any type within the last 15 years AND an appeal to a disability decision
+  - Have never filed a disability claim
+  - Have experience helping other Veterans file disability claims (2) (haven’t necessarily filed a claim themselves)
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+In terms of Veteran backgrounds, we aimed for a balanced group across demographics. Because we’ll use Figma wireframes for testing, we did not recruit for AT users. We also aimed to over-recruit for groups that were under-represented in our most recent study (see “2025-06 New/Increase Conditions” tab in the VA Recruitment Checker for Equality; this study’s equality metrics are tracked in the “2025-10 Supplemental Claims in 526” tab of the same spreadsheet).
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10
+* Caregivers: 0 
+* Family members of a Veteran: 0
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 3
+* Female: 7
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: 2
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 7
+* Tablet: 2
+* Smart phone: 1
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 2
+* 35-44: 0
+* 45-54: 2
+* 55-64: 1
+* 65+: 5
+* Unknown: 0
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 5
+* Some college (no degree): 0
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 1
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 7
+* Rural: 3
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 5
+* Black: 4
+* Hispanic: 0
+* Biracial: 1
+* Asian: 0
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 0
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
 
 #### Underserved groups we haven’t talked to 
+While we recruited for Veterans with other than honorable discharge, and had sessions scheduled with them, both either cancelled beforehand or were a no show. 
+
+Additionally, because we tested in Figma we were not able to test with AT users.
+
 > [!NOTE]
 _Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
 > 1. Duplicate the ***Template*** worksheet
