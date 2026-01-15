@@ -431,6 +431,7 @@ end
 | `uum.processor_job.iterations` | Gauge | Number of batch iterations completed this job run | N/A (informational) |
 | `uum.processor_job.total_events_processed` | Gauge | Total events processed across all iterations | N/A (informational) |
 | `uum.processor_job.total_db_inserts` | Gauge | Total events inserted to database (new unique events) | N/A (tuning) |
+| `uum.processor_job.db_queries` | Gauge | Total event queries to the database | N/A (tuning) |
 | `uum.processor_job.queue_depth` | Gauge | Events remaining in Redis buffer after processing | > 10,000 for 5 min |
 | `uum.processor_job.job_duration_ms` | Histogram | Total job processing time across all iterations (ms) | N/A (informational) |
 | `uum.processor_job.events_at_risk` | Gauge | Events remaining in buffer when job failed | N/A (diagnostic) |
