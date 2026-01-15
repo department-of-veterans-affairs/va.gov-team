@@ -15,7 +15,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Wireframes - https://www.figma.com/design/T9tPpLgo9QTAE0URYJ4l9K/My-VR-E-Benefits-Tracker?node-id=617-67249&p=f&t=2CYsV05qjNSxUTuQ-0
     + Already conducted design intent and recieved feedback on adjustments.
 - Frontend changes
-    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? **Yes**- Adding in 3 new pages for the user to track their VR&E journey. A connection between VA.gov and RES already exists.
+    + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? ****Yes**- Adding in 3 new pages for the user to track their VR&E journey. A connection between VA.gov and RES already exists.**
     + Identify any new design system components needed or changes to current components. **We are using all existing components. No new componenets were added or modified.**
     + Does this update change shared code? **N/A**
     + Describe any product analytics being gathered.  How will errors in the FE system be detected? **Will track the button clicks.**
