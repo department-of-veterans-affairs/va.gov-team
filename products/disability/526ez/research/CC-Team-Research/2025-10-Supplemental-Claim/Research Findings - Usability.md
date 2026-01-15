@@ -206,11 +206,20 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 ## Details of Findings 
 
 ### Finding 1: Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple.
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
+[IMAGE - FORTHCOMING]
 
-> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
+**The conditions list**
+9 of the 10 participants strongly appreciated seeing the full conditions list on a single page, supporting user orientation and recall. 
+- _“It showed me immediately those things that were not approved and those that were denied. Especially when people are not physically well or have mental health issues or they have PTSD…are you really going to remember what you were denied in the past?” **(P8)**_
+- _“Everything is right there, I don’t have to click on something else and wait for another page to load.” **(P10)**_
+
+While users had an easy time adding a Supplemental Claim on both prototypes, Banana imposed more cognitive burden by requiring Veterans to remember their denied conditions rather than displaying them up front. Denied conditions were hidden on a secondary page, requiring extra clicks and delaying clarity. This approach also conflicted with Veterans' outcome-driven expectations by postponing information about other claim pathways. Several Veterans expressed doubt they'd remember everything they'd been denied:
+- _“I guess your memory would have to be very good. You’d have to know whether you’d claimed it before and whether or not it was previously denied.” **(P8)**_
+- _“What if I don’t remember what I applied for?” **(P13)**_
+
+Contrary to what we expected, Veterans expressed no adverse reactions to seeing a list of denied conditions.
+
+
 
 ### Finding 2  
 Brief description  
