@@ -68,7 +68,7 @@ How will we communicate these changes to Veterans?
    
 5. How long should we keep the Yellow "you can do stuff" alert up for?
 
-     Decision: Discuss w/ portal team in Thurs mtg
+     Decision: not doing an alert. Need some other treatment to help people become aware of differences with new experience. 
    
 6. For users with multiple facilities with one cutting over and another not: can we only disable refill functionality for meds at cutover facilities? If no, can we surface an error message ONLY for the meds submitted to cutover facilities? What is technically feasible?
 
