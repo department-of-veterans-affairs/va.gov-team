@@ -2,12 +2,13 @@
 
 ## TL;DR
 
-We are staring with OH only users to SCDF in the near future. Vista only users will be rolled on a timeline measure in months from now. Our long term goal is to have all users on SCDF.
+We are migrating all Medical Records users to SCDF. Oracle Health (OH) users will complete migration by **FY26 Q2 (Feb 2026)**. VistA users will follow in **FY26 Q3–Q4 (Summer 2026)**.
 
 ## Engineering North Stars
 
-- Enabled Veterans to access their complete medical records regardless of datasource
-- Rollout of new datasources in a monitored and measured process
+- Enable Veterans to access their complete medical records regardless of datasource and with no knowledge of underlying systems
+- Use SCDF as the single source of truth for all medical records data
+- Roll out new datasources in a monitored and measured process
 
 ## Current State
 
@@ -18,7 +19,7 @@ We are staring with OH only users to SCDF in the near future. Vista only users w
 - **va.gov - Medical Records (MR)**
   - Pulling from PHR for VistA users (vaccines moving to LH to align with mobile)
   - Moving to SCDF for OH users
-- **VAHB - Medical Records (VHAB - MR)**
+- **VAHB - Medical Records (VAHB - MR)**
   - Vaccines and allergies via LH
   - Moving to SCDF for all users
 - **va.gov - Blue Button (BB)**
@@ -54,8 +55,8 @@ During this phase we are creating an OH focused experience on va.gov Medical Rec
   - [x] Labs and Tests
   - [ ] Vaccines
 - [x] Monitor and validate data accuracy and completeness
-- [ ] Restrict accelerated feature toggles to for OH users
-- [ ] Update BB to use SCDF for OH users (if still applicable)
+- [ ] Restrict accelerated feature toggles to OH users only
+- [ ] Update BB to use SCDF for OH users
   - [ ] Allergies
   - [ ] Labs and Tests
   - [ ] Care Notes
@@ -63,35 +64,43 @@ During this phase we are creating an OH focused experience on va.gov Medical Rec
   - [ ] Vitals
   - [ ] Conditions
 
-expected completion: Feb 2026
+**Expected completion: Feb 2026**
 
-### Key decisions and next steps
+---
 
-- Create documentation outlining the phases and steps needed to move all users to SCDF
-  - These should be geared to help communication the plan to stakeholders and team members
-- Update BB to use SCDF for only OH users (if still applicable)
-- Update Vaccines to use SCDF
+## Immediate Next Steps
 
-## Phase 2: Work out the issues
+> Actions required before Phase 2
 
-In this phase we will focus on identifying and resolving any issues that arise from the initial SCDF integration for OH users. This includes addressing data discrepancies, improving performance, and enhancing the user experience based on feedback.
+| Action                                                    | Target Date |
+| --------------------------------------------------------- | ----------- |
+| Update Accelerated Toggles to be for                      | Jan 2026    |
+| Update BB to use SCDF for OH users                        | Feb 2026    |
+| Update Vaccines to use SCDF                               | Jan 2026    |
+| Complete this documentation for stakeholder communication | Jan 2026    |
 
-Things we are **likely** (but not guaranteed) to happen:
+## Phase 2: Stabilization & Optimization
+
+Focus on resolving issues from Phase 1, improving performance, and preparing for VistA migration.
+
+**Planned work:**
 
 - [ ] Address data discrepancies reported by Veterans or identified through monitoring
-- [ ] Move all filtering of data to the client level (vets-api) to ensure consistency across datasources
-- [ ] Optimize performance of SCDF data retrieval and display by converting/creating a FHIR data store
-- [ ] Iterate on the current BB and CCD implementations to see how we can integrate them into a world with OH
-- [ ] Start to rollout SCDF for VistA users on va.gov Medical Records
+- [ ] Move all filtering of data to the client level (vets-api) for consistency across datasources
+- [ ] Optimize SCDF data retrieval and display by converting/creating a FHIR data store
+- [ ] Define BB and CCD integration strategy for OH world
+- [ ] Begin VistA user rollout preparation on va.gov Medical Records
 
-Expected completion: Months away
+**Expected completion: FY26 Q3 (Apr–Jun 2026)**
 
-## Phase 3: VistA users to SCDF
+## Phase 3: VistA Users to SCDF
 
-In this phase we will focus on migrating VistA users to SCDF as their primary datasource for medical records. This will involve ensuring that SCDF can handle the data needs of VistA users and providing a seamless transition experience.
+Migrate VistA users to SCDF as their primary datasource, completing the unified Medical Records experience.
 
-Things we are **likely** (but not guaranteed) to happen:
+**Planned work:**
 
-- [ ] Complete SCDF integration for VistA users on va.gov Medical Record
-- [ ] Migrate all VistA users to SCDF as their primary datasource for medical records
+- [ ] Complete SCDF integration for VistA users on va.gov Medical Records
+- [ ] Migrate all VistA users to SCDF as their primary datasource
 - [ ] Decommission legacy datasources (PHR, BB) for medical records
+
+**Expected completion: FY26 Q4 (Jul–Sep 2026)**
