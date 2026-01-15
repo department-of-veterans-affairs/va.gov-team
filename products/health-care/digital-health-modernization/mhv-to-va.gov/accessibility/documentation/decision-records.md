@@ -2,7 +2,7 @@
 
 Inventory of design-related decisions impacting accessibility, along with the rationale for the decision and a list of standards or other factors impacted by the decision.
 
-Last updated: 8 Jan 2026
+Last updated: 15 Jan 2026
 
 ## Wayfinding
 
@@ -58,3 +58,12 @@ Use a monospaced typeface to address alignment issues for plain text content tha
 - **Last reviewed:** 4 Dec 2025
 - **Updated:** 8 Jan 2026
 
+## Interaction
+
+### Truncated Labels
+
+When using truncated link and control labels (e.g., "Appts" for "Appointments"), set the programmatic name to the full label when the truncated label is unintelligible when read by screen reader software. Otherwise, use the same label for the visible label and programmatic name.
+
+-  **Rationale:** “Appointments shortens to Appts, which is both hard to pronounce and not something people commonly say. Screen reader users might recognize Appts as meaning Appointments, but it's more for them to try to parse out. When a sighted voice command user sees Appts, my guess is they're more likely to correctly parse the word and say 'Appointments' than they are to successfully say 'Appts' in a way that their software will recognize. Voice command software typically has other ways of selecting a link as a fallback if a user doesn't discover that Appointments works.” Excerpted from [Staging Review finding: Abbreviated link text difficult to understand for screen reader users #84242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84242)
+- **Relevant standards:** WCAG: [SC 2.5.3 Label in Name (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/label-in-name): For user interface components with labels that include text or images of text, the name contains the text that is presented visually.
+- **Last reviewed:** 15 Jan 2026
