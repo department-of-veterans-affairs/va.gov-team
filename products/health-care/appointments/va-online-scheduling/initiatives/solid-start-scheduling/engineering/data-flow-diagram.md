@@ -22,7 +22,7 @@ flowchart LR
     
     Frontend -->|JWT + Book appt| VetsAPI
     VetsAPI -->|Save appt| VASSAPI
-    VASSAPI -->|Store appt| Dynamics
+    VASSAPI <-->|Appt data| Dynamics
     Dynamics -->|Trigger email| VANotify
     VANotify -->|Confirmation| Veteran
     VASSAPI -->|Appt info| VetsAPI
