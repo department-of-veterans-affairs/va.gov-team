@@ -18,6 +18,9 @@
 **Anna: Have we completed the pilot session(s)?**
 - Answer: 
 
+**All: Is the notetaking template clear for notetakers?**
+- Answer: 
+
 **Mikal: Are the prototypes ready to be used in the study?**
 - Answer: 
 
