@@ -51,10 +51,12 @@
 
 ## **Recommendations**
 
-Our findings suggest that the warning alert is largely successful when we can retrieve the user’s disability alert, with the resource pages providing supplemental answers to questions that Veterans might have. We’ve articulated some opportunities to iterate on below:
+1. **Move forward with the warning alert as our main message to Veterans with a 100% disability rating.** Our findings suggest that the warning alert's content is largely successful when we can retrieve the user’s disability alert, with the resource pages providing supplemental answers to questions that Veterans might have.
 
-1. **Consider utilizing a resource page to explain exception scenarios.** While these details may not fit in the alert itself, additional context may be helpful in either existing or new resource pages for Veterans that want to learn more, including the nuances surrounding the Medicaid nursing home rule.
+2. **Insert "We always the higher payment" into the blue info alert.** In case Veterans are unsure whether they can receive both benefits at the same time, this sentence may provide additional clarity.
 
-2. **Integrate these findings into a resource page for the different types of pensions and other benefits.** [This C/IA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118378) already exists, but the page has not been published. This work can be further supported by the research we’ve conducted. 
+3. **Consider utilizing a resource page to explain exception scenarios.** While these details may not fit in the alert itself, additional context may be helpful in either existing or new resource pages for Veterans that want to learn more, including the nuances surrounding the Medicaid nursing home rule.
 
-3. **Consider how payment amounts are represented on the pension rate and disability rate pages.** Currently, pension displays annual amounts, and disability displays monthly amounts. The higher numbers on the pension page may mislead users to interpret pension as the greater benefit.
+4. **Integrate these findings into a resource page for the different types of pensions and other benefits.** [This C/IA intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118378) already exists, but the page has not been published. This work can be further supported by the research we’ve conducted. 
+
+5. **Consider how payment amounts are represented on the pension rate and disability rate pages.** Currently, pension displays annual amounts, and disability displays monthly amounts. The higher numbers on the pension page may mislead users to interpret pension as the greater benefit.
