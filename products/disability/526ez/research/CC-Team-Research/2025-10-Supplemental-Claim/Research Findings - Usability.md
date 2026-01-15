@@ -336,7 +336,7 @@ All 4 expressed familiarity with the concept, but weren’t sure how the VA refe
 
 ## Additional Insights
 
-### 1. The “Cancel adding this condition” button draws negative attention
+### 1. The “Cancel adding this condition” button draws negative attention.
 The “Cancel adding this condition” button is the first button that appears on every screen in the Conditions loop right after the primary information entry. Several participants paused on this button as they were looking to move to the next screen. Two participants reacted negatively to its prominence, interpreting it as the VA’s way of discouraging them from claiming the condition.
   - _“They really want you to cancel adding this condition because it’s really highlighted - they’re fishing!” **(P7)**_
   - _“I would hit continue because I don’t want to cancel - I want more money, thank you!” **(P8)**_
@@ -347,40 +347,70 @@ The prominence of the “Cancel…” button also made the Review screen more co
 [IMAGE - FORTHCOMING - "Sequential screens featuring large ‘Cancel’ buttons and red all-caps ‘Delete’ buttons are perceived as discouraging to some Veterans."]
 
 
+### 2. The 'Date worsened' screen is still a usability problem.
+The Claim for Increase path features a ‘Date worsened’ screen asking participants to define when their condition began worsening. 5 of 10 participants had difficulty with this screen.
+  - _“I wouldn’t know the day and year. I don’t pay attention to the exact date. I just noticed that overall things got worse.” **(P1)**_
+  - _“How do you know exactly when something got worse?” **(P10)**_
+  - _“A lot of the vets don’t know that answer because they don’t have the record in front of them, so a lot of times those dates are left blank.” **(P12, Adviser)**_
+
+
+### 3. Veterans generally understood the evidentiary requirements for a Supplemental Claim. 
+The prototypes informed users of the different evidentiary requirements (“new and relevant evidence” or “a change in law”) for Supplemental Claims. Veterans generally understood these concepts, but “evidence” was better understood than “change in law.”
+
+#### New, relevant evidence
+Most participants understood the idea of “new evidence.” This makes sense, since it’s a place where the Veteran’s intent matches the VA procedural requirement -- mapping naturally to Veterans’ mental models. 
+But it also heightened Veterans’ anxiety about how they would provide that evidence to VA. 
+  - _“How do I actually submit those letters? … I would hope I’d be able to scan the letters into the system and attach it to my request or that I’d be provided with very specific instructions on how to submit my relevant evidence.” **(P8)**_
+  - _“I’m never going to wait on the VA to gather documents for me.” **(P4)**_
+  - This relates to [Finding 3: Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
+
+#### Change in law
+“Change in law” was more difficult to understand, dipping into legal territory that is understandably intimidating.
+  - _“The only thing that confuses me is the ‘change in law’ because is that really a law, the PACT Act? Even though it’s an act, and I know it got passed…” **(P4)**_
+  - _“‘Oh goodness, I don’t know… laws… maybe I need to delete this because I don’t want to do something I’m not supposed to do.’ When you start saying ‘law,’ people get kind of … eerie.” **(P12, Adviser)**_
+  - P12, an adviser, said Veterans often seek confirmation when confronted with an unknown: _“Like, wait a minute - a new law? Let me confirm what it is.”_
+
+2 non-adviser participants understood both requirements and were able to clearly articulate the difference.
+
+
+### 4. Subheaders that group conditions by type (rated or denied) support quick recognition and scannability of the condition list.
+4 of the 10 participants expressed explicit preference for condition grouping via subheaders.
+  - _“The way my brain works, I start sorting by groups. Banana, I have to read everything in it. Apple, I can scan the headers and go straight to denied conditions.” **(P3)**_
+  - _“I like the bold print that divided the conditions.” **(P12)**_
+
+
+### 5. Some participants wanted to see the conditions list in order. 
+5 of the 10 participants wish the conditions list was organized according to an order, whether alphabetically, or by rating percentage. Some participants said that denied conditions should appear before rated conditions within the list to visually prioritize the conditions with the perceived greatest opportunity for change: _“so I can see if there’s something I can try to do.” **(P4)**_
+
+[IMAGE - FORTHCOMING]
+
+  - _“My logical brain would like to see the higher percentage ones on top, like what I’m more disabled on, and then what I could work on with 0% at the bottom.” **(P4)**_
+  - _“I’d like to see this list in alpha order or in accordance to rating percentage, probably lower to higher because here it feels all over the place and I’d like to see a little order.” **(P10)**_
+  - _“I’d rather see these in alpha order. It’s not even listed by percentage. I would do something like that, not random like this.” **(P13)**_
+
+
+### 6. The dynamic condition list was understood and appreciated
+Most participants noticed that conditions disappeared from the ‘Add a condition’ screen after they’d been added to the claim. They appreciated this behavior as a way to prevent errors. This echoes our finding in the previous study.
+  - _“Makes sense because you don’t want to create multiple of the same [claim] by accident.” **(P3)**_
+  - _“It’s good that hypertension is gone so I don’t make a mistake and claim the same thing I claimed before. I could forget.” **(P1)**_
+  - _“Oh wait the two that I did are gone. That’s cool - so I can’t open a claim on one I’ve already opened a claim on. I can’t go screw those up or edit and mess them up.” **(P4)**_
+
+
+### 7. Form fatigue was present, but not prevalent.
+1 of the 10 participants expressed fatigue with the number of screens or length of the form. Another participant, an adviser, predicted that the form’s screen count would contribute to Veteran confusion. 
+  - _“They [Veterans] want the least time-consuming and most simple approach so that the average older Veteran is able to understand it … [they] want fewer screens to go through.” **(P6, Adviser)**_
+  - _“This is going to take forever! My finger is getting tired!” and when asked what they think is going to happen or what they would expect the next screen to show, said “They’re going to ask me a bunch of other weird questions … It’ll be a bunch of questions over and over again. Why won’t these people just pick up the phone and call me because it would take less time.” **(P7)**_
+
+Veterans were typically more fatigued by the process of application, not the form itself.
+  - _“I don't want to file until you all put this on the website cause it's so overwhelming right now. I need to have a day where my head isn't hurting, where I’m not super anxious. Whereas if I had this it'd be easy peasy.” **(P4)**_
+  - _“It [filing to disagree with a VA decision] was frustrating. They said favorable findings but they didn't want to accept that. I could have pursued it more but I was frustrated with the process… They said I needed to go to a nexus. I didn't want to pay out of pocket and I left it alone.” **(P10)**_
+  - When asked how they’d advise a new Veteran about the disability benefits application process: _“Most importantly, grab all your paperwork. I'm sure they have electronic files now. Get copies of everything. Go down to the VA and plan on spending the whole day there. Take your time, try not to get frustrated. It's a slow process, nothing goes quickly.” **(P3)**_
+
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
-
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
-
-## Product User and Business Outcomes
-
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-### Desired User Outcome 
-This research supports our desired user outcome by....
- 
-### Desired Business Outcome
-This research supports our desired business outcome by....
 
 
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
-  
 
 ## Next Steps
 
