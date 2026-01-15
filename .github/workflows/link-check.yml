@@ -47,6 +47,7 @@ jobs:
       - name: Run lychee on changed files
         uses: lycheeverse/lychee-action@v1
         with:
+          lycheeVersion: latest
           args: >
             --verbose
             --no-progress
