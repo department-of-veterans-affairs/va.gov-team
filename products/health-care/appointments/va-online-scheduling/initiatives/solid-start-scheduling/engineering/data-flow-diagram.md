@@ -1,5 +1,5 @@
 # Data flow diagram
-
+```
 flowchart TD
     A[Veteran] -- Schedules/Confirms Appointment<br/>Inputs: Last Name, DOB, OTC --> B[va.gov Frontend]
     B -- Inputs sent via HTTPS/TLS 1.3+ --> C[vets-api]
@@ -27,3 +27,4 @@ flowchart TD
     %% Data encryption notes
     classDef encrypted fill:#e5f5e0,stroke:#32cd32;
     class D,F encrypted;
+```
