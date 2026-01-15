@@ -19,7 +19,7 @@ _(add links as these are created)_
 #### Research summation artifacts:
 - [Top-line summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Top-line-Summary.md)
 - [VA recruitment checker for equality](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1601397161#gid=1601397161&range=A1)
-- Final report
+- [Final report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-10-Supplemental-Claim/Research%20Findings%20-%20Usability.md)
 - Presentation PDF (optional)
 - Research recordings, transcripts, and notes on SharePoint
 - Presentation PDF
