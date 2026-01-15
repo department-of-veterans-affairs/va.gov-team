@@ -1,3 +1,157 @@
+---
+title: "Pension Disability Alert Research Findings"
+product: "Veterans Pension"
+team: "Pension Burial Benefits"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2026-01-15"
+researchers: 
+  - "Megan Graham"
+  - "Elisabeth Chin"
+research_goals:
+  - "Support Veterans during Taking Care of Myself and Retiring phases when evaluating financial benefits options"
+  - "Help Veterans with 100% disability ratings explore additional financial benefits and understand relationship between disability compensation and pension"
+  - "Provide clear, accurate information about benefit eligibility before Veterans invest time in applications that will not increase their compensation"
+  - "Reduce VA processing time for applications from Veterans who are ineligible or unlikely to receive additional compensation due to existing disability benefits"
+  - "Validate whether Veterans with 100% disability ratings understand that applying for pension is unlikely to increase their compensation"
+  - "Test whether messaging effectively prevents unnecessary applications while maintaining trust and clarity"
+methodology:
+  - "Moderated usability testing"
+  - "Prototype testing"
+  - "Remote sessions"
+devices_used:
+    desktop: 6
+    tablet: 0
+    smartphone: 0
+    assistive_technology: 0
+participants_total: 6
+demographics: 
+  veterans: 6
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
+  age: 
+    "25-34": 0
+    "35-44": 2
+    "45-54": 0
+    "55-64": 2
+    "65+": 2
+    unknown: 0
+  education: 
+    high_school: 0
+    some_college: 0
+    associates: 2
+    bachelors: 2
+    masters: 2
+    doctorate: 0
+    unknown: 0
+  location: 
+    urban: 5
+    rural: 1
+    unknown:  0
+  race:
+    white: 2
+    black:  2
+    hispanic: 2
+    biracial: 2
+    asian: 0
+    native: 0
+    prefer_not_to_answer: 2
+  gender:
+    male: 4
+    female: 0
+    transgender: 1
+    nonbinary: 1
+    prefer_not_to_answer: 1
+  lgbtq: 
+    transgender: 1
+    nonbinary_genderfluid_genderqueer_twospirit: 1
+    gay_lesbian_bisexual: 0
+  military_branch:
+    army: 100% disability rating
+    navy: 3
+    air_force: 1
+    marines: 0
+    coast_guard: 0
+    space_force: 0
+  disability: 
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile:  0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
+key_findings: 
+  - "All participants (100%) demonstrated understanding that their current disability pay is the greater benefit and recognized they already receive a higher payment than what pension might provide"
+  - "Most participants (67%) preferred the yellow warning alert for its detail, clearer title, better expectation management, and thorough answers"
+  - "Half of participants said they would not apply for pension, while the other half said their next step would be to click resource links to review pension rates and learn about differences before deciding"
+  - "Most participants (50%) noticed the Medicaid nursing home exception and raised additional questions about edge cases where pension might be beneficial"
+  - "Most participants had limited familiarity with Veterans pension (only 33% were familiar) and had questions about how it relates to other benefits and eligibility criteria"
+  - "One participant interpreted the phrase 'We always pay the higher amount' negatively, while others found it clarifying"
+  - "The visual prominence of the yellow warning alert contributed to engagement, with 83% of participants reading the content aloud without prompting"
+recommendations:
+  - "Move forward with the warning alert as main message to Veterans with 100% disability rating (High Priority)"
+  - "Insert 'We always pay the higher amount' into the blue info alert for API-failed scenario (Medium Priority)"
+  - "Consider utilizing a resource page to explain exception scenarios such as Medicaid nursing homes (Medium Priority)"
+  - "Integrate findings into a resource page for different types of pensions and other benefits (Low Priority)"
+  - "Consider how payment amounts are represented on pension rate and disability rate pages to ensure consistency in format and clear labeling (Low Priority)"
+kpi_alignment:
+  - "Application Start Rate for Veterans with 100% Disability Ratings"
+  - "Click-Through Rate on Resource Links"
+  - "Pension Application Completion Rate for Veterans with 100% Disability Ratings Who Proceed Past the Alert"
+  - "Call Center Inquiries About Pension Eligibility for 100% Disabled Veterans"
+outcomes:
+  user: "Veterans with 100% disability ratings can quickly and accurately determine whether applying for Veterans Pension will increase their monthly compensation, saving them time and effort"
+  business: "Reduce the volume of pension applications from Veterans with 100% disability ratings who are unlikely to receive additional compensation, allowing pension processors to focus on applications more likely to result in benefits"
+opportunity_areas:
+  - "Veterans with 100% disability ratings need clear, upfront messaging about pension eligibility to avoid wasting time on applications that won't increase their compensation"
+  - "Veterans need better understanding of exception scenarios where pension might provide higher compensation than disability (e.g., Medicaid nursing home residents)"
+  - "Veterans need comprehensive resource content that differentiates between VA pension, military retirement pension, Social Security, and other benefit types"
+  - "Veterans need consistent representation of payment amounts across pension rate tables and disability compensation rate tables"
+further_research_needed:
+  - "Organic navigation patterns to the pension introduction page - how Veterans naturally discover this page and whether they arrive with accurate expectations"
+  - "Long-term behavior after seeing the alert - whether Veterans return to the page later or contact the call center with questions after initial exposure"
+  - "Effectiveness of resource content for exception scenarios - testing whether enhanced resource pages adequately answer questions about Medicaid nursing homes and other edge cases"
+  - "Impact on Veterans in actual exception scenarios - recruiting and testing with Veterans who are in Medicaid nursing homes or other situations where pension might provide higher compensation"
+  - "Accessibility testing for alert content with screen reader users, magnification users, and other assistive technology users"
+underserved_groups_missing: 
+  - "Rural Veterans (only recruited 1 of target 2 participants)"
+  - "Veterans 65+ (only recruited 2 of 6, or 33%, though age 65+ is a pension eligibility criterion)"
+  - "Veterans with high school education or less (recruited 0 of target 2 participants)"
+  - "Women Veterans (recruited 0 of target 1 participant)"
+  - "Veterans of color (race data incomplete; unable to verify if 30% target was met)"
+  - "Veterans using assistive technology (recruited 0; accessibility testing needed for screen readers, magnification, and other AT)"
+secondary_research:
+  - "None cited in this study"
+synthesis_tools_used:
+  - "Topline summary analysis"
+  - "Figma prototype"
+  - "Participant quote extraction and categorization"
+  - "Quantitative frequency counts across participant responses"
+tags:
+  - "AUD: Veterans"
+  - "BNFT: Pension"
+  - "BNFT: Disability"
+  - "DSC: Alert Boxes"
+  - "DSP: Content Presentation"
+  - "DSP: Contextual Help"
+  - "HDW: Desktop"
+  - "PRDT: Veterans-Pension"
+  - "usability-testing"
+  - "evaluative"
+  - "authenticated-experience"
+  - "eligibility"
+  - "content-strategy"
+  - "messaging"
+  - "introduction-page"
+  - "disability-rating"
+  - "benefit-comparison"
+---
+
 # Pension Disability Alert Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Pension, Pension Burial Benefits**
