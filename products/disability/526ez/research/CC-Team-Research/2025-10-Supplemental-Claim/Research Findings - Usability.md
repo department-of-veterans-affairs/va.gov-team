@@ -409,7 +409,37 @@ Veterans were typically more fatigued by the process of application, not the for
 
 ## Recommendations
 
+### 1. Implement Prototype Banana’s ‘Add a condition’ screen once the decision to support Supplemental Claims in the 526 form is finalized.
+Support for Supplemental Claims in the 526 form is currently on hold. Referencing a previous datapoint, in 2025, new conditions typically represented 82-86% of all conditions submitted in the online 526 (per [Datadog](https://dsva.slack.com/archives/C04AZ8T7XN1/p1767819120902409?thread_ts=1767818877.619919&cid=C04AZ8T7XN1)). Given that adding a new condition is the most common use case for this form, this is a serious problem with the Apple design. 
+  - There is an opportunity to explore future iterations of this page as detailed in the [Next Steps](#user-content-next-steps) section.
 
+
+### 2. Assume a Claim for Increase for rated conditions (vs a Supplemental Claim) to remove decision burden for users.
+The paper intake process operates per this same assumption, and the online experience should align with that approach. Since participants struggled to distinguish between a Claim for Increase and a Supplemental Claim (see [Finding 2](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)).
+
+
+### 3. Provide decision support to help Veterans understand the differences between a Claim for Increase and a Supplemental Claim.
+If we decide to let users choose between either claim pathway for rated disabilities, the UI needs to include intent-oriented context so that Veterans understand the options and are able to make a confident decision.
+  - Provide plain-language guidance that starts with Veteran’s intent rather than VA terminology. It may be helpful to anchor the options in relation to different points in time.
+    - Example: My condition has worsened over time > Claim for Increase; I’m challenging the original decision > Supplemental Claim.
+  - We will need to test the content again with users.
+
+
+### 4. Make room for users to provide context and justification right after adding a condition.
+This could be as simple as introducing a free-text field that allows the user to satisfy their narrative expectation. 
+  - The current paper versions of form 21-526EZ for disability benefits and Claims for Increase and form 20-0995 for Supplemental Claims both allow for addendums and evidence attachments, so incorporating a free text field on the digital version of this form for Veteran context further aligns the online and paper forms.
+
+
+### 5. Make it clear and explicit that Veterans will be asked for evidence at a specific point later in the form.
+This approach better aligns with Veterans’ mental model of filing - an intent-based process focused on “helping the VA say yes” - and reduces anxiety about whether their submission is complete.
+
+
+### 6. List conditions in alphabetical order on the ‘Add a condition’ screen. 
+This will promote scannability and user wayfinding at the outset of the Conditions step of the disability application process. 
+
+
+### 7. Explore asking Veterans to indicate whether their Supplemental Claim is based on new evidence or a change in law.
+Consistent with recommendation 5, Veterans expect the opportunity to not only contextualize the why of how they’re filing, but to provide justification as well. They are outcome-oriented when it comes to filing for disability benefits. 
 
 
 ## Next Steps
