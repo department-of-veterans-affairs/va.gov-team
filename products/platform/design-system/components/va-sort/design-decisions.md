@@ -3,6 +3,7 @@ Last updated: 01-15-2026
 
 - [ADR: 001 - Add a Filter and Sort variant to Search Filter component](#adr-001---add-a-filter-and-sort-variant-to-search-filter-component)
 - [ADR: 002 - Swap position of Sort component and results description](#adr-002---swap-position-of-sort-component-and-results-description)
+- [ADR: 002 - Swap position of Sort component and results description](#adr-002---swap-position-of-sort-component-and-results-description)
 
 
 ## ADR 001 - Add a Filter and Sort variant to Search Filter component
@@ -35,7 +36,7 @@ _Describe the consequences of the decision. This could include positive and nega
 ### Status: ✅Accepted 
 
 - Date issue raised: 01-15-2026
-- Decision date: 01-15-2026, Design Sync (Barb, Jeana, Carol)
+- Decision date: 01-15-2026, Design Sync (Derek, Barb, Jeana, Carol)
 
 ### Context
 Current placement of Sort below the Filter creates an issue where its focus can be skipped if a filter is applied because guidance indicates that focus should move to the Results Description (which is after the Sort component). A SR user would have to navigate backwards to use the Sort. [Link to Discussion](https://dsva.slack.com/archives/C01DBGX4P45/p1768317611978929?thread_ts=1768243854.226399&cid=C01DBGX4P45)
@@ -52,4 +53,22 @@ Move Sort below Results description.
 - None identified by Accessibility
 - None identified by Design
   - Data point: [Sutter Health](https://www.sutterhealth.org/find-provider-results?query=%22dermatology%22&verticalKey=healthcare_professionals) implements the same approach
+
+
+
+## ADR 003 - Remove mention of Sort in the results description.
+
+### Status: ✅Accepted 
+
+- Date issue raised: 01-15-2026
+- Decision date: 01-15-2026, Slack Discussion (Derek, Jeana, Sarah Horton, Shawn Collins)
+- 
+### Context
+Current results description mentions the sort which is redundant. It is also awkward to mention that results are being sorted in a particular way before the sort controls are shown (in the reading order). 
+
+### Decision
+Remove mention of Sort in the results description.
+
+### Consequences
+- 
 
