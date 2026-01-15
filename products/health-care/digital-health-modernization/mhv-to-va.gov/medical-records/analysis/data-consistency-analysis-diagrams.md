@@ -413,6 +413,8 @@ These diagrams should help identify where to focus your consistency analysis eff
 
 -------------
 
+## Prompt information
+
 Prompt:
 The purpose of this analysis is to identify and flag any inconsistences that would impact data presented in three different formats on four different platforms, based on the data sources, backend, middleware, and user interface layers, and variations in transformations and business rules applied in any of those layers to clearly identify discrepancies in the final user-facing outputs.
 
