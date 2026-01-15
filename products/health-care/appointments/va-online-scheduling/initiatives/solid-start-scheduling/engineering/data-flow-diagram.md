@@ -1,30 +1,18 @@
 # Data flow diagram
-```
+```mermaid
 flowchart TD
-    A[Veteran] -- Schedules/Confirms Appointment<br/>Inputs: Last Name, DOB, OTC --> B[va.gov Frontend]
-    B -- Inputs sent via HTTPS/TLS 1.3+ --> C[vets-api]
-    C -- OTC validated (hashed, stored in Redis)<br/>JWT issued if valid --> D[Redis (short-lived)]
-    C -- Appointment APIs (JWT Bearer via TLS) --> E[VASS API]
-    E -- Calls over TLS --> F[MS Dynamics DB]
-    F -- Appointment Data<br/>(PII, minimal; only as needed)
-    C -- Sends email/OTC via HTTPS/TLS --> G[VA Notify (GovCloud)]
-    
-    subgraph Storage_Locations [Data Storage]
-      D
-      F
-    end
+    Veteran["Veteran"] -->|Inputs: Last Name, DOB, OTC| Frontend["va.gov Frontend"]
+    Frontend -->|HTTPS/TLS| VetsAPI["vets-api"]
+    VetsAPI -->|Validate OTC, Issue JWT| Redis["Redis - hashed, 10 min TTL"]
+    VetsAPI -->|Bearer JWT via TLS| VASSAPI["VASS API"]
+    VASSAPI -->|TLS| Dynamics["MS Dynamics DB"]
+    VetsAPI -->|Send OTC Email/SMS| VANotify["VA Notify"]
+    VetsAPI -->|Log Auth/Events| AuditLog["Audit Logs"]
 
-    %% Audit trails
-    C -- Logs Auth attempts, OTC issuance/validation, API access, error events (audit log) --> H[Audit Log (Splunk/Cloudwatch)]
-
-    %% Access Levels
-    A-.->|Read/Write self|B
-    B-.->|Read/Write session<br/>(transient)|C
-    C-.->|Read/Write (OTC cache)<br/>Read/Write appointments|D
-    C-.->|Read/Write appointments|E
-    E-.->|Read/Write appointments|F
-
-    %% Data encryption notes
-    classDef encrypted fill:#e5f5e0,stroke:#32cd32;
-    class D,F encrypted;
+    %% Data access
+    Veteran -.->|Read/Write self| Frontend
+    Frontend -.->|Session only| VetsAPI
+    VetsAPI -.->|Read/Write OTC| Redis
+    VetsAPI -.->|Read/Write appointments| VASSAPI
+    VASSAPI -.->|CRUD appointments| Dynamics
 ```
