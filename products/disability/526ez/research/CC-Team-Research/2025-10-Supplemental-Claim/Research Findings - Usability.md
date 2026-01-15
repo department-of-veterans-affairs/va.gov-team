@@ -197,7 +197,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 ## Key Findings
 
 1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
-2. It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.
+2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.
 4. Participants had trouble adding a new condition in the prototype Apple.
 5. Users were successful in adding secondary conditions, although they don’t know VA terminology.
@@ -241,8 +241,45 @@ Various factors informed the preferences between the two prototypes:
 
 
 ### Finding 2: It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim. 
-Brief description  
-- _Supporting data: Quote [add context]_  
+Building on our mental model findings (explored in detail in a separate, dedicated report), Veterans frame disability filing around goals and reasons - not procedural pathways. Requiring Veterans to think in terms of procedural categories caused problems at one critical point in Prototype Banana.
+
+Prototype Banana allows users to file a Supplemental Claim for a rated disability (not just a denied condition, like in prototype Apple). When a user adds a rated disability to their claim, they are asked to choose between a Claim for Increase and a Supplemental Claim. This requirement caused so much confusion in the first four research sessions that we modified the prototype, adding more explanatory content before requiring them to choose. But this new content did little to reduce confusion. 
+
+[IMAGE - FORTHCOMING]
+
+>[!NOTE]
+>This distinction only appeared in Prototype Banana; Prototype Apple did not offer the choice of a Supplemental Claim on a rated disability.
+
+#### Perceived differences between claim options
+Veterans perceived both options as the same thing: trying to get a higher rating by adding more evidence.
+  > **P1:** “These are the same, they’re just worded differently. For both, you’re trying to get an increase… Why is it different if I have evidence for all of them?”
+
+  > **P3:** “It’s giving me two options, two ways to claim this. They seem very closely similar.”
+
+  > **P6, Adviser:** “If your condition’s gotten worse, then we’re asking them to increase it. But then when you’re talking about filing an appeal, that’s going to confuse some Veterans because they think, OK, I disagree with my rating. So, is that an increase or I’m disagreeing with my rating that I have now?"
+
+The confusion prompted some Veterans to express distrust. 
+  > **P1:** “It didn’t really explain what the Supplemental Claim was. It only shows me this [information about evidence] if I click the ‘Appealing’ one. However, if you click the increase, I might have evidence for that as well, but it doesn’t show me this when I click on the ‘Increase.’ **I think that’s misinformation.**”
+
+#### Task success vs. conceptual understanding
+On the other hand, most participants actually chose the correct option on the CFI Distinction screen in Banana. It was when we asked them to explain the difference or when they reached the ‘Review your conditions’ screen that they became confused.
+- We believe their ability to choose correctly may be an artifact of the test environment. The moderator laid out clear scenarios and set intent specific to either increase or appeal. In the real world, Veterans are likely to reach this screen with the intention to "get a higher %" and then become confused about which option to choose.
+
+#### Context screens work when they resolve uncertainty
+The ‘Supplemental Claim info’ screen (which appeared after the user chose a denied condition to add) was valued when it answered a decision question, but was otherwise redundant or confusing.
+
+[IMAGE - FORTHCOMING]
+
+
+### Finding 3: Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.
+Telling their story and providing evidence are primary pillars of Veterans’ mental model around disability benefits. But the online 526 structure does not match that model.
+
+[IMAGE - FORTHCOMING]
+
+
+
+
+
 
 ---
 
