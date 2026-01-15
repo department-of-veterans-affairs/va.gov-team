@@ -98,7 +98,6 @@ synthesis_tools_used:
 **Contacts:** [Clara Fritz](https://github.com/maddiefritz), [Kim Ladin](https://github.com/KimLadin)
 
 **Research Readout (PDF) - forthcoming**  
-*Add a link to your research readout deck, if available.*
 
 **Jump to:**
 - [Background](#user-content-background)
@@ -197,28 +196,16 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
+1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
+2. It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.
+3. Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they weren’t able to.
+4. Participants had trouble adding a new condition in the prototype Apple.
+5. Users were successful in adding secondary conditions, although they don’t know VA terminology.
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Finding one
-1. Finding two
-1. Finding three
-1. Finding four
-1. Finding five
-1. Finding six
-1. Finding seven
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
-### Finding 1
+### Finding 1: Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple.
 Brief description  
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![description of the image (image)](link - add image to github folder and link here with .png)_  
