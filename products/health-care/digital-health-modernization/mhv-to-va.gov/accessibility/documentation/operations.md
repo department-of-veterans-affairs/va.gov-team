@@ -14,7 +14,7 @@ How the MHV Accessibility team addresses accessibility-related issues in MHV pro
 
 ## Resources
 
-- **Accessibility Issue Template**
+### Accessibility Issue Template
   - [Source file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/mhv-a11y-issue.yaml) — for editing/updating template
   - [Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=mhv-a11y-issue.yaml) — to use when creating new issues
   - [Template worksheet](https://docs.google.com/spreadsheets/d/11HE2B-PnisZ7xAKMzIoqbQ9HFmsyTrVFmXmTinA7bBc/edit?gid=1355646705#gid=1355646705) — for keeping track of fields and edits
