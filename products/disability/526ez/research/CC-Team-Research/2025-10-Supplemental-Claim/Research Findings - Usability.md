@@ -199,7 +199,7 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 1. [Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in the prototype Apple.](#user-content-finding-1-veterans-strongly-prefer-viewing-all-of-their-conditions-both-rated-and-denied-on-the-add-a-condition-screen-as-in-prototype-apple)
 2. [It is extremely difficult for Veterans to differentiate between a Claim for Increase and a Supplemental Claim.](#user-content-finding-2-it-is-extremely-difficult-for-veterans-to-differentiate-between-a-claim-for-increase-and-a-supplemental-claim)
 3. [Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.](#user-content-finding-3-veterans-expect-to-provide-contextual-information-and-evidentiary-support-about-their-claim-and-were-confused-about-how-to-do-that-and-why-they-were-not-able-to)
-4. [Participants had trouble adding a new condition in prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
+4. [Participants had trouble adding a new condition in Prototype Apple.](#user-content-finding-4-participants-had-trouble-adding-a-new-condition-in-protoype-apple)
 5. Users were successful in adding secondary conditions, although they don’t know VA terminology.
 
 
@@ -211,14 +211,12 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 #### The conditions list
 
 9 of the 10 participants strongly appreciated seeing the full conditions list on a single page, supporting user orientation and recall. 
-  > **P8:** “It showed me immediately those things that were not approved and those that were denied. Especially when people are not physically well or have mental health issues or they have PTSD…are you really going to remember what you were denied in the past?”
-
-  > **P10:** “Everything is right there, I don’t have to click on something else and wait for another page to load.”
+  - _“It showed me immediately those things that were not approved and those that were denied. Especially when people are not physically well or have mental health issues or they have PTSD…are you really going to remember what you were denied in the past?”**(P8)**_
+  - _“Everything is right there, I don’t have to click on something else and wait for another page to load.” **(P10)**_
 
 While users had an easy time adding a Supplemental Claim on both prototypes, Banana imposed more cognitive burden by requiring Veterans to remember their denied conditions rather than displaying them up front. Denied conditions were hidden on a secondary page, requiring extra clicks and delaying clarity. This approach also conflicted with Veterans' outcome-driven expectations by postponing information about other claim pathways. Several Veterans expressed doubt they'd remember everything they'd been denied:
-  > **P8:** “I guess your memory would have to be very good. You’d have to know whether you’d claimed it before and whether or not it was previously denied.”
-
-  > **P13:** “What if I don’t remember what I applied for?”
+  - _“I guess your memory would have to be very good. You’d have to know whether you’d claimed it before and whether or not it was previously denied.” **(P8)**_
+  - _“What if I don’t remember what I applied for?” **(P13)**_
 
 Contrary to what we expected, Veterans expressed no adverse reactions to seeing a list of denied conditions.
 
@@ -252,14 +250,12 @@ Prototype Banana allows users to file a Supplemental Claim for a rated disabilit
 
 #### Perceived differences between claim options
 Veterans perceived both options as the same thing: trying to get a higher rating by adding more evidence.
-  > **P1:** “These are the same, they’re just worded differently. For both, you’re trying to get an increase… Why is it different if I have evidence for all of them?”
-
-  > **P3:** “It’s giving me two options, two ways to claim this. They seem very closely similar.”
-
-  > **P6, Adviser:** “If your condition’s gotten worse, then we’re asking them to increase it. But then when you’re talking about filing an appeal, that’s going to confuse some Veterans because they think, OK, I disagree with my rating. So, is that an increase or I’m disagreeing with my rating that I have now?"
+  - _“These are the same, they’re just worded differently. For both, you’re trying to get an increase… Why is it different if I have evidence for all of them?” **(P1)**_
+  - _“It’s giving me two options, two ways to claim this. They seem very closely similar.” **(P3)**_
+  - _“If your condition’s gotten worse, then we’re asking them to increase it. But then when you’re talking about filing an appeal, that’s going to confuse some Veterans because they think, OK, I disagree with my rating. So, is that an increase or I’m disagreeing with my rating that I have now?" **(P6, Adviser)**_
 
 The confusion prompted some Veterans to express distrust. 
-  > **P1:** “It didn’t really explain what the Supplemental Claim was. It only shows me this [information about evidence] if I click the ‘Appealing’ one. However, if you click the increase, I might have evidence for that as well, but it doesn’t show me this when I click on the ‘Increase.’ **I think that’s misinformation.**”
+  - _“It didn’t really explain what the Supplemental Claim was. It only shows me this [information about evidence] if I click the ‘Appealing’ one. However, if you click the increase, I might have evidence for that as well, but it doesn’t show me this when I click on the ‘Increase.’ **I think that’s misinformation.**” **(P1)**_
 
 #### Task success vs. conceptual understanding
 On the other hand, most participants actually chose the correct option on the CFI Distinction screen in Banana. It was when we asked them to explain the difference or when they reached the ‘Review your conditions’ screen that they became confused.
@@ -280,11 +276,9 @@ Telling their story and providing evidence are primary pillars of Veterans’ me
 In particular, Veterans know that evidence is critical to getting their claim approved. When the form doesn’t clearly show where, when, and how to add that evidence, it reduces confidence and causes confusion.
 
 Participants often mentioned expecting to upload evidence. 
-  > **P1:** “I expect I’ll be able to upload my evidence on the next screen.”
-
-  > **P10:** “I have new evidence so I'm expecting something on the next page where I have the opportunity to provide that new evidence.”
-
-  > **P13:** “I would hit edit once again for the Hypertension... It would bring up a screen and I could show them my new evidence to prove the rating needs to go up.”
+  - _“I expect I’ll be able to upload my evidence on the next screen.” **(P1)**_
+  - _“I have new evidence so I'm expecting something on the next page where I have the opportunity to provide that new evidence.” **(P10)**_
+  - _“I would hit edit once again for the Hypertension... It would bring up a screen and I could show them my new evidence to prove the rating needs to go up.” **(P13)**_
 
 Although one information screen mentions they’ll be able to upload evidence in a later step, it was not enough to set expectations, and most did not read or acknowledge the text at all. (Version 1, which explicitly mentions “step 4,” did garner more attention than the more general “later in this application” in version 2).
 - This pattern / perspective combined with the literal interpretation of language (see Additional Insights) inform the evidence-first reasoning and narrative expectation pillars of Veterans’ mental model around disabilities, claims, and appeals.
@@ -293,31 +287,46 @@ Although one information screen mentions they’ll be able to upload evidence in
 
 #### Telling their story
 Veterans expect more than the ability to upload evidence—they also want to provide context and justify their request. As a result, participants found a selection-only flow insufficient. Many expressed surprise and confusion when they were not given an opportunity to add details about their conditions, describing the experience as incomplete. Notably, even without being prompted, 6 of the 10 participants volunteered that they expected to be able to add more detail.
-  > **P1:** “I’m expecting the next screen to be something where I could add a reason, maybe some documents, for wanting that increase.”
-
-  > **P6:** “The next screen will probably ask me … why I’m filing for asthma. I’m hoping it comes up with something for me to say why.”
-
-  > **P8:** “Wouldn't they want some sort of explanation for why I want my hypertension reviewed? Are they just going to do that by looking at my medical records without any input from me?!”
+  - _“I’m expecting the next screen to be something where I could add a reason, maybe some documents, for wanting that increase.” **(P1)**_
+  - _“The next screen will probably ask me … why I’m filing for asthma. I’m hoping it comes up with something for me to say why.” **(P6)**_
+  - _“Wouldn't they want some sort of explanation for why I want my hypertension reviewed? Are they just going to do that by looking at my medical records without any input from me?!” **(P8)**_
 
 Some Veterans also wanted to indicate the basis for their Supplemental Claim. Participant 13, for example, looked for a radio button on the Supplementary Claim info screen. When that didn’t show up and she landed on the Review your conditions screen, she wanted to click “Edit” to make the selection.
-  > **P13:** “I would expect it to have a bubble [radio button] to say whether you have new evidence or you would like to review based on the new law.”
+  - _“I would expect it to have a bubble [radio button] to say whether you have new evidence or you would like to review based on the new law.” **(P13)**_
 
 #### Collateral damage on the Review screen
 The lack of follow-up questions also led to confusion when users reached the ‘Review your conditions’ screen. Getting to this screen feels sudden, as though a step is missing.
-  > **P1:** “The biggest challenge is that it just jumps straight to the review. I’m not seeing where I can add anything [re: evidence].”
-
-  > **P3:** “I’d expect it to be like: here’s my issue, here’s my documents, then on to the next one [condition].”
+  - _“The biggest challenge is that it just jumps straight to the review. I’m not seeing where I can add anything [re: evidence].” **(P1)**_
+  - _“I’d expect it to be like: here’s my issue, here’s my documents, then on to the next one [condition].” **(P3)**_
 
 This confusion may be one reason our participants were eager to interact with the ‘Edit’ buttons within each condition card on the review page:
-  > **P5:** “I would click edit to re-open the case so I can re-file … I could state my case why it should be increased.”
-
-  > **P13:** “I would hit edit and see if I can edit what they want me to edit I would put down due to the fact that the law has changed … I would expect that it would bring up a screen and I could show them my new evidence to prove the rating needs to go up.”
+  - _“I would click edit to re-open the case so I can re-file … I could state my case why it should be increased.” **(P5)**_
+  - _“I would hit edit and see if I can edit what they want me to edit I would put down due to the fact that the law has changed … I would expect that it would bring up a screen and I could show them my new evidence to prove the rating needs to go up.” **(P13)**_
 
 We did not see this kind of confusion in our previous study, probably because that study focused more heavily on adding new conditions. New conditions have the kind of follow-up questions that Veterans expect, so the Review your conditions screen made sense when they reached it.
 
 
 ### Finding 4: Participants had trouble adding a new condition in Prototype Apple.
+Adding a new condition was more difficult in prototype Apple than prototype Banana, and more difficult than we saw in [previous testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md). (June 2025 testing of the new Conditions flow found 100% success with no hesitation in selecting “a condition I haven’t claimed before.”)
+- Most participants tended to focus first on the subheadings, then on the individual options. The result is that they noticed the ‘A condition I haven’t claimed before’ option later in prototype Apple than in prototype Banana or in previous testing.
 
+[IMAGE - FORTHCOMING]
+
+Eventually, all but one of the 8 participants who were given this task in Prototype Apple was able to find the correct option. The participants who struggled the longest with this task looked in the list of rated and denied conditions for something related. 
+  - _“Maybe under Knee condition? If I clicked, it might take me to another survey with more options.” **(P5)**_
+  - _“I would make an assumption and hit knee replacement… ” **(P13)**_
+
+With prototype Banana, participants had an easier time. We believe it’s due in part to the tiled radio buttons which have the effect of individually emphasizing each available option within the condition list. Of the 7 participants who were given the task, all were successful without . 
+
+In 2025, new conditions typically represented 82-86% of all conditions submitted in the online 526 (per [Datadog](https://dsva.slack.com/archives/C04AZ8T7XN1/p1767819120902409?thread_ts=1767818877.619919&cid=C04AZ8T7XN1)). Given that adding a new condition is the most common use case for this form, this is a risk with the Apple design. 
+
+
+### Finding 5: Users were successful in adding secondary conditions, although they don’t know VA terminology.
+Due to time constraints, we were only able to ask 4 of the 10 participants about secondary conditions, but all 4 correctly guessed that they’d claim a secondary condition by selecting ‘A condition I haven’t claimed before’ from the ‘Add a condition’ screen. 
+
+All 4 expressed familiarity with the concept, but weren’t sure how the VA referred to it (except for an adviser). We introduced the concept by describing a situation in which a secondary condition was present, and asked the participants if they knew what this might be called and if they were familiar with that scenario.
+  - _“Yes! I’ve heard of it and I’m sure I’m experiencing it.” **(P4)**_ (When asked if they might know how VA refers to this situation, they said _“No.”_)
+  - _“Oh, like a secondary?” **(P12, adviser)**_
 
 ---
 
