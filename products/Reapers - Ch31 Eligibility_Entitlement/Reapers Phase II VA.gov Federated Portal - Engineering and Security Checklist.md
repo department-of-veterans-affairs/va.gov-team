@@ -74,7 +74,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 ### Questions to be Answered
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
-- Please describe what problem this product or feature solves.
+- Please describe what problem this product or feature solves. **Veterans will have the ability to track the progress of their application/case after submitting the 28-1900. As it stands now, Veterans do not have a way to check the status on their own and rely on calling their regional office. In order to minimize the wait time and allow Veterans to be involved with the most up to date information on their claim, the self-management portal will allow Veterans to see their progress in real-time along with have the ability to complete required items such as completing their orientation and scheduling their evaluation meetings straight from the portal.**
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
     - How does the code base get disabled in the product? **Team will review and disable and submit PR. We also have a maintenance window via pager duty that can be used to take it down without having to push code.**
