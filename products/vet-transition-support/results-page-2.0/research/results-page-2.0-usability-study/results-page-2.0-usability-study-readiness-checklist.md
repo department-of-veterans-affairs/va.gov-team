@@ -33,14 +33,4 @@
 **All: Is there any reason we should not proceed with the usability study sessions beginning tomorrow, Jan 16?**
 - Answer: 
 
-**Allison, Derrick and Angela: Are all launch-blocking accessibility (or other) issues fixed?**
-- Answer: Yes
 
-**Allison, Derrick and AJ: Are you prepared to manage giving UAT participants' access to the latest version of My VA with the audit improvements in production? And do you have a backup in case of an emergency?**
-- Answer: Yes
-
-**All: Is everyone prepared to attend UAT sessions in case there are issues we need to troubleshoot live?**
-- Answer: Yes
-
-**All: Does anyone have any concerns that would prevent us from moving forward with UAT?**
-- Answer:  Nope!
