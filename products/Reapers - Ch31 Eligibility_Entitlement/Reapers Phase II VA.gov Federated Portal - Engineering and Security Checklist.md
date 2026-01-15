@@ -38,7 +38,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) **No**
     + Is schema validation enforced (ex: using the vets-json-schema repo)? **N/A**
 - External API changes
-    + List new or modified APIs for upstream or external systems. **getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation. using the update-key-milestone API**
+    + List new or modified APIs for upstream or external systems. **getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation using the update-key-milestone API**
     + Describe expected call patterns. **REST API**
     + What PII or PHI will be transmitted to/from the external systems? **ICN**
 - Background jobs
