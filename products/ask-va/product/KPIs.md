@@ -102,13 +102,13 @@ This section explains how we calculate each KPI.
    - Filter: `payload.action` unauth_create
  - **Error Rate: Error rate, Reply**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
    - Filter: `payload.action` is create_reply
-- **AVG p95 Latency, Submit inquiry (auth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refres[...]
-- **AVG p95 Latency, Submit inquiry (unauth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refr[...]
-- **AVG p95 Latency, Submit reply**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=pa[...]
+- **AVG p95 Latency, Submit inquiry (auth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?tile_focus=3079491609040160)
+- **AVG p95 Latency, Submit inquiry (unauth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?tile_focus=3079491609040160)
+- **AVG p95 Latency, Submit reply**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?tile_focus=3079491609040160)
 - **Throughput, Successful Submit inquiry (auth + unauth) calls**: Count of 2xx requests
    - Filter: `payload.action` is unauth_create OR create
 
 **Data sources**
 - [GA4 exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/hQrn2ZlVRFGs0p-tT9Mgwg)
-- [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753209203948&live=[...]
+- [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard)
 - Medallia/VSignals feedback (DM Becky for access)
