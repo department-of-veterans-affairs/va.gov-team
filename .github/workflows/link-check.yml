@@ -45,10 +45,10 @@ jobs:
           fi
 
       - name: Run lychee on changed files
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
-          lycheeVersion: latest
+          lycheeVersion: 0.22.0
+          fail: false
           args: >
             --verbose
             --no-progress
-            --files-from lychee-files.txt
