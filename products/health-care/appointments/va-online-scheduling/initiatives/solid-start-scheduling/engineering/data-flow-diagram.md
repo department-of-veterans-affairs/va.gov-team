@@ -1,4 +1,5 @@
-# Context Diagram (Level 0)
+# Data Flow Diagrams
+## Context Diagram (Level 0)
 ```mermaid
 flowchart LR
     User["User"] -- "Identity / Lookup Data - Last Name, DOB, UUID" --> Process(("Schedule Appointment System"))
@@ -11,7 +12,7 @@ flowchart LR
     <img width="5677" height="1400" alt="level-0-Flow-2026-01-16-182715" src="https://github.com/user-attachments/assets/df27cb71-b5f1-4b78-b871-cd44c62248bb" />
 </details>
 
-# Level 1 DFD — Scheduling
+## Level 1 DFD — Scheduling
 ```mermaid
 flowchart RL
  subgraph Scheduling_System["Schedule Appointment System"]
@@ -32,7 +33,7 @@ flowchart RL
     <img width="4328" height="2480" alt="level1-scheduling-Flow-2026-01-16-182704" src="https://github.com/user-attachments/assets/b0cc6291-9143-40ed-a242-407f509d8fef" />
 </details>
 
-# Level 1 DFD — Cancellation
+## Level 1 DFD — Cancellation
 ```mermaid
 flowchart LR
     User["User"]
@@ -58,9 +59,9 @@ flowchart LR
     <img width="4428" height="2165" alt="level1-cancellation-Flow-2026-01-16-182620" src="https://github.com/user-attachments/assets/f1610643-88de-484f-9102-e4a52ef59808" />
 </details>
 
-# Level 2 DFD - OTP
+## Level 2 DFD - OTP
 ```mermaid
-flowchart LR
+flowchart RL
  subgraph OTP_Verification["Verify User (OTP Flow)"]
         P1["Generate OTP"]
         P2["Send OTP Notification"]
