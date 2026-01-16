@@ -64,7 +64,7 @@ Disallow all props available to va-select except the following:
 
 ### Additional considerations
 Allow debounce/delay in the onchange event (See [related guidance](https://dev-design.va.gov/5102/components/sort/#accessibility-considerations:~:text=Debounce%20network%20requests%20when%20multiple%20sorts%20occur%20in%20quick%20succession%20or%20delay%20the%20onchange%20event%20to%20check%20for%20another%20option%20selection.%20This%20prevents%20assistive%20technology%20users%20who%20do%20not%20open%20menus%20from%20prematurely%20making%20a%20selection%20while%20exploring%20sort%20options.)  for details) 
-  * Note: Teams can and should manage debouncing themselves based on their specific use-case. However, the referenced docs might be inaccurate about the event to check. It'll probably end up being the native `onKeyDown` or one of the custom events `vaSortSelect`, `vaSortKeyDown`, `vaSelectBlur`. We should investigte and update the guidance with the recommended option.
+  * Note: Teams can and should manage debouncing themselves based on their specific use-case. Teams can use one of the custom events (`vaSortSelect`, `vaSortKeyDown`, `vaSelectBlur`) to manage this. We should update the guidance to reflect this change once the correct method(s) is clear.
   
 ## Example implementation code
 
