@@ -1,3 +1,6 @@
+# 🚨 The contents of this file are inaccurate!!
+For the most up to date information see this [analysis](va.gov-team/products/claim-appeal-status/evidence-requests-improvements/evidence-dictionary-current-state.md) of the current state of evidence requests as of 1/16/2026.
+
 # How the **Improved Evidence Request** text is applied in the Claims Status Tool (CST)
 
 > **Who is this for?**
