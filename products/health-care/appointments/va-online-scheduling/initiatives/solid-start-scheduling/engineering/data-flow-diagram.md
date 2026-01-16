@@ -1,20 +1,10 @@
 # Context Diagram (Level 0)
 ```mermaid
 flowchart LR
-    User["User Browser"]
-    VASSAPI["VASS API External"]
-    VANotify["VA Notify"]
-
-    System["VASS Scheduling Experience"]
-
-    User -->|Requests and identity data| System
-    System -->|Availability and confirmations| User
-
-    System -->|Scheduling and cancellation requests| VASSAPI
-    VASSAPI -->|Availability and appointment data| System
-
-    System -->|Email requests| VANotify
-    VANotify -->|OTC and confirmation emails| User
+    User["User"] -- "Identity / Lookup Data - Last Name, DOB, UUID" --> Process(("Schedule Appointment System"))
+    Process -- Scheduling Request --> VASS["VASS Scheduling API - External System"]
+    VASS -- "Scheduling Data - User Info, Topics, Slots, Booked Appointment" --> Process
+    Process -- Scheduling Response / Next Steps --> User
 
 
 ```
