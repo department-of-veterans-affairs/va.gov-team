@@ -87,7 +87,7 @@ Last Updated: November 19, 2025
 ##  Planning Meetings
 | **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator(s)**  | 
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
-| *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Devi, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
+| *Product Planning*               | Quarterly: once every 3 months        | Denise, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
 | *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
 | *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Heather Rienks, Tom Davis  | 
 | *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Heather Rienks, Tom Davis  | 
