@@ -7,11 +7,11 @@
 | ----------------------------- | ---------- | ---------- | ---------- | ---------- |
 | vets.gov.user+228@gmail.com   | 200SsNrLgPv5 | 1012592956V095840 | 1013590059 | Someone who is ELIGIBLE and does not have an application (aka, automatic COE)
 | vets.gov.user+34@gmail.com    | 303SsNrLgPv5 | 1012829890V001762 | 1005320840 | Someone who is ELIGIBLE and does not have an application (aka, automatic COE)
-| vets.gov.user+212@gmail.com   | 145SsNrLgPv5 | 1012845700V116007 | 1100647822 | TBD, request is out to LGY to make it someone who is ELIGIBLE and has an application (aka, non-automatic COE). Should have attached documents/letters
-| vets.gov.user+258@gmail.com   | 152SsNrLgPv5 | 1012851504V621829 | 1023820672 | Someone who is ELIGIBLE and has an application (aka, non-automatic COE). Has no attached documents/letters. 
+| vets.gov.user+212@gmail.com   | 145SsNrLgPv5 | 1012845700V116007 | 1100647822 | Someone who is ELIGIBLE and has an application (aka, non-automatic COE)
+| vets.gov.user+258@gmail.com   | 152SsNrLgPv5 | 1012851504V621829 | 1023820672 | Someone who is ELIGIBLE and has an application (aka, non-automatic COE) 
 | vets.gov.user+141@gmail.com   | 393SsNrLgPv5 | 1013112726V768481 | 1015781374 | Someone who is PENDING and their application status is RETURNED and has attached documents/letters
 | vets.gov.user+192@gmail.com   | 157SsNrLgPv5 | 1012845059V795233 | 1014019258 | Someone who is PENDING and their application status is RETURNED and has no attached documents/letters
-|    |  |  |  | Someone who is PENDING and their application status is SUBMITTED and has attached documents/letters
+| vets.gov.user+23@gmail.com    | 263SsNrLgPv5 | 1012830774V793840 | 1005649753 | Someone who is PENDING and their application status is SUBMITTED and has attached documents/letters
 |   |  | | | Someone who is PENDING and their application status is SUBMITTED and has no attached documents/letters
 | vets.gov.user+111@gmail.com   | 211SsNrLgPv5 | 1012845647V175093 | 1322564410 | Someone who is NOT ELIGIBLE and has no attached documents/letters.
 | vets.gov.user+24@gmail.com    | 168SsNrLgPv5 | 1012833459V456494 | 1005649761 | Someone who is NOT ELIGIBLE and has attached documents/letters.
