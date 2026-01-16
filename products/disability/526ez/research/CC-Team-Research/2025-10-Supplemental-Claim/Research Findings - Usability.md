@@ -247,7 +247,7 @@ Building on our mental model findings (explored in detail in a separate, dedicat
 
 Prototype Banana allows users to file a Supplemental Claim for a rated disability (not just a denied condition, like in prototype Apple). When a user adds a rated disability to their claim, they are asked to choose between a Claim for Increase and a Supplemental Claim. This requirement caused so much confusion in the first four research sessions that we modified the prototype, adding more explanatory content before requiring them to choose. But this new content did little to reduce confusion. 
 
-|<img width="435" height="532" alt="Screenshot 2026-01-16 at 12 26 49" src="https://github.com/user-attachments/assets/7f0dd284-581d-4c4f-aa81-410bfc9f1b86" />|
+|<img width="601" height="843" alt="Screenshot 2026-01-16 at 12 39 47" src="https://github.com/user-attachments/assets/83f0cf04-20fc-44ed-a6e2-d7dc988b1f9d" />|
 |---|
 
 >[!NOTE]
