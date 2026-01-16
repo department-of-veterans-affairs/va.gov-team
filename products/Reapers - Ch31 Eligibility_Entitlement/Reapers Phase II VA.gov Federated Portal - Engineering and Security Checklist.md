@@ -99,7 +99,7 @@ The following product or feature descriptions may be answered with a reference l
         - If so, how are the Cookies modified?
     - If so, are there any existing Cookies?
 - Is this feature authenticated or unauthenticated? **Authenticated through Single Sign On**
-- Are there any other specific subjects that you want to highlight or focus additional attention on? Work with Stan
+- Are there any other specific subjects that you want to highlight or focus additional attention on? **No**
 
 ### Artifacts
 Please provide the following documentation as attachments.
