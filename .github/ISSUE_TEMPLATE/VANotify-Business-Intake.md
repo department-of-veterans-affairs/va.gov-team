@@ -4,7 +4,7 @@ about: To submit a request with the VANotify Team
 title: Business intake form for [Your Business or team]
 labels: vanotify-intake
 assignees: davidconlon, GitSamJennings, kbelikova-oddball
-
+---
 
 ## Your Details
 1.  **Your Name**
