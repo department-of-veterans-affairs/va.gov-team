@@ -568,8 +568,9 @@ Additionally, because we tested in Figma we were not able to test with AT users.
 |<img width="923" height="719" alt="Screenshot 2026-01-16 at 15 09 52" src="https://github.com/user-attachments/assets/c16a9c61-e8a6-4523-a74e-3c6713580828" />|
 |---|
 
-
-
+<br>
+<br>
+<br>
 
 ➡️ _**markdown table of completed recruitment checker follows:**_
 
@@ -609,4 +610,4 @@ Additionally, because we tested in Figma we were not able to test with AT users.
 | Switch Device                                                                                                                                                                                                                                                                                                                                                  | AT                                                         | n/a      | 1        | 0           | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 | Braille Reader                                                                                                                                                                                                                                                                                                                                                 | AT                                                         | n/a      | 1        | 0           | no               | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
-Buy Me a Coffee at ko-fi.com
+
