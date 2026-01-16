@@ -8,8 +8,6 @@ flowchart LR
 
 
 ```
-
-
 # Level 1 DFD — Scheduling
 ```mermaid
 flowchart RL
@@ -50,28 +48,20 @@ flowchart LR
 
 
 ```
-# Level 1 DFD - OTP
+# Level 2 DFD - OTP
 ```mermaid
 flowchart LR
-    User["User Browser"]
-    VASSAPI["VASS API"]
-    VANotify["VA Notify"]
-
-    P1["Verify identity and OTC"]
-
-    D1[("Invitation and veteran data")]
-    D2[("OTC store")]
-
-    User -->|Last name DOB UUID| P1
-    P1 -->|Validate UUID| VASSAPI
-    VASSAPI -->|Veteran data| P1
-    P1 -->|Generated OTC| D2
-    P1 -->|OTC email request| VANotify
-    VANotify -->|OTC email| User
-
-    User -->|Entered OTC| P1
-    P1 -->|OTC lookup| D2
-
-
-
+ subgraph OTP_Verification["Verify User (OTP Flow)"]
+        P1["Generate OTP"]
+        P2["Send OTP Notification"]
+        P3["Validate OTP"]
+  end
+    User["User"] -- Identity Data --> P1
+    P1 -- OTP + Correlation ID --> Redis[("Redis Store")]
+    P1 -- OTP Payload --> P2
+    P2 -- OTP Email --> Email["Email Service<br>(VANotify)"]
+    User -- Submitted OTP --> P3
+    P3 -- OTP Lookup --> Redis
+    Redis -- OTP Record --> P3
+    P3 -- Verification Result --> User
 ```
