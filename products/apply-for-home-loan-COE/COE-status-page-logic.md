@@ -46,7 +46,7 @@ This documentation is an explanation of how the [VA.gov COE status page](https:/
 
 - Calls to `/eligibility/documents/coe/file` only happen when a user clicks the COE download links. Those download links only populate for ELIGIBLE users.
 
-## [Simplified Mural of this process](https://app.mural.co/t/cve1274/m/cve1274/1767825762733/8a744b31a654e2aeb0a0a218323c0aae9cb7c72c)
+## [Simplified Mural of this process](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1768579899578/1291fedc1151d896668d5e432db8305d3d58deb7?sender=u948e39813cb5600d37268438)
 
 ## [Test Users for each of the status page scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/apply-for-home-loan-COE/Test%20and%20Launch/CoE%20Staging%20Test%20User%20Information.md#all-login-information)
 
