@@ -288,7 +288,8 @@ Participants often mentioned expecting to upload evidence.
 Although one information screen mentions they’ll be able to upload evidence in a later step, it was not enough to set expectations, and most did not read or acknowledge the text at all. (Version 1, which explicitly mentions “step 4,” did garner more attention than the more general “later in this application” in version 2).
 - This pattern / perspective combined with the literal interpretation of language (see Additional Insights) inform the evidence-first reasoning and narrative expectation pillars of Veterans’ mental model around disabilities, claims, and appeals.
 
-[IMAGE - FORTHCOMING]
+|<img width="626" height="858" alt="Screenshot 2026-01-16 at 13 03 25" src="https://github.com/user-attachments/assets/644c3af1-4ee4-478b-a251-d5265a651621" />|
+|---|
 
 #### Telling their story
 Veterans expect more than the ability to upload evidence—they also want to provide context and justify their request. As a result, participants found a selection-only flow insufficient. Many expressed surprise and confusion when they were not given an opportunity to add details about their conditions, describing the experience as incomplete. Notably, even without being prompted, 6 of the 10 participants volunteered that they expected to be able to add more detail.
@@ -315,7 +316,8 @@ We did not see this kind of confusion in our previous study, probably because th
 Adding a new condition was more difficult in prototype Apple than prototype Banana, and more difficult than we saw in [previous testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md). (June 2025 testing of the new Conditions flow found 100% success with no hesitation in selecting “a condition I haven’t claimed before.”)
 - Most participants tended to focus first on the subheadings, then on the individual options. The result is that they noticed the ‘A condition I haven’t claimed before’ option later in prototype Apple than in prototype Banana or in previous testing.
 
-[IMAGE - FORTHCOMING]
+|<img width="638" height="861" alt="Screenshot 2026-01-16 at 13 06 54" src="https://github.com/user-attachments/assets/e46d78f0-f1bf-4314-b79b-1d4ae9e20216" />|
+|---|
 
 Eventually, all but one of the 8 participants who were given this task in Prototype Apple was able to find the correct option. The participants who struggled the longest with this task looked in the list of rated and denied conditions for something related. 
   - _“Maybe under Knee condition? If I clicked, it might take me to another survey with more options.” **(P5)**_
