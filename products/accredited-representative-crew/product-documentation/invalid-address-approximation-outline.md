@@ -12,35 +12,34 @@ We have the full file of all Accredited Representatives and VSOs, but not all ar
 
 Because data for current Accredited Representatives (VSOs, attorneys and claims agents) was collected from paper applications, addresses and other contact information was not validated at the time of submission.
 
-As a result, 350+ Accredited Reps have partial or invalid addresses on file in GCLAWS. We want to make these representatives discoverable in FAR, which matches either directly on Rep name or returning a list of matches using location and miles-away distance.
+As a result, 350+ Accredited Reps have partial or invalid addresses on file in GCLAWS. We want to make these representatives discoverable in FAR, which searches based on an input location (required) and ranks results using miles-away distance.
 
 #### Out of scope: 
 
 * The application form (21a) is being digitized and will validate addresses before submission, so the problem will diminish over time.
 * Updating data for already-accredited reps (i.e., outside of form 21a) is on our roadmap, but not part of this feature.
+* Changing the search tool so that location is not a required input (i.e., matching using a rep's name or accrediting organization regardless of geography) is out of scope, but may be revisited in the future.
 
 ## Solution
 
-At a high level, we want to implement a vet-api backend-only behavior change -- no frontend UX changes or new public endpoints are needed.
+At a high level, we want to implement a vet-api backend behavior change -- some minor annotations on the UI will be added, but the  high-level experience using the search will remain the same. No new public endpoints are needed.
 
 Because the search uses geocoding, but 3% of entries have invalid address data, we would like to approximate the locations of these Reps using the information they have provided to the greatest extent possible. Approximately 1/3 of the entries without valid addresses still contain a valid ZIP code or city-state pair (we prefer ZIP, where available, for greater precision).
 
-We propose using the Geocoder gem to create a lookup table mapping existing partial/invalid addresses (i.e., those with a valid ZIP or city-state pair) onto lat/long values, and adding these values to FAR so that these reps can be returned in a search. The use of a lookup table at runtime minimizes processing time and avoids duplicative API calls -- a given ZIP (or city-state pair) can be geocoded asynchronously, and once cached will be retrieved for all matching entries with O(1). 
+We propose using the Geocoder gem to append lat/long values onto entries with partial/invalid addresses (i.e., those with a valid ZIP or city-state pair), so that these reps can be returned in a FAR search. Because ZIP codes change periodically, we will run a periodic job to refresh these lat/long estimates and append a last-checked date field to monitor freshness. Because these approximated locations will be populating existing fields, all Geocoder calls can be made asynchronously, and so performance of FAR at runtime is unaffected. 
 
-The Geocoder gem is compatible with a variety of APIs; we will use US Census ZCTA data as the initial source for the table, and we propose using the API Mapbox to handle city-state pairs and as a fallback for missing ZIPs. While this will require creating a Mapbox API key, our expected level of utilization is <1,000/month, and our permanent retention in the lookup table complies with their Terms of Service (which is not the case for, for example, the Google Maps geocoding API).
+The Geocoder gem is compatible with a variety of APIs; we propose using the Mapbox API (already used in other VA tools) to give us the approximated coordinates. While this will require creating a Mapbox API key, our expected level of utilization is <1,000/month (accounting for regular data refreshes), and our data retention complies with their Terms of Service (which is not the case for, for example, the Google Maps geocoding API).
 
-In the longer term, other features in our roadmap (see Out of Scope above) should eventually moot the issue. That said, USPS does periodically update ZIP codes (additions/changes), and so in the meantime we'll need to conduct infrequent checks to see if any of our entries are affected.
-
+In the UI, we currently include a link out to Google Maps for reps with validated addresses; we will use this pattern to the extent possible for reps with approximated addresses: the fields we provide to Mapbox (ZIP, city, state) will be displayed in search-result cards and linked to Google Maps in a similar way (although only at the level of the ZIP or city/state, not the approximated lat/long). The distance-away will be calculated and ordered in the same way, but will appear with an "(estimated)" annotation when the address has been approximated.
 
 #### Desired User Outcomes
 
-1. In the short term, even representatives with incomplete or invalid address information are discoverable through FAR.
+1. Representatives with incomplete or invalid address information are discoverable through FAR.
 2. Veterans using FAR are given enough information about representatives to confirm they are local and contactable.
 
 #### Undesired User Outcomes
 
-1. Representatives may not want all contact information known to OGC visible through FAR, so sharing more data than they intend is undesirable.
-2. Showing results with incomplete or invalid addresses can decrease user trust in the quality and accuracy of search results and perception of FAR (or even of Reps).
+1. Showing results with incomplete or invalid addresses can decrease user trust in the quality and accuracy of search results and perception of FAR (or of Reps).
 
 #### Desired Business Outcomes
 
