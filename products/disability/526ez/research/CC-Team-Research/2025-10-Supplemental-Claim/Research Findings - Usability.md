@@ -565,30 +565,8 @@ While we recruited for Veterans with other than honorable discharge, and had ses
 
 Additionally, because we tested in Figma we were not able to test with AT users.
 
-> [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
-> 1. Duplicate the ***Template*** worksheet
-> 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
-> 1. Make a screenshot of the cells that you want to share and paste it into this report below
-> 1. Generate an accessible version of those cells using Github Copilot Chat:
->    - Start a new Github Copilot chat
->    - Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
->    - Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
->    - Copy the resulting markdown table by clicking the copy icon in the Copilot chat, and paste it into this report below 
->    - (If Copilot returns an error, try using a different AI model, such as "Claude Sonnet 3.7 Thinking")
+|<img width="996" height="782" alt="Screenshot 2026-01-16 at 14 41 07" src="https://github.com/user-attachments/assets/c1605094-7eac-400b-b7c4-a40df089d76b" />|
+|---|
 
-This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-➡️ _[insert screenshot of completed recruitment checker in the format below]_
-
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
-
-#### A more accessible version of the table in the above image
-
-### Recruitment of underserved groups in [Study name]
 
 ➡️ _[paste markdown table of completed recruitment checker from Github Copilot chat]_
