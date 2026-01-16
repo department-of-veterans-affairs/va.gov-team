@@ -176,6 +176,8 @@ Did you get the link?
 
 **You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
+I would like you to interact with the prototype **just like you would on your own** if we were not in a session together. Please use whatever zooming or assistive technology you're accustomed to  while browsing the web.  
+
 Please click the (green) "Continue" button.
 
 ## Task 1: Find Form to fill out
