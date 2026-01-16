@@ -64,7 +64,7 @@ Move Sort below Results description.
 - Decision date: 01-15-2026, Slack Discussion (Derek, Jeana, Sarah Horton, Shawn Collins)
 
 ### Context
-Current results description mentions the sort which is redundant (the component will announce sort state). It is also awkward to mention that results are being sorted in a particular way before the sort controls are shown (in the reading order). 
+Current results description mentions the sort which is redundant (the component will announce sort state). It is also awkward to mention that results are being sorted in a particular way before the sort controls are shown (in the reading order). This was originally defined to maintain consistency with VA mobile app but mobile app is required to reflect sort state in results description because it is hidden in modal. Va-sort itself acts as the visual indicator.
 
 ### Decision
 Remove mention of Sort in the results description.
