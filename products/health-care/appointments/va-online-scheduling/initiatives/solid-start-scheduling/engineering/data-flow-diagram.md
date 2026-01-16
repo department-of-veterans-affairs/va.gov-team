@@ -45,9 +45,8 @@ flowchart LR
     P2 -->|"Cancellation Request"| VASS
     VASS -->|"Cancellation Result"| P2
     P2 -->|"Cancellation Status / Next Steps"| User
-
-
 ```
+
 # Level 2 DFD - OTP
 ```mermaid
 flowchart LR
@@ -65,3 +64,8 @@ flowchart LR
     Redis -- OTP Record --> P3
     P3 -- Verification Result --> User
 ```
+<details>
+    <summary>PNG</summary>
+    <img width="5835" height="1422" alt="OTP-Flow-2026-01-16-181337" src="https://github.com/user-attachments/assets/a9458050-5396-44be-8479-7ebbe35674b1" />
+</details>
+
