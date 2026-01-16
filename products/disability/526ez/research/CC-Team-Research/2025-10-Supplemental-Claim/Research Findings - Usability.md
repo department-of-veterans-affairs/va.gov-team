@@ -314,7 +314,7 @@ We did not see this kind of confusion in our previous study, probably because th
 
 ### Finding 4: Participants had trouble adding a new condition in Prototype Apple.
 Adding a new condition was more difficult in prototype Apple than prototype Banana, and more difficult than we saw in [previous testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/New%20or%20Increase%20at%20Condition%20level%20-%20Reseach%20Findings.md). (June 2025 testing of the new Conditions flow found 100% success with no hesitation in selecting “a condition I haven’t claimed before.”)
-- Most participants tended to focus first on the subheadings, then on the individual options. The result is that they noticed the ‘A condition I haven’t claimed before’ option later in prototype Apple than in prototype Banana or in previous testing.
+- Most participants tended to focus first on the subheadings, then on the individual options. The result is that they noticed the ‘A condition I haven’t claimed before’ option **later** in prototype Apple than in prototype Banana or in previous testing.
 
 |<img width="638" height="861" alt="Screenshot 2026-01-16 at 13 06 54" src="https://github.com/user-attachments/assets/e46d78f0-f1bf-4314-b79b-1d4ae9e20216" />|
 |---|
@@ -330,8 +330,6 @@ In 2025, new conditions typically represented 82-86% of all conditions submitted
 
 ### Finding 5: Users were successful in adding secondary conditions, although they do not know VA terminology.
 Due to time constraints, we were only able to ask 4 of the 10 participants about secondary conditions, but all 4 correctly guessed that they’d claim a secondary condition by selecting ‘A condition I haven’t claimed before’ from the ‘Add a condition’ screen. 
-
-[IMAGE - FORTHCOMING]
 
 All 4 expressed familiarity with the concept, but weren’t sure how the VA referred to it (except for an adviser). We introduced the concept by describing a situation in which a secondary condition was present, and asked the participants if they knew what this might be called and if they were familiar with that scenario.
   - _“Yes! I’ve heard of it and I’m sure I’m experiencing it.” **(P4)**_ (When asked if they might know how VA refers to this situation, they said _“No.”_)
@@ -351,7 +349,8 @@ The “Cancel adding this condition” button is the first button that appears o
 The prominence of the “Cancel…” button also made the Review screen more confusing. When Veterans saw the ‘Delete’ button on each condition card on the Review screen, it seemed redundant but inconsistent with the previous ‘Cancel…’ button. 
   - _“Edit or delete? I don’t understand … Why delete if it gave me the opportunity to cancel on the previous screen?” **(P8)**_
 
-[IMAGE - FORTHCOMING - "Sequential screens featuring large ‘Cancel’ buttons and red all-caps ‘Delete’ buttons are perceived as discouraging to some Veterans."]
+|<img width="995" height="853" alt="Screenshot 2026-01-16 at 13 12 50" src="https://github.com/user-attachments/assets/762c94e1-1dc0-490b-8ccb-0e7105105036" />|
+|---|
 
 
 ### 2. The 'Date worsened' screen is still a usability problem.
@@ -389,7 +388,8 @@ But it also heightened Veterans’ anxiety about how they would provide that evi
 ### 5. Some participants wanted to see the conditions list in order. 
 5 of the 10 participants wish the conditions list was organized according to an order, whether alphabetically, or by rating percentage. Some participants said that denied conditions should appear before rated conditions within the list to visually prioritize the conditions with the perceived greatest opportunity for change: _“so I can see if there’s something I can try to do.” **(P4)**_
 
-[IMAGE - FORTHCOMING]
+|<img width="593" height="808" alt="Screenshot 2026-01-16 at 13 18 17" src="https://github.com/user-attachments/assets/ccaa5a04-ad0c-4421-ba5f-06f028b6064f" />|
+|---|
 
   - _“My logical brain would like to see the higher percentage ones on top, like what I’m more disabled on, and then what I could work on with 0% at the bottom.” **(P4)**_
   - _“I’d like to see this list in alpha order or in accordance to rating percentage, probably lower to higher because here it feels all over the place and I’d like to see a little order.” **(P10)**_
