@@ -422,69 +422,23 @@ TrackedItemContent.propTypes = {
 
 ### Supported Block Types
 
-```typescript
-// ============================================
-// BLOCK-LEVEL ELEMENTS (structure)
-// ============================================
+#### Block-Level Elements
 
-type ContentBlock = ParagraphBlock | ListBlock | LineBreakBlock;
+| Block Type | Properties | Description |
+|------------|------------|-------------|
+| `paragraph` | `type: "paragraph"`, `content: string \| array` | A paragraph of text. Content can be a plain string or an array of inline elements. |
+| `list` | `type: "list"`, `style: "bullet" \| "numbered"`, `items: array` | A bulleted or numbered list. Items can be strings or arrays of inline elements. |
+| `lineBreak` | `type: "lineBreak"` | A line break (`<br>`) within content. |
 
-interface ParagraphBlock {
-  type: "paragraph";
-  content: string | InlineContent[]; // Can be plain string or mixed content
-}
+#### Inline Elements (used within paragraphs and list items)
 
-interface ListBlock {
-  type: "list";
-  style: "bullet" | "numbered";
-  items: (string | InlineContent[])[]; // List items can also have inline formatting
-}
-
-interface LineBreakBlock {
-  type: "lineBreak";
-}
-
-// ============================================
-// INLINE ELEMENTS (within paragraphs/lists)
-// ============================================
-
-type InlineContent = string | InlineElement;
-
-type InlineElement =
-  | BoldElement
-  | ItalicElement
-  | LinkElement
-  | TelephoneElement
-  | LineBreakElement;
-
-interface BoldElement {
-  type: "bold";
-  content: string | InlineContent[]; // Can nest other inline elements
-}
-
-interface ItalicElement {
-  type: "italic";
-  content: string | InlineContent[]; // Can nest other inline elements
-}
-
-interface LinkElement {
-  type: "link";
-  text: string;
-  href: string;
-  style?: "active" | "external" | "default";
-  testId?: string;
-}
-
-interface TelephoneElement {
-  type: "telephone";
-  contact: string;
-  tty?: boolean;
-}
-
-interface LineBreakElement {
-  type: "lineBreak";
-}
-```
+| Element Type | Properties | Description |
+|--------------|------------|-------------|
+| `bold` | `type: "bold"`, `content: string \| array` | Bold text. Can contain nested inline elements. |
+| `italic` | `type: "italic"`, `content: string \| array` | Italic text. Can contain nested inline elements. |
+| `link` | `type: "link"`, `text: string`, `href: string`, `style?: "active" \| "external" \| "default"`, `testId?: string` | A hyperlink rendered as `<va-link>`. |
+| `telephone` | `type: "telephone"`, `contact: string`, `tty?: boolean` | A phone number rendered as `<va-telephone>`. |
+| `lineBreak` | `type: "lineBreak"` | A line break within inline content. |
 
 ### Example: Paragraph with Inline Bold
 
@@ -599,13 +553,13 @@ The frontend `evidenceDictionary` will remain as a **permanent fallback** throug
 2. [ ] Create content block types (paragraph, list, link, telephone, icon, lineBreak)
 3. [ ] Design API response structure for tracked items
 4. [ ] Document API contract for web and mobile teams
-5. [ ] Create TypeScript types / Ruby models
+5. [ ] Create Ruby models
 
 **Deliverables:**
 
 - JSON Schema specification
 - API documentation
-- Shared types/interfaces
+- Ruby models
 
 ---
 
