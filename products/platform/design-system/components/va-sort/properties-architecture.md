@@ -1,4 +1,4 @@
-# Properties / Architecture Template
+# Component architecture
 
 ## Common name
 Sort
