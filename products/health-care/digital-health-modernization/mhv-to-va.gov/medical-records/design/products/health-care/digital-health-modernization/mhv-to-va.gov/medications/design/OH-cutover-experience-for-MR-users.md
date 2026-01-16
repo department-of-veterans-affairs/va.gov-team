@@ -35,7 +35,7 @@ How will we communicate these changes to Veterans?
 N/A 
 
 3. **Letting them know they can do stuff again and what's different**
-  - Yellow alert: T+2 - TBD - message telling patients it's done. Content pointing towards R&S page describing what's different.
+  - Alert pulled down.
   - Messaging on differences in-app:
         a. Content describing differences in records in BB vs CCD
         b. UX treatment flagging that there will be duplicate records, point towards R&S for more information
