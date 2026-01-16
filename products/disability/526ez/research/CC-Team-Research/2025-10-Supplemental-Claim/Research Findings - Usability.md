@@ -565,7 +565,7 @@ While we recruited for Veterans with other than honorable discharge, and had ses
 
 Additionally, because we tested in Figma we were not able to test with AT users.
 
-|<img width="996" height="782" alt="Screenshot 2026-01-16 at 14 41 07" src="https://github.com/user-attachments/assets/c1605094-7eac-400b-b7c4-a40df089d76b" />|
+|<img width="923" height="719" alt="Screenshot 2026-01-16 at 15 09 52" src="https://github.com/user-attachments/assets/c16a9c61-e8a6-4523-a74e-3c6713580828" />|
 |---|
 
 
