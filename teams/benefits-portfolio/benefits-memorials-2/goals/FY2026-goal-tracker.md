@@ -14,7 +14,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | P1 | **Payment History (VHA):**  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Progress BE development efforts in preparation for Lighthouse Production API (Sept) and continue align with Lighthouse as needed | Primarily BE; may involve whole team collab| Lighthouse |   |
 | P2 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:**  |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |Finalize design + engineering handover.   | BE, FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |   |
 | P3 | **HOLD**  | HOLD | HOLD | HOLD | HOLD | HOLD |
-| P4 | **Prioritized Maintenance**  |[#130107](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130107)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
+| P4 | **Mobile App:** Collaborate with MFS (Mobile Feature Support) team to add benifits into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) | Collaborate as needed. | MFS team responsible for implementation - FM team to collaborate. |None  |  |
+| P5 | **Veteran Request for Hardship Suspension (VBA):** |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Initiate Design Prototyping & Development handover  UX to finalize engineering handover by end of Sept in preparation for development in October  | Design- FE | **DMC** |  |
+| P6 | **Prioritized Maintenance**  |[#130107](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130107)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 
 
