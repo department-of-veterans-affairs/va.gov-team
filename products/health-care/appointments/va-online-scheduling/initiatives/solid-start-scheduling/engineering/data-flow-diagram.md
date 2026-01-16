@@ -12,65 +12,41 @@ flowchart LR
 
 # Level 1 DFD — Scheduling
 ```mermaid
-flowchart LR
-    User["User Browser"]
-    VASSAPI["VASS API"]
-    VANotify["VA Notify"]
-
-    P1["Verify identity and OTC"]
-    P2["Request availability"]
-    P3["Submit appointment"]
-
-    D1[("Invitation and veteran data")]
-    D2[("OTC store")]
-
-    User -->|Last name DOB UUID| P1
-    P1 --> D1
-    P1 --> D2
-    P1 -->|OTC email request| VANotify
-    VANotify -->|OTC email| User
-    User -->|Entered OTC| P1
-
-    User -->|Availability request| P2
-    P2 -->|Availability query| VASSAPI
-    VASSAPI -->|Available slots| P2
-    P2 -->|Available slots| User
-
-    User -->|Selected slot and skills| P3
-    P3 -->|Create appointment| VASSAPI
-    P3 -->|Confirmation email request| VANotify
-    VANotify -->|Confirmation email| User
-
-
+flowchart RL
+ subgraph Scheduling_System["Schedule Appointment System"]
+        P1["Verify User & Retrieve Scheduling Data"]
+        P2["Select & Confirm Appointment"]
+  end
+    User["User"] -- Identity Data<br>(Last Name, DOB, UUID) --> P1
+    P1 -- Scheduling Request --> VASS["VASS Scheduling API<br>(External)"]
+    VASS -- Scheduling Data<br>(User Info, Topics, Slots) --> P1
+    P1 -- Available slots and topics --> User
+    User -- Selected Slot --> P2
+    P2 -- Booking Request --> VASS
+    VASS -- Booked Appointment Details --> P2
+    P2 -- Scheduling Status / Next Steps --> User
 
 ```
 # Level 1 DFD — Cancellation
 ```mermaid
 flowchart LR
-    User["User Browser"]
-    VASSAPI["VASS API"]
-    VANotify["VA Notify"]
+    User["User"]
+    VASS["VASS Scheduling API<br/>(External)"]
 
-    P1["Verify identity and OTC"]
-    P4["Retrieve appointment details"]
-    P5["Cancel appointment"]
+    subgraph Cancellation_System["Cancel Appointment System"]
+        P1["Verify User & Retrieve Appointment"]
+        P2["Confirm Cancellation"]
+    end
 
-    D2[("OTC store")]
+    User -->|"Identity Data<br/>(Last Name, DOB, UUID)"| P1
+    P1 -->|"Appointment Lookup Request"| VASS
+    VASS -->|"Booked Appointment Details"| P1
+    P1 -->|"Appointment Details"| User
 
-    User -->|Last name DOB UUID| P1
-    P1 --> D2
-    User -->|Entered OTC| P1
-
-    User -->|View appointment| P4
-    P4 -->|Get appointment details| VASSAPI
-    VASSAPI -->|Appointment details| P4
-    P4 -->|Appointment details| User
-
-    User -->|Cancel request| P5
-    P5 -->|Cancel appointment| VASSAPI
-    P5 -->|Cancellation email request| VANotify
-    VANotify -->|Cancellation email| User
-
+    User -->|"Cancellation Confirmation"| P2
+    P2 -->|"Cancellation Request"| VASS
+    VASS -->|"Cancellation Result"| P2
+    P2 -->|"Cancellation Status / Next Steps"| User
 
 
 ```
