@@ -49,6 +49,7 @@ Make any requested changes and update in sharepoint. They will typically look th
 |4/7/25|4.7|[#106893](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106893)|Disability Experience Team 2|0781 Paper Sync|
 |8/26/25|4.8|[#117915](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117915)|Disability Benefits Crew|4142 Form Update|
 |10/2/25|4.9 • In Progress|[#119070](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119070) [#117916](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117916)|Team High-Five|Product Guide Audit & Copy of Submission|
+|11/19/25|5.0|[#123119](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123119) |Disability Benefits Crew, Conditions|Step 2 list and loop workflow update|
 
 
 ## 526 BDD Product Guide Ticket History
