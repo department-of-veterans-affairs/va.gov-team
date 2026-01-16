@@ -5,9 +5,12 @@ flowchart LR
     Process -- Scheduling Request --> VASS["VASS Scheduling API - External System"]
     VASS -- "Scheduling Data - User Info, Topics, Slots, Booked Appointment" --> Process
     Process -- Scheduling Response / Next Steps --> User
-
-
 ```
+<details>
+    <summary>PNG</summary>
+    <img width="5677" height="1400" alt="level-0-Flow-2026-01-16-182715" src="https://github.com/user-attachments/assets/df27cb71-b5f1-4b78-b871-cd44c62248bb" />
+</details>
+
 # Level 1 DFD — Scheduling
 ```mermaid
 flowchart RL
@@ -23,8 +26,12 @@ flowchart RL
     P2 -- Booking Request --> VASS
     VASS -- Booked Appointment Details --> P2
     P2 -- Scheduling Status / Next Steps --> User
-
 ```
+<details>
+    <summary>PNG</summary>
+    <img width="4328" height="2480" alt="level1-scheduling-Flow-2026-01-16-182704" src="https://github.com/user-attachments/assets/b0cc6291-9143-40ed-a242-407f509d8fef" />
+</details>
+
 # Level 1 DFD — Cancellation
 ```mermaid
 flowchart LR
@@ -46,6 +53,10 @@ flowchart LR
     VASS -->|"Cancellation Result"| P2
     P2 -->|"Cancellation Status / Next Steps"| User
 ```
+<details>
+    <summary>PNG</summary>
+    <img width="4428" height="2165" alt="level1-cancellation-Flow-2026-01-16-182620" src="https://github.com/user-attachments/assets/f1610643-88de-484f-9102-e4a52ef59808" />
+</details>
 
 # Level 2 DFD - OTP
 ```mermaid
