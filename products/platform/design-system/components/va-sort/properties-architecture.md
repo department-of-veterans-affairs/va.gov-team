@@ -59,12 +59,12 @@ Disallow all props available to va-select except the following:
 | :---- | :---- |
 | `vaSortSelect` | _same as `va-select`’s `vaSelect`_ |
 | `vaSortKeyDown` | _same as `va-select`’s `vaKeyDown`_ |
-| `vaSelectBlur` | _same as `va-select`’s `vaSortSelectBlur`_ |
+| `vaSortSelectBlur`| _same as `va-select`’s `vaSelectBlur`_ |
 | `component-library-analytics` | _same as va-select_ <br/> Note: Analytics will need some special attention because we will want to capture the bubbling analytics event from `va-select` and stop it from actually getting logged as a `va-select` analytics click. It should log as `va-sort`. Here is an example approach from `va-button-pair`: [https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-button-pair/va-button-pair.tsx\#L98-L123](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-button-pair/va-button-pair.tsx#L98-L123) |
 
 ### Additional considerations
 Allow debounce/delay in the onchange event (See [related guidance](https://dev-design.va.gov/5102/components/sort/#accessibility-considerations:~:text=Debounce%20network%20requests%20when%20multiple%20sorts%20occur%20in%20quick%20succession%20or%20delay%20the%20onchange%20event%20to%20check%20for%20another%20option%20selection.%20This%20prevents%20assistive%20technology%20users%20who%20do%20not%20open%20menus%20from%20prematurely%20making%20a%20selection%20while%20exploring%20sort%20options.)  for details) 
-  * Note: debouncing is done by the team \- not in the component \- give teams options on how to handle based on how their servers/api handle it
+  * Note: Teams can and should manage debouncing themselves based on their specific use-case. However, the referenced docs might be inaccurate about the event to check. It'll probably end up being the native `onKeyDown` or one of the custom events `vaSortSelect`, `vaSortKeyDown`, `vaSelectBlur`. We should investigte and update the guidance with the recommended option.
   
 ## Example implementation code
 
