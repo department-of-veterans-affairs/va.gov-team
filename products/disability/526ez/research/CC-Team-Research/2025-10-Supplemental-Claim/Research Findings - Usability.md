@@ -207,10 +207,8 @@ Sessions were conducted remotely, over Zoom. Participants joined from a computer
 
 ### Finding 1: Veterans strongly prefer viewing all of their conditions, both rated and denied, on the ‘Add a condition’ screen, as in prototype Apple.
 
-| <img src="images/fig01-flowchart.png" alt="Overview of the new design user flow" width="700"> |
-|---|
 
-| <img width="496" height="518" alt="Screenshot 2026-01-16 at 12 22 42" src="https://github.com/user-attachments/assets/0c9528c8-2afe-4b4e-a3fc-8338df75d30d" />  |
+|<img width="496" height="518" alt="Screenshot 2026-01-16 at 12 22 42" src="https://github.com/user-attachments/assets/0c9528c8-2afe-4b4e-a3fc-8338df75d30d" /> |
 |---|
 
 
