@@ -4,18 +4,18 @@
 We will partner with Perigean to recruit Veterans. We will request a kickoff meeting with Perigean to align on sample needs, diversity targets, and scheduling details.
 
 ## Recruitment criteria
-- Participants to schedule: 13 Veterans  
-- Ideal completed sessions: 9 (minimum)  
+- Participants to schedule: **13 Veterans**  
+- Ideal completed sessions: **9 (minimum)**  
 - Caregivers: 0  
 - Dependents: 0  
-- Device requirement: All participants must join from a secure connection on a laptop or desktop  
+- Device requirement: All participants must join from a secure connection on a **laptop** or **desktop**  
 
 ## Accessibility note
-We will not be recruiting assistive technology (AT) users for this study due to prototype limitations.
+We will **not** be recruiting assistive technology users because the Figma prototype is not fully compatible with assistive technologies and cannot be reliably tested with screen readers or similar tools.
 
 ## Primary criteria (must-haves)
 - All participants have VA health care as a benefit  
-- Minimum 8 use the VA for their medications  
+- 8 (minium) use the VA for their medications  
 - 7 have a traumatic brain injury or cognitive disability  
 - 7 are over 55 years old  
 - 6 are under 55 years old  
@@ -35,29 +35,29 @@ We will not be recruiting assistive technology (AT) users for this study due to 
 ## Screener questions
 
 1. **Do you receive VA healthcare benefits?**  
-   - Yes (Recruit)  
-   - No (Do not recruit)
+   - Yes (recruit)  
+   - No (do not recruit)
 
 2. **Do you use the VA to get your medications?**  
-   - Yes (Recruit)  
-   - No (Do not recruit)
+   - Yes (recruit)  
+   - No (do not recruit)
 
 3. **If you use the VA to get your medications, how often would you guess you place an order for your medications?**  
    - 1–2 times a year  
    - 3–4 times a year  
    - 5–12 times a year  
    - 13 or more times a year  
-   - I don’t get my medications from the VA (Do not recruit)
+   - I don’t get my medications from the VA (do not recruit)
 
 4. **Have you ever been diagnosed with a traumatic brain injury, PTSD, or cognitive impairment of some sort?**  
    *(We ask this because we want to make sure that our tools work for people who live with challenges like these.)*  
    - Yes  
    - No  
-   - Prefer not to say (this is a new option)
+   - Prefer not to say *(this is a new option)*
 
 ## Timeline
 
-### Kick-off call with Perigean (proposed)
+### Kick-off call with Perigean (proposed dates)
 - Thursday, January 22, 2026  
 - Friday, January 23, 2026  
 - Monday, January 26, 2026  
