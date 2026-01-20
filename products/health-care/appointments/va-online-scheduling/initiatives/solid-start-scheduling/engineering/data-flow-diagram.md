@@ -86,7 +86,7 @@ flowchart RL
 
 ## Data Collection and Usage
 
-### 1.1 Data Categories
+### Data Categories
 
 #### Personal Identifiable Information (PII)
 | Data Element | Purpose | Source | Storage Location |
