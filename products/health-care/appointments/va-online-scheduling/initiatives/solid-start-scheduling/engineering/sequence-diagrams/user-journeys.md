@@ -112,7 +112,8 @@ sequenceDiagram
 
     %% Step 2: User enters OTP
     user->>vetsWebsite: Enter OTP
-    vetsWebsite->>vetsApi: Validate OTP
+    vetsWebsite->>vetsApi: Send OTP
+    vetsApi->>vetsApi: Validate OTP
     vetsApi-->>vetsWebsite: Return success if valid
 ```
 
