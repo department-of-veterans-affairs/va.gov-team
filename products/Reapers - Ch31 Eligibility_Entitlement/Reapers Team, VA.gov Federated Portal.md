@@ -112,9 +112,9 @@ This diagram must also illustrate the following specifics.
     - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
     - **Reapers Team will monitor for errors and if they see a spike or unexpected behavior, they will disable the toggle.**
 - Sequence Diagram:
-This diagram must include any authentication steps if this is an authenticated experience. **N/A**
+This diagram must include any authentication steps if this is an authenticated experience. 
 - Data Flow Diagram:
-This diagram must illustrate the following specifics. **N/A to the entire section**
+This diagram must illustrate the following specifics. **No database transactions take place within vets-api**
   - What data is collected or used, and where, including information such as credentials used by this system? 
   - Where is the data is stored and how, including information such as any encryption used?
   - How is the data transferred, including information such as any encryption used? 
