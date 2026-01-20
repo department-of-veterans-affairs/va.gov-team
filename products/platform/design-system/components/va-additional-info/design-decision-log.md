@@ -1,5 +1,5 @@
 # va-additional-info Design Decisions
-Last updated: 11-21-2025
+Last updated: 01-20-2026
 
 - [ADR: 001 - Structural updates](#ADR-001---Structural-updates)
 - [ADR: 002 - Design Updates](#ADR-002---Design-Updates)
