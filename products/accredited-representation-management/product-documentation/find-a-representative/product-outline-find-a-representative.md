@@ -126,6 +126,10 @@ Released to 100% of users on March 13, 2024. A landing page "Get help from a VA 
   
 </details>
 
+---
+
+### Next Steps
+
 #### Version 3.0 | Release Date TBD
 
 Introducing search filters, for users to refine their search results based on the representative's associated VSO. [WIP Figma designs for Find a Representative 3.0](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0)
