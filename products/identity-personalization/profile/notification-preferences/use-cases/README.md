@@ -6,6 +6,7 @@ Last updated: January 2026
 * Product documentation  
   * [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)  
   * [API to Display notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
+  * [UX governance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/UX/profile-architecture-design-content-standards.md#email-and-text-notifications)
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
