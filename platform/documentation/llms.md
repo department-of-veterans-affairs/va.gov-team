@@ -159,7 +159,7 @@
 - [Charles Proxy setup for TeamSite](https://depo-platform-documentation.scrollhelp.site/developer-docs/charles-proxy-setup-for-teamsite): Guide to get TeamSite working, using setup a proxy that directs your browser to load `/health` and `va_files` from VA.gov, and all other files from `localhost:3001`. This lets you edit css, javascript etc, and load from webpack, without having to set up TeamSite locally.
 - [Staggering features to anonymous users](https://depo-platform-documentation.scrollhelp.site/developer-docs/staggering-features-to-anonymous-users): Overview for setting feature flags to roll out to a percent of authenticated users, but anonymous visitors will need a client-side treatment for rollout which is not part of the server-side feature flags stack.
 
-#### Yarn Workspaces
+##### Yarn Workspaces
 - [Yarn Workspaces](https://depo-platform-documentation.scrollhelp.site/developer-docs/yarn-workspaces): This document is meant to serve as a rudimentary introduction to the set up and use of Yarn Workspaces in `vets-website`.
 - [Workspace Maintenance: Overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/guide-for-maintainers-overview): This document is a guide for engineers maintaining a yarn workspace—after it has been set up.
 - [Workspace Maintainence: A Deeper Dive](https://depo-platform-documentation.scrollhelp.site/developer-docs/guide-for-maintainers-a-deeper-dive): The following is a deeper dive into the technical nuances of maintaining your team’s workspace within `vets-website/src/platform`.
@@ -173,8 +173,75 @@
 ##### Third-party libraries
 - [Third-party libraries](https://depo-platform-documentation.scrollhelp.site/developer-docs/third-party-libraries): Overview for how the Platform has established a detailed process for evaluating and approving third-party libraries, ensuring that any new additions are thoroughly vetted and properly maintained.
 
+#### GitHub Actions usage for VA.gov frontend engineers
+- [GitHub Actions usage for VA.gov frontend engineers](https://depo-platform-documentation.scrollhelp.site/developer-docs/github-actions-usage-for-va-gov-frontend-engineers): Overview for creating workflows, which are pipelines or automated processes that can be triggered by a variety of events.
+- [Cypress Integration Test Workflow - for CI failures](https://depo-platform-documentation.scrollhelp.site/developer-docs/cypress-integration-test-workflow-for-ci-failures): Overview for Engineers working with vets-website need to be able to quickly iterate on integration test specifications when there are e2e failures in the Continuous Integration workflow.
 
+#### VA Forms Library Overview
+- [VA Forms Library Overview](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-overview): Technical documentation meant to serve as a reference for software engineers working on the platform who will be creating VA Forms. The VA Forms Library is a comprehensive system that provides an easy to use and consistent way of creating complex forms for Veterans.
+- [VA Forms Library - Getting Started with the Forms Library](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-getting-started-with-the-forms-li): This guide contains a considerable amount of out of date information. Several sections are marked as “deprecated” or have text advising against using, but not everything is labeled. The Forms team is aware and is actively updating all forms documentation to be more in line with the current form digitization guidance. While this guide still has useful information, it may be more fruitful to reference and practice development with the already existing Simple Forms Patterns mock form (view in staging) or the Patterns Demonstrations mock form (view in staging).
+- [VA Forms Library - Using Forms in Production](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-using-forms-in-production): Overview of how to move a form to production and update the schema in the Vets-Json-Schema Repo after the appliccation has been thoroughly tested.
+- [VA Forms Library - Form Config Options](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-form-config-options): Overview of how to setup the configuration for a form or application using the Forms Library.
+- [VA Forms Library - About schema and uiSchema](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-about-schema-and-uischema): Overview of how the VA.gov Forms Library lets you build web-based forms using the JSON Schema standard for form data and React for the form UI. The form data and UI are represented by schemaand ui:schema, respectively, which are included in the form configuration file.
 
+#### VA Forms Library - Web Component Fields and Patterns
+- [VA Forms Library - Web Component Fields and Patterns](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-web-component-fields-and-patterns): Overview about how the Forms Library aligns with the VA.gov Design System, establishing and using a versatile shared resource in `vets-website`, forms introduced web component based fields and patterns. These web component based fields and patterns in the forms library utilize U.S. Web Design System v3, which is the latest version supported by the VA Design System. These fields and patterns replace the widgets and definitions, but share very similar implementation methods.
+- [How to use web component patterns](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-use-web-component-patterns): This guide explains how to use and adopt web component patterns for your VA form application.
+- [How to use web component fields](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-use-web-component-fields): This guide goes over how to use `'ui:webComponentField'`. The property 'ui:webComponentField' can be used in an RJSF form page uiSchema to tell it to use web components instead of the default widget behavior.
+
+##### VA Forms Library - Sub Tasks
+- [VA Forms Library - Sub Tasks](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-sub-tasks): Overview of what and when to use, and how to create a sub-task in a Form.
+
+#### VA Forms Library - How Tos
+- [VA Forms Library - How routing is generated](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-routing-is-generated): This document provides a high level overview of how routing is handled by the Forms Library. The intent isn’t to go terribly in depth, but to give engineers a general understanding of what happens under the hood when pages are created in a `formConfig`.
+- [VA Forms Library - How to bypass Schema Form](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-bypass-schema-form): Bypassing the `SchemaForm` component means you can render a form page using plain React components. Minimal `schema`, and `uiSchema` should include any required fields and validations.
+- [VA Forms Library - How to set up Save In Progress (SiP)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si): Overview of how to set up Save in Progress (SiP) for Forms on VA.gov.
+- [VA Forms Library - How to work with Pre-Fill](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-pre-fill): Overview explaing that Pre-fill is a simple API call to Vets-API that allows the form user to have their information pre filled in the form without having to type anything. This guide will show you how to setup pre-fill inside Vets-website and how to submit a Pull Request (PR) into Vets-API Pull Requests.
+- [VA Forms Library - How to hide pages and chapters in a form](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-hide-pages-and-chapters-in): Overview expplaining when it is appropriate to hide certain pages and chapters that will not be relevant to certain users.  This is when hiding and showing pages based on automatic criteria can be used to help.
+- [VA Forms Library - How to use updateSchema and replaceSchema](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-use-updateschema-and-repla): Overview explaining when to use updateSchema and replaceSchema when there may be a need to modify a form schema from the frontend instead of directly in `vets-json-schema`.
+- [VA Forms Library - How to use the Save in Progress menu for faster development](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-use-the-save-in-progress-m): Overview of how to use the Save in Progress (SiP) menu for faster development in Forms.
+- [VA Forms Library - How to validate a field based on values from another field](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-validate-a-field-based-on-): Overview of how to validate a field based on values from another field in Forms.
+- [VA Forms Library - How to work with Array Data (aka List Loops)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-array-data-aka-l): Overiew of how to work with Array Data (aka List Loops) in Forms.
+- [VA Forms Library - How to conditionally make fields required](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-conditionally-make-fields-): Overview of how to conditionally make fields required in Forms.
+- [VA Forms Library - How to make a required form field optional](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-make-a-required-form-field): Overview of how to make a required form field optional in Forms.
+- [VA Forms Library - How to include view-only data](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-include-view-only-data): Overview of how to include view-only data in Forms.
+- [VA Forms Library - How to implement a personal information component populated with read-only data](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-implement-a-personal-infor): This page provides guidance on implementing the personal information component within form applications, covering installation, usage, customization through configuration, and implementation examples.
+- [VA Forms Library - How to work with transformForSubmit](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-work-with-transformforsubm): Overview of How to work with transformForSubmit in Forms.
+- [VA Forms Library - How to use the ReviewCardField](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-use-the-reviewcardfield): Overview of how to use the ReviewCardField in Forms.
+- [VA Forms Library - How to create the contact info Array Data (aka Hub and Spoke)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-create-the-contact-info-ar): Overview of how to create the contact info Array Data (aka Hub and Spoke) in Forms.
+- [VA Forms Library - How to use "Add item" link in Array Data (aka List Loop)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-use-add-item-link-in-array): Overview of how to use "Add item" link in Array Data (aka List Loop) in Forms.
+- [VA Forms Library - How to replace a form page using a feature toggle](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-replace-a-form-page-using-): Overview of how to replace a form page using a feature toggle in Forms.
+
+##### VA Forms Library - Web components in RJSF
+- [VA Forms Library - Web components in RJSF](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-web-components-in-rjsf): This page documents information related to web component adoption by forms teams, using `ui:webComponentField` in RJSF, including status, how to adopt, decisions, and defects.
+
+##### (Legacy) VA Forms Library - Form Widgets
+- [(Legacy) VA Forms Library - Form Widgets](https://depo-platform-documentation.scrollhelp.site/developer-docs/legacy-va-forms-library-form-widgets): Using widgets in the forms library is deprecated. Instead, developers should use web component based patterns and fields, which provide all the features of widgets and are actively supported.
+
+##### How to opt-in to Drupal as the source of truth for Oracle Health-related apps and widgets
+- [How to opt-in to Drupal as the source of truth for Oracle Health-related apps and widgets](https://depo-platform-documentation.scrollhelp.site/developer-docs/how-to-opt-in-to-drupal-as-the-source-of-truth-for): Overview of how to opt-in to Drupal as the source of truth for Oracle Health-related apps and widgets in Forms.
+ 
+### Deployments
+- [Deployments](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployments): This page details the automated build and deployment process for `vets-website`, `content-build`, `vets-api`, `forward proxy (HaProxy)` and `reverse proxy (OpenResty)`. It also outlines the deployment schedule, rollback procedures, and continuous deployment details.
+- [Creating releases](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-releases): Overview of guides to create a a `vets-website` Release or a `content-build` Release, and Hotfixes.
+
+#### Manual deployments
+- [Manual deployments](https://depo-platform-documentation.scrollhelp.site/developer-docs/manual-deployments): This document elaborates on the standard practices for preforming a manual deploy on `vets-website` and `content-build` repositories.
+- [Deployment Policies](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-policies): Describes the typical deployment schedule, but that deployments from the primary branch may occur at any time. VA.gov does not use release branches; instead, it maintains a focus on keeping the primary branch healthy.
+
+##### Handling flaky unit tests
+- [Handling flaky unit tests](https://depo-platform-documentation.scrollhelp.site/developer-docs/handling-flaky-unit-tests): This is a guide for handling unit tests that fail intermittently.
+
+##### Handling failed isolated application pipelines
+- [Handling failed isolated application pipelines](https://depo-platform-documentation.scrollhelp.site/developer-docs/handling-failed-single-grouped-application-pipelin): Overview for escalating and resolving the failed pipelines to ensure code can be deployed on a consistent basis.
+
+##### Build and deploy process flows
+- [Build and deploy process flows](https://depo-platform-documentation.scrollhelp.site/developer-docs/build-and-deploy-process-flows): This pages contains diagrams that illustrate the different build and deploy process flows for CI/CD in vets-website and content-build.
+
+##### Staged Continuous Deployment
+- [Staged Continuous Deployment](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment): This page outlines the process that apps can use to deploy applications on their cadence, called staged continuous deployment. 
+
+### Code and build
 
 ## Design and User Experience
 - [VA. gov Design System](https://design.va.gov): Design standards, components, and patterns
