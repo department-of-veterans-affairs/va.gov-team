@@ -68,14 +68,13 @@ The My HealtheVet locations where these alerts need to render include:
 | Messages inbox | va.gov/my-health/secure-messages/inbox/ | Messages page | 
 
 ### Users with multiple facilities from the same go-live round in their user profile
-In most cases, facilities that are being transitioned are from the same US region. It's highly likely that users may have multiple facilities that are being transitioned at the same time in their profile. In order to plan for this and prevent stacking the same exact alert for multiple facilities on landing page, we should template alerts that are prepared to string multiple facility_names together in the body content. 
+In most cases, facilities that are being transitioned are from the same US region. It's highly likely that users may have multiple facilities that are being transitioned at the same time in their profile. In order to plan for this and prevent stacking the same exact alert for multiple facilities on landing page, we will string multiple facility names together in the body content if that scenario applies to a given Veteran's profile. 
 
-This will require a _singular_ verison of the alerts and a _multiple_ version with correct verb tenses and pluralization. Horizon should work with content to consider how best to template this. 
 
 ### Users with facilities from different go-live rounds in their profile
-In some cases, alert 1 (warning alert) for an upcoming round of go-live sites will overlap with the timeline for alert 2 (active maintenance window for earlier round of go-live sites). It is possible that  users could have facilities in their profile from each of these groups and see both alerts. 
+In some cases, alert 1 (warning alert) for an upcoming round of go-live sites will overlap with the timeline for alert 2 (active maintenance window for earlier round of go-live sites). It is possible that  users could have facilities in their profile from each of these groups and see both alerts. Allowing for an alert from more than one round of transitions has been configured in the shared component logic.
 
-In general, alerts should always render in severity order, meaning: alert 2 (warning alert) should display hierarchically _above_ warning alerts for upcoming maintenance windows at other facilities. 
+The transition alerts will render in severity order, meaning: an error alert (active maintenance window) will display hierarchically above a warning alert (notification of upcoming downtime) if both apply to a given user.
 
 ### Data suppression during active downtime windows
 Because users could have multiple facilities in their profile (some of which are transitioning EHRs in an active migration round, but potentially some that are not being affected), it could be considered a patient safety risk to suppress all task functionality across tools. It will be complex to first read if they have other facilities that are not actively being migrated before determining whether to show this functionality - and may not be worth the lift to build this out for a temporary 32-37 day window. 
@@ -83,9 +82,7 @@ Because users could have multiple facilities in their profile (some of which are
 Instead, in-product tactics within the tools themselves will be more advantageous from a user-experience perspective. For example, within the appointments flow, direct-schedule appointment types could suppress _specific facility names_ within the flow, or even allow them but lead the user to a page that requires a phone-call to complete scheduling instead of allowing direct online scheduling. For Secure messaging, teams should evaluate whether they can suppress the health care system (facilities) from the care team drop-down list in the new message flow (and also disallow replies during this time frame on existing message threads that would otherwise be routed to any of these care teams underneath that facility). 
 
 ### Competing alert logic 
-SHOULD BE ADDRESSED AT TOOL TEAM LEVEL:
-
-Maintenance window alerts related to this effort could compete with other alerts in the user experience, and edge-case scenarios should be mapped out and planned so that the rendering logic is clear and repeatable for all tools. 
+Maintenance window alerts related to this effort could compete with other alerts in the user experience. Horizon team IA lead met with a small team of engineers and determined that the benefits of a shared pattern for all teams outweighs the possibility of inconsistent alert hierarchy during the transition window. We will not worry about competing alert hierarchy at a portal-wide standardization level. 
 
 
 # <a name="designs">Alert designs</a>
