@@ -1,6 +1,39 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 01/20/26
+**Attendees**
+- Angela P, Angela C, Ballard M, Cindy C, Rogelio C, Kimi Sato, Elizabeth S, Elizabeth L,
+- Jon, Amanda K, Premal S, Mike M, Andrea M, Hieu V
+
+### Notes
+- Premal ask how the 10-10D is going. No response from the stakeholders, so that is a positive sign
+- OHI attachment averages about 2 per upload
+- Medicare effective dates: Premal wants to clarify that the 10-10D now has the effective date for 12 months out.
+- Andrea notes that the 10-10D now has MBI.
+
+**Questions:** 
+- We receive feedback for the emergency provider and after the fact
+  - Angela was not aware of the requirement, will talk to SME.
+  - Angela notes that it is better for the team to put it in an email and include Kimi S, Luke, Elizabeth L, and Alysia K.
+- Team wants to confirm that the Part C Pharmacy portion was removed from the PDF the online can match. Angela confirmed that is the case, it can be removed. 
+- Sendback letter BCBU. Angela followed up with SME to respond to the email with the sendback question. 
+- Sendback letter for apps. 
+  - Premal explains how the team is trying to get a rough count number for the metric.  Regelio noted that DCG1 (print vendors) is responsible for sendback letter. Angela P notes that they’re always counted but it is currently not being tracked because dashboard is is not fully developed. Angela C noted that DCG1 print occurs through VES.  
+  - VFMP will get us the sendback letter counts.
+  - Angela C noted that it will be 1 sendback letter (printed by DCG1) for for multiple missing documents from VES. Amanda asked if that is also includes multiple Bene would included in that 1 letter. Angela noted that each Bene has their own letter.
+  - Action Item: Champa Service Blueprint needs to be updated. 
+  - Elizabeth notes that everything gets processed including incomplete and deny. So they can always update later. 
+
+**Misc:** 
+- Premal asked the VES status. Premal explains that the form goes to PEGA right now, not VES. Mike notes there are 1015 from Cindy from us to VES. 
+- Elizabeth notes that MPI is the authority so different sex, name, etc, MPI would overrule what is on elsewhere.
+- Elizabeth L, attended SVA (Student Veteran Association in Colorado) conference, because of the work we do, they were able to have PR code have the students fill it right then and there. It is so impactful. People cried. 
+- Premal will introduce the Status Tool and introduce the team as well.
+- Elizabeth in Teams chat: Do we have a time frame when Benes can print their own A cards? Handbook Link? Angela P notes that they cannot put it on Va.gov but on Champva site (not longer exist)
+- Andrea would like to clarity around the Handbook link. Angela noted that the link is provided on the A card. 
+
+
 ## 01/06/26
 
 **Agenda**
