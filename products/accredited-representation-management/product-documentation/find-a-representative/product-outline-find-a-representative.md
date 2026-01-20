@@ -163,14 +163,14 @@ Longer term ideas are stored in our[ARM Future Ideas](https://dvagov.sharepoint.
 
 ## **Communications**
 
-1. **Team Name**: Accredited Representation Management
-2. **GitHub Label**: accredited-representation-management-team
-3. **Slack channel**: #benefits-representation-management
+1. **Team Name**: Accredited Representation Crew - Team Appoint
+2. **GitHub Label**: ar-crew, ar-team-appoint
+3. **Slack channel**: #benefits-accredited-rep-crew
 
 
 ## **Team Leads**
 
 1. **DEPO Lead**: Jennifer Bertsch
-2. **Product Manager**: Lindsay Li-Smith
-3. **Engineering**: Holden Hinkle
-4. **UX Research/Design**: Janelle Finnerty
+2. **Product Manager**: Mia Bottcher, Lindsay Li-Smith
+3. **Engineering**: Nick Sprinkle
+4. **UX Research/Design**: David Krofel, Lena-Phuong Tran
