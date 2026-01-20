@@ -81,3 +81,81 @@ flowchart RL
     <img width="5835" height="1422" alt="OTP-Flow-2026-01-16-181337" src="https://github.com/user-attachments/assets/a9458050-5396-44be-8479-7ebbe35674b1" />
 </details>
 
+
+---
+
+## Data Collection and Usage
+
+### 1.1 Data Categories
+
+#### Personal Identifiable Information (PII)
+| Data Element | Purpose | Source | Storage Location |
+|--------------|---------|--------|------------------|
+| Last Name | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
+| Date of Birth (DOB) | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
+| Email Address | OTC delivery, notifications | VASS Backend | MS Dynamics, VANotify (transient) |
+| Phone Number | Appointment confirmation | VASS Backend | MS Dynamics |
+
+#### Authentication Data
+| Data Element | Purpose | Storage | TTL |
+|--------------|---------|---------|-----|
+| UUID | Session identifier, user lookup | Redis, VASS Backend | Session-based |
+| One-Time Code (OTC) | Authentication | Redis (hashed) | 10 minutes |
+| OAuth Access Token | VASS API authorization | Redis | 1 hour |
+| JWT Token | vets-api session | Redis | 1 hour |
+
+#### Veteran Metadata
+| Data Element | Purpose | Storage | Usage |
+|--------------|---------|---------|-------|
+| EDIPI | Veteran identification | Redis (temporary), MS Dynamics | Cross-system correlation |
+| veteran_id | Internal ID | Redis (temporary), MS Dynamics | Data retrieval |
+| ICN (Integration Control Number) | MPI lookup | MS Dynamics | Healthcare integration (future) |
+
+#### Application Data
+| Data Element | Purpose | Storage | Persistence |
+|--------------|---------|---------|-------------|
+| appointment_id | Booking reference | Redis (temporary), MS Dynamics | Permanent |
+| Appointment slots | Availability data | MS Dynamics | Dynamic |
+| Topics/Skills | Scheduling categories | MS Dynamics | Configuration data |
+
+#### Rate Limiting & Security Data
+| Data Element | Purpose | Storage | TTL |
+|--------------|---------|---------|-----|
+| OTC generation attempts | Rate limiting | Redis | 15 minutes |
+| OTC validation attempts | Brute-force prevention | Redis | Session-based |
+| Account lockout status | Security enforcement | Redis | 15 minutes |
+| Revoked token blacklist | Token invalidation | Redis | Until token expiration |
+
+### 1.2 Data Flow Diagram
+
+```mermaid
+flowchart TD
+    User[User Browser]
+    VW[vets-website]
+    VA[vets-api]
+    Redis[(Redis Cache)]
+    VASS[VASS Backend API]
+    Dynamics[(MS Dynamics DB)]
+    VANotify[VANotify Email Service]
+    
+    User -->|HTTPS: Last Name, DOB, UUID| VW
+    VW -->|HTTPS: Identity Data| VA
+    VA -->|Validate UUID| VASS
+    VASS -->|User Info| Dynamics
+    Dynamics -->|Veteran Data| VASS
+    VASS -->|Validation Result| VA
+    VA -->|Generate & Hash OTC| Redis
+    VA -->|OTC Email Request| VANotify
+    VANotify -->|Encrypted Email| User
+    User -->|HTTPS: OTC| VW
+    VW -->|HTTPS: OTC| VA
+    VA -->|Validate OTC| Redis
+    VA -->|Issue JWT| Redis
+    VA -->|JWT Response| VW
+    VW -->|Authenticated Session| User
+    
+    style Redis fill:#ffd700
+    style Dynamics fill:#4169e1
+    style User fill:#90ee90
+    style VANotify fill:#ff6347
+
