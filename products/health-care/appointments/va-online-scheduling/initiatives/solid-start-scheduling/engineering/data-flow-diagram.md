@@ -91,22 +91,22 @@ flowchart RL
 #### Personal Identifiable Information (PII)
 | Data Element | Purpose | Source | Storage Location |
 |--------------|---------|--------|------------------|
-| Last Name | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
-| Date of Birth (DOB) | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
+| Last Name | Identity verification | User input | MS Dynamics (permanent) |
+| Date of Birth (DOB) | Identity verification | User input | MS Dynamics (permanent) |
 | Email Address | OTP delivery, notifications | VASS Backend | MS Dynamics, VANotify (transient) |
 
 #### Authentication Data
 | Data Element | Purpose | Storage | TTL |
 |--------------|---------|---------|-----|
-| UUID | Session identifier, user lookup | Redis, VASS Backend | Session-based |
-| One-Time Code (OTP) | Authentication | Redis (hashed) | 10 minutes |
-| OAuth Access Token | VASS API authorization | Redis (hashed) | 1 hour |
-| JWT Token | vets-api session | Redis (hashed) | 1 hour |
+| UUID | Session identifier, user lookup | Redis, VASS Backend, datadog(logging) | Session-based |
+| One-Time Passcode (OTP) | Authentication | Redis (hashed temporary) | 10 minutes |
+| OAuth Access Token | VASS API authorization | Redis (hashed temporary) | 1 hour |
+| JWT Token | vets-api session | Not stored | 1 hour |
 
 #### Veteran Metadata
 | Data Element | Purpose | Storage | Usage |
 |--------------|---------|---------|-------|
-| EDIPI | Veteran identification | Redis (temporary), MS Dynamics | Cross-system correlation |
+| EDIPI | Veteran identification | Redis (temporary) , MS Dynamics | Cross-system correlation |
 
 #### Application Data
 | Data Element | Purpose | Storage | Persistence |
