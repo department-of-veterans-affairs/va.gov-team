@@ -221,21 +221,21 @@ This research supports Veterans during the **Taking Care of Myself** and **Retir
 
 - **Hypothesis:** For the API-failed version of the alert, the Veteran will recognize that Disability Rating might have an impact on whether or not they should fill out the Pension form.
   - **Likely True**
-  - Supporting evidence:  Participants understood the blue info alert communicated a relationship between disability rating and pension eligibility.  However, 1 of 6 participants misinterpreted the info alert as a generic message about how to apply for pension, suggesting the message could be clearer about the specific relevance to their situation. 
+  - Supporting evidence:  Participants understood the blue info alert communicated a relationship between disability rating and pension eligibility.  However, 1 of 6 participants misinterpreted the info alert as a generic message about how to apply for pension.
 
 ---
 
 ## Key Findings
 
-1. **All participants demonstrated an understanding that their current disability pay is the greater benefit.** Participants recognized they already receive a higher payment than what pension might provide due to their 100% disability rating, and most explicitly stated they could not receive both benefits simultaneously.
+1. **All participants demonstrated an understanding that their current disability pay is the greater benefit.** 
 
-2. **Most participants preferred the yellow warning alert for its detail. ** When comparing the two alert types, 4 of 6 participants indicated preference for the yellow warning alert because the title was clearer, it managed expectations better, and it was more thorough in answering their questions.
+2. **Most participants preferred the yellow warning alert for its detail.** 
 
-3. **Half of participants said they would not apply for pension, while the other half said their next step would be to click resource links.** Despite understanding that pension would not increase their compensation, 3 of 6 participants indicated they would still click links to "Review current pension rates" or "Learn about the differences between pension and disability" before making a final decision.
+3. **Half of participants said they would not apply for pension, while the other half said their next step would be to click resource links.** 
 
-4. **Most participants noticed the Medicaid nursing home exception and raised additional questions. ** 3 of 6 participants wanted to learn more about what situations would make it beneficial for them to apply, and an additional participant with a family member in a nursing home had questions about how payments work in that scenario.
+4. **Most participants noticed the Medicaid nursing home exception and raised additional questions.** 
 
-5. **Most participants had questions about Veterans pension as a benefit beyond what the introduction page provided.** Only 2 of 6 participants were familiar with Veterans pension as a needs-based benefit before the study.  Participants wanted to know how pension relates to aid and attendance, income levels, employment status, and military retirement pension.
+5. **Most participants had questions about Veterans pension as a benefit beyond what the introduction page provided.** 
 
 ---
 
@@ -245,79 +245,71 @@ This research supports Veterans during the **Taking Care of Myself** and **Retir
 
 All 6 participants recognized they already receive a higher payment than what pension might provide due to their 100% disability rating. In terms of overall comprehension, participants described understanding that their disability compensation is the greater benefit and that applying for pension would not increase their monthly payment. 
 
-- _Supporting data:  5 of 6 participants (83%) read the content of the yellow warning alert aloud without being prompted_
-- _Supporting data: 4 of 6 participants (67%) explicitly reiterated that they could not receive both benefits at the same time_
-- _Supporting data: **Participant quote:** "You have 100% and you have this [exception], if you don't, then they're gonna waste their time, but you will manage expectations.  And all the work that someone has to do on the backend to [process the claim]" (method and date not provided in topline summary)_
+- _Supporting data:  5 of 6 participants read the content of the yellow warning alert aloud without being prompted_
+- _Supporting data: 4 of 6 participants explicitly reiterated that they could not receive both benefits at the same time_
+- _Supporting data: **Participant quote:** "You have 100% and you have this [exception], if you don’t, then they’re gonna waste their time, but you will manage expectations. And all the work that someone has to do on the backend to deal with this applicant would be eliminated, right?" 
 
 ### Finding 2: Most participants preferred the yellow warning alert for its detail
 
 Although the two alerts have different use cases, participants naturally compared the two alerts they were presented with. 4 of 6 participants (67%) indicated a preference for the yellow warning alert over the blue info alert. 
 
 - _Supporting data:  Participants described the yellow warning alert as clearer because the title was more explicit, it managed their expectations better, and it was more thorough in answering the questions they had_
-- _Supporting data: 1 of 6 participants (17%) preferred the blue info alert because it was "simplified" to them_
-- _Supporting data: 1 of 6 participants (17%) did not have a preference because they misinterpreted the info alert as a generic message about how to apply for pension_
-- _Supporting data: 3 of 6 participants (50%) mentioned the sentence, "We always pay the higher amount." One participant said this made the message clearer to them, while another interpreted this as "slapping on Veterans" to not waste the Veteran's time_
-- _Supporting data: **Participant quote:** "[The warning alert] explained it more thoroughly, I believe, to me.  I understand both of them, but the first one would have stopped me from going any further right there.  It would've answered my questions" (method and date not provided in topline summary)_
+- _Supporting data: 1 of 6 participants preferred the blue info alert because it was "simplified" to them_
+- _Supporting data: 1 of 6 participants did not have a preference because they misinterpreted the info alert as a generic message about how to apply for pension_
+- _Supporting data: 3 of 6 participants mentioned the sentence, "We always pay the higher amount." One participant said this made the message clearer to them, while another interpreted this as "slapping on Veterans" to not waste the Veteran's time_
+- _Supporting data: **Participant quote:** "[The warning alert] explained it more thoroughly, I believe, to me. I understand both of them, but the first one would have stopped me from going any further right there. It would’ve answered all the questions I had." 
 
 ### Finding 3: Half of participants said they would not apply for pension, while the other half said their next step would be to click resource links
 
 Despite understanding that pension would not increase their compensation, half of participants indicated they would explore additional resources before deciding not to apply. 
 
-- _Supporting data: 3 of 6 participants (50%) said they would not apply for pension as their next step_
-- _Supporting data: 1 of 6 participants (17%) had already experienced applying for both benefits and knew it wouldn't be worth their time_
-- _Supporting data:  3 of 6 participants (50%) mentioned they would click the links "Review current pension rates" and "Learn about the differences between pension and disability" even though they reiterated that pension wouldn't increase their payment_
+- _Supporting data: 3 of 6 participants said they would not apply for pension as their next step_
+- _Supporting data: 1 of 6 participants had already experienced applying for both benefits and knew it wouldn't be worth their time_
+- _Supporting data:  3 of 6 participants mentioned they would click the links "Review current pension rates" and "Learn about the differences between pension and disability" even though they reiterated that pension wouldn't increase their payment_
 - _Supporting data: 1 participant mentioned they were hesitant to apply because they are hesitant to reopen anything that would put their disability rating at risk, but also motivated to share what they learned with other Veterans_
-- _Supporting data:  **Participant quote:** "I would definitely have to look at your first thing, 'Review the pension rates' and 'Learn the differences'.  Because it's telling me it's probably not going to be worth my while because I'm already getting a monthly benefit" (method and date not provided in topline summary)_
+- _Supporting data:  **Participant quote:** "I would definitely have to look at your first thing, ‘Review the pension rates’ and ‘Learn the differences’. Because it’s telling me it’s probably not going to be worth my while because I’m maxed out. But you say there are situations…"
 
 ### Finding 4: Most participants noticed the Medicaid nursing home exception and raised additional questions
 
 The mention of Medicaid nursing home as an exception scenario prompted questions from participants about edge cases where pension might be beneficial.
 
-- _Supporting data: 3 of 6 participants (50%) wanted to learn more about what situations would make it beneficial for them to apply_
-- _Supporting data: 1 additional participant (total 4 of 6, or 67%) with a family member in a nursing home asked questions about whether the higher payment goes to the nursing home_
-- _Supporting data: **Participant quote:** "So applying for Veterans pension will only increase my payment in some situations, like if I live in a Medicaid approved nursing home. See, I'd have to get more information because, I'll be honest with you, I don't understand that" (method and date not provided in topline summary)_
+- _Supporting data: 3 of 6 participants wanted to learn more about what situations would make it beneficial for them to apply_
+- _Supporting data: 1 additional participant with a family member in a nursing home asked questions about whether the higher payment goes to the nursing home_
+- _Supporting data: **Participant quote:** "So applying for Veterans pension will only increase my payment in some situations, like if I live in a Medicaid approved nursing home. See, I’d have to get more information because, I’ll be honest, when it comes to Medicaid, Medicare, that whole system confuses me. And then how that works with the VA, that just adds an extra layer of confusion for me." 
 
 ### Finding 5: Most participants had questions about Veterans pension as a benefit beyond what the introduction page provided
 
 Participants demonstrated limited familiarity with Veterans pension and had questions about how it relates to other benefits and eligibility criteria.
 
-- _Supporting data: Only 2 of 6 participants (33%) were familiar with Veterans pension as a needs-based benefit before the study_
-- _Supporting data:  2 of 6 participants (33%) misunderstood pension eligibility:  One participant assumed pension is irrelevant to them because their age is not 65 or over; another interpreted the age eligibility criteria (65 or over) as a qualifying exception where pension is the greater benefit_
+- _Supporting data: Only 2 of 6 participants were familiar with Veterans pension as a needs-based benefit before the study_
+- _Supporting data:  2 of 6 participants misunderstood pension eligibility:  One participant assumed pension is irrelevant to them because their age is not 65 or over; another interpreted the age eligibility criteria (65 or over) as a qualifying exception where pension is the greater benefit_
 - _Supporting data:  Participants wanted to know how Veterans pension was related to aid and attendance, income levels, employment status, and/or military retirement pension_
 - _Supporting data: Study limitation noted in topline summary:  Participants were prompted to imagine a scenario where they found the introduction page because they were interested in Veterans Pension, but because this is the only screen they were shown, it's unclear whether they would have reached this page organically_
-- _Supporting data: **Participant quote:** "There were other things I would have liked to learn because of the definition of a pension as it relates to a pension…you got Social Security, you got private industry.  So those things get thrown around and they need to be separated and clearly defined" (method and date not provided in topline summary)_
-
----
-
-## Additional Insights
-
-**One participant interpreted the phrase "We always pay the higher amount" negatively. ** While 3 of 6 participants mentioned this sentence and 1 found it clarifying, another participant interpreted it as "slapping on Veterans" to not waste the Veteran's time. This suggests the language, while factually accurate, may carry unintended emotional weight for some Veterans who perceive it as dismissive.
-
-**The visual prominence of the yellow warning alert may have contributed to engagement.** 5 of 6 participants read the content of the yellow warning alert aloud without prompting, suggesting the warning alert format successfully captures attention. This level of unprompted engagement was not noted for the blue info alert.
+- _Supporting data: **Participant quote:** "There were other things I would have liked to learn because of the definition of a pension as it relates to a pension…you got Social Security, you got private industry. So those things get those two or three different kinds of pensions and they get mixed up. And you get kinda confused as far as which is which, what is what."
 
 ---
 
 ## Recommendations
 
-1. **Move forward with the warning alert as our main message to Veterans with a 100% disability rating.** (High Priority)
-   - _Supporting evidence: This addresses Findings 1 and 2. All 6 participants (100%) demonstrated understanding that their current disability pay is the greater benefit, and 4 of 6 participants (67%) preferred the warning alert for its clarity and thoroughness._
-   - Implementation: Implement the yellow warning alert on the Veterans Pension introduction page for authenticated Veterans with a verified 100% disability rating. Use the VADS warning alert component.  Test in staging environment with analytics tracking to monitor whether Veterans proceed past the introduction page or exit.  Success criteria: &gt;70% of Veterans with 100% disability ratings who see the alert do not proceed to start the application. 
+1. **Move forward with the warning alert as our main message to Veterans with a 100% disability rating.** 
+   - _Supporting evidence: This addresses Findings 1 and 2. All 6 participants demonstrated understanding that their current disability pay is the greater benefit, and 4 of 6 participants preferred the warning alert for its clarity and thoroughness._
+   - Implementation: Implement the yellow warning alert on the Veterans Pension introduction page for authenticated Veterans with a verified 100% disability rating. Use the VADS warning alert component.  Test in staging environment with analytics tracking to monitor whether Veterans proceed past the introduction page or exit.  
 
-2. **Insert "We always pay the higher amount" into the blue info alert.** (Medium Priority)
+2. **Insert "We always pay the higher amount" into the blue info alert.** 
    - _Supporting evidence: This addresses Finding 1. While 3 of 6 participants (50%) mentioned this sentence and 1 found it clarifying, inclusion of this statement may provide additional clarity for Veterans unsure whether they can receive both benefits simultaneously.  4 of 6 participants (67%) explicitly reiterated they could not receive both benefits._
-   - Implementation: Add the sentence "We always pay the higher amount" to the blue info alert shown when the disability rating cannot be retrieved via API. This ensures consistency in messaging about benefit exclusivity.  Test with 5-8 Veterans to validate that &gt;80% understand they cannot receive both benefits simultaneously.
+   - Implementation: Add the sentence "We always pay the higher amount" to the blue info alert shown when the disability rating cannot be retrieved via API. This ensures consistency in messaging about benefit exclusivity. 
 
-3. **Consider utilizing a resource page to explain exception scenarios.** (Medium Priority)
+3. **Consider utilizing a resource page to explain exception scenarios.** 
    - _Supporting evidence: This addresses Finding 4. 3 of 6 participants (50%) wanted to learn more about situations that would make it beneficial to apply, and 1 additional participant asked specific questions about nursing home payment scenarios._
-   - Implementation: Create or enhance an existing resource page that explains edge cases where pension may provide higher compensation than disability (e.g., Medicaid nursing home residents). Link to this resource from the alert using language like "Learn about exceptions" or "When pension may be beneficial." Work with pension SMEs to ensure accuracy of exception scenarios.  Success criteria: Veterans can find and understand exception information without contacting the call center.
+   - Implementation: Create or enhance an existing resource page that explains edge cases where pension may provide higher compensation than disability (e.g., Medicaid nursing home residents). Link to this resource from the alert using language like "Learn about exceptions" or "When pension may be beneficial." 
 
-4. **Integrate these findings into a resource page for the different types of pensions and other benefits.** (Low Priority)
+4. **Integrate these findings into a resource page for the different types of pensions and other benefits.** 
    - _Supporting evidence: This addresses Finding 5. Only 2 of 6 participants (33%) were familiar with Veterans pension as a needs-based benefit before the study, and 2 participants misunderstood pension eligibility.  Participants wanted clarification on how pension relates to aid and attendance, income levels, employment status, and military retirement pension._
    - Implementation: Reference existing C/IA intake ticket for pension content strategy.  Develop comprehensive resource content that differentiates between VA pension, military retirement pension, Social Security, and other benefit types. Include plain-language definitions, eligibility criteria, and interaction between benefits. This work should be coordinated with content and information architecture teams.
 
-5. **Consider how payment amounts are represented on the pension rate and disability rate pages.** (Low Priority)
+5. **Consider how payment amounts are represented on the pension rate and disability rate pages.** 
    - _Supporting evidence: This addresses Finding 3. Despite understanding pension wouldn't increase their payment, 3 of 6 participants (50%) indicated they would click links to review pension rates and learn about differences between pension and disability._
-   - Implementation: Audit the pension rate tables and disability compensation rate tables to ensure consistency in format (monthly vs. annual) and clear labeling.  Currently, pension displays annual amounts while disability displays monthly amounts—the higher numbers on pension pages may create confusion. Consider standardizing both to monthly amounts or providing clear conversion information.  Test with 6-8 Veterans to validate understanding of comparative payment amounts.
+   - Implementation: Audit the pension rate tables and disability compensation rate tables to ensure consistency in format (monthly vs. annual) and clear labeling.  Currently, pension displays annual amounts while disability displays monthly amounts—the higher numbers on pension pages may create confusion. Consider standardizing both to monthly amounts or providing clear conversion information.  
 
 ---
 
@@ -335,22 +327,6 @@ This research supports this outcome by demonstrating that the alert messaging is
 
 ---
 
-## Key Performance Indicators
-
-### KPI 1: Application Start Rate for Veterans with 100% Disability Ratings
-This research validates that the warning alert successfully communicates the core message that disability compensation is the greater benefit (Finding 1). We recommend establishing a baseline measurement of how many Veterans with 100% disability ratings currently start pension applications before the alert is implemented, then tracking whether this rate decreases post-implementation.  Success would be defined as a &gt;30% reduction in application starts from this population.
-
-### KPI 2: Click-Through Rate on Resource Links
-This research revealed that 3 of 6 participants (50%) indicated they would click resource links to "Review current pension rates" or "Learn about the differences between pension and disability" before making a final decision (Finding 3). We recommend tracking click-through rates on these links to understand how many Veterans seek additional information before deciding whether to apply. High click-through rates would validate the need for comprehensive resource content (Recommendations 3 and 4).
-
-### KPI 3: Pension Application Completion Rate for Veterans with 100% Disability Ratings Who Proceed Past the Alert
-For Veterans who see the alert but choose to proceed with the application, we should track completion rates and award rates. If the alert is working correctly, Veterans who proceed past it should primarily be those in exception scenarios (e.g., Medicaid nursing home residents) and should have higher award rates than the general population of 100% disabled Veterans applying for pension. 
-
-### KPI 4: Call Center Inquiries About Pension Eligibility for 100% Disabled Veterans
-This research revealed that most participants had questions about pension beyond what the introduction page provided (Finding 5), and half wanted to learn more about exception scenarios (Finding 4). We recommend tracking call center inquiries related to pension eligibility for Veterans with 100% disability ratings.  If resource content is effective (Recommendations 3 and 4), we should see a decrease in these inquiries over time.
-
----
-
 ## Next Steps
 
 | Action | Owner | Timeline | Success Criteria |
@@ -358,9 +334,8 @@ This research revealed that most participants had questions about pension beyond
 | Review recommendations with pension SMEs to validate accuracy of exception scenarios and approve messaging | David Kennedy, Product Manager | Week of January 20, 2026 | SME approval documented; any technical corrections to exception scenarios captured |
 | Implement yellow warning alert in staging environment for Veterans with verified 100% disability rating | Development Team | 2 weeks (February 5, 2026) | Alert displays correctly for authenticated users with 100% rating; does not display for other users; analytics tracking confirmed |
 | Add "We always pay the higher amount" language to blue info alert (API-failed scenario) | Elisabeth Chin, Designer + Content Team | 1 week (January 22, 2026) | Updated content reviewed and approved; implemented in staging |
-| Establish baseline metrics for application start rate and completion rate for Veterans with 100% disability ratings | Matt Reilly, Analytics | 2 weeks (February 5, 2026) | Baseline data collected for past 90 days; dashboard created to track ongoing metrics |
-| Coordinate with C/IA team on resource page development for pension benefit types and exception scenarios | David Kennedy, Product Manager | Week of January 27, 2026 | C/IA intake ticket updated; resource page prioritized in content roadmap |
-| Conduct A/B test or staged rollout of warning alert to measure impact on application start rates | Product Team | 4 weeks post-implementation (March 5, 2026) | Test plan approved; success metrics defined; rollout schedule confirmed |
+| Establish baseline metrics for application start rate and completion rate for Veterans with 100% disability ratings 
+| Coordinate with C/IA team on resource page development for pension benefit types and exception scenarios
 
 ---
 
@@ -369,8 +344,6 @@ This research revealed that most participants had questions about pension beyond
 ### Research Gaps
 
 - **Organic navigation patterns to the pension introduction page**:  This study prompted participants to imagine they were interested in applying for pension and had reached the introduction page. We did not observe how Veterans with 100% disability ratings naturally navigate to this page or what motivates them to explore pension.  Understanding organic behavior would help us determine whether additional messaging should be placed earlier in the navigation flow.  Suggested approach: Analytics review of navigation paths for Veterans with 100% disability ratings who reach the pension introduction page, supplemented by 6-8 intercept interviews or diary studies.
-
-- **Long-term behavior after seeing the alert**: We observed immediate reactions during 30-minute sessions but did not track whether Veterans returned to the page later or contacted the call center with questions. Understanding whether the alert has lasting impact or creates follow-up confusion is important.  Suggested approach: Follow-up survey or interviews with Veterans who saw the alert in production 2-4 weeks after implementation. 
 
 - **Effectiveness of resource content for exception scenarios**: Finding 4 revealed that participants wanted more information about Medicaid nursing home exceptions and other scenarios, but we did not test whether specific resource content would adequately answer their questions. Suggested approach: Content testing with 6-8 Veterans to validate that resource pages about exception scenarios are clear and sufficient to support decision-making without call center contact.
 
@@ -391,7 +364,6 @@ This research revealed that most participants had questions about pension beyond
 - Topline summary analysis (synthesis of session observations)
 - Figma prototype for moderated usability testing
 - Participant quote extraction and categorization
-- Quantitative frequency counts across participant responses
 
 ### Pages and Applications Tested
 - [Figma prototype:  Veterans Pension Introduction Page with Disability Rating Alerts](https://www.figma.com/proto/0hU7Y56EO2skWUjS8HxFjf/Usability-Prototypes?page-id=589%3A3&node-id=589-6631&p=f&t=0p1budEblOPAbwoC-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=589%3A6631) (tested January 6-12, 2026)
@@ -399,9 +371,6 @@ This research revealed that most participants had questions about pension beyond
 
 ### Other Supporting Documents
 - [Figma design file:  Usability Prototypes](https://www.figma.com/design/0hU7Y56EO2skWUjS8HxFjf/Usability-Prototypes?node-id=589-3)
-
-### Secondary Research
-- None cited in this study
 
 ---
 
