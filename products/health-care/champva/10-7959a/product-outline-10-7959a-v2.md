@@ -1,38 +1,45 @@
-# Product Outline: 10-7959a CHAMPVA Claim Form v2
+# Product Outline: 10-7959a CHAMPVA Claim Form
 
 ## Overview
 For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online (form 10-7959a) follows the digitization of enrollment (form 10-10d) and Other Health Insurance certification (form 10-7959c).
 
-This product outline has been updated to reflect recent improvements to the CHAMPVA claims flow that:
-- add screeners to ensure users are eligible to submit claims and routed correctly, and
-- support **new claims, resubmissions, and reopens** with clearer instructions and better document collection.
+This product outline has been updated to reflect recent enhancements to the CHAMPVA claims flow that **expand digital capabilities**. Previously, Veterans could only submit **new claims** online. With these updates, Veterans can now **digitally submit resubmissions and reopens**, enabling them to respond to requests for additional information without relying on mail or fax.
+
+Additional improvements to language, layout, and document upload guidance support this expanded functionality and make the form easier to understand and complete.
+
+---
 
 ## Problem Statement
-Veterans and their beneficiaries need a way to file claims through CHAMPVA quickly and easily, so they can get coverage for the services they need. Currently they are sending these in via mail and fax, which can lead to long processing times.
+Veterans and their beneficiaries need a way to file claims through CHAMPVA quickly and easily so they can get coverage for the services they need. Historically, claims — especially resubmissions and reopens — had to be sent via mail or fax, which led to long processing times and additional burden for users.
 
-Additionally, users can be confused about what information is required and what type of claim they are submitting (new vs resubmission/reopen). This can result in incomplete submissions, misrouted claims, and extra follow-up cycles.
+Prior to these updates:
+- Users could submit new claims online, but **could not digitally resubmit or reopen an existing claim**.
+- Users responding to CHAMPVA requests for more information had no digital option, even if the original claim was submitted online.
 
-How might we help family members of Veterans get their claims filed and processed quickly and easily?
+How might we enable Veterans and their families to submit **all claim-related actions**, including resubmissions and reopens, quickly and easily through VA.gov?
+
+---
 
 ## Desired User Outcomes
-- Veterans are able to fill out the claim form online on VA.gov
-- Veterans spend less time, effort and money filling out and mailing paperwork
-- Veterans spend less time spent waiting to hear back on the status of their claims
-- Veterans can clearly identify whether they are submitting a new claim or resubmitting/reopening a claim
-- Veterans can provide the right supporting documentation the first time
+- Veterans are able to submit new claims, resubmissions, and reopens online on VA.gov
+- Veterans spend less time, effort, and money filling out and mailing paperwork
+- Veterans can respond to CHAMPVA requests for additional information digitally
+- Veterans spend less time waiting to hear back on the status of their claims
+- Veterans have confidence that their claim and supporting documents were received successfully
 
 ## Undesired User Outcomes
-- Veterans are unaware that they can file claims online
+- Veterans are unaware that they can file or resubmit claims online
 - Veterans encounter errors during the online filing process
-- Veterans have low confidence in the online process or have concerns around online security
-- Veterans submit the wrong claim type (new vs resubmission) and experience delays
-- Veterans miss required documentation and need to resubmit
+- Veterans have low confidence in the online process or concerns around online security
+- Veterans are forced to switch back to mail or fax to complete claim-related actions
+
+---
 
 ## Desired Business Outcomes
 - Reduce amount of time spent processing paper forms
 - Replace outdated and legacy DAPER system with PEGA for document upload and management
-- Reduce avoidable resubmission cycles caused by unclear instructions or missing documentation
-- Improve routing accuracy for resubmissions and reopens
+- Reduce manual handling of mailed or faxed resubmissions and reopens
+- Improve turnaround time for claims requiring additional documentation
 
 ---
 ## Measuring Success
@@ -44,141 +51,119 @@ How might we help family members of Veterans get their claims filed and processe
 - processing time for paper forms
 
 #### Additional KPI Considerations (New)
-- percentage of submissions that are resubmissions/reopens vs new claims
-- percentage of resubmissions that include a valid claim identification number
-- percentage of resubmissions that include the requested letter/EOB
-- reduction in follow-up requests due to missing documentation (if measurable)
+- number and percentage of resubmissions/reopens submitted digitally
+- reduction in mailed or faxed resubmissions
+- time from request-for-information to successful resubmission
+- downstream processing time for resubmitted claims
 
 ### Objectives and Key results (OKRs)
-- Objective: Measure number of people filing claims online through CHAMPVA
-  - Key result: Increase number of beneficiaries who file CHAMPVA claims
-  - Key result: Increase number of people who obtain approvals for claims filed
+- Objective: Increase use of digital claims submission
+  - Key result: Increase number of beneficiaries who file CHAMPVA claims online
+  - Key result: Increase number of resubmissions and reopens completed digitally
 
 - Objective: Reduce time from submission to notification
-  - Key result: Measure number of application completed in single session
-  - Key result: Reduce processing time for applications
-
-- Objective: Improve successful completion on first submission
-  - Key result: Reduce percentage of claims that require follow-up due to missing information/documents
-  - Key result: Increase completion rate for resubmissions by ensuring correct routing data is captured
+  - Key result: Measure number of applications completed in a single session
+  - Key result: Reduce processing time for applications and resubmissions
 
 ---
 
 ## Assumptions
-- Families and beneficiaries of Veterans prefer to fill out forms online rather than on paper.
-- Users are more likely to submit complete claims when:
-  - instructions are consistent and easy to scan, and
-  - the flow clearly distinguishes between new claims and resubmissions/reopens.
+- Families and beneficiaries of Veterans prefer to complete claim-related actions online rather than on paper.
+- Enabling digital resubmissions and reopens will reduce delays caused by mail and fax workflows.
+- Clear, structured steps will help users provide the correct information when responding to CHAMPVA requests.
+
+---
 
 ## Solution Approach
-Provide CHAMPVA claim form online with PDFs sent to PEGA for processing.
+Provide CHAMPVA claim form online with PDFs and supporting documents sent to PEGA for processing, while expanding the flow to support **new claims, resubmissions, and reopens**.
 
 ### In scope
-- Build out form leveraging existing workflows, design system and content infrastructure as much as possible to avoid custom work
-- General flow, patterns and components (v3) follow existing standards in design system as well as accessibility standards
-- Fillable fields with pre fill for signed in users
-- Digital signature with date stamp accepted by CHAMPVA team
-- PDF output of completed form with required meta data and unique identifier sent to PEGA
-- Integration with PEGA for forms and documents
+- Build out form leveraging existing workflows, design system, and content infrastructure as much as possible to avoid custom work
+- General flow, patterns, and components (v3) follow existing standards in the design system and accessibility guidelines
+- Fillable fields with pre-fill for signed-in users
+- Digital signature with date stamp accepted by the CHAMPVA team
+- PDF output of completed form with required metadata and unique identifier sent to PEGA
+- Integration with PEGA for forms and supporting documents
 - Authenticated and unauthenticated experience
-- End to end testing with PEGA
+- End-to-end testing with PEGA
 - Confirmation and tracking/monitoring (to and from PEGA)
 
-### Updated flow enhancements (New)
+### Updated capabilities (New)
+#### Digital resubmissions and reopens
+- Users can now submit:
+  - A new claim, or
+  - A resubmission/reopen for an existing claim
+- This enables users to respond digitally when CHAMPVA requests additional information, instead of using mail or fax.
+
 #### New screener questions
-- Screener: **Do you currently receive CHAMPVA benefits?**
-  - Purpose: Ensure the user is in the correct place to file a CHAMPVA claim and reduce misrouted submissions.
-- Screener: **Are you submitting a new claim or a resubmission?**
-  - Purpose: Route resubmissions/reopens correctly and collect additional required information.
+- **Do you currently receive CHAMPVA benefits?**
+  - Ensures users are routed to the correct experience.
+- **What type of claim are you submitting?**
+  - New claim
+  - Resubmission for an existing claim
 
-#### Clearer language and instructions
-- Updated wording throughout the flow to reduce confusion, including:
-  - Replacing “sponsor” with “veteran” where appropriate
-  - Reducing the use of unclear or shifting pronouns
-- Improved instructions to help users understand what’s needed at each step and complete the form more quickly
-
-#### Updated design and layout
-- Page headers updated to align with the latest design team style guidelines
-- Content reorganized to make each step more focused and easier to scan
-
-#### New and updated pages
+#### New and updated pages to support resubmissions
 - **Your CHAMPVA claim status**
-  - Users select one:
-    - A new claim
-    - A resubmission for an existing claim
+  - Users indicate whether they are submitting a new claim or a resubmission.
 - **Your claim identification number**
-  - Users will:
-    - Choose identification type from a dropdown:
+  - Users:
+    - Select identification type:
       - PDI number, or
       - Claim control number
-    - Enter the corresponding identification number
+    - Enter the corresponding identification number.
 - **Upload the letter you received**
   - Users upload:
     - A letter requesting more information, or
-    - An Explanation of Benefits (EOB)
+    - An Explanation of Benefits (EOB).
 - **Upload supporting documents for your claim**
-  - Users upload additional requested documentation, such as:
+  - Users upload requested documentation such as:
     - A superbill
     - An EOB from their insurance
     - A prescription or pharmacy statement
 
+#### Content and layout improvements
+- Clearer language throughout the flow, including:
+  - Replacing “sponsor” with “veteran” where appropriate
+  - Reducing unclear or shifting pronouns
+- Improved instructions at each step to help users complete the form efficiently
+- Updated page headers and content organization aligned with current design standards
+
 ### Out of scope
 - Integration with VES (this will need to be addressed in the future)
-- Checking for eligibility requirements (beyond screeners described above)
-- new list and loop pattern
+- Eligibility determination beyond the basic screener questions
+- New list and loop pattern
 
 ### Risks or dependencies
-- PEGA solution will need to be able to house files and handle the different workflows required for different documents and teams
-- Integration with PEGA is still being developed
-- Resubmission/reopen flows increase complexity and the risk of users entering incorrect identifiers or uploading the wrong documents without strong content guidance
-- Measuring reduction in follow-up cycles may require coordination with downstream stakeholders and/or tagging in PEGA workflows
+- PEGA must support additional routing and workflows for resubmissions and reopens
+- Incorrect claim identification numbers could still delay processing if entered incorrectly
+- Measuring downstream impact may require coordination with CHAMPVA and PEGA teams
 
 ### Other considerations
-- VA notify
-- handling for mobile app
+- VA Notify
+- Handling for mobile app
 
---- 
+---
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- Communicate expanded digital capabilities (including resubmissions) to Veterans and beneficiaries
+- Coordinate outreach with CHAMPVA stakeholders and call centers
+- [Release Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 Incident Response info
 
 [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true)  
 [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
 
-Rollback & Fix plan (1-3 days to triage and implement fix)
+Rollback & Fix plan (1–3 days to triage and implement fix)
 
-In the event of a security vulnerability incident, we will:
-- Immediately - Turn off feature using feature toggle
-- Immediately - Triage incident
-- Day 1 - Assess viable solutions
-- Day 1-3 - Implement solution
-- Day 1-3 - Complete solution testing
-- Day 1 - Implement additional monitoring, if applicable
-- Day 1-3 - Turn on feature using feature toggle (starting with a small percentage)
-- Day 1-30 - Continue to monitor performance
-- Day 1-10 - Proceed with Release Plan
-
-Points of Contact:
-- DEPO Lead: Premal Shah
-- PM: Mike Mooney
-- DM: Andrea Merrill
-- OCTO Engineering Lead: Adrian Rollet
-- Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
-
-Downstream Dependencies
-- Pega/DOCMP
-  - Contact: Denise (Cindy) Carr
+---
 
 ## Launch Dates
-- *Target Launch Date*
+- Target Launch Date
   - 4/2/2025
-- *Actual Launch Date*
+- Actual Launch Date
   - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+- Impact Review
   - tbd
 
 ---
@@ -187,66 +172,44 @@ Downstream Dependencies
 
 ### Current Status
 Key Deliverables:
-- [design](https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a?type=design&node-id=13-80&mode=design&t=YuafvBbuKozoXYFY-0)
-- research
-  - [Stakeholder Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-stakeholder-research-plan-and-conversasion-guide.md)
-  - [Stakeholder Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
-  - [User Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2024-08-Research-Plan-for-Integrated-Veteran-Care-(IVC)-Team%2C-Form-10-7959a%2C-August-1st.md)
-  - [User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/stakeholders/2024-06-CHAMPVA-Claims-(10-7959a)-Stakeholder-Research-Findings.md)
-- testing plan
+- Design:
+  - https://www.figma.com/file/Tfhq5h2LwXEeEEtFBAAFOv/10-7959a
+- Research and testing plans complete
+- Digital resubmission and reopen capability implemented and ready for rollout
 
 ### Key Decisions
-- Add two screener questions:
-  - confirm user currently receives CHAMPVA benefits
-  - identify whether the submission is a new claim or a resubmission/reopen
-- Update content and page layout to reduce confusion and improve scan-ability.
-- Add structured pages for resubmissions to ensure correct routing:
-  - claim status (new vs resubmission)
-  - claim identification number (PDI or claim control number)
-  - upload letter/EOB
-  - upload supporting documents requested
+- Expand the existing online claim flow to support resubmissions and reopens.
+- Require claim identification information to correctly route resubmitted claims.
+- Continue using PEGA as the downstream document management and processing system.
 
 ---
-   
+
 ## Screenshots
 
 ### Before
-- [Downloadable PDF](https://www.va.gov/find-forms/about-form-10-7959a/)
-- [Image](products/health-care/champva/10-7959a/temp_champva_claim.png)
+- Downloadable PDF:
+  - https://www.va.gov/find-forms/about-form-10-7959a/
+- Image:
+  - products/health-care/champva/10-7959a/temp_champva_claim.png
 
 ### After
 - TBD (updated flow screenshots)
 
 ---
 
-#### Communications
-
-<details>
-
+## Communications
 - Team Name: IVC Forms team
 - GitHub Label: ivc-forms
 - Slack channel: ivc-forms
 - Product POCs: Mike Mooney
 - Stakeholders: Erick Maes
 
-</details>
+## Team Members
+- DEPO Lead: Premal Shah
+- PM: Mike Mooney
+- Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
+- Research/Design: Rachel Pope, Jamie Fiore
 
-#### Team Members
-
-<details>
- 
- - DEPO Lead: Premal Shah
- - PM: Mike Mooney
- - Engineering: Michael Clement, Kyle Brost, Rachel Eiting, Steve Long
- - Research/Design: Rachel Pope, Jamie Fiore
- 
-</details>
-
-#### Stakeholders
-
-<details>
- 
- - OIT
- - CHAMPVA
-   
-</details>
+## Stakeholders
+- OIT
+- CHAMPVA
