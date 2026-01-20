@@ -321,16 +321,16 @@ We would like Perigean to recruit Veterans with current overpayment debt who are
 - `Date and time of pilot session:` **[Enter time]** 🚧
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]** 🚧
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` **3**
 
-### Availability
+### Availability 🚧
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
 > [!NOTE]
@@ -355,17 +355,24 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Moderator:` **Emily DeWan**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Emily DeWan**		
+- `Participant recruiting & screening:`	**Perigean**	
+- `Project point of contact:` **Natalie Davied Gibbons**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **n/a**	
+- `Note-takers:` **To be assigned from the team**
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+  - **Natasha Huckleberry**
+  - **Natalie Davied Gibbons**
+  - **Emily Goodrich**
+  - **Parker Baranowski**
+  - **Michelle Middaugh**
+  - **Dave Formanek**
+  - **Kim McCaskill**
+  - **Matthew Guest**
+  - **Michael Harmer**
+  - **Kayley Bogemann**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
