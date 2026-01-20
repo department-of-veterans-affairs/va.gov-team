@@ -1,4 +1,4 @@
-# Product Outline: 10-7959a CHAMPVA Claim Form
+# Product Outline: 10-7959a CHAMPVA Claim Form v2
 
 ## Overview
 For Veterans and beneficiaries enrolled in CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs), filing a claim online (form 10-7959a) follows the digitization of enrollment (form 10-10d) and Other Health Insurance certification (form 10-7959c).
