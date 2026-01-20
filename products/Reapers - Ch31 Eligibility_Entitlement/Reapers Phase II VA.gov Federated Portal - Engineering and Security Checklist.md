@@ -13,12 +13,12 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Link to Collaboration Cycle Request issue - https://github.com/department-of-veterans-affairs/va.gov-team/issues/127317
 - UX design description
     + Wireframes - https://www.figma.com/design/T9tPpLgo9QTAE0URYJ4l9K/My-VR-E-Benefits-Tracker?node-id=617-67249&p=f&t=2CYsV05qjNSxUTuQ-0
-    + Already conducted design intent and recieved feedback on adjustments.
+    + Already conducted design intent and received feedback on adjustments.
 - Frontend changes
     + Identify any significant code changes.  Does this add a new function, or substantially refactor existing code? ****Yes**- Adding in 3 new pages for the user to track their VR&E journey. A connection between VA.gov and RES already exists.**
-    + Identify any new design system components needed or changes to current components. **We are using all existing components. No new componenets were added or modified.**
+    + Identify any new design system components needed or changes to current components. **We are using all existing components. No new components were added or modified.**
     + Does this update change shared code? **N/A**
-    + Describe any product analytics being gathered.  How will errors in the FE system be detected? **Will track the button clicks.**
+    + Describe any product analytics being gathered.  How will errors in the FE system be detected? **Will track the button clicks and integration requests.**
 - Backend changes
     + Does the project introduce any new or unusual infrastructure dependencies? **No**
     + Does the project introduce any new connections or exchanges of new information types with other systems? (e.g. "new" meaning a new connection of type of information not already present in `vets-api`) - **We are using an existing connection with RES to retrieve new information.**
@@ -38,7 +38,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Are there any new scheduled/cron jobs? If so, how are their intervals and impact considered? (especially with regard to periods of higher traffic or times when Sidekiq and infrastructure is already handling a high volume of jobs?) **No**
     + Is schema validation enforced (ex: using the vets-json-schema repo)? **N/A**
 - External API changes
-    + List new or modified APIs for upstream or external systems. **getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation using the update-key-milestone API**
+    + List new or modified APIs for upstream or external systems. **getch31CaseDetails. Veteran is able to track their Chapter 31 Case progress and status. We are also building a new External API for a Veteran to self-certify the completion of the Orientation video. VA.gov will inform RES that the Veteran has completed their orientation using the update-key-milestone API**
     + Describe expected call patterns. **REST API**
     + What PII or PHI will be transmitted to/from the external systems? **ICN**
 - Background jobs
@@ -74,7 +74,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 ### Questions to be Answered
 
 The following product or feature descriptions may be answered with a reference link to the team’s documentation. However, the provided links must be specific to the request.
-- Please describe what problem this product or feature solves. **Veterans will have the ability to track the progress of their application/case after submitting the 28-1900. As it stands now, Veterans do not have a way to check the status on their own and rely on calling their regional office. In order to minimize the wait time and allow Veterans to be involved with the most up to date information on their claim, the self-management portal will allow Veterans to see their progress in real-time along with having the ability to complete required items such as completing their orientation and scheduling their evaluation meetings directly from the portal.**
+- Please describe what problem this product or feature solves. **Veterans continue to struggle with the lack of communication and clear progress of their 28-1900 VR&E benefits application once it is submitted. This has led to a large number of duplicate applications, continued reapplication, and frustrated Veterans not knowing what is going on with their request. Veterans will now have the ability to track the progress of their application/case, check the status on their own, see what the next steps are in the process, and allow Veterans to be involved with the most up to date information on their claim. The self-management portal will allow Veterans to see their progress in real-time along with having the ability to complete required items such as their orientation and scheduling of their evaluation meetings directly from the portal.**
 - Please describe a plan to monitor this code base after deployment, including the following scenarios (NOTE: If you don't (yet) have such a plan, or don't know how to get started with one, we can work on this with you!).
   - The code base is compromised at source- or run-time.
     - How does the code base get disabled in the product? **Team will review and disable and submit PR. We also have a maintenance window via pager duty that can be used to take it down without having to push code.**
@@ -106,7 +106,7 @@ Please provide the following documentation as attachments.
 - Architecture Diagram:
 This diagram must go beyond simple boxes and lines. It must clearly indicate which portions of the architecture are within the scope of the review, which portions are dependencies within the product, and which portions are external dependencies.
 This diagram must also illustrate the following specifics.
-  - Which implementation of security approaches were considered along with the approach that was chosen and why? **Utilizing Single Sign On, API with RES is authenticated and only providies data related to the specific Veterans MPI.**
+  - Which implementation of security approaches were considered along with the approach that was chosen and why? **Utilizing Single Sign On, API with RES is authenticated and only provides data related to the specific Veterans MPI.**
   - If there are any libraries or components that this code base will depend upon that are currently not yet part of the code base? How and why were these selected? N/A
 - Incident Response Plan, including Points of Contact for your system and dependent VA back-ends. 
     - If a security vulnerability is discovered or reported in this code base, what is the plan and timeline for rolling out the fix?
