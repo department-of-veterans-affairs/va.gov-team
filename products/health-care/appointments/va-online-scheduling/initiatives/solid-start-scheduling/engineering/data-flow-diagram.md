@@ -93,13 +93,13 @@ flowchart RL
 |--------------|---------|--------|------------------|
 | Last Name | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
 | Date of Birth (DOB) | Identity verification | User input | Redis (temporary), MS Dynamics (permanent) |
-| Email Address | OTC delivery, notifications | VASS Backend | MS Dynamics, VANotify (transient) |
+| Email Address | OTP delivery, notifications | VASS Backend | MS Dynamics, VANotify (transient) |
 
 #### Authentication Data
 | Data Element | Purpose | Storage | TTL |
 |--------------|---------|---------|-----|
 | UUID | Session identifier, user lookup | Redis, VASS Backend | Session-based |
-| One-Time Code (OTC) | Authentication | Redis (hashed) | 10 minutes |
+| One-Time Code (OTP) | Authentication | Redis (hashed) | 10 minutes |
 | OAuth Access Token | VASS API authorization | Redis (hashed) | 1 hour |
 | JWT Token | vets-api session | Redis (hashed) | 1 hour |
 
@@ -118,8 +118,8 @@ flowchart RL
 #### Rate Limiting & Security Data
 | Data Element | Purpose | Storage | TTL |
 |--------------|---------|---------|-----|
-| OTC generation attempts | Rate limiting | Redis | 15 minutes |
-| OTC validation attempts | Brute-force prevention | Redis | Session-based |
+| OTP generation attempts | Rate limiting | Redis | 15 minutes |
+| OTP validation attempts | Brute-force prevention | Redis | Session-based |
 | Account lockout status | Security enforcement | Redis | 15 minutes |
 | Revoked token blacklist | Token invalidation | Redis | Until token expiration |
 
