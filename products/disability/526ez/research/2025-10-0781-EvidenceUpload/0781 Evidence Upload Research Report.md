@@ -51,7 +51,7 @@ As part of this semi-structured approach, the researcher asked participants to c
 ## Key findings
 
 * [Finding #1:](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience) Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.
-* [Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) 7 out of 8 participants could navigate the document upload process.
+* [Finding #2:](#finding-2-7-out-of-8-participants-could-navigate-the-document-upload-process) 7 out of 8 participants could navigate the document upload process.
 * [Finding #3:](#finding-3-8-out-of-10-participants-wanted-more-information-up-front-about-the-evidence-they-could-submit-to-support-their-claim) 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.
 * [Finding #4:](#finding-4-2-out-of-10-participants-were-drawn-to-the-notice-of-evidence-needed-alert-but-only-skimmed-the-instructional-content-above) 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
 * [Finding #5:](#finding-5-6-out-of-10-participants-didnt-understand-they-would-be-asked-for-information-about-the-medical-centers-they-visited-they-had-inaccurate-expectations-for-what-would-happen-next) 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
