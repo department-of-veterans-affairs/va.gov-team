@@ -84,7 +84,7 @@ No other methods of notifications are supported on this page at this time. If yo
 
 There are currently three sections within Email and text notifications. Categories are limited to 36 characters, and should align with other categories already on VA.gov. If your email or text notification does not fit within one of these categories please contact the team to discuss adding a new category. Current categories are:
 
-1. Claims and appeals
+1. Claims, decision reviews, and appeals
 2. Health care  
 3. Payments and debts
 
