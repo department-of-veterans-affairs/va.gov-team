@@ -4,7 +4,7 @@ This document describes the API specifications for VASS scheduling, defining the
 
 ## API Endpoints
 
-### POST /vass/v0/request-otc
+### POST /vass/v0/request-otp
 
 Requests a One-Time Code (OTP) to be emailed for a user's authentication. 
 
@@ -103,7 +103,7 @@ Requests a One-Time Code (OTP) to be emailed for a user's authentication.
 
 ---
 
-### POST /vass/v0/authenticate-otc
+### POST /vass/v0/authenticate-otp
 
 Authenticates user by validating the One-Time Code (OTP).   
 Returns a JWT token for further API access on success.
@@ -125,7 +125,7 @@ Returns a JWT token for further API access on success.
   "uuid": "c0ffee-1234-beef-5678",
   "lastname": "Smith",
   "dob": "1968-06-22",
-  "otc": "123456"
+  "otp": "123456"
 }
 ```
 
@@ -148,7 +148,7 @@ Returns a JWT token for further API access on success.
 {
   "errors": [
     {
-      "code": "invalid_otc",
+      "code": "invalid_otp",
       "detail": "Invalid or expired OTP.  Please try again.",
       "attemptsRemaining": 3
     }
@@ -176,7 +176,7 @@ Returns a JWT token for further API access on success.
 {
   "errors": [
     {
-      "code": "otc_expired",
+      "code": "otp_expired",
       "detail": "OTP has expired. Please request a new one."
     }
   ]
@@ -219,13 +219,13 @@ Returns a JWT token for further API access on success.
 }
 ```
 
-**Response (Missing otc):**
+**Response (Missing otp):**
 ```json
 {
   "errors": [
     {
       "code": "missing_parameter",
-      "detail": "param is missing or the value is empty: otc"
+      "detail": "param is missing or the value is empty: otp"
     }
   ]
 }
