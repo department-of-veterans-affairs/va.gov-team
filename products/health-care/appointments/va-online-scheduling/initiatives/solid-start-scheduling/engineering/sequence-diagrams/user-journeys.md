@@ -14,7 +14,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     user->>vetsWebsite: Opens link, enters last name + date of birth
-    Note over user,vassBackend: One-Time Code (OTC) verification flow
+    Note over user,vassBackend: One-Time Code (OTP) verification flow
     vetsWebsite-->>user: Redirect to scheduling page
 
     %% Step 3: View available times
@@ -61,7 +61,7 @@ sequenceDiagram
 
     %% Step 2: User validates identity
     user->>vetsWebsite: Opens link, enters last name + date of birth
-    Note over user,vassBackend: One-Time Code (OTC) verification flow
+    Note over user,vassBackend: One-Time Code (OTP) verification flow
     vetsWebsite-->>user: Proceed to cancellation page
 
     %% Step 3: Retrieve appointment details
@@ -101,19 +101,19 @@ sequenceDiagram
     participant vassBackend as VASS Backend (API + Email)
     participant vaNotify as VANotify
 
-    %% Step 1: Request One-Time Code (OTC)
+    %% Step 1: Request One-Time Code (OTP)
     vetsWebsite->>vetsApi: Send last name + DOB + UUID
     vetsApi->>vassBackend: Validate UUID in VASS
     vassBackend-->>vetsApi: Return user info or error
     vetsApi->>vetsApi: Verify last name + DOB match
-    vetsApi->>vetsApi: Generate One-Time Code (OTC)
-    vetsApi->>vaNotify: Send OTC email (templateId)
-    vaNotify-->>user: OTC email sent
+    vetsApi->>vetsApi: Generate One-Time Code (OTP)
+    vetsApi->>vaNotify: Send OTP email (templateId)
+    vaNotify-->>user: OTP email sent
 
-    %% Step 2: User enters OTC
-    user->>vetsWebsite: Enter OTC
-    vetsWebsite->>vetsApi: Validate OTC
-    vetsApi->>vetsApi: Check OTC in Redis
+    %% Step 2: User enters OTP
+    user->>vetsWebsite: Enter OTP
+    vetsWebsite->>vetsApi: Validate OTP
+    vetsApi->>vetsApi: Check OTP in Redis
     vetsApi-->>vetsWebsite: Return success if valid
 ```
 
