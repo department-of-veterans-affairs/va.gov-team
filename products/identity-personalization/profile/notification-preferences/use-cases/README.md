@@ -1,7 +1,7 @@
 # Email and text notifications use cases
 
 Last updated: January 2026  
-* User flow  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747940089539/8f90eabb12750f7e358696b92a906f38ae130113?sender=u36b374887f74c9a3de2d0750)  
 * [Figma files](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Email-and-text-notifications?m=auto&node-id=5287-31767&t=Y7ciBgHhovEVpZWc-1)  
 * Product documentation  
   * [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences)  
