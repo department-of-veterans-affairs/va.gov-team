@@ -62,10 +62,11 @@ At some point in the transition period (active maintenance window), "moment in t
 The My HealtheVet locations where these alerts need to render include: 
 |Tool name | Web URL | Mobile app page|  
 |----------|---------|----------------|
-| My HealtheVet landing page | va.gov/my-health/| N/A | 
+| My HealtheVet landing page | N/A| N/A | 
 | Appointments landing page | va.gov/my-health/appointments/ | Appointments page | 
 | Medications landing page | va.gov/my-health/medications/ | Prescriptions page | 
 | Messages inbox | va.gov/my-health/secure-messages/inbox/ | Messages page | 
+| Medical records landing page | va.gov/my-health/medical-records/ | Vaccines, Labs & Tests, Allergies pages | 
 
 ### Users with multiple facilities from the same go-live round in their user profile
 In most cases, facilities that are being transitioned are from the same US region. It's highly likely that users may have multiple facilities that are being transitioned at the same time in their profile. In order to plan for this and prevent stacking the same exact alert for multiple facilities on landing page, we will string multiple facility names together in the body content if that scenario applies to a given Veteran's profile. 
