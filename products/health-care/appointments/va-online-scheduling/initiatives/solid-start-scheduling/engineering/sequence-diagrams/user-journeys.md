@@ -113,7 +113,6 @@ sequenceDiagram
     %% Step 2: User enters OTP
     user->>vetsWebsite: Enter OTP
     vetsWebsite->>vetsApi: Validate OTP
-    vetsApi->>vetsApi: Check OTP in Redis
     vetsApi-->>vetsWebsite: Return success if valid
 ```
 
