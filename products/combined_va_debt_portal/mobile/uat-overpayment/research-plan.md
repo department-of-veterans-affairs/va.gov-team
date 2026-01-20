@@ -245,60 +245,51 @@ This method is appropriate because the overpayments feature is in its final phas
 - [Spreadsheet with test user flows and success criteria](https://dvagov.sharepoint.com/:x:/r/sites/vamobilefeaturesupport/Shared%20Documents/2026-01%20UAT%20Overpayment/Test%20user%20flows%20and%20success%20criteria.xlsx?d=w76635d8ed3a44cbcaef6629c34d7012c&csf=1&web=1&e=ZnHVTP)
 
 Pre-release app builds
-- for iOS (TestFlight)
-- for Android (Firebase)
+- for iOS (TestFlight) 🚧
+- for Android (Firebase) 🚧
 
 Directions on using pre-release app build
-- for iOS (TestFlight)
-- for Android (Firebase)
+- for iOS (TestFlight) 🚧
+- for Android (Firebase) 🚧
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
-
-**For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
-
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+
+We would like Perigean to recruit Veterans with current overpayment debt who are willing to log into the mobile app with their real credentials.
+
 
 ### Recruitment criteria
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+* Do you **currently** owe any of the following types of VA debt? If so, please select all that apply.
+    * Post-9/11 GI Bill overpayment (books and supplies, housing, or tuition)
+    * Disability compensation and pension overpayment
+    * Education Ch 33-Ch1606/Ch30 Kickers
+    * Chapter 34 education overpayment
+    * Chapter 35 education overpayment
+    * I do not currently owe any of the above types of VA debt. [DISQUALIFY]
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+* We’re conducting a study to test a new feature for viewing VA debt in the mobile app, using a preview version of the app. To participate, you’ll need to log in to the preview app using your real VA credentials and share your phone screen with the research team so we can confirm everything is working correctly. Please confirm if you are comfortable with this:
+    * I am willing to log in to the mobile app with my real credentials and share my screen during the session.
+    * I am willing to log in to the mobile app with my real credentials, describe what I am seeing on screen, but NOT share my screen.
+    * I am not comfortable logging in with my real credentials for this study. [DISQUALIFY]
 
+* Are you able to join the Zoom session from a smartphone? Any kind of smartphone will work as long as it connects to the internet.
+    * Yes, I have an iPhone where I can join the session
+    * Yes, I have an Android phone where I can join the session (for example: Samsung, Google, Motorola, or LG)
+    * No [DISQUALIFY]
+
+* When interacting with apps on your smartphone, do you usually adjust the standard display or use accessibility features? Please select all that apply.
+    * I mostly use the phone's standard display settings.
+    * I often increase the text size significantly.
+    * I use screen magnification or zoom features.
+    * I use a screen reader (such as VoiceOver or TalkBack).
+    * Other
+    * Prefer not to say
+
+
+🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
