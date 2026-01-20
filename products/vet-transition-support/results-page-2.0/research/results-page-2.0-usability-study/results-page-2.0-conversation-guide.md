@@ -91,8 +91,12 @@ After the participant shares their screen
 
 * [ ] Complete questionnaire in Codespaces using radio button prototype for odd numbered participants and checkbox prototype for even numbered participants
 
-* [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
-* [Prototype 2 (checkbox)](https://fuzzy-disco-9v77w75p4q3x7rj-3001.app.github.dev/discover-your-benefits)
+* Mikal
+   * [Prototype 1 (radio buttons)](https://redesigned-space-chainsaw-wvv96pjx7jc59-3001.app.github.dev/discover-your-benefits)
+   * [Prototype 2 (checkbox)](https://fictional-succotash-7v469v7w6rp3w9g-3001.app.github.dev/discover-your-benefits/)
+* Theo
+   * Prototype 1 (radio buttons)
+   * [Prototype 2 (checkbox)](https://fuzzy-disco-9v77w75p4q3x7rj-3001.app.github.dev/discover-your-benefits)
 
 Before submitting:
 **What do expect to happen next?**
