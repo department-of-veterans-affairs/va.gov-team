@@ -26,9 +26,18 @@ jobs:
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
 
-          git diff --name-only "$BASE_SHA" "$HEAD_SHA" \
+          # Include: Added, Copied, Modified, Renamed, Type-changed
+          # Exclude: Deleted (cannot be checked; causes "invalid file path")
+          git diff --name-only --diff-filter=ACMRT "$BASE_SHA" "$HEAD_SHA" \
             | grep -E '\.(md|mdx|txt)$' \
             | sort -u \
+            | while IFS= read -r f; do
+                if [[ -f "$f" ]]; then
+                  echo "$f"
+                else
+                  echo "::warning::Skipping non-existent path in checkout: $f"
+                fi
+              done \
             > lychee-files.txt || true
 
           echo "Changed doc files to check:"
