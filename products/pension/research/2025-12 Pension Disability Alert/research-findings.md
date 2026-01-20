@@ -152,6 +152,9 @@ tags:
   - "benefit-comparison"
 ---
 
+> [!IMPORTANT]  
+> Please refer to the topline summary for the most accurate report. This report has been generated for research ops tracking purposes.
+
 # Pension Disability Alert Research Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Pension, Pension Burial Benefits**
