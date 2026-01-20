@@ -273,7 +273,7 @@ We would like Perigean to recruit Veterans with current overpayment debt who are
     * Chapter 35 education overpayment
     * I do not currently owe any of the above types of VA debt. [DISQUALIFY]
 
-* We’re conducting a study to test a new feature for viewing VA debt in the mobile app, using a preview version of the app. To participate, you’ll need to log in to the preview app using your real VA credentials and share your phone screen with the research team so we can confirm everything is working correctly. Please confirm if you are comfortable with this:
+* We’re conducting a study to test a new feature for viewing VA debt in the mobile app, using a preview version of the app. To participate, you’ll need to log in to the preview app using your real VA credentials so we can confirm everything is working correctly. Please confirm if you are comfortable with this:
     * I am willing to log in to the mobile app with my real credentials and share my screen during the session.
     * I am willing to log in to the mobile app with my real credentials, describe what I am seeing on screen, but NOT share my screen.
     * I am not comfortable logging in with my real credentials for this study. [DISQUALIFY]
