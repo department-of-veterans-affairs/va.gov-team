@@ -7,13 +7,13 @@ Feature Toggle/flag:
 - [ ] Contact Center Review has been submitted
 - [ ] The following user flows have been tested
    - Successful ITF submission
-      -    [ ] Veteran pathway
+      -    [x] Veteran pathway
       -    [ ] non-Veteran pathway
    -  Various ITF statuses
-      -    [ ] User does not have POA for the claimant
-      -    [ ] Existing ITF is found
-      -    [ ] Can't check ITF status
-   - [ ] Failed Submission
+      -    [x] User does not have POA for the claimant
+      -    [x] Existing ITF is found
+      -    [x] Can't check ITF status
+   - [x] Failed Submission
 - [ ] Any "launch blocking" findings from Team QA have been addressed.
 - [ ] The feature flag `accredited_representative_portal_skip_itf_check`has been set to `Off` to ensure the experience is checking for exsiting ITFs.
 - [ ] Datadog monitoring is set up to track submission attempts, successes and errors.
