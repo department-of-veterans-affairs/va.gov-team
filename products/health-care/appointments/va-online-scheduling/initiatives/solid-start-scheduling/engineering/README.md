@@ -40,9 +40,8 @@ System architecture diagram:
 User flow sequence diagram:
 
 - Step-by-step appointment scheduling process
-- SMS initiation to confirmation workflow
+- Email initiation to confirmation workflow
 - API calls and data flow visualization
-- Veteran interaction points
 
 ### [📊 standard-api-response.md](./standard-api-response.md)
 
