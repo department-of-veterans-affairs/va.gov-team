@@ -289,51 +289,36 @@ We would like Perigean to recruit Veterans with current overpayment debt who are
     * Prefer not to say
 
 
-🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙🐙
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **10**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **0**
+- `Ideal completed sessions:` **3 on iOS, 3 on Android**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `Currently have an overpayment debt`
+- `5 on iOS phones` / `5 on Android phones`
+- `Be willing to log in to their VA account with their own credentials`
+    - Priority given to those who are willing to share their screens
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `A variety of types of overpayment debt among participants`
+- `Having multiple types of overpayment debt`
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
-### Optional Kick-off Call with Perigean
+### Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]** 🚧
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[Enter name]** 🚧
+- `Date and time of pilot session:` **[Enter time]** 🚧
 
 ### Research sessions
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
