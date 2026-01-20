@@ -260,11 +260,12 @@ Directions on using pre-release app build
 We would like Perigean to recruit Veterans with current overpayment debt who are willing to log into the mobile app with their real credentials.
 
 
-### Screener questions
+### Recruitment criteria
 
 > [!TIP]
 > Once order of questions is finalized, change to a numbered list
 
+Screener question 1
 * Do you **currently** owe any of the following types of VA debt? If so, please select all that apply.
     * Post-9/11 GI Bill overpayment (books and supplies, housing, or tuition)
     * Disability compensation and pension overpayment
@@ -273,16 +274,19 @@ We would like Perigean to recruit Veterans with current overpayment debt who are
     * Chapter 35 education overpayment
     * I do not currently owe any of the above types of VA debt. [DISQUALIFY]
 
+Screener question 2
 * We’re conducting a study to test a new feature for viewing VA debt in the mobile app, using a preview version of the app. To participate, you’ll need to log in to the preview app using your real VA credentials so we can confirm everything is working correctly. Please confirm if you are comfortable with this:
     * I am willing to log in to the mobile app with my real credentials and share my screen during the session.
     * I am willing to log in to the mobile app with my real credentials, describe what I am seeing on screen, but NOT share my screen.
     * I am not comfortable logging in with my real credentials for this study. [DISQUALIFY]
 
+Screener question 3
 * Are you able to join the Zoom session from a smartphone? Any kind of smartphone will work as long as it connects to the internet.
     * Yes, I have an iPhone where I can join the session
     * Yes, I have an Android phone where I can join the session (for example: Samsung, Google, Motorola, or LG)
     * No [DISQUALIFY]
 
+Screener question 4
 * When interacting with apps on your smartphone, do you usually adjust the standard display or use accessibility features? Please select all that apply.
     * I mostly use the phone's standard display settings.
     * I often increase the text size significantly.
@@ -291,6 +295,21 @@ We would like Perigean to recruit Veterans with current overpayment debt who are
     * Other
     * Prefer not to say
 
+Screener question 5
+* **Question text:** Please review the technical requirements below. To participate in this study, you must confirm that you meet these specifications and are comfortable with the following steps:
+    * VA Credentials: You have a username & password for ID.me or Login.gov and can access your two-factor authentication (text code or app).
+    * Email Access: You can open your email directly on your mobile phone to click the test link.
+    * Testing Tools: You are willing to download TestFlight (iOS) or Firebase App Distribution (Android).
+    * Storage: You have at least 200MB of free space.
+    * Phone operating system version:
+        * iPhone: iOS 16 or newer.
+        * Android: Android 12 or newer.
+    * App Replacement: If you have the standard VA app, the test version will temporarily replace it. (If you don't have the app, it will simply install as a new one). We will help you restore the original version at the end.
+    * Android Permissions: You are comfortable allowing your phone to "Install Unknown Apps" within your security settings for this session.
+    * Connection: You will be connected to WiFi during our call for a stable download.
+* **Answer text:**
+    * Yes, I meet these requirements and am ready to follow these steps during the session.
+    * No, I cannot meet these requirements at this time. [DISQUALIFY]
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
