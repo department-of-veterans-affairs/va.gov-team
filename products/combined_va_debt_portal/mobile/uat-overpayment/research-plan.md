@@ -229,9 +229,9 @@ Findings from this research will confirm whether the Overpayments functionality 
   
 ## Methodology  🛠️
 
-This study will use moderated remote User Acceptance Testing (UAT) sessions with Veterans. Participants will join a remote session where a facilitator will guide them through realistic overpayment management scenarios using a pre-release version of the app, logged in with their own credentials. 
+This study will use moderated remote User Acceptance Testing (UAT) sessions with Veterans. Participants will join a remote session where a facilitator guides them through realistic overpayment management scenarios using a pre-release version of the app, logged in with their own credentials.
 
-This method is appropriate because the overpayments feature is in the final stages of development and needs to be validated with real users before release. Moderated UAT allows for direct observation of participant interactions, and ensures that any issues or unexpected behaviors are identified in context.
+This method is appropriate because the overpayments feature is in its final phase of development and must be validated with real user data to confirm everything functions as intended. Previous usability studies have already assessed how users find and navigate the app, so this study will focus exclusively on verifying that the overpayments feature performs as expected in real-world situations.
 
 
 ### Location
