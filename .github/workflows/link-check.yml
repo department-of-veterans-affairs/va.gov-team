@@ -17,11 +17,6 @@ jobs:
         with:
           fetch-depth: 0
           lfs: false
-          sparse-checkout: |
-            **/*.md
-            **/*.mdx
-            **/*.txt
-          sparse-checkout-cone-mode: false
 
       - name: Build changed-file list (base SHA vs head SHA)
         shell: bash
