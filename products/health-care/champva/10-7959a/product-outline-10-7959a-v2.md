@@ -160,7 +160,7 @@ Rollback & Fix plan (1–3 days to triage and implement fix)
 
 ## Launch Dates
 - Target Launch Date
-  - 4/2/2025
+  - 1/26/2026
 - Actual Launch Date
   - tbd
 - Impact Review
