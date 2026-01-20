@@ -120,11 +120,11 @@ This diagram must illustrate the following specifics. **No database transactions
   - How is the data transferred, including information such as any encryption used? 
   - Who accesses the data and in what capacity (read or read-write)?
   - What is the audit trail of data access and manipulation?
-- API Endpoint Documentation:
+- API Endpoint Documentation:https://github.com/department-of-veterans-affairs/va.gov-team/blob/11c628859be97a04aef6924cae35d063b6fcc363/products/Reapers%20-%20Ch31%20Eligibility_Entitlement/Get%20Case%20Details%20API%20Scenario.txt
 This may include a link to a Swagger/OpenAPI document. Any new API endpoints introduced by this product or feature must be explicitly identified.
 - Product Specifics:
     - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    - A link to the Product Outline
+    - A link to the Product Outline 
     - Ensure Product Outline contains Incident Response info, including:
         - Points of contact for your system and dependent VA back-ends
         - Links to dashboards that help identify and debug application issues
