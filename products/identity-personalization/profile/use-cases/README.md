@@ -26,12 +26,12 @@ UPDATED for Profile 2.0
 - [Letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/letters-and-documents/letters-and-documents-landingpg.md)
    - [VA benefit letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-letters)*
    - [Veteran Status Card](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/v2-IIR/Research/use-cases.md)
- 
+ - NOT IN PRODUCTION **Communication settings**
+  - [Notification settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
+  - NOT IN PRODUCTION [Paperless delivery use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
+
 _*Pages with an asterisk link to pages outside the profile and are not managed by the Authenticated Experience team. We have linked to the respective product pages for reference only._
 
 IN PROGRESS of updating
-- **Communication settings**
-  - [Notification settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
-  - NEEDS UPDATING [Paperless delivery use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
 - [Account security use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases#readme)
 - [Connected apps use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases#readme)
