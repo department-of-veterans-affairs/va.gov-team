@@ -6,13 +6,13 @@ This document describes the API specifications for VASS scheduling, defining the
 
 ### POST /vass/v0/request-otc
 
-Requests a One-Time Code (OTC) to be emailed for a user's authentication. 
+Requests a One-Time Code (OTP) to be emailed for a user's authentication. 
 
 **Security Notes:**
 - Rate limited to 3 requests per UUID per 15 minutes
-- OTC expires after 10 minutes
-- Previous OTC is invalidated when new one is requested
-- UUIDs must be validated against VASS before sending OTC
+- OTP expires after 10 minutes
+- Previous OTP is invalidated when new one is requested
+- UUIDs must be validated against VASS before sending OTP
 
 **Request:**
 - Method: `POST`
@@ -31,13 +31,13 @@ Requests a One-Time Code (OTC) to be emailed for a user's authentication.
 ```json
 {
   "data": {
-    "message": "OTC sent to registered email address",
+    "message": "OTP sent to registered email address",
     "expiresIn": 600,
     "email": "e***@email.com"
   }
 }
 ```
-- `expiresIn`: Time in seconds until OTC expires (10 minutes)
+- `expiresIn`: Time in seconds until OTP expires (10 minutes)
 
 **Response (Rate Limited):**
 ```json
@@ -45,7 +45,7 @@ Requests a One-Time Code (OTC) to be emailed for a user's authentication.
   "errors": [
     {
       "code": "rate_limit_exceeded",
-      "detail": "Too many OTC requests.  Please try again later.",
+      "detail": "Too many OTP requests.  Please try again later.",
       "retryAfter": 900
     }
   ]
@@ -105,12 +105,12 @@ Requests a One-Time Code (OTC) to be emailed for a user's authentication.
 
 ### POST /vass/v0/authenticate-otc
 
-Authenticates user by validating the One-Time Code (OTC).   
+Authenticates user by validating the One-Time Code (OTP).   
 Returns a JWT token for further API access on success.
 
 **Security Notes:**
-- Maximum 5 OTC validation attempts before account lockout
-- OTC is cleared from Redis immediately after successful validation
+- Maximum 5 OTP validation attempts before account lockout
+- OTP is cleared from Redis immediately after successful validation
 - Failed attempts are tracked per UUID
 - JWT uses RS256 signing algorithm
 - Token includes `jti` (JWT ID) for revocation capability
@@ -143,13 +143,13 @@ Returns a JWT token for further API access on success.
 - `expiresIn`: Token expiration in seconds (1 hour)
 - `tokenType`: Token type for Authorization header
 
-**Response (Invalid OTC):**
+**Response (Invalid OTP):**
 ```json
 {
   "errors": [
     {
       "code": "invalid_otc",
-      "detail": "Invalid or expired OTC.  Please try again.",
+      "detail": "Invalid or expired OTP.  Please try again.",
       "attemptsRemaining": 3
     }
   ]
@@ -163,21 +163,21 @@ Returns a JWT token for further API access on success.
   "errors": [
     {
       "code": "account_locked",
-      "detail": "Too many failed attempts.  Please request a new OTC.",
+      "detail": "Too many failed attempts.  Please request a new OTP.",
       "retryAfter": 900
     }
   ]
 }
 ```
-- `retryAfter`: Time in seconds before a new OTC can be requested (15 minutes)
+- `retryAfter`: Time in seconds before a new OTP can be requested (15 minutes)
 
-**Response (OTC Expired):**
+**Response (OTP Expired):**
 ```json
 {
   "errors": [
     {
       "code": "otc_expired",
-      "detail": "OTC has expired. Please request a new one."
+      "detail": "OTP has expired. Please request a new one."
     }
   ]
 }
@@ -593,10 +593,10 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 ## Security Considerations
 
 ### Authentication Flow Security
-- **OTC Generation**: 6-digit numeric codes, cryptographically random
-- **OTC Storage**: Hashed in Redis with 10-minute TTL
-- **OTC Validation**: Maximum 5 attempts before 15-minute lockout
-- **Rate Limiting**: 3 OTC requests per UUID per 15 minutes
+- **OTP Generation**: 6-digit numeric codes, cryptographically random
+- **OTP Storage**: Hashed in Redis with 10-minute TTL
+- **OTP Validation**: Maximum 5 attempts before 15-minute lockout
+- **Rate Limiting**: 3 OTP requests per UUID per 15 minutes
 - **JWT Algorithm**: RS256 (RSA Signature with SHA-256)
 - **JWT Claims**: Includes `jti`, `exp`, `iat`, `sub` (uuid)
 - **Token Storage**: Active tokens stored in Redis for revocation capability
@@ -611,8 +611,8 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 ### Implementation Requirements
 1. All failed authentication attempts must be logged with UUID and timestamp
 2. Successful authentications must be logged for audit purposes
-3. OTC must be cleared from Redis immediately after successful validation
-4. Previous OTC must be invalidated when new one is requested
+3. OTP must be cleared from Redis immediately after successful validation
+4. Previous OTP must be invalidated when new one is requested
 5. JWT tokens must include `jti` claim for revocation tracking
 6.  Revoked tokens must remain in Redis blacklist until expiration
-7. UUID must be validated against VASS before sending OTC
+7. UUID must be validated against VASS before sending OTP
