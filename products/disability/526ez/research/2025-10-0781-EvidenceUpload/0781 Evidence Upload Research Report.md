@@ -51,7 +51,7 @@ As part of this semi-structured approach, the researcher asked participants to c
 ## Key findings
 
 * [Finding #1:](#finding-1-most-participants-struggled-to-understand-the-differences-between-the-three-sections-of-the-supporting-evidence-upload-experience) Most participants struggled to understand the differences between the three sections of the supporting evidence upload experience.
-* [Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.
+* [Finding #2:](#finding-2-the-list-and-loop-model-was-clear-and-7-out-of-8-participants-could-predict-the-next-step) 7 out of 8 participants could navigate the document upload process.
 * [Finding #3:](#finding-3-8-out-of-10-participants-wanted-more-information-up-front-about-the-evidence-they-could-submit-to-support-their-claim) 8 out of 10 participants wanted more information up front about the evidence they could submit to support their claim.
 * [Finding #4:](#finding-4-2-out-of-10-participants-were-drawn-to-the-notice-of-evidence-needed-alert-but-only-skimmed-the-instructional-content-above) 2 out of 10 participants were drawn to the “Notice of evidence needed” alert but only skimmed the instructional content above.   
 * [Finding #5:](#finding-5-6-out-of-10-participants-didnt-understand-they-would-be-asked-for-information-about-the-medical-centers-they-visited-they-had-inaccurate-expectations-for-what-would-happen-next) 6 out of 10 participants didn’t understand they would be asked for information about the medical centers they visited. They had inaccurate expectations for what would happen next.  
@@ -117,11 +117,11 @@ Since participants struggled with understanding the two supporting evidence uplo
 3. Update the upload component   
    1. The current upload component is V1, and was identified in the Midpoint Review as a launch blocker. We recommend updating it to the V3 component, however, that component will need to be updated to include the additional field dropdown so that Veterans can select the document type for their uploaded document. 
 
-#### **Finding #2: The list-and-loop model was clear, and 7 out of 8 participants could predict the next step.**
+#### **Finding #2: 7 out of 8 participants could navigate the document upload process.**
 
-Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may not have been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc.  
+Throughout the sessions, most of the participants had accurate expectations around where the ‘back’ and ‘continue’ buttons would lead them. As reflected in the first finding, they may not have been able to predict which section they would go to, but they knew that they would be taken to a page that asks them to upload, shows them a summary, etc. They also were able to accurately navigate or guess how to delete a file, from the summary page. 
 
-**Recommendation**: Since the list-and-loop model design pattern was successful, we recommend keeping that design pattern as the process for uploading documents.
+**Recommendation**: We recommend keeping the progression of screens for uploading documents.
 
 
 ### Page 1: Introduction page to the supporting evidence section
