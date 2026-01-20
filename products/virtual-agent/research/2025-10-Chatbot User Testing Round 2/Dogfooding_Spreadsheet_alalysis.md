@@ -187,7 +187,7 @@ The testers spanned veterans, caregivers, dependents, internal admins, and adver
 
 ## E. Conclusion
 
-The 9 files offer a thorough, protocol-driven test battery for the VA chatbot. Privacy, process, and resource guidance are strong, but improvements are needed in empathy, escalation, repetition handling, and nuanced denial logic. Targeting these areas will better align implementation to user testing protocol and expectations.
+The 10 files offer a thorough, protocol-driven test battery for the VA chatbot. Privacy, process, and resource guidance are strong, but improvements are needed in empathy, escalation, repetition handling, and nuanced denial logic. Targeting these areas will better align implementation to user testing protocol and expectations.
 
 ---
 
