@@ -5,7 +5,7 @@ The One-Time Passcode (OTP) flow is designed for scenarios where users access VA
 **How the OTP flow works with VASS API:**
 
 1. **Invitation:**  
-   The VASS backend system emails an invitation to the user, containing a unique scheduling link (with UUID and cohort ID).  
+   The VASS backend system emails an invitation to the user, containing a unique scheduling link (with UUID).  
 
 2. **Identity Validation:**  
    When the user clicks the scheduling link, they're prompted to enter their last name and date of birth.  
