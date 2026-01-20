@@ -76,15 +76,15 @@ We will **not** be recruiting assistive technology users because the Figma proto
 - Maximum sessions per day: 4  
 
 ### Availability (all times EST)
-- Friday, February 6, 2026, 8:30 AM – 5:00 PM EST  
-- Monday, February 9, 2026, 8:30 AM – 5:00 PM EST  
-- Tuesday, February 10, 2026, 8:30 AM – 5:00 PM EST  
-- Wednesday, February 11, 2026, 8:30 AM – 5:00 PM EST  
-- Thursday, February 12, 2026, 8:30 AM – 5:00 PM EST  
+- Friday, February 6, 2026, 9:00 AM – 5:00 PM EST  
+- Monday, February 9, 2026, 9:00 AM – 5:00 PM EST  
+- Tuesday, February 10, 2026, 9:00 AM – 5:00 PM EST  
+- Wednesday, February 11, 2026, 9:00 AM – 5:00 PM EST  
+- Thursday, February 12, 2026, 9:00 AM – 5:00 PM EST  
 
 **Additional days if needed**
-- Tuesday, February 17, 2026, 8:30 AM – 5:00 PM EST  
-- Wednesday, February 18, 2026, 8:30 AM – 5:00 PM EST  
+- Tuesday, February 17, 2026, 9:00 AM – 5:00 PM EST  
+- Wednesday, February 18, 2026, 9:00 AM – 5:00 PM EST  
 
 ## Team roles
 - Moderator: Florence McCafferty, Anneka Van Garza, Athena Bozak  
