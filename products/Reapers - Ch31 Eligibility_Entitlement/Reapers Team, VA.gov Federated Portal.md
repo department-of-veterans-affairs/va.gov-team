@@ -123,7 +123,7 @@ This diagram must illustrate the following specifics. **No database transactions
 - API Endpoint Documentation:https://github.com/department-of-veterans-affairs/va.gov-team/blob/11c628859be97a04aef6924cae35d063b6fcc363/products/Reapers%20-%20Ch31%20Eligibility_Entitlement/Get%20Case%20Details%20API%20Scenario.txt
 - Product Specifics:
     - A link to the Release Plan with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-    - A link to the Product Outline 
+    - A link to the Product Outline - https://github.com/department-of-veterans-affairs/va.gov-team/blob/11c628859be97a04aef6924cae35d063b6fcc363/products/Reapers%20-%20Ch31%20Eligibility_Entitlement/Phase%20II%20Product%20Outline.md
     - Ensure Product Outline contains Incident Response info, including:
         - Points of contact for your system and dependent VA back-ends
         - Links to dashboards that help identify and debug application issues
