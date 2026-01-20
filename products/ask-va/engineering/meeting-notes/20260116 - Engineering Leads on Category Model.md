@@ -1,6 +1,7 @@
 ## Meeting Notes
 
 Meeting Time:  1/16/2026 2:30 PM ET
+
 Attendees: Steve Albers, Andrew Mo, Matt Floyd
 
 [Recording - limited access](https://teams.microsoft.com/l/meetingrecap?driveId=b%21O0ZAzP9tbkK9UH3PbwkeVZ7OVF6vIP5IupMADxOTV-rZvj9ZqVAeSJb5hFmmwT8J&driveItemId=01JPRME7GLGW2XZCAEGNAYUUIMAEYSPJA6&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fsteve_albers_va_gov%2FIQDLNbV8iAQzQYpRDAExJ6QeAVhnG2FzPnKuQtL39Yn0r60&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2Fpersonal%2Fsteve_albers_va_gov%2FDocuments%2FRecordings%2FDiscuss%2520ML%2520solution%2520for%2520Ask%2520VA-20260116_143641-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00800000000104DECE1D886DC01000000000000000010000000BBAC5DD040881E47AB579622E2EC70AD&threadId=19%3Ameeting_ZmU1Yjc0ZDItY2ViMS00ZDhjLTg3ZGItNDVjN2RiYWIzNTAz%40thread.v2&organizerId=0a5e92f0-ec8b-4063-a1e1-acf7231b0fb9&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=e24de47e-225d-4b44-a7b8-31aea0cb4802&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)
