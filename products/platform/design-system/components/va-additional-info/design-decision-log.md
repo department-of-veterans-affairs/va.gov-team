@@ -4,6 +4,7 @@ Last updated: 11-21-2025
 - [ADR: 001 - Structural updates](#ADR-001---Structural-updates)
 - [ADR: 002 - Design Updates](#ADR-002---Design-Updates)
 - [ADR: 003 - Sizes](#ADR-003---Sizes)
+- [ADR: 004 - Remove border](#ADR-004---Remove-border)
 
 ## ADR 001 - Structural updates
 
@@ -82,6 +83,25 @@ We considered adding a minimum width but decided against it. In many contexts—
 
 ### Consequences
 Because this component is used extensively, it’s difficult to predict whether these additional sizing options will introduce new challenges or ultimately provide the right balance of flexibility and visual control.
+
+### Open Questions
+
+---
+
+## ADR 004 - Remove border
+
+### Status: APPROVED
+
+- Date issue raised: 01-20-2026  
+- Decision date: 01-20-2026  
+
+### Context
+The existing additional info component has a prop to hide/show left a left border. 
+
+### Decision
+In the redesign we are not allowing teams to toggle the border. We will need to remove the prop from the code
+
+### Consequences
 
 ### Open Questions
 
