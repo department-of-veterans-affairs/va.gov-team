@@ -260,7 +260,10 @@ Directions on using pre-release app build
 We would like Perigean to recruit Veterans with current overpayment debt who are willing to log into the mobile app with their real credentials.
 
 
-### Recruitment criteria
+### Screener questions
+
+> [!TIP]
+> Once order of questions is finalized, change to a numbered list
 
 * Do you **currently** owe any of the following types of VA debt? If so, please select all that apply.
     * Post-9/11 GI Bill overpayment (books and supplies, housing, or tuition)
