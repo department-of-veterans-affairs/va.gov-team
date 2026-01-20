@@ -114,7 +114,8 @@ sequenceDiagram
     user->>vetsWebsite: Enter OTP
     vetsWebsite->>vetsApi: Send OTP
     vetsApi->>vetsApi: Validate OTP
-    vetsApi-->>vetsWebsite: Return success if valid
+    vetsApi->>vetsApi: Generate JWT
+    vetsApi-->>vetsWebsite: Return JWT if valid
 ```
 
 
