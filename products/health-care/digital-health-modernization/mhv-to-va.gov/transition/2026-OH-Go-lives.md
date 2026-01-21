@@ -105,6 +105,7 @@ These designs include patterned "T" dates, that are mathematically calculating t
 
 <img width="531" height="445" alt="Screenshot 2026-01-21 at 2 39 33 PM" src="https://github.com/user-attachments/assets/90f7fb9d-3acb-45fd-b19f-4fe04a5db4e4" />
 
+<img width="598" height="719" alt="Screenshot 2026-01-21 at 2 44 14 PM" src="https://github.com/user-attachments/assets/5f079170-f85a-4545-9fd6-9b56bb5ba857" />
 
 **Alert template**
 * Appointments 
