@@ -65,7 +65,7 @@ Removed this section. The guidance is available in the [Neutral language](https:
 
 #### [Bulleted and numbered lists](https://design.va.gov/content-style-guide/bulleted-lists)
 
-Updated the [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) section to include the 3 options for adding links to lists
+Updated the [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) section to include 3 options for adding links to lists
 
 #### [Word list](https://design.va.gov/content-style-guide/word-list)
 
