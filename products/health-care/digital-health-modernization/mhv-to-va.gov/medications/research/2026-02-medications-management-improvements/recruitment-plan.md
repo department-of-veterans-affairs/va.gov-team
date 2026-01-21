@@ -71,7 +71,7 @@ We will **not** be recruiting assistive technology users because the Figma proto
 - Sessions ending: Wednesday, February 18, 2026  
 
 ### Length of sessions
-- Session length: 30 minutes  
+- Session length: 60 minutes  
 - Buffer time between sessions: 30 minutes  
 - Maximum sessions per day: 4  
 
