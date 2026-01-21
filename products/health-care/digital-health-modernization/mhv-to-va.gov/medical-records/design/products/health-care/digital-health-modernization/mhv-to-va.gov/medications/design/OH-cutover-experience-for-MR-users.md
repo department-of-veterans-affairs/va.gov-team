@@ -70,3 +70,7 @@ N/A
 
 7. Will CCDs derived from OH contain any/less/different VistA data than what was previously included in the VHIE CCD for the converted facility? 
 
+8. How long will duplicate records appear?
+- Possible June rollout will have duplicates. Remaining until we complete work to de duplicate.
+- BB won't have duplicate
+- CCD should have only OH EHR records
