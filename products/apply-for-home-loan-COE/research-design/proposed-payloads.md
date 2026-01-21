@@ -154,12 +154,13 @@ files: [
     name: 'something.jpg',
     size: 68803,
     errorMessage: 'Internal Server Error',
-    isEncrypted: false
+    isEncrypted: false,
+	"attachmentType": "Discharge or separation papers (DD214)"
   }
 ],
 ```
 
-Suggested:
+Suggested: (no change)
 ```
 files: [
   {
@@ -168,7 +169,7 @@ files: [
     size: 68803,
     errorMessage: 'Internal Server Error',
     isEncrypted: false
-    ⭐️ type: 'Discharge papers (DD214)' // 'Loan evidence', 'Name change document'
+	"attachmentType": "Discharge or separation papers (DD214)"
   }
 ],
 ```
