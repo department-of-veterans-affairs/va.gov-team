@@ -129,7 +129,7 @@ Related topics and tags were mapped to these themes to calculate the scale and f
 
 #### Intercept Surveys \- Medallia
 
-* Volume of responses analyzed: 1,119 ( Q3 2025); 347 (Q2 2025). Also referred back to past data including 1,328 responses (Q1 2025); 1,109 (Q4 2024\)  
+* Volume of responses analyzed: 2,140 ( Q3 2025); 608 (Q2 2025). Also referred back to past data including 1,328 responses (Q1 2025); 1,109 (Q4 2024\)  
 * Coverage: Randomized pop-up surveys on VA.gov pages related to identity and sign-in  
 * Limitations: Difficult to capture successful sign-ins due to short dwell time on page, creating a negative skew; responses referencing sign-in often reflect problems or friction  
 * Insights provided: High-quality, large-scale quantitative and qualitative feedback; overall satisfaction ratings and task completion data  
@@ -138,7 +138,7 @@ Related topics and tags were mapped to these themes to calculate the scale and f
 
 #### Feedback Surveys \- Medallia
 
-* Volume of responses analyzed: 1,559 (Q3 2025); 2,239 (Q2 2025). Also referred back to past data including 793 (Q1 2025); 192 (Q4 2004\)   
+* Volume of responses analyzed: 1,559 (Q3 2025); 1,819 (Q2 2025). Also referred back to past data including 793 (Q1 2025); 192 (Q4 2004\)   
 * Coverage: User-initiated feedback via "feedback" button at bottom of VA.gov pages  
 * Limitations: Shows much stronger negative sentiment than intercept surveys; attracts users who are highly motivated to share feedback, often due to frustration; not representative of all users  
 * Insights provided: Qualitative responses valuable for highlighting the most painful sign-in issues; strong signal for dissatisfaction  
