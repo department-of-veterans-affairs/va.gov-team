@@ -48,7 +48,7 @@ Before we start, I have a few things that I want to go over with you:
         > [!TIP]
         > * Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
         > * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-**You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. This prototype is a little slower than VA.gov usually is. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
     * **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
         <mark>**[Record answer here]**</mark>
@@ -79,14 +79,14 @@ Before we start, I have a few things that I want to go over with you:
 
 ---
 
-## 💻 Usability Test
+## 💻 Usability Test (20 minutes)
 
 ### Task 1: Use Discover Your Benefits Tool - Questionnaire (2 minutes)
 
-**Let's get started with our test. I'm going to drop a link in the chat for you. Please click it and share your screen.**
+**Let's get started with our test. There's a link in the chat for you. Please click it and share your screen.**
 
 After the participant shares their screen
-**I would like you to use this tool just like you would if I weren't here. I may stop you for questions along the way. Please say what you're thinking and noticing as you go.**
+**I would like you to use this tool just like you would if I weren't here. Please say what you're thinking, feeling, and noticing as you go, especially if something feels off or you run into a problem. I will have some questions for you along the way. Feel free to ask me questions, but I might hold the answers until the end.**
 
 
 * [ ] Complete questionnaire in Codespaces using radio button prototype for odd numbered participants and checkbox prototype for even numbered participants
