@@ -1,5 +1,140 @@
 <h1>DOCMP/PEGA & IVC FORMS WEEKLY SYNC</h1>
 
+Here’s a **clean, GitHub-ready Markdown version** with consistent spacing, headers, and lists so you can paste directly into a GitHub issue, PR, or discussion:
+
+---
+
+## Meeting Notes: Pega.doc MP Call
+
+**Date:** 1/21/26
+
+---
+
+## 1. Missing Status Email Testing
+
+### Staging & Production Bug Testing
+
+* Discussed **staging testing** for recent changes to **email alerts for missing statuses**.
+* **Steve** is responsible for:
+
+  * Testing changes **tonight after hours**
+  * Re-verifying results **tomorrow morning**
+* **Production testing** for the existing production bug remains scheduled **prior to 5:00 p.m. ET today**.
+* After-hours staging testing **does not impact the ability to release** the production fix.
+
+**Action Item**
+
+* Steve to complete staging testing and confirm results in the morning.
+
+---
+
+## 2. CHAMPVA Claims – Enhanced Claims Flow
+
+* VA.gov asked if PEGA could prioritize previously agreed-upon work to have DocMP:
+
+  * Combine all **medical documents** into a single document
+  * Combine all **EOBs** into a single document
+* **PEGA confirmed** this work is **not currently prioritized**.
+
+**Additional Information (No Impact to Prioritization)**
+
+* **Christine** returns on **January 23**, providing additional team support.
+
+---
+
+## 3. Enhanced Claims Flow Launch
+
+* Discussed a **potential launch date** for the CHAMPVA enhanced claims flow.
+  * All route changes were confirmed to be done for pdi/resubmissions on DocMP side
+
+**Target Launch Date**
+
+* **Monday, January 26** (tentative)
+
+---
+
+## 4. Resubmissions Tracking & Source of Truth
+
+* VA.gov shared updates to how **resubmissions are tracked**.
+* **Google Analytics (GA) and Datadog** are now the **source of truth** for resubmissions (PDIs).
+
+**Reason for Change**
+
+* Resubmissions in PEGA are routed to the **original submission PDI**.
+* If the original submission came from **fax (FX)** or **mail (CM)**:
+
+  * VA.gov resubmissions inherit the original PDI number
+  * This results in **changing PDI prefixes**
+* Because of this, PEGA **cannot reliably track resubmission volume**.
+* VA.gov added **custom tracking in GA and Datadog** to:
+
+  * Determine monthly volume for **CVA Claims resubmissions**
+  * Share numbers with business partners as needed
+
+**Decision**
+
+* PEGA should **no longer** be used as the source of truth for resubmissions.
+
+**Action Item**
+
+* VA.gov team to email **Katrina, Melissa Johnson, and Joey**:
+
+  * Communicating the change in tracking
+  * Clarifying resubmission data can be shared **monthly upon request**
+
+---
+
+## 5. Status of PEGA Work Requested by Primal
+
+* PEGA provided an update on work requested by **Premal**:
+
+  * Included in the **current PI**
+  * Team is in **Sprint 3 of 6**
+  * Work scheduled toward the **end of the PI**
+
+**Timeline**
+
+* Expected to begin in approximately **six weeks**
+
+**Action Item**
+
+* PEGA to share **relevant tickets and JIRA board** with **Mike Mooney** and **Primal**
+
+---
+
+## 6. Multiple Claims & PDI Clarification
+
+* Question raised about **multiple individual claim submissions** and PDI assignment.
+* **Cindy confirmed**:
+
+  * Each individual submission receives its **own PDI and cover sheet**
+
+**Follow-Up Needed**
+
+* Bring this topic to the **claims team** for further clarification.
+
+**Additional Action Items**
+
+* Take questions back to the claims team regarding:
+
+  * How **send-back letters** are generated **large or multi-claim submissions**
+  * How **EOBs** are generated for **large or multi-claim submissions**
+* These discussions will inform future prioritization.
+
+---
+
+## Summary
+
+* Staging and production testing are proceeding as planned with no release blockers.
+* CHAMPVA enhanced claims flow is tentatively targeted for **January 26**.
+* Resubmission tracking has moved from PEGA to **GA and Datadog**.
+* Requested PEGA work is planned for later in the current PI with follow-up actions underway.
+
+---
+
+If you want this **converted into a GitHub issue template, checklist-style action items, or split into multiple issues**, I can do that next.
+
+
 
 **Date:** January 14, 2026  
   
