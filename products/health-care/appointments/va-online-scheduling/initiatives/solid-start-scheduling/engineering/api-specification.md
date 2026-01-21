@@ -595,24 +595,14 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 ### Authentication Flow Security
 - **OTP Generation**: 6-digit numeric codes, cryptographically random
 - **OTP Storage**: Hashed in Redis with 10-minute TTL
+- **OTP Storage**: is cleared from Redis immediately after successful validation
 - **OTP Validation**: Maximum 5 attempts before 15-minute lockout
 - **Rate Limiting**: 3 OTP requests per UUID per 15 minutes
 - **JWT Algorithm**: RS256 (RSA Signature with SHA-256)
 - **JWT Claims**: Includes `jti`, `exp`, `iat`, `sub` (uuid)
-- **Token Storage**: Active tokens stored in Redis for revocation capability
 - **Token Expiration**: 1 hour (3600 seconds)
 
 ### Data Protection
 - **Transport**: All endpoints require HTTPS/TLS 1. 3+
-- **PII Handling**: Lastname and DOB validated server-side only
-- **Credential Validation**: Timing-safe comparison to prevent timing attacks
-- **Error Messages**: Generic messages to prevent information disclosure
-
-### Implementation Requirements
-1. All failed authentication attempts must be logged with UUID and timestamp
-2. Successful authentications must be logged for audit purposes
-3. OTP must be cleared from Redis immediately after successful validation
-4. Previous OTP must be invalidated when new one is requested
-5. JWT tokens must include `jti` claim for revocation tracking
-6.  Revoked tokens must remain in Redis blacklist until expiration
-7. UUID must be validated against VASS before sending OTP
+- **PII Handling**: Lastname and DOB validated server-side only. Only appointment information returnted to the client. No veteran data.
+- **Error Messages**: Generic messages to prevent PII/PHI disclosure
