@@ -15,9 +15,9 @@ This indicates that a renewable med still falls under the active med status
 ## When and which meds get an expected fill date?
 At this time, only VistA meds receive an expected fill date when they go into in-progress. OH meds will also start to receive an expected fill date soon (expected timeline is early 2027).
 
-The expected fill date should ONLY show when a mhv/rx status is 'active: fill/refill in progress' b/c its ONLY useful to the user as a calculated theoretical expectation for that specific fill.
-In VistA, we use (1) status of 'active: fill/refill in progress' (2) fill date;
-In Oracle Health(OH), we'd need the MD FHIR 'in progress' (i think?) and the 'suspend until date' (which is a FHIR extension); Also, with OH data i think we have more real-time data  in which we (unlike VistA) don't have to wait until the next calendar data to see 'request submitted' > 'fill in progress'
+      The expected fill date should ONLY show when a mhv/rx status is 'active: fill/refill in progress' b/c its ONLY useful to the user as a calculated theoretical expectation for that specific fill.
+      In VistA, we use (1) status of 'active: fill/refill in progress' (2) fill date;
+      In Oracle Health(OH), we'd need the MD FHIR 'in progress' (i think?) and the 'suspend until date' (which is a FHIR extension); Also, with OH data i think we have more real-time data  in which we (unlike VistA) don't have to wait until the next calendar data to       see 'request submitted' > 'fill in progress'
 
 So, for a 'request submitted' we don't yet have an expected fill date until pharmacy processes the submitted request, usually the next calendar day.
 
@@ -34,11 +34,11 @@ The current experience (not in the redesign) is that medications in progress do 
 The logic for flagging a prescription as delayed and to be displayed in the warning alert is determined by meeting either of 2 criteria.
 The logic is found in vets website at src/applications/mhv-medications/util/helpers/isRefillTakingLongerThanExpected.js
 
-“Rule 1: The prescription status is "refill in process" AND there is a refill date AND that refill date has already passed (it's in the past)
-OR
-2. The prescription status is "submitted" AND there is a refill submit date AND that submit date was more than 7 days ago.” Via Adrien
+      “Rule 1: The prescription status is "refill in process" AND there is a refill date AND that refill date has already passed (it's in the past)
+      OR
+      2. The prescription status is "submitted" AND there is a refill submit date AND that submit date was more than 7 days ago.” Via Adrien
 
-If a prescription hits either of those rules, it is marked as "Taking longer than expected" and added to the warning notification list.  
+      If a prescription hits either of those rules, it is marked as "Taking longer than expected" and added to the warning notification list.  
 
 ### Application to designs
 We're making a bet that is not completely proven true at this time. We know from meeting with Dr. Eric Spahn that pharmacy does not act on filling a requested refill until we are at 10 days until the expected fill date. If we are less than 10 days until the expected fill date and the pharmacy has not yet started filling it, then there is likely to be a problem of some kind. But if we are over 10 days from the expected fill date and the pharmacy hasn't started working on the refill yet, this is not indicative of a problem and no yellow warning alert should present to the user. 
