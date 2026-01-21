@@ -370,7 +370,7 @@
   },
   "12002": {
     "team_id": 12002,
-    "team_name": "Disability Core 526",
+    "team_name": "Disability Benefits Crew - Core 526",
     "short_name": "disability-benefits-1",
     "portfolio": "Benefits Portfolio",
     "crew_or_pod": "Disability Benefits Crew",
@@ -493,15 +493,6 @@
     "crew_or_pod": "VA Health Applications",
     "readme_path": "teams/health-portfolio/1010-health-apps/README.md",
     "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/1010-health-apps/README.md"
-  },
-  "33002": {
-    "team_id": 33002,
-    "team_name": "IVC Forms",
-    "short_name": "ivc-forms",
-    "portfolio": "Health Portfolio",
-    "crew_or_pod": "VA Health Applications",
-    "readme_path": "teams/health-portfolio/ivc-forms/README.md",
-    "manifest_url": "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md"
   },
   "33003": {
     "team_id": 33003,
