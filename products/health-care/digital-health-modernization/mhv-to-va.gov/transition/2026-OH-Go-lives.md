@@ -104,12 +104,15 @@ In progress - will update later.
   * T+7 / pull down error alert for these users; tool team will need to put up alert that explains to users “your clinic names may look different”
 * Medications
   * T-45 / show warning alert
-  * T-30 / switch to showing error alert
+  * T-3 / switch to showing error alert
   * T+2 / pull down error alert for these users; tool team will need alert that explains to users “you will now see duplicate medications in your list"
 * Messages: 
   * T-45 / show warning alert
-  * T-30 / switch to showing error alert
+  * T-6 / switch to showing error alert
   * T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names may look different. even though they’ve been updated, you can still find all your old messages and reply to them; you can continue to message all providers"
+* Medical records:
+  * T-45 / show warning alert
+  * T-0 / switch to showing error alert (for 24 hours only)
 
 ### Round 1: go-live date April 11, 2026
 
