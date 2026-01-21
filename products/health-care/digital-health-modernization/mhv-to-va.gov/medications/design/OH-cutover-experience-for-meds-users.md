@@ -62,7 +62,7 @@ How will we communicate these changes to Veterans?
 
      Decision: Hold until end of April.
    
-4. What is the best COA for patients during the down time? Call number on prescription label?
+4. What is the best CTA for patients during the down time? Call number on prescription label?
 
      Decision: Yes
    
