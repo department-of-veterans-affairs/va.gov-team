@@ -4,32 +4,20 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
 
 "To empower teams across VA to build consistent, accessible, and user-centered digital experiences for Veterans and their families by providing and evolving a scalable design system and forms library that is rooted in quality, collaboration, and innovation."
 
+
 ## Product Portfolio
 
 - [Design system documentation site](http://design.va.gov/) ([http://design.va.gov](http://design.va.gov) )
-
-  - Content in collaboration with Content and IA
-
-  - Technical aspects (build, deploy, dependency upgrades, etc.)
-
 - [CSS-Library](https://github.com/department-of-veterans-affairs/component-library/tree/main/packages/css-library)
-
 - [Component library](https://github.com/department-of-veterans-affairs/component-library/tree/main)
-
-  - [Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)
-
-- [Figma library](https://www.figma.com/files/team/1278375444205744118/recents-and-sharing/recently-viewed?fuid=1192586511403544015)
-
-  - Note: new users will need to be added to the VA's Figma by Tricia
-
+- [Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)
 - [Forms System](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms)
-
-  - Schema-based
-
-- Forms documentation on Platform website
-
-- Experimental design process
-
+- [Forms Patterns](https://staging.va.gov/mock-simple-forms-patterns/introduction)
+- [Figma Forms, Templates & Patterns / Components]([https://staging.va.gov/mock-simple-forms-patterns/introduction](https://www.figma.com/design/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates--Patterns--and-Forms?node-id=2988-29744&p=f&t=nNpJpVO6T5b7rO5y-0))
+- [Figma Component Library](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?node-id=121-1484&p=f&t=Gr7atn2CnhJ2TnAh-0)
+- [Release Notes](https://design.va.gov/about/whats-new#vads-component-library-releases)
+- [Roadmap](https://dsva.slack.com/docs/T03FECE8V/F094GMQHGP3)
+- Slack Channel: #platform-design-system
 ---
 
 ## Forms Library List of Products ##
@@ -152,3 +140,10 @@ To accelerate the creation of accessible, consistent, and Veteran-centered digit
 - Adoption rate of newly released components/patterns
 
 
+  ## Key Stakeholders ##
+  - Matthew Dingee, VA Product Owner,VA, matthew.dingee@va.gov
+  - Megan Siddle, Progam Manager, Oddball megan.siddle@oddball.io
+  - Tricia Baker, Lead Product Manager, Oddball tricia.baker@oddball.io
+  - Carol Wong, Product Manager, Oddball, carol.wong@oddball.io
+  - Robert Hassell, Technical Lead Forms Library, Oddball,  robert.hasselle@oddball.io
+  - Amy Leadem, Technical Lead Design System, Wilcore, amy.leadem@wilcore.io
