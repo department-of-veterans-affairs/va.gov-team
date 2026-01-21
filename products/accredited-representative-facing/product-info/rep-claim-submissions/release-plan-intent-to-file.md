@@ -61,7 +61,6 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ### 1-Week Results Post-Launch 
 
-No issues reported from our representative users.
 
 ### 1-Month Results Post Launch
 
