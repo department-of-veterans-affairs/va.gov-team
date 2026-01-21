@@ -224,8 +224,8 @@ graph TB
         Database[(PostgreSQL)]
         DataDog[DataDog/StatsD]
         
-        Buffer -.->|Every minute| Job
-        Job -->|1. RPOP batch of<br/>500 events| Buffer
+        Buffer -.->|Every 10 minutes| Job
+        Job -->|1. RPOP batch of<br/>1000 events| Buffer
         Job -->|2. Deduplicate<br/>in-memory| Job
         Job -->|3. read_multi<br/>batch check| Redis
         Job -->|4. insert_all<br/>uncached events| Database
