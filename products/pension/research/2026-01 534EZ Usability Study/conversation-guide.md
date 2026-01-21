@@ -28,7 +28,8 @@ Sign onto Zoom website via Google as Perigean w/credentials provided and start Z
   * @mention observers  
   * Share mural link for notetaking  
   * Send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into \#feedback-backchannel).  
-* Open standalone browser windows [with staging link](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)  
+* Open standalone browser windows [with staging link](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)
+    * Get a bit.ly link for convenient sharing
 * Paste link into Zoom chat (but don't hit enter)  
 * Do Not Disturb ON to mute notifications  
 * Make sure everyone is muted except me and the participant  
@@ -40,7 +41,7 @@ Sign onto Zoom website via Google as Perigean w/credentials provided and start Z
 
 ## Intro
 
-Thanks for joining us today\! My name is \[NAME\] and \[NOTETAKER NAME\] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+Thanks for joining us today\! My name is \[NAME\] and \[NOTETAKER NAME\] is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. We will get to them in a minute but first: 
 
 Today we're going to talk about applying for survivors benefits, like Survivors Pension and Dependency Indemnity Compensation.
 
@@ -59,8 +60,8 @@ Before we start, I have a few things that I want to go over with you:
 
 * **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.  
   * **Knowing that, are you comfortable if I record my screen and audio as we talk today?**  
-* **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.  
-  * **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**  
+* **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand survivors of Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions like this. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what survivors go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.  
+  * **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand survivors' experiences?**  
   * If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
 
 *Start recording.*
@@ -69,6 +70,27 @@ Before we start, I have a few things that I want to go over with you:
 * Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
 *After you start the recording, click the Show captions (CC) button to enable transcription for the recording.*
+
+## Warm-up Questions
+
+1. I understand you are a surviving spouse/child of a Veteran. Is that right?
+    - Thanks for confirming that.
+2. What kind of device are you using today? (Computer / Tablet / Smartphone)
+    - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.
+3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
+4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat.
+5. What do you know about survivor benefits?
+6. Are you familiar with how to get survivor benefits?
+    - (If Y) Have you applied for survivor benefits in the past? i.
+        - (If Y) Can you tell me about your experience? (when, how, results)
+            - Once you realized you might be eligible for benefits, what was the very first step you took to get started?
+            - Where did you go to find information about what you were entitled to?
+            - Did you experience any difficulty finding information”
+                - If Y: At what point in the process did that occur?
+            - Were there any aspects of that application experience, positive or negative, that stand out in your memory?
+                - (If Y)Can you talk about that?
+    - (If N) No problem. You'll learn about it as we go through this session.
+        - As someone new to this process, what are your immediate thoughts or concerns about applying for VA benefits for the first time?
 
 ## Screen sharing instructions (if needed)
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
@@ -80,62 +102,27 @@ Before we start, I have a few things that I want to go over with you:
 - Backup plan if they cannot figure out how to share screen:
     - Ok, it seems like we're having trouble sharing your screen, so I'm going to share my screen with you and give you control of it. Does that sound ok? [Share your screen]. Can you confirm if you can see my screen? [Give mouse control--doesn't work w/iPhones] Can you click and see if you can move your mouse around on my screen?
 
-## Warm-up Questions
-
-Before we look at the website, let’s start with a few warm-up questions.
-
-1. I understand you are a surviving spouse/child of a Veteran. Is that right?  
-    - Thanks for confirming that.  
-2. What kind of device are you using today? (Computer / Tablet / Smartphone) 
-    - Mobile probe: if Smartphone, ask about any specific challenges they face using government websites on a mobile device.
-3. What web browser do you use? (Chrome / Firefox / Edge / Safari / _______)
-4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat.   
-5. What do you know about survivor benefits?  
-6. Are you familiar with how to get survivor benefits?  
-   1. (If Y) Have you applied for survivor benefits in the past? i.   
-      * (If Y) Can you tell me about your experience? (when, how, results)  
-         * Once you realized you might be eligible for benefits, what was the very first step you took to get started?  
-         * Where did you go to find information about what you were entitled to?
-         * Did you experience any difficulty finding information”
-             * If Y: At what point in the process did that occur?
-         * Were there any aspects of that application experience, positive or negative, that stand out in your memory? 
-             * (If Y)Can you talk about that?
-   2. (If N) No problem. You'll learn about it as we go through this session.
-         * As someone new to this process, what are your immediate thoughts or concerns about applying for VA benefits for the first time?
-
-## User Tasks
-
-### Screen sharing
-
-I would like you to share your screen with me so that I can see what you do during this session. Before we start, I want to make sure you know that screen share will show me your own screen, so if you'd like to close any apps or turn off notifications that you don't want me to see, you could do that now. - (refer to Screen sharing instructions above, if needed) - STOP TECH TROUBLESHOOTING < 20 min into session if want a replacement participant from Perigean b/c not likely to be successful
-
-We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
-
-1. Make sure that the Zoom application has focus
-2. Navigate to the screen share button
-3. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
-4. Activate the screen share
-
 ## First Task: Wayfinding
 
+- First we’re going to look at the VA home page at this URL: [staging.va.gov](https://staging.va.gov/)
 - If you wanted to learn more about survivors benefits, what would you do first on VA.gov?  
     - Prompt: How would you go about finding this specific form on the VA.gov site?
     - Note what they would use*: Google / VA.gov / key words looking/searching for: _______________________
 - Do you understand the difference between Dependency and Indemnity Compensation (DIC), Survivors Pension, and Accrued Benefits?
-    - If N: where would you go to find that information?
+    - If N: can you show me where you would go to find that information?
 
-**The new test form is not especially searchable/findable yet on staging, so they may demo their approach - but reassure them that it may not be effective on the test site.** 
+***The new test form is not especially searchable/findable yet on staging, so they may demo their approach - but reassure them that it may not be effective on the test site. So your results here may not actually surface the form - but I’m interested in how you would go about looking for it** 
 
 ## Second Task: Open form
 
-Let's suppose that (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits. As you work, please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)
+Let's suppose that your search (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits. As you work, please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)(Use a bit.ly URL!)
 
 Did you get the link?
 
 * If see “unsupported browser” error, ask to try a different browser or device, or share my screen (works for anyone) and mouse control (doesn't work w/iPhones)  
 * If link doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)
 
-Please look over the section under “Follow these steps to get started.” Do the steps make sense to you? 
+**Please look over the section under “Follow these steps to get started.” Do the steps make sense to you?** 
 
 ## Third Task: Go through questions in form
 
@@ -145,9 +132,11 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 
 (RECORD all feedback on questions and if they get an alert to provide a supporting document)
 
-- If you had to stop and come back to the form, would you know how to save your progress and return? What would make you decide to save and exit versus completing the form in one session?
+- If you had to stop and come back to the form, would you know how to save your progress and return?
 
 *Note: This form uses conditional logic, certain questions don’t appear on every flow. The following steps highlight key pages where we could prompt participants for feedback.*
+
+Let’s go on, and just talk through your thought process as you go. 
 
 * Intro screen  
 * Step 1: Veteran info  
@@ -158,7 +147,7 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
       * What was your expectation when you selected 'Other'?  
       * *Navigate back a page and select a different relationship.*  
   * Benefit type  
-    * In your own words, what is the benefit you selected for?  
+    * In your own words, what is the benefit you selected *for*?  
     * Is there any term on this page that feels unfamiliar or confusing?
     * Do you feel confident that you selected the right benefit type for your situation (DIC vs. Survivors Pension vs. Accrued Benefits)? Why or why not?
 * Step 3: Military history  
@@ -185,7 +174,7 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
 * Step 6: Financial info  
   * There are several alerts in this section that tell participants to obtain supporting documents. If an alert appears, before continuing to the next page, ask:  
     * Please tell me about what you see here.  
-    * What information, if any, stood out to you?  
+    * What information, if any, stands out to you?  
     * What would you do now?  
   * Income and assets  
     * Looking at the information on this page, are there any items you own that you are unsure about including as an asset? You don’t have to tell me what they might be, just a simple “yes” or “no” is fine.   
@@ -201,7 +190,7 @@ Please try to **talk aloud** about what you're thinking and what you plan to do 
     * (At the end of both sections) Is there an expense you've actually paid that doesn't seem to fit into these categories?  
 * Step 7: Additional info  
   * Direct deposit info  
-    * We may need to provide fake info for them to enter
+    * Provide them with fake account info
 
 *Pause on the supporting documents list.*
 
@@ -221,12 +210,12 @@ Please tell me about what you see here.
 
 Please tell me about what you see here.
 
-What does this mean to you?  
-What would you do now?
+- What does this mean to you?  
+- What would you do now?
 
-On a scale of 1-5, one being not confident at all and five being very confident, how confident are you that you have provided all the necessary information and that your application is complete? 
+- On a scale of 1-5, one being not confident at all and five being very confident, how confident are you that you have provided all the necessary information and that your application is complete? 
 
-Do you have any concerns that the information you provided might lead to an issue like an over- or underpayment?]
+Do you have any concerns that the information you provided might lead to an issue like an over- or underpayment?
 - If Y: Can you talk briefly about why you might have those concerns?
 
 ## Sixth Task: Confirmation
@@ -260,7 +249,7 @@ Please tell me about what you see here.
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans and their families..
 
 Thanks\! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
