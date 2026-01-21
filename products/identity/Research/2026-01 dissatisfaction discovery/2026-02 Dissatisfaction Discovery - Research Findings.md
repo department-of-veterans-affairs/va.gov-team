@@ -98,29 +98,29 @@ Related topics and tags were mapped to these themes to calculate the scale and f
 | Note: [ID.me](http://ID.me) support data to be added |
 | :---- |
 
-| Theme | Feedback channel | Volume in Q3 2025 | Correlating data |  | Detailed findings |
-| :---- | :---- | :---- | :---- | ----- | :---- |
-| Identity verification | Intercept survey | 179 comments tagged | Return rates from /verify indicate drop-off Top theme in negative sentiment on public forums MyVA411 call center data from previous quarters illustrates \~50% cases tagged as identity verification Related to cases of verify loops where Veterans are asked to verify their identity again |  | Personal information not matching between systems Uploading identity documents Digital access (smartphone adoption) Identity verification looping creates high negative sentiment |
+| Theme | Feedback channel | Volume in Q3 2025 | Correlating data | Detailed findings |
+| :---- | :---- | :---- | :---- | :---- |
+| Identity verification | Intercept survey | 179 comments tagged | Return rates from /verify indicate drop-off Top theme in negative sentiment on public forums MyVA411 call center data from previous quarters illustrates \~50% cases tagged as identity verification Related to cases of verify loops where Veterans are asked to verify their identity again | Personal information not matching between systems Uploading identity documents Digital access (smartphone adoption) Identity verification looping creates high negative sentiment |
 |  | Feedback survey | 201 comments tagged |  |  |  |
 |  | HRC | Not captured |  |  |  |
 |  | Login.gov support | 14,473 cases |  |  |  |
-| Technical errors | Intercept survey | 225 comments tagged | Top case driver for HRC Top reason ID.me support cases are transferred to VA LG99 errors are a top support topic Data mismatch theme appears in public forum comments FE error logs established for future monitoring 007 errors |  | Personal information incorrect or mismatched in other systems (007 errors) Session timeout errors Client-side errors (400) can be resolved with clearing cache/cookies Incidents or outages lead to errors but may be caused by other services |
+| Technical errors | Intercept survey | 225 comments tagged | Top case driver for HRC Top reason ID.me support cases are transferred to VA LG99 errors are a top support topic Data mismatch theme appears in public forum comments FE error logs established for future monitoring 007 errors | Personal information incorrect or mismatched in other systems (007 errors) Session timeout errors Client-side errors (400) can be resolved with clearing cache/cookies Incidents or outages lead to errors but may be caused by other services |
 |  | Feedback survey | 145 comments tagged |  |  |  |
 |  | HRC | 919  cases |  |  |  |
 |  | Login.gov support | LG99 errors are [Login.gov](http://Login.gov) system errors \- 2,134 calls |  |  |  |
-| Sign-in loop | Intercept survey | 106 comments tagged | Top theme from analysis on public forums Comments report being redirected to the sign-in page after completing the sign in process Topic flagged by Veteran Support team for further investigation |  | Redirects to sign-in page after MFA step Redirects to sign-in page after logging in Users prompted to repeat the identity verification process again |
+| Sign-in loop | Intercept survey | 106 comments tagged | Top theme from analysis on public forums Comments report being redirected to the sign-in page after completing the sign in process Topic flagged by Veteran Support team for further investigation | Redirects to sign-in page after MFA step Redirects to sign-in page after logging in Users prompted to repeat the identity verification process again |
 |  | Feedback survey | 104 comments tagged |  |  |  |
 |  | HRC | Not captured |  |  |  |
 |  | Login.gov support | Not captured |  |  |  |
-| MFA | Intercept survey | 87 comments tagged | Top theme in negative sentiment on public forums (after identity verification)  Mentioned in some sign-in loop comments Top theme in past identity research  |  | Losing access to MFA method requires completing identity verification again For [Login.gov](http://Login.gov) it requires creating a brand new account |
+| MFA | Intercept survey | 87 comments tagged | Top theme in negative sentiment on public forums (after identity verification)  Mentioned in some sign-in loop comments Top theme in past identity research  | Losing access to MFA method requires completing identity verification again For [Login.gov](http://Login.gov) it requires creating a brand new account |
 |  | Feedback survey | 30 comments tagged |  |  |  |
 |  | HRC | 692 cases |  |  |  |
 |  | Login.gov support | 987 cases |  |  |  |
-| Personal information and digital access  | Intercept survey | 68 comments tagged | Recover account is a top subtopic for [Login.gov](http://Login.gov) in July and September Negative sentiment about data mismatch identified in public forums (Q2-Q3 2025\) Negative sentiment about cell phone requirement in public forums (Q2-Q3 2025\) High case volume for MyVA411 call center Q1 2025 |  | Losing access to email account and getting locked out of sign in account Data mismatched between different systems of record Missing personal information Older Veterans with lower technical literacy face hardship completing the identity verification process \- this is difficult to quantify the exact scale but it’s a consistent finding |
+| Personal information and digital access  | Intercept survey | 68 comments tagged | Recover account is a top subtopic for [Login.gov](http://Login.gov) in July and September Negative sentiment about data mismatch identified in public forums (Q2-Q3 2025\) Negative sentiment about cell phone requirement in public forums (Q2-Q3 2025\) High case volume for MyVA411 call center Q1 2025 | Losing access to email account and getting locked out of sign in account Data mismatched between different systems of record Missing personal information Older Veterans with lower technical literacy face hardship completing the identity verification process \- this is difficult to quantify the exact scale but it’s a consistent finding |
 |  | Feedback survey | 38 comments tagged |  |  |  |
 |  | HRC | Not captured |  |  |  |
 |  | Login.gov support | 2273 cases (Not captured in August) |  |  |  |
-| UX pain points | Intercept survey | 2 comments tagged | Feedback comments mention not being able to locate the button to accept terms |  | This topic is not likely to be raised in CSP support channels FE errors tracked for users who do not authorize VA |
+| UX pain points | Intercept survey | 2 comments tagged | Feedback comments mention not being able to locate the button to accept terms | This topic is not likely to be raised in CSP support channels FE errors tracked for users who do not authorize VA |
 |  | Feedback survey | 163 comments tagged |  |  |  |
 |  | HRC | Not captured |  |  |  |
 |  | Login.gov support | Not captured |  |  |  |
