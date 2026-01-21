@@ -4,7 +4,7 @@ Feature Toggle/flag:
 `accredited_representative_portal_intent_to_file` will control visibility of the Intent to File feature, for Accredited Representative Portal users. This will be disabled in Production prior to release.
 
 ### Preparation
-- [ ] Contact Center Review has been submitted
+- [x] Contact Center Review has been submitted
 - [ ] The following user flows have been tested
    - Successful ITF submission
       -    [x] Veteran pathway
