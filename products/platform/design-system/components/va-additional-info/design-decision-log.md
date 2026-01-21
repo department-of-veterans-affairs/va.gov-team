@@ -105,3 +105,41 @@ In the redesign we are not allowing teams to toggle the border. We will need to 
 
 ### Open Questions
 
+---
+
+## ADR 005 - Indenting details text
+
+### Status: APPROVED
+
+- Date issue raised: 01-17-2026  
+- Decision date: 01-21-2026  
+
+### Context
+The original Additional Info component does not indent content within the details area because the icon has historically been placed on the right side of the summary text. We are moving the icon to the left side, which has created an alignment issue between the summary text and the details text. The summary text is indented due to the new icon, while the details text is not.
+
+### Decision
+We decided to indent the details text by 24px so that it aligns with the summary text above. This helps create a clearer visual hierarchy and improves understanding of the relationship between the summary text and the details text.
+
+### Consequences
+There is already an issue with text becoming too condensed on mobile, and this change will add an extra 24px of empty space to the content, which could cause readability issues—especially if the Additional Info component already contains a large amount of content. In some cases, the Additional Info component may already be indented, and this change could exacerbate spacing issues on mobile. We will need to reevaluate this design choice if we encounter use cases where the content requires more space.
+
+### Open Questions
+
+---
+
+## ADR 006 - Icon vertical alignment
+
+### Status: APPROVED
+
+- Date issue raised: 01-17-2026  
+- Decision date: 01-21-2026  
+
+### Context
+The Additional Info icon was originally intended to be vertically centered to align with the Accordion icon. However, after reviewing the design, we determined that this could cause confusion about where the summary text begins. While the Accordion uses a centered icon, it includes visual differences that support this alignment. The Accordion has a gray background that creates visual separation, whereas the Additional Info component will have no divider or visual separation between the summary and the details.
+
+### Decision
+We will vertically align the icon in the summary text to the top of the summary so that it more closely matches how HTML bullets are designed, where bullets align to the top of the text. This helps users quickly identify where the summary text begins.
+
+### Consequences
+
+### Open Questions
