@@ -32,6 +32,28 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
 
 ---
 
+## Forms Library List of Products ##
+### Components & Patterns
+OKR's 1.1 & 3.3
+- The team successfully integrated the USWDS version 3 components and patterns into the [forms library](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system/src/js/web-component-patterns). Additionally, we  developed new patterns to further enhance these resources, contributing to both the design system and forms library. As a result of our efforts, other forms teams have been able to efficiently create new forms by leveraging the patterns and components available within the forms library. This streamlined process has improved overall productivity and consistency in form development.
+- [Prefill Pattern](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) - IN PROGRESS
+- [Service History Pattern](https://design.va.gov/patterns/ask-users-for/service-history)
+- [Form Submitter Pattern](https://design.va.gov/patterns/help-users-to/identify-who-is-filling-out-a-form)
+- [Name and Date of Birth](https://design.va.gov/patterns/ask-users-for/names) 
+- [Identification information](https://design.va.gov/patterns/ask-users-for/social-security-number)
+- [Relationship to Veteran](https://design.va.gov/patterns/ask-users-for/relationship)
+- [Mailing address](https://design.va.gov/patterns/ask-users-for/addresses)
+- [Phone and email address](https://www.figma.com/file/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates%2C-Patterns%2C-and-Forms?type=design&node-id=2988-9602&mode=design&t=G7cHyOgjfgKxCDPo-11)
+- [Example form](https://staging.va.gov/mock-form-minimal-header/introduction) including the above patterns
+- Conditionally revealed
+- [New confirmation page with subcomponents](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system/src/js/components/ConfirmationView)
+- Minimal header - with [example form](https://staging.va.gov/mock-form-minimal-header/introduction) and sub components Back link
+- Routes (dev only) - ability to jump to different pages within a form
+- [Housing status](https://design.va.gov/patterns/ask-users-for/housing-status) Note:  This pattern also influenced Form Product owners at the VA to update the questions on 3 PDF's to match the pattern in the online form.
+- [Multiple responses list & loop](https://design.va.gov/patterns/ask-users-for/multiple-responses)
+- [Single response](https://design.va.gov/patterns/ask-users-for/a-single-response)
+
+
 ## Problem Statements
 
 ### **Problem Statement 1: Inconsistency Across Experiences**
