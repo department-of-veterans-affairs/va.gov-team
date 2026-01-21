@@ -31,14 +31,14 @@ Removed this section. The guidance is available in the [Neutral language](https:
 
 - Changed the order of accounts in the text so **ID.me** comes before **Login.gov**.
 - Removed the guidance to emphasize using **Login.gov**.
-- Updated the guidance on explaining that **ID.me** and **Login.gov** are accounts and not separate tools:
+- Revised the guidance explaining that **ID.me** and **Login.gov** are accounts and not separate tools:
   > Research has shown that some people confuse **Login.gov** with being a separate tool, and some people think they need to go to the **ID.me** or **Login.gov** websites to sign in rather than VA.gov. So, we reinforce that **ID.me** and **Login.gov** are types of sign-in accounts—not separate tools or websites—by using the phrase “**ID.me** account” or “**Login.gov** account.”
 - Added guidance on the term "**DS Logon**":
   > VA no longer offers the ability to sign in with a DS Logon username and password. Use this term only in reference to this option going away or the ability to use this option for Defense Department (DOD) websites.
-- Added guidance on using the "MFA" acronym. Introduce "MFA" on the first mention and use "MFA" on any subsequent mentions on the same page.
-- Updated the "My HealtheVet" guidance:
+- Added guidance on using the "MFA" acronym: Introduce "MFA" on the first mention and use "MFA" on any subsequent mentions on the same page.
+- Updated the "**My HealtheVet**" guidance:
   > With rare temporary exceptions, VA no longer offers the **My HealtheVet** user ID and password option for sign in. Today, **My HealtheVet on VA.gov** refers instead only to the health portal on VA.gov. When using this term to refer to the portal, “My HealtheVet” is 2 words. Don’t italicize the “e” between “Health” and “Vet” in digital content body copy, headlines, or user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo and in print materials.<p>
-**Note:** We no longer tell Veterans to create new **My HealtheVet** accounts or upgrade existing accounts. We don't use the terms "My HealtheVet basic," "My HealtheVet advanced," or "My HealtheVet Premium." Don't refer to the sign-in account Veterans use to access their health portal as a **My HealtheVet account.** Instead, refer to the type of sign-in account (**ID.me** or **Login.gov**) or simply "your sign-in account."
+**Note:** We no longer tell Veterans to create new **My HealtheVet** accounts or upgrade existing accounts. We don't use the terms "My HealtheVet basic," "My HealtheVet advanced," or "My HealtheVet Premium." Don't refer to the sign-in account Veterans use to access their health portal as a **My HealtheVet account**. Instead, refer to the type of sign-in account (**ID.me** or **Login.gov**) or simply "your sign-in account."
 - Added "My HealtheVet account" to the retired terms and updated the guidance:
   > With rare temporary exceptions, VA no longer offers this sign-in option. Don't refer to the sign-in account Veterans use to access their health portal as a **My HealtheVet account**. Instead, refer to the type of sign-in account (**ID.me** or **Login.gov**) or simply "your sign-in account."
 
@@ -65,19 +65,18 @@ Removed this section. The guidance is available in the [Neutral language](https:
 
 #### [Bulleted and numbered lists](https://design.va.gov/content-style-guide/bulleted-lists)
 
-- Updated the [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) section to include the 3 options for adding links to lists
-- Minor edits to align with the style guide
+Updated the [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) section to include the 3 options for adding links to lists
 
 #### [Word list](https://design.va.gov/content-style-guide/word-list)
 
 - Updated entries:
-  >**apply**: updated the examples only<br>
+  >**apply**: updated the examples<br>
 **delete**: clarified this is specifically for file uploads<br>
 **educational and career counseling**: removed note on style differences on Education and Career Counseling pages<br>
 **educational counseling**: removed note on style differences on Education and Career Counseling pages<br>
 **Montgomery GI Bill Active Duty (MGIB-AD)**: added information on using the acronym and "Chapter 30"<br>
-**Montgomery GI Bill Selected Reserve (MGIB-SR)**: added information on using the acronym and "Chapter 1606")
-My HealtheVet (added that this is 2 words<br>
+**Montgomery GI Bill Selected Reserve (MGIB-SR)**: added information on using the acronym and "Chapter 1606"<br>
+**My HealtheVet**: added that this is 2 words<br>
 **upload**: clarified this is specifically for file uploads<br>
 **Veteran Readiness and Employment (VR&E)**: added information on using the acronym and "Chapter 31"; added information about the previous names for the program
 - Added new entries:
