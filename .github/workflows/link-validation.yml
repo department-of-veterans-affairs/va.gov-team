@@ -18,6 +18,15 @@ jobs:
           fetch-depth: 1
           lfs: false
 
+      - name: Fetch PR base/head commits for diff
+        shell: bash
+        run: |
+          set -euo pipefail
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          git fetch --no-tags --depth=1 origin "$BASE_SHA"
+          git fetch --no-tags --depth=1 origin "$HEAD_SHA"
+
       - name: Build changed-files list
         shell: bash
         run: |
@@ -26,20 +35,22 @@ jobs:
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
 
-          # Check added/copied/modified/renamed files, ignore deleted files
           git diff --name-only --diff-filter=ACMRT "$BASE_SHA" "$HEAD_SHA" \
-            | grep -E '\.(md|txt)$' \
+            | grep -E '\.(md|mdx|txt)$' \
             | sort -u \
-            | while IFS= read -r f; do
-                if [[ -f "$f" ]]; then
-                  echo "$f"
-                else
-                  echo "::warning::Skipping non-existent path in checkout: $f"
-                fi
-              done \
-            > changed-files.txt || true
+            > changed-files.raw.txt || true
 
-          echo "Changed text files to check:"
+          : > changed-files.txt
+          while IFS= read -r f; do
+            [[ -z "$f" ]] && continue
+            if [[ -f "$f" ]]; then
+              echo "$f" >> changed-files.txt
+            else
+              echo "::warning::Skipping non-existent path in checkout: $f"
+            fi
+          done < changed-files.raw.txt
+
+          echo "Changed documentation files:"
           cat changed-files.txt || true
 
           if [[ ! -s changed-files.txt ]]; then
@@ -48,10 +59,12 @@ jobs:
           fi
 
       - name: Run lychee on changed-files
+        if: hashFiles('changed-files.txt') != ''
         uses: lycheeverse/lychee-action@v2
         with:
           lycheeVersion: latest
           fail: false
+          failIfEmpty: false
           args: >
             --verbose
             --no-progress
