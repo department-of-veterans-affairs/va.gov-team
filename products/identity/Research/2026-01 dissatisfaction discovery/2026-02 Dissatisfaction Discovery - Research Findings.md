@@ -89,42 +89,6 @@ Our analytical approach involved:
 * Data correlation — contextualizing top themes with additional qualitative and quantitative insights from other data sources in detailed findings  
 * Sentiment analysis scoring — Calculating sentiment by theme and feedback channel using ML.
 
-### Q3 2025 measurement of top themes
-
-We’re establishing benchmarks for these data sources with a focus on **Q3 2025 (July 1 \- September 30, 2025\)** following the completion of the secure sign-in transition initiative. 
-
-Related topics and tags were mapped to these themes to calculate the scale and frequency these issues arise across various channels. This is the simplest way to move forward with an MVP. Future iterations of this measurement could track several numbers, choosing only one to follow, or coming up with a composite score and a method to weight several scores for combining.
-
-| Note: [ID.me](http://ID.me) support data to be added |
-| :---- |
-
-| Theme | Feedback channel | Volume in Q3 2025 | Correlating data | Detailed findings |
-| :---- | :---- | :---- | :---- | :---- |
-| Identity verification | Intercept survey | 179 comments tagged | Return rates from /verify indicate drop-off Top theme in negative sentiment on public forums MyVA411 call center data from previous quarters illustrates \~50% cases tagged as identity verification Related to cases of verify loops where Veterans are asked to verify their identity again | Personal information not matching between systems Uploading identity documents Digital access (smartphone adoption) Identity verification looping creates high negative sentiment |
-|  | Feedback survey | 201 comments tagged |  |  |  |
-|  | HRC | Not captured |  |  |  |
-|  | Login.gov support | 14,473 cases |  |  |  |
-| Technical errors | Intercept survey | 225 comments tagged | Top case driver for HRC Top reason ID.me support cases are transferred to VA LG99 errors are a top support topic Data mismatch theme appears in public forum comments FE error logs established for future monitoring 007 errors | Personal information incorrect or mismatched in other systems (007 errors) Session timeout errors Client-side errors (400) can be resolved with clearing cache/cookies Incidents or outages lead to errors but may be caused by other services |
-|  | Feedback survey | 145 comments tagged |  |  |  |
-|  | HRC | 919  cases |  |  |  |
-|  | Login.gov support | LG99 errors are [Login.gov](http://Login.gov) system errors \- 2,134 calls |  |  |  |
-| Sign-in loop | Intercept survey | 106 comments tagged | Top theme from analysis on public forums Comments report being redirected to the sign-in page after completing the sign in process Topic flagged by Veteran Support team for further investigation | Redirects to sign-in page after MFA step Redirects to sign-in page after logging in Users prompted to repeat the identity verification process again |
-|  | Feedback survey | 104 comments tagged |  |  |  |
-|  | HRC | Not captured |  |  |  |
-|  | Login.gov support | Not captured |  |  |  |
-| MFA | Intercept survey | 87 comments tagged | Top theme in negative sentiment on public forums (after identity verification)  Mentioned in some sign-in loop comments Top theme in past identity research  | Losing access to MFA method requires completing identity verification again For [Login.gov](http://Login.gov) it requires creating a brand new account |
-|  | Feedback survey | 30 comments tagged |  |  |  |
-|  | HRC | 692 cases |  |  |  |
-|  | Login.gov support | 987 cases |  |  |  |
-| Personal information and digital access  | Intercept survey | 68 comments tagged | Recover account is a top subtopic for [Login.gov](http://Login.gov) in July and September Negative sentiment about data mismatch identified in public forums (Q2-Q3 2025\) Negative sentiment about cell phone requirement in public forums (Q2-Q3 2025\) High case volume for MyVA411 call center Q1 2025 | Losing access to email account and getting locked out of sign in account Data mismatched between different systems of record Missing personal information Older Veterans with lower technical literacy face hardship completing the identity verification process \- this is difficult to quantify the exact scale but it’s a consistent finding |
-|  | Feedback survey | 38 comments tagged |  |  |  |
-|  | HRC | Not captured |  |  |  |
-|  | Login.gov support | 2273 cases (Not captured in August) |  |  |  |
-| UX pain points | Intercept survey | 2 comments tagged | Feedback comments mention not being able to locate the button to accept terms | This topic is not likely to be raised in CSP support channels FE errors tracked for users who do not authorize VA |
-|  | Feedback survey | 163 comments tagged |  |  |  |
-|  | HRC | Not captured |  |  |  |
-|  | Login.gov support | Not captured |  |  |  |
-
 ### Quantitative Data Sources
 
 #### Intercept Surveys \- Medallia
@@ -286,18 +250,55 @@ Themes
 * Personal information and digital access  
 * UX pain points
 
-## Detailed findings of themes
+#### Measurement of top themes - Q3 2025 
 
-### Identity verification: verification looping
+We’re establishing benchmarks for these data sources with a focus on **Q3 2025 (July 1 \- September 30, 2025\)** following the completion of the secure sign-in transition initiative. 
 
-#### Symptoms
+Related topics and tags were mapped to these themes to calculate the scale and frequency these issues arise across various channels. This is the simplest way to move forward with an MVP. Future iterations of this measurement could track several numbers, choosing only one to follow, or coming up with a composite score and a method to weight several scores for combining.
+
+| Note: [ID.me](http://ID.me) support data to be added |
+| :---- |
+
+| Theme | Feedback channel | Volume in Q3 2025 | Correlating data | Detailed findings |
+| :---- | :---- | :---- | :---- | :---- |
+| Identity verification | Intercept survey | 179 comments tagged | Return rates from /verify indicate drop-off Top theme in negative sentiment on public forums MyVA411 call center data from previous quarters illustrates \~50% cases tagged as identity verification Related to cases of verify loops where Veterans are asked to verify their identity again | Personal information not matching between systems Uploading identity documents Digital access (smartphone adoption) Identity verification looping creates high negative sentiment |
+|  | Feedback survey | 201 comments tagged |  |  |  |
+|  | HRC | Not captured |  |  |  |
+|  | Login.gov support | 14,473 cases |  |  |  |
+| Technical errors | Intercept survey | 225 comments tagged | Top case driver for HRC Top reason ID.me support cases are transferred to VA LG99 errors are a top support topic Data mismatch theme appears in public forum comments FE error logs established for future monitoring 007 errors | Personal information incorrect or mismatched in other systems (007 errors) Session timeout errors Client-side errors (400) can be resolved with clearing cache/cookies Incidents or outages lead to errors but may be caused by other services |
+|  | Feedback survey | 145 comments tagged |  |  |  |
+|  | HRC | 919  cases |  |  |  |
+|  | Login.gov support | LG99 errors are [Login.gov](http://Login.gov) system errors \- 2,134 calls |  |  |  |
+| Sign-in loop | Intercept survey | 106 comments tagged | Top theme from analysis on public forums Comments report being redirected to the sign-in page after completing the sign in process Topic flagged by Veteran Support team for further investigation | Redirects to sign-in page after MFA step Redirects to sign-in page after logging in Users prompted to repeat the identity verification process again |
+|  | Feedback survey | 104 comments tagged |  |  |  |
+|  | HRC | Not captured |  |  |  |
+|  | Login.gov support | Not captured |  |  |  |
+| MFA | Intercept survey | 87 comments tagged | Top theme in negative sentiment on public forums (after identity verification)  Mentioned in some sign-in loop comments Top theme in past identity research  | Losing access to MFA method requires completing identity verification again For [Login.gov](http://Login.gov) it requires creating a brand new account |
+|  | Feedback survey | 30 comments tagged |  |  |  |
+|  | HRC | 692 cases |  |  |  |
+|  | Login.gov support | 987 cases |  |  |  |
+| Personal information and digital access  | Intercept survey | 68 comments tagged | Recover account is a top subtopic for [Login.gov](http://Login.gov) in July and September Negative sentiment about data mismatch identified in public forums (Q2-Q3 2025\) Negative sentiment about cell phone requirement in public forums (Q2-Q3 2025\) High case volume for MyVA411 call center Q1 2025 | Losing access to email account and getting locked out of sign in account Data mismatched between different systems of record Missing personal information Older Veterans with lower technical literacy face hardship completing the identity verification process \- this is difficult to quantify the exact scale but it’s a consistent finding |
+|  | Feedback survey | 38 comments tagged |  |  |  |
+|  | HRC | Not captured |  |  |  |
+|  | Login.gov support | 2273 cases (Not captured in August) |  |  |  |
+| UX pain points | Intercept survey | 2 comments tagged | Feedback comments mention not being able to locate the button to accept terms | This topic is not likely to be raised in CSP support channels FE errors tracked for users who do not authorize VA |
+|  | Feedback survey | 163 comments tagged |  |  |  |
+|  | HRC | Not captured |  |  |  |
+|  | Login.gov support | Not captured |  |  |  |
+
+
+### Detailed findings of themes
+
+#### Identity verification: verification looping
+
+##### Symptoms
 
 * Users verify their identity successfully but system continues to request verification  
 * Repeated requests to scan/upload driver's license despite previous completion  
 * Verification process creates circular flow between VA.gov and credential providers (ID.me/Login.gov)  
 * System fails to retain or recognize completed verification status
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: Verify loop was tagged in 5 intercept surveys and 13 feedback surveys  
@@ -308,16 +309,16 @@ Themes
     * “I logged in and it wants me verify again. Both options have issues. The same phone number VA has it won't allow for verification because I have not had it long enough. My mailing address is outdated due to homelessness”  
     * “I tried to sign in, but it wanted me to setup verification again.”
 
-### Technical errors: account linking failures
+#### Technical errors: account linking failures
 
-#### Symptoms
+##### Symptoms
 
 * Users have valid Login.gov or ID.me accounts but cannot link them to VA.gov  
 * Accounts created for other government services (Social Security) won't work for VA  
 * System rejects existing accounts claiming they don't exist or aren't recognized  
 * Confusion about whether one credential works across government services
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: 007 errors indicate SSN mismatch or missing personal information  
@@ -332,9 +333,9 @@ Themes
     * "I am established with ID.Me but the VA site will not accept the previously established connection"  
     * "I have already set up login.gov for ssa so why do i need to be varified again?"
 
-### Technical errors: system failures
+#### Technical errors: system failures
 
-#### Symptoms
+##### Symptoms
 
 * Timeout errors during authentication despite active use  
 * 'Stay signed in' button non-functional, leading to forced logout  
@@ -342,7 +343,7 @@ Themes
 * Error codes (500, 4031, 403, 592\) blocking access  
 * Mobile devices particularly affected
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * All time periods: Multiple error codes reported across datasets  
@@ -364,16 +365,16 @@ Themes
   * Unspecified technical issues  
     * Q3 2025: “Thanks for fixing the login issues with this app. I was finally able to log back in after uninstalling and reinstalling it” \- app store review
 
-### Sign-in loop
+#### Sign-in loop
 
-#### Symptoms
+##### Symptoms
 
 * Users complete authentication successfully but are redirected back to sign-in page  
 * Multi-factor authentication (MFA) codes accepted but access still blocked  
 * Brief flash of authenticated page before being logged out  
 * Most commonly reported on prescription refill pages
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: Sign-in loop was tagged in 106 (10%) of intercept surveys, 104 (4%) of feedback surveys, and 88 (20%) of app store reviews  
@@ -389,14 +390,14 @@ Themes
     * "I enter the 6 digit code and I'm transferred to the VA site for about 5 seconds and then it goes back to the sign in page"  
     * "I briefly see the landing page to renew Rxs and then I land again at the login page"
 
-### MFA
+#### MFA
 
-#### Symptoms
+##### Symptoms
 
 * MFA codes sent to an old/incorrect phone number veterans cannot access  
 * Veteran needs to use MFA at a time when they don’t have access to internet service or their phone
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: MFA tagged in 692 (43%) HRC Call Center calls; 987 (4%) of Login.Gov Call Center calls; 87 (8%) of intercept surveys; 30 (1%) of feedback surveys; 8 (2%) of app store reviews  
@@ -413,16 +414,16 @@ Themes
     * "I need to change my password but when I do that it is sending an authorization code to a phone number that I no longer have"  
     * "When I try to get signed on under your new website you are trying to send me a code with old phone \#"
 
-### Incorrect personal information on file blocks authentication
+#### Incorrect personal information on file blocks authentication
 
-#### Symptoms
+##### Symptoms
 
 * Email addresses on file don't match current email, blocking account creation or recovery  
 * Veterans current phone number or address not matching current reality blocks verification  
 * System won't allow users to update contact information without first authenticating  
   * Catch-22: need to sign in to update phone number, but can't sign in without phone number
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: “Set up account” was tagged in 63 (3%) and “personal info” of feedback surveys  
@@ -447,16 +448,16 @@ Themes
   * Q1 2025: No path to update without authentication creates impossible situation  
     * "the phone numbers on hand were no longer active. The system did not me allow or give me a way to change the phone number to the new number"
 
-### Technology barriers and limited digital access
+#### Technology barriers and limited digital access
 
-#### Symptoms
+##### Symptoms
 
 * Smartphone requirement for MFA excludes users without mobile devices  
 * Photo ID upload fails due to camera quality, lighting, or dexterity issues  
 * Age-related challenges with new technology processes  
 * Caregivers managing accounts for Veterans face authentication barriers
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Each quarter (Q4 2024, Q1 2025, Q2 2025, Q3 2025\) has several mentions across data sources about not having a smartphone or having accessibility challenges to signing in  
@@ -485,17 +486,16 @@ Themes
     * Q4 2024: "All the signing in, for myself has been very confusing. It took 3 tries. I deal with Parkinson's and hands shake"  
     * Q1 2025: "I'm caregiver for a blind Korean War Vet. He doesn't have a computer or cell phone"
 
-### 
 
-### UX pain point \- Terms of Use
+#### UX pain point \- Terms of Use
 
-#### Symptoms
+##### Symptoms
 
 * On the terms of use page but not being able to move past after pressing accept  
 * On the terms of use page but not seeing the button to accept  
 * Actually being stuck of having the feeling of being stuck from signing in since can’t get past TOU
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025: 2 intercept surveys tagged for Terms of Use  
@@ -510,18 +510,18 @@ Themes
     * “It says to accept terms but no place to accept it”  
     * “There is no visible accept or Decline button”
 
-### UX pain point \- Authorizing VA after verify
+#### UX pain point \- Authorizing VA after verify
 
 Technical errors for users who don’t authorize VA to receive data from the CSP after identity verification  
 This represents UX friction in understanding and completing required steps
 
-#### Symptoms
+##### Symptoms
 
 * At the end of verifying, doesn’t authorize VA to receive data from CSP  
 * May not want to share personal information, or may feel like VA already has it  
 * Doesn’t understand that this step is required
 
-#### Supporting Evidence
+##### Supporting Evidence
 
 * Quantitative:  
   * Q3 2025:  
