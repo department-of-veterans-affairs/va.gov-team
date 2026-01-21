@@ -90,7 +90,9 @@ Maintenance window alerts related to this effort could compete with other alerts
 **January 15, 2026** - OH cutover information will be presented to users at the tool-level ONLY
   * We will not put alerts on the My healtheVet landing page (Web) or Health menu (VAHB) related to the OH cutover work - we would have to default to the longest-running alert timeframes (appointments) which is a really long time to show users alerts on this page that is the gateway to the entire health portal.
   * Many users can have "hybrid" profiles, with facilities in their account that are unaffected by this transition. It's important that they understand they can still do everything as normal for the unaffected facilities.
-  * Some health tools included on the landing page are entirely unaffected by the transition, including: travel pay, copays, medical supply re-ordering, updating the 10-10EZR. We don't want to suggest that everything is "down" from this page, when it's not an accurate.  
+  * Some health tools included on the landing page are entirely unaffected by the transition, including: travel pay, copays, medical supply re-ordering, updating the 10-10EZR. We don't want to suggest that everything is "down" from this page, when it's not an accurate.
+
+**January 9, 2026** - We do not need alerts for travel pay, which will not be affected by the transition.
 
 # <a name="designs">Alert designs</a>
 Figma designs for all affected tools, including both web and VAHB mobile app solutions are [here](https://www.figma.com/design/kGTFsKCLZ3P44Ece44iVBN/OH-cutover-alerts?node-id=0-1). 
