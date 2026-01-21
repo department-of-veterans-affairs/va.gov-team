@@ -33,6 +33,15 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
 ---
 
 ## Forms Library List of Products ##
+
+### Form Upload
+OKRS 1.1, 1.2. 1.3 and 2.2 | Launch Date: 2/28/2025
+- [How to add a new form to Form Upload](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/readme.md) 
+- PDFs submitted by mail can take longer to be received and processed by the end system. By providing an alternative to mail or fax the form upload tool, on VA.gov, reduces the time it takes to be received by the intake center, and provides some validation (meta data) upon form submission for a more efficient and faster processing.
+- This tool will also provide form submittors with confirmation of their submission and email notifications upon submission, received by the end system or an action needed email if there was an error
+- As part of this effort we initially did an [audit of Quick Submit](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2024-02-QuickSubmit/Quick%20Submit%20Audit.pdf): The team provided an accessibility audit of QuickSubmit (not hosted by VA.gov) and found many issues with the site.  This analysis helped prompt the decision to support some of the functionality that QS supports directly on VA.gov.
+- Adding multi-file input to support forms that have supporting evidence
+  
 ### Components & Patterns
 OKR's 1.1 & 3.3
 - The team successfully integrated the USWDS version 3 components and patterns into the [forms library](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system/src/js/web-component-patterns). Additionally, we  developed new patterns to further enhance these resources, contributing to both the design system and forms library. As a result of our efforts, other forms teams have been able to efficiently create new forms by leveraging the patterns and components available within the forms library. This streamlined process has improved overall productivity and consistency in form development.
@@ -52,6 +61,17 @@ OKR's 1.1 & 3.3
 - [Housing status](https://design.va.gov/patterns/ask-users-for/housing-status) Note:  This pattern also influenced Form Product owners at the VA to update the questions on 3 PDF's to match the pattern in the online form.
 - [Multiple responses list & loop](https://design.va.gov/patterns/ask-users-for/multiple-responses)
 - [Single response](https://design.va.gov/patterns/ask-users-for/a-single-response)
+
+### Confirmation page in partnership with Authenticated Experience My VA team
+ OKR 1.1, 1.3
+ | Launched Date: 10/22/2024
+- [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Product%20Outline%20Confirmation.md)
+- In the past there have been issues with Veterans seemingly submitting a digital form or application and that form then failing to actually make its way into the VA processing system for review. This has been referred to as "silent failures" - the user receives no indication that an error occurred because the process and time between the user clicking submit on their form and the form actually traveling through the Benefits Intake API and making its way into Central Mail can be lengthy.
+- Our team partnered with the Authenticated Experience My VA team to address the challenges Veterans face in not knowing there is an error with their form. It is out of scope for our team to address problems with Central Mail.
+- This work in alignment with OKR 1.3 and is also in alignment with the OCTO Benefits Portfolio prioritization framework by supporting category 2: Silent submission failure: A Veteran believes an online transaction (form, evidence, etc.) has been successfully sent to VA, but it silently errored without notifying the form submitter. 
+- The new confirmation page can be used out of the box for other teams building forms or add customizable sections or content as needed.  The confirmation page guidance, found in the VADS, includes help users:
+-   [Keep records of their digital submission](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)
+-   [Keep informed of the status of their submission](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status)
 
 
 ## Problem Statements
