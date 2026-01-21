@@ -109,10 +109,11 @@ In progress - will update later.
 * Messages: 
   * T-45 / show warning alert
   * T-6 / switch to showing error alert
-  * T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names may look different. even though they’ve been updated, you can still find all your old messages and reply to them; you can continue to message all providers"
+  * T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names will look different. To message any of your providers at X facility, you'll need to start a new message with their new care team name." 
 * Medical records:
   * T-45 / show warning alert
-  * T-0 / switch to showing error alert (for 24 hours only)
+  * T-0 / switch to showing error alert
+   * T+2 / pull down error alert for these users; tool team may need other explanatory alerts to warn users about duplicate content
 
 ### Round 1: go-live date April 11, 2026
 
