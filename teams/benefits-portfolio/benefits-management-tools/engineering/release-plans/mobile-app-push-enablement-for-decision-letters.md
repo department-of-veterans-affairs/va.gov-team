@@ -20,16 +20,19 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Testing of all permutations of the feature flags. Confirm no regression in the send_email endpoint as well as correct push notifications sent.
-- [ ] Confirm that logging has not changed and that existing Dashboards are working
-- [ ] Implement dashboard or add to existing dashboard to track push notifications
+- [x] Testing of all permutations of the feature flags. Confirm no regression in the send_email endpoint as well as correct push notifications sent.
+- [x] Confirm that logging has not changed and that existing Dashboards are working
+- [x] Implement dashboard or add to existing dashboard to track push notifications
 - [ ] Previously the eventbus-gateway sign-on token was scoped only to the `send_email` endpoint.  Confirm that the identity team has updated the config in production to accept both the `send_email` and `send_notifications` endpoints
 - [ ] Similar to above the eventbus-gateway vsp-infra-application-manifests configuration for `tokenScope` must be updated to accept both `send_email` and `send_notifications`
 - [ ] Confirm that VANotify has, in production, created the preferences for "Benefits Claims and Decision Reviews" 
 - [ ] Confirm that VANotify has populated the preference retroactively to all users
-- [ ] Confirm the Mobile App team has completed any desired testing
-- [ ] Confirm the Mobile App team has deployed their analytics update (Planned for release on 1/13/26)
-- [ ] Gather details for single user test
+- [ ] Confirm "What's new" content has been published (Planned for release 2/10)
+- [ ] Testing of progressive rollout of "What's new" and preference is complete
+- [x] Confirm the Mobile App team has completed any desired testing
+- [x] Confirm the Mobile App team has deployed their analytics update (Planned for release on 1/13/26)
+- [ ] Confirm VetText has completed a production deployment of push template (Planned for release on 1/19/26)
+- [x] Gather details for single user test
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -42,7 +45,7 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Planning
 
-- Desired date range or test duration: January 15, 2026
+- Desired date range or test duration: January 21, 2026
 - Desired number of users: 1
 - How you'll recruit the right production test users: Liana Fleming has identified a veteran who is willing to assist.
 - How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with the recruit's participant ID.
@@ -68,7 +71,7 @@ We will be performing a progressive rollout to be able to minimize the productio
   - [ ] Click through rate above xx%
 - Links to the dashboard(s) showing "success criteria" metrics: 
   - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/wvx-g6k-u6c/bmt---eventbus-gateway-cloned?fromUser=false&refresh_mode=sliding&from_ts=1766512554238&to_ts=1767117354238&live=true)
-  - [Google Analytics Report]()
+  - [Google Analytics Report](https://analytics.google.com/analytics/web/?authuser=2#/analysis/a50123418p265787033/edit/eiPeenxHRBqHVePhF1M3ow?restoreUserState=true)
 - Who is monitoring the dashboard(s)?: BMT3 (Liana Fleming)
 
 
