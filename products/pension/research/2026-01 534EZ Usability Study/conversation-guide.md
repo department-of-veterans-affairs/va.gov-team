@@ -92,7 +92,9 @@ Before we start, I have a few things that I want to go over with you:
     - (If N) No problem. You'll learn about it as we go through this session.
         - As someone new to this process, what are your immediate thoughts or concerns about applying for VA benefits for the first time?
 
-## Screen sharing instructions (if needed)
+## User Tasks
+
+### Screen sharing instructions (if needed)
 - In the Zoom application on your computer, you'll see a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...) or Share Screen (on computer, button is green).
     - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
     - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
@@ -115,7 +117,7 @@ Before we start, I have a few things that I want to go over with you:
 
 ## Second Task: Open form
 
-Let's suppose that your search (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits. As you work, please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction)(Use a bit.ly URL!)
+Let's suppose that your search (Google/VA.gov) led you to the web page that I'm going to show you. I'd like you to try to use it as if you were applying for VA benefits. As you work, please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: [https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction](https://staging.va.gov/family-and-caregiver-benefits/survivor-compensation/apply-for-dic-survivors-pension-accrued-benefits-form-21p-534ez/introduction) (Use a bit.ly URL!)
 
 Did you get the link?
 
@@ -249,7 +251,7 @@ Please tell me about what you see here.
 
 ## Thank-You and Closing
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans and their families..
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans and their families.
 
 Thanks\! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
