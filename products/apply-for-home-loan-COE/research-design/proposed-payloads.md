@@ -155,12 +155,13 @@ files: [
     size: 68803,
     errorMessage: 'Internal Server Error',
     isEncrypted: false,
-	"attachmentType": "Discharge or separation papers (DD214)"
+	attachmentType: "Discharge or separation papers (DD214)"
   }
 ],
 ```
 
-Suggested: (no change)
+Suggested:
+The three new items here are added as a result of using a new component.
 ```
 files: [
   {
@@ -169,7 +170,10 @@ files: [
     size: 68803,
     errorMessage: 'Internal Server Error',
     isEncrypted: false
-	"attachmentType": "Discharge or separation papers (DD214)"
+	attachmentType: "Discharge or separation papers (DD214)"
+	⭐️ guid: "123fake-submission-id-567",
+	⭐️ confirmationCode: "1234567890",
+	⭐️ type": "image/jpeg,
   }
 ],
 ```
