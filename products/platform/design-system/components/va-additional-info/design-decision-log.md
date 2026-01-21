@@ -6,7 +6,7 @@ Last updated: 01-20-2026
 - [ADR: 003 - Sizes](#ADR-003---Sizes)
 - [ADR: 004 - Remove border](#ADR-004---Remove-border)
 - [ADR: 005 - Indenting details text](#ADR-005---Indenting-details-text)
-- [ADR: 006 - Icon vertical alignment](#ADR-005---Icon-vertical-alignment)
+- [ADR: 006 - Icon vertical alignment](#ADR-006---Icon-vertical-alignment)
 
 ## ADR 001 - Structural updates
 
