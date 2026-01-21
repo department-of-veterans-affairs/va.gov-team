@@ -43,7 +43,7 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 - H1: Education benefit entitlement restoration request (VA Form 22-0989)
 - Sub-heading: Education Benefit Entitlement Restoration Request Due to School Closure, Program Suspension or Withdrawal
 - Breadcrumb: VA.gov > VA forms > Education benefit entitlement restoration request (VA Form 22-0989)
-- Browser title: [H1 of introduction page in title case] | Veterans Affairs
+- Browser title: [H1 of page in title case] | Veterans Affairs
     - Education Benefit Entitlement Restoration Request (VA Form 22-0989) | Veterans Affairs
 
 **2) Request education benefit entitlement restoration online - New (form)**
