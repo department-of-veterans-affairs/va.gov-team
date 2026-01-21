@@ -44,7 +44,7 @@ OKRS 1.1, 1.2. 1.3 and 2.2 | Launch Date: 2/28/2025
   
 ### Patterns
 [Mock form pattern examples](https://staging.va.gov/mock-form-patterns/introduction)
-OKR's 1.1 & 3.3
+- OKR's 1.1 & 3.3
 - The team successfully integrated the USWDS version 3 components and patterns into the [forms library](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system/src/js/web-component-patterns). Additionally, we  developed new patterns to further enhance these resources, contributing to both the design system and forms library. As a result of our efforts, other forms teams have been able to efficiently create new forms by leveraging the patterns and components available within the forms library. This streamlined process has improved overall productivity and consistency in form development.
 - [Prefill Pattern](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) - IN PROGRESS
 - [Service History Pattern](https://design.va.gov/patterns/ask-users-for/service-history)
