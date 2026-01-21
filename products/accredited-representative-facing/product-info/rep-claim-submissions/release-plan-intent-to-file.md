@@ -5,10 +5,10 @@ Feature Toggle/flag:
 
 ### Preparation
 - [x] Contact Center Review has been submitted
-- [ ] The following user flows have been tested
+- [x] The following user flows have been tested
    - Successful ITF submission
       -    [x] Veteran pathway
-      -    [ ] non-Veteran pathway
+      -    [x] non-Veteran pathway
    -  Various ITF statuses
       -    [x] User does not have POA for the claimant
       -    [x] Existing ITF is found
