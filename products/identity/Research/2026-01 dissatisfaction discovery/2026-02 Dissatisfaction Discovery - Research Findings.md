@@ -209,7 +209,25 @@ Qualitative and quantitative data sources reviewed to provide context on dissati
 * Limitations: Limited in surfacing sentiment or themes  
 * Insights provided: Offers high-quality operational context for sign-in performance; helps frame dissatisfaction signals within broader usage and reliability trends  
 * Methodology: Compared metrics to spikes in sentiment responses  
-* Key themes identified: Adds perspective to how many Veterans are affected by a given issue; some issues generate a noticeable increase in sentiment responses across channels; 
+* Key themes identified: Adds perspective to how many Veterans are affected by a given issue; some issues generate a noticeable increase in sentiment responses across channels;
+
+#### Past Identity Research
+
+* Volume analyzed: 15 prior VA.gov studies with sign-in-related findings  
+* Limitations: This data cannot be used to measure dissatisfaction at scale  
+* Insights provided: Valuable for resurfacing long-standing pain points; validates whether current issues align with historical patterns  
+* Methodology: Used GitHub Copilot to search through past research findings and recommendations relevant to identity and sign-in products; manually reviewed relevant transcripts to consider relevance of individual quotes even when study didn't include a full finding or recommendation toward identity or sign-in products  
+* Key themes identified: Verification is difficult; MFA is a hardship for some Veterans
+
+
+#### Call Center Data \- MyVA411
+
+* Volume analyzed: 24,823 authentication-related calls (Q1 2025); 14,480 calls (Q4 2024\)  
+* Coverage: Calls to the VA.gov help center related to authentication  
+* Limitations: Data comes pre-classified with Category and Type that have some but not complete correlation to researcher tags; Subject data is limited but sometimes offers enough information for tagging; some minimal risk of PII in Subject field (open text added by call center representative); further ticket data available but would be highly likely to include PII; case categorization by representatives may not align with technical root causes  
+* Insights provided: Represents users who were unable to resolve issues on their own; call volume and themes are strong indicators of breakdowns in sign-in experience  
+* Methodology: Reviewed pre-classified Category and Type fields; researcher applied additional tags based on Subject lines; excluded entries that were clear duplicates or had no information  
+* Key themes: identity verification, technical errors, MFA
 
 #### Temporal Context
 
@@ -221,22 +239,6 @@ Qualitative and quantitative data sources reviewed to provide context on dissati
   * Methodology: Compared PagerDuty incident metrics and Datadog Identity Metrics to spikes in sentiment responses  
   * Finding: Some issues generate a noticeable increase in sentiment responses across channels
 
-#### Past Identity Research
-
-* Volume analyzed: 15 prior VA.gov studies with sign-in-related findings  
-* Limitations: This data cannot be used to measure dissatisfaction at scale  
-* Insights provided: Valuable for resurfacing long-standing pain points; validates whether current issues align with historical patterns  
-* Methodology: Used GitHub Copilot to search through past research findings and recommendations relevant to identity and sign-in products; manually reviewed relevant transcripts to consider relevance of individual quotes even when study didn't include a full finding or recommendation toward identity or sign-in products  
-* Key themes identified: Verification is difficult; MFA is a hardship for some Veterans
-
-#### Call Center Data \- MyVA411
-
-* Volume analyzed: 24,823 authentication-related calls (Q1 2025); 14,480 calls (Q4 2024\)  
-* Coverage: Calls to the VA.gov help center related to authentication  
-* Limitations: Data comes pre-classified with Category and Type that have some but not complete correlation to researcher tags; Subject data is limited but sometimes offers enough information for tagging; some minimal risk of PII in Subject field (open text added by call center representative); further ticket data available but would be highly likely to include PII; case categorization by representatives may not align with technical root causes  
-* Insights provided: Represents users who were unable to resolve issues on their own; call volume and themes are strong indicators of breakdowns in sign-in experience  
-* Methodology: Reviewed pre-classified Category and Type fields; researcher applied additional tags based on Subject lines; excluded entries that were clear duplicates or had no information  
-* Key themes: identity verification, technical errors, MFA
 
 ## Findings for sign-in dissatisfaction
 
@@ -247,7 +249,7 @@ Negative sentiment fluctuates across time, and so does total responses, making b
 ### Dissatisfaction score
 
 After considering many measurements we could take individually or combine together to come up with a dissatisfaction score for sign in, we decided to go with an MVP measure. This will allow us to see how it works over time. It also gives us, not just the permission, but the mandate to further refine and improve this score over time.  
-For this reporting, we’ll use measures for negative sentiment from the Medallia intercept survey alongside the volume of survey responses for the intercept and for the Medallia feedback surveys. Negative sentiment from Medallia intercept seems to be the least biased metric as a single source for assigning a numeric dissatisfaction score. We’ll track volume or responses for both Medallia surveys to indicate how widespread dissatisfaction is.
+For this reporting, we’ll use measures for negative sentiment from the Medallia intercept survey alongside the volume of survey responses for the intercept and for the Medallia feedback surveys. Negative sentiment from Medallia intercept seems to be the least biased metric as a single source for assigning a numeric dissatisfaction score. For now we’ll track volume or responses for both Medallia surveys to indicate how widespread dissatisfaction is.
 
 * Medallia intercept negative sentiment score \- the lower the dissatisfaction % the better  
   * Sept 2025 \- 68.8% dissatisfaction sign in  
@@ -682,9 +684,9 @@ We also recognize the need to address  the issues that are affecting dissatisfac
 Further analysis of some themes will be needed to pinpoint issues where surveys don’t do a great job. We’d like to know more about the following, and consider them for prioritization with upcoming work 
 
 1. Identity Verification Looping  
-* Usability testing: Recruit 8-10 users who experienced looping  
-*  Moderated sessions: have them show us exactly what happened  
-*  Goal: Understand if technical bug, communication failure, or user error in order to develop a solution
+   * Usability testing: Recruit 8-10 users who experienced looping  
+   *  Moderated sessions: have them show us exactly what happened  
+   *  Goal: Understand if technical bug, communication failure, or user error in order to develop a solution
 
 2. Technical Errors  
    * Technical spike: explore errors, when and where they occur  
@@ -692,9 +694,9 @@ Further analysis of some themes will be needed to pinpoint issues where surveys 
    * Goal: reduce sign in errors
 
 3. Technology barriers  
-* Usability study: Dedicated sessions with veterans in the 65+ age group  
-* Understand specific verify barriers beyond "photo upload is hard"  
-* Goal: Inform alternative verification pathway design. Requires collaboration with Login.gov/ID.me for solution implementation
+   * Usability study: Dedicated sessions with veterans in the 65+ age group  
+   * Understand specific verify barriers beyond "photo upload is hard"  
+   * Goal: Inform alternative verification pathway design. Requires collaboration with Login.gov/ID.me for solution implementation
 
 4. MFA  
    * Usability study: recruit groups who feel that MFA is a hardship  
@@ -707,6 +709,6 @@ Further analysis of some themes will be needed to pinpoint issues where surveys 
    * Goal: keep TOU from being a blocker to entry, and/or keep folks from feeling stuck
 
 6. Mobile App Sign-in Experience Audit  
-* Heuristics analysis: Test authentication flow on iOS and Android, various screen sizes  
-* Mobile sign-in makes up 14.8% of complaints, what unspoken pain points can we find  
-* Goal: Identify specific mobile-only issues vs desktop-and-mobile issues
+   * Heuristics analysis: Test authentication flow on iOS and Android, various screen sizes  
+   * Mobile sign-in makes up 14.8% of complaints, what unspoken pain points can we find  
+   * Goal: Identify specific mobile-only issues vs desktop-and-mobile issues
