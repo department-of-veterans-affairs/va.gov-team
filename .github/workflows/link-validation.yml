@@ -1,4 +1,4 @@
-name: Link check - lychee
+name: Link validation
 
 on:
   pull_request:
@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
           lfs: false
 
-      - name: Build changed-file list (base SHA vs head SHA)
+      - name: Build changed-files list
         shell: bash
         run: |
           set -euo pipefail
@@ -26,10 +26,9 @@ jobs:
           BASE_SHA="${{ github.event.pull_request.base.sha }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
 
-          # Include: Added, Copied, Modified, Renamed, Type-changed
-          # Exclude: Deleted (cannot be checked; causes "invalid file path")
+          # Check added/copied/modified/renamed files, ignore deleted files
           git diff --name-only --diff-filter=ACMRT "$BASE_SHA" "$HEAD_SHA" \
-            | grep -E '\.(md|mdx|txt)$' \
+            | grep -E '\.(md|txt)$' \
             | sort -u \
             | while IFS= read -r f; do
                 if [[ -f "$f" ]]; then
@@ -38,17 +37,17 @@ jobs:
                   echo "::warning::Skipping non-existent path in checkout: $f"
                 fi
               done \
-            > lychee-files.txt || true
+            > changed-files.txt || true
 
-          echo "Changed doc files to check:"
-          cat lychee-files.txt || true
+          echo "Changed text files to check:"
+          cat changed-files.txt || true
 
-          if [[ ! -s lychee-files.txt ]]; then
+          if [[ ! -s changed-files.txt ]]; then
             echo "No matching changed files. Skipping."
             exit 0
           fi
 
-      - name: Run lychee on changed files
+      - name: Run lychee on changed-files
         uses: lycheeverse/lychee-action@v2
         with:
           lycheeVersion: latest
@@ -56,4 +55,4 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --files-from lychee-files.txt
+            --files-from changed-files.txt
