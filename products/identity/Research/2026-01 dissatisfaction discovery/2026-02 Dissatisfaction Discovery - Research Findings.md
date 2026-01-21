@@ -12,7 +12,16 @@ Sign in is a critical gateway to VA online  services, benefits, and care. When s
 
 In this work, we’re establishing dissatisfaction measures across several feedback channels. We analyzed and synthesized multiple data sources to assess the quality and availability of the data.  
 
-The most promising measurements of user dissatisfaction seem to be feedback surveys, intercept surveys, call center data, and support data from credential service providers. These represent feedback and support touchpoints where Veterans have given up on self-service and reached out for intervention. This data is further contextualized with correlating qualitative and quantitative data analysis.
+The most promising measurements of user dissatisfaction that we've looked at are the Medallia intercept surveys for a numeric dissatisfaction value. For uncovering painpoints and for roughly quantifing if more or fewer veterans are being affected by painpoints compared to a previous period, then feedback surveys, call center data, and support data from credential service providers can be the most helpful. These represent feedback and support touchpoints where Veterans have given up on self-service and reached out for intervention.
+
+### Dissatisfaction Score
+
+We are starting with an MVP measure to assess how it works over time. We're giving a numeric value we can tract based off a negative sentiment score from the Medallia intercept survey. We'll also track a second number for volume, the number of responses for the Medallia feedback survey will point to how widespread disatisfaction might be.
+
+- Dissatisfaction for Sept 2025 - 68.8%
+   - This is lower than, or better than, preceding months - in otherwords less dissatisfaction
+- Dissatisfaction volume for Sept 2025 - 458
+   - This is lower than, or better than preceding months - in otherwords less volume of dissatisfaction
 
 ### Top themes
 
