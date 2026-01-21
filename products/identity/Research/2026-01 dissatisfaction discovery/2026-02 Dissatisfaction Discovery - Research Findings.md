@@ -590,7 +590,7 @@ We also recognize the need to address  the issues that are affecting dissatisfac
   * Don't attempt baseline until 6 months post deprecation of both MHV and DSLogon  
   * Collect 3-4 months of "steady state" data before declaring baseline; use this period to validate whether issues decreased or persisted  
   * Segment baselines by:  
-    * User journey stage: new account setup vs returning user sign-in vs ~~credential migration~~  
+    * User journey stage: new account setup vs returning user sign-in 
     * Device type: Mobile vs desktop (already seeing mobile has worse outcomes)  
     * CSP: Login.gov vs ID.me (already seeing Login.gov has 2x verification calls)  
     * Page context: Help pages (expect negative) vs feature pages (expect neutral/positive)  
