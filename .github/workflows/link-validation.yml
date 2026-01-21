@@ -15,7 +15,7 @@ jobs:
         env:
           GIT_LFS_SKIP_SMUDGE: "1"
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           lfs: false
 
       - name: Build changed-files list
