@@ -26,9 +26,11 @@ UPDATED for Profile 2.0
 - [Letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/letters-and-documents/letters-and-documents-landingpg.md)
    - [VA benefit letters and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-letters)*
    - [Veteran Status Card](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/v2-IIR/Research/use-cases.md)
- - NOT IN PRODUCTION **Communication settings**
+- NOT IN PRODUCTION **Communication settings**
    - [Email and text notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
    - NOT IN PRODUCTION [Paperless delivery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
+- Account security
+   
 
 _*Pages with an asterisk link to pages outside the profile and are not managed by the Authenticated Experience team. We have linked to the respective product pages for reference only._
 
