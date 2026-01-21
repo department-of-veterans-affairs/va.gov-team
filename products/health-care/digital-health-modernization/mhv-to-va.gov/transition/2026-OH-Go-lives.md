@@ -93,9 +93,15 @@ Maintenance window alerts related to this effort could compete with other alerts
   * Some health tools included on the landing page are entirely unaffected by the transition, including: travel pay, copays, medical supply re-ordering, updating the 10-10EZR. We don't want to suggest that everything is "down" from this page, when it's not an accurate.  
 
 # <a name="designs">Alert designs</a>
-In progress - will update later.
+Figma designs for all affected tools, including both web and VAHB mobile app solutions are [here](https://www.figma.com/design/kGTFsKCLZ3P44Ece44iVBN/OH-cutover-alerts?node-id=0-1). 
 
-# <a name="plan">Implementation plan</a>
+These designs include patterned "T" dates, that are mathematically calculating the correct calendar dates based on a given "go-live round phase" launch date. When we know the phase, we can pull the launch date and calculate back 60 days, or forward 2 days, for example, based on the pattern. This will allow us to render these alerts programmatically throughout the 4 go-live round phases in 2026 and in future years. 
+
+Example alert (for appointments): 
+<img width="697" height="656" alt="Screenshot 2026-01-21 at 2 39 26 PM" src="https://github.com/user-attachments/assets/71899096-96a5-4776-9398-4442951367b5" />
+
+<img width="531" height="445" alt="Screenshot 2026-01-21 at 2 39 33 PM" src="https://github.com/user-attachments/assets/90f7fb9d-3acb-45fd-b19f-4fe04a5db4e4" />
+
 
 **Alert template**
 * Appointments 
@@ -115,58 +121,6 @@ In progress - will update later.
   * T-0 / switch to showing error alert; tool team does not need to suppress functionality, but may need to warn users that records won't show up here for 2 business days during cutover. 
    * T+2 / pull down error alert for these users; tool team may need other explanatory alerts to warn users about duplicate content
 
-### Round 1: go-live date April 11, 2026
-
-* **Appointments**
-  * Warn users about upcoming maintenance window from 02/10/2026-03/11/2026
-  * Active maintenance window from 03/12/2026-04/18/2026
-* **Medications**
-  * Warn users about upcoming maintenance window from 02/25/2026-03/11/2026
-  * Active maintenance window from 03/12/2026-04/13/2026
-* **Messages**
-  * Warn users about upcoming maintenance window from 02/25/2026-03/11/2026
-  * Active maintenance window from 03/12/2026-04/13/2026
 
 
 
-Round 2: go-live date June 6, 2026
-
-* **Appointments**
-  * Warn users about upcoming maintenance window from 04/07/2026-05/05/2026
-  * Active maintenance window from 05/06/2026-06/13/2026
-* **Medications**
-  * Warn users about upcoming maintenance window from 04/22/2026-05/05/2026
-  * Active maintenance window from 05/06/2026-06/08/2026
-* **Messages**
-  * Warn users about upcoming maintenance window from 04/22/2026-05/05/2026
-  * Active maintenance window from 05/06/2026-06/08/2026
- 
-Round 3: go-live date August 22, 2026
-* **Appointments**
-  * Warn users about upcoming maintenance window from 06/23/2026-07/21/2026
-  * Active maintenance window from 07/22/2026-08/29/2026
-* **Medications**
-  * Warn users about upcoming maintenance window from 07/08/2026-07/21/2026
-  * Active maintenance window from 07/22/2026-08/24/2026
-* **Messages**
-  * Warn users about upcoming maintenance window from 07/08/2026-07/21/2026
-  * Active maintenance window from 07/22/2026-08/24/2026
-
-
-Round 4: go-live date October 24, 2026
-* **Appointments**
-  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
-  * Active maintenance window from 09/24/2026-10/31/2026
-* **Medications**
-  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
-  * Active maintenance window from 09/24/2026-10/26/2026
-* **Messages**
-  * Warn users about upcoming maintenance window from 08/25/2026-09/23/2026
-  * Active maintenance window from 09/24/2026-10/26/2026
-
-
-# <a name="questions">Open questions</a>
-1. Can each tool team look at the most common alerts (DD logs) that fire for users in the UI? Would be helpful to get an audit of alerts that could display simultaneously to understand the stacking hierarchy that we need to account for. 
-2. Does content within existing alerts in each tool potentially need to be evaluated (or updated?) to acknowledge this effort, or are we good?
-3. How can we make this a repeatable pattern that is low lift over time?
-  a. While the process is the same, re-using the same alerts is challenging b/c content in the alert body text must be updated to reflect 1.) different date ranges for each round, 2.) different facility names for each round, 3.) different facility_ids that they will render for over time, 4.) potentially different versions on web + VAHB mobile app
