@@ -42,7 +42,8 @@ OKRS 1.1, 1.2. 1.3 and 2.2 | Launch Date: 2/28/2025
 - As part of this effort we initially did an [audit of Quick Submit](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/research/2024-02-QuickSubmit/Quick%20Submit%20Audit.pdf): The team provided an accessibility audit of QuickSubmit (not hosted by VA.gov) and found many issues with the site.  This analysis helped prompt the decision to support some of the functionality that QS supports directly on VA.gov.
 - Adding multi-file input to support forms that have supporting evidence
   
-### Components & Patterns
+### Patterns
+[Mock form pattern examples](https://staging.va.gov/mock-form-patterns/introduction)
 OKR's 1.1 & 3.3
 - The team successfully integrated the USWDS version 3 components and patterns into the [forms library](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system/src/js/web-component-patterns). Additionally, we  developed new patterns to further enhance these resources, contributing to both the design system and forms library. As a result of our efforts, other forms teams have been able to efficiently create new forms by leveraging the patterns and components available within the forms library. This streamlined process has improved overall productivity and consistency in form development.
 - [Prefill Pattern](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) - IN PROGRESS
@@ -72,6 +73,13 @@ OKR's 1.1 & 3.3
 - The new confirmation page can be used out of the box for other teams building forms or add customizable sections or content as needed.  The confirmation page guidance, found in the VADS, includes help users:
 -   [Keep records of their digital submission](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)
 -   [Keep informed of the status of their submission](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status)
+
+### Review Page Redesign - PLANNED WORK
+[Readme](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/Review%20Page/readme.md)
+OKT 1.1
+- The review page has been the subject of [numerous studies](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/Product/Review%20Page/Research) and proposed revisions, but remains incomplete and unsuccessful. The page currently suffers from multiple bugs and 508 defects that necessitate a complete re-architecting of the page and its flow. Additionally, the evolution of the VA Design System has prompted a desire to implement the "one thing per page" principle in the editing process.
+
+- A new "hub and spoke" model for the review page is proposed. In contrast to previous studies, this prototype will enable users to edit the contents of a single form page directly on the original form page, returning to the review page once edits are complete. Any conditional pages required based on these edits will be presented to the user before returning to the review page. This approach differs from previous studies, which required users to navigate through an entire chapter to edit a single page within a form flow.
 
 
 ## Problem Statements
