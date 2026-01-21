@@ -4,8 +4,8 @@ Many/most findings uncovered by Langston Payne, engineer on Meds team
 ## When does a med become inactive?
 In oracle_health_prescription_adapter.rb, this logic determines inactive status:
 
-Expired more than 120 days ago → discontinued (mapped to "Inactive")
-No refills remaining AND past expiration date → expired (mapped to "Inactive")
+      Expired more than 120 days ago → discontinued (mapped to "Inactive")
+      No refills remaining AND past expiration date → expired (mapped to "Inactive")
 
 We think/assume that VistA meds follow the same logic.
 
