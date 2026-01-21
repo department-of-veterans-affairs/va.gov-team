@@ -100,19 +100,19 @@ In progress - will update later.
 **Alert template**
 * Appointments 
   * T-60 / show warning alert
-  * T-30 / switch to showing error alert
+  * T-30 / switch to showing error alert; tool team needs to suppress functionality for affected tasks at these facilities (scheduling or cancelling appointments) 
   * T+7 / pull down error alert for these users; tool team will need to put up alert that explains to users “your clinic names may look different”
 * Medications
   * T-45 / show warning alert
-  * T-3 / switch to showing error alert
+  * T-3 / switch to showing error alert; tool team needs to suppress functionality for affected tasks (refill, renewal)
   * T+2 / pull down error alert for these users; tool team will need alert that explains to users “you will now see duplicate medications in your list"
 * Messages: 
   * T-45 / show warning alert
-  * T-6 / switch to showing error alert
+  * T-6 / switch to showing error alert; tool team needs to suppress functionality for affected tasks (new messages, replies, drafts) 
   * T+2 / pull down error alert for these users; tool team will need alert that explains to users “your care team names will look different. To message any of your providers at X facility, you'll need to start a new message with their new care team name." 
 * Medical records:
   * T-45 / show warning alert
-  * T-0 / switch to showing error alert
+  * T-0 / switch to showing error alert; tool team does not need to suppress functionality, but may need to warn users that records won't show up here for 2 business days during cutover. 
    * T+2 / pull down error alert for these users; tool team may need other explanatory alerts to warn users about duplicate content
 
 ### Round 1: go-live date April 11, 2026
