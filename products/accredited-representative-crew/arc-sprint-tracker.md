@@ -159,10 +159,10 @@ TBD
 
 Total Completed in Sprint 7: 31 tickets, 88 points + 3 spikes\
 Planned Tickets Completed: 19 tickets, 61 points + 2 spikes\
-Stretch Goal Tickets Comleted: 12 tickets, 27 points + 1 spike
+Stretch Goal Tickets Completed: 12 tickets, 27 points + 1 spike
 
 Crew Count in Sprint 7: 13 active teammates (not including Principal Leads)\
-Average Teammate Velocity in Sprint 7: 88 points / 15 teammates = 6.8 points / teammate (not including Principal Leads)
+Average Teammate Velocity in Sprint 7: 88 points / 13 teammates = 6.8 points / teammate (not including Principal Leads)
 
 Carrying into Sprint 8: 6 tickets, 22 points
 
