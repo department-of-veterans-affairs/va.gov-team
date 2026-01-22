@@ -1,23 +1,23 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for [CDS Platform, CDS Console, 2025-11-01]"
+author: "Liz Blasi"
+date_created: "2026-01-22"
+last_modified: "2026-01-22"
 tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+  - "Patient Details"
+  - "CDS Console"
+  - "Oracle Health use cases"
+  - "VistA CPRS use cases"
+description: "Converstation guide for Console Patient Details Testing."
 ---
-# Conversation Guide for [initiative]
+# Conversation Guide for Patient Details User Testing
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Dry run
 
 ### Day of the session
 
