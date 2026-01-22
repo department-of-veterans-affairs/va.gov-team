@@ -343,9 +343,9 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 
 - `Suggested dates and times:` 
 
-** 01/28, Wednesday, 1:30pm-2:30pm ET**
-** 01/29, Friday, 12:30pm-2:30pm ET**
-** 01/30, Friday, 12:00pm-5:00pm ET**
+- **01/28, Wednesday, 1:30pm-2:30pm ET**
+- **01/29, Friday, 12:30pm-2:30pm ET**
+- **01/30, Friday, 12:00pm-5:00pm ET**
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
