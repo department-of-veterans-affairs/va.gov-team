@@ -5,6 +5,7 @@ on:
     types:
       - opened
   workflow_dispatch:
+  push:
 
 permissions:
   id-token: write
