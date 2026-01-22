@@ -1,3 +1,97 @@
+# Connected apps use cases
+
+Last updated: January 2026  
+* User flow  
+* [Figma files](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-4538&t=EaXhiUhgo9yKr061-1)
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+1. Go [staging.va.gov/profile/account-security](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/connected-apps/use-cases/staging.va.gov/profile/account-security)  
+2. Log in with any of the users listed in the [connected apps section of our test case docs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-profile.md#connected-apps).  
+3. Go to the personalized menu in the upper right of the navigation, and click into the profile. You'll be dropped into the Personal information section of the profile.  
+4. Select Connected apps in the sidebar menu.
+
+</details>
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+- [User does not have apps connected](#user-does-not-have-apps-connected)
+
+- [User has apps connected](#user-has-apps-connected)
+
+- [User selects Disconnect button](#user-selects-disconnect-button)
+
+[Edge cases](#edge-cases)
+
+- [Flags](#flags)
+
+- [Errors](#errors)
+
+# Overview 
+
+The **Connected apps** page allows users to manage apps connected to their VA.gov account. The content and logos of the connected apps are dynamic and change for each app. For a full list of supported apps reference the [Find apps you can use](https://www.va.gov/resources/find-apps-you-can-use/) page. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+# Use cases 
+
+## User does not have apps connected 
+
+* **Description:** If a user does not have an app connected, they will see information about Connected apps and a link to go to the app directory.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to design](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-10308&t=EaXhiUhgo9yKr061-1)
+
+## User has apps connected 
+
+* **Description:** If a user has apps connected, they will see a list of their apps. Each app has a button to disconnect the app.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to design](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-6028&t=EaXhiUhgo9yKr061-1)
+
+## User selects Disconnect button 
+
+* **Description:** If a user selects the **Disconnect** button a modal will prompt the user to confirm they'd like to disconnect the app.  
+* **Format:** See designs  
+* [Link to design](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=719-4872&t=EaXhiUhgo9yKr061-1)
+
+### Disconnect app success message 
+
+* **Description:** Once the app has successfully been disconnected, a success alert will appear below the page header.  
+* **Format:** [Slim success alert](https://design.va.gov/components/alert/#web-2)  
+* [Link to design](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-10253&t=EaXhiUhgo9yKr061-1)
+
+### Disconnect app error message 
+
+* **Description:** If an error occurs and the app cannot be disconnected, an error alert will appear inline with the card.  
+* **Format:** [Slim error alert](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-10226&t=EaXhiUhgo9yKr061-1)
+
+# Edge cases 
+
+## Flags 
+
+### Profile shared flags
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Profile shared errors
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)
+
+
+
+---
+
+
+
+<details><summary>Archive | Connected Apps Use Cases, August 2025</summary>
+
 # Connected Apps Use Cases
 
 **Last updated: August 2025**
@@ -93,7 +187,21 @@ There are no validation use cases for this feature.
 ### System
 [System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
----
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>Archive | Connected apps use cases, February 2024</summary>
 
