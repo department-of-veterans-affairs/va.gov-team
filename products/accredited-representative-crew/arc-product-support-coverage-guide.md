@@ -74,6 +74,7 @@ Before your rotation, ensure you have:
 | Sprint 12 | Mar 10 – Mar 23 | Holden | Kevin |
 | Sprint 13 | Mar 24 – Apr 6 | Alex | Kevin, Holden |
 | Sprint 14 | Apr 7 – Apr 20 | Patrick A. | Kevin, Holden |
+| Sprint 15 | Apr 21 – May 4 | Greg | Kevin, Holden |
 
 ---
 
