@@ -22,11 +22,20 @@ Main technical recommendations and feedback document:
 
 Authentication implementation strategy:
 
-- One time passcode
-- JWT token flow between va.gov and vets-api
-- Uses redis cache for user session very short lived
-- vets-api => vass-api azure token service for system to system communication
+- **Veteran Authentication (OTP Flow):**
+  - Veterans receive unique scheduling link via email with UUID
+  - Identity validation using last name, date of birth, and UUID
+  - One-time passcode (OTP) sent via VA Notify for verification
+  - Scoped, time-limited access without full SSO
+  - Single-use OTP grants access to appointment scheduling features
+- **Service-to-Service Authentication (vets-api to VASS API):**
+  - OAuth 2.0 client credentials flow with Microsoft Azure AD
+  - Automatic token acquisition, caching in Redis, and refresh
+  - Bearer token and Azure API Management subscription key headers
+  - Correlation ID for request tracing and logging
+  - Automatic retry on token expiration
 - Authentication sequence diagrams and patterns
+
 
 ### [🏗️ high-level-architecture.md](./high-level-architecture.md)
 
