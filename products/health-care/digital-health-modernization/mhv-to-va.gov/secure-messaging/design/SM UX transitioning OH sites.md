@@ -31,37 +31,34 @@ Here's what users will and won't be able to do during the transition:
 |---|---|
 |- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>- Save draft<br>- Create folder (VA.gov only)<br>- Edit preferred care team list (VA.gov only)<br>- Delete folder (VA.gov only)<br>- Edit folder (VA.gov only)<br>- Delete thread (VA.gov only)<br>- Move thread (VA.gov only)| 
 
-This describes each task experience in greater detail.
+The following describes each task experience in greater detail.
 
-#### Users who only have messages with non-transitioning sites
-- No change?
-
-#### Users who only have messages with transitioning sites
+#### Transitioning site only users
 |VA.gov or VAHB mobile app|Task|Description|
 |---|---|---|
 |VA.gov|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox page**<br>- User does not have "Start a new message" action link|
 |VAHB mobile app|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox and Start new message screen**<br>- User won't have any care systems/teams to select<br>- User has inline error messages when selecting "Send" button because they can't complete all required fields|
 |VA.gov|Reply to message|- User has yellow alert "You can't send messages to some of your care teams" on **message details page**<br>- User does not have "Reply" button|
 |VAHB mobile app|Reply to message|- User has yellow alert "You can't send messages to some of your care teams" on **message details screen**<br>- User has "Start a new message" button instead|
+|VA.gov|Edit draft|- User has yellow alert "You can't send messages to some of your care teams" on **message details page**<br>- User does not have "Reply" button<br>-**Note**: If user deletes draft, we won't display error. It will delete and then reappaer post-cutover.|
+|VAHB mobile app|Edit draft|- User lands on Edit draft screen. User has blank "Pick a care system" field.<br>- User has error alert message "You can't use messages to contact providers at some facilities right now" on **edit draft screen**|
 
-
-### Users who only messages with transitioning sites AND non-transitioning sites
+### Transitioning site AND non-transitioning site users
 |VA.gov or VAHB mobile app|Task|Description|
 |---|---|---|
 |VA.gov|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox, interstitial, and Select care team pages**<br>- User can only select care teams at non-transitioning sites. Users won't have care teams from transitioning sites to select<br>- **Note**: If user is also blocked from messaging care teams at a non-transitioning site, they may also have the warning alert message "You can't send messages to care teams at [system]"|
 |VAHB mobile app|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox and Start new message screen**.<br>- User can only select care teams at non-transitioning sites. Users won't have care teams from transitioning sites to select<br>- User has inline error messages when selecting "Send" button because they can't complete all required fields|
-|VA.gov|Reply to message|Same as above for only messages to care teams at transioning sites|
-|VAHB mobile app|Reply to message|Same as above for only messages to care teams at transioning sites|
+|VA.gov|Reply to message|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
+|VAHB mobile app|Reply to message|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
+|VA.gov|Edit draft|ame as "Transitioning site only users" for only messages to care teams at transioning sites|
+|VAHB mobile app|Edit draft|ame as "Transitioning site only users" for only messages to care teams at transioning sites|
+
+### Other notes
+**Post-cutover**
+- Users have to start new messages to respond to previous messages with previous care teams from transitioning sites.
 
 **Create folder, Delete folder, etc.**
-- User gets routine red error message
-
-**Edit draft to care team at transitioning site**
-- Their care team will still display
-- Idea: Prevent any editing for fields in draft
-- Idea: Replace form elements with text, remove 'Send' and other actions that can't be performed
-- Idea: Surface modal when user tries to edit values
-- Idea: Adding some indication on list page (a tag?) that draft is read-only right now
+- User gets routine red error message?
 
 **Care team names on pre-cutover messages**
 - All the old messages will maintain the same name. Further replies or new messages to the transitioning care teams will have the new name.
