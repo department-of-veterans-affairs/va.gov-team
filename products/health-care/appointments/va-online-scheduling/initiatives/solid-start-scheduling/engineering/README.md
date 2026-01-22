@@ -8,16 +8,6 @@ The Solid Start Scheduling project creates a seamless appointment scheduling exp
 
 ## Files in this Directory
 
-### [📝 recommendations.md](./recommendations.md)
-
-Main technical recommendations and feedback document:
-
-- API standards alignment (VA Standards, JSON API, OpenAPI)
-- Specific endpoint feedback and improvements
-- RESTful design principles
-- Authentication and monitoring considerations
-- Big picture architectural decisions
-
 ### [🔐 api-authenicate.md](./api-authenicate.md)
 
 Authentication implementation strategy:
@@ -70,6 +60,19 @@ Low Risk One Time Authentication diagrams and implementation ideas:
 - Short-lived URL approach for veteran authentication
 - GUID-based tracking system
 
+
+### [📝 recommendations.md](./recommendations.md)
+
+Main technical recommendations and feedback document:
+
+- API standards alignment (VA Standards, JSON API, OpenAPI)
+- Specific endpoint feedback and improvements
+- RESTful design principles
+- Authentication and monitoring considerations
+- Big picture architectural decisions
+
+
+
 ## Key Architectural Decisions
 
 1. **Frontend/Backend Split**: Veterans use va.gov interface, staff use Dynamics interface
@@ -79,6 +82,7 @@ Low Risk One Time Authentication diagrams and implementation ideas:
    - One-time passcode (OTP) flow for veteran authentication
    - OAuth 2.0 client credentials for service-to-service authentication
 5. **Notifications**: VA Notify integration for SMS and email
+
 
 ## Getting Started
 

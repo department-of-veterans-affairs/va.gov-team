@@ -23,4 +23,3 @@ architecture-beta
     vetsapi:R -- L:vassapi
 ```
 
-## Questions
