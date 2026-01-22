@@ -1,323 +1,133 @@
-# VASS Module Logging Documentation
+# VASS Module Logging
 
-This document describes all logging events in the VASS (Veteran Appointment Self-Scheduling) module.
+This document describes logging in the VASS (Veteran Appointment Self-Scheduling) module.
 
-## Overview
+## Log Format
 
-All VASS logging uses a standardized format via the `Vass::Logging` concern. Each log entry is output as JSON with the following base fields:
+All VASS logs are output as JSON with a standardized structure:
 
 | Field | Description |
 |-------|-------------|
 | `service` | Always `"vass"` |
-| `action` | The specific event being logged |
+| `action` | Event identifier (e.g., `jwt_issued`, `otc_expired`) |
 | `timestamp` | ISO8601 timestamp |
-| `controller` | Controller name (for controller logs) |
-| `component` | Class name (for service/model logs) |
-| `vass_uuid` | Veteran UUID for traceability (when available) |
+| `controller` or `component` | Source context (controller name or service class) |
+| `vass_uuid` | Veteran UUID for request tracing (when applicable) |
+| `jti` | JWT ID for session-level audit trails (on authenticated requests) |
+| `correlation_id` | Request correlation ID (on service-layer calls) |
+
+**Example log entry:**
+```json
+{
+  "service": "vass",
+  "action": "jwt_issued",
+  "timestamp": "2026-01-21T10:30:00Z",
+  "controller": "sessions",
+  "vass_uuid": "da1e1a40-1e63-f011-bec2-001dd80351ea",
+  "jti": "550e8400-e29b-41d4-a716-446655440000"
+}
+```
 
 ## Log Levels
 
-- **INFO** - Normal operations, successful events
-- **WARN** - Recoverable issues, security events (rate limits, invalid OTC)
-- **ERROR** - Failures requiring attention
+| Level | Use Case |
+|-------|----------|
+| **INFO** | Normal successful operations |
+| **WARN** | Security events, recoverable issues, rate limiting |
+| **ERROR** | Failures requiring investigation or action |
 
 ---
 
-## Authentication & Session Events
+## Security & Authentication Events
 
-### `jwt_issued`
-**Level:** INFO  
-**Location:** `SessionsController#handle_successful_authentication`  
-**Description:** Logged when a JWT token is successfully issued after OTC validation.
+Events related to user authentication, authorization, and security monitoring.
 
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-| `jti` | JWT ID for audit trail correlation |
+| Event | Level | When It Fires | Key Fields |
+|-------|-------|---------------|------------|
+| `jwt_issued` | INFO | JWT token successfully issued after OTC validation | `vass_uuid`, `jti` |
+| `auth_failure` | WARN | JWT authentication fails (expired, invalid, missing) | `reason`, `error_class` |
+| `invalid_otc` | WARN | User submits incorrect OTC code | `vass_uuid` |
+| `otc_expired` | WARN | User attempts to use an expired OTC | `vass_uuid` |
+| `identity_validation_failed` | WARN | Submitted last name or DOB doesn't match VASS records | `vass_uuid` |
 
-**Example:**
-```json
-{"service":"vass","action":"jwt_issued","timestamp":"2026-01-21T10:30:00Z","controller":"sessions","vass_uuid":"abc-123","jti":"def-456"}
-```
-
----
-
-### `auth_failure`
-**Level:** WARN  
-**Location:** `JwtAuthentication#log_auth_failure`  
-**Description:** Logged when JWT authentication fails.
-
-| Field | Description |
-|-------|-------------|
-| `reason` | Failure reason: `missing_token`, `expired_token`, `invalid_token`, `missing_veteran_id` |
-| `error_class` | Exception class name (for decode errors) |
-
----
-
-## OTC (One-Time Code) Events
-
-### `otc_generated`
-**Level:** INFO  
-**Location:** `SessionsController#complete_otc_creation`  
-**Description:** Logged when an OTC is successfully generated and sent.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-
----
-
-### `invalid_otc`
-**Level:** WARN  
-**Location:** `SessionsController#log_invalid_otc`  
-**Description:** Logged when a user submits an incorrect OTC.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-
----
-
-### `otc_expired`
-**Level:** WARN  
-**Location:** `SessionsController#handle_expired_otc`  
-**Description:** Logged when a user attempts to validate an expired OTC.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
+**`auth_failure` reasons:**
+- `missing_token` - No Authorization header provided
+- `expired_token` - JWT has expired
+- `invalid_token` - JWT signature validation failed
+- `missing_veteran_id` - JWT payload missing required `sub` claim
 
 ---
 
 ## Rate Limiting Events
 
-### `rate_limit_exceeded`
-**Level:** WARN  
-**Location:** `SessionsController#log_rate_limit_exceeded`  
-**Description:** Logged when OTC generation rate limit is exceeded.
+Events for monitoring and investigating rate limit enforcement.
 
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID (identifier) |
+| Event | Level | When It Fires | Key Fields |
+|-------|-------|---------------|------------|
+| `rate_limit_exceeded` | WARN | Veteran exceeds OTC generation limit | `vass_uuid` |
+| `validation_rate_limit_exceeded` | WARN | Veteran exceeds OTC validation attempt limit | `vass_uuid` |
 
----
-
-### `validation_rate_limit_exceeded`
-**Level:** WARN  
-**Location:** `SessionsController#log_validation_rate_limit_exceeded`  
-**Description:** Logged when OTC validation attempt rate limit is exceeded.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID (identifier) |
-
----
-
-## Identity Validation Events
-
-### `identity_validation_failed`
-**Level:** WARN  
-**Location:** `SessionsController#handle_identity_validation_error`  
-**Description:** Logged when submitted last_name/dob don't match VASS records.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-
----
-
-### `missing_contact_info`
-**Level:** ERROR  
-**Location:** `SessionsController#handle_missing_contact_info_error`  
-**Description:** Logged when veteran has no contact information in VASS.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-
----
-
-### `metadata_not_found`
-**Level:** ERROR  
-**Location:** `Session#create_authenticated_session`  
-**Description:** Logged when veteran metadata is not found in Redis during session creation.
-
----
-
-## Appointment Events
-
-### `missing_booking_session`
-**Level:** WARN  
-**Location:** `AppointmentsController#retrieve_appointment_id_from_session`  
-**Description:** Logged when booking session data is not found in Redis.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-| `jti` | JWT ID (via audit_metadata) |
-
----
-
-### `missing_edipi`
-**Level:** ERROR  
-**Location:** `AppointmentsController#set_appointments_service`  
-**Description:** Logged when veteran EDIPI is not found for API calls.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-| `jti` | JWT ID (via audit_metadata) |
-
----
-
-### `unexpected_availability_status`
-**Level:** ERROR  
-**Location:** `AppointmentsController#render_availability_result`  
-**Description:** Logged when an unexpected status is returned from availability check.
-
-| Field | Description |
-|-------|-------------|
-| `status` | The unexpected status value |
-| `jti` | JWT ID (via audit_metadata) |
+Rate limits protect against brute-force attacks and abuse. When these fire frequently for a single `vass_uuid`, it may indicate:
+- Automated attack attempts
+- User confusion requiring UX improvements
+- Integration issues with consuming applications
 
 ---
 
 ## External Service Events
 
-### `vass_api_error`
-**Level:** ERROR  
-**Location:** `SessionsController#handle_vass_api_error`, `SessionsController#handle_authenticate_otc_error`  
-**Description:** Logged when VASS API returns an error.
+Events for monitoring dependencies on external services.
 
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-| `error_class` | Exception class name |
-
----
-
-### `vanotify_error`
-**Level:** ERROR  
-**Location:** `SessionsController#handle_vanotify_error`  
-**Description:** Logged when VANotify service fails to send notification.
-
-| Field | Description |
-|-------|-------------|
-| `vass_uuid` | Veteran UUID |
-| `error_class` | Exception class name |
-| `status_code` | VANotify error status code |
-| `contact_method` | Contact method attempted (email) |
+| Event | Level | When It Fires | Key Fields |
+|-------|-------|---------------|------------|
+| `vass_api_error` | ERROR | VASS upstream API returns an error | `vass_uuid`, `error_class` |
+| `vanotify_error` | ERROR | VANotify fails to send OTC notification | `vass_uuid`, `status_code`, `contact_method` |
+| `oauth_cache_miss` | INFO | OAuth token not in cache, requesting new token | `correlation_id` |
+| `oauth_token_missing` | ERROR | OAuth token response missing access_token | `correlation_id`, `status` |
+| `auth_retry` | ERROR | Retrying request after authentication failure | `correlation_id` |
+| `auth_failed` | ERROR | OAuth authentication ultimately failed | `correlation_id`, `error_type`, `status_code` |
 
 ---
 
-## OAuth Events
+## Session & Data Events
 
-### `oauth_cache_miss`
-**Level:** INFO  
-**Location:** `Client#ensure_oauth_token`  
-**Description:** Logged when OAuth token is not in cache and must be minted.
+Events related to session management and data integrity.
 
-| Field | Description |
-|-------|-------------|
-| `correlation_id` | Request correlation ID |
-
----
-
-### `oauth_token_missing`
-**Level:** ERROR  
-**Location:** `Client#mint_oauth_token`  
-**Description:** Logged when OAuth token response is missing access_token.
-
-| Field | Description |
-|-------|-------------|
-| `correlation_id` | Request correlation ID |
-| `status` | HTTP response status |
-| `has_body` | Whether response had a body |
+| Event | Level | When It Fires | Key Fields |
+|-------|-------|---------------|------------|
+| `otc_generated` | INFO | OTC successfully created and sent to veteran | `vass_uuid` |
+| `missing_contact_info` | ERROR | Veteran has no email address for OTC delivery | `vass_uuid` |
+| `missing_edipi` | ERROR | EDIPI not found when making VASS API calls | `vass_uuid`, `jti` |
+| `missing_booking_session` | WARN | Booking session data expired or not found in Redis | `vass_uuid`, `jti` |
+| `metadata_not_found` | ERROR | Veteran metadata missing from Redis during session creation | - |
+| `json_parse_failed` | ERROR | Cached data in Redis is corrupted/unparseable | `key_type` |
 
 ---
 
-### `auth_retry`
-**Level:** ERROR  
-**Location:** `Client#log_auth_retry`  
-**Description:** Logged when retrying after authentication failure.
+## Appointment Flow Events
 
-| Field | Description |
-|-------|-------------|
-| `correlation_id` | Request correlation ID |
+Events specific to the appointment scheduling workflow.
 
----
-
-### `auth_failed`
-**Level:** ERROR  
-**Location:** `Client#log_auth_error`  
-**Description:** Logged when authentication ultimately fails.
-
-| Field | Description |
-|-------|-------------|
-| `correlation_id` | Request correlation ID |
-| `error_type` | Type of authentication error |
-| `status_code` | HTTP status code |
+| Event | Level | When It Fires | Key Fields |
+|-------|-------|---------------|------------|
+| `unexpected_availability_status` | ERROR | Availability check returned unknown status | `status`, `jti` |
+| `date_parse_failed` | ERROR | VASS API returned date in unexpected format | `correlation_id` |
+| `validation_error` | WARN | General request validation failure | - |
 
 ---
 
-## Data Parsing Events
+## Audit Trail
 
-### `json_parse_failed`
-**Level:** ERROR  
-**Location:** `RedisClient#veteran_metadata`, `RedisClient#session`  
-**Description:** Logged when cached JSON data fails to parse.
+The `jti` (JWT ID) field enables session-level correlation. Every JWT issued contains a unique `jti`, and all subsequent authenticated requests include this value in logs.
 
-| Field | Description |
-|-------|-------------|
-| `key_type` | Type of data: `veteran_metadata` or `session_data` |
+**Use cases:**
+- **Incident investigation:** Find all actions taken with a potentially compromised token
+- **User support:** Trace a user's session to debug reported issues
+- **Compliance:** Demonstrate what actions occurred during a specific session
 
----
-
-### `date_parse_failed`
-**Level:** ERROR  
-**Location:** `AppointmentsService#parse_vass_date`  
-**Description:** Logged when VASS API returns an unparseable date format.
-
-| Field | Description |
-|-------|-------------|
-| `correlation_id` | Request correlation ID |
-
----
-
-## Service Error Events
-
-### Generic service errors
-**Level:** ERROR  
-**Location:** `AppointmentsService#log_error`  
-**Description:** Logged for general service-level errors.
-
-| Field | Description |
-|-------|-------------|
-| `error_class` | Exception class name |
-| `correlation_id` | Request correlation ID |
-
----
-
-## Validation Events
-
-### `validation_error`
-**Level:** WARN  
-**Location:** `SessionsController#log_validation_error`  
-**Description:** Logged for general validation errors.
-
----
-
-## Audit Trail Usage
-
-The `jti` (JWT ID) field enables audit trail correlation. All actions performed with a single JWT token share the same `jti`, allowing you to:
-
-1. **Trace all actions from a login session** - Search logs by `jti` to see everything done with that token
-2. **Investigate security incidents** - If a token is compromised, find all actions taken
-3. **Debug issues** - Correlate errors back to specific authentication events
-
-**Example query:**
+**Example query:** 
 ```
-jti:"abc-123-def-456" | Filter by service:vass
+service:vass AND jti:"550e8400-e29b-41d4-a716-446655440000"
 ```
 
-This returns all log entries from a single authenticated session.
+This returns all log entries from a single authenticated session, showing the complete sequence of API calls made.
