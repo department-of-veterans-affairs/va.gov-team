@@ -17,6 +17,7 @@
 | Spell out full form names in intro page | SME Request | Complete | [123815](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123815) | [41537](https://github.com/department-of-veterans-affairs/vets-website/pull/41537) | 01/20/2026 |
 | Update OMB number and expiration date | Form-Related Update | Complete | [127557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/127557) | [41482](https://github.com/department-of-veterans-affairs/vets-website/pull/41482) | 01/20/2026 |
 | MMS/GCIO Integration | Form-Related Update | In Development | [130768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130768) |  |  |
+| Submitting button low contrast | Staging Finding | In Development (Platform dependency) | [123825]([https://github.com/department-of-veterans-affairs/va.gov-team/issues/130768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123825)) |  |  |
 | Find a form search results page content | Vendor Team Suggestion | Proposed | [130091](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130091) |  |  |
 | Find a form page content | Vendor Team Suggestion | Proposed | [130092](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130092) |  |  |
 | Add Benefit Reinstatement Education | Vendor Team Suggestion | Proposed | [130113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130113) |  |  |
