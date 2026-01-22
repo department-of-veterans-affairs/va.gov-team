@@ -1,6 +1,116 @@
 # Running Design and Research Agenda
 
 
+
+
+
+## January 22, 2026
+
+Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea 
+
+
+### Agenda - 
+Claims call - 1/21 recap
+
+- Roadmap priority list
+	1	Appeals: mapping how Health Apps fits into the existing benefits appeals flow
+	2	Digitizing POA form? Or allow users to upload it within a form
+	3	Top pain points from Medallia/claims resub flow research findings
+	4	Multiple CHAMPVA claim submissions
+	5	OCR/LLM on CHAMPVA claims
+	6	Unhoused Veteran address/VES work (check in 30 days)
+
+
+MULTIPLE CLAIMS
+- number 4 on list keeps coming up, not sure what it means and what the pain points really are
+- multiple claims, recently enrolled who have backdated claims for 180 days, working against clock situation
+- very specific group of users, not common, and they wanted as a duty to assist routing 
+
+- metrics ? 
+- content guidance specific to one submission
+- faster to send shoebox claim in the mail ?
+
+
+- Research into understanding more on this use case, worth us adding a digital solution or worth them doing a mail solution
+
+- Discovery into duty to assist - consideration of a branched solution, we have a place to branch and users to provide context
+
+- prioritize early discover work, review what done so far
+- funnel business partner questions down to few as possible 
+- maybe not getting full picture if users going to mail route, need data to confirm 
+- will be getting numbers to determine work value
+- past work done, need to review and see if aligns to current VADS and flow considerations 
+
+
+
+Digital CHAMPVA cards
+- needs to know technical feasibility before UX work effort 
+- placement recs on MyVA or mobile app
+
+OHI standalone 
+- OHI for family/multiple people
+- value high possible at open enrollment time of year
+
+
+OHI is like an update form (EZR comparison, SME context)
+
+10-10d update form - 
+
+Confusion on how to add and make changes, Premal can work with VES team for priotitizsation
+
+CSAT findings of areas of improvement 
+New design pattern - feedback loop back to design system 
+Slightly different - have research to support how approaching role type in IVC forms 
+
+Profile to EZR - 
+Profile from VES, health portfolio 
+
+Prefill - not called on list to explore, priority?
+
+
+POA form (number ) and Release of Information Form 10-5345
+- that this form requires, signature, notary, 
+- Matt D. Product team, working on to upload securely to the VA
+- add this form to add to list, needs engineering expertise 
+- UX flow now needed, 
+- current and expected volumes, 
+- little bit of discovery to understand how to route users to experiences 
+- service blueprint updates
+- information route of how this fits into backend 
+- how does the business use this flow and does it solve the problem 
+
+Longer term ask from business - Explanation of benefits for CHAMPVA
+- EOB online, for both FMP and CHAMPVA, for beneficiaries, not providers 
+
+OHI CSAT is lower
+- Look at increasing 
+- Look at January scores, with 10-10d v2 and how that resolved some negative feedback
+- resolve of future effective date
+- look at family grouping item left
+
+Sendback letter updates
+
+- business partners, their call but want to reiterate that it should point to modernized site
+- up to them to approve content and route 
+- send back letter is key to success of resubmission flow 
+
+
+Product guide feedback - file in “we will consider” and wait for user feedback 
+
+TRICARE study - 
+- Prototype updated, and working on convo guide now
+- Open and start the research 
+
+
+Multi form pattern exploration on 10-10 side 
+
+
+
+
+
+-------
+
+
 ## January 8, 2026
 
 Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea, John 
