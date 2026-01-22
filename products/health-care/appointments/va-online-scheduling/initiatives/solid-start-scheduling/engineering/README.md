@@ -25,6 +25,7 @@ Authentication implementation strategy:
 - One time passcode
 - JWT token flow between va.gov and vets-api
 - Uses redis cache for user session very short lived
+- vets-api => vass-api azure token service for system to system communication
 - Authentication sequence diagrams and patterns
 
 ### [🏗️ high-level-architecture.md](./high-level-architecture.md)
