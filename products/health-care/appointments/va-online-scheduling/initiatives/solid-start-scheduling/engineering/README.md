@@ -75,7 +75,9 @@ Low Risk One Time Authentication diagrams and implementation ideas:
 1. **Frontend/Backend Split**: Veterans use va.gov interface, staff use Dynamics interface
 2. **Data Storage**: All data stored in MS Dynamics database
 3. **API Layer**: Standardized REST API between va.gov and Dynamics
-4. **Authentication**: One time passcode with JWT tokens
+4. **Authentication:** 
+   - One-time passcode (OTP) flow for veteran authentication
+   - OAuth 2.0 client credentials for service-to-service authentication
 5. **Notifications**: VA Notify integration for SMS and email
 
 ## Getting Started
