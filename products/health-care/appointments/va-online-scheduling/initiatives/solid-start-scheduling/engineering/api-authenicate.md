@@ -1,4 +1,4 @@
-## API Authentication:  OTP Flow Authentication with VASS API
+## API Authentication:  OTP Flow Authentication with VETS API
 
 The One-Time Passcode (OTP) flow is designed for scenarios where users access VA scheduling services through a direct invitation—not via a full va.gov sign-in. Instead of authenticating with standard SSO. 
 
