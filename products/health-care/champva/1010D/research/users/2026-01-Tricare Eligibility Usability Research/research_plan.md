@@ -339,7 +339,13 @@ _Response options: YES, NO, UNSURE_
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+We would like a kick-off call with Perigean to discuss recruitment criteria.
+
+- `Suggested dates and times:` 
+
+** 01/28, Wednesday, 1:30pm-2:30pm ET**
+** 01/29, Friday, 12:30pm-2:30pm ET**
+** 01/30, Friday, 12:00pm-5:00pm ET**
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -348,11 +354,11 @@ _Response options: YES, NO, UNSURE_
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[TBD]**
+- `Date and time of pilot session:` **[TBD]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates January TBD, 2026 - January TBD, 2026]**
+- `Planned dates of research:` **[Feb 9, 2026 - Feb 20, 2026]**
 
 ### Length of sessions
 - `Session length:` **[45 minutes]**
