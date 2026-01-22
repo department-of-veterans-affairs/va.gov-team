@@ -580,15 +580,15 @@ Upload an encrypted file that requires a password to continue.
 
 **Screen readers**
 
-**1. 🟢 Chrome + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (*Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
-**2. 🟢 Safari + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (*Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
-**3. Safari + iOS + VO:** 
-**4. Chrome + iOS + VO:** 
-**5. Edge + JAWS:**
-**6. Edge + NVDA:**
-**7. Chrome + JAWS:**
-**8. Chrome + NVDA:**
-**9. Chrome + Talkback + Android**
+**1. 🟢 Chrome + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (* Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
+**2. 🟢 Safari + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (* Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
+**3. 🟡 Safari + iOS + VO:** After uploading, focus is set to the top of the page (Not the file input). After navigating to the password field it announces as expected. "Password for this file (* Required)"....Secure text field Double tap to edit."
+**4. 🟡 Chrome + iOS + VO:** After uploading, focus is set to the URL bar (Not the file input). After navigating to the password field it announces as expected. "Password for this file ( * Required)"....Secure text field Double tap to edit."
+**5. 🟢 Edge + JAWS:** After announcing the page <title>, then announcing the uploaded file name, it eventuall announces "Password for this file star required password edit required type in text" The second password edit mention is JAWS indication for secure fields.
+**6. 🟢 Edge + NVDA:** Focus goes to the password field, and talkback announces, "Password for this file (* Required) Password protected required blank"
+**7. 🟢 Chrome + JAWS:** After announcing the page <title>, then announcing the uploaded file name, it eventuall announces "Password for this file star required password edit required type in text" The second password edit mention is JAWS indication for secure fields.
+**8. 🟢 Chrome + NVDA:** After file uploads, focus is put on the password field, announces, "Password for this file Required edit protected required blank has auto complete"
+**9. 🟢 Chrome + Talkback + Android** Focus goes to the password field, and talkback announces, "Password edit box. Password for this file (* Required)"
 
 ---
 
@@ -621,15 +621,15 @@ Upload an encrypted file that displays a password field.
 
 **Screen readers**
 
-**1. Chrome + VO:** 
-**2. Safari + VO:** 
-**3. Safari + iOS + VO:** 
-**4. Chrome + iOS + VO:** 
-**5. Edge + JAWS:**
-**6. Edge + NVDA:**
-**7. Chrome + JAWS:**
-**8. Chrome + NVDA:**
-**9. Chrome + Talkback + Android**
+**1. 🟢 Chrome + VO:** field is keyboard accessilbe
+**2. 🟢 Safari + VO:** field is keyboard accessilbe
+**3. 🟢 Safari + iOS + VO:** field is touch/tap accessible
+**4. 🟢 Chrome + iOS + VO:** field is touch/tap accessible
+**5. 🟢 Edge + JAWS:** field is keyboard accessilbe
+**6. 🟢 Edge + NVDA:** field is keyboard accessilbe
+**7. 🟢 Chrome + JAWS:** field is keyboard accessilbe
+**8. 🟢 Chrome + NVDA:** field is keyboard accessilbe
+**9. 🟢 Chrome + Talkback + Android** field is touch/tap accessible
 
 ---
 
@@ -652,63 +652,26 @@ Upload an encrypted file and navigate to the password field.
 - Assistive technology does not announce typed characters.
 
 #### Acceptance criteria
-- 🟢 Characters are masked and not announced.
+- 🟢 Characters are visually masked in the password field (no plain-text password shown on screen).
+- 🟢 Assistive technology does not provide a re-readable plaintext password (e.g., it should not expose the full value via accessible name/description or let the user review the entered password as normal text).
+- 🟢 Mobile AT may echo individual characters during entry (iOS VoiceOver / Android TalkBack), as long as the value remains visually masked and is not exposed as a readable string after entry.
 - 🟡 AT may announce “contents hidden” or similar.
-- 🔴 Typed characters are exposed.
-
+- 🔴 The password value is visually visible (unmasked) by default, or the full password is exposed programmatically (e.g., announced/reviewable as plain text in a way that defeats secure entry).
 #### Actual behavior:
 
 **Screen readers**
 
-**1. Chrome + VO:** 
-**2. Safari + VO:** 
-**3. Safari + iOS + VO:** 
-**4. Chrome + iOS + VO:** 
-**5. Edge + JAWS:**
-**6. Edge + NVDA:**
-**7. Chrome + JAWS:**
-**8. Chrome + NVDA:**
-**9. Chrome + Talkback + Android**
+**1. 🟢 Chrome + VO:** Characters are visually masked and VO Announces a *typerwriter sound* as a user types, expected.
+**2. 🟢 Safari + VO:** Characters are visually masked and VO Announces a *typerwriter sound* as a user types, expected.
+**3. 🟢 Safari + iOS + VO:** Characters are visually masked and VO announces the letter that is being typed and a click
+**4. 🟢 Chrome + iOS + VO:** Characters are visually masked and VO announces the letter that is being typed and a click
+**5. 🟢 Edge + JAWS:** Characters are visually masked and JAWS Announces *star* as a user types, expected.
+**6. 🟢 Edge + NVDA:** Characters are visually masked and NVDA Announces *star* as a user types, expected.
+**7. 🟢 Chrome + JAWS:** Characters are visually masked and JAWS Announces *star* as a user types, expected.
+**8. 🟢 Chrome + NVDA:** Characters are visually masked and NVDA Announces *star* as a user types, expected.
+**9. 🟢 Chrome + Talkback + Android** Characters are visually masked and Talkback announces *bullet* as a user types, expected
 
----
-
-### Test ID: encrypted-show-hide-toggle
-**Purpose:**  
-Ensure show/hide password control is accessible.
-
-**WCAG:**  
-- 2.1.1 Keyboard  
-- 3.3.2 Labels or Instructions  
-- 4.1.2 Name, Role, Value  
-
-**Setup:**  
-Upload an encrypted file where a “Show password” toggle is available.
-
-**Steps:**  
-1. When the user activates the “Show password” button.
-
-**Expected Result:**  
-- Password visibility toggles.
-- State change is announced.
-
-#### Acceptance criteria
-- 🟢 Toggle is keyboard operable and announces state change.
-- 🟡 Announcement wording may vary.
-- 🔴 Toggle is not operable or state is unclear.
-
-#### Actual behavior:
-
-**Screen readers**
-
-**1. Chrome + VO:** 
-**2. Safari + VO:** 
-**3. Safari + iOS + VO:** 
-**4. Chrome + iOS + VO:** 
-**5. Edge + JAWS:**
-**6. Edge + NVDA:**
-**7. Chrome + JAWS:**
-**8. Chrome + NVDA:**
-**9. Chrome + Talkback + Android**
+**Note:** Desktop screen readers typically do not echo characters in password fields. Mobile screen readers may echo characters during touch entry. Both behaviors are acceptable if the password remains masked and not reviewable as plain text.
 
 ---
 
@@ -731,23 +694,69 @@ Upload an encrypted file and enter the correct password.
 - Focus reflects new state.
 
 #### Acceptance criteria
-- 🟢 Success is announced and state change is clear.
-- 🟡 Focus target may vary.
-- 🔴 No success feedback or focus is lost.
+- 🟢 After successful password entry, screen readers announce a clear indication of success (e.g., file selected / file name available / unlocked state).
+- 🟡 A non-interactive visual success alert may not be announced, as long as success is conveyed through another reliable status message.
+- 🔴 No success indication is announced, leaving the user unsure whether the password was accepted.
 
 #### Actual behavior:
 
 **Screen readers**
 
-**1. Chrome + VO:** 
-**2. Safari + VO:** 
-**3. Safari + iOS + VO:** 
-**4. Chrome + iOS + VO:** 
-**5. Edge + JAWS:**
-**6. Edge + NVDA:**
-**7. Chrome + JAWS:**
-**8. Chrome + NVDA:**
-**9. Chrome + Talkback + Android**
+**1. 🟢 Chrome + VO:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**2. 🟢 Safari + VO:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**3. 🟢 Safari + iOS + VO:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**4. 🟢 Chrome + iOS + VO:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**5. 🟢 Edge + JAWS:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**6. 🟢 Edge + NVDA:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**7. 🟢 Chrome + JAWS:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**8. 🟢 Chrome + NVDA:** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+**9. 🟢 Chrome + Talkback + Android** Focus goes to the component and it announces file selected, file name. A green success message appears, but it is not announced.
+
+**Note** Although the visual success alert isn’t announced, screen readers announce the successful file selection and filename, which clearly conveys the unlock state; we’re treating this as acceptable and documenting it as such.
+
+---
+### Test ID: encrypted-unsuccessful-unlock
+
+**Purpose:**
+Verify accessible behavior when an encrypted file cannot be unlocked due to an incorrect password.
+
+**WCAG:**
+- 3.3.1 Error Identification
+- 3.3.2 Labels or Instructions
+- 3.3.3 Error Suggestion
+- 4.1.3 Status Messages
+
+**Setup:**
+Upload an encrypted file that requires a password to continue.
+
+**Steps:**
+- When the user enters an incorrect password into the password field.
+- And submits the password.
+
+**Expected Result:**
+- Then the file remains locked.
+- And an error message appears indicating the password is incorrect (e.g., “Incorrect password. Try again or delete file.”).
+- And the error message is announced by screen readers when it appears.
+- And the message is programmatically associated with the password field (e.g., via aria-describedby).
+- And focus remains on or returns to the password field, allowing the user to retry without losing context.
+
+#### Acceptance criteria
+- 🟢 The user is clearly informed that the password was incorrect and can immediately retry or choose an alternate action (such as deleting the file).
+- 🟡 Announcement timing or phrasing may vary by AT/browser, as long as the error is discoverable without searching and the recovery path is clear.
+- 🔴 The user receives no announced error, or focus moves away from the password field in a way that makes recovery unclear or difficult.
+
+#### Actual behavior:
+
+**Screen readers:** 
+**1. 🟢 Chrome + VO:** Focus goes back to the password field, and it announces "5 characters Insertion at end of text. Password for this file (*Required) Error Incorrect password. Try again or delete file. required invalid data secure edit text"
+**2. 🔴 Safari + VO:** Focus goes back to the password field, and it announces "5 characters Insertion at end of text. Password for this file (*Required) required invalid data secure edit text with autofill menu" it never announces an error or the error message. It never announces "Incorrect password. Try again or delete file."
+**3. 🟢 Safari + iOS + VO:**  Focus goes to the password field, and it immediately announces "Error incorrect password. Try again or delete file."
+**4. 🟢 Chrome + iOS + VO:** Focus goes to the password field, and it immediately announces "Error incorrect password. Try again or delete file."
+**5. 🟢 Edge + JAWS:** Focus goes to the password field, and it immediately announces "Error incorrect password. Try again or delete file."
+**6. 🟢 Edge + NVDA:** It starts to announce Error incorrect password but quickly gets interrupted then announces the label, "Password for this file star required edit protected required invalid entry. Error Incorrect passwod. try again or delete file. Five bullets"
+**7. 🟢 Chrome + JAWS:** Focus goes to the password field, and it immediately announces "Error incorrect password. Try again or delete file."
+**8. 🟢 Chrome + NVDA:** It starts to announce Error incorrect password but quickly gets interrupted then announces the label, "Password for this file star required edit protected required invalid entry. Error Incorrect passwod. try again or delete file."
+**9. 🟢 Chrome + Talkback + Android** Focus goes back to the password field, and it announces "3 characters edit error Invaid password. Try again or delet"
 
 ---
 
