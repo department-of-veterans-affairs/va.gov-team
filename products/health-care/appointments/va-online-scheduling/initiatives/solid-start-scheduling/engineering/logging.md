@@ -28,14 +28,6 @@ All VASS logs are output as JSON with a standardized structure:
 }
 ```
 
-## Log Levels
-
-| Level | Use Case |
-|-------|----------|
-| **INFO** | Normal successful operations |
-| **WARN** | Security events, recoverable issues, rate limiting |
-| **ERROR** | Failures requiring investigation or action |
-
 ---
 
 ## Security & Authentication Events
