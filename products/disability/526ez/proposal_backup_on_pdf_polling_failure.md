@@ -240,12 +240,9 @@ gantt
 2. **Should we skip uploading ancillary documents in this scenario?**
    - Could add a flag to backup processor to only upload the 526 PDF
    - Trade-off: More code complexity vs. fewer duplicates
+   - Lots of code, for limited benefit (only hit this error couple times a year)
 
-3. **Should we notify the veteran?**
-   - Currently no email is sent on `pdf_not_found`
-   - Could send "still processing" email when backup is queued
-
-4. **What if backup also fails?**
+3. **What if backup also fails?**
    - Falls into existing backup exhaustion handling
    - Sends `Form526SubmissionFailureEmailJob`
 
