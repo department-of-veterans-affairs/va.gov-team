@@ -56,7 +56,7 @@ Each go-live round will need to display 2 alerts per health tool landing page in
 
 At some point in the transition period (active maintenance window), "moment in time" data will be visible to users, but any healthcare touchpoints that happen during hte window will not be reflected in their record until after the maintenance window takes elapses. During the active maintenance window, all user tasks and actions will be suspended until **7 days after** the site go-live date.
 
-1. **Warning alert** - upcoming maintenance window (will render for between 15-30 days, depending on the health tool)
+1. **Warning alert** - upcoming maintenance window (will render for between 45-60 days, depending on the health tool)
 2. **Error alert** - active maintenance window (active 30 days prior to go-live date until 7 days after go-live)
 
 The My HealtheVet locations where these alerts need to render include: 
