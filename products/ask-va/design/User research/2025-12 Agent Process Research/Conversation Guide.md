@@ -73,8 +73,9 @@ We’ve introduced ourselves, so we’d love to start by learning more about you
 1. Tell us a bit more about yourself, your location, how long you’ve been with VA, and how you made your way into your current role.   
 2. Tell me about your role as if you were describing it to your grandparent.   
 3. What does a day in your life look like? Walk me through your work day start to finish.   
-4. At a high level, what are your primary job responsibilities?    
+   1. At a high level, what are your primary job responsibilities?    
 5. What is your favorite part of your role? Least favorite part?
+6. What types of things come in from AVA to your queue? How many are you working on?
 
 ## Process
 
