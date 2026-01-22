@@ -36,15 +36,15 @@
 
 ## Setting Expectations
 
-Thanks for joining us today\! My name is **Elena Naids**, and I’m a UX Researcher at VA. I will have some teammates joining us to observe and take notes, but we’ll get to them in just a minute. First I wanted to go over a few things to set your expectations for our session today. 
+Thanks for joining us today\! We know you are really busy and your time is extremely valuable supporting Veterans so we are really grateful for your time today. My name is **Elena Naids**, and I’m a Researcher at VA. I will have some teammates joining us to observe and take notes, but we’ll get to them in just a minute. First I wanted to go over a few things to set your expectations for our session today. 
 
-- **Our goal with this research is to learn from you**. So we’re going to be asking you about your process answering questions from Ask VA submitters. We are in the learning phase of our research, so we cannot guarantee anything specific that will be changed within Ask VA based on this interview. 
+- **Our goal with this research is to learn from you**. So we’re going to be asking you about your process answering questions from Ask VA submitters. We are in the learning phase of our research, so we cannot guarantee anything specific that will be changed within Ask VA based on this interview, but we are very excited to hear your perspective for future improvements.
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.  
     
 - **In this interview, I want to hear your honest opinions about your processes and the context of your work.** I welcome any and all of your thoughts, and I won't be offended by any opinions you express.
 
-- We are looking at these processes holistically across many business lines, so feel free to **focus on your business line’s perspective**.   
+- We are looking at these processes across many business lines, so feel free to **focus on your business line’s perspective**.   
     
 - Your **participation in this interview is completely voluntary**. You do not have to participate if you don't want to. If you would like to stop the session or don’t want to answer a question for any reason, that's no problem. Please just let me know.
 
