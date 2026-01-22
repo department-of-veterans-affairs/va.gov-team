@@ -3,6 +3,10 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 ### Running Agenda
 
+1/22/2026
+*  Rescheduling this meeting so that more OCTO folks can join. Does Mondays work for folxs?
+
+
 1/08/2026
 * Next Build QA
     * Next Build environments on Tugboats don't reference the content on that Tugboat ([slack](https://dsva.slack.com/archives/C01SR56755H/p1767737279782409))
