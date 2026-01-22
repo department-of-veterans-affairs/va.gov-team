@@ -1,9 +1,9 @@
 name: Governance collaboration cycle intake - create milestone
 
 on:
-  issues:
-    types:
-      - opened
+  # issues:
+  #   types:
+  #     - opened
   workflow_dispatch:
 
 permissions:
@@ -18,8 +18,8 @@ jobs:
 
     # if: |
     #   github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'collaboration-cycle-test')
-    if: |
-      github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'collaboration-cycle-test')
+    # if: |
+    #   github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'collaboration-cycle-test')
 
     steps:
       - name: Checkout repository
@@ -32,12 +32,11 @@ jobs:
           role-to-assume: ${{ vars.AWS_ASSUME_ROLE }}
           output-credentials: true
 
-      - name: Get GitHub bot token
-        uses: department-of-veterans-affairs/action-inject-ssm-secrets@latest
-        # TODO: use VSP bot
-        with:
-          ssm_parameter: /devops/VA_VFS_BOT_GITHUB_TOKEN
-          env_variable_name: VA_VFS_BOT_GITHUB_TOKEN
+      # - name: Get GitHub bot token
+      #   uses: department-of-veterans-affairs/action-inject-ssm-secrets@latest
+      #   with:
+      #     ssm_parameter: /devops/VA_VFS_BOT_GITHUB_TOKEN
+      #     env_variable_name: VA_VFS_BOT_GITHUB_TOKEN
 
       - name: Get Node version
         id: get-node-version
@@ -54,8 +53,8 @@ jobs:
 
       - name: Run script
         run: node ./scripts/github-actions/gov-team/create-milestone.js
-        env:
-          GITHUB_TOKEN: ${{ env.VA_VFS_BOT_GITHUB_TOKEN }}
+        # env:
+        #   GITHUB_TOKEN: ${{ env.VA_VFS_BOT_GITHUB_TOKEN }}
 
 #   slack-notify:
 #     runs-on: ubuntu-latest
