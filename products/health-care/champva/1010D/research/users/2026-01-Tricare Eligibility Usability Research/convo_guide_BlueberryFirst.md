@@ -212,7 +212,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 > - [Would the participant want to proceed through the form despite what the alert stated?]
 
 
-## Fifth Task: [ALERT MESSAGES] - 10 minutes
+## Fifth Task: [ALERT MESSAGES] - 7 minutes
 
 - Now that we have gone through the second prototype, I want to walk through some scenarios and messaging with you to get your feedback. 
 - If you scroll down from the Prototype's main menu, you'll find a gray button labelled "warning alerts", go ahead and click on that.
@@ -227,7 +227,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 - In this scenario, would you want to apply for CHAMPVA benefits despite the warning?
 
 
-[Warning Alert B - Veteran not in DEERS] 
+[Warning Alert B - Error with EDS] 
 
 - In this next scenario, you entered in your information just as before, but now you see the following information:
 
@@ -236,20 +236,37 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 - Would you want to apply for CHAMPVA benefits despite the warning here and what actions, if any, would you take before doing so?
 
 
-[Warning Alert C  - Veteran found in DEERS, eligible for Tricare] 
+[Warning Alert C  - Veteran not found in DEERS] 
 
-Third scenario, you see the following alert:
+- Third scenario, you see the following alert:
 
 - Again, same thing, think aloud about your impressions of this alert message.
 
 - For this scenario, would you feel more confident now before applying? 
 
+[Warning Alert D  - Found Veteran in DEERS, Eligible for TRICARE] 
 
-[Success Alert D - maybe be eligible for CHAMPVA] 
+- For this scenario, the Veteran's information was located.
+
+- For you see this message. What would you do? Anything you want to see here?
+
+
+[Success Alert E - maybe be eligible for CHAMPVA] 
 
 - And the last scenario to go over, you see the following alert:
 
 - [ ] Page with success alert shown
+
+## Sixth Task: [SUMMARY CARDS] - 5 minutes
+
+- For the final task, I would like your feedback on several different messages that happen at the end of our scenarios today. 
+- If you scroll down from the Prototype's main menu, you'll find a gray button labelled "summary cards", go ahead and click on that.
+
+- On this screen, you'll find 4 summary cards. The first two, Card Style A, are from the prototypes we just went through. The 3rd and 4th cards, Card Style B, are alternative designs. Please take a moment to look at all four before we talk about them.
+
+- What do you think each card is telling you?
+- Which set is the easiest to understand at a glance? What makes it clearer than the other?
+- Was there any part of the card that felt unclear or confusing?
 
 - [ ] End of screenshare
 
