@@ -161,9 +161,9 @@ files: [
 ```
 
 Suggested:
-The three new items here are added as a result of using a new component.
+The three new items here are added as a result of using a new component. The name of this array has changed to avoid a name collision on the FE.
 ```
-files: [
+files2: [
   {
     file: {},
     name: 'something.jpg',
