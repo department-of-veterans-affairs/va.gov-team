@@ -17,7 +17,7 @@ description: "Converstation guide for Console Patient Details Testing."
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Dry run
+- [X] Dry run
 
 ### Day of the session
 
