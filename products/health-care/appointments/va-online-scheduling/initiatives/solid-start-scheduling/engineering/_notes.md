@@ -113,3 +113,51 @@
 
 - What is the response?
 
+---
+
+## Outstanding Questions
+
+The following questions need to be addressed during implementation:
+
+Production keys?
+We need to finalize the development api first. This will have to happen after the new team takes over.
+
+**How will we handle reminders?**
+The new team will be onboarded to VANotify and a dynamics action will trigger the reminder when it's needed
+  - Pros:
+    - No split brain problems
+
+## Dev access
+
+- We have access to a dev environment referred to as Dev R&D
+- Includes link to interactive swagger
+- We have access to dynamics system that the staff uses to manage appointments
+- TODO: Postman collection to be added here(keys and instructions will be in onboarding email)
+- Can only be accessed on network GFE or Remote Desktop
+
+### Infrastructure & Operations ([recommendations.md](./recommendations.md))
+
+- How are we monitoring?
+- How are we deploying?
+- Should we be versioning the endpoints?
+- Where is the source code located? Github?
+
+### API Design - GetAppointments ([recommendations.md](./recommendations.md))
+
+- What is the upperbound of number of appointments a Veteran could have?
+
+### API Design - AppointmentAvailability ([recommendations.md](./recommendations.md))
+
+- Should the get appointment slots support pagination?
+- When does the time slot get locked?
+- How are skills related to appointments?
+
+### API Design - SaveAppointment ([recommendations.md](./recommendations.md))
+
+- This is a UPSERT, that's fine, but what all fields get updated?
+
+### API Design - CancelAppointment ([recommendations.md](./recommendations.md))
+
+- What is the response? A HTTP 204?
+
+
