@@ -29,7 +29,7 @@ Synchronous Go/No Go (Placeholder)
 
 **Verdict: Go**
 
-## Release Details (January 22, 2026)
+## Release Details (TBD)
 
 - [ ] Enable in Production to 100% of users
 - [ ] Confirm the release to Production, with a test user
