@@ -3,8 +3,8 @@ This doc explains patients' secure messaging experience during the data migratio
 
 In this doc: 
 - [Upcoming sites](#upcoming-sites)
-- [UX during transition](#ux-during-transition)
-- [Questions](#questions)
+- [Alerts](#alerts)
+- [Functionality during transition](#functionality-during-transition)
 
 ## Upcoming sites
 Upcoming transitioning sites in Michigran for April 2026: 
@@ -14,26 +14,34 @@ Upcoming transitioning sites in Michigran for April 2026:
 - VA Saginaw Healthcare System
 
 You can [review the full EHR deployment schedule on this VA page](https://digital.va.gov/ehr-modernization/ehr-deployment-schedule/). 
-
-## UX during transition
-This describes how patients at the transitioning sites will experience messaging on VA.gov. In this section: 
-- Alerts
-- Functionality during transition
   
-### Alerts 
+## Alerts 
 We'll display these alerts to users.
 - Before transition: "You can't send/reply to messages during this upcoming period of time"
 - During transition: "You can't send/reply to messages right now until [date]"
 
-### Functionality during transition
+## Functionality during transition
 Here's what users will and won't be able to do during the transition: 
-|What users can do during transition|What users can't do during transition|
-|---|---|
-|- Review past messages<br>- Any action with messages not from MI transition site care teams|- Send new messages to care teams at transitioning sites<br>- Reply to messages from care teams at transitioning sites<br>- Move message<br>- Save draft<br>- Create folder (VA.gov only)<br>- Edit preferred care team list (VA.gov only)<br>- Delete folder (VA.gov only)<br>- Edit folder (VA.gov only)<br>- Delete thread (VA.gov only)<br>- Move thread (VA.gov only)| 
+
+**What users can do during transition**
+- Review past messages
+- Any action with messages not from MI transition site care teams
+
+**What users can't do during transition**
+- Send new messages to care teams at transitioning sites
+- Reply to messages from care teams at transitioning sites
+- Move message
+- Save draft
+- Create folder (VA.gov only)
+- Edit preferred care team list (VA.gov only)
+- Delete folder (VA.gov only
+- Edit folder (VA.gov only)
+- Delete thread (VA.gov only)
+- Move thread (VA.gov only)
 
 The following describes each task experience in greater detail.
 
-#### Transitioning site only users
+### Transitioning site only users
 |VA.gov or VAHB mobile app|Task|Description|
 |---|---|---|
 |VA.gov|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox page**<br>- User does not have "Start a new message" action link|
