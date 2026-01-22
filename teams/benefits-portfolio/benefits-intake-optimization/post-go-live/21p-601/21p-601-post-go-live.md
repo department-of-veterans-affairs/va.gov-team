@@ -27,5 +27,5 @@
 | Explain "Additional Remarks" | Vendor Team Suggestion | Proposed | [130174](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130174) |  |  |
 | Remove redundant yes/no question to debt flow | Vendor Team Suggestion | Proposed | [130272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130272) |  |  |
 
-Categories: SME requirement/request, Form-Related Update, Vendor Team Suggestion  
+Categories: SME requirement/request, Staging Finding, Form-Related Update, Vendor Team Suggestion  
 Statuses: Proposed, In Development, Staging/Testing, Complete
