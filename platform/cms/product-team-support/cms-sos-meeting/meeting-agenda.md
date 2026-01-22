@@ -10,6 +10,12 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
      - We are going to be moving to schedule deployment of Next Build
      - We are going to be moving QAing away from staging and, likely, onto dev 
 
+### Notes
+- Reschedule meeting to Monday (avoiding 11:30am - 1pm EST)
+- Kayla will be refining the structure and timing around QA
+- Dave Pickett: homepage - "we've gotten through functionality and accessibility. We will be starting design. We are almost throught the first one. All of the findings were unrelated to next-build but are true in content-build. Jackie will fix this. Nothing implicates next-build or the migration work."
+- CMS Will give notice to Sitewide when we switch from staging to dev
+- The status of templates is scattered - we can ask Fran to get a clearer view on the status of templates.
 
 1/08/2026
 * Next Build QA
