@@ -18,10 +18,11 @@ All Figma SOT files should include the following pages:
 - Name of file, which should be a concise description of what the file covers, i.e. "Web source of truth" or "Triage group flows" or "Filter UI" 
 
 ### Source of truth
-Componentized documentation of what is currently in prod on both web and mobile app. This should include:
+Componentized documentation of what is currently in prod on **both web and mobile app.** This should include:
 - All pages/screens within the app with sample content. There's of course no need to create designs for every version of a details page, for example, covering all the content that could possibly show up there. However, if different types of users conditionally get different versions of the page, those different versions should all be in a source of truth file with explanation for which user characteristic/data triggers which version.
 - User flows for the various interactions within the app. Some teams across VA.gov separate source of truth files into pages that each include a key user interaction or flow. On each of those pages, they include a user flow and the screens involved in that flow. Other teams have one page in their file that includes all user flows, and come up with a system to somehow connect user flows to specific design pages in the file (whether that is by link or naming convention, or some other method). Both of these methods are fine.
 - All tool-specific alerts. If these alerts are on a specific page only, then they should show on that page in the SOT (with some information about when the alerts display) but if the alerts are tool-wide, then the alerts as components alone can be displayed with some information about where they show and in what circumstances.
+- All of the above for **both VistA and OH patients**
 - May include (but does not have to): A local component library page. Some teams split this out into a different file that contains only a component library and nothing else. 
 
 #### Why keep a source of truth (copy of what is in prod) in a Figma file?
