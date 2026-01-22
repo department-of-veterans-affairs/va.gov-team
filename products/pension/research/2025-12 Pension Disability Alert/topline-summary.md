@@ -53,7 +53,7 @@
 
 1. **Move forward with the warning alert as our main message to Veterans with a 100% disability rating.** Our findings suggest that the warning alert's content is largely successful when we can retrieve the user’s disability alert, with the resource pages providing supplemental answers to questions that Veterans might have.
 
-2. **Insert "We always the higher payment" into the blue info alert.** In case Veterans are unsure whether they can receive both benefits at the same time, this sentence may provide additional clarity.
+2. **Insert "We always pay the higher amount" into the blue info alert.** In case Veterans are unsure whether they can receive both benefits at the same time, this sentence may provide additional clarity.
 
 3. **Consider utilizing a resource page to explain exception scenarios.** While these details may not fit in the alert itself, additional context may be helpful in either existing or new resource pages for Veterans that want to learn more, including the nuances surrounding the Medicaid nursing home rule.
 
