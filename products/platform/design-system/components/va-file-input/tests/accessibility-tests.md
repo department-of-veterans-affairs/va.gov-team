@@ -486,13 +486,11 @@ The file-upload field is marked as required.
 2. Safari + VO: 
 3. Safari + iOS + VO: 
 4. Chrome + iOS + VO: 
-5. Firefox + JAWS:
-6. Firefox + NVDA:
-7. Edge + JAWS:
-8. Edge + NVDA
-9. Chrome + JAWS:
-10. Chrome + NVDA:
-11. Chrome + Talkback + Android
+5. Edge + JAWS:
+6. Edge + NVDA
+7. Chrome + JAWS:
+8. Chrome + NVDA:
+9. Chrome + Talkback + Android
 
 **Additional testing needed**
 
@@ -549,7 +547,207 @@ A valid file is already uploaded.
 
 **11. 🟢 Chrome + Talkback (Android):** Announces "You have selected the file filename.jpg." then it announces the <title>. Focus remains around the perimeter of the file input component.
 
+---
+## 🔐 Encrypted File / Password Tests
 
+[Testing on this storybook URL](https://4915-2-file-input-pw-button--65a6e2ed2314f7b8f98609d8.chromatic.com/iframe.html?globals=&args=&id=uswds-va-file-input--accepts-file-password&viewMode=story)
+
+### Test ID: encrypted-label-announcement
+**Purpose:**  
+Verify the password field for encrypted files is labeled correctly and announced clearly by assistive technology.
+
+**WCAG:**  
+- 1.3.1 Info and Relationships  
+- 2.4.6 Headings and Labels  
+- 4.1.2 Name, Role, Value  
+
+**Setup:**  
+Upload an encrypted file that requires a password to continue.
+
+**Steps:**  
+1. When the user navigates to the password field using keyboard or screen reader navigation.
+
+**Expected Result:**  
+- Then the screen reader announces the label “Password for this file”.  
+- And the input is identified as a protected/password field.
+
+#### Acceptance criteria
+- 🟢 The password field has a clear, descriptive label and is announced as a password input.
+- 🟡 Announcement verbosity may vary by screen reader, as long as the purpose is clear.
+- 🔴 The field lacks a discernible label or is announced as a generic text input.
+
+#### Actual behavior:
+
+**Screen readers**
+
+**1. 🟢 Chrome + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (*Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
+**2. 🟢 Safari + VO:** After successful file upload, focus lands on the password input and VO announces, "Password for this file (*Required)"....This is a secure text field. Text typed into this field will not be displayed and will not be spoken by VoiceOver."
+**3. Safari + iOS + VO:** 
+**4. Chrome + iOS + VO:** 
+**5. Edge + JAWS:**
+**6. Edge + NVDA:**
+**7. Chrome + JAWS:**
+**8. Chrome + NVDA:**
+**9. Chrome + Talkback + Android**
+
+---
+
+### Test ID: encrypted-keyboard-accessibility
+**Purpose:**  
+Ensure the password field is fully operable using keyboard-only interaction.
+
+**WCAG:**  
+- 2.1.1 Keyboard  
+- 2.4.7 Focus Visible  
+
+**Setup:**  
+Upload an encrypted file that displays a password field.
+
+**Steps:**  
+1. When the user tabs to the password field.  
+2. And enters a password value using the keyboard.  
+3. And submits the password.
+
+**Expected Result:**  
+- Then the field receives visible focus.  
+- And typing and submission work without requiring a mouse.
+
+#### Acceptance criteria
+- 🟢 The password field and submit action are fully usable with keyboard only.
+- 🟡 Focus styling or announcement timing may vary, as long as focus is visible.
+- 🔴 Keyboard users cannot enter or submit a password.
+
+#### Actual behavior:
+
+**Screen readers**
+
+**1. Chrome + VO:** 
+**2. Safari + VO:** 
+**3. Safari + iOS + VO:** 
+**4. Chrome + iOS + VO:** 
+**5. Edge + JAWS:**
+**6. Edge + NVDA:**
+**7. Chrome + JAWS:**
+**8. Chrome + NVDA:**
+**9. Chrome + Talkback + Android**
+
+---
+
+### Test ID: encrypted-masked-input
+**Purpose:**  
+Verify password characters are masked and not spoken aloud.
+
+**WCAG:**  
+- 1.3.1 Info and Relationships  
+- 4.1.2 Name, Role, Value  
+
+**Setup:**  
+Upload an encrypted file and navigate to the password field.
+
+**Steps:**  
+1. When the user types characters into the password field.
+
+**Expected Result:**  
+- Characters are visually masked.  
+- Assistive technology does not announce typed characters.
+
+#### Acceptance criteria
+- 🟢 Characters are masked and not announced.
+- 🟡 AT may announce “contents hidden” or similar.
+- 🔴 Typed characters are exposed.
+
+#### Actual behavior:
+
+**Screen readers**
+
+**1. Chrome + VO:** 
+**2. Safari + VO:** 
+**3. Safari + iOS + VO:** 
+**4. Chrome + iOS + VO:** 
+**5. Edge + JAWS:**
+**6. Edge + NVDA:**
+**7. Chrome + JAWS:**
+**8. Chrome + NVDA:**
+**9. Chrome + Talkback + Android**
+
+---
+
+### Test ID: encrypted-show-hide-toggle
+**Purpose:**  
+Ensure show/hide password control is accessible.
+
+**WCAG:**  
+- 2.1.1 Keyboard  
+- 3.3.2 Labels or Instructions  
+- 4.1.2 Name, Role, Value  
+
+**Setup:**  
+Upload an encrypted file where a “Show password” toggle is available.
+
+**Steps:**  
+1. When the user activates the “Show password” button.
+
+**Expected Result:**  
+- Password visibility toggles.
+- State change is announced.
+
+#### Acceptance criteria
+- 🟢 Toggle is keyboard operable and announces state change.
+- 🟡 Announcement wording may vary.
+- 🔴 Toggle is not operable or state is unclear.
+
+#### Actual behavior:
+
+**Screen readers**
+
+**1. Chrome + VO:** 
+**2. Safari + VO:** 
+**3. Safari + iOS + VO:** 
+**4. Chrome + iOS + VO:** 
+**5. Edge + JAWS:**
+**6. Edge + NVDA:**
+**7. Chrome + JAWS:**
+**8. Chrome + NVDA:**
+**9. Chrome + Talkback + Android**
+
+---
+
+### Test ID: encrypted-successful-unlock
+**Purpose:**  
+Verify accessible behavior when encrypted file is unlocked.
+
+**WCAG:**  
+- 3.2.2 On Input  
+- 4.1.3 Status Messages  
+
+**Setup:**  
+Upload an encrypted file and enter the correct password.
+
+**Steps:**  
+1. When the user submits a valid password.
+
+**Expected Result:**  
+- Success message announced.
+- Focus reflects new state.
+
+#### Acceptance criteria
+- 🟢 Success is announced and state change is clear.
+- 🟡 Focus target may vary.
+- 🔴 No success feedback or focus is lost.
+
+#### Actual behavior:
+
+**Screen readers**
+
+**1. Chrome + VO:** 
+**2. Safari + VO:** 
+**3. Safari + iOS + VO:** 
+**4. Chrome + iOS + VO:** 
+**5. Edge + JAWS:**
+**6. Edge + NVDA:**
+**7. Chrome + JAWS:**
+**8. Chrome + NVDA:**
+**9. Chrome + Talkback + Android**
 
 ---
 
@@ -627,6 +825,7 @@ We established our "Good Enough" criteria
 ## 📄 Version History
 | Date | Author | Change |
 |------|--------|--------|
+| 2026-01-22 | Jeana | Started tests for updated password input for encrypted files |
 | 2026-01-13 | Jeana  | Completed talkback testing, and re-ran the tests here and identified no regressions |
 | 2025-12-25 | Jeana  | Added Android Talkback testing results + Chrome on Windows |
 | 2025-12-17 | Jeana  | Testing updated PR Changes |
