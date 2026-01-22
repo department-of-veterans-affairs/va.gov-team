@@ -28,11 +28,13 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
    1.1 All C100 DSD products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on [Product.VA.gov](http://product.va.gov/)  
    1.2 DSD has delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs\*  
    1.3 OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems \[submitted at CIO-level\]  
+
 2. **Objective 2: Operate products with high reliability and security**  
    2.1 All DSD C100 systems have an incident free time of 99.8 or better\*  
    2.2 All DSD C100 systems are monitoring the 4 “golden signals” of latency, error rate, volume, and saturation  
    2.3 All C100 systems have baselined cycle time from planning to production, and at least one C-100 system in each DSD portfolio has reduced its cycle time from planning to production by more than 50% without increasing change failure rate  
    2.4 By 31 March 2026, 100% of existing of Systems or Applications leveraging SiteMinder integration for SSOi are migrated to Entra ID or decommissioned  
+
 3. **Objective 3: Relentlessly improve the user experience**    
    3.1 Each OIT Portfolio will improve user experience data for impactful systems by 3% or greater\*  
    3.2 100% of end-user facing C-100 systems maintain a ranked list of user pain points\*  
@@ -92,6 +94,23 @@ OKT 1.1
 - The review page has been the subject of [numerous studies](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/Product/Review%20Page/Research) and proposed revisions, but remains incomplete and unsuccessful. The page currently suffers from multiple bugs and 508 defects that necessitate a complete re-architecting of the page and its flow. Additionally, the evolution of the VA Design System has prompted a desire to implement the "one thing per page" principle in the editing process.
 
 - A new "hub and spoke" model for the review page is proposed. In contrast to previous studies, this prototype will enable users to edit the contents of a single form page directly on the original form page, returning to the review page once edits are complete. Any conditional pages required based on these edits will be presented to the user before returning to the review page. This approach differs from previous studies, which required users to navigate through an entire chapter to edit a single page within a form flow.
+
+ 
+## Design System Accomplishments June 2025 to Feb 2026 ##
+### Component Work ### 
+FY25 O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+ 1.1 Improve satisfaction with our web and mobile products by 5 points.
+
+FY 26 O3: Relentlessly improve the user experience**    
+ 3.1 Each OIT Portfolio will improve user experience data for impactful systems by 3% or greater\*
+ 
+- [Segmented Button Epic](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4291) | Launch: July  2025  
+- [Experimental Design: Bring sidenav into the Design System](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/485#top)  |  Launch: July  2025  
+-[Experimental Design \[New tabs design\]](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346) |  Launch: Aug  2025  
+- [Epic: Monospace font](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4481) | Launch: Sept 2025  
+- [Experimental Design \[Search filter pattern\]](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3423) | Launch: Oct  2025  
+- [Experimental Design \[Colored tags\]](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2993) | Launch: Feb 2026  
+- [Experimental Design \- Card component error state](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4276) | Launch: Feb 2026
 
 
 ## Problem Statements
