@@ -58,10 +58,8 @@ _Determines if a medication is refillable based on gate checks
       Gate 6: Most recent dispense is not in-progress
       Gate 7: No pending refill request (refill_status != 'submitted')_
 
-Based on this logic, it doesn't look like 2 refills could display on the in-progress page at the same time. Until the prescription is not in-progress, it should not allow another refill. Also looks like any shipped flag doesn't have any say over isRefillable.
-
 ### Application to designs
-This indicates to us that meds don't show up on the refill list anytime there is a refill remaining; a requested refill has to go through a cycle before the next refill can be requested. It is possible that the second refill can be requested once the first one has shipped though. But definitely no third refill of the same med could be requested in the same window. 
+Based on this logic, it doesn't look like 2 refills could display on the in-progress page at the same time. Until the prescription is not in-progress, it should not allow another refill. Also looks like any shipped flag doesn't have any say over isRefillable. This also indicates that meds don't show up on the refill list anytime there is a refill remaining; a requested refill has to go through a cycle before the next refill can be requested. It is possible that the second refill can be requested once the first one has shipped though. But definitely no third refill of the same med could be requested in the same window. 
 
 ## What logic underpins the last filled first sort option?
 The sorting is defined in the BE in modules/my_health/app/helpers/my_health/prescription_helper.rb under the method def last_fill_date_sort(resource)
