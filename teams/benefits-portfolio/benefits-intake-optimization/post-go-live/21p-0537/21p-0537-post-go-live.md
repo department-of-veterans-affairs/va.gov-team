@@ -15,5 +15,5 @@
 | Find a form page content | Vendor Team Suggestion | Proposed | [130090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130090) |  |  |
 | Improve Intro with better timeline info | Vendor Team Suggestion | Proposed | [130112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130112) |  |  |
 
-Categories: SME requirement/request, Form-Related Update, Vendor Team Suggestion
+Categories: SME requirement/request, Form-Related Update, Vendor Team Suggestion  
 Statuses: Proposed, In Development, Staging/Testing, Complete
