@@ -145,6 +145,11 @@ This document outlines the phased rollout plan for enabling Oracle Health data i
 
 ---
 
+### 7 Known Risks
+
+- AVS is showing considerable latency for Oracle patients, we need to validate in the canary pahse and be ready to pivot if needed.
+- Is the Travel Pay back office ready for OH claims?
+
 ## 10. Appendix
 
 ### A. Glossary
