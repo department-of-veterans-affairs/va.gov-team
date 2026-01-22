@@ -7,23 +7,23 @@ This is a list of common things to look for when reviewing Figma designs for acc
 **This checklist was last updated by @bacitracin on August 18, 2025.** It references the Success Criteria (SC) from the [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&versions=2.2), which is the most recent WCAG version. This list was cross-checked with the [ADE Design Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md) Note: Link to ADE template is down at the moment.
 
 ## Topic Shortcuts
-- [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#adaptabilitymobile)
-- [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#animation)
-- [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
-- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#color--contrast)
-- [Dynamic Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#dynamic-content)
-- [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
-- [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#form-elements)
-- [Headings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#headings)
-- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#images)
-- [Language / Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive)
-- [Links & Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#links--buttons)
-- [Lists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
-- [Modals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#modals)
-- [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#navigation)
-- [Tables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tables)
-- [Tooltips](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tooltips)
-- [VA Design System (VADS) Components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#va-design-system-vads-components)
+- [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#adaptabilitymobile)
+- [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#animation)
+- [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#color--contrast)
+- [Dynamic Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#dynamic-content)
+- [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
+- [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#form-elements)
+- [Headings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#headings)
+- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#images)
+- [Language / Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#languagecognitive)
+- [Links & Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#links--buttons)
+- [Lists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#lists)
+- [Modals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#modals)
+- [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#navigation)
+- [Tables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#tables)
+- [Tooltips](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#tooltips)
+- [VA Design System (VADS) Components](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md#va-design-system-vads-components)
 
 
 ## Adaptability/Mobile
@@ -166,4 +166,6 @@ entered by or provided to the user that is required to be entered again in the s
 
 ## VA Design System (VADS) Components
 
-- [ ]  Does your design use the `AdditionalInfo` component? That component is undergoing some redesign right now, and has some accessibility issues. Reconsider using the component.
+- [ ]  Does your design use the `AdditionalInfo` component? Short version: That component is undergoing some redesign right now, and has some accessibility issues. Reconsider using the component. 
+
+    Longer version: Recommend not using the AdditionalInfo component if possible for a few reasons 1) Screen reader users can get trapped inside this component with no way out 2) Design System team is trying to fix this issue by updating this component to use a disclosure element, TBD what the experience will be like then 3) We’ve found in research that folks rarely open these 4) There’s a tracker on there that charges VA $ whenever they do expand the component

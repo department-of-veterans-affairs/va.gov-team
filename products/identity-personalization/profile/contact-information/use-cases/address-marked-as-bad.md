@@ -1,3 +1,46 @@
+# Mailing address is flagged as “bad” in VA Profile
+
+Last updated: January 2026  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32695&t=8bYeomyYEZZgmvu7-1)  
+* Product documentation  
+  * [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)  
+  * [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md)
+
+# Jump to
+
+[Experience](#experience)
+
+- [Profile hub page](#profile-hub-page)
+
+- [Contact information page](#contact-information-page)
+
+# Experience 
+
+* When mail is sent to a Veteran and then returned to the VA, the address is flagged as “bad” in VA Profile. When a user’s address has this flag, they will be prompted to review and update their **Mailing address** on the **Contact information** page in VA.gov Profile.  
+* **Mailing addresses** must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
+* The **Mailing address** inputs follow the same rules as all others, including when saving, removing, and system and validation errors.
+
+## Profile hub page 
+
+* **Description:** User is prompted to review their **Mailing address** from the **Profile hub**. Alert disappears once the Mailing address is updated and validated.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32713&t=8bYeomyYEZZgmvu7-1)
+
+## Contact information page 
+
+* **Description:** User is prompted to review their **Mailing address** from the **Contact information** page. Alert persists in edit mode, unless an error or validation message occurs. Once the information is updated and validated the message disappears.  
+* **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32725&t=8bYeomyYEZZgmvu7-1)
+
+
+
+---
+
+
+
+<details><summary>Archive | Contact information: Mailing address is flagged as “bad” in VA Profile, June 2025</summary>
+
 # Contact information: Mailing address is flagged as “bad” in VA Profile
 **Last updated: June 2025**
 
@@ -40,7 +83,23 @@ Review and update your address.
 
 If your address is already correct, select **Edit** to review it again. Then select **Save** to confirm.
 
----
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>Archive | Contact information: Mailing address is flagged as “bad” in VA profile, February 2024</summary>
 

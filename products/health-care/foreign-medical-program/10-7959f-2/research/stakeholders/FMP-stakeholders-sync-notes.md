@@ -1,9 +1,76 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## 12/03/2025
+
+**Attendees:** Andrew S., Andrea B., Dirk R., Jennifer R., Richard M., Eileen M., Leticia D., Premal S., Andrea M., Jessica S., Mike M., Hieu V., Cindy C.
+
+**Agenda:**
+- Status of FMP Benefits Authorization Letters (Premal's async work)
+- Status of Memo for Direct Deposit (another thing Premals been working on async)
+- Status of FMP claims on VA.gov
+- Foreign direct deposit update forms
+
+**Notes**
+
+**Status of benefits authorization letters** 
+- Premal notes there's work already done for benefits letters, but there's currently a lapse between contract teams working on this, but once ready, we'll be able to pull down and have FMP letters available on the benefits claims status tool.
+   - The API's there, but we need the VA.gov team that handles the front-end to add the letter.
+
+**Status of Direct Deposit Memo**
+- Premal already sent a sneak-peak to the FMP team
+- Reminder of our proposed phases and approach to the direct deposit work:
+   - Phase I: use FSC website to update direct deposit
+   - Phase II: actually use VA.gov, but we need internal policy changes to make sure that's possible and we can pull from VBA). Slow and steady progress there.
+
+**Status of getting FMP claims onto VA.gov**
+- Andrew asks: what are the dependencies there? Is it front-end getting banking information?
+- Premal/Mike respond: we need to clean up content for VA.gov and there's a code freeze. Aiming for early January launch
+- Premal to handle any questions about delivery 
+
+**FMP claims direct deposit from providers** 
+- Jennifer R. and Andrea B. was working with box.com getting the form in there, trying to figure out how each data field in the form is working correctly.
+- Testing to figure out getting provider DD to work out OK. Noticing that every form that comes into Box is titled the exact same way, trying to figure out a workaround (how to get forms from Box to Pega, and have Pega recognize the fields as they're mapped out).
+- Eventually this will be launched to an AWS data repository
+
+**Status/updates on FMP claims research study**
+- Jessica/Hieu give an overview and Mike explains the timeline to launch and why getting all content changes into production before the code freeze may be challenging
+- Andy asks about the sample size for the study, Jessica explains what insights we can get out of smaller sample sizes. 
+
+
+## **10/08/2025**
+
+Attendees: Andrea M., Andrea B., Cindy C., Eileen, David, Leticia, Dawn, Hieu, Jessica, Amanda, Steven, Richard, Mike M., Angela P., Renata, Arleen, Premal, Andrew, Marylin, Dirk, Alyssa
+
+**Notes**
+* Andrew asked what is a UX study. Renata explained that OCTO has a standardize process for user testing around content comprehension and prototype. Premal elaborated that our research findings from previously discussion comes from these type of studies. Premal explains that the UX Lead, Amanda Klausmeir believe that the new flow is different enough to warrant a study. 
+* Jessica presents the flow we’re planning to testing with the user. Andrew has no question as there is no major changes from the last discussion.
+* Renata presents the service blueprint, from FMP registration to the end of the claim. Renata explains that the service has been update and want a few questions answered.
+    * The claim sent to Treasury, is that process be deprecated for Veterans? Andrew notes that it will be for folks with domestic bank account and still receiving paper check. Andrew elaborated that we’re pushing for direct deposit but this demograhic will still exist until phase 2.
+    * FMP gets report back when things doesn’t work and then staff does outreach. Thats how Andrew understand it and Dirk Rasnic confirms. Dirk notes that staff can help the Veteran with application process and banking routing. David Rerouen notes that once the number has be updated, they will process it. 
+    * Renata wants to confirm the Mail question. Andrew confirms. Dirk clarify that the mail question can be Call Center or AskVA (depending how what was needed).
+
+
+* Andrew discussion of the timeline; about 2 months to get everything wrapped up (excluding the Government Shutdown). 
+* Premal notes that for the new flow, we’ll have to point them to FSC website.
+
+- - - -
+
+## **09/24/2025**
+Attendees: Premal, Andrew, Daphne (financial analyst), Heartents (supervisory financial analyst), Jordan (Financial Management Specialist)
+
+**Agenda**
+
+Add hoc call to understand how a Veteran can confirm FSC account information if they have a vendor file created (by getting travel pay or prior FMP payments)
+**Notes**
+- Veterans can call the FSC helpdesk 1-877-353-9791 opt. 2, to get help to setup an account so that they can see the last 4 digits of the account number they have on file.
+- Account information will not be given over the phone.
+- The helpdesk is setup to handle 100's of calls, so there is no volume limitations.
+- FMP/VA.gov can give the helpdesk notes the context of why they may call, confused between the Va.gov VA.profile and the FSC center.
+
 ## **09/24/2025**
 
-Attendees: Andrea, Mike Mooney, Jessica, Hieu, Renata, Premal, Amanda, Cindy C., Eileen, Leticia, Angela, Dirk, Jennifer, Andrew, Marvlin, Stephanie, Les, Michelle
+Attendees: Andrea M., Mike, Jessica, Hieu, Renata, Premal, Amanda, Cindy C., Eileen, Leticia, Angela, Dirk, Jennifer, Andrew, Marvlin, Stephanie, Les, Michelle
 
 **Agenda**
 

@@ -8,6 +8,16 @@ from collections import defaultdict
 def has_frontmatter(text):
     return bool(re.match(r"^---\s*\n.*?^---\s*\n", text, re.DOTALL | re.MULTILINE))
 
+def extract_frontmatter_and_content(text):
+    """Extract existing frontmatter and content separately."""
+    match = re.match(r"^---\s*\n(.*?)^---\s*\n(. *)$", text, re.DOTALL | re.MULTILINE)
+    if match:
+        frontmatter_yaml = match.group(1)
+        content = match.group(2)
+        frontmatter = yaml.safe_load(frontmatter_yaml) or {}
+        return frontmatter, content
+    return {}, text
+
 def extract_title(doc):
     # Heuristic: First H1 or first line that looks like a title
     for line in doc.split('\n'):
@@ -75,8 +85,19 @@ def nlp_tagging(doc, label_dict, nlp):
     tag_confidence = {tag: min(1.0, tag_scores[tag]/2) for tag in tags}
     return tags, tag_confidence
 
-def insert_frontmatter(text, frontmatter):
-    return f"---\n{yaml.dump(frontmatter, sort_keys=False)}---\n{text}"
+def is_placeholder(value):
+    """Check if a value is a placeholder that needs to be filled."""
+    if value is None:
+        return True
+    if isinstance(value, str):
+        placeholders = ['[', 'TODO', 'YYYY', 'Enter', 'enter', 'e.g.', 'URL']
+        return any(p in value for p in placeholders) or value.strip() == ""
+    if isinstance(value, list):
+        return len(value) == 0 or all(is_placeholder(v) for v in value)
+    return False
+
+def insert_frontmatter(content, frontmatter):
+    return f"---\n{yaml.dump(frontmatter, sort_keys=False, allow_unicode=True)}---\n{content}"
 
 def main():
     parser = argparse.ArgumentParser()
@@ -93,12 +114,9 @@ def main():
     with open(args.file_path, "r", encoding="utf-8") as f:
         doc = f.read()
 
-    if has_frontmatter(doc):
-        print("Frontmatter already exists. Skipping update.")
-        with open(args.report_path, "w") as report:
-            report.write("Frontmatter already exists in this research plan. No changes made.\n")
-        return
-
+    # Extract existing frontmatter and content (if any)
+    existing_frontmatter, content = extract_frontmatter_and_content(doc)
+    
     # Load template frontmatter (YAML block at start)
     with open(args.template_path, "r", encoding="utf-8") as f:
         template = f.read()
@@ -106,58 +124,73 @@ def main():
     template_yaml = template_match.group(1) if template_match else ""
     template_dict = yaml.safe_load(template_yaml) if template_yaml else {}
 
-    # Extract fields from doc
-    title, title_conf = extract_title(doc)
-    product, product_conf = extract_product(doc)
-    methodology, meth_conf = extract_methodology(doc)
+    # Start with template, then overlay existing frontmatter
+    frontmatter = template_dict.copy()
+    frontmatter.update(existing_frontmatter)
+
+    # Extract fields from content using NLP
+    title, title_conf = extract_title(content)
+    product, product_conf = extract_product(content)
+    methodology, meth_conf = extract_methodology(content)
     author, author_conf = extract_author()
     date_created, date_conf = extract_date()
 
     # Tagging
     label_dict = load_labels(args.labels_file)
-    tags, tag_confidence = nlp_tagging(doc, label_dict, nlp)
+    tags, tag_confidence = nlp_tagging(content, label_dict, nlp)
 
-    # Build frontmatter
-    frontmatter = template_dict.copy()
     report_lines = []
 
-    # Fill fields, add confidence report
-    frontmatter['title'] = title
-    report_lines.append(f"**title**: `{title}` (confidence: {title_conf:.2f})" + (" – review needed" if title_conf < 0.8 else ""))
+    # Only update fields that are placeholders or missing
+    if is_placeholder(frontmatter.get('title')):
+        frontmatter['title'] = title
+        report_lines.append(f"**title**:  `{title}` (confidence: {title_conf:.2f})" + (" – review needed" if title_conf < 0.8 else ""))
+    else:
+        report_lines.append(f"**title**: `{frontmatter['title']}` (kept existing value)")
 
-    frontmatter['date_created'] = date_created
-    report_lines.append(f"**date_created**: `{date_created}` (auto-filled)")
+    if is_placeholder(frontmatter.get('date')) or is_placeholder(frontmatter.get('date_created')):
+        frontmatter['date'] = date_created
+        report_lines.append(f"**date**:  `{date_created}` (auto-filled)")
+    else:
+        report_lines.append(f"**date**: `{frontmatter.get('date', frontmatter.get('date_created'))}` (kept existing value)")
 
-    frontmatter['author'] = author
-    report_lines.append(f"**author**: `{author}` (confidence: {author_conf:.2f}) – review needed")
+    if is_placeholder(frontmatter.get('author')):
+        frontmatter['author'] = author
+        report_lines.append(f"**author**: `{author}` (confidence: {author_conf:.2f}) – review needed")
 
-    frontmatter['product'] = product
-    report_lines.append(f"**product**: `{product}` (confidence: {product_conf:.2f})" + (" – review needed" if product_conf < 0.8 else ""))
+    if is_placeholder(frontmatter.get('product')):
+        frontmatter['product'] = product
+        report_lines.append(f"**product**: `{product}` (confidence: {product_conf:.2f})" + (" – review needed" if product_conf < 0.8 else ""))
+    else: 
+        report_lines.append(f"**product**: `{frontmatter['product']}` (kept existing value)")
 
-    frontmatter['methodology'] = methodology if methodology else ["[TODO: Add methodology]"]
-    report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:.2f})" + (" – review needed" if meth_conf < 0.8 else ""))
+    if is_placeholder(frontmatter.get('methodology')):
+        frontmatter['methodology'] = methodology if methodology else ["[TODO:  Add methodology]"]
+        report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:.2f})" + (" – review needed" if meth_conf < 0.8 else ""))
+    else: 
+        report_lines.append(f"**methodology**: (kept existing value)")
 
-    frontmatter['tags'] = tags if tags else ["[TODO: Add tags]"]
-    tag_report = []
-    for tag in tags:
-        tag_report.append(f"  - `{tag}` (confidence: {tag_confidence.get(tag, 0):.2f}" + (" – review needed" if tag_confidence.get(tag, 0) < 0.8 else "") + ")")
-    if not tags:
-        tag_report.append("  - [TODO: Add tags] – review needed")
-    report_lines.append("**tags**:\n" + "\n".join(tag_report))
+    if is_placeholder(frontmatter. get('tags')):
+        frontmatter['tags'] = tags if tags else ["[TODO: Add tags]"]
+        tag_report = []
+        for tag in tags: 
+            tag_report.append(f"  - `{tag}` (confidence: {tag_confidence.get(tag, 0):.2f}" + (" – review needed" if tag_confidence.get(tag, 0) < 0.8 else "") + ")")
+        if not tags:
+            tag_report.append("  - [TODO:  Add tags] – review needed")
+        report_lines.append("**tags**:\n" + "\n".join(tag_report))
+    else:
+        report_lines.append(f"**tags**: (kept existing value)")
 
-    # Copy through other template fields if present
-    for key in template_dict:
-        if key not in frontmatter:
-            frontmatter[key] = template_dict[key]
-
-    # Insert frontmatter
-    new_doc = insert_frontmatter(doc, frontmatter)
+    # Write updated file
+    new_doc = insert_frontmatter(content, frontmatter)
     with open(args.file_path, "w", encoding="utf-8") as f:
         f.write(new_doc)
 
     # Write report
     with open(args.report_path, "w", encoding="utf-8") as report:
         report.write("\n".join(report_lines) + "\n")
+    
+    print(f"Successfully processed {args.file_path}")
 
 if __name__ == "__main__":
     main()

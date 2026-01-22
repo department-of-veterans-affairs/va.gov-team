@@ -4,19 +4,34 @@ about: Reporting bugs as they relate to the ARC team
 title: ''
 labels: ar-crew, bug
 assignees: ''
-
+type: Bug
 ---
 
-## Expected vs. Actual
-**Expected**: _What did you expect to happen?_
+## Background/Context
+<!-- Provide any relevant background/context -->
 
-**Actual**: _What actually happened?_
+<!-- Impact and Severity definitions: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/priority-for-open-bugs.md-->
+
+**Impact**:
+
+
+
+**Severity**:
+
+## Expected vs. Actual
+**Expected**: <!-- What did you expect to happen? -->
+
+
+**Actual**: <!-- What actually happened? -->
+
 
 ## Steps to Reproduce
-_Outline the steps to recreate this bug_
+<!-- Outline the steps to recreate this bug -->
+
 
 ## Examples
-_Include screenshots or screen recordings of the bug you're reporting_
+<!-- Include screenshots or screen recordings of the bug you're reporting -->
+
 
 ---
 #### How to configure this issue
@@ -24,4 +39,4 @@ _Include screenshots or screen recordings of the bug you're reporting_
 2. Associate with the proper product
 3. Associate with the correct AR team
 4. [Optional] Attach a parent ticket (what body of work is this a part of?)
-5. [Optioanl] Add an estimate
+5. [Optional] Add an estimate

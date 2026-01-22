@@ -6,6 +6,7 @@ This folder contains documentation related to fields, options and labels.
 
 |Document|Description|
 |:--|:--|
+|[Business vs. Personal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Business%20vs.%20Personal.md)|Describes when questions are categorized as 'Business' or 'Personal'
 |[Category, topic and subtopic labels](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Category%2C%20topic%20and%20subtopic%20labels.md)|Lists names of the categories, topic and subtopic labels.|
 |[Contact options by business line](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields,%20options%20and%20labels/Contact%20options%20by%20business%20line.md)|Describes when to enable contact options by category and topic.|
 |[Content guidance for Ask VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Content%20guidance%20for%20Ask%20VA.md)|Describes content guidance for Ask VA.|

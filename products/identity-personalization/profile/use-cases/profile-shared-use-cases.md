@@ -1,4 +1,156 @@
 # Profile shared use cases
+
+Last updated: November 2025  
+
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+- [Editing interactions](#editing-interactions)
+
+[Edge cases](#edge-cases)
+
+- [Flags](#flags)
+
+- [Errors](#errors)
+
+
+# Overview 
+
+Included in this document are links to all shared VA.gov profile use cases. These use cases should be reused throughout the profile in order to standardize the experience.
+
+
+# Use cases 
+
+## Editing interactions 
+
+### Adding information 
+
+**Description**  
+For each section without information on file, i.e. a **null** value, the user will see the name of the section and prompt to **‘Choose edit to add a \[section information\]’**. Only the **Edit** button shows as an action.
+
+Links to designs
+
+* [Personal information](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=929-10407&t=IxDeELaasWg4dcVS-1)  
+* [Contact information](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=F4OLpadUve3wNj4c-1)  
+* Financial information / Direct deposit information  
+* Health care settings / Scheduling preferences  
+* Health care settings / Messages signature
+
+
+### Inline editing and validation 
+
+**Description**  
+For sections that require a single question to be answered, selecting the Edit button starts inline editing. If there are input errors they show inline with the input field. Currently, most editable fields within profile fall within this category.
+
+Links to designs
+
+* [Personal information](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=929-10407&t=IxDeELaasWg4dcVS-1)  
+* [Contact information](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=F4OLpadUve3wNj4c-1)  
+* Financial information / Direct deposit  
+* Health care settings / Scheduling preferences  
+* Health care settings / Messages signature
+
+
+### Edit-as-a-subtask flow 
+
+**Description**  
+Users start the edit-as-a-subtask flow for sections that require either;
+
+* Multi-part responses, or  
+* The ability to update information away from the source page. Such as updating contact information on the Email and text notifications page.
+
+	  
+Subtask flows should consist of single-question pages that return the user back to their original page once completed. These flows help users stay focused on their current task. And help improve accessibility for multi-part questions. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
+
+Links to designs
+
+* Health care settings / Scheduling preferences  
+* Email and text notifications
+
+
+### Save in progress 
+
+* **Description:** The loading button shows while the user's information is in the process of being saved. Non editable information such as the header, subheader, or body copy show. Editable information and buttons are hidden until the loading button goes away.  
+* **Format:** [Loading indicator in button](https://design.va.gov/components/loading-indicator)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-1606&t=DOmnBypDUNqJjlrd-1)
+
+
+### Saving information: Success 
+
+* **Description:** When the user's information is successfully saved, they’re returned to the view state and a slim success alert displays below the section header or subheader. Standard messaging is: **Update saved**  
+* **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1119-2220&t=DOmnBypDUNqJjlrd-1)
+
+
+### Saving information: Error 
+
+* **Description:** When the user selects the Save button, and the information fails to save, the user is returned to the edit state and a slim error alert displays below the section header or subheader. Standard messaging is: **We’re sorry. We can’t update your information right now. We’re working to fix this problem. Try again later.**  
+* **Format:** [Slim error alert](https://design.va.gov/components/alert/#examples---slim-alert)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1119-2221&t=DOmnBypDUNqJjlrd-1)
+
+
+### Removing information 
+
+* **Description:** Most profile information can be removed, except where noted. When the user attempts to remove information, a warning modal appears to verify the action. See designs for standard messaging.  
+* Preferred name, mailing address, and bank account information cannot be removed from profile once added.  
+* **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1543-2404&t=DOmnBypDUNqJjlrd-1)
+
+
+### Cancelling edit changes 
+
+* **Description:** If a user has made changes to any form field, and the field is correctly and completely filled out, they'll see a modal warning message asking to confirm if they want to cancel their changes. See designs for standard messaging.  
+* **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1543-2499&t=oksL9gwq5dAnEPVw-1)
+
+
+### Edit new information while editing 
+
+* **Description:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one. See designs for standard messaging.  
+* **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1119-2223&t=DOmnBypDUNqJjlrd-1)
+
+
+# Edge cases 
+
+## Flags 
+
+### LOA1 users 
+
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+### Blocked users
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+
+## Errors 
+
+### Full page, backend system down 
+
+* **Description:** Cannot connect to the back end. Impacts the entire page. Alert appears below the H1. No other information appears on the page. See designs for standard messaging.  
+* **Status codes:** 500, 501, 502, 503, 504  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1556-8252&t=C4fKcUFWpn2pUvgo-1)
+
+### Section only, backend system down 
+
+* **Description:** Cannot connect to the back end. Impacts a section on a page that has multiple APIs. Alert appears within the section impacted below the header or subheader content. See designs for standard messaging.  
+* **Status codes:** 500, 501, 502, 503, 504  
+* **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1119-2228&t=C4fKcUFWpn2pUvgo-1)
+
+
+---
+
+
+<details><summary>Archive | Profile shared use cases, July 2025</summary>
+
+# Profile shared use cases
 **Last updated: July 2025**
 
 ## Overview
@@ -158,5 +310,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 - **Content:**
 
 We're sorry. Something went wrong on our end and we can't load your [h3 section header]. Try again later.
+
+</details>
 
 </details>

@@ -89,9 +89,9 @@ Note: Because we do not copy over emails right now from VA.gov profile to MHV af
 Display the following UX to all actively enrolled VHA patients. Stop displaying this UX after users have either confirmed, added, or updated their contact email address.
 
 **Web**
-- `Horizon team` Critical Action alert on MHV Landing page, /my-health/
-- `Horizon team` Critical Action alert on My VA page, /my-va/
-- `Horizon team` Dismissible Alert_ on VA.gov Profile page, /profile/contact-information#contact-email-address
+- `Horizon team` Warning alert on MHV Landing page, /my-health/
+- `Horizon team` Warning alert on My VA page, /my-va/
+- `Horizon team` Warning Alert on VA.gov Profile page, /profile/contact-information#contact-email-address
 - `Horizon team` and `Identity team` Interstitial after signing-in
    - Will discuss tech implementation details in 9/2 sync 
 
@@ -102,7 +102,7 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 
 **After UX interventions**
 <br>Stop displaying alerts altogether after VA leadership agrees we've reached an appropriate amount of users. At which point we will: 
-- For people with no contact email in VA Profile still: Copy email in either MHV or SM databases into contact email
+- For people with no contact email in VA Profile still: Copy email from MHV database into contact email
 - For people with a mismatch still: Use VA Profile contact email for VA Notify
 
 **Other relevant interventions**

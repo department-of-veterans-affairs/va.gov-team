@@ -2,7 +2,7 @@
 
 This folder contains reusable prompts designed to guide research activities and analyses, leveraging GitHub Copilot to streamline workflows. Below is a brief explanation of each file:
 
-### 1. [conversation-guide-analysis-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/conversation-guide-analysis-prompt.md)
+### 1. [conversation-guide-analysis-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-review/conversation-guide-analysis-prompt.md)
 - **Purpose**: Helps evaluate whether a conversation guide aligns with research plan goals and hypotheses.
 - **Key Features**:
   - Assesses strengths, gaps, and opportunities within the guide.
@@ -10,7 +10,7 @@ This folder contains reusable prompts designed to guide research activities and 
   - Addresses accessibility, emotional/cognitive load, and mental models.
 - **Usage**: Paste the provided reusable prompt into GitHub Copilot Chat and refine analysis with iterative questions.
 
-### 2. [past-research-analysis-for-new-research-plan-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/past-research-analysis-for-new-research-plan-prompt.md)
+### 2. [past-research-analysis-for-new-research-plan-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-review/research-plan-analysis-prompt.md)
 - **Purpose**: Leverages past research findings to inform new research plans.
 - **Key Features**:
   - Links to relevant studies and extracts insights.
@@ -18,7 +18,7 @@ This folder contains reusable prompts designed to guide research activities and 
   - Ensures alignment with organizational goals.
 - **Usage**: Use the prompt to analyze past research and apply findings to draft new research plans.
 
-### 3. [past-research-discovery-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/past-research-discovery-prompt.md)
+### 3. [past-research-discovery-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-discovery/past-research-discovery-prompt.md)
 - **Purpose**: Facilitates exploration of research findings and insights within the repository.
 - **Key Features**:
   - Guides users in identifying key outcomes and challenges from past studies.
@@ -26,7 +26,7 @@ This folder contains reusable prompts designed to guide research activities and 
   - Provides hyperlinks to relevant materials.
 - **Usage**: Customize the prompt with specific topics or products to navigate the repository effectively.
 
-### 4. [research-plan-analysis-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-plan-analysis-prompt.md)
+### 4. [research-plan-analysis-prompt.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/copilot-research-prompts/research-review/research-plan-analysis-prompt.md)
 - **Purpose**: Analyzes completed research plans for strengths, risks, and alignment with goals.
 - **Key Features**:
   - Breaks down each section of the research plan for detailed analysis.

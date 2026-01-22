@@ -1,7 +1,7 @@
 > [!IMPORTANT]  
 > The ADE team created this template to conduct design reviews. Teams should feel free to copy this template and use it as needed for their own testing.
 
-# ADE Figma Prototype Accessibility Review - [Team]: [Product]
+# ADE Design Review - [Team]: [Product]
 
 ## **General information**
 

@@ -4,7 +4,7 @@ _The following documentation lists out the user, functional, technical, and data
 - [Side Nav Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
 - [Side Nav Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
 - Authors: Irene Vailikit, Julius Ahenkora 
-- Last Edited: 2025-9-11 
+- Last Edited: 2025-9-29 
 
 ## Jump To
 - [Initiative Summary](#initiative-summary)
@@ -31,11 +31,11 @@ Future iterations of this implementing the side navigation component will includ
 ## User Requirements 
 - As a user, I want to move to any section of the form at any time, so that I don’t waste clicks or have to backtrack unnecessarily.
 - As a user, I want to review or edit previous answers easily without losing my place or progress, so that I can correct mistakes without frustration.
-- As a user, I want to be able to preview form pages of different sections to be able to understand the form’s structure before engaging with the content, so that I can understand what is expected approach filling it out with confidence.
+- ~As a user, I want to be able to preview form pages of different sections to be able to understand the form’s structure before engaging with the content, so that I can understand what is expected approach filling it out with confidence.~ (Edit 9/29/25 - for V1, because of the conditional logic and data architecture of the form, we will not be able to allow users to skip ahead or view sections prior to filling out a previous section.)
 - As a user, I want to trust the form’s built-in navigation controls (such as the back button) rather than relying on the browser’s back button, so that I know my progress and data will be preserved.
 
 ## Functional Requirements 
-- System supports navigation to the landing page of one of the 6 major sections/steps of the form at any time without unnecessary clicks or backtracking.
+- ~System supports navigation to the landing page of one of the 6 major sections/steps of the form at any time without unnecessary clicks or backtracking.~ (Edit 9/29/25 - for V1, the navigation component will allow users to revisit sections that they have already completed but not to skip ahead to other sections.)
 - System allows users to review and edit previous answers without losing their place or progress.
 - The system must preserve user progress and data when navigation controls (such as a built-in back button) are used.
 - The system's navigation must be accessible, all users (e.g., sighted, blind, visually impaired) to efficiently move between pages and understand form structure.
@@ -77,6 +77,19 @@ _(Collaboration between Design + Eng Needed)_
 - Determine which page within a section will each Side Nav option route. Is there a clear landing page of each of the 6 sections?
 - Research rendering of sidenav in mobile version. Consider collapsible navigation for smaller screens and its effect on usability.
 - What content shows up on the "Review and Submit" page if the user is able to navigate to it via the side nav before finishing the form? Are accordions present, but empty? How does it impact the "edit" on page fuctionality on the "Review and Submit" page?
+- What is the relationship between the Navigation component and Progress Bar component? What do each uniquely offer?
+- For future versions, what would be required to allow a user to skip ahead to future sections without fill out out all sections before it?
+
+## UAT Scenarios [WIP]
+**Navigating to previously filled out sections and checking if info has been saved.**
+- User fills out a few pages of "Mental Health" (Step 3). Clicks navigation to "Veteran Details" (Step 2). Clicks navigation back to "Mental Health". Was information on Mental Health section saved?
+
+**Clicking "Finish this application later" and understanding how this might impact saving.**
+
+**Logging out and logging back in**
+
+**Review and Submit page: User clicks "Edit" button to edit info on that page. Does the info get edited on the actual original page? What if they use navigation compoenent to navigate back to a section?**
+
 
 ---
 ## Engineering Resources

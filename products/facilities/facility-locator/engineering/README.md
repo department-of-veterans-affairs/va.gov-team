@@ -8,6 +8,9 @@ TOC:
     * [Incident response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/README.md#incident-response)
 
 ## **High level:**
+[Facilities and Facility Locator pages dependencies and testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/engineering/facilities_landscape.md)
+> document covers the landscape, System Dependencies, Component Dependencies, Unit Testing, and Integration Testing
+
 The Facility Locator is a React application built in vets-website: [applications/facility-locator](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/facility-locator)
 
 The Facility Locator retrieves data from a few upstream data-sources using the `facilities-api` in vets-api: 

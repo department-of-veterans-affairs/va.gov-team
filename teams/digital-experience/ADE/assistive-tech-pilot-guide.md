@@ -1,6 +1,6 @@
 # Assistive Technology Pilot Guide
 - Jamie Klenetsky Fay, Accessibility Digital Experience (ADE) Team
-- Last updated February 20, 2025
+- Last updated December 10, 2025
 
 VA’s goal is for our products to be accessible to all who use them, including those with disabilities. Testing products with users of assistive technology (AT) helps us achieve this goal. But many VFS teams haven’t used AT themselves, or haven’t done research with AT users before. 
 
@@ -13,7 +13,7 @@ The ADE Accessibility team can help by running a pilot session with you before y
 - Get valuable feedback about your prototype and conversation guide, which you can then adjust before your study begins 
 
 ## First steps
-- Review this guide, as part of your [Assistive Technology Research Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ade-accessibility-research.yaml) ticket
+- Review this guide, as part of your [ADE Intake Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
 - After beginning to collaborate with ADE, let us know that you want to do a pilot
   - If you do, we'll create a child ticket to keep track of that work and provide feedback
 

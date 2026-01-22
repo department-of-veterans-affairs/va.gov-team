@@ -1,3 +1,81 @@
+# Health care contacts use cases
+
+Last updated: December 2025  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1756911325760/5b757400a51d0bbe97304ec3f13d4091456f7c94?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/ugzaAeQe3xKq2YBobZep02/Profile---Health-care-settings?node-id=2-19060&t=U2WtA1N8CblfyOhO-1)
+
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+- [User has VA health care and health care contacts on file](#user-has-va-health-care-and-health-care-contacts-on-file)
+
+- [User has VA health care and no health care contacts on file](#user-has-va-health-care-and-no-health-care-contacts-on-file)
+
+- [User does not have VA health care](#user-does-not-have-va-health-care)
+
+[Edge cases](#edge-cases)
+
+[Flags](#flags)
+
+- [Profile shared flags](#profile-shared-flags)
+
+[Errors](#errors)
+
+- [Profile shared errors](#profile-shared-errors)
+
+
+# Overview 
+
+The Health care contacts page allows users with health care to view their emergency contact and next of kin information. Information shown is not editable at this time. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+# Use cases 
+
+## User has VA health care and health care contacts on file 
+
+* **Description:** User can see up to 2 Emergency contacts and 2 Next of kin contacts. With a number to call to update or edit.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/ugzaAeQe3xKq2YBobZep02/Profile---Health-care-settings?node-id=2-19062&t=U2WtA1N8CblfyOhO-1)
+
+## User has VA health care and no health care contacts on file 
+
+* **Description:** User receives a message informing them they have no Emergency contacts or Next of kin on file and how to add them.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/ugzaAeQe3xKq2YBobZep02/Profile---Health-care-settings?node-id=2-50622&t=U2WtA1N8CblfyOhO-1)
+
+## User does not have VA health care 
+
+* **Description:** User receives a message informing them they do not have VA health care and how to fix it if it's an error.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/ugzaAeQe3xKq2YBobZep02/Profile---Health-care-settings?node-id=10-2840&t=U2WtA1N8CblfyOhO-1)
+
+# Edge cases 
+
+## Flags 
+
+### Profile shared flags 
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Profile shared errors 
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)
+
+
+-------
+
+
+<details><summary>Archive | Personal health contact use cases, September 2025</summary>
+
 # Personal health contact use cases
 
 **Last updated: September 2025**
@@ -61,7 +139,9 @@ This feature has no validation use cases.
 ### Errors
 [Profile shared use cases: Errors: System errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
--------
+</details>
+
+
 
 <details><summary>Archive | Personal health care contacts use cases, February 2024</summary>
   

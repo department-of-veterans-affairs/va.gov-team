@@ -59,6 +59,7 @@ body:
       - label: Logging and monitoring in place
       - label: Code or content reviewed (Internal)
       - label: Reviewed and approved by product and/or design
+      - label: Reviewed and approved by VA stakeholders (VBA / Design Leads, etc.)
 
 - type: checkboxes
   attributes:

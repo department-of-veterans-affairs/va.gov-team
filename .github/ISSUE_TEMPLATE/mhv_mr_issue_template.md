@@ -17,6 +17,9 @@ As a Veteran, I want [ ], so that [ ].
 ## Scope
 - _What are we doing within the scope of this ticket?_
 - _Is there anything specifically out of scope of this ticket?_
+-  Does this require a feature flag?
+-  [ ] Yes
+-  [ ] No
 
 ## Resources
 - Design links
@@ -26,6 +29,7 @@ As a Veteran, I want [ ], so that [ ].
 ---
 ## Acceptance Criteria/Definition of Done
 -  _What will be created or happen as a result of this story?_
+- [ ] Is featue flag enabled (if applicable)
 - [ ] Required steps in Collaboration will be completed
 - [ ] Decisions will be documented
 - [ ] Related product, design, and technical documentation will be updated

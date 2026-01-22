@@ -1,6 +1,6 @@
 # 10-10CG Endpoint Monitoring Playbook
 
-_last updated: 03-17-2025_
+_last updated: 11-21-2025_
 
 ## Overview
 
@@ -9,6 +9,14 @@ _last updated: 03-17-2025_
 ## Audience
 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
+
+## ‼️Process for Engineers to obtain Veteran contact information (as of 11/21/2025)
+- New process, now that rails access is revoked, for situations where we would normally look at the database.
+   - We are first to reach out to our VA engineer lead closest to our project  
+      - If they are unavailable or don't have rails access, we can reach out to #vfs-platform-support for rails console access. 
+   - **Please note** that we need to have at least two people on a Teams call peering for running production rails console/terminal commands.
+      - We confirmed that one of our engineers could act as one of the two people
+   - **Reminder** to never record any screen sharing that includes pii and pii can only be sent in teams, never in slack or agency email.
 
 # Monitor: 10-10CG anomaly monitor
 
@@ -24,8 +32,6 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
-  - [SOCKS access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) required
 
 ### Steps
 
@@ -33,7 +39,7 @@ _last updated: 03-17-2025_
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
   - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - If any errors/failures are found within the form, the team will
   - Communicate the issue to the Product Owner
   - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders
@@ -54,7 +60,6 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -69,7 +74,8 @@ _last updated: 03-17-2025_
 - At least one application submission has been retried 10 times, and has failed. The submission will retry 6 more times before failing completely
 - A statsD metric should have been incremented for `vets_api.statsd.api_form1010cg_async_failed_ten_retries` with a tag containing the `claim_id`. That `claim_id` can be used to find the `claim` record in the database.
 - If the submission ultimately fails, we would expect the "Triggered: 1010CG submission job has failed with no retries left" monitor to trigger within 2 days of this monitor being triggered. 
-- To validate a submission has succeeded after this monitor is triggered, the `claim_id` can be used to check if there is a `claim` record in the database. If it is no longer present the submission has since succeeded, and if it has yet to succeed the record will still exist. 
+- To validate a submission has succeeded after this monitor is triggered, the `claim_id` can be used to check if there is a `claim` record in the database. If it is no longer present the submission has since succeeded, and if it has yet to succeed the record will still exist.
+  - Note: `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
 
 ### Required access
 
@@ -87,9 +93,9 @@ _last updated: 03-17-2025_
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Follow the [Ultimate failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) process outlining that the 10-10 Health Apps team will:
   - Investigate the failure to determine root cause
-    - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+    - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
   - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
-  - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
   - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
     - PM will open maintenance window in PagerDuty if needed
   - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -107,7 +113,6 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -117,9 +122,9 @@ _last updated: 03-17-2025_
   - Retrieve the PDF application file from the Production environment
     - Send the PDF application file via an encrypted email to vha12cspcarmaehr@va.gov, including the timestamp of the submission from VA.gov.
   - Investigate the failure to determine root cause
-    - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+    - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
   - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
-  - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
   - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
     - PM will open maintenance window in PagerDuty if needed
   - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -141,7 +146,6 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -151,9 +155,9 @@ _last updated: 03-17-2025_
   - Retrieve the PDF application file from the Production environment
     - Send the PDF application file via an encrypted email to vha12cspcarmaehr@va.gov, including the timestamp of the submission from VA.gov.
   - Investigate the failure to determine root cause
-    - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+    - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
   - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
-  - If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
   - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
     - PM will open maintenance window in PagerDuty if needed
   - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -182,9 +186,9 @@ _last updated: 03-17-2025_
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
 - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
   - PM will open maintenance window in PagerDuty if needed
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -202,7 +206,6 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -225,16 +228,15 @@ _last updated: 03-17-2025_
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
   - #vecms-carma_vadotgov_development_external channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
 - Communicate on the #vecms-carma_vadotgov_development_external Slack channel to inform the CG Stakeholders and continue to update progress
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+- If the failures are found to originate outside the form or the root cause is not readily apparentwithin 15 minutes, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
   - PM will open maintenance window in PagerDuty if needed
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -252,14 +254,15 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - There should be a corresponding rails log named `Error notification to user failed to deliver` and with metadata containing the notification_id and form id (`{ notification_record_id: notification_record.id, form_number: metadata['form_number'] }`). The form id is `10-10CG`.
 - Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to.
-- A statsD metric should have been incremented for `vets_api.statsd.api_form1010cg_async_failed_no_retries_left` with a tag containing the `claim_id`. That `claim_id` can be used to find the `claim` record in the database, which contains the form data. The email addresses should match. SavedClaim.find(`claim_id`).parsed_form can be used to:
+- A statsD metric should have been incremented for `vets_api.statsd.api_form1010cg_async_failed_no_retries_left` with a tag containing the `claim_id`. That `claim_id` can be used to find the `claim` record in the database, which contains the form data. The email addresses should match.
+  - Note: `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information 
+- SavedClaim.find(`claim_id`).parsed_form can be used to:
   - Obtain Veteran contact information (Name, Phone number)
   - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
-  - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
+  - Copy PO and PMs (VA emails only)

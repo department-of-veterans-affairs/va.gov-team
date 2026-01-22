@@ -1,20 +1,25 @@
 # Financial Status Report (FSR) - Use Cases
 
-_Track and maintain the various use cases that exist for a given product and is best maintained alongside the product outline._
+**Last updated:** 11/25/2025
 
-_The purpose of this document is for designers, PMs, and engineers to align early on on potential use cases and edge cases so these things aren't coming up randomly and late in the process. We recommend the team schedule a 30 minute meeting to brainstorm all use cases/edge cases early on.  Examples of cases that could be captured here include: "Veteran logs in but is not LOA3ed.", "Veteran searches and gets no results." etc etc_
+This document describes detailed use cases for the Financial Status Report (FSR) experience within the Combined VA Debt Portal.
 
-Link to product outline: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md
+These FSR use cases are a subset of the broader combined va debt portal use cases. For overall context and other debt-related flows, see:
+- [Combined VA Debt Portal - Use Case Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
+- [Debt/Copay - Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/debt-copay_use_cases.md)
+<br/>
 
-## Contents
+**Useful Links:**
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
+
+## Quick View
 <details>
-<summary></summary>
-  
-- [Use Case A](#use-case-a---has-benefits-on-record) 
-- [Use Case B](#use-case-b---no-benefits-on-record)
-- [Use Case C](#use-case-c---one-debt-on-record)
-- [Use Case D](#use-case-D---two-debts-on-record) 
+<summary>List of use cases in this document</summary>
 
+- [Use Case A - Has benefits on-record](#use-case-a---has-benefits-on-record) 
+- [Use Case B - No benefits on-record](#use-case-b---no-benefits-on-record)
+- [Use Case C - One debt on-record](#use-case-c---one-debt-on-record)
+- [Use Case D - 2+ debts on-record](#use-case-D---two-debts-on-record) 
 </details>
 
 ## Use Case A - Has benefits on-record

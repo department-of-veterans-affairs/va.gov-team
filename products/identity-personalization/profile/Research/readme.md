@@ -1,17 +1,19 @@
 # Research Overview: VA.gov Profile
 
-Last Updated: April 2025
+Last Updated: November 2025, added two new recent studies.
 
-### Communications
+## Communications
 
 - GitHub Label: authenticated-experience
 - Slack channel: #accountexp-authexp
 
-### Overview
+## Overview
 This document contains links to all research conducted related to Prior prior to April 2025. As well as overviews of upcoming and new research.
 
-### Current Research
-1. [03/2025 Profile Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md): Overview of all research completed about VA.gov Profile prior to 03/2025.
+## Current Research
+1. [09/2025 Email verification desk research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/2025-09-email-verification-desk-research): Review of existing research at VA about email verification best practices.
+2. [05/2025 Profile hub: Tree test](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test): Evaluation of new taxonomy of profile.
+3. [03/2025 Profile Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md): Overview of all research completed about VA.gov Profile prior to 03/2025.
 
 ### Research Prior to 03/2025
 **START HERE [03/2025 Profile Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/2025-03-profile-secondary-research/research-findings.md): Encompasses all findings prior to 03/2025**

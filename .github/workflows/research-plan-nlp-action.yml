@@ -12,17 +12,37 @@ on:
       base_branch:
         description: 'Base branch for PR (must NOT be master)'
         required: true
-        default: 'research-plan-frontmatter-action-test'
+        default: 'master'
 
 jobs:
   update_research_plans:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
 
-    if: github.ref != 'refs/heads/master'
+    if: github.event.inputs.base_branch != 'master'
 
     steps:
-      - name: Checkout code
+      - name: Checkout code with sparse checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          sparse-checkout: |
+            .github/workflows/
+            .github/scripts/
+            platform/research/
+            products/**/*.md
+            teams/**/*.md
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name:  Exclude binary files from working directory
+        run:  |
+          # Remove any binary files that may have been checked out
+          find . -type f \( -name "*.pdf" -o -name "*.doc" -o -name "*.docx" -o -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" -o -name "*.gif" -o -name "*.zip" -o -name "*.pptx" -o -name "*.xlsx" \) -delete 2>/dev/null || true
+          echo "Binary files excluded from working directory"
+          
+          # Reset any deletions caused by sparse checkout to avoid committing them
+          git checkout HEAD -- .  2>/dev/null || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,37 +59,185 @@ jobs:
         run: |
           curl -o labels.yml https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-research-repository/master/.github/labels.yml
 
-      - name: Run NLP Frontmatter Script
-        id: nlp_script
+      - name:  Step 1 - Add incomplete YAML frontmatter template to research plans
         env:
+          FILE_PATHS: ${{ github.event.inputs. file_paths }}
+          TEMPLATE_PATH: "platform/research/research-plan-template.md"
+        run: |
+          #!/bin/bash
+          set -e
+          
+          # Extract YAML frontmatter from template
+          echo "Extracting YAML frontmatter from template..."
+          TEMPLATE_FRONTMATTER=$(awk '/^---$/{if(f){print;exit}else{f=1}} f' "$TEMPLATE_PATH")
+          
+          if [ -z "$TEMPLATE_FRONTMATTER" ]; then
+            echo "Error: Could not extract frontmatter from template"
+            exit 1
+          fi
+          
+          echo "Template frontmatter extracted successfully"
+          
+          # Process each file path
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)  # Trim whitespace
+            
+            if [ !  -f "$file" ]; then
+              echo "Warning: File not found - $file"
+              continue
+            fi
+            
+            echo "Processing: $file"
+            
+            # Check if file already has frontmatter
+            if head -1 "$file" | grep -q "^---$"; then
+              echo "  - File already has frontmatter, will be updated by NLP script"
+            else
+              echo "  - Adding incomplete YAML frontmatter template..."
+              # Create temp file with frontmatter prepended
+              {
+                echo "$TEMPLATE_FRONTMATTER"
+                echo ""
+                cat "$file"
+              } > "${file}.tmp"
+              mv "${file}.tmp" "$file"
+              echo "  - Frontmatter template added successfully"
+            fi
+          done
+          
+          echo "Step 1 complete:  All research plans now have YAML frontmatter (incomplete)"
+
+      - name:  Step 2 - Complete YAML frontmatter using NLP
+        id: nlp_script
+        env: 
           FILE_PATHS: ${{ github.event.inputs.file_paths }}
           LABELS_FILE: labels.yml
         run: |
-          python .github/scripts/update_research_plan_frontmatter.py \
-            --file-paths "$FILE_PATHS" \
-            --labels-file "$LABELS_FILE" \
-            --template-path ".github/research-templates/research-plan-template.md" \
-            --report-path "frontmatter_report.md"
+          echo "Running NLP script to auto-populate frontmatter fields..."
+          
+          # Initialize empty report file
+          echo "# Frontmatter Processing Report" > frontmatter_report.md
+          echo "" >> frontmatter_report.md
+          
+          # Process each file individually
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)  # Trim whitespace
+            
+            if [ ! -f "$file" ]; then
+              echo "Warning: File not found - $file"
+              continue
+            fi
+            
+            echo "Processing with NLP: $file"
+            
+            # Run NLP script for each file
+            python .github/scripts/update_research_plan_frontmatter.py \
+              --file-path "$file" \
+              --labels-file "$LABELS_FILE" \
+              --template-path "platform/research/research-plan-template.md" \
+              --report-path "frontmatter_report_temp.md"
+            
+            # Append individual report to main report
+            if [ -f "frontmatter_report_temp.md" ]; then
+              echo "" >> frontmatter_report.md
+              echo "## $file" >> frontmatter_report.md
+              cat frontmatter_report_temp.md >> frontmatter_report.md
+              rm frontmatter_report_temp.md
+            fi
+            
+            echo "  - NLP processing complete for $file"
+          done
+          
+          echo "Step 2 complete:  YAML frontmatter populated using NLP"
 
-      - name: Commit changes
+      - name: Verify frontmatter updates
+        env:
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+        run: |
+          echo "Verifying frontmatter in processed files..."
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)
+            if [ -f "$file" ]; then
+              echo "=== $file ==="
+              # Display first 30 lines to show frontmatter
+              head -30 "$file"
+              echo ""
+              echo "---"
+            fi
+          done
+
+      - name: Commit and push changes
+        id: commit
+        env:
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b research-plan-frontmatter-update-${{ github.run_id }}
-          git add ${{ github.event.inputs.file_paths }}
-          git commit -m "Add and auto-populate frontmatter to research plans"
-          git push origin research-plan-frontmatter-update-${{ github.run_id }}
+          
+          BRANCH_NAME="research-plan-frontmatter-update-${{ github.run_id }}"
+          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
+          
+          git checkout -b "$BRANCH_NAME"
+          
+          # Add each file individually with proper quoting for paths with spaces
+          IFS=',' read -ra FILES <<< "$FILE_PATHS"
+          for file in "${FILES[@]}"; do
+            file=$(echo "$file" | xargs)  # Trim whitespace
+            if [ -f "$file" ]; then
+              git add "$file"
+              echo "Added: $file"
+            else
+              echo "Warning: File not found - $file"
+            fi
+          done
+          
+          # Only commit and push if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Add and auto-populate frontmatter to research plans"
+            git push origin "$BRANCH_NAME"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          branch: research-plan-frontmatter-update-${{ github.run_id }}
-          base: ${{ github.event.inputs.base_branch }}
-          title: "Add frontmatter to research plans using NLP"
-          body: |
-            This PR was created automatically to add and populate YAML frontmatter in research plans using NLP.
-            Please see the confidence report below for fields and tags requiring review.
+        if:  steps.commit.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.WORKFLOWS_PERMISSIONS }}
+          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+          BASE_BRANCH: ${{ github.event.inputs.base_branch }}
+          BRANCH_NAME: ${{ steps.commit.outputs.branch_name }}
+        run: |
+          # Check if base branch exists, if not use the default branch
+          if !  git ls-remote --heads origin "$BASE_BRANCH" | grep -q "$BASE_BRANCH"; then
+            echo "Warning: Base branch '$BASE_BRANCH' not found.  Using default branch."
+            DEFAULT_BRANCH=$(gh repo view --json defaultBranchRef -q '.defaultBranchRef.name')
+            BASE_BRANCH="$DEFAULT_BRANCH"
+          fi
+          
+          # Create PR body
+          PR_BODY="This PR was created automatically to add and populate YAML frontmatter in research plans using NLP. 
 
-            ---
-            $(cat frontmatter_report.md)
-          reviewers: sstrassberg
+          ## What this PR does:
+          1. ✅ Added YAML frontmatter template to research plans that were missing it
+          2. ✅ Auto-populated frontmatter fields using NLP analysis of document content
+
+          ## Files processed:
+          $FILE_PATHS
+
+          ## Review required:
+          Please review the changes to ensure the auto-populated frontmatter is accurate. 
+
+          /cc @sstrassberg"
+          
+          # Create the pull request
+          gh pr create \
+            --base "$BASE_BRANCH" \
+            --head "$BRANCH_NAME" \
+            --title "Add frontmatter to research plans using NLP" \
+            --body "$PR_BODY" \
+            --reviewer "sstrassberg"

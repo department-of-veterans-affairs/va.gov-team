@@ -1,3 +1,82 @@
+# Address validation scenarios
+
+Last updated: January 2026  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32858&t=8bYeomyYEZZgmvu7-1)  
+* [Product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+# Overview 
+
+If a user changes their address from the VA.gov Profile and that address isn’t recognized by the U.S. Postal Service (USPS), they’ll be provided with a suggestion or an option to closer match their address to USPS. This is to reduce the number of incorrect addresses. For each scenario, the user is presented with a [warning alert component](https://design.va.gov/components/alert#warning-alert) that appears within the address field, under the section header.
+
+The use cases are driven by the [VA Profile address validation API](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-profile#VAProfile-AddressValidation). Noting, the team has found that if any of these use cases are missing it can cause the API to return errors. Especially in cases of rural addresses. Keep that in consideration if adopting this pattern.
+
+# Use cases 
+
+## SHOW\_SUGGESTIONS\_OVERRIDE | User can select from address entered or suggested address 
+
+* **Description:** One or more confirmed suggestions exist, and none of the unit number issues apply, OR there are multiple suggestions regardless of confirmation status. User is presented with **Address you entered** and **Suggested address** as radio button options to select to move forward with. Or go back to edit.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32873&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L43)
+
+## BAD\_UNIT\_OVERRIDE | Unit number can’t be confirmed with USPS, and a suggestion is not found 
+
+* **Description:** User sees address entered, and it contains a bad unit number (e.g., an apartment number that USPS disagrees with). User is presented with **Address you entered** and can confirm that the information is correct. Or go back to edit.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32870&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L22)
+
+## MISSING\_UNIT\_OVERRIDE | Address is missing a unit number 
+
+* **Description:** Address is missing a unit number per USPS. User is presented with **Address you entered** and can confirm that the information is correct. Or go back to edit.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32868&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L33)
+
+## SHOW\_SUGGESTIONS\_NO\_CONFIRMED\_OVERRIDE | Address entered is viable, and no suggestions from USPS 
+
+* **Description:** The address entered is viable with USPS, there are no confirmed suggestions, and the address does not have a bad or missing unit. The user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32866&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L50)
+
+## NO\_SUGGESTIONS\_NO\_OVERRIDE | Address can't be confirmed with USPS and is not viable 
+
+* **Description:** User enters a completely invalid address that cannot be confirmed with USPS. User can only return to edit the address.  
+* **Status code:** 400  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32864&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L60)
+
+## SHOW\_SUGGESTIONS\_NO\_OVERRIDE | Entered address is invalid, but USPS found a suggested address 
+
+* **Description:** User enters an invalid address, but USPS found a suggestion. User can only proceed with the suggestion. Or go back to edit.  
+* **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32862&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L69)
+
+## SYSTEM\_ERROR | API call fails 
+
+* **Description:** Triggers when the address validation API call itself fails (e.g., network error, 500 response, or the service can't process the address at all). User is presented with a system error and an option to go back and edit.  
+* **Status codes:** 500, 502, 503, 504  
+* **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)  
+* [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32860&t=8bYeomyYEZZgmvu7-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L79)
+
+
+
+---
+
+
+
+<details><summary>Archive | Contact information: Address validation scenarios, June 2026</summary>
 # Contact information: Address validation scenarios
 **Last updated: June 2025**
 
@@ -127,7 +206,19 @@ We can't update your address information right now. Refresh this page or try aga
 
 </details>
 
----
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <details><summary>Archive | Contact information: address not recognized as entered, February 2024</summary>
 

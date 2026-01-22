@@ -8,9 +8,10 @@ We want to regularly check in on qualitative data. This will help us uncover pai
 ## Planned Timeline
 About every quarter we plan to request new survey and support data from the Veteran Support (aka Contact Center team)
 
-| Date of data pull | Data requested | Date of request | Request ticket | notes
+| Dates included | Data requested | Date of request | Request ticket | notes
 | --- | ---| --- | --- | --- |
-| Jan - Mar 2025 | Medallia, surveys| Apr 4 | [106822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106822#event-17154031458) [106820](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106820#event-17153850941) | --- |
+| Sept 2025 | Medallia, surveys | Oct 2 | [121023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121023) |  |
+| Jan - Mar 2025 | Medallia, surveys| Apr 4 | [106822](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106822#event-17154031458) [106820](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106820#event-17153850941) |  |
 | Oct - Nov 2024 | Medallia, surveys | Dec 6 | [98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616) |
 | Oct - Nov 2024 |  MyVA411, support | Dec 6 | [98615](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98615) |
 | Jan - Apr 2024 | Medallia, surveys | May 7 | [82577](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82577) | Part of [2024-04 FE Sign in Flows](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-04%20FE%20Sign%20in%20Flows) |

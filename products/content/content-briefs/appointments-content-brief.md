@@ -21,6 +21,8 @@ This brief will help your team create content for your product that aligns with 
 | **appointment** | Use "appointment" consistently (don't interchange with "visit" or other words) | VA content standards (not yet in style guide) | 7.20.22  |
 | **check-in or check in** | This is the step that the person takes when they arrive. Use "check-in" (with hyphen) as a noun or adjective and "check in" (no hyphen) as a verb. Example: Complete the check-in process. vs. You can check in with your smartphone. | VA content standards (not yet in style guide) and AP style | 7.20.22  |
 | **clinic** | Clinics at VA have two meanings. One is the physical location where an appointment may be held. The other refers to the scheduling grid VA uses. A single provider can have many "clinics" - even if all of them take place in the same physical location. A provider may have a different clinic grid for each day of the week, for the format of care (phone, in person, telehealth), or even for returning vs. new patients, which may impact the length of the appointment. As part of the self-scheduling process, Veterans may see multiple "clinics" listed, and need to know which is THEIR clinic, so they can self-schedule. This is a known pain point in VistA scheduling, which will be alleviated somewhat once sites move to Cerner. | VAOS product standard | 7.20.22 |
+| **clinic location** | The physical location of the clinic at the facility; for example, the building, floor, and room number. |  |  |
+| **Location name** | The name of the location where they’re receiving care. |  |  |
 | **health care** | Always 2 words, no hyphen | VA content style guide standard | 7.20.22 |
 | **health care provider** or **provider** | A Veteran's provider may be a doctor, nurse practitioner, physician's assistant, or other type of provider. Use "health care provider" on first mention and "provider" or "your provider" on subsequent mentions on a page/in a flow. Don't use "doctor" unless you're 100% sure that the person will specifically be a doctor. | VA content style guide standard | 7.20.22 |
 | **health care facility** | Use this phrasing consistently for health care facilities (don't interchange with "VA location" or other words). You can shorten to "the facility" or "your facility" after first mention, unless there's a risk of confusion between VA and non-VA (i.e. community care) facilities. | 7.20.22 |
@@ -30,6 +32,16 @@ This brief will help your team create content for your product that aligns with 
 | **sign in/sign out** | Use "sign in" and "sign out" consistently. Don't use "log in" at all. | VA.gov content style guide |  7.20.22 |
 | **smartphone** | Veterans must have a smartphone (a mobile phone with internet access) to check in for appointments with their phone. Always use "smartphone" for this use case, not "mobile phone." | Check in content standard |  7.20.22 |
 | **type of care** | Type of care refers to the specialty, i.e. primary care, mental health. | VAOS content standard  | 7.20.22 |
+| **Main Phone** |The top level phone number for the location where they’re receiving care.  |  |  |
+| **Modality** | How a patient will attend an appointment, whether in-person, or through telehealth. |  |  |
+| **Treatment Speciality** | The community care provider’s specialty. |  |  |
+| **VVC Instructions** | Instructions displayed on video appointments. See section 1.4. |  |  |
+| **Video appointment** | Takes place on the patient’s personal device in a location of their choosing.  |  |  |
+| **Video appointment at an ATLAS location** | Takes place on a VA device at an ATLAS location. |  |  |
+| **Phone appointment** | Takes place over the phone.  |  |  |
+| **Weekday Month Day Year** |The day of the week, The name of the month, The day number of the month, The year. For example, “Wednesday, Abbreviation: use [DD] to indicate “Wed”, "July, Abbreviation: use [MM] to indicate “Jul”  |  |  |
+
+
 
 
 **Note:** Terms may evolve with usability testing.

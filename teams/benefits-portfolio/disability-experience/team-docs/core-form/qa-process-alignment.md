@@ -25,7 +25,7 @@
   - Instructions for pulling down and running the code locally  
 
 ### 2. Process Enhancements  
-- Add a **staging review swim lane** in the kanban board so QA steps are visible and tracked.  
+- Add a **staging review column** in the kanban board so QA steps are visible and tracked.  
 - Require proof of local submission (e.g., screenshot of a successful run) in PR comments. This ensures at least one validation before merging.  
 - Define lightweight testing criteria per ticket/PR to set expectations, while keeping the process lean enough to avoid unnecessary slowdowns.  
 - Explore the feasibility of **review instances** that allow anyone to test changes without a heavy local setup.  
@@ -42,16 +42,23 @@
 
 ## Phased Rollout Plan  
 
-**Phase 1 (Immediate: next 1–2 weeks)**  
-- Standardize PR descriptions (include repro steps, screenshots, Flipper details, and instructions to run locally).  
-- Require reviewers to document *how* they tested in PR comments.  
+**Phase 0 (Right now)**  
 - Begin pairing more intentionally, particularly on PR reviews.
-- Add a **staging review swim lane** in the kanban board.
-- Add automated reviewers (i.e. Copilot) across all PRs for early feedback.
+- Address engineering questions during a weekly internal engineering team sync
+- Dedicate ~5 minutes in engineering syncs for QA discussions and feedback.
+- Add automated reviewers (i.e. Copilot) across all PRs for early feedback
+  - For vets-api, this happens automatically.
+  - For vets-website, we need to manually add Copilot as a reviewer to kick off the review.
+- Require reviewers to document *how* they tested in PR comments.
+- Require proof of manual (not using Save-in-progress editor) local submission (e.g., screenshot) from author in PR description and reviewer in PR comments.
+
+**Phase 1 (Immediate: next 1–2 weeks)**  
+- Add a **review in staging column** in the kanban board.
+- Align on PR description components
+- Update ticket template with new PR components (include repro steps, screenshots, Flipper details, and instructions to run locally).  
 - Share our new processes with the broader team
 
 **Phase 2 (Short-term: 3–6 weeks)**  
-- Require proof of local submission (e.g., screenshot) in PR comments.  
 - Trial use of child tickets/sub-issues for larger or more complex features.  
 - Dedicate ~5 minutes in engineering syncs for QA discussions and feedback.
 - Align with other teams on how we want to review cross-team PRs  

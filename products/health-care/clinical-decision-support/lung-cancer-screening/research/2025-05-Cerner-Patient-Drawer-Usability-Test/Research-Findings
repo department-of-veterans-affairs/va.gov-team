@@ -1,0 +1,127 @@
+---
+title: "2025-05-Cerner v2 Usabiliy Testing Research Findings"
+product: "LCSPv2"
+team: "LCS"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2025-12-31"
+researchers:
+  - "Ayangbe Mannen"
+research_goals:
+  - "Assess the degree to which LCSPv2 meets users tracking needs, is efficient and intuitive."
+methodology:
+  - "Usability Testing"
+devices_used:
+    desktop: 8
+participants_total: 8
+Primary role:
+  Lung Cancer Screening Coordinator: 8
+
+EHR:
+ Cerner: X 
+
+key_findings:
+- "Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information"
+- "A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+- "Most users preferred needing to close a patient drawer before navigating to the next."
+
+recommendations:
+  - "Enhance UX interaction and UI heirarchy within the drawer structure."
+  - "Include coordinator priority information in the Patient drawer."
+
+
+# [Study] Research Findings 
+
+**Office of the CTO - Digital Experience (OCTO-DE), LCSPv2, LCS**
+**Date:** 12/31/2025
+**Contacts:** Ben Peterson
+**[Research Readout(confluence)](https://confluence.devops.va.gov/display/VA/Usability+Test+%3A+Patient+Drawer+v2+with+Cerner+Coordinators)**  
+
+**Jump to:**
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
+- [Next Steps](#user-content-next-steps)
+- [Further research needed](#user-content-further-research-needed)
+- [Appendix](#user-content-appendix)
+- [Research participants](#user-content-research-participants)
+
+## Research Goals
+*Assess the degree to which the new Patient Drawer meets users needs, is efficient and intuitive.*  
+
+## Research Questions
+* `How well does the new patient drawer design experience fit with user needs?
+
+
+
+## Methodology 
+- Method 1: Usability Testing of staging data on Cerner LCSPv2 
+
+## Key Findings
+
+1. "Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information."
+2. "A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+3. "Most users preferred needing to close a patient drawer before navigating to the next."
+  
+
+## Details of Findings 
+
+### Finding 1
+"Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information."
+  - _Supporting data: "I don't see that they have a future order in the drawer and to see that I have to go out of the drawer to see if they have a future order." _
+
+### Finding 2
+"A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer." 
+  - _Supporting data:"They kind of seem to meld together a little bit to me like there's no good way to differentiate between them like." _
+
+### Finding 3
+"Most users preferred needing to close a patient drawer before navigating to the next."  
+- _Supporting data:"you have to close one to go to the next. I wouldn't want two drawers open ... because you could document on the wrong patient." _
+
+## Recommendations
+
+1. **Recommendation: Enhance UX interaction and UI heirarchy within the drawer structure."**   
+   - _Supporting evidence:A number of users felt like the sections in the drawer merged into one another making it challenging for them to situate themselves in the flow of the drawer._
+
+2. **Recommendation:Include coordinator priority information in the Patient drawer.**   
+   - _Supporting evidence: Information to include Patient drawer; Latest completed exam date and Latest Lung-RADs, Upcoming order status and future appointment information._
+  
+## Product User and Business Outcomes
+
+This research will help determine feature development in line with observing patients in a grouped way, allowing prioritization for patient care with an interoperable tool that works with legacy (Cerner/VistA Lung Cancer Screening Platform version 1) sites and Oracle Health sites
+
+### Desired User Outcome 
+This research supports our desired user outcome by documenting the expectations and feature ideas of the LCS coordinators. 
+ 
+### Desired Business Outcome
+This research supports our desired business outcome by creating an understanding of core features to support the LCS workflow across the VHA EHRs.
+
+
+## Next Steps
+Refine Patient Drawer 
+
+## Appendix
+
+### Research documents
+- [Product Outline](https://dvagov.sharepoint.com/:u:/r/sites/CDSProgramTeam/SitePages/LCSPv2/LCSPv2-Learn-More.aspx?csf=1&web=1&e=cmrEFc)
+- [Research plan](research-plan.md)
+- [Conversation guide](conversation-guide.md)
+
+### Tools used for Synthesis
+
+*[Mural for affinity mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1712167298060/95432abc60ba8f7d49dc09faa22c244e30b2a64e?wid=0-1748396760954)
+#### Demographics 
+
+We talked to **8 participants.**
+
+Primary role:
+ * Lung Cancer Screening Coordinator: 8
+
+Specialty:
+  * Lung Cancer Screening: 8
+
+EHR:
+ * Cerner: 8
+
+Devices used during study: 
+* Desktop: 8 

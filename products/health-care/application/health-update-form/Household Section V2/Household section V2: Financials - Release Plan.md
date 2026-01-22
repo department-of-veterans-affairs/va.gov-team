@@ -8,8 +8,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| Need flipper names| TBD |
-|ezr_spouse_confirmation_flow_enabled|Enables the spouse (V2) confirmation flow in the 10-10EZR form|
+|ezr_form_prefill_with_providers_and_dependents | Display previously entered financial data as reference for Veterans |
 
 
 ## Step 2: Validation
@@ -21,7 +20,7 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 
@@ -35,44 +34,38 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Rollout Planning
 
-- Desired date range: **9/TBD/2025 - 9/TBD/2025**
+- Desired date range: **01/12/2026 - 01/20/2026**
 - How will you make the product available in production while limiting the number of users who can find/access it: We will use the feature toggle to limit the exposure to a percentage of users
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
      - Links to the dashboard(s) showing "success criteria" metrics:
           - [Google Analytics Exploration - Household pages](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bTaqmQkVTT6TeEqtARJBbg)
-     - Who is monitoring the dashboard(s)?: Heather Justice - PM, Derrick Ellerbie - Engineer
+     - Who is monitoring the dashboard(s)?: Heather - PM, Mitch - Engineer
 
 #### Objective: Reduce time spent and bounce rates on Household section pages
 - Results #1: Reduction of time spent by 10%
 - Results #2: Reduction of bounce rates by 10%
 
-|Veteran income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Veteran income page views| 6,533 | N/A | N/A|
-|Veteran income page Avg time per session| 1m 58s | 1m 46s | TBD|
-|Veteran income page Bounce rate| 1.32% | 1.19% | TBD|
+### Stage A: Canary 10% of users
+#### Planning
+- Length of time: **01/12/2026 - 01/13/2026**
+- Percentage of Users (and roughly how many users do you expect this to be): **10% (approximately 22 users per day)**
 
-|Spouse income | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Spouse income page views| 3,431 | N/A | N/A|
-|Spouse income page Avg time per session| 47s | TBD | TBD|
-|Spouse income page Bounce rate| 1.16% | 1.04% | TBD|
+#### Results
 
-|Deductibles | Baseline Monthly Avg (Jan-Aug 2025) | Target | 1-Month post launch|
-|---| --- | --- | ---|
-|Deductibles views| 4,604 | N/A | N/A|
-|Deductibles page Avg time per session| 1m 01s | 57s | TBD|
-|Deductibles page Bounce rate| 1.63% | 1.47% | TBD|
-
-### Stage A: Canary
-- We will begin testing at 25% of users (see below)
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"):
+  - Successful link access and actions (printing/saving)
+  - Error rates (should not be above zero)
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ### Stage B: 25% of users
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 25% (approximately 54 users per day)
+- Length of time: **01/14/2026 - 01/15/2026**
+- Percentage of Users (and roughly how many users do you expect this to be): **25% (approximately 54 users per day)**
 
 #### Results
 
@@ -88,8 +81,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 50% (approximately 108 users per day)
+- Length of time: **01/16/2026 - 01/20/2026**
+- Percentage of Users (and roughly how many users do you expect this to be): **50% (approximately 108 users per day)**
 
 #### Results
 
@@ -108,8 +101,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: 
-- Percentage of Users (and roughly how many users do you expect this to be): 100% (approximately 218 users per day)
+- Length of time: **01/20/2026**
+- Percentage of Users (and roughly how many users do you expect this to be): **100% (approximately 218 users per day)**
 
 #### Results
 

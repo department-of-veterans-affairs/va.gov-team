@@ -1,99 +1,62 @@
 
-# Product Outline Template
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/initiative-brief-template.md)*
+# Product Outline 
 
----
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Veteran Readiness and Employment (VR&E) services are vital for Veterans with service-connected disabilities who are seeking employment and independent living. The RES-powered VR&E portal integrated within VA.gov directly addresses key usability and accessibility issues, transforming VA.gov into a personalized gateway for Veterans to determine eligibility, apply for benefits, and track their progress throughout the program lifecycle. This will provide a self-service case management hub that will allow Veterans to manage the full lifecycle of their VR&E journey. The Veteran will have capabilities from eligibility determination to comprehensive case management, including a Case Progress tracker, orientation tools, scheduling, VBMS upload functionality, and a career planning page. 
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+As a Veteran, I want to manage the full lifecycle of my VR&E journey. As a Backend Developer I want to ensure each page operates is error-free and renders correctly, and pulls data users expect to see. As a Frontend Developer I want to see the pages to chose from so users can access the information they need and perform actions as needed. As a UX Designer I want to confirm that users are able to navigate the self-management portal with little-to-no errors so that they can access the information they need and perform actions as needed. By creating a new page the Reapers team can ensure users have easy access to information and comply with CAIA guidelines.
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- *Why would a user want to use this?* The self-management portal will allow the Veteran to manage the full lifecycle of their VR&E journey. The Veteran will have access to orientation tools, scheduling, VBMS uploads, and a career planning module.
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?* The Veteran will be able to view real-time updates and status information on their VR&E cases. Tools and resources will also be available to help Veterans understand and navigate the VR&E program, including guides, tutorials, and informational content.
 
 ## Undesired User Outcomes
-
+Veterans are unaware of the status of their application/case. Users are unaware of next steps. Unexpected errors or outages.
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- *Why would your business want this to exist?* Allows direct communication with the Veteran and provides information to the Veteran with the next steps. This will ultimately create a seamless experience for the Veteran when the Counselor has the information that they need to process a case.
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?* The self-management portal will allow the Veteran to monitor and manager their VR&E journey. The Veteran will be able to take the appropiate steps to make sure they have provided all necessary information/documentation for their case to be processed.
 
 ## Undesired Business Outcomes
-
+Reapers team does not meet contract timeline. All work must be completed and in production by March 12, 2026.
 
 ---
 ## Measuring Success
-
+Transform and build on the existing eligibility page on VA.gov into a more interactive and personalized experience for Veterans. Integrate secure RES data Application Programming Interfaces (APIs) to enable real-time interactions with VA.gov. Enhance user experience (UX) components, including case progress tracker, orientation tools and resources, scheduling assistance, career planning module, and other usability improvements to facilitate smoother navigation and better interaction. Develop and implement a user-friendly portal User Interface (UI) that integrates seamlessly with the existing VA.gov infrastructure. Utilize the Single Sign On (SSO) capabilities to streamline the login process and enhance security for users accessing the VR&E portal.
 
 ### Key Performance Indicators (KPIs)
 * *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 * _What are the most important metrics that track with this product/initiative's success?_
-* _Include links to Domo or Google Analytics Dashboards/Reports_
-* _**Limit 5-6 KPIs per product**__
-
-| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
-|----------|-------------|--------------------|--------------------|--------|
-| KPI      |             |                    |                    |        |
-| KPI      |             |                    |                    |        |
 
 #### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
-_What are the measurable targets you're aiming for that delivers value for Veterans?_
+Users navigate to the self-management portal and track and interact with their VR&E case journey.
 
-- Objective:
-  - Key result: 
-  - Key result: 
-
-
----
-
-## Assumptions
-- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
 
 ## Solution Approach
 
-- *What are you going to build now, and why have you decided to start there?*
-- *Why this solution / approach over other solutions / approaches?*
+- *What are you going to build now, and why have you decided to start there?* Build a case progress tracker. Allow the user to view/schedule their orientation through the self-management portal. Give the Veteran the ability to assess their skills/hobbies to assist with a career plan/benefits.
+- *Why this solution / approach over other solutions / approaches?* This approach is best because it gives the Veteran the ability to monitor their case status and proceed with next steps without major delays.
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-- *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.*
+- *Does your solution include the VA Health and Benefits mobile application? Explain why or why not.* 
 
-### Supporting research
-
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
-
-### Initiatives
-*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
-
-- Initiative | [Link to Initiative Brief](#)
-
---- 
 
 ## Launch Strategy
-- *How are Veterans and others using this product going to know it exists?*
-- *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- *How are Veterans and others using this product going to know it exists?* Banners throughout the pages Work with VA communications teams
+- *What marketing, outreach, or communications are necessary for this product to be successful?* Will create an updated user guide
 
 ## Launch Dates
 - *Target Launch Date*
-  - tbd
+  - March 12, 2026
 - *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - March 12, 2026
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?* April 2026
 
 ---
 
@@ -117,11 +80,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
 
-- Team Name: 
+- Team Name: Reapers
 - GitHub Label: 
 - Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Product POCs: Sunna Bennett, Robert Allender, Donna Robinson
+- Stakeholders: Sunna Bennett, Robert Allender, Donna Robinson
 
 </details>
 
@@ -130,9 +93,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Stan Gardner
+ - Engineering: Taras Kurilo, Mahfuzul Haque, Seth Solomon, Alvaro Escobar
+ - Research/Design: Valentina Wickham
  
 </details>
 
@@ -141,6 +104,6 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
-_What offices/departments are critical to make this initiative successful?_
+_What offices/departments are critical to make this initiative successful?_VRE OIT OCTO
  
 </details>

@@ -105,19 +105,21 @@ The terminal will connect and you see a shell-like prompt that you can type comm
   1. Appointment Menu - type `APP` 
   1. Make Appointment (this may take two tries due to how the VistA is configured) - type `Make Appointment` and then you may need to type this again
 1. Select Clinic,
-   - Patient Check In -  has two clinics to chooes from `RCLINIC1` and `RCLINIC2`
    - Travel Pay:
      1. Enter `chy test`
      2. Several options will appear
      3. Select from one of the options provided
      4. After selecting a clinic youll see a list of patients to choose from . If you dont want to add an appointment to these enter `^` and youll be able to type in a patient name.
+   - Patient Check In -  has two clinics to choose from `RCLINIC1` and `RCLINIC2`
 2. Select patient by entering  `last name`, `first name`. This will a search of MPI for that patient. You don't have to type the full name, but if multiple patients are found they a list of selectable patients are displayed - if you want to add an appointment for Nolle youd type `Barakat, Nolle`
 1. Answer `YES` to `IS THIS APPOINTMENT FOR A SERVICE CONNECTED CONDITION`
 2. ENTER button when you see `APPOINTMENT TYPE: SERVICE CONNECTED//`
 1. For PCI: Enter `YES` for `IS THIS A 'NEXT AVAILABLE' APPOINTMENT REQUEST?`; For Travel Pay from Past Appointments, select `NO`
 1. Select a date, you can use the exact date format or any of the VistA Shorthands.
     1. For future you can use `T@1045` syntax. That will create an appointment for `today at 10:45AM`
-    2. For past, use the `MMDDYYYY@Time` format; `07152025@0830` will make an appointment for July 15, 2025 at 8:30 am.
+    2. For past
+        - Use `T-1@1045` syntax, sub tract the number of days you want to go back
+        - Use the `MMDDYYYY@Time` format; `07152025@0830` will make an appointment for July 15, 2025 at 8:30 am.
     3. Times are in the VAMC's local timezone
 1. Keep the defaults for the rest of the questions (keep hitting enter)
 1. When you get to select a clinic, you have created an appointment

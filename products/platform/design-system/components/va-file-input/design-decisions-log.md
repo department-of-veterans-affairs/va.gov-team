@@ -1,7 +1,8 @@
 # va-file-input Design Decisions
-Last updated: 07/17/2025
+Last updated: 11/20/2025
 
 - [ADR 001 - Limiting the built-in functionality for encrypted and password-protected files](#ADR-001---Limiting-the-built-in-functionality-for-encrypted-and-password-protected-files)
+- [ADR 002 - Display static thumbnail for PDF files](#ADR-002---Display-static-thumbnail-for-PDF-files)
 
 
 ## ADR 001 - Limiting the built-in functionality for encrypted and password protected files
@@ -31,3 +32,29 @@ Teams will need to leverage centralized platform utilities for handling the dete
 A step-by-step guide for checking encryption on vets-website is available here: https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted
 
 ### Open Questions
+
+
+## ADR 002 - Display static thumbnail for PDF files
+
+### Status: Accepted
+
+- Date issue raised: 11/14/2025
+- Decision date: 11/20/2025
+
+### Context
+While doing accessibility testing on the file input components, it was observed that sometimes when loading a multi-paged PDF, the PDF file preview would allow you to scroll through the pages of the PDF, and if you clicked on the thumbnail some screen readers would announce more details about the PDF. This behavior is inconsistent, and not all PDFs show a preview like this.
+
+### Decision
+The preview image size for the uploaded file is only 40px x 40px. It is impossible to distinguish the content of the file. There was no documentation left about why the previous decision was to show this as a feature. But we have decided to just show a static, generic svg file in its place.
+
+### Consequences
+If there was any chance that users were hoping to verify they uploaded the right file via the preview, at such a small size, that functionality is now removed.
+
+### Open Questions
+
+
+### Related issues
+- https://github.com/department-of-veterans-affairs/component-library/pull/1874
+- https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4704
+- https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/5196
+

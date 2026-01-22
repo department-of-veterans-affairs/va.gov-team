@@ -24,14 +24,6 @@ Veterans who have overpayment debts and copayment bills do not have a single pla
 * Veterans will want the PDF of the One VA Debt Letter, so that they can view an itemized list of overpayment debts since they cannot access this digitally.   
 * Veterans will want to be able to download and save the One VA Debt Letter, as they like to have a physical copy of a document to reference.
 
-## Desired User Outcomes
-
-* To be determined after discovery research
-
-## Desired Business Outcomes
-
-* To be determined after discovery research
-
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -42,9 +34,6 @@ Veterans who have overpayment debts and copayment bills do not have a single pla
 
 O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-## Assumptions
-
-* 
 
 ## Important Notes/Decisions/Background
 
@@ -60,13 +49,26 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * The web product brief for One VA Debt Letter is accessible [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/126426cbec8d393c8e35b9c128e901a0a78c6a9d/products/Debt%20Resolution/one_va_debt_letter/product%20outline.md).   
 * No previous research was conducted by the Financial Management on whether Veterans preferred having a combined statement. The congressional mandate drove the implementation of this feature on [VA.gov](http://VA.gov). 
 
-## Research Outcomes
+## Research Outcomes and Recommendations 
 
-The research outcomes will be linked once this research is completed. 
+The research outcomes were posted in [OCTO Slack](https://dsva.slack.com/archives/C07SD9P7XB9/p1765915922736319) on December 16th, 2025 and are linked below: 
 
-## Solution Approach
+- [Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/research-findings.md#recommendations): This provides details of the research goals, background, methodology, key findings, and recommendations
+- [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/one_va_debt_letter/mobile/One-VA-Debt-Letter-mobile-app_research_readout_presentation.pdf): This is a presentation of the research report.
 
-* To be determined after research    
+The recommendations were: 
+1. Hold off on building a centralized combined debt view on mobile until strong user need is established in future research.
+    - *Supporting evidence: Most participants found little added value in a combined statement, especially on mobile. No one reported challenges due to the lack of a centralized view.*
+2. Hold off on adding a combined debt PDF to the mobile experience until future research identifies a strong user need for this feature.
+    - *Supporting evidence: Although almost everyone found value in the combined statement PDF, their needs were met with individual statements, especially for print and large-screen use.*
+3. Conduct user research on the existing combined statement on the website (both the HTML and PDF versions) to assess whether Veterans find it valuable in ways that differ from individual statements. Use the results to further inform whether a combined statement should be built in the mobile app.
+    - Track how frequently individual users return to download the combined PDF multiple times, not only how often it's downloaded.
+    - Gather qualitative feedback on the unique benefits of combined statements compared to individual statements.
+    - *Supporting evidence: Participants appreciated the combined PDF’s familiar format and summary view, but most needs were met by individual statements. Sending the combined PDF to someone for financial assistance was a unique use case, but it remains unclear whether Veterans would routinely download and use it in practice. Further research will clarify how Veterans actually interact with these statements and inform mobile app decisions.*
+
+## Next Steps
+
+Based on these recommendations, the MFS team will not take any action to include the One VA Debt Letter feature in the mobile app. This recommendation can be revisited in the future. 
 
 ## Reference Materials
 

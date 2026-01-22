@@ -120,3 +120,6 @@ Here are the drawbacks we can think of compared to the current model or a single
 - Constant monitoring of AI landscape
 - Teams cannot be siloed
 
+# Implementation 
+As this is a proposed plan, please view the [Phase 1 MVP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/LLMs%20(Phase%201%20MVP).md) to learn about our early implementation phase for query routing for LLMs.
+

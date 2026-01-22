@@ -36,6 +36,14 @@ body:
       - [ ] Task
 - type: textarea
   attributes:
+    label: In Progress Form Data
+    description: Paste in progress form data to allow engineering to reproduce this issue accurately.
+- type: input
+  attributes:
+    label: Test User Id
+    description: Test user id used in the reproduction of this issue 
+- type: textarea
+  attributes:
     label: Acceptance Criteria 
     description: What are the acceptable conditions to consider this work complete? 
     placeholder: |

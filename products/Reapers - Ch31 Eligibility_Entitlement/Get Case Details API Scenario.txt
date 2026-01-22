@@ -1,0 +1,246 @@
+Scenarios
+====================================
+--------------------------------------
+1. ICN is blank - ""
+--------------------------------------
+{
+  statusCode: 400,
+  body: {
+    errorMessageList: {
+      "icn is required"
+    }
+  }
+}
+
+
+--------------------------------------
+1. No Record for ICN in MPI  {403}  - AAA8634422V367192
+--------------------------------------
+{
+  statusCode: 403,
+  body: {
+    errorMessageList: {
+      "Internal server error occurred while retrieving data from MPI."
+    }
+  }
+}
+
+---------------------------------------------------------- 
+2. Record Avaiable in MPI + No Application for ICN in RES 
+----------------------------------------------------------
+{
+  statusCode: 403,
+  body: {
+    errorMessageList: {
+      "RES does not have an application associated with this ICN."
+    }
+  }
+}
+
+------------------------------------------------------------
+3. Record Avaiable in MPI + Application Present in RES  
+------------------------------------------------------------
+	3.1 Single Application Present and No RES Case  - 1017849718V133514
+	--------------------------------------------------
+	Status Code :200
+	Response Body:
+
+	{
+	  "resCaseId": null,
+	  "isTransferedToCWNRS": false,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "ACTIVE" },
+		  {"stepCode": "ELGLDET","status": "PENDING"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+	
+    ------------------------------------------------------	
+	3.2 Single Application Present and RES Case Present - 1018634421V131647 
+	------------------------------------------------------
+	
+	{
+	  "resCaseId": null,
+	  "isTransferedToCWNRS": false,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "COMPLETED" },
+		  {"stepCode": "ELGLDET","status": "PENDING"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+	
+	---------------------------------------------------------------
+	3.3 Multiple Application Present + One Application has RES Case - 1017182566V924589
+    ----------------------------------------------------------------
+	{
+	  "resCaseId": null,
+	  "isTransferedToCWNRS": false,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "COMPLETED" },
+		  {"stepCode": "ELGLDET","status": "PENDING"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}	
+	
+	------------------------------------------------------------------
+	3.4 Multiple Application Present + None of them have the RES Case - 1018661125V486163
+	------------------------------------------------------------------
+	{
+	  "resCaseId": null,
+	  "isTransferedToCWNRS": false,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "ACTIVE" },
+		  {"stepCode": "ELGLDET","status": "PENDING"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+	
+	-----------------------------------------------------------------------------------------
+	3.5 Multiple Application Present + More than 1 Application hase RES Cases - not possible on production environment
+    ------------------------------------------------------------------------------------------
+	
+	-------------------------------------------------------
+	3.6 Application Present and transfered to CWNRS  - 1018661953V660344
+    -------------------------------------------------------
+	{
+	  "resCaseId": null,
+	  "isTransferedToCWNRS": true,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "ACTIVE" },
+		  {"stepCode": "ELGLDET","status": "PENDING"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+
+
+=================Step 2 Scenarios ==============
+1. Case has eligibility determined and eligiblity result is "In-Eligible" -  1018616478V531227
+
+	{
+	  "resCaseId": 685,
+	  "isTransferedToCWNRS": true,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "COMPLETED" },
+		  {"stepCode": "ELGLDET","status": "ACTIVE"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+	
+
+-----------------------------------
+2. Case has eligibility determined and eligiblity result is "Eligible" -  1018666210V638265
+----------------------------------
+
+	{
+	  "resCaseId": 712,
+	  "isTransferedToCWNRS": false,
+	  "externalStatus": {
+		"isDiscontinued": false,
+		"discontinuedReason": null,
+		"stateList": [
+		  {"stepCode": "APPL","status": "COMPLETED" },
+		  {"stepCode": "ELGLDET","status": "COMPLETED"},
+		  {"stepCode": "ORICMPT","status": "PENDING"},
+		  {"stepCode": "INTAKE","status": "PENDING"},
+		  {"stepCode": "ENTLDET","status": "PENDING"},
+		  {"stepCode": "PLANSELECT","status": "PENDING"},
+		  {"stepCode": "BFSACT","status": "PENDING"}
+		]
+	  }
+	}
+	
+	
+-----------------------------------
+2. Discontinued Case - 1017280045V481349
+----------------------------------
+	
+1017280045V481349
+
+{
+    "resCaseId": 512,
+    "isTransferedToCWNRS": false,
+    "externalStatus": {
+        "isDiscontinued": true,
+        "discontinuedReason": "12B - 10% SCD rating/No S.EH",
+        "stateList": [
+            {
+                "stepCode": "APPL",
+                "status": "COMPLETED"
+            },
+            {
+                "stepCode": "ELGLDET",
+                "status": "ACTIVE"
+            },
+            {
+                "stepCode": "ORICMPT",
+                "status": "PENDING"
+            },
+            {
+                "stepCode": "INTAKE",
+                "status": "PENDING"
+            },
+            {
+                "stepCode": "ENTLDET",
+                "status": "PENDING"
+            },
+            {
+                "stepCode": "PLANSELECT",
+                "status": "PENDING"
+            },
+            {
+                "stepCode": "BFSACT",
+                "status": "PENDING"
+            }
+        ]
+    }
+}
+
+============

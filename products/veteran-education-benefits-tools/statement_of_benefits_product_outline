@@ -1,0 +1,166 @@
+# Product Outline Template
+
+## Overview
+
+Statement of Benefits (SOB) allows Veterans to access their remaining entitlement available. Currently, the Transfer of Entitlement (TOE) data is not being displayed as it has been unavailable to pull in. With the creation of the new Claimant Service API (DGIB) the VEBT team is integrating with the service to provide that information within Statement of Benefits. The API on vets-api serves as a middleman to the service provided by AFS- these changes are so that AFS’s LTS SOAP service can be retired and VEBT can switch to the REST based claimant service.
+
+## Problem Statement
+
+How might we provide Veterans access to their transfer of entitlement information to ensure that the calculation for their overall entitlement remaining is more accurate on their Statement of Benefits.
+
+## Desired User Outcomes
+
+- *Why would a user want to use this?*
+
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+*Currently, Veterans are unable to access their transfer of entitlement information within the Statement of Benefits on va.gov. The inclusion of this information will report a more accurate representation of their total remaining entitlement.*
+
+## Undesired User Outcomes
+
+We believe that If the required data fields cannot be displayed, the Statement of Benefits does not give an accurate total for entitlement remaining. 
+
+## Desired Business Outcomes
+
+- *Why would your business want this to exist?*
+
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+•  Accurate totals displayed for remaining entitlement with the addition of Transfer of Entitlement information
+
+•  Increased engagement from the Veteran’s
+
+•  Enhances the credibility of the VA and institutions
+
+## Undesired Business Outcomes
+
+•  Veteran confusion
+
+•  Decreased engagement
+
+•  Risk of reputational damage
+
+## Measuring Success
+
+An accurate total is displayed for entitlement remaining for Veterans.
+
+### Key Performance Indicators (KPIs)
+
+* *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
+
+* _What are the most important metrics that track with this product/initiative's success?_
+
+* _Include links to Domo or Google Analytics Dashboards/Reports_
+
+* _**Limit 5-6 KPIs per product**__
+
+| Category | Ease of use | Service completion | Trust/Satisfaction | Health |
+
+|----------|-------------|--------------------|--------------------|--------|
+
+| KPI  |  |  |  |  |
+
+| KPI  |  |  |  |  |
+
+#### Baseline KPI Values
+
+* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
+
+### Objectives and Key results (OKRs)
+
+_What are the measurable targets you're aiming for that delivers value for Veterans?_
+
+- Objective:
+
+- Key result:
+
+- Key result:
+
+## Assumptions
+
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumption w/your initial set of functionality*
+
+## Solution Approach
+
+- *What are you going to build now, and why have you decided to start there?*
+
+- *Why this solution / approach over other solutions / approaches?*
+
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+
+### Initiatives
+
+*Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
+
+- Initiative | [Link to Initiative Brief](#)
+
+## Launch Strategy
+
+- *How are Veterans and others using this product going to know it exists?*
+
+- *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+- User guide will need to be updated
+
+## Launch Dates
+
+- *Target Launch Date*
+
+- January 24, 2026
+
+- *Actual Launch Date*
+
+- January 24, 2026
+
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+
+- tbd
+
+## Solution Narrative
+
+### Current Status
+
+### Key Decisions
+
+## Screenshots
+
+### Before
+
+### After
+
+#### Communications
+
+<details>
+
+- Team Name: VEBT
+
+- GitHub Label:
+
+- Slack channel:
+
+- Product POCs: Christopher Holtkamp, Brian Grubb
+
+- Stakeholders: Darla van Nieukerk, Cinda Quattrini
+
+</details>
+
+#### Team Members
+
+<details>
+
+- DEPO Lead:
+
+- PM: Emyly Hall
+
+- Engineering: Jeffrey Marks, Vanson Samuel
+
+- Research/Design: Jeffrey Marks, Vanson Samuel
+
+</details>
+
+#### Stakeholders
+
+_What offices/departments are critical to make this initiative successful?_
+

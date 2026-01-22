@@ -1,6 +1,53 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+### **10/29/2025**
+**Notes**
+- Attendees: Andrea M, Melissa C, Cindy C, Dawn H, Eileen C, Jessica S, Melissa J, Alyssa L, Mike M, Christine M, Angela P, Renata K, Premal S, Joie T. 
+- Renata reads the team’s understanding of the 3 types of DTA. Melissa confirms that the three.
+- Any additional forms for bene to fill before DTA start? Melisa states that no additional form or authorization.
+- Any information the bene can provider to help with the DTA process? Name of provider, date of service, provider contact, because the DTA team can use that information to reach out.
+- Shoebox claim; is missing other health insurance a common reason needing help the bene? Melissa notes that it is more common as a kickback. 
+- How does DTA reach out to bene? Phone, then mail. They’ll use VA.box.com to start getting documents from the provider without going through snail mail. Angela notes that they’re not using BOX just yet. 
+- Cindy notes that if they create a doctype, it goes into appeals. 
+- How many attempts does the DTA make to reach out to the provider? Melissa states that by law, they’re required to reach out 2 times. Staff cannot force the provider for information.
+- Premal asks the business to clarify the DTA process, especially in regards to CHAMPVA Claims. Melissa notes that when the business does not have enough information to process, the EOB letter states what's missing. 
+- Joie notes that the bene does not need a written request for DTA, like Appeals, a phone call is sufficient. 
+- Melissa notes that the DTA is program-specific, and staff would direct bene if they’re asking for help with something else. 
+- Premal discusses the possibility of a DTA during the initial Claim, if the bene does not have that information. Andrea asks if the Need Help footer functionally be the DTA in this instance. Angela confirms that the staff would direct the bene to the VSO, but there is no standardized process.
+- Do we need to collect the Bene’s mailing address in the CHAMPVA Claims? Joie confirmed it is required since that is where the VA sends the check, and there is a checkbox indicating it is a new address. 
+
+### **10/15/2025**
+
+**Agenda**
+- Discuss Duty to Assist
+- Confirm fax number for "How to file..." page
+- Show send back letter and EOB upload pages
+
+**Notes**
+
+- Renata presents the Duty to Assist issue for the Enhanced Claim. The beneficiary can request assistance to process the claim. Rachel Dolnick (DTA team) confirms it is 99% correct. The sendback letter is routed to DTA first, then back to OHI. 
+- DTA wants to move away from telephonic, so the call center number does not go to DTA. 
+- Renata asks if the checkbox DTA is preferred. 
+  - Rachel notes that the ability to request, in some sort of form, that goes to DTA would be helpful. It could look similar to a Sendback letter with the user’s information for DTA. 
+  - Or if there is some “fillable matrix”, something that would help them understand the component of the claim DTA is already doing, but wants the user to be proactive.
+  - One stakeholder (multiple stakeholders with Rachel) notes that Duty-To-Assist exists at every stage of any Claim, and the team scope is technically narrow. 
+- Renata asks what 180 days mean.
+  - The stakeholder notes that it is from the day of eligibility/qualifying date to 180 days after.  
+  - People do submit shoebox claims with tons of collected information.
+  - For the team, it is trying to confirm all of the data points.
+- Renata asks what the minimum needs are for DTA to process. 
+  - Rachel notes that it is hard to answer, but DTA makes a reasonable effort based on whatever information they’re given. 
+- Renata wants to confirm the fax number of the claim. Angela Pinon noted that Brian stated that those numbers are correct. Rachel notes that they do have a fax, but are hesitant to since they prefer the information going into PEGA. Team will hold for fax numbers and revisit for the fax stakeholder returns from PTO. 
+- Andrea M. goes over the CHAMPVA claim resubmission and, new upload page.
+  - Angela P. asks if both the PDI and the Control number are required. Andrea clarifies that it is one or the other.
+  - Elizabeth S. wonders if we need to ask a make it clear on one or the other.
+  - Amanda K. noted that this went through user testing and through the content review. Renata confirms the user did not have an issue with the number.
+  - Vana S. notes that there are sendback letters without a claim number (because it was never processed).
+  - Vana suggested changing the header to include the “PDI” number. Andrea suggests dropping the “claim” from “Beneficiary’s claim identification number”.
+- Vana notes that 1 of 3 submitted claims were sent back due to the lack of information. Andrea goes through the “supporting documents” explanation that would help the beneficiary. 
+  - Vana noted that the superbill information that was received in the last several months has been helpful. Andrea noted that it may have resulted from the team updating the content to expand what information we are looking for.
+
 ### 08/20/25
 
 **Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S., Dawn H, Angela P, Karl H, Eileen C, Mike M, Christine M, Angela C, Melissa J 

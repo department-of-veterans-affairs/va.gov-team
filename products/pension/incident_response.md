@@ -2,13 +2,13 @@
 ## Confirm
 1. Inform the following people of a possible incident: 
 - Matt Reilly, Product Manager/Pension & Burial
-- Jacob Worrell, Product Manager/Dependents Management
+- Alan Werner, Product Manager/Dependents Management
 - Matt Knight, Engineering Lead
 - Anh Platt, Delivery Lead/Project Manager
 
 2. One of the following people, in order of preference
 - Sanja Bajovic, OCTO Product Owner
-- Ben Guhin Delphine, OCTO Design Lead
+- TBD, OCTO Design Lead
 
 3. Start the clock. Record the time an opening message in an appropriate incident log.
 4. Confirm if you have / do not have an incident. 
@@ -16,7 +16,7 @@ a. If this is an incident:
    - Create incident log
    - Determine and record the severity. Severity matrix from VA Platform
 
-From VA Pension Benefits Incident Response (IR) Standard Operating Procedure, report ANY event actually or potentially jeopardizing:
+Report ANY event actually or potentially jeopardizing:
 - Confidentiality/integrity/availability of systems
 - Information processed, stored, or transmitted
 - Constituting a violation / imminent threat of violation of VA security policies, procedures, or acceptable use policies
@@ -78,7 +78,7 @@ The Incident Coordinator role transfers to PdM
 - Long-term items prioritized as needed in the roadmap
 - Impact analysis completed
 
-## VA Pension Benefits Key Contact Roster
+## VA Lifestage Benefits Key Contact Roster
 
 If people are unresponsive via Slack and email, here are alternate communication channels.
 OCTO Enablement Team
@@ -86,7 +86,7 @@ OCTO Enablement Team
 | Name | Position | Primary Phone | Email |
 |----- | -------- | ------------- | ----- |
 | Sanja Bajovic| OCTO Product Owner | 510-520-1195 | Sanja.Bajovic2@va.gov |
-| Ben Guhin Delphine | OCTO Design Lead | To Be Added | Benjamin.Delphine@va.gov |
+| TBD| OCTO Design Lead | To Be Added | To Be Added|
 
 Delivery Team
 
@@ -94,5 +94,5 @@ Delivery Team
 |----- | -------- | ------------- | ----- |
 | Matt Knight| Engineering Lead (Coforma) | 607-216-8683 | matt.knight@coforma.io |
 | Matt Reilly | Pension and Burial Product Lead | 518-461-7458 | matt.reilly@adhocteam.us |
-| Jacob Worrell | Dependents Maangement Product Lead | To be added | jacob.worrell@adhocteam.us |
+| Alan Werner | Dependents Management Product Lead | 407-494-7717 | alan.werner@adhocteam.us |
 | Anh Platt| Delivery Lead (Coforma) | 805-452-8014 | anh.platt@coforma.io |

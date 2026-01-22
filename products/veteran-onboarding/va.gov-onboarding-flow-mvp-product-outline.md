@@ -1,52 +1,56 @@
 # **VA.gov Onboarding Flow - MVP**
 
 ### **Overview** 
-The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR team plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can find, access, and manage the benefits they care about.
+The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR team plans to create a welcome/onboarding modal that is shown to first time LOA 3 users to help them more easily find, access, and manage the benefits they care about.
 
 ### **Problem Statement(s)**
-- When Veterans sign up for VA.gov, they aren't told what to do next making it complicated to access the benefits they earned.
-- Users aren't taught how to navigate the authenticated experience, they are expected to figure it out on their own.
+- When Veterans sign up for VA.gov, they aren't told what to do next making it complicated and overwhelming to find and access the benefits they earned.
 - The lack of an onboarding experience does not meet government goals of having digital experiences that are “consistent with [the public’s] favorite consumer websites and mobile apps.”
 
-How might we statement: How might we teach Veterans to use VA.gov to find, access, and manage the benefits they earned.
+How might we statement: How might we help Veterans take their first step towards applying for benefits. 
 
 ### **Desired User Outcomes**
-- Users are educated on where they can find and manage their benefits. 
-- Users feel comfortable navigating to My Va, Profile hub, and My Healthevet.
-- Users are trying to see what beneifts they can get.
+- Reduce user confusion and decision paralysis when they come to VA.gov for the first time
+- Users are able to quickly find and apply for the benefits they need
 
 ### **Undesired User Outcomes**
-- Users get frustrated and don't finish the onboarding flow.
-- Users don't feel comfortable navigating to My VA, Profile hub, or My Healthevet.
-- Users are still unsure and confused on how to navigate the authenticated experience.
+- Users don't find the welcome/onboarding modal helpful
 
 ### **Desired Business Outcomes**
--  This flow contributes to OCTO's Objective #1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits. This flow makes things easier and more efficient for users.
+- Increasing action toward benefit application
+- This flow contributes to OCTO's Objective #1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits. This flow makes things easier and more efficient for users.
 
 ### **Undesired Business Outcomes**
-- Profile & AuthEx CSAT scores drop
+- CSAT scores drop
+- Decrease action toward benefit application
 
 ### **Measuring Success**
-#### 1. Increase in the amount of clicks on name drop down + associated pages. We are trying to teach users how to navigate the va.gov authenticated experience so if we see an increase in clicks, users are learning. 
-Note: Clicks on name are not currently being tracked but implementation is underway. Clicks on the associated pages started being tracked 5/30/2025 so we do not yet have a full month of data. Monthly numbers will be tracked.
+#### 1. Majority of users who see the modal, click on one of the links.
 
 | Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
 | ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
-| Number of clicks on name drop down                            | TBD        |                     |                     |                     |
-| Number of clicks on name drop down > My VA                    | TBD        |                     |                     |                     |
-| Number of clicks on name drop down > Profile                  | TBD        |                     |                     |                     |
-| Number of clicks on name drop down > My HealtheVet            | TBD        |                     |                     |                     |
+| Number of clicks on disability link                            | TBD        |                     |                     |                     |
+| Number of clicks on health care link                   | TBD        |                     |                     |                     |
+| Number of clicks on education link                | TBD        |                     |                     |                     |
+| Number of clicks on discover benefits link            | TBD        |                     |                     |                     |
 
-#### 2. Completion rate of the new onboarding flow. If users don't complete the flow they either don't find it valuable or think it burdensome in some way (interrupting them, telling them something they already know, etc.).
+#### 2. Users who click on one of the modal links AND ALSO click another link on the relevant page (something that isn't in the header or footer).
+
 | Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
 | ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
-| Completion rate on completing the Onboarding flow            | N/A        |                     |                     |                     |
+| Number of relevant clicks on disability page                  | TBD        |                     |                     |                     |
+| Number of relevant clicks on health care link                 | TBD        |                     |                     |                     |
+| Number of relevant clicks on education link                   | TBD        |                     |                     |                     |
+| Number of relevant clicks on discover benefits link           | TBD        |                     |                     |                     |
 
-#### 3. No significant drop in My VA and Profile CSAT. We don't want our flow to be burdensome to users so we will be tracking CSAT closely. 
+#### 3. No significant drop in CSAT on pages we are linking out to. We don't want our flow to be burdensome to users so we will be tracking CSAT closely. 
 | Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
 | ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
 | My VA CSAT                                                    | TBD        |                     |                     |                     |
-| Profile CSAT                                                  | TBD        |                     |                     |                     |
+| Disability Page CSAT                                          | TBD        |                     |                     |                     |
+| Health Care Page CSAT                                         | TBD        |                     |                     |                     |
+| Educationn Page CSAT                                          | TBD        |                     |                     |                     |
+| Discover Benefits Page CSAT                                   | TBD        |                     |                     |                     |
 
 ### **Launch Strategy**
 
@@ -54,7 +58,7 @@ We plan for every user to see this flow - whether they are brand new to VA.gov o
 
 ### **Launch Dates**
 
-1. TBD but estimating Fall - November
+1. TBD but estimating April 2026
 
 ### **Screenshots**
 

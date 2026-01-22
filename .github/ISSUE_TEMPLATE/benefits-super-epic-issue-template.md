@@ -23,4 +23,4 @@ How will we know we are successful in addressing the problem? What metrics will 
 
 ## Key decisions
 (Optional) Note any key decisions made about this work along the way
-- Example:  On 5/25/25 Person McPerson in VBA confirmed we can descope the edge case of Veterans in a particular situation from the solution. (link to slack thread). We created a backlog ticket (link) to revisit this in the future.
+- Example:  On 5/25/25 We descoped the edge case of Veterans in a particular situation from the solution. (link to slack thread). We created a backlog ticket (link) to revisit this in the future.

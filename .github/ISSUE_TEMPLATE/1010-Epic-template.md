@@ -1,8 +1,8 @@
 ---
 name: 1010 Epic Template
-about: For the 10-10 Health Enrollment team
+about: For the Health Apps team
 title: formID - initiative
-labels: 1010-team
+labels: health-apps-team
 assignees: ''
 
 ---
@@ -35,6 +35,6 @@ _Which Objective / Key Result does this epic push forward?_
 
 ---
 ## How to configure this issue
-- [ ] **Labeled with Team** (`1010-team`)
+- [ ] **Labeled with Team** (`health-apps-team`)
 - [ ] **Labeled with Form** (`1010-ez`, `1010-ezr`, `1010-cg`)
 - [ ] **Labeled with Project** (`facilities-cg`, `registration`,  `toxic-exposure`, etc.)

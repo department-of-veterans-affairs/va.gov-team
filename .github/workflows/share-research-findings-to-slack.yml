@@ -1,6 +1,6 @@
 name: Share Research Findings to Slack
 
-on:
+on: 
   push:
     paths:
       - 'products/**/[Ff]indings.md'
@@ -13,269 +13,265 @@ on:
       - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
       - 'products/**/[Ss]tudy-[Ff]indings.md'
       - 'products/**/[Ss]tudy-[Rr]eport.md'
-    branches:
+      - 'teams/**/[Ff]indings.md'
+      - 'teams/**/[Rr]eport.md'
+      - 'teams/**/[Ii]nsights.md'
+      - 'teams/**/[Rr]esearch-[Ff]indings.md'
+      - 'teams/**/[Rr]esearch-[Rr]eport.md'
+      - 'teams/**/[Rr]esearch-[Ii]nsights.md'
+      - 'teams/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
+      - 'teams/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
+      - 'teams/**/[Ss]tudy-[Ff]indings.md'
+      - 'teams/**/[Ss]tudy-[Rr]eport.md'
+    branches: 
       - master
       - main
   schedule:
     # Run daily to check for reports that are ready to share
     - cron: '0 14 * * *'  # 2 PM UTC = 10 AM ET / 7 AM PT
-  workflow_dispatch:
+  workflow_dispatch: 
     inputs:
       research_file_path:
         description: 'Path to specific research file (optional - leave blank to process all eligible files)'
         required: false
         type: string
       ignore_time_delay:
-        description: 'Ignore 3-day waiting period (for testing)'
+        description:  'Ignore 3-day waiting period (for testing)'
         required: false
         type: boolean
         default: false
 
 permissions:
-  contents: read
+  contents:  read
   actions: write
 
-jobs:
-  share-research-findings:
+jobs: 
+  share-research-findings: 
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
     steps:
-      - name: Checkout repository
+      - name: Optimized checkout for large repository
         uses: actions/checkout@v4
+        with: 
+          fetch-depth:  1  # Use shallow clone for better performance
+          sparse-checkout: |
+            . github/workflows/
+            scripts/github-actions/
+            products/
+            teams/
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets. GITHUB_TOKEN }}
+
+      - name: Setup Python environment
+        uses: actions/setup-python@v4
         with:
-          fetch-depth: 0  # Get full history to track file age
+          python-version: '3.11'
 
       - name: Find eligible research files
         id: find-files
         run: |
-          # Track which files have already been shared
-          SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
-          mkdir -p "$(dirname "$SHARED_FILES_LOG")"
-          touch "$SHARED_FILES_LOG"
-          
-          # Check if manual run with specific file
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.research_file_path }}" ]; then
-            RESEARCH_FILE="${{ github.event.inputs.research_file_path }}"
-            
-            # Check if file exists
-            if [ -f "$RESEARCH_FILE" ]; then
-              echo "Manual run for specific file: $RESEARCH_FILE"
-              echo "eligible_files=$RESEARCH_FILE" >> $GITHUB_OUTPUT
-              echo "skip=false" >> $GITHUB_OUTPUT
-            else
-              echo "Error: Specified file not found: $RESEARCH_FILE"
-              
-              # Try to find similar files
-              echo "Looking for similar files..."
-              SEARCH_DIR=$(dirname "$RESEARCH_FILE")
-              SEARCH_NAME=$(basename "$RESEARCH_FILE")
-              
-              if [ -d "$SEARCH_DIR" ]; then
-                echo "Files in $SEARCH_DIR:"
-                ls -la "$SEARCH_DIR" | grep -i "\.md$" || echo "No markdown files found"
-                
-                # Try case-insensitive search
-                SIMILAR_FILES=$(find "$SEARCH_DIR" -maxdepth 1 -iname "*$(echo $SEARCH_NAME | sed 's/[^a-zA-Z0-9]//g')*" -type f 2>/dev/null | head -5)
-                if [ -n "$SIMILAR_FILES" ]; then
-                  echo "Did you mean one of these?"
-                  echo "$SIMILAR_FILES"
-                fi
-              fi
-              
-              echo "skip=true" >> $GITHUB_OUTPUT
-              echo "error_message=File not found: $RESEARCH_FILE" >> $GITHUB_OUTPUT
-              exit 0  # Don't fail the workflow, just skip processing
-            fi
-          else
-            # Rest of the automatic file finding logic...
-            # [Previous auto-discovery code here]
-            echo "skip=false" >> $GITHUB_OUTPUT
-          fi
+          python scripts/github-actions/share-research-findings-to-slack/research_finder.py \
+            "${{ github.event_name }}" \
+            "${{ github. event.inputs.research_file_path }}" \
+            "${{ github. event.inputs.ignore_time_delay }}"
 
-      - name: Process and share research findings
+      - name: Process and extract research content
         if: steps.find-files.outputs.skip != 'true'
         run: |
-          IFS=' ' read -ra FILES <<< "${{ steps.find-files.outputs.eligible_files }}"
-          
-          for RESEARCH_FILE in "${FILES[@]}"; do
-            if [ -n "$RESEARCH_FILE" ] && [ -f "$RESEARCH_FILE" ]; then
-              echo "Processing: $RESEARCH_FILE"
-              
-              # Extract key information from the research file with better error handling
-              TITLE=$(grep -m 1 "^# " "$RESEARCH_FILE" 2>/dev/null | sed 's/^# //' || echo "")
-              
-              # If no H1 title found, try H2
-              if [ -z "$TITLE" ]; then
-                TITLE=$(grep -m 1 "^## " "$RESEARCH_FILE" 2>/dev/null | sed 's/^## //' || echo "Research Findings")
-              fi
-              
-              echo "Title found: $TITLE"
-              
-              # Get key findings section with case-insensitive search
-              KEY_FINDINGS=""
-              
-              # Try multiple section patterns
-              for pattern in "Key findings" "Key Findings" "Summary" "Findings" "Results" "Insights"; do
-                if grep -qi "^##.*$pattern" "$RESEARCH_FILE" 2>/dev/null; then
-                  # Extract content between this section and the next section
-                  KEY_FINDINGS=$(awk -v pattern="$pattern" '
-                    BEGIN {IGNORECASE=1; found=0} 
-                    /^##.*'"$pattern"'/ {found=1; next} 
-                    found && /^##/ {exit} 
-                    found {print}
-                  ' "$RESEARCH_FILE" | head -20)
-                  
-                  if [ -n "$KEY_FINDINGS" ]; then
-                    break
-                  fi
-                fi
-              done
-              
-              # If still no findings, get content after title
-              if [ -z "$KEY_FINDINGS" ]; then
-                KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print}' "$RESEARCH_FILE" | head -10)
-              fi
-              
-              # Clean up and truncate
-              KEY_FINDINGS=$(echo "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
-              if [ ${#KEY_FINDINGS} -gt 2000 ]; then
-                KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
-              fi
-              
-              echo "Key findings length: ${#KEY_FINDINGS}"
-              
-              # Get authors and dates
-              AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ", " -)
-              [ -z "$AUTHORS" ] && AUTHORS="Unknown"
-              
-              STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1)
-              [ -z "$STUDY_DATE" ] && STUDY_DATE=$(date '+%Y-%m-%d')
-              
-              # Extract product/team from path
-              PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
-              
-              # Save all variables for Slack notification
-              {
-                echo "RESEARCH_FILE=$RESEARCH_FILE"
-                echo "RESEARCH_TITLE=$TITLE"
-                echo "KEY_FINDINGS<<EOF"
-                echo "$KEY_FINDINGS"
-                echo "EOF"
-                echo "AUTHORS=$AUTHORS"
-                echo "STUDY_DATE=$STUDY_DATE"
-                echo "PRODUCT_PATH=$PRODUCT_PATH"
-              } >> $GITHUB_ENV
-              
-              # Only process one file per run
-              break
-            fi
-          done
+          python scripts/github-actions/share-research-findings-to-slack/research_processor.py \
+            "${{ steps. find-files.outputs.eligible_files }}"
 
-      - name: Send Slack notification - Success
-        if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
-        uses: slackapi/slack-github-action@v1.26.0
-        with:
-          payload: |
-            {
-              "channel": "#research-ops",
-              "text": "📊 New Research Findings Available: ${{ env.RESEARCH_TITLE }}",
-              "blocks": [
-                {
+      - name:  Build Slack payload
+        if: steps.find-files.outputs. skip != 'true' && env.RESEARCH_FILE
+        id: build-payload
+        run: |
+          # Use Python for robust JSON handling with multi-line content
+          python3 << 'PYTHON_SCRIPT'
+          import json
+          import os
+          
+          def escape_for_slack_mrkdwn(text):
+              """Escape special characters while preserving Slack mrkdwn formatting."""
+              import re
+          
+              # Protect Slack links (<url|text>) so we don't escape their angle brackets
+              protected = []
+              def _protect(match):
+                  idx = len(protected)
+                  token = f"__SLACK_LINK_{idx}__"
+                  protected.append((token, match.group(0)))
+                  return token
+          
+              text = re.sub(r'<[^|>]+?\|[^>]+?>', _protect, text)
+          
+              # Escape remaining angle brackets
+              text = text.replace('<', '&lt;').replace('>', '&gt;')
+          
+              # Restore protected links
+              for token, link in protected:
+                  text = text.replace(token, link)
+          
+              return text
+          
+          # Read environment variables
+          research_title = os.environ. get('RESEARCH_TITLE', 'Research Findings')
+          product_path = os. environ.get('PRODUCT_PATH', '')
+          study_date = os. environ.get('STUDY_DATE', '')
+          research_summary = os.environ. get('RESEARCH_SUMMARY', '')
+          key_findings = os.environ.get('KEY_FINDINGS', '')
+          research_file = os.environ.get('RESEARCH_FILE', '')
+          event_name = '${{ github.event_name }}'
+          repository = '${{ github. repository }}'
+          sha = '${{ github. sha }}'
+          
+          # Determine context message
+          if event_name == 'workflow_dispatch':
+              context_message = "🧪 _Test notification - not tracked as shared_"
+          else:
+              context_message = "✨ _Shared after 3-day revision period_"
+          
+          # Build the Slack Block Kit payload
+          blocks = [
+              {
                   "type": "header",
                   "text": {
-                    "type": "plain_text",
-                    "text": "📊 New Research Findings Available",
-                    "emoji": true
+                      "type": "plain_text",
+                      "text":  "📊 New Research Findings Available",
+                      "emoji": True
                   }
-                },
-                {
+              },
+              {
                   "type": "section",
                   "fields": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Study:*\n${{ env.RESEARCH_TITLE || 'Research Findings' }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Product Area:*\n${{ env.PRODUCT_PATH }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Date:*\n${{ env.STUDY_DATE }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Authors:*\n${{ env.AUTHORS }}"
-                    }
+                      {
+                          "type": "mrkdwn",
+                          "text": f"*Study: *\n{research_title}"
+                      },
+                      {
+                          "type": "mrkdwn",
+                          "text": f"*Product Area:*\n{product_path}"
+                      },
+                      {
+                          "type": "mrkdwn",
+                          "text": f"*Date:*\n{study_date}"
+                      }
                   ]
-                },
-                {
+              },
+              {
                   "type": "divider"
-                },
-                {
+              }
+          ]
+          
+          # Add summary section if available
+          if research_summary and research_summary != "See full report for research context and methodology.": 
+              blocks.append({
                   "type": "section",
                   "text": {
-                    "type": "mrkdwn",
-                    "text": "*Key Findings Preview:*\n${{ env.KEY_FINDINGS || 'See full report for details' }}"
+                      "type": "mrkdwn",
+                      "text": f"*About This Research:*\n{escape_for_slack_mrkdwn(research_summary)}"
                   }
-                },
-                {
+              })
+              blocks.append({
                   "type": "divider"
-                },
-                {
-                  "type": "actions",
-                  "elements": [
-                    {
+              })
+          
+          # Add key findings section with preserved formatting
+          blocks.append({
+              "type": "section",
+              "text": {
+                  "type": "mrkdwn",
+                  "text": f"*Key Findings:*\n{escape_for_slack_mrkdwn(key_findings)}"
+              }
+          })
+          
+          blocks.append({
+              "type": "divider"
+          })
+          
+          # Add action button
+          blocks.append({
+              "type":  "actions",
+              "elements": [
+                  {
                       "type": "button",
                       "text": {
-                        "type": "plain_text",
-                        "text": "📖 Read Full Report",
-                        "emoji": true
+                          "type":  "plain_text",
+                          "text": "📖 Read Full Report",
+                          "emoji": True
                       },
-                      "url": "https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ env.RESEARCH_FILE }}",
+                      "url": f"https://github.com/{repository}/blob/{sha}/{research_file}",
                       "style": "primary"
-                    }
-                  ]
-                },
-                {
-                  "type": "context",
-                  "elements": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "${{ github.event_name == 'workflow_dispatch' && '🧪 _Test notification - not tracked as shared_' || '✨ _Shared after 3-day revision period_' }}"
-                    }
-                  ]
-                }
+                  }
               ]
-            }
-        env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          })
+          
+          # Add context footer
+          blocks.append({
+              "type": "context",
+              "elements": [
+                  {
+                      "type": "mrkdwn",
+                      "text": context_message
+                  }
+              ]
+          })
+          
+          # Build final payload
+          payload = {
+              "text": f"📊 New Research Findings Available:  {research_title}",
+              "blocks": blocks
+          }
+          
+          # Write to file
+          with open('slack_payload.json', 'w') as f:
+              json.dump(payload, f, indent=2)
+          
+          print("Slack payload built successfully")
+          print(f"Summary length: {len(research_summary)} chars")
+          print(f"Findings length: {len(key_findings)} chars")
+          PYTHON_SCRIPT
 
-      - name: Send Slack notification - Error
-        if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
+      - name: Send Slack notification - Success
+        if: steps.find-files. outputs.skip != 'true' && env.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
-          payload: |
+          channel-id: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
+          payload-file-path: slack_payload.json
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
+
+      - name: Send Slack notification - Error
+        if: steps.find-files. outputs.skip == 'true' && steps.find-files. outputs.error_message && github.event_name == 'workflow_dispatch'
+        uses:  slackapi/slack-github-action@v1.26.0
+        with: 
+          channel-id: ${{ secrets. SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
+          payload:  |
             {
-              "channel": "#research-ops",
               "text": "❌ Research File Not Found",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "❌ *Could not find the specified research file*\n\n`${{ steps.find-files.outputs.error_message }}`\n\nPlease check the file path and try again."
+                    "text": "❌ *Could not find the specified research file*\n\n`${{ steps.find-files.outputs. error_message }}`\n\nPlease check the file path and try again."
                   }
                 }
               ]
             }
         env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
 
-      - name: Commit tracking file
-        if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && env.RESEARCH_FILE
+      - name: Update tracking file
+        if: steps.find-files. outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && env.RESEARCH_FILE
+        run: |
+          echo "${{ env.RESEARCH_FILE }}" >> . github/workflows/shared-research-files.log
+
+      - name:  Commit tracking file
+        if:  steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && env. RESEARCH_FILE
         uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Track shared research file: ${{ env.RESEARCH_FILE }}"
-          file_pattern: .github/workflows/shared-research-files.log
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
+        with: 
+          commit_message:  "Track shared research file: ${{ env. RESEARCH_FILE }}"
+          file_pattern: . github/workflows/shared-research-files. log
+          commit_user_name:  github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github. com

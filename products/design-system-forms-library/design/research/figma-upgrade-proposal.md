@@ -11,6 +11,7 @@ To avoid confusion, this document uses specific capitalization for Figma's struc
 * **Organization:** The highest level in the Figma hierarchy (our entire VA workspace).
 * **Team:** A distinct group within the Organization (e.g., MyHealtheVet, Lighthouse).
 * **Project:** A collection of related design files within a specific Team.
+* **File:** An individual Figma file (typically a Design file, but could be FigJam file or another Figma product file)
 
 ## Current Challenges with the Previous "Pro" Tier Setup
 
@@ -35,22 +36,29 @@ This setup caused several organizational challenges:
 
 The Organization tier offers a more sensible and flexible structure:
 
-* **Organization** (Entire VA Workspace)
+* **Organization** (Entire VA Workspace - "VA")
     * **Team 1** (e.g., MyHealtheVet)
         * Project A (e.g., New Feature Design)
-            * File(s)
+            * File 1
+            * File 2
+            * File N
         * Project B (e.g., User Research)
-            * File(s)
+            * File 1
+            * File 2
+            * File N
     * **Team 2** (e.g., Lighthouse)
         * Project A
-            * File(s)
-    * And so on for all VA teams.
+            * File 1
+            * File 2
+            * File N
+    * And so on for all VA teams...
+    * The current "VA.gov Platform" Team will continue to exists here. It can be renamed "VA.gov Platform Archive" as files are moved out to proper Teams and the rest can remain for unclaimed files.
 
 This improved structure will:
 
 * Enable individual VA teams to create and manage their own **Projects** for different initiatives.
 * Let teams share design assets (like components or templates) just **within their Team**, reducing clutter for everyone else. (Sharing with the entire Organization remains an option when appropriate).
-* Enable VA teams to be function as actual **Teams** within Figma.
+* Enable VA teams to function as actual **Teams** within Figma.
 * Provide better control over who can view or edit files within a specific **Team**.
 
 ## Proposed Guidelines for the New Structure

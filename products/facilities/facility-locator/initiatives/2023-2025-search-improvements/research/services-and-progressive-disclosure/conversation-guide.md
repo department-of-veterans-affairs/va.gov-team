@@ -24,7 +24,7 @@
 - Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
 - Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
-- Open standalone browser windows with staging link: https://staging.va.gov/discharge-upgrade-instructions/introduction
+- Open standalone browser windows with staging link: https://staging.va.gov/find-locations/
 - Paste link into Zoom chat (but don't hit enter)
 - Do Not Disturb ON so no notifications
 - Make sure everyone is muted except me and the participant
@@ -133,15 +133,18 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. I understand you are a (*Veteran / Family member / Caregiver*). Is that right?  
 2. What kind of device are you using today? (*Computer / Tablet / Smartphone*)  
+   * *If assistive technology- What type of assistive technology are you using today?*   
+   * How comfortable do you feel with technology in general? (*Can use 5 point scale-where 1 is I am not very comfortable at all and 5 is I love it and use it all the time?)*  
 3. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, or put it in the Zoom chat. (RECORD)  
-4. Where do you live?  
-5. Are there VA facilities near you? (*Vet Centers/VA Benefit Offices/VA Clinics/VAMCs*)  
+4. Whereabouts do you live?  
+5. Are there VA facilities near you? (*Vet Centers/VA Benefit Offices/VA Clinics/VAMCs. What kind are they?*)  
 6. How do you typically find VA facilities near you? (*Google, VA.gov, etc*)  
+   * Would you typically use your phone or computer to find this information?   
 7. What VA facilities have you been to?
 
 ## **First Task: Open prototype**
 
-Let's suppose that (*Google/VA.gov*) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: \[insert prototype link here\]
+Let's suppose that (*Google/VA.gov*) led you to the web page that I'm going to show you. I'd like you to try to use it, and please share your feedback while you're doing that. I'm interested in your impressions of what you see, any questions that you have, and how you feel about what you're doing. I'll have you start from a URL that I'm going to \[dictate/put into the Zoom chat\] for you to use: \[[insert prototype link here\](https://staging.va.gov/find-locations/ )]
 
 Did you get the link?
 
@@ -151,81 +154,72 @@ Did you get the link?
 ## **Second Task: First Impressions**
 
 * Have you ever seen this page before? If so, how did you use this page?  
-* Can you look at the page in your web browser and tell me how you might find a VA location--but don't do it yet. What would you expect to happen?
+* Talk me through how you might find a VA location on this page--but don't do it yet\! What would you expect to happen?
+
 
 ## **Third Task: Search** (TBD)
 
-### Search 1: VA Cemetery
+### Search 0: User Defined Search 
 
-I’d like you to pretend that you are looking for the closest Veteran cemetery to you.
+0.1 Tell me about the last time you were looking for a VA facility. What were you trying to find? What type of things did you need to do at the VA?
 
-Is there a way you could find that information from this page?
+0.2 Now we are going to actually use the site. Go ahead and show me what you would do \[*in the situation you described\]* to find a facility*.* As you go, please think aloud- any reactions you have. 
 
-* Input zip code or city, state  
-* Select VA cemeteries as facility type  
-* Select search
+0.3 Did the suggestions match what you were expecting to see? Why or why not?   
+0.4 Were any words confusing or unexpected?  
+0.5 On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to \[user defined task\]?   
+0.6 How confident are you that you’ve found the right facility for your needs? 
 
-Without selecting anything, what would you do next?
+### Search 1: VA Cemetery \[No progressive disclosure/no autosuggest feature\]
 
-(RECORD all comments/what they would do next)
+I’d like you to pretend that you are looking for the closest Veteran cemetery to you. Please go ahead and try clicking through to find that, still thinking aloud. 
 
-### Search 2: Community provider
+* *Input zip code or city, state*  
+* *Select VA cemeteries as facility type*  
+* *Select search*
 
-I’d like you to pretend that you are looking for a local dentist in Chicago that takes VA insurance. Add a note about that this is not a VA provider, but will be covered by VA healthcare? IDK, something to prompt the community provider.
+1.1 On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to find the closest Veteran cemetery to you? 
 
-Is there a way you could find that information from this page?
+### Search 2: VA health, all services \[Progressive disclosure \+ Autosuggest/combo box\]
 
-* Input city, state  
-* Select community providers as facility type  
-* Search dentist
+Now I’d like you to pretend that you want to find a VA Medical Center in Boston. We’ll keep thinking aloud and I might pause and ask you some followup questions.  
 
-Without selecting anything, what would you do next?
+* *Input city, state*  
+* *Select VA health as facility type*  
+* *DON’T SEARCH*
 
-(RECORD all comments/what facility type they select/what they would do next)
+2.1 Did you notice any fields appearing or disappearing? What did you think about that?   
+2.2 Do you have any thoughts about this list of services? (Does this have what you expect in it?) 	  
+2.3 On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to find a VA medical center in Boston?   
+2.4 What would you expect to do next? (Can go ahead and search).
 
-### Search 3: VA health, all services
+### Search 3: VA health, common wording \[Progressive disclosure \+ Autosuggest/combo box\]
 
-I’d like you to pretend that you want to find a VA Medical Center in Boston. 
+Next, I’d like you to pretend that you want to find a VA Medical Center near Boston that provides urgent care, and we’ll continue to think aloud.
 
-Is there a way you could find that information from this page?
+* *Input zip code*  
+* *Select VA health (or Urgent Care) as facility type*  
+* *Search urgent care*
 
-* Input city, state  
-* Select VA health as facility type  
-* Search
 
-(*Pause on service type field*) Do you have any thoughts about this list of services?
+3.1 Did the service-type suggestions match what you were expecting to see? Why or why not?   
+3.2 Were any words confusing or unexpected?  
+3.3 On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to find a facility that provides urgent care near Boston using the facility locator?   
+3.4 How confident are you that you’ve picked the right facility? 
 
-(*After completing the search*) Without selecting anything, what would you do next?
+### Search 4: VA health, uncommon wording \[Progressive disclosure \+ Autosuggest/combo box\]
 
-(RECORD all comments/what facility type they select/what they would do next)
+I’d like you to pretend now that you want to find a VA Health Center for an eye doctor appointment to get new contact lenses. We’ll keep thinking aloud.
 
-### Search 4: VA health, common service
+* *Input zip code*  
+* *Select VA health as facility type*  
+* *Search Optometry or Eye*
 
-I’d like you to pretend that you want to find a VA Medical Center in Boston that provides urgent care.
 
-Is there a way you could find that information from this page?
-
-* Input zip code  
-* Select VA health as facility type  
-* Search urgent care
-
-Without selecting anything, what would you do next?
-
-(RECORD all comments and what they would do next)
-
-### Search 5: VA health, uncommon service
-
-I’d like you to pretend that you want to find a VA Medical Center that provides caregiver support in Springfield, Missouri. 
-
-Is there a way you could find that information from this page?
-
-* Input zip code  
-* Select VA health as facility type  
-* Search caregiver support
-
-(*They should see no results*) what would you do next?
-
-(RECORD all comments and what they would do next)
+4.1 Did the service-type suggestions match what you were expecting to see? Why or why not?   
+4.2 Were any words confusing or unexpected?  
+4.3 On a scale of 1 to 7, where 1 is very difficult and 7 is very easy, how easy was it to find a facility that provides urgent care near Boston using the facility locator?   
+4.4 How confident are you that you’ve picked the right facility for the contact lens appointment? 
 
 ## **Post-Task Interview**
 

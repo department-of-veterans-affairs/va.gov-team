@@ -32,7 +32,7 @@ body:
         - label: Content audit
         - label: Implementation of REACT sign-in widgets
         - label: Support for UAT testing or phased roll out of app/tool landing page
-        - label: Implementation of Translation widgets
+        - label: Implementation of Translation widgets. 
         - label: Something else
   - type: textarea
     id: customer-request
@@ -84,9 +84,15 @@ body:
         ### Public Websites internal use
         #### Acceptance Criteria
         - [ ] Move to va.gov-cms repo
-        - [ ] Convert this request into a Zenhub epic or add to existing epic
+        - [ ] Add this issue to an existing epic
         - [ ] Follow-up with requester to address any open questions/concerns
-        - [ ] Create epic/tickets as needed for the Public Websites team to implement
-
+        - [ ] Create epic/tickets as needed for the Public Websites team to implement        
+      - If Translation widget request
+        - [ ] Translation toggles added
+        - [ ] IA team notified via Slack to add the Spanish translated left nav: #content-ia-centralized-team
+        - [ ] Spanish left nav shows when the toggle is on Spanish
+        - [ ] Notify ticket creator when done.
+        - [ ] Close this ticket when all of the above has been validated.
+        
         #### Definition of Done
         * Request ticket is closed and implementation tickets created as needed

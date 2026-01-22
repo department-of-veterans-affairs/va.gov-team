@@ -18,9 +18,11 @@ Before enabling your feature toggle in production, you'll need to:
 - [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [X] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [X] review the plan with your DEPO/OCTO representative.
+  - [X] review the release plan with your team.
+     
+NOTE: As this was a general portal update and not a new feature there are no analytics beyond general site traffic to track. We will be monitoring Medallia feedback for any user concerns as well as monitoring for technical issues.
 
 ## Step 3: Production rollout
 
@@ -116,11 +118,11 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (Number of Page Errors):
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
+- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Types of errors logged: [FILL_IN] NO
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
 
 ### Stage B: 50% of users
 
@@ -133,11 +135,11 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (Number of Page Errors):
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
+- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Types of errors logged: [FILL_IN] NO
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
 
 ### Stage C: 100% of users
 
@@ -150,11 +152,11 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (Number of Page Errors):
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: [FILL_IN] N/A as this was a general portal update and not a new feature.
+- Metrics at this stage (Number of Page Errors): N/A as this was a general portal update and not a new feature.
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  NO
+- Types of errors logged: [FILL_IN] NO
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN] None
 
 ## Post Launch metrics
 
@@ -162,25 +164,25 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Number of unique users: [FILL_IN] N/A
+- Post-launch KPI 1 actual: [FILL_IN] N/A
+- Post-launch KPI 2 actual: [FILL_IN] N/A
+- Post-launch KPI 3 actual: [FILL_IN] N/A
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
+- Types of errors logged: [FILL_IN] N/A
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+- If yes, what: [FILL_IN] N/A
 
 ### 1-month results
 
-- Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
-- If yes, what: [FILL_IN]
+- Number of unique users: [FILL_IN] N/A
+- Post-launch KPI 1 actual: [FILL_IN] N/A
+- Post-launch KPI 2 actual: [FILL_IN] N/A
+- Post-launch KPI 3 actual: [FILL_IN] N/A
+- Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN] N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
+- If yes, what: [FILL_IN] N/A
 
 ## Post-launch Questions
 

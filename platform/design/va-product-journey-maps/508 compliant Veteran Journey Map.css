@@ -1,0 +1,617 @@
+/* =========================================================
+   VETERAN JOURNEY MAP - VISUALIZATION STYLES
+   ========================================================= */
+
+/* Root Variables */
+:root {
+  /* Phase Colors */
+  --phase-1-color: #0053BA;
+  --phase-2-color: #00A86B;
+  --phase-3-color: #E31D23;
+
+  /* Moment Types */
+  --moment-standard-color: #505050;
+  --moment-matters-color: #FFB81C;
+
+  /* Service Categories */
+  --category-education-color: #00A86B;
+  --category-healthcare-color: #E31D23;
+  --category-mental-health-color: #9B2D20;
+  --category-employment-color: #0053BA;
+  --category-housing-color: #512E1C;
+  --category-financial-color: #4A90E2;
+  --category-disability-color: #F5A623;
+  --category-community-color: #7ED321;
+
+  /* Typography */
+  --font-family-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --font-family-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+
+  /* Spacing */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --spacing-xl: 2rem;
+  --spacing-2xl: 3rem;
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* ========================================================
+   BASE STRUCTURE
+   ======================================================== */
+
+.veteran-journey-container {
+  font-family: var(--font-family-sans);
+  color: #212121;
+  background: #ffffff;
+  line-height: 1.6;
+}
+
+/* Header/Title Area */
+.journey-header {
+  padding: var(--spacing-2xl);
+  background: linear-gradient(135deg, #0053BA 0%, #00A86B 50%, #E31D23 100%);
+  color: white;
+  text-align: center;
+  border-bottom: 4px solid #212121;
+}
+
+.journey-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+.journey-header p {
+  font-size: 1.1rem;
+  margin: 0;
+  opacity: 0.95;
+}
+
+/* ========================================================
+   PHASE SECTION
+   ======================================================== */
+
+.phase-section {
+  margin-bottom: var(--spacing-2xl);
+  border: 2px solid #e0e0e0;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.phase-header {
+  padding: var(--spacing-lg) var(--spacing-xl);
+  background: linear-gradient(90deg, var(--phase-color, #0053BA) 0%, 
+    rgba(var(--phase-color-rgb, 0, 83, 186), 0.7) 100%);
+  color: white;
+  border-bottom: 3px solid #212121;
+}
+
+.phase-header h2 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0 0 var(--spacing-sm) 0;
+}
+
+.phase-order {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  padding: var(--spacing-xs) var(--spacing-md);
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-md);
+}
+
+.phase-description {
+  font-size: 0.975rem;
+  opacity: 0.95;
+  margin: 0;
+}
+
+.phase-content {
+  padding: var(--spacing-xl);
+  background: #fafafa;
+}
+
+/* ========================================================
+   LIFE STAGE
+   ======================================================== */
+
+.life-stage {
+  margin-bottom: var(--spacing-2xl);
+  background: white;
+  border-left: 5px solid var(--phase-color, #0053BA);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.life-stage-header {
+  padding: var(--spacing-lg) var(--spacing-xl);
+  background: linear-gradient(90deg, rgba(var(--phase-color-rgb, 0, 83, 186), 0.1) 0%,
+    rgba(var(--phase-color-rgb, 0, 83, 186), 0) 100%);
+  border-bottom: 2px solid #e0e0e0;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-lg);
+}
+
+.life-stage-icon {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background: var(--phase-color, #0053BA);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.life-stage-title-group {
+  flex-grow: 1;
+}
+
+.life-stage-order {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+  font-weight: 600;
+}
+
+.life-stage-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: var(--spacing-xs) 0 0 0;
+  color: #212121;
+}
+
+.life-stage-description {
+  font-size: 0.9rem;
+  color: #666;
+  margin: var(--spacing-sm) 0 0 0;
+}
+
+.life-stage-content {
+  padding: var(--spacing-xl);
+}
+
+/* ========================================================
+   MOMENTS
+   ======================================================== */
+
+.moments-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-lg);
+}
+
+.moment {
+  background: white;
+  border: 2px solid #e0e0e0;
+  border-radius: var(--radius-md);
+  padding: var(--spacing-lg);
+  transition: all 0.3s ease;
+}
+
+.moment:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+  border-color: var(--phase-color, #0053BA);
+}
+
+.moment-header {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+}
+
+.moment-indicator {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: var(--moment-type-color, #505050);
+  flex-shrink: 0;
+  margin-top: 0.25rem;
+}
+
+.moment-indicator.standard {
+  --moment-type-color: #505050;
+  border: 2px solid #212121;
+}
+
+.moment-indicator.momentThatMatters {
+  --moment-type-color: #FFB81C;
+  box-shadow: 0 0 0 2px #FFB81C inset;
+}
+
+.moment-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #212121;
+  margin: 0;
+}
+
+.moment-description {
+  font-size: 0.9rem;
+  color: #666;
+  margin: var(--spacing-sm) 0 0 0;
+  line-height: 1.5;
+}
+
+.moment-type-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--radius-sm);
+  margin-top: var(--spacing-sm);
+}
+
+.moment-type-badge.standard {
+  background: #f0f0f0;
+  color: #666;
+}
+
+.moment-type-badge.momentThatMatters {
+  background: #FFB81C;
+  color: #212121;
+}
+
+.moment-that-matters-explanation {
+  margin-top: var(--spacing-md);
+  padding-top: var(--spacing-md);
+  border-top: 2px solid #FFB81C;
+  font-size: 0.875rem;
+  color: #555;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.moment-that-matters-explanation::before {
+  content: "Why it matters: ";
+  font-weight: 700;
+  color: #212121;
+  font-style: normal;
+}
+
+/* ========================================================
+   SERVICES
+   ======================================================== */
+
+.services-section {
+  margin-top: var(--spacing-lg);
+  padding-top: var(--spacing-lg);
+  border-top: 2px solid #e0e0e0;
+}
+
+.services-heading {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+.services-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-md);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.service-item {
+  background: #f8f8f8;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid var(--service-category-color, #0053BA);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-md);
+  transition: all 0.2s ease;
+}
+
+.service-item:hover {
+  background: white;
+  box-shadow: var(--shadow-md);
+}
+
+.service-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #212121;
+  margin: 0 0 var(--spacing-xs) 0;
+}
+
+.service-category {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #999;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.service-category-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--service-category-color, #0053BA);
+  display: inline-block;
+}
+
+/* ========================================================
+   LEGEND
+   ======================================================== */
+
+.legend-section {
+  margin: var(--spacing-2xl) 0;
+  padding: var(--spacing-xl);
+  background: #f8f8f8;
+  border-radius: var(--radius-lg);
+  border: 2px solid #e0e0e0;
+}
+
+.legend-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 var(--spacing-lg) 0;
+  color: #212121;
+}
+
+.legend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.legend-item {
+  display: flex;
+  gap: var(--spacing-md);
+  padding: var(--spacing-md);
+  background: white;
+  border-radius: var(--radius-md);
+  border: 1px solid #e0e0e0;
+}
+
+.legend-icon {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  color: white;
+  flex-shrink: 0;
+  font-size: 0.875rem;
+}
+
+.legend-content h4 {
+  margin: 0 0 var(--spacing-xs) 0;
+  font-size: 0.95rem;
+  color: #212121;
+}
+
+.legend-content p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* ========================================================
+   CROSS-CUTTING TOPICS
+   ======================================================== */
+
+.cross-cutting-section {
+  margin: var(--spacing-2xl) 0;
+  padding: var(--spacing-xl);
+  background: #f0f7ff;
+  border-left: 5px solid #0053BA;
+  border-radius: var(--radius-lg);
+}
+
+.cross-cutting-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 0 0 var(--spacing-md) 0;
+  color: #0053BA;
+}
+
+.cross-cutting-description {
+  font-size: 0.95rem;
+  color: #666;
+  margin: 0 0 var(--spacing-lg) 0;
+}
+
+.cross-cutting-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--spacing-md);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cross-cutting-item {
+  background: white;
+  padding: var(--spacing-md);
+  border-radius: var(--radius-md);
+  border-left: 4px solid #0053BA;
+}
+
+.cross-cutting-item h4 {
+  margin: 0 0 var(--spacing-xs) 0;
+  font-size: 0.95rem;
+  color: #212121;
+}
+
+.cross-cutting-item p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+/* ========================================================
+   FOOTER/ABOUT
+   ======================================================== */
+
+.journey-footer {
+  padding: var(--spacing-xl);
+  background: #212121;
+  color: white;
+  text-align: center;
+  margin-top: var(--spacing-2xl);
+  border-top: 4px solid #FFB81C;
+}
+
+.journey-footer h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 var(--spacing-md) 0;
+}
+
+.journey-footer p {
+  font-size: 0.9rem;
+  margin: var(--spacing-md) 0;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.footer-contact {
+  margin-top: var(--spacing-lg);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.footer-contact a {
+  color: #FFB81C;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.footer-contact a:hover {
+  text-decoration: underline;
+}
+
+/* ========================================================
+   RESPONSIVE DESIGN
+   ======================================================== */
+
+@media (max-width: 768px) {
+  .journey-header h1 {
+    font-size: 1.75rem;
+  }
+
+  .phase-header h2 {
+    font-size: 1.35rem;
+  }
+
+  .life-stage-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .life-stage-title {
+    font-size: 1.25rem;
+  }
+
+  .moments-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .services-list {
+    grid-template-columns: 1fr;
+  }
+
+  .legend-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .cross-cutting-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ========================================================
+   ACCESSIBILITY
+   ======================================================== */
+
+/* Focus styles for keyboard navigation */
+.moment:focus-within,
+.service-item:focus-within,
+.legend-item:focus-within {
+  outline: 3px solid #0053BA;
+  outline-offset: 2px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: more) {
+  .moment,
+  .service-item,
+  .legend-item {
+    border-width: 3px;
+  }
+
+  .phase-header,
+  .life-stage-header {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .moment,
+  .service-item,
+  .legend-item {
+    transition: none;
+  }
+
+  .moment:hover {
+    transform: none;
+  }
+}
+
+/* Print styles */
+@media print {
+  .veteran-journey-container {
+    background: white;
+  }
+
+  .phase-section,
+  .life-stage,
+  .moment {
+    page-break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  .journey-header {
+    background: none;
+    color: #212121;
+    border: 2px solid #212121;
+  }
+}

@@ -1,25 +1,9 @@
 # Release Plan: Accreditation API Integration
 
-Feature Toggle/flag:
-`find_a_representative_use_accredited_models` will be disabled prior to staged rollout and will be enabled as part of the rollout. 
-
-#### Preparing for Release
-- [ ] The integration has been sufficiently tested in Staging
-- [ ] Privacy, Security, IA Readiness Review is completed/closed - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/4234
-
-#### Go/No Go Meeting TBD
-- [ ] Review the release plan
-- [ ] Address any open questions or concerns 
-- [ ] Determine a verdict
-
-**Verdict:TBD**
-
-# Staged Rollout Details
-
-#### Rollout dates: May 22 - June 2, 2025
-1. Stage A: 25% of users - TBD
-2. Stage B: 50% of users - TBD
-4. Stage C: 100% of users - TBD
+**Update as of December 2025**: Due to unexpected data in Staging from the GCLAWS Accreditation API, and the inability to resolve non-Production issues at this time, the team is choosing to forgo the release plan below and instead move forward with Production Testing and Release via the following tickets:
+1. [Testing the Accreditation API in Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126323)
+2. [Enable the Accreditation API Integration in Production
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106367)
 
 ***
 
@@ -42,6 +26,28 @@ While we cannot think of any events that would be critical enough to merit a rol
 4. Follow up in the Slack alert thread with a link to the ticket
 
 ***
+## Release Plan (Legacy) 
+
+Feature Toggle/flag:
+`find_a_representative_use_accredited_models` will be disabled prior to staged rollout and will be enabled as part of the rollout. 
+
+#### Preparing for Release
+- [ ] The integration has been sufficiently tested in Staging
+- [ ] Privacy, Security, IA Readiness Review is completed/closed - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/4234
+
+#### Go/No Go Meeting TBD
+- [ ] Review the release plan
+- [ ] Address any open questions or concerns 
+- [ ] Determine a verdict
+
+**Verdict:TBD**
+
+### Staged Rollout Details
+
+#### Rollout dates: TBD
+1. Stage A: 25% of users - TBD
+2. Stage B: 50% of users - TBD
+4. Stage C: 100% of users - TBD
 
 ## Staged Rollout Metrics
 ### Stage A

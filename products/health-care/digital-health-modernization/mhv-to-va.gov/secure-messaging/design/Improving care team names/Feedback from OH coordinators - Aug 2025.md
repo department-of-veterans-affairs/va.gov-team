@@ -2,12 +2,22 @@
 This doc summarizes feedback from coordinators at Oracle Health sites who manage Oracle pools. Oracle pools are the equivalent of triage groups at VISTA sites. 
 
 Jump to: 
-- Insights...
+- [Insights](#insights)
 - [Question and responses](#questions-and-responses)
 - [Notes](#notes)
 
 ## Insights
-WIP
+**Ticketing**: Request goes through several people. Sometimes takes a long time to complete.
+> "One of the biggest challenge is not having the ability to do simple things and having to put in a request that sometimes takes a week or two."
+
+**Guidance**: No guidance exists for how to word the ticket to request pools right now.
+> "There is no set guidance on how to build a pool. Coordinators just help each other out and show how we each individually do it and the coordinator then develops their own flow."
+
+**Updating providers**: Submitting tickets when providers change.
+> "Currently for [location], our PACTs and Providers have changed significantly and the ticket process is time consuming."
+
+**Veteran vs. Non-Veteran pools**: Submitting tickets for non-Veteran pools too
+> "I do remember being asked to submit tickets for non-veteran facing pools because staff were submitting pool tickets incorrectly or staff were submitting tickets for veteran facing pools without speaking with the coordinator first."
 
 ## Question and responses
 Sylvia Palmer sent coordinators these three questions on 7/31. Two coordinators responded via email so far.

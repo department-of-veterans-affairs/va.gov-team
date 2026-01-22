@@ -1,224 +1,315 @@
-name: "Collaboration Cycle Request"
-description: "Begin engaging with the Collaboration Cycle."
-title: "Collaboration Cycle for [Team Name, Product Name, Feature Name]"
-labels: ["collab-cycle-review", "collaboration-cycle", "CC-Request"]
+---
+name: Collaboration Cycle Request
+description: Begin engaging with the Collaboration Cycle.
+title: Collaboration Cycle for [Team Name, Product Name, Feature Name]
+labels:
+- collab-cycle-review
+- collaboration-cycle
+- CC-Request
 assignees: []
 body:
-  - type: markdown
-    attributes:
-      value: "# Collaboration Cycle"
-  - type: markdown
-    attributes:
-      value: |
-        The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) is where teams who are building products on VA.gov and/or the VA Mobile App get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Teams engage with the Collaboration Cycle throughout their product’s/feature's lifecycle.
-  - type: markdown
-    attributes:
-      value: |
-        Before engaging with the Collaboration Cycle, please review the questions below to help Platform determine what level of support and which touchpoints are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff).)
-  - type: markdown
-    attributes:
-      value: |
-        **Fields marked with an asterisk (*) are required.**
-  - type: markdown
-    attributes:
-      value: "## VFS product or feature information"
-  - type: input
-    id: product-team
-    attributes:
-      label: VFS team name
-      description: 
-      placeholder: 
-    validations:
-      required: true
-  - type: input
-    id: product-name
-    attributes:
-      label: Product name
-      description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
-    validations:
-      required: true
-  - type: input
-    id: feature-name
-    attributes:
-      label: Feature name
-      description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
-    validations:
-      required: true
-  - type: input
-    id: team-label
-    attributes:
-      label: GitHub label for team
-      description: Enter a label from the va.gov-team repo. Your team label must be different than your product label.
-    validations:
-      required: true
-  - type: input
-    id: product-label
-    attributes:
-      label: GitHub label for product
-      description: Enter a label from the va.gov-team repo. Your product label must be different than your team label.
-    validations:
-      required: true
-  - type: input
-    id: feature-label
-    attributes:
-      label: GitHub label for feature
-      description: Enter a label from the va.gov-team repo, if applicable.
-    validations:
-      required: false
-  - type: input
-    id: slack-channel
-    attributes:
-      label: Public DSVA Slack channel for VFS team
-    validations:
-      required: true
-  - type: input
-    id: start-date
-    attributes:
-      label: When did/will you start working on this product/feature?
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: "## Kickoff questions"
-  - type: markdown
-    attributes:
-      value: |
-        Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
-  - type: dropdown
-    id: intended-audience
-    attributes:
-      label: Who is the primary audience for this product?
-      options:
-        - "Individuals (Veterans, their caregivers, families, survivors, or representatives directly supporting a Veteran)"
-        - "Organizations (e.g., VA employees, contractors, representatives working in an organizational capacity, etc.)"
-  - type: dropdown
-    id: visible-changes
-    attributes:
-      label: Will your work result in visible changes to the user experience?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-  - type: dropdown
-    id: mobile-web
-    attributes:
-      label: Where will your product live?
-      description: If you are building a product for VA.gov and the VA Mobile App then you must bring the product through the Collaboration Cycle twice, once for each domain.
-      options:
-        - "VA.gov"
-        - "VA Mobile App"
-    validations:
-      required: true
-  - type: dropdown
-    id: iteration
-    attributes:
-      label: Are you iterating on an existing product or is this a new product?
-      options:
-        - "Iterating on an existing product"
-        - "This is a new product"
-    validations:
-      required: true
-  - type: dropdown
-    id: changes-to
-    attributes:
-      label: Will your work involve changes to...
-      description: For tools and applications, take into account if any static page entry points will need updates. For information and examples of Static vs Dynamic pages, review the [Static vs Dynamic guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/sitewide-content/static-and-non-static-page-documentation.md).
-      options:
-        - "Tools, applications and dynamic pages"
-        - "Static pages"
-        - "Both"
-        - "Other"
-    validations:
-      required: true
-  - type: dropdown
-    id: user-research
-    attributes:
-      label: Are you doing research with VA.gov users?
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
-    validations:
-      required: true
-  - type: input
-    id: form
-    attributes:
-      label: If your work involves changes to any forms, enter VA form numbers.
-      description: Example 10-10EZ-S and 21-526EZ
-      placeholder: 
-  - type: input
-    id: form-link
-    attributes:
-      label: If your work involves changes to any forms, enter the links to the PDFs from Find a Form on VA.gov.
-      description: Use [VA Find a Form](https://www.va.gov/find-forms/). Example https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZ.pdf and https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf.
-      placeholder:
-  - type: dropdown
-    id: analytics-domo
-    attributes:
-      label: Does your product/feature have Google Analytics tracking and a KPI dashboard in Domo?
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
-    validations:
-      required: true
-  - type: dropdown
-    id: other-analytics
-    attributes:
-      label: Do you need to capture any additional analytics or metrics?
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
-    validations:
-      required: true
-  - type: dropdown
-    id: cms
-    attributes:
-      label: Will a VA editor (Drupal) notice this change?
-      description: A VA editor creates content that informs the public about VA facilities - operating hours, services offered at specific locations - or else public content that describes benefits and procedures for applying for them.
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
-    validations:
-      required: true
-  - type: dropdown
-    id: architecture-intent
-    attributes:
-      label: Does your work require non-trivial code changes or involve PII/PHI?
-      description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
-      options:
-        - "Yes"
-        - "No"
-        - "Unsure"
-  - type: markdown
-    attributes:
-      value: "## Artifacts"
-  - type: input
-    id: product-outline
-    attributes:
-      label: Product outline
-      description: Please enter a URL for your product outline. See the [product outline template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
-    validations:
-      required: true
-  - type: checkboxes
-    id: artifact-links-checkbox
-    attributes:
-      label: Verify all relevant materials provided to Governance Team
-      options:
-        - label: I have provided all relevant and up-to-date links, screenshots, images, designs, etc. of the as-is version of the product
-          required: true
-  - type: markdown
-    attributes:
-      value: "## Next steps"
-  - type: checkboxes
-    id: add-labels
-    attributes:
-      label: Add the GitHub labels for your team, product, and feature to this ticket.
-      description: This helps Platform and OCTO track your progress through the Collab Cycle and helps improve overall reporting for all products on VA.gov.
-      options:
-        - label: I acknowledge that I must add the GitHub labels for my team, product, and feature to this ticket. 
-          required: true
+- type: markdown
+  attributes:
+    value: "# Collaboration Cycle"
+- type: markdown
+  attributes:
+    value: 'The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
+      is where teams who are building products on VA.gov and/or the VA Mobile App
+      get feedback and guidance on their product/feature to ensure it meets VA.gov
+      experience standards. Teams engage with the Collaboration Cycle throughout their
+      product’s/feature''s lifecycle.
 
+      '
+- type: markdown
+  attributes:
+    value: 'Before engaging with the Collaboration Cycle, please review the questions
+      below to help Platform determine what level of support and which touchpoints
+      are needed for your work. (Learn more about the [Collaboration Cycle kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff).)
+
+      '
+- type: markdown
+  attributes:
+    value: "**Fields marked with an asterisk (*) are required.**\n"
+- type: markdown
+  attributes:
+    value: "## VFS product or feature information"
+- type: dropdown
+  id: product-team
+  attributes:
+    label: VFS team name
+    description: Select your team from the list (sorted alphabetically). Not seeing
+      your team here? [Add your team to the manifest](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/teams-manifest-user-guide.md)
+    options:
+    - 1010 Health Apps (33001)
+    - Accelerate Cybersecurity Excellence (ACE) (24001)
+    - Accessibility Digital Experience (ADE) (23001)
+    - Accredited Reps. - Accreditation (10001)
+    - Accredited Reps. - Appoint (10002)
+    - Accredited Reps. - Benefits (10003)
+    - Analytics and Insights (23002)
+    - Ask VA (22008)
+    - Authenticated Experience (22001)
+    - BIO Aquia (19002)
+    - BIO HEART (19003)
+    - BIO Huntridge (19004)
+    - BIO Pingwind (19001)
+    - Benefits Management Tools 1 (11001)
+    - Benefits Management Tools 2 (11002)
+    - Benefits Management Tools 3 (11003)
+    - Clinical Design System - Data Visualization Design Patterns (30001)
+    - Conditions (12001)
+    - Content Management System (24002)
+    - Content and Information Architecture (21001)
+    - Core Veteran Experience 1 (22004)
+    - Core Veteran Experience 2 (22009)
+    - Decision Reviews (11004)
+    - Dependents Management Tools (13001)
+    - Design & Forms Systems (23003)
+    - Disability Benefits Crew - Core 526 (12002)
+    - Disability Pathways (12003)
+    - Employee Experience (11005)
+    - Faceted Search (21004)
+    - Facilities (29001)
+    - Financial Management (22003)
+    - GovCIO VEBT (40002)
+    - Governance (23004)
+    - Horizon (31001)
+    - Hydra (32001)
+    - Identity (20001)
+    - Medical Records (31002)
+    - Medications, Medical Devices and Supplies (31003)
+    - Memorials Self-Service (41001)
+    - Messaging (31004)
+    - Mobile App and Platform (22005)
+    - Mobile Feature Support (22006)
+    - My Education Benefits (40003)
+    - Notify Experience (22010)
+    - Notify Platform (22002)
+    - Orion (32002)
+    - Pension & Burial Benefits (13002)
+    - Platform Infrastructure Services (24003)
+    - Platform Security (24004)
+    - Platform Site Reliability Engineering (24005)
+    - Platform Support (23005)
+    - Public Websites (29003)
+    - Reapers (29002)
+    - Ursa Minor (32003)
+    - VA Chatbot (21002)
+    - VES Transition Experience (21003)
+    - VEText (39001)
+    - VFMP Status Integration (33003)
+    - Veteran Support (22007)
+    - Watch Engineers (24006)
+  validations:
+    required: true
+- type: input
+  id: product-name
+  attributes:
+    label: Product name
+    description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
+  validations:
+    required: true
+- type: input
+  id: feature-name
+  attributes:
+    label: Feature name
+    description: See [terms and definitions on products vs. features](https://depo-platform-documentation.scrollhelp.site/getting-started/product-operations-terms-and-definition).
+  validations:
+    required: true
+- type: input
+  id: team-label
+  attributes:
+    label: GitHub label for team
+    description: Enter a label from the va.gov-team repo. Your team label must be
+      different than your product label.
+  validations:
+    required: true
+- type: input
+  id: product-label
+  attributes:
+    label: GitHub label for product
+    description: Enter a label from the va.gov-team repo. Your product label must
+      be different than your team label.
+  validations:
+    required: true
+- type: input
+  id: feature-label
+  attributes:
+    label: GitHub label for feature
+    description: Enter a label from the va.gov-team repo, if applicable.
+  validations:
+    required: false
+- type: input
+  id: slack-channel
+  attributes:
+    label: Public DSVA Slack channel for VFS team
+  validations:
+    required: true
+- type: input
+  id: start-date
+  attributes:
+    label: When did/will you start working on this product/feature?
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: "## Kickoff questions"
+- type: markdown
+  attributes:
+    value: 'Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff)
+      page on Platform Website for detailed information and examples regarding these
+      questions (below).
+
+      '
+- type: dropdown
+  id: intended-audience
+  attributes:
+    label: Who is the primary audience for this product?
+    options:
+    - Individuals (Veterans, their caregivers, families, survivors, or representatives
+      directly supporting a Veteran)
+    - Organizations (e.g., VA employees, contractors, representatives working in an
+      organizational capacity, etc.)
+- type: dropdown
+  id: visible-changes
+  attributes:
+    label: Will your work result in visible changes to the user experience?
+    options:
+    - 'Yes'
+    - 'No'
+  validations:
+    required: true
+- type: dropdown
+  id: mobile-web
+  attributes:
+    label: Where will your product live?
+    description: If you are building a product for VA.gov and the VA Mobile App then
+      you must bring the product through the Collaboration Cycle twice, once for each
+      domain.
+    options:
+    - VA.gov
+    - VA Mobile App
+  validations:
+    required: true
+- type: dropdown
+  id: iteration
+  attributes:
+    label: Are you iterating on an existing product or is this a new product?
+    options:
+    - Iterating on an existing product
+    - This is a new product
+  validations:
+    required: true
+- type: dropdown
+  id: changes-to
+  attributes:
+    label: Will your work involve changes to...
+    description: For tools and applications, take into account if any static page
+      entry points will need updates. For information and examples of Static vs Dynamic
+      pages, review the [Static vs Dynamic guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/sitewide-content/static-and-non-static-page-documentation.md).
+    options:
+    - Tools, applications and dynamic pages
+    - Static pages
+    - Both
+    - Other
+  validations:
+    required: true
+- type: dropdown
+  id: user-research
+  attributes:
+    label: Are you doing research with VA.gov users?
+    options:
+    - 'Yes'
+    - 'No'
+    - Unsure
+  validations:
+    required: true
+- type: input
+  id: form
+  attributes:
+    label: If your work involves changes to any forms, enter VA form numbers.
+    description: Example 10-10EZ-S and 21-526EZ
+    placeholder:
+- type: input
+  id: form-link
+  attributes:
+    label: If your work involves changes to any forms, enter the links to the PDFs
+      from Find a Form on VA.gov.
+    description: Use [VA Find a Form](https://www.va.gov/find-forms/). Example https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZ.pdf
+      and https://www.vba.va.gov/pubs/forms/VBA-21-526EZ-ARE.pdf.
+    placeholder:
+- type: dropdown
+  id: analytics-domo
+  attributes:
+    label: Does your product/feature have Google Analytics tracking and a KPI dashboard
+      in Domo?
+    options:
+    - 'Yes'
+    - 'No'
+    - Unsure
+  validations:
+    required: true
+- type: dropdown
+  id: other-analytics
+  attributes:
+    label: Do you need to capture any additional analytics or metrics?
+    options:
+    - 'Yes'
+    - 'No'
+    - Unsure
+  validations:
+    required: true
+- type: dropdown
+  id: cms
+  attributes:
+    label: Will a VA editor (Drupal) notice this change?
+    description: A VA editor creates content that informs the public about VA facilities
+      - operating hours, services offered at specific locations - or else public content
+      that describes benefits and procedures for applying for them.
+    options:
+    - 'Yes'
+    - 'No'
+    - Unsure
+  validations:
+    required: true
+- type: dropdown
+  id: architecture-intent
+  attributes:
+    label: Does your work require non-trivial code changes or involve PII/PHI?
+    description: If so, you need an [engineering and security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/collab-cycle/architecture-intent-meeting.md).
+    options:
+    - 'Yes'
+    - 'No'
+    - Unsure
+- type: markdown
+  attributes:
+    value: "## Artifacts"
+- type: input
+  id: product-outline
+  attributes:
+    label: Product outline
+    description: Please enter a URL for your product outline. See the [product outline
+      template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
+  validations:
+    required: true
+- type: checkboxes
+  id: artifact-links-checkbox
+  attributes:
+    label: Verify all relevant materials provided to Governance Team
+    options:
+    - label: I have provided all relevant and up-to-date links, screenshots, images,
+        designs, etc. of the as-is version of the product
+      required: true
+- type: markdown
+  attributes:
+    value: "## Next steps"
+- type: checkboxes
+  id: add-labels
+  attributes:
+    label: Add the GitHub labels for your team, product, and feature to this ticket.
+    description: This helps Platform and OCTO track your progress through the Collab
+      Cycle and helps improve overall reporting for all products on VA.gov.
+    options:
+    - label: I acknowledge that I must add the GitHub labels for my team, product,
+        and feature to this ticket.
+      required: true

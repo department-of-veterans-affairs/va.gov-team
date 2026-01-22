@@ -22,9 +22,9 @@ Main technical recommendations and feedback document:
 
 Authentication implementation strategy:
 
-- Sign in Service (SiS) integration approach
-- JWT token flow between va.gov and VASS API
-- Real-world example from Travel Pay implementation
+- One time passcode
+- JWT token flow between va.gov and vets-api
+- Uses redis cache for user session very short lived
 - Authentication sequence diagrams and patterns
 
 ### [🏗️ high-level-architecture.md](./high-level-architecture.md)
@@ -40,9 +40,8 @@ System architecture diagram:
 User flow sequence diagram:
 
 - Step-by-step appointment scheduling process
-- SMS initiation to confirmation workflow
+- Email initiation to confirmation workflow
 - API calls and data flow visualization
-- Veteran interaction points
 
 ### [📊 standard-api-response.md](./standard-api-response.md)
 
@@ -66,7 +65,7 @@ Low Risk One Time Authentication diagrams and implementation ideas:
 1. **Frontend/Backend Split**: Veterans use va.gov interface, staff use Dynamics interface
 2. **Data Storage**: All data stored in MS Dynamics database
 3. **API Layer**: Standardized REST API between va.gov and Dynamics
-4. **Authentication**: Sign in Service (SiS) integration with JWT tokens
+4. **Authentication**: One time passcode with JWT tokens
 5. **Notifications**: VA Notify integration for SMS and email
 
 ## Getting Started
@@ -81,9 +80,21 @@ Low Risk One Time Authentication diagrams and implementation ideas:
 
 The following questions need to be addressed during implementation:
 
+Production keys?
+We need to finalize the development api first. This will have to happen after the new team takes over.
+
+**How will we handle reminders?**
+The new team will be onboarded to VANotify and a dynamics action will trigger the reminder when it's needed
+  - Pros:
+    - No split brain problems
+
 ## Dev access
 
-- Can we get access to a lower environment (sandbox) to play with
+- We have access to a dev environment referred to as Dev R&D
+- Includes link to interactive swagger
+- We have access to dynamics system that the staff uses to manage appointments
+- TODO: Postman collection to be added here(keys and instructions will be in onboarding email)
+- Can only be accessed on network GFE or Remote Desktop
 
 ### Infrastructure & Operations ([recommendations.md](./recommendations.md))
 

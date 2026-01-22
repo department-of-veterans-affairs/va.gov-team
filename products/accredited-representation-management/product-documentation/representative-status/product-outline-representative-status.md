@@ -45,6 +45,9 @@ There is not currently an experience on VA.gov for users to understand their cur
 **Domo Dashboards**
 1. [Accredited Representation Managment](https://va-gov.domo.com/page/1897070864) - User trends for ARM products
 
+**Future Ideas for Measuring Success**
+1. Sign ins from the unauthenticated Widget are on-par or above the "standard" sign in rate for VA.gov
+
 ## **Release History**
 
 #### Version 1.0 (Widget MVP) | [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-1.0.md) and [Demo Video](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Representative%20Status%20Widget%20Demo.mp4?csf=1&web=1&e=nMo14H)
@@ -97,6 +100,10 @@ Longer term ideas are stored in our [ARM Future Ideas](https://dvagov.sharepoint
 2. [Decision and Change Log: Representative Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status/decision-change-log-representative-status.md)
 3. [Representative Status Widget Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status/technical-documentation/product-playbook-incident-response-plan.md)
 4. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status/contact-center) (with screenshots)
+
+Related Profile documentation
+1. [Figma files](https://www.figma.com/design/FTwQPg1HxfiYsSh0e1HqvN/Profile---Dependents-and-contacts?node-id=1-27&t=Q8Naquq1eob20Deg-1)
+2. [GH use case documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
 
 ## **Communications**
 

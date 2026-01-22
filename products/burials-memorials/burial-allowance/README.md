@@ -20,8 +20,8 @@ VA Form 21P-530 (Application for Burial Benefits) enables eligible individuals t
 ## Incident Response
   - [Product Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/Product_Playbook_Security.md)
   - Points of contact for your system and dependent VA back-ends
-     - Front End: Sean Midgley
-     - Backend: Thomas Blackwell
+     - Front End: Todd Rizzolo
+     - Backend: Matt Knight
   - DataDog Dashboard | [Burial Benefits 530 errors](https://vagov.ddog-gov.com/monitors/184389?view=spans)
   - DataDog Dashboard | [Benefits - Form 530 Burial Claims](https://vagov.ddog-gov.com/dashboard/q5u-4h7-bfh/benefits---form-530-burial-claims?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1716406091146&to_ts=1718998091146&live=true)
 
@@ -101,20 +101,20 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Team
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
-- Product Owner: Emily Theis (emily.theis@va.gov)
-- VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
+- Product Owner: Sanja Bajovic (Sanja.Bajovic2@va.gov)
+- VBA Stakeholders and SMEs: Eric Henne, Derek Uttley
   
  Non-Disability Experience Team: 
-- Product manager: Laura Steele
-- Design and Research: Julie Pedke and Fiorella Geedi
-- Engineering: Thomas Blackwell (lead), Dakota Larson, Sean Midgley
-- Delivery: Sarah Ortiz Shields
+- Product manager: Matt Reilly
+- Design and Research: Skyler Schain and Elisabeth Chin
+- Engineering: Matt Knight (lead)
+- Delivery: Anh Platt
 
 
 #### Stakeholders
 
-- VBA Stakeholders and SMEs: Eric Henne, Terrence Minyard, Chelsey Carlin, Maureen Domzalski, Jennifer Feuer, Derek Uttley
+- VBA Stakeholders and SMEs: Eric Henne, Derek Uttley
 - CAIA Team (content review)
 
 #### Privacy officer
- - Renu Roy (renu.roy@va.gov) 
+ - Dontrell Wiggins (dontrell.wiggins@va.gov) 

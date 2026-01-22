@@ -64,10 +64,67 @@ The following changes will be part of a future iteration phase
 - Adjust search for Resources and Support searching only
 
 ### Discovery to inform iteration 
-Efforts to inform this iteration with Veteran feedback
+#### Efforts to inform this iteration with Veteran feedback
 - [#19090 Good/Bad rating - update submitted feedback success message #19090](https://app.zenhub.com/workspaces/vagov-sitewide-product-team-6645154188a81a1f7a0a9464/issues/gh/department-of-veterans-affairs/va.gov-cms/19090) will simplify the feedback process and enourage high participation by presenting the Medallia survey after a user rates a R&S page, with hopes that we will receive more actionable qualitative feedback
 - Veteran usability research will be conducted using a prototype of the redesigned search experience
 
+#### Analytics for Tag chip clicks
+
+**January 2025 👉🏼 Views = 2787934; Tag clicks = 29**
+Tag Name | Number of Clicks 
+---| :---: |
+| All veterans | 14 | 
+| sign-in | 2 | 
+| family members and caregivers | 2 | 
+| claims and appeal status  | 2 | 
+| payments and debt | 2 | 
+| service members | 1 | 
+| Vietnam war veterans | 1 | 
+| gulf war veterans | 1 | 
+| women veterans | 1 | 
+| native American veterans | 1 | 
+
+**February 2025 👉🏼 Views = 2074420; Tag clicks = 32**
+Tag Name | Number of Clicks 
+---| :---: |
+| All veterans | 15 | 
+| sign-in | 3 | 
+| family members and caregivers | 3 | 
+| claims and appeal status  | 3 | 
+| payments and debt | 2 | 
+| service members | 1 | 
+| Vietnam war veterans | 1 | 
+| gulf war veterans | 1 | 
+| women veterans | 1 | 
+| native American veterans | 1 | 
+
+ **March 2025 👉🏼 Views = 2189415; Tag clicks = 29**
+Tag Name | Number of Clicks 
+---| :---: |
+| All veterans | 15 | 
+| sign-in | 3 | 
+| family members and caregivers | 2 | 
+| claims and appeal status  | 2 | 
+| payments and debt | 2 | 
+| service members | 1 | 
+| Vietnam war veterans | 1 | 
+| gulf war veterans | 1 | 
+| women veterans | 1 | 
+| native American veterans | 1 | 
+
+ **1st Quarter 2025 👉🏼 TotalViews = 7,051,769 ; Total Clicks = 90**
+Tag Name | Number of Clicks 
+---| :---: 
+| All veterans | 44 | 
+| sign-in | 8 | 
+| family members and caregivers | 7 | 
+| claims and appeal status  | 7 | 
+| payments and debt | 6 | 
+| service members | 3 | 
+| Vietnam war veterans | 3 | 
+| gulf war veterans | 3 | 
+| women veterans | 3 | 
+| native American veterans | 3 | 
 
 ## Design
 - [Figma](https://www.figma.com/design/cg8VNnxFOxw7lb10FVHpi5/VA-Resources-support-template?node-id=198-5737&node-type=section&t=G7yoxBvukRBiwCbI-0)

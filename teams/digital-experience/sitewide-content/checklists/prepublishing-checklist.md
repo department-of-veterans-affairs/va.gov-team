@@ -26,7 +26,7 @@
 - [ ] Make sure all apostrophes and quotation marks are curly not straight. (Once this is automatic in Drupal, we can remove this item.)
 - [ ] If there are alerts at the top of the Drupal Edit node for broken links, redirected links, or links to unpublished pages, correct the issues. If there's an alert for a broken link but the link is actually working, report the issue to the CMS help desk. [Read more about link alerts in the CMS knowledge base](https://prod.cms.va.gov/help/cms-basics/how-to-fix-broken-links-and-redirects)
 - [ ] If publishing a brand-new page, confirm the left nav and url are set up correclty. (If the page is a child page, the section needs to be the same as the parent page in order for the left nav to show.) [Learn how to set up a url and left nav in Drupal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/how-to-do-different-tasks/adding-left-nav-and-url.md)
-- [ ] Check if the page has a new or updated alert. If so, publish the alert separately. 
+- [ ] Check if the page has a new or updated alert. If so, publish the alert separately.
 
 ### Additional checks for translated articles
 [Find list of translated articles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/translation-work/list%20of%20translated%20pages.md)
@@ -41,6 +41,7 @@
 - [ ] When considering the wording for your CTA text, check to see if a label is already in use for this CTA on VA.gov. Reuse existing CTA text when possible. [Check the master list of labels for buttons and action links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/resources-and-support/rs-cta-button-audit.md)
 - [ ] If linking off of VA.gov, make sure the words in the text link, action link, or button indicate to the user that they're leaving VA.gov.
 - [ ] Confirm that screen shots or other images have alt text that describes the image. Screen readers will read this text to the user, and search engines use it to assess the purpose of the page. [Learn how to write alt text on WebAIM](https://webaim.org/techniques/alttext/)
+- [ ] If the page is moving from a hub to R&S, check that the left nav link in the hub is updated with the new link.
 - [ ] **For multiple FAQs:** First publish each single Q&A and then publish the multiple FAQ.
 
 **Also confirm these components are checked in the Drupal file:**</br>

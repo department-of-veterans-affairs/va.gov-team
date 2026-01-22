@@ -10,7 +10,14 @@ assignees: ''
 ## Description
 _Provide the description of the feature_
 
+## Appointment systems affected
+Check all appointment systems affected by or relevant to this feature
 
+- [x] vistA
+- [x] HSRM
+- [x] CERNER (OH)
+- [ ] N/A
+      
 ## Requirements
 
 - [ ] TBD

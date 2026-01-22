@@ -21,12 +21,8 @@ This research initiative supports the following OCTO priorities:
 
 ## Veteran Journey
 When Veterans need to check on the status of their VA claims, decision reviews, or appeals, they use the Claim Status Tool to stay updated on these important steps. This supports the following moments:
-
-- Getting Out  
-- Starting Up  
+ 
 - Taking Care of Myself (e.g., managing ongoing disability claims and evidence submission)  
-- Putting Down Roots
-
 ---
 
 ## Research Goals
@@ -48,7 +44,6 @@ This research will give us a better understanding of claimants’ experience of 
 
 ### Goal 1: Evaluate Veterans’ comprehension of the evidence requests
 - Do Veterans understand what VA is asking them to provide in specific evidence requests?  
-- Can Veterans distinguish between evidence requests directed to them (first party) versus requests to third parties?  
 - How effectively can Veterans understand what action they need to take?  
 
 ### Goal 2: Assess the effectiveness of the new content structure
@@ -56,13 +51,12 @@ This research will give us a better understanding of claimants’ experience of 
 - Do participants find some response options more difficult or confusing than others (e.g., uploading documents, navigating to a VA form and choosing to download or submit it online, making a change in their My VA)?  
 
 ### Goal 3: Assess Veterans’ ability to navigate/locate features and content that support evidence requests
-- How effectively can Veterans locate the associated claim letter when prompted?  
-- What are some pain points Veterans experience navigating between CST and the claim letters section?
+- How do Veterans navigate the context surrounding the evdence request submission?
 
 ---
 
 ## Hypothesis
-- Claimants find VA jargon confusing and are often unsure what they are being asked to provide. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.  
+- Claimants are unsure what they are being asked to provide for an evidence request. When we offer plain language explanations and descriptions of the actions they need to take, along with hyperlinks, claimants' confidence and trust are increased.  
 - Claimants have concerns about whether VA is taking sufficient action on their claims. Understanding the requests that are being made of 3rd parties can reduce those concerns. However, when that information is unintelligible, it raises those concerns.
 
 ---

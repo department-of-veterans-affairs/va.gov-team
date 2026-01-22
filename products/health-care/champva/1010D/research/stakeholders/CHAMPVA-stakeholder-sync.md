@@ -1,12 +1,203 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## 01/20/26
+**Attendees**
+- Angela P, Angela C, Ballard M, Cindy C, Rogelio C, Kimi Sato, Elizabeth S, Elizabeth L,
+- Jon, Amanda K, Premal S, Mike M, Andrea M, Hieu V
+
+### Notes
+- Premal ask how the 10-10D is going. No response from the stakeholders, so that is a positive sign
+- OHI attachment averages about 2 per upload
+- Medicare effective dates: Premal wants to clarify that the 10-10D now has the effective date for 12 months out.
+- Andrea notes that the 10-10D now has MBI.
+
+**Questions:** 
+- We receive feedback for the emergency provider and after the fact
+  - Angela was not aware of the requirement, will talk to SME.
+  - Angela notes that it is better for the team to put it in an email and include Kimi S, Luke, Elizabeth L, and Alysia K.
+- Team wants to confirm that the Part C Pharmacy portion was removed from the PDF the online can match. Angela confirmed that is the case, it can be removed. 
+- Sendback letter BCBU. Angela followed up with SME to respond to the email with the sendback question. 
+- Sendback letter for apps. 
+  - Premal explains how the team is trying to get a rough count number for the metric.  Regelio noted that DCG1 (print vendors) is responsible for sendback letter. Angela P notes that they’re always counted but it is currently not being tracked because dashboard is is not fully developed. Angela C noted that DCG1 print occurs through VES.  
+  - VFMP will get us the sendback letter counts.
+  - Angela C noted that it will be 1 sendback letter (printed by DCG1) for for multiple missing documents from VES. Amanda asked if that is also includes multiple Bene would included in that 1 letter. Angela noted that each Bene has their own letter.
+  - Action Item: Champa Service Blueprint needs to be updated. 
+  - Elizabeth notes that everything gets processed including incomplete and deny. So they can always update later. 
+
+**Misc:** 
+- Premal asked the VES status. Premal explains that the form goes to PEGA right now, not VES. Mike notes there are 1015 from Cindy from us to VES. 
+- Elizabeth notes that MPI is the authority so different sex, name, etc, MPI would overrule what is on elsewhere.
+- Elizabeth L, attended SVA (Student Veteran Association in Colorado) conference, because of the work we do, they were able to have PR code have the students fill it right then and there. It is so impactful. People cried. 
+- Premal will introduce the Status Tool and introduce the team as well.
+- Elizabeth in Teams chat: Do we have a time frame when Benes can print their own A cards? Handbook Link? Angela P notes that they cannot put it on Va.gov but on Champva site (not longer exist)
+- Andrea would like to clarity around the Handbook link. Angela noted that the link is provided on the A card. 
+
+
+## 01/06/26
+
+**Agenda**
+
+* Age-based birth cert logic
+* 10-10d v2 launch updates
+
+**Attendees**
+Renata K., Mike M., Andrea M., Premal S., Amanda K., Cindy C., Angela P., Kimi S., Tammy T., Rogelio C., Angela D., Gina L., Ballard M., Elizabeth S.
+
+### Notes
+
+**Age-based birth cert logic**
+
+* Renata walks through the new birth cert. flow in the Applicant chapter to allow users to add a newborn's birth certificate
+* **Decision:** Rogelio C. confirms that under 12 months old is considered a newborn by CHAMPVA. Team would like this documentation from everyoneThis should be a required screen for everyone, not optional (remove optional language?).
+* **AI:** UX to add in required status on the birth cert upload page, update age-based logic, hand off to engineers
+
+**10-10d v2 launch updates**
+
+* Have there been any trends in 10-10d/OHI processing?
+     * No trends yet, haven't gone into the data
+     * Rogelio reports a little over 5,271 OHI cert coming in from VA.gov
+* Is the backlog going down?
+     * Tammy announces that OHI backlog is back up to over 50k (was down to 20k at one point). OHI team needs to dig in to see if that's OHI certs or coming in from VA.gov, or by mail.
+     * Elizabeth S. says they're getting between 2-3,000 OHIs per day (including health insurance cards)
+     * Tammy: the submission numbers are jumping up and down, haven't been able to investigate why
+* Cindy C. says that OHI cert numbers in Pega are filtering down by PDF without the cards, as of January (released in December). This means the metrics we pull from Pega every month should be more accurate
+* **AI:** Premal would like the OHI/EEV team to report back if they're seeing more duplicate health insurance card uploads so we can change that behavior on the frontend if needed. Follow up on this item from time to time. 
+
+## 12/09/25
+
+**Agenda**
+
+* Updates on the 10-10d v2 launch
+* Reminder regarding birth certificates in 10-10d/10-7959c
+* Dropoff rate in 10-10d in November
+
+**Attendees** 
+Renata K., Hieu V., Andrea M., Mike M., Cindy C., Keith B., Rogelio C., Elizabeth L., Ballard M., Angela C., Premal S., Angela P., Joie T., Tammy T., Elizabeth S., Arleen S. 
+
+### Notes
+
+**Updates on the 10-10d v2 launch**
+
+* Mike M.: 10-10d v2 launched last Monday, but it was turned off within 45min because of a bug (5 submissions were completely blank outside of some light contact information)
+  * Reached out to the contact team to tell the users so they can resubmit. Everyone was contacted
+    * Premal asks if we'd heard back from anyone about the missing statuses on forms (Keith says no)
+  * Mid-last week, form was turned back on and went to 25% rollout with no issues
+  * Increased to 50% of logged in users as of yesterday 
+  * We are seeing an increase in OHI uploads (both original applicant as well as all applicants attached)
+* Premal asks about the current backlog and when they will currently start to be processed
+    * Elizabeth L says they're 7 days out in the backlog, so next week for sure (as of today, processing apps from 12/1-3). 
+    * Andrea M. notes that the first apps may hit in the next day or two, actually. Between Wednesday and Friday there were 26 applications
+    * Premal notes there are about 50% new applications (1010dx). Asks that the applications team flag anything of note
+* **AI:** Health Apps team to share analytics (Tammy T. specifically wants them)
+    * Mike M. to talk to engineers to find the right app to look at in the Pega instance
+
+**Reminder regarding birth certificates in 10-10d/10-7959c**
+
+* Mike notes that back in April there was a discussion around requirements-setting for the 10-10d v2
+  * On the PDF stamping, no matter what relationship the child has to the sponsor, they're stamped with a generic "Child" status.
+    * Health Apps is concerned that will introduce some confusion. If adopted/step-child, it will be stamped "child" but have a birth cert attached. If bio child, it will be stamped "child" with no birth cert attached
+    * Premal notes PDF stamping = just what we print in that field on the PDF
+  * Health Apps discussed possibly changing how that's stamped
+    * **Decision**: Angela C. says it would be nice to have that change in the stamping, but ultimately the team does go look to verify that information.
+      * **AI:** team to look into updating stamping by child-type
+    * Elizabeth L. asks where in the form that's asked (Mike M. explains it)
+        * Elizabeth L. asks that it be stamped as CHILD but indicated what type of child the user selected. 
+        * Mike M. notes that in the meantime teams should know if a PDF is currently stamped "CHILD" but there's no birth cert, it means it's a biological child. 
+  * Elizabeth L. brings up newborn cases: "we may be the first person we report a newborn to" because adding a second dependent won't change payments on the VBA side, but updating health benefits will confer health insurance to the newborn child. 
+    * In these cases, the user needs to provide a birth cert since it's the first instance of a dependent in the system. 
+    * Keith shares an example: "an app rerouted back to Lead of the Week because it is a newborn baby application, currently in the NICU being treated for serious illness/"
+    * In a newborn case, CHAMPVA issues a HEC alert to notify the rest of VA that there's a newborn associated with the Veteran, to add to VBMS
+    * **AI:** Health Apps team to work on a solution for adding birth cert for a newborn (and newborns-only)
+* Premal asks what VES will show
+    * Elizabeth L. says that they're in VES and working in it right now (clarification: paper-only). 
+    * Premal asks that Elizabeth L. share what they're seeing in VES (what's sending to VES vs. what's displaying).
+    * **AI:** Health Apps to check what it shows in VES (work with Elizabeth and team to clarify that)
+
+**10-10d drop-off rate**
+
+* In monthly metrics, we saw a roughly 30% drop-off in submission volume for the 10-10d 
+* Is this drop-off normal?
+    * Rogelio C. asks if this is specific to VA.gov submissions?
+    * Mike M. clarifies no, this is total submission volume
+    * Rogelio says they'll need to look at a couple of years of submission volume
+    * Some discussion about how historic data has it difficult to parse because of changes to eligibility and Veteran benefits enrollment (PACT Act)
+    * Eligibility team also notes that the backlog has been worked through, so this may also be a combination of duplicates dropping off, and people actually getting enrolled
+    * **AI:** Rogelio and Elizabeth to report back with annual submission volume (if we normally see a drop in the fall/winter). 
+
+
+## 11/25/25
+
+**Agenda**
+- MBI number for OHI Cert
+- Future effective dates and allowing users to report their Medicare before it is current
+
+**MBI number**
+- Noted that MBI number is on the new PDF, but not a field in the digital forms (standalone and 10-10d OHI subform). Currently we collect that information through front/back Medicare card uploads, which are required. Does the team want us to include a field for adding the MBI?
+  - **Decision:** Angela P. says yes, but ultimately Tammy is the SME who can make these decisions
+- Andrea asks: are MBI's consistent to the individual regardless of plan?
+  - Unclear, check with Tammy
+- VA.gov team makes it clear that the upcoming 10-10d (with OHI subform) release will not include a field for the MBI number, but team will be able to pull that from card uploads. Standalone OHI will also be missing MBI field until we bring in the work to update the digital form to align with the new PDF. 
+  - Angela acknowledges this fact. No need to action this right now, the team is aware that the 1010d with OHI subform will be released 12/1 without this field, and will be updated once there's sign-off from Tammy.
+
+**Future effective dates and allowing users to report their Medicare before it is current**
+- Premal mentions potential congressional inquiry and helpdesk requests around this issue (not allowing users to report Medicare with future effective dates), it's been a consistent user request in feedback.
+  - Angela checks notes about congressional inquiry and we do want users to be able to report future effective dated Medicare
+  - **Decision:** Angela would like to see future effective dates added and to be resolved before the end of the year
+- Premal wants to understand how "future" is allowable (6 months? 90 days? 30 days?) and how the business currently handles it.
+  - Angela would like all these questions in a follow-up email to Tammy and her employee
+  - Premal suggests we default to whatever the future maximum exists on CMS, and maybe not require the card upload if users don't have the card yet
+  - Mike mentions actual implementation should be fairly quick, Renata notes that content tweaks would be minor and mostly reducing content, as opposed to adding it (aside from telling users how to report their Medicare cards if they don't have them at the time of pre-enrollment)
+ 
+**Other topics**
+- Premal has a question about a related OCTO team handling an OHI backlog (130,000 forms down to 39,000): there seems to be a way to close out an OHI document without actually looking at it. Is there a way to collect OHI documents without looking at them?
+  - This team collected all OHI documents and put everything in a batch into CP&E and batch close OHIs. You can go in and make sure the documents are associated and the same as what's in the form without checking first.
+  - In the latest Pega release, insurance cards with be mapped to OHI cards, not separate OHI submissions.
+  - This will make it easier to see individual form submissions vs. all the associated supplemental documents in Pega
+- Angela gives the whole team kudos for all the continuous improvement
+
+**Action items**
+- Send an email to Tammy and her employee (w/ Keith cc'd) about MBI and future effective dates
+
+## 09/30/25
+
+**Agenda**
+- How to handle the question for prescription coverage for OHI (follow-up on email sent 09/26/30)
+- Confirm if users can fax their completed applications and supporting docs for their first application
+- Updates to 10-10d/10-7959c launch
+
+**OHI prescription coverage question**
+
+- Walkthrough of the standalone OHI form, where we still ask prescription coverage question (question was omitted from 10-10d/10-7959c merged experience
+- Question from Health Apps team: should we still include the prescription coverage question on the front-end? In the standlone form only, or in both the standalone OHI and the 10-10d/10-7959c?
+- Question from Health Apps team: if we omit this screen from one or both forms, should the PDF form include the "yes" checkbox marked? "no"? Or no checkbox marked on the PDF?
+  - Angela C.: this is a question for OHI/Tammy, who should be the sole decision-maker.
+- **Action item:** Health Apps team to follow-up with Tammy on how to handle this question
+
+**Confirm if users can fax their completed applications and supporting docs**
+
+- Health Apps walks through a post-MVP improvement to the 10-10d/10-7959c, which will allow users to print a copy or save a PDF of their CHAMPVA benefits application. If the submission fails, users will be informed on the Review screen that they can download their completed application and submit it other ways. This feature has already been launched on the 10-10EZ and more recently on the 10-10EZR and has relatively high usage from users. It's been requested for CHAMPVA forms as well, as many users screenshot the review screen. 
+- Question from Health Apps team: is the 303 number the correct fax number for 10-10d and supporting docs?
+  - Rogelio C.: confirms that's the correct fax number for 10-10d apps
+- **Action item:** Health apps team to launch print/save PDF after the MVP launch of the new 10-10d/10-7959c (exact date TBD)
+
+**Updates to 10-10d/10-7959c launch**
+
+- Health Apps team provides updates to the 10-10d/10-7959c launch plan and timeline:
+  - Currently wrapping up loose ends with testing in PEGA
+  - Between those efforts and the possible government shutdown, the team anticipates a later launch date than given at our last meeting (9/29 or 9/30 was given at 09/16/25)
+  - Current expected launch date is TBD (pending completion of PEGA testing, etc.)
+- Question from Health Apps team: is 24-hours notification heads-up acceptable before going to launch?  
+  - Angela P.: 24 hours notice is fine
+- **Action item:** Health Apps team to provide 24 hours notice before launching 10-10d/10-7959c
+
+
 ## **09/16/25**
 
 **Attendees:** Anne R., Cindy Carr, Eileen Cook, Rachel P., Renata, Jamie, Ballard M., Premal, Amanda, Angela P., Angela C., Elizabeth Lightfritz
 
 **Agenda**
-Discuss rollout plan for lauching the 1010d OHI merged form
+- Discuss rollout plan for lauching the 1010d OHI merged form
 
 * Renata reviewed the rollout plan with partners: we are keeping the 1010d standalone (without the fully integrated OHI form live during the launch of the merged 1010d/OHI form in. We will roll out the merged form in stages starting with having it available to 25% of users starting on 9/29/25. We will increase it to 50%, 75% and 100% after that. This will take a week to get to 100% launched. We will continue to monitor for issues after that. 
 * [Link to the form on the staging site](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-champva-form-10-10d/introduction)
@@ -18,6 +209,8 @@ Discuss rollout plan for lauching the 1010d OHI merged form
 * Spot checking submissions for roll out: Elizabeth Lightfritz would know who to spot check. She will follow up after the call with 2 people from her team that can help with that
 * IVC to send the partners a recorded walkthrough of the 1010d/OHI
 * IVC discusses benefits of the OHI merge: It will reduce duplicate HI cards and reduce redundant questions between the applications and OHI and limit duplicate OHI form from being submitted. They are further iterations coming shortly that will better clarify that they are submitting the OHI cert with the application to further prevent duplicate OHI submissions
+
+
 ## **07/22/25**
 
 **Attendees:** Anne R., Cindy Carr, Eileen Cook, Mike M., Rachel P., Renata, Jamie, Andrea, Ballard M., Premal, Amanda, Angela P., Angela C.

@@ -23,7 +23,7 @@
 * Date Range End \- `Select range`
 * Product Name(s) \- `Identity, authentication, sign in, terms of use `
 * Product Description  
-   * ```Identity team products cover authentication. We connect sign-in credentials (from ID.me, Login.gov, MHV, and DSLogon) to both VA.gov and the VA mobile app. We also own the universal sign-in page and modal, Terms of Use page, and all sign in flows from any page on VA.gov, like sign in widgets. Our major initiatives currently include deprecating MHV and DS Logon sign-in methods and working on a delegate access or caregiver access solution```
+   * ```Identity team products cover authentication. We connect sign-in credentials (from ID.me, Login.gov) to both VA.gov and the VA mobile app. We also own the universal sign-in page and modal, Terms of Use page, and all sign in flows from any page on VA.gov, like sign-in alert widgets.```
    * Survey URL(s), key term(s), case category or type  
    > * URLs - can really be anything across the site, since sign in is initiated from many different pages and the sign in modal appends to the end of most pages as  `/?next=loginModal` We’d like to see feedback from all pages around the site where folks mention sign-in related products. That said, URLs of particular interest:
    >- Pages our team owns:
@@ -59,7 +59,7 @@
 * Date Range End \- ``Select range``
 * Product Name(s) \- ``Identity, authentication, sign in, terms of use`` 
 * Product Description  
-   * ``Identity products cover authentication. We connect sign in credentials (from ID.me, Login.gov, DSLogon, and formerly MHV) to both VA.gov and the VA mobile app. We own the universal sign in page and modal, Terms of Use page, and all sign in flows starting from any page on VA.gov, like sign in alert widgets.``  
+   * ``Identity team products cover authentication. We connect sign-in credentials (from ID.me, Login.gov) to both VA.gov and the VA mobile app. We also own the universal sign-in page and modal, Terms of Use page, and all sign in flows from any page on VA.gov, like sign-in alert widgets.``  
    * Survey URL(s), key term(s), case category or type  
      * Navigation Issues | Account Sign In  
      * Navigation Issues | Identity  

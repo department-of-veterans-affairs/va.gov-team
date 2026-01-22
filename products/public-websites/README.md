@@ -1,10 +1,10 @@
 # Public Websites Portfolio
 
 ## PW Contact
-April 2022: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
+Last Updated 11/14/2025: Public Websites products are currently maintained by the [Sitewide Public Websites team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/sitewide/public-websites). 
 (Previously by [VSA Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/public-websites).)
 
-VA Product Owner = Michelle Middaugh 
+VA Product Owner = Randi Hecht 
 
 ### Intake
 If you need help with a product listed below, file a [Public websites intake ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jilladams%2CFranECross&labels=Public+Websites%2CNeeds+refining&projects=&template=public-websites-intake.yml&title=PW+intake%3A+%3CType+of+Request%3E+from+%3CTeam%3E) and post the link to the team's slack channel, listed below. 
@@ -15,7 +15,7 @@ All requests will be refined and planned according to other team priorities, so 
 - [#sitewide-public-websites](https://dsva.slack.com/channels/sitewide-public-websites)
 
 ### Github / work tracking
-- [va.gov-cms Sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1442/views/1) (in Github Projects. The `sitewide` label must be applied for issues to appear in the board.)
+- [va.gov-cms Sprint board](https://github.com/orgs/department-of-veterans-affairs/projects/1442/views/1) (in Github Projects, VA.gov Public Websites and Facilities Product team must be added (in the right panel, under Projects).
 - Team labels: `Public Websites`. `sitewide`
 
 ### Monitoring
@@ -32,13 +32,13 @@ Monitors for each product are described within product folders. e.g.
 
 ## 
 
-| [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) |
+| [CMS content / functionality](#cms-content--functionality) | [Non-CMS content / products](#non-cms-content--products) | [Previous PW Projects](#previous-pw-projects) / No longer supported |
 | ------------- | ------------- | ------------- |
 | [Benefits Hub Landing Page](#benefits-hub-landing-page) | [Discharge upgrade wizard](#discharge-upgrade-wizard) | [Appeal Modernization Process](#appeal-modernization-process) |
 | [Benefits Detail Page](#benefits-detail-page) |  [Header / footer injection](#header--footer-injection) | [Disability rating calculator](#disability-rating-calculator) |
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Income limits web application](#income-limits-web-application) | [Downtime messaging](#downtime-messaging) |
 | [Events](#events) | [Sitewide Content Redirects](#sitewide-content-redirects) | [Harassment Reporting Tool](#harassment-reporting-tool) |
-| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
+| [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) (Never released/only on Staging) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) |[Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
 | [VA.gov Homepage](#vagov-homepage) | . | [Promo Banner](#promo-banner) | 
@@ -47,6 +47,10 @@ Monitors for each product are described within product folders. e.g.
 | [Reusable Q&A](#reusable-qa) | . | .  |
 | [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
+| - | - | On-site Search |
+| - | - | Global Header and footer |
+| - | - | [Event - Currently published Events](https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All) |
+| - | - | [Events listings](https://www.va.gov/outreach-and-events/events) |
 
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
@@ -65,8 +69,6 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 - [ ] Benefits Detail Page - e.g. https://www.va.gov/health-care/
 - [ ] Benefits Hub Landing Page - e.g. https://www.va.gov/health-care/about-va-health-benefits/
 - [ ] Campaign Landing Page - Currently published CLPs: https://prod.cms.va.gov/admin/content?title=&type=campaign_landing_page&moderation_state=published&owner=All
-- [ ] Events Listing - https://www.va.gov/outreach-and-events/events - co-owned with Facilities
-- [ ] Event - Currently published Events (check several): https://prod.cms.va.gov/admin/content??title=&type=event&moderation_state=published&owner=All
 - Resources & Support content types
     - [ ] FAQ page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=faq_multiple_q_a&moderation_state=published&owner=All
     - [ ] Resources and Support Detail Page - CMS examples: https://prod.cms.va.gov/admin/content?title=&type=support_resources_detail_page&moderation_state=published&owner=All
@@ -79,6 +81,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
     - [ ] Support Services
 - [ ] Full width alert - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=banner&moderation_state=published&owner=All)
 - [ ] Promo banner - [Currently published examples](https://prod.cms.va.gov/admin/content?title=&type=promo_banner&moderation_state=published&owner=All)
+- [ ] News block - (Currently published example: https://www.va.gov/ (the VA News block half-way down the page)
 - [ ] Outreach Hub (Until deprecation) - https://www.va.gov/outreach-and-events/outreach-materials/
 - [ ] Translations widget - e.g. https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/
 - [ ] VA Benefits taxonomy - (Drupal only) - https://prod.cms.va.gov/admin/structure/taxonomy/manage/va_benefits_taxonomy/overview
@@ -86,12 +89,12 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 ### React Applications: 
 - [ ] Discharge upgrade wizard - https://www.va.gov/discharge-upgrade-instructions/
 - [ ] Income Limits app - https://www.va.gov/health-care/income-limits/introduction
-- [ ] PACT Act app - Not yet shipped (12/24): https://staging.va.gov/pact-act-eligibility/introduction
+- [ ] PACT Act app - Not released to Prod - mothballed (12/24): https://staging.va.gov/pact-act-eligibility/introduction
   
 </details>
 
 ## Changelog
-* 8/15/2025: Responsibility for On-site search is moving to the Faceted Search team
+* 8/15/2025: Responsibility for On-site search is moving to the Unifed Search team (Megan Siddle - PM current as of 2025-11-14)
 * 5/15/2025: The Promo banner has been deprecated from the design system because of accessibility defects and low use: see [#4142](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4142)
 * 1/14/2025: Identity team now owns the central vets-website cta-widget application. The MHV Cartography team may have a stake in the content / behavior of the  6 CTA widget invocations that are present on VAMC pages.
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
@@ -660,7 +663,9 @@ The VA.gov modernization project will take years to bring alllllllll VA content 
 
 The income limits web app is a tool that helps veterans understand if their income will be a factor in benefits eligibility. Veterans are eligible for benefits based on a complex matrix of factors including: income, number of children, location, location of service, known exposure to toxic chemicals, etc. Income limit is one factor. 
 
-Income Limits are set and managed by another team, and provided via an Oracle Database called VES. The Income limits application pulls VES data to establish annual income limits.
+Income Limits are set and managed by another team, and provided via an Oracle Database called VES. The Income limits application automatically pulls VES data to establish annual income limits.
+
+Annual refresh of VES income limits data is automated, as is the text change from year to year on each page (more information below).
 
 **App:** https://www.va.gov/health-care/income-limits/introduction
 
@@ -668,7 +673,7 @@ Income Limits are set and managed by another team, and provided via an Oracle Da
 
 **More info:**
 * Modernized app was shipped in 2023. [Income limits web app: Discovery, Design, prototype, user research #9626](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/9626)
-* Annual refresh of VES income limits data for the application is automated ([#16511](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16511)), HOWEVER, creation of a FE alert to let Veterans know that limits have been updated is NOT ([#20008](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20008)).
+* Annual refresh of VES income limits data for the application is automated ([#16511](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/16511)), HOWEVER, creation of an FE alert to let Veterans know that limits have been updated is NOT ([#20008](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/20008)).
 
 
 ## On-site search (using search.gov)

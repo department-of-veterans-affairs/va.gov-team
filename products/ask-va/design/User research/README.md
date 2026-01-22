@@ -16,6 +16,8 @@ This folder contains our user research documentation.
 |[Assistive technology - Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2024-08%20Assistive%20technology%20-%20Dashboard)|Accessibility testing|September 2024|[#626](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/626)|
 |[Automation concept testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-01%20Automation%20concept%20testing)|Concept testing|January-February 2025|[#791](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/791)|
 |[Comparative analyses](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-02%20Comparative%20analyses)|Comparative analysis|February 2025||
+|[Form and Inbox Usability Comparison Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study)|Form and Inbox Usability Comparison Study|October 2025|[#1969](https://github.com/department-of-veterans-affairs/ask-va/issues/1969) |
+|[Agent Process Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-12%20Agent%20Process%20Research)|Agent Process Research|December 2025 - In Progress|[#2041](https://github.com/department-of-veterans-affairs/ask-va/issues/2041)|
 
 ## Questions?
 

@@ -9,7 +9,7 @@
   - [ ] Max of 5 links
   - [ ] All destination URLs are correct
   - [ ] Link labels accurately reflect keywords or H1 of destination page
-- [ ] Promo spot link and text are still relevant and URL destination is correct
+- [ ] Promo spot link ~and text are still relevant and~ URL destination is correct
 
 **Hub page**
 - [ ] Breadcrumb displayed per standards
@@ -26,7 +26,7 @@
   - [ ] Links in "Other benefits" section are in order 
   - [ ] Links go to correct destination URL (no redirects)
   - [ ] Link labels reflect keywords in the H1 of the destination page
-- [ ] Promo spot link and text are still relevant and URL destination is correct
+- [ ] Promo spot link ~and text are still relevant and~ URL destination is correct
 
 **Side nav (broadly)**
 - [ ] The side nav component is displayed correctly on desktop and mobile and functioning according to the [side nav component standards](https://design.va.gov/components/sidenav) 
@@ -37,7 +37,7 @@
 **Detail page**
 - [ ] Key content/IA elements of page are in place
   - [ ] H1 reflects patterns used across the site (i.e. action words for tool landing pages)
-  - [ ] Meta description is 55 characters or less
+  - [ ] ~Meta description is 55 characters or less~
   - [ ] Page includes an on this page component when applicable per guidance
 - [ ] The URL, breadcrumb, and side nav all correctly represent the hierarchy of the page
 - [ ] URL follows all [VA.gov URL standards](https://design.va.gov/content-style-guide/url-standards)
@@ -53,11 +53,11 @@
   - [ ] Each language option links successfully to the corresponding page
   - [ ] When on a translated page, the appropriate breadcrumb segments are also translated
   - [ ] When on a translated page, the appropriate left nav options are also translated 
-- [ ] Related content at bottom of page (if applicable)
-  - [ ] Proper component is being used to offset it from core page content
-  - [ ] Links are in correct order  - Need to determine and document approach to order of these links
-  - [ ] Links go to correct destination URL (no redirects)
-  - [ ] Link labels reflect keywords in the H1 of the destination page
+- [ ] ~Related content at bottom of page (if applicable)~
+  - [ ] ~Proper component is being used to offset it from core page content~
+  - [ ] ~Links are in correct order  - Need to determine and document approach to order of these links~
+  - [ ] ~Links go to correct destination URL (no redirects)~
+  - [ ] ~Link labels reflect keywords in the H1 of the destination page~
 
 
 

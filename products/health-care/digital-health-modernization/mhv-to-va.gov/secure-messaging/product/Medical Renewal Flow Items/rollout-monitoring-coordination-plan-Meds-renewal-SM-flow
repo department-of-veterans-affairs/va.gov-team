@@ -1,0 +1,145 @@
+## Med Renewal → Secure Messaging Flow (Meds + SM) Rollout Monitoring Coordination Plan
+
+This document supplements the existing **RX Renewal Flow – MVP Release Plan** and outlines shared monitoring responsibilities, UX and engineering roles, required pre-launch tasks, and post-launch coordination for the medication renewal workflow that routes Veterans from the Medications tool into Secure Messaging.
+
+---
+
+## 1. Overview of the Meds Renewal SM Flow
+
+The new renewal flow guides Veterans through both Medications and Secure Messaging:
+
+1. Veteran views their medication list in Medications  
+2. Renewal-eligible medications display a link:  
+   **“Send secure message to renew this medication”**  
+3. Veteran clicks the link and is taken to the **SM interstitial**  
+4. Veteran selects a **care team**  
+5. Veteran sees a **prefilled renewal message** in the SM editor  
+6. Veteran sends the message
+
+Because the journey spans two products, **monitoring, URLs, documentation, and rollout responsibilities should be shared**.
+
+---
+
+## 2. Monitoring Responsibilities
+
+### 2.1 UX Monitoring (Medallia + Qualitative)  
+- **Meds UX**
+- **SM UX**  
+
+UX will monitor qualitative feedback and user-journey issues using Medallia/VSignals.
+
+#### Meds 
+Monitor the experience *before* a Veteran enters Secure Messaging:
+- Renewal link visibility and accuracy  
+- Confusion between renewal vs refill  
+- Any difficulty starting the renewal flow  
+- Transition issues into Secure Messaging  
+- Veteran comments indicating unclear or missing renewal options  
+
+#### SM   
+Monitor the experience *after* the Veteran enters Secure Messaging:
+- Interstitial behavior  
+- Care team selection issues  
+- Missing or incorrect prefilled content  
+- Drop-offs inside SM  
+- Message-send confusion or errors  
+- Veteran feedback specific to SM  
+
+#### UX escalation process  
+If UX identifies issues:
+1. Determine whether issue occurred in **Meds** or **SM**  
+2. Flag to the appropriate engineering team  
+3. Engineering validates in Datadog/logs  
+4. PM + Eng Lead determine severity and rollout action
+
+---
+
+### 2.2 Engineering Monitoring (Datadog + Technical Logging)
+- Meds Engineering  
+- SM Engineering  
+
+Engineering monitors backend and system health through Datadog and log analysis.
+
+#### Meds Engineering responsibilities  
+Monitor everything at the start of the journey:
+- Renewal link rendering  
+- Correct eligibility behavior (renewal vs refill)  
+- Errors launching the SM flow  
+- Incorrect routing into SM  
+
+#### SM Engineering responsibilities  
+Monitor the behavior inside SM:
+- Interstitial load errors  
+- Care team API failures  
+- Prefill load issues  
+- Draft creation issues  
+- Message send errors  
+- SM backend/API failures  
+
+#### Engineering escalation  
+1. Validate errors in logs  
+2. Identify whether issue is in Meds or SM  
+3. Follow severity-based rollback steps defined in the main Release Plan  
+4. Coordinate with UX + PM to resolve
+
+---
+
+## 3. Pre-Launch Tasks
+
+### 3.1 Collect URLs for VSignals / Medallia Configuration  
+To enable Medallia feedback collection, UX requires all new URLs. *The updated Product Guide must be included in the VSP/Contact Center Team’s intake request when submitting the new URLs for VSignals.*
+
+#### Needed from Meds Engineering:
+- Renewal link destination URLs  
+- Any new/updated Medications pages involved in the renewal flow  
+
+#### Needed from SM Engineering:
+- SM interstitial URL  
+- Care team selection URL  
+- Prefilled message URL  
+- Any new SM endpoints introduced for the renewal flow  
+
+**Once URLs are provided:**  
+- [ ] Submit VSignals/Contact Center intake ticket  
+- [ ] Request new URLs be added to Medallia routing  
+- [ ] Confirm updates are completed  
+- [ ] Validate feedback flow post-launch  
+
+---
+
+### 3.2 Product Guide Updates (Both Tools)
+
+#### Medications Product Guide Updates  
+- Description of new renewal link  
+- Renewal vs refill eligibility logic  
+- Screenshots and link placement  
+- Expected Veteran journey from Meds → SM  
+- Known limitations (e.g., no available care team)  
+- Integration points with SM  
+
+#### Secure Messaging Product Guide Updates  
+- Overview of receiving medication renewal requests  
+- Updates to SM interstitial behavior  
+- Care team selection details  
+- Prefill logic (included/excluded data)  
+- Expected Veteran flow inside SM  
+- Error states/known issues  
+- Integration notes with Meds  
+
+#### Shared Documentation  
+Both guides should include:
+- Outline of this cross-tool workflow  
+- Shared monitoring responsibilities  
+- Links to dashboards (GA4, Datadog, Medallia/VSignals)  
+- Staged rollout details  
+
+---
+
+## 5. Success Criteria  
+(To be finalized with Engineering)
+
+Examples of potential metrics (TBD)
+- DataDog API TBD  
+- DataDog RUM Metrics
+- Medallia sentiment changes
+

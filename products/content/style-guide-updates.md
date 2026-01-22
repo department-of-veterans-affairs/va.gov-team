@@ -5,10 +5,193 @@ This page describes all content updates to the content style guide and Design Sy
 [Full guidance is available on the Design System site](https://design.va.gov/)
 
 On this page
+  - [January 2026](#january-2026)
+  - [December 2025](#december-2025)
+  - [November 2025](#november-2025)
+  - [October 2025](#october-2025)
+  - [September 2025](#september-2025)
   - [August 2025](#august-2025)
   - [July 2025](#july-2025)
   - [June 2025](#june-2025)
   - [May 2025](#may-2025)
+
+## January 2026
+
+### Content style guide
+
+#### We, us, you
+
+Removed this section. The guidance is available in the [Use conversational language](https://design.va.gov/content-style-guide/plain-language/use-conversational-language) section.
+
+#### They, their
+
+Removed this section. The guidance is available in the [Neutral language](https://design.va.gov/content-style-guide/neutral-language) section.
+
+#### [Sign in and identity verification](https://design.va.gov/content-style-guide/specific-topics-and-programs/sign-in-and-identity-verification)
+
+- Changed the order of accounts in the text so **ID.me** comes before **Login.gov**.
+- Removed the guidance to emphasize using **Login.gov**.
+- Revised the guidance explaining that **ID.me** and **Login.gov** are accounts and not separate tools:
+  > Research has shown that some people confuse **Login.gov** with being a separate tool, and some people think they need to go to the **ID.me** or **Login.gov** websites to sign in rather than VA.gov. So, we reinforce that **ID.me** and **Login.gov** are types of sign-in accounts—not separate tools or websites—by using the phrase “**ID.me** account” or “**Login.gov** account.”
+- Added guidance on the term "**DS Logon**":
+  > VA no longer offers the ability to sign in with a DS Logon username and password. Use this term only in reference to this option going away or the ability to use this option for Defense Department (DOD) websites.
+- Added guidance on using the "MFA" acronym: Introduce "MFA" on the first mention and use "MFA" on any subsequent mentions on the same page.
+- Updated the "**My HealtheVet**" guidance:
+  > With rare temporary exceptions, VA no longer offers the **My HealtheVet** user ID and password option for sign in. Today, **My HealtheVet on VA.gov** refers instead only to the health portal on VA.gov. When using this term to refer to the portal, “My HealtheVet” is 2 words. Don’t italicize the “e” between “Health” and “Vet” in digital content body copy, headlines, or user interface elements such as links, buttons, and navigation. The “e” is italicized only in the logo and in print materials.<p>
+**Note:** We no longer tell Veterans to create new **My HealtheVet** accounts or upgrade existing accounts. We don't use the terms "My HealtheVet basic," "My HealtheVet advanced," or "My HealtheVet Premium." Don't refer to the sign-in account Veterans use to access their health portal as a **My HealtheVet account**. Instead, refer to the type of sign-in account (**ID.me** or **Login.gov**) or simply "your sign-in account."
+- Added "My HealtheVet account" to the retired terms and updated the guidance:
+  > With rare temporary exceptions, VA no longer offers this sign-in option. Don't refer to the sign-in account Veterans use to access their health portal as a **My HealtheVet account**. Instead, refer to the type of sign-in account (**ID.me** or **Login.gov**) or simply "your sign-in account."
+
+#### [Links](https://design.va.gov/content-style-guide/links)
+
+- Updated the **Considerations** section to make guidance clearer:
+  >• We use links to connect Veterans and other visitors with related information that may be helpful to them.<br>
+  • We put links on their own line to help make the page easier to scan and the intention of the link as clear as possible. Too many embedded links can be distracting or overwhelming to people with traumatic brain injuries or other cognitive impairments.<br>
+  • We tell people where links are taking them and why. External links can be disorienting for all people, but especially people who use screen readers. 
+- Updated guidance in the **Link text** section to make guidance clearer:
+  >• Describe the purpose of the linked page<br>
+  • If the link takes the reader outside of VA.gov, name the external website in the link text<br>
+  • Balance link text length to provide the needed descriptions without having the relevant words get lost in the length<br>
+  • Use "Select" instead of "Click here," since not all people are physically clicking links 
+- Added a new section on linking to forms: linking to the form's About page instead of the PDF (applies to all content other than the form's About page), linking directly to the form's PDF on the About page, and added exceptions for links to the direct download to the PDF version:
+  >• For forms that aren’t part of the VA forms database, you may need to use a direct download link to the PDF version of the form. This is a rare situation. Contact the centralized content and information architecture (IA) team for guidance.<br>
+  • You may also need a direct download link if the person filling out the form is downloading and generating their own completed copy. Contact the centralized content and IA team for guidance.
+- Added new guidance in the **Linking to documents and other file sources** section:
+  >• If a link opens a calendar, YouTube video, XLS, or other file format, add the relevant icon from the Components section in the Design System. This does not apply to pages housed within Drupal.<br>
+  • Include the file format (ex. PDF, HTML, or XML) in the link label. Place the file format at the end of the link label in parentheses. For example, “Download the Continuity of Care document (PDF).”<br>
+  • If you have a list of links to the same document with different file formats, consider rewording the link text to include the file format earlier. Contact the centralized content and IA team for help with your link text.
+- Added guidance on not linking to the Code of Federal Regulations on VA.gov pages.
+- Added a new section on [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) that includes general guidance and 3 options for adding links to lists.
+
+#### [Bulleted and numbered lists](https://design.va.gov/content-style-guide/bulleted-lists)
+
+Updated the [Links in lists](https://design.va.gov/content-style-guide/links#links-in-lists) section to include 3 options for adding links to lists
+
+#### [Word list](https://design.va.gov/content-style-guide/word-list)
+
+- Updated entries:
+  >**apply:** updated the examples<br>
+**delete:** clarified this is specifically for file uploads<br>
+**educational and career counseling:** removed note on style differences on Education and Career Counseling pages<br>
+**educational counseling:** removed note on style differences on Education and Career Counseling pages<br>
+**Montgomery GI Bill Active Duty (MGIB-AD):** added information on using the acronym and "Chapter 30"<br>
+**Montgomery GI Bill Selected Reserve (MGIB-SR):** added information on using the acronym and "Chapter 1606"<br>
+**My HealtheVet:** added that this is 2 words<br>
+**upload:** clarified this is specifically for file uploads<br>
+**Veteran Readiness and Employment (VR&E):** added information on using the acronym and "Chapter 31"; added information about the previous names for the program
+- Added new entries:
+  >**approved program<br>
+copay (or copayment, or health care copay)<br>
+copay bill (or patient statement, or billing statement)<br>
+cover the costs/cover expenses<br>
+debt<br>
+dependent child<br>
+education benefit<br>
+eligible<br>
+entitlement<br>
+get paid back<br>
+Montgomery GI Bill<br>
+national tests<br>
+non-qualifying period of service<br>
+overpayment or overpayment debt<br>
+Personalized Career Planning and Guidance (PCPG)<br>
+Post-9/11 GI Bill (PGIB)<br>
+preparatory courses or prep courses<br>
+Primary Family Caregiver<br>
+qualify<br>
+relinquish your benefits<br>
+Secondary Family Caregiver<br>
+spouse<br>
+Statement of Service<br>
+verify and verification<br>
+VET TEC 2.0<br>
+waiver (debt forgiveness)**
+
+## December 2025
+
+### Content style guide
+
+#### [Bulleted and numbered lists](https://design.va.gov/content-style-guide/bulleted-lists)
+
+- Made edits to the **Considerations** section to align with current style guide guidance
+- Added an example and guidance for using "or" at the beginning of a list item:
+> **Example of non-eligibility-related bulleted list with “or” at the beginning of the list item**<p>
+In some cases, you may need to add “or” to the beginning of the list item. For example, with list items that have 2 or more sentences, the conjunction may work better at the beginning of the second list item than at the end of the first.<p>
+**Note:** This guidance only applies to lists that use “or.”
+
+#### [Payments and debts](https://design.va.gov/content-style-guide/specific-topics-and-programs/payments-and-debts)
+Updated the definitions for these terms:
+
+- **copay (or copayment, or health care copay):** We use this term to describe the amount some Veterans pay for certain health care services and prescriptions. On first mention, include a plain language definition. For example, “You may need to pay a copay for outpatient care for conditions not related to your military service. A copay is a fixed amount you owe for the service.”<br>
+**Note:** Use “health care copay” on first mention in general content where the context of health care is necessary and then “copay” on subsequent mentions.
+- **copay bill (or patient statement, or billing statement):** We use these terms to describe the bill or statement that a Veteran receives for their health care copay. On first mention, include a plain language definition. For example, “You may get a copay bill (or “statement”) for the amount you owe for health care services that aren’t exempt from copays.”
+- **debt:** We use this term as the overarching term for any money the Veteran owes to VA. “Debt” encompasses money owed for overpayments as well as copays. If the debt is because of an overpayment or a copay, we should use those terms to explain why the Veteran owes money.
+- **overpayment or overpayment debt:** We use this term to refer to a debt that’s because of an overpayment. In some cases, we can go with “overpayments” (and not add “overpayment debts”).
+- **waiver (debt forgiveness):** Include “(debt forgiveness)” on first mention. We use this term to describe a debt repayment or relief option in which a Veteran asks VA to forgive (or “waive”) part or all of a debt.<br>
+**Note:** Waivers are a debt repayment or relief option for both benefit overpayment and copay debt. Other options include compromise offers, monthly offsets (overpayment debt only), monthly repayment plans, waivers, and write-offs (copay debt only).
+
+#### [Punctuation and formatting](https://design.va.gov/content-style-guide/punctuation)
+
+- Added formatting information to the section
+- Updated the section title to include formatting
+- Added guidance on note and form field error message formatting:
+  > **Notes**<p>
+    • Place notes on their own line directly after the text the note applies to.<br>
+    • Capitalize and bold “**Note:**”.<br>
+    • If a note applies to only 1 item in a list, place the note directly after that specific list item (not after the full list). Use a soft return (shift + enter on PCs, shift + return on Macs) so the note appears on a separate line, aligned with the list indent, with no space between the lines. Don’t make the note its own bullet or sub-bullet.
+
+  > **Error messages in form fields**<p>
+    • Make error messages for form fields sentence case and bold<br>
+    • Don’t place a period after the error message unless it has 2 or more sentences<br>
+    • In most cases, start error messages with a verb, like “Enter” (for text fields) or “Select” (for radio buttons, checkboxes, and dropdown menus)<br>
+    • If an error message references a specific checkbox, radio button, etc., use quotation marks
+
+#### [Error and alert messages](https://design.va.gov/content-style-guide/error-messages/)
+
+- Updated the section title to include "alert" and added "alert" throughout the page where needed
+- Made style guide edits throughout to match current guidance
+- Added guidance on heading/title length:
+  > **Error and alert message titles**<p>
+When possible, keep error and alert message titles (headings) to 50 characters, including spaces. Error and alert message titles should follow the general guidelines for page and section titles.<p>
+[Learn more in the Page titles and section titles section of the style guide](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+
+#### [Use conversational language](https://design.va.gov/content-style-guide/plain-language/use-conversational-language)
+
+- Changed the section title from **Use pronouns** to **Use conversational language** to accurately describe the guidance in the section
+- Moved the content from the **We, us, you** section to this section<br>
+**Note:** The **We, us, you** and **They, their** sections are going to be removed. The content from **We, us, you** is now in this section and the content from **They, their** is in the **Neutral language** section.
+- Made edits throughout to align with the style guide
+- Updated the main [Plain language standards section](https://design.va.gov/content-style-guide/plain-language/) to reflect the title change  
+
+### Components
+
+#### [Alert](https://design.va.gov/components/alert/)
+
+- Made style guide edits throughout Content considerations to match current guidance
+- Added guidance on heading/title length:
+  > When possible, keep error and alert message titles (headings) to 50 characters, including spaces. Error and alert message titles should follow the general guidelines for page and section titles.<p>
+[Learn more in the Page titles and section titles section of the style guide](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+
+### Patterns
+
+#### [Help users to... Recover from errors](https://design.va.gov/patterns/help-users-to/recover-from-errors)
+
+- Made style guide edits throughout Step 1 to match current guidance
+- Added guidance on heading/title length:
+  > When possible, keep error and alert message titles (headings) to 50 characters, including spaces. Error and alert message titles should follow the general guidelines for page and section titles.<p>
+[Learn more in the Page titles and section titles section of the style guide](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+
+## November 2025
+
+No updates
+
+## October 2025
+
+No updates
+
+## September 2025
+
+No updates
 
 ## August 2025
 

@@ -37,3 +37,4 @@ These are resources created while working on the `vaec-cie` migration through th
 - `(dev|stg|prod)/cie_upstream_api/vista_api_key`: Vista API key (REST)
 - `(dev|stg|prod)/cie_upstream_api/vista_rpc_key`: Vista API key (RPC)
 - `(dev|stg|prod)/cie_upstream_api/vetext_rpc_key` VEText API key
+- `(dev|stg|prod)/cie_upstream_api/vista_api_x/api_key`: Vista API X API key

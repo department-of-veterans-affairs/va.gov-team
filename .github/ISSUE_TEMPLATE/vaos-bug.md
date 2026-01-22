@@ -10,6 +10,14 @@ assignees: ''
 ## Summary
 _Describe what went wrong_
 
+## Appointment systems affected
+Check all appointment systems affected by or relevant to this bug
+
+- [x] vistA
+- [x] HSRM
+- [x] CERNER (OH)
+- [ ] N/A
+      
 ## Specs
 - Device:
 - Browser:

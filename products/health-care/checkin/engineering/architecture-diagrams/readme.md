@@ -9,4 +9,4 @@
   * [Check-in Sequence Diagrams](sequenceDiagram_checkInExp.md)
   * [Pre check-in Sequence Diagrams](sequenceDiagram_preCheckInExp.md)
   * [Full Auth Check-in Sequence Diagrams](sequenceDiagram_full_auth_checkInExp.md)
-
+  * [v1 Travel Claim Submission (synchronous)](sequenceDiagram_v1_travel_claim.md)

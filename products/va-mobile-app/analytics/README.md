@@ -7,8 +7,14 @@
 - [June 2025 (6/1-6/30)](#june-2025)
 - [July 2025 (7/1-7/31)](#July-2025)
 - [August 2025 (8/1-8/31)](#August-2025)
+- [September 2025 (9/1-9/30)](#September-2025)
+- [October 2025 (10/1-10/31)](#October-2025)
+- [November 2025 (11/1-11/30)](#November-2025)
+- [December 2025 (12/1-12/31)](#December-2025)
 
 ## Where to gather the data
+
+**Remember to update the date ranges for these links in the UI before pulling the data (the links are probably all set to February 2025)**
  
 - Total downloads since launch
   - iOS, [appstore connect first time downloads](https://appstoreconnect.apple.com/analytics/app/ltd/1559609596/metrics?chartType=singleaxis&measureKey=units&zoomType=day)
@@ -17,7 +23,7 @@
   - iOS Installs (App Store Connect, [total first time downloads](https://appstoreconnect.apple.com/analytics/app/r:20250201:20250228/1559609596/metrics?chartType=singleaxis&measureKey=units&zoomType=day))
   - Android Installs ([Cumulative, new users, unique events](https://play.google.com/console/u/2/developers/7507611851470273082/app/4974294731909201030/statistics?metrics=USER_ACQUISITION-NEW-UNIQUE-CUMULATIVE-DAY&dimension=COUNTRY&dimensionValues=OVERALL%2CUS%2CPR%2CPH%2CDE&dateRange=2025_2_1-2025_2_28&tab=APP_STATISTICS&ctpMetric=DAU_MAU-ACQUISITION_UNSPECIFIED-COUNT_UNSPECIFIED-CALCULATION_UNSPECIFIED-DAY&ctpDateRange=2025_2_18-2025_3_19&ctpDimension=COUNTRY&ctpDimensionValue=OVERALL&ctpPeersetKey=3%3A7098e2ceb59ccf42)) 
 - Monthly active users ([Firebase Overview](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22screen_view%22%7D&r=firebase-overview))
-- Monthly new users (Google Analytics event, [first open](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22first_open%22%7D&r=events-overview))
+- Monthly new users (Google Analytics event, [first open](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22first_open%22%7D&r=events-overview)) (First_open events are logged the first time a new app is launched. So installing on a new device, uninstalling and reinstalling on the same device, or deleting local data for the app would all trigger this.)
 - Monthly appointment detail views (Google Analytics event, [vama appt view details](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_u..nav%3Dmaui%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22vama_appt_view_details%22%7D&r=events-overview&collectionId=3022309925))
 - Monthly Rx Refill (Google Analytics event, [vama rx refill success](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u..nav%3Dmaui%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22vama_rx_refill_success%22%7D%26_u.dateOption%3Dlast30Days&r=events-overview&collectionId=3022309925))
 - Monthly Letter Downloads (Google Analytics event, [vama letter download](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u..nav%3Dmaui%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22vama_letter_download%22%7D%26_u.dateOption%3Dlast30Days&r=events-overview&collectionId=3022309925))
@@ -25,6 +31,103 @@
 - Monthly Veteran Status Views (Google Analytics, [pages & screens](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/explorer?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250201%26_u.date01%3D20250228%26_u..nav%3Dmaui%26_r.explorerCard..startRow%3D0%26_r.explorerCard..filterTerm%3Dveteran&r=all-pages-and-screens&ruid=85114BBE-2F4B-42D6-AF54-5A24E62195CF&collectionId=3022309925))
 - Average App Store Rating ([App store](https://apps.apple.com/us/app/va-health-and-benefits/id1559609596))
 - Average Play Store Rating ([Play store](https://play.google.com/store/apps/details?id=gov.va.mobileapp&hl=en_US))
+
+## December 2025
+
+**Date range for metrics**: December 1, 2025 - December 31, 2025
+
+- **Total downloads since launch (01/01/2020)**: 1,562,153(A) + 2,547,955(iOS) = 4,110,108
+- **New monthly downloads**: 36,870(A) + 42,672(iOS) = 79,542
+- **Monthly active users**: 1,647,628
+- **Monthly new users**: 189,284
+- **Monthly appointment detail views**: 3,381,724
+- **Monthly Rx Refill**: 636,934
+- **Monthly Letter Downloads**: 697,931
+- **Monthly Secure Messages Sent**: 748,102
+- **Monthly Veteran Status Views**: 678,912
+
+### Android
+
+- **Android installs**: 36,870
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 42,672
+- **Average App Store Rating**: 4.8
+
+## November 2025
+
+**Date range for metrics**: November 1, 2025 - November 30, 2025
+
+- **Total downloads since launch**: 1,525,283(A) + 2,505,355(iOS) = 4,030,638
+- **New monthly downloads**: 29,432(A) + 42,283(iOS) = 71,715
+- **Monthly active users**: 1,620,480
+- **Monthly new users**: 176,216
+- **Monthly appointment detail views**: 3,072,383
+- **Monthly Rx Refill**: 565,505
+- **Monthly Letter Downloads**: 529,253
+- **Monthly Secure Messages Sent**: 665,697
+- **Monthly Veteran Status Views**: 683,950
+
+
+### Android
+
+- **Android installs**: 29,432
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 42,283
+- **Average App Store Rating**: 4.8
+
+## October 2025
+
+**Date range for metrics**: October 1, 2025 - October 31, 2025
+
+- **Total downloads since launch**: 1,494,030(A) + 2,463,052(iOS) = 3,957,082
+- **New monthly downloads**: 35,757(A) + 43,977(iOS) = 79,734
+- **Monthly active users**: 1,588,896
+- **Monthly new users**: 186,676
+- **Monthly appointment detail views**: 3,404,680
+- **Monthly Rx Refill**: 603,996
+- **Monthly Letter Downloads**: 595,190
+- **Monthly Secure Messages Sent**: 767,019
+- **Monthly Veteran Status Views**: 663,750
+
+### Android
+
+- **Android installs**: 35,757
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 43,977
+- **Average App Store Rating**: 4.8
+
+## September 2025
+
+**Date range for metrics**: September 1, 2025 - September 30, 2025
+
+- **Total downloads since launch**: ~1.45M (A) + ~2.42M (iOS) = ~3.87M 
+- **New monthly downloads**: 41k (A) + 53.3k (iOS) = 94.3k
+- **Monthly active users**: 1.6M
+- **Monthly new users**: 189k
+- **Monthly appointment detail views**: 3,424,973
+- **Monthly Rx Refill**: 587,911
+- **Monthly Letter Downloads**: 595,948
+- **Monthly Secure Messages Sent**: 742,592
+- **Monthly Veteran Status Views**: 701,079
+
+### Android
+
+- **Android installs**: 41k
+- **Average Play Store Rating**: 4.7
+
+### iOS
+
+- **iOS Installs**: 53.3k
+- **Average App Store Rating**: 4.8
 
 ## August 2025
 

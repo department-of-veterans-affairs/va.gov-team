@@ -1,7 +1,4 @@
-<!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
-**This is a template, PLEASE MAKE A COPY**
-
-# [Research Name] Topline Summary
+# [Research Name] Top-line Summary
 [link research plan]()
 [link conversation guide]()
 [link interview transcripts]()

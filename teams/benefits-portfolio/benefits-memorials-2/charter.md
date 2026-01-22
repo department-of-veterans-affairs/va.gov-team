@@ -1,5 +1,5 @@
 # **Financial Management Team Charter** 
-Last Updated: March 21, 2025
+Last Updated: November 19, 2025
 
 ### **Table of Contents:**
 
@@ -58,11 +58,11 @@ Last Updated: March 21, 2025
 |Sr. Delivery Manager       |Heather Rienks                    |
 |Back End Engineer  |Josh Mills                         |
 |Back End Engineer      |Derek Dyer                                |
-|Lead Front End Engineer |Andrew Rodiek                       |
+|Front End Engineer |Garlon Garth                      |
 |Sr. Front End Engineer |Brandyn Sullins                     |
-|Sr. Front End Engineer |Aaron Ponce                        |
+|Front End Engineer |Rebecca Weir                        |
 |Lead Designer/Researcher |Megan Gayle                         |
-|Sr. UX Researcher       |Charlotte Cesana                    |
+|Sr. UX Researcher       |Risha Lee             |
 |Product Designer        |Joseph Lee                          |
 
 </br>
@@ -87,7 +87,7 @@ Last Updated: March 21, 2025
 ##  Planning Meetings
 | **Meeting**                  | **Cadence**         | **Attendees/Groups**                 |**Agenda/Focus**       | **Facilitator(s)**  | 
 |--------------------------|-----------------|----------------------------------|-------------------|-------------------|
-| *Product Planning*               | Quarterly: once every 3 months        | Matt, Denise, Jill, Devi, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
+| *Product Planning*               | Quarterly: once every 3 months        | Denise, Tom |Discuss product roadmap and OKR status |Denise Coveyduc  | 
 | *Quarterly Team Planning*       | Quarterly: once every 3 months    | PM, DM, BE, FE, Design, Research  |Align on upcoming priorities |Denise Coveyduc   | 
 | *FrontEnd Touchpoint*              | Weekly          | PM, DM, FE    |Align on current FrontEnd Engineering Priorities, Challenges, & Blockers    |Heather Rienks, Tom Davis  | 
 | *BackEnd Touchpoint*               | Weekly          | PM, DM, BE     |Align on current BackEnd Engineering Priorities, Challenges, & Blockers      |Heather Rienks, Tom Davis  | 
@@ -162,7 +162,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
 - Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub/ZenHub.
 - Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
-- Extra time? Explore the "Ready" column in ZenHub.
+- Extra time? Explore the "Ready" column in GitHub.
 -  All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
@@ -170,7 +170,7 @@ Decisions are part of our daily routine, the below questions can help kickstart 
 - Team Github Label = `vsa-debt`
 - [Team GitHub Board](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/13)
 
-### Popular Labels in ZenHub
+### Popular Labels in GitHub
 * vsa
 * vsa-debt
 * frontend

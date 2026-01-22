@@ -134,25 +134,12 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: textarea
     id: definition-of-done
     attributes:
       label: Definition of Done
-      description: Check all that apply; add more in the text area below if needed.
-      options:
-        - label: Problem is well-documented and agreed upon
-        - label: Content/design reviewed and approved
-        - label: Build and test completed successfully
-        - label: Accessibility review completed
-        - label: Verified on staging
-        - label: Approved for production release
-    validations:
-      required: true
-
-  - type: textarea
-    id: dod-notes
-    attributes:
-      label: DoD Notes (optional)
+      description: Describe what completion looks like for this epic. (E.g., documentation updated, code tested, accessibility reviewed, etc.)
+      placeholder: "Enter the criteria or conditions that must be met for this epic to be considered complete..."
     validations:
       required: false
 

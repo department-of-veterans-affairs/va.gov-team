@@ -1,3 +1,76 @@
+# Home address is updated and does not match Mailing address
+
+Last updated: January 2026  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32736&t=yzNzB1imsV3uo2LL-1)  
+* Product documentation  
+  * [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/initiative-brief.md)  
+  * [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/discovery/documentation.md)
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+- [User has updated Home address, and Mailing address is empty](#user-has-updated-home-address,-and-mailing-address-is-empty)
+
+- [User has updated Home address, and Mailing address doesn’t match](#user-has-updated-home-address,-and-mailing-address-doesn’t-match)
+
+- [Successful update modal](#successful-update-modal)
+
+- [Save error modal](#save-error-modal)
+
+[Development note](#development-note)
+
+# Overview 
+
+* If a user updates their Home address and it does not match their Mailing address, they will be prompted to review and update their Mailing address. Mailing addresses must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
+* The address change modal is triggered only when an update is made to the Home address, and the update does not match the Mailing address.  
+* When the modal appears, the updated Home address has already been saved to the profile.  
+* The modal will either appear:  
+  * After address validation has run and the user has confirmed the address via a suggested address OR  
+  * After validation has run and no address suggestions were provided/needed OR  
+  * After validation has run, and the user proceeds with updating their address as entered.
+
+# Use cases 
+
+## User has updated Home address, and Mailing address is empty 
+
+* **Description:** Modal appears telling the user we don’t have a Mailing address on file. Asks if the user would like their Mailing address to match their Home address.  
+* **Format:** [Modal component](https://design.va.gov/components/modal)  
+* [Link to design](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32744&t=yzNzB1imsV3uo2LL-1)
+
+## User has updated Home address, and Mailing address doesn’t match 
+
+* **Description:** Modal appears to ask the user if the Mailing address should be updated to match the Home address.  
+* **Format:** [Modal component](https://design.va.gov/components/modal)  
+* [Link to design](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32742&t=yzNzB1imsV3uo2LL-1)
+
+## Successful update modal
+
+* **Description:** If the user decides to update their Mailing address, they’ll see a confirmation message with a **Close** button. After closing the modal, a success alert displays in the Mailing address section.  
+* **Format:** [Modal component](https://design.va.gov/components/modal)  
+* [Link to design](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32740&t=yzNzB1imsV3uo2LL-1)
+
+## Save error modal 
+
+* **Description:** If the Mailing address update can’t be completed, the user will see an error modal with a close button. After closing the modal, an error alert will display in the Mailing address section.  
+* **Format:** [Error modal component](https://design.va.gov/components/modal/#error)  
+* [Link to design](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=4598-32738&t=yzNzB1imsV3uo2LL-1)
+
+# Development note 
+
+No specific API codes are used in reference to this feature. The main logic for displaying the address change messaging is based on comparing the Home and Mailing address data to display the dialog modal if the addresses differ. Within the modal dialog flow, the same API calls and error handling from standard address updates are used.
+
+
+
+---
+
+
+
+<details><summary>Archive | Contact information: Home address is updated but does not match Mailing address, June 2025</summary>
+	
 # Contact information: Home address is updated but does not match Mailing address
 **Last updated: June 2025**
 
@@ -117,7 +190,16 @@ No specific API codes are used in reference to this feature. The main logic for 
 
 Within the modal dialog flow, the same API calls and error handing from standard address updates are used. Link to address validation use cases.
 
----
+</details>
+
+
+
+
+
+
+
+
+
 
 <details><summary>Archive | Home address is updated but does not match Mailing address, February 2024</summary>
 

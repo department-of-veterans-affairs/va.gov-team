@@ -17,6 +17,8 @@ body:
         1. Complete required fields and select environments you need access to.
         1. Use the "Additional Notes" section to provide proof of E-QIP transmittal/adjudication.
         1. Prod access is highly restricted. If you need prod access, add an explanation in "Additional Notes" section.
+        1. You must have your federal Product Owner OR Contract Program Manager comment on this ticket verifying your need for prod access. 
+
   - type: input
     id: requestor-name
     attributes:

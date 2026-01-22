@@ -1,8 +1,8 @@
 # Single Value Visualization PRD (Product Requirements Document)
 - **Version:** MVP or "V1"
 - **Start Date:** June 11, 2025
-- **End Date:** 
-- **Status:** In Progress
+- **End Date:** September 16, 2025
+- **Status:** Complete
 
 ## Overview
 The Single Value Visualization pattern highlights a single, key-value metric in a clear, visually distinct format. It enables users to quickly understand critical information and often serves as a springboard to deeper data or actions elsewhere in the product.
@@ -48,8 +48,11 @@ Clinicians work in data-dense environments where key information can easily be o
 [#1539 Single Value Visualization](https://github.com/department-of-veterans-affairs/clinical-design-system/issues/1539)
 
 ## Research
-[Design Exploratory of Use Cases](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750195625799/0c581495d7a8f555326039f8adcd5c2f9d06eb3d)
+1. [Design Exploratory of Use Cases](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750195625799/0c581495d7a8f555326039f8adcd5c2f9d06eb3d)
+
 
 ## Artifacts for Users
-
+1. [UI Kit](https://www.figma.com/design/f2zr6Zvf9ssGgfBnBan1sY/Clinical-Design-System---V-5.3.1?node-id=16327-34&p=f&t=rk7QsDkOVhMpoN6I-0)
+2. [Storybook](https://crispy-succotash-9k23jen.pages.github.io/?path=/docs/components-singlevalueviz--docs)
+3. [VA Clinical Design System Documentation](https://department-of-veterans-affairs.github.io/clinical-design/components/single-value-visualization)
 

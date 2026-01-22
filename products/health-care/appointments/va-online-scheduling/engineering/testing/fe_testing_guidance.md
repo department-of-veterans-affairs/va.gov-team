@@ -116,3 +116,8 @@ Generally, we want to test components in the context a user is using them, which
          expect(screen).to.equal('phone');
          });
       });
+
+
+## Codespaces
+- If you need to test remotely (say from a non-development device or with another user) you can use codespaces.
+- See the [Codespaces doc](../codespaces.md)

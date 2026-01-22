@@ -27,16 +27,14 @@ See [ARF's engineering README.md](/products/accredited-representative-facing/eng
 
 📌 TODO: Add the currently prioritized epics.
 
-## DSVA Slack Channels
+## DSVA / OCTO Slack Channels
 
-These are the main channels for engineers to monitor.
-- [ ] [#benefits-representation-engineering](https://dsva.slack.com/archives/C06ABHUNBRS)
-- [ ] [#benefits-representation-engineering-log](https://dsva.slack.com/archives/C06TTS0J4LV)
-- [ ] [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW)
-- [ ] [#benefits-engineers-lighthouse-collaboration](https://dsva.slack.com/archives/C063D0M76HX)
-- [ ] [#benefits-portfolio](https://dsva.slack.com/archives/C055573C508)
-- [ ] [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
-- [ ] [#benefits-accredited-reps-crew](https://dsva.slack.com/archives/C07V7FLLULC)
+These are the main channels for engineers to monitor in the DSVA / OCTO Slack space.
+- #benefits-accredited-rep-crew
+- #benefits-accredited-rep-engineering
+- #benefits-portfolio
+- #benefits-representation-management-notifications
+- #benefits-representative-facing-alerts
 
 
 ### Background Research / SEP Demos

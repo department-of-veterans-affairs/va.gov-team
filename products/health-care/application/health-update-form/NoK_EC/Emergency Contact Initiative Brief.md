@@ -1,36 +1,15 @@
 # Emergency Contact - Initiative Brief
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
-
- 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
  
 ---
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Users can add, remove, and edit their Emergency Contacts on the 10-10EZR. This Emergency Contact information is then stores in the VA Enrollment System, which will then disseminate it out to all other systems of record (not part of the scope of this, but expected behavior for VES). This should lead to an increase in 
+* Users can add, remove, and edit their Emergency Contacts on the 10-10EZR. This Emergency Contact information is then stores in the VA Enrollment System, which will then disseminate it out to all other systems of record (not part of the scope of this, but expected behavior for VES). 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- 10-10EZR Standalone form - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 
 ## Problem
 * Veterans cannot currently update their Emergency Contacts online

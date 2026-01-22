@@ -1,0 +1,138 @@
+name: Benefits Management Tools Team 3 General Issue
+description: Create a new issue (Task, Bug, Enhancement, Question, Design, Accessibility, or Spike)
+title: "[Issue Type] [Short descriptive title]"
+labels: ["benefits-management-tools", "issue", "bmt-team-3"]
+assignees: []
+
+body:
+ 
+  - type: input
+    id: feature-other
+    attributes:
+      label: Specify Feature (if "Other")
+      description: If you selected "other" above, specify the feature name. Leave blank otherwise.
+      placeholder: Enter feature name…
+
+  - type: dropdown
+    id: team
+    attributes:
+      label: Team
+      description: Select the team this issue belongs to.
+      options:
+        - "bmt-team-1 (Mavericks)"
+        - "bmt-team-2 (Bee’s Knees)"
+        - "bmt-team-3 (Phoenix)"
+        - "Decision Reviews"
+        - other
+    validations:
+      required: true
+
+  - type: input
+    id: team-other
+    attributes:
+      label: Specify Team (if "Other")
+      description: If you selected "other" above, specify the team name. Leave blank otherwise.
+      placeholder: Enter team name…
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Select the type of issue you are creating.
+      options:
+        - Task
+        - Bug
+        - Enhancement
+        - Question
+        - Design
+        - Accessibility
+        - Spike
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: Provide a short, descriptive summary of the issue.
+      placeholder: "Short summary of the issue…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description / Context
+      description: |
+        Provide details about the issue. Use the guidance below based on the Issue Type you selected.
+      placeholder: |
+        For **Bug**:
+        1) Steps to reproduce…
+        2) Expected behavior…
+        3) Actual behavior…
+        4) Environment (URL, browser, device)…
+
+
+
+  # ---------- Acceptance Criteria ----------
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria / Definition of Done
+      description: Define what “done” means for this issue. Use bullets or checkboxes.
+      placeholder: |
+        - [ ] Outcome 1 met
+        - [ ] Outcome 2 met
+        - [ ] Verified by reviewer(s)
+    validations:
+      required: false
+
+  # ---------- Links & resources ----------
+  - type: textarea
+    id: resources
+    attributes:
+      label: Links & Resources
+      description: Add any relevant links (design files, specs, logs, PRs, documentation).
+      placeholder: |
+        - Figma:
+        - Related issues/PRs:
+        - Monitoring/logs:
+        - Docs:
+    validations:
+      required: false
+
+  # ---------- Reminders for Epic, Estimation & Priority (right sidebar) ----------
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ✅ **Quick Reminders (Right Sidebar in GitHub):**
+
+        **Epic / Parent work**
+        - Link this issue to the correct **Epic or Super Epic** in the right sidebar.
+        - Make sure the parent Epic clearly reflects the outcome this work contributes to.
+
+        ---
+
+        ✅ **Labels & Organization**
+
+        **Team Labels**
+        Apply the correct **Team label** after selecting your team above:
+        - `bmt-team-1` → Mavericks
+        - `bmt-team-2` → Bee’s Knees
+        - `bmt-team-3` → Phoenix
+        - Or another team label if applicable
+
+        **Issue Type Labels**
+        Make sure you select the right **Issue Type** in the dropdown above:
+        - **Task** → Work to be done, implementation steps
+        - **Bug** → Defect, error, or unexpected behavior
+        - **Enhancement** → Improvement or optimization to existing functionality
+        - **Question** → Clarification or decision needed
+        - **Design** → UX/UI design, mockups, prototypes, content changes
+        - **Accessibility** → A11y-specific issues (WCAG, screen readers, color contrast, etc.)
+        - **Spike**
+        - **Other**
+
+ 

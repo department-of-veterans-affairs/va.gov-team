@@ -27,6 +27,10 @@ body:
     label: Tasks
     description: What are the tasks for this work?
     placeholder: |
+      - [ ] Is a flipper needed? 
+      - [ ] If front end ticket, should there be a BE ticket to update submission data and PDF?
+      - [ ] What type of internal testing is needed?
+      - [ ] What type of external testing is needed?
       - [ ] Task
       - [ ] Task
       - [ ] Task

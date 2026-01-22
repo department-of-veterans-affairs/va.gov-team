@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 9/3/2025
+Updated 11/18/2025
 
 ## Table of Contents
 - [Welcome](#welcome)
@@ -35,7 +35,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Eunice Garcia
 - MHV Web and Mobile
    - Greg Kirk
-   - Lauren Ernest (Slack: [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+   - Heather Widmont
 - MHV Platform and API
   - Sean Good
   - Matt Bain
@@ -45,16 +45,17 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 ### Horizon
 This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
+- Slack user group tag: `@mhv-vagov-horizon`
 
 | Name                | DSVA Slack                                                      |
 |---------------------|-----------------------------------------------------------------|
 | Marci McGuire       | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V)       |
-| Bryan Ivie          | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)          |
+| David Koger         | [@davidkoger](https://github.com/davidkoger)                    |
 | Daniel Cloud        | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S)        |
 | Florence McCafferty | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) |
 | Cara Frissell       | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7)       |
 | Sara Sterkenburg    | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25)    |
-| Marcello Antosh     | TBD                                                             |
+| Marcello Antosh     | [@Marcello Antosh](https://dsva.slack.com/team/U09LCFL4YMT)     |
 
 
 ### Medical Records
@@ -63,30 +64,31 @@ This cross-functional group serves as the Company points of contact for the deli
 | Name                | DSVA Slack                                                      |
 |---------------------|-----------------------------------------------------------------|
 | Marci McGuire       | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V)       |
-| David Koger         | [@davidkoger](https://github.com/davidkoger)                     |
+| David Koger         | [@davidkoger](https://github.com/davidkoger)                    |
 | Mike Moyer          | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K)          |
 | Ni Chia             | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG)             |
 | Napoleon Kernessant | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) |
 | Aswin Malla         | [@Aswin Malla](https://dsva.slack.com/archives/D0992PS4D0W)     |
-| Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)     |
 | Liz Townsend        | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69)        |
+| Jonathan Nelson     | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N)       |
 
 ### Medications / Medical Devices and Supplies
 - Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY), [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
 
-| Name            | DSVA Slack                                                  |
-|-----------------|-------------------------------------------------------------|
-| Kay Lawyer      | [@Kay](https://dsva.slack.com/team/U04K6QYPP6V)             |
-| Michael Brodsky | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) |
-| Richard Davis   | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA)   |
-| Chris Donelson  | [@Chris Donelson](https://dsva.slack.com/team/U09B1FV641Y)  |
-| Cam Keif        | [@Cam Keif](https://dsva.slack.com/team/U09AF2JEHQS)        |
-| Ian Seabock     | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25)     |
-| Langston Payne  | TBD                                                         |
-| Andrea Uhr      | TBD                                                         |
-| Timothy Powell  | TBD                                                         |
-| Amy Cashbaugh   | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1)   |
-| Geoff Winner    | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)    |
+| Name             | DSVA Slack                                                  |
+|------------------|-------------------------------------------------------------|
+| Kay Lawyer       | [@Kay](https://dsva.slack.com/team/U04K6QYPP6V)             |
+| Michael Brodsky  | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) |
+| Richard Davis    | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA)   |
+| Chris Donelson   | [@Chris Donelson](https://dsva.slack.com/team/U09B1FV641Y)  |
+| Cam Keif         | [@Cam Keif](https://dsva.slack.com/team/U09AF2JEHQS)        |
+| Ian Seabock      | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25)     |
+| Langston Payne   | [@Langston Payne](https://dsva.slack.com/team/U09DVT4NV9V)  |
+| Andrea Uhr       | [@Andrea Uhr](https://dsva.slack.com/team/U09CPTE5L2W)      |
+| Timothy Powell   | [@Tim Powell](https://dsva.slack.com/team/U09E8TNEQKX)      |
+| Amy Cashbaugh    | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1)   |
+| Geoff Winner     | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)    |
+| Anneka Van Garza | [@Anneka Van Garza](https://dsva.slack.com/team/U09CJ05E2D8)|
 
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
@@ -99,35 +101,42 @@ This cross-functional group serves as the Company points of contact for the deli
 | Kevin Suarez     | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X)          |
 | Adam Stoler      | [@Adam Stoler](https://dsva.slack.com/archives/D0992PZM4SJ)       |
 | Jason Conigliari | [@Jason Conigliari](https://dsva.slack.com/team/U097UBH593M)      |
-| Clint Wilde      | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
-| Mario Williams   | TBD                                                               |
 | Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
-| Sofia Cordero    | TBD                                                               |
-| Fiona Tang       | TBD                                                               |
-| Espy Thomson     | TBD                                                               |
+| Sofia Cordero    | [@Sofia Cordero](https://dsva.slack.com/team/U09F37D0FJ4)         |
+| Espy Thomson     | [@Espy Thomson](https://dsva.slack.com/team/U09DMMWR3RS)          |
+| Athena Bozak     | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J)          |
 
+
+### Liferay (SM Clinician, Admin Portal, National Portal) 
+- Slack channel: [#mhv-liferay-portals](https://dsva.slack.com/archives/C09BYAQ54AK)
+
+| Name                | DSVA Slack                                                        |
+|---------------------|-------------------------------------------------------------------|
+| Bryan Ivie          | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)            |
+| Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)       |
+| Clint Wilde         | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
 
 
 ### Shared Portal Support
 - Slack channel: [#mhv-shared-portal-support](https://dsva.slack.com/archives/C096KNK21SB)
+- Slack user group tags: `@mhvsharedqa`, `@mhvaccessibility`
   
 | Name             | DSVA Slack                                                                         |
 |------------------|------------------------------------------------------------------------------------|
 | Carlos Felix     | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R)                           |
-| Sarah Horton     | TBD                                                                                |
-| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/archives/D09B1CWEMS8)                   |
-| Athena Bozak     | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J)                           |
-| Jonathan Nelson  | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N)                          |
-| Anneka Van Garza | [@Anneka Van Garza](https://dsva.slack.com/team/U09CJ05E2D8)                       |
-| Tanya Malhotra   | TBD                                                                                |
-| Laura Simpson    | TBD                                                                                |
+| Sarah Horton     | [@Sarah Horton](https://dsva.slack.com/team/U09HBGL49KN)                           |
+| Steven Gallagher | [@Steven Gallagher](https://dsva.slack.com/team/U09BBH4EPDE)                       |
+| Jeffrey Heredia  | [@Jeffrey Heredia](https://dsva.slack.com/team/U09LPSVP9J7)                        |
+| Laura Simpson    | [@Laura Simpson](https://dsva.slack.com/team/U09GT3BGPGT)                          |
 
 ### Customer Support and Triage (Tier 3)
 - Slack channel: [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV)
 
-| Name        | DSVA Slack                                                                              |
-|-------------|-----------------------------------------------------------------------------------------|
-| Tom Gammons | [@Tom Gammons (va)](https://dsva.slack.com/team/U02BBL9L0CU)                            |
+| Name           | DSVA Slack                                                                              |
+|----------------|-----------------------------------------------------------------------------------------|
+| Bryan Ivie     | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1)                                  |
+| Tom Gammons    | [@Tom Gammons (va)](https://dsva.slack.com/team/U02BBL9L0CU)                            |
+| Melissa Ashton |                                                                                         |
 
 
 ## Platform and API Team Members
@@ -169,9 +178,11 @@ This cross-functional group serves as the Company points of contact for the deli
 | Name                                                           | DSVA SLACK |
 |----------------------------------------------------------------|------------|
 | Anthony Gravell                                                |            |
-| Ashish Manandhar                                               |            |
+| Michael Wellman                                                |            |
 | Lauren Cutrell                                                 |            |
-| Matthew Wright                                                 |            |
+| Maurice Johnson                                                |            |
+| Raji Venkatesh                                                 |            |
+| Lucas Davis* temporary                                         |            |
  
  ### Platform
  

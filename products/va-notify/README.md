@@ -130,24 +130,9 @@ Callbacks provide status updates per notification sent, so your team can track i
 - Provide a webhook URL in the `callback_url` field of your request to VA Notify
 - Validate the signature in the headers: `x-enp-signature`
 
-### Delivery Status Reasons
-*Temporary failure*
-- Retryable - Notification is unable to be processed at this time. Replay the request to VA Notify.
-
-*Permanent failure*
-- Undeliverable - Phone number is invalid
-- Undeliverable - Individual unreachable
-- Undeliverable - Individual or carrier has blocked the request
-- Undeliverable - Preferences declined in VA Profile
-- Undeliverable - No VA Profile contact information
-- Undeliverable - No VA Profile found in MPI
-- Undeliverable - Identifier not found in MPI
-- Undeliverable - Individual is deceased
-- Undeliverable - Unable to deliver
-
 #### Callback URL Validation
 1. Collect `x-enp-signature` value
-2. Collet all parameters in the json response (will have all fields from the sample below
+2. Collet all parameters in the json response (will have all fields from the sample below)
 3. URL encode all parameters
 4. Use the API key used for the request and HMAC-SHA256 to create a signature
 5. Validate the generated signature matches the one sent by VA Notify
@@ -161,7 +146,6 @@ signature = HMAC(
     ).hexdigest()
 ```
 Please reach out to [va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT) in OCTO slack if you need assistance.
-
 
 ### Sample Information Included in Callbacks
 ```
@@ -177,9 +161,26 @@ Please reach out to [va-notify-public](https://dsva.slack.com/archives/C010R6AUP
 "provider":"pinpoint"
 ```
 
+### Delivery Status Reasons
+*Temporary failure*
+- Retryable - Notification is unable to be processed at this time. Replay the request to VA Notify.
+
+*Permanent failure*
+- Undeliverable - Phone number is invalid
+- Undeliverable - Individual unreachable
+- Undeliverable - Individual or carrier has blocked the request
+- Undeliverable - Preferences declined in VA Profile
+- Undeliverable - No VA Profile contact information
+- Undeliverable - No VA Profile found in MPI
+- Undeliverable - Identifier not found in MPI
+- Undeliverable - Individual is deceased
+- Undeliverable - Unable to deliver
 
 ## FAQ
 ### Business & Process FAQ
+
+**Are there any blackout hours for sending SMS?**
+- Yes. SMS messages are subject to legally required “courtesy hours,” also known as quiet hours. Messages should generally be sent only between 8:00 AM and 9:00 PM in the recipient’s local time. Please plan your notifications accordingly to remain compliant.
 
 **How can Veterans opt in and opt out of SMS messages?**
 
@@ -225,9 +226,14 @@ Tech Stack
 - Our API authentication method is JWT
 
 **How can we begin sending requests through VA Notify?**
-- We will provide an API key to your team via encrypted VA.gov email
+- VA Notify provides API keys for both staging and production. Keys are issued directly by the VA Notify team and delivered over encrypted email to VA.gov addresses of the technical contacts assigned to the service. VA Notify initially provides a staging key so teams can build and test their integration, and a production key is issued once teams are ready to launch.
+*Each API key expires 180 days after creation.* Keys must be rotated before expiration to ensure service continuity and avoid notification failures.
+If multiple teams use the same service, they may request separate API keys. Each key must follow the same rotation schedule.
 
-
+**How to configure Push Notifications?**
+- The client service must integrate with the VA Flagship Mobile App Service.
+- The client team must reach out to the VA Notify team to request a new API key that will be associated with the VA Flagship Mobile App Service. This key will be used by the client’s system to authenticate push notification requests.
+- As part of the same onboarding process, the client team must work with the VEText team to create a push notification template and applicable mobile app notification preference. The template and notification preference must be created and approved before any push messages are sent.
 
 **What endpoints will my team need to use?**
 - You will only need to use our API for notification specific actions:
@@ -274,4 +280,20 @@ Tech Stack
        "personalisation": {
            "Name": "Jane"
        }
+    }
+
+**Sample Push request with personalisation**
+`{{notification-api-url}}/v2/notifications/push`
+
+    {
+        "mobile_app": "VA_FLAGSHIP_APP",
+        "template_id": "123ID",
+        "recipient_identifier": {
+            "id_type": "ICN",
+            "id_value": "value"
+        },
+        "personalisation": {
+            "appointment_date": "date",
+            "appointment_time": "time"
+        }
     }

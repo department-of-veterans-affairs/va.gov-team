@@ -32,7 +32,7 @@ Program Management:
 - December Kinney Bergh (Thoughtworks)
 
 Product Management:
-- Maria Becker (Thoughtworks)
+- Mar Becker (Thoughtworks)
 
 Design & Research:
 - Liz Blasi (Thoughtworks)

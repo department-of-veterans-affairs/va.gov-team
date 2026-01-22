@@ -1,0 +1,146 @@
+---
+name: MHV Accessibility Issue Ticket
+description: Please use this form to report or create an accessibility issue ticket for MHV
+title: "[MHV [Product] / Accessibility] [Issue description]"
+labels:
+  - accessibility
+  - needs-refinement
+assignees:
+  - steveg-IAT
+  - sarahhortonadhoc
+projects:
+  - department-of-veterans-affairs/1898
+type: bug
+body:
+  - type: markdown
+    attributes:
+      value: "# MHV Accessibility Issue Ticket"
+  - type: markdown
+    attributes:
+      value: >
+        > [!TIP]
+        > Use the following format for the issue title — [MHV [Product > Appts | MR | Meds | SM | Portal] / Accessibility] [Brief Issue description]
+  - type: markdown
+    attributes:
+      value: |
+        ## Issue Description
+  - type: textarea
+    id: story
+    attributes:
+      label: 📝 User story
+      description: Use the following format for the user story — As a [user role], I
+        want [an action] so that [a benefit].
+  - type: textarea
+    id: problem
+    attributes:
+      label: 📝 Problem statement
+      description: Describe how the issue affects users, e.g., Instead of the desired
+        action, [x] happens.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 🌌 Supporting screenshots, videos, code snippets
+      description: Attach any supporting material. An annotated picture is worth a
+        1,000 meetings.
+  - type: textarea
+    id: repro
+    attributes:
+      label: 👣 Steps to reproduce the issue
+      description: Describe how to trigger the issue. Include test user and any
+        relevant device, browser, and assistive technology, e.g. 1. Navigate to
+        [page] with [browser, username, AT, etc]. 2. Use [method] to access
+        [component, content, etc]. 3. Notice [issue].
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Issue Details
+  - type: input
+    id: contact
+    attributes:
+      label: 🔗 Point of contact
+      description: Name of person submitting the ticket who will be coordinating the work.
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: ⚠️ Severity level
+      description: Use the following user impact guide to determine severity level - 0
+        - potentially harmful - 1 - prevents task completion - 2 - prevents
+        straightforward task completion - 3 - hinders progress - 4 - noticed,
+        not hindered. Add the corresponding label to the ticket once it's
+        created (a11y-defect-0, a11y-defect-1, etc).
+      options:
+        - 0, Launchblocker. Potentially Harmful. Must be fixed immediately.
+        - 1, Launchblocker. Critical. Must be fixed before launch.
+        - 2, Serious. Should be fixed in 1-2 sprints post-launch.
+        - 3, Moderate. Should be fixed in 1-3 sprints post-launch.
+        - 4, Minor. Consider fixing or exploring in 2-4 sprints post-launch.
+  - type: textarea
+    id: related
+    attributes:
+      label: 📝 Related issues
+      description: List and link to tickets that are related to this issue.
+  - type: textarea
+    id: references
+    attributes:
+      label: 🔎 Accessibity standards
+      description: List and link to accessibility standards impacted by the issue
+        (e.g., [WCAG](https://www.w3.org/WAI/WCAG22/Understanding/), [ICT
+        Standards and Guidelines](https://www.access-board.gov/ict/)). Add the
+        corresponding label to the ticket once it's created (e.g., wcag-2.1.1).
+  - type: markdown
+    attributes:
+      value: |
+        ## Recommended Actions
+  - type: textarea
+    id: solution
+    attributes:
+      label: 𝌣 Proposed solution or next steps
+      description: Describe the proposed solution and, where possible, provide
+        recommended HTML, CSS, or JavaScript code snippets. For more complex
+        issues, provide a list of recommended next steps.
+  - type: textarea
+    id: resources
+    attributes:
+      label: 🔎 Supporting resources
+      description: Share links to supporting components, patterns, examples, and
+        techniques that support the proposed solution.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: ✅ Acceptance criteria
+      description: Checklist of changes that will result from addressing the issue,
+        e.g. [ ] The system supports arrow key navigation. [ ] The keyboard user
+        can use arrow keys to navigate menu items.
+  - type: markdown
+    attributes:
+      value: |
+        ## Next Steps
+  - type: checkboxes
+    id: tasks
+    attributes:
+      label: ✅ Possible tasks
+      options:
+        - label: Review, refine, and acknowledge feedback.
+        - label: Update ticket information (title, assignee, labels, project(s), etc.)
+        - label: Fix and/or document decisions made.
+        - label: Product manager to move ticket in their respective product board to
+            "QA/A11y Review" after reviewing documented decisions / validating
+            fix.
+        - label: Accessibility specialist will close the ticket after reviewing documented
+            decisions / validating the fix.
+  - type: markdown
+    attributes:
+      value: |
+        ### 🔎 General resources
+        - USWDS Docs: [USWDS Documentation](https://designsystem.digital.gov/)
+        - VADS Docs: [VADS Experience Standards](https://design.va.gov/components/)
+        - VADS Docs: [VADS Components Documentation](https://design.va.gov/components/)
+        - VADS Docs: [VADS Components Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)
+        - VA Platform Docs: [Accessibility defect severity rubric](https://depo-platform-documentation.scrollhelp.site/developer-docs/accessibility-defect-severity-rubric)
+        - VA Github Docs: [List of common issue tickets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues) you can reference, copy, and add to.
+        - W3C Docs: [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
+        - W3C Docs: [WCAG 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/)

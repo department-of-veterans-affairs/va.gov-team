@@ -392,6 +392,10 @@ A reusable notification system used across multiple pages to display success and
   ```
 - Deviations from Design System:
   - Using legacy USWDS `usa-alert` CSS classes instead of modern `<va-alert>` web component
+  - Is using an alert a good practice for "No claims" type messaging?
+- Implementation Bugs:
+  - The is used when there are no claims nor alerts but the content only mentions claims
+  - If there is an error with claims we shouldn't show the no claims message. This has the potential to cause concern from a user who has claims when `/benefit_claims` is down
 
 ### Claims List Item - Requested Evidence Alert
 - Location:
@@ -820,6 +824,19 @@ A reusable notification system used across multiple pages to display success and
 - Code:
   ```jsx
   // AlertsList container
+  const alertsList = allAlertsContent.map((alert, index) => {
+    const key = `${alert.type}-${index}`;
+    return (
+      <Alert
+        key={key}
+        title={alert.title}
+        description={alert.description}
+        displayType={alert.displayType}
+      />
+    );
+  });
+  ...
+  
   <div className="alerts-list-container">
     {takeActionHeader}
     <ul className="alerts-list">{alertsList}</ul>
@@ -835,20 +852,18 @@ A reusable notification system used across multiple pages to display success and
     </div>
   </li>
   ```
-- Alert Types (11 types defined in `utils/appeals-v2-helpers.jsx`):
+- Alert Types (9 types defined in `utils/appeals-v2-helpers.jsx`):
   - **Take Action alerts** (usa-alert-warning):
     - `form9Needed` - Return VA Form 9 by due date
     - `scheduledHearing` - Upcoming hearing scheduled
     - `hearingNoShow` - Missed hearing, action required
     - `heldForEvidence` - Evidence submission window open
-    - `cavcOption` - Court appeal option available
   - **Info alerts** (usa-alert-info):
     - `rampEligible` - RAMP program eligibility notification
     - `rampIneligible` - RAMP program ineligibility notice
     - `decisionSoon` - Decision timeline information
     - `blockedByVso` - VSO representation blocking
     - `evidentiaryPeriod` - Evidence submission period
-    - `amaPostDecision` - Post-decision options available
 - Deviations from Design System:
   - **Legacy USWDS classes**: Uses `usa-alert`, `usa-alert-warning`, `usa-alert-info` instead of modern `<va-alert>` web components
   - **Alerts in list items**: Wraps alerts in `<li>` elements, which is non-standard for alerts

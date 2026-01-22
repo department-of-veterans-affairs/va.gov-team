@@ -1,179 +1,195 @@
-# [WIP] Research Plan for Oracle Health Scheduling UAT and Interviews, Appointments team, 06/2025 
+# Research Plan for Orion, OH Appointment Scheduling, January, 2026
 
-Background
-----------
+## Background 🏗️
+<details><summary>Briefly describe the background of your product.</summary>
+	
+`What problem is your product trying to solve?`
 
-The goal of the MHV appointments tool is to allow Veterans who are logged into VA.gov to schedule and manage their health care appointments, no matter which health care system they are in. The appointments teams are working to integrate health care appointment functionality from [facilities that use Oracle Health EHRM systems](https://digital.va.gov/ehr-modernization/ehr-deployment-schedule/).
-
-Currently the appointment tool can display these appointments. This effort will test functionality being built that will allow Veterans to schedule appointments into the Oracle Health EHRM.
-
-This functionality has been previously tested and run through the Collab Cycle. This will test the live functionality with actual user data.
-
-Also see [Product's initiative brief.]() [Link TBA]
-
-
-### OCTO Objectives
-
-This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
-
-- Veterans and their families can find a single, authoritative source of information
-- Logged-in users have a personalized experience, with relevant and time-saving features
-
-**Increase 📈**
-
-- Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
-
-**Decrease 📉**
-
-- Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
-
-### Veteran journey
-
-Veterans may interact with VAOS at different stages across the [veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf):
-
-Starting up
-
-* MTM: Attending to health needs
-
-Taking care of myself
-
-* MTM: Recognizing and addressing mental health needs
-* MTM: Managing health issues
-
-Putting down roots
-
-* Maintaining my emotional health
-* Engaging VA to access benefits and services
-
-Retiring
-
-* MTM: Taking care of my health
-* MTM: Managing my declining health
+**The appointments tool on VA.gov lets users schedule and manage their appointments online.**
   
-## Research Goals	
+The Orion team is integrating health care appointment functionality from [facilities that use Oracle Health EHRM systems](https://digital.va.gov/ehr-modernization/ehr-deployment-schedule/) into the current VistA scheduling capabilities. This research will test functionality being built that will allow Veterans to schedule appointments into the Oracle Health EHRM.
 
-Goal 1: Ensure a Oracle Health scheduling meets user needs. 
+`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-Goal 2: Validate Oracle Health scheduling functionality.
+**Auth under My HealtheVet**
+  
+`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-Goal 3: Identify any issues with the feature before release.
+**The tool has been available since 2018. As of May 2025, all My HealtheVet classic was redirected to this tool on VA.gov**
 
-Goal 4: Understand Veterans' mental model and expectations related to scheduling an appointment with their health care providers.
+`Product Brief`
 
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/2025-oracle-health-scheduling/oracle-health-scheduling-initiative-brief.md).**
+
+</details>
+
+### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+
+<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+
+`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+
+ - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+
+</details>
+
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
+<details><summary>Where does your product fit into the Veteran journey?
+Are there moments that matter?</summary>
+	
+- `Taking Care of Myself`
+- `Reinventing Myself`
+- `Putting Down Roots`
+- `Retiring`
+- `Aging`
+- `Dying`
+
+</details>
+
+## Research Goals 🥅	
+`What are you trying to learn from this research?` 
+
+Test whether the basic functionality of OH scheduling and AVS works on production for trusted users, and identify any issues that arise. 
+
+
+### Goals
+
+`1.` **Test Oracle Health scheduling functionality, and report any issues with the feature.**
+
+`2.` **Test Oracle Health after-visit summary functionality, and report any issues with the feature.**
+
+`3.` **(Stretch Goal) Better understand a user's mental model around how they choose providers.**
+
+
+  
 ### Outcome
+`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
-The learnings from this study will be used to improve Oracle Health scheduling tools, and inform other research around how Veterans choose their providers when scheduling
+---
+
+**We will resolve any major issues before opening up the functionality to more facilities. And any learnings about the provider list will be used to improve this pattern overall.** 
+
+---
 
 ### Research questions
+> [!NOTE]
+> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-**Mental model**
+**`1.`Are participants able to easily complete all of the scheduling and after-visit summary scenarios?**
 
-- What information and considerations are important to participants when choosing a new provider?
-- What information and considerations are important to participants when scheduling with an existing provider?
+**`2.`Are any scenarios difficult to complete?**
 
-**UAT**
+**`3.`Are any features missing that are critical to scheduling an appointment?**
 
-- Are participants able to easily complete all of the scheduling scenarios?
-- Are any scenarios difficult to complete?
-- Are any features missing that are critical to scheduling an appointment?
+**`4.`(Stretch) What information and considerations are important to participants when choosing a new provider?**
+
+**`5.`(Stretch) What information and considerations are important to participants when scheduling with an existing provider?**
 
 
 ### Hypotheses
 
+---
 
-## Methodology	
-User interviews and user acceptance testing (UAT):
-- We will start with an an interview to understand participants' mental model around scheduling with a provider
-- Then we will ask them to test key scenarios. These are listed in the [test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/2025-oracle-health-scheduling/test-plan.md#test-scenarios)
+- Users will be able to complete the scheduling scenarios they test with little difficulty.
+- Users will be able to easily access and view their after-visit summaries
+- Users will identify other features or details that would help them choose a provider more easily.
+
+---
+  
+## Methodology  🛠️
+***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+
+**User acceptance testing (UAT)**
+
+- UAT meets our main goal of testing the feature with live data before a broader release. This will help us uncover any major bugs/issues.
+- If users report other improvements we could make to any of the tools, we will use that information along with other research/user feedback.
+
+<details><summary>Additional resources</summary> 
+	
+- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
+- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
+- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
+
+</details>
 
 ### Location
-Remote, moderated, on Zoom. 
+Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
-### Research materials
-*Note: your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.*
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+- [x] **Remote**
+- [ ] **In-person**
 
-- [Link to conversation guide](url goes here)
+## Research materials 📔
+
+> [!NOTE]
+> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 	
-## Recruitment	
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-oh-scheduling-web-uat/conversation-guide.md)
+- [Link to research notes doc](#) [TODO - the thought here is to have a Sharepoint doc where notetakers can capture their insights from the sessions in one spot. Need to determine if we want more than that for synthesis, like a task success matrix]
+	
+## Recruitment 🎯	
 
 ### Recruitment approach
 
-Perigean will recruit 12 total participants for this study.
+OCTO will recruit "Trusted Users" who have access to the scheduling tool who can test on their account in production.
 
 ### Recruitment criteria
 
-**Primary criteria**
+#### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+> [!NOTE]
+> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
--  6 Veteran participants that regularly use a screenreader.
--  6 Veteran participants who regularly use the VA.gov appointments tool
-  
-**Secondary criteria**  
+- `Veterans:` **7**
+- `Total:` **7**
+- `Ideal completed sessions:` **5**
 
-- A mix of advanced and beginner screenreader users.
+#### Primary criteria (must-haves)
+*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
- 
-**Screener questions**
+"Trusted user" participants who can schedule and request appointments at VA Central Ohio Health Care System
+- Participant must be registered at VA Central Ohio Health Care System
+- Participant must have completed an appointment within the last 3 years with a provider in a type of care that is schedulable through the tool. 
+- Available types of care to schedule:
+    - Amputation care
+    - Audiology - Routine hearing exam
+    - Audiology - Hearing aid support
+    - Eye care - Opthalmology
+    - Eye care - Optometry
+    - MOVE! weight management program
+    - Nutrition and food
+    - Pharmacy
+    - Sleep medicine - CPAP
+    - Sleep medicine - General (including home sleep testing)
+    - Social work
+- We'll need to know the type of care and provider we can test with for each participant
 
-
-1. Have you scheduled, reviewed or canceled your own appointments on VA.gov in the last 12 months?
-
- - Yes (Go onto Screener question 2)
- - No (Disqualify)
-
-2. Do you need to use assistive technology to use the internet such as VoiceOver on an iPhone, TalkBack on an Android device, or JAWS on a computer?
-
-   - Yes (Go onto Screener question 4)
-   - No (Disqualify after 6 (for non-AT users))
-
-3. Are you able to join the Zoom session using this assistive technology?
-
-   - Yes (Go onto Screener question 6)
-   - No (Disqualify)
-
-4. Please list the name of the assistive technology or software you will use during the session.
-
-5. Do you consider yourself an advanced or beginner screenreader user? (Advanced/Beginner)
-
-OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers. 
-
-Before writing your recruitment criteria, be sure to review the following resources. 
-- [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-- [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
-
-
-## Timeline
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person. 
+## Timeline 🗓️
 
 ### Prepare
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session. 
-* Pilot participant email:
-* Date and time of pilot session: 
 
 ### Research sessions
-* Planned dates of research:TBD
+- `Planned dates of research:` **01/14-01/28** - To be pushed forward as needed depending on feature complete date
 
 ### Length of sessions
-* Session length: 90 minutes for AT users. 60 minutes for non-AT users. 
-* Buffer time between sessions: 30 minutes 
-* Maximum Sessions per day: 4
+- `Session length:` **45m** - Expecting 30 minute sessions, with a 15 minute buffer to dig into any odd issues that arise.
+- `Buffer time between sessions:` **None**
+- `Maximum Sessions per day:` **5**
 
 ### Availability
+When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-	
-## Team Roles	
+[TODO - Note any times that no one is available in this section once we have dates solidified.]
+  
+## Team Roles  🕵️👩‍💻👩‍🔬       
 
-**Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
+- `Moderator:` **Peter Russo**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Peter Russo** - @outerpress		
+- `Participant recruiting & screening:`	**OCTO**	
+- `Project point of contact:` **Peter Russo and Kristen McConnell**		
+- `Note-takers:` **Steve Straily** 	
+- Observer sign up sheet - [TODO for UAE only]
 
-- Moderator:
-- Research guide writing and task development (usually but not always same as moderator): 	
-- Participant recruiting & screening: 
-- Project point of contact: 
-- Participant(s) for pilot test:
-- Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers: 
-- Observers: 
-
+## Approvals ✅
+- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`

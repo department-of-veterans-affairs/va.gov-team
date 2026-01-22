@@ -10,13 +10,117 @@ For any substanial decision to make or made by the team, add it here. Substantia
 
 | Date added | Decision | Background | Why make this decision |
 | :--- | :--- | :--- | :--- |
-| 09/02/25 | Do we want to show all dependents or one at a time? | This will bet tested as part of the initial picklist research. | One puts more information in front of the Veteran at once, liekly helping Veterans what decisions they need to make. It also may mean a more challenging implementation. |
-| 09/02/25 | Should we ask the death-related questions separately? | This will bet tested as part of the initial picklist research. | We need to decide which is a better experience for Veterans, and more trauma informed. |
-| 09/02/25 | Which removals should we support? | The current digital dependent verification form doesn't handle many removal types. How far do we want to go? | This would help determine scope in a big way. |
+| | | | |
+| | | | |
+| | | | |
 
 ## Decisions made
 
-## DR 2: Where does the picklist go first? 686/674 or 0538?
+### DR 6: How do we handle names in the interface that come from our data source in all CAPS?
+Date: 2025-10-17
+
+**Status**
+
+Accepted
+
+**Context**
+
+Names of dependents come from our data source in all CAPS. We can't transform them from a technical perspective because names are very unique and spelled and accented differently. Examples include: DeShaun, A'ja, Mo'Nique.
+
+**Decision**
+
+Minimize the use of the names so we're not repeating them multiple times on a screen. Our content designer refined the content to accomplish these goals:
+
+- Make the question more clear and make it align better with the options. (The original question phrasing "Do any of these apply..." made it seem more like a checkbox select field label when we really want just one removal reason.)
+- Make hint text more clear
+- Eliminate redundancy of using the name so many times (especially since the name will be in all caps)
+- Retain a unique H3 for each screen (eg., the H3 couldn't be "Reason for removing this dependent" because we may end up with that same H3 on multiple screens)
+
+**Consequences**
+
+Using the name in all CAPS has the following issues:
+
+- They may be harder to read for some people with cognitive disabilities.
+- Screen readers and other assistive technology may announce them differently, depending on the length of the name.
+- From an appearance/visual standpoint, it looks like the interface is shouting at the user.
+- Readability is reduced with all caps because all words have a uniform rectangular shape, meaning readers can't identify words by their shape.
+
+### DR 5: Which removals should we support?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+The team added this as a question when the picklist it planned to include the picklist in the dependent verification form (0538). We needed to decide if we were going to expand removal use cases beyond what the current form supported.
+
+**Decision**
+
+This question was also more relevant when the team wanted to launch the picklist feature in the dependent verification form (0538). Because that form doesn't include all removal use cases, a decision would need to be made around which ones to include in a first attempt. However, because the Add/remove dependents form (686/674) includes more use cases for removals, it's less an a high-priority question. After deciding to launch the picklist in the Add/remove dependents form (686/674), the team decided in focus on the child, parent and spouse removal cases.
+
+**Consequences**
+
+The consequences for this decision are minimal because of the switch between forms.
+
+### DR 4: Should we ask the death-related questions separately?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+The team had concerns around how to ask about death in the picklist since our original wireframes could potentially show questions about death multiple times if a Veteran had multiple dependents. The question could reintroduce trauma for Veterans. We also received feedback during the design intent session to research how Veterans might feel about the approach.
+
+**Decision**
+
+[Based on research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-08-dependent-verification-with-picklist/initial-findings.md):
+
+"Looking at data for how the participants preferred to be asked about the death of dependents, Design 2 (where the question was an option for each dependent) was preferred by 5 of 10 participants. Two participants preferred Design 1 (where the question was asked first and on its own page), 2 had no preference, and we didn't cover this with 1 participant. Preference didn't depend on which design participants saw first."
+
+Based on this, and further conversations with the team, we decided to put the question/options around death in the questions per dependent and not separately. The team feels it's more trauma informed to ask about death in each dependent with other options because it lessens the weight of the question that doesn't happen when the question gets asked alone.
+
+Also, the team felt it was more trauma-informed to get to the point and be clear for Veterans. Clarity is kindness best describes this approach.
+
+**Consequences**
+
+Pros
+
+- Puts death related question with other choices, thus deemphasizing it.
+- Based on research with Veterans.
+- Slightly easier technical solution.
+- One less page in the flow.
+
+Cons
+
+- Some Veterans could still see multiple death-related choices if they have more than one dependent and be turned off by it.
+
+### DR 3: Do we want to show all dependents or one at a time?
+
+Date: 2025-10-02
+
+**Status**
+
+Accepted
+
+**Context**
+
+This question was more relevant when the team wanted to launch the picklist feature in the dependent verification form (0538). Because that form is about verifying your current dependents, no matter how many you have, it made sense to wrestle with this question. That context has changed though since the team decided to put the picklist first in the the Add/remove dependents form (686/674).
+
+**Decision**
+
+Since the team decided to place the picklist in the Add/remove dependents form (686/674), the flow works differently. So this question didn't have as much importance. It could come up again in the future if verification gets added to the 686/674. The decision here is to not worry about this question in the Add/remove dependents form (686/674).
+
+**Consequences**
+
+The consequences for this decision are minimal because of the switch between forms.
+
+### DR 2: Where does the picklist go first? 686/674 or 0538?
 
 Date: 2025-09-08
 

@@ -1,0 +1,196 @@
+name: Create Engagement Sub-Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  create-sub-issues:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check if issue uses engagement template
+        id: check_template
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const issue = context.payload.issue;
+            const isEngagementTemplate = issue.body && issue.body.includes('<!-- engagement-template -->');
+            return isEngagementTemplate;
+      
+      - name: Create sub-issues
+        if: steps.check_template.outputs.result == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const parentIssue = context.payload.issue;
+            
+            const comments = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: parentIssue.number
+            });
+            
+            const alreadyCreated = comments.data.some(comment => 
+              comment.body.includes('<!-- sub-issues-created -->')
+            );
+            
+            if (alreadyCreated) {
+              console.log('Sub-issues already created for this issue');
+              return;
+            }
+            
+            const orgMatch = parentIssue.title.match(/\[\s*([^\]]+)\s*\]/);
+            const orgAbbr = orgMatch ? orgMatch[1].trim() : 'ORG';
+            
+            const subIssues = [
+              {
+                title: 'Schedule meeting',
+                body: `## Description
+            Schedule initial onboarding meeting with ${orgAbbr}.
+            
+            ## Tasks
+            - [ ] Identify key stakeholders + certifying official
+            - [ ] Find mutually convenient time
+            - [ ] Review onboarding deck for any updates
+            - [ ] Send calendar invite + Teams meeting link
+               - Meeting Description: We're excited to introduce the Accredited Representative Portal and understand how it can be incorporated into the organization's workflow to help Veterans.`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Conduct meeting',
+                body: `## Description
+            Hold onboarding meeting with ${orgAbbr} to introduce Representation Requests.
+            
+            ## Tasks
+            - [ ] Prepare for the meeting
+              - [ ] Open onboarding deck
+              - [ ] Open FAR
+              - [ ] Open AAR
+              - [ ] Test run through ARP Staging (RR decision + 526EZ submission)
+              - [ ] Open Find claimant
+              - [ ] Open Representation requests
+                - [ ] Submit 2 test Representation requests prior to call
+              - [ ] Open Submissions
+                - [ ] Have 526EZ and documents ready to upload 
+            - [ ] Assign notetaker
+            - [ ] Set up meeting chat thread
+            - [ ] Provide highlights to team after the call`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Send follow-up email',
+                body: `## Description
+            Send comprehensive follow-up email with all onboarding materials to ${orgAbbr}.
+            
+            ## Attachments to Include
+            - [ ] Onboarding deck
+            - [ ] Contact info spreadsheet
+            - [ ] Email template for reps
+            - [ ] Appoint a Rep PDF instructions`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Send second follow-up email',
+                body: `## Description
+            Send second follow-up to ${orgAbbr} to check on progress and answer any questions.
+            
+            ## Tasks
+            - [ ] Send follow-up message
+            - [ ] Confirm timeline for enabling access`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Coordinate bulk contact info update',
+                body: `## Description
+            Provide updated contact info to OGC for ${orgAbbr}
+            
+            ## Tasks
+            - [ ] Review spreadsheet
+            - [ ] Share with OGC and confirm when org reps will be updated`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Enable Form 21-22 online submission for org',
+                body: `## Description
+            We want to enable ${orgAbbr} for Form 21-22 online submission
+                
+            This is the documentation describing how to [enable online submission of a 21-22 representation request for a VSO on va.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/enabling-online-submission-for-vsos.md).
+                
+                ## Acceptance Criteria/Conditions of Satisfaction
+                - Veterans have the ability to submit online 21-22 requests in Appoint a Rep, for ${orgAbbr} and affiliated representatives.
+                - ${orgAbbr} representatives can receive and accept/decline online 21-22 requests in ARP.`,
+                labels: ['engagement', 'engineering', 'ar-crew']
+              },
+              {
+                title: 'Confirm access',
+                body: `## Description
+            Confirm that ${orgAbbr} can successfully access and use Representation Requests.
+            
+            ## Tasks
+            - [ ] Contact org POC to verify
+              - [ ] Ability to log into the portal 
+              - [ ] View Representation requests, Find claimant, and Submissions
+            - [ ] Address any issues`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Report on first months activity',
+                body: `## Description
+            Generate and review first month activity report for ${orgAbbr}.
+            
+            ## Tasks
+            - [ ] Collect usage metrics from Datadog 
+              - [ ] Representation requests (total, accepted, declined, avg time for decision)
+              - [ ] Claims submissions (total, 526ez, 686c)
+            - [ ] Address any issues
+            - [ ] Invite org reps for rep panel`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              }
+            ];
+            
+            const createdIssues = [];
+            
+            for (const subIssue of subIssues) {
+              // Assign to candilemoine unless it has the engineering label
+              const assignees = subIssue.labels.includes('engineering') ? [] : ['candilemoine'];
+              
+              const created = await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `[ ${orgAbbr} ] ${subIssue.title}`,
+                body: `${subIssue.body}
+            
+            Relates to #${parentIssue.number}`,
+                labels: subIssue.labels,
+                assignees: assignees
+              });
+              
+              createdIssues.push({
+                number: created.data.number,
+                title: subIssue.title
+              });
+              
+              console.log(`Created sub-issue #${created.data.number}: ${subIssue.title}`);
+            }
+            
+            const issueLinks = createdIssues.map(issue => 
+              `- [ ] #${issue.number} ${issue.title}`
+            ).join('\n');
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: parentIssue.number,
+              body: `## 📋 Engagement Sub-Issues Created for ${orgAbbr}
+
+            ${issueLinks}
+
+            <!-- sub-issues-created -->
+
+            **Note:** Check off items above as sub-issues are completed.`
+            });
+            
+            console.log(`Created ${createdIssues.length} sub-issues for parent #${parentIssue.number}`);

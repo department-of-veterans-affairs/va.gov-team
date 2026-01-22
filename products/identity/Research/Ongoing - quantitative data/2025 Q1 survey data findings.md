@@ -103,20 +103,20 @@ There were 24,823 calls related to authentication from the call center. This inc
 | Medallia intercept |  |  |  |  |  |
 | :---- | ----- | ----- | ----- | ----- | ----- |
 | **VAgov experience** | **Feb/Mar '24** | **Oct/Nov '24** | **Feb/Mar '25** | **Change from Oct/Nov '24** | **Change from Feb/Mar '24** |
-| Negative | 171 | 170 | 970 | 470.6% | 467.3% |
-| Neutral | 47 | 16 | 130 | 712.5% | 176.6% |
-| Positive | 231 | 6 | 228 | 3700.0% | \-1.3% |
+| Negative | 171 | 170 | 583 | 242.9% | 240.9% |
+| Neutral | 47 | 16 | 72 | 350.0% | 53.2% |
+| Positive | 231 | 6 | 138 | 2200.0% | \-40.3% |
 | **Total** | **449** | **192** | **1328** | **591.7%** | **195.8%**|
-| % neg | 46.4% | 88.5% | 73.0% | \-15.5% | 26.6% |
-| % neu | 10.3% | 8.3% | 9.8% | 1.5% | \-0.5% |
-| % pos | 43.4% | 3.1% | 17.2% | 14.0% | \-26.2% |
+| % neg | 46.4% | 88.5% | 73.5% | \-15.0% | 27.1% |
+| % neu | 10.3% | 8.3% | 9.1% | 0.7% | \-1.2% |
+| % pos | 43.4% | 3.1% | 17.4% | 14.3% | \-26.0% |
 
 VAgov's Medallia Intercept Data for February and March 2025 shows a significant increase in total responses over the same months in the prior year and over the previous period of October and November 2024
 
 * Negative, neutral responses both increased  over prior periods  
-* Positive responses remained relatively stable compared to February/March 2024\.  
-* Negative responses increased by about 470% from both prior periods, a large increase during the final weeks of the MHV account deprecation.  
-* Since positive responses remained about the same, while negative responses increased substantially, there is a net negative effect on the rating
+* Positive responses decreased from February/March 2024\.  
+* Negative responses increased by over 240% from both prior periods, a large increase during the final weeks of the MHV account deprecation.  
+* With positive responses decreasing, and negative responses increasing substantially, there is a net negative effect on the rating
 
 | Medallia feedback |  |  |  |  |  |
 | :---- | ----- | ----- | ----- | ----- | ----- |

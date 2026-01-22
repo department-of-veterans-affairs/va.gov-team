@@ -114,64 +114,12 @@ This table details recent and ongoing features and initiatives specifically for 
 
 
 
-## **Our team, VA relationships, and stakeholder meeting cadence**
-### **Team Members:**
-
-The current 10-10 Health Apps team roster includes:
-* **Product Managers:**
-    * Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89"
-* **UX Design/Research:**
-    * Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck"
-    * Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo"
-* **Engineers:**
-    * Daniel Sasser | daniel.sasser@va.gov / daniel.sasser@agile6.com / GH "dsasser" (Frontend)
-    * Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" (Full Stack)
-    * Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" (Full Stack/Backend focus)
-* **Sr. Data Analyst:**
-    * Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi"
-* **QA Engineer:**
-    * Allan To | allan.to@va.gov / allan.to@adhocteam.us / GH "allanto-ah"
-
-
-### **VA relationships**
-
-**OCTO-DE**
-* Lauren Alexanderson | lauren.alexanderson@va.gov - Product Crew Lead
-* Patrick Bateman | patrick.bateman@va.gov - Product Owner
-* Amanda Klausmeier | amanda.klausmeier@va.gov - Design Lead
-* Danielle Thierry | danielle.thierry@va.gov - Content writer
-
-**HEC (Health Eligibility Center) Program Team**
-* Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
-* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC
-* Amanda Scully | amanda.scully@va.gov -- Deputy Director, HEC
-* Shana Watson | shana.watson@va.gov -- Member Services SME
-* Simone Gully | simone.gully@va.gov -- Member Services SME
-* Angela Fulton | angela.fulton@va.gov -- Member Services SME
-* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
-* Zachariah Bell | zachariah.bell@va.gov -- Acting ECM Supervisory Program Specialist
-* Cheylanda Griffith | cheylanda.griffith@va.gov -- Supervisory Program Specialist
-* Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
-* Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
-* Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
-* Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-
-
-**Enrollment System (ES) (End-to-End Testing POCs)**
-* Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
-    * Primary contact for ES testing (end2end)
-* Ramya Venkataraman | ramya.venkataraman@va.gov - SQA Test Lead, Enrollement system
-    * Secondary contact for ES testing
-* Reetu Dhanda | reetu.dhanda@va.gov - SQA Test Engineer (VES PACT Act scrum team)
-* Turkan Kasamanly | turkan.kasamanli@va.gov - Test Automation Engineer (VES PACT Act scrum team)
-
-
 ### **Recurring stakeholder meetings**
 * **10-10EZR Online Update form:**
     * The bi-weekly routine was cancelled due to low attendance and engagement
         * It was agreed to engage audience as needed
         * We will continue to share features and research information, as well as hold any knowledge share sessions with this audience
-    * Bryan Burgan is currently the main point of contact for assisting with facilitating meetings.
+    * Bryan B is currently the main point of contact for assisting with facilitating meetings.
 
 ## **Outstanding Questions and Action Items**
 

@@ -1,17 +1,18 @@
 # Research Overview: My VA
 
-Last Updated: March 2025
+Last Updated: November 2025, added new My VA study.
 
-### Communications
+## Communications
 
 - GitHub Label: authenticated-experience
 - Slack channel: #accountexp-authexp
 
-### Overview
+## Overview
 This document contains links to all research conducted related to My VA prior to March 2025. As well as overviews of upcoming and new research.
 
-### Current Research
-1. [03/2025 Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/research/2025-03-secondaryresearch/research-findings.md): Overview of all research completed about My VA prior to 03/2025.
+## Current Research
+1. [08/2025 My VA 3.0 Phase 2, usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/research/2025-08-myva3.0-phase1-usabilitytesting): Usability testing of new features for My VA. Includes alerts, new sections, and notifications.
+2. [03/2025 Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/research/2025-03-secondaryresearch/research-findings.md): Overview of all research completed about My VA prior to 03/2025.
 
 ### Research Prior to 03/2025
 **START HERE [03/2025 Seconday Research Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/research/2025-03-secondaryresearch/research-findings.md): Encompasses all findings prior to 03/2025**

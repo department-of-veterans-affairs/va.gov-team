@@ -1,3 +1,159 @@
+# Direct deposit information use cases
+
+Last updated: December 2025  
+
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465334851/afdc4978dfd4cd9880a90f4066e236095170365b?sender=u36b374887f74c9a3de2d0750)  
+* [Figma files](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2-19060&t=9ojLRO7c6FffSgwT-1)
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+* [Staging test accounts for direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-direct-deposit.md)  
+* [Payments not detected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-not-detected.md#how-to-reproduce)  
+* [Direct deposit not set up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-dd-not-setup.md#how-to-reproduce)  
+* [Direct deposit partially set up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/payments-detected-complete-setup.md#how-to-reproduce)  
+* [Editing Bank account information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md#how-to-reproduce)  
+* [Account flagged for fraud](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fraud.md#how-to-reproduce)  
+* [Account doesn't have valid contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md#how-to-reproduce)  
+* [System error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/system-cant-display-dd.md#how-to-reproduce)
+
+</details>
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+[Edge cases](#edge-cases)
+
+- [Validation](#validation)
+
+- [Flags](#flags)
+
+- [Errors](#errors)
+
+# Overview 
+
+The **Direct deposit information** page allows users to manage their direct deposit information for disability compensation, pension, or education benefits. There is read only information on how to update direct deposit for Montgomery GI Bill benefits. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+# Use cases 
+
+## Payments detected: Direct deposit set up 
+
+* **Description:** Detected the user is receiving payments, and has direct deposit set up. User can only **edit** their information. Direct deposit information is **not** removable.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2-19062&t=9ojLRO7c6FffSgwT-1)
+
+## Payments detected: No direct deposit set up 
+
+* **Description:** Detected the user is receiving payments, but does not have direct deposit set up. User has an option to **edit** to add direct deposit information.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2004-5979&t=9ojLRO7c6FffSgwT-1)
+
+### Shared profile editing interactions
+
+There are several shared editing interactions that are used in profile. The linked documentation includes the following:
+
+* Adding information  
+* Inline editing and validation  
+* Save in progress  
+* Saving information: Success  
+* Saving information: Error  
+* Canceling edit changes  
+* Edit-as-a-subtask flow
+
+[Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-interactions)
+
+## Ineligible: No payments detected 
+
+* **Description:** Detected that the user is not receiving any payments. There are no available actions.  
+* **Status code:** TBD  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2004-8919&t=9ojLRO7c6FffSgwT-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/Ineligible.jsx)
+
+# Edge cases 
+
+## Validation 
+
+### InvalidRoutingNumber: Invalid routing number entered 
+
+* **Description:** User edits their Bank account information, a call is made to match the routing number, and the routing number is incorrect. Alert appears above input fields in Bank account information edit use case.  
+* **Status code:** TBD  
+* **Format:** [Slim error alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2001-10845&t=jlBLcwkpwon2tpkz-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L65)
+
+### UpdatePhoneNumberError: Invalid home or work number entered 
+
+* **Description:** User edits their Bank account information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears below header in Bank account information edit use case.  
+* **Status code:** TBD  
+* **Format:** [Slim error alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2009-2872&t=jlBLcwkpwon2tpkz-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L106)
+
+### UpdateAddressError: Invalid address entered 
+
+* **Description:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears below header in Bank account information edit use case.  
+* **Status code:** 422  
+* **Format:** [Slim error alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2009-3189&t=jlBLcwkpwon2tpkz-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93)
+
+## Flags 
+
+### Direct deposit information flags 
+
+#### PaymentRestrictionError: Account flagged for fraud
+
+* **Description:** User edits their Bank account information, a call is made to check for fraud, and returns the alert. Alert appears below header in Bank account information edit use case.  
+* **Status code:** PUT/UPDATE 422  
+* **Format:** [Slim error alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2009-3344&t=jlBLcwkpwon2tpkz-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L123C10-L123C33)
+
+#### FlaggedRoutingNumber: Routing number flagged for fraud
+
+* **Description:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears below header in Bank account information edit use case.  
+* **Status code:** TBD  
+* **Format:** [Slim error alert component](https://design.va.gov/components/alert/#web-2)  
+* [Link to designs](https://www.figma.com/design/o56Tm2MhyKJ4NxezHwlDtL/Profile---Financial-information?node-id=2009-3499&t=jlBLcwkpwon2tpkz-1)  
+* [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
+
+### Profile shared flags 
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Profile shared errors 
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)  
+  * **Description:** Used as generic Bank account information GET/SHOW error.  
+  * **Status codes:**  
+    * GET 401 Unauthenticated user  
+    * GET 403 Forbidden user  
+    * GET 502 Bad gateway, API not receiving answer from back end server  
+    * GET 503 Service unavailable  
+* [Saving information: Error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#saving-information-error)
+  * **Description:** Used as generic Bank account information PUT/UPDATE error.  
+  * **Status codes:**  
+    * PUT 400 Bad request to BGS  
+    * PUT 401 Unauthenticated user  
+    * PUT 403 Forbidden user  
+    * PUT 502 Bad gateway, API not receiving answer from back end server
+
+
+   
+---
+
+
+
+<details><summary>Archive | Direct deposit use cases, July 2025</summary>
+   
 # Direct deposit use cases
 
 **Last updated: July 2025** Added shared profile use cases.
@@ -212,8 +368,14 @@ Refresh this page or try again later.
    - PUT **502** Bad gateway, API not receiving answer from back end server
 
 </details>
+
+</details>
+
+
  
 ---
+
+
 
 <details><summary>Archive | Direct deposit use cases, February 2024</summary>
 

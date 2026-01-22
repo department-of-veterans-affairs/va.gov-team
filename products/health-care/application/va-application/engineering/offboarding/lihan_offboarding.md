@@ -32,9 +32,9 @@ No major pain points with our team's code base. Pain points mostly out of our te
 
 
 Delete unused HCA sidekiq jobs.
-`HCA::AnonEncryptedSubmissionJob`
-`HCA::BaseEncryptedSubmissionJob`
-`HCA::EncryptedSubmissionJob`
+- `HCA::AnonEncryptedSubmissionJob`
+- `HCA::BaseEncryptedSubmissionJob`
+- `HCA::EncryptedSubmissionJob`
 
 
    * What should have more tests
@@ -57,9 +57,9 @@ Maybe HealthCareApplication can be refactored so that it doesn't use the postgre
 1010 team sidekiq jobs:
 
 
-Form1010cg::DeleteOldUploadsJob - Delete form attachments older than 30 days
-Form1010cg::SubmissionJob - Submit the 1010CG form
-Everything in app/sidekiq/hca is for submitting the 1010EZ and 1010EZR forms except LogEmailDiffJob, the purpose of that job is documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/41766
+- Form1010cg::DeleteOldUploadsJob - Delete form attachments older than 30 days
+- Form1010cg::SubmissionJob - Submit the 1010CG form
+- Everything in app/sidekiq/hca is for submitting the 1010EZ and 1010EZR forms except LogEmailDiffJob, the purpose of that job is documented here: https://github.com/department-of-veterans-affairs/va.gov-team/issues/41766
 
 
    * diagrams that encapsulate how the submission flow and backup submissions work

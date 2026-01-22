@@ -1,6 +1,6 @@
 # 10-10EZ Endpoint Monitoring Playbook
 
-_last updated: 03-17-2025_
+_last updated: 11-21-2025_
 
 ## Overview
 
@@ -10,6 +10,14 @@ _last updated: 03-17-2025_
 ## Audience
 
 - Team members responding to [Datadog monitor alerts](https://vagov.ddog-gov.com/monitors/manage?q=1010ez&order=desc).
+
+## ‼️Process for Engineers to obtain Veteran contact information (as of 11/21/2025)
+- New process, now that rails access is revoked, for situations where we would normally look at the database.
+   - We are first to reach out to our VA engineer lead closest to our project  
+      - If they are unavailable or don't have rails access, we can reach out to #vfs-platform-support for rails console access. 
+   - **Please note** that we need to have at least two people on a Teams call peering for running production rails console/terminal commands.
+      - We confirmed that one of our engineers could act as one of the two people
+   - **Reminder** to never record any screen sharing that includes pii and pii can only be sent in teams, never in slack or agency email.
 
 # Monitor: 10-10EZ anomaly monitor
 
@@ -24,16 +32,14 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
-  - [SOCKS access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy) required
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - The team member will determine if there have been any failures that is causing the low volume of submissions, requesting assistance from other team members as needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - If any errors/failures are found within the form, the team will
   - [PM] Communicate the issue to the Product Owner
   - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures
@@ -52,7 +58,6 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -73,17 +78,17 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Determine if a PagerDuty maintenance banner needs to be in place to stop further failures - PM will open maintenance window in PagerDuty if needed
 - Obtain Veteran contact information (Name, Phone number, Email address)
+  - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
 - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
   - Copy PO and PMs (VA emails only)
@@ -106,17 +111,16 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
 - First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
 - Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
-  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
-- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+  - This includes reviewing Datadog and Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent within 15 minutes, the team will open a Platform Support ticket for assistance
 - Communicate the issue to the Product Owner
-- If any errors/failures are found within the form, the team will
+- If any errors/failures are found within the form, the team will:
   - Determine if a maintenance banner needs to be in place to stop further failures
     - PM will open maintenance window in PagerDuty if needed
   - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
@@ -133,7 +137,6 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
@@ -145,7 +148,7 @@ _last updated: 03-17-2025_
 ## Slack & Email Alert: "1010EZ Silent Failure on sending submission failure email [VA Notify callback]"
 
 - A 10-10EZ Form submission has failed submission, and the email that is sent to the Veteran has failed sending through VANotify.
-- We should have already seen a `1010EZ submission job has failed with no retries left` failure, and then this monitor would trigger roughly 24 hours later if the email also fails (The email send operation is in a sidekiq job that has 14 retries).
+- We should have already seen a `1010EZ submission job has failed with no retries left` failure, and then this monitor would trigger roughly 24 hours later if the email also fails (The email send operation is in a sidekiq job that has 16 retries).
 
 ### Required access
 
@@ -154,13 +157,14 @@ _last updated: 03-17-2025_
   - #1010-health-apps channel
   - #health-tools-1010-apm channel
   - #vfs-platform-support channel
-- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps
 
 - There should be a corresponding rails log named `Error notification to user failed to deliver` and with metadata containing the notification_id and form id (`{ notification_record_id: notification_record.id, form_number: metadata['form_number'] }`). The form id is `10-10EZ`.
-- Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission. Use this log to:
-  - Obtain Veteran contact information (Name, Phone number)
-  - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
-  - Explain what has happened (submission failure) and provide the Veteran contact info.
+- Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission.
+  - `PersonalInformationLog` is no longer accessible by team engineers. Team will need to reach out to Platform engineer contacts or open a Platform Support ticket so that they can assist in obtaining the Veteran's information
+  - Use this log to:
+    - Obtain Veteran contact information (Name, Phone number)
+    - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
+    - Explain what has happened (submission failure) and provide the Veteran contact info.
   - Copy PO and PMs (VA emails only)

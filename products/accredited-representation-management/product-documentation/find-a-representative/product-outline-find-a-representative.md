@@ -126,23 +126,14 @@ Released to 100% of users on March 13, 2024. A landing page "Get help from a VA 
   
 </details>
 
---- 
-## **Recommended Next Steps**
+---
 
-#### Next Version Priorities - Find a Representative 3.0
-A future version of Find a Representative should strive for:
-1. Advanced filters, for users to refine their search results based on the associated VSO, a representative's name, and their method of contact (online, in person, both).
-2. A detail page for search results, to reduce the initial search result cognitive load and allow for scalability of representative inforamtion on VA.gov.
+### Next Steps
 
-[Figma designs for Find a Representative 3.0](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0) have already been completed.
+#### Version 3.0 | Release Date TBD
 
-We recommend these designs undergo usability testing and be updated based on reasearch findings. After this, Find a Representative 3.0 will be ready for develpoment!
-
-Please refer to these epics, to bring the Find a Representative 3.0 designs into Production:
-1. [ARM Research: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97783) - validate v3 designs with user testing, and report on findings.
-2. [ARM Design: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98591) - update v3 designs based on research findings, and finalize for handoff to development.
-3. [ARM Development: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80758) - development of v3, based on finalized designs.
-
+Introducing search filters, for users to refine their search results based on the representative's associated VSO. [WIP Figma designs for Find a Representative 3.0](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0)
+   
 #### Known Bugs
 Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
 
@@ -172,14 +163,14 @@ Longer term ideas are stored in our[ARM Future Ideas](https://dvagov.sharepoint.
 
 ## **Communications**
 
-1. **Team Name**: Accredited Representation Management
-2. **GitHub Label**: accredited-representation-management-team
-3. **Slack channel**: #benefits-representation-management
+1. **Team Name**: Accredited Representation Crew - Team Appoint
+2. **GitHub Label**: ar-crew, ar-team-appoint
+3. **Slack channel**: #benefits-accredited-rep-crew
 
 
 ## **Team Leads**
 
 1. **DEPO Lead**: Jennifer Bertsch
-2. **Product Manager**: Lindsay Li-Smith
-3. **Engineering**: Holden Hinkle
-4. **UX Research/Design**: Janelle Finnerty
+2. **Product Manager**: Mia Bottcher, Lindsay Li-Smith
+3. **Engineering**: Nick Sprinkle
+4. **UX Research/Design**: David Krofel, Lena-Phuong Tran

@@ -110,17 +110,21 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 ### What're you building?
 
 **In scope:**
-- V2 Confirmation Flow design displaying existing last reported service period
-- Question asking "Do you have a more recent service period to add?"
+- Integrating with VA Profile as the data source for military service history
+- V2 Confirmation Flow design displaying existing service periods
+- Question referencing service period and whether the most recent is accurate.
 - Military Service question page (consistent with 10-10EZ patterns)
 - Service history page with checkboxes (consistent with 10-10EZ patterns)
-- Enhanced file upload capability for DD-214 documents
-- Integration with existing arrayBuilder pattern for service periods
+- Enhanced file upload capability for DD-214/other military documents
 - Responsive design across devices
 
+     - **Decisions made**
+          - We will have a single file upload page conditional upon whether the Veteran answers Yes to adding service history (either/or) TERA questions
+          - 1/8/2026 - Decision made to use VA Profile as data source
+
 **Explicitly not included:**
-- Changes to backend service history verification processes
 - Historical service record corrections (focuses on new/recent periods)
+     - Any DOD records that need corrections can only be initiated by the Veteran through specific channels
 - Integration with other benefit applications beyond healthcare
 
 **Mobile application consideration:**
@@ -134,13 +138,13 @@ Should be designed mobile-first given the form-filling nature of the experience 
 ### Timeline
 
 **Major milestones:**
-- Design completion using arrayBuilder and existing 10-10EZ patterns: [TBD]
+- [Design](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR-Working-Files?node-id=10484-61369&p=f&t=7DffyK9pHaYtYyH4-0) completion displaying previous history and existing 10-10EZ question pages patterns: [Prior to Dec 2025 - finalized decisions 12/18/2025]
 - File upload capability enhancement/content changes: [TBD]
 - Integration testing: [TBD]
 
 #### Initiative Launch Dates
 
-- **Target Launch Date**: November 2025
+- **Target Launch Date**: December 2025
 - **Actual Launch Date**: TBD
 
 ---
@@ -163,10 +167,10 @@ TBD
 
 <details>
 
-- Team Name: Health Update Form Team / Healthcare Application Team
+- Team Name: Health Application Team
 - GitHub Label(s): 10-10ezr, military-info
-- Slack channel: #1010-health-apps
-- Product POCs: Heather Justice (PM)
+- Slack channel: #health-apps
+- Product POCs: Heather J (PM)
 
 </details>
 
@@ -176,8 +180,8 @@ TBD
 
 <details>
 
-- Office/Department: OCTO-DE
-- Contact(s): Lauren Alexanderson, Patrick Bateman
+- Office/Department: DSD
+- Contact(s): Lauren A, Premal S
 
 </details>
 

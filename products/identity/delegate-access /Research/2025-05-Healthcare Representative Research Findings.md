@@ -75,7 +75,7 @@ There have been many teams that have come before the Identity team; we wanted to
 
 We looked at data points that were relevant to the questions we had so this recap is not comprehensive but calls out things as they relate to our research.
 
-* * [2024-10 Caregiver study](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0)  
+* [2024-10 Caregiver study](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0)  
   * This research focused primarily on form 10-10CG but there were some findings as related to caregivers in general.  
     * Many caregivers wanted to know what eligibility and benefits they and their Veterans qualified for prior to applying.  
     * The caregiver program brought up negative feelings and feelings of confusion.  
@@ -92,37 +92,30 @@ We looked at data points that were relevant to the questions we had so this reca
 ## Key Findings
 
 1. **The burden of being a caregiver is heavy.**
-* **Insight:** Caregivers who work with their loved ones seemed overwhelmed.  Some are able to find support, but others are really struggling.  
+    * **Insight:** Caregivers who work with their loved ones seemed overwhelmed.  Some are able to find support, but others are really struggling.  
     * **Key Quote**: "When you have a significant other, there's a lot of things they do. The frustrating part for me was trying to help her take care of the little things.  She had so many tasks I needed to help with it was like "where's my time?" **\- *P4***
-
 2. **Caregiver designation doesn’t equal authorization and/or access.**
-
-  * **Insight:** Although the caregiver support programs can designate a caregiver status, the caregiver is unable to officially complete actions on behalf of a Veteran.  
-    * POA & consent forms are used inconsistently & often need to be resubmitted or carried physically. The designations don’t translate to digital access or systemic permissions.  
-    * *Insight from stakeholder call – CARMA documents caregiver roles & connects with MPI and EHR. This status does not translate to permissions nor is it portable across channels.*    
-  * **Insight:** Expectations for the caregiver programs were often not met.  
-      * Many caregivers conflate program enrollment with access or ability to act on behalf of the veteran.
-      * Some caregivers reported that community support groups were more helpful than the caregiver support programs.
-      
+     * **Insight:** Although the caregiver support programs can designate a caregiver status, the caregiver is unable to officially complete actions on behalf of a Veteran.  
+       * POA & consent forms are used inconsistently & often need to be resubmitted or carried physically. The designations don’t translate to digital access or systemic permissions.  
+       * Insight from stakeholder call – CARMA documents caregiver roles & connects with MPI and EHR. This status does not translate to permissions nor is it portable across channels.*    
+     * **Insight:** Expectations for the caregiver programs were often not met.  
+        * Many caregivers conflate program enrollment with access or ability to act on behalf of the veteran.
+        * Some caregivers reported that community support groups were more helpful than the caregiver support programs.
 3. **Caregivers are adept at working around the system to get things done.**
-  * **Insight:** Caregivers are able to act on Veteran's behalf thru the phone, in-person & online.
-  * * **Insight:** Caregivers who used a Veterans' credentials did not seem concerned with security.
-  * **Insight from stakeholder call – not officially sanctioned, but many workarounds are tolerated by staff based on familiarity and need.*  
-
+     * **Insight:** Caregivers are able to act on Veteran's behalf thru the phone, in-person & online.
+     * **Insight:** Caregivers who used a Veterans' credentials did not seem concerned with security.
+     * **Insight** from stakeholder call – not officially sanctioned, but many workarounds are tolerated by staff based on familiarity and need.*  
 4. **VA systems are fragmented and hard to navigate.**
-
-  * **Insight:** The process of applying for benefits and healthcare can be daunting and overwhelming.  
-  * **Insight:** Many caregivers expressed that they had difficulty navigating the VA.  
-    * **Key Quote**: "A civilian trying to navigate a military world and lingo has been a learning curve." **\- *P6***  
-  * **Insight:** Documentation and resources were hard to find on va.gov.
-    * **Key Quote**: ""I think sometimes technology hurts with that [tech silos and bridging gaps]." **\- *P7*** 
-  * **Insight:** Since the VBA and VHA are separate entities, caregivers were frustrated with having to navigate both systems separately which felt redundant and unecessary.
-  * **Insight from stakeholder call – even when caregivers complete authorization forms, they’re not consistently recognized across services.*
-
+    * **Insight:** The process of applying for benefits and healthcare can be daunting and overwhelming.  
+    * **Insight:** Many caregivers expressed that they had difficulty navigating the VA.  
+         * **Key Quote**: "A civilian trying to navigate a military world and lingo has been a learning curve." **\- *P6***  
+    * **Insight:** Documentation and resources were hard to find on va.gov.
+         * **Key Quote**: ""I think sometimes technology hurts with that [tech silos and bridging gaps]." **\- *P7*** 
+    * **Insight:** Since the VBA and VHA are separate entities, caregivers were frustrated with having to navigate both systems separately which felt redundant and unecessary.
+    * **Insight** from stakeholder call – even when caregivers complete authorization forms, they’re not consistently recognized across services.*
 5. **Some interactions are smooth but not consistent across the board.**
-
-  * **Insight:** Highlights of caregiver's interactions were similar.  
-    * Prescription refills, medical devices, and provider comms were described as simple and positive. Suggests that once access is established, the tasks are straightforward.
+    * **Insight:** Highlights of caregiver's interactions were similar.  
+      * Prescription refills, medical devices, and provider comms were described as simple and positive. Suggests that once access is established, the tasks are straightforward.
 
 
 ## Details of Findings 

@@ -43,17 +43,33 @@ body:
     label: Definition of Done
     options:
       - label: Meets acceptance criteria
-      - label: Passed all testing coverage
-      - label: Logging and monitoring in place
-      - label: Code or content reviewed (Internal)
       - label: Reviewed and approved by product and/or design
-
+- type: checkboxes
+  attributes:
+    label: Engineering
+    options:
+      - label: All tests pass
+      - label: New functionality is covered by unit tests
+      - label: Logging and monitoring are implemented (if applicable)
+- type: checkboxes
+  attributes:
+    label: Code Review & Pull Requests
+    options:
+      - label: PR includes Local testing steps
+      - label: PR includes Flipper/testing state details (if applicable)
+      - label: PR includes Author's local proof of submission screenshot
+      - label: Copilot review completed and feedback addressed
+      - label: Internal reviewer approved
+      - label: Internal reviewer added local proof of submission screenshot
+      - label: Code functionality verified on Staging after merge  
 - type: checkboxes
   attributes:
     label: Refinement Checklist! 
     description: Make this ticket ready to work
     options: 
-      - label: Add description, tasks, and acceptance criteria
-      - label: Add estimate
-      - label: Add the proper labels, team, and priority
-      - label: Add an Epic or Super Epic
+      - label: Added description, tasks, and acceptance criteria
+      - label: Added estimate
+      - label: Labeled with Practice Area (engineer, design, product, data science)
+      - label: Labeled with issue type and characteristics of the ticket (bug, accessibility, request, discovery, documentation, research, content, ux testing, front-end, back-end, datadog, etc.)
+      - label: Added any other relevant project fields (team, OCTO priority...)
+      - label: Added an Epic or Super Epic

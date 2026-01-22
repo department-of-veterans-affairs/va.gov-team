@@ -12,24 +12,42 @@ The Health Portal on VA.gov relies on multiple systems to enable the health expe
 
 This process will evolve as VA tools and capabilities allow us to mature our capabilities.[^1] For the immediate future, we'll need to actively monitor Slack channels for errors from our [MHV Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Amhv).[^2] In the near future, we should be able to have PagerDuty alert engineers when something goes wrong.
 
-### Late 2025 process
+### On-Call Rotation
 
-An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
+An engineer from each tool team will be on-call for a 7 day period, with a new rotation starting every Thursday. We use [PagerDuty schedules](https://ecc.pagerduty.com/schedules-new) to manage the on-call rotation.
+
+#### 📅 PagerDuty Schedules
+
+- [MHV Medical Records On Call](https://ecc.pagerduty.com/schedules#PFQ1743)
+- [MHV Medications & Supplies Web](https://ecc.pagerduty.com/schedules#PSD1U34)
+- [MHV Secure Messaging On Call](https://ecc.pagerduty.com/schedules#P30J26X)
+
+#### 📞 Slack `-oncall` Groups
+
+We also utilize Slack groups that allow us to provide an easy way for folks to get in touch with the right person. The Slack group handles are:
+
+- `@mhv-medrecords-oncall`
+- `@mhv-meds-oncall`
+- `@mhv-securemsg-oncall`
+
+#### 🤝 Handoff
+
+1. If you are going on-call, please contact the outgoing on-call engineer to gain context on any recent or ongoing issues
+2. Please update your `-oncall` Slack group to include the current on-call engineer and remove the engineer whose shift has ended
+
+### 👀 How to monitor
+
+On-call engineers will monitor their tools' Slack `-alerts` channel and the `mhv-on-vagov-alerts` channel. The on-call engineer will investigate issues that arise, and coordinate with relevant partners, e.g. MHV Backend, on actions needed to resolve issues.
+
+Currently, Datadog monitors are not set up to notify on-call engineers directly (as of Nov 2025). These monitors are also used/monitored by MHV Platform.
 
 The OCTO Watch Officer on-call may reach out when a Priority 1 and 2 (P1 and P2) monitor reaches or maintains an "error" state. The on-call engineer will take responsibility to respond to the Watch Officer and provide updates and resolution when needed.
 
-We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. Slack groups will be named according to team, with `-oncall` at the end, e.g. `@mhv-medical-records-oncall`.
-
-### Future process
-
-When PagerDuty is migrated and configured to alert engineers when something goes wrong, periodic checking of Slack will be less important. Instead, engineers will acknowledge notifications from PagerDuty and begin the triage process in response.
-
-
-### Relation to Investigator On-call
+### 🕵️ Relation to Investigator On-call
 
 In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./oncall-investigator.md) for details.
 
-## How to respond to an alert or incident
+## How to respond to an alert or incident 🚨
 
 Please be familiar with the [VA Platform Incident Response for application teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te). The process outlines 4 steps for determining severity and validity of the alert, communications, working the problem, and wrapping things up. Some additional context for MHV Frontent:
 
@@ -45,6 +63,23 @@ Please be familiar with the [VA Platform Incident Response for application teams
   - Follow the post-mortem process, and plan to share lessons learned with the teams and stakeholders.
 
 VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other systems for data and functionality, and we should be prepared to inform and engage with those system owners to resolve issues
+
+### OCTO Watch Officer
+
+The OCTO Watch Officer will get notified of P1 and P2 alerts from Datadog monitors. The Watch Officer may reach out to the on-call engineer for assistance in investigating and resolving the issue.
+
+The Watch Officer may provide a ticket from [octo_watchofficer/issues](https://github.com/department-of-veterans-affairs/octo_watchofficer/issues) and recommend the following response:
+
+1. Work with your team to determine the root cause of the alert
+2. Depending on the root cause take one of the actions below
+
+|Root cause |	Action |
+|---|---|
+| Error in your application	| Add a comment with a link to the issue tracking the fix |
+| Error in an upstream system |	Add a comment with a link to the issue tracking the conversation with the point of contact for that system |
+| Overly sensitive or 'flapping' monitor | Work with @department-of-veterans-affairs/watch-engineers to adjust the monitor |
+| This alert is not actionable |	Add a comment explaining why it is not actionable |
+
 
 ### Caveats
 

@@ -1,3 +1,91 @@
+# Personal information use cases
+
+Last updated: December 2025  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753459771642/6c6889e40ac249724ef1b9968f6b0ba7c57a05ad?sender=u36b374887f74c9a3de2d0750)
+* [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1235-18927&t=UZZx6NpdeDPQTxDT-1)
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+* [User needs to add or update personal information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/add-edit-personal-info.md#add-or-edit-personal-info)
+
+</details>
+
+# Jump to
+
+[Overview](#overview)
+
+[Use cases](#use-cases)
+
+[Edge cases](#edge-cases)
+
+- [Flags](#flags)
+
+- [Errors](#errors)
+
+# Overview 
+
+The **Personal information** page allows users to view their legal name, date of birth, and disability rating. And manage their preferred name, which is not removable once added. For all of the use cases, the user must be LOA3 (identity verified). If the user is not LOA3 verified, they will be directed to the **Sign-in information** page to verify their account.
+
+# Use cases 
+
+## Read-only: Legal name and Date of birth 
+
+* **Description:** Legal name and date of birth are read-only. Users are provided links on how to update their information. Since accounts have to be verified, this information always shows.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1235-18929&t=UZZx6NpdeDPQTxDT-1)
+
+## Editing: Preferred name 
+
+* **Description:** Preferred name can be added and edited, but not removed. Preferred names can be up to 25 alphabetic characters. Special characters, spaces, and numbers are not accepted. Once a preferred name has been added the authenticated header updates to reflect their name.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1239-6301&t=UZZx6NpdeDPQTxDT-1)
+
+#### Shared profile editing interactions
+
+There are several shared editing interactions that are used in profile. The linked documentation includes the following:
+
+* Adding information  
+* Inline editing and validation  
+* Save in progress  
+* Saving information: Success  
+* Saving information: Error  
+* Canceling edit changes
+
+[Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-interactions)
+
+## Read-only: Disability rating 
+
+* **Description:** Disability rating is read only. The section displays the users percentage of disability rating, or that they don’t have a disability rating. The user is also provided links to learn more about disability ratings and the PACT Act.  
+* **Status code:** 200  
+* **Format:** See designs  
+* [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=1239-6314&t=UZZx6NpdeDPQTxDT-1)
+
+# Edge cases 
+
+## Flags 
+
+### Profile shared flags
+
+* [User with a blocked account attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)  
+* [LOA1 user attempts to access any section of profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+## Errors 
+
+### Profile shared errors
+
+* [Full page, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#full-page-backend-system-down)  
+* [Section only, backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#section-only-backend-system-down)
+
+
+
+---
+
+
+
+<details><summary>Archive | Personal Information Use Cases, July 2025</summary>
+
 # Personal Information Use Cases
 **Last updated: July 2025**
 
@@ -71,7 +159,13 @@ There are no validation use cases for this feature.
 
 [System error: Cannot display section information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
+</details>
+
+
+
 ---
+
+
 
 <details><summary>Archive | Personal Information Use Cases, February 2024</summary>
 

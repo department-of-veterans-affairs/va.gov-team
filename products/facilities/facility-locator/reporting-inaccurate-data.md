@@ -52,14 +52,14 @@ Vet Centers, Vet Center Outstations, and Community Access Points | operating sta
 
 | Change needed | Process
 | ---	|	--- |
-| Location name, address, phone, or hours | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
-| Location services  | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
+| Location name, address, phone, or hours | Contact Jonathan Katora (email: jonathan.katora@va.gov) or #facilities-support channel |
+| Location services  | Contact Jonathan Katora (email: jonathan.katora@va.gov) or #facilities-support channel |
 | Operating status | Contact the VBA Web Team (WEBADMIN.VBACO@va.gov) |
 
 ## NCA Cemeteries  
 
-Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov or Jonathan Katora, VA Product owner at jonathan.katora@va.gov.
 
 ## Community care providers and pharmacies 
 
-Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Jon Katora, VA Product Owner at jonathan.katora@va.gov

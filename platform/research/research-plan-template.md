@@ -1,3 +1,115 @@
+---
+# Research Plan Metadata
+title: "Research Plan for [Team, Product, Date]"
+date: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+team: "[Team Name]"
+product: "[Product Name]"
+product_area: "[e.g., authenticated/unauthenticated]"
+
+# Background Context
+background:
+  problem_statement: "[What problem is your product trying to solve?]"
+  product_location: "[Where is this situated on VA.gov?]"
+  user_familiarity: "[New product or iteration?]"
+  product_brief_url: "[URL]"
+
+# Research Design
+methodology: "[e.g., usability testing, semi-structured interviews, card sort]"
+research_format: 
+  location: remote # Options: remote, in-person, hybrid
+  in_person_details:
+    facility: "[Location name if applicable]"
+    point_of_contact: "[Name if applicable]"
+    equipment: "[Equipment details if applicable]"
+  moderated: true # Options: true, false
+  
+# Research Goals & Questions
+research_goals:
+  - goal_1: "[First research goal]"
+  - goal_2: "[Second research goal]"
+  - goal_3: "[Third research goal]"
+
+research_questions:
+  - "[Research question 1]"
+  - "[Research question 2]"
+  - "[Research question 3]"
+  - "[Research question 4]"
+  - "[Research question 5]"
+
+hypotheses:
+  - "[Hypothesis 1]"
+  - "[Hypothesis 2]"
+  - "[Hypothesis 3]"
+
+expected_outcomes: "[How will findings advance the product?]"
+
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "[e.g., lean maximum variation]"
+  
+  primary_criteria:
+    - "[Must-have criterion 1]"
+    - "[Must-have criterion 2]"
+    - "[Must-have criterion 3]"
+    
+  secondary_criteria:
+    - "[Nice-to-have criterion 1]"
+    - "[Nice-to-have criterion 2]"
+    
+  screener_questions:
+    - question: "[Screener question text]"
+      qualifying_response: "[Expected answer]"
+      
+participants:
+  veterans: 0
+  caregivers: 0
+  dependents: 0
+  total_recruited: 0
+  completed_sessions_goal: 0
+  
+# Timeline & Sessions
+timeline:
+  pilot_date: "YYYY-MM-DD"
+  pilot_participant: "[Name]"
+  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
+  research_review_submission: "YYYY-MM-DD"
+  
+session_details:
+  duration_minutes: 60
+  buffer_minutes: 30
+  max_sessions_per_day: 0
+  
+# Strategic Alignment
+octo_priorities:
+  - objective: "Objective 1"
+    key_results: 
+      - "[Specific KR if applicable]"
+  - objective: "Objective 2"
+    key_results:
+      - "[Specific KR if applicable]"
+      
+veteran_journey_phases:
+  - "[e.g., Getting Out]"
+  - "[e.g., Starting Up]"
+    
+# Research Repository Tracking
+related_research:
+  previous_studies: 
+    - "[Link to related past research]"
+    
+tags:
+  - "[product-area]"
+  - "[methodology]"
+  - "[participant-type]"
+  - "[research-phase]"
+---
+
+> [!TIP]
+> **Complete the frontmatter section above AFTER you've filled out your research plan below.** 
+> 
+> Use the [GitHub Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/research-plan-frontmatter-completion-prompt.md) to automatically generate structured metadata from your completed research plan.  The prompt uses natural language processing to extract key information and apply appropriate research repository tags. 
 
 	# Research Plan for [Team, Product, Date]
 > [!NOTE]
@@ -24,35 +136,44 @@
 
 </details>
 
-### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO%20FY26%20goals%20supported.md) 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
+> **NOTE:** If a Key Result does not have a ***Research Ops Plain Language*** equivalent, it does not map to research supporting it as a key result for the parent objective.
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+`Objective 1:  Optimize software delivery for Veteran impact.`  
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
+> - **Key Result 1.1:** All C100 products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on Product.VA.gov.
+  - ***Research Ops Plain Language:** Supports up to three Veteran-impacting Key Performance Indicators documented for this on Product.VA.gov*
+> - **Key Result 1.2:** Delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs.
+  - ***Research Ops Plain Language:** Supports a production release that will measurably improved a product's Veteran-impacting KPIs.*
+> - Key Result 1.3:** OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems.
+  - ***Research Ops Plain Language:** Supports the decommissioning of a legacy system.*
 
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
+`Objective 2: Operate products with high reliability and security.`
 
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
+> - **Key Result 2.1:** All C100 systems have an incident free time of 99.8 or better.
+> - **Key Result 2.2:** All C100 systems are monitoring the 4 “golden signals” of latency, error rate, volume, and saturation.
+> - **Key Result 2.3:** All C100 systems have baselined cycle time from planning to production, and at least one C100 system in each DSD portfolio has reduced its cycle time from planning to production by more than 50% without increasing change failure rate.
+  - ***Research Ops Plain Language:** Supports reducing this product’s cycle time from planning to production by more than 50% without increasing change failure rate.*
+> - **Key Result 2.4:** By 31 March 2026, DSD has enhanced system security by moving or decommissioning 100% of existing of Systems or Applications leveraging SiteMinder integration for SSOi to Entra ID.
 
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
+`Objective 3: Relentlessly improve the user experience.`
 
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
+> - **Key Result 3.1:** Each OIT portfolio will improve customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.
+  - ***Research Ops Plain Language:** Supports this product’s OIT portfolio (Health, Benefits, etc) in improving customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.*
+> - **Key Result 3.2:** 100% of end-user facing C100 systems maintain a ranked list of user pain points.
+  - ***Research Ops Plain Language:** Supports maintaining the ranked list of user pain points for Veteran-facing Products and Services.*
+> - **Key Result 3.3:** 100% of C-100 systems have delivered at least one release that directly addresses a documented user pain point with that system.
+  - ***Research Ops Plain Language:** Supports the delivery of at least one release that directly addresses a documented user pain point within this product.*
 
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
+`Objective 4: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
+
+> - **Key Result 4.1:** More than 25% of VA employees report AI has helped them deliver better services to Veterans.
+> - **Key Result 4.2:** All “VA Way” delivery attributes have an adoption indicator established, baselined and communicated to product delivery staff.
+> - **Key Result 4.3:** 50% of product delivery staff report that a practice group (design) has helped them deliver better software.
 
 </details>
 
@@ -331,5 +452,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **[Enter full name]**
 
 ## Approvals ✅
+> [!NOTE]
+> Before submitting for review, ensure you've completed the YAML frontmatter section at the top of this document using the [Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/research-plan-frontmatter-completion-prompt.md).
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`

@@ -76,7 +76,7 @@ A text note above the alert “Note: [A/An] [mobile phone, email address, and ma
 - **Use case:** User clicks "Continue button" at the bottom of the Missing contact inforamtion summary page when they are missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile. The displayed error alert is there to bring additional attention to the action that the user needs to take.
 - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
 - **Format:** Slim Warning alert
-- **Link to designs:** [Missing contact information error alert and note](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9424&t=qBnzLOIRS5QmY5ev-1)
+- **Link to designs:** [Missing contact information error alert and note](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9436&t=EYZy4VUUarUrUgHf-1)
 - **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
 - **Content:**
 Body: Your [mobile phone, email address, and mailing address] [are/is] missing. Please edit and update the [fields/field].
@@ -106,7 +106,7 @@ Note: This stacked alert design does not follow design standards and was only im
 
 - **Use case:** When the user selects the Save button in one of the three edit contact information flows (mobile phone number, contact email address, mailing address), and the form successfully saves, the user is returned to the summary page and a slim success alert displays below the section header.
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- **Links to designs:** [Contact Information Updated Success Alert](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=18-3587&t=i2uLN0hrvL891wYV-1)
+- **Links to designs:** [Contact Information Updated Success Alert](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=340-6915&t=TF4axgfIM2rVM5rd-1)
 - **Content:**
 Alert Body Copy: “[Mobile phone number/Email address/Mailing address] updated”
 
@@ -136,10 +136,10 @@ Alert Body Copy: “[Mobile phone number/Email address/Mailing address] updated�
 ### Errors
 
 #### System errors
-<details><summary>Server issues</summary>
+<details><summary>Server issues | Backend system down </summary>
 
 - **Format:** This does not look like a design system component
-- **Link to designs:** [Server issues](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)
+- **Link to designs:** [Server issues](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=3-17192&t=Lx4Qu5XjLqcRgjwB-1)
 - **Content:**
 Alert Body Copy: “[We’re sorry. We’re having some server issues and are working to fix them. Please try applying again in a few moments.](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)”
 
@@ -155,7 +155,7 @@ Alert Body Copy: “[We’re sorry. We’re having some server issues and are wo
 - **Use case:** After a user successfully submits complete contact information they will see a confirmation page with a success alert with an action link and two other action links
 - **Staging user:** Any staging user can be used to view the “Add your mailing address” page by deleting either the mobile phone number or contact email address from the contact information page in staging.
 - **Format:** [Success alert](https://design.va.gov/storybook/?path=/story/uswds-va-alert--success), [Action link](https://design.va.gov/storybook/?path=/docs/components-va-link-action--docs)
-- **Link to designs:** [Updated contact information confirmation page](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=49-6193&t=0abBcuqqRUYIwV1C-1)
+- **Link to designs:** [Updated contact information confirmation page](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=340-6935&t=nIekeJnHenSs3gf8-1)
 - **Content:**
   - Success Alert Header: Contact information added to your profile
   - Success Alert body: If you apply for VA benefits, we’ll use this information to contact you with important information about your benefits and how to manage them.  You can change your email and text notification settings in your profile.

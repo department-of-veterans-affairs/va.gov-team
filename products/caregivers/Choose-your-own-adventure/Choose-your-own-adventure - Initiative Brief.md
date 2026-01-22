@@ -3,6 +3,9 @@
 - Design file - TBD
 - Related work - [EZ CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure%20-%20Initiative%20Brief.md)
 
+## ‼️This work has been descoped as of 4/17/2025
+- Due to the CYOA effort on the CG form has the risk of introducing more complication than the form requires.
+
 ## Outcome Summary
 - Creating a "Choose Your Own Adventure" (CYOA) path on the 10-10CG form that displays all sections of the form and allows the Veteran or caregiver to select which section they want to complete in their preferred order. This will improve flexibility, user control, and the overall experience for those applying for caregiver benefits.
 

@@ -1,0 +1,231 @@
+{
+  "annotations": [
+    {
+      "selectedText": "Okay, awesome. Well, we got through all the beginning bit. So I know that was a lot of information. But if anything comes up, just let me know.",
+      "theme": "Accessibility",
+      "themeId": "accessibility",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P10.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P10.md",
+      "id": "1762193096090-c3tskadx1",
+      "createdAt": "2025-11-03T18:04:56.090Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:31.828Z",
+      "syncHash": "-gt6q5c"
+    },
+    {
+      "selectedText": "I've done. I've done both, on phone and I've also messaged them through the app, wwhere you can message your provider. I guess, for the care. I'm also calling to find out when I have an appointment.",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P12.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P12.md",
+      "id": "1762193106752-w0rs3z6xy",
+      "createdAt": "2025-11-03T18:05:06.752Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:33.036Z",
+      "syncHash": "udmf9k"
+    },
+    {
+      "selectedText": "Alright. So are you comfortable if I record my screen and audio today? Yes.",
+      "theme": "Usability Issues",
+      "themeId": "usability",
+      "subtheme": "",
+      "code": "",
+      "note": "Test annotation sync",
+      "fileName": "P1.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P1.md",
+      "id": "1762277969959-8zqda3819",
+      "createdAt": "2025-11-04T17:39:29.959Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:34.368Z",
+      "syncHash": "-2mrlow"
+    },
+    {
+      "selectedText": "Alright. So I've started recording. And I'd like to confirm again, are you comfortable if I record my screen and audio as we talk today.",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "Intro",
+      "code": "",
+      "note": "",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762283225789-9yuvqeeu6",
+      "createdAt": "2025-11-04T19:07:05.789Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:35.597Z",
+      "syncHash": "-go0ak8"
+    },
+    {
+      "selectedText": "Alright. So it looks like we are ready to get started. So just a couple of quick questions at the beginning for us to just learn more about your experience with Va and our online services.",
+      "theme": "Content",
+      "themeId": "1762283242468-qxlmb9p86",
+      "subtheme": "",
+      "code": "",
+      "note": "",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762283251543-lpdn8oxtn",
+      "createdAt": "2025-11-04T19:07:31.543Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:35.597Z",
+      "syncHash": "-g01rt1"
+    },
+    {
+      "selectedText": "So first off, how long have you been a veteran?",
+      "theme": "User Needs",
+      "themeId": "user-needs",
+      "subtheme": "test",
+      "code": "",
+      "note": "testing sync function",
+      "fileName": "P14.md",
+      "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md",
+      "id": "1762290040115-uckk9f3nk",
+      "createdAt": "2025-11-04T21:00:40.115Z",
+      "createdBy": "sstrassberg",
+      "syncStatus": "synced",
+      "lastSyncedAt": "2025-11-06T14:25:35.597Z",
+      "syncHash": "2eyfmz"
+    }
+  ],
+  "taxonomy": [
+    {
+      "id": "usability",
+      "name": "Usability Issues",
+      "subthemes": [
+        "Navigation",
+        "Form Inputs",
+        "Error Messages"
+      ]
+    },
+    {
+      "id": "accessibility",
+      "name": "Accessibility",
+      "subthemes": [
+        "Screen Reader",
+        "Keyboard Navigation",
+        "Visual Contrast"
+      ]
+    },
+    {
+      "id": "user-needs",
+      "name": "User Needs",
+      "subthemes": [
+        "Information Seeking",
+        "Task Completion",
+        "Support"
+      ]
+    },
+    {
+      "id": "pain-points",
+      "name": "Pain Points",
+      "subthemes": [
+        "Confusion",
+        "Frustration",
+        "Technical Issues"
+      ]
+    },
+    {
+      "id": "1762283242468-qxlmb9p86",
+      "name": "Content",
+      "subthemes": []
+    }
+  ],
+  "boardState": {
+    "ungrouped": [
+      {
+        "id": "1762277969959-8zqda3819",
+        "text": "Alright. So are you comfortable if I record my screen and audio today? Yes.",
+        "theme": "Usability Issues",
+        "subtheme": "",
+        "code": "",
+        "note": "Test annotation sync",
+        "source": "P1.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P1.md"
+      },
+      {
+        "id": "1762283225789-9yuvqeeu6",
+        "text": "Alright. So I've started recording. And I'd like to confirm again, are you comfortable if I record my screen and audio as we talk today.",
+        "theme": "User Needs",
+        "subtheme": "Intro",
+        "code": "",
+        "note": "",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
+      },
+      {
+        "id": "1762283251543-lpdn8oxtn",
+        "text": "Alright. So it looks like we are ready to get started. So just a couple of quick questions at the beginning for us to just learn more about your experience with Va and our online services.",
+        "theme": "Content",
+        "subtheme": "",
+        "code": "",
+        "note": "",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
+      },
+      {
+        "id": "1762290040115-uckk9f3nk",
+        "text": "So first off, how long have you been a veteran?",
+        "theme": "User Needs",
+        "subtheme": "test",
+        "code": "",
+        "note": "testing sync function",
+        "source": "P14.md",
+        "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P14.md"
+      }
+    ],
+    "themeColumns": [
+      {
+        "id": "1762193138847-u81jgam2y",
+        "name": "Theme 1",
+        "color": "#e3f2fd",
+        "cards": [
+          {
+            "id": "1762193106752-w0rs3z6xy",
+            "text": "I've done. I've done both, on phone and I've also messaged them through the app, wwhere you can message your provider. I guess, for the care. I'm also calling to find out when I have an appointment.",
+            "theme": "User Needs",
+            "subtheme": "",
+            "code": "",
+            "note": "",
+            "source": "P12.md",
+            "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P12.md"
+          }
+        ]
+      },
+      {
+        "id": "1762193147423-6968j9kkd",
+        "name": "Theme 2",
+        "color": "#3228b8",
+        "cards": [
+          {
+            "id": "1762193096090-c3tskadx1",
+            "text": "Okay, awesome. Well, we got through all the beginning bit. So I know that was a lot of information. But if anything comes up, just let me know.",
+            "theme": "Accessibility",
+            "subtheme": "",
+            "code": "",
+            "note": "",
+            "source": "P10.md",
+            "filePath": "products/ask-va/design/User research/2024-01 Submit an inquiry/Transcripts/P10.md"
+          }
+        ]
+      },
+      {
+        "id": "1762283331266-wqwyjwxf9",
+        "name": "Theme 3",
+        "color": "#de21bb",
+        "cards": []
+      }
+    ]
+  },
+  "syncedAt": "2025-11-06T14:26:49.506Z",
+  "syncedBy": "sstrassberg"
+}

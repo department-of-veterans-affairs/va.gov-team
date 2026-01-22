@@ -1,5 +1,550 @@
 # Running Design and Research Agenda
 
+
+## January 8, 2026
+
+Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea, John 
+
+### Agenda: 
+- Review the UX roadmap
+- Discuss upcoming priorities for CHAMPVA/FMP forms (UX has cleared some staging review findings and UX debt and is ahead by a couple of sprints!)
+
+### Notes: 
+
+Roadmap 
+
+Teamwide - Metrics are blocked, no action on Medallia ticket to move forward
+
+
+EZ/EZR - Service blueprints wrapped up, next up revisit statuses and EZR CYOA, Mutli form pattern exploration
+
+10-10d/OHI - 
+- content unblocked in 2 weeks ish to kick off research study in about 3 weeks
+- Staging review findings, completed and close, pending some will be addressed with Tricare eligibility work
+- One small pending item with content
+- New content specialist
+
+CHAMPVA Claims
+- Duty to assist with content 
+
+FMP 
+- Direct deposit work for claims is done
+- User flows, SOT
+- Future effective date, with engineers
+- Birth certificate and adoption paperwork 
+
+
+CG 
+- Service blueprint 
+
+
+Staging Review Findings 
+
+- Concerns about File Upload component v3
+- List of pattern discovery on what issues/missing items exists
+- Next steps: to schedule a meeting to all get on same page
+
+
+Authenticated experience FMP direct deposit update
+Timing - of them are in Collab Cycle, won’t be part of Profile 2.0, so timing will be later
+Engineers will get access and add in content needed 
+
+
+Confusion with direct deposit - IVC contact center folks now exactly what is happening, make it clear
+
+
+
+Next up priorities / UX capacity 
+
+Beyond Tricare work, next UX:
+
+
+EZR CYOA 
+- The choose your own adventure background on EZR health update form
+
+Amanda - prioritize choose your own adventure 
+
+Premal - big list of tickets, what needs to be prioritized. New forms asked to work on, 
+
+
+Task List / CYOA concerns 
+
+- Exploration and task list has not gone through collab cycle. Would be a big engineering and UX lift, needs VADS and platform oversight.
+
+- Premal does not have a form list priority list yet of new forms. 
+
+Appeals 
+- discovery work how might our forms map into existing appeals work. How might health care forms fit into existing appeals flow. 
+
+
+Power of Attorney 
+- not specific to health care decisions, blanket form?
+- multiple signatures and notary, possible upload paper form route
+- 2122 specific for representing in VA benefit cases, 
+
+Top pain points from Medallia
+
+Statuses -  the one in scope, previous submission check 
+
+Medicare - Premal would love to do this, but not sure what is possible with CMS Medicare. Needs Tech discovery before UX. Gov’t person to work across agencies from that side to help with discovery 
+
+Multiple CHAMPVA claims
+OCR LLM on CHAMPVA claims 
+
+------
+
+## December 18, 2025
+
+Attendees: Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda, Mike, Andrea 
+
+### Agenda: 
+		- Review UX roadmap (now column) 
+		
+
+### Notes: 
+
+
+
+NOW: 
+
+Monthly metrics + Medalia reporting and tagging, revisit 
+Incorporate call center logs for November/December
+
+EZ/EZR Service Blueprinting
+
+10-10D
+- Eligibility check, with content then will do testing
+- Birth certificate for newborns
+- Staging review findings: buckets with a focus on content or VADS
+
+Claims
+- Duty to assist with content
+
+
+FMP 
+- Research study closed out
+- Adjusted static page content from team, update source of truth 
+
+FMP regroup - 
+More concerning of timing of background items, understand business wants things moving faster but there are a lot of parts
+No real concrete timeline of portal integration for direct deposit
+
+
+OHI 
+- MBI and future effective date, with content 
+
+CG
+- Service blueprinting 
+
+
+STAGING REVIEW STUFF
+
+- content bucketed items via one intake ticket
+
+
+
+Talked through content priority list 
+1. FMP claims
+2. OHI Medicare
+3. Birth certificate for newborn
+4. Tricare eligibility 
+5. DTA
+6. 10-10d v2 staging review findings + intro page update
+
+Third bucket need UX discovery
+- adopted dependent, drop down for single doc type
+- Do additional doc types exist?
+If not, can we delete
+
+Signer and Veteran section are repetitive, for Veterans completing the form
+- This could potentially be addressed via the Tricare eligibility work that will also impact the flow
+
+
+File Upload component 
+All are using V1
+V3 did a big release back in October with fixes, encrypted files, not supported in V3
+
+Service blueprints coming on health enrollment side
+- talk about journeys of service connected rating and impacting the blueprint
+
+
+
+
+-----
+
+
+## December 4, 2025
+
+Renata, Hieu, Jessica, Premal, Alyssa Li, Amanda 
+
+### Agenda: 
+		- Review UX roadmap (will be updating shortly)
+		- Duty to Assist and the other health insurance problem
+		- Tricare research plan + next steps
+
+### Notes: 
+
+#### FMP research updates
+- static page and content around FSC and Vendor File form highest pain point based on study
+
+
+#### Duty to Assist: 
+- Concern over having to enter insurance information multiple times
+- One line item
+- Can’t prefill yet, and providing duplicate or unhelpful information
+- Add what is tightly scoped and help use case (resubmission flow)
+- Big claims, back dated - if we tackle that use case need more clarity for information needed
+
+NEXT STEPS:
+- Open content ticket, leave health insurance in a parking lot and not including it at this point
+- prefill blocker, VES migration?
+- with that potential could be shorter
+
+#### OHI 
+- Have what need for design with some little discovery
+- Old vs new identifier for hint text
+- How future an effective date
+- Remove content about can’t do future date 
+
+VES - won’t validate info, but take what is sent
+
+#### Tricare research plan + next steps
+- next steps: open a content ticket, start research planning this sprint
+- Figma prototypes, A/B test
+- MVP not API version, and showing API version and getting feedback on experiences
+- Alerts and error messages, specific to states that could happen for user feedback 
+- Not in MPI, error to API, not in DEERS, or in DEERS and not eligible 
+
+
+#### Content team staffing update
+
+
+------
+
+
+
+## November 13, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda 
+
+### Agenda: 
+	•	UX roadmap / FMP claims study updates
+	•	School cert
+	•	DTA
+	•	Tricare work
+
+
+### Notes: 
+
+Go over roadmap NOW column by form
+
+
+#### School Certs: 
+
+Verification Process graphic shared in Mural 
+
+https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1761320853050/2de68dc4ec01b871cab450de6bf79aaf143b5725
+
+Education benefit flow
+
+Flow of a student to VA to School loop of how the decision letter and cert journey
+Questions noted; can’t get ahold of anyone for confirmation yet 
+
+
+
+Comparing against 10-10d CHAMPVA flow version
+- The student is forced to go to school first, before going through the application
+- Form asks for proof of enrollment and has to request letter before continuing 
+- can’t get quick, issue brought up in past studies
+- Paper form notes that it needs more information, slightly different 
+- The student/applicant is on them to get this information
+
+
+On education flow, get decision letter then school will aid you in the ongoing certification 
+
+User burden for documentation from past July study — school certs
+New to require enrollment at time of submitting app
+This could stop people in their tracks if they have school aged children 
+Mental model of comparing processes and benefits across the VA
+
+**Next steps:**
+- pause UX work while Amanda and Premal have policy convos 
+
+
+
+
+#### Duty to Assist
+
+- Suggested sub-flow within the enhanced claims
+
+https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?t=7c0zuIB8dsUWRsh8-0
+
+
+- Showing new flow that happens during resubmission flow after letter upload
+- Borrowed content and additional info components similar to 526 team
+- Provider information screen - brought back from an earlier version based on duty to assist team convos
+- Provider contact info and additional comments screen added in
+- Optional detail and upload pages
+- Can customize some areas of the confirmation page - if you did this… additional information 
+- flow works best for dental and catch all EOBs missing
+
+
+**Next steps:**
+- show to DTA and needed business stakeholders
+- concern of needing to confirm this much information is really needed and if some of the pages could be removed
+
+
+#### Tri Care Eligibility 
+- Outstanding questions to forward
+- Eligibility to Tricare shifting statuses are applicable to CHAMPVA
+
+Next steps ideas proposed by Renata: 
+- Design system has pattern, would like tested by users. 
+- Content could also benefit from testing. 
+- Recommend testing some of the mocks and hybrid approaches 
+
+Premal : fear don’t have a working API, don’t go through this if can’t do it. Prioiritzation question of which order.
+
+- Could test pattern with no API version integrated 
+- could test both, not sure of that status or timeline for API 
+
+**Next steps:**
+- move forward with mocks and design system pattern, test both options
+
+
+--------
+
+
+
+## October 30, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda 
+
+### Agenda 
+
+- FMP claims research study updates
+- [Tricare/CHAMPVA eligibility](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=8969-5389&p=f&t=qSMZbSsNaz5D727w-0) check design updates
+- [Duty to assist](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742221275311/1794184f6793a8f3f1a91a54447817403dc39fec)
+
+
+
+### Meeting Notes
+
+Now/next/later will be updated post team roadmap alignment 
+
+
+Talks through Sprint priorities being met, team picking up next items
+
+
+- FMP Research Plan
+Consider time zones and availability
+Time Zone convertor calc shared by Amanda: https://www.timeanddate.com/worldclock/converter.html?iso=20251030T190000&p1=263
+
+Action items: Check with Perigean during kick off call next week if the time slots are sufficient or if we need to adjust more
+
+Tricare Eligibility Flow
+- Walk through API DEERs integration and understanding
+- Some cases might required beneficiary information input which would be more cumbersome
+- Walked through designs using VADS Eligibility Pattern and hybrid
+
+Action items: UX time boxed research around edge use cases of extended family situations, API further understanding around needing to also enter in beneficiary info, not just the Veteran’s 
+
+
+Duty to Assist
+- Walked through three use cases and understanding at this time in the Mural
+1. Shoebox claims
+2. Sendback letter, resubmission flow
+3. Appeals
+
+
+Action items: Implementation to gather data and determine issue frequency, no front end edits (?)
+
+
+## October 23, 2025 - Cancelled
+
+
+
+
+## October 2, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda, 
+
+
+### Agenda: 
+	•	Tricare/eligibility screener options
+	•	CHAMPVA Claims sendback letter edits
+	•	FMP Direct Deposit - updates/latest Figma flow
+
+Roadmap summary
+- Current up items and recently completed 
+- No questions from group
+
+
+**FMP Direct Deposit**
+- Talked through latest version that does not include a screener question or any mention of VA profile / corpdbs accounts
+- Follows travel pay pattern closer that includes a static va.gov content page to explain the details of direct deposit setup.
+- Content and research can happen with no blockers
+- Question: if they have done travel pay recently, maybe messaging around them not have to go through. Amanda: Leave that question for IA and Content.
+
+**ACTION ITEM**: Open content ticket for review, research planning and prototype build
+
+**CHAMPVA Claims sendback letter edits**
+- Renata presents Claims, setback letter:
+- DPI should be added back in, missing from original draft provided to content - reminder to include PDI number
+- Renata recommends to add back in 
+- The original letter did not include the Fax number, and there are 4 fax numbers. 
+- What to expect after you file, more information contact information - what is correct on static page and elsewhere
+- Community Care URL; Amanda questions this since it is a modernized.
+- Renata notes it is the original letter. Team to talk to Content and IA. But the Stakeholder is working as usual.
+
+**ACTION ITEM**: Make sure contact methods to file a claim are consistent and covered across places on form and static pages
+
+
+**Tricare/eligibility screener options**
+- Screener question to try and avoid those filing out the form who do not qualify
+- Pre-check page copied 
+- Already large blue eligibility box on the static CHAMPVA page
+
+- DOD API vs UX Screener Question.
+- Premal has no opinion, and Amanda leans toward Option B (let me apply but warn them).
+- For some Veterans who only know Tricare as their only health service, they wonder
+- Note that if you're eligible or enrolled in Tricare, you are not eligible for CHAMPVA.
+- Alyssa likes the strong wording of Option 1. Perhaps there is a combo between Options 1 and
+-  Renata to swirl the two options together.
+- Mike agrees that we would launch the MVP first before doing the eligibility logic.
+- Amanda wants to lean towards a soft screener question is because it is not up to us to decide on eligibility. Elizabeth's (Eligibility) biggest pain point is the eligibility.
+
+Think through the options since we don’t know if the Veteran is the one filling out the form, can be an applicant as well 
+
+Leave MVP out to get data metrics before introducing new branching logic that could muddy the waters 
+
+Premal - Going back to them (stakeholders) with a solution 
+
+Amanda - lean softer because doesn’t think the decisions should be in the flow. Not wanting to make that call without a conversation with business partners - esp if there is a flow that stops them. 
+
+
+**ACTION ITEM** Renata to swirl the two options together.
+
+
+
+
+
+## September 25, 2025
+
+Renata, Hieu, Jessica, Premal, Mike M, Alyssa Li, Andrea, Amanda, 
+
+
+### Agenda: 
+- Review UX roadmap: items in-progress and in the pipeline for the month/quarter, discuss when to sequence items in the parking lot column
+-  Anything FMP direct deposit post-meeting yesterday and before meetings next week. Posted update in this ticket and updates in Figma including a parking lot area to note research questions
+- EZR Service History: Mock was completed, awaiting Content review, and it will need a discussion with stakeholder for which direction to go.
+- EZR Insurance Flow v2: Mock is completed, no need for content since it is similar to EZ, I have some cleanup then it is ready for Devs to pick up.
+
+
+
+### NOTES
+
+#### Roadmap
+
+Renata talks through Mural, new format for IVC side
+Now Next Later defined better - added notes in Mural for clarification
+
+- User flows updating for Mural 
+
+Now items:
+Dental with content
+EZR items in the works for v2
+
+Claims side; 
+Ready for MVP of resub launch
+UX side, changes to the send back letter with suggestions
+
+Print save work in progress for confirmation page
+Don't call resubmission flow to partners - Enhanced Claims Flow (explained to partners this does not show to users). Renata to double check wording.
+
+
+FMP 
+Direct deposit, flows and service blueprint
+
+OHI standalone - user flow and print PDF
+
+Wider view work/parking lot items:
+- concerns with timing of user testing to get it out
+- Business side stressed important to get it right
+- Has not gone through content review yet - will go through that before testing
+Thinking outlaid:
+- Structure engineering work early a suggestion
+- Working prototype with content questions a suggestion
+- Where it fits in schedule
+- Priorities of FMP vs resub claims
+
+Keep with current priorities
+
+Talk through risks:
+- put money in account Veteran is not expecting it to
+- money went into VA profile account
+- potential more back office hours to fix accounts, reprocess claims
+- business side stated not as much of a problem
+- weighing a lot of risks
+
+Amanda question:
+Extend working on FMP to ensure right thing to production
+- move forward on some of the FSC decisions in the background
+Premal: leadership swamped, maybe. Technical work to implement up to a year. 
+
+High risk thing to push forward without research -- Amanda
+
+Parking Lot: Duty to Assist work
+Fast follow 
+Temp check: next thing to prioritize for CHAMPVA form? 
+Renata to double check VA policy or law (checkbox or content)
+Federal law, 
+Came from blueprinting discussions with Angela and the forms team
+UX to prioritize exploration 
+
+
+#### Direct Deposit for FMP
+Summary: Hot mess
+- Amanda and Jessica to sync up because flow is potentially confusing
+- The process of using FSC to call could be a pain point for Veterans
+- Concerns with cognitive lift to decipher the VA process language around setting up direct deposit in multiple places
+- Don't want to block those who have FSC accounts setup due to travel pay only (they don't have direct deposit in VA profile use case)
+
+Mocks updated per the FMP meetings
+- 1st flow, happy path: remove Ask VA, edit “mail” in content.
+- 2nd flow. No DD, Red Alert.
+- Jessica: If there is no DD on VA Profile, does it pull from FSC?
+- https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753456440793/e796411a00bbb9d171b55b4428cb35d5179ff0bd?sender=u9e94b6949d794a4fa2426947
+- We may have to ask them Travel Pay and FMP claim.
+- Travel Pay: if they’re getting checks, they’re not getting Direct Deposit.
+- Amanda wants to review the path.
+- Premal “Are we optimizing for a case that does not happen very often?”
+- 11k claims per month (https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753456440793/e796411a00bbb9d171b55b4428cb35d5179ff0bd?sender=u9e94b6949d794a4fa2426947)
+- Jessica asked if the Financial Services Center would help the Veteran set up their DD as well as FSC.
+- We’ll need to denote that it is not 24-hour operation,
+- Premal shared that the hours are 7:15am-4:15am and that it is a 2-hour wait time.
+- Amanda wants to confirm if the Veteran should contact FSC vs FMP. Team notes that Andy said to contact FSC. So the number Jessica has in the mock (FSC) is correct.
+
+- 3rd flow: If you with the happy path 1st time, then 2nd run through, they’ll get the yellow alert asking if they made changes to the FSC system?
+- Amanda asked if FMP went through the collab cycle. Andrea notes that the FMP Cover went through the collaboration cycle and staging. Then team pivoted to include the Direct Deposit, which was developed outside of the cycle. This makes Amanda uncomfortable moving forward.
+
+
+
+
+#### NOK for EZR
+- Source of truth file updates
+
+#### Service history for EZR 
+- with content now and then will go through HEC for options
+- Health insurance for EZR will mimic EZ
+- going from custom to platform array builder
+
+
+
+--- 
+
+
+
 ## September 11 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Jessica Stump
 

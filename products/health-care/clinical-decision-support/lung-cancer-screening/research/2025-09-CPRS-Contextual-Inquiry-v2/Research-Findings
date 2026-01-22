@@ -1,0 +1,147 @@
+---
+title: "2025-09-CPRS-Contextual-Inquiry-v2 Research Findings"
+product: "LCSPv2"
+team: "LCS"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2025-12-29"
+researchers:
+  - "Ben Peterson"
+research_goals:
+  - "Identify any gaps in the current tracking experience for users on CPRS"
+methodology:
+  - "Contextual Inquiry"
+devices_used:
+    desktop: 7
+participants_total: 7
+Primary role:
+  Lung Cancer Screening Coordinator: 7
+
+EHR:
+ CPRS: X 
+
+key_findings:
+  - "Coordinators used the “Notes to Self” feature as a main part of their workflow to document patient information about tracking "
+  - "Coordinators Primary workflow starts with the Done not Documented report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards."
+  - "v1 fits in the LCS coordinator workflow as a primary way of managing LCS or as one tool in an ecosystem of other tools (CPRS, CMT, TM, Excel) "
+  - "Coordinator wishes for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+  - "Reminders are a core part of Coordinator workflow to help them prioritize their work and keep track of critical tasks. There are multiple ways they use reminders and different tools that support those tasks, including CPRS, LCSP, CMT and TM."
+  - "Coordinator wish for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+
+recommendations:
+  - "Assess how closely v2 meets coordinators needs and enhances their ability to achieve their workflow."
+
+# [Study] Research Findings 
+
+**Office of the CTO - Digital Experience (OCTO-DE), LCSPv2, LCS**
+**Date:** 12/29/2025
+**Contacts:** Ben Peterson
+**[Research Readout (word doc)](https://dvagov-my.sharepoint.com/:w:/r/personal/benjamin_peterson_va_gov/Documents/2025-09-CPRS-Contextual-Inquiry-Research-Findings.docx?d=w43b55f8643fc40ca90540dcb351e2844&csf=1&web=1&e=G65fXf)**  
+
+**Jump to:**
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
+- [Next Steps](#user-content-next-steps)
+- [Further research needed](#user-content-further-research-needed)
+- [Appendix](#user-content-appendix)
+- [Research participants](#user-content-research-participants)
+
+## Research Goals
+*Identify any gaps in the current tracking experience for users on CPRS*  
+
+## Research Questions
+* `What gaps in the current Lung Cancer Screening tracking experience exist for users of CPRS?
+
+## Methodology 
+- Method 1: Contextual Inquiry of the current tools and processes in the CPRS EHR
+
+## Key Findings
+
+1. "The “Notes to Self” feature as a main part of their workflow to document patient information about tracking"
+2. "Primary coordinator workflow starts with the "Done not Documented" report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards."
+3. "v1 fits in the LCS coordinator workflow as a primary way of managing LCS or as one tool in an ecosystem of other tools (CPRS, CMT, TM, Excel) "
+4. "Coordinators wish for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program."
+5. "Reminders are a core part of Coordinator workflow to help them prioritize their work and keep track of critical tasks."
+
+## Details of Findings 
+
+### Finding 1
+The “Notes to Self” feature as a main part of their workflow to document patient information about tracking.
+- _Supporting data: “let's say a year from now, things have changed. But that note follows that patient throughout the whole tracking tool.” _  
+
+### Finding 2  
+Primary coordinator workflow starts with the "Done not Documented" report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards.
+- _Supporting data: “everyday you get updated reports (on) the done not documented.”_ 
+- _Supporting data: “This is our tracking report. These are patients who have spots that nodules that need to come back. They have to come back and not or chase down these people. its utterly important because it could be a cancer."_  
+
+### Finding 3  
+v1 fits in the LCS coordinator workflow as a primary way of managing LCS or as one tool in an ecosystem of other tools (CPRS, CMT, TM, Excel). 
+- _Supporting data: “the platform helps keep patients organized. So which I I really like. It helps me structure my day as far as you know, following up on the patients and the tracking and diagnostic sections first.”_  
+
+### Finding 4
+Coordinators wish for improvements included quicker load time, real time data access, and making the data filter out scans that were not relevant to the LCS program.
+- _Supporting data: “probably the biggest thing would be for it to be more loadable and usable. Sometimes is almost unusable. I'll go back into my VA CPRS chart and do my reminders until the system comes back and works.” _  
+
+### Finding 5
+Reminders are a core part of Coordinator workflow to help them prioritize their work and keep track of critical tasks."
+- _Supporting data: “[Reminders] will follow on that report for the national tracking tool, but I also put in a task tracker alert for myself as a backup [in Task Manager].” _  
+
+## Recommendations
+
+1. **Recommendation:** Focus on keeping comments a core feature of the v2 experience   
+   - _Supporting evidence: Finding 1 - The “Notes to Self” feature as a main part of their workflow to document patient information about tracking._  
+2. **Recommendation:** Ensure the experience of filtering patient data follows the coordinator workflow    
+   - _Supporting evidence: Finding 2 - Primary coordinator workflow starts with the "Done not Documented" report to review next steps for patients, then tracking and diagnostic to manage critical patients or prepare for review boards._
+
+## Product User and Business Outcomes
+
+This research will help determine feature devloplent in line with observing patients in a grouped way, allowing prioritization for patient care with an interoperable tool that works with legacy (CPRS/VistA Lung Cancer Screening Platform version 1) sites and Oracle Health sites
+
+### Desired User Outcome 
+This research supports our desired user outcome by documenting the expectations and feature ideas of the LCS coordinators. 
+ 
+### Desired Business Outcome
+This research supports our desired business outcome by creating an understanding of core features to support the LCS workflow across the VHA EHRs.
+
+
+## Next Steps
+
+Conduct usability testing of the v2 experience with CPRS coordinators
+
+## Further research needed
+
+*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+
+
+## Appendix
+
+### Research documents
+- [Product Outline](https://dvagov.sharepoint.com/:u:/r/sites/CDSProgramTeam/SitePages/LCSPv2/LCSPv2-Learn-More.aspx?csf=1&web=1&e=cmrEFc)
+- [Research plan](research-plan.md)
+- [Conversation guide](conversation-guide.md)
+- [folder of interview notes linked here](https://dvagov.sharepoint.com/:f:/r/sites/CDSProgramTeam/Shared%20Documents/Lung%20Cancer%20Screening(LCSPv2)/3.%20Research%20and%20Design/User%20research%20%26%20Design/2025%20CPRS%20Contextual%20Inquiry%20notes?csf=1&web=1&e=OaGg5g))
+
+### Tools used for Synthesis
+
+*[Mural for affinity mapping](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759153268429/a161a531240a76529b56586f1d5f3043fe846df8?sender=u51c7a6fc075dea16929e5394)**  
+**[Excel spreadsheet for analysis](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track/issues/3159) and [synthesis](https://dvagov-my.sharepoint.com/:w:/r/personal/benjamin_peterson_va_gov/Documents/S25%20Research%20Findingds.docx?d=w9db8ed97e2e74139a9bb6b5f59017264&csf=1&web=1&e=lY4wzo))**
+
+#### Demographics 
+
+We talked to **7 participants.**
+
+Primary role:
+ * Lung Cancer Screening Coordinator: 7
+
+Specialty:
+  * Lung Cancer Screening: 7
+
+EHR:
+ * CPRS: 7
+
+Devices used during study: 
+* Desktop: 7 
+
+Geographic location:
+* Urban: 7
