@@ -27,7 +27,7 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
 1. **Objective 1: Optimize software delivery for Veteran impact**  
    1.1 All C100 DSD products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on [Product.VA.gov](http://product.va.gov/)  
    1.2 DSD has delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs\*  
-   3. OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems \[submitted at CIO-level\]  
+   1.3 OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems \[submitted at CIO-level\]  
 2. **Objective 2: Operate products with high reliability and security**  
    2.1 All DSD C100 systems have an incident free time of 99.8 or better\*  
    2.2 All DSD C100 systems are monitoring the 4 “golden signals” of latency, error rate, volume, and saturation  
