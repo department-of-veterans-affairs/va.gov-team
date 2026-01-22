@@ -114,9 +114,9 @@ Feature documentation is here: https://github.com/department-of-veterans-affairs
 ### Sitewide Public Websites Team Members
 |Name|Role|
 |----|----|
-|Michelle Middaugh	| Find a VA Form Product Owner|
+|Randi Hecht	| Find a VA Form Product Owner|
 |Fran Cross   |Product Manager, Agile 6|
-|Jill Adams |Delivery Manager, Agile 6|
+|Alex Parker |Delivery Manager, Agile 6|
 |Daniel Sasser    |Backend engineer, Agile 6|
 
 ## VA Forms Contacts
@@ -133,7 +133,7 @@ Forms managers provide an administrative function to manage Forms data entry and
 |Form prefix | Administration | Forms POC|
 |----|----|----|
 |"10-" (e.g. 10-1234) | VHA | Bennett, Grant <Grant.Bennett@va.gov>: VHA Forms manager|
-|"2x-" prefix (e.g. 22-1234) | VBA | Kessinger, Nancy J. <nancy.kessinger@va.gov>: VBA Forms manager |
+|"2x-" prefix (e.g. 22-1234) | VBA | Kendra McCleave <Kendra.Mccleave@va.gov>: VBA Forms manager |
 |"VA-" (e.g. VA-1234)| Big VA | Monica.Person@va.gov or Brian.Mano@va.gov | VACO & NCA Forms manager|
 
 #### Other forms related contacts of note
@@ -163,6 +163,7 @@ Lighthouse teams owns the Sidekiq job that imports CMS Forms data to Lighthouse,
 |Name|Role|
 |----|----|
 |Marci McGuire	|Former Product Manager, iterations on Find a Form|
+|Michelle Middaugh |Former Product Owner, Public Websites|
 |Ryan Thurlwell	|Design Lead, MVP|
 |Mark Greenburg	|VA APIs|
 |Charley Stran	|Formerly supported Forms on Lighthouse API team|
