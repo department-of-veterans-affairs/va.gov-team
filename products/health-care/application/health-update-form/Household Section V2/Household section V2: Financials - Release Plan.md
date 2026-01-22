@@ -81,7 +81,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **01/16/2026 - 01/20/2026**
+- Length of time: **01/16/2026 - 01/21/2026**
 - Percentage of Users (and roughly how many users do you expect this to be): **50% (approximately 108 users per day)**
 
 #### Results
@@ -101,7 +101,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Planning
 
-- Length of time: **01/20/2026**
+- Length of time: **01/22/2026**
 - Percentage of Users (and roughly how many users do you expect this to be): **100% (approximately 218 users per day)**
 
 #### Results
