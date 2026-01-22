@@ -68,12 +68,13 @@ Before your rotation, ensure you have:
 
 | Sprint | Dates | Developer (Full Stack) | Tech Lead (Escalation) |
 |---------|--------|--------------------------------|-------------------------|
-| Sprint 2 | Oct 21 – Nov 3 | Kevin | Holden |
-| Sprint 3 | Nov 4 – Nov 17 | Patrick | Kevin, Holden |
-| Sprint 4 | Nov 18 – Dec 1 | Josh | Kevin, Holden |
-| Sprint 5 | Dec 2 – Dec 15 | Kevin | Holden |
-| Sprint 6 | Dec 16 – Dec 29 | Holden | Kevin |
-| Sprint 7 | Dec 30 – Jan 12 | Alex | Kevin, Holden |
+| Sprint 9 | Jan 27 – Feb 9 | Kevin | Holden |
+| Sprint 10 | Feb 10 – Feb 23 | Patrick B. | Kevin, Holden |
+| Sprint 11 | Feb 24 – Mar 9 | Josh | Kevin, Holden |
+| Sprint 12 | Mar 10 – Mar 23 | Kevin | Holden |
+| Sprint 13 | Mar 24 – Apr 6 | Holden | Kevin |
+| Sprint 14 | Apr 7 – Apr 20 | Alex | Kevin, Holden |
+| Sprint 15 | Apr 21 – May 4 | Patrick A. | Kevin, Holden |
 
 ---
 
