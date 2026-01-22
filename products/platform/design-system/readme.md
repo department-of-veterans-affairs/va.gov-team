@@ -20,6 +20,30 @@ The Design System and Forms Library are managed by the [Design & Forms Systems t
 - Slack Channel: #platform-design-system
 ---
 
+
+
+## VA Digital Experience FY 26 OKRs ## 
+
+1. **Objective 1: Optimize software delivery for Veteran impact**  
+   1.1 All C100 DSD products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on [Product.VA.gov](http://product.va.gov/)  
+   1.2 DSD has delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs\*  
+   3. OIT has avoided at least $5 million in cost via successful decommissioning of at least 10 systems \[submitted at CIO-level\]  
+2. **Objective 2: Operate products with high reliability and security**  
+   2.1 All DSD C100 systems have an incident free time of 99.8 or better\*  
+   2.2 All DSD C100 systems are monitoring the 4 “golden signals” of latency, error rate, volume, and saturation  
+   2.3 All C100 systems have baselined cycle time from planning to production, and at least one C-100 system in each DSD portfolio has reduced its cycle time from planning to production by more than 50% without increasing change failure rate  
+   2.4 By 31 March 2026, 100% of existing of Systems or Applications leveraging SiteMinder integration for SSOi are migrated to Entra ID or decommissioned  
+3. **Objective 3: Relentlessly improve the user experience**    
+   3.1 Each OIT Portfolio will improve user experience data for impactful systems by 3% or greater\*  
+   3.2 100% of end-user facing C-100 systems maintain a ranked list of user pain points\*  
+   3.3 100% of C100 systems have delivered at least one release that directly addresses a documented user pain point with that system  
+4. **Objective 4: DSD teammates are empowered with the knowledge and resources they need to make sustained impact**  
+   4.1 More than 25% of VA employees report AI has helped them deliver better services to Veterans\*  
+   4.2 All “VA Way” delivery attributes have an adoption indicator established, baselined and communicated to DSD staff.  
+   4.3 50% of DSD staff report that a DSD Practice Group has helped them deliver better software.
+
+
+
 ## Forms Library List of Products ##
 
 ### Form Upload
