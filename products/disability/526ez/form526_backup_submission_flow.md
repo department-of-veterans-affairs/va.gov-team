@@ -39,25 +39,26 @@ flowchart TB
         M --> N{Polling Jobs}
         
         N -->|"Daily 3 AM ET"| O[Form526StatusPollingJob]
-        N -->|"Weekly Sun 2 AM ET"| P[Form526ParanoidSuccessPollingJob]
+        N -.->|"Weekly Sun 2 AM ET"| P["Form526ParanoidSuccessPollingJob<br/>⚠️ DEPRECATED - Being Removed"]
         
         O -->|"Bulk Status Check"| Q{Lighthouse Status?}
         
         Q -->|vbms| R[✅ accepted! - True Success]
-        Q -->|success| S[⚠️ paranoid_success!]
+        Q -->|success| S["⚠️ paranoid_success!<br/>(treated as success)"]
         Q -->|error/expired| T[❌ rejected! + Failure Email]
         
-        S --> P
-        P -->|"Re-check"| U{Status Changed?}
-        U -->|vbms| R
-        U -->|error/expired| T
-        U -->|processing| V[Revert to Pending]
+        S -.-> P
+        P -.->|"Re-check"| U{Status Changed?}
+        U -.->|vbms| R
+        U -.->|error/expired| T
+        U -.->|processing| V[Revert to Pending]
     end
 
     style A fill:#e1f5fe
     style R fill:#c8e6c9
     style T fill:#ffcdd2
     style S fill:#fff9c4
+    style P fill:#e0e0e0,stroke:#9e9e9e,stroke-dasharray: 5 5
 ```
 
 ## Detailed Sequence Diagram
@@ -117,8 +118,8 @@ sequenceDiagram
         end
     end
 
-    rect rgb(248, 255, 240)
-        Note over Poller,DB: Weekly Paranoid Success Check (Sunday 2 AM ET)
+    rect rgb(230, 230, 230)
+        Note over Poller,DB: ⚠️ DEPRECATED - Weekly Paranoid Success Check (Sunday 2 AM ET)<br/>Planned for removal - status reversions not observed in practice
         loop Every Sunday at 2 AM ET
             Poller->>DB: Query paranoid_success submissions
             Poller->>LH: POST /uploads/status
@@ -224,7 +225,9 @@ After exhaustion → sends `Form526SubmissionFailureEmailJob` (if flipper enable
 | Job | Schedule | Max Polling Duration | Purpose |
 |-----|----------|---------------------|---------|
 | `Form526StatusPollingJob` | **Daily at 3 AM ET** | **3 weeks** (`MAX_PENDING_TIME`) | Check Lighthouse status for pending submissions |
-| `Form526ParanoidSuccessPollingJob` | **Weekly Sunday 2 AM ET** | Ongoing | Re-verify submissions with `paranoid_success` status |
+| ~~`Form526ParanoidSuccessPollingJob`~~ | ~~Weekly Sunday 2 AM ET~~ | ~~Ongoing~~ | ~~Re-verify submissions with `paranoid_success` status~~ |
+
+> ⚠️ **DEPRECATION NOTICE:** `Form526ParanoidSuccessPollingJob` is planned for removal. Analysis has shown that Lighthouse statuses do not revert from `success` back to `processing` or other states in practice, making this re-verification unnecessary. The `paranoid_success` status will be treated equivalently to `accepted` going forward.
 
 **Polling stops when:**
 - Status becomes `vbms` → `accepted!` (true success)
