@@ -4,9 +4,10 @@
 
 This release plan covers the rollout of enhanced evidence request content to the VA Mobile App. The feature passes enriched content fields (friendly names, descriptions, next steps) through the mobile adapter to provide Veterans with clearer, more actionable information about what documents they need to submit.
 
-[Collaboration Cycle Ticket #120568](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120568)
-[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118016)
-[Incident Response](./incident-response.md)
+## Resources
+- [Collaboration Cycle Ticket #120568](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120568)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118016)
+- [Incident Response](./incident-response.md)
 
 ## Feature Toggles
 
