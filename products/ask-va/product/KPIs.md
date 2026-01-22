@@ -1,6 +1,8 @@
 # Ask VA KPIs
 Last updated by @StephanieVargoIBM on January 14, 2026
 
+As of 1/16/26 performance and Medallia feedback KPI's will no longer be updated in this file.  The source of truth can be found at, https://dvagov.sharepoint.com/:x:/r/sites/AskVA/_layouts/15/Doc.aspx?sourcedoc=%7B636E4E88-1964-49E1-9DA9-3DFCD18B455C%7D&file=Ask%20VA%20KPIs%20on%20VA.gov.xlsx&action=default&mobileredirect=true.
+
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
 **Jump to:**
