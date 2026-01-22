@@ -5,6 +5,10 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 1/22/2026
 *  Rescheduling this meeting so that more OCTO folks can join. Does Mondays work for folxs?
+*  Changes to template migration process:
+     - A new CMS PM will be starting on Monday (1/26) who will be taking over the PMing for template migration
+     - We are going to be moving to schedule deployment of Next Build
+     - We are going to be moving QAing away from staging and, likely, onto dev 
 
 
 1/08/2026
