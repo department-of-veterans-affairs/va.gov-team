@@ -71,10 +71,9 @@ Before your rotation, ensure you have:
 | Sprint 9 | Jan 27 – Feb 9 | Kevin | Holden |
 | Sprint 10 | Feb 10 – Feb 23 | Patrick B. | Kevin, Holden |
 | Sprint 11 | Feb 24 – Mar 9 | Josh | Kevin, Holden |
-| Sprint 12 | Mar 10 – Mar 23 | Kevin | Holden |
-| Sprint 13 | Mar 24 – Apr 6 | Holden | Kevin |
-| Sprint 14 | Apr 7 – Apr 20 | Alex | Kevin, Holden |
-| Sprint 15 | Apr 21 – May 4 | Patrick A. | Kevin, Holden |
+| Sprint 12 | Mar 10 – Mar 23 | Holden | Kevin |
+| Sprint 13 | Mar 24 – Apr 6 | Alex | Kevin, Holden |
+| Sprint 14 | Apr 7 – Apr 20 | Patrick A. | Kevin, Holden |
 
 ---
 
