@@ -264,9 +264,11 @@ For research conducted and documented prior to October 1, 2025, refer to this se
    - Type **/** then **research-plan.md** and then **Commit changes**.
      <img width="1239" height="215" alt="image" src="https://github.com/user-attachments/assets/f1c86a09-f463-47e7-aea5-ca300a6f85c1" />
 
+   - Repeat step 1 to add a conversation-guide.md and a research-findings.md file. Do not rename these files.
+
 > **TIP:** A folder needs an .md file to create. Make a research-plan.md to start and then copy over the research-plan template by clicking the **copy raw data** icon near the top right. Then you can paste all of the content into the newly created research-plan.md file. Moving or renaming files in GitHub will break links previously shared. Ensure you have naming how you want it before sharing links!
 
-2. This new folder should have the following files: research-plan.md, conversation-guide.md, research-findings.md. Do not rename these files.
+2. This new folder should have the following files: **research-plan.md, conversation-guide.md, research-findings.md. Do not rename these files.**
    - Github templates exist to create the markdown files and help make it easy to maintain the structure needed. 
    - [These templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/clinical-decision-support/research-templates) are markdown files, new to many. Use OCTO GitHub tips as a resource to get you up to speed. Additionally, there are tips to making your GitHub files accessible.
    - These templates are adapted from the VA.gov templates used for Veteran facing research for CDS purposes. For example, the demographics section about the participants recruited reflects the clinical setting since we aim to recruit for different EHR systems, clinical roles, etc.
