@@ -14,7 +14,7 @@ flowchart TB
 
     subgraph BackupSubmit["Backup Submission Process"]
         D --> E[Form526BackupSubmissionProcess::Submit]
-        E -->|"retry: 14 (~3-4 days)"| F[Processor#process!]
+        E -->|"retry: 14 (~27-35 hrs)"| F[Processor#process!]
         
         F --> G[gather_docs!]
         G --> G1[get_form526_pdf - L533]
@@ -78,7 +78,7 @@ sequenceDiagram
     VetsAPI->>Submit: queue_central_mail_backup_submission
 
     rect rgb(240, 248, 255)
-        Note over Submit,Processor: Backup Submission (retries over ~3-4 days)
+        Note over Submit,Processor: Backup Submission (retries up to ~35 hrs)
         Submit->>DB: Form526Submission.benefits_intake_api!
         Submit->>DB: Create Form526JobStatus (pending)
         Submit->>Processor: Processor.new(submission_id).process!
@@ -135,43 +135,113 @@ sequenceDiagram
 
 ## Timing & Durations
 
-### Submit Job Retry Schedule (Sidekiq retry: 14)
+### End-to-End Timeline Summary
+
+```mermaid
+gantt
+    title Form 526 Submission Timeline (Worst Case)
+    dateFormat  YYYY-MM-DD HH:mm
+    axisFormat %d %b
+
+    section Phase 1: Primary Submit
+    SubmitForm526AllClaim retries (16x) :crit, p1, 2024-01-01 00:00, 50h
+
+    section Phase 2: Backup Submit
+    Form526BackupSubmissionProcess retries (14x) :active, p2, after p1, 27h
+
+    section Phase 3: Polling
+    Daily status polling (up to 3 weeks) :p3, after p2, 21d
+```
+
+| Phase | Job | Max Retries | Max Duration | Cumulative |
+|-------|-----|-------------|--------------|------------|
+| **1. Primary Submission** | `SubmitForm526AllClaim` | 16 | ~2 days 2 hours | ~2 days 2 hours |
+| **2. Backup Submission** | `Form526BackupSubmissionProcess::Submit` | 14 | ~27 hours | ~3 days 5 hours |
+| **3. Status Polling** | `Form526StatusPollingJob` | N/A (scheduled) | Up to 3 weeks | ~24 days total |
+
+**Worst-case time from user submission to final resolution: ~3.5 weeks**
+
+---
+
+### Phase 1: Primary Submit Job (`SubmitForm526AllClaim`)
+
+**Sidekiq retry: 16** — retries for up to **~2 days 2 hours** (per code comment: "2d 1h 47m 12s")
+
+Sidekiq uses exponential backoff: `(retry_count ** 4) + 15 + (rand(10) * (retry_count + 1))` seconds
 
 | Retry # | Approximate Delay | Cumulative Time |
 |---------|-------------------|-----------------|
-| 1 | ~15 seconds | 15 sec |
-| 2 | ~16 seconds | 31 sec |
-| 3 | ~31 seconds | 1 min |
-| 4 | ~1 minute | 2 min |
-| 5 | ~2 minutes | 4 min |
-| 6 | ~4 minutes | 8 min |
-| 7 | ~8 minutes | 16 min |
-| 8 | ~16 minutes | 32 min |
-| 9 | ~32 minutes | 1 hr |
-| 10 | ~1 hour | 2 hr |
-| 11 | ~2 hours | 4 hr |
-| 12 | ~4 hours | 8 hr |
-| 13 | ~8 hours | 16 hr |
-| 14 | ~11 hours | ~27 hr |
+| 1 | ~16 sec | 16 sec |
+| 2 | ~31 sec | 47 sec |
+| 3 | ~1 min | 2 min |
+| 4 | ~4 min | 6 min |
+| 5 | ~10 min | 16 min |
+| 6 | ~22 min | 38 min |
+| 7 | ~40 min | 1 hr 18 min |
+| 8 | ~1 hr 8 min | 2 hr 26 min |
+| 9 | ~1 hr 49 min | 4 hr 15 min |
+| 10 | ~2 hr 47 min | 7 hr 2 min |
+| 11 | ~4 hr 4 min | 11 hr 6 min |
+| 12 | ~5 hr 44 min | 16 hr 50 min |
+| 13 | ~7 hr 50 min | 24 hr 40 min |
+| 14 | ~10 hr 27 min | 35 hr 7 min |
+| 15 | ~13 hr 38 min | 48 hr 45 min |
+| 16 | ~17 hr 27 min | **~66 hr (~2d 18h)** |
 
-**Total time before exhaustion: ~3-4 days**
+After exhaustion → triggers `queue_central_mail_backup_submission` → Phase 2
 
-### Polling Schedule
+---
 
-| Job | Schedule | Purpose |
-|-----|----------|---------|
-| `Form526StatusPollingJob` | Daily at 3 AM ET | Check status of pending backup submissions |
-| `Form526ParanoidSuccessPollingJob` | Weekly Sunday 2 AM ET | Re-verify "success" status submissions |
+### Phase 2: Backup Submit Job (`Form526BackupSubmissionProcess::Submit`)
+
+**Sidekiq retry: 14** — retries for up to **~27 hours**
+
+| Retry # | Approximate Delay | Cumulative Time |
+|---------|-------------------|-----------------|
+| 1 | ~16 sec | 16 sec |
+| 2 | ~31 sec | 47 sec |
+| 3 | ~1 min | 2 min |
+| 4 | ~4 min | 6 min |
+| 5 | ~10 min | 16 min |
+| 6 | ~22 min | 38 min |
+| 7 | ~40 min | 1 hr 18 min |
+| 8 | ~1 hr 8 min | 2 hr 26 min |
+| 9 | ~1 hr 49 min | 4 hr 15 min |
+| 10 | ~2 hr 47 min | 7 hr 2 min |
+| 11 | ~4 hr 4 min | 11 hr 6 min |
+| 12 | ~5 hr 44 min | 16 hr 50 min |
+| 13 | ~7 hr 50 min | 24 hr 40 min |
+| 14 | ~10 hr 27 min | **~35 hr (~1d 11h)** |
+
+After success → stores `backup_submitted_claim_id` (Lighthouse UUID) → Phase 3
+
+After exhaustion → sends `Form526SubmissionFailureEmailJob` (if flipper enabled)
+
+---
+
+### Phase 3: Status Polling
+
+| Job | Schedule | Max Polling Duration | Purpose |
+|-----|----------|---------------------|---------|
+| `Form526StatusPollingJob` | **Daily at 3 AM ET** | **3 weeks** (`MAX_PENDING_TIME`) | Check Lighthouse status for pending submissions |
+| `Form526ParanoidSuccessPollingJob` | **Weekly Sunday 2 AM ET** | Ongoing | Re-verify submissions with `paranoid_success` status |
+
+**Polling stops when:**
+- Status becomes `vbms` → `accepted!` (true success)
+- Status becomes `error` or `expired` → `rejected!` + failure email
+- Submission is older than 3 weeks (falls out of `pending_backup` scope)
+
+---
 
 ### Key Timeouts & Windows
 
 | Parameter | Value | Description |
 |-----------|-------|-------------|
-| Upload Window | **15 minutes** | Time to upload after getting presigned URL |
-| MAX_PENDING_TIME | **3 weeks** | Submissions older than this aren't polled |
-| STALE_SLA | **10 days** | Alert threshold for stale submissions |
-| PDF Max Size | **100 MB** | Maximum PDF file size |
-| API Timeout | **30 seconds** | Default HTTP timeout |
+| Upload Window | **15 minutes** | Time to upload after getting presigned URL from Lighthouse |
+| MAX_PENDING_TIME | **3 weeks** | Submissions older than this aren't included in polling |
+| STALE_SLA | **10 days** | Alert threshold for submissions still pending |
+| PDF Max Size | **100 MB** | Maximum PDF file size for upload |
+| API Timeout | **30 seconds** | Default HTTP timeout for Lighthouse calls |
 
 ## Lighthouse Status Values
 
