@@ -55,7 +55,7 @@ Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** & **
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
-Today we're going to talk about [insert topic]
+Today we're going to talk about **Patient Details within the CDS Console**
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -65,7 +65,7 @@ Before we start, I have a few things that I want to go over with you:
   
 - **Your participation in this session is completely voluntary.** You do not have to participate if you don't want to. Your responses will remain confidential and your anonymity protected. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
        
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. 
+- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. 
   
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we use a general role, like primary care physiciant or give you a participant ID, like P7. A general role or care setting helps provide a lens for the quote.
   
@@ -85,19 +85,12 @@ Before we start, I have a few things that I want to go over with you:
  <mark>**[Record answer here]**</mark>
  
 
-# Warm-up Questions (Optional) - 5 minutes
+# Warm-up Questions (Optional)
 
-Before we look at [the prototype/etc], I'd like to learn a little bit about you. 
+First, I’d like you to walk through the Console as you normally would today.
+[For those that do not open the Console directly] What is your typical workflow/entry point to CDS Applications and/or the Console? 
 
-> [!TIP]
-> - These are placeholder questions, but work well across a lot of situations. Adjust as you need for your study.
-> - If it's a prior participant, consider skipping or modifying the intro questions or following up on something you previously learned from them.
-
-1. Can you tell me about your current role at the VA and how long have you been at the VA?
-2. How often have you been using [insert product]?
-3. Can you breifly walk be through what your experience was like the last time you used [product or thing]?
-4. What, if anything, was challenging about that experience? Why?
-5. What, if anything, was straightforward about that experience? Why?
+For the purposes of this exercise, we're curious about how we might enhance the Console Patient Details and we want to know what CDS data from other CDS applications might best support your clinical decision making.
 
 ## Prototype Intro - Moderator Controls:
 Next we’re going to look at a prototype of the [insert thing]. There are a few things I’d like you to keep in mind: 
@@ -129,44 +122,70 @@ Next we’re going to look at a prototype of the application. There are a few th
 
 `[Describe clinical scenario and pull up prototype and share screen]`
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Navigation to Console] - 1 minute
 
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- [X] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
+- [ ] What are your initial impressions of the homepage (CDS applications)?
+- [ ] What applications do you use the most?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
+> - Pain points
+> - Findability
 
-## Third Task: [TASK NAME] - X minutes
+## Second Task: [Navigation to Patient Details] - 4 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Now, please navigate to where you would expect to access clinical information within the Console.
+- [ ] How easy or difficult was it to locate?
+- [ ] Is this where you would expect to find it? Why or why not?
+- [ ] What, if anything, could make it easier to access or more intuitive?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant gravitate to finding x data in the EHR (instead of in the product)?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware of xyz?]
-> - [Etc]
+> - Pain points
+> - Findability
+
+## Third Task: [Labs and Vitals] - 2 minutes
+
+- [ ] Review Labs and Vitals
+- [ ] What are your initial impressions?
+- [ ] What is missing, if anything?
+- [ ] What information would you expect or like to see?
+- [ ] What actions would you want to take from here?
+
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
+
+## Fourth Task: [Key Conditions] - 2 minutes
+
+- [ ] Review Labs and Vitals
+- [ ] What are your initial impressions?
+- [ ] What is missing, if anything?
+- [ ] What information would you expect or like to see?
+- [ ] What actions would you want to take from here?
+
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
+
+## Fifth Task: [Medications] - 2 minutes
+
+- [ ] Review Medications
+- [ ] What are your initial impressions?
+- [ ] What is missing, if anything?
+- [ ] What information would you expect or like to see?
+- [ ] What actions would you want to take from here?
+
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
 
 # Post-Task Interview - X minutes
 
