@@ -50,8 +50,8 @@ The following describes each task experience in greater detail.
 |VAHB mobile app|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox and Start new message screen**.<br>- User can only select care teams at non-transitioning sites. Users won't have care teams from transitioning sites to select<br>- User has inline error messages when selecting "Send" button because they can't complete all required fields|
 |VA.gov|Reply to message|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
 |VAHB mobile app|Reply to message|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
-|VA.gov|Edit draft|ame as "Transitioning site only users" for only messages to care teams at transioning sites|
-|VAHB mobile app|Edit draft|ame as "Transitioning site only users" for only messages to care teams at transioning sites|
+|VA.gov|Edit draft|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
+|VAHB mobile app|Edit draft|Same as "Transitioning site only users" for only messages to care teams at transioning sites|
 
 ### Other notes
 **Post-cutover**
