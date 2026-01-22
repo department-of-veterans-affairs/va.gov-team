@@ -92,36 +92,6 @@ First, I’d like you to walk through the Console as you normally would today.
 
 For the purposes of this exercise, we're curious about how we might enhance the Console Patient Details and we want to know what CDS data from other CDS applications might best support your clinical decision making.
 
-## Prototype Intro - Moderator Controls:
-Next we’re going to look at a prototype of the [insert thing]. There are a few things I’d like you to keep in mind: 
-
-- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
-- This is a prototype and not the real application. [Non-coded interactive prototype: It closely matches the real application, but some things may not work as expected.] You may see placeholder information that doesn't match your own situation exactly and that's ok.
-- I'm going to share my screen and you can tell me what to do, what to click, where to scroll. 
-- There are questions that will ask to input information. When we get to these points, you can tell me what you would input, and then we'll move on. 
-- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review a page. 
-- If at any point you feel uncomfortable or confused, please let me know. We are testing the designs and gathering feedback and not testing you. We’re here to support and learn from you. 
-- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this application without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
-- And please feel free to be as honest as possible – it won’t hurt our feelings. 
-
-`[Describe clinical scenario and pull up prototype and share screen]`
-
-## Prototype Intro - Participant Controls:
-Next we’re going to look at a prototype of the application. There are a few things I’d like you to keep in mind: 
-- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
-- This is a prototype and not the real application. It closely matches the real application, but some things may not work as expected. Non-coded interactive prototype: It closely matches the real site, but some things may not work as expected. You may see placeholder information that doesn't match your own situation exactly and that's ok.
-- I'm going to send you a link to the prototype in the chat and ask you to open the prototype and share your screen so I can follow along as you go. Does this sound okay to you? [If participant is uncomfortable - Alternatively, I can share my screen and you can tell me where to click and what to do. Switch to moderator controls prototype intro]. 
-- [Send link to prototype in chat, confirm has it open]
-- Before you share your screen, please close down any open windows that contain patient information so we don't accidentally record Veteran PII.
-- Can you share your screen now? (MS Teams) You can share your screen by clicking on the green "Share screen" button in the top bar. Then, select on the option that has the website open. Let me know if you need any help with this. 
-- Before we continue, I have some more information for you. 
-- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review this application. 
-- If at any point you feel uncomfortable or confused, please let me know. We are testing the application and gathering feedback and not testing you. We’re here to support and learn from you. 
-- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this website without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
-- And please feel free to be as honest as possible – it won’t hurt our feelings. 
-
-`[Describe clinical scenario and pull up prototype and share screen]`
-
 ## First Task: [Navigation to Console] - 1 minute
 
 - [X] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
@@ -187,24 +157,125 @@ Next we’re going to look at a prototype of the application. There are a few th
 > - What's missing?
 > - What's useful?
 
-# Post-Task Interview - X minutes
+## Prototype Intro - Moderator Controls:
+Next we’re going to look at a prototype of the [insert thing]. There are a few things I’d like you to keep in mind: 
 
-> [!TIP]
-> - These are placeholder questions, but work well across a lot of situations. Adjust as you need for your study.
-- On a scale of 1-5, with 5 being greatly improves your workflow, how much does having [insert thing] help you? Why?
-- Of all the things we've reviewed today, what was a highlight for you?
-- What was most challenging or confusing? Why?
-- Before we end, do you have any questions for me?
-- Any last thoughts or feedback we didn't get to discuss already?
+- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
+- This is a prototype and not the real application. [Non-coded interactive prototype: It closely matches the real application, but some things may not work as expected.] You may see placeholder information that doesn't match your own situation exactly and that's ok.
+- I'm going to share my screen and you can tell me what to do, what to click, where to scroll. 
+- There are questions that will ask to input information. When we get to these points, you can tell me what you would input, and then we'll move on. 
+- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review a page. 
+- If at any point you feel uncomfortable or confused, please let me know. We are testing the designs and gathering feedback and not testing you. We’re here to support and learn from you. 
+- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this application without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
+- And please feel free to be as honest as possible – it won’t hurt our feelings. 
+
+`[Describe clinical scenario and pull up prototype and share screen]`
+
+## Prototype Intro - Participant Controls:
+Next we’re going to look at a prototype of the application. There are a few things I’d like you to keep in mind: 
+- I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
+- This is a prototype and not the real application. It closely matches the real application, but some things may not work as expected. Non-coded interactive prototype: It closely matches the real site, but some things may not work as expected. You may see placeholder information that doesn't match your own situation exactly and that's ok.
+- I'm going to send you a link to the prototype in the chat and ask you to open the prototype and share your screen so I can follow along as you go. Does this sound okay to you? [If participant is uncomfortable - Alternatively, I can share my screen and you can tell me where to click and what to do. Switch to moderator controls prototype intro]. 
+- [Send link to prototype in chat, confirm has it open]
+- Before you share your screen, please close down any open windows that contain patient information so we don't accidentally record Veteran PII.
+- Can you share your screen now? (MS Teams) You can share your screen by clicking on the green "Share screen" button in the top bar. Then, select on the option that has the website open. Let me know if you need any help with this. 
+- Before we continue, I have some more information for you. 
+- As you're going through the prototype, please think aloud. I'd like you to say whatever comes into your mind. I'm interested in what's grabbing your attention on the screen, what questions you have, and your general thoughts as you review this application. 
+- If at any point you feel uncomfortable or confused, please let me know. We are testing the application and gathering feedback and not testing you. We’re here to support and learn from you. 
+- If you have any questions as we go along, please feel free to ask me. I may not be able to answer them right away since we’re interested in how people would navigate this website without a helper around. But if you still have any questions when we’re done, I’ll try to answer them then.
+- And please feel free to be as honest as possible – it won’t hurt our feelings. 
+
+`[Describe clinical scenario and pull up prototype and share screen]`
+
+# Patient Details Enhancements w/ Prototype Questions - 20 minutes
+
+> [!NOTE]
+> ### Obejectives:
+> Gather initial feedback on patient details enhancements
+> Validate patient details enhancements on the Console and identify where the concepts can improve to support clinician efficiency and task flows to apps.
+
+> [!NOTE]
+> ### Key Outcomes:
+> Gather navigation input related to how clinicians transition from Patient Details to individual CDS apps for task completion.
+> Collect evidence to prioritize which patient detail enhancements on the Console (‘partial views’) should be considered for the Platform roadmap
 
 
-## Thank-You and Closing - X minutes
+### Bridge
+Now that you’ve seen what exists today within the Console, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype and will ask for your initial impressions on what you see, and what information you would like/expect to see to best support your workflow. 
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on these tools to better meet clinician needs.
+I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
 
-Thanks! Lastly, would you be interested in participating in another study like this for [this product] or [another product on the CDS console]? And do you have other colleagues who you think might be interested in participating in sessions like this? Would you be willing to share a link for them to sign-up?
+### Scenario
+Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
 
-Thank you so much again, and enjoy the rest of your day!
+### Scenario
+Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
+
+## First Task: [Labs and Vitals] - 2 minutes
+- [ ] Review Labs and Vitals
+- [ ] What are your initial impressions?
+- [ ] What is missing, if anything?
+- [ ] What information would you expect or like to see?
+- [ ] What actions would you want to take from here?
+
+## Second Task: [Key Conditions] - 2 minutes
+- [ ] What are your initial impressions?
+- [ ] What information/data would you expect to see?
+- [ ] What would you do next to care for this patient?
+- [ ] What might you expect to find if you clicked 'care pathways'?
+
+## Third Task: [Key Medications] - 2 minutes
+- [ ] What are your initial impressions?
+- [ ] What information/data would you expect to see?
+- [ ] What order do you expect to see the medications in (alphabetical, fill date ascending or descending, grouped by class, etc)?
+
+## Fourth Task: [Medical Calcualtors] - 2 minutes
+
+Medcalc Tile
+- [ ] What are your initial impressions?
+- [ ] What information/data would you expect to see?
+- [ ] Imagine you are wanting to see what's driving the score for ASCVD, how would you do this?
+
+ASCVD Detail
+- [ ] Imagine that based on this score and the patient's high LDL you and your patient decide it's best to start on a statin. However, given your patient is on other medications that impact blood sugar, you want to monitor them closely and see them back in 2 months. Walk me through how you find an appointment slot that works for you and the patient.
+
+## Fifth Task: [My Workweek] - 2 minutes
+- [ ] What are your initial impressions?
+- [ ] What information/data would you expect to see? What information and details are relevant regarding past appointments, how many past appointments would you expect to see, and why? For upcoming appointments, past?
+- [ ] Imagine now you want to remind yourself to get your patient in for labs every 2 weeks. Walk me through how you would do this.
+
+## Sixth Task: [Task Manager] - 2 minutes
+- [ ] What are your initial impressions?
+- [ ] What information/data would you expect to see, related to tasks?
+- [ ] Would you expect to be able to add a task? Why, why not?
+- [ ] What would you expect to drive what tasks show up here? (i.e. - due date, what is assigned to them, something else?)
+- [ ] Would you expect to see tasks here that don't pertain to your team? Why or why not?
+
+## Order of Information - 2 minutes
+- [ ] What order would you expect to see this data in, to best support your workflow?
+
+## Workflow Preferences - 2 minutes
+- [ ] Would your preferences change whether you were viewing this data before, during, or after encounter? How might you expect the experience to be different?
+
+# ICN, Workflow Integration, Feedback & Support - 10 minutes
+
+* Lastly, we’d like to touch on patient identifiers, and we are curious about your familiarity with the ICN as an identifier.
+* Are you familiar with ICN?
+* If so, how do you use it today?
+* How would you expect to report an issue?
+* Imagine you want to rate your experience using the console today, how would you expect to do that? How would you expect to share satisfaction input related to the experience?
+* How do you the experience you just walked through fitting in with their current workflow?
+* If you could change one thing about how the CDS Console fits into your daily workflow, what would it be?
+
+## Thank-You and Closing - 5 minutes
+
+* Is there anything else that we should consider for improving the CDS Console experience across EHRs? 
+* What features or applications would you like to see in the future to help your workflow?
+* Would you be open to future sessions related to this experience, or future session related to other CDS apps, as we continue to refine the experience?
+* Do you have any questions for us? If not, this concludes our session today.
+* Thank You - Your feedback will help us continually improve the overall CDS Console experience to better support your workflow across EHRs.
+
+Have a great day and thank you again!
 
 
 # Emergency Exit 🚨
@@ -213,7 +284,4 @@ In the rare case of an emergency during a session, be prepared with an [emergenc
 
 ---
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
-
-- [Calculator Detail Page - Line Chart Testing Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/medical-calculators/research/2025-09-Calculator-Detail-Page-Line-Chart-Testing/conversation-guide.md)
 
