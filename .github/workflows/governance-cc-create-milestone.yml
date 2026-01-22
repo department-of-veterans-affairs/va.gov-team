@@ -40,19 +40,19 @@ jobs:
           ssm_parameter: /devops/VA_VFS_BOT_GITHUB_TOKEN
           env_variable_name: VA_VFS_BOT_GITHUB_TOKEN
 
-      - name: Setup Node
-        uses: actions/setup-node@v6
-        with:
-          node-version: "24"
-          cache: "yarn"
+      # - name: Setup Node
+      #   uses: actions/setup-node@v6
+      #   with:
+      #     node-version: "24"
+      #     cache: "yarn"
 
-      - name: Install Node modules
-        run: yarn install --frozen-lockfile
+      # - name: Install Node modules
+      #   run: yarn install --frozen-lockfile
 
-      - name: Run script
-        run: node ./scripts/github-actions/gov-team/create-milestone.js
-        env:
-          GITHUB_TOKEN: ${{ env.VA_VFS_BOT_GITHUB_TOKEN }}
+      # - name: Run script
+      #   run: node ./scripts/github-actions/gov-team/create-milestone.js
+      #   env:
+      #     GITHUB_TOKEN: ${{ env.VA_VFS_BOT_GITHUB_TOKEN }}
 
 #   slack-notify:
 #     runs-on: ubuntu-latest
