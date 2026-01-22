@@ -40,7 +40,7 @@ jobs:
           echo "Merge base: $MERGE_BASE"
 
           git diff --name-only --diff-filter=ACMRT "$MERGE_BASE" "$HEAD_SHA" \
-            | grep -E '\.(md|mdx|txt)$' \
+            | grep -E '\.(md|txt)$' \
             | sort -u \
             > changed-files.raw.txt || true
 
