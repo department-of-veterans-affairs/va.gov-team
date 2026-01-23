@@ -68,9 +68,6 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
 `1.` **Patient Details 1.0 & Enhancements - Evaluate the value of Patient Details 1.0 feature value and identify needed enhancements**
@@ -173,10 +170,10 @@ Provide a link to any materials you need to run your study, including any materi
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
-`Audience:`
-- `Clinicians`
+`Audience: **Clincians**`
 
 **`1.`CDSC Research Participant Database** 
+**`2.`Oracle Health Contacts: Cross-team Contacts and Referrals** 
 
 ### Recruitment criteria
 
