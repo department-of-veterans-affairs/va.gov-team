@@ -394,22 +394,22 @@ Based on themes and insights covered in this research round, additional research
 ## Appendix
 
 ### Research documents
-- [Research Plan](https://example.com/research-plan)
-- [CPRS Conversation Guide](https://example.com/cprs-guide)
-- [Oracle Health Conversation Guide](https://example.com/oh-guide)
-- [CPRS Prototype](https://example.com/cprs-prototype)
-- [Oracle Health Prototype](https://example.com/oh-prototype)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/research-plan.md)
+- [CPRS Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+- [Oracle Health Conversation Guide](Ask Rosemary about this)
+- [CPRS Prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
+- [Oracle Health Prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=F9qx2raNBZa13Q8M-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735)
 
 ### Tools used for Synthesis
 
 - **Mural**: Used for affinity mapping and synthesizing insights across all 8 user sessions
 - **Affinity Mapping**: Organized findings into themes around workflow value, data needs, and usability
 
-Detailed notes and testimonials across all sessions can be found in: [Q1 '26 Patient Details User Testing Notes Mural](https://example.com/mural-notes)
+Detailed notes and testimonials across all sessions can be found in: [Q1 '26 Patient Details User Testing Notes Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1762799339819/055431b933c4ac15cecff96c50a80a4e00403b80)
 
 ### Clinical Use Cases
 
-Detailed use cases can be found in: [Clinician Experience Mapping Mural](https://example.com/use-cases-mural)
+Detailed use cases can be found in: [Clinician Experience Mapping Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738002902653/5ab79a8d0c2f5f83fb8798b639db3827d9b8e22d)
 
 **5 Highest Impact Clinical Use Cases:**
 
