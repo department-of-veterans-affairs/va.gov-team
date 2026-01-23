@@ -12,14 +12,12 @@ The broader queue that is used to access all potential items is found by accessi
 * In the queues dropdown, select < MHV Tier 3 >
  
 * In the items dropdown, select All Items
-#### MHV Tier 3 Support main view
+#### MHV Tier 3 Support new items view
 The default fields shown in this view include only some of the fields helpful for our reference. For this reason, we have a custome view that we use to make it clear which items have not yet been triaged by the team.
+[MHV Untriaged items - (no appts)](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=e88ea9b4-05c0-f011-bbd3-001dd80db51f&viewType=4230)
 
-The MHV Tier 3 Support team does not triage Appointments items, so we use the following view:
+#### MHV Tier 3 Support Open ticket view
 [MHV Tier 3 - Open Items Status - (no appts)](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=e88ea9b4-05c0-f011-bbd3-001dd80db51f&viewType=4230)
-#### MHV Tier 3 Appointments-inclusive view
-To see all Open items, which include Appointments, use [MHV Open Items Status - w/ appts](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=93794722-63d0-f011-bbd3-001dd80b194b&viewType=4230)
-
 
 ### Triage: Initial Ticket Review
 At minimum, the Status Reason and Owner fields are to be updated when you are initially reviewing a ticket.
