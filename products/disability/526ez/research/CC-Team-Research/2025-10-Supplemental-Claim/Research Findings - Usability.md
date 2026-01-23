@@ -288,7 +288,7 @@ Participants often mentioned expecting to upload evidence.
 Although one information screen mentions they’ll be able to upload evidence in a later step, it was not enough to set expectations, and most did not read or acknowledge the text at all. (Version 1, which explicitly mentions “step 4,” did garner more attention than the more general “later in this application” in version 2).
 - This pattern / perspective combined with the literal interpretation of language (see Additional Insights) inform the evidence-first reasoning and narrative expectation pillars of Veterans’ mental model around disabilities, claims, and appeals.
 
-|<img width="626" height="858" alt="Screenshot 2026-01-16 at 13 03 25" src="https://github.com/user-attachments/assets/644c3af1-4ee4-478b-a251-d5265a651621" />|
+|<img width="1561" height="435" alt="Screenshot 2026-01-23 at 15 51 10" src="https://github.com/user-attachments/assets/7e5e17e2-cb2f-4a28-b9b8-d2e2226137be" />|
 |---|
 
 #### Telling their story
