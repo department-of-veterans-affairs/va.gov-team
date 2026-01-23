@@ -37,7 +37,7 @@ description: "For CHAMPVA eligibility study for Veteran participants."
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about applying for the Civilian Health and Medical Program of the Department of Veterans Affairs (also known as CHAMPVA) application and eligibility. We are going to go through a couple of different simple prototypes.
+Today we're going to talk about the Civilian Health and Medical Program of the Department of Veterans Affairs (also known as CHAMPVA) application and eligibility. We are going to go through a couple of different prototypes.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -48,7 +48,7 @@ Before we start, I have a few things that I want to go over with you:
   
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+- **You'll be interacting with some prototypes today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
 
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
@@ -118,10 +118,13 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 - On this first page, take a minute or so to look over the instructions and when you're ready, in your own words, tell me what this means to you.
 - Is there anything here that would give you pause?
-- Is the eligibility criteria clear here and would that be enough information for you to choose to proceed? Why or why not?
-- If you proceed, would you sign in first and what do you expect to be different by signing in vs not?
-- Do you have all that information on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
-- On a scale of 1-5 (with 1 being poorly and 5 being very well) - how informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
+- Is the eligibility criteria clear here?
+     - Is there enough information for you to choose to proceed? Why or why not?
+- If you proceed, would you sign in first?
+     - What, if anything, do you expect to be different by signing in vs not?
+- Do you have all the information required to submit the application on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
+- On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **informed** do you feel about the application you are about to begin based on this page's content?
+     - Why did you give it that rating?
 
 
 > [!NOTE]
@@ -137,7 +140,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 - If they state they WOULD proceed: Okay, go ahead and click on the blue alert box to move forward in the prototype.
 
 
-- Since this is a prototype, we've pre-filled all of the information like you would if you're doing this for real.
+- Since this is a prototype, we've pre-filled all of the information you'd normally type in if you're doing this for real.
 - Please go through these next few questions and remember to think aloud as much as possible. We want to hear your thoughts on the content and information here. You can click the "Continue" button when you're ready to proceed to the next page. (They can go back if they click on the breadcrumb link).
 
 
@@ -145,11 +148,13 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 - [ ] Pause them when they arrive at the gray box eligibility screen
 
-- In your own words, tell me what this page means and what you would do next if you were applying today.
-
-- What options did you think were available to you at this point?
+- In your own words, tell me what this page means.
   
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this section? Why did you give it that rating?
+- What you would do next if you were applying for CHAMPVA today?
+
+- What options do you think were available to you at this point?
+  
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to **understand** this screen? Why did you give it that rating?
 
 - Go ahead and click on the "Continue" button at the bottom of the screen.
 
@@ -162,14 +167,16 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 ## Third Task: [PROTOTYPE PINEAPPLE - INTRO] - 5 minutes
 
-- Now we are going to switch gears and look through that second prototype I had mentioned earlier. Again, this is a prototype where not everything works, and we are really interested in your feedback and understanding of the information presented.
+- Now we are going to switch gears and look through the second prototype I had mentioned earlier. Again, this is a prototype where not everything works, and we are really interested in your feedback and understanding of the information presented.
 
 - Go ahead and click on "Prototype Pineapple".
 
-- Again, on this first page, take a minute or so to look over the instructions, and when you're ready, in your own words, tell me what this means to you?
+- Again, on this first page, take a minute or so to look over the instructions, and when you're ready, in your own words, tell me what this mean to you?
+  
 - Is there anything that stands out to you compared to the first prototype you saw?
 
-- Would you take the same or a different action as compared to the other prototype? Would you still proceed with the application?
+- Would you take the same or a different action as compared to the other prototype?
+     - Would you still proceed with the application?
   
 - [ ] State their answer during the first task of prototype Blueberry - would they proceed or not
 
@@ -189,19 +196,21 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 - [ ] API Check step in prototype flow
 
-- Explain to me in your own words what happened once you clicked continue on this prototype and what this message means. 
+- What is your reaction to this eligibility determination you see on this screen?
+
+- Backing up a little bit, please explain to me in your own words what happened once you clicked "continue" on this prototype, and what this message means. 
 
 - Did this step feel slow, abrupt, or unexpected?
 
-- Did you understand what the system was checking?
-
-- What is your reaction to this eligibility determination you see on this screen?
+- Do you understand what the system was checking?
 
 - [ ] Pause them when they arrive at the gray box eligibility screen
 
-- Would you take the same or a different action as compared to the other prototype? Would you still proceed with the application?
+- Would you take the same or a different action as compared to the other prototype?
+  
+- Would you still proceed with the application?
 
-- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand this second prototype of the form? Why did you give it that rating?
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to understand the second prototype of the form? Why did you give it that rating?
 
 - Go ahead and click on the "Continue" button at the bottom of the screen.
 
@@ -220,42 +229,46 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 [Warning Alert A - Veteran not in VA System] 
 
-- In this first scenario, you entered in your information but for some reason your information and you see the following message:
+- In this first scenario, you entered in your/the Veteran's information and you see the following message.
 
 - Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
 
 - In this scenario, would you want to apply for CHAMPVA benefits despite the warning?
-
+     - What actions, if any, would you take before doing so?
 
 [Warning Alert B - Error with EDS] 
 
-- In this next scenario, you entered in your information just as before, but now you see the following information:
+- In this next scenario, you entered in your/the Veteran's information just as before, but now you see the following message.
 
 - Please think aloud on what your thoughts are around what this alert means and explain what actions you would take in this scenario.
 
-- Would you want to apply for CHAMPVA benefits despite the warning here and what actions, if any, would you take before doing so?
+- Would you want to apply for CHAMPVA benefits despite the warning here?
+     - What actions, if any, would you take before doing so?
 
 
 [Warning Alert C  - Veteran not found in DEERS] 
 
-- Third scenario, you see the following alert:
+- Third scenario, you see the following alert.
 
 - Again, same thing, think aloud about your impressions of this alert message.
 
-- For this scenario, would you feel more confident now before applying? 
+- For this scenario, would you feel more confident now before applying?
+     - Why/why not?
 
 [Warning Alert D  - Found Veteran in DEERS, Eligible for TRICARE] 
 
-- For this scenario, the Veteran's information was located.
+- For this scenario, your/the Veteran's information was located.
 
-- For you see this message. What would you do? Anything you want to see here?
+- You see this message. What would you do? Is there any additional information you want to see here?
 
 
 [Success Alert E - maybe be eligible for CHAMPVA] 
 
-- And the last scenario to go over, you see the following alert:
+- And the last scenario to go over, you see the following alert.
 
 - [ ] Page with success alert shown
+
+- You see this message. What would you do? Is there any additional information you want to see here?
 
 ## Sixth Task: [SUMMARY CARDS] - 5 minutes
 
@@ -265,7 +278,8 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 - On this screen, you'll find 4 summary cards. The first two, Card Style A, are from the prototypes we just went through. The 3rd and 4th cards, Card Style B, are alternative designs. Please take a moment to look at all four before we talk about them.
 
 - What do you think each card is telling you?
-- Which set is the easiest to understand at a glance? What makes it clearer than the other?
+- Which set is the easiest to understand at a glance?
+     - What specifically makes [Card Style] clearer than the others?
 - Was there any part of the card that felt unclear or confusing?
 
 - [ ] End of screenshare
@@ -278,7 +292,7 @@ I'm going to share a link in chat with you of the prototype, I'd like you to ope
 
 # Post-Task Interview - 5 minutes
 
-- Is there any other feedback you would like to add about these two prototypes?
+- Is there any other feedback you would like to add about the two prototypes and messages you saw today?
 - Do you have a preference for how eligibility clarity should be added to an online form? 
 - Any questions for me? 
 
