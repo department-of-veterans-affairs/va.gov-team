@@ -57,42 +57,48 @@ body:
     attributes:
       label: 🗣️ Slack channel
       description: Link to the Slack channel for discussions about this work.
-  - type: checkboxes
-    id: type
+  - type: markdown
     attributes:
-      label: ✅ Type of support
-      description: Select the types of support needed.
+      value: |
+        ### ✅ Type of support
+  - type: checkboxes
+    id: evaluation
+    attributes:
+      label: Evaluation Support
       options:
-        - label: Evaluation Support
-          value: evaluation
-          options:
-          - label: Design review
-            description: Review design artifacts to identify accessibility issues and recommend solutions.
-          - label: Conformance testing
-            description: Perform an accessibility audit of a functional user flow to identify accessibility issues and recommend solutions.
-          - label: Accessibility artifact
-            description: Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
-        - label: Research Support
-          value: research
-          options:
-          - label: Planning
-            description: Review research artifacts, run through conversation guide, and recommend improvements.
-          - label: Observation
-            description: Participate in research sessions and provide observation notes and takeaways.
-        - label: Implementation Support
-          value: implementation
-          options:
-          - label: Design
-            description: Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
-          - label: Engineering
-            description: Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
-        - label: General Support
-          value: general
-          options:
-          - label: Issue review
-            description: Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
-          - label: Consulting
-            description: Provide general guidance and training on accessibility topics.
+        - label: Design review
+          description: Review design artifacts to identify accessibility issues and recommend solutions.
+        - label: Conformance testing
+          description: Perform an accessibility audit of a functional user flow to identify accessibility issues and recommend solutions.
+        - label: Accessibility artifact
+          description: Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
+  - type: checkboxes
+    id: research
+    attributes:
+      label: Research Support
+      options:
+        - label: Planning
+          description: Review research artifacts, run through conversation guide, and recommend improvements.
+        - label: Observation
+          description: Participate in research sessions and provide observation notes and takeaways.
+  - type: checkboxes
+    id: implementation
+    attributes:
+      label: Implementation Support
+      options:
+      - label: Design
+        description: Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
+      - label: Engineering
+        description: Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
+  - type: checkboxes
+    id: general
+    attributes:
+      - label: General Support
+        options:
+        - label: Issue review
+          description: Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
+        - label: Consulting
+          description: Provide general guidance and training on accessibility topics.
   - type: textarea
     id: related
     attributes:
