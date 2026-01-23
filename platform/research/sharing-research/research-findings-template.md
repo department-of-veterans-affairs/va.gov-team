@@ -382,7 +382,7 @@ Disability and Assistive Technology (AT):
 
 #### Underserved groups we haven’t talked to 
 > [!NOTE]
-_Complete the [VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726):_
+_Complete the [VA recruitment checker for marginalized Veteran groups](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/accessibility/research/RecruitmentCheckerSpreadsheet.xlsx):_
 > 1. Duplicate the ***Template*** worksheet
 > 1. Enter your participant information **(see the *Template Instructions* worksheet for details)**
 > 1. Make a screenshot of the cells that you want to share and paste it into this report below
