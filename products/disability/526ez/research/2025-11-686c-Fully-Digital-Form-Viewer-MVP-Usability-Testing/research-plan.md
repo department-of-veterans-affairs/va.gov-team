@@ -223,6 +223,7 @@ Where does your product fit into the Veteran journey?
 * Determine where and how the Veteran accesses the form output 
 * Inform if the copy of submission will be accessed via a new tab vs. new page from confirmation page
 * Inform if future efforts should be dedicated to accessing the form viewer from MyVA
+* Inform transition plan considerations for integrating the new form viewer within the VSR workflows
 
 ### Research questions
 _"Form output" is the generic term we'll be using in this document. For Veteran's we will most likely refer to it as the "copy of submission". For VSRs, we will most likely refer to it as the "application or form submission."_
@@ -254,6 +255,9 @@ _"Form output" is the generic term we'll be using in this document. For Veteran'
 * How do these concepts compare to how Veterans and VSRs would normally view the form output?
     * Are there any features or qualities that are missing?
 * Is there anything Veterans and VSRs would wish to have?
+* How do these concepts affect VSRs' claim processing workflow?
+* How would VSRs imagine their and their team's workflow would change if this was implemented?
+* Compare the process now vs. transition period (when they're learning how to use it and there's a mix of PDF versions and this version) vs. future (when all forms are like this version).
 
 
 
