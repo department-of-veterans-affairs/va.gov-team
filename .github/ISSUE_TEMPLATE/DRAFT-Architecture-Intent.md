@@ -1,6 +1,6 @@
 ---
-name: Collaboration Cycle / Architecture Intent
-about: Template for Architecture Intent
+name: DRAFT Collaboration Cycle / Architecture Intent
+about: DRAFT - do not use - Template for Architecture Intent
 title: 'Architecture Intent for [Team Name, Product Name, Feature Name]'
 labels: collaboration-cycle
 assignees: ''
@@ -13,7 +13,7 @@ The [Architecture Intent touchpoint](https://depo-platform-documentation.scrollh
 
 ## Before the meeting
   
-### :one: VFS team schedule the meeting
+### :one: VFS team: schedule the meeting
 - [ ] Review [Architecture Intent Guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/architecture-intent) to understand what this touchpoint involves.
 - [ ] Schedule your Architecture Intent (with at least 2 business days lead time from now):
   - Open the [Calendly Architecture intent calendar](https://calendly.com/collaboration-cycle/architecture-intent)
@@ -22,7 +22,7 @@ The [Architecture Intent touchpoint](https://depo-platform-documentation.scrollh
   - Click "Add Guests" and enter the email addresses for VFS team attendees
   - Click "Schedule Event"
 
-### :two: VFS team adds links to artifacts at least 2 days before the meeting
+### :two: VFS team: add links to artifacts at least 2 days before the meeting
 Link all artifacts **at least two business days** before the scheduled Architecture Intent. Please don't add artifacts in the comments section. [See guidance on Architecture Intent artifacts.](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/architecture-intent#ArchitectureIntent-Whatartifactswillbeneeded?)
 Feedback is based on the artifacts provided here as well as information provided during the meeting. 
 
