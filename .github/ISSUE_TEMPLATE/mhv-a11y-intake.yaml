@@ -65,7 +65,6 @@ body:
       options:
         - label: Evaluation Support
           value: evaluation
-          checked: false
           options:
           - label: Design review
             description: Review design artifacts to identify accessibility issues and recommend solutions.
@@ -75,7 +74,6 @@ body:
             description: Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
         - label: Research Support
           value: research
-          checked: false
           options:
           - label: Planning
             description: Review research artifacts, run through conversation guide, and recommend improvements.
@@ -83,7 +81,6 @@ body:
             description: Participate in research sessions and provide observation notes and takeaways.
         - label: Implementation Support
           value: implementation
-          checked: false
           options:
           - label: Design
             description: Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
@@ -91,7 +88,6 @@ body:
             description: Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
         - label: General Support
           value: general
-          checked: false
           options:
           - label: Issue review
             description: Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
