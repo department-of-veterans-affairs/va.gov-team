@@ -14,9 +14,10 @@ The broader queue that is used to access all potential items is found by accessi
 * In the items dropdown, select All Items
 #### MHV Tier 3 Support new items view
 The default fields shown in this view include only some of the fields helpful for our reference. For this reason, we have a custome view that we use to make it clear which items have not yet been triaged by the team.
-[MHV Untriaged items - (no appts)](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=e88ea9b4-05c0-f011-bbd3-001dd80db51f&viewType=4230)
+[MHV Untriaged items - (no appts)](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=e1f3a81d-fcbf-f011-bbd3-001dd80a6183&viewType=4230)
 
 #### MHV Tier 3 Support Open ticket view
+This view shows all Open tickets: 
 [MHV Tier 3 - Open Items Status - (no appts)](https://dvagov-msp.crm9.dynamics.com/main.aspx?appid=33003bd2-8e16-413e-911f-5bdfa1b016ea&pagetype=entitylist&etn=queueitem&viewid=e88ea9b4-05c0-f011-bbd3-001dd80db51f&viewType=4230)
 
 ### Triage: Initial Ticket Review
