@@ -95,7 +95,7 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
   
 `Does this question serve the goals of my study?`
 
-**`1.'How do clinicians perceive the value of accessing Patient Details through the CDS Console compared to their current workflows (within Vista CPRS or Oracle Health)?**
+**`1.`How do clinicians perceive the value of accessing Patient Details through the CDS Console compared to their current workflows (within Vista CPRS or Oracle Health)?**
 
 **`2.`What usability challenges and friction points emerge when clinicians use Patient Details 1.0 within the Console?**
 
