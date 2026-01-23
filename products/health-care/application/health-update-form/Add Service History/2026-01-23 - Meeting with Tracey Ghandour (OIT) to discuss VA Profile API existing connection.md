@@ -1,0 +1,43 @@
+## Partner Pre Meeting: CMDMRP-11521 VA.GOV request read access to display current military service history to Veterans on the 10-10EZR form 
+- Friday, January 23, 2026
+- [Recording and Transcript](https://teams.microsoft.com/l/meetingrecap?driveId=b%21glAJv55fK0K8Hf3gWRVk6Pn1-beS6HBPgmVorO8kTp_Z4K6gOXKRT6AcV6nURK90&driveItemId=01ZOFHN7RIECBQKWXW4BCIIIXTT7IC6G7M&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Ftracey_ghandour_va_gov%2FIQAoIIMFWvbgRIQi85_QLxvsAX1kOlPjaw-STfu0YSRz99k&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2Fpersonal%2Ftracey_ghandour_va_gov%2FDocuments%2FRecordings%2FPartner%2520Pre%2520Meeting%2520CMDMRP-11521%2520VA.GOV%2520request%2520read%2520access%2520to%2520display%2520current%2520military%2520service%2520history%2520to%2520Veterans%2520on%2520the%252010-10EZR%2520form-20260123_140118-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00800000000E0F27884B68BDC010000000000000000100000005DEF7CF74E0F86489FBB4B750BBC28E5&threadId=19%3Ameeting_Zjg5MDg4NDgtNTU2NS00MmZlLWFhN2EtYWNkNGFhNmFkOGMy%40thread.v2&organizerId=04a36317-68bb-4579-9d34-2729dff7e8b6&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=9540eb9a-0dcc-48c2-bb4e-6d5790e1dcc3&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore) (VA Network)
+
+### Meeting Summary
+- **Topic:** Discussion on VA Gov's read access to display current military service history via Vets API and integration concerns.
+- **Participants:**
+     - Ghandour, Tracey M. (Deloitte Consulting LLP)
+     - Ray Messina
+     - Heather Justice
+     - Premal Shah
+     - Angela Fulton
+     - Tiffany Gaines
+
+- **Key Points Discussed:**
+     - **Read Access Confirmation:**
+          - Tracey confirmed with the VA profile team that VA Gov already has read access to military service history via Vets API.
+          - This data includes full military history and other pertinent data fields at the top level.
+     - **Integration and Access:**
+          - Heather and Ray inquired about any need for additional integration to access military service history.
+          - It was clarified that no further integration is required, but communication with the platform team is necessary to ensure access.
+     - **Service History Details:**
+          - Heather mentioned that they need access to the service history branch and start and end dates.
+          - Tracey noted that this information should already be accessible, but will confirm with the OIT team.
+     - **Additional Data Fields:**
+          - Ray brought up the need for additional fields, such as distinctions like the Purple Heart.
+          - Heather suggested discussing this offline to ensure all required parameters are noted.
+     - **Next Steps:**
+          - Confirm the service history details with the OIT team.
+          - Communicate with the platform team to verify access.
+          - Close the current request if it is confirmed that VA Gov already has the necessary read access.
+     - **Meeting Follow-Up:**
+          - Tracey suggested canceling the next scheduled meeting as the current understanding indicates no further action is needed.
+          - Heather agreed, and they plan to confirm all details and close the ticket.
+- **Conclusion:**
+     - The current read access for VA Gov using Vets API seems sufficient for retrieving military service history.
+     - Follow-up involves confirming specific data fields with the OIT team and platform team to ensure all required information is accessible.
+     - The next meeting may be canceled unless any new integration requirements arise.
+- **Action Items:**
+     - **Heather Justice:** Confirm all required data fields with the OIT team.
+     - **Ray Messina:** Discuss additional parameter needs offline with Heather.
+- **Closing Remarks:**
+     - Tracey, Heather, and Ray agreed on the next steps and expressed their gratitude for the collaboration before ending the meeting.
