@@ -48,7 +48,10 @@ After creating your recommendation issues, link them to your parent research iss
 
 1. Navigate to your research issue in the [Research Repository Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2)
 2. Open your research issue
-3. In the issue body, find the **"Create sub-issues"** button at the lower left corner of the main body.
+3. In the issue body, find the **"Create sub-issue"** button at the lower left corner of the main body.
+
+![Create sub-issue button location](images/create-sub-issue-button.png)
+
 4. Click the dropdown button  then click **"Add existing issue"**
 5. Search for or paste the URL of your recommendation issue
 6. Repeat for each recommendation issue
@@ -63,7 +66,10 @@ After creating your recommendation issues, link them to your parent research iss
 
 1. Open each recommendation sub-issue
 2. In the sidebar, find **"Projects"**
-3. Click **"Add to project"**
+3. Hover over **"Projects"** so it gets grey overlay, then click it.
+
+![Click projects button location](images/projects-hover-button.png)
+
 4. Select your product team's project board
 5. This ensures the product team sees the issue in their workflow
 
@@ -76,7 +82,7 @@ After creating your recommendation issues, link them to your parent research iss
    ## Recommendations
    
    1. **Implement synonym matching in search** (High Priority)
-      - [GitHub Issue #456](https://github.com/department-of-veterans-affairs/va.gov-team/issues/456)
+      - [Recommendation Issue #456](https://github.com/department-of-veterans-affairs/va.gov-team/issues/456)
    ```
 4.  Commit the updated findings report
 
