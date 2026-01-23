@@ -1,7 +1,7 @@
 # Connected apps use cases
 
 Last updated: January 2026  
-* User flow  
+* [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755179297520/d22e6c2efce116cd1e8c040338e97e26b98d87da?sender=u36b374887f74c9a3de2d0750)
 * [Figma files](https://www.figma.com/design/05k2PTmuDVgBj2HnzUZayg/Profile---Account-security?node-id=711-4538&t=EaXhiUhgo9yKr061-1)
 
 <details><summary>Archive | How to reproduce in staging</summary>
