@@ -1,5 +1,41 @@
 # Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR (Health Apps team)
 
+
+---
+## 📆 Sprint 14 (Feb 11 - Feb 24) (PREPLANNED)
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] 
+
+## 
+### 10-10EZR
+
+#### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] 
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] 
+
+#### Obj: EZR [ECNOK on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
+- [ ] 
+
+##
+### 10-10EZ
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- [ ] 
+
+## 
+### 10-10CG
+#### Obj: 
+
+
+##
+### Team PTO
+- President's Day holiday: 1/16 (floating for AH)
+- Jessica: 1/17
+
+
 ---
 ## 📆 Sprint 13 (Jan 28 - Feb 10) (PREPLANNED)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
@@ -45,21 +81,21 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Complete Launch V2 Financials
+- [X] EZR Complete Launch V2 Financials
 - [ ] EZR Service history BE schema update
 - [ ] EZR Service history Add branch/dates question page
 - [ ] EZR Service history Attend VA Profile meeting
 - [ ] EZR improvement opportunities research
 - [ ] EZ Multiple related forms pattern research
-- [ ] CG Restrict facilities parameters
+- [x] CG Restrict facilities parameters
 
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [x] **SPRINT GOAL** [#120278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120278) - [Eng, PM] Launch financials at 25%
-- [ ] **SPRINT GOAL** [#120279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120279) - [Eng, PM] Launch financials at 50%
-- [ ] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
+- [x] **SPRINT GOAL** [#120279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120279) - [Eng, PM] Launch financials at 50%
+- [x] **SPRINT GOAL** [#120280](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120280) - [Eng, PM] Launch financials at 100%
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
@@ -67,7 +103,7 @@
 - [ ] **SPRINT GOAL** [#129511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129511) - [Eng, PM] Attend VA Profile kickoff meeting
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- [ ] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Review EZR for additional improvement opportunities
+- [x] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Review EZR for additional improvement opportunities
 
 ##
 ### 10-10EZ
@@ -85,7 +121,6 @@
 - Martin Luther King, Jr. Day - holiday: 1/19
 - Renata: 1/15 - 1/20
 - Matt: 1/21-23
-- 
 
 ---
 ## 📆 Sprint 11 (Dec 31 - Jan 13)
