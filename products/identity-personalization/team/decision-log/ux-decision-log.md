@@ -8,19 +8,22 @@
 ---
 
 ## My VA
+
+### All My VA
 #### 11/07/2025, Direction on the List item component for Notifications
 - Platform team verfied that using "Shift + return" to create two lines of text in the simple content version of the List item component instead of two seperape text box comomponents. 
 - [Link to the conversation](https://dsva.slack.com/archives/C01DBGX4P45/p1762530150287459)
 
-#### 07/08/2025 Naming convention for form and application cards for cards that are not in SiP
-- Content team approved using the form number as a title in the Forms and applications cards when no name is available from SiP. This is to support efforts with allowing uploaded forms onto My VA.
-- [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1751978322068579)
-
+### Forms and applications
 #### 02/23/2026 Updating Forms and Applications Download Button to Link 
 - Platform team gave direction on utilizing the loading spinner on the download loading link
 -  [Link to conversation](https://dsva.slack.com/archives/C01DBGX4P45/p1769091910696729)
 - Content team recommended removing the success message for downloads and allowing for the users device to relay successful download messaging
 - [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1769114498797679)
+
+#### 07/08/2025 Naming convention for form and application cards for cards that are not in SiP
+- Content team approved using the form number as a title in the Forms and applications cards when no name is available from SiP. This is to support efforts with allowing uploaded forms onto My VA.
+- [Link to conversation](https://dsva.slack.com/archives/C01K37HRUAH/p1751978322068579)
 
 ---
 
