@@ -32,16 +32,16 @@
 - * [PGM] Console Redesign and App Widgets #100
 - * Enhance User Experience of the CDS Console through Clinician Feedback #696
 
-`Objective 1:  Insights on Patient Details 1.0 and validation on enhancements  
+`Objective 1:  Insights on Patient Details 1.0 and validation on enhancements'
 
 > - **Key Result 1:** Insights will identify where the feature meets clinician needs, where friction persists, and what opportunities exist to evolve Patient Details on the Console. This evidence will guide prioritization of enhancements and inform the roadmap for future iterations.
 > - **Key Result 2:** Navigation input - focused on navigation within the CDS's patient details to the individual apps for task flow completion.
 
-`Objective 2: Viable user-tested ‘app widget’ concepts/'partial views'* to inform PGM #100 
+`Objective 2: Viable user-tested ‘app widget’ concepts/'partial views'* to inform PGM #100' 
 
 > - **Key Result 1:** "Partial views" of CDS Apps with actionable CDS data are available on the CDS Console default view"
 
-`Objective 3: High level user feedback on the Console within Oracle Health (initial integration approach) provider workflows*
+`Objective 3: High level user feedback on the Console within Oracle Health (initial integration approach) provider workflows'
 
 > - **Key Result 1:** High level insight on Oracle Health Workflows
 
@@ -55,13 +55,13 @@
 
 <details><summary>Where does your product fit into the Clinician or VA staff journey?
 
-* As a Vista CPRS or Oracle Health user, I access patient details and key workflows via the Console, for example:
-  - 'Setting context, opening the Console, CDS applications'
-  - 'Using MWW to determine when an appointment is'
-  - 'Reviewing a patient's details prior to an appointment'
-  - 'Utilizing Med Pic to review a patient's medication adherence'
-  - 'Using a medical calculator to determine a diagnosis or result'
-  - 'Adding a Task as a follow up for a patient'
+As a Vista CPRS or Oracle Health user, I access patient details and key workflows via the Console, for example:
+- 'Setting context, opening the Console, CDS applications'
+- 'Using MWW to determine when an appointment is'
+- 'Reviewing a patient's details prior to an appointment'
+- 'Utilizing Med Pic to review a patient's medication adherence'
+- 'Using a medical calculator to determine a diagnosis or result'
+- 'Adding a Task as a follow up for a patient'
 
 </details>
 
