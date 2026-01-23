@@ -92,7 +92,7 @@ First, I’d like you to walk through the Console as you normally would today.
 
 For the purposes of this exercise, we're curious about how we might enhance the Console Patient Details and we want to know what CDS data from other CDS applications might best support your clinical decision making.
 
-## First Task: [Navigation to Console] - 1 minute
+## First Task: Navigation to Console - 1 minute
 
 - [ ] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
 - [ ] What are your initial impressions of the homepage (CDS applications)?
@@ -103,7 +103,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 > - Pain points
 > - Findability
 
-## Second Task: [Navigation to Patient Details] - 4 minutes
+## Second Task: Navigation to Patient Details - 4 minutes
 
 - [ ] Now, please navigate to where you would expect to access clinical information within the Console.
 - [ ] How easy or difficult was it to locate?
@@ -115,7 +115,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 > - Pain points
 > - Findability
 
-## Third Task: [Labs and Vitals] - 2 minutes
+## Third Task: Labs and Vitals - 2 minutes
 
 - [ ] Review Labs and Vitals
 - [ ] What are your initial impressions?
@@ -129,7 +129,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 > - What's missing?
 > - What's useful?
 
-## Fourth Task: [Key Conditions] - 2 minutes
+## Fourth Task: Key Conditions - 2 minutes
 
 - [ ] Review Labs and Vitals
 - [ ] What are your initial impressions?
@@ -143,7 +143,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 > - What's missing?
 > - What's useful?
 
-## Fifth Task: [Medications] - 2 minutes
+## Fifth Task: Medications - 2 minutes
 
 - [ ] Review Medications
 - [ ] What are your initial impressions?
@@ -204,9 +204,6 @@ Next we’re going to look at a prototype of the application. There are a few th
 Now that you’ve seen what exists today within the Console, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype and will ask for your initial impressions on what you see, and what information you would like/expect to see to best support your workflow. 
 
 I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
-
-### Scenario
-Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
 
 ### Scenario
 Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
