@@ -113,7 +113,7 @@ synthesis_tools_used:
 
 **Contacts:** Liz Blasi, UX Design & Research
 
-**[Research Readout (PDF)](link-here)**  
+**[Research Readout (PDF)](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/Clinical%20Decision%20Support%20Platform%20Team%20(CDSP)/2.%20User%20Research/2025%20User%20Research/Patient%20Details/Patient%20Details_Insights_1.09.2025_LizBlasi_V2.pdf?csf=1&web=1&e=EURy3S)**  
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
