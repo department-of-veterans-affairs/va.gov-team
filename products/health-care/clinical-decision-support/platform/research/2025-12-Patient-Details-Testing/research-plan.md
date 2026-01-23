@@ -1,5 +1,5 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for [CDS Platform, CDS Console, 2025-11-01]
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out first in the via Slack in [#cds-hcd-cop] (https://dsva.slack.com/archives/C06043YBWTC) or if more help is needed check out the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
@@ -32,54 +32,38 @@
 - * [PGM] Console Redesign and App Widgets #100
 - * Enhance User Experience of the CDS Console through Clinician Feedback #696
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+`Objective 1:  Insights on Patient Details 1.0 and validation on enhancements  
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+> - **Key Result 1:** Insights will identify where the feature meets clinician needs, where friction persists, and what opportunities exist to evolve Patient Details on the Console. This evidence will guide prioritization of enhancements and inform the roadmap for future iterations.
+> - **Key Result 2:** Navigation input - focused on navigation within the CDS's patient details to the individual apps for task flow completion.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
+`Objective 2: Viable user-tested ‘app widget’ concepts/'partial views'* to inform PGM #100 
 
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
+> - **Key Result 1:** "Partial views" of CDS Apps with actionable CDS data are available on the CDS Console default view"
 
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
+`Objective 3: High level user feedback on the Console within Oracle Health (initial integration approach) provider workflows*
 
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
+> - **Key Result 1:** High level insight on Oracle Health Workflows
 
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
+`Objective 4: High level user feedback on clinician familiarity with ICN (CPRS plans unknown, however from Shane's perspective it would be good to gather what clinician's know about ICN and usage)`
 
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
+> - **Key Result 1:** High level insight on ICN use and familiarity
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
-
-### [Clinician or VA Staff Journey](insert link)
+### [Clinician Journey](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=-10%2C-3901%2C0.35&t=sGnhUugq1ReREHAi-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
 
 <details><summary>Where does your product fit into the Clinician or VA staff journey?
-	
-- `Scheduling an appointment`
-- `Preparing for an appointment`
-- `Patient appointment`
-- `Patient follow-up`
-- `Making clinical decisions`
-- `Documentation or charting`
-- `Putting in an order`
-- `Reviewing results`
-- `Closing an encounter`
+
+* As a Vista CPRS or Oracle Health user, I access patient details and key workflows via the Console, for example:
+  - 'Setting context, opening the Console, CDS applications'
+  - 'Using MWW to determine when an appointment is'
+  - 'Reviewing a patient's details prior to an appointment'
+  - 'Utilizing Med Pic to review a patient's medication adherence'
+  - 'Using a medical calculator to determine a diagnosis or result'
+  - 'Adding a Task as a follow up for a patient'
 
 </details>
-
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
