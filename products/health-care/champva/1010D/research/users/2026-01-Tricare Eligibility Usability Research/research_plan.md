@@ -111,15 +111,15 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-**[Explore two options around to better understand how Veterans and family members understand the eligibility content, flow and alerts related to Tricare.]**
+Explore two options around to better understand how Veterans and family members understand the eligibility content, flow and alerts related to Tricare.
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Can be access both authenticated and unauthenticated. Signer can be a Veteran, applicant/beneficiary or represenative.]**
+Can be access both authenticated and unauthenticated. Signer can be a Veteran, applicant/beneficiary or represenative.
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[We are recruiting participants who are not currently enrolled in CHAMPVA and shouldn't have too much familiarity with the online applications, VA Form 10-10d.]**
+We are recruiting participants who are not currently enrolled in CHAMPVA and shouldn't have too much familiarity with the online application, VA Form 10-10d.
 
 `Product Brief`
 
@@ -131,12 +131,22 @@ tags:
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
+`Objective 1: Optimize software delivery for Veteran impact.`
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+> - **Key Result 1.1:** All C100 products have a documented Product Vision, including identifying up to three Veteran-impacting KPIs, published on Product.VA.gov.
+>      - Research Ops Plain Language: Supports up to three Veteran-impacting Key Performance Indicators documented for this on Product.VA.gov
+> - **Key Result 1.2:** Delivered 25 or more releases that have measurably improved a product's Veteran-impacting KPIs.
+>      - Research Ops Plain Language: Supports a production release that will measurably improved a product's Veteran-impacting KPIs.
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+`Objective 3: Relentlessly improve the user experience.`
+
+
+> - **Key Result 3.1:** Each OIT portfolio will improve customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.
+>      - Research Ops Plain Language: Supports this product’s OIT portfolio (Health, Benefits, etc) in improving customer satisfaction (or similar measure of user experience quality) of impactful systems by 3% or more.
+> - **Key Result 3.2:** 100% of end-user facing C100 systems maintain a ranked list of user pain points.
+>      - Research Ops Plain Language: Supports maintaining the ranked list of user pain points for Veteran-facing Products and Services.
+> - **Key Result 3.3:** 100% of C-100 systems have delivered at least one release that directly addresses a documented user pain point with that system.
+>      - Research Ops Plain Language: Supports the delivery of at least one release that directly addresses a documented user pain point within this product.
 
 </details>
 
@@ -160,11 +170,11 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1. **Learn where there are content comprehension issues within the eligibility questions and error messages options tested.**`
+`1. Learn where there are content comprehension issues within the eligibility questions and error messages options tested.`
 
-`2. **Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.**`
+`2. Discovery around two flows - one using a new VADS pattern and the other with a VADS pattern and API hybrid approach - to determine usabilty and user preference for both.`
 
-`3. **Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.**`
+`3. Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.`
 
 
   
@@ -209,11 +219,11 @@ Are there moments that matter?</summary>
 
 ---
 
-**We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.** 
+**We assume that both Veterans and their family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.** 
 
-**We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and family members.**
+**We assume that the VADS pattern will add clarity to the eligibility of CHAMPVA benefits and will be recieved positively by both Veterans and their family members.**
 
-**The changes in the flow and the signer information section will be easy for Veterans and family mbmers to follow with less confusion than previous studies.**
+**The changes in the flow and the signer information section will be easy for Veterans and their family mbmers to follow with less confusion than previous studies.**
 
 
 ---
@@ -234,9 +244,6 @@ Are there moments that matter?</summary>
       
 
 ## Research materials 📔
-
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
 **For moderated usability tests:** 
 - [Link to conversation guide - BlueberryFirst](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2026-01-Tricare%20Eligibility%20Usability%20Research/convo_guide_BlueberryFirst.md)
@@ -286,7 +293,7 @@ We will split this study into two cohorts:
 
 **Cohort 1 must:**
 - Be a Veteran with a service-connected disability rating of 100%
-- Have a spouse and/or dependent children
+- Have a spouse and/or dependent children who are **not** currently enrolled in the CHAMPVA program
 
 **Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
 1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
@@ -307,6 +314,7 @@ _Response options: YES, NO, UNSURE_
 
 **Cohort 2 must:**
 - Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
+- Are not currently enrolled in CHAMPVA
 
 **Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service-connected disability):**
 1. Please select the answer that best fits you:
@@ -334,8 +342,6 @@ _Response options: YES, NO, UNSURE_
 
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
@@ -348,11 +354,6 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 - **01/30, Friday, 12:00pm-5:00pm ET**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[TBD]**
 - `Date and time of pilot session:` **[TBD]** 
@@ -368,10 +369,6 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 - `Maximum Sessions per day:` **[3]**
 
 ### Availability
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[02/09, Monday, 11:00 AM- 06:00 PM] EST`
 - `[02/10, Tuesday, 11:00 AM- 06:00 PM] EST`
