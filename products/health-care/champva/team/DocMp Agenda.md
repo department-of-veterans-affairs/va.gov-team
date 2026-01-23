@@ -15,16 +15,13 @@ Here’s a **clean, GitHub-ready Markdown version** with consistent spacing, hea
 ### Staging & Production Bug Testing
 
 * Discussed **staging testing** for recent changes to **email alerts for missing statuses**.
-* **Steve** is responsible for:
+* **Steve** was responsible for:
 
-  * Testing changes **tonight after hours**
-  * Re-verifying results **tomorrow morning**
+  * Testing changes **tonight after hours** on Tuesday, Jan 20th
+  * Re-verifying results **the next morning**
+  * Verified the job is working until handoff to VA Notify.  A new ticket is being created to investigate.
 * **Production testing** for the existing production bug remains scheduled **prior to 5:00 p.m. ET today**.
-* After-hours staging testing **does not impact the ability to release** the production fix.
 
-**Action Item**
-
-* Steve to complete staging testing and confirm results in the morning.
 
 ---
 
