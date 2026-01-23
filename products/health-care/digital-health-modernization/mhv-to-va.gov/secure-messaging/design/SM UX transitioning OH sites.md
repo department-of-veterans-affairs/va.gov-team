@@ -25,17 +25,18 @@ Here's what users will and won't be able to do during the transition:
 
 **What users can do during transition**
 - Review past messages
-- Any action with messages not from MI transition site care teams
+- Any action with messages not from MI transition site care teams, besides actions with their folders
 
 **What users can't do during transition**
 - Send new messages to care teams at transitioning sites
 - Reply to messages from care teams at transitioning sites
-- Move message
 - Save draft
+- Delete draft (pending)
+- Move message
 - Create folder (VA.gov only)
-- Edit preferred care team list (VA.gov only)
 - Delete folder (VA.gov only
 - Edit folder (VA.gov only)
+- Edit preferred care team list (VA.gov only)
 - Delete thread (VA.gov only)
 - Move thread (VA.gov only)
 
