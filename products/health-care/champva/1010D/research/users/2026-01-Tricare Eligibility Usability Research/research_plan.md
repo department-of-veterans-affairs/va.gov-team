@@ -103,7 +103,7 @@ tags:
 ---
 
 
-# Research Plan for [Health Applications, 10-10d CHAMPVA Application, December 2025/January 2026]
+# Research Plan for [Health Applications, 10-10d CHAMPVA Application, January 2026]
 
 
 ## Background 🏗️
