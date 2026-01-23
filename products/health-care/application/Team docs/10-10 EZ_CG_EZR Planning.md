@@ -6,6 +6,8 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- [ ] EZR Update File Upload page logic
+- [ ] EZ Update Intro Page alerts on "pending" statuses
 - [ ] EZ Tech discovery on additional form statuses on MyVA
 - [ ] EZ Display submission statuses on MyVA
 
