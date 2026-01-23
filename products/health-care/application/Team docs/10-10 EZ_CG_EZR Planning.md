@@ -6,16 +6,15 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] 
+- [ ] EZ Tech discovery on additional form statuses on MyVA
+- [ ] EZ Display submission statuses on MyVA
 
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] 
-
-#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- [ ] 
+- [ ] **SPRINT GOAL** #123471 - [FE] Update Logic for File Upload page
+- [ ] **SPRINT GOAL** #114031 - [FE] Update content on File Upload page
 
 #### Obj: EZR [ECNOK on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
 - [ ] 
@@ -23,7 +22,10 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [ ] 
+- [ ] **SPRINT GOAL** [#130693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130693) - [FE] Update Intro page alert for "PendingMT"
+- [ ] **SPRINT GOAL** [#130694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130694) - [FE] Update Intro page alert for "PendingOther"
+- [ ] **SPRINT GOAL** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on additional EZ form statuses on MyVA
+- [ ] **SPRINT GOAL** [#130010](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130010) - [FE] Display submission statuses on MyVA
 
 ## 
 ### 10-10CG
@@ -44,8 +46,6 @@
 - [ ] EZR Service History add checkbox page
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
-- [ ] EZ Tech discovery on additional form statuses on MyVA
-- [ ] EZ Display submission statuses on MyVA
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
@@ -64,8 +64,7 @@
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - [ ] **SPRINT GOAL** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
-- [ ] **SPRINT GOAL** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on additional EZ form statuses on MyVA
-- [ ] **Stretch** [#130010](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130010) - [FE] Display submission statuses on MyVA
+
 
 ## 
 ### 10-10CG
