@@ -54,6 +54,7 @@ These aren't to be used as any kind of a source of truth. They are noted here fo
 * Start scheduling button: https://www.figma.com/design/YM0gpIYQTFSbP9i22iLbc3/Start-Scheduling-Button-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
 * Compensation and pension summary: https://www.figma.com/design/vWVOa8QYsHKenbdHGPIZRm/Compensation---Pension-Summary-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
 * Card component: https://www.figma.com/design/w8pKEidgRzyHl9LolaZM3z/Component--Card-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
+* (Paused) Pre-check-in: https://www.figma.com/design/EqA0zouiQYfXPNma4jV1CR/VAHB-Mobile-App-%7C-PCI?node-id=4-17&t=pXViiQuPXufYyqmp-1
 
 
 
