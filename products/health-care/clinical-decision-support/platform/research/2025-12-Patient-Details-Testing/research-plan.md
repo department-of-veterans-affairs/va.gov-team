@@ -174,25 +174,9 @@ Provide a link to any materials you need to run your study, including any materi
 *Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
 `Audience:`
-- 'Primary Care Physicians'
-- 'Familiar with the CDS Console, has used OH (ideal)'
-- 'Potentially a few ‘super users,’ familiarity with CDS tools'
-- 'User who uses Task Manager'
-- 'User who uses Med calc'
-- 'User who uses My Workweek'
-- 'Someone from AiScribe pilot and uses Console'
-- 'Behavioral Health'
-- 'Outpatient Surgical'
+- `Clinicians`
 
-**`1.`CDSC Research Participant Database:** The CDSC research participant database is available to CDSC HCD Practictioners. If you are not part of this group, ask the OCTO CDSC VA Lead to assist with recruitment. 
-
-**`2.`SSS Clinician Office Hours:** SSS hosts a weekly office hours for clinicians and other VHA staff. If you have an upcoming study, consider attending office hours to share about your study and see if any folks are interested or could connect you with someone.
-
-**`3.`Application Support and Feedback:** SSS manages initial platform and app team support for CDS. Review support and feedback queries that come in and see who submitted the feedback and if they might match your study criteria. For example, a physician who requested a new calculator or had trouble with autopopulation may be interested in reviewing new designs.
-
-**`4.`Snowball:** Ask your prior participants if they can share your name and email or the sign-up form with their colleauges to find new participants.
-
-**`5.`Product SME:** Ask your product SME if they have other contacts you can engage with. 
+**`1.`CDSC Research Participant Database** 
 
 ### Recruitment criteria
 
