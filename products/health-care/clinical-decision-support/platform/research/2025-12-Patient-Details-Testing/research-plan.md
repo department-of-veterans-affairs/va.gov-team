@@ -73,19 +73,16 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **Patient Details 1.0 & Enhancements - Evaluate the value of Patient Details 1.0 feature value and identify needed enhancements**
 
-`2.` **[Enter answer here]**
-
-`3.` **[Enter answer here]** 
+`2.` **App Widgets and OH Workflows - Validate the usefulness of App Widget task flows within the Console (from playground). Example flows to test: TM Widget, MWW Widget, Medical Calculators Widget** 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+`How will this research advance your product to the next phase in the design process? What will you do with your learnings? - `
 
 ---
 
-**[Enter outcome here]** 
-
+**Insights will identify where the feature meets clinician needs, where friction persists, and what opportunities exist to evolve Patient Details on the Console. This evidence will guide prioritization of enhancements and inform the roadmap for future iterations.**
 ---
 
 ### Research questions
@@ -98,15 +95,17 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
   
 `Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+**`1.'How do clinicians perceive the value of accessing Patient Details through the CDS Console compared to their current workflows (within Vista CPRS or Oracle Health)?**
 
-**`2.`[Enter Q2]**
+**`2.`What usability challenges and friction points emerge when clinicians use Patient Details 1.0 within the Console?**
 
-**`3.`[Enter Q3]**
+**`3.`Which enhancements to Patient Details 1.0 would most meaningfully improve the clinician experience and task completion?** 
 
-**`4.`[Enter Q4]**
+**`4.`In what ways does the Console as an entry point/home for Clinical Decision Support influence clinician efficiency, decision-making, and overall workflow integration?**
 
-**`5.`[Enter Q5]**
+**`5.`Based on foundational insights gathered from previous user testing of the CDS Console, how are clinician experiences and workflows influenced when the Console is accessed within Oracle Health compared with Vista CPRS?**
+
+**`6.`How do clinicians evaluate the usefulness and viability of the app widget concepts (task flows), and which use cases provide the greatest value? What additional information is needed to support their workflow? What information is not valuable?**
 
 > [!TIP]
 >Enter more questions as needed
@@ -127,25 +126,24 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 
 ---
 
-**[Enter hypotheses here]** 
+**Primary Hypothesis (Patient Details 1.0):
+If clinicians can reliably access Patient Details through the CDS Console (across both Vista CPRS and Oracle Health), including provider workflows within Oracle Health. Usability testing will surface friction points that, once addressed, will increase adoption and reinforce the Console as the central entry point and “home” for Clinical Decision Support.** 
+
+**Secondary Hypothesis (App Widgets):
+When a user accesses Patient Details within the Console, then clinicians will find higher value in ‘at a glance’ app widgets that properly guide them to relevant Clinical Decision Support applications/tools, such as Medical Calculators, My Workweek, and Task Manager. Research will clarify which 'top tasks' and information align with clinician priorities and identify which task flows and CDS content/data should be prioritized for the future Platform roadmap.**
+
+**Workflow Integration Hypothesis
+If Patient Details in the CDS Console delivers a consistent and streamlined experience across both Oracle Health and Vista CPRS, then clinicians will experience lower cognitive load and perceive greater value in using the Console. This consistency will support smoother provider workflows, improve efficiency, and reinforce the Console’s role as the unifying entry point/"home" for Clinical Decision Support.**
 
 ---
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
-
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
-
 </details>
 
-**[Enter methodology here]**
+**Moderated remote 1-1 interviews w/ Clinicians**
+**Usability testing with Figma prototype**
+**Prod review (1.0 patient details)**
 
 <details><summary>Additional resources</summary> 
 	
