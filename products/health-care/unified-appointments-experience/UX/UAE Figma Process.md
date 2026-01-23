@@ -23,9 +23,9 @@ UAE UX documents all features that have been released to Production across all t
 | Tool                                                | Production Docs (Figma) | Production Docs (GitHub) |
 |-----------------------------------------------------|-------------------------|--------------------------|
 | Appointments - Manage and Schedule Portal           | [Feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) and [User flows](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) | [Feature reference ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference)|
-| Pre-check-in                                        | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?node-id=239-860&p=f&t=RGAK42wIUNHttF9D-0) | N/a |
-| Check-in                                            | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?node-id=0-1&t=RGAK42wIUNHttF9D-1) | N/a |
-| Travel Pay - LoROTA Standalone Travel Reimbursement (Day of) | N/a | N/a |
+| Pre-check-in                                        | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?node-id=239-860&p=f&t=RGAK42wIUNHttF9D-0) | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) |
+| Check-in                                            | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?node-id=0-1&t=RGAK42wIUNHttF9D-1) | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/README.md) |
+| Travel Pay - LoROTA Standalone Travel Reimbursement (Day of) | N/a | [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/product/oracle-health-travel-product-outline.md) |
 | Travel Pay - Complex Travel Reimbursement Claims (Past appts)    | [In Production](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=11985-65116) (page in main file) | N/a |
 | After-visit Summary                                 |  |  |
 
