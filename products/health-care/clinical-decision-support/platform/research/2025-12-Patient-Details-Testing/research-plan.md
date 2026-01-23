@@ -286,9 +286,7 @@ Liz Blasi
 - `Project point of contact:` **[Liz Blasi]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Homer Gaines]**	
 - `Note-takers:` **[Rosemary Rogers, Ruben Sun, Ayangbe Mannen, Natalie Hill, Alyssa Li]** 	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 3 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.` Share the Notetaker and Silent Observer guide in advance to the other people observing the sessions.
-
-- **[None]**
+- `Observers: **[None]**
 
 ### Notetaker and Silent Obeserver Guide
 - Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
