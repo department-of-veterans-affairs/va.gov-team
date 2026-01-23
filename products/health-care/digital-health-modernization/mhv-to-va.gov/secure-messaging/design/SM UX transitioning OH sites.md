@@ -46,6 +46,7 @@ The following describes each task experience in greater detail.
 |VA.gov or VAHB mobile app|Task|Description|
 |---|---|---|
 |VA.gov|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox page**<br>- User does not have "Start a new message" action link|
+|VA.govHomepage|Send new message|- User clicks "start a new message" and is redirected to **inbox page**, where they have the error alert message "You can't use messages to contact providers at some facilities right now"|
 |VAHB mobile app|Send new message|- User has error alert message "You can't use messages to contact providers at some facilities right now" on **inbox and Start new message screen**<br>- User won't have any care systems/teams to select<br>- User has inline error messages when selecting "Send" button because they can't complete all required fields|
 |VA.gov|Reply to message|- User has yellow alert "You can't send messages to some of your care teams" on **message details page**<br>- User does not have "Reply" button|
 |VAHB mobile app|Reply to message|- User has yellow alert "You can't send messages to some of your care teams" on **message details screen**<br>- User has "Start a new message" button instead|
