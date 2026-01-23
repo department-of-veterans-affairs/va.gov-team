@@ -6,16 +6,19 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Update File Upload page logic
-- [ ] EZ Update Intro Page alerts on "pending" statuses
-- [ ] EZ Tech discovery on additional form statuses on MyVA
-- [ ] EZ Display submission statuses on MyVA
+- [ ] EZR Service History
+     - [ ] Update file upload page logic & content
+- [ ] EZ Form status
+     - [ ] EZ Update Intro Page alerts on "pending" statuses
+     - [ ] EZ Tech discovery on additional form statuses on MyVA
+     - [ ] EZ Display submission statuses on MyVA
 
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-
+- [ ] **SPRINT GOAL** #123471 - [FE] Update Logic for File Upload page
+- [ ] **SPRINT GOAL** #114031 - [FE] Update content on File Upload page
 
 #### Obj: EZR [ECNOK on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
 - [ ] 
@@ -44,18 +47,15 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- [ ] EZR Service History
-     - [ ] Update file upload page logic & content
+
 - [ ] EZR Update Source of Truth designs for Household sections
-- [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **SPRINT GOAL** #123471 - [FE] Update Logic for File Upload page
-- [ ] **SPRINT GOAL** #114031 - [FE] Update content on File Upload page
+- [ ] **SPRINT GOAL** [#130846](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130846) - [FE] Connect to pull in service history for display
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121080](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121080) - [UX] Update EZR SOT for Household sections
@@ -66,7 +66,7 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [ ] **SPRINT GOAL** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
+- [ ] 
 
 
 ## 
@@ -100,6 +100,7 @@
      - [ ] Investigate schema validation errors (Ins info missing in array builder)
 - [x] CG Bug
      - [x] Investigate & Fix 400 facilities errors
+- [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 
 ## 
 ### 10-10EZR
@@ -124,6 +125,9 @@
 ### 10-10EZ
 #### Obj: [EZ Multi-Form MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - [ ] **SPRINT GOAL** [#129233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129233) - [UX] Explore new VADS pattern on multiple related forms
+
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- [ ] **STRETCH** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
 
 ## 
 ### 10-10CG
