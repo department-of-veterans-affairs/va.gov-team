@@ -94,7 +94,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 
 ## First Task: [Navigation to Console] - 1 minute
 
-- [X] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
+- [ ] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
 - [ ] What are your initial impressions of the homepage (CDS applications)?
 - [ ] What applications do you use the most?
 
@@ -158,7 +158,7 @@ For the purposes of this exercise, we're curious about how we might enhance the 
 > - What's useful?
 
 ## Prototype Intro - Moderator Controls:
-Next we’re going to look at a prototype of the [insert thing]. There are a few things I’d like you to keep in mind: 
+Next we’re going to look at a prototype of the [Patient Details prototype: https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=j234c9DpcmmY6BhP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966]. There are a few things I’d like you to keep in mind: 
 
 - I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
 - This is a prototype and not the real application. [Non-coded interactive prototype: It closely matches the real application, but some things may not work as expected.] You may see placeholder information that doesn't match your own situation exactly and that's ok.
