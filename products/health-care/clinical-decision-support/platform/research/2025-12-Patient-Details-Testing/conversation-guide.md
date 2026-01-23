@@ -85,7 +85,7 @@ Before we start, I have a few things that I want to go over with you:
  <mark>**[Record answer here]**</mark>
  
 
-# Warm-up Questions (Optional)
+# Warm-up Questions
 
 First, I’d like you to walk through the Console as you normally would today.
 [For those that do not open the Console directly] What is your typical workflow/entry point to CDS Applications and/or the Console? 
