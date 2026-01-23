@@ -93,12 +93,12 @@
 - [x] CG Restrict facilities parameters
 
 ### Additional work completed
-- [x] EZR Service history
+- EZR Service history
      - [x] EZR Service History add checkbox page
      - [x] EZR Service History add yes/no question page (UI only)
-- [ ] EZR Bug
+- EZR Bug
      - [ ] Investigate schema validation errors (Ins info missing in array builder)
-- [x] CG Bug
+- CG Bug
      - [x] Investigate & Fix 400 facilities errors
 - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
 
