@@ -2,7 +2,7 @@
 
 This research looks at **where Veterans share feedback** **and** **what** **themes** are emerging. Based on what we find, we can evaluate how we may use this sentiment to inform our user satisfaction metrics.
 
-[Link to Github ticket](https://github.com/department-of-veterans-affairs/identity-documentation/issues/769) (with notes from Wed discussion).
+[Link to Github ticket](https://github.com/department-of-veterans-affairs/identity-documentation/issues/769) (with notes from team discussion).
 
 **Hypothesis:** there are viable public online forums where Veterans share insights about their pain points and workarounds, which can be used to gather insights to inform our user satisfaction metrics. This is based on previous research studies where we've heard caregivers and Veterans describe using online forums (like Facebook) to look for and share resources and information.
 
