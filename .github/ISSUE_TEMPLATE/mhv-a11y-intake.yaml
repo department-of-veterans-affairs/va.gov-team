@@ -15,7 +15,7 @@ type: epic
 body:
   - type: markdown
     attributes:
-      value: # MHV Accessibility Intake Ticket
+      value: "# MHV Accessibility Intake Ticket"
   - type: markdown
     attributes:
       value: >
@@ -95,12 +95,12 @@ body:
   - type: checkboxes
     id: general
     attributes:
-      - label: General Support
-        options:
-          - label: Issue review — Review tickets or other reports of accessibility issues
-              and provide guidance on how to address issues.
-          - label: Consulting — Provide general guidance and training on accessibility
-              topics.
+      label: General Support
+      options:
+        - label: Issue review — Review tickets or other reports of accessibility issues
+            and provide guidance on how to address issues.
+        - label: Consulting — Provide general guidance and training on accessibility
+            topics.
   - type: textarea
     id: related
     attributes:
