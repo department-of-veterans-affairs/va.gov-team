@@ -16,21 +16,26 @@ Development was done behind a feature flag, following the [best practices for cr
 
 ## Step 2: Validation
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
+Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day.
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Testing of all permutations of the feature flags. Confirm no regression in the send_email endpoint as well as correct push notifications sent.
-- [ ] Confirm that logging has not changed and that existing Dashboards are working
-- [ ] Implement dashboard or add to existing dashboard to track push notifications
+- [x] Testing of all permutations of the feature flags. Confirm no regression in the send_email endpoint as well as correct push notifications sent. Test results documented in [#122588](https://github.com/department-of-veterans-affairs/va.gov-team/issues/122588)
+- [x] Confirm that logging has not changed and that existing Dashboards are working
+- [x] Implement dashboard or add to existing dashboard to track push notifications
 - [ ] Previously the eventbus-gateway sign-on token was scoped only to the `send_email` endpoint.  Confirm that the identity team has updated the config in production to accept both the `send_email` and `send_notifications` endpoints
 - [ ] Similar to above the eventbus-gateway vsp-infra-application-manifests configuration for `tokenScope` must be updated to accept both `send_email` and `send_notifications`
-- [ ] Confirm that VANotify has, in production, created the preferences for "Benefits Claims and Decision Reviews" 
+- [ ] Confirm that VANotify has, in production, created the preferences for "Benefits Claims and Decision Reviews"
 - [ ] Confirm that VANotify has populated the preference retroactively to all users
-- [ ] Confirm the Mobile App team has completed any desired testing
+- [ ] Confirm "What's new" content has been published (Planned for release 2/10)
+- [ ] Testing of progressive rollout of "What's new" and preference is complete
+- [x] Confirm the Mobile App team has completed any desired testing
+- [x] Confirm the Mobile App team has deployed their analytics update (Planned for release on 1/13/26)
+- [ ] Confirm VetText has completed a production deployment of push template (Planned for release on 1/19/26)
+- [x] Gather details for single user test
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+    - [ ] review the plan with your DEPO/OCTO representative.
+    - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 
@@ -40,7 +45,7 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Planning
 
-- Desired date range or test duration: TBD
+- Desired date range or test duration: February 11, 2026
 - Desired number of users: 1
 - How you'll recruit the right production test users: Liana Fleming has identified a veteran who is willing to assist.
 - How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with the recruit's participant ID.
@@ -59,12 +64,14 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Rollout Planning
 
-- Desired date range: TBD
-- How will you make the product available in production while limiting the number of users who can find/access it: By using the feature flag `event_bus_gateway_letter_ready_push_notifications` and the `enable_percentage_of_actors` feature to enable it for a percentages of users by icn. 
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: TBD - we are still analyzing success metrics
-  - [ ] DataDog error rate below 5%
-  - [ ] Click through rate above xx%
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
+- Desired date range: February 11, 2026 - February 25, 2026
+- How will you make the product available in production while limiting the number of users who can find/access it: By using the feature flag `event_bus_gateway_letter_ready_push_notifications` and the `enable_percentage_of_actors` feature to enable it for a percentages of users by icn.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?
+    - [ ] DataDog error rate below 5%
+    - [ ] Click through rate above xx%
+- Links to the dashboard(s) showing "success criteria" metrics:
+    - [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/wvx-g6k-u6c/bmt---eventbus-gateway-cloned?fromUser=false&refresh_mode=sliding&from_ts=1766512554238&to_ts=1767117354238&live=true)
+    - [Google Analytics Report](https://analytics.google.com/analytics/web/?authuser=2#/analysis/a50123418p265787033/edit/eiPeenxHRBqHVePhF1M3ow?restoreUserState=true)
 - Who is monitoring the dashboard(s)?: BMT3 (Liana Fleming)
 
 
@@ -95,7 +102,7 @@ We will be performing a progressive rollout to be able to minimize the productio
 #### Planning
 
 - Length of time: 8 hours (one day)
-- Percentage of Users (and roughly how many users do you expect this to be): 25% of Kafka messages
+- Percentage of Users (and roughly how many users do you expect this to be): 25% of ICNs
 
 #### Results
 
@@ -126,7 +133,7 @@ We will be performing a progressive rollout to be able to minimize the productio
     - [ ] xx.x% click through rate overall
     - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: ___
-- Types of errors logged: 
+- Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage D: 75% of users
@@ -146,7 +153,7 @@ We will be performing a progressive rollout to be able to minimize the productio
     - [ ] xx.x% click through rate overall
     - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: __
-- Types of errors logged: 
+- Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? ___
 
 ### Stage E: 100% of users
@@ -158,14 +165,14 @@ We will be performing a progressive rollout to be able to minimize the productio
 
 #### Results
 
-- Number of unique users: 
+- Number of unique users:
 - Metrics at this stage (per your "success criteria"):
     - [ ] DataDog errors < 5%
     - [ ] xx.x% click through rate overall
     - [ ] No increase in email sending errors
 - Was any downstream service affected by the change?: ___
-- Types of errors logged: 
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? 
+- Types of errors logged:
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
 
 ### Rollback process
 
