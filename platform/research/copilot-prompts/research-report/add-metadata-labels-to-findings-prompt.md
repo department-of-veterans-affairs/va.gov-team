@@ -166,7 +166,7 @@ pattern_triggers:
 
 ## Adding Labels to Your Findings Report
 
-After reviewing Copilot's suggestions, add the YAML label blocks directly after each Key Finding in your report:
+After reviewing Copilot's suggestions, add the YAML label blocks directly after each Detail of Finding in your report:
 
 ```markdown
 ### Finding 1: Veterans struggle to find the correct form for their disability claim type
