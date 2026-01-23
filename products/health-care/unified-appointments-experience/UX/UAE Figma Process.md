@@ -18,9 +18,9 @@ UAE builds out screens and workflows in various files in the [UAE project space]
 | Tool                 | Production Docs (Figma) | Production Docs (GitHub) |
 |----------------------|-------------------------|--------------------------|
 | Appointments         | [Feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) and [User flows](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) |  |
-| Travel Pay           |  |
-| Check-in             |  |
-| After-visit summary  |  |
+| Travel Pay           |  | |
+| Check-in             | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?m=auto&t=GlduBp3bgdYc89hv-6) | |
+| After-visit summary  |  | |
 
 
 ## Working files
