@@ -5,7 +5,7 @@ title: "[MHV [Product] / Accessibility] [service type] [brief description]"
 labels:
   - accessibility
   - mhv-accessibility
-  - mhv-acccessibility-intake
+  - mhv-accessibility-intake
 assignees:
   - steveg-IAT
   - sarahhortonadhoc
@@ -15,13 +15,12 @@ type: epic
 body:
   - type: markdown
     attributes:
-      value: "# MHV Accessibility Intake Ticket"
+      value: # MHV Accessibility Intake Ticket
   - type: markdown
     attributes:
       value: >
         > [!TIP] > Use the following format for the ticket title — [MHV [Product
-        > Appts | MR | Meds | SM | Portal] / Accessibility] [service type]
-        [brief description]
+        > Appts | MR | Meds | SM | Portal] / Accessibility] [service type] [brief description]
   - type: markdown
     attributes:
       value: |
