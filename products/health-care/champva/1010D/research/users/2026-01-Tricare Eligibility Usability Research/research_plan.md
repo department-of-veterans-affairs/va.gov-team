@@ -373,19 +373,22 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[02/09, Monday, 11:00 AM- 06:00 PM] EST`
+- `[02/10, Tuesday, 11:00 AM- 06:00 PM] EST`
+- `[02/11, Wednesday, 11:00 AM- 06:00 PM] EST`
+- `[02/12, Thursday, 11:00 AM- 06:00 PM] EST`
+- `[02/13, Friday, 11:00 AM- 06:00 PM] EST`
+- `[02/17, Tuesday 11:00 AM- 06:00 PM] EST`
+- `[02/18, Wednesday, 11:00 AM- 06:00 PM] EST`
+- `[02/19, Thursday, 11:00 AM- 06:00 PM] EST`
+- `[02/20, Friday, 11:00 AM- 06:00 PM] EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 - `Moderator:` **[Health Apps UX Team - Renata K, Jessica S, Hieu V]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Jessica S]**		
+- `Research guide writing and task development (usually but not always same as moderator):` **[Hieu V, Jessica S]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
-- `Project point of contact:` **[Enter full name]**		
+- `Project point of contact:` **[Hieu V]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Not needed for this study, interview methodology with Figma prototype]**	
 - `Note-takers:` **[Health Apps UX Team]** ***or*** **[Designate Perigean]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
