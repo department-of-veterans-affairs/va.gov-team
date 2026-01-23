@@ -126,14 +126,14 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 
 ---
 
-**Primary Hypothesis (Patient Details 1.0):
-If clinicians can reliably access Patient Details through the CDS Console (across both Vista CPRS and Oracle Health), including provider workflows within Oracle Health. Usability testing will surface friction points that, once addressed, will increase adoption and reinforce the Console as the central entry point and “home” for Clinical Decision Support.** 
+**Primary Hypothesis (Patient Details 1.0)**
+- If clinicians can reliably access Patient Details through the CDS Console (across both Vista CPRS and Oracle Health), including provider workflows within Oracle Health. Usability testing will surface friction points that, once addressed, will increase adoption and reinforce the Console as the central entry point and “home” for Clinical Decision Support.
 
-**Secondary Hypothesis (App Widgets):
-When a user accesses Patient Details within the Console, then clinicians will find higher value in ‘at a glance’ app widgets that properly guide them to relevant Clinical Decision Support applications/tools, such as Medical Calculators, My Workweek, and Task Manager. Research will clarify which 'top tasks' and information align with clinician priorities and identify which task flows and CDS content/data should be prioritized for the future Platform roadmap.**
+**Secondary Hypothesis (App Widgets)**
+- When a user accesses Patient Details within the Console, then clinicians will find higher value in ‘at a glance’ app widgets that properly guide them to relevant Clinical Decision Support applications/tools, such as Medical Calculators, My Workweek, and Task Manager. Research will clarify which 'top tasks' and information align with clinician priorities and identify which task flows and CDS content/data should be prioritized for the future Platform roadmap.
 
-**Workflow Integration Hypothesis
-If Patient Details in the CDS Console delivers a consistent and streamlined experience across both Oracle Health and Vista CPRS, then clinicians will experience lower cognitive load and perceive greater value in using the Console. This consistency will support smoother provider workflows, improve efficiency, and reinforce the Console’s role as the unifying entry point/"home" for Clinical Decision Support.**
+**Workflow Integration Hypothesis**
+- If Patient Details in the CDS Console delivers a consistent and streamlined experience across both Oracle Health and Vista CPRS, then clinicians will experience lower cognitive load and perceive greater value in using the Console. This consistency will support smoother provider workflows, improve efficiency, and reinforce the Console’s role as the unifying entry point/"home" for Clinical Decision Support.
 
 ---
   
@@ -166,17 +166,11 @@ Provide a link to any materials you need to run your study, including any materi
 
 **For moderated interviews:** 
 	
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+- [Link to prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
 	
 ## Recruitment 🎯	
 *Recruitment for CDSC research is done by the researcher. Account for recruitment in your planning and preparation time. Ideally outreach begins 2-4 weeks ahead of targeted testing dates*
@@ -185,7 +179,18 @@ Provide a link to any materials you need to run your study, including any materi
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
-`Audience:` [enter user group here]
+`Audience:` [    * Primary Care Physicians
+    * Familiar with the CDS Console, has used OH (ideal)
+    * Potentially a few ‘super users,’ familiarity with CDS tools
+    * User who uses Task Manager
+    * User who uses Med calc
+    * User who uses My Workweek
+    * Someone from AiScribe pilot and uses Console
+    * Specialties
+        * Behavioral Health
+        * Outpatient Surgical
+
+]
 
 **`1.`CDSC Research Participant Database:** The CDSC research participant database is available to CDSC HCD Practictioners. If you are not part of this group, ask the OCTO CDSC VA Lead to assist with recruitment. 
 
@@ -209,27 +214,29 @@ Provide a link to any materials you need to run your study, including any materi
 > [!NOTE]
 > Your total number should equal **2x** your ideal completed sessions number *(e.g. for 6 ideal completed sessions, plan to email at least 12 participants)*
 
-- `Clinicians - CPRS:` **[n]**
-- `Clinicians - Oracle:` **[n]**
-- `VHA admin staff:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Clinicians - CPRS:` **[n=5]**
+- `Clinicians - Oracle:` **[n=3]**
+- `VHA admin staff:` **[n=0]**
+- `Total:` **[n=8]**
+- `Ideal completed sessions:` **[n=4]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study. For example, is it important to capture both inpatient and outpatient care settings? Or are you looking for a certain specialty or role such as a nurse practitionaer or physician?* 
 
 - `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `Primary Care Physicians`
+- `Familiar with the CDS Console, has used OH (ideal)`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results? For example, getting a variety of FTE percentage (patient facing time) or providers who work float schedules. Secondary criteria could also be role types, specialty, etc depending on the priority for a given study * 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `Potentially a few ‘super users,’ familiarity with CDS tools'
+- `User who uses Task Manager'
+- `User who uses Med calc'
+- `User who uses My Workweek'
+- `Someone from AiScribe pilot and uses Console'
+- `Behavioral Health'
+- `Outpatient Surgical'
 
 ## Timeline 🗓️
 Consider recruitment lead time is often 2-4 weeks. 
@@ -249,19 +256,7 @@ If you are interested in participating, the following days and times are availab
 
 All times are in **Eastern** time:
 
-Week of September 15:
-
-- Friday, September 19: 9:30 – 11am
-  
-Week of September 22
-
-- Monday, September 22: 10 - 11:30am
-- Tuesday, September 23: 10-11am, 1-2pm
-- Wednesday, September 24: 12 - 1pm, 2 - 5pm
-- Thursday, September 25: 10 - 11am
-- Friday, September 26: 10 - 12pm, 2 - 4pm
-
-I hope we can connect soon. If you are not interested in participating in these types of sessions, that’s fine too! Please let me know so I can make note!
+- [Availability]
 
 Cheers,
 
@@ -273,18 +268,18 @@ Cheers,
 
 **A pilot session is strongly recommended. Find a partipant in the HDC CoP slack channel or your product team** 
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[Inpatient Behavioral Health Participant]**
+- `Date and time of pilot session:` **[November 10th, 2025]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **[Enter dates 11/10-12/02]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[1 hour]**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[30 min]**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[2 per day]**
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
@@ -294,17 +289,15 @@ Cheers,
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** 	
+- `Moderator:` **[Liz Blasi]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Liz Blasi]**		
+- `Participant recruiting & screening:`	**[Liz Blasi]**	
+- `Project point of contact:` **[Liz Blasi]**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Homer Gaines]**	
+- `Note-takers:` **[Rosemary Rogers, Ruben Sun, Ayangbe Mannen, Natalie Hill, Alyssa Li]** 	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 3 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.` Share the Notetaker and Silent Observer guide in advance to the other people observing the sessions.
 
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- **[None]**
 
 ### Notetaker and Silent Obeserver Guide
 - Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
@@ -321,5 +314,5 @@ Cheers,
 
 
 ## Approvals ✅
-- `Reviewed by [CDSC HCD Peer] or [CDSC VA HCD Lead] on [MM-DD-YYYY]`
+- `Reviewed by [Rosemary Rogers] and [Amanda Klausmeier] on [10-16-2025]`
 
