@@ -30,10 +30,9 @@ To visit the staged Medications refill page, navigate to:
 - [Prescriptions details](mobile-prescriptions-details.md)
 - [Refill request](mobile-refill-request.md)
 
-## API to EHR Map
+## Prescription Data Objects and EHR mapping
 
-[API to EHR Map](api-to-ehr-map.md)
-
+[API to EHR Map](api-data-objects.md)
 
 ## Resources
 
