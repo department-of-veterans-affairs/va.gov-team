@@ -1,12 +1,11 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "CDS Console Patient Details Research Findings"
+product: "CDS Console"
+team: "CDS Platform"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
 date: "YYYY-MM-DD"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Liz Blasi"
 research_goals:
   - "Goal 1"
   - "Goal 2"
