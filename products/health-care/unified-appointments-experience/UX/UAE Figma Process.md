@@ -25,8 +25,8 @@ UAE UX documents all features that have been released to Production across all t
 | Appointments - Manage and Schedule Portal           | [Feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) and [User flows](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?m=auto&t=iorEkC0rpCbZmJkQ-6) | [Feature reference ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/feature-reference)|
 | Pre-check-in                                        | N/a | N/a |
 | Check-in                                            | [Production](https://www.figma.com/design/sK2vIx6giAynNqUFR0l4Wx/Production-%7C-PCI?m=auto&t=GlduBp3bgdYc89hv-6) | N/a |
-| Travel Pay - Complex Travel Reimbursement Claims    | [In Production](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=11985-65116) (page in main file) | N/a |
-| Travel Pay - LoROTA Standalone Travel Reimbursement | N/a | N/a |
+| Travel Pay - LoROTA Standalone Travel Reimbursement (Day of) | N/a | N/a |
+| Travel Pay - Complex Travel Reimbursement Claims (Past appts)    | [In Production](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=11985-65116) (page in main file) | N/a |
 | After-visit Summary                                 |  |  |
 
 
@@ -39,8 +39,8 @@ UAE manages working files for work in progress. Each team has a file where they 
 | Appointments - Manage and Schedule Portal            | [Working file](https://www.figma.com/design/HnExAM5SGNXzUlv9yRS87t/Working-File-%7C-Appointments-FE?m=auto&t=GlduBp3bgdYc89hv-6) | 
 | Pre-check-in                                         | [Pre-check-in](https://www.figma.com/design/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-PCI?node-id=72-19372&t=O4FhRSLfJmpK83rt-1) |
 | Check-in                                             | [Check-in](https://www.figma.com/design/XYoHvDxgB2BpZIo2rrhFba/Check-in-%7C-PCI?node-id=3541-9132&t=jpkx1O6P10NHlaLs-1) |
-| Travel Pay - Complex Travel Reimbursement Claims     | [Designs in Progress](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=2135-3771) (and pages that follow) |
-| Travel Pay - LoROTA Standalone Travel Reimbursement  | [LoROTA standalone travel reimbursement](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=96-709&t=vLny2NLkxCnav45b-1) | 
+| Travel Pay - LoROTA Standalone Travel Reimbursement (Day of)  | [LoROTA standalone travel reimbursement](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=96-709&t=vLny2NLkxCnav45b-1) | 
+| Travel Pay - Complex Travel Reimbursement Claims (Past appts)    | [Designs in Progress](https://www.figma.com/design/EM3ejHDOgnxaeOVRw6xnpf/Complex-travel-reimbursement-claims?node-id=2135-3771) (and pages that follow) |
 | After-visit summary                                  |   |
 
 ## VAHB app resources
