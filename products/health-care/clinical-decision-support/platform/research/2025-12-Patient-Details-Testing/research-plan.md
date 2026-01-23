@@ -164,33 +164,28 @@ Currently, all clinical research for CDSC takes place remotely over MS Teams. We
 
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
-**For moderated interviews:** 
-	
+**For moderated usability test and interview:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+- [Link to CPRS prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
+- [Link to OH prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=F9qx2raNBZa13Q8M-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735)
 
-**For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
-- [Link to prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
 	
 ## Recruitment 🎯	
 *Recruitment for CDSC research is done by the researcher. Account for recruitment in your planning and preparation time. Ideally outreach begins 2-4 weeks ahead of targeted testing dates*
 
-
 ### Recruitment approach
 *Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
-`Audience:` [    * Primary Care Physicians
-    * Familiar with the CDS Console, has used OH (ideal)
-    * Potentially a few ‘super users,’ familiarity with CDS tools
-    * User who uses Task Manager
-    * User who uses Med calc
-    * User who uses My Workweek
-    * Someone from AiScribe pilot and uses Console
-    * Specialties
-        * Behavioral Health
-        * Outpatient Surgical
-
-]
+`Audience:`
+- 'Primary Care Physicians'
+- 'Familiar with the CDS Console, has used OH (ideal)'
+- 'Potentially a few ‘super users,’ familiarity with CDS tools'
+- 'User who uses Task Manager'
+- 'User who uses Med calc'
+- 'User who uses My Workweek'
+- 'Someone from AiScribe pilot and uses Console'
+- 'Behavioral Health'
+- 'Outpatient Surgical'
 
 **`1.`CDSC Research Participant Database:** The CDSC research participant database is available to CDSC HCD Practictioners. If you are not part of this group, ask the OCTO CDSC VA Lead to assist with recruitment. 
 
@@ -223,7 +218,6 @@ Provide a link to any materials you need to run your study, including any materi
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study. For example, is it important to capture both inpatient and outpatient care settings? Or are you looking for a certain specialty or role such as a nurse practitionaer or physician?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
 - `Primary Care Physicians`
 - `Familiar with the CDS Console, has used OH (ideal)`
 
@@ -260,7 +254,7 @@ All times are in **Eastern** time:
 
 Cheers,
 
-(researcher name)
+Liz Blasi
 
 
 ### Prepare
@@ -268,7 +262,7 @@ Cheers,
 
 **A pilot session is strongly recommended. Find a partipant in the HDC CoP slack channel or your product team** 
 
-- `Pilot participant name:` **[Inpatient Behavioral Health Participant]**
+- `Pilot participant name:` **[Inpatient Behavioral Health Participant - Name Redacted]**
 - `Date and time of pilot session:` **[November 10th, 2025]** 
 
 ### Research sessions
