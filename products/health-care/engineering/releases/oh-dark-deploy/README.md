@@ -16,7 +16,7 @@
 
 | project | toggle                                          | blockers              | notes |
 | ------- | ----------------------------------------------- | --------------------- | ----- |
-| Appt    | va_online_scheduling_NEW_TOGGLE                 |                       |       |
+| Appt    | va_online_scheduling_NEW_TOGGLE                 | Needs to be created   |       |
 | Appt    | va_online_scheduling_AVS                        |                       |       |
 | MR      | mhv_accelerated_delivery_allergies_enabled      | SCDF VistA Validation |       |
 | MR      | mhv_accelerated_delivery_labs_and_tests_enabled | SCDF VistA Validation |       |
