@@ -66,39 +66,30 @@ body:
     attributes:
       label: Evaluation Support
       options:
-        - label: Design review
-          description: Review design artifacts to identify accessibility issues and recommend solutions.
-        - label: Conformance testing
-          description: Perform an accessibility audit of a functional user flow to identify accessibility issues and recommend solutions.
-        - label: Accessibility artifact
-          description: Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
+        - label: Design review — Review design artifacts to identify accessibility issues and recommend solutions.
+        - label: Conformance testing — Perform an accessibility audit of a functional user flow to identify accessibility issues and recommend solutions.
+        - label: Accessibility artifact— Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
   - type: checkboxes
     id: research
     attributes:
       label: Research Support
       options:
-        - label: Planning
-          description: Review research artifacts, run through conversation guide, and recommend improvements.
-        - label: Observation
-          description: Participate in research sessions and provide observation notes and takeaways.
+        - label: Planning — Review research artifacts, run through conversation guide, and recommend improvements.
+        - label: Observation — Participate in research sessions and provide observation notes and takeaways.
   - type: checkboxes
     id: implementation
     attributes:
       label: Implementation Support
       options:
-      - label: Design
-        description: Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
-      - label: Engineering
-        description: Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
+      - label: Design — Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
+      - label: Engineering — Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
   - type: checkboxes
     id: general
     attributes:
       - label: General Support
         options:
-        - label: Issue review
-          description: Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
-        - label: Consulting
-          description: Provide general guidance and training on accessibility topics.
+        - label: Issue review — Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
+        - label: Consulting — Provide general guidance and training on accessibility topics.
   - type: textarea
     id: related
     attributes:
@@ -123,9 +114,6 @@ body:
     attributes:
       label: ✅ Next steps
       options:
-        - label: Add ticket labels
-          description: Add the product's project and labels.
-        - label: Save and submit
-          description: Save and submit this intake ticket.
-        - label: Share on Slack
-          description: Start a new thread and post a link to this ticket in the mhv-accessibility Slack channel
+        - label: Add ticket labels — Add the product's project and labels.
+        - label: Save and submit — Save and submit this intake ticket.
+        - label: Share on Slack — Start a new thread and post a link to this ticket in the mhv-accessibility Slack channel
