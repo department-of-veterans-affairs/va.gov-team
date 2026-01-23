@@ -4,7 +4,9 @@ This is  information architecture research for our internal team documentation h
 
 ## Overview
 
-This is a draft information architecture (IA) for an index page of all the components, applications, integrations, and services that the Identity team has previously shipped and currently maintains. These structures include items from the card sort exercise, and [additional items](https://docs.google.com/presentation/d/1LruSkaIexLVn5J0JhzzOIVhE3brUdGk1ifSeGGFmIJU/edit?slide=id.g3630939d32f_0_0#slide=id.g3630939d32f_0_0) team members called out as “missing” in open response questions.
+This is a draft information architecture (IA) for an index page of all the components, applications, integrations, and services that the Identity team has previously shipped and currently maintains. These structures include items from the card sort exercise, and additional items team members called out as “missing” in open response questions.
+
+[Link to full findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/2025-07%20team%20documentation%20IA/identity-team-documentation-index.pdf)
 
 A key finding is that our team supports platform-wide components **alongside** standalone services and strategic initiatives. These 3 structures present how we might evolve our current mental model of “frontend” and “backend” to clarify how we support the Veteran experience through everything we work on.
 
