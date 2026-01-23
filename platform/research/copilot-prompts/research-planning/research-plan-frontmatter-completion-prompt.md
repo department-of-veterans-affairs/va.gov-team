@@ -91,7 +91,7 @@ Use this prompt **when starting a new research plan** or **updating an existing 
 - **Be specific with tags:** Select all relevant tags from the taxonomy provided in the prompt.  More specific tags make your research more discoverable.
 - **Review the full taxonomy:** For comprehensive tagging, review the complete labels file at https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/.github/labels.yml
 - **Update dates:** Remember to update the `last_updated` field whenever you make significant changes to the plan.  
-- **Verify OCTO priorities:** Check the current [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) to ensure alignment.  
+- **Verify OCTO priorities:** Check the current [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO%20FY26%20goals%20supported.md) to ensure alignment.  
 - **Link previous research:** Including links to related previous studies helps build on existing knowledge.  
 - **Keep it current:** Update the frontmatter as your research plan evolves (methodology changes, dates shift, participant numbers adjust).
 - **Validate YAML syntax:** Improper indentation or formatting can break the YAML parsing.  Use a [YAML validator](https://www.yamllint.com/) if needed.  
