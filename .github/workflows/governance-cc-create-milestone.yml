@@ -1,0 +1,97 @@
+name: Governance collaboration cycle intake - create milestone
+
+on:
+  # issues:
+  #   types:
+  #     - opened
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+# TODO: add temp label to new issue template for testing/piloting
+
+jobs:
+  create-milestone:
+    name: Create collaboration cycle milestone
+    runs-on: ubuntu-latest
+    steps:
+
+    # if: |
+    #   github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.labels.*.name, 'collaboration-cycle-test')
+    # if: |
+    #   github.event_name == 'issues' && contains(github.event.issue.labels.*.name, 'collaboration-cycle-test')
+
+    # steps:
+      # - name: Checkout repository
+      #   uses: actions/checkout@v6
+
+      - name: Configure AWS Credentials with OIDC
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: us-gov-west-1
+          role-to-assume: ${{ vars.GOVERNANCE_AWS_ASSUME_ROLE }}
+          output-credentials: true
+
+      - name: Get GitHub bot token
+        uses: department-of-veterans-affairs/action-inject-ssm-secrets@latest
+        with:
+          ssm_parameter: /devops/VA_VFS_BOT_GITHUB_TOKEN
+          env_variable_name: VA_VFS_BOT_GITHUB_TOKEN
+
+      # - name: Setup Node
+      #   uses: actions/setup-node@v6
+      #   with:
+      #     node-version: "24"
+      #     cache: "yarn"
+
+      # - name: Install Node modules
+      #   run: yarn install --frozen-lockfile
+
+      # - name: Run script
+      #   run: node ./scripts/github-actions/gov-team/create-milestone.js
+      #   env:
+      #     GITHUB_TOKEN: ${{ env.VA_VFS_BOT_GITHUB_TOKEN }}
+
+#   slack-notify:
+#     runs-on: ubuntu-latest
+#     needs: add-reminder-comments
+#     if: always()
+
+#     steps:
+#       - name: Configure AWS Credentials with OIDC
+#         uses: aws-actions/configure-aws-credentials@v4
+#         with:
+#           aws-region: us-gov-west-1
+#           role-to-assume: ${{ vars.AWS_ASSUME_ROLE }}
+#           output-credentials: true
+
+#       - name: Get Slack bot token
+#         uses: department-of-veterans-affairs/action-inject-ssm-secrets@latest
+#         with:
+#           ssm_parameter: /devops/github_actions_slack_bot_user_token
+#           env_variable_name: SLACK_BOT_TOKEN
+
+#       - name: Notify Slack
+#         uses: slackapi/slack-github-action@v2.1.1
+#         env:
+#           SLACK_BOT_TOKEN: ${{ env.SLACK_BOT_TOKEN }}
+#         with:
+#           method: chat.postMessage
+#           token: ${{ env.SLACK_BOT_TOKEN }}
+#           payload: |
+#             {
+#               "channel": "C088E31CS6M",
+#               "text": "Staging review reminders script has ${{ needs.add-reminder-comments.result == 'success' && 'completed successfully' || 'failed' }}",
+#               "attachments": [{
+#                 "color": "${{ needs.add-reminder-comments.result == 'success' && '#36a64f' || '#ff0000' }}",
+#                 "blocks": [{
+#                   "type": "section",
+#                   "text": {
+#                     "type": "mrkdwn",
+#                     "text": "Staging review reminders script has ${{ needs.add-reminder-comments.result == 'success' && 'completed successfully. To view the results, view the workflow run, then navigate to *add-reminder-comments* > *Run staging review reminder script*.' || 'failed. See the workflow run for more details.' }}\n<${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}|View workflow run>"
+#                   }
+#                 }]
+#               }]
+#             }
