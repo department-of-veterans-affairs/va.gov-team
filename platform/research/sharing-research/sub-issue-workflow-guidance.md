@@ -28,7 +28,7 @@ This traceability helps:
 
 1. Conduct your study and complete synthesis
 2. Write your research findings report using the template
-3. Commit your findings report to the `va. gov-team` repository
+3. Commit your findings report to the `va.gov-team` repository
 4. Move your research issue in the Research Repository to "Completed" status
 
 ### Step 2: Generate Recommendation Issues with Copilot
@@ -48,8 +48,8 @@ After creating your recommendation issues, link them to your parent research iss
 
 1. Navigate to your research issue in the [Research Repository Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2)
 2. Open your research issue
-3. In the issue sidebar, find the **"Sub-issues"** section
-4. Click **"Add sub-issue"**
+3. In the issue body, find the **"Create sub-issues"** button at the lower left corner of the main body.
+4. Click the dropdown button  then click **"Add existing issue"**
 5. Search for or paste the URL of your recommendation issue
 6. Repeat for each recommendation issue
 
