@@ -274,7 +274,7 @@ The ‘Supplemental Claim info’ screen (which appeared after the user chose a 
 ### Finding 3: Veterans expect to provide contextual information and evidentiary support about their claim, and were confused about how to do that and why they were not able to.
 Telling their story and providing evidence are primary pillars of Veterans’ mental model around disability benefits. But the online 526 structure does not match that model.
 
-|<img width="1421" height="402" alt="Screenshot 2026-01-16 at 12 59 46" src="https://github.com/user-attachments/assets/bd47bc50-e4c9-49ce-8d80-8b1509236cbd" />|
+|<img width="1536" height="405" alt="Screenshot 2026-01-23 at 15 57 10" src="https://github.com/user-attachments/assets/567aeda9-cacc-4ff6-9c21-9025bc5d7d26" />|
 |---|
 
 #### Submitting evidence
