@@ -214,6 +214,14 @@ Complete all required checks and as many recommended checks as you can. If you c
   - [ ] Fail  
 
 ---
+### Pointer & motion
+#### Required
+- **Features don't require shaking or tilting the device (WEB-254)**  
+  Motion-activated features have alternative input methods and can be disabled.  
+  - [ ] Pass  
+  - [ ] Fail
+ 
+ ---
 
 ### Keyboard & focus
 #### Required
