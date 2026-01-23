@@ -60,8 +60,7 @@ The search results UI has been updated in the design system, and we wish to upda
 ## Launch dates
 - *Target Launch Date*
   - End of February, 2026
-- *Target Launch Date*
-  - TBD
+
 
 
 #### Communications
