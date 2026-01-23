@@ -47,15 +47,15 @@ UAE manages working files for work in progress. Each team has a file where they 
 
 These aren't to be used as any kind of a source of truth. They are noted here for awareness. In the future the UAE teams plan to integrate VAHB into our processes.
 
-* After-visit summary: https://www.figma.com/design/SdoBbUEa8FD1wRkmfupLlE/Mobile-App-After-visit-summary?node-id=2-173&p=f&t=tFj1YNNxARCrjb5g-0 
-* OH Scheduling: https://www.figma.com/design/Qgy0PqVuhVamsZZ4nQV2HT/Scheduling-Oracle-Health-Appointments-%7C-VA-Mobile?t=J7BE0dMpuoZLqtuX-0 
-* Appointments: https://www.figma.com/design/JQAoUBxvSWCzKvu2ifRRE7/Health-2.0---%F0%9F%9A%A2-Shipped---VA-Mobile?node-id=601-6458
-* Travel Pay Working: https://www.figma.com/design/ZIHY63cFlD7pFjqQLA5rFN/Travel-Pay-Working---VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6 
-* Date picker component: https://www.figma.com/design/VaLC9pjeLzBOhXe5VIj05f/Date-Picker-Component-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
-* Start scheduling button: https://www.figma.com/design/YM0gpIYQTFSbP9i22iLbc3/Start-Scheduling-Button-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
-* Compensation and pension summary: https://www.figma.com/design/vWVOa8QYsHKenbdHGPIZRm/Compensation---Pension-Summary-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
-* Card component: https://www.figma.com/design/w8pKEidgRzyHl9LolaZM3z/Component--Card-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6
-* (Paused) Pre-check-in: https://www.figma.com/design/EqA0zouiQYfXPNma4jV1CR/VAHB-Mobile-App-%7C-PCI?node-id=4-17&t=pXViiQuPXufYyqmp-1
+* [After-visit summary](https://www.figma.com/design/SdoBbUEa8FD1wRkmfupLlE/Mobile-App-After-visit-summary?node-id=2-173&p=f&t=tFj1YNNxARCrjb5g-0)
+* [OH Scheduling](https://www.figma.com/design/Qgy0PqVuhVamsZZ4nQV2HT/Scheduling-Oracle-Health-Appointments-%7C-VA-Mobile?t=J7BE0dMpuoZLqtuX-0)
+* [Appointments](https://www.figma.com/design/JQAoUBxvSWCzKvu2ifRRE7/Health-2.0---%F0%9F%9A%A2-Shipped---VA-Mobile?node-id=601-6458)
+* [Travel Pay Working](https://www.figma.com/design/ZIHY63cFlD7pFjqQLA5rFN/Travel-Pay-Working---VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6)
+* [Date picker component](https://www.figma.com/design/VaLC9pjeLzBOhXe5VIj05f/Date-Picker-Component-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6)
+* [Start scheduling button](https://www.figma.com/design/YM0gpIYQTFSbP9i22iLbc3/Start-Scheduling-Button-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6)
+* [Compensation and pension summary](https://www.figma.com/design/vWVOa8QYsHKenbdHGPIZRm/Compensation---Pension-Summary-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6)
+* [Card component](https://www.figma.com/design/w8pKEidgRzyHl9LolaZM3z/Component--Card-%7C-VA-Mobile?m=auto&t=srS5ygEKIVTPtJg4-6)
+* (Paused) [Pre-check-in](https://www.figma.com/design/EqA0zouiQYfXPNma4jV1CR/VAHB-Mobile-App-%7C-PCI?node-id=4-17&t=pXViiQuPXufYyqmp-1)
 
 
 
