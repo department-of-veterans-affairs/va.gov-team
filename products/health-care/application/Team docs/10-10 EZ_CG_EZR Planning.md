@@ -17,8 +17,8 @@
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **SPRINT GOAL** #123471 - [FE] Update Logic for File Upload page
-- [ ] **SPRINT GOAL** #114031 - [FE] Update content on File Upload page
+- [ ] **SPRINT GOAL** [#123471](https://github.com/department-of-veterans-affairs/va.gov-team/issues/123471) - [FE] Update Logic for File Upload page
+- [ ] **SPRINT GOAL** [#114031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114031) - [FE] Update content on File Upload page
 
 #### Obj: EZR [ECNOK on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/issues/120581)
 - [ ] 
