@@ -38,7 +38,7 @@ UAE manages working files for work in progress. Each team has a file with pages 
 |----------------------|-------------------------|
 | Appointments         | [Working file](https://www.figma.com/design/HnExAM5SGNXzUlv9yRS87t/Working-File-%7C-Appointments-FE?m=auto&t=GlduBp3bgdYc89hv-6) | 
 | Travel Pay           |  |
-| Check-in and Pre-check-in |  |
+| Check-in and Pre-check-in | [Check-in](https://www.figma.com/design/XYoHvDxgB2BpZIo2rrhFba/Check-in-%7C-PCI?node-id=3541-9132&t=jpkx1O6P10NHlaLs-1), [Pre-check-in](https://www.figma.com/design/mVg6S9xgiQpWbAOAvptQOZ/Pre-check-in-%7C-PCI?node-id=72-19372&t=O4FhRSLfJmpK83rt-1), [LoROTA standalone travel reimbursement](https://www.figma.com/design/pnR05o7NPJDS0KFUSQ0eE3/LoROTA-Travel-Reimbursement-%7C-PCI?node-id=96-709&t=vLny2NLkxCnav45b-1)  |
 | After-visit summary  |  |
 
 
