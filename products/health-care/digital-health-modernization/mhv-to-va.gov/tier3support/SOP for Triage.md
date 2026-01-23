@@ -13,7 +13,7 @@ The Unified Appointments Experience team has their own Production Support repres
 - This is the view for all [SNOW tickets](https://yourit.va.gov/now/nav/ui/classic/params/target/incident_list.do%3Fsysparm_nostack%3Dtrue%26sysparm_query%3Dassignment_groupLIKEMy%2520HealtheVet%2520(MHV)%2520Support%255Eactive%253Dtrue%255Estate!%253D6%255Estate!%253D7%26sysparm_first_row%3D1%26sysparm_view%3Ditil)
 
 ## VA.gov/VAHB (HRC Dynamics)
-[Triage SOP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/tier3support/HRCTriage.md)
+[Dynamics Triage SOP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/tier3support/HRCTriage.md)
 
 ## Staff/Clinician (ServiceNow)
-[Triage SOP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/tier3support/SNOWtriage.md)
+[SNOW Triage SOP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/tier3support/SNOWtriage.md)
