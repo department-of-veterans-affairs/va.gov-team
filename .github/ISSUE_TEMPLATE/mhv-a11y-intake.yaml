@@ -1,0 +1,129 @@
+---
+name: MHV Accessibility Intake Ticket
+description: Please use this form to request support from MHV Accessibility
+title: "[MHV [Product] / Accessibility] [service type] [brief description]"
+labels:
+  - accessibility
+  - mhv-accessibility
+  - mhv-acccessibility-intake
+assignees:
+  - steveg-IAT
+  - sarahhortonadhoc
+projects:
+  - department-of-veterans-affairs/1898
+type: epic
+body:
+  - type: markdown
+    attributes:
+      value: "# MHV Accessibility Intake Ticket"
+  - type: markdown
+    attributes:
+      value: >
+        > [!TIP]
+        > Use the following format for the ticket title — [MHV [Product > Appts | MR | Meds | SM | Portal] / Accessibility] [service type] [brief description]
+  - type: markdown
+    attributes:
+      value: |
+        ## Request Description
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Description
+      description: Provide a short summary of what support is needed.
+  - type: textarea
+    id: background
+    attributes:
+      label: 📝 Background and context
+      description: Describe the background and context for the work.
+  
+  - type: markdown
+    attributes:
+      value: |
+        ## Request Details
+  - type: input
+    id: contact
+    attributes:
+      label: ✋ Point of contact
+      description: Provide the name and username of the person who will be coordinating the work.
+    validations:
+      required: true
+  - type: input
+    id: product
+    attributes:
+      label: 🛠️ Product
+      description: Provide the name of the MHV product. Be sure to add the product's project and labels to ticket.
+  - type: input
+    id: slack
+    attributes:
+      label: 🗣️ Slack channel
+      description: Link to the Slack channel for discussions about this work.
+  - type: checkboxes
+    id: type
+    attributes:
+      label: ✅ Type of support
+      description: Select the types of support needed.
+      options:
+        - label: Evaluation Support
+          value: evaluation
+          checked: false
+          options:
+          - label: Design review
+            description: Review design artifacts to identify accessibility issues and recommend solutions.
+          - label: Conformance testing
+            description: Perform an accessibility audit of a functional user flow to identify accessibility issues and recommend solutions.
+          - label: Accessibility artifact
+            description: Prepare an accessibility artifact for a Collaboration Cycle review and identify issues and recommend solutions.
+        - label: Research Support
+          value: research
+          checked: false
+          options:
+          - label: Planning
+            description: Review research artifacts, run through conversation guide, and recommend improvements.
+          - label: Observation
+            description: Participate in research sessions and provide observation notes and takeaways.
+        - label: Implementation Support
+          value: implementation
+          checked: false
+          options:
+          - label: Design
+            description: Prepare accessible designs, collaborate on design tasks and resolving tickets, etc.
+          - label: Engineering
+            description: Prepare accessible prototypes, collaborate on engineering tasks and resolving tickets, etc.
+        - label: General Support
+          value: general
+          checked: false
+          options:
+          - label: Issue review
+            description: Review tickets or other reports of accessibility issues and provide guidance on how to address issues.
+          - label: Consulting
+            description: Provide general guidance and training on accessibility topics.
+  - type: textarea
+    id: related
+    attributes:
+      label: 🔗 Related issues
+      description: List and link to tickets that are related to this support request.
+  - type: textarea
+    id: supporting
+    attributes:
+      label: 🔗 Supporting resources
+      description: Share links to supporting design artifacts, prototypes, research artifacts, or other details related to this support request.
+  - type: textarea
+    id: additional
+    attributes:
+      label: ➕ Additional details
+      description: Share any additional details about this support request, e.g., urgency and timeframe, goals and desired outcomes.
+  - type: markdown
+    attributes:
+      value: |
+        ## Next Steps
+  - type: checkboxes
+    id: next
+    attributes:
+      label: ✅ Next steps
+      options:
+        - label: Add ticket labels
+          description: Add the product's project and labels.
+        - label: Save and submit
+          description: Save and submit this intake ticket.
+        - label: Share on Slack
+          description: Start a new thread and post a link to this ticket in the mhv-accessibility Slack channel
