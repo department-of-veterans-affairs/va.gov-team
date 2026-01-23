@@ -4,30 +4,33 @@
 > *Questions about how to set up your research study? Reach out first in the via Slack in [#cds-hcd-cop] (https://dsva.slack.com/archives/C06043YBWTC) or if more help is needed check out the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
+<details><summary>* Patient Details 1.0 on the CDS Console has been released: September 30th . Gathering usability of 1.0 and user-driven value will be critical to help guide potential enhancements and next steps related to this feature, and to inform PGM #100.
+* Additionally, as Oracle Health integration planning continues, we will be including 3 OH users in these studies, to gather their perspective on the integration of the Console into Oracle Health, state of Patient details and potential enhancements, will be essential to inform and guide our Console integration work [PGM #217] </summary>
 	
 `What problem is your product or feature trying to solve?`
 
-**[Enter answer here]**
+**CDS Platform is a standards-based platform that offers integration capabilities and hosting for clinician-facing applications in the VA.**
   
-`Where is your product situated within the clinicians' or VA staff's toolset (ex: CDS Console > MedCalc)`
+`Where is your product situated within the clinicians' or VA staff's toolset (CDS Console > MedCalc)`
 
-**[Enter answer here]**
+**CDS Console**
   
 `What is clinicians' familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**Medium familiarity**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://dvagov.sharepoint.com/sites/CDSProgramTeam/SitePages/Platform%20Pages/Clinical-Decision-Support-Platform.aspx).**
 
 </details>
 
-### [OCTO-DSD Priorities](insert link here) 
+### [OCTO-DSD Priorities] 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
-
+- * [PGM] CDS Console and Applications Oracle Health Integration #217
+- * [PGM] Console Redesign and App Widgets #100
+- * Enhance User Experience of the CDS Console through Clinician Feedback #696
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
