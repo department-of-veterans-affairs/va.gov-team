@@ -107,9 +107,6 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 
 **`6.`How do clinicians evaluate the usefulness and viability of the app widget concepts (task flows), and which use cases provide the greatest value? What additional information is needed to support their workflow? What information is not valuable?**
 
-> [!TIP]
->Enter more questions as needed
-
 ### Hypotheses
 > [!NOTE]
 > Remember to constrain the hypotheses to the goals of your study!
@@ -222,15 +219,15 @@ Provide a link to any materials you need to run your study, including any materi
 - `Familiar with the CDS Console, has used OH (ideal)`
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results? For example, getting a variety of FTE percentage (patient facing time) or providers who work float schedules. Secondary criteria could also be role types, specialty, etc depending on the priority for a given study * 
+*What criteria would strengthen your results? For example, getting a variety of FTE percentage (patient facing time) or providers who work float schedules. Secondary criteria could also be role types, specialty, etc depending on the priority for a given study* 
 
-- `Potentially a few ‘super users,’ familiarity with CDS tools'
-- `User who uses Task Manager'
-- `User who uses Med calc'
-- `User who uses My Workweek'
-- `Someone from AiScribe pilot and uses Console'
-- `Behavioral Health'
-- `Outpatient Surgical'
+- `Potentially a few ‘super users,’ familiarity with CDS tools`
+- `User who uses Task Manager`
+- `User who uses Med calc`
+- `User who uses My Workweek`
+- `Someone from AiScribe pilot and uses Console`
+- `Behavioral Health`
+- `Outpatient Surgical`
 
 ## Timeline 🗓️
 Consider recruitment lead time is often 2-4 weeks. 
