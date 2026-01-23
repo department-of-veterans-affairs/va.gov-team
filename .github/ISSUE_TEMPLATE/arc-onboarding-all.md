@@ -46,7 +46,11 @@ Welcome to the ARC team! Once you receive your PIV and can access your [VA.gov](
 
   - [ ] DataDog - [ICAM service Desk Ticket](https://jira.devops.va.gov/servicedesk/customer/portal/89)
 
-  - [ ] VBMS UAT (for testing purposes) - [Request Access here](https://dvagov.sharepoint.com/sites/PMDProductDeliveryTesting/Lists/VBMS%20test%20Access%20Requests/AllItems.aspx?web=1\&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTczMjguMjA1ODgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D). 
+  - [ ] VBMS UAT (for testing purposes) - [Request Access here](https://dvagov.sharepoint.com/sites/PMDProductDeliveryTesting/Lists/VBMS%20test%20Access%20Requests/AllItems.aspx?web=1\&clickparams=eyAiWC1BcHBOYW1lIiA6ICJNaWNyb3NvZnQgT3V0bG9vayIsICJYLUFwcFZlcnNpb24iIDogIjE2LjAuMTczMjguMjA1ODgiLCAiT1MiIDogIldpbmRvd3MiIH0%3D).
+     - Business Line: OIT
+     - VBMS App: VBMS Core
+     - Station: 341
+     - Environment: UAT/Linktest
 
 - [ ] **Review the program goals**
 
