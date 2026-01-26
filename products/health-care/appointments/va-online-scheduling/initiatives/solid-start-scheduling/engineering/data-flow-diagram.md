@@ -91,29 +91,25 @@ flowchart RL
 #### Personal Identifiable Information (PII)
 | Data Element | Purpose | Source | Storage Location |
 |--------------|---------|--------|------------------|
-| Last Name | Identity verification | User input | MS Dynamics (permanent) |
-| Date of Birth (DOB) | Identity verification | User input | MS Dynamics (permanent) |
-| Email Address | OTP delivery, notifications | VASS Backend | MS Dynamics, VANotify (transient) |
+| Last Name | Identity verification | User input | VASS Backend (permanent) |
+| Date of Birth (DOB) | Identity verification | User input | VASS Backend (permanent) |
+| Email Address | OTP delivery, notifications | VASS Backend | VASS Backend, VANotify (transient) |
+| EDIPI | Veteran identification | VASS Backend | VASS Backend, Redis (1 hour) |
 
 #### Authentication Data
 | Data Element | Purpose | Storage | TTL |
 |--------------|---------|---------|-----|
-| UUID | Session identifier, user lookup | Redis, VASS Backend, datadog(logging) | Session-based |
 | One-Time Passcode (OTP) | Authentication | Redis (hashed temporary) | 10 minutes |
 | OAuth Access Token | VASS API authorization | Redis (hashed temporary) | 1 hour |
 | JWT Token | vets-api session | Not stored | 1 hour |
 
-#### Veteran Metadata
-| Data Element | Purpose | Storage | Usage |
-|--------------|---------|---------|-------|
-| EDIPI | Veteran identification | Redis (temporary) , MS Dynamics | Cross-system correlation |
-
 #### Application Data
 | Data Element | Purpose | Storage | Persistence |
 |--------------|---------|---------|-------------|
-| appointment_id | Booking reference | Redis (temporary), MS Dynamics | Permanent |
-| Appointment slots | Availability data | MS Dynamics | Dynamic |
-| Topics/Skills | Scheduling categories | MS Dynamics | Configuration data |
+| UUID | Session identifier, user lookup | Redis, VASS Backend, datadog(logging) | 1 hour |
+| appointment_id | Booking reference | Redis (1 hour), VASS Backend | Permanent |
+| Appointment slots | Availability data | VASS Backend | Dynamic |
+| Topics/Skills | Scheduling categories | VASS Backend | Configuration data |
 
 #### Rate Limiting & Security Data
 | Data Element | Purpose | Storage | TTL |
@@ -121,6 +117,5 @@ flowchart RL
 | OTP generation attempts | Rate limiting | Redis | 15 minutes |
 | OTP validation attempts | Brute-force prevention | Redis | Session-based |
 | Account lockout status | Security enforcement | Redis | 15 minutes |
-| Revoked token blacklist | Token invalidation | Redis | Until token expiration |
 
 
