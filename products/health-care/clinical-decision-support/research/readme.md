@@ -278,7 +278,7 @@ For research conducted and documented prior to October 1, 2025, refer to this se
   > **TIP:** Select the **Copy raw data** to copy from the templates to your own folder. Then edit the markdown files and copy from your Mural or Slack research-plans and conversation guides. You'll want to copy and paste over in sections to maintain the formatting.  
 
 3. After your research folder is created and your markdown files are complete, create a ticket in the Completed column of the Research Repository board.
-   - Go to the OCTO Research Repository board.
+   - Go to the [OCTO Research Repository board.](https://github.com/orgs/department-of-veterans-affairs/projects/880/views/2?filterQuery=CDS)
    - Scroll to the **Complete** column and click **Add item**.
    - Begin typing and then click Create new issue.
    - A modal will pop-up and confirm the Repository listed is department-of-veterans-affairs/va.gov-research-repository
