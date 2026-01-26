@@ -13,7 +13,8 @@ Existing test rail cases were tested
 
 ## Test Rail
 
-<!-- #TODO - Create test rail tests -->
+See [526 Side Navigation - Test Plan](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/c5ed9f0f75709effc2b751e46c4d14244904c606/Administrative/vagov-users/staging-test-accounts-526EZ-side-navigation.md)
+
 
 ## Additional resources - Bug Bash
 
