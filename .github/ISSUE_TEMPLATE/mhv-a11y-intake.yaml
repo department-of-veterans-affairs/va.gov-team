@@ -34,7 +34,7 @@ body:
     id: background
     attributes:
       label: 📝 Background and context
-      description: Describe the background and context for the work.
+      description: Describe the background and context for the work, for example, problem statement, teams involved, approach, goals, and objectives, desired outcomes.
   - type: markdown
     attributes:
       value: |
