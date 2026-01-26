@@ -62,26 +62,26 @@ I know you saw details from Perigean, but I want to review a few things to make 
 - If you currently have the VA app on this phone, this test version will replace it. I'll help you restore the original version once you're done.
 - Are you connected to WiFi? [If not, are they able to be?]
 
-
-🚧
-Since you mentioned you currently have an overpayment, your real-world data is exactly what we need to ensure everything is working correctly.
-
-To do this, I’ll help you download a test version of the app and have you log in with your actual VA credentials. 
-- _[if they indicated they're okay with screen sharing]_ I'll direct you to click through various parts of the debt portal, and I'll be watching how the app responds.
-- _[if they indicated they're NOT okay with screen sharing]_ I'll direct you to click through various parts of the debt portal, and you'll describe what you're seeing to me so we know how the app responds.
-🚧
 * I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
     * If no: Use Slack to kindly ask the observers to leave the Zoom.
     * If yes: Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-
+🚧🚧🚧
 * If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
+    * Any reporting I do from this would not use your name or personal details.
+    * I will pause the recording when you are entering your password so that your login details are not captured.
+    * Knowing this, are you comfortable with me recording the session?
+
+* And also, it can sometimes be helpful to share video clips from sessions to our VA partners so they can better understand the experiences of Veterans. In these clips, we blur out anything that could identify you – your profile photo for example – and they would only be shared among VA partners. I will also ask at the end of this session so that you could veto, but knowing this, would you be comfortable with us potentially using a clip from this session?
+, and personal details would be blurred out.
+* _[if screen sharing]_ And also, it can be helpful to share clips for our engineers to see exactly what happens in case we have any technical glitches.
+
+Second, it allows me to stay fully present with you and listen to your feedback without being distracted by taking notes. Just a reminder: I will pause the recording whenever you are entering your password or MFA codes so that your private login info is never captured. Does that sound okay to you?
     * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
     * Knowing this, are you comfortable with me recording the session?
-    * And also, it can sometimes be helpful to share video clips from sessions to our VA partners so they can better understand the experiences of Veterans. In these clips, we blur out anything that could identify you – your profile photo for example – and they would only be shared among VA partners. I will also ask at the end of this session so that you could veto, but knowing this, would you be comfortable with us potentially using a clip from this session?
     * [if yes] I’m going to start the recording, and once I do I’m going to confirm once more that you’re okay with the recording.
-
+🚧🚧🚧
 Start recording.
 
 
