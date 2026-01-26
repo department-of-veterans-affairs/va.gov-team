@@ -71,7 +71,7 @@ When using truncated link and control labels (e.g., "Appts" for "Appointments"),
 
 ### Auto-Submission
 
-Allow auto-submission (button-less) interaction for ```<select>``` elements when using the [Sort VADS component](https://design.va.gov/components/sort/). Otherwise, provide an explicit submit button for any interaction that triggers a change on context.
+Allow auto-submission (button-less) interaction for ```<select>``` elements when using the [Sort VADS component](https://design.va.gov/components/sort/). Otherwise, provide an explicit submit button for any interaction that triggers a change of context.
 
 -  **Rationale:** “Results automatically update when you select a sort option. This is known as implicit submission.
 Why implicit submission? 
