@@ -6,6 +6,11 @@ labels: a11y-testing
 assignees: 'jasonday'
 ---
 
+> [!NOTE]
+> Welcome to the live pilot of the updated accessibility testing process for Staging Reviews. This artifact reflects the new structure and expectations for accessibility testing. Teams are automatically included in the pilot and may opt out by commenting in your Staging Review slack thread and tagging Shira Goodman and Jason Day. After your Staging Review, we’ll reach out for a brief feedback session to help refine the documentation, artifact, and overall process. <br/><br/>
+> **Need help?** The Accessibility Digital Experience (ADE) team is available to assist with testing. Reach out in #accessibility-help slack channel and tag @accessibility-de
+
+
 # Accessibility testing: Staging review artifact
 
 ## 1. Introduction
