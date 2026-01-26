@@ -29,10 +29,10 @@ Synchronous Go/No Go (Placeholder)
 
 **Verdict: Go**
 
-## Release Details (TBD)
+## Release Details (January 26, 2026)
 
-- [ ] Enable in Production to 100% of users
-- [ ] Confirm the release to Production, with a test user
+- [x] Enable in Production to 100% of users
+- [x] Confirm the release to Production, with a test user
 - [ ] Communicate release to ARP pilot users via Teams/Email
 
 ***
