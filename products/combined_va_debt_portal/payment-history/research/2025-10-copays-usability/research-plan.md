@@ -1,33 +1,33 @@
 ---
 # Research Plan Metadata
 title: "Research Plan for Financial Management Team, Copay Debt Portal Payment History, October - November 2025"
-date: 2025-10-21
-last_updated: 2025-10-21
+date: 2026-01-26
+last_updated: 2026-01-26
 team: "Financial Management Team"
 product: "Copay Debt Portal Payment History"
 product_area: "authenticated"
 
 # Background Context
 background:
-  problem_statement: "Veterans who visit the debt portal to understand and resolve their debts have been frustrated by the inability to view up-to-date payment history."
-  product_location: "VA.gov Debt Portal - Payment History section"
+  problem_statement: "Veterans who visit the debt portal to understand and resolve their debts have been frustrated by the inability to view up-to-date payment history. The team plans to integrate a new Lighthouse API to provide real-time payment history."
+  product_location: "VA.gov Debt Portal - Payment History section (authenticated experience)"
   user_familiarity: "Iteration on existing product with new Lighthouse API integration for dynamic Copay (VHA) payment history data"
-  product_brief_url: ""
+  product_brief_url: "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/payment-history"
 
 # Research Design
 methodology: "Moderated usability testing"
-research_format: 
+research_format:
   location: remote
   in_person_details:
     facility: ""
     point_of_contact: ""
     equipment: ""
   moderated: true
-  
+
 # Research Goals & Questions
 research_goals:
   - goal_1: "Identify any usability issues Veterans may experience when interacting with Copay payment history"
-  - goal_2: "Understand if the current copay balances are accurate to Veterans"
+  - goal_2: "Understand if the current copay balances appear accurate to Veterans"
   - goal_3: "Understand which copay details are helpful to Veterans"
   - goal_4: "Understand how Veterans interpret the differences between dynamic HTML statements and static paper bills/PDFs"
 
@@ -35,9 +35,10 @@ research_questions:
   - "What challenges, if any, do Veterans encounter when viewing Copay Balances?"
   - "What steps do Veterans take to understand their current copay balances?"
   - "Are there points of confusion or difficulty when Veterans attempt to find, understand, and resolve their copay balances?"
+  - "What usability barriers, if any, do Veterans using assistive technology encounter?"
+  - "How do Veterans currently verify copay balance accuracy before this experience?"
   - "Do veterans think the information displayed under copay balances is accurate and up to date?"
   - "What, if any, technical or design barriers prevent Veterans from successfully understanding their barriers?"
-  - "How do Veterans feel about the overall experience of understanding their copay balances?"
   - "Do Veterans understand the different transaction fields?"
   - "Which information do Veterans consider as the most important within the copay details?"
   - "When do they use this information?"
@@ -47,136 +48,135 @@ research_questions:
 
 hypotheses:
   - "Veterans will be able to easily find, understand, and know how to resolve their Copay balances"
-  - "Veterans will believe their copay balances are accurate and trustworthy"
+  - "Veterans will remain skeptical of dynamic data accuracy without additional verification mechanisms"
   - "Veterans will be able to easily understand their copay details and think it is useful and relevant"
-  - "Veterans will be able to understand that PDF/paper statements contain static data and dynamic HTML statements contain current data"
+  - "Veterans may conflate dynamic (HTML) and static (PDF or paper statement) data, leading to confusion about which copay balance to trust"
 
-expected_outcomes: "The results of the study will help identify if Veterans encounter any major issues or pain points with Co-pay statement data post-Lighthouse API integration, allowing the team to solve these issues."
+expected_outcomes: "The results of the study will help identify if Veterans encounter any major issues or pain points with Copay statement data post-Lighthouse API integration, allowing the team to fix any major issues before release and iterate on improvements for future releases."
 
-# Recruitment
+# Recruitment & Participants
+recruitment:
+  recruiting_partner: "Perigean"
+  approach: "Lean maximum variation with AT and non-AT users"
 
-## Recruitment approach
+  primary_criteria:
+    - "Have active copay bills from the past 6 months"
+    - "Must be willing to screenshare from their own VA.gov account, including visibility of their copay bill and other sensitive account related information"
+    - "4 Assistive Technology users, including 2 Veterans who use screen magnifiers and 2 Veterans who use screen readers"
 
-We would like Perigean support to recruit non-AT users eligible participants for the study. We are aiming for **8** sessions total. 
+  secondary_criteria:
+    - "Have recurring copay bills for prescriptions"
+    - "At least 6 ages 55+"
+    - "At least 6 with an annual household income of less than 50K"
+    - "At least 3 under age 35"
+    - "At least 6 with cognitive disability"
+    - "At least 4 people of color"
+    - "At least 3 in a rural area"
+    - "At least 3 without a degree"
+    - "At least 2 with immigrant origins"
+    - "At least 1 woman"
+    - "At least 1 from the LGBTQ+ community"
 
-Participants **must have active copay (VHA) balances from the last 6 months and they must be willing to share screens and data from their personal VA accounts**. 
+  screener_questions:
+    - question: "Do you currently have an unpaid VA copay bill?"
+      qualifying_response: "Yes moves them to next question; No disqualifies them"
+    - question: "Did you receive a notice about this copay bill in the last 6 months?"
+      qualifying_response: "Yes qualifies them for study; No disqualifies them"
+    - question: "Do you receive recurring copay bills for prescriptions or other services?"
+      qualifying_response: "Yes or No qualifies them; Quota: Aim for 6 of 12 with recurring bills"
+    - question: "Do you have an identity-verified account on VA.gov?"
+      qualifying_response: "Yes qualifies them for study; No disqualifies them"
+    - question: "Are you willing to screenshare your personal account information from your VA.gov account?"
+      qualifying_response: "Yes qualifies them for the study; No disqualifies them"
+    - question: "What device will you use to join the session?"
+      qualifying_response: "Personal Computer, Smartphone, or Tablet; Quota: Aim for a mix of all devices"
+    - question: "Is your annual household income less than $50,000?"
+      qualifying_response: "Yes or No qualifies them; Quota: Recruit at least 6 with income less than $50K"
+    - question: "Do you identify as a member of the LGBTQ+ community?"
+      qualifying_response: "Yes, No, or Decline to answer"
+    - question: "Do you find it difficult to remember or learn new things, focus on a task, or make decisions?"
+      qualifying_response: "Yes marks as having a cognitive disability"
+    - question: "(For AT users) Do you need a screen reader or screen magnifier every time you use the Internet?"
+      qualifying_response: "Yes qualifies; Must have used for at least one year"
+    - question: "(For AT users) Are you willing to join the Zoom session using this assistive technology?"
+      qualifying_response: "Yes qualifies the participant"
 
-We are testing the live experience, there are no prototypes.
+participants:
+  veterans: 12
+  caregivers: 0
+  dependents: 0
+  total_recruited: 12
+  completed_sessions_goal: 8
 
-## Recruitment criteria
-
-* Veterans: 12  
-* Ideal completed sessions: 8
-
-## Primary criteria
-
-* Have active copay bills from the past 6 months  
-* Must be willing to screenshare from their own [VA.gov](http://VA.gov) account, including visibility of their copay bill and other sensitive account related information
-
-## Secondary criteria
-
-* Have recurring copay bills for prescriptions  
-* At least 6 ages 55+  
-* At least 6 with an annual household income of less than 50K  
-* At least 3 under age 35  
-* At least 4 people of color  
-* At least 3 in a rural area  
-* At least 3 without a degree  
-* At least 2 with immigrant origins  
-* At least 1 woman  
-* At least 1 from the LGBTQ+ community
-
-## Screening Questions
-
-1. Do you currently have an unpaid VA copay bill?  
-* Yes moves them to next question  
-* No disqualifies them
-
-2. Did you receive a notice about this copay bill in the last 6 months?  
-* Yes qualifies them for study  
-* No disqualifies them
-
-3. Do you receive recurring copay bills for prescriptions or other services?  
-* Yes qualifies them for study  
-* No qualifies them for study
-
-Quotas:
-
-* Please aim for 6 of 12 participants to have recurring copay bills
-
-4. We’d like you to review parts of the VA website that require you to sign in to an identity-verified account. Do you have an identify-verified account on VA.gov? You can check on this by logging into VA.gov. If you see a prompt to verify your identity once you sign in, your identity is **not** yet verified.  
-* Yes qualifies them for study  
-* No disqualifies them  
-    
-5. Are you willing to screenshare your personal account information from your [VA.gov](http://VA.gov) account?  
-* Yes qualifies them for the study  
-* No disqualifies them 
-
-6. What device will you use to join the session?  
-* Personal Computer  
-* Smartphone  
-* Tablet
-
-Quotas:
-
-* Aim for a mix of all devices
-
-7. Is your annual household income less than $50,000?  
-* Yes qualifies them  
-* No qualifies them
-
-Quotas (info for Perigean)
-
-* Please recruit at least 6 participants that have an annual household income level of less than $50K
-
-8. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.  
-   1. Yes  
-   2. No  
-   3. Decline to answer
-
-9. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.  
-   1. Yes *(mark as having a cognitive disability)*  
-   2. No  
-   3. Decline to answer
-  
 # Timeline & Sessions
 timeline:
   pilot_date: "2025-10-30 and 2025-10-31"
   pilot_participant: "TBD"
   research_dates: "2025-11-05 to 2025-11-18"
   research_review_submission: "2025-10-27"
-  
+
 session_details:
   duration_minutes: 60
+  duration_minutes_at_users: 120
   buffer_minutes: 60
   max_sessions_per_day: 2
-  
+
 # Strategic Alignment
 octo_priorities:
   - objective: "Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits"
-    key_results: 
+    key_results:
       - "Improve satisfaction with our web and mobile products by 5 points"
       - "Reduce the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction"
-      
+
 veteran_journey_phases:
   - "Getting Out"
   - "Starting Up"
   - "Taking Care of Myself"
+  - "Reinventing Myself"
   - "Putting Down Roots"
   - "Retiring"
   - "Aging"
-    
+
 # Research Repository Tracking
 related_research:
-  previous_studies: 
-    - ""
-    
+  previous_studies:
+    - "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/payment-history"
+
 tags:
-  - "copay-debt-portal"
+  # Audience
+  - "AUD: Veterans"
+  
+  # Benefit Area
+  - "BNFT: Healthcare"
+  - "BNFT: Finances"
+  
+  # Product
+  - "PRDT: Debt-portal"
+  
+  # Design System Components (testing table/list displays of payment data)
+  - "DSC: Table"
+  - "DSC: Links"
+  
+  # Design System Patterns
+  - "DSP: Content Presentation"
+  - "DSP: Help users to sign in"
+  
+  # Hardware (multi-device testing)
+  - "HDW: Desktop"
+  - "HDW: Laptop"
+  - "HDW: Smartphone"
+  - "HDW: Tablet"
+  
+  # Methodology
   - "usability-testing"
-  - "veterans"
-  - "payment-history"
-  - "assistive-technology"
+  - "remote"
+  - "moderated"
+  
+  # Accessibility
+  - "Accessibility"
+  
+  # My Health / Healthcare related
+  - "MHV: Pharmacy"
 
 # Team & Approvals
 team_roles:
@@ -194,7 +194,7 @@ team_roles:
     - "Heather Rienks"
 
 approvals:
-  - reviewer: "Denise Covey, Team Lead"
+  - reviewer: "Denise Coveyduc, Team Lead"
     date: "2025-10-17"
   - reviewer: "Shane Strassberg, OCTO Research-Ops Lead"
     date: ""
