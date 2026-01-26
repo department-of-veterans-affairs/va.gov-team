@@ -343,6 +343,8 @@ Retrieves available appointment time slots for an authenticated user.  Requires 
 }
 ```
 
+---
+
 ### GET /vass/v0/topics
 
 Retrieves available topics for appointment booking or information.  Requires a Bearer Token received after successful authentication.
@@ -373,6 +375,8 @@ Retrieves available topics for appointment booking or information.  Requires a B
 
 - `topicId`: Unique identifier for the topic. 
 - `topicName`: Name or description of the topic.
+
+---
 
 ### POST /vass/v0/appointment
 
@@ -457,7 +461,7 @@ Submits a request for a new appointment. Requires a Bearer Token received after 
 }
 ```
 
-
+---
 
 ### GET /vass/v0/appointment/{appointmentId}
 
@@ -515,6 +519,8 @@ Retrieves details of a specific appointment by its unique identifier. Requires a
 - `topics`: Array of topics associated with the appointment.
 - `dtStartUtc`: Start date and time (UTC, ISO8601). 
 - `dtEndUtc`: End date and time (UTC, ISO8601).
+
+---
 
 ### POST /vass/v0/appointment/{appointmentId}/cancel
 
@@ -617,6 +623,7 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 }
 ```
 
+---
 
 ## Security Considerations
 
