@@ -589,6 +589,8 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 }
 ```
 
+---
+
 ### External Service Errors
 
 **Response (Bad Gateway):**
