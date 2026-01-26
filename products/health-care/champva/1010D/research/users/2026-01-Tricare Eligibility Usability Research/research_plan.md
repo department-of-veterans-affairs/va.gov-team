@@ -52,11 +52,6 @@ recruitment:
     - "[All: Be on a computer or mobile device]"
     - "[All: During the session, be willing to share a web browser window on their device]"
     - "[All: Have a working microphone]"
-	- "[All: Have Zoom downloaded to their device prior to the session and know how to share their screen]"
-	- "[Cohort 1: Be a Veteran with a service-connected disability rating of 100%]"
-	- "[Cohort 1: Have a spouse and/or dependent children who are not currently enrolled in the CHAMPVA program]"
-	- "[Cohort 2: Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%]"
-	- "[Cohort 2: Are not currently enrolled in CHAMPVA]"
     
   secondary_criteria:
     - "[Nice-to-have criterion 1]"
