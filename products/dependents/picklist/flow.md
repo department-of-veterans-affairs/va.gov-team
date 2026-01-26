@@ -25,8 +25,9 @@ flowchart TD
     ChildReasonToRemove -- "stepchild left household" --> ChildHalfFinancialSupport{Provide at least half financial support?}
     ChildHalfFinancialSupport -- "no" --> ChildLeftHouseholdDetails[Left household details]
     ChildLeftHouseholdDetails --> NextDep
-    ChildHalfFinancialSupport -- "yes" --> ChildStillQualifies2[Still qualifies]
-    ChildStillQualifies2 --> exit
+    ChildHalfFinancialSupport -- "yes" --> ChildAddress[Child current address]
+    ChildAddress --> ChildLivesWith[Child lives with]
+    ChildLivesWith --> ChildLeftHouseholdDetails
     ChildReasonToRemove -- "adopted" --> ChildAdoptedDetails[Adopted details]
     ChildAdoptedDetails --> exit
 
@@ -49,4 +50,4 @@ flowchart TD
 
 ```
 
-updated: 11/17/2025
+updated: 1/26/2026
