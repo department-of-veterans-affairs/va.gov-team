@@ -58,7 +58,21 @@ Documentation about the CMS lives in various places
 ### CMS Team 
 - Erika Washburn, VA Product Owner - Slack `@Erika Washburn`
 - Grace Kretschmer Tran, Senior Product Manager - Slack `@Grace Kretschmer`
-- Laura Flannery, QA Engineer - Slack `@Laura Flannery`
+- Sofia Kirkman, Senior UX Designer - Slack `@Sofia Kirkman`
+- Tim Cosgrove, Tech Lead - Slack `@Tim Cosgrove`
+- Kayla Watanabe, Senior Product Manager - Slack `@Kayla Watanabe`
+- Brian Seek, Software Engineer - Slack `@Brian Seek`
+- Chris Valarida, Staff Software Engineer - Slack `@Chris Valarida`
+- Christian Burk, Drupal Engineer - Slack `@Christian Burk`
+- Edmund Dunn, Senior DevOps Engineer - Slack `@Edmund Dunn`
+- Logan House, UX Designer - Slack `@Logan House`
+- Pamela Abanda, DevOps Engineer - Slack `@Pamela`
+- Patrick Wolfert, Engineer - Slack `@Patrick Wolfert`
+- Stefanie Gray, Senior CX Support Specialist - Slack `@Stefanie Gray`
+- Troy Griffin, Senior CX Support Specialist - Slack `@Troy Griffin`
+- Zach Button, Senior Fullstack Engineer - Slack `@Zach Button`
+
+
 
 ### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
