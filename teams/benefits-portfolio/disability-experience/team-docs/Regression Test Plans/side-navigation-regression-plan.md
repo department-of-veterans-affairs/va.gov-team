@@ -20,8 +20,8 @@ See [526 Side Navigation - Test Plan](https://github.com/department-of-veterans-
 
 Our team conducted a comprehensive bug bash of the side navigation feature across the 526EZ disability compensation form via manual testing with a variety of users on staging. We identified and documented 9 critical conditional flow scenarios that affect side navigation behavior, including CFI vs. new conditions flow, PTSD type selection, evidence submission, and Guard/Reserve service. These scenarios were tested to validate that the side nav correctly displays chapter visibility, tracks user progress through the form, enables navigation to previously visited chapters, and disables future chapters appropriately.
 
--  [Bug bash plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126029) XX scenarios were tested to fully cover subnav functionality
--  [Bug Bash results](#) XX issues were identified
+-  [Bug bash plan](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126029); Nine scenarios (initiall defined in [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/126255)) were tested to fully cover subnav functionality. Additional details, and completed tests can be found in the canvas on [the DSVA Slack](https://dsva.slack.com/docs/T03FECE8V/F0A77NDFUF3) 
+-  [Bug Bash results](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129543) 7 issues were identified
 
 ## Traceability Statement
 
