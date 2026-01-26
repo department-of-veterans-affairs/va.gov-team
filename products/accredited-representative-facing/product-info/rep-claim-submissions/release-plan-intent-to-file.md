@@ -33,7 +33,7 @@ Synchronous Go/No Go (Placeholder)
 
 - [x] Enable in Production to 100% of users
 - [x] Confirm the release to Production, with a test user
-- [ ] Communicate release to ARP pilot users via Teams/Email
+- [x] Communicate release to ARP pilot users via Teams/Email
 
 ***
 
