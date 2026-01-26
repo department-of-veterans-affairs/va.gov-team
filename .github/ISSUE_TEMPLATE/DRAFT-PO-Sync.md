@@ -43,5 +43,5 @@ Optional:
 - [ ] If the initiative receives OCTO alignment to proceed, add the `PO-Sync-approved` label to this ticket.
 - [ ] If the initiative does not receive OCTO alignment to proceed, comment and close this ticket.
 
-## 📢 Feedback welcome
+## 📋 Collaboration Cycle feedback
 [Complete Collaboration Cycle feedback survey](https://ows.io/qs/o3jkwoez) at any point during your Collaboration Cycle process.
