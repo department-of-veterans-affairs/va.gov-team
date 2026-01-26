@@ -27,11 +27,13 @@ research_goals:
   - goal_3: "[Learn if there are any usability issues with the new VADS eligibility pattern and/or hybird option.]"
 
 research_questions:
-  - "[Research question 1]"
-  - "[Research question 2]"
-  - "[Research question 3]"
-  - "[Research question 4]"
-  - "[Research question 5]"
+  - "[Goal 1: Do participants find the introduction page eligibility content clear and easy to understand?]"
+  - "[Goal 1: Do participants find the eligibilty questions asked in the VADS pattern flow confusing, unclear or state they need additional information?]"
+  - "[Goal 1: Do participants understand the content in the error messages clear enough to state what specific action, if any, they would need to take when applying for benefits?]"
+  - "[Goal 2: Is the flow of prototype Blueberry and the VADS eligibility pattern easy for participants - both Veterans and family members?]"
+  - "[Goal 2: What flow do participants seem to find easier via self-reported ratings and quotes?]"
+  - "[Goal 3: Do participants clearly understand the eligibility gray results box with the icons in the pattern?]"
+  - "[Goal 3: Do the error alerts in the hybrid option add any confusion or do participants state incorrect actions needed?]"
 
 hypotheses:
   - "[We assume that both Veterans and family members will find the hybrid option the easiest to understand and will not have any issues with the alert messages presented.]"
@@ -44,19 +46,35 @@ expected_outcomes: "[How will findings advance the product?]"
 recruitment:
   recruiting_partner: "Perigean"
   approach: "[e.g., lean maximum variation]"
+
   
   primary_criteria:
-    - "[Must-have criterion 1]"
-    - "[Must-have criterion 2]"
-    - "[Must-have criterion 3]"
+    - "[All: Be on a computer or mobile device]"
+    - "[All: During the session, be willing to share a web browser window on their device]"
+    - "[All: Have a working microphone]"
+	- "[All: Have Zoom downloaded to their device prior to the session and know how to share their screen]"
+	- "[Cohort 1: Be a Veteran with a service-connected disability rating of 100%]"
+	- "[Cohort 1: Have a spouse and/or dependent children who are not currently enrolled in the CHAMPVA program]"
+	- "[Cohort 2: Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%]"
+	- "[Cohort 2: Are not currently enrolled in CHAMPVA]"
     
   secondary_criteria:
     - "[Nice-to-have criterion 1]"
     - "[Nice-to-have criterion 2]"
     
   screener_questions:
-    - question: "[Screener question text]"
-      qualifying_response: "[Expected answer]"
+    - question: "[Screener Cohort 1: Do you get a VA disability compensation for a service-connected disability rating of 100%?]"
+      qualifying_response: "[Yes]"
+    - question: "[Screener Cohort 1: Do you have a spouse or dependent children?]"
+      qualifying_response: "[Yes]"
+    - question: "[Screener Cohort 1: Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs?]"
+      qualifying_response: "[Yes, Unsure]"
+    - question: "[Screener Cohort 2: Please select the answer that best fits you: Response options: Spouse of a Veteran, Dependent child of a Veteran]"
+      qualifying_response: "[Spouse of a Veteran, Dependent child of a Veteran]"
+    - question: "[Screener Cohort 2: Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?]"
+      qualifying_response: "[Yes]"
+    - question: "[Screener Cohort 2: Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?]"
+      qualifying_response: "[No, Unsure]"
       
 participants:
   veterans: 8
@@ -69,13 +87,13 @@ participants:
 timeline:
   pilot_date: "YYYY-MM-DD"
   pilot_participant: "[Name]"
-  research_dates: "YYYY-MM-DD to YYYY-MM-DD"
+  research_dates: "2026-02-09 to 2026-02-20"
   research_review_submission: "YYYY-MM-DD"
   
 session_details:
-  duration_minutes: 60
-  buffer_minutes: 30
-  max_sessions_per_day: 0
+  duration_minutes: 45
+  buffer_minutes: 45
+  max_sessions_per_day: 3
   
 # Strategic Alignment
 octo_priorities:
@@ -87,8 +105,12 @@ octo_priorities:
       - "[Specific KR if applicable]"
       
 veteran_journey_phases:
-  - "[e.g., Getting Out]"
-  - "[e.g., Starting Up]"
+  - "[Getting Out]"
+  - "[Starting Up]"
+  - "[Putting Down Roots]"
+  - "[Taking care of self]"
+  - "[Retiring]"
+  - "[Aging]"
     
 # Research Repository Tracking
 related_research:
