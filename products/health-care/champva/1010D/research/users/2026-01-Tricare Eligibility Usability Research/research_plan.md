@@ -119,8 +119,7 @@ tags:
   - "[research-phase]"
 ---
 
-
-# Research Plan for [Health Applications, 10-10d CHAMPVA Application, January 2026]
+	 # Research Plan for Tricare Eligibility Usability Research (10-10D Champva), Jan 2026
 
 
 ## Background 🏗️
