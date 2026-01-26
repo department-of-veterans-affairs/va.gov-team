@@ -48,6 +48,7 @@
 
 ### Sprint Goal summary
 
+- [ ] EZR Service History Create connection call to pull service history data
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 
