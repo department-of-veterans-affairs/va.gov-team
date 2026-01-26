@@ -13,6 +13,8 @@ IIR has tickets in our backlog to do this work but it's just a matter of priorit
 
 #### Summary 
 
+> **Note:** The mobile app has its own consolidated Veteran Status Card endpoint (`GET /mobile/v0/veteran_status_card`) that returns either a VSC payload or an alert payload (including SSC-backed outcomes and messaging). For the latest mobile-specific rules and response behavior, see this [doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/mobile/veteran-status-api-logic.md)
+
 Rather than relying on just the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) to determine who gets the Veteran Status Card, we want to do a combination of the Lighthouse API data and the VA Profile API data that was used prior to 2025. 
 
 - First, look at the Veteran Service History & Eligitbility API > /status endpoint. If a user comes back as "Confirmed", give them access to the Veteran Status Card.
