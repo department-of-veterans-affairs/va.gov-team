@@ -11,14 +11,14 @@ assignees: 'jasonday'
 > **Need help?** The Accessibility Digital Experience (ADE) team is available to assist with testing. Reach out in the #accessibility-help slack channel and tag @accessibility-de
 
 
-# Accessibility testing: Staging review artifact
+# Accessibility testing: Staging Review artifact
 
 ## 1. Introduction
 
-This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you must submit as part of your staging review. Try to resolve as many issues as possible before your staging review. Then update this artifact with your progress. Log any issues you find. Guidance for logging issues is available in the "4. Next steps" section of this ticket.
+This issue template will help walk you through [required and recommended accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review) and will generate a testing artifact you must submit as part of your Staging Review. Try to resolve as many issues as possible before your Staging Review. Then update this artifact with your progress. Log any issues you find. Guidance for logging issues is available in the "4. Next steps" section of this ticket.
         
 ### Why we ask VFS teams to do accessibility testing
-The more you test and fix issues before your staging review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found during testing. It also helps us understand your product better before we do our review.
+The more you test and fix issues before your Staging Review, the less likely we are to find launch-blocking issues. This artifact helps document your accessibility testing efforts and any issues you found during testing. It also helps us understand your product better before we do our review.
 
 ## 2. Before you begin
 
@@ -359,10 +359,10 @@ Complete all required checks and as many recommended checks as you can. If you c
 ## 4. Next Steps
 
 ### Update Collab cycle ticket
-- [ ] Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.
+- [ ] Add a link to your completed accessibility testing ticket to the Staging Review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your Staging Review.
 
 ### Report identified issues
-For any issues identified during your testing, please report them as part of your staging review. Note: the accessibility testing artifact should be completed when the product is ready for staging review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket.
+For any issues identified during your testing, please report them as part of your Staging Review. Note: the accessibility testing artifact should be completed when the product is ready for Staging Review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket.
 - [ ] Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
 - [ ] Assign to `jasonday` and add the `a11y-testing` label.
 - [ ] Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
