@@ -46,6 +46,17 @@ jobs:
             const orgAbbr = orgMatch ? orgMatch[1].trim() : 'ORG';
             
             const subIssues = [
+            {
+                title: 'Generate missing email spreadsheet',
+                body: `## Description
+            Create spreadsheet with missing emails for certifying officials to update
+            
+            ## Tasks
+            - [ ] Make sure to pull down the latest data from GCLAWS
+            - [ ] Generate a spreadsheet with all the missing email addresses from orgs
+            - [ ] Share with org leadership and/or certifying official to update`,
+                labels: ['engagement','org-onboarding','ar-crew']
+              },
               {
                 title: 'Schedule meeting',
                 body: `## Description
@@ -111,6 +122,21 @@ jobs:
             - [ ] Review spreadsheet
             - [ ] Share with OGC and confirm when org reps will be updated`,
                 labels: ['engagement','org-onboarding','ar-crew']
+              },
+              {
+                title: 'Run the Trexler file',
+                body: `## Background
+                After GCLAWS team does a bulk contact info update for an org in OGC Accreditation Search, we'll want to run the Trexler file so it has the latest updates. Then, the automation for the update will happen at 3am ET. Lastly, we can confirm the changes in [Find a Rep](https://www.va.gov/get-help-from-accredited-representative/find-rep/). 
+                
+                Process for manually updating representative data (aka "running the Trexler File"): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/how-to-manually-update-representative-data.md
+            
+            ## Tasks
+            - [ ] Run manual update of Trexler file - Engineer
+            - [ ] Review data after the nightly automation in Find a Rep - VSO Engagement Manager`,
+                labels: ['engagement','org-onboarding','ar-crew']
+
+            ## Acceptance Criteria
+            - [ ] Updated contact information for representatives (especially this organization) is reflected in Production
               },
               {
                 title: 'Enable Form 21-22 online submission for org',
