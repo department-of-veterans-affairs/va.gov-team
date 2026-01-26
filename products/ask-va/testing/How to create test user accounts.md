@@ -7,3 +7,6 @@
 5. Verify your identity or skip this step. (To skip this step, you have to close out of the window. Return to staging.va.gov, sign in with your new ID.me test user account. You'll return to ID.me and continue with steps.)
 5. Allow ID.me to send information to VA.
 6. You're in staging with an LOA1 (if you skipped identity verification) or LOA3 (identity verified) account.
+
+
+7. Hi testing lychee.
