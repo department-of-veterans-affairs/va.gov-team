@@ -1,5 +1,11 @@
 ## Forms Library Release Notes
 
+## Release Date: December, 2025
+
+### va-file-input
+- Support for HEIC file upload
+- Decryption support for password on the backend
+
 ### Release Date: Week of 12/1/2025
 ## Overview
 
