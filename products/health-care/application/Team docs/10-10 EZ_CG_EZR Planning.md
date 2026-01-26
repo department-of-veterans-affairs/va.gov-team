@@ -9,7 +9,6 @@
 - [ ] EZR Service History
      - [ ] Update file upload page logic & content
 - [ ] EZ Form status
-     - [ ] EZ Update Intro Page alerts on "pending" statuses
      - [ ] EZ Tech discovery on additional form statuses on MyVA
      - [ ] EZ Display submission statuses on MyVA
 
@@ -26,8 +25,6 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [ ] **SPRINT GOAL** [#130693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130693) - [FE] Update Intro page alert for "PendingMT"
-- [ ] **SPRINT GOAL** [#130694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130694) - [FE] Update Intro page alert for "PendingOther"
 - [ ] **SPRINT GOAL** [#105829](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105829) - [Eng] Tech discovery on additional EZ form statuses on MyVA
 - [ ] **SPRINT GOAL** [#130010](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130010) - [FE] Display submission statuses on MyVA
 
@@ -48,10 +45,12 @@
 
 ### Sprint Goal summary
 
-- [ ] EZR Service History Create connection call to pull service history data
+- [ ] EZR Service History
+     - [ ] Create connection call to pull service history data
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
-
+- [ ] EZ Form status
+     - [ ] Update Intro Page alerts on "pending" statuses
 ## 
 ### 10-10EZR
 
@@ -67,7 +66,8 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [ ] 
+- [ ] **SPRINT GOAL** [#130693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130693) - [FE] Update Intro page alert for "PendingMT"
+- [ ] **SPRINT GOAL** [#130694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130694) - [FE] Update Intro page alert for "PendingOther"
 
 
 ## 
