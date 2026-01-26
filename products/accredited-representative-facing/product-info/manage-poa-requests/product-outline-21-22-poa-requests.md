@@ -1,5 +1,8 @@
 # Accredited Representative Portal - Form 21-22 / Manage Power of Attorney Requests - Product Outline
 
+### February 2026 update
+We are adding a more granular permission set to this feature to better reflect the needs and workflows of VSOs. Although Form 21-22 grants POA to an organization, not an individual, field 16A allows the claimant to name an accredited representative representing that organization (who countersigns the paper form in field 23A). The initial release of this feature gave a portal user either access to all 21-22s for an organization or none of them -- the new permission level will show 21-22s *that name the user* in 16A. The sections below will be updated accordingly.
+
 ## Overview
 We will create a site for accredited representatives hosted on VA.gov yet visually distinct where VSOs are able to accept or decline representation requests from Form 21-22.
 
