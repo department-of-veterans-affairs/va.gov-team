@@ -563,6 +563,32 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 
 ---
 
+### Unauthorized Responses
+
+**Response (Invalid / malformed token):**
+```json
+{
+    "errors": [
+        {
+            "code": "unauthorized",
+            "detail": "Invalid or malformed token"
+        }
+    ]
+}
+```
+
+**Response (Expired token):**
+```json
+{
+    "errors": [
+        {
+            "code": "unauthorized",
+            "detail": "Token has expired"
+        }
+    ]
+}
+```
+
 ### External Service Errors
 
 **Response (Bad Gateway):**
