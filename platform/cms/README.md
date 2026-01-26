@@ -83,6 +83,11 @@ Documentation about the CMS lives in various places
 **CMS Knowledge Base**
 - <https://prod.cms.va.gov/help>
 
+**CMS Help Desk**
+
+Use the link below to create a help desk ticket to ask questions regarding access and troubleshooting Drupal content
+- <https://va-gov.atlassian.net/servicedesk/customer/portal/3/group/8/create/26>
+
 **How to Work with CMS team**
 - [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)
 
