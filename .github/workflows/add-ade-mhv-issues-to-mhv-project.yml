@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: read
+  issues: read
 
 jobs:
   add_to_mhv_project:
