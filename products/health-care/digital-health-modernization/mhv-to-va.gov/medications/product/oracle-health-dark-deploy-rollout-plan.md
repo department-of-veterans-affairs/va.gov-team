@@ -91,8 +91,8 @@ When the toggle is enabled:
 |------------|--------|-------|
 | Oracle Health meds fetch | ✅ Complete | Tested in lower environments |
 | Oracle Health refills | ✅ Complete | Tested with trusted users |
-| Vista meds with toggle on | ⚠️ **REQUIRED** | Must confirm with 1-2 patients before rollout |
-| Vista refills with toggle on | ⚠️ **REQUIRED** | Must confirm SCDF pass-through works |
+| Vista meds with toggle on | ✅ Complete | Must confirm with 1-2 patients before rollout |
+| Vista refills with toggle on | ✅ Complete | Must confirm SCDF pass-through works |
 
 ### 3.1 Critical Pre-Rollout Gate
 
