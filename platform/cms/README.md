@@ -89,7 +89,7 @@ Use the link below to create a help desk ticket to ask questions regarding acces
 - <https://va-gov.atlassian.net/servicedesk/customer/portal/3/group/8/create/26>
 
 **How to Work with CMS team**
-- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md) (work in progress)
+- [Working with the CMS team (Rules of Engagement)](working-with-cms-team.md)
 
 **Getting Started**
 - [Before you begin, set up HTTPS](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/https.md)
