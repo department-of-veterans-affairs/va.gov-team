@@ -76,7 +76,7 @@
 
 ##
 ### Team PTO
-- ...
+- Heather: 2/3
 
 ---
 ## 📆 Sprint 12 (Jan 14 - Jan 27)
