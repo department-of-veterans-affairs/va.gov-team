@@ -45,6 +45,65 @@ description: "A template for moderating research sessions including logistics, i
 
 # Intro - 5 minutes
 
+Thank you so much for joining today. My name is Emily, and [NAME] here will be taking notes. I also have a couple other colleagues in the digital waiting room who would like to observe, but we’ll get to that momentarily.
+
+Today, we’re testing a pre-release version of the VA app specifically to check the Debt Portal. You may have done usability tests before where we look at how easy an app or website is to navigate. Today’s session is a bit different: it’s called a User Acceptance Test. Instead of looking at the 'feel' of the design, we're checking to see if the actual technology handles your  data correctly. We’re basically making sure that when you tap a button, the VA systems in the background do exactly what they’re supposed to do.
+
+To do this, I’ll help you download a test version of the app and have you log in with your actual VA credentials. 
+
+I know you saw details from Perigean, but I want to review a few things to make absolutely sure you're okay with what will happen in this session
+- You're on a mobile phone now? Is it an iPhone or an Android?
+- You indicated that you have a current overpayment debt. Are you able to see the details of this debt when you log into your VA account on the website?
+- You have your username and password ready to log into the app? [ID.me or Login.gov and can access your two-factor authentication - text code or app]
+- _screensharing_
+    - _[yes to screen sharing]_ Are you okay with sharing your screen as you click through various parts of your overpayment details?
+    - _[no to screen sharing]_ As you click though various parts of the app, you'll be describing what you see.
+- You have access to your email account here on this phone?
+- If you currently have the VA app on this phone, this test version will replace it. I'll help you restore the original version once you're done.
+- Are you connected to WiFi? [If not, are they able to be?]
+
+
+🚧
+Since you mentioned you currently have an overpayment, your real-world data is exactly what we need to ensure everything is working correctly.
+
+To do this, I’ll help you download a test version of the app and have you log in with your actual VA credentials. 
+- _[if they indicated they're okay with screen sharing]_ I'll direct you to click through various parts of the debt portal, and I'll be watching how the app responds.
+- _[if they indicated they're NOT okay with screen sharing]_ I'll direct you to click through various parts of the debt portal, and you'll describe what you're seeing to me so we know how the app responds.
+🚧
+* I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
+    * If no: Use Slack to kindly ask the observers to leave the Zoom.
+    * If yes: Admit observers.
+    * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
+    * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+
+* If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
+    * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
+    * Knowing this, are you comfortable with me recording the session?
+    * And also, it can sometimes be helpful to share video clips from sessions to our VA partners so they can better understand the experiences of Veterans. In these clips, we blur out anything that could identify you – your profile photo for example – and they would only be shared among VA partners. I will also ask at the end of this session so that you could veto, but knowing this, would you be comfortable with us potentially using a clip from this session?
+    * [if yes] I’m going to start the recording, and once I do I’m going to confirm once more that you’re okay with the recording.
+
+Start recording.
+
+
+
+* I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
+🐙🐙🐙
+
+If you're comfortable, you can share your screen so I can watch how the app responds as you click through—or, if you prefer, you can keep your screen private and just describe what you see as you go. We’ll record the session for research purposes, but you can change your mind or stop at any time. Does that all sound okay to you?
+you read in the screener questions from Perigean
+we’ll be discussing how people think about and manage certain financial items. Primarily: medical copayments and debts from things like benefit overpayments. I'd like to check in first – are you comfortable dicussing these topics?
+
+Before we start, I have a few logistics to cover:
+
+
+
+
+* Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+
+
+
+<!-----
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
@@ -102,6 +161,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If yes: what is your disability rating?
 - If no, skip to question 2.
 2. 
+----->
+
 
 ## First Task: [TASK NAME] - X minutes
 
