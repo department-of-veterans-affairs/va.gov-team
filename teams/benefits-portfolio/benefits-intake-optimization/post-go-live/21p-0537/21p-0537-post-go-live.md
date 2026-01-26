@@ -10,8 +10,8 @@ Launch Date: 12/19/2025
 ## Post-MVP Enhancements
 | Enhancement | Description | Category | Layer | Status | SME Testing | Story | PR | Merged Date | Prod Date |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| OMB expiration date update |  | Form-Related Update |  | Complete |  | [129971](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129971) | [41417](https://github.com/department-of-veterans-affairs/vets-website/pull/41417) | 01/14/2026 |  |
-| BIO - Use va-introtext class on description |  | Staging Finding |  | Complete |  | [121907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121907) | [41541](https://github.com/department-of-veterans-affairs/vets-website/pull/41541) | 01/20/2026 |  |
+| OMB expiration date update | Updates OMB expiration to match that provided on the PDF | Form-Related Update | Front-end | Complete | N | [129971](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129971) | [41417](https://github.com/department-of-veterans-affairs/vets-website/pull/41417) | 01/14/2026 |  |
+| BIO - Use va-introtext class on description | Non-functional styling change to meet platform style requirements (this was a non-blocking staging finding) | Staging Finding | Front-end | Complete | N | [121907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121907) | [41541](https://github.com/department-of-veterans-affairs/vets-website/pull/41541) | 01/20/2026 |  |
 | MMS/GCIO Integration |  | Form-Related Update |  | In Development |  | [130768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130768) |  |  |  |
 | Find a form search results page content |  | Vendor Team Suggestion |  | Proposed |  | [130088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130088) |  |  |  |
 | Find a form page content |  | Vendor Team Suggestion |  | Proposed |  | [130090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130090) |  |  |  |
