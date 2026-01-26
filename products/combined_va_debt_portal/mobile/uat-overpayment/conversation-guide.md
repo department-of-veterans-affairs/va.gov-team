@@ -67,32 +67,18 @@ I know you saw details from Perigean, but I want to review a few things to make 
     * If yes: Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-🚧🚧🚧
+
 * If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
     * Any reporting I do from this would not use your name or personal details.
     * I will pause the recording when you are entering your password so that your login details are not captured.
     * Knowing this, are you comfortable with me recording the session?
+    * Once we record I'm going to ask again just so it's on the record.
 
-* And also, it can sometimes be helpful to share video clips from sessions to our VA partners so they can better understand the experiences of Veterans. In these clips, we blur out anything that could identify you – your profile photo for example – and they would only be shared among VA partners. I will also ask at the end of this session so that you could veto, but knowing this, would you be comfortable with us potentially using a clip from this session?
-, and personal details would be blurred out.
-* _[if screen sharing]_ And also, it can be helpful to share clips for our engineers to see exactly what happens in case we have any technical glitches.
-
-Second, it allows me to stay fully present with you and listen to your feedback without being distracted by taking notes. Just a reminder: I will pause the recording whenever you are entering your password or MFA codes so that your private login info is never captured. Does that sound okay to you?
-    * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
-    * Knowing this, are you comfortable with me recording the session?
-    * [if yes] I’m going to start the recording, and once I do I’m going to confirm once more that you’re okay with the recording.
-🚧🚧🚧
 Start recording.
 
 
-
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-* Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
-🐙🐙🐙
 
-If you're comfortable, you can share your screen so I can watch how the app responds as you click through—or, if you prefer, you can keep your screen private and just describe what you see as you go. We’ll record the session for research purposes, but you can change your mind or stop at any time. Does that all sound okay to you?
-you read in the screener questions from Perigean
-we’ll be discussing how people think about and manage certain financial items. Primarily: medical copayments and debts from things like benefit overpayments. I'd like to check in first – are you comfortable dicussing these topics?
 
 Before we start, I have a few logistics to cover:
 
