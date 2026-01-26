@@ -49,7 +49,7 @@ Thank you so much for joining today. My name is Emily, and [NAME] here will be t
 
 Today, we’re testing a pre-release version of the VA app specifically to check the Debt Portal. You may have done usability tests before where we look at how easy an app or website is to navigate. Today’s session is a bit different: it’s called a User Acceptance Test. Instead of looking at the 'feel' of the design, we're checking to see if the actual technology handles your  data correctly. We’re basically making sure that when you tap a button, the VA systems in the background do exactly what they’re supposed to do.
 
-To do this, I’ll help you download a test version of the app and have you log in with your actual VA credentials. 
+Your participation in this is completely voluntary. Nothing you do here will affect your VA benefits in any way. During this session, we'll be asking you to share your screen which will show your personal debt records. If you would like to stop the session or do not want to show us something at any time, that's no problem. Please let me know.
 
 I know you saw details from Perigean, but I want to review a few things to make absolutely sure you're okay with what will happen in this session
 - You're on a mobile phone now? Is it an iPhone or an Android?
@@ -59,7 +59,7 @@ I know you saw details from Perigean, but I want to review a few things to make 
     - _[yes to screen sharing]_ Are you okay with sharing your screen as you click through various parts of your overpayment details?
     - _[no to screen sharing]_ As you click though various parts of the app, you'll be describing what you see.
 - You have access to your email account here on this phone?
-- If you currently have the VA app on this phone, this test version will replace it. I'll help you restore the original version once you're done.
+- I'll be helping you download a test version of the app. If you currently have the VA app on this phone, this test version will replace it. I'll help you restore the original version once you're done.
 - Are you connected to WiFi? [If not, are they able to be?]
 
 * I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
@@ -78,14 +78,6 @@ Start recording.
 
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
-
-Before we start, I have a few logistics to cover:
-
-
-
-
-* Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 
 
 
