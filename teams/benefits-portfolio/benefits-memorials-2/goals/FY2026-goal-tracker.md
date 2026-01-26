@@ -25,6 +25,25 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
 
+## Sprint: 1 [01/28/26 - 02/10/26]  
+| Sprint Goal | Goal P  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Complete the final Pay.gov (Overpayments) research usability preparation steps before recruiting with Perigean and starting pilot sessions. | P2 |--|--|--|
+|UX: Finalize all in-scope designs for pay.gov overpayment MVP experience in preparation for engineering handover.. | P2 |--|--|--|
+|ENG: Complete the known back end API tickets, allowing the front end to move forward on the remaining payment history page implementation tickets.| P1 |--|--|--|
+|ENG: Complete 2 front end tickets related to statement addresses and previous statements and review implementation with UX. | P1 |--|--|--|
+|TEAM: Draft UX and engineering exploration tickets to identify the areas of research needed to be able to support the Benefit Payment Tool. | P3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (01/26/26)
+ - [X] VA PO & COR sent the Sprint Goals (01/26/26)
+ - [ ] VA PO approved the Sprint Goals (01/00/26)
+ - [ ] VA COR approved the Sprint Goals (01/00/26)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
 ## Sprint: 26 [01/14/26 - 01/27/26]  
 | Sprint Goal | Goal P  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
@@ -37,10 +56,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Complete 5 maintenance & prioritized maintenance tickets related to any bugs and code reliability. | P4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] Ready to be sent for approvals (01/13/25)
- - [X] VA PO & COR sent the Sprint Goals (01/13/25)
- - [X] VA PO approved the Sprint Goals (01/13/25)
- - [ ] VA COR approved the Sprint Goals (01/00/25)
+ - [X] Ready to be sent for approvals (01/13/26)
+ - [X] VA PO & COR sent the Sprint Goals (01/13/26)
+ - [X] VA PO approved the Sprint Goals (01/13/26)
+ - [ ] VA COR approved the Sprint Goals (01/13/26)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
