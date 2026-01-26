@@ -2,7 +2,7 @@
 
 Inventory of design-related decisions impacting accessibility, along with the rationale for the decision and a list of standards or other factors impacted by the decision.
 
-Last updated: 15 Jan 2026
+Last updated: 26 Jan 2026
 
 ## Wayfinding
 
@@ -34,8 +34,9 @@ Replace Breadcrumbs with Back link on detail pages.
 
 Do not provide alternative text for icons in Action Links. Instead, put the action at the start of action link text.
 
--  **Rationale:** “Use the secondary variation for additional important links. Use the Link - Action - Secondary (blue) variation when there are multiple Action Links on a page or if the actions are of equal hierarchy.” Excerpted from VADS [When to use an Action Link](https://design.va.gov/components/link/action))
-  -  “‘Front-load‘ your link text. Put the most relevant, specific and unique content at the beginning of the link. Example: “Buy yellow shoes” not “Footwear available here including colourful shoes” Excerpted from [Readability Guidelines Links guidance](https://readabilityguidelines.co.uk/content-design/links/#3-front-load-your-link-text))
+-  **Rationale:**
+    -  “Use the secondary variation for additional important links. Use the Link - Action - Secondary (blue) variation when there are multiple Action Links on a page or if the actions are of equal hierarchy.” Excerpted from VADS [When to use an Action Link](https://design.va.gov/components/link/action))
+    -  “‘Front-load‘ your link text. Put the most relevant, specific and unique content at the beginning of the link. Example: “Buy yellow shoes” not “Footwear available here including colourful shoes” Excerpted from [Readability Guidelines Links guidance](https://readabilityguidelines.co.uk/content-design/links/#3-front-load-your-link-text))
 - **Relevant standards:** WCAG: [SC 1.1.1 Non-text Content (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html): All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for … Decoration, Formatting, Invisible — If non-text content is pure decoration, is used only for visual formatting, or is not presented to users, then it is implemented in a way that it can be ignored by assistive technology.
 - **Last reviewed:** 19 Sep 2025
 
@@ -67,3 +68,16 @@ When using truncated link and control labels (e.g., "Appts" for "Appointments"),
 -  **Rationale:** “Appointments shortens to Appts, which is both hard to pronounce and not something people commonly say. Screen reader users might recognize Appts as meaning Appointments, but it's more for them to try to parse out. When a sighted voice command user sees Appts, my guess is they're more likely to correctly parse the word and say 'Appointments' than they are to successfully say 'Appts' in a way that their software will recognize. Voice command software typically has other ways of selecting a link as a fallback if a user doesn't discover that Appointments works.” Excerpted from [Staging Review finding: Abbreviated link text difficult to understand for screen reader users #84242](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84242)
 - **Relevant standards:** WCAG: [SC 2.5.3 Label in Name (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/label-in-name): For user interface components with labels that include text or images of text, the name contains the text that is presented visually.
 - **Last reviewed:** 15 Jan 2026
+
+### Auto-Submission
+
+Allow auto-submission (button-less) interaction for ```<select>``` elements when using the [Sort VADS component](https://design.va.gov/components/sort/). Otherwise, provide an explicit submit button for any interaction that triggers a change on context.
+
+-  **Rationale:** “Results automatically update when you select a sort option. This is known as implicit submission.
+Why implicit submission? 
+Using a button to confirm a sort choice (explicit submission) was found to be easily missed. A 2024 VA.gov Medications Round 3 study mentions:
+“6 of 11 participants missed the Sort button after selecting the sort option. Vision did not seem to play a role in who missed the button as 4 of the 6 were sighted. One screen reader dependent user did mention missing things because of his speed.”
+The Design Systems Council met with multiple product teams and accessibility specialists to align on implicit submission (supplemented with important accessibility considerations) as the expected behavior.” Excerpted from VADS [behavior guidance on the Sort component](https://design.va.gov/components/sort/#web)
+- **Relevant standards:** WCAG [SC 3.2.2 On Input (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/on-input): Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.
+- **Last reviewed:** 26 Jan 2026
+
