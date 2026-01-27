@@ -29,7 +29,6 @@ fullName: {
 
 Suggested:
 ```
-contactInformation: {
   fullName: { // prefilled
     first: 'First',
     middle: 'Middle',
@@ -38,22 +37,45 @@ contactInformation: {
   },
   dateOfBirth: '2001-01-01', //prefilled
   ⭐️ ssnLast4: '1234', // prefilled
-  homePhone: {
-    number: '123456789' // US numbers only, (so no country code?)
-    ⭐️ ext: '123456', // 6 digits max. Added just because it's part of the phone pattern
-  },
-  emailAddress: 'fake@email.com',
-  mailingAddress: {
-    country: 'USA',
-    isMilitary: false,
-    street1: '123 East St.',
-    ⭐️ street2: '', // Added just because it's part of the address pattern
-    ⭐️ street3: '', // ditto
-    city: 'Smallville',
-    state: 'KS',
-    postalCode: '66001'
+  veteran: { // The profileContactInfoPages pattern gives us this object
+    "mailingAddress": {
+      "addressLine1": "1200 Park Ave",
+      "addressLine2": "c/o Pixar",
+      "addressLine3": "",
+      "addressPou": "CORRESPONDENCE",
+      "addressType": "DOMESTIC",
+      "city": "Emeryville",
+      "countryName": "United States",
+      "countryCodeIso2": "US",
+      "countryCodeIso3": "USA",
+      "countryCodeFips": "",
+      "countyCode": "",
+      "countyName": "",
+      "createdAt": "2020-05-30T03:57:20.000+00:00",
+      "effectiveEndDate": "",
+      "effectiveStartDate": "2020-07-10T20:10:45.000+00:00",
+      "id": 173917,
+      "internationalPostalCode": "",
+      "province": "",
+      "sourceDate": "2020-07-10T20:10:45.000+00:00",
+      "sourceSystemUser": "",
+      "stateCode": "CA",
+      "transactionId": "7139aa82-fd06-45ea-a217-9654869924bd",
+      "updatedAt": "2020-07-10T20:10:46.000+00:00",
+      "validationKey": "",
+      "vet360Id": "1273780",
+      "zipCode": "94608",
+      "zipCodeSuffix": ""
+    },
+    "homePhone": {
+      "areaCode": "503",
+      "countryCode": "1",
+      "phoneNumber": "2222222"
+    },
+    "email": {
+      "emailAddress": "test@user.com"
+    },
   }
-}
 ```
 
 ## Step 2: Military history
