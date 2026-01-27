@@ -103,7 +103,7 @@ Now I'm going to ask you to go to various parts of the app where I'll be checkin
 
 ## Thank-You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the digital experience and make sure it really works for Veterans.
+We really appreciate you taking the time to help us test the app. This step is so crucial to getting this app ready for everyone to use.
 
 Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 
