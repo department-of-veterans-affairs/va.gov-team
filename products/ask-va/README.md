@@ -22,10 +22,19 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 |Product owner (VES)|Natalie Morales|
 |Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
 
-### Current teammates
+
+###  Current Ask VA Team
 |Role|Assigned|Contact|
 |:---|:---|:---|
-||||
+|Product Owner (OCTO)|Becky Phung|becky.phung@va.gov|
+|Delivery Lead|Megan Salerno|megan.salerno@va.gov|
+|Product Manager|Stephanie Vargo|stephanie.vargo@va.gov|
+|Technical Lead|Jerek Shoemaker|jerek.shoemaker@va.gov|
+|AI Lead/Engineer|Matt Floyd|matthew.floyd@va.gov|
+|Frontend Engineer|Walker Marlatt|walker.marlatt@va.gov|
+|Backend Engineer|Alex Castillo|alex.castillo2@va.gov|
+|UX Research Lead|Elena Naids|elena.naids@va.gov|
+|UX Design Lead|Danielle Oppendike|danielle.oppendike@va.gov|
 
 ### Former teammates
 |Role|Assigned|Contact|
