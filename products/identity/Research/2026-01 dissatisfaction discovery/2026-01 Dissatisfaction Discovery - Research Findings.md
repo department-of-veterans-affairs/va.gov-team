@@ -344,13 +344,11 @@ Related topics and tags were mapped to these themes to calculate the scale and f
 ##### Supporting Evidence
 
 * Quantitative:  
-  * All time periods: Multiple error codes reported across datasets  
+  * All time periods: Multiple error codes reported across datasets
+  * Q3 2025: 007 errors indicate SSN mismatch or missing personal information   
   * Q3 2025: 813 calls to ID.me call center classified as a VA error  
   * Q3 2025: 122 (5%) feedback surveys mentioned page load issues  
-  * Q4 2024: 'Page load' issues tagged in 6.7% of intercept surveys
-
-* Quantitative:  
-  * Q3 2025: 007 errors indicate SSN mismatch or missing personal information  
+  * Q4 2024: 'Page load' issues tagged in 6.7% of intercept surveys 
 * Qualitative Patterns:  
   * Timeout issues with inactivity modal  
     * Q1 2025: "when the 'inactivity' screen pops up the option to 'Stay signed In' does not respond. The message blocks the screen so nothing can be done and it eventually logs me out"  
