@@ -404,6 +404,7 @@ Based on themes and insights covered in this research round, additional research
 
 - **Mural**: Used for affinity mapping and synthesizing insights across all 8 user sessions
 - **Affinity Mapping**: Organized findings into themes around workflow value, data needs, and usability
+- **Session Recordings Review**: Reviewed audio transcripts and session recordings
 
 Detailed notes and testimonials across all sessions can be found in: [Q1 '26 Patient Details User Testing Notes Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1762799339819/055431b933c4ac15cecff96c50a80a4e00403b80)
 
