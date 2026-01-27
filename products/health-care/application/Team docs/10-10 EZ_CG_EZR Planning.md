@@ -6,6 +6,9 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- The goal for Sprint 14 is...
+
+#### List of Planned work
 - [ ] EZR Service History
      - [ ] Update file upload page logic & content
      - [ ] Add error state to Yes/No page
@@ -49,7 +52,9 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
+- The goal for Sprint 13 is to get the EZR Service History connection up and running.
 
+#### List of Planned work
 - [ ] EZR Service History
      - [ ] Determine how to connect with existing VA Profile integration
      - [ ] Create connection call to pull service history data
