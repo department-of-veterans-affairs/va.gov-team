@@ -40,30 +40,31 @@ Ask VA users want to easily and quickly view their submitted questions using; se
 Update the Ask VA inbox by implementing the VADS guidance and new standard, https://design.va.gov/components/search-filter.
 
 ## Outcomes - HERE AND BELOW STEPHANIE IS REVISING
-- **User experience outcomes**: Ensure users have an easy and accessible interaction with Ask VA.
-- **Functional outcomes**: Ensure the system operates correctly and efficiently with Ask VA.
-- **Business outcomes**: Ensures increased efficiency for VA customer support. 
+- **User experience outcomes**: Users have an accessible and easy interaction with their personalized inbox.
+-  **Functional outcomes**:  The VADS guidance and standard operates correctly with Ask VA application.
+- **Business outcomes**: Improved inbox usability and efficiency for Ask VA users.  Decreased dissatisfied feedback collected via the feedback button and intercept survey responses.
 
 ### User experience outcomes
 |Outcome|Description|
 |:---|:---|
-|Quick to complete|Users complete the form quicker because they don't have to review long lists of topics.|
-|Clear instructions and information|Users understand how the information was prefilled and what to do next.|
+|Review Inquiries|Users can easily and quickly review their historical inquiries in a single column card view that aligns with messaging patterns across the VA.|
+|Sort Action|Users can sort inquries in a predicatable order of newest to oldest or oldest to newest.|
+|Search Action|Users can quickly search for specific inquiries using keywords.|
+|Filter Action|Users can filter inquries with relevant criteria and reduce time spent reviewing their complete inbox.|
 
 ### Functional outcomes
 |Outcome|Description|
 |:---|:---|
-|Form submission (CRM integration)|All form submissions are correctly routed and include the user's selected topic from the data model.|
-|Successful integrations with data model|Ask VA receives a predicted topic(s) from the data model without a long load time.|
+|Search, filter and sort patterns |All VADS inbox patterns function as expected|
 
 ### Business outcomes
 |Outcome|Description|
 |:---|:---|
-|Improved customer support efficiency|Current topic lists remain the same for agents, while users can get a better experience through reviewing predicted topic(s).|
+|Improved inbox usability|Search, filter and sort patterns reduce overall user time spent locating a submitted inquiry.|
 |Improved user satisfaction|Users are more satisfied with Ask VA.|
 |Improved trust in VA|Users trust VA and VA services more.|
 
-## Measuring success
+## Measuring success DETERMINE SUCCESS MEASURES
 Objectives and Key results (OKRs) help us measure success of specific targeted objectives for a specific initiative or time period. 
 
 This initiative aligns with the following 2025 OCTO OKRs: 
@@ -85,24 +86,27 @@ It also includes these OKRs:
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|x|
 |Time to submit form|x|x|
 
-## Release plan
+## Release plan (to be determined)
 [input release plan]
 
 ## Team and partners
-### Our team
+### Ask VA Team
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product owner (OCTO), Designer|Becky Phung||
-|Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
-|Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
-|Frontend engineer|Hemesh Patel|hemesh.patel@docme360.com|
-|Data engineer (part-time)|Jacob Cheriathundam|jacob@docme360.com|
-|UX designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX researcher & designer|Tyler Gindraux|tyler@bluetiger.digital|
+|Product Owner (OCTO)|Becky Phung|becky.phung@va.gov|
+|Delivery Lead|Megan Salerno|megan.salerno@va.gov|
+|Product Manager|Stephanie Vargo|stephanie.vargo@va.gov|
+|Technical Lead|Jerek Shoemaker|jerek.shoemaker@va.gov|
+|AI Lead/Engineer|Matt Floyd|matthew.floyd@va.gov|
+|Frontend Engineer|Walker Marlatt|walker.marlatt@va.gov|
+|Backend Engineer|Alex Castillo|alex.castillo2@va.gov|
+|UX Research Lead|Elena Naids|elena.naids@va.gov|
+|UX Design Lead|Danielle Oppendike|danielle.oppendike@va.gov|
 
-### VA partners
+### VA Partners
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product owner (VES)|Jaime Rocha||
-|AI lead (OCTO)|Alexander Kharbush|x|
-|Data/AI Digital Corps Fellow|Lylybell Teran||
+|Product Owner (AVA CRM)|Natalie Morales|
+|Business Stakeholder(VES)|Kathleen Reavey|
+|Product Owner(VES)|Jaime Rocha|
+
