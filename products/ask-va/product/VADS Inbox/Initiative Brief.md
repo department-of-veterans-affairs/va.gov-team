@@ -47,7 +47,7 @@ Update the Ask VA inbox by implementing the VADS guidance and [new standard](htt
 ### User Exerience Outcomes
 |Outcome|Description|
 |:---|:---|
-|Review Inquiries|Users can easily and quickly review their historical inquiries in a single column card view that aligns with messaging patterns across the VA.|
+|Inquiries Reviewed|Users can easily and quickly review their historical inquiries in a single column card view that aligns with messaging patterns across the VA.|
 |Sort Action|Users can sort inquries in a predicatable order of newest to oldest or oldest to newest.|
 |Search Action|Users can quickly search for specific inquiries using keywords.|
 |Filter Action|Users can filter inquries with relevant criteria and reduce time spent reviewing their complete inbox.|
@@ -74,7 +74,10 @@ This initiative aligns with the following 2025 OCTO OKRs:
 |Key result|Baseline (ask.va.gov)|After X months|
 |:---|:---|:---|
 |Satisfaction|January 2025: 23%|x|
-|Decrease in dissatisfied feedback re; inbox usability|x|
+|Decrease in dissatisfied feedback re; inbox usability|x|x|
+
+How to measure decrease in dissatisfied feedback re; inbox usability = monthy count of dissatisfied feedback comments 
+Should we isoloate this data per user to identify subset of users that remain  dissatisfied?
 
 -Monitor average engagement time per active user, determine metric target
 Data Example (Dec 1 - Dec 31, 2025)
@@ -100,7 +103,7 @@ Data Example (Dec 1 - Dec 31, 2025)
 ### VA Partners
 |Role|Assigned|Contact|
 |:---|:---|:---|
-|Product Owner (VES, AVA CRM)|Natalie Morales|
-|Project Executive Sponsor(VEO)|Kathleen Reavey|
-|Product Owner(VEO)|Jaime Rocha|
+|Product Owner (VES, AVA CRM)|Natalie Morales|natalie.morales@va.gov|
+|Project Executive Sponsor(VEO)|Kathleen Reavy|kathleen.reavy@va.gov|
+|Product Owner(VEO)|Jaime Rocha|jaime.rocha@va.gov|
 
