@@ -1,0 +1,235 @@
+name: Evidence Request Content Creation
+description: Create or update content for a new evidence request type in the tracked item content migration
+title: "[Evidence Request]: [Display Name]"
+labels: ["benefits-management-tools", "bmt-team-2", "evidence-requests", "engineering", "frontend", "backend"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Create New Evidence Request Content
+
+        Use this template to define content for a new evidence request type that will be migrated to the backend API.
+
+        **Reference Documentation:**
+        - [Evidence Dictionary Migration Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-improvements/engineering/evidence-dictionary-migration-plan.md)
+        - [Tracked Item Content Schema](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/schemas/tracked_item_content.json)
+
+  - type: input
+    id: display_name
+    attributes:
+      label: Display Name (API Key)
+      description: The original displayName from the API that will be used as the key for this content
+      placeholder: "e.g., 21-4142/21-4142a"
+    validations:
+      required: true
+
+  - type: input
+    id: friendly_name
+    attributes:
+      label: Friendly Name ✨
+      description: Human-readable name shown to Veterans (replaces technical displayName)
+      placeholder: "e.g., Authorization to disclose information"
+    validations:
+      required: true
+
+  - type: textarea
+    id: support_aliases
+    attributes:
+      label: Support Aliases ✨
+      description: |
+        Alternative names that map to this content (other than the original displayName). This can often include the associated form name(s).
+        For example, the Evidence Request titled "PTSD - Need stressor details/med evid of stressful incdnt" also has the following support aliases: ['VA Form 21-0781', 'PTSD - Need stressor details'].
+        Enter one per line.
+      placeholder: |
+        21-4142/21-4142a
+        Authorization form
+        Disclosure authorization
+    validations:
+      required: false
+
+  - type: input
+    id: short_description
+    attributes:
+      label: Short Description
+      description: Brief one-line description of what this evidence request is
+      placeholder: "e.g., We need your permission to request your personal information from a non-VA source."
+    validations:
+      required: false
+
+  - type: textarea
+    id: activity_description
+    attributes:
+      label: Activity Description
+      description: Description of what activity this represents (used in activity feed)
+      placeholder: "e.g., We need your permission to request your personal information from a non-VA source, like a private doctor or hospital."
+    validations:
+      required: false
+
+  - type: dropdown
+    id: can_upload_file
+    attributes:
+      label: canUploadFile
+      description: Can the Veteran upload files for this request?
+      options:
+        - "yes"
+        - "no"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: no_action_needed
+    attributes:
+      label: noActionNeeded
+      description: Is action required from the Veteran for this request?
+      options:
+        - "yes (noActionNeeded = false)"
+        - "no (noActionNeeded = true)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: is_dbq
+    attributes:
+      label: isDBQ
+      description: Is this a Disability Benefits Questionnaire (DBQ)?
+      options:
+        - "no"
+        - "yes"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: is_proper_noun
+    attributes:
+      label: isProperNoun
+      description: Does the displayName contain a proper noun?
+      options:
+        - "no"
+        - "yes"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: is_sensitive
+    attributes:
+      label: isSensitive
+      description: Does the content contain sensitive information such as PII (Personally Identifiable Information)?
+      options:
+        - "no"
+        - "yes"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: no_provide_prefix
+    attributes:
+      label: noProvidePrefix
+      description: Should we skip the 'Provide' prefix in the display name of the associate alert for the request? For example, the alert for the request "Clarification of Claimed Issue" with the friendly name "Clarify claimed condition" should not be displayed as "Provide Clarify claimed condition", but rather as "Clarify claimed condition".
+      options:
+        - "no"
+        - "yes"
+    validations:
+      required: true
+
+  - type: textarea
+    id: long_description_content
+    attributes:
+      label: Long Description Content
+      description: |
+        Detailed explanation shown to Veterans. Describe the content in natural language via Markdown.
+
+        This will be converted to structured JSON blocks (paragraphs, lists, links). Lines with empty spaces will be converted to new paragraph `<p>` tags, unless noted in the Long Description Notes below.
+      placeholder: |
+        For your benefits claim, we need your permission to request your personal information from a non-VA source, like a private doctor or hospital.
+
+        Personal information may include:
+        - Medical treatments
+        - Hospitalizations
+        - Psychotherapy
+
+        Learn more about this form at [VA Form 21-4142](/find-forms/about-form-21-4142/).
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: long_description_notes
+    attributes:
+      label: Long Description Notes
+      description: Additional notes, considerations, or implementation details for the Long Description
+      placeholder: "e.g., Special formatting needed, links to include, specific terminology requirements"
+    validations:
+      required: false
+
+  - type: textarea
+    id: next_steps_content
+    attributes:
+      label: Next Steps Content
+      description: |
+        Action items and instructions for the Veteran. Describe the content in natural language via Markdown.
+
+        This will be converted to structured JSON blocks (paragraphs, lists, links). Lines with empty spaces will be converted to new paragraph `<p>` tags, unless noted in the Next Steps Notes below.
+
+        Include any relevant form links, phone numbers, or specific instructions.
+      placeholder: |
+        Use VA Form 21-4142 to give us permission to request your personal information.
+
+        You can complete and sign this form online, or use a PDF version and upload or mail it.
+
+        Learn more about this form at [VA Form 21-4142](/find-forms/about-form-21-4142/).
+      render: markdown
+    validations:
+      required: false
+
+  - type: textarea
+    id: next_steps_notes
+    attributes:
+      label: Next Steps Notes
+      description: Additional notes, considerations, or implementation details for the Next Steps
+      placeholder: "e.g., Form links to verify, contact numbers to validate, special instructions"
+    validations:
+      required: false
+
+  - type: textarea
+    id: design_reference
+    attributes:
+      label: Design Reference
+      description: Link to Figma designs, mockups, or other visual references
+      placeholder: "https://www.figma.com/..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other relevant information, edge cases, or considerations
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: How will we know this content is complete and correct?
+      value: |
+        - [ ] Content is added to `lib/lighthouse/benefits_claims/tracked_item_content/override_content.json`
+        - [ ] JSON validates against the schema
+        - [ ] Content tested in staging environment
+        - [ ] Visual review confirms content renders correctly
+        - [ ] Accessibility review completed (if applicable)
+        - [ ] Unit tests added/updated
+        - [ ] End-to-end tests added/updated
+    validations:
+      required: true
+
+  - type: textarea
+    id: links_resources
+    attributes:
+      label: Links & Resources
+      description: Relevant links, documentation, or related issues
+      placeholder: |
+        - [#issue number]
+        - [link]
+    validations:
+      required: false
