@@ -195,7 +195,7 @@ Hello (Name),
 
 My name is (researcher/designer name), and we previously connected via your support request to (enter request or issue). 
 
-I am reaching out now to see if you would be interested in participating in a design feedback session. We are currently evaluating some new designs for the (product name). I’d love to get your perspective and feedback on these new concepts. It would involve participating in a 60-minute remote session on MS Teams. The session would include a general introduction and current experience with (product name), then I would share a design prototype with you along with a few probes to get your reactions, followed by closing questions. 
+I am reaching out now to see if you would be interested in participating in a design feedback session. We are currently evaluating some new designs for the (Patient Details within the Clinical Decision Support Console). I’d love to get your perspective and feedback on these new concepts. It would involve participating in a 60-minute remote session on MS Teams. The session would include a general introduction and current experience with (product name), then I would share a design prototype with you along with a few probes to get your reactions, followed by closing questions. 
 
 **Your choice to participate is completely voluntary. We will share our learnings within the CDS Collaborative in the form of aggregated information or anonymized quotes. Your responses will remain confidential, and your anonymity protected.**
 
@@ -203,7 +203,7 @@ If you are interested in participating, the following days and times are availab
 
 All times are in **Eastern** time:
 
-- [Availability]
+- [Availability details variable depending on audience]
 
 Cheers,
 
