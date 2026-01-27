@@ -111,7 +111,7 @@ tags:
 > 
 > Use the [GitHub Copilot Frontmatter Completion Prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/copilot-prompts/research-planning/research-plan-frontmatter-completion-prompt.md) to automatically generate structured metadata from your completed research plan.  The prompt uses natural language processing to extract key information and apply appropriate research repository tags. 
 
-	# Research Plan for [Team, Product, Date]
+# Research Plan for VFMP Status Integration, Health Apps in Claims Status Tool, CHAMPVA Application Status MVP 02/2026
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
@@ -120,19 +120,19 @@ tags:
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**Veterans and their families enrolled in CHAMPVA currently lack digital infrastructure to manage their application status, relying heavily on paper mail and manual processes. This results in delays, backlogs, and a high volume of status inquiries. Approximately 80% of calls to the CHAMPVA helpdesk are status inquiries, leading to significant wait times. We will integrate CHAMPVA applications into the existing Claim and Appeal Status Tool (CST) to enhance transparency, reduce delays, and improve the overall user experience for veterans and their families. This solution aims to provide real-time access to application statuses, streamline documentation workflows, and reduce call center volume.**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[Enter answer here]**
+**Authenticated experience**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**We are integrating CHAMPVA applications into the existing Claim and Appeal Status Tool (CST).**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/status-tool/chamva-status-tool-product-outline.md).**
 
 </details>
 
@@ -266,190 +266,199 @@ Are there moments that matter?</summary>
 **[Enter hypotheses here]** 
 
 ---
-  
+   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
+We will conduct remote moderated usability testing to observe research participants filling out a new claim and responding to a send-back notification to resubmit a claim. We will be testing in the Staging environment using the unauthenticated version of the form.
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
+Think-aloud protocol will be used for each task, to understand how the user understands and is responding to the flow of the claims form as they perform the tasks given to them. 
 
-</details>
-
-**[Enter methodology here]**
-
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-</details>
+Sessions will be conducted over Zoom with transcripts.
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
+Remote research, over Zoom.
 
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
-
-- [ ] **Remote**
+- [x] **Remote**
 - [ ] **In-person**
-      
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
 
 ## Research materials 📔
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
-
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
+- [Link to conversation guide]()
+- [Link to prototype]()
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
-
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and download the [recruitment checker (Excel)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/accessibility/research/RecruitmentCheckerSpreadsheet.xlsx) to understand OCTO's targets for inclusivity and use it to plan your participant demographics for this study.
+We would like Perigean to recruit assistive technology (AT) and non-AT users.
+
+Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who are currently enrolled in the CHAMPVA program. We will split this study into three cohorts:
+
+* **Cohort 1 (n = 2 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who are currently enrolled in CHAMPVA benefits
+  
+* **Cohort 2 (n = 8 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are currently enrolled in CHAMPVA benefits
+
+* **Cohort 3 (n = 2 minimum):** Assistive Technology (AT) users who are Veterans with a service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
 
 ### Recruitment criteria
+**All participants must:**
+- Be on a computer or mobile device
+- During the session, be willing to share a web browser window on their device
+- Have a working microphone
+- Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+**Cohort 1 must:**
+- Be a Veteran with a service-connected disability rating of 100%
+- Have a spouse and/or dependent children
+- **At least 1** spouse/children are _currently_ enrolled in CHAMPVA benefits (remainder can be unsure or not currently enrolled)
+- **At least 1** identifies as having a cognitive disability
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents are enrolled in CHAMPVA benefits):**
+1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
+_Response otions: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+2. Do you have a spouse or dependent children?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (Qualifies for study, recruit **at least 1**, RECORD as enrolled in CHAMPVA)
+* No (Disqualify)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
+4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+_Response options: YES, NO_
+* Yes (Qualifies for study, recruit **at least 1**, RECORD response)
+* No (Qualifies for study, RECORD response)
+  
+**Cohort 2 must:**
+- Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
+- We'd like to hear from **at least 6** spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), the remainder can be not currently enrolled
+
+**Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
+1. Please select the answer that best fits you:
+_Response options: Spouse of a Veteran, Dependent child of a Veteran, Neither (Answering neither would disqualify the participant)_
+
+2. Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?
+_Response options: YES, NO (Answering YES would qualify the participant)_
+
+3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (Qualifies for study, recruit **at least 6**, RECORD as enrolled in CHAMPVA)
+* No (Qualifies, RECORD as not enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
+**Cohort 3 must:**
+- Be a Veteran with a service-connected disability 
+- Have a spouse and/or dependent children
+- Spouse/children _do not_ need to be enrolled in CHAMPVA benefits, but preferred
+- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete. We would prefer **screen reader users** over magnification.
+
+**Screener Cohort 3 (Veterans with a service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+1. Do you currently receive VA disability compensation for a service-connected disability rating of 50% or higher?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+2. Do you have a spouse or dependent children?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (Qualifies for study, RECORD as enrolled in CHAMPVA)
+* No (Qualifies for study, RECORD as not enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
+4. Do you need a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Disqualified]
+
+5. How long have you been using this screen reader or screen magnifier?
+* Less than 1 year (DISQUALIFY)
+* At least 1 year (ask next question)
+
+6. [If yes to Q5] Please list the name of the screen reader or screen magnifier technology you will use during the session
+_Response: free text field_ (If user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user. 
+
+7. Are you willing to join the zoom session using this assistive technology?
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Disqualified]
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **2-4**
+- `Spouses and dependent children:` **8-10**
+- `AT users (can be: Veterans and spouses/dependent children:` **2-4**
+- `Total:` **18**
+- `Ideal completed sessions:` **12**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
-
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `At least 2 must use a screen reader or screen magnifier every time they access the internet`
+- `1 must have a cognitive disability`
+- `At least 6 must be primarily mobile users and willing to use it for the session`
+- `At least 2 must be users on desktop/laptop devices and willing to use it for the session`
+- `At least 3 don't have any degree or vocational training after high school`
+- `At least 2 live in a rural or remote area`
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
-
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
-
+- `6 must be aged 55-64+`
+- `At least 4 people of color`
+- `At least 2 women`
+- `At least 2 are 35 or under`
+  
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
-
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
+- `Monday - Friday 9:30am-12:00pm ET and 1:00pm-4:30pm ET`
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+We would like to have a non-AT user pilot, and 2 AT user pilot (1 screen reader, 1 screen magnifier)
+
+**Non-AT user pilot (1)**
+- `Pilot participant name:` 
+- `Date and time of pilot session:` 
+
+**AT user pilots (2)**
+- `Pilot participant name:` 
+- `Date and time of pilot session:` 
+
+- `Pilot participant name:` 
+- `Date and time of pilot session:` 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **Wednesday, Aug 6 - Tuesday, August 26**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` 30 minutes
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` 5 per day
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
+> - `Monday - Friday 8:00am-5:00pm ET`
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Moderator:` Alyssa Li and Chantale Hedgeman
+- `Research guide writing and task development:` Alyssa Li and Chantale Hedgeman
+- `Participant recruiting & screening:`	Perigean	
+- `Project point of contact:` Alyssa Li and Chantale Hedgeman
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` TBD (will link to ADE intake ticket when opened)
+- `Note-takers:` Alyssa Li and Chantale Hedgeman
+- `Observers:` Will need to sign up so we can limit the number per session. Alyssa will add them to the session invites received from Perigean.
 
 ## Approvals ✅
 > [!NOTE]
