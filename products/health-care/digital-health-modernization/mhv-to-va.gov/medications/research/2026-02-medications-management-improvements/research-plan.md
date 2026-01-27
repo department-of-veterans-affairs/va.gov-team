@@ -1,5 +1,4 @@
-# Medications Management Research Plan and Conversation Guide - 2026
-
+# Research Plan: Medications Management Improvements
 **Cara Frissell, Florence McCafferty, Anneka Van Garza, Athena Bozak**
 
 ---
