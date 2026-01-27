@@ -10,7 +10,7 @@ tags:
   - "VistA CPRS use cases"
 description: "Converstation guide for Console Patient Details Testing."
 ---
-# Conversation Guide for Patient Details User Testing
+# Conversation Guide for Patient Details User Testing - CPRS Users
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
