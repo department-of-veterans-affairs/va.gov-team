@@ -50,12 +50,15 @@
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZR Review existing Profile ECNOK designs for updates needed
 - [ ] EZ Form status
+     - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
      - [ ] Update Intro Page alerts on "pending" statuses
 ## 
 ### 10-10EZR
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **SPRINT GOAL** [#130846](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130846) - [FE] Connect to pull in service history for display
+- [ ] **SPRINT GOAL** [#131037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/131037) - [UX] Create content for error state (no data or no API response to display service history)
+- [ ] **SPRINT GOAL** [#131051](https://github.com/department-of-veterans-affairs/va.gov-team/issues/131051) - [UX] Update content on File Upload page
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121080](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121080) - [UX] Update EZR SOT for Household sections
@@ -66,6 +69,7 @@
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- [ ] **SPRINT GOAL** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
 - [ ] **SPRINT GOAL** [#130693](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130693) - [FE] Update Intro page alert for "PendingMT"
 - [ ] **SPRINT GOAL** [#130694](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130694) - [FE] Update Intro page alert for "PendingOther"
 
@@ -73,7 +77,7 @@
 ## 
 ### 10-10CG
 #### Obj: 
-
+- No changes in this sprint
 
 ##
 ### Team PTO
@@ -89,8 +93,8 @@
      - [ ] BE schema update
      - [x] Add branch/dates question page
      - [x] Attend VA Profile pre-meeting
-- [ ] EZR improvement opportunities research
-- [ ] EZ Multiple related forms pattern research
+- [x] EZR improvement opportunities research
+- [x] EZ Multiple related forms pattern research
 - [x] CG Restrict facilities parameters
 
 ### Additional work completed
@@ -101,7 +105,7 @@
      - [ ] Investigate schema validation errors (Ins info missing in array builder)
 - CG Bug
      - [x] Investigate & Fix 400 facilities errors
-- [ ] EZ Update designs for Intro Page alerts on "pending" statuses
+
 
 ## 
 ### 10-10EZR
@@ -113,7 +117,7 @@
 
 #### Obj: EZR [Add Service History section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [x] **SPRINT GOAL** [#114030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114030) - [FE] Add Service history branch/dates question page (refer to EZ)
-- [ ] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema - PR Reviews
+- [x] **SPRINT GOAL** [#113983](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113983) - [BE] Update BE Schema - PR Reviews
 - [x] **SPRINT GOAL** [#129511](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129511) - [Eng, PM] Attend VA Profile pre-meeting
 - [x] **STRETCH** [#114029](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114029) - [FE] Add Yes/No question page (UI Only)
 - [x] **STRETCH** [#121743](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121743) - [FE] Add checkbox page
@@ -125,10 +129,7 @@
 ##
 ### 10-10EZ
 #### Obj: [EZ Multi-Form MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
-- [ ] **SPRINT GOAL** [#129233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129233) - [UX] Explore new VADS pattern on multiple related forms
-
-#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [ ] **STRETCH** [#128834](https://github.com/department-of-veterans-affairs/va.gov-team/issues/128834) - [UX] Update Intro page alerts for "pending" statuses
+- [x] **SPRINT GOAL** [#129233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129233) - [UX] Explore new VADS pattern on multiple related forms
 
 ## 
 ### 10-10CG
