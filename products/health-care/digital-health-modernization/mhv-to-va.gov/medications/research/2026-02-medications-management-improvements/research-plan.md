@@ -43,7 +43,7 @@ The goals of the Medications experience is to enable and support Veteran users i
 
 ## Research Materials
 ● [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2026-02-medications-management-improvements/conversation-guide.md)  
-● Link to prototype  
+● [Link to prototype](https://www.figma.com/proto/fRZJx2Sb8U0bYr7In9FnOU/Prototype-for-medications-improvements-research-study?node-id=231-17538&viewport=443%2C601%2C0.04&t=98kPc1jJsJWrI9cN-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=96%3A11734&show-proto-sidebar=1)
 
 ---
 
