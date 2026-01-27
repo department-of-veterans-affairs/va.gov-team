@@ -54,7 +54,7 @@ Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** & **
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
-Today we're going to talk about **Patient Details within the CDS Console**
+Today we're going to talk about: **Over the course of the hour, we will have  general discussion about your typical workflow within PowerChart, and then review a design prototype and gathering your input on what data will be the most helpful for your clinical decision making, and then wrap-up with a few final questions.**
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -83,81 +83,66 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
  
+# Intro
 
-# Warm-up Questions
+We are the Clinical Decision Support Collaborative (CDSC) 
 
-First, I’d like you to walk through the Console as you normally would today.
-[For those that do not open the Console directly] What is your typical workflow/entry point to CDS Applications and/or the Console? 
+* Our mission is to enable teams to develop and deploy modern, scalable applications more quickly and securely, while providing clinicians with an improved user experience as they provide clinical care.
+* The Clinical Decision Support Collaborative makes tools to help clinicians make decisions within their workflows, like medical calculators.
 
-For the purposes of this exercise, we're curious about how we might enhance the Console Patient Details and we want to know what CDS data from other CDS applications might best support your clinical decision making.
+# Additional Context if Needed
 
-## First Task: Navigation to Console - 1 minute
+* The Clinical Decision Support Collaborative (CDSC) seeks to maximize clinicians’ and veterans’ abilities to collaboratively achieve veteran health goals, providing clinicians with context-relevant, patient-specific information to enhance decision-making within the clinical workflow.
+* While many clinical decision support capabilities are available directly within CPRS or Oracle Health, the CDS Program focuses on opportunities for clinical decision support that are not provided within the Electronic Health Record (EHR).
+* The program serves clinicians by creating a suite of context-aware, standards based Clinical Decision Support (CDS) tools that provide a common, cohesive user experience and integrate with CPRS as well as Oracle Health.
+* During COVID-19 the Clinical Decision Support Collaborative was formed to build tools like Covid Patient Manager to help clinicians make decisions when triaging patients as well as tools like MedPic that allows clinicians to get a sense of medications that a patient is on and whether or not they have been refilling their medications in a timely way - helping to have a view into medication compliance. Since then we have developed applications like My WorkWeek - helping clinicians have a  comprehensive view of their schedule and potential open slots for appointments. As well as Task Manager - an application that helps teams work across tasks and patients.
+* We also have developed the CDS Console - the home for where all of these applications live as well as information about the patient is viewable. We have the ability to sync to whatever patient is being looked at in the EHR - which is super cool! 
+* We also have done work to build out CDS Hooks (Clinical Decision Support at the point of care) at VA and are working to get them into production within the Federal EHR OH environment - currently we are in production within the VistA environment within the CDS Console itself. 
+* We are in the early days of integrating into Oracle Health. Our hope is by end of 2026 the CDS Console, and ideally CDS Hooks also will be live in Oracle Health. As a part of preparing for the initial integration path, to prepare, we want to share a bit about our tools and planned integration pattern.
+* Are you familiar with Clinical Decision Support Console? 
+* Have you used it before?
+* Do you have any questions?
 
-- [ ] For the purposes of this exercise, please open the Console through CPRS, select a patient, and walk through the Console as you normally would. Please do not refer to patient names while sharing your screen. As you navigate to the Console, imagine you’re seeing this patient for a routine visit.
-- [ ] What are your initial impressions of the homepage (CDS applications)?
-- [ ] What applications do you use the most?
+# Section 1: 'Day in the Life' in PowerChart - 20 min
 
-> [!NOTE]
-> ### Things to watch for:
-> - Pain points
-> - Findability
+## As-is workflow in PowerChart - 10 min
 
-## Second Task: Navigation to Patient Details - 4 minutes
+Now I’d like to learn more about your typical workflow with PowerChart.
 
-- [ ] Now, please navigate to where you would expect to access clinical information within the Console.
-- [ ] How easy or difficult was it to locate?
-- [ ] Is this where you would expect to find it? Why or why not?
-- [ ] What, if anything, could make it easier to access or more intuitive?
+* When you first log in, where do you usually start your day within PowerChart?
+* What are the different ways you access a patient’s chart?
+* How many patient charts do you tend to keep open at once?
+* When you have multiple charts open, how do you usually switch/navigate between them?
+* Shift handoff - what does this look like? During shift handoff, what typically happens? How do you review what you’re inheriting for the day? As your shift wraps up, what does your end-of-day process look like?
+* How do you know what tasks, or follow-ups you are responsible for? 
+* How do you get a sense of the appointments that are on your schedule?
+* Before seeing a patient, or a cohort of patients, what kind of prep work do you normally do?
+* How do you approach pre-charting? In practice, what does that usually entail?
+* After a patient visit, what activities usually follow for you?
+* When you’re adding a note to a chart or placing orders, how do you like to structure that part of your workflow?
+* Which applications or tools are you using most frequently throughout a typical day?
 
-> [!NOTE]
-> ### Things to watch for:
-> - Pain points
-> - Findability
+## Navigation - 3 min
+* In what ways does PowerChart’s navigation support or disrupt natural clinical workflows (e.g., handoff, med reconciliation, order entry)?
+* How are you typically navigating between a Patient's chart and the Organizer?
 
-## Third Task: Labs and Vitals - 2 minutes
+## Workflow - 3 min
+* How do you adapt PowerChart to fit your workflow? Are there any tools, shortcuts, or workarounds you rely on?
+* How does navigating through Patient Details in PowerChart influence clinical decision-making?
 
-- [ ] Review Labs and Vitals
-- [ ] What are your initial impressions?
-- [ ] What is missing, if anything?
-- [ ] What information would you expect or like to see?
-- [ ] What actions would you want to take from here?
+## Multi-patient Safeguards - 3 min
+* Beyond the use of tabs, what safeguards does PowerChart provide to clearly signal context switching and help prevent documentation errors across patient charts? 
+* Have you run into any challenges with switching between patient charts?
 
-> [!NOTE]
-> ### Things to watch for:
-> - Desired data
-> - What's missing?
-> - What's useful?
+# Section 2 - Patient Details Enhancements - 20 min
 
-## Fourth Task: Key Conditions - 2 minutes
+## Bridge - 1 min
+* Now that you’ve shared your typical workflow, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype of the CDS Console and will ask for your initial impressions on what you see, and how this information compares to your typical workflow.
 
-- [ ] Review Labs and Vitals
-- [ ] What are your initial impressions?
-- [ ] What is missing, if anything?
-- [ ] What information would you expect or like to see?
-- [ ] What actions would you want to take from here?
-
-> [!NOTE]
-> ### Things to watch for:
-> - Desired data
-> - What's missing?
-> - What's useful?
-
-## Fifth Task: Medications - 2 minutes
-
-- [ ] Review Medications
-- [ ] What are your initial impressions?
-- [ ] What is missing, if anything?
-- [ ] What information would you expect or like to see?
-- [ ] What actions would you want to take from here?
-
-> [!NOTE]
-> ### Things to watch for:
-> - Desired data
-> - What's missing?
-> - What's useful?
+I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
 
 ## Prototype Intro - Moderator Controls:
-Next we’re going to look at a prototype of the [Patient Details prototype: https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=j234c9DpcmmY6BhP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966]. There are a few things I’d like you to keep in mind: 
+Next we’re going to look at a prototype of the [Patient Details prototype: https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=oFfZAfXPCZmhSQDA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735]. There are a few things I’d like you to keep in mind: 
 
 - I’ll describe a scenario and then give you a set of tasks to complete using the prototype.
 - This is a prototype and not the real application. [Non-coded interactive prototype: It closely matches the real application, but some things may not work as expected.] You may see placeholder information that doesn't match your own situation exactly and that's ok.
@@ -186,80 +171,114 @@ Next we’re going to look at a prototype of the application. There are a few th
 
 `[Describe clinical scenario and pull up prototype and share screen]`
 
-# Patient Details Enhancements w/ Prototype Questions - 20 minutes
-
 > [!NOTE]
 > ### Obejectives:
 > Gather initial feedback on patient details enhancements
-> Validate patient details enhancements on the Console and identify where the concepts can improve to support clinician efficiency and task flows to apps.
+> Validate patient details enhancements on the Console and identify where the concepts can improve to support clinician efficiency and task flows.
+> Gather value assessment in how Patient Details fits into workflow and aids in clinical decision making.
 
 > [!NOTE]
 > ### Key Outcomes:
 > Gather navigation input related to how clinicians transition from Patient Details to individual CDS apps for task completion.
 > Collect evidence to prioritize which patient detail enhancements on the Console (‘partial views’) should be considered for the Platform roadmap
 
+## Scenario - 1 min
+* Imagine that you are seeing one of your patients as part of a routine visit. 
+* First, you open the Patient List in PowerChart Organizer, and selects Sheba Harris, and opens the patient’s chart. Initially, you arrive on the Provider view. Then, you visit the Clinical Decision Support Console.
+* As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the Clinical Decision Support Console via the Table of Contents, and arrive here. [*You are currently with the patient.]
 
-### Bridge
-Now that you’ve seen what exists today within the Console, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype and will ask for your initial impressions on what you see, and what information you would like/expect to see to best support your workflow. 
+## Initial Impressions - 2 min
+* Given your workflow today, how do you imagine this fitting into your workflow? What's going through your mind as you review this information?
 
-I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. `[Share prototype with participant]`
+# Patient Details Enhancements - 15 min
 
-### Scenario
-Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
+## For each areas
+* What are your initial impressions?
+* What information/data would you expect to see?
+* What would you do next to care for this patient?
 
 ## First Task: Labs and Vitals - 2 minutes
+
+- [ ] Review Labs and Vitals
+- [ ] What are your initial impressions?
+- [ ] What is missing, if anything?
+- [ ] What information and details would best support your clinical decision making?
+- [ ] What actions would you want to take from here?
+- [ ] What information and details would you expect to see based on your role?
+
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
+
+## Second Task: Key Conditions - 2 minutes
+
 - [ ] Review Labs and Vitals
 - [ ] What are your initial impressions?
 - [ ] What is missing, if anything?
 - [ ] What information would you expect or like to see?
 - [ ] What actions would you want to take from here?
 
-## Second Task: Key Conditions - 2 minutes
-- [ ] What are your initial impressions?
-- [ ] What information/data would you expect to see?
-- [ ] What would you do next to care for this patient?
-- [ ] What might you expect to find if you clicked 'care pathways'?
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
 
-## Third Task: Key Medications - 2 minutes
+## Third Task: Medications - 2 minutes
+
+- [ ] Review Medications
 - [ ] What are your initial impressions?
-- [ ] What information/data would you expect to see?
+- [ ] What is missing, if anything?
+- [ ] What information would you expect or like to see? Imagine that based on their X score and the patient's high LDL you and your patient decide it's best to start on a statin. 
+- [ ] What actions would you want to take from here?
 - [ ] What order do you expect to see the medications in (alphabetical, fill date ascending or descending, grouped by class, etc)?
+- [ ] What details are important to aid in clinical decision making and why?
 
-## Fourth Task: Medical Calcualtors - 2 minutes
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
 
-Medcalc Tile
+## Fourth Task: Appointments - 2 minutes
+
+- [ ] Review Appointments
 - [ ] What are your initial impressions?
-- [ ] What information/data would you expect to see?
-- [ ] Imagine you are wanting to see what's driving the score for ASCVD, how would you do this?
+- [ ] What is missing, if anything?
+- [ ] What information and details are relevant regarding past appointments, how many past appointments would you expect to see, and why? For upcoming appointments, past?
+- [ ] What actions would you want to take from here?
+- [ ] Given your patient is on other medications that impact blood sugar, you want to monitor them closely and see them back in 2 months. Imagine you want to schedule a follow up with the patient - how would you go about doing that?
+- [ ] What details are important to aid in clinical decision making and why?
 
-ASCVD Detail
-- [ ] Imagine that based on this score and the patient's high LDL you and your patient decide it's best to start on a statin. However, given your patient is on other medications that impact blood sugar, you want to monitor them closely and see them back in 2 months. Walk me through how you find an appointment slot that works for you and the patient.
+## Fifth Task: Tasks - 2 minutes
 
-## Fifth Task: My Workweek - 2 minutes
-- [ ] What are your initial impressions?
-- [ ] What information/data would you expect to see? What information and details are relevant regarding past appointments, how many past appointments would you expect to see, and why? For upcoming appointments, past?
-- [ ] Imagine now you want to remind yourself to get your patient in for labs every 2 weeks. Walk me through how you would do this.
-
-## Sixth Task: Task Manager - 2 minutes
-- [ ] What are your initial impressions?
-- [ ] What information/data would you expect to see, related to tasks?
-- [ ] Would you expect to be able to add a task? Why, why not?
+- [ ] Review Tasks
 - [ ] What would you expect to drive what tasks show up here? (i.e. - due date, what is assigned to them, something else?)
 - [ ] Would you expect to see tasks here that don't pertain to your team? Why or why not?
 
 ## Order of Information - 2 minutes
+
 - [ ] What order would you expect to see this data in, to best support your workflow?
 
-## Workflow Preferences - 2 minutes
+## Preferences - 2 minutes
+
 - [ ] Would your preferences change whether you were viewing this data before, during, or after encounter? How might you expect the experience to be different?
 
-# ICN, Workflow Integration, Feedback & Support - 10 minutes
+
+> [!NOTE]
+> ### Things to watch for:
+> - Desired data
+> - What's missing?
+> - What's useful?
+
+
+# Section 3: ICN and Workflow Integration - 10 minutes
 
 * Lastly, we’d like to touch on patient identifiers, and we are curious about your familiarity with the ICN as an identifier.
 * Are you familiar with ICN?
 * If so, how do you use it today?
-* How would you expect to report an issue?
-* Imagine you want to rate your experience using the console today, how would you expect to do that? How would you expect to share satisfaction input related to the experience?
 * How do you the experience you just walked through fitting in with their current workflow?
 * If you could change one thing about how the CDS Console fits into your daily workflow, what would it be?
 
