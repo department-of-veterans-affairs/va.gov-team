@@ -20,7 +20,19 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 4. Address outstanding medium priority bugs
 
 **Engagement**: 
-
+1. [Rep Onboarding] Demo
+  - Colorado (155 reps)
+  - Arizona (78 reps)
+2. [Rep Onboarding] Bulk Contact Info Update
+  - Colorado
+  - NACVSO
+3. [Rep Onboarding] Connecting with national orgs from Batch 1 outreach and start with bulk contact info updates
+  - Fleet Reserve Association
+  - American Veterans
+  - Vietnam Veterans of America
+  - American Legion
+4. [Rep Onboarding] Identifying IGA contact to connect with state org leadership for Batch 1 outreach
+5. [Rep Communication] Map out where demo videos will live  
 
 ## Sprint 9 Demos
 
