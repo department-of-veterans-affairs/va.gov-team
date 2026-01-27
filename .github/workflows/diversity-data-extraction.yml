@@ -110,6 +110,15 @@ jobs:
               return placeholders.some(p => value.includes(p));
             };
             
+            // Helper function to check if a key is a valid demographic key (not a numeric index)
+            const isValidDemographicKey = (key) => {
+              // Skip numeric keys (from arrays), internal properties, and rate calculations
+              if (/^\d+$/.test(key)) return false;
+              if (key.endsWith('_rate')) return false;
+              if (key === 'rate') return false;
+              return true;
+            };
+            
             // Helper function to validate and parse date
             const parseDate = (dateStr) => {
               if (!dateStr || dateStr === 'unknown' || isPlaceholder(dateStr)) {
@@ -170,6 +179,25 @@ jobs:
                 .replace(/ At /gi, ' AT ')
                 .replace(/^Va /i, 'VA ')
                 .replace(/ Va /gi, ' VA ');
+            };
+            
+            // Helper to safely extract object data, skipping arrays and invalid entries
+            const safeExtractObject = (data) => {
+              if (!data || typeof data !== 'object' || Array.isArray(data)) {
+                return {};
+              }
+              const result = {};
+              for (const [key, value] of Object.entries(data)) {
+                if (isValidDemographicKey(key) && typeof value === 'number') {
+                  result[key] = value;
+                } else if (isValidDemographicKey(key) && typeof value === 'string') {
+                  const numVal = toInt(value);
+                  if (!isNaN(numVal)) {
+                    result[key] = numVal;
+                  }
+                }
+              }
+              return result;
             };
             
             // Find all findings files (only .md files, excluding binary formats)
@@ -358,90 +386,84 @@ jobs:
                 }
               }
               
-              // Devices
-              if (record.devices_used) {
-                for (const device of ['desktop', 'tablet', 'smartphone', 'assistive_technology']) {
-                  aggregated.devices[device] += toInt(record.devices_used[device]);
+              // Devices - safely extract
+              const deviceData = safeExtractObject(record.devices_used);
+              for (const device of ['desktop', 'tablet', 'smartphone', 'assistive_technology']) {
+                if (deviceData[device] !== undefined) {
+                  aggregated.devices[device] += toInt(deviceData[device]);
                 }
               }
               
               // AT inclusion tracking
-              const atCount = toInt(record.devices_used?.assistive_technology);
+              const atCount = toInt(deviceData.assistive_technology || 0);
               if (atCount > 0) {
                 aggregated.at_inclusion.studies_with_at++;
                 aggregated.at_inclusion.total_at_participants += atCount;
               }
               
-              // Age groups
-              if (record.demographics?.age) {
-                for (const [key, value] of Object.entries(record.demographics.age)) {
-                  if (aggregated.age.hasOwnProperty(key)) {
-                    aggregated.age[key] += toInt(value);
-                  } else {
-                    aggregated.age[key] = toInt(value);
-                  }
+              // Age groups - safely extract and aggregate
+              const ageData = safeExtractObject(record.demographics?.age);
+              for (const [key, value] of Object.entries(ageData)) {
+                if (aggregated.age.hasOwnProperty(key)) {
+                  aggregated.age[key] += toInt(value);
+                } else if (isValidDemographicKey(key)) {
+                  aggregated.age[key] = toInt(value);
                 }
               }
               
-              // Education
-              if (record.demographics?.education) {
-                for (const [key, value] of Object.entries(record.demographics.education)) {
-                  if (aggregated.education.hasOwnProperty(key)) {
-                    aggregated.education[key] += toInt(value);
-                  } else {
-                    aggregated.education[key] = toInt(value);
-                  }
+              // Education - safely extract and aggregate
+              const educationData = safeExtractObject(record.demographics?.education);
+              for (const [key, value] of Object.entries(educationData)) {
+                if (aggregated.education.hasOwnProperty(key)) {
+                  aggregated.education[key] += toInt(value);
+                } else if (isValidDemographicKey(key)) {
+                  aggregated.education[key] = toInt(value);
                 }
               }
               
-              // Location
-              if (record.demographics?.location) {
-                for (const [key, value] of Object.entries(record.demographics.location)) {
-                  if (aggregated.location.hasOwnProperty(key)) {
-                    aggregated.location[key] += toInt(value);
-                  } else {
-                    aggregated.location[key] = toInt(value);
-                  }
+              // Location - safely extract and aggregate
+              const locationData = safeExtractObject(record.demographics?.location);
+              for (const [key, value] of Object.entries(locationData)) {
+                if (aggregated.location.hasOwnProperty(key)) {
+                  aggregated.location[key] += toInt(value);
+                } else if (isValidDemographicKey(key)) {
+                  aggregated.location[key] = toInt(value);
                 }
               }
               
-              // Race
-              if (record.demographics?.race) {
-                for (const [key, value] of Object.entries(record.demographics.race)) {
-                  if (aggregated.race.hasOwnProperty(key)) {
-                    aggregated.race[key] += toInt(value);
-                  } else {
-                    aggregated.race[key] = toInt(value);
-                  }
+              // Race - safely extract and aggregate
+              const raceData = safeExtractObject(record.demographics?.race);
+              for (const [key, value] of Object.entries(raceData)) {
+                if (aggregated.race.hasOwnProperty(key)) {
+                  aggregated.race[key] += toInt(value);
+                } else if (isValidDemographicKey(key)) {
+                  aggregated.race[key] = toInt(value);
                 }
               }
               
-              // Disability
-              if (record.demographics?.disability) {
-                for (const [key, value] of Object.entries(record.demographics.disability)) {
-                  if (aggregated.disability.hasOwnProperty(key)) {
-                    aggregated.disability[key] += toInt(value);
-                  } else {
-                    aggregated.disability[key] = toInt(value);
-                  }
+              // Disability - safely extract and aggregate
+              const disabilityData = safeExtractObject(record.demographics?.disability);
+              for (const [key, value] of Object.entries(disabilityData)) {
+                if (aggregated.disability.hasOwnProperty(key)) {
+                  aggregated.disability[key] += toInt(value);
+                } else if (isValidDemographicKey(key)) {
+                  aggregated.disability[key] = toInt(value);
                 }
               }
             }
             
-            // Calculate rates
+            // Calculate rates (store separately, not in the main objects)
+            let atInclusionRate = '0.0%';
             if (aggregated.total_studies > 0) {
-              aggregated.at_inclusion.rate = (
+              atInclusionRate = (
                 (aggregated.at_inclusion.studies_with_at / aggregated.total_studies) * 100
               ).toFixed(1) + '%';
             }
             
-            if (aggregated.total_participants > 0) {
-              const locationTotal = aggregated.location.rural + aggregated.location.urban;
-              if (locationTotal > 0) {
-                aggregated.location.rural_rate = (
-                  (aggregated.location.rural / locationTotal) * 100
-                ).toFixed(1) + '%';
-              }
+            let ruralRate = null;
+            const locationTotal = aggregated.location.rural + aggregated.location.urban;
+            if (locationTotal > 0) {
+              ruralRate = ((aggregated.location.rural / locationTotal) * 100).toFixed(1);
             }
             
             // Output results
@@ -453,25 +475,6 @@ jobs:
             // Generate date-stamped filename
             const dateStamp = new Date().toISOString().split('T')[0];
             core.setOutput('date_stamp', dateStamp);
-            
-            // Helper to generate a section with counts
-            const generateSection = (title, data, excludeZeros = false) => {
-              const lines = [`### ${title}`, ''];
-              const entries = Object.entries(data).filter(([key, value]) => {
-                if (excludeZeros && value === 0) return false;
-                return typeof value === 'number';
-              });
-              
-              if (entries.length === 0) {
-                lines.push('_No data available_');
-              } else {
-                for (const [key, value] of entries) {
-                  lines.push(`- **${formatLabel(key)}:** ${value}`);
-                }
-              }
-              lines.push('');
-              return lines;
-            };
             
             // Create summary artifact - build it as an array then join
             const summaryLines = [
@@ -492,61 +495,74 @@ jobs:
             
             // Participant types
             for (const [key, value] of Object.entries(aggregated.participant_types)) {
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
             // Devices Used
             summaryLines.push('## Devices Used', '');
             for (const [key, value] of Object.entries(aggregated.devices)) {
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
             // AT Inclusion
             summaryLines.push('## Assistive Technology Inclusion', '');
-            summaryLines.push(`- **Studies with AT Users:** ${aggregated.at_inclusion.studies_with_at} (${aggregated.at_inclusion.rate || '0.0%'})`);
+            summaryLines.push(`- **Studies with AT Users:** ${aggregated.at_inclusion.studies_with_at} (${atInclusionRate})`);
             summaryLines.push(`- **Total AT Participants:** ${aggregated.at_inclusion.total_at_participants}`);
             summaryLines.push('');
             
             // Age Distribution
             summaryLines.push('## Age Distribution', '');
             for (const [key, value] of Object.entries(aggregated.age)) {
-              summaryLines.push(`- **${key}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${key}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
             // Education Levels
             summaryLines.push('## Education Levels', '');
             for (const [key, value] of Object.entries(aggregated.education)) {
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
             // Location
             summaryLines.push('## Geographic Location', '');
-            const locationTotal = aggregated.location.rural + aggregated.location.urban;
             for (const [key, value] of Object.entries(aggregated.location)) {
-              let rateStr = '';
-              if (key !== 'unknown' && locationTotal > 0) {
-                const rate = ((value / locationTotal) * 100).toFixed(1);
-                rateStr = ` (${rate}%)`;
+              if (isValidDemographicKey(key)) {
+                let rateStr = '';
+                if ((key === 'rural' || key === 'urban') && locationTotal > 0) {
+                  const rate = ((value / locationTotal) * 100).toFixed(1);
+                  rateStr = ` (${rate}%)`;
+                }
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}${rateStr}`);
               }
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}${rateStr}`);
             }
             summaryLines.push('');
             
             // Race/Ethnicity
             summaryLines.push('## Race/Ethnicity', '');
             for (const [key, value] of Object.entries(aggregated.race)) {
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
             // Disability and Assistive Technology Details
             summaryLines.push('## Disability & Assistive Technology Details', '');
             for (const [key, value] of Object.entries(aggregated.disability)) {
-              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              if (isValidDemographicKey(key)) {
+                summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+              }
             }
             summaryLines.push('');
             
