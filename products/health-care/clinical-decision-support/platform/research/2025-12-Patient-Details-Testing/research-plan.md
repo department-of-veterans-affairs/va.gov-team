@@ -175,7 +175,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### Recruitment criteria
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. This is helpful if getting recruitment assistance from CDSC peers.**
+- Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. This is helpful if getting recruitment assistance from CDSC peers.
 - Consider providing links to products and/or clear descriptions to ensure participants understand the question. 
   Example: Have you used CDS Medical Calcualtors in the last 6 months? [answer should be yes to qualify.]
 
