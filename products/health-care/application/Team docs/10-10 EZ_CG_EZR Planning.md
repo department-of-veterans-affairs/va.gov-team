@@ -56,7 +56,7 @@
      - [ ] Content for error state
      - [ ] Content update on file upload page
 - EZR Bug
-     - [ ] Fix schema validation errors (Ins info missing in array builder)
+     - [ ] Fix schema validation errors (Ins info missing in array builder) **NEED TICKET**
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Form status
      - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
