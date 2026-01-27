@@ -59,7 +59,7 @@ The [Solid Start Act](https://www.congress.gov/117/plaws/publ205/PLAW-117publ205
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
 
 ### What're you building
-Using a LoROTA (low risk one time authentication) approach, send Veterans a series of three emails over the course of the first year of their transition letting them know about what VA can offer them and allowing them to schedule a phone appointment with agents to learn even more. Create the scheduling workflow, then send confirmation and appointment reminder emails to Veterans. Enable Veterans to cancel this appointment.
+Using a [One-time passcode approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/solid-start-scheduling/engineering/api-authenicate.md), send Veterans a series of three emails over the course of the first year of their transition letting them know about what VA can offer them and allowing them to schedule a phone appointment with agents to learn even more. Create the scheduling workflow, then send confirmation and appointment reminder emails to Veterans. Enable Veterans to cancel this appointment.
 
 ### Go-to-market
 >
