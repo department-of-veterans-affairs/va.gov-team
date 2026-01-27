@@ -15,7 +15,7 @@ We will **not** be recruiting assistive technology users because the Figma proto
 
 ## Primary criteria (must-haves)
 - All participants have VA health care as a benefit  
-- 8 (minium) use the VA for their medications  
+- 8 (minimum) use the VA for their medications  
 - 7 have a traumatic brain injury or cognitive disability  
 - 7 are over 55 years old  
 - 6 are under 55 years old  
@@ -36,11 +36,11 @@ We will **not** be recruiting assistive technology users because the Figma proto
 
 1. **Do you receive VA healthcare benefits?**  
    - Yes (recruit)  
-   - No (do not recruit)
+   - No (not eligible for study)
 
 2. **Do you use the VA to get your medications?**  
    - Yes (recruit)  
-   - No (do not recruit)
+   - No (not eligible for study)
 
 3. **If you use the VA to get your medications, how often would you guess you place an order for your medications?**  
    - 1–2 times a year  
@@ -56,6 +56,11 @@ We will **not** be recruiting assistive technology users because the Figma proto
    - Prefer not to say *(this is a new option)*
 
 ## Timeline
+- Planning + Prep: ends by send to ReOps EOD Tuesday 1/27
+- Recruit sent to Perigean: Thursday, 1/29
+- Data collection (interviews): Tuesday, 2/10/26 - Monday, 2/23/26
+
+We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  More time can be made available based on Perigean’s needs
 
 ### Kick-off call with Perigean (proposed dates)
 - Thursday, January 22, 2026  
@@ -73,7 +78,7 @@ We will **not** be recruiting assistive technology users because the Figma proto
 ### Length of sessions
 - Session length: 60 minutes  
 - Buffer time between sessions: 30 minutes  
-- Maximum sessions per day: 4  
+- Maximum sessions per day: 3  
 
 ### Availability (all times EST)
 - Friday, February 6, 2026, 9:00 AM – 5:00 PM EST  
@@ -87,10 +92,11 @@ We will **not** be recruiting assistive technology users because the Figma proto
 - Wednesday, February 18, 2026, 9:00 AM – 5:00 PM EST  
 
 ## Team roles
-- Moderator: Florence McCafferty, Anneka Van Garza, Athena Bozak  
-- Research guide writing & task development: Cara Frissell, Florence McCafferty, Athena Bozak  
-- Participant recruiting & screening: Perigean  
-- Project point of contact: Florence McCafferty, Athena Bozak, Anneka Van Garza, Cara Frissell  
+- Moderator: Florence McCafferty, Anneka van Garza, Athena Bozak, Cara Frissell
+- Research guide writing and task development (usually but not always same as moderator): Cara Frissell, Florence McCafferty, Athena Bozak 
+- Participant recruiting & screening: Perigean
+- Project point of contact: Florence McCafferty, Athena Bozak,  Anneka van Garza, Cara Frissell
+
 
 ## Approvals
 - Reviewed by: Cara Frissell, Team Lead  
