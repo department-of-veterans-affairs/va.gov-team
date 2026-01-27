@@ -1,4 +1,67 @@
-
+---
+title: "Benefits Management Notifications Study Research Findings"
+product: "VA Benefits Management Notifications"
+team: "Benefits Management Tools (BMT)"
+office: "Office of the CTO - Digital Experience (OCTO-DE)"
+date: "2025-12-19"
+researchers: 
+  - "Naomi Howe"
+  - "Melissa Lefevre"
+research_goals:
+  - "Identify what information participants expect and find most useful in decision letter and evidence request notifications."
+  - "Explore which channels participants prefer and why for receiving decision letter and evidence request notifications."
+  - "Assess how content structure, tone, and sequencing influence understanding, trust, and task completion."
+  - "Explore barriers, trust, and accessibility issues across device types and literacy levels."
+methodology:
+  - "Semi-structured interviews"
+devices_used:
+    desktop: 6
+    tablet: 1
+    smartphone: 4
+    assistive_technology: 0
+participants_total: 11
+demographics:
+  veterans: 11
+  service_members:  0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
+  age: 
+    "25-34":  1
+    "35-44":  2
+    "45-54":  2
+    "55-64":  2
+    "65+": 4
+    unknown: 0
+  education: 
+    high_school: 0
+    some_college: 0
+    associates: 0
+    bachelors: 0
+    masters: 0
+    doctorate: 0
+    unknown: 0
+    # All report "some college or higher" (11), but does not specify levels, so this is left in unknown.
+  location: 
+    urban: 6
+    rural:  5
+    unknown: 0
+  race:
+    white: 0
+    black: 0
+    hispanic: 0
+    biracial: 0
+    asian: 0
+    native: 0
+    # Not specified; underserved groups missing include Hispanic/Latino, Native Hawaiian/Pacific Islander, etc.
+  disability:
+    cognitive: 0
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+   
+---
 # Benefits Management Notifications Research Findings
 
 **Office of the CTO – Digital Experience (OCTO-DE)**  
