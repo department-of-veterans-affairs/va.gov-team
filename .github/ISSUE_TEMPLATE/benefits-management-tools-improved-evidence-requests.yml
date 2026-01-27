@@ -1,6 +1,6 @@
 name: Evidence Request Content Creation
 description: Create or update content for a new evidence request type in the tracked item content migration
-title: "[Evidence Request]: [Display Name]"
+title: "Evidence Request Improvement: [Display Name]"
 labels: ["benefits-management-tools", "bmt-team-2", "evidence-requests", "engineering", "frontend", "backend"]
 body:
   - type: markdown
