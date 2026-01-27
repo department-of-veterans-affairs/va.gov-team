@@ -111,15 +111,12 @@ TBD
     2. Datadog: Surface latency for ITF — Patrick
 
 **Engagement**
-* Talk through the demo videos available (686c, Appoint a Rep + Rep Request)
-* Bulk contact update 
-    * VFW
-    * AZDVA
-    * PVA
-    * CO - in progress 
+* VSO Engagement Role
+* Demo videos available (686c, Appoint a Rep + Rep Request)
 * Process diagrams for onboarding deck
-* VSO Onboarding Strategy
-    * Batch 1
+* VSO Onboarding Strategy - Batch 1 (VSO CRM - Onboarding Status)
+* Bulk contact info update
+* December support report
 
 
 ## Sprint 8 Delivery
