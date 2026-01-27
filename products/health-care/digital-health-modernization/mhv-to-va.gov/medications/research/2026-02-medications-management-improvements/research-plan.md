@@ -86,11 +86,11 @@ We will **not** be recruiting assistive technology users because the Figma proto
 o Yes (recruit)
 o No (not eligible for study)
 
-2. Do you use the VA to get your medications?
+2. Do you use the VA to refill your medications?
 o Yes (recruit)
 o No (not eligible for study)
 
-3. If you use the VA to get your medications, how often would you guess you place an order for your medications?
+3. If you use the VA to get your medications, how often would you guess you place an order for your medications using the VA.gov website or the VA Health and Benefits mobile app?
 o 1–2 times a year
 o 3–4 times a year
 o 5–12 times a year
