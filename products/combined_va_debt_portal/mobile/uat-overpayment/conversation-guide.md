@@ -85,8 +85,8 @@ Start recording.
 First, I'd like you share your screen.
 
 Now I'm going to send you a link to get started with the test version of the app.
-- iOS directions
-- Android directions
+- [iOS directions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/uat-overpayment/pre-release_app-testing_iOS.md)
+- [Android directions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/uat-overpayment/pre-release_app-testing_android.md)
 
 ## Test paths
 
