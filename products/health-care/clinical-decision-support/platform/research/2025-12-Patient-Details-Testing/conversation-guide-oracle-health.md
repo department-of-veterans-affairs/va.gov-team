@@ -7,6 +7,7 @@ tags:
   - "Patient Details"
   - "CDS Console"
   - "Oracle Health use cases"
+  - "Oracle Health PowerChart"
 description: "Converstation guide for Console Patient Details Testing."
 ---
 # Conversation Guide for Patient Details User Testing - Oracle Health Users
