@@ -83,7 +83,7 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 |Sprint 22|Team 5|Spike: Adding event tracking for Side Nav MVP launch|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129504|3|Done| |
 |Sprint 22|Team 5|Conduct internal foundational accessibility testing for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129468|2|Done|S22: Added 1/15 after we refined the ticket and confirmed Will's capacity for S22.|
 |Sprint 22|Team 5|Meet with the Design council on 1/15|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128571|2|Done| |
-|Sprint 22|Team 5|Research "| Create and finalize readout presentation deck|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129587|2|Done| |
+|Sprint 22|Team 5|Research: Create and finalize readout presentation deck|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129587|2|Done| |
 |Sprint 22|Team 5|Submit Analytics Request for Side Nav MVP GA4 custom events|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129506|2|Done| |
 |Sprint 22|Team 5|Explore baseline metrics for current start/restart experience|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129313|5|Done| |
 |Sprint 22|Team 5|Address Bug Bash Findings|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129543|3|Done| |
