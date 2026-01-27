@@ -68,6 +68,22 @@ TBD
 
 **Engagement**
 
+|Title|URL|Status|Estimate|
+|---|---|---|---|
+|[ Arizona Department of Veterans' Services ] Run the Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130394|Done|1|
+|Provide video feedback|https://github.com/department-of-veterans-affairs/va.gov-team/issues/121183|Blocked|2|
+|Identify unaccredited certifying officials|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129082|Blocked|2|
+|[ Colorado Division of Veteran Affairs ] Schedule meeting|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129143|Blocked|1|
+|[ Veterans of Foreign Wars ] Coordinate 230 missing emails from original update|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130984|Blocked|2|
+|Coordinate with VSO Liaison for Batch 1 outreach|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126514|In Progress|1|
+|[ NACVSO ] Generate spreadsheet with single accredited reps with missing emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128282|In Progress|2|
+|Map out where the demo videos will need to be implemented|https://github.com/department-of-veterans-affairs/va.gov-team/issues/121187|Sprint Backlog|2|
+|[ Arizona Department of Veterans' Services ] Schedule meeting|https://github.com/department-of-veterans-affairs/va.gov-team/issues/124867|Sprint Backlog|1|
+|[ Colorado Division of Veteran Affairs ] Conduct meeting|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129144|Sprint Backlog|1|
+|[ Colorado Division of Veteran Affairs ] Coordinate bulk contact info update|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129150|Sprint Backlog|2|
+|[ Fleet Reserve Association ] Generate spreadsheet with missing emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130969|Sprint Backlog|2|
+|Content / Review the Get-Help section for Improvements|https://github.com/department-of-veterans-affairs/va.gov-team/issues/122014|Draft|
+
 **Leadership**
 
 # Sprint 8 (Jan 13-26, 2026)
