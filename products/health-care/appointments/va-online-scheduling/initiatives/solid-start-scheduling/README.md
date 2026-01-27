@@ -73,7 +73,7 @@ Veteran outreach is built into the workflow with the initial emails.
 
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117928)
 - PO Sync
-- Architecture Review
+- [Architecture Review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/checkin-vass-01132026.md)
 - Design Intent
 - Midpoint
 - Staging
