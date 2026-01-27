@@ -1,0 +1,311 @@
+# .github/workflows/diversity-data-extraction.yml
+#
+# Purpose: Extract participant demographic data from research findings reports
+# and aggregate for quarterly diversity reporting.  Runs on new findings commits
+# and weekly for aggregation.
+#
+# Repository: va.gov-team (with sparse checkout)
+# Reports pushed to: va.gov-research-repository/reports/quarterly-reports/diversity-reports/
+
+name: Diversity Data Extraction
+
+on: 
+  push:
+    paths:
+      - 'products/**/research/**/*findings*.md'
+      - 'teams/**/research/**/*findings*.md'
+  schedule:
+    # Run weekly on Mondays at 8:00 AM ET (13:00 UTC) for aggregation
+    - cron: '0 13 * * 1'
+  workflow_dispatch: 
+    inputs:
+      full_scan:
+        description: 'Run full repository scan (slow)'
+        required: false
+        default: 'false'
+        type: boolean
+      dry_run:
+        description: 'Test run - do not push to research repository'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  extract-diversity-data: 
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    
+    steps: 
+      - name: Sparse Checkout - Research Findings Only
+        if: ${{ github.event.inputs.full_scan != 'true' }}
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            products/**/research
+            teams/**/research
+          sparse-checkout-cone-mode: false
+          fetch-depth: 1
+      
+      - name: Full Checkout
+        if: ${{ github.event.inputs.full_scan == 'true' }}
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with: 
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: |
+          npm install js-yaml glob
+      
+      - name: Extract demographic data from findings
+        id: extract
+        uses: actions/github-script@v7
+        with: 
+          script: |
+            const fs = require('fs');
+            const yaml = require('js-yaml');
+            const { glob } = require('glob');
+            
+            // Find all findings files
+            const files = await glob('**/research/**/*findings*.md', {
+              ignore: ['node_modules/**', '.git/**']
+            });
+            
+            console.log(`Found ${files.length} research findings files`);
+            
+            const allDemographics = [];
+            const errors = [];
+            
+            for (const file of files) {
+              try {
+                const content = fs.readFileSync(file, 'utf8');
+                
+                // Extract YAML front matter
+                const yamlMatch = content.match(/^---\n([\s\S]*?)\n---/);
+                if (!yamlMatch) {
+                  continue; // No YAML front matter
+                }
+                
+                const frontMatter = yaml.load(yamlMatch[1]);
+                
+                // Check if demographics data exists
+                if (frontMatter.demographics || frontMatter.participants_total) {
+                  const record = {
+                    file: file,
+                    date: frontMatter.date || 'unknown',
+                    product: frontMatter.product || 'unknown',
+                    team: frontMatter.team || 'unknown',
+                    participants_total: frontMatter.participants_total || 0,
+                    demographics: frontMatter.demographics || {},
+                    devices_used: frontMatter.devices_used || {},
+                    methodology: frontMatter.methodology || []
+                  };
+                  
+                  allDemographics.push(record);
+                }
+              } catch (err) {
+                errors.push({ file, error: err.message });
+              }
+            }
+            
+            console.log(`Extracted demographics from ${allDemographics.length} files`);
+            console.log(`Errors: ${errors.length}`);
+            
+            // Aggregate data
+            const aggregated = {
+              extraction_date: new Date().toISOString(),
+              total_studies: allDemographics.length,
+              total_participants: 0,
+              at_inclusion: { studies_with_at: 0, total_at_participants: 0 },
+              location: { rural: 0, urban: 0, unknown: 0 },
+              disability: {},
+              age: {},
+              race: {},
+              devices: { desktop: 0, tablet: 0, smartphone: 0, assistive_technology: 0 }
+            };
+            
+            for (const record of allDemographics) {
+              aggregated.total_participants += record.participants_total || 0;
+              
+              // AT inclusion
+              const atCount = record.devices_used?.assistive_technology || 0;
+              if (atCount > 0) {
+                aggregated.at_inclusion.studies_with_at++;
+                aggregated.at_inclusion.total_at_participants += atCount;
+              }
+              
+              // Location
+              if (record.demographics?.location) {
+                aggregated.location.rural += record.demographics.location.rural || 0;
+                aggregated.location.urban += record.demographics.location.urban || 0;
+                aggregated.location.unknown += record.demographics.location.unknown || 0;
+              }
+              
+              // Devices
+              if (record.devices_used) {
+                aggregated.devices.desktop += record.devices_used.desktop || 0;
+                aggregated.devices.tablet += record.devices_used.tablet || 0;
+                aggregated.devices.smartphone += record.devices_used.smartphone || 0;
+                aggregated.devices.assistive_technology += record.devices_used.assistive_technology || 0;
+              }
+              
+              // Aggregate other demographics (race, age, disability)
+              for (const category of ['race', 'age', 'disability']) {
+                if (record.demographics?.[category]) {
+                  for (const [key, value] of Object.entries(record.demographics[category])) {
+                    if (typeof value === 'number') {
+                      aggregated[category] = aggregated[category] || {};
+                      aggregated[category][key] = (aggregated[category][key] || 0) + value;
+                    }
+                  }
+                }
+              }
+            }
+            
+            // Calculate rates
+            if (aggregated.total_studies > 0) {
+              aggregated.at_inclusion.rate = (
+                (aggregated.at_inclusion.studies_with_at / aggregated.total_studies) * 100
+              ).toFixed(1) + '%';
+            }
+            
+            if (aggregated.total_participants > 0) {
+              const locationTotal = aggregated.location.rural + aggregated.location.urban;
+              if (locationTotal > 0) {
+                aggregated.location.rural_rate = (
+                  (aggregated.location.rural / locationTotal) * 100
+                ).toFixed(1) + '%';
+              }
+            }
+            
+            // Output results
+            core.setOutput('aggregated', JSON.stringify(aggregated, null, 2));
+            core.setOutput('study_count', allDemographics.length);
+            core.setOutput('participant_count', aggregated.total_participants);
+            
+            // Generate date-stamped filename
+            const dateStamp = new Date().toISOString().split('T')[0];
+            core.setOutput('date_stamp', dateStamp);
+            
+            // Create summary artifact
+            const summary = `# Diversity Data Extraction Summary
+
+**Extraction Date:** ${aggregated.extraction_date}
+
+## Overview
+- **Total Studies:** ${aggregated.total_studies}
+- **Total Participants:** ${aggregated.total_participants}
+
+## AT Inclusion
+- **Studies with AT Users:** ${aggregated.at_inclusion.studies_with_at} (${aggregated.at_inclusion.rate})
+- **Total AT Participants:** ${aggregated.at_inclusion.total_at_participants}
+
+## Location Representation
+- **Rural:** ${aggregated.location.rural} (${aggregated.location.rural_rate || 'N/A'})
+- **Urban:** ${aggregated.location.urban}
+
+## Devices Used
+- Desktop: ${aggregated.devices.desktop}
+- Tablet: ${aggregated.devices.tablet}
+- Smartphone: ${aggregated.devices.smartphone}
+- Assistive Technology: ${aggregated.devices.assistive_technology}
+`;
+            
+            fs.writeFileSync('diversity-summary.md', summary);
+            fs.writeFileSync('diversity-data.json', JSON.stringify(aggregated, null, 2));
+      
+      - name: Upload diversity data artifact
+        uses: actions/upload-artifact@v4
+        with: 
+          name: diversity-data-${{ github.run_id }}
+          path: |
+            diversity-summary.md
+            diversity-data.json
+          retention-days: 90
+      
+      - name: Push reports to va.gov-research-repository
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.RESEARCH_REPO_TOKEN }}
+        run: |
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Clone the research repository
+          git clone https://x-access-token:${GH_TOKEN}@github.com/department-of-veterans-affairs/va.gov-research-repository.git research-repo
+          
+          cd research-repo
+          
+          # Create reports directory structure if it doesn't exist
+          mkdir -p reports/quarterly-reports/diversity-reports
+          
+          # Copy the generated reports with date-stamped names
+          DATE_STAMP="${{ steps.extract.outputs.date_stamp }}"
+          cp ../diversity-summary.md "reports/quarterly-reports/diversity-reports/diversity-summary-${DATE_STAMP}.md"
+          cp ../diversity-data.json "reports/quarterly-reports/diversity-reports/diversity-data-${DATE_STAMP}.json"
+          
+          # Also maintain a "latest" copy for easy access
+          cp ../diversity-summary.md "reports/quarterly-reports/diversity-reports/diversity-summary-latest.md"
+          cp ../diversity-data.json "reports/quarterly-reports/diversity-reports/diversity-data-latest.json"
+          
+          # Create/update the reports README if it doesn't exist
+          if [ ! -f "reports/quarterly-reports/diversity-reports/README.md" ]; then
+            cat > reports/quarterly-reports/diversity-reports/README.md << 'EOF'
+          # Diversity Reports
+
+          This folder contains automatically generated diversity data reports from research findings.
+
+          ## Report Files
+
+          - `diversity-summary-latest.md` - Most recent summary report
+          - `diversity-data-latest.json` - Most recent data in JSON format
+          - Date-stamped versions (e.g., `diversity-summary-2026-01-27.md`) are retained for historical tracking
+
+          ## Data Source
+
+          These reports are automatically generated from research findings in the va.gov-team repository.
+          They aggregate participant demographic data for quarterly diversity reporting.
+
+          ## Update Schedule
+
+          Reports are updated:
+          - On every push to research findings files
+          - Weekly on Mondays at 8:00 AM ET
+          EOF
+          fi
+          
+          # Check if there are changes to commit
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git add reports/
+            git commit -m "Update diversity data reports - ${DATE_STAMP}
+
+          Automated extraction from va.gov-team research findings.
+          
+          Studies analyzed: ${{ steps.extract.outputs.study_count }}
+          Total participants: ${{ steps.extract.outputs.participant_count }}
+          
+          Generated by: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            
+            git push
+            echo "Reports pushed successfully to va.gov-research-repository"
+          fi
+      
+      - name: Dry run notice
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        run: |
+          echo "::notice::DRY RUN - Reports were generated but NOT pushed to va.gov-research-repository"
+          echo "## 🧪 Dry Run Mode" >> $GITHUB_STEP_SUMMARY
+          echo "Reports were generated and uploaded as artifacts but **not pushed** to va.gov-research-repository." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+      
+      - name: Post summary
+        run: |
+          cat diversity-summary.md >> $GITHUB_STEP_SUMMARY
