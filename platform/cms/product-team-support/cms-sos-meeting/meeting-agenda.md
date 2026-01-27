@@ -3,6 +3,9 @@ This Scrum of Scrum (SoS) meeting is to ensure all teams working with the Drupal
 
 ### Running Agenda
 
+2/2/2026
+*  CMS team is revisitng incident management for critical URLs. For an incidents with homepage, is there a best way that we can quickly notify a Sitewide engineer for support?
+
 1/22/2026
 *  Rescheduling this meeting so that more OCTO folks can join. Does Mondays work for folxs?
 *  Changes to template migration process:
