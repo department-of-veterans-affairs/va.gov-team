@@ -74,6 +74,12 @@ jobs:
             const yaml = require('js-yaml');
             const globModule = require('glob');
             
+            // Helper function to safely parse integers
+            const toInt = (value) => {
+              const parsed = parseInt(value, 10);
+              return isNaN(parsed) ? 0 : parsed;
+            };
+            
             // Find all findings files (only .md files, excluding binary formats)
             const files = await globModule.glob('**/research/**/*findings*.md', {
               ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx']
@@ -103,7 +109,7 @@ jobs:
                     date: frontMatter.date || 'unknown',
                     product: frontMatter.product || 'unknown',
                     team: frontMatter.team || 'unknown',
-                    participants_total: frontMatter.participants_total || 0,
+                    participants_total: toInt(frontMatter.participants_total),
                     demographics: frontMatter.demographics || {},
                     devices_used: frontMatter.devices_used || {},
                     methodology: frontMatter.methodology || []
@@ -133,10 +139,10 @@ jobs:
             };
             
             for (const record of allDemographics) {
-              aggregated.total_participants += record.participants_total || 0;
+              aggregated.total_participants += toInt(record.participants_total);
               
               // AT inclusion
-              const atCount = record.devices_used?.assistive_technology || 0;
+              const atCount = toInt(record.devices_used?.assistive_technology);
               if (atCount > 0) {
                 aggregated.at_inclusion.studies_with_at++;
                 aggregated.at_inclusion.total_at_participants += atCount;
@@ -144,26 +150,27 @@ jobs:
               
               // Location
               if (record.demographics?.location) {
-                aggregated.location.rural += record.demographics.location.rural || 0;
-                aggregated.location.urban += record.demographics.location.urban || 0;
-                aggregated.location.unknown += record.demographics.location.unknown || 0;
+                aggregated.location.rural += toInt(record.demographics.location.rural);
+                aggregated.location.urban += toInt(record.demographics.location.urban);
+                aggregated.location.unknown += toInt(record.demographics.location.unknown);
               }
               
               // Devices
               if (record.devices_used) {
-                aggregated.devices.desktop += record.devices_used.desktop || 0;
-                aggregated.devices.tablet += record.devices_used.tablet || 0;
-                aggregated.devices.smartphone += record.devices_used.smartphone || 0;
-                aggregated.devices.assistive_technology += record.devices_used.assistive_technology || 0;
+                aggregated.devices.desktop += toInt(record.devices_used.desktop);
+                aggregated.devices.tablet += toInt(record.devices_used.tablet);
+                aggregated.devices.smartphone += toInt(record.devices_used.smartphone);
+                aggregated.devices.assistive_technology += toInt(record.devices_used.assistive_technology);
               }
               
               // Aggregate other demographics (race, age, disability)
               for (const category of ['race', 'age', 'disability']) {
                 if (record.demographics?.[category]) {
                   for (const [key, value] of Object.entries(record.demographics[category])) {
-                    if (typeof value === 'number') {
+                    const numValue = toInt(value);
+                    if (numValue > 0) {
                       aggregated[category] = aggregated[category] || {};
-                      aggregated[category][key] = (aggregated[category][key] || 0) + value;
+                      aggregated[category][key] = (aggregated[category][key] || 0) + numValue;
                     }
                   }
                 }
