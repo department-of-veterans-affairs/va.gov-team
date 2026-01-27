@@ -367,7 +367,7 @@ Based on the research findings, we recommend the following immediate actions:
 
 1. **Prioritize clinical use cases**: Review and prioritize the 23 clinical use cases identified in this research (see Clinical Use Cases section) based on workflow impact and research evidence, with program lead support to align on scope and sequencing. [#241 Prioritize use cases to ground design work](https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/241)
 
-2. **Prototype thin slices**: Create design concepts for prioritized use cases through cross-functional pairing (design, product, engineering) to iterate, validate, and test open assumptions this quarter.
+2. **Prototype thin slices**: Create design concepts for prioritized use cases through cross-functional pairing (design, product, engineering) to iterate, validate, and test open assumptions in FY '26 Q2. [#243 Create Patient Details design concept](https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/243)
 
 3. **Assess technical feasibility**: Evaluate low-hanging opportunities and technical feasibility to identify near-term wins and clarify longer-term dependencies, particularly around:
    - Enabling direct actions from Patient Details
