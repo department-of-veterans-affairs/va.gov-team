@@ -43,7 +43,7 @@ The goals of the Medications experience is to enable and support Veteran users i
 60 minute video interviews over Zoom.  We will rotate the order in which tasks are asked of participants.  
 
 ## Research Materials
-● [Link to conversation guide](url goes here)  
+● [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2026-02-medications-management-improvements/conversation-guide.md)  
 ● Link to prototype  
 
 ---
