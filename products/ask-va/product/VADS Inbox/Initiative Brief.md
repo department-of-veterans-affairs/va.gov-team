@@ -39,7 +39,7 @@ Ask VA users want to easily and quickly view their submitted questions using; se
 
 Update the Ask VA inbox by implementing the VADS guidance and new standard, https://design.va.gov/components/search-filter.
 
-## Outcomes - HERE AND BELOW STEPHANIE IS REVISING
+## Outcomes
 - **User experience outcomes**: Users have an accessible and easy interaction with their personalized inbox.
 -  **Functional outcomes**:  The VADS guidance and standard operates correctly with Ask VA application.
 - **Business outcomes**: Improved inbox usability and efficiency for Ask VA users.  Decreased dissatisfied feedback collected via the feedback button and intercept survey responses.
