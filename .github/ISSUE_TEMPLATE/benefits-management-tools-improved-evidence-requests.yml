@@ -210,19 +210,21 @@ body:
       required: false
 
   - type: textarea
-    id: design_reference
-    attributes:
-      label: Design Reference
-      description: Link to Figma designs, mockups, or other visual references
-      placeholder: "https://www.figma.com/..."
-    validations:
-      required: false
-
-  - type: textarea
     id: additional_context
     attributes:
       label: Additional Context
       description: Any other relevant information, edge cases, or considerations
+    validations:
+      required: false
+
+  - type: textarea
+    id: links_resources
+    attributes:
+      label: Links & Resources
+      description: Relevant links, documentation, designs, mockups, visual referenecs or related issues
+      placeholder: |
+        - [#issue number]
+        - [link]
     validations:
       required: false
 
@@ -233,6 +235,7 @@ body:
       description: How will we know this content is complete and correct?
       value: |
         - [ ] Content is added to `lib/lighthouse/benefits_claims/tracked_item_content/override_content.json`
+          - [ ] the `displayName` is added as to the `supportedAliases` array
         - [ ] JSON validates against the schema
         - [ ] Content tested in staging environment
         - [ ] Visual review confirms content renders correctly
@@ -241,14 +244,3 @@ body:
         - [ ] End-to-end tests added/updated
     validations:
       required: true
-
-  - type: textarea
-    id: links_resources
-    attributes:
-      label: Links & Resources
-      description: Relevant links, documentation, or related issues
-      placeholder: |
-        - [#issue number]
-        - [link]
-    validations:
-      required: false
