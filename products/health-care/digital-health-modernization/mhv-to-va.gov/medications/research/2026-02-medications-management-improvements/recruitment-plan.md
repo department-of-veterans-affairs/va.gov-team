@@ -8,7 +8,7 @@ We will partner with Perigean to recruit Veterans. We will request a kickoff mee
 - Ideal completed sessions: **9 (minimum)**  
 - Caregivers: 0  
 - Dependents: 0  
-- Device requirement: All participants must join from a secure connection on a **laptop** or **desktop**  
+- Device requirement: All participants must join from a secure connection on a **laptop** or **desktop**
 
 ## Accessibility note
 We will **not** be recruiting assistive technology users because the Figma prototype is not fully compatible with assistive technologies and cannot be reliably tested with screen readers or similar tools.
@@ -30,7 +30,6 @@ We will **not** be recruiting assistive technology users because the Figma proto
 - No more than 4 have a bachelor’s or master’s degree as terminal degree
 
 <img width="784" height="880" alt="image" src="https://github.com/user-attachments/assets/56e43cf9-b50c-46e8-b7a0-e50ecb781e88" />
-
 
 ## Screener questions
 
@@ -56,14 +55,13 @@ We will **not** be recruiting assistive technology users because the Figma proto
    - Prefer not to say *(this is a new option)*
 
 ## Timeline
-- Planning + Prep: ends by send to ReOps EOD Tuesday 1/27
-- Recruit sent to Perigean: Thursday, 1/29
-- Data collection (interviews): Tuesday, 2/10/26 - Monday, 2/23/26
-
-We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  More time can be made available based on Perigean’s needs
+- Planning + Prep: ends by send to ReOps EOD Tuesday 1/27  
+- Recruit sent to Perigean: Thursday, 1/29  
+- Data collection (interviews): Tuesday, 2/10/26 - Monday, 2/23/26  
 
 ### Kick-off call with Perigean (proposed dates)
-- TBD 
+We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below. More time can be made available based on Perigean’s needs
+- TBD
 
 ### Prepare (pilot)
 - Pilot participant name: Veteran from MHV Team  
@@ -79,6 +77,8 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 - Maximum sessions per day: 3  
 
 ### Availability (all times EST)
+
+Please include a 30-minute buffer between sessions.
 
 **Tuesday, 2/10**  
 - 11:00am EST – Cara, Anneka, Florence, Athena  
@@ -128,15 +128,13 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 - 12:00pm EST – Florence, Athena  
 - 1:00pm EST – Florence, Athena  
 - 2:00pm EST – Anneka, Athena  
- 
-## Team roles
-- Moderator: Florence McCafferty, Anneka van Garza, Athena Bozak, Cara Frissell
-- Research guide writing and task development (usually but not always same as moderator): Cara Frissell, Florence McCafferty, Athena Bozak 
-- Participant recruiting & screening: Perigean
-- Project point of contact: Florence McCafferty, Athena Bozak,  Anneka van Garza, Cara Frissell
 
+## Team roles
+- Moderator: Florence McCafferty, Anneka van Garza, Athena Bozak, Cara Frissell  
+- Research guide writing and task development (usually but not always same as moderator): Cara Frissell, Florence McCafferty, Athena Bozak  
+- Participant recruiting & screening: Perigean  
+- Project point of contact: Florence McCafferty, Athena Bozak, Anneka van Garza, Cara Frissell  
 
 ## Approvals
 - Reviewed by: Cara Frissell, Team Lead  
 - Reviewed by: Robyn Singleton, OCTO Research-Ops Lead  
-
