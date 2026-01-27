@@ -275,18 +275,24 @@ Screener question 1
     * I do not currently owe any of the above types of VA debt. [DISQUALIFY]
 
 Screener question 2
+* When you sign in to VA.gov and go to your debt information, can you see details about an overpayment (for example: amount owed, type of debt, status, or payment options)?
+    * Yes, I can see my overpayment debt details on VA.gov
+    * No, I don’t see any overpayment debt details on VA.gov [DISQUALIFY]
+    * I don’t have a VA.gov account / I can’t sign in right now [DISQUALIFY]
+
+Screener question 3
 * We’re conducting a study to test a new feature for viewing VA debt in the mobile app, using a preview version of the app. To participate, you’ll need to log in to the preview app using your real VA credentials so we can confirm everything is working correctly. Please confirm if you are comfortable with this:
     * I am willing to log in to the mobile app with my real credentials and share my screen during the session.
     * I am willing to log in to the mobile app with my real credentials, describe what I am seeing on screen, but NOT share my screen.
     * I am not comfortable logging in with my real credentials for this study. [DISQUALIFY]
 
-Screener question 3
+Screener question 4
 * Are you able to join the Zoom session from a smartphone? Any kind of smartphone will work as long as it connects to the internet.
     * Yes, I have an iPhone where I can join the session
     * Yes, I have an Android phone where I can join the session (for example: Samsung, Google, Motorola, or LG)
     * No [DISQUALIFY]
 
-Screener question 4
+Screener question 5
 * When interacting with apps on your smartphone, do you usually adjust the standard display or use accessibility features? Please select all that apply.
     * I mostly use the phone's standard display settings.
     * I often increase the text size significantly.
@@ -295,7 +301,7 @@ Screener question 4
     * Other
     * Prefer not to say
 
-Screener question 5
+Screener question 6
 * **Question text:** Please review the technical requirements below. To participate in this study, you must confirm that you meet these specifications and are comfortable with the following steps:
     * VA Credentials: You have a username & password for ID.me or Login.gov and can access your two-factor authentication (text code or app).
     * Email Access: You can open your email directly on your mobile phone to click the test link.
