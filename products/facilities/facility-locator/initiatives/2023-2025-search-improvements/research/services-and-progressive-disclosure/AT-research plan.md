@@ -23,7 +23,7 @@ In the Non-AT portion of this research in October 2025, we learned that while us
   * Veterans and their families can successfully perform different facility searches using the progressive disclosure function. 
 
 * [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)  
-* Link to card in research repo 
+* [Link to card in research repo] (https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/1249) 
 
 
 ## **OCTO Priorities**
