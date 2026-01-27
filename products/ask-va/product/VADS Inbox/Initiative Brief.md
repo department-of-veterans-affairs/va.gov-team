@@ -80,9 +80,10 @@ How to measure decrease in dissatisfied feedback re; inbox usability = monthy co
 
 Should we isoloate this data per user to identify subset of users that remain  dissatisfied?
 
--Monitor average engagement time per active user, determine metric target
+- Monitor average engagement time per active user, determine metric target
 Data Example (Dec 1 - Dec 31, 2025)
-<img width="1990" height="633" alt="image" src="https://github.com/user-attachments/assets/4faf5c8c-54e3-4a72-94f8-93aa4eb035b8" />
+<img width="1990" height="633" alt="image" src="https://github.com/user-attachments/assets/8929cf5f-9b32-4a1f-9b1b-d95d2ba91548" />
+
 
 ## Release plan (to be determined)
 [input release plan]
