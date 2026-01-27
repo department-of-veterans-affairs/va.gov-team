@@ -20,22 +20,23 @@
 ## Research Goals
 
 ### Outcomes
-The goals of the Medications experience is to enable and support Veteran users in managing their medications.  This ordering, tracking, reviewing and sharing information about their medications from the VA.  Broadly, the goal of this research is to inform and evaluate a design solution that 1) helps users find their specific medications via, among other tactics, filter and sort, 2) understand the phases of medication processing and its implications for them, and 3) move between information and features to accomplish multiple key tasks.  The insights that come out of this research will inform the design solution implemented and illuminate what features the team should prioritize for future iterations. 
+The goals of the Medications experience is to enable and support Veteran users in managing their medications.  This includes ordering, tracking, reviewing and sharing information about their medications from the VA.  Broadly, the goal of this research is to inform and evaluate a design solution that 1) helps users find their specific medications via, among other tactics, filter and sort, 2) understand the phases of medication processing and its implications for them, and 3) move between information and features to accomplish multiple key tasks.  The insights that come out of this research will inform the design solution implemented and illuminate what features the team should prioritize for future iterations. 
 
 ## Research Questions
-1. Based on the design solution, can users understand and orient themselves to the VA’s medication processes and what it means for them?
-a. How do they conceptualize the process based on their previous experience?
-b. Do they notice the phases? What do they think the phases mean? What options do they see at each point? 
+1. Based on the design solution, can users understand the VA’s medication processes well enough to complete their key medications tasks?
+   - a. How do they conceptualize the process based on their previous experience?
+   - b. Do they notice the phases of in progress medications? (Request submitted, refill in progress, shipped)? What do they think the phases mean? What options do they see at each point?
 
 2. Can users accurately locate the information they need about where a medication is in the renew, refill and order process, what next steps are available and how to execute on those?
-a. If not, where do they struggle?  What are the most common stumbling blocks?
-b. What words and language help users make sense of what is going on with their medication? What words and language confuse them?
-c. What key words or terms do users look for when trying to find information about refilling medications, tracking medications or printing a list of their medications?
+   - a. If not, where do they struggle? What are the most common stumbling blocks?
+   - b. What words and language help users make sense of what is going on with their medication? What words and language confuse them?
+   - c. What key words or terms do users look for when trying to find information about refilling medications, tracking medications or printing a list of their medications?
 
-3. How do users move between the different interfaces of the Medications experience? What navigational tactics do users notice and use?   How helpful is each one in supporting users in accomplishing their key task? Specifically, how do they respond to the navigational tactics deployed in the design related to
-a. filtering and sorting medications
-b. page hierarchy
-c. text based cross - links
+3. How do users move between the different interfaces of the Medications experience? What navigational tactics do users notice and use? How helpful is each one in supporting users in accomplishing their key task? Specifically, how do they respond to the navigational tactics deployed in the design related to:
+   - a. filtering and sorting medications
+   - b. page hierarchy
+   - c. text based cross - links
+
 
 ## Methodology 
 ### Location
