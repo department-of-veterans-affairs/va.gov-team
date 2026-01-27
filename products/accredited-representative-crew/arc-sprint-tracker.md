@@ -8,7 +8,9 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 - [ ] Sprint Goals Approved by Enablement   
 
 **Team Accreditation**: 
-
+1. **Enable Individual Acceptance of Representation Requests**: Design work, resolving open engineering questions and beginning development
+2. **[Rep Data] Address Approximation**: Pending Mapbox API key, complete testing and prepare for deployment
+3. **ARC Team Onboarding and Setup**: Getting Shaunna onboarded
 
 **Team Benefits**:
 
@@ -45,6 +47,20 @@ TBD
 ## Sprint 9 Tickets
 
 **Team Accreditation**
+
+|Title|URL|Status|Estimate|
+|---|---|---|---|
+|Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120822|PR Review|5|
+|Write a job to populate the 'new' accredited entities using data from Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129161|PR Review|5|
+|Chapter 6: Ensure fields align, use schema for validation, unit tests|https://github.com/department-of-veterans-affairs/va.gov-team/issues/112535|Blocked|3|
+|Implementing frontend changes associated with Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129436|Blocked|5|
+|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5|
+|Design: Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130549|Sprint Backlog|5|
+|Implement new data model in veteran module|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130643|Sprint Backlog|5|
+|Update data ingestion job and populate join table|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130645|Sprint Backlog|5|
+|General Onboarding to VA [Shaunna]|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130624|Sprint Backlog|5|
+|Coordination / Process for maintenance of permissions|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130735|Sprint Backlog|3|
+|Contact Center update for Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130548|Sprint Backlog|2|
 
 **Team Benefits**
 
@@ -116,16 +132,18 @@ Carrying into Sprint 9: 25 tickets, 75 points
 
 **Team Accreditation**
 
-|Title|URL|Status|Estimate|
-|---|---|---|---|
-|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|In Progress|SPIKE|
-|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5|
-|Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results	|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120822|Sprint Backlog|5|
-|Write a job to populate the 'new' accredited entities using data from Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129161|Sprint Backlog|5|
-|Architecture: develop data models for Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129163|Sprint Backlog|SPIKE|
-|Research: all features touching Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129164|Sprint Backlog|SPIKE|
-|Design review - Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129165	|Sprint Backlog|3|
-|Implementing frontend changes associated with Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129436|Sprint Backlog|5|
+|Title|URL|Status|Estimate|Stretch Goal|Reason for carry over|
+|---|---|---|---|---|---|
+|Research: what OGC wants to do when documents fail to upload to GCLAWS|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126281|Done|SPIKE|||	
+|Architecture: develop data models for Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129163|Done|SPIKE|||	
+|Research: all features touching Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129164|Done|SPIKE|||	
+|Design review - Individual Acceptance of Rep Reqs|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129165|Done|3|||	
+|Disable daily Accreditation API job|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130322|Done|1|Yes||
+|Include representatives with an invalid full address, but valid zip code or city/state combo in Find a Rep search results|https://github.com/department-of-veterans-affairs/va.gov-team/issues/120822|PR Review|5||Work still in progress|
+|Write a job to populate the 'new' accredited entities using data from Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129161|PR Review|5||Work still in progress|
+|Chapter 6: Ensure fields align, use schema for validation, unit tests|https://github.com/department-of-veterans-affairs/va.gov-team/issues/112535|Blocked|3|Yes|Blocked|
+|Implementing frontend changes associated with Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129436|Blocked|5||Blocked|
+|Write the service to connect to the SQL API and handle the response|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127918|Sprint Backlog|5||Over-planned/capacity reached|
 
 **Team Benefits**
 
@@ -182,15 +200,17 @@ Carrying into Sprint 9: 25 tickets, 75 points
 
 **Engagement**
 
-|Title                                                                            |URL                                                                        |Status        |Estimate|
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|
-|Provide video feedback                                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/121183|Blocked       |2       |
-|Coordinate with VSO Liaison for Batch 1 outreach                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126514|Sprint Backlog|1       |
-|[ NACVSO ] Generate spreadsheet with single accredited reps with missing emails  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128282|Sprint Backlog|2       |
-|Identify unaccredited certifying officials                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129082|Sprint Backlog|2       |
-|[ Colorado Division of Veteran Affairs ] Schedule meeting                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129143|Sprint Backlog|1       |
-|[ Colorado Division of Veteran Affairs ] Generate spreadsheet with missing emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129148|Sprint Backlog|1       |
-|Investigate shared support mailbox                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129595|Sprint Backlog|2       |
+|Title|URL|Status|Estimate|Stretch Goal|Reason for carry over|
+|---|---|---|---|---|---|
+|[ Colorado Division of Veteran Affairs ] Generate spreadsheet with missing emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129148|Done|1|||	
+|[ Paralyzed Veterans of America ] Run the Trexler file|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130269|Done|1|||	
+|Provide video feedback|https://github.com/department-of-veterans-affairs/va.gov-team/issues/121183|External Review|2||Blocked|
+|Identify unaccredited certifying officials|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129082|External Review|2||Pending Platform/External Team review|
+|Coordinate with VSO Liaison for Batch 1 outreach|https://github.com/department-of-veterans-affairs/va.gov-team/issues/126514|In Progress|1||Work still in progress|
+|[ NACVSO ] Generate spreadsheet with single accredited reps with missing emails|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128282|In Progress|2||Work still in progress|	
+|[ Colorado Division of Veteran Affairs ] Schedule meeting|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129143|In Progress|1||Work still in progress|
+|[ Veterans of Foreign Wars ] Coordinate 230 missing emails from original update|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130984|In Progress|2||Work still in progress|
+|Investigate shared support mailbox|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129595|Sprint Backlog|2||Over-planned / capacity reached|
 
 
 
