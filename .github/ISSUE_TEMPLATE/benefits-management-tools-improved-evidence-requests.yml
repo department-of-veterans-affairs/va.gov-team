@@ -27,7 +27,9 @@ body:
     id: friendly_name
     attributes:
       label: Friendly Name ✨
-      description: Human-readable name shown to Veterans (replaces technical displayName)
+      description: |
+        Primary human-readable name shown to Veterans throughout the application.
+        **Used in:** Alert headlines, page titles, breadcrumbs, "Need Help" sections, and Recent Activity.
       placeholder: "e.g., Authorization to disclose information"
     validations:
       required: true
@@ -38,6 +40,7 @@ body:
       label: Support Aliases ✨
       description: |
         Alternative names that map to this content (other than the original displayName). This can often include the associated form name(s).
+        **Used in:** "Need Help" section displays: "The VA benefits hotline may refer to the '[friendlyName]' request as [aliases]"
         For example, the Evidence Request titled "PTSD - Need stressor details/med evid of stressful incdnt" also has the following support aliases: ['VA Form 21-0781', 'PTSD - Need stressor details'].
         Enter one per line.
       placeholder: |
@@ -51,7 +54,9 @@ body:
     id: short_description
     attributes:
       label: Short Description
-      description: Brief one-line description of what this evidence request is
+      description: |
+        Brief one-line description of what this evidence request is.
+        **Used in:** Alert cards in the Status/Files tabs (first choice, falls back to activityDescription if empty).
       placeholder: "e.g., We need your permission to request your personal information from a non-VA source."
     validations:
       required: false
@@ -60,7 +65,9 @@ body:
     id: activity_description
     attributes:
       label: Activity Description
-      description: Description of what activity this represents (used in activity feed)
+      description: |
+        Description of what activity this represents.
+        **Used in:** Recent Activity tab and as fallback for shortDescription in Status/Files tabs alert cards.
       placeholder: "e.g., We need your permission to request your personal information from a non-VA source, like a private doctor or hospital."
     validations:
       required: false
@@ -69,7 +76,9 @@ body:
     id: can_upload_file
     attributes:
       label: canUploadFile
-      description: Can the Veteran upload files for this request?
+      description: |
+        Can the Veteran upload files for this request?
+        **Used in:** Controls whether the file upload form is displayed on the document request detail page.
       options:
         - "yes"
         - "no"
@@ -80,7 +89,9 @@ body:
     id: no_action_needed
     attributes:
       label: noActionNeeded
-      description: Is action required from the Veteran for this request?
+      description: |
+        Is action required from the Veteran for this request?
+        **Used in:** For third-party requests, when action is NOT required (noActionNeeded = true), hides the text encouraging optional document uploads: "But, if you have documents related to this request, uploading them on this page may help speed up the evidence review for your claim."
       options:
         - "yes (noActionNeeded = false)"
         - "no (noActionNeeded = true)"
@@ -91,7 +102,9 @@ body:
     id: is_dbq
     attributes:
       label: isDBQ
-      description: Is this a Disability Benefits Questionnaire (DBQ)?
+      description: |
+        Is this a Disability Benefits Questionnaire (DBQ)?
+        **Used in:** Changes display text to "Request for an exam" in various places throughout the application (Files tab alerts, document request detail page).
       options:
         - "no"
         - "yes"
@@ -102,7 +115,9 @@ body:
     id: is_proper_noun
     attributes:
       label: isProperNoun
-      description: Does the displayName contain a proper noun?
+      description: |
+        Does the displayName contain a proper noun?
+        **Used in:** When false, lowercases the first letter of friendlyName when displayed in certain contexts (e.g., "Your authorization to disclose information" instead of "Your Authorization to disclose information").
       options:
         - "no"
         - "yes"
@@ -113,7 +128,9 @@ body:
     id: is_sensitive
     attributes:
       label: isSensitive
-      description: Does the content contain sensitive information such as PII (Personally Identifiable Information)?
+      description: |
+        Does the content contain sensitive information such as PII (Personally Identifiable Information)?
+        **Used in:** Masks the specific request type; displays generic "Request for evidence" instead of the actual friendlyName in alert headlines and page titles to protect Veteran privacy.
       options:
         - "no"
         - "yes"
@@ -137,6 +154,7 @@ body:
       label: Long Description Content
       description: |
         Detailed explanation shown to Veterans. Describe the content in natural language via Markdown.
+        **Used in:** "What we need from you" section on the document request detail page.
 
         This will be converted to structured JSON blocks (paragraphs, lists, links). Lines with empty spaces will be converted to new paragraph `<p>` tags, unless noted in the Long Description Notes below.
       placeholder: |
@@ -167,6 +185,7 @@ body:
       label: Next Steps Content
       description: |
         Action items and instructions for the Veteran. Describe the content in natural language via Markdown.
+        **Used in:** "Next steps" section on the document request detail page (replaces generic next steps when provided).
 
         This will be converted to structured JSON blocks (paragraphs, lists, links). Lines with empty spaces will be converted to new paragraph `<p>` tags, unless noted in the Next Steps Notes below.
 
