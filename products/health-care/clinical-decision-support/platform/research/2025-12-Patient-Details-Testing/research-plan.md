@@ -159,18 +159,16 @@ Currently, all clinical research for CDSC takes place remotely over MS Teams. We
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability test and interview:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+
+### CPRS User Materials
+- [Link to CPRS conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
 - [Link to CPRS prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
-- [Link to OH prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=F9qx2raNBZa13Q8M-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735)
 
-	
-## Recruitment 🎯	
-*Recruitment for CDSC research is done by the researcher. Account for recruitment in your planning and preparation time. Ideally outreach begins 2-4 weeks ahead of targeted testing dates*
+### OH User Materials
+- [Link to OH conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+- [Link to OH prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=oFfZAfXPCZmhSQDA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735)
 
-### Recruitment approach
-*Who is your intended audience for this research (e.g. clinicians, VHA administrative staff, coordinators, SMEs), and how will you recruit them?* 
 
-`Audience: **Clincians**`
 
 **`1.`CDSC Research Participant Database** 
 **`2.`Oracle Health Contacts: Cross-team Contacts and Referrals** 
