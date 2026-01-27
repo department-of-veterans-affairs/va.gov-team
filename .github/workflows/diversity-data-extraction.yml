@@ -14,6 +14,9 @@ on:
     paths:
       - 'products/**/research/**/*findings*.md'
       - 'teams/**/research/**/*findings*.md'
+      - '!**/*.doc'
+      - '!**/*.docx'
+      - '!**/*.pptx'
   schedule:
     # Run weekly on Mondays at 8:00 AM ET (13:00 UTC) for aggregation
     - cron: '0 13 * * 1'
@@ -22,12 +25,12 @@ on:
       full_scan:
         description: 'Run full repository scan (slow)'
         required: false
-        default: 'false'
+        default: false
         type: boolean
       dry_run:
         description: 'Test run - do not push to research repository'
         required: false
-        default: 'false'
+        default: false
         type: boolean
 
 jobs:
@@ -69,11 +72,11 @@ jobs:
           script: |
             const fs = require('fs');
             const yaml = require('js-yaml');
-            const { glob } = require('glob');
+            const globModule = require('glob');
             
-            // Find all findings files
-            const files = await glob('**/research/**/*findings*.md', {
-              ignore: ['node_modules/**', '.git/**']
+            // Find all findings files (only .md files, excluding binary formats)
+            const files = await globModule.glob('**/research/**/*findings*.md', {
+              ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx']
             });
             
             console.log(`Found ${files.length} research findings files`);
