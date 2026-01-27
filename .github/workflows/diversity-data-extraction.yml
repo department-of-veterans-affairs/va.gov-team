@@ -26,12 +26,12 @@ on:
       full_scan:
         description: 'Run full repository scan (slow)'
         required: false
-        default: false
+        default: 'false'
         type: boolean
       dry_run:
         description: 'Test run - do not push to research repository'
         required: false
-        default: false
+        default: 'false'
         type: boolean
 
 jobs:
@@ -81,6 +81,38 @@ jobs:
               return isNaN(parsed) ? 0 : parsed;
             };
             
+            // Helper function to encode file path for URLs (encode spaces and special chars, preserve slashes)
+            const encodeFilePath = (filePath) => {
+              return filePath.split('/').map(segment => encodeURIComponent(segment)).join('/');
+            };
+            
+            // Helper function to validate and parse date
+            const parseDate = (dateStr) => {
+              if (!dateStr || dateStr === 'unknown' || dateStr === 'YYYY-MM-DD') {
+                return null;
+              }
+              // Try to parse various date formats
+              const date = new Date(dateStr);
+              if (!isNaN(date.getTime())) {
+                return date;
+              }
+              // Handle formats like "08-2025" (MM-YYYY)
+              const mmYyyyMatch = dateStr.match(/^(\d{1,2})-(\d{4})$/);
+              if (mmYyyyMatch) {
+                return new Date(`${mmYyyyMatch[2]}-${mmYyyyMatch[1].padStart(2, '0')}-01`);
+              }
+              return null;
+            };
+            
+            // Helper function to format date for display
+            const formatDate = (dateStr) => {
+              const parsed = parseDate(dateStr);
+              if (!parsed) {
+                return null;
+              }
+              return parsed.toISOString().split('T')[0];
+            };
+            
             // Find all findings files (only .md files, excluding binary formats)
             const files = await globModule.glob('**/research/**/*findings*.md', {
               ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx', '**/*.pdf']
@@ -110,16 +142,31 @@ jobs:
                 
                 // Check if demographics data exists
                 if (frontMatter.demographics || frontMatter.participants_total) {
-                  // Generate GitHub URL for this file
-                  const fileUrl = `https://github.com/${repoOwner}/${repoName}/blob/${defaultBranch}/${file}`;
+                  // Generate GitHub URL for this file with proper encoding
+                  const encodedPath = encodeFilePath(file);
+                  const fileUrl = `https://github.com/${repoOwner}/${repoName}/blob/${defaultBranch}/${encodedPath}`;
+                  
+                  // Get a clean title - skip placeholder titles
+                  let title = frontMatter.title || '';
+                  if (!title || title === '[Study] Research Findings' || title.includes('[Study]')) {
+                    // Extract a better title from the file path
+                    const pathParts = file.split('/');
+                    const fileName = pathParts.pop().replace('.md', '').replace(/-/g, ' ');
+                    const folderName = pathParts.pop() || '';
+                    title = folderName.replace(/-/g, ' ').replace(/^\d{4}-\d{2}\s*/, '') || fileName;
+                    // Capitalize first letter of each word
+                    title = title.replace(/\b\w/g, c => c.toUpperCase());
+                  }
                   
                   const record = {
                     file: file,
                     file_url: fileUrl,
                     date: frontMatter.date || 'unknown',
+                    date_parsed: parseDate(frontMatter.date),
+                    date_formatted: formatDate(frontMatter.date),
                     product: frontMatter.product || 'unknown',
                     team: frontMatter.team || 'unknown',
-                    title: frontMatter.title || file.split('/').pop().replace('.md', ''),
+                    title: title,
                     participants_total: toInt(frontMatter.participants_total),
                     demographics: frontMatter.demographics || {},
                     devices_used: frontMatter.devices_used || {},
@@ -151,7 +198,7 @@ jobs:
                 title: r.title,
                 file: r.file,
                 url: r.file_url,
-                date: r.date,
+                date: r.date_formatted || r.date,
                 product: r.product,
                 team: r.team,
                 participants: r.participants_total
@@ -252,16 +299,17 @@ jobs:
               ''
             ];
             
-            // Sort studies by date (most recent first), with unknown dates at the end
+            // Sort studies by date (most recent first), with unknown/invalid dates at the end
             const sortedStudies = [...allDemographics].sort((a, b) => {
-              if (a.date === 'unknown') return 1;
-              if (b.date === 'unknown') return -1;
-              return new Date(b.date) - new Date(a.date);
+              if (!a.date_parsed && !b.date_parsed) return 0;
+              if (!a.date_parsed) return 1;
+              if (!b.date_parsed) return -1;
+              return b.date_parsed - a.date_parsed;
             });
             
             // Add each study as a linked list item
             for (const study of sortedStudies) {
-              const dateStr = study.date !== 'unknown' ? ` (${study.date})` : '';
+              const dateStr = study.date_formatted ? ` (${study.date_formatted})` : '';
               const participantStr = study.participants_total > 0 ? ` - ${study.participants_total} participants` : '';
               summaryLines.push(`- [${study.title}](${study.file_url})${dateStr}${participantStr}`);
             }
