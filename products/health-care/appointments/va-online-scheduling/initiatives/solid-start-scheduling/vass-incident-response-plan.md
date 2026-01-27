@@ -1,5 +1,5 @@
 
-# Endpoint monitoring
+# Incident Response Plan
 
 ## Scope 
 This applies to the VASS scheduling flow application on vets-website.
