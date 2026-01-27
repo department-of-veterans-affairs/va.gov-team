@@ -165,11 +165,11 @@ Provide a link to any materials you need to run your study, including any materi
 - [Link to CPRS prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=2293-3966&viewport=420%2C-2398%2C0.23&t=feykzPaXZ8xOghnK-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2293%3A3966)
 
 ### OH User Materials
-- [Link to OH conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide.md)
+- [Link to OH conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/platform/research/2025-12-Patient-Details-Testing/conversation-guide-oracle-health.md)
 - [Link to OH prototype](https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=oFfZAfXPCZmhSQDA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735)
 
 
-
+### Recruitment approach
 **`1.`CDSC Research Participant Database** 
 **`2.`Oracle Health Contacts: Cross-team Contacts and Referrals** 
 
