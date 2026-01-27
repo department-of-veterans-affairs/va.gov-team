@@ -125,29 +125,29 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 • Buffer time between sessions: 30 minutes  
 • Maximum sessions per day: 3  
 
-## Availability (all times EST)
+## Availability (all times EST)  
 Please include a 30-minute buffer between sessions.
 
 ### Tuesday, 2/10
 • 11:00am EST – Cara, Anneka, Florence, Athena  
-• 12:00pm EST – Florence, Athena, Anneka
+• 12:00pm EST – Florence, Athena, Anneka  
 • 1:00pm EST – Florence, Athena  
 • 2:00pm EST – Anneka, Florence  
 
 ### Wednesday, 2/11
 • 11:00am EST – Cara, Anneka, Athena  
-• 12:00pm EST – Florence, Athena, Anneka 
-• 1:00pm EST – Florence, Athena,
+• 12:00pm EST – Florence, Athena, Anneka  
+• 1:00pm EST – Florence, Athena,  
 • 2:00pm EST – Florence, Athena  
 
 ### Thursday, 2/12
-• 11:00am EST – Cara, Anneka, Anneka
-• 12:00pm EST – Florence, Athena, Anneka
-• 2:00 EST – Anneka, Athena  
+• 11:00am EST – Cara, Anneka, Anneka  
+• 12:00pm EST – Florence, Athena, Anneka  
+• 2:00pm EST – Anneka, Athena  
 
 ### Friday, 2/13
 • 11:00am EST – Cara, Anneka, Athena  
-• 2:00 EST – Anneka, Athena  
+• 2:00pm EST – Anneka, Athena  
 
 ### Monday, 2/16 – Presidents Day (Holiday – no sessions)
 
@@ -157,13 +157,13 @@ Please include a 30-minute buffer between sessions.
 • 2:00pm EST – Anneka, Athena  
 
 ### Wednesday, 2/18
-• 1:00pm EST – Florence, Athena, Anneka
+• 1:00pm EST – Florence, Athena, Anneka  
 • 2:00pm EST – Florence, Athena  
 
 ### Thursday, 2/19
-• 11:00am EST – Anneka, Athena, Anneka
-• 12:00pm EST – Florence, Athena, Anneka
-• 3:00pm EST – Cara, Athena
+• 11:00am EST – Anneka, Athena, Anneka  
+• 12:00pm EST – Florence, Athena, Anneka  
+• 3:00pm EST – Cara, Athena  
 
 ### Friday, 2/20
 • 11:00am EST – Cara, Anneka, Florence, Athena  
@@ -171,7 +171,7 @@ Please include a 30-minute buffer between sessions.
 
 ### Monday, 2/23
 • 11:00am EST – Cara, Anneka, Athena  
-• 12:00pm EST – Florence, Athena, Anneka
+• 12:00pm EST – Florence, Athena, Anneka  
 • 1:00pm EST – Florence, Athena  
 • 2:00pm EST – Anneka, Athena  
 
