@@ -76,11 +76,29 @@ TBD
 
 ## Sprint 8 Demos
 
-TBD
+**Team Benefits**:
+1. Release ITF — Zears
+2. Datadog: Monitor ITF attempts, successes, errors — Patrick
+    1. Datadog: Track error rates for ITF — Greg
+    2. Datadog: Surface latency for ITF — Patrick
+
+**Engagement**
+* Talk through the demo videos available (686c, Appoint a Rep + Rep Request)
+* Bulk contact update 
+    * VFW
+    * AZDVA
+    * PVA
+    * CO - in progress 
+* Process diagrams for onboarding deck
+* VSO Onboarding Strategy
+    * Batch 1
+
 
 ## Sprint 8 Delivery
-
-TBD
+Total Completed in Sprint 8: 49 tickets, 105 points + 5 spikes\
+Crew Count in Sprint 8: 18 active teammates (not including Principal Leads)\
+Average Teammate Velocity in Sprint 7: 105 points / 17 teammates = 6.17 points / teammate (not including Principal Leads)
+Carrying into Sprint 9: 25 tickets, 75 points
 
 ## Sprint 8 Tickets
 
