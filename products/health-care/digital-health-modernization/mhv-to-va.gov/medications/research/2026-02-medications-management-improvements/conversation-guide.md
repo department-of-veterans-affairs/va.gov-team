@@ -81,12 +81,6 @@ I'm going to ask you to do a couple things on the VA website, VA.gov, and to sha
 - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 - Now I'd like you to share your screen with me. Tap on the (green) button that says Share. Options should be provided for what to share. Please choose "Screen" (phone) or your web browser.
 
-### Instructions for folks using screenreaders on a desktop
-- Hit Alt S (as in Same); the option should come up to select the window you want to share - please choose Basic.  
-- Tab over and confirm that what is selected is "entire screen."  
-- Tab once more - make sure "share sound" is checked.  
-- Tab 4 times over to "share screen" - click activate.  
-
 Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 ### Backup plan if they cannot figure out how to share screen:
@@ -124,7 +118,7 @@ Imagine that you regularly take Lipitor. Two months ago, you requested a refill,
 ## Task 2
 Two years ago, you developed a rash and, since it was new, your doctor gave you a one-time prescription for cream that successfully cleared it. The rash has unexpectedly reappeared, and you have an appointment with your doctor tomorrow. You want to ask for a refill of the cream but cannot recall its name. Where would you look to find the name of the cream?
 
-1. What are you looking for? Any words or terms you expect to see?  
+1. What are you looking for?  
 2. Tell me what you are looking at.  
 3. What do you think that means? (probe on all the filter categories)  
 4. What do you think you could do from here? What tells you that?  
