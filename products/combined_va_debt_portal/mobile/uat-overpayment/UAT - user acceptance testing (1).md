@@ -1,4 +1,4 @@
-### 🤖 Android 🤖
+# Testing with pre-release app version: Android
 
 ## **Install and set-up**
 
