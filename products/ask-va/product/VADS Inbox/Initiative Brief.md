@@ -89,7 +89,7 @@ It also includes these OKRs:
 ## Release plan (to be determined)
 [input release plan]
 
-## Team and partners
+## Ask VA Team and VA Partners
 ### Ask VA Team
 |Role|Assigned|Contact|
 |:---|:---|:---|
