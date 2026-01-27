@@ -192,29 +192,32 @@ jobs:
             const dateStamp = new Date().toISOString().split('T')[0];
             core.setOutput('date_stamp', dateStamp);
             
-            // Create summary artifact
-            const summary = `# Diversity Data Extraction Summary
-
-**Extraction Date:** ${aggregated.extraction_date}
-
-## Overview
-- **Total Studies:** ${aggregated.total_studies}
-- **Total Participants:** ${aggregated.total_participants}
-
-## AT Inclusion
-- **Studies with AT Users:** ${aggregated.at_inclusion.studies_with_at} (${aggregated.at_inclusion.rate})
-- **Total AT Participants:** ${aggregated.at_inclusion.total_at_participants}
-
-## Location Representation
-- **Rural:** ${aggregated.location.rural} (${aggregated.location.rural_rate || 'N/A'})
-- **Urban:** ${aggregated.location.urban}
-
-## Devices Used
-- Desktop: ${aggregated.devices.desktop}
-- Tablet: ${aggregated.devices.tablet}
-- Smartphone: ${aggregated.devices.smartphone}
-- Assistive Technology: ${aggregated.devices.assistive_technology}
-`;
+            // Create summary artifact - build it as an array then join
+            const summaryLines = [
+              '# Diversity Data Extraction Summary',
+              '',
+              '**Extraction Date:** ' + aggregated.extraction_date,
+              '',
+              '## Overview',
+              '- **Total Studies:** ' + aggregated.total_studies,
+              '- **Total Participants:** ' + aggregated.total_participants,
+              '',
+              '## AT Inclusion',
+              '- **Studies with AT Users:** ' + aggregated.at_inclusion.studies_with_at + ' (' + aggregated.at_inclusion.rate + ')',
+              '- **Total AT Participants:** ' + aggregated.at_inclusion.total_at_participants,
+              '',
+              '## Location Representation',
+              '- **Rural:** ' + aggregated.location.rural + ' (' + (aggregated.location.rural_rate || 'N/A') + ')',
+              '- **Urban:** ' + aggregated.location.urban,
+              '',
+              '## Devices Used',
+              '- Desktop: ' + aggregated.devices.desktop,
+              '- Tablet: ' + aggregated.devices.tablet,
+              '- Smartphone: ' + aggregated.devices.smartphone,
+              '- Assistive Technology: ' + aggregated.devices.assistive_technology
+            ];
+            
+            const summary = summaryLines.join('\n');
             
             fs.writeFileSync('diversity-summary.md', summary);
             fs.writeFileSync('diversity-data.json', JSON.stringify(aggregated, null, 2));
