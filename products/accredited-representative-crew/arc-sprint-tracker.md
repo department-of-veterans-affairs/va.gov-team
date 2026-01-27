@@ -93,6 +93,21 @@ TBD
 |Desk review of past claims-submission related user research (Ian)             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130659|Sprint Backlog|5       |
 
 **Team Appoint**
+|Title                                                                                   |URL                                                                        |Status               |Estimate|
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------|--------|
+|General Onboarding to VA [Tyler]                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129773|In Progress          |5       |
+|21-22a desk research: Review past research for the 21-22a representation request process|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129779|In Progress          |5       |
+|Only change the search query when a user clicks the "Search" button                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130879|In Progress          |3       |
+|Audit Datadog Monitors                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130367|Sprint Backlog       |SPIKE   |
+|Engineering Onboarding to ARC [Tyler]                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129774|Sprint Backlog       |3       |
+|Find a Rep: Fix missing longitude parameter in API Requests                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105462|Sprint Backlog       |SPIKE   |
+|21-22a PDF generation error -- rep was missing zip code                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/113487|Sprint Backlog       |SPIKE   |
+|21-22a desk research: Synthesis and reporting                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130880|Sprint Backlog       |3       |
+|General Onboarding to VA [Lena]                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130612|Prioritized Backlog  |5       |
+|UX Onboarding to ARC [Lena]                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130621|Prioritized Backlog  |3       |
+|Allow all alphanumeric characters in location field of Find a Rep                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/79287 |Prioritized Backlog  |3       |
+|Fix Spacing for "associated organizations" additional info component                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130520|~Ready for Refinement|2       |
+
 
 **Engagement**
 
