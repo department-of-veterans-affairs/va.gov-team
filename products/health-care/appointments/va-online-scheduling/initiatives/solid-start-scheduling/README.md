@@ -99,6 +99,7 @@ Veteran outreach is built into the workflow with the initial emails.
 - [Pending Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116989)
 - [Figma](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=12157-38855&t=c7EFK1RjEAHjz0jw-1)
 - [Dashboard](https://vagov.ddog-gov.com/dashboard/fw6-j3c-zns?fromUser=false&refresh_mode=sliding&from_ts=1769546567944&to_ts=1769550167944&live=true)
+- [Engineering Docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/solid-start-scheduling/engineering/README.md)
 
 ---
 
