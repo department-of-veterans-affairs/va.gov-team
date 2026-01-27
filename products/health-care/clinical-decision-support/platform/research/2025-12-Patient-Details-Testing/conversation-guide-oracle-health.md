@@ -147,11 +147,6 @@ Now I’d like to learn more about your typical workflow with PowerChart.
 > Gather navigation input related to how clinicians transition from Patient Details to individual CDS apps for task completion.
 > Collect evidence to prioritize which patient detail enhancements on the Console (‘partial views’) should be considered for the Platform roadmap
 
-## Bridge - 1 min
-* Now that you’ve shared your typical workflow, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype of the CDS Console and will ask for your initial impressions on what you see, and how this information compares to your typical workflow.
-
-I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
-
 ## Prototype Intro - Moderator Controls:
 Next we’re going to look at a prototype of the [Patient Details prototype: https://www.figma.com/proto/YhERBZMWoqvwRgDUo6OgCx/User-Testing-Prototypes?page-id=2196%3A2&node-id=3004-21735&viewport=306%2C-3091%2C0.3&t=oFfZAfXPCZmhSQDA-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3004%3A21735]. There are a few things I’d like you to keep in mind: 
 
@@ -182,6 +177,10 @@ Next we’re going to look at a prototype of the application. There are a few th
 
 `[Describe clinical scenario and pull up prototype and share screen]`
 
+## Bridge - 1 min
+* Now that you’ve shared your typical workflow, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype of the CDS Console and will ask for your initial impressions on what you see, and how this information compares to your typical workflow.
+
+I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
 
 ## Scenario - 1 min
 * Imagine that you are seeing one of your patients as part of a routine visit. 
