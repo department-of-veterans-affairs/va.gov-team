@@ -20,19 +20,19 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 4. Address outstanding medium priority bugs
 
 **Engagement**: 
-1. [Rep Onboarding] Demo
+1. **[Rep Onboarding] Demo:** Walkthrough the portal with its current features and how orgs can incorporate it within their current workflow
     - Colorado (155 reps)
     - Arizona (78 reps)
-2. [Rep Onboarding] Bulk Contact Info Update
+2. **[Rep Onboarding] Bulk Contact Info Update:** Updating contact info for representatives so veterans can find them and reps can log into the portal
     - Colorado
     - NACVSO
-3. [Rep Onboarding] Connecting with national orgs from Batch 1 outreach and start with bulk contact info updates
+3. **[Rep Onboarding] Batch Outreach Strategy for SEP VSOs:** Connecting with national orgs from Batch 1 outreach and start with bulk contact info updates
     - Fleet Reserve Association
     - American Veterans
     - Vietnam Veterans of America
     - American Legion
-4. [Rep Onboarding] Identifying IGA contact to connect with state org leadership for Batch 1 outreach
-5. [Rep Communication] Map out where demo videos will live  
+4. **[Rep Onboarding] Batch Outreach Strategy for SEP VSOs:** Identifying IGA contact to connect with state org leadership for Batch 1 outreach
+5. **[Rep Communication] Coordinate with LEAF team to produce feature demo videos:** Map out where the demo videos will need to be implemented
 
 ## Sprint 9 Demos
 
