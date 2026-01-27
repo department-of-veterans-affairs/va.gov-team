@@ -38,9 +38,8 @@ API specification and contract definitions for the Solid Start Scheduling API.
 
 Data flow diagrams and documentation:
 
-- Step-by-step appointment scheduling process
-- Email initiation to confirmation workflow
 - API calls and data flow visualization
+- Data Collection and usage
 
 ### [high-level-architecture.md](./high-level-architecture.md)
 
@@ -76,13 +75,10 @@ Metrics and monitoring documentation:
 4. **Authentication:** 
    - One-time passcode (OTP) flow for veteran authentication
    - OAuth 2.0 client credentials for service-to-service authentication
-5. **Notifications**: VA Notify integration for SMS and email
+5. **Notifications**: VA Notify integration for email delivery
 
 ## Related Resources
 
 - [VA API Standards](https://code.va.gov/docs/default/component/va-api-standards/)
-- [JSON API Standards](https://jsonapi.org/)
-- [OpenAPI Specification](https://swagger.io/specification/)
 - [VA Notify Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md)
-- [LoROTA (Low Risk One Time Authentication)](https://github.com/department-of-veterans-affairs/lorota)
-- [LoROTA Implementation Example (Check-in)](../../../../../../health-care/checkin/engineering/lorota/)
+
