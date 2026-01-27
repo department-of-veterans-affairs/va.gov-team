@@ -152,16 +152,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 ### Recruitment criteria
 
-- Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. This is helpful if getting recruitment assistance from CDSC peers.
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question. 
-  Example: Have you used CDS Medical Calcualtors in the last 6 months? [answer should be yes to qualify.]
-
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria. Consider what criteria MUST be met, versus what is nice to have.
-
 ### List the ideal completed sessions and total number and type (clinicians, VHA administrative staff, coordinators, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **2x** your ideal completed sessions number *(e.g. for 6 ideal completed sessions, plan to email at least 12 participants)*
-
 - `Clinicians - CPRS:` **[n=5]**
 - `Clinicians - Oracle:` **[n=3]**
 - `VHA admin staff:` **[n=0]**
