@@ -5,7 +5,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 # Sprint 9 (Jan 27-Feb 09, 2026)
 
 ## Sprint 9 Goals
-- [] Sprint Goals Approved by Enablement   
+- [ ] Sprint Goals Approved by Enablement   
 
 **Team Accreditation**: 
 
