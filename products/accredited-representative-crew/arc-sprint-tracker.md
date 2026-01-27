@@ -150,19 +150,21 @@ Carrying into Sprint 9: 25 tickets, 75 points
 |Explore potential uses of shared web component library                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129883|Sprint Backlog |SPIKE   |
 
 **Team Appoint**
-
-|Title                                                                      |URL                                                                        |Status        |Estimate|
-|---------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|
-|Engineering Onboarding to ARC [Nick]                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129124|Sprint Backlog|3       |
-|Engineering Onboarding to ARC [Kristen]                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129126|Sprint Backlog|3       |
-|UX Onboarding to ARC [David]                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129125|Sprint Backlog|3       |
-|Find a Rep: Invalid page request                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105464|Sprint Backlog|SPIKE   |
-|Find a Rep: Fix missing longitude parameter in API Requests                |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105462|Sprint Backlog|SPIKE   |
-|21-22a PDF generation error -- rep was missing zip code                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/113487|Sprint Backlog|SPIKE   |
-|Design a Find a Rep iteration that only adds the org filter update         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129133|Sprint Backlog|5       |
-|General Onboarding to VA [Tyler]                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129773|Sprint Backlog|5       |
-|Engineering Onboarding to ARC [Tyler]                                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129774|Sprint Backlog|3       |
-|21-22a desk research:  understand the 21-22a representation request process|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129779|Sprint Backlog|        |
+|Title                                                                                   |URL                                                                        |Status        |Estimate|Stretch goal?|Reason for carry over|
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|-------------|---------------------|
+|Engineering Onboarding to ARC [Nick]                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129124|Done          |3       |             |                     |
+|General Onboarding to VA [David]                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130060|Done          |5       |             |                     |
+|UX Onboarding to ARC [David]                                                            |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129125|Done          |3       |             |                     |
+|Engineering Onboarding to ARC [Kristen]                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129126|Done          |3       |             |                     |
+|Design a Find a Rep iteration that only adds the org filter update                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129133|Done          |5       |             |                     |
+|Find a Rep: Invalid page request                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105464|Done          |SPIKE   |             |                     |
+|Kick off Collab Cycle for Find a Rep v3                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130487|Done          |1       |Yes          |                     |
+|General Onboarding to VA [Tyler]                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129773|In Progress   |5       |             |Work still in progress|
+|21-22a desk research: Review past research for the 21-22a representation request process|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129779|In Progress   |5       |             |Work still in progress|
+|Only change the search query when a user clicks the "Search" button                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130879|In Progress   |3       |Yes          |Added as Stretch     |
+|Engineering Onboarding to ARC [Tyler]                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129774|Sprint Backlog|3       |             |Over-planned / capacity reached|
+|Find a Rep: Fix missing longitude parameter in API Requests                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105462|Sprint Backlog|SPIKE   |             |Over-planned / capacity reached|
+|21-22a PDF generation error -- rep was missing zip code                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/113487|Sprint Backlog|SPIKE   |             |Over-planned / capacity reached|
 
 
 
