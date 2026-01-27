@@ -1,4 +1,4 @@
-# Assistive Tech [AT] - Research Plan for Facilities, Progressive Disclosure and Autosuggest, September 2025
+# Assistive Tech [AT] - Research Plan for Facilities, Progressive Disclosure and Autosuggest, January 2026
 
 ## **Background**
 
@@ -13,6 +13,8 @@ The facility locator is an unauthenticated experience that Veterans and their fa
 The autosuggest component is not frequently used in VA tools, however, research was conducted on this component in 2023 for the [Form 526 conditions list](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/406) and most participants found the component easy to use. A limitation of this study is that no assistive technology users were included. The USDWS has a similar component called combo box which [passed 13 out of 15 accessibility tests](https://designsystem.digital.gov/components/combo-box/accessibility-tests/) with 2 conditional results. A potential usability issue was identified for keyboard users who do not expect the tab key to make a selection. [Guidance for use of this component was published in July 2025\.](https://design.va.gov/components/search-input#choosing-the-right-component-for-the-task)
 
 We learned in [(limited) prior research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/initiatives/2023-2025-search-improvements/research/mobile-map/2025-03-interim-findings.md) on Facility Locator map feature that Veterans prefer to pick a very specific service when searching. Users are comfortable navigating drop down lists, but then length of lists can make navigation slower, and we expect that the autosuggest component will make navigating these lists easier.  
+
+In the Non-AT portion of this research in October 2025, we learned that while users find the functionality valuable, error messaging and additional guardrails are needed so that users understand that they must make a selection from the list and that the combo box does not function as a standard search. 
 
  **Goals of these design changes:** 
 
@@ -45,7 +47,7 @@ There are many potential touchpoints between the Veteran and this application th
 
 ## **Research Goals**
 
-* Confirm that Veterans and their families (incl. assistive tech users) are able to find VA Health services using the AutoSuggest feature and measure ease of use (SEQ) for desktop and mobile.   
+* Confirm that Veterans and their families who utilize assistive tech are able to find VA Health services using the AutoSuggest feature and measure ease of use (SEQ) for desktop and mobile.   
 * Confirm that the progressive disclosure pattern does not interfere with finding the right facility  
 * Identify barriers Veterans might face when using the facility locator services search to find a particular service at VA Health facilities nearest to them including confusing language, interaction patterns, or instructional content.  
 * Goals we are **excluding** from this research:   
@@ -88,21 +90,21 @@ Sessions will be conducted over Zoom, and we would like Zoom transcripts.
 * [Link to Research Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1759158067795/d2b71786adabc363e1699c03f159376c501bdf6c)
 
 ### Recruitment criteria
-4 Veterans who use assistive technology and 2 family members who use assistive technology (recruit 8 to achieve a total of 6 participants). 
+3 Veterans who use assistive technology and 1 family member who use assistive technology (recruit 8 to achieve a total of 4 participants). Ideally we have one mobile screenreader and 1 mobile magnification, 1 desktop screenreader and 1 desktop magnification.  
 
 **Primary criteria**
 
-* ALL must use a screen reader or screen magnifier every time they access the Internet (3 screen readers and 3 screen magnifiers)  
-* At least 3 have previously used the facility locator  
-* At least 3 have NOT previously used the facility locator  
-* At least 3 have a smartphone to use for the session and...  
+* ALL must use a screen reader or screen magnifier every time they access the Internet (2 screen readers and 2 screen magnifiers)  
+* At least 2 have previously used the facility locator  
+* At least 2 have NOT previously used the facility locator  
+* At least 2 have a smartphone to use for the session and...  
   * Have Zoom downloaded to their smartphone prior to the session and know how to share their screen  
   * Be willing to share over Zoom a web browser window on their smartphone  
   * Have a working microphone on their smartphone
 
 **Secondary criteria (listed in priority order)**
 
-* At least 2 people who are age 55 or older  
+* At least 1 people who are age 55 or older  
 * At least 1 person who are LGBTQ+  
 * At least 1 person 35 or under  
 * At least 1 person of color  
@@ -157,35 +159,32 @@ Before recruitment starts, we would like to request a kickoff call with Perigean
 
 Tina and Dave are available for a kickoff call during any of these times:
 
-* Week of Oct 6, 2025
+* February 3,4, or 5 2026
 
-Please invite Tina (tina.kambil@agile6.com) and Dave (dave.pickett@civicactions.com)) to the kickoff call.
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
+Please invite Tina (tina.kambil@agile6.com), Jacqueline Quintanilla (jacqueline.quintanilla@civicactions.com) and Dave (dave.pickett@civicactions.com) to the kickoff call.
 
 **Pilot (with AT user)**
 
-* Pilot participant email: Sarah Koomson (Sarah.Koomson@oddball.io) on a screen reader and/or member of ADE team using screen magnifier  
-* Date and time of pilot session: TBD
+* Pilots completed in October 2025, will be reassesed by team member February 4, 2026.
 
 ### Research sessions
 
-* Planned dates of research: October 15-Oct 18 2025
+* Planned dates of research: February 11-13
 
 ### Length of sessions for AT
 
 * Session length: 1.5 hours  
-* Buffer time between sessions: 1 hour  
+* Buffer time between sessions: 30 minutes 
 * Maximum Sessions per day: 3
 
 ### Availability
 
 | Team Availability | Time Slots (ET) |
 | :---- | :---- |
-| 10/14/2025 | 9:00-16:00 |
-| 10/15/2025 | 9:00-14:00, 16:00-17:30 |
-| 10/16/2025 | 9:00-15:00 |
-| 10/17/2025 | 9:00-12:00 |
+| 2/11/2026 | 10:00-17:00 |
+| 2/12/2026 | 10:00-17:00 |
+| 2/13/2026 | 10:00-17:00 |
+| 2/17/2026 | 11:00-17:00 (if needed) |
 | TBD | TBD |
 | TBD | TBD |
 | TBD | TBD |
@@ -198,7 +197,7 @@ Please list the people who will be serving in each role.
 * Research guide writing and task development (usually but not always same as moderator): Tina Kambil & Dave Pickett 
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Tina Kambil & Dave Pickett  
-* Participant(s) for pilot test: TBD  
+* Participant(s) for pilot test: ADE team 
 * Accessibility specialist (for sessions where support for assistive technology may be needed): Jacqueline Quintanilla 
 * Note-takers: Perigean  
 * Observers: Will need to sign up so we can limit the number of observers per session, and Tina will add them to the invites that she receives from Perigean. The Sitewide team will be invited to observe.
