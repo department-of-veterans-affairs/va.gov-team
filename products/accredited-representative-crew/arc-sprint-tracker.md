@@ -13,6 +13,11 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 3. **ARC Team Onboarding and Setup**: Getting Shaunna onboarded
 
 **Team Benefits**:
+1. **[ARP Post-MVP:] Cleanup Tasks**: Drilling down on cleanup tasks related to E2E tests and URL updates
+2. **[ITF] MVP - Development**: Feature flag cleanup, Deletion of itf submissions past 60 days, Compile and prioritize ADE accessibility findings, Additional ADE tickets
+3. **[Measure Impact] ARP in Datadog**: POA rep request related to metrics for accept, accept/decline, and expiration
+4. **[Discovery Research] Understanding how reps manage the claims cycle across all clients**: Claimant lifecycle -finalize report
+5. **[526ez submission v2] v2 form 526 submission - UX**: Desk review of past UX research related to claims submission.
 
 
 **Team Appoint**:
@@ -63,6 +68,29 @@ TBD
 |Contact Center update for Address Approximation|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130548|Sprint Backlog|2|
 
 **Team Benefits**
+|                                                                             |                                                                          |             |       |
+|------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|
+|Title                                                                         |URL                                                                        |Status        |Estimate|
+|URL Update: Submissions pagination + show all parameters                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127671|Done          |3       |
+|URL Update: Rep Request & Submissions sort parameters                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127667|Done          |5       |
+|ADE Finding: Focus not managed to stepper between intro page and step 1       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130292|QA            |3       |
+|Bug: Representatives are unable to accept a Representation Requests           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125608|In Progress   |SPIKE   |
+|Claimant Lifecycle - Review transcripts and analyze + Draft Report and Summary|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127484|In Progress   |8       |
+|URL Update: Rep Request & Submissions pagination + show all parameters        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127670|In Progress   |5       |
+|desk review of past claims-submission related user research                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128149|In Progress   |5       |
+|E2E Tests for 526EZ                                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128812|In Progress   |3       |
+|Datadog: POA Rep Request "accept" Metrics Are Incorrect                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130175|Sprint Backlog|2       |
+|Datadog: POA Rep Request Accept/Decline Counter Metrics                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129484|Sprint Backlog|3       |
+|Datadog: POA Rep Request Expiration Counter Metrics Cleanup                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130242|Sprint Backlog|2       |
+|`ar_poa_submission_duration` metric should not factor in failures             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128680|Sprint Backlog|2       |
+|`ar_poa_request_duration` metric is emitting 2x for acceptances               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130639|Sprint Backlog|2       |
+|URL Update: Redirect `/representative-form-upload` to `/submissions`          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/126266|Sprint Backlog|3       |
+|Claimant Lifecycle - Finalize Report                                          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127485|Sprint Backlog|8       |
+|Explore potential uses of shared web component library                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129883|Sprint Backlog|SPIKE   |
+|Delete ITF submissions past 60 days                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128677|Sprint Backlog|5       |
+|Compile and Prioritize ADE accessibility findings                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130638|Sprint Backlog|3       |
+|Feature Flag Cleanup: ITF                                                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127544|Sprint Backlog|2       |
+|Desk review of past claims-submission related user research (Ian)             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130659|Sprint Backlog|5       |
 
 **Team Appoint**
 
@@ -160,37 +188,50 @@ Carrying into Sprint 9: 25 tickets, 75 points
 
 **Team Benefits**
 
-|Title                                                                                  |URL                                                                        |Status         |Estimate|
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------|--------|
-|QA Finding: Inaccurate ITF type reference, on "We can't confirm..." status page for non-Veterans|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129621|Done           |2       |
-|QA Finding: ITF Card referencing incorrect/incomplete benefit type                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129823|Done           |3       |
-|QA Finding: Veteran is referenced instead of non-Veteran claimant                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129827|Done           |2       |
-|Create ARC SavedClaims Deletion Job                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125798|QA             |5       |
-|QA Finding: Reps can submit ITF for claimants not in the database (no POA check)       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129533|External Review|2       |
-|QA Finding: Confirmation Page should reference benefit in "What to expect"             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129825|PR Review      |2       |
-|Bug: Representatives are unable to accept a Representation Requests                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125608|In Progress    |SPIKE   |
-|QA Finding: Review "Edit" buttons should link to the form page (no edit on Review page)|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129528|In Progress    |8       |
-|Claimant Lifecycle - Conduct Interviews                                                |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127483|In Progress    |8       |
-|Claimant Lifecycle - Scrub transcripts                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127948|In Progress    |5       |
-|Datadog: Monitor ITF attempts, successes, errors                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127481|Sprint Backlog |3       |
-|Stakeholder Artifacts for Intent to File MVP                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127466|Sprint Backlog |3       |
-|QA Finding: non-Veteran flow should check POA and ITF for the non-Veteran              |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129915|Sprint Backlog |3       |
-|Datadog: Surface latency for ITF                                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128918|Sprint Backlog |3       |
-|Datadog: Track error rates for ITF                                                     |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128927|Sprint Backlog |3       |
-|Go/ No-Go Release Review                                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128648|Sprint Backlog |2       |
-|Contact Center Review for ITF release                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127479|Sprint Backlog |2       |
-|Release ITF                                                                            |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127467|Sprint Backlog |1       |
-|Communicate ITF release to ARP pilot users via Teams/Email                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127468|Sprint Backlog |1       |
-|Update Help page with ITF content                                                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127475|Sprint Backlog |2       |
-|Update error message on Review page                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129325|Sprint Backlog |1       |
-|Claimant Details URLs                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127482|Sprint Backlog |2       |
-|Claimant Lifecycle - Review transcripts and analyze + Draft Report and Summary         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127484|Sprint Backlog |8       |
-|QA Finding: Heading updates for Claimant Information pages                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129838|Sprint Backlog |SPIKE   |
-|QA Finding: Heading updates for Review page (non-Veteran flow)                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129840|Sprint Backlog |SPIKE   |
-|desk review of past claims-submission related user research                            |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128149|Sprint Backlog |5       |
-|Update ITF designs to match development                                                |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129277|Sprint Backlog |2       |
-|Update URL flow to reflect ITF error state on the Review page                          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129279|Sprint Backlog |1       |
-|Explore potential uses of shared web component library                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129883|Sprint Backlog |SPIKE   |
+|                                                                                                                       |                                                                          |             |       |             |         |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------|--------|--------------|----------|
+|Title                                                                                                                    |URL                                                                        |Status        |Estimate|Stretch goal? |Reason for carry over|
+|Incorrect ICN for non-veteran claimants                                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130700|Done          |3       |Yes           |          |
+|QA Finding: Reps can submit ITF for claimants not in the database (no POA check)                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129533|Done          |2       |Yes           |          |
+|QA Finding: non-Veteran flow should check POA and ITF for the non-Veteran                                                |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129915|Done          |3       |              |          |
+|QA Finding: Inaccurate ITF type reference, on "We can't confirm..." status page for non-Veterans                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129621|Done          |2       |Yes           |          |
+|QA Finding: ITF Card referencing incorrect/incomplete benefit type                                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129823|Done          |3       |Yes           |          |
+|Create ARC SavedClaims Deletion Job                                                                                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/125798|Done          |5       |              |          |
+|QA Finding: Review "Edit" buttons should link to the form page (no edit on Review page)                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129528|Done          |5       |Yes           |          |
+|QA Finding: Veteran is referenced instead of non-Veteran claimant                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129827|Done          |2       |Yes           |          |
+|Datadog: Monitor ITF attempts, successes, errors                                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127481|Done          |3       |              |          |
+|Update Help page with ITF content                                                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127475|Done          |2       |              |          |
+|ADE Finding: Focus not managed to alert heading                                                                          |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130293|Done          |2       |Yes           |          |
+|QA Finding: Help Page jump links focus but don't auto-scroll                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129614|Done          |1       |Yes           |          |
+|QA Finding: "We can't confirm..." status when navigating back to Intro page                                              |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129541|Done          |3       |Yes           |          |
+|QA Finding: UX update for non-existent user lookup in MPI                                                                |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130583|Done          |2       |              |          |
+|QA Finding: Confirmation page spacing                                                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129842|Done          |1       |Yes           |          |
+|Datadog: Track error rates for ITF                                                                                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128927|Done          |3       |              |          |
+|QA Finding: Heading updates for Review page (non-Veteran flow)                                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129840|Done          |SPIKE   |              |          |
+|Datadog: Surface latency for ITF                                                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128918|Done          |3       |              |          |
+|Stakeholder Artifacts for Intent to File MVP                                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127466|Done          |3       |              |          |
+|Contact Center Review for ITF release                                                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127479|Done          |2       |              |          |
+|Update error message on Review page                                                                                      |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129325|Done          |1       |              |          |
+|Go/ No-Go Release Review                                                                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128648|Done          |2       |              |          |
+|Release ITF                                                                                                              |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127467|Done          |1       |              |          |
+|QA Finding: Heading updates for Claimant Information pages                                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129838|Done          |3       |              |          |
+|Communicate ITF release to ARP pilot users via Teams/Email                                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127468|Done          |1       |              |          |
+|Claimant Details URLs                                                                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127482|Done          |2       |              |          |
+|Claimant Lifecycle - Conduct Interviews                                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127483|Done          |8       |              |          |
+|Claimant Lifecycle - Scrub transcripts                                                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127948|Done          |5       |              |          |
+|QA Finding: Confirmation Page should reference benefit in "What to expect"                                               |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129825|Done          |2       |              |          |
+|QA Finding: VA file number has unheplful error message                                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129609|Done          |2       |Yes           |          |
+|QA Finding: Expiration icon on ITF card                                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129843|Done          |1       |              |          |
+|Update ITF designs to match development                                                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129277|Done          |2       |              |          |
+|Update URL flow to reflect ITF error state on the Review page                                                            |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129279|Done          |1       |              |          |
+|Error not handled when blocking network request in ITF                                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130443|Done          |1       |Yes           |          |
+|Confirmation page content removal                                                                                        |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130824|Done          |1       |Yes           |          |
+|ADE Finding: Focus not managed to stepper between intro page and step 1                                                  |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130292|QA            |3       |Yes           |Pending Team review|
+|URL Update: Rep Request & Submissions sort parameters                                                                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127667|PR Review     |5       |Yes           |Pending Team review|
+|Claimant Lifecycle - Review transcripts and analyze + Draft Report and Summary                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/127484|In Progress   |8       |              |Work still in progress|
+|desk review of past claims-submission related user research                                                              |https://github.com/department-of-veterans-affairs/va.gov-team/issues/128149|In Progress   |5       |              |Work still in progress|
+|Explore potential uses of shared web component library                                                                   |https://github.com/department-of-veterans-affairs/va.gov-team/issues/129883|Sprint Backlog|SPIKE   |              |Over-planned / capacity reached|
+
 
 **Team Appoint**
 |Title                                                                                   |URL                                                                        |Status        |Estimate|Stretch goal?|Reason for carry over|
