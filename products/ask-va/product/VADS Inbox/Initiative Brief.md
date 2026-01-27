@@ -44,7 +44,7 @@ Update the Ask VA inbox by implementing the VADS guidance and [new standard](htt
 -  **Functional Outcomes**:  The VADS guidance and standard operates correctly with Ask VA application.
 - **Business Outcomes**: Improved inbox usability and efficiency for Ask VA users.  Decreased dissatisfied feedback collected via the feedback button and intercept survey responses.
 
-### User Exerience Outcomes
+### User Experience Outcomes
 |Outcome|Description|
 |:---|:---|
 |Inquiries Reviewed|Users can easily and quickly review their historical inquiries in a single column card view that aligns with messaging patterns across the VA.|
