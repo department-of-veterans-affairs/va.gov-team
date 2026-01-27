@@ -103,10 +103,10 @@ TBD
 |Find a Rep: Fix missing longitude parameter in API Requests                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105462|Sprint Backlog       |SPIKE   |
 |21-22a PDF generation error -- rep was missing zip code                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/113487|Sprint Backlog       |SPIKE   |
 |21-22a desk research: Synthesis and reporting                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130880|Sprint Backlog       |3       |
-|General Onboarding to VA [Lena]                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130612|Prioritized Backlog  |5       |
-|UX Onboarding to ARC [Lena]                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130621|Prioritized Backlog  |3       |
-|Allow all alphanumeric characters in location field of Find a Rep                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/79287 |Prioritized Backlog  |3       |
-|Fix Spacing for "associated organizations" additional info component                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130520|~Ready for Refinement|2       |
+|General Onboarding to VA [Lena]                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130612||Sprint Backlog      |3       |
+|UX Onboarding to ARC [Lena]                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130621|Sprint Backlog       |3       |
+|Allow all alphanumeric characters in location field of Find a Rep                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/79287 |Sprint Backlog       |3       |
+|Fix Spacing for "associated organizations" additional info component                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130520|Sprint Backlog       |2       |
 
 
 **Engagement**
@@ -128,7 +128,9 @@ TBD
 |Content / Review the Get-Help section for Improvements|https://github.com/department-of-veterans-affairs/va.gov-team/issues/122014|Draft|
 
 **Leadership**
-
+|Title                                                                                   |URL                                                                        |Status               |Estimate|
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------|--------|
+|Discovery - Research Indexing Solutions                                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130665|Sprint Backlog       |5       |
 # Sprint 8 (Jan 13-26, 2026)
 
 ## Sprint 8 Goals
