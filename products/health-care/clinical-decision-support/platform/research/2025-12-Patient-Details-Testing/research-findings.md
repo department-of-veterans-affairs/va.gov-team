@@ -365,7 +365,7 @@ This research supports measurement of this KPI by identifying specific workflow 
 
 Based on the research findings, we recommend the following immediate actions:
 
-1. **Prioritize clinical use cases**: Review and prioritize the 23 clinical use cases identified in this research (see Clinical Use Cases section) based on workflow impact and research evidence, with program lead support to align on scope and sequencing.
+1. **Prioritize clinical use cases**: Review and prioritize the 23 clinical use cases identified in this research (see Clinical Use Cases section) based on workflow impact and research evidence, with program lead support to align on scope and sequencing. [#241 Prioritize use cases to ground design work](https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/241)
 
 2. **Prototype thin slices**: Create design concepts for prioritized use cases through cross-functional pairing (design, product, engineering) to iterate, validate, and test open assumptions this quarter.
 
