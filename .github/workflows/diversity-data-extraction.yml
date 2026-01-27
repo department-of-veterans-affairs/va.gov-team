@@ -86,9 +86,33 @@ jobs:
               return filePath.split('/').map(segment => encodeURIComponent(segment)).join('/');
             };
             
+            // Helper function to check if a value is a placeholder/template value
+            const isPlaceholder = (value) => {
+              if (!value || typeof value !== 'string') return true;
+              const placeholders = [
+                'YYYY-MM-DD',
+                'yyyy-mm-dd',
+                '[Study]',
+                '[study]',
+                '[Team]',
+                '[team]',
+                '[Product]',
+                '[product]',
+                'TBD',
+                'tbd',
+                'N/A',
+                'n/a',
+                'TODO',
+                'todo',
+                'PLACEHOLDER',
+                'placeholder'
+              ];
+              return placeholders.some(p => value.includes(p));
+            };
+            
             // Helper function to validate and parse date
             const parseDate = (dateStr) => {
-              if (!dateStr || dateStr === 'unknown' || dateStr === 'YYYY-MM-DD') {
+              if (!dateStr || dateStr === 'unknown' || isPlaceholder(dateStr)) {
                 return null;
               }
               // Try to parse various date formats
@@ -113,6 +137,41 @@ jobs:
               return parsed.toISOString().split('T')[0];
             };
             
+            // Helper function to check if frontmatter has real data (not just template)
+            const hasCompletedData = (frontMatter) => {
+              // Must have a valid date (not a placeholder)
+              const hasValidDate = frontMatter.date && !isPlaceholder(frontMatter.date) && parseDate(frontMatter.date) !== null;
+              
+              // Must have participants count > 0
+              const hasParticipants = toInt(frontMatter.participants_total) > 0;
+              
+              // Must have either valid date OR participants to be considered complete
+              // But ideally should have both - require at least one solid indicator
+              if (!hasValidDate && !hasParticipants) {
+                return false;
+              }
+              
+              // Check if title is a placeholder
+              if (frontMatter.title && isPlaceholder(frontMatter.title)) {
+                // If title is placeholder, we need both date AND participants
+                return hasValidDate && hasParticipants;
+              }
+              
+              // If we have a real title, having either date or participants is enough
+              return hasValidDate || hasParticipants;
+            };
+            
+            // Helper to format label for display (convert snake_case to Title Case)
+            const formatLabel = (key) => {
+              return key
+                .replace(/_/g, ' ')
+                .replace(/\b\w/g, c => c.toUpperCase())
+                .replace(/^At /i, 'AT ')
+                .replace(/ At /gi, ' AT ')
+                .replace(/^Va /i, 'VA ')
+                .replace(/ Va /gi, ' VA ');
+            };
+            
             // Find all findings files (only .md files, excluding binary formats)
             const files = await globModule.glob('**/research/**/*findings*.md', {
               ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx', '**/*.pdf']
@@ -121,6 +180,7 @@ jobs:
             console.log(`Found ${files.length} research findings files`);
             
             const allDemographics = [];
+            const skippedFiles = [];
             const errors = [];
             
             // Repository info for generating URLs
@@ -142,13 +202,21 @@ jobs:
                 
                 // Check if demographics data exists
                 if (frontMatter.demographics || frontMatter.participants_total) {
+                  
+                  // Validate that this is completed data, not a template
+                  if (!hasCompletedData(frontMatter)) {
+                    skippedFiles.push({ file, reason: 'Incomplete or template frontmatter' });
+                    console.log(`Skipping ${file}: Incomplete or template frontmatter`);
+                    continue;
+                  }
+                  
                   // Generate GitHub URL for this file with proper encoding
                   const encodedPath = encodeFilePath(file);
                   const fileUrl = `https://github.com/${repoOwner}/${repoName}/blob/${defaultBranch}/${encodedPath}`;
                   
                   // Get a clean title - skip placeholder titles
                   let title = frontMatter.title || '';
-                  if (!title || title === '[Study] Research Findings' || title.includes('[Study]')) {
+                  if (!title || isPlaceholder(title)) {
                     // Extract a better title from the file path
                     const pathParts = file.split('/');
                     const fileName = pathParts.pop().replace('.md', '').replace(/-/g, ' ');
@@ -181,19 +249,91 @@ jobs:
             }
             
             console.log(`Extracted demographics from ${allDemographics.length} files`);
+            console.log(`Skipped ${skippedFiles.length} files with incomplete data`);
             console.log(`Errors: ${errors.length}`);
             
-            // Aggregate data
+            // Aggregate data with all demographic categories
             const aggregated = {
               extraction_date: new Date().toISOString(),
               total_studies: allDemographics.length,
               total_participants: 0,
-              at_inclusion: { studies_with_at: 0, total_at_participants: 0 },
-              location: { rural: 0, urban: 0, unknown: 0 },
-              disability: {},
-              age: {},
-              race: {},
-              devices: { desktop: 0, tablet: 0, smartphone: 0, assistive_technology: 0 },
+              
+              // Participant types
+              participant_types: {
+                veterans: 0,
+                service_members: 0,
+                caregivers: 0,
+                dependents: 0,
+                VA_staff: 0
+              },
+              
+              // Devices
+              devices: {
+                desktop: 0,
+                tablet: 0,
+                smartphone: 0,
+                assistive_technology: 0
+              },
+              
+              // Age groups
+              age: {
+                '25-34': 0,
+                '35-44': 0,
+                '45-54': 0,
+                '55-64': 0,
+                '65+': 0,
+                'unknown': 0
+              },
+              
+              // Education levels
+              education: {
+                high_school: 0,
+                some_college: 0,
+                associates: 0,
+                bachelors: 0,
+                masters: 0,
+                doctorate: 0,
+                unknown: 0
+              },
+              
+              // Location
+              location: {
+                urban: 0,
+                rural: 0,
+                unknown: 0
+              },
+              
+              // Race/ethnicity
+              race: {
+                white: 0,
+                black: 0,
+                hispanic: 0,
+                biracial: 0,
+                asian: 0,
+                native: 0
+              },
+              
+              // Disability and assistive technology
+              disability: {
+                cognitive: 0,
+                AT_beginner: 0,
+                AT_advanced: 0,
+                screen_reader_desktop: 0,
+                screen_reader_mobile: 0,
+                magnification_zoom: 0,
+                speech_input: 0,
+                hearing_aids: 0,
+                sighted_keyboard: 0,
+                captions: 0
+              },
+              
+              // AT inclusion summary
+              at_inclusion: {
+                studies_with_at: 0,
+                total_at_participants: 0
+              },
+              
+              // Study list
               studies: allDemographics.map(r => ({
                 title: r.title,
                 file: r.file,
@@ -202,43 +342,87 @@ jobs:
                 product: r.product,
                 team: r.team,
                 participants: r.participants_total
-              }))
+              })),
+              
+              skipped_files: skippedFiles
             };
             
+            // Aggregate all data
             for (const record of allDemographics) {
               aggregated.total_participants += toInt(record.participants_total);
               
-              // AT inclusion
+              // Participant types (top-level demographics)
+              for (const type of ['veterans', 'service_members', 'caregivers', 'dependents', 'VA_staff']) {
+                if (record.demographics?.[type] !== undefined) {
+                  aggregated.participant_types[type] += toInt(record.demographics[type]);
+                }
+              }
+              
+              // Devices
+              if (record.devices_used) {
+                for (const device of ['desktop', 'tablet', 'smartphone', 'assistive_technology']) {
+                  aggregated.devices[device] += toInt(record.devices_used[device]);
+                }
+              }
+              
+              // AT inclusion tracking
               const atCount = toInt(record.devices_used?.assistive_technology);
               if (atCount > 0) {
                 aggregated.at_inclusion.studies_with_at++;
                 aggregated.at_inclusion.total_at_participants += atCount;
               }
               
+              // Age groups
+              if (record.demographics?.age) {
+                for (const [key, value] of Object.entries(record.demographics.age)) {
+                  if (aggregated.age.hasOwnProperty(key)) {
+                    aggregated.age[key] += toInt(value);
+                  } else {
+                    aggregated.age[key] = toInt(value);
+                  }
+                }
+              }
+              
+              // Education
+              if (record.demographics?.education) {
+                for (const [key, value] of Object.entries(record.demographics.education)) {
+                  if (aggregated.education.hasOwnProperty(key)) {
+                    aggregated.education[key] += toInt(value);
+                  } else {
+                    aggregated.education[key] = toInt(value);
+                  }
+                }
+              }
+              
               // Location
               if (record.demographics?.location) {
-                aggregated.location.rural += toInt(record.demographics.location.rural);
-                aggregated.location.urban += toInt(record.demographics.location.urban);
-                aggregated.location.unknown += toInt(record.demographics.location.unknown);
+                for (const [key, value] of Object.entries(record.demographics.location)) {
+                  if (aggregated.location.hasOwnProperty(key)) {
+                    aggregated.location[key] += toInt(value);
+                  } else {
+                    aggregated.location[key] = toInt(value);
+                  }
+                }
               }
               
-              // Devices
-              if (record.devices_used) {
-                aggregated.devices.desktop += toInt(record.devices_used.desktop);
-                aggregated.devices.tablet += toInt(record.devices_used.tablet);
-                aggregated.devices.smartphone += toInt(record.devices_used.smartphone);
-                aggregated.devices.assistive_technology += toInt(record.devices_used.assistive_technology);
+              // Race
+              if (record.demographics?.race) {
+                for (const [key, value] of Object.entries(record.demographics.race)) {
+                  if (aggregated.race.hasOwnProperty(key)) {
+                    aggregated.race[key] += toInt(value);
+                  } else {
+                    aggregated.race[key] = toInt(value);
+                  }
+                }
               }
               
-              // Aggregate other demographics (race, age, disability)
-              for (const category of ['race', 'age', 'disability']) {
-                if (record.demographics?.[category]) {
-                  for (const [key, value] of Object.entries(record.demographics[category])) {
-                    const numValue = toInt(value);
-                    if (numValue > 0) {
-                      aggregated[category] = aggregated[category] || {};
-                      aggregated[category][key] = (aggregated[category][key] || 0) + numValue;
-                    }
+              // Disability
+              if (record.demographics?.disability) {
+                for (const [key, value] of Object.entries(record.demographics.disability)) {
+                  if (aggregated.disability.hasOwnProperty(key)) {
+                    aggregated.disability[key] += toInt(value);
+                  } else {
+                    aggregated.disability[key] = toInt(value);
                   }
                 }
               }
@@ -264,10 +448,30 @@ jobs:
             core.setOutput('aggregated', JSON.stringify(aggregated, null, 2));
             core.setOutput('study_count', allDemographics.length);
             core.setOutput('participant_count', aggregated.total_participants);
+            core.setOutput('skipped_count', skippedFiles.length);
             
             // Generate date-stamped filename
             const dateStamp = new Date().toISOString().split('T')[0];
             core.setOutput('date_stamp', dateStamp);
+            
+            // Helper to generate a section with counts
+            const generateSection = (title, data, excludeZeros = false) => {
+              const lines = [`### ${title}`, ''];
+              const entries = Object.entries(data).filter(([key, value]) => {
+                if (excludeZeros && value === 0) return false;
+                return typeof value === 'number';
+              });
+              
+              if (entries.length === 0) {
+                lines.push('_No data available_');
+              } else {
+                for (const [key, value] of entries) {
+                  lines.push(`- **${formatLabel(key)}:** ${value}`);
+                }
+              }
+              lines.push('');
+              return lines;
+            };
             
             // Create summary artifact - build it as an array then join
             const summaryLines = [
@@ -278,26 +482,77 @@ jobs:
               '## Overview',
               '- **Total Studies:** ' + aggregated.total_studies,
               '- **Total Participants:** ' + aggregated.total_participants,
-              '',
-              '## AT Inclusion',
-              '- **Studies with AT Users:** ' + aggregated.at_inclusion.studies_with_at + ' (' + aggregated.at_inclusion.rate + ')',
-              '- **Total AT Participants:** ' + aggregated.at_inclusion.total_at_participants,
-              '',
-              '## Location Representation',
-              '- **Rural:** ' + aggregated.location.rural + ' (' + (aggregated.location.rural_rate || 'N/A') + ')',
-              '- **Urban:** ' + aggregated.location.urban,
-              '',
-              '## Devices Used',
-              '- Desktop: ' + aggregated.devices.desktop,
-              '- Tablet: ' + aggregated.devices.tablet,
-              '- Smartphone: ' + aggregated.devices.smartphone,
-              '- Assistive Technology: ' + aggregated.devices.assistive_technology,
+              '- **Files Skipped (incomplete data):** ' + skippedFiles.length,
               '',
               '---',
               '',
-              '## Appendix: Studies Included in This Report',
+              '## Participant Types',
               ''
             ];
+            
+            // Participant types
+            for (const [key, value] of Object.entries(aggregated.participant_types)) {
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // Devices Used
+            summaryLines.push('## Devices Used', '');
+            for (const [key, value] of Object.entries(aggregated.devices)) {
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // AT Inclusion
+            summaryLines.push('## Assistive Technology Inclusion', '');
+            summaryLines.push(`- **Studies with AT Users:** ${aggregated.at_inclusion.studies_with_at} (${aggregated.at_inclusion.rate || '0.0%'})`);
+            summaryLines.push(`- **Total AT Participants:** ${aggregated.at_inclusion.total_at_participants}`);
+            summaryLines.push('');
+            
+            // Age Distribution
+            summaryLines.push('## Age Distribution', '');
+            for (const [key, value] of Object.entries(aggregated.age)) {
+              summaryLines.push(`- **${key}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // Education Levels
+            summaryLines.push('## Education Levels', '');
+            for (const [key, value] of Object.entries(aggregated.education)) {
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // Location
+            summaryLines.push('## Geographic Location', '');
+            const locationTotal = aggregated.location.rural + aggregated.location.urban;
+            for (const [key, value] of Object.entries(aggregated.location)) {
+              let rateStr = '';
+              if (key !== 'unknown' && locationTotal > 0) {
+                const rate = ((value / locationTotal) * 100).toFixed(1);
+                rateStr = ` (${rate}%)`;
+              }
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}${rateStr}`);
+            }
+            summaryLines.push('');
+            
+            // Race/Ethnicity
+            summaryLines.push('## Race/Ethnicity', '');
+            for (const [key, value] of Object.entries(aggregated.race)) {
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // Disability and Assistive Technology Details
+            summaryLines.push('## Disability & Assistive Technology Details', '');
+            for (const [key, value] of Object.entries(aggregated.disability)) {
+              summaryLines.push(`- **${formatLabel(key)}:** ${value}`);
+            }
+            summaryLines.push('');
+            
+            // Appendix
+            summaryLines.push('---', '');
+            summaryLines.push('## Appendix: Studies Included in This Report', '');
             
             // Sort studies by date (most recent first), with unknown/invalid dates at the end
             const sortedStudies = [...allDemographics].sort((a, b) => {
@@ -391,6 +646,7 @@ jobs:
           
           Studies analyzed: ${{ steps.extract.outputs.study_count }}
           Total participants: ${{ steps.extract.outputs.participant_count }}
+          Skipped files: ${{ steps.extract.outputs.skipped_count }}
           
           Generated by: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             
