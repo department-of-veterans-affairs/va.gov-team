@@ -317,16 +317,3 @@ it 'tracks availability scenario' do
 end
 ```
 
----
-
-## Related Documentation
-
-- [VASS API Documentation](../README.md)
-- [Error Handling](./ERROR_HANDLING.md)
-- [Rate Limiting](./RATE_LIMITING.md)
-
-## Support
-
-- **Team**: VASS Development Team
-- **Slack**: #vets-api-vass
-- **Datadog**: [VASS Dashboards](https://app.datadoghq.com/dashboard/vass)
