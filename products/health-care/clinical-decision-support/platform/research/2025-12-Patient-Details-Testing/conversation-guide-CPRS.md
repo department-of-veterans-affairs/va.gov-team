@@ -203,7 +203,7 @@ Next we’re going to look at a prototype of the application. There are a few th
 ### Bridge
 Now that you’ve seen what exists today within the Console, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype and will ask for your initial impressions on what you see, and what information you would like/expect to see to best support your workflow. 
 
-I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. [Share prototype with participant]
+I’ll share the prototype link in the chat, have you pull that up on your screen, and provide an example scenario to consider as you are viewing the prototype. `[Share prototype with participant]`
 
 ### Scenario
 Imagine that you are seeing one of your patients as part of a routine visit. As this is a patient you are familiar with, you know she is in her late 50s, has major depression, hypertension, and obesity. As such, you continue to monitor specific labs and vitals closely to determine if additional interventions are needed. During the encounter, you open up the CDS Console and arrive here. [*You are currently with the patient.]
