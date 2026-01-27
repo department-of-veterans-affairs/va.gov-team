@@ -383,13 +383,13 @@ Based on the research findings, we recommend the following immediate actions:
 
 Based on themes and insights covered in this research round, additional research is recommended for the following topics:
 
-**Oracle Health workflows**: Additional participants needed across primary care and various specialties/roles to better understand PowerChart workflows and how Patient Details integrates.
+1. **Oracle Health workflows**: Additional participants needed across primary care and various specialties/roles to better understand PowerChart workflows and how Patient Details integrates.
 
-**Task workflows**: Deeper exploration of task management workflows within Oracle Health's PowerChart, including how tasks are assigned, tracked, and completed.
+2. **Task workflows**: Deeper exploration of task management workflows within Oracle Health's PowerChart, including how tasks are assigned, tracked, and completed.
 
-**Tasks/follow-up tracking**: Investigation of how clinicians manage follow-up actions and whether Patient Details can support task creation and tracking.
+3. **Tasks/follow-up tracking**: Investigation of how clinicians manage follow-up actions and whether Patient Details can support task creation and tracking.
 
-**ICN usage**: Understanding how clinicians perceive and use Integration Control Numbers (ICN) in their workflows, as familiarity was generally low across participants.
+4. **ICN usage**: Understanding how clinicians perceive and use Integration Control Numbers (ICN) in their workflows, as familiarity was generally low across participants.
 
 ## Appendix
 
