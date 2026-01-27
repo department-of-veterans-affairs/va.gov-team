@@ -180,7 +180,7 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 |Sprint 22|Team 5|Initial discovery|https://github.com/department-of-veterans-affairs/va.gov-team/issues/130830|1|Done|S22: Added 1/23 to quickly answer some critical questions to enable VBA thinking about new BDD things in relation to va.gov submissions. |
 |Sprint 22|Team 5|Refine requirements and scope for Side Nav post-MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129507|3|Needs Review|S22: Rolling over for Product to review and document prioritized work.|
 |Sprint 22|Team 5|Prepare Artifacts and Environment for Staging Review|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129466|3|Needs Review|S22: Expected to close by EOD|
-|Sprint 22|Team 5|Datadog RUM logging for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127743|3|Needs Review|S22: Pending PR approval. Expected to close by EOD|
+|Sprint 22|Team 5|Datadog RUM logging for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/127743|3|Needs Review|S22: Pending PR approval. Rolling over for PR tests |
 |Sprint 22|Team 5|Submit ADE Team Request for Side Nav MVP|https://github.com/department-of-veterans-affairs/va.gov-team/issues/129467|2|Blocked|S22: Pending bugfixes to be ready in staging for platform testing.|
 |Sprint 22|Team 5|Finalize research report & plan shareout|https://github.com/department-of-veterans-affairs/va.gov-team/issues/128205|3|In Progress|S22: Will rollover for a day or two to finalize report in GitHub.|
 
