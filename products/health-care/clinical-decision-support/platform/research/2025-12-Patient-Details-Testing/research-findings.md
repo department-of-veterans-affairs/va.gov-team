@@ -443,9 +443,9 @@ Detailed use cases can be found in: [Clinician Experience Mapping Mural](https:/
 
 ### Other supporting documents created
 
-- Clinical use case mapping with 54 candidate scenarios synthesized into 23 use cases
-- Oracle Health workflow documentation across 3 participants
-- ICN familiarity findings
+- Clinical use case mapping with 54 candidate scenarios synthesized into 23 use cases [Clinician Experience Mapping Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738002902653/5ab79a8d0c2f5f83fb8798b639db3827d9b8e22d)
+- Oracle Health workflow documentation across 3 participants [See slides 56-64](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/Clinical%20Decision%20Support%20Platform%20Team%20(CDSP)/2.%20User%20Research/2025%20User%20Research/Patient%20Details/Patient%20Details_Insights_1.09.2025_LizBlasi_V2.pdf?csf=1&web=1&e=EURy3S)
+- ICN familiarity findings [See slides 51-54](https://dvagov.sharepoint.com/:b:/r/sites/CDSProgramTeam/Shared%20Documents/Clinical%20Decision%20Support%20Platform%20Team%20(CDSP)/2.%20User%20Research/2025%20User%20Research/Patient%20Details/Patient%20Details_Insights_1.09.2025_LizBlasi_V2.pdf?csf=1&web=1&e=EURy3S)
 
 ### Secondary research
 
