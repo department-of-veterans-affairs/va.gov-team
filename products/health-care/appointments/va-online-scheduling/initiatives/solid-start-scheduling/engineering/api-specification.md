@@ -628,16 +628,46 @@ Cancels an existing appointment. Requires a Bearer Token received after authenti
 ## Security Considerations
 
 ### Authentication Flow Security
-- **OTP Generation**: 6-digit numeric codes, cryptographically random
-- **OTP Storage**: Hashed in Redis with 10-minute TTL
-- **OTP Storage**: is cleared from Redis immediately after successful validation
-- **OTP Validation**: Maximum 5 attempts before 15-minute lockout
-- **Rate Limiting**: 3 OTP requests per UUID per 15 minutes
-- **JWT Algorithm**: RS256 (RSA Signature with SHA-256)
+- **OTC Generation**: 6-digit numeric codes, cryptographically random
+- **OTC Storage**: Stored in Redis with 10-minute TTL
+- **OTC Cleared**: Immediately after successful validation (single-use)
+- **OTC Validation**: Maximum 5 attempts before 15-minute lockout
+- **Rate Limiting**: 3 OTC requests per UUID per 15 minutes
+- **JWT Algorithm**: HS256 (HMAC with SHA-256)
 - **JWT Claims**: Includes `jti`, `exp`, `iat`, `sub` (uuid)
 - **Token Expiration**: 1 hour (3600 seconds)
 
+### Session Security
+- **One Session Per Veteran**: Sessions keyed by UUID. Issuing a new token automatically invalidates previous tokens.
+- **JTI Validation**: Each authenticated request validates the token's `jti` matches the active session. Stale tokens are rejected even if not expired.
+- **Token Revocation**: `POST /revoke-token` endpoint allows explicit logout. Deletes session from Redis, immediately invalidating the token.
+
+### Identity Validation
+- **OTC Authentication**: Submitted `last_name` and `dob` are validated against values stored when OTC was requested. Prevents use of intercepted OTC without knowing veteran's identity.
+- **Constant-Time Comparison**: OTC validation uses `ActiveSupport::SecurityUtils.secure_compare` to prevent timing attacks.
+
 ### Data Protection
-- **Transport**: All endpoints require HTTPS/TLS 1. 3+
-- **PII Handling**: Lastname and DOB validated server-side only. Only appointment information returnted to the client. No veteran data.
-- **Error Messages**: Generic messages to prevent PII/PHI disclosure
+- **Transport**: All endpoints require HTTPS/TLS 1.3+
+- **PII Handling**: Last name and DOB validated server-side only. Only appointment information returned to client.
+- **Error Messages**: Generic messages prevent information disclosure (e.g., invalid credentials vs. user not found)
+
+### Endpoint Abuse Scenarios and Mitigations
+
+| Endpoint | Abuse Scenario | Mitigation |
+|----------|---------------|------------|
+| `POST /request-otc` | UUID enumeration | Generic error messages regardless of UUID validity |
+| `POST /request-otc` | OTC flooding / lockout | Rate limit: 3 requests per UUID per 15 minutes |
+| `POST /authenticate-otc` | Brute force OTC | 5 attempt limit before 15-minute lockout |
+| `POST /authenticate-otc` | Intercepted OTC | Identity re-validation (last_name + DOB must match) |
+| `POST /authenticate-otc` | Timing attack | Constant-time comparison for OTC |
+| `POST /revoke-token` | Unauthorized revocation | Requires valid JWT; only affects own session |
+| `GET /appointment-availability` | Information disclosure | JWT authentication required |
+| `POST /appointment` | Booking as another veteran | JWT `sub` claim binds session to specific UUID |
+
+### Audit Trail
+All security events logged in structured JSON with:
+- `vass_uuid` - Veteran identifier for request correlation
+- `jti` - JWT ID for session-level tracing
+- `action` - Event type (e.g., `jwt_issued`, `auth_failure`, `invalid_otc`)
+
+See [logging.md](./logging.md) for complete event reference.
