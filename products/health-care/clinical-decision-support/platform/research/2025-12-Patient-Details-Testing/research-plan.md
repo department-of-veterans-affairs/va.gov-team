@@ -79,7 +79,7 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 
 ---
 
-**Insights will identify where the feature meets clinician needs, where friction persists, and what opportunities exist to evolve Patient Details on the Console. This evidence will guide prioritization of enhancements and inform the roadmap for future iterations.**
+**Insights will identify where the feature meets clinician needs, where friction persists, and what opportunities exist to evolve Patient Details on the CDS Console. This evidence will guide prioritization of enhancements and inform the Platform and CDSC roadmap for future iterations.**
 ---
 
 ### Research questions
