@@ -1,10 +1,11 @@
 # Ask VA: Initiative Brief for VADS Inbox Sort/Filter Patterns
-This doc gives an overview of the Ask VA initiate to implement the **VADS Inbox Sort/Filter Patterns**. 
-View **Ask VA's Product Outline**, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md).
+This document provides an overview of the Ask VA initiative to implement the **VADS Inbox Sort/Filter Patterns**. 
 
-- Start date: 
-- Launch date: TBD
-- Collaboration Cycle Kick-off submission date:  TBD
+To view **Ask VA's Product Outline** go here, [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md).
+
+| Initiative Start Date | Initiative Launch Date | CC Kick-off Submission Date |
+|----------|----------|----------|
+| 2025 | TBD | TBD/Feb 2026 |
 
 **Jump to:**
 - [Overview](#overview)
@@ -15,14 +16,30 @@ View **Ask VA's Product Outline**, [in this GitHub doc](https://github.com/depar
 - [Team and VA partners](#team-and-va-partners)
 
 ## Overview
-Ask VA users submit questions at .  An authenticated (logged in user) can view an inbox of their submitted questions and received replies from the VA.  The Ask VA team executed a 
+Ask VA users submit questions at, https://www.va.gov/contact-us/ask-va/introduction.  An authenticated (logged in) user can view a personalized inbox of their submitted questions, progress statuses, and received replies.  
+
+In 2025 the Ask VA team executed an Inbox Usability Study, https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/design/User%20research/2025-10%20Form%20and%20Inbox%20Usability%20Study. 
+Key findings support implementing enhancements to the current inbox experience.
+
+- Current Inbox Experience (as of 1/27/2026)
+
+<img width="1010" height="1248" alt="image" src="https://github.com/user-attachments/assets/606652ea-92f7-4b7c-8fef-863e4ac129eb" />
+
+
+
+
+During design activities, VA Design System (VADS) guidance was identified for Ask VA to adopt the new standard https://design.va.gov/components/search-filter.
 
 ## Problem statement
-**Background**: Only 1/3 of Veterans, family members, and other people with questions for VA who visit the current Ask VA landing page (ask.va.gov) end up completing the support request. Ask VA's CSAT score is at 23%, compared to VA.gov's 29% CSAT score. User research has identified form burden as a barrier for Veterans to receiving answers to their inquiries. To expediently get Veterans the healthcare & benefits answers they deserve, VA is simplifying the process. 
+**Background**
 
-**Solution**: We'll reduce unnecessary Veteran inputs by auto-classifying the categories, topics, and subtopics needed to route Veteran inquiries to the right place. This is expected to improve satisfaction and reduce friction in the direct healthcare and benefits process.
+Ask VA users want to easily and quickly view their submitted questions using; search, filter and sort tooling. The current inbox experience displays submitted questions (also referred to as "inquiries") in a grid format, with a card representing each inquiry.  The cards do not display in a user friendly way, often leaving users confused of the order their information is displayed.  Users want the ability to filter their inquiries by category type, status and sort by newest to oldest or oldest to newest.
 
-## Outcomes
+**Solution**
+
+Update the Ask VA inbox by implementing the VADS guidance and new standard, https://design.va.gov/components/search-filter.
+
+## Outcomes - HERE AND BELOW STEPHANIE IS REVISING
 - **User experience outcomes**: Ensure users have an easy and accessible interaction with Ask VA.
 - **Functional outcomes**: Ensure the system operates correctly and efficiently with Ask VA.
 - **Business outcomes**: Ensures increased efficiency for VA customer support. 
