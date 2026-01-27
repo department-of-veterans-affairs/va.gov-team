@@ -91,7 +91,7 @@ Now I'm going to send you a link to get started with the test version of the app
 ## Test paths
 
 Now I'm going to ask you to go to various parts of the app where I'll be checking to see that elements appear correctly.
-- [Spreadsheet: Test paths and success criteria - Overpayment UAT](https://docs.google.com/spreadsheets/d/1xfHJGzPQJaIeO-uPp8D4aboEO-qSDvBVp0b5QABg_5Q/edit?gid=0#gid=0)
+- [Spreadsheet: Test paths and success criteria - Overpayment UAT](https://docs.google.com/spreadsheets/d/1xfHJGzPQJaIeO-uPp8D4aboEO-qSDvBVp0b5QABg_5Q/edit?gid=312390165#gid=312390165)
 
 
 
