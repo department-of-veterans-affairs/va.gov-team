@@ -136,6 +136,16 @@ Now I’d like to learn more about your typical workflow with PowerChart.
 * Have you run into any challenges with switching between patient charts?
 
 # Section 2 - Patient Details Enhancements - 20 min
+> [!NOTE]
+> ### Obejectives:
+> Gather initial feedback on patient details enhancements
+> Validate patient details enhancements on the Console and identify where the concepts can improve to support clinician efficiency and task flows.
+> Gather value assessment in how Patient Details fits into workflow and aids in clinical decision making.
+
+> [!NOTE]
+> ### Key Outcomes:
+> Gather navigation input related to how clinicians transition from Patient Details to individual CDS apps for task completion.
+> Collect evidence to prioritize which patient detail enhancements on the Console (‘partial views’) should be considered for the Platform roadmap
 
 ## Bridge - 1 min
 * Now that you’ve shared your typical workflow, we’d like to get your feedback on potential enhancement ideas. I’ll be sharing a prototype of the CDS Console and will ask for your initial impressions on what you see, and how this information compares to your typical workflow.
@@ -172,16 +182,6 @@ Next we’re going to look at a prototype of the application. There are a few th
 
 `[Describe clinical scenario and pull up prototype and share screen]`
 
-> [!NOTE]
-> ### Obejectives:
-> Gather initial feedback on patient details enhancements
-> Validate patient details enhancements on the Console and identify where the concepts can improve to support clinician efficiency and task flows.
-> Gather value assessment in how Patient Details fits into workflow and aids in clinical decision making.
-
-> [!NOTE]
-> ### Key Outcomes:
-> Gather navigation input related to how clinicians transition from Patient Details to individual CDS apps for task completion.
-> Collect evidence to prioritize which patient detail enhancements on the Console (‘partial views’) should be considered for the Platform roadmap
 
 ## Scenario - 1 min
 * Imagine that you are seeing one of your patients as part of a routine visit. 
