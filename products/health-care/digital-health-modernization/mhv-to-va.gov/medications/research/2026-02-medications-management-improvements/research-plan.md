@@ -60,7 +60,7 @@ We will partner with Perigean to recruit Veterans. We will request a kickoff mee
 • Device requirement: All participants must join from a secure connection on a laptop or desktop  
 
 ## Accessibility note
-We will not be recruiting assistive technology users because the Figma prototype is not fully compatible with assistive technologies and cannot be reliably tested with screen readers or similar tools.
+We will **not** be recruiting assistive technology users because the Figma prototype is not fully compatible with assistive technologies and cannot be reliably tested with screen readers or similar tools.
 
 ## Primary criteria (must-haves)
 • All participants have VA health care as a benefit  
