@@ -1,5 +1,5 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on August 4, 2025
+Last updated by Stephanie Vargo on 1/27/2026
 
 This product outline gives an overview of the Ask VA product. 
 
