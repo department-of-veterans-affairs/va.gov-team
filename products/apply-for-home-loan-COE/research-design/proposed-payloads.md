@@ -37,7 +37,7 @@ Suggested:
   },
   dateOfBirth: '2001-01-01', //prefilled
   ⭐️ ssnLast4: '1234', // prefilled
-  veteran: { // The profileContactInfoPages pattern gives us this object
+  ⭐️ veteran: { // The profileContactInfoPages pattern gives us this object
     "mailingAddress": {
       "addressLine1": "1200 Park Ave",
       "addressLine2": "c/o Pixar",
