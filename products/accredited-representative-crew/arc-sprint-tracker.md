@@ -2,6 +2,46 @@
 
 _Overview: This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 9 (Jan 27-Feb 09, 2026)
+
+## Sprint 9 Goals
+- [] Sprint Goals Approved by Enablement   
+
+**Team Accreditation**: 
+
+
+**Team Benefits**:
+
+
+**Team Appoint**:
+1. **ARC Team Onboarding and Setup**: General onboarding to VA and ARC onboarding (continued)
+2. **[21-22a] Research: Understand the 21-22a representation relationship and supporting VA processes**: Wrap up desk research review of past findings and provide synthesis
+3. DataDog Audit of monitors/alerts for rep-management APM
+4. Address outstanding medium priority bugs
+
+**Engagement**: 
+
+
+## Sprint 9 Demos
+
+TBD
+
+## Sprint 9 Delivery
+
+TBD
+
+## Sprint 9 Tickets
+
+**Team Accreditation**
+
+**Team Benefits**
+
+**Team Appoint**
+
+**Engagement**
+
+**Leadership**
+
 # Sprint 8 (Jan 13-26, 2026)
 
 ## Sprint 8 Goals
