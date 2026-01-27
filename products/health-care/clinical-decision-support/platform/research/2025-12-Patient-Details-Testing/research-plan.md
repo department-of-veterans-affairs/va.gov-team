@@ -233,7 +233,7 @@ Liz Blasi
 - `Project point of contact:` **[Liz Blasi]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Homer Gaines]**	
 - `Note-takers:` **[Rosemary Rogers, Ruben Sun, Ayangbe Mannen, Natalie Hill, Alyssa Li]** 	
-- `Observers: **[None]**
+- `Observers:` **[None]**
 
 ### Notetaker and Silent Obeserver Guide
 - Be a silent observer. If you have a question for the participant, ask the facilitator via a Slack DM and they'll accommodate it if appropriate.
