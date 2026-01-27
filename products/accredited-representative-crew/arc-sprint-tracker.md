@@ -23,7 +23,7 @@ _Overview: This tracker is designed to track sprint goals with completed work, p
 **Team Appoint**:
 1. **ARC Team Onboarding and Setup**: General onboarding to VA and ARC onboarding (continued)
 2. **[21-22a] Research: Understand the 21-22a representation relationship and supporting VA processes**: Wrap up desk research review of past findings and provide synthesis
-3. DataDog Audit of monitors/alerts for rep-management APM
+3. **[Measure Impact] ARP in Datadog**:DataDog Audit of monitors/alerts for rep-management APM
 4. Address outstanding medium priority bugs
 
 **Engagement**: 
@@ -103,7 +103,7 @@ TBD
 |Find a Rep: Fix missing longitude parameter in API Requests                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/105462|Sprint Backlog       |SPIKE   |
 |21-22a PDF generation error -- rep was missing zip code                                 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/113487|Sprint Backlog       |SPIKE   |
 |21-22a desk research: Synthesis and reporting                                           |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130880|Sprint Backlog       |3       |
-|General Onboarding to VA [Lena]                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130612||Sprint Backlog      |3       |
+|General Onboarding to VA [Lena]                                                         |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130612|Sprint Backlog       |3       |
 |UX Onboarding to ARC [Lena]                                                             |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130621|Sprint Backlog       |3       |
 |Allow all alphanumeric characters in location field of Find a Rep                       |https://github.com/department-of-veterans-affairs/va.gov-team/issues/79287 |Sprint Backlog       |3       |
 |Fix Spacing for "associated organizations" additional info component                    |https://github.com/department-of-veterans-affairs/va.gov-team/issues/130520|Sprint Backlog       |2       |
@@ -164,6 +164,7 @@ TBD
 5. **[Rep Onboarding] Coordinate with LEAF team to produce feature demo videos**: Provide video feedback
 
 ## Sprint 8 Demos
+([Recording Link](https://teams.microsoft.com/l/meetingrecap?driveId=b%21w3cly0nBaEOh7r_p1F6OKM4EPTusozxFhY3EilClcLm5HlVt5XZsQ6Oqf3jx3BoX&driveItemId=017TKTQMJARX6YJQTG7JG2VHEN2DXAKTZL&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Flindsay_li-smith_va_gov%2FIQAgjf2Ewmb6TaqcjdDuBU8rAcis4vj3VNJgJzHdTrIcFeo&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Flindsay_li-smith_va_gov%2FIQAgjf2Ewmb6TaqcjdDuBU8rAcis4vj3VNJgJzHdTrIcFeo&iCalUid=040000008200E00074C5B7101A82E00807EA011B8ABEF7F4AA34DC01000000000000000010000000D1219F413C32204196D93F405131F81C&masterICalUid=040000008200E00074C5B7101A82E008000000008ABEF7F4AA34DC01000000000000000010000000D1219F413C32204196D93F405131F81C&threadId=19%3Ameeting_OWEyNWY3N2MtYTFkMy00NTBkLWE2NTctNmY0NWM4YzEzNGVi%40thread.v2&organizerId=2d2bd33c-600f-4688-b4a5-63b007ddcd9b&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=0c01988c-3f7c-433b-bcdf-2de2e4117927&threadType=Meeting&meetingType=Recurring&subType=RecapSharingLink_RecapChiclet))
 
 **Team Benefits**:
 1. Release ITF — Zears
@@ -182,7 +183,7 @@ TBD
 
 ## Sprint 8 Delivery
 Total Completed in Sprint 8: 49 tickets, 105 points + 5 spikes\
-Crew Count in Sprint 8: 18 active teammates (not including Principal Leads)\
+Crew Count in Sprint 8: 17 active teammates (not including Principal Leads)\
 Average Teammate Velocity in Sprint 7: 105 points / 17 teammates = 6.17 points / teammate (not including Principal Leads)\
 Carrying into Sprint 9: 25 tickets, 75 points
 
