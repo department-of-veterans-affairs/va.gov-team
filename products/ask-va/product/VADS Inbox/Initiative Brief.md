@@ -76,7 +76,8 @@ This initiative aligns with the following 2025 OCTO OKRs:
 |Satisfaction|January 2025: 23%|x|
 |Decrease in dissatisfied feedback re; inbox usability|x|x|
 
-How to measure decrease in dissatisfied feedback re; inbox usability = monthy count of dissatisfied feedback comments 
+How to measure decrease in dissatisfied feedback re; inbox usability = monthy count of dissatisfied feedback comments.
+
 Should we isoloate this data per user to identify subset of users that remain  dissatisfied?
 
 -Monitor average engagement time per active user, determine metric target
