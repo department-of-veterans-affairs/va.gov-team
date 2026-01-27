@@ -130,10 +130,9 @@ Issues must meet at least one of the following:
 - Product Manager: Bryan Ivie (Ad Hoc)
 - Support Lead: Melissa Ashton (IronArch)
 - Technical Analyst Engineer: Tom Gammons (Ad Hoc)
-- Systems Engineer: Misty Gray (IronArch)
 - OCTO POCs:
   - Lauren Alexanderson - OCTO Sponsor
-  - OCTO UX Support: Becky Phung
+
 
 ## Communications
 - Team GitHub Label: MHV-Tier-3
