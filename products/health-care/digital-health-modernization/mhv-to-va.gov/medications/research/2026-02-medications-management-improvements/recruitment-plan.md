@@ -63,17 +63,15 @@ We will **not** be recruiting assistive technology users because the Figma proto
 We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  More time can be made available based on Perigean’s needs
 
 ### Kick-off call with Perigean (proposed dates)
-- Thursday, January 22, 2026  
-- Friday, January 23, 2026  
-- Monday, January 26, 2026  
+- TBD 
 
 ### Prepare (pilot)
 - Pilot participant name: Veteran from MHV Team  
 - Date and time of pilot: Will handle this internally  
 
 ### Research sessions
-- Sessions starting: Friday, February 6, 2026  
-- Sessions ending: Wednesday, February 18, 2026  
+- Sessions starting: Friday, February 10, 2026  
+- Sessions ending: Wednesday, February 23, 2026  
 
 ### Length of sessions
 - Session length: 60 minutes  
@@ -81,16 +79,56 @@ We will partner with Perigean to recruit Veterans. We request a 30 minute kickof
 - Maximum sessions per day: 3  
 
 ### Availability (all times EST)
-- Friday, February 6, 2026, 9:00 AM – 5:00 PM EST  
-- Monday, February 9, 2026, 9:00 AM – 5:00 PM EST  
-- Tuesday, February 10, 2026, 9:00 AM – 5:00 PM EST  
-- Wednesday, February 11, 2026, 9:00 AM – 5:00 PM EST  
-- Thursday, February 12, 2026, 9:00 AM – 5:00 PM EST  
 
-**Additional days if needed**
-- Tuesday, February 17, 2026, 9:00 AM – 5:00 PM EST  
-- Wednesday, February 18, 2026, 9:00 AM – 5:00 PM EST  
+**Tuesday, 2/10**  
+- 11:00am EST – Cara, Anneka, Florence, Athena  
+- 12:00pm EST – Florence, Athena  
+- 1:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Florence  
 
+**Wednesday, 2/11**  
+- 11:00am EST – Cara, Anneka, Athena  
+- 12:00pm EST – Florence, Athena  
+- 1:00pm EST – Florence, Athena  
+- 2:00pm EST – Florence, Athena  
+
+**Thursday, 2/12**  
+- 11:00am EST – Cara, Anneka  
+- 12:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Athena  
+
+**Friday, 2/13**  
+- 11:00am EST – Cara, Anneka, Athena  
+- 12:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Athena  
+
+**Monday, 2/16** – *Presidents Day (Holiday – no sessions)*  
+
+**Tuesday, 2/17**  
+- 11:00am EST – Cara, Athena  
+- 12:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Athena  
+
+**Wednesday, 2/18**  
+- 1:00pm EST – Florence, Athena  
+- 2:00pm EST – Florence, Athena  
+
+**Thursday, 2/19**  
+- 11:00am EST – Anneka, Athena  
+- 12:00pm EST – Florence, Athena  
+- 3:00pm EST – Cara, Athena  
+
+**Friday, 2/20**  
+- 11:00am EST – Cara, Anneka, Florence, Athena  
+- 12:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Athena  
+
+**Monday, 2/23**  
+- 11:00am EST – Cara, Anneka, Athena  
+- 12:00pm EST – Florence, Athena  
+- 1:00pm EST – Florence, Athena  
+- 2:00pm EST – Anneka, Athena  
+ 
 ## Team roles
 - Moderator: Florence McCafferty, Anneka van Garza, Athena Bozak, Cara Frissell
 - Research guide writing and task development (usually but not always same as moderator): Cara Frissell, Florence McCafferty, Athena Bozak 
