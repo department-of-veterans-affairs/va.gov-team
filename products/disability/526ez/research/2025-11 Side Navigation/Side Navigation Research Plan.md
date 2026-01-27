@@ -20,7 +20,7 @@ On mobile devices, the side navigation component converts to an accordion that t
 
 In testing, this will be referred to as the Wave Concept.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Sidenav%20desktop%20mobile.png" alt="Descriptive alt text" style="max-height:300px;">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/files/Sidenav%20desktop%20mobile.png" alt="Descriptive alt text" style="max-height:300px;">
     
 
 *Screenshots of side navigation MVP design on desktop and mobile*
@@ -30,7 +30,7 @@ After implementing the side navigation component, we plan to pursue a Version 2 
 
 In testing, this will be referred to as the Cloud Concept.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/images/Process%20list%20desktop%20mobile%202.png" alt="Descriptive alt text" style="max-height:300px;">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-11%20Side%20Navigation/files/Process%20list%20desktop%20mobile%202.png" alt="Descriptive alt text" style="max-height:300px;">
 
 *Screenshot of process list Version 2 design on desktop and mobile.*
 
