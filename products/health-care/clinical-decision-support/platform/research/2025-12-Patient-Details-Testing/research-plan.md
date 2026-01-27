@@ -4,8 +4,8 @@
 > *Questions about how to set up your research study? Reach out first in the via Slack in [#cds-hcd-cop] (https://dsva.slack.com/archives/C06043YBWTC) or if more help is needed check out the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
 ## Background 🏗️
-<details><summary>* Patient Details 1.0 on the CDS Console has been released: September 30th . Gathering usability of 1.0 and user-driven value will be critical to help guide potential enhancements and next steps related to this feature, and to inform [PGM #100] (https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/100).
-* Additionally, as Oracle Health integration planning continues, we will be including 3 OH users in these studies, to gather their perspective on the integration of the Console into Oracle Health, state of Patient details and potential enhancements, will be essential to inform and guide our Console integration work [PGM #217] </summary>
+<details><summary>* Patient Details 1.0 on the CDS Console has been released: September 30th . Gathering usability of 1.0 and user-driven value will be critical to help guide potential enhancements and next steps related to this feature, and to inform [PGM #100](https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/100).
+* Additionally, as Oracle Health integration planning continues, we will be including 3 OH users in these studies, to gather their perspective on the integration of the Console into Oracle Health, state of Patient details and potential enhancements, will be essential to inform and guide our Console integration work [PGM #217](https://github.com/department-of-veterans-affairs/cdsc-roadmap/issues/217) </summary>
 	
 `What problem is your product or feature trying to solve?`
 
