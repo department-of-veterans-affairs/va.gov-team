@@ -83,14 +83,6 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/research-templates/conversation-guide.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
 
 **`1.`How do clinicians perceive the value of accessing Patient Details through the CDS Console compared to their current workflows (within Vista CPRS or Oracle Health)?**
 
@@ -105,20 +97,6 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 **`6.`How do clinicians evaluate the usefulness and viability of the app widget concepts (task flows), and which use cases provide the greatest value? What additional information is needed to support their workflow? What information is not valuable?**
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
 
 **Primary Hypothesis (Patient Details 1.0)**
 - If clinicians can reliably access Patient Details through the CDS Console (across both Vista CPRS and Oracle Health), including provider workflows within Oracle Health. Usability testing will surface friction points that, once addressed, will increase adoption and reinforce the Console as the central entry point and “home” for Clinical Decision Support.
@@ -132,7 +110,6 @@ As a Vista CPRS or Oracle Health user, I access patient details and key workflow
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 </details>
 
 **Moderated remote 1-1 interviews w/ Clinicians**
