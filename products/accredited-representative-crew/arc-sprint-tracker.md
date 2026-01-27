@@ -185,7 +185,7 @@ TBD
 Total Completed in Sprint 8: 49 tickets, 105 points + 5 spikes\
 Crew Count in Sprint 8: 16 active teammates (not including Principal Leads)\
 Average Teammate Velocity in Sprint 7: 89 points / 16 teammates = 5.5 points / teammate (not including Principal Leads)\
-Carrying into Sprint 9: 20 tickets, 57 points
+Carrying into Sprint 9: 21 tickets, 60 points
 
 ## Sprint 8 Tickets
 
