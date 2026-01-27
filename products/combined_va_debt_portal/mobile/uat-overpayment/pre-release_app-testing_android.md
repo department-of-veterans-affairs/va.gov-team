@@ -3,8 +3,7 @@
 ## **Install and set-up**
 
 1. Participants opens Firebase link on phone, enters email address  
-   1. Link for testing: [send Firebase link](https://appdistribution.firebase.dev/i/b2288c54d279c68f)  
-   2. Enter email address that can be accessed on phone  
+   1. Enter email address that can be accessed on phone  
 2. Open link from email on phone (from: VA Health and Benefits…)  
    1. Tap Get Started  
    2. Download app tester  
