@@ -17,6 +17,7 @@ on:
       - '!**/*.doc'
       - '!**/*.docx'
       - '!**/*.pptx'
+      - '!**/*.pdf'
   schedule:
     # Run weekly on Mondays at 8:00 AM ET (13:00 UTC) for aggregation
     - cron: '0 13 * * 1'
@@ -82,13 +83,18 @@ jobs:
             
             // Find all findings files (only .md files, excluding binary formats)
             const files = await globModule.glob('**/research/**/*findings*.md', {
-              ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx']
+              ignore: ['node_modules/**', '.git/**', '**/*.doc', '**/*.docx', '**/*.pptx', '**/*.pdf']
             });
             
             console.log(`Found ${files.length} research findings files`);
             
             const allDemographics = [];
             const errors = [];
+            
+            // Repository info for generating URLs
+            const repoOwner = 'department-of-veterans-affairs';
+            const repoName = 'va.gov-team';
+            const defaultBranch = 'master';
             
             for (const file of files) {
               try {
@@ -104,11 +110,16 @@ jobs:
                 
                 // Check if demographics data exists
                 if (frontMatter.demographics || frontMatter.participants_total) {
+                  // Generate GitHub URL for this file
+                  const fileUrl = `https://github.com/${repoOwner}/${repoName}/blob/${defaultBranch}/${file}`;
+                  
                   const record = {
                     file: file,
+                    file_url: fileUrl,
                     date: frontMatter.date || 'unknown',
                     product: frontMatter.product || 'unknown',
                     team: frontMatter.team || 'unknown',
+                    title: frontMatter.title || file.split('/').pop().replace('.md', ''),
                     participants_total: toInt(frontMatter.participants_total),
                     demographics: frontMatter.demographics || {},
                     devices_used: frontMatter.devices_used || {},
@@ -135,7 +146,16 @@ jobs:
               disability: {},
               age: {},
               race: {},
-              devices: { desktop: 0, tablet: 0, smartphone: 0, assistive_technology: 0 }
+              devices: { desktop: 0, tablet: 0, smartphone: 0, assistive_technology: 0 },
+              studies: allDemographics.map(r => ({
+                title: r.title,
+                file: r.file,
+                url: r.file_url,
+                date: r.date,
+                product: r.product,
+                team: r.team,
+                participants: r.participants_total
+              }))
             };
             
             for (const record of allDemographics) {
@@ -224,8 +244,27 @@ jobs:
               '- Desktop: ' + aggregated.devices.desktop,
               '- Tablet: ' + aggregated.devices.tablet,
               '- Smartphone: ' + aggregated.devices.smartphone,
-              '- Assistive Technology: ' + aggregated.devices.assistive_technology
+              '- Assistive Technology: ' + aggregated.devices.assistive_technology,
+              '',
+              '---',
+              '',
+              '## Appendix: Studies Included in This Report',
+              ''
             ];
+            
+            // Sort studies by date (most recent first), with unknown dates at the end
+            const sortedStudies = [...allDemographics].sort((a, b) => {
+              if (a.date === 'unknown') return 1;
+              if (b.date === 'unknown') return -1;
+              return new Date(b.date) - new Date(a.date);
+            });
+            
+            // Add each study as a linked list item
+            for (const study of sortedStudies) {
+              const dateStr = study.date !== 'unknown' ? ` (${study.date})` : '';
+              const participantStr = study.participants_total > 0 ? ` - ${study.participants_total} participants` : '';
+              summaryLines.push(`- [${study.title}](${study.file_url})${dateStr}${participantStr}`);
+            }
             
             const summary = summaryLines.join('\n');
             
