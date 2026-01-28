@@ -76,11 +76,13 @@ If a migration takes longer than expected and extends beyond the p7 window, the 
 
 ## Points of Contact
 
-| Role | Name | Contact |
-|------|------|---------|
-| Platform Lead | TBD | TBD |
-| Engineering | TBD | TBD |
-| Product | TBD | TBD |
+| Role | Name |
+|------|------|
+| OCTO Lead | Robyn Singleton |
+| Horizon Engineering | Kevin Duensing |
+| Horizon Engineering | Liz Townsend |
+| Horizon Engineering | Jayson Perkins |
+| Horizon Product | David Koger |
 
 ---
 
