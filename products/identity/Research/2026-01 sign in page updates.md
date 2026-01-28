@@ -10,11 +10,11 @@ Sites reviewed included CBP.gov, SSA.gov, several state government websites, and
 
 ### Sign-In Options Across Government Sites
 
-- **Single Sign-In Options**: Many government sites reviewed provided only a single sign-in option, which would not be relevant to VA.gov since we have 2 sign-in options, ID.me and Login.gov.
-
-- **Multiple Sign-In Options**: For sites offering multiple authentication methods, there was considerable variation in how these options were presented. The motivations behind different design decisions were difficult to discern from external review alone.
-
-- **Sign-In vs. Create Account Placement**: There were marked inconsistencies in how sites handle "Sign In" and "Create Account" placement.  Some sites separated these actions in the profile/login section (typically upper right corner) while others separated that functionality out in the sign in page itself.  No clear pattern emerged across government sites
+| Category | Description |
+|----------|-------------|
+| **Single Sign-In Options** | Many government sites reviewed (including CBP.gov and SSA.gov) provided only a single sign-in option, simplifying the authentication experience. |
+| **Multiple Sign-In Options** | For sites offering multiple authentication methods, there was considerable variation in how these options were presented. The motivations behind different design decisions were difficult to discern from external review alone. |
+| **Sign-In vs. Create Account Placement** | Observed inconsistencies in how sites handle "Sign In" and "Create Account" functionality:<br>• Some sites separated these actions in the profile/login section (typically upper right corner)<br>• Others split them between the banner and other page locations<br>• No clear pattern emerged across government sites |
 
 ### USWDS Guidance
 
