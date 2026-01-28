@@ -135,4 +135,4 @@ We have mock data set up for you:
 - **Mobile mocks:** `VAMobile/src/store/api/demo/mocks/kimberlyForOHMigration/getAuthorizedServices.json`
 - **Mobile tests:** `VAMobile/src/components/OHAlertManager.test.tsx`
 
-If you run into issues or have questions, reach out to us in the MHV Platform slack channel. We're happy to help you get set up.
+If you run into issues or have questions, reach out to us in the [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) slack channel. We're happy to help you get set up.
