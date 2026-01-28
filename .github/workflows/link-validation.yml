@@ -34,6 +34,9 @@ jobs:
         run: |
           set -euo pipefail
 
+          BASE_REF="${{ github.event.pull_request.base.ref }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
           MERGE_BASE="$(git merge-base "$BASE_REF" "$HEAD_SHA" || true)"
           if [[ -z "$MERGE_BASE" ]]; then
             echo "::error::merge-base not found (history likely too shallow)."
