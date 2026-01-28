@@ -19,17 +19,17 @@ Expected Annual Submission: 1921
 | 01/27/26 | 16     | 49    | 2.6%      |
 
 ## Post-MVP Enhancements
-| Enhancement | Description | Category | Layer | Status | SME Testing | Story | PR | Merged Date | Prod Date |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| OMB expiration date update | Updates OMB expiration to match that provided on the PDF | Form-Related Update | Front-end | Complete | N | [129971](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129971) | [41417](https://github.com/department-of-veterans-affairs/vets-website/pull/41417) | 01/14/2026 |  |
-| BIO - Use va-introtext class on description | Non-functional styling change to meet platform style requirements (this was a non-blocking staging finding) | Staging Finding | Front-end | Complete | N | [121907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121907) | [41541](https://github.com/department-of-veterans-affairs/vets-website/pull/41541) | 01/20/2026 |  |
-| MMS/GCIO Integration |  | Form-Related Update |  | In Development |  | [130768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130768) |  |  |  |
-| Find a form search results page content |  | Vendor Team Suggestion |  | Proposed |  | [130088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130088) |  |  |  |
-| Find a form page content |  | Vendor Team Suggestion |  | Proposed |  | [130090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130090) |  |  |  |
-| Improve Intro with better timeline info |  | Vendor Team Suggestion |  | Proposed |  | [130112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130112) |  |  |  |
-| Remove backend feature toggle check |  | Vendor Team Suggestion |  | In Development | N | [131067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/131067) | [26158](https://github.com/department-of-veterans-affairs/vets-api/pull/26158) |  |  |
+| Update Type | <div style="width: 300px;">Title / Description</div> | Category | Due Near-Term? | Layer | SME Discussion? | SME Testing? | Status | Story | Staging PR | Staging Merged Date | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Update | **Updates OMB expiration to match that provided on the PDF** | Form-Related Update | - | Front-end | N | N | Complete | [129971](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129971) | [41417](https://github.com/department-of-veterans-affairs/vets-website/pull/41417) | 01/14/2026 |  |
+| Finding | **Use va-introtext class on description** <br> Non-functional styling change to meet platform style requirements (this was a non-blocking staging finding) | Staging Finding | - | Front-end | N | N | Complete | [121907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121907) | [41541](https://github.com/department-of-veterans-affairs/vets-website/pull/41541) | 01/20/2026 |  |
+| Enhancement | **MMS/GCIO Integration** | Form-Related Update | - | Back-end | N | N | In Progress | [130768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130768) |  |  |  |
+| Update | **Remove backend feature toggle check** | Vendor Team Suggestion | - | Back-end | N | N | In Progress | [131067](https://github.com/department-of-veterans-affairs/va.gov-team/issues/131067) | [26158](https://github.com/department-of-veterans-affairs/vets-api/pull/26158) |  |  |
+| Enhancement | **Find a Form search results page content** <br> Include a link to the online tool and update the form name. | Vendor Team Suggestion | - | Front-end | Y | Y | Not Started | [130088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130088) |  |  |  |
+| Enhancement | **Find a Form page content** <br> Include a link to the online tool and update the form name. | Vendor Team Suggestion | - | Front-end | Y | Y | Not Started | [130090](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130090) |  |  |  |
+| Enhancement | **Improve Intro with better timeline info** <br> A surviving spouse receiving a marital status verification request needs the introduction page to explain why they're getting this form and clarify it's routine, not a problem with their benefits. | Vendor Team Suggestion | - | Front-end | Y | Y | Not Started | [130112](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130112) |  |  |  |
 
-**Categories:** SME requirement/request, Staging Finding, Form-Related Update, Vendor Team Suggestion  
+**Update Type:** Enhancement, Update, Finding, Defect Fix, or Bug Fix  
+**Categories:** SME Requirement/Request, Staging Finding, or Vendor Team Suggestion  
 **Layer:** Front-end, Back-end, Both  
-**Statuses:** Proposed, In Development, Staging/Testing, Complete  
-**SME Testing:** Y/N is SME testing seemingly required  
+**Statuses:** Not Started, In Progress, Blocked, or Complete  
