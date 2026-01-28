@@ -33,6 +33,13 @@ My HealtheVet provides online access to prescription refills, secure messaging, 
   - [MHV Technical Manual & Security Guide v1.6 (2015)](https://ia601406.us.archive.org/10/items/www.va.gov/www.va.gov/vdl/documents/HealtheVet/MyHealtheVet/2015_mhv_vista_1_6_technicalmanual.pdf)
   - :star:[VIA Interface Control Document](https://dvagov.sharepoint.com/:w:/r/sites/oitspmhealthinformaticsarchive/_layouts/15/Doc.aspx?sourcedoc=%7BCD051449-B203-478A-871E-A4E2034A3913%7D&file=VIA%20Interface%20Control%20Document.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
+      - Allergies - page 51
+      - Immunizations - page 64
+      - Problem - 80
+      - Labs - pages 65-66
+      - Surgical patholgy - page 86
+      - 
+
 ### Developer Documentation
 
 - [My HealtheVet (MHV) Developer Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/my-healthe-vet)
@@ -60,6 +67,7 @@ If you need to implement or maintain an integration between VistA (via VIA) and 
 4. [My HealtheVet (MHV) - Veterans Affairs](https://www.va.gov/vdl/documents/VistA_GUI_Hybrids/MyHealtheVet/mhv_1_0_ig.pdf)
 5. [VistA Integration Adapter (VIA) - Veterans Affairs](https://www.va.gov/vdl/documents/Clinical/VistA_Integration_Adapter_(VIA)/viab_1_15_installation_backout_rollback_plan_release_notes.pdf)
 6. [My HealtheVet (MHV) Technical Manual & Security Guide Version 1.10](https://www.va.gov/VDL/documents/VistA_GUI_Hybrids/MyHealtheVet/mhv_1_10_tm.pdf)
+
 
 ---
 
