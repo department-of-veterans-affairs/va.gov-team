@@ -41,6 +41,20 @@ We built the OH Migration Schedule system to solve this. It provides each VA.gov
 2. Show appropriate warnings or disable features based on phase
 3. Design messaging that fits their tool's context
 
+### Phases Lifecyle
+We talk about different alerts/behavior with regard to "phases"
+
+Facilities move through a series of OH migration phases identified as p0–p7.
+
+These phase identifiers are ordered (p0 is earliest, p7 is latest) and are supplied by the backend (vets-api) for each facility in the user's VA Profile facility list.
+
+For each tool (appointments, medical records, medications, etc.):
+- warningPhases: phases where we show a warning-style alert because some functionality may be limited or changing soon.
+- errorPhases: phases where we show an error-style alert because the functionality is not available online for affected facilities.
+- errorStartDate / errorEndDate: the first and last phases (inclusive) used when displaying date-related messaging for that tool, based on T-XX dates for each tool's functionality migrating (calculated on the backend).
+
+A facility’s current migration phase is compared against these arrays to determine which alert type (if any) should be displayed on the page.
+
 ---
 
 ## Current Coverage
