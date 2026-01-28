@@ -6,7 +6,8 @@ As facilities transition to OH we will need to begin messaging them information 
 To accomplish this we will implement a feature that allows us to use the pending transition date of the facility to populate the appropriated messages for users in MHV. The applications that will be impacted include Appointments, Medications, and Secure Messaging.
 
 An overview of the **relative** timing for cutover messaging:
-![alt text](images/image.png)
+<img width="884" height="267" alt="image" src="https://github.com/user-attachments/assets/c5c9de55-8ea7-4c60-9f65-c0f329e2f46f" />
+
 
 ## Important Factors
 - Each MHV tool will need its own "phase" schedule
