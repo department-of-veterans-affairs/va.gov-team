@@ -1,0 +1,88 @@
+name: Link validation
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        env:
+          GIT_LFS_SKIP_SMUDGE: "1"
+        with:
+          fetch-depth: 1
+          lfs: false
+
+      - name: Fetch PR base/head commits for diff
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_REF="${{ github.event.pull_request.base.ref }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          git fetch --no-tags --depth=200 origin "${BASE_REF}:${BASE_REF}"
+          git fetch --no-tags --depth=200 origin "$HEAD_SHA"
+
+      - name: Build changed-files list
+        id: changed_files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "has_changed_docs=false" >> "$GITHUB_OUTPUT"
+
+          BASE_REF="${{ github.event.pull_request.base.ref }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          MERGE_BASE="$(git merge-base "$BASE_REF" "$HEAD_SHA" || true)"
+          if [[ -z "$MERGE_BASE" ]]; then
+            echo "::error::merge-base not found (history likely too shallow)."
+            echo "BASE_REF=$BASE_REF"
+            echo "HEAD_SHA=$HEAD_SHA"
+            git rev-parse --verify "refs/heads/$BASE_REF" || true
+            git rev-parse --verify "$HEAD_SHA^{commit}" || true
+            exit 1
+          fi
+          echo "Merge base: $MERGE_BASE"
+
+          git diff --name-only --diff-filter=ACMRT "$MERGE_BASE" "$HEAD_SHA" \
+            | grep -E '\.(md|txt)$' \
+            | sort -u \
+            > changed-files.raw.txt || true
+
+          : > changed-files.txt
+          while IFS= read -r f; do
+            [[ -z "$f" ]] && continue
+            if [[ -f "$f" ]]; then
+              echo "$f" >> changed-files.txt
+            else
+              echo "::warning::Skipping non-existent path in checkout: $f"
+            fi
+          done < changed-files.raw.txt
+
+          echo "Changed documentation files:"
+          cat changed-files.txt || true
+
+          if [[ -s changed-files.txt ]]; then
+            echo "has_changed_docs=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No matching changed files. Skipping."
+          fi
+
+      - name: Run lychee on changed-files
+        if: steps.changed_files.outputs.has_changed_docs == 'true'
+        uses: lycheeverse/lychee-action@v2
+        with:
+          lycheeVersion: latest
+          fail: false
+          failIfEmpty: false
+          args: >
+            --verbose
+            --no-progress
+            --files-from changed-files.txt
