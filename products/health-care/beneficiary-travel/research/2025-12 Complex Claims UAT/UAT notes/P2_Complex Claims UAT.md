@@ -26,6 +26,8 @@
 
 * Laptop user; usually goes to VA.gov for appointments and medications, taking a bit of a roundabout way, going to medications first, then can pick appointments from the top
 * Eventually made her way to past appointments, mentions that sometimes they don’t show up (depends on video or in person/sometimes therapist travels to her)
+* Bug? 7:15 from past appt detail, clicked "Back to past appts" breadcrumb and it brought up the SMOC intro page. Happened again around 8:06.
+
 
 ---
 
