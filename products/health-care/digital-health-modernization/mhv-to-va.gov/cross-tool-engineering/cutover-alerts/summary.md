@@ -76,7 +76,7 @@ The VA Health and Benefits mobile app has also integrated with the migration sch
 
 ## Timeline Flexibility
 
-Each tool team determines appropriate warning and disable phases based on their system dependencies. The platform supports configuration changes without requiring code changes or deployments.
+The timelines are final and cannot be determined by MHV teams. However, the scheduling system supports adding additional facilities + migration dates as a configuration change. In rare cases the relative timings of each phase may be changed, but this decision will be determined by OCTO MHV leadership.
 
 ---
 
