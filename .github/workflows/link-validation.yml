@@ -1,0 +1,75 @@
+name: Link validation
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        env:
+          GIT_LFS_SKIP_SMUDGE: "1"
+        with:
+          fetch-depth: 1
+          lfs: false
+
+      - name: Fetch PR base/head commits for diff
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+
+          git fetch --no-tags --depth=50 origin "$BASE_SHA"
+          git fetch --no-tags --depth=50 origin "$HEAD_SHA"
+
+      - name: Build changed-files list
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          MERGE_BASE="$(git merge-base "$BASE_SHA" "$HEAD_SHA")"
+          echo "Merge base: $MERGE_BASE"
+
+          git diff --name-only --diff-filter=ACMRT "$MERGE_BASE" "$HEAD_SHA" \
+            | grep -E '\.(md|txt)$' \
+            | sort -u \
+            > changed-files.raw.txt || true
+
+          : > changed-files.txt
+          while IFS= read -r f; do
+            [[ -z "$f" ]] && continue
+            if [[ -f "$f" ]]; then
+              echo "$f" >> changed-files.txt
+            else
+              echo "::warning::Skipping non-existent path in checkout: $f"
+            fi
+          done < changed-files.raw.txt
+
+          echo "Changed documentation files:"
+          cat changed-files.txt || true
+
+          if [[ ! -s changed-files.txt ]]; then
+            echo "No matching changed files. Skipping."
+            exit 0
+          fi
+
+      - name: Run lychee on changed-files
+        if: hashFiles('changed-files.txt') != ''
+        uses: lycheeverse/lychee-action@v2
+        with:
+          lycheeVersion: latest
+          fail: false
+          failIfEmpty: false
+          args: >
+            --verbose
+            --no-progress
+            --files-from changed-files.txt
