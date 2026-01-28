@@ -40,6 +40,16 @@ Do not provide alternative text for icons in Action Links. Instead, put the acti
 - **Relevant standards:** WCAG: [SC 1.1.1 Non-text Content (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html): All non-text content that is presented to the user has a text alternative that serves the equivalent purpose, except for … Decoration, Formatting, Invisible — If non-text content is pure decoration, is used only for visual formatting, or is not presented to users, then it is implemented in a way that it can be ignored by assistive technology.
 - **Last reviewed:** 19 Sep 2025
 
+## Navigation
+
+### Links to Supporting Resources
+
+When providing linked resources to support users in completing a task or process, open the linked resource in a new tab. Otherwise, open links in the same window.
+
+-  **Rationale:** “Open links in the same window, with exceptions. Links on VA.gov should open in a new tab only if clicking the link will cause the user to lose progress or data. This should be avoided when possible. In all other cases, links should open in the same window.” Excerpted from VADS [behavior guidance on the Link component](https://design.va.gov/components/link/#behavior)
+- **Relevant standards:** WCAG: [SC 3.2.2 On Input (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/on-input): Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.
+- **Last reviewed:** 28 Jan 2026
+
 ### Focus Management on Page Load
 
 Set focus to the level 1 heading (```<H1>```) on page load.
