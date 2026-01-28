@@ -30,9 +30,12 @@ jobs:
           git fetch --no-tags --depth=200 origin "$HEAD_SHA"
 
       - name: Build changed-files list
+        id: changed_files
         shell: bash
         run: |
           set -euo pipefail
+
+          echo "has_changed_docs=false" >> "$GITHUB_OUTPUT"
 
           BASE_REF="${{ github.event.pull_request.base.ref }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
@@ -66,13 +69,11 @@ jobs:
           echo "Changed documentation files:"
           cat changed-files.txt || true
 
-          if [[ ! -s changed-files.txt ]]; then
+          if [[ -s changed-files.txt ]]; then
+            echo "has_changed_docs=true" >> "$GITHUB_OUTPUT"
+          else
             echo "No matching changed files. Skipping."
-            echo "has_changed_docs=false" >> "$GITHUB_OUTPUT"
-            exit 0
           fi
-
-          echo "has_changed_docs=true" >> "$GITHUB_OUTPUT"
 
       - name: Run lychee on changed-files
         if: steps.changed_files.outputs.has_changed_docs == 'true'
