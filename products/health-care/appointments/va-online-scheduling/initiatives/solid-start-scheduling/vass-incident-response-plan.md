@@ -17,7 +17,7 @@ and have the necessary information to address problems quickly.  To accomplish i
 
 ### Dashboards
 
-TBD
+[Stakeholder dashboard](https://vagov.ddog-gov.com/dashboard/fw6-j3c-zns?fromUser=false&refresh_mode=sliding&from_ts=1769610040701&to_ts=1769613640701&live=true)
 
 ### Monitors
 
