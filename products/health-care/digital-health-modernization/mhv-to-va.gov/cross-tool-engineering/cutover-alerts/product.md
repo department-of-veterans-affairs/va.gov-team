@@ -2,7 +2,7 @@
 
 ## What This Enables
 
-When VA facilities migrate to Oracle Health, certain features won't work for a period of time. We built the OH Migration Schedule system to provide your product with the data it needs to handle this gracefully.
+When VA facilities migrate to Oracle Health, we must disable tools to prevent silent failures. We built the OH Migration Schedule system to provide your product with the data it needs to handle this gracefully.
 
 Here's what it gives you:
 
@@ -46,11 +46,25 @@ These tools have already integrated with the migration schedule system. They use
 
 ---
 
+## Mobile App Coverage
+
+The VA Health and Benefits mobile app has also integrated with the migration schedule system. The mobile app receives the same scheduling data through its authorized services API and uses an `OHAlertManager` component to display alerts.
+
+**Mobile screens covered:**
+- Appointments
+- Secure Messaging
+- Medical Records
+- Medications
+
+If you're working on a feature that spans both web and mobile, coordinate with both teams to ensure consistent Veteran experience.
+
+---
+
 ## What Your Team Needs to Decide
 
 The migration phases, when features should be disabled, and the messaging Veterans see are already defined by VA stakeholders. Your team needs to decide:
 
-1. **Should you also add a feature flag?** — A feature flag gives you an escape hatch to disable your application independently of the migration schedule if something goes wrong.
+1. **Should you add a feature flag?** — A feature flag gives you an escape hatch to disable your integration independently of the migration schedule if something goes wrong. Note that adding a feature flag will incur coordination costs (the "you can't use" alert will go away automatically according to date, so you should be ready to enable your feature if behind a feature flag very near that time.
 
 ---
 
@@ -78,9 +92,7 @@ If a migration takes longer than expected and extends beyond the p7 window, the 
 - Delivering the schedule data to your app via the user profile
 
 **Your team owns:**
-- Deciding which phases should show warnings vs disable features
-- Implementing the logic to check the current phase
-- Designing the alert messaging for your tool
+- Actually disabling the feature according to the schedule and any failsafe measure you decide to put into place
 
 ---
 
