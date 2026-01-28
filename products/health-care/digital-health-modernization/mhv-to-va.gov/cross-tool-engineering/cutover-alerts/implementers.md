@@ -49,7 +49,7 @@ There are additional examples that describe [how to use the alerts in this comme
 [{
   migrationDate: "March 3, 2026",
   migrationStatus: "ACTIVE",  // "NOT_STARTED" | "ACTIVE" | "COMPLETE"
-  facilities: [{ id: "516", name: "Columbus VA" }],
+  facilities: [{ facilityId: "516", facilityName: "Columbus VA" }],
   phases: {
     current: "p1",  // "p0"-"p7" or null
     p0: "January 2, 2026",  // -60 days
