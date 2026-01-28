@@ -1,6 +1,5 @@
 # **About the OCTO Identity team**
 
-
 ## **Who we are**
 
 The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
