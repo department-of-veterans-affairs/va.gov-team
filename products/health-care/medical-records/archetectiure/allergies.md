@@ -7,7 +7,7 @@
 
 ## Diagram
 
-[diagram](./assets/allergies.webp)
+![diagram](./assets/allergies.webp)
 
 ## Filter rules
 
