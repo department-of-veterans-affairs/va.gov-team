@@ -98,6 +98,4 @@ If a migration takes longer than expected and extends beyond the p7 window, the 
 
 ## Questions?
 
-Reach out to us on the MHV Platform slack channel if you want to talk through phase configurations for your tool or need help getting started.
-
-We value your feedback on this system. If something doesn't work well for your use case, let us know.
+Reach out to us on the [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) slack channel if you want to talk through phase configurations for your tool or need help getting started.
