@@ -6,7 +6,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- The goal for Sprint 14 is...
+- **The goal for Sprint 14 is...**
 
 #### List of Planned work
 - [ ] EZR Service History
@@ -53,7 +53,7 @@
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
-- The goal for Sprint 13 is to get the EZR Service History connection up and running.
+- **The goal for Sprint 13 is to get the EZR Service History connection up and running.**
 
 #### List of Planned work
 - EZR Bug
