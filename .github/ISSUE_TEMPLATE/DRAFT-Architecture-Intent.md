@@ -39,8 +39,8 @@ Required:
   
 ### Platform Team actions
 
-- Platform Engineering and Security will provide feedback via comments on this Collaboration Cycle Request ticket by EOD the next business day after the meeting
-- VFS teams should expect to receive at least 1 comment from Platform Engineering and 1 comment from Platform Security
+- Platform Engineering and Security will provide feedback via comments on this Architecture Intent ticket by EOD the next business day after the meeting
+- VFS teams should expect to receive at least 1 comment from Platform Engineering for frontend, backend and/or devops, and 1 comment from Platform Security
 
 ### VFS team actions
 
