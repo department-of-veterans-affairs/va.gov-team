@@ -40,7 +40,7 @@ While the standard recommendation would typically be to align with USWDS guidanc
    - Deprecation of two credential service providers
    - Recent repositioning of Login.gov and ID.me, which caused confusion and anxiety
 
-3. **Lack of Compelling Problem**: There is no evidence of a significant user problem with the current sign-in page design that would justify introducing additional changes.
+3. **Lack of Compelling Problem**: There is no evidence of a significant user problem with the current sign-in page design that would justify introducing additional changes.  It is worth mentioning that there has been anecdotal mentions in the Medallia surveys but nothing of significant note to show a reliable pattern.
 
 4. **Risk of Additional Friction**: Any modifications at this time would create unnecessary friction and potentially compound existing user confusion and frustration.
 
