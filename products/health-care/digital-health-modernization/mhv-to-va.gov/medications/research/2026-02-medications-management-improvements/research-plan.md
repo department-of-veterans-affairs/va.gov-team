@@ -36,9 +36,12 @@ research_questions:
   - "How do users move between the different interfaces of the Medications experience? What navigational tactics do users notice and use? How helpful is each one in supporting users in accomplishing their key task?"
 
 hypotheses:
-  - ""
-  - ""
-  - ""
+  - "Veterans will make sense of the new Medications experience based on what they’ve experienced before with VA medications, even when the design introduces new steps, labels, or processes."
+  - "Veterans will notice that medications move through different phases, but won’t always understand what those phases mean or what they’re supposed to do without clear, plain-language guidance."
+  - "Veterans will have an easier time completing tasks when information about what’s happening and what to do next is shown together in a clear, connected way."
+  - "Veterans will have trouble finding what they need when medication information and actions are spread across multiple pages or tools instead of feeling like one connected experience."
+  - "Veterans will orient themselves by medication name and status first, and will turn to filters, sorting, and navigation tools mainly when the list feels overwhelming."
+  - "Clear structure, consistent language, and predictable patterns will help Veterans feel more confident and less hesitant when managing their medications."
 
 expected_outcomes: "The insights that come out of this research will inform the design solution implemented and illuminate what features the team should prioritize for future iterations."
 
@@ -202,7 +205,18 @@ The insights that come out of this research will inform the design solution impl
    - c. text based cross - links
 
 ### Hypotheses
-**[Enter hypotheses here]**
+
+**`1.` Veterans will make sense of the new Medications experience based on what they’ve experienced before with VA medications, even when the design introduces new steps, labels, or processes.**
+
+**`2.` Veterans will notice that medications move through different phases, but won’t always understand what those phases mean or what they’re supposed to do without clear, plain-language guidance.**
+
+**`3.` Veterans will have an easier time completing tasks when information about what’s happening and what to do next is shown together in a clear, connected way.**
+
+**`4.` Veterans will have trouble finding what they need when medication information and actions are spread across multiple pages or tools instead of feeling like one connected experience.**
+
+**`5.` Veterans will orient themselves by medication name and status first, and will turn to filters, sorting, and navigation tools mainly when the list feels overwhelming.**
+
+**`6.` Clear structure, consistent language, and predictable patterns will help Veterans feel more confident and less hesitant when managing their medications.**
 
 ---
 
