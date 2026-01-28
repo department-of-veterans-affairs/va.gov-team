@@ -48,4 +48,4 @@ While the standard recommendation would typically be to align with USWDS guidanc
 
 ### Future Considerations
 
-If and when usability issues are identified through user research or analytics that indicate problems with the current sign-in page design, those specific issues should be addressed with targeted solutions. Any future changes should be informed by veteran feedback and tested thoroughly before implementation.
+If and when usability issues are identified through user research or analytics that indicate problems with the current sign-in page design, those specific issues should be addressed with targeted solutions. Any future changes should be informed by Veteran feedback and tested thoroughly before implementation.
