@@ -83,7 +83,9 @@
 #### Go-to-market 
 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
-- (This section to be handled in partnership with the ICAM PMO - call setup in early 2026 to discuss)
+- Coordinate with application and knowledge teams to ensure all in-scope existing materials including Knowledge Articles consistently reference workflow updates for users, rather than the legacy workflow supported by AccessVA.
+- Deploy targeted workforce communications to VA enterprise, outlining key dates, user interface changes, and new access points to prepare internal stakeholders. Work with application teams to provide communication templates and materials to integrate in their own change management processes to best support the Veteran. Work with OCTO on Veteran population change management and communications for appropriate channels. 
+- Work with site owners to deploy visible site updates and other UX changes on impacted pages to share new and upcoming changes to their experience during the transition process.
 > *Which groups/orgs are necessary to make this happen?*
 - We are working with OCTO-Identity who is helping support this project. Because the page is a static page, the OCTO - Sitewide Content and IA Team will be building and updating the page.
 --- 
