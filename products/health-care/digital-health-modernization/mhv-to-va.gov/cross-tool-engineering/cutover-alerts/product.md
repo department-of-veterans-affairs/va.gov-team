@@ -10,7 +10,7 @@ Here's what it gives you:
 - **Facility-specific information** — Veterans at different facilities see relevant information for each one
 - **Centralized schedule management** — Migration dates are managed in one place; your app gets the updates without code changes
 
-**Important:** This system provides the scheduling data. Your team needs to integrate with it to show alerts or disable features based on the current phase.
+**Important:** This system provides the scheduling data. Your team needs to integrate with it to disable features based on the current phase.
 
 ---
 
@@ -35,9 +35,9 @@ When a Veteran logs in, the system checks if any of their facilities are in a mi
 
 ## Current Tool Configurations
 
-These tools have already integrated with the migration schedule system. They use the phase data to decide when to show warnings and when to disable features:
+These tools have already integrated with the migration schedule system. They use the phase data to decide when to alerts:
 
-| Tool | Shows Warning | Feature Disabled |
+| Tool | Shows Warning | Shows Error (tool should be disabled) |
 |------|--------------|------------------|
 | **Appointments** | 60 days out (p0) | 30 days out through p7 |
 | **Medical Records** | 45 days out (p1) | 3 days out through p6 |
@@ -98,6 +98,6 @@ If a migration takes longer than expected and extends beyond the p7 window, the 
 
 ## Questions?
 
-We're here to help. Reach out to us on the MHV Platform slack channel if you want to talk through phase configurations for your tool or need help getting started.
+Reach out to us on the MHV Platform slack channel if you want to talk through phase configurations for your tool or need help getting started.
 
-We value your feedback on this system. If something doesn't work well for your use case, let us know—we're still iterating on this.
+We value your feedback on this system. If something doesn't work well for your use case, let us know.
