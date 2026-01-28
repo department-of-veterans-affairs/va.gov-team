@@ -37,6 +37,9 @@ import CernerFacilityAlert from 'platform/mhv/components/CernerFacilityAlert';
 <CernerFacilityAlert healthTool="MEDICATIONS" />
 ```
 
+### 4. Usage Examples
+There are additional examples that describe [how to use the alerts in this comment](https://github.com/department-of-veterans-affairs/vets-website/blob/cd593eb3b26692754e1a3b0b9c1cb59341ca9c20/src/platform/mhv/components/CernerFacilityAlert/CernerFacilityAlert.jsx#L12-L45).
+
 ---
 
 ## Data Structure
