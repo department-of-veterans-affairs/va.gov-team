@@ -10,11 +10,11 @@ Sites reviewed included CBP.gov, SSA.gov, several state government websites, and
 
 ### Sign-In Options Across Government Sites
 
-| Category | Description |
-|----------|-------------|
-| **Single Sign-In Options** | Many government sites reviewed (including CBP.gov and SSA.gov) provided only a single sign-in option, which is not relevant to VA.gov since we have 2 CSPS. |
-| **Multiple Sign-In Options** | For sites offering multiple authentication methods, there was considerable variation in how these options were presented. The motivations behind different design decisions were difficult to discern from external review alone. |
-| **Sign-In vs. Create Account Placement** | There were marked inconsistencies in how sites handle "Sign In" and "Create Account" functionality; some sites separated these actions in the profile/login section (typically upper right corner) while others split the option on the sign in page itself.  No clear pattern emerged across government sites |
+| Category | Sites Visited | Description |
+|----------|-------------|-------------|
+| **Single Sign-In Options** | IRS, US Securities and Exchange, CBP, Federal Student Aid, Medicare, Kentucky Medicaid, Ohio DMV, Texas Tax Office | Many government sites reviewed (including CBP.gov and SSA.gov) provided only a single sign-in option, which is not relevant to VA.gov since we have 2 CSPS. |
+| **Multiple Sign-In Options** | Social Security Administration, USDA eAuthentication | For sites offering multiple authentication methods, there was considerable variation in how these options were presented. The motivations behind different design decisions were difficult to discern from external review alone. |
+| **Sign-In vs. Create Account Placement** | US Citizenship and Immigration, Federal Student Aid, US Digital Mint |There were marked inconsistencies in how sites handle "Sign In" and "Create Account" functionality; some sites separated these actions in the profile/login section (typically upper right corner) while others split the option on the sign in page itself.  No clear pattern emerged across government sites |
 
 ### USWDS Guidance
 
