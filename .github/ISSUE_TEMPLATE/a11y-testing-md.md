@@ -416,6 +416,7 @@ Complete all required checks and as many recommended checks as you can. If you c
 ### Report identified issues
 For any issues identified during your testing, please report them as part of your Staging Review. Note: the accessibility testing artifact should be completed when the product is ready for Staging Review (stable). If your team tracks issues in a different way, please provide that information as a comment on this ticket.
 - [ ] Log the issue using the [Accessibility issue template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-issue.yaml&assignees=jasonday&labels=a11y-testing&title=A11y+testing+finding%3A+%5Bshort+description%5D) filling in as much information as you are able.
+- [ ] Give the issue a clear and succinct title, including the checklist ID - e.g. "Sumnmary page Edit link is not descriptive [WEB-244]"
 - [ ] Assign to `jasonday` and add the `a11y-testing` label.
 - [ ] Add the created issue to the Collaboration Cycle milestone found in your collab cycle ticket.
 - [ ] Provide a link to each issue logged in a comment on this ticket.
