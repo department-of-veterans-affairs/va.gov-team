@@ -2,6 +2,72 @@
 
 - Current Sprint first
 
+## 📆 Sprint 13 (Jan 28 – Feb 10) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Sprint Goal summary
+- [ ] **SPRINT GOAL** 10-7959c: Launch OHI Standalone New PDF Updates
+- [ ] **SPRINT GOAL** All Forms: Improve visibility into missing status emails and reduce alert fatigue from recovery monitors
+- [ ] **SPRINT GOAL** 10-7959c: Begin Discovery for OHI Ingest into VES (dependent on VES team)
+- [ ] **SPRINT GOAL** All Forms: Audit SLO compliance and move pdf conversion to upload (improve submit latency)
+- [ ] **SPRINT GOAL** 10-10d,10-7959a, 10-7959c: Update QA Standards for ChampVA Forms
+- [ ] **SPRINT GOAL** UX - 10-10d: Kick off Tricare Study
+- [ ] **SPRINT GOAL** UX - All Forms: Monthly Metrics and Medallia Report
+- [ ] **STRETCH GOAL** UX - Power of Attorney Discovery
+- [ ] **STRETCH  GOAL** 10-7959f-1, 10-7959f-2: Update QA Standards for FMP Forms
+- [ ] **STRETCH  GOAL** 10-10D: Stop sending original 10-10d JSON to DocMP/Pega
+ 
+
+
+##
+### 10-10d
+- [ ] **SPRINT GOAL** 10-10d,10-7959a, 10-7959c: Update QA Standards for ChampVA Forms
+- [ ] **SPRINT GOAL** UX - 10-10d: Kick off Tricare Study
+
+
+
+##
+### 10-7959a
+- [ ] **SPRINT GOAL** 10-10d,10-7959a, 10-7959c: Update QA Standards for ChampVA Forms
+
+## 
+### 10-7959c
+- [ ] **SPRINT GOAL** 10-7959c: Launch OHI Standalone New PDF Updates
+- [ ] **SPRINT GOAL** 10-7959c: Begin Discovery for OHI Ingest into VES (dependent on VES team)
+- [ ] **SPRINT GOAL** 10-10d,10-7959a, 10-7959c: Update QA Standards for ChampVA Forms
+
+
+
+
+## 
+### 10-7959f-1 FMP Enrollment
+- No work this sprint
+
+
+##
+### 10-7959f-2 FMP Claims
+     
+
+##
+### All forms or Tech Debt
+- [ ] **SPRINT GOAL** All Forms: Improve visibility into missing status emails and reduce alert fatigue from recovery monitors
+- [ ] **SPRINT GOAL** All Forms: Audit SLO compliance and move pdf conversion to upload (improve submit latency)
+- [ ] **SPRINT GOAL** UX - All Forms: Monthly Metrics and Medallia Report
+
+
+
+## 
+### STRETCH GOALS
+- [ ] **STRETCH GOAL** UX - Power of Attorney Discovery
+- [ ] **STRETCH  GOAL** 10-7959f-1, 10-7959f-2: Update QA Standards for FMP Forms
+- [ ] **STRETCH  GOAL** 10-10D: Stop sending original 10-10d JSON to DocMP/Pega
+  
+##
+### WHAT'S NEXT
+- **FE**
+- **UX**
+- **BE**
+
 ## 📆 Sprint 12 (Jan 14 – Jan 27) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
