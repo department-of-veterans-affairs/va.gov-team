@@ -334,7 +334,7 @@ This is usually due to the fact that you do not have the latest `vets-api-mockda
   ```yaml
   # settings.local.yml
   betamocks:
-    cache_dir: ../vets-api-mockdata
+    cache_dir: ../vets-api-mockdata # or "../cache" for docker setups
   ```
 ### Issue: Receiving an invalid client_id error
 This error could be due to the Sign in Service client config for Mocked Authentication missing from your database.
