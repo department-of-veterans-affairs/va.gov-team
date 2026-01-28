@@ -22,7 +22,7 @@ The U.S. Web Design System recommends separating "Sign In" from "Create an Accou
 
 ### VA.gov Context and Recent History
 
-- **Pre-CSP Deprecation Decision**: VA.gov made a deliberate decision to combine "Sign In" and "Create an Account" under one section to reduce cognitive load and minimize confusion for Veterans.
+- **CSP Deprecation Transition Decision**: VA.gov made a deliberate decision to combine "Sign In" and "Create an Account" under one section to reduce cognitive load and minimize confusion for Veterans during the CSP deprecation phase when extra content was needed on the page to explain what was happening.
 
 - **Recent Changes**: The positioning of ID.me and Login.gov was recently switched on the sign-in page, which created confusion among users, as reported by MHV coordinators.
 
