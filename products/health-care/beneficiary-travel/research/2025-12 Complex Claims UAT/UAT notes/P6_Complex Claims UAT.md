@@ -48,7 +48,7 @@ Intro
 
 * Looks like the travel reimbursement link, tells me each step to be able to submit it
 * There is a notification to set up direct deposit - issue with toggle, seeing old version (and also he does have direct deposit set up)
-* Started actual call 30 minutes in due to toggle and login issues
+* Started actual call 30 minutes in due to toggle and login issues (18:55 in the recording)
 
 
 ---
