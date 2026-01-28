@@ -34,7 +34,7 @@ The U.S. Web Design System recommends separating "Sign In" from "Create an Accou
 
 While the standard recommendation would typically be to align with USWDS guidance and separate "Sign In" from "Create an Account," the following factors support maintaining the current approach:
 
-1. **Existing Strategic Decision**: The decision to combine sign-in and account creation was made intentionally to reduce cognitive load for Veterans and should be respected.
+1. **Existing Strategic Decision**: The decision to combine sign-in and account creation was made intentionally to reduce cognitive load for Veterans during the transition; since this change was made recently, we should not revert changes that Veterans are now familiar with.
 
 2. **Recent Change Fatigue**: Veterans have experienced substantial disruption due to:
    - Deprecation of two credential service providers
