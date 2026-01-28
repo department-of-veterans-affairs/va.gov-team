@@ -48,20 +48,20 @@
 
 
 ---
-## 📆 Sprint 13 (Jan 28 - Feb 10) (PREPLANNED)
+## 📆 Sprint 13 (Jan 28 - Feb 10)
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Sprint Goal summary
 - The goal for Sprint 13 is to get the EZR Service History connection up and running.
 
 #### List of Planned work
+- EZR Bug
+     - [ ] Fix schema validation errors (Ins info missing in array builder)
 - [ ] EZR Service History
      - [ ] Determine how to connect with existing VA Profile integration
      - [ ] Create connection call to pull service history data
      - [ ] Content for error state
      - [ ] Content update on file upload page
-- EZR Bug
-     - [ ] Fix schema validation errors (Ins info missing in array builder) **NEED TICKET**
 - [ ] EZR Update Source of Truth designs for Household sections
 - [ ] EZ Form status
      - [ ] EZ Update designs for Intro Page alerts on "pending" statuses
@@ -78,6 +78,9 @@
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [ ] **SPRINT GOAL** [#121080](https://github.com/department-of-veterans-affairs/va.gov-team/issues/121080) - [UX] Update EZR SOT for Household sections
 
+#### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **CRITICAL** [#131293](https://github.com/department-of-veterans-affairs/va.gov-team/issues/131293) - [FE] Modify existing Insurance custom components to resolve schema validation errors
+
 ##
 ### 10-10EZ
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
@@ -93,6 +96,7 @@
 
 ##
 ### Team PTO
+- Andrea: 1/30 half-day
 - Heather: 2/3
 
 ---
@@ -114,7 +118,7 @@
      - [x] EZR Service History add checkbox page
      - [x] EZR Service History add yes/no question page (UI only)
 - EZR Bug
-     - [ ] Investigate schema validation errors (Ins info missing in array builder)
+     - [x] Investigate schema validation errors (Ins info missing in array builder)
 - CG Bug
      - [x] Investigate & Fix 400 facilities errors
 
@@ -136,7 +140,7 @@
 
 #### Obj: EZR [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [x] **SPRINT GOAL** [#129204](https://github.com/department-of-veterans-affairs/va.gov-team/issues/129204) - [UX] Review EZR for additional improvement opportunities
-- [ ] **CRITICAL** [#130818](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130818) - [FE] Investigate schema validation errors (missing insurance info on prefill)
+- [x] **CRITICAL** [#130818](https://github.com/department-of-veterans-affairs/va.gov-team/issues/130818) - [FE] Investigate schema validation errors (missing insurance info on prefill)
 
 ##
 ### 10-10EZ
