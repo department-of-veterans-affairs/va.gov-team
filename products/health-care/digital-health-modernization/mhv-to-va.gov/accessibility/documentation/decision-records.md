@@ -44,7 +44,7 @@ Do not provide alternative text for icons in Action Links. Instead, put the acti
 
 ### Links to Supporting Resources
 
-When providing linked resources to support users in completing a task or process, open the linked resource in a new tab. Otherwise, open links in the same window.
+When providing linked resources to support users in completing a task or process, open the linked resource in a new tab. Otherwise, open links in the same tab.
 
 -  **Rationale:** “Open links in the same window, with exceptions. Links on VA.gov should open in a new tab only if clicking the link will cause the user to lose progress or data. This should be avoided when possible. In all other cases, links should open in the same window.” Excerpted from VADS [behavior guidance on the Link component](https://design.va.gov/components/link/#behavior)
 - **Relevant standards:** WCAG: [SC 3.2.2 On Input (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/on-input): Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.
