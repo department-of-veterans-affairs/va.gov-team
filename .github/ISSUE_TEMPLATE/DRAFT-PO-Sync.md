@@ -9,7 +9,7 @@ labels: collaboration-cycle
 
 The [PO Sync touchpoint](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/po-sync) is a synchronous half-hour discussion that provides OCTO-DE and Platform with an early understanding of the purpose and vision behind your team’s proposed work.
 
-**Note:** PO Sync is required only for OCTO and VES teams. Non-OCTO and non-VES teams are welcome to participate if they choose.
+**Note:** PO Sync is required only for OCTO and VES teams. 
 
 ## Before the meeting
 
@@ -39,7 +39,7 @@ Optional:
 
 ## After the meeting
 
-### OCTO design leads: Follow up
+### OCTO-DE Practice Area design leads: Follow up
 - [ ] If the initiative receives OCTO alignment to proceed, add the `PO-Sync-approved` label to this ticket.
 - [ ] If the initiative does not receive OCTO alignment to proceed, comment and close this ticket.
 
