@@ -7,6 +7,17 @@ Launch Date: 12/19/2025
 - Google Analytics: [BIO-HEART Form Metrics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/63Ngko26SZO0TupVarOq4A) *requires VA network
 - Individual Submission Tracker: [21P-0601 Post-Go-Live Submission Tracker.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team/raw/refs/heads/master/teams/benefits-portfolio/benefits-intake-optimization/post-go-live/21p-601/21P-601%20Post-Go-Live%20Submission%20Tracker.xlsx)
 
+### Submission Stats
+Expected Annual Submission: 3790  
+| Date     | # Week | Total | % of Year |
+|----------|--------|-------|-----------|
+| 12/23/25 | 0      | 0     |           |
+| 12/30/25 | 0      | 0     |           |
+| 01/06/26 | 0      | 0     |           |
+| 01/13/26 | 1      | 1     | 0.0%      |
+| 01/20/26 | 4      | 5     | 0.1%      |
+| 01/27/26 | 0      | 5     | 0.1%      |
+
 ## Post-MVP Enhancements
 | Enhancement | Description | Category | Layer | Status | SME Testing | Story | PR | Merged Date | Prod Date |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
