@@ -1,0 +1,45 @@
+name: Add ADE MHV labeled issues to MHV - Accessibility project
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  add_to_mhv_project:
+    if: github.event.label.name == 'ADE MHV'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Add issue to MHV - Accessibility project (Projects v2)
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.PROJECTS_RW_TOKEN }}
+          script: |
+            const projectId = process.env.MHV_PROJECT_ID;
+            const contentId = context.payload.issue.node_id;
+
+            const mutation = `
+              mutation($projectId: ID!, $contentId: ID!) {
+                addProjectV2ItemById(input: { projectId: $projectId, contentId: $contentId }) {
+                  item { id }
+                }
+              }
+            `;
+
+            try {
+              const result = await github.graphql(mutation, { projectId, contentId });
+              core.info(`Added issue to MHV project. New item id: ${result.addProjectV2ItemById.item.id}`);
+            } catch (err) {
+              const msg = String(err);
+              if (msg.includes("already") || msg.includes("exists")) {
+                core.info("Issue already appears to be on the MHV project; continuing.");
+              } else {
+                throw err;
+              }
+            }
+        env:
+          MHV_PROJECT_ID: ${{ vars.MHV_ACCESSIBILITY_PROJECT_ID }}
