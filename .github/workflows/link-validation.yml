@@ -23,20 +23,26 @@ jobs:
         run: |
           set -euo pipefail
 
-          BASE_SHA="${{ github.event.pull_request.base.sha }}"
+          BASE_REF="${{ github.event.pull_request.base.ref }}"
           HEAD_SHA="${{ github.event.pull_request.head.sha }}"
 
-          git fetch --no-tags --depth=50 origin "$BASE_SHA"
-          git fetch --no-tags --depth=50 origin "$HEAD_SHA"
+          git fetch --no-tags --depth=200 origin "${BASE_REF}:${BASE_REF}"
+          git fetch --no-tags --depth=200 origin "$HEAD_SHA"
 
       - name: Build changed-files list
         shell: bash
         run: |
           set -euo pipefail
 
-          BASE_SHA="${{ github.event.pull_request.base.sha }}"
-          HEAD_SHA="${{ github.event.pull_request.head.sha }}"
-          MERGE_BASE="$(git merge-base "$BASE_SHA" "$HEAD_SHA")"
+          MERGE_BASE="$(git merge-base "$BASE_REF" "$HEAD_SHA" || true)"
+          if [[ -z "$MERGE_BASE" ]]; then
+            echo "::error::merge-base not found (history likely too shallow)."
+            echo "BASE_REF=$BASE_REF"
+            echo "HEAD_SHA=$HEAD_SHA"
+            git rev-parse --verify "refs/heads/$BASE_REF" || true
+            git rev-parse --verify "$HEAD_SHA^{commit}" || true
+            exit 1
+          fi
           echo "Merge base: $MERGE_BASE"
 
           git diff --name-only --diff-filter=ACMRT "$MERGE_BASE" "$HEAD_SHA" \
