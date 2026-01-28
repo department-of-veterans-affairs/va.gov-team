@@ -42,7 +42,6 @@ import CernerFacilityAlert from 'platform/mhv/components/CernerFacilityAlert';
 ## Data Structure
 
 ```javascript
-// EXAMPLE
 // state.user.profile.migrationSchedules
 [{
   migrationDate: "March 3, 2026",
@@ -66,22 +65,74 @@ import CernerFacilityAlert from 'platform/mhv/components/CernerFacilityAlert';
 
 ---
 
-## Reference: Current Tool Configurations
+## Reference: Web Tool Configurations
+
+Phase-to-alert mappings for web are defined in `src/platform/mhv/components/CernerFacilityAlert/constants.js`:
 
 | Tool | Warning Phases | Disabled Phases |
 |------|---------------|-----------------|
-| Appointments | p0, p1 | p2-p7 |
-| Medical Records | p1, p2, p3 | p4, p5, p6 |
-| Medications | p1, p2, p3 | p4, p5, p6 |
-| Secure Messaging | p1, p2 | p3-p6 |
+| Appointments | p0, p1 | p2-p6 |
+| Medical Records | p1-p4 | p5 |
+| Medications | p1-p3 | p4, p5 |
+| Secure Messaging | p1, p2 | p3-p5 |
 
 ---
+## Mobile App Integration
 
+The VA Health and Benefits mobile app uses the same migration schedule data, but accesses it through a different endpoint.
+
+### Data Source
+
+Mobile gets migration data from `/v0/user/authorized-services` in the `meta` payload:
+
+```typescript
+// authorizedServices.migratingFacilitiesList
+[{
+  migrationDate: "2026-04-01",
+  facilities: [{ facilityId: 528, facilityName: "Test VA Medical Center" }],
+  phases: {
+    current: "p5",
+    p0: "February 1, 2026",
+    p1: "February 15, 2026",
+    // ... p2-p7
+  }
+}]
+```
+
+### Using OHAlertManager
+
+The mobile app provides an `OHAlertManager` component that handles alert rendering:
+
+```tsx
+import { OHAlertManager, OHParentScreens } from 'components'
+
+<OHAlertManager
+  parentScreen={OHParentScreens.Medications}
+  authorizedServices={authorizedServices}
+/>
+```
+
+Available screens: `Appointments`, `SecureMessaging`, `MedicalRecords`, `Medications`
+
+### Mobile Phase Configuration
+
+Mobile has its own phase-to-alert mappings (defined in `OHAlertManager.tsx`):
+
+| Screen | Warning Phases | Error Phases | End Date |
+|--------|---------------|--------------|----------|
+| Appointments | p0, p1 | p2-p6 | p7 |
+| Secure Messaging | p1, p2 | p3-p5 | p6 |
+| Medical Records | p1-p4 | p5 | p6 |
+| Medications | p1-p3 | p4, p5 | p6 |
+
+---
 ## Testing
 
 We have mock data set up for you:
 
 - **Frontend mocks:** `src/platform/mhv/api/mocks/user/index.js` — look for `transitioningUser`
 - **Backend specs:** `spec/lib/mhv/oh_facilities_helper/service_spec.rb`
+- **Mobile mocks:** `VAMobile/src/store/api/demo/mocks/kimberlyForOHMigration/getAuthorizedServices.json`
+- **Mobile tests:** `VAMobile/src/components/OHAlertManager.test.tsx`
 
 If you run into issues or have questions, reach out to us in the MHV Platform slack channel. We're happy to help you get set up.
