@@ -68,4 +68,4 @@ Each tool team determines appropriate warning and disable phases based on their 
 
 ## Questions?
 
-Reach out to the MHV Platform team if you have questions about coverage, timelines, or adding new tools to this system.
+Reach out to the [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) slack channel if you have questions.
