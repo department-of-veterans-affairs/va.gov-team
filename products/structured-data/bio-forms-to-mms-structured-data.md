@@ -29,7 +29,10 @@ PR: https://github.com/department-of-veterans-affairs/vsp-platform-fwdproxy/pull
 3. fwdproxy attaches the correct mTLS certificate bundle
 4. The request is forwarded to GovCIO’s API endpoint
 5. GovCIO verifies the client certificate and processes the request
-## Environment Mapping
+
+## [VBA Data Dictionaries](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/docs/VBA_Data_Dictionaries)
+   
+## GCIO to downstream systems Environment Mapping
 1. dev
     1. corpDB - WebTest
     2. mpi - DEV/INT
