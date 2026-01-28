@@ -2,7 +2,7 @@
 
 ## Phase 1 Dark Deploy
 
-> Target date is Monday, Jan 26th
+> Target date is Wednesday, Jan 28th
 
 | project | toggle                                    | blockers | notes                                     |
 | ------- | ----------------------------------------- | -------- | ----------------------------------------- |
